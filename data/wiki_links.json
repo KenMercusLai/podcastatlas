@@ -2267,6 +2267,10 @@
     "title": "American Sports Capital In European Football",
     "url": "/wiki/concepts/americansportscapitalineuropeanfootball/"
   },
+  "AmirRashidi": {
+    "title": "Amir Rashidi",
+    "url": "/wiki/entities/amirrashidi/"
+  },
   "AmjadMasad": {
     "title": "Amjad Masad",
     "url": "/wiki/entities/amjadmasad/"
@@ -7127,6 +7131,14 @@
     "title": "Domestic AI Relations",
     "url": "/wiki/concepts/domesticairelations/"
   },
+  "DomesticNetworkSovereignty": {
+    "title": "Domestic Network Sovereignty",
+    "url": "/wiki/concepts/domesticnetworksovereignty/"
+  },
+  "DomesticServiceCensorship": {
+    "title": "Domestic Service Censorship",
+    "url": "/wiki/concepts/domesticservicecensorship/"
+  },
   "DomesticViolencePetCoercion": {
     "title": "Domestic Violence Pet Coercion",
     "url": "/wiki/concepts/domesticviolencepetcoercion/"
@@ -11723,6 +11735,10 @@
     "title": "International Hotel",
     "url": "/wiki/entities/internationalhotel/"
   },
+  "InternetBlackoutPublicSafetyRisk": {
+    "title": "Internet Blackout Public-Safety Risk",
+    "url": "/wiki/concepts/internetblackoutpublicsafetyrisk/"
+  },
   "InternetHealthcare": {
     "title": "Internet Healthcare",
     "url": "/wiki/concepts/internethealthcare/"
@@ -14511,6 +14527,10 @@
     "title": "Mahesh Balakrishnan",
     "url": "/wiki/entities/maheshbalakrishnan/"
   },
+  "MahsaAlert": {
+    "title": "Mahsa Alert",
+    "url": "/wiki/entities/mahsaalert/"
+  },
   "Maidisen": {
     "title": "麦迪森",
     "url": "/wiki/entities/maidisen/"
@@ -15307,6 +15327,10 @@
     "title": "Miami",
     "url": "/wiki/entities/miami/"
   },
+  "MianGroup": {
+    "title": "Mian Group",
+    "url": "/wiki/entities/miangroup/"
+  },
   "Mianji": {
     "title": "面基",
     "url": "/wiki/entities/mianji/"
@@ -16094,6 +16118,10 @@
   "NationalInformaticsCentre": {
     "title": "National Informatics Centre",
     "url": "/wiki/entities/nationalinformaticscentre/"
+  },
+  "NationalInformationNetwork": {
+    "title": "National Information Network",
+    "url": "/wiki/entities/nationalinformationnetwork/"
   },
   "NationalPopularVoteInterstateCompact": {
     "title": "National Popular Vote Interstate Compact",
@@ -26802,6 +26830,10 @@
   "tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128": {
     "title": "Meta and Youtube held liable for their addictive products",
     "url": "/wiki/sources/tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128/"
+  },
+  "tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128": {
+    "title": "34 days without internet in Iran",
+    "url": "/wiki/sources/tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128/"
   },
   "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128": {
     "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [34 days without internet in Iran](sources/tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128.md) — Marketplace Tech episode with Amir Rashidi on Iran's wartime internet blackout, the National Information Network, domestic-service censorship, Mahsa Alert, and public-safety risk from blocked global connectivity.
 - [Meta and Youtube held liable for their addictive products](sources/tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128.md) — Marketplace Tech episode with Eric Goldman on Meta and YouTube child-safety verdicts, New Mexico's Meta verdict, bellwether trials, Section 230 design workarounds, and First Amendment appeal risks.
 - [Too much AI in the office is causing "brain fry"](sources/tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128.md) — Marketplace Tech episode with Matt Krop of BCG on AI brain fry, cognitive exhaustion from supervising AI tools, morale risk, AI use pacing, and work redesign around repetitive toil rather than high-cognitive oversight.
 - [MLB brings automated ball-strike tech to the Big Leagues](sources/tech-20260330-0330-mp-tech-pod-128-tech-20260330-0330-mp-tech-pod-128.md) — Marketplace Tech episode on MLB's Automated Ball Strike Challenge System, Hawkeye tracking, strike-zone calibration, umpire fallback, fan trust, and sports officiating automation.
@@ -615,6 +616,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Amir Rashidi](entities/AmirRashidi.md) — Mian Group expert explaining Iran's wartime internet blackout, the National Information Network, and the public-safety limits of domestic-only connectivity.
+- [Mian Group](entities/MianGroup.md) — Digital-rights organization associated with Amir Rashidi in the Marketplace Tech episode on Iran's internet blackout.
+- [National Information Network](entities/NationalInformationNetwork.md) — Iran's domestic network, described as keeping approved local services available while blocking global internet access during the blackout.
+- [Mahsa Alert](entities/MahsaAlert.md) — Internet-freedom alerting app discussed as a useful but access-dependent workaround during Iran's blackout.
 - [Matt Krop](entities/MattKrop.md) — BCG managing director and senior partner explaining AI brain fry, workplace AI supervision fatigue, and work redesign around toil versus high-cognitive oversight.
 - [Nola Agha](entities/NolaAgha.md) — University of San Francisco sports management professor explaining MLB's ABS challenge system and baseball strike-zone automation.
 - [University of San Francisco](entities/UniversityOfSanFrancisco.md) — Academic affiliation for Nola Agha in the Marketplace Tech episode on MLB ball-strike automation.
@@ -4154,6 +4159,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Domestic Network Sovereignty](concepts/DomesticNetworkSovereignty.md) — State pattern of preserving approved domestic digital services while cutting or filtering access to the global internet.
+- [Domestic Service Censorship](concepts/DomesticServiceCensorship.md) — Censorship embedded inside local state-approved apps, search, and services rather than only at the foreign-platform boundary.
+- [Internet Blackout Public-Safety Risk](concepts/InternetBlackoutPublicSafetyRisk.md) — Civilian and emergency-service harm caused when internet shutdowns block medical access, alerts, police checks, and coordination.
 - [AI Brain Fry](concepts/AIBrainFry.md) — Cognitive exhaustion from supervising AI tools, especially when fast parallel agents turn workers into constant high-cognitive reviewers.
 - [Baseball Strike-Zone Automation](concepts/BaseballStrikeZoneAutomation.md) — Translation of baseball's strike zone into camera tracking, player-specific calibration, and review procedure.
 - [Sports Officiating Automation](concepts/SportsOfficiatingAutomation.md) — Use of tracking, replay, and review systems to improve sports officiating credibility while preserving or redefining human authority.

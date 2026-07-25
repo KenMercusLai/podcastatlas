@@ -4923,3 +4923,11 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-07-25] ingest | Meta and Youtube held liable for their addictive products
 
 Added source page for a Marketplace Tech episode with Eric Goldman on Meta and YouTube child-safety verdicts, the New Mexico Meta verdict, bellwether platform trials, Section 230 design workarounds, and possible First Amendment platform defenses on appeal. Created pages for Santa Clara University, High Tech Law Institute, New Mexico, Bellwether Platform Trials, Section 230 Design Workaround, and Platform First Amendment Defense; updated overview, index, Marketplace Tech, Eric Goldman, Meta, YouTube, Social Media Product Liability, Platform Legal Causation, Section 230, State AG Platform Litigation, and Internet Liability Spillover. No direct contradiction found; the source extends the March 27 verdict discussion by showing that jury acceptance of platform responsibility is a litigation signal, while appellate Section 230 and constitutional arguments may still narrow or undo the verdict path.
+
+## [2026-07-25] ingest | 34 days without internet in Iran
+
+Added source page for a Marketplace Tech episode with Amir Rashidi of Mian Group on Iran's wartime internet blackout, the National Information Network, domestic-service censorship, Mahsa Alert, and public-safety risks from blocked global connectivity. Created pages for Amir Rashidi, Mian Group, National Information Network, Mahsa Alert, Domestic Network Sovereignty, Domestic Service Censorship, and Internet Blackout Public-Safety Risk; updated overview, index, Iran, Marketplace Tech, Megan McCarty-Corino, and Digital Infrastructure War Risk. No direct contradiction found; the source qualifies simple blackout language by showing selective partitioning where approved domestic services can remain online while global news, social media, alerting tools, and some emergency-service functions fail.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

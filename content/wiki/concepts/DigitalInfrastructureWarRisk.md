@@ -2,8 +2,8 @@
 title: "Digital Infrastructure War Risk"
 type: concept
 tags: [infrastructure, geopolitics, cloud, ai]
-sources: [chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
-last_updated: 2026-07-08
+sources: [chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # Digital Infrastructure War Risk
@@ -12,12 +12,15 @@ Digital infrastructure war risk is the possibility that data centers, submarine 
 
 The concept extends the wiki's existing [[SaaSReliabilityUnderPolicyRisk]] thread. Policy can interrupt access to AI or SaaS services, but physical conflict can interrupt the underlying places where tokens, storage, routing, payment, messaging, and business workflows run.
 
+[[tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128]] adds the deliberate partition version. [[AmirRashidi]] describes [[Iran]]'s wartime blackout as leaving the [[NationalInformationNetwork|National Information Network]] available while blocking global internet access, so digital infrastructure war risk can come from state routing and access control as well as from destroyed data centers, cables, or power systems.
+
 ## Key Claims
 - Digital infrastructure has become basic social and commercial infrastructure, so disruption can affect communication, finance, work, and AI-assisted production.
 - Data centers are visible in practice because large buildings, power demand, network links, and satellite imagery make them hard to hide.
 - The more AI compute becomes production capacity, the more [[AIComputeContinuity]] resembles factory, power-grid, or logistics continuity.
 - War risk is different from ordinary outage risk because staff access, spare parts, flights, insurance, and repeated targeting can all break recovery assumptions.
 - Central regional hubs can be both good business locations and exposed geopolitical nodes.
+- A domestic network can keep selected local services operating while global news, social media, alerting, and some emergency-service functions fail.
 
 ## Connections
 - [[DataCenterPhysicalResilience]] — facility-level resilience against attack and recovery constraints.
@@ -26,3 +29,4 @@ The concept extends the wiki's existing [[SaaSReliabilityUnderPolicyRisk]] threa
 - [[AsymmetricInfrastructureAttack]] — low-cost attacks against high-value infrastructure.
 - [[MaaSInfrastructure]] and [[AIComputeContinuity]] — AI serving capacity as a physical dependency.
 - [[SaaSReliabilityUnderPolicyRisk]] — related cloud reliability risk from access, policy, and geopolitics.
+- [[DomesticNetworkSovereignty]], [[DomesticServiceCensorship]], and [[InternetBlackoutPublicSafetyRisk]] — deliberate network partitioning and civilian consequences added by the Iran blackout source.
