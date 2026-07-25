@@ -4276,6 +4276,10 @@ Added source page for a 蜜獾吃书 episode on 罗翔《法律的悖论》, cov
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-25] ingest | A historic home tour of the virtual world
+
+Added source page for a Marketplace Tech episode on Equinix's historic Palo Alto data center, the 1929 Pacific Telephone and Telegraph building, AltaVista, PAIX, colocation, neutral internet exchange points, and the physical interconnection layer behind cloud and AI traffic. Created pages for Equinix, Eddie Espinosa, Pacific Telephone and Telegraph, AltaVista, Palo Alto Internet Exchange, Colocation Data Center, and Neutral Internet Exchange; updated overview, index, Marketplace Tech, and Strategic AI Infrastructure Dependence. No direct contradiction found; the source extends the AI-infrastructure branch by adding network interconnection and site history alongside existing chip, power, finance, and memory constraints.
+
 ## [2026-07-24] ingest | BOOKstore Economics
 
 Added source page for a Planet Money episode on bookstore buying, the Planet Money book's retail path, Carmichael's shelf-space and display decisions, W. W. Norton's trade-sales and print-run strategy, book returnability, remaindering, pulping, and launch-day placement at McNally Jackson. Created pages for Fisher Nash, Carmichael's Bookstore, Stephen Pace, Planet Money Book, McNally Jackson, Bookstore Buying, Book Returnability, and Book Print-Run Strategy; updated overview, index, NPR, Planet Money, Alexi Horowitz-Ghazi, Alex Goldmark, Tom Mayer, W. W. Norton, Book Publishing Economics, Publishing Portfolio Risk, Author Platform Risk Reduction, and Retail Shelf Placement. No direct contradiction found; the source extends the earlier book-auction branch by showing that acquisition and platform proof still have to pass through retailer order quantities, display categories, return economics, and launch inventory risk.
@@ -4879,3 +4883,7 @@ Added source page for a Planet Money episode adapted from Business History on Cu
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 6,790 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes while lint scanned 6,790 pages, so graph findings are advisory until `build graph` refreshes it; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
