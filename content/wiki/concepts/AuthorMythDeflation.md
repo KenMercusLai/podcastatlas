@@ -2,13 +2,15 @@
 title: "Author Myth Deflation"
 type: concept
 tags: [literature, biography, canon, interpretation]
-sources: [135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818, shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314]
+sources: [10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818, shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314]
 last_updated: 2026-07-24
 ---
 
 # Author Myth Deflation
 
 Author myth deflation is the practice of bringing canonical writers down from a saintly or purely monumental image without reducing them to scandal alone. In [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]], [[MihuanChishu|蜜獾吃书]] repeatedly shows that great writers can be brilliant and ridiculous, courageous and vain, politically perceptive and politically foolish, morally intense and harmful to people nearby.
+
+[[10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195]] adds a second [[OscarWilde|Wilde]] pass where deflation does not mean reducing him to scandal. The episode keeps imprisonment, [[AlfredDouglas|波西]], poverty, and social celebrity visible while also restoring the writerly mechanics of [[WildeStrangeStories|《王尔德奇异故事集》]]: aphorism, [[LifeImitatesArt]], [[ArtAgainstMoralInstruction]], and comic inversion.
 
 [[105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]] adds a positive-myth version through [[SuShi|苏轼 / 苏东坡]]. The source does not deflate Su Shi by scandalizing him; it deflates the inspirational "forever relaxed" image by restoring fear, bluntness, poor caution, appetite, grief, imprisonment, factional pressure, and practical government work.
 
@@ -45,8 +47,10 @@ The episode's value is partly emotional. By showing canonical writers as embodie
 - An inspirational author myth may need deflation when it turns hard-won resilience into simple cheerfulness and hides political risk, fear, and public labor.
 - A philosophical author myth may need deflation when followers turn the writer into a doctrine symbol and ignore contradictions between ideas, conduct, and later political use.
 - An early-death poet myth may need deflation when youth and sensitivity hide money, credentials, family burden, friendship damage, and political pressure.
+- A scandal-heavy author myth may need a second deflation when scandal itself starts hiding craft, humor, aesthetic method, and story structure.
 
 ## Connections
+- [[10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195]], [[OscarWilde]], [[WildeStrangeStories|《王尔德奇异故事集》]], and [[ArtAgainstMoralInstruction]] - episode 10's Wilde craft extension.
 - [[LiteraryGossipAsContext]] - method for handling biographical anecdotes with uncertainty.
 - [[JDSalinger|J. D. Salinger / 塞林格]], [[TheCatcherInTheRye|《麦田里的守望者》]], [[OonaONeill|Oona O'Neill]], and [[CharlieChaplin|Charlie Chaplin / 卓别林]] - episode 01's Salinger and author-image branch.
 - [[LewisCarroll]], [[AliceLiddell]], and [[AliceInWonderland]] - episode 179 case where author myth deflation requires caution rather than certainty.

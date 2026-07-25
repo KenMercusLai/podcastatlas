@@ -5095,3 +5095,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-25] lint | Wiki health check
 
 Ran lint after health passed. Scanned 7,027 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because the fallback model was unqualified (`claude-3-5-sonnet-latest`) and `LLM_MODEL` was not set to a provider-qualified model. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-25] ingest | 10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使
+
+Added source page for a 蜜獾吃书 episode with translator 菲比 on Oscar Wilde, 《王尔德奇异故事集》, 《自深深处》, Lord Alfred Douglas, social performance, life imitating art, art against moral instruction, and stories including 《阿瑟·萨维尔勋爵的罪行》, 《W.H.先生的画像》, and 《坎特维尔的幽灵》. Created pages for the Wilde story collection, major Wilde stories/works, Alfred Douglas, Andre Gide, Life Imitates Art, Art Against Moral Instruction, Fictional Evidence Seduction, and Black Comic Moral Inversion; updated overview, index, Wilde, 菲比, Shakespeare, 蜜獾吃书, 秦总, 北明, and related reading-concept pages. No direct contradiction found; the source extends the existing Wilde gossip branch into story-level craft, translation, and aesthetic theory.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

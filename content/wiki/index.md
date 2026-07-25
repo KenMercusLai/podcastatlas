@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使](sources/10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195.md) — 蜜獾吃书 episode with translator 菲比 on Oscar Wilde, 《王尔德奇异故事集》, 《自深深处》, Lord Alfred Douglas, life imitating art, art against moral instruction, black comedy, forged evidence, and stories including 《阿瑟·萨维尔勋爵的罪行》, 《W.H.先生的画像》, and 《坎特维尔的幽灵》.
 - [sp.01 宇宙：卡尔·萨根的星辰大海和人类梦想](sources/sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074.md) — 蜜獾吃书 episode on Carl Sagan, 《宇宙》, 《接触》, humanistic science communication, SETI, the Voyager golden record, nuclear winter, and open extraterrestrial civilization imagination.
 - [09.阿特拉斯耸耸肩：安兰德只是爽文作家吗？](sources/09-atelasi-songsongjian-anlande-zhishi-shuangwen-zuojia-ma-543277898.md) — 蜜獾吃书 episode on Ayn Rand, 《源泉》, 《阿特拉斯耸耸肩》, creator/parasite moral drama, entrepreneur strike myth, anti-altruist moral coercion, and cautious reading of Objectivism.
 - [08.老妓抄：老妓不死，甚至不曾凋零](sources/08-laojichao-laoji-busi-shenzhi-buzeng-diaoling-541092994.md) — 蜜獾吃书 episode on 冈本加乃子's 《老妓抄》, her biography, Buddhist-inflected life force, subtle plot, gendered patronage inversion, and stories including 《鲤鱼》, 《蝙蝠》, 《仲夏夜之梦》, 《老妓抄》, 《五妓》, 《寿司》, and 《东海道》.
@@ -2287,7 +2288,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jürgen Habermas / 哈贝马斯](entities/JurgenHabermas.md) — Public-sphere theorist used as the episode's foil for thinking about sensational, emotional publicness.
 - [《平面国》 / Flatland](entities/Flatland.md) — Edwin Abbott classic read by episode 40 as mathematical science fiction, social satire, dimensional allegory, and a publishing/translation case.
 - [Edwin A. Abbott / 爱德温·爱伯特](entities/EdwinAbbott.md) — Author of 《平面国》, framed by episode 40 through mathematics, theology, satire, and author-character separation.
-- [菲比](entities/FeiBi.md) — Translator and episode 40 guest discussing 《平面国》 with 秦总 through text, author background, publication, and reading access.
+- [菲比](entities/FeiBi.md) — Translator and recurring guest discussing 《平面国》 and 《王尔德奇异故事集》 through text, author background, publication, reading access, and translation style.
 - [郭静龙](entities/GuoJinglong.md) — Author of 《盛世的崩塌》, previewed by 蜜獾吃书 as a possible future Dali guest.
 - [《盛世的崩塌》](entities/ShengshiDeBengta.md) — Tang-history book previewed as a possible future episode on An Lushan Rebellion-era politics, literature, Nanzhao conflict, and ordinary life.
 - [《绿色星球》](entities/TheGreenPlanet.md) — BBC plant-world documentary/book topic previewed through Beimin's Chinese translation work and plant behavior examples.
@@ -2317,7 +2318,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jeremy Clarkson](entities/JeremyClarkson.md) — British media figure whose novice-farmer failures in Clarkson's Farm make farm skill, environmental costs, livestock, and public speech limits visible.
 - [《克拉克森的农场》 / Clarkson's Farm](entities/ClarksonsFarm.md) — Television/book case used by episode 62 to connect farming, machinery, livestock, crop policy, land management, and environmental tradeoffs.
 - [Royal Society for the Protection of Birds](entities/RoyalSocietyForProtectionOfBirds.md) — Bird-conservation organization appearing through the garden birdwatch citizen-science activity in the Clarkson farm episode.
-- [Oscar Wilde / 王尔德](entities/OscarWilde.md) — Writer used by episode 60 to connect aesthetic self-fashioning, sexual persecution, bodily suffering, and posthumous reputation change.
+- [Oscar Wilde / 王尔德](entities/OscarWilde.md) — Writer used by episodes 60 and 10 to connect aesthetic self-fashioning, sexual persecution, social performance, aphoristic craft, story-level black comedy, and posthumous reputation change.
+- [《王尔德奇异故事集》 / Wilde Strange Stories](entities/WildeStrangeStories.md) — Wilde story collection read through black comedy, ghost-story tenderness, forged-evidence obsession, life imitating art, and art against moral instruction.
+- [《阿瑟·萨维尔勋爵的罪行》 / Lord Arthur Savile's Crime](entities/LordArthurSavilesCrime.md) — Wilde story where murder is treated as a responsible premarital duty, making respectable moral logic absurd.
+- [《W.H.先生的画像》 / The Portrait of Mr. W.H.](entities/ThePortraitOfMrWH.md) — Wilde story about Shakespeare-sonnet interpretation, forged evidence, self-persuasion, and the contagious beauty of a theory.
+- [《坎特维尔的幽灵》 / The Canterville Ghost](entities/TheCantervilleGhost.md) — Wilde ghost story read as Anglo-American cultural comedy that turns haunting into practical nuisance and eventual tenderness.
+- [《自深深处》 / De Profundis](entities/DeProfundis.md) — Wilde prison letter used by episode 10 to connect Alfred Douglas, love, money, creative exhaustion, legal disaster, and author myth deflation.
+- [Lord Alfred Douglas / 波西](entities/AlfredDouglas.md) — Wilde's lover in the episode's account of 《自深深处》, financial/emotional strain, and the legal conflict that led to Wilde's imprisonment.
+- [Andre Gide / 安德烈·纪德](entities/AndreGide.md) — Writer whose memory of Wilde's oral storytelling helps episode 10 connect social performance, rhythm, aphorism, and life imitating art.
+- [《道连·格雷的画像》 / The Picture of Dorian Gray](entities/ThePictureOfDorianGray.md) — Wilde novel invoked by episode 10 as an example of aphoristic density and the tension between brilliant sentences and work-level unity.
+- [《快乐王子》 / The Happy Prince](entities/TheHappyPrince.md) — Familiar Wilde fairy tale used as a sad sacrificial-beauty contrast to the black-comic and ghost-story range of 《王尔德奇异故事集》.
+- [《夜莺与玫瑰》 / The Nightingale and the Rose](entities/TheNightingaleAndTheRose.md) — Wilde fairy tale paired with 《快乐王子》 and 《海的女儿》 as childhood memory of beautiful painful sacrifice.
 - [Walt Whitman / 惠特曼](entities/WaltWhitman.md) — Poet used by episode 60 to connect sexuality, self-mythology, phrenology, brain donation, and author-image uncertainty.
 - [Arthur Conan Doyle / 柯南道尔](entities/ArthurConanDoyle.md) — Sherlock Holmes creator whose failed medical practice, unwanted detective fame, and spiritualist belief anchor episode 60's rationality-versus-belief contrast.
 - [Sherlock Holmes / 福尔摩斯](entities/SherlockHolmes.md) — Doyle's detective character, discussed as a reader-owned publishing phenomenon and visual image shaped by serial culture and illustrators.
@@ -5518,6 +5529,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Comparative Advantage](concepts/ComparativeAdvantage.md) — Cooperation logic where exchange can benefit both sides because opportunity costs differ.
 - [Subjective Value](concepts/SubjectiveValue.md) — Pricing and consumption frame where willingness to pay depends on meaning, scarcity, timing, identity, and preference rather than input cost alone.
 - [Literary Gossip As Context](concepts/LiteraryGossipAsContext.md) — Using writer anecdotes, scandal, habits, and relationships as literary-history context while keeping uncertainty and source limits visible.
+- [Life Imitates Art / 生活模仿艺术](concepts/LifeImitatesArt.md) — Wildean frame where fiction, lying, performance, and aesthetic perception can teach life what to notice or become.
+- [Art Against Moral Instruction / 反道德说教的艺术](concepts/ArtAgainstMoralInstruction.md) — Wildean art-for-art frame where fiction engages morality through form, paradox, beauty, and shock instead of direct preaching.
+- [Fictional Evidence Seduction](concepts/FictionalEvidenceSeduction.md) — Pattern where forged or false proof remains aesthetically persuasive enough to keep an interpretation alive.
+- [Black Comic Moral Inversion](concepts/BlackComicMoralInversion.md) — Comic pattern where serious moral categories are inverted so respectable duty, haunting, or social convention becomes absurd but still ethically charged.
 - [Author Myth Deflation](concepts/AuthorMythDeflation.md) — Reading canonical writers as brilliant but embodied, flawed, political, domestic, ridiculous, or harmful rather than saintly icons.
 - [Occult And Pseudoscience In Literary Modernity](concepts/OccultPseudoscienceLiteraryModernity.md) — Frame for literary lives entangled with phrenology, spiritualism, fairy photographs, astrology, seances, and occult organizations.
 - [Greek Mythology](concepts/GreekMythology.md) — Mythic frame for Crete stories around Zeus, Europa, Minos, the Minotaur, Daedalus, Icarus, Theseus, Ariadne, and recurring story variants.

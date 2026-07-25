@@ -35,6 +35,10 @@
     "title": "「1 亿 Token 俱乐部」挤爆了，AI 的燃料不够了：对谈于文渊",
     "url": "/wiki/sources/1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm/"
   },
+  "10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195": {
+    "title": "10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使",
+    "url": "/wiki/sources/10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195/"
+  },
   "100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302": {
     "title": "100.法律的悖论：谢天谢地，幸好我们还有罗翔",
     "url": "/wiki/sources/100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302/"
@@ -2083,6 +2087,10 @@
     "title": "Alfred Adler / 阿尔弗雷德·阿德勒",
     "url": "/wiki/entities/alfredadler/"
   },
+  "AlfredDouglas": {
+    "title": "Lord Alfred Douglas / 波西",
+    "url": "/wiki/entities/alfreddouglas/"
+  },
   "AlfredHitchcock": {
     "title": "Alfred Hitchcock / 希区柯克",
     "url": "/wiki/entities/alfredhitchcock/"
@@ -2366,6 +2374,10 @@
   "Andor": {
     "title": "《安多》 / Andor",
     "url": "/wiki/entities/andor/"
+  },
+  "AndreGide": {
+    "title": "Andre Gide / 安德烈·纪德",
+    "url": "/wiki/entities/andregide/"
   },
   "AndreasVesalius": {
     "title": "Andreas Vesalius / 安德烈亚斯·维萨里",
@@ -2782,6 +2794,10 @@
   "ArsenalFC": {
     "title": "Arsenal FC",
     "url": "/wiki/entities/arsenalfc/"
+  },
+  "ArtAgainstMoralInstruction": {
+    "title": "Art Against Moral Instruction / 反道德说教的艺术",
+    "url": "/wiki/concepts/artagainstmoralinstruction/"
   },
   "ArtCommerceIntegration": {
     "title": "Art Commerce Integration",
@@ -3742,6 +3758,10 @@
   "BlackBerry": {
     "title": "BlackBerry",
     "url": "/wiki/entities/blackberry/"
+  },
+  "BlackComicMoralInversion": {
+    "title": "Black Comic Moral Inversion",
+    "url": "/wiki/concepts/blackcomicmoralinversion/"
   },
   "BlackHairCareMarketOwnership": {
     "title": "Black Hair-Care Market Ownership",
@@ -6819,6 +6839,10 @@
     "title": "DeLeon Tequila",
     "url": "/wiki/entities/deleontequila/"
   },
+  "DeProfundis": {
+    "title": "《自深深处》 / De Profundis",
+    "url": "/wiki/entities/deprofundis/"
+  },
   "DeathOfMaratPainting": {
     "title": "The Death of Marat / 《马拉之死》",
     "url": "/wiki/entities/deathofmaratpainting/"
@@ -8830,6 +8854,10 @@
   "FictionAsHistoricalEvidence": {
     "title": "Fiction As Historical Evidence",
     "url": "/wiki/concepts/fictionashistoricalevidence/"
+  },
+  "FictionalEvidenceSeduction": {
+    "title": "Fictional Evidence Seduction",
+    "url": "/wiki/concepts/fictionalevidenceseduction/"
   },
   "FidelCastro": {
     "title": "Fidel Castro",
@@ -14151,6 +14179,10 @@
     "title": "Life Circle",
     "url": "/wiki/entities/lifecircle/"
   },
+  "LifeImitatesArt": {
+    "title": "Life Imitates Art / 生活模仿艺术",
+    "url": "/wiki/concepts/lifeimitatesart/"
+  },
   "LifeReprogrammingVision": {
     "title": "Life Reprogramming Vision",
     "url": "/wiki/concepts/lifereprogrammingvision/"
@@ -14554,6 +14586,10 @@
   "Looped": {
     "title": "Looped",
     "url": "/wiki/entities/looped/"
+  },
+  "LordArthurSavilesCrime": {
+    "title": "《阿瑟·萨维尔勋爵的罪行》 / Lord Arthur Savile's Crime",
+    "url": "/wiki/entities/lordarthursavilescrime/"
   },
   "LordByron": {
     "title": "Lord Byron / 拜伦",
@@ -23127,6 +23163,10 @@
     "title": "《你想活出怎样的人生》 / The Boy and the Heron",
     "url": "/wiki/entities/theboyandtheheron/"
   },
+  "TheCantervilleGhost": {
+    "title": "《坎特维尔的幽灵》 / The Canterville Ghost",
+    "url": "/wiki/entities/thecantervilleghost/"
+  },
   "TheCatcherInTheRye": {
     "title": "《麦田里的守望者》 / The Catcher in the Rye",
     "url": "/wiki/entities/thecatcherintherye/"
@@ -23190,6 +23230,10 @@
   "TheGreenPlanet": {
     "title": "《绿色星球》",
     "url": "/wiki/entities/thegreenplanet/"
+  },
+  "TheHappyPrince": {
+    "title": "《快乐王子》 / The Happy Prince",
+    "url": "/wiki/entities/thehappyprince/"
   },
   "TheHolocaust": {
     "title": "The Holocaust / 犹太人大屠杀",
@@ -23259,6 +23303,10 @@
     "title": "《剑桥夜攀者》 / The Night Climbers of Cambridge",
     "url": "/wiki/entities/thenightclimbersofcambridge/"
   },
+  "TheNightingaleAndTheRose": {
+    "title": "《夜莺与玫瑰》 / The Nightingale and the Rose",
+    "url": "/wiki/entities/thenightingaleandtherose/"
+  },
   "TheOdyssey": {
     "title": "The Odyssey",
     "url": "/wiki/entities/theodyssey/"
@@ -23275,9 +23323,17 @@
     "title": "《哲学家与狼》 / The Philosopher and the Wolf",
     "url": "/wiki/entities/thephilosopherandthewolf/"
   },
+  "ThePictureOfDorianGray": {
+    "title": "《道连·格雷的画像》 / The Picture of Dorian Gray",
+    "url": "/wiki/entities/thepictureofdoriangray/"
+  },
   "ThePlainDealer": {
     "title": "The Plain Dealer",
     "url": "/wiki/entities/theplaindealer/"
+  },
+  "ThePortraitOfMrWH": {
+    "title": "《W.H.先生的画像》 / The Portrait of Mr. W.H.",
+    "url": "/wiki/entities/theportraitofmrwh/"
   },
   "ThePrince": {
     "title": "《君主论》 / The Prince",
@@ -25066,6 +25122,10 @@
   "WildSource": {
     "title": "Wild Source",
     "url": "/wiki/entities/wildsource/"
+  },
+  "WildeStrangeStories": {
+    "title": "《王尔德奇异故事集》 / Wilde Strange Stories",
+    "url": "/wiki/entities/wildestrangestories/"
   },
   "WildlifeTourismSpectacle": {
     "title": "Wildlife Tourism Spectacle",

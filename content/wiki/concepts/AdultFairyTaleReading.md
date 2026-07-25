@@ -2,13 +2,15 @@
 title: "Adult Fairy-Tale Reading"
 type: concept
 tags: [literature, fairy-tales, childhood, rereading]
-sources: [07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165, 187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166, 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+sources: [10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195, 07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165, 187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166, 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
 last_updated: 2026-07-25
 ---
 
 # Adult Fairy-Tale Reading
 
 Adult fairy-tale reading is the practice of rereading fairy tales without assuming they are simple, childish, or reducible to clean morals. In [[55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]], [[MihuanChishu|蜜獾吃书]] applies this to [[HansChristianAndersen|安徒生]], arguing that his tales contain social humiliation, class longing, satire, loneliness, death, love, and spiritual aspiration that may become clearer only after childhood.
+
+[[10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195]] adds a Wilde branch. [[TheHappyPrince|《快乐王子》]] and [[TheNightingaleAndTheRose|《夜莺与玫瑰》]] preserve the childhood memory of beautiful sacrifice, but the episode uses [[WildeStrangeStories|《王尔德奇异故事集》]] to show that fairy-tale adjacent writing can also become black comedy, ghostly tenderness, and [[ArtAgainstMoralInstruction]].
 
 [[187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166]] adds a close-reading version through [[ThePrincessAndThePea|《豌豆公主》]]. The episode shows that one short, famous tale can be reread as class satire, family test, gendered bodily punishment, high-sensitivity emblem, and formal truth puzzle without forcing those readings into one hierarchy.
 
@@ -30,8 +32,10 @@ The concept overlaps with [[AdultSatiricalChildrensClassics]] but is broader. An
 - A fairy tale about becoming good can still resist shallow obedience: goodness may mean discovering a self capable of care and responsibility.
 - A very short fairy tale can stay alive because it preserves unsettled class, gender, body, and truth pressures instead of giving one stable lesson.
 - A tender philosophical tale can become adult reading when its comfort is held beside death, avoidance, and relational cost.
+- A writer remembered for sad fairy tales may also need rereading through comic, ghostly, and aesthetic stories that complicate the childhood memory.
 
 ## Connections
+- [[OscarWilde|Oscar Wilde / 王尔德]], [[TheHappyPrince|《快乐王子》]], [[TheNightingaleAndTheRose|《夜莺与玫瑰》]], and [[WildeStrangeStories|《王尔德奇异故事集》]] - episode 10's Wilde extension.
 - [[TheLittlePrince|《小王子》 / The Little Prince]], [[PuerAeternus]], [[RomanticDeathEscape]], and [[ResponsibilityAgainstRomanticEscape]] - episode 07's extension into philosophical children's literature.
 - [[HansChristianAndersen|安徒生 / Hans Christian Andersen]] - central author case.
 - [[TheLittleMermaid|《海的女儿》 / The Little Mermaid]] - central tale case.
