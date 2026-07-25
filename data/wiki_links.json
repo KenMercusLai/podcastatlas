@@ -3691,6 +3691,10 @@
     "title": "Bloomberg",
     "url": "/wiki/entities/bloomberg/"
   },
+  "BloombergNEF": {
+    "title": "BloombergNEF",
+    "url": "/wiki/entities/bloombergnef/"
+  },
   "BlueBottleCoffee": {
     "title": "Blue Bottle Coffee / 蓝瓶子",
     "url": "/wiki/entities/bluebottlecoffee/"
@@ -4118,6 +4122,10 @@
   "CBS": {
     "title": "CBS",
     "url": "/wiki/entities/cbs/"
+  },
+  "CJFinn": {
+    "title": "CJ Finn",
+    "url": "/wiki/entities/cjfinn/"
   },
   "CNN": {
     "title": "CNN",
@@ -5411,6 +5419,10 @@
     "title": "Coleman Strumpf",
     "url": "/wiki/entities/colemanstrumpf/"
   },
+  "ColinMcCarrick": {
+    "title": "Colin McCarrick",
+    "url": "/wiki/entities/colinmccarrick/"
+  },
   "CollabCapital": {
     "title": "Collab Capital",
     "url": "/wiki/entities/collabcapital/"
@@ -5886,6 +5898,10 @@
   "CowherdAndWeaverGirl": {
     "title": "Cowherd and Weaver Girl / 牛郎织女",
     "url": "/wiki/entities/cowherdandweavergirl/"
+  },
+  "CoxAutomotive": {
+    "title": "Cox Automotive",
+    "url": "/wiki/entities/coxautomotive/"
   },
   "CoyoteGame": {
     "title": "Coyote",
@@ -7738,6 +7754,10 @@
   "ElectricTherapySpeculation": {
     "title": "Electric Therapy Speculation / 电疗法想象",
     "url": "/wiki/concepts/electrictherapyspeculation/"
+  },
+  "ElectricVehiclePriceParity": {
+    "title": "Electric Vehicle Price Parity",
+    "url": "/wiki/concepts/electricvehiclepriceparity/"
   },
   "ElectricityAffordabilityIndicator": {
     "title": "Electricity Affordability Indicator",
@@ -13939,6 +13959,10 @@
     "title": "Literary Subculture Symbolization",
     "url": "/wiki/concepts/literarysubculturesymbolization/"
   },
+  "LithiumIronPhosphateBatteries": {
+    "title": "Lithium Iron Phosphate Batteries",
+    "url": "/wiki/concepts/lithiumironphosphatebatteries/"
+  },
   "Lithuania": {
     "title": "Lithuania",
     "url": "/wiki/entities/lithuania/"
@@ -18683,6 +18707,10 @@
     "title": "推理薯片 / Puzzle-Snack Mystery",
     "url": "/wiki/concepts/puzzlesnackmystery/"
   },
+  "PwC": {
+    "title": "PwC",
+    "url": "/wiki/entities/pwc/"
+  },
   "Pyramiding": {
     "title": "Pyramiding",
     "url": "/wiki/concepts/pyramiding/"
@@ -21650,6 +21678,10 @@
   "StephaniePesta": {
     "title": "Stephanie Pesta",
     "url": "/wiki/entities/stephaniepesta/"
+  },
+  "StephanieValdezStreaty": {
+    "title": "Stephanie Valdez Streaty",
+    "url": "/wiki/entities/stephanievaldezstreaty/"
   },
   "StephanieWaldrop": {
     "title": "Stephanie Waldrop",
@@ -26878,6 +26910,10 @@
   "tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128": {
     "title": "Would banning teens from social media violate their First Amendment rights?",
     "url": "/wiki/sources/tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128/"
+  },
+  "tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128": {
+    "title": "By 2030, EVs could cost the same as their gas guzzling siblings",
+    "url": "/wiki/sources/tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128/"
   },
   "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128": {
     "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",

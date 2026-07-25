@@ -2,8 +2,8 @@
 title: "How We Survive"
 type: entity
 tags: [podcast, climate, marketplace]
-sources: [tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
-last_updated: 2026-07-24
+sources: [tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # How We Survive
@@ -12,7 +12,10 @@ How We Survive is the Marketplace climate-solutions podcast promoted at the end 
 
 In this source, How We Survive functions as a bridge from a concise technology segment into a broader climate-reporting series. The promo mentions carbon removal and more speculative climate interventions, but the main wiki contribution remains the direct-air-capture economics and policy branch.
 
+[[tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128]] adds another promo context. The EV price-parity episode closes by describing How We Survive as [[AmyScott]]'s podcast about the messy business of climate solutions, including geoengineering and space-based sunshades.
+
 ## Connections
 - [[MarketplaceTech]] and [[AmyScott]] - Marketplace reporting context.
 - [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]], [[DirectAirCapture]], and [[CarbonRemoval]] - main topic promoted from the episode.
 - [[ClimateStartupCommercializationGap]] and [[CarbonRemovalMoralHazard]] - deeper questions the source points toward.
+- [[ElectricVehiclePriceParity]] and [[EconomicClimateTechAdoption]] - adjacent climate-economics branch in the EV episode.

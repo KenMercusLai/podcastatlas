@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [By 2030, EVs could cost the same as their gas guzzling siblings](sources/tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128.md) — Marketplace Tech episode on EV sticker-price barriers, battery costs, China's LFP-led price parity, and forecasts for U.S. EV and hybrid sales once the premium falls.
 - [Would banning teens from social media violate their First Amendment rights?](sources/tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128.md) — Marketplace Tech episode with Aaron Mackey of EFF on California AB 1709, under-16 social-media bans, age-verification burdens, youth online speech rights, and comprehensive privacy regulation as an alternative.
 - [Bytes: Week in Review - SpaceX's IPO, Iran threatens U.S. tech firms and California's new AI executive order](sources/tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Paresh Dave on SpaceX's reported IPO push, Iran-linked threats against U.S. tech infrastructure, Gulf AI investment, and California's AI procurement order.
 - [34 days without internet in Iran](sources/tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128.md) — Marketplace Tech episode with Amir Rashidi on Iran's wartime internet blackout, the National Information Network, domestic-service censorship, Mahsa Alert, and public-safety risk from blocked global connectivity.
@@ -618,6 +619,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Stephanie Valdez Streaty](entities/StephanieValdezStreaty.md) — Cox Automotive analyst voice explaining that U.S. EV adoption remains constrained mainly by sticker price.
+- [Cox Automotive](entities/CoxAutomotive.md) — Automotive market organization used by Marketplace Tech to ground the EV sticker-price barrier.
+- [Colin McCarrick](entities/ColinMcCarrick.md) — BloombergNEF analyst connecting China's EV price parity to integrated supply chains and improved LFP batteries.
+- [BloombergNEF](entities/BloombergNEF.md) — Energy-market research organization represented by Colin McCarrick in the EV battery-cost episode.
+- [CJ Finn](entities/CJFinn.md) — PwC voice forecasting that U.S. EV and hybrid sales could expand once battery-electric price premiums fall.
+- [PwC](entities/PwC.md) — Consulting firm represented in the Marketplace Tech EV price-parity forecast.
 - [Aaron Mackey](entities/AaronMackey.md) — Electronic Frontier Foundation speaker arguing that under-16 social-media bans, parental consent, and age gates can burden minors' and adults' online speech rights.
 - [Electronic Frontier Foundation](entities/ElectronicFrontierFoundation.md) — Digital-rights organization represented by Aaron Mackey in the Marketplace Tech episode on California AB 1709, online speech access, and privacy regulation.
 - [Gavin Newsom](entities/GavinNewsom.md) — California governor whose AI executive order makes state procurement a privacy, security, bias-review, supply-chain-risk, and watermarking governance tool.
@@ -4164,6 +4171,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Electric Vehicle Price Parity](concepts/ElectricVehiclePriceParity.md) — Adoption threshold where EV sticker prices become comparable to internal-combustion vehicles and mass-market buying becomes more likely.
+- [Lithium Iron Phosphate Batteries](concepts/LithiumIronPhosphateBatteries.md) — Cheaper LFP battery chemistry whose Chinese engineering improvements and global share support the EV price-parity story.
 - [California AB 1709](concepts/CaliforniaAB1709.md) — Proposed California under-16 social-media ban used as a case of child-safety technology regulation colliding with First Amendment speech-access limits.
 - [Youth Online Speech Rights](concepts/YouthOnlineSpeechRights.md) — Claim that minors have constitutional interests in speaking and accessing lawful online speech, not only adults or platforms.
 - [Social Media Age-Gate Speech Burden](concepts/SocialMediaAgeGateSpeechBurden.md) — Risk that age verification, parental consent, or categorical youth bans restrict lawful online speech for minors and adults.

@@ -4947,3 +4947,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-25] ingest | By 2030, EVs could cost the same as their gas guzzling siblings
+
+Added source page for a Marketplace Tech episode on EV sticker-price barriers, battery costs, China's LFP-led price parity, and U.S. forecasts for EV/hybrid adoption once the battery-electric premium falls. Created pages for Stephanie Valdez Streaty, Cox Automotive, Colin McCarrick, BloombergNEF, CJ Finn, PwC, Electric Vehicle Price Parity, and Lithium Iron Phosphate Batteries; updated overview, index, Marketplace Tech, China, United States, Economic Climate Tech Adoption, Power Battery Industry Chain, Battery Manufacturing Know-How, How We Survive, and Amy Scott. No direct contradiction found; the source extends the existing China battery-industrialization branch by showing how supply-chain integration and LFP engineering can become consumer sticker-price parity.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
