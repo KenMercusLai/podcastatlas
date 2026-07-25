@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [sp.01 宇宙：卡尔·萨根的星辰大海和人类梦想](sources/sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074.md) — 蜜獾吃书 episode on Carl Sagan, 《宇宙》, 《接触》, humanistic science communication, SETI, the Voyager golden record, nuclear winter, and open extraterrestrial civilization imagination.
 - [09.阿特拉斯耸耸肩：安兰德只是爽文作家吗？](sources/09-atelasi-songsongjian-anlande-zhishi-shuangwen-zuojia-ma-543277898.md) — 蜜獾吃书 episode on Ayn Rand, 《源泉》, 《阿特拉斯耸耸肩》, creator/parasite moral drama, entrepreneur strike myth, anti-altruist moral coercion, and cautious reading of Objectivism.
 - [08.老妓抄：老妓不死，甚至不曾凋零](sources/08-laojichao-laoji-busi-shenzhi-buzeng-diaoling-541092994.md) — 蜜獾吃书 episode on 冈本加乃子's 《老妓抄》, her biography, Buddhist-inflected life force, subtle plot, gendered patronage inversion, and stories including 《鲤鱼》, 《蝙蝠》, 《仲夏夜之梦》, 《老妓抄》, 《五妓》, 《寿司》, and 《东海道》.
 - [07.用荣格理论分析《小王子》 永恒少年及其他](sources/07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165.md) — 蜜獾吃书 episode rereading 《小王子》 through Jungian psychology, eternal-youth psychology, Saint-Exupery biography, the rose/fox/snake symbols, death escape, relational responsibility, and statistics versus concrete life.
@@ -636,6 +637,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《宇宙》 / Cosmos](entities/CosmosBook.md) — Carl Sagan book and documentary companion read as astronomy, science history, literary public science, and humanistic cosmic orientation.
+- [《接触》 / Contact](entities/ContactNovel.md) — Sagan science-fiction novel discussed through SETI, alien signals, science-and-religion humility, global cooperation, and open cosmic imagination.
+- [SETI / Search for Extraterrestrial Intelligence](entities/SETI.md) — Organized extraterrestrial-intelligence search connecting radio listening, Sagan, Contact, and evidence-bound wonder.
+- [Voyager Golden Record](entities/VoyagerGoldenRecord.md) — Sagan-linked cosmic time-capsule artifact framed as public science and civilization self-portrait.
 - [冈本加乃子 / Okamoto Kanoko](entities/OkamotoKanoko.md) — Japanese writer whose 《老妓抄》 is read through women, Buddhist-inflected life force, late fiction, biography, and subtle psychological aftertaste.
 - [《老妓抄》 / Rogisho](entities/LaoJiChao.md) — Okamoto Kanoko short-story collection discussed by 蜜獾吃书 as quiet, plot-light, emotionally durable Japanese literature.
 - [冈本一平 / Okamoto Ippei](entities/OkamotoIppei.md) — Okamoto Kanoko's husband in the source's biography branch, tied to marriage crisis, care, and unconventional household arrangements.
@@ -4279,6 +4284,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Humanistic Science Communication](concepts/HumanisticScienceCommunication.md) — Sagan-style public science that joins accuracy, wonder, literature, cultural range, and human responsibility without replacing evidence.
+- [Sagan Effect](concepts/SaganEffect.md) — Professional penalty where visible public science communication can be treated as academic unseriousness.
+- [Nuclear Winter](concepts/NuclearWinter.md) — Cold War civilizational-risk concept showing Sagan's public science also warned about Earth's self-destruction risks.
+- [Open Extraterrestrial Civilization Imagination](concepts/OpenExtraterrestrialCivilizationImagination.md) — Contact-based alternative to reducing alien civilization thought to suspicion, hostility, or silence.
 - [Buddhist Life-Affirming Literature](concepts/BuddhistLifeAffirmingLiterature.md) — Episode 08 frame for fiction that accepts impermanence, loneliness, and restraint without collapsing into despair.
 - [Subtle Plot Psychological Aftertaste](concepts/SubtlePlotPsychologicalAftertaste.md) — Reading frame for low-plot fiction whose value appears through mixed motives, withheld explanation, and delayed emotional recognition.
 - [Gendered Patronage Inversion](concepts/GenderedPatronageInversion.md) — Literary power reversal where an older woman financially supports a younger man's dream, exposing gender, money, dependence, and failed ambition.

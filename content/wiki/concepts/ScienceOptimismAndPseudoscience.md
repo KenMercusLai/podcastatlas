@@ -2,8 +2,8 @@
 title: "Science Optimism And Pseudoscience"
 type: concept
 tags: [science, skepticism, pseudoscience, media]
-sources: [185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]
-last_updated: 2026-07-15
+sources: [sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]
+last_updated: 2026-07-25
 ---
 
 # Science Optimism And Pseudoscience
@@ -14,6 +14,8 @@ The concept's core tension is that wonder can open attention, but it can also ma
 
 [[185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]] extends the concept from childhood media ecology into an adult evidence toolkit. UFO stories, alien abductions, crop circles, qigong fraud, religious miracle claims, New Age belief, and AI-era fake media become cases for [[ScientificSkepticism]] rather than only nostalgic memories of a science-positive but credulous media environment.
 
+[[sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074]] adds the positive Sagan counterweight. [[CosmosBook|《宇宙》 / Cosmos]], [[ContactNovel|《接触》 / Contact]], [[SETI]], and the [[VoyagerGoldenRecord|Voyager golden record]] show that evidence discipline does not require flattening wonder. The source's distinction is between [[HumanisticScienceCommunication]], where beauty stays answerable to proof, and pseudoscience, where beauty becomes a substitute for proof.
+
 ## Key Claims
 - A culture can be science-positive and still saturated with pseudoscientific claims.
 - Childhood curiosity does not automatically produce skepticism; it can feed credulity unless paired with evidence discipline.
@@ -21,6 +23,7 @@ The concept's core tension is that wonder can open attention, but it can also ma
 - Pseudoscience is partly a media ecology problem: attractive mysteries, commercial publishing, and social mood can make doubtful claims durable.
 - The same childhood science environment can later produce adult interest in [[ObservationBeforeInference]] and [[RationalHumility]].
 - Episode 185 adds that pseudoscience also persists because secrecy, pain, media incentives, weak science education, and [[ScienceCommunicationDisadvantage]] make unsupported claims feel useful or beautiful.
+- Episode sp.01 adds a constructive alternative: preserve scientific romance by tying it to evidence, humility, and public responsibility.
 
 ## Connections
 - [[ChildhoodScienceReading]] - popular-science route into wonder and explanation.
@@ -30,3 +33,4 @@ The concept's core tension is that wonder can open attention, but it can also ma
 - [[ScientificSkepticism]], [[PseudoscienceFraudVulnerability]], [[UFOConspiracyCulture]], and [[AIInformationPollution]] - episode 185's extension into method, fraud, and new media conditions.
 - [[OccultPseudoscienceLiteraryModernity]] - adjacent historical-literary branch on unstable knowledge systems.
 - [[AILiteracyAgainstWorship]] - neighboring public-technology literacy concern.
+- [[HumanisticScienceCommunication]], [[CosmosBook|《宇宙》 / Cosmos]], [[ContactNovel|《接触》 / Contact]], and [[SETI]] - sp.01's evidence-bound wonder branch.

@@ -2,8 +2,8 @@
 title: "Scientific Skepticism"
 type: concept
 tags: [science, skepticism, evidence, epistemology]
-sources: [dont-hate-the-replicator-hate-the-game, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 123-renxing-shiyan-dangxin-ni-ziji-779479569, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]
-last_updated: 2026-07-24
+sources: [sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, dont-hate-the-replicator-hate-the-game, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 123-renxing-shiyan-dangxin-ni-ziji-779479569, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]
+last_updated: 2026-07-25
 ---
 
 # Scientific Skepticism
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 [[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] adds an epistemology-in-argument version. The episode frames scientific knowledge as the modern society's dominant method for observable and measurable empirical truth, while still warning that scientific facts become socially usable only when people have the motivation and group permission to process them.
 
 Scientific skepticism is the episode's name for keeping curiosity and doubt together. In [[185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]], [[CarlSagan|Carl Sagan]] and [[TheDemonHauntedWorld|《魔鬼出没的世界》]] anchor a posture that does not rule out extraterrestrial life, strange natural phenomena, or human wonder, but refuses to turn weak evidence into certainty.
+
+[[sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074]] adds the constructive Sagan version. [[SETI]], [[ContactNovel|《接触》 / Contact]], [[CosmosBook|《宇宙》 / Cosmos]], and [[VoyagerGoldenRecord]] show that skepticism can support wonder and public imagination rather than only debunk false claims. The source's boundary is clear: Sagan can be romantic about extraterrestrial intelligence and still require signal, testability, and humility.
 
 The concept is adjacent to [[RationalHumility]] and [[ObservationBeforeInference]]. It differs from blanket debunking because it does not begin with dismissal; it begins with evidence standards, rival hypotheses, independent checks, and the willingness to say that the answer is not yet known.
 
@@ -27,6 +29,7 @@ The concept is adjacent to [[RationalHumility]] and [[ObservationBeforeInference
 - In the episode, the skeptical posture is especially important under [[AIInformationPollution]], where synthetic evidence and short-form persuasion lower the cost of false certainty.
 - Episode 123 adds self-skepticism: the first object of doubt should often be the observer's own perception, memory, and group-positioned certainty.
 - The replication-games source adds method skepticism: a statistically significant result still needs reproducible code, documented data, and robustness checks.
+- Episode sp.01 adds that skepticism should not flatten public science into coldness; evidence discipline can coexist with literary power and hope.
 
 ## Connections
 - [[CarlSagan|Carl Sagan]] and [[TheDemonHauntedWorld|《魔鬼出没的世界》]] - central skeptical anchors.
@@ -36,3 +39,4 @@ The concept is adjacent to [[RationalHumility]] and [[ObservationBeforeInference
 - [[ExperimentalScienceEthics]], [[SelfExperimentation]], and [[ExperimentalFailureAsKnowledge]] - experiment-history extensions from source 68.
 - [[SocialPsychology]], [[HindsightBias]], [[HostileMediaEffect]], and [[GilbertSpinozaHypothesis]] - source-123 extensions into experimentally tested social cognition.
 - [[ReplicationCrisis]], [[PHacking]], [[ReplicationPackage]], and [[RobustnessChecks]] - social-science reproducibility branch added by Planet Money.
+- [[SETI]], [[ContactNovel|《接触》 / Contact]], and [[HumanisticScienceCommunication]] - constructive Sagan branch added by sp.01.

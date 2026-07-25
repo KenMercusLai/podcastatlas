@@ -2,7 +2,7 @@
 title: "Rational Humility"
 type: concept
 tags: [reasoning, science, evidence, epistemology]
-sources: [135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 174-du-dikaer-shi-jian-dashi-966856702, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+sources: [sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 174-du-dikaer-shi-jian-dashi-966856702, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
 last_updated: 2026-07-24
 ---
 
@@ -21,6 +21,8 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 [[40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366]] adds a dimensional version through [[Flatland|《平面国》 / Flatland]]. The square can see line-land's limits only after standing above it, yet he initially rejects the sphere's explanation of "up"; the sphere then rejects the square's question about still higher dimensions. The episode uses this ladder to show how easily a mind mistakes its current frame for the final frame.
 
 [[185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]] adds a Sagan-style skepticism version. [[ScientificSkepticism]] requires enough humility to leave extraterrestrial life possible while refusing to endorse [[UFOConspiracyCulture]], alien abduction, miracle, or crop-circle claims that do not survive evidence. The episode's practical humility is suspended judgment, not fashionable doubt and not belief-first openness.
+
+[[sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074]] adds a Sagan-and-Contact version. [[ContactNovel|《接触》 / Contact]] is read as a science-and-religion humility story: the scientist need not abandon truth or evidence, but she still confronts experiences, scales, and meanings that do not fit a confident human explanatory system. The source therefore extends rational humility from debunking weak claims into acknowledging the edge of current knowledge.
 
 [[100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]] adds a legal version through [[LuoXiang|罗翔]]'s [[TheParadoxOfLaw|《法律的悖论》]]. [[LegalParadoxThinking]] treats criminal-law questions as places where plausible arguments can conflict, so the fact that an answer feels obvious is itself a warning sign rather than proof that judgment is complete.
 
@@ -46,6 +48,7 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 - Dissent humility means admitting that one's own confidence may be a product of group comfort, status, authority, or familiar stories.
 - Assisted-death humility adds that the more irreversible the decision, the more careful judgment must be about facts, alternatives, language, and the observer's distance from the actual pain.
 - Anti-doctrine humility adds that a coherent philosophy can still be incomplete when tested by relationships, politics, and ordinary life.
+- Contact-style humility adds that science can remain the best method while still admitting that cosmic scale, alien intelligence, and religious meaning cannot be closed by posture alone.
 
 ## Connections
 - [[ReneDescartes]], [[MethodicDoubt]], [[CogitoErgoSum]], and [[RationalistMethod]] - Descartes branch that clarifies foundation-seeking versus total certainty.
@@ -62,3 +65,4 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 - [[StatusQuoRationalization]], [[ConstructiveDissent]], and [[PrincipledDisobedience]] - dissent and bias-correction extension from episode 116.
 - [[EuthanasiaUncertaintyStance]], [[CrossCulturalAssistedDeathEthics]], and [[AssistedDeathClinicalResponsibility]] - end-of-life ethics extension from episode 119.
 - [[IdeologicalTotalizationRisk]], [[Objectivism]], and [[Existentialism]] - episode-135 extension into the limits of doctrine.
+- [[ContactNovel|《接触》 / Contact]], [[SETI]], and [[OpenExtraterrestrialCivilizationImagination]] - sp.01's science, religion, and extraterrestrial-intelligence extension.

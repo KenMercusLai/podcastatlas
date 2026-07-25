@@ -2,11 +2,13 @@
 title: "NASA"
 type: entity
 tags: [space, government, aerospace]
-sources: [tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
+sources: [sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
 last_updated: 2026-07-25
 ---
 
 # NASA
+
+[[sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074]] adds an earlier public-legitimacy branch through [[CarlSagan|Carl Sagan]] and [[CosmosBook|《宇宙》 / Cosmos]]. The source says Sagan's Cosmos documentary helped [[NASA]] show why space exploration mattered to ordinary people at a time when critics questioned the cost of space programs. This turns NASA into a case for [[HumanisticScienceCommunication]] before the later Artemis livestreaming branch.
 
 [[tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128]] adds NASA as a public-communication institution around [[Artemis2|Artemis 2]]. The episode says NASA made the mission continuously accessible on [[YouTube]], while astronaut iPhone photos and informal social-media clips helped turn a distant Moon test flight into [[SpaceMissionLivestreaming]].
 
@@ -28,3 +30,4 @@ The source frames NASA's shift from government-led building toward government-as
 - [[Artemis2]], [[ArtemisAccords]], [[Moon]], and [[LunarResourceGovernance]] — lunar mission and governance branch added by Marketplace Tech.
 - [[BlakeScholl]], [[BoomSupersonic]], [[AllBusinessClassSupersonicModel]], and [[BoomlessCruise]] - supersonic aviation framing added by the Blake Scholl episode.
 - [[PerfectionismAsAvoidance]], [[ImperfectActionPractice]], and [[SpaceX]] - episode 129's source-scoped contrast around trial, preparation, and learning.
+- [[CarlSagan|Carl Sagan]], [[CosmosBook|《宇宙》 / Cosmos]], [[VoyagerGoldenRecord]], and [[HumanisticScienceCommunication]] - public-science legitimacy branch added by sp.01.
