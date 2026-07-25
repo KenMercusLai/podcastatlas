@@ -2,13 +2,15 @@
 title: "Frontier Model Access Restrictions"
 type: concept
 tags: [ai, models, policy, access-control]
-sources: [tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
-last_updated: 2026-07-17
+sources: [tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # Frontier Model Access Restrictions
 
 Frontier model access restrictions are limits on who can use a provider's most capable models, based on region, citizenship, institution, partner status, safety tier, or government pressure. [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] uses [[Anthropic]] as the episode's central case, describing a disputed story in which high-end model access, safety guardrails, jailbreak concerns, and foreign-user restrictions became entangled.
+
+[[tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128]] adds trusted-institution access through [[ProjectGlasswing]]. The episode says [[ClaudeMethosPreview|Claude-Methos Preview]] was shared with more than 40 companies and technology organizations rather than the public, making partner selection itself part of the safety boundary for cyber-capable AI.
 
 The source connects model-access restrictions to simpler regional product limitations such as [[Apple]] AI feature availability in China and the [[EuropeanUnion]]. It argues that AI model access is more sensitive because the product's capability is delivered continuously through cloud services, making the provider's policy exposure part of the product itself.
 
@@ -31,6 +33,7 @@ The source connects model-access restrictions to simpler regional product limita
 - A restriction can propagate through contractor software stacks, forcing substitution even when a model remains technically available for noncritical uses.
 - U.S. and Chinese model-access controls can mirror each other when both sides treat advanced models as national-security, espionage, cybersecurity, trade-secret, and competitiveness assets.
 - Cheaper foreign models can create dependence even when a government wants firms to prefer domestic or allied alternatives.
+- Access restrictions can also be organized as a trusted-user preview when a model is useful for defense but could improve attacker capability if released broadly.
 
 ## Connections
 - [[AIExportControls]] — broader policy category.
@@ -40,5 +43,6 @@ The source connects model-access restrictions to simpler regional product limita
 - [[AIGovernanceAndCompliance]] — governance and safety context.
 - [[OpenSourceAIModels]] — alternative route when access to closed models becomes uncertain.
 - [[Apple]] and [[EuropeanUnion]] — regional availability examples.
+- [[ProjectGlasswing]], [[ClaudeMethosPreview|Claude-Methos Preview]], [[Google]], [[JPMorganChase|JPMorgan Chase]], and [[Cisco]] - trusted-institution access branch added by Marketplace Tech.
 - [[DefenseAIProcurement]], [[DefenseAISupplyChainRisk]], [[FrontierModelUsePolicyConflict]], [[Claude]], and [[USDepartmentOfDefense]] - domestic defense-customer and contractor-restriction versions added by Marketplace Tech Bytes.
 - [[China]], [[Alibaba]], [[ByteDance]], [[ZhipuAI|ZAI]], and [[OpenSourceAIModels]] - Chinese model-access and U.S. substitution branch added by the July 2026 Marketplace Tech episode.

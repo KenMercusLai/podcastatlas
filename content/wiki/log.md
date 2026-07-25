@@ -4896,6 +4896,10 @@ Added source page for a Marketplace Tech episode with Paul Vixie on dot-com fibe
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-25] ingest | Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space
+
+Added source page for a Marketplace Tech Bytes episode with Joanna Stern on Anthropic's restricted Claude-Methos Preview rollout, Project Glasswing access for trusted organizations, Port Washington's data-center incentive referendum, and NASA's Artemis 2 livestreaming. Created pages for Claude-Methos Preview, Project Glasswing, Cisco, Port Washington, Data Center Incentive Referendum, Cybersecurity AI Supervision, and Space Mission Livestreaming; updated overview, index, Marketplace Tech, Stephanie Hughes, Joanna Stern, Anthropic, Claude, Project Glassfin, Frontier Model Release Governance, Frontier Model Access Restrictions, AI Cyber-Defense Utility, Data Center Backlash, Data Center Tax Incentives, Data Center Cost Shifting, AI Metabolic Infrastructure, NASA, and Artemis 2. No direct contradiction found; flagged a source-scoped naming tension between Project Glasswing and the existing Project Glassfin page, and treated Artemis 2 as a chronological update from planned mission to underway public-media event.
+
 ## [2026-07-25] ingest | Would banning teens from social media violate their First Amendment rights?
 
 Added source page for a Marketplace Tech episode with Aaron Mackey of the Electronic Frontier Foundation on California AB 1709, an under-16 social-media ban modeled on an Australia policy, First Amendment concerns for minors and adults, age-verification burdens, and comprehensive consumer data privacy as EFF's preferred alternative. Created pages for Aaron Mackey, Electronic Frontier Foundation, California AB 1709, Youth Online Speech Rights, Social Media Age-Gate Speech Burden, and Comprehensive Consumer Data Privacy; updated overview, index, Marketplace Tech, California, Australia, United States Constitution, Platform First Amendment Defense, Social Media Product Liability, Platform Data Regulation, Civil Liberties Surveillance Risk, Meta, and YouTube. No direct contradiction found; the source distinguishes product-liability litigation from access-ban legislation and argues that privacy regulation can target surveillance-heavy platform harms without broadly restricting lawful speech.
@@ -4951,6 +4955,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-25] ingest | By 2030, EVs could cost the same as their gas guzzling siblings
 
 Added source page for a Marketplace Tech episode on EV sticker-price barriers, battery costs, China's LFP-led price parity, and U.S. forecasts for EV/hybrid adoption once the battery-electric premium falls. Created pages for Stephanie Valdez Streaty, Cox Automotive, Colin McCarrick, BloombergNEF, CJ Finn, PwC, Electric Vehicle Price Parity, and Lithium Iron Phosphate Batteries; updated overview, index, Marketplace Tech, China, United States, Economic Climate Tech Adoption, Power Battery Industry Chain, Battery Manufacturing Know-How, How We Survive, and Amy Scott. No direct contradiction found; the source extends the existing China battery-industrialization branch by showing how supply-chain integration and LFP engineering can become consumer sticker-price parity.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-25] lint | Wiki health check
 

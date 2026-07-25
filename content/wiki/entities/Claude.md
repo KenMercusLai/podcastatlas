@@ -2,11 +2,13 @@
 title: "Claude"
 type: entity
 tags: [ai, model, anthropic]
-sources: [live-anthropic-co-founder-on-ai-and-jobs, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]
-last_updated: 2026-07-24
+sources: [tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # Claude
+
+[[tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128]] adds [[ClaudeMethosPreview|Claude-Methos Preview]] as a source-scoped Claude variant or model name tied to cybersecurity vulnerability discovery. The episode says [[Anthropic]] restricted access through [[ProjectGlasswing]] rather than making the system broadly public, which extends Claude's wiki role into [[FrontierModelReleaseGovernance]] and [[FrontierModelAccessRestrictions]].
 
 [[live-anthropic-co-founder-on-ai-and-jobs]] adds Claude as a general frontier model moving toward long-task work and cyber capability. [[JackClark]] predicts that by April 2027, systems like Claude may handle tasks that would take a person roughly 150 hours, and the episode says a cyber-capable Claude system had been shared with roughly 40 companies. This extends Claude from a procurement case into [[AIEconomicDiffusion]], [[AIAutomationRedistribution]], and [[AICyberDefenseUtility]].
 
@@ -18,6 +20,7 @@ The source turns Claude from a general frontier model into a procurement and gov
 
 ## Connections
 - [[Anthropic]] - model provider.
+- [[ClaudeMethosPreview|Claude-Methos Preview]] and [[ProjectGlasswing]] - restricted cybersecurity-model rollout added by Marketplace Tech.
 - [[JackClark]], [[AIAutomationRedistribution]], and [[AICyberDefenseUtility]] - live Planet Money branch on work capacity, redistribution, and cyber defense.
 - [[DefenseAISupplyChainRisk]] - March 6 source's contractor-removal and critical-system restriction frame.
 - [[USDepartmentOfDefense]] - government user and negotiation counterparty in the source.

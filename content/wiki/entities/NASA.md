@@ -2,11 +2,13 @@
 title: "NASA"
 type: entity
 tags: [space, government, aerospace]
-sources: [129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
-last_updated: 2026-07-23
+sources: [tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
+last_updated: 2026-07-25
 ---
 
 # NASA
+
+[[tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128]] adds NASA as a public-communication institution around [[Artemis2|Artemis 2]]. The episode says NASA made the mission continuously accessible on [[YouTube]], while astronaut iPhone photos and informal social-media clips helped turn a distant Moon test flight into [[SpaceMissionLivestreaming]].
 
 NASA appears in [[145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]] as both an institutional knowledge base and a market-shaping customer for [[SpaceX]]. [[LouisHong]] says SpaceX benefited from NASA's accumulated data, standards, and spaceflight experience while still changing the execution model.
 
@@ -20,6 +22,7 @@ The source frames NASA's shift from government-led building toward government-as
 
 ## Connections
 - [[SpaceX]] and [[Falcon9]] — commercial launch context in the source.
+- [[Artemis2|Artemis 2]], [[YouTube]], and [[SpaceMissionLivestreaming]] - April 10 Marketplace Tech public-engagement update.
 - [[ReusableRocketEconomics]] — launch-cost shift that changed what NASA and commercial customers could buy.
 - [[SpaceEconomyInfrastructure]] — broader industry layer shaped by public procurement and accumulated data.
 - [[Artemis2]], [[ArtemisAccords]], [[Moon]], and [[LunarResourceGovernance]] — lunar mission and governance branch added by Marketplace Tech.

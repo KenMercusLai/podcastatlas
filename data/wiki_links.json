@@ -5151,6 +5151,10 @@
     "title": "Circle Of Competence",
     "url": "/wiki/concepts/circleofcompetence/"
   },
+  "Cisco": {
+    "title": "Cisco",
+    "url": "/wiki/entities/cisco/"
+  },
   "Citadel": {
     "title": "Citadel",
     "url": "/wiki/entities/citadel/"
@@ -5242,6 +5246,10 @@
   "ClaudeCode": {
     "title": "Claude Code",
     "url": "/wiki/entities/claudecode/"
+  },
+  "ClaudeMethosPreview": {
+    "title": "Claude-Methos Preview",
+    "url": "/wiki/entities/claudemethospreview/"
   },
   "ClaudeShannon": {
     "title": "Claude Shannon",
@@ -6227,6 +6235,10 @@
     "title": "Cybernetic Machine Satire",
     "url": "/wiki/concepts/cyberneticmachinesatire/"
   },
+  "CybersecurityAISupervision": {
+    "title": "Cybersecurity AI Supervision",
+    "url": "/wiki/concepts/cybersecurityaisupervision/"
+  },
   "CytokineReleaseSyndrome": {
     "title": "Cytokine Release Syndrome",
     "url": "/wiki/concepts/cytokinereleasesyndrome/"
@@ -6450,6 +6462,10 @@
   "DataCenterDebtRisk": {
     "title": "Data Center Debt Risk",
     "url": "/wiki/concepts/datacenterdebtrisk/"
+  },
+  "DataCenterIncentiveReferendum": {
+    "title": "Data Center Incentive Referendum",
+    "url": "/wiki/concepts/datacenterincentivereferendum/"
   },
   "DataCenterOnsitePower": {
     "title": "Data Center Onsite Power",
@@ -18135,6 +18151,10 @@
     "title": "Port of Baltimore",
     "url": "/wiki/entities/portofbaltimore/"
   },
+  "PortWashingtonWisconsin": {
+    "title": "Port Washington, Wisconsin",
+    "url": "/wiki/entities/portwashingtonwisconsin/"
+  },
   "PortableCreatorCameras": {
     "title": "Portable Creator Cameras",
     "url": "/wiki/concepts/portablecreatorcameras/"
@@ -18502,6 +18522,10 @@
   "ProjectGlassfin": {
     "title": "Project Glassfin",
     "url": "/wiki/entities/projectglassfin/"
+  },
+  "ProjectGlasswing": {
+    "title": "Project Glasswing",
+    "url": "/wiki/entities/projectglasswing/"
   },
   "ProjectPhoenix": {
     "title": "Project Phoenix",
@@ -21262,6 +21286,10 @@
   "SpaceEconomyInfrastructure": {
     "title": "Space Economy Infrastructure",
     "url": "/wiki/concepts/spaceeconomyinfrastructure/"
+  },
+  "SpaceMissionLivestreaming": {
+    "title": "Space Mission Livestreaming",
+    "url": "/wiki/concepts/spacemissionlivestreaming/"
   },
   "SpaceResourceExtraction": {
     "title": "Space Resource Extraction",
@@ -26914,6 +26942,10 @@
   "tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128": {
     "title": "By 2030, EVs could cost the same as their gas guzzling siblings",
     "url": "/wiki/sources/tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128/"
+  },
+  "tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128": {
+    "title": "Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space",
+    "url": "/wiki/sources/tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128/"
   },
   "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128": {
     "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",

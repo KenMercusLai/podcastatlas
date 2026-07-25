@@ -2,8 +2,8 @@
 title: "AI Metabolic Infrastructure"
 type: concept
 tags: [ai, infrastructure, ecology, political-economy]
-sources: [tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, kate-crawford-mapping-empires, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
-last_updated: 2026-07-12
+sources: [tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, kate-crawford-mapping-empires, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
+last_updated: 2026-07-25
 ---
 
 # AI Metabolic Infrastructure
@@ -16,6 +16,8 @@ The frame connects several existing wiki branches. [[AIComputeContinuity]] and [
 
 [[tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]] adds a tax-expenditure version. [[DataCenterTaxIncentives]] show that the AI metabolism can also consume public fiscal capacity when states waive sales, electricity, or property-tax revenue to attract data-center capital spending.
 
+[[tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128]] adds a voter-salience version. The [[PortWashingtonWisconsin|Port Washington]] segment says residents are attentive to environmental impact, grid strain, power costs, water use, taxes, and local burdens, making [[DataCenterIncentiveReferendum]] a way for communities to contest AI's material footprint through public-finance rules.
+
 [[tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128]] adds an onsite-generation version. The source focuses on speed and backlog rather than a full climate analysis, but [[DataCenterOnsitePower]] makes the material burden visible: AI data centers can move electricity production to natural gas generators, shifting demand into fuel, engines, maintenance, emissions exposure, and industrial manufacturing capacity.
 
 ## Key Claims
@@ -24,6 +26,7 @@ The frame connects several existing wiki branches. [[AIComputeContinuity]] and [
 - Water, power, heat, and land make data centers part of local environmental politics.
 - Electricity rates and grid-upgrade finance make data centers part of public-utility politics as well as environmental politics.
 - Tax exemptions and abatements make data centers part of public-budget politics as well as infrastructure politics.
+- Local referendums can turn AI's power, water, tax, and land demands into direct democratic bargaining over infrastructure permission.
 - Onsite natural gas generation can move AI energy demand outside a slow grid queue while preserving the underlying fuel, emissions, and equipment burden.
 - Short hardware cycles create a deep-time mismatch between minerals formed over geological time and chips used for only a short period.
 - Model outputs can become inputs again, making [[ModelCollapse]] a metabolic risk as well as a technical training-data risk.
@@ -36,6 +39,7 @@ The frame connects several existing wiki branches. [[AIComputeContinuity]] and [
 - [[DataCenterBacklash]] - social-license and local-politics layer.
 - [[PublicUtilityCommissions]] and [[DataCenterCostShifting]] - ratepayer and utility-regulation layer.
 - [[DataCenterTaxIncentives]] - tax-expenditure and economic-development layer.
+- [[DataCenterIncentiveReferendum]] and [[PortWashingtonWisconsin|Port Washington, Wisconsin]] - direct voter-approval case added by Marketplace Tech.
 - [[DataCenterOnsitePower]] and [[Caterpillar]] - onsite natural gas generation and generator-supply layer.
 - [[CriticalMineralsGeopolitics]] - mineral supply-chain layer.
 - [[JevonsParadoxInAI]] - demand-growth dynamic.

@@ -2,8 +2,8 @@
 title: "Data Center Tax Incentives"
 type: concept
 tags: [ai, data-centers, tax-policy, economic-development]
-sources: [tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # Data Center Tax Incentives
@@ -11,6 +11,8 @@ last_updated: 2026-07-23
 Data center tax incentives are state and local subsidies designed to attract data-center construction and operation through tax exemptions, abatements, grants, or qualifying thresholds. [[tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]] adds the concept to the wiki's AI infrastructure branch through [[NicholasMiller]] and the [[NationalConferenceOfStateLegislatures]].
 
 The concept is the public-finance counterpart to [[DataCenterCostShifting]]. Cost shifting asks who pays for grid upgrades through utility rates; tax incentives ask what public revenue is waived so data centers choose a state. Both questions matter because AI-era data centers require large capital outlays, enormous electricity use, and local permission, while permanent job creation can be small.
+
+[[tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128]] adds the voter-approval version through [[PortWashingtonWisconsin|Port Washington, Wisconsin]]. The episode says residents voted for a measure requiring direct approval before certain large developer incentives can move forward, showing that data-center tax policy can become referendum politics when communities doubt the local bargain.
 
 The episode frames incentives as a tradeoff rather than a simple giveaway or a simple growth engine. States seek construction activity, local supplier work, capital investment, property taxes, and some jobs, but they also give up sales-tax, use-tax, electricity-tax, or property-tax revenue. As hyperscale power demand rises, some states are adding carbon-neutral or green-building requirements, removing electricity exemptions, or studying whether older incentive programs still make sense.
 
@@ -27,6 +29,7 @@ The episode frames incentives as a tradeoff rather than a simple giveaway or a s
 - Incentive return on investment is hard to measure because the direct cost is clear while indirect benefits are spread across construction, suppliers, property taxes, and future local revenue.
 - Energy scrutiny can change incentive design when electricity exemptions, carbon requirements, utility capacity, and local opposition become politically visible.
 - A moratorium can pair with subsidy rollback when lawmakers decide that attracting data centers is less urgent than defining acceptable resource use and local benefits.
+- Local referendums can make incentive approval itself part of the public-benefit test.
 
 ## Connections
 - [[NicholasMiller]] and [[NationalConferenceOfStateLegislatures]] - source expert and institutional source.
@@ -36,3 +39,4 @@ The episode frames incentives as a tradeoff rather than a simple giveaway or a s
 - [[DataCenterBacklash]] and [[AIBacklashPolitics]] - legitimacy pressure when public benefits look thin or local costs rise.
 - [[MaaSInfrastructure]], [[AIComputeContinuity]], and [[AIMetabolicInfrastructure]] - broader AI infrastructure branches affected by tax policy and energy capacity.
 - [[HyperscaleDataCenterMoratorium]] and [[KathyHochul]] - New York pause and tax-break review branch added by Marketplace Tech.
+- [[PortWashingtonWisconsin|Port Washington, Wisconsin]] and [[DataCenterIncentiveReferendum]] - voter-approval branch added by Marketplace Tech.

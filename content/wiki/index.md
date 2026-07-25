@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space](sources/tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Joanna Stern on Anthropic's restricted Claude-Methos Preview rollout, Project Glasswing, Port Washington's data-center incentive referendum, and NASA's Artemis 2 livestreaming.
 - [By 2030, EVs could cost the same as their gas guzzling siblings](sources/tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128.md) — Marketplace Tech episode on EV sticker-price barriers, battery costs, China's LFP-led price parity, and forecasts for U.S. EV and hybrid sales once the premium falls.
 - [Would banning teens from social media violate their First Amendment rights?](sources/tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128.md) — Marketplace Tech episode with Aaron Mackey of EFF on California AB 1709, under-16 social-media bans, age-verification burdens, youth online speech rights, and comprehensive privacy regulation as an alternative.
 - [Bytes: Week in Review - SpaceX's IPO, Iran threatens U.S. tech firms and California's new AI executive order](sources/tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Paresh Dave on SpaceX's reported IPO push, Iran-linked threats against U.S. tech infrastructure, Gulf AI investment, and California's AI procurement order.
@@ -619,6 +620,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Claude-Methos Preview](entities/ClaudeMethosPreview.md) — Anthropic cyber-capable model described by Marketplace Tech as strong at vulnerability discovery and restricted to trusted organizations.
+- [Project Glasswing](entities/ProjectGlasswing.md) — Anthropic restricted-access collaboration around Claude-Methos Preview for defensive vulnerability discovery.
+- [Cisco](entities/Cisco.md) — Networking and cybersecurity company named as a Project Glasswing access recipient.
+- [Port Washington, Wisconsin](entities/PortWashingtonWisconsin.md) — City whose residents voted for direct approval over some large developer incentives tied to future data-center development.
 - [Stephanie Valdez Streaty](entities/StephanieValdezStreaty.md) — Cox Automotive analyst voice explaining that U.S. EV adoption remains constrained mainly by sticker price.
 - [Cox Automotive](entities/CoxAutomotive.md) — Automotive market organization used by Marketplace Tech to ground the EV sticker-price barrier.
 - [Colin McCarrick](entities/ColinMcCarrick.md) — BloombergNEF analyst connecting China's EV price parity to integrated supply chains and improved LFP batteries.
@@ -4171,6 +4176,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Data Center Incentive Referendum](concepts/DataCenterIncentiveReferendum.md) — Local voting mechanism requiring approval before certain large data-center or developer tax incentives can proceed.
+- [Cybersecurity AI Supervision](concepts/CybersecurityAISupervision.md) — Work pattern where humans direct, inspect, and constrain AI agents performing security tasks such as vulnerability discovery.
+- [Space Mission Livestreaming](concepts/SpaceMissionLivestreaming.md) — Continuous live and social-media coverage that turns distant space missions into public-facing media events.
 - [Electric Vehicle Price Parity](concepts/ElectricVehiclePriceParity.md) — Adoption threshold where EV sticker prices become comparable to internal-combustion vehicles and mass-market buying becomes more likely.
 - [Lithium Iron Phosphate Batteries](concepts/LithiumIronPhosphateBatteries.md) — Cheaper LFP battery chemistry whose Chinese engineering improvements and global share support the EV price-parity story.
 - [California AB 1709](concepts/CaliforniaAB1709.md) — Proposed California under-16 social-media ban used as a case of child-safety technology regulation colliding with First Amendment speech-access limits.
