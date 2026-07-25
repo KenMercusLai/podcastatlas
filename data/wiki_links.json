@@ -6331,6 +6331,10 @@
     "title": "Dario Amodei",
     "url": "/wiki/entities/darioamodei/"
   },
+  "DarkFiber": {
+    "title": "Dark Fiber",
+    "url": "/wiki/concepts/darkfiber/"
+  },
   "DarkMatterLabs": {
     "title": "Dark Matter Labs",
     "url": "/wiki/entities/darkmatterlabs/"
@@ -17283,6 +17287,10 @@
     "title": "Paul Rhode",
     "url": "/wiki/entities/paulrhode/"
   },
+  "PaulVixie": {
+    "title": "Paul Vixie",
+    "url": "/wiki/entities/paulvixie/"
+  },
   "PayPal": {
     "title": "PayPal",
     "url": "/wiki/entities/paypal/"
@@ -26514,6 +26522,10 @@
   "tech-20260127-0127-mp-tech-pod-128-tech-20260127-0127-mp-tech-pod-128": {
     "title": "A historic home tour of the virtual world",
     "url": "/wiki/sources/tech-20260127-0127-mp-tech-pod-128-tech-20260127-0127-mp-tech-pod-128/"
+  },
+  "tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128": {
+    "title": "Infrastructure lessons from the dot-com bubble",
+    "url": "/wiki/sources/tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128/"
   },
   "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128": {
     "title": "Making the most of AI, without the hype",

@@ -2,8 +2,8 @@
 title: "Data Center Debt Risk"
 type: concept
 tags: [ai, data-centers, finance, infrastructure]
-sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
-last_updated: 2026-07-24
+sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # Data Center Debt Risk
@@ -18,6 +18,8 @@ The concept extends the wiki's AI infrastructure branch beyond power and permitt
 
 [[so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]] adds a macro-stability comparison. The source says a possible AI crash may be less bank-system-threatening than the 2008 housing crash if AI companies are not borrowing directly from banks at similar scale, but it keeps open the question of private-credit leverage and broader spillovers through jobs, spending, and infrastructure finance.
 
+[[tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]] adds the historical caution around infrastructure bankruptcies. [[PaulVixie]] argues dot-com fiber capacity ultimately paid off as [[DarkFiber]] became useful, but the source still notes a wave of telecom bankruptcies after the buildout. That makes productive spillovers compatible with severe financing losses.
+
 ## Key Claims
 - AI data centers can create balance-sheet and credit risk before their long-term cloud revenue is proven.
 - Third-party data-center development can make capacity growth faster, but it can also expose cloud providers to lease, financing, counterparty, and project-delay risk.
@@ -27,6 +29,7 @@ The concept extends the wiki's AI infrastructure branch beyond power and permitt
 - Long-duration debt can also become a market signal of AI commitment, especially when issued by a company such as [[Alphabet]] whose balance sheet is stronger than the project-finance cases that look immediately fragile.
 - Strategic-policy backing can change perceived financing risk by making demand, approvals, or procurement roles look more certain, even if the infrastructure still needs power, capital, and execution.
 - AI infrastructure debt risk should be separated by financing channel: direct bank exposure, private credit, leases, and strong-balance-sheet borrowing do not transmit stress the same way.
+- Useful post-bust assets do not remove debt risk; the dot-com fiber story shows that infrastructure can become socially valuable after some builders fail.
 
 ## Connections
 - [[Oracle]] - main company case in the source.
@@ -38,3 +41,4 @@ The concept extends the wiki's AI infrastructure branch beyond power and permitt
 - [[AIInfrastructureDebtFinancing]] and [[AIEquityValuationRisk]] - broader debt-financing and investor-return frames.
 - [[StargateAIInfrastructure]] and [[PoliticalRegulatoryLeverage]] - political-certainty layer added by 商业就是这样.
 - [[LeanVersusCleanBubblePolicy]], [[ProductiveBubbleSpillovers]], and [[AIEquityValuationRisk]] - macro-stability and post-bust usefulness branch added by Planet Money.
+- [[PaulVixie]] and [[DarkFiber]] - Marketplace Tech's historical example of bankruptcies coexisting with later infrastructure value.

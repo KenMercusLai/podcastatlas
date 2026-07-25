@@ -2,8 +2,8 @@
 title: "Technology Installation Cycle"
 type: concept
 tags: [technology, innovation, cycles, ai]
-sources: [e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
-last_updated: 2026-07-24
+sources: [e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # Technology Installation Cycle
@@ -16,6 +16,8 @@ Applied to AI, the episode places the field closer to an introductory or install
 
 [[so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]] adds the post-bust infrastructure question through [[ProductiveBubbleSpillovers]]. The episode compares dot-com fiber to possible AI data centers and R&D: an installation-stage bubble can destroy investor wealth while still leaving assets that later deployment may use.
 
+[[tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]] turns that comparison into a reported infrastructure walk. [[PaulVixie]]'s account of dot-com fiber construction and [[DarkFiber]] shows the installation stage in physical form: cable was laid before demand fully arrived, companies failed, and later applications used the capacity.
+
 ## Key Claims
 - Installation-stage technologies can be technically important before their social, organizational, and investment returns are settled.
 - Early finance and narrative can run ahead of deployment, making [[AIEquityValuationRisk]] compatible with genuine AI progress.
@@ -23,6 +25,7 @@ Applied to AI, the episode places the field closer to an introductory or install
 - The installation/deployment frame complements [[AIInvestmentMetrics]] by adding a longer maturity question to tokens, ARR, CAPEX, and deferred revenue.
 - Technology diffusion and economic diffusion can diverge: model capability can spread faster than organizational redesign.
 - Reusable infrastructure can make an installation-stage bubble socially different from a purely speculative collectible boom, even when public-market investors overpay.
+- The installed base matters: [[DarkFiber]] shows how deployment can lag installation by years, turning unused capacity into later economic infrastructure.
 
 ## Connections
 - [[CarlotaPerez]] — theorist invoked by the episode for technology-cycle staging.
@@ -31,4 +34,4 @@ Applied to AI, the episode places the field closer to an introductory or install
 - [[AIEquityValuationRisk]] — market risk when prices assume deployment before it is proven.
 - [[DepressionDrivenInnovation]] — macro condition in which new technologies often begin installation.
 - [[AIEconomicDiffusion]], [[AIOrganizationDesign]], and [[AgentNativeSoftware]] — episode 141's productivity-absorption extension.
-- [[ProductiveBubbleSpillovers]], [[AIComputeContinuity]], and [[DataCenterDebtRisk]] — Planet Money's post-bust infrastructure extension.
+- [[ProductiveBubbleSpillovers]], [[DarkFiber]], [[AIComputeContinuity]], and [[DataCenterDebtRisk]] — post-bust infrastructure extensions.

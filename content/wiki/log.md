@@ -4887,3 +4887,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-25] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 6,790 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes while lint scanned 6,790 pages, so graph findings are advisory until `build graph` refreshes it; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-25] ingest | Infrastructure lessons from the dot-com bubble
+
+Added source page for a Marketplace Tech episode with Paul Vixie on dot-com fiber overbuild, dark fiber, telecom bankruptcies, the FCC's 2007 unused-capacity estimate, and AI infrastructure boom analogies. Created pages for Paul Vixie and Dark Fiber; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Palo Alto Internet Exchange, Federal Communications Commission, Amazon Web Services, Productive Bubble Spillovers, Technology Installation Cycle, Strategic AI Infrastructure Dependence, AI Compute Continuity, and Data Center Debt Risk. No direct contradiction found; the source qualifies AI infrastructure risk by showing that useful capacity can survive a bust without making financing losses, power constraints, or hardware obsolescence irrelevant.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
