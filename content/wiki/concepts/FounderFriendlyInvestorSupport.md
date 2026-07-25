@@ -2,8 +2,8 @@
 title: "Founder Friendly Investor Support"
 type: concept
 tags: [startup, venture-capital, founder-support]
-sources: [tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
-last_updated: 2026-07-23
+sources: [tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
+last_updated: 2026-07-25
 ---
 
 # Founder Friendly Investor Support
@@ -20,6 +20,8 @@ In the source, the preferred investor role is to support founders, let them focu
 
 [[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] adds two Flexport versions. First, [[RonConway]] helped [[RyanPetersen]] resolve a San Francisco business-license blocker by escalating it to Mayor Ed Lee. Second, Petersen says [[FoundersFund]] came to [[Flexport]]'s rescue during hard fundraising moments. Both cases treat investor support as concrete operational or financing help at a moment when the company could have stalled.
 
+[[tsr-s5-ronconway-v5-tsr-s5-ronconway-v5]] adds the highest-stakes Conway version so far. During the [[SiliconValleyBank]] weekend, founder-friendly support becomes ecosystem support: Conway uses [[SVAngel]]'s relationships to push [[StartupPayrollSystemicRisk]] evidence and a [[DepositGuaranteeCrisisResponse]] proposal through policy channels before the Tokyo market open.
+
 ## Key Claims
 - Investor help should reduce founder load or improve judgment, not create recurring theater.
 - Founder experience can become useful investor support when it is translated into timely coaching rather than constant intervention.
@@ -29,6 +31,7 @@ In the source, the preferred investor role is to support founders, let them focu
 - Founder-friendly support begins with an advocacy stance: the investor sees defending and helping founders as part of the job, not as a side favor.
 - The most intense form of founder support may include mediation, employee protection, legal narrative, health access, and public-sector relationships.
 - Investor support can include resolving bureaucratic blockers and supplying financing when other capital sources pull back.
+- In rare cases, founder-friendly support may mean translating many companies' operating exposure into a public-policy case, not only helping one portfolio company.
 
 ## Connections
 - [[DavidRusenko]], [[LeapForward]], [[JessicaAlter]], and [[Weebly]] - source case.
@@ -38,3 +41,4 @@ In the source, the preferred investor role is to support founders, let them focu
 - [[Google]], [[SVAngel]], [[LarryPage]], [[SergeyBrin]], [[VentureSyndicateOrchestration]], and [[DistributionBeforeMonetization]] - Conway Part 3 branch.
 - [[Napster]], [[SeanFanning]], [[SeanParker]], [[FounderCrisisMediation]], and [[EmployeeSeveranceAtShutdown]] - Conway Part 4 branch.
 - [[RyanPetersen]], [[Flexport]], [[RonConway]], and [[FoundersFund]] - license and fundraising support cases added by the Ryan Petersen episode.
+- [[SiliconValleyBank]], [[WallyAdeyemo]], [[NancyPelosi]], [[SherrodBrown]], [[KamalaHarris]], [[CivicRelationshipsAsCrisisInfrastructure]], and [[DepositGuaranteeCrisisResponse]] - public-policy crisis support added by the Season Five Conway episode.

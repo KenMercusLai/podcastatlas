@@ -2,8 +2,8 @@
 title: "Barack Obama"
 type: entity
 tags: [person, politics, publishing, media]
-sources: [why-economists-got-free-trade-with-china-so-wrong, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, dark-times-for-cubas-economic-experiment, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]
-last_updated: 2026-07-24
+sources: [tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, why-economists-got-free-trade-with-china-so-wrong, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, dark-times-for-cubas-economic-experiment, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]
+last_updated: 2026-07-25
 ---
 
 # Barack Obama
@@ -24,6 +24,8 @@ Barack Obama appears in [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-
 
 [[why-economists-got-free-trade-with-china-so-wrong]] adds Obama through a trade-adjustment policy experiment. The [[PlanetMoney]] episode says his administration tried wage-replacement support for workers pushed into lower-paid jobs, placing Obama in the [[TradeAdjustmentAssistance]] branch alongside the broader question of whether the state helps workers directly or waits for places to recover.
 
+[[tsr-s5-ronconway-v5-tsr-s5-ronconway-v5]] adds Obama as a private crisis-advice actor during the [[SiliconValleyBank]] weekend. [[RonConway]] says Obama joined a private discussion with [[NancyPelosi]] and Conway before a San Francisco dinner, brought 2008 financial-crisis memory into the room, and helped explain the policy tension between [[MoralHazardContagionTradeoff|moral hazard and contagion]].
+
 ## Source Position
 - The hosts use Obama to distinguish post-presidency status monetization from active office-linked conflicts.
 - The Dan Siroker source treats the 2008 Obama campaign as an experimentation and fundraising context rather than as a biography of Obama himself.
@@ -34,6 +36,7 @@ Barack Obama appears in [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-
 - The Planet Money source treats Obama as the administration context for sanctions-backed [[USIranNuclearDiplomacy]] rather than as a biographical subject.
 - The Cuba source treats Obama as the policy-opening actor whose travel loosening made [[TourismDependentSmallEconomy]] opportunity more visible.
 - The China-shock source treats Obama as a worker-adjustment actor through wage-replacement-style support rather than as a free-trade architect.
+- The Social Radars source treats Obama as a former president applying crisis memory and policy framing rather than as a formal decision maker.
 
 ## Connections
 - [[PoliticalIdentityPremium]] — post-office media and publishing premium.
@@ -44,3 +47,4 @@ Barack Obama appears in [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-
 - [[DanSiroker]], [[Optimizely]], [[ABTestingForMarketers]], and [[DataDrivenProductCulture]] - campaign testing branch added by The Social Radars.
 - [[Cuba]], [[Havana]], [[CityCleta]], and [[TourismDependentSmallEconomy]] - Cuba travel-opening branch added by Planet Money.
 - [[ChinaShock]], [[PeopleVersusPlacesRecovery]], and [[TradeAdjustmentAssistance]] - trade-adjustment and wage-support branch added by Planet Money.
+- [[NancyPelosi]], [[RonConway]], [[SiliconValleyBank]], [[MoralHazardContagionTradeoff]], and [[DepositGuaranteeCrisisResponse]] - SVB weekend advisory branch added by The Social Radars.

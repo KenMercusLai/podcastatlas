@@ -2,8 +2,8 @@
 title: "Crisis Stakeholder Leadership"
 type: concept
 tags: [leadership, crisis, governance]
-sources: [tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s2-wrapup-v1, socialradarspod-brianchesky2-final]
-last_updated: 2026-07-23
+sources: [tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s2-wrapup-v1, socialradarspod-brianchesky2-final]
+last_updated: 2026-07-25
 ---
 
 # Crisis Stakeholder Leadership
@@ -16,6 +16,8 @@ The source's central tension is that a crisis decision can help one stakeholder 
 
 [[tsr-s4-gusto-v3-tsr-s4-gusto-v3]] adds a payroll-infrastructure version through [[Gusto]]. During the [[SiliconValleyBank]] crisis, Gusto's stakeholder set included customer companies, those companies' employees, tax and payment counterparties, and Gusto's own balance sheet. The source treats the decision to risk capital for payroll continuity as [[TrustAsBusinessAsset]] under pressure.
 
+[[tsr-s5-ronconway-v5-tsr-s5-ronconway-v5]] adds a broader ecosystem version through [[RonConway]]'s SVB weekend. Conway's account keeps founders, employees, small businesses, depositors, other regional banks, regulators, Congress, the White House, and foreign market reaction in the same decision frame. That extends crisis stakeholder leadership from a company CEO's operating choices into [[DepositGuaranteeCrisisResponse]] and [[MoralHazardContagionTradeoff]].
+
 ## Key Claims
 - In a crisis, credible communication is operational infrastructure because fear can stop teams from acting.
 - Stakeholder tradeoffs should be explicit; pretending everyone can be protected equally can delay necessary decisions.
@@ -23,10 +25,12 @@ The source's central tension is that a crisis decision can help one stakeholder 
 - Board advice can matter by correctly framing the severity of the situation before the organization emotionally accepts it.
 - Crisis leadership should leave a company with clearer priorities rather than only reduced costs.
 - Infrastructure companies may have to protect end users who are not their direct buyer when a customer's ability to pay workers or suppliers is at risk.
+- Ecosystem leaders may have to translate local operating pain into policy language without hiding the moral-hazard costs of emergency action.
 
 ## Connections
 - [[Airbnb]], [[BrianChesky]], and [[KenChenault]] - source case and crisis framing.
 - [[Gusto]], [[JoshReeves]], [[SiliconValleyBank]], [[PayrollInfrastructureTrust]], and [[FinancialOperationsResilience]] - payroll crisis case added by the Gusto episode.
+- [[RonConway]], [[SVAngel]], [[StartupPayrollSystemicRisk]], [[DepositGuaranteeCrisisResponse]], and [[CivicRelationshipsAsCrisisInfrastructure]] - ecosystem crisis-response branch added by the Season Five Conway episode.
 - [[StartupGovernance]], [[StakeholderCapitalism]], and [[TrustAsBusinessAsset]] - governance and trust concepts connected to the episode.
 - [[FounderLedFunctionalOrganization]] and [[ProfitAndCashFlowQuality]] - post-crisis operating and financial follow-through.
 - [[TheSocialRadars]], [[JessicaLivingston]], and [[CarolynLevy]] - interview context that later selected Chesky's COVID story as a Season 2 highlight.

@@ -2,7 +2,7 @@
 title: "Gavin Newsom"
 type: entity
 tags: [person, politics, california, ai-policy]
-sources: [tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]
+sources: [tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]
 last_updated: 2026-07-25
 ---
 
@@ -12,9 +12,12 @@ Gavin Newsom appears in [[tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-
 
 The source frames Newsom's action as both procurement policy and federalism politics. [[PareshDave|Paresh Dave]] says the order responds partly to [[DonaldTrump]] administration efforts to discourage or preempt state AI laws, making Newsom a state-level actor in [[StateAIProcurementGuardrails]] and [[AIGovernanceAndCompliance]].
 
+[[tsr-s5-ronconway-v5-tsr-s5-ronconway-v5]] briefly adds Newsom through the [[SiliconValleyBank]] weekend. [[RonConway]] says Newsom's team began coordinating with the effort to push for a deposit guarantee, making Newsom a minor state-government node in the episode's [[CivicRelationshipsAsCrisisInfrastructure]] network.
+
 ## Connections
 - [[California]] - state government context for the order.
 - [[StateAIProcurementGuardrails]] - policy mechanism added by the Marketplace Tech source.
 - [[AIGovernanceAndCompliance]] - broader AI governance frame.
 - [[DonaldTrump]] - federal political counterpoint in the source.
 - [[AIContentProvenance]] - watermarking requirement for AI-generated state output.
+- [[SiliconValleyBank]], [[RonConway]], [[DepositGuaranteeCrisisResponse]], and [[CivicRelationshipsAsCrisisInfrastructure]] - minor SVB crisis-response context added by The Social Radars.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Ron Conway on the Weekend Silicon Valley Bank Collapsed](sources/tsr-s5-ronconway-v5-tsr-s5-ronconway-v5.md) — The Social Radars episode with Ron Conway on the March 2023 Silicon Valley Bank run, deposit guarantees, Treasury/FDIC/Congress coordination, moral hazard versus contagion, YC payroll data, and civic relationships as crisis infrastructure.
 - [Peter Reinhardt on Segment's Pivots and Charm Industrial's Carbon Removal](sources/peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted.md) — The Social Radars episode with Peter Reinhardt on ClassMetric, Segment's analytics.js pivot, sales and pricing lessons, Twilio acquisition logic, and Charm Industrial's bio-oil carbon removal and permitting bottleneck.
 - [Bytes: Week in Review - Apple's new CEO, Meta's latest AI play, and Roblox's safety updates](sources/tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128.md) — Marketplace Tech Bytes episode on Apple succession, Meta employee activity tracking for AI training, AI data scarcity, and Roblox child-safety settlements.
 - [Anti-AI data center sentiment is becoming a political issue](sources/tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128.md) — Marketplace Tech episode on data-center bans, Maine's statewide construction pause, local community consent, energy and water concerns, and AI infrastructure becoming an election issue.
@@ -2748,6 +2749,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Echo Locker](entities/EchoLocker.md) — Lock-screen notification and priority-inbox product Yin Wu restarted around in YC Summer 2013 before Microsoft acquired it.
 - [Ron Conway](entities/RonConway.md) — Silicon Valley operator and investor whose Social Radars episodes trace National Semiconductor, Altos, founder advocacy, internet software investing, Netscape, Ask Jeeves, Google financing, and founder-helper investing.
 - [SV Angel](entities/SVAngel.md) — Ron Conway's investment firm, expanded through founder advocacy, internet software sourcing, Netscape, Ask Jeeves, Google syndication, distribution help, and founder-friendly support.
+- [Federal Deposit Insurance Corporation](entities/FederalDepositInsuranceCorporation.md) — U.S. bank-resolution institution in Conway's SVB weekend account, linked to receivership, deposit guarantees, systemic risk, and contagion control.
+- [Wally Adeyemo](entities/WallyAdeyemo.md) — Treasury deputy in Conway's SVB account who routed Conway toward the Treasury point person and later became part of the crisis update loop.
+- [Graham Steele](entities/GrahamSteele.md) — Treasury point person in Conway's SVB weekend account, receiving the "guarantee deposits" argument.
+- [Nancy Pelosi](entities/NancyPelosi.md) — Congressional leader in Conway's SVB account who created a private war room and helped frame moral hazard versus contagion.
+- [Sherrod Brown](entities/SherrodBrown.md) — Senator in Conway's SVB account who became a key congressional route for the deposit-guarantee push.
+- [Kamala Harris](entities/KamalaHarris.md) — Vice president in Conway's SVB account who heard the payroll and contagion argument and escalated it to senior officials.
+- [Ruth Porat](entities/RuthPorat.md) — Google finance executive in Conway's SVB account who helped gather 2008 crisis precedent for the systemic-risk argument.
+- [Marty Gruenberg](entities/MartyGruenberg.md) — FDIC figure in Conway's SVB account, tied to the tension between ordinary bank-resolution process and a full deposit guarantee.
+- [Maxine Waters](entities/MaxineWaters.md) — Congressional figure in Conway's SVB account, part of the FDIC oversight and guarantee-decision influence layer.
+- [First Republic Bank](entities/FirstRepublicBank.md) — Regional bank used in Conway's SVB account as an immediate contagion-risk example.
 - [Ben Rosen](entities/BenRosen.md) — Ron Conway's early investing partner, bringing analyst and venture experience to the internet software thesis and Ask Jeeves investment.
 - [Natural Language Incorporated](entities/NaturalLanguageIncorporated.md) — Early Berkeley natural-language AI company that became Ron Conway's first angel investment.
 - [Netscape](entities/Netscape.md) — Browser company used by Conway as the case for making the internet usable, validating the web publicly, and lowering startup costs through open source.
@@ -5833,6 +5844,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Money Movement Infrastructure](concepts/MoneyMovementInfrastructure.md) — Hidden fintech layer for bank connectivity, payment instructions, statements, reconciliation, exceptions, and faster payment-rail adoption.
 - [Financial Operations Resilience](concepts/FinancialOperationsResilience.md) — Ability to keep payments, payroll, collections, and reconciliation operating when a bank or payment workflow fails.
 - [Accelerated Bank Runs](concepts/AcceleratedBankRuns.md) — Bank-run risk accelerated by texts, social media, mobile banking, and online transfers.
+- [Deposit Guarantee Crisis Response](concepts/DepositGuaranteeCrisisResponse.md) — Emergency policy pattern where guaranteeing deposits is used to prevent a bank run from becoming broader systemic damage.
+- [Moral Hazard Contagion Tradeoff](concepts/MoralHazardContagionTradeoff.md) — Crisis-policy tension between preserving bank discipline and preventing panic from spreading across institutions.
+- [Systemic Risk Exception](concepts/SystemicRiskException.md) — Legal-policy frame in Conway's SVB account for extraordinary deposit protection when ordinary resolution could threaten broader stability.
+- [Startup Payroll Systemic Risk](concepts/StartupPayrollSystemicRisk.md) — Pattern where startup-bank deposits represent payroll and operating cash across many companies, not only investor wealth.
+- [Civic Relationships As Crisis Infrastructure](concepts/CivicRelationshipsAsCrisisInfrastructure.md) — Pattern where long-term relationships with public officials become operational channels during a crisis.
 - [Trust-Heavy Infrastructure Sales](concepts/TrustHeavyInfrastructureSales.md) — Sales pattern where critical-infrastructure buyers need trust, bank coordination, implementation, and time before usage metrics appear.
 - [Operational Pain Founder Insight](concepts/OperationalPainFounderInsight.md) — Startup insight pattern where founders productize a painful, repeated, unglamorous workflow they lived through directly.
 - [Payroll Infrastructure Trust](concepts/PayrollInfrastructureTrust.md) — Trust pattern where payroll software must make wages, tax filings, benefits data, payment timing, and crisis continuity reliable.

@@ -2,8 +2,8 @@
 title: "SV Angel"
 type: entity
 tags: [company, venture-capital, startups]
-sources: [tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final]
-last_updated: 2026-07-23
+sources: [tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final]
+last_updated: 2026-07-25
 ---
 
 # SV Angel
@@ -22,6 +22,8 @@ The episode also shows SV Angel's post-check help: distribution work around [[AO
 
 [[tsr-ronconway-part4-v2-tsr-ronconway-part4-v2]] expands that post-check help from the [[Google]] branch into an explicit operating model. Conway says [[SVAngel]] pursued a prepared [[MediaInternetConvergence]] thesis before [[Napster]], then helped through Hollywood introductions, [[HummerWinblad]] and [[Bertelsmann]] financing crises, [[RIAA]] conflict, [[Snowcap]] licensing repair, [[Plaxo]] and [[GitHub]] relationship paths, employee severance, health emergencies, and government coordination. The source makes SV Angel less a check-writing vehicle than a relationship and crisis-response system.
 
+[[tsr-s5-ronconway-v5-tsr-s5-ronconway-v5]] extends that relationship system into the public-policy response to the [[SiliconValleyBank]] collapse. The episode says SV Angel's founder summit gave Conway direct visibility into founder panic, while the firm's long-running civic relationships helped route the [[StartupPayrollSystemicRisk]] argument to [[USTreasury|U.S. Treasury]], Congress, and White House-adjacent decision makers before markets opened in Tokyo.
+
 ## Connections
 - [[RonConway]] - founder named in the source metadata.
 - [[BandOfAngels]] and [[OrganizedAngelInvestorNetworks]] - earlier angel-investing context.
@@ -32,3 +34,4 @@ The episode also shows SV Angel's post-check help: distribution work around [[AO
 - [[StanfordStartupSourcing]], [[VentureSyndicateOrchestration]], [[DistributionBeforeMonetization]], and [[FounderFriendlyInvestorSupport]] - concepts grounded by the Google episode.
 - [[Napster]], [[SeanFanning]], [[SeanParker]], [[HummerWinblad]], [[Bertelsmann]], [[Snowcap]], [[Plaxo]], and [[GitHub]] - media and founder-relationship branch added by Part 4.
 - [[MediaInternetConvergence]], [[CopyrightPlatformConflict]], [[DigitalMusicLicensing]], [[FounderCrisisMediation]], and [[EmployeeSeveranceAtShutdown]] - concepts added by the Napster episode.
+- [[SiliconValleyBank]], [[DepositGuaranteeCrisisResponse]], [[CivicRelationshipsAsCrisisInfrastructure]], and [[StartupPayrollSystemicRisk]] - public-policy crisis branch added by the Season Five Conway episode.

@@ -2,8 +2,8 @@
 title: "Financial Operations Resilience"
 type: concept
 tags: [finance, operations, resilience, banking]
-sources: [tsr-s4-gusto-v3-tsr-s4-gusto-v3, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, socialradarsseason2-dimitri-final]
-last_updated: 2026-07-23
+sources: [tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, socialradarsseason2-dimitri-final]
+last_updated: 2026-07-25
 ---
 
 # Financial Operations Resilience
@@ -16,6 +16,8 @@ The source's strongest distinction is between having a theoretical backup and ha
 
 [[tsr-s4-gusto-v3-tsr-s4-gusto-v3]] adds the payroll-vendor version through [[Gusto]]. During the March 2023 [[SiliconValleyBank]] crisis, the source says almost 10,000 Gusto customer companies banked with SVB and that Gusto put substantial company capital at risk so affected employees could still be paid.
 
+[[tsr-s5-ronconway-v5-tsr-s5-ronconway-v5]] adds the public-policy side of the same resilience problem. [[RonConway]] argues that uninsured deposits at [[SiliconValleyBank]] were not only venture balances but operating cash for payroll and small businesses, turning a company-level continuity problem into [[StartupPayrollSystemicRisk]] and a [[DepositGuaranteeCrisisResponse]] argument.
+
 ## Key Claims
 - One bank relationship can become an operational single point of failure even for companies that are otherwise technically resilient.
 - Backup accounts help only when payment flows, approvals, reconciliation, and access are actually configured before the crisis.
@@ -23,11 +25,13 @@ The source's strongest distinction is between having a theoretical backup and ha
 - Diversified banking can reduce the ethical pressure to pull all funds during a bank run because the company can continue operating without treating one institution as all-or-nothing.
 - Online banking availability is a narrower but still material resilience layer because customers may experience website access failure as financial-service disruption.
 - Payroll vendors can become resilience infrastructure when their own risk tolerance, payment processors, and crisis decisions determine whether customer employees get paid.
+- When enough companies rely on one bank for operating cash, financial-operations fragility can become a public-policy problem rather than only a CFO planning failure.
 
 ## Connections
 - [[ModernTreasury]], [[DimitriDadiomov]], [[SiliconValleyBank]], and [[SignatureBank]] - source cases.
 - [[Gusto]], [[JoshReeves]], [[TomerLondon]], and [[PayrollInfrastructureTrust]] - payroll-continuity case added by the Gusto episode.
 - [[MoneyMovementInfrastructure]] - operational layer that can support resilience.
 - [[AcceleratedBankRuns]] - risk pattern making resilience more urgent.
+- [[RonConway]], [[StartupPayrollSystemicRisk]], [[DepositGuaranteeCrisisResponse]], and [[CivicRelationshipsAsCrisisInfrastructure]] - public-policy version added by the Season Five Conway episode.
 - [[TrustAsBusinessAsset]] - trust can depend on making critical financial operations reliable under stress.
 - [[BankingDDoSResilience]] and [[IranLinkedCyberOperations]] - bank website-availability branch added by Marketplace Tech.

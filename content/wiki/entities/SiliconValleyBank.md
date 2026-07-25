@@ -2,8 +2,8 @@
 title: "Silicon Valley Bank"
 type: entity
 tags: [company, banking, startups, fintech]
-sources: [tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s4-ericm-v2-tsr-s4-ericm-v2, socialradarsseason2-dimitri-final, socialradarspod-brianarmstrong-final]
-last_updated: 2026-07-23
+sources: [tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s4-ericm-v2-tsr-s4-ericm-v2, socialradarsseason2-dimitri-final, socialradarspod-brianarmstrong-final]
+last_updated: 2026-07-25
 ---
 
 # Silicon Valley Bank
@@ -18,6 +18,8 @@ The Dadiomov source also reframes SVB through [[AcceleratedBankRuns]]. The episo
 
 [[tsr-s4-gusto-v3-tsr-s4-gusto-v3]] adds a payroll-continuity role through [[Gusto]]. The source says almost 10,000 Gusto customer companies banked with SVB during the March 2023 crisis, leaving their employees' payroll at risk. Gusto's decision to put substantial capital at risk turns SVB into a [[PayrollInfrastructureTrust]] and [[CrisisStakeholderLeadership]] case as well as a bank-resilience case.
 
+[[tsr-s5-ronconway-v5-tsr-s5-ronconway-v5]] adds [[RonConway]]'s participant chronology of the same weekend. Conway says SVB's Treasury and mortgage-backed-security exposure became dangerous after rate increases, that roughly $42 billion left the bank in about eight hours, and that the central policy question became whether to guarantee deposits before panic spread to [[FirstRepublicBank]] and global markets. The episode extends the page into [[DepositGuaranteeCrisisResponse]], [[MoralHazardContagionTradeoff]], [[SystemicRiskException]], and [[CivicRelationshipsAsCrisisInfrastructure]].
+
 [[tsr-s4-ericm-v2-tsr-s4-ericm-v2]] adds a pre-bank-run venture-debt role through [[Pebble]]. [[EricMigicovsky]] says Pebble took about $20 million in venture debt from Silicon Valley Bank and that using debt for salaries and operations was a mistake because covenants and cash-balance requirements reduced flexibility during the 2016 tailspin.
 
 ## Connections
@@ -25,4 +27,5 @@ The Dadiomov source also reframes SVB through [[AcceleratedBankRuns]]. The episo
 - [[AntiMoneyLaundering]], [[BankingKYCCompliance]], and [[RegulatedCryptoTrustStrategy]] - compliance concepts surfaced by the bank-transfer episode.
 - [[ModernTreasury]], [[DimitriDadiomov]], [[SignatureBank]], [[FinancialOperationsResilience]], [[AcceleratedBankRuns]], and [[TrustHeavyInfrastructureSales]] - banking infrastructure and crisis-resilience branch added by the Dadiomov episode.
 - [[Gusto]], [[JoshReeves]], [[PayrollInfrastructureTrust]], and [[CrisisStakeholderLeadership]] - payroll-continuity branch added by the Gusto episode.
+- [[RonConway]], [[SVAngel]], [[FederalDepositInsuranceCorporation|FDIC]], [[USTreasury|U.S. Treasury]], [[FirstRepublicBank]], [[DepositGuaranteeCrisisResponse]], and [[MoralHazardContagionTradeoff]] - weekend deposit-guarantee branch added by the Season Five Conway episode.
 - [[Pebble]], [[EricMigicovsky]], [[VentureDebtOperationalRisk]], [[HardwareInventoryRisk]], and [[StartupRunwayDiscipline]] - venture-debt caution added by the Eric Migicovsky episode.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-25] ingest | Ron Conway, Founder, SV Angel: Silicon Valley Bank Crisis
+
+Added source page for The Social Radars episode with Ron Conway on the March 2023 Silicon Valley Bank collapse, the weekend push to guarantee deposits, Treasury/FDIC/Congress coordination, moral hazard versus contagion, YC payroll-impact data, and civic relationships as crisis infrastructure. Created pages for Federal Deposit Insurance Corporation, Wally Adeyemo, Graham Steele, Nancy Pelosi, Sherrod Brown, Kamala Harris, Ruth Porat, Marty Gruenberg, Maxine Waters, First Republic Bank, Deposit Guarantee Crisis Response, Moral Hazard Contagion Tradeoff, Systemic Risk Exception, Startup Payroll Systemic Risk, and Civic Relationships As Crisis Infrastructure; updated overview, index, Ron Conway, SV Angel, Silicon Valley Bank, The Social Radars, Y Combinator, Garry Tan, U.S. Treasury, Janet Yellen, Barack Obama, Gavin Newsom, Accelerated Bank Runs, Financial Operations Resilience, Crisis Stakeholder Leadership, Founder Crisis Mediation, and Founder Friendly Investor Support. No direct contradiction found; the source complements existing Gusto and Modern Treasury SVB coverage while keeping Conway's judgments about officials' private stances source-scoped.
+
 ## [2026-07-25] ingest | Peter Reinhardt on Segment's Pivots and Charm Industrial's Carbon Removal
 
 Added source page for a The Social Radars episode with Peter Reinhardt on ClassMetric, Segment's analytics.js pivot, enterprise sales and pricing, Twilio's Segment acquisition logic, Charm Industrial's bio-oil carbon removal, Frontier demand creation, and regulatory bottlenecks around underground injection. Created pages for Peter Reinhardt, Charm Industrial, ClassMetric, analytics.js, Twilio, Jeff Lawson, Rafael Parker, Chris Surdean, Nat Friedman, Xamarin, Frontier Carbon Removal, Open Source Wedge, Bio-Oil Carbon Removal, Carbon Removal Permitting, and Advanced Market Commitment; updated overview, index, The Social Radars, Y Combinator, Paul Graham, Hacker News, Robert Morris, Segment, Product Analytics, Internal Tool Productization, Customer Evidence Strategy, Product-Led Willingness To Pay, Sales As Learnable Skill, Founder-Led Sales, Founder Product Fit, Founder Idea Pivot, Carbon Removal, Carbon Storage Permanence, Carbon Removal Cost Curve, Climate Startup Commercialization Gap, Economic Climate Tech Adoption, and Hard-Tech Regulatory Pathfinding. No direct contradiction found; the source extends the carbon-removal branch with a bio-oil pathway while keeping Peter's permitting, tonnage, and lifecycle claims source-attributed.
@@ -5027,3 +5031,7 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-07-25] ingest | Eric Ries: Incorruptible by Design
 
 Refreshed the existing Long Now source page for Eric Ries's "Incorruptible by Design" from `/home/ken/repos/podcastatlas/content/episodes/02026-ries-podcast-v2 [02026-ries-podcast-v2].md`. The file matched the already-ingested episode, so no duplicate source page was created; provenance was updated with the new source file, audio URL, duration, and a source note. Existing pages for Eric Ries, Long Now, Incorruptible, Financial Gravity, Human Flourishing Profit, Steward Ownership, Accountability Sinks, Private Regulatory Power, AI Alignment Governance, Trust As Business Asset, Costco, Vanguard, Patagonia, Zeiss, Novo Nordisk, Anthropic, and Long-Term Benefit Trust already covered the episode's claims. No direct contradiction found.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
