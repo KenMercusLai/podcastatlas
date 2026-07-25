@@ -7527,6 +7527,10 @@
     "title": "双手稿叙事 / Dual Manuscript Narration",
     "url": "/wiki/concepts/dualmanuscriptnarration/"
   },
+  "DualUseDefenseTechnology": {
+    "title": "Dual-Use Defense Technology",
+    "url": "/wiki/concepts/dualusedefensetechnology/"
+  },
   "DualUseTechInfrastructureTargeting": {
     "title": "Dual-Use Tech Infrastructure Targeting",
     "url": "/wiki/concepts/dualusetechinfrastructuretargeting/"
@@ -8610,6 +8614,10 @@
   "FedNow": {
     "title": "FedNow",
     "url": "/wiki/entities/fednow/"
+  },
+  "FederalAIPreemption": {
+    "title": "Federal AI Preemption",
+    "url": "/wiki/concepts/federalaipreemption/"
   },
   "FederalCommunicationsCommission": {
     "title": "Federal Communications Commission",
@@ -10443,6 +10451,10 @@
     "title": "Guy Raz",
     "url": "/wiki/entities/guyraz/"
   },
+  "H1BVisaCoalitionFaultLine": {
+    "title": "H-1B Visa Coalition Fault Line",
+    "url": "/wiki/concepts/h1bvisacoalitionfaultline/"
+  },
   "HBO": {
     "title": "HBO",
     "url": "/wiki/entities/hbo/"
@@ -11418,6 +11430,10 @@
   "HumanResourceDeflationComputeInfrastructureInflation": {
     "title": "Human Resource Deflation Compute Infrastructure Inflation",
     "url": "/wiki/concepts/humanresourcedeflationcomputeinfrastructureinflation/"
+  },
+  "HumanRightsResearchCenter": {
+    "title": "Human Rights Research Center",
+    "url": "/wiki/entities/humanrightsresearchcenter/"
   },
   "HumanRiskOverride": {
     "title": "Human Risk Override",
@@ -22039,6 +22055,10 @@
     "title": "Stepping-Stone Exploration",
     "url": "/wiki/concepts/steppingstoneexploration/"
   },
+  "SteveBannon": {
+    "title": "Steve Bannon",
+    "url": "/wiki/entities/stevebannon/"
+  },
   "SteveHuffman": {
     "title": "Steve Huffman",
     "url": "/wiki/entities/stevehuffman/"
@@ -22443,6 +22463,10 @@
     "title": "Sustainable Wild Harvesting",
     "url": "/wiki/concepts/sustainablewildharvesting/"
   },
+  "SuyashPasi": {
+    "title": "Suyash Pasi",
+    "url": "/wiki/entities/suyashpasi/"
+  },
   "SwanMaidenMotif": {
     "title": "Swan Maiden Motif",
     "url": "/wiki/concepts/swanmaidenmotif/"
@@ -22738,6 +22762,10 @@
   "TechForCampaigns": {
     "title": "Tech for Campaigns",
     "url": "/wiki/entities/techforcampaigns/"
+  },
+  "TechGovernmentAccommodation": {
+    "title": "Tech-Government Accommodation",
+    "url": "/wiki/concepts/techgovernmentaccommodation/"
   },
   "TechHiringStabilization": {
     "title": "Tech Hiring Stabilization",
@@ -27038,6 +27066,10 @@
   "tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128": {
     "title": "Dr. AI will see you now",
     "url": "/wiki/sources/tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128/"
+  },
+  "tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128": {
+    "title": "Why Big Tech leaders aligned themselves with White House politics this year",
+    "url": "/wiki/sources/tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128/"
   },
   "tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128": {
     "title": "A tech company that 'happens to build homes'",

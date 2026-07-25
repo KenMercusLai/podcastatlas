@@ -384,6 +384,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tony Xu on Building DoorDash from a Class Project into a Global Marketplace](sources/socialradarspod-tonyxu-final.md) — The Social Radars episode with Tony Xu on DoorDash's small-business discovery, PaloAltoDelivery MVP, YC marketplace validation, suburban delivery focus, and founder proximity to customers, merchants, and dashers.
 - [Tracy Young on PlanGrid, TigerEye, and Building a Company Deliberately](sources/socialradarsseason1-tracyyoung-final-1.md) — The Social Radars episode with Tracy Young on PlanGrid's construction blueprint workflow, Antoine Hersen, Y Combinator, Autodesk, TigerEye, second-time founder judgment, values-based hiring, remote work, and founder-family support.
 - [Trevor Blackwell on Viaweb, Robots, and Early Y Combinator](sources/tsr-s2-trevorblackwell-v2.md) — The Social Radars episode with Trevor Blackwell on Viaweb, Yahoo Store, Anybots, dynamic balancing robots, and early Y Combinator's first applications, dinners, and Mountain View office improvisation.
+- [Why Big Tech leaders aligned themselves with White House politics this year](sources/tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128.md) — Marketplace Tech episode with Suyash Pasi on technology leaders' 2025 accommodation of the Trump White House, AI deregulation and federal preemption, crypto's renewed prominence, H-1B coalition tension, and dual-use defense technology.
 - [Dr. AI will see you now](sources/tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128.md) — Marketplace Tech episode with Hassan Benchikran on patients using AI for diagnoses, treatment ideas, biopsy results, and medical decisions, and why clinicians should invite AI outputs into the visit for contextual review rather than dismissing them.
 - [Bytes: Week in Review - Micron's big earnings, Oracle's data center woes and "slop" is Merriam-Webster's word of the year](sources/tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Anita Ramaswamy of The Information on Micron's AI memory boom, high-bandwidth memory, consumer storage pressure, Oracle's reported OpenAI cloud deal and data-center debt risk, Blue Owl's reported project withdrawal, local data-center backlash, and AI slop becoming Merriam-Webster's 2025 word of the year.
 - [The challenges of integrating ads in AI search engines](sources/tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128.md) — Marketplace Tech episode with Garrett Johnson of Boston University on AI search advertising, Perplexity's ad pullback, advertiser scale, conversion data, OpenAI commerce partnerships, GEO, and winner-take-most answer slots.
@@ -630,6 +631,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [Peter Reinhardt](entities/PeterReinhardt.md) — Segment and Charm Industrial founder whose episode links failed ClassMetric, analytics.js, enterprise sales learning, Twilio acquisition logic, and bio-oil carbon removal.
+- [Suyash Pasi](entities/SuyashPasi.md) — Human Rights Research Center analyst explaining tech leaders' Trump-era accommodation through AI deregulation, immigration tension, crypto, and defense technology.
+- [Human Rights Research Center](entities/HumanRightsResearchCenter.md) — Nonprofit affiliation for Suyash Pasi in the Marketplace Tech episode on technology leaders and White House politics.
+- [Steve Bannon](entities/SteveBannon.md) — Protectionist MAGA faction marker in the H-1B dispute between tech employers and immigration restrictionists.
 - [Charm Industrial](entities/CharmIndustrial.md) — Peter Reinhardt's carbon-removal company converting biomass into bio-oil for underground injection.
 - [ClassMetric](entities/ClassMetric.md) — Failed YC classroom-feedback startup that preceded Segment and exposed the analytics-routing need behind analytics.js.
 - [analytics.js](entities/AnalyticsJS.md) — Small open-source routing library whose Hacker News response became the wedge for Segment.
@@ -4239,6 +4243,10 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Open Source Wedge](concepts/OpenSourceWedge.md) — Startup pattern where a small open-source component reveals a larger hosted product opportunity.
+- [Federal AI Preemption](concepts/FederalAIPreemption.md) — Federal effort to limit state-level AI regulation, framed as a deregulatory benefit for AI companies and a state-federal governance conflict.
+- [Tech-Government Accommodation](concepts/TechGovernmentAccommodation.md) — Pattern where technology leaders align with or placate an administration to preserve access around regulation, visas, crypto, infrastructure, or procurement.
+- [H-1B Visa Coalition Fault Line](concepts/H1BVisaCoalitionFaultLine.md) — Split between technology employers' high-skill immigration demand and protectionist MAGA opposition to worker visas.
+- [Dual-Use Defense Technology](concepts/DualUseDefenseTechnology.md) — AI, drone, and government technology capability that can be justified through both military and civilian benefits.
 - [Bio-Oil Carbon Removal](concepts/BioOilCarbonRemoval.md) — Carbon-removal pathway that converts biomass into bio-oil and stores it underground.
 - [Carbon Removal Permitting](concepts/CarbonRemovalPermitting.md) — Regulatory-pathfinding work needed before physical carbon-removal systems can operate at scale.
 - [Advanced Market Commitment](concepts/AdvancedMarketCommitment.md) — Demand-creation mechanism where buyers commit early purchasing power to pull immature supply into existence.

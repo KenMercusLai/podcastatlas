@@ -2,8 +2,8 @@
 title: "White House"
 type: entity
 tags: [government, united-states, ai-policy]
-sources: [battlefield-rare-earths-how-the-us-lost-to-china, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
-last_updated: 2026-07-24
+sources: [tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, battlefield-rare-earths-how-the-us-lost-to-china, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # White House
@@ -18,6 +18,8 @@ The source makes the White House important because voluntary language can coexis
 
 [[battlefield-rare-earths-how-the-us-lost-to-china]] adds the White House as part of the rare-earth rebuilding channel. [[MarkSmith]] says [[NioCorp]] has been meeting with the White House and federal agencies as it pursues a Nebraska rare-earth mine, and he frames possible government equity as a strong partnership route.
 
+[[tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128]] adds the White House as the political center of [[TechGovernmentAccommodation]]. [[SuyashPasi]] says major technology leaders aligned themselves with the Trump administration during 2025, while AI companies benefited from [[FederalAIPreemption]] and government-aligned defense technology became more salient.
+
 ## Connections
 - [[UnitedStates]] - national government context.
 - [[OpenAI]] and [[GPT56|GPT-5.6]] - model release under review.
@@ -27,3 +29,4 @@ The source makes the White House important because voluntary language can coexis
 - [[CarbonRemoval]], [[DirectAirCapture]], [[Carbon180]], [[UnitedStatesCongress|Congress]], [[Louisiana]], and [[Texas]] - selective carbon-removal support branch added by Marketplace Tech.
 - [[StargateAIInfrastructure]], [[Oracle]], [[OpenAI]], and [[PoliticalRegulatoryLeverage]] - strategic AI infrastructure branch added by 商业就是这样.
 - [[NioCorp]], [[MarkSmith]], [[RareEarthProcessingBottleneck]], and [[StateBackedRareEarthRebuilding]] - rare-earth policy branch added by Planet Money.
+- [[SuyashPasi]], [[TechGovernmentAccommodation]], [[FederalAIPreemption]], [[H1BVisaCoalitionFaultLine]], and [[DualUseDefenseTechnology]] - technology-sector alignment branch added by Marketplace Tech.

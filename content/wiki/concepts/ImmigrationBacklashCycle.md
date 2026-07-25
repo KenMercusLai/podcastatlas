@@ -2,8 +2,8 @@
 title: "Immigration Backlash Cycle"
 type: concept
 tags: [immigration, politics, history]
-sources: [the-ice-hiring-boom, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
-last_updated: 2026-07-24
+sources: [tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, the-ice-hiring-boom, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
+last_updated: 2026-07-25
 ---
 
 # Immigration Backlash Cycle
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 [[the-ice-hiring-boom]] adds the enforcement-capacity version of the cycle. The source says DHS presents the crackdown as targeting the "worst of the worst," while the episode reports many detainees had no criminal convictions, some had legal status, and some U.S. citizens were taken into custody. The result is a backlash dynamic where political demands for restriction turn into organizational scale, detention capacity, and public concern over overreach.
 
 [[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]] adds an intra-coalition version through H-1B politics. The source shows that [[MAGA]] backlash can target even legal high-skill immigration, while [[ElonMusk]] and technology employers defend access to foreign technical labor, producing [[MAGACoalitionFracture]] rather than a single restrictionist line.
+
+[[tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128]] adds a Marketplace Tech version of the same cycle. [[SuyashPasi]] says protectionist [[MAGA]] figures, including the [[SteveBannon]] faction, clash with [[ElonMusk]] and technology leaders over H-1B visas, while [[DonaldTrump]] has indicated the visas have value and should remain.
 
 Immigration backlash cycle is the recurring American pattern in which openness to newcomers is followed by fear, restriction, exclusion, and eventual reopening. [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]] traces this cycle from founding-era arguments over immigration through Irish, Chinese, southern European, eastern European, Latin American, and refugee migration.
 
@@ -28,6 +30,7 @@ The episode treats the cycle as a reason for cautious optimism and a warning. Ea
 - Outside the U.S., immigration backlash can also form when formal control increases but visible migration outcomes do not match voter expectations.
 - Restriction can coexist with selective openness to high-skill or high-value migrants, especially when immigration policy is tied to industrial policy and inflation claims.
 - The sequel shows that selective openness itself can divide a movement when employers and grassroots voters attach different meanings to high-skill migrants.
+- The Marketplace Tech source names this selective-openness conflict as [[H1BVisaCoalitionFaultLine]] inside a broader technology-government alignment.
 - Enforcement backlash becomes institutionally consequential when hiring, detention capacity, field culture, and private contracts scale faster than public trust.
 
 ## Connections
@@ -38,4 +41,5 @@ The episode treats the cycle as a reason for cautious optimism and a warning. Ea
 - [[UnitedKingdom]], [[Brexit]], and [[PostBrexitImmigrationPolitics]] - British sovereignty-and-migration variant.
 - [[MeritBasedImmigrationFilter]], [[AmericaFirstPolicyInstitute]], and [[RepublicanParty]] - Trump 2.0 document variant added by Qizhulou Yan Binke.
 - [[MAGA]], [[ElonMusk]], and [[MAGACoalitionFracture]] - H-1B coalition split added by sp.05.
+- [[SteveBannon]], [[SuyashPasi]], [[H1BVisaCoalitionFaultLine]], and [[TechGovernmentAccommodation]] - Marketplace Tech's high-skill visa conflict branch.
 - [[USImmigrationAndCustomsEnforcement]], [[ICEWorkforceExpansion]], [[ImmigrationDetentionExpansion]], and [[CarceralEconomicDependency]] - enforcement-scale and detention-economy branch added by Planet Money.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-25] ingest | Why Big Tech leaders aligned themselves with White House politics this year
+
+Added source page for a Marketplace Tech episode with Suyash Pasi on major technology leaders' 2025 alignment with the Trump White House. Created pages for Suyash Pasi, Human Rights Research Center, Steve Bannon, Federal AI Preemption, Tech-Government Accommodation, H-1B Visa Coalition Fault Line, and Dual-Use Defense Technology; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Donald Trump, White House, Elon Musk, Palantir, MAGA, MAGA Coalition Fracture, Immigration Backlash Cycle, Merit-Based Immigration Filter, AI Governance And Compliance, State AI Procurement Guardrails, Defense AI Procurement, and Defense Tech Startup Procurement. No direct contradiction found; the source reinforces the existing H-1B MAGA coalition-fracture branch and adds federal AI preemption as the deregulatory counterpoint to state procurement guardrails.
+
 ## [2026-07-25] ingest | Ron Conway, Founder, SV Angel: Silicon Valley Bank Crisis
 
 Added source page for The Social Radars episode with Ron Conway on the March 2023 Silicon Valley Bank collapse, the weekend push to guarantee deposits, Treasury/FDIC/Congress coordination, moral hazard versus contagion, YC payroll-impact data, and civic relationships as crisis infrastructure. Created pages for Federal Deposit Insurance Corporation, Wally Adeyemo, Graham Steele, Nancy Pelosi, Sherrod Brown, Kamala Harris, Ruth Porat, Marty Gruenberg, Maxine Waters, First Republic Bank, Deposit Guarantee Crisis Response, Moral Hazard Contagion Tradeoff, Systemic Risk Exception, Startup Payroll Systemic Risk, and Civic Relationships As Crisis Infrastructure; updated overview, index, Ron Conway, SV Angel, Silicon Valley Bank, The Social Radars, Y Combinator, Garry Tan, U.S. Treasury, Janet Yellen, Barack Obama, Gavin Newsom, Accelerated Bank Runs, Financial Operations Resilience, Crisis Stakeholder Leadership, Founder Crisis Mediation, and Founder Friendly Investor Support. No direct contradiction found; the source complements existing Gusto and Modern Treasury SVB coverage while keeping Conway's judgments about officials' private stances source-scoped.
@@ -5035,3 +5039,7 @@ Refreshed the existing Long Now source page for Eric Ries's "Incorruptible by De
 ## [2026-07-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 6,962 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolves to `claude-3-5-sonnet-latest` without a provider prefix. Report returned in-session; `wiki/lint-report.md` was not saved.
