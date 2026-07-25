@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-25] ingest | 开天窗：摸鱼+感谢+吹大理
+
+Added source page for a 蜜獾吃书 short update on cross-province moving, listener thanks, pronunciation feedback, responses to the previous grief episode, Dali air/stars/Erhai moonrise, and source-scoped future leads around Angela Carter, 《荒野上的大师》, 《武士威廉》, 《仁王》, 《土里不吐气》, and 新移民文学. Created pages for Angela Carter, 张全, 《荒野上的大师》, 《武士威廉》, 《仁王》, 《土里不吐气》, and New Migrant Literature; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, Dali, Restorative Creative Pacing, Reading List Pointer Episode, Podcast Release Cadence, Nature Contact And Self-Perception, and Reading As Life Experience. No direct contradiction found; all previewed books and authors are kept as program leads rather than full source claims.
+
 ## [2026-07-25] ingest | 08.老妓抄：老妓不死，甚至不曾凋零
 
 Added source page for the 蜜獾吃书 episode on 冈本加乃子's 《老妓抄》, her biography, Buddhist-inflected life force, subtle plot, and stories including 《鲤鱼》, 《蝙蝠》, 《仲夏夜之梦》, 《老妓抄》, 《五妓》, 《寿司》, and 《东海道》. Created pages for Okamoto Kanoko, 《老妓抄》, Okamoto Ippei, Kawabata Yasunari, Tanizaki Junichiro, Zhang Ailing, Buddhist Life-Affirming Literature, Subtle Plot Psychological Aftertaste, Gendered Patronage Inversion, and Geisha Life-Cycle Writing; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, Reading As Life Experience, Non-Instrumental Literary Reading, Female Self-Possession, Classic Reading Complexity, Modern Japanese Interior Discovery, and Literary Gossip As Context. No direct contradiction found; the source extends the wiki's Japanese literature and women's-agency branches by showing how quiet fiction, author biography, Buddhist restraint, economic dependence, and geisha life stages can produce literary force without strong plot.
@@ -5111,6 +5115,10 @@ Added source page for a 蜜獾吃书 episode using 史景迁《雍正王朝之�
 ## [2026-07-25] ingest | 12.慢：当米兰·昆德拉一句正经没有
 
 Added source page for a 蜜獾吃书 episode on 米兰·昆德拉《慢》 as a farcical French-language novel about speed, public moral performance, sexual and intellectual self-staging, Czech memory, anti-kitsch body comedy, privacy, and exile. Created pages for Milan Kundera, 《慢》, 《玩笑》, 《不可承受的生命之轻》, Czech Republic, Prague, Prague Spring, Velvet Revolution, Vera Kundera, Slowness As Modernity Critique, Public Moral Performance, Kitsch As Waste Denial, Anti-Lyricism, Memory Self-Mythologizing, Privacy Under Public Gaze, Author As Political Symbol, and Political Condition As Human Experiment; updated overview, index, 蜜獾吃书, Classic Reading Complexity, Author Myth Deflation, and Artistic Achievement Moral Accountability. No direct contradiction found; the source keeps the informing controversy explicitly contested while extending the wiki's reading branch from political-literary labels into human performance, body, media, memory, and privacy.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-25] lint | Wiki health check
 

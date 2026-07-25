@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [开天窗：摸鱼+感谢+吹大理](sources/kaitianchuang-moyu-ganxie-chui-dali-553650149.md) — 蜜獾吃书 short update on cross-province moving, listener thanks, Dali air/stars/moonrise, and future leads around Angela Carter, 《荒野上的大师》, 《武士威廉》, 《土里不吐气》, and 新移民文学.
 - [13.悲伤的力量：谈谈丧亲之痛](sources/13-beishang-de-liliang-tantan-sangqin-zhitong-551507792.md) — 蜜獾吃书 episode using Julia Samuel's 《悲伤的力量》 to discuss bereavement, childhood death communication, grief companionship, professional counseling, trauma narrative integration, and QinZong's childhood mother-loss experience.
 - [12.慢：当米兰·昆德拉一句正经没有](sources/12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675.md) — 蜜獾吃书 episode using 米兰·昆德拉《慢》 to read speed, public moral performance, anti-kitsch body comedy, Czech exile, privacy, memory self-mythologizing, and the risk of reducing Kundera to a political writer.
 - [11.雍正王朝之大义觉迷：史景迁笔下的千古奇案](sources/11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513.md) — 蜜獾吃书 episode using 史景迁《雍正王朝之大义觉迷》 to narrate the 曾静案, 张熙投书, 岳钟琪密折, 吕留良文字狱, 《大义觉迷录》, 雍正公开辩驳, and乾隆 suppression.
@@ -641,6 +642,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Angela Carter / 安吉拉·卡特](entities/AngelaCarter.md) — author stored as a source-scoped future topic preview from a 蜜獾吃书 moving-status episode.
+- [张全](entities/ZhangQuan.md) — author linked to the previewed book 《荒野上的大师》 and a possible future 蜜獾吃书 guest/live branch.
+- [《荒野上的大师》](entities/HuangyeShangDeDashi.md) — source-scoped reading preview associated with 张全.
+- [《武士威廉》](entities/SamuraiWilliam.md) — source-scoped history-book preview connected to the historical prototype behind 《仁王》.
+- [《仁王》 / Nioh](entities/Nioh.md) — game reference used as a cross-media hook for the previewed 《武士威廉》 discussion.
+- [《土里不吐气》](entities/TuLiBuTuQi.md) — source-scoped book preview about a city-to-countryside couple farming with biology/ecology backgrounds.
 - [《悲伤的力量》 / Grief Works](entities/BeishangDeLiliang.md) — Julia Samuel bereavement-counseling book used by episode 13 to discuss grief work, child death education, companionship, rituals, and traumatic grief.
 - [Julia Samuel / 朱利亚·萨米尔](entities/JuliaSamuel.md) — Psychotherapist-author whose bereavement cases ground the episode's grief counseling, child truth-telling, and trauma narrative integration frames.
 - [Milan Kundera / 米兰·昆德拉](entities/MilanKundera.md) — Writer read through 《慢》 as comic, anti-kitsch, privacy-obsessed, politically marked, and resistant to being reduced to a political symbol.
@@ -4319,6 +4326,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [New Migrant Literature / 新移民文学](concepts/NewMigrantLiterature.md) — provisional reading direction around city-to-rural movement, farming practice, and new life rhythms after the hosts' Dali move.
 - [Bereavement Grief Work / 丧亲悲伤工作](concepts/BereavementGriefWork.md) — Process of carrying a loved one's death through truth, language, ritual, support, and professional care rather than denial or forced recovery.
 - [Child Death Education / 儿童死亡教育](concepts/ChildDeathEducation.md) — Episode 13 stance that children should receive clear, age-appropriate truth about death and be supported through mourning rituals.
 - [Grief Companion Support / 丧亲陪伴支持](concepts/GriefCompanionSupport.md) — Practical support stance centered on steady presence, listening, ordinary continuity, and handoff to professional help when grief becomes dangerous.
