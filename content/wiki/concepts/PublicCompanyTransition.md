@@ -2,8 +2,8 @@
 title: "Public Company Transition"
 type: concept
 tags: [startups, public-markets, management, governance]
-sources: [tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio]
-last_updated: 2026-07-23
+sources: [tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio]
+last_updated: 2026-07-25
 ---
 
 # Public Company Transition
@@ -12,13 +12,17 @@ Public company transition is the shift from private startup operating mode into 
 
 The episode makes the transition cultural as well as financial. Spenser says he simulated public-company life before the listing by giving fake stock-price updates in all-hands meetings, including a sharp rise followed by a painful decline. That preparation did not eliminate the later volatility, but it shows that public status changes the emotional and operating environment for employees, not only the cap table.
 
+[[tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128]] adds the post-listing profitability burden through [[Snap]]. [[SarahKunst]] says public-company leaders work for every shareholder, and that even small shareholders can use public channels to question management. The source therefore extends public-company transition from listing readiness into the continuing obligation to explain [[PathToProfitability]], costs, capital allocation, and strategy under [[ActivistInvestorPressure]].
+
 ## Key Claims
 - Public status can bring liquidity, credibility, acquisition currency, talent advantages, and discipline.
 - Public status also brings overhead, investor scrutiny, and emotional volatility around stock price.
 - Companies should prepare management teams and employees before the listing rather than treat readiness as a post-listing problem.
 - Public-company transition interacts with [[StageAppropriateHiring]] because executive misfit becomes more expensive under market scrutiny.
+- The Snap episode adds that public status makes the profitability story continuously contestable by shareholders, not only by board members or private investors.
 
 ## Connections
 - [[Amplitude]], [[SpenserSkates]], and [[DirectListingDiscipline]] - source case.
 - [[PublicMarketCommunication]], [[StageAppropriateHiring]], and [[FounderProximity]] - operating lessons connected by the source.
 - [[StartupGovernance]] and [[TrustAsBusinessAsset]] - adjacent governance themes.
+- [[Snap]], [[SarahKunst]], [[PathToProfitability]], and [[ActivistInvestorPressure]] - public-company profitability and shareholder-pressure extension.

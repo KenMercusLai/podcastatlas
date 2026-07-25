@@ -2,8 +2,8 @@
 title: "Mark Zuckerberg"
 type: entity
 tags: [person, founder, meta, social-networking]
-sources: [tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2]
-last_updated: 2026-07-17
+sources: [tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2]
+last_updated: 2026-07-25
 ---
 
 # Mark Zuckerberg
@@ -16,9 +16,12 @@ The same source later mentions Zuckerberg in a different operational context: Co
 
 [[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]] adds the investment-pressure side of that strategy. [[MariaCurie|Maria Curi]] says Zuckerberg has poured billions into AI and reorganized Meta around the effort, while social AI content such as [[MuseImage|Muse Image]] looks like the most natural consumer path because Meta already owns major social networks.
 
+[[tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128]] adds the investor-patience comparison. [[SarahKunst]] says investors punished [[Meta]] after tens of billions of dollars in metaverse spending did not catch on, then regained confidence after Zuckerberg shifted into a "year of austerity." The episode uses that turn to clarify [[PathToProfitability]] and why investors may view current AI spending differently from the earlier metaverse bet.
+
 ## Connections
 - [[SeanParker]], [[RonConway]], and [[SVAngel]] - introduction and mentorship context.
 - [[Meta]] - company context for Facebook.
 - [[LarryPage]], [[SergeyBrin]], and [[FounderFriendlyInvestorSupport]] - Highway 101 operating-problem branch.
 - [[PersonalSuperintelligence]], [[MetaAI|Meta AI]], and [[RayBanSmartGlasses|Ray-Ban smart glasses]] - AI-era strategy added by Marketplace Tech.
 - [[MuseImage|Muse Image]], [[Instagram]], [[WhatsApp]], and [[AIPublicLikenessGeneration]] - social AI content and privacy branch added by Marketplace Tech.
+- [[SarahKunst]], [[Snap]], [[PathToProfitability]], and [[ActivistInvestorPressure]] - April 22 Marketplace Tech comparison around investor patience.

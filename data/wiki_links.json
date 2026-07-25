@@ -1535,6 +1535,10 @@
     "title": "Active Management Style Evolution",
     "url": "/wiki/concepts/activemanagementstyleevolution/"
   },
+  "ActivistInvestorPressure": {
+    "title": "Activist Investor Pressure",
+    "url": "/wiki/concepts/activistinvestorpressure/"
+  },
   "ActorObserverBias": {
     "title": "Actor-Observer Bias / 行动者-观察者偏差",
     "url": "/wiki/concepts/actorobserverbias/"
@@ -2678,6 +2682,10 @@
   "Area51": {
     "title": "Area 51 / 51区",
     "url": "/wiki/entities/area51/"
+  },
+  "ArenicCapitalManagement": {
+    "title": "Arenic Capital Management",
+    "url": "/wiki/entities/areniccapitalmanagement/"
   },
   "Argentina": {
     "title": "Argentina",
@@ -5334,6 +5342,10 @@
   "ClimateStartupCommercializationGap": {
     "title": "Climate Startup Commercialization Gap",
     "url": "/wiki/concepts/climatestartupcommercializationgap/"
+  },
+  "ClioCapital": {
+    "title": "Clio Capital",
+    "url": "/wiki/entities/cliocapital/"
   },
   "CliptoAI": {
     "title": "Clipto AI",
@@ -15507,6 +15519,10 @@
     "title": "Michael LaSara",
     "url": "/wiki/entities/michaellasara/"
   },
+  "MichaelLynton": {
+    "title": "Michael Lynton",
+    "url": "/wiki/entities/michaellynton/"
+  },
   "MichaelSeibel": {
     "title": "Michael Seibel",
     "url": "/wiki/entities/michaelseibel/"
@@ -17514,6 +17530,10 @@
   "PathJoy": {
     "title": "PathJoy",
     "url": "/wiki/entities/pathjoy/"
+  },
+  "PathToProfitability": {
+    "title": "Path To Profitability",
+    "url": "/wiki/concepts/pathtoprofitability/"
   },
   "PatientAIUse": {
     "title": "Patient AI Use",
@@ -20271,6 +20291,10 @@
     "title": "Sarah Gonzalez",
     "url": "/wiki/entities/sarahgonzalez/"
   },
+  "SarahKunst": {
+    "title": "Sarah Kunst",
+    "url": "/wiki/entities/sarahkunst/"
+  },
   "SaruKaniGassen": {
     "title": "猿蟹合战 / Saru Kani Gassen",
     "url": "/wiki/entities/sarukanigassen/"
@@ -21214,6 +21238,10 @@
   "SnakeRenewalAndSecretKnowledge": {
     "title": "Snake Renewal And Secret Knowledge",
     "url": "/wiki/concepts/snakerenewalandsecretknowledge/"
+  },
+  "Snap": {
+    "title": "Snap",
+    "url": "/wiki/entities/snap/"
   },
   "Snapchat": {
     "title": "Snapchat",
@@ -27106,6 +27134,10 @@
   "tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128": {
     "title": "News sites are blocking access to Internet Archive's Wayback Machine",
     "url": "/wiki/sources/tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128/"
+  },
+  "tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128": {
+    "title": "When do tech companies need to be consistently profitable?",
+    "url": "/wiki/sources/tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128/"
   },
   "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128": {
     "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",
