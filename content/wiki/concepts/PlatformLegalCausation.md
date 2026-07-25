@@ -2,8 +2,8 @@
 title: "Platform Legal Causation"
 type: concept
 tags: [law, platforms, causation, liability]
-sources: [tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # Platform Legal Causation
@@ -12,11 +12,14 @@ Platform legal causation is the proof problem in which plaintiffs must show that
 
 The source's core distinction is between factual influence and legally recognized responsibility. Many factors can contribute to youth mental-health outcomes, but the case asks whether alleged addictive design by [[Meta]] and [[YouTube]] counts as a cause the law should assign to defendants. That makes the concept a bridge between [[SocialMediaCausationScienceWars]] and [[SocialMediaProductLiability]].
 
+[[tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128]] updates the concept after verdicts. Goldman says the notable development is that juries in Los Angeles and [[NewMexico]] accepted the plaintiffs' core responsibility story, turning platform causation from a pretrial uncertainty into a verdict-backed but appeal-vulnerable theory.
+
 ## Key Claims
 - Legal causation is narrower than ordinary causal language; not every contributing influence becomes defendant responsibility.
 - Youth social-media lawsuits must connect alleged injuries to specific platform conduct, product design, and legally cognizable harm.
 - Expert testimony matters because jurors are being asked to evaluate addiction, mental-health harm, and responsibility together.
 - The concept can shape remedies and product design if courts accept that engagement mechanics are not just speech distribution but actionable product choices.
+- Jury acceptance can increase settlement and product-design pressure, but appellate review can still undo the causal pathway if [[Section230]] or [[PlatformFirstAmendmentDefense|First Amendment]] arguments prevail.
 
 ## Connections
 - [[EricGoldman]] - expert explaining the legal proof problem.
@@ -24,3 +27,4 @@ The source's core distinction is between factual influence and legally recognize
 - [[SocialMediaCausationScienceWars]] - evidence dispute over whether social media causes youth harms.
 - [[AddictiveInteractionDesign]] - design pattern plaintiffs point to when arguing causation.
 - [[PlatformDamagesAndDisgorgement]] - remedy frame that becomes more powerful if causation is established.
+- [[BellwetherPlatformTrials]] and [[Section230DesignWorkaround]] - post-verdict procedural branch added by the April 2026 episode.

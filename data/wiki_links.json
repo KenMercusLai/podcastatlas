@@ -3383,6 +3383,10 @@
     "title": "Bell Media",
     "url": "/wiki/entities/bellmedia/"
   },
+  "BellwetherPlatformTrials": {
+    "title": "Bellwether Platform Trials",
+    "url": "/wiki/concepts/bellwetherplatformtrials/"
+  },
   "BeltAndRoadExternalDemand": {
     "title": "Belt and Road External Demand",
     "url": "/wiki/concepts/beltandroadexternaldemand/"
@@ -10767,6 +10771,10 @@
     "title": "High Sensitivity As Difference / 高敏感作为差异",
     "url": "/wiki/concepts/highsensitivityasdifference/"
   },
+  "HighTechLawInstitute": {
+    "title": "High Tech Law Institute",
+    "url": "/wiki/entities/hightechlawinstitute/"
+  },
   "HigherEducationAIDiscoverability": {
     "title": "Higher Education AI Discoverability",
     "url": "/wiki/concepts/highereducationaidiscoverability/"
@@ -16251,6 +16259,10 @@
     "title": "New England Revolution",
     "url": "/wiki/entities/newenglandrevolution/"
   },
+  "NewMexico": {
+    "title": "New Mexico",
+    "url": "/wiki/entities/newmexico/"
+  },
   "NewOrderAssetPricing": {
     "title": "New Order Asset Pricing",
     "url": "/wiki/concepts/neworderassetpricing/"
@@ -17834,6 +17846,10 @@
   "PlatformDependencyRisk": {
     "title": "Platform Dependency Risk",
     "url": "/wiki/concepts/platformdependencyrisk/"
+  },
+  "PlatformFirstAmendmentDefense": {
+    "title": "Platform First Amendment Defense",
+    "url": "/wiki/concepts/platformfirstamendmentdefense/"
   },
   "PlatformIPStrategy": {
     "title": "Platform IP Strategy",
@@ -20015,6 +20031,10 @@
     "title": "Sanrio / 三丽鸥",
     "url": "/wiki/entities/sanrio/"
   },
+  "SantaClaraUniversity": {
+    "title": "Santa Clara University",
+    "url": "/wiki/entities/santaclarauniversity/"
+  },
   "SarahBond": {
     "title": "Sarah Bond",
     "url": "/wiki/entities/sarahbond/"
@@ -20266,6 +20286,10 @@
   "Section230": {
     "title": "Section 230",
     "url": "/wiki/concepts/section230/"
+  },
+  "Section230DesignWorkaround": {
+    "title": "Section 230 Design Workaround",
+    "url": "/wiki/concepts/section230designworkaround/"
   },
   "SecularHappinessAgainstIdeology": {
     "title": "Secular Happiness Against Ideology",
@@ -26774,6 +26798,10 @@
   "tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128": {
     "title": "Too much AI in the office is causing \\\"brain fry\\\"",
     "url": "/wiki/sources/tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128/"
+  },
+  "tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128": {
+    "title": "Meta and Youtube held liable for their addictive products",
+    "url": "/wiki/sources/tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128/"
   },
   "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128": {
     "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",

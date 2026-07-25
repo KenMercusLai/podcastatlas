@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Meta and Youtube held liable for their addictive products](sources/tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128.md) — Marketplace Tech episode with Eric Goldman on Meta and YouTube child-safety verdicts, New Mexico's Meta verdict, bellwether trials, Section 230 design workarounds, and First Amendment appeal risks.
 - [Too much AI in the office is causing "brain fry"](sources/tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128.md) — Marketplace Tech episode with Matt Krop of BCG on AI brain fry, cognitive exhaustion from supervising AI tools, morale risk, AI use pacing, and work redesign around repetitive toil rather than high-cognitive oversight.
 - [MLB brings automated ball-strike tech to the Big Leagues](sources/tech-20260330-0330-mp-tech-pod-128-tech-20260330-0330-mp-tech-pod-128.md) — Marketplace Tech episode on MLB's Automated Ball Strike Challenge System, Hawkeye tracking, strike-zone calibration, umpire fallback, fan trust, and sports officiating automation.
 - [What AI fitness apps can and can't do - for now](sources/tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128.md) — Marketplace Tech episode with Nicole Nguyen on Apple Workout Buddy, Fitbit's AI health coach, Peloton's camera-based form correction, AI fitness cost, hallucinations, accountability, and nutrition-tracking next steps.
@@ -1455,7 +1456,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nvidia Vera Rubin Platform](entities/NvidiaVeraRubinPlatform.md) — Post-Blackwell Nvidia platform in E230's GTC roadmap, used to test whether future AI systems can scale through supply-chain and data-center constraints.
 - [NeMo Cloud](entities/NeMoCloud.md) — Nvidia software/cloud layer in E230, framed as an agent-deployment and token-demand surface rather than only an application service.
 - [Groq](entities/Groq.md) — Low-latency inference-chip reference in E230, used to explain SRAM-heavy LPU-style specialization for agentic workloads.
-- [Eric Goldman](entities/EricGoldman.md) — Legal expert explaining platform causation, Section 230, user stakes, and spillover risk in social-media addiction litigation.
+- [Eric Goldman](entities/EricGoldman.md) — Legal expert explaining platform causation, Section 230, bellwether verdicts, appeal risks, and spillover risk in social-media addiction litigation.
+- [Santa Clara University](entities/SantaClaraUniversity.md) — University affiliation for Eric Goldman in the Marketplace Tech social-media verdict and Section 230 appeal episode.
+- [High Tech Law Institute](entities/HighTechLawInstitute.md) — Santa Clara University institute anchoring Eric Goldman's technology-law expertise in the social-media verdict episode.
 - [David Brancaccio](entities/DavidBrancaccio.md) — Marketplace Tech reporter whose own post-wildfire rebuild grounds the episode's comparison of CLT, mineral wool, stucco, concrete alternatives, carbon, and neighborhood memory.
 - [Heidi Lewis](entities/HeidiLewis.md) — Altadena homeowner in the episode using concrete-filled wall systems as a highly fire-resistant rebuilding approach.
 - [KLH](entities/KLH.md) — European mass-timber company named as a cross-laminated timber example in a Colby College dormitory project.
@@ -2471,7 +2474,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wendy Liu](entities/WendyLiu.md) — Girl Scouts of the USA chief revenue officer explaining digital cookie sales, girl-led learning, platform feedback, and online safety.
 - [Nicole Turner-Lee](entities/NicoleTurnerLee.md) — Brookings Institution expert explaining California's DROP platform as useful but incomplete consumer privacy agency over broker-held data.
 - [Brookings Institution](entities/BrookingsInstitution.md) — Policy institution represented by Nicole Turner-Lee in the Marketplace Tech discussion of data brokers and state privacy tools.
-- [California](entities/California.md) — State privacy-law case launching DROP under the California Delete Act as a consumer-side complement to warrant-focused data-broker reforms.
+- [California](entities/California.md) — State appearing through wildfire rebuilding, carbon removal, data-broker deletion, and Meta social-media litigation.
+- [New Mexico](entities/NewMexico.md) — State attorney-general verdict context where Meta was found to have violated state law and misled consumers about child-safety guardrails.
 - [Delete Request and Opt Out Platform](entities/DeleteRequestAndOptOutPlatform.md) — California's DROP tool for residents to request deletion of personal information from registered data brokers.
 - [Kalshi](entities/Kalshi.md) — Prediction-market platform used by Marketplace Tech to examine harmful-event wagers, Khamenei-related market resolution, CFTC rules, market-integrity risk, and self-regulatory guardrails.
 - [News Corp](entities/NewsCorp.md) — Media company whose reported Meta licensing deal grounds the wiki's AI content licensing and publisher traffic-loss branch.
@@ -2856,7 +2860,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SK Hynix](entities/SKHynix.md) — Memory supplier peer named alongside Micron and Samsung in the AI memory demand cycle.
 - [Blue Owl Capital](entities/BlueOwlCapital.md) — Capital provider named in reporting discussed by Marketplace Tech about withdrawal from an Oracle-linked Michigan data-center project.
 - [Merriam-Webster](entities/MerriamWebster.md) — Dictionary publisher whose 2025 word-of-the-year selection of "slop" grounds the episode's AI-generated content discussion.
-- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on bridge monitoring, AI grief bots, workplace AI, crypto confidence, privacy, cyber risk, AI chips, patient AI use, tech hiring, world models, data centers, digital archiving, and AI slop.
+- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on social-media verdicts, workplace AI, crypto confidence, privacy, cyber risk, AI chips, data centers, digital archiving, and AI slop.
 - [Equinix](entities/Equinix.md) — Colocation data-center company used by Marketplace Tech to connect a historic Palo Alto telecom building to PAIX, AltaVista, cloud infrastructure, and AI traffic.
 - [Eddie Espinosa](entities/EddieEspinosa.md) — Equinix customer operations manager guiding the Marketplace Tech tour of the historic Palo Alto data-center building.
 - [Pacific Telephone and Telegraph](entities/PacificTelephoneAndTelegraph.md) — Telecom company that built the 1929 Palo Alto switchboard building later associated with AltaVista, PAIX, and Equinix.
@@ -3301,7 +3305,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刚刚好影视 / Gangganghao Yingshi](entities/GangganghaoYingshi.md) — Live-action short-drama company contrasted with Rixin Yiy through higher-budget, story-led, single-project production.
 - [苏太太高调离婚了 / Su Taitai Gaodiao Lihunle](entities/SuTaitaiGaodiaoLihunle.md) — Live-action short-drama work used as an episode 269 example of completion, immersion, and story-driven free-platform performance.
 - [甄千金他是学霸 / Zhen Qianjin Ta Shi Xueba](entities/ZhenQianjinTaShiXueba.md) — Live-action short-drama example used to explain why changed character relationships change motivation and story events.
-- [YouTube](entities/YouTube.md) — Video platform discussed through social-media product liability, media dominance, short-drama distribution, Social Radars clips, and Google's acquisition as legal-risk acquirer fit.
+- [YouTube](entities/YouTube.md) — Video platform discussed through social-media product liability verdicts, media dominance, short-drama distribution, Social Radars clips, and Google's acquisition as legal-risk acquirer fit.
 - [Israel](entities/Israel.md) — Country actor whose conflict with Hezbollah in Lebanon could imperil the episode's wider U.S.-Iran diplomacy frame.
 - [Lebanon](entities/Lebanon.md) — Country context for the ceasefire clause, Hezbollah capacity, and enforcement problem in the Iran-deal segment.
 - [Hezbollah](entities/Hezbollah.md) — Armed movement whose southern-Lebanon capacity drives Israel's skepticism about a ceasefire.
@@ -3681,7 +3685,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [PGP](entities/PGP.md) — Cryptography software used as a historical analogy for why intangible software export controls can fail.
 - [Fable 5](entities/Fable5.md) — AI model/product discussed through one-shot coding, planning, review triage, quota pressure, and token-driven product imagination.
 - [GrillMe Skills](entities/GrillMeSkills.md) — Matpaco skill workflow contrasted with Superpowers as a lighter manual path for requirement questioning, specs, ADRs, PRDs, and issue decomposition.
-- [Meta](entities/Meta.md) — Platform company discussed through product liability, AI capex, social AI content, Muse Image, public-likeness defaults, and application-layer bets.
+- [Meta](entities/Meta.md) — Platform company discussed through child-safety product-liability verdicts, AI capex, social AI content, Muse Image, public-likeness defaults, and application-layer bets.
 - [OpenManus](entities/OpenManus.md) — Agent project referenced as evidence that Manus-like task execution, local browser operation, and workflow automation were becoming easier to reproduce.
 - [Tongxin Software](entities/TongxinSoftware.md) — Domestic operating-system company used by the episode to connect Deepin's community lineage with Xinchuang government-enterprise delivery and management culture.
 - [Tongxin UOS](entities/TongxinUOS.md) — Commercial operating-system product connected to Deepin and the Xinchuang market.
@@ -4768,9 +4772,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Colocation Data Center](concepts/ColocationDataCenter.md) — Data-center model where customers lease space near other networks and providers, making physical proximity and interconnection part of cloud and AI infrastructure.
 - [Neutral Internet Exchange](concepts/NeutralInternetExchange.md) — Infrastructure pattern where many networks meet in a neutral location, making internet, cloud, and AI traffic less dependent on a few dominant connection points.
 - [Agent as a Service](concepts/AgentAsAService.md) — E230 business-model shift from SaaS seats toward AI labor or task execution, tying agent products to recurring inference cost and reliability.
+- [Bellwether Platform Trials](concepts/BellwetherPlatformTrials.md) — Representative platform-liability trials used to test how juries may respond before thousands of related cases resolve.
 - [Internet Liability Spillover](concepts/InternetLiabilitySpillover.md) — Risk that social-media addiction and design-liability theories spread to video games, generative AI, and other interactive services.
 - [Platform Legal Causation](concepts/PlatformLegalCausation.md) — Proof problem requiring plaintiffs to connect platform design to legally recognized responsibility for user harms.
-- [Section 230](concepts/Section230.md) — U.S. internet-law protection that can shape platform-liability cases even when deferred to appeal.
+- [Platform First Amendment Defense](concepts/PlatformFirstAmendmentDefense.md) — Argument that platform content ranking, presentation, and delivery may be protected editorial activity.
+- [Section 230](concepts/Section230.md) — U.S. internet-law protection that can shape platform-liability cases when design claims try to avoid content immunity on appeal.
+- [Section 230 Design Workaround](concepts/Section230DesignWorkaround.md) — Strategy of framing platform claims around design, presentation, or delivery rather than third-party content.
 - [Biophilic Design](concepts/BiophilicDesign.md) — Design frame for rebuilding homes with natural light, connection to nature, sustainability, and continuity with neighborhood memory.
 - [Concrete-Filled Wall Systems](concepts/ConcreteFilledWallSystems.md) — Fire-resistant rebuilding method using lightweight forms or panels filled with concrete, with carbon and design tradeoffs.
 - [Cross-Laminated Timber](concepts/CrossLaminatedTimber.md) — Pressed-layer mass-timber material framed as fire conscious, fast to assemble, and potentially lower carbon when protected and long-lived.

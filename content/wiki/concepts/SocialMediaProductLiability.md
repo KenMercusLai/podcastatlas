@@ -2,8 +2,8 @@
 title: "Social Media Product Liability"
 type: concept
 tags: [social-media, law, child-safety, platforms]
-sources: [tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # Social Media Product Liability
@@ -16,6 +16,8 @@ Social media product liability is the legal frame in which platform features are
 
 The episode's important shift is not the $6 million damages figure by itself. [[MariaCurie|Maria Curi]] argues that the legal theory may matter more because it tests whether features such as infinite scroll, autoplay, parental controls, age verification, and encrypted messaging can be scrutinized as product choices when internal documents show known youth-harm risks.
 
+[[tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128]] adds Goldman's post-verdict interpretation. He treats the Los Angeles verdict and the separate [[NewMexico]] verdict against Meta as signals that juries may accept the plaintiffs' basic story, while still emphasizing that appeals may revisit [[Section230]], the [[Section230DesignWorkaround]], and [[PlatformFirstAmendmentDefense|First Amendment]] limits.
+
 [[tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]] extends the concept from a negligence verdict into [[StateAGPlatformLitigation]]. [[GaiaBernstein]] explains a $1.4 trillion attorneys general case against [[Meta]] over [[Facebook]] and [[Instagram]], adding [[COPPA]], [[PlatformDamagesAndDisgorgement]], [[BigTobaccoPlatformAnalogy]], and [[SocialMediaCausationScienceWars]] to the legal frame.
 
 ## Key Claims
@@ -26,8 +28,10 @@ The episode's important shift is not the $6 million damages figure by itself. [[
 - The frame connects social media to broader child-safety politics around [[AIBacklashPolitics]], [[TeenChatbotMentalHealthRisk]], and platform accountability.
 - State attorneys general can raise the stakes by aggregating harms, invoking children's privacy law, and seeking disgorgement of profits tied to alleged illegal design.
 - Pre-verdict litigation turns on [[PlatformLegalCausation]] and may leave [[Section230]] for appeal rather than the jury phase.
+- Post-verdict litigation remains unstable if appellate courts reject the design-versus-content workaround or accept platform speech defenses.
 
 ## Connections
+- [[BellwetherPlatformTrials]], [[Section230DesignWorkaround]], [[PlatformFirstAmendmentDefense]], [[NewMexico]], [[SantaClaraUniversity]], and [[HighTechLawInstitute|High Tech Law Institute]] - post-verdict appellate branch added by the April 2026 episode.
 - [[GaiaBernstein]], [[StateAGPlatformLitigation]], [[COPPA]], [[PlatformDamagesAndDisgorgement]], [[BigTobaccoPlatformAnalogy]], and [[SocialMediaCausationScienceWars]] - state-AG and public-health litigation branch added by the July 2026 episode.
 - [[EricGoldman]], [[PlatformLegalCausation]], [[Section230]], and [[InternetLiabilitySpillover]] - pre-verdict Los Angeles trial framing added by the February 2026 episode.
 - [[Meta]] and [[YouTube]] - platforms found negligent in the episode's Los Angeles verdict discussion.
