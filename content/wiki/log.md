@@ -5103,3 +5103,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-25] ingest | 11.雍正王朝之大义觉迷：史景迁笔下的千古奇案
 
 Added source page for a 蜜獾吃书 episode using 史景迁《雍正王朝之大义觉迷》 to narrate the 曾静案 from 张熙投书岳钟琪 through密折、吕留良文字狱、《大义觉迷录》、雍正公开辩驳、乾隆翻案式处置, and the broader problem of rumor under imperial power. Created pages for Treason by the Book, 《大义觉迷录》, Yongzheng Emperor, Zeng Jing, Zhang Xi, Yue Zhongqi, Lu Liuliang, Qianlong Emperor, Li Wei, Nian Gengyao, Qing Literary Inquisition, Qing Rumor Politics, Imperial Public Rebuttal, Han-Manchu Legitimacy Politics, and Political Propaganda Backfire; updated overview, index, 蜜獾吃书, Jonathan Spence, Kangxi Emperor, Secret Memorial Political Intelligence, Personal Rule Legitimacy Crisis, and Historical Memory Contest. No direct contradiction found; the source extends the wiki's Spence and Qing-history branches by showing how a thin conspiracy became durable through rumor, books, ethnic legitimacy, official self-protection, and propaganda backfire.
+
+## [2026-07-25] ingest | 12.慢：当米兰·昆德拉一句正经没有
+
+Added source page for a 蜜獾吃书 episode on 米兰·昆德拉《慢》 as a farcical French-language novel about speed, public moral performance, sexual and intellectual self-staging, Czech memory, anti-kitsch body comedy, privacy, and exile. Created pages for Milan Kundera, 《慢》, 《玩笑》, 《不可承受的生命之轻》, Czech Republic, Prague, Prague Spring, Velvet Revolution, Vera Kundera, Slowness As Modernity Critique, Public Moral Performance, Kitsch As Waste Denial, Anti-Lyricism, Memory Self-Mythologizing, Privacy Under Public Gaze, Author As Political Symbol, and Political Condition As Human Experiment; updated overview, index, 蜜獾吃书, Classic Reading Complexity, Author Myth Deflation, and Artistic Achievement Moral Accountability. No direct contradiction found; the source keeps the informing controversy explicitly contested while extending the wiki's reading branch from political-literary labels into human performance, body, media, memory, and privacy.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

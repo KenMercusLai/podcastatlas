@@ -123,6 +123,10 @@
     "title": "119.安乐死现场：正因生命如此珍贵",
     "url": "/wiki/sources/119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087/"
   },
+  "12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675": {
+    "title": "12.慢：当米兰·昆德拉一句正经没有",
+    "url": "/wiki/sources/12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675/"
+  },
   "120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218": {
     "title": "120.蓝狐岛：伟大事业中的雄心与现实",
     "url": "/wiki/sources/120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218/"
@@ -2587,6 +2591,10 @@
     "title": "Anti-Heroic Resistance Narrative",
     "url": "/wiki/concepts/antiheroicresistancenarrative/"
   },
+  "AntiLyricism": {
+    "title": "Anti-Lyricism / 反抒情",
+    "url": "/wiki/concepts/antilyricism/"
+  },
   "AntiMoneyLaundering": {
     "title": "Anti-Money Laundering",
     "url": "/wiki/concepts/antimoneylaundering/"
@@ -3002,6 +3010,10 @@
   "AuthenticationLedMarketplaceTrust": {
     "title": "Authentication-Led Marketplace Trust",
     "url": "/wiki/concepts/authenticationledmarketplacetrust/"
+  },
+  "AuthorAsPoliticalSymbol": {
+    "title": "Author As Political Symbol / 作者作为政治符号",
+    "url": "/wiki/concepts/authoraspoliticalsymbol/"
   },
   "AuthorCharacterSeparation": {
     "title": "Author-Character Separation",
@@ -6434,6 +6446,10 @@
   "CytokineReleaseSyndrome": {
     "title": "Cytokine Release Syndrome",
     "url": "/wiki/concepts/cytokinereleasesyndrome/"
+  },
+  "CzechRepublic": {
+    "title": "Czech Republic / 捷克",
+    "url": "/wiki/entities/czechrepublic/"
   },
   "DADavidson": {
     "title": "D.A. Davidson",
@@ -13515,6 +13531,10 @@
     "title": "Kissmetrics",
     "url": "/wiki/entities/kissmetrics/"
   },
+  "KitschAsWasteDenial": {
+    "title": "Kitsch As Waste Denial / 媚俗作为排泄否认",
+    "url": "/wiki/concepts/kitschaswastedenial/"
+  },
   "KiyosumiShirakawa": {
     "title": "Kiyosumi-Shirakawa / 清澄白河",
     "url": "/wiki/entities/kiyosumishirakawa/"
@@ -15699,6 +15719,10 @@
     "title": "Memory Contamination Risk",
     "url": "/wiki/concepts/memorycontaminationrisk/"
   },
+  "MemorySelfMythologizing": {
+    "title": "Memory Self-Mythologizing / 记忆的自我神话化",
+    "url": "/wiki/concepts/memoryselfmythologizing/"
+  },
   "MemoryWall": {
     "title": "Memory Wall",
     "url": "/wiki/concepts/memorywall/"
@@ -15938,6 +15962,10 @@
   "MikeSolana": {
     "title": "Mike Solana",
     "url": "/wiki/entities/mikesolana/"
+  },
+  "MilanKundera": {
+    "title": "Milan Kundera / 米兰·昆德拉",
+    "url": "/wiki/entities/milankundera/"
   },
   "MilieuSpecificAnalysis": {
     "title": "Milieu-Specific Analysis",
@@ -18559,6 +18587,10 @@
     "title": "Political Closure As Literary Pressure",
     "url": "/wiki/concepts/politicalclosureasliterarypressure/"
   },
+  "PoliticalConditionAsHumanExperiment": {
+    "title": "Political Condition As Human Experiment / 政治条件作为人性实验",
+    "url": "/wiki/concepts/politicalconditionashumanexperiment/"
+  },
   "PoliticalDeliveryGap": {
     "title": "Political Delivery Gap",
     "url": "/wiki/concepts/politicaldeliverygap/"
@@ -18739,6 +18771,14 @@
     "title": "Power-Violence Distinction / 权力与暴力区分",
     "url": "/wiki/concepts/powerviolencedistinction/"
   },
+  "Prague": {
+    "title": "Prague / 布拉格",
+    "url": "/wiki/entities/prague/"
+  },
+  "PragueSpring": {
+    "title": "Prague Spring / 布拉格之春",
+    "url": "/wiki/entities/praguespring/"
+  },
   "PreOrderLaunchConcentration": {
     "title": "Pre-Order Launch Concentration",
     "url": "/wiki/concepts/preorderlaunchconcentration/"
@@ -18906,6 +18946,10 @@
   "PrinciplesOfPhilosophy": {
     "title": "Principles of Philosophy / 《哲学原理》",
     "url": "/wiki/entities/principlesofphilosophy/"
+  },
+  "PrivacyUnderPublicGaze": {
+    "title": "Privacy Under Public Gaze / 公共凝视下的隐私",
+    "url": "/wiki/concepts/privacyunderpublicgaze/"
   },
   "PrivateActuarialism": {
     "title": "Private Actuarialism",
@@ -19166,6 +19210,10 @@
   "PublicMediaFunding": {
     "title": "Public Media Funding",
     "url": "/wiki/concepts/publicmediafunding/"
+  },
+  "PublicMoralPerformance": {
+    "title": "Public Moral Performance / 公共道德表演",
+    "url": "/wiki/concepts/publicmoralperformance/"
   },
   "PublicOpinionLitigationStrategy": {
     "title": "Public Opinion Litigation Strategy",
@@ -21595,9 +21643,17 @@
     "title": "Slock.ai / Slock AI",
     "url": "/wiki/entities/slockai/"
   },
+  "SlowKundera": {
+    "title": "《慢》 / Slowness",
+    "url": "/wiki/entities/slowkundera/"
+  },
   "SlowProductMarketFit": {
     "title": "Slow Product Market Fit",
     "url": "/wiki/concepts/slowproductmarketfit/"
+  },
+  "SlownessAsModernityCritique": {
+    "title": "Slowness As Modernity Critique / 作为现代性批判的慢",
+    "url": "/wiki/concepts/slownessasmodernitycritique/"
   },
   "SmallTownExamTakerDiscipline": {
     "title": "小镇做题家规训 / Small-Town Exam-Taker Discipline",
@@ -23307,6 +23363,10 @@
     "title": "《中国龙的发明：近现代中国形象的域外变迁》",
     "url": "/wiki/entities/theinventionofchinesedragon/"
   },
+  "TheJokeKundera": {
+    "title": "《玩笑》 / The Joke",
+    "url": "/wiki/entities/thejokekundera/"
+  },
   "TheJourneyToSfanomoe": {
     "title": "《前往斯法诺莫埃的旅途》 / The Journey to Sfanomoë",
     "url": "/wiki/entities/thejourneytosfanomoe/"
@@ -23406,6 +23466,10 @@
   "TheTurnOfTheScrew": {
     "title": "《螺丝在拧紧》 / The Turn of the Screw",
     "url": "/wiki/entities/theturnofthescrew/"
+  },
+  "TheUnbearableLightnessOfBeing": {
+    "title": "《不可承受的生命之轻》 / The Unbearable Lightness of Being",
+    "url": "/wiki/entities/theunbearablelightnessofbeing/"
   },
   "TheUntimely": {
     "title": "The Untimely",
@@ -24495,6 +24559,10 @@
     "title": "Veil Of Ignorance",
     "url": "/wiki/concepts/veilofignorance/"
   },
+  "VelvetRevolution": {
+    "title": "Velvet Revolution / 天鹅绒革命",
+    "url": "/wiki/entities/velvetrevolution/"
+  },
   "Venezuela": {
     "title": "Venezuela",
     "url": "/wiki/entities/venezuela/"
@@ -24510,6 +24578,10 @@
   "VeraHill": {
     "title": "Vera Hill",
     "url": "/wiki/entities/verahill/"
+  },
+  "VeraKundera": {
+    "title": "Vera Kundera / 薇拉·昆德拉",
+    "url": "/wiki/entities/verakundera/"
   },
   "VernacularIndustrialism": {
     "title": "Vernacular Industrialism",

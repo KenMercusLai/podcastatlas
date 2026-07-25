@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [12.慢：当米兰·昆德拉一句正经没有](sources/12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675.md) — 蜜獾吃书 episode using 米兰·昆德拉《慢》 to read speed, public moral performance, anti-kitsch body comedy, Czech exile, privacy, memory self-mythologizing, and the risk of reducing Kundera to a political writer.
 - [11.雍正王朝之大义觉迷：史景迁笔下的千古奇案](sources/11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513.md) — 蜜獾吃书 episode using 史景迁《雍正王朝之大义觉迷》 to narrate the 曾静案, 张熙投书, 岳钟琪密折, 吕留良文字狱, 《大义觉迷录》, 雍正公开辩驳, and乾隆 suppression.
 - [10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使](sources/10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195.md) — 蜜獾吃书 episode with translator 菲比 on Oscar Wilde, 《王尔德奇异故事集》, 《自深深处》, Lord Alfred Douglas, life imitating art, art against moral instruction, black comedy, forged evidence, and stories including 《阿瑟·萨维尔勋爵的罪行》, 《W.H.先生的画像》, and 《坎特维尔的幽灵》.
 - [sp.01 宇宙：卡尔·萨根的星辰大海和人类梦想](sources/sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074.md) — 蜜獾吃书 episode on Carl Sagan, 《宇宙》, 《接触》, humanistic science communication, SETI, the Voyager golden record, nuclear winter, and open extraterrestrial civilization imagination.
@@ -639,6 +640,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Milan Kundera / 米兰·昆德拉](entities/MilanKundera.md) — Writer read through 《慢》 as comic, anti-kitsch, privacy-obsessed, politically marked, and resistant to being reduced to a political symbol.
+- [《慢》 / Slowness](entities/SlowKundera.md) — Kundera's French-language novel read by 蜜獾吃书 as a castle-hotel farce about speed, public morality, desire, body, and performance.
+- [《玩笑》 / The Joke](entities/TheJokeKundera.md) — Earlier Kundera work used by the source as part of the more visibly political Czech-language frame that 《慢》 complicates.
+- [《不可承受的生命之轻》 / The Unbearable Lightness of Being](entities/TheUnbearableLightnessOfBeing.md) — Familiar Kundera work connected by the episode to anti-kitsch, body, and the denial of waste.
+- [Czech Republic / 捷克](entities/CzechRepublic.md) — Kundera's Czech historical-cultural context, framed by the episode through East-West tension, Prague, 1968, 1989, exile, and political labeling.
+- [Prague / 布拉格](entities/Prague.md) — City whose misrecognition in 《慢》 exposes the gap between performed solidarity and concrete knowledge.
+- [Prague Spring / 布拉格之春](entities/PragueSpring.md) — 1968 rupture used by the episode to explain surveillance, exile, academic punishment, and later memory revision.
+- [Velvet Revolution / 天鹅绒革命](entities/VelvetRevolution.md) — 1989 Czech democratic turn used by the source to separate institutional restoration from repaired home, privacy, and belonging.
+- [Vera Kundera / 薇拉·昆德拉](entities/VeraKundera.md) — Kundera's wife and the Vera figure in the episode's privacy, exile, dream, and narrative-frame discussion.
 - [《宇宙》 / Cosmos](entities/CosmosBook.md) — Carl Sagan book and documentary companion read as astronomy, science history, literary public science, and humanistic cosmic orientation.
 - [《接触》 / Contact](entities/ContactNovel.md) — Sagan science-fiction novel discussed through SETI, alien signals, science-and-religion humility, global cooperation, and open cosmic imagination.
 - [SETI / Search for Extraterrestrial Intelligence](entities/SETI.md) — Organized extraterrestrial-intelligence search connecting radio listening, Sagan, Contact, and evidence-bound wonder.
@@ -4306,6 +4316,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Slowness As Modernity Critique / 作为现代性批判的慢](concepts/SlownessAsModernityCritique.md) — Kundera reading frame where slowness restores body, fatigue, memory, touch, and experience against machine speed and image.
+- [Public Moral Performance / 公共道德表演](concepts/PublicMoralPerformance.md) — Pattern where public goodness becomes a media stage mixing compassion, reputation, rivalry, attention, and concrete ignorance.
+- [Kitsch As Waste Denial / 媚俗作为排泄否认](concepts/KitschAsWasteDenial.md) — Kundera aesthetic frame where kitsch denies dirt, excrement, shame, and bodily awkwardness in favor of clean sentiment.
+- [Anti-Lyricism / 反抒情](concepts/AntiLyricism.md) — Kundera-style refusal of beautifying shame, desire, memory, or politics through elevated sentiment.
+- [Memory Self-Mythologizing / 记忆的自我神话化](concepts/MemorySelfMythologizing.md) — Pattern where memory rewrites fear, coercion, or accident into a dignifying story of courage and destiny.
+- [Privacy Under Public Gaze / 公共凝视下的隐私](concepts/PrivacyUnderPublicGaze.md) — Privacy problem where state surveillance and media publicity both turn a person into an object of observation.
+- [Author As Political Symbol / 作者作为政治符号](concepts/AuthorAsPoliticalSymbol.md) — Interpretive risk where political biography makes a writer legible but can replace attention to text, body, humor, and form.
+- [Political Condition As Human Experiment / 政治条件作为人性实验](concepts/PoliticalConditionAsHumanExperiment.md) — Literary reading frame where politics matters as a condition that triggers human vanity, fear, courage, memory, desire, and self-deception.
 - [Humanistic Science Communication](concepts/HumanisticScienceCommunication.md) — Sagan-style public science that joins accuracy, wonder, literature, cultural range, and human responsibility without replacing evidence.
 - [Sagan Effect](concepts/SaganEffect.md) — Professional penalty where visible public science communication can be treated as academic unseriousness.
 - [Nuclear Winter](concepts/NuclearWinter.md) — Cold War civilizational-risk concept showing Sagan's public science also warned about Earth's self-destruction risks.

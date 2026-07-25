@@ -3,12 +3,14 @@ title: "Author Myth Deflation"
 type: concept
 tags: [literature, biography, canon, interpretation]
 sources: [10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818, shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314]
-last_updated: 2026-07-24
+last_updated: 2026-07-25
 ---
 
 # Author Myth Deflation
 
 Author myth deflation is the practice of bringing canonical writers down from a saintly or purely monumental image without reducing them to scandal alone. In [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]], [[MihuanChishu|蜜獾吃书]] repeatedly shows that great writers can be brilliant and ridiculous, courageous and vain, politically perceptive and politically foolish, morally intense and harmful to people nearby.
+
+[[12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675]] adds a Kundera variant where deflation means loosening a political monument rather than merely adding scandal. [[MilanKundera|Kundera]] remains tied to [[CzechRepublic|Czech]] history, exile, privacy control, and a contested informing allegation, but [[SlowKundera|《慢》]] also shows him as comic, vulgar, evasive, anti-lyrical, and fascinated by ordinary self-deception.
 
 [[10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195]] adds a second [[OscarWilde|Wilde]] pass where deflation does not mean reducing him to scandal. The episode keeps imprisonment, [[AlfredDouglas|波西]], poverty, and social celebrity visible while also restoring the writerly mechanics of [[WildeStrangeStories|《王尔德奇异故事集》]]: aphorism, [[LifeImitatesArt]], [[ArtAgainstMoralInstruction]], and comic inversion.
 

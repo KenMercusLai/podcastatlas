@@ -3,7 +3,7 @@ title: "Artistic Achievement Moral Accountability"
 type: concept
 tags: [art, ethics, biography, film, judgment]
 sources: [135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
-last_updated: 2026-07-24
+last_updated: 2026-07-25
 ---
 
 # Artistic Achievement Moral Accountability
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 Artistic achievement moral accountability is the judgment frame that artistic greatness, technical innovation, cultural affection, or political victimhood cannot automatically cancel personal harm or political responsibility. [[107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]] states this directly through its discussion of directors whose work matters while their conduct or commitments remain morally troubling.
 
 The concept is not a rule that work must be discarded when the artist is compromised. It is a refusal to let achievement perform moral laundering. In the source, [[CharlieChaplin|Chaplin]]'s left politics do not prove private virtue, [[WaltDisney]]'s animation legacy does not erase labor conflict or political controversy, and [[LeniRiefenstahl|Riefenstahl]]'s technique does not detach her from Nazi propaganda.
+
+[[12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675]] adds [[MilanKundera|Kundera]] as a source-scoped literary version. The episode keeps his anti-totalitarian and privacy-marked biography visible while also noting the disputed informing allegation that Kundera denied, using the line that he was "first of all a person" to prevent both moral laundering and total reduction to scandal.
 
 [[103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789]] extends the frame from film into philosophy through [[MartinHeidegger|Martin Heidegger]]. The episode treats Heidegger's intellectual brilliance, relationship with [[HannahArendt|Hannah Arendt]], and Nazi alignment as facts that must be held together rather than separated into genius on one side and political responsibility on the other.
 
