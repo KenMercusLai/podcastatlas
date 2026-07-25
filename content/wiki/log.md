@@ -4963,3 +4963,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-25] ingest | One way to avoid AI altogether? Retire early
+
+Added source page for a Marketplace Tech episode using Lauren Weber's Wall Street Journal reporting on older workers retiring as AI becomes common at work. Created pages for Lauren Weber, Older Worker AI Retirement, and Institutional Knowledge Transfer; updated overview, index, Marketplace Tech, Wall Street Journal, AI Worker Literacy, AI Use Pacing, Workplace Pacing, Business-Led AI Transformation, and Human Judgment Under AI. No direct contradiction found; the source qualifies worker-literacy and AI-transformation optimism by showing that late-career autonomy, employer trust, and tacit knowledge handoff matter even when workers can use AI personally.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 6,864 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` and provider API-key environment variables are not configured in this process. Report returned in-session; `wiki/lint-report.md` was not saved.

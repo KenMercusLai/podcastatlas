@@ -2,7 +2,7 @@
 title: "AI Use Pacing"
 type: concept
 tags: [ai, pacing, productivity, life-design]
-sources: [tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
+sources: [tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
 last_updated: 2026-07-25
 ---
 
@@ -13,6 +13,8 @@ AI use pacing is the discipline of deciding how much AI work to start, watch, re
 The concept extends [[WorkplacePacing]] into the agent era. The issue is no longer only how much a person works inside an organization, but how much work a person creates for themselves once [[AgenticWorkflow]], [[VibeCoding]], and mobile agents make it easy to spin up more tasks from anywhere.
 
 [[tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128]] adds the employer-designed version through [[MattKrop]] and [[BCG]]. [[AIBrainFry]] appears when AI-heavy work puts people into continuous high-cognitive supervision, so pacing includes recovery time, review cadence, and choosing which tasks should be automated at all.
+
+[[tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128]] adds a late-career adoption version through [[LaurenWeber]]. For some older workers, pacing is not only about breaks or review cadence; it is whether another employer-led technology shift is worth absorbing at all. [[OlderWorkerAIRetirement]] shows that rapid AI rollout can become an exit trigger when autonomy, trust, and retirement readiness line up.
 
 [[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]] adds a reading and attention version. The source argues that unlimited AI-generated summaries, book structures, and information feeds should not automatically expand consumption. The user still has to decide which books to read with their own neurons, which sources deserve attention, and when an AI shortcut would remove the very experience that made the activity valuable.
 
@@ -48,6 +50,7 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 - Memory and personalization can improve fit while narrowing the model's perspective, so pacing includes knowing when to turn memory off or seek an outside view.
 - Productivity feelings need verification; the "AI made me faster" sensation can hide review, waiting, and correction costs.
 - AI-heavy workplaces need recovery and review cadence because parallel agents can exhaust the human supervisor even when each individual task is faster.
+- AI rollout pacing can become a retention issue when late-career workers decide that one more employer-driven technology transition is not worth the tradeoff.
 
 ## Connections
 
@@ -65,3 +68,4 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 - [[FirstDraftThinking]], [[HeatherSchwartz]], and [[RAND]] - homework timing boundary added by Marketplace Tech.
 - [[KelentoHouTaiyu|Kelento 侯泰宇]], [[AlfredLinTongyu|Alfred 林童雨]], [[Claude]], and [[AIDefaultLearningEnvironment]] - dependency and default-infrastructure branch added by E236.
 - [[AIBrainFry]], [[MattKrop]], and [[BCG]] - Marketplace Tech branch on workplace AI exhaustion and recovery.
+- [[LaurenWeber]], [[OlderWorkerAIRetirement]], and [[InstitutionalKnowledgeTransfer]] - Marketplace Tech branch where rapid adoption can trigger retirement and knowledge loss.

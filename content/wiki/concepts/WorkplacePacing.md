@@ -2,8 +2,8 @@
 title: "Workplace Pacing"
 type: concept
 tags: [career, workplace, productivity]
-sources: [ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]
-last_updated: 2026-07-18
+sources: [tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]
+last_updated: 2026-07-25
 ---
 
 # Workplace Pacing
@@ -13,6 +13,8 @@ Workplace pacing is the practice of managing work intensity, recovery time, task
 The concept is deliberately not a universal excuse for doing less work. The episode's finance and banking examples show that pacing depends on role, workload cycle, customer exposure, organizational trust, and whether the employee still delivers the work that matters.
 
 [[92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]] adds a satirical edge through [[BlaisePascal|帕斯卡]] being caught gambling at work by [[MichelFoucault|福柯]]'s monitoring screens. The source links "摸鱼" to distraction, boredom, mortality, and surveillance, so pacing is not only a productivity tactic but also a question of what kinds of thought and rest a monitored workplace permits.
+
+[[tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128]] adds a late-career AI adoption edge. For some older workers, pacing is not a tactical adjustment inside a job but a decision to retire rather than absorb another employer-led technology transition. That connects workplace pacing to [[OlderWorkerAIRetirement]], [[AIUsePacing]], and [[InstitutionalKnowledgeTransfer]] because the organization also has to pace training, expectations, and handoff before experienced people leave.
 
 ## Key Claims
 - Recovery time can be rational when work has high pressure, long hours, emotional load, or bursty client demands.
@@ -24,6 +26,7 @@ The concept is deliberately not a universal excuse for doing less work. The epis
 - Group "摸鱼" increases risk because information spreads, while individual pacing can remain bounded if output, trust, and discretion are intact.
 - AI tools can expand pacing room by reducing repetitive work, but the user still owns framing, verification, presentation, and final judgment.
 - Surveillance can turn ordinary distraction or recovery into a disciplinary event before its meaning is understood.
+- In late-career AI adoption, pacing can include choosing not to continue with an employer-driven transition when autonomy and retirement readiness make exit possible.
 
 ## Connections
 - [[WorkplaceHiddenRules]] — pacing depends on implicit norms around visibility, discretion, workload, and status.
@@ -35,3 +38,4 @@ The concept is deliberately not a universal excuse for doing less work. The epis
 - [[AIWorkforceMonitoring]] — activity telemetry is a poor substitute for evaluating output quality, judgment, and role constraints.
 - [[HumanJudgmentUnderAI]] — AI can improve preparation and presentation, but people remain responsible for the work's fit to context.
 - [[OfficeSurveillancePrivacy]] and [[BlaisePascal]] — source-92 satire around monitored "摸鱼".
+- [[OlderWorkerAIRetirement]], [[AIUsePacing]], and [[InstitutionalKnowledgeTransfer]] - Marketplace Tech branch on AI rollout pacing, retirement, and knowledge handoff.

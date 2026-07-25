@@ -11687,6 +11687,10 @@
     "title": "Institute for Science and International Security",
     "url": "/wiki/entities/instituteforscienceandinternationalsecurity/"
   },
+  "InstitutionalKnowledgeTransfer": {
+    "title": "Institutional Knowledge Transfer",
+    "url": "/wiki/concepts/institutionalknowledgetransfer/"
+  },
   "InstitutionalMechanismSatire": {
     "title": "Institutional Mechanism Satire",
     "url": "/wiki/concepts/institutionalmechanismsatire/"
@@ -13522,6 +13526,10 @@
   "LaurenMenard": {
     "title": "Lauren Menard",
     "url": "/wiki/entities/laurenmenard/"
+  },
+  "LaurenWeber": {
+    "title": "Lauren Weber",
+    "url": "/wiki/entities/laurenweber/"
   },
   "LawEnforcementCultureAccountability": {
     "title": "Law Enforcement Culture Accountability",
@@ -16818,6 +16826,10 @@
   "OldMastersMarketRevival": {
     "title": "Old Masters Market Revival",
     "url": "/wiki/concepts/oldmastersmarketrevival/"
+  },
+  "OlderWorkerAIRetirement": {
+    "title": "Older Worker AI Retirement",
+    "url": "/wiki/concepts/olderworkerairetirement/"
   },
   "OlgaTokarczuk": {
     "title": "Olga Tokarczuk / 托卡尔丘克",
@@ -26946,6 +26958,10 @@
   "tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128": {
     "title": "Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space",
     "url": "/wiki/sources/tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128/"
+  },
+  "tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128": {
+    "title": "One way to avoid AI altogether? Retire early",
+    "url": "/wiki/sources/tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128/"
   },
   "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128": {
     "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",

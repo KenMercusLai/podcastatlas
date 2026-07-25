@@ -2,8 +2,8 @@
 title: "Wall Street Journal"
 type: entity
 tags: [media, journalism, workplace, publishing]
-sources: [tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # Wall Street Journal
@@ -14,10 +14,13 @@ The page is primarily source context rather than a separate claim about the publ
 
 [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] adds the Wall Street Journal as a [[NewsCorp]] publication that the episode says first reported [[Meta]]'s AI licensing deal. In this source, the Journal is part of the publisher-side context for [[AIContentLicensing]], not the source of a workplace-AI segment.
 
+[[tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128]] adds the Journal through [[LaurenWeber]]'s workplace reporting on older workers and AI-linked retirement. The source extends the Journal's wiki role from hiring automation and AI licensing into [[OlderWorkerAIRetirement]] and [[InstitutionalKnowledgeTransfer]], showing how AI adoption can affect labor-force participation, late-career autonomy, and tacit organizational knowledge.
+
 [[tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3]] adds the Journal as the investigative outlet that exposed [[Theranos]] through [[JohnCarreyrou|John Carreyrou]]'s reporting. [[TylerShultz|Tyler Shultz]] first spoke on deep background, helped Carreyrou ask better questions, and later went on the record. The source also notes that [[RupertMurdoch|Rupert Murdoch]] was both the newspaper's owner and a Theranos investor, but says the reporting continued, making this a case for both [[PublicServiceJournalism]] and [[MediaOwnershipIndependenceRisk]].
 
 ## Connections
 - [[NewsCorp]], [[Meta]], and [[AIContentLicensing]] - publisher licensing context added by Marketplace Tech.
+- [[LaurenWeber]], [[OlderWorkerAIRetirement]], and [[InstitutionalKnowledgeTransfer]] - workplace AI and older-worker retirement branch.
 - [[JohnCarreyrou|John Carreyrou]], [[TylerShultz|Tyler Shultz]], [[Theranos]], and [[RupertMurdoch|Rupert Murdoch]] - Theranos investigation and ownership-pressure context.
 - [[RaySmith]] - workplace reporter affiliated with the publication in the episode.
 - [[MarketplaceTech]] and [[StephanieHughes]] - show and host that interview Smith.
