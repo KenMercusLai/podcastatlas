@@ -12,6 +12,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [19.荒野上的大师：“我辈于乱世求研究，本为逆流之妄举”](sources/19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437.md) — 蜜獾吃书 live conversation with 张泉 on 《荒野上的大师》, modern Chinese academic institutions, fieldwork, wartime scholarship, Liang Sicheng, Ding Wenjiang, Zhao Yuanren, and Fu Sinian.
 - [18.如何识别、逃离并避免成为《精神吸血鬼》](sources/18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000.md) — 蜜獾吃书 episode using 《精神吸血鬼》 to discuss attention and emotional-energy extraction, self-blame, guilt control, relational isolation, workplace/family manipulation, and rebuilding one's own emotional capacity.
 - [开天窗：摸鱼+感谢+吹大理](sources/kaitianchuang-moyu-ganxie-chui-dali-553650149.md) — 蜜獾吃书 short update on cross-province moving, listener thanks, Dali air/stars/moonrise, and future leads around Angela Carter, 《荒野上的大师》, 《武士威廉》, 《土里不吐气》, and 新移民文学.
+- [14.武士威廉：大航海时代的日本和西方](sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285.md) — 蜜獾吃书 episode on William Adams / 三浦按针, Tokugawa Japan, Protestant-Catholic maritime rivalry, voyage attrition, Jesuit missions, shipbuilding, and the Dutch window after sakoku.
 - [13.悲伤的力量：谈谈丧亲之痛](sources/13-beishang-de-liliang-tantan-sangqin-zhitong-551507792.md) — 蜜獾吃书 episode using Julia Samuel's 《悲伤的力量》 to discuss bereavement, childhood death communication, grief companionship, professional counseling, trauma narrative integration, and QinZong's childhood mother-loss experience.
 - [12.慢：当米兰·昆德拉一句正经没有](sources/12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675.md) — 蜜獾吃书 episode using 米兰·昆德拉《慢》 to read speed, public moral performance, anti-kitsch body comedy, Czech exile, privacy, memory self-mythologizing, and the risk of reducing Kundera to a political writer.
 - [11.雍正王朝之大义觉迷：史景迁笔下的千古奇案](sources/11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513.md) — 蜜獾吃书 episode using 史景迁《雍正王朝之大义觉迷》 to narrate the 曾静案, 张熙投书, 岳钟琪密折, 吕留良文字狱, 《大义觉迷录》, 雍正公开辩驳, and乾隆 suppression.
@@ -692,8 +693,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周口店](entities/Zhoukoudian.md) — Peking Man site used by the episode to connect geology, paleontology, field persistence, and wartime evidence loss.
 - [殷墟](entities/Yinxu.md) — Anyang archaeological site tied to 史语所 and modern evidence for early Chinese civilization.
 - [西南联大](entities/SouthwestAssociatedUniversity.md) — wartime university and memory site illustrating improvised teaching, architectural constraint, and historical forgetting.
-- [《武士威廉》](entities/SamuraiWilliam.md) — source-scoped history-book preview connected to the historical prototype behind 《仁王》.
-- [《仁王》 / Nioh](entities/Nioh.md) — game reference used as a cross-media hook for the previewed 《武士威廉》 discussion.
+- [《武士威廉》](entities/SamuraiWilliam.md) — history book used by episode 14 to discuss William Adams, Tokugawa Japan, European maritime rivalry, missionary pressure, and Japan's later restricted foreign-contact path.
+- [《仁王》 / Nioh](entities/Nioh.md) — game reference that turns William Adams into a fantasy protagonist, used by episode 14 as a pop-cultural hook before returning to history.
+- [William Adams / 三浦按针](entities/WilliamAdams.md) — English navigator who reached Japan in 1600, became a Tokugawa adviser and samurai, and grounds the episode's Japan-Europe contact branch.
+- [Tokugawa Ieyasu / 德川家康](entities/TokugawaIeyasu.md) — Tokugawa ruler who evaluates Adams, uses his technical and diplomatic knowledge, and embodies early foreign-trade ambivalence.
+- [Tokugawa Shogunate / 德川幕府](entities/TokugawaShogunate.md) — Japanese regime order whose early openness to useful foreign knowledge narrows into controlled trade and Christian-risk management.
+- [Battle of Sekigahara / 关原合战](entities/SekigaharaBattle.md) — regime-formation battle near Adams's arrival, used by the episode to place him at a consequential political moment.
+- [Konishi Yukinaga / 小西行长](entities/KonishiYukinaga.md) — Christian daimyo whose defeat, letter, and European afterlife show Japanese Christianity entering European imagination.
+- [Hasekura Tsunenaga / 支仓常长](entities/HasekuraTsunenaga.md) — Japanese envoy to Spain and Rome used by the episode as a failed diplomatic opening shaped by trade and Christian politics.
+- [England](entities/England.md) — Protestant maritime power and Adams's origin, positioned against Iberian Catholic trade dominance in the episode.
+- [Portugal](entities/Portugal.md) — Catholic Iberian maritime power tied to Asian trade, Macau-related contact, and Jesuit influence in the episode.
+- [Jesuits / 耶稣会](entities/Jesuits.md) — Catholic missionary network in Japan whose rivalry with Adams and later expulsion anchors the episode's religious-risk branch.
 - [《土里不吐气》](entities/TuLiBuTuQi.md) — source-scoped book preview about a city-to-countryside couple farming with biology/ecology backgrounds.
 - [《悲伤的力量》 / Grief Works](entities/BeishangDeLiliang.md) — Julia Samuel bereavement-counseling book used by episode 13 to discuss grief work, child death education, companionship, rituals, and traumatic grief.
 - [Julia Samuel / 朱利亚·萨米尔](entities/JuliaSamuel.md) — Psychotherapist-author whose bereavement cases ground the episode's grief counseling, child truth-telling, and trauma narrative integration frames.
@@ -4403,6 +4413,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Relational Isolation Control / 关系孤立控制](concepts/RelationalIsolationControl.md) — Manipulative weakening of a victim's outside witnesses, social links, and reality checks.
 - [Self-Generated Emotional Capacity / 造血能力](concepts/SelfGeneratedEmotionalCapacity.md) — Practice of building non-extractive emotional nourishment through appreciation, responsibility, and contribution.
 - [New Migrant Literature / 新移民文学](concepts/NewMigrantLiterature.md) — provisional reading direction around city-to-rural movement, farming practice, and new life rhythms after the hosts' Dali move.
+- [Early Modern Japan-Europe Contact](concepts/EarlyModernJapanEuropeContact.md) — Network frame for sailors, missionaries, envoys, rulers, trade, translation, and cultural shock in Adams-era Japan-Europe contact.
+- [Confessional Trade Conflict](concepts/ConfessionalTradeConflict.md) — Pattern where Protestant/Catholic religious rivalry and maritime trade competition reinforce each other inside Japanese diplomatic judgment.
+- [Tokugawa Foreign-Trade Ambivalence](concepts/TokugawaForeignTradeAmbivalence.md) — Tokugawa policy tension between valuing foreign trade and technique while fearing Christian allegiance and foreign political leverage.
+- [Sakoku Dutch Window](concepts/SakokuDutchWindow.md) — Restricted-contact settlement where broader European access narrows while a controlled Dutch trade channel remains.
+- [Oceanic Voyage Attrition](concepts/OceanicVoyageAttrition.md) — Cumulative early-modern voyage loss through storms, hunger, scurvy, violence, capture, route failure, and collapsing command capacity.
 - [Bereavement Grief Work / 丧亲悲伤工作](concepts/BereavementGriefWork.md) — Process of carrying a loved one's death through truth, language, ritual, support, and professional care rather than denial or forced recovery.
 - [Child Death Education / 儿童死亡教育](concepts/ChildDeathEducation.md) — Episode 13 stance that children should receive clear, age-appropriate truth about death and be supported through mourning rituals.
 - [Grief Companion Support / 丧亲陪伴支持](concepts/GriefCompanionSupport.md) — Practical support stance centered on steady presence, listening, ordinary continuity, and handoff to professional help when grief becomes dangerous.

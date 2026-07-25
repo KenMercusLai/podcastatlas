@@ -1,12 +1,14 @@
 ---
 title: "Japan"
 type: entity
-tags: [country, politics, law, society, consumer, tourism, economy, youth, healthcare]
-sources: [battlefield-rare-earths-how-the-us-lost-to-china, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]
-last_updated: 2026-07-24
+tags: [country, politics, law, society, consumer, tourism, economy, youth, healthcare, early-modern-history]
+sources: [battlefield-rare-earths-how-the-us-lost-to-china, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq, 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]
+last_updated: 2026-07-25
 ---
 
 # Japan
+
+[[14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]] adds an early-modern contact branch through [[WilliamAdams|William Adams / 三浦按针]] and [[TokugawaIeyasu|Tokugawa Ieyasu / 德川家康]]. The episode places Japan at the meeting point of late-Sengoku state formation, European maritime rivalry, [[Jesuits|Jesuit]] missions, shipbuilding knowledge, and later [[SakokuDutchWindow|restricted Dutch contact]], making [[TokugawaForeignTradeAmbivalence]] a historical counterpart to the page's existing modern Japan law, politics, consumer, and corporate branches.
 
 [[119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087]] adds Japan as both the author's cultural starting point and a legal case setting in [[AnlesiXianchang|《安乐死现场》]]. The episode contrasts Western personal-rights language with Japanese concern about not burdening others, then uses [[HayashiYuri]]'s Kyoto case to show how [[AssistedDeathClinicalResponsibility]] can become criminal-law exposure.
 
@@ -27,6 +29,8 @@ Japan also appears in [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61b
 [[battlefield-rare-earths-how-the-us-lost-to-china]] adds Japan as the 2010 rare-earth vulnerability case. The [[PlanetMoney]] episode says [[China]] informally stopped selling rare-earth products to Japan after a Chinese fishing-boat captain was detained near the disputed Diaoyu/Senkaku islands, exposing how Japanese car and electronics industries depended on Chinese processing.
 
 ## Connections
+- [[WilliamAdams|William Adams / 三浦按针]], [[TokugawaIeyasu|Tokugawa Ieyasu]], [[TokugawaShogunate]], and [[SekigaharaBattle|Battle of Sekigahara]] - early-modern political and contact branch added by episode 14.
+- [[EarlyModernJapanEuropeContact]], [[ConfessionalTradeConflict]], [[TokugawaForeignTradeAmbivalence]], and [[SakokuDutchWindow]] - Japan-Europe contact concepts added by episode 14.
 - [[JointCustodyReform]] - family-law change from the newer source.
 - [[CleanBreakDivorceModel]] - social norm the custody reform challenges.
 - [[TakaichiSanae]] and [[LiberalDemocraticPartyJapan]] - earlier Japan politics source.

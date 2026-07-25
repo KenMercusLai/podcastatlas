@@ -1,12 +1,14 @@
 ---
 title: "Spain"
 type: entity
-tags: [country, football, sports-development, healthcare, law]
-sources: [119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, why-the-us-has-no-guaranteed-paid-vacation, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
-last_updated: 2026-07-24
+tags: [country, football, sports-development, healthcare, law, maritime-history, catholicism]
+sources: [119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, why-the-us-has-no-guaranteed-paid-vacation, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]
+last_updated: 2026-07-25
 ---
 
 # Spain
+
+[[14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]] adds Spain as an early-modern Catholic maritime power in the Japan contact field. The episode uses Spanish and Portuguese influence, missionary channels, shipwreck diplomacy, and [[HasekuraTsunenaga|Hasekura Tsunenaga / 支仓常长]]'s mission to show how [[ConfessionalTradeConflict]] and trade ambitions shaped [[EarlyModernJapanEuropeContact]].
 
 [[119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087]] adds Spain as the [[RamonSampedro]] case setting in [[AnlesiXianchang|《安乐死现场》]]. The episode uses Spain's stronger Catholic and family context to show why assisted death cannot be read only as private autonomy: Sampedro's request, Ramona's help, and his family's anger become a test of [[FamilyEthicsAtEndOfLife]].
 
@@ -22,6 +24,7 @@ Spain appears in [[vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shang
 - The Intelligence source treats Spain as both a tournament favorite in the current final and a future 2030 host.
 
 ## Connections
+- [[Portugal]], [[Jesuits]], [[HasekuraTsunenaga|Hasekura Tsunenaga]], and [[ConfessionalTradeConflict]] - early-modern Catholic maritime branch added by episode 14.
 - [[JumillaCF]] - Spanish lower-tier club at the center of the source.
 - [[YouthFootballDevelopmentSystem]] - development-system concept added by the source.
 - [[FootballClubAsCommunityAsset]] and [[FootballClubControlRisk]] - Spanish club-economics concepts surfaced by the case.

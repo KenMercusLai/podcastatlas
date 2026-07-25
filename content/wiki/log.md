@@ -4928,6 +4928,10 @@ Added source page for a Marketplace Tech episode with Paul Vixie on dot-com fibe
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-25] ingest | 14.武士威廉：大航海时代的日本和西方
+
+Added source page for a 蜜獾吃书 episode using 《武士威廉》 to discuss William Adams / 三浦按针, Tokugawa Ieyasu, late-Sengoku Japan, Protestant-Catholic maritime rivalry, Jesuit missions, catastrophic voyage attrition, shipbuilding, and the later Dutch window under restricted foreign contact. Created pages for William Adams, Tokugawa Ieyasu, Tokugawa Shogunate, Battle of Sekigahara, Konishi Yukinaga, Hasekura Tsunenaga, England, Portugal, Jesuits, Early Modern Japan-Europe Contact, Confessional Trade Conflict, Tokugawa Foreign-Trade Ambivalence, Sakoku Dutch Window, and Oceanic Voyage Attrition; updated overview, index, 《武士威廉》, 《仁王》, Japan, Netherlands, Spain, 蜜獾吃书, and Scurvy Nutrition Insight. No direct contradiction found; the source upgrades the earlier preview into a developed history branch while keeping Adams's influence bounded as mediation, witness, and practical advice rather than a claim that he changed Japan's eventual foreign-contact policy.
+
 ## [2026-07-25] ingest | 21.红与黑：他死于真诚
 
 Added source page for a 蜜獾吃书 episode rereading 斯汤达《红与黑》 through 于连的阶级上升、伪装、真诚、爱情、审判和死亡. Created pages for Stendhal, 《红与黑》, Julien Sorel, Madame de Renal, Mathilde de La Mole, French Restoration, Napoleon Bonaparte, William Somerset Maugham, Psychological Realism, Class Mobility Performance, Sincerity Against Social Hypocrisy, Passion Against Self-Control, and Female Subjectivity In Classic Reading; updated overview, index, 蜜獾吃书, 秦总, 北明 / 北民, France, Tolstoy, Sainte-Beuve, Classic Reading Complexity, Non-Instrumental Literary Reading, Reading As Life Experience, Literary Gossip As Context, Female Self-Possession, and Moral Suspension In Art Reading. No direct contradiction found; the source deepens an earlier wiki claim that reducing Julien to a ladder-climbing bad man misses class constraint, emotional ambiguity, and original literary texture.
@@ -5164,6 +5168,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-25] ingest | 22.足球经济学：读者不必是球迷
 
 Added source page for a 蜜獾吃书 episode on 《足球经济学》 / Soccernomics as an economics book for non-fans as well as football readers. Created pages for 邓老板, Arsene Wenger, 刘洋洋, Football As Economic Laboratory, Football Analytics Modernization, Football Labor-Market Discrimination, Football Manager Myth Deflation, Open Football Talent Markets, Soft-Budget Football Clubs, and Sports Mega-Event Welfare Accounting; updated overview, index, Soccernomics, Stefan Szymanski, Simon Kuper, Game Theory, Data-Driven Penalty Preparation, Penalty Shootout Strategy, Football Club As Community Asset, Fat League Economics, Economic Way Of Thinking, FIFA World Cup, Premier League, Arsenal FC, Cristiano Ronaldo, Lionel Messi, and Sports Entertainment Flywheel. No direct contradiction found; the source complements the existing penalty-shootout page by distinguishing ordinary match-penalty overattribution from shootout strategy, while broadening the football branch into discrimination, soft budgets, open markets, manager mythmaking, and event welfare.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-25] lint | Wiki health check
 
