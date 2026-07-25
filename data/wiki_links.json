@@ -2647,6 +2647,10 @@
     "title": "Apple Accessibility",
     "url": "/wiki/concepts/appleaccessibility/"
   },
+  "AppleAirPods": {
+    "title": "Apple AirPods",
+    "url": "/wiki/entities/appleairpods/"
+  },
   "AppleIntelligence": {
     "title": "Apple Intelligence",
     "url": "/wiki/entities/appleintelligence/"
@@ -2662,6 +2666,10 @@
   "AppleSupplyChainResponsibility": {
     "title": "Apple Supply Chain Responsibility",
     "url": "/wiki/concepts/applesupplychainresponsibility/"
+  },
+  "AppleWatch": {
+    "title": "Apple Watch",
+    "url": "/wiki/entities/applewatch/"
   },
   "AppleWorkoutBuddy": {
     "title": "Apple Workout Buddy",
@@ -17431,6 +17439,10 @@
     "title": "《伴生》 / Our Symphony with Animals",
     "url": "/wiki/entities/oursymphonywithanimals/"
   },
+  "OuraRing": {
+    "title": "Oura Ring",
+    "url": "/wiki/entities/ouraring/"
+  },
   "OutcomeAccelerators": {
     "title": "Outcome Accelerators",
     "url": "/wiki/concepts/outcomeaccelerators/"
@@ -22931,6 +22943,10 @@
     "title": "The Art of Insubordination / 不服从的艺术",
     "url": "/wiki/entities/theartofinsubordination/"
   },
+  "TheAtlantic": {
+    "title": "The Atlantic",
+    "url": "/wiki/entities/theatlantic/"
+  },
   "TheBacchae": {
     "title": "The Bacchae / 酒神的伴侣",
     "url": "/wiki/entities/thebacchae/"
@@ -24878,6 +24894,10 @@
   "WildlifeTourismSpectacle": {
     "title": "Wildlife Tourism Spectacle",
     "url": "/wiki/concepts/wildlifetourismspectacle/"
+  },
+  "WillGottsagen": {
+    "title": "Will Gottsagen",
+    "url": "/wiki/entities/willgottsagen/"
   },
   "WillHurd": {
     "title": "Will Hurd",
@@ -27118,6 +27138,10 @@
   "tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128": {
     "title": "Mushrooms could help curb plastic waste",
     "url": "/wiki/sources/tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128/"
+  },
+  "tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128": {
+    "title": "The year in AI wearables",
+    "url": "/wiki/sources/tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128/"
   },
   "tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128": {
     "title": "A tech company that 'happens to build homes'",

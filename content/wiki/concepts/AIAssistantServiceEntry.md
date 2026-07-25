@@ -2,8 +2,8 @@
 title: "AI Assistant Service Entry"
 type: concept
 tags: [ai, assistants, platforms, commerce]
-sources: [tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # AI Assistant Service Entry
@@ -22,6 +22,8 @@ The concept differs from generic chatbot adoption. Search replacement handles kn
 
 [[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]] adds a wearable service-entry version through [[GuangfanTechnology]]. [[DongHongguang]] argues that an assistant can connect to cloud services behind apps, using voice, sensors, agents, skills, and MCP-like interfaces to call ride-hailing, shopping, audio, payment, or local-service capabilities without making the user operate each phone app manually.
 
+[[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] adds a smart-glasses service-entry version. [[WillGottsagen]] describes use cases where [[Meta]] glasses identify what the wearer sees, recognize conversation context, or translate another language into in-view subtitles. The source keeps the service-entry claim bounded: these tasks depend on reliable connectivity, fast model response, and social acceptance of camera and microphone use.
+
 ## Key Claims
 - The strategic question is not only whether a company has a strong model, but whether it owns enough service surfaces for the assistant to complete tasks.
 - Service entry creates stronger differentiation than generic translation or Q&A features, because ecosystem integration is harder to copy than a model wrapper.
@@ -33,6 +35,7 @@ The concept differs from generic chatbot adoption. Search replacement handles kn
 - Service entry changes distribution: if the assistant gives one answer or a few options, ranking, advertising, merchant exposure, and user choice become less transparent than in a full app list.
 - Personal-productivity service entry can start with low-stakes tasks such as calendar scheduling before expanding into commerce, work, or account actions.
 - Wearable service entry is strongest when physical-world context and no-hand interaction remove the need to stop and open a phone app, but it still needs confirmation and permission design for purchases, messages, and account actions.
+- Visual and auditory service entry can make smart glasses useful before they become a general-purpose assistant, especially for identification, translation, and context-sensitive help.
 
 ## Connections
 - [[Alibaba]], [[Qwen]], [[Taobao]], [[Fliggy]], [[Damai]], [[Gaode]], and [[DingTalk]] — main ecosystem case in the source.
@@ -46,3 +49,4 @@ The concept differs from generic chatbot adoption. Search replacement handles kn
 - [[Meta]], [[MetaAI|Meta AI]], [[RayBanSmartGlasses|Ray-Ban smart glasses]], and [[PersonalSuperintelligence]] — wearable service-entry route added by Marketplace Tech.
 - [[GooglePersonalIntelligence]], [[Gemini]], [[GoogleCalendar]], [[VoiceInteraction]], and [[MundaneAIUseCases]] - personal-productivity service entry added by Marketplace Tech.
 - [[GuangfanTechnology]], [[WearableAIAssistant]], [[AgentFacingInterfaces]], and [[ModelContextProtocol]] — wearable/cloud-service entry route added by S10E15.
+- [[WillGottsagen]], [[Meta]], [[MetaAI|Meta AI]], [[RayBanSmartGlasses|Ray-Ban smart glasses]], and [[AITranslation]] - smart-glasses service-entry route added by Marketplace Tech.

@@ -2,8 +2,8 @@
 title: "Consumer Camera Surveillance"
 type: concept
 tags: [privacy, surveillance, ai, consumer-technology]
-sources: [tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # Consumer Camera Surveillance
@@ -16,6 +16,8 @@ The concept differs from ordinary home security because AI can turn many individ
 
 [[tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128]] adds a failure-mode version through exposed [[FlockSafety]] feeds. The risk is not only planned sharing with authorities or product expansion; [[SurveillanceCameraExposure]] can let outsiders view live video, archived footage, zoomed detail, and location-specific routines outside the official workflow.
 
+[[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] adds a wearable-AI version. [[WillGottsagen]] notes that AI glasses can be always on, listening, or capable of recording video in ordinary social spaces. A visible recording light can help with video awareness, but it does not settle the separate question of whether microphones, inference, and ambient context capture are acceptable to bystanders.
+
 ## Key Claims
 - A consumer safety use case can lower resistance to deploying cameras, data sharing, and AI matching across a neighborhood.
 - The same network that finds a pet can be imagined as a system for finding people, vehicles, or suspected crimes.
@@ -25,6 +27,7 @@ The concept differs from ordinary home security because AI can turn many individ
 - License-plate-reader networks are an adjacent version of the same issue: the camera owner and the searched person may not be the same party, and agency access can scale across many locations.
 - Misconfigured or exposed feeds can create surveillance risk even before any official law-enforcement search happens.
 - Archived camera footage can convert ordinary public visibility into [[PublicSpaceRoutineTracking]].
+- Wearable AI can move camera-surveillance concerns from fixed homes, cars, or street fixtures onto a person's face, making bystander notice and consent harder.
 
 ## Connections
 - [[Ring]], [[Amazon]], [[RingSearchParty|Ring Search Party]], [[JamieSiminoff]], and [[FlockSafety]] - source case.
@@ -32,4 +35,5 @@ The concept differs from ordinary home security because AI can turn many individ
 - [[SurveillanceCameraExposure]], [[PublicSpaceRoutineTracking]], and [[CrossDatasetPrivacyLinkage]] - exposed-camera and data-linkage branch added by the January 8, 2026 episode.
 - [[ApplePrivacy]] - adjacent trust and device-security concept.
 - [[RayBanSmartGlasses|Ray-Ban smart glasses]] - wearable camera comparison mentioned in the episode.
+- [[WillGottsagen]], [[Meta]], [[WearableAIAssistant]], and [[ConsentBasedRecording]] - always-on glasses privacy branch added by Marketplace Tech.
 - [[PlatformDataRegulation]] - broader data-governance concept, though this source is more about consumer devices and law-enforcement access than marketplace data.

@@ -2,7 +2,7 @@
 title: "Smartphone AI Hub"
 type: concept
 tags: [ai, smartphones, product-strategy, terminals]
-sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
+sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
 last_updated: 2026-07-25
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-25
 Smartphone AI Hub is the thesis in [[ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731]] that phones remain the central AI-era entry point even as earbuds, glasses, recorders, and other devices appear. [[HanBoxiao]] argues that the phone is the most portable high-information, high-operation device, while [[ChenYiqiang]] adds that AI blurs product-category boundaries but does not remove terminal demand.
 
 The concept extends [[AIPlusTerminals]] from cars, robots, wearables, and smart-home devices back to the mainstream smartphone. Its key claim is not that every AI task should run on a phone, but that the phone can coordinate sensors, display, interaction, private context, local models, cloud access, and backend services more broadly than narrower devices.
+
+[[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] adds a Marketplace Tech challenge from AI wearables. [[WillGottsagen]] says phones and laptops remain the main way people use chatbots, while tech companies are pitching a third device that can put AI into physical-world context. The episode reinforces the hub thesis by showing how hard that displacement is: weak connectivity, awkward voice interaction, and unclear need can make a wearable feel like another gadget rather than a replacement.
 
 [[268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]] adds the [[MobileAIWorkstation]] version. [[LuoXuan]] and [[ZhuangMinghao]] argue that many recorder, meeting, file, and assistant use cases still route back to phones because the phone already holds the user's context and the foldable canvas can organize tasks rather than only launch apps.
 
@@ -27,6 +29,7 @@ The concept extends [[AIPlusTerminals]] from cars, robots, wearables, and smart-
 - The hub can become a workbench when files, meetings, app groups, and agents are organized around tasks, not around one-app-at-a-time mobile sessions.
 - The hub may still need body-worn companions: a phone can coordinate identity, display, compute, and services while a [[WearableAIAssistant]] supplies continuous perception and no-hand interaction.
 - A mature iPhone business can make the hub thesis commercially uncomfortable: the phone may remain central while no new hardware category is yet large enough to restart Apple-scale growth.
+- AI wearables challenge phone centrality most credibly when they supply physical-world context that is hard to get from a pocketed phone, but they still need network, latency, privacy, and social-comfort solutions.
 
 ## Connections
 - [[Vivo]], [[HanBoxiao]], [[MediaTek]], and [[ChenYiqiang]] — source actors behind the argument.
@@ -38,3 +41,4 @@ The concept extends [[AIPlusTerminals]] from cars, robots, wearables, and smart-
 - [[OSLevelContext]], [[ProactiveAgents]], and [[MultimodalIntelligence]] — adjacent reasons phones can supply context for more proactive AI.
 - [[DongHongguang]], [[GuangfanTechnology]], and [[WearableAIAssistant]] — S10E15's challenge to phone-only assistant design.
 - [[Apple]], [[TimCook]], [[JohnTernus]], [[AppleIntelligence]], and [[VisionPro]] - Apple succession and post-iPhone growth pressure added by Marketplace Tech Bytes.
+- [[WillGottsagen]], [[Meta]], [[RayBanSmartGlasses|Ray-Ban smart glasses]], [[AppleAirPods|Apple AirPods]], [[AppleWatch|Apple Watch]], and [[OuraRing|Oura Ring]] - third-device pressure added by the Marketplace Tech AI-wearables source.

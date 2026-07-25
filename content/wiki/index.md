@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The year in AI wearables](sources/tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128.md) — Marketplace Tech episode with Will Gottsagen on AI wearables as a 2025 trend, Meta smart glasses, gesture controls, live translation, accessibility possibilities, cloud limits, and always-on privacy concerns.
 - [Mushrooms could help curb plastic waste](sources/tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128.md) — Marketplace Tech episode on Alaska mycelium insulation boards as biodegradable polystyrene alternatives for seafood cold-chain packaging, with University of Alaska researchers and Wild Source testing.
 - [Ron Conway on the Weekend Silicon Valley Bank Collapsed](sources/tsr-s5-ronconway-v5-tsr-s5-ronconway-v5.md) — The Social Radars episode with Ron Conway on the March 2023 Silicon Valley Bank run, deposit guarantees, Treasury/FDIC/Congress coordination, moral hazard versus contagion, YC payroll data, and civic relationships as crisis infrastructure.
 - [Peter Reinhardt on Segment's Pivots and Charm Industrial's Carbon Removal](sources/peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted.md) — The Social Radars episode with Peter Reinhardt on ClassMetric, Segment's analytics.js pivot, sales and pricing lessons, Twilio acquisition logic, and Charm Industrial's bio-oil carbon removal and permitting bottleneck.
@@ -631,6 +632,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Will Gottsagen](entities/WillGottsagen.md) — Atlantic writer interviewed by Marketplace Tech about AI wearables, Meta glasses, cloud limits, public awkwardness, and privacy.
+- [The Atlantic](entities/TheAtlantic.md) — Publication affiliation for Will Gottsagen in the Marketplace Tech AI-wearables episode.
+- [Apple AirPods](entities/AppleAirPods.md) — Familiar Apple wearable used by the source as a live-translation and AI-audio example.
+- [Apple Watch](entities/AppleWatch.md) — Familiar Apple wearable used by the source as an already accepted body-worn AI surface.
+- [Oura Ring](entities/OuraRing.md) — Familiar wearable ring used by the source to show older wearable categories gaining AI-enabled features.
 - [Anna Holligan](entities/AnnaHolligan.md) — BBC reporter whose field segment grounds the Marketplace Tech episode on mycelium insulation and biodegradable foam packaging.
 - [University of Alaska](entities/UniversityOfAlaska.md) — Research setting for mushroom-mycelium boards made from wood fiber, cardboard, or pulp as polystyrene alternatives.
 - [Filip Amtislavski](entities/FilipAmtislavski.md) — University of Alaska professor linking Fomes fomentarius and Arctic mushroom use to mycelium insulation research.

@@ -2,8 +2,8 @@
 title: "Voice Interaction"
 type: concept
 tags: [voice, interaction, ai-native-products]
-sources: [tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]
-last_updated: 2026-07-12
+sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]
+last_updated: 2026-07-25
 ---
 
 # Voice Interaction
@@ -16,6 +16,8 @@ Voice interaction is presented as a still-open opportunity for AI-native product
 
 [[tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128]] adds a mundane productivity branch through [[ChristopherMims]] and [[Flow]]. Mims says he no longer types texts and instead dictates through an iPhone app using an open-source transcription model first created by [[OpenAI]], connecting voice input to ordinary messaging, calendar control, and [[AmbientAIInterface]] behavior.
 
+[[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] adds the public-wearable friction case. [[WillGottsagen]] says using the "hey Meta" voice command felt awkward even in a Meta store, which makes voice not only a technical interface but a social one. For [[WearableAIAssistant]] products, spoken commands must work in public without making the user or nearby people uncomfortable.
+
 ## Source Notes
 - The episode connects voice to early WeChat usage patterns and voice messages.
 - It also mentions interactive audio experiences, including a game controlled by spoken pitch.
@@ -25,6 +27,7 @@ Voice interaction is presented as a still-open opportunity for AI-native product
 - The [[NeiheKonghuang]] source shows voice interaction can also be a cross-language layer through real-time translation.
 - The [[LateTalk]] source shows voice interaction moving toward full-duplex, interruptible, real-time assistant behavior through [[InteractionModel]].
 - The Marketplace Tech source shows voice interaction as a practical input layer for dictation and account-integrated assistant commands.
+- The AI-wearables Marketplace Tech source shows that public voice commands can become an adoption barrier even when recognition and response are technically possible.
 
 ## Connections
 - [[WeChat]] — platform context for voice and social interaction.
@@ -35,3 +38,4 @@ Voice interaction is presented as a still-open opportunity for AI-native product
 - [[AITranslation]] and [[ImmersiveTranslate]] — cross-language branch added by Neihe Konghuang.
 - [[ThinkingMachinesLab]] and [[InteractionModel]] — full-duplex voice model branch added by LateTalk.
 - [[ChristopherMims]], [[Flow]], [[OpenAI]], [[GooglePersonalIntelligence]], and [[AmbientAIInterface]] - practical voice input and assistant branch added by Marketplace Tech.
+- [[WillGottsagen]], [[Meta]], [[RayBanSmartGlasses|Ray-Ban smart glasses]], and [[WearableAIAssistant]] - public voice-command friction added by Marketplace Tech.

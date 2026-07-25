@@ -2,8 +2,8 @@
 title: "Assistive AI"
 type: concept
 tags: [ai, accessibility, assistive-technology, voice]
-sources: [ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex]
-last_updated: 2026-07-07
+sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex]
+last_updated: 2026-07-25
 ---
 
 # Assistive AI
@@ -12,11 +12,14 @@ Assistive AI is the use of AI systems to reduce communication, accessibility, or
 
 The source's important distinction is that assistive AI should support life while recovery or training continues. The goal is not only technical accuracy, but whether the system reduces daily friction, preserves agency, and works in the physical and social settings where communication breaks down.
 
+[[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] adds an accessibility-adjacent wearable interface note. [[MeganMcCartyCorino|Megan McCarty-Carino]] asks whether AI wearables could create new functionality for people with disabilities, and [[WillGottsagen]] frames new human-computer interfaces as a place where accessibility possibilities may emerge. The source does not give a detailed disability use case, so the claim should be treated as a design opening rather than demonstrated assistive impact.
+
 ## Key Claims
 - AI can be valuable even when it complements, rather than replaces, rehabilitation or human support.
 - Accessibility products need real-user grounding because small errors can directly affect dignity, confidence, and social participation.
 - Hardware, latency, audio quality, and interaction design matter as much as model capability.
 - Hackathon demos can surface the need, but useful assistive tools require careful follow-up beyond the event.
+- Wearable AI may help accessibility if it creates alternative input and output channels, but accessibility value needs user-specific grounding rather than generic novelty.
 
 ## Connections
 - [[KenanVoiceChanger]] and [[LiPengcheng]] — product and builder grounding the concept.
@@ -24,3 +27,4 @@ The source's important distinction is that assistive AI should support life whil
 - [[HumanJudgmentUnderAI]] and [[DomainExpertAlignment]] — assistive products need human responsibility and domain expertise.
 - [[ProductLedWillingnessToPay]] — value depends on actual communication improvement.
 - [[AIHackathons]] — source context where the prototype appeared.
+- [[WillGottsagen]], [[WearableAIAssistant]], [[VoiceInteraction]], and [[AppleAccessibility]] - wearable accessibility possibility added by Marketplace Tech.
