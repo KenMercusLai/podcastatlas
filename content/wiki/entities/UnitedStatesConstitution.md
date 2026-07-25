@@ -2,8 +2,8 @@
 title: "United States Constitution"
 type: entity
 tags: [document, law, constitution, politics]
-sources: [sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809]
-last_updated: 2026-07-24
+sources: [tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809]
+last_updated: 2026-07-25
 ---
 
 # United States Constitution
@@ -14,12 +14,15 @@ The United States Constitution appears in [[173-tanhe-ruhe-bamian-yiwei-zongtong
 
 In the source, the Constitution is not treated as flawless text. It is treated as a patched operating system: old, awkward, partly ambiguous, and still valuable because it encodes earlier solutions to problems of monarchy, executive energy, legislative domination, and emergency succession.
 
+[[tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]] adds a First Amendment platform-access branch. [[AaronMackey]] argues that [[CaliforniaAB1709]] and similar state laws can violate constitutional rights when they broadly block minors from lawful online speech or require age-verification gates that also burden adults.
+
 ## Source Position
 - The Constitution gives the House the impeachment power and the Senate the trial power.
 - Presidential impeachment trials involve the Chief Justice of the [[SupremeCourt]] and a two-thirds Senate conviction threshold.
 - [[HighCrimesAndMisdemeanors]] creates interpretive flexibility without making impeachment a general dissatisfaction vote.
 - The [[TwentyFifthAmendment]] adds a separate incapacity mechanism, showing how the system handles failure modes beyond guilt or misconduct.
 - The sequel stresses that Article V amendment design can protect stability while also producing [[USConstitutionalReformConstraint]].
+- The Marketplace Tech source adds that constitutional speech protections constrain state child-safety technology laws when those laws restrict lawful online communication by age.
 
 ## Connections
 - [[UnitedStates]] - political system and country governed by the document.
@@ -27,3 +30,4 @@ In the source, the Constitution is not treated as flawless text. It is treated a
 - [[AlexanderHamilton]] - founding-era figure used to defend a strong but accountable executive.
 - [[ConstitutionalRobustness]] and [[AmericanDemocraticResilience]] - source synthesis about institutional recovery capacity.
 - [[USConstitutionalReformConstraint]], [[NationalPopularVoteInterstateCompact]], and [[USConstitutionalCrisisRisk]] - sequel reform-limit branch.
+- [[CaliforniaAB1709]], [[AaronMackey]], [[YouthOnlineSpeechRights]], and [[SocialMediaAgeGateSpeechBurden]] - First Amendment branch added by Marketplace Tech.

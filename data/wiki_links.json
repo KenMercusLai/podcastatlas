@@ -1427,6 +1427,10 @@
     "title": "Aaron Cheung",
     "url": "/wiki/entities/aaroncheung/"
   },
+  "AaronMackey": {
+    "title": "Aaron Mackey",
+    "url": "/wiki/entities/aaronmackey/"
+  },
   "AaronSojourner": {
     "title": "Aaron Sojourner",
     "url": "/wiki/entities/aaronsojourner/"
@@ -4211,6 +4215,10 @@
     "title": "California",
     "url": "/wiki/entities/california/"
   },
+  "CaliforniaAB1709": {
+    "title": "California AB 1709",
+    "url": "/wiki/concepts/californiaab1709/"
+  },
   "CaliforniaDeleteAct": {
     "title": "California Delete Act",
     "url": "/wiki/concepts/californiadeleteact/"
@@ -5522,6 +5530,10 @@
   "CompoundingGrowthFormula": {
     "title": "Compounding Growth Formula",
     "url": "/wiki/concepts/compoundinggrowthformula/"
+  },
+  "ComprehensiveConsumerDataPrivacy": {
+    "title": "Comprehensive Consumer Data Privacy",
+    "url": "/wiki/concepts/comprehensiveconsumerdataprivacy/"
   },
   "ComputeFreedom": {
     "title": "Compute Freedom / 算力自由",
@@ -7738,6 +7750,10 @@
   "ElectronicDesignAutomation": {
     "title": "Electronic Design Automation",
     "url": "/wiki/concepts/electronicdesignautomation/"
+  },
+  "ElectronicFrontierFoundation": {
+    "title": "Electronic Frontier Foundation",
+    "url": "/wiki/entities/electronicfrontierfoundation/"
   },
   "ElectronicPrivacyInformationCenter": {
     "title": "Electronic Privacy Information Center",
@@ -21059,6 +21075,10 @@
     "title": "Social Graph Moat",
     "url": "/wiki/concepts/socialgraphmoat/"
   },
+  "SocialMediaAgeGateSpeechBurden": {
+    "title": "Social Media Age-Gate Speech Burden",
+    "url": "/wiki/concepts/socialmediaagegatespeechburden/"
+  },
   "SocialMediaCausationScienceWars": {
     "title": "Social Media Causation Science Wars",
     "url": "/wiki/concepts/socialmediacausationsciencewars/"
@@ -25175,6 +25195,10 @@
     "title": "Youth Happiness After Growth",
     "url": "/wiki/concepts/youthhappinessaftergrowth/"
   },
+  "YouthOnlineSpeechRights": {
+    "title": "Youth Online Speech Rights",
+    "url": "/wiki/concepts/youthonlinespeechrights/"
+  },
   "YouyangZazu": {
     "title": "《酉阳杂俎》 / Youyang Zazu",
     "url": "/wiki/entities/youyangzazu/"
@@ -26850,6 +26874,10 @@
   "tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128": {
     "title": "Bytes: Week in Review - SpaceX's IPO, Iran threatens U.S. tech firms and California's new AI executive order",
     "url": "/wiki/sources/tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128/"
+  },
+  "tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128": {
+    "title": "Would banning teens from social media violate their First Amendment rights?",
+    "url": "/wiki/sources/tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128/"
   },
   "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128": {
     "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",

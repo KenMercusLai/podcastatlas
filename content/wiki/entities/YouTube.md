@@ -2,7 +2,7 @@
 title: "YouTube"
 type: entity
 tags: [company, video, platform, distribution]
-sources: [tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
+sources: [tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
 last_updated: 2026-07-25
 ---
 
@@ -15,6 +15,8 @@ last_updated: 2026-07-25
 [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds YouTube as a defendant alongside [[Meta]] in a Los Angeles verdict finding the companies negligent in a youth mental-health case. The episode uses YouTube to extend the wiki's platform branch into [[SocialMediaProductLiability]], where autoplay, engagement loops, parental controls, and product-design decisions can become legal questions rather than only speech or moderation questions.
 
 [[tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128]] adds Goldman's post-verdict analysis. The source treats YouTube as part of a [[BellwetherPlatformTrials|bellwether]] result that may influence thousands of related cases, while emphasizing that appeals may still test [[Section230]], the [[Section230DesignWorkaround]], and [[PlatformFirstAmendmentDefense|First Amendment platform defenses]].
+
+[[tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]] returns to the Meta and YouTube verdict as context for [[AaronMackey]]'s warning about regulating social-media harms through broad bans or individual jury trials. The source keeps YouTube in the [[SocialMediaProductLiability]] branch while adding a privacy-legislation alternative through [[ComprehensiveConsumerDataPrivacy]].
 
 [[tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128]] makes YouTube the main case in [[YouTubeMediaDominance]]. The episode cites a [[MoffettNathanson]] report describing YouTube as the world's largest media company, with more than $62 billion in prior-year revenue, and [[JewelBurkeSolomon]] explains the position through YouTube TV, creator content, Shorts, ads, subscriptions, [[Alphabet]]'s broader ecosystem, and AI-assisted creator tools.
 
@@ -31,6 +33,7 @@ The episode's forward-looking claim is that pure overseas distribution may becom
 ## Connections
 - [[Scribd]], [[JaredFriedman]], [[Google]], [[BrianMendoza]], and [[UserGeneratedContentCopyrightRisk]] - document-platform analogy and copyright-risk context added by the Jared Friedman episode.
 - [[Meta]], [[SocialMediaProductLiability]], [[PlatformLegalCausation]], [[Section230]], [[Section230DesignWorkaround]], [[PlatformFirstAmendmentDefense]], [[TikTok]], and [[Snapchat]] - platform-liability and youth mental-health litigation branch added by Marketplace Tech.
+- [[AaronMackey]], [[ElectronicFrontierFoundation|Electronic Frontier Foundation]], and [[ComprehensiveConsumerDataPrivacy]] - privacy-legislation alternative added by the April 6, 2026 Marketplace Tech source.
 - [[WangXiaoshu]] — guest describing the distribution experience.
 - [[TheSocialRadars]], [[JessicaLivingston]], and [[CarolynLevy]] — podcast and hosts planning more video clips.
 - [[VideoPodcastAffordance]] — full-episode video context added by the Season Five update.

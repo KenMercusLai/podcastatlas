@@ -4896,6 +4896,10 @@ Added source page for a Marketplace Tech episode with Paul Vixie on dot-com fibe
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-25] ingest | Would banning teens from social media violate their First Amendment rights?
+
+Added source page for a Marketplace Tech episode with Aaron Mackey of the Electronic Frontier Foundation on California AB 1709, an under-16 social-media ban modeled on an Australia policy, First Amendment concerns for minors and adults, age-verification burdens, and comprehensive consumer data privacy as EFF's preferred alternative. Created pages for Aaron Mackey, Electronic Frontier Foundation, California AB 1709, Youth Online Speech Rights, Social Media Age-Gate Speech Burden, and Comprehensive Consumer Data Privacy; updated overview, index, Marketplace Tech, California, Australia, United States Constitution, Platform First Amendment Defense, Social Media Product Liability, Platform Data Regulation, Civil Liberties Surveillance Risk, Meta, and YouTube. No direct contradiction found; the source distinguishes product-liability litigation from access-ban legislation and argues that privacy regulation can target surveillance-heavy platform harms without broadly restricting lawful speech.
+
 ## [2026-07-25] ingest | Bytes: Week in Review - SpaceX's IPO, Iran threatens U.S. tech firms and California's new AI executive order
 
 Added source page for a Marketplace Tech Bytes episode with Paresh Dave on SpaceX's reported confidential IPO filing, Iran-linked threats against U.S. technology infrastructure in the Middle East, Gulf AI funding and customer demand, and California Governor Gavin Newsom's AI procurement order. Created pages for Gavin Newsom, Dual-Use Tech Infrastructure Targeting, and State AI Procurement Guardrails; updated overview, index, Marketplace Tech, Stephanie Hughes, Paresh Dave, Wired, SpaceX, xAI, Iran, Islamic Revolutionary Guard Corps, Amazon Web Services, California, Donald Trump, AI IPO Valuation, Space Based AI Infrastructure, Digital Infrastructure War Risk, Asymmetric Infrastructure Attack, AI Governance And Compliance, Gulf Strategic Diversification, and Gulf Stability Risk. Flagged dated-source tensions with the later SpaceX IPO source on IPO timing and profitability; treated reported AWS/data-center attacks as source-attributed rather than independently verified.
@@ -4931,6 +4935,10 @@ Added source page for a Marketplace Tech episode with Eric Goldman on Meta and Y
 ## [2026-07-25] ingest | 34 days without internet in Iran
 
 Added source page for a Marketplace Tech episode with Amir Rashidi of Mian Group on Iran's wartime internet blackout, the National Information Network, domestic-service censorship, Mahsa Alert, and public-safety risks from blocked global connectivity. Created pages for Amir Rashidi, Mian Group, National Information Network, Mahsa Alert, Domestic Network Sovereignty, Domestic Service Censorship, and Internet Blackout Public-Safety Risk; updated overview, index, Iran, Marketplace Tech, Megan McCarty-Corino, and Digital Infrastructure War Risk. No direct contradiction found; the source qualifies simple blackout language by showing selective partitioning where approved domestic services can remain online while global news, social media, alerting tools, and some emergency-service functions fail.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-25] lint | Wiki health check
 

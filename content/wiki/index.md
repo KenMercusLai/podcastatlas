@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Would banning teens from social media violate their First Amendment rights?](sources/tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128.md) — Marketplace Tech episode with Aaron Mackey of EFF on California AB 1709, under-16 social-media bans, age-verification burdens, youth online speech rights, and comprehensive privacy regulation as an alternative.
 - [Bytes: Week in Review - SpaceX's IPO, Iran threatens U.S. tech firms and California's new AI executive order](sources/tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Paresh Dave on SpaceX's reported IPO push, Iran-linked threats against U.S. tech infrastructure, Gulf AI investment, and California's AI procurement order.
 - [34 days without internet in Iran](sources/tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128.md) — Marketplace Tech episode with Amir Rashidi on Iran's wartime internet blackout, the National Information Network, domestic-service censorship, Mahsa Alert, and public-safety risk from blocked global connectivity.
 - [Meta and Youtube held liable for their addictive products](sources/tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128.md) — Marketplace Tech episode with Eric Goldman on Meta and YouTube child-safety verdicts, New Mexico's Meta verdict, bellwether trials, Section 230 design workarounds, and First Amendment appeal risks.
@@ -617,6 +618,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Aaron Mackey](entities/AaronMackey.md) — Electronic Frontier Foundation speaker arguing that under-16 social-media bans, parental consent, and age gates can burden minors' and adults' online speech rights.
+- [Electronic Frontier Foundation](entities/ElectronicFrontierFoundation.md) — Digital-rights organization represented by Aaron Mackey in the Marketplace Tech episode on California AB 1709, online speech access, and privacy regulation.
 - [Gavin Newsom](entities/GavinNewsom.md) — California governor whose AI executive order makes state procurement a privacy, security, bias-review, supply-chain-risk, and watermarking governance tool.
 - [Amir Rashidi](entities/AmirRashidi.md) — Mian Group expert explaining Iran's wartime internet blackout, the National Information Network, and the public-safety limits of domestic-only connectivity.
 - [Mian Group](entities/MianGroup.md) — Digital-rights organization associated with Amir Rashidi in the Marketplace Tech episode on Iran's internet blackout.
@@ -4161,6 +4164,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [California AB 1709](concepts/CaliforniaAB1709.md) — Proposed California under-16 social-media ban used as a case of child-safety technology regulation colliding with First Amendment speech-access limits.
+- [Youth Online Speech Rights](concepts/YouthOnlineSpeechRights.md) — Claim that minors have constitutional interests in speaking and accessing lawful online speech, not only adults or platforms.
+- [Social Media Age-Gate Speech Burden](concepts/SocialMediaAgeGateSpeechBurden.md) — Risk that age verification, parental consent, or categorical youth bans restrict lawful online speech for minors and adults.
+- [Comprehensive Consumer Data Privacy](concepts/ComprehensiveConsumerDataPrivacy.md) — Privacy-law approach that targets invasive collection, opaque targeting, and surveillance-based platform incentives instead of broad age-based access bans.
 - [Dual-Use Tech Infrastructure Targeting](concepts/DualUseTechInfrastructureTargeting.md) — Risk pattern where private cloud, AI, chip, data-center, or platform infrastructure becomes a wartime target because it supports military or intelligence use.
 - [State AI Procurement Guardrails](concepts/StateAIProcurementGuardrails.md) — State-government buying rules for AI vendors, covering security, privacy, bias review, supply-chain risk, and provenance requirements.
 - [Domestic Network Sovereignty](concepts/DomesticNetworkSovereignty.md) — State pattern of preserving approved domestic digital services while cutting or filtering access to the global internet.

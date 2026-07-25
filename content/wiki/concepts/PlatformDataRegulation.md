@@ -2,8 +2,8 @@
 title: "Platform Data Regulation"
 type: concept
 tags: [platform, regulation, data, antitrust]
-sources: [tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128, tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]
-last_updated: 2026-07-23
+sources: [tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128, tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]
+last_updated: 2026-07-25
 ---
 
 # Platform Data Regulation
@@ -20,6 +20,8 @@ The concept matters because visible app screens are not enough to evaluate platf
 
 [[tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128]] adds a consumer-deletion angle. [[California]]'s [[DeleteRequestAndOptOutPlatform|DROP]] and the [[CaliforniaDeleteAct]] show that data regulation can also take the form of a user-facing workflow for [[ConsumerDataDeletion]], even though deletion from registered brokers does not cover every data trail, cookie, government system, or AI-enabled outreach channel.
 
+[[tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]] adds a social-media privacy-law angle through [[AaronMackey]] and the [[ElectronicFrontierFoundation|Electronic Frontier Foundation]]. The source frames [[ComprehensiveConsumerDataPrivacy]] as a better child-safety tool than broad age-based bans because it limits surveillance-heavy collection and opaque targeting without making speech access depend on age verification.
+
 [[tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128]] adds a retail-price opacity angle through [[SurveillancePricing]]. The Walmart.com toothpaste comparison shows why price and discount systems may need auditability: a shopper can observe two prices, but not the internal logic deciding whether the difference came from personalization, market variation, price matching, or real-time repricing.
 
 [[tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128]] adds a public-sensor security angle. [[SurveillanceCameraExposure]] shows that data governance also depends on authentication, configuration, archive controls, and deletion permissions for physical-world data systems, not only on downstream market conduct or government purchase rules.
@@ -33,6 +35,7 @@ The concept matters because visible app screens are not enough to evaluate platf
 - For AI search, source-link display and traffic outcomes are data-governance questions because public citations do not reveal how answer placement affects publisher economics.
 - For government access, the key regulatory question is not only whether data is collected lawfully by a company, but whether agencies can buy or query it without judicial process.
 - For consumer deletion, the key regulatory question is whether rights become usable workflows backed by enforcement and education, not merely abstract privacy promises.
+- For social media, the key privacy question is whether rules can constrain collection and targeting without replacing business-model governance with speech-restrictive age gates.
 - For retail pricing, the key regulatory question is whether users, researchers, or regulators can inspect enough data to distinguish fair market variation from opaque customer-specific treatment.
 - For public camera systems, the key regulatory question includes whether access controls, archived footage, and administrative permissions are auditable enough to prevent accidental public exposure.
 
@@ -43,5 +46,6 @@ The concept matters because visible app screens are not enough to evaluate platf
 - [[GoogleAIOverviews|Google AI Overviews]], [[AIAnswerSourceAttribution]], [[EuropeanCommission]], and [[PlatformAntitrust]] - AI-search regulation case added by Marketplace Tech.
 - [[GovernmentDataBrokerAccess]], [[SurveillanceAsAService]], [[DataBrokerLoophole]], and [[FourthAmendmentDigitalPrivacy]] - government-access regulation branch added by Marketplace Tech.
 - [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform|DROP]], [[ConsumerDataDeletion]], and [[AIEnabledSpam]] - consumer-deletion branch added by Marketplace Tech.
+- [[ComprehensiveConsumerDataPrivacy]], [[ElectronicFrontierFoundation|Electronic Frontier Foundation]], [[YouthOnlineSpeechRights]], and [[SocialMediaAgeGateSpeechBurden]] - social-media privacy alternative to age-based bans.
 - [[SurveillancePricing]], [[Walmart]], [[AIConsumerDecisionShaping]], and [[GarrettJohnson]] - personalized retail-pricing branch added by Marketplace Tech.
 - [[SurveillanceCameraExposure]], [[FlockSafety]], [[Shodan]], and [[404Media|404 Media]] - public-sensor security branch added by Marketplace Tech.
