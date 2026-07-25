@@ -79,6 +79,10 @@
     "title": "109.闲聊左传之春秋运动会！",
     "url": "/wiki/sources/109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773/"
   },
+  "11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513": {
+    "title": "11.雍正王朝之大义觉迷：史景迁笔下的千古奇案",
+    "url": "/wiki/sources/11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513/"
+  },
   "110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278": {
     "title": "110.初老的女人：疲惫，温柔，辽阔",
     "url": "/wiki/sources/110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278/"
@@ -6455,6 +6459,10 @@
     "title": "达菲辛 / Dafeixin",
     "url": "/wiki/entities/dafeixin/"
   },
+  "DaiYiJueMiLu": {
+    "title": "《大义觉迷录》",
+    "url": "/wiki/entities/daiyijuemilu/"
+  },
   "DaiYusen": {
     "title": "Dai Yusen / 戴雨森",
     "url": "/wiki/entities/daiyusen/"
@@ -10723,6 +10731,10 @@
     "title": "韩江 / Han Kang",
     "url": "/wiki/entities/hankang/"
   },
+  "HanManchuLegitimacyPolitics": {
+    "title": "满汉合法性政治 / Han-Manchu Legitimacy Politics",
+    "url": "/wiki/concepts/hanmanchulegitimacypolitics/"
+  },
   "HanPingdi": {
     "title": "Emperor Ping of Han / 汉平帝",
     "url": "/wiki/entities/hanpingdi/"
@@ -11762,6 +11774,10 @@
   "ImperialHouseholdDepartment": {
     "title": "内务府 / Imperial Household Department",
     "url": "/wiki/entities/imperialhouseholddepartment/"
+  },
+  "ImperialPublicRebuttal": {
+    "title": "Imperial Public Rebuttal / 皇帝公开辩驳",
+    "url": "/wiki/concepts/imperialpublicrebuttal/"
   },
   "ImpermanenceAndNoSelf": {
     "title": "Impermanence And No-Self",
@@ -14103,6 +14119,10 @@
     "title": "李天天",
     "url": "/wiki/entities/litiantian/"
   },
+  "LiWeiQingOfficial": {
+    "title": "李卫 / Li Wei",
+    "url": "/wiki/entities/liweiqingofficial/"
+  },
   "LiWuya": {
     "title": "李乌鸦",
     "url": "/wiki/entities/liwuya/"
@@ -14694,6 +14714,10 @@
   "LuChuan": {
     "title": "陆川 / Lu Chuan",
     "url": "/wiki/entities/luchuan/"
+  },
+  "LuLiuliang": {
+    "title": "吕留良 / Lu Liuliang",
+    "url": "/wiki/entities/luliuliang/"
   },
   "LuQi": {
     "title": "Lu Qi",
@@ -16811,6 +16835,10 @@
     "title": "你的书房",
     "url": "/wiki/entities/nideshufang/"
   },
+  "NianGengyao": {
+    "title": "年羹尧 / Nian Gengyao",
+    "url": "/wiki/entities/niangengyao/"
+  },
   "NianNuJiaoChibiHuaiGu": {
     "title": "《念奴娇·赤壁怀古》 / Nian Nu Jiao: Reminiscence at Red Cliff",
     "url": "/wiki/entities/niannujiaochibihuaigu/"
@@ -18559,6 +18587,10 @@
     "title": "Political Meme Stock",
     "url": "/wiki/concepts/politicalmemestock/"
   },
+  "PoliticalPropagandaBackfire": {
+    "title": "Political Propaganda Backfire / 政治宣传反噬",
+    "url": "/wiki/concepts/politicalpropagandabackfire/"
+  },
   "PoliticalRegulatoryLeverage": {
     "title": "Political Regulatory Leverage",
     "url": "/wiki/concepts/politicalregulatoryleverage/"
@@ -19259,6 +19291,10 @@
     "title": "钱粮胡同FM",
     "url": "/wiki/entities/qianlianghutongfm/"
   },
+  "QianlongEmperor": {
+    "title": "乾隆 / Qianlong Emperor",
+    "url": "/wiki/entities/qianlongemperor/"
+  },
   "QiaoFamilyCompound": {
     "title": "Qiao Family Compound / 乔家大院",
     "url": "/wiki/entities/qiaofamilycompound/"
@@ -19290,6 +19326,14 @@
   "QingGenderLegalOrder": {
     "title": "清代性别法律秩序 / Qing Gender Legal Order",
     "url": "/wiki/concepts/qinggenderlegalorder/"
+  },
+  "QingLiteraryInquisition": {
+    "title": "清代文字狱 / Qing Literary Inquisition",
+    "url": "/wiki/concepts/qingliteraryinquisition/"
+  },
+  "QingRumorPolitics": {
+    "title": "清代谣言政治 / Qing Rumor Politics",
+    "url": "/wiki/concepts/qingrumorpolitics/"
   },
   "QingdaoClipperYacht": {
     "title": "青岛号",
@@ -23831,6 +23875,10 @@
     "title": "Travis Bickle",
     "url": "/wiki/entities/travisbickle/"
   },
+  "TreasonByTheBook": {
+    "title": "《雍正王朝之大义觉迷》 / Treason by the Book",
+    "url": "/wiki/entities/treasonbythebook/"
+  },
   "TreasuryBondSpeculation": {
     "title": "Treasury Bond Speculation",
     "url": "/wiki/concepts/treasurybondspeculation/"
@@ -25871,6 +25919,10 @@
     "title": "米泽穗信 / Yonezawa Honobu",
     "url": "/wiki/entities/yonezawahonobu/"
   },
+  "YongzhengEmperor": {
+    "title": "雍正 / Yongzheng Emperor",
+    "url": "/wiki/entities/yongzhengemperor/"
+  },
   "YorubaTwinCosmology": {
     "title": "Yoruba Twin Cosmology",
     "url": "/wiki/concepts/yorubatwincosmology/"
@@ -25979,6 +26031,10 @@
     "title": "《越女剑》",
     "url": "/wiki/entities/yuenvjian/"
   },
+  "YueZhongqi": {
+    "title": "岳钟琪 / Yue Zhongqi",
+    "url": "/wiki/entities/yuezhongqi/"
+  },
   "YuebanDongli": {
     "title": "Yueban Dongli",
     "url": "/wiki/entities/yuebandongli/"
@@ -26047,6 +26103,10 @@
     "title": "Zenefits",
     "url": "/wiki/entities/zenefits/"
   },
+  "ZengJing": {
+    "title": "曾静 / Zeng Jing",
+    "url": "/wiki/entities/zengjing/"
+  },
   "ZeroPointFiveNoOtoko": {
     "title": "《0.5 的男人》 / 0.5 no Otoko",
     "url": "/wiki/entities/zeropointfivenootoko/"
@@ -26114,6 +26174,10 @@
   "ZhangWuchang": {
     "title": "张五常",
     "url": "/wiki/entities/zhangwuchang/"
+  },
+  "ZhangXi": {
+    "title": "张熙 / Zhang Xi",
+    "url": "/wiki/entities/zhangxi/"
   },
   "ZhangXiangrong": {
     "title": "Zhang Xiangrong / 张向荣",

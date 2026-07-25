@@ -1796,7 +1796,6 @@ Added source page for a Fuyou Tiandi program-statement episode on Han Yang's cri
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; report returned in-session and `lint-report.md` was not saved.
 
-
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present in the environment; report returned in-session and `lint-report.md` was not saved.
@@ -1864,6 +1863,7 @@ Added source page for a 疯投圈 episode on China's coffee market entering an i
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -2996,7 +2996,6 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-07-14] ingest | 52.好爱高木直子！献给正在打拼的你
 
 Added source page for the 蜜獾吃书 episode on 高木直子, everyday autobiographical comics, Tokyo drift, part-time work, job-search fear, cheap food, ordinary hardship, family life, and local Japan travel/festivals. Created pages for 高木直子 / Takagi Naoko, Everyday Autobiographical Comics, and Ordinary Hardship Narrative; updated overview, index, 蜜獾吃书, 秦总, Reading As Life Experience, Non-Instrumental Literary Reading, and Career Self-Rescue. No direct contradiction found; the source extends the reading and life-design branches by showing how small, ordinary, embarrassing episodes can become companionship rather than a success doctrine.
@@ -3801,7 +3800,6 @@ Added source page for the 蜜獾吃书 episode on Stacy Schiff's 《猎巫：塞
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-07-18] ingest | 92.柏拉图上班记：用哲学搞笑职场
 
 Added source page for the 蜜獾吃书 episode on 《柏拉图上班记：哲学家的职场百态》, using 思考理性有限公司 to connect philosophers to HR, monitoring, open-office privacy, labor morality, copier failure, union design, sales competition, boss theology, and managed freedom. Created pages for the book, fictional company, Charles Pepin, Jul, Plato, Socrates, Michel Foucault, Blaise Pascal, Baruch Spinoza, Thomas Aquinas, Walter Benjamin, Karl Marx, Voltaire, Jean-Jacques Rousseau, Jacques Derrida, Diogenes, Montaigne, Epicurus, Heraclitus, Bernard-Henri Levy, and the concepts Philosophy Workplace Satire, Labor Moral Ambivalence, Office Surveillance And Privacy, Corporate Theology And Capital Control, and Institutionalized Small Freedom; updated overview, index, 蜜獾吃书, Friedrich Nietzsche, Rene Descartes, Niccolo Machiavelli, Pure Rationality Trap, Workplace Pacing, and Workplace Hidden Rules. No direct contradiction found; the source extends existing rationality, workplace, and surveillance branches by showing how philosophy jokes can be grounded in precise modern office structures.
@@ -3881,7 +3879,6 @@ Ran lint. Report printed in session; semantic checks unavailable because LiteLLM
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
-
 
 ## [2026-07-18] lint | Wiki health check
 
@@ -3982,7 +3979,6 @@ Added source page for the 42章经 episode with RC on Kimi CLI, Slock.ai, CLI as
 ## [2026-07-23] ingest | OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋
 
 Added source page for the 42章经 episode with Wang Wenfeng on OpenClaw, coding agents as a general action layer, Sheet0's AI-managing-AI pivot, agent harness design, AI skills, proactive agents, SaaS pressure, token budgets, and short-horizon startup judgment. Created pages for Sheet0, Wang Wenfeng, AI Managing AI, and Coding Agent As Universal Action Layer; updated overview and index. No direct contradiction found; the source strengthens existing OpenClaw and Agent Harness branches while adding a stronger skeptical view of vertical agents and traditional SaaS UI as long-term workflow containers.
-
 
 ## [2026-07-23] ingest | E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI
 
@@ -5103,3 +5099,7 @@ Added source page for a 蜜獾吃书 episode with translator 菲比 on Oscar Wil
 ## [2026-07-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-25] ingest | 11.雍正王朝之大义觉迷：史景迁笔下的千古奇案
+
+Added source page for a 蜜獾吃书 episode using 史景迁《雍正王朝之大义觉迷》 to narrate the 曾静案 from 张熙投书岳钟琪 through密折、吕留良文字狱、《大义觉迷录》、雍正公开辩驳、乾隆翻案式处置, and the broader problem of rumor under imperial power. Created pages for Treason by the Book, 《大义觉迷录》, Yongzheng Emperor, Zeng Jing, Zhang Xi, Yue Zhongqi, Lu Liuliang, Qianlong Emperor, Li Wei, Nian Gengyao, Qing Literary Inquisition, Qing Rumor Politics, Imperial Public Rebuttal, Han-Manchu Legitimacy Politics, and Political Propaganda Backfire; updated overview, index, 蜜獾吃书, Jonathan Spence, Kangxi Emperor, Secret Memorial Political Intelligence, Personal Rule Legitimacy Crisis, and Historical Memory Contest. No direct contradiction found; the source extends the wiki's Spence and Qing-history branches by showing how a thin conspiracy became durable through rumor, books, ethnic legitimacy, official self-protection, and propaganda backfire.

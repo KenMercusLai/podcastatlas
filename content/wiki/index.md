@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [11.雍正王朝之大义觉迷：史景迁笔下的千古奇案](sources/11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513.md) — 蜜獾吃书 episode using 史景迁《雍正王朝之大义觉迷》 to narrate the 曾静案, 张熙投书, 岳钟琪密折, 吕留良文字狱, 《大义觉迷录》, 雍正公开辩驳, and乾隆 suppression.
 - [10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使](sources/10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195.md) — 蜜獾吃书 episode with translator 菲比 on Oscar Wilde, 《王尔德奇异故事集》, 《自深深处》, Lord Alfred Douglas, life imitating art, art against moral instruction, black comedy, forged evidence, and stories including 《阿瑟·萨维尔勋爵的罪行》, 《W.H.先生的画像》, and 《坎特维尔的幽灵》.
 - [sp.01 宇宙：卡尔·萨根的星辰大海和人类梦想](sources/sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074.md) — 蜜獾吃书 episode on Carl Sagan, 《宇宙》, 《接触》, humanistic science communication, SETI, the Voyager golden record, nuclear winter, and open extraterrestrial civilization imagination.
 - [09.阿特拉斯耸耸肩：安兰德只是爽文作家吗？](sources/09-atelasi-songsongjian-anlande-zhishi-shuangwen-zuojia-ma-543277898.md) — 蜜獾吃书 episode on Ayn Rand, 《源泉》, 《阿特拉斯耸耸肩》, creator/parasite moral drama, entrepreneur strike myth, anti-altruist moral coercion, and cautious reading of Objectivism.
@@ -2088,6 +2089,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [曹雪芹 / Cao Xueqin](entities/CaoXueqin.md) — Authorial center for 《红楼梦》 in the source's evidence-bound Li Shangyin intertext argument.
 - [《曹寅与康熙》 / Ts'ao Yin and the K'ang-hsi Emperor](entities/CaoYinAndKangxi.md) — Jonathan Spence book used by episode 101 to ground Red Chamber background in Cao Yin's imperial household service, accounts, and family decline.
 - [史景迁 / Jonathan Spence](entities/JonathanSpence.md) — Historian whose Cao Yin study gives episode 101 its institutional and family-history frame.
+- [《雍正王朝之大义觉迷》 / Treason by the Book](entities/TreasonByTheBook.md) — Jonathan Spence book used by episode 11 to reconstruct the Zeng Jing case as rumor, literary inquisition, imperial rebuttal, and propaganda backfire.
+- [《大义觉迷录》](entities/DaiYiJueMiLu.md) — Yongzheng-era political text turning confession and imperial rebuttal into propaganda after the Zeng Jing case.
+- [雍正 / Yongzheng Emperor](entities/YongzhengEmperor.md) — Qing emperor whose handling of the Zeng Jing case links personal reputation, succession rumor, literary inquisition, and public rebuttal.
+- [曾静 / Zeng Jing](entities/ZengJing.md) — Rural scholar whose anti-Qing letter campaign became the center of the Yongzheng-era case and later Qianlong reversal.
+- [张熙 / Zhang Xi](entities/ZhangXi.md) — Zeng Jing's student and courier whose letter to Yue Zhongqi opened the case.
+- [岳钟琪 / Yue Zhongqi](entities/YueZhongqi.md) — Sichuan-Shaanxi governor-general whose interrogation and secret memorials turned Zhang Xi's letter into an imperial case.
+- [吕留良 / Lu Liuliang](entities/LuLiuliang.md) — Scholar whose anti-Qing writings became the ideological target of the Zeng Jing case and related literary inquisition.
+- [乾隆 / Qianlong Emperor](entities/QianlongEmperor.md) — Qing emperor who reversed Yongzheng's settlement by executing Zeng Jing and Zhang Xi and suppressing 《大义觉迷录》.
+- [李卫 / Li Wei](entities/LiWeiQingOfficial.md) — Qing official whose search of the Lu Liuliang household shifted the case toward books, diaries, descendants, and students.
+- [年羹尧 / Nian Gengyao](entities/NianGengyao.md) — Recently fallen Qing official whose purge shaped Yue Zhongqi's fear and the anti-"逆书" atmosphere around the case.
 - [曹寅 / Cao Yin](entities/CaoYin.md) — Qing imperial bondservant, Jiangning weaver, fiscal operator, cultural broker, and Kangxi confidant central to episode 101.
 - [康熙 / Kangxi Emperor](entities/KangxiEmperor.md) — Qing emperor whose trusted bondservant network, southern tours, and secret memorial channels shape Cao Yin's role in episode 101.
 - [清代曹家 / Cao Family In Qing](entities/CaoFamilyQing.md) — Cao Xueqin's family background read through bondservant status, imperial favor, deficits, succession weakness, and confiscation.
@@ -4708,6 +4719,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dragon National Symbol Invention / 龙的民族象征发明](concepts/DragonNationalSymbolInvention.md) — Episode 127 synthesis that the dragon became a modern Chinese national symbol through inherited imagery, Qing flags, translation, totemism, nationalism, and popular culture.
 - [Cross-Cultural Dragon Translation / 龙与 Dragon 的跨文化翻译](concepts/CrossCulturalDragonTranslation.md) — Episode 127 corrective that translating 龙 as Dragon was historically intelligible but later shaped foreign image circulation and nationalist memory.
 - [Totemism And Nationalism / 图腾主义与民族主义](concepts/TotemismNationalism.md) — Frame for how imported totem theory and modern national crisis made dragon-origin arguments socially powerful despite evidence risks.
+- [清代文字狱 / Qing Literary Inquisition](concepts/QingLiteraryInquisition.md) — Episode 11 frame for how books, diaries, students, descendants, and print circulation became political evidence in the Zeng Jing case.
+- [清代谣言政治 / Qing Rumor Politics](concepts/QingRumorPolitics.md) — Episode 11 account of rumor as a legitimacy force around Yongzheng's succession, reputation, and Manchu-Han rule.
+- [Imperial Public Rebuttal / 皇帝公开辩驳](concepts/ImperialPublicRebuttal.md) — Yongzheng's strategy of personally answering anti-Qing accusations and turning rebuttal into public state pedagogy.
+- [满汉合法性政治 / Han-Manchu Legitimacy Politics](concepts/HanManchuLegitimacyPolitics.md) — Episode 11 frame for how Hua-Yi arguments and Han loyalist symbolism made a weak conspiracy politically serious.
+- [Political Propaganda Backfire / 政治宣传反噬](concepts/PoliticalPropagandaBackfire.md) — Mechanism where official refutation or suppression preserves the rumor, scandal, or accusation it tries to defeat.
 - [Mandate of Heaven Legitimacy / 天命合法性](concepts/MandateOfHeavenLegitimacy.md) — Sacred legitimacy frame where Han rule is grounded in Heaven but becomes vulnerable when Heaven can be imagined as shifting.
 - [Dynastic Legitimacy Backfire / 王朝合法性回旋镖](concepts/DynasticLegitimacyBackfire.md) — Episode 126's mechanism where a dynasty's own sacred legitimacy logic turns into a tool for replacement.
 - [Chenwei Politics / 谶纬政治](concepts/ChenweiPolitics.md) — Prophetic and apocryphal interpretation used as political evidence in Wang Mang's rise and later recentralized by Liu Xiu.

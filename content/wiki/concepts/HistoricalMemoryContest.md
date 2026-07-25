@@ -2,8 +2,8 @@
 title: "Historical Memory Contest"
 type: concept
 tags: [history, politics, culture]
-sources: [126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
-last_updated: 2026-07-24
+sources: [126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655, 11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513]
+last_updated: 2026-07-25
 ---
 
 # Historical Memory Contest
@@ -24,6 +24,8 @@ The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGu
 
 [[127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]] adds a national-symbol memory version through [[ChineseDragon|龙]]. The contest is not over one ruler's reputation but over whether dragon imagery should be remembered as ancient ethnic essence, imperial decoration, folk-religion layer, foreign-caricature target, Qing flag sign, or modern national identity.
 
+[[11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513]] adds a Qing rumor-memory version through [[DaiYiJueMiLu|《大义觉迷录》]]. [[YongzhengEmperor|雍正]] tried to make the text preserve his rebuttal, while [[QianlongEmperor|乾隆]] later tried to erase it; the episode's point is that both publication and suppression can preserve scandal when [[QingRumorPolitics|rumor]] has already become a memory vehicle.
+
 ## Key Claims
 - Historical memory is an institutional problem, not only a cultural argument.
 - Museums, memorials, schools, film, academia, and local boards all shape what citizens understand as national history.
@@ -35,6 +37,7 @@ The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGu
 - Political art can make one side of an assassination morally visible while withholding the agency or motive of the other.
 - Wang Mang's memory shows how dynastic history and modern ideology can each flatten a figure unless the surrounding legitimacy system is reconstructed.
 - Dragon memory shows that a symbol can become national by making older folklore and imperial layers look more unified than they were.
+- The Zeng Jing case shows that official rebuttal and book suppression can both make a rumor more memorable.
 
 ## Connections
 - [[UnitedStates]], [[RebeccaJackson]], and [[AmericanDemocraticResilience]] - source context.
@@ -47,3 +50,4 @@ The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGu
 - [[DeathOfMaratPainting]], [[JacquesLouisDavid]], [[JeanPaulMarat]], [[CharlotteCorday]], and [[RevolutionaryMartyrdomImageMaking]] - French Revolution image-memory branch added by episode 125.
 - [[WangMang]], [[XiangruiBook|《祥瑞》]], [[WesternHanDynasty]], [[MandateOfHeavenLegitimacy]], and [[DynasticLegitimacyBackfire]] - Wang Mang dynastic-memory branch added by episode 126.
 - [[ChineseDragon|龙]], [[QingDragonFlag]], [[DragonNationalSymbolInvention]], and [[CrossCulturalDragonTranslation]] - dragon national-symbol memory branch added by episode 127.
+- [[DaiYiJueMiLu|《大义觉迷录》]], [[YongzhengEmperor|雍正]], [[QianlongEmperor|乾隆]], and [[QingRumorPolitics]] - Qing rumor-memory branch added by episode 11.
