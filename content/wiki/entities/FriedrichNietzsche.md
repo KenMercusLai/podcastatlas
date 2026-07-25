@@ -2,8 +2,8 @@
 title: "Friedrich Nietzsche / 尼采"
 type: entity
 tags: [person, philosophy]
-sources: [157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]
-last_updated: 2026-07-18
+sources: [20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]
+last_updated: 2026-07-25
 ---
 
 # Friedrich Nietzsche / 尼采
@@ -13,6 +13,8 @@ Friedrich Nietzsche appears in [[157-chuiniu-dawang-lixianji-shubenhua-bamagua-h
 In the wiki, this places Nietzsche inside the episode's broader [[MunchausenSelfBootstrapping]] cluster: comic impossibility becomes a compact way to talk about philosophical self-foundation.
 
 [[92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]] adds a workplace-satire Nietzsche through [[PlatoGoesToWork|《柏拉图上班记：哲学家的职场百态》]]. The source places him in HR, coldly firing employees, giving [[Plato|柏拉图]] a corporate parody of *Beyond Good and Evil*, criticizing French Enlightenment reason, and fixing a copier with a violent "hammer" gesture. This adds [[PhilosophyWorkplaceSatire]] and [[PureRationalityTrap]] to his wiki role.
+
+[[20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734]] adds Nietzsche as one of the philosophical neighbors used to frame [[HermannHesse|Hesse]]'s [[DemianNovel|《德米安》]]. The source does not develop a full Nietzsche reading, but it places Hesse's [[SelfDiscoveryAgainstMassConformity|self-discovery against conformity]] near anti-orthodox, anti-herd, and existential questions rather than near simple self-help.
 
 ## Connections
 - [[MunchausenSelfBootstrapping]] - philosophical motif discussed by the source.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [20.德米安：该隐的额头上，那神秘的印记](sources/20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734.md) — 蜜獾吃书 episode on Hermann Hesse's 《德米安》, Cain's mark, Abraxas, Jungian symbolism, Gnosticism, wartime self-discovery, and later youth-culture reception.
 - [19.荒野上的大师：“我辈于乱世求研究，本为逆流之妄举”](sources/19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437.md) — 蜜獾吃书 live conversation with 张泉 on 《荒野上的大师》, modern Chinese academic institutions, fieldwork, wartime scholarship, Liang Sicheng, Ding Wenjiang, Zhao Yuanren, and Fu Sinian.
 - [18.如何识别、逃离并避免成为《精神吸血鬼》](sources/18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000.md) — 蜜獾吃书 episode using 《精神吸血鬼》 to discuss attention and emotional-energy extraction, self-blame, guilt control, relational isolation, workplace/family manipulation, and rebuilding one's own emotional capacity.
 - [开天窗：摸鱼+感谢+吹大理](sources/kaitianchuang-moyu-ganxie-chui-dali-553650149.md) — 蜜獾吃书 short update on cross-province moving, listener thanks, Dali air/stars/moonrise, and future leads around Angela Carter, 《荒野上的大师》, 《武士威廉》, 《土里不吐气》, and 新移民文学.
@@ -644,6 +645,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Hermann Hesse / 赫尔曼·黑塞](entities/HermannHesse.md) — German-Swiss writer read by 蜜獾吃书 through spiritual crisis, antiwar self-seeking, Jungian analysis, and the reception gap around his countercultural fame.
+- [《德米安》 / Demian](entities/DemianNovel.md) — Hesse novel read as Emil Sinclair's symbolic coming-of-age through Cain's mark, Abraxas, mentors, projection, and war.
+- [《悉达多》 / Siddhartha](entities/SiddharthaHesse.md) — Hesse spiritual-search novel used by the episode as a river-image contrast to 《德米安》's mirror structure.
+- [《荒原狼》 / Steppenwolf](entities/SteppenwolfHesse.md) — Hesse work used as a reception-history signal for his postwar American countercultural afterlife.
+- [Emil Sinclair / 辛克莱尔](entities/EmilSinclair.md) — 《德米安》 protagonist whose childhood moral duality, shame, symbolic search, and mentor losses organize the episode's reading.
+- [Max Demian / 德米安](entities/MaxDemian.md) — Mysterious schoolmate and mentor figure who challenges orthodox readings, rescues Sinclair, and becomes a possible self-projection.
+- [Frau Eva / 夏娃夫人](entities/FrauEva.md) — Demian's mother, read as mother-beloved-goddess figure and Jungian inner image in Sinclair's search.
+- [Franz Kromer / 弗朗兹·克罗默](entities/FranzKromer.md) — Extortion figure whose hold over Sinclair makes shame and the dark world concrete before the novel's symbolic turn.
+- [Pistorius / 皮斯托留斯](entities/PistoriusDemian.md) — Organist mentor who helps Sinclair hear Abraxas and inner symbols but remains limited by inherited religious forms.
+- [Abraxas / 阿布拉克萨斯](entities/Abraxas.md) — Gnostic-linked symbol in 《德米安》 for a god-image containing both divine and demonic sides.
 - [《精神吸血鬼》](entities/JingshenXixueguiBook.md) — French-psychiatry book frame used by 蜜獾吃书 to discuss psychic-vampire relationships and exit strategies.
 - [Rene Spitz / 史匹茨](entities/ReneSpitz.md) — child-development reference cited by episode 18 on the importance of emotional nourishment and bodily contact.
 - [Angela Carter / 安吉拉·卡特](entities/AngelaCarter.md) — author stored as a source-scoped future topic preview from a 蜜獾吃书 moving-status episode.
@@ -4349,6 +4360,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Cain Mark Reinterpretation / 该隐印记重释](concepts/CainMarkReinterpretation.md) — Demian's alternative reading of Cain's mark as feared strength and individuality rather than only guilt or punishment.
+- [Light And Dark World Duality / 光明与黑暗世界二分](concepts/LightAndDarkWorldDuality.md) — Sinclair's childhood split between pious family order and the dangerous, attractive outside world.
+- [Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征](concepts/AbraxasWholeGodSymbolism.md) — Hesse symbol for a god-image broad enough to contain divine, demonic, taboo, and shadowed reality.
+- [Spiritual Mentor As Self Projection / 精神导师作为自我投射](concepts/SpiritualMentorAsSelfProjection.md) — Reading pattern where Demian, Frau Eva, Kromer, and Pistorius externalize parts of Sinclair's psyche.
+- [Self Discovery Against Mass Conformity / 抵抗从众的自我追寻](concepts/SelfDiscoveryAgainstMassConformity.md) — Hesse self-seeking framed against church orthodoxy, education discipline, war fever, and inherited moral labels.
+- [Hesse Youth Culture Misreading / 黑塞青年文化误读](concepts/HesseYouthCultureMisreading.md) — Reception-history caution that countercultural and psychedelic uses of Hesse can flatten his wartime spiritual problem.
+- [Gnosticism / 诺斯替主义](concepts/Gnosticism.md) — Religious and literary influence used by the episode to explain experiential knowledge and Abraxas's whole-world symbolism.
 - [Fieldwork As Knowledge Method / 田野作为知识方法](concepts/FieldworkAsKnowledgeMethod.md) — Modern scholarship method where walking, measuring, excavating, recording, and comparing field evidence correct desk-bound inference.
 - [Scholarship In Wartime / 乱世求研究](concepts/ScholarshipInWartime.md) — Research that continues under war, displacement, poverty, damaged infrastructure, and political pressure.
 - [Modern Chinese Academic Institution Building / 中国现代学术制度建设](concepts/ModernChineseAcademicInstitutionBuilding.md) — Training, funding, laboratories, surveys, publications, and organizations as scholarly achievement.

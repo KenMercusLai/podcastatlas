@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-25] ingest | 20.德米安：该隐的额头上，那神秘的印记
+
+Added source page for a 蜜獾吃书 episode on 赫尔曼·黑塞《德米安》, 辛克莱尔's coming-of-age, 该隐印记, 阿布拉克萨斯, Jungian projection, Gnosticism, wartime self-discovery, and later countercultural reception. Created pages for Hermann Hesse, 《德米安》, 《悉达多》, 《荒原狼》, Emil Sinclair, Max Demian, Frau Eva, Franz Kromer, Pistorius, Abraxas, Cain Mark Reinterpretation, Light And Dark World Duality, Abraxas Whole-God Symbolism, Spiritual Mentor As Self Projection, Self Discovery Against Mass Conformity, Hesse Youth Culture Misreading, and Gnosticism; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, Carl Jung, Friedrich Nietzsche, Jungian Archetypal Reading, Classic Reading Complexity, Non-Instrumental Literary Reading, Reading As Life Experience, Interpretation And Overinterpretation, and Existentialism. No direct contradiction found; the source extends the wiki's Jungian-reading branch while distinguishing Hesse's wartime self-seeking from simple psychedelic or social-escape readings.
+
 ## [2026-07-25] ingest | 19.荒野上的大师：“我辈于乱世求研究，本为逆流之妄举”
 
 Added source page for a 蜜獾吃书 live conversation with 张泉 on 《荒野上的大师》, modern Chinese academic institutions, fieldwork, wartime scholarship, cosmopolitan method, and spiritual freedom under constraint. Created pages for 梁思成, 林徽因, 丁文江, 徐霞客, 赵元任, 傅斯年, 梁启超, 王国维, 陈寅恪, 胡适, 裴文中, 钱理群, 地质研究所/地质调查所, 清华国学研究院, 历史语言研究所/史语所, 中国营造学社, 周口店, 殷墟, 西南联大, Fieldwork As Knowledge Method, Scholarship In Wartime, Modern Chinese Academic Institution Building, Cosmopolitan Chinese Scholarship, and Spiritual Freedom Under Constraint; updated overview, index, 蜜獾吃书, 张泉, 《荒野上的大师》, 鲁迅, 清华大学, Academic Freedom, Scholar-Official Public Duty, Observation Before Inference, and Scientific Self-Correction. No direct substantive contradiction found; the ingest corrects the earlier preview spelling 张全 to 张泉 based on this full source's metadata and transcript.
@@ -4924,6 +4928,7 @@ Added source page for a Marketplace Tech episode with Paul Vixie on dot-com fibe
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-07-25] ingest | 13.悲伤的力量：谈谈丧亲之痛
 
 Added source page for a 蜜獾吃书 episode using Julia Samuel's 《悲伤的力量》 to discuss bereavement, childhood death communication, grief companionship, professional counseling, and trauma narrative integration. Created pages for 《悲伤的力量》 / Grief Works, Julia Samuel, Bereavement Grief Work, Child Death Education, Grief Companion Support, and Trauma Narrative Integration; updated overview, index, 蜜獾吃书, 秦总, 北明 / 北民, Complex Trauma Recognition, and Therapy Relationship And Boundaries. No direct contradiction found; the source extends the wiki's death-facing and trauma branches by showing how truth, ritual, steady presence, and professional containment help mourners carry loss without hiding it or forcing quick recovery.
@@ -5123,6 +5128,10 @@ Added source page for a 蜜獾吃书 episode using 史景迁《雍正王朝之�
 ## [2026-07-25] ingest | 12.慢：当米兰·昆德拉一句正经没有
 
 Added source page for a 蜜獾吃书 episode on 米兰·昆德拉《慢》 as a farcical French-language novel about speed, public moral performance, sexual and intellectual self-staging, Czech memory, anti-kitsch body comedy, privacy, and exile. Created pages for Milan Kundera, 《慢》, 《玩笑》, 《不可承受的生命之轻》, Czech Republic, Prague, Prague Spring, Velvet Revolution, Vera Kundera, Slowness As Modernity Critique, Public Moral Performance, Kitsch As Waste Denial, Anti-Lyricism, Memory Self-Mythologizing, Privacy Under Public Gaze, Author As Political Symbol, and Political Condition As Human Experiment; updated overview, index, 蜜獾吃书, Classic Reading Complexity, Author Myth Deflation, and Artistic Achievement Moral Accountability. No direct contradiction found; the source keeps the informing controversy explicitly contested while extending the wiki's reading branch from political-literary labels into human performance, body, media, memory, and privacy.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-25] lint | Wiki health check
 

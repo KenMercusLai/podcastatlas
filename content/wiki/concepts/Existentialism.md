@@ -2,8 +2,8 @@
 title: "Existentialism / 存在主义"
 type: concept
 tags: [philosophy, literature, france, meaning]
-sources: [135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670]
-last_updated: 2026-07-24
+sources: [20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670]
+last_updated: 2026-07-25
 ---
 
 # Existentialism / 存在主义
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 Existentialism / 存在主义 enters the wiki through [[135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670]] as the philosophy associated with [[JeanPaulSartre|Jean-Paul Sartre / 萨特]]'s wartime and postwar influence. The episode says existentialism helped young people in post-liberation France find personal meaning after despair, which explains part of Sartre's national-hero status.
 
 The source also deflates that heroic image. Sartre's existentialist importance is held beside his occupation-era career success, limited resistance activity, left politics, open relationship, and late-life reconsideration of despair. In the wiki, this makes existentialism a case where a powerful philosophy can have real cultural force without turning its author into a saint.
+
+[[20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734]] adds an adjacent [[HermannHesse|Hesse]] branch rather than a formal existentialist doctrine page. The episode places [[DemianNovel|《德米安》]] near [[FriedrichNietzsche|Nietzsche]] and existential questions because [[EmilSinclair|辛克莱尔]] has to choose a self under war, taboo, and inherited moral pressure. The source's contribution is to make meaning a lived symbolic crisis, not only a postwar French philosophical language.
 
 ## Key Claims
 - Philosophical language can become socially powerful when it gives people a way to name meaning after crisis.

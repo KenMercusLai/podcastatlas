@@ -491,6 +491,10 @@
     "title": "1A",
     "url": "/wiki/entities/1a/"
   },
+  "20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734": {
+    "title": "20.德米安：该隐的额头上，那神秘的印记",
+    "url": "/wiki/sources/20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734/"
+  },
   "20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto": {
     "title": "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会",
     "url": "/wiki/sources/20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto/"
@@ -1502,6 +1506,14 @@
   "AbelardoDeLaEspriella": {
     "title": "Abelardo de la Espriella",
     "url": "/wiki/entities/abelardodelaespriella/"
+  },
+  "Abraxas": {
+    "title": "Abraxas / 阿布拉克萨斯",
+    "url": "/wiki/entities/abraxas/"
+  },
+  "AbraxasWholeGodSymbolism": {
+    "title": "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征",
+    "url": "/wiki/concepts/abraxaswholegodsymbolism/"
   },
   "AbsurdRationality": {
     "title": "Absurd Rationality",
@@ -4379,6 +4391,10 @@
     "title": "蔡姬",
     "url": "/wiki/entities/caiji/"
   },
+  "CainMarkReinterpretation": {
+    "title": "Cain Mark Reinterpretation / 该隐印记重释",
+    "url": "/wiki/concepts/cainmarkreinterpretation/"
+  },
   "CaitlinClark": {
     "title": "Caitlin Clark",
     "url": "/wiki/entities/caitlinclark/"
@@ -7039,6 +7055,10 @@
     "title": "Demand Shock Product-Market Fit",
     "url": "/wiki/concepts/demandshockproductmarketfit/"
   },
+  "DemianNovel": {
+    "title": "《德米安》 / Demian",
+    "url": "/wiki/entities/demiannovel/"
+  },
   "Democracy21": {
     "title": "Democracy 21",
     "url": "/wiki/entities/democracy21/"
@@ -8130,6 +8150,10 @@
   "EmbodiedRobotDataParadigms": {
     "title": "Embodied Robot Data Paradigms",
     "url": "/wiki/concepts/embodiedrobotdataparadigms/"
+  },
+  "EmilSinclair": {
+    "title": "Emil Sinclair / 辛克莱尔",
+    "url": "/wiki/entities/emilsinclair/"
   },
   "EmilyBordner": {
     "title": "Emily Bordner",
@@ -9579,6 +9603,14 @@
     "title": "Franz Boas / 博尔斯",
     "url": "/wiki/entities/franzboas/"
   },
+  "FranzKromer": {
+    "title": "Franz Kromer / 弗朗兹·克罗默",
+    "url": "/wiki/entities/franzkromer/"
+  },
+  "FrauEva": {
+    "title": "Frau Eva / 夏娃夫人",
+    "url": "/wiki/entities/fraueva/"
+  },
   "FredWertheimer": {
     "title": "Fred Wertheimer",
     "url": "/wiki/entities/fredwertheimer/"
@@ -10242,6 +10274,10 @@
   "Gmail": {
     "title": "Gmail",
     "url": "/wiki/entities/gmail/"
+  },
+  "Gnosticism": {
+    "title": "Gnosticism / 诺斯替主义",
+    "url": "/wiki/concepts/gnosticism/"
   },
   "GoCardless": {
     "title": "GoCardless",
@@ -11163,6 +11199,10 @@
     "title": "Herman Hollerith / 赫尔曼·霍尔瑞斯",
     "url": "/wiki/entities/hermanhollerith/"
   },
+  "HermannHesse": {
+    "title": "Hermann Hesse / 赫尔曼·黑塞",
+    "url": "/wiki/entities/hermannhesse/"
+  },
   "HermesAgent": {
     "title": "Hermes Agent",
     "url": "/wiki/entities/hermesagent/"
@@ -11170,6 +11210,10 @@
   "HeroJourneyNarrative": {
     "title": "Hero Journey Narrative",
     "url": "/wiki/concepts/herojourneynarrative/"
+  },
+  "HesseYouthCultureMisreading": {
+    "title": "Hesse Youth Culture Misreading / 黑塞青年文化误读",
+    "url": "/wiki/concepts/hesseyouthculturemisreading/"
   },
   "HeyTea": {
     "title": "HeyTea / 喜茶",
@@ -14335,6 +14379,10 @@
     "title": "Lifestyle Subsidy Creator Work",
     "url": "/wiki/concepts/lifestylesubsidycreatorwork/"
   },
+  "LightAndDarkWorldDuality": {
+    "title": "Light And Dark World Duality / 光明与黑暗世界二分",
+    "url": "/wiki/concepts/lightanddarkworldduality/"
+  },
   "LightCone": {
     "title": "Light Cone",
     "url": "/wiki/entities/lightcone/"
@@ -15598,6 +15646,10 @@
   "MaxBazerman": {
     "title": "Max Bazerman / 马克斯·巴兹曼",
     "url": "/wiki/entities/maxbazerman/"
+  },
+  "MaxDemian": {
+    "title": "Max Demian / 德米安",
+    "url": "/wiki/entities/maxdemian/"
   },
   "MaximilienRobespierre": {
     "title": "Maximilien Robespierre / 罗伯斯庇尔",
@@ -18511,6 +18563,10 @@
     "title": "Pirate Wires",
     "url": "/wiki/entities/piratewires/"
   },
+  "PistoriusDemian": {
+    "title": "Pistorius / 皮斯托留斯",
+    "url": "/wiki/entities/pistoriusdemian/"
+  },
   "PlaceBasedAntiPovertyPolicy": {
     "title": "Place-Based Anti-Poverty Policy",
     "url": "/wiki/concepts/placebasedantipovertypolicy/"
@@ -21175,6 +21231,10 @@
     "title": "Self-Directed Work",
     "url": "/wiki/concepts/selfdirectedwork/"
   },
+  "SelfDiscoveryAgainstMassConformity": {
+    "title": "Self Discovery Against Mass Conformity / 抵抗从众的自我追寻",
+    "url": "/wiki/concepts/selfdiscoveryagainstmassconformity/"
+  },
   "SelfDisruptionDiscipline": {
     "title": "Self-Disruption Discipline",
     "url": "/wiki/concepts/selfdisruptiondiscipline/"
@@ -21646,6 +21706,10 @@
   "SichuanCuisine": {
     "title": "Sichuan Cuisine / 川菜",
     "url": "/wiki/concepts/sichuancuisine/"
+  },
+  "SiddharthaHesse": {
+    "title": "《悉达多》 / Siddhartha",
+    "url": "/wiki/entities/siddharthahesse/"
   },
   "SidewalkDeliveryRobots": {
     "title": "Sidewalk Delivery Robots",
@@ -22127,6 +22191,10 @@
     "title": "Spiritual Freedom Under Constraint / 受限处境中的精神自由",
     "url": "/wiki/concepts/spiritualfreedomunderconstraint/"
   },
+  "SpiritualMentorAsSelfProjection": {
+    "title": "Spiritual Mentor As Self Projection / 精神导师作为自我投射",
+    "url": "/wiki/concepts/spiritualmentorasselfprojection/"
+  },
   "SpontaneousGenerationLifeOrigin": {
     "title": "Spontaneous Generation As Life-Origin Frame / 自然发生论作为生命起源框架",
     "url": "/wiki/concepts/spontaneousgenerationlifeorigin/"
@@ -22534,6 +22602,10 @@
   "StephenStarr": {
     "title": "Stephen Starr",
     "url": "/wiki/entities/stephenstarr/"
+  },
+  "SteppenwolfHesse": {
+    "title": "《荒原狼》 / Steppenwolf",
+    "url": "/wiki/entities/steppenwolfhesse/"
   },
   "SteppingStoneExploration": {
     "title": "Stepping-Stone Exploration",
