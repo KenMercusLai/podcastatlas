@@ -2,8 +2,8 @@
 title: "Gulf Stability Risk"
 type: concept
 tags: [geopolitics, economy, risk]
-sources: [the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8]
-last_updated: 2026-07-18
+sources: [tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8]
+last_updated: 2026-07-25
 ---
 
 # Gulf Stability Risk
@@ -20,6 +20,8 @@ The source also makes the risk uneven. [[UnitedArabEmirates]] is presented as be
 
 [[the-secret-meeting-that-launched-opec]] adds the oil-coordination version. The source says the [[UnitedArabEmirates|UAE]] left [[OPEC]] after quota tensions and conflict involving [[Iran]], showing that Gulf stability risk can weaken not only finance and logistics confidence but also producer coordination under [[ProductionQuotaDiscipline]].
 
+[[tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]] adds the tech-investment exposure. The same Gulf markets that attract U.S. cloud, AI, and chip companies because of capital and AI-hub ambitions can become more fragile when [[DualUseTechInfrastructureTargeting]] makes regional data centers and tech offices part of conflict planning.
+
 ## Connections
 - [[GulfCooperationCouncil]] and [[GregCarlstrom]] - regional frame and analyst.
 - [[UnitedArabEmirates]] and [[Bahrain]] - contrasting resilience cases.
@@ -29,3 +31,4 @@ The source also makes the risk uneven. [[UnitedArabEmirates]] is presented as be
 - [[NicholasPelham]] - contributor explaining the renewed-strikes alarm.
 - [[Dubai]], [[DubaiBusinessHubModel]], and [[DubaiRealEstateMarket]] - city-level safe-haven and property-demand branch added by vol.106.
 - [[OPEC]], [[ProductionQuotaDiscipline]], [[GreenParadox]], and [[OilProducerSupplyCoordination]] - oil-producer coordination branch added by Planet Money.
+- [[DualUseTechInfrastructureTargeting]], [[GulfStrategicDiversification]], [[AmazonWebServices|AWS]], and [[Nvidia]] - AI-hub and cloud-infrastructure exposure branch added by Marketplace Tech.

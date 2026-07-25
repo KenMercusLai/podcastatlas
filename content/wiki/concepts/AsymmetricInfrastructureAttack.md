@@ -2,8 +2,8 @@
 title: "Asymmetric Infrastructure Attack"
 type: concept
 tags: [geopolitics, infrastructure, risk]
-sources: [tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
-last_updated: 2026-07-17
+sources: [tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
+last_updated: 2026-07-25
 ---
 
 # Asymmetric Infrastructure Attack
@@ -20,6 +20,8 @@ The concept matters for business architecture because insurance, redundancy, and
 
 [[tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128]] adds a cyber-physical version through [[IndustrialControlSystemCyberRisk]]. [[RafePilling]] cites the 2023 attack on [[Unitronics]] systems, including water-treatment facilities near Pittsburgh, to show how [[IranLinkedCyberOperations]] can pressure public infrastructure without resembling a conventional military strike.
 
+[[tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]] adds a private cloud and AI infrastructure version. The episode's reported AWS drone-attack example and IRGC target warning show how a relatively low-cost strike can threaten expensive cloud facilities, military-adjacent services, and regional AI capacity without needing to attack a formal military base.
+
 ## Key Claims
 - Attack economics change when low-cost systems can threaten high-value assets.
 - The target does not need to be fully destroyed for business impact; partial damage, evacuation, or perceived vulnerability can interrupt service.
@@ -30,6 +32,7 @@ The concept matters for business architecture because insurance, redundancy, and
 - Cyber operations against industrial-control systems can create public-service risk even when the initial path is internet scanning, phishing, or exploitation of known vulnerabilities.
 - Low-cost drones and decoys can create asymmetric effects even before impact if they force expensive interceptors, rushed classification, or repeated air-defense readiness.
 - Infrastructure attacks can pressure elites directly when factories, fuel access, transport links, or security-service predation make the war a business-survival problem.
+- Commercial cloud and AI infrastructure can face asymmetric targeting when facilities are expensive, concentrated, and tied to military or intelligence workflows.
 
 ## Connections
 - [[DigitalInfrastructureWarRisk]] — broader wartime infrastructure frame.
@@ -41,3 +44,4 @@ The concept matters for business architecture because insurance, redundancy, and
 - [[WarVisibilityStrategy]], [[Ukraine]], [[Russia]], and [[Crimea]] — military and information-war extension added by The Intelligence.
 - [[IndustrialControlSystemCyberRisk]], [[Unitronics]], and [[IranLinkedCyberOperations]] — cyber-physical infrastructure extension added by Marketplace Tech.
 - [[AndreyMelnichenko]] and [[RussianEliteDiscontent]] — elite-business pressure extension added by the later Economist source.
+- [[DualUseTechInfrastructureTargeting]], [[AmazonWebServices|AWS]], and [[GulfStabilityRisk]] - private cloud and regional infrastructure extension added by Marketplace Tech.

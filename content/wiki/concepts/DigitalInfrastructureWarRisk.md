@@ -2,7 +2,7 @@
 title: "Digital Infrastructure War Risk"
 type: concept
 tags: [infrastructure, geopolitics, cloud, ai]
-sources: [chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128]
+sources: [tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128]
 last_updated: 2026-07-25
 ---
 
@@ -14,6 +14,8 @@ The concept extends the wiki's existing [[SaaSReliabilityUnderPolicyRisk]] threa
 
 [[tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128]] adds the deliberate partition version. [[AmirRashidi]] describes [[Iran]]'s wartime blackout as leaving the [[NationalInformationNetwork|National Information Network]] available while blocking global internet access, so digital infrastructure war risk can come from state routing and access control as well as from destroyed data centers, cables, or power systems.
 
+[[tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]] adds the private-vendor targeting version. [[PareshDave]] says [[Iran]]-linked threats named U.S. technology companies with Middle East infrastructure, and the episode discusses reported attacks on [[AmazonWebServices|AWS]] data centers whose customers include the [[USDepartmentOfDefense|U.S. military]]. This turns [[DualUseTechInfrastructureTargeting]] into a specific mechanism inside the broader war-risk frame.
+
 ## Key Claims
 - Digital infrastructure has become basic social and commercial infrastructure, so disruption can affect communication, finance, work, and AI-assisted production.
 - Data centers are visible in practice because large buildings, power demand, network links, and satellite imagery make them hard to hide.
@@ -21,6 +23,7 @@ The concept extends the wiki's existing [[SaaSReliabilityUnderPolicyRisk]] threa
 - War risk is different from ordinary outage risk because staff access, spare parts, flights, insurance, and repeated targeting can all break recovery assumptions.
 - Central regional hubs can be both good business locations and exposed geopolitical nodes.
 - A domestic network can keep selected local services operating while global news, social media, alerting, and some emergency-service functions fail.
+- Private technology infrastructure can become targetable when cloud, AI, chips, and platform services are embedded in military or intelligence operations.
 
 ## Connections
 - [[DataCenterPhysicalResilience]] — facility-level resilience against attack and recovery constraints.
@@ -30,3 +33,4 @@ The concept extends the wiki's existing [[SaaSReliabilityUnderPolicyRisk]] threa
 - [[MaaSInfrastructure]] and [[AIComputeContinuity]] — AI serving capacity as a physical dependency.
 - [[SaaSReliabilityUnderPolicyRisk]] — related cloud reliability risk from access, policy, and geopolitics.
 - [[DomesticNetworkSovereignty]], [[DomesticServiceCensorship]], and [[InternetBlackoutPublicSafetyRisk]] — deliberate network partitioning and civilian consequences added by the Iran blackout source.
+- [[DualUseTechInfrastructureTargeting]], [[AmazonWebServices|AWS]], [[IslamicRevolutionaryGuardCorps]], and [[USDepartmentOfDefense]] - private-vendor targeting branch added by Marketplace Tech.

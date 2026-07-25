@@ -2,11 +2,13 @@
 title: "Paresh Dave"
 type: entity
 tags: [person, journalist, technology]
-sources: [tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
-last_updated: 2026-07-17
+sources: [tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # Paresh Dave
+
+[[tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]] adds Paresh Dave as the [[Wired]] journalist explaining [[SpaceX]]'s reported confidential IPO filing, [[Iran]]-linked threats against U.S. tech infrastructure in the Middle East, and [[California]]'s AI executive order. His analysis connects [[AIIPOValuation]], [[SpaceBasedAIInfrastructure]], [[DualUseTechInfrastructureTargeting]], and [[StateAIProcurementGuardrails]] into one weekly-news frame.
 
 [[tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]] adds Paresh Dave as the [[Wired]] journalist interpreting [[Apple]]'s lawsuit against [[OpenAI]], New York's hyperscale data-center moratorium, and [[Uber]]'s opposition to a D.C. driverless-car bill. His comments connect [[AIHardwareTradeSecretDispute]], [[HyperscaleDataCenterMoratorium]], and [[RobotaxiHybridDeployment]] into a single weekly-news frame about AI companies entering physical-world constraints.
 
@@ -24,3 +26,4 @@ His comments are preserved as episode analysis rather than independent verificat
 - [[Kalshi]], [[Polymarket]], [[PredictionMarketEthics]], [[DefenseAISupplyChainRisk]], and [[AIContentLicensing]] - March 6, 2026 topic cluster.
 - [[SpaceX]], [[XAI|xAI]], [[Nvidia]], [[OpenAI]], [[Oracle]], and [[USTikTok|U.S. TikTok]] - main companies discussed through his analysis.
 - [[StrategicAIInfrastructureDependence]] and [[PlatformOwnershipTransition]] - concepts this source adds through his comments.
+- [[GavinNewsom]], [[California]], [[DualUseTechInfrastructureTargeting]], and [[StateAIProcurementGuardrails]] - April 3, 2026 Bytes topic cluster.

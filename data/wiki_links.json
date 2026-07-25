@@ -7379,6 +7379,10 @@
     "title": "双手稿叙事 / Dual Manuscript Narration",
     "url": "/wiki/concepts/dualmanuscriptnarration/"
   },
+  "DualUseTechInfrastructureTargeting": {
+    "title": "Dual-Use Tech Infrastructure Targeting",
+    "url": "/wiki/concepts/dualusetechinfrastructuretargeting/"
+  },
   "DuanChengshi": {
     "title": "段成式 / Duan Chengshi",
     "url": "/wiki/entities/duanchengshi/"
@@ -9582,6 +9586,10 @@
   "GaryMarcus": {
     "title": "Gary Marcus",
     "url": "/wiki/entities/garymarcus/"
+  },
+  "GavinNewsom": {
+    "title": "Gavin Newsom",
+    "url": "/wiki/entities/gavinnewsom/"
   },
   "GeckoRobotics": {
     "title": "Gecko Robotics",
@@ -21543,6 +21551,10 @@
     "title": "State AG Platform Litigation",
     "url": "/wiki/concepts/stateagplatformlitigation/"
   },
+  "StateAIProcurementGuardrails": {
+    "title": "State AI Procurement Guardrails",
+    "url": "/wiki/concepts/stateaiprocurementguardrails/"
+  },
   "StateAdministrationForMarketRegulation": {
     "title": "State Administration for Market Regulation",
     "url": "/wiki/entities/stateadministrationformarketregulation/"
@@ -26834,6 +26846,10 @@
   "tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128": {
     "title": "34 days without internet in Iran",
     "url": "/wiki/sources/tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128/"
+  },
+  "tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128": {
+    "title": "Bytes: Week in Review - SpaceX's IPO, Iran threatens U.S. tech firms and California's new AI executive order",
+    "url": "/wiki/sources/tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128/"
   },
   "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128": {
     "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",

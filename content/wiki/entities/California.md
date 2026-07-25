@@ -2,8 +2,8 @@
 title: "California"
 type: entity
 tags: [place, state, privacy, legislation, wildfire]
-sources: [tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]
-last_updated: 2026-07-24
+sources: [tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # California
@@ -16,6 +16,8 @@ California appears in [[tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp
 
 California appears in [[tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128]] as the state launching the [[DeleteRequestAndOptOutPlatform|DROP]] data-broker deletion tool under the [[CaliforniaDeleteAct]]. The episode frames the state as filling part of a national privacy-policy gap by giving residents a single place to request deletion from registered data brokers.
 
+[[tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]] adds California as a state AI procurement actor. [[GavinNewsom]]'s executive order requires safety and privacy guardrails for AI companies contracting with the state, including security review, privacy review, bias concern checks, independent assessment of federally flagged supply-chain risks, and watermarking of state-released generative AI output. The source frames this as [[StateAIProcurementGuardrails]] and as a response to [[DonaldTrump]] administration pressure against state AI laws.
+
 The California case complements [[Montana]]'s role in [[tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]]. Montana is used as a warrant-requirement example for closing the [[DataBrokerLoophole]] in government purchases; California is used as a consumer-agency example for reducing broker-held data before it can be sold, reused, or targeted.
 
 ## Connections
@@ -27,3 +29,4 @@ The California case complements [[Montana]]'s role in [[tech-20260302-0302-mp-te
 - [[ConsumerDataDeletion]] - consumer-side privacy mechanism.
 - [[DataBrokerLoophole]], [[GovernmentDataBrokerAccess]], and [[PlatformDataRegulation]] - broader data-governance branch.
 - [[Montana]] - contrasting state-level privacy implementation from the March 2 Marketplace Tech source.
+- [[GavinNewsom]], [[StateAIProcurementGuardrails]], [[AIGovernanceAndCompliance]], and [[AIContentProvenance]] - AI procurement and watermarking branch added by Marketplace Tech.

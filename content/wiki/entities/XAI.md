@@ -2,8 +2,8 @@
 title: "xAI"
 type: entity
 tags: [company, ai, musk]
-sources: [tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, kate-crawford-mapping-empires, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, kate-crawford-mapping-empires, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # xAI
@@ -24,6 +24,8 @@ In the episode, xAI matters less as a standalone chatbot company and more as a p
 
 [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds a more concrete corporate-structure frame. The episode says [[SpaceX]] announced it was buying xAI and interprets the deal as a way to house a money-losing AI startup inside a stronger rocket and satellite business, while also tying [[Grok]], [[Starlink]], and [[Twitter|X]] more tightly inside [[ElonMusk]]'s company ecosystem.
 
+[[tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]] extends the same frame into a possible IPO. [[PareshDave]] says a public-market SpaceX filing would not be only a rocket-company event if xAI and [[Twitter|X]] are part of the entity, because the profitable or strategically credible parts of SpaceX could help finance higher-risk AI and social-platform ambitions.
+
 ## Connections
 - [[USDepartmentOfDefense]], [[Anthropic]], [[Claude]], [[Grok]], [[DefenseAIProcurement]], and [[DefenseAISupplyChainRisk]] - Marketplace Tech Bytes defense-contract and substitution context.
 - [[ElonMusk]] — ecosystem context in the source.
@@ -33,3 +35,4 @@ In the episode, xAI matters less as a standalone chatbot company and more as a p
 - [[AGIThreeActs]], [[ModelAsOperatingSystem]], and [[ModelProviderToolCompetition]] — episode 136's frontier-model competition framing.
 - [[AIMetabolicInfrastructure]] and [[DataCenterBacklash]] — Crawford's critical infrastructure reading of xAI data-center expansion.
 - [[AIIPOValuation]] — Marketplace Tech's warning that a future SpaceX IPO becomes harder to analyze if xAI is inside the company.
+- [[Twitter|X]], [[Starlink]], and [[SpaceBasedAIInfrastructure]] - bundled-public-market context reinforced by the April 3 Marketplace Tech source.

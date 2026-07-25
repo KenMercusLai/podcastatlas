@@ -2,8 +2,8 @@
 title: "SpaceX"
 type: entity
 tags: [company, technology, space, hard-tech]
-sources: [129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio]
-last_updated: 2026-07-23
+sources: [tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio]
+last_updated: 2026-07-25
 ---
 
 # SpaceX
@@ -17,6 +17,8 @@ The source also frames SpaceX as an organization and manufacturing model. [[Elon
 [[far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]] adds the capital-market shock version. The episode says SpaceX's IPO and follow-on issuance turned the company from a private hard-tech platform into a major demand on public equity and bond markets. It stresses that investors are buying uncertain future businesses, not only current launch capability, and that index inclusion could create [[IndexFundAutomaticExposure]] for ordinary savers.
 
 [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds the [[XAI|xAI]] acquisition as a bridge between the earlier space-infrastructure thesis and the later IPO-risk frame. The episode says SpaceX's purchase of xAI would put [[Grok]], [[Starlink]], and [[Twitter|X]] under a broader [[ElonMusk]] structure, potentially giving xAI a better-funded home while making a future SpaceX IPO harder to analyze because rocket, satellite, AI, and chatbot-risk claims are bundled together.
+
+[[tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]] adds the reported confidential-filing stage of that IPO story. [[PareshDave]] says SpaceX may need public-market capital for [[Starship]], space data centers, Mars ambitions, and related Musk businesses folded into the same structure. The source treats bundling as a financing advantage and an underwriting problem: [[Starlink]] and launch revenue can support a broader story, but investors would have to evaluate rockets, satellites, [[XAI|xAI]], [[Twitter|X]], and speculative [[SpaceBasedAIInfrastructure]] together.
 
 [[ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0]] uses SpaceX as the benchmark for [[RocketRecoveryRouteChoice]]. The episode contrasts [[Falcon9]] landing legs and [[Starship]] tower catch with [[LongMarch10B]]'s [[SeaNetRocketRecovery]], arguing that different recovery architectures move mass, precision, infrastructure risk, and turnaround work to different parts of the system.
 
@@ -38,6 +40,7 @@ The source also frames SpaceX as an organization and manufacturing model. [[Elon
 - [[Stoke]] and [[AndyLapsa]] — outside founder and competitor-adjacent benchmark view of partial versus full reuse.
 - [[SpaceEconomyInfrastructure]], [[SpaceBasedAIInfrastructure]], and [[SpaceXMafia]] — downstream platform, AI-infrastructure, and alumni-network themes.
 - [[XAI|xAI]], [[Grok]], and [[StrategicAIInfrastructureDependence]] — AI-company acquisition and infrastructure-bargaining layer added by Marketplace Tech.
+- [[PareshDave]], [[AIIPOValuation]], and [[DualUseTechInfrastructureTargeting]] - April 3 Marketplace Tech Bytes context around IPO financing and tech infrastructure exposure.
 - [[NASA]] — government knowledge and procurement context that helped shape SpaceX's path.
 - [[BlakeScholl]], [[BoomSupersonic]], and [[RecursiveExpertRecruiting]] - SpaceX talent-network bridge used by Boom.
 - [[PerfectionismAsAvoidance]], [[ImperfectActionPractice]], and [[FailureDesensitization]] - episode 129's source-scoped use of SpaceX as an iteration analogy.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bytes: Week in Review - SpaceX's IPO, Iran threatens U.S. tech firms and California's new AI executive order](sources/tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Paresh Dave on SpaceX's reported IPO push, Iran-linked threats against U.S. tech infrastructure, Gulf AI investment, and California's AI procurement order.
 - [34 days without internet in Iran](sources/tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128.md) — Marketplace Tech episode with Amir Rashidi on Iran's wartime internet blackout, the National Information Network, domestic-service censorship, Mahsa Alert, and public-safety risk from blocked global connectivity.
 - [Meta and Youtube held liable for their addictive products](sources/tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128.md) — Marketplace Tech episode with Eric Goldman on Meta and YouTube child-safety verdicts, New Mexico's Meta verdict, bellwether trials, Section 230 design workarounds, and First Amendment appeal risks.
 - [Too much AI in the office is causing "brain fry"](sources/tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128.md) — Marketplace Tech episode with Matt Krop of BCG on AI brain fry, cognitive exhaustion from supervising AI tools, morale risk, AI use pacing, and work redesign around repetitive toil rather than high-cognitive oversight.
@@ -616,6 +617,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Gavin Newsom](entities/GavinNewsom.md) — California governor whose AI executive order makes state procurement a privacy, security, bias-review, supply-chain-risk, and watermarking governance tool.
 - [Amir Rashidi](entities/AmirRashidi.md) — Mian Group expert explaining Iran's wartime internet blackout, the National Information Network, and the public-safety limits of domestic-only connectivity.
 - [Mian Group](entities/MianGroup.md) — Digital-rights organization associated with Amir Rashidi in the Marketplace Tech episode on Iran's internet blackout.
 - [National Information Network](entities/NationalInformationNetwork.md) — Iran's domestic network, described as keeping approved local services available while blocking global internet access during the blackout.
@@ -4159,6 +4161,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Dual-Use Tech Infrastructure Targeting](concepts/DualUseTechInfrastructureTargeting.md) — Risk pattern where private cloud, AI, chip, data-center, or platform infrastructure becomes a wartime target because it supports military or intelligence use.
+- [State AI Procurement Guardrails](concepts/StateAIProcurementGuardrails.md) — State-government buying rules for AI vendors, covering security, privacy, bias review, supply-chain risk, and provenance requirements.
 - [Domestic Network Sovereignty](concepts/DomesticNetworkSovereignty.md) — State pattern of preserving approved domestic digital services while cutting or filtering access to the global internet.
 - [Domestic Service Censorship](concepts/DomesticServiceCensorship.md) — Censorship embedded inside local state-approved apps, search, and services rather than only at the foreign-platform boundary.
 - [Internet Blackout Public-Safety Risk](concepts/InternetBlackoutPublicSafetyRisk.md) — Civilian and emergency-service harm caused when internet shutdowns block medical access, alerts, police checks, and coordination.

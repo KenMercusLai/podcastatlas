@@ -2,8 +2,8 @@
 title: "AI Governance And Compliance"
 type: concept
 tags: [ai, compliance, security, governance]
-sources: [live-anthropic-co-founder-on-ai-and-jobs, tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, finding-product-market-fit-after-3-years-of-failed-ideas, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, eric-ries-incorruptible-by-design-wrgromn5peq, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
-last_updated: 2026-07-24
+sources: [tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, finding-product-market-fit-after-3-years-of-failed-ideas, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, eric-ries-incorruptible-by-design-wrgromn5peq, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # AI Governance And Compliance
@@ -44,6 +44,8 @@ AI governance and compliance is the extension of governance, risk, compliance, s
 
 [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] adds the contractor compliance version. Once a model is treated as a [[DefenseAISupplyChainRisk]], governance includes knowing where the model is embedded, whether the system is critical or warfighting-related, which replacement model is acceptable, and whether prompts or integrations must be rewritten.
 
+[[tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]] adds the state-procurement version through [[California]] Governor [[GavinNewsom]]'s AI executive order. Governance here is exercised through buying power: security review, privacy review, bias review, independent assessment of federal supply-chain-risk labels, and watermarking of state-released generative AI output become conditions for AI vendors that want government contracts.
+
 ## Key Claims
 - Compliance programs must increasingly govern not only people, servers, systems, and software, but also agents and AI-related entities.
 - CISOs care about whether internal AI usage is safe, secure, and governed.
@@ -68,6 +70,7 @@ AI governance and compliance is the extension of governance, risk, compliance, s
 - Workplace AI governance includes disclosure, purpose limits, review boundaries, and worker trust when meeting, email, and digital-twin data can be used for evaluation.
 - Democratic media governance includes provenance standards, platform adoption, verification tools, and institutions that can preserve shared reality under AI-generated misinformation pressure.
 - Cyber-capable frontier models raise a public-good governance question: defensive access may need to be broad without turning private control over security capability into leverage.
+- State procurement can function as AI governance when public buyers attach privacy, security, bias, provenance, and supply-chain review obligations to contracts.
 
 ## Connections
 - [[JoshBersin]], [[RecordedMeetingAnalysis]], [[WorkplaceDigitalTwins]], [[AIWorkforceMonitoring]], and [[WorkplaceAITransparency]] - workplace monitoring governance branch added by Marketplace Tech.
@@ -91,3 +94,4 @@ AI governance and compliance is the extension of governance, risk, compliance, s
 - [[DanielNewman]], [[AINativeSaaSThreat]], [[SaaSTrustMoat]], and [[EnterpriseAgentGovernance]] - enterprise-software replacement boundary added by Marketplace Tech.
 - [[MoteBook]], [[Wiz]], [[AISocialNetworks]], [[AgentPermissionBoundaries]], and [[AgentIdentityAndAuthentication]] - agent-social platform security branch added by Marketplace Tech Bytes.
 - [[Anthropic]], [[Claude]], [[USDepartmentOfDefense]], [[DefenseAIProcurement]], [[DefenseAISupplyChainRisk]], and [[FrontierModelUsePolicyConflict]] - defense-access and contractor-compliance governance branch added by Marketplace Tech Bytes.
+- [[StateAIProcurementGuardrails]], [[California]], [[GavinNewsom]], and [[AIContentProvenance]] - state AI procurement and watermarking branch added by Marketplace Tech.
