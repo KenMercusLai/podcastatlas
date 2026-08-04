@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The NFL](sources/the-nfl-1.md) — Acquired episode on the NFL as a league-first media and governance system built from competitive balance, pooled TV rights, the Sports Broadcasting Act, NFL Films, the Super Bowl, Monday Night Football, streaming, betting, international growth, and private-equity pressure.
 - [Rolex](sources/rolex-1.md) — Acquired episode on Rolex from Hans Wilsdorf, Aegler movements, Oyster waterproofing, professional watches, testimony marketing, the quartz crisis, foundation ownership, scarcity discipline, Bucherer, Tudor, vertical integration, and high-volume luxury positioning.
 - [Costco](sources/costco-1.md) — Acquired episode on Costco's warehouse-club model, from Sol Price, FedMart, and Price Club to membership fees, low markups, limited SKUs, inventory velocity, cross-docking, Kirkland Signature, and scale economies shared with members.
 - [番外 15：半拿铁讲《金瓶梅》啦，而且还是绿色的](sources/fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433.md) — 半拿铁 special opening a green-edition story-series retelling of 《金瓶梅》, from Ximen Qing's household and sworn brothers through Wu Song, Wu Dalang, Pan Jinlian, Wang Po, social-history detail, and the novel's non-erotic literary reception.
@@ -660,6 +661,26 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Pete Rozelle](entities/PeteRozelle.md) — NFL commissioner who centralized media rights, cultivated national storytelling, and helped build the Super Bowl and Monday Night Football.
+- [Bert Bell](entities/BertBell.md) — NFL commissioner associated with Any Given Sunday parity, reverse-order draft logic, scheduling, and shared economics.
+- [Lamar Hunt](entities/LamarHunt.md) — AFL founder whose rival-league and media-first strategy forced NFL merger pressure.
+- [Al Davis](entities/AlDavis.md) — AFL commissioner whose aggressive talent war increased merger leverage against the NFL.
+- [American Football League](entities/AmericanFootballLeague.md) — Rival football league that used centralized national TV rights, star signings, and merger pressure to reshape the NFL.
+- [George Halas](entities/GeorgeHalas.md) — Early professional-football builder tied to the formation and survival of what became the NFL.
+- [Jim Thorpe](entities/JimThorpe.md) — First president of the early professional football league that became the NFL, lending legitimacy to the fragile sport.
+- [Paul Brown](entities/PaulBrown.md) — Football coach and operations professionalizer tied to film study, playbooks, and systematic preparation.
+- [Roone Arledge](entities/RooneArledge.md) — ABC sports executive who helped turn football into high-production prime-time television through Monday Night Football.
+- [Joe Namath](entities/JoeNamath.md) — AFL/NFL celebrity quarterback whose Super Bowl III upset helped validate the merger.
+- [NFL Films](entities/NFLFilms.md) — League storytelling institution that turned football footage into mythology, fan attachment, and reusable media.
+- [Ed Sabol](entities/EdSabol.md) — NFL Films founder figure whose 1962 championship film helped create the league's cinematic storytelling layer.
+- [Monday Night Football](entities/MondayNightFootball.md) — Prime-time NFL television product that created a new scarce weekly media window.
+- [Super Bowl](entities/SuperBowl.md) — NFL championship event built into a media spectacle and merger-legitimacy vehicle.
+- [ESPN](entities/ESPN.md) — Sports media company tied to the NFL Network and fantasy-app transaction described in the NFL source.
+- [YouTube TV](entities/YouTubeTV.md) — Streaming television service carrying NFL Sunday Ticket in the NFL source.
+- [NBC](entities/NBC.md) — Television network whose AFL rights deal helped strengthen football's national media economics.
+- [Taylor Swift](entities/TaylorSwift.md) — Music celebrity used by the NFL source as a case in broader female and younger fandom growth.
+- [Travis Kelce](entities/TravisKelce.md) — NFL player-media node in the source's Taylor Swift and fandom-expansion discussion.
+- [Colin Kaepernick](entities/ColinKaepernick.md) — NFL quarterback whose anthem protest became a league narrative-control and trust-risk case.
 - [Rolex](entities/Rolex.md) — Foundation-owned Swiss watch company analyzed as a high-volume luxury operator built from engineering proof, brand continuity, scarcity, and channel control.
 - [Hans Wilsdorf](entities/HansWilsdorf.md) — Rolex founder who commercialized wristwatches through cross-border sourcing, certification, waterproofing, branding, and foundation ownership.
 - [Aegler](entities/Aegler.md) — Swiss movement supplier whose small accurate movements became Rolex's early technical base and later vertical-integration target.
@@ -1003,7 +1024,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jackie Robinson](entities/JackieRobinson.md) — Retired baseball player whose testimony supported Flood's challenge to the reserve clause.
 - [Flood v. Kuhn](entities/FloodVKuhn.md) — Supreme Court case preserving baseball's antitrust exception while helping shift public opinion toward players.
 - [Business History](entities/BusinessHistoryPodcast.md) — Jacob Goldstein and Robert Smith podcast whose Curt Flood story was carried by Planet Money.
-- [National Football League](entities/NationalFootballLeague.md) — Comparison league for free agency limits, salary caps, and sports-labor revenue sharing.
+- [National Football League](entities/NationalFootballLeague.md) — U.S. football league analyzed by Acquired as a league-first media system and used elsewhere as a comparison for salary caps, free agency, and sports-rights inflation.
 - [Los Angeles Dodgers](entities/LosAngelesDodgers.md) — High-payroll MLB team used in the episode's competitive-balance and salary-cap debate.
 - [Laura McGrath](entities/LauraMcGrath.md) — Temple University professor explaining bestseller history, New York Times list opacity, and ranking-game incentives.
 - [Temple University](entities/TempleUniversity.md) — Laura McGrath's academic affiliation in the Planet Money bestseller-list episode.
@@ -4180,7 +4201,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cotton Clara](entities/CottonClara.md) — Craft-kit company working through maker positioning, repeat customers, community events, and gifting/wellness language.
 - [Vashon Island Coffee Dust](entities/VashonIslandCoffeeDust.md) — Spice-blend CPG brand using gifting, packaging, counter ritual, and use-case expansion to create repeat buyers.
 - [Christy Clement](entities/ChristyClement.md) — Vashon Island Coffee Dust founder asking how gift recipients become loyal repeat buyers.
-- [Acquired](entities/Acquired.md) — Business-history podcast/source context for the Disney, Formula One, Vanguard, and Costco episodes.
+- [Acquired](entities/Acquired.md) — Business-history podcast/source context for the Disney, Formula One, Vanguard, Costco, Rolex, and NFL episodes.
 - [Wellington Management](entities/WellingtonManagement.md) — Asset-management company where Jack Bogle built his early career before the fund-board conflict that produced Vanguard.
 - [Fidelity](entities/Fidelity.md) — Asset-management and brokerage competitor used in the Vanguard episode as both go-go-era pressure and later low-fee platform threat.
 - [BlackRock](entities/BlackRock.md) — ETF and asset-management competitor whose iShares platform and Salim Ramji connection frame Vanguard's modern strategic challenge.
@@ -4559,6 +4580,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [League First Operating Model](concepts/LeagueFirstOperatingModel.md) — NFL-style owner bargain where centralized rules, pooled rights, shared revenue, and parity grow the total league pie.
+- [Sports Broadcasting Act](concepts/SportsBroadcastingAct.md) — Legal and political mechanism allowing pooled national sports TV rights despite antitrust pressure.
+- [Live Sports Streaming Transition](concepts/LiveSportsStreamingTransition.md) — Shift from broadcast and cable sports rights toward streaming platforms that still need scarce live events.
+- [Sports Betting Engagement](concepts/SportsBettingEngagement.md) — Attention and monetization effect where betting gives fans more reasons to follow games, players, and broadcasts.
+- [Football Player Safety Trust Risk](concepts/FootballPlayerSafetyTrustRisk.md) — NFL legitimacy risk from head trauma, player welfare, youth participation, and trust in league safety posture.
+- [Private Equity In Sports Ownership](concepts/PrivateEquityInSportsOwnership.md) — Sports-team ownership transition where private equity enters as limited silent capital under league controls.
 - [Mechanical Watch Repositioning](concepts/MechanicalWatchRepositioning.md) — Shift from mechanical watches as timekeeping tools to mechanical watches as symbols of achievement, taste, engineering, and identity.
 - [Professional Tool Branding](concepts/ProfessionalToolBranding.md) — Strategy of turning demanding real-world use cases into durable consumer meaning and luxury-product credibility.
 - [Luxury Scarcity Discipline](concepts/LuxuryScarcityDiscipline.md) — Brand discipline that protects long-term luxury value by avoiding overproduction, discounting, and unstable access signals.

@@ -2007,6 +2007,10 @@
     "title": "芥川龙之介 / Ryunosuke Akutagawa",
     "url": "/wiki/entities/akutagawaryunosuke/"
   },
+  "AlDavis": {
+    "title": "Al Davis",
+    "url": "/wiki/entities/aldavis/"
+  },
   "Alabama": {
     "title": "Alabama",
     "url": "/wiki/entities/alabama/"
@@ -2354,6 +2358,10 @@
   "AmericanFederationOfLabor": {
     "title": "American Federation of Labor",
     "url": "/wiki/entities/americanfederationoflabor/"
+  },
+  "AmericanFootballLeague": {
+    "title": "American Football League",
+    "url": "/wiki/entities/americanfootballleague/"
   },
   "AmericanGiantsMuseum": {
     "title": "American Giants Museum",
@@ -3698,6 +3706,10 @@
   "BernieMarcus": {
     "title": "Bernie Marcus",
     "url": "/wiki/entities/berniemarcus/"
+  },
+  "BertBell": {
+    "title": "Bert Bell",
+    "url": "/wiki/entities/bertbell/"
   },
   "Bertelsmann": {
     "title": "Bertelsmann",
@@ -5830,6 +5842,10 @@
   "ColemanStrumpf": {
     "title": "Coleman Strumpf",
     "url": "/wiki/entities/colemanstrumpf/"
+  },
+  "ColinKaepernick": {
+    "title": "Colin Kaepernick",
+    "url": "/wiki/entities/colinkaepernick/"
   },
   "ColinMcCarrick": {
     "title": "Colin McCarrick",
@@ -8043,6 +8059,10 @@
     "title": "EOS Worldwide",
     "url": "/wiki/entities/eosworldwide/"
   },
+  "ESPN": {
+    "title": "ESPN",
+    "url": "/wiki/entities/espn/"
+  },
   "EVE": {
     "title": "EVE",
     "url": "/wiki/entities/eve/"
@@ -8158,6 +8178,10 @@
   "EdMiliband": {
     "title": "Ed Miliband",
     "url": "/wiki/entities/edmiliband/"
+  },
+  "EdSabol": {
+    "title": "Ed Sabol",
+    "url": "/wiki/entities/edsabol/"
   },
   "EddieEspinosa": {
     "title": "Eddie Espinosa",
@@ -9583,6 +9607,10 @@
     "title": "Football Manager Myth Deflation",
     "url": "/wiki/concepts/footballmanagermythdeflation/"
   },
+  "FootballPlayerSafetyTrustRisk": {
+    "title": "Football Player Safety Trust Risk",
+    "url": "/wiki/concepts/footballplayersafetytrustrisk/"
+  },
   "FootballTransferReceivablesFinance": {
     "title": "Football Transfer Receivables Finance",
     "url": "/wiki/concepts/footballtransferreceivablesfinance/"
@@ -10474,6 +10502,10 @@
   "GeorgeEJohnson": {
     "title": "George E. Johnson",
     "url": "/wiki/entities/georgeejohnson/"
+  },
+  "GeorgeHalas": {
+    "title": "George Halas",
+    "url": "/wiki/entities/georgehalas/"
   },
   "GeorgeOrwell": {
     "title": "George Orwell / 乔治·奥威尔",
@@ -13375,6 +13407,10 @@
     "title": "Jim Sinegal",
     "url": "/wiki/entities/jimsinegal/"
   },
+  "JimThorpe": {
+    "title": "Jim Thorpe",
+    "url": "/wiki/entities/jimthorpe/"
+  },
   "JinMerchantGovernance": {
     "title": "Jin Merchant Governance",
     "url": "/wiki/concepts/jinmerchantgovernance/"
@@ -13454,6 +13490,10 @@
   "JoeLonsdale": {
     "title": "Joe Lonsdale",
     "url": "/wiki/entities/joelonsdale/"
+  },
+  "JoeNamath": {
+    "title": "Joe Namath",
+    "url": "/wiki/entities/joenamath/"
   },
   "JoeRogan": {
     "title": "Joe Rogan",
@@ -14327,6 +14367,10 @@
     "title": "Lake Maracaibo",
     "url": "/wiki/entities/lakemaracaibo/"
   },
+  "LamarHunt": {
+    "title": "Lamar Hunt",
+    "url": "/wiki/entities/lamarhunt/"
+  },
   "LanShili": {
     "title": "Lan Shili / 兰世立",
     "url": "/wiki/entities/lanshili/"
@@ -14534,6 +14578,10 @@
   "LeSports": {
     "title": "乐视体育 / LeSports",
     "url": "/wiki/entities/lesports/"
+  },
+  "LeagueFirstOperatingModel": {
+    "title": "League First Operating Model",
+    "url": "/wiki/concepts/leaguefirstoperatingmodel/"
   },
   "LeagueStakeholderAlignment": {
     "title": "League Stakeholder Alignment",
@@ -15110,6 +15158,10 @@
   "LiveHumanFeeling": {
     "title": "活人感 / Live Human Feeling",
     "url": "/wiki/concepts/livehumanfeeling/"
+  },
+  "LiveSportsStreamingTransition": {
+    "title": "Live Sports Streaming Transition",
+    "url": "/wiki/concepts/livesportsstreamingtransition/"
   },
   "LiverpoolFC": {
     "title": "Liverpool FC",
@@ -16995,6 +17047,10 @@
     "title": "monday.com",
     "url": "/wiki/entities/mondaycom/"
   },
+  "MondayNightFootball": {
+    "title": "Monday Night Football",
+    "url": "/wiki/entities/mondaynightfootball/"
+  },
   "MonetaryPolicyLag": {
     "title": "Monetary Policy Lag",
     "url": "/wiki/concepts/monetarypolicylag/"
@@ -17270,6 +17326,14 @@
   "NATOAllianceCredibility": {
     "title": "NATO Alliance Credibility",
     "url": "/wiki/concepts/natoalliancecredibility/"
+  },
+  "NBC": {
+    "title": "NBC",
+    "url": "/wiki/entities/nbc/"
+  },
+  "NFLFilms": {
+    "title": "NFL Films",
+    "url": "/wiki/entities/nflfilms/"
   },
   "NHLPlayersAssociation": {
     "title": "NHL Players' Association / NHLPA",
@@ -18807,6 +18871,10 @@
     "title": "Patroclus",
     "url": "/wiki/entities/patroclus/"
   },
+  "PaulBrown": {
+    "title": "Paul Brown",
+    "url": "/wiki/entities/paulbrown/"
+  },
   "PaulBuchheit": {
     "title": "Paul Buchheit",
     "url": "/wiki/entities/paulbuchheit/"
@@ -19066,6 +19134,10 @@
   "PeteKoomen": {
     "title": "Pete Koomen",
     "url": "/wiki/entities/petekoomen/"
+  },
+  "PeteRozelle": {
+    "title": "Pete Rozelle",
+    "url": "/wiki/entities/peterozelle/"
   },
   "PeteWalker": {
     "title": "Pete Walker",
@@ -19878,6 +19950,10 @@
   "PrivateEquityAITransformation": {
     "title": "Private Equity AI Transformation",
     "url": "/wiki/concepts/privateequityaitransformation/"
+  },
+  "PrivateEquityInSportsOwnership": {
+    "title": "Private Equity In Sports Ownership",
+    "url": "/wiki/concepts/privateequityinsportsownership/"
   },
   "PrivateImmigrationDetention": {
     "title": "Private Immigration Detention",
@@ -21450,6 +21526,10 @@
   "RoofscapeAttention": {
     "title": "Roofscape Attention",
     "url": "/wiki/concepts/roofscapeattention/"
+  },
+  "RooneArledge": {
+    "title": "Roone Arledge",
+    "url": "/wiki/entities/roonearledge/"
   },
   "Rorschach": {
     "title": "罗夏 / Rorschach",
@@ -23147,9 +23227,17 @@
     "title": "Sports As Historical Reading Frame",
     "url": "/wiki/concepts/sportsashistoricalreadingframe/"
   },
+  "SportsBettingEngagement": {
+    "title": "Sports Betting Engagement",
+    "url": "/wiki/concepts/sportsbettingengagement/"
+  },
   "SportsBroadcastPublicAccess": {
     "title": "Sports Broadcast Public Access",
     "url": "/wiki/concepts/sportsbroadcastpublicaccess/"
+  },
+  "SportsBroadcastingAct": {
+    "title": "Sports Broadcasting Act",
+    "url": "/wiki/concepts/sportsbroadcastingact/"
   },
   "SportsCollectiveBargaining": {
     "title": "Sports Collective Bargaining",
@@ -23911,6 +23999,10 @@
     "title": "索隐式阅读 / Suo Yin Reading",
     "url": "/wiki/concepts/suoyinreading/"
   },
+  "SuperBowl": {
+    "title": "Super Bowl",
+    "url": "/wiki/entities/superbowl/"
+  },
   "SuperDry": {
     "title": "Super Dry",
     "url": "/wiki/entities/superdry/"
@@ -24302,6 +24394,10 @@
   "TaxiDriver": {
     "title": "Taxi Driver",
     "url": "/wiki/entities/taxidriver/"
+  },
+  "TaylorSwift": {
+    "title": "Taylor Swift",
+    "url": "/wiki/entities/taylorswift/"
   },
   "TeaHorseRoad": {
     "title": "Tea Horse Road / 茶马古道",
@@ -25170,6 +25266,10 @@
   "TravisBickle": {
     "title": "Travis Bickle",
     "url": "/wiki/entities/travisbickle/"
+  },
+  "TravisKelce": {
+    "title": "Travis Kelce",
+    "url": "/wiki/entities/traviskelce/"
   },
   "TreasonByTheBook": {
     "title": "《雍正王朝之大义觉迷》 / Treason by the Book",
@@ -27379,6 +27479,10 @@
     "title": "YouTube Media Dominance",
     "url": "/wiki/concepts/youtubemediadominance/"
   },
+  "YouTubeTV": {
+    "title": "YouTube TV",
+    "url": "/wiki/entities/youtubetv/"
+  },
   "YouWenTiYa": {
     "title": "有问题呀",
     "url": "/wiki/entities/youwentiya/"
@@ -29330,6 +29434,10 @@
   "the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7": {
     "title": "The Mourning Show: The Politics of Khamenei's Funeral",
     "url": "/wiki/sources/the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7/"
+  },
+  "the-nfl-1": {
+    "title": "The NFL",
+    "url": "/wiki/sources/the-nfl-1/"
   },
   "the-secret-meeting-that-launched-opec": {
     "title": "The secret meeting that launched OPEC",

@@ -2,7 +2,7 @@
 title: "Fat League Economics"
 type: concept
 tags: [sports, finance, media, strategy]
-sources: [diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]
+sources: [diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427, the-nfl-1]
 last_updated: 2026-07-25
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-25
 Fat league economics is [[formula-1-1]]'s label for a league structure where the central league company keeps meaningful economics and enterprise value instead of passing nearly all revenue through to teams. The episode applies this to [[FormulaOneGroup]] under [[LibertyMedia]].
 
 The source contrasts F1 with many U.S. leagues that mostly distribute revenue to teams. In F1, the league-level company still has value because it owns or controls commercial rights, sells media and promotion packages, coordinates sponsors and hospitality, and keeps enough operating income to trade as a valuable public-market asset.
+
+[[the-nfl-1]] sharpens the U.S. league contrast. The [[NationalFootballLeague|NFL]] has powerful centralized rights, rules, storytelling, and commissioner authority, but the episode's valuation story mostly accrues to franchises such as the Cowboys rather than to a standalone public league company. The NFL is therefore better captured by [[LeagueFirstOperatingModel]] than by pure fat-league economics.
 
 [[shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969]] adds a non-corporate governing-body contrast. [[FIFA]] is not a public league company like [[FormulaOneGroup]], but the episode still shows a central sports institution retaining and allocating meaningful economics through [[FIFAWorldCup]] rights, ticketing, sponsorship, hospitality, and member-association distributions.
 
@@ -31,7 +33,8 @@ The source contrasts F1 with many U.S. leagues that mostly distribute revenue to
 - Elite football can be investable through valuation, scarcity, rights, and minority-stake transactions even when ordinary club profit margins remain weak.
 - Fatter league economics can strengthen a league and still trigger labor conflict if player compensation is fixed while central revenue grows.
 - Episode 22 adds that a sport can have rich aggregate attention while many clubs still behave like prestige assets with soft budgets rather than cash-generating firms.
+- The NFL case shows that a league can be centralized and still route most enterprise value into teams instead of a separate league-level equity vehicle.
 
 ## Connections
-- [[FormulaOneGroup]], [[FormulaOne]], [[LibertyMedia]], [[FIA]], [[FIFA]], [[FIFAWorldCup]], [[JumillaCF]], [[PremierLeague]], [[UEFA]], [[RelevantSports]], [[WNBA]], and [[WNBAPlayersAssociation]] - source cases.
-- [[SportsMediaRights]], [[RacePromotionFees]], [[CostCapEconomics]], [[WorldCupExpansion]], [[GlobalSportsGovernance]], [[LeagueStakeholderAlignment]], [[FootballClubAsCommunityAsset]], [[SoftBudgetFootballClubs]], [[AmericanSportsCapitalInEuropeanFootball]], [[FootballClubFinancialEngineering]], [[DeFactoSuperLeagueLogic]], and [[SportsLaborRevenueSharing]] - economics that support or limit the concept.
+- [[FormulaOneGroup]], [[FormulaOne]], [[LibertyMedia]], [[FIA]], [[NationalFootballLeague|NFL]], [[FIFA]], [[FIFAWorldCup]], [[JumillaCF]], [[PremierLeague]], [[UEFA]], [[RelevantSports]], [[WNBA]], and [[WNBAPlayersAssociation]] - source cases.
+- [[SportsMediaRights]], [[RacePromotionFees]], [[CostCapEconomics]], [[WorldCupExpansion]], [[GlobalSportsGovernance]], [[LeagueStakeholderAlignment]], [[LeagueFirstOperatingModel]], [[PrivateEquityInSportsOwnership]], [[FootballClubAsCommunityAsset]], [[SoftBudgetFootballClubs]], [[AmericanSportsCapitalInEuropeanFootball]], [[FootballClubFinancialEngineering]], [[DeFactoSuperLeagueLogic]], and [[SportsLaborRevenueSharing]] - economics that support or limit the concept.

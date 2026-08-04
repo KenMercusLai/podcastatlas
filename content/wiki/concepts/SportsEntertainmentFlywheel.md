@@ -2,13 +2,15 @@
 title: "Sports Entertainment Flywheel"
 type: concept
 tags: [sports, media, entertainment, strategy]
-sources: [planet-money-vs-the-nbas-tanking-problem, can-world-cup-mania-grow-mls-in-the-us, diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]
+sources: [planet-money-vs-the-nbas-tanking-problem, can-world-cup-mania-grow-mls-in-the-us, diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427, the-nfl-1]
 last_updated: 2026-07-25
 ---
 
 # Sports Entertainment Flywheel
 
 A sports entertainment flywheel is a system where live competition, teams, athletes, venues, media, sponsors, and fan identity reinforce one another. In [[formula-1-1]], [[FormulaOne]] becomes more valuable when [[FormulaOneGroup]], teams, races, media partners, and sponsors stop acting like isolated businesses and start compounding demand together.
+
+[[the-nfl-1]] adds the NFL version. The [[NationalFootballLeague|NFL]] compounds competitive balance, pooled media rights, [[NFLFilms]] mythology, [[SuperBowl]] spectacle, [[MondayNightFootball]] appointment viewing, fantasy, betting, streaming distribution, and team scarcity into a national attention machine.
 
 The concept is adjacent to [[EntertainmentIPFlywheel]]. Disney compounds owned characters and stories across formats; F1 compounds recurring live competition, official status, scarcity, engineering, team identities, and human drama across broadcasts, races, streaming, sponsorship, hospitality, and merchandise.
 
@@ -41,8 +43,9 @@ The 2026 [[FIFAWorldCup]] source adds a tournament version of the flywheel. [[FI
 - A growing flywheel can still become unstable if player compensation stays fixed while league media revenue and audience attention expand.
 - A league's entertainment flywheel also depends on [[SportsDraftIncentiveDesign]] because fans need to believe teams are trying to win now, not only optimizing for future draft position.
 - The Soccernomics source adds that the flywheel's value can be social and psychological as well as commercial, especially when fandom creates durable rhythm and belonging.
+- The NFL source adds that centralized revenue sharing can strengthen the flywheel when it increases the number of teams and markets that remain narratively alive.
 
 ## Connections
-- [[FormulaOne]], [[FormulaOneGroup]], [[LibertyMedia]], [[DriveToSurvive]], [[Netflix]], [[FIFA]], [[FIFAWorldCup]], [[MajorLeagueSoccer]], [[SeattleSounders]], [[NewEnglandRevolution]], [[ChicagoFire]], [[JumillaCF]], [[Adidas]], [[Hisense]], [[Lenovo]], [[PremierLeague]], [[ManchesterUnited]], [[ArsenalFC]], [[LiverpoolFC]], [[ChelseaFC]], and [[NationalBasketballAssociation]] - source cases.
-- [[SportsMediaRights]], [[LeagueStakeholderAlignment]], [[WorldCupExpansion]], [[MajorEventAttentionConversion]], [[SportsFandomNetworkEffects]], [[SportsMegaEventWelfareAccounting]], [[SportsRightsGrowthEngine]], [[GlobalSportsSponsorship]], [[OfflineBrandActivation]], [[SportsLifestyleConsumption]], [[CostCapEconomics]], [[CorporateHospitalityPlatform]], [[FootballClubAsCommunityAsset]], [[AmericanSportsCapitalInEuropeanFootball]], [[FootballCommercializationFanConflict]], [[SportsDraftIncentiveDesign]], [[SportsTanking]], [[SportsCompetitiveBalance]], and [[EntertainmentIPFlywheel]] - related concepts.
+- [[FormulaOne]], [[FormulaOneGroup]], [[LibertyMedia]], [[DriveToSurvive]], [[Netflix]], [[NationalFootballLeague|NFL]], [[NFLFilms]], [[SuperBowl]], [[MondayNightFootball]], [[TaylorSwift]], [[TravisKelce]], [[FIFA]], [[FIFAWorldCup]], [[MajorLeagueSoccer]], [[SeattleSounders]], [[NewEnglandRevolution]], [[ChicagoFire]], [[JumillaCF]], [[Adidas]], [[Hisense]], [[Lenovo]], [[PremierLeague]], [[ManchesterUnited]], [[ArsenalFC]], [[LiverpoolFC]], [[ChelseaFC]], and [[NationalBasketballAssociation]] - source cases.
+- [[SportsMediaRights]], [[LeagueStakeholderAlignment]], [[LeagueFirstOperatingModel]], [[LiveSportsStreamingTransition]], [[SportsBettingEngagement]], [[WorldCupExpansion]], [[MajorEventAttentionConversion]], [[SportsFandomNetworkEffects]], [[SportsMegaEventWelfareAccounting]], [[SportsRightsGrowthEngine]], [[GlobalSportsSponsorship]], [[OfflineBrandActivation]], [[SportsLifestyleConsumption]], [[CostCapEconomics]], [[CorporateHospitalityPlatform]], [[FootballClubAsCommunityAsset]], [[AmericanSportsCapitalInEuropeanFootball]], [[FootballCommercializationFanConflict]], [[SportsDraftIncentiveDesign]], [[SportsTanking]], [[SportsCompetitiveBalance]], and [[EntertainmentIPFlywheel]] - related concepts.
 - [[WNBA]], [[WNBAPlayersAssociation]], [[WomensSportsBusinessGrowth]], and [[SportsLaborRevenueSharing]] - women's basketball labor branch added by the WNBA negotiation source.

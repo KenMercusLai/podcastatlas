@@ -2,8 +2,8 @@
 title: "YouTube"
 type: entity
 tags: [company, video, platform, distribution]
-sources: [tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
-last_updated: 2026-07-25
+sources: [tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, the-nfl-1]
+last_updated: 2026-08-04
 ---
 
 # YouTube
@@ -19,6 +19,8 @@ last_updated: 2026-07-25
 [[tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]] returns to the Meta and YouTube verdict as context for [[AaronMackey]]'s warning about regulating social-media harms through broad bans or individual jury trials. The source keeps YouTube in the [[SocialMediaProductLiability]] branch while adding a privacy-legislation alternative through [[ComprehensiveConsumerDataPrivacy]].
 
 [[tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128]] makes YouTube the main case in [[YouTubeMediaDominance]]. The episode cites a [[MoffettNathanson]] report describing YouTube as the world's largest media company, with more than $62 billion in prior-year revenue, and [[JewelBurkeSolomon]] explains the position through YouTube TV, creator content, Shorts, ads, subscriptions, [[Alphabet]]'s broader ecosystem, and AI-assisted creator tools.
+
+[[the-nfl-1]] adds YouTube's sports-rights role. The episode says a Sao Paulo NFL game streamed globally on YouTube for free, while [[YouTubeTV|YouTube TV]] carried NFL Sunday Ticket, making YouTube part of the NFL's [[LiveSportsStreamingTransition]] rather than only a creator-video platform.
 
 YouTube appears in [[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]] as an overseas distribution surface for Chinese short dramas. [[WangXiaoshu]] says his team has published more than 5000 short dramas on YouTube across many languages, using the platform as part of an international distribution workflow.
 
@@ -38,6 +40,7 @@ The episode's forward-looking claim is that pure overseas distribution may becom
 - [[TheSocialRadars]], [[JessicaLivingston]], and [[CarolynLevy]] — podcast and hosts planning more video clips.
 - [[VideoPodcastAffordance]] — full-episode video context added by the Season Five update.
 - [[MoffettNathanson]], [[YouTubeMediaDominance]], [[Alphabet]], and [[AIAdvertisingTargeting]] — Marketplace Tech report frame around revenue, ecosystem leverage, and targeting.
+- [[NationalFootballLeague|NFL]], [[YouTubeTV|YouTube TV]], [[SportsMediaRights]], and [[LiveSportsStreamingTransition]] - sports-rights branch added by Acquired.
 - [[AIShortDrama]] — content category being distributed.
 - [[AIVideoProductionWorkflow]] — workflow and localization services that may replace pure distribution value.
 - [[VerticalMediaDistribution]] — broader media-distribution frame already used elsewhere in the wiki.
