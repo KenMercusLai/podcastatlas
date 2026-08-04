@@ -11,6 +11,10 @@
     "title": "03.莱博维茨的赞歌：要有光，哪怕废土之上",
     "url": "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
   },
+  "04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843": {
+    "title": "04.切尔诺贝利的午夜： “我要进监狱了。”",
+    "url": "/wiki/sources/04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843/"
+  },
   "06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044": {
     "title": "06.搜神记： 二十四孝这口锅，干宝不背",
     "url": "/wiki/sources/06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044/"
@@ -2426,6 +2430,10 @@
   "Anansi": {
     "title": "Anansi",
     "url": "/wiki/entities/anansi/"
+  },
+  "AnatolyDyatlov": {
+    "title": "Anatoly Dyatlov / 加特洛夫",
+    "url": "/wiki/entities/anatolydyatlov/"
   },
   "Anaya": {
     "title": "Anaya / 阿那亚",
@@ -5187,6 +5195,10 @@
     "title": "Chenwei Politics / 谶纬政治",
     "url": "/wiki/concepts/chenweipolitics/"
   },
+  "ChernobylNuclearPowerPlant": {
+    "title": "Chernobyl Nuclear Power Plant",
+    "url": "/wiki/entities/chernobylnuclearpowerplant/"
+  },
   "CheshireCat": {
     "title": "Cheshire Cat / 柴郡猫",
     "url": "/wiki/entities/cheshirecat/"
@@ -7602,6 +7614,10 @@
   "DisasterAestheticization": {
     "title": "Disaster Aestheticization",
     "url": "/wiki/concepts/disasteraestheticization/"
+  },
+  "DisasterCleanupSacrificeAndFutility": {
+    "title": "Disaster Cleanup Sacrifice And Futility",
+    "url": "/wiki/concepts/disastercleanupsacrificeandfutility/"
   },
   "DisasterReliefMismatch": {
     "title": "Disaster Relief Mismatch",
@@ -12198,6 +12214,10 @@
   "HumanConnectionUnderAI": {
     "title": "Human Connection Under AI",
     "url": "/wiki/concepts/humanconnectionunderai/"
+  },
+  "HumanDependentSafetySystem": {
+    "title": "Human-Dependent Safety System",
+    "url": "/wiki/concepts/humandependentsafetysystem/"
   },
   "HumanFlourishingProfit": {
     "title": "Human Flourishing Profit",
@@ -16851,6 +16871,10 @@
     "title": "Midlife Three Accounts",
     "url": "/wiki/concepts/midlifethreeaccounts/"
   },
+  "MidnightInChernobyl": {
+    "title": "《切尔诺贝利的午夜》 / Midnight in Chernobyl",
+    "url": "/wiki/entities/midnightinchernobyl/"
+  },
   "Migu": {
     "title": "咪咕 / Migu",
     "url": "/wiki/entities/migu/"
@@ -18066,6 +18090,10 @@
   "NovoNordisk": {
     "title": "Novo Nordisk",
     "url": "/wiki/entities/novonordisk/"
+  },
+  "NuclearSafetyPropaganda": {
+    "title": "Nuclear Safety Propaganda",
+    "url": "/wiki/concepts/nuclearsafetypropaganda/"
   },
   "NuclearWeaponsModeling": {
     "title": "Nuclear Weapons Modeling",
@@ -19855,6 +19883,10 @@
     "title": "Post-Brexit Strategic Identity",
     "url": "/wiki/concepts/postbrexitstrategicidentity/"
   },
+  "PostDisasterTruthAndResponsibility": {
+    "title": "Post-Disaster Truth And Responsibility",
+    "url": "/wiki/concepts/postdisastertruthandresponsibility/"
+  },
   "PostHarmFoodRegulation": {
     "title": "Post-Harm Food Regulation",
     "url": "/wiki/concepts/postharmfoodregulation/"
@@ -20078,6 +20110,10 @@
   "PrinciplesOfPhilosophy": {
     "title": "Principles of Philosophy / 《哲学原理》",
     "url": "/wiki/entities/principlesofphilosophy/"
+  },
+  "Pripyat": {
+    "title": "Pripyat",
+    "url": "/wiki/entities/pripyat/"
   },
   "PrivacyUnderPublicGaze": {
     "title": "Privacy Under Public Gaze / 公共凝视下的隐私",
@@ -24623,6 +24659,10 @@
     "title": "Technocratic Domination Satire",
     "url": "/wiki/concepts/technocraticdominationsatire/"
   },
+  "TechnologicalDisasterAsInstitutionalFailure": {
+    "title": "Technological Disaster As Institutional Failure",
+    "url": "/wiki/concepts/technologicaldisasterasinstitutionalfailure/"
+  },
   "TechnologyInstallationCycle": {
     "title": "Technology Installation Cycle",
     "url": "/wiki/concepts/technologyinstallationcycle/"
@@ -25066,6 +25106,10 @@
   "ThreeDPrintedProsthetics": {
     "title": "3D-Printed Prosthetics",
     "url": "/wiki/concepts/threedprintedprosthetics/"
+  },
+  "ThreeMileIslandAccident": {
+    "title": "Three Mile Island Accident",
+    "url": "/wiki/entities/threemileislandaccident/"
   },
   "ThreeSidedMarketplaceValidation": {
     "title": "Three-Sided Marketplace Validation",
@@ -26027,6 +26071,10 @@
     "title": "Vacheron Constantin",
     "url": "/wiki/entities/vacheronconstantin/"
   },
+  "ValeryLegasov": {
+    "title": "Valery Legasov / 列加索夫",
+    "url": "/wiki/entities/valerylegasov/"
+  },
   "Valhalla": {
     "title": "Valhalla / 瓦尔哈拉",
     "url": "/wiki/entities/valhalla/"
@@ -26207,6 +26255,10 @@
     "title": "Vikrant Lal",
     "url": "/wiki/entities/vikrantlal/"
   },
+  "ViktorBryukhanov": {
+    "title": "Viktor Bryukhanov / 布留哈诺夫",
+    "url": "/wiki/entities/viktorbryukhanov/"
+  },
   "VillaDiodati": {
     "title": "Villa Diodati / 迪奥达蒂别墅",
     "url": "/wiki/entities/villadiodati/"
@@ -26274,6 +26326,10 @@
   "VoiceInteraction": {
     "title": "Voice Interaction",
     "url": "/wiki/concepts/voiceinteraction/"
+  },
+  "VoicesFromChernobyl": {
+    "title": "《切尔诺贝利的悲鸣》 / Voices from Chernobyl",
+    "url": "/wiki/entities/voicesfromchernobyl/"
   },
   "VolodymyrZelensky": {
     "title": "Volodymyr Zelensky",

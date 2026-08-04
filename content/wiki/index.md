@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [04.切尔诺贝利的午夜： “我要进监狱了。”](sources/04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843.md) — 蜜獾吃书 episode on 《切尔诺贝利的午夜》, Chernobyl, Pripyat, reactor design, safety propaganda, cleanup sacrifice, and the dispute over operator error, design flaws, and Soviet institutional responsibility.
 - [Ferrari](sources/ferrari-1.md) — Acquired episode on Ferrari as a luxury-motorsport business, from Enzo Ferrari and Scuderia Ferrari to Fiat/FCA ownership, Montezemolo's turnaround, scarcity, collector economics, and the EV challenge.
 - [The NFL](sources/the-nfl-1.md) — Acquired episode on the NFL as a league-first media and governance system built from competitive balance, pooled TV rights, the Sports Broadcasting Act, NFL Films, the Super Bowl, Monday Night Football, streaming, betting, international growth, and private-equity pressure.
 - [Rolex](sources/rolex-1.md) — Acquired episode on Rolex from Hans Wilsdorf, Aegler movements, Oyster waterproofing, professional watches, testimony marketing, the quartz crisis, foundation ownership, scarcity discipline, Bucherer, Tudor, vertical integration, and high-volume luxury positioning.
@@ -662,6 +663,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《切尔诺贝利的午夜》 / Midnight in Chernobyl](entities/MidnightInChernobyl.md) — Nonfiction book read by 蜜獾吃书 as a restrained technical and institutional reconstruction of the Chernobyl disaster.
+- [《切尔诺贝利的悲鸣》 / Voices from Chernobyl](entities/VoicesFromChernobyl.md) — Testimonial Chernobyl work used as the comparison point for Midnight in Chernobyl.
+- [Chernobyl Nuclear Power Plant](entities/ChernobylNuclearPowerPlant.md) — Soviet nuclear plant whose fourth-reactor disaster anchors the new technological-disaster branch.
+- [Pripyat](entities/Pripyat.md) — Planned nuclear-service city used by the source to contrast visible socialist modernity with hidden infrastructure risk.
+- [Viktor Bryukhanov / 布留哈诺夫](entities/ViktorBryukhanov.md) — Chernobyl plant director whose responsibility is read through managerial duty, Soviet targets, and post-disaster blame.
+- [Anatoly Dyatlov / 加特洛夫](entities/AnatolyDyatlov.md) — Deputy chief engineer and control-room authority used to hold operator responsibility and design-defect arguments together.
+- [Valery Legasov / 列加索夫](entities/ValeryLegasov.md) — Scientist whose Chernobyl reporting and suicide extend the wiki's political truth-telling branch.
+- [Three Mile Island Accident](entities/ThreeMileIslandAccident.md) — Nuclear accident comparison used by the Chernobyl episode to discuss public safety narratives.
 - [Enzo Ferrari](entities/EnzoFerrari.md) — Ferrari founder whose move from driver to organizer, dealer, racing operator, and brand builder anchors the Ferrari source.
 - [Scuderia Ferrari](entities/ScuderiaFerrari.md) — Racing organization that preceded Ferrari road cars and links Formula One, Tifosi fandom, and luxury brand power.
 - [Alfa Romeo](entities/AlfaRomeo.md) — Early racing and commercial platform through which Enzo Ferrari built Scuderia Ferrari.
@@ -4615,6 +4624,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Technological Disaster As Institutional Failure](concepts/TechnologicalDisasterAsInstitutionalFailure.md) — Chernobyl frame connecting design, construction, operations, secrecy, propaganda, and accountability.
+- [Human-Dependent Safety System](concepts/HumanDependentSafetySystem.md) — Safety pattern where complex technical protection relies too heavily on operators compensating for opaque design and pressure.
+- [Nuclear Safety Propaganda](concepts/NuclearSafetyPropaganda.md) — Risk-communication pattern where official claims of absolute safety shape operator belief, public disclosure, and denial.
+- [Post-Disaster Truth And Responsibility](concepts/PostDisasterTruthAndResponsibility.md) — Accountability frame for the fight over operator error, design defects, managerial liability, and official truth after catastrophe.
+- [Disaster Cleanup Sacrifice And Futility](concepts/DisasterCleanupSacrificeAndFutility.md) — Disaster-response pattern where rapid mobilization spends human effort under uncertainty and sometimes limited effectiveness.
 - [Luxury Brand As Sports Team](concepts/LuxuryBrandAsSportsTeam.md) — Ferrari model where ownership is scarce but mass fandom keeps the luxury brand culturally public.
 - [Racing Heritage Brand Moat](concepts/RacingHeritageBrandMoat.md) — Brand advantage from live racing, founder mythology, danger, wins, and technical credibility.
 - [Make-To-Order Luxury Manufacturing](concepts/MakeToOrderLuxuryManufacturing.md) — Luxury production model where waiting, customization, provenance, and factory control become part of value.

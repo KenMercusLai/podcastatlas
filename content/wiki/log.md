@@ -5288,3 +5288,11 @@ Added source page for an Acquired episode on Ferrari as a luxury-motorsport busi
 ## [2026-08-04] lint | Wiki health check
 
 Ran lint after health passed. Health scanned 7,512 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while lint scanned 7,512 pages, so graph findings are advisory until `build graph` refreshes it; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-04] ingest | 04.切尔诺贝利的午夜： “我要进监狱了。”
+
+Added source page for a 蜜獾吃书 episode on 《切尔诺贝利的午夜》 as a restrained technical and institutional reconstruction of the Chernobyl disaster. Created pages for Midnight in Chernobyl, Voices from Chernobyl, Chernobyl Nuclear Power Plant, Pripyat, Viktor Bryukhanov, Anatoly Dyatlov, Valery Legasov, Three Mile Island Accident, Technological Disaster As Institutional Failure, Human-Dependent Safety System, Nuclear Safety Propaganda, Post-Disaster Truth And Responsibility, and Disaster Cleanup Sacrifice And Futility; updated overview, index, 蜜獾吃书, Soviet Union, Disaster Response State Capacity, Administrative Opacity As Control, Bureaucratic Risk Avoidance, Political Truth-Telling, Engineering State, and Pet-Inclusive Disaster Response. No direct contradiction found; the source narrows popular Chernobyl rumor claims while adding a branch about design defects, operator burden, propaganda, cleanup sacrifice, and responsibility under Soviet institutional pressure.
+
+## [2026-08-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

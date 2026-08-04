@@ -2,8 +2,8 @@
 title: "Bureaucratic Risk Avoidance"
 type: concept
 tags: [government, organizations, incentives, software]
-sources: [118-shi-dachen-xinla-fengci-yongbuguoshi-768665425, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
-last_updated: 2026-07-24
+sources: [04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843, 118-shi-dachen-xinla-fengci-yongbuguoshi-768665425, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
+last_updated: 2026-08-04
 ---
 
 # Bureaucratic Risk Avoidance
@@ -14,12 +14,15 @@ The pattern helps explain why [[GovernmentWebsiteUsability]] can remain poor eve
 
 [[118-shi-dachen-xinla-fengci-yongbuguoshi-768665425]] adds a satirical and more competent version through [[YesMinister|《是，大臣》 / Yes Minister]]. [[HumphreyAppleby|Humphrey Appleby]] is not avoiding risk because he is unable to govern; he avoids political and departmental risk by turning reform into process, information control, careful language, and [[BureaucraticWorkloadControl]].
 
+[[04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843]] adds a high-stakes safety version through [[ChernobylNuclearPowerPlant|Chernobyl]]. The source's discussion of official confidence, reluctance to acknowledge an exploded reactor, and later operator-versus-design blame shows risk avoidance becoming [[NuclearSafetyPropaganda]] and [[PostDisasterTruthAndResponsibility]] failure rather than only bad service design.
+
 ## Key Claims
 - Risk avoidance can make procedural compliance more attractive than service redesign.
 - Weak buyer expertise makes outsourcing less effective because officials cannot judge whether the delivered system solves the real problem.
 - Technical teams can be trapped when they lack authority to push back against political or administrative demands.
 - High-level authority can change the outcome, as the episode suggests with [[Aadhaar]] and [[UPI]].
 - Risk avoidance can also be highly skilled: a bureaucracy can protect itself by mastering procedure better than elected officials master the department.
+- In safety-critical systems, risk avoidance can make managers minimize anomalies until the evidence is already catastrophic.
 
 ## Connections
 - [[India]], [[LeoMirani]], and [[NationalInformaticsCentre]] - source case.
@@ -27,3 +30,4 @@ The pattern helps explain why [[GovernmentWebsiteUsability]] can remain poor eve
 - [[GovernmentEnterpriseProcurement]] - adjacent institutional buying problem.
 - [[Aadhaar]] and [[UPI]] - counterexamples where authority and competence were better aligned.
 - [[YesMinister|《是，大臣》]], [[CivilServiceContinuity]], [[AdministrativeOpacityAsControl]], and [[BureaucraticWorkloadControl]] - satirical civil-service extension.
+- [[ChernobylNuclearPowerPlant]], [[NuclearSafetyPropaganda]], and [[PostDisasterTruthAndResponsibility]] - safety-critical disaster extension.

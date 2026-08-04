@@ -2,8 +2,8 @@
 title: "Political Truth-Telling / 政治性说真话"
 type: concept
 tags: [truth, politics, responsibility, judgment]
-sources: [116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789]
-last_updated: 2026-07-24
+sources: [04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789]
+last_updated: 2026-08-04
 ---
 
 # Political Truth-Telling / 政治性说真话
@@ -14,6 +14,8 @@ The concept is not neutral bluntness. In the source, political truth-telling req
 
 [[116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021]] adds a dissent and identity-pressure version through [[KaraHultgreen]] and [[PatrickBurns]]. The episode treats the F-14 accident controversy as a case where facts can be avoided because they may be weaponized by hostile factions, making truth-telling depend on evidence, complexity, and refusal to reduce people to identity labels.
 
+[[04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843]] adds a technological-disaster version through [[ValeryLegasov|Valery Legasov / 列加索夫]]. The episode interprets Legasov's Chernobyl role as a case where scientific truth, official reporting, personal conscience, and [[SovietUnion|Soviet]] legitimacy collided.
+
 ## Key Claims
 - Truth can be politically necessary even when it is socially costly.
 - Refusing false comfort is part of responsibility, not a performance of superiority.
@@ -21,9 +23,11 @@ The concept is not neutral bluntness. In the source, political truth-telling req
 - The concept extends [[TruthAgainstAbsurdPower]] from satirical coercion into historical and political controversy.
 - It also supports [[ResponsibilityVsGuilt]] because painful distinctions can be necessary to keep judgment precise.
 - Identity-protective motives can make truth harder to say even when the speaker supports the group that may be embarrassed by the facts.
+- Technical truth-telling can require exposing design and institutional failures that a state would prefer to assign to individual operators.
 
 ## Connections
 - [[HannahArendt|Hannah Arendt / 汉娜·阿伦特]], [[KarlJaspers|Karl Jaspers]], and [[EichmannInJerusalem|《艾希曼在耶路撒冷》]] - source cases.
 - [[ImmanuelKant|Immanuel Kant / 康德]] - philosophical reference the episode associates with truth priority.
 - [[TruthAgainstAbsurdPower]], [[RationalHumility]], [[EvidenceOverTestimony]], and [[InternetMoralTrial]] - adjacent truth and public-judgment concepts.
 - [[KaraHultgreen]], [[PatrickBurns]], [[PrincipledDisobedience]], and [[WhistleblowerEvidenceDiscipline]] - dissent and identity-pressure extension from episode 116.
+- [[ValeryLegasov]], [[ChernobylNuclearPowerPlant]], [[PostDisasterTruthAndResponsibility]], and [[NuclearSafetyPropaganda]] - technological-disaster truth branch.
