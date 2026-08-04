@@ -2,8 +2,8 @@
 title: "Founder Motivation Evolution"
 type: concept
 tags: [startups, founder-psychology, leadership]
-sources: [tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarspod-brianarmstrong-final]
-last_updated: 2026-07-23
+sources: [tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarspod-brianarmstrong-final]
+last_updated: 2026-08-04
 ---
 
 # Founder Motivation Evolution
@@ -22,6 +22,8 @@ Armstrong says he was filled with self-doubt early, feared disappointing his par
 
 [[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds [[BlakeScholl]] as a motivation-selection case. After [[BarcodeHero]], Scholl concluded that founders often push themselves to a similar level of pain regardless of the idea, so the real variable is whether the outcome is worth that pain. He chose [[BoomSupersonic]] by ranking ideas by how happy he would be if they succeeded, not by whether he already looked qualified.
 
+[[tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio]] adds [[JustinKan]] as an external-approval case after a major exit. Justin says selling [[Twitch]] made him happy for about a month, and that [[Atrium]] was partly driven by comparing himself with other successful founders. His ayahuasca story turns the concept inward: he identifies a need for external approval, then reframes work around whether a day would still feel worthwhile without money or public recognition.
+
 ## Key Claims
 - Early insecurity can help a founder start, but it is usually too brittle to sustain long-term leadership.
 - External validation such as a first investor check can matter psychologically, not only financially.
@@ -32,6 +34,7 @@ Armstrong says he was filled with self-doubt early, feared disappointing his par
 - Long-tenure motivation can shift from reaching a milestone or proving a company to stewardship, craft, and a mission that still feels worth years of work.
 - A founder's motivation can come from embodied personal experience, such as losing and restoring a capability, not only from market ambition or external validation.
 - Motivation selection can precede qualification: a founder may deliberately choose a problem they care about enough to learn into, instead of only choosing from resume-matched ideas.
+- A major exit does not settle motivation; comparison and external approval can reappear unless the founder rebuilds a more intrinsic test for worthwhile work.
 
 ## Connections
 - [[BrianArmstrong]], [[Coinbase]], [[YCombinator]], and [[Airbnb]] - source case.
@@ -42,3 +45,4 @@ Armstrong says he was filled with self-doubt early, feared disappointing his par
 - [[DrewHouston]], [[Dropbox]], [[DropboxDash]], [[KnowledgeWorkFragmentation]], and [[FounderPsychologyOperationalRisk]] - long-term CEO motivation branch added by the Drew Houston episode.
 - [[DanSiroker]], [[MindEmulationFoundation]], [[RewindAI]], [[Limitless]], and [[PersonalAIMemory]] - augmentation and family-focus branch added by the Dan Siroker episode.
 - [[BlakeScholl]], [[BarcodeHero]], [[BoomSupersonic]], and [[FounderProductFit]] - motivation-selection branch added by The Social Radars.
+- [[JustinKan]], [[Twitch]], [[Atrium]], and [[ServiceProductization]] - post-exit external-approval and intrinsic-motivation branch added by The Social Radars.

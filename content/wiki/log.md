@@ -5304,3 +5304,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-04] lint | Wiki health check
 
 Ran lint after health passed. Health scanned 7,532 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while lint scanned 7,532 pages, so graph findings are advisory until `build graph` refreshes it; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest` and no provider API keys were present. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-04] ingest | Justin Kan on the First YC Batch, Justin.tv, Twitch, and Intrinsic Motivation
+
+Added source page for The Social Radars episode with Justin Kan on Kiko, YC's first batch, Justin.tv lifecasting, Twitch's gaming focus, Exec, Atrium, creator content, external approval, and intrinsic motivation. Created pages for Exec and Atrium; updated overview, index, Justin Kan, Kiko, Justin.tv, Twitch, Emmett Shear, Y Combinator, Paul Graham, The Social Radars, Startup Accelerator Batch Selection, Startup Community Infrastructure, Founder Product Fit, Service Productization, Service Marketplace Quality Control, and Founder Motivation Evolution. No direct contradiction found; the source complements the existing Emmett Shear and Kyle Vogt accounts by adding Justin's first-person perspective on lifecasting, the Justin.tv platform turn, and the post-Twitch service-business and motivation arc.
+
+## [2026-08-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,8 +2,8 @@
 title: "Startup Community Infrastructure"
 type: concept
 tags: [startups, community, software, venture-capital]
-sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarspod-emmettshear-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-garrytan-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
-last_updated: 2026-07-23
+sources: [tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarspod-emmettshear-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-garrytan-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-08-04
 ---
 
 # Startup Community Infrastructure
@@ -15,6 +15,8 @@ Startup community infrastructure is the set of software, rituals, lists, events,
 [[socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll]] adds the earlier and more open side through [[HackerNews]], YC dinners, and Demo Day. [[PaulGraham]] says Hacker News helped YC, but also says running a forum created major stress, making [[StartupCommunityForumBurden]] part of the infrastructure story.
 
 [[socialradarspod-emmettshear-v2]] adds the first-batch lived version through [[EmmettShear]] and [[Kiko]]. Emmett says Tuesday dinners were the founders' main social connection during a lonely, hot, isolated summer, and that later friendships with founders such as [[SteveHuffman]], [[AlexisOhanian]], and [[AaronSwartz]] made the batch more valuable than the small amount of money. This shows startup community infrastructure before it became software: dinners, shared office proximity, peer momentum, and knowing other people were also choosing startups over conventional jobs.
+
+[[tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio]] adds [[JustinKan]]'s pressure side of that same first-batch infrastructure. Justin says the batch motivated him because he did not want to look weak beside founders such as [[SteveHuffman]] and [[AaronSwartz]]. The source makes peer comparison part of the infrastructure: community creates support, but it also creates visible standards that turn vague ambition into weekly progress.
 
 [[tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final]] adds the Summer 2010 version through [[YuriSagalov]] and [[AeroFS]]. Sagalov remembers a small batch, close dinners, Mountain View apartment improvisation, and long-lived Bay Area friendships from the YC period. The episode extends the concept by showing how batch community later becomes deal flow, references, angel investing, and [[WayfinderVentures]] network formation.
 
@@ -41,12 +43,13 @@ The source's clearest case is Bookface. [[GarryTan]] says YC needed it because l
 - Founder community can exert pull before acceptance: wanting into the peer environment can motivate persistence, side-door feedback seeking, and eventual batch participation.
 - Community can also create honest comparison pressure: seeing stronger founders can force a team to abandon a weak idea sooner.
 - As an accelerator scales, internal software becomes part of community infrastructure because human memory alone cannot preserve identity, application history, red flags, and founder-to-founder help.
+- Founder community can motivate through status pressure as well as support; seeing peers ship can make weak progress harder to rationalize.
 
 ## Connections
 - [[JaredFriedman]], [[Scribd]], [[Wholist]], [[YCInternalSoftware]], and [[Bookface]] - Summer 2006 community and later internal-software branch added by the Jared Friedman episode.
 - [[HackerNews]], [[Bookface]], [[StartupSchool]], [[YCombinator]], and [[GarryTan]] - source cases.
 - [[RonConway]], [[SVAngel]], [[StartupInformationLayer]], [[InternetSoftwareThesis]], and [[NetscapePlatformEcosystem]] - pre-YC internet-era sourcing layer.
-- [[EmmettShear]], [[Kiko]], [[SteveHuffman]], [[AlexisOhanian]], and [[AaronSwartz]] - first-batch peer-support case added by the Shear episode.
+- [[EmmettShear]], [[JustinKan]], [[Kiko]], [[SteveHuffman]], [[AlexisOhanian]], and [[AaronSwartz]] - first-batch peer-support and peer-pressure case added by the Shear and Justin Kan episodes.
 - [[YuriSagalov]], [[AeroFS]], [[WayfinderVentures]], and [[YCombinator]] - Summer 2010 batch and later investor-network case.
 - [[HarjTaggar]], [[YuriMilner]], [[StartupLegitimacyTransfer]], and [[FounderInvestorLearning]] - investor-relations layer added by the Harj Taggar episode.
 - [[DrewHouston]], [[Dropbox]], [[ArashFerdowsi]], [[HackerNews]], and [[YCombinator]] - early YC-orbit and Y Scraper case added by the Drew Houston episode.

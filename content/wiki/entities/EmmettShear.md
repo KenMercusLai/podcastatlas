@@ -2,8 +2,8 @@
 title: "Emmett Shear"
 type: entity
 tags: [person, startups, y-combinator, video]
-sources: [tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s2-wrapup-v1, socialradarspod-emmettshear-v2]
-last_updated: 2026-07-12
+sources: [tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s2-wrapup-v1, socialradarspod-emmettshear-v2]
+last_updated: 2026-08-04
 ---
 
 # Emmett Shear
@@ -11,6 +11,8 @@ last_updated: 2026-07-12
 Emmett Shear is the founder interviewed in [[socialradarspod-emmettshear-v2]]. The episode traces him from [[YCombinator]]'s first 2005 batch and [[Kiko]] through [[JustinTV|Justin.tv]], [[Twitch]], the [[Amazon]] acquisition, and his later return to YC as a partner.
 
 His wiki role is a founder-resilience and operating-discipline case. Kiko shows weak founder-product fit: Emmett says the team did not deeply use calendars and lost much of the market reason to exist after Google Calendar launched. Justin.tv and Twitch then show the opposite path: a strange live-video idea attracted [[JustinKan]], [[MichaelSeibel]], and [[KyleVogt]], forced the team to build real video infrastructure, survived a 2008 runway crisis, and eventually found a stronger usage signal in gaming.
+
+[[tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio]] adds Justin's first-person view of Emmett's shared path: the all-night Kiko YC application, the post-Kiko pitch to [[PaulGraham]], and the shift from viral Justin.tv lifecasting into an open platform. Justin specifically says gaming became the category Emmett cared about most, reinforcing the existing Twitch account where Emmett's user calls and roadmap work turned gaming pull into the focused product.
 
 The source also makes Shear a YC operator case. [[MichaelSeibel]] recruited him back to YC, and Shear describes interviews and office hours as exhausting but useful because founders compress high-stakes judgment, founder psychology, fundraising, and product uncertainty into short conversations.
 

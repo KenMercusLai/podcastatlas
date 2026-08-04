@@ -2,8 +2,8 @@
 title: "Twitch"
 type: entity
 tags: [company, startups, video, streaming, gaming]
-sources: [tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, socialradarspod-emmettshear-v2]
-last_updated: 2026-07-11
+sources: [tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, socialradarspod-emmettshear-v2]
+last_updated: 2026-08-04
 ---
 
 # Twitch
@@ -16,9 +16,11 @@ The episode presents Twitch as a fundraising and operating-discipline case. Emme
 
 [[tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final]] adds [[KyleVogt]]'s view of the pivot. The Justin.tv founders debated mobile, gaming, and the existing product, while [[MichaelSeibel]] led Socialcam, [[EmmettShear]] led Twitch, and Vogt supported engineering across projects. Vogt says gaming had organic growth and fewer copyright problems, and that Shear called users directly to turn feature requests into a roadmap.
 
+[[tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio]] adds [[JustinKan]]'s shorter founder view of the same pivot. Justin says Justin.tv's original viral attention did not retain well, the platform turn came from viewers wanting to create streams, and gaming became the category Emmett cared about most before Twitch became the focused company acquired by [[Amazon]] in 2014.
+
 [[tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly]] adds Twitch as a scaled [[FounderMode]] case. Shear says early Twitch leadership meant direct customer and product work, but later shifted toward weekly keynotes, repeated mental models, and company-wide [[FounderContextPropagation]] so employees could make decisions with the founder's context and their own local information. The same source connects Twitch organization design to [[ConwaysLawOrganizationalDesign|Conway's Law]]: product coherence depends on the information flows and team boundaries around the work.
 
 ## Connections
 - [[EmmettShear]], [[JustinKan]], [[MichaelSeibel]], and [[KyleVogt]] - founder and early-team context.
-- [[JustinTV|Justin.tv]], [[Amazon]], and [[BessemerVenturePartners]] - predecessor, acquirer, and investor context.
+- [[JustinTV|Justin.tv]], [[Amazon]], [[BessemerVenturePartners]], [[Exec]], and [[Atrium]] - predecessor, acquirer, investor, and Justin's post-Twitch founder context.
 - [[StartupRunwayDiscipline]], [[InvestorRiskNarrative]], [[CustomerPull]], [[ProductLedWillingnessToPay]], [[PostAcquisitionFounderIdentity]], [[FounderProductFit]], [[FounderMode]], [[FounderContextPropagation]], and [[ConwaysLawOrganizationalDesign]] - concepts connected to the sources.

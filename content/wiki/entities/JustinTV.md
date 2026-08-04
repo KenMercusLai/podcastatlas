@@ -2,8 +2,8 @@
 title: "Justin.tv"
 type: entity
 tags: [company, startups, video, y-combinator]
-sources: [tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, socialradarspod-emmettshear-v2, socialradarspod-brianchesky-final]
-last_updated: 2026-07-11
+sources: [tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, socialradarspod-emmettshear-v2, socialradarspod-brianchesky-final]
+last_updated: 2026-08-04
 ---
 
 # Justin.tv
@@ -11,6 +11,8 @@ last_updated: 2026-07-11
 Justin.tv appears in [[socialradarspod-emmettshear-v2]] as the live-video startup that [[EmmettShear]] and [[JustinKan]] pursued after selling [[Kiko]]. [[PaulGraham]] rejected their first post-Kiko idea but funded the live-streaming concept with a $50,000 check because he saw it as a possible new form of reality TV.
 
 The source presents Justin.tv as both a strange idea and a practical infrastructure company. Justin wore a camera and streamed his life, but Emmett says the most durable signals were audience conversation and game streaming. The technical side forced the team beyond simple CDN use, with [[KyleVogt]] leading early video-system work while Emmett handled other technology.
+
+[[tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio]] adds Justin's on-camera account. Justin says the first four weeks were viral but retention was poor, viewers created dangerous pranks and emergency calls, and the team considered stopping before the incidents died down. The more durable product turn came when viewers asked to create their own streams, pushing Justin.tv toward a live-video platform rather than only a lifecasting show.
 
 The company also becomes the wiki's core [[StartupRunwayDiscipline]] case. During the 2008 financial crisis, Justin.tv shifted toward profitability, monthly P&L review, burn and runway transparency, cost cutting, revenue experiments, and page-level monetization. That discipline helped fund [[Twitch]] from internal cash flow before outside capital arrived.
 
@@ -22,4 +24,4 @@ Justin.tv also appears in [[socialradarspod-brianchesky-final]] as the [[YCombin
 - [[EmmettShear]], [[JustinKan]], [[MichaelSeibel]], and [[KyleVogt]] - founder and early-team context from the Shear episode.
 - [[Kiko]], [[Twitch]], [[Amazon]], and [[BessemerVenturePartners]] - origin, focused successor, acquirer, and investor context.
 - [[BrianChesky]] and [[Airbnb]] - later founder-network role in the Austin story.
-- [[YCombinator]], [[StartupCommunityInfrastructure]], [[StartupInfrastructureImprovisation]], [[StartupRunwayDiscipline]], [[CustomerPull]], and [[ProductLedWillingnessToPay]] - accelerator, network, operating, and monetization context.
+- [[YCombinator]], [[StartupCommunityInfrastructure]], [[StartupInfrastructureImprovisation]], [[StartupRunwayDiscipline]], [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[FounderProductFit]] - accelerator, network, operating, monetization, and founder-fit context.

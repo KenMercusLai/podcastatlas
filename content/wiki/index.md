@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [Paul Graham on Y Combinator's Growth, Myths, and the AI Era](sources/tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio.md) — The Social Radars episode with Paul Graham on YC's organic growth, alumni word of mouth, Hacker News stress, the Peter Thiel controversy, Airbnb advice, Demo Day pitch compression, founder triage, Sam Altman's OpenAI transition, and AI-era startup advice.
+- [Justin Kan on the First YC Batch, Justin.tv, Twitch, and Intrinsic Motivation](sources/tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio.md) — The Social Radars episode with Justin Kan on Kiko, YC's first batch, Justin.tv lifecasting, Twitch's gaming focus, Exec, Atrium, creator content, external approval, and intrinsic motivation.
 - [04.切尔诺贝利的午夜： “我要进监狱了。”](sources/04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843.md) — 蜜獾吃书 episode on 《切尔诺贝利的午夜》, Chernobyl, Pripyat, reactor design, safety propaganda, cleanup sacrifice, and the dispute over operator error, design flaws, and Soviet institutional responsibility.
 - [Ferrari](sources/ferrari-1.md) — Acquired episode on Ferrari as a luxury-motorsport business, from Enzo Ferrari and Scuderia Ferrari to Fiat/FCA ownership, Montezemolo's turnaround, scarcity, collector economics, and the EV challenge.
 - [The NFL](sources/the-nfl-1.md) — Acquired episode on the NFL as a league-first media and governance system built from competitive balance, pooled TV rights, the Sports Broadcasting Act, NFL Films, the Super Bowl, Monday Night Football, streaming, betting, international growth, and private-equity pressure.
@@ -3217,7 +3218,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emmett Shear](entities/EmmettShear.md) — Twitch co-founder whose sources link YC's first batch, Kiko, Justin.tv, Twitch, Amazon, OpenAI timing, Softmax, AI collective alignment, and founder-mode context propagation.
 - [Kiko](entities/Kiko.md) — First-batch YC browser calendar startup whose failure, eBay sale, and Tucows acquisition created founder learning and cash optionality.
 - [Twitch](entities/Twitch.md) — Live-streaming company that emerged from Justin.tv, showing gaming/community pull, paying-user expansion, hard fundraising, and Amazon acquisition fit.
-- [Justin Kan](entities/JustinKan.md) — Kiko and Justin.tv cofounder whose lifecasting role made the original 24/7 live-video idea possible.
+- [Justin Kan](entities/JustinKan.md) — Kiko, Justin.tv, Twitch, Exec, and Atrium founder whose direct source links lifecasting, YC peer pressure, service-productization limits, and intrinsic motivation.
+- [Exec](entities/Exec.md) — Justin Kan's instant real-world task and housecleaning startup, used as a service-productization and service-marketplace quality-control case.
+- [Atrium](entities/Atrium.md) — Justin Kan's legal-services startup, used as a post-Twitch service-productization and founder-motivation case.
 - [Kyle Vogt](entities/KyleVogt.md) — Justin.tv technical cofounder and Cruise founder whose episode links live-video infrastructure, Twitch, self-driving MVP scoping, robotaxi economics, safety benchmarking, and hard-tech founder stamina.
 - [Tucows](entities/Tucows.md) — Buyer of Kiko in the source, turning a failed calendar startup into useful founder cash and learning.
 - [Patrick Collison](entities/PatrickCollison.md) — Stripe co-founder whose episode links teenage Lisp/Paul Graham contact, web-payment frustration, developer-first payment infrastructure, and vision-to-reality execution.

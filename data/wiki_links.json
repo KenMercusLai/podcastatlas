@@ -3047,6 +3047,10 @@
     "title": "Atoom",
     "url": "/wiki/entities/atoom/"
   },
+  "Atrium": {
+    "title": "Atrium",
+    "url": "/wiki/entities/atrium/"
+  },
   "AttentionAsWeather": {
     "title": "Attention As Weather",
     "url": "/wiki/concepts/attentionasweather/"
@@ -8866,6 +8870,10 @@
   "ExceptionStateSurveillanceTechnology": {
     "title": "Exception-State Surveillance Technology",
     "url": "/wiki/concepts/exceptionstatesurveillancetechnology/"
+  },
+  "Exec": {
+    "title": "Exec",
+    "url": "/wiki/entities/exec/"
   },
   "ExecutivePowerPrecedent": {
     "title": "Executive Power Precedent",
@@ -29846,6 +29854,10 @@
   "tsr-s5-jared-v3final-tsr-s5-jared-v3final": {
     "title": "Jared Friedman, Partner, Y Combinator; Co-founder, Scribd",
     "url": "/wiki/sources/tsr-s5-jared-v3final-tsr-s5-jared-v3final/"
+  },
+  "tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio": {
+    "title": "Justin Kan on the First YC Batch, Justin.tv, Twitch, and Intrinsic Motivation",
+    "url": "/wiki/sources/tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio/"
   },
   "tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio": {
     "title": "Paul Graham on Y Combinator's Growth, Myths, and the AI Era",
