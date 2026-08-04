@@ -2,7 +2,7 @@
 title: "Supply Chain Sovereignty"
 type: concept
 tags: [supply-chain, geopolitics, trade, energy, semiconductors, manufacturing]
-sources: [no-199-zixingche-200-nian-973489465, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, why-are-we-so-obsessed-with-manufacturing]
+sources: [no-201-zhongguo-gaotie-jianshi-976314772, no-199-zixingche-200-nian-973489465, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, why-are-we-so-obsessed-with-manufacturing]
 last_updated: 2026-08-04
 ---
 
@@ -22,6 +22,8 @@ The source is skeptical that full self-sufficiency is realistic across the econo
 
 [[no-199-zixingche-200-nian-973489465]] adds a lower-stakes but structurally similar consumer-hardware case. The source is not making a state-security argument; in wiki terms, it shows how dependence on [[Shimano]]'s drivetrain stack can leave Chinese bicycle makers with weak margins and delivery bottlenecks even when they can assemble finished bicycles at scale. [[EBikeValueChainShift]] is presented as a possible route around that old component dependency, though trade barriers and brand trust still matter.
 
+[[no-201-zhongguo-gaotie-jianshi-976314772]] adds a high-speed-rail standardization case. The source's sovereignty issue is not foreign sanctions but whether [[China]] can move from foreign train platforms and parts toward domestic design, component substitution, system integration, and [[ChineseStandardEMU]] standards through [[Hexiehao]], [[Fuxinghao]], and [[CR450]].
+
 ## Key Claims
 - Supply-chain resilience is used to justify domestic production, ally-shoring, energy expansion, tariffs, and trade reciprocity.
 - The concept links economic policy to security policy: a trade deficit becomes a sign of outsourced manufacturing and defense-industrial weakness.
@@ -32,6 +34,7 @@ The source is skeptical that full self-sufficiency is realistic across the econo
 - The China-shock episode shows that strategic capacity, worker support, and tariff politics are three policy tracks that can overlap rhetorically but should be evaluated separately.
 - The rare-earth episode adds that export restrictions and price crashes can both undermine sovereignty, so resilience may require [[StateBackedRareEarthRebuilding]] as well as trade policy.
 - Component-stack dependence can matter even outside obvious national-security sectors when a supplier owns precision process knowledge, patents, and ecosystem acceptance.
+- Standard-setting can be a sovereignty layer after assembly competence: control over interfaces, parts, testing, and rescue compatibility matters as much as finished-product branding.
 
 ## Connections
 - [[AmericaFirstPolicyInstitute]], [[Project2025]], and [[PeterNavarro]] — source actors.
@@ -42,3 +45,4 @@ The source is skeptical that full self-sufficiency is realistic across the econo
 - [[ChinaShock]], [[TradeAdjustmentAssistance]], [[BlanketTariffLimit]], [[StrategicIndustrialPolicy]], and [[PeopleVersusPlacesRecovery]] - adjustment-cost and policy-instrument branch added by Planet Money.
 - [[RareEarthProcessingBottleneck]], [[RareEarthExportLeverage]], [[DominantProducerPriceDiscipline]], and [[StateBackedRareEarthRebuilding]] - rare-earth branch added by Planet Money.
 - [[Shimano]], [[BicycleComponentStackPower]], [[EBikeValueChainShift]], and [[BafangElectric]] - bicycle-component dependence and E-bike shift added by Banlatte episode 199.
+- [[ChineseHighSpeedRail]], [[ProcurementLedTechnologyTransfer]], [[HighSpeedRailSystemIntegration]], [[ChineseStandardEMU]], [[Fuxinghao]], and [[CR450]] - high-speed-rail standardization branch added by Banlatte episode 201.

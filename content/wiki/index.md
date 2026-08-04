@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.201 中国高铁简史](sources/no-201-zhongguo-gaotie-jianshi-976314772.md) — 半拿铁 episode on China's high-speed rail from the Jinghu route debate, maglev versus wheel-rail, EMU procurement and technology transfer to Liu Zhijun, corruption, Wenzhou accident, Fuxinghao, and CR450.
 - [No.199 自行车 200年](sources/no-199-zixingche-200-nian-973489465.md) — 半拿铁 episode on bicycle history from Drais and safety bicycles to patent power, road lobbying, China's 凤永飞 era, shared-bike manufacturing shock, Shimano components, and E-bike opportunities.
 - [番外 14：跟李诞聊聊播客、创作、AI 与中年](sources/fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552.md) — 半拿铁 special episode with 李诞 on Chinese podcasting, Banlatte's workflow, voice intimacy, brand podcasts, AI learning and creation, and middle-age technology memory.
 - [E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？](sources/e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793.md) — 硅谷101 episode on SpaceX's orbital AI data-center narrative, Starship launch economics, space thermal management, radiation, orbital governance, lunar industry, and the Moon-versus-Mars strategy split.
@@ -654,6 +655,24 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ministry of Railways (China) / 中国铁道部](entities/MinistryOfRailwaysChina.md) — Railway ministry that concentrated planning, procurement, operation, and high-speed-rail buildout before the 2013 split.
+- [China Railway Corporation / 中国铁路总公司](entities/ChinaRailwayCorporation.md) — Post-2013 operating successor associated with Fuxinghao and Chinese Standard EMU standardization.
+- [Liu Zhijun / 刘志军](entities/LiuZhijun.md) — Railway minister whose high-pressure execution accelerated Chinese high-speed rail while exposing corruption and labor-cost risks.
+- [Zhang Shuguang / 张曙光](entities/ZhangShuguangRailway.md) — Railway technology official used by the episode to connect expertise, procurement, and corruption risk.
+- [Ding Shumiao / 丁书苗](entities/DingShumiao.md) — Business broker whose railway contracting access illustrates corruption around concentrated infrastructure procurement.
+- [Xu Houguang / 徐厚广](entities/XuHouguang.md) — High-speed-rail commentator cited by Banlatte as a major narrative source for the episode.
+- [Kawasaki Heavy Industries / 川崎重工](entities/KawasakiHeavyIndustries.md) — Japanese railway supplier tied to CRH2 lineage and China's early EMU technology-transfer bargaining.
+- [Alstom / 阿尔斯通](entities/Alstom.md) — French railway supplier tied to CRH5 lineage and China's 2004 EMU procurement strategy.
+- [Siemens / 西门子](entities/Siemens.md) — German railway supplier whose first-round exclusion illustrates buyer discipline in China's high-speed-rail procurement.
+- [Bombardier / 庞巴迪](entities/Bombardier.md) — Canadian railway supplier tied to CRH1 lineage in the episode's technology-transfer account.
+- [CRRC / 中国中车](entities/CRRC.md) — Chinese rolling-stock manufacturer context linking foreign-platform absorption to Fuxinghao, CR450, and high-speed maglev work.
+- [Hexiehao / 和谐号](entities/Hexiehao.md) — First major Chinese high-speed EMU family built from imported and absorbed foreign platforms.
+- [Fuxinghao / 复兴号](entities/Fuxinghao.md) — Chinese Standard EMU train family marking the shift from mixed imported lineages to domestic standard-setting.
+- [CR450](entities/CR450.md) — Next-generation Chinese high-speed train program targeting 450 km/h tests and 400 km/h commercial operation.
+- [Shanghai Maglev / 上海磁悬浮](entities/ShanghaiMaglev.md) — Commercial maglev demonstration line used to explain route-choice opportunity cost and network isolation.
+- [Beijing-Shanghai High-Speed Railway / 京沪高铁](entities/JinghuHighSpeedRail.md) — Strategic trunk project whose demand and delay structure anchors the high-speed-rail story.
+- [Beijing-Tianjin Intercity Railway / 京津城际铁路](entities/JingjinIntercityRailway.md) — Early high-speed project used by the episode to illustrate system integration.
+- [Wenzhou Train Collision / 723温州动车事故](entities/WenzhouTrainCollision.md) — 2011 accident and public-trust shock in the episode's high-speed-rail governance account.
 - [Karl Drais / 卡尔·德莱斯](entities/KarlDrais.md) — German inventor whose 1817 running machine anchors the episode's bicycle-origin and product-evolution branch.
 - [Denis Johnson (Bicycle)](entities/DenisJohnsonBicycle.md) — English carriage maker who commercialized the Drais-style running machine in Britain through manufacturing and riding instruction.
 - [Pierre Michaux / 皮埃尔·米肖](entities/PierreMichaux.md) — Maker associated with the 1860s front-wheel-pedal step in bicycle product evolution.
@@ -4443,6 +4462,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese High-Speed Rail](concepts/ChineseHighSpeedRail.md) — Full-system account of China's high-speed rail as demand, planning, procurement, manufacturing learning, standards, labor, safety, and governance.
+- [Wheel-Rail vs Maglev](concepts/WheelRailVsMaglev.md) — Technology-route dispute between mature wheel-rail scalability and faster but isolated magnetic-levitation ambition.
+- [Procurement-Led Technology Transfer](concepts/ProcurementLedTechnologyTransfer.md) — Industrial-policy mechanism where concentrated public orders force price, branding, local assembly, and technology-transfer concessions.
+- [High-Speed Rail System Integration](concepts/HighSpeedRailSystemIntegration.md) — Capability of making rolling stock, track, power, signaling, dispatching, communications, civil works, and operations function as one system.
+- [Strongman Infrastructure Governance](concepts/StrongmanInfrastructureGovernance.md) — Pattern where concentrated official power accelerates infrastructure while increasing pressure, opacity, corruption risk, and weak feedback.
+- [Infrastructure Labor Burden](concepts/InfrastructureLaborBurden.md) — Hidden worker pressure, fatigue, and operating strain behind visible infrastructure achievements.
+- [High-Speed Rail Safety Trust](concepts/HighSpeedRailSafetyTrust.md) — Public legitimacy problem after accidents expose engineering, management, redundancy, response, and communication failures.
+- [Chinese Standard EMU](concepts/ChineseStandardEMU.md) — Standardization program turning mixed imported train platforms into domestic trainset standards such as Fuxinghao and CR450.
 - [Bicycle Product Evolution](concepts/BicycleProductEvolution.md) — Design sequence from Drais's running machine through pedals, high-wheelers, safety bicycles, chain drive, and pneumatic tires.
 - [Good Roads Movement](concepts/GoodRoadsMovement.md) — Bicycle-backed road-improvement campaign showing how product adoption can require public infrastructure.
 - [Bicycle Capital Bubble](concepts/BicycleCapitalBubble.md) — 1895-1897 bicycle market frenzy where real product progress still produced overinvestment, saturation, price wars, and bankruptcies.

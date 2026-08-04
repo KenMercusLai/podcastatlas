@@ -2,11 +2,13 @@
 title: "半拿铁"
 type: entity
 tags: [podcast, media, business-history]
-sources: [no-199-zixingche-200-nian-973489465, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, no-203-businiao-lanshili-979295393, no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918, no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
+sources: [no-201-zhongguo-gaotie-jianshi-976314772, no-199-zixingche-200-nian-973489465, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, no-203-businiao-lanshili-979295393, no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918, no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
 last_updated: 2026-08-04
 ---
 
 # 半拿铁
+
+[[no-201-zhongguo-gaotie-jianshi-976314772]] adds Banlatte's Chinese high-speed-rail branch. The episode uses [[ChineseHighSpeedRail]], [[JinghuHighSpeedRail]], [[WheelRailVsMaglev]], [[MinistryOfRailwaysChina]], [[LiuZhijun]], [[ProcurementLedTechnologyTransfer]], [[Hexiehao]], [[Fuxinghao]], [[CR450]], and the [[WenzhouTrainCollision]] to connect industrial policy, railway system integration, strong execution, corruption, labor burden, and safety trust.
 
 [[no-199-zixingche-200-nian-973489465]] adds Banlatte's bicycle-industry history branch. The episode uses [[KarlDrais]], [[AlbertPope]], [[JohnKempStarley]], [[JohnBoydDunlop]], [[PhoenixBicycle]], [[GiantBicycles]], [[Ofo|OFO]], [[Shimano]], and [[BafangElectric]] to connect [[BicycleProductEvolution]], [[BicycleCapitalBubble]], [[ChinaBicycleShortageEconomy]], [[SharedBikeManufacturingShock]], [[BicycleComponentStackPower]], and [[EBikeValueChainShift]] into one industrial-history arc.
 
@@ -41,8 +43,11 @@ last_updated: 2026-08-04
 - The ecommerce episode uses the same China-internet-history style, but shifts attention to failed or marginal platforms so [[EcommerceSurfaceMetricsRisk]], [[ProfitAndCashFlowQuality]], [[InventoryWriteDownRisk]], and [[EcommerceFulfillmentComplexity]] stay visible behind growth stories.
 - The Li Dan special makes the show's own media form visible: Banlatte's value is not only topic selection but also [[PodcastIntimacy]], scripted-yet-live production, and memory-rich business storytelling.
 - The bicycle episode shows the same method applied to a physical product category: the story moves from invention and road infrastructure to capital bubbles, planned-economy scarcity, platform-driven overordering, and supplier power in core components.
+- The high-speed-rail episode applies the same business-history method to national infrastructure: route debates, centralized procurement, foreign platform absorption, standardization, debt, corruption, labor pressure, and accident response all shape the final system.
 
 ## Connections
+- [[ChineseHighSpeedRail]], [[WheelRailVsMaglev]], [[ProcurementLedTechnologyTransfer]], [[HighSpeedRailSystemIntegration]], [[StrongmanInfrastructureGovernance]], [[InfrastructureLaborBurden]], [[HighSpeedRailSafetyTrust]], and [[ChineseStandardEMU]] — high-speed-rail branch added by episode 201.
+- [[MinistryOfRailwaysChina]], [[LiuZhijun]], [[ZhangShuguangRailway]], [[DingShumiao]], [[Hexiehao]], [[Fuxinghao]], [[CR450]], [[ShanghaiMaglev]], [[JinghuHighSpeedRail]], and [[WenzhouTrainCollision]] — railway institutions, figures, products, and events from episode 201.
 - [[BicycleProductEvolution]], [[BicycleCapitalBubble]], [[BicycleIndustrialSpillovers]], [[ChinaBicycleShortageEconomy]], [[SharedBikeManufacturingShock]], [[BicycleComponentStackPower]], and [[EBikeValueChainShift]] — bicycle-industry branch added by episode 199.
 - [[LiDan|李诞]], [[XiaoLei|肖磊]], [[LiuFei|刘飞]], [[SanWuHuan|三五环]], and [[Xiaoyuzhou|小宇宙]] — self-reflective podcast and Chinese podcast ecosystem branch added by the special episode.
 - [[PodcastIntimacy]], [[PodcastProductionWorkflow]], [[PodcastAuthenticityBoundary]], [[BrandPodcasting]], and [[GenerationalTechnologyBridge]] — media-form and memory concepts from the special episode.

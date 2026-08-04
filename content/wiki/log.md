@@ -5224,3 +5224,11 @@ Added source page for a 半拿铁 episode on two centuries of bicycle history, f
 ## [2026-08-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-04] ingest | No.201 中国高铁简史
+
+Added source page for a 半拿铁 episode on Chinese high-speed rail from the late-1970s railway gap, 京沪 route debate, magnetic-levitation versus wheel-rail choice, domestic EMU experiments, 2004 procurement-led technology transfer, Hexiehao, system integration, Liu Zhijun-era governance, corruption, 723 Wenzhou accident, Fuxinghao, Chinese Standard EMU, CR450, and later maglev work. Created pages for Ministry of Railways (China), China Railway Corporation, Liu Zhijun, Zhang Shuguang, Ding Shumiao, Xu Houguang, Kawasaki Heavy Industries, Alstom, Siemens, Bombardier, CRRC, Hexiehao, Fuxinghao, CR450, Shanghai Maglev, Beijing-Shanghai High-Speed Railway, Beijing-Tianjin Intercity Railway, Wenzhou Train Collision, Chinese High-Speed Rail, Wheel-Rail vs Maglev, Procurement-Led Technology Transfer, High-Speed Rail System Integration, Strongman Infrastructure Governance, Infrastructure Labor Burden, High-Speed Rail Safety Trust, and Chinese Standard EMU; updated overview, index, Banlatte, China, Engineering State, Infrastructure Malinvestment, Strategic Industrial Policy, Government Enterprise Procurement, Supply Chain Sovereignty, and Precision Manufacturing As Strategy. No direct contradiction found; the source extends existing infrastructure and industrial-policy themes by showing how concentrated procurement and state execution can create capability while also creating labor, corruption, safety, and trust costs.
+
+## [2026-08-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2263,6 +2263,10 @@
     "title": "Alphabet",
     "url": "/wiki/entities/alphabet/"
   },
+  "Alstom": {
+    "title": "Alstom / 阿尔斯通",
+    "url": "/wiki/entities/alstom/"
+  },
   "AltaVista": {
     "title": "AltaVista",
     "url": "/wiki/entities/altavista/"
@@ -3959,6 +3963,10 @@
     "title": "Boeing",
     "url": "/wiki/entities/boeing/"
   },
+  "Bombardier": {
+    "title": "Bombardier / 庞巴迪",
+    "url": "/wiki/entities/bombardier/"
+  },
   "BookAsGraveMemoryWork": {
     "title": "Book As Grave Memory Work",
     "url": "/wiki/concepts/bookasgravememorywork/"
@@ -4382,6 +4390,14 @@
   "CPGManufacturingScaleUp": {
     "title": "CPG Manufacturing Scale-Up",
     "url": "/wiki/concepts/cpgmanufacturingscaleup/"
+  },
+  "CR450": {
+    "title": "CR450",
+    "url": "/wiki/entities/cr450/"
+  },
+  "CRRC": {
+    "title": "CRRC / 中国中车",
+    "url": "/wiki/entities/crrc/"
   },
   "CRV": {
     "title": "CRV",
@@ -5191,6 +5207,10 @@
     "title": "China National Aviation Holding / 中航集团",
     "url": "/wiki/entities/chinanationalaviationholding/"
   },
+  "ChinaRailwayCorporation": {
+    "title": "China Railway Corporation / 中国铁路总公司",
+    "url": "/wiki/entities/chinarailwaycorporation/"
+  },
   "ChinaRealEstateDebtCycle": {
     "title": "China Real Estate Debt Cycle",
     "url": "/wiki/concepts/chinarealestatedebtcycle/"
@@ -5275,6 +5295,10 @@
     "title": "Chinese Hardware Globalization",
     "url": "/wiki/concepts/chinesehardwareglobalization/"
   },
+  "ChineseHighSpeedRail": {
+    "title": "Chinese High-Speed Rail",
+    "url": "/wiki/concepts/chinesehighspeedrail/"
+  },
   "ChineseLongVideoPlatformEconomics": {
     "title": "Chinese Long-Video Platform Economics",
     "url": "/wiki/concepts/chineselongvideoplatformeconomics/"
@@ -5294,6 +5318,10 @@
   "ChinesePrivateAirlineOpening": {
     "title": "Chinese Private Airline Opening",
     "url": "/wiki/concepts/chineseprivateairlineopening/"
+  },
+  "ChineseStandardEMU": {
+    "title": "Chinese Standard EMU",
+    "url": "/wiki/concepts/chinesestandardemu/"
   },
   "ChineseSuperLeague": {
     "title": "中国足球超级联赛 / Chinese Super League",
@@ -7370,6 +7398,10 @@
   "DingFengBoSuShi": {
     "title": "《定风波》 / Ding Feng Bo",
     "url": "/wiki/entities/dingfengbosushi/"
+  },
+  "DingShumiao": {
+    "title": "Ding Shumiao / 丁书苗",
+    "url": "/wiki/entities/dingshumiao/"
   },
   "DingTalk": {
     "title": "DingTalk",
@@ -9939,6 +9971,10 @@
     "title": "Future Resident Housing Voice",
     "url": "/wiki/concepts/futureresidenthousingvoice/"
   },
+  "Fuxinghao": {
+    "title": "Fuxinghao / 复兴号",
+    "url": "/wiki/entities/fuxinghao/"
+  },
   "FuyouTiandi": {
     "title": "蜉蝣天地 / Fuyou Tiandi",
     "url": "/wiki/entities/fuyoutiandi/"
@@ -11391,6 +11427,10 @@
     "title": "Hesse Youth Culture Misreading / 黑塞青年文化误读",
     "url": "/wiki/concepts/hesseyouthculturemisreading/"
   },
+  "Hexiehao": {
+    "title": "Hexiehao / 和谐号",
+    "url": "/wiki/entities/hexiehao/"
+  },
   "HeyTea": {
     "title": "HeyTea / 喜茶",
     "url": "/wiki/entities/heytea/"
@@ -11434,6 +11474,14 @@
   "HighSensitivityAsDifference": {
     "title": "High Sensitivity As Difference / 高敏感作为差异",
     "url": "/wiki/concepts/highsensitivityasdifference/"
+  },
+  "HighSpeedRailSafetyTrust": {
+    "title": "High-Speed Rail Safety Trust",
+    "url": "/wiki/concepts/highspeedrailsafetytrust/"
+  },
+  "HighSpeedRailSystemIntegration": {
+    "title": "High-Speed Rail System Integration",
+    "url": "/wiki/concepts/highspeedrailsystemintegration/"
   },
   "HighTechLawInstitute": {
     "title": "High Tech Law Institute",
@@ -12250,6 +12298,10 @@
   "InformedOptimism": {
     "title": "Informed Optimism",
     "url": "/wiki/concepts/informedoptimism/"
+  },
+  "InfrastructureLaborBurden": {
+    "title": "Infrastructure Labor Burden",
+    "url": "/wiki/concepts/infrastructurelaborburden/"
   },
   "InfrastructureMalinvestment": {
     "title": "Infrastructure Malinvestment",
@@ -13155,6 +13207,14 @@
     "title": "Jin Yong Political Reading",
     "url": "/wiki/concepts/jinyongpoliticalreading/"
   },
+  "JinghuHighSpeedRail": {
+    "title": "Beijing-Shanghai High-Speed Railway / 京沪高铁",
+    "url": "/wiki/entities/jinghuhighspeedrail/"
+  },
+  "JingjinIntercityRailway": {
+    "title": "Beijing-Tianjin Intercity Railway / 京津城际铁路",
+    "url": "/wiki/entities/jingjinintercityrailway/"
+  },
   "JingshenXixueguiBook": {
     "title": "《精神吸血鬼》",
     "url": "/wiki/entities/jingshenxixueguibook/"
@@ -13714,6 +13774,10 @@
   "KawakamiKazuto": {
     "title": "川上和人 / Kawakami Kazuto",
     "url": "/wiki/entities/kawakamikazuto/"
+  },
+  "KawasakiHeavyIndustries": {
+    "title": "Kawasaki Heavy Industries / 川崎重工",
+    "url": "/wiki/entities/kawasakiheavyindustries/"
   },
   "KayKamen": {
     "title": "Kay Kamen",
@@ -14794,6 +14858,10 @@
   "LiuYangyang": {
     "title": "刘洋洋 / Liu Yangyang",
     "url": "/wiki/entities/liuyangyang/"
+  },
+  "LiuZhijun": {
+    "title": "Liu Zhijun / 刘志军",
+    "url": "/wiki/entities/liuzhijun/"
   },
   "LiuZongdi": {
     "title": "Liu Zongdi / 刘宗迪",
@@ -16446,6 +16514,10 @@
   "MinistryOfIntelligenceAndSecurity": {
     "title": "Ministry of Intelligence and Security",
     "url": "/wiki/entities/ministryofintelligenceandsecurity/"
+  },
+  "MinistryOfRailwaysChina": {
+    "title": "Ministry of Railways (China) / 中国铁道部",
+    "url": "/wiki/entities/ministryofrailwayschina/"
   },
   "MinnanFamilyWriting": {
     "title": "Minnan Family Writing",
@@ -19519,6 +19591,10 @@
     "title": "Problem Definition In Research",
     "url": "/wiki/concepts/problemdefinitioninresearch/"
   },
+  "ProcurementLedTechnologyTransfer": {
+    "title": "Procurement-Led Technology Transfer",
+    "url": "/wiki/concepts/procurementledtechnologytransfer/"
+  },
   "ProcurementRecordsJournalism": {
     "title": "Procurement Records Journalism",
     "url": "/wiki/concepts/procurementrecordsjournalism/"
@@ -21855,6 +21931,10 @@
     "title": "Shanghai Foreign Banks",
     "url": "/wiki/concepts/shanghaiforeignbanks/"
   },
+  "ShanghaiMaglev": {
+    "title": "Shanghai Maglev / 上海磁悬浮",
+    "url": "/wiki/entities/shanghaimaglev/"
+  },
   "ShanghaiStockExchange": {
     "title": "Shanghai Stock Exchange",
     "url": "/wiki/entities/shanghaistockexchange/"
@@ -22134,6 +22214,10 @@
   "SidewalkDeliveryRobots": {
     "title": "Sidewalk Delivery Robots",
     "url": "/wiki/concepts/sidewalkdeliveryrobots/"
+  },
+  "Siemens": {
+    "title": "Siemens / 西门子",
+    "url": "/wiki/entities/siemens/"
   },
   "SiemensEDA": {
     "title": "Siemens EDA / 西门子EDA",
@@ -23222,6 +23306,10 @@
   "Stripe": {
     "title": "Stripe",
     "url": "/wiki/entities/stripe/"
+  },
+  "StrongmanInfrastructureGovernance": {
+    "title": "Strongman Infrastructure Governance",
+    "url": "/wiki/concepts/strongmaninfrastructuregovernance/"
   },
   "StructuralHealthMonitoring": {
     "title": "Structural Health Monitoring",
@@ -25847,6 +25935,10 @@
     "title": "Wenxin",
     "url": "/wiki/entities/wenxin/"
   },
+  "WenzhouTrainCollision": {
+    "title": "Wenzhou Train Collision / 723温州动车事故",
+    "url": "/wiki/entities/wenzhoutraincollision/"
+  },
   "WesHarrell": {
     "title": "Wes Harrell",
     "url": "/wiki/entities/wesharrell/"
@@ -25898,6 +25990,10 @@
   "WheelBasedDualArmRobots": {
     "title": "Wheel-Based Dual-Arm Robots",
     "url": "/wiki/concepts/wheelbaseddualarmrobots/"
+  },
+  "WheelRailVsMaglev": {
+    "title": "Wheel-Rail vs Maglev",
+    "url": "/wiki/concepts/wheelrailvsmaglev/"
   },
   "WhistleblowerEvidenceDiscipline": {
     "title": "Whistleblower Evidence Discipline",
@@ -26442,6 +26538,10 @@
   "XuHongliang": {
     "title": "徐鸿亮 / Tom",
     "url": "/wiki/entities/xuhongliang/"
+  },
+  "XuHouguang": {
+    "title": "Xu Houguang / 徐厚广",
+    "url": "/wiki/entities/xuhouguang/"
   },
   "XuHuazhe": {
     "title": "Xu Huazhe",
@@ -27002,6 +27102,10 @@
   "ZhangShaofeng": {
     "title": "Zhang Shaofeng",
     "url": "/wiki/entities/zhangshaofeng/"
+  },
+  "ZhangShuguangRailway": {
+    "title": "Zhang Shuguang / 张曙光",
+    "url": "/wiki/entities/zhangshuguangrailway/"
   },
   "ZhangWuchang": {
     "title": "张五常",
@@ -28034,6 +28138,10 @@
   "no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500": {
     "title": "No.200 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法",
     "url": "/wiki/sources/no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500/"
+  },
+  "no-201-zhongguo-gaotie-jianshi-976314772": {
+    "title": "No.201 中国高铁简史",
+    "url": "/wiki/sources/no-201-zhongguo-gaotie-jianshi-976314772/"
   },
   "no-203-businiao-lanshili-979295393": {
     "title": "No.203 \\\"不死鸟\\\"兰世立",
