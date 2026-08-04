@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.202 盛大的盛大，传奇的传奇 | 中国互联网故事20](sources/no-202-shengdade-shengda-chuanqide-chuanqi-zhongguo-hulianwang-gushi-20-977833518.md) — 半拿铁 episode on Shanda, Chen Tianqiao, Legend, internet-cafe point-card distribution, online-game social organization, IP rights, private servers, Shanda Box, Shanda Literature, and founder health stop signs.
 - [No.201 中国高铁简史](sources/no-201-zhongguo-gaotie-jianshi-976314772.md) — 半拿铁 episode on China's high-speed rail from the Jinghu route debate, maglev versus wheel-rail, EMU procurement and technology transfer to Liu Zhijun, corruption, Wenzhou accident, Fuxinghao, and CR450.
 - [No.199 自行车 200年](sources/no-199-zixingche-200-nian-973489465.md) — 半拿铁 episode on bicycle history from Drais and safety bicycles to patent power, road lobbying, China's 凤永飞 era, shared-bike manufacturing shock, Shimano components, and E-bike opportunities.
 - [番外 14：跟李诞聊聊播客、创作、AI 与中年](sources/fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552.md) — 半拿铁 special episode with 李诞 on Chinese podcasting, Banlatte's workflow, voice intimacy, brand podcasts, AI learning and creation, and middle-age technology memory.
@@ -655,6 +656,26 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Shanda / 盛大](entities/Shanda.md) — Early Chinese internet and online-game company that turned Legend into a full operating stack before attempting a broader entertainment-platform strategy.
+- [《传奇》 / Legend of Mir](entities/LegendOfMir.md) — Korean MMORPG whose China operation by Shanda became a defining early online-game commercialization and IP-long-tail case.
+- [Actozsoft](entities/Actozsoft.md) — Korean Legend rights holder whose relationship with Shanda and WeMade anchors the episode's long IP-dispute branch.
+- [WeMade](entities/WeMade.md) — Korean game company tied to Legend development, China licensing, and later Kaiying Network settlement disputes.
+- [Chen Danian / 陈大年](entities/ChenDanian.md) — Shanda cofounder and Chen Tianqiao's younger brother, later central to Shanda Innovation Institute and Wi-Fi Master Key.
+- [Luo Qianqian / 雒芊芊](entities/LuoQianqian.md) — Chen Tianqiao's spouse and early partner, later linked to the Chen Tianqiao and Luo Qianqian neuroscience philanthropy branch.
+- [Tang Jun / 唐骏](entities/TangJun.md) — Professional manager brought into Shanda around its listing, used by the episode to show executive-brand and capital-market credibility culture.
+- [Shanda Literature / 盛大文学](entities/ShandaLiterature.md) — Shanda's web-fiction platform group, built around Qidian and later merged into Yuewen Group.
+- [Qidian / 起点中文网](entities/Qidian.md) — Core web-fiction asset inside Shanda Literature and a durable content-platform legacy from Shanda's entertainment strategy.
+- [Yuewen Group / 阅文集团](entities/YuewenGroup.md) — Later web-fiction company formed from Shanda Literature and Tencent Literature, preserving part of Shanda's content-platform legacy.
+- [Shanda Box / 盛大盒子](entities/ShandaBox.md) — Shanda's living-room entertainment device and clearest case of a strategically early but commercially mistimed product.
+- [Haofang / 浩方](entities/Haofang.md) — Shanda-acquired multiplayer battle platform that fit the company's wider game-community and entertainment-portal ambitions.
+- [Bianfeng / 边锋](entities/Bianfeng.md) — Shanda-acquired casual chess/card platform later sold as part of the company's asset retreat.
+- [Ku6 / 酷六](entities/Ku6.md) — Video-platform branch in Shanda's content expansion, early listed but unable to sustain long-term relevance.
+- [Shanda Games / 盛大游戏](entities/ShandaGames.md) — Shanda's game-business entity, later separated and restructured into Century Huatong before the Shengqu Games name.
+- [Shanda Innovation Institute / 盛大创新院](entities/ShandaInnovationInstitute.md) — Shanda's high-talent incubation organization behind projects such as Bambook, cloud products, and Wi-Fi Master Key.
+- [Wi-Fi Master Key / Wi-Fi 万能钥匙](entities/WiFiMasterKey.md) — Later mobile-internet project legacy associated with Shanda Innovation Institute and Chen Danian.
+- [Kaiying Network / 凯英网络](entities/KaiyingNetwork.md) — Later Legend mobile/license participant whose WeMade settlement illustrates the IP's long legal and commercial afterlife.
+- [Century Huatong / 世纪华通](entities/CenturyHuatong.md) — A-share company that took over Shanda Games, turning the old game business into a capital-market asset.
+- [Sina / 新浪](entities/Sina.md) — Portal company targeted by Shanda's 2005 stake purchase, tied to Chen Tianqiao's search for a broader entertainment entry point.
 - [Ministry of Railways (China) / 中国铁道部](entities/MinistryOfRailwaysChina.md) — Railway ministry that concentrated planning, procurement, operation, and high-speed-rail buildout before the 2013 split.
 - [China Railway Corporation / 中国铁路总公司](entities/ChinaRailwayCorporation.md) — Post-2013 operating successor associated with Fuxinghao and Chinese Standard EMU standardization.
 - [Liu Zhijun / 刘志军](entities/LiuZhijun.md) — Railway minister whose high-pressure execution accelerated Chinese high-speed rail while exposing corruption and labor-cost risks.
@@ -3854,7 +3875,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alphabet](entities/Alphabet.md) — Hyperscaler in the episode's $660bn AI capex cluster alongside Amazon, Meta, and Microsoft.
 - [硅谷101](entities/SiliconValley101.md) — Podcast/show context for AI-era higher education, CAR-T, AI film, Silicon Valley politics, restaurant globalization, B2B agents, Nvidia infrastructure, robotics, and enterprise agents.
 - [Apodex](entities/Apodex.md) — Chen Tianqiao-backed AI company in the source focused on Heavy Duty Solver and Discovery Model work rather than consumer generation products.
-- [Chen Tianqiao](entities/ChenTianqiao.md) — Strategic figure behind Apodex, described as shaping company direction and model constitution around truthfulness and hard-problem solving.
+- [Chen Tianqiao](entities/ChenTianqiao.md) — Shanda founder behind Legend's early online-game commercialization, later connected to illness-driven life reset, neuroscience philanthropy, investment, and Apodex.
 - [Du Shaolei](entities/DuShaolei.md) — Apodex chief scientist for training and inference, discussing Deep Research, long-horizon reasoning, verification, and research taste.
 - [Li Beibin](entities/LiBeibin.md) — Apodex chief scientist for code and self-evolution, linking coding, post-training loops, verification, and recursive self-improvement risk.
 - [Duan Yongping](entities/DuanYongping.md) — Investor example used in EP90 for disciplined put selling and covered-call-style position management.
@@ -4190,7 +4211,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Baidu](entities/Baidu.md) — Chinese search and AI company discussed through search-ad decline, open-web traffic loss, Wenxin, Qunar, and the Wei Zexi medical-search trust crisis.
 - [Bairong Intelligence](entities/BairongIntelligence.md) — Enterprise AI company using and selling digital employees through AI staffing, AI BPO, professional-service platforms, and silicon-carbon governance.
 - [Bank of Japan](entities/BankOfJapan.md) — Central bank whose tightening and yen effects are discussed as triggers for yen carry trade stress and Japanese equity volatility.
-- [半拿铁](entities/Banlatte.md) — Business-history podcast/show context now also covering its own research-heavy production workflow, podcast intimacy, commerce, and middle-age technology memory.
+- [半拿铁](entities/Banlatte.md) — Business-history podcast/show context covering China internet, infrastructure, regional commerce, private enterprise, product history, and its own podcast-production method.
 - [Berkshire Hathaway](entities/BerkshireHathaway.md) — Warren Buffett's investment company discussed through Apple reduction, high cash, valuation caution, market sentiment, and Munger/Buffett consumer-brand cases.
 - [Bitcoin](entities/Bitcoin.md) — Cryptocurrency asset discussed through trading, scarcity, safe-haven behavior, consumer confidence, regulated access, and Lugano's everyday-payment experiment.
 - [Bird Mobile](entities/BirdMobile.md) — First-generation Chinese domestic handset brand remembered for licenses, local channels, celebrity marketing, and the "手机中的战斗机" slogan.
@@ -4462,6 +4483,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese Online Game Commercialization](concepts/ChineseOnlineGameCommercialization.md) — Business-system pattern where a hit online game needs rights, servers, bandwidth, internet-cafe channels, prepaid cards, service, community, and capital.
+- [Internet-Cafe Point-Card Distribution](concepts/InternetCafePointCardDistribution.md) — Offline-to-online acquisition and payment channel that let early Chinese online games scale before app stores or mobile payment.
+- [Online Game Social Organization](concepts/OnlineGameSocialOrganization.md) — Multiplayer retention mechanism where guilds, PK, scarce equipment, siege warfare, status, and virtual property bind players into durable groups.
+- [Game IP Long Tail](concepts/GameIPLongTail.md) — Capacity of a game brand and ruleset to keep producing revenue through nostalgia, licenses, variants, and legal control after the original cycle.
+- [Online Game Private-Server Ecosystem](concepts/OnlineGamePrivateServerEcosystem.md) — Gray-market unofficial-server field that can damage official revenue while extending gameplay variants and IP memory.
+- [Free-to-Play Game Monetization](concepts/FreeToPlayGameMonetization.md) — Shift from paid access or time cards toward free access plus items, privileges, convenience, or other in-game value.
+- [Family Internet Portal Strategy](concepts/FamilyInternetPortalStrategy.md) — Shanda's attempt to aggregate games, literature, video, music, and services through a living-room entertainment entry point.
+- [Founder Vision-Timing Mismatch](concepts/FounderVisionTimingMismatch.md) — Gap between correctly seeing a future market and being too early for the technical, regulatory, product, or organizational conditions.
+- [Founder Health Stop Sign](concepts/FounderHealthStopSign.md) — Frame for health crisis forcing a founder to interrupt ambition and redirect work, wealth, and purpose.
+- [Online Game IP Rights Disputes](concepts/OnlineGameIPRightsDisputes.md) — Legal and commercial conflicts over game development rights, operating licenses, regional rights, derivatives, and revenue shares.
 - [Chinese High-Speed Rail](concepts/ChineseHighSpeedRail.md) — Full-system account of China's high-speed rail as demand, planning, procurement, manufacturing learning, standards, labor, safety, and governance.
 - [Wheel-Rail vs Maglev](concepts/WheelRailVsMaglev.md) — Technology-route dispute between mature wheel-rail scalability and faster but isolated magnetic-levitation ambition.
 - [Procurement-Led Technology Transfer](concepts/ProcurementLedTechnologyTransfer.md) — Industrial-policy mechanism where concentrated public orders force price, branding, local assembly, and technology-transfer concessions.

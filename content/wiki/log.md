@@ -5229,6 +5229,14 @@ Ran lint. See lint-report.md for details.
 
 Added source page for a 半拿铁 episode on Chinese high-speed rail from the late-1970s railway gap, 京沪 route debate, magnetic-levitation versus wheel-rail choice, domestic EMU experiments, 2004 procurement-led technology transfer, Hexiehao, system integration, Liu Zhijun-era governance, corruption, 723 Wenzhou accident, Fuxinghao, Chinese Standard EMU, CR450, and later maglev work. Created pages for Ministry of Railways (China), China Railway Corporation, Liu Zhijun, Zhang Shuguang, Ding Shumiao, Xu Houguang, Kawasaki Heavy Industries, Alstom, Siemens, Bombardier, CRRC, Hexiehao, Fuxinghao, CR450, Shanghai Maglev, Beijing-Shanghai High-Speed Railway, Beijing-Tianjin Intercity Railway, Wenzhou Train Collision, Chinese High-Speed Rail, Wheel-Rail vs Maglev, Procurement-Led Technology Transfer, High-Speed Rail System Integration, Strongman Infrastructure Governance, Infrastructure Labor Burden, High-Speed Rail Safety Trust, and Chinese Standard EMU; updated overview, index, Banlatte, China, Engineering State, Infrastructure Malinvestment, Strategic Industrial Policy, Government Enterprise Procurement, Supply Chain Sovereignty, and Precision Manufacturing As Strategy. No direct contradiction found; the source extends existing infrastructure and industrial-policy themes by showing how concentrated procurement and state execution can create capability while also creating labor, corruption, safety, and trust costs.
 
+## [2026-08-04] ingest | No.202 盛大的盛大，传奇的传奇 | 中国互联网故事20
+
+Added source page for a 半拿铁 episode on Shanda, Chen Tianqiao, Legend, early Chinese online-game commercialization, internet-cafe point-card distribution, online-game social organization, Actoz/WeMade IP disputes, private servers, free-to-play monetization, Shanda Box, Shanda Literature, Shanda Games, Century Huatong, Shanda Innovation Institute, Wi-Fi Master Key, and Chen's health-driven stop sign. Created pages for Shanda, Legend of Mir, Actozsoft, WeMade, Chen Danian, Luo Qianqian, Tang Jun, Shanda Literature, Qidian, Yuewen Group, Shanda Box, Haofang, Bianfeng, Ku6, Shanda Games, Shanda Innovation Institute, Wi-Fi Master Key, Kaiying Network, Century Huatong, Sina, Chinese Online Game Commercialization, Internet-Cafe Point-Card Distribution, Online Game Social Organization, Game IP Long Tail, Online Game Private-Server Ecosystem, Free-to-Play Game Monetization, Family Internet Portal Strategy, Founder Vision-Timing Mismatch, Founder Health Stop Sign, and Online Game IP Rights Disputes; updated overview, index, Banlatte, and Chen Tianqiao. No direct contradiction found; the source extends the existing Apodex-era Chen Tianqiao page backward into his Shanda/Legend history and forward into the health, philanthropy, and hard-problem arc.
+
+## [2026-08-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-08-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

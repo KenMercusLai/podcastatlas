@@ -1611,6 +1611,10 @@
     "title": "Actor-Observer Bias / 行动者-观察者偏差",
     "url": "/wiki/concepts/actorobserverbias/"
   },
+  "Actozsoft": {
+    "title": "Actozsoft",
+    "url": "/wiki/entities/actozsoft/"
+  },
   "AdWords": {
     "title": "AdWords",
     "url": "/wiki/entities/adwords/"
@@ -3723,6 +3727,10 @@
     "title": "Beverage Category Convergence",
     "url": "/wiki/concepts/beveragecategoryconvergence/"
   },
+  "Bianfeng": {
+    "title": "Bianfeng / 边锋",
+    "url": "/wiki/entities/bianfeng/"
+  },
   "Bibigo": {
     "title": "Bibigo",
     "url": "/wiki/entities/bibigo/"
@@ -4891,6 +4899,10 @@
     "title": "Centurium Capital / 大钲资本",
     "url": "/wiki/entities/centuriumcapital/"
   },
+  "CenturyHuatong": {
+    "title": "Century Huatong / 世纪华通",
+    "url": "/wiki/entities/centuryhuatong/"
+  },
   "Cerebras": {
     "title": "Cerebras",
     "url": "/wiki/entities/cerebras/"
@@ -5035,6 +5047,10 @@
     "title": "Chen Congzhou / 陈从周",
     "url": "/wiki/entities/chencongzhou/"
   },
+  "ChenDanian": {
+    "title": "Chen Danian / 陈大年",
+    "url": "/wiki/entities/chendanian/"
+  },
   "ChenDiexian": {
     "title": "陈迭仙",
     "url": "/wiki/entities/chendiexian/"
@@ -5056,7 +5072,7 @@
     "url": "/wiki/entities/chenkaige/"
   },
   "ChenTianqiao": {
-    "title": "Chen Tianqiao",
+    "title": "Chen Tianqiao / 陈天桥",
     "url": "/wiki/entities/chentianqiao/"
   },
   "ChenYinke": {
@@ -5310,6 +5326,10 @@
   "ChineseMysteryPublishingEcology": {
     "title": "国产推理出版生态 / Chinese Mystery Publishing Ecology",
     "url": "/wiki/concepts/chinesemysterypublishingecology/"
+  },
+  "ChineseOnlineGameCommercialization": {
+    "title": "Chinese Online Game Commercialization",
+    "url": "/wiki/concepts/chineseonlinegamecommercialization/"
   },
   "ChinesePlayerOverseasArbitrage": {
     "title": "Chinese Player Overseas Arbitrage",
@@ -8867,6 +8887,10 @@
     "title": "Family Ethics At End Of Life",
     "url": "/wiki/concepts/familyethicsatendoflife/"
   },
+  "FamilyInternetPortalStrategy": {
+    "title": "Family Internet Portal Strategy",
+    "url": "/wiki/concepts/familyinternetportalstrategy/"
+  },
   "FamilyLaborBoundaries": {
     "title": "Family Labor Boundaries",
     "url": "/wiki/concepts/familylaborboundaries/"
@@ -9599,6 +9623,10 @@
     "title": "Founder Health Debt",
     "url": "/wiki/concepts/founderhealthdebt/"
   },
+  "FounderHealthStopSign": {
+    "title": "Founder Health Stop Sign",
+    "url": "/wiki/concepts/founderhealthstopsign/"
+  },
   "FounderHonesty": {
     "title": "Founder Honesty",
     "url": "/wiki/concepts/founderhonesty/"
@@ -9706,6 +9734,10 @@
   "FounderUserObsession": {
     "title": "Founder User Obsession",
     "url": "/wiki/concepts/founderuserobsession/"
+  },
+  "FounderVisionTimingMismatch": {
+    "title": "Founder Vision-Timing Mismatch",
+    "url": "/wiki/concepts/foundervisiontimingmismatch/"
   },
   "FounderWorkBoundaries": {
     "title": "Founder Work Boundaries",
@@ -9818,6 +9850,10 @@
   "FreeServiceHiddenCost": {
     "title": "Free Service Hidden Cost / 免费服务隐性成本",
     "url": "/wiki/concepts/freeservicehiddencost/"
+  },
+  "FreeToPlayGameMonetization": {
+    "title": "Free-to-Play Game Monetization",
+    "url": "/wiki/concepts/freetoplaygamemonetization/"
   },
   "FreeTradeDistributionalCost": {
     "title": "Free Trade Distributional Cost",
@@ -10098,6 +10134,10 @@
   "GalvanicReanimationImaginary": {
     "title": "Galvanic Reanimation Imaginary / 伽伐尼式复活想象",
     "url": "/wiki/concepts/galvanicreanimationimaginary/"
+  },
+  "GameIPLongTail": {
+    "title": "Game IP Long Tail",
+    "url": "/wiki/concepts/gameiplongtail/"
   },
   "GameMechanicToRetailProduct": {
     "title": "Game Mechanic To Retail Product",
@@ -11130,6 +11170,10 @@
   "Haodf": {
     "title": "好大夫在线",
     "url": "/wiki/entities/haodf/"
+  },
+  "Haofang": {
+    "title": "Haofang / 浩方",
+    "url": "/wiki/entities/haofang/"
   },
   "Haoge": {
     "title": "浩哥 / Haoge",
@@ -12483,6 +12527,10 @@
     "title": "Internet Blackout Public-Safety Risk",
     "url": "/wiki/concepts/internetblackoutpublicsafetyrisk/"
   },
+  "InternetCafePointCardDistribution": {
+    "title": "Internet-Cafe Point-Card Distribution",
+    "url": "/wiki/concepts/internetcafepointcarddistribution/"
+  },
   "InternetHealthcare": {
     "title": "Internet Healthcare",
     "url": "/wiki/concepts/internethealthcare/"
@@ -13671,6 +13719,10 @@
     "title": "Kaiwuji",
     "url": "/wiki/entities/kaiwuji/"
   },
+  "KaiyingNetwork": {
+    "title": "Kaiying Network / 凯英网络",
+    "url": "/wiki/entities/kaiyingnetwork/"
+  },
   "Kakapo": {
     "title": "Kakapo / 宵鹦鹉",
     "url": "/wiki/entities/kakapo/"
@@ -14022,6 +14074,10 @@
   "KroenkeSportsEntertainment": {
     "title": "Kroenke Sports & Entertainment",
     "url": "/wiki/entities/kroenkesportsentertainment/"
+  },
+  "Ku6": {
+    "title": "Ku6 / 酷六",
+    "url": "/wiki/entities/ku6/"
   },
   "Kuaishou": {
     "title": "Kuaishou",
@@ -14406,6 +14462,10 @@
   "LegendBiotech": {
     "title": "Legend Biotech / 南京传奇",
     "url": "/wiki/entities/legendbiotech/"
+  },
+  "LegendOfMir": {
+    "title": "《传奇》 / Legend of Mir",
+    "url": "/wiki/entities/legendofmir/"
   },
   "LegionNovel": {
     "title": "Legion",
@@ -15282,6 +15342,10 @@
   "LuoFuli": {
     "title": "Luo Fuli / 罗福莉",
     "url": "/wiki/entities/luofuli/"
+  },
+  "LuoQianqian": {
+    "title": "Luo Qianqian / 雒芊芊",
+    "url": "/wiki/entities/luoqianqian/"
   },
   "LuoXiang": {
     "title": "罗翔 / Luo Xiang",
@@ -17939,6 +18003,18 @@
     "title": "Online Appointment Registration",
     "url": "/wiki/concepts/onlineappointmentregistration/"
   },
+  "OnlineGameIPRightsDisputes": {
+    "title": "Online Game IP Rights Disputes",
+    "url": "/wiki/concepts/onlinegameiprightsdisputes/"
+  },
+  "OnlineGamePrivateServerEcosystem": {
+    "title": "Online Game Private-Server Ecosystem",
+    "url": "/wiki/concepts/onlinegameprivateserverecosystem/"
+  },
+  "OnlineGameSocialOrganization": {
+    "title": "Online Game Social Organization",
+    "url": "/wiki/concepts/onlinegamesocialorganization/"
+  },
   "OnlineGoldAccumulation": {
     "title": "Online Gold Accumulation",
     "url": "/wiki/concepts/onlinegoldaccumulation/"
@@ -19979,6 +20055,10 @@
     "title": "Qiaopi Remittance Networks",
     "url": "/wiki/concepts/qiaopiremittancenetworks/"
   },
+  "Qidian": {
+    "title": "Qidian / 起点中文网",
+    "url": "/wiki/entities/qidian/"
+  },
   "QilinRansomwareGroup": {
     "title": "Qilin Ransomware Group",
     "url": "/wiki/entities/qilinransomwaregroup/"
@@ -21919,6 +21999,26 @@
     "title": "Shanbin",
     "url": "/wiki/entities/shanbin/"
   },
+  "Shanda": {
+    "title": "Shanda / 盛大",
+    "url": "/wiki/entities/shanda/"
+  },
+  "ShandaBox": {
+    "title": "Shanda Box / 盛大盒子",
+    "url": "/wiki/entities/shandabox/"
+  },
+  "ShandaGames": {
+    "title": "Shanda Games / 盛大游戏",
+    "url": "/wiki/entities/shandagames/"
+  },
+  "ShandaInnovationInstitute": {
+    "title": "Shanda Innovation Institute / 盛大创新院",
+    "url": "/wiki/entities/shandainnovationinstitute/"
+  },
+  "ShandaLiterature": {
+    "title": "Shanda Literature / 盛大文学",
+    "url": "/wiki/entities/shandaliterature/"
+  },
   "ShandongLunengFootballSchool": {
     "title": "山东鲁能足校 / Shandong Luneng Football School",
     "url": "/wiki/entities/shandonglunengfootballschool/"
@@ -22278,6 +22378,10 @@
   "SimplyInsured": {
     "title": "Simply Insured",
     "url": "/wiki/entities/simplyinsured/"
+  },
+  "Sina": {
+    "title": "Sina / 新浪",
+    "url": "/wiki/entities/sina/"
   },
   "SincerityAgainstSocialHypocrisy": {
     "title": "Sincerity Against Social Hypocrisy / 以真诚抵抗社会虚伪",
@@ -23746,6 +23850,10 @@
   "TangHui": {
     "title": "唐辉 / Tang Hui",
     "url": "/wiki/entities/tanghui/"
+  },
+  "TangJun": {
+    "title": "Tang Jun / 唐骏",
+    "url": "/wiki/entities/tangjun/"
   },
   "TangMiscellanyArchiveValue": {
     "title": "Tang Miscellany Archive Value",
@@ -25859,6 +25967,10 @@
     "title": "微医 / 挂号网",
     "url": "/wiki/entities/wedoctor/"
   },
+  "WeMade": {
+    "title": "WeMade",
+    "url": "/wiki/entities/wemade/"
+  },
   "WePay": {
     "title": "WePay",
     "url": "/wiki/entities/wepay/"
@@ -26046,6 +26158,10 @@
   "WhyWeSleep": {
     "title": "我们为什么要睡觉 / Why We Sleep",
     "url": "/wiki/entities/whywesleep/"
+  },
+  "WiFiMasterKey": {
+    "title": "Wi-Fi Master Key / Wi-Fi 万能钥匙",
+    "url": "/wiki/entities/wifimasterkey/"
   },
   "WildAnimalRescueResponsibility": {
     "title": "Wild-Animal Rescue Responsibility",
@@ -26962,6 +27078,10 @@
   "YuebanDongli": {
     "title": "Yueban Dongli",
     "url": "/wiki/entities/yuebandongli/"
+  },
+  "YuewenGroup": {
+    "title": "Yuewen Group / 阅文集团",
+    "url": "/wiki/entities/yuewengroup/"
   },
   "YunLei": {
     "title": "运雷",
@@ -28142,6 +28262,10 @@
   "no-201-zhongguo-gaotie-jianshi-976314772": {
     "title": "No.201 中国高铁简史",
     "url": "/wiki/sources/no-201-zhongguo-gaotie-jianshi-976314772/"
+  },
+  "no-202-shengdade-shengda-chuanqide-chuanqi-zhongguo-hulianwang-gushi-20-977833518": {
+    "title": "No.202 盛大的盛大，传奇的传奇 | 中国互联网故事20",
+    "url": "/wiki/sources/no-202-shengdade-shengda-chuanqide-chuanqi-zhongguo-hulianwang-gushi-20-977833518/"
   },
   "no-203-businiao-lanshili-979295393": {
     "title": "No.203 \\\"不死鸟\\\"兰世立",

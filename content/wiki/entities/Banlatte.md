@@ -2,11 +2,13 @@
 title: "半拿铁"
 type: entity
 tags: [podcast, media, business-history]
-sources: [no-201-zhongguo-gaotie-jianshi-976314772, no-199-zixingche-200-nian-973489465, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, no-203-businiao-lanshili-979295393, no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918, no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
+sources: [no-202-shengdade-shengda-chuanqide-chuanqi-zhongguo-hulianwang-gushi-20-977833518, no-201-zhongguo-gaotie-jianshi-976314772, no-199-zixingche-200-nian-973489465, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, no-203-businiao-lanshili-979295393, no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918, no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
 last_updated: 2026-08-04
 ---
 
 # 半拿铁
+
+[[no-202-shengdade-shengda-chuanqide-chuanqi-zhongguo-hulianwang-gushi-20-977833518]] adds Banlatte's [[Shanda|盛大]] and [[LegendOfMir|《传奇》]] branch within the China internet history series. The episode uses [[ChenTianqiao]] to connect early [[ChineseOnlineGameCommercialization]], [[InternetCafePointCardDistribution]], [[OnlineGameSocialOrganization]], [[OnlineGameIPRightsDisputes]], [[GameIPLongTail]], [[ShandaBox|盛大盒子]], [[ShandaLiterature|盛大文学]], and [[FounderHealthStopSign]] into one founder/company arc.
 
 [[no-201-zhongguo-gaotie-jianshi-976314772]] adds Banlatte's Chinese high-speed-rail branch. The episode uses [[ChineseHighSpeedRail]], [[JinghuHighSpeedRail]], [[WheelRailVsMaglev]], [[MinistryOfRailwaysChina]], [[LiuZhijun]], [[ProcurementLedTechnologyTransfer]], [[Hexiehao]], [[Fuxinghao]], [[CR450]], and the [[WenzhouTrainCollision]] to connect industrial policy, railway system integration, strong execution, corruption, labor burden, and safety trust.
 
@@ -31,6 +33,7 @@ last_updated: 2026-08-04
 [[no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]] adds Banlatte's online-video-history branch. The episode connects VCDs, local players, [[P2PStreaming]], [[Youku]], [[Tudou]], [[IQIYI]], [[TencentVideo]], [[MangoTV]], and [[Douyin]]/[[Hongguo]] pressure into one media-platform story about technology, copyright, membership, capital, and creator supply.
 
 ## Source Position
+- The Shanda episode shows Banlatte's China internet history method at company scale: it combines founder biography, product mechanics, offline channel construction, capital-market events, copyright disputes, social controversy, and later personal aftermath.
 - The episode treats mobile phones as an infrastructural and cultural bridge between PC-era internet and mobile internet.
 - Its method is business history: the story moves between [[Motorola]], [[Nokia]], [[Ericsson]], Chinese domestic brands, [[MediaTek]], and [[Huaqiangbei]] rather than focusing only on product nostalgia.
 - The source's "上" structure ends before the later Meizu, Huawei, OPPO, vivo, and Xiaomi smartphone era, so those companies are mostly foreshadowed rather than analyzed.
@@ -46,6 +49,7 @@ last_updated: 2026-08-04
 - The high-speed-rail episode applies the same business-history method to national infrastructure: route debates, centralized procurement, foreign platform absorption, standardization, debt, corruption, labor pressure, and accident response all shape the final system.
 
 ## Connections
+- [[Shanda|盛大]], [[LegendOfMir|《传奇》]], [[ChenTianqiao]], [[ChineseOnlineGameCommercialization]], [[InternetCafePointCardDistribution]], [[OnlineGameSocialOrganization]], [[GameIPLongTail]], [[OnlineGamePrivateServerEcosystem]], [[FamilyInternetPortalStrategy]], and [[FounderHealthStopSign]] — Shanda/Legend branch added by episode 202.
 - [[ChineseHighSpeedRail]], [[WheelRailVsMaglev]], [[ProcurementLedTechnologyTransfer]], [[HighSpeedRailSystemIntegration]], [[StrongmanInfrastructureGovernance]], [[InfrastructureLaborBurden]], [[HighSpeedRailSafetyTrust]], and [[ChineseStandardEMU]] — high-speed-rail branch added by episode 201.
 - [[MinistryOfRailwaysChina]], [[LiuZhijun]], [[ZhangShuguangRailway]], [[DingShumiao]], [[Hexiehao]], [[Fuxinghao]], [[CR450]], [[ShanghaiMaglev]], [[JinghuHighSpeedRail]], and [[WenzhouTrainCollision]] — railway institutions, figures, products, and events from episode 201.
 - [[BicycleProductEvolution]], [[BicycleCapitalBubble]], [[BicycleIndustrialSpillovers]], [[ChinaBicycleShortageEconomy]], [[SharedBikeManufacturingShock]], [[BicycleComponentStackPower]], and [[EBikeValueChainShift]] — bicycle-industry branch added by episode 199.
