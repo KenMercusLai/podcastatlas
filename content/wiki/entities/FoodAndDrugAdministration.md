@@ -2,8 +2,8 @@
 title: "Food and Drug Administration"
 type: entity
 tags: [organization, regulator, healthcare, food, drugs]
-sources: [tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [a-trip-to-the-magic-mushroom-megachurch, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
+last_updated: 2026-08-04
 ---
 
 # Food and Drug Administration
@@ -13,6 +13,8 @@ The Food and Drug Administration appears in [[why-is-there-a-supplement-craze-if
 [[e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]] adds a drug-regulation context through [[CARTCellTherapy|CAR-T]]. [[LiuCheng|刘诚]] says the U.S. ultimately treated CAR-T as a drug rather than only as a medical technology, which made it subject to drug-style FDA review and safety labeling. The source also uses FDA approval thresholds and early CD19 CAR-T black-box-warning context to show why efficacy, manufacturing, and [[CytokineReleaseSyndrome|immune toxicity]] have to be evaluated together.
 
 [[tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]] adds a gray-market peptide version. [[JasmineSun]] says users may buy injectable compounds as research chemicals from suppliers not held to FDA-approved manufacturing standards, even when the substances are personally injected and labeled "not for human use." The source makes FDA approval a practical boundary around evidence, contents, manufacturing, labeling, and clinical oversight rather than a mere bureaucratic delay.
+
+[[a-trip-to-the-magic-mushroom-megachurch]] adds the FDA as a possible future clinical-trial pathway rather than the main current regulator. [[JohnRapp]] hopes psilocybin will move through FDA clinical trials, which contrasts with the source's central religious-exemption route through the [[DrugEnforcementAdministration]] and [[ControlledSubstancesAct]].
 
 The episode also uses the FDA in the [[Prevagen]] story. According to the source, the agency questioned whether the jellyfish-protein ingredient met the relevant safety threshold and later questioned [[NeuroShake]], but the company still used [[GRASSelfCertification]] to move through the food-to-supplement pathway described by [[MelanieBenish]].
 
@@ -25,6 +27,7 @@ The episode also uses the FDA in the [[Prevagen]] story. According to the source
 ## Connections
 - [[DietarySupplementHealthAndEducationAct]] - legal frame limiting FDA supplement oversight.
 - [[GrayMarketPeptides]], [[ResearchChemicalLoophole]], and [[GLP1Agonists]] - peptide and research-chemical boundary added by Marketplace Tech.
+- [[PsilocybinMushrooms]], [[MedicalRiskManagement]], [[DrugEnforcementAdministration]], and [[ControlledSubstancesAct]] - psychedelic trial-versus-religious-exemption contrast added by Planet Money.
 - [[SupplementStructureFunctionClaims]] - claim category that avoids drug-like disease language.
 - [[GRASSelfCertification]] - food-law route described in the Prevagen case.
 - [[Prevagen]] and [[NeuroShake]] - source case where FDA concerns did not quickly remove the product from the market.

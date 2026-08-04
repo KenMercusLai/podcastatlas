@@ -2,8 +2,8 @@
 title: "California"
 type: entity
 tags: [place, state, privacy, legislation, wildfire, climate, construction]
-sources: [tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [a-trip-to-the-magic-mushroom-megachurch, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]
+last_updated: 2026-08-04
 ---
 
 # California
@@ -15,6 +15,8 @@ last_updated: 2026-07-25
 [[tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]] adds California as [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]]' operating geography. [[AmyScott]] visits Heirloom in Brisbane, and the episode says the company's first [[DirectAirCapture]] facility in Tracy can remove about 1,000 tons of CO2 per year.
 
 California appears in [[tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]] as one of the states whose attorneys general are suing [[Meta]] over alleged addictive design, hidden harms, and children's privacy violations. The episode also describes the case as heading to court in Oakland, California, making the state part of [[StateAGPlatformLitigation]] as well as the wiki's existing privacy-law branch.
+
+[[a-trip-to-the-magic-mushroom-megachurch]] adds California as the state setting for [[ZydorChurch]] in [[OaklandCalifornia]]. The source connects California to [[LocalPsychedelicDecriminalization]], but keeps the state-level and local tolerance distinction separate from federal [[ControlledSubstancesAct]] exposure.
 
 [[tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]] adds California as the jurisdiction for [[CaliforniaAB1709]], a proposed under-16 social-media ban modeled on an [[Australia]] policy. [[AaronMackey]] of the [[ElectronicFrontierFoundation|Electronic Frontier Foundation]] argues that the proposal fits a wider pattern of state child-safety laws running into [[YouthOnlineSpeechRights]] and [[SocialMediaAgeGateSpeechBurden]] objections.
 
@@ -30,6 +32,7 @@ The California case complements [[Montana]]'s role in [[tech-20260302-0302-mp-te
 - [[ClimateAdaptation]] and [[FireTechClimateResilience]] - broader resilience context for the rebuilding episode.
 - [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]], [[DirectAirCapture]], [[CarbonRemoval]], and [[CarbonRemovalCostCurve]] - operating direct-air-capture facility branch added by Marketplace Tech.
 - [[Meta]], [[StateAGPlatformLitigation]], [[SocialMediaProductLiability]], and [[COPPA]] - social-media youth-harm lawsuit context added by Marketplace Tech.
+- [[ZydorChurch]], [[OaklandCalifornia]], [[LocalPsychedelicDecriminalization]], [[PsychedelicChurches]], and [[ControlledSubstancesAct]] - psychedelic church branch added by Planet Money.
 - [[CaliforniaAB1709]], [[AaronMackey]], [[ElectronicFrontierFoundation|Electronic Frontier Foundation]], [[YouthOnlineSpeechRights]], and [[SocialMediaAgeGateSpeechBurden]] - proposed under-16 social-media ban and constitutional objection.
 - [[DeleteRequestAndOptOutPlatform|DROP]] and [[CaliforniaDeleteAct]] - state platform and law.
 - [[ConsumerDataDeletion]] - consumer-side privacy mechanism.

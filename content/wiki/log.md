@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-04] ingest | A trip to the magic mushroom megachurch
+
+Added source page for a Planet Money episode on Zydor Church, psychedelic churches, religious controlled-substance exemptions, and the line between sincere religion, harm reduction, cash donation access, and gray-market drug-law workarounds. Created pages for Zydor Church, Dave Hodges, John Rapp, Church of Ambrosia, Drug Enforcement Administration, Native American Church, Oakland, Psilocybin Mushrooms, DMT, Psychedelic Churches, Religious Controlled-Substance Exemption, Controlled Substances Act, DEA Exemption Process, Myers Test, Sacrament Donation Model, Psychedelic Church Harm Reduction, Local Psychedelic Decriminalization, and High-Dose Psychedelic Practice; updated overview, index, NPR, Planet Money, Supreme Court, United States, California, and Food and Drug Administration. No direct contradiction found; the source extends existing regulatory-boundary and harm-reduction branches while distinguishing local decriminalization, federal illegality, and formal religious exemption.
+
 ## [2026-07-25] ingest | 串台.「你吃香菜吗」女生版：你愿意和性转之后的自己在一起吗？
 
 Added source page for a 蜜獾吃书 crossover with 你吃香菜吗 on whether a person would date a gender-swapped self. Created pages for 你吃香菜吗, 日光派对播客联盟, 小时, 纸造/老爷, 柯子, Gender-Swap Self Thought Experiment, Self-Similarity In Intimacy, Complementary Relationship Support, Emotional Co-Regulation Fit, Relationship Need Diversification, and Sincerity As Relationship Trust; updated overview, index, 蜜獾吃书, 秦总, Female Self-Possession, Information Cocoon, Relationship Optionality, Empathy Boundaries, Social Signal Interpretation, and Self-Feeling Trust. No direct contradiction found; the source extends relationship and self-knowledge branches by treating similarity as lower friction but not automatically healthier than complementary support.
@@ -5184,3 +5188,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-04] lint | Wiki lint check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 7,213 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to an unqualified default model (`claude-3-5-sonnet-latest`) and no provider/key environment variables are configured. Report returned in-session; `wiki/lint-report.md` was not saved.

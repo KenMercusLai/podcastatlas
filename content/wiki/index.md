@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A trip to the magic mushroom megachurch](sources/a-trip-to-the-magic-mushroom-megachurch.md) — Planet Money episode on Zydor Church, psychedelic churches, religious controlled-substance exemptions, the DEA process, cash sacrament donations, and the line between faith, harm reduction, and gray-market access.
 - [串台.「你吃香菜吗」女生版：你愿意和性转之后的自己在一起吗？](sources/chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723.md) — 蜜獾吃书 crossover with 你吃香菜吗 using a gender-swapped-self dating prompt to discuss similarity, complementarity, emotional support, sincerity, and distributing relationship needs across partners and friends.
 - [22.足球经济学：读者不必是球迷](sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427.md) — 蜜獾吃书 episode on 《足球经济学》 / Soccernomics, football as an economics laboratory, analytics, discrimination, manager myths, open talent markets, club finance, event welfare, and publication delay.
 - [21.红与黑：他死于真诚](sources/21-hong-yu-hei-ta-si-yu-zhencheng-569042001.md) — 蜜獾吃书 episode on Stendhal's 《红与黑》, Julien Sorel, class ascent under Restoration France, sincerity, psychological realism, and the two central love relationships.
@@ -649,6 +650,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Zydor Church](entities/ZydorChurch.md) — Oakland psychedelic church using mushrooms and DMT as sacrament while testing the boundary between religion, harm reduction, and federal drug law.
+- [Dave Hodges](entities/DaveHodges.md) — Founder and leader of Zydor Church whose mushroom-vision origin story and donation model anchor the episode's sincerity and commerce tension.
+- [John Rapp](entities/JohnRapp.md) — Lawyer advising psychedelic churches on legal risk, religious-legibility criteria, and controlled-substance exemptions.
+- [Church of Ambrosia](entities/ChurchOfAmbrosia.md) — Broader organization from which Zydor developed, shifting from a marijuana-church origin toward mushroom-centered psychedelic religion.
+- [Drug Enforcement Administration](entities/DrugEnforcementAdministration.md) — U.S. agency whose religious exemption process shapes legal risk for psychedelic churches.
+- [Native American Church](entities/NativeAmericanChurch.md) — Older peyote-exemption precedent used by the episode to frame newer psychedelic church claims.
+- [Oakland, California](entities/OaklandCalifornia.md) — Zydor's city setting and local decriminalization context, also a court setting in Meta platform-liability coverage.
+- [Psilocybin Mushrooms](entities/PsilocybinMushrooms.md) — Central sacramental substance at Zydor, linking high-dose psychedelic practice to federal drug-law risk.
+- [DMT](entities/DMT.md) — Psychedelic substance offered as sacrament at Zydor and tied to the episode's ayahuasca-exemption precedent discussion.
 - [你吃香菜吗](entities/NiChiXiangcaiMa.md) — Podcast/crossover context for the gender-swapped-self relationship debate with 蜜獾吃书.
 - [日光派对播客联盟](entities/RiguangPaidui.md) — Podcast-alliance context named at the start of the 你吃香菜吗 crossover source.
 - [小时](entities/XiaoShiHost.md) — Speaker in the crossover who initially favors a highly similar partner and anchors the sincerity-as-trust branch.
@@ -4389,6 +4399,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Psychedelic Churches](concepts/PsychedelicChurches.md) — Religious organizations using psychoactive substances as sacrament while navigating sincerity, safety, exemption, and gray-market access questions.
+- [Religious Controlled-Substance Exemption](concepts/ReligiousControlledSubstanceExemption.md) — Legal possibility that a religious group may receive protection for sacramental use of otherwise prohibited substances.
+- [Controlled Substances Act](concepts/ControlledSubstancesAct.md) — Federal drug-law frame that keeps psychedelic sacrament risky without exemption despite local tolerance or religious claims.
+- [DEA Exemption Process](concepts/DEAExemptionProcess.md) — Formal but risky route for churches seeking permission to use controlled substances as religious sacrament.
+- [Myers Test](concepts/MyersTest.md) — Religious-legibility framework around leadership, ritual, theology, texts, holidays, and institutional practice.
+- [Sacrament Donation Model](concepts/SacramentDonationModel.md) — Cash donation and membership structure that lets Zydor frame substance access as sacrament rather than ordinary sales.
+- [Psychedelic Church Harm Reduction](concepts/PsychedelicChurchHarmReduction.md) — Defense that psychedelic churches can provide safer access than more dangerous or unsupported drug markets.
+- [Local Psychedelic Decriminalization](concepts/LocalPsychedelicDecriminalization.md) — City-level low-priority enforcement posture that reduces practical risk without changing federal legality.
+- [High-Dose Psychedelic Practice](concepts/HighDosePsychedelicPractice.md) — Zydor's mushroom practice frame where dose supports spiritual seriousness while raising safety and liability questions.
 - [Gender-Swap Self Thought Experiment / 性转自我思想实验](concepts/GenderSwapSelfThoughtExperiment.md) — Relationship prompt that tests whether one wants similarity, complementarity, self-acceptance, or gendered re-evaluation in a partner.
 - [Self-Similarity In Intimacy / 亲密关系中的自我相似](concepts/SelfSimilarityInIntimacy.md) — Argument that a highly similar partner can reduce risk, friction, and explanation burden while also amplifying blind spots.
 - [Complementary Relationship Support / 互补式关系支持](concepts/ComplementaryRelationshipSupport.md) — Relationship frame where difference adds mystery, growth, steadiness, and short-board support without requiring total incompatibility.

@@ -5359,6 +5359,10 @@
     "title": "春雨医生",
     "url": "/wiki/entities/chunyudoctor/"
   },
+  "ChurchOfAmbrosia": {
+    "title": "Church of Ambrosia",
+    "url": "/wiki/entities/churchofambrosia/"
+  },
   "ChurouNoOnna": {
     "title": "《初老的女人》",
     "url": "/wiki/entities/churounoonna/"
@@ -6067,6 +6071,10 @@
     "title": "Controlled Humor With Pain",
     "url": "/wiki/concepts/controlledhumorwithpain/"
   },
+  "ControlledSubstancesAct": {
+    "title": "Controlled Substances Act",
+    "url": "/wiki/concepts/controlledsubstancesact/"
+  },
   "ConvectiveCapital": {
     "title": "Convective Capital",
     "url": "/wiki/entities/convectivecapital/"
@@ -6535,9 +6543,17 @@
     "title": "D.A. Davidson",
     "url": "/wiki/entities/dadavidson/"
   },
+  "DEAExemptionProcess": {
+    "title": "DEA Exemption Process",
+    "url": "/wiki/concepts/deaexemptionprocess/"
+  },
   "DJI": {
     "title": "DJI / 大疆",
     "url": "/wiki/entities/dji/"
+  },
+  "DMT": {
+    "title": "DMT",
+    "url": "/wiki/entities/dmt/"
   },
   "DXY": {
     "title": "丁香园 / DXY",
@@ -6838,6 +6854,10 @@
   "DaveClark": {
     "title": "Dave Clark",
     "url": "/wiki/entities/daveclark/"
+  },
+  "DaveHodges": {
+    "title": "Dave Hodges",
+    "url": "/wiki/entities/davehodges/"
   },
   "DaveJackson": {
     "title": "Dave Jackson",
@@ -7714,6 +7734,10 @@
   "DrowningForensicUncertainty": {
     "title": "Drowning Forensic Uncertainty",
     "url": "/wiki/concepts/drowningforensicuncertainty/"
+  },
+  "DrugEnforcementAdministration": {
+    "title": "Drug Enforcement Administration",
+    "url": "/wiki/entities/drugenforcementadministration/"
   },
   "DruidicKnowledge": {
     "title": "Druidic Knowledge",
@@ -11319,6 +11343,10 @@
     "title": "High Crimes And Misdemeanors",
     "url": "/wiki/concepts/highcrimesandmisdemeanors/"
   },
+  "HighDosePsychedelicPractice": {
+    "title": "High-Dose Psychedelic Practice",
+    "url": "/wiki/concepts/highdosepsychedelicpractice/"
+  },
   "HighGeneralLowSpecificExpectations": {
     "title": "High General, Low Specific Expectations",
     "url": "/wiki/concepts/highgenerallowspecificexpectations/"
@@ -13191,6 +13219,10 @@
     "title": "John Prideaux",
     "url": "/wiki/entities/johnprideaux/"
   },
+  "JohnRapp": {
+    "title": "John Rapp",
+    "url": "/wiki/entities/johnrapp/"
+  },
   "JohnRawls": {
     "title": "John Rawls / 罗尔斯",
     "url": "/wiki/entities/johnrawls/"
@@ -14746,6 +14778,10 @@
   "LocalProductAdvantageErosion": {
     "title": "Local Product Advantage Erosion",
     "url": "/wiki/concepts/localproductadvantageerosion/"
+  },
+  "LocalPsychedelicDecriminalization": {
+    "title": "Local Psychedelic Decriminalization",
+    "url": "/wiki/concepts/localpsychedelicdecriminalization/"
   },
   "LocalizedInnovationAdvantage": {
     "title": "Localized Innovation Advantage",
@@ -16747,6 +16783,10 @@
     "title": "Mycontext",
     "url": "/wiki/entities/mycontext/"
   },
+  "MyersTest": {
+    "title": "Myers Test",
+    "url": "/wiki/concepts/myerstest/"
+  },
   "MythAsHistoricalEvidence": {
     "title": "Myth As Historical Evidence",
     "url": "/wiki/concepts/mythashistoricalevidence/"
@@ -16938,6 +16978,10 @@
   "NationalistGovernment": {
     "title": "Nationalist Government / 国民政府",
     "url": "/wiki/entities/nationalistgovernment/"
+  },
+  "NativeAmericanChurch": {
+    "title": "Native American Church",
+    "url": "/wiki/entities/nativeamericanchurch/"
   },
   "NatsumeSoseki": {
     "title": "Natsume Soseki / 夏目漱石",
@@ -17418,6 +17462,10 @@
   "OTAPlatformConcentration": {
     "title": "OTA Platform Concentration",
     "url": "/wiki/concepts/otaplatformconcentration/"
+  },
+  "OaklandCalifornia": {
+    "title": "Oakland, California",
+    "url": "/wiki/entities/oaklandcalifornia/"
   },
   "ObamaPresidentialCenter": {
     "title": "Obama Presidential Center",
@@ -19439,6 +19487,18 @@
     "title": "Pseudoscience Fraud Vulnerability",
     "url": "/wiki/concepts/pseudosciencefraudvulnerability/"
   },
+  "PsilocybinMushrooms": {
+    "title": "Psilocybin Mushrooms",
+    "url": "/wiki/entities/psilocybinmushrooms/"
+  },
+  "PsychedelicChurchHarmReduction": {
+    "title": "Psychedelic Church Harm Reduction",
+    "url": "/wiki/concepts/psychedelicchurchharmreduction/"
+  },
+  "PsychedelicChurches": {
+    "title": "Psychedelic Churches",
+    "url": "/wiki/concepts/psychedelicchurches/"
+  },
   "PsychicVampirePersonality": {
     "title": "Psychic Vampire Personality / 精神吸血鬼人格",
     "url": "/wiki/concepts/psychicvampirepersonality/"
@@ -20182,6 +20242,10 @@
   "RelevantSports": {
     "title": "Relevant Sports",
     "url": "/wiki/entities/relevantsports/"
+  },
+  "ReligiousControlledSubstanceExemption": {
+    "title": "Religious Controlled-Substance Exemption",
+    "url": "/wiki/concepts/religiouscontrolledsubstanceexemption/"
   },
   "RemoraCarbon": {
     "title": "Remora Carbon",
@@ -20946,6 +21010,10 @@
   "SabastianSawe": {
     "title": "Sabastian Sawe",
     "url": "/wiki/entities/sabastiansawe/"
+  },
+  "SacramentDonationModel": {
+    "title": "Sacrament Donation Model",
+    "url": "/wiki/concepts/sacramentdonationmodel/"
   },
   "SacrificingOthersEthics": {
     "title": "Sacrificing Others Ethics",
@@ -26939,6 +27007,10 @@
     "title": "《左传》 / Zuo Zhuan",
     "url": "/wiki/entities/zuozhuan/"
   },
+  "ZydorChurch": {
+    "title": "Zydor Church",
+    "url": "/wiki/entities/zydorchurch/"
+  },
   "Zynga": {
     "title": "Zynga",
     "url": "/wiki/entities/zynga/"
@@ -26954,6 +27026,10 @@
   "a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07": {
     "title": "A Keir-death experience: Britain's PM clings on",
     "url": "/wiki/sources/a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07/"
+  },
+  "a-trip-to-the-magic-mushroom-megachurch": {
+    "title": "A trip to the magic mushroom megachurch",
+    "url": "/wiki/sources/a-trip-to-the-magic-mushroom-megachurch/"
   },
   "advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96": {
     "title": "Advice Line with Christina Tosi of Milk Bar",
