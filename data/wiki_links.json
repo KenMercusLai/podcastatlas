@@ -2023,6 +2023,10 @@
     "title": "Albert Einstein / 阿尔伯特·爱因斯坦",
     "url": "/wiki/entities/alberteinstein/"
   },
+  "AlbertPope": {
+    "title": "Albert Pope / 阿尔伯特·波普",
+    "url": "/wiki/entities/albertpope/"
+  },
   "AlchemyChemistryContinuity": {
     "title": "Alchemy-Chemistry Continuity / 炼金术与化学连续性",
     "url": "/wiki/concepts/alchemychemistrycontinuity/"
@@ -3271,6 +3275,10 @@
     "title": "宝宝树 / BabyTree",
     "url": "/wiki/entities/babytree/"
   },
+  "BafangElectric": {
+    "title": "Bafang Electric / 八方股份",
+    "url": "/wiki/entities/bafangelectric/"
+  },
   "Bahrain": {
     "title": "Bahrain",
     "url": "/wiki/entities/bahrain/"
@@ -3714,6 +3722,22 @@
   "Bibigo": {
     "title": "Bibigo",
     "url": "/wiki/entities/bibigo/"
+  },
+  "BicycleCapitalBubble": {
+    "title": "Bicycle Capital Bubble",
+    "url": "/wiki/concepts/bicyclecapitalbubble/"
+  },
+  "BicycleComponentStackPower": {
+    "title": "Bicycle Component Stack Power",
+    "url": "/wiki/concepts/bicyclecomponentstackpower/"
+  },
+  "BicycleIndustrialSpillovers": {
+    "title": "Bicycle Industrial Spillovers",
+    "url": "/wiki/concepts/bicycleindustrialspillovers/"
+  },
+  "BicycleProductEvolution": {
+    "title": "Bicycle Product Evolution",
+    "url": "/wiki/concepts/bicycleproductevolution/"
   },
   "BigCompanyHalo": {
     "title": "Big Company Halo",
@@ -5122,6 +5146,10 @@
   "ChinaAgentMarketFriction": {
     "title": "China Agent Market Friction",
     "url": "/wiki/concepts/chinaagentmarketfriction/"
+  },
+  "ChinaBicycleShortageEconomy": {
+    "title": "China Bicycle Shortage Economy",
+    "url": "/wiki/concepts/chinabicycleshortageeconomy/"
   },
   "ChinaCellTherapyRegulatoryDualTrack": {
     "title": "China Cell Therapy Regulatory Dual Track",
@@ -7147,6 +7175,10 @@
     "title": "邓老板",
     "url": "/wiki/entities/denglaoban/"
   },
+  "DenisJohnsonBicycle": {
+    "title": "Denis Johnson (Bicycle)",
+    "url": "/wiki/entities/denisjohnsonbicycle/"
+  },
   "Denmark": {
     "title": "Denmark",
     "url": "/wiki/entities/denmark/"
@@ -7823,6 +7855,10 @@
     "title": "Dubai Real Estate Market",
     "url": "/wiki/concepts/dubairealestatemarket/"
   },
+  "DunlopPneumaticTyreCompany": {
+    "title": "Dunlop Pneumatic Tyre Company",
+    "url": "/wiki/entities/dunloppneumatictyrecompany/"
+  },
   "DuoduoMaicai": {
     "title": "多多买菜 / Duoduo Maicai",
     "url": "/wiki/entities/duoduomaicai/"
@@ -7858,6 +7894,10 @@
   "EBay": {
     "title": "eBay",
     "url": "/wiki/entities/ebay/"
+  },
+  "EBikeValueChainShift": {
+    "title": "E-Bike Value-Chain Shift",
+    "url": "/wiki/concepts/ebikevaluechainshift/"
   },
   "EBird": {
     "title": "eBird",
@@ -9283,6 +9323,10 @@
     "title": "Flurry",
     "url": "/wiki/entities/flurry/"
   },
+  "FlyingPigeon": {
+    "title": "Flying Pigeon / 飞鸽自行车",
+    "url": "/wiki/entities/flyingpigeon/"
+  },
   "Flyme": {
     "title": "Flyme",
     "url": "/wiki/entities/flyme/"
@@ -9430,6 +9474,10 @@
   "ForensicToxicology": {
     "title": "Forensic Toxicology",
     "url": "/wiki/concepts/forensictoxicology/"
+  },
+  "ForeverBicycle": {
+    "title": "Forever Bicycle / 永久自行车",
+    "url": "/wiki/entities/foreverbicycle/"
   },
   "ForgettingAsCognitiveFunction": {
     "title": "Forgetting As Cognitive Function / 遗忘作为认知功能",
@@ -10303,6 +10351,10 @@
     "title": "Gianni Infantino",
     "url": "/wiki/entities/gianniinfantino/"
   },
+  "GiantBicycles": {
+    "title": "Giant Bicycles / 捷安特",
+    "url": "/wiki/entities/giantbicycles/"
+  },
   "GiftToLoyalBuyerLoop": {
     "title": "Gift-To-Loyal-Buyer Loop",
     "url": "/wiki/concepts/gifttoloyalbuyerloop/"
@@ -10470,6 +10522,10 @@
   "GoodMorningMonster": {
     "title": "《早安，怪物》 / Good Morning, Monster",
     "url": "/wiki/entities/goodmorningmonster/"
+  },
+  "GoodRoadsMovement": {
+    "title": "Good Roads Movement",
+    "url": "/wiki/concepts/goodroadsmovement/"
   },
   "GoodhartsLaw": {
     "title": "Goodhart's Law",
@@ -13179,6 +13235,10 @@
     "title": "John Bogle",
     "url": "/wiki/entities/johnbogle/"
   },
+  "JohnBoydDunlop": {
+    "title": "John Boyd Dunlop / 约翰·博伊德·邓禄普",
+    "url": "/wiki/entities/johnboyddunlop/"
+  },
   "JohnCarmack": {
     "title": "John Carmack",
     "url": "/wiki/entities/johncarmack/"
@@ -13226,6 +13286,10 @@
   "JohnIcabone": {
     "title": "John Icabone",
     "url": "/wiki/entities/johnicabone/"
+  },
+  "JohnKempStarley": {
+    "title": "John Kemp Starley / 约翰·坎普·斯塔利",
+    "url": "/wiki/entities/johnkempstarley/"
   },
   "JohnPhillips": {
     "title": "John Phillips",
@@ -13594,6 +13658,10 @@
   "KaraSwisher": {
     "title": "Kara Swisher",
     "url": "/wiki/entities/karaswisher/"
+  },
+  "KarlDrais": {
+    "title": "Karl Drais / 卡尔·德莱斯",
+    "url": "/wiki/entities/karldrais/"
   },
   "KarlJaspers": {
     "title": "Karl Jaspers / 卡尔·亚斯贝尔斯",
@@ -14702,6 +14770,10 @@
   "LiuFei": {
     "title": "刘飞",
     "url": "/wiki/entities/liufei/"
+  },
+  "LiuJinbiao": {
+    "title": "Liu Jinbiao / 刘金彪",
+    "url": "/wiki/entities/liujinbiao/"
   },
   "LiuKai": {
     "title": "Liu Kai",
@@ -16451,6 +16523,10 @@
     "title": "莫晨 / Mo Chen",
     "url": "/wiki/entities/mochen/"
   },
+  "Mobike": {
+    "title": "Mobike / 摩拜",
+    "url": "/wiki/entities/mobike/"
+  },
   "MobileAIWorkstation": {
     "title": "Mobile AI Workstation",
     "url": "/wiki/concepts/mobileaiworkstation/"
@@ -17623,6 +17699,10 @@
     "title": "Offline Handset Channel System",
     "url": "/wiki/concepts/offlinehandsetchannelsystem/"
   },
+  "Ofo": {
+    "title": "OFO / 小黄车",
+    "url": "/wiki/entities/ofo/"
+  },
   "OgasawaraIslands": {
     "title": "小笠原群岛 / Ogasawara Islands",
     "url": "/wiki/entities/ogasawaraislands/"
@@ -18667,6 +18747,10 @@
     "title": "Petrostate",
     "url": "/wiki/concepts/petrostate/"
   },
+  "Peugeot": {
+    "title": "Peugeot / 标志",
+    "url": "/wiki/entities/peugeot/"
+  },
   "PewResearchCenter": {
     "title": "Pew Research Center",
     "url": "/wiki/entities/pewresearchcenter/"
@@ -18698,6 +18782,10 @@
   "PhoebeCaulfield": {
     "title": "Phoebe Caulfield / 菲比",
     "url": "/wiki/entities/phoebecaulfield/"
+  },
+  "PhoenixBicycle": {
+    "title": "Phoenix Bicycle / 凤凰自行车",
+    "url": "/wiki/entities/phoenixbicycle/"
   },
   "PhotolithographyBottleneck": {
     "title": "Photolithography Bottleneck",
@@ -18762,6 +18850,14 @@
   "PiedPiperOfHamelin": {
     "title": "花衣魔笛手 / The Pied Piper of Hamelin",
     "url": "/wiki/entities/piedpiperofhamelin/"
+  },
+  "PierreLallement": {
+    "title": "Pierre Lallement / 皮埃尔·拉勒芒",
+    "url": "/wiki/entities/pierrelallement/"
+  },
+  "PierreMichaux": {
+    "title": "Pierre Michaux / 皮埃尔·米肖",
+    "url": "/wiki/entities/pierremichaux/"
   },
   "PigButcheringScam": {
     "title": "Pig Butchering Scam",
@@ -19090,6 +19186,10 @@
   "PopMart": {
     "title": "Pop Mart / 泡泡玛特",
     "url": "/wiki/entities/popmart/"
+  },
+  "PopeManufacturingCompany": {
+    "title": "Pope Manufacturing Company",
+    "url": "/wiki/entities/popemanufacturingcompany/"
   },
   "PopulationCoding": {
     "title": "Population Coding",
@@ -20923,6 +21023,10 @@
     "title": "Routine Agent Automation",
     "url": "/wiki/concepts/routineagentautomation/"
   },
+  "RoverBicycle": {
+    "title": "Rover Bicycle / 罗福自行车",
+    "url": "/wiki/entities/roverbicycle/"
+  },
   "RoyDisney": {
     "title": "Roy Disney",
     "url": "/wiki/entities/roydisney/"
@@ -21795,6 +21899,10 @@
     "title": "Share AI",
     "url": "/wiki/entities/shareai/"
   },
+  "SharedBikeManufacturingShock": {
+    "title": "Shared-Bike Manufacturing Shock",
+    "url": "/wiki/concepts/sharedbikemanufacturingshock/"
+  },
   "SharedHousingRevival": {
     "title": "Shared Housing Revival",
     "url": "/wiki/concepts/sharedhousingrevival/"
@@ -21910,6 +22018,10 @@
   "ShimadaSoji": {
     "title": "岛田庄司 / Shimada Soji",
     "url": "/wiki/entities/shimadasoji/"
+  },
+  "Shimano": {
+    "title": "Shimano / 喜马诺",
+    "url": "/wiki/entities/shimano/"
   },
   "ShimazakiToson": {
     "title": "Shimazaki Toson / 岛崎藤村",
@@ -26063,6 +26175,10 @@
     "title": "World Values Survey",
     "url": "/wiki/entities/worldvaluessurvey/"
   },
+  "WrightBrothers": {
+    "title": "Wright Brothers / 莱特兄弟",
+    "url": "/wiki/entities/wrightbrothers/"
+  },
   "WritingPoetryIsFun": {
     "title": "《写诗真好玩》",
     "url": "/wiki/entities/writingpoetryisfun/"
@@ -27910,6 +28026,10 @@
   "ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh": {
     "title": "“你有一把能够挖出金子的铲子，肯定不会先给别人用”｜对谈开物纪陆子恒：用AI发明新材料",
     "url": "/wiki/sources/ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh/"
+  },
+  "no-199-zixingche-200-nian-973489465": {
+    "title": "No.199 自行车 200年",
+    "url": "/wiki/sources/no-199-zixingche-200-nian-973489465/"
   },
   "no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500": {
     "title": "No.200 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法",

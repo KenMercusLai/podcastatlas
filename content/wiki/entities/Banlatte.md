@@ -2,11 +2,13 @@
 title: "半拿铁"
 type: entity
 tags: [podcast, media, business-history]
-sources: [fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, no-203-businiao-lanshili-979295393, no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918, no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
+sources: [no-199-zixingche-200-nian-973489465, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, no-203-businiao-lanshili-979295393, no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918, no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
 last_updated: 2026-08-04
 ---
 
 # 半拿铁
+
+[[no-199-zixingche-200-nian-973489465]] adds Banlatte's bicycle-industry history branch. The episode uses [[KarlDrais]], [[AlbertPope]], [[JohnKempStarley]], [[JohnBoydDunlop]], [[PhoenixBicycle]], [[GiantBicycles]], [[Ofo|OFO]], [[Shimano]], and [[BafangElectric]] to connect [[BicycleProductEvolution]], [[BicycleCapitalBubble]], [[ChinaBicycleShortageEconomy]], [[SharedBikeManufacturingShock]], [[BicycleComponentStackPower]], and [[EBikeValueChainShift]] into one industrial-history arc.
 
 [[fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]] adds Banlatte's self-reflective podcast branch through a conversation with [[LiDan|李诞]]. [[XiaoLei|肖磊]] and [[LiuFei|刘飞]] explain the show's origin, research-heavy [[PodcastProductionWorkflow]], business-history positioning, advertising choices, and decision to remain closer to an individual creator operation than a scaled media company. The episode also turns Banlatte's Chinese company stories into a [[GenerationalTechnologyBridge]] because listeners' memories of phones, drinks, internet figures, and reform-era products become part of why the business history lands emotionally.
 
@@ -38,8 +40,10 @@ last_updated: 2026-08-04
 - The Lan Shili episode uses the same business-history style for a founder biography, but its method is more evidentiary: it distinguishes self-narration, media accounts, court judgments, official notices, and counterparty responses through [[FounderNarrativeReliability]].
 - The ecommerce episode uses the same China-internet-history style, but shifts attention to failed or marginal platforms so [[EcommerceSurfaceMetricsRisk]], [[ProfitAndCashFlowQuality]], [[InventoryWriteDownRisk]], and [[EcommerceFulfillmentComplexity]] stay visible behind growth stories.
 - The Li Dan special makes the show's own media form visible: Banlatte's value is not only topic selection but also [[PodcastIntimacy]], scripted-yet-live production, and memory-rich business storytelling.
+- The bicycle episode shows the same method applied to a physical product category: the story moves from invention and road infrastructure to capital bubbles, planned-economy scarcity, platform-driven overordering, and supplier power in core components.
 
 ## Connections
+- [[BicycleProductEvolution]], [[BicycleCapitalBubble]], [[BicycleIndustrialSpillovers]], [[ChinaBicycleShortageEconomy]], [[SharedBikeManufacturingShock]], [[BicycleComponentStackPower]], and [[EBikeValueChainShift]] — bicycle-industry branch added by episode 199.
 - [[LiDan|李诞]], [[XiaoLei|肖磊]], [[LiuFei|刘飞]], [[SanWuHuan|三五环]], and [[Xiaoyuzhou|小宇宙]] — self-reflective podcast and Chinese podcast ecosystem branch added by the special episode.
 - [[PodcastIntimacy]], [[PodcastProductionWorkflow]], [[PodcastAuthenticityBoundary]], [[BrandPodcasting]], and [[GenerationalTechnologyBridge]] — media-form and memory concepts from the special episode.
 - [[ChineseEcommercePlatformHistory]], [[EcommercePlatformFailureModes]], [[VerticalEcommerceFailureModes]], and [[FreshGroceryEcommerceEconomics]] — ecommerce-history branch added by episode 200.

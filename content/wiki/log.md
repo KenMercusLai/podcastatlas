@@ -5216,3 +5216,11 @@ Added source page for a 半拿铁 special episode with 李诞, 肖磊, and 刘�
 ## [2026-08-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-04] ingest | No.199 自行车 200年
+
+Added source page for a 半拿铁 episode on two centuries of bicycle history, from Drais's running machine, front-wheel pedals, high-wheelers, safety bicycles, pneumatic tires, Pope's patents and good-roads lobbying, and the bicycle capital bubble to China's 凤永飞 scarcity era, Giant's retail/product shock, shared-bike manufacturing risk, Shimano's component-stack power, and E-bike value-chain opportunities. Created pages for Karl Drais, Denis Johnson, Pierre Michaux, Pierre Lallement, Albert Pope, Pope Manufacturing Company, John Kemp Starley, Rover Bicycle, John Boyd Dunlop, Dunlop Pneumatic Tyre Company, Peugeot, Wright Brothers, Phoenix Bicycle, Forever Bicycle, Flying Pigeon, Giant Bicycles, Liu Jinbiao, Shimano, OFO, Mobike, Bafang Electric, Bicycle Product Evolution, Good Roads Movement, Bicycle Capital Bubble, Bicycle Industrial Spillovers, China Bicycle Shortage Economy, Shared-Bike Manufacturing Shock, Bicycle Component Stack Power, and E-Bike Value-Chain Shift; updated overview, index, 半拿铁, Productive Bubble Spillovers, Precision Manufacturing As Strategy, Supply Chain Sovereignty, Chinese Hardware Globalization, Receivables Risk, Inventory Write-Down Risk, and Asset-Light Vs Heavy-Asset Models. No direct contradiction found; the source extends the wiki's manufacturing, supply-chain, bubble, hardware-globalization, and platform-risk branches.
+
+## [2026-08-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

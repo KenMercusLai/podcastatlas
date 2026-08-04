@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.199 自行车 200年](sources/no-199-zixingche-200-nian-973489465.md) — 半拿铁 episode on bicycle history from Drais and safety bicycles to patent power, road lobbying, China's 凤永飞 era, shared-bike manufacturing shock, Shimano components, and E-bike opportunities.
 - [番外 14：跟李诞聊聊播客、创作、AI 与中年](sources/fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552.md) — 半拿铁 special episode with 李诞 on Chinese podcasting, Banlatte's workflow, voice intimacy, brand podcasts, AI learning and creation, and middle-age technology memory.
 - [E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？](sources/e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793.md) — 硅谷101 episode on SpaceX's orbital AI data-center narrative, Starship launch economics, space thermal management, radiation, orbital governance, lunar industry, and the Moon-versus-Mars strategy split.
 - [E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意](sources/e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6.md) — 硅谷101 episode on CCTV-FIFA World Cup rights negotiations, Chinese sports-rights sublicensing, sponsor pressure, platform LTV, sports-rights bubbles, and U.S. streaming-driven rights inflation.
@@ -653,6 +654,27 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Karl Drais / 卡尔·德莱斯](entities/KarlDrais.md) — German inventor whose 1817 running machine anchors the episode's bicycle-origin and product-evolution branch.
+- [Denis Johnson (Bicycle)](entities/DenisJohnsonBicycle.md) — English carriage maker who commercialized the Drais-style running machine in Britain through manufacturing and riding instruction.
+- [Pierre Michaux / 皮埃尔·米肖](entities/PierreMichaux.md) — Maker associated with the 1860s front-wheel-pedal step in bicycle product evolution.
+- [Pierre Lallement / 皮埃尔·拉勒芒](entities/PierreLallement.md) — Front-wheel-pedal inventor and patent figure whose U.S. rights later mattered to Albert Pope.
+- [Albert Pope / 阿尔伯特·波普](entities/AlbertPope.md) — U.S. bicycle entrepreneur linking patents, litigation, advertising, consumer finance, and road lobbying.
+- [Pope Manufacturing Company](entities/PopeManufacturingCompany.md) — Pope's bicycle company and Columbia-brand context for patent-led commercialization and good-roads advocacy.
+- [John Kemp Starley / 约翰·坎普·斯塔利](entities/JohnKempStarley.md) — Safety-bicycle designer associated with the Rover form that stabilized modern bicycle architecture.
+- [Rover Bicycle / 罗福自行车](entities/RoverBicycle.md) — Safety bicycle whose chain-drive architecture separated speed from dangerous high-wheel design.
+- [John Boyd Dunlop / 约翰·博伊德·邓禄普](entities/JohnBoydDunlop.md) — Pneumatic-tire improver whose comfort innovation helped bicycles become mass-market.
+- [Dunlop Pneumatic Tyre Company](entities/DunlopPneumaticTyreCompany.md) — Tire company used by the episode to ground the late-1890s bicycle capital bubble.
+- [Peugeot / 标志](entities/Peugeot.md) — Bicycle-to-automobile bridge case showing how bicycle manufacturing capabilities migrated into motor vehicles.
+- [Wright Brothers / 莱特兄弟](entities/WrightBrothers.md) — Bicycle-shop operators whose business and mechanical learning supported early flight experiments.
+- [Phoenix Bicycle / 凤凰自行车](entities/PhoenixBicycle.md) — Chinese bicycle brand linking planned-economy scarcity to later OFO supplier risk.
+- [Forever Bicycle / 永久自行车](entities/ForeverBicycle.md) — Chinese bicycle brand used to explain state-era durable-goods status and later market-transition pressure.
+- [Flying Pigeon / 飞鸽自行车](entities/FlyingPigeon.md) — Tianjin-rooted bicycle brand used as a symbol of China's bicycle-era industrial and everyday mobility memory.
+- [Giant Bicycles / 捷安特](entities/GiantBicycles.md) — Taiwan-founded bicycle company that reset mainland consumer expectations through design, fitting, service, and specialty retail.
+- [Liu Jinbiao / 刘金彪](entities/LiuJinbiao.md) — Giant founder figure connecting contract manufacturing, brand creation, and mainland market entry.
+- [Shimano / 喜马诺](entities/Shimano.md) — Japanese bicycle-component company whose drivetrain stack, cold forging, tolerances, and patents anchor the episode's supplier-power argument.
+- [OFO / 小黄车](entities/Ofo.md) — Shared-bike platform whose large promised purchases and financing stress made supplier receivables risk visible.
+- [Mobike / 摩拜](entities/Mobike.md) — Shared-bike platform whose custom hardware design made inventory resale and write-down risk visible.
+- [Bafang Electric / 八方股份](entities/BafangElectric.md) — Chinese E-bike motor company used by the episode to illustrate value-chain shift toward electric-assist systems.
 - [李诞](entities/LiDan.md) — Comedian and creator guest explaining podcast intimacy, AI-assisted adult learning, AI creation disclosure, and middle-age technology memory in the Banlatte special.
 - [肖磊](entities/XiaoLei.md) — Banlatte host whose radio-to-podcast path and preparation-heavy work describe Chinese podcast production from the media-worker side.
 - [刘飞](entities/LiuFei.md) — Banlatte host and former product manager connecting business storytelling, 三五环, podcast commerce, and ecosystem relationships.
@@ -4421,6 +4443,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Bicycle Product Evolution](concepts/BicycleProductEvolution.md) — Design sequence from Drais's running machine through pedals, high-wheelers, safety bicycles, chain drive, and pneumatic tires.
+- [Good Roads Movement](concepts/GoodRoadsMovement.md) — Bicycle-backed road-improvement campaign showing how product adoption can require public infrastructure.
+- [Bicycle Capital Bubble](concepts/BicycleCapitalBubble.md) — 1895-1897 bicycle market frenzy where real product progress still produced overinvestment, saturation, price wars, and bankruptcies.
+- [Bicycle Industrial Spillovers](concepts/BicycleIndustrialSpillovers.md) — Manufacturing, parts, and operator-learning residue from bicycles that helped later automobile and aviation industries.
+- [China Bicycle Shortage Economy](concepts/ChinaBicycleShortageEconomy.md) — Planned-economy setting where bicycles were scarce durable goods requiring money, allocation access, and brand trust.
+- [Shared-Bike Manufacturing Shock](concepts/SharedBikeManufacturingShock.md) — Upstream supplier risk from venture-financed shared-bike orders, unpaid demand, and platform-specific hardware inventory.
+- [Bicycle Component Stack Power](concepts/BicycleComponentStackPower.md) — Supplier control over matched drivetrain systems, process tolerances, patents, and component ecosystems.
+- [E-Bike Value-Chain Shift](concepts/EBikeValueChainShift.md) — Shift from mechanical bicycle drivetrain dominance toward motors, batteries, sensors, software, tuning, service, and overseas channels.
 - [Podcast Intimacy](concepts/PodcastIntimacy.md) — Long-form voice relationship where repeated listening, digression, and host presence make listeners feel close to a speaker or public figure.
 - [Podcast Production Workflow](concepts/PodcastProductionWorkflow.md) — Practical system for research, transcripts, cohost roles, recording, editing, ads, and release work behind a finished podcast episode.
 - [Podcast Authenticity Boundary](concepts/PodcastAuthenticityBoundary.md) — Trust line between acceptable preparation/performance and falsely manufactured conversation, including AI-generated audio disclosure.
