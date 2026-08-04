@@ -5264,3 +5264,11 @@ Added source page for an Acquired episode on Costco's warehouse-club operating m
 ## [2026-08-04] lint | Wiki health check
 
 Ran lint after health passed. Health scanned 7,407 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while lint scanned 7,407 pages, so graph findings are advisory until `build graph` refreshes it; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-04] ingest | Rolex
+
+Added source page for an Acquired episode on Rolex as a secretive, foundation-owned, high-volume luxury watch company, tracing Hans Wilsdorf, Aegler movements, Oyster waterproofing, Oyster Perpetual self-winding, professional watch lines, athlete and achievement testimony, the quartz crisis, foundation ownership, vertical integration, scarcity discipline, Bucherer, and Tudor. Created pages for Rolex, Hans Wilsdorf, Aegler, Hans Wilsdorf Foundation, Tudor, Bucherer, Omega, Seiko, Cartier, Patek Philippe, Audemars Piguet, Vacheron Constantin, Mercedes Gleitze, Paul Newman, Andre Heiniger, Patrick Heiniger, Panerai, Pan Am, Blancpain, Jean-Claude Biver, Porsche, Rolex Oyster, Rolex Oyster Perpetual, Rolex Datejust, Rolex Submariner, Rolex GMT-Master, Rolex Daytona, Mechanical Watch Repositioning, Professional Tool Branding, Luxury Scarcity Discipline, High-Volume Luxury Operator, Foundation-Owned Brand Stewardship, Luxury Retail Channel Control, and Vertical Integration For Quality Control; updated overview, index, Acquired, Apple Watch, Ferrari, Consumer Brand Moat, Trust As Business Asset, Precision Manufacturing As Strategy, and Product Led Willingness To Pay. No direct contradiction found; modern financial, market-share, valuation, and Bucherer-motive claims remain source estimates or inference because Rolex discloses little.
+
+## [2026-08-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

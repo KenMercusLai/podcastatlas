@@ -2,8 +2,8 @@
 title: "Apple Watch"
 type: entity
 tags: [apple, hardware, wearables, health]
-sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, rolex-1]
+last_updated: 2026-08-04
 ---
 
 # Apple Watch
@@ -12,8 +12,11 @@ Apple Watch appears in [[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-m
 
 The product is relevant to [[WearableAIAssistant]] because watches already have social acceptance, body proximity, sensors, and quick interaction patterns. It is also relevant to [[SmartphoneAIHub]] because an Apple Watch can serve as an assistant edge while the phone remains the identity, display, compute, and service hub.
 
+[[rolex-1]] adds the opposite side of the watch market. The [[Acquired]] episode argues that the Apple Watch and phones weaken the functional timekeeping reason to wear a mechanical watch, which pushes [[Rolex]] further into [[MechanicalWatchRepositioning]] as jewelry, status, craft, and identity rather than raw utility.
+
 ## Connections
 - [[Apple]] - platform and hardware company behind the product.
 - [[WearableAIAssistant]], [[AIPlusTerminals]], and [[SmartphoneAIHub]] - main terminal and assistant concepts.
+- [[Rolex]], [[MechanicalWatchRepositioning]], and [[ConsumerBrandMoat]] - mechanical-watch contrast added by Acquired.
 - [[AppleAccessibility]] - adjacent Apple wearable/interface branch in the wiki.
 - [[AppleAirPods|Apple AirPods]] and [[OuraRing|Oura Ring]] - other familiar wearable examples named in the source.

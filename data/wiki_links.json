@@ -1795,6 +1795,10 @@
     "title": "《木偶奇遇记》 / The Adventures of Pinocchio",
     "url": "/wiki/entities/adventuresofpinocchio/"
   },
+  "Aegler": {
+    "title": "Aegler",
+    "url": "/wiki/entities/aegler/"
+  },
   "AeroFS": {
     "title": "AeroFS",
     "url": "/wiki/entities/aerofs/"
@@ -2435,6 +2439,10 @@
     "title": "Andre Gide / 安德烈·纪德",
     "url": "/wiki/entities/andregide/"
   },
+  "AndreHeiniger": {
+    "title": "Andre Heiniger",
+    "url": "/wiki/entities/andreheiniger/"
+  },
   "AndreasVesalius": {
     "title": "Andreas Vesalius / 安德烈亚斯·维萨里",
     "url": "/wiki/entities/andreasvesalius/"
@@ -3034,6 +3042,10 @@
   "AttractivenessLaborMarketPremium": {
     "title": "Attractiveness Labor-Market Premium / 外貌劳动力市场溢价",
     "url": "/wiki/concepts/attractivenesslabormarketpremium/"
+  },
+  "AudemarsPiguet": {
+    "title": "Audemars Piguet",
+    "url": "/wiki/entities/audemarspiguet/"
   },
   "AuditOpinionRisk": {
     "title": "Audit Opinion Risk",
@@ -3907,6 +3919,10 @@
     "title": "Blake Scholl",
     "url": "/wiki/entities/blakescholl/"
   },
+  "Blancpain": {
+    "title": "Blancpain",
+    "url": "/wiki/entities/blancpain/"
+  },
   "BlanketTariffLimit": {
     "title": "Blanket Tariff Limit",
     "url": "/wiki/concepts/blankettarifflimit/"
@@ -4226,6 +4242,10 @@
   "Bucephalus": {
     "title": "Bucephalus / 布西法拉斯",
     "url": "/wiki/entities/bucephalus/"
+  },
+  "Bucherer": {
+    "title": "Bucherer",
+    "url": "/wiki/entities/bucherer/"
   },
   "BuddhistLifeAffirmingLiterature": {
     "title": "Buddhist Life-Affirming Literature",
@@ -4786,6 +4806,10 @@
   "CartesianDualism": {
     "title": "Cartesian Dualism",
     "url": "/wiki/concepts/cartesiandualism/"
+  },
+  "Cartier": {
+    "title": "Cartier",
+    "url": "/wiki/entities/cartier/"
   },
   "Casetext": {
     "title": "Casetext",
@@ -9643,6 +9667,10 @@
     "title": "复星 / Fosun",
     "url": "/wiki/entities/fosun/"
   },
+  "FoundationOwnedBrandStewardship": {
+    "title": "Foundation-Owned Brand Stewardship",
+    "url": "/wiki/concepts/foundationownedbrandstewardship/"
+  },
   "FoundationalEconomies": {
     "title": "Foundational Economies",
     "url": "/wiki/concepts/foundationaleconomies/"
@@ -11223,6 +11251,14 @@
     "title": "安徒生 / Hans Christian Andersen",
     "url": "/wiki/entities/hanschristianandersen/"
   },
+  "HansWilsdorf": {
+    "title": "Hans Wilsdorf",
+    "url": "/wiki/entities/hanswilsdorf/"
+  },
+  "HansWilsdorfFoundation": {
+    "title": "Hans Wilsdorf Foundation",
+    "url": "/wiki/entities/hanswilsdorffoundation/"
+  },
   "HantingHotel": {
     "title": "Hanting Hotel",
     "url": "/wiki/entities/hantinghotel/"
@@ -11602,6 +11638,10 @@
   "HighTechLawInstitute": {
     "title": "High Tech Law Institute",
     "url": "/wiki/entities/hightechlawinstitute/"
+  },
+  "HighVolumeLuxuryOperator": {
+    "title": "High-Volume Luxury Operator",
+    "url": "/wiki/concepts/highvolumeluxuryoperator/"
   },
   "HigherEducationAIDiscoverability": {
     "title": "Higher Education AI Discoverability",
@@ -13058,6 +13098,10 @@
   "JasonFurman": {
     "title": "Jason Furman",
     "url": "/wiki/entities/jasonfurman/"
+  },
+  "JeanClaudeBiver": {
+    "title": "Jean-Claude Biver",
+    "url": "/wiki/entities/jeanclaudebiver/"
   },
   "JeanJacquesRousseau": {
     "title": "Jean-Jacques Rousseau / 卢梭",
@@ -15507,6 +15551,14 @@
     "title": "Luxury Resale Authentication",
     "url": "/wiki/concepts/luxuryresaleauthentication/"
   },
+  "LuxuryRetailChannelControl": {
+    "title": "Luxury Retail Channel Control",
+    "url": "/wiki/concepts/luxuryretailchannelcontrol/"
+  },
+  "LuxuryScarcityDiscipline": {
+    "title": "Luxury Scarcity Discipline",
+    "url": "/wiki/concepts/luxuryscarcitydiscipline/"
+  },
   "LyndonBJohnson": {
     "title": "Lyndon B. Johnson",
     "url": "/wiki/entities/lyndonbjohnson/"
@@ -16211,6 +16263,10 @@
     "title": "Meaning Through Experience",
     "url": "/wiki/concepts/meaningthroughexperience/"
   },
+  "MechanicalWatchRepositioning": {
+    "title": "Mechanical Watch Repositioning",
+    "url": "/wiki/concepts/mechanicalwatchrepositioning/"
+  },
   "MecoxLane": {
     "title": "麦考林 / Mecox Lane",
     "url": "/wiki/entities/mecoxlane/"
@@ -16438,6 +16494,10 @@
   "MercedesF1": {
     "title": "Mercedes F1",
     "url": "/wiki/entities/mercedesf1/"
+  },
+  "MercedesGleitze": {
+    "title": "Mercedes Gleitze",
+    "url": "/wiki/entities/mercedesgleitze/"
   },
   "MercerMassTimber": {
     "title": "Mercer Mass Timber",
@@ -18071,6 +18131,10 @@
     "title": "Olivia Valdez",
     "url": "/wiki/entities/oliviavaldez/"
   },
+  "Omega": {
+    "title": "Omega",
+    "url": "/wiki/entities/omega/"
+  },
   "OmerKhan": {
     "title": "Omer Khan",
     "url": "/wiki/entities/omerkhan/"
@@ -18583,6 +18647,10 @@
     "title": "Palynology As Evidence",
     "url": "/wiki/concepts/palynologyasevidence/"
   },
+  "PanAm": {
+    "title": "Pan Am",
+    "url": "/wiki/entities/panam/"
+  },
   "PanJinlian": {
     "title": "潘金莲 / Pan Jinlian",
     "url": "/wiki/entities/panjinlian/"
@@ -18594,6 +18662,10 @@
   "Panasonic": {
     "title": "Panasonic",
     "url": "/wiki/entities/panasonic/"
+  },
+  "Panerai": {
+    "title": "Panerai",
+    "url": "/wiki/entities/panerai/"
   },
   "PangChunmei": {
     "title": "庞春梅 / Pang Chunmei",
@@ -18683,6 +18755,10 @@
     "title": "Patagonia",
     "url": "/wiki/entities/patagonia/"
   },
+  "PatekPhilippe": {
+    "title": "Patek Philippe",
+    "url": "/wiki/entities/patekphilippe/"
+  },
   "PathJoy": {
     "title": "PathJoy",
     "url": "/wiki/entities/pathjoy/"
@@ -18715,6 +18791,10 @@
     "title": "Patrick Healy",
     "url": "/wiki/entities/patrickhealy/"
   },
+  "PatrickHeiniger": {
+    "title": "Patrick Heiniger",
+    "url": "/wiki/entities/patrickheiniger/"
+  },
   "PatrickWilliams": {
     "title": "Patrick Williams",
     "url": "/wiki/entities/patrickwilliams/"
@@ -18746,6 +18826,10 @@
   "PaulHeyne": {
     "title": "Paul Heyne / 保罗·海恩",
     "url": "/wiki/entities/paulheyne/"
+  },
+  "PaulNewman": {
+    "title": "Paul Newman",
+    "url": "/wiki/entities/paulnewman/"
   },
   "PaulRhode": {
     "title": "Paul Rhode",
@@ -19495,6 +19579,10 @@
     "title": "Populist Democratic Energy",
     "url": "/wiki/concepts/populistdemocraticenergy/"
   },
+  "Porsche": {
+    "title": "Porsche",
+    "url": "/wiki/entities/porsche/"
+  },
   "PortChibatao": {
     "title": "Port Chibatao",
     "url": "/wiki/entities/portchibatao/"
@@ -19878,6 +19966,10 @@
   "ProfessionalDignityBeyondPatientIdentity": {
     "title": "Professional Dignity Beyond Patient Identity",
     "url": "/wiki/concepts/professionaldignitybeyondpatientidentity/"
+  },
+  "ProfessionalToolBranding": {
+    "title": "Professional Tool Branding",
+    "url": "/wiki/concepts/professionaltoolbranding/"
   },
   "ProfessionalWomensHockeyLeague": {
     "title": "Professional Women's Hockey League",
@@ -21275,6 +21367,34 @@
     "title": "Role-Life Collapse",
     "url": "/wiki/concepts/rolelifecollapse/"
   },
+  "Rolex": {
+    "title": "Rolex",
+    "url": "/wiki/entities/rolex/"
+  },
+  "RolexDatejust": {
+    "title": "Rolex Datejust",
+    "url": "/wiki/entities/rolexdatejust/"
+  },
+  "RolexDaytona": {
+    "title": "Rolex Daytona",
+    "url": "/wiki/entities/rolexdaytona/"
+  },
+  "RolexGMTMaster": {
+    "title": "Rolex GMT-Master",
+    "url": "/wiki/entities/rolexgmtmaster/"
+  },
+  "RolexOyster": {
+    "title": "Rolex Oyster",
+    "url": "/wiki/entities/rolexoyster/"
+  },
+  "RolexOysterPerpetual": {
+    "title": "Rolex Oyster Perpetual",
+    "url": "/wiki/entities/rolexoysterperpetual/"
+  },
+  "RolexSubmariner": {
+    "title": "Rolex Submariner",
+    "url": "/wiki/entities/rolexsubmariner/"
+  },
   "RollingAI": {
     "title": "Rolling AI",
     "url": "/wiki/entities/rollingai/"
@@ -21962,6 +22082,10 @@
   "Segment": {
     "title": "Segment",
     "url": "/wiki/entities/segment/"
+  },
+  "Seiko": {
+    "title": "Seiko",
+    "url": "/wiki/entities/seiko/"
   },
   "SekigaharaBattle": {
     "title": "Battle of Sekigahara / 关原合战",
@@ -25203,6 +25327,10 @@
     "title": "土地",
     "url": "/wiki/entities/tudigong/"
   },
+  "Tudor": {
+    "title": "Tudor",
+    "url": "/wiki/entities/tudor/"
+  },
   "Tudou": {
     "title": "土豆网 / Tudou",
     "url": "/wiki/entities/tudou/"
@@ -25627,6 +25755,10 @@
     "title": "VMG",
     "url": "/wiki/entities/vmg/"
   },
+  "VacheronConstantin": {
+    "title": "Vacheron Constantin",
+    "url": "/wiki/entities/vacheronconstantin/"
+  },
   "Valhalla": {
     "title": "Valhalla / 瓦尔哈拉",
     "url": "/wiki/entities/valhalla/"
@@ -25730,6 +25862,10 @@
   "VerticalIntegrationForMemberValue": {
     "title": "Vertical Integration For Member Value",
     "url": "/wiki/concepts/verticalintegrationformembervalue/"
+  },
+  "VerticalIntegrationForQualityControl": {
+    "title": "Vertical Integration For Quality Control",
+    "url": "/wiki/concepts/verticalintegrationforqualitycontrol/"
   },
   "VerticalMediaDistribution": {
     "title": "Vertical Media Distribution",
@@ -28642,6 +28778,10 @@
   "roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674": {
     "title": "Roaring trades: oil majors' secret success story",
     "url": "/wiki/sources/roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674/"
+  },
+  "rolex-1": {
+    "title": "Rolex",
+    "url": "/wiki/sources/rolex-1/"
   },
   "ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0": {
     "title": "如何「兜住」一颗火箭？｜ S10E21",

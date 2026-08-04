@@ -2,13 +2,13 @@
 title: "Acquired"
 type: entity
 tags: [podcast, business-history, media]
-sources: [the-walt-disney-company-1, formula-1-1, vanguard-1, costco-1]
+sources: [the-walt-disney-company-1, formula-1-1, vanguard-1, costco-1, rolex-1]
 last_updated: 2026-08-04
 ---
 
 # Acquired
 
-Acquired is the business-history podcast/source context for [[the-walt-disney-company-1]], [[formula-1-1]], [[vanguard-1]], and [[costco-1]]. Across these ingested episodes, the show treats companies, leagues, financial institutions, and retailers as systems where rights, distribution, financing, operating control, governance, and demand reinforce one another.
+Acquired is the business-history podcast/source context for [[the-walt-disney-company-1]], [[formula-1-1]], [[vanguard-1]], [[costco-1]], and [[rolex-1]]. Across these ingested episodes, the show treats companies, leagues, financial institutions, retailers, and luxury brands as systems where rights, distribution, financing, operating control, governance, and demand reinforce one another.
 
 The Disney episode adds a media-strategy branch to the wiki. Its main frame is that [[WaltDisney]] and [[RoyDisney]] built durable value by linking characters, features, merchandise, records, television, parks, rereleases, and distribution into an [[EntertainmentIPFlywheel]].
 
@@ -18,11 +18,14 @@ The Vanguard episode adds a financial-governance branch. Its main frame is that 
 
 The Costco episode adds a retail-operations branch. Its main frame is that [[Costco]] scaled [[SolPrice]]'s [[FedMart]] and [[PriceClub]] learning into a [[WarehouseClubModel]] where [[MembershipRetail]], [[LimitedSKUOperatingModel]], [[RetailInventoryVelocity]], [[NegativeCashConversionCycle]], [[LowMarkupTrust]], [[CrossDockingRetail]], and [[EmployeeRetentionEconomics]] reinforce [[ScaleEconomiesShared]].
 
+The Rolex episode adds an industrial-luxury branch. Its main frame is that [[Rolex]] used [[HansWilsdorf]]'s founder strategy, the [[Aegler]] movement relationship, [[RolexOyster]] waterproofing, [[RolexOysterPerpetual]] self-winding, [[ProfessionalToolBranding]], [[MechanicalWatchRepositioning]], [[LuxuryScarcityDiscipline]], [[LuxuryRetailChannelControl]], and [[VerticalIntegrationForQualityControl]] to make a mechanically obsolete product category valuable at scale.
+
 ## Connections
 - [[the-walt-disney-company-1]] - ingested episode.
 - [[formula-1-1]] - ingested episode.
 - [[vanguard-1]] - ingested episode.
 - [[costco-1]] - ingested episode.
+- [[rolex-1]] - ingested episode.
 - [[TheWaltDisneyCompany]], [[WaltDisney]], and [[RoyDisney]] - main company and founder pair.
 - [[FormulaOne]], [[LibertyMedia]], [[BernieEcclestone]], and [[FormulaOneGroup]] - sports-media business case.
 - [[Vanguard]], [[JohnBogle]], [[WellingtonManagement]], [[Fidelity]], [[StateStreet]], and [[BlackRock]] - finance and asset-management case.
@@ -30,4 +33,6 @@ The Costco episode adds a retail-operations branch. Its main frame is that [[Cos
 - [[SportsEntertainmentFlywheel]], [[SportsMediaRights]], [[RacePromotionFees]], and [[FatLeagueEconomics]] - Formula One analysis themes.
 - [[FundholderMutualOwnership]], [[CostMattersHypothesis]], [[ScaleEconomiesShared]], and [[PassiveInvestingGovernance]] - Vanguard analysis themes.
 - [[WarehouseClubModel]], [[MembershipRetail]], [[LimitedSKUOperatingModel]], [[LowMarkupTrust]], [[TreasureHuntRetail]], and [[RetailCounterPositioning]] - Costco analysis themes.
+- [[Rolex]], [[HansWilsdorf]], [[Tudor]], [[Bucherer]], and [[HansWilsdorfFoundation]] - Rolex company, founder, related-brand, channel, and ownership themes.
+- [[MechanicalWatchRepositioning]], [[ProfessionalToolBranding]], [[LuxuryScarcityDiscipline]], [[HighVolumeLuxuryOperator]], [[FoundationOwnedBrandStewardship]], [[LuxuryRetailChannelControl]], and [[VerticalIntegrationForQualityControl]] - Rolex analysis themes.
 - [[DistributionLedProductBuilding]] and [[ProductLedWillingnessToPay]] - broader wiki concepts reinforced by the episode.

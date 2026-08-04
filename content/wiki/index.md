@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Rolex](sources/rolex-1.md) — Acquired episode on Rolex from Hans Wilsdorf, Aegler movements, Oyster waterproofing, professional watches, testimony marketing, the quartz crisis, foundation ownership, scarcity discipline, Bucherer, Tudor, vertical integration, and high-volume luxury positioning.
 - [Costco](sources/costco-1.md) — Acquired episode on Costco's warehouse-club model, from Sol Price, FedMart, and Price Club to membership fees, low markups, limited SKUs, inventory velocity, cross-docking, Kirkland Signature, and scale economies shared with members.
 - [番外 15：半拿铁讲《金瓶梅》啦，而且还是绿色的](sources/fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433.md) — 半拿铁 special opening a green-edition story-series retelling of 《金瓶梅》, from Ximen Qing's household and sworn brothers through Wu Song, Wu Dalang, Pan Jinlian, Wang Po, social-history detail, and the novel's non-erotic literary reception.
 - [No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹](sources/no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046.md) — Banlatte episode on Chaoshan maritime trade, qiaopi remittances, overseas Chinese capital, Shantou's special-zone asymmetry, the 1991 split, export-tax fraud, and why Shantou did not become a Shenzhen-style industrial city.
@@ -659,6 +660,33 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Rolex](entities/Rolex.md) — Foundation-owned Swiss watch company analyzed as a high-volume luxury operator built from engineering proof, brand continuity, scarcity, and channel control.
+- [Hans Wilsdorf](entities/HansWilsdorf.md) — Rolex founder who commercialized wristwatches through cross-border sourcing, certification, waterproofing, branding, and foundation ownership.
+- [Aegler](entities/Aegler.md) — Swiss movement supplier whose small accurate movements became Rolex's early technical base and later vertical-integration target.
+- [Hans Wilsdorf Foundation](entities/HansWilsdorfFoundation.md) — Rolex ownership structure used by the source to explain patience, independence, secrecy, and long-term brand stewardship.
+- [Tudor](entities/Tudor.md) — Related lower-priced watch brand used as a Rolex-adjacent demand valve and experimentation space.
+- [Bucherer](entities/Bucherer.md) — Authorized watch retailer acquired by Rolex in 2023, interpreted as a channel visibility and control move.
+- [Omega](entities/Omega.md) — Swiss watch competitor used to contrast Rolex's post-quartz brand discipline with model expansion and quartz dilution.
+- [Seiko](entities/Seiko.md) — Japanese watchmaker whose 1969 Astron helps represent the quartz shock that forced mechanical watches to reposition.
+- [Cartier](entities/Cartier.md) — Luxury-watch revenue comparable used to size Rolex's modern industry share.
+- [Patek Philippe](entities/PatekPhilippe.md) — High-horology comparison brand used to distinguish Rolex's industrial luxury model from lower-volume houses.
+- [Audemars Piguet](entities/AudemarsPiguet.md) — High-end Swiss watch comparison for Rolex's higher-volume luxury position.
+- [Vacheron Constantin](entities/VacheronConstantin.md) — High-horology comparison brand used to clarify Rolex's scale-versus-rarity tradeoff.
+- [Mercedes Gleitze](entities/MercedesGleitze.md) — Endurance swimmer whose 1927 Rolex Oyster publicity turned waterproofing into human-achievement proof.
+- [Paul Newman](entities/PaulNewman.md) — Actor and racer whose Daytona provenance helped create a major Rolex collector mythology.
+- [Andre Heiniger](entities/AndreHeiniger.md) — Rolex executive associated with the postwar move from technical proof toward global luxury identity.
+- [Patrick Heiniger](entities/PatrickHeiniger.md) — Rolex CEO associated with modern vertical integration, production consolidation, and the Aegler acquisition.
+- [Panerai](entities/Panerai.md) — Watch brand tied to early Rolex-made dive watches for an Italian Navy contract.
+- [Pan Am](entities/PanAm.md) — Airline partner whose pilot needs shaped the Rolex GMT-Master.
+- [Blancpain](entities/Blancpain.md) — Mechanical-only luxury repositioning case used as a contrast to Rolex after the quartz crisis.
+- [Jean-Claude Biver](entities/JeanClaudeBiver.md) — Watch entrepreneur who repositioned Blancpain around mechanical luxury after quartz.
+- [Porsche](entities/Porsche.md) — Automotive analogy for Rolex as high-volume, industrially reliable, emotionally premium luxury.
+- [Rolex Oyster](entities/RolexOyster.md) — Waterproof Rolex line that turned sealed-case engineering into public brand proof.
+- [Rolex Oyster Perpetual](entities/RolexOysterPerpetual.md) — Rolex line combining Oyster waterproofing with automatic winding.
+- [Rolex Datejust](entities/RolexDatejust.md) — Postwar Rolex model used to connect technical credibility with elite identity.
+- [Rolex Submariner](entities/RolexSubmariner.md) — Dive-watch line used as a defining Rolex professional model and Porsche 911-style analogy.
+- [Rolex GMT-Master](entities/RolexGMTMaster.md) — Jet-age pilot watch developed with Pan Am for two-time-zone use.
+- [Rolex Daytona](entities/RolexDaytona.md) — Racing chronograph whose Paul Newman provenance helped create secondary-market mythology.
 - [Sol Price](entities/SolPrice.md) — Retail entrepreneur whose FedMart and Price Club principles became Costco's operating inheritance.
 - [Robert Price](entities/RobertPrice.md) — Sol Price's son and partner carrying FedMart learning into Price Club and the later PriceCostco merger.
 - [Jim Sinegal](entities/JimSinegal.md) — Costco cofounder and Sol Price disciple who scaled the warehouse-club model with low-markup and employee-culture discipline.
@@ -4531,6 +4559,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Mechanical Watch Repositioning](concepts/MechanicalWatchRepositioning.md) — Shift from mechanical watches as timekeeping tools to mechanical watches as symbols of achievement, taste, engineering, and identity.
+- [Professional Tool Branding](concepts/ProfessionalToolBranding.md) — Strategy of turning demanding real-world use cases into durable consumer meaning and luxury-product credibility.
+- [Luxury Scarcity Discipline](concepts/LuxuryScarcityDiscipline.md) — Brand discipline that protects long-term luxury value by avoiding overproduction, discounting, and unstable access signals.
+- [High-Volume Luxury Operator](concepts/HighVolumeLuxuryOperator.md) — Luxury operating model that sells at large industrial scale while preserving price, access, quality, and perceived specialness.
+- [Foundation-Owned Brand Stewardship](concepts/FoundationOwnedBrandStewardship.md) — Ownership pattern where a foundation structure protects long-term brand identity, independence, and patient strategy.
+- [Luxury Retail Channel Control](concepts/LuxuryRetailChannelControl.md) — Management of authorized distribution, waitlists, customer data, allocation, and retail power in luxury markets.
+- [Vertical Integration For Quality Control](concepts/VerticalIntegrationForQualityControl.md) — Strategy of owning key inputs and production knowledge when quality variation would damage brand trust.
 - [Warehouse Club Model](concepts/WarehouseClubModel.md) — Retail system combining paid membership, warehouse-format stores, limited high-volume selection, pallet handling, low markups, and fast inventory turns.
 - [Membership Retail](concepts/MembershipRetail.md) — Retail model where customers pay for access, creating repeat behavior and a high-margin fee stream.
 - [Limited SKU Operating Model](concepts/LimitedSKUOperatingModel.md) — Deliberate low-assortment retail strategy that concentrates volume, simplifies operations, and turns buyer curation into customer trust.
