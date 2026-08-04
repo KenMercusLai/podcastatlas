@@ -2,8 +2,8 @@
 title: "Premier League"
 type: entity
 tags: [sports, football, league, united-kingdom]
-sources: [e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]
-last_updated: 2026-07-25
+sources: [e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]
+last_updated: 2026-08-04
 ---
 
 # Premier League
@@ -14,12 +14,16 @@ The source also uses the league as a constraint. Because the [[PremierLeague]] i
 
 [[22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]] adds the open-market version of the Premier League story. The episode contrasts English protectionist instincts with the claim that open player and capital flows raised the league's level and, over time, also improved English players by exposing them to stronger competition and better knowledge networks.
 
+[[e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]] adds the China media-rights volatility layer. The episode uses [[PPSports]]' high-priced Premier League cycle and [[Migu]]'s later lower-priced cycle to show how even globally valuable rights can reprice when a local market's monetization capacity and platform competition change.
+
 ## Key Claims
 - The league is attractive because its clubs are globally known, scarce, and cheaper than top U.S. sports franchises on some valuation comparisons.
 - The source treats the Premier League as more open to further commercialization than many U.S. leagues even though its local supporter culture is stronger.
 - Rules, scrutiny, fan opposition, and competitive pressure can make financial experiments harder to execute than spreadsheet models suggest.
 - The Soccernomics source argues that openness can benefit domestic players even when fans initially read foreign competition as a threat.
+- E237 adds that a globally strong league can still experience large country-by-country rights volatility when local buyers reassess advertising, membership, and platform recovery.
 
 ## Connections
 - [[ManchesterUnited]], [[ArsenalFC]], [[LiverpoolFC]], and [[ChelseaFC]] - main club cases.
 - [[AmericanSportsCapitalInEuropeanFootball]], [[SportsMediaRights]], [[SportsEntertainmentFlywheel]], [[LeagueStakeholderAlignment]], [[FootballClubFinancialEngineering]], [[OpenFootballTalentMarkets]], and [[FootballCommercializationFanConflict]] - related concepts.
+- [[PPSports]], [[Migu]], [[SportsRightsBusinessModel]], and [[SportsRightsBubble]] - China media-rights volatility branch added by E237.

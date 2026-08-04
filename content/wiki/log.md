@@ -5192,3 +5192,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-04] lint | Wiki lint check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 7,213 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to an unqualified default model (`claude-3-5-sonnet-latest`) and no provider/key environment variables are configured. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-04] ingest | E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意
+
+Added source page for a 硅谷101 episode on CCTV-FIFA World Cup rights negotiations, sponsor pressure, sports-rights sublicensing, platform LTV, China's post-bubble sports-rights market, and U.S. streaming-driven rights inflation. Created pages for Zhu Xiaodong, Zhang Bin, Lizan Sports, LazyBear Sports, LeSports, PP Sports, DAZN, UFC, Chinese Super League, Chinese Basketball Association, Sports Rights Business Model, Sports Rights Sublicensing, Sports Rights Bubble, and Sports Broadcast Public Access; updated overview, index, Silicon Valley 101, FIFA, FIFA World Cup, CCTV, Migu, Lenovo, Hisense, Mengniu, NFL, NBA, Premier League, Sports Media Rights, Sports Rights Growth Engine, Global Sports Sponsorship, and LTV-Based Growth Budgeting. No direct contradiction found; the source complements prior World Cup sponsorship and FIFA-governance pages by adding buyer-side negotiation mechanics and rights-market sustainability.
+
+## [2026-08-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,8 +2,8 @@
 title: "中央广播电视总台 / China Central Television"
 type: entity
 tags: [media, broadcaster, china, sports]
-sources: [vol-264-ba-shijiebei-zuowei-fangfa-999416048]
-last_updated: 2026-07-09
+sources: [vol-264-ba-shijiebei-zuowei-fangfa-999416048, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]
+last_updated: 2026-08-04
 ---
 
 # 中央广播电视总台 / China Central Television
@@ -12,8 +12,12 @@ China Central Television appears in [[vol-264-ba-shijiebei-zuowei-fangfa-9994160
 
 The source does not treat CCTV's purchase as an ordinary market-clearing media-rights auction. Its analytical point is that the downstream sublicense buyers - from early web-video platforms to [[Migu]], [[Douyin]], and [[Xiaohongshu]] - reveal more about platform competition than CCTV's role as the required buyer.
 
+[[e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]] adds CCTV as the protected Chinese buyer in a late-stage negotiation with [[FIFA]]. The episode says CCTV's advantage is not pure monopsony: it still needs the [[FIFAWorldCup]] for advertising, public-event reach, and sublicensing revenue, while FIFA and sponsors still need China-market broadcast availability.
+
 ## Connections
 - [[FIFAWorldCup]] - tournament whose Chinese rights distribution anchors the episode.
 - [[SportsMediaRights]] - broader live-sports rights market concept.
 - [[SportsRightsGrowthEngine]] - platform-growth interpretation added by this source.
 - [[Migu]], [[Xiaohongshu]], [[Youku]], and [[Douyin]] - downstream platform buyers named in the episode.
+- [[SportsRightsBusinessModel]], [[SportsRightsSublicensing]], [[SportsBroadcastPublicAccess]], and [[SportsRightsBubble]] - negotiation and monetization concepts added by E237.
+- [[FIFA]], [[Lenovo]], [[Hisense]], and [[Mengniu]] - seller and sponsor-pressure context from E237.

@@ -2,8 +2,8 @@
 title: "FIFA World Cup"
 type: entity
 tags: [sports, football, event]
-sources: [how-to-win-a-penalty-shootout-with-game-theory, can-world-cup-mania-grow-mls-in-the-us, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-264-ba-shijiebei-zuowei-fangfa-999416048, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]
-last_updated: 2026-07-25
+sources: [how-to-win-a-penalty-shootout-with-game-theory, can-world-cup-mania-grow-mls-in-the-us, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-264-ba-shijiebei-zuowei-fangfa-999416048, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]
+last_updated: 2026-08-04
 ---
 
 # FIFA World Cup
@@ -13,6 +13,8 @@ The FIFA World Cup appears in [[shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-
 The source frames the 2026 tournament as a case where host-market infrastructure amplifies expansion economics. Existing stadiums in the [[UnitedStates]], a sponsor-rich North American market, dynamic ticketing norms, official resale fees, and hospitality inventory all make more matches more valuable than a simple count of extra games would suggest.
 
 [[vol-264-ba-shijiebei-zuowei-fangfa-999416048]] adds the tournament as a commercial method. Instead of focusing on expansion governance, it uses the World Cup to read Chinese platform-rights competition, [[Adidas]]' offline activation, Chinese sponsor globalization through [[Hisense]] and [[Lenovo]], and football apparel as [[SportsLifestyleConsumption]].
+
+[[e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]] adds the Chinese rights-negotiation layer. The episode says the [[ChinaCentralTelevision]] agreement covered the 2026 and 2030 men's tournaments plus the 2027 and 2031 women's tournaments, while using the deal to explain [[SportsRightsBusinessModel]], [[SportsRightsSublicensing]], [[SportsBroadcastPublicAccess]], and [[SportsRightsBubble]].
 
 [[youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]] adds the tournament-experience and legitimacy layer. [[JohnFasman]] says the expanded tournament's atmosphere was surprisingly strong, but the source also flags [[SportsPoliticalInterference]], high ticket prices, difficult travel to New York New Jersey Stadium, and immigration/entry restrictions as reputational risks.
 
@@ -32,6 +34,7 @@ The source frames the 2026 tournament as a case where host-market infrastructure
 - Planet Money adds that World Cup attention does not automatically benefit the domestic league; [[MajorEventAttentionConversion]] requires concrete bridges from tournament emotion to repeat MLS behavior.
 - The penalty-shootout source adds that expanded knockout play increases the importance of [[PenaltyShootoutStrategy]], especially when teams now expect data reports and psychological preparation.
 - The Soccernomics source adds that major-event value should be counted through welfare and distribution, not only through revenue or GDP claims.
+- E237 adds that World Cup rights can function as a national public-access event, a sublicensed platform-growth asset, and a sponsor-exposure constraint at the same time.
 
 ## Connections
 - [[FIFA]], [[GianniInfantino]], [[UEFA]], [[SeppBlatter]], and [[JoaoHavelange]] - governing and historical context.
@@ -42,3 +45,4 @@ The source frames the 2026 tournament as a case where host-market infrastructure
 - [[MajorLeagueSoccer]], [[SeattleSounders]], [[NewEnglandRevolution]], [[ChicagoFire]], [[MajorEventAttentionConversion]], and [[SportsFandomNetworkEffects]] - domestic-league conversion branch added by Planet Money.
 - [[GameTheory]], [[MixedStrategy]], [[DataDrivenPenaltyPreparation]], [[PenaltyShootoutStrategy]], and [[PenaltyShootoutPressure]] - knockout-stage strategy branch added by Planet Money.
 - [[Soccernomics]], [[SportsMegaEventWelfareAccounting]], [[FootballAsEconomicLaboratory]], and [[SportsFandomNetworkEffects]] - welfare and social-rhythm branch added by 蜜獾吃书.
+- [[ChinaCentralTelevision]], [[Lenovo]], [[Migu]], [[Douyin]], [[SportsRightsBusinessModel]], [[SportsRightsSublicensing]], [[SportsBroadcastPublicAccess]], and [[SportsRightsBubble]] - Chinese rights-negotiation branch added by E237.

@@ -2,8 +2,8 @@
 title: "FIFA"
 type: entity
 tags: [sports, football, governance]
-sources: [shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-264-ba-shijiebei-zuowei-fangfa-999416048, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]
-last_updated: 2026-07-10
+sources: [shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-264-ba-shijiebei-zuowei-fangfa-999416048, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]
+last_updated: 2026-08-04
 ---
 
 # FIFA
@@ -16,6 +16,8 @@ The source says FIFA uses the expanded 2026 tournament to grow media inventory, 
 
 [[e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]] adds FIFA through the [[UnitedStates]] market and [[DonaldTrump]] relationship lens. The episode treats a reported red-card reprieve involving [[GianniInfantino]] as a sign that FIFA's North American World Cup upside, U.S. exposure, and American commercial system now matter to football governance as well as tournament revenue.
 
+[[e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]] adds FIFA as a media-rights seller negotiating with [[ChinaCentralTelevision]] over a package covering two men's and two women's World Cups. The episode frames FIFA's position through global media-rights growth targets, the 104-match 2026 tournament, sponsor pressure from companies such as [[Lenovo]], and its long-running interest in separating Chinese television and new-media rights.
+
 ## Key Claims
 - FIFA's revenue in the source is concentrated around the men's World Cup, especially [[SportsMediaRights]], ticketing/hospitality, and marketing.
 - Expansion from 64 to 104 matches increases commercial inventory but also raises questions about competitive quality, player workload, and tournament length.
@@ -23,6 +25,7 @@ The source says FIFA uses the expanded 2026 tournament to grow media inventory, 
 - The source frames FIFA's growth push as partly a response to [[UEFA]] and European club influence.
 - The World Cup marketing source adds FIFA as the organizer whose sponsor platform can turn technology participation into [[GlobalSportsSponsorship]].
 - The Silicon Valley 101 source adds FIFA as an institution whose American-market dependence connects governance optics, [[DonaldTrump]], [[GianniInfantino]], and [[AmericanSportsCapitalInEuropeanFootball]].
+- E237 adds FIFA as a rights seller whose bargaining power depends on inventory growth, sponsor exposure, public-access obligations, and whether downstream Chinese platforms can monetize sublicensed rights.
 
 ## Connections
 - [[FIFAWorldCup]], [[WorldCupExpansion]], [[GianniInfantino]], [[DonaldTrump]], and [[UnitedStates]] - tournament, strategy, leadership, and host-market context in the sources.
@@ -30,3 +33,4 @@ The source says FIFA uses the expanded 2026 tournament to grow media inventory, 
 - [[SportsMediaRights]], [[SportsEventTicketing]], [[CorporateHospitalityPlatform]], [[LeagueStakeholderAlignment]], and [[FatLeagueEconomics]] - business concepts extended by the FIFA case.
 - [[GlobalSportsSponsorship]], [[Hisense]], [[Lenovo]], and [[Mengniu]] - sponsor and technology-partner extension added by Vol.264.
 - [[AmericanSportsCapitalInEuropeanFootball]] and [[DeFactoSuperLeagueLogic]] - club, rights, and competition-design extensions added by E243.
+- [[ChinaCentralTelevision]], [[SportsRightsBusinessModel]], [[SportsRightsSublicensing]], [[SportsRightsBubble]], and [[SportsBroadcastPublicAccess]] - negotiation and rights-pricing extension added by E237.

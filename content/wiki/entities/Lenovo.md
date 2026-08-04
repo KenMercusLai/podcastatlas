@@ -2,8 +2,8 @@
 title: "联想 / Lenovo"
 type: entity
 tags: [company, technology, hardware, globalization, sports]
-sources: [tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, vol-264-ba-shijiebei-zuowei-fangfa-999416048, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]
-last_updated: 2026-07-23
+sources: [tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, vol-264-ba-shijiebei-zuowei-fangfa-999416048, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]
+last_updated: 2026-08-04
 ---
 
 # 联想 / Lenovo
@@ -11,6 +11,8 @@ last_updated: 2026-07-23
 Lenovo appears in [[vol-264-ba-shijiebei-zuowei-fangfa-999416048]] as a Chinese technology company whose World Cup sponsorship matches its long overseas business structure. The episode contrasts Lenovo's route with [[Hisense]]: Lenovo entered the core PC market through its 2005 IBM PC acquisition and now has a large overseas revenue share, with the Americas described as its biggest single market.
 
 The source says the 2026 North American World Cup fits Lenovo's market geography. It also frames Lenovo's role as more than hardware supply: in 2024 Lenovo became FIFA's first global technology partner, and the episode says its World Cup work includes referee first-person view optimization, 3D digital-player presentation, team tactical analysis tools, and automatic highlight generation for FIFA media teams.
+
+[[e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]] adds Lenovo as a sponsor with direct exposure to the Chinese broadcast-rights outcome. Citing [[LazyBearSports]], the episode says Lenovo helped coordinate late-stage communication between [[FIFA]] and [[ChinaCentralTelevision]], because a World Cup sponsorship loses domestic impact if the tournament is not broadcast in China.
 
 [[tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128]] adds Lenovo as a large PC vendor in [[TomMinelli]]'s [[MemoryChipShortage]] discussion. The episode groups Lenovo with [[HPInc|HP]], [[DellTechnologies|Dell]], and [[Apple]] as companies likely to secure memory allocations better than smaller regional PC vendors or custom desktop builders.
 
@@ -20,6 +22,7 @@ The source says the 2026 North American World Cup fits Lenovo's market geography
 - Lenovo's overseas revenue share is described as close to 80%, with the Americas contributing more than one third of total revenue.
 - The episode links Lenovo's Mexico manufacturing footprint and North American business focus to the commercial logic of sponsoring a U.S.-Canada-Mexico World Cup.
 - The sponsorship extends the company from devices into AI, media, visualization, and event-technology services.
+- E237 adds that broadcast availability can become part of sponsorship value, even when sponsorship contracts and rights sales remain separate deals.
 - The phone-history episode positions Lenovo as a carrier-channel winner that struggled when [[OperatorSubsidizedHandsets]] gave way to consumer branding, software, channels, and supply-chain execution.
 - The Marketplace Tech source positions Lenovo as a large PC buyer with potential allocation advantage during an AI-driven memory shortage.
 
@@ -28,5 +31,6 @@ The source says the 2026 North American World Cup fits Lenovo's market geography
 - [[GlobalSportsSponsorship]] - sponsorship concept added by this source.
 - [[ChineseHardwareGlobalization]], [[ConsumerBrandMoat]], and [[TrustAsBusinessAsset]] - broader trust and globalization frames.
 - [[Hisense]], [[Mengniu]], [[WandaGroup]], and [[YingliGreenEnergy]] - other Chinese sponsor cases in the episode.
+- [[ChinaCentralTelevision]], [[LazyBearSports]], [[SportsMediaRights]], and [[SportsBroadcastPublicAccess]] - rights-negotiation and exposure context added by E237.
 - [[OperatorSubsidizedHandsets]], [[ZTE]], [[Coolpad]], and [[Huawei]] - "中华酷联" context from episode 210.
 - [[MemoryChipShortage]], [[AIPCMemoryDemand]], [[HPInc|HP]], [[DellTechnologies|Dell]], and [[Apple]] - PC memory-allocation branch added by Marketplace Tech.

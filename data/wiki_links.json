@@ -5195,6 +5195,10 @@
     "title": "China Youth Unemployment",
     "url": "/wiki/concepts/chinayouthunemployment/"
   },
+  "ChineseBasketballAssociation": {
+    "title": "中国男子篮球职业联赛 / Chinese Basketball Association",
+    "url": "/wiki/entities/chinesebasketballassociation/"
+  },
   "ChineseCharacterEvidenceDiscipline": {
     "title": "Chinese Character Evidence Discipline",
     "url": "/wiki/concepts/chinesecharacterevidencediscipline/"
@@ -5258,6 +5262,10 @@
   "ChinesePrivateAirlineOpening": {
     "title": "Chinese Private Airline Opening",
     "url": "/wiki/concepts/chineseprivateairlineopening/"
+  },
+  "ChineseSuperLeague": {
+    "title": "中国足球超级联赛 / Chinese Super League",
+    "url": "/wiki/entities/chinesesuperleague/"
   },
   "ChineseZodiac": {
     "title": "Chinese Zodiac / 十二生肖",
@@ -6542,6 +6550,10 @@
   "DADavidson": {
     "title": "D.A. Davidson",
     "url": "/wiki/entities/dadavidson/"
+  },
+  "DAZN": {
+    "title": "DAZN",
+    "url": "/wiki/entities/dazn/"
   },
   "DEAExemptionProcess": {
     "title": "DEA Exemption Process",
@@ -14171,6 +14183,14 @@
     "title": "Lazada",
     "url": "/wiki/entities/lazada/"
   },
+  "LazyBearSports": {
+    "title": "懒熊体育 / LazyBear Sports",
+    "url": "/wiki/entities/lazybearsports/"
+  },
+  "LeSports": {
+    "title": "乐视体育 / LeSports",
+    "url": "/wiki/entities/lesports/"
+  },
   "LeagueStakeholderAlignment": {
     "title": "League Stakeholder Alignment",
     "url": "/wiki/concepts/leaguestakeholderalignment/"
@@ -14722,6 +14742,10 @@
   "LixinAccounting": {
     "title": "立信会计",
     "url": "/wiki/entities/lixinaccounting/"
+  },
+  "LizanSports": {
+    "title": "力赞体育 / Lizan Sports",
+    "url": "/wiki/entities/lizansports/"
   },
   "LoanCapAccessRisk": {
     "title": "Loan Cap Access Risk",
@@ -18094,6 +18118,10 @@
   "PPS": {
     "title": "PPS",
     "url": "/wiki/entities/pps/"
+  },
+  "PPSports": {
+    "title": "PP体育 / PP Sports",
+    "url": "/wiki/entities/ppsports/"
   },
   "PacificTelephoneAndTelegraph": {
     "title": "Pacific Telephone and Telegraph",
@@ -22439,6 +22467,10 @@
     "title": "Sports As Historical Reading Frame",
     "url": "/wiki/concepts/sportsashistoricalreadingframe/"
   },
+  "SportsBroadcastPublicAccess": {
+    "title": "Sports Broadcast Public Access",
+    "url": "/wiki/concepts/sportsbroadcastpublicaccess/"
+  },
   "SportsCollectiveBargaining": {
     "title": "Sports Collective Bargaining",
     "url": "/wiki/concepts/sportscollectivebargaining/"
@@ -22491,9 +22523,21 @@
     "title": "Sports Political Interference",
     "url": "/wiki/concepts/sportspoliticalinterference/"
   },
+  "SportsRightsBubble": {
+    "title": "Sports Rights Bubble",
+    "url": "/wiki/concepts/sportsrightsbubble/"
+  },
+  "SportsRightsBusinessModel": {
+    "title": "Sports Rights Business Model",
+    "url": "/wiki/concepts/sportsrightsbusinessmodel/"
+  },
   "SportsRightsGrowthEngine": {
     "title": "Sports Rights Growth Engine",
     "url": "/wiki/concepts/sportsrightsgrowthengine/"
+  },
+  "SportsRightsSublicensing": {
+    "title": "Sports Rights Sublicensing",
+    "url": "/wiki/concepts/sportsrightssublicensing/"
   },
   "SportsTanking": {
     "title": "Sports Tanking",
@@ -24659,6 +24703,10 @@
     "title": "UEFA",
     "url": "/wiki/entities/uefa/"
   },
+  "UFC": {
+    "title": "UFC",
+    "url": "/wiki/entities/ufc/"
+  },
   "UFOConspiracyCulture": {
     "title": "UFO Conspiracy Culture",
     "url": "/wiki/concepts/ufoconspiracyculture/"
@@ -26715,6 +26763,10 @@
     "title": "张爱玲 / Eileen Chang",
     "url": "/wiki/entities/zhangailing/"
   },
+  "ZhangBinSportsMedia": {
+    "title": "张斌 / Zhang Bin",
+    "url": "/wiki/entities/zhangbinsportsmedia/"
+  },
   "ZhangCongzhi": {
     "title": "张从志 / Zhang Congzhi",
     "url": "/wiki/entities/zhangcongzhi/"
@@ -26954,6 +27006,10 @@
   "ZhuNing": {
     "title": "朱宁 / Zhu Ning",
     "url": "/wiki/entities/zhuning/"
+  },
+  "ZhuXiaodongSportsRights": {
+    "title": "朱晓东 / Zhu Xiaodong",
+    "url": "/wiki/entities/zhuxiaodongsportsrights/"
   },
   "ZhuangMinghao": {
     "title": "庄明浩 / 庄明昊",
@@ -27350,6 +27406,10 @@
   "e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4": {
     "title": "E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？",
     "url": "/wiki/sources/e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4/"
+  },
+  "e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6": {
+    "title": "E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意",
+    "url": "/wiki/sources/e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6/"
   },
   "e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923": {
     "title": "E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI",

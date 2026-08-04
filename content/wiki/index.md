@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意](sources/e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6.md) — 硅谷101 episode on CCTV-FIFA World Cup rights negotiations, Chinese sports-rights sublicensing, sponsor pressure, platform LTV, sports-rights bubbles, and U.S. streaming-driven rights inflation.
 - [A trip to the magic mushroom megachurch](sources/a-trip-to-the-magic-mushroom-megachurch.md) — Planet Money episode on Zydor Church, psychedelic churches, religious controlled-substance exemptions, the DEA process, cash sacrament donations, and the line between faith, harm reduction, and gray-market access.
 - [串台.「你吃香菜吗」女生版：你愿意和性转之后的自己在一起吗？](sources/chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723.md) — 蜜獾吃书 crossover with 你吃香菜吗 using a gender-swapped-self dating prompt to discuss similarity, complementarity, emotional support, sincerity, and distributing relationship needs across partners and friends.
 - [22.足球经济学：读者不必是球迷](sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427.md) — 蜜獾吃书 episode on 《足球经济学》 / Soccernomics, football as an economics laboratory, analytics, discrimination, manager myths, open talent markets, club finance, event welfare, and publication delay.
@@ -650,6 +651,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [朱晓东 / Zhu Xiaodong](entities/ZhuXiaodongSportsRights.md) — Sports-rights specialist and Lizan Sports CEO explaining World Cup rights pricing, packaging, and buyer capacity in E237.
+- [张斌 / Zhang Bin](entities/ZhangBinSportsMedia.md) — Sports media figure explaining platform and China-market implications of CCTV-FIFA rights negotiation in E237.
+- [力赞体育 / Lizan Sports](entities/LizanSports.md) — Sports-rights company context for Zhu Xiaodong in E237.
+- [懒熊体育 / LazyBear Sports](entities/LazyBearSports.md) — Sports-business outlet cited for the late-stage CCTV-FIFA negotiation and Lenovo coordination timeline.
+- [乐视体育 / LeSports](entities/LeSports.md) — China sports-streaming bubble case used to show how rights prices can exceed local monetization capacity.
+- [PP体育 / PP Sports](entities/PPSports.md) — China sports-streaming rights case tied to high-priced Premier League rights and later market repricing.
+- [DAZN](entities/DAZN.md) — Sports-streaming comparison case for high-priced rights, long losses, and eventual recovery attempts.
+- [UFC](entities/UFC.md) — U.S. combat-sports rights case used as a top-rights inflation benchmark.
+- [中国足球超级联赛 / Chinese Super League](entities/ChineseSuperLeague.md) — Local football-rights case used to define sports-rights bubbles relative to monetization capacity.
+- [中国男子篮球职业联赛 / Chinese Basketball Association](entities/ChineseBasketballAssociation.md) — Chinese basketball league case for short-video rights and live-commerce monetization.
 - [Zydor Church](entities/ZydorChurch.md) — Oakland psychedelic church using mushrooms and DMT as sacrament while testing the boundary between religion, harm reduction, and federal drug law.
 - [Dave Hodges](entities/DaveHodges.md) — Founder and leader of Zydor Church whose mushroom-vision origin story and donation model anchor the episode's sincerity and commerce tension.
 - [John Rapp](entities/JohnRapp.md) — Lawyer advising psychedelic churches on legal risk, religious-legibility criteria, and controlled-substance exemptions.
@@ -4399,6 +4410,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Sports Rights Business Model](concepts/SportsRightsBusinessModel.md) — Accounting frame for pricing sports rights through ads, sublicensing, membership, LTV, sponsor exposure, and platform strategy.
+- [Sports Rights Sublicensing](concepts/SportsRightsSublicensing.md) — Downstream distribution layer where an upstream buyer such as CCTV resells or packages live, replay, VOD, and platform-specific sports rights.
+- [Sports Rights Bubble](concepts/SportsRightsBubble.md) — Rights-market condition where prices exceed local buyer monetization capacity even if absolute prices remain below richer global benchmarks.
+- [Sports Broadcast Public Access](concepts/SportsBroadcastPublicAccess.md) — Public-access rule and norm layer that keeps major sports events broadly visible despite high rights prices.
 - [Psychedelic Churches](concepts/PsychedelicChurches.md) — Religious organizations using psychoactive substances as sacrament while navigating sincerity, safety, exemption, and gray-market access questions.
 - [Religious Controlled-Substance Exemption](concepts/ReligiousControlledSubstanceExemption.md) — Legal possibility that a religious group may receive protection for sacramental use of otherwise prohibited substances.
 - [Controlled Substances Act](concepts/ControlledSubstancesAct.md) — Federal drug-law frame that keeps psychedelic sacrament risky without exemption despite local tolerance or religious claims.
