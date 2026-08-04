@@ -4399,6 +4399,10 @@
     "title": "CPG Manufacturing Scale-Up",
     "url": "/wiki/concepts/cpgmanufacturingscaleup/"
   },
+  "CPGroup": {
+    "title": "CP Group / 正大集团",
+    "url": "/wiki/entities/cpgroup/"
+  },
   "CR450": {
     "title": "CR450",
     "url": "/wiki/entities/cr450/"
@@ -4947,9 +4951,21 @@
     "title": "超哥",
     "url": "/wiki/entities/chaoge/"
   },
+  "Chaoshan": {
+    "title": "Chaoshan / 潮汕",
+    "url": "/wiki/entities/chaoshan/"
+  },
+  "ChaoshanMaritimeCommercialCulture": {
+    "title": "Chaoshan Maritime Commercial Culture",
+    "url": "/wiki/concepts/chaoshanmaritimecommercialculture/"
+  },
   "ChaoxiGuangnian": {
     "title": "Chaoxi Guangnian",
     "url": "/wiki/entities/chaoxiguangnian/"
+  },
+  "Chaozhou": {
+    "title": "Chaozhou / 潮州",
+    "url": "/wiki/entities/chaozhou/"
   },
   "CharacterAI": {
     "title": "Character AI",
@@ -5043,6 +5059,10 @@
     "title": "Chemosensation",
     "url": "/wiki/concepts/chemosensation/"
   },
+  "ChenCihong": {
+    "title": "Chen Cihong / 陈慈黉",
+    "url": "/wiki/entities/chencihong/"
+  },
   "ChenCongzhou": {
     "title": "Chen Congzhou / 陈从周",
     "url": "/wiki/entities/chencongzhou/"
@@ -5098,6 +5118,10 @@
   "Chengdu": {
     "title": "Chengdu / 成都",
     "url": "/wiki/entities/chengdu/"
+  },
+  "ChenghaiToyCluster": {
+    "title": "Chenghai Toy Cluster",
+    "url": "/wiki/concepts/chenghaitoycluster/"
   },
   "Chenghuang": {
     "title": "城隍",
@@ -5250,6 +5274,10 @@
   "ChinaSouthernAirlines": {
     "title": "China Southern Airlines / 南方航空",
     "url": "/wiki/entities/chinasouthernairlines/"
+  },
+  "ChinaSpecialEconomicZoneAsymmetry": {
+    "title": "China Special Economic Zone Asymmetry",
+    "url": "/wiki/concepts/chinaspecialeconomiczoneasymmetry/"
   },
   "ChinaSupplySideClearing": {
     "title": "China Supply-Side Clearing",
@@ -7303,6 +7331,10 @@
     "title": "Diaspora Capital Manufacturing Clusters",
     "url": "/wiki/concepts/diasporacapitalmanufacturingclusters/"
   },
+  "DiasporaCapitalReturnLimits": {
+    "title": "Diaspora Capital Return Limits",
+    "url": "/wiki/concepts/diasporacapitalreturnlimits/"
+  },
   "Didi": {
     "title": "Didi",
     "url": "/wiki/entities/didi/"
@@ -8778,6 +8810,10 @@
   "ExplorationToExtractionPipeline": {
     "title": "Exploration To Extraction Pipeline",
     "url": "/wiki/concepts/explorationtoextractionpipeline/"
+  },
+  "ExportTaxFraudCreditCrisis": {
+    "title": "Export Tax Fraud Credit Crisis",
+    "url": "/wiki/concepts/exporttaxfraudcreditcrisis/"
   },
   "ExposureDosageCausality": {
     "title": "Exposure-Dosage Causality",
@@ -13211,6 +13247,10 @@
     "title": "Jie Dechen",
     "url": "/wiki/entities/jiedechen/"
   },
+  "Jieyang": {
+    "title": "Jieyang / 揭阳",
+    "url": "/wiki/entities/jieyang/"
+  },
   "JijianFayiJianshiShouce": {
     "title": "《极简法医鉴识手册》",
     "url": "/wiki/entities/jijianfayijianshishouce/"
@@ -14574,6 +14614,10 @@
   "LiJigang": {
     "title": "Li Jigang / 李继刚",
     "url": "/wiki/entities/lijigang/"
+  },
+  "LiKaShing": {
+    "title": "Li Ka-shing / 李嘉诚",
+    "url": "/wiki/entities/likashing/"
   },
   "LiLiang": {
     "title": "Li Liang",
@@ -16318,6 +16362,10 @@
   "MerchantAndAlchemistsGate": {
     "title": "The Merchant and the Alchemist's Gate",
     "url": "/wiki/entities/merchantandalchemistsgate/"
+  },
+  "MerchantToIndustrialCityUpgrade": {
+    "title": "Merchant To Industrial City Upgrade",
+    "url": "/wiki/concepts/merchanttoindustrialcityupgrade/"
   },
   "MeritBasedImmigrationFilter": {
     "title": "Merit-Based Immigration Filter",
@@ -20467,6 +20515,10 @@
     "title": "丹顶鹤 / Red-crowned Crane",
     "url": "/wiki/entities/redcrownedcrane/"
   },
+  "RedHeadShips": {
+    "title": "Red Head Ships / 红头船",
+    "url": "/wiki/concepts/redheadships/"
+  },
   "RedHeadedWoodPigeon": {
     "title": "红头黑铃鸽",
     "url": "/wiki/entities/redheadedwoodpigeon/"
@@ -20514,6 +20566,10 @@
   "ReformUK": {
     "title": "Reform UK",
     "url": "/wiki/entities/reformuk/"
+  },
+  "RegionalAdministrativeFragmentation": {
+    "title": "Regional Administrative Fragmentation",
+    "url": "/wiki/concepts/regionaladministrativefragmentation/"
   },
   "RegionalLaborMarketScarring": {
     "title": "Regional Labor Market Scarring",
@@ -22046,6 +22102,18 @@
   "Shangzhixing": {
     "title": "Shangzhixing",
     "url": "/wiki/entities/shangzhixing/"
+  },
+  "Shantou": {
+    "title": "Shantou / 汕头",
+    "url": "/wiki/entities/shantou/"
+  },
+  "ShantouSpecialEconomicZone": {
+    "title": "Shantou Special Economic Zone / 汕头经济特区",
+    "url": "/wiki/entities/shantouspecialeconomiczone/"
+  },
+  "ShantouUniversity": {
+    "title": "Shantou University / 汕头大学",
+    "url": "/wiki/entities/shantouuniversity/"
   },
   "Shanxi": {
     "title": "Shanxi / 山西",
@@ -23810,6 +23878,10 @@
   "TakiAI": {
     "title": "Taki AI",
     "url": "/wiki/entities/takiai/"
+  },
+  "Taksin": {
+    "title": "Taksin / 郑信",
+    "url": "/wiki/entities/taksin/"
   },
   "TakubokuBiography": {
     "title": "《石川啄木》 / Takuboku Biography",
@@ -26503,6 +26575,10 @@
     "title": "Xi Jinping",
     "url": "/wiki/entities/xijinping/"
   },
+  "Xiamen": {
+    "title": "Xiamen / 厦门",
+    "url": "/wiki/entities/xiamen/"
+  },
   "Xiangling": {
     "title": "香菱 / Xiangling",
     "url": "/wiki/entities/xiangling/"
@@ -26606,6 +26682,10 @@
   "XieChen": {
     "title": "谢晨",
     "url": "/wiki/entities/xiechen/"
+  },
+  "XieGuomin": {
+    "title": "Xie Guomin / 谢国民",
+    "url": "/wiki/entities/xieguomin/"
   },
   "XieSaining": {
     "title": "Xie Saining",
@@ -27267,6 +27347,10 @@
     "title": "张志浩",
     "url": "/wiki/entities/zhangzhihao/"
   },
+  "ZhanglinPort": {
+    "title": "Zhanglin Port / 张林港",
+    "url": "/wiki/entities/zhanglinport/"
+  },
   "ZhangmenOneOnOne": {
     "title": "Zhangmen One-on-One",
     "url": "/wiki/entities/zhangmenoneonone/"
@@ -27430,6 +27514,10 @@
   "Zhuangzi": {
     "title": "庄子",
     "url": "/wiki/entities/zhuangzi/"
+  },
+  "Zhuhai": {
+    "title": "Zhuhai / 珠海",
+    "url": "/wiki/entities/zhuhai/"
   },
   "ZhuiguangAnimation": {
     "title": "追光动画 / Zhuiguang Animation",
@@ -28274,6 +28362,10 @@
   "no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194": {
     "title": "No.204 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21",
     "url": "/wiki/sources/no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194/"
+  },
+  "no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046": {
+    "title": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹",
+    "url": "/wiki/sources/no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046/"
   },
   "no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500": {
     "title": "No.206 检索、送药、看病：互联网医疗这些年 | 中国互联网故事22",

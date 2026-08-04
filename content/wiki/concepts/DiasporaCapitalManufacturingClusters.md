@@ -2,8 +2,8 @@
 title: "Diaspora Capital Manufacturing Clusters"
 type: concept
 tags: [manufacturing, diaspora, industrial-cluster, china]
-sources: [no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918]
-last_updated: 2026-07-09
+sources: [no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918, no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046]
+last_updated: 2026-08-04
 ---
 
 # Diaspora Capital Manufacturing Clusters
@@ -12,12 +12,15 @@ Diaspora capital manufacturing clusters are the episode's pattern where overseas
 
 The concept does not claim that diaspora capital alone creates industry. The source's stronger point is accumulation: [[MinnanMaritimeCommercialCulture]], [[QiaopiRemittanceNetworks]], overseas Chinese houses, trust, labor availability, and local division of work created a base that reform-era manufacturing could activate. That makes the concept adjacent to [[ChinaHandsetSupplyChain]], but with a different origin: Jinjiang is a hometown-diaspora cluster, while Shenzhen electronics clusters are more directly tied to components, assembly, design houses, and global device supply chains.
 
+[[no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046]] adds a cautionary comparison through [[Chaoshan]] and [[ChenghaiToyCluster]]. The episode shows that diaspora ties and small-workshop clusters can support manufacturing pockets, but [[DiasporaCapitalReturnLimits]], [[RegionalAdministrativeFragmentation]], and [[ExportTaxFraudCreditCrisis]] can prevent those pockets from becoming a broader [[MerchantToIndustrialCityUpgrade]].
+
 ## Key Claims
 - Overseas money can become productive capital when it returns through houses, workshops, education, and local trust.
 - Industrial clusters form through specialized division of labor, not only through one factory or one entrepreneur.
 - Hometown identity can lower coordination cost when families, villages, and overseas contacts share obligations.
 - Manufacturing strength can be historically cumulative: sea trade, migration, remittance, and local labor organization all matter before a formal industrial label appears.
 - Regional clusters should be compared by their formation mechanism rather than treated as one generic "Chinese manufacturing" category.
+- The Chaoshan case adds a negative control: diaspora capital and local trust can be real while still insufficient for city-scale industrial transformation.
 
 ## Connections
 - [[Jinjiang]] — concrete manufacturing cluster case.
@@ -25,3 +28,4 @@ The concept does not claim that diaspora capital alone creates industry. The sou
 - [[QiaopiRemittanceNetworks]] and [[OverseasChineseMutualAidNetworks]] — financial and social preconditions.
 - [[MinnanMaritimeCommercialCulture]] — broader historical foundation.
 - [[ChinaHandsetSupplyChain]] and [[ChineseHardwareGlobalization]] — adjacent manufacturing and global-hardware concepts for comparison.
+- [[Chaoshan]], [[ChenghaiToyCluster]], [[DiasporaCapitalReturnLimits]], and [[MerchantToIndustrialCityUpgrade]] — comparison branch added by Banlatte episode 205.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹](sources/no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046.md) — Banlatte episode on Chaoshan maritime trade, qiaopi remittances, overseas Chinese capital, Shantou's special-zone asymmetry, the 1991 split, export-tax fraud, and why Shantou did not become a Shenzhen-style industrial city.
 - [No.202 盛大的盛大，传奇的传奇 | 中国互联网故事20](sources/no-202-shengdade-shengda-chuanqide-chuanqi-zhongguo-hulianwang-gushi-20-977833518.md) — 半拿铁 episode on Shanda, Chen Tianqiao, Legend, internet-cafe point-card distribution, online-game social organization, IP rights, private servers, Shanda Box, Shanda Literature, and founder health stop signs.
 - [No.201 中国高铁简史](sources/no-201-zhongguo-gaotie-jianshi-976314772.md) — 半拿铁 episode on China's high-speed rail from the Jinghu route debate, maglev versus wheel-rail, EMU procurement and technology transfer to Liu Zhijun, corruption, Wenzhou accident, Fuxinghao, and CR450.
 - [No.199 自行车 200年](sources/no-199-zixingche-200-nian-973489465.md) — 半拿铁 episode on bicycle history from Drais and safety bicycles to patent power, road lobbying, China's 凤永飞 era, shared-bike manufacturing shock, Shimano components, and E-bike opportunities.
@@ -656,6 +657,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Chaoshan / 潮汕](entities/Chaoshan.md) — eastern Guangdong region whose maritime, diaspora, qiaopi, and special-zone history anchors Banlatte episode 205.
+- [Shantou / 汕头](entities/Shantou.md) — Chaoshan port city and special economic zone used to compare merchant networks with industrial-city upgrading.
+- [Chaozhou / 潮州](entities/Chaozhou.md) — Chaoshan city used in the source's 1991 administrative split and regional-scale discussion.
+- [Jieyang / 揭阳](entities/Jieyang.md) — Chaoshan city used in the source's administrative fragmentation comparison.
+- [Zhanglin Port / 张林港](entities/ZhanglinPort.md) — early Chaoshan port tied to red head ships, Siam rice, and Southeast Asia routes.
+- [Shantou Special Economic Zone / 汕头经济特区](entities/ShantouSpecialEconomicZone.md) — first-batch special zone whose initial scale and design are contrasted with Shenzhen.
+- [Zhuhai / 珠海](entities/Zhuhai.md) — first-batch special economic zone used in the Shantou/Shenzhen comparison set.
+- [Xiamen / 厦门](entities/Xiamen.md) — first-batch special economic zone and adjacent Fujian maritime-policy comparison node.
+- [Taksin / 郑信](entities/Taksin.md) — Thai/Siamese historical figure with Chaoshan ancestry used in the migration-imagination branch.
+- [Chen Cihong / 陈慈黉](entities/ChenCihong.md) — overseas Chaoshan merchant figure illustrating private qiaopi-era trade and exchange networks.
+- [Li Ka-shing / 李嘉诚](entities/LiKaShing.md) — Chaoshan-rooted entrepreneur whose Shantou University support illustrates diaspora philanthropy limits.
+- [Shantou University / 汕头大学](entities/ShantouUniversity.md) — hometown education project tied to Li Ka-shing and diaspora return capital.
+- [CP Group / 正大集团](entities/CPGroup.md) — Thai-Chinese conglomerate used as an early reform-era return-investment case.
+- [Xie Guomin / 谢国民](entities/XieGuomin.md) — CP Group leader connected to early foreign-investment approvals in Shenzhen, Zhuhai, and Shantou.
 - [Shanda / 盛大](entities/Shanda.md) — Early Chinese internet and online-game company that turned Legend into a full operating stack before attempting a broader entertainment-platform strategy.
 - [《传奇》 / Legend of Mir](entities/LegendOfMir.md) — Korean MMORPG whose China operation by Shanda became a defining early online-game commercialization and IP-long-tail case.
 - [Actozsoft](entities/Actozsoft.md) — Korean Legend rights holder whose relationship with Shanda and WeMade anchors the episode's long IP-dispute branch.
@@ -4483,6 +4498,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chaoshan Maritime Commercial Culture](concepts/ChaoshanMaritimeCommercialCulture.md) — pattern tying Chaoshan geography, outmigration, ports, qiaopi, and overseas trade to later industrial-upgrade limits.
+- [Red Head Ships / 红头船](concepts/RedHeadShips.md) — Chaoshan maritime-trade vessel system linked to Zhanglin Port, Siam rice, and Southeast Asia migration.
+- [China Special Economic Zone Asymmetry](concepts/ChinaSpecialEconomicZoneAsymmetry.md) — idea that first-batch special zones differed sharply in area, function, priority, and external adjacency.
+- [Diaspora Capital Return Limits](concepts/DiasporaCapitalReturnLimits.md) — constraint where remittances, philanthropy, and return investment do not automatically create local industrial clusters.
+- [Regional Administrative Fragmentation](concepts/RegionalAdministrativeFragmentation.md) — governance risk where a coherent economic region is split across competing local administrations.
+- [Export Tax Fraud Credit Crisis](concepts/ExportTaxFraudCreditCrisis.md) — regional credibility shock from false VAT invoices, fake exports, and tax-refund fraud investigations.
+- [Merchant To Industrial City Upgrade](concepts/MerchantToIndustrialCityUpgrade.md) — transition from merchant networks and trade to scalable urban industrial capacity.
+- [Chenghai Toy Cluster](concepts/ChenghaiToyCluster.md) — Shantou/Chaoshan toy-manufacturing pocket used as a partial but limited cluster example.
 - [Chinese Online Game Commercialization](concepts/ChineseOnlineGameCommercialization.md) — Business-system pattern where a hit online game needs rights, servers, bandwidth, internet-cafe channels, prepaid cards, service, community, and capital.
 - [Internet-Cafe Point-Card Distribution](concepts/InternetCafePointCardDistribution.md) — Offline-to-online acquisition and payment channel that let early Chinese online games scale before app stores or mobile payment.
 - [Online Game Social Organization](concepts/OnlineGameSocialOrganization.md) — Multiplayer retention mechanism where guilds, PK, scarce equipment, siege warfare, status, and virtual property bind players into durable groups.

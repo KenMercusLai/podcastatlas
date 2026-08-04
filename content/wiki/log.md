@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-04] ingest | No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹
+
+Added source page for a 半拿铁 episode on Chaoshan maritime trade, qiaopi remittance networks, overseas Chinese return capital, Shantou's special economic zone constraints, the 1991 Chaoshan split, export-tax fraud, and why Shantou did not become a Shenzhen-style industrial city. Created pages for Chaoshan, Shantou, Chaozhou, Jieyang, Zhanglin Port, Shantou Special Economic Zone, Zhuhai, Xiamen, Taksin, Chen Cihong, Li Ka-shing, Shantou University, CP Group, Xie Guomin, Chaoshan Maritime Commercial Culture, Red Head Ships, China Special Economic Zone Asymmetry, Diaspora Capital Return Limits, Regional Administrative Fragmentation, Export Tax Fraud Credit Crisis, Merchant To Industrial City Upgrade, and Chenghai Toy Cluster; updated overview, index, Banlatte, Qiaopi Remittance Networks, Overseas Chinese Mutual Aid Networks, Diaspora Capital Manufacturing Clusters, Shenzhen, Hong Kong, Thailand, Singapore, Bank of China, and Pony Ma. No direct contradiction found; the source reinforces the existing Minnan qiaopi/diaspora branch while adding a negative comparison case where diaspora trust and merchant energy did not compound into city-scale industrial upgrading.
+
 ## [2026-08-04] ingest | A trip to the magic mushroom megachurch
 
 Added source page for a Planet Money episode on Zydor Church, psychedelic churches, religious controlled-substance exemptions, and the line between sincere religion, harm reduction, cash donation access, and gray-market drug-law workarounds. Created pages for Zydor Church, Dave Hodges, John Rapp, Church of Ambrosia, Drug Enforcement Administration, Native American Church, Oakland, Psilocybin Mushrooms, DMT, Psychedelic Churches, Religious Controlled-Substance Exemption, Controlled Substances Act, DEA Exemption Process, Myers Test, Sacrament Donation Model, Psychedelic Church Harm Reduction, Local Psychedelic Decriminalization, and High-Dose Psychedelic Practice; updated overview, index, NPR, Planet Money, Supreme Court, United States, California, and Food and Drug Administration. No direct contradiction found; the source extends existing regulatory-boundary and harm-reduction branches while distinguishing local decriminalization, federal illegality, and formal religious exemption.
@@ -5232,6 +5236,10 @@ Added source page for a 半拿铁 episode on Chinese high-speed rail from the la
 ## [2026-08-04] ingest | No.202 盛大的盛大，传奇的传奇 | 中国互联网故事20
 
 Added source page for a 半拿铁 episode on Shanda, Chen Tianqiao, Legend, early Chinese online-game commercialization, internet-cafe point-card distribution, online-game social organization, Actoz/WeMade IP disputes, private servers, free-to-play monetization, Shanda Box, Shanda Literature, Shanda Games, Century Huatong, Shanda Innovation Institute, Wi-Fi Master Key, and Chen's health-driven stop sign. Created pages for Shanda, Legend of Mir, Actozsoft, WeMade, Chen Danian, Luo Qianqian, Tang Jun, Shanda Literature, Qidian, Yuewen Group, Shanda Box, Haofang, Bianfeng, Ku6, Shanda Games, Shanda Innovation Institute, Wi-Fi Master Key, Kaiying Network, Century Huatong, Sina, Chinese Online Game Commercialization, Internet-Cafe Point-Card Distribution, Online Game Social Organization, Game IP Long Tail, Online Game Private-Server Ecosystem, Free-to-Play Game Monetization, Family Internet Portal Strategy, Founder Vision-Timing Mismatch, Founder Health Stop Sign, and Online Game IP Rights Disputes; updated overview, index, Banlatte, and Chen Tianqiao. No direct contradiction found; the source extends the existing Apodex-era Chen Tianqiao page backward into his Shanda/Legend history and forward into the health, philanthropy, and hard-problem arc.
+
+## [2026-08-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-04] lint | Wiki health check
 
