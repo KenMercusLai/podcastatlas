@@ -178,6 +178,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The 'biohacking' trend that has tech workers experimenting on themselves](sources/tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128.md) — Marketplace Tech episode with Jasmine Sun on Silicon Valley gray-market peptides, research-chemical labeling, cheaper GLP-1 access, health risks, and founder-style body optimization.
 - [Teaching students to 'be better than a robot'](sources/tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128.md) — Marketplace Tech episode with Christy Gerdhary on AI in classrooms, writing pedagogy, detector bias, transparent AI collaboration, and assignments that ask students to exceed generic chatbot output.
 - [Surveillance cameras livestreamed for the internet to see](sources/tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128.md) — Marketplace Tech episode on exposed Flock Safety camera feeds, Shodan discovery, archived public footage, license-plate linkage, playground surveillance, and Flock's limited-misconfiguration response.
+- [Farming in the digital age](sources/tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128.md) — Marketplace Tech episode with Andrew Nelson on farm digitization, GPS-guided tractors, AI-analyzed drone weed maps, Crop Wizard research retrieval, voice AI scenario testing, and making existing equipment smarter under commodity and input-cost pressure.
 - [E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起](sources/e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d.md) — 硅谷101 episode on Din Tai Fung, Gong Cha, U.S. restaurant real estate, tea-drink franchising, cultural food adoption, and why Chinese food brands need local legibility rather than home-market speed.
 - [E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？](sources/e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70.md) — 硅谷101 episode with Zhang Kuo on Alibaba's Axio, B2B-to-A2A trade, agentic sourcing, one-person companies, long-context business agents, and AI-native organization response.
 - [E230｜1万亿收入预期背后：英伟达的巅峰与软肋](sources/e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b.md) — 硅谷101 episode on Nvidia's $1 trillion Blackwell/Vera Rubin order narrative, inference demand, HBM and advanced packaging constraints, GPU cloud operations, neoclouds, and data-center land/power bottlenecks.
@@ -665,6 +666,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Andrew Nelson](entities/AndrewNelson.md) — Fifth-generation farmer and software engineer whose Marketplace Tech episode grounds farm AI in GPS equipment, drone mapping, Crop Wizard, voice models, and agronomist-in-the-loop judgment.
+- [Crop Wizard](entities/CropWizard.md) — UIUC agriculture AI project described as a way to retrieve university research documentation from farm images or situation descriptions.
+- [University of Illinois Urbana-Champaign](entities/UniversityOfIllinoisUrbanaChampaign.md) — University context for Crop Wizard and AI-assisted agricultural research retrieval in the Marketplace Tech farm episode.
 - [Jeff Ralston](entities/JeffRalston.md) — YC leader who succeeded Sam Altman before Garry Tan, appearing in Paul Graham's account of the YC leadership transition.
 - [《切尔诺贝利的午夜》 / Midnight in Chernobyl](entities/MidnightInChernobyl.md) — Nonfiction book read by 蜜獾吃书 as a restrained technical and institutional reconstruction of the Chernobyl disaster.
 - [《切尔诺贝利的悲鸣》 / Voices from Chernobyl](entities/VoicesFromChernobyl.md) — Testimonial Chernobyl work used as the comparison point for Midnight in Chernobyl.
@@ -4629,6 +4633,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Farm Decision Support](concepts/AIFarmDecisionSupport.md) — Farm AI pattern where models retrieve research, interpret field evidence, and test crop scenarios while farmers and agronomists retain final judgment.
+- [Digital Agriculture](concepts/DigitalAgriculture.md) — Farm digitization layer where software, data, sensors, imagery, and AI enter everyday field operations and equipment decisions.
+- [Drone Crop Mapping](concepts/DroneCropMapping.md) — Use of aerial field imagery and AI analysis to identify crop or weed conditions that human scouting may miss.
+- [Precision Agriculture](concepts/PrecisionAgriculture.md) — Data-rich farm-management pattern that breaks fields into finer decision zones through GPS-guided equipment, imagery, and local measurement.
 - [YC Growth Flywheel](concepts/YCGrowthFlywheel.md) — YC growth pattern where essays, Startup School, deadlines, alumni word of mouth, application links, brand legitimacy, and Hacker News reinforced one another.
 - [Startup Pitch Compression](concepts/StartupPitchCompression.md) — Fundraising communication discipline that reduces a pitch to the few load-bearing points investors can remember and repeat.
 - [Founder Support Triage](concepts/FounderSupportTriage.md) — Startup-support distinction between concentrated turnaround help and gentler care for companies that look unlikely to recover.
@@ -5520,7 +5528,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Industrial Subsidy Dependence](concepts/IndustrialSubsidyDependence.md) — Fragility created when an industrial hub remains viable only because public incentives keep firms there.
 - [Protected Domestic-Market Industrialization](concepts/ProtectedDomesticMarketIndustrialization.md) — Industrial path where sheltered home-market factories grow without enough pressure to become globally competitive.
 - [Premature Deindustrialization](concepts/PrematureDeindustrialization.md) — Pattern where countries lose manufacturing's employment and growth role before reaching high-income status.
-- [Advanced Agriculture Innovation](concepts/AdvancedAgricultureInnovation.md) — Brazil growth path treating crop adaptation, sustainability, and productivity research as high-knowledge development work.
+- [Advanced Agriculture Innovation](concepts/AdvancedAgricultureInnovation.md) — Agriculture-as-high-knowledge-sector frame spanning crop adaptation, productivity research, farm digitization, and AI-supported field operations.
 - [Localized Innovation Advantage](concepts/LocalizedInnovationAdvantage.md) — Strategy of escaping middle-income stagnation through local resources, constraints, markets, and knowledge rather than copied factory ladders.
 - [Biodegradable Amazon Plastics](concepts/BiodegradableAmazonPlastics.md) — Tutiplast example of turning Amazon plant waste into material-science innovation rooted in local inputs.
 - [Paid Vacation As Labor Right](concepts/PaidVacationAsLaborRight.md) — Legal paid-time-off baseline contrasted with the U.S. system of employer-dependent vacation access.

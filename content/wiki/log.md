@@ -5312,3 +5312,11 @@ Added source page for The Social Radars episode with Justin Kan on Kiko, YC's fi
 ## [2026-08-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-04] ingest | Farming in the digital age
+
+Added source page for a Marketplace Tech episode on Andrew Nelson, a fifth-generation farmer and software engineer, using GPS-guided tractors, AI-analyzed drone weed maps, Crop Wizard, ChatGPT-style voice models, and agronomist-in-the-loop judgment to make farm operations more data-rich. Created pages for Andrew Nelson, Crop Wizard, University of Illinois Urbana-Champaign, Digital Agriculture, Precision Agriculture, Drone Crop Mapping, and AI Farm Decision Support; updated overview, index, Marketplace Tech, Megan McCarty-Corino, ChatGPT, Advanced Agriculture Innovation, AI Assistant Augmentation, Human Judgment Under AI, Voice Interaction, Commodity Price Exposure, Mundane AI Use Cases, Offline AI Implementation, and Frontline AI Enablement. No direct contradiction found; the source extends agriculture-as-high-knowledge-work into practical field operations where AI supports observation, research retrieval, and scenario testing without replacing farm or agronomic judgment.
+
+## [2026-08-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

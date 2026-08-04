@@ -2,8 +2,8 @@
 title: "Offline AI Implementation"
 type: concept
 tags: [ai, offline-retail, operations, product]
-sources: [women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
-last_updated: 2026-07-08
+sources: [tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
+last_updated: 2026-08-04
 ---
 
 # Offline AI Implementation
@@ -14,6 +14,8 @@ The concept is related to [[BusinessLedAITransformation]], but the setting is sm
 
 [[zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]] is the earlier source branch behind that flower-shop work. It describes how an initial small-program idea gave way to lighter H5 tooling and field-observed marketing hooks such as no-vase bouquets, reinforcing that AI product ideas need live operator and customer discovery.
 
+[[tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128]] adds the farm-equipment version through [[AndrewNelson]]. The useful AI surface is not a generic dashboard; it is [[DroneCropMapping]], [[CropWizard]] retrieval, and voice interaction while a farmer is driving a combine, sprayer, or tractor.
+
 ## Key Claims
 - Offline AI should start from the operating scene: who touches the order, what their hands and eyes are doing, where data appears, and which decisions are time-sensitive.
 - The first imagined use case is often wrong because outsiders overvalue visible waste or digitization and undervalue selling, response speed, customer trust, or staff responsibility.
@@ -23,6 +25,7 @@ The concept is related to [[BusinessLedAITransformation]], but the setting is sm
 - Physical workflows often need voice, printed output, cameras, and fallback routines rather than only dashboards.
 - Offline implementation remains local and compliance-bound; gift bundles, invoices, tobacco, food, and delivery promises can create legal or trust constraints that a model does not resolve.
 - Fieldwork can turn an assumed software problem into a positioning or demand problem, which changes what AI should build.
+- Farm implementation adds field imagery, agronomic advice, machinery constraints, crop scenarios, and input costs as physical-world context AI must respect.
 
 ## Connections
 - [[DirtyWork]] — the source reframes low-status, messy operations as the path to valid AI requirements.
@@ -32,3 +35,4 @@ The concept is related to [[BusinessLedAITransformation]], but the setting is sm
 - [[AIVisualMerchandising]] and [[OperationalDataCapture]] — concrete implementation layers added by the flower-shop source.
 - [[LocalLifePlatformDependency]] and [[ChinaAgentMarketFriction]] — platform and data constraints that shape offline AI value.
 - [[DomainExpertAlignment]], [[ProductLedWillingnessToPay]], and [[CustomerPull]] — early flower-shop branch where field observation decides what customers might actually value.
+- [[AndrewNelson]], [[DigitalAgriculture]], [[DroneCropMapping]], [[CropWizard]], and [[AIFarmDecisionSupport]] - farm-equipment and field-decision branch added by Marketplace Tech.

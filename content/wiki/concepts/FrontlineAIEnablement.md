@@ -2,8 +2,8 @@
 title: "Frontline AI Enablement"
 type: concept
 tags: [ai, management, operations]
-sources: [openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]
-last_updated: 2026-07-07
+sources: [tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]
+last_updated: 2026-08-04
 ---
 
 # Frontline AI Enablement
@@ -14,6 +14,8 @@ Frontline AI enablement is the management pattern where AI increases the judgmen
 
 [[women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]] expands that example into the store workflow itself. Florists may need voice prompts, printed order sheets, substitution images, and quick access to order details because their hands are occupied; the source argues that AI should assist the worker and responsible operator instead of pretending a system can force every frontline action.
 
+[[tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128]] adds an agricultural frontline through [[AndrewNelson]]. A farmer operating equipment can use [[ChatGPT]]-style voice models, [[CropWizard]], and [[DroneCropMapping]] to ask better questions in the moment, while the final decision still depends on local agronomic and business context.
+
 ## Key Claims
 - Headquarters algorithms can miss local context such as weather, neighborhood competitors, store-specific foot traffic, or temporary events.
 - Strong frontline workers have tacit "street wisdom" that should be captured and amplified, not overwritten by a single standardized SOP.
@@ -23,6 +25,7 @@ Frontline AI enablement is the management pattern where AI increases the judgmen
 - Frontline service work often separates data decisions from relationship decisions: AI may improve pricing or traffic analysis while humans preserve trust and handle exceptions.
 - In physical retail, the interface matters: voice, print, photos, and lightweight confirmation flows may fit frontline work better than a screen-heavy dashboard.
 - Attempts to micromanage frontline staff through software can fail if incentives, ownership, and practical responsibility are not aligned.
+- Farm work extends the same pattern beyond stores: AI enables the person closest to the field instead of centralizing every crop decision away from the operator.
 
 ## Connections
 - [[DigitalEmployees]] — AI assistants functioning as frontline coworkers.
@@ -32,3 +35,4 @@ Frontline AI enablement is the management pattern where AI increases the judgmen
 - [[AIOrganizationDesign]] — headquarters may shift from control and standardization toward enablement.
 - [[AIEngineeringThinking]] and [[DomainExpertAlignment]] — practical workflow and domain-know-how constraints from the Keji Luandun episode.
 - [[OfflineAIImplementation]], [[AIVisualMerchandising]], and [[OperationalDataCapture]] — flower-shop source where AI supports frontline order production and customer confirmation.
+- [[AndrewNelson]], [[DigitalAgriculture]], [[AIFarmDecisionSupport]], and [[VoiceInteraction]] - farm-frontline branch added by Marketplace Tech.

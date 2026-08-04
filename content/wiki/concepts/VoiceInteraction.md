@@ -2,8 +2,8 @@
 title: "Voice Interaction"
 type: concept
 tags: [voice, interaction, ai-native-products]
-sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]
-last_updated: 2026-07-25
+sources: [tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]
+last_updated: 2026-08-04
 ---
 
 # Voice Interaction
@@ -18,6 +18,8 @@ Voice interaction is presented as a still-open opportunity for AI-native product
 
 [[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] adds the public-wearable friction case. [[WillGottsagen]] says using the "hey Meta" voice command felt awkward even in a Meta store, which makes voice not only a technical interface but a social one. For [[WearableAIAssistant]] products, spoken commands must work in public without making the user or nearby people uncomfortable.
 
+[[tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128]] adds the field-equipment case through [[AndrewNelson]]. Nelson talks to [[ChatGPT]] and other AI voice models while driving a combine, sprayer, or tractor, showing why voice can matter when a worker's hands and eyes are occupied by physical operations.
+
 ## Source Notes
 - The episode connects voice to early WeChat usage patterns and voice messages.
 - It also mentions interactive audio experiences, including a game controlled by spoken pitch.
@@ -28,6 +30,7 @@ Voice interaction is presented as a still-open opportunity for AI-native product
 - The [[LateTalk]] source shows voice interaction moving toward full-duplex, interruptible, real-time assistant behavior through [[InteractionModel]].
 - The Marketplace Tech source shows voice interaction as a practical input layer for dictation and account-integrated assistant commands.
 - The AI-wearables Marketplace Tech source shows that public voice commands can become an adoption barrier even when recognition and response are technically possible.
+- The agriculture Marketplace Tech source shows voice interaction as an in-field decision-support interface rather than only a consumer convenience.
 
 ## Connections
 - [[WeChat]] — platform context for voice and social interaction.
@@ -39,3 +42,4 @@ Voice interaction is presented as a still-open opportunity for AI-native product
 - [[ThinkingMachinesLab]] and [[InteractionModel]] — full-duplex voice model branch added by LateTalk.
 - [[ChristopherMims]], [[Flow]], [[OpenAI]], [[GooglePersonalIntelligence]], and [[AmbientAIInterface]] - practical voice input and assistant branch added by Marketplace Tech.
 - [[WillGottsagen]], [[Meta]], [[RayBanSmartGlasses|Ray-Ban smart glasses]], and [[WearableAIAssistant]] - public voice-command friction added by Marketplace Tech.
+- [[AndrewNelson]], [[AIFarmDecisionSupport]], and [[DigitalAgriculture]] - field-equipment voice use added by Marketplace Tech.

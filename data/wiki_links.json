@@ -1047,6 +1047,10 @@
     "title": "AI Export Controls",
     "url": "/wiki/concepts/aiexportcontrols/"
   },
+  "AIFarmDecisionSupport": {
+    "title": "AI Farm Decision Support",
+    "url": "/wiki/concepts/aifarmdecisionsupport/"
+  },
   "AIFileManagement": {
     "title": "AI File Management",
     "url": "/wiki/concepts/aifilemanagement/"
@@ -2490,6 +2494,10 @@
   "AndrewJohnson": {
     "title": "Andrew Johnson",
     "url": "/wiki/entities/andrewjohnson/"
+  },
+  "AndrewNelson": {
+    "title": "Andrew Nelson",
+    "url": "/wiki/entities/andrewnelson/"
   },
   "AndreyMelnichenko": {
     "title": "Andrey Melnichenko",
@@ -6523,6 +6531,10 @@
     "title": "Crop Circle Debunking",
     "url": "/wiki/concepts/cropcircledebunking/"
   },
+  "CropWizard": {
+    "title": "Crop Wizard",
+    "url": "/wiki/entities/cropwizard/"
+  },
   "CrossBorderBrokerageRegulation": {
     "title": "Cross-Border Brokerage Regulation",
     "url": "/wiki/concepts/crossborderbrokerageregulation/"
@@ -7447,6 +7459,10 @@
     "title": "Digg",
     "url": "/wiki/entities/digg/"
   },
+  "DigitalAgriculture": {
+    "title": "Digital Agriculture",
+    "url": "/wiki/concepts/digitalagriculture/"
+  },
   "DigitalBedrock": {
     "title": "Digital Bedrock",
     "url": "/wiki/entities/digitalbedrock/"
@@ -7938,6 +7954,10 @@
   "DriveToSurvive": {
     "title": "Drive to Survive",
     "url": "/wiki/entities/drivetosurvive/"
+  },
+  "DroneCropMapping": {
+    "title": "Drone Crop Mapping",
+    "url": "/wiki/concepts/dronecropmapping/"
   },
   "DroneDecoyEconomics": {
     "title": "Drone Decoy Economics",
@@ -19963,6 +19983,10 @@
     "title": "Pre-Product Selling",
     "url": "/wiki/concepts/preproductselling/"
   },
+  "PrecisionAgriculture": {
+    "title": "Precision Agriculture",
+    "url": "/wiki/concepts/precisionagriculture/"
+  },
   "PrecisionManufacturingAsStrategy": {
     "title": "Precision Manufacturing As Strategy",
     "url": "/wiki/concepts/precisionmanufacturingasstrategy/"
@@ -26011,6 +26035,10 @@
     "title": "University of Cambridge",
     "url": "/wiki/entities/universityofcambridge/"
   },
+  "UniversityOfIllinoisUrbanaChampaign": {
+    "title": "University of Illinois Urbana-Champaign",
+    "url": "/wiki/entities/universityofillinoisurbanachampaign/"
+  },
   "UniversityOfMichigan": {
     "title": "University of Michigan",
     "url": "/wiki/entities/universityofmichigan/"
@@ -29362,6 +29390,10 @@
   "tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128": {
     "title": "How U.S. political campaigns have used generative AI",
     "url": "/wiki/sources/tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128/"
+  },
+  "tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128": {
+    "title": "Farming in the digital age",
+    "url": "/wiki/sources/tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128/"
   },
   "tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128": {
     "title": "Surveillance cameras livestreamed for the internet to see",
