@@ -2,7 +2,7 @@
 title: "Precision Manufacturing As Strategy"
 type: concept
 tags: [manufacturing, hard-tech, engineering, startups]
-sources: [no-201-zhongguo-gaotie-jianshi-976314772, no-199-zixingche-200-nian-973489465, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, rolex-1]
+sources: [no-201-zhongguo-gaotie-jianshi-976314772, no-199-zixingche-200-nian-973489465, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, rolex-1, ferrari-1]
 last_updated: 2026-08-04
 ---
 
@@ -20,6 +20,8 @@ The strategic point is that fast prototype learning requires manufacturing capab
 
 [[rolex-1]] adds a luxury-watch version through [[Rolex]]. The source treats [[Aegler]] movements, the [[RolexOysterPerpetual]], proprietary materials, consolidated Swiss production sites, and [[VerticalIntegrationForQualityControl]] as part of the brand promise rather than invisible manufacturing detail.
 
+[[ferrari-1]] adds a luxury-automotive version through [[Ferrari]]. The source treats [[Maranello]] manufacturing, bespoke configuration, and vertically controlled production as part of what makes a Ferrari feel valuable rather than a back-office cost center.
+
 ## Key Claims
 - In hard tech, manufacturing speed can be a learning-rate advantage, not only a later scaling function.
 - Precision at large physical scale requires instruments, fixtures, alignment processes, and operational discipline, not just simulation.
@@ -27,6 +29,7 @@ The strategic point is that fast prototype learning requires manufacturing capab
 - Mature mechanical categories can still contain deep process moats when small tolerances, tooling, material behavior, and system matching define the user experience.
 - System-scale manufacturing strategy includes maintenance, rescue compatibility, energy use, standard interfaces, and operating feedback, not only factory output.
 - In luxury hardware, precision manufacturing can become part of trust and willingness to pay because buyers need confidence that symbolic value is backed by real product durability.
+- In low-volume luxury automotive production, manufacturing specificity can be part of the customer experience: the buyer is paying for a particular factory, process, and configuration path.
 
 ## Connections
 - [[Helion]], [[DavidKirtley]], and [[HelionPolaris]] - source case.
@@ -35,3 +38,4 @@ The strategic point is that fast prototype learning requires manufacturing capab
 - [[Shimano]] and [[BicycleComponentStackPower]] - bicycle drivetrain and component-stack extension.
 - [[ChineseHighSpeedRail]], [[Hexiehao]], [[Fuxinghao]], [[CR450]], and [[HighSpeedRailSystemIntegration]] - railway manufacturing and standardization branch.
 - [[Rolex]], [[Aegler]], [[RolexOysterPerpetual]], [[VerticalIntegrationForQualityControl]], and [[HighVolumeLuxuryOperator]] - luxury-watch manufacturing branch.
+- [[Ferrari]], [[Maranello]], [[MakeToOrderLuxuryManufacturing]], and [[FunctionalAlibi]] - luxury-automotive manufacturing branch.

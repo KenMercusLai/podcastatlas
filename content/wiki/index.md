@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Ferrari](sources/ferrari-1.md) — Acquired episode on Ferrari as a luxury-motorsport business, from Enzo Ferrari and Scuderia Ferrari to Fiat/FCA ownership, Montezemolo's turnaround, scarcity, collector economics, and the EV challenge.
 - [The NFL](sources/the-nfl-1.md) — Acquired episode on the NFL as a league-first media and governance system built from competitive balance, pooled TV rights, the Sports Broadcasting Act, NFL Films, the Super Bowl, Monday Night Football, streaming, betting, international growth, and private-equity pressure.
 - [Rolex](sources/rolex-1.md) — Acquired episode on Rolex from Hans Wilsdorf, Aegler movements, Oyster waterproofing, professional watches, testimony marketing, the quartz crisis, foundation ownership, scarcity discipline, Bucherer, Tudor, vertical integration, and high-volume luxury positioning.
 - [Costco](sources/costco-1.md) — Acquired episode on Costco's warehouse-club model, from Sol Price, FedMart, and Price Club to membership fees, low markups, limited SKUs, inventory velocity, cross-docking, Kirkland Signature, and scale economies shared with members.
@@ -661,6 +662,40 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Enzo Ferrari](entities/EnzoFerrari.md) — Ferrari founder whose move from driver to organizer, dealer, racing operator, and brand builder anchors the Ferrari source.
+- [Scuderia Ferrari](entities/ScuderiaFerrari.md) — Racing organization that preceded Ferrari road cars and links Formula One, Tifosi fandom, and luxury brand power.
+- [Alfa Romeo](entities/AlfaRomeo.md) — Early racing and commercial platform through which Enzo Ferrari built Scuderia Ferrari.
+- [Luigi Chinetti](entities/LuigiChinetti.md) — Racer and U.S. demand broker who helped connect early Ferrari road cars to wealthy American buyers.
+- [Francesco Baracca](entities/FrancescoBaracca.md) — World War I aviator whose prancing horse symbol became part of Ferrari's visual identity.
+- [Pininfarina](entities/Pininfarina.md) — Italian design partner used by the Ferrari source to explain the bridge from racing machinery to Italian luxury.
+- [Gianni Agnelli](entities/GianniAgnelli.md) — Fiat/Agnelli figure and early Ferrari customer tying elite demand to Ferrari's later ownership context.
+- [Fiat](entities/Fiat.md) — Italian automaker whose 1969 Ferrari investment provided continuity and later set up the FCA spinout context.
+- [Piero Ferrari](entities/PieroFerrari.md) — Enzo Ferrari's son and continuing family shareholder/voting-control figure.
+- [Dino Ferrari](entities/DinoFerrari.md) — Enzo Ferrari's son whose death is source-scoped as part of Ferrari's grief, danger, and mythology.
+- [Luca di Montezemolo](entities/LucaDiMontezemolo.md) — Ferrari executive who first restored F1 competitiveness and later rebuilt Ferrari's modern luxury operating model.
+- [Sergio Marchionne](entities/SergioMarchionne.md) — Executive who pushed Ferrari's IPO and spinout from FCA, creating tension with scarcity-led luxury strategy.
+- [Fiat Chrysler Automobiles](entities/FiatChryslerAutomobiles.md) — Ferrari parent-company context whose debt and valuation pressure shaped the public-market separation.
+- [Henry Ford II](entities/HenryFordII.md) — Ford executive whose failed Ferrari acquisition attempt clarified Enzo Ferrari's racing-control priority.
+- [Ford Motor Company](entities/FordMotorCompany.md) — Mass automaker that tried to buy Ferrari and then competed directly at Le Mans.
+- [Exor](entities/Exor.md) — Agnelli-family holding company retaining major Ferrari voting influence after the spinout.
+- [John Elkann](entities/JohnElkann.md) — Exor/Agnelli governance figure in Ferrari's public-company ownership context.
+- [Benedetto Vigna](entities/BenedettoVigna.md) — Ferrari CEO linked to the source's "sells a dream" framing and modern EV/lifestyle challenge.
+- [Niki Lauda](entities/NikiLauda.md) — Ferrari driver tied to Luca di Montezemolo's first Formula One turnaround.
+- [Jean Todt](entities/JeanTodt.md) — Ferrari Formula One operator in the 2000-2004 Schumacher-era dynasty.
+- [Ross Brawn](entities/RossBrawn.md) — Ferrari technical/operator figure in the 2000-2004 Formula One dynasty.
+- [Michael Schumacher](entities/MichaelSchumacher.md) — Ferrari driver whose 2000-2004 championships refreshed Ferrari's racing heritage.
+- [Maserati](entities/Maserati.md) — Related Fiat/Ferrari-managed automotive brand used as a demand valve without diluting Ferrari.
+- [LoveFrom](entities/LoveFrom.md) — Design firm named in the Ferrari source as part of the Ferrari Luce EV project.
+- [Marc Newson](entities/MarcNewson.md) — Designer linked through LoveFrom to Ferrari's EV distinctiveness challenge.
+- [Maranello](entities/Maranello.md) — Ferrari manufacturing home and place-based part of its make-to-order luxury identity.
+- [Ferrari 166 Barchetta](entities/Ferrari166Barchetta.md) — Early Ferrari road car presented as the foundation of Ferrari's racing-and-road formula.
+- [Ferrari 250](entities/Ferrari250.md) — Product line used to connect Ferrari design, racing credibility, and collector mythology.
+- [Ferrari F40](entities/FerrariF40.md) — Enzo-era halo supercar used as a raw, dangerous expression of Ferrari's product myth.
+- [Ferrari Icona](entities/FerrariIcona.md) — Limited-model product category in Ferrari's modern product pyramid.
+- [Ferrari Purosangue](entities/FerrariPurosangue.md) — Ferrari utility vehicle capped by the source at 20% of production to protect brand scarcity.
+- [Ferrari Classiche](entities/FerrariClassiche.md) — Certification and restoration program reinforcing Ferrari collector economics and provenance.
+- [Ferrari Luce](entities/FerrariLuce.md) — Ferrari EV project described by the source as a test of electric-era emotional distinction.
+- [Tifosi](entities/Tifosi.md) — Ferrari fan base that lets non-owners participate in the brand through racing fandom.
 - [Pete Rozelle](entities/PeteRozelle.md) — NFL commissioner who centralized media rights, cultivated national storytelling, and helped build the Super Bowl and Monday Night Football.
 - [Bert Bell](entities/BertBell.md) — NFL commissioner associated with Any Given Sunday parity, reverse-order draft logic, scheduling, and shared economics.
 - [Lamar Hunt](entities/LamarHunt.md) — AFL founder whose rival-league and media-first strategy forced NFL merger pressure.
@@ -701,7 +736,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pan Am](entities/PanAm.md) — Airline partner whose pilot needs shaped the Rolex GMT-Master.
 - [Blancpain](entities/Blancpain.md) — Mechanical-only luxury repositioning case used as a contrast to Rolex after the quartz crisis.
 - [Jean-Claude Biver](entities/JeanClaudeBiver.md) — Watch entrepreneur who repositioned Blancpain around mechanical luxury after quartz.
-- [Porsche](entities/Porsche.md) — Automotive analogy for Rolex as high-volume, industrially reliable, emotionally premium luxury.
+- [Porsche](entities/Porsche.md) — Automotive contrast for Rolex and Ferrari, separating broad premium/luxury scale from Ferrari-style rarity.
 - [Rolex Oyster](entities/RolexOyster.md) — Waterproof Rolex line that turned sealed-case engineering into public brand proof.
 - [Rolex Oyster Perpetual](entities/RolexOysterPerpetual.md) — Rolex line combining Oyster waterproofing with automatic winding.
 - [Rolex Datejust](entities/RolexDatejust.md) — Postwar Rolex model used to connect technical credibility with elite identity.
@@ -3297,7 +3332,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gary Marcus](entities/GaryMarcus.md) — Cognitive scientist and NYU professor emeritus arguing in Marketplace Tech that robust AI needs world models, entity/state tracking, and causation rather than only statistical sequence prediction.
 - [Joanna Stern](entities/JoannaStern.md) — Technology columnist connecting Apple AI leadership pressure, AI hardware form factors, streaming consolidation, and AI-generated advertising backlash in the Marketplace Tech Bytes episode.
 - [John Ternus](entities/JohnTernus.md) — Apple engineering leader named in the Marketplace Tech source as the company's next CEO after Tim Cook.
-- [Jony Ive](entities/JonyIve.md) — Former Apple designer linked to OpenAI's possible AI device work and the unresolved next-interface question.
+- [Jony Ive](entities/JonyIve.md) — Former Apple designer linked to OpenAI device work and Ferrari's LoveFrom-supported EV design challenge.
 - [Warner Bros. Discovery](entities/WarnerBrosDiscovery.md) — Media company whose studio and streaming assets anchor the episode's Netflix-versus-Paramount consolidation discussion.
 - [Paramount](entities/Paramount.md) — David Ellison-led bidder in the Warner Bros. Discovery streaming-consolidation segment.
 - [McDonald's](entities/McDonalds.md) — Fast-food company used by episode 155 to explain Coca-Cola refill economics, marginal consumption, and targeted restaurant marketing.
@@ -4201,19 +4236,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cotton Clara](entities/CottonClara.md) — Craft-kit company working through maker positioning, repeat customers, community events, and gifting/wellness language.
 - [Vashon Island Coffee Dust](entities/VashonIslandCoffeeDust.md) — Spice-blend CPG brand using gifting, packaging, counter ritual, and use-case expansion to create repeat buyers.
 - [Christy Clement](entities/ChristyClement.md) — Vashon Island Coffee Dust founder asking how gift recipients become loyal repeat buyers.
-- [Acquired](entities/Acquired.md) — Business-history podcast/source context for the Disney, Formula One, Vanguard, Costco, Rolex, and NFL episodes.
+- [Acquired](entities/Acquired.md) — Business-history podcast/source context for the Disney, Formula One, Vanguard, Costco, Rolex, NFL, and Ferrari episodes.
 - [Wellington Management](entities/WellingtonManagement.md) — Asset-management company where Jack Bogle built his early career before the fund-board conflict that produced Vanguard.
 - [Fidelity](entities/Fidelity.md) — Asset-management and brokerage competitor used in the Vanguard episode as both go-go-era pressure and later low-fee platform threat.
 - [BlackRock](entities/BlackRock.md) — ETF and asset-management competitor whose iShares platform and Salim Ramji connection frame Vanguard's modern strategic challenge.
 - [State Street](entities/StateStreet.md) — Early ETF mover behind SPDR, used as the case for Vanguard missing the first ETF wave.
 - [Salim Ramji](entities/SalimRamji.md) — Vanguard's first outside CEO, brought in after leading BlackRock's iShares business to modernize Vanguard without weakening its identity.
-- [Formula One](entities/FormulaOne.md) — Global motorsport championship analyzed as a driver, engineering, media-rights, and stakeholder-governance business.
+- [Formula One](entities/FormulaOne.md) — Global motorsport championship analyzed as a driver, engineering, media-rights, stakeholder-governance, and Ferrari brand-power business.
 - [Formula One Group](entities/FormulaOneGroup.md) — Commercial F1 business that sells media rights, race promotion, sponsorship, hospitality, merchandise, and licensing.
 - [Liberty Media](entities/LibertyMedia.md) — F1 owner that professionalized fan access, stakeholder relations, digital media, U.S. growth, and cost-cap economics.
 - [Bernie Ecclestone](entities/BernieEcclestone.md) — F1 commercial centralizer who coordinated teams, promoters, and broadcasters into a valuable rights package.
 - [FIA](entities/FIA.md) — Motorsport governing body whose rule authority and official status anchor F1's championship legitimacy.
 - [CVC Capital Partners](entities/CVCCapitalPartners.md) — Private-equity owner in F1's pre-Liberty era, tied to higher race-promotion fees and monetization pressure.
-- [Ferrari](entities/Ferrari.md) — F1 team and luxury car brand used as a legitimacy, continuity, and brand-power case.
+- [Ferrari](entities/Ferrari.md) — Luxury automaker and F1 team analyzed as a scarce, racing-centered, community-backed dream business.
 - [Red Bull Racing](entities/RedBullRacing.md) — F1 team showing how brand media, paddock culture, hospitality, and engineering can become a championship platform.
 - [Mercedes F1](entities/MercedesF1.md) — Manufacturer-backed F1 team built from Brawn GP into a modern dynasty and valuable team asset.
 - [Brawn GP](entities/BrawnGP.md) — One-season F1 team whose double-diffuser advantage and 2009 titles became the base for Mercedes F1.
@@ -4580,6 +4615,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Luxury Brand As Sports Team](concepts/LuxuryBrandAsSportsTeam.md) — Ferrari model where ownership is scarce but mass fandom keeps the luxury brand culturally public.
+- [Racing Heritage Brand Moat](concepts/RacingHeritageBrandMoat.md) — Brand advantage from live racing, founder mythology, danger, wins, and technical credibility.
+- [Make-To-Order Luxury Manufacturing](concepts/MakeToOrderLuxuryManufacturing.md) — Luxury production model where waiting, customization, provenance, and factory control become part of value.
+- [Automotive Collector Economics](concepts/AutomotiveCollectorEconomics.md) — Ferrari-style system where cars act as serviced, authenticated, traded, and historically loaded assets.
+- [Halo Product Strategy](concepts/HaloProductStrategy.md) — Use of rare, high-status products to lift brand meaning, margins, and aspiration across a product range.
+- [Luxury Community Pyramid](concepts/LuxuryCommunityPyramid.md) — Layered brand structure with broad fandom at the base and tightly managed ownership at the top.
+- [Public Market Luxury Growth Tension](concepts/PublicMarketLuxuryGrowthTension.md) — Conflict between public-market growth pressure and luxury scarcity discipline.
+- [Functional Alibi](concepts/FunctionalAlibi.md) — Engineering, heritage, craft, or performance proof that justifies an emotional identity purchase.
 - [League First Operating Model](concepts/LeagueFirstOperatingModel.md) — NFL-style owner bargain where centralized rules, pooled rights, shared revenue, and parity grow the total league pie.
 - [Sports Broadcasting Act](concepts/SportsBroadcastingAct.md) — Legal and political mechanism allowing pooled national sports TV rights despite antitrust pressure.
 - [Live Sports Streaming Transition](concepts/LiveSportsStreamingTransition.md) — Shift from broadcast and cable sports rights toward streaming platforms that still need scarce live events.

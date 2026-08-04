@@ -2143,6 +2143,10 @@
     "title": "Alexis Ohanian",
     "url": "/wiki/entities/alexisohanian/"
   },
+  "AlfaRomeo": {
+    "title": "Alfa Romeo",
+    "url": "/wiki/entities/alfaromeo/"
+  },
   "AlfredAdler": {
     "title": "Alfred Adler / 阿尔弗雷德·阿德勒",
     "url": "/wiki/entities/alfredadler/"
@@ -3171,6 +3175,10 @@
     "title": "Automation Reinstatement Effect",
     "url": "/wiki/concepts/automationreinstatementeffect/"
   },
+  "AutomotiveCollectorEconomics": {
+    "title": "Automotive Collector Economics",
+    "url": "/wiki/concepts/automotivecollectoreconomics/"
+  },
   "AutonomousDrivingDataFlywheel": {
     "title": "Autonomous Driving Data Flywheel",
     "url": "/wiki/concepts/autonomousdrivingdataflywheel/"
@@ -3642,6 +3650,10 @@
   "Benchling": {
     "title": "Benchling",
     "url": "/wiki/entities/benchling/"
+  },
+  "BenedettoVigna": {
+    "title": "Benedetto Vigna",
+    "url": "/wiki/entities/benedettovigna/"
   },
   "Benfen": {
     "title": "Benfen / 本分",
@@ -7535,6 +7547,10 @@
     "title": "丁香医生",
     "url": "/wiki/entities/dingxiangdoctor/"
   },
+  "DinoFerrari": {
+    "title": "Dino Ferrari",
+    "url": "/wiki/entities/dinoferrari/"
+  },
   "DinoSanctuary": {
     "title": "《恐龙庇护所》 / Dino Sanctuary",
     "url": "/wiki/entities/dinosanctuary/"
@@ -8619,6 +8635,10 @@
     "title": "Envy-Contempt Comparison / 嫉妒-鄙视比较",
     "url": "/wiki/concepts/envycontemptcomparison/"
   },
+  "EnzoFerrari": {
+    "title": "Enzo Ferrari",
+    "url": "/wiki/entities/enzoferrari/"
+  },
   "EpicHeroHumanLimits": {
     "title": "Epic Hero Human Limits",
     "url": "/wiki/concepts/epicherohumanlimits/"
@@ -8842,6 +8862,10 @@
   "Existutions": {
     "title": "Existutions",
     "url": "/wiki/concepts/existutions/"
+  },
+  "Exor": {
+    "title": "Exor",
+    "url": "/wiki/entities/exor/"
   },
   "ExpediaGroup": {
     "title": "Expedia Group",
@@ -9235,6 +9259,34 @@
     "title": "Ferrari",
     "url": "/wiki/entities/ferrari/"
   },
+  "Ferrari166Barchetta": {
+    "title": "Ferrari 166 Barchetta",
+    "url": "/wiki/entities/ferrari166barchetta/"
+  },
+  "Ferrari250": {
+    "title": "Ferrari 250",
+    "url": "/wiki/entities/ferrari250/"
+  },
+  "FerrariClassiche": {
+    "title": "Ferrari Classiche",
+    "url": "/wiki/entities/ferrariclassiche/"
+  },
+  "FerrariF40": {
+    "title": "Ferrari F40",
+    "url": "/wiki/entities/ferrarif40/"
+  },
+  "FerrariIcona": {
+    "title": "Ferrari Icona",
+    "url": "/wiki/entities/ferrariicona/"
+  },
+  "FerrariLuce": {
+    "title": "Ferrari Luce",
+    "url": "/wiki/entities/ferrariluce/"
+  },
+  "FerrariPurosangue": {
+    "title": "Ferrari Purosangue",
+    "url": "/wiki/entities/ferraripurosangue/"
+  },
   "Ferrix": {
     "title": "Ferrix",
     "url": "/wiki/entities/ferrix/"
@@ -9242,6 +9294,14 @@
   "FestivalFoodMaterialHistory": {
     "title": "Festival Food Material History",
     "url": "/wiki/concepts/festivalfoodmaterialhistory/"
+  },
+  "Fiat": {
+    "title": "Fiat",
+    "url": "/wiki/entities/fiat/"
+  },
+  "FiatChryslerAutomobiles": {
+    "title": "Fiat Chrysler Automobiles",
+    "url": "/wiki/entities/fiatchryslerautomobiles/"
   },
   "FictionAsHistoricalEvidence": {
     "title": "Fiction As Historical Evidence",
@@ -9627,6 +9687,10 @@
     "title": "Foraging Ethics",
     "url": "/wiki/concepts/foragingethics/"
   },
+  "FordMotorCompany": {
+    "title": "Ford Motor Company",
+    "url": "/wiki/entities/fordmotorcompany/"
+  },
   "ForeignBankingInChina": {
     "title": "Foreign Banking In China",
     "url": "/wiki/concepts/foreignbankinginchina/"
@@ -9903,6 +9967,10 @@
     "title": "France",
     "url": "/wiki/entities/france/"
   },
+  "FrancescoBaracca": {
+    "title": "Francesco Baracca",
+    "url": "/wiki/entities/francescobaracca/"
+  },
   "FranchiseLedConsumerChainExpansion": {
     "title": "Franchise-Led Consumer Chain Expansion",
     "url": "/wiki/concepts/franchiseledconsumerchainexpansion/"
@@ -10098,6 +10166,10 @@
   "FullStackAIPlatform": {
     "title": "Full-Stack AI Platform",
     "url": "/wiki/concepts/fullstackaiplatform/"
+  },
+  "FunctionalAlibi": {
+    "title": "Functional Alibi",
+    "url": "/wiki/concepts/functionalalibi/"
   },
   "FunctionalExtinction": {
     "title": "Functional Extinction",
@@ -10550,6 +10622,10 @@
   "GhostInTheShellStandaloneComplex": {
     "title": "《攻壳机动队 STAND ALONE COMPLEX》 / Ghost in the Shell: Stand Alone Complex",
     "url": "/wiki/entities/ghostintheshellstandalonecomplex/"
+  },
+  "GianniAgnelli": {
+    "title": "Gianni Agnelli",
+    "url": "/wiki/entities/gianniagnelli/"
   },
   "GianniInfantino": {
     "title": "Gianni Infantino",
@@ -11195,6 +11271,10 @@
     "title": "Haley Salmon",
     "url": "/wiki/entities/haleysalmon/"
   },
+  "HaloProductStrategy": {
+    "title": "Halo Product Strategy",
+    "url": "/wiki/concepts/haloproductstrategy/"
+  },
   "Hamelin": {
     "title": "哈默尔恩 / Hamelin",
     "url": "/wiki/entities/hamelin/"
@@ -11542,6 +11622,10 @@
   "HenryDavidThoreau": {
     "title": "Henry David Thoreau / 梭罗",
     "url": "/wiki/entities/henrydavidthoreau/"
+  },
+  "HenryFordII": {
+    "title": "Henry Ford II",
+    "url": "/wiki/entities/henryfordii/"
   },
   "HenryHarteveldt": {
     "title": "Henry Harteveldt",
@@ -13155,6 +13239,10 @@
     "title": "Jean-Paul Sartre / 萨特",
     "url": "/wiki/entities/jeanpaulsartre/"
   },
+  "JeanTodt": {
+    "title": "Jean Todt",
+    "url": "/wiki/entities/jeantodt/"
+  },
   "JeannieRhee": {
     "title": "Jeannie Rhee",
     "url": "/wiki/entities/jeannierhee/"
@@ -13546,6 +13634,10 @@
   "JohnDonahoe": {
     "title": "John Donahoe",
     "url": "/wiki/entities/johndonahoe/"
+  },
+  "JohnElkann": {
+    "title": "John Elkann",
+    "url": "/wiki/entities/johnelkann/"
   },
   "JohnFasman": {
     "title": "John Fasman",
@@ -15411,6 +15503,10 @@
     "title": "Louisiana",
     "url": "/wiki/entities/louisiana/"
   },
+  "LoveFrom": {
+    "title": "LoveFrom",
+    "url": "/wiki/entities/lovefrom/"
+  },
   "LovePoetryModernity": {
     "title": "Love Poetry Modernity",
     "url": "/wiki/concepts/lovepoetrymodernity/"
@@ -15503,6 +15599,10 @@
     "title": "乱翻书",
     "url": "/wiki/entities/luanfanshu/"
   },
+  "LucaDiMontezemolo": {
+    "title": "Luca di Montezemolo",
+    "url": "/wiki/entities/lucadimontezemolo/"
+  },
   "LucasDrone": {
     "title": "Lucas Drone",
     "url": "/wiki/entities/lucasdrone/"
@@ -15534,6 +15634,10 @@
   "LuigiCaseSuspect": {
     "title": "Luigi Case Suspect",
     "url": "/wiki/entities/luigicasesuspect/"
+  },
+  "LuigiChinetti": {
+    "title": "Luigi Chinetti",
+    "url": "/wiki/entities/luigichinetti/"
   },
   "LuigiGalvani": {
     "title": "Luigi Galvani / 路易吉·伽伐尼",
@@ -15598,6 +15702,14 @@
   "LuxsharePrecision": {
     "title": "Luxshare Precision",
     "url": "/wiki/entities/luxshareprecision/"
+  },
+  "LuxuryBrandAsSportsTeam": {
+    "title": "Luxury Brand As Sports Team",
+    "url": "/wiki/concepts/luxurybrandassportsteam/"
+  },
+  "LuxuryCommunityPyramid": {
+    "title": "Luxury Community Pyramid",
+    "url": "/wiki/concepts/luxurycommunitypyramid/"
   },
   "LuxuryResaleAuthentication": {
     "title": "Luxury Resale Authentication",
@@ -15791,6 +15903,10 @@
     "title": "MakeMyTrip",
     "url": "/wiki/entities/makemytrip/"
   },
+  "MakeToOrderLuxuryManufacturing": {
+    "title": "Make-To-Order Luxury Manufacturing",
+    "url": "/wiki/concepts/maketoorderluxurymanufacturing/"
+  },
   "MakingFrankensteinBook": {
     "title": "《制造弗兰肯斯坦：玛丽·雪莱背后的科学》",
     "url": "/wiki/entities/makingfrankensteinbook/"
@@ -15915,9 +16031,17 @@
     "title": "Mar-a-Lago",
     "url": "/wiki/entities/maralago/"
   },
+  "Maranello": {
+    "title": "Maranello",
+    "url": "/wiki/entities/maranello/"
+  },
   "MarathonPerformanceEcosystem": {
     "title": "Marathon Performance Ecosystem",
     "url": "/wiki/concepts/marathonperformanceecosystem/"
+  },
+  "MarcNewson": {
+    "title": "Marc Newson",
+    "url": "/wiki/entities/marcnewson/"
   },
   "MarcRaibert": {
     "title": "Marc Raibert",
@@ -16166,6 +16290,10 @@
   "MascotLedBrandRecognition": {
     "title": "Mascot Led Brand Recognition",
     "url": "/wiki/concepts/mascotledbrandrecognition/"
+  },
+  "Maserati": {
+    "title": "Maserati",
+    "url": "/wiki/entities/maserati/"
   },
   "MaterialHistoryNarrative": {
     "title": "Material History Narrative",
@@ -16630,6 +16758,10 @@
   "MichaelLynton": {
     "title": "Michael Lynton",
     "url": "/wiki/entities/michaellynton/"
+  },
+  "MichaelSchumacher": {
+    "title": "Michael Schumacher",
+    "url": "/wiki/entities/michaelschumacher/"
   },
   "MichaelSeibel": {
     "title": "Michael Seibel",
@@ -17774,6 +17906,10 @@
   "NikeVaporfly": {
     "title": "Nike Vaporfly",
     "url": "/wiki/entities/nikevaporfly/"
+  },
+  "NikiLauda": {
+    "title": "Niki Lauda",
+    "url": "/wiki/entities/nikilauda/"
   },
   "NikolaTesla": {
     "title": "Nikola Tesla / 尼古拉·特斯拉",
@@ -19303,6 +19439,10 @@
     "title": "花衣魔笛手 / The Pied Piper of Hamelin",
     "url": "/wiki/entities/piedpiperofhamelin/"
   },
+  "PieroFerrari": {
+    "title": "Piero Ferrari",
+    "url": "/wiki/entities/pieroferrari/"
+  },
   "PierreLallement": {
     "title": "Pierre Lallement / 皮埃尔·拉勒芒",
     "url": "/wiki/entities/pierrelallement/"
@@ -19338,6 +19478,10 @@
   "PingyaoAncientCity": {
     "title": "Pingyao Ancient City / 平遥古城",
     "url": "/wiki/entities/pingyaoancientcity/"
+  },
+  "Pininfarina": {
+    "title": "Pininfarina",
+    "url": "/wiki/entities/pininfarina/"
   },
   "Pinocchio": {
     "title": "Pinocchio / 匹诺曹",
@@ -20223,6 +20367,10 @@
     "title": "Public Market Communication",
     "url": "/wiki/concepts/publicmarketcommunication/"
   },
+  "PublicMarketLuxuryGrowthTension": {
+    "title": "Public Market Luxury Growth Tension",
+    "url": "/wiki/concepts/publicmarketluxurygrowthtension/"
+  },
   "PublicMediaEmergencyAccess": {
     "title": "Public Media Emergency Access",
     "url": "/wiki/concepts/publicmediaemergencyaccess/"
@@ -20558,6 +20706,10 @@
   "RachelSalzman": {
     "title": "Rachel Salzman",
     "url": "/wiki/entities/rachelsalzman/"
+  },
+  "RacingHeritageBrandMoat": {
+    "title": "Racing Heritage Brand Moat",
+    "url": "/wiki/concepts/racingheritagebrandmoat/"
   },
   "RafaelParker": {
     "title": "Rafael Parker",
@@ -21539,6 +21691,10 @@
     "title": "Rosie Bloor",
     "url": "/wiki/entities/rosiebloor/"
   },
+  "RossBrawn": {
+    "title": "Ross Brawn",
+    "url": "/wiki/entities/rossbrawn/"
+  },
   "RoswellIncident": {
     "title": "Roswell Incident / 罗斯维尔事件",
     "url": "/wiki/entities/roswellincident/"
@@ -22043,6 +22199,10 @@
     "title": "Script As Social History",
     "url": "/wiki/concepts/scriptassocialhistory/"
   },
+  "ScuderiaFerrari": {
+    "title": "Scuderia Ferrari",
+    "url": "/wiki/entities/scuderiaferrari/"
+  },
   "ScurvyNutritionInsight": {
     "title": "Scurvy Nutrition Insight",
     "url": "/wiki/concepts/scurvynutritioninsight/"
@@ -22294,6 +22454,10 @@
   "SergeyBrin": {
     "title": "Sergey Brin",
     "url": "/wiki/entities/sergeybrin/"
+  },
+  "SergioMarchionne": {
+    "title": "Sergio Marchionne",
+    "url": "/wiki/entities/sergiomarchionne/"
   },
   "SergioMartinezBeltran": {
     "title": "Sergio Martínez-Beltrán",
@@ -24934,6 +25098,10 @@
   "TiborKalman": {
     "title": "Tibor Kalman",
     "url": "/wiki/entities/tiborkalman/"
+  },
+  "Tifosi": {
+    "title": "Tifosi",
+    "url": "/wiki/entities/tifosi/"
   },
   "TigerBrokers": {
     "title": "Tiger Brokers",
@@ -28582,6 +28750,10 @@
   "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd": {
     "title": "Fear-jerker: America's AI backlash",
     "url": "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"
+  },
+  "ferrari-1": {
+    "title": "Ferrari",
+    "url": "/wiki/sources/ferrari-1/"
   },
   "finding-product-market-fit-after-3-years-of-failed-ideas": {
     "title": "Finding Product-Market Fit After 3 Years of Failed Ideas",

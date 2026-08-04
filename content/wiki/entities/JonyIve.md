@@ -2,8 +2,8 @@
 title: "Jony Ive"
 type: entity
 tags: [person, design, apple, ai-hardware]
-sources: [tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
-last_updated: 2026-07-17
+sources: [tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, ferrari-1]
+last_updated: 2026-08-04
 ---
 
 # Jony Ive
@@ -16,9 +16,12 @@ The December 2025 source does not describe the device in detail. Its useful cont
 
 [[tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]] adds Ive through [[PaulGraham]]'s [[FounderMode]] discussion. Graham uses [[SteveJobs]] and Ive as an example where intense founder involvement can be collaboration instead of micromanagement, because the founder's involvement raises the work rather than simply overriding the person doing it.
 
+[[ferrari-1]] adds Ive to the [[Ferrari]] branch through the [[FerrariLuce]] electric-vehicle project. The source links Ive, [[LoveFrom]], and [[MarcNewson]] to Ferrari's challenge of making an EV emotionally distinctive when raw electric acceleration is no longer scarce.
+
 ## Connections
 - [[Apple]] - design-history context.
 - [[OpenAI]] - AI company partner in the source's device discussion.
 - [[AIPlusTerminals]] and [[SmartphoneAIHub]] - terminal and phone-resilience concepts.
 - [[JoannaStern]] - commentator evaluating current AI devices as lackluster.
 - [[SteveJobs]], [[FounderMode]], and [[FounderProximity]] - collaboration-versus-micromanagement example added by the YC offsite source.
+- [[Ferrari]], [[FerrariLuce]], [[LoveFrom]], [[MarcNewson]], [[FunctionalAlibi]], and [[ProductLedWillingnessToPay]] - Ferrari EV design branch added by Acquired.
