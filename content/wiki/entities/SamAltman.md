@@ -2,8 +2,8 @@
 title: "Sam Altman"
 type: entity
 tags: [person, startups, venture-capital]
-sources: [tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-replit-v2-tsr-s3-replit-v2, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
-last_updated: 2026-07-23
+sources: [tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-replit-v2-tsr-s3-replit-v2, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+last_updated: 2026-08-04
 ---
 
 # Sam Altman
@@ -25,6 +25,8 @@ In this source, Altman functions as part of the [[YCombinator]] and startup-inve
 [[tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio]] adds the [[Helion]] side of Altman's hard-tech recruiting story. [[DavidKirtley]] says Altman visited Helion with textbooks, spent several days examining the physics, technology, business path, and iteration speed, and then encouraged the team to join [[YCombinator]]. The source reinforces Altman's pattern of recruiting ambitious companies where the risk is partly technical and partly whether the founder can make the path legible.
 
 [[tsr-s5-jared-v3final-tsr-s5-jared-v3final]] adds Altman as the YC president who pulled [[JaredFriedman]] into partner work. Jared says he planned to start another company and asked Altman for office hours on ideas, but Altman was short a partner for the Winter 2016 batch after [[GarryTan]] left and asked Jared to help for one batch. Jared stayed at [[YCombinator]] for roughly ten years after that.
+
+[[tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio]] adds [[PaulGraham]] and the hosts' account of Altman's YC leadership transition. Graham says Altman was the obvious successor because he was already a first-batch class-president-like fundraising node, but later thinks he should have required Altman to focus only on [[YCombinator]]. The source's key correction is that YC did not fire Altman in this account; it wanted him to choose between YC and [[OpenAI]], and Altman chose OpenAI.
 
 ## Connections
 - [[JaredFriedman]], [[Scribd]], [[YCombinator]], and [[YCInternalSoftware]] - Jared's partner path and later internal-software branch added by The Social Radars.

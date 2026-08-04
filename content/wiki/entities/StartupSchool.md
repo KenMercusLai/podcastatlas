@@ -2,8 +2,8 @@
 title: "Startup School"
 type: entity
 tags: [event, startups, y-combinator]
-sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-garrytan-final]
-last_updated: 2026-07-23
+sources: [tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-garrytan-final]
+last_updated: 2026-08-04
 ---
 
 # Startup School
@@ -17,6 +17,8 @@ The episode uses Startup School as an early signal of [[BuilderCenteredInstituti
 [[tsr-s2-adoracheung-v5]] adds a product-history turn through [[AdoraCheung]]. She says that around 2017, acceptance and rejection emails were accidentally reversed for the Startup School mentoring component, and that the response helped push Startup School toward being open to anyone who signed up. In this source, the mistake becomes an example of YC converting an operational error into broader access.
 
 [[tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]] adds [[YinWu]]'s 2010 Stanford event story. [[BASES]] helped [[YCombinator]] host Startup School at [[StanfordUniversity]], but the auditorium was not fully confirmed until the night before, forcing Yin and others to solve a high-stakes logistics problem before hundreds of attendees and major speakers arrived. The episode makes Startup School part of Yin's founder-origin story because the event, [[JessicaLivingston]]'s encouragement, and the local builder environment helped make startups feel possible.
+
+[[tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio]] adds Startup School as one of the channels in [[YCombinator]]'s early [[YCGrowthFlywheel]]. [[PaulGraham]] says it helped bring founders into YC's orbit alongside essays, deadlines, application links, alumni word of mouth, and later [[HackerNews]], making the event part of YC's distribution system rather than only a standalone educational program.
 
 ## Connections
 - [[JaredFriedman]], [[PaulGraham]], and [[YCombinator]] - first Startup School and early founder-legibility context added by the Jared Friedman episode.

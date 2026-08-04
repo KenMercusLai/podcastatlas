@@ -2,8 +2,8 @@
 title: "Hacker News"
 type: entity
 tags: [product, online-community, startups, y-combinator]
-sources: [tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-replit-v2-tsr-s3-replit-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianarmstrong-final]
-last_updated: 2026-07-25
+sources: [tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-replit-v2-tsr-s3-replit-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianarmstrong-final]
+last_updated: 2026-08-04
 ---
 
 # Hacker News
@@ -23,6 +23,8 @@ The source makes Hacker News a compact case for [[StartupCommunityForumBurden]].
 [[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds Hacker News as an early public skepticism surface for [[BoomSupersonic]]. Scholl says a Bloomberg photo of an early cardboard mockup drew dismissive Hacker News comments, while later [[VirginGroup]], [[YCombinator]], and [[PaulGraham]] signals helped move Boom from ridicule toward investor credibility.
 
 [[tsr-s5-jared-v3final-tsr-s5-jared-v3final]] adds Hacker News as an early launch-attention surface for [[Scribd]] and as part of [[YCombinator]]'s software lineage. [[JaredFriedman]] says Scribd quickly hit Hacker News after launch, and later names Hacker News alongside [[Bookface]] and legal-document tooling as evidence that YC has long been software-driven.
+
+[[tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio]] intensifies the [[StartupCommunityForumBurden]] reading. [[PaulGraham]] says [[HackerNews]] was more than half the total stress of running [[YCombinator]] at times because the forum brought server problems, denial-of-service attacks, fights, and daily governance work. The source still leaves HN inside the [[YCGrowthFlywheel]], but makes the cost side more concrete than a generic community-management warning.
 
 ## Connections
 - [[AnalyticsJS|analytics.js]], [[Segment]], [[PeterReinhardt]], [[ClassMetric]], and [[OpenSourceWedge]] - launch validation case added by the Peter Reinhardt episode.

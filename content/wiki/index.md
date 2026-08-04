@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Paul Graham on Y Combinator's Growth, Myths, and the AI Era](sources/tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio.md) — The Social Radars episode with Paul Graham on YC's organic growth, alumni word of mouth, Hacker News stress, the Peter Thiel controversy, Airbnb advice, Demo Day pitch compression, founder triage, Sam Altman's OpenAI transition, and AI-era startup advice.
 - [04.切尔诺贝利的午夜： “我要进监狱了。”](sources/04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843.md) — 蜜獾吃书 episode on 《切尔诺贝利的午夜》, Chernobyl, Pripyat, reactor design, safety propaganda, cleanup sacrifice, and the dispute over operator error, design flaws, and Soviet institutional responsibility.
 - [Ferrari](sources/ferrari-1.md) — Acquired episode on Ferrari as a luxury-motorsport business, from Enzo Ferrari and Scuderia Ferrari to Fiat/FCA ownership, Montezemolo's turnaround, scarcity, collector economics, and the EV challenge.
 - [The NFL](sources/the-nfl-1.md) — Acquired episode on the NFL as a league-first media and governance system built from competitive balance, pooled TV rights, the Sports Broadcasting Act, NFL Films, the Super Bowl, Monday Night Football, streaming, betting, international growth, and private-equity pressure.
@@ -663,6 +664,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jeff Ralston](entities/JeffRalston.md) — YC leader who succeeded Sam Altman before Garry Tan, appearing in Paul Graham's account of the YC leadership transition.
 - [《切尔诺贝利的午夜》 / Midnight in Chernobyl](entities/MidnightInChernobyl.md) — Nonfiction book read by 蜜獾吃书 as a restrained technical and institutional reconstruction of the Chernobyl disaster.
 - [《切尔诺贝利的悲鸣》 / Voices from Chernobyl](entities/VoicesFromChernobyl.md) — Testimonial Chernobyl work used as the comparison point for Midnight in Chernobyl.
 - [Chernobyl Nuclear Power Plant](entities/ChernobylNuclearPowerPlant.md) — Soviet nuclear plant whose fourth-reactor disaster anchors the new technological-disaster branch.
@@ -4624,6 +4626,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [YC Growth Flywheel](concepts/YCGrowthFlywheel.md) — YC growth pattern where essays, Startup School, deadlines, alumni word of mouth, application links, brand legitimacy, and Hacker News reinforced one another.
+- [Startup Pitch Compression](concepts/StartupPitchCompression.md) — Fundraising communication discipline that reduces a pitch to the few load-bearing points investors can remember and repeat.
+- [Founder Support Triage](concepts/FounderSupportTriage.md) — Startup-support distinction between concentrated turnaround help and gentler care for companies that look unlikely to recover.
+- [Need-Driven Startup Ideas](concepts/NeedDrivenStartupIdeas.md) — Startup idea frame where founder needs reveal problems that still must be validated through customer pull, especially in the AI era.
 - [Technological Disaster As Institutional Failure](concepts/TechnologicalDisasterAsInstitutionalFailure.md) — Chernobyl frame connecting design, construction, operations, secrecy, propaganda, and accountability.
 - [Human-Dependent Safety System](concepts/HumanDependentSafetySystem.md) — Safety pattern where complex technical protection relies too heavily on operators compensating for opaque design and pressure.
 - [Nuclear Safety Propaganda](concepts/NuclearSafetyPropaganda.md) — Risk-communication pattern where official claims of absolute safety shape operator belief, public disclosure, and denial.

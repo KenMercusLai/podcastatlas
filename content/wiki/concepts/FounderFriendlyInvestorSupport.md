@@ -2,8 +2,8 @@
 title: "Founder Friendly Investor Support"
 type: concept
 tags: [startup, venture-capital, founder-support]
-sources: [tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
-last_updated: 2026-07-25
+sources: [tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
+last_updated: 2026-08-04
 ---
 
 # Founder Friendly Investor Support
@@ -21,6 +21,8 @@ In the source, the preferred investor role is to support founders, let them focu
 [[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] adds two Flexport versions. First, [[RonConway]] helped [[RyanPetersen]] resolve a San Francisco business-license blocker by escalating it to Mayor Ed Lee. Second, Petersen says [[FoundersFund]] came to [[Flexport]]'s rescue during hard fundraising moments. Both cases treat investor support as concrete operational or financing help at a moment when the company could have stalled.
 
 [[tsr-s5-ronconway-v5-tsr-s5-ronconway-v5]] adds the highest-stakes Conway version so far. During the [[SiliconValleyBank]] weekend, founder-friendly support becomes ecosystem support: Conway uses [[SVAngel]]'s relationships to push [[StartupPayrollSystemicRisk]] evidence and a [[DepositGuaranteeCrisisResponse]] proposal through policy channels before the Tokyo market open.
+
+[[tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio]] adds the [[YCombinator]] operating version through [[PaulGraham]]. Graham says YC often had to fight behind the scenes when investors or others mistreated startups, while [[FounderSupportTriage]] separated hard turnaround help from gentler support for companies that looked unlikely to survive.
 
 ## Key Claims
 - Investor help should reduce founder load or improve judgment, not create recurring theater.

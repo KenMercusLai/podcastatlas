@@ -2,8 +2,8 @@
 title: "Paul Graham"
 type: entity
 tags: [person, startups, programming, venture-capital]
-sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
-last_updated: 2026-07-25
+sources: [tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+last_updated: 2026-08-04
 ---
 
 # Paul Graham
@@ -55,6 +55,8 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 [[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] adds Graham through [[RyanPetersen]]'s [[Flexport]] CEO-transition reflection. Petersen says Graham was deeply disappointed when he hired another CEO, making the source a later example of Graham's founder-led operating philosophy beyond the formal [[FounderMode]] retreat.
 
 [[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds Graham through [[BoomSupersonic]]'s Y Combinator Demo Day. After [[BlakeScholl]] paired [[VirginGroup]] support with visible [[XB1SupersonicDemonstrator|XB-1]] hardware, Graham emailed him backstage asking to invest; Scholl treats the moment as personal validation that a capital-intensive aviation startup could become legible to YC's software-heavy investor audience.
+
+[[tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio]] adds Graham's later retrospective on [[YCombinator]] as an institution. He frames YC growth through [[YCGrowthFlywheel]], explains how [[HackerNews]] became both distribution and burden, describes [[StartupPitchCompression]] through Demo Day "vertebrae office hours," and distinguishes [[FounderSupportTriage]] between turnaround attempts and palliative care. The same source adds his account of [[SamAltman]] choosing [[OpenAI]] over full-time YC focus, and his AI-era view that [[NeedDrivenStartupIdeas]] still depend on human needs rather than only model intelligence.
 
 ## Connections
 - [[PeterReinhardt]], [[ClassMetric]], [[AnalyticsJS|analytics.js]], [[Segment]], and [[OpenSourceWedge]] - ClassMetric skepticism, harsh office-hours feedback, and analytics.js encouragement added by the Peter Reinhardt episode.

@@ -2,8 +2,8 @@
 title: "Startup Essay Distribution"
 type: concept
 tags: [startups, writing, distribution, y-combinator]
-sources: [socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll]
-last_updated: 2026-07-11
+sources: [tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll]
+last_updated: 2026-08-04
 ---
 
 # Startup Essay Distribution
@@ -11,6 +11,8 @@ last_updated: 2026-07-11
 Startup essay distribution is the pattern in [[socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll]] where [[PaulGraham]]'s writing made [[YCombinator]] legible to founders before the institution had much external proof. Graham says YC grew out of his "How to Start a Startup" talk and related essays, and that those readers became early applicants.
 
 The concept is not identical to deliberate content marketing. In the source, Graham rejects that framing, but the practical effect is still distribution: essays selected for builders who already cared about startup problems, taught a shared vocabulary, and made YC feel like founder-aligned advice rather than a conventional investment firm.
+
+[[tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio]] adds the broader [[YCGrowthFlywheel]] around those essays. Graham says essays worked alongside [[StartupSchool]], deadlines, application links, alumni word of mouth, and later [[HackerNews]], and that the channel only compounded because YC actually helped founders enough for alumni to recommend it.
 
 ## Key Claims
 - Writing can create founder deal flow before paid acquisition, brand advertising, or large alumni outcomes exist.

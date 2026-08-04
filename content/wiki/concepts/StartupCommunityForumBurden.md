@@ -2,8 +2,8 @@
 title: "Startup Community Forum Burden"
 type: concept
 tags: [startups, community, governance, online-forums]
-sources: [socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll]
-last_updated: 2026-07-11
+sources: [tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll]
+last_updated: 2026-08-04
 ---
 
 # Startup Community Forum Burden
@@ -11,6 +11,8 @@ last_updated: 2026-07-11
 Startup community forum burden is the operating cost of running an open founder or hacker community. In [[socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll]], [[PaulGraham]] says [[HackerNews]] was good for [[YCombinator]], but also says it created most of the pain and stress of doing YC and advises against starting a forum.
 
 The concept qualifies [[StartupCommunityInfrastructure]]. Community infrastructure can produce deal flow, founder trust, shared knowledge, and institutional surface area, but an open forum also introduces moderation, status, conflict, attention, and governance costs that can dominate the founder's experience.
+
+[[tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio]] adds more specific cost detail. Graham says [[HackerNews]] was more than half the stress of running [[YCombinator]] at points because server issues, denial-of-service attacks, and community fights made it feel like another startup rather than a free distribution asset.
 
 ## Key Claims
 - A forum can be strategically valuable while still being personally and operationally expensive.

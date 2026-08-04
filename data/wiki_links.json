@@ -9935,6 +9935,10 @@
     "title": "Founder Succession",
     "url": "/wiki/concepts/foundersuccession/"
   },
+  "FounderSupportTriage": {
+    "title": "Founder Support Triage",
+    "url": "/wiki/concepts/foundersupporttriage/"
+  },
   "FounderUserObsession": {
     "title": "Founder User Obsession",
     "url": "/wiki/concepts/founderuserobsession/"
@@ -13282,6 +13286,10 @@
   "JeffLawson": {
     "title": "Jeff Lawson",
     "url": "/wiki/entities/jefflawson/"
+  },
+  "JeffRalston": {
+    "title": "Jeff Ralston",
+    "url": "/wiki/entities/jeffralston/"
   },
   "JeffUllman": {
     "title": "Jeff Ullman",
@@ -17698,6 +17706,10 @@
   "NearMissDesign": {
     "title": "Near-Miss Design",
     "url": "/wiki/concepts/nearmissdesign/"
+  },
+  "NeedDrivenStartupIdeas": {
+    "title": "Need-Driven Startup Ideas",
+    "url": "/wiki/concepts/needdrivenstartupideas/"
   },
   "NegativeCashConversionCycle": {
     "title": "Negative Cash Conversion Cycle",
@@ -23731,6 +23743,10 @@
     "title": "Startup Payroll Systemic Risk",
     "url": "/wiki/concepts/startuppayrollsystemicrisk/"
   },
+  "StartupPitchCompression": {
+    "title": "Startup Pitch Compression",
+    "url": "/wiki/concepts/startuppitchcompression/"
+  },
   "StartupRunwayDiscipline": {
     "title": "Startup Runway Discipline",
     "url": "/wiki/concepts/startuprunwaydiscipline/"
@@ -27439,6 +27455,10 @@
     "title": "徐州 / Xuzhou",
     "url": "/wiki/entities/xuzhou/"
   },
+  "YCGrowthFlywheel": {
+    "title": "YC Growth Flywheel",
+    "url": "/wiki/concepts/ycgrowthflywheel/"
+  },
   "YCInternalSoftware": {
     "title": "YC Internal Software",
     "url": "/wiki/concepts/ycinternalsoftware/"
@@ -29826,6 +29846,10 @@
   "tsr-s5-jared-v3final-tsr-s5-jared-v3final": {
     "title": "Jared Friedman, Partner, Y Combinator; Co-founder, Scribd",
     "url": "/wiki/sources/tsr-s5-jared-v3final-tsr-s5-jared-v3final/"
+  },
+  "tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio": {
+    "title": "Paul Graham on Y Combinator's Growth, Myths, and the AI Era",
+    "url": "/wiki/sources/tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio/"
   },
   "tsr-s5-ronconway-v5-tsr-s5-ronconway-v5": {
     "title": "Ron Conway, Founder, SV Angel: Silicon Valley Bank Crisis",

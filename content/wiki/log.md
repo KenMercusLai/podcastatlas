@@ -5205,6 +5205,10 @@ Added source page for a 硅谷101 episode on CCTV-FIFA World Cup rights negotiat
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-04] ingest | Paul Graham on Y Combinator's Growth, Myths, and the AI Era
+
+Added source page for a The Social Radars episode with Paul Graham on Y Combinator's organic growth, Startup School, alumni word of mouth, Hacker News stress, the Peter Thiel controversy, Airbnb advice, Demo Day pitch compression, founder-support triage, the Sam Altman to OpenAI transition, Jeff Ralston and Garry Tan's leadership roles, and AI-era startup advice. Created pages for Jeff Ralston, YC Growth Flywheel, Startup Pitch Compression, Founder Support Triage, and Need-Driven Startup Ideas; updated overview, index, Paul Graham, Y Combinator, Sam Altman, OpenAI, Hacker News, Startup School, The Social Radars, Jessica Livingston, Carolyn Levy, Garry Tan, Peter Thiel, Airbnb, Startup Essay Distribution, Startup Community Forum Burden, Startup Legitimacy Transfer, Founder Product Fit, and Founder Friendly Investor Support. No direct contradiction found; the source adds Graham and the hosts' source-scoped account that YC asked Altman to choose between YC and OpenAI rather than firing him.
+
 ## [2026-08-04] ingest | 番外 15：半拿铁讲《金瓶梅》啦，而且还是绿色的
 
 Added source page for a 半拿铁 special opening a green-edition long retelling of 《金瓶梅》, covering Ximen Qing's household and sworn-brother network, the Water Margin branch through Wu Song, Wu Dalang, and Pan Jinlian, Wang Po's brokerage, social-history detail, and the novel's non-erotic literary reception. Created pages for 《水浒传》, 兰陵笑笑生, 西门庆, 潘金莲, 武松, 武大郎, 王婆, 吴月娘, 李瓶儿, 庞春梅, 张竹坡, 李渔, 郑振铎, Clean Edition Classic Reading, Urban Everyday Fiction, and Household As Social Web; updated overview, index, 半拿铁, 《金瓶梅》, 《红楼梦》, 鲁迅, Classic Reading Complexity, Genre Literary Legitimacy, Fiction As Historical Evidence, and Everyday Food Culture History. No direct contradiction found; the source extends the earlier Jin Ping Mei crab-banquet comparison into a broader account of structure, household networks, everyday urban fiction, and literary legitimacy.
@@ -5296,3 +5300,7 @@ Added source page for a 蜜獾吃书 episode on 《切尔诺贝利的午夜》 a
 ## [2026-08-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-04] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 7,532 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while lint scanned 7,532 pages, so graph findings are advisory until `build graph` refreshes it; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest` and no provider API keys were present. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -2,8 +2,8 @@
 title: "Garry Tan"
 type: entity
 tags: [person, startups, venture-capital, y-combinator]
-sources: [tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-garrytan-final, socialradarspod-brianarmstrong-final, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final]
-last_updated: 2026-07-25
+sources: [tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-garrytan-final, socialradarspod-brianarmstrong-final, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final]
+last_updated: 2026-08-04
 ---
 
 # Garry Tan
@@ -23,6 +23,8 @@ The offsite source revisits [[Posterous]] from a different angle: Tan says he wa
 [[tsr-s4-harj-v3-tsr-s4-harj-v3]] adds Tan through [[HarjTaggar]]'s early [[YCombinator]] institutional-memory thread. Harj briefly recalls a Moscow trip with Tan, [[PaulBuchheit]], and Aaron Iba connected to Russian government interest in startups; the episode treats it as an example of the strange, informal moments around early YC rather than a major Tan biography point.
 
 [[tsr-s5-ronconway-v5-tsr-s5-ronconway-v5]] adds Tan through the [[SiliconValleyBank]] weekend. [[RonConway]] praises Tan and [[YCombinator]] for organizing a petition and payroll-impact data showing that affected companies were national and employee-facing, not only a Silicon Valley investor problem. The source extends Tan from YC operating and founder-mode leadership into [[StartupPayrollSystemicRisk]] and [[DepositGuaranteeCrisisResponse]].
+
+[[tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio]] adds Tan through [[PaulGraham]]'s account of YC's post-Altman leadership repair. Graham says [[JeffRalston]] led [[YCombinator]] after [[SamAltman]] chose [[OpenAI]], and that Tan later became an especially strong fit because he had gone through YC, was trusted by LPs, brought energy, and made Graham feel better about YC than he had in years.
 
 ## Connections
 - [[YCombinator]], [[StartupSchool]], and [[Bookface]] - community and institution arc.

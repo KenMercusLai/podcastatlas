@@ -2,8 +2,8 @@
 title: "Startup Legitimacy Transfer"
 type: concept
 tags: [startups, venture-capital, institutions, credibility]
-sources: [tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s4-harj-v3-tsr-s4-harj-v3]
-last_updated: 2026-07-23
+sources: [tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s4-harj-v3-tsr-s4-harj-v3]
+last_updated: 2026-08-04
 ---
 
 # Startup Legitimacy Transfer
@@ -17,6 +17,8 @@ The source also shows the cost of successful legitimacy transfer. By the time Ha
 [[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] adds an old-industry version through [[RyanPetersen]] and [[Flexport]]. Petersen says Google Ventures was valuable not only as capital but because logistics customers recognized the Google name more than famous venture firms. The source shows legitimacy transfer aimed at customers in a traditional industry, not only at family or Silicon Valley investors.
 
 [[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds a hard-tech aviation version through [[BoomSupersonic]]. [[YCombinator]] helped [[BlakeScholl]] make a capital-intensive story investor-legible, [[VirginGroup|Virgin]] and [[RichardBranson]] supplied [[HardTechCustomerIntentProof]], [[PaulGraham]]'s backstage investment interest became a confidence signal, and a [[SequoiaCapital|Sequoia]] conference-room gathering let early candidates evaluate one another while lending credibility to the company.
+
+[[tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio]] adds the parent-facing version of the same mechanism. Graham says a stronger [[YCombinator]] brand helped young founders explain to parents that they had joined a recognized startup institution rather than simply becoming unemployed, so mainstream visibility could matter even when technical founders were the real applicant audience.
 
 ## Key Claims
 - Early founders may need credibility with family, employees, investors, and customers before ordinary traction exists.

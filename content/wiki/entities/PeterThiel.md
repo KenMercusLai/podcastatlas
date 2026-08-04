@@ -2,8 +2,8 @@
 title: "Peter Thiel"
 type: entity
 tags: [person, venture-capital, politics, silicon-valley]
-sources: [e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]
-last_updated: 2026-07-23
+sources: [tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]
+last_updated: 2026-08-04
 ---
 
 # Peter Thiel
@@ -11,6 +11,8 @@ last_updated: 2026-07-23
 Peter Thiel is the central figure in [[e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]], where [[SiliconValley101]] treats him as a long-term organizer of [[TechnologyRightPowerNetwork]]. The episode does not read him only as a PayPal co-founder, investor, or Trump supporter; it connects his campus politics, philosophical influences, company formation, fellowship design, media sponsorship, and political funding into one power map.
 
 The source's Thiel begins at [[StanfordReview]], draws on [[ReneGirard]], [[CarlSchmitt]], and [[LeoStrauss]], then moves through [[PayPal]], [[Facebook]], [[Palantir]], [[FoundersFund]], [[ThielFellowship]], [[RightWingMediaInfrastructure]], and support for [[JDVance]]. The page should preserve that as the source's synthesis rather than a full biography.
+
+[[tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio]] adds a source-scoped [[YCombinator]] controversy branch. [[PaulGraham]] says Thiel was listed as an unpaid part-time partner who did very little, and that criticism exaggerated his operational role at YC. Graham also says [[SamAltman]] had already considered removing Thiel for inactivity, but Graham advised against removing him under public pressure because that would set a precedent around online mobs.
 
 ## Source Position
 - Thiel is framed as ideologically consistent from campus conservatism into later new-right politics.

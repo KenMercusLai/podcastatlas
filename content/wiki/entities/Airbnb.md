@@ -2,8 +2,8 @@
 title: "Airbnb"
 type: entity
 tags: [company, marketplace, hospitality, travel, crisis]
-sources: [tsr-s2-wrapup-v1, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-brianarmstrong-final, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final]
-last_updated: 2026-07-12
+sources: [tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, tsr-s2-wrapup-v1, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-brianarmstrong-final, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final]
+last_updated: 2026-08-04
 ---
 
 # Airbnb
@@ -21,6 +21,8 @@ The COVID section makes Airbnb a crisis-governance case. The company was prepari
 [[tsr-s2-wrapup-v1]] later marks that COVID account as one of the hosts' three most memorable Season 2 moments. In the wrap-up, Airbnb functions less as a new company case than as the season's clearest example of crisis survival storytelling.
 
 [[socialradarspod-brianarmstrong-final]] adds Airbnb as [[BrianArmstrong]]'s pre-[[Coinbase]] payments context. Armstrong says Airbnb exposed him to global payment friction: slow transfers, cost, opacity, and fraud. In the wiki, this makes Airbnb one source of founder-product fit for Coinbase rather than only a hospitality marketplace case.
+
+[[tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio]] adds [[PaulGraham]]'s compressed retrospective on Airbnb's YC rescue. Graham says [[Airbnb]] would have died without [[YCombinator]] and treats the instruction to focus on New York as the decisive advice. The source reinforces Airbnb as a central [[UnscalableFounderWork]] case: direct host and market contact mattered precisely because it did not look scalable yet.
 
 ## Connections
 - [[BrianChesky]], [[JoeGebbia]], and [[NateBlecharczyk]] - founding team.
