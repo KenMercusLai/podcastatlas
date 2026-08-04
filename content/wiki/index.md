@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [番外 15：半拿铁讲《金瓶梅》啦，而且还是绿色的](sources/fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433.md) — 半拿铁 special opening a green-edition story-series retelling of 《金瓶梅》, from Ximen Qing's household and sworn brothers through Wu Song, Wu Dalang, Pan Jinlian, Wang Po, social-history detail, and the novel's non-erotic literary reception.
 - [No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹](sources/no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046.md) — Banlatte episode on Chaoshan maritime trade, qiaopi remittances, overseas Chinese capital, Shantou's special-zone asymmetry, the 1991 split, export-tax fraud, and why Shantou did not become a Shenzhen-style industrial city.
 - [No.202 盛大的盛大，传奇的传奇 | 中国互联网故事20](sources/no-202-shengdade-shengda-chuanqide-chuanqi-zhongguo-hulianwang-gushi-20-977833518.md) — 半拿铁 episode on Shanda, Chen Tianqiao, Legend, internet-cafe point-card distribution, online-game social organization, IP rights, private servers, Shanda Box, Shanda Literature, and founder health stop signs.
 - [No.201 中国高铁简史](sources/no-201-zhongguo-gaotie-jianshi-976314772.md) — 半拿铁 episode on China's high-speed rail from the Jinghu route debate, maglev versus wheel-rail, EMU procurement and technology transfer to Liu Zhijun, corruption, Wenzhou accident, Fuxinghao, and CR450.
@@ -657,6 +658,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《水浒传》 / Water Margin](entities/WaterMargin.md) — Source novel/world that Banlatte uses to route Wu Song, Wu Dalang, and Pan Jinlian into the Jin Ping Mei opening.
+- [兰陵笑笑生 / Lanling Xiaoxiaosheng](entities/LanlingXiaoxiaosheng.md) — Unresolved authorial name for Jin Ping Mei, framed as a likely Wanli-era literatus with Shandong and official-life familiarity.
+- [西门庆 / Ximen Qing](entities/XimenQing.md) — Wealthy Qinghe drug-shop heir and local power broker whose household and friend network anchor the episode's opening.
+- [潘金莲 / Pan Jinlian](entities/PanJinlian.md) — Central Jin Ping Mei figure introduced through sale, coercion, forced marriage, dissatisfaction, Wu Song's rebuff, and first contact with Ximen Qing.
+- [武松 / Wu Song](entities/WuSong.md) — Tiger-slaying Water Margin hero whose appointment as Qinghe dutou connects public force, official legitimacy, and the Wu family plot.
+- [武大郎 / Wu Dalang](entities/WuDalang.md) — Vulnerable elder brother whose marriage to Pan Jinlian, shopfront life, and dependence on Wu Song set up the episode's domestic pressure.
+- [王婆 / Wang Po](entities/WangPo.md) — Tea-shop intermediary who reads Ximen Qing's desire and turns neighbor knowledge into brokerage.
+- [吴月娘 / Wu Yueniang](entities/WuYueniang.md) — Ximen Qing's main wife and household manager, used as a clear-eyed counterweight to his sworn-brother performance.
+- [李瓶儿 / Li Ping'er](entities/LiPinger.md) — One of the three Jin Ping Mei title figures, introduced here mainly through title symbolism and later structural promise.
+- [庞春梅 / Pang Chunmei](entities/PangChunmei.md) — One of the three Jin Ping Mei title figures, source-scoped as a title and structure signal before fuller plot treatment.
+- [张竹坡 / Zhang Zhupo](entities/ZhangZhupo.md) — Jin Ping Mei commentator associated in the episode with the "non-erotic book" reading.
+- [李渔 / Li Yu](entities/LiYuWriter.md) — Writer cited for grouping Jin Ping Mei with other "four great strange books" of vernacular fiction.
+- [郑振铎 / Zheng Zhenduo](entities/ZhengZhenduo.md) — Modern literary historian cited in the episode's reception-history section on Jin Ping Mei.
 - [Chaoshan / 潮汕](entities/Chaoshan.md) — eastern Guangdong region whose maritime, diaspora, qiaopi, and special-zone history anchors Banlatte episode 205.
 - [Shantou / 汕头](entities/Shantou.md) — Chaoshan port city and special economic zone used to compare merchant networks with industrial-city upgrading.
 - [Chaozhou / 潮州](entities/Chaozhou.md) — Chaoshan city used in the source's 1991 administrative split and regional-scale discussion.
@@ -4498,6 +4512,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Clean Edition Classic Reading](concepts/CleanEditionClassicReading.md) — Method of reducing explicit material while keeping enough structure, character pressure, and social texture for a classic to remain readable.
+- [Urban Everyday Fiction](concepts/UrbanEverydayFiction.md) — Fiction frame where marketplaces, households, food, clothing, housing, law, religion, and gossip make ordinary urban life narratively central.
+- [Household As Social Web](concepts/HouseholdAsSocialWeb.md) — Narrative structure where one household and its spouses, servants, brokers, neighbors, friends, and officials model a wider society.
 - [Chaoshan Maritime Commercial Culture](concepts/ChaoshanMaritimeCommercialCulture.md) — pattern tying Chaoshan geography, outmigration, ports, qiaopi, and overseas trade to later industrial-upgrade limits.
 - [Red Head Ships / 红头船](concepts/RedHeadShips.md) — Chaoshan maritime-trade vessel system linked to Zhanglin Port, Siam rice, and Southeast Asia migration.
 - [China Special Economic Zone Asymmetry](concepts/ChinaSpecialEconomicZoneAsymmetry.md) — idea that first-batch special zones differed sharply in area, function, priority, and external adjacency.

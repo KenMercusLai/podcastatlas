@@ -2,13 +2,15 @@
 title: "《红楼梦》 / Dream of the Red Chamber"
 type: entity
 tags: [book, literature, chinese-classics, novel]
-sources: [114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]
-last_updated: 2026-07-24
+sources: [fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]
+last_updated: 2026-08-04
 ---
 
 # 《红楼梦》 / Dream of the Red Chamber
 
 [[114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117]] adds a food-and-poetry branch through the Grand View Garden crab banquet. The episode contrasts [[JinPingMei|《金瓶梅》]]'s more worldly crab dish with [[HongLouMeng|《红楼梦》]]'s steamed-crab scene, then reads the poems by [[JiaBaoyu|贾宝玉]], [[LinDaiyu|林黛玉]], and [[XueBaochai|薛宝钗]] as character work: Baoyu's boyish ease, Daiyu's joy-shadowed sadness, and Baochai's sharper satire of those who横行 and eventually enter the pot.
+
+[[fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433]] strengthens the [[JinPingMei|《金瓶梅》]] relation from food-scene comparison into structure. [[Banlatte|半拿铁]] presents Jin Ping Mei as an earlier [[HouseholdAsSocialWeb]] novel whose one-family frame, rise-and-fall arc, women-centered title structure, and [[UrbanEverydayFiction]] detail help explain why later readers see influence on 《红楼梦》. The source does not reduce Cao Xueqin to borrowing; it treats influence as a shared capacity to make household life carry society.
 
 [[01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422]] adds a modern comparative-reading branch through [[TheCatcherInTheRye|《麦田里的守望者》]]. The [[MihuanChishu|蜜獾吃书]] episode calls [[HoldenCaulfield|Holden Caulfield / 霍尔顿]] a 20th-century American [[JiaBaoyu|贾宝玉]], using the comparison to make Holden's school resistance, literary sensitivity, sibling tenderness, disgust toward vulgarity, and refusal of adult usefulness legible in a Chinese classic-reading frame.
 
@@ -22,7 +24,8 @@ The novel matters in this source as a receiver of classical poetry. [[Xiangling|
 
 ## Connections
 - [[TheCatcherInTheRye|《麦田里的守望者》]], [[HoldenCaulfield|Holden Caulfield / 霍尔顿]], and [[AmericanJiaBaoyuComparison]] - modern American comparison branch added by episode 01.
-- [[Crab|螃蟹]], [[CrabCulturalSymbolism]], and [[JinPingMei|《金瓶梅》]] - crab-banquet branch added by episode 114.
+- [[Crab|螃蟹]], [[CrabCulturalSymbolism]], and [[JinPingMei|《金瓶梅》]] - crab-banquet branch added by episode 114 and expanded structurally by the Banlatte special.
+- [[HouseholdAsSocialWeb]], [[UrbanEverydayFiction]], and [[CleanEditionClassicReading]] - Jin Ping Mei comparison branch added by the Banlatte special.
 - [[CaoXueqin|曹雪芹]] - conventional author figure in the source's reading.
 - [[LinDaiyu|林黛玉]], [[JiaBaoyu|贾宝玉]], [[XueBaochai|薛宝钗]], and [[Xiangling|香菱]] - characters central to the episode's Li Shangyin argument.
 - [[Zhiyanzhai|脂砚斋]] - commentator whose 西昆体 note is used as supporting evidence.

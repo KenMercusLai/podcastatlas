@@ -5205,6 +5205,10 @@ Added source page for a 硅谷101 episode on CCTV-FIFA World Cup rights negotiat
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-04] ingest | 番外 15：半拿铁讲《金瓶梅》啦，而且还是绿色的
+
+Added source page for a 半拿铁 special opening a green-edition long retelling of 《金瓶梅》, covering Ximen Qing's household and sworn-brother network, the Water Margin branch through Wu Song, Wu Dalang, and Pan Jinlian, Wang Po's brokerage, social-history detail, and the novel's non-erotic literary reception. Created pages for 《水浒传》, 兰陵笑笑生, 西门庆, 潘金莲, 武松, 武大郎, 王婆, 吴月娘, 李瓶儿, 庞春梅, 张竹坡, 李渔, 郑振铎, Clean Edition Classic Reading, Urban Everyday Fiction, and Household As Social Web; updated overview, index, 半拿铁, 《金瓶梅》, 《红楼梦》, 鲁迅, Classic Reading Complexity, Genre Literary Legitimacy, Fiction As Historical Evidence, and Everyday Food Culture History. No direct contradiction found; the source extends the earlier Jin Ping Mei crab-banquet comparison into a broader account of structure, household networks, everyday urban fiction, and literary legitimacy.
+
 ## [2026-08-04] ingest | E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？
 
 Added source page for a 硅谷101 episode on SpaceX's orbital AI data-center narrative, Starship launch cadence, 1GW orbital compute sizing, launch costs, radiative cooling, radiation tolerance, inference-versus-training fit, orbital traffic, data sovereignty, lunar industry, and Moon-versus-Mars strategy. Created pages for Liu Binyan, Starbase, Star Cloud, Mars, Orbital Data Center Economics, Orbital Data Center Thermal Management, Orbital Compute Governance, and Moon-Mars Strategy Split; updated overview, index, Silicon Valley 101, SpaceX, Louis Hong, Starship, Starlink, xAI, Space Based AI Infrastructure, Space Economy Infrastructure, Data Center Thermal Management, Data Center Power Bottleneck, Reusable Rocket Economics, AI Compute Continuity, Moon, NASA, Lunar Resource Governance, and Space Resource Extraction. No direct contradiction found; the source adds a dated SpaceX IPO/prospectus account and keeps the 1GW-by-2029 claim as a guest wager rather than a settled forecast.
@@ -5236,6 +5240,10 @@ Added source page for a 半拿铁 episode on Chinese high-speed rail from the la
 ## [2026-08-04] ingest | No.202 盛大的盛大，传奇的传奇 | 中国互联网故事20
 
 Added source page for a 半拿铁 episode on Shanda, Chen Tianqiao, Legend, early Chinese online-game commercialization, internet-cafe point-card distribution, online-game social organization, Actoz/WeMade IP disputes, private servers, free-to-play monetization, Shanda Box, Shanda Literature, Shanda Games, Century Huatong, Shanda Innovation Institute, Wi-Fi Master Key, and Chen's health-driven stop sign. Created pages for Shanda, Legend of Mir, Actozsoft, WeMade, Chen Danian, Luo Qianqian, Tang Jun, Shanda Literature, Qidian, Yuewen Group, Shanda Box, Haofang, Bianfeng, Ku6, Shanda Games, Shanda Innovation Institute, Wi-Fi Master Key, Kaiying Network, Century Huatong, Sina, Chinese Online Game Commercialization, Internet-Cafe Point-Card Distribution, Online Game Social Organization, Game IP Long Tail, Online Game Private-Server Ecosystem, Free-to-Play Game Monetization, Family Internet Portal Strategy, Founder Vision-Timing Mismatch, Founder Health Stop Sign, and Online Game IP Rights Disputes; updated overview, index, Banlatte, and Chen Tianqiao. No direct contradiction found; the source extends the existing Apodex-era Chen Tianqiao page backward into his Shanda/Legend history and forward into the health, philanthropy, and hard-problem arc.
+
+## [2026-08-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-04] lint | Wiki health check
 

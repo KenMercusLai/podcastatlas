@@ -2,8 +2,8 @@
 title: "鲁迅"
 type: entity
 tags: [writer, critic, chinese-literature, satire, language]
-sources: [75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
-last_updated: 2026-07-18
+sources: [fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
+last_updated: 2026-08-04
 ---
 
 # 鲁迅
@@ -22,6 +22,8 @@ The Rulin Waishi source links Lu Xun backward and forward in the satire traditio
 
 [[19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]] adds an early scientific and industrial-practical angle. [[ZhangQuan|张泉]] notes Lu Xun's study at the mining and railway school, his experience going down mines, his first book on Chinese mineral resources, and his later interest in geology, archaeology, and paleontology. This source uses Lu Xun to complicate the narrow image of New Culture figures as only literary or ideological actors: practical science and national industrial anxiety were part of the same generation's formation.
 
+[[fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433]] adds a reception-history mention through [[JinPingMei|《金瓶梅》]]. [[Banlatte|半拿铁]] cites Lu Xun among modern evaluators who treat the novel as serious literature and social-historical writing rather than only scandalous material, connecting his critical authority to [[GenreLiteraryLegitimacy]] and [[ClassicReadingComplexity]].
+
 ## Connections
 - [[GushiXinbian|《故事新编》]], [[LiShui|《理水》]], and [[QiSi|《起死》]] - episode 75's main Lu Xun texts.
 - [[GuJiegang|顾颉刚]], [[GushiBian|古史辨]], [[Zhuangzi|庄子]], [[QiWuLun|《齐物论》]], and [[GuoMoruo|郭沫若]] - source-scoped interlocutors and allusion fields for the episode.
@@ -32,3 +34,4 @@ The Rulin Waishi source links Lu Xun backward and forward in the satire traditio
 - [[HanziTransdialectalFunction]] and [[ChineseCharacterEvidenceDiscipline]] - language-history branch where Lu Xun is cited as part of the phonetic-versus-character writing debate.
 - [[GeologicalResearchInstitute|地质研究所/地质调查所]], [[Zhoukoudian|周口店]], and [[Yinxu|殷墟]] - episode 19's science and archaeology context around Lu Xun's wider interests.
 - [[CosmopolitanChineseScholarship]] and [[FieldworkAsKnowledgeMethod]] - modern scholarly formation frames that complicate a purely literary Lu Xun image.
+- [[JinPingMei|《金瓶梅》]], [[GenreLiteraryLegitimacy]], and [[ClassicReadingComplexity]] - reception-history branch added by the Banlatte special.
