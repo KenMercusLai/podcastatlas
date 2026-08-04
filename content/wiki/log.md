@@ -5256,3 +5256,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-04] ingest | Costco
+
+Added source page for an Acquired episode on Costco's warehouse-club operating model, tracing Sol Price, FedMart, Price Club, Jim Sinegal, Jeffrey Brotman, and the PriceCostco merger through membership fees, low markups, limited SKUs, high inventory velocity, negative cash conversion, cross-docking, Kirkland Signature, employee retention, and scale economies shared with members. Created pages for Sol Price, Robert Price, Jim Sinegal, Jeffrey Brotman, Fedco, FedMart, Price Club, Hugo Mann, PriceCostco, Kirkland Signature, Sam Walton, Sam's Club, Home Depot, Bernie Marcus, Costco Logistics, Costco Next, Hamilton Helmer, Nick Sleep, Warehouse Club Model, Membership Retail, Limited SKU Operating Model, Retail Inventory Velocity, Negative Cash Conversion Cycle, Low Markup Trust, Cross-Docking Retail, Treasure Hunt Retail, Employee Retention Economics, Stakeholder-First Compounding, Vertical Integration For Member Value, and Retail Counter-Positioning; updated overview, index, Acquired, Costco, Walmart, Amazon, Target, Scale Economies Shared, Trust As Business Asset, Sales Velocity, and Consumer Brand Moat. No direct contradiction found; the source deepens the Vanguard comparison by making Costco the direct operating case for shared scale, while distinguishing Costco's cultural and retail mechanisms from Vanguard's ownership structure.
+
+## [2026-08-04] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 7,407 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while lint scanned 7,407 pages, so graph findings are advisory until `build graph` refreshes it; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.

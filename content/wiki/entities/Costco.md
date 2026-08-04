@@ -2,11 +2,17 @@
 title: "Costco"
 type: entity
 tags: [company, retail, governance]
-sources: [the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026, eric-ries-incorruptible-by-design-wrgromn5peq, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, vanguard-1]
-last_updated: 2026-07-23
+sources: [the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026, eric-ries-incorruptible-by-design-wrgromn5peq, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, vanguard-1, costco-1]
+last_updated: 2026-08-04
 ---
 
 # Costco
+
+[[costco-1]] makes Costco the central subject rather than a comparison case. The [[Acquired]] episode traces Costco through [[SolPrice]], [[FedMart]], [[PriceClub]], [[JimSinegal]], [[JeffreyBrotman]], and the 1993 [[PriceCostco]] merger, then explains the company as a [[WarehouseClubModel]] whose tradeoffs reinforce one another.
+
+The source's operating thesis is that Costco compounds through [[ScaleEconomiesShared]] and [[LowMarkupTrust]]. Paid [[MembershipRetail]] supplies a high-margin fee stream; [[LimitedSKUOperatingModel]], [[RetailInventoryVelocity]], [[NegativeCashConversionCycle]], and [[CrossDockingRetail]] lower operating complexity; [[KirklandSignature]] deepens value; and [[TreasureHuntRetail]] keeps the warehouse visit interesting without replacing everyday low prices with gimmicks.
+
+The episode also adds a culture and strategy branch. [[EmployeeRetentionEconomics]] and [[StakeholderFirstCompounding]] frame higher wages, internal promotion, low shrinkage, supplier respect, and member-first pricing as business mechanics, not only moral claims. [[RetailCounterPositioning]] explains why Costco's slower, narrower e-commerce path through [[CostcoLogistics]] and [[CostcoNext]] can preserve the cost structure that makes the warehouse model valuable.
 
 Costco is used in [[eric-ries-incorruptible-by-design-wrgromn5peq]] as an outlier company that resists the claim that corporate drift toward extraction is inevitable. [[EricRies]] also uses Costco's food-safety audits and standards as an example of [[PrivateRegulatoryPower]]: a private company can create external benefits for people who never shop there when its requirements change supplier behavior.
 
@@ -29,6 +35,8 @@ In [[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfa
 - In the Vanguard episode, Costco helps explain why shared scale can be a durable trust mechanism when customers repeatedly see the economic benefit.
 - In the indicator source, Costco functions as a retailer exposed to tariff policy enough to contest executive tariff authority in court.
 - In the tariff-ruling source, Costco functions as a large-importer example of moving from authority litigation into refund recovery.
+- The Acquired source makes Costco a direct business-history case where membership, low markups, limited SKUs, inventory speed, cross-docking, and culture combine into a durable warehouse-club model.
+- Costco's most important strategic restraint is not refusing profit entirely; it is refusing the kind of profit that would teach customers, employees, or suppliers to distrust the model.
 
 ## Connections
 - [[FinancialGravity]] - pressure Costco is presented as resisting.
@@ -39,3 +47,7 @@ In [[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfa
 - [[Vanguard]], [[FundholderMutualOwnership]], and [[ScaleEconomiesShared]] - Acquired comparison case.
 - [[EffectiveTariffRateShock]], [[DonaldTrump]], [[SupremeCourt]], and [[BlanketTariffLimit]] - tariff-litigation branch added by Planet Money.
 - [[TariffRefundUncertainty]], [[Toyota]], and [[Goodyear]] - refund-lawsuit branch added by the later tariff source.
+- [[Acquired]], [[SolPrice]], [[JimSinegal]], [[JeffreyBrotman]], [[FedMart]], [[PriceClub]], and [[PriceCostco]] - business-history lineage added by the Costco episode.
+- [[WarehouseClubModel]], [[MembershipRetail]], [[LimitedSKUOperatingModel]], [[RetailInventoryVelocity]], [[NegativeCashConversionCycle]], [[CrossDockingRetail]], [[LowMarkupTrust]], and [[TreasureHuntRetail]] - Costco operating model concepts.
+- [[KirklandSignature]], [[CostcoLogistics]], and [[CostcoNext]] - Costco brand, logistics, and e-commerce extensions.
+- [[EmployeeRetentionEconomics]], [[StakeholderFirstCompounding]], [[VerticalIntegrationForMemberValue]], and [[RetailCounterPositioning]] - culture and strategy concepts added by the episode.

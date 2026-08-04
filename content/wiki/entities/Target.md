@@ -2,8 +2,8 @@
 title: "Target"
 type: entity
 tags: [company, retail]
-sources: [e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, board-games-3-whats-in-a-name]
-last_updated: 2026-07-24
+sources: [e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, board-games-3-whats-in-a-name, costco-1]
+last_updated: 2026-08-04
 ---
 
 # Target
@@ -16,9 +16,12 @@ The episode uses Target to show that [[LowPriceBrandPerception]] can evolve into
 
 [[board-games-3-whats-in-a-name]] adds Target as a big-box retail context for board games. The source uses Target and [[Walmart]] to explain why [[SellMeASasquatch]] needs [[RetailShelfAppeal]], [[ProductNamingAsPositioning]], and clear gift/game-night legibility rather than only a clever mechanic.
 
+[[costco-1]] adds Target as a revenue-per-square-foot comparison. The source uses Target and [[Walmart]] to show how unusual [[Costco]]'s warehouse productivity is under a low-SKU, membership-supported model.
+
 ## Connections
 - [[ELFCosmetics]] and [[JoeyShamah]] - brand and founder in the Target program.
 - [[JajuPierogi]], [[CaseyWhite]], [[JesseAndBens]], and [[JesseKoenig]] - food CPG cases from the Jeni Britton Advice Line source.
 - [[HEB]] - earlier retail proof point that strengthened the broader pitch.
 - [[RetailShelfPlacement]], [[SalesVelocity]], [[RetailIncrementality]], and [[CPGDistribution]] - concepts connected to end caps and retail performance.
 - [[SellMeASasquatch]], [[ExplodingKittens]], and [[RetailShelfAppeal]] - board-game retail branch added by Planet Money.
+- [[Costco]], [[WarehouseClubModel]], [[LimitedSKUOperatingModel]], and [[RetailInventoryVelocity]] - productivity comparison added by Acquired.

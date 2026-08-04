@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Costco](sources/costco-1.md) — Acquired episode on Costco's warehouse-club model, from Sol Price, FedMart, and Price Club to membership fees, low markups, limited SKUs, inventory velocity, cross-docking, Kirkland Signature, and scale economies shared with members.
 - [番外 15：半拿铁讲《金瓶梅》啦，而且还是绿色的](sources/fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433.md) — 半拿铁 special opening a green-edition story-series retelling of 《金瓶梅》, from Ximen Qing's household and sworn brothers through Wu Song, Wu Dalang, Pan Jinlian, Wang Po, social-history detail, and the novel's non-erotic literary reception.
 - [No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹](sources/no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046.md) — Banlatte episode on Chaoshan maritime trade, qiaopi remittances, overseas Chinese capital, Shantou's special-zone asymmetry, the 1991 split, export-tax fraud, and why Shantou did not become a Shenzhen-style industrial city.
 - [No.202 盛大的盛大，传奇的传奇 | 中国互联网故事20](sources/no-202-shengdade-shengda-chuanqide-chuanqi-zhongguo-hulianwang-gushi-20-977833518.md) — 半拿铁 episode on Shanda, Chen Tianqiao, Legend, internet-cafe point-card distribution, online-game social organization, IP rights, private servers, Shanda Box, Shanda Literature, and founder health stop signs.
@@ -658,6 +659,24 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sol Price](entities/SolPrice.md) — Retail entrepreneur whose FedMart and Price Club principles became Costco's operating inheritance.
+- [Robert Price](entities/RobertPrice.md) — Sol Price's son and partner carrying FedMart learning into Price Club and the later PriceCostco merger.
+- [Jim Sinegal](entities/JimSinegal.md) — Costco cofounder and Sol Price disciple who scaled the warehouse-club model with low-markup and employee-culture discipline.
+- [Jeffrey Brotman](entities/JeffreyBrotman.md) — Seattle retailer and Costco cofounder who partnered with Jim Sinegal after a rejected Price Club franchise request.
+- [Fedco](entities/Fedco.md) — Federal-employee membership club that influenced Sol Price's membership-discounting template.
+- [FedMart](entities/FedMart.md) — Sol Price's for-profit membership discount retailer where many later Costco operating principles first appeared.
+- [Price Club](entities/PriceClub.md) — Warehouse-club predecessor founded by Sol and Robert Price and later merged with Costco.
+- [Hugo Mann](entities/HugoMann.md) — FedMart capital partner whose conflict with Sol and Robert Price pushed the Price Club successor path.
+- [PriceCostco](entities/PriceCostco.md) — 1993 Costco-Price Club merged company that united the warehouse-club model against Sam's Club.
+- [Kirkland Signature](entities/KirklandSignature.md) — Costco private-label brand used to deliver member value and reinforce low-markup trust.
+- [Sam Walton](entities/SamWalton.md) — Walmart founder who studied Price Club before launching Sam's Club.
+- [Sam's Club](entities/SamsClub.md) — Walmart warehouse-club chain used as Costco's direct format competitor.
+- [Home Depot](entities/HomeDepot.md) — Home-improvement retailer connected through Bernie Marcus's study of Price Club and Costco inventory comparisons.
+- [Bernie Marcus](entities/BernieMarcus.md) — Home Depot cofounder cited as another retailer influenced by Price Club's warehouse model.
+- [Costco Logistics](entities/CostcoLogistics.md) — Costco logistics capability for big and bulky e-commerce categories.
+- [Costco Next](entities/CostcoNext.md) — Partner-commerce program that gives Costco members discounts without full marketplace imitation.
+- [Hamilton Helmer](entities/HamiltonHelmer.md) — Strategy thinker whose Seven Powers framework Acquired applies to Costco.
+- [Nick Sleep](entities/NickSleep.md) — Investor associated with the "scale economies shared" phrase used in Costco and Vanguard analysis.
 - [《水浒传》 / Water Margin](entities/WaterMargin.md) — Source novel/world that Banlatte uses to route Wu Song, Wu Dalang, and Pan Jinlian into the Jin Ping Mei opening.
 - [兰陵笑笑生 / Lanling Xiaoxiaosheng](entities/LanlingXiaoxiaosheng.md) — Unresolved authorial name for Jin Ping Mei, framed as a likely Wanli-era literatus with Shandong and official-life familiarity.
 - [西门庆 / Ximen Qing](entities/XimenQing.md) — Wealthy Qinghe drug-shop heir and local power broker whose household and friend network anchor the episode's opening.
@@ -3780,7 +3799,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Claire Isabel Webb](entities/ClaireIsabelWebb.md) — Long Now interviewer framing the neural-geometry discussion around consciousness, AI, affect, time, and social complexity.
 - [Incorruptible](entities/Incorruptible.md) — Eric Ries book arguing that companies need governance, ownership, accountability, and institutional design to resist financial gravity.
 - [Dan Davies](entities/DanDavies.md) — Systems and governance thinker cited through accountability sinks in the Eric Ries Long Now talk.
-- [Costco](entities/Costco.md) — Retail company used by Ries as an outlier institution and private standards-setting example.
+- [Costco](entities/Costco.md) — Retail company analyzed as a warehouse-club operating system built around membership, low markups, limited SKUs, and shared scale.
 - [Vanguard](entities/Vanguard.md) — Customer-centric financial institution used as proof that unusual governance structures can work in real markets.
 - [Patagonia](entities/Patagonia.md) — Mission-led company referenced as an outlier against inevitable shareholder-first drift.
 - [Zeiss](entities/Zeiss.md) — Long-lived foundation-governed company used as a steward-ownership proof point.
@@ -4133,7 +4152,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cotton Clara](entities/CottonClara.md) — Craft-kit company working through maker positioning, repeat customers, community events, and gifting/wellness language.
 - [Vashon Island Coffee Dust](entities/VashonIslandCoffeeDust.md) — Spice-blend CPG brand using gifting, packaging, counter ritual, and use-case expansion to create repeat buyers.
 - [Christy Clement](entities/ChristyClement.md) — Vashon Island Coffee Dust founder asking how gift recipients become loyal repeat buyers.
-- [Acquired](entities/Acquired.md) — Business-history podcast/source context for the Disney, Formula One, and Vanguard episodes.
+- [Acquired](entities/Acquired.md) — Business-history podcast/source context for the Disney, Formula One, Vanguard, and Costco episodes.
 - [Wellington Management](entities/WellingtonManagement.md) — Asset-management company where Jack Bogle built his early career before the fund-board conflict that produced Vanguard.
 - [Fidelity](entities/Fidelity.md) — Asset-management and brokerage competitor used in the Vanguard episode as both go-go-era pressure and later low-fee platform threat.
 - [BlackRock](entities/BlackRock.md) — ETF and asset-management competitor whose iShares platform and Salim Ramji connection frame Vanguard's modern strategic challenge.
@@ -4512,6 +4531,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Warehouse Club Model](concepts/WarehouseClubModel.md) — Retail system combining paid membership, warehouse-format stores, limited high-volume selection, pallet handling, low markups, and fast inventory turns.
+- [Membership Retail](concepts/MembershipRetail.md) — Retail model where customers pay for access, creating repeat behavior and a high-margin fee stream.
+- [Limited SKU Operating Model](concepts/LimitedSKUOperatingModel.md) — Deliberate low-assortment retail strategy that concentrates volume, simplifies operations, and turns buyer curation into customer trust.
+- [Retail Inventory Velocity](concepts/RetailInventoryVelocity.md) — Retailer-level speed of inventory turnover that supports working-capital efficiency and supplier leverage.
+- [Negative Cash Conversion Cycle](concepts/NegativeCashConversionCycle.md) — Working-capital pattern where goods sell before supplier invoices come due.
+- [Low Markup Trust](concepts/LowMarkupTrust.md) — Pricing discipline where restrained markups and no-loss-leader behavior make customer trust economically durable.
+- [Cross-Docking Retail](concepts/CrossDockingRetail.md) — Logistics pattern where palletized goods move quickly through distribution centers instead of sitting in storage.
+- [Treasure Hunt Retail](concepts/TreasureHuntRetail.md) — Rotating-item merchandising pattern that encourages repeat visits without abandoning everyday low prices.
+- [Employee Retention Economics](concepts/EmployeeRetentionEconomics.md) — Operating logic where higher wages, internal promotion, and long tenure can reduce hidden retail costs.
+- [Stakeholder-First Compounding](concepts/StakeholderFirstCompounding.md) — Business pattern where customers, employees, and suppliers are served first and shareholder returns arrive through model durability.
+- [Vertical Integration For Member Value](concepts/VerticalIntegrationForMemberValue.md) — Costco-style rule for owning capabilities only when doing so improves member value.
+- [Retail Counter-Positioning](concepts/RetailCounterPositioning.md) — Strategy where a retailer preserves a differentiated operating model instead of copying a convenience-first rival.
 - [Clean Edition Classic Reading](concepts/CleanEditionClassicReading.md) — Method of reducing explicit material while keeping enough structure, character pressure, and social texture for a classic to remain readable.
 - [Urban Everyday Fiction](concepts/UrbanEverydayFiction.md) — Fiction frame where marketplaces, households, food, clothing, housing, law, religion, and gossip make ordinary urban life narratively central.
 - [Household As Social Web](concepts/HouseholdAsSocialWeb.md) — Narrative structure where one household and its spouses, servants, brokers, neighbors, friends, and officials model a wider society.
@@ -7382,7 +7413,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zero Trust Security](concepts/ZeroTrustSecurity.md) — Cybersecurity idea that systems should not automatically trust software, access, or activity by default.
 - [Fundholder Mutual Ownership](concepts/FundholderMutualOwnership.md) — Vanguard ownership design where fund investors effectively own the management company and receive scale benefits through lower fees.
 - [Cost Matters Hypothesis](concepts/CostMattersHypothesis.md) — Bogle investing logic that fees are a certain compounding drag while outperformance is uncertain.
-- [Scale Economies Shared](concepts/ScaleEconomiesShared.md) — Business-model pattern where scale benefits are routed back to customers rather than captured mainly as shareholder profit.
+- [Scale Economies Shared](concepts/ScaleEconomiesShared.md) — Business-model pattern where scale benefits are routed back to customers or members rather than captured mainly as shareholder profit.
 - [Strategy Follows Structure](concepts/StrategyFollowsStructure.md) — Governance principle that ownership and incentives determine which strategy remains rational at scale.
 - [Passive Investing Governance](concepts/PassiveInvestingGovernance.md) — Market-governance concern around price discovery, common ownership, and voting power as index managers become very large.
 

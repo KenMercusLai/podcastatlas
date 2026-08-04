@@ -3683,6 +3683,10 @@
     "title": "Bernie Madoff",
     "url": "/wiki/entities/berniemadoff/"
   },
+  "BernieMarcus": {
+    "title": "Bernie Marcus",
+    "url": "/wiki/entities/berniemarcus/"
+  },
   "Bertelsmann": {
     "title": "Bertelsmann",
     "url": "/wiki/entities/bertelsmann/"
@@ -6291,6 +6295,14 @@
     "title": "Costco",
     "url": "/wiki/entities/costco/"
   },
+  "CostcoLogistics": {
+    "title": "Costco Logistics",
+    "url": "/wiki/entities/costcologistics/"
+  },
+  "CostcoNext": {
+    "title": "Costco Next",
+    "url": "/wiki/entities/costconext/"
+  },
   "CottonClara": {
     "title": "Cotton Clara",
     "url": "/wiki/entities/cottonclara/"
@@ -6486,6 +6498,10 @@
   "CrossDisciplinaryLiteratureSearch": {
     "title": "Cross-Disciplinary Literature Search",
     "url": "/wiki/concepts/crossdisciplinaryliteraturesearch/"
+  },
+  "CrossDockingRetail": {
+    "title": "Cross-Docking Retail",
+    "url": "/wiki/concepts/crossdockingretail/"
   },
   "CrossLaminatedTimber": {
     "title": "Cross-Laminated Timber",
@@ -8439,6 +8455,10 @@
     "title": "Employee Graph",
     "url": "/wiki/concepts/employeegraph/"
   },
+  "EmployeeRetentionEconomics": {
+    "title": "Employee Retention Economics",
+    "url": "/wiki/concepts/employeeretentioneconomics/"
+  },
   "EmployeeSeveranceAtShutdown": {
     "title": "Employee Severance at Shutdown",
     "url": "/wiki/concepts/employeeseveranceatshutdown/"
@@ -9027,9 +9047,17 @@
     "title": "Feature Phone Cultural Memory",
     "url": "/wiki/concepts/featurephoneculturalmemory/"
   },
+  "FedMart": {
+    "title": "FedMart",
+    "url": "/wiki/entities/fedmart/"
+  },
   "FedNow": {
     "title": "FedNow",
     "url": "/wiki/entities/fednow/"
+  },
+  "Fedco": {
+    "title": "Fedco",
+    "url": "/wiki/entities/fedco/"
   },
   "FederalAIPreemption": {
     "title": "Federal AI Preemption",
@@ -11115,6 +11143,10 @@
     "title": "Hamid Hosseini",
     "url": "/wiki/entities/hamidhosseini/"
   },
+  "HamiltonHelmer": {
+    "title": "Hamilton Helmer",
+    "url": "/wiki/entities/hamiltonhelmer/"
+  },
   "HamishMcKenzie": {
     "title": "Hamish McKenzie",
     "url": "/wiki/entities/hamishmckenzie/"
@@ -11643,6 +11675,10 @@
     "title": "Holo Assets",
     "url": "/wiki/concepts/holoassets/"
   },
+  "HomeDepot": {
+    "title": "Home Depot",
+    "url": "/wiki/entities/homedepot/"
+  },
   "HomeInns": {
     "title": "Home Inns",
     "url": "/wiki/entities/homeinns/"
@@ -11986,6 +12022,10 @@
   "HugoChavez": {
     "title": "Hugo Chavez",
     "url": "/wiki/entities/hugochavez/"
+  },
+  "HugoMann": {
+    "title": "Hugo Mann",
+    "url": "/wiki/entities/hugomann/"
   },
   "Huizhou": {
     "title": "惠州 / Huizhou",
@@ -13063,6 +13103,10 @@
     "title": "Jeff Ullman",
     "url": "/wiki/entities/jeffullman/"
   },
+  "JeffreyBrotman": {
+    "title": "Jeffrey Brotman",
+    "url": "/wiki/entities/jeffreybrotman/"
+  },
   "JeffreyEpstein": {
     "title": "Jeffrey Epstein",
     "url": "/wiki/entities/jeffreyepstein/"
@@ -13282,6 +13326,10 @@
   "JimSimons": {
     "title": "Jim Simons",
     "url": "/wiki/entities/jimsimons/"
+  },
+  "JimSinegal": {
+    "title": "Jim Sinegal",
+    "url": "/wiki/entities/jimsinegal/"
   },
   "JinMerchantGovernance": {
     "title": "Jin Merchant Governance",
@@ -14026,6 +14074,10 @@
   "KinshipPowerDistinction": {
     "title": "Kinship Power Distinction",
     "url": "/wiki/concepts/kinshippowerdistinction/"
+  },
+  "KirklandSignature": {
+    "title": "Kirkland Signature",
+    "url": "/wiki/entities/kirklandsignature/"
   },
   "Kissmetrics": {
     "title": "Kissmetrics",
@@ -14811,6 +14863,10 @@
     "title": "Limestone Loop Carbon Capture",
     "url": "/wiki/concepts/limestoneloopcarboncapture/"
   },
+  "LimitedSKUOperatingModel": {
+    "title": "Limited SKU Operating Model",
+    "url": "/wiki/concepts/limitedskuoperatingmodel/"
+  },
   "Limitless": {
     "title": "Limitless",
     "url": "/wiki/entities/limitless/"
@@ -15298,6 +15354,10 @@
   "LowLatencyInferenceChip": {
     "title": "Low-Latency Inference Chip",
     "url": "/wiki/concepts/lowlatencyinferencechip/"
+  },
+  "LowMarkupTrust": {
+    "title": "Low Markup Trust",
+    "url": "/wiki/concepts/lowmarkuptrust/"
   },
   "LowPriceBrandPerception": {
     "title": "Low Price Brand Perception",
@@ -16298,6 +16358,10 @@
   "Mem0": {
     "title": "Mem0",
     "url": "/wiki/entities/mem0/"
+  },
+  "MembershipRetail": {
+    "title": "Membership Retail",
+    "url": "/wiki/concepts/membershipretail/"
   },
   "MemoVR": {
     "title": "Memo VR",
@@ -17355,6 +17419,10 @@
     "title": "Near-Miss Design",
     "url": "/wiki/concepts/nearmissdesign/"
   },
+  "NegativeCashConversionCycle": {
+    "title": "Negative Cash Conversion Cycle",
+    "url": "/wiki/concepts/negativecashconversioncycle/"
+  },
   "NegotiationAsBargaining": {
     "title": "Negotiation As Bargaining / 谈判即商量",
     "url": "/wiki/concepts/negotiationasbargaining/"
@@ -17538,6 +17606,10 @@
   "NickFountain": {
     "title": "Nick Fountain",
     "url": "/wiki/entities/nickfountain/"
+  },
+  "NickSleep": {
+    "title": "Nick Sleep",
+    "url": "/wiki/entities/nicksleep/"
   },
   "NickSwisher": {
     "title": "Nick Swisher",
@@ -19639,6 +19711,14 @@
     "title": "Priam",
     "url": "/wiki/entities/priam/"
   },
+  "PriceClub": {
+    "title": "Price Club",
+    "url": "/wiki/entities/priceclub/"
+  },
+  "PriceCostco": {
+    "title": "PriceCostco",
+    "url": "/wiki/entities/pricecostco/"
+  },
   "PriceElasticity": {
     "title": "Price Elasticity / 价格弹性",
     "url": "/wiki/concepts/priceelasticity/"
@@ -20839,6 +20919,10 @@
     "title": "Retail Concept Protection",
     "url": "/wiki/concepts/retailconceptprotection/"
   },
+  "RetailCounterPositioning": {
+    "title": "Retail Counter-Positioning",
+    "url": "/wiki/concepts/retailcounterpositioning/"
+  },
   "RetailDisplayAsBrandSurface": {
     "title": "Retail Display As Brand Surface",
     "url": "/wiki/concepts/retaildisplayasbrandsurface/"
@@ -20846,6 +20930,10 @@
   "RetailIncrementality": {
     "title": "Retail Incrementality",
     "url": "/wiki/concepts/retailincrementality/"
+  },
+  "RetailInventoryVelocity": {
+    "title": "Retail Inventory Velocity",
+    "url": "/wiki/concepts/retailinventoryvelocity/"
   },
   "RetailInvestorCrowding": {
     "title": "Retail Investor Crowding",
@@ -21070,6 +21158,10 @@
   "RobertMorris": {
     "title": "Robert Morris",
     "url": "/wiki/entities/robertmorris/"
+  },
+  "RobertPrice": {
+    "title": "Robert Price",
+    "url": "/wiki/entities/robertprice/"
   },
   "RobertSmith": {
     "title": "Robert Smith",
@@ -21507,9 +21599,17 @@
     "title": "Sam Uys",
     "url": "/wiki/entities/samuys/"
   },
+  "SamWalton": {
+    "title": "Sam Walton",
+    "url": "/wiki/entities/samwalton/"
+  },
   "SameDev": {
     "title": "Same.Dev",
     "url": "/wiki/entities/samedev/"
+  },
+  "SamsClub": {
+    "title": "Sam's Club",
+    "url": "/wiki/entities/samsclub/"
   },
   "Samsung": {
     "title": "Samsung",
@@ -22731,6 +22831,10 @@
     "title": "搜狐视频 / Sohu Video",
     "url": "/wiki/entities/sohuvideo/"
   },
+  "SolPrice": {
+    "title": "Sol Price",
+    "url": "/wiki/entities/solprice/"
+  },
   "Solaris": {
     "title": "《索拉里斯星》 / Solaris",
     "url": "/wiki/entities/solaris/"
@@ -23082,6 +23186,10 @@
   "StakeholderCapitalism": {
     "title": "Stakeholder Capitalism",
     "url": "/wiki/concepts/stakeholdercapitalism/"
+  },
+  "StakeholderFirstCompounding": {
+    "title": "Stakeholder-First Compounding",
+    "url": "/wiki/concepts/stakeholderfirstcompounding/"
   },
   "Stammy": {
     "title": "Stammy",
@@ -24943,6 +25051,10 @@
     "title": "《雍正王朝之大义觉迷》 / Treason by the Book",
     "url": "/wiki/entities/treasonbythebook/"
   },
+  "TreasureHuntRetail": {
+    "title": "Treasure Hunt Retail",
+    "url": "/wiki/concepts/treasurehuntretail/"
+  },
   "TreasuryBondSpeculation": {
     "title": "Treasury Bond Speculation",
     "url": "/wiki/concepts/treasurybondspeculation/"
@@ -25615,6 +25727,10 @@
     "title": "Vertical Group",
     "url": "/wiki/entities/verticalgroup/"
   },
+  "VerticalIntegrationForMemberValue": {
+    "title": "Vertical Integration For Member Value",
+    "url": "/wiki/concepts/verticalintegrationformembervalue/"
+  },
   "VerticalMediaDistribution": {
     "title": "Vertical Media Distribution",
     "url": "/wiki/concepts/verticalmediadistribution/"
@@ -26006,6 +26122,10 @@
   "WarVisibilityStrategy": {
     "title": "War Visibility Strategy",
     "url": "/wiki/concepts/warvisibilitystrategy/"
+  },
+  "WarehouseClubModel": {
+    "title": "Warehouse Club Model",
+    "url": "/wiki/concepts/warehouseclubmodel/"
   },
   "WarmthCompetenceStereotype": {
     "title": "Warmth-Competence Stereotype / 热情-能力刻板印象",
@@ -27834,6 +27954,10 @@
   "continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e": {
     "title": "Continental Rift: NATO's Tense Summit",
     "url": "/wiki/sources/continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e/"
+  },
+  "costco-1": {
+    "title": "Costco",
+    "url": "/wiki/sources/costco-1/"
   },
   "cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1": {
     "title": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13",
