@@ -5200,3 +5200,11 @@ Added source page for a 硅谷101 episode on CCTV-FIFA World Cup rights negotiat
 ## [2026-08-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-04] ingest | E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？
+
+Added source page for a 硅谷101 episode on SpaceX's orbital AI data-center narrative, Starship launch cadence, 1GW orbital compute sizing, launch costs, radiative cooling, radiation tolerance, inference-versus-training fit, orbital traffic, data sovereignty, lunar industry, and Moon-versus-Mars strategy. Created pages for Liu Binyan, Starbase, Star Cloud, Mars, Orbital Data Center Economics, Orbital Data Center Thermal Management, Orbital Compute Governance, and Moon-Mars Strategy Split; updated overview, index, Silicon Valley 101, SpaceX, Louis Hong, Starship, Starlink, xAI, Space Based AI Infrastructure, Space Economy Infrastructure, Data Center Thermal Management, Data Center Power Bottleneck, Reusable Rocket Economics, AI Compute Continuity, Moon, NASA, Lunar Resource Governance, and Space Resource Extraction. No direct contradiction found; the source adds a dated SpaceX IPO/prospectus account and keeps the 1GW-by-2029 claim as a guest wager rather than a settled forecast.
+
+## [2026-08-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

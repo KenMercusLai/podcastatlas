@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？](sources/e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793.md) — 硅谷101 episode on SpaceX's orbital AI data-center narrative, Starship launch economics, space thermal management, radiation, orbital governance, lunar industry, and the Moon-versus-Mars strategy split.
 - [E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意](sources/e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6.md) — 硅谷101 episode on CCTV-FIFA World Cup rights negotiations, Chinese sports-rights sublicensing, sponsor pressure, platform LTV, sports-rights bubbles, and U.S. streaming-driven rights inflation.
 - [A trip to the magic mushroom megachurch](sources/a-trip-to-the-magic-mushroom-megachurch.md) — Planet Money episode on Zydor Church, psychedelic churches, religious controlled-substance exemptions, the DEA process, cash sacrament donations, and the line between faith, harm reduction, and gray-market access.
 - [串台.「你吃香菜吗」女生版：你愿意和性转之后的自己在一起吗？](sources/chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723.md) — 蜜獾吃书 crossover with 你吃香菜吗 using a gender-swapped-self dating prompt to discuss similarity, complementarity, emotional support, sincerity, and distributing relationship needs across partners and friends.
@@ -3815,14 +3816,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Keith Gill](entities/KeithGill.md) — "Roaring Kitty" retail-investor figure connected to GameStop social proof and online trader coordination.
 - [Long-Term Capital Management](entities/LongTermCapitalManagement.md) — Leveraged quantitative fund used in EP90 as a financial-model-risk and regime-shift failure case.
 - [Louis Hong / 洪力德](entities/LouisHong.md) — Former SpaceX manager and hard-tech investor explaining reusable rockets, Falcon 9 production, Musk management, and space infrastructure.
+- [刘彬晏 / Liu Binyan](entities/LiuBinyan.md) — E239 guest using physics and economics to test orbital AI data centers, space thermal management, inference fit, and Moon-versus-Mars tradeoffs.
 - [Elon Musk](entities/ElonMusk.md) — SpaceX and Tesla leader discussed through first-principles manufacturing, extreme targets, and possible AI/space ecosystem integration.
+- [Starbase](entities/Starbase.md) — SpaceX launch and manufacturing site used in E239 to make Starship scale, launch cadence, and industrialized space infrastructure concrete.
 - [Starlink](entities/Starlink.md) — SpaceX satellite network framed as both Mars-funding business and low-earth-orbit data infrastructure.
+- [Star Cloud](entities/StarCloud.md) — Startup example in E239's orbital data-center category, contrasted with SpaceX's vertically integrated platform advantage.
 - [Starship](entities/Starship.md) — SpaceX next-generation launch system framed as the scale jump after Falcon 9.
 - [Falcon 9](entities/Falcon9.md) — Reusable SpaceX rocket treated as the real 2015 industry inflection and aerospace's Model T.
 - [Dragon Spacecraft](entities/DragonSpacecraft.md) — SpaceX spacecraft whose interior work illustrates human-facing hard-tech design and manufacturing constraints.
 - [xAI](entities/XAI.md) — Musk AI company discussed as a possible participant in physical AI and space-based AI infrastructure.
 - [Grok](entities/Grok.md) — xAI model/product discussed as a possible physical-world and Musk-ecosystem AI participant.
 - [NASA](entities/NASA.md) — U.S. space agency framed as SpaceX's knowledge, standards, and commercial-procurement foundation.
+- [Mars](entities/Mars.md) — Planet that E239 frames as SpaceX's civilization-scale destination in contrast with the Moon's nearer-term industrial logic.
 - [谢晨](entities/XieChen.md) — Guanglun Intelligence founder and CEO framing AI data as education and robotics simulation as core embodied-AI infrastructure.
 - [光轮智能](entities/GuanglunIntelligence.md) — Robotics simulation and data-engine company building environments, evaluation, and recipe loops for embodied AI.
 - [Cruise](entities/Cruise.md) — Autonomous-driving company used as both Kyle Vogt's hard-tech startup case and Xie Chen's later simulation/data infrastructure reference.
@@ -6713,7 +6718,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Reusable Rocket Economics](concepts/ReusableRocketEconomics.md) — Cost-structure shift created when launch vehicles can return and fly again instead of being discarded after each mission.
 - [Second-Stage Reuse Constraint](concepts/SecondStageReuseConstraint.md) — Upper-stage bottleneck where partial rocket reuse still leaves major per-flight production cost, certification work, and launch-cadence limits.
 - [Space Based AI Infrastructure](concepts/SpaceBasedAIInfrastructure.md) — Scenario where AI compute, data transport, energy, and data centers move partly into orbit.
+- [Orbital Data Center Economics](concepts/OrbitalDataCenterEconomics.md) — E239 cost model for whether orbital AI compute can beat terrestrial data centers after launch, satellites, GPUs, cooling, reliability, and demand are counted.
+- [Orbital Data Center Thermal Management](concepts/OrbitalDataCenterThermalManagement.md) — Vacuum heat-rejection problem for orbital compute, centered on radiation, radiator area, chip temperature, and heat transport.
+- [Orbital Compute Governance](concepts/OrbitalComputeGovernance.md) — Governance layer for scaled orbital compute covering traffic coordination, debris risk, data sovereignty, jurisdiction, and enforcement capacity.
 - [Space Economy Infrastructure](concepts/SpaceEconomyInfrastructure.md) — Layered platform view of space spanning launch, satellites, operations, connectivity, manufacturing, AI infrastructure, and downstream applications.
+- [Moon-Mars Strategy Split](concepts/MoonMarsStrategySplit.md) — E239 contrast between the Moon as a nearer economic and industrial base and Mars as a civilization-scale destination.
 - [First Principles Manufacturing](concepts/FirstPrinciplesManufacturing.md) — Engineering pattern of attacking cost and production limits by reasoning from physical function rather than industry precedent.
 - [High Responsibility Density](concepts/HighResponsibilityDensity.md) — Organization pattern where small teams own design, sourcing, production, and outcomes across hard-tech systems.
 - [SpaceX Mafia](concepts/SpaceXMafia.md) — Hard-tech alumni network expected to carry SpaceX/Tesla operating methods into new physical-technology startups.

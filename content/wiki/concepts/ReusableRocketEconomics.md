@@ -2,8 +2,8 @@
 title: "Reusable Rocket Economics"
 type: concept
 tags: [space, economics, manufacturing, spacex, china]
-sources: [145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio]
-last_updated: 2026-07-23
+sources: [145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
+last_updated: 2026-08-04
 ---
 
 # Reusable Rocket Economics
@@ -16,6 +16,8 @@ The episode uses ordinary transport as the analogy: air travel, trains, and cars
 
 [[ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0]] extends the concept through [[LongMarch10B]] and [[SeaNetRocketRecovery]]. It shows that reusable economics can be pursued by shifting hardware and damping burden from the rocket to a sea platform, but it also stresses that a caught booster is only economically meaningful after [[ReusableRocketTurnaround]] proves inspection, repair, corrosion control, and repeat flight cadence.
 
+[[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] adds a concrete downstream use case: orbital AI data centers. The episode's launch-cost discussion contrasts future [[Starship]] scenarios around $200/kg or below $100/kg with a cited 2026 rideshare price near $7,000/kg, showing why [[OrbitalDataCenterEconomics]] remains hypersensitive to full reuse, cadence, and manufacturing scale.
+
 ## Key Claims
 - Reuse changes launch from a one-off craft model toward repeatable transportation infrastructure.
 - Lower cost per kilogram is the precondition for [[Starlink]], orbital manufacturing, broader satellite deployment, and future [[SpaceBasedAIInfrastructure]].
@@ -24,6 +26,7 @@ The episode uses ordinary transport as the analogy: air travel, trains, and cars
 - Route choice changes the cost equation: [[Falcon9]] landing legs, [[Starship]] tower catch, and [[LongMarch10B]] sea-net capture allocate mass, infrastructure, risk, and turnaround work differently.
 - Full reusability adds the upper-stage problem: first-stage reuse can raise cadence, but discarded second stages still limit marginal cost and production throughput.
 - Flight rate matters because launch infrastructure and labor are fixed-cost systems as much as vehicle systems.
+- Orbital compute magnifies the launch-cost question because a 1GW target may require thousands of compute satellites and roughly 100 Starship-class launches under the episode's rough model.
 
 ## Connections
 - [[SpaceX]], [[Falcon9]], and [[Starship]] — company and launch systems in the source.
@@ -32,3 +35,4 @@ The episode uses ordinary transport as the analogy: air travel, trains, and cars
 - [[Starlink]] — downstream constellation business enabled by lower launch cost.
 - [[FirstPrinciplesManufacturing]] — manufacturing discipline needed to make reuse and launch cadence economically useful.
 - [[AIIPOValuation]] — investor frame qualified by the source's claim that the technical inflection came before IPO attention.
+- [[OrbitalDataCenterEconomics]], [[SpaceBasedAIInfrastructure]], and [[Starbase]] - E239's launch-cost and industrial-scale stress test.

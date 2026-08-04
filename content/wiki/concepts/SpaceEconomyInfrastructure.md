@@ -2,8 +2,8 @@
 title: "Space Economy Infrastructure"
 type: concept
 tags: [space, infrastructure, platforms, hard-tech]
-sources: [tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio]
-last_updated: 2026-07-23
+sources: [tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
+last_updated: 2026-08-04
 ---
 
 # Space Economy Infrastructure
@@ -18,6 +18,8 @@ The source argues that [[SpaceX]] is important because it can operate like a pla
 
 [[tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128]] adds the legal and energy layer. Through [[SadiaPekkanen]], the source treats the [[Moon]] as an operating environment where [[Artemis2]], [[ArtemisAccords]], [[LunarResourceGovernance]], [[SpaceResourceExtraction]], and [[LunarNuclearPower]] shape whether long-term activity can be peaceful and practical.
 
+[[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] adds a platform-economics stress test through orbital compute. The episode asks whether [[SpaceX]] can combine [[Starship]] launch cadence, [[Starlink]] operations, satellite manufacturing, solar power, and AI demand into [[SpaceBasedAIInfrastructure]], while also extending the concept from orbit to lunar staging, [[MoonMarsStrategySplit]], asteroid resources, data sovereignty, and space-law enforcement.
+
 ## Key Claims
 - The space industry becomes investable when launch, deployment, connectivity, operations, and applications form one system.
 - Lower cost per kilogram expands what can be built in orbit, from communications to manufacturing to possible [[SpaceBasedAIInfrastructure]].
@@ -25,6 +27,8 @@ The source argues that [[SpaceX]] is important because it can operate like a pla
 - [[NASA]], commercial launch contracts, and accumulated public-sector knowledge are part of the infrastructure, not merely historical background.
 - Lunar infrastructure also depends on rules for resource use, safety zones, transparency, and stable energy, not only launch cadence or habitat biology.
 - Space mobility becomes a platform only when launch availability, price, in-space movement, and return capability become reliable enough for customers to treat space as logistics rather than a rare custom mission.
+- Space compute becomes a platform only if launch, satellite production, radiative cooling, communications, chip lifetime, and demand form a cheaper or faster alternative to constrained ground data centers.
+- Lunar and Mars strategies may serve different goals: economic staging and resource use on the Moon, civilization symbolism and multi-planet ambition on Mars.
 
 ## Connections
 - [[SpaceX]], [[Starlink]], [[Starship]], [[Falcon9]], and [[NASA]] — source's platform and institutional stack.
@@ -33,4 +37,5 @@ The source argues that [[SpaceX]] is important because it can operate like a pla
 - [[AppliedAstrobiology]] and [[OliverMorton]] — biological systems needed for off-Earth habitability.
 - [[Artemis2]], [[ArtemisAccords]], [[Moon]], [[LunarResourceGovernance]], [[SpaceResourceExtraction]], and [[LunarNuclearPower]] — lunar governance and power branch added by Marketplace Tech.
 - [[SpaceBasedAIInfrastructure]] — future AI-specific downstream branch.
+- [[OrbitalDataCenterEconomics]], [[OrbitalComputeGovernance]], and [[MoonMarsStrategySplit]] - E239's compute, governance, and destination-strategy extension.
 - [[SpaceXMafia]] — talent network expected to build downstream hard-tech companies.

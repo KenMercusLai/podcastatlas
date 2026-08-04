@@ -2,8 +2,8 @@
 title: "Starlink"
 type: entity
 tags: [company, satellite, spacex, connectivity]
-sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]
-last_updated: 2026-07-18
+sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
+last_updated: 2026-08-04
 ---
 
 # Starlink
@@ -20,11 +20,14 @@ The source gives Starlink two roles. First, it can generate commercial cash flow
 
 [[95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]] adds Starlink as an internet-era demystification case. The hosts describe seeing a line of lights in the sky and quickly identifying it online as Starlink, arguing that a similar sighting in an earlier media environment might have become a stronger [[UrbanLegend|urban legend]] or UFO story.
 
+[[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] adds Starlink as operational precedent for orbital compute. The episode treats Starlink's scaled satellite manufacturing, low-earth-orbit telemetry, heat-pump experience, and collision-avoidance operations as possible advantages if [[SpaceX]] tries to build [[SpaceBasedAIInfrastructure]]. The source does not claim Starlink makes orbital data centers solved; it makes Starlink a partial learning base for [[OrbitalDataCenterThermalManagement]] and [[OrbitalComputeGovernance]].
+
 ## Connections
 - [[SpaceX]] — Starlink's parent company in the source.
 - [[ReusableRocketEconomics]] — launch-cost precondition for building the constellation.
 - [[Starship]] — next vehicle platform that could further lower deployment cost.
 - [[SpaceEconomyInfrastructure]] and [[SpaceBasedAIInfrastructure]] — broader platform roles suggested by the episode.
+- [[OrbitalDataCenterEconomics]], [[OrbitalDataCenterThermalManagement]], and [[OrbitalComputeGovernance]] - E239's orbital-compute update.
 - [[XAI|xAI]] and [[Grok]] — AI entities tied to Starlink through the SpaceX acquisition discussion.
 - [[Nigeria]], [[Eutelsat]], and [[AfricaConnectivityInfrastructure]] — connectivity branch added by the Economist source.
 - [[Ukraine]], [[LowCostDroneWarfare]], and [[WarVisibilityStrategy]] — battlefield precision branch added by the later Economist source.

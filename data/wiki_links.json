@@ -14671,6 +14671,10 @@
     "title": "Liu Bang / 刘邦",
     "url": "/wiki/entities/liubang/"
   },
+  "LiuBinyan": {
+    "title": "刘彬晏 / Liu Binyan",
+    "url": "/wiki/entities/liubinyan/"
+  },
   "LiuChang": {
     "title": "刘畅 / Liu Chang",
     "url": "/wiki/entities/liuchang/"
@@ -15647,6 +15651,10 @@
     "title": "Marriage Exit Friction",
     "url": "/wiki/concepts/marriageexitfriction/"
   },
+  "Mars": {
+    "title": "Mars",
+    "url": "/wiki/entities/mars/"
+  },
   "MarthaGellhorn": {
     "title": "Martha Gellhorn / 玛莎·盖尔霍恩",
     "url": "/wiki/entities/marthagellhorn/"
@@ -16598,6 +16606,10 @@
   "Moon": {
     "title": "Moon",
     "url": "/wiki/entities/moon/"
+  },
+  "MoonMarsStrategySplit": {
+    "title": "Moon-Mars Strategy Split",
+    "url": "/wiki/concepts/moonmarsstrategysplit/"
   },
   "MooreLaw": {
     "title": "Moore's Law",
@@ -17922,6 +17934,18 @@
   "OralFormulaicEpic": {
     "title": "Oral-Formulaic Epic",
     "url": "/wiki/concepts/oralformulaicepic/"
+  },
+  "OrbitalComputeGovernance": {
+    "title": "Orbital Compute Governance",
+    "url": "/wiki/concepts/orbitalcomputegovernance/"
+  },
+  "OrbitalDataCenterEconomics": {
+    "title": "Orbital Data Center Economics",
+    "url": "/wiki/concepts/orbitaldatacentereconomics/"
+  },
+  "OrbitalDataCenterThermalManagement": {
+    "title": "Orbital Data Center Thermal Management",
+    "url": "/wiki/concepts/orbitaldatacenterthermalmanagement/"
   },
   "OrdinaryEscapeCourage": {
     "title": "Ordinary Escape Courage",
@@ -22675,6 +22699,10 @@
     "title": "Stanley Tang",
     "url": "/wiki/entities/stanleytang/"
   },
+  "StarCloud": {
+    "title": "Star Cloud",
+    "url": "/wiki/entities/starcloud/"
+  },
   "StarTalentInBigCompanies": {
     "title": "Star Talent In Big Companies",
     "url": "/wiki/concepts/startalentinbigcompanies/"
@@ -22682,6 +22710,10 @@
   "StarWars": {
     "title": "Star Wars",
     "url": "/wiki/entities/starwars/"
+  },
+  "Starbase": {
+    "title": "Starbase",
+    "url": "/wiki/entities/starbase/"
   },
   "Starbucks": {
     "title": "Starbucks",
@@ -27414,6 +27446,10 @@
   "e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923": {
     "title": "E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI",
     "url": "/wiki/sources/e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923/"
+  },
+  "e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793": {
+    "title": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？",
+    "url": "/wiki/sources/e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793/"
   },
   "e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde": {
     "title": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",
