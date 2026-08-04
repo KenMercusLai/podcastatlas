@@ -2,13 +2,15 @@
 title: "AI As Tutor"
 type: concept
 tags: [ai, education, learning]
-sources: [e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-07-23
+sources: [fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
+last_updated: 2026-08-04
 ---
 
 # AI As Tutor
 
 AI as tutor is the use of tools such as [[ChatGPT]] to personalize explanations, fill missing reasoning steps, adapt examples to the learner's background, and support cross-disciplinary exploration. In [[vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1]], the hosts treat this as one of the most useful student-facing AI roles, but they keep a clear boundary: AI can guide and explain, not replace the student's own understanding.
+
+[[fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]] adds [[LiDan|李诞]]'s adult self-learning case. He describes using AI to study philosophers such as Wittgenstein and Heidegger in language fitted to his existing knowledge, then checking the resulting understanding with domain experts. This strengthens the page's verification boundary: useful AI tutoring can be conversational and motivating, but it still needs patience, user principles, and [[HumanJudgmentUnderAI]] when the model starts agreeing too easily.
 
 [[e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4]] adds the AI-native university version. [[AlfredLinTongyu|Alfred 林童雨]] uses AI to learn CS, AI theory, law courses, and project retrospectives; [[KelentoHouTaiyu|Kelento 侯泰宇]] uses top-down AI explanations to find expert frames and missing distinctions; [[JackRaoJiewu|Jack 饶街五]] uses AI as the first consultation layer for assignments and projects. This makes tutoring part of [[AIDefaultLearningEnvironment]], not only a fallback homework helper.
 
@@ -35,9 +37,11 @@ AI as tutor is the use of tools such as [[ChatGPT]] to personalize explanations,
 - AI tutoring can also support adult learning when it turns documents, obscure topics, or commute time into a conversation the learner can question and verify.
 - In AI-native university settings, tutoring may include curriculum planning, simulated exam questions, paper explanation, project review, coding help, and workflow selection.
 - The useful distinction is whether the learner can verify, question, and internalize the result; heavy AI tutoring can still become [[AIShortcutRisk]] if it removes the learner's own confusion and judgment practice.
+- Adult AI learning can work when the learner has enough self-knowledge to ask for explanations in a usable frame and enough humility to verify with people or sources outside the model.
 
 ## Connections
 
+- [[LiDan|李诞]] - adult self-learning and expert-verification case from the Banlatte special.
 - [[LearningHowToLearn]] — meta-skill that decides whether AI tutoring deepens understanding or only produces answers.
 - [[HumanJudgmentUnderAI]] — students still judge and own the final understanding.
 - [[ContextEngineering]] — better background and task framing improve AI's tutoring value.

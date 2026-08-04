@@ -2,11 +2,13 @@
 title: "半拿铁"
 type: entity
 tags: [podcast, media, business-history]
-sources: [no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, no-203-businiao-lanshili-979295393, no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918, no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
-last_updated: 2026-07-17
+sources: [fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, no-203-businiao-lanshili-979295393, no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918, no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
+last_updated: 2026-08-04
 ---
 
 # 半拿铁
+
+[[fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]] adds Banlatte's self-reflective podcast branch through a conversation with [[LiDan|李诞]]. [[XiaoLei|肖磊]] and [[LiuFei|刘飞]] explain the show's origin, research-heavy [[PodcastProductionWorkflow]], business-history positioning, advertising choices, and decision to remain closer to an individual creator operation than a scaled media company. The episode also turns Banlatte's Chinese company stories into a [[GenerationalTechnologyBridge]] because listeners' memories of phones, drinks, internet figures, and reform-era products become part of why the business history lands emotionally.
 
 [[no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]] adds Banlatte's ecommerce-failure branch. The episode uses [[ChineseEcommercePlatformHistory]] to connect [[8848]], [[EachNet]], [[Dangdang]], [[PPG]], [[Vancl]], [[Redbaby]], [[JumeiYoupin]], [[Mogujie]], [[Vipshop]], [[Suning]], [[Gome]], [[Missfresh]], [[CommunityGroupBuying]], and [[InstantRetail]] into a platform-history map organized around [[EcommercePlatformFailureModes]] rather than only winner narratives.
 
@@ -35,8 +37,11 @@ last_updated: 2026-07-17
 - The Shanxi merchant episode adds the inland counterpart to the Minnan branch: land routes, border provisioning, piaohao remittance finance, courtyard heritage, Pingyao conservation, and coal dependence form another regional commercial substrate.
 - The Lan Shili episode uses the same business-history style for a founder biography, but its method is more evidentiary: it distinguishes self-narration, media accounts, court judgments, official notices, and counterparty responses through [[FounderNarrativeReliability]].
 - The ecommerce episode uses the same China-internet-history style, but shifts attention to failed or marginal platforms so [[EcommerceSurfaceMetricsRisk]], [[ProfitAndCashFlowQuality]], [[InventoryWriteDownRisk]], and [[EcommerceFulfillmentComplexity]] stay visible behind growth stories.
+- The Li Dan special makes the show's own media form visible: Banlatte's value is not only topic selection but also [[PodcastIntimacy]], scripted-yet-live production, and memory-rich business storytelling.
 
 ## Connections
+- [[LiDan|李诞]], [[XiaoLei|肖磊]], [[LiuFei|刘飞]], [[SanWuHuan|三五环]], and [[Xiaoyuzhou|小宇宙]] — self-reflective podcast and Chinese podcast ecosystem branch added by the special episode.
+- [[PodcastIntimacy]], [[PodcastProductionWorkflow]], [[PodcastAuthenticityBoundary]], [[BrandPodcasting]], and [[GenerationalTechnologyBridge]] — media-form and memory concepts from the special episode.
 - [[ChineseEcommercePlatformHistory]], [[EcommercePlatformFailureModes]], [[VerticalEcommerceFailureModes]], and [[FreshGroceryEcommerceEconomics]] — ecommerce-history branch added by episode 200.
 - [[LanShili]], [[EastStarGroup]], and [[EastStarAirlines]] — private-enterprise and aviation branch added by episode 203.
 - [[ChinesePrivateAirlineOpening]], [[AviationFinanceLeasing]], [[PrivateAirlineFailureModes]], and [[GrassrootsPrivateEntrepreneurship]] — concepts from the Lan Shili source.

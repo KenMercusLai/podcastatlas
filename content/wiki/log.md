@@ -5208,3 +5208,11 @@ Added source page for a 硅谷101 episode on SpaceX's orbital AI data-center nar
 ## [2026-08-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-04] ingest | 番外 14：跟李诞聊聊播客、创作、AI 与中年
+
+Added source page for a 半拿铁 special episode with 李诞, 肖磊, and 刘飞 on podcasting, creator work, AI, and middle-age technology memory. Created pages for 李诞, 肖磊, 刘飞, 小宇宙, 三五环, Podcast Intimacy, Podcast Production Workflow, Podcast Authenticity Boundary, Brand Podcasting, and Generational Technology Bridge; updated overview, index, 半拿铁, Podcast As Asynchronous Media, AI As Tutor, AI Voice Cloning Rights, AI Content Provenance, Human Connection Under AI, and Midlife As Gift. No direct contradiction found; the source extends existing podcast and AI themes by showing how long-form voice creates intimacy, how scripted production can still preserve truthfulness, and how AI-generated audio makes disclosure and human imperfection more important.
+
+## [2026-08-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

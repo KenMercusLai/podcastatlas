@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [番外 14：跟李诞聊聊播客、创作、AI 与中年](sources/fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552.md) — 半拿铁 special episode with 李诞 on Chinese podcasting, Banlatte's workflow, voice intimacy, brand podcasts, AI learning and creation, and middle-age technology memory.
 - [E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？](sources/e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793.md) — 硅谷101 episode on SpaceX's orbital AI data-center narrative, Starship launch economics, space thermal management, radiation, orbital governance, lunar industry, and the Moon-versus-Mars strategy split.
 - [E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意](sources/e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6.md) — 硅谷101 episode on CCTV-FIFA World Cup rights negotiations, Chinese sports-rights sublicensing, sponsor pressure, platform LTV, sports-rights bubbles, and U.S. streaming-driven rights inflation.
 - [A trip to the magic mushroom megachurch](sources/a-trip-to-the-magic-mushroom-megachurch.md) — Planet Money episode on Zydor Church, psychedelic churches, religious controlled-substance exemptions, the DEA process, cash sacrament donations, and the line between faith, harm reduction, and gray-market access.
@@ -652,6 +653,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [李诞](entities/LiDan.md) — Comedian and creator guest explaining podcast intimacy, AI-assisted adult learning, AI creation disclosure, and middle-age technology memory in the Banlatte special.
+- [肖磊](entities/XiaoLei.md) — Banlatte host whose radio-to-podcast path and preparation-heavy work describe Chinese podcast production from the media-worker side.
+- [刘飞](entities/LiuFei.md) — Banlatte host and former product manager connecting business storytelling, 三五环, podcast commerce, and ecosystem relationships.
+- [小宇宙](entities/Xiaoyuzhou.md) — Chinese podcast-platform context used in the Banlatte special for brand and institutional podcast experimentation.
+- [三五环](entities/SanWuHuan.md) — Liu Fei's other podcast context, used to locate his product-to-podcast path around Banlatte.
 - [朱晓东 / Zhu Xiaodong](entities/ZhuXiaodongSportsRights.md) — Sports-rights specialist and Lizan Sports CEO explaining World Cup rights pricing, packaging, and buyer capacity in E237.
 - [张斌 / Zhang Bin](entities/ZhangBinSportsMedia.md) — Sports media figure explaining platform and China-market implications of CCTV-FIFA rights negotiation in E237.
 - [力赞体育 / Lizan Sports](entities/LizanSports.md) — Sports-rights company context for Zhu Xiaodong in E237.
@@ -4143,7 +4149,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Baidu](entities/Baidu.md) — Chinese search and AI company discussed through search-ad decline, open-web traffic loss, Wenxin, Qunar, and the Wei Zexi medical-search trust crisis.
 - [Bairong Intelligence](entities/BairongIntelligence.md) — Enterprise AI company using and selling digital employees through AI staffing, AI BPO, professional-service platforms, and silicon-carbon governance.
 - [Bank of Japan](entities/BankOfJapan.md) — Central bank whose tightening and yen effects are discussed as triggers for yen carry trade stress and Japanese equity volatility.
-- [半拿铁](entities/Banlatte.md) — Business-history podcast/show context for China internet, regional merchant, aviation, ecommerce, healthcare, mobile-phone, and online-video history episodes.
+- [半拿铁](entities/Banlatte.md) — Business-history podcast/show context now also covering its own research-heavy production workflow, podcast intimacy, commerce, and middle-age technology memory.
 - [Berkshire Hathaway](entities/BerkshireHathaway.md) — Warren Buffett's investment company discussed through Apple reduction, high cash, valuation caution, market sentiment, and Munger/Buffett consumer-brand cases.
 - [Bitcoin](entities/Bitcoin.md) — Cryptocurrency asset discussed through trading, scarcity, safe-haven behavior, consumer confidence, regulated access, and Lugano's everyday-payment experiment.
 - [Bird Mobile](entities/BirdMobile.md) — First-generation Chinese domestic handset brand remembered for licenses, local channels, celebrity marketing, and the "手机中的战斗机" slogan.
@@ -4415,6 +4421,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Podcast Intimacy](concepts/PodcastIntimacy.md) — Long-form voice relationship where repeated listening, digression, and host presence make listeners feel close to a speaker or public figure.
+- [Podcast Production Workflow](concepts/PodcastProductionWorkflow.md) — Practical system for research, transcripts, cohost roles, recording, editing, ads, and release work behind a finished podcast episode.
+- [Podcast Authenticity Boundary](concepts/PodcastAuthenticityBoundary.md) — Trust line between acceptable preparation/performance and falsely manufactured conversation, including AI-generated audio disclosure.
+- [Brand Podcasting](concepts/BrandPodcasting.md) — Use of podcast shows or podcast-like long-form audio for brand personality, values, expertise, and trust rather than immediate conversion.
+- [Generational Technology Bridge](concepts/GenerationalTechnologyBridge.md) — Cohort frame for people old enough to remember pre-smartphone life and young enough to adopt mobile internet and AI.
 - [Sports Rights Business Model](concepts/SportsRightsBusinessModel.md) — Accounting frame for pricing sports rights through ads, sublicensing, membership, LTV, sponsor exposure, and platform strategy.
 - [Sports Rights Sublicensing](concepts/SportsRightsSublicensing.md) — Downstream distribution layer where an upstream buyer such as CCTV resells or packages live, replay, VOD, and platform-specific sports rights.
 - [Sports Rights Bubble](concepts/SportsRightsBubble.md) — Rights-market condition where prices exceed local buyer monetization capacity even if absolute prices remain below richer global benchmarks.
