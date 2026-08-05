@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [三联串台｜神赐给人葡萄，世界微醺了](sources/sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156.md) — 蜜獾吃书/Sanlian crossover with 黑麦 on wine as agriculture and culture, terroir, natural wine, taste training, food writing, and finding one's own palate.
 - [27.希区柯克已在您桌下安置炸弹](sources/27-xiqukeke-yizai-nin-zhuoxia-anzhi-zhadan-582370829.md) — 蜜獾吃书 episode on Alfred Hitchcock, Psycho, MacGuffin, bomb-under-table suspense, narrative misdirection, and Hitchcockian moral irony in short-story reversals.
 - [26.牛顿与伪币制造者：可能是斯内普的原型？](sources/26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317.md) — 蜜獾吃书 episode on Isaac Newton, 《牛顿与伪币制造者》, the Royal Mint, the Great Recoinage, William Chaloner, counterfeiting, alchemy, and Newton as scientist-bureaucrat.
 - [一条节目说明，希望各位听众能够听完](sources/yi-tiao-jiemu-shuoming-xiwang-gewei-tingzhong-nenggou-tingwan-578621335.md) — 蜜獾吃书 short notice on a prepared episode failing review on some platforms, alternate listening routes, weekly update expectations, and platform-review friction.
@@ -701,6 +702,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Wine / 葡萄酒](entities/Wine.md) — Agricultural drink and cultural object connecting terroir, natural wine, taste training, food writing, material history, and personal palate discovery.
+- [黑麦 / Heimai](entities/Heimai.md) — 三联生活周刊 writer whose wine, food, media, kitchen, and family-memory experiences anchor the Sanlian crossover episode.
+- [三联生活周刊 / Sanlian Life Weekly](entities/SanlianLifeWeekly.md) — Chinese culture and lifestyle media context for 黑麦's food, wine, and taste-writing practice.
+- [《神之水滴》 / The Drops of God](entities/DropsOfGod.md) — Wine manga used by the episode to show how tasting notes, region knowledge, and collector desire become popular story.
+- [《杯酒人生》 / Sideways](entities/SidewaysFilm.md) — Wine film used by 黑麦 to explain flavor preference as self-projection and self-reconciliation.
+- [SOM](entities/SOMDocumentary.md) — Sommelier-training documentary illustrating blind tasting, region inference, and the limits of wine expertise.
+- [《酸葡萄》 / Sour Grapes](entities/SourGrapesDocumentary.md) — Wine-fraud documentary showing how rare-bottle collecting, social trust, labels, and auctions can become deception infrastructure.
+- [《世界葡萄酒地图》 / The World Atlas of Wine](entities/WorldAtlasOfWine.md) — Wine reference book recommended as a geographic scaffold for terroir and tasting knowledge.
 - [《惊魂记》 / Psycho](entities/PsychoFilm.md) — Hitchcock film used by 蜜獾吃书 to explain MacGuffin and narrative misdirection through the stolen-money opening and motel mystery.
 - [《牛顿与伪币制造者》 / Newton and the Counterfeiter](entities/NewtonAndTheCounterfeiter.md) — Book discussed by 蜜獾吃书 as a Newton biography, Royal Mint crime story, and monetary-history case.
 - [Isaac Newton / 牛顿](entities/IsaacNewton.md) — Scientist and Royal Mint official read through genius, religious seriousness, alchemy, recoinage, prosecution, and financial fallibility.
@@ -4832,6 +4841,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Wine As Agricultural Culture](concepts/WineAsAgriculturalCulture.md) — Frame for treating wine first as a farmed, fermented, place-bound material rather than as a luxury credential.
+- [Wine Terroir / 葡萄酒风土](concepts/WineTerroir.md) — Source frame for wine place-character as soil, climate, geography, surrounding smells, and human practice together.
+- [Taste Training](concepts/TasteTraining.md) — Sensory-learning practice built from comparison, repeated tasting, vocabulary, and bodily attention across wine, tea, coffee, perfume, and food.
+- [Natural Wine](concepts/NaturalWine.md) — Low-intervention wine style framed as both a fermentation choice and a social lowering of wine's status barrier.
+- [Food Writing As Life Experience](concepts/FoodWritingAsLifeExperience.md) — Writing frame where food and drink are explained through memory, place, work, body, and changing taste rather than only recommendations.
+- [Flavor As Self-Knowledge](concepts/FlavorAsSelfKnowledge.md) — Claim that tasting food and drink helps people discover their own preferences, needs, memories, and self-descriptions.
 - [MacGuffin / 麦格芬](concepts/MacGuffin.md) — Suspense device where an object, secret, or question drives action and curiosity without necessarily remaining the story's final center.
 - [桌下炸弹悬念 / Bomb-Under-Table Suspense](concepts/BombUnderTableSuspense.md) — Hitchcockian information-design rule where known but unresolved danger creates sustained anxiety.
 - [Narrative Misdirection / 叙事误导](concepts/NarrativeMisdirection.md) — Story technique that directs attention toward a plausible provisional center, then makes earlier details read differently after a reveal.

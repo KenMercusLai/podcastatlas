@@ -5596,3 +5596,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-05] ingest | 三联串台｜神赐给人葡萄，世界微醺了
+
+Added source page for a 蜜獾吃书/Sanlian crossover with 黑麦 on wine as agriculture and culture, terroir, natural wine, taste training, food writing, and palate self-knowledge. Created pages for Heimai, Sanlian Life Weekly, Wine, The Drops of God, Sideways, SOM, Sour Grapes, The World Atlas of Wine, Wine As Agricultural Culture, Wine Terroir, Taste Training, Natural Wine, Food Writing As Life Experience, and Flavor As Self-Knowledge; updated overview, index, MihuanChishu, Coffee, Culinary Grammar, Everyday Food Culture History, and Material History Narrative. No direct contradiction found; the source extends existing food and coffee material-history branches by treating wine as a farmed sensory object rather than a prestige-only category.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
