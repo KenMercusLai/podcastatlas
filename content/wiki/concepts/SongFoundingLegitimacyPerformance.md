@@ -2,7 +2,7 @@
 title: "宋初建国合法性表演 / Song Founding Legitimacy Performance"
 type: concept
 tags: [politics, legitimacy, china, song-dynasty, ritual]
-sources: [169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909]
+sources: [170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909]
 last_updated: 2026-08-06
 ---
 
@@ -14,15 +14,19 @@ The concept does not claim that every detail is fake. Its point is that seizure 
 
 The episode also connects this performance to later history writing. If [[ZhaoGuangyi|赵光义]]'s role was emphasized under later official histories, then founding legitimacy was not a one-day ritual but an ongoing memory project.
 
+[[170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115]] extends the same mechanism from founding to succession. [[GoldenCabinetPledge|金匮之盟]], the handling of [[CandleShadowAxeSound|烛影斧声]], and later court histories become a second legitimacy performance: not the making of a dynasty, but the repair of a contested inheritance inside that dynasty.
+
 ## Key Claims
 - A coup can require ritual language to become governable after the fact.
 - Forced-abdication stories make political violence appear compatible with order.
 - "Reluctant ruler" rhetoric can protect a founder from the moral cost of ambition.
 - Honoring loyalist victims can help absorb the violence that the founding story cannot fully hide.
 - Later revision can continue the original legitimacy performance by reallocating credit and restraint.
+- A dynasty that begins with managed abdication can later use family duty and archival claims to manage a suspicious succession.
 
 ## Connections
 - [[ChenQiaoMutiny|陈桥兵变]], [[ZhaoKuangyin|赵匡胤 / 宋太祖]], and [[HanTong|韩通]] - source event and actors.
 - [[ZhaoGuangyi|赵光义 / 宋太宗]] and [[EvidenceBoundHistoricalRevision]] - later memory and修史 layer.
 - [[PersonalRuleLegitimacyCrisis]] and [[DynasticLegitimacyBackfire]] - adjacent legitimacy frames.
 - [[HistoricalMemoryContest]] - broader struggle over how founding violence is remembered.
+- [[GoldenCabinetPledge|金匮之盟]], [[SongSuccessionLegitimacyCrisis|宋初继承合法性危机]], and [[OfficialHistoryLegitimacyRepair]] - succession-stage extension.

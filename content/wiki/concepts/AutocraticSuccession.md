@@ -2,13 +2,15 @@
 title: "Autocratic Succession"
 type: concept
 tags: [politics, governance, succession]
-sources: [stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
+sources: [170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
 last_updated: 2026-07-09
 ---
 
 # Autocratic Succession
 
 Autocratic succession is the problem of transferring power when a political system has been built around one dominant leader rather than routinized party competition. [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]] uses [[RecepTayyipErdogan]] as the case: he still faces elections and formal term limits, but his long rule has concentrated authority enough that successor talk becomes sensitive inside the ruling party.
+
+[[170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115]] adds an imperial-dynastic version through [[ZhaoKuangyin|赵匡胤 / 宋太祖]] and [[ZhaoGuangyi|赵光义 / 宋太宗]]. The case shows that even hereditary monarchy needs credible procedure: a sudden death, adult brother claim, bypassed sons, missing pledge text, and later removal of alternative heirs can make succession governable in the present while historically unstable afterward.
 
 [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]] adds a theocratic and dynastic version through [[AliKhamenei]] and [[MujtabaKhamenei]]. The episode treats the elder Khamenei's funeral as [[PoliticalFuneral]], but the supposed successor's absence from public prayers turns the ritual of continuity into evidence of uncertainty about who is actually in charge.
 
@@ -24,6 +26,7 @@ The source presents succession as both institutional and personal. Constitutiona
 - Removing a long-serving balancer can make policy more volatile even before succession is formally settled.
 - A more institutionally experienced successor can poll better while still lacking the incumbent's control over the party.
 - Opposition pressure and legal cases can shape succession by changing who is available to contest power.
+- Dynastic succession can become unstable when the argument that legitimizes one heir also creates claims for other relatives.
 
 ## Connections
 - [[RecepTayyipErdogan]] — central leader in the source.
@@ -34,3 +37,4 @@ The source presents succession as both institutional and personal. Constitutiona
 - [[AliKhamenei]], [[MujtabaKhamenei]], and [[PoliticalFuneral]] — Iran funeral case where public ritual fails to settle command uncertainty.
 - [[NicholasPelham]] — contributor explaining the post-Khamenei command-balance problem.
 - [[FounderSuccession]] — adjacent non-state succession concept where leadership handoff also tests whether authority has been institutionalized.
+- [[SongSuccessionLegitimacyCrisis|宋初继承合法性危机]], [[GoldenCabinetPledge|金匮之盟]], and [[OfficialHistoryLegitimacyRepair]] — imperial-dynastic extension.

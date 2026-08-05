@@ -2,7 +2,7 @@
 title: "Historical Memory Contest"
 type: concept
 tags: [history, politics, culture]
-sources: [169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655, 11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513]
+sources: [170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655, 11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513]
 last_updated: 2026-08-06
 ---
 
@@ -28,6 +28,8 @@ The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGu
 
 [[169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909]] adds a Song founding-memory version through [[ChenQiaoMutiny|陈桥兵变]] and [[ZhaoGuangyi|赵光义 / 宋太宗]]. The contest is over whether the founding looks accidental, reluctantly accepted, carefully planned, or later rewritten to give Taizong more founding credit.
 
+[[170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115]] adds the death-and-succession continuation. [[CandleShadowAxeSound|烛影斧声]], [[GoldenCabinetPledge|金匮之盟]], and the later fates of [[ZhaoDezhao|赵德昭]], [[ZhaoDefang|赵德芳]], and [[ZhaoTingmei|赵廷美]] show how one dynasty's memory contest can shift from founding ritual to inheritance repair.
+
 ## Key Claims
 - Historical memory is an institutional problem, not only a cultural argument.
 - Museums, memorials, schools, film, academia, and local boards all shape what citizens understand as national history.
@@ -41,6 +43,7 @@ The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGu
 - Dragon memory shows that a symbol can become national by making older folklore and imperial layers look more unified than they were.
 - The Zeng Jing case shows that official rebuttal and book suppression can both make a rumor more memorable.
 - Song founding memory shows that a coup can be remembered through ritual innocence, loyalist honor, successor credit, and later source revision at the same time.
+- Song succession memory shows that a suspicious death can remain historically active when later records and later heir removals keep renewing the question.
 
 ## Connections
 - [[UnitedStates]], [[RebeccaJackson]], and [[AmericanDemocraticResilience]] - source context.
@@ -55,3 +58,4 @@ The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGu
 - [[ChineseDragon|龙]], [[QingDragonFlag]], [[DragonNationalSymbolInvention]], and [[CrossCulturalDragonTranslation]] - dragon national-symbol memory branch added by episode 127.
 - [[DaiYiJueMiLu|《大义觉迷录》]], [[YongzhengEmperor|雍正]], [[QianlongEmperor|乾隆]], and [[QingRumorPolitics]] - Qing rumor-memory branch added by episode 11.
 - [[ZhaoKuangyin|赵匡胤 / 宋太祖]], [[ZhaoGuangyi|赵光义 / 宋太宗]], [[ChenQiaoMutiny|陈桥兵变]], and [[EvidenceBoundHistoricalRevision]] - Song founding-memory branch added by episode 169.
+- [[CandleShadowAxeSound|烛影斧声]], [[GoldenCabinetPledge|金匮之盟]], [[SongSuccessionLegitimacyCrisis|宋初继承合法性危机]], and [[OfficialHistoryLegitimacyRepair]] - Song succession-memory branch added by episode 170.

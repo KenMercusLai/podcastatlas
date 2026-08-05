@@ -455,6 +455,10 @@
     "title": "17.地狱变：众生皆苦，一念入魔",
     "url": "/wiki/sources/17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565/"
   },
+  "170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115": {
+    "title": "170.宋太祖之死：烛影斧声，阴谋论中的人性谜团（下）",
+    "url": "/wiki/sources/170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115/"
+  },
   "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962": {
     "title": "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感",
     "url": "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
@@ -4987,6 +4991,10 @@
     "title": "Candidate Identity Fraud",
     "url": "/wiki/concepts/candidateidentityfraud/"
   },
+  "CandleShadowAxeSound": {
+    "title": "烛影斧声 / Candle Shadow Axe Sound",
+    "url": "/wiki/entities/candleshadowaxesound/"
+  },
   "CaneDogCoffee": {
     "title": "Cane Dog Coffee",
     "url": "/wiki/entities/canedogcoffee/"
@@ -5006,6 +5014,10 @@
   "CantonMichigan": {
     "title": "Canton, Michigan",
     "url": "/wiki/entities/cantonmichigan/"
+  },
+  "CaoBin": {
+    "title": "曹彬 / Cao Bin",
+    "url": "/wiki/entities/caobin/"
   },
   "CaoCaoTomb": {
     "title": "曹操墓",
@@ -5598,6 +5610,10 @@
   "ChenZhePeter": {
     "title": "Chen Zhe Peter",
     "url": "/wiki/entities/chenzhepeter/"
+  },
+  "ChengDexuan": {
+    "title": "程德玄 / Cheng Dexuan",
+    "url": "/wiki/entities/chengdexuan/"
   },
   "ChengDieyi": {
     "title": "程蝶衣 / Cheng Dieyi",
@@ -8635,6 +8651,10 @@
     "title": "杜少卿",
     "url": "/wiki/entities/dushaoqing/"
   },
+  "DuTaihou": {
+    "title": "杜太后 / Empress Dowager Du",
+    "url": "/wiki/entities/dutaihou/"
+  },
   "DuZiChun": {
     "title": "《杜子春》",
     "url": "/wiki/entities/duzichun/"
@@ -11662,6 +11682,10 @@
   "GoldPlan": {
     "title": "Gold Plan",
     "url": "/wiki/concepts/goldplan/"
+  },
+  "GoldenCabinetPledge": {
+    "title": "金匮之盟 / Golden Cabinet Pledge",
+    "url": "/wiki/entities/goldencabinetpledge/"
   },
   "GoldenDawn": {
     "title": "Golden Dawn / 金色黎明",
@@ -19695,6 +19719,10 @@
     "title": "Office Surveillance And Privacy",
     "url": "/wiki/concepts/officesurveillanceprivacy/"
   },
+  "OfficialHistoryLegitimacyRepair": {
+    "title": "Official History Legitimacy Repair",
+    "url": "/wiki/concepts/officialhistorylegitimacyrepair/"
+  },
   "OfficialStatisticsCredibility": {
     "title": "Official Statistics Credibility",
     "url": "/wiki/concepts/officialstatisticscredibility/"
@@ -20378,6 +20406,10 @@
   "PanJinlian": {
     "title": "潘金莲 / Pan Jinlian",
     "url": "/wiki/entities/panjinlian/"
+  },
+  "PanMei": {
+    "title": "潘美 / Pan Mei",
+    "url": "/wiki/entities/panmei/"
   },
   "PanXulun": {
     "title": "潘序伦",
@@ -22242,6 +22274,10 @@
   "QuToutiao": {
     "title": "QuToutiao",
     "url": "/wiki/entities/qutoutiao/"
+  },
+  "QuanShixiong": {
+    "title": "全师雄 / Quan Shixiong",
+    "url": "/wiki/entities/quanshixiong/"
   },
   "QuanYuanMingZhenTan": {
     "title": "《全员名侦探》",
@@ -24711,6 +24747,10 @@
     "title": "Sichuan Cuisine / 川菜",
     "url": "/wiki/concepts/sichuancuisine/"
   },
+  "SichuanPostConquestResistance": {
+    "title": "川蜀征服后反抗 / Sichuan Post-Conquest Resistance",
+    "url": "/wiki/concepts/sichuanpostconquestresistance/"
+  },
   "SiddharthaHesse": {
     "title": "《悉达多》 / Siddhartha",
     "url": "/wiki/entities/siddharthahesse/"
@@ -25103,6 +25143,10 @@
     "title": "Sondre Solstad",
     "url": "/wiki/entities/sondresolstad/"
   },
+  "SongEmpress": {
+    "title": "宋皇后 / Empress Song",
+    "url": "/wiki/entities/songempress/"
+  },
   "SongFactionalPolitics": {
     "title": "宋代党争 / Song Factional Politics",
     "url": "/wiki/concepts/songfactionalpolitics/"
@@ -25122,6 +25166,14 @@
   "SongShenzong": {
     "title": "宋神宗 / Emperor Shenzong of Song",
     "url": "/wiki/entities/songshenzong/"
+  },
+  "SongSuccessionLegitimacyCrisis": {
+    "title": "宋初继承合法性危机 / Song Succession Legitimacy Crisis",
+    "url": "/wiki/concepts/songsuccessionlegitimacycrisis/"
+  },
+  "SongUnificationStrategy": {
+    "title": "先南后北 / Song Unification Strategy",
+    "url": "/wiki/concepts/songunificationstrategy/"
   },
   "SongXiangGong": {
     "title": "宋襄公",
@@ -28523,6 +28575,10 @@
     "title": "王航",
     "url": "/wiki/entities/wanghang/"
   },
+  "WangJien": {
+    "title": "王继恩 / Wang Jien",
+    "url": "/wiki/entities/wangjien/"
+  },
   "WangJiping": {
     "title": "Wang Jiping",
     "url": "/wiki/entities/wangjiping/"
@@ -28554,6 +28610,10 @@
   "WangPo": {
     "title": "王婆 / Wang Po",
     "url": "/wiki/entities/wangpo/"
+  },
+  "WangQuanbin": {
+    "title": "王全斌 / Wang Quanbin",
+    "url": "/wiki/entities/wangquanbin/"
   },
   "WangShengli": {
     "title": "Wang Shengli",
@@ -30239,6 +30299,14 @@
     "title": "Zhangzidao",
     "url": "/wiki/entities/zhangzidao/"
   },
+  "ZhaoDefang": {
+    "title": "赵德芳 / Zhao Defang",
+    "url": "/wiki/entities/zhaodefang/"
+  },
+  "ZhaoDezhao": {
+    "title": "赵德昭 / Zhao Dezhao",
+    "url": "/wiki/entities/zhaodezhao/"
+  },
   "ZhaoDongping": {
     "title": "Zhao Dongping / 赵东平",
     "url": "/wiki/entities/zhaodongping/"
@@ -30266,6 +30334,10 @@
   "ZhaoPu": {
     "title": "赵普 / Zhao Pu",
     "url": "/wiki/entities/zhaopu/"
+  },
+  "ZhaoTingmei": {
+    "title": "赵廷美 / Zhao Tingmei",
+    "url": "/wiki/entities/zhaotingmei/"
   },
   "ZhaoYuanren": {
     "title": "赵元任",

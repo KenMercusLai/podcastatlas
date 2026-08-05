@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [170.宋太祖之死：烛影斧声，阴谋论中的人性谜团（下）](sources/170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115.md) — 蜜獾吃书 episode on 先南后北, 平蜀暴力, 宋初相权, 太祖猝死, 烛影斧声, 金匮之盟, 德昭德芳之死, 廷美案, and 太宗合法性焦虑.
 - [169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上）](sources/169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909.md) — 蜜獾吃书 episode on 赵匡胤, 后周 military politics, 陈桥兵变, 太宗朝修史, 开封定都, 杯酒释兵权, and Song military centralization tradeoffs.
 - [166.悠游长风：温柔的幻想之歌，抚平焦虑的沟壑](sources/166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059.md) — 蜜獾吃书 episode on Sarah Pinsker's speculative short stories, gentle science-fiction ambiguity, embodied identity, dream parenthood, memory deletion ethics, and civilization carried by human memory.
 - [165.银发川柳：用幽默面对老年，咱们来写打油诗](sources/165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646.md) — 蜜獾吃书 episode on 《银发川柳》, senryu aging humor, embodied old age, death-facing jokes, elder technology exclusion, and East Asian respect-for-elders traditions.
@@ -735,6 +736,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [韩通 / Han Tong](entities/HanTong.md) — Later Zhou loyalist whose killing complicates the peaceful-abdication story.
 - [陈桥兵变 / Chenqiao Mutiny](entities/ChenQiaoMutiny.md) — Founding coup of the Northern Song, read through military networks, omen talk, and abdication staging.
 - [开封 / Kaifeng](entities/Kaifeng.md) — Song capital whose canal logistics and defensive vulnerability create a long-term institutional tradeoff.
+- [烛影斧声 / Candle Shadow Axe Sound](entities/CandleShadowAxeSound.md) — Taizu death-night story read as a suspicious succession clue rather than stand-alone proof.
+- [金匮之盟 / Golden Cabinet Pledge](entities/GoldenCabinetPledge.md) — Brother-succession pledge claim used to justify Taizong while creating Tingmei and Taizu-line problems.
+- [赵德昭 / Zhao Dezhao](entities/ZhaoDezhao.md) — Taizu's son whose post-northern-campaign suicide makes him a key alternative-heir figure.
+- [赵德芳 / Zhao Defang](entities/ZhaoDefang.md) — Taizu's son whom Song Empress reportedly tried to summon before Wang Jien brought Taizong.
+- [赵廷美 / Zhao Tingmei](entities/ZhaoTingmei.md) — Taizu and Taizong's brother whose position became dangerous under the Golden Cabinet succession logic.
+- [杜太后 / Empress Dowager Du](entities/DuTaihou.md) — Maternal authority invoked by the Golden Cabinet pledge story.
+- [宋皇后 / Empress Song](entities/SongEmpress.md) — Taizu's empress whose reaction in the palace sequence marks the abrupt succession turn.
+- [王继恩 / Wang Jien](entities/WangJien.md) — Eunuch messenger whose decision to summon Taizong instead of Defang shapes the succession narrative.
+- [程德玄 / Cheng Dexuan](entities/ChengDexuan.md) — Figure in the Taizong summons story whose odd door-call detail adds to the suspicious handoff.
+- [王全斌 / Wang Quanbin](entities/WangQuanbin.md) — Song general used by the source to explain post-conquest violence in Shu.
+- [全师雄 / Quan Shixiong](entities/QuanShixiong.md) — Shu soldier-rebellion leader whose treatment shows how conquest violence fed resistance.
+- [曹彬 / Cao Bin](entities/CaoBin.md) — Southern campaign general used to show Taizu trying to enforce discipline after the Shu disaster.
+- [潘美 / Pan Mei](entities/PanMei.md) — Song general whose episode role complicates later folk-villain memory.
 - [Sarah Pinsker / 莎拉·平斯克](entities/SarahPinsker.md) — Speculative-fiction writer and musician read by episode 166 through gentle ambiguity, embodied identity, dream parenthood, memory ethics, and artistic transmission.
 - [《悠游长风》 / 《悠悠长风》](entities/YouyouChangfeng.md) — Sarah Pinsker collection discussed by episode 166 through quiet speculative premises, lingering emotional aftertaste, and memory/art preservation.
 - [《一段双车道公路》](entities/AStretchOfHighwayTwoLanesWide.md) — Pinsker story where Andy's prosthetic arm becomes bound to a Colorado road, making body, machine, landscape, and identity unstable.
@@ -4988,6 +5002,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [先南后北 / Song Unification Strategy](concepts/SongUnificationStrategy.md) — Strategy frame for sequencing southern conquest before northern war under early Song logistics and security constraints.
+- [宋初继承合法性危机 / Song Succession Legitimacy Crisis](concepts/SongSuccessionLegitimacyCrisis.md) — Frame linking Taizu's sudden death, Taizong's accession, Golden Cabinet logic, heir deaths, and the Tingmei case.
+- [川蜀征服后反抗 / Sichuan Post-Conquest Resistance](concepts/SichuanPostConquestResistance.md) — Conquest-aftermath frame tying military violence, taxation, state monopoly, and local rebellion in Sichuan.
+- [Official History Legitimacy Repair](concepts/OfficialHistoryLegitimacyRepair.md) — Source-critical frame for records, rituals, and archival claims that stabilize a contested transfer of power.
 - [宋初建国合法性表演 / Song Founding Legitimacy Performance](concepts/SongFoundingLegitimacyPerformance.md) — Frame for turning Chenqiao's military coup into reluctant-rule, abdication, discipline, and successor-memory narratives.
 - [杯酒释兵权 / Cup of Wine Disarms Generals](concepts/CupWineDisarmsGenerals.md) — Compressed story for Zhao Kuangyin's broader strategy of converting military threats into wealth, retirement, and kinship-bound elites.
 - [宋初军事集权 / Song Military Centralization](concepts/SongMilitaryCentralization.md) — Northern Song institutional response to Five Dynasties commander-centered instability, with stability and border-strength tradeoffs.
