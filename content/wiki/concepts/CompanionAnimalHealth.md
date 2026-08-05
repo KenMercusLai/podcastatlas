@@ -2,8 +2,8 @@
 title: "Companion Animal Health"
 type: concept
 tags: [animal-welfare, mental-health, relationships, public-health]
-sources: [138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]
-last_updated: 2026-07-24
+sources: [34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]
+last_updated: 2026-08-06
 ---
 
 # Companion Animal Health
@@ -16,10 +16,13 @@ The source makes the frame concrete through grief over a cat, children recoverin
 
 [[138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726]] adds an unusual wild-animal version through [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]]. The episode does not convert the penguin into a pet-care model: [[WildAnimalRescueResponsibility]] still requires attention to swimming, feeding, release, and same-species companionship. But inside [[StGeorgesSchool|St. George's School / 圣乔治学校]], the penguin's nonjudgmental presence helps students, workers, teachers, and [[MariaStGeorges|玛利亚]] talk, care, and feel seen.
 
+[[34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607]] adds a longer historical cat version through [[Cat|猫]]. The episode is not a clinical companion-animal source, but it shows that household cat attachment grows out of older practical and symbolic roles: pest control, household protection, divine or magical proximity, literary companionship, and the recurring human recognition that a nonhuman housemate can expose human vanity and loneliness.
+
 ## Key Claims
 - Health includes social and emotional safety, not only absence of disease.
 - Companion animals can offer nonjudgmental presence when human social contact is too defended, status-bound, or frightening.
 - The human benefit is often reciprocal: responsibility for an animal can help a person feel needed, organized, and still valuable.
+- Historical cat material shows that companion status often carries earlier layers of labor, protection, symbolism, and ambivalence.
 - Treating animal attachment as trivial can damage care, because people may refuse rescue, shelter, treatment, or disclosure if it means abandoning an animal they treat as family.
 - Companion care can become morally difficult when treatment, pain, euthanasia, or separation force humans to act for an animal that cannot understand the reason.
 - A wild animal can temporarily become a companion and community anchor, but that bond should not erase species-specific needs or release/captivity questions.
@@ -33,3 +36,4 @@ The source makes the frame concrete through grief over a cat, children recoverin
 - [[PresentMomentAgainstDeath]] - animal time and final-care branch added by the Brenin source.
 - [[TeenChatbotMentalHealthRisk]] - adjacent mental-health-support page; this source concerns embodied animal companionship rather than AI companionship.
 - [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]], [[StGeorgesSchool|St. George's School / 圣乔治学校]], [[MariaStGeorges|Maria / 玛利亚]], and [[WildAnimalRescueResponsibility]] - wild-animal school-community extension added by episode 138.
+- [[Cat|猫]] and [[CatCulturalAmbivalence]] - historical companion-animal extension added by episode 34.

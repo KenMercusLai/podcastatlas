@@ -2,8 +2,8 @@
 title: "Animal Welfare As Public Health"
 type: concept
 tags: [animal-welfare, public-health, empathy, violence-prevention]
-sources: [146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
-last_updated: 2026-07-24
+sources: [34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607, 146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
+last_updated: 2026-08-06
 ---
 
 # Animal Welfare As Public Health
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 Animal welfare as public health is the claim in [[56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301]] that how humans treat animals affects human health, trauma recovery, family safety, disaster response, and violence norms. The episode uses [[OurSymphonyWithAnimals|《伴生》 / Our Symphony with Animals]] to move animal protection out of a narrow "pet lover" category and into public systems.
 
 The concept has two sides. [[CompanionAnimalHealth]] shows how animals support people through care, attachment, responsibility, touch, and nonjudgmental presence. [[AnimalAbuseViolenceLink]] shows the opposite: cruelty can train domination, break empathy, and create social permission for enjoying another being's pain.
+
+[[34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607]] adds a historical rodent-control version through [[CatAsCivilizationalInfrastructure]]. It is not mainly a modern welfare-policy episode, but it shows a public-health dependency: agriculture, food storage, ships, homes, and textile/book preservation can rely on cats controlling rodents and other small threats. The same source also warns that usefulness does not prevent mistreatment when [[CatCulturalAmbivalence]] turns protection into suspicion.
 
 [[176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]] extends the concept from companion animals into [[FoodAnimalWelfare]]. The episode argues that farm-animal welfare also has public-health dimensions because slaughter, confinement, euthanasia, rough handling, food trust, antibiotic use, and [[LivestockWorkerMoralInjury]] can affect workers, consumers, and environmental exposure.
 
@@ -24,6 +26,7 @@ The concept has two sides. [[CompanionAnimalHealth]] shows how animals support p
 - Human and animal well-being can be intertwined enough that separating them produces worse human outcomes.
 - Disaster evacuation, domestic-violence shelters, child therapy, PTSD support, homelessness services, and criminal-risk assessment can all become animal-welfare contexts.
 - The public-health case does not require every person to love animals; it requires a norm against needless cruelty and spectacle.
+- Cats add a pest-control and food-security version of animal-public-health entanglement: human systems may depend on nonhuman labor even before they recognize animal welfare as a policy category.
 - Reducing animal suffering can be treated as social harm reduction even where human use of animals has not ended.
 - Food-animal welfare can also be public health when low-welfare systems transfer psychological, environmental, and food-quality costs to humans.
 - Public animal poisoning can be public health because the same toxic exposure can threaten pets, children, adults, and shared-space trust.
@@ -41,3 +44,4 @@ The concept has two sides. [[CompanionAnimalHealth]] shows how animals support p
 - [[InhalationPoisonPublicSafety]] and [[ForensicToxicology]] - toxic public-space extension added by episode 121.
 - [[OilPollutionWildlifeHarm]], [[WildAnimalRescueResponsibility]], [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]], and [[MagellanicPenguin|Magellanic penguin / 麦哲伦企鹅]] - wild-animal rescue and pollution extension added by episode 138.
 - [[DinoSanctuary|《恐龙庇护所》 / Dino Sanctuary]], [[DinosaurAsLivingAnimal]], and [[CaptiveAnimalCareLabor]] - fictional dinosaur-zoo extension added by episode 146.
+- [[CatAsCivilizationalInfrastructure]], [[Cat|猫]], and [[CatCulturalAmbivalence]] - rodent-control, food-security, and persecution-risk extension added by episode 34.

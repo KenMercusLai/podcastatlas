@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [34.猫咪秘史：呵，愚蠢又可爱的人类](sources/34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607.md) — 蜜獾吃书 episode on cat-centered civilization history, cat domestication, Egyptian cat worship, cross-cultural cat mythology, European demonization, ship cats, war cats, and Felicette in the space age.
 - [33.人间失格：胆小鬼的壮烈献祭](sources/33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624.md) — 蜜獾吃书 episode on 太宰治《人间失格》, 大庭叶藏, comic masking, failed trust, private-novel self-exposure, coerced normality, and the source-scoped "cowardly sacrifice" reading.
 - [一份来自病床上的相关书单](sources/yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093.md) — 蜜獾吃书 sickbed reading-list episode on infectious-disease literacy, medical visual history, historical body concepts, pandemic history, public-health geopolitics, public-health invisibility, and surgical memoir.
 - [32.印第安人《讲了一百万次的故事》是马尔克斯的老师](sources/32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714.md) — 蜜獾吃书 episode introducing Indigenous American oral literature through Coyote, human-animal continuity, origin myths, colonial story layering, and the oral-story roots of magical-realism atmosphere.
@@ -710,6 +711,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Cat / 猫](entities/Cat.md) — Central animal of episode 34, connecting cat domestication, pest-control infrastructure, religious mythology, cultural ambivalence, and companion-animal afterlives.
+- [《猫咪秘史：从史前时期到太空时代》](entities/MaomiMishiBook.md) — Book discussed by episode 34 as a cat-centered narrative of human-cat history from agriculture and Egypt to ships, war, and space.
+- [Bastet / 巴斯特](entities/Bastet.md) — Egyptian cat deity used by episode 34 to connect cat protection, household religion, legal reverence, and public festival culture.
+- [Felicette / 菲利切特](entities/Felicette.md) — French space cat used by episode 34 as the space-age endpoint of the cat-history arc and an animal-experiment ethics signal.
 - [太宰治 / Osamu Dazai](entities/DazaiOsamu.md) — Japanese writer read through 《人间失格》, private-novel self-exposure, shame, failure, and the contrast with 三岛由纪夫.
 - [《人间失格》 / No Longer Human](entities/NoLongerHuman.md) — Dazai novel read by episode 33 through three photographs, comic masking, failed trust, addiction, social unfitness, and coerced normality.
 - [大庭叶藏 / Oba Yozo](entities/ObaYozo.md) — 《人间失格》 protagonist whose fear, comic mask, failed trust, and shame make him a morally difficult alienation-recognition figure.
@@ -4906,6 +4911,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Cat Domestication History](concepts/CatDomesticationHistory.md) — Episode 34 natural-history layer tying cats to African wildcat ancestry, agriculture, stored grain, rodents, disease anxiety, and cohabitation before pet intimacy.
+- [Cat As Civilizational Infrastructure](concepts/CatAsCivilizationalInfrastructure.md) — Frame for cats as protectors of granaries, homes, texts, textiles, ship provisions, military supplies, and modern science systems.
+- [Cat Religious Mythology](concepts/CatReligiousMythology.md) — Cross-cultural frame for cats as sacred protectors, soul vessels, divine companions, magical threshold animals, and later witch-linked figures.
+- [Cat Cultural Ambivalence](concepts/CatCulturalAmbivalence.md) — Pattern where cats move between usefulness, worship, persecution, bad-omen status, literary rehabilitation, companionship, and admired independence.
 - [私小说式自传阅读 / Shishosetsu Autobiographical Reading](concepts/ShishosetsuAutobiographicalReading.md) — Method for reading 《人间失格》 through Dazai-Yozo autobiographical overlap without collapsing fiction into biography.
 - [搞笑面具式生存 / Comic Mask Survival](concepts/ComicMaskSurvival.md) — Pattern where joking, clowning, and self-humiliation become a defensive social mask under fear and normality pressure.
 - [信赖作为道德风险 / Trust As Moral Risk](concepts/TrustAsMoralRisk.md) — Episode 33 concept for trust becoming fragile and frightening after Yoshiko's ambiguous harm.

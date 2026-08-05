@@ -603,6 +603,10 @@
     "title": "33.人间失格：胆小鬼的壮烈献祭",
     "url": "/wiki/sources/33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624/"
   },
+  "34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607": {
+    "title": "34.猫咪秘史：呵，愚蠢又可爱的人类",
+    "url": "/wiki/sources/34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607/"
+  },
   "361Degrees": {
     "title": "361 Degrees",
     "url": "/wiki/entities/361degrees/"
@@ -3747,6 +3751,10 @@
     "title": "Basic Economy Copycat Strategy",
     "url": "/wiki/concepts/basiceconomycopycatstrategy/"
   },
+  "Bastet": {
+    "title": "Bastet / 巴斯特",
+    "url": "/wiki/entities/bastet/"
+  },
   "BatchEquityPool": {
     "title": "Batch Equity Pool",
     "url": "/wiki/concepts/batchequitypool/"
@@ -5162,6 +5170,26 @@
   "CassianAndor": {
     "title": "Cassian Andor",
     "url": "/wiki/entities/cassianandor/"
+  },
+  "Cat": {
+    "title": "Cat / 猫",
+    "url": "/wiki/entities/cat/"
+  },
+  "CatAsCivilizationalInfrastructure": {
+    "title": "Cat As Civilizational Infrastructure",
+    "url": "/wiki/concepts/catascivilizationalinfrastructure/"
+  },
+  "CatCulturalAmbivalence": {
+    "title": "Cat Cultural Ambivalence",
+    "url": "/wiki/concepts/catculturalambivalence/"
+  },
+  "CatDomesticationHistory": {
+    "title": "Cat Domestication History",
+    "url": "/wiki/concepts/catdomesticationhistory/"
+  },
+  "CatReligiousMythology": {
+    "title": "Cat Religious Mythology",
+    "url": "/wiki/concepts/catreligiousmythology/"
   },
   "CatalinaCrunch": {
     "title": "Catalina Crunch",
@@ -9770,6 +9798,10 @@
   "FeimaPaiQiche": {
     "title": "《飞马牌汽车》",
     "url": "/wiki/entities/feimapaiqiche/"
+  },
+  "Felicette": {
+    "title": "Felicette / 菲利切特",
+    "url": "/wiki/entities/felicette/"
   },
   "FelixCollin": {
     "title": "Felix Collin",
@@ -16982,6 +17014,10 @@
   "MaoHonghui": {
     "title": "Mao Honghui / 毛红汇",
     "url": "/wiki/entities/maohonghui/"
+  },
+  "MaomiMishiBook": {
+    "title": "《猫咪秘史：从史前时期到太空时代》",
+    "url": "/wiki/entities/maomimishibook/"
   },
   "MarALago": {
     "title": "Mar-a-Lago",

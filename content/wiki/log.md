@@ -5621,6 +5621,10 @@ Added source page for a 蜜獾吃书 and 日谈 crossover on reading 《红楼�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-06] ingest | 34.猫咪秘史：呵，愚蠢又可爱的人类
+
+Added source page for a 蜜獾吃书 episode on 《猫咪秘史：从史前时期到太空时代》, cat domestication, cats as pest-control and ship/war infrastructure, Bastet and Egyptian cat worship, Asian soul-cat legends, medieval European cat demonization, literary rehabilitation, and Felicette in the space age. Created pages for Cat / 猫, 《猫咪秘史：从史前时期到太空时代》, Bastet / 巴斯特, Felicette / 菲利切特, Cat Domestication History, Cat As Civilizational Infrastructure, Cat Religious Mythology, and Cat Cultural Ambivalence; updated overview, index, 蜜獾吃书, Human-Animal Continuity In Myth, Animal Moral Projection, Witch-Hunt Mechanism, Companion Animal Health, Animal Welfare As Public Health, Story Motif Transmission, and Myth As Historical Evidence. No direct contradiction found; the source extends the wiki's animal-history and mythology branches while keeping legend-heavy anecdotes source-scoped.
+
 ## [2026-08-06] ingest | 一份来自病床上的相关书单
 
 Added source page for a 蜜獾吃书 sickbed reading-list episode on infectious-disease literacy, medical visual history, historical body concepts, pandemic history, public-health geopolitics, public-health invisibility, and surgical memoir. Created pages for 张文宏, 《张文宏说传染》, 《病玫瑰》, 《中世纪的身体》, 《苍白的骑士》, 《东北博弈》, 《瘟疫之夜》, 《瘟疫传说》, 《失信：公共卫生体系的崩溃》, Laurie Garrett, 《打开一颗心》, Infectious Disease Public Literacy, Medical Visual History, Historical Body Concept, Pandemic As Historical Force, Public Health Geopolitics, Public Health Invisibility, and Medical Knowledge Boundary; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, Wu Liande, Orhan Pamuk, Reading List Pointer Episode, Medical Risk Management, and Disaster Response State Capacity. No direct contradiction found; transcript title ambiguities around 《瘟疫之夜》 and 《失信》 are recorded as source-scoped OCR variants rather than separate pages.
@@ -5664,6 +5668,10 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-08-06] ingest | 33.人间失格：胆小鬼的壮烈献祭
 
 Added source page for a 蜜獾吃书 episode on 太宰治《人间失格》, centered on 大庭叶藏's comic mask, failed trust, self-disqualification, addiction, mental hospital ending, and source-scoped "cowardly sacrifice" reading. Created pages for 太宰治, 《人间失格》, 大庭叶藏, 竹一, 堀木, 常子, 静子, 豪子, 三岛由纪夫, Shishosetsu Autobiographical Reading, Comic Mask Survival, Trust As Moral Risk, Coerced Normality, and Cowardly Sacrifice As Witness; updated overview, index, 蜜獾吃书, Modern Japanese Interior Discovery, Classic Reading Complexity, Moral Suspension In Art Reading, Adolescent Alienation Recognition, Shame-Based Self-Concept, Non-Instrumental Literary Reading, Reading As Life Experience, and Author Myth Deflation. No direct contradiction found; the source extends the wiki's modern Japanese literature branch by adding a Dazai self-exposure case darker than the Okamoto branch and less salvation-oriented than the Akutagawa branch.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

@@ -2,7 +2,7 @@
 title: "Story Motif Transmission"
 type: concept
 tags: [folklore, mythology, narrative, transmission]
-sources: [32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714, 31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848, 29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, 06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+sources: [34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607, 32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714, 31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848, 29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, 06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
 last_updated: 2026-08-06
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-06
 [[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]] adds [[Monomyth|单一神话]] as a high-level motif-transmission problem. The source treats repeated hero calls, threshold crossings, swallowed interiors, goddess meetings, father tests, magic flights, and return-with-boon plots as real comparative material, but it preserves the same caution as this page: resemblance can come from borrowing, shared memory, recurring human situations, or later recombination.
 
 [[32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714]] adds an Indigenous American oral-literature case. Fire theft, animal markings, flood survival, moon stains, star origins, salmon movement, monster bellies, corn-made humans, canoe invention, and fox/crow fable echoes all become portable motifs, but the source keeps them inside [[NativeAmericanOralLiterature]] rather than treating every resemblance as direct transmission.
+
+[[34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607]] adds a cat-centered motif field. Temple guardians, soul-container cats, lucky beckoning cats, ship-saving cats, witch-linked black cats, clever fortune-making cats, and space-age cat stories all travel as recognizable roles, but the episode needs the same caution as other motif sources: similar cat functions do not prove one route or one origin.
 
 Story motif transmission is the source's frame for how story patterns travel, recur, or get reinvented across cultures. In [[171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962]], [[MihuanChishu|蜜獾吃书]] uses horse material to show this: centaurs may reflect outsiders encountering skilled riders, Native American post-contact legends can retroactively place horses at creation, and Saiweng loses his horse can be compared with older fortune-reversal motifs.
 
@@ -62,12 +64,14 @@ The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation
 - Gilgamesh and Norse examples show that motifs travel both through old comparative mythology and through modern media franchises; neither route should be collapsed into direct source proof.
 - Zhiguai entries can become later motifs without carrying their whole original archive context into the new moral, dramatic, or religious setting.
 - Indigenous American oral stories show how motifs can explain technology, food rules, animal bodies, heavenly objects, and colonial intrusion at once.
+- Cat stories show how one animal role can move among guardian, soul vessel, witch familiar, lucky helper, ship worker, literary strategist, and scientific subject without proving a single lineage.
 
 ## Connections
 - [[Monomyth]], [[HeroJourneyNarrative]], [[BellyOfTheWhaleRebirth]], [[MythAsPublicDream]], and [[HeroReturnWithBoon]] - episode 29's hero-pattern extension.
 - [[YeXian|《叶限》]], [[YouyangZazu|《酉阳杂俎》]], and [[TangMiscellanyArchiveValue]] - episode 90's Cinderella-like tale extension.
 - [[TangChuanqi]], [[XuanGuaiLu|《玄怪录》]], and [[TangStrangeTaleRepaymentEthics]] - episode 76's strange-tale extension.
 - [[HorseCulturalSymbolism]] and [[HorseReligiousMythology]] - horse-specific motif fields.
+- [[CatReligiousMythology]], [[CatCulturalAmbivalence]], and [[CatAsCivilizationalInfrastructure]] - cat-specific motif field added by episode 34.
 - [[SwanMaidenMotif]] and [[CowherdAndWeaverGirl|牛郎织女]] - Qixi extension added by episode 152.
 - [[CelticAnimalTransformation]], [[TuanMacCairill|图安]], [[FionnMacCumhaill|芬恩]], and [[Ossian|Oisin / Ossian / 鹅相]] - Celtic transformation extension added by episode 142.
 - [[ASongOfIceAndFire|《冰与火之歌》 / A Song of Ice and Fire]], [[HistoricalFantasySourceLayering]], and [[FictionalHistoriography]] - modern fantasy and in-world memory extension added by episode 31.
