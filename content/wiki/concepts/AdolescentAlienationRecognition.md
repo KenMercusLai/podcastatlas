@@ -2,8 +2,8 @@
 title: "Adolescent Alienation Recognition"
 type: concept
 tags: [literature, youth, psychology, reading]
-sources: [07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422]
-last_updated: 2026-07-25
+sources: [33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624, 07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422]
+last_updated: 2026-08-06
 ---
 
 # Adolescent Alienation Recognition
@@ -14,6 +14,8 @@ The recognition lies in being understood before being corrected. The source argu
 
 The concept is not permission for violence or permanent withdrawal. Holden's "catcher" fantasy contains both care and danger: he wants to protect children from falling, but he is himself near the edge. The source distinguishes this from [[AntiheroMisreading]] by emphasizing Holden's tenderness, fear, and nonviolent inwardness.
 
+[[33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624]] adds a darker adjacent case through [[ObaYozo|大庭叶藏]] in [[NoLongerHuman|《人间失格》]]. Yozo's alienation begins in childhood and school, where the [[ComicMaskSurvival|comic mask]] lets him pass as acceptable, but unlike the Holden branch it develops into addiction, failed trust, and a more total [[ShameBasedSelfConcept|self-disqualification]]. The recognition value is therefore sharper: the episode asks readers to understand the fear without turning collapse into an identity to admire.
+
 [[07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165]] sharpens that boundary through [[TheLittlePrince|《小王子》]] and [[PuerAeternus|永恒少年]]. The source quotes the maturity contrast from the Holden branch to warn that alienation becomes dangerous when the beautiful wish to die for something replaces the humbler work of living, committing, and taking responsibility.
 
 ## Key Claims
@@ -23,6 +25,7 @@ The concept is not permission for violence or permanent withdrawal. Holden's "ca
 - The protective fantasy around children can reveal both tenderness and crisis.
 - Recognition should not be confused with endorsing every action, rejecting adulthood forever, or glamorizing violence.
 - The same sensitivity that needs recognition can become self-destructive if it is protected from every demand to grow.
+- Recognition has to stay separate from glamorization when the alienated figure moves from inward pain into dependence, addiction, or harm around intimate others.
 
 ## Connections
 - [[TheLittlePrince|《小王子》 / The Little Prince]], [[PuerAeternus]], [[RomanticDeathEscape]], and [[ResponsibilityAgainstRomanticEscape]] - episode 07's maturity-versus-death extension.
@@ -31,3 +34,4 @@ The concept is not permission for violence or permanent withdrawal. Holden's "ca
 - [[ReadingAsLifeExperience]] - reader age and life state shape when the book becomes meaningful.
 - [[NonInstrumentalLiteraryReading]] - literature can work by recognition rather than instruction.
 - [[AntiheroMisreading]] - boundary concept for not turning alienation into heroic violence.
+- [[NoLongerHuman|《人间失格》]], [[ObaYozo|大庭叶藏]], [[ComicMaskSurvival]], and [[CowardlySacrificeWitness]] - episode 33's darker alienation-recognition branch.

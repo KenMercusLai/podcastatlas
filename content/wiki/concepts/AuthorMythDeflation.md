@@ -2,8 +2,8 @@
 title: "Author Myth Deflation"
 type: concept
 tags: [literature, biography, canon, interpretation]
-sources: [10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818, shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314]
-last_updated: 2026-07-25
+sources: [33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624, 10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818, shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314]
+last_updated: 2026-08-06
 ---
 
 # Author Myth Deflation
@@ -34,6 +34,8 @@ The episode's value is partly emotional. By showing canonical writers as embodie
 
 [[shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314]] adds [[IshikawaTakuboku|石川啄木]] as a "young genius" deflation case. The source keeps his poetic gift visible while also showing low credentials, debt, drinking, evasive marriage behavior, dependence on friends such as [[KindaichiKyosuke|金田一京助]], and late political anxiety. The result is neither saint-making nor dismissal, but a more usable account of how [[ShortFormEmotionalSnapshot]] emerges from a damaged life.
 
+[[33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624]] adds [[DazaiOsamu|太宰治]] and [[YukioMishima|三岛由纪夫]] as a contrastive deflation case. The source resists turning Dazai into only decadent weakness or Mishima into only masculine strength; it treats self-exposure and performed strength as two different author myths that both need pressure-tested reading.
+
 ## Key Claims
 - Great literary talent does not imply good politics, stable judgment, domestic kindness, or personal elegance.
 - Deflating an author myth should widen interpretation, not replace one simple image with another.
@@ -50,6 +52,7 @@ The episode's value is partly emotional. By showing canonical writers as embodie
 - A philosophical author myth may need deflation when followers turn the writer into a doctrine symbol and ignore contradictions between ideas, conduct, and later political use.
 - An early-death poet myth may need deflation when youth and sensitivity hide money, credentials, family burden, friendship damage, and political pressure.
 - A scandal-heavy author myth may need a second deflation when scandal itself starts hiding craft, humor, aesthetic method, and story structure.
+- A weakness/strength contrast between writers can itself become myth; deflation asks what each public posture hides and what the work actually makes visible.
 
 ## Connections
 - [[10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195]], [[OscarWilde]], [[WildeStrangeStories|《王尔德奇异故事集》]], and [[ArtAgainstMoralInstruction]] - episode 10's Wilde craft extension.
@@ -67,3 +70,4 @@ The episode's value is partly emotional. By showing canonical writers as embodie
 - [[LiShangyin|李商隐]], [[LateTangPoliticalPoetics]], and [[LovePoetryModernity]] - episode 183's reputation-defense variant.
 - [[SuShi|苏轼 / 苏东坡]], [[EarnedOptimism]], [[ConscienceOverFaction]], and [[ScholarOfficialPublicDuty]] - episode 105's positive-myth deflation case.
 - [[IshikawaTakuboku|石川啄木]], [[KindaichiKyosuke|金田一京助]], [[MeijiIntellectualPrecarity]], and [[ShortFormEmotionalSnapshot]] - Takuboku deflation case.
+- [[DazaiOsamu|太宰治]], [[NoLongerHuman|《人间失格》]], [[YukioMishima|三岛由纪夫]], and [[CowardlySacrificeWitness]] - episode 33's self-exposure versus performance branch.

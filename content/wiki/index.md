@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [33.人间失格：胆小鬼的壮烈献祭](sources/33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624.md) — 蜜獾吃书 episode on 太宰治《人间失格》, 大庭叶藏, comic masking, failed trust, private-novel self-exposure, coerced normality, and the source-scoped "cowardly sacrifice" reading.
 - [一份来自病床上的相关书单](sources/yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093.md) — 蜜獾吃书 sickbed reading-list episode on infectious-disease literacy, medical visual history, historical body concepts, pandemic history, public-health geopolitics, public-health invisibility, and surgical memoir.
 - [32.印第安人《讲了一百万次的故事》是马尔克斯的老师](sources/32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714.md) — 蜜獾吃书 episode introducing Indigenous American oral literature through Coyote, human-animal continuity, origin myths, colonial story layering, and the oral-story roots of magical-realism atmosphere.
 - [31.冰与火之歌：虽然从不自称历史](sources/31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848.md) — 蜜獾吃书 episode reading 《冰与火之歌》 through historical fantasy source layering: Wars of the Roses, conquest history, medieval religion, Celtic/Norse myth, unreliable records, and the guardrail against one-to-one prototype hunting.
@@ -709,6 +710,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [太宰治 / Osamu Dazai](entities/DazaiOsamu.md) — Japanese writer read through 《人间失格》, private-novel self-exposure, shame, failure, and the contrast with 三岛由纪夫.
+- [《人间失格》 / No Longer Human](entities/NoLongerHuman.md) — Dazai novel read by episode 33 through three photographs, comic masking, failed trust, addiction, social unfitness, and coerced normality.
+- [大庭叶藏 / Oba Yozo](entities/ObaYozo.md) — 《人间失格》 protagonist whose fear, comic mask, failed trust, and shame make him a morally difficult alienation-recognition figure.
+- [竹一 / Takeichi](entities/TakeichiNoLongerHuman.md) — Classmate who sees through Yozo's comic mask and briefly opens a path toward direct "monster picture" self-expression.
+- [堀木 / Horiki](entities/HorikiNoLongerHuman.md) — Older Tokyo acquaintance who offers Yozo social handling, drink, sex work, illegality, and deeper dependence.
+- [常子 / Tsuneko](entities/TsunekoNoLongerHuman.md) — Lonely bar hostess whose failed double suicide with Yozo turns survival into guilt.
+- [静子 / Shizuko](entities/ShizukoNoLongerHuman.md) — Woman journalist whose household briefly shelters Yozo before family-role pressure drives him away.
+- [豪子 / Yoshiko](entities/YoshikoNoLongerHuman.md) — Trusting wife figure whose ambiguous harm becomes the episode's central trust-collapse case.
+- [三岛由纪夫 / Yukio Mishima](entities/YukioMishima.md) — Contrast figure for Dazai, used source-scoped to test masculine performance against confessed weakness.
 - [张文宏 / Zhang Wenhong](entities/ZhangWenhong.md) — Public medical authority attached to 《张文宏说传染》 in the sickbed infectious-disease reading-list episode.
 - [《张文宏说传染》](entities/ZhangWenhongShuoChuanran.md) — Low-threshold infectious-disease popularization book used to anchor public disease literacy.
 - [《病玫瑰》](entities/BingMeigui.md) — Medical visual-history book whose disease illustrations make bodily knowledge visually striking and unsettling.
@@ -4896,6 +4906,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [私小说式自传阅读 / Shishosetsu Autobiographical Reading](concepts/ShishosetsuAutobiographicalReading.md) — Method for reading 《人间失格》 through Dazai-Yozo autobiographical overlap without collapsing fiction into biography.
+- [搞笑面具式生存 / Comic Mask Survival](concepts/ComicMaskSurvival.md) — Pattern where joking, clowning, and self-humiliation become a defensive social mask under fear and normality pressure.
+- [信赖作为道德风险 / Trust As Moral Risk](concepts/TrustAsMoralRisk.md) — Episode 33 concept for trust becoming fragile and frightening after Yoshiko's ambiguous harm.
+- [正常性强制 / Coerced Normality](concepts/CoercedNormality.md) — Social pressure to appear useful, positive, orderly, and humanly legible even when inner life cannot honestly comply.
+- [胆小鬼的献祭 / Cowardly Sacrifice As Witness](concepts/CowardlySacrificeWitness.md) — Source-scoped reading of Dazai/Yozo as making shame, cowardice, and social unfitness speakable without making them exemplary.
 - [Infectious Disease Public Literacy](concepts/InfectiousDiseasePublicLiteracy.md) — Ordinary-reader knowledge frame for pathogens, transmission, prevention, symptoms, and bounded self-care.
 - [Medical Visual History](concepts/MedicalVisualHistory.md) — History of medical knowledge made through disease images, anatomical drawings, wax models, specimens, and visual comparison.
 - [Historical Body Concept](concepts/HistoricalBodyConcept.md) — Frame for reading bodies through historically specific medical theories, hygiene norms, religious imagery, and personhood ideas.

@@ -5660,3 +5660,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 7,970 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-24 with 6,453 nodes while lint scanned 7,970 pages, so graph findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest` and no provider/key env vars are available in this shell. Manual follow-up on orphan pages, fragile-bridge endpoints, and explicit contradiction markers found no hard unresolved contradiction in that bounded sample. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-06] ingest | 33.人间失格：胆小鬼的壮烈献祭
+
+Added source page for a 蜜獾吃书 episode on 太宰治《人间失格》, centered on 大庭叶藏's comic mask, failed trust, self-disqualification, addiction, mental hospital ending, and source-scoped "cowardly sacrifice" reading. Created pages for 太宰治, 《人间失格》, 大庭叶藏, 竹一, 堀木, 常子, 静子, 豪子, 三岛由纪夫, Shishosetsu Autobiographical Reading, Comic Mask Survival, Trust As Moral Risk, Coerced Normality, and Cowardly Sacrifice As Witness; updated overview, index, 蜜獾吃书, Modern Japanese Interior Discovery, Classic Reading Complexity, Moral Suspension In Art Reading, Adolescent Alienation Recognition, Shame-Based Self-Concept, Non-Instrumental Literary Reading, Reading As Life Experience, and Author Myth Deflation. No direct contradiction found; the source extends the wiki's modern Japanese literature branch by adding a Dazai self-exposure case darker than the Okamoto branch and less salvation-oriented than the Akutagawa branch.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
