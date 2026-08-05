@@ -2,8 +2,8 @@
 title: "Search Advertising Decline"
 type: concept
 tags: [search, advertising, china-internet, ai]
-sources: [tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Search Advertising Decline
@@ -15,6 +15,8 @@ The source gives two mechanisms. First, user intent and advertiser attention hav
 [[zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]] adds a casual usage signal for the first mechanism: the hosts treat social and short-video search as normal enough that [[Baidu]] can be mocked as a declining default entry point.
 
 [[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]] adds the replacement-market question through [[AISearchAdvertising]]. If AI answers reduce result-page clicks, platforms still need another monetization loop; Johnson's discussion shows that sponsored chatbot answers are possible, but require advertiser scale, conversion data, and careful design before they can replace classic search ads.
+
+[[tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128]] adds a user-habit version through [[AmyWebb]]'s [[PostSearchInternet]] forecast. If people ask AI assistants for direct answers instead of browsing, search-ad decline can begin before a particular platform has even settled its AI ad format.
 
 [[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]] adds a publisher-economics signal from [[GoogleAIOverviews|Google AI Overviews]]. [[AnitaRamaswamy]] says [[Google]] is making source links more visible, but the episode also cites steep publisher click-through losses and user research showing that people often do not click source links after seeing an AI summary. That makes the decline less speculative: the answer layer can weaken both ad inventory and publisher traffic even when attribution exists.
 
@@ -32,6 +34,7 @@ The source gives two mechanisms. First, user intent and advertiser attention hav
 
 ## Connections
 - [[Baidu]] — central search-ad decline case.
+- [[PostSearchInternet]] and [[AIAnswerSourceAttribution]] - answer-first user behavior and trust layer added by Marketplace Tech.
 - [[OpenWebTrafficDecline]] — upstream shift in where searchable content and user intent live.
 - [[AICommercializationPressure]] — business pressure once AI investment must replace weakened ad profit.
 - [[CashCowStrategicInertia]] — reason the old ad machine can delay adaptation.

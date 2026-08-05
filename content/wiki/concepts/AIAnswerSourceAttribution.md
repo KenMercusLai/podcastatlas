@@ -2,13 +2,15 @@
 title: "AI Answer Source Attribution"
 type: concept
 tags: [ai, search, media, regulation]
-sources: [tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # AI Answer Source Attribution
 
 AI answer source attribution is the problem of making sources visible, useful, and economically meaningful when a search engine or chatbot gives users an AI-generated answer. In [[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]], [[Google]]'s change to [[GoogleAIOverviews|Google AI Overviews]] makes links more prominent, but [[AnitaRamaswamy]] says it remains unclear whether that will restore traffic to publishers.
+
+[[tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128]] adds the earlier [[PostSearchInternet]] version of the problem. [[AmyWebb]] says answer tools may include links, but consumer services can still show broken links or leave out the context and trust signals users would have inspected while browsing.
 
 The concept extends [[OpenWebTrafficDecline]] and [[SearchAdvertisingDecline]] because AI answers can preserve citation-like gestures while weakening the click path that funded open-web publishing. It also connects to [[PlatformAntitrust]] when a dominant search platform uses publisher content, summarizes it, and keeps the user on its own surface.
 
@@ -24,6 +26,7 @@ The concept extends [[OpenWebTrafficDecline]] and [[SearchAdvertisingDecline]] b
 
 ## Connections
 - [[GoogleAIOverviews|Google AI Overviews]] and [[Google]] - source product and company.
+- [[PostSearchInternet]], [[AmyWebb]], and [[ChatGPT]] - answer-first browsing shift added by Marketplace Tech.
 - [[DailyMail]] - publisher traffic-loss example.
 - [[PewResearchCenter]] - click-behavior evidence cited in the episode.
 - [[EuropeanCommission]], [[PlatformAntitrust]], and [[PlatformDataRegulation]] - regulatory context.

@@ -2,8 +2,8 @@
 title: "Open Web Traffic Decline"
 type: concept
 tags: [internet, search, platforms, china]
-sources: [tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]
-last_updated: 2026-07-25
+sources: [tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]
+last_updated: 2026-08-05
 ---
 
 # Open Web Traffic Decline
@@ -13,6 +13,8 @@ Open web traffic decline is the shift of content, user intent, and commercial di
 The concept matters because search engines do not only need algorithms; they need a searchable corpus and users who believe search is where answers begin. When content and habit migrate into apps, a legacy search company can keep technical competence while losing the environment that made the competence valuable.
 
 [[zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]] reinforces the habit side of the concept. The hosts describe everyday queries moving into short-video search and [[Xiaohongshu]], such as school-major or local restaurant questions that no longer necessarily begin on [[Baidu]].
+
+[[tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128]] adds the direct-answer version through [[PostSearchInternet]]. [[AmyWebb]]'s example is not a closed app replacing the open web, but an AI assistant replacing the browser session itself, which can weaken page visits even when source material remains technically online.
 
 [[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]] adds the AI-search version through [[GoogleAIOverviews|Google AI Overviews]]. Here the content can still be open-web publisher material, but the user may receive enough of the answer inside [[Google]]'s generated summary that source links do not restore the old click path. The source turns [[AIAnswerSourceAttribution]] into an economic question for publishers such as [[DailyMail]], not only a citation-design question.
 
@@ -32,6 +34,7 @@ The concept matters because search engines do not only need algorithms; they nee
 
 ## Connections
 - [[Baidu]] — company case shaped by the open-web-to-mobile-app shift.
+- [[PostSearchInternet]], [[ChatGPT]], and [[AIConvergence]] - direct-answer assistant branch added by Marketplace Tech.
 - [[SearchAdvertisingDecline]] — downstream business-model effect.
 - [[GoogleAIOverviews|Google AI Overviews]], [[AIAnswerSourceAttribution]], and [[DailyMail]] — AI-search attribution and publisher-traffic branch added by Marketplace Tech.
 - [[Meta]], [[NewsCorp]], and [[AIContentLicensing]] - licensing response to publisher traffic decline added by Marketplace Tech.

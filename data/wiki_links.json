@@ -1003,6 +1003,10 @@
     "title": "AI Content Provenance",
     "url": "/wiki/concepts/aicontentprovenance/"
   },
+  "AIConvergence": {
+    "title": "AI Convergence",
+    "url": "/wiki/concepts/aiconvergence/"
+  },
   "AICoworkers": {
     "title": "AI Coworkers",
     "url": "/wiki/concepts/aicoworkers/"
@@ -2494,6 +2498,10 @@
   "AmyScott": {
     "title": "Amy Scott",
     "url": "/wiki/entities/amyscott/"
+  },
+  "AmyWebb": {
+    "title": "Amy Webb",
+    "url": "/wiki/entities/amywebb/"
   },
   "AnQi": {
     "title": "安琪",
@@ -4102,6 +4110,10 @@
   "BlueFairy": {
     "title": "Blue Fairy / 蓝仙女",
     "url": "/wiki/entities/bluefairy/"
+  },
+  "BlueJ": {
+    "title": "BlueJ",
+    "url": "/wiki/entities/bluej/"
   },
   "BlueOwlCapital": {
     "title": "Blue Owl Capital",
@@ -8307,6 +8319,10 @@
     "title": "EVE",
     "url": "/wiki/entities/eve/"
   },
+  "EVO2": {
+    "title": "EVO2",
+    "url": "/wiki/entities/evo2/"
+  },
   "EVTaxCreditCliff": {
     "title": "EV Tax Credit Cliff",
     "url": "/wiki/concepts/evtaxcreditcliff/"
@@ -10802,6 +10818,10 @@
   "GenerationalTechnologyBridge": {
     "title": "Generational Technology Bridge",
     "url": "/wiki/concepts/generationaltechnologybridge/"
+  },
+  "GenerativeBiology": {
+    "title": "Generative Biology",
+    "url": "/wiki/concepts/generativebiology/"
   },
   "GenerativeEngineOptimization": {
     "title": "Generative Engine Optimization",
@@ -19575,6 +19595,10 @@
     "title": "彭文君",
     "url": "/wiki/entities/pengwenjun/"
   },
+  "PennState": {
+    "title": "Penn State",
+    "url": "/wiki/entities/pennstate/"
+  },
   "PennyStockBoilerRoomFraud": {
     "title": "Penny Stock Boiler Room Fraud",
     "url": "/wiki/concepts/pennystockboilerroomfraud/"
@@ -20339,6 +20363,10 @@
     "title": "Post-Revenge Emptiness / 复仇之后的虚无",
     "url": "/wiki/concepts/postrevengeemptiness/"
   },
+  "PostSearchInternet": {
+    "title": "Post-Search Internet",
+    "url": "/wiki/concepts/postsearchinternet/"
+  },
   "PostVictoryOppressionRisk": {
     "title": "Post-Victory Oppression Risk / 胜利后的压迫风险",
     "url": "/wiki/concepts/postvictoryoppressionrisk/"
@@ -20678,6 +20706,10 @@
   "ProfitAndCashFlowQuality": {
     "title": "Profit And Cash Flow Quality",
     "url": "/wiki/concepts/profitandcashflowquality/"
+  },
+  "ProgrammableMatter": {
+    "title": "Programmable Matter",
+    "url": "/wiki/concepts/programmablematter/"
   },
   "ProgressDataVisualization": {
     "title": "Progress Data Visualization",
@@ -26587,6 +26619,10 @@
     "title": "University Of Ottawa",
     "url": "/wiki/entities/universityofottawa/"
   },
+  "UniversityOfPittsburgh": {
+    "title": "University of Pittsburgh",
+    "url": "/wiki/entities/universityofpittsburgh/"
+  },
   "UniversityOfSanFrancisco": {
     "title": "University of San Francisco",
     "url": "/wiki/entities/universityofsanfrancisco/"
@@ -29982,6 +30018,10 @@
   "tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128": {
     "title": "How U.S. political campaigns have used generative AI",
     "url": "/wiki/sources/tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128/"
+  },
+  "tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128": {
+    "title": "How convergence will define the tech sector in 2026",
+    "url": "/wiki/sources/tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128/"
   },
   "tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128": {
     "title": "Farming in the digital age",

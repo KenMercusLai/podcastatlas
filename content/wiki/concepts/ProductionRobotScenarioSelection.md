@@ -2,8 +2,8 @@
 title: "Production Robot Scenario Selection"
 type: concept
 tags: [robotics, commercialization, product-strategy]
-sources: [chef-vs-robot, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]
-last_updated: 2026-07-08
+sources: [tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, chef-vs-robot, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]
+last_updated: 2026-08-05
 ---
 
 # Production Robot Scenario Selection
@@ -14,6 +14,8 @@ Production robot scenario selection is [[GaoJiyang]]'s method for deciding where
 
 [[jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1]] adds [[RobotLogisticsSorting]] as a concrete humanoid-robot wedge. Logistics sorting is bounded enough to show customer value, but still exposes tail cases such as soft packages, odd shapes, fallen objects, and labels that need flipping or flattening.
 
+[[tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128]] adds [[BlueJ]] as a non-humanoid logistics example. [[AmyWebb]]'s description of overhead robotic arms moving packages faster and more cheaply reinforces the scenario-selection point: near-term robotics value is likelier in bounded operational infrastructure than in general household service.
+
 ## Key Claims
 - Gao defines the supply side through speed, precision, and generalization, with current attention on near-human speed, centimeter-level manipulation, and few-shot or zero-shot adaptation.
 - Good early scenes should not demand very high speed, should tolerate limited failure cost, and should have global scaling potential.
@@ -22,6 +24,7 @@ Production robot scenario selection is [[GaoJiyang]]'s method for deciding where
 - Scenario choice is connected to data: the right scene should create useful, repeated, grounded data for model improvement.
 - The LateTalk source reinforces logistics as a realistic early proving ground because it combines repeatable labor, messy manipulation, and clearer buyer understanding than entertainment-style robot demos.
 - Restaurant wok automation is another bounded scene, but customer taste judgment and service downtime make the failure-cost calculation different from warehouse sorting.
+- BlueJ adds a package-handling example where the task is concrete enough to link robotics progress directly to throughput, cost, and labor concerns.
 
 ## Connections
 - [[Xinghaitu]] and [[GaoJiyang]] — company and source speaker.
@@ -30,3 +33,4 @@ Production robot scenario selection is [[GaoJiyang]]'s method for deciding where
 - [[ProductLedWillingnessToPay]] and [[CustomerPull]] — demand signals the production scene must eventually prove.
 - [[RobotLogisticsSorting]], [[FigureAI]], [[XingdongEra]], and [[DexterousManipulation]] — Q2 2026 logistics-sorting examples and manipulation constraints.
 - [[RobbyWokbot]], [[RestaurantAutomation]], [[WokHei]], and [[RobotChefCostQualityTradeoff]] - restaurant production scenario added by Planet Money.
+- [[Amazon]], [[BlueJ]], [[PhysicalAI]], and [[AutomationDisplacementEffect]] - overhead package-handling scenario added by Marketplace Tech.
