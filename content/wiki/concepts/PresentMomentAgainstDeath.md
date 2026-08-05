@@ -2,11 +2,13 @@
 title: "Present Moment Against Death"
 type: concept
 tags: [death, time, animals, philosophy]
-sources: [119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010]
-last_updated: 2026-07-24
+sources: [165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010]
+last_updated: 2026-08-06
 ---
 
 # Present Moment Against Death
+
+[[165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646]] adds a comic old-age version through [[YinfaChuanliu|《银发川柳》]]. The source's jokes about memorial portraits, funeral cars, birthday candles, class reunions, and wanting to outlive an LED lamp make death visible while preserving attachment to ordinary future time.
 
 Present moment against death is the mortality frame [[39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]] draws from [[Brenin|布列宁]]'s final [[Languedoc|朗格多克]] summer. The episode asks what death takes from the one who dies. Its answer, following the source's reading of [[MarkRowlands|Mark Rowlands / 马克·罗兰兹]], is that death takes not only possible experiences but also projects, desires, goals, and life plans.
 
@@ -23,6 +25,7 @@ The animal contrast matters because humans are time-projecting beings. People of
 - Companion animals can teach a different relation to time without needing to become moral saints or symbolic abstractions.
 - Late illness can make present action more urgent without requiring a religious or sentimental explanation of suffering.
 - The assisted-death branch adds that valuing future possibility does not automatically answer cases where the person experiences future time as unavoidable deterioration.
+- Death-facing humor can show life attachment precisely because the speaker jokes without pretending to be indifferent to dying.
 
 ## Connections
 - [[Languedoc|朗格多克]] - final-summer setting.
@@ -32,3 +35,4 @@ The animal contrast matters because humans are time-projecting beings. People of
 - [[PainAndMoralResponsibility]] - neighboring concept around suffering, euthanasia, and moral meaning.
 - [[Ajiao|阿娇 / 柱子哥]], [[HospiceCare]], and [[MeaningThroughExperience]] - late-illness and self-narration extension.
 - [[EndOfLifeAutonomyAndDignity]], [[DeathOptionAsPsychologicalRelief]], and [[EuthanasiaUncertaintyStance]] - episode 119's assisted-death extension.
+- [[YinfaChuanliu|《银发川柳》]] and [[SenryuAgingHumor]] - comic old-age extension added by episode 165.

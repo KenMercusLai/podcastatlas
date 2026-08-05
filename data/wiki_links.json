@@ -423,6 +423,10 @@
     "title": "164.古文的力量：请收下这份千年未变的深情、洞见和勇气",
     "url": "/wiki/sources/164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576/"
   },
+  "165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646": {
+    "title": "165.银发川柳：用幽默面对老年，咱们来写打油诗",
+    "url": "/wiki/sources/165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646/"
+  },
   "166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1": {
     "title": "166: 许华哲再次具身创业：不想错过最大的西瓜",
     "url": "/wiki/sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1/"
@@ -8982,6 +8986,10 @@
   "ElderCareStateCapacity": {
     "title": "Elder Care State Capacity",
     "url": "/wiki/concepts/eldercarestatecapacity/"
+  },
+  "ElderTechnologyExclusion": {
+    "title": "Elder Technology Exclusion / 老年技术排除",
+    "url": "/wiki/concepts/eldertechnologyexclusion/"
   },
   "ElderlyCareFinancialFraud": {
     "title": "Elderly Care Financial Fraud",
@@ -22779,6 +22787,10 @@
     "title": "Resource-Based Economic Transition",
     "url": "/wiki/concepts/resourcebasedeconomictransition/"
   },
+  "RespectForEldersTradition": {
+    "title": "Respect For Elders Tradition / 敬老传统",
+    "url": "/wiki/concepts/respectforelderstradition/"
+  },
   "RespectabilityTax": {
     "title": "体面税 / Respectability Tax",
     "url": "/wiki/concepts/respectabilitytax/"
@@ -24094,6 +24106,10 @@
   "SemioticDetectiveFiction": {
     "title": "Semiotic Detective Fiction",
     "url": "/wiki/concepts/semioticdetectivefiction/"
+  },
+  "SenryuAgingHumor": {
+    "title": "Senryu Aging Humor / 银发川柳式老年幽默",
+    "url": "/wiki/concepts/senryuaginghumor/"
   },
   "SensationalMediaPublicSphere": {
     "title": "Sensational Media Public Sphere",
@@ -29686,6 +29702,10 @@
   "YinchuanInternetHospitalPilot": {
     "title": "银川互联网医院试点",
     "url": "/wiki/concepts/yinchuaninternethospitalpilot/"
+  },
+  "YinfaChuanliu": {
+    "title": "《银发川柳》 / Silver Senryu",
+    "url": "/wiki/entities/yinfachuanliu/"
   },
   "YingdiHaike": {
     "title": "硬地骇客",

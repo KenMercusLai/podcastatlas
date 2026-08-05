@@ -2,11 +2,13 @@
 title: "Bodily Taboo Humor / 身体禁忌幽默"
 type: concept
 tags: [humor, taboo, body, culture]
-sources: [162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270]
+sources: [165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270]
 last_updated: 2026-08-06
 ---
 
 # Bodily Taboo Humor / 身体禁忌幽默
+
+[[165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646]] adds an old-age extension through [[YinfaChuanliu|《银发川柳》]]. The jokes are not only about flatulence-style taboo; they also make urine leakage, hearing loss, medical dependence, dentures, and bodily loss of control socially speakable.
 
 Bodily taboo humor is the comic force produced when universal body functions are treated as socially improper. [[162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270]] builds the concept around farting: everyone does it, public etiquette discourages it, and the gap between universality and prohibition makes the joke durable.
 
@@ -18,6 +20,7 @@ The episode links this to childhood toilet training, adult embarrassment, insult
 - The same joke can be liberating in conversation and invasive in public space; social boundary is part of the concept.
 - Children's attraction to scatological humor can be read as a discovery that adult rules, attention, shame, and laughter are connected.
 - The concept extends [[OffensiveHumorSpeechSpace]] from author-gossip vulgarity into everyday bodily speech.
+- The old-age branch adds that humor can return agency to people whose bodies are otherwise discussed by doctors, caregivers, or younger relatives.
 
 ## Connections
 - [[PishuBook|《屁书》]] - source book frame.
@@ -26,3 +29,4 @@ The episode links this to childhood toilet training, adult embarrassment, insult
 - [[FlatulencePerformanceHistory]] - staged version of the same taboo.
 - [[ShameBasedSelfConcept]] - adjacent shame frame when bodily embarrassment becomes self-judgment.
 - [[SigmundFreud|Sigmund Freud / 西格蒙德·弗洛伊德]] - psychoanalytic reference point invoked by the episode's childhood-humor discussion.
+- [[SenryuAgingHumor]], [[EmbodiedAging]], and [[YinfaChuanliu|《银发川柳》]] - old-age body-humor extension added by episode 165.

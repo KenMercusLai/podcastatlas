@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [165.银发川柳：用幽默面对老年，咱们来写打油诗](sources/165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646.md) — 蜜獾吃书 episode on 《银发川柳》, senryu aging humor, embodied old age, death-facing jokes, elder technology exclusion, and East Asian respect-for-elders traditions.
 - [164.古文的力量：请收下这份千年未变的深情、洞见和勇气](sources/164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576.md) — 蜜獾吃书 episode on 《古文的力量》, 杜若, 《项脊轩志》, 《游褒禅山记》, 《上枢密韩太尉书》, 《鸿门宴》, restrained classical emotion, failure and subjectivity, and power etiquette.
 - [163.教一只猞猁忘记动物园：西野的故事，比疯狂动物城2更精彩！](sources/163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179.md) — 蜜獾吃书 episode with 袁掌 on 《教一只猞猁忘记动物园》, 天线宝宝, 猞猁 rescue, anti-habituation care, release monitoring, conservation storytelling, and public-attention risk.
 - [162.屁书：闲聊“人间之气”！一天几次最健康？](sources/162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270.md) — 蜜獾吃书 episode on 《屁书》, flatulence as health signal, bodily taboo humor, civilized body discipline, fart performance history, and animal gas communication.
@@ -719,6 +720,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《银发川柳》 / Silver Senryu](entities/YinfaChuanliu.md) — Japanese senior-senryu series that makes aging, illness, family, loneliness, technology, and death speakable through short comic poems.
 - [杜若 / Du Ruo](entities/DuRuo.md) — Author of 《古文的力量》 and QinZong's former Chinese teacher, connecting classroom classical prose to public reading.
 - [《古文的力量》](entities/GuwenDeLiliang.md) — Du Ruo book that reopens 17 familiar classical-prose texts through emotion, life situations, and humanistic judgment.
 - [归有光 / Gui Youguang](entities/GuiYouguang.md) — Writer of 《项脊轩志》 read through family rupture, youthful ambition, examination pressure, and restrained grief.
@@ -4966,6 +4968,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Senryu Aging Humor / 银发川柳式老年幽默](concepts/SenryuAgingHumor.md) — Comic-poetry frame where elders use short jokes to name bodily decline, medical routines, loneliness, family friction, and death without losing dignity.
+- [Elder Technology Exclusion / 老年技术排除](concepts/ElderTechnologyExclusion.md) — Accessibility frame for how smartphones, online services, payment flows, ticketing, and support systems can exclude older people.
+- [Respect For Elders Tradition / 敬老传统](concepts/RespectForEldersTradition.md) — Ethical and historical frame separating elder care, respect for experience, family/state order, and automatic age authority.
 - [Classical Prose Reading / 古文阅读](concepts/ClassicalProseReading.md) — Reading frame that reopens classical prose as scenes, reasoning, emotion, and power judgment rather than exam recitation.
 - [Restrained Emotion In Classical Writing / 古典文本中的克制情感](concepts/RestrainedEmotionInClassicalWriting.md) — Aesthetic frame where objects, spaces, silence, and understatement carry deep feeling.
 - [Textbook Excerpt Flattening / 教材删节造成的文本扁平化](concepts/TextbookExcerptFlattening.md) — Risk that school excerpts and deletions shift a work's emotional or intellectual center.

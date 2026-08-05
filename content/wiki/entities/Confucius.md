@@ -2,7 +2,7 @@
 title: "孔子 / Confucius"
 type: entity
 tags: [person, philosopher, chinese-classics, spring-and-autumn]
-sources: [109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+sources: [165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
 last_updated: 2026-08-06
 ---
 
@@ -14,6 +14,8 @@ The source's point is not to replace Confucius's intellectual image with a sport
 
 [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] adds a later pre-Qin extension through [[Mengzi|孟子 / Mencius]]. In that episode, Confucius is the renyi path Mencius actively chooses and amplifies after exposure to the more plural thought world of the [[WarringStatesPeriod|战国时期]] and [[JixiaAcademy|稷下学宫]].
 
+[[165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646]] adds Confucius to the [[RespectForEldersTradition]] branch through the cited ideal "老者安之，朋友信之，少者怀之." The episode reads that line as a humane social state where elders can settle, friends can trust, and children can be cared for, not only as an obedience formula.
+
 ## Connections
 - [[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]] - source episode.
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode's Mencian extension.
@@ -22,3 +24,4 @@ The source's point is not to replace Confucius's intellectual image with a sport
 - [[SportsAsHistoricalReadingFrame]] - source's athletic reinterpretation frame.
 - [[SpringAutumnWarfareRitual]] and [[HorseAsCivilizationalInfrastructure]] - chariot, elite education, and battle-skill context.
 - [[Mengzi|孟子 / Mencius]], [[MenciusText|《孟子》]], and [[EarlyConfucianResistancePolitics]] - later Confucian-political extension.
+- [[RespectForEldersTradition]] - elder-care and social-peace extension added by episode 165.

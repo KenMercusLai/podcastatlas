@@ -2,11 +2,13 @@
 title: "Embodied Aging"
 type: concept
 tags: [aging, body, care, infrastructure, death]
-sources: [130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552]
-last_updated: 2026-08-05
+sources: [165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552]
+last_updated: 2026-08-06
 ---
 
 # Embodied Aging
+
+[[165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646]] adds a collective comic version through [[YinfaChuanliu|《银发川柳》]]. Instead of following one writer's late-life scenes, the source gathers many tiny old-age frictions: urine leakage, arrhythmia, eye drops, hearing loss, osteoporosis, medicine, reading glasses, hospital routines, memorial portraits, pets, grandchildren, and the body refusing old confidence.
 
 Embodied aging is the source's way of making old age visible through ordinary body-environment friction. In [[110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278]], [[ItoHiromi|伊藤比吕美]]'s [[ChurouNoOnna|《初老的女人》]] turns aging into subway stairs, suitcases, wrist pain, knees, heatstroke, bunions, cooking for one, opening containers, health checks, pets, neighbors, and death arrangements.
 
@@ -23,6 +25,7 @@ The concept complements [[MidlifeAsGift]] but shifts the emphasis. Midlife can b
 - Independence is uneven. A person may still teach, write, travel, drive, and care for animals while also needing help, planning, money, and infrastructure.
 - Death planning becomes practical before it becomes philosophical: pets, daughters abroad, neighbors, housing, and illness all shape what "being prepared" means.
 - Humor and precision can make aging more speakable without making it painless.
+- In the [[YinfaChuanliu|《银发川柳》]] branch, self-mocking humor lets elders speak from inside old age rather than appearing only as care objects.
 - Menopause makes aging legible through heat, menstrual absence, medical choice, and social interpretation before old age is otherwise accepted as a label.
 - Aging can also appear as loss of world-confirmation, where memory, objects, and social reassurance stop fitting together.
 - Muscle, sleep, and cash-flow reserves can be treated as preparation for embodied aging, though the source keeps that as practical planning rather than a promise to control aging itself.
@@ -37,3 +40,4 @@ The concept complements [[MidlifeAsGift]] but shifts the emphasis. Midlife can b
 - [[MidlifeAsGift]] and [[ElderCareStateCapacity]] - adjacent age and care frames.
 - [[AgingRealityEstrangement]], [[BizarreStories|《怪诞故事集》]], and [[SelfRecognitionHorror]] - Tokarczuk branch added by episode 130.
 - [[MuscleAsLongevityInfrastructure]], [[SleepAsDailyHealthAccount]], and [[MidlifeThreeAccounts]] - midlife reserve-building extension.
+- [[YinfaChuanliu|《银发川柳》]], [[SenryuAgingHumor]], and [[ElderTechnologyExclusion]] - collective aging-humor and access extension added by episode 165.

@@ -2,7 +2,7 @@
 title: "孟子 / Mencius"
 type: entity
 tags: [person, philosopher, chinese-classics, pre-qin, confucianism]
-sources: [30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+sources: [165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
 last_updated: 2026-08-06
 ---
 
@@ -12,6 +12,8 @@ last_updated: 2026-08-06
 
 The source places Mencius in the [[WarringStatesPeriod|战国时期]], with [[ZouState|邹国]] origins, likely exposure to [[JixiaAcademy|稷下学宫]], rivalry with [[Mozi|墨子]] and [[YangZhu|杨朱]], and an active choice to extend [[Confucius|孔子]]'s renyi path. His conversations with [[LiangHuiWang|梁惠王]] and [[QiXuanWang|齐宣王]] let the episode show him as rhetorically aggressive, morally demanding, and politically idealistic.
 
+[[165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646]] adds Mencius as a reference point in the show's [[RespectForEldersTradition]] branch. The episode uses "老吾老以及人之老" and the idea that 70-year-olds should be able to eat meat to connect Mencian care to elder dignity, social provision, and concern for people beyond one's own household.
+
 ## Connections
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode.
 - [[MenciusText|《孟子》]] - text preserving the dialogue material used by the episode.
@@ -19,3 +21,4 @@ The source places Mencius in the [[WarringStatesPeriod|战国时期]], with [[Zo
 - [[WarringStatesPeriod|战国时期]], [[ZouState|邹国]], and [[JixiaAcademy|稷下学宫]] - historical and intellectual setting.
 - [[LiangHuiWang|梁惠王]] and [[QiXuanWang|齐宣王]] - central ruler interlocutors.
 - [[EarlyConfucianResistancePolitics]], [[RighteousnessOverProfit]], [[MencianBenevolentGovernment]], [[WangdaoVsBadao]], [[ConstantPropertyConstantHeart]], and [[MencianPeopleBasedLegitimacy]] - main concept cluster.
+- [[RespectForEldersTradition]] and [[ElderCareStateCapacity]] - elder-care extension added by episode 165.

@@ -2,13 +2,15 @@
 title: "Controlled Humor With Pain"
 type: concept
 tags: [literature, humor, satire, craft]
-sources: [118-shi-dachen-xinla-fengci-yongbuguoshi-768665425, 02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046]
-last_updated: 2026-07-24
+sources: [165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 118-shi-dachen-xinla-fengci-yongbuguoshi-768665425, 02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046]
+last_updated: 2026-08-06
 ---
 
 # Controlled Humor With Pain
 
 Controlled humor with pain is the reading frame [[02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046]] uses for [[LaoShe|老舍]]'s [[LihunNovel|《离婚》]]. The episode says the novel is extremely funny, but that Lao She restrains the jokes so laughter does not release pressure. It instead makes office life, marriage, face, cowardice, and fantasy feel more airless.
+
+[[165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646]] adds a non-literary old-age version through [[YinfaChuanliu|《银发川柳》]]. The short poems are funny because they compress pain rather than erase it: medicine, hospital routines, incontinence, loneliness, death, and dependence remain present inside the punchline.
 
 The concept extends [[LaoSheSatiricalHumanism]]. In the earlier Lao She branch, humor exposes social mechanisms while leaving characters human. Here the same method becomes more novelistic: [[ZhangDageLihun|张大哥]] can be comic and suffocating, [[XiaoZhaoLihun|小赵]] can be grotesque and socially useful, and [[LaoLiLihun|老李]] can be ridiculous without losing the reader's sympathy.
 
@@ -19,6 +21,7 @@ The concept extends [[LaoSheSatiricalHumanism]]. In the earlier Lao She branch, 
 - Comedy can make ordinary social pressure more visible because readers recognize the joke before they feel its trap.
 - A humane satire can judge people without converting every limited or ridiculous person into a moral object lesson.
 - Institutional comedy can remain painful when every clever line exposes a real constraint on agency.
+- Aging humor can preserve dignity when the joke is made from inside the lived condition rather than imposed as ridicule from outside.
 
 ## Connections
 - [[LaoShe|老舍]], [[LihunNovel|《离婚》]], and [[02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046]] - author, work, and source.
@@ -27,3 +30,4 @@ The concept extends [[LaoSheSatiricalHumanism]]. In the earlier Lao She branch, 
 - [[DecentLifeAsControl]], [[BeipingOfficeWorld]], and [[RomanticProjectionTrap]] - social mechanisms made funny and painful in the source.
 - [[ClassicReadingComplexity]] and [[NonInstrumentalLiteraryReading]] - reading frames that preserve tone and experience beyond plot summary.
 - [[YesMinister|《是，大臣》]], [[InstitutionalMechanismSatire]], and [[BureaucraticWorkloadControl]] - political-satire extension added by episode 118.
+- [[YinfaChuanliu|《银发川柳》]], [[SenryuAgingHumor]], and [[EmbodiedAging]] - old-age humor extension added by episode 165.
