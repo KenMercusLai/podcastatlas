@@ -5621,6 +5621,10 @@ Added source page for a 蜜獾吃书 and 日谈 crossover on reading 《红楼�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-06] ingest | 38.安吉拉卡特精怪故事集：哦！迷人的悍妇！
+
+Added source page for a 蜜獾吃书 episode on Angela Carter's 《精怪故事集》, female oral storytelling, unruly women in folktales, feminist fairy-tale rewriting, fairy-tale sanitization, and cross-cultural tale flow. Created pages for 《精怪故事集》, 《染血之室》 / The Bloody Chamber, 《萨德的女人》 / The Sadeian Woman, 《明智的孩子》 / Wise Children, Female Oral Storytelling, Unruly Women In Folktales, Feminist Fairy-Tale Rewriting, Fairy-Tale Sanitization, and Cross-Cultural Fairy-Tale Flow; updated overview, index, Angela Carter, 蜜獾吃书, 秦总, 北明/北民, Adult Fairy-Tale Reading, Female Self-Possession, Gendered Fairy-Tale Punishment, Story Motif Transmission, Mythic Source Layering, and Folklore As Social Memory. No direct contradiction found; the source extends the wiki's fairy-tale and folklore branch by adding Carter's desanitized, female-forward, cross-cultural tale method.
+
 ## [2026-08-06] ingest | 35.天真的人类学家：做田野会上瘾的！
 
 Added source page for a 蜜獾吃书 episode on Nigel Barley's 《天真的人类学家》, Dowayo fieldwork in Cameroon, fieldwork romance deflation, participant-observer entanglement, missionary support, development-project unintended consequences, and visual/linguistic representation friction. Created pages for 《天真的人类学家》, Nigel Barley, Dowayo People, Cameroon, Bronislaw Malinowski, Fieldwork Romance Deflation, Ethnographic Everyday Friction, Participant-Observer Entanglement, Missionary Fieldwork Infrastructure, Development Project Unintended Consequences, and Visual Representation Literacy; updated overview, index, 蜜獾吃书, 秦总, Fieldwork As Knowledge Method, Anthropology Fieldwork Safety, Linguistic Relativity, and Good Intentions Political Limits. No direct contradiction found; the source complements episode 113 by moving the anthropology branch from catastrophic fieldwork harm into everyday dependence, comic self-exposure, and development ambiguity.
@@ -5696,6 +5700,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] ingest | 37.智商测试：请问你是智力婆罗门吗？
 
 Added source page for a 蜜獾吃书 episode on 《智商测试》, intelligence testing, Francis Galton, eugenics, social Darwinism, Binet-Simon child testing, Henry Goddard and the Kallikak family, immigration and army testing, educational tracking, Carrie Buck, Nazi eugenic killing, and meritocratic arrogance. Created pages for 《智商测试》, Francis Galton, Alfred Binet, Theodore Simon, Henry Goddard, Kallikak Family, Carrie Buck, Intelligence Testing, Eugenic Governance, Social Darwinism, Psychometric Social Sorting, Cultural Bias In Testing, Educational Tracking By Testing, Forced Sterilization By Eugenics, and Meritocratic Arrogance; updated overview, index, Charles Darwin, H. G. Wells, Nazi Germany, Rational Humility, Achievement Pressure Mental Health, Social Comparison Pressure, Merit-Based Immigration Filter, Anti-Authoritarian Education, Algorithmic Labeling, 蜜獾吃书, and 秦总. No direct contradiction found; the source extends the wiki's education-pressure and measurement branches by showing how a cognitive test can move from self-knowledge or school support into social rank, state sorting, reproductive control, and contempt.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

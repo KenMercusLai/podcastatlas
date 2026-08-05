@@ -2,11 +2,13 @@
 title: "民俗作为社会记忆 / Folklore As Social Memory"
 type: concept
 tags: [folklore, memory, modernization, social-history]
-sources: [32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714, 28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309, 117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+sources: [38-anjila-kate-jingguai-gushiji-o-mirende-hanfu-609607139, 32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714, 28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309, 117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
 last_updated: 2026-08-06
 ---
 
 # 民俗作为社会记忆 / Folklore As Social Memory
+
+[[38-anjila-kate-jingguai-gushiji-o-mirende-hanfu-609607139]] adds the domestic and gendered version through [[FemaleOralStorytelling]]. Mothers and grandmothers remember and transmit not only wonder but also marriage jokes, household labor knowledge, maternal tactics, sexual danger, anti-husband tricks, and women's appetite for comic revenge. This extends the concept from local ecology and trauma memory into the ordinary rooms where stories are told to children.
 
 [[32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714]] adds an Indigenous American oral-literature case. The episode treats moon stains, star origins, tobacco and corn, salmon movement, canoe-making, fire in wood, animal taboos, and flood ancestors as ways stories remember practical life, landscape, kinship, danger, and food rules, even when the tale sounds abrupt to modern readers.
 
@@ -33,8 +35,10 @@ In this frame, a yokai name or image records how a place once understood water, 
 - Animal folklore can preserve embodied fear and social control at once: the snake is remembered as creature, danger, healer, treasure keeper, wife, goddess, and monster.
 - Literary strange tales can store social memory of performance, institutions, and ordinary fear even when their plots are overtly fantastic.
 - Indigenous American oral tales can store ecological, technical, and kinship memory inside origin stories rather than separating explanation from wonder.
+- Domestic female storytelling can store household labor, marriage conflict, child protection, sexual danger, and comic revenge as social memory.
 
 ## Connections
+- [[FemaleOralStorytelling]], [[UnrulyWomenInFolktales]], and [[JingguaiGushiji|《精怪故事集》]] - episode 38's gendered domestic extension.
 - [[YokaiMystery|妖怪推理]] - literary form that turns folklore memory into mystery structure.
 - [[TataraKatsugoro|多多良胜五郎]] and [[NumagamiRenji|沼上蓮次]] - characters whose postwar fieldwork makes the concept concrete.
 - [[EvidenceBoundFolkloreInquiry]], [[LegendAsSocialHistory]], [[StoryMotifTransmission]], and [[FolkloreTraumaEncoding]] - adjacent folklore method concepts.

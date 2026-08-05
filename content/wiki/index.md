@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [38.安吉拉卡特精怪故事集：哦！迷人的悍妇！](sources/38-anjila-kate-jingguai-gushiji-o-mirende-hanfu-609607139.md) — 蜜獾吃书 episode on Angela Carter's 《精怪故事集》, grandmotherly oral storytelling, unruly women in folktales, feminist fairy-tale rewriting, desanitized fairy-tale material, and cross-cultural tale flow.
 - [37.智商测试：请问你是智力婆罗门吗？](sources/37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679.md) — 蜜獾吃书 episode on intelligence testing history, Galton and eugenics, Binet-Simon school testing, Goddard and the Kallikak case, Carrie Buck, Nazi eugenics, educational tracking, and meritocratic arrogance.
 - [36.黑暗的左手：流放与爱的未来往事](sources/36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522.md) — 蜜獾吃书 episode on Ursula K. Le Guin's The Left Hand of Darkness, Gethen's ambisexual society, Genly Ai and Estraven, Ekumen diplomacy, shifgrethor, nationalism as hatred, correct questioning, and intimacy beyond gender scripts.
 - [35.天真的人类学家：做田野会上瘾的！](sources/35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624.md) — 蜜獾吃书 episode on Nigel Barley's The Innocent Anthropologist, Dowayo fieldwork in Cameroon, fieldwork romance deflation, participant-observer entanglement, missionary support, development unintended consequences, and visual/linguistic translation friction.
@@ -714,6 +715,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《精怪故事集》](entities/JingguaiGushiji.md) — Angela Carter folk- and fairy-tale collection read by episode 38 as a desanitized, female-forward story world of desire, tricks, cruelty, maternal wit, and comic agency.
+- [《染血之室》 / The Bloody Chamber](entities/TheBloodyChamber.md) — Carter fairy-tale rewriting example used by episode 38 to show agency shifting away from male rescue toward maternal action.
+- [《萨德的女人》 / The Sadeian Woman](entities/TheSadeianWoman.md) — Carter theoretical reference used by episode 38 to frame sex, repression, liberation, and female value beyond reproduction.
+- [《明智的孩子》 / Wise Children](entities/WiseChildrenCarter.md) — Late Carter work used by episode 38 to connect maternal certainty, family storytelling, and a wider female myth-making system.
 - [《智商测试》](entities/ZhishangCeshiBook.md) — Book used by episode 37 to trace intelligence testing from measurement culture into eugenics, education, immigration, law, and meritocratic status.
 - [Francis Galton / 弗朗西斯·高尔顿](entities/FrancisGalton.md) — Statistician and eugenics origin figure whose measurement talent and hereditarian prejudice anchor the episode's warning.
 - [Alfred Binet / 阿尔弗雷德·宾内](entities/AlfredBinet.md) — Psychologist whose child-testing work begins as educational support before later institutional sorting expands the test's use.
@@ -1197,7 +1202,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Abraxas / 阿布拉克萨斯](entities/Abraxas.md) — Gnostic-linked symbol in 《德米安》 for a god-image containing both divine and demonic sides.
 - [《精神吸血鬼》](entities/JingshenXixueguiBook.md) — French-psychiatry book frame used by 蜜獾吃书 to discuss psychic-vampire relationships and exit strategies.
 - [Rene Spitz / 史匹茨](entities/ReneSpitz.md) — child-development reference cited by episode 18 on the importance of emotional nourishment and bodily contact.
-- [Angela Carter / 安吉拉·卡特](entities/AngelaCarter.md) — author stored as a source-scoped future topic preview from a 蜜獾吃书 moving-status episode.
+- [Angela Carter / 安吉拉·卡特](entities/AngelaCarter.md) — Writer and editor read by 蜜獾吃书 through 《精怪故事集》, gothic/fantastic literature, feminist fairy-tale rewriting, old-wife storytelling, and unruly women in folk narrative.
 - [张泉](entities/ZhangQuan.md) — author of 《荒野上的大师》 and 蜜獾吃书 guest discussing modern Chinese academic institutions, fieldwork, and wartime scholarship.
 - [《荒野上的大师》](entities/HuangyeShangDeDashi.md) — nonfiction book about modern Chinese scholarly founders and the institutions, methods, and wartime conditions behind their work.
 - [梁思成](entities/LiangSicheng.md) — architect-scholar presented through Chinese architectural-history fieldwork, 中国营造学社, wartime funding, and the late 鉴真纪念堂 design.
@@ -4936,6 +4941,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Female Oral Storytelling / 女性口头叙事](concepts/FemaleOralStorytelling.md) — Episode 38 frame for mothers, grandmothers, and old wives as serious transmitters of folk knowledge, jokes, desire, household labor, and survival intelligence.
+- [Unruly Women In Folktales / 民间故事中的悍妇](concepts/UnrulyWomenInFolktales.md) — Carter-source pattern where women in old tales deceive, desire, rescue, punish, refuse, or laugh without becoming morally clean heroines.
+- [Feminist Fairy-Tale Rewriting / 女性主义童话改写](concepts/FeministFairyTaleRewriting.md) — Rewriting method that changes who gets voice, desire, danger, and decisive action inside inherited fairy-tale plots.
+- [Fairy-Tale Sanitization / 童话净化](concepts/FairyTaleSanitization.md) — Process by which rough folk material is cleaned into safer children's morals, losing crude, erotic, violent, comic, or gender-conflict registers.
+- [Cross-Cultural Fairy-Tale Flow / 跨文化童话流动](concepts/CrossCulturalFairyTaleFlow.md) — Variant-aware frame for fairy tales moving across oral telling, translation, religion, trade, colonial contact, and editing without one pure national origin.
 - [Intelligence Testing / 智力测试](concepts/IntelligenceTesting.md) — Measurement practice traced from Galton and Binet-Simon into schooling, immigration, military selection, courts, and status hierarchy.
 - [Eugenic Governance / 优生学治理](concepts/EugenicGovernance.md) — Pattern where heredity claims, intelligence labels, and state power manage reproduction, migration, schooling, institutionalization, or death.
 - [Social Darwinism / 社会达尔文主义](concepts/SocialDarwinism.md) — Ideological move from evolutionary language to social hierarchy, separated from Darwin's own caution in the episode.

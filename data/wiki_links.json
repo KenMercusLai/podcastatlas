@@ -623,6 +623,10 @@
     "title": "37.智商测试：请问你是智力婆罗门吗？",
     "url": "/wiki/sources/37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679/"
   },
+  "38-anjila-kate-jingguai-gushiji-o-mirende-hanfu-609607139": {
+    "title": "38.安吉拉卡特精怪故事集：哦！迷人的悍妇！",
+    "url": "/wiki/sources/38-anjila-kate-jingguai-gushiji-o-mirende-hanfu-609607139/"
+  },
   "39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065": {
     "title": "39.哲学家与狼：在朗格多克永恒的夏天",
     "url": "/wiki/sources/39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065/"
@@ -7015,6 +7019,10 @@
     "title": "Cross-Cultural Dragon Translation / 龙与 Dragon 的跨文化翻译",
     "url": "/wiki/concepts/crossculturaldragontranslation/"
   },
+  "CrossCulturalFairyTaleFlow": {
+    "title": "Cross-Cultural Fairy-Tale Flow / 跨文化童话流动",
+    "url": "/wiki/concepts/crossculturalfairytaleflow/"
+  },
   "CrossCulturalProductDesign": {
     "title": "Cross-Cultural Product Design",
     "url": "/wiki/concepts/crossculturalproductdesign/"
@@ -9639,6 +9647,10 @@
     "title": "Fairy-Tale Death And Spirituality",
     "url": "/wiki/concepts/fairytaledeathandspirituality/"
   },
+  "FairyTaleSanitization": {
+    "title": "Fairy-Tale Sanitization / 童话净化",
+    "url": "/wiki/concepts/fairytalesanitization/"
+  },
   "FakeInvestmentPlatformRisk": {
     "title": "Fake Investment Platform Risk",
     "url": "/wiki/concepts/fakeinvestmentplatformrisk/"
@@ -9895,6 +9907,10 @@
     "title": "Female Civilizing Power",
     "url": "/wiki/concepts/femalecivilizingpower/"
   },
+  "FemaleOralStorytelling": {
+    "title": "Female Oral Storytelling / 女性口头叙事",
+    "url": "/wiki/concepts/femaleoralstorytelling/"
+  },
   "FemaleRevengeAndPoliticalOrder": {
     "title": "Female Revenge And Political Order",
     "url": "/wiki/concepts/femalerevengeandpoliticalorder/"
@@ -9906,6 +9922,10 @@
   "FemaleSubjectivityInClassicReading": {
     "title": "Female Subjectivity In Classic Reading / 经典阅读中的女性主体性",
     "url": "/wiki/concepts/femalesubjectivityinclassicreading/"
+  },
+  "FeministFairyTaleRewriting": {
+    "title": "Feminist Fairy-Tale Rewriting / 女性主义童话改写",
+    "url": "/wiki/concepts/feministfairytalerewriting/"
   },
   "FenJingyuan": {
     "title": "焚景源",
@@ -14494,6 +14514,10 @@
   "JinYongPoliticalReading": {
     "title": "Jin Yong Political Reading",
     "url": "/wiki/concepts/jinyongpoliticalreading/"
+  },
+  "JingguaiGushiji": {
+    "title": "《精怪故事集》",
+    "url": "/wiki/entities/jingguaigushiji/"
   },
   "JinghuHighSpeedRail": {
     "title": "Beijing-Shanghai High-Speed Railway / 京沪高铁",
@@ -26439,6 +26463,10 @@
     "title": "《人性中的善良天使》 / The Better Angels of Our Nature",
     "url": "/wiki/entities/thebetterangelsofournature/"
   },
+  "TheBloodyChamber": {
+    "title": "《染血之室》 / The Bloody Chamber",
+    "url": "/wiki/entities/thebloodychamber/"
+  },
   "TheBoyAndTheHeron": {
     "title": "《你想活出怎样的人生》 / The Boy and the Heron",
     "url": "/wiki/entities/theboyandtheheron/"
@@ -26658,6 +26686,10 @@
   "TheSaaSPodcast": {
     "title": "The SaaS Podcast",
     "url": "/wiki/entities/thesaaspodcast/"
+  },
+  "TheSadeianWoman": {
+    "title": "《萨德的女人》 / The Sadeian Woman",
+    "url": "/wiki/entities/thesadeianwoman/"
   },
   "TheSocialRadars": {
     "title": "The Social Radars",
@@ -27755,6 +27787,10 @@
     "title": "Unreliable Praise Narration / 赞美式不可靠叙述",
     "url": "/wiki/concepts/unreliablepraisenarration/"
   },
+  "UnrulyWomenInFolktales": {
+    "title": "Unruly Women In Folktales / 民间故事中的悍妇",
+    "url": "/wiki/concepts/unrulywomeninfolktales/"
+  },
   "UnscalableFounderWork": {
     "title": "Unscalable Founder Work",
     "url": "/wiki/concepts/unscalablefounderwork/"
@@ -28774,6 +28810,10 @@
   "Wired": {
     "title": "Wired",
     "url": "/wiki/entities/wired/"
+  },
+  "WiseChildrenCarter": {
+    "title": "《明智的孩子》 / Wise Children",
+    "url": "/wiki/entities/wisechildrencarter/"
   },
   "WitchHuntMechanism": {
     "title": "Witch-Hunt Mechanism / 猎巫机制",
