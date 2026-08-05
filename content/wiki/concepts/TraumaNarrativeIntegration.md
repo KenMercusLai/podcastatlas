@@ -2,11 +2,13 @@
 title: "Trauma Narrative Integration / 创伤叙事整合"
 type: concept
 tags: [trauma, grief, therapy, memory, psychology]
-sources: [13-beishang-de-liliang-tantan-sangqin-zhitong-551507792, 05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]
-last_updated: 2026-08-05
+sources: [166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059, 13-beishang-de-liliang-tantan-sangqin-zhitong-551507792, 05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]
+last_updated: 2026-08-06
 ---
 
 # Trauma Narrative Integration / 创伤叙事整合
+
+[[166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059]] adds a speculative countercase through [[MemoryDayStory|《记忆日》]]. The story's "沙漠" tool asks what happens when traumatic memory is blocked rather than integrated: relief may be real, but the episode worries that forgetting can also erase loved ones, evidence, and responsibility for the war that produced the pain.
 
 Trauma narrative integration is the process of slowly turning fragmented traumatic grief into a coherent, tolerable story. [[13-beishang-de-liliang-tantan-sangqin-zhitong-551507792]] develops the concept most explicitly through the drowning case in [[BeishangDeLiliang|《悲伤的力量》 / Grief Works]]: parents haunted by intrusive images are encouraged to put feelings, bodily sensations, facts, and memories into language rather than remaining trapped in fight, flight, or freeze.
 

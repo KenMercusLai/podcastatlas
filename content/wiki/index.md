@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [166.悠游长风：温柔的幻想之歌，抚平焦虑的沟壑](sources/166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059.md) — 蜜獾吃书 episode on Sarah Pinsker's speculative short stories, gentle science-fiction ambiguity, embodied identity, dream parenthood, memory deletion ethics, and civilization carried by human memory.
 - [165.银发川柳：用幽默面对老年，咱们来写打油诗](sources/165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646.md) — 蜜獾吃书 episode on 《银发川柳》, senryu aging humor, embodied old age, death-facing jokes, elder technology exclusion, and East Asian respect-for-elders traditions.
 - [164.古文的力量：请收下这份千年未变的深情、洞见和勇气](sources/164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576.md) — 蜜獾吃书 episode on 《古文的力量》, 杜若, 《项脊轩志》, 《游褒禅山记》, 《上枢密韩太尉书》, 《鸿门宴》, restrained classical emotion, failure and subjectivity, and power etiquette.
 - [163.教一只猞猁忘记动物园：西野的故事，比疯狂动物城2更精彩！](sources/163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179.md) — 蜜獾吃书 episode with 袁掌 on 《教一只猞猁忘记动物园》, 天线宝宝, 猞猁 rescue, anti-habituation care, release monitoring, conservation storytelling, and public-attention risk.
@@ -720,6 +721,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sarah Pinsker / 莎拉·平斯克](entities/SarahPinsker.md) — Speculative-fiction writer and musician read by episode 166 through gentle ambiguity, embodied identity, dream parenthood, memory ethics, and artistic transmission.
+- [《悠游长风》 / 《悠悠长风》](entities/YouyouChangfeng.md) — Sarah Pinsker collection discussed by episode 166 through quiet speculative premises, lingering emotional aftertaste, and memory/art preservation.
+- [《一段双车道公路》](entities/AStretchOfHighwayTwoLanesWide.md) — Pinsker story where Andy's prosthetic arm becomes bound to a Colorado road, making body, machine, landscape, and identity unstable.
+- [《梦宝宝》](entities/DreamBabyStory.md) — Pinsker story about a dreamed child whose possible reality turns parenthood, longing, body, and alienness into an unresolved speculative problem.
+- [《记忆日》](entities/MemoryDayStory.md) — Pinsker story about war trauma, public commemoration, and a memory-shielding tool that raises autonomy and responsibility questions.
 - [《银发川柳》 / Silver Senryu](entities/YinfaChuanliu.md) — Japanese senior-senryu series that makes aging, illness, family, loneliness, technology, and death speakable through short comic poems.
 - [杜若 / Du Ruo](entities/DuRuo.md) — Author of 《古文的力量》 and QinZong's former Chinese teacher, connecting classroom classical prose to public reading.
 - [《古文的力量》](entities/GuwenDeLiliang.md) — Du Ruo book that reopens 17 familiar classical-prose texts through emotion, life situations, and humanistic judgment.
@@ -4968,6 +4974,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Gentle Speculative Ambiguity / 温柔的科幻暧昧](concepts/GentleSpeculativeAmbiguity.md) — Pinsker-style frame where speculative premises stay partly unresolved while making body, dream, trauma, memory, and regret emotionally precise.
+- [Embodied Identity Boundary / 身体身份边界](concepts/EmbodiedIdentityBoundary.md) — Question of where the self stops when prosthesis, interface, body, memory, and landscape no longer line up cleanly.
+- [Dream Parenthood Ambiguity / 梦中亲子暧昧](concepts/DreamParenthoodAmbiguity.md) — Pattern where dream experience, bodily response, reproductive desire, and external reality make parent-child recognition unstable.
+- [Memory Deletion Ethics / 记忆删除伦理](concepts/MemoryDeletionEthics.md) — Ethical frame for blocking or erasing painful memory, centered on agency, trauma relief, responsibility, and historical reckoning.
+- [Civilizational Memory Transmission / 文明记忆传承](concepts/CivilizationalMemoryTransmission.md) — Preservation problem where art, history, and human experience survive through bodies, voices, performance, books, and practice when digital archives fail.
 - [Senryu Aging Humor / 银发川柳式老年幽默](concepts/SenryuAgingHumor.md) — Comic-poetry frame where elders use short jokes to name bodily decline, medical routines, loneliness, family friction, and death without losing dignity.
 - [Elder Technology Exclusion / 老年技术排除](concepts/ElderTechnologyExclusion.md) — Accessibility frame for how smartphones, online services, payment flows, ticketing, and support systems can exclude older people.
 - [Respect For Elders Tradition / 敬老传统](concepts/RespectForEldersTradition.md) — Ethical and historical frame separating elder care, respect for experience, family/state order, and automatic age authority.

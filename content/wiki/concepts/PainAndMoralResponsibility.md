@@ -2,11 +2,13 @@
 title: "Pain And Moral Responsibility"
 type: concept
 tags: [ethics, suffering, war, literature]
-sources: [119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]
-last_updated: 2026-07-24
+sources: [166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]
+last_updated: 2026-08-06
 ---
 
 # Pain And Moral Responsibility
+
+[[166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059]] adds a memory-technology version through [[MemoryDayStory|《记忆日》]]. The episode treats the "沙漠" memory shield as potentially merciful for veterans with PTSD, but ethically incomplete if it lets a war-making society erase pain without responsibility or lets collective procedure decide what another person must remember.
 
 Pain and moral responsibility is the ethical frame the episode draws from the third part of [[CanticleForLeibowitz|《莱博维茨的赞歌》]]. In [[03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687]], the hosts discuss the novel's debate over official euthanasia for radiation victims: a doctor treats pain as the only evil he knows, while the abbot argues that there are evils beyond pain and that suffering can be tied to courage, fidelity, and moral meaning.
 

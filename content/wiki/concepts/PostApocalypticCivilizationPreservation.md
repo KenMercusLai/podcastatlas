@@ -2,11 +2,13 @@
 title: "Post-Apocalyptic Civilization Preservation"
 type: concept
 tags: [civilization, memory, science-fiction, archives]
-sources: [03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687]
-last_updated: 2026-07-14
+sources: [166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687]
+last_updated: 2026-08-06
 ---
 
 # Post-Apocalyptic Civilization Preservation
+
+[[166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059]] adds a generation-ship version through [[YouyouChangfeng|《悠游长风》 / 《悠悠长风》]]. After the ship's civilization database is deleted, preservation shifts from documents into memorized works, songs, performances, and teacher-student transmission, which the source tracks as [[CivilizationalMemoryTransmission]].
 
 Post-apocalyptic civilization preservation is the pattern in which people preserve knowledge, artifacts, rituals, or institutions after collapse even when the original context has been lost. [[03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687]] develops it through [[CanticleForLeibowitz|《莱博维茨的赞歌》 / A Canticle for Leibowitz]], where monks protect scientific documents through centuries of ignorance, political danger, and renewed technological ambition.
 

@@ -2,11 +2,13 @@
 title: "Science Fiction Realism"
 type: concept
 tags: [literature, science-fiction, realism, satire]
-sources: [36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, 141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680, sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]
+sources: [166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059, 36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, 141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680, sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]
 last_updated: 2026-08-06
 ---
 
 # Science Fiction Realism
+
+[[166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059]] adds a gentle and ambiguous [[SarahPinsker|Sarah Pinsker]] version through [[YouyouChangfeng|《悠游长风》 / 《悠悠长风》]]. [[AStretchOfHighwayTwoLanesWide|《一段双车道公路》]], [[DreamBabyStory|《梦宝宝》]], and [[MemoryDayStory|《记忆日》]] are realist not because their premises are ordinary, but because prosthetic sensation, parenthood longing, veteran trauma, public commemoration, and archive loss make recognizable human pressures visible through unresolved speculative situations.
 
 [[36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522]] adds an anthropological [[UrsulaKLeGuin|Le Guin]] version through [[TheLeftHandOfDarkness|《黑暗的左手》]]. [[Gethen|格森星 / Gethen]] is not realist because its sex/gender biology is ordinary; it is realist because [[AmbisexualWorldbuilding]], [[ShifgrethorPoliticalFace]], [[PatriotismAsHatred]], and [[IntimacyBeyondGenderScript]] make recognizable human defaults around gender, state loyalty, propaganda, trust, and love visible by making them strange.
 

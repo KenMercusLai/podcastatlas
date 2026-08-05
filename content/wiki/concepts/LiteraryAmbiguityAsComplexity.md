@@ -2,11 +2,13 @@
 title: "Literary Ambiguity As Complexity / 文学混沌性"
 type: concept
 tags: [literature, reading, ambiguity, judgment]
-sources: [187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166]
-last_updated: 2026-07-24
+sources: [166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059, 187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166]
+last_updated: 2026-08-06
 ---
 
 # Literary Ambiguity As Complexity / 文学混沌性
+
+[[166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059]] adds a science-fiction version through [[SarahPinsker|Sarah Pinsker / 莎拉·平斯克]]'s [[YouyouChangfeng|《悠游长风》 / 《悠悠长风》]]. The source reads [[AStretchOfHighwayTwoLanesWide|《一段双车道公路》]] and [[DreamBabyStory|《梦宝宝》]] as stories whose multiple explanations remain alive together, so uncertainty becomes emotional complexity rather than a puzzle waiting for a single solution.
 
 Literary ambiguity as complexity is the episode 187 claim that strong works may preserve conflicting pressures instead of resolving them into a clear position. In [[187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166]], the hosts use [[ThePrincessAndThePea|《豌豆公主》]] to show how a very short tale can hold class aspiration, class ridicule, gender discipline, sympathy for injury, bodily sensitivity, and comic absurdity at once.
 

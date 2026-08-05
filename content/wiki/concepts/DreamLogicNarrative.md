@@ -2,11 +2,13 @@
 title: "Dream Logic Narrative"
 type: concept
 tags: [literature, narrative, dreams, fantasy]
-sources: [122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, 180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805]
-last_updated: 2026-07-24
+sources: [166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059, 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, 180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805]
+last_updated: 2026-08-06
 ---
 
 # Dream Logic Narrative
+
+[[166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059]] adds an adult speculative-parenthood version through [[DreamBabyStory|《梦宝宝》]]. The story's dream logic is not only scene-jumping; it lets a recurring dreamed child produce bodily change, daily routine, online community, and public reality without deciding whether the child is psychological, biological, alien, or otherwise external.
 
 Dream logic narrative is the source's frame for a story that moves by association, abrupt scene change, bodily distortion, and emotional plausibility rather than ordinary plot causality. In [[179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805]], [[AliceInWonderland|《爱丽丝梦游仙境》]] is hard to retell because it began as improvised oral storytelling and later became a book whose power depends on jumps.
 
