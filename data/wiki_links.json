@@ -11047,6 +11047,10 @@
     "title": "Fuchsia Dunlop / 胡霞",
     "url": "/wiki/entities/fuchsiadunlop/"
   },
+  "FudanUniversity": {
+    "title": "Fudan University / 复旦大学",
+    "url": "/wiki/entities/fudanuniversity/"
+  },
   "FugitiveTemporality": {
     "title": "Fugitive Temporality",
     "url": "/wiki/concepts/fugitivetemporality/"
@@ -15679,6 +15683,10 @@
     "title": "L-Design",
     "url": "/wiki/entities/ldesign/"
   },
+  "LLMStatisticalBoundary": {
+    "title": "LLM Statistical Boundary",
+    "url": "/wiki/concepts/llmstatisticalboundary/"
+  },
   "LLMWorldModelGap": {
     "title": "LLM World Model Gap",
     "url": "/wiki/concepts/llmworldmodelgap/"
@@ -17099,6 +17107,10 @@
     "title": "MOSFET / MOS Transistor",
     "url": "/wiki/concepts/mosfet/"
   },
+  "MOSS": {
+    "title": "MOSS",
+    "url": "/wiki/entities/moss/"
+  },
   "MPMaterials": {
     "title": "MP Materials",
     "url": "/wiki/entities/mpmaterials/"
@@ -18510,6 +18522,10 @@
   "ModelHarnessCoEvolution": {
     "title": "Model Harness Co-Evolution",
     "url": "/wiki/concepts/modelharnesscoevolution/"
+  },
+  "ModelPostTrainingBottleneck": {
+    "title": "Model Post-Training Bottleneck",
+    "url": "/wiki/concepts/modelposttrainingbottleneck/"
   },
   "ModelProviderToolCompetition": {
     "title": "Model Provider Tool Competition",
@@ -23934,6 +23950,10 @@
   "ScalingBrokenProduct": {
     "title": "Scaling Broken Product",
     "url": "/wiki/concepts/scalingbrokenproduct/"
+  },
+  "ScenarioSpecificAI": {
+    "title": "Scenario-Specific AI",
+    "url": "/wiki/concepts/scenariospecificai/"
   },
   "SchadenfreudeAsComparisonEmotion": {
     "title": "Schadenfreude As Comparison Emotion / 比较中的幸灾乐祸",
@@ -30267,6 +30287,10 @@
     "title": "张楠",
     "url": "/wiki/entities/zhangnan/"
   },
+  "ZhangQi": {
+    "title": "Zhang Qi / 张奇",
+    "url": "/wiki/entities/zhangqi/"
+  },
   "ZhangQuan": {
     "title": "张泉",
     "url": "/wiki/entities/zhangquan/"
@@ -32470,6 +32494,10 @@
   "vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu": {
     "title": "Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络",
     "url": "/wiki/sources/vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu/"
+  },
+  "vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo": {
+    "title": "Vol.114 AI的2025和DeepSeek们的未来 | 对谈复旦张奇教授",
+    "url": "/wiki/sources/vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo/"
   },
   "vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1": {
     "title": "Vol. 160 一年多以后，再聊AI写代码Vibe Coding",

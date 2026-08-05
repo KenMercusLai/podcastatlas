@@ -2,7 +2,7 @@
 title: "DeepSeek"
 type: entity
 tags: [company, model, open-source-ai]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g]
+sources: [vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g]
 last_updated: 2026-08-06
 ---
 
@@ -30,6 +30,8 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 
 [[vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g]] adds DeepSeek as an AI example inside [[ChinaDivergentTechnologyRoute]]. The source mentions it as a possible signal that Chinese AI model development may also move along a different route, while keeping that claim speculative rather than a completed industry verdict.
 
+[[vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo]] turns that speculative signal into the episode's immediate 2025 catalyst. [[ZhangQi|张奇]] treats DeepSeek as important for engineering efficiency, MoE-style cost structure, and public AI enthusiasm, but argues that it still sits inside the [[LLMStatisticalBoundary]] and does not remove the [[ModelPostTrainingBottleneck]] that makes frontier behavior expensive to reproduce.
+
 ## Connections
 - [[Qwen]] — compared as another prominent Chinese open-source model effort.
 - [[OpenSourceAIModels]] — broader category for model ecosystem influence.
@@ -45,3 +47,4 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - [[PaymentLedMarketSelection]] and [[Win]] — overseas-market episode where DeepSeek is treated as a practical Chinese AI export rather than only a domestic substitute.
 - [[LuoFuli]], [[AgentPostTraining]], and [[Xiaomi]] — episode 138's link from DeepSeek background to agent-era model training.
 - [[ChinaDivergentTechnologyRoute]] — vol.111's broader technology-route frame.
+- [[ZhangQi|张奇]], [[LLMStatisticalBoundary]], [[ModelPostTrainingBottleneck]], and [[ScenarioSpecificAI]] — vol.114's academic interpretation of the DeepSeek breakout.

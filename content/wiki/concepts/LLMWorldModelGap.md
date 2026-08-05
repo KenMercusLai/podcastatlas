@@ -2,13 +2,15 @@
 title: "LLM World Model Gap"
 type: concept
 tags: [ai, world-models, language-models]
-sources: [tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128]
-last_updated: 2026-07-10
+sources: [vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128]
+last_updated: 2026-08-06
 ---
 
 # LLM World Model Gap
 
 LLM World Model Gap names the difference between fluent language prediction and explicit representation of the world. In [[tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128]], [[GaryMarcus]] argues that large language models can generate plausible text without maintaining stable internal records of people, objects, places, facts, actions, physical properties, or causal relations.
+
+[[vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo]] adds a Chinese academic version of the same caution through [[ZhangQi|张奇]]. Zhang does not deny the usefulness of [[DeepSeek]] or current large models, but he argues that statistical learning can capture correlations without building the causal chain humans use to generalize across situations.
 
 The episode contrasts this with [[WorldModels]] in robotics and games. A game-like scene graph knows which entities exist, where they are, and what they can do; a robot needs to know whether a surface can be walked on, how strong it is, and how it connects to other surfaces. A language model can talk about those things, but Marcus argues that talk alone is not the same as a structured state-and-causality model.
 
@@ -18,6 +20,7 @@ The episode contrasts this with [[WorldModels]] in robotics and games. A game-li
 - Robust AI needs world models that can track entities, states, actions, affordances, and causal dependencies over time.
 - [[VideoModels]] may help, but pixel-level prediction can still miss physical structure when generated scenes produce impossible bodies or unstable object behavior.
 - The gap matters most for [[EmbodiedAI]] and [[PhysicalAGI]], where a system has to act in the world rather than only describe it.
+- The gap can also appear in pure language tasks when a model's apparent reasoning does not transfer across statistically different but human-similar cases.
 
 ## Connections
 - [[GaryMarcus]] - main source of the critique in the Marketplace Tech episode.
@@ -26,3 +29,4 @@ The episode contrasts this with [[WorldModels]] in robotics and games. A game-li
 - [[FrontierModelScaling]] - adjacent debate over whether more data and compute alone can close this gap.
 - [[LanguageUserInterface]] - nearby boundary: language can be a useful interface without being the whole intelligence substrate.
 - [[EmbodiedAI]], [[PhysicalAGI]], and [[VideoModels]] - domains where the gap becomes operational.
+- [[ZhangQi|张奇]], [[DeepSeek]], and [[LLMStatisticalBoundary]] — vol.114's statistical-learning and causality-boundary addition.

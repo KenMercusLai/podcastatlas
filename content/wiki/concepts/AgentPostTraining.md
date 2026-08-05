@@ -2,8 +2,8 @@
 title: "Agent Post-Training"
 type: concept
 tags: [agents, model-training, post-training]
-sources: [138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
-last_updated: 2026-07-08
+sources: [vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
+last_updated: 2026-08-06
 ---
 
 # Agent Post-Training
@@ -12,12 +12,15 @@ Agent post-training is [[LuoFuli]]'s frame in [[138-dui-luo-fuli-3-5-xiaoshi-fan
 
 The concept extends [[ModelHarnessCoEvolution]]. A model trained only for chat may look strong in isolated answers but behave poorly when a framework asks it to plan, call tools, maintain memory, delegate, and verify results. Agent post-training therefore uses simulated user agents, multi-round interaction data, task traces, workflow feedback, and [[AISkills]] to teach the model how to operate inside an [[AgentHarness]].
 
+[[vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo]] adds a broader [[ModelPostTrainingBottleneck]] frame through [[ZhangQi|张奇]]. The episode argues that post-training has to match knowledge already latent in pretraining and that reinforcement-learning or expert-labeling stages can remain costly even when [[DeepSeek]] changes the perceived cost of pretraining and inference.
+
 ## Key Claims
 - Post-training becomes more important when the product surface is an agent framework rather than a chatbot.
 - Agent data must include environment feedback, tool results, memory updates, task persistence, and failure recovery.
 - SFT and RL can be built from user-agent simulations and real framework traces, not only preference comparisons over one-turn answers.
 - Different frameworks may require different adaptation because memory shape, tool affordances, channel structure, and cost routing differ.
 - Agent post-training makes [[AICodingVerification]], [[LongHorizonAI]], and [[ModelWorkflowFit]] part of model training rather than only deployment evaluation.
+- Post-training can be the hidden reproduction barrier when a model's visible architecture or cost story is easier to discuss than its data recipes, expert labels, evaluation loops, and failure-recovery training.
 
 ## Connections
 - [[LuoFuli]], [[MemoVR]], and [[Xiaomi]] — source speaker, model series, and team context.
@@ -25,3 +28,4 @@ The concept extends [[ModelHarnessCoEvolution]]. A model trained only for chat m
 - [[AgentRL]], [[TrainingComputeAllocation]], and [[AgentOptimizedModelArchitecture]] — infrastructure, compute, and architecture constraints.
 - [[AISkills]], [[PersistentAgentMemory]], and [[AgentSelfEvolution]] — reusable workflow and memory signals for training.
 - [[MLCoding]], [[ResearchTaste]], and [[ModelHarnessCoEvolution]] — research-loop and co-evolution context.
+- [[ZhangQi|张奇]], [[DeepSeek]], and [[ModelPostTrainingBottleneck]] — vol.114's broader post-training bottleneck and DeepSeek-cost qualification.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.114 AI的2025和DeepSeek们的未来 | 对谈复旦张奇教授](sources/vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo.md) — 起朱楼宴宾客 episode with Zhang Qi on DeepSeek, LLM statistical limits, post-training, scenario-specific AI products, AI search, contact-center AI, and 2025 agents.
 - [Vol.111 关于2025年的四个猜想](sources/vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g.md) — 起朱楼宴宾客 annual-prediction episode on China debt resolution, Trump domestic-state reform, anti-involution, and divergent Chinese technology routes.
 - [170.宋太祖之死：烛影斧声，阴谋论中的人性谜团（下）](sources/170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115.md) — 蜜獾吃书 episode on 先南后北, 平蜀暴力, 宋初相权, 太祖猝死, 烛影斧声, 金匮之盟, 德昭德芳之死, 廷美案, and 太宗合法性焦虑.
 - [169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上）](sources/169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909.md) — 蜜獾吃书 episode on 赵匡胤, 后周 military politics, 陈桥兵变, 太宗朝修史, 开封定都, 杯酒释兵权, and Song military centralization tradeoffs.
@@ -725,6 +726,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Zhang Qi / 张奇](entities/ZhangQi.md) — Fudan professor and MOSS lead interpreting DeepSeek, LLM limits, post-training, scenario-specific AI, and 2025 agents.
+- [Fudan University / 复旦大学](entities/FudanUniversity.md) — Academic institution behind Zhang Qi and MOSS in the vol.114 AI annual-review episode.
+- [MOSS](entities/MOSS.md) — Fudan-associated large-model project named through Zhang Qi's role in the vol.114 DeepSeek discussion.
 - [NAURA / 北方华创](entities/NAURA.md) — Chinese semiconductor-equipment company used as a concrete example of equipment localization and divergent technology routes.
 - [赵匡胤 / Song Taizu](entities/ZhaoKuangyin.md) — Northern Song founder read through Later Zhou military networks, Chenqiao coup packaging, disarmament, and institutional redesign.
 - [赵光义 / Song Taizong](entities/ZhaoGuangyi.md) — Zhao Kuangyin's brother and later emperor whose Chenqiao role becomes a source-criticism and succession-legitimacy issue.
@@ -5009,6 +5013,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [LLM Statistical Boundary](concepts/LLMStatisticalBoundary.md) — Claim that large language models remain powerful statistical systems with visible causal and transfer limits.
+- [Scenario-Specific AI](concepts/ScenarioSpecificAI.md) — Product rule that AI value is best judged by concrete scenes, user types, inputs, outputs, and review standards.
+- [Model Post-Training Bottleneck](concepts/ModelPostTrainingBottleneck.md) — Hidden training barrier where data matching, expert labels, evaluation, RL, and failure recovery shape model usefulness after pretraining.
 - [China Local Debt Resolution](concepts/ChinaLocalDebtResolution.md) — 2025 policy frame where hidden-debt relief may loosen local-government pressure on firms, households, and confidence.
 - [Internal Stability Confidence Repair](concepts/InternalStabilityConfidenceRepair.md) — cross-system frame for China and Trump-era U.S. policy as efforts to restore internal order, trust, and room to act.
 - [China Corporate Anti-Involution](concepts/ChinaCorporateAntiInvolution.md) — policy and industry response to Chinese price-war competition, overcapacity, and external strategic-industry pressure.

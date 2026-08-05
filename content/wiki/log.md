@@ -5788,3 +5788,11 @@ Added source page for a 起朱楼宴宾客 annual-prediction episode on China lo
 ## [2026-08-06] lint | Wiki health check
 
 Ran health before lint; health scanned 8,160 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,160 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes while current lint scanned 8,160 pages; treat graph findings as stale until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`; a bounded in-session semantic review of orphan pages, fragile-bridge endpoints, and explicit contradiction markers found no hard unresolved contradiction, while preserving the source-scoped `ProjectGlasswing`/`ProjectGlassfin` naming tension and noting a `+-` formatting artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-06] ingest | Vol.114 AI的2025和DeepSeek们的未来 | 对谈复旦张奇教授
+
+Added source page for a 起朱楼宴宾客 AI annual-review episode with Zhang Qi on DeepSeek, large-model statistical limits, pretraining versus post-training, scenario-specific AI tools, contact-center deployment, AI search, and 2025 agents. Created pages for Zhang Qi, Fudan University, MOSS, LLM Statistical Boundary, Scenario-Specific AI, and Model Post-Training Bottleneck; updated overview, index, 起朱楼宴宾客, DeepSeek, Agentic Workflow, Agent Post-Training, Vertical Workflow AI, AI Application Layer Moat, Interleaved Thinking, Contact Center AI, Causal AI, LLM World Model Gap, Cursor, Perplexity, and Devin. No direct contradiction found; the source qualifies the existing DeepSeek route-divergence branch by treating DeepSeek as an engineering and cost shock rather than proof that current LLMs have crossed into AGI.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
