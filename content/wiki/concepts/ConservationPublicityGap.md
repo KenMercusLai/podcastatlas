@@ -2,8 +2,8 @@
 title: "Conservation Publicity Gap"
 type: concept
 tags: [conservation, media, symbolism, ecology]
-sources: [186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210]
-last_updated: 2026-07-15
+sources: [163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179, 186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210]
+last_updated: 2026-08-06
 ---
 
 # Conservation Publicity Gap
@@ -12,14 +12,18 @@ Conservation publicity gap is the mismatch between symbolic attention to a speci
 
 The concept does not mean publicity is useless. The episode's sharper point is that symbols, logos, slogans, local pride, and visitor hospitality can outpace habitat repair, population monitoring, industrial restraint, or river-system change. A species can become more visible as an emblem while becoming less viable as an animal.
 
+[[163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179]] adds the reverse-side caution through [[XiningWildlifePark|西宁野生动物园]] and [[TianxianBaobaoLynx|天线宝宝]]. [[YuanZhang|袁掌]] credits public attention with sharply improving local recognition of snow leopards and wildlife protection, but he also notes that traffic can bring fan-style behavior, complaints, and work disruption if [[ConservationStoryMobilization]] outruns context.
+
 ## Key Claims
 - Publicity can preserve a species name while failing to preserve the species.
 - Conservation symbols can become substitutes for difficult ecological and economic decisions.
 - The gap is especially dangerous when institutions treat awareness, branding, or reception as evidence that protection is working.
 - Publicity becomes useful only when it routes attention and resources toward accountable [[ConservationIntervention]].
+- Productive conservation publicity needs context, professional explanation, and boundaries so emotion supports care work instead of becoming pressure on caretakers.
 
 ## Connections
 - [[Baiji]], [[YangtzeRiver]], [[China]], and [[ZhouKaiya]] - source case and context.
 - [[LastChanceEcologicalWitnessing]] - absence and memory layer.
 - [[FunctionalExtinction]] - endpoint risk when symbolic concern arrives too late.
 - [[ConservationIntervention]] and [[EnvironmentalTradeoffAccounting]] - practical response frames.
+- [[ConservationStoryMobilization]], [[TianxianBaobaoLynx|天线宝宝]], and [[XiningWildlifePark|西宁野生动物园]] - positive-attention and traffic-risk extension.

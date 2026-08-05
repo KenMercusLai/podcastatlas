@@ -2,8 +2,8 @@
 title: "Conservation Intervention"
 type: concept
 tags: [conservation, ecology, wildlife]
-sources: [the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260]
-last_updated: 2026-07-24
+sources: [163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179, the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260]
+last_updated: 2026-08-06
 ---
 
 # Conservation Intervention
@@ -24,6 +24,8 @@ The concept carries a built-in tension. The episode contrasts the worry that hum
 
 [[the-little-pet-fish-that-saved-a-town-in-the-amazon]] adds a market-based version through [[Barcelos]], [[CardinalTetra]], and [[ProjectPiaba]]. Here the intervention is not primarily a sanctuary or rescue program; it is an effort to keep a bounded wild harvest commercially viable so local income remains tied to intact [[RioNegro]] habitat.
 
+[[163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179]] adds a release-and-monitoring version through [[TianxianBaobaoLynx|天线宝宝]]. [[XiningWildlifePark|西宁野生动物园]]'s intervention continues after medical recovery: the team chooses release timing, uses a satellite collar, reads signal gaps cautiously, checks village and livestock risk, and treats post-release uncertainty as part of the conservation work rather than as an afterthought.
+
 ## Key Claims
 - Active protection can be justified when human disturbance or species decline has already changed the baseline.
 - Good intervention begins with learning what the species needs rather than projecting human ideas of scenery or convenience.
@@ -37,6 +39,7 @@ The concept carries a built-in tension. The episode contrasts the worry that hum
 - Last-chance attention helps only when it becomes money, habitat control, monitoring, predator management, or other accountable work rather than symbolic concern alone.
 - Emergency rescue can be an intervention too, but it should remain answerable to species-specific needs rather than to the rescuer's affection alone.
 - Market design can function as conservation intervention when traceability, handling quality, and buyer demand keep sustainable wild harvest economically viable.
+- Release work needs follow-up monitoring because movement, terrain, weather, prey, roads, livestock, and local human response decide whether an apparently successful release remains viable.
 
 ## Connections
 - [[ChineseCrestedTern]] - source species case.
@@ -50,3 +53,4 @@ The concept carries a built-in tension. The episode contrasts the worry that hum
 - [[LastChanceToSee|《消逝世界漫游指南》]], [[AyeAye]], [[MountainGorilla]], [[Baiji]], [[Kakapo]], [[LastChanceEcologicalWitnessing]], and [[ConservationPublicityGap]] - endangered-species travel extension from episode 186.
 - [[ThePenguinLessons|《企鹅课》 / The Penguin Lessons]], [[TomMichell|Tom Michell / 汤姆·米切尔]], [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]], [[WildAnimalRescueResponsibility]], and [[OilPollutionWildlifeHarm]] - improvised rescue extension from episode 138.
 - [[Barcelos]], [[CardinalTetra]], [[ProjectPiaba]], [[SustainableWildHarvesting]], and [[OriginTraceabilityMoat]] - market-based conservation extension from Planet Money.
+- [[TianxianBaobaoLynx|天线宝宝]], [[YuanZhang|袁掌]], [[XiningWildlifePark|西宁野生动物园]], [[WildReleaseHumanAvoidance]], and [[ConservationStoryMobilization]] - release, monitoring, and public-story extension from episode 163.

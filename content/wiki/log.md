@@ -5621,6 +5621,10 @@ Added source page for a 蜜獾吃书 and 日谈 crossover on reading 《红楼�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-06] ingest | 163.教一只猞猁忘记动物园：西野的故事，比疯狂动物城2更精彩！
+
+Added source page for a 蜜獾吃书 episode with 袁掌 on 《教一只猞猁忘记动物园》, 天线宝宝, 猞猁 ecology, 西宁野生动物园, rescue rehabilitation, anti-habituation care, release monitoring, village/livestock conflict risk, conservation storytelling, and public-attention tradeoffs. Created pages for 《教一只猞猁忘记动物园》, 袁掌, 西宁野生动物园, 天线宝宝猞猁, Lynx / 猞猁, Wild Release Human Avoidance, and Conservation Story Mobilization; updated overview, index, 蜜獾吃书, 秦总, Wild Animal Rescue Responsibility, Captive Animal Care Labor, Conservation Intervention, Empathy Circle Expansion, Humanistic Science Communication, and Conservation Publicity Gap. No direct contradiction found; the source extends the wiki's animal-welfare and conservation branches from companion animals, livestock, endangered-species travel, penguin rescue, and fictional zoo care into a real institutional rescue-release case.
+
 ## [2026-08-06] ingest | 38.安吉拉卡特精怪故事集：哦！迷人的悍妇！
 
 Added source page for a 蜜獾吃书 episode on Angela Carter's 《精怪故事集》, female oral storytelling, unruly women in folktales, feminist fairy-tale rewriting, fairy-tale sanitization, and cross-cultural tale flow. Created pages for 《精怪故事集》, 《染血之室》 / The Bloody Chamber, 《萨德的女人》 / The Sadeian Woman, 《明智的孩子》 / Wise Children, Female Oral Storytelling, Unruly Women In Folktales, Feminist Fairy-Tale Rewriting, Fairy-Tale Sanitization, and Cross-Cultural Fairy-Tale Flow; updated overview, index, Angela Carter, 蜜獾吃书, 秦总, 北明/北民, Adult Fairy-Tale Reading, Female Self-Possession, Gendered Fairy-Tale Punishment, Story Motif Transmission, Mythic Source Layering, and Folklore As Social Memory. No direct contradiction found; the source extends the wiki's fairy-tale and folklore branch by adding Carter's desanitized, female-forward, cross-cultural tale method.
@@ -5720,6 +5724,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] ingest | 162.屁书：闲聊“人间之气”！一天几次最健康？
 
 Added source page for a 蜜獾吃书 episode using 《屁书》 to discuss flatulence as physiology, health clue, taboo humor, etiquette problem, performance material, and animal behavior. Created pages for 《屁书》, Flatulence As Health Signal, Bodily Taboo Humor, Civilized Body Discipline, Flatulence Performance History, and Animal Gas Communication; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, Offensive Humor Speech Space, Historical Body Concept, and Medical Knowledge Boundary. No direct contradiction found; the source complements episode 57's "屎尿屁" character-evidence branch by approaching the same body domain through digestion, shame, culture, and animal physiology rather than historical script evidence.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

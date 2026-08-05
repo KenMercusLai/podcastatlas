@@ -415,6 +415,10 @@
     "title": "162.屁书：闲聊“人间之气”！一天几次最健康？",
     "url": "/wiki/sources/162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270/"
   },
+  "163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179": {
+    "title": "163.教一只猞猁忘记动物园：西野的故事，比疯狂动物城2更精彩！",
+    "url": "/wiki/sources/163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179/"
+  },
   "166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1": {
     "title": "166: 许华哲再次具身创业：不想错过最大的西瓜",
     "url": "/wiki/sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1/"
@@ -6558,6 +6562,10 @@
   "ConservationPublicityGap": {
     "title": "Conservation Publicity Gap",
     "url": "/wiki/concepts/conservationpublicitygap/"
+  },
+  "ConservationStoryMobilization": {
+    "title": "Conservation Story Mobilization / 保护故事动员",
+    "url": "/wiki/concepts/conservationstorymobilization/"
   },
   "ConservativePartnershipInstitute": {
     "title": "Conservative Partnership Institute",
@@ -14479,6 +14487,10 @@
     "title": "Jianying / 剪映",
     "url": "/wiki/entities/jianying/"
   },
+  "JiaoYiZhiSheliWangjiDongwuyuan": {
+    "title": "《教一只猞猁忘记动物园》",
+    "url": "/wiki/entities/jiaoyizhisheliwangjidongwuyuan/"
+  },
   "JiaoshouYiXiaoxing": {
     "title": "叫兽易小星 / Jiaoshou Yi Xiaoxing",
     "url": "/wiki/entities/jiaoshouyixiaoxing/"
@@ -16874,6 +16886,10 @@
   "LyndonBJohnson": {
     "title": "Lyndon B. Johnson",
     "url": "/wiki/entities/lyndonbjohnson/"
+  },
+  "Lynx": {
+    "title": "Lynx / 猞猁",
+    "url": "/wiki/entities/lynx/"
   },
   "MAGA": {
     "title": "MAGA / Make America Great Again",
@@ -26919,6 +26935,10 @@
     "title": "Tiantian Kuaibao",
     "url": "/wiki/entities/tiantiankuaibao/"
   },
+  "TianxianBaobaoLynx": {
+    "title": "天线宝宝猞猁 / Tianxian Baobao Lynx",
+    "url": "/wiki/entities/tianxianbaobaolynx/"
+  },
   "TiborKalman": {
     "title": "Tibor Kalman",
     "url": "/wiki/entities/tiborkalman/"
@@ -28739,6 +28759,10 @@
     "title": "Wild Mushroom Food Safety",
     "url": "/wiki/concepts/wildmushroomfoodsafety/"
   },
+  "WildReleaseHumanAvoidance": {
+    "title": "Wild Release Human Avoidance / 野放前人类回避训练",
+    "url": "/wiki/concepts/wildreleasehumanavoidance/"
+  },
   "WildSource": {
     "title": "Wild Source",
     "url": "/wiki/entities/wildsource/"
@@ -29279,6 +29303,10 @@
     "title": "兴盛优选 / Xingsheng Youxuan",
     "url": "/wiki/entities/xingshengyouxuan/"
   },
+  "XiningWildlifePark": {
+    "title": "Xining Wildlife Park / 西宁野生动物园",
+    "url": "/wiki/entities/xiningwildlifepark/"
+  },
   "Xiren": {
     "title": "袭人 / Xiren",
     "url": "/wiki/entities/xiren/"
@@ -29746,6 +29774,10 @@
   "YuanShanla": {
     "title": "Yuan Shanla / 袁善辣",
     "url": "/wiki/entities/yuanshanla/"
+  },
+  "YuanZhang": {
+    "title": "袁掌 / Yuan Zhang",
+    "url": "/wiki/entities/yuanzhang/"
   },
   "Yuanbao": {
     "title": "Yuanbao",
