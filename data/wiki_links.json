@@ -419,6 +419,10 @@
     "title": "163.教一只猞猁忘记动物园：西野的故事，比疯狂动物城2更精彩！",
     "url": "/wiki/sources/163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179/"
   },
+  "164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576": {
+    "title": "164.古文的力量：请收下这份千年未变的深情、洞见和勇气",
+    "url": "/wiki/sources/164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576/"
+  },
   "166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1": {
     "title": "166: 许华哲再次具身创业：不想错过最大的西瓜",
     "url": "/wiki/sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1/"
@@ -6091,6 +6095,10 @@
     "title": "Classical Poetic Intertextuality",
     "url": "/wiki/concepts/classicalpoeticintertextuality/"
   },
+  "ClassicalProseReading": {
+    "title": "Classical Prose Reading / 古文阅读",
+    "url": "/wiki/concepts/classicalprosereading/"
+  },
   "Claude": {
     "title": "Claude",
     "url": "/wiki/entities/claude/"
@@ -8575,6 +8583,10 @@
     "title": "杜继彦",
     "url": "/wiki/entities/dujiyan/"
   },
+  "DuRuo": {
+    "title": "杜若 / Du Ruo",
+    "url": "/wiki/entities/duruo/"
+  },
   "DuShaolei": {
     "title": "Du Shaolei",
     "url": "/wiki/entities/dushaolei/"
@@ -9759,9 +9771,17 @@
     "title": "范进",
     "url": "/wiki/entities/fanjin/"
   },
+  "FanKuai": {
+    "title": "樊哙 / Fan Kuai",
+    "url": "/wiki/entities/fankuai/"
+  },
   "FanMin": {
     "title": "Fan Min",
     "url": "/wiki/entities/fanmin/"
+  },
+  "FanZeng": {
+    "title": "范增 / Fan Zeng",
+    "url": "/wiki/entities/fanzeng/"
   },
   "FangxuehouDeXiaoxiang": {
     "title": "《放学后的小巷》",
@@ -11943,6 +11963,10 @@
     "title": "Guanyin / 观音",
     "url": "/wiki/entities/guanyin/"
   },
+  "GuiYouguang": {
+    "title": "归有光 / Gui Youguang",
+    "url": "/wiki/entities/guiyouguang/"
+  },
   "Guigui": {
     "title": "龟龟",
     "url": "/wiki/entities/guigui/"
@@ -12018,6 +12042,10 @@
   "Gusto": {
     "title": "Gusto",
     "url": "/wiki/entities/gusto/"
+  },
+  "GuwenDeLiliang": {
+    "title": "《古文的力量》",
+    "url": "/wiki/entities/guwendeliliang/"
   },
   "GuyRaz": {
     "title": "Guy Raz",
@@ -12194,6 +12222,10 @@
   "HanPingdi": {
     "title": "Emperor Ping of Han / 汉平帝",
     "url": "/wiki/entities/hanpingdi/"
+  },
+  "HanQi": {
+    "title": "韩琦 / Han Qi",
+    "url": "/wiki/entities/hanqi/"
   },
   "HanRiver": {
     "title": "Han River / 汉江",
@@ -12878,6 +12910,10 @@
   "Hongguo": {
     "title": "红果",
     "url": "/wiki/entities/hongguo/"
+  },
+  "HongmenYan": {
+    "title": "《鸿门宴》",
+    "url": "/wiki/entities/hongmenyan/"
   },
   "HongseHuojianIndexTool": {
     "title": "红色火箭 / Hongse Huojian",
@@ -18483,6 +18519,10 @@
     "title": "Moore's Law",
     "url": "/wiki/concepts/moorelaw/"
   },
+  "MoralFaceUnderPowerCompetition": {
+    "title": "Moral Face Under Power Competition / 权力竞争中的要脸",
+    "url": "/wiki/concepts/moralfaceunderpowercompetition/"
+  },
   "MoralHazardContagionTradeoff": {
     "title": "Moral Hazard Contagion Tradeoff",
     "url": "/wiki/concepts/moralhazardcontagiontradeoff/"
@@ -21351,6 +21391,10 @@
     "title": "Power Battery Whitelist",
     "url": "/wiki/concepts/powerbatterywhitelist/"
   },
+  "PowerEtiquetteReading": {
+    "title": "Power Etiquette Reading / 权力礼仪细读",
+    "url": "/wiki/concepts/poweretiquettereading/"
+  },
   "PowerUserDiscovery": {
     "title": "Power User Discovery",
     "url": "/wiki/concepts/poweruserdiscovery/"
@@ -22778,6 +22822,10 @@
   "RestoreBritain": {
     "title": "Restore Britain",
     "url": "/wiki/entities/restorebritain/"
+  },
+  "RestrainedEmotionInClassicalWriting": {
+    "title": "Restrained Emotion In Classical Writing / 古典文本中的克制情感",
+    "url": "/wiki/concepts/restrainedemotioninclassicalwriting/"
   },
   "ResultAsAService": {
     "title": "Result As A Service",
@@ -24227,6 +24275,10 @@
     "title": "Shane Legg",
     "url": "/wiki/entities/shanelegg/"
   },
+  "ShangShumiHanTaiweiShu": {
+    "title": "《上枢密韩太尉书》",
+    "url": "/wiki/entities/shangshumihantaiweishu/"
+  },
   "ShangYang": {
     "title": "Shang Yang / 商鞅",
     "url": "/wiki/entities/shangyang/"
@@ -24627,6 +24679,10 @@
     "title": "司马光 / Sima Guang",
     "url": "/wiki/entities/simaguang/"
   },
+  "SimaQian": {
+    "title": "司马迁 / Sima Qian",
+    "url": "/wiki/entities/simaqian/"
+  },
   "Simon": {
     "title": "Simon",
     "url": "/wiki/entities/simon/"
@@ -24950,6 +25006,10 @@
   "SongFactionalPolitics": {
     "title": "宋代党争 / Song Factional Politics",
     "url": "/wiki/concepts/songfactionalpolitics/"
+  },
+  "SongRenzong": {
+    "title": "宋仁宗 / Song Renzong",
+    "url": "/wiki/entities/songrenzong/"
   },
   "SongShenzong": {
     "title": "宋神宗 / Emperor Shenzong of Song",
@@ -25827,6 +25887,10 @@
     "title": "Subjectivity As AI Asset",
     "url": "/wiki/concepts/subjectivityasaiasset/"
   },
+  "SubjectivityThroughFailure": {
+    "title": "Subjectivity Through Failure / 失败中的主体性",
+    "url": "/wiki/concepts/subjectivitythroughfailure/"
+  },
   "SubprimeAutoLending": {
     "title": "Subprime Auto Lending",
     "url": "/wiki/concepts/subprimeautolending/"
@@ -26494,6 +26558,10 @@
   "TexasPublicPolicyFoundation": {
     "title": "Texas Public Policy Foundation",
     "url": "/wiki/entities/texaspublicpolicyfoundation/"
+  },
+  "TextbookExcerptFlattening": {
+    "title": "Textbook Excerpt Flattening / 教材删节造成的文本扁平化",
+    "url": "/wiki/concepts/textbookexcerptflattening/"
   },
   "ThaiOrientAirlines": {
     "title": "Thai Orient Airlines / 泰国东方航空",
@@ -29155,6 +29223,14 @@
     "title": "Xiamen / 厦门",
     "url": "/wiki/entities/xiamen/"
   },
+  "XiangJiXuanZhi": {
+    "title": "《项脊轩志》",
+    "url": "/wiki/entities/xiangjixuanzhi/"
+  },
+  "XiangYu": {
+    "title": "项羽 / Xiang Yu",
+    "url": "/wiki/entities/xiangyu/"
+  },
   "Xiangling": {
     "title": "香菱 / Xiangling",
     "url": "/wiki/entities/xiangling/"
@@ -29675,6 +29751,10 @@
     "title": "Yoshua Bengio",
     "url": "/wiki/entities/yoshuabengio/"
   },
+  "YouBaochanShanJi": {
+    "title": "《游褒禅山记》",
+    "url": "/wiki/entities/youbaochanshanji/"
+  },
   "YouGov": {
     "title": "YouGov",
     "url": "/wiki/entities/yougov/"
@@ -29942,6 +30022,10 @@
   "ZhangLei": {
     "title": "Zhang Lei",
     "url": "/wiki/entities/zhanglei/"
+  },
+  "ZhangLiang": {
+    "title": "张良 / Zhang Liang",
+    "url": "/wiki/entities/zhangliang/"
   },
   "ZhangLu": {
     "title": "张璐 / Zhang Lu",

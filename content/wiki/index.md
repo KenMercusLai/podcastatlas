@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [164.古文的力量：请收下这份千年未变的深情、洞见和勇气](sources/164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576.md) — 蜜獾吃书 episode on 《古文的力量》, 杜若, 《项脊轩志》, 《游褒禅山记》, 《上枢密韩太尉书》, 《鸿门宴》, restrained classical emotion, failure and subjectivity, and power etiquette.
 - [163.教一只猞猁忘记动物园：西野的故事，比疯狂动物城2更精彩！](sources/163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179.md) — 蜜獾吃书 episode with 袁掌 on 《教一只猞猁忘记动物园》, 天线宝宝, 猞猁 rescue, anti-habituation care, release monitoring, conservation storytelling, and public-attention risk.
 - [162.屁书：闲聊“人间之气”！一天几次最健康？](sources/162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270.md) — 蜜獾吃书 episode on 《屁书》, flatulence as health signal, bodily taboo humor, civilized body discipline, fart performance history, and animal gas communication.
 - [161.攥着文凭失业，我怎么爬出这个陷阱](sources/161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202.md) — 蜜獾吃书 episode on high-education unemployment, 《污名陷阱》, unemployment stigma, opaque hiring, long-term unemployment penalty, weak ties, status descent pressure, and unemployed mutual aid.
@@ -718,6 +719,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [杜若 / Du Ruo](entities/DuRuo.md) — Author of 《古文的力量》 and QinZong's former Chinese teacher, connecting classroom classical prose to public reading.
+- [《古文的力量》](entities/GuwenDeLiliang.md) — Du Ruo book that reopens 17 familiar classical-prose texts through emotion, life situations, and humanistic judgment.
+- [归有光 / Gui Youguang](entities/GuiYouguang.md) — Writer of 《项脊轩志》 read through family rupture, youthful ambition, examination pressure, and restrained grief.
+- [《项脊轩志》](entities/XiangJiXuanZhi.md) — Classical prose work read through a small room, family memory, wife grief, deleted ambition allusions, and object-based emotion.
+- [《游褒禅山记》](entities/YouBaochanShanJi.md) — Wang Anshi prose text used to discuss failed ideals, "尽吾志", and subjectivity beyond external success.
+- [《上枢密韩太尉书》](entities/ShangShumiHanTaiweiShu.md) — Su Zhe's youthful letter to Han Qi, read through "养气", world-seeing, patronage, and political directness.
+- [韩琦 / Han Qi](entities/HanQi.md) — Northern Song official addressed by Su Zhe and associated with the exam opportunity that makes Su Zhe's youthful force visible.
+- [宋仁宗 / Song Renzong](entities/SongRenzong.md) — Emperor used in episode 164 as a political truth-telling case around invited criticism and tolerance.
+- [《鸿门宴》](entities/HongmenYan.md) — Power scene read through seating, titles, rhetoric, gift exchange, and the fragile balance among Xiang Yu, Liu Bang, Zhang Liang, Fan Zeng, and Fan Kuai.
+- [项羽 / Xiang Yu](entities/XiangYu.md) — Hongmen Banquet power-holder read through pride, recognition hunger, residual moral face, and historical force.
+- [张良 / Zhang Liang](entities/ZhangLiang.md) — Liu Bang strategist read through calibrated speech, gift handling, and power etiquette at Hongmen.
+- [范增 / Fan Zeng](entities/FanZeng.md) — Xiang Yu adviser whose correct danger judgment fails because he cannot move Xiang Yu psychologically.
+- [樊哙 / Fan Kuai](entities/FanKuai.md) — Hongmen Banquet actor whose apparent blunt courage works as status-recognizing rhetoric.
+- [司马迁 / Sima Qian](entities/SimaQian.md) — Historian used as both Hongmen narrative source and model for experience-cultivated prose force.
 - [《教一只猞猁忘记动物园》](entities/JiaoYiZhiSheliWangjiDongwuyuan.md) — 袁掌 nonfiction book using 天线宝宝's rescue, rehabilitation, release, and monitoring to explain wildlife care and public conservation.
 - [袁掌 / Yuan Zhang](entities/YuanZhang.md) — Wildlife-care worker, conservation communicator, and author discussing lynx rescue, release, and story-based public science.
 - [Xining Wildlife Park / 西宁野生动物园](entities/XiningWildlifePark.md) — Zoo and wildlife-rescue institution in the 天线宝宝 case, linking care labor, release preparation, and public attention.
@@ -4951,6 +4966,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Classical Prose Reading / 古文阅读](concepts/ClassicalProseReading.md) — Reading frame that reopens classical prose as scenes, reasoning, emotion, and power judgment rather than exam recitation.
+- [Restrained Emotion In Classical Writing / 古典文本中的克制情感](concepts/RestrainedEmotionInClassicalWriting.md) — Aesthetic frame where objects, spaces, silence, and understatement carry deep feeling.
+- [Textbook Excerpt Flattening / 教材删节造成的文本扁平化](concepts/TextbookExcerptFlattening.md) — Risk that school excerpts and deletions shift a work's emotional or intellectual center.
+- [Subjectivity Through Failure / 失败中的主体性](concepts/SubjectivityThroughFailure.md) — Agency frame where failed ideals can still matter when pursued with responsibility and "尽吾志".
+- [Power Etiquette Reading / 权力礼仪细读](concepts/PowerEtiquetteReading.md) — Method for reading seating, address, ritual, and gifts as evidence of real power relations.
+- [Moral Face Under Power Competition / 权力竞争中的要脸](concepts/MoralFaceUnderPowerCompetition.md) — Moral-political frame asking what is lost when shamelessness becomes the only winning rule.
 - [Wild Release Human Avoidance / 野放前人类回避训练](concepts/WildReleaseHumanAvoidance.md) — Release-preparation frame where caretakers preserve a rescued wild animal's distance from humans so it can survive outside captivity.
 - [Conservation Story Mobilization / 保护故事动员](concepts/ConservationStoryMobilization.md) — Public-science pattern where a concrete animal story routes emotion into conservation knowledge, support, and action.
 - [Flatulence As Health Signal / 排气作为健康信号](concepts/FlatulenceAsHealthSignal.md) — Frame for treating fart frequency, smell, diet, gut fermentation, and persistent symptoms as bodily clues rather than instant diagnoses.

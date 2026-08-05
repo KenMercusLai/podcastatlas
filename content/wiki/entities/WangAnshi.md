@@ -2,11 +2,13 @@
 title: "王安石 / Wang Anshi"
 type: entity
 tags: [official, reformer, song-dynasty, china]
-sources: [105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
-last_updated: 2026-07-24
+sources: [164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
+last_updated: 2026-08-06
 ---
 
 # 王安石 / Wang Anshi
+
+[[164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]] adds a prose-reading version through [[YouBaochanShanJi|《游褒禅山记》]]. The episode does not settle the full historical verdict on Wang Anshi; it uses the text to ask whether a failed political life can still preserve [[SubjectivityThroughFailure]] when the person has genuinely "尽吾志" under the limits of power.
 
 Wang Anshi is the reformer and political counterweight to [[SuShi|苏轼]] in [[105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]]. The episode introduces him as a talented, severe, personally unyielding official whose governing project responded to real [[NorthernSong|北宋]] fiscal and security problems.
 
@@ -18,3 +20,4 @@ The source's critique is less that reform was unnecessary than that reform could
 - [[WangAnshiReforms|王安石变法]] and [[SongFactionalPolitics|宋代党争]] - main policy and faction context.
 - [[SongShenzong|宋神宗]] - emperor associated with the reform program.
 - [[SimaGuang|司马光]] - old-party counterpole later criticized by Su Shi as well.
+- [[YouBaochanShanJi|《游褒禅山记》]] and [[SubjectivityThroughFailure]] - episode 164's prose-reading and failed-ideal extension.

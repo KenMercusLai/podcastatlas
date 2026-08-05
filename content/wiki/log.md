@@ -5732,3 +5732,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 164.古文的力量：请收下这份千年未变的深情、洞见和勇气
+
+Added source page for a 蜜獾吃书 episode on 杜若《古文的力量》, QinZong's teacher-student/editor connection, 《项脊轩志》, 《游褒禅山记》, 《上枢密韩太尉书》, 《鸿门宴》, restrained classical emotion, textbook excerpt flattening, subjectivity through failure, cultivated prose "气", power etiquette, and moral face under power competition. Created pages for 杜若, 《古文的力量》, 归有光, 《项脊轩志》, 《游褒禅山记》, 《上枢密韩太尉书》, 韩琦, 宋仁宗, 《鸿门宴》, 项羽, 张良, 范增, 樊哙, 司马迁, Classical Prose Reading, Restrained Emotion In Classical Writing, Textbook Excerpt Flattening, Subjectivity Through Failure, Power Etiquette Reading, and Moral Face Under Power Competition; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, 王安石, 苏辙, 刘邦, 邓老板, Classic Reading Complexity, Reading As Life Experience, Non-Instrumental Literary Reading, Editor As Cultural Project Manager, Political Truth-Telling, and Reading As Frame Training. No direct contradiction found; the source extends the wiki's classic-reading branch from novels, poetry, myth, and strange tales into school-famous classical prose, emphasizing how old prose can still train attention to emotion, agency, and power.
+
+## [2026-08-06] lint | Wiki lint check
+
+Ran health before lint; health scanned 8,093 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,093 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 8,093 pages; treat graph findings as stale until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because the default model is not provider-qualified. No `wiki/lint-report.md` file was saved.

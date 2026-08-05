@@ -2,11 +2,13 @@
 title: "Reading As Frame Training"
 type: concept
 tags: [reading, cognition, learning]
-sources: [sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]
-last_updated: 2026-07-24
+sources: [164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]
+last_updated: 2026-08-06
 ---
 
 # Reading As Frame Training
+
+[[164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]] adds a classical-prose version through [[GuwenDeLiliang|《古文的力量》]]. The episode treats [[ClassicalProseReading]] as frame training because readers learn to see emotional restraint in [[XiangJiXuanZhi|《项脊轩志》]], failed ideals in [[YouBaochanShanJi|《游褒禅山记》]], cultivated "气" in [[ShangShumiHanTaiweiShu|《上枢密韩太尉书》]], and power etiquette in [[HongmenYan|《鸿门宴》]].
 
 Reading as frame training is the source's claim that the value of reading is not mainly storing examples or extracting finished conclusions, but encountering and internalizing another person's way of seeing. In [[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]], the guest says reading a book means reading the author's `F`: the frame that selects a problem, interprets cases, and produces conclusions.
 
@@ -43,3 +45,4 @@ The same frame extends to people. Friends, books, authors, and conversations are
 - [[LiJigang]], [[AIAssistedReading]], [[FeedCuration]], and [[WetStateHumanAgency]] — E45's frame-collection and input-training extension.
 - [[OutputForcedInput]], [[BookCreatorWork]], and [[CultureLimited|《文化有限》]] - sp.06 public-output and reading-program extension.
 - [[ReadingAsLifeExperience]], [[ClassicReadingComplexity]], and [[NonInstrumentalLiteraryReading]] — literary-reading extension added by the Li Wuya episode.
+- [[ClassicalProseReading]], [[RestrainedEmotionInClassicalWriting]], [[SubjectivityThroughFailure]], and [[PowerEtiquetteReading]] - episode 164's classical-prose frame-training extension.
