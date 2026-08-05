@@ -2,11 +2,13 @@
 title: "What's Next｜科技早知道"
 type: entity
 tags: [podcast, media, ai, technology]
-sources: [google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0]
+sources: [tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0]
 last_updated: 2026-08-05
 ---
 
 # What's Next｜科技早知道
+
+[[tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77]] adds the show's Silicon Valley startup-infrastructure branch through [[TheResidency]]. The episode connects hacker houses, [[FounderLifestyleInfrastructure]], [[FounderNetworkArbitrage]], and [[EquityHackerHouseModel]] to the broader question of how AI-era founders find peers, capital, and legitimacy before ordinary fundraising rounds.
 
 [[huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5]] adds a short semiconductor bonus episode with [[ZhangHaijun]] on [[Huawei]]'s [[TauLaw]]. It links the show's existing AI infrastructure and memory coverage to [[CellToCellLogicStacking]], [[ElectronicDesignAutomation|EDA]], [[AdvancedPackaging]], and the question of when a system-time metric becomes proven chip engineering.
 
@@ -29,6 +31,7 @@ What's Next｜科技早知道 is a podcast/show context for several ingested sou
 [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds the show's AI infrastructure and memory-market branch. The episode connects [[AIStorageSupercycle]], [[HighBandwidthMemory]], [[AIDataCenterMemoryHierarchy]], [[MemoryWall]], [[AgentEraNANDStorage]], and [[MemoryCapacityLockIn]] to the practical question of whether AI demand has changed the storage cycle.
 
 ## Connections
+- [[TheResidency]], [[HackerHouseStartupInfrastructure]], [[FounderNetworkArbitrage]], [[EquityHackerHouseModel]], and [[BatchEquityPool]] — Silicon Valley hacker-house and early-startup-infrastructure branch added by S10E10.
 - [[SahilLavingia]], [[Gumroad]], [[Patreon]], [[MinimalistEntrepreneurship]], [[CustomerSupportAutomation]], and [[AIAsBusinessOperator]] — S10E14's creator-company and tiny-team AI operating branch.
 - [[YuYi]] and [[CangShifu]] — guests in the S10E18 OPC discussion.
 - [[AmazonWebServices]] and [[FromIdeaToFrontier]] — event and accelerator context for the episode.

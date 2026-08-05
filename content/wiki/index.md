@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」｜ S10E10](sources/tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77.md) — What's Next episode on Silicon Valley hacker houses, The Residency, Accelerate, Frontier Tower, HF0, AGI House, equity pools, founder network arbitrage, and hacker houses as early startup infrastructure.
 - [优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert](sources/youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2.md) — 42章经 episode with Albert on optimizing startup win rate over odds, AI interactive content limits, Hexfield-style model packaging, coding democratization, multimodal understanding, and operating to a theoretical standard.
 - [A whiplash year for electric vehicles](sources/tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128.md) — Marketplace Tech episode with Henry Epp on the U.S. EV tax-credit cliff, pull-forward sales, October/November decline, new-vs-used EV price gaps, Ford/GM pullbacks, China/Europe comparison, and the 2026 watchlist around cheaper models and charging.
 - [AI-powered chatbots sent some users into a spiral](sources/tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128.md) — Marketplace Tech episode with Kashmir Hill on AI psychosis, ChatGPT validation loops, long-conversation guardrail decay, OpenAI safety changes, teen escalation, and caution around reported mental-health harms.
@@ -690,6 +691,23 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [The Residency](entities/TheResidency.md) — Hacker-house organization combining selected founder housing, meals, community, investor access, and batch equity pooling.
+- [Accelerate (Hacker House)](entities/AccelerateHackerHouse.md) — Rent-and-community hacker-house project using housing, playful events, a larger Hacker Hotel, and talent services rather than an equity-first model.
+- [Frontier Tower](entities/FrontierTower.md) — Market Street vertical-tech-village experiment clustering AI, crypto, robotics, longevity, and other startup communities in a large San Francisco building.
+- [HF0](entities/HF0.md) — Low-profile equity-driven hacker-house program described as offering investment for founder-company equity.
+- [AGI House](entities/AGIHouse.md) — AI-founder-focused hacker house with fund-like investment ambitions and source-noted brand/governance tension after a 2023 split.
+- [Nick Link](entities/NickLink.md) — The Residency co-founder whose source role connects the original athlete-house idea to founder-oriented hacker-house infrastructure.
+- [Peter D'Ambrosio](entities/PeterDAmbrosio.md) — The Residency co-founder associated with operations, brand-quality control, and teaching others to run hacker houses.
+- [Sebastian (The Residency)](entities/SebastianTheResidency.md) — The Residency operator/interviewee explaining hacker-house categories, network arbitrage, costs, and portfolio claims.
+- [Braden (The Residency founder)](entities/BradenResidencyFounder.md) — Source-scoped resident founder whose case explains peer density, silent collaboration, MIT/OpenAI background, and lifestyle infrastructure.
+- [Arthur (The Residency founder)](entities/ArthurResidencyFounder.md) — Source-scoped Ukrainian AI founder using The Residency for concentrated fundraising and Bay Area network access.
+- [Adrian (The Residency founder)](entities/AdrianResidencyFounder.md) — Source-scoped fintech founder using The Residency to compress fundraising while operating as a solo founder.
+- [Packy San Diego](entities/PackySanDiego.md) — Accelerate co-founder representing the rent-and-community side of the hacker-house category.
+- [Danny Morgan](entities/DannyMorgan.md) — Accelerate co-founder connected to hacker-house revenue through rent, hiring, and talent-service support.
+- [Josh Constantine](entities/JoshConstantine.md) — Former TechCrunch editor and SignalFire VC named by the source as part of The Residency's media/investor access layer.
+- [SignalFire](entities/SignalFire.md) — Venture-capital firm mentioned through Josh Constantine in the hacker-house investor-access context.
+- [500 Startups](entities/FiveHundredStartups.md) — Accelerator/investor comparison point for how hacker houses may reach founders before seed-stage programs.
+- [San Francisco Bay Area](entities/SanFranciscoBayArea.md) — Startup-network place node for the episode's Bay Area density, founder network arbitrage, and hacker-house context.
 - [Albert](entities/Albert.md) — Consecutive entrepreneur and 42章经 guest connecting AI product exploration, win-rate startup strategy, coding democratization, and theoretical operating standards.
 - [Hexfield](entities/Hexfield.md) — AI image/video product used by Albert to explain model capability packaging, templates, role consistency, and user-perceived delivery.
 - [Lovable](entities/Lovable.md) — AI coding/building tool referenced by Albert as a designer-oriented container for coding democratization.
@@ -4745,6 +4763,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Hacker House Startup Infrastructure](concepts/HackerHouseStartupInfrastructure.md) — Live-work founder spaces becoming part of startup selection, community, fundraising, and early value capture.
+- [Equity Hacker House Model](concepts/EquityHackerHouseModel.md) — Hacker-house model where housing, food, community, and investor access are exchanged for startup equity.
+- [Batch Equity Pool](concepts/BatchEquityPool.md) — The Residency-style structure pooling cohort company equity and selling investors exposure to the batch.
+- [Founder Network Arbitrage](concepts/FounderNetworkArbitrage.md) — Fundraising and legitimacy jump that non-local founders may gain by entering the Bay Area startup network through a curated house.
+- [Founder Lifestyle Infrastructure](concepts/FounderLifestyleInfrastructure.md) — Food, housing, cleaning, scheduling, and peer proximity treated as operational infrastructure for startup focus.
 - [Win-Rate Startup Strategy / 优化胜率](concepts/WinRateStartupStrategy.md) — Founder-method frame for choosing real problems, ready-enough technology, accumulated advantages, and controllable execution before relying on large upside.
 - [Odds-Driven Startup Narrative / 优化赔率](concepts/OddsDrivenStartupNarrative.md) — Startup storytelling pattern where the possible payoff of an AI platform or network-effect company can outrun user evidence and execution control.
 - [Coding Democratization / Coding 平权](concepts/CodingDemocratization.md) — AI coding shift where code becomes a broader medium for programmers, designers, product builders, and teams to turn intent into working software.

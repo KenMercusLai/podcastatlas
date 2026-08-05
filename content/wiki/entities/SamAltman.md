@@ -2,11 +2,13 @@
 title: "Sam Altman"
 type: entity
 tags: [person, startups, venture-capital]
-sources: [tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-replit-v2-tsr-s3-replit-v2, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
-last_updated: 2026-08-04
+sources: [tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77, tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-replit-v2-tsr-s3-replit-v2, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+last_updated: 2026-08-05
 ---
 
 # Sam Altman
+
+[[tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77]] adds a small advisory role around [[TheResidency]]. The source says [[NickLink]] and [[PeterDAmbrosio]] first imagined a house for basketball athletes, but Altman suggested aiming it at founders and students; in the wiki, that links his YC-era founder-network role to [[HackerHouseStartupInfrastructure]] and [[BuilderCenteredInstitutions]].
 
 Sam Altman appears in [[socialradarspod-stevehuffman-final]] through [[Reddit]]'s post-spinout funding and 2015 leadership crisis. [[SteveHuffman]] says Reddit raised a Series B led by Altman with participation from other major investors, and that Altman later spoke with him about returning to Reddit when the company was in crisis.
 
@@ -29,6 +31,7 @@ In this source, Altman functions as part of the [[YCombinator]] and startup-inve
 [[tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio]] adds [[PaulGraham]] and the hosts' account of Altman's YC leadership transition. Graham says Altman was the obvious successor because he was already a first-batch class-president-like fundraising node, but later thinks he should have required Altman to focus only on [[YCombinator]]. The source's key correction is that YC did not fire Altman in this account; it wanted him to choose between YC and [[OpenAI]], and Altman chose OpenAI.
 
 ## Connections
+- [[TheResidency]], [[NickLink]], [[PeterDAmbrosio]], [[HackerHouseStartupInfrastructure]], and [[BuilderCenteredInstitutions]] - advisory context added by the What's Next hacker-house episode.
 - [[JaredFriedman]], [[Scribd]], [[YCombinator]], and [[YCInternalSoftware]] - Jared's partner path and later internal-software branch added by The Social Radars.
 - [[Reddit]], [[SteveHuffman]], and [[YCombinator]] - funding and return context.
 - [[SummerFoundersProgram]] and [[SequoiaCapital]] - first-batch validation context added by the Graham episode.

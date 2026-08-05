@@ -5504,3 +5504,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-05] lint | Wiki health check
 
 Ran lint after health passed. Health scanned 7,734 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-05] ingest | 探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」｜ S10E10
+
+Added source page for a What's Next｜科技早知道 episode on Silicon Valley hacker houses and The Residency. Created pages for The Residency, Accelerate, Frontier Tower, HF0, AGI House, Nick Link, Peter D'Ambrosio, Sebastian, Braden, Arthur, Adrian, Packy San Diego, Danny Morgan, Josh Constantine, SignalFire, 500 Startups, San Francisco Bay Area, Hacker House Startup Infrastructure, Equity Hacker House Model, Batch Equity Pool, Founder Network Arbitrage, and Founder Lifestyle Infrastructure; updated overview, index, What's Next｜科技早知道, Y Combinator, Sam Altman, TechCrunch, Startup Community Infrastructure, Startup Accelerator Batch Selection, Startup Legitimacy Transfer, Startup Pitch Compression, and Builder-Centered Institutions. No direct contradiction found; the source extends the accelerator/community branch by showing residential hacker houses moving selection, legitimacy, fundraising, and equity capture earlier in the startup pipeline.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 7,757 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.

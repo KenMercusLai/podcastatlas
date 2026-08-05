@@ -2,13 +2,15 @@
 title: "Startup Community Infrastructure"
 type: concept
 tags: [startups, community, software, venture-capital]
-sources: [tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarspod-emmettshear-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-garrytan-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
-last_updated: 2026-08-04
+sources: [tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77, tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarspod-emmettshear-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-garrytan-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-08-05
 ---
 
 # Startup Community Infrastructure
 
 Startup community infrastructure is the set of software, rituals, lists, events, and trust mechanisms that let founders learn from one another as a startup network grows. [[socialradarspod-garrytan-final]] adds the concept through [[StartupSchool]], [[YCombinator]] batches, dinner speakers, founder email lists, and [[Bookface]].
+
+[[tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77]] adds the residential version through [[TheResidency]], [[AccelerateHackerHouse|Accelerate]], [[FrontierTower]], [[HF0]], and [[AGIHouse]]. In this source, community infrastructure is not only a forum, dinner, or batch list; it can include bedrooms, meals, cleaning, demo nights, investor dinners, and [[FounderLifestyleInfrastructure]] designed to make peer learning and fundraising denser.
 
 [[tsr-s4-ronconway-v4-tsr-s4-ronconway-v4]] adds a pre-YC and pre-social-media version through [[RonConway]]'s [[StartupInformationLayer]]. Conway says early internet investors found companies through analysts, journalists, conferences, newsletters, trade publications, and platform-company relationships. This is not batch community yet, but it is still infrastructure: it helps founders, investors, and ideas find one another before a formal startup institution exists.
 
@@ -44,6 +46,7 @@ The source's clearest case is Bookface. [[GarryTan]] says YC needed it because l
 - Community can also create honest comparison pressure: seeing stronger founders can force a team to abandon a weak idea sooner.
 - As an accelerator scales, internal software becomes part of community infrastructure because human memory alone cannot preserve identity, application history, red flags, and founder-to-founder help.
 - Founder community can motivate through status pressure as well as support; seeing peers ship can make weak progress harder to rationalize.
+- Residential community can be infrastructure when housing, food, rituals, and shared work rhythms reduce coordination cost and make founder peer pressure ambient.
 
 ## Connections
 - [[JaredFriedman]], [[Scribd]], [[Wholist]], [[YCInternalSoftware]], and [[Bookface]] - Summer 2006 community and later internal-software branch added by the Jared Friedman episode.
@@ -57,3 +60,4 @@ The source's clearest case is Bookface. [[GarryTan]] says YC needed it because l
 - [[BuilderCenteredInstitutions]] and [[FounderInvestorLearning]] - institutional concepts connected to community design.
 - [[StartupAcceleratorBatchSelection]] - batch structure that creates the scaling problem.
 - [[StartupCommunityForumBurden]] and [[StartupEssayDistribution]] - open community cost and lower-governance distribution layer.
+- [[TheResidency]], [[AccelerateHackerHouse|Accelerate]], [[FrontierTower]], [[HF0]], [[AGIHouse]], [[HackerHouseStartupInfrastructure]], and [[FounderLifestyleInfrastructure]] - residential founder-community branch added by the What's Next hacker-house episode.

@@ -2,13 +2,15 @@
 title: "Startup Accelerator Batch Selection"
 type: concept
 tags: [startup, venture-capital, selection]
-sources: [tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarspod-emmettshear-v2, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, tsr-s2-trevorblackwell-v2, socialradarspod-brianarmstrong-final]
-last_updated: 2026-08-04
+sources: [tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77, tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarspod-emmettshear-v2, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, tsr-s2-trevorblackwell-v2, socialradarspod-brianarmstrong-final]
+last_updated: 2026-08-05
 ---
 
 # Startup Accelerator Batch Selection
 
 Startup accelerator batch selection is the application and interview process described in [[tsr-s2-trevorblackwell-v2]] for the first [[YCombinator]] Summer Founders Program. The early process was manual: applications arrived by email, [[TrevorBlackwell]] wrote software to reformat them, the team printed more than 300 applications, scored them, and ran longer interviews than YC later used.
+
+[[tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77]] adds a hacker-house variant through [[TheResidency]]. The source says each batch can draw roughly 3,000 applications, favors founders with strong traction or unusually strong prior proof, and uses selection not only to invest but to protect the quality of a residential peer group and [[BatchEquityPool]].
 
 [[socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll]] adds [[PaulGraham]]'s explanation of the batch model. The [[SummerFoundersProgram]] began as a way for the YC founders to learn angel investing by funding many initially throwaway-looking startups at once, and "batch" came from programming rather than venture-capital convention.
 
@@ -48,6 +50,7 @@ The source's main lesson is that batch selection mixes process design with judgm
 - Batch selection creates peer infrastructure as well as investment decisions; the accepted founders may help each other survive emotionally and operationally before their products work.
 - First-batch selection could convert a dorm-room project into a company because the program changed both founder belief and practical next steps.
 - Early selection can reward founders who move immediately on a narrow opening, even when the first product and the institution itself are both still rough.
+- Residential batch selection must evaluate both company promise and community fit because the selected founders will live, work, pitch, and create peer standards around one another.
 
 ## Connections
 - [[YCombinator]], [[SummerFoundersProgram]], [[TrevorBlackwell]], [[PaulGraham]], [[RobertMorris]], and [[JessicaLivingston]] - people, first program, and institution from the source.
@@ -62,3 +65,4 @@ The source's main lesson is that batch selection mixes process design with judgm
 - [[BrianArmstrong]], [[Coinbase]], [[StartupHighBetaBet]], [[RegulatedCryptoTrustStrategy]], and [[EarlyFintechFraudControls]] - high-beta crypto-fintech selection lesson added by the Armstrong episode.
 - [[EmmettShear]], [[JustinKan]], [[Kiko]], [[JustinTV|Justin.tv]], and [[Twitch]] - first-batch demo, weak-idea, and peer-support case added by the Shear and Justin Kan episodes.
 - [[SamAltman]], [[Looped]], [[BlakeRoss]], [[FounderRiskCalibration]], and [[YCombinator]] - first-batch interview and life-pivot case added by the Sam Altman episode.
+- [[TheResidency]], [[BatchEquityPool]], [[HackerHouseStartupInfrastructure]], [[FounderNetworkArbitrage]], and [[EquityHackerHouseModel]] - residential batch-selection variant added by the What's Next episode.
