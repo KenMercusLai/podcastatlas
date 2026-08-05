@@ -2,8 +2,8 @@
 title: "斯坦尼斯拉夫·莱姆 / Stanislaw Lem"
 type: entity
 tags: [author, science-fiction, satire]
-sources: [45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112]
-last_updated: 2026-07-14
+sources: [36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112]
+last_updated: 2026-08-06
 ---
 
 # 斯坦尼斯拉夫·莱姆 / Stanislaw Lem
@@ -13,6 +13,8 @@ last_updated: 2026-07-14
 The source emphasizes Lem's interest in cybernetics and in the relation between humans and machines. His machines are not only futuristic objects; they are devices for testing command, truth, creation, knowledge, war, vanity, and the limits of human self-description.
 
 The episode also connects Lem's political sensibility to the "2 + 2 = 7" story and to his experience under absurd ideological pressure. That claim is kept as the episode's interpretive reading: Lem's machine fables can be read as political allegory without reducing them to one historical key.
+
+[[36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522]] mentions Lem as one of the major figures whose recognition helps place [[UrsulaKLeGuin|Ursula K. Le Guin / 厄休拉·勒古恩]] in the science-fiction canon. The connection is reception-context rather than a claim that Lem and Le Guin use the same method: Lem's wiki branch centers machine satire, while Le Guin's branch centers [[AnthropologicalScienceFictionWorldbuilding]] and gender estrangement.
 
 ## Connections
 - [[TheCyberiad|《机器人大师》 / The Cyberiad]] - the work at the center of the episode.

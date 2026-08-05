@@ -5684,3 +5684,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint after health passed. Deterministic and graph-aware checks completed; semantic lint failed because the default LiteLLM model name is missing a provider prefix. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes while lint scanned 8,006 pages, so graph findings are advisory until the graph is rebuilt. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-06] ingest | 36.黑暗的左手：流放与爱的未来往事
+
+Added source page for a 蜜獾吃书 episode on Ursula K. Le Guin's 《黑暗的左手》, Gethen's ambisexual society, Genly Ai and Estraven, Ekumen diplomacy, shifgrethor, Karhide/Orgoreyn politics, nationalism as hatred, correct questioning, and intimacy beyond gender scripts. Created pages for Ursula K. Le Guin, 《黑暗的左手》, 海恩宇宙, 《地海传奇》, 格森星, Genly Ai, Estraven, Karhide, Orgoreyn, Ekumen, Ambisexual Worldbuilding, Anthropological Science Fiction Worldbuilding, Shifgrethor Political Face, Correct Question Epistemology, Patriotism As Hatred, and Intimacy Beyond Gender Script; updated overview, index, 蜜獾吃书, 秦总, Science Fiction Realism, Mythic Science Fiction Style, Fictional Historiography, Fieldwork As Knowledge Method, Rational Humility, Gender Power And Uncertainty Cost, Non-Instrumental Literary Reading, Classic Reading Complexity, Mythic Source Layering, Tolkien, George R. R. Martin, Mary Shelley, Stanislaw Lem, and Harold Bloom. No direct contradiction found; the source extends the wiki's speculative-fiction branch from machine, dimensional, SETI, and historical-fantasy cases into Le Guin's anthropological and gender-estranging science fiction.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

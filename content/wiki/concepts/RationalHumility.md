@@ -2,11 +2,13 @@
 title: "Rational Humility"
 type: concept
 tags: [reasoning, science, evidence, epistemology]
-sources: [24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 174-du-dikaer-shi-jian-dashi-966856702, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
-last_updated: 2026-08-05
+sources: [36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 174-du-dikaer-shi-jian-dashi-966856702, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+last_updated: 2026-08-06
 ---
 
 # Rational Humility
+
+[[36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522]] adds a question-design version through [[CorrectQuestionEpistemology]]. The source's Handdara oracle scene and the king's bad question about traitors both show that a true answer can still fail when the question has already smuggled in a false frame; humility therefore begins before answer-seeking, at the level of what one is willing to ask.
 
 [[24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441]] adds a legal-thriller version through [[DefendingJacob|《捍卫雅各布》 / Defending Jacob]]. The source asks listeners to hold several partial truths at once: evidence against [[JacobBarber|Jacob Barber]] is frightening, [[AndyBarber|Andy Barber]]'s love is understandable, [[LaurieBarber|Laurie Barber]]'s fear is not irrational, and none of that grants a god's-eye certainty about what happened.
 

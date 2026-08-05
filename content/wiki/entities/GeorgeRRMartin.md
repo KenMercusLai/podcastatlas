@@ -2,7 +2,7 @@
 title: "George R. R. Martin / 乔治·R·R·马丁"
 type: entity
 tags: [author, screenwriter, fantasy, science-fiction]
-sources: [sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106, 31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]
+sources: [36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106, 31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]
 last_updated: 2026-08-06
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-06
 George R. R. Martin / 乔治·R·R·马丁 appears in [[sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]] through his friendship with [[RogerZelazny|Roger Zelazny]] and his screenplay role in the television adaptation of [[LastDefenderOfCamelot|《卡美洛的最后守护者》]]. The episode uses Martin mainly to sharpen Zelazny's author image: generous, friendly, low-key, and respected by later writers.
 
 [[31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]] makes Martin central through [[ASongOfIceAndFire|《冰与火之歌》 / A Song of Ice and Fire]]. The episode reads his fantasy method as [[HistoricalFantasySourceLayering]]: the [[WarsOfTheRoses|Wars of the Roses / 玫瑰战争]], Norman conquest, Rome, Greece, Celtic and Norse myth, medieval religion, and unreliable records are recombined into a world that feels historical without claiming to be history.
+
+[[36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522]] mentions Martin as part of [[UrsulaKLeGuin|Le Guin]]'s later reception. In this source, Martin helps mark Le Guin's stature among later speculative writers, while the stronger wiki connection remains methodological: Le Guin's [[AnthropologicalScienceFictionWorldbuilding]] and Martin's [[HistoricalFantasySourceLayering]] are two different ways a fictional world can feel larger than its plot.
 
 ## Connections
 - [[RogerZelazny|Roger Zelazny / 罗杰·泽拉兹尼]] - friend and influence context in the source.

@@ -2,11 +2,13 @@
 title: "Gender Power And Uncertainty Cost"
 type: concept
 tags: [gender, power, family, fairness, social-design]
-sources: [178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368]
-last_updated: 2026-07-15
+sources: [36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368]
+last_updated: 2026-08-06
 ---
 
 # Gender Power And Uncertainty Cost
+
+[[36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522]] adds a speculative contrast through [[AmbisexualWorldbuilding]]. [[TheLeftHandOfDarkness|《黑暗的左手》]] does not solve gender politics by inventing [[Gethen|格森星 / Gethen]], but it makes power and uncertainty easier to see by removing fixed protector/protected and male/female assumptions from ordinary social design.
 
 Gender power and uncertainty cost is the closing frame of [[178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368]]. After moving through [[MotherRight|《母权论》 / Mother Right]], kinship, myth, marriage, monogamy, animal societies, and modern family pressure, the episode argues that the real issue is not only which sex holds a title, but who bears uncertainty and who controls resources.
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [36.黑暗的左手：流放与爱的未来往事](sources/36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522.md) — 蜜獾吃书 episode on Ursula K. Le Guin's The Left Hand of Darkness, Gethen's ambisexual society, Genly Ai and Estraven, Ekumen diplomacy, shifgrethor, nationalism as hatred, correct questioning, and intimacy beyond gender scripts.
 - [35.天真的人类学家：做田野会上瘾的！](sources/35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624.md) — 蜜獾吃书 episode on Nigel Barley's The Innocent Anthropologist, Dowayo fieldwork in Cameroon, fieldwork romance deflation, participant-observer entanglement, missionary support, development unintended consequences, and visual/linguistic translation friction.
 - [34.猫咪秘史：呵，愚蠢又可爱的人类](sources/34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607.md) — 蜜獾吃书 episode on cat-centered civilization history, cat domestication, Egyptian cat worship, cross-cultural cat mythology, European demonization, ship cats, war cats, and Felicette in the space age.
 - [33.人间失格：胆小鬼的壮烈献祭](sources/33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624.md) — 蜜獾吃书 episode on 太宰治《人间失格》, 大庭叶藏, comic masking, failed trust, private-novel self-exposure, coerced normality, and the source-scoped "cowardly sacrifice" reading.
@@ -712,6 +713,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ursula K. Le Guin / 厄休拉·勒古恩](entities/UrsulaKLeGuin.md) — Science-fiction and fantasy writer read through 《黑暗的左手》 as an anthropological, mythic, gender-estranging, and politically open-ended storyteller.
+- [《黑暗的左手》 / The Left Hand of Darkness](entities/TheLeftHandOfDarkness.md) — Le Guin novel read by episode 36 through Gethen, Genly Ai, Estraven, ambisexual worldbuilding, nationalism, exile, and intimate trust.
+- [海恩宇宙 / Hainish Cycle](entities/HainishCycle.md) — Le Guin science-fiction setting whose report-like contact stories frame the Ekumen and Gethen branch.
+- [《地海传奇》 / Earthsea](entities/Earthsea.md) — Le Guin fantasy work used by episode 36 to characterize her hard-to-adapt atmosphere, names, moral rhythm, and larger-world feeling.
+- [格森星 / Gethen](entities/Gethen.md) — Ambisexual winter planet where Karhide, Orgoreyn, and Ekumen first-contact diplomacy make gender, nation, and trust visible as social systems.
+- [金利·艾 / Genly Ai](entities/GenlyAi.md) — Ekumen envoy whose mission on Gethen forces him to revise assumptions about gender, politics, and Estraven's loyalty.
+- [伊斯特拉凡 / Estraven](entities/Estraven.md) — Exiled Karhide politician whose rescue of Genly Ai and service to a wider human future make treason, loyalty, and love unstable categories.
+- [卡海德 / Karhide](entities/Karhide.md) — Gethenian polity read through court indirection, shifgrethor, wounded royal pride, border conflict, and patriotic enemy-making.
+- [欧格瑞恩 / Orgoreyn](entities/Orgoreyn.md) — Gethenian state whose rational public order hides censorship, secret-police pressure, forced labor, and coercive administration.
+- [艾库曼 / Ekumen](entities/Ekumen.md) — Interstellar alliance whose one-envoy diplomacy in 《黑暗的左手》 imagines contact through truth, patience, and recognition instead of force.
 - [《天真的人类学家》 / The Innocent Anthropologist](entities/TheInnocentAnthropologist.md) — Nigel Barley fieldwork book used by episode 35 to demystify anthropology through everyday friction, dependency, humor, and development ambiguity.
 - [Nigel Barley / 奈杰尔·巴利](entities/NigelBarley.md) — British anthropologist whose Cameroon/Dowayo fieldwork anchors the episode's fieldwork-demystification branch.
 - [Dowayo People / 多瓦优人](entities/DowayoPeople.md) — Cameroon group discussed through Barley's source-scoped fieldwork account of ritual, gender, language, state paperwork, and development projects.
@@ -4917,6 +4928,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Ambisexual Worldbuilding / 双性世界建构](concepts/AmbisexualWorldbuilding.md) — Le Guin/Gethen thought experiment where absence of fixed male/female sorting makes hidden assumptions about gender, protection, weakness, desire, and power visible.
+- [Anthropological Science Fiction Worldbuilding / 人类学式科幻世界建构](concepts/AnthropologicalScienceFictionWorldbuilding.md) — Method where speculative worlds become credible through myths, field-note texture, local categories, politics, religion, kinship, and outsider misunderstanding.
+- [Shifgrethor Political Face / 西弗格雷瑟式政治面子](concepts/ShifgrethorPoliticalFace.md) — Gethenian honor/face grammar linking reputation, pride, authority, indirect speech, court politics, and the risk that concession becomes betrayal.
+- [Correct Question Epistemology / 正确提问的认识论](concepts/CorrectQuestionEpistemology.md) — Reasoning frame from 《黑暗的左手》 where a true answer is useless if the question has already misframed the problem.
+- [Patriotism As Hatred / 以仇恨运作的爱国主义](concepts/PatriotismAsHatred.md) — Political mechanism where love-of-country language works mainly by producing enemy hatred, border escalation, and suspicion of compromise.
+- [Intimacy Beyond Gender Script / 超越性别脚本的亲密](concepts/IntimacyBeyondGenderScript.md) — Reading of Genly Ai and Estraven's ice-crossing bond as love and trust that resist ordinary romance or gender-role templates.
 - [Fieldwork Romance Deflation / 田野浪漫去魅](concepts/FieldworkRomanceDeflation.md) — Anthropology-method corrective that values field evidence while puncturing heroic, pure, or exoticized ideas of fieldwork and field sites.
 - [Ethnographic Everyday Friction / 民族志日常摩擦](concepts/EthnographicEverydayFriction.md) — Fieldwork logistics and bodily vulnerability as part of how ethnographic evidence is actually produced.
 - [Participant-Observer Entanglement / 参与观察者纠缠](concepts/ParticipantObserverEntanglement.md) — Anthropology problem where the researcher's presence, help, dependence, money, body, and local classification become part of the field.

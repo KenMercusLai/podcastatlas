@@ -2,11 +2,13 @@
 title: "Fictional Historiography"
 type: concept
 tags: [fiction, history, worldbuilding, memory]
-sources: [31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]
+sources: [36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]
 last_updated: 2026-08-06
 ---
 
 # Fictional Historiography
+
+[[36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522]] adds a fictional-ethnographic version through [[UrsulaKLeGuin|Le Guin]]'s [[TheLeftHandOfDarkness|《黑暗的左手》]]. The source emphasizes that the novel opens like a report on [[Gethen|格森星 / Gethen]] and keeps folding in legends, religious practices, local political vocabulary, and disputed reputations. The effect is less a royal chronicle than an anthropological dossier where myths and institutions explain one another.
 
 Fictional historiography is the way an invented world represents its own history as recorded, misremembered, mythologized, or politically distorted. [[31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]] adds the concept through [[ASongOfIceAndFire|《冰与火之歌》 / A Song of Ice and Fire]], especially the episode's discussion of Samwell Tarly finding that Night's Watch histories do not match the neat stories people repeat.
 

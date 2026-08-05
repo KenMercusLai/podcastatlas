@@ -2,7 +2,7 @@
 title: "J.R.R. Tolkien / 托尔金"
 type: entity
 tags: [writer, fantasy, philology, biography]
-sources: [ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]
+sources: [36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]
 last_updated: 2026-08-06
 ---
 
@@ -21,6 +21,8 @@ Tolkien also extends [[AuthorMythDeflation]] gently. The episode keeps his anti-
 [[ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw]] adds a [[NorseMythology]] and [[PoeticEdda|Edda]] layer. The source connects Tolkien's fantasy world to [[Ragnarok|Ragnarok]], dwarves, elves, northern fate, and [[NorthernCourage|northern courage]], where action matters even when the end is known.
 
 [[31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]] uses Tolkien as a comparison point for [[ASongOfIceAndFire|《冰与火之歌》 / A Song of Ice and Fire]]: both worlds feel larger than their current plot because they have deep prehistory, but the Martin episode focuses more on mixed political history, unreliable in-world records, and [[HistoricalFantasySourceLayering]] than on Tolkien's philological myth-making.
+
+[[36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522]] uses Tolkien as a comparison point for [[UrsulaKLeGuin|Ursula K. Le Guin / 厄休拉·勒古恩]]. The episode says Le Guin, like Tolkien, can build a vast world while showing only part of it, but the Le Guin branch emphasizes [[AnthropologicalScienceFictionWorldbuilding]], gender estrangement, and mythic contact politics rather than Tolkien's English myth-making project.
 
 ## Connections
 - [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] - source episode.

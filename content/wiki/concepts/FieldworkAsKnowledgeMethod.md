@@ -2,11 +2,13 @@
 title: "Fieldwork As Knowledge Method / 田野作为知识方法"
 type: concept
 tags: [method, fieldwork, evidence, scholarship]
-sources: [35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
+sources: [36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
 last_updated: 2026-08-06
 ---
 
 # Fieldwork As Knowledge Method / 田野作为知识方法
+
+[[36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522]] adds a fictional extension through [[UrsulaKLeGuin|Le Guin]]'s [[TheLeftHandOfDarkness|《黑暗的左手》]]. [[AnthropologicalScienceFictionWorldbuilding]] turns fieldwork method into narrative form: [[GenlyAi|金利·艾 / Genly Ai]] learns [[Gethen|格森星 / Gethen]] through travel, failed trust, local categories, myth, bodily danger, and dependence on [[Estraven|伊斯特拉凡 / Estraven]] rather than through clean exposition.
 
 Fieldwork as knowledge method is the central methodological claim of [[19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]]. The episode argues that modern Chinese scholarship was built by leaving the study and making mines, mountains, temples, ancient sites, buildings, and dialect regions into places of evidence.
 

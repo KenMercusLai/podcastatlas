@@ -2,8 +2,8 @@
 title: "Mary Shelley / 玛丽·雪莱"
 type: entity
 tags: [writer, gothic, science-fiction, biography]
-sources: [141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589]
-last_updated: 2026-07-24
+sources: [36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589]
+last_updated: 2026-08-06
 ---
 
 # Mary Shelley / 玛丽·雪莱
@@ -17,6 +17,8 @@ Mary Shelley appears in [[82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589]
 In this source, Shelley matters as a reminder that literary history can emerge from social scenes, weather, games, and mixed company rather than from isolated genius alone. The episode does not offer a close reading of Frankenstein, but it uses the origin anecdote to connect Romantic celebrity, gothic invention, and later genre memory.
 
 [[68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]] adds the science-history side of that memory. The episode links [[Frankenstein]] to galvanic and electrical experiments, especially the cultural atmosphere around frogs, animal parts, and body animation. Shelley is therefore connected not only to literary gossip but also to [[ScientificPublicSpectacle]] and [[ExperimentalScienceEthics]].
+
+[[36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522]] invokes Shelley at the start of the [[UrsulaKLeGuin|Le Guin]] discussion as a counterexample to the idea that science fiction is naturally male, cold, or purely hard-technical. In this source, Shelley helps make women's science-fiction history visible before the episode turns to Le Guin's [[AmbisexualWorldbuilding]] and anthropological method.
 
 ## Connections
 - [[141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931]] - source episode centered on Shelley, Frankenstein, and the novel's scientific age.
