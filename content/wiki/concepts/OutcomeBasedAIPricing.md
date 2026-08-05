@@ -2,8 +2,8 @@
 title: "Outcome-Based AI Pricing"
 type: concept
 tags: [ai, pricing, enterprise-ai]
-sources: [tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months]
-last_updated: 2026-07-23
+sources: [tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
+last_updated: 2026-08-05
 ---
 
 # Outcome-Based AI Pricing
@@ -26,6 +26,8 @@ Outcome-based AI pricing is the commercial pattern where AI work is sold around 
 
 [[e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70]] adds [[Axio]]'s hybrid pricing case. [[ZhangKuo]] says agent tools and partner subagents can be token or usage based, while the marketplace side can still earn from performance advertising, services, payment, guarantees, logistics, and small take rates when the agent drives real transactions.
 
+[[women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]] adds the salary-like [[Junior]] case. [[Kuse]] considered charging per AI employee, such as $2,000 or $5,000 per month plus excess token credits, because the buyer reference shifts from software access to the labor budget for a role-bearing worker.
+
 ## Key Claims
 - The source gives three pricing patterns: charge against standard-employee-equivalent output, charge by work volume or hours, or charge a service fee based on transaction scale.
 - Outcome pricing lowers the buyer's upfront risk because the customer can stop if results are poor rather than absorbing a large custom-project sunk cost.
@@ -40,6 +42,7 @@ Outcome-based AI pricing is the commercial pattern where AI work is sold around 
 - Responna adds that outcome pricing can reveal budget that was invisible when the product was framed as software access.
 - Marketplace Tech adds that agent-heavy workplaces can break per-seat SaaS math even when the buyer still relies on enterprise software.
 - E231 adds that token consumption is a weak success metric by itself; B2B agents should be judged by useful designs, accepted tasks, completed transactions, retention, and value per token.
+- Junior adds that "salary" pricing can make sense when the AI unit has role identity, work accounts, responsibilities, and ongoing company context, but the vendor still has to manage variable token exposure.
 
 ## Connections
 - [[DanielNewman]], [[MarketplaceTech]], [[DigitalEmployees]], and [[AINativeSaaSThreat]] — agent-heavy SaaS pricing pressure added by the February 18, 2026 episode.
@@ -56,3 +59,4 @@ Outcome-based AI pricing is the commercial pattern where AI work is sold around 
 - [[Responna]], [[AIVisibilityService]], and [[ResultAsAService]] — Responna's done-for-you visibility pricing case.
 - [[SaaSTrustMoat]] and [[AIGovernanceAndCompliance]] — constraints that make pricing change easier than full SaaS replacement in enterprise settings.
 - [[Axio]], [[B2BToA2A]], [[AgenticB2BSourcing]], [[AgenticCommerce]], and [[AIInferenceCostStructure]] — hybrid usage, marketplace, and value-per-token case added by E231.
+- [[Kuse]], [[Junior]], [[DigitalEmployees]], and [[AIInferenceCostStructure]] — salary-like AI employee pricing case added by the Yuhao source.

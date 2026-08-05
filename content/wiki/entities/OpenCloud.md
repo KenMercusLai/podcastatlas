@@ -2,8 +2,8 @@
 title: "Open Cloud"
 type: entity
 tags: [agent, ecosystem, china]
-sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
-last_updated: 2026-07-23
+sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
+last_updated: 2026-08-05
 ---
 
 # Open Cloud
@@ -26,6 +26,8 @@ Open Cloud is discussed in [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenm
 
 [[138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]] adds [[LuoFuli]]'s stronger practitioner reaction. After intensive use, she frames OpenCloud/OpenClaw as a genuinely important [[AgentHarness]] layer for memory, context orchestration, skills, cost routing, user-agent data, and model-team work.
 
+[[women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]] adds a contrastive team-product reading through [[Kuse]] and [[Junior]]. [[Yuhao]] treats OpenCloud as closer to a personal-agent memory pattern, then argues that team agents need [[EnterpriseAgentMemory]] because they should work for the company and project before serving one individual owner.
+
 ## Episode Notes
 - The guests treat Open Cloud as important for making investors, founders, and users think differently about agents.
 - It exposed friction around installation, reliability, and restart motivation after outages.
@@ -35,6 +37,7 @@ Open Cloud is discussed in [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenm
 - E163 adds the lifestyle version: mobile agent access can feel liberating only if it supports [[AIUsePacing]] instead of extending work everywhere.
 - Episode 140 adds that Open Cloud's significance is demonstrative: it made long-horizon tool control visible to users even if similar experiments already existed inside labs.
 - Episode 138 adds that Open Cloud can be productive inside a model team by shaping [[AgentPostTraining]], skills, simulated user agents, and research workflows.
+- The Kuse source adds that Open Cloud-like products need a different memory and governance model when moved from personal use into company teams.
 
 ## Connections
 - [[AgentFacingInterfaces]] — CLI and skill-access layer Open Cloud helped make more visible.
@@ -49,3 +52,4 @@ Open Cloud is discussed in [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenm
 - [[PingGe]], [[HumanAgencyUnderAI]], and [[AIUsePacing]] — E163's mobile-agent and life-design interpretation.
 - [[YaoShunyu]], [[LongHorizonAI]], and [[AgenticWorkflow]] — frontier-lab interpretation added by episode 140.
 - [[LuoFuli]], [[MemoVR]], [[AgentPostTraining]], and [[ModelHarnessCoEvolution]] — model-team and framework co-evolution interpretation added by episode 138.
+- [[Kuse]], [[Junior]], [[OpenClawForTeams]], and [[EnterpriseAgentMemory]] — team-agent contrast added by the Yuhao source.

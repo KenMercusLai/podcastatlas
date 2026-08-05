@@ -10,7 +10,8 @@ sources:
   - shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud
   - openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z
   - yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy
-last_updated: 2026-07-23
+  - women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv
+last_updated: 2026-08-05
 ---
 
 # 42章经
@@ -31,6 +32,8 @@ The Wang Wenfeng episode adds a post-[[OpenClaw]] agent-product branch through [
 
 The RC episode adds a second agent-product branch through [[RC]], [[SlockAI|Slock.ai]], and [[KimiCLI|Kimi CLI]]. It shifts the show's agent coverage from coding-agent action layers toward [[AgentDynamics]]: multi-agent teams need channels, threads, shared documents, [[AgentTaskClaiming]], memory, and culture-aware management so one or more humans can work with dozens of agents.
 
+The Yuhao episode adds [[Kuse]] and [[Junior]] as the enterprise-team branch of the same agent discussion. It reframes [[OpenClaw]]/[[OpenCloud]]-style products for companies through [[OpenClawForTeams]], [[DigitalEmployees]], [[EnterpriseAgentMemory]], [[AgentEvaluationBenchmarks]], and salary-like [[OutcomeBasedAIPricing]].
+
 ## Connections
 - [[ZhuNing]] — guest economist in the episode.
 - [[BubbleNecessaryConditions]], [[BehavioralInvestingBiases]], and [[SpeculativeBubblePsychology]] — main behavioral-finance frame.
@@ -45,3 +48,4 @@ The RC episode adds a second agent-product branch through [[RC]], [[SlockAI|Sloc
 - [[WeiXiaokang]], [[BusinessModelOrganizationFit]], [[RecruitingSupplyStrategy]], [[ReferenceCheckHiring]], and [[AIRecruitingSourcing]] — organization and recruiting branch added by the Wei Xiaokang episode.
 - [[WangWenfeng]], [[Sheet0]], [[AIManagingAI]], and [[CodingAgentAsUniversalActionLayer]] — post-OpenClaw coding-agent and AI-managed-workflow branch.
 - [[RC]], [[SlockAI|Slock.ai]], [[KimiCLI|Kimi CLI]], and [[AgentDynamics]] — multi-agent organization and collaboration branch added by the RC episode.
+- [[Kuse]], [[Yuhao]], [[Junior]], and [[OpenClawForTeams]] — AI-employee and team-agent product branch added by the Yuhao episode.

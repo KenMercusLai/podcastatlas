@@ -2,8 +2,8 @@
 title: "Agent Permission Boundaries"
 type: concept
 tags: [agents, security, governance]
-sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
-last_updated: 2026-07-25
+sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
+last_updated: 2026-08-05
 ---
 
 # Agent Permission Boundaries
@@ -30,6 +30,8 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 
 [[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]] adds the personal-assistant permission version through [[DongHongguang]] and [[GuangfanTechnology]]. The source argues that old software infrastructure often gives assistants either too little access to be useful or too much access to be safe; AI-native assistants need graduated authority, confirmation rules, and user-specific norms for messages, purchases, payments, and service calls.
 
+[[women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]] adds the [[Junior]] enterprise-employee version. [[Yuhao]] says an AI employee may need Gmail, a phone number, external web access, payment-like flows, and company authority, but those same tools expose phishing, prompt injection, malicious skills, account misuse, customer-data leakage, and reputational damage.
+
 [[tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3]] adds the bystander-recording version through [[Limitless]]. [[DanSiroker]] says the wearable pendant should use [[ConsentBasedRecording]] so a new voice is not recorded until that person has opted in. This extends permission boundaries beyond the user's own accounts and tools: a personal AI can affect other people who did not choose the product.
 
 [[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] adds the smart-glasses version. [[WillGottsagen]] describes AI glasses that can see, hear, translate, and identify context around the wearer. Even before the assistant takes an action, the device's sensing permissions affect bystanders, because other people may be seen, heard, recognized, or translated without operating the product themselves.
@@ -53,6 +55,7 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 - Personal assistants need human-like delegation boundaries: some actions can be done directly, some need confirmation, and some should remain unavailable regardless of model confidence.
 - AI-first organizations need team-level permission design because making agents useful may require broad read access, while write access, sensitive data, customer-facing actions, and irreversible decisions still need narrower authority and audit.
 - Wearable personal AI requires bystander permissions because a device owned by one user may capture other people's speech, meetings, or private surroundings.
+- Enterprise AI employees require role-based and organization-aware boundaries because the same company data may be visible in systems but inappropriate to disclose to a given coworker or external party.
 
 ## Connections
 - [[OpenClaw]], [[JustinYan]], and [[Zili]] — source context for personal-agent safety.
@@ -71,3 +74,4 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 - [[GuangfanTechnology]], [[WearableAIAssistant]], [[AIAssistantServiceEntry]], and [[ModelContextProtocol]] — S10E15's wearable and service-call permission case.
 - [[Limitless]], [[DanSiroker]], [[ConsentBasedRecording]], and [[PersonalAIMemory]] — wearable recording and bystander-consent branch added by The Social Radars.
 - [[Creo]], [[ClarkCreo]], [[AIFirstOrganization]], and [[EnterpriseAgentGovernance]] — organization-wide agent access and guardrail case added by E238.
+- [[Kuse]], [[Junior]], [[AgentEvaluationBenchmarks]], and [[EnterpriseAgentMemory]] — enterprise AI employee permissions and safety-test case added by the Yuhao source.

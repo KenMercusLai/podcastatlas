@@ -5395,7 +5395,7 @@ Added source page for a Marketplace Tech episode with Stephanie Hughes interview
 
 ## [2026-08-05] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint scanned 7,722 wiki pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
 
 ## [2026-08-05] lint | Wiki health check
 
@@ -5488,3 +5488,11 @@ Added source page for a Marketplace Tech episode with Amy Webb on convergence as
 ## [2026-08-05] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint scanned 7,712 wiki pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-05] ingest | 我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪
+
+Added source page for a 42章经 episode with Yuhao on Kuse, Junior, and the OpenClaw for Teams product form. Created pages for Kuse, Yuhao, Junior, Azura, Ring (Kuse), Tom (Kuse), OpenClaw For Teams, Enterprise Agent Memory, and Agent Evaluation Benchmarks; updated overview, index, 42章经, OpenClaw, OpenCloud, Digital Employees, Enterprise Agent Governance, Agent Permission Boundaries, Agent Identity And Authentication, Persistent Agent Memory, AI Inference Cost Structure, Outcome-Based AI Pricing, AI Organization Design, and Multi-Agent Collaboration. No direct contradiction found; the source reinforces existing OpenClaw/OpenCloud and digital-employee themes while sharpening the enterprise boundary around company-first memory, work identity, permission semantics, adversarial evaluation, token cost, and salary-like pricing.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

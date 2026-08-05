@@ -2,8 +2,8 @@
 title: "Multi-Agent Collaboration"
 type: concept
 tags: [agents, collaboration, verification]
-sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]
-last_updated: 2026-07-23
+sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
+last_updated: 2026-08-05
 ---
 
 # Multi-Agent Collaboration
@@ -18,6 +18,8 @@ Multi-agent collaboration is the use of multiple agents to exchange context, rev
 
 [[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] adds [[SlockAI|Slock.ai]]'s organization-scale case. [[RC]] describes a seven-person company using about forty agents, which makes multi-agent collaboration a management and product-design problem: agents need to claim tasks, recognize their own identity in busy channels, learn from shared memory, and respond to cooperative rather than adversarial norms.
 
+[[women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]] adds [[Kuse]]'s AI-employee collaboration case. [[KuseRing|Ring]] and [[Azura]] collaborated on Junior sales material, while the team also explored agent-to-agent work through Git plus messaging channels. [[Yuhao]] argues that if agents are employees, separate agents may need separate work machines rather than sharing one computer context.
+
 ## Key Claims
 - Multi-agent work is not only role-play; it can be review, adversarial checking, parallel exploration, and handoff.
 - It helps with long-horizon tasks where one agent's context window grows stale or overcommitted to a bad plan.
@@ -30,6 +32,7 @@ Multi-agent collaboration is the use of multiple agents to exchange context, rev
 - The "main agent" layer becomes important when one agent assigns roles, selects subagents, evaluates outputs, and explains the process to the user.
 - Message-based multi-agent systems need explicit [[AgentTaskClaiming]] so agents do not duplicate work or misread open tasks.
 - Agent identity and culture-like norms can affect output quality when many agents share one workspace.
+- Multi-agent AI employee setups need resource isolation because separate agents can conflict if they share one machine, account state, or long session indiscriminately.
 
 ## Connections
 - [[SubagentWorkflow]] — related pattern for background delegation and synthesis.
@@ -41,3 +44,4 @@ Multi-agent collaboration is the use of multiple agents to exchange context, rev
 - [[LuoFuli]], [[OpenClaw]], [[MLCoding]], and [[TrainingComputeAllocation]] — parallel model-research workflow case added by episode 138.
 - [[MobileAIWorkstation]], [[FoldablePhoneProductivity]], [[Doubao]], [[Kimi]], [[Yuanbao]], and [[DeepSeek]] — consumer comparison and multi-window examples added by Luanfanshu 268.
 - [[SlockAI|Slock.ai]], [[RC]], [[AgentDynamics]], [[AgentTaskClaiming]], and [[AgentOrganizationalCulture]] — organization-scale many-agent case added by the RC episode.
+- [[Kuse]], [[Junior]], [[KuseRing|Ring]], and [[Azura]] — AI employee collaboration and separate-work-device case added by the Yuhao source.

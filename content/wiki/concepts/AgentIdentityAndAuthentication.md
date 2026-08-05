@@ -2,8 +2,8 @@
 title: "Agent Identity And Authentication"
 type: concept
 tags: [agents, safety, identity, infrastructure]
-sources: [tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]
-last_updated: 2026-07-12
+sources: [tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
+last_updated: 2026-08-05
 ---
 
 # Agent Identity And Authentication
@@ -14,6 +14,8 @@ Agent identity and authentication is the infrastructure problem of attributing a
 
 [[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]] adds the agent-social version through [[MoteBook]]. If a platform claims to host AI agents rather than humans, it still needs a way to distinguish agent-generated behavior, human interference, the account owner behind an agent, and the authority under which the agent acts.
 
+[[women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]] adds the work-identity version through [[Junior]]. [[Kuse]] gives some AI employees Gmail accounts and phone numbers so they can register for services, communicate externally, and act in the internet world. The same source shows why authentication must include anti-bot infrastructure, payment controls, account ownership, and company attribution.
+
 ## Key Claims
 - Agents that spend money, deploy code, contact people, or operate accounts need reliable attribution and permission boundaries.
 - Identity is linked to [[AgentHarness]] because the harness decides what tools and accounts an agent can use.
@@ -21,6 +23,7 @@ Agent identity and authentication is the infrastructure problem of attributing a
 - Excessive real-name requirements can conflict with open-intelligence values when they are used to restrict access rather than manage real operational risk.
 - Local agent experiments still need identity design because a separate account can limit blast radius while preserving attribution.
 - Agent-only social spaces still need attribution because "bot talking to bot" can hide account ownership, human intervention, and sensitive data exposure.
+- AI employees need service-visible identity that distinguishes the agent, the company, the supervising human, and the allowed authority for a given action.
 
 ## Connections
 - [[ClaudeCode]] and [[Anthropic]] — product and company context for the real-name discussion.
@@ -30,3 +33,4 @@ Agent identity and authentication is the infrastructure problem of attributing a
 - [[AIGovernanceAndCompliance]] — adjacent governance frame for AI systems entering regulated or risky workflows.
 - [[OpenClaw]] and [[AgentPermissionBoundaries]] — personal-agent case where accounts, tools, and permissions must be separated.
 - [[MoteBook]], [[AISocialNetworks]], and [[Wiz]] - agent-social platform and security-report case added by Marketplace Tech Bytes.
+- [[Kuse]], [[Junior]], [[OpenClawForTeams]], and [[AgentPermissionBoundaries]] — work-account and phone-identity case added by the Yuhao source.
