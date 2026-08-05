@@ -2,7 +2,7 @@
 title: "Good Intentions Political Limits"
 type: concept
 tags: [ethics, politics, realism, responsibility]
-sources: [133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+sources: [35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
 last_updated: 2026-08-06
 ---
 
@@ -18,6 +18,8 @@ The concept does not reject goodness. The source argues that people need conscie
 
 [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] adds a Mencian case through [[MencianIdealismLimits]]. The episode values [[Mengzi|孟子 / Mencius]]'s moral force, but uses the failed Qi campaign against Yan to show that benevolent intent cannot substitute for disciplined institutions, enforceable limits, and realistic control over coercive instruments.
 
+[[35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624]] adds a development-policy version through [[DevelopmentProjectUnintendedConsequences]]. Cotton promotion, vegetable gardens, and a water project in [[Cameroon]] show that technically sincere improvement can create food-price pressure, resource-transfer conflict, ritual-legitimacy disruption, or false evidence of success if local systems and observer effects are ignored.
+
 ## Key Claims
 - Goodness without realism can become helpless, but realism without conscience becomes corruption.
 - The episode separates "is" and "ought" without allowing the "is" to erase the "ought."
@@ -26,6 +28,7 @@ The concept does not reject goodness. The source argues that people need conscie
 - Wang Mang adds a governance version: moralized reform can harm people when institutional and material constraints are ignored.
 - The IBM-Nazi branch adds that rejecting naive goodness must not become [[CleverOpportunismAsMoralRisk|clever opportunism]] or [[AppeasementLogic|appeasement logic]].
 - The Mencius branch adds that benevolent conquest needs institutional proof, not only righteous self-description.
+- The development branch adds that health, food, and agricultural projects need local feedback and resource accounting before success can be trusted.
 
 ## Connections
 - [[MachiavellianRealism]] and [[NonMoralPoliticalAnalysis]] - concepts that create the pressure on naive goodness.
@@ -35,3 +38,4 @@ The concept does not reject goodness. The source argues that people need conscie
 - [[ConfucianIdealGovernance]], [[WangMangReforms]], and [[IdeologicalOvercontrol]] - Wang Mang extension.
 - [[AppeasementLogic]], [[CleverOpportunismAsMoralRisk]], [[CorporateComplicityWithAuthoritarianism]], and [[OrdinaryPeopleResistance]] - episode 133 extension.
 - [[Mengzi|孟子 / Mencius]], [[WangdaoVsBadao]], and [[MencianIdealismLimits]] - Mencian extension.
+- [[DevelopmentProjectUnintendedConsequences]], [[Cameroon]], and [[DowayoPeople]] - source-35 development-policy extension.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [35.天真的人类学家：做田野会上瘾的！](sources/35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624.md) — 蜜獾吃书 episode on Nigel Barley's The Innocent Anthropologist, Dowayo fieldwork in Cameroon, fieldwork romance deflation, participant-observer entanglement, missionary support, development unintended consequences, and visual/linguistic translation friction.
 - [34.猫咪秘史：呵，愚蠢又可爱的人类](sources/34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607.md) — 蜜獾吃书 episode on cat-centered civilization history, cat domestication, Egyptian cat worship, cross-cultural cat mythology, European demonization, ship cats, war cats, and Felicette in the space age.
 - [33.人间失格：胆小鬼的壮烈献祭](sources/33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624.md) — 蜜獾吃书 episode on 太宰治《人间失格》, 大庭叶藏, comic masking, failed trust, private-novel self-exposure, coerced normality, and the source-scoped "cowardly sacrifice" reading.
 - [一份来自病床上的相关书单](sources/yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093.md) — 蜜獾吃书 sickbed reading-list episode on infectious-disease literacy, medical visual history, historical body concepts, pandemic history, public-health geopolitics, public-health invisibility, and surgical memoir.
@@ -711,6 +712,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《天真的人类学家》 / The Innocent Anthropologist](entities/TheInnocentAnthropologist.md) — Nigel Barley fieldwork book used by episode 35 to demystify anthropology through everyday friction, dependency, humor, and development ambiguity.
+- [Nigel Barley / 奈杰尔·巴利](entities/NigelBarley.md) — British anthropologist whose Cameroon/Dowayo fieldwork anchors the episode's fieldwork-demystification branch.
+- [Dowayo People / 多瓦优人](entities/DowayoPeople.md) — Cameroon group discussed through Barley's source-scoped fieldwork account of ritual, gender, language, state paperwork, and development projects.
+- [Cameroon / 喀麦隆](entities/Cameroon.md) — Fieldwork setting where bureaucracy, colonial language history, local officials, missions, and development policy shape the episode's anthropology branch.
+- [Bronislaw Malinowski / 马林诺夫斯基](entities/BronislawMalinowski.md) — Classic anthropology fieldwork figure used by episode 35 to frame diary scandal, fieldwork prestige, and the deflation of heroic observers.
 - [Cat / 猫](entities/Cat.md) — Central animal of episode 34, connecting cat domestication, pest-control infrastructure, religious mythology, cultural ambivalence, and companion-animal afterlives.
 - [《猫咪秘史：从史前时期到太空时代》](entities/MaomiMishiBook.md) — Book discussed by episode 34 as a cat-centered narrative of human-cat history from agriculture and Egypt to ships, war, and space.
 - [Bastet / 巴斯特](entities/Bastet.md) — Egyptian cat deity used by episode 34 to connect cat protection, household religion, legal reverence, and public festival culture.
@@ -4911,6 +4917,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Fieldwork Romance Deflation / 田野浪漫去魅](concepts/FieldworkRomanceDeflation.md) — Anthropology-method corrective that values field evidence while puncturing heroic, pure, or exoticized ideas of fieldwork and field sites.
+- [Ethnographic Everyday Friction / 民族志日常摩擦](concepts/EthnographicEverydayFriction.md) — Fieldwork logistics and bodily vulnerability as part of how ethnographic evidence is actually produced.
+- [Participant-Observer Entanglement / 参与观察者纠缠](concepts/ParticipantObserverEntanglement.md) — Anthropology problem where the researcher's presence, help, dependence, money, body, and local classification become part of the field.
+- [Missionary Fieldwork Infrastructure / 传教士田野基础设施](concepts/MissionaryFieldworkInfrastructure.md) — Ambivalent support network in which missionaries provide vehicles, medicine, loans, translation, and local knowledge while also carrying religious and colonial pressure.
+- [Development Project Unintended Consequences / 发展项目的意外后果](concepts/DevelopmentProjectUnintendedConsequences.md) — Pattern where technically well-meaning development projects create food, resource, legitimacy, evaluation, or belief-system side effects.
+- [Visual Representation Literacy / 视觉表征素养](concepts/VisualRepresentationLiteracy.md) — Learned conventions behind reading photos, film, ID pictures, ballots, and screen images as representations.
 - [Cat Domestication History](concepts/CatDomesticationHistory.md) — Episode 34 natural-history layer tying cats to African wildcat ancestry, agriculture, stored grain, rodents, disease anxiety, and cohabitation before pet intimacy.
 - [Cat As Civilizational Infrastructure](concepts/CatAsCivilizationalInfrastructure.md) — Frame for cats as protectors of granaries, homes, texts, textiles, ship provisions, military supplies, and modern science systems.
 - [Cat Religious Mythology](concepts/CatReligiousMythology.md) — Cross-cultural frame for cats as sacred protectors, soul vessels, divine companions, magical threshold animals, and later witch-linked figures.

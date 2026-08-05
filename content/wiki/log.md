@@ -5621,6 +5621,10 @@ Added source page for a 蜜獾吃书 and 日谈 crossover on reading 《红楼�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-06] ingest | 35.天真的人类学家：做田野会上瘾的！
+
+Added source page for a 蜜獾吃书 episode on Nigel Barley's 《天真的人类学家》, Dowayo fieldwork in Cameroon, fieldwork romance deflation, participant-observer entanglement, missionary support, development-project unintended consequences, and visual/linguistic representation friction. Created pages for 《天真的人类学家》, Nigel Barley, Dowayo People, Cameroon, Bronislaw Malinowski, Fieldwork Romance Deflation, Ethnographic Everyday Friction, Participant-Observer Entanglement, Missionary Fieldwork Infrastructure, Development Project Unintended Consequences, and Visual Representation Literacy; updated overview, index, 蜜獾吃书, 秦总, Fieldwork As Knowledge Method, Anthropology Fieldwork Safety, Linguistic Relativity, and Good Intentions Political Limits. No direct contradiction found; the source complements episode 113 by moving the anthropology branch from catastrophic fieldwork harm into everyday dependence, comic self-exposure, and development ambiguity.
+
 ## [2026-08-06] ingest | 34.猫咪秘史：呵，愚蠢又可爱的人类
 
 Added source page for a 蜜獾吃书 episode on 《猫咪秘史：从史前时期到太空时代》, cat domestication, cats as pest-control and ship/war infrastructure, Bastet and Egyptian cat worship, Asian soul-cat legends, medieval European cat demonization, literary rehabilitation, and Felicette in the space age. Created pages for Cat / 猫, 《猫咪秘史：从史前时期到太空时代》, Bastet / 巴斯特, Felicette / 菲利切特, Cat Domestication History, Cat As Civilizational Infrastructure, Cat Religious Mythology, and Cat Cultural Ambivalence; updated overview, index, 蜜獾吃书, Human-Animal Continuity In Myth, Animal Moral Projection, Witch-Hunt Mechanism, Companion Animal Health, Animal Welfare As Public Health, Story Motif Transmission, and Myth As Historical Evidence. No direct contradiction found; the source extends the wiki's animal-history and mythology branches while keeping legend-heavy anecdotes source-scoped.
@@ -5676,3 +5680,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint after health passed. Deterministic and graph-aware checks completed; semantic lint failed because the default LiteLLM model name is missing a provider prefix. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes while lint scanned 8,006 pages, so graph findings are advisory until the graph is rebuilt. Report returned in-session; `wiki/lint-report.md` was not saved.
