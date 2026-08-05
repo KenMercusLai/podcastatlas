@@ -2,11 +2,13 @@
 title: "Microsoft"
 type: entity
 tags: [company, ai, cloud, investing, mobile]
-sources: [betty-boop-excel-olympics-penny-isms-our-2026-valentines, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarspod-garrytan-final, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, betty-boop-excel-olympics-penny-isms-our-2026-valentines, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarspod-garrytan-final, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Microsoft
+
+[[e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67]] adds Microsoft as the hospital-workflow incumbent that [[OpenAI]] would have to contend with if [[ChatGPTForHealthcare]] becomes a hospital-level AI platform. The source does not detail a Microsoft healthcare product, but it treats Microsoft's existing enterprise and office workflow embed as a strategic constraint on model companies trying to own [[HealthcareAIInfrastructure]].
 
 [[betty-boop-excel-olympics-penny-isms-our-2026-valentines]] adds Microsoft through [[MicrosoftExcel|Microsoft Excel]] rather than cloud, AI, or hardware. [[JessJang]] praises [[JesseDoherty]]'s [[WashingtonPost|Washington Post]] article on the Microsoft Excel Collegiate Competition, making [[CompetitiveSpreadsheeting]] a case where a mature productivity tool becomes a performance medium.
 
@@ -43,6 +45,7 @@ Microsoft appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yan
 [[tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]] adds Microsoft as one of the platform incumbents tightening pressure on [[Dropbox]] through OneDrive and broader productivity-suite distribution. In [[DrewHouston]]'s account, Microsoft is part of the slow competitive squeeze that made Dropbox narrow its strategy around productivity and work use cases.
 
 ## Connections
+- [[OpenAI]], [[ChatGPTForHealthcare]], and [[HealthcareAIInfrastructure]] - healthcare workflow competition branch added by E227.
 - [[Nvidia]] — supplier discussed through GPU and AI infrastructure demand.
 - [[Google]] and [[Amazon]] — peer hyperscaler customers in the episode's capex-risk frame.
 - [[AIEquityValuationRisk]] — concept linking customer capex expectations to stock valuation.

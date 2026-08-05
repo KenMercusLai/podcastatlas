@@ -2,8 +2,8 @@
 title: "Retrieval-Augmented Generation"
 type: concept
 tags: [ai, rag, retrieval, knowledge-management]
-sources: [xiangliang-moxing-gongchengshi-ai-de-yincang-pingjing-yu-xinshidai-de-xinxi-migong-4b6cf945-d64a-4dd0-95a7-cb8f11963698, weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]
-last_updated: 2026-07-09
+sources: [e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, xiangliang-moxing-gongchengshi-ai-de-yincang-pingjing-yu-xinshidai-de-xinxi-migong-4b6cf945-d64a-4dd0-95a7-cb8f11963698, weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]
+last_updated: 2026-08-05
 ---
 
 # Retrieval-Augmented Generation
@@ -14,6 +14,8 @@ The source's strongest contribution is that RAG is a system problem rather than 
 
 [[weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]] adds the memory-layer limitation. [[KangHongwen]] treats RAG as useful but insufficient for personal memory if the system has not first performed [[DataToMemoryTransformation]] across multimodal archives and cannot precisely recover older events, clips, people, or timestamps.
 
+[[e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67]] adds the medical version through [[OpenEvidence]] and [[EvidenceGroundedMedicalRAG]]. In this setting, retrieval quality means more than finding related text: doctors need authoritative sources, citation visibility, evidence hierarchy, and confidence that commercial promotion has not changed what the answer presents.
+
 ## Key Claims
 - RAG reduces hallucination by giving the model external material, but it does not guarantee correct search, ranking, or interpretation.
 - Enterprise RAG often fails before generation because documents are messy, fragmented, duplicated, scanned, table-heavy, or full of local business shorthand.
@@ -22,6 +24,7 @@ The source's strongest contribution is that RAG is a system problem rather than 
 - Agent systems still need retrieval tools; better [[AgentHarness]] design can reduce wasteful keyword-search loops.
 - RAG quality is inseparable from [[AIVerification]] and [[HumanJudgmentUnderAI]], because users must decide whether the returned evidence really answers the question.
 - In personal memory systems, retrieval must sit above multimodal understanding and memory curation; vector search alone does not turn raw data into memory.
+- In medical RAG, source quality and incentive separation can be as important as recall and ranking because the answer may influence clinical work.
 
 ## Connections
 - [[VectorModelEngineering]] - embedding and recall layer.
@@ -30,4 +33,5 @@ The source's strongest contribution is that RAG is a system problem rather than 
 - [[SemanticSearchRelevance]] and [[HardNegativeMining]] - relevance definition and training data.
 - [[ContextEngineering]], [[DeepResearch]], and [[LongHorizonAI]] - broader context/search/agent threads.
 - [[AISearchEvaluation]] - evaluation problem for RAG and research answers.
+- [[OpenEvidence]], [[EvidenceGroundedMedicalRAG]], [[MedicalLiteratureSearch]], and [[MedicalAIMarketingRisk]] - medical search and trust branch added by E227.
 - [[DataToMemoryTransformation]] and [[MultimodalPersonalMemory]] - memory-layer requirements added by S10E20.

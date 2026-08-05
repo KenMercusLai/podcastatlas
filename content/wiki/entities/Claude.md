@@ -2,11 +2,13 @@
 title: "Claude"
 type: entity
 tags: [ai, model, anthropic]
-sources: [tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Claude
+
+[[e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67]] adds Claude's healthcare product path through [[ClaudeForHealthcare]]. The source frames healthcare Claude less as open-ended diagnosis and more as [[HealthcareAIInfrastructure]] for billing, coding, compliance, APIs, and institutional workflows.
 
 [[tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128]] adds [[ClaudeMethosPreview|Claude-Methos Preview]] as a source-scoped Claude variant or model name tied to cybersecurity vulnerability discovery. The episode says [[Anthropic]] restricted access through [[ProjectGlasswing]] rather than making the system broadly public, which extends Claude's wiki role into [[FrontierModelReleaseGovernance]] and [[FrontierModelAccessRestrictions]].
 
@@ -19,6 +21,7 @@ Claude appears in [[tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tec
 The source turns Claude from a general frontier model into a procurement and governance case. Its value to defense users makes [[DefenseAIProcurement]] concrete, while Anthropic's red lines around mass surveillance and autonomous weapons turn Claude access into a [[FrontierModelUsePolicyConflict]] rather than only a technical capability question.
 
 ## Connections
+- [[ClaudeForHealthcare]], [[MedicalBillingAndCodingAutomation]], and [[HIPAAConstrainedMedicalAI]] - healthcare workflow branch added by E227.
 - [[Anthropic]] - model provider.
 - [[ClaudeMethosPreview|Claude-Methos Preview]] and [[ProjectGlasswing]] - restricted cybersecurity-model rollout added by Marketplace Tech.
 - [[JackClark]], [[AIAutomationRedistribution]], and [[AICyberDefenseUtility]] - live Planet Money branch on work capacity, redistribution, and cyber defense.

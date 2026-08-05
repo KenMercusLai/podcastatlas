@@ -2,8 +2,8 @@
 title: "AI Health Management"
 type: concept
 tags: [ai, healthcare, health-management]
-sources: [tsr-s2-adoracheung-v5, tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tsr-s2-adoracheung-v5, tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # AI Health Management
@@ -11,6 +11,8 @@ last_updated: 2026-07-25
 AI health management is the episode's boundary for useful medical AI: AI can read [[PersonalHealthData]], summarize long histories, detect trends, explain reports, flag overlooked possibilities, and prepare better questions for doctors, but it should not replace medical diagnosis, treatment, or prescription authority. In [[ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1]], [[JiangXun]] argues that the valuable AI opportunity is earlier health-risk awareness rather than a chatbot pretending to be a physician.
 
 This frame depends on longitudinal data and clinician oversight. Hospitals often see a patient at a specific time point and judge whether indicators cross a threshold; health management asks how those indicators moved, what personal context changed, and whether a pattern deserves professional review before a clear disease state appears.
+
+[[e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67]] adds the U.S. healthcare AI competition version. [[ChatGPTHealth]] can meet broad consumer demand for fast health feedback, while wearables and rings make [[PersonalHealthData]] more continuous; the source still keeps consumer wellness, triage, and doctor-facing preparation separate from diagnosis, prescription, or treatment authority.
 
 [[tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128]] adds the consumer wellness version through [[AIFitnessCoaching]]. [[FitbitAIHealthCoach]] can use sleep and heart-rate data to adjust workouts, [[Peloton]] can use camera feedback for [[ComputerVisionFormCorrection]], and [[AINutritionTracking]] can reduce meal-logging friction, but the source keeps those benefits separate from reliable medical advice or guaranteed behavior change.
 
@@ -30,9 +32,11 @@ This frame depends on longitudinal data and clinician oversight. Hospitals often
 - Consumer wellness tools can personalize workouts and lower tracking friction, but hallucinations, sensor errors, subscription costs, and the [[AIFitnessAccountabilityGap]] keep them short of full human coaching.
 - Teen mental-health use needs a stricter boundary than general adult wellness support: escalation to trusted adults, clinicians, crisis resources, and regulated care matters more than conversational comfort.
 - Preventive health services can complement AI health management when they produce better data and clearer questions without claiming to replace clinical judgment.
+- E227 adds that consumer health AI may support triage and early feedback, but only when users can inspect sources, escalate to doctors, and keep clinical responsibility outside the chatbot.
 
 ## Connections
 - [[PersonalHealthData]] — data substrate for AI health management.
+- [[ChatGPTHealth]], [[HealthBench]], [[HIPAAConstrainedMedicalAI]], and [[EvidenceGroundedMedicalRAG]] — healthcare AI product, evaluation, privacy, and evidence branch added by E227.
 - [[ContinuousGlucoseMonitoring]] — device category used to discuss dense trend signals.
 - [[HumanJudgmentUnderAI]] — final decision and responsibility remain human and professional.
 - [[MedicalAIMarketingRisk]] — boundary case when AI health products overclaim authority or hide incentives.

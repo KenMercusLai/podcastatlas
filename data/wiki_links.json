@@ -5339,6 +5339,14 @@
     "title": "ChatGPT",
     "url": "/wiki/entities/chatgpt/"
   },
+  "ChatGPTForHealthcare": {
+    "title": "ChatGPT for Healthcare",
+    "url": "/wiki/entities/chatgptforhealthcare/"
+  },
+  "ChatGPTHealth": {
+    "title": "ChatGPT Health",
+    "url": "/wiki/entities/chatgpthealth/"
+  },
   "ChatbotGeneratedContentLiability": {
     "title": "Chatbot-Generated Content Liability",
     "url": "/wiki/concepts/chatbotgeneratedcontentliability/"
@@ -5926,6 +5934,10 @@
   "ClaudeCode": {
     "title": "Claude Code",
     "url": "/wiki/entities/claudecode/"
+  },
+  "ClaudeForHealthcare": {
+    "title": "Claude for Healthcare",
+    "url": "/wiki/entities/claudeforhealthcare/"
   },
   "ClaudeMethosPreview": {
     "title": "Claude-Methos Preview",
@@ -8751,6 +8763,10 @@
     "title": "Electronic Privacy Information Center",
     "url": "/wiki/entities/electronicprivacyinformationcenter/"
   },
+  "EliLilly": {
+    "title": "Eli Lilly",
+    "url": "/wiki/entities/elililly/"
+  },
   "ElieWiesel": {
     "title": "Elie Wiesel",
     "url": "/wiki/entities/eliewiesel/"
@@ -9223,6 +9239,10 @@
     "title": "Evidence-Bound Paleontological Reconstruction / 证据约束的古生物复原",
     "url": "/wiki/concepts/evidenceboundpaleontologicalreconstruction/"
   },
+  "EvidenceGroundedMedicalRAG": {
+    "title": "Evidence-Grounded Medical RAG",
+    "url": "/wiki/concepts/evidencegroundedmedicalrag/"
+  },
   "EvidenceOverTestimony": {
     "title": "Evidence Over Testimony",
     "url": "/wiki/concepts/evidenceovertestimony/"
@@ -9594,6 +9614,10 @@
   "FederalTradeCommission": {
     "title": "Federal Trade Commission",
     "url": "/wiki/entities/federaltradecommission/"
+  },
+  "FederatedMedicalDataSharing": {
+    "title": "Federated Medical Data Sharing",
+    "url": "/wiki/concepts/federatedmedicaldatasharing/"
   },
   "FeedCuration": {
     "title": "Feed Curation",
@@ -10643,6 +10667,10 @@
     "title": "Fusion Energy Recovery",
     "url": "/wiki/concepts/fusionenergyrecovery/"
   },
+  "FusionFund": {
+    "title": "Fusion Fund",
+    "url": "/wiki/entities/fusionfund/"
+  },
   "FutuSecurities": {
     "title": "Futu Securities",
     "url": "/wiki/entities/futusecurities/"
@@ -11655,6 +11683,10 @@
     "title": "H. G. Wells / H. G. 威尔斯",
     "url": "/wiki/entities/hgwells/"
   },
+  "HIPAAConstrainedMedicalAI": {
+    "title": "HIPAA-Constrained Medical AI",
+    "url": "/wiki/concepts/hipaaconstrainedmedicalai/"
+  },
   "HMOManagedCare": {
     "title": "HMO Managed Care",
     "url": "/wiki/concepts/hmomanagedcare/"
@@ -12011,9 +12043,21 @@
     "title": "Headless Software",
     "url": "/wiki/concepts/headlesssoftware/"
   },
+  "HealthBench": {
+    "title": "HealthBench",
+    "url": "/wiki/entities/healthbench/"
+  },
+  "HealthInsuranceDenialWorkflow": {
+    "title": "Health Insurance Denial Workflow",
+    "url": "/wiki/concepts/healthinsurancedenialworkflow/"
+  },
   "HealthInsurancePlanning": {
     "title": "Health Insurance Planning",
     "url": "/wiki/concepts/healthinsuranceplanning/"
+  },
+  "HealthcareAIInfrastructure": {
+    "title": "Healthcare AI Infrastructure",
+    "url": "/wiki/concepts/healthcareaiinfrastructure/"
   },
   "HealthcareO2O": {
     "title": "Healthcare O2O",
@@ -13554,6 +13598,10 @@
   "JPMorganChase": {
     "title": "JPMorgan Chase",
     "url": "/wiki/entities/jpmorganchase/"
+  },
+  "JPMorganHealthcareConference": {
+    "title": "JP Morgan Healthcare Conference",
+    "url": "/wiki/entities/jpmorganhealthcareconference/"
   },
   "JRRTolkien": {
     "title": "J.R.R. Tolkien / 托尔金",
@@ -17131,6 +17179,10 @@
     "title": "Medical AI Workflow Integration",
     "url": "/wiki/concepts/medicalaiworkflowintegration/"
   },
+  "MedicalBillingAndCodingAutomation": {
+    "title": "Medical Billing and Coding Automation",
+    "url": "/wiki/concepts/medicalbillingandcodingautomation/"
+  },
   "MedicalDeviceClinicalValidation": {
     "title": "Medical Device Clinical Validation",
     "url": "/wiki/concepts/medicaldeviceclinicalvalidation/"
@@ -19191,6 +19243,10 @@
     "title": "Open Cloud",
     "url": "/wiki/entities/opencloud/"
   },
+  "OpenEvidence": {
+    "title": "OpenEvidence",
+    "url": "/wiki/entities/openevidence/"
+  },
   "OpenExtraterrestrialCivilizationImagination": {
     "title": "Open Extraterrestrial Civilization Imagination",
     "url": "/wiki/concepts/openextraterrestrialcivilizationimagination/"
@@ -20154,6 +20210,10 @@
   "PhysicalWorldDataFlywheel": {
     "title": "Physical World Data Flywheel",
     "url": "/wiki/concepts/physicalworlddataflywheel/"
+  },
+  "PhysicianAdministrativeBurden": {
+    "title": "Physician Administrative Burden",
+    "url": "/wiki/concepts/physicianadministrativeburden/"
   },
   "PhysicianLedMedicalDeviceDesign": {
     "title": "Physician-Led Medical Device Design",
@@ -27151,6 +27211,10 @@
     "title": "Vertical Media Distribution",
     "url": "/wiki/concepts/verticalmediadistribution/"
   },
+  "VerticalMedicalSmallModels": {
+    "title": "Vertical Medical Small Models",
+    "url": "/wiki/concepts/verticalmedicalsmallmodels/"
+  },
   "VerticalSaaSDomainExpertise": {
     "title": "Vertical SaaS Domain Expertise",
     "url": "/wiki/concepts/verticalsaasdomainexpertise/"
@@ -29163,6 +29227,10 @@
     "title": "Zhou Qunfei",
     "url": "/wiki/entities/zhouqunfei/"
   },
+  "ZhouYebing": {
+    "title": "周叶冰 / Zhou Yebing",
+    "url": "/wiki/entities/zhouyebing/"
+  },
   "Zhoukoudian": {
     "title": "周口店",
     "url": "/wiki/entities/zhoukoudian/"
@@ -29570,6 +29638,10 @@
   "e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73": {
     "title": "E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛",
     "url": "/wiki/sources/e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73/"
+  },
+  "e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67": {
+    "title": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？",
+    "url": "/wiki/sources/e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67/"
   },
   "e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi": {
     "title": "E229｜从手工作坊到全球第一：中国动力电池逆袭史",

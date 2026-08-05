@@ -2,8 +2,8 @@
 title: "AI Verification"
 type: concept
 tags: [ai, verification, safety, agents]
-sources: [e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
-last_updated: 2026-07-08
+sources: [e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
+last_updated: 2026-08-05
 ---
 
 # AI Verification
@@ -14,6 +14,8 @@ The source separates easy-to-check domains from judgment-heavy domains. Code and
 
 [[137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]] adds the formal-math version through [[HongLetong]] and [[Axiom]]. In this source, [[LeanTheoremProver]], [[Mathlib]], and [[InteractiveTheoremProving]] provide a stronger verifier than ordinary tests because proofs become machine-checkable artifacts. The limitation shifts toward [[AutoFormalization]] and [[FormalSpecification]]: the system can verify a proof only after the mathematical or software target has been stated precisely.
 
+[[e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67]] adds the medical-conversation version through [[HealthBench]]. The benchmark moves evaluation beyond exam-style questions toward clinician-scored conversations, where the system must manage uncertainty, follow-up, evidence quality, multilingual communication, and [[HumanJudgmentUnderAI]].
+
 ## Key Claims
 - Verification errors can compound across recursive self-improvement loops.
 - Code and math are attractive early domains because they have stronger external checkers than ordinary prose.
@@ -23,10 +25,12 @@ The source separates easy-to-check domains from judgment-heavy domains. Code and
 - Scientific discovery needs verification and taste together, because a true but trivial result may still be the wrong target.
 - Formal proof can give AI systems a stronger correctness signal than prose, but only when the target statement is correctly formalized.
 - [[AIForMath]] is attractive because mathematics provides a cleaner digital sandbox for verification than many physical science domains.
+- Medical AI verification needs scenario-based review, source grounding, and clinician judgment because correct-looking prose can still fail in patient-specific context.
 
 ## Connections
 - [[AICodingVerification]] — software-specific verification branch already tracked in the wiki.
 - [[MultiAgentCollaboration]] — agent-team checking pattern used in the source.
 - [[RecursiveSelfImprovement]] and [[DiscoveryModel]] — high-stakes loops that depend on verification.
 - [[ResearchTaste]], [[HumanJudgmentUnderAI]], and [[DomainExpertAlignment]] — human standards that keep verification grounded.
+- [[HealthBench]], [[EvidenceGroundedMedicalRAG]], and [[HIPAAConstrainedMedicalAI]] — medical AI evaluation, evidence, and compliance branch added by E227.
 - [[AIForMath]], [[AxiomProver]], [[AutoFormalization]], and [[FormalSpecification]] — formal-math verifier branch added by episode 137.

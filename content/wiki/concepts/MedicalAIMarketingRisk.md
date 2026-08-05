@@ -2,8 +2,8 @@
 title: "Medical AI Marketing Risk"
 type: concept
 tags: [ai, healthcare, marketing, fraud]
-sources: [vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500]
-last_updated: 2026-07-09
+sources: [e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500]
+last_updated: 2026-08-05
 ---
 
 # Medical AI Marketing Risk
@@ -14,6 +14,8 @@ Medical AI marketing risk is the danger that AI assistants, app-store tactics, a
 
 [[no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500]] adds the industry-history and regulatory boundary. The episode links the [[WeiZexiIncident]], Quanjian controversy, medical advertising, and rules against AI replacing doctors into the same trust problem: healthcare users often treat ranked, fluent, or professionally packaged information as authority when the actual source, incentive, and responsibility may be unclear.
 
+[[e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67]] adds the physician-facing version through [[OpenEvidence]]. The product may improve medical answer quality through [[EvidenceGroundedMedicalRAG]], but [[ZhangLu]] flags a trust tension if medical advertising, pharma content promotion, or enterprise revenue affects ranking, answer presentation, or perceived objectivity.
+
 ## Key Claims
 
 - Healthcare claims carry higher trust and harm stakes than ordinary consumer marketing, so AI-generated authority, friendly chat, or app-ranking polish can mislead users even when the product surface looks professional.
@@ -23,9 +25,11 @@ Medical AI marketing risk is the danger that AI assistants, app-store tactics, a
 - [[AIContentProvenance]] and clear sponsor/product disclosure become part of the safety boundary when AI-generated text, personas, or images are used to sell health-related products.
 - A positive health-AI product still needs scope limits: trend analysis and doctor-facing prompts are different from diagnosis, prescription, or treatment planning.
 - Episode 206 adds a regulatory phrasing of that limit: AI can assist [[MedicalAIWorkflowIntegration]], but medical responsibility must remain with qualified doctors and compliant institutions.
+- E227 adds that even doctor-facing evidence tools need commercial-incentive separation if ads or pharma promotion could influence what a clinician sees.
 
 ## Connections
 
+- [[OpenEvidence]] and [[EvidenceGroundedMedicalRAG]] — physician-facing medical search and answer branch added by E227.
 - [[AIGovernanceAndCompliance]] — governance frame for AI systems that affect health, consumer trust, or regulated advice.
 - [[AIImpersonationFraudRisk]] — adjacent risk when synthetic authority imitates a professional or trusted person.
 - [[AppStoreOptimization]], [[GenerativeEngineOptimization]], and [[AIDiscoverySEO]] — distribution tactics that can amplify questionable medical claims.

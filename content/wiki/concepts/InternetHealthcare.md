@@ -1,9 +1,9 @@
 ---
 title: "Internet Healthcare"
 type: concept
-tags: [healthcare, internet, platforms, china]
-sources: [tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500]
-last_updated: 2026-07-12
+tags: [healthcare, internet, platforms, china, united-states, ai]
+sources: [e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500]
+last_updated: 2026-08-05
 ---
 
 # Internet Healthcare
@@ -14,7 +14,10 @@ The episode's core position is that healthcare cannot be "internetized" like a s
 
 [[tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128]] adds a cybersecurity risk note from outside the China-platform history. [[RafePilling]] treats health care organizations as more worrying targets than banks because sensitive records can be stolen, leaked, destroyed, or made unavailable through [[CyberDataTheftAndLeakOperations]] or ransomware-type attacks.
 
+[[e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67]] adds the U.S. AI-era version. Instead of starting from appointment booking or online consultation, the episode starts from [[PhysicianAdministrativeBurden]], EHR workflows, insurance denials, medical coding, HIPAA, doctor evidence search, and platform competition among [[OpenAI]], [[Anthropic]], and [[OpenEvidence]].
+
 ## Connections
+- [[PhysicianAdministrativeBurden]], [[HealthcareAIInfrastructure]], [[HIPAAConstrainedMedicalAI]], and [[EvidenceGroundedMedicalRAG]] — U.S. healthcare AI branch added by E227.
 - [[HospitalInformationSystem]], [[MedicalLiteratureSearch]], and [[OnlineAppointmentRegistration]] — early infrastructure and access layers.
 - [[OnlineMedicalConsultation]], [[PharmaceuticalEcommerce]], and [[InternetHospital]] — consumer-facing and institutional service layers.
 - [[MedicalPlatformTrustCrisis]] and [[OnlineHealthcareRegulatoryBoundary]] — trust and policy limits.

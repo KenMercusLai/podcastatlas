@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？](sources/e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67.md) — 硅谷101 episode on U.S. healthcare AI, physician administrative burden, billing/coding automation, HIPAA constraints, OpenEvidence, OpenAI and Anthropic healthcare products, and doctor-led medical AI workflows.
 - [E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛](sources/e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73.md) — 硅谷101 episode with Zhou Jiangong on Demis Hassabis, DeepMind's reinforcement-learning AGI route, AlphaGo, AlphaFold, Google acquisition, Gemini catch-up, and scientific ideal versus AI race risk.
 - [当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert](sources/dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi.md) — 42章经 episode with Albert on AI coding abundance, model-company value capture, small maker tools, software as cultural work, maker community, and one-person fund speculation.
 - [真正改变世界的技术，为什么一开始都不被看好？| S10E16](sources/zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1.md) — What's Next episode with Wang Bo on semiconductor history, Moore's Law as industry coordination, MOS transistor underestimation, Huawei's Tau Law, disruptive innovation, and human know-how under AI.
@@ -696,6 +697,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [OpenEvidence](entities/OpenEvidence.md) — Physician-facing medical AI search product framed around evidence-grounded answers, licensed medical content, doctor adoption, and advertising trust risk.
+- [ChatGPT Health](entities/ChatGPTHealth.md) — OpenAI's consumer health product surface, useful for health questions and preparation but bounded by disclaimers, data separation, and doctor consultation.
+- [ChatGPT for Healthcare](entities/ChatGPTForHealthcare.md) — OpenAI hospital-facing healthcare platform path for prior authorization, record summaries, patient communication, coding, and institution workflows.
+- [Claude for Healthcare](entities/ClaudeForHealthcare.md) — Anthropic healthcare product route focused on infrastructure, billing, coding, compliance, and APIs rather than autonomous diagnosis.
+- [HealthBench](entities/HealthBench.md) — OpenAI medical AI benchmark using realistic clinician-scored conversation scenarios rather than only medical exam-style questions.
+- [周叶冰 / Zhou Yebing](entities/ZhouYebing.md) — Genetics PhD and U.S. pharma immunology researcher grounding E227's medical AI discussion in evidence, clinical workflow, and patient context.
+- [Fusion Fund](entities/FusionFund.md) — Venture firm associated with Zhang Lu's healthcare AI investment-side framing in E227.
+- [Eli Lilly](entities/EliLilly.md) — Pharmaceutical company named in E227 through a strategic AI cooperation signal with Nvidia.
+- [JP Morgan Healthcare Conference](entities/JPMorganHealthcareConference.md) — Healthcare industry conference used by Zhang Lu as the adoption-sentiment signal for AI integration becoming mandatory.
 - [DeepMind](entities/DeepMind.md) — London AI research company framed as Hassabis's reinforcement-learning AGI lab before Google acquisition and Google DeepMind consolidation.
 - [Demis Hassabis](entities/DemisHassabis.md) — DeepMind founder and Google DeepMind leader interpreted through chess, games, neuroscience, AlphaGo, AlphaFold, and science-versus-race tension.
 - [周建功 / Zhou Jiangong](entities/ZhouJiangong.md) — Technology and financial media worker and translator interpreting Hassabis through a 2017 interview and Mallaby biography.
@@ -4799,6 +4809,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Physician Administrative Burden](concepts/PhysicianAdministrativeBurden.md) — U.S. healthcare workflow problem where doctors spend large time on records, insurance, documentation, coding, and billing rather than patient care.
+- [Healthcare AI Infrastructure](concepts/HealthcareAIInfrastructure.md) — Medical AI layer below the chatbot surface: billing, coding, compliance, APIs, EHR integration, data sharing, deployment, and auditability.
+- [Medical Billing and Coding Automation](concepts/MedicalBillingAndCodingAutomation.md) — AI use case for translating clinical work into payer-facing codes, checking documentation, and reducing denial or payment delays.
+- [HIPAA-Constrained Medical AI](concepts/HIPAAConstrainedMedicalAI.md) — U.S. healthcare AI boundary around protected health information, data separation, access control, auditability, and legal exposure.
+- [Evidence-Grounded Medical RAG](concepts/EvidenceGroundedMedicalRAG.md) — Medical retrieval-augmented generation pattern that prioritizes authoritative sources, evidence levels, citations, and doctor verification.
+- [Vertical Medical Small Models](concepts/VerticalMedicalSmallModels.md) — Healthcare model strategy favoring narrow, controllable, locally deployable, task-specific systems over raw general-model size.
+- [Health Insurance Denial Workflow](concepts/HealthInsuranceDenialWorkflow.md) — Operational claims and appeals layer where documentation, coding, medical-necessity language, and payer rules determine payment.
+- [Federated Medical Data Sharing](concepts/FederatedMedicalDataSharing.md) — Privacy-preserving medical data collaboration pattern where institutions share learning value without physically centralizing raw patient data.
 - [Reinforcement Learning AGI Path](concepts/ReinforcementLearningAGIPath.md) — DeepMind-style route to AGI through agents, environments, rewards, games, and later RL-on-language-model return.
 - [Scientific Ideal vs AI Arms Race](concepts/ScientificIdealVsAIArmsRace.md) — Tension where sincere AI-for-science ambition still participates in strategic model competition and governance risk.
 - [DeepMind Acquisition Choice](concepts/DeepMindAcquisitionChoice.md) — Interpretation of why Hassabis chose Google over Facebook: compute, science, independence, and AI safety alongside price.

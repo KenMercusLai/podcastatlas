@@ -5413,6 +5413,10 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-05] ingest | E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？
+
+Added source page for a 硅谷101 episode with Zhang Lu and Zhou Yebing on U.S. healthcare AI competition. Created pages for OpenEvidence, ChatGPT Health, ChatGPT for Healthcare, Claude for Healthcare, HealthBench, Zhou Yebing, Fusion Fund, Eli Lilly, JP Morgan Healthcare Conference, Physician Administrative Burden, Healthcare AI Infrastructure, Medical Billing and Coding Automation, HIPAA-Constrained Medical AI, Evidence-Grounded Medical RAG, Vertical Medical Small Models, Health Insurance Denial Workflow, and Federated Medical Data Sharing; updated overview, index, SiliconValley101, Zhang Lu, OpenAI, Anthropic, Microsoft, Nvidia, ChatGPT, Claude, Medical AI Workflow Integration, AI Health Management, Human Judgment Under AI, Medical AI Marketing Risk, U.S. Health Insurance Denial Politics, Hospital Information System, Internet Healthcare, Online Healthcare Regulatory Boundary, Medical Platform Trust Crisis, Medical Literature Search, Personal Health Data, Retrieval-Augmented Generation, AI Verification, and AI Hallucination. No direct contradiction found; the source reinforces doctor-led AI health boundaries while adding the U.S. provider/payment stack, HIPAA constraints, evidence-grounded physician search, and startup-versus-giant healthcare AI competition.
+
 ## [2026-08-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -5540,6 +5544,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-05] ingest | 真正改变世界的技术，为什么一开始都不被看好？| S10E16
 
 Added source page for a What's Next｜科技早知道 episode with Wang Bo on semiconductor history and why important technologies are often underestimated at first. Created pages for Wang Bo, A Brief History of Chips, Bell Labs, Fairchild Semiconductor, Muhammad Atalla, Dawon Kahng, AT&T, Andrew Grove, Disruptive Innovation, MOSFET, Bipolar Junction Transistor, System-Level Semiconductor Optimization, and Domain Know-How Moat; updated overview, index, What's Next｜科技早知道, Moore's Law, Tau Law, Electronic Design Automation, Semiconductor Supply Chain, Non-Consensus Innovation, Large Company Organizational Inertia, Human Judgment Under AI, Intel, Gordon Moore, Huawei, Constraint Driven Engineering Strategy, Battery Manufacturing Know-How, Technology Installation Cycle, Nvidia, Google, and Jensen Huang. No direct contradiction found; the source reinforces the existing cautious Tau Law interpretation while adding the historical pattern that early yield, heat, speed, stability, and tooling weaknesses can hide scalable advantages.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-05] lint | Wiki health check
 
