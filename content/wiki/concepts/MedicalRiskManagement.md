@@ -2,7 +2,7 @@
 title: "Medical Risk Management"
 type: concept
 tags: [healthcare, risk, clinical-systems]
-sources: [yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
+sources: [86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437, yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
 last_updated: 2026-08-06
 ---
 
@@ -18,6 +18,8 @@ The episode also treats modern medicine as a system built around fallible people
 
 [[yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]] adds an ordinary acute-illness version. The hosts describe hydration, nutrition, mood, rest, and not casually mixing medication as personal recovery experience, while also stressing [[MedicalKnowledgeBoundary]]: even hospital testing may not identify every infection, and early expert advice can change as evidence accumulates.
 
+[[86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437]] adds the operating-room version through [[StephenWestaby|Stephen Westaby / 史蒂芬·维斯塔比]]. Here risk management is not only conservative screening; it can mean deciding whether to attempt [[HighRiskSurgicalInnovation]], use [[ArtificialHeartBridgeTherapy]], or challenge device and mortality-reporting rules when the alternative is likely death.
+
 ## Key Claims
 - Clinical advice often starts from worst-case screening because medicine has to manage severity as well as probability.
 - Online or casual consultation has a narrower safety margin because the doctor cannot examine the patient or verify the full context.
@@ -27,6 +29,7 @@ The episode also treats modern medicine as a system built around fallible people
 - In diagnostics, the standard next step may be unsafe if tissue sampling could worsen disease spread; a better access route can reduce risk only after validation.
 - Gray-market health products can move risk from regulated manufacturers and clinicians to individual users who lack reliable information about contents, dose, and evidence.
 - Ordinary self-care can reduce avoidable stress during infection, but it should stay bounded as experience sharing rather than universal diagnosis or treatment.
+- In extreme surgery, avoiding the risky intervention may also be a risk decision, especially when the patient has few remaining options.
 
 ## Connections
 - [[OnlineMedicalConsultation]] - online advice category whose limits the episode illustrates from the doctor's side.
@@ -37,3 +40,4 @@ The episode also treats modern medicine as a system built around fallible people
 - [[SurbhiSarna]], [[OvarianCancerDiagnostics]], [[FallopianTubeAccessDiagnostics]], and [[WomensHealthDiagnosticGap]] - women-health diagnostic risk case added by The Social Radars.
 - [[GrayMarketPeptides]], [[GLP1Agonists]], [[ResearchChemicalLoophole]], and [[TechCultureBiohacking]] - consumer self-injection risk branch added by Marketplace Tech.
 - [[InfectiousDiseasePublicLiteracy]] and [[MedicalKnowledgeBoundary]] - sickbed reading-list extension around infection recovery and medicine's limits.
+- [[StephenWestaby|Stephen Westaby / 史蒂芬·维斯塔比]], [[HighRiskSurgicalInnovation]], [[ArtificialHeartBridgeTherapy]], and [[SurgicalOutcomeMetricDistortion]] - cardiac-surgery extension from episode 86.

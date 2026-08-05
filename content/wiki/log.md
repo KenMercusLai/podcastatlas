@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-06] ingest | 86.打开一颗心：那美好的仗，我已经打过了
+
+Added source page for a 蜜獾吃书 episode on Stephen Westaby, 《打开一颗心》 / Open Heart, cardiac surgery, early hospital training, patient death and family memory, the Westaby tube, extreme infant surgery, artificial hearts, left-ventricular assist pumps, the AB180 blood pump, high-risk surgical innovation, mortality-rate metrics, and sponsor-linked major-illness insurance planning. Created pages for Stephen Westaby, Robert Jarvik, AB180 Blood Pump, High-Risk Surgical Innovation, Artificial Heart Bridge Therapy, and Surgical Outcome Metric Distortion; updated overview, index, 蜜獾吃书, 《打开一颗心》, Medical Knowledge Boundary, Medical Risk Management, Medical Device Clinical Validation, Bureaucratic Risk Avoidance, Insurance Risk Transfer, Health Insurance Planning, and 小雨伞. No direct contradiction found; the source expands the earlier sickbed reading-list recommendation into a full surgical ethics and medical-innovation branch.
+
 ## [2026-08-06] ingest | 85.车墩墩野事记：走啊！搬到乡下钻小树林儿去！
 
 Added source page for a 蜜獾吃书 episode with 尹琪 on 《车墩墩野事记》, 车墩镇 city-edge life, bats, swallows, zhang/deerlike animals, insects, fireflies, raccoon-dog surveys, small woods, local shops, community lighting, and observation before judgment. Created pages for 尹琪 / Yin Qi (nature writer), 《车墩墩野事记》, 车墩镇 / Chedun Town, Urban-Edge Nature, and Community Firefly Protection; updated overview, index, 蜜獾吃书, 秦总, Nature Writing, Nature Contact And Self-Perception, Urban Ecology, Citizen Science, Humanistic Science Communication, and Observation Before Inference. No direct contradiction found; the source qualifies nature-contact pages by showing that moving closer to nature also includes mess, fear, waste, commuting, and community negotiation.
@@ -5860,3 +5864,7 @@ Ran health before lint; health scanned 8,271 wiki pages and found no empty/stub 
 ## [2026-08-06] lint | Wiki health check
 
 Ran health before lint; health scanned 8,277 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,277 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 8,277 pages; treat graph findings as stale until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`; bounded fallback review found no hard unresolved contradiction but retained follow-ups for `MidJourney.md`/`Midjourney.md` casing duplication, `ProjectGlasswing`/`ProjectGlassfin` naming reconciliation, source-local FigureAI autonomy and Cursor acquisition claims, SpaceX IPO/profitability source-dated tension, and the `+-` formatting artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran health before lint; health scanned 8,284 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,284 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` and found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because no provider-qualified `LLM_MODEL` or API key is configured in the shell environment. No `wiki/lint-report.md` file was saved.

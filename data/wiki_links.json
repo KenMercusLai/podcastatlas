@@ -867,6 +867,10 @@
     "title": "85.车墩墩野事记：走啊！搬到乡下钻小树林儿去！",
     "url": "/wiki/sources/85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571/"
   },
+  "86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437": {
+    "title": "86.打开一颗心：那美好的仗，我已经打过了",
+    "url": "/wiki/sources/86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -922,6 +926,10 @@
   "A7A5": {
     "title": "A7A5",
     "url": "/wiki/entities/a7a5/"
+  },
+  "AB180BloodPump": {
+    "title": "AB180 Blood Pump",
+    "url": "/wiki/entities/ab180bloodpump/"
   },
   "ABC": {
     "title": "ABC",
@@ -3286,6 +3294,10 @@
   "ArtificialCognition": {
     "title": "Artificial Cognition",
     "url": "/wiki/concepts/artificialcognition/"
+  },
+  "ArtificialHeartBridgeTherapy": {
+    "title": "Artificial Heart Bridge Therapy",
+    "url": "/wiki/concepts/artificialheartbridgetherapy/"
   },
   "ArtisanalAttention": {
     "title": "Artisanal Attention",
@@ -12950,6 +12962,10 @@
   "HighRiskLaborMutualAid": {
     "title": "High-Risk Labor Mutual Aid / 高风险劳动互助",
     "url": "/wiki/concepts/highrisklabormutualaid/"
+  },
+  "HighRiskSurgicalInnovation": {
+    "title": "High-Risk Surgical Innovation",
+    "url": "/wiki/concepts/highrisksurgicalinnovation/"
   },
   "HighSensitivityAsDifference": {
     "title": "High Sensitivity As Difference / 高敏感作为差异",
@@ -23619,6 +23635,10 @@
     "title": "Robert Hooke / 罗伯特·胡克",
     "url": "/wiki/entities/roberthooke/"
   },
+  "RobertJarvik": {
+    "title": "Robert Jarvik / 罗伯特·贾维克",
+    "url": "/wiki/entities/robertjarvik/"
+  },
   "RobertKelchen": {
     "title": "Robert Kelchen",
     "url": "/wiki/entities/robertkelchen/"
@@ -26239,6 +26259,10 @@
     "title": "Stephen Starr",
     "url": "/wiki/entities/stephenstarr/"
   },
+  "StephenWestaby": {
+    "title": "Stephen Westaby / 史蒂芬·维斯塔比",
+    "url": "/wiki/entities/stephenwestaby/"
+  },
   "SteppenwolfHesse": {
     "title": "《荒原狼》 / Steppenwolf",
     "url": "/wiki/entities/steppenwolfhesse/"
@@ -26650,6 +26674,10 @@
   "SurbhiSarna": {
     "title": "Surbhi Sarna",
     "url": "/wiki/entities/surbhisarna/"
+  },
+  "SurgicalOutcomeMetricDistortion": {
+    "title": "Surgical Outcome Metric Distortion",
+    "url": "/wiki/concepts/surgicaloutcomemetricdistortion/"
   },
   "SurveillanceAsAService": {
     "title": "Surveillance as a Service",

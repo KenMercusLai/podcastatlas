@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [86.打开一颗心：那美好的仗，我已经打过了](sources/86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437.md) — 蜜獾吃书 episode on Stephen Westaby, 《打开一颗心》, cardiac surgery, artificial hearts, the AB180 blood pump, high-risk surgical innovation, mortality metrics, and sponsor-linked major-illness insurance planning.
 - [85.车墩墩野事记：走啊！搬到乡下钻小树林儿去！](sources/85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571.md) — 蜜獾吃书 episode with 尹琪 on 《车墩墩野事记》, city-edge nature, Chedun life, small woods, fireflies, raccoon-dog surveys, and observation before judgment.
 - [84.冰路狂花：好姑娘，你只是忘了勇敢](sources/84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676.md) — 蜜獾吃书 episode on Amy Butcher's Mothertrucker, Joy Wiebe, Alaska's Dalton Highway, psychological abuse, why-not-leave victim blaming, and courage as concrete exit.
 - [83.梳毛、八卦及语言的进化：人际关系“邓巴数”，咱不服不行](sources/83-shumao-bagua-ji-yuyan-de-jinhua-renji-guanxi-dengbashu-zan-bu-fu-bu-xing-698132861.md) — 蜜獾吃书 episode on Robin Dunbar, Dunbar Number, social grooming, gossip, language evolution, workplace informal talk, group-boundary language, and podcast intimacy.
@@ -734,6 +735,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Stephen Westaby / 史蒂芬·维斯塔比](entities/StephenWestaby.md) — Cardiac surgeon at the center of 《打开一颗心》, connecting surgical courage, artificial hearts, patient memory, and institutional risk.
+- [Robert Jarvik / 罗伯特·贾维克](entities/RobertJarvik.md) — Artificial-heart figure used by episode 86 to connect Westaby's work to left-ventricular assist-pump development.
+- [AB180 Blood Pump](entities/AB180BloodPump.md) — Rotating blood-pump device in episode 86's Julie case, linking artificial-heart bridge therapy, device validation, and bureaucratic risk.
 - [尹琪 / Yin Qi (nature writer)](entities/YinQiCheDundun.md) — Author of 《车墩墩野事记》 whose city-edge observations connect nature writing, insects, birds, fireflies, and renewed attention to people.
 - [《车墩墩野事记》](entities/CheDundunYeShiji.md) — 尹琪 essay collection discussed by episode 85 as nature writing about Chedun, urban-edge animals, local people, and messy ordinary habitats.
 - [车墩镇 / Chedun Town](entities/ChedunTown.md) — Shanghai-area urban-edge town that grounds 《车墩墩野事记》 through balconies, storefronts, woods, fields, fireflies, and community life.
@@ -893,7 +897,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《瘟疫传说》 / A Plague Tale](entities/APlagueTale.md) — Game-series association showing plague imagination in interactive media.
 - [《失信：公共卫生体系的崩溃》](entities/ShixinPublicHealth.md) — Public-health-system book tied to clean water, sanitation, outbreak memory, and prevention invisibility.
 - [劳丽·加勒特 / Laurie Garrett](entities/LaurieGarrett.md) — Journalist and public-health author inferred behind the 《失信》 recommendation.
-- [《打开一颗心》 / Open Heart](entities/DakayiKexin.md) — Cardiac-surgeon memoir used to close the episode on medical courage within medicine's limits.
+- [《打开一颗心》 / Open Heart](entities/DakayiKexin.md) — Stephen Westaby cardiac-surgeon memoir read through high-risk surgery, artificial hearts, patient memory, and medical courage within medicine's limits.
 - [《讲了一百万次的故事》 / Stories Told a Million Times](entities/StoriesToldAMillionTimes.md) — Oral-literature anthology frame connecting the wiki's African and Indigenous American mythology branches through collected, translated, and retold stories.
 - [Gabriel Garcia Marquez / 加西亚·马尔克斯](entities/GabrielGarciaMarquez.md) — Writer used by episode 32 as the literary comparison point for oral myth, family storytelling, and magical-realist atmosphere.
 - [Coyote / 凯奥蒂](entities/CoyoteTrickster.md) — North American culture hero and trickster whose fire theft, salmon rules, monster defeats, and comic troublemaking extend the wiki's trickster branch.
@@ -5074,6 +5078,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [High-Risk Surgical Innovation](concepts/HighRiskSurgicalInnovation.md) — Surgical innovation pattern where patient severity, device limits, permission, and responsibility collide before a stable playbook exists.
+- [Artificial Heart Bridge Therapy](concepts/ArtificialHeartBridgeTherapy.md) — Mechanical circulatory support used to buy time, support recovery, or bridge patients toward transplant under serious device and ICU risks.
+- [Surgical Outcome Metric Distortion](concepts/SurgicalOutcomeMetricDistortion.md) — Incentive problem where crude mortality statistics can discourage surgeons from accepting the sickest or rarest cases.
 - [Urban-Edge Nature / 城市边缘自然](concepts/UrbanEdgeNature.md) — Mixed city/suburb/village habitat where animals, residents, infrastructure, waste, safety, and informal human behavior shape one lived ecology.
 - [Community Firefly Protection / 社区萤火虫保护](concepts/CommunityFireflyProtection.md) — Small-scale urban conservation where darkness, path lights, resident cooperation, and night observation decide whether local fireflies can persist.
 - [Psychological Abuse Recognition / 精神虐待识别](concepts/PsychologicalAbuseRecognition.md) — Naming intimidation, verbal terror, shame, and reality distortion as abuse even without visible injury.
