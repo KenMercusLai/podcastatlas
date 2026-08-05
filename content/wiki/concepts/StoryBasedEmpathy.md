@@ -2,8 +2,8 @@
 title: "Story-Based Empathy"
 type: concept
 tags: [reading, literature, empathy, narrative]
-sources: [134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226, 96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, jiaqi-moyu-geng-jiankang-574391976, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]
-last_updated: 2026-07-24
+sources: [32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714, 134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226, 96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, jiaqi-moyu-geng-jiankang-574391976, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]
+last_updated: 2026-08-06
 ---
 
 # Story-Based Empathy
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 Story-based empathy is the claim that stories can expand understanding more effectively than direct moral argument because they let a reader inhabit concrete lives, feelings, and situations. In [[jiaqi-moyu-geng-jiankang-574391976]], [[MihuanChishu|蜜獾吃书]] explains its preference for "more stories, fewer doctrines" by arguing that abstract concepts often become grounds for mutual attack, while literature can carry complexity that ordinary argumentative language cannot.
 
 The concept extends [[EmpathyAsAestheticCapacity]] and [[EmpathyCircleExpansion]]. The episode's point is not that stories make everyone kind automatically; it is that a person whose experience remains narrow has fewer chances to notice other minds, and literary experience can make numbness or cruelty less natural.
+
+[[32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714]] adds an [[IndigenousAmericanMythology]] case. The episode does not begin with a deity chart; it asks listeners to follow [[CoyoteTrickster|Coyote / 凯奥蒂]], flood survivors, corn humans, animal spouses, salmon rules, and moon marks until a distant story logic becomes inhabitable rather than merely "illogical."
 
 [[147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]] adds a cross-cultural folklore case. The episode uses comparison, humor, and source caveats to help Chinese-speaking listeners enter [[AfricanMythology]] without reducing it to either moral lessons or exotic oddity; stories become a way to notice how unfamiliar societies imagine creation, kinship, animals, resources, kingship, and argument.
 
@@ -33,6 +35,7 @@ The concept extends [[EmpathyAsAestheticCapacity]] and [[EmpathyCircleExpansion]
 - Humorous historical storytelling can make a distant social order legible if it keeps the violence, hierarchy, and source limits visible.
 - Epic storytelling can make mortality and enemy grief perceptible where abstract statements about war would remain thin.
 - Stories of small gifts can make goodwill credible when kindness is shown through timing, scarcity, reciprocity, and daily use.
+- Indigenous American myths show how story sequence can make a nonmodern human-animal and nature-person world legible without translating it into a doctrine first.
 
 ## Connections
 - [[jiaqi-moyu-geng-jiankang-574391976]] - source episode that names the method.
@@ -47,3 +50,4 @@ The concept extends [[EmpathyAsAestheticCapacity]] and [[EmpathyCircleExpansion]
 - [[ZuoZhuan|《左传》]], [[SpringAutumnWarfareRitual]], and [[SportsAsHistoricalReadingFrame]] - episode 109 case where humor opens pre-Qin historical distance.
 - [[TheIliad]], [[MuthosLogosTension]], and [[HomericMortalityReading]] - episode 96 case where epic narrative makes death and pity concrete.
 - [[EightyFourCharingCrossRoad|《查令十字街84号》]], [[EpistolaryFriendship]], and [[DignityThroughSmallGifts]] - episode 134 case where letters and gifts make ordinary kindness concrete.
+- [[IndigenousAmericanMythology]], [[NativeAmericanOralLiterature]], and [[HumanAnimalContinuityInMyth]] - episode 32 case where oral myth makes a distant worldview readable.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-06] ingest | 32.印第安人《讲了一百万次的故事》是马尔克斯的老师
+
+Added source page for a 蜜獾吃书 episode on Indigenous American oral literature, Coyote / 凯奥蒂, human-animal continuity, origin myths, Maya/Aztec/South American contrasts, colonial story layering, and the connection between oral mythic logic and Marquez-style magical-realism atmosphere. Created pages for 《讲了一百万次的故事》 / Stories Told a Million Times, Gabriel Garcia Marquez, Coyote / 凯奥蒂, Indigenous American Mythology, Native American Oral Literature, Oral Myth As Magical Realism Source, and Human-Animal Continuity In Myth; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, Mythic Source Layering, Story Motif Transmission, Myth As Historical Evidence, Folklore As Social Memory, Trickster Ambivalence, Story-Based Empathy, and African Oral Literature. No direct contradiction found; the source extends the wiki's mythology-method branch by adding a plural, oral, variant-rich, and colonially layered Indigenous American case.
+
 ## [2026-08-06] ingest | 29.千面英雄：俄狄浦斯正在下班挤地铁
 
 Added source page for a 蜜獾吃书 episode on Joseph Campbell's 《千面英雄》, monomyth, hero-journey narrative, myth as public dream, Freud/Jung/Frazer influence, belly-of-the-whale rebirth, parent archetypes, return with boon, and modern media examples from Star Wars to 《西游记》. Created pages for 《千面英雄》 / The Hero with a Thousand Faces, Sigmund Freud, James George Frazer, 《金枝》 / The Golden Bough, George Lucas, Oedipus, Monomyth, Myth As Public Dream, Collective Unconscious, Belly of the Whale Rebirth, Mythic Parent Archetypes, and Hero Return With Boon; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, Joseph Campbell, Hero Journey Narrative, Jungian Archetypal Reading, Carl Jung, Star Wars, The Matrix, Journey to the West, Greek Mythology, Myth As Historical Evidence, Story Motif Transmission, Interpretation And Overinterpretation, Classic Reading Complexity, and Reading As Life Experience. No direct contradiction found; the source expands Campbell from an earlier Pinocchio framework reference into a full disputed-but-useful comparative mythology branch.
@@ -5640,6 +5644,10 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-08-06] ingest | 31.冰与火之歌：虽然从不自称历史
 
 Added source page for a 蜜獾吃书 episode reading 《冰与火之歌》 and 《权力的游戏》 through historical fantasy source layering, covering the Wars of the Roses, conquest history, medieval geography, Valyria/Rome analogies, Celtic and Norse myth, unreliable in-world historiography, religion, disease, and later historical parallels such as the Knights Templar and Constantinople. Created pages for 《冰与火之歌》 / A Song of Ice and Fire, 《权力的游戏》 / Game of Thrones, Wars of the Roses, Historical Fantasy Source Layering, and Fictional Historiography; updated overview, index, 蜜獾吃书, George R. R. Martin, J.R.R. Tolkien, Princes in the Tower, Celtic Mythology, Norse Mythology, Mythic Source Layering, Story Motif Transmission, and Interpretation And Overinterpretation. No direct contradiction found; the source extends the wiki's mythology and evidence-discipline branches by showing that Martin's historical density depends on recombination and in-world memory uncertainty rather than one-to-one prototype claims.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

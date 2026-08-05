@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [32.印第安人《讲了一百万次的故事》是马尔克斯的老师](sources/32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714.md) — 蜜獾吃书 episode introducing Indigenous American oral literature through Coyote, human-animal continuity, origin myths, colonial story layering, and the oral-story roots of magical-realism atmosphere.
 - [31.冰与火之歌：虽然从不自称历史](sources/31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848.md) — 蜜獾吃书 episode reading 《冰与火之歌》 through historical fantasy source layering: Wars of the Roses, conquest history, medieval religion, Celtic/Norse myth, unreliable records, and the guardrail against one-to-one prototype hunting.
 - [30.孟子：战国愤青的赤子之心](sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138.md) — 蜜獾吃书 episode rereading 孟子 as a forceful Warring States political thinker through 义利之辨, 仁政, 王道/霸道, 有恒产者有恒心, 民贵君轻, 暴君非君, and the limits of benevolent conquest.
 - [29.千面英雄：俄狄浦斯正在下班挤地铁](sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891.md) — 蜜獾吃书 episode on Joseph Campbell's 《千面英雄》, monomyth, hero-journey stages, public-dream myth reading, Jung/Freud/Frazer influence, and modern media examples from Star Wars to 《西游记》.
@@ -707,6 +708,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《讲了一百万次的故事》 / Stories Told a Million Times](entities/StoriesToldAMillionTimes.md) — Oral-literature anthology frame connecting the wiki's African and Indigenous American mythology branches through collected, translated, and retold stories.
+- [Gabriel Garcia Marquez / 加西亚·马尔克斯](entities/GabrielGarciaMarquez.md) — Writer used by episode 32 as the literary comparison point for oral myth, family storytelling, and magical-realist atmosphere.
+- [Coyote / 凯奥蒂](entities/CoyoteTrickster.md) — North American culture hero and trickster whose fire theft, salmon rules, monster defeats, and comic troublemaking extend the wiki's trickster branch.
 - [《冰与火之歌》 / A Song of Ice and Fire](entities/ASongOfIceAndFire.md) — George R. R. Martin fantasy series read by episode 31 as layered from dynastic conflict, conquest, religion, mythology, geography, disease, and unreliable in-world history.
 - [《权力的游戏》 / Game of Thrones](entities/GameOfThrones.md) — Screen-facing adaptation route into 《冰与火之歌》, used by episode 31 to distinguish visible plot from deeper fictional prehistory and adaptation limits.
 - [Wars of the Roses / 玫瑰战争](entities/WarsOfTheRoses.md) — English succession conflict used by episode 31 as the strongest political analogy for Martin's noble-family struggle, with a caution against direct mapping.
@@ -4880,6 +4884,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Indigenous American Mythology / 美洲原住民神话](concepts/IndigenousAmericanMythology.md) — Broad mythology field from episode 32 treating North American, Mesoamerican, and South American materials as plural oral and regional systems.
+- [Native American Oral Literature / 美洲原住民口头文学](concepts/NativeAmericanOralLiterature.md) — Transmission frame for episode 32's collected Indigenous American tales, variants, origin explanations, and colonial recording layers.
+- [Oral Myth As Magical Realism Source](concepts/OralMythMagicalRealismSource.md) — Reading frame connecting oral mythic logic, family storytelling, colonial mixture, and Marquez-style magical-realist atmosphere without overclaiming direct influence.
+- [Human-Animal Continuity In Myth](concepts/HumanAnimalContinuityInMyth.md) — Pattern where animals act as kin, spouses, creators, teachers, enemies, ancestors, and culture heroes rather than simple allegorical figures.
 - [Historical Fantasy Source Layering](concepts/HistoricalFantasySourceLayering.md) — Worldbuilding method where fantasy gains historical texture by recombining wars, conquest, religion, mythology, institutions, disease, geography, and records without becoming disguised history.
 - [Fictional Historiography](concepts/FictionalHistoriography.md) — Fictional-world method where archives, legends, anachronisms, and contested memory make an invented past feel historically unstable.
 - [Early Confucian Resistance Politics / 早期儒家的反抗政治](concepts/EarlyConfucianResistancePolitics.md) — Episode 30 frame separating Mencian Confucianism from obedience-only imperial stereotypes through dignity, remonstrance, and tyrant delegitimation.

@@ -2,11 +2,13 @@
 title: "Myth As Historical Evidence"
 type: concept
 tags: [mythology, evidence, interpretation, anthropology]
-sources: [29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+sources: [32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714, 29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
 last_updated: 2026-08-06
 ---
 
 # Myth As Historical Evidence
+
+[[32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714]] adds an Indigenous American oral-mythology caution. The source uses flood stories, migration origins, human-animal ancestry, ecological pressure, colonial recording, and human-sacrifice claims as possible historical or social clues, but many of those moves remain source-level interpretation. The episode is most reliable when it treats the tales as [[FolkloreAsSocialMemory]] and [[NativeAmericanOralLiterature]] rather than as direct evidence of one past event or one unified culture.
 
 [[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]] adds a Campbell/Frazer boundary case. [[TheHeroWithAThousandFaces|《千面英雄》]] and [[TheGoldenBough|《金枝》]] both make myth and ritual feel deeply patterned, but the episode repeatedly distinguishes suggestive resemblance from historical proof. Flood stories, sacred-kingship examples, death-and-renewal rituals, and taboo rules may preserve memory or social anxiety, yet they still need source-specific evidence before becoming historical claims.
 
@@ -40,6 +42,7 @@ The episode finds this method productive but dangerous. It can reveal that stori
 - Legend evidence needs the same split: a dated local record, a later magical plot, and a social-history interpretation are not the same kind of proof.
 - Celtic evidence needs the same split: medieval manuscript preservation, oral memory, divine genealogy, animal transformation, and Romantic revival are related but not identical evidence types.
 - Epic evidence needs the same split: flood resemblance, snake motifs, manuscript layers, and environmental atmosphere can orient inquiry without proving a single historical route or cause.
+- Indigenous American oral evidence needs the same split: flood, migration, animal kinship, sacrifice, and colonial-contact stories can orient questions, but they do not prove a single history without external support.
 
 ## Connections
 - [[TheHeroWithAThousandFaces|《千面英雄》]], [[JosephCampbell]], [[JamesGeorgeFrazer]], [[TheGoldenBough|《金枝》]], and [[Monomyth]] - episode 29's comparative-mythology caution.
@@ -54,3 +57,4 @@ The episode finds this method productive but dangerous. It can reveal that stori
 - [[ObservationBeforeInference]] and [[InterpretationAndOverinterpretation]] - wiki guardrails for evidence discipline.
 - [[ChineseDragon|龙]], [[DragonNationalSymbolInvention]], and [[TotemismNationalism]] - dragon-national-symbol case added by episode 127.
 - [[Snake|蛇]], [[SnakeRenewalAndSecretKnowledge]], and [[SnakeFemalePowerMotif]] - snake-symbol case added by episode 128.
+- [[IndigenousAmericanMythology]], [[NativeAmericanOralLiterature]], and [[HumanAnimalContinuityInMyth]] - Indigenous American oral-mythology evidence case added by episode 32.

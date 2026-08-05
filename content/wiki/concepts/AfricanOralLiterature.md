@@ -3,12 +3,12 @@ title: "African Oral Literature"
 type: concept
 tags: [oral-literature, folklore, africa, storytelling]
 sources: [147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]
-last_updated: 2026-07-14
+last_updated: 2026-08-06
 ---
 
 # African Oral Literature
 
-African oral literature is the source-transmission frame foregrounded in [[147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]]. The episode relies heavily on collected African tales, especially materials presented through the Chinese anthology 《讲了一百万次的故事》, and stresses that some stories come from local oral accounts gathered through teachers, students, workers, and oral-literature specialists.
+African oral literature is the source-transmission frame foregrounded in [[147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]]. The episode relies heavily on collected African tales, especially materials presented through the Chinese anthology [[StoriesToldAMillionTimes|《讲了一百万次的故事》]], and stresses that some stories come from local oral accounts gathered through teachers, students, workers, and oral-literature specialists.
 
 The episode also treats oral literature as performance and memory, not only as written plot. The [[MwindoEpic|Mwindo epic]] is transmitted through telling, dance, and enactment; [[Anansi]] stories explain how stories themselves become an object of divine ownership; and animal-origin tales keep everyday ecological observations, fear, humor, and social discipline inside repeatable narrative forms.
 

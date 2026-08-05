@@ -595,6 +595,10 @@
     "title": "31.冰与火之歌：虽然从不自称历史",
     "url": "/wiki/sources/31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848/"
   },
+  "32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714": {
+    "title": "32.印第安人《讲了一百万次的故事》是马尔克斯的老师",
+    "url": "/wiki/sources/32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714/"
+  },
   "361Degrees": {
     "title": "361 Degrees",
     "url": "/wiki/entities/361degrees/"
@@ -6763,6 +6767,10 @@
     "title": "Coyote",
     "url": "/wiki/entities/coyotegame/"
   },
+  "CoyoteTrickster": {
+    "title": "Coyote / 凯奥蒂",
+    "url": "/wiki/entities/coyotetrickster/"
+  },
   "Crab": {
     "title": "螃蟹 / Crab",
     "url": "/wiki/entities/crab/"
@@ -10867,6 +10875,10 @@
     "title": "Gabriel Attal",
     "url": "/wiki/entities/gabrielattal/"
   },
+  "GabrielGarciaMarquez": {
+    "title": "Gabriel Garcia Marquez / 加西亚·马尔克斯",
+    "url": "/wiki/entities/gabrielgarciamarquez/"
+  },
   "GabrielleSantos": {
     "title": "Gabrielle Santos",
     "url": "/wiki/entities/gabriellesantos/"
@@ -12887,6 +12899,10 @@
     "title": "Human-Agent Collaboration",
     "url": "/wiki/concepts/humanagentcollaboration/"
   },
+  "HumanAnimalContinuityInMyth": {
+    "title": "Human-Animal Continuity In Myth",
+    "url": "/wiki/concepts/humananimalcontinuityinmyth/"
+  },
   "HumanAuthorshipPremium": {
     "title": "Human Authorship Premium",
     "url": "/wiki/concepts/humanauthorshippremium/"
@@ -13218,6 +13234,10 @@
   "IndianaWesleyanUniversity": {
     "title": "Indiana Wesleyan University",
     "url": "/wiki/entities/indianawesleyanuniversity/"
+  },
+  "IndigenousAmericanMythology": {
+    "title": "Indigenous American Mythology / 美洲原住民神话",
+    "url": "/wiki/concepts/indigenousamericanmythology/"
   },
   "IndigenousResidentialSchoolTrauma": {
     "title": "Indigenous Residential School Trauma",
@@ -18603,6 +18623,10 @@
     "title": "Native American Church",
     "url": "/wiki/entities/nativeamericanchurch/"
   },
+  "NativeAmericanOralLiterature": {
+    "title": "Native American Oral Literature / 美洲原住民口头文学",
+    "url": "/wiki/concepts/nativeamericanoralliterature/"
+  },
   "NatsumeSoseki": {
     "title": "Natsume Soseki / 夏目漱石",
     "url": "/wiki/entities/natsumesoseki/"
@@ -19622,6 +19646,10 @@
   "OralFormulaicEpic": {
     "title": "Oral-Formulaic Epic",
     "url": "/wiki/concepts/oralformulaicepic/"
+  },
+  "OralMythMagicalRealismSource": {
+    "title": "Oral Myth As Magical Realism Source",
+    "url": "/wiki/concepts/oralmythmagicalrealismsource/"
   },
   "OrbitalComputeGovernance": {
     "title": "Orbital Compute Governance",
@@ -25230,6 +25258,10 @@
   "StorageIndustryCyclicality": {
     "title": "Storage Industry Cyclicality",
     "url": "/wiki/concepts/storageindustrycyclicality/"
+  },
+  "StoriesToldAMillionTimes": {
+    "title": "《讲了一百万次的故事》 / Stories Told a Million Times",
+    "url": "/wiki/entities/storiestoldamilliontimes/"
   },
   "StoryBasedEmpathy": {
     "title": "Story-Based Empathy",

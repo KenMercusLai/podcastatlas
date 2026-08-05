@@ -2,11 +2,13 @@
 title: "民俗作为社会记忆 / Folklore As Social Memory"
 type: concept
 tags: [folklore, memory, modernization, social-history]
-sources: [28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309, 117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+sources: [32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714, 28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309, 117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
 last_updated: 2026-08-06
 ---
 
 # 民俗作为社会记忆 / Folklore As Social Memory
+
+[[32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714]] adds an Indigenous American oral-literature case. The episode treats moon stains, star origins, tobacco and corn, salmon movement, canoe-making, fire in wood, animal taboos, and flood ancestors as ways stories remember practical life, landscape, kinship, danger, and food rules, even when the tale sounds abrupt to modern readers.
 
 民俗作为社会记忆 is the frame [[115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309]] uses when it treats yokai traditions as local memory rather than only superstition. The episode argues that war, industrial development, modern infrastructure, and the loss of documents can erase the conditions that made local stories intelligible.
 
@@ -30,6 +32,7 @@ In this frame, a yokai name or image records how a place once understood water, 
 - A modern national symbol can reuse folklore memory while changing what that memory is asked to prove.
 - Animal folklore can preserve embodied fear and social control at once: the snake is remembered as creature, danger, healer, treasure keeper, wife, goddess, and monster.
 - Literary strange tales can store social memory of performance, institutions, and ordinary fear even when their plots are overtly fantastic.
+- Indigenous American oral tales can store ecological, technical, and kinship memory inside origin stories rather than separating explanation from wonder.
 
 ## Connections
 - [[YokaiMystery|妖怪推理]] - literary form that turns folklore memory into mystery structure.
@@ -40,3 +43,4 @@ In this frame, a yokai name or image records how a place once understood water, 
 - [[ChineseDragon|龙]], [[DragonNationalSymbolInvention]], and [[TotemismNationalism]] - dragon-symbol extension added by episode 127.
 - [[Snake|蛇]], [[SnakeCulturalSymbolism]], [[SnakeRenewalAndSecretKnowledge]], and [[SnakeFemalePowerMotif]] - snake-symbol extension added by episode 128.
 - [[LiaozhaiZhiyi|《聊斋志异》]], [[StrangeTaleSocialCritique]], and [[NonhumanMoralAgencyInStrangeTales]] - literary strange-tale extension added by episode 28.
+- [[NativeAmericanOralLiterature]], [[IndigenousAmericanMythology]], and [[HumanAnimalContinuityInMyth]] - Indigenous American oral-literature extension added by episode 32.

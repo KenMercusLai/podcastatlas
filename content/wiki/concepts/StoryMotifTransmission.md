@@ -2,13 +2,15 @@
 title: "Story Motif Transmission"
 type: concept
 tags: [folklore, mythology, narrative, transmission]
-sources: [31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848, 29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, 06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+sources: [32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714, 31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848, 29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, 06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
 last_updated: 2026-08-06
 ---
 
 # Story Motif Transmission
 
 [[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]] adds [[Monomyth|单一神话]] as a high-level motif-transmission problem. The source treats repeated hero calls, threshold crossings, swallowed interiors, goddess meetings, father tests, magic flights, and return-with-boon plots as real comparative material, but it preserves the same caution as this page: resemblance can come from borrowing, shared memory, recurring human situations, or later recombination.
+
+[[32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714]] adds an Indigenous American oral-literature case. Fire theft, animal markings, flood survival, moon stains, star origins, salmon movement, monster bellies, corn-made humans, canoe invention, and fox/crow fable echoes all become portable motifs, but the source keeps them inside [[NativeAmericanOralLiterature]] rather than treating every resemblance as direct transmission.
 
 Story motif transmission is the source's frame for how story patterns travel, recur, or get reinvented across cultures. In [[171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962]], [[MihuanChishu|蜜獾吃书]] uses horse material to show this: centaurs may reflect outsiders encountering skilled riders, Native American post-contact legends can retroactively place horses at creation, and Saiweng loses his horse can be compared with older fortune-reversal motifs.
 
@@ -59,6 +61,7 @@ The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation
 - Serpent stories show the same caution around powerful motifs: snake wives, forbidden knowledge, hidden bathing, hero-slaying, and renewal can recur without proving one direct genealogy.
 - Gilgamesh and Norse examples show that motifs travel both through old comparative mythology and through modern media franchises; neither route should be collapsed into direct source proof.
 - Zhiguai entries can become later motifs without carrying their whole original archive context into the new moral, dramatic, or religious setting.
+- Indigenous American oral stories show how motifs can explain technology, food rules, animal bodies, heavenly objects, and colonial intrusion at once.
 
 ## Connections
 - [[Monomyth]], [[HeroJourneyNarrative]], [[BellyOfTheWhaleRebirth]], [[MythAsPublicDream]], and [[HeroReturnWithBoon]] - episode 29's hero-pattern extension.
@@ -79,3 +82,4 @@ The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation
 - [[ChineseZodiac|十二生肖]], [[ChineseDragon|龙]], and [[ChineseDragonMythicLayering]] - dragon and zodiac-origin extension added by episode 127.
 - [[Snake|蛇]], [[WhiteSnakeLegend|白蛇传]], [[ZhaoLinger|赵灵儿]], and [[SnakeFemalePowerMotif]] - serpent and snake-woman motif extension added by episode 128.
 - [[SouShenJi|《搜神记》]], [[LiJiSlaysSnake|李寄斩蛇]], [[JiangZiwen|蒋子文]], and [[FilialPietyStoryAfterlife]] - zhiguai motif-reservoir extension added by episode 06.
+- [[NativeAmericanOralLiterature]], [[CoyoteTrickster|Coyote / 凯奥蒂]], [[HumanAnimalContinuityInMyth]], and [[StoriesToldAMillionTimes|《讲了一百万次的故事》]] - Indigenous American oral-story extension added by episode 32.
