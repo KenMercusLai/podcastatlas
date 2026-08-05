@@ -2,8 +2,8 @@
 title: "Protection As Control"
 type: concept
 tags: [gender, power, freedom, social-control]
-sources: [18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, 23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943]
-last_updated: 2026-08-05
+sources: [18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, 23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943, 77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187]
+last_updated: 2026-08-06
 ---
 
 # Protection As Control
@@ -20,6 +20,8 @@ The source's central image is "笼子里的金丝雀": food and water can be off
 
 [[23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943]] adds a public-bureaucratic version through [[SafetyAsControl]]. In [[FeimaPaiQiche|《飞马牌汽车》]], keeping the bus doors closed is repeatedly justified as protecting passenger safety, but the same protection prevents basic bodily needs, emergency handling, and ordinary exit from the trapped vehicle.
 
+[[77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187]] adds two Fallaci cases. In [[RuhollahKhomeini|Khomeini]]'s Iran, clothing rules, moral policing, and temporary-marriage procedure turn public virtue and female modesty into control over [[OrianaFallaci|Fallaci]]'s movement, body, and interview access. In the [[AFTRA]] anecdote, worker-protection language becomes a compulsory institutional demand that takes money and threatens consequences.
+
 ## Key Claims
 - Protection language can hide the fact that the protected person loses decision-making power.
 - Control becomes stronger when it is attached to family honor, religious authority, public danger, or social reputation.
@@ -29,6 +31,7 @@ The source's central image is "笼子里的金丝雀": food and water can be off
 - Bodily protection language becomes controlling when it blocks ordinary participation instead of expanding safe choices.
 - In intimate relationships, "I am protecting you" can hide possession when it narrows outside contact, information, work, or ordinary movement.
 - In public systems, "safety first" can become protection as control when a rule blocks accountable exceptions and treats trapped people as objects to be managed.
+- Labor, religious, or moral institutions can use protective language coercively even when their official purpose is care, dignity, or fairness.
 
 ## Connections
 - [[Afghanistan]] - source setting.
@@ -40,3 +43,4 @@ The source's central image is "笼子里的金丝雀": food and water can be off
 - [[MenstrualStigma]], [[GenderedMedicalization]], and [[MenstrualPublicInfrastructure]] - episode 175's bodily and public-access extension.
 - [[PsychicVampirePersonality]], [[RelationalIsolationControl]], and [[CommunicationBoundarySetting]] - episode 18's intimate-control extension.
 - [[FeimaPaiQiche|《飞马牌汽车》]], [[SafetyAsControl]], and [[RuleIdolatry]] - episode 23's public-safety extension.
+- [[OrianaFallaci]], [[RuhollahKhomeini]], [[AFTRA]], and [[JournalisticIndependenceAgainstFaction]] - episode 77's religious and labor-institution extension.

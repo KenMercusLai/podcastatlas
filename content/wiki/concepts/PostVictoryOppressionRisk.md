@@ -2,8 +2,8 @@
 title: "Post-Victory Oppression Risk / 胜利后的压迫风险"
 type: concept
 tags: [dissent, politics, ethics, power]
-sources: [116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]
-last_updated: 2026-07-24
+sources: [116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, 77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187]
+last_updated: 2026-08-06
 ---
 
 # Post-Victory Oppression Risk / 胜利后的压迫风险
@@ -14,6 +14,8 @@ The concept keeps [[PrincipledDisobedience|principled disobedience]] from becomi
 
 [[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]] turns that warning into a historical case through the [[JacobinClub|Jacobins]], [[MaximilienRobespierre|Robespierre]], and [[RevolutionaryTerrorPolitics]]. The episode shows former revolutionaries using virtue, public pressure, and emergency fear to define later dissenters as enemies of the people.
 
+[[77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187]] adds [[OrianaFallaci|Oriana Fallaci]]'s anti-myth journalism as another guardrail. The source says Fallaci saw many forces that spoke in justice, revolution, religion, labor protection, or freedom later reproduce coercion, corruption, or cruelty. Her interviews with [[MohammadRezaPahlavi|the shah]] and [[RuhollahKhomeini|Khomeini]] make the warning especially clear: condemning an old ruler does not make the next victorious power exempt from scrutiny.
+
 ## Key Claims
 - Being right against one old authority does not make a person permanently trustworthy with power.
 - Victorious dissenters need self-suspicion because moral certainty can harden into domination.
@@ -21,6 +23,7 @@ The concept keeps [[PrincipledDisobedience|principled disobedience]] from becomi
 - Humor and openness to being wrong can prevent principled dissent from becoming factional purity.
 - A culture that values dissent has to protect future dissenters, including those who challenge the winners.
 - Revolutionary victory can become self-justifying terror when winners treat their coercion as the people's virtue.
+- Protective or liberatory labels can become oppressive when the new institution treats criticism as betrayal.
 
 ## Connections
 - [[PrincipledDisobedience]] - the concept's corrective target.
@@ -29,3 +32,4 @@ The concept keeps [[PrincipledDisobedience|principled disobedience]] from becomi
 - [[PowerViolenceDistinction]] - existing Arendtian concept around power and coercion.
 - [[ConscienceOverFaction]] - adjacent frame for refusing camp loyalty after sides change.
 - [[JacobinClub]], [[MaximilienRobespierre]], [[RevolutionaryVirtuePolitics]], and [[RevolutionaryTerrorPolitics]] - French Revolution extension added by episode 125.
+- [[OrianaFallaci]], [[JournalisticIndependenceAgainstFaction]], [[RuhollahKhomeini]], [[MohammadRezaPahlavi]], and [[AFTRA]] - episode 77's journalism and institutional-control extension.

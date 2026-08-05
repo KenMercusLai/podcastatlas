@@ -2,8 +2,8 @@
 title: "Power-Violence Distinction / 权力与暴力区分"
 type: concept
 tags: [politics, power, violence, arendt, resistance]
-sources: [103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]
-last_updated: 2026-07-24
+sources: [103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, 77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187]
+last_updated: 2026-08-06
 ---
 
 # Power-Violence Distinction / 权力与暴力区分
@@ -14,6 +14,8 @@ The key claim is that violence often appears when power is unstable. It can dest
 
 [[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]] adds a French Revolution and assassination case. The host describes democracy and judicial procedure as ways of softening violence into institutional channels; when those channels fail or lose credibility, violent reciprocity can return as [[PoliticalAssassinationEthics|political assassination]], terror, or "righteous" punishment.
 
+[[77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187]] adds [[TlatelolcoMassacre|the Tlatelolco massacre]] through [[OrianaFallaci|Oriana Fallaci]]'s witness account. The episode presents the massacre as peacetime state violence with warlike precision, showing an authority relying on planned killing rather than legitimate collective recognition.
+
 ## Key Claims
 - Violence is not just stronger power; it is a different political mechanism.
 - Durable power requires collective action, legitimacy, or recognition, not only weapons.
@@ -21,6 +23,7 @@ The key claim is that violence often appears when power is unstable. It can dest
 - The distinction clarifies why [[OrdinaryPeopleResistance]] matters: collective refusal can challenge domination in a way isolated force cannot.
 - It also sharpens [[SystemHumanity]] by asking whether institutions leave room for judgment and action or only command and coercion.
 - Legal and democratic channels matter because they turn social conflict away from direct retaliatory violence; when they fail, violence can reappear with moral language.
+- Planned public violence can reveal an authority's weakness as much as its capacity, because it substitutes force for answerability.
 
 ## Connections
 - [[HannahArendt|Hannah Arendt / 汉娜·阿伦特]] - source thinker.
@@ -28,3 +31,4 @@ The key claim is that violence often appears when power is unstable. It can dest
 - [[NaziGermany|Nazi Germany / 纳粹德国]] and [[TheHolocaust|犹太人大屠杀]] - coercive historical context.
 - [[SystemHumanity]], [[InstitutionalOvercompliance]], and [[BanalityOfEvil]] - adjacent system-power concepts.
 - [[PoliticalAssassinationEthics]], [[RevolutionaryTerrorPolitics]], and [[FrenchRevolution]] - episode 125 extension.
+- [[OrianaFallaci]] and [[TlatelolcoMassacre]] - journalism-witness extension added by episode 77.

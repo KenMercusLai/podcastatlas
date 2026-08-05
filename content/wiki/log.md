@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-06] ingest | 77.她是自由的野狗，她是法拉奇
+
+Added source page for a 蜜獾吃书 episode on Oriana Fallaci and 《我不相信神话》, covering anti-fascist childhood, underground courier work, political interviewing, Khomeini, Mohammad Reza Pahlavi, Soraya, the Tlatelolco massacre, Alexandros Panagoulis, AFTRA, and freedom as dignity. Created pages for Oriana Fallaci, 《我不相信神话》, Alexandros Panagoulis, the Tlatelolco massacre, Mohammad Reza Pahlavi, Soraya Esfandiary-Bakhtiary, AFTRA, Italian Fascism, Power Myth Deflation, Freedom As Dignity, and Journalistic Independence Against Faction; updated overview, index, 蜜獾吃书, Ruhollah Khomeini, Nazi Germany, Umberto Eco, Political Truth-Telling, Principled Disobedience, Conscience Over Faction, Post-Victory Oppression Risk, Ordinary People Resistance, Power-Violence Distinction, Protection As Control, and Female Self-Possession. No direct contradiction found; the source extends the wiki's dissent and journalism branch by showing freedom as a dignity test across rulers, revolutions, gender rules, institutions, and self-mythologizing.
+
 ## [2026-08-06] ingest | 32.印第安人《讲了一百万次的故事》是马尔克斯的老师
 
 Added source page for a 蜜獾吃书 episode on Indigenous American oral literature, Coyote / 凯奥蒂, human-animal continuity, origin myths, Maya/Aztec/South American contrasts, colonial story layering, and the connection between oral mythic logic and Marquez-style magical-realism atmosphere. Created pages for 《讲了一百万次的故事》 / Stories Told a Million Times, Gabriel Garcia Marquez, Coyote / 凯奥蒂, Indigenous American Mythology, Native American Oral Literature, Oral Myth As Magical Realism Source, and Human-Animal Continuity In Myth; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, Mythic Source Layering, Story Motif Transmission, Myth As Historical Evidence, Folklore As Social Memory, Trickster Ambivalence, Story-Based Empathy, and African Oral Literature. No direct contradiction found; the source extends the wiki's mythology-method branch by adding a plural, oral, variant-rich, and colonially layered Indigenous American case.
@@ -5796,3 +5800,7 @@ Added source page for a 起朱楼宴宾客 AI annual-review episode with Zhang Q
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran health before lint; health scanned 8,179 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,179 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes while current lint scanned 8,179 pages; treat graph findings as stale until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`; a bounded in-session semantic review of orphan pages, fragile-bridge endpoints, explicit tension markers, and known lint follow-ups found no hard unresolved contradiction, while preserving the source-scoped `ProjectGlasswing`/`ProjectGlassfin` naming tension and noting a `+-` formatting artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. No `wiki/lint-report.md` file was saved.

@@ -2,7 +2,7 @@
 title: "Nazi Germany / 纳粹德国"
 type: entity
 tags: [state, fascism, antisemitism, holocaust, totalitarianism]
-sources: [37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789, 05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]
+sources: [37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789, 05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925, 77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187]
 last_updated: 2026-08-06
 ---
 
@@ -18,6 +18,8 @@ The source's main use of Nazi Germany is moral and political rather than encyclo
 
 [[37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679]] adds the intelligence-testing and disability-persecution branch. The episode treats Nazi use of ability labels as an extreme endpoint of [[EugenicGovernance|eugenic governance]]: context-blind testing, institutional judgment, shame, transport, false medical explanations, and killing policies turn [[PsychometricSocialSorting|psychometric social sorting]] into administrative death.
 
+[[77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187]] adds a family-resistance angle through [[OrianaFallaci|Oriana Fallaci]]'s father. The episode says he was captured and tortured by German forces for underground anti-fascist activity while Fallaci and her mother saw the cost directly, tying Nazi violence to Fallaci's later hatred of war, bombs, and ruler worship.
+
 ## Connections
 - [[HannahArendt|Hannah Arendt / 汉娜·阿伦特]] - exile and theorist shaped by the regime.
 - [[MartinHeidegger|Martin Heidegger]] - philosopher criticized for Nazi alignment in the episode.
@@ -26,3 +28,4 @@ The source's main use of Nazi Germany is moral and political rather than encyclo
 - [[IBM]], [[ThomasJWatson|Thomas J. Watson / 托马斯·沃森]], [[Dehomag|德霍梅格]], [[PunchedCardAdministration]], and [[CorporateComplicityWithAuthoritarianism]] - corporate and data-infrastructure branch added by episode 133.
 - [[OstarbeiterForcedLabor]], [[YevgeniaSheCameFromMariupol]], [[RationalizedStateViolence]], and [[Germany]] - Eastern forced-labor and postwar-memory branch added by episode 05.
 - [[EugenicGovernance]], [[IntelligenceTesting]], and [[PsychometricSocialSorting]] - episode 37's disability-screening and killing-policy branch.
+- [[OrianaFallaci]], [[ItalianFascism]], [[OrdinaryPeopleResistance]], and [[PowerMythDeflation]] - anti-fascist family-resistance branch added by episode 77.

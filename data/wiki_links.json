@@ -831,6 +831,10 @@
     "title": "76.玄怪录：晚唐党争？没耽误宰相写大马猴的故事",
     "url": "/wiki/sources/76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220/"
   },
+  "77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187": {
+    "title": "77.她是自由的野狗，她是法拉奇",
+    "url": "/wiki/sources/77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187/"
+  },
   "82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589": {
     "title": "82.闲聊伟大作家的八卦（第二弹）",
     "url": "/wiki/sources/82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589/"
@@ -914,6 +918,10 @@
   "ADNOC": {
     "title": "ADNOC",
     "url": "/wiki/entities/adnoc/"
+  },
+  "AFTRA": {
+    "title": "AFTRA / American Federation of Television and Radio Artists",
+    "url": "/wiki/entities/aftra/"
   },
   "AGIHouse": {
     "title": "AGI House",
@@ -2370,6 +2378,10 @@
   "AlexandraRavello": {
     "title": "Alexandra Ravello",
     "url": "/wiki/entities/alexandraravello/"
+  },
+  "AlexandrosPanagoulis": {
+    "title": "Alexandros Panagoulis / 亚历山德罗斯·帕纳古利斯",
+    "url": "/wiki/entities/alexandrospanagoulis/"
   },
   "AlexeiChirikov": {
     "title": "Alexei Chirikov / 阿列克谢·齐里科夫",
@@ -10943,6 +10955,10 @@
     "title": "Free Trade Distributional Cost",
     "url": "/wiki/concepts/freetradedistributionalcost/"
   },
+  "FreedomAsDignity": {
+    "title": "Freedom As Dignity / 自由作为尊严",
+    "url": "/wiki/concepts/freedomasdignity/"
+  },
   "FreedomOfNavigationTradeOrder": {
     "title": "Freedom of Navigation Trade Order",
     "url": "/wiki/concepts/freedomofnavigationtradeorder/"
@@ -14115,6 +14131,10 @@
     "title": "板井太子",
     "url": "/wiki/entities/itaitaeko/"
   },
+  "ItalianFascism": {
+    "title": "Italian Fascism / 意大利法西斯主义",
+    "url": "/wiki/entities/italianfascism/"
+  },
   "ItoHiromi": {
     "title": "伊藤比吕美 / Itō Hiromi",
     "url": "/wiki/entities/itohiromi/"
@@ -15022,6 +15042,10 @@
   "JosieDallap": {
     "title": "Josie Dallap",
     "url": "/wiki/entities/josiedallap/"
+  },
+  "JournalisticIndependenceAgainstFaction": {
+    "title": "Journalistic Independence Against Faction / 拒绝站队的新闻独立",
+    "url": "/wiki/concepts/journalisticindependenceagainstfaction/"
   },
   "JourneyToTheWest": {
     "title": "《西游记》",
@@ -18595,6 +18619,10 @@
     "title": "蘑菇街 / Mogujie",
     "url": "/wiki/entities/mogujie/"
   },
+  "MohammadRezaPahlavi": {
+    "title": "Mohammad Reza Pahlavi / 穆罕默德·礼萨·巴列维",
+    "url": "/wiki/entities/mohammadrezapahlavi/"
+  },
   "MoisesYee": {
     "title": "Moises Yee",
     "url": "/wiki/entities/moisesyee/"
@@ -20219,6 +20247,10 @@
     "title": "奥尔罕·帕慕克 / Orhan Pamuk",
     "url": "/wiki/entities/orhanpamuk/"
   },
+  "OrianaFallaci": {
+    "title": "Oriana Fallaci / 奥利亚娜·法拉奇",
+    "url": "/wiki/entities/orianafallaci/"
+  },
   "OrientalistMysteryMisdirection": {
     "title": "东方主义谜题误导 / Orientalist Mystery Misdirection",
     "url": "/wiki/concepts/orientalistmysterymisdirection/"
@@ -21566,6 +21598,10 @@
   "PowerEtiquetteReading": {
     "title": "Power Etiquette Reading / 权力礼仪细读",
     "url": "/wiki/concepts/poweretiquettereading/"
+  },
+  "PowerMythDeflation": {
+    "title": "Power Myth Deflation / 权力神话拆解",
+    "url": "/wiki/concepts/powermythdeflation/"
   },
   "PowerUserDiscovery": {
     "title": "Power User Discovery",
@@ -25283,6 +25319,10 @@
     "title": "Sora",
     "url": "/wiki/entities/sora/"
   },
+  "SorayaEsfandiaryBakhtiary": {
+    "title": "Soraya Esfandiary-Bakhtiary / 索拉雅",
+    "url": "/wiki/entities/sorayaesfandiarybakhtiary/"
+  },
   "Sothebys": {
     "title": "Sotheby's",
     "url": "/wiki/entities/sothebys/"
@@ -27295,6 +27335,10 @@
     "title": "Ting Wong",
     "url": "/wiki/entities/tingwong/"
   },
+  "TlatelolcoMassacre": {
+    "title": "Tlatelolco Massacre / 三文化广场枪击",
+    "url": "/wiki/entities/tlatelolcomassacre/"
+  },
   "ToAgentDistribution": {
     "title": "To-Agent Distribution",
     "url": "/wiki/concepts/toagentdistribution/"
@@ -29218,6 +29262,10 @@
   "Wiz": {
     "title": "Wiz",
     "url": "/wiki/entities/wiz/"
+  },
+  "WoBuXiangxinShenhua": {
+    "title": "《我不相信神话》",
+    "url": "/wiki/entities/wobuxiangxinshenhua/"
   },
   "WoHaiXiangKanjian": {
     "title": "《我还想看见》",
