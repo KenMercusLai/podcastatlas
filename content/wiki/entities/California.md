@@ -2,8 +2,8 @@
 title: "California"
 type: entity
 tags: [place, state, privacy, legislation, wildfire, climate, construction]
-sources: [a-trip-to-the-magic-mushroom-megachurch, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]
-last_updated: 2026-08-04
+sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, a-trip-to-the-magic-mushroom-megachurch, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # California
@@ -24,6 +24,8 @@ California appears in [[tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp
 
 [[tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]] adds California as a state AI procurement actor. [[GavinNewsom]]'s executive order requires safety and privacy guardrails for AI companies contracting with the state, including security review, privacy review, bias concern checks, independent assessment of federally flagged supply-chain risks, and watermarking of state-released generative AI output. The source frames this as [[StateAIProcurementGuardrails]] and as a response to [[DonaldTrump]] administration pressure against state AI laws.
 
+[[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] adds California to the broader [[StateAIRegulationPatchwork]]. [[MariaCurie|Maria Curi]] says new California AI laws address chatbot safeguards, minors' exposure to sexual content, and chatbot responses to suicidal thoughts, making the state a child-safety and mental-health example in the state-versus-federal AI-law conflict.
+
 The California case complements [[Montana]]'s role in [[tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]]. Montana is used as a warrant-requirement example for closing the [[DataBrokerLoophole]] in government purchases; California is used as a consumer-agency example for reducing broker-held data before it can be sold, reused, or targeted.
 
 ## Connections
@@ -39,3 +41,4 @@ The California case complements [[Montana]]'s role in [[tech-20260302-0302-mp-te
 - [[DataBrokerLoophole]], [[GovernmentDataBrokerAccess]], and [[PlatformDataRegulation]] - broader data-governance branch.
 - [[Montana]] - contrasting state-level privacy implementation from the March 2 Marketplace Tech source.
 - [[GavinNewsom]], [[StateAIProcurementGuardrails]], [[AIGovernanceAndCompliance]], and [[AIContentProvenance]] - AI procurement and watermarking branch added by Marketplace Tech.
+- [[StateAIRegulationPatchwork]], [[TeenChatbotMentalHealthRisk]], [[FederalAIPreemption]], and [[DonaldTrump]] - state AI laws continuing under federal pressure.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-05] ingest | Bytes: Week in Review - New year, new state AI laws, new showdown with Trump admin.
+
+Added source page for a Marketplace Tech Bytes episode on Grok-enabled non-consensual intimate-image abuse, Take It Down Act and Defiance Act remedy boundaries, Section 230 chatbot-output liability, Trump administration pressure against state AI laws, and Meta Ray-Ban smart-glasses demand and bystander privacy. Created pages for AI Non-Consensual Intimate Image Abuse, Chatbot-Generated Content Liability, Take It Down Act, Defiance Act, State AI Regulation Patchwork, Smart Glasses Bystander Privacy, and Neural Band; updated overview, index, Marketplace Tech, Maria Curi, Axios, Grok, xAI, Twitter/X, Meta, Ray-Ban Smart Glasses, U.S. Department of Justice, Donald Trump, California, Texas, Illinois, Federal AI Preemption, AI Governance And Compliance, Section 230, Social Media Product Liability, Internet Liability Spillover, AI Information Pollution, Consumer Camera Surveillance, Consent-Based Recording, and Wearable AI Assistant. No direct contradiction found; the source reinforces existing federal AI preemption and wearable privacy branches while adding a sharper distinction between user-post hosting and company-generated chatbot output.
+
 ## [2026-08-04] ingest | No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹
 
 Added source page for a 半拿铁 episode on Chaoshan maritime trade, qiaopi remittance networks, overseas Chinese return capital, Shantou's special economic zone constraints, the 1991 Chaoshan split, export-tax fraud, and why Shantou did not become a Shenzhen-style industrial city. Created pages for Chaoshan, Shantou, Chaozhou, Jieyang, Zhanglin Port, Shantou Special Economic Zone, Zhuhai, Xiamen, Taksin, Chen Cihong, Li Ka-shing, Shantou University, CP Group, Xie Guomin, Chaoshan Maritime Commercial Culture, Red Head Ships, China Special Economic Zone Asymmetry, Diaspora Capital Return Limits, Regional Administrative Fragmentation, Export Tax Fraud Credit Crisis, Merchant To Industrial City Upgrade, and Chenghai Toy Cluster; updated overview, index, Banlatte, Qiaopi Remittance Networks, Overseas Chinese Mutual Aid Networks, Diaspora Capital Manufacturing Clusters, Shenzhen, Hong Kong, Thailand, Singapore, Bank of China, and Pony Ma. No direct contradiction found; the source reinforces the existing Minnan qiaopi/diaspora branch while adding a negative comparison case where diaspora trust and merchant energy did not compound into city-scale industrial upgrading.
@@ -5320,3 +5324,7 @@ Added source page for a Marketplace Tech episode on Andrew Nelson, a fifth-gener
 ## [2026-08-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint. Report output was kept in-session; lint-report.md was not saved.

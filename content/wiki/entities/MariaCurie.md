@@ -2,11 +2,13 @@
 title: "Maria Curi"
 type: entity
 tags: [person, journalism, technology]
-sources: [tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Maria Curi
+
+[[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] spells her name as Maria Curie while using the same [[Axios]] technology-policy analyst role. Her comments connect [[Grok]] misuse on [[Twitter|X]] to [[AINonConsensualIntimateImageAbuse]] and [[ChatbotGeneratedContentLiability]], then connect [[DonaldTrump]]'s executive order to [[FederalAIPreemption]] and [[StateAIRegulationPatchwork]]. She also uses [[Meta]]'s [[RayBanSmartGlasses|Ray-Ban smart glasses]] demand to explain how wearable adoption and [[SmartGlassesBystanderPrivacy]] can rise together.
 
 In [[tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128]], the source spells her name as Maria Currie while using the same weekly technology-policy analyst role. Her comments connect the [[IllinoisAILiabilityBill|Illinois AI liability bill]] to stalled federal AI legislation, [[OpenAI]] and [[Anthropic]]'s split over developer liability, [[Amazon]]'s planned [[Globalstar]] purchase, and [[Spotify]]'s [[BookshopOrg|Bookshop.org]] partnership.
 
@@ -20,6 +22,9 @@ In [[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]], Curi explains fron
 - [[IllinoisAILiabilityBill]], [[StateAILiabilityShield]], [[CatastrophicAILiability]], [[Globalstar]], [[DirectToDeviceSatelliteConnectivity]], [[Spotify]], [[BookshopOrg|Bookshop.org]], and [[PhysicalBookPlatformBridge]] - April 17 Bytes topics.
 - [[Axios]] - news organization affiliation in the March 27 episode.
 - [[MarketplaceTech]] - show context.
+- [[Grok]], [[XAI|xAI]], [[Twitter|X]], [[TakeItDownAct|Take It Down Act]], and [[DefianceAct|Defiance Act]] - January 9, 2026 AI image-abuse and liability analysis.
+- [[DonaldTrump]], [[FederalAIPreemption]], [[StateAIRegulationPatchwork]], [[California]], [[Texas]], and [[Illinois]] - state-versus-federal AI regulation analysis.
+- [[Meta]], [[RayBanSmartGlasses|Ray-Ban smart glasses]], [[NeuralBand]], and [[SmartGlassesBystanderPrivacy]] - AI wearable demand and privacy analysis.
 - [[SocialMediaProductLiability]], [[AIWorkerLiteracy]], and [[PredictionMarketSelfRegulation]] - policy branches she explains in the March 27 episode.
 - [[Anthropic]], [[USDepartmentOfDefense]], and [[DefenseAIProcurement]] - defense AI access analysis.
 - [[OpenAIFrontier]], [[AICoworkers]], and [[BusinessLedAITransformation]] - enterprise AI adoption analysis.

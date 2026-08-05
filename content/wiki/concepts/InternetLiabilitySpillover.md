@@ -2,8 +2,8 @@
 title: "Internet Liability Spillover"
 type: concept
 tags: [law, platforms, internet, regulation]
-sources: [tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Internet Liability Spillover
@@ -16,6 +16,8 @@ The concept matters because platform litigation rarely affects only defendants. 
 
 [[tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128]] adds a limit to the analogy. [[MariaCurie|Maria Currie]] compares the [[IllinoisAILiabilityBill|Illinois AI liability bill]] to platform liability shields, but says AI differs because powerful models can create [[CatastrophicAILiability|catastrophic liability]] questions around critical infrastructure cyberattacks or bioweapon creation. The source therefore treats AI liability as a spillover target that may need different rules from social media.
 
+[[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] adds a second AI-specific limit. The [[Grok]] case is not only an analogy from social media to AI; it asks whether a platform's own chatbot output should be treated differently from third-party speech. That makes [[ChatbotGeneratedContentLiability]] a spillover path from platform law into model-provider governance.
+
 ## Key Claims
 - A successful liability theory can migrate from social media to other interactive products that use engagement loops or personalized outputs.
 - Legal risk can change product design even before final appellate resolution.
@@ -23,6 +25,7 @@ The concept matters because platform litigation rarely affects only defendants. 
 - User communication is part of the harm-benefit tradeoff: reducing risky design may also reduce free or low-friction ways people connect.
 - Appellate treatment of content delivery as product design or editorial activity can determine how far the theory travels.
 - AI liability may borrow platform-law language, but catastrophic model-enabled harms can make social-media analogies inadequate.
+- Generative-output liability can travel through the same legal vocabulary as social-media cases while depending on a different factual question: who created the harmful material.
 
 ## Connections
 - [[EricGoldman]] - source expert for the spillover warning.
@@ -31,3 +34,4 @@ The concept matters because platform litigation rarely affects only defendants. 
 - [[AddictiveInteractionDesign]] - design pattern that makes analogy across products plausible.
 - [[AICompanionAttentionRisk]], [[TeenChatbotMentalHealthRisk]], and [[AIGovernanceAndCompliance]] - adjacent AI-risk areas that may inherit attention and liability concerns.
 - [[PlatformDependencyRisk]] - user and business exposure when platform changes alter access or communication.
+- [[Grok]], [[AINonConsensualIntimateImageAbuse]], and [[ChatbotGeneratedContentLiability]] - AI output-liability branch added by Marketplace Tech.

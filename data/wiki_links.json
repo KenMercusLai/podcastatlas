@@ -1231,6 +1231,10 @@
     "title": "AI-Native Workspace",
     "url": "/wiki/concepts/ainativeworkspace/"
   },
+  "AINonConsensualIntimateImageAbuse": {
+    "title": "AI Non-Consensual Intimate Image Abuse",
+    "url": "/wiki/concepts/ainonconsensualintimateimageabuse/"
+  },
   "AINutritionTracking": {
     "title": "AI Nutrition Tracking",
     "url": "/wiki/concepts/ainutritiontracking/"
@@ -5115,6 +5119,10 @@
     "title": "ChatGPT",
     "url": "/wiki/entities/chatgpt/"
   },
+  "ChatbotGeneratedContentLiability": {
+    "title": "Chatbot-Generated Content Liability",
+    "url": "/wiki/concepts/chatbotgeneratedcontentliability/"
+  },
   "ChatbotSafetyGuardrailDecay": {
     "title": "Chatbot Safety Guardrail Decay",
     "url": "/wiki/concepts/chatbotsafetyguardraildecay/"
@@ -7270,6 +7278,10 @@
   "DefensiveDividendAssets": {
     "title": "Defensive Dividend Assets",
     "url": "/wiki/concepts/defensivedividendassets/"
+  },
+  "DefianceAct": {
+    "title": "Defiance Act",
+    "url": "/wiki/concepts/defianceact/"
   },
   "DeglobalizationTradeIntermediation": {
     "title": "Deglobalization Trade Intermediation",
@@ -17811,6 +17823,10 @@
     "title": "Netscape Platform Ecosystem",
     "url": "/wiki/concepts/netscapeplatformecosystem/"
   },
+  "NeuralBand": {
+    "title": "Neural Band",
+    "url": "/wiki/entities/neuralband/"
+  },
   "NeuralGeometry": {
     "title": "Neural Geometry",
     "url": "/wiki/concepts/neuralgeometry/"
@@ -23123,6 +23139,10 @@
     "title": "小镇做题家规训 / Small-Town Exam-Taker Discipline",
     "url": "/wiki/concepts/smalltownexamtakerdiscipline/"
   },
+  "SmartGlassesBystanderPrivacy": {
+    "title": "Smart Glasses Bystander Privacy",
+    "url": "/wiki/concepts/smartglassesbystanderprivacy/"
+  },
   "Smartisan": {
     "title": "Smartisan",
     "url": "/wiki/entities/smartisan/"
@@ -23803,6 +23823,10 @@
     "title": "State AI Procurement Guardrails",
     "url": "/wiki/concepts/stateaiprocurementguardrails/"
   },
+  "StateAIRegulationPatchwork": {
+    "title": "State AI Regulation Patchwork",
+    "url": "/wiki/concepts/stateairegulationpatchwork/"
+  },
   "StateAdministrationForMarketRegulation": {
     "title": "State Administration for Market Regulation",
     "url": "/wiki/entities/stateadministrationformarketregulation/"
@@ -24474,6 +24498,10 @@
   "TakaichiSanae": {
     "title": "Takaichi Sanae",
     "url": "/wiki/entities/takaichisanae/"
+  },
+  "TakeItDownAct": {
+    "title": "Take It Down Act",
+    "url": "/wiki/concepts/takeitdownact/"
   },
   "TakiAI": {
     "title": "Taki AI",
@@ -29398,6 +29426,10 @@
   "tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128": {
     "title": "Surveillance cameras livestreamed for the internet to see",
     "url": "/wiki/sources/tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128/"
+  },
+  "tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128": {
+    "title": "Bytes: Week in Review - New year, new state AI laws, new showdown with Trump admin.",
+    "url": "/wiki/sources/tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128/"
   },
   "tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128": {
     "title": "Building a home with future fires in mind",

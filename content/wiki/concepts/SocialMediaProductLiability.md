@@ -2,13 +2,15 @@
 title: "Social Media Product Liability"
 type: concept
 tags: [social-media, law, child-safety, platforms]
-sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Social Media Product Liability
 
 Social media product liability is the legal frame in which platform features are treated as potentially harmful product design rather than only protected speech or neutral hosting.
+
+[[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] adds a generative-AI variant through [[Grok]] on [[Twitter|X]]. The source asks whether [[Section230]] applies cleanly when a company chatbot creates the harmful image rather than merely hosting a user's uploaded post, connecting platform design liability to [[ChatbotGeneratedContentLiability]] and [[AINonConsensualIntimateImageAbuse]].
 
 [[tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128]] adds the pre-verdict trial frame through [[EricGoldman]]. The episode emphasizes [[PlatformLegalCausation]]: plaintiffs must show not only harm or company knowledge, but that platform design legally caused the youth mental-health harms alleged. It also makes [[Section230]] and [[InternetLiabilitySpillover]] part of the frame because immunity arguments may return on appeal and the same theories could reach video games, generative AI model makers, and other internet services.
 
@@ -35,6 +37,7 @@ The episode's important shift is not the $6 million damages figure by itself. [[
 - Post-verdict litigation remains unstable if appellate courts reject the design-versus-content workaround or accept platform speech defenses.
 - Civil-liberties advocates may prefer privacy legislation to liability-by-verdict when product changes could restrict ordinary online speech access.
 - Game and creator platforms can face similar child-safety product pressure when user communication, age estimation, and predatory-contact prevention become part of the design case.
+- Platform-integrated generative AI can create a separate design-liability question because the challenged output may be produced by the company's own model.
 
 ## Connections
 - [[BellwetherPlatformTrials]], [[Section230DesignWorkaround]], [[PlatformFirstAmendmentDefense]], [[NewMexico]], [[SantaClaraUniversity]], and [[HighTechLawInstitute|High Tech Law Institute]] - post-verdict appellate branch added by the April 2026 episode.
@@ -47,3 +50,4 @@ The episode's important shift is not the $6 million damages figure by itself. [[
 - [[AttentionIndustrialization]] - broader platform-risk frame around attention capture.
 - [[AIBacklashPolitics]] - public accountability politics around children, mental health, jobs, and technology power.
 - [[TeenChatbotMentalHealthRisk]] - adjacent child-safety branch where technology design enters mental-health risk.
+- [[Grok]], [[Twitter|X]], [[AINonConsensualIntimateImageAbuse]], and [[ChatbotGeneratedContentLiability]] - generative-output liability branch added by Marketplace Tech.

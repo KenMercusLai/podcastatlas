@@ -2,8 +2,8 @@
 title: "Section 230"
 type: concept
 tags: [law, internet, platforms, speech]
-sources: [tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Section 230
@@ -14,12 +14,15 @@ The source makes Section 230 strategically important even when it is procedurall
 
 [[tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128]] adds the post-verdict version. Goldman says plaintiffs argued they were suing over presentation and delivery rather than the content victims viewed, creating a [[Section230DesignWorkaround]]. He questions that distinction because presentation and delivery can be part of editorial decision-making, and he expects defendants to raise Section 230 on appeal after the Los Angeles verdict.
 
+[[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] adds the chatbot-output version through [[Grok]]. [[MariaCurie|Maria Curi]] says Section 230 may not apply cleanly when a user prompts a chatbot and the company's tool generates a harmful image, especially when the same platform then redistributes it. This creates [[ChatbotGeneratedContentLiability]] as a separate pressure point from classic user-post hosting.
+
 ## Key Claims
 - Section 230 can shape platform-liability cases before and after trial even when jurors are not asked to decide it.
 - Product-design claims test the boundary between protected hosting of third-party speech and allegedly defective platform features.
 - Appeal posture matters because a jury verdict does not necessarily settle the immunity question.
 - The doctrine is user-facing as well as company-facing: changes in liability protection can change online communication costs, feature availability, and market concentration.
 - The design-versus-content distinction may decide whether a child-safety verdict survives appeal or is thrown out.
+- Chatbot-generated output can test whether the platform is merely hosting third-party speech or operating a product that creates the challenged material.
 
 ## Connections
 - [[EricGoldman]] - expert explaining why the issue is deferred rather than gone.
@@ -29,3 +32,4 @@ The source makes Section 230 strategically important even when it is procedurall
 - [[PlatformLegalCausation]] - causation problem that still has to be proven at trial.
 - [[InternetLiabilitySpillover]] - broader consequence if design-liability theories survive beyond social media.
 - [[Meta]], [[YouTube]], [[Google]], [[TikTok]], and [[Snapchat]] - platforms or companies named in the source's litigation context.
+- [[Grok]], [[XAI|xAI]], [[Twitter|X]], [[AINonConsensualIntimateImageAbuse]], and [[ChatbotGeneratedContentLiability]] - generative-output liability branch added by Marketplace Tech.

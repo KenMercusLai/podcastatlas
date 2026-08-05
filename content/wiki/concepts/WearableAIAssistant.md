@@ -2,8 +2,8 @@
 title: "Wearable AI Assistant"
 type: concept
 tags: [ai, wearables, assistants, hardware]
-sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
-last_updated: 2026-07-25
+sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
+last_updated: 2026-08-05
 ---
 
 # Wearable AI Assistant
@@ -16,6 +16,8 @@ The concept does not deny the [[SmartphoneAIHub]] thesis. Instead, it splits the
 
 [[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] adds a consumer year-in-review version through [[WillGottsagen]] of [[TheAtlantic|The Atlantic]]. The episode broadens the category from earbuds and watches to smart glasses, pins, pendants, bracelets, rings, and AI features inside existing wearables. It treats [[Meta]]'s latest glasses as the most concrete case because a small display and wristband gestures can make the assistant feel more contextual, while still warning that cloud dependence, public voice commands, and always-on privacy risk keep wearables from feeling fully normal.
 
+[[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] adds an adoption signal through [[Meta]]'s updated [[RayBanSmartGlasses|Ray-Ban smart glasses]] and [[NeuralBand]]. [[MariaCurie|Maria Curi]] says the product's normal-looking Ray-Ban design, marketing, AI features, and improved technology helped demand exceed supply, showing that wearable assistants may advance when they look like accepted fashion products rather than obvious gadgets.
+
 ## Key Claims
 - Wearables are valuable when interaction must happen without stopping, unlocking a screen, or visually operating an app.
 - Earbuds and watches have an adoption advantage over pins, pendants, and many smart-glasses designs because users already accept wearing them all day.
@@ -26,6 +28,7 @@ The concept does not deny the [[SmartphoneAIHub]] thesis. Instead, it splits the
 - Token cost and cloud dependence still matter: always-on sensing can multiply model calls unless the product has clear local filtering, trigger design, and [[EdgeCloudAIBoundary]] decisions.
 - Pendants can capture conversation context that phones or desktop agents miss, but they face a higher social-trust burden because they visibly or invisibly record shared space.
 - Established wearables such as [[AppleWatch|Apple Watch]], [[AppleAirPods|Apple AirPods]], and [[OuraRing|Oura Ring]] may be easier AI surfaces than new AI-first gadgets because users already know when and how to wear them.
+- Fashion familiarity can be a functional adoption feature for smart glasses because users may reject assistants that make them look socially abnormal even when the technology works.
 
 ## Connections
 - [[DongHongguang]] and [[GuangfanTechnology]] — source actor and company case.
@@ -36,3 +39,4 @@ The concept does not deny the [[SmartphoneAIHub]] thesis. Instead, it splits the
 - [[Limitless]], [[DanSiroker]], [[PersonalAIMemory]], and [[ConsentBasedRecording]] — pendant-based AI memory branch added by The Social Radars.
 - [[RayBanSmartGlasses|Ray-Ban smart glasses]] — adjacent wearable assistant example in the wiki.
 - [[WillGottsagen]], [[TheAtlantic|The Atlantic]], [[Meta]], [[MetaAI|Meta AI]], [[AppleAirPods|Apple AirPods]], [[AppleWatch|Apple Watch]], and [[OuraRing|Oura Ring]] - year-end AI-wearables branch added by Marketplace Tech.
+- [[MariaCurie|Maria Curi]], [[NeuralBand]], and [[SmartGlassesBystanderPrivacy]] - January 2026 adoption and privacy update.

@@ -2,11 +2,13 @@
 title: "xAI"
 type: entity
 tags: [company, ai, musk]
-sources: [tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, kate-crawford-mapping-empires, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
-last_updated: 2026-08-04
+sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, kate-crawford-mapping-empires, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
+last_updated: 2026-08-05
 ---
 
 # xAI
+
+[[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] adds xAI through [[Grok]] misuse and investigation risk. The episode says [[Grok]] and xAI are facing scrutiny after users tagged the model on [[Twitter|X]] to generate non-consensual intimate images, making xAI part of [[AINonConsensualIntimateImageAbuse]] and [[ChatbotGeneratedContentLiability]] rather than only a Musk-ecosystem or defense-AI supplier.
 
 [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] updates xAI's defense role by naming [[Grok]] as one of the possible alternatives for contractors that need to remove [[Anthropic]] technology from critical military systems. The source keeps xAI in the [[DefenseAIProcurement]] branch as a substitute supplier rather than the main subject.
 
@@ -30,6 +32,7 @@ In the episode, xAI matters less as a standalone chatbot company and more as a p
 
 ## Connections
 - [[USDepartmentOfDefense]], [[Anthropic]], [[Claude]], [[Grok]], [[DefenseAIProcurement]], and [[DefenseAISupplyChainRisk]] - Marketplace Tech Bytes defense-contract and substitution context.
+- [[Twitter|X]], [[AINonConsensualIntimateImageAbuse]], [[ChatbotGeneratedContentLiability]], [[TakeItDownAct|Take It Down Act]], and [[DefianceAct|Defiance Act]] - platform-generated abuse and legal remedy branch added by the January 9, 2026 source.
 - [[ElonMusk]] — ecosystem context in the source.
 - [[Grok]] — xAI model/product discussed as a possible physical-AI participant.
 - [[SpaceX]], [[Starlink]], and [[SpaceBasedAIInfrastructure]] — infrastructure scenario that gives xAI strategic relevance in the source.
