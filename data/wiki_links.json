@@ -8475,6 +8475,10 @@
     "title": "Elizabeth Jennings Graham",
     "url": "/wiki/entities/elizabethjenningsgraham/"
   },
+  "ElizabethLaird": {
+    "title": "Elizabeth Laird",
+    "url": "/wiki/entities/elizabethlaird/"
+  },
   "ElonMusk": {
     "title": "Elon Musk",
     "url": "/wiki/entities/elonmusk/"
@@ -8634,6 +8638,10 @@
   "EnforceableCommunityBenefits": {
     "title": "Enforceable Community Benefits",
     "url": "/wiki/concepts/enforceablecommunitybenefits/"
+  },
+  "EnforcementAgencyDataSharing": {
+    "title": "Enforcement Agency Data Sharing",
+    "url": "/wiki/concepts/enforcementagencydatasharing/"
   },
   "EngineeringCompetition": {
     "title": "Engineering Competition",
@@ -9234,6 +9242,10 @@
   "FederalCommunicationsCommission": {
     "title": "Federal Communications Commission",
     "url": "/wiki/entities/federalcommunicationscommission/"
+  },
+  "FederalDataPracticeTrust": {
+    "title": "Federal Data Practice Trust",
+    "url": "/wiki/concepts/federaldatapracticetrust/"
   },
   "FederalDepositInsuranceCorporation": {
     "title": "Federal Deposit Insurance Corporation",
@@ -10966,6 +10978,10 @@
   "GordonMoore": {
     "title": "Gordon Moore",
     "url": "/wiki/entities/gordonmoore/"
+  },
+  "GovernmentDataAccountability": {
+    "title": "Government Data Accountability",
+    "url": "/wiki/concepts/governmentdataaccountability/"
   },
   "GovernmentDataBrokerAccess": {
     "title": "Government Data Broker Access",
@@ -20491,6 +20507,10 @@
     "title": "Public Argument For Bystanders / 给第三方看的争论",
     "url": "/wiki/concepts/publicargumentforbystanders/"
   },
+  "PublicBenefitsDataChillingEffect": {
+    "title": "Public Benefits Data Chilling Effect",
+    "url": "/wiki/concepts/publicbenefitsdatachillingeffect/"
+  },
   "PublicCompanyTransition": {
     "title": "Public Company Transition",
     "url": "/wiki/concepts/publiccompanytransition/"
@@ -29766,6 +29786,10 @@
   "tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128": {
     "title": "Are humans losing the ability to think for themselves?",
     "url": "/wiki/sources/tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128/"
+  },
+  "tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128": {
+    "title": "Trust in government data practices is rapidly deteriorating",
+    "url": "/wiki/sources/tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128/"
   },
   "tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128": {
     "title": "Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space",

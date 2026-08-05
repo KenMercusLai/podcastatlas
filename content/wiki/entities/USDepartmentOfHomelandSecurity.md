@@ -2,8 +2,8 @@
 title: "U.S. Department of Homeland Security"
 type: entity
 tags: [government, law-enforcement, surveillance, immigration]
-sources: [the-ice-hiring-boom, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]
-last_updated: 2026-07-24
+sources: [the-ice-hiring-boom, tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # U.S. Department of Homeland Security
@@ -16,10 +16,14 @@ The U.S. Department of Homeland Security is the government agency at the center 
 
 The episode treats DHS as a case for the broader question of whether a government agency can use private companies as a data-acquisition layer. The concern is not only one agency's demand for information, but the policy gap created when privately collected data is searchable by law enforcement.
 
+[[tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128]] adds DHS as one of the agencies Americans worry may receive personal data from other systems. [[ElizabethLaird]] uses the survey results to show that concern over DHS and law-enforcement sharing can weaken [[FederalDataPracticeTrust]] and contribute to [[PublicBenefitsDataChillingEffect]].
+
 ## Connections
 - [[USImmigrationAndCustomsEnforcement]], [[USBorderPatrol]], [[USCustomsAndBorderProtection]], and [[FederalLawEnforcementTrainingCenters]] - enforcement and training branch added by Planet Money.
 - [[TriciaMcLaughlin]], [[RichardBlumenthal]], [[ICEWorkforceExpansion]], and [[FederalLawEnforcementTraining]] - disputed training and rapid hiring context.
 - [[JeremyScott]] and [[ElectronicPrivacyInformationCenter]] - civil-liberties critique.
+- [[ElizabethLaird]] and [[CenterForDemocracyAndTechnology|Center for Democracy and Technology]] - public-trust polling source.
 - [[USImmigrationAndCustomsEnforcement]] - DHS-linked enforcement context named in the episode.
 - [[GovernmentDataBrokerAccess]], [[DataBrokerLoophole]], [[AdministrativeSubpoenaDataAccess]], and [[SurveillanceAsAService]] - mechanisms discussed.
+- [[EnforcementAgencyDataSharing]], [[FederalDataPracticeTrust]], and [[PublicBenefitsDataChillingEffect]] - trust and benefit-access branch added by Marketplace Tech.
 - [[FourthAmendmentDigitalPrivacy]] and [[CivilLibertiesSurveillanceRisk]] - constitutional and democratic-risk frame.

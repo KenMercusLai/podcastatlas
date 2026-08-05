@@ -2,8 +2,8 @@
 title: "Platform Data Regulation"
 type: concept
 tags: [platform, regulation, data, antitrust]
-sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128, tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]
-last_updated: 2026-07-25
+sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128, tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]
+last_updated: 2026-08-05
 ---
 
 # Platform Data Regulation
@@ -22,6 +22,8 @@ The concept matters because visible app screens are not enough to evaluate platf
 
 [[tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]] adds a social-media privacy-law angle through [[AaronMackey]] and the [[ElectronicFrontierFoundation|Electronic Frontier Foundation]]. The source frames [[ComprehensiveConsumerDataPrivacy]] as a better child-safety tool than broad age-based bans because it limits surveillance-heavy collection and opaque targeting without making speech access depend on age verification.
 
+[[tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128]] adds a federal-data trust angle through [[ElizabethLaird]] of the [[CenterForDemocracyAndTechnology|Center for Democracy and Technology]]. The episode shows that data regulation also has to cover public-sector use, sharing, and accountability: people may avoid benefits if they do not trust how agencies will use or share their information.
+
 [[tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128]] adds two platform-data governance edges. [[Meta]]'s reported employee activity capture shows data regulation inside the workplace and AI training pipeline, while [[Roblox]]'s [[PlatformAgeEstimation]] shows how child-safety compliance can depend on sensitive age-inference data and communication rules.
 
 [[tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128]] adds a retail-price opacity angle through [[SurveillancePricing]]. The Walmart.com toothpaste comparison shows why price and discount systems may need auditability: a shopper can observe two prices, but not the internal logic deciding whether the difference came from personalization, market variation, price matching, or real-time repricing.
@@ -38,6 +40,7 @@ The concept matters because visible app screens are not enough to evaluate platf
 - For government access, the key regulatory question is not only whether data is collected lawfully by a company, but whether agencies can buy or query it without judicial process.
 - For consumer deletion, the key regulatory question is whether rights become usable workflows backed by enforcement and education, not merely abstract privacy promises.
 - For social media, the key privacy question is whether rules can constrain collection and targeting without replacing business-model governance with speech-restrictive age gates.
+- For federal data practices, the key governance question is whether agencies have visible purpose limits, sharing limits, and oversight strong enough to sustain benefit uptake.
 - For employee and child-facing platforms, the key privacy question includes whether activity traces or face-based age signals can be reused, audited, retained, or converted into model-training or safety-enforcement infrastructure.
 - For retail pricing, the key regulatory question is whether users, researchers, or regulators can inspect enough data to distinguish fair market variation from opaque customer-specific treatment.
 - For public camera systems, the key regulatory question includes whether access controls, archived footage, and administrative permissions are auditable enough to prevent accidental public exposure.
@@ -50,6 +53,7 @@ The concept matters because visible app screens are not enough to evaluate platf
 - [[GovernmentDataBrokerAccess]], [[SurveillanceAsAService]], [[DataBrokerLoophole]], and [[FourthAmendmentDigitalPrivacy]] - government-access regulation branch added by Marketplace Tech.
 - [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform|DROP]], [[ConsumerDataDeletion]], and [[AIEnabledSpam]] - consumer-deletion branch added by Marketplace Tech.
 - [[ComprehensiveConsumerDataPrivacy]], [[ElectronicFrontierFoundation|Electronic Frontier Foundation]], [[YouthOnlineSpeechRights]], and [[SocialMediaAgeGateSpeechBurden]] - social-media privacy alternative to age-based bans.
+- [[FederalDataPracticeTrust]], [[PublicBenefitsDataChillingEffect]], [[EnforcementAgencyDataSharing]], and [[GovernmentDataAccountability]] - public-sector data-trust branch added by Marketplace Tech.
 - [[Meta]], [[WorkplaceBehaviorTrainingData]], [[Roblox]], and [[PlatformAgeEstimation]] - workplace training-data and child-safety age-estimation branch added by Marketplace Tech Bytes.
 - [[SurveillancePricing]], [[Walmart]], [[AIConsumerDecisionShaping]], and [[GarrettJohnson]] - personalized retail-pricing branch added by Marketplace Tech.
 - [[SurveillanceCameraExposure]], [[FlockSafety]], [[Shodan]], and [[404Media|404 Media]] - public-sensor security branch added by Marketplace Tech.

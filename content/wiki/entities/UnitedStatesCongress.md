@@ -2,8 +2,8 @@
 title: "United States Congress"
 type: entity
 tags: [institution, politics, law]
-sources: [the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, jerome-powell-and-the-test-of-fed-independence]
-last_updated: 2026-07-24
+sources: [the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128, jerome-powell-and-the-test-of-fed-independence]
+last_updated: 2026-08-05
 ---
 
 # United States Congress
@@ -14,12 +14,15 @@ The United States Congress appears in [[jerome-powell-and-the-test-of-fed-indepe
 
 [[the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]] adds Congress to the tariff-authority branch. The source says [[Section122TariffAuthority]] permits tariffs up to 15% for 150 days to address a balance-of-payments deficit, but those tariffs are supposed to expire unless Congress extends them.
 
+[[tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128]] adds Congress as the oversight body respondents wanted involved when agencies may misuse personal data. In that source, congressional oversight is part of [[GovernmentDataAccountability]] and a possible response to collapsing [[FederalDataPracticeTrust]].
+
 ## Source Position
 - Congress matters because the Fed's mandate and removal boundaries are statutory, not only norms.
 - The source treats Senate confirmation leverage as one possible check when executive pressure on the Fed becomes explicit.
 - Brainard's reform suggestion is that Congress could specify grounds such as corruption or negligence for removing Fed board members.
 - In the carbon-removal source, Congress matters as an industrial-policy backstop that can preserve specific climate-tech hubs despite administrative retrenchment.
 - In the tariff source, Congress matters because time-limited emergency tariff authority requires legislative extension if the administration wants it to last.
+- In the federal-data source, Congress matters as the institution respondents want to hold agencies accountable for possible data misuse.
 
 ## Connections
 - [[UnitedStates]] - constitutional and political setting.
@@ -28,3 +31,4 @@ The United States Congress appears in [[jerome-powell-and-the-test-of-fed-indepe
 - [[DonaldTrump]], [[JeromePowell]], and [[KevinWarsh]] - pressure, incumbent chair, and successor-confirmation context.
 - [[Carbon180]], [[AaronBurns]], [[DirectAirCapture]], [[CarbonRemovalPoliticalDurability]], [[Louisiana]], [[Texas]], and [[OccidentalPetroleum|Occidental Petroleum]] - carbon-removal hub funding context added by Marketplace Tech.
 - [[Section122TariffAuthority]], [[IEPATariffAuthorityLimit]], [[DonaldTrump]], and [[KathleenClaussen]] - tariff-extension branch added by Planet Money.
+- [[GovernmentDataAccountability]], [[FederalDataPracticeTrust]], [[ElizabethLaird]], and [[CenterForDemocracyAndTechnology|Center for Democracy and Technology]] - federal-data oversight branch added by Marketplace Tech.
