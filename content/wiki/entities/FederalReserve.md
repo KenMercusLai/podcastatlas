@@ -2,8 +2,8 @@
 title: "Federal Reserve"
 type: entity
 tags: [institution, central-bank, macro]
-sources: [do-prediction-market-bettors-make-anything-better, indicators-of-2025-and-what-to-watch-in-2026, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]
-last_updated: 2026-07-24
+sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, do-prediction-market-bettors-make-anything-better, indicators-of-2025-and-what-to-watch-in-2026, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]
+last_updated: 2026-08-06
 ---
 
 # Federal Reserve
@@ -26,6 +26,8 @@ The Federal Reserve appears in [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-d
 
 [[do-prediction-market-bettors-make-anything-better]] adds the Fed as an event-contract manipulation example rather than a monetary-policy actor. The source says prediction-market traders submitted questions in a Federal Reserve Zoom meeting to try to make an official say words they had bet on, linking the institution to [[EventContractManipulationRisk]].
 
+[[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] adds the early-2025 market-expectations version. At the 2025-01-16 recording date, [[Ricky]] says the [[UnitedStates]] economy still looked strong and market expectations for 2025 cuts had fallen after 2024 delivered more cuts than he expected, keeping [[USMegaCapTechRightSideTrade]] on the right side while raising volatility risk.
+
 ## Source Position
 - Market expectations for Fed cuts are treated as unstable, moving from modest cuts toward larger or even emergency-cut speculation during stress.
 - The speakers argue that a cut can be interpreted as a negative signal if investors believe the Fed has seen a deeper problem.
@@ -40,6 +42,7 @@ The Federal Reserve appears in [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-d
 - The New Zealand inflation-targeting episode adds that Fed credibility also depends on anchoring expectations around a public target, not only on resisting short-term political pressure.
 - The indicator source treats the federal funds rate as a compact public signal for growth, inflation, unemployment, dissent, chair succession, and presidential pressure.
 - The Kalshi source treats Fed communications as a settlement surface that traders may try to influence, not only forecast.
+- Vol.115 treats fewer expected 2025 cuts as compatible with continued U.S. equity momentum, while still making cash and short-duration assets useful portfolio optionality.
 
 ## Connections
 - [[BankOfJapan]] — policy divergence with Japan is central to the episode's chain of events.
@@ -54,3 +57,4 @@ The Federal Reserve appears in [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-d
 - [[InflationTargeting]], [[ArthurGrimes]], [[DonBrash]], [[ReserveBankOfNewZealand]], and [[MultipleEquilibria]] - New Zealand origin branch for explicit inflation targets.
 - [[WaylonWong]], [[FederalFundsRateAsPolicySignal]], [[CentralBankIndependence]], and [[MonetaryPolicyLag]] - 2026 rate-watch branch added by the indicator source.
 - [[Kalshi]], [[PredictionMarketTraderAlpha]], and [[EventContractManipulationRisk]] - word-betting manipulation branch added by Planet Money.
+- [[USMegaCapTechRightSideTrade]], [[DonaldTrump]], [[USTreasury]], [[TreasuryDurationRisk]], and [[AssetAllocation]] - vol.115 U.S. macro and allocation branch.

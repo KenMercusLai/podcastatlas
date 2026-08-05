@@ -2,8 +2,8 @@
 title: "Commodity Price Exposure"
 type: concept
 tags: [pricing, consumer-products, risk, operations]
-sources: [tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128, venezuelas-recent-economic-history-update, dark-times-for-cubas-economic-experiment, the-secret-meeting-that-launched-opec, advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, jiufan-zhongting-mifeng-jingjixue-956460448, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]
-last_updated: 2026-08-04
+sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128, venezuelas-recent-economic-history-update, dark-times-for-cubas-economic-experiment, the-secret-meeting-that-launched-opec, advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, jiufan-zhongting-mifeng-jingjixue-956460448, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]
+last_updated: 2026-08-06
 ---
 
 # Commodity Price Exposure
@@ -26,6 +26,8 @@ The concept is not only a margin problem. It can force a founder to decide wheth
 
 [[venezuelas-recent-economic-history-update]] adds the exporter-side country version through [[Venezuela]]. The source says oil revenue funded state spending, imports, and cheap dollar access under [[HugoChavez]], then the 2014 oil-price collapse left [[NicolasMaduro]] with too few dollars to sustain imports or the official exchange-rate system. This turns commodity exposure into [[OilRevenueDependence]], [[CurrencyControlTrap]], and [[ImportApprovalBottleneck]] rather than only price volatility.
 
+[[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] adds a 2025 asset-allocation version. [[Ricky]] treats China-linked black commodities as low-win-rate but potentially high-payoff if infrastructure and property demand surprise, while oil has more downside than upside in the source's view because Chinese demand, U.S. shale, [[OPEC]] capacity, and possible Russia-Ukraine supply changes all pressure the balance.
+
 ## Key Claims
 - Input-price shocks can turn a premium product into a smaller-market product even when margins are protected.
 - A founder should distinguish the material customers love from the emotional or functional job the material serves.
@@ -39,6 +41,7 @@ The concept is not only a margin problem. It can force a founder to decide wheth
 - Oil-price exposure can depend on producer quotas, swing-producer behavior, shipping confidence, and reserve rebuilding rather than only on total geological supply.
 - Country-level oil exposure can appear as blackouts and service failure when the problem is access to fuel, not just price.
 - Exporter-side oil exposure can become a currency crisis when state budgets, imports, and official exchange rates all depend on oil dollars.
+- Vol.115 adds that commodity exposure should separate win rate from payoff: cyclical China-linked commodities may have poor current odds but large upside if policy transmission changes, while oil can face supply and demand pressure at the same time.
 
 ## Connections
 - [[YearlyCo]] and [[AnneWilliams]] - source case.
@@ -51,3 +54,4 @@ The concept is not only a margin problem. It can force a founder to decide wheth
 - [[OPEC]], [[OilProducerSupplyCoordination]], [[SwingProducerRole]], [[GreenParadox]], and [[StraitOfHormuz]] - oil-market coordination and chokepoint extension.
 - [[Cuba]], [[Venezuela]], [[ExternalPatronDependence]], and [[OilDependencyBlackoutRisk]] - country-level oil access extension.
 - [[OilRevenueDependence]], [[CurrencyControlTrap]], and [[ImportApprovalBottleneck]] - Venezuela exporter-side extension.
+- [[ChinaFiscalExpansionChannels]], [[ChinaRealEstateDebtCycle]], [[AssetAllocation]], and [[GoldMonetaryAnchor]] - vol.115 commodities and cross-asset allocation extension.

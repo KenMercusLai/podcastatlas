@@ -2,8 +2,8 @@
 title: "RMB Exchange Rate Policy"
 type: concept
 tags: [currency, macro, china]
-sources: [ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
-last_updated: 2026-07-24
+sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+last_updated: 2026-08-06
 ---
 
 # RMB Exchange Rate Policy
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 RMB exchange rate policy is the EP39 frame that the RMB/USD rate is more likely to be managed around stability than allowed to move toward extreme narratives. In [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]], [[LaoMai]] and [[Daxiong]] argue that the [[PeoplesBankOfChina]] has reasons to avoid both excessive depreciation and excessive appreciation. [[ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs]] adds historical context through the 2005 managed floating exchange-rate shift, the USD 50,000 personal quota, and post-811 capital-outflow pressure.
 
 [[vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]] adds a sovereignty and order-building version. [[LanXiaokang|蓝小康]] argues that China should not be linearly compared with Japan if it is no longer simply operating inside the old U.S.-led order; he frames the RMB's anchor through China's industrial products, industrialization capacity, low electricity costs, coal and other base outputs, and social belonging as well as through policy operation.
+
+[[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] adds the easing-constraint version. The episode says several domestic monetary-policy constraints have loosened, but [[PeoplesBankOfChina]] still cares strongly about exchange-rate stability; RMB stability is framed not only as capital-flow defense, but also as part of doing business with Southeast Asia, Africa, South America, and other non-U.S. markets.
 
 ## Key Claims
 - Severe RMB depreciation can worsen capital outflow pressure and confidence.
@@ -20,6 +22,7 @@ RMB exchange rate policy is the EP39 frame that the RMB/USD rate is more likely 
 - For investors, the policy view matters because [[CurrencyRisk]] affects U.S. Treasuries, deposits, QDII products, and future dollar use.
 - Exchange-rate pressure can make regulators more sensitive to false-purpose FX use, split purchases, and informal outbound investment routes.
 - Vol.112 adds that the exchange-rate path can be partly subjective and strategic at historical turning points, especially when [[China]] is trying to build rather than merely adapt to a global order.
+- Vol.115 adds that RMB policy can limit rate-cut space even during [[ChinaPolicyEasingPivot]], because exchange-rate credibility also supports external trade strategy.
 
 ## Connections
 - [[PeoplesBankOfChina]] — policy actor.
@@ -28,3 +31,4 @@ RMB exchange rate policy is the EP39 frame that the RMB/USD rate is more likely 
 - [[InvestmentRiskManagement]] — exchange-rate views should serve asset needs rather than emotional speculation.
 - [[StateAdministrationOfForeignExchange]] and [[CapitalAccountInvestmentRestrictions]] — policy and enforcement context for personal FX use.
 - [[China]], [[NewOrderAssetPricing]], and [[SupplyChainSovereignty]] — vol.112's order-building and industrial-anchor context.
+- [[ChinaPolicyEasingPivot]], [[BondFundReturnExpectationReset]], [[PeoplesBankOfChina]], and [[ChinaFiscalExpansionChannels]] — vol.115 monetary-constraint and fixed-income extension.

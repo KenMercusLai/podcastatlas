@@ -2,8 +2,8 @@
 title: "大卫翁 / David Weng"
 type: entity
 tags: [person, podcast, investing]
-sources: [vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]
-last_updated: 2026-07-15
+sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]
+last_updated: 2026-08-06
 ---
 
 # 大卫翁 / David Weng
@@ -16,6 +16,8 @@ In [[vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuan
 
 In [[vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]], he returns to Japan and investing-adjacent business history through [[JapaneseSogoShosha|Japanese sogo shosha]]. The episode connects [[WarrenBuffett]]'s interest in Japanese trading companies to resources and governance, but more importantly uses [[KeiretsuBusinessGroups]], [[TradingCompanyInvestmentModel]], and [[DeglobalizationTradeIntermediation]] to explain why intermediaries can matter again when trade becomes harder.
 
+In [[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]], he hosts [[Ricky]] for a China-to-global macro and capital-market outlook. His role is to keep the discussion source-dated, connect policy signals to ordinary-investor [[AssetAllocation]], and stress that [[ShortTermDemandBeforeLongTermReform|short-term demand repair]] has to precede medium- and long-term confidence.
+
 ## Connections
 - [[QizhulouYanBinke|起朱楼宴宾客]] — source show.
 - [[SanDianXiaban|三点下班]] and [[Haoge|浩哥]] — crossover partner and conversation counterpart.
@@ -24,3 +26,4 @@ In [[vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihci
 - [[Ricky]], [[Dubai]], [[DubaiBusinessHubModel]], [[DubaiRealEstateMarket]], and [[DubaiGoldenVisaResidency]] — vol.106 Dubai field-report branch.
 - [[SiriQizhulou|Siri]], [[ChoiceTriggeredAttentionBoundary]], [[ControllableLifeAnchors]], and [[RelationshipOptionality]] — vol.107 generational conversation branch.
 - [[JapaneseSogoShosha]], [[MitsubishiCorporation]], [[MitsuiAndCo]], [[Itochu]], [[SumitomoCorporation]], and [[Marubeni]] — vol.108 Japanese trading-company branch.
+- [[Ricky]], [[ChinaPolicyEasingPivot]], [[AHShare2025Barbell]], [[BondFundReturnExpectationReset]], and [[USMegaCapTechRightSideTrade]] — vol.115 macro and market outlook branch.

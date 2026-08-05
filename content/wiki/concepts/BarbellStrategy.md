@@ -2,8 +2,8 @@
 title: "Barbell Strategy"
 type: concept
 tags: [investing, risk, uncertainty]
-sources: [172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]
-last_updated: 2026-07-15
+sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]
+last_updated: 2026-08-06
 ---
 
 # Barbell Strategy
@@ -14,6 +14,8 @@ The concept connects [[NassimTaleb]]'s uncertainty thinking to both investing an
 
 [[172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860]] adds a luck-focused version: one side is stable skill, health, and "not leaving the table"; the other side is exposure to unfamiliar people, projects, events, and information. The source's boundary is clear: a barbell is not all-in investing, gambling, or chasing a single dramatic rescue.
 
+[[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] adds an A/H equity version through [[AHShare2025Barbell]]. One side is [[DefensiveDividendAssets]] priced more by cash flow and shareholder return; the other is [[NewQualityProductiveForces]] exposure priced more by future technology and policy optionality.
+
 ## Key Claims
 - A barbell is a structure, not a fixed product allocation rule.
 - The high-upside side must be priced and sized so failure remains survivable.
@@ -21,6 +23,7 @@ The concept connects [[NassimTaleb]]'s uncertainty thinking to both investing an
 - The safe side matters because it buys time, behavior, and survival through quiet periods.
 - The life-design version protects health, cash, and relationships before seeking upside contact.
 - The luck version uses [[LowCostExperimentation]] to keep the upside side active without sacrificing the stable base.
+- Vol.115 adds that a barbell can separate Fact-style cash-flow exposure from Future-style technology exposure, but the risky side still needs sizing and patience.
 
 ## Connections
 - [[Antifragility]] — broader uncertainty frame.
@@ -28,3 +31,4 @@ The concept connects [[NassimTaleb]]'s uncertainty thinking to both investing an
 - [[InvestmentRiskManagement]] — survival and sizing discipline.
 - [[CareerOptionality]] and [[LifeAntifragility]] — non-market analogues.
 - [[LuckAsInformationBandwidth]] and [[InformationEntropyAsOpportunity]] — episode 172's opportunity-side extension.
+- [[AHShare2025Barbell]], [[FactFutureAssetPricing]], [[DefensiveDividendAssets]], and [[NewQualityProductiveForces]] — vol.115 equity-market extension.

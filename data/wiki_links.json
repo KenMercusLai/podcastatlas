@@ -983,6 +983,10 @@
     "title": "AGI Three Acts",
     "url": "/wiki/concepts/agithreeacts/"
   },
+  "AHShare2025Barbell": {
+    "title": "A/H Share 2025 Barbell",
+    "url": "/wiki/concepts/ahshare2025barbell/"
+  },
   "AHShareDiscountRepricing": {
     "title": "AH Share Discount Repricing",
     "url": "/wiki/concepts/ahsharediscountrepricing/"
@@ -4487,6 +4491,10 @@
     "title": "Bombardier / 庞巴迪",
     "url": "/wiki/entities/bombardier/"
   },
+  "BondFundReturnExpectationReset": {
+    "title": "Bond Fund Return Expectation Reset",
+    "url": "/wiki/concepts/bondfundreturnexpectationreset/"
+  },
   "BookAsGraveMemoryWork": {
     "title": "Book As Grave Memory Work",
     "url": "/wiki/concepts/bookasgravememorywork/"
@@ -5879,6 +5887,10 @@
     "title": "China Farmers Bank",
     "url": "/wiki/entities/chinafarmersbank/"
   },
+  "ChinaFiscalExpansionChannels": {
+    "title": "China Fiscal Expansion Channels",
+    "url": "/wiki/concepts/chinafiscalexpansionchannels/"
+  },
   "ChinaHandsetSupplyChain": {
     "title": "China Handset Supply Chain",
     "url": "/wiki/concepts/chinahandsetsupplychain/"
@@ -5899,9 +5911,17 @@
     "title": "China Mobile / 中国移动",
     "url": "/wiki/entities/chinamobile/"
   },
+  "ChinaNarrativeSplit": {
+    "title": "China Narrative Split",
+    "url": "/wiki/concepts/chinanarrativesplit/"
+  },
   "ChinaNationalAviationHolding": {
     "title": "China National Aviation Holding / 中航集团",
     "url": "/wiki/entities/chinanationalaviationholding/"
+  },
+  "ChinaPolicyEasingPivot": {
+    "title": "China Policy Easing Pivot",
+    "url": "/wiki/concepts/chinapolicyeasingpivot/"
   },
   "ChinaRailwayCorporation": {
     "title": "China Railway Corporation / 中国铁路总公司",
@@ -9958,6 +9978,10 @@
   "Facebook": {
     "title": "Facebook",
     "url": "/wiki/entities/facebook/"
+  },
+  "FactFutureAssetPricing": {
+    "title": "Fact/Future Asset Pricing",
+    "url": "/wiki/concepts/factfutureassetpricing/"
   },
   "FailureDesensitization": {
     "title": "Failure Desensitization",
@@ -19711,6 +19735,10 @@
     "title": "New Order Asset Pricing",
     "url": "/wiki/concepts/neworderassetpricing/"
   },
+  "NewQualityProductiveForces": {
+    "title": "New Quality Productive Forces / 新质生产力",
+    "url": "/wiki/concepts/newqualityproductiveforces/"
+  },
   "NewRightPolicyNetwork": {
     "title": "New Right Policy Network",
     "url": "/wiki/concepts/newrightpolicynetwork/"
@@ -25259,6 +25287,10 @@
     "title": "Short-Form Emotional Snapshot",
     "url": "/wiki/concepts/shortformemotionalsnapshot/"
   },
+  "ShortTermDemandBeforeLongTermReform": {
+    "title": "Short-Term Demand Before Long-Term Reform",
+    "url": "/wiki/concepts/shorttermdemandbeforelongtermreform/"
+  },
   "ShortTermNewsBias": {
     "title": "Short-Term News Bias",
     "url": "/wiki/concepts/shorttermnewsbias/"
@@ -28498,6 +28530,10 @@
   "USMaltaTaxTreaty": {
     "title": "U.S.-Malta Tax Treaty",
     "url": "/wiki/entities/usmaltataxtreaty/"
+  },
+  "USMegaCapTechRightSideTrade": {
+    "title": "U.S. Mega-Cap Tech Right-Side Trade",
+    "url": "/wiki/concepts/usmegacaptechrightsidetrade/"
   },
   "USNavy": {
     "title": "U.S. Navy",
@@ -33146,6 +33182,10 @@
   "vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo": {
     "title": "Vol.114 AI的2025和DeepSeek们的未来 | 对谈复旦张奇教授",
     "url": "/wiki/sources/vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo/"
+  },
+  "vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx": {
+    "title": "Vol.115 全球宏观和资本市场2025展望：短期问题不解决，就没有中期和长期了",
+    "url": "/wiki/sources/vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx/"
   },
   "vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1": {
     "title": "Vol. 160 一年多以后，再聊AI写代码Vibe Coding",

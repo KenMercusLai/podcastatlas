@@ -2,8 +2,8 @@
 title: "Policy-Driven Market Rally"
 type: concept
 tags: [investing, markets, policy, china]
-sources: [ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2]
-last_updated: 2026-07-07
+sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2]
+last_updated: 2026-08-06
 ---
 
 # Policy-Driven Market Rally
@@ -12,6 +12,8 @@ Policy-driven market rally is the episode's frame for equity-market gains starte
 
 The source's key distinction is between policy ignition and fundamental support. Halting issuance, lowering costs, cutting rates, expanding eligible institutional funds, fiscal stimulus, or currency reform can bring money and confidence into equities; a longer market still needs evidence in the economy, industries, and company earnings.
 
+[[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] adds the September 2024 China example. The source says the September 24 and 26 policy signals triggered a fast A/H rally, but the market later pulled back because policy expectations had moved faster than confirmed demand, PPI, and earnings repair.
+
 ## Key Claims
 - A policy package can create confidence before company fundamentals have visibly changed.
 - Liquidity support can extend a rally, especially when investors believe official goals and market direction are aligned.
@@ -19,6 +21,7 @@ The source's key distinction is between policy ignition and fundamental support.
 - Regulatory warnings can stop speculation quickly when market expectations depend heavily on policy signals.
 - The source treats policy as necessary but not sufficient: the policy must eventually land in real business conditions or prices become fragile.
 - Investors should avoid treating good policy direction as proof that any entry price, leverage level, or holding period is safe.
+- Vol.115 adds a three-stage repair test: policy and sentiment can lift valuation first, leading profit indicators may follow, and only then do PPI and company earnings confirm the rally.
 
 ## Connections
 - [[AShareBullMarketHistory]] — historical cycle frame where this rally type recurs.
@@ -27,3 +30,4 @@ The source's key distinction is between policy ignition and fundamental support.
 - [[MarketMeanReversion]] — policy-driven enthusiasm can still reprice if fundamentals do not catch up.
 - [[RetailBullMarketPsychology]] — policy signals can intensify ordinary investors' fear of missing out.
 - [[ChinaSecuritiesRegulatoryCommission]] — regulator whose actions can support, restrain, or deleverage markets.
+- [[ChinaPolicyEasingPivot]], [[ShortTermDemandBeforeLongTermReform]], [[AHShare2025Barbell]], and [[AShareValuationIndicators]] — vol.115 policy-to-market extension.

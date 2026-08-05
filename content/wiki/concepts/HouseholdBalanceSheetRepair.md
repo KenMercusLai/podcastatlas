@@ -2,8 +2,8 @@
 title: "Household Balance-Sheet Repair"
 type: concept
 tags: [household-finance, debt, investing, psychology]
-sources: [vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, 173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe]
-last_updated: 2026-07-17
+sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, 173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe]
+last_updated: 2026-08-06
 ---
 
 # Household Balance-Sheet Repair
@@ -14,12 +14,15 @@ The source's point is double-edged. For one household, reducing debt can be a ra
 
 [[173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe]] extends the concept from household psychology into [[BalanceSheetMacroAnalysis]]. The episode says [[GaoShanwen|高善文]] watched household, government, and enterprise balance sheets to judge asset-price, consumption, and policy-pressure changes; it also notes that recent debate over whether Chinese household balance sheets are repairing uses a similar evidence style.
 
+[[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] adds a policy-transmission version. [[Ricky]] treats residents, local governments, and firms as simultaneously weak balance-sheet actors, so consumption repair depends on [[ChinaFiscalExpansionChannels]], mortgage burden, social security, hukou, education, and medical-pressure changes rather than only on urging households to spend.
+
 ## Key Claims
 - Balance-sheet repair is not only an accounting move; it is also an anxiety-management and confidence-management strategy.
 - Mortgage prepayment can look like a stable return when the household values certainty and the debt rate is meaningful.
 - Deleveraging can preserve household agency while also contributing to weak aggregate demand if it becomes widespread.
 - The concept extends [[InvestmentRiskManagement]] from market assets into household liabilities and mental load.
 - Episode 173 adds that household balance-sheet movement is also a macro signal for [[AssetRevaluationTheory]], real estate demand, consumption, and confidence.
+- Vol.115 adds that household repair must be connected to local-government and enterprise repair; otherwise private caution can keep blocking [[ShortTermDemandBeforeLongTermReform|short-term demand]].
 
 ## Connections
 - [[FuYu|傅宇]] - speaker who gives the personal example.
@@ -27,3 +30,4 @@ The source's point is double-edged. For one household, reducing debt can be a ra
 - [[InvestmentRiskManagement]], [[InvestmentImpossibleTriangle]], and [[InvestmentLiquidityTradeoff]] - earlier finance branch extended by the episode.
 - [[MacroNarrativeAnxiety]], [[RuminationVsReflection]], and [[YouthHappinessAfterGrowth]] - emotional and life-design consequences.
 - [[GaoShanwen|高善文]], [[BalanceSheetMacroAnalysis]], and [[AssetRevaluationTheory]] - macro-method extension from episode 173.
+- [[ChinaFiscalExpansionChannels]], [[LaborShareConsumptionRebalancing]], [[ChinaNarrativeSplit]], and [[ChinaPolicyEasingPivot]] — vol.115 demand-repair extension.

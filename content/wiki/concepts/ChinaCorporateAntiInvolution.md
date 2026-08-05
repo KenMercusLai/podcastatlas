@@ -2,7 +2,7 @@
 title: "China Corporate Anti-Involution"
 type: concept
 tags: [china, industry, competition, industrial-policy]
-sources: [79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g]
+sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g]
 last_updated: 2026-08-06
 ---
 
@@ -14,12 +14,15 @@ China corporate anti-involution is the source's third 2025 guess in [[vol-111-gu
 
 The concept extends [[ChinaSupplySideClearing]]. Where that page emphasizes production, PPI, and profit compression, this page emphasizes the competitive mechanism: firms keep producing because exit is frightening, sunk costs are high, local governments have promoted capacity, and global markets are increasingly hostile to Chinese output moving from low-end goods into strategic infrastructure and energy products.
 
+[[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] links anti-involution to the A/H equity watchlist. The source is optimistic about policy and [[NewQualityProductiveForces]] optionality, but it still waits for PPI and enterprise earnings to show that price-war pressure has actually eased.
+
 ## Key Claims
 - Involution becomes macro-relevant when it damages industry profits, local fiscal behavior, global trade relations, and long-term industrial security.
 - Anti-involution policy is not the same as immediate profitability repair; the source expects possible淘汰赛 pressure and volatility before cleaner supply ecology appears.
 - The host treats overseas resistance as partly structural: countries respond differently when Chinese exports are power, transport, battery, and renewable-energy systems rather than toys or textiles.
 - [[Northvolt]] is the source's example of foreign anxiety that local strategic industries may be unable to survive Chinese supply-chain depth and price pressure.
 - Episode 79 adds that anti-involution can be read as an attempt to escape a price-war prisoner's dilemma, not only as a macro supply-side cleanup.
+- Vol.115 adds that anti-involution is part of equity-market confirmation: valuation repair needs later price and profit evidence.
 
 ## Connections
 - [[China]], [[ChinaSupplySideClearing]], [[StrategicIndustrialPolicy]], and [[LaborShareConsumptionRebalancing]] — macro and policy context.
@@ -27,3 +30,4 @@ The concept extends [[ChinaSupplySideClearing]]. Where that page emphasizes prod
 - [[ChinaLocalDebtResolution]] and [[InternalStabilityConfidenceRepair]] — local-government pressure and confidence-repair links.
 - [[NewOrderAssetPricing]] — investor question about whether cleaner supply ecology can become investable value.
 - [[BookPriceWarSignalTrap]], [[JapaneseEnterprisePriceWarAvoidance]], and [[PrisonersDilemma]] — episode-79 microeconomic analogy.
+- [[AHShare2025Barbell]], [[NewQualityProductiveForces]], and [[FactFutureAssetPricing]] — vol.115 equity-style and valuation extension.

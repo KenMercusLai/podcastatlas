@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.115 全球宏观和资本市场2025展望：短期问题不解决，就没有中期和长期了](sources/vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx.md) — 起朱楼宴宾客 episode with 大卫翁 and Ricky on China policy easing, fiscal transmission, A/H equity barbell strategy, bond-return expectations, U.S. mega-cap tech, gold, commodities, and cash optionality.
 - [88.别认输，惠子：在听不到喝彩的世界里，挥拳！](sources/88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803.md) — 蜜獾吃书 episode on 惠子, 《惠子凝视》, deaf education, communication misrecognition, female boxing, gym access, and boxing as embodied agency rather than simple inspirational victory.
 - [87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）](sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997.md) — 蜜獾吃书 episode on early Chinese fangshu, oracle-bone and Zhouyi divination, soul summoning, astrology, yin-yang/five phases, Qin-Han immortality quests, Huainanzi, and wugu political panic.
 - [87.过年最适合聊玄学！探讨神仙方术发展史（接上集）](sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550.md) — 蜜獾吃书 episode on Han-to-Wei-Jin fangshu, Dong Zhongshu, star omens, chenwei politics, Daoist alchemy, ritual technology, divination, fengshui, and Buddhist miracle politics.
@@ -2811,12 +2812,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siri (起朱楼宴宾客)](entities/SiriQizhulou.md) — 95后 speaker in vol.107, explaining youth "corpse mode", choice-triggered attention, controllable life anchors, and relationship optionality.
 - [Dubai / 迪拜](entities/Dubai.md) — UAE commercial hub discussed by vol.106 through low tax, international population flow, property demand, crypto services, logistics, and due-diligence risk.
 - [Abu Dhabi / 阿布扎比](entities/AbuDhabi.md) — UAE capital and oil/resource center contrasted with Dubai's commercial and private-capital-facing model in vol.106.
-- [Ricky](entities/Ricky.md) — Finance-oriented vol.106 guest whose two-week Dubai and Abu Dhabi field report supplies the episode's opportunity and caveat frame.
+- [Ricky](entities/Ricky.md) — Finance-oriented 起朱楼宴宾客 guest whose vol.106 Dubai field report and vol.115 macro outlook cover overseas opportunity, China policy, A/H equities, bonds, and technology-market caveats.
 - [红色火箭 / Hongse Huojian](entities/HongseHuojianIndexTool.md) — Index-investing mini-program mentioned by vol.105 as a ChinaAMC-affiliated tool for observing, comparing, and selecting indices.
 - [华夏基金 / ChinaAMC](entities/ChinaAMC.md) — Fund-management company context for vol.105's opening mention of the 红色火箭 index-investing tool.
 - [时雷 / Shi Lei](entities/ShiLei.md) — Asset-allocation commentator referenced by vol.105 for complex adaptive systems and localizing Bridgewater-style all-weather thinking.
 - [十分吸引 / Shifen Xiyin](entities/ShifenXiyin.md) — Shi Lei's podcast, referenced by vol.105 as a more technical allocation discussion source.
-- [大卫翁 / David Weng](entities/DavidWeng.md) — 起朱楼宴宾客 host connecting Hong Kong retail-investing survival in vol.104, Dubai field-report questions in vol.106, and 95后 generational questions in vol.107.
+- [大卫翁 / David Weng](entities/DavidWeng.md) — 起朱楼宴宾客 host connecting Hong Kong retail-investing survival, Dubai field-report questions, 95后 generational interviews, Japan business history, and vol.115 macro allocation framing.
 - [三点下班 / San Dian Xiaban](entities/SanDianXiaban.md) — Podcast crossover partner for vol.104, represented through 浩哥's Hong Kong stock-picking and survival discussion.
 - [浩哥 / Haoge](entities/Haoge.md) — 三点下班 speaker in vol.104, contributing retail Hong Kong investing cases around early wins, illiquid losses, IPO paths, and fast stop-loss discipline.
 - [China Mobile / 中国移动](entities/ChinaMobile.md) — Hong Kong-listed telecom SOE used in vol.104 as a sanction-driven mispricing and high-dividend example.
@@ -3001,7 +3002,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [蝴蝶牌](entities/ButterflyBrand.md) — Chen Diexian's tooth-powder and cosmetics brand, combining beauty imagery, trademark strategy, national-goods rhetoric, and consumer trust.
 - [家庭工业社](entities/JiatingGongyeshe.md) — Light-industrial company founded by Chen Diexian, growing from tooth powder into cosmetics, packaging, raw materials, and wartime factory migration.
 - [《女子世界》](entities/NushiShijie.md) — Women's magazine context for Chen Diexian's cosmetics-formula column and household-chemistry authority building.
-- [起朱楼宴宾客 / Qizhulou Yan Binke](entities/QizhulouYanBinke.md) — Podcast show represented across Trump-policy, asset-allocation, investment-worldview, Japan-youth, quant-history, Hong Kong investing, portfolio-suitability, Dubai-opportunity, and youth-generational-dialogue episodes.
+- [起朱楼宴宾客 / Qizhulou Yan Binke](entities/QizhulouYanBinke.md) — Podcast show represented across Trump-policy, AI, asset-allocation, macro outlook, investment-worldview, Japan-youth, quant-history, Hong Kong investing, portfolio-suitability, Dubai-opportunity, and youth-generational-dialogue episodes.
 - [Project 2025](entities/Project2025.md) — Heritage-linked conservative transition project treated as a personnel, training, document, and governing-architecture effort to institutionalize Trumpism.
 - [Mandate for Leadership 2025](entities/MandateForLeadership2025.md) — Project 2025 policy-document layer with department-level recommendations, transition planning, and conservative administrative-state critique.
 - [Heritage Foundation](entities/HeritageFoundation.md) — Conservative think tank behind Project 2025 and the Mandate for Leadership tradition discussed as governing handoff infrastructure.
@@ -5104,6 +5105,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [China Policy Easing Pivot](concepts/ChinaPolicyEasingPivot.md) — 2024-2025 China policy-turn frame moving from July disappointment to September/December easing confirmation, with RMB still constraining monetary room.
+- [Short-Term Demand Before Long-Term Reform](concepts/ShortTermDemandBeforeLongTermReform.md) — Sequencing claim that damaged household, enterprise, and local-government balance sheets must be repaired before medium-term reform and long-term productivity stories can work.
+- [China Fiscal Expansion Channels](concepts/ChinaFiscalExpansionChannels.md) — Map of targeted 2025 fiscal transmission through local debt, special bonds, housing inventory purchase, bank capital, policy banks, public services, and arrears cleanup.
+- [New Quality Productive Forces / 新质生产力](concepts/NewQualityProductiveForces.md) — China technology and productivity theme used as the future-upside side of the vol.115 A/H equity barbell.
+- [A/H Share 2025 Barbell](concepts/AHShare2025Barbell.md) — China-equity structure pairing defensive dividend cash flow with new-productivity optionality while watching policy, profit indicators, PPI, and earnings.
+- [Fact/Future Asset Pricing](concepts/FactFutureAssetPricing.md) — Valuation distinction between cash-flow-priced assets and assets priced mainly through future technology or policy belief.
+- [Bond Fund Return Expectation Reset](concepts/BondFundReturnExpectationReset.md) — Fixed-income warning that 2024 bond-fund gains from falling rates should not be extrapolated after yields have already compressed.
+- [U.S. Mega-Cap Tech Right-Side Trade](concepts/USMegaCapTechRightSideTrade.md) — Source-dated view that M7-style technology stocks remained on the right side while becoming mature, volatile, and belief-dependent.
+- [China Narrative Split](concepts/ChinaNarrativeSplit.md) — Warning that elite, foreign-investor, asset-owner, lower-tier-city, and migrant-worker experiences of China can diverge enough to affect consumption and asset narratives.
 - [Deaf Education And Belonging](concepts/DeafEducationBelonging.md) — Education-access frame where school placement must be judged by real communication, trust, peer life, and the student's ability to participate.
 - [Communication Access And Misrecognition](concepts/CommunicationAccessAndMisrecognition.md) — Pattern where communication barriers are misread as rudeness, arrogance, laziness, or defiance.
 - [Disability Access In Combat Sports](concepts/DisabilityAccessInCombatSports.md) — Sports-access frame for preserving safety standards while refusing blanket exclusion before actual skill and risk are assessed.

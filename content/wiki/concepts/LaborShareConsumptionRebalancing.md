@@ -2,8 +2,8 @@
 title: "Labor-Share Consumption Rebalancing"
 type: concept
 tags: [china, consumption, distribution, macro]
-sources: [vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
-last_updated: 2026-07-24
+sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+last_updated: 2026-08-06
 ---
 
 # Labor-Share Consumption Rebalancing
@@ -12,14 +12,18 @@ Labor-share consumption rebalancing is the episode's claim that durable Chinese 
 
 The concept sits near [[ChinaLowRedistributionState]] but is more market-facing: it asks how changing distribution between labor and capital could reshape household demand, industry ecology, and the valuation of surviving firms.
 
+[[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] adds the public-service and hukou version. [[Ricky]] and [[DavidWeng|大卫翁]] connect social security contributions, housing costs, mortgage burden, education, health care, migrant-worker access, and lower-tier-city households to consumption willingness, making [[ChinaNarrativeSplit]] part of the demand-repair problem.
+
 ## Key Claims
 - Price subsidies can increase consumption volume and welfare without necessarily creating classic inflation.
 - Durable consumption repair needs income, social security, wages, or household-side fiscal support.
 - Raising labor's share can force some low-return capital to exit and thereby improve industrial ecology.
 - Shorter work time, higher hourly value, and better vacations are treated as part of economic structure, not only lifestyle preference.
+- Vol.115 adds that household-side reform can turn short-term fiscal spending into medium-term consumption confidence when social-security, housing, hukou, education, and medical burdens are reduced.
 
 ## Connections
 - [[LanXiaokang]] and [[MouYiling]] — speakers who develop the distribution and consumption frame.
 - [[China]], [[ChinaLowRedistributionState]], and [[HouseholdBalanceSheetRepair]] — broader macro-distribution context.
 - [[ChinaSupplySideClearing]] and [[NewOrderAssetPricing]] — supply and pricing implications.
 - [[MiddleClassConsumptionPressure]] and [[AssetAllocation]] — household behavior and portfolio context.
+- [[ChinaNarrativeSplit]], [[ChinaFiscalExpansionChannels]], and [[ShortTermDemandBeforeLongTermReform]] — vol.115 household-demand extension.
