@@ -2,8 +2,8 @@
 title: "Medical Risk Management"
 type: concept
 tags: [healthcare, risk, clinical-systems]
-sources: [tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
+last_updated: 2026-08-06
 ---
 
 # Medical Risk Management
@@ -16,6 +16,8 @@ The episode also treats modern medicine as a system built around fallible people
 
 [[tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]] adds a consumer biohacking version through [[GrayMarketPeptides]]. The risk-management problem is not only whether a peptide has ever helped someone; it is whether the user knows the compound, dose, sterility, interactions, clinical evidence, and manufacturing standards well enough to treat self-injection as a responsible intervention.
 
+[[yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]] adds an ordinary acute-illness version. The hosts describe hydration, nutrition, mood, rest, and not casually mixing medication as personal recovery experience, while also stressing [[MedicalKnowledgeBoundary]]: even hospital testing may not identify every infection, and early expert advice can change as evidence accumulates.
+
 ## Key Claims
 - Clinical advice often starts from worst-case screening because medicine has to manage severity as well as probability.
 - Online or casual consultation has a narrower safety margin because the doctor cannot examine the patient or verify the full context.
@@ -24,6 +26,7 @@ The episode also treats modern medicine as a system built around fallible people
 - For serious disease, professional second opinions can reduce decision risk more reliably than search-result arguments.
 - In diagnostics, the standard next step may be unsafe if tissue sampling could worsen disease spread; a better access route can reduce risk only after validation.
 - Gray-market health products can move risk from regulated manufacturers and clinicians to individual users who lack reliable information about contents, dose, and evidence.
+- Ordinary self-care can reduce avoidable stress during infection, but it should stay bounded as experience sharing rather than universal diagnosis or treatment.
 
 ## Connections
 - [[OnlineMedicalConsultation]] - online advice category whose limits the episode illustrates from the doctor's side.
@@ -33,3 +36,4 @@ The episode also treats modern medicine as a system built around fallible people
 - [[HumanJudgmentUnderAI]] and [[DoctorGuidedAIInterpretation]] - AI-era boundaries that preserve human clinical responsibility.
 - [[SurbhiSarna]], [[OvarianCancerDiagnostics]], [[FallopianTubeAccessDiagnostics]], and [[WomensHealthDiagnosticGap]] - women-health diagnostic risk case added by The Social Radars.
 - [[GrayMarketPeptides]], [[GLP1Agonists]], [[ResearchChemicalLoophole]], and [[TechCultureBiohacking]] - consumer self-injection risk branch added by Marketplace Tech.
+- [[InfectiousDiseasePublicLiteracy]] and [[MedicalKnowledgeBoundary]] - sickbed reading-list extension around infection recovery and medicine's limits.

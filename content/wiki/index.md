@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [一份来自病床上的相关书单](sources/yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093.md) — 蜜獾吃书 sickbed reading-list episode on infectious-disease literacy, medical visual history, historical body concepts, pandemic history, public-health geopolitics, public-health invisibility, and surgical memoir.
 - [32.印第安人《讲了一百万次的故事》是马尔克斯的老师](sources/32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714.md) — 蜜獾吃书 episode introducing Indigenous American oral literature through Coyote, human-animal continuity, origin myths, colonial story layering, and the oral-story roots of magical-realism atmosphere.
 - [31.冰与火之歌：虽然从不自称历史](sources/31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848.md) — 蜜獾吃书 episode reading 《冰与火之歌》 through historical fantasy source layering: Wars of the Roses, conquest history, medieval religion, Celtic/Norse myth, unreliable records, and the guardrail against one-to-one prototype hunting.
 - [30.孟子：战国愤青的赤子之心](sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138.md) — 蜜獾吃书 episode rereading 孟子 as a forceful Warring States political thinker through 义利之辨, 仁政, 王道/霸道, 有恒产者有恒心, 民贵君轻, 暴君非君, and the limits of benevolent conquest.
@@ -708,6 +709,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张文宏 / Zhang Wenhong](entities/ZhangWenhong.md) — Public medical authority attached to 《张文宏说传染》 in the sickbed infectious-disease reading-list episode.
+- [《张文宏说传染》](entities/ZhangWenhongShuoChuanran.md) — Low-threshold infectious-disease popularization book used to anchor public disease literacy.
+- [《病玫瑰》](entities/BingMeigui.md) — Medical visual-history book whose disease illustrations make bodily knowledge visually striking and unsettling.
+- [《中世纪的身体》](entities/ZhongshijiDeShenti.md) — Body-history book used to show medieval frameworks for organs, skin, blood, bathing, and personhood.
+- [《苍白的骑士》 / Pale Rider](entities/PaleRiderBook.md) — 1918 influenza history recommended as a pandemic comparison for modern public-health experience.
+- [《东北博弈》](entities/DongbeiBoyi.md) — Book on the 1910-1911 Northeast plague, railways, Qing weakness, Wu Liande, and public-health geopolitics.
+- [《瘟疫之夜》 / Nights of Plague](entities/PlagueNights.md) — Orhan Pamuk plague novel treated as a fictional mirror for epidemic politics and imperial fragility.
+- [《瘟疫传说》 / A Plague Tale](entities/APlagueTale.md) — Game-series association showing plague imagination in interactive media.
+- [《失信：公共卫生体系的崩溃》](entities/ShixinPublicHealth.md) — Public-health-system book tied to clean water, sanitation, outbreak memory, and prevention invisibility.
+- [劳丽·加勒特 / Laurie Garrett](entities/LaurieGarrett.md) — Journalist and public-health author inferred behind the 《失信》 recommendation.
+- [《打开一颗心》 / Open Heart](entities/DakayiKexin.md) — Cardiac-surgeon memoir used to close the episode on medical courage within medicine's limits.
 - [《讲了一百万次的故事》 / Stories Told a Million Times](entities/StoriesToldAMillionTimes.md) — Oral-literature anthology frame connecting the wiki's African and Indigenous American mythology branches through collected, translated, and retold stories.
 - [Gabriel Garcia Marquez / 加西亚·马尔克斯](entities/GabrielGarciaMarquez.md) — Writer used by episode 32 as the literary comparison point for oral myth, family storytelling, and magical-realist atmosphere.
 - [Coyote / 凯奥蒂](entities/CoyoteTrickster.md) — North American culture hero and trickster whose fire theft, salmon rules, monster defeats, and comic troublemaking extend the wiki's trickster branch.
@@ -4884,6 +4896,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Infectious Disease Public Literacy](concepts/InfectiousDiseasePublicLiteracy.md) — Ordinary-reader knowledge frame for pathogens, transmission, prevention, symptoms, and bounded self-care.
+- [Medical Visual History](concepts/MedicalVisualHistory.md) — History of medical knowledge made through disease images, anatomical drawings, wax models, specimens, and visual comparison.
+- [Historical Body Concept](concepts/HistoricalBodyConcept.md) — Frame for reading bodies through historically specific medical theories, hygiene norms, religious imagery, and personhood ideas.
+- [Pandemic As Historical Force](concepts/PandemicAsHistoricalForce.md) — Disease-history frame where epidemics reshape labor, war, nationalism, trust, migration, and political fracture.
+- [Public Health Geopolitics](concepts/PublicHealthGeopolitics.md) — Pattern where outbreak response becomes a contest over sovereignty, expertise, quarantine authority, and regional power.
+- [Public Health Invisibility](concepts/PublicHealthInvisibility.md) — Prevention-system problem where clean water, sanitation, food safety, and disease surveillance succeed by making disasters absent.
+- [Medical Knowledge Boundary](concepts/MedicalKnowledgeBoundary.md) — Respectful humility frame for medicine's limits, diagnostic uncertainty, changing expert advice, and disciplined clinical action.
 - [Indigenous American Mythology / 美洲原住民神话](concepts/IndigenousAmericanMythology.md) — Broad mythology field from episode 32 treating North American, Mesoamerican, and South American materials as plural oral and regional systems.
 - [Native American Oral Literature / 美洲原住民口头文学](concepts/NativeAmericanOralLiterature.md) — Transmission frame for episode 32's collected Indigenous American tales, variants, origin explanations, and colonial recording layers.
 - [Oral Myth As Magical Realism Source](concepts/OralMythMagicalRealismSource.md) — Reading frame connecting oral mythic logic, family storytelling, colonial mixture, and Marquez-style magical-realist atmosphere without overclaiming direct influence.

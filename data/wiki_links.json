@@ -1567,6 +1567,10 @@
     "title": "API Product Design",
     "url": "/wiki/concepts/apiproductdesign/"
   },
+  "APlagueTale": {
+    "title": "《瘟疫传说》 / A Plague Tale",
+    "url": "/wiki/entities/aplaguetale/"
+  },
   "ASBeauty": {
     "title": "AS Beauty",
     "url": "/wiki/entities/asbeauty/"
@@ -4090,6 +4094,10 @@
   "BinaryActionThinking": {
     "title": "Binary Action Thinking",
     "url": "/wiki/concepts/binaryactionthinking/"
+  },
+  "BingMeigui": {
+    "title": "《病玫瑰》",
+    "url": "/wiki/entities/bingmeigui/"
   },
   "BingeReleaseModel": {
     "title": "Binge Release Model",
@@ -7187,6 +7195,10 @@
     "title": "Daishen",
     "url": "/wiki/entities/daishen/"
   },
+  "DakayiKexin": {
+    "title": "《打开一颗心》 / Open Heart",
+    "url": "/wiki/entities/dakayikexin/"
+  },
   "Dalaoshi": {
     "title": "大老师 / Dalaoshi",
     "url": "/wiki/entities/dalaoshi/"
@@ -8250,6 +8262,10 @@
   "DongZuobin": {
     "title": "董作斌",
     "url": "/wiki/entities/dongzuobin/"
+  },
+  "DongbeiBoyi": {
+    "title": "《东北博弈》",
+    "url": "/wiki/entities/dongbeiboyi/"
   },
   "Dongniao": {
     "title": "懂鸟 / Dongniao",
@@ -12483,6 +12499,10 @@
     "title": "海信 / Hisense",
     "url": "/wiki/entities/hisense/"
   },
+  "HistoricalBodyConcept": {
+    "title": "Historical Body Concept",
+    "url": "/wiki/concepts/historicalbodyconcept/"
+  },
   "HistoricalDetectiveReasoning": {
     "title": "Historical Detective Reasoning",
     "url": "/wiki/concepts/historicaldetectivereasoning/"
@@ -13262,6 +13282,10 @@
   "IndyJohar": {
     "title": "Indy Johar",
     "url": "/wiki/entities/indyjohar/"
+  },
+  "InfectiousDiseasePublicLiteracy": {
+    "title": "Infectious Disease Public Literacy",
+    "url": "/wiki/concepts/infectiousdiseasepublicliteracy/"
   },
   "InferenceAsCashFlow": {
     "title": "Inference as Cash Flow",
@@ -15495,6 +15519,10 @@
     "title": "Laurie Barber",
     "url": "/wiki/entities/lauriebarber/"
   },
+  "LaurieGarrett": {
+    "title": "劳丽·加勒特 / Laurie Garrett",
+    "url": "/wiki/entities/lauriegarrett/"
+  },
   "LawEnforcementCultureAccountability": {
     "title": "Law Enforcement Culture Accountability",
     "url": "/wiki/concepts/lawenforcementcultureaccountability/"
@@ -17411,6 +17439,10 @@
     "title": "Medical Diagnostic Reasoning",
     "url": "/wiki/concepts/medicaldiagnosticreasoning/"
   },
+  "MedicalKnowledgeBoundary": {
+    "title": "Medical Knowledge Boundary",
+    "url": "/wiki/concepts/medicalknowledgeboundary/"
+  },
   "MedicalLiteratureSearch": {
     "title": "Medical Literature Search",
     "url": "/wiki/concepts/medicalliteraturesearch/"
@@ -17430,6 +17462,10 @@
   "MedicalTestingValidationIntegrity": {
     "title": "Medical Testing Validation Integrity",
     "url": "/wiki/concepts/medicaltestingvalidationintegrity/"
+  },
+  "MedicalVisualHistory": {
+    "title": "Medical Visual History",
+    "url": "/wiki/concepts/medicalvisualhistory/"
   },
   "MedicationInteractionRisk": {
     "title": "Medication Interaction Risk",
@@ -19907,6 +19943,10 @@
     "title": "Palantir",
     "url": "/wiki/entities/palantir/"
   },
+  "PaleRiderBook": {
+    "title": "《苍白的骑士》 / Pale Rider",
+    "url": "/wiki/entities/paleriderbook/"
+  },
   "PalestinianQuestionInIsraeliPolitics": {
     "title": "Palestinian Question in Israeli Politics",
     "url": "/wiki/concepts/palestinianquestioninisraelipolitics/"
@@ -19938,6 +19978,10 @@
   "Panasonic": {
     "title": "Panasonic",
     "url": "/wiki/entities/panasonic/"
+  },
+  "PandemicAsHistoricalForce": {
+    "title": "Pandemic As Historical Force",
+    "url": "/wiki/concepts/pandemicashistoricalforce/"
   },
   "Panerai": {
     "title": "Panerai",
@@ -20614,6 +20658,10 @@
   "PlaceBasedFiction": {
     "title": "Place-Based Fiction",
     "url": "/wiki/concepts/placebasedfiction/"
+  },
+  "PlagueNights": {
+    "title": "《瘟疫之夜》 / Nights of Plague",
+    "url": "/wiki/entities/plaguenights/"
   },
   "PlanGrid": {
     "title": "PlanGrid",
@@ -21494,6 +21542,14 @@
   "PublicFundraisingPitch": {
     "title": "Public Fundraising Pitch",
     "url": "/wiki/concepts/publicfundraisingpitch/"
+  },
+  "PublicHealthGeopolitics": {
+    "title": "Public Health Geopolitics",
+    "url": "/wiki/concepts/publichealthgeopolitics/"
+  },
+  "PublicHealthInvisibility": {
+    "title": "Public Health Invisibility",
+    "url": "/wiki/concepts/publichealthinvisibility/"
   },
   "PublicHousingDisplacement": {
     "title": "Public Housing Displacement",
@@ -24090,6 +24146,10 @@
   "ShivonZilis": {
     "title": "Shivon Zilis",
     "url": "/wiki/entities/shivonzilis/"
+  },
+  "ShixinPublicHealth": {
+    "title": "《失信：公共卫生体系的崩溃》",
+    "url": "/wiki/entities/shixinpublichealth/"
   },
   "ShizilukouCrossing": {
     "title": "Shizilukou Crossing",
@@ -29503,6 +29563,14 @@
     "title": "Zhang Shuguang / 张曙光",
     "url": "/wiki/entities/zhangshuguangrailway/"
   },
+  "ZhangWenhong": {
+    "title": "张文宏 / Zhang Wenhong",
+    "url": "/wiki/entities/zhangwenhong/"
+  },
+  "ZhangWenhongShuoChuanran": {
+    "title": "《张文宏说传染》",
+    "url": "/wiki/entities/zhangwenhongshuochuanran/"
+  },
   "ZhangWuchang": {
     "title": "张五常",
     "url": "/wiki/entities/zhangwuchang/"
@@ -29654,6 +29722,10 @@
   "ZhongouFund": {
     "title": "中欧基金 / Zhongou Fund",
     "url": "/wiki/entities/zhongoufund/"
+  },
+  "ZhongshijiDeShenti": {
+    "title": "《中世纪的身体》",
+    "url": "/wiki/entities/zhongshijideshenti/"
   },
   "ZhongyaXingji": {
     "title": "《中亚行迹》 / Sovietistan",
@@ -31750,6 +31822,10 @@
   "xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770": {
     "title": "【闲聊】想送赵露思一本短歌集--编辑推书,无所不用其极！",
     "url": "/wiki/sources/xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770/"
+  },
+  "yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093": {
+    "title": "一份来自病床上的相关书单",
+    "url": "/wiki/sources/yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093/"
   },
   "yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7": {
     "title": "一人公司的另一种可能：AI 负责经营，人类负责热爱｜英文访谈 S10E14",

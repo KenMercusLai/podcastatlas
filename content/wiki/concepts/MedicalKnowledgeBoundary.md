@@ -1,0 +1,26 @@
+---
+title: "Medical Knowledge Boundary"
+type: concept
+tags: [medicine, uncertainty, diagnosis, public-health]
+sources: [yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]
+last_updated: 2026-08-06
+---
+
+# Medical Knowledge Boundary
+
+Medical knowledge boundary is the source's frame for respecting medicine without pretending it is omniscient. In [[yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]], the hosts discuss early uncertainty around new diseases, expert trust swings, a personal experience of unresolved pneumonia after travel, and the fact that many viral illnesses still depend heavily on the body's immune response.
+
+The concept does not reject medical care. It pairs humility with responsibility: diagnosis, treatment, surgery, public health, and self-care all matter more when medicine's limits are visible. The closing recommendation of [[DakayiKexin|《打开一颗心》 / Open Heart]] gives the constructive side of the boundary - a doctor can know the limits and still act with discipline and courage.
+
+## Key Claims
+- A new disease can make expert advice change as evidence accumulates; that is a knowledge-boundary problem, not automatic incompetence.
+- Some conditions remain unidentified even after hospital testing and treatment, so uncertainty should be named rather than hidden.
+- The immune system, rest, nutrition, and time can matter without turning illness into pure individual willpower.
+- Medical humility should not become medical cynicism: disciplined clinical practice and public-health systems still save lives.
+
+## Connections
+- [[MedicalDiagnosticReasoning]] and [[MedicalRiskManagement]] - existing clinical uncertainty and safety frames.
+- [[InfectiousDiseasePublicLiteracy]] - public-facing disease-literacy branch.
+- [[HistoricalBodyConcept]] - historical reminder that medical categories change.
+- [[DakayiKexin|《打开一颗心》 / Open Heart]] - closing surgical memoir recommendation.
+- [[DoctorPatientCommunication]] and [[PublicIllnessWriting]] - adjacent communication and illness-language frames.

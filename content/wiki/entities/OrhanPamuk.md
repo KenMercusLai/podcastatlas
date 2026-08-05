@@ -2,8 +2,8 @@
 title: "奥尔罕·帕慕克 / Orhan Pamuk"
 type: entity
 tags: [writer, literature, turkey, novel]
-sources: [153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400]
-last_updated: 2026-07-15
+sources: [yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093, 153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400]
+last_updated: 2026-08-06
 ---
 
 # 奥尔罕·帕慕克 / Orhan Pamuk
@@ -14,8 +14,11 @@ The upper episode frames Pamuk through [[Istanbul]] and [[BorderlandCulturalIden
 
 In the episodes' reading, Pamuk's achievement is to make the novel's form carry its argument. The shifting first-person chapters, talking images, murderer confession, embedded romances, color symbolism, archive scenes, and Shekure's final warning all make [[MultiPerspectiveMurderNarration]] and [[StoryWithinStoryNarration]] part of the art question rather than decorative devices.
 
+[[yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]] adds Pamuk's plague-fiction branch through [[PlagueNights|《瘟疫之夜》 / Nights of Plague]]. The episode treats the novel as a fictional counterpart to [[DongbeiBoyi|《东北博弈》]]: an island plague, Ottoman imperial weakness, foreign power pressure, murder, and public order make [[PublicHealthGeopolitics]] visible through narrative.
+
 ## Connections
 - [[MyNameIsRed|《我的名字叫红》]] - novel discussed by the source.
+- [[PlagueNights|《瘟疫之夜》 / Nights of Plague]] - plague-politics novel recommended by the sickbed reading-list episode.
 - [[MihuanChishu|蜜獾吃书]] - show discussing his work.
 - [[Istanbul]] and [[BorderlandCulturalIdentity]] - city and identity frame introduced by the upper episode.
 - [[OttomanMiniaturePainting]], [[PersianMiniaturePainting]], and [[FrankishPortraiturePressure]] - art-historical conflict the sources use to explain the novel.

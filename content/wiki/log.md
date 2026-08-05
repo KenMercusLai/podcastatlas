@@ -5621,6 +5621,10 @@ Added source page for a 蜜獾吃书 and 日谈 crossover on reading 《红楼�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-06] ingest | 一份来自病床上的相关书单
+
+Added source page for a 蜜獾吃书 sickbed reading-list episode on infectious-disease literacy, medical visual history, historical body concepts, pandemic history, public-health geopolitics, public-health invisibility, and surgical memoir. Created pages for 张文宏, 《张文宏说传染》, 《病玫瑰》, 《中世纪的身体》, 《苍白的骑士》, 《东北博弈》, 《瘟疫之夜》, 《瘟疫传说》, 《失信：公共卫生体系的崩溃》, Laurie Garrett, 《打开一颗心》, Infectious Disease Public Literacy, Medical Visual History, Historical Body Concept, Pandemic As Historical Force, Public Health Geopolitics, Public Health Invisibility, and Medical Knowledge Boundary; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, Wu Liande, Orhan Pamuk, Reading List Pointer Episode, Medical Risk Management, and Disaster Response State Capacity. No direct contradiction found; transcript title ambiguities around 《瘟疫之夜》 and 《失信》 are recorded as source-scoped OCR variants rather than separate pages.
+
 ## [2026-08-06] ingest | 28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话
 
 Added source page for a 蜜獾吃书 episode on 蒲松龄《聊斋志异》 as strange-tale social critique, covering war shadow, fox and ghost agency, folk performance, 纪昀/《阅微草堂笔记》 contrast, official failure, and examination satire. Created pages for 纪昀 / Ji Yun, 《阅微草堂笔记》, 于七之乱 / Yu Qi Rebellion, Strange Tale Social Critique, and Nonhuman Moral Agency In Strange Tales; updated overview, index, 蜜獾吃书, 秦总, 蒲松龄, 《聊斋志异》, Zhiguai Archive Value, Strange Tale Moral Pluralism, Folklore Trauma Encoding, Folklore As Social Memory, Fiction As Historical Evidence, Classic Reading Complexity, Female Self-Possession, Institutional Mechanism Satire, and Imperial Examination As Only Exit. No direct contradiction found; the source complements earlier Liaozhai mentions by making the collection itself the center rather than only a folk-religion or microhistory support.
@@ -5652,3 +5656,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 7,970 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-24 with 6,453 nodes while lint scanned 7,970 pages, so graph findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest` and no provider/key env vars are available in this shell. Manual follow-up on orphan pages, fragile-bridge endpoints, and explicit contradiction markers found no hard unresolved contradiction in that bounded sample. Report returned in-session; `wiki/lint-report.md` was not saved.
