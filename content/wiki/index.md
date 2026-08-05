@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [23.飞马牌汽车：安全是第一位的！](sources/23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943.md) — 蜜獾吃书 episode on 郑渊洁, 《童话大王》, 《训兔记》, 《飞马牌汽车》, obedience training, safety as control, rule idolatry, bureaucratic absurdity, and problem industrialization.
 - [17.地狱变：众生皆苦，一念入魔](sources/17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565.md) — 蜜獾吃书 episode on 芥川龙之介, 《地狱变》, 《竹林中》, 《罗生门》, unreliable narration, Rashomon-style truth fracture, art as revenge, and salvation under cruelty.
 - [16.时尚受害者：惊！绿色或为最毒颜色](sources/16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282.md) — 蜜獾吃书 episode on 《时尚受害者》, toxic dyes and cosmetics, mercury hatmaking, arsenic green, flammable dress, fashion labor exposure, body freedom, and hidden environmental costs.
 - [15.闭经记：更年期给我自由！](sources/15-bijingji-gengnianqi-gei-wo-ziyou-557912552.md) — 蜜獾吃书 episode on 伊藤比吕美《闭经记》, menopause, menstrual shame, mother-daughter inheritance, female friendship, embodied aging, and bodily self-possession beyond fertility and youth.
@@ -681,6 +682,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《飞马牌汽车》](entities/FeimaPaiQiche.md) — 郑渊洁 story where a bus trapped by the no-door-before-stop rule becomes a satire of safety language, rule worship, bureaucratic escalation, and managed stagnation.
+- [《马王登基》](entities/MaWangDengji.md) — 郑渊洁 十二生肖-series volume named by the episode as the context for 《飞马牌汽车》.
+- [《童话大王》](entities/TonghuaDawang.md) — Zheng Yuanjie-associated children's magazine and childhood-reading context for Pipilu, Luxixi, Shuke and Beta, Grey Wolf Rock, and 《飞马牌汽车》.
+- [《训兔记》](entities/XunTuJi.md) — Zheng Yuanjie story used by episode 23 to turn obedience training into a literal rabbit-transformation satire.
+- [皮皮鲁 / Pipilu](entities/Pipilu.md) — Zheng Yuanjie child character used by the source as a signal of resistance to obedience-only childhood.
+- [鲁西西 / Luxixi](entities/Luxixi.md) — Zheng Yuanjie child character whose source role connects obedience pressure, girl-centered childhood reading, and self-possession.
+- [舒克贝塔 / Shuke and Beta](entities/ShukeBeta.md) — Zheng Yuanjie character branch used by the episode to show children's stories moving into money, merchants, social debate, and adult social observation.
+- [大灰狼罗克 / Grey Wolf Rock](entities/GreyWolfRock.md) — Zheng Yuanjie character named by 北明 as a favorite and used to connect animal protagonists with realist social satire.
 - [《地狱变》 / Hell Screen](entities/HellScreen.md) — Akutagawa short story used by episode 17 to connect unreliable praise narration, power violence, artist fixation, hell imagery, and art as revenge.
 - [《竹林中》 / In a Grove](entities/InAGrove.md) — Akutagawa short story whose contradictory testimony structure anchors the episode's truth-fracture and Rashomon-effect discussion.
 - [《罗生门》 / Rashomon](entities/RashomonAkutagawa.md) — Akutagawa short story kept distinct from 《竹林中》 while explaining the title layer behind Kurosawa's film.
@@ -4698,6 +4707,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Safety As Control](concepts/SafetyAsControl.md) — Pattern where safety language justifies restriction after the rule no longer protects the people in the concrete situation.
+- [Rule Idolatry](concepts/RuleIdolatry.md) — Pattern where a rule is treated as more real than the people, goals, and circumstances it was meant to serve.
+- [Bureaucratic Absurdity Escalation](concepts/BureaucraticAbsurdityEscalation.md) — Pattern where institutions answer a simple blocked problem by adding procedures, departments, devices, representatives, and reporting layers.
+- [Problem Industrialization](concepts/ProblemIndustrialization.md) — Pattern where an unresolved problem becomes the basis for services, products, fees, careers, media value, and institutional legitimacy.
 - [Rashomon Effect / 罗生门效应](concepts/RashomonEffect.md) — Pattern where multiple accounts of the same event conflict without one stable public truth, added through 《竹林中》 and 黑泽明《罗生门》.
 - [Unreliable Praise Narration / 赞美式不可靠叙述](concepts/UnreliablePraiseNarration.md) — Narrative pattern where repeated praise of power exposes the violence and loyalty system it tries to cover.
 - [Art As Revenge / 艺术作为复仇](concepts/ArtAsRevenge.md) — Reading frame where art preserves traumatic evidence and returns it against the power that caused the trauma.

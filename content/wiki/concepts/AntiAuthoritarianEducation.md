@@ -2,8 +2,8 @@
 title: "Anti-Authoritarian Education"
 type: concept
 tags: [education, agency, children, parenting]
-sources: [140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
-last_updated: 2026-07-24
+sources: [140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943]
+last_updated: 2026-08-05
 ---
 
 # Anti-Authoritarian Education
@@ -13,6 +13,8 @@ Anti-authoritarian education is the episode's claim that children and young adul
 This does not mean rejecting all study, discipline, or adult guidance. The episode's sharper distinction is between guidance that helps a person become more alive and control that produces [[ExcellentSheep|excellent sheep]]: compliant, anxious, high-performing people who keep waiting to be scored.
 
 [[177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]] adds a childhood-reading source for the same idea. [[ZhengYuanjie|郑渊洁]], Luxixi in 《罐头小人》, and other childhood works show children encountering adults, rules, school systems, and official correctness as things that can be questioned. The episode broadens anti-authoritarian education from an explicit school critique into the subtler formation that comes from complex, funny, unruly books.
+
+[[23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943]] adds Zheng's obedience-training satire directly through [[XunTuJi|《训兔记》]]. The episode's rabbit transformation makes compliance look like a social and bodily loss, not simply a classroom virtue, while [[Pipilu]] and [[Luxixi]] show how children can be pressured into a system that calls docility success.
 
 [[181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261]] adds a trauma boundary version. The right to say no is not only a pedagogical ideal; for people organized by [[FawnResponse|fawning]], refusal has to be relearned after authority, family, school, or intimate partners made compliance feel safer than self-trust.
 
@@ -35,6 +37,7 @@ This does not mean rejecting all study, discipline, or adult guidance. The episo
 - Adlerian education adds that contribution feeling may be stronger than scolding or praise because it helps children notice relation and usefulness without making adult approval the center.
 - Principled disobedience adds that adults should teach children both the value and the cost of refusal, leaving room for independent choice rather than only compliance or cynicism.
 - Episode 140 adds that anti-authoritarian education also includes permission to trust discomfort, literary response, bodily fatigue, and ordinary desire before authority has supplied a correct interpretation.
+- Episode 23 adds that obedience can become a training regime: the problem is not discipline itself, but a system that rewards children for becoming easier to manage instead of more capable of judgment.
 
 ## Connections
 - [[Matilda|《马蒂尔达》]] - narrative anchor for child resistance.
@@ -47,3 +50,4 @@ This does not mean rejecting all study, discipline, or adult guidance. The episo
 - [[AlfredAdler]], [[CommunityFeeling]], and [[InferioritySuperiorityDynamic]] - Adlerian extension from episode 98.
 - [[PrincipledDisobedience]], [[TheArtOfInsubordination]], and [[PsychologicalFlexibilityForDissent]] - disobedience extension from episode 116.
 - [[SelfFeelingTrust|相信自己的感受]], [[HardshipCultureAsEducation|吃苦文化作为教育]], and [[FemaleBeautySelfSurveillance|女性美貌自我监控]] - episode 140's felt-response and gendered-school extension.
+- [[ZhengYuanjie|郑渊洁]], [[XunTuJi|《训兔记》]], [[Pipilu]], and [[Luxixi]] - episode 23's obedience-training satire.

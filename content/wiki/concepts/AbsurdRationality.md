@@ -2,8 +2,8 @@
 title: "Absurd Rationality"
 type: concept
 tags: [literature, humor, reasoning, fantasy]
-sources: [99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, 73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061]
-last_updated: 2026-07-18
+sources: [99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, 73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061, 23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943]
+last_updated: 2026-08-05
 ---
 
 # Absurd Rationality
@@ -24,6 +24,8 @@ The point is not that the stories are irrational. Their humor depends on local r
 
 [[99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220]] adds a mystery-specific neighbor through [[SettingBasedMystery|设定系推理]]. [[MukashiMukashiAruTokoroNiShitaiGaArimashita|《很久很久以前，在某个地方有一具尸体》]] allows ogres, magic size change, talking animals, and shapeshifting, but the episode values the way those impossible premises are treated as stable constraints for [[HonkakuMystery|本格推理]].
 
+[[23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943]] adds an institutional-satire version through [[FeimaPaiQiche|《飞马牌汽车》]]. The impossible-feeling premise is socially mundane: a bus is stuck and cannot open its doors because it has not reached a stop. The local reasoning then remains consistent as officials create measurements, agencies, associations, delivery devices, and fees around that premise.
+
 ## Key Claims
 - Absurd stories can be rule-governed even when their base premise is impossible.
 - Procedural detail makes fantasy feel sharper than random nonsense.
@@ -34,6 +36,7 @@ The point is not that the stories are irrational. Their humor depends on local r
 - Lem's machine fables add a cybernetic version: the system can be formally coherent while the goal, command, or social use remains absurd.
 - Smith's weird-fiction stories add a cosmic-supernatural version: old gods and alien societies can behave with practical logic that makes human importance look absurd.
 - Setting-based mystery adds a fair-play version: impossible premises can be accepted only if their local rules still constrain the solution.
+- Zheng Yuanjie's bus story adds an institutional version: absurdity can grow from ordinary rules applied with perfect seriousness after circumstances have changed.
 
 ## Connections
 - [[TallTaleTradition]] - broader story form.
@@ -45,3 +48,4 @@ The point is not that the stories are irrational. Their humor depends on local r
 - [[TheCyberiad|《机器人大师》 / The Cyberiad]], [[CyberneticMachineSatire]], and [[ScienceFictionRealism]] - Lem branch added by episode 45.
 - [[SevenGeases|《七咒赋》]], [[TheDoorToSaturn|《通往土星之门》]], [[HorrorHumorWeirdFiction]], and [[AntiAnthropocentricSatire]] - Smith branch added by episode 73.
 - [[SettingBasedMystery|设定系推理]], [[FolkTaleMysteryRewriting|民间故事推理改写]], and [[HonkakuMystery|本格推理]] - episode 99's mystery-specific rule-world branch.
+- [[FeimaPaiQiche|《飞马牌汽车》]], [[SafetyAsControl]], [[RuleIdolatry]], and [[BureaucraticAbsurdityEscalation]] - episode 23's institutional-satire branch.

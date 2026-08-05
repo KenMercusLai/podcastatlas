@@ -535,6 +535,10 @@
     "title": "22.足球经济学：读者不必是球迷",
     "url": "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"
   },
+  "23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943": {
+    "title": "23.飞马牌汽车：安全是第一位的！",
+    "url": "/wiki/sources/23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943/"
+  },
   "25AndPine": {
     "title": "25 & Pine",
     "url": "/wiki/entities/25andpine/"
@@ -4418,6 +4422,10 @@
   "BureauOfLaborStatistics": {
     "title": "Bureau of Labor Statistics",
     "url": "/wiki/entities/bureauoflaborstatistics/"
+  },
+  "BureaucraticAbsurdityEscalation": {
+    "title": "Bureaucratic Absurdity Escalation",
+    "url": "/wiki/concepts/bureaucraticabsurdityescalation/"
   },
   "BureaucraticRiskAvoidance": {
     "title": "Bureaucratic Risk Avoidance",
@@ -9391,6 +9399,10 @@
     "title": "Fei-Fei Li",
     "url": "/wiki/entities/feifeili/"
   },
+  "FeimaPaiQiche": {
+    "title": "《飞马牌汽车》",
+    "url": "/wiki/entities/feimapaiqiche/"
+  },
   "FelixCollin": {
     "title": "Felix Collin",
     "url": "/wiki/entities/felixcollin/"
@@ -11198,6 +11210,10 @@
   "GregRosalsky": {
     "title": "Greg Rosalsky",
     "url": "/wiki/entities/gregrosalsky/"
+  },
+  "GreyWolfRock": {
+    "title": "大灰狼罗克 / Grey Wolf Rock",
+    "url": "/wiki/entities/greywolfrock/"
   },
   "GriefCompanionSupport": {
     "title": "Grief Companion Support / 丧亲陪伴支持",
@@ -15995,6 +16011,10 @@
     "title": "Luther, Oklahoma",
     "url": "/wiki/entities/lutheroklahoma/"
   },
+  "Luxixi": {
+    "title": "鲁西西 / Luxixi",
+    "url": "/wiki/entities/luxixi/"
+  },
   "LuxsharePrecision": {
     "title": "Luxshare Precision",
     "url": "/wiki/entities/luxshareprecision/"
@@ -16074,6 +16094,10 @@
   "MaShaonainaiLihun": {
     "title": "马少奶奶（《离婚》） / Ma Shaonainai",
     "url": "/wiki/entities/mashaonainailihun/"
+  },
+  "MaWangDengji": {
+    "title": "《马王登基》",
+    "url": "/wiki/entities/mawangdengji/"
   },
   "MaaSInfrastructure": {
     "title": "MaaS Infrastructure",
@@ -19847,6 +19871,10 @@
     "title": "Piotr Zilevsky",
     "url": "/wiki/entities/piotrzilevsky/"
   },
+  "Pipilu": {
+    "title": "皮皮鲁 / Pipilu",
+    "url": "/wiki/entities/pipilu/"
+  },
   "PirateWires": {
     "title": "Pirate Wires",
     "url": "/wiki/entities/piratewires/"
@@ -20502,6 +20530,10 @@
   "ProblemDefinitionInResearch": {
     "title": "Problem Definition In Research",
     "url": "/wiki/concepts/problemdefinitioninresearch/"
+  },
+  "ProblemIndustrialization": {
+    "title": "Problem Industrialization",
+    "url": "/wiki/concepts/problemindustrialization/"
   },
   "ProcurementLedTechnologyTransfer": {
     "title": "Procurement-Led Technology Transfer",
@@ -22155,6 +22187,10 @@
     "title": "Ruhollah Khomeini",
     "url": "/wiki/entities/ruhollahkhomeini/"
   },
+  "RuleIdolatry": {
+    "title": "Rule Idolatry",
+    "url": "/wiki/concepts/ruleidolatry/"
+  },
   "RuleShiftingMathematics": {
     "title": "Rule-Shifting Mathematics",
     "url": "/wiki/concepts/ruleshiftingmathematics/"
@@ -22306,6 +22342,10 @@
   "SadiaPekkanen": {
     "title": "Sadia Pekkanen",
     "url": "/wiki/entities/sadiapekkanen/"
+  },
+  "SafetyAsControl": {
+    "title": "Safety As Control",
+    "url": "/wiki/concepts/safetyascontrol/"
   },
   "SaganEffect": {
     "title": "Sagan Effect",
@@ -23278,6 +23318,10 @@
   "Shuixian": {
     "title": "水仙",
     "url": "/wiki/entities/shuixian/"
+  },
+  "ShukeBeta": {
+    "title": "舒克贝塔 / Shuke and Beta",
+    "url": "/wiki/entities/shukebeta/"
   },
   "ShuliangHe": {
     "title": "叔梁纥",
@@ -25747,6 +25791,10 @@
     "title": "Tongcheng Travel",
     "url": "/wiki/entities/tongchengtravel/"
   },
+  "TonghuaDawang": {
+    "title": "《童话大王》",
+    "url": "/wiki/entities/tonghuadawang/"
+  },
   "TongxinSoftware": {
     "title": "Tongxin Software",
     "url": "/wiki/entities/tongxinsoftware/"
@@ -27890,6 +27938,10 @@
   "XujingQitan": {
     "title": "《虚境奇谭》",
     "url": "/wiki/entities/xujingqitan/"
+  },
+  "XunTuJi": {
+    "title": "《训兔记》",
+    "url": "/wiki/entities/xuntuji/"
   },
   "XunXieshu": {
     "title": "《讯蟹书》",

@@ -2,8 +2,8 @@
 title: "Children's Literature Complexity"
 type: concept
 tags: [childrens-literature, reading, literature, education]
-sources: [10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195, 07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165, 187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166, 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, 182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792, 180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]
-last_updated: 2026-07-25
+sources: [10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195, 07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165, 187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166, 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, 182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792, 180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943]
+last_updated: 2026-08-05
 ---
 
 # Children's Literature Complexity
@@ -13,6 +13,8 @@ Children's literature complexity is the episode's claim that books for children 
 [[10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195]] adds [[OscarWilde|Wilde]] as a case where childhood literary memory can be too narrow. [[TheHappyPrince|《快乐王子》]] and [[TheNightingaleAndTheRose|《夜莺与玫瑰》]] made Wilde feel like a writer of beautiful sadness, while [[WildeStrangeStories|《王尔德奇异故事集》]] shows that the same author also uses satire, black comedy, ghost-story convention, and false-evidence games.
 
 The concept grows out of examples including [[ZhengYuanjie|郑渊洁]], 《儿童文学》 stories with cruel social outcomes, red children's books with sincere narrative craft and dated ideology, girl-centered classics, comics, fairy tales, history picture books, and science adventure. It is adjacent to [[AdultFairyTaleReading]] and [[AdultSatiricalChildrensClassics]], but episode 177 emphasizes the original childhood experience rather than only adult rereading.
+
+[[23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943]] adds a direct Zheng case through [[FeimaPaiQiche|《飞马牌汽车》]]. The source shows how a childhood story can remain readable as funny exaggeration while also becoming an adult account of [[SafetyAsControl]], [[RuleIdolatry]], [[BureaucraticAbsurdityEscalation]], and adaptation to absurd institutions.
 
 [[179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805]] adds [[AliceInWonderland|《爱丽丝梦游仙境》]] as a canonical example. The episode shows that a children's book can be funny, dreamlike, and anti-didactic while also carrying [[NonsenseLogic]], [[WonderlandLanguageGames]], [[RuleShiftingMathematics]], [[SizeChangeIdentity]], and adult rereading pressure.
 
@@ -39,6 +41,7 @@ The concept grows out of examples including [[ZhengYuanjie|郑渊洁]], 《儿�
 - A tiny fairy tale can be complex because its symbols remain unstable across child memory, adult class critique, gender critique, and bodily experience.
 - A childlike figure can be spiritually perceptive while still morally incomplete; children's literature complexity includes the responsibility question as well as the wonder question.
 - Childhood memory of an author can be emotionally accurate but incomplete; adult rereading may need to recover comic, satirical, and formally strange works beside the sad classics.
+- Zheng's 《飞马牌汽车》 adds that children's literature can hold public-institutional satire without abandoning child-readable absurdity.
 
 ## Connections
 - [[OscarWilde|Oscar Wilde / 王尔德]], [[TheHappyPrince|《快乐王子》]], [[TheNightingaleAndTheRose|《夜莺与玫瑰》]], and [[WildeStrangeStories|《王尔德奇异故事集》]] - episode 10's Wilde extension.
@@ -47,6 +50,7 @@ The concept grows out of examples including [[ZhengYuanjie|郑渊洁]], 《儿�
 - [[AdventuresOfPinocchio|《木偶奇遇记》]], [[Pinocchio]], and [[GrowthAsProtectorRole]] - episode 122's painful growth branch.
 - [[ThePrincessAndThePea|《豌豆公主》 / The Princess and the Pea]], [[TruePrincessAmbiguity]], and [[GenderedFairyTalePunishment]] - episode 187's tiny-fairy-tale complexity branch.
 - [[ZhengYuanjie|郑渊洁]] - central author case.
+- [[FeimaPaiQiche|《飞马牌汽车》]], [[XunTuJi|《训兔记》]], [[TonghuaDawang|《童话大王》]], [[Pipilu]], [[Luxixi]], [[ShukeBeta|舒克贝塔]], and [[GreyWolfRock|大灰狼罗克]] - Zheng branch expanded by episode 23.
 - [[ChildhoodReadingEcology]] - environment where complex children's books circulate.
 - [[AntiAuthoritarianEducation]] - children's agency and refusal.
 - [[ReadingAsLifeExperience]] and [[NonInstrumentalLiteraryReading]] - reading value as lived formation.
