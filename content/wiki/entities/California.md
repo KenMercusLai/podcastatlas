@@ -2,11 +2,13 @@
 title: "California"
 type: entity
 tags: [place, state, privacy, legislation, wildfire, climate, construction]
-sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, a-trip-to-the-magic-mushroom-megachurch, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]
+sources: [tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, a-trip-to-the-magic-mushroom-megachurch, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]
 last_updated: 2026-08-05
 ---
 
 # California
+
+[[tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128]] adds California as a central autonomous-vehicle regulatory setting. [[KirstenKorosek]] says [[Waymo]]'s August 2023 California commercial permits were a turning point for robotaxi momentum, and she contrasts California's more demanding state-level rules with lighter-touch hubs such as [[Texas]] and [[Arizona]]. The same source also uses Santa Monica noise complaints and San Francisco public response as examples of [[RobotaxiLocalAcceptance]].
 
 [[tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128]] adds California as the first-state building-code setting for [[EmbodiedCarbonBuildingCode]]. The episode says large non-residential buildings over 50,000 square feet must now comply, using [[MalibuHighSchool]], [[VerticalGroup]], [[BNBuilders]], [[EmilyEnglish]], [[BenStapleton]], and the [[USGreenBuildingCouncilOfCalifornia|U.S. Green Building Council of California]] to show how material review, documentation, and supplier demand connect.
 
@@ -42,3 +44,4 @@ The California case complements [[Montana]]'s role in [[tech-20260302-0302-mp-te
 - [[Montana]] - contrasting state-level privacy implementation from the March 2 Marketplace Tech source.
 - [[GavinNewsom]], [[StateAIProcurementGuardrails]], [[AIGovernanceAndCompliance]], and [[AIContentProvenance]] - AI procurement and watermarking branch added by Marketplace Tech.
 - [[StateAIRegulationPatchwork]], [[TeenChatbotMentalHealthRisk]], [[FederalAIPreemption]], and [[DonaldTrump]] - state AI laws continuing under federal pressure.
+- [[Waymo]], [[KirstenKorosek]], [[AutonomousVehicleRegulatoryPatchwork]], and [[RobotaxiLocalAcceptance]] - autonomous-vehicle regulatory and local-acceptance context added by Marketplace Tech.

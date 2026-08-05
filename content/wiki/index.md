@@ -51,6 +51,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [08.老妓抄：老妓不死，甚至不曾凋零](sources/08-laojichao-laoji-busi-shenzhi-buzeng-diaoling-541092994.md) — 蜜獾吃书 episode on 冈本加乃子's 《老妓抄》, her biography, Buddhist-inflected life force, subtle plot, gendered patronage inversion, and stories including 《鲤鱼》, 《蝙蝠》, 《仲夏夜之梦》, 《老妓抄》, 《五妓》, 《寿司》, and 《东海道》.
 - [07.用荣格理论分析《小王子》 永恒少年及其他](sources/07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165.md) — 蜜獾吃书 episode rereading 《小王子》 through Jungian psychology, eternal-youth psychology, Saint-Exupery biography, the rose/fox/snake symbols, death escape, relational responsibility, and statistics versus concrete life.
 - [06.搜神记： 二十四孝这口锅，干宝不背](sources/06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044.md) — 蜜獾吃书 episode rereading 《搜神记》 as a mixed zhiguai archive, separating 干宝's source collection from later 《二十四孝》 moralization while tracking Li Ji, Jiang Ziwen, omens, spirits, and story motifs.
+- [Robotaxis moved into the fast lane in 2025](sources/tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128.md) — Marketplace Tech episode with Kirsten Korosek of TechCrunch on Waymo's robotaxi lead, 2025 deployment momentum, Zoox, Tesla, Uber, fragmented AV regulation, local acceptance, profitability gaps, and Chinese competitors.
 - [The year in AI wearables](sources/tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128.md) — Marketplace Tech episode with Will Gottsagen on AI wearables as a 2025 trend, Meta smart glasses, gesture controls, live translation, accessibility possibilities, cloud limits, and always-on privacy concerns.
 - [How online age-gating laws went mainstream this year](sources/tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128.md) — Marketplace Tech episode with Drew Harwell on online age verification, adult-content laws, contractor age checks, a U.S. Supreme Court decision involving Texas, privacy risks, patchwork compliance, and platform/device responsibility.
 - [Mushrooms could help curb plastic waste](sources/tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128.md) — Marketplace Tech episode on Alaska mycelium insulation boards as biodegradable polystyrene alternatives for seafood cold-chain packaging, with University of Alaska researchers and Wild Source testing.
@@ -684,6 +685,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Kirsten Korosek](entities/KirstenKorosek.md) — TechCrunch transportation editor explaining robotaxi deployment momentum, consolidation, regulation, public response, and profitability gaps in Marketplace Tech's 2025 year-in-review.
+- [TechCrunch](entities/TechCrunch.md) — Technology publication context for Kirsten Korosek's robotaxi reporting and earlier startup launch-distribution references.
+- [Zoox](entities/Zoox.md) — Amazon-owned autonomous-vehicle company whose non-traditional robotaxi design creates a federal commercial-service permission problem.
+- [Wayve](entities/Wayve.md) — UK autonomous-driving company named as a licensing-oriented company to watch in the robotaxi field.
+- [AV Ride](entities/AVRide.md) — Texas-based autonomous-vehicle company working on sidewalk bots and robotaxis.
+- [WeRide](entities/WeRide.md) — Chinese autonomous-driving company named as part of the 2026 global robotaxi competition watchlist.
+- [Pony.ai](entities/PonyAI.md) — Chinese robotaxi company said to be aiming for a 3,000-vehicle global fleet by the end of 2026.
 - [Zhang Haijun / 张海军](entities/ZhangHaijun.md) — Former Synopsys engineer and What's Next guest explaining Huawei's Tau Law through Cell-to-Cell logic stacking, EDA requirements, and cautious validation boundaries.
 - [《飞马牌汽车》](entities/FeimaPaiQiche.md) — 郑渊洁 story where a bus trapped by the no-door-before-stop rule becomes a satire of safety language, rule worship, bureaucratic escalation, and managed stagnation.
 - [《马王登基》](entities/MaWangDengji.md) — 郑渊洁 十二生肖-series volume named by the episode as the context for 《飞马牌汽车》.
@@ -4713,6 +4721,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Autonomous Vehicle Regulatory Patchwork](concepts/AutonomousVehicleRegulatoryPatchwork.md) — Fragmented state, city, and federal oversight environment shaping robotaxi permits, design exemptions, and local deployment strategy.
+- [Robotaxi Local Acceptance](concepts/RobotaxiLocalAcceptance.md) — City-level trust, nuisance, protest, and operating-friction layer that determines whether robotaxis feel like useful infrastructure or imposed disruption.
 - [Cell-to-Cell Logic Stacking](concepts/CellToCellLogicStacking.md) — Ambitious Tau Law implementation path where logic cells would be vertically planned from design time, requiring new EDA flows and later production proof.
 - [Safety As Control](concepts/SafetyAsControl.md) — Pattern where safety language justifies restriction after the rule no longer protects the people in the concrete situation.
 - [Rule Idolatry](concepts/RuleIdolatry.md) — Pattern where a rule is treated as more real than the people, goals, and circumstances it was meant to serve.

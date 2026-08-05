@@ -5456,3 +5456,11 @@ Added source page for a Marketplace Tech episode with Megan McCarty-Corino inter
 ## [2026-08-05] lint | Wiki health check
 
 Ran lint after health passed. Health scanned 7,682 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while lint scanned 7,682 pages, so graph findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest` and no provider/key env vars are available in this shell. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-05] ingest | Robotaxis moved into the fast lane in 2025
+
+Added source page for a Marketplace Tech episode with Kirsten Korosek of TechCrunch on the 2025 robotaxi deployment wave. Created pages for Kirsten Korosek, TechCrunch, Zoox, Wayve, AV Ride, WeRide, Pony.ai, Autonomous Vehicle Regulatory Patchwork, and Robotaxi Local Acceptance; updated overview, index, Marketplace Tech, Waymo, Tesla, Uber, Amazon, Momenta, California, Texas, Arizona, Robotaxi Economics, Envelope Expansion Deployment, and Path To Profitability. No direct contradiction found; the source reinforces robotaxi deployment momentum while qualifying it with unresolved profitability, fragmented regulation, city acceptance, and 2026 global competition questions.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

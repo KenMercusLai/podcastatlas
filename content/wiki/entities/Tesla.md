@@ -2,8 +2,8 @@
 title: "Tesla"
 type: entity
 tags: [company, ev, batteries, investing, technology, autonomous-driving]
-sources: [e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
-last_updated: 2026-07-17
+sources: [tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
+last_updated: 2026-08-05
 ---
 
 # Tesla
@@ -22,6 +22,8 @@ Tesla is the episode's strongest single-stock example in [[ep57-mei-gu-dong-dang
 
 [[momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]] adds Tesla through [[CaoXudong]]'s discussion of FSD entering China. Cao says he welcomes FSD's China entry because it would push the industry toward safety, quality, and experience competition, but he does not count Tesla as a third-party supplier because a carmaker selling its own vehicles faces different channel constraints from [[Momenta]] or [[Huawei]].
 
+[[tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128]] adds Tesla as part of the 2025 robotaxi deployment wave, saying the company launched a limited CyberCab service in Austin. The episode uses Tesla as one of several expanding robotaxi actors rather than as proof that the category has solved [[RobotaxiEconomics]] or [[PathToProfitability]].
+
 ## Source Position
 - [[Daxiong]] uses Tesla to show that high-profile mega-cap stocks are not automatically safe just because index funds and speculative flows own them.
 - [[LaoMai]] says he had shorted Tesla earlier in the year because delivery and car-company fundamentals looked weak relative to the stock's valuation.
@@ -30,6 +32,7 @@ Tesla is the episode's strongest single-stock example in [[ep57-mei-gu-dong-dang
 - The LateTalk source treats Tesla as a route-setting influence in [[DexterousManipulation]], even when current research progress may look stronger around direct-drive hands such as [[FiveGRobotics]] and Shapare-style designs.
 - The E229 source treats Tesla as a battery-architecture contrast to Chinese power-battery firms, not as the central company case.
 - The Momenta interview treats Tesla FSD as an external benchmark that can raise the advanced-driving bar without changing Cao's view that third-party suppliers will still consolidate.
+- The December 2025 Marketplace Tech source treats Tesla's limited CyberCab service as evidence that robotaxis broadened beyond [[Waymo]], while still leaving profitability and regulation unsettled.
 
 ## Connections
 - [[DonaldTrump]] — political-trade context behind the episode's Tesla example.
@@ -42,3 +45,4 @@ Tesla is the episode's strongest single-stock example in [[ep57-mei-gu-dong-dang
 - [[RealRobotDataStrategy]], [[Sim2Real]], and [[OpenWorldRobotManipulation]] — fleet-data and manipulation contrast added by E244.
 - [[Panasonic]], [[PowerBatteryIndustryChain]], and [[DryElectrodeManufacturing]] — battery-format and manufacturing-route context added by E229.
 - [[Momenta]], [[Huawei]], and [[AutonomousDrivingDataFlywheel]] — advanced-driving supplier and benchmark context added by LateTalk.
+- [[KirstenKorosek]], [[TechCrunch]], [[Waymo]], [[Zoox]], [[RobotaxiEconomics]], and [[AutonomousVehicleRegulatoryPatchwork]] - 2025 robotaxi deployment context added by Marketplace Tech.

@@ -1519,6 +1519,10 @@
     "title": "ATM Operations",
     "url": "/wiki/concepts/atmoperations/"
   },
+  "AVRide": {
+    "title": "AV Ride",
+    "url": "/wiki/entities/avride/"
+  },
   "Aadhaar": {
     "title": "Aadhaar",
     "url": "/wiki/entities/aadhaar/"
@@ -3274,6 +3278,10 @@
   "AutonomousDrivingDataFlywheel": {
     "title": "Autonomous Driving Data Flywheel",
     "url": "/wiki/concepts/autonomousdrivingdataflywheel/"
+  },
+  "AutonomousVehicleRegulatoryPatchwork": {
+    "title": "Autonomous Vehicle Regulatory Patchwork",
+    "url": "/wiki/concepts/autonomousvehicleregulatorypatchwork/"
   },
   "AutonomousVehicleSafetyBenchmark": {
     "title": "Autonomous Vehicle Safety Benchmark",
@@ -14571,6 +14579,10 @@
     "title": "Kirkland Signature",
     "url": "/wiki/entities/kirklandsignature/"
   },
+  "KirstenKorosek": {
+    "title": "Kirsten Korosek",
+    "url": "/wiki/entities/kirstenkorosek/"
+  },
   "Kissmetrics": {
     "title": "Kissmetrics",
     "url": "/wiki/entities/kissmetrics/"
@@ -20191,6 +20203,10 @@
     "title": "Pompey / 庞培",
     "url": "/wiki/entities/pompey/"
   },
+  "PonyAI": {
+    "title": "Pony.ai",
+    "url": "/wiki/entities/ponyai/"
+  },
   "PonyMa": {
     "title": "Pony Ma",
     "url": "/wiki/entities/ponyma/"
@@ -22030,6 +22046,10 @@
   "RobotaxiHybridDeployment": {
     "title": "Robotaxi Hybrid Deployment",
     "url": "/wiki/concepts/robotaxihybriddeployment/"
+  },
+  "RobotaxiLocalAcceptance": {
+    "title": "Robotaxi Local Acceptance",
+    "url": "/wiki/concepts/robotaxilocalacceptance/"
   },
   "RoboticsSimulationEvaluation": {
     "title": "Robotics Simulation Evaluation",
@@ -25127,6 +25147,10 @@
     "title": "Tech Bubble Conditions",
     "url": "/wiki/concepts/techbubbleconditions/"
   },
+  "TechCrunch": {
+    "title": "TechCrunch",
+    "url": "/wiki/entities/techcrunch/"
+  },
   "TechCultureBiohacking": {
     "title": "Tech-Culture Biohacking",
     "url": "/wiki/concepts/techculturebiohacking/"
@@ -27187,6 +27211,10 @@
     "title": "Waymo",
     "url": "/wiki/entities/waymo/"
   },
+  "Wayve": {
+    "title": "Wayve",
+    "url": "/wiki/entities/wayve/"
+  },
   "WeChat": {
     "title": "WeChat",
     "url": "/wiki/entities/wechat/"
@@ -27210,6 +27238,10 @@
   "WePay": {
     "title": "WePay",
     "url": "/wiki/entities/wepay/"
+  },
+  "WeRide": {
+    "title": "WeRide",
+    "url": "/wiki/entities/weride/"
   },
   "WeakTieOpportunity": {
     "title": "Weak-Tie Opportunity",
@@ -28763,6 +28795,10 @@
     "title": "Zone Of Possible Agreement / 协议区间",
     "url": "/wiki/concepts/zoneofpossibleagreement/"
   },
+  "Zoox": {
+    "title": "Zoox",
+    "url": "/wiki/entities/zoox/"
+  },
   "ZouXikouMigration": {
     "title": "Zou Xikou Migration",
     "url": "/wiki/concepts/zouxikoumigration/"
@@ -29890,6 +29926,10 @@
   "tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128": {
     "title": "How online age-gating laws went mainstream this year",
     "url": "/wiki/sources/tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128/"
+  },
+  "tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128": {
+    "title": "Robotaxis moved into the fast lane in 2025",
+    "url": "/wiki/sources/tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128/"
   },
   "tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128": {
     "title": "A tech company that 'happens to build homes'",
