@@ -2,8 +2,8 @@
 title: "Data Center Physical Resilience"
 type: concept
 tags: [infrastructure, cloud, resilience]
-sources: [tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]
-last_updated: 2026-07-12
+sources: [tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]
+last_updated: 2026-08-05
 ---
 
 # Data Center Physical Resilience
@@ -13,6 +13,8 @@ Data center physical resilience is the ability of a data-center facility to keep
 The source emphasizes that resilience is not only about whether servers are destroyed. A facility can become less reliable if operators evacuate, flights stop, parts cannot arrive, power or cooling is damaged, or repeated attacks make repair unsafe.
 
 [[tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128]] adds the generator role-shift lens. [[Caterpillar]] generators that would traditionally be backup systems can become primary power for AI data centers using [[DataCenterOnsitePower]], so resilience depends not only on failover equipment existing, but also on whether engines, fuel, maintenance, and production backlog can support continuous operation.
+
+[[tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128]] adds the battery-storage role-shift lens through [[RedwoodMaterials]]. A reused EV battery system can become primary power for a data center disconnected from the grid, so resilience also depends on battery state of health, charge management, power conversion, fire safety, and replacement planning.
 
 [[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]] adds an investment-demand lens. As tokens, agents, and AI-native revenue grow, data centers are treated less like ordinary back-office infrastructure and more like part of the hard physical base behind [[AIInvestmentMetrics]], [[CAPEXOPEXSubstitution]], and [[HoloAssets]].
 
@@ -27,6 +29,7 @@ The source emphasizes that resilience is not only about whether servers are dest
 - Power delivery and cooling capacity become part of facility resilience when AI clusters are dense enough to stress local infrastructure.
 - Cooling resilience is operational as well as structural: pumps, water treatment, flow control, and maintenance can decide whether the same facility can keep supporting high-density AI workloads.
 - Backup-power equipment can become primary-power equipment when data centers go off-grid or wait on grid interconnection, changing the resilience burden on generators and fuel supply.
+- Battery systems can also become primary-power equipment, adding stored-energy capacity, degradation, controls, and safety engineering to the resilience burden.
 
 ## Connections
 - [[DigitalInfrastructureWarRisk]] — broader conflict-risk frame.
@@ -36,5 +39,6 @@ The source emphasizes that resilience is not only about whether servers are dest
 - [[MaaSInfrastructure]] — model-serving platforms depend on physical facility reliability.
 - [[DataCenterThermalManagement]] — cooling-specific layer added by the 商业就是这样 source.
 - [[DataCenterOnsitePower]] and [[Caterpillar]] — generator-power layer added by the Marketplace Tech source.
+- [[RedwoodMaterials]] and [[SecondLifeEVBatteryStorage]] — reused-battery power layer added by the January 29 Marketplace Tech source.
 - [[Grundfos]] and [[HenanSmartSupercomputingCenter]] — company and project cases for prefabricated cooling.
 - [[HoloAssets]] and [[HumanResourceDeflationComputeInfrastructureInflation]] — hard-asset and labor-to-infrastructure thesis added by E155.

@@ -3,7 +3,7 @@ title: "Nvidia"
 type: entity
 tags: [company, ai, semiconductors, investing]
 sources: [tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
-last_updated: 2026-07-24
+last_updated: 2026-08-05
 ---
 
 # Nvidia
@@ -48,6 +48,8 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 
 [[so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]] adds Nvidia as the named focal point of a possible AI bubble. The [[PlanetMoney]] episode says Nvidia's valuation depends on beliefs about whether AI chips will transform the world, making it hard to separate business strength from bubble risk. [[RobinGreenwood]] treats Nvidia's valuation and volatility as warning signs while noting that other [[StatisticalBubbleIndicators]], especially issuance and acceleration, are weaker.
 
+[[tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128]] adds Nvidia as an investor in [[RedwoodMaterials]]. The [[MarketplaceTech]] episode uses that investment to connect Nvidia's chip-centered AI infrastructure role to the power-storage layer: data centers need energy access and [[SecondLifeEVBatteryStorage]] as well as accelerators.
+
 ## Source Position
 - The episode treats Nvidia as a strong company, not as a fraud or failed business.
 - The risk frame is [[AIEquityValuationRisk]]: if growth or guidance falls short of very high expectations, the valuation multiple can reset sharply.
@@ -69,6 +71,7 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 - EP270 treats Nvidia as the benchmark for [[DomesticAIChipCatchUp]] because the substitution target includes performance, software tools, developer habits, application adaptation, and cost-effective availability.
 - E230 treats Nvidia as an AI-infrastructure company whose strength is no longer reducible to CUDA or one GPU generation, while its risk is that orders must pass through packaging, HBM, interconnect, power, cloud operations, and customer deployment before becoming usable token capacity.
 - The Planet Money AI-bubble source treats Nvidia as the clearest example of valuation uncertainty around real AI infrastructure demand, not as evidence that the company itself is unsound.
+- The January 29 Marketplace Tech source treats Nvidia's Redwood investment as a power-infrastructure signal, not as evidence that Nvidia itself is becoming a battery company.
 
 ## Connections
 - [[AIEquityValuationRisk]] — main investing frame attached to Nvidia in this source.
@@ -94,3 +97,4 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 - [[DomesticAIChipCatchUp]], [[ComputeFreedom]], [[ElectronicDesignAutomation]], and [[SemiconductorSupplyChain]] — China-centered chip-chain explainer branch added by EP270.
 - [[NvidiaBlackwellPlatform]], [[NvidiaVeraRubinPlatform]], [[NeMoCloud]], [[InferenceAsCashFlow]], [[TokenPerWatt]], [[AIInfrastructureFullStackMoat]], [[GPUCloudOperations]], and [[DataCenterPowerBottleneck]] - platform, software, cloud, and facility constraints added by E230.
 - [[RobinGreenwood]], [[StatisticalBubbleIndicators]], [[AIEquityValuationRisk]], and [[SP500]] - Planet Money bubble-detection and market-concentration context.
+- [[RedwoodMaterials]], [[SecondLifeEVBatteryStorage]], and [[AIEnergyBottleneck]] - power-storage infrastructure branch added by Marketplace Tech.

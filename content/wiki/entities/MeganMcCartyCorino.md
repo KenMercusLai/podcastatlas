@@ -30,6 +30,8 @@ last_updated: 2026-08-05
 
 [[tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]] adds McCarty-Carino as host of a short historical infrastructure episode with [[PaulVixie]]. Her framing uses Menlo Park telecom manholes to connect the dot-com fiber boom, [[DarkFiber]], [[ProductiveBubbleSpillovers]], and the current AI data-center debate.
 
+[[tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128]] adds McCarty-Corino as host of a [[MarketplaceTech]] lab-and-infrastructure episode with [[RedwoodMaterials]] CTO [[ColinCampbell]]. Her framing turns AI data-center power demand into a battery reuse question, connecting a reused EV battery project in [[Nevada]] to [[SecondLifeEVBatteryStorage]] and [[DataCenterPowerBottleneck]].
+
 [[tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128]] adds McCarty-Carino as host of a [[MarketplaceTech]] interview with [[AmirRashidi]] of [[MianGroup]] about [[Iran]]'s wartime internet blackout. Her framing connects the [[NationalInformationNetwork|National Information Network]] to [[DomesticNetworkSovereignty]], [[DomesticServiceCensorship]], [[MahsaAlert]], and [[InternetBlackoutPublicSafetyRisk]].
 
 [[tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]] adds McCarty-Corino, styled in the source as Meg McCarty-Corino, as the [[MarketplaceTech]] host interviewing [[GaiaBernstein]] about state attorneys general suing [[Meta]]. Her questions frame the episode around whether social-media litigation is reaching a [[BigTobaccoPlatformAnalogy|Big Tobacco moment]] and whether similar attention-economy concerns are emerging for AI companions.
@@ -74,6 +76,7 @@ Her role in the wiki is mainly as interview context. The episode uses her questi
 - [[PareshDave]], [[Wired]], [[SpaceX]], [[OpenAI]], [[Anthropic]], [[MicronTechnology]], [[YouTube]], [[AIIPOValuation]], [[EnforceableCommunityBenefits]], and [[AISlopDetection]] - weekly public-legitimacy branch added by the 2026-01-23 Bytes episode.
 - [[AmazonWebServices|AWS]], [[SatishVangala]], [[AIClusterNetworking]], [[FiberConnectorDeployment]], and [[OpticalTransponders]] - AWS networking lab branch added by the 2026-01-26 episode.
 - [[PaulVixie]], [[DarkFiber]], [[ProductiveBubbleSpillovers]], and [[TechnologyInstallationCycle]] - dot-com fiber and AI infrastructure analogy added by the 2026-01-28 episode.
+- [[RedwoodMaterials]], [[ColinCampbell]], [[SecondLifeEVBatteryStorage]], and [[DataCenterPowerBottleneck]] - reused EV battery storage branch added by the 2026-01-29 episode.
 - [[AmirRashidi]], [[MianGroup]], [[NationalInformationNetwork]], [[DomesticNetworkSovereignty]], [[DomesticServiceCensorship]], and [[InternetBlackoutPublicSafetyRisk]] - Iran internet blackout topics added by the 2026-04-02 episode.
 - [[GaiaBernstein]], [[Meta]], [[StateAGPlatformLitigation]], [[BigTobaccoPlatformAnalogy]], and [[AICompanionAttentionRisk]] - July 16, 2026 episode on social-media litigation and AI companion risks.
 - [[PareshDave]], [[Apple]], [[OpenAI]], [[HyperscaleDataCenterMoratorium]], and [[RobotaxiHybridDeployment]] - July 17, 2026 Bytes episode on hardware litigation, data centers, and robotaxis.

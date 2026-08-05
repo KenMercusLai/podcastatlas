@@ -5899,6 +5899,10 @@
     "title": "Coleman Strumpf",
     "url": "/wiki/entities/colemanstrumpf/"
   },
+  "ColinCampbell": {
+    "title": "Colin Campbell",
+    "url": "/wiki/entities/colincampbell/"
+  },
   "ColinKaepernick": {
     "title": "Colin Kaepernick",
     "url": "/wiki/entities/colinkaepernick/"
@@ -21119,6 +21123,10 @@
     "title": "Redpoint",
     "url": "/wiki/entities/redpoint/"
   },
+  "RedwoodMaterials": {
+    "title": "Redwood Materials",
+    "url": "/wiki/entities/redwoodmaterials/"
+  },
   "ReferenceCheckHiring": {
     "title": "Reference-Check Hiring",
     "url": "/wiki/concepts/referencecheckhiring/"
@@ -22398,6 +22406,10 @@
   "SeattleSounders": {
     "title": "Seattle Sounders",
     "url": "/wiki/entities/seattlesounders/"
+  },
+  "SecondLifeEVBatteryStorage": {
+    "title": "Second-Life EV Battery Storage",
+    "url": "/wiki/concepts/secondlifeevbatterystorage/"
   },
   "SecondRenaissance": {
     "title": "Second Renaissance",
@@ -29522,6 +29534,10 @@
   "tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128": {
     "title": "Infrastructure lessons from the dot-com bubble",
     "url": "/wiki/sources/tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128/"
+  },
+  "tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128": {
+    "title": "A recycling startup joins the AI boom",
+    "url": "/wiki/sources/tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128/"
   },
   "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128": {
     "title": "Making the most of AI, without the hype",

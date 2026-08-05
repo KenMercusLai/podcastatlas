@@ -2,7 +2,7 @@
 title: "How We Survive"
 type: entity
 tags: [podcast, climate, marketplace]
-sources: [tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+sources: [tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
 last_updated: 2026-08-05
 ---
 
@@ -24,6 +24,8 @@ In this source, How We Survive functions as a bridge from a concise technology s
 
 [[tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128]] adds another closing promo context after the main [[MarketplaceTech]] segment on [[AmazonWebServices|AWS]] and [[AIClusterNetworking]]. The promo mentions geoengineering, stratospheric balloons, sunshades, and a possible space economy, while the episode's wiki contribution remains the AWS networking lab tour.
 
+[[tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128]] adds another closing promo context after the main [[MarketplaceTech]] segment on [[RedwoodMaterials]] and [[SecondLifeEVBatteryStorage]]. The promo again points to [[AmyScott]]'s climate-solutions reporting, while the main episode remains focused on AI data-center power.
+
 ## Connections
 - [[MarketplaceTech]] and [[AmyScott]] - Marketplace reporting context.
 - [[MyceliumInsulation]] and [[BiodegradableFoamPackaging]] - December 24 climate-material context attached to the promo.
@@ -34,3 +36,4 @@ In this source, How We Survive functions as a bridge from a concise technology s
 - [[ClimateStartupCommercializationGap]] and [[CarbonRemovalMoralHazard]] - deeper questions the source points toward.
 - [[ElectricVehiclePriceParity]] and [[EconomicClimateTechAdoption]] - adjacent climate-economics branch in the EV episode.
 - [[AIClusterNetworking]] and [[AmazonWebServices|AWS]] - main episode context adjacent to the January 26 promo.
+- [[RedwoodMaterials]] and [[SecondLifeEVBatteryStorage]] - main episode context adjacent to the January 29 promo.

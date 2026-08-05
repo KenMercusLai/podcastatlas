@@ -2,7 +2,7 @@
 title: "Amy Scott"
 type: entity
 tags: [journalist, podcast, climate]
-sources: [tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+sources: [tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
 last_updated: 2026-08-05
 ---
 
@@ -24,6 +24,8 @@ Scott's reporting also links the technical demonstration to public funding and l
 
 [[tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128]] adds Scott through another [[HowWeSurvive]] promo. The main episode covers [[AmazonWebServices|AWS]] networking hardware and [[AIClusterNetworking]], while the promo points to her climate-solutions reporting on geoengineering, sunshades, and space-economy scenarios.
 
+[[tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128]] adds Scott through another [[HowWeSurvive]] promo. The main episode covers [[RedwoodMaterials]] and [[SecondLifeEVBatteryStorage]], while the promo again points listeners toward her broader climate-solutions reporting.
+
 ## Connections
 - [[MarketplaceTech]] and [[HowWeSurvive]] - Marketplace reporting context around climate technology.
 - [[MyceliumInsulation]] and [[BiodegradableFoamPackaging]] - December 24 climate-material segment attached to the promo.
@@ -34,3 +36,4 @@ Scott's reporting also links the technical demonstration to public funding and l
 - [[CarbonRemoval]], [[DirectAirCapture]], [[CarbonRemovalCostCurve]], and [[CarbonRemovalPoliticalDurability]] - concepts her reporting connects.
 - [[ElectricVehiclePriceParity]] and [[EconomicClimateTechAdoption]] - adjacent climate-economics context from the EV episode promo.
 - [[AIClusterNetworking]] and [[AmazonWebServices|AWS]] - main January 26 episode context attached to the promo.
+- [[RedwoodMaterials]] and [[SecondLifeEVBatteryStorage]] - main January 29 episode context attached to the promo.

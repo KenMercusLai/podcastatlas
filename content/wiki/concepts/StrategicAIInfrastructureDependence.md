@@ -2,7 +2,7 @@
 title: "Strategic AI Infrastructure Dependence"
 type: concept
 tags: [ai, infrastructure, chips, cloud, strategy]
-sources: [tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128, tech-20260127-0127-mp-tech-pod-128-tech-20260127-0127-mp-tech-pod-128, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+sources: [tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128, tech-20260127-0127-mp-tech-pod-128-tech-20260127-0127-mp-tech-pod-128, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
 last_updated: 2026-08-05
 ---
 
@@ -26,6 +26,8 @@ The same source says OpenAI still needs Nvidia's chips and ecosystem, while expl
 
 [[tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]] adds the post-bust capacity version through [[PaulVixie]] and [[DarkFiber]]. The episode's dot-com analogy suggests that strategic AI infrastructure may look overbuilt before demand catches up, but also that network capacity can become durable leverage when later applications need it.
 
+[[tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128]] adds the power-storage version through [[RedwoodMaterials]] and [[Nvidia]]. The source shows that chip demand can create strategic dependence beyond GPUs and cloud contracts: AI data-center buildout also needs fast energy storage partners, reused battery supply, and deployable power systems.
+
 ## Key Claims
 - Frontier AI companies need reliable compute, chips, cloud capacity, and capital before product demand can become durable revenue.
 - Chip suppliers benefit from large model-lab demand, but customer concentration can become strategic and reputational risk.
@@ -38,6 +40,7 @@ The same source says OpenAI still needs Nvidia's chips and ecosystem, while expl
 - Cluster networking is part of the dependency stack: processors need physical fiber, connectors, transponders, and reliable deployment workflows before they can become useful AI capacity.
 - Network interconnection is part of the dependency stack: AI capacity still needs physical exchange points, fiber, colocation facilities, and neutral places where many networks can route traffic.
 - Post-bust network capacity can become strategic infrastructure when later AI, cloud, or media workloads have enough demand to use it.
+- Power storage is part of the dependency stack: AI data centers may need battery systems, charge sources, power electronics, and site-level operations before chips become usable service capacity.
 
 ## Connections
 - [[Nvidia]], [[OpenAI]], and [[JensenHuang]] - central case in the source.
@@ -49,3 +52,4 @@ The same source says OpenAI still needs Nvidia's chips and ecosystem, while expl
 - [[AmazonWebServices|AWS]], [[SatishVangala]], [[AIClusterNetworking]], [[FiberConnectorDeployment]], and [[OpticalTransponders]] - cluster-networking hardware branch added by Marketplace Tech.
 - [[Equinix]], [[PaloAltoInternetExchange]], [[ColocationDataCenter]], and [[NeutralInternetExchange]] - interconnection and colocation branch added by Marketplace Tech.
 - [[PaulVixie]], [[DarkFiber]], and [[ProductiveBubbleSpillovers]] - post-bust capacity branch added by the next Marketplace Tech episode.
+- [[RedwoodMaterials]], [[SecondLifeEVBatteryStorage]], [[Nvidia]], and [[DataCenterPowerBottleneck]] - power-storage dependence branch added by Marketplace Tech.

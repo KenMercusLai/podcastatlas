@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A recycling startup joins the AI boom](sources/tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128.md) — Marketplace Tech episode on Redwood Materials using reused EV batteries for data-center power, with a 60 MWh / 12 MW Nevada project, Nvidia investment, and second-life battery storage as a response to AI power bottlenecks.
 - [Paul Graham on Y Combinator's Growth, Myths, and the AI Era](sources/tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio.md) — The Social Radars episode with Paul Graham on YC's organic growth, alumni word of mouth, Hacker News stress, the Peter Thiel controversy, Airbnb advice, Demo Day pitch compression, founder triage, Sam Altman's OpenAI transition, and AI-era startup advice.
 - [Justin Kan on the First YC Batch, Justin.tv, Twitch, and Intrinsic Motivation](sources/tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio.md) — The Social Radars episode with Justin Kan on Kiko, YC's first batch, Justin.tv lifecasting, Twitch's gaming focus, Exec, Atrium, creator content, external approval, and intrinsic motivation.
 - [04.切尔诺贝利的午夜： “我要进监狱了。”](sources/04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843.md) — 蜜獾吃书 episode on 《切尔诺贝利的午夜》, Chernobyl, Pripyat, reactor design, safety propaganda, cleanup sacrifice, and the dispute over operator error, design flaws, and Soviet institutional responsibility.
@@ -669,6 +670,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Redwood Materials](entities/RedwoodMaterials.md) — EV battery recycling startup expanding reused battery packs into data-center energy storage for AI infrastructure.
+- [Colin Campbell](entities/ColinCampbell.md) — Redwood Materials CTO explaining second-life EV battery storage and the Nevada data-center project in Marketplace Tech.
 - [Neil Mohan](entities/NeilMohan.md) — YouTube CEO whose 2026 goals anchor Marketplace Tech's discussion of AI slop enforcement.
 - [Kagi](entities/Kagi.md) — Search engine cited by Marketplace Tech for user-reported AI slop examples used to build detection data.
 - [Clay, New York](entities/ClayNewYork.md) — Town near Syracuse used by Marketplace Tech as the planned site of Micron's mega fab and local community-benefit demands.
@@ -4642,6 +4645,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Second-Life EV Battery Storage](concepts/SecondLifeEVBatteryStorage.md) — Use of retired EV battery packs as stationary storage for data centers and other power-constrained infrastructure.
 - [AI Slop Detection](concepts/AISlopDetection.md) — Platform-quality workflow for identifying repetitive, low-effort, misleading, or engagement-farmed AI-generated content.
 - [Enforceable Community Benefits](concepts/EnforceableCommunityBenefits.md) — Legally binding local hiring, labor, environmental, water, and emissions commitments demanded around AI-era infrastructure or manufacturing projects.
 - [AI Farm Decision Support](concepts/AIFarmDecisionSupport.md) — Farm AI pattern where models retrieve research, interpret field evidence, and test crop scenarios while farmers and agronomists retain final judgment.
