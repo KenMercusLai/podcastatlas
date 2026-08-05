@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [37.智商测试：请问你是智力婆罗门吗？](sources/37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679.md) — 蜜獾吃书 episode on intelligence testing history, Galton and eugenics, Binet-Simon school testing, Goddard and the Kallikak case, Carrie Buck, Nazi eugenics, educational tracking, and meritocratic arrogance.
 - [36.黑暗的左手：流放与爱的未来往事](sources/36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522.md) — 蜜獾吃书 episode on Ursula K. Le Guin's The Left Hand of Darkness, Gethen's ambisexual society, Genly Ai and Estraven, Ekumen diplomacy, shifgrethor, nationalism as hatred, correct questioning, and intimacy beyond gender scripts.
 - [35.天真的人类学家：做田野会上瘾的！](sources/35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624.md) — 蜜獾吃书 episode on Nigel Barley's The Innocent Anthropologist, Dowayo fieldwork in Cameroon, fieldwork romance deflation, participant-observer entanglement, missionary support, development unintended consequences, and visual/linguistic translation friction.
 - [34.猫咪秘史：呵，愚蠢又可爱的人类](sources/34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607.md) — 蜜獾吃书 episode on cat-centered civilization history, cat domestication, Egyptian cat worship, cross-cultural cat mythology, European demonization, ship cats, war cats, and Felicette in the space age.
@@ -713,6 +714,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《智商测试》](entities/ZhishangCeshiBook.md) — Book used by episode 37 to trace intelligence testing from measurement culture into eugenics, education, immigration, law, and meritocratic status.
+- [Francis Galton / 弗朗西斯·高尔顿](entities/FrancisGalton.md) — Statistician and eugenics origin figure whose measurement talent and hereditarian prejudice anchor the episode's warning.
+- [Alfred Binet / 阿尔弗雷德·宾内](entities/AlfredBinet.md) — Psychologist whose child-testing work begins as educational support before later institutional sorting expands the test's use.
+- [Theodore Simon / 西奥多·西蒙](entities/TheodoreSimon.md) — Binet collaborator in the early child intelligence-testing branch.
+- [Henry H. Goddard / 亨利·戈达德](entities/HenryGoddard.md) — American psychologist tied to institutional testing, immigration screening, and the Kallikak heredity case.
+- [Kallikak Family / 卡里卡克家族](entities/KallikakFamily.md) — Heredity case used by the episode to show poverty, reputation, sexuality, and moral panic converted into pseudo-scientific evidence.
+- [Carrie Buck / 卡丽·巴克](entities/CarrieBuck.md) — Forced-sterilization case used to show eugenics, gendered blame, institutions, and courts turning diagnostic labels into bodily coercion.
 - [Ursula K. Le Guin / 厄休拉·勒古恩](entities/UrsulaKLeGuin.md) — Science-fiction and fantasy writer read through 《黑暗的左手》 as an anthropological, mythic, gender-estranging, and politically open-ended storyteller.
 - [《黑暗的左手》 / The Left Hand of Darkness](entities/TheLeftHandOfDarkness.md) — Le Guin novel read by episode 36 through Gethen, Genly Ai, Estraven, ambisexual worldbuilding, nationalism, exile, and intimate trust.
 - [海恩宇宙 / Hainish Cycle](entities/HainishCycle.md) — Le Guin science-fiction setting whose report-like contact stories frame the Ekumen and Gethen branch.
@@ -4928,6 +4936,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Intelligence Testing / 智力测试](concepts/IntelligenceTesting.md) — Measurement practice traced from Galton and Binet-Simon into schooling, immigration, military selection, courts, and status hierarchy.
+- [Eugenic Governance / 优生学治理](concepts/EugenicGovernance.md) — Pattern where heredity claims, intelligence labels, and state power manage reproduction, migration, schooling, institutionalization, or death.
+- [Social Darwinism / 社会达尔文主义](concepts/SocialDarwinism.md) — Ideological move from evolutionary language to social hierarchy, separated from Darwin's own caution in the episode.
+- [Psychometric Social Sorting / 心理测量式社会分层](concepts/PsychometricSocialSorting.md) — Use of psychological tests or measured traits to allocate people into ranks, resources, stigma, rights, or institutional destinies.
+- [Cultural Bias In Testing / 测试中的文化偏差](concepts/CulturalBiasInTesting.md) — Risk that supposedly neutral tests measure language, schooling, exhaustion, cultural familiarity, or class background.
+- [Educational Tracking By Testing / 测试驱动的教育分流](concepts/EducationalTrackingByTesting.md) — Placement of children into different schools, curricula, resources, or life expectations by test result.
+- [Forced Sterilization By Eugenics / 优生学强制绝育](concepts/ForcedSterilizationByEugenics.md) — State-violence pattern where people labeled unfit lose reproductive autonomy in the name of heredity or public welfare.
+- [Meritocratic Arrogance / 绩优主义傲慢](concepts/MeritocraticArrogance.md) — Status posture where score, degree, vocabulary, or elite credential becomes contempt rather than responsibility.
 - [Ambisexual Worldbuilding / 双性世界建构](concepts/AmbisexualWorldbuilding.md) — Le Guin/Gethen thought experiment where absence of fixed male/female sorting makes hidden assumptions about gender, protection, weakness, desire, and power visible.
 - [Anthropological Science Fiction Worldbuilding / 人类学式科幻世界建构](concepts/AnthropologicalScienceFictionWorldbuilding.md) — Method where speculative worlds become credible through myths, field-note texture, local categories, politics, religion, kinship, and outsider misunderstanding.
 - [Shifgrethor Political Face / 西弗格雷瑟式政治面子](concepts/ShifgrethorPoliticalFace.md) — Gethenian honor/face grammar linking reputation, pride, authority, indirect speech, court politics, and the risk that concession becomes betrayal.

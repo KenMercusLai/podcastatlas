@@ -2,8 +2,8 @@
 title: "Achievement Pressure Mental Health"
 type: concept
 tags: [education, mental-health, youth, parenting]
-sources: [145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, 140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
-last_updated: 2026-07-24
+sources: [37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, 140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
+last_updated: 2026-08-06
 ---
 
 # Achievement Pressure Mental Health
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 Achievement pressure mental health is the episode's frame for the psychological cost of turning school, family, and status competition into a narrow success-or-shame system. In [[160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]], the hosts move from individual stories of high-performing students in crisis to a broader account of anxiety, depression, loneliness, self-harm, and suicidal ideation among young people.
 
 The source focuses on "good students" because their distress is often hidden by credentials and family status. The episode's "Stanford Duck Syndrome" image captures the contradiction: a student can appear calm and elite on the surface while working frantically and suffering underneath.
+
+[[37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679]] adds the measured-ability layer. The source shows how [[IntelligenceTesting|intelligence testing]], elite school access, and [[EducationalTrackingByTesting|testing-driven tracking]] can turn a child's current score into a family anxiety object and a social identity, strengthening the honor/shame loop that later becomes hidden distress.
 
 [[181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261]] adds a trauma-response mechanism to the same branch. The fawning episode argues that being excellent, mature, considerate, or always correct can become a socially rewarded version of [[FawnResponse|fawning]] when the person learned to survive through approval and external scoring.
 
@@ -43,6 +45,7 @@ The source focuses on "good students" because their distress is often hidden by 
 - Episode 129 adds that perfectionist standards can turn achievement pressure into non-action, because beginning feels unsafe unless the result can already satisfy the imagined judge.
 - Episode 140 adds that achievement pressure can become bodily and gendered when students learn that illness, exhaustion, beauty, rest, or personal feeling are secondary to the role of being a good student.
 - Episode 143 adds that achievement pressure is also a memory problem: children may retain fear, reward, and bodily stress as non-declarative patterns even when the explicit lesson is forgotten.
+- Episode 37 adds that measured intelligence can become a prestige and anxiety machine when families and schools read test performance as destiny rather than bounded information.
 
 ## Connections
 - [[ExcellentSheep|《优秀的绵羊》 / Excellent Sheep]] and [[WilliamDeresiewicz]] - book and author grounding the elite-student diagnosis.
@@ -59,3 +62,4 @@ The source focuses on "good students" because their distress is often hidden by 
 - [[PerfectionismAsAvoidance]], [[ImperfectActionPractice]], [[HighGeneralLowSpecificExpectations]], and [[ImpostorSyndrome]] - episode 129's achievement-pressure and anti-perfectionism extension.
 - [[SmallTownExamTakerDiscipline|小镇做题家规训]], [[HardshipCultureAsEducation|吃苦文化作为教育]], and [[EffortNarrativeInterrogation|努力叙事追问]] - episode 140's embodied and life-design extension.
 - [[ForgettingAsCognitiveFunction]], [[PainfulMemoryRehearsalRisk]], and [[FocusedDiffuseThinkingBalance]] - episode 143's memory, painful-rehearsal, and balanced-brain-use extension.
+- [[IntelligenceTesting]], [[EducationalTrackingByTesting]], and [[MeritocraticArrogance]] - episode 37's score, placement, and status extension.

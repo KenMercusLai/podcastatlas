@@ -2,8 +2,8 @@
 title: "H. G. Wells / H. G. 威尔斯"
 type: entity
 tags: [writer, science-fiction, literature, politics, biography]
-sources: [135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670]
-last_updated: 2026-07-24
+sources: [37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670]
+last_updated: 2026-08-06
 ---
 
 # H. G. Wells / H. G. 威尔斯
@@ -12,11 +12,14 @@ H. G. Wells / H. G. 威尔斯 enters the wiki through [[135-xianliao-weida-zuoji
 
 The Wells section extends [[ScienceFictionRealism]] by tying speculative imagination to social forecast. The episode credits Wells with striking predictions around time travel, nuclear war, atomic weapons, and biological control, but it also warns that predictive brilliance does not purify the political or ethical commitments around those ideas.
 
+[[37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679]] adds a narrower eugenics-history reminder. The intelligence-testing episode names Wells among prominent figures who supported eugenic ideas, strengthening the existing page's point that a writer can combine social imagination, reformist language, and morally dangerous confidence in biological improvement.
+
 Wells is also a core case for [[FreeLovePracticeGap]]. The source links his sexual-revolution predictions and many affairs to relationships with [[RebeccaWest|Rebecca West / 瑞贝卡·韦斯特]], [[MarthaGellhorn|Martha Gellhorn / 玛莎·盖尔霍恩]], [[AmberReeves|Amber Reeves / 安伯·里夫斯]], and [[MuraBudberg|Moura Budberg / 穆拉·巴德伯格]], using those episodes to ask whether declared sexual freedom can hide gendered service expectations, reputation management, and unequal responsibility.
 
 ## Connections
 - [[TimeMachine]], [[WarOfTheWorlds]], and [[InvisibleManHGWells]] - major works named by the source.
 - [[ScienceFictionRealism]] - speculative imagination as social and political reality-testing.
+- [[EugenicGovernance]] and [[SocialDarwinism]] - episode 37's policy-and-ideology branch.
 - [[FreeLovePracticeGap]] - relationship-practice contradiction added by the Wells, Sartre, and Rand sections.
 - [[RebeccaWest]], [[MarthaGellhorn]], [[AmberReeves]], and [[MuraBudberg]] - relationship and scandal branch in the episode.
 - [[AuthorMythDeflation]], [[LiteraryGossipAsContext]], and [[ArtisticAchievementMoralAccountability]] - judgment frames for holding achievement and harm together.

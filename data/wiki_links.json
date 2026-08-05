@@ -619,6 +619,10 @@
     "title": "361 Degrees",
     "url": "/wiki/entities/361degrees/"
   },
+  "37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679": {
+    "title": "37.智商测试：请问你是智力婆罗门吗？",
+    "url": "/wiki/sources/37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679/"
+  },
   "39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065": {
     "title": "39.哲学家与狼：在朗格多克永恒的夏天",
     "url": "/wiki/sources/39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065/"
@@ -2350,6 +2354,10 @@
   "AlfredAdler": {
     "title": "Alfred Adler / 阿尔弗雷德·阿德勒",
     "url": "/wiki/entities/alfredadler/"
+  },
+  "AlfredBinet": {
+    "title": "Alfred Binet / 阿尔弗雷德·宾内",
+    "url": "/wiki/entities/alfredbinet/"
   },
   "AlfredDouglas": {
     "title": "Lord Alfred Douglas / 波西",
@@ -5147,6 +5155,10 @@
     "title": "Carousel",
     "url": "/wiki/entities/carousel/"
   },
+  "CarrieBuck": {
+    "title": "Carrie Buck / 卡丽·巴克",
+    "url": "/wiki/entities/carriebuck/"
+  },
   "CarrieGeorge": {
     "title": "Carrie George",
     "url": "/wiki/entities/carriegeorge/"
@@ -7095,6 +7107,10 @@
     "title": "Culinary Identity Transformation",
     "url": "/wiki/concepts/culinaryidentitytransformation/"
   },
+  "CulturalBiasInTesting": {
+    "title": "Cultural Bias In Testing / 测试中的文化偏差",
+    "url": "/wiki/concepts/culturalbiasintesting/"
+  },
   "CulturalRelativismVictimProtectionBoundary": {
     "title": "Cultural Relativism Victim Protection Boundary",
     "url": "/wiki/concepts/culturalrelativismvictimprotectionboundary/"
@@ -8831,6 +8847,10 @@
     "title": "Educational Distribution Strategy",
     "url": "/wiki/concepts/educationaldistributionstrategy/"
   },
+  "EducationalTrackingByTesting": {
+    "title": "Educational Tracking By Testing / 测试驱动的教育分流",
+    "url": "/wiki/concepts/educationaltrackingbytesting/"
+  },
   "Edward": {
     "title": "Edward",
     "url": "/wiki/entities/edward/"
@@ -9362,6 +9382,10 @@
   "EugeneFama": {
     "title": "Eugene Fama",
     "url": "/wiki/entities/eugenefama/"
+  },
+  "EugenicGovernance": {
+    "title": "Eugenic Governance / 优生学治理",
+    "url": "/wiki/concepts/eugenicgovernance/"
   },
   "EurekaTherapeutics": {
     "title": "Eureka Therapeutics",
@@ -10379,6 +10403,10 @@
     "title": "Foraging Ethics",
     "url": "/wiki/concepts/foragingethics/"
   },
+  "ForcedSterilizationByEugenics": {
+    "title": "Forced Sterilization By Eugenics / 优生学强制绝育",
+    "url": "/wiki/concepts/forcedsterilizationbyeugenics/"
+  },
   "FordMotorCompany": {
     "title": "Ford Motor Company",
     "url": "/wiki/entities/fordmotorcompany/"
@@ -10682,6 +10710,10 @@
   "FrancisFukuyama": {
     "title": "Francis Fukuyama / 福山",
     "url": "/wiki/entities/francisfukuyama/"
+  },
+  "FrancisGalton": {
+    "title": "Francis Galton / 弗朗西斯·高尔顿",
+    "url": "/wiki/entities/francisgalton/"
   },
   "FrancisScottKeyBridge": {
     "title": "Francis Scott Key Bridge",
@@ -12443,6 +12475,10 @@
     "title": "Henry Ford II",
     "url": "/wiki/entities/henryfordii/"
   },
+  "HenryGoddard": {
+    "title": "Henry H. Goddard / 亨利·戈达德",
+    "url": "/wiki/entities/henrygoddard/"
+  },
   "HenryHarteveldt": {
     "title": "Henry Harteveldt",
     "url": "/wiki/entities/henryharteveldt/"
@@ -13602,6 +13638,10 @@
   "IntelligenceDevaluation": {
     "title": "Intelligence Devaluation",
     "url": "/wiki/concepts/intelligencedevaluation/"
+  },
+  "IntelligenceTesting": {
+    "title": "Intelligence Testing / 智力测试",
+    "url": "/wiki/concepts/intelligencetesting/"
   },
   "IntentContext": {
     "title": "Intent Context",
@@ -14970,6 +15010,10 @@
   "KakutaMitsuyo": {
     "title": "角田光代 / Mitsuyo Kakuta",
     "url": "/wiki/entities/kakutamitsuyo/"
+  },
+  "KallikakFamily": {
+    "title": "Kallikak Family / 卡里卡克家族",
+    "url": "/wiki/entities/kallikakfamily/"
   },
   "Kalshi": {
     "title": "Kalshi",
@@ -17806,6 +17850,10 @@
   "MeritExcellenceIntelligence": {
     "title": "Merit, Excellence, and Intelligence",
     "url": "/wiki/concepts/meritexcellenceintelligence/"
+  },
+  "MeritocraticArrogance": {
+    "title": "Meritocratic Arrogance / 绩优主义傲慢",
+    "url": "/wiki/concepts/meritocraticarrogance/"
   },
   "MerriamWebster": {
     "title": "Merriam-Webster",
@@ -21667,6 +21715,10 @@
     "title": "Psychological Realism / 心理现实主义",
     "url": "/wiki/concepts/psychologicalrealism/"
   },
+  "PsychometricSocialSorting": {
+    "title": "Psychometric Social Sorting / 心理测量式社会分层",
+    "url": "/wiki/concepts/psychometricsocialsorting/"
+  },
   "PuLiansheng": {
     "title": "蒲莲生 / Pu Liansheng",
     "url": "/wiki/entities/puliansheng/"
@@ -24699,6 +24751,10 @@
     "title": "Social Comparison Pressure / 社会比较压力",
     "url": "/wiki/concepts/socialcomparisonpressure/"
   },
+  "SocialDarwinism": {
+    "title": "Social Darwinism / 社会达尔文主义",
+    "url": "/wiki/concepts/socialdarwinism/"
+  },
   "SocialEngineeringFraud": {
     "title": "Social Engineering Fraud",
     "url": "/wiki/concepts/socialengineeringfraud/"
@@ -26654,6 +26710,10 @@
   "TheodoreRoosevelt": {
     "title": "Theodore Roosevelt / 西奥多·罗斯福",
     "url": "/wiki/entities/theodoreroosevelt/"
+  },
+  "TheodoreSimon": {
+    "title": "Theodore Simon / 西奥多·西蒙",
+    "url": "/wiki/entities/theodoresimon/"
   },
   "TheoreticalOperatingStandard": {
     "title": "Theoretical Operating Standard / 理论上该有的样子",
@@ -29906,6 +29966,10 @@
   "ZhipuAI": {
     "title": "Zhipu AI",
     "url": "/wiki/entities/zhipuai/"
+  },
+  "ZhishangCeshiBook": {
+    "title": "《智商测试》",
+    "url": "/wiki/entities/zhishangceshibook/"
   },
   "Zhiyanzhai": {
     "title": "脂砚斋 / Zhiyanzhai",

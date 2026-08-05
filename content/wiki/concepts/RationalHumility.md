@@ -2,11 +2,13 @@
 title: "Rational Humility"
 type: concept
 tags: [reasoning, science, evidence, epistemology]
-sources: [36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 174-du-dikaer-shi-jian-dashi-966856702, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+sources: [37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 174-du-dikaer-shi-jian-dashi-966856702, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
 last_updated: 2026-08-06
 ---
 
 # Rational Humility
+
+[[37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679]] adds a measurement-and-status version. The source's point is not that ability differences are unreal, but that [[IntelligenceTesting|intelligence testing]] becomes epistemically and morally overconfident when a score is treated as destiny, group worth, reproductive fitness, or license for [[MeritocraticArrogance|meritocratic arrogance]].
 
 [[36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522]] adds a question-design version through [[CorrectQuestionEpistemology]]. The source's Handdara oracle scene and the king's bad question about traitors both show that a true answer can still fail when the question has already smuggled in a false frame; humility therefore begins before answer-seeking, at the level of what one is willing to ask.
 
@@ -54,6 +56,7 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 - Anti-doctrine humility adds that a coherent philosophy can still be incomplete when tested by relationships, politics, and ordinary life.
 - Contact-style humility adds that science can remain the best method while still admitting that cosmic scale, alien intelligence, and religious meaning cannot be closed by posture alone.
 - Legal-thriller humility adds that suspicion, fear, love, and legal proof can all diverge, so judgment should not pretend to know more than the evidence can carry.
+- Intelligence-testing humility adds that measured differences should not be inflated into a human hierarchy, especially when institutions can punish people through that hierarchy.
 
 ## Connections
 - [[ReneDescartes]], [[MethodicDoubt]], [[CogitoErgoSum]], and [[RationalistMethod]] - Descartes branch that clarifies foundation-seeking versus total certainty.
@@ -72,3 +75,4 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 - [[IdeologicalTotalizationRisk]], [[Objectivism]], and [[Existentialism]] - episode-135 extension into the limits of doctrine.
 - [[ContactNovel|《接触》 / Contact]], [[SETI]], and [[OpenExtraterrestrialCivilizationImagination]] - sp.01's science, religion, and extraterrestrial-intelligence extension.
 - [[DefendingJacob|《捍卫雅各布》 / Defending Jacob]], [[LegalTruthEvidenceGap]], and [[ParentalDefenseConflict]] - episode-24 extension into criminal suspicion and family love.
+- [[IntelligenceTesting]], [[PsychometricSocialSorting]], [[EugenicGovernance]], and [[MeritocraticArrogance]] - episode-37 extension into measured ability, policy power, and status humility.

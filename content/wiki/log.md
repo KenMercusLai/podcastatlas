@@ -5692,3 +5692,11 @@ Added source page for a 蜜獾吃书 episode on Ursula K. Le Guin's 《黑暗的
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 37.智商测试：请问你是智力婆罗门吗？
+
+Added source page for a 蜜獾吃书 episode on 《智商测试》, intelligence testing, Francis Galton, eugenics, social Darwinism, Binet-Simon child testing, Henry Goddard and the Kallikak family, immigration and army testing, educational tracking, Carrie Buck, Nazi eugenic killing, and meritocratic arrogance. Created pages for 《智商测试》, Francis Galton, Alfred Binet, Theodore Simon, Henry Goddard, Kallikak Family, Carrie Buck, Intelligence Testing, Eugenic Governance, Social Darwinism, Psychometric Social Sorting, Cultural Bias In Testing, Educational Tracking By Testing, Forced Sterilization By Eugenics, and Meritocratic Arrogance; updated overview, index, Charles Darwin, H. G. Wells, Nazi Germany, Rational Humility, Achievement Pressure Mental Health, Social Comparison Pressure, Merit-Based Immigration Filter, Anti-Authoritarian Education, Algorithmic Labeling, 蜜獾吃书, and 秦总. No direct contradiction found; the source extends the wiki's education-pressure and measurement branches by showing how a cognitive test can move from self-knowledge or school support into social rank, state sorting, reproductive control, and contempt.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
