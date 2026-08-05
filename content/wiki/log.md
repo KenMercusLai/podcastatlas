@@ -5360,3 +5360,11 @@ Ran lint after health passed. Health scanned 7,567 wiki pages with no empty/stub
 ## [2026-08-05] lint | Wiki health check
 
 Ran lint after health passed. Health scanned 7,573 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-05] ingest | Are humans losing the ability to think for themselves?
+
+Added source page for a Marketplace Tech episode with Stephanie Hughes interviewing Steve Shaw of the Wharton School on cognitive surrender, artificial cognition as "system three," and the risk that users adopt AI answers before doing their own reasoning. Created pages for Steve Shaw, Cognitive Surrender, and Artificial Cognition; updated overview, index, Marketplace Tech, Stephanie Hughes, Wharton School, ChatGPT, Human Judgment Under AI, First Draft Thinking, AI Shortcut Risk, AI Use Pacing, and Agentic Workflow. No direct contradiction found; the source qualifies AI tutor and agentic-workflow optimism by showing that AI assistance needs think-before-prompt habits, review gates, and occasional no-AI intervals to avoid judgment delegation.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 7,577 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges, so findings are advisory until `build graph` is refreshed; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.

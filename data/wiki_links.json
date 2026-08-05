@@ -2959,6 +2959,10 @@
     "title": "Arthur Schopenhauer / 叔本华",
     "url": "/wiki/entities/arthurschopenhauer/"
   },
+  "ArtificialCognition": {
+    "title": "Artificial Cognition",
+    "url": "/wiki/concepts/artificialcognition/"
+  },
   "ArtisanalAttention": {
     "title": "Artisanal Attention",
     "url": "/wiki/concepts/artisanalattention/"
@@ -5890,6 +5894,10 @@
   "CognitiveInertia": {
     "title": "Cognitive Inertia / 认知惰性",
     "url": "/wiki/concepts/cognitiveinertia/"
+  },
+  "CognitiveSurrender": {
+    "title": "Cognitive Surrender",
+    "url": "/wiki/concepts/cognitivesurrender/"
   },
   "CoinRetirementEconomics": {
     "title": "Coin Retirement Economics",
@@ -24027,6 +24035,10 @@
     "title": "Steve Jobs",
     "url": "/wiki/entities/stevejobs/"
   },
+  "SteveShaw": {
+    "title": "Steve Shaw",
+    "url": "/wiki/entities/steveshaw/"
+  },
   "StevenPinker": {
     "title": "Steven Pinker",
     "url": "/wiki/entities/stevenpinker/"
@@ -29750,6 +29762,10 @@
   "tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128": {
     "title": "By 2030, EVs could cost the same as their gas guzzling siblings",
     "url": "/wiki/sources/tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128/"
+  },
+  "tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128": {
+    "title": "Are humans losing the ability to think for themselves?",
+    "url": "/wiki/sources/tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128/"
   },
   "tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128": {
     "title": "Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space",

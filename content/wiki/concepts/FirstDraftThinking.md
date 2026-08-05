@@ -2,8 +2,8 @@
 title: "First Draft Thinking"
 type: concept
 tags: [ai, education, learning, writing]
-sources: [tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128, tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # First Draft Thinking
@@ -16,6 +16,8 @@ First draft thinking therefore connects classroom design to [[SelfDirectedLearni
 
 [[tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]] adds a complementary writing-center version through [[ChristyGerdhary]]. Once students have human material to work from, they can use AI to remediate, transform, or collaborate transparently, then judge whether the result still carries their own memory, language, and purpose. This extends first draft thinking into [[AIWritingPedagogy]] rather than replacing it.
 
+[[tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128]] adds [[SteveShaw]]'s broader "think first" rule. Shaw allows students to use AI and uses it daily himself, but he tells students to generate their own ideas before prompting. That makes first draft thinking a defense against [[CognitiveSurrender]] as well as a classroom writing practice.
+
 ## Key Claims
 - The first attempt is not a disposable step; it is where students practice synthesis, recall, transfer, and error detection.
 - AI assistance is safer after the student has produced a draft, hypothesis, partial solution, or explicit confusion.
@@ -23,9 +25,11 @@ First draft thinking therefore connects classroom design to [[SelfDirectedLearni
 - AI-free classroom time can be a practical scaffold for first-draft thinking because AI is difficult to exclude from home internet use.
 - The goal is productive friction, not helpless frustration: AI can still enter after the learner has done enough thinking to use the help actively.
 - In writing classes, the protected first draft can become the material students compare against AI transformations, color-coded collaboration, and final artifacts that exceed generic output.
+- The same sequence applies outside homework: thinking before prompting helps keep AI from becoming the user's first settled judgment.
 
 ## Connections
 - [[HeatherSchwartz]] and [[RAND]] - source speaker and study context.
+- [[SteveShaw]], [[CognitiveSurrender]], and [[ArtificialCognition]] - Wharton decision-making extension added by Marketplace Tech.
 - [[AIAsTutor]] - constructive AI role when sequencing is right.
 - [[AIShortcutRisk]] - failure mode when AI replaces the first attempt.
 - [[SelfDirectedLearning]] and [[LearningHowToLearn]] - student capacities trained by first-draft work.

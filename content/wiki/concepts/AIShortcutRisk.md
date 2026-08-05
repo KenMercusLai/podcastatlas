@@ -2,8 +2,8 @@
 title: "AI Shortcut Risk"
 type: concept
 tags: [ai, education, learning, agency]
-sources: [e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-07-23
+sources: [tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
+last_updated: 2026-08-05
 ---
 
 # AI Shortcut Risk
@@ -15,6 +15,8 @@ The risk is not that AI should be absent from education. [[AIAsTutor]] can perso
 This makes AI shortcut risk an education-specific version of [[AIUsePacing]], [[AILiteracyAgainstWorship]], and [[HumanJudgmentUnderAI]]. The user has to know when speed is useful and when the activity's value comes from the struggle, explanation, recall, comparison, and error correction that AI might remove.
 
 [[tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128]] adds survey grounding and a classroom response. [[HeatherSchwartz]] of [[RAND]] says more than 60% of U.S. middle school, high school, and college students use AI for homework help, and more than two-thirds worry it may hurt their critical thinking. Her answer is [[FirstDraftThinking]]: protect the student's first attempt, then let AI help later.
+
+[[tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128]] adds a lab-decision version through [[SteveShaw]] of the [[WhartonSchool]]. The episode says participants often adopted [[ChatGPT]] answers even when the answers were wrong, and Shaw warns that students who defer the learning process itself to AI may never build critical thinking in the first place. That makes shortcut risk a form of [[CognitiveSurrender]], not only a homework-integrity problem.
 
 [[tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]] adds the cheating-and-detector classroom version. [[ChristyGerdhary]] does not answer shortcut risk only with bans or AI detectors; she describes [[AIWritingPedagogy]] where students make AI collaboration visible, compare transformations, and create work that a chatbot cannot simply supply. The same source adds [[AIDetectorBias]] as a warning that detector-first policing can create its own unfairness.
 
@@ -30,6 +32,7 @@ This makes AI shortcut risk an education-specific version of [[AIUsePacing]], [[
 - Integrity responses can backfire if they replace learning design with detector-first suspicion; transparent process evidence can address shortcut risk more constructively.
 - Heavy AI use can be both learning support and shortcut risk; the separating factor is whether the student can explain, verify, and transfer the result beyond the model output.
 - AI-native students may need explicit fallback and foundation-building practice because they may never have developed pre-AI habits for writing, coding, search, or debugging.
+- Shortcut risk can show up as answer adoption under time pressure: the student or worker follows AI because it is available, not because they have judged it.
 
 ## Connections
 - [[YangLingfeng]] and [[YangcongXueyuan]] — source speaker and company.
@@ -38,5 +41,6 @@ This makes AI shortcut risk an education-specific version of [[AIUsePacing]], [[
 - [[AIUsePacing]], [[AILiteracyAgainstWorship]], and [[HumanAgencyUnderAI]] — broader agency and attention risks.
 - [[HumanJudgmentUnderAI]] — deciding when not to accept AI's fastest path is a judgment act.
 - [[HeatherSchwartz]], [[RAND]], and [[FirstDraftThinking]] - Marketplace Tech's survey and classroom sequencing extension.
+- [[SteveShaw]], [[WhartonSchool]], [[CognitiveSurrender]], and [[ArtificialCognition]] - Marketplace Tech's lab-decision and system-three extension.
 - [[ChristyGerdhary]], [[AIWritingPedagogy]], [[TransparentAIUse]], and [[AIDetectorBias]] - Marketplace Tech's writing-class and detector-fairness extension.
 - [[AIDefaultLearningEnvironment]], [[AIUniversityAssessmentReform]], and [[DegreeAsTrustCredential]] - university assessment and credential stakes added by E236.
