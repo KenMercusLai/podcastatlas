@@ -2,7 +2,7 @@
 title: "Historical Body Concept"
 type: concept
 tags: [body, medicine, history, medieval-history]
-sources: [yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]
+sources: [162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270, yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]
 last_updated: 2026-08-06
 ---
 
@@ -12,11 +12,14 @@ Historical body concept is the episode's reminder that the human body is always 
 
 The source uses the concept to loosen present-day certainty. Modern readers may see older body theories as strange, but current medical common sense also has its own instruments, categories, and blind spots. That links historical body reading to [[MedicalKnowledgeBoundary]] rather than to simple progress triumphalism.
 
+[[162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270]] adds a low-comedy version through [[PishuBook|《屁书》]]. Flatulence is treated as a body function interpreted through diet, gut microbes, etiquette, religious stories, legal rules, childhood jokes, and animal comparisons, extending the concept from historical medicine into [[CivilizedBodyDiscipline]].
+
 ## Key Claims
 - Bodies are biological, but body knowledge is historically organized.
 - Earlier medical theories can be wrong by current standards and still reveal how people made suffering, hygiene, and mortality intelligible.
 - Images of saints, organs, skin, and blood are not decorative side material; they show how a culture pictured personhood and bodily integrity.
 - Historical body reading should avoid mocking the past too easily, because today's categories are also provisional.
+- Embarrassing body functions can reveal a culture's body concept as clearly as noble medical images or formal health theories.
 
 ## Connections
 - [[ZhongshijiDeShenti|《中世纪的身体》]] - central source book.

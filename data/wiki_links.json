@@ -411,6 +411,10 @@
     "title": "161.攥着文凭失业，我怎么爬出这个陷阱",
     "url": "/wiki/sources/161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202/"
   },
+  "162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270": {
+    "title": "162.屁书：闲聊“人间之气”！一天几次最健康？",
+    "url": "/wiki/sources/162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270/"
+  },
   "166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1": {
     "title": "166: 许华哲再次具身创业：不想错过最大的西瓜",
     "url": "/wiki/sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1/"
@@ -2799,6 +2803,10 @@
     "title": "Animal Experiment Ethics",
     "url": "/wiki/concepts/animalexperimentethics/"
   },
+  "AnimalGasCommunication": {
+    "title": "Animal Gas Communication / 动物气体交流",
+    "url": "/wiki/concepts/animalgascommunication/"
+  },
   "AnimalIntelligenceModes": {
     "title": "Animal Intelligence Modes",
     "url": "/wiki/concepts/animalintelligencemodes/"
@@ -4330,6 +4338,10 @@
   "BobosOatBars": {
     "title": "Bobo's Oat Bars",
     "url": "/wiki/entities/bobosoatbars/"
+  },
+  "BodilyTabooHumor": {
+    "title": "Bodily Taboo Humor / 身体禁忌幽默",
+    "url": "/wiki/concepts/bodilytaboohumor/"
   },
   "BodyFarmForensicResearch": {
     "title": "Body Farm Forensic Research",
@@ -6030,6 +6042,10 @@
   "CivilizationalSelfDestructionCycle": {
     "title": "Civilizational Self-Destruction Cycle",
     "url": "/wiki/concepts/civilizationalselfdestructioncycle/"
+  },
+  "CivilizedBodyDiscipline": {
+    "title": "Civilized Body Discipline / 文明身体规训",
+    "url": "/wiki/concepts/civilizedbodydiscipline/"
   },
   "Clacton": {
     "title": "Clacton",
@@ -10238,6 +10254,14 @@
   "Flatland": {
     "title": "《平面国》 / Flatland",
     "url": "/wiki/entities/flatland/"
+  },
+  "FlatulenceAsHealthSignal": {
+    "title": "Flatulence As Health Signal / 排气作为健康信号",
+    "url": "/wiki/concepts/flatulenceashealthsignal/"
+  },
+  "FlatulencePerformanceHistory": {
+    "title": "Flatulence Performance History / 放屁表演史",
+    "url": "/wiki/concepts/flatulenceperformancehistory/"
   },
   "FlavorAsSelfKnowledge": {
     "title": "Flavor As Self-Knowledge",
@@ -20894,6 +20918,10 @@
   "PiratedStreamingBoxMalware": {
     "title": "Pirated Streaming Box Malware",
     "url": "/wiki/concepts/piratedstreamingboxmalware/"
+  },
+  "PishuBook": {
+    "title": "《屁书》",
+    "url": "/wiki/entities/pishubook/"
   },
   "PistoriusDemian": {
     "title": "Pistorius / 皮斯托留斯",

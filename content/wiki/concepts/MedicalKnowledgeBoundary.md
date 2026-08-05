@@ -2,7 +2,7 @@
 title: "Medical Knowledge Boundary"
 type: concept
 tags: [medicine, uncertainty, diagnosis, public-health]
-sources: [yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]
+sources: [162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270, yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]
 last_updated: 2026-08-06
 ---
 
@@ -12,11 +12,14 @@ Medical knowledge boundary is the source's frame for respecting medicine without
 
 The concept does not reject medical care. It pairs humility with responsibility: diagnosis, treatment, surgery, public health, and self-care all matter more when medicine's limits are visible. The closing recommendation of [[DakayiKexin|《打开一颗心》 / Open Heart]] gives the constructive side of the boundary - a doctor can know the limits and still act with discipline and courage.
 
+[[162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270]] adds a daily-body-sign version through [[FlatulenceAsHealthSignal]]. The source encourages noticing persistent abnormal frequency, pain, bloating, difficulty passing gas, and alarming stool changes, but it also refuses one-sign certainty: smell and frequency are clues that need context, not proof of a diagnosis.
+
 ## Key Claims
 - A new disease can make expert advice change as evidence accumulates; that is a knowledge-boundary problem, not automatic incompetence.
 - Some conditions remain unidentified even after hospital testing and treatment, so uncertainty should be named rather than hidden.
 - The immune system, rest, nutrition, and time can matter without turning illness into pure individual willpower.
 - Medical humility should not become medical cynicism: disciplined clinical practice and public-health systems still save lives.
+- Ordinary body signals should be observed over time and interpreted with symptoms, duration, and clinical context rather than converted into instant certainty.
 
 ## Connections
 - [[MedicalDiagnosticReasoning]] and [[MedicalRiskManagement]] - existing clinical uncertainty and safety frames.

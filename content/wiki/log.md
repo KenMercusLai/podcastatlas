@@ -5716,3 +5716,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 162.屁书：闲聊“人间之气”！一天几次最健康？
+
+Added source page for a 蜜獾吃书 episode using 《屁书》 to discuss flatulence as physiology, health clue, taboo humor, etiquette problem, performance material, and animal behavior. Created pages for 《屁书》, Flatulence As Health Signal, Bodily Taboo Humor, Civilized Body Discipline, Flatulence Performance History, and Animal Gas Communication; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, Offensive Humor Speech Space, Historical Body Concept, and Medical Knowledge Boundary. No direct contradiction found; the source complements episode 57's "屎尿屁" character-evidence branch by approaching the same body domain through digestion, shame, culture, and animal physiology rather than historical script evidence.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

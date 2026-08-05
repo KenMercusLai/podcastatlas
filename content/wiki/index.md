@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [162.屁书：闲聊“人间之气”！一天几次最健康？](sources/162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270.md) — 蜜獾吃书 episode on 《屁书》, flatulence as health signal, bodily taboo humor, civilized body discipline, fart performance history, and animal gas communication.
 - [161.攥着文凭失业，我怎么爬出这个陷阱](sources/161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202.md) — 蜜獾吃书 episode on high-education unemployment, 《污名陷阱》, unemployment stigma, opaque hiring, long-term unemployment penalty, weak ties, status descent pressure, and unemployed mutual aid.
 - [38.安吉拉卡特精怪故事集：哦！迷人的悍妇！](sources/38-anjila-kate-jingguai-gushiji-o-mirende-hanfu-609607139.md) — 蜜獾吃书 episode on Angela Carter's 《精怪故事集》, grandmotherly oral storytelling, unruly women in folktales, feminist fairy-tale rewriting, desanitized fairy-tale material, and cross-cultural tale flow.
 - [37.智商测试：请问你是智力婆罗门吗？](sources/37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679.md) — 蜜獾吃书 episode on intelligence testing history, Galton and eugenics, Binet-Simon school testing, Goddard and the Kallikak case, Carrie Buck, Nazi eugenics, educational tracking, and meritocratic arrogance.
@@ -716,6 +717,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《屁书》](entities/PishuBook.md) — Dutch children's book used by episode 162 to open flatulence as body knowledge, taboo humor, etiquette, and animal science.
 - [《污名陷阱》](entities/WumingXianjing.md) — book used by episode 161 to frame high-education unemployment as a stigma trap involving hiring suspicion, family pressure, and self-blame.
 - [《精怪故事集》](entities/JingguaiGushiji.md) — Angela Carter folk- and fairy-tale collection read by episode 38 as a desanitized, female-forward story world of desire, tricks, cruelty, maternal wit, and comic agency.
 - [《染血之室》 / The Bloody Chamber](entities/TheBloodyChamber.md) — Carter fairy-tale rewriting example used by episode 38 to show agency shifting away from male rescue toward maternal action.
@@ -4943,6 +4945,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Flatulence As Health Signal / 排气作为健康信号](concepts/FlatulenceAsHealthSignal.md) — Frame for treating fart frequency, smell, diet, gut fermentation, and persistent symptoms as bodily clues rather than instant diagnoses.
+- [Bodily Taboo Humor / 身体禁忌幽默](concepts/BodilyTabooHumor.md) — Comic pattern where universal body functions become funny because etiquette and shame mark them as improper.
+- [Civilized Body Discipline / 文明身体规训](concepts/CivilizedBodyDiscipline.md) — Hygiene, etiquette, religion, law, and status process that manages normal body functions and can turn them into shame.
+- [Flatulence Performance History / 放屁表演史](concepts/FlatulencePerformanceHistory.md) — Entertainment branch where farting becomes staged skill, spectacle, contest, sound material, or novelty performance.
+- [Animal Gas Communication / 动物气体交流](concepts/AnimalGasCommunication.md) — Animal-behavior frame for gas as digestion, distress sign, acoustic signal, predator-prey clue, emission, or husbandry issue.
 - [Highly Educated Unemployment / 高学历失业](concepts/HighlyEducatedUnemployment.md) — unemployment condition where degrees, elite schooling, or prior status fail to secure work and can intensify stigma.
 - [Unemployment Stigma / 失业污名](concepts/UnemploymentStigma.md) — process by which joblessness is read as defective character, ability, effort, or stability.
 - [Opaque Hiring Market / 不透明招聘市场](concepts/OpaqueHiringMarket.md) — hiring environment where applicants, employers, HR screeners, and referrers make decisions from incomplete signals.
