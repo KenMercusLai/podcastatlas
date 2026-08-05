@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [88.别认输，惠子：在听不到喝彩的世界里，挥拳！](sources/88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803.md) — 蜜獾吃书 episode on 惠子, 《惠子凝视》, deaf education, communication misrecognition, female boxing, gym access, and boxing as embodied agency rather than simple inspirational victory.
 - [87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）](sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997.md) — 蜜獾吃书 episode on early Chinese fangshu, oracle-bone and Zhouyi divination, soul summoning, astrology, yin-yang/five phases, Qin-Han immortality quests, Huainanzi, and wugu political panic.
 - [87.过年最适合聊玄学！探讨神仙方术发展史（接上集）](sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550.md) — 蜜獾吃书 episode on Han-to-Wei-Jin fangshu, Dong Zhongshu, star omens, chenwei politics, Daoist alchemy, ritual technology, divination, fengshui, and Buddhist miracle politics.
 - [86.打开一颗心：那美好的仗，我已经打过了](sources/86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437.md) — 蜜獾吃书 episode on Stephen Westaby, 《打开一颗心》, cardiac surgery, artificial hearts, the AB180 blood pump, high-risk surgical innovation, mortality metrics, and sponsor-linked major-illness insurance planning.
@@ -737,6 +738,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [惠子 / Keiko (boxer)](entities/KeikoBoxer.md) — Hearing-impaired female boxer whose path through school isolation, boxing refusal, professional entry, and later support work anchors episode 88.
+- [《别认输，惠子》](entities/BieRenshuHuiziBook.md) — Autobiographical source as presented by episode 88, valued for its plain account of deafness, school pain, boxing practice, and relational repair.
+- [《惠子凝视》](entities/KeikoGazeFilm.md) — Japanese film used by episode 88 as the entry point into 惠子's real boxing and disability story.
+- [真斗拳馆](entities/ZhendouBoxingGym.md) — Boxing gym that accepts 惠子, combining disability access with serious training, examination, and professional standards.
+- [小林亮一 / Kobayashi Ryoichi](entities/KobayashiRyoichi.md) — Coach who recognizes 惠子's professional potential and teaches defense after her painful second fight.
+- [和田幸子 / Wada Sachiko](entities/WadaSachiko.md) — Language/hearing-classroom teacher who gives 惠子 a low-pressure refuge during ordinary-school crisis.
 - [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin emperor used by episode 87 to connect immortality seeking, water-phase symbolism, fangshi patronage, omen anxiety, and coercive imperial power.
 - [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose求仙 projects and wugu panic make fangshu a fiscal, political, and succession danger in episode 87.
 - [Liu An / 刘安](entities/LiuAn.md) — Western Han prince whose fangshu interest appears through textual compilation, Huainanzi, technical lore, and later immortalization legend.
@@ -5097,6 +5104,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Deaf Education And Belonging](concepts/DeafEducationBelonging.md) — Education-access frame where school placement must be judged by real communication, trust, peer life, and the student's ability to participate.
+- [Communication Access And Misrecognition](concepts/CommunicationAccessAndMisrecognition.md) — Pattern where communication barriers are misread as rudeness, arrogance, laziness, or defiance.
+- [Disability Access In Combat Sports](concepts/DisabilityAccessInCombatSports.md) — Sports-access frame for preserving safety standards while refusing blanket exclusion before actual skill and risk are assessed.
+- [Boxing As Embodied Agency](concepts/BoxingAsEmbodiedAgency.md) — Body-practice frame where boxing turns anger, fear, sensory attention, coaching, and choice into disciplined agency.
 - [Oracle-Bone Divination / 甲骨占卜](concepts/OracleBoneDivination.md) — Shang ritual and archival practice where burned-shell cracks and inscriptions record questions, diviners, outcomes, and state concerns.
 - [Zhouyi Divination / 《周易》占卜](concepts/ZhouyiDivination.md) — Yarrow-stalk and hexagram procedure where arithmetic arrangement, ritual authority, and interpretation become a durable divination system.
 - [Ancient Chinese Soul Summoning / 招魂](concepts/AncientChineseSoulSummoning.md) — Chu-centered soul ritual frame for illness, fainting, death anxiety, and body-soul explanations.

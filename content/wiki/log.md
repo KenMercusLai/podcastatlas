@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-06] ingest | 88.别认输，惠子：在听不到喝彩的世界里，挥拳！
+
+Added source page for a 蜜獾吃书 episode on 惠子, 《别认输，惠子》, 《惠子凝视》, deaf education, communication misrecognition, adolescent anger, female boxing, repeated competition refusals, 真斗拳馆, 小林亮一, 和田幸子, and boxing as embodied agency. Created pages for 惠子 / Keiko (boxer), 《别认输，惠子》, 《惠子凝视》, 真斗拳馆, 小林亮一, 和田幸子, Deaf Education And Belonging, Communication Access And Misrecognition, Disability Access In Combat Sports, and Boxing As Embodied Agency; updated overview, index, 蜜獾吃书, Disability Independent Living, Subject-Led Care, Adolescent Alienation Recognition, Complex Trauma Recognition, Action Against Anxiety, Female Body Freedom, and Female Self-Possession. No direct contradiction found; the existing [[Keiko]] page refers to the Free Willy orca, so the boxer is kept under [[KeikoBoxer]] to prevent identity conflation.
+
 ## [2026-08-06] ingest | 86.打开一颗心：那美好的仗，我已经打过了
 
 Added source page for a 蜜獾吃书 episode on Stephen Westaby, 《打开一颗心》 / Open Heart, cardiac surgery, early hospital training, patient death and family memory, the Westaby tube, extreme infant surgery, artificial hearts, left-ventricular assist pumps, the AB180 blood pump, high-risk surgical innovation, mortality-rate metrics, and sponsor-linked major-illness insurance planning. Created pages for Stephen Westaby, Robert Jarvik, AB180 Blood Pump, High-Risk Surgical Innovation, Artificial Heart Bridge Therapy, and Surgical Outcome Metric Distortion; updated overview, index, 蜜獾吃书, 《打开一颗心》, Medical Knowledge Boundary, Medical Risk Management, Medical Device Clinical Validation, Bureaucratic Risk Avoidance, Insurance Risk Transfer, Health Insurance Planning, and 小雨伞. No direct contradiction found; the source expands the earlier sickbed reading-list recommendation into a full surgical ethics and medical-innovation branch.
@@ -5884,3 +5888,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran health before lint; health scanned 8,329 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,329 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 8,329 pages; treat graph findings as stale until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because no provider-qualified `LLM_MODEL` or API key is configured in the shell environment. No `wiki/lint-report.md` file was saved.

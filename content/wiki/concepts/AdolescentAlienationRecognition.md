@@ -2,11 +2,13 @@
 title: "Adolescent Alienation Recognition"
 type: concept
 tags: [literature, youth, psychology, reading]
-sources: [33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624, 07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422]
+sources: [88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803, 33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624, 07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422]
 last_updated: 2026-08-06
 ---
 
 # Adolescent Alienation Recognition
+
+[[88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803]] adds a nonfiction disability-and-school case through [[KeikoBoxer|惠子]]. Her teenage truancy, rage, suspicion, and violent outbursts are not treated as admirable rebellion, but the episode asks listeners to see the communication failures, school mismatch, shame, and loneliness that made ordinary correction feel false to her.
 
 Adolescent alienation recognition is the episode's frame for why [[TheCatcherInTheRye|《麦田里的守望者》]] can be healing rather than simply rebellious. In [[01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422]], [[HoldenCaulfield|Holden Caulfield / 霍尔顿]] is angry, disgusted, evasive, and often rude, but the hosts read these behaviors as signs of sensitivity and loneliness under pressure from a coarse adult world.
 
@@ -26,6 +28,7 @@ The concept is not permission for violence or permanent withdrawal. Holden's "ca
 - Recognition should not be confused with endorsing every action, rejecting adulthood forever, or glamorizing violence.
 - The same sensitivity that needs recognition can become self-destructive if it is protected from every demand to grow.
 - Recognition has to stay separate from glamorization when the alienated figure moves from inward pain into dependence, addiction, or harm around intimate others.
+- Episode 88 adds that disability-related alienation can be intensified when peers and teachers misread missed communication as attitude or defiance.
 
 ## Connections
 - [[TheLittlePrince|《小王子》 / The Little Prince]], [[PuerAeternus]], [[RomanticDeathEscape]], and [[ResponsibilityAgainstRomanticEscape]] - episode 07's maturity-versus-death extension.
@@ -35,3 +38,4 @@ The concept is not permission for violence or permanent withdrawal. Holden's "ca
 - [[NonInstrumentalLiteraryReading]] - literature can work by recognition rather than instruction.
 - [[AntiheroMisreading]] - boundary concept for not turning alienation into heroic violence.
 - [[NoLongerHuman|《人间失格》]], [[ObaYozo|大庭叶藏]], [[ComicMaskSurvival]], and [[CowardlySacrificeWitness]] - episode 33's darker alienation-recognition branch.
+- [[KeikoBoxer|惠子]], [[DeafEducationBelonging]], and [[CommunicationAccessAndMisrecognition]] - episode 88's disability-and-school extension.
