@@ -2,8 +2,8 @@
 title: "Creative Labor AI Backlash"
 type: concept
 tags: [ai, labor, media, backlash]
-sources: [the-business-of-heated-rivalry, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]
-last_updated: 2026-07-24
+sources: [tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, the-business-of-heated-rivalry, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Creative Labor AI Backlash
@@ -16,6 +16,8 @@ The concept differs from a simple "AI looks bad" complaint. The source notes tha
 
 [[e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5]] adds the film and dubbing version. The episode opens with [[ByteDance]] video generation and Hollywood copyright objections, then uses [[LuChuan]] and [[HuangYing]] to show that backlash is not only job panic: it includes film-grade quality, audience taste, voice consent, actor likeness, and whether cheap generation erases craft that audiences still need.
 
+[[tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128]] adds the consumer-authenticity version. [[ColleenKirk]] says consumers may pay more for human-made products because they infer emotional investment, care, and self-expression. This overlaps with labor backlash but is not identical: even without an explicit worker-rights argument, AI authorship can weaken brand trust when buyers expected human creative presence.
+
 [[the-business-of-heated-rivalry]] adds a creator-side boundary without making the source primarily an AI backlash story. [[BrendanBrady]] accepts possible AI help for scheduling and budgeting, while [[JacobTierney]] says he does not want AI to write for him; the concern is preserving collaborative creative friction rather than rejecting every production tool.
 
 ## Key Claims
@@ -27,6 +29,7 @@ The concept differs from a simple "AI looks bad" complaint. The source notes tha
 - Splitting reporting from writing may improve workflow efficiency, but it also changes the craft identity and training path of journalists.
 - In film and dubbing, backlash can be strongest where AI appears to copy recognizable styles, faces, or voices while skipping the human craft and contracts that created them.
 - A creator can accept AI for logistics while rejecting it as the source of authorship, taste, and interpersonal creative discovery.
+- Consumers may also object or discount AI-made work because it lacks perceived human care, even when they are not making an explicit labor-rights claim.
 
 ## Connections
 - [[AIGeneratedAdvertising]] and [[McDonaldsNetherlands]] - source case.
@@ -36,3 +39,4 @@ The concept differs from a simple "AI looks bad" complaint. The source notes tha
 - [[AIRewriteDesk]], [[AIWrittenJournalism]], [[NewsroomAIAdoption]], [[ThePlainDealer]], and [[AIJournalismTrust]] - journalism craft and newsroom labor branch added by Marketplace Tech.
 - [[LuChuan]], [[HuangYing]], [[AIVideoProductionWorkflow]], [[AIDubbing]], and [[AIVoiceCloningRights]] - film and voice branch added by E234.
 - [[HeatedRivalry|Heated Rivalry]], [[JacobTierney]], [[BrendanBrady]], and [[ConstraintDrivenMediaProduction]] - television production boundary added by Planet Money.
+- [[ColleenKirk]], [[HumanAuthorshipPremium]], [[AIAuthorshipPresence]], and [[AlgorithmAversion]] - consumer-authenticity branch added by Marketplace Tech.

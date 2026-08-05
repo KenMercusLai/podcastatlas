@@ -2,8 +2,8 @@
 title: "AI Content Devaluation"
 type: concept
 tags: [ai, content, writing, media]
-sources: [tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, kate-crawford-mapping-empires, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112]
-last_updated: 2026-07-14
+sources: [tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, kate-crawford-mapping-empires, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112]
+last_updated: 2026-08-05
 ---
 
 # AI Content Devaluation
@@ -11,6 +11,8 @@ last_updated: 2026-07-14
 AI content devaluation is the Vol. 164 concern that when software, articles, social posts, images, reports, and songs become cheap to generate, audiences may treat many outputs as less worth attention. In [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]], the hosts describe losing curiosity when tools or texts feel obviously AI-generated, and use "AI did not read" as a shorthand for ignoring content whose author did not appear to communicate seriously.
 
 The concept is not simply anti-AI. The episode separates low-value generated filler from cases where AI assists a person with real judgment, taste, script, editing, or direction. The value shifts from production effort alone toward human intent, selection, story, expression, and verification.
+
+[[tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128]] adds the consumer-products and marketing version through [[ColleenKirk]]. AI-generated labels can reduce trust, authenticity, purchase intent, and positive word of mouth, especially when the product or message is tied to emotion, identity, or self-expression. The source also points to a counter-signal: [[HumanAuthorshipPremium]] can become valuable when buyers infer care and human self-expression from the production story.
 
 [[vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]] adds a product and media version. [[JustinYan]] says [[NewSpot]] currently risks feeling too AI-generated, so its "每日一句" keeps his own writing as the final authored element while AI can only provide inspiration. The same source extends the concern to AI articles, short videos, magazine-style images, and synthetic audio: once production becomes abundant, listeners and readers may value human irregularity, bias, and lived experience more.
 
@@ -42,6 +44,7 @@ The concept is not simply anti-AI. The episode separates low-value generated fil
 - AI audio can solve voice quality before it solves script quality; the bottleneck moves toward writing, pacing, and human-like surprise.
 - Devaluation can spread from media attention to labor value when generated output makes previously scarce cognitive work feel cheap.
 - AI-generated text can lose trust when readers believe the author's frame and attention are missing, even if the surface claims are useful.
+- AI-generated product design or advertising can be devalued even before quality is judged if consumers believe the work should carry human care, emotion, or self-expression.
 - A reader's own [[PersonalKnowledgeEcology]] can recover some value from generic AI-heavy content by translating it into their own context.
 - In AI short drama, low-cost production can either expand genre variety or accelerate repetitive copycat supply, depending on creator originality and platform incentives.
 - Knowledge content can be devalued without making all paid media impossible; the paid layer may shift toward community, events, source trust, and embodied experience.
@@ -53,6 +56,7 @@ The concept is not simply anti-AI. The episode separates low-value generated fil
 
 ## Connections
 - [[AIContentProvenance]] — disclosure and traceability side of generated media.
+- [[HumanAuthorshipPremium]], [[AlgorithmAversion]], [[ColleenKirk]], and [[GenuineFred]] — consumer-authorship branch added by Marketplace Tech.
 - [[AICommunicationAbility]] — human expression skill that can keep AI-assisted output from becoming generic filler.
 - [[HumanJudgmentUnderAI]] — judgment and taste still decide what is worth publishing.
 - [[VibeCoding]] and [[OnDemandApps]] — software analog where generated artifacts are easy, but product quality and maintenance still matter.

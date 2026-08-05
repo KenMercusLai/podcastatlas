@@ -5372,3 +5372,11 @@ Ran lint after health passed. Health scanned 7,577 wiki pages with no empty/stub
 ## [2026-08-05] ingest | Trust in government data practices is rapidly deteriorating
 
 Added source page for a Marketplace Tech episode with Megan McCarty-Corino interviewing Elizabeth Laird of the Center for Democracy and Technology about Americans' concern over federal data practices. Created pages for Elizabeth Laird, Federal Data Practice Trust, Public Benefits Data Chilling Effect, Enforcement Agency Data Sharing, and Government Data Accountability; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Center for Democracy and Technology, U.S. Department of Homeland Security, United States Congress, Civil Liberties Surveillance Risk, Platform Data Regulation, and Comprehensive Consumer Data Privacy. No direct contradiction found; the source complements prior government-data-broker and consumer-deletion pages by showing that privacy mistrust can discourage benefit uptake and create demand for congressional oversight.
+
+## [2026-08-05] ingest | Is "made by humans" the new premium label?
+
+Added source page for a Marketplace Tech episode with Stephanie Hughes interviewing Colleen Kirk of the New York Institute of Technology about consumer response to AI-generated marketing, product design, and human-made labels. Created pages for Colleen Kirk, New York Institute of Technology, Genuine Fred, Human Authorship Premium, and Algorithm Aversion; updated overview, index, Marketplace Tech, Stephanie Hughes, European Union, How We Survive, AI Content Provenance, AI Authorship Presence, AI Content Devaluation, AI-Generated Advertising, Creative Labor AI Backlash, Human Judgment Under AI, AI Assistant Augmentation, Product Led Willingness To Pay, and Consumer Brand Moat. No direct contradiction found; the source qualifies provenance and augmentation by showing that disclosure can reduce trust when AI appears to author emotionally meaningful or identity-linked work, while human-led use of AI as a tool is received differently.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

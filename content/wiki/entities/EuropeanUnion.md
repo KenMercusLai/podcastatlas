@@ -2,8 +2,8 @@
 title: "European Union"
 type: entity
 tags: [institution, europe, politics]
-sources: [tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
-last_updated: 2026-07-12
+sources: [tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
+last_updated: 2026-08-05
 ---
 
 # European Union
@@ -16,6 +16,8 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 
 [[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]] adds the EU through the [[EuropeanCommission]] investigation of [[Google]] and publisher content in [[GoogleAIOverviews|Google AI Overviews]]. This source extends the EU page from privacy and feature-availability questions into [[PlatformAntitrust]] around AI-search attribution and publisher traffic.
 
+[[tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128]] adds an AI-disclosure example through [[ColleenKirk]]'s interview on [[MarketplaceTech]]. Kirk says the European Union requires marketers to disclose when content is AI-generated, contrasting that rule with the lack of a similar general U.S. requirement in the episode's account. The source connects EU regulation to [[AIContentProvenance]], [[AIGeneratedAdvertising]], and [[HumanAuthorshipPremium]] by showing why disclosure can be both a trust obligation and a commercial risk.
+
 [[keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b]] adds the EU as the institution the [[UnitedKingdom]] left through [[Brexit]]. The episode's EU frame is double-edged: leaving created some room for [[BrexitRegulatoryDividend]], but also produced [[BrexitEconomicFriction]] because exporters, importers, investors, finance, professional qualifications, and EU-facing AI firms still have to navigate the European market.
 
 [[fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]] uses Europe as a regional heat-and-energy case, with the EU page serving as the closest existing regional anchor. The episode argues that hotter summers and cleaner electricity make [[CoolingAsPublicHealth]] part of [[ClimateAdaptation]], even though power prices, grid mix, and household behavior differ sharply across European countries.
@@ -27,6 +29,7 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 - The Keji Luandun export-control source uses EU feature restrictions as part of a broader [[FrontierModelAccessRestrictions]] and regional-compliance frame.
 - The Cook episode uses GDPR as a regulatory backdrop for Apple's privacy positioning against the data-industrial complex.
 - The Marketplace Tech AI Overview episode uses the [[EuropeanCommission]] as the regulator testing whether AI-search source use and publisher traffic effects raise competition concerns.
+- The April 13 Marketplace Tech source uses EU AI disclosure rules as a contrast case for U.S. marketers deciding whether and how to label AI-generated content.
 - The Brexit source uses EU exit to show that regulatory sovereignty can create room for experimentation while also adding trade and compliance barriers.
 - The Fear-jerker source treats Europe as an uneven but improving energy system where cooling access can become a health adaptation rather than only a moralized consumption choice.
 
@@ -38,5 +41,6 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 - [[Apple]], [[FrontierModelAccessRestrictions]], and [[SaaSReliabilityUnderPolicyRisk]] - regional AI availability context added by the Keji Luandun export-control episode.
 - [[ApplePrivacy]], [[TimCook]], and [[PlatformDataRegulation]] - GDPR and privacy-regulation context added by the Cook episode.
 - [[EuropeanCommission]], [[Google]], [[GoogleAIOverviews|Google AI Overviews]], [[AIAnswerSourceAttribution]], and [[PlatformAntitrust]] - AI-search competition context added by Marketplace Tech.
+- [[ColleenKirk]], [[AIContentProvenance]], [[AIGeneratedAdvertising]], and [[HumanAuthorshipPremium]] - AI-generated marketing disclosure context added by Marketplace Tech.
 - [[Brexit]], [[UnitedKingdom]], [[BrexitEconomicFriction]], and [[BrexitRegulatoryDividend]] - post-exit trade and policy-freedom context.
 - [[CoolingAsPublicHealth]] and [[ClimateAdaptation]] - heat, electricity, and public-health branch added by The Intelligence.

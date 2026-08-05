@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Is "made by humans" the new premium label?](sources/tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128.md) — Marketplace Tech episode with Colleen Kirk on AI-authorship labels, consumer authenticity, purchase intent, human-designed products, algorithm aversion, and when AI is accepted as an assisting tool rather than the author.
 - [Bytes: Week in Review - Are we in an AI bubble?](sources/tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128.md) — Marketplace Tech episode with David Kirsch on scoring the AI boom as a technology bubble, using uncertainty, novice investors, investable access, narratives, infrastructure timing, AGI expectations, and limited pure-play IPOs.
 - [A recycling startup joins the AI boom](sources/tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128.md) — Marketplace Tech episode on Redwood Materials using reused EV batteries for data-center power, with a 60 MWh / 12 MW Nevada project, Nvidia investment, and second-life battery storage as a response to AI power bottlenecks.
 - [Paul Graham on Y Combinator's Growth, Myths, and the AI Era](sources/tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio.md) — The Social Radars episode with Paul Graham on YC's organic growth, alumni word of mouth, Hacker News stress, the Peter Thiel controversy, Airbnb advice, Demo Day pitch compression, founder triage, Sam Altman's OpenAI transition, and AI-era startup advice.
@@ -673,6 +674,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Colleen Kirk](entities/ColleenKirk.md) — New York Institute of Technology professor explaining consumer resistance to AI-generated marketing, design, and emotionally meaningful products.
+- [New York Institute of Technology](entities/NewYorkInstituteOfTechnology.md) — Academic affiliation for Colleen Kirk in the Marketplace Tech episode on AI authorship and consumer authenticity.
+- [Genuine Fred](entities/GenuineFred.md) — Consumer-products company whose "designed in Rhode Island by people" label anchors Marketplace Tech's human-authorship premium discussion.
 - [David Kirsch](entities/DavidKirsch.md) — Historian and University of Maryland management professor applying technology-bubble history to the AI boom.
 - [University of Maryland](entities/UniversityOfMaryland.md) — Academic affiliation for David Kirsch in the Marketplace Tech AI-bubble episode.
 - [Bubbles and Crashes](entities/BubblesAndCrashes.md) — David Kirsch-associated book framework used by Marketplace Tech to evaluate AI bubble conditions.
@@ -4653,6 +4657,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Human Authorship Premium](concepts/HumanAuthorshipPremium.md) — Added trust, authenticity, or willingness to pay attached to work described as human-made or human-led in an AI-saturated market.
+- [Algorithm Aversion](concepts/AlgorithmAversion.md) — Consumer-behavior pattern where AI or algorithmic authorship is discounted in domains expected to involve human emotion, care, or judgment.
 - [Tech Bubble Conditions](concepts/TechBubbleConditions.md) — David Kirsch's four-part technology-bubble framework: uncertainty, novice investors, investable access, and powerful narratives.
 - [AGI Narrative](concepts/AGINarrative.md) — Investment and strategy story in which general artificial intelligence promises unforeseeable future opportunities and intensifies AI bubble dynamics.
 - [Second-Life EV Battery Storage](concepts/SecondLifeEVBatteryStorage.md) — Use of retired EV battery packs as stationary storage for data centers and other power-constrained infrastructure.

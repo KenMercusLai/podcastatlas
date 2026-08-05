@@ -2,8 +2,8 @@
 title: "AI-Generated Advertising"
 type: concept
 tags: [ai, advertising, synthetic-media, brands]
-sources: [tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # AI-Generated Advertising
@@ -11,6 +11,8 @@ last_updated: 2026-07-25
 AI-generated advertising is the use of generative models to produce brand campaigns, imagery, video, copy, or characters for public-facing marketing. [[tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]] adds the [[McDonaldsNetherlands]] Christmas ad as a mainstream brand example: the ad was disclosed as AI-made, looked convincing to some viewers, and was still pulled after backlash.
 
 [[tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128]] adds a quieter CPG version through [[Clorox]] and [[HiddenValleyRanch]]. Rather than a controversial full campaign, the source describes generative AI creating simple web ad variants, making advertising generation part of [[AIWorkflowTriage]] and [[BusinessLedAITransformation]].
+
+[[tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128]] adds the consumer-research version through [[ColleenKirk]]. Kirk says AI-generated marketing communications can reduce perceived authenticity, trust, purchase intent, and positive word of mouth, but the penalty depends on authorship framing: human-created messages with AI assistance are received differently from AI-created messages that humans merely edit.
 
 The concept sits between production economics and trust. AI can lower creative-production cost and speed up experimentation, but brand advertising depends on audience expectations, labor norms, and whether people see synthetic media as clever, cheap, deceptive, or disrespectful.
 
@@ -20,6 +22,7 @@ The concept sits between production economics and trust. AI can lower creative-p
 - AI-generated ads can blur the line between filmed scenes and synthetic scenes, making [[AIContentProvenance]] more important for everyday media.
 - Mainstream entertainment companies such as [[TheWaltDisneyCompany]] can normalize synthetic media, but recognizable IP raises ownership and permission questions.
 - Generated ad variants can be lower-risk when they are bounded, reviewed, and tied to ordinary campaign testing rather than released as a major synthetic brand statement.
+- Human-led AI assistance can be less damaging than AI-led authorship when consumers care about authenticity or emotional connection.
 
 ## Connections
 - [[McDonaldsNetherlands]] - source case.
@@ -28,3 +31,4 @@ The concept sits between production economics and trust. AI can lower creative-p
 - [[TheWaltDisneyCompany]], [[OpenAI]], and [[IPOwnership]] - entertainment-IP and generative-media context.
 - [[AIBacklashPolitics]] - broader public-resistance branch.
 - [[Clorox]], [[HiddenValleyRanch]], [[AIVisualMerchandising]], and [[BusinessLedAITransformation]] - CPG ad-variant branch added by Marketplace Tech.
+- [[ColleenKirk]], [[HumanAuthorshipPremium]], [[AlgorithmAversion]], and [[AIAssistantAugmentation]] - consumer-research and human-led tool-use branch added by Marketplace Tech.

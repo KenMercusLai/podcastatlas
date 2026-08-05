@@ -2187,6 +2187,10 @@
     "title": "Alfred 林童雨",
     "url": "/wiki/entities/alfredlintongyu/"
   },
+  "AlgorithmAversion": {
+    "title": "Algorithm Aversion",
+    "url": "/wiki/concepts/algorithmaversion/"
+  },
   "AlgorithmicAngerEngagement": {
     "title": "Algorithmic Anger Engagement",
     "url": "/wiki/concepts/algorithmicangerengagement/"
@@ -5934,6 +5938,10 @@
   "CollateralPunishmentAndGuiltByAssociation": {
     "title": "Collateral Punishment And Guilt By Association",
     "url": "/wiki/concepts/collateralpunishmentandguiltbyassociation/"
+  },
+  "ColleenKirk": {
+    "title": "Colleen Kirk",
+    "url": "/wiki/entities/colleenkirk/"
   },
   "CollegeCareerPreparation": {
     "title": "College Career Preparation",
@@ -10663,6 +10671,10 @@
     "title": "Gentle Souls",
     "url": "/wiki/entities/gentlesouls/"
   },
+  "GenuineFred": {
+    "title": "Genuine Fred",
+    "url": "/wiki/entities/genuinefred/"
+  },
   "GeoffreyWinthropYoung": {
     "title": "Geoffrey Winthrop Young",
     "url": "/wiki/entities/geoffreywinthropyoung/"
@@ -12314,6 +12326,10 @@
   "HumanAgentCollaboration": {
     "title": "Human-Agent Collaboration",
     "url": "/wiki/concepts/humanagentcollaboration/"
+  },
+  "HumanAuthorshipPremium": {
+    "title": "Human Authorship Premium",
+    "url": "/wiki/concepts/humanauthorshippremium/"
   },
   "HumanConnectionUnderAI": {
     "title": "Human Connection Under AI",
@@ -17950,6 +17966,10 @@
   "NewSpot": {
     "title": "NewSpot",
     "url": "/wiki/entities/newspot/"
+  },
+  "NewYorkInstituteOfTechnology": {
+    "title": "New York Institute of Technology",
+    "url": "/wiki/entities/newyorkinstituteoftechnology/"
   },
   "NewYorkTimes": {
     "title": "New York Times",
@@ -29794,6 +29814,10 @@
   "tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128": {
     "title": "Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space",
     "url": "/wiki/sources/tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128/"
+  },
+  "tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128": {
+    "title": "Is \\\"made by humans\\\" the new premium label?",
+    "url": "/wiki/sources/tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128/"
   },
   "tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128": {
     "title": "One way to avoid AI altogether? Retire early",
