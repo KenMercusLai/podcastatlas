@@ -835,6 +835,10 @@
     "title": "77.她是自由的野狗，她是法拉奇",
     "url": "/wiki/sources/77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187/"
   },
+  "78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000": {
+    "title": "78.西方决斗史：出剑吧！为了荣誉！",
+    "url": "/wiki/sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000/"
+  },
   "82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589": {
     "title": "82.闲聊伟大作家的八卦（第二弹）",
     "url": "/wiki/sources/82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589/"
@@ -1691,6 +1695,10 @@
     "title": "Aaron Burns",
     "url": "/wiki/entities/aaronburns/"
   },
+  "AaronBurr": {
+    "title": "Aaron Burr / 阿伦·伯尔",
+    "url": "/wiki/entities/aaronburr/"
+  },
   "AaronCheung": {
     "title": "Aaron Cheung",
     "url": "/wiki/entities/aaroncheung/"
@@ -2371,6 +2379,10 @@
     "title": "Alexander McQueen / 亚历山大·麦昆",
     "url": "/wiki/entities/alexandermcqueen/"
   },
+  "AlexanderPushkin": {
+    "title": "Alexander Pushkin / 普希金",
+    "url": "/wiki/entities/alexanderpushkin/"
+  },
   "AlexandrWang": {
     "title": "Alexandr Wang",
     "url": "/wiki/entities/alexandrwang/"
@@ -2758,6 +2770,10 @@
   "AndrewGrove": {
     "title": "Andrew Grove",
     "url": "/wiki/entities/andrewgrove/"
+  },
+  "AndrewJackson": {
+    "title": "Andrew Jackson / 安德鲁·杰克逊",
+    "url": "/wiki/entities/andrewjackson/"
   },
   "AndrewJohnson": {
     "title": "Andrew Johnson",
@@ -5922,6 +5938,10 @@
   "ChipWar": {
     "title": "Chip War",
     "url": "/wiki/entities/chipwar/"
+  },
+  "ChivalricTournamentCulture": {
+    "title": "Chivalric Tournament Culture / 骑士比武文化",
+    "url": "/wiki/concepts/chivalrictournamentculture/"
   },
   "Chobani": {
     "title": "Chobani",
@@ -9571,6 +9591,10 @@
     "title": "Evan Semet",
     "url": "/wiki/entities/evansemet/"
   },
+  "EvaristeGalois": {
+    "title": "Evariste Galois / 伽罗瓦",
+    "url": "/wiki/entities/evaristegalois/"
+  },
   "EventContractManipulationRisk": {
     "title": "Event Contract Manipulation Risk",
     "url": "/wiki/concepts/eventcontractmanipulationrisk/"
@@ -10046,6 +10070,10 @@
   "FemaleCivilizingPower": {
     "title": "Female Civilizing Power",
     "url": "/wiki/concepts/femalecivilizingpower/"
+  },
+  "FemaleDuelAgency": {
+    "title": "Female Duel Agency / 女性决斗主体性",
+    "url": "/wiki/concepts/femaleduelagency/"
   },
   "FemaleOralStorytelling": {
     "title": "Female Oral Storytelling / 女性口头叙事",
@@ -12687,6 +12715,10 @@
     "title": "Henry Harteveldt",
     "url": "/wiki/entities/henryharteveldt/"
   },
+  "HenryIIOfFrance": {
+    "title": "Henry II of France / 亨利二世",
+    "url": "/wiki/entities/henryiioffrance/"
+  },
   "HenryLaufer": {
     "title": "Henry Laufer",
     "url": "/wiki/entities/henrylaufer/"
@@ -13042,6 +13074,10 @@
   "Honor": {
     "title": "Honor",
     "url": "/wiki/entities/honor/"
+  },
+  "HonorDuelCulture": {
+    "title": "Honor Duel Culture / 荣誉决斗文化",
+    "url": "/wiki/concepts/honorduelculture/"
   },
   "HonoreDeBalzac": {
     "title": "Honore de Balzac / 巴尔扎克",
@@ -14867,6 +14903,10 @@
     "title": "John Fisher",
     "url": "/wiki/entities/johnfisher/"
   },
+  "JohnGideonMillingen": {
+    "title": "John Gideon Millingen / 约翰·基甸·米林根",
+    "url": "/wiki/entities/johngideonmillingen/"
+  },
   "JohnHarvey": {
     "title": "John Harvey",
     "url": "/wiki/entities/johnharvey/"
@@ -15071,6 +15111,10 @@
     "title": "Juan Salvador / 胡安·萨尔瓦多",
     "url": "/wiki/entities/juansalvadorpenguin/"
   },
+  "JudicialDuel": {
+    "title": "Judicial Duel / 司法决斗",
+    "url": "/wiki/concepts/judicialduel/"
+  },
   "JudicialIndependencePublicOpinion": {
     "title": "Judicial Independence And Public Opinion",
     "url": "/wiki/concepts/judicialindependencepublicopinion/"
@@ -15098,6 +15142,10 @@
   "JulianWeber": {
     "title": "Julian Weber",
     "url": "/wiki/entities/julianweber/"
+  },
+  "JulieDAubigny": {
+    "title": "Julie d'Aubigny / Mademoiselle de Maupin / 莫庞小姐",
+    "url": "/wiki/entities/juliedaubigny/"
   },
   "JulieWainwright": {
     "title": "Julie Wainwright",
@@ -21859,6 +21907,10 @@
     "title": "Problem Industrialization",
     "url": "/wiki/concepts/problemindustrialization/"
   },
+  "ProceduralizedViolence": {
+    "title": "Proceduralized Violence / 程序化暴力",
+    "url": "/wiki/concepts/proceduralizedviolence/"
+  },
   "ProcurementLedTechnologyTransfer": {
     "title": "Procurement-Led Technology Transfer",
     "url": "/wiki/concepts/procurementledtechnologytransfer/"
@@ -23170,6 +23222,10 @@
   "RichardBranson": {
     "title": "Richard Branson",
     "url": "/wiki/entities/richardbranson/"
+  },
+  "RichardBrinsleySheridan": {
+    "title": "Richard Brinsley Sheridan / 谢里丹",
+    "url": "/wiki/entities/richardbrinsleysheridan/"
   },
   "RichardDawkins": {
     "title": "Richard Dawkins / 理查德·道金斯",
@@ -27663,6 +27719,10 @@
     "title": "Trevor Blackwell",
     "url": "/wiki/entities/trevorblackwell/"
   },
+  "TrialByOrdeal": {
+    "title": "Trial By Ordeal / 神裁法",
+    "url": "/wiki/concepts/trialbyordeal/"
+  },
   "TrialSizeProduct": {
     "title": "Trial Size Product",
     "url": "/wiki/concepts/trialsizeproduct/"
@@ -28927,6 +28987,10 @@
     "title": "Wealthfront",
     "url": "/wiki/entities/wealthfront/"
   },
+  "WeaponTechnologyDuelLethality": {
+    "title": "Weapon Technology And Duel Lethality / 武器技术与决斗致命性",
+    "url": "/wiki/concepts/weapontechnologyduellethality/"
+  },
   "WearableAIAssistant": {
     "title": "Wearable AI Assistant",
     "url": "/wiki/concepts/wearableaiassistant/"
@@ -29638,6 +29702,10 @@
   "XieXiaoqing": {
     "title": "Xie Xiaoqing / 谢晓清",
     "url": "/wiki/entities/xiexiaoqing/"
+  },
+  "XifangJuedouShi": {
+    "title": "《西方决斗史》 / The History of Duelling",
+    "url": "/wiki/entities/xifangjuedoushi/"
   },
   "XimenQing": {
     "title": "西门庆 / Ximen Qing",

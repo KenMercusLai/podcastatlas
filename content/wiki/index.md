@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [78.西方决斗史：出剑吧！为了荣誉！](sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000.md) — 蜜獾吃书 episode on Western dueling as judicial ordeal, chivalric spectacle, honor culture, proceduralized violence, women duelists, weapon lethality, and U.S. political duels.
 - [77.她是自由的野狗，她是法拉奇](sources/77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187.md) — 蜜獾吃书 episode on Oriana Fallaci, 《我不相信神话》, anti-fascist childhood, political interviewing, Khomeini, Pahlavi, Tlatelolco, Panagoulis, AFTRA, and freedom as dignity.
 - [Vol.114 AI的2025和DeepSeek们的未来 | 对谈复旦张奇教授](sources/vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo.md) — 起朱楼宴宾客 episode with Zhang Qi on DeepSeek, LLM statistical limits, post-training, scenario-specific AI products, AI search, contact-center AI, and 2025 agents.
 - [Vol.111 关于2025年的四个猜想](sources/vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g.md) — 起朱楼宴宾客 annual-prediction episode on China debt resolution, Trump domestic-state reform, anti-involution, and divergent Chinese technology routes.
@@ -727,6 +728,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《西方决斗史》 / The History of Duelling](entities/XifangJuedouShi.md) — Millingen book used by episode 78 to separate judicial duel, chivalric tournament, and honor duel culture.
+- [John Gideon Millingen / 约翰·基甸·米林根](entities/JohnGideonMillingen.md) — Nineteenth-century doctor, military surgeon, and dueling-history author read critically by episode 78.
+- [Andrew Jackson / 安德鲁·杰克逊](entities/AndrewJackson.md) — U.S. president used by episode 78 as a high-frequency duelist and American honor-culture example.
+- [Aaron Burr / 阿伦·伯尔](entities/AaronBurr.md) — U.S. vice president whose fatal duel with Alexander Hamilton anchors episode 78's American political-dueling branch.
+- [Alexander Pushkin / 普希金](entities/AlexanderPushkin.md) — Literary dueling case used by episode 78 to show reputation, romance, and rumor turning deadly.
+- [Evariste Galois / 伽罗瓦](entities/EvaristeGalois.md) — Mathematician whose fatal duel is used by episode 78 as a compact case of intellectual life destroyed by honor logic.
+- [Richard Brinsley Sheridan / 谢里丹](entities/RichardBrinsleySheridan.md) — Writer and politician used by episode 78 to show dueling apologies, public humiliation, and renewed conflict.
+- [Julie d'Aubigny / Mademoiselle de Maupin / 莫庞小姐](entities/JulieDAubigny.md) — Opera performer and duelist used by episode 78 to make women visible as actors inside honor violence.
+- [Henry II of France / 亨利二世](entities/HenryIIOfFrance.md) — French king used by episode 78 for tournament danger and the transition from supervised duel to honor-duel culture.
 - [Oriana Fallaci / 奥利亚娜·法拉奇](entities/OrianaFallaci.md) — Journalist and writer read through anti-fascist childhood, political interviews, war witness, love, controversy, and freedom as dignity.
 - [《我不相信神话》](entities/WoBuXiangxinShenhua.md) — Fallaci text collection used by episode 77 to preserve her own voice rather than a smooth authorized biography.
 - [Alexandros Panagoulis / 亚历山德罗斯·帕纳古利斯](entities/AlexandrosPanagoulis.md) — Greek resistance figure and Fallaci's central love, used by the episode to make refusal and dignity concrete.
@@ -5022,6 +5032,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Honor Duel Culture / 荣誉决斗文化](concepts/HonorDuelCulture.md) — Social system where insult, reputation, witnesses, courage, and weapon risk make private honor publicly legible.
+- [Judicial Duel / 司法决斗](concepts/JudicialDuel.md) — Formal combat procedure rooted in divine judgment and legal authority before later honor dueling.
+- [Trial By Ordeal / 神裁法](concepts/TrialByOrdeal.md) — Religious-legal truth test where bodily danger is interpreted as divine evidence.
+- [Proceduralized Violence / 程序化暴力](concepts/ProceduralizedViolence.md) — Dueling paradox where rules, seconds, witnesses, and weapons make violence legible without making it safe.
+- [Chivalric Tournament Culture / 骑士比武文化](concepts/ChivalricTournamentCulture.md) — Noble spectacle and military-practice culture that helped feed later honor duels.
+- [Weapon Technology And Duel Lethality / 武器技术与决斗致命性](concepts/WeaponTechnologyDuelLethality.md) — How swords, pistols, rifling, and novel technologies alter the risk of dueling rituals.
+- [Female Duel Agency / 女性决斗主体性](concepts/FemaleDuelAgency.md) — Frame for women as duel combatants and reputation actors rather than only protected objects in honor culture.
 - [Power Myth Deflation / 权力神话拆解](concepts/PowerMythDeflation.md) — Fallaci-derived concept for refusing to treat rulers, revolutions, institutions, or journalists themselves as sacred figures.
 - [Freedom As Dignity / 自由作为尊严](concepts/FreedomAsDignity.md) — Episode 77 frame where freedom is impossible in absolute form but remains necessary because dignity depends on the capacity to refuse domination.
 - [Journalistic Independence Against Faction / 拒绝站队的新闻独立](concepts/JournalisticIndependenceAgainstFaction.md) — Reporting ethic in which Fallaci's truth standard cuts across left/right, ruler/opposition, and approved/protective institution lines.
