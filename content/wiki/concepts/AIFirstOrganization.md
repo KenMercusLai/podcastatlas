@@ -2,8 +2,8 @@
 title: "AI-First Organization"
 type: concept
 tags: [ai, organizations, management]
-sources: [openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]
-last_updated: 2026-07-23
+sources: [openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]
+last_updated: 2026-08-05
 ---
 
 # AI-First Organization
@@ -16,6 +16,8 @@ The source presents [[Creo]] as an internal case: engineering, testing, go-to-ma
 
 [[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] adds [[SlockAI|Slock.ai]] as a many-agent AI-first organization case. [[RC]] says the company uses about forty agents around seven people, which makes [[AgentDynamics]], [[AgentTaskClaiming]], shared memory, and model-specific roles part of the operating model rather than auxiliary tooling.
 
+[[youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]] adds [[Albert]]'s stricter new-project experiment: no human-written code, with engineering work pushed into AI execution and humans responsible for requirements, review, and organization logic. The source reinforces that AI-first organization is not only adoption of tools; it changes who writes specifications and where human judgment sits.
+
 ## Key Claims
 - AI-first work changes trust: the organization has to decide when to trust AI planning, execution, and recommendations, then add guardrails that make that trust inspectable.
 - Implementation speed can reverse old bottlenecks. Engineering may produce more features than go-to-market can position, sell, or time for the market.
@@ -25,6 +27,7 @@ The source presents [[Creo]] as an internal case: engineering, testing, go-to-ma
 - AI-first organization design does not remove humans; it concentrates human responsibility around direction, review, trust, and value choices.
 - Small AI-first teams may treat token budget as a substitute for some hiring, but only if [[AICodingVerification]] and human product judgment keep output useful.
 - An AI-first organization may have to manage an agent workforce directly, with norms, task ownership, shared context, and identity cues for nonhuman coworkers.
+- A zero-human-code project is possible only if requirements, architecture, testing, and review become explicit enough for agents to carry implementation.
 
 ## Connections
 - [[AIOrganizationDesign]] - broader organization-design field this concept specializes.
@@ -35,3 +38,4 @@ The source presents [[Creo]] as an internal case: engineering, testing, go-to-ma
 - [[OrganizationalContext]], [[AgentFacingInterfaces]], and [[GeneratedWorkInterfaces]] - information and interface substrate needed for agents to coordinate work.
 - [[Sheet0]], [[WangWenfeng]], [[AIManagingAI]], and [[AIInferenceCostStructure]] — high-token small-team case added by the 42章经 source.
 - [[SlockAI|Slock.ai]], [[RC]], [[AgentDynamics]], and [[AgentOrganizationalCulture]] — many-agent operating case added by the RC episode.
+- [[Albert]], [[CodingDemocratization]], and [[TheoreticalOperatingStandard]] — zero-human-code and operating-standard branch added by the Albert episode.

@@ -2,8 +2,8 @@
 title: "Duan Yongping"
 type: entity
 tags: [person, investing, business-principles]
-sources: [ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]
-last_updated: 2026-07-17
+sources: [ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]
+last_updated: 2026-08-05
 ---
 
 # Duan Yongping
@@ -16,6 +16,8 @@ The source uses Duan to connect options back to value-investing intent: the stra
 
 [[no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]] adds Duan's consumer-electronics organization branch. The episode connects him from Xiaobawang into [[BBK]], then explains how BBK's split businesses became the roots of [[OPPO]] and [[Vivo]] and their [[OfflineHandsetChannelSystem]].
 
+[[youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]] adds Duan as [[Albert]]'s example of [[WinRateStartupStrategy]] and [[TheoreticalOperatingStandard]]. Albert connects Duan's business and investment thinking to simple underlying questions such as right business, right people, culture, strategy, and management.
+
 ## Connections
 - [[OptionSellingDiscipline]] — main strategy frame.
 - [[WarrenBuffett]] — earlier put-selling comparison in the episode.
@@ -23,3 +25,4 @@ The source uses Duan to connect options back to value-investing intent: the stra
 - [[InvestmentRiskManagement]] — collateral, willingness, and position size define whether the trade is disciplined.
 - [[Benfen]], [[KnowingEnough]], and [[InvestmentForBetterLife]] — E44's business-practice and life-practice extension.
 - [[BBK]], [[OPPO]], [[Vivo]], and [[OfflineHandsetChannelSystem]] — smartphone-channel and organization branch added by episode 210.
+- [[WinRateStartupStrategy]], [[TheoreticalOperatingStandard]], and [[Albert]] — source-scoped business-principle extension from the 42章经 episode.

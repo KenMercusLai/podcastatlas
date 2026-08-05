@@ -2,8 +2,8 @@
 title: "Replit"
 type: entity
 tags: [company, developer-tools, ai-coding]
-sources: [tsr-s3-replit-v2-tsr-s3-replit-v2, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
-last_updated: 2026-07-23
+sources: [tsr-s3-replit-v2-tsr-s3-replit-v2, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]
+last_updated: 2026-08-05
 ---
 
 # Replit
@@ -16,9 +16,12 @@ The source also makes Replit a case in [[ConsumerGradeDeveloperInfrastructure]].
 
 Replit appears in [[tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]] through [[PaulGraham]]'s memory of an early AI-coding demo by Amjad. Graham says the demo generated code rapidly enough that Amjad told him not to focus on the emitted code itself, comparing it to object code rather than the thing a human should directly inspect first. This later source turns Replit into a [[VibeCoding]] example, while the Season 3 source shows that AI coding was already part of a longer master plan about making programming accessible.
 
+[[youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]] adds Replit as one possible product-manager or builder-oriented container for [[CodingDemocratization]]. [[Albert]]'s comparison with [[Cursor]] and [[Lovable]] makes Replit part of the question of which user group receives coding power and what surrounding product experience they need.
+
 ## Connections
 - [[AmjadMasad]] and [[HayaOdeh]] - founder and product-design context.
 - [[Codecademy]], [[Facebook]], [[ReactNative]], and [[HackerNews]] - early work, career path, and distribution context.
 - [[YCombinator]], [[SamAltman]], [[PaulGraham]], and [[TheSocialRadars]] - accelerator and source context.
 - [[AccessibleProgrammingPlatform]], [[ConsumerGradeDeveloperInfrastructure]], [[DesignLedGrowth]], and [[StartupLegitimacyTransfer]] - company-origin concepts.
 - [[VibeCoding]], [[AIProgrammingEngineShift]], and [[AICodingVerification]] - later AI-coding concepts sharpened by the Replit example.
+- [[Albert]], [[CodingDemocratization]], [[Cursor]], and [[Lovable]] - AI coding container comparison added by the 42章经 source.

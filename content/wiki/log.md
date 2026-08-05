@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-05] ingest | 优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert
+
+Added source page for a 42章经 episode with Albert on optimizing startup win rate rather than odds, AI interactive content limits, user-modality-content fit, Hexfield-style model capability packaging, coding democratization, multimodal understanding, and operating to a theoretical standard. Created pages for Albert, Hexfield, Lovable, Huang Zheng, Win-Rate Startup Strategy, Odds-Driven Startup Narrative, Coding Democratization, Model Capability Packaging, User-Modality-Content Fit, AI-Generated Content Quality Gap, and Theoretical Operating Standard; updated overview, index, 42章经, Product Container, AI Interactive Content Platforms, Multimodal Intelligence, Coding Agent As Universal Action Layer, AI Programming Engine Shift, AI-First Organization, Startup High-Beta Bet, Zhang Yiming, Duan Yongping, Wang Xing, Cursor, and Replit. No direct contradiction found; the source qualifies high-upside AI platform narratives by arguing that strong founders improve win rate through real user problems, ready-enough technology, product containers, accumulated advantages, and controllable execution.
+
 ## [2026-08-05] ingest | A whiplash year for electric vehicles
 
 Added source page for a Marketplace Tech episode on U.S. EV sales after federal tax credits expired at the end of September 2025. Created pages for Henry Epp, EV Tax Credit Cliff, Used EV Affordability, and EV Charging Infrastructure; updated overview, index, Marketplace Tech, Cox Automotive, Electric Vehicle Price Parity, Economic Climate Tech Adoption, United States, China, European Union, Ford Motor Company, General Motors, Tesla, Walmart, How We Survive, and Amy Scott. No direct contradiction found; the source reinforces the existing EV price-parity branch while adding a subsidy-timing, used-market, automaker-pullback, and charging-infrastructure layer.
@@ -5496,3 +5500,7 @@ Added source page for a 42章经 episode with Yuhao on Kuse, Junior, and the Ope
 ## [2026-08-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 7,734 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.

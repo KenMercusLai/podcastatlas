@@ -11,6 +11,7 @@ sources:
   - openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z
   - yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy
   - women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv
+  - youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2
 last_updated: 2026-08-05
 ---
 
@@ -34,6 +35,8 @@ The RC episode adds a second agent-product branch through [[RC]], [[SlockAI|Sloc
 
 The Yuhao episode adds [[Kuse]] and [[Junior]] as the enterprise-team branch of the same agent discussion. It reframes [[OpenClaw]]/[[OpenCloud]]-style products for companies through [[OpenClawForTeams]], [[DigitalEmployees]], [[EnterpriseAgentMemory]], [[AgentEvaluationBenchmarks]], and salary-like [[OutcomeBasedAIPricing]].
 
+The Albert episode adds a founder-method and AI product-judgment branch. [[Albert]] contrasts [[OddsDrivenStartupNarrative]] with [[WinRateStartupStrategy]], then applies that distinction to [[AIInteractiveContentPlatforms]], [[AIGeneratedContentQualityGap]], [[UserModalityContentFit]], [[Hexfield]], [[ModelCapabilityPackaging]], [[CodingDemocratization]], and [[TheoreticalOperatingStandard]].
+
 ## Connections
 - [[ZhuNing]] — guest economist in the episode.
 - [[BubbleNecessaryConditions]], [[BehavioralInvestingBiases]], and [[SpeculativeBubblePsychology]] — main behavioral-finance frame.
@@ -49,3 +52,4 @@ The Yuhao episode adds [[Kuse]] and [[Junior]] as the enterprise-team branch of 
 - [[WangWenfeng]], [[Sheet0]], [[AIManagingAI]], and [[CodingAgentAsUniversalActionLayer]] — post-OpenClaw coding-agent and AI-managed-workflow branch.
 - [[RC]], [[SlockAI|Slock.ai]], [[KimiCLI|Kimi CLI]], and [[AgentDynamics]] — multi-agent organization and collaboration branch added by the RC episode.
 - [[Kuse]], [[Yuhao]], [[Junior]], and [[OpenClawForTeams]] — AI-employee and team-agent product branch added by the Yuhao episode.
+- [[Albert]], [[WinRateStartupStrategy]], [[CodingDemocratization]], and [[Hexfield]] — founder-method, AI coding, and image/video product branch added by the Albert source.

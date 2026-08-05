@@ -2,8 +2,8 @@
 title: "Zhang Yiming"
 type: entity
 tags: [person, founder, bytedance]
-sources: [touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]
-last_updated: 2026-07-09
+sources: [touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]
+last_updated: 2026-08-05
 ---
 
 # Zhang Yiming
@@ -16,9 +16,12 @@ For the wiki, Zhang matters less as a biography than as the founder lens on Byte
 
 [[faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]] adds Zhang through the local-life ROI question. The hosts recount him pressing whether the same traffic would earn more if allocated to ads or ecommerce, making him the founder-level voice for why even strategically attractive businesses such as [[Doushenshen]] and Douyin local life must pass an opportunity-cost test.
 
+[[youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]] adds Zhang as [[Albert]]'s example of [[WinRateStartupStrategy]]. Albert says Zhang had long watched search and information distribution from the end of the PC internet era before entering short video when conditions were more favorable, making [[Douyin]] look less like a pure [[OddsDrivenStartupNarrative]] and more like accumulated preparation meeting timing.
+
 ## Connections
 - [[ByteDance]], [[Douyin]], and [[TikTok]] — company and product context.
 - [[PonyMa]], [[Tencent]], and [[WeChat]] — counterpart in the public conflict.
 - [[ToutengWar]] and [[ContentEcosystemGovernance]] — event and governance context.
 - [[ByteDanceGrowthSystem]], [[LTVBasedGrowthBudgeting]], and [[DataDrivenProductCulture]] — growth-system and authorization context added by episode 7.
 - [[Doushenshen]], [[CouponLedTransactionGrowth]], and [[GrowthROILayers]] — local-life ROI and opportunity-cost context added by episode 8.
+- [[WinRateStartupStrategy]], [[Albert]], and [[Douyin]] — founder-method example added by the 42章经 source.

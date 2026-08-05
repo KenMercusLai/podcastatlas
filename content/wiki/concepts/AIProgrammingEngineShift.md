@@ -2,8 +2,8 @@
 title: "AI Programming Engine Shift"
 type: concept
 tags: [ai-coding, software-engineering, labor, culture]
-sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]
-last_updated: 2026-07-23
+sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]
+last_updated: 2026-08-05
 ---
 
 # AI Programming Engine Shift
@@ -24,6 +24,8 @@ AI programming engine shift is the episode's metaphor that AI changes programmin
 
 [[tsr-s5-jared-v3final-tsr-s5-jared-v3final]] adds [[JaredFriedman]]'s YC partner version. He says AI has brought back some of the technical, experimental founder energy of 2005 and 2006, and that building [[YCInternalSoftware]] keeps partners close to bugs, databases, prompts, agents, and product decisions. The source treats the programming shift as institutional exposure as well as founder productivity.
 
+[[youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]] adds [[Albert]]'s [[CodingDemocratization]] formulation. He treats coding as a route for intelligence to act, while arguing that the product opportunity is to put that route into containers for programmers, designers, product managers, and other builders rather than only make existing engineers faster.
+
 ## Key Claims
 - AI coding can turn many small programming tasks into intent specification, review, and correction rather than line-by-line construction.
 - The value of programming skill may move from typing code toward problem framing, tool selection, decomposition, and [[AICodingVerification]].
@@ -40,6 +42,7 @@ AI programming engine shift is the episode's metaphor that AI changes programmin
 - Episode 136 adds that coding is not only a programming profession issue; it is a general digital-work substrate because code can express and execute solutions.
 - The Slock source adds that AI coding can separate product building from traditional code authorship, while still rewarding enough programming literacy to inspect, steer, and debug generated systems.
 - The Jared Friedman source adds that institutions advising founders may need to build with AI themselves to understand the new programming and agent workflow surface.
+- The Albert source adds that specification-following improvements can let non-engineers write more of the requirement and implementation surface, while engineers move toward review, architecture, and quality control.
 
 ## Connections
 - [[JaredFriedman]], [[YCombinator]], [[YCInternalSoftware]], and [[AIOrganizationDesign]] - YC partner and internal-tooling branch added by The Social Radars.
@@ -55,3 +58,4 @@ AI programming engine shift is the episode's metaphor that AI changes programmin
 - [[GLM5]], [[IntelligenceDevaluation]], and [[ProductLedWillingnessToPay]] - personal-product and labor-value extension from the Keji Luandun source.
 - [[AGIThreeActs]], [[MLCoding]], [[ClaudeCode]], [[Codex]], and [[ModelAsOperatingSystem]] - strategic coding-agent extension from episode 136.
 - [[KimiCLI]], [[RC]], [[SlockAI|Slock.ai]], and [[AgentOptimizedCLI]] - coding-agent and product-building extension from the Slock.ai source.
+- [[Albert]], [[CodingDemocratization]], [[Cursor]], [[Lovable]], and [[Replit]] - coding power distributed through different product containers.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert](sources/youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2.md) — 42章经 episode with Albert on optimizing startup win rate over odds, AI interactive content limits, Hexfield-style model packaging, coding democratization, multimodal understanding, and operating to a theoretical standard.
 - [A whiplash year for electric vehicles](sources/tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128.md) — Marketplace Tech episode with Henry Epp on the U.S. EV tax-credit cliff, pull-forward sales, October/November decline, new-vs-used EV price gaps, Ford/GM pullbacks, China/Europe comparison, and the 2026 watchlist around cheaper models and charging.
 - [AI-powered chatbots sent some users into a spiral](sources/tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128.md) — Marketplace Tech episode with Kashmir Hill on AI psychosis, ChatGPT validation loops, long-conversation guardrail decay, OpenAI safety changes, teen escalation, and caution around reported mental-health harms.
 - [华为的「韬定律」，是创新还是噱头？｜ Bonus](sources/huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5.md) — What's Next bonus episode with Zhang Haijun on Huawei's Tau Law, Cell-to-Cell logic stacking, EDA bottlenecks, advanced packaging, and why the claim is plausible but still needs product validation.
@@ -689,6 +690,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Albert](entities/Albert.md) — Consecutive entrepreneur and 42章经 guest connecting AI product exploration, win-rate startup strategy, coding democratization, and theoretical operating standards.
+- [Hexfield](entities/Hexfield.md) — AI image/video product used by Albert to explain model capability packaging, templates, role consistency, and user-perceived delivery.
+- [Lovable](entities/Lovable.md) — AI coding/building tool referenced by Albert as a designer-oriented container for coding democratization.
+- [黄峥 / Huang Zheng](entities/HuangZheng.md) — Founder example used by Albert to connect Pinduoduo and accumulated advantage to win-rate startup strategy.
 - [Kashmir Hill](entities/KashmirHill.md) — New York Times features writer explaining AI psychosis reporting, ChatGPT validation loops, and OpenAI long-conversation safety concerns on Marketplace Tech.
 - [Alan Brooks](entities/AlanBrooks.md) — Source-scoped case whose long ChatGPT math conversations illustrate AI psychosis, sycophantic validation, and chatbot feedback-loop risk.
 - [Adam Raine](entities/AdamRaine.md) — Source-scoped teen safety case connecting long ChatGPT conversations, self-harm escalation, parental notice, and guardrail decay concerns.
@@ -4740,6 +4745,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Win-Rate Startup Strategy / 优化胜率](concepts/WinRateStartupStrategy.md) — Founder-method frame for choosing real problems, ready-enough technology, accumulated advantages, and controllable execution before relying on large upside.
+- [Odds-Driven Startup Narrative / 优化赔率](concepts/OddsDrivenStartupNarrative.md) — Startup storytelling pattern where the possible payoff of an AI platform or network-effect company can outrun user evidence and execution control.
+- [Coding Democratization / Coding 平权](concepts/CodingDemocratization.md) — AI coding shift where code becomes a broader medium for programmers, designers, product builders, and teams to turn intent into working software.
+- [Model Capability Packaging](concepts/ModelCapabilityPackaging.md) — Application-layer skill of turning raw model strengths into workflows, templates, controls, and examples users perceive as valuable.
+- [User-Modality-Content Fit](concepts/UserModalityContentFit.md) — Product-form test requiring the target user, medium, and content type to reinforce one another.
+- [AI-Generated Content Quality Gap](concepts/AIGeneratedContentQualityGap.md) — Entertainment-product gap where easier AI generation still loses if the experience is weaker than incumbent games, feeds, or creator work.
+- [Theoretical Operating Standard / 理论上该有的样子](concepts/TheoreticalOperatingStandard.md) — Execution ethic of doing a chosen product or company as it should theoretically be, rather than stopping at slogans or imitation.
 - [AI Psychosis](concepts/AIPsychosis.md) — Reported chatbot safety pattern where long validating conversations can reinforce delusional, grandiose, supernatural, or self-harm-related beliefs.
 - [Autonomous Vehicle Regulatory Patchwork](concepts/AutonomousVehicleRegulatoryPatchwork.md) — Fragmented state, city, and federal oversight environment shaping robotaxi permits, design exemptions, and local deployment strategy.
 - [Robotaxi Local Acceptance](concepts/RobotaxiLocalAcceptance.md) — City-level trust, nuisance, protest, and operating-friction layer that determines whether robotaxis feel like useful infrastructure or imposed disruption.
