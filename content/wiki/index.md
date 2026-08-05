@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [27.希区柯克已在您桌下安置炸弹](sources/27-xiqukeke-yizai-nin-zhuoxia-anzhi-zhadan-582370829.md) — 蜜獾吃书 episode on Alfred Hitchcock, Psycho, MacGuffin, bomb-under-table suspense, narrative misdirection, and Hitchcockian moral irony in short-story reversals.
 - [26.牛顿与伪币制造者：可能是斯内普的原型？](sources/26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317.md) — 蜜獾吃书 episode on Isaac Newton, 《牛顿与伪币制造者》, the Royal Mint, the Great Recoinage, William Chaloner, counterfeiting, alchemy, and Newton as scientist-bureaucrat.
 - [一条节目说明，希望各位听众能够听完](sources/yi-tiao-jiemu-shuoming-xiwang-gewei-tingzhong-nenggou-tingwan-578621335.md) — 蜜獾吃书 short notice on a prepared episode failing review on some platforms, alternate listening routes, weekly update expectations, and platform-review friction.
 - [24.捍卫雅各布：相信你是我唯一的执念](sources/24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441.md) — 蜜獾吃书 episode on William Landay's 《捍卫雅各布》, legal proof versus truth, parental defense, inherited violence, forensic ambiguity, and first-person moral alignment.
@@ -700,6 +701,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《惊魂记》 / Psycho](entities/PsychoFilm.md) — Hitchcock film used by 蜜獾吃书 to explain MacGuffin and narrative misdirection through the stolen-money opening and motel mystery.
 - [《牛顿与伪币制造者》 / Newton and the Counterfeiter](entities/NewtonAndTheCounterfeiter.md) — Book discussed by 蜜獾吃书 as a Newton biography, Royal Mint crime story, and monetary-history case.
 - [Isaac Newton / 牛顿](entities/IsaacNewton.md) — Scientist and Royal Mint official read through genius, religious seriousness, alchemy, recoinage, prosecution, and financial fallibility.
 - [William Chaloner / 查罗纳](entities/WilliamChaloner.md) — Skilled counterfeiter and informant-manipulator whose case turns Newton's Royal Mint role into a crime-history narrative.
@@ -4830,6 +4832,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [MacGuffin / 麦格芬](concepts/MacGuffin.md) — Suspense device where an object, secret, or question drives action and curiosity without necessarily remaining the story's final center.
+- [桌下炸弹悬念 / Bomb-Under-Table Suspense](concepts/BombUnderTableSuspense.md) — Hitchcockian information-design rule where known but unresolved danger creates sustained anxiety.
+- [Narrative Misdirection / 叙事误导](concepts/NarrativeMisdirection.md) — Story technique that directs attention toward a plausible provisional center, then makes earlier details read differently after a reveal.
+- [Hitchcockian Moral Irony / 希区柯克式道德反讽](concepts/HitchcockianMoralIrony.md) — Pattern where morally compromised characters are trapped or exposed by the clever plans and desires they set in motion.
 - [Scientific Revolution Social Infrastructure](concepts/ScientificRevolutionSocialInfrastructure.md) — Frame for Newton's achievements as both individual genius and product of instruments, data, institutions, correspondence, and trusted evaluators.
 - [Great Recoinage / 大重铸](concepts/GreatRecoinage.md) — English monetary repair effort responding to clipped coins, counterfeit pressure, silver outflow, and coinage production limits.
 - [Gresham's Law / 劣币驱逐良币](concepts/GreshamsLaw.md) — Mechanism where inferior money circulates while better money is hoarded, melted, or exported under equal legal face value.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-05] ingest | 27.希区柯克已在您桌下安置炸弹
+
+Added source page for a 蜜獾吃书 episode on Alfred Hitchcock, 《惊魂记》 / Psycho, MacGuffin, bomb-under-table suspense, narrative misdirection, and Hitchcockian moral irony across several short-story reversals. Created pages for 《惊魂记》 / Psycho, MacGuffin, Bomb-Under-Table Suspense, Narrative Misdirection, and Hitchcockian Moral Irony; updated overview, index, 蜜獾吃书, 秦总, Alfred Hitchcock, Black Comic Moral Inversion, Moral Suspension In Art Reading, and Classic Reading Complexity. No direct contradiction found; the source complements the earlier Hitchcock biography/gossip page by shifting from director myth and set power to suspense mechanics and story structure.
+
 ## [2026-08-05] ingest | 一条节目说明，希望各位听众能够听完
 
 Added source page for a 蜜獾吃书 short notice about a prepared episode failing review on some platforms while passing on others, alternate listening routes, the host's apology, and a weekly-update expectation that missing Wednesday updates may indicate review failure. Created Podcast Platform Review; updated overview, index, 蜜獾吃书, Podcast Release Cadence, and Podcast As Asynchronous Media. No direct contradiction found; the 2022-10-20 Wednesday expectation is chronologically compatible with the later 2023-06-27 schedule-change notice.
@@ -5584,6 +5588,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-05] ingest | 26.牛顿与伪币制造者：可能是斯内普的原型？
 
 Added source page for a 蜜獾吃书 episode on 《牛顿与伪币制造者》, Isaac Newton, the Royal Mint, the Great Recoinage, and William Chaloner. Created pages for Newton, Chaloner, the Royal Mint, the discussed book, Locke, Halley, Hooke, Huygens, the Royal Society, the Bank of England, the South Sea Company, Severus Snape, Scientific Revolution Social Infrastructure, Great Recoinage, Gresham's Law, Counterfeit Currency Policing, Scientist As State Bureaucrat, and Newtonian Alchemy Theology; updated overview, index, MihuanChishu, Currency Credit, Alchemy-Chemistry Continuity, Historical Detective Reasoning, Self-Experimentation, and Robert Boyle. No direct contradiction found; the source extends currency-trust and science-history branches while qualifying the Snape comparison as analogy rather than proof of literary influence.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-05] lint | Wiki health check
 

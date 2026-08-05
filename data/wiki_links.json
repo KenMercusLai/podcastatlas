@@ -575,6 +575,10 @@
     "title": "269.真人短剧的下一战：与AI共生、工业化和好故事",
     "url": "/wiki/sources/269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt/"
   },
+  "27-xiqukeke-yizai-nin-zhuoxia-anzhi-zhadan-582370829": {
+    "title": "27.希区柯克已在您桌下安置炸弹",
+    "url": "/wiki/sources/27-xiqukeke-yizai-nin-zhuoxia-anzhi-zhadan-582370829/"
+  },
   "361Degrees": {
     "title": "361 Degrees",
     "url": "/wiki/entities/361degrees/"
@@ -4254,6 +4258,10 @@
   "Boeing": {
     "title": "Boeing",
     "url": "/wiki/entities/boeing/"
+  },
+  "BombUnderTableSuspense": {
+    "title": "桌下炸弹悬念 / Bomb-Under-Table Suspense",
+    "url": "/wiki/concepts/bombundertablesuspense/"
   },
   "Bombardier": {
     "title": "Bombardier / 庞巴迪",
@@ -12403,6 +12411,10 @@
     "title": "Historical Rhyme Political Reading / 历史押韵式政治阅读",
     "url": "/wiki/concepts/historicalrhymepoliticalreading/"
   },
+  "HitchcockianMoralIrony": {
+    "title": "Hitchcockian Moral Irony / 希区柯克式道德反讽",
+    "url": "/wiki/concepts/hitchcockianmoralirony/"
+  },
   "Hive5": {
     "title": "Hive 5",
     "url": "/wiki/entities/hive5/"
@@ -16535,6 +16547,10 @@
     "title": "Maarva Andor",
     "url": "/wiki/entities/maarvaandor/"
   },
+  "MacGuffin": {
+    "title": "MacGuffin / 麦格芬",
+    "url": "/wiki/concepts/macguffin/"
+  },
   "MacMini": {
     "title": "Mac Mini",
     "url": "/wiki/entities/macmini/"
@@ -18330,6 +18346,10 @@
   "NarkinaFive": {
     "title": "Narkina Five",
     "url": "/wiki/entities/narkinafive/"
+  },
+  "NarrativeMisdirection": {
+    "title": "Narrative Misdirection / 叙事误导",
+    "url": "/wiki/concepts/narrativemisdirection/"
   },
   "Nasdaq": {
     "title": "Nasdaq",
@@ -21230,6 +21250,10 @@
   "PsychoChihuahua": {
     "title": "Psycho Chihuahua",
     "url": "/wiki/entities/psychochihuahua/"
+  },
+  "PsychoFilm": {
+    "title": "《惊魂记》 / Psycho",
+    "url": "/wiki/entities/psychofilm/"
   },
   "PsychologicalFlexibilityForDissent": {
     "title": "Psychological Flexibility For Dissent / 不服从中的心理灵活性",
