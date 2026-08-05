@@ -2,7 +2,7 @@
 title: "Token Maxxing"
 type: concept
 tags: [ai, tokens, economics, investing]
-sources: [openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
+sources: [openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]
 last_updated: 2026-07-23
 ---
 
@@ -16,6 +16,8 @@ The concept extends [[AIInferenceCostStructure]] and [[AIInvestmentMetrics]]. To
 
 [[openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z]] adds an operator-budget version through [[Sheet0]]. [[WangWenfeng]]'s reported $20,000 monthly AI-coding spend is treated as acceptable only if it converts into a much faster engineering loop. The source therefore ties token maxxing to management discipline: a CEO still has to compare token burn with accepted output, review load, and whether the team member using the agents is actually becoming more effective.
 
+[[dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]] adds the [[OnePersonFund]] version. Albert's OPF speculation asks whether a person can spend tokens on coding agents, public-information processing, and strategy generation, then recover value directly in prediction or crypto markets. This turns token maxxing into a harsher accounting problem: token output has to become money, not just software artifacts or research summaries.
+
 ## Key Claims
 - Total token use can rise because more users and workflows adopt AI even while individual tasks become more token-efficient.
 - A strong model can sometimes complete a coding task with less output and less repair work than a weaker model that generates many more tokens.
@@ -25,6 +27,7 @@ The concept extends [[AIInferenceCostStructure]] and [[AIInvestmentMetrics]]. To
 - [[JevonsParadoxInAI]] can make optimization increase total demand when cheaper or better tokens invite more tasks into AI workflows.
 - Coding-agent users can be more important than consumer DAU if each token stream is tied to software output, research acceleration, or other high-value tasks.
 - Token budget can also become a customer-segmentation axis: an individual founder or tiny team spending like a software department may look more like an enterprise customer than a consumer account.
+- The OPF source adds that token value can be tested through market feedback, but that also exposes the user to overfitting, crowded trades, and ordinary investing risk.
 
 ## Connections
 - [[AIInferenceCostStructure]] — serving-cost and workflow-cost base.
@@ -34,3 +37,4 @@ The concept extends [[AIInferenceCostStructure]] and [[AIInvestmentMetrics]]. To
 - [[AgenticWorkflow]], [[Codex]], and [[ClaudeCode]] — agent and coding contexts where token consumption can expand quickly.
 - [[AGIThreeActs]], [[AIInvestmentMetrics]], and [[ModelAsOperatingSystem]] — episode 136's high-value Token Usage interpretation.
 - [[Sheet0]], [[WangWenfeng]], [[AIInferenceCostStructure]], and [[OnePersonCompany]] — operator-budget and high-output small-team case added by the 42章经 source.
+- [[OnePersonFund]], [[PredictionMarketTraderAlpha]], [[AIInvestmentResearch]], and [[InvestmentRiskManagement]] — market-feedback branch added by the later Albert source.

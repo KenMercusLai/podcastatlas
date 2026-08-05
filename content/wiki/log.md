@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-05] ingest | 当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert
+
+Added source page for a 42章经 episode with Albert on AI coding abundance, model-company value capture, small internal and personal tools, software as cultural work, maker-community connection, low-cost creation versus monetization, cash-flow-style creator investment, and one-person fund speculation. Created pages for Software Creation Barbell, Software As Cultural Work, Maker Community, and One-Person Fund; updated overview, index, Albert, 42章经, Coding Democratization, Product Container, AI Programming Engine Shift, One-Person Company, Token-Driven Software, AI Application Layer Moat, Creator Culture, Token Maxxing, Prediction Market Trader Alpha, AI Commercialization Pressure, and Polymarket. No direct contradiction found; the source qualifies existing OPC and AI application moat pages by distinguishing personal creator value from business closure and by treating model-company capture and long-tail maker expression as coexisting outcomes.
+
 ## [2026-08-05] ingest | 优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert
 
 Added source page for a 42章经 episode with Albert on optimizing startup win rate rather than odds, AI interactive content limits, user-modality-content fit, Hexfield-style model capability packaging, coding democratization, multimodal understanding, and operating to a theoretical standard. Created pages for Albert, Hexfield, Lovable, Huang Zheng, Win-Rate Startup Strategy, Odds-Driven Startup Narrative, Coding Democratization, Model Capability Packaging, User-Modality-Content Fit, AI-Generated Content Quality Gap, and Theoretical Operating Standard; updated overview, index, 42章经, Product Container, AI Interactive Content Platforms, Multimodal Intelligence, Coding Agent As Universal Action Layer, AI Programming Engine Shift, AI-First Organization, Startup High-Beta Bet, Zhang Yiming, Duan Yongping, Wang Xing, Cursor, and Replit. No direct contradiction found; the source qualifies high-upside AI platform narratives by arguing that strong founders improve win rate through real user problems, ready-enough technology, product containers, accumulated advantages, and controllable execution.
@@ -5532,6 +5536,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-05] ingest | 真正改变世界的技术，为什么一开始都不被看好？| S10E16
 
 Added source page for a What's Next｜科技早知道 episode with Wang Bo on semiconductor history and why important technologies are often underestimated at first. Created pages for Wang Bo, A Brief History of Chips, Bell Labs, Fairchild Semiconductor, Muhammad Atalla, Dawon Kahng, AT&T, Andrew Grove, Disruptive Innovation, MOSFET, Bipolar Junction Transistor, System-Level Semiconductor Optimization, and Domain Know-How Moat; updated overview, index, What's Next｜科技早知道, Moore's Law, Tau Law, Electronic Design Automation, Semiconductor Supply Chain, Non-Consensus Innovation, Large Company Organizational Inertia, Human Judgment Under AI, Intel, Gordon Moore, Huawei, Constraint Driven Engineering Strategy, Battery Manufacturing Know-How, Technology Installation Cycle, Nvidia, Google, and Jensen Huang. No direct contradiction found; the source reinforces the existing cautious Tau Law interpretation while adding the historical pattern that early yield, heat, speed, stability, and tooling weaknesses can hide scalable advantages.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-05] lint | Wiki health check
 

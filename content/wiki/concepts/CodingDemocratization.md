@@ -2,7 +2,7 @@
 title: "Coding Democratization / Coding 平权"
 type: concept
 tags: [ai-coding, product-building, agents, labor]
-sources: [youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]
+sources: [youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]
 last_updated: 2026-08-05
 ---
 
@@ -12,12 +12,15 @@ Coding democratization is [[Albert]]'s term in [[youhua-shenglv-erfei-peilv-ba-y
 
 Albert links this to product containers. [[Cursor]] is framed as a programmer-oriented container, [[Lovable]] as a designer-oriented route, and [[Replit]] as a possible product-manager or builder-oriented route. The hard product problem is finding which group should receive the coding power, what container matches their thinking, and what non-coding support they still need.
 
+[[dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]] adds the post-democratization consequence. Once more people can make software, Albert expects creation to split between model-company productivity containers and long-tail makers building personal, emotional, or highly specific tools. Coding democratization therefore needs [[MakerCommunity]], [[SoftwareAsCulturalWork]], and discovery infrastructure, not only better code generation.
+
 ## Key Claims
 - Coding is a way for intelligence to become executable; Albert says code can let intelligence exceed its original boundaries.
 - AI coding should not be reduced to "wrapping" a model when the product changes who can build and what they can ship.
 - Better model instruction-following, which the source associates with [[Claude]] Opus, makes non-engineer specification more plausible.
 - The organizational consequence is that engineers may move toward architecture, specification quality, review, and verification while other roles initiate more implementation.
 - Coding democratization needs [[AICodingVerification]] and [[HumanJudgmentUnderAI]] because more generated code also means more people must judge whether output works.
+- The later Albert source adds that democratized coding can increase software supply faster than discovery, recognition, and monetization, making [[SoftwareCreationBarbell]] a structural result.
 
 ## Connections
 - [[Albert]] — source speaker.
@@ -25,3 +28,4 @@ Albert links this to product containers. [[Cursor]] is framed as a programmer-or
 - [[Cursor]], [[Lovable]], and [[Replit]] — example product containers.
 - [[AIFirstOrganization]], [[AIOrganizationDesign]], and [[AgenticWorkflow]] — organization-level implications.
 - [[ProductContainer]] — container-fit lens applied to AI coding tools.
+- [[SoftwareCreationBarbell]], [[MakerCommunity]], and [[SoftwareAsCulturalWork]] — later Albert extension from coding power to software distribution and creator identity.

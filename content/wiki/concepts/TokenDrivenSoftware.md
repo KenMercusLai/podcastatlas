@@ -2,7 +2,7 @@
 title: "Token-Driven Software"
 type: concept
 tags: [ai, software-design, interfaces]
-sources: [vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]
+sources: [vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]
 last_updated: 2026-07-07
 ---
 
@@ -14,6 +14,8 @@ This extends [[OnDemandApps]] and [[GeneratedWorkInterfaces]] from work tools in
 
 [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds the prelude: before the hosts name token-driven software explicitly in Vol. 170, they describe [[AgenticSoftware]] as a move from fixed product paths toward personal, scene-specific software assembled from capabilities and context.
 
+[[dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]] adds a maker-culture version. Albert argues that software works can combine video, interaction, and multimodal output so they are consumed for mood, taste, and experience as well as utility, making [[SoftwareAsCulturalWork]] a nearby branch of token-driven interfaces.
+
 ## Key Claims
 - The shift is from fixed screens and predefined branches toward model-generated interaction surfaces and local context-sensitive behavior.
 - AI-native operating systems may be a more natural carrier than ordinary app wrappers if the system needs device state, permissions, and continuous context.
@@ -22,6 +24,7 @@ This extends [[OnDemandApps]] and [[GeneratedWorkInterfaces]] from work tools in
 - The product challenge is not only generation; the experience must still be coherent, reliable, emotionally rewarding, and economically sustainable.
 - Token-driven software can make copying surface UI easier, pushing defensibility toward workflow depth, data, taste, distribution, and proprietary execution.
 - Earlier agentic-software speculation points in the same direction: dynamic software needs capability atoms, context, and review surfaces, not only generated UI.
+- The later Albert source adds that dynamic software may be valuable as a small cultural artifact even when it does not become a high-frequency productivity product.
 
 ## Connections
 - [[OnDemandApps]] and [[AgentNativeSoftware]] — adjacent software forms where agents assemble capabilities at need time.
@@ -30,3 +33,4 @@ This extends [[OnDemandApps]] and [[GeneratedWorkInterfaces]] from work tools in
 - [[WorldModels]], [[CausalWorldModels]], and [[AIForScience]] — generated-world and simulation implications.
 - [[AIInferenceCostStructure]], [[AISubscriptionEconomics]], and [[ModelRoutingCostControl]] — cost constraints on dynamic generation.
 - [[AgenticSoftware]], [[AtomicCapabilityServices]], and [[AICommunicationAbility]] — Vol. 164 foundations for dynamic software behavior.
+- [[SoftwareAsCulturalWork]], [[MakerCommunity]], and [[ProductContainer]] — later Albert branch around small software works as consumable experiences.

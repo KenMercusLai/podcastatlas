@@ -16507,6 +16507,10 @@
     "title": "Make-To-Order Luxury Manufacturing",
     "url": "/wiki/concepts/maketoorderluxurymanufacturing/"
   },
+  "MakerCommunity": {
+    "title": "Maker Community",
+    "url": "/wiki/concepts/makercommunity/"
+  },
   "MakingFrankensteinBook": {
     "title": "《制造弗兰肯斯坦：玛丽·雪莱背后的科学》",
     "url": "/wiki/entities/makingfrankensteinbook/"
@@ -19054,6 +19058,10 @@
   "OnePersonCompany": {
     "title": "One-Person Company",
     "url": "/wiki/concepts/onepersoncompany/"
+  },
+  "OnePersonFund": {
+    "title": "One-Person Fund",
+    "url": "/wiki/concepts/onepersonfund/"
   },
   "OnePlus": {
     "title": "OnePlus",
@@ -24026,6 +24034,14 @@
   "Softmax": {
     "title": "Softmax",
     "url": "/wiki/entities/softmax/"
+  },
+  "SoftwareAsCulturalWork": {
+    "title": "Software As Cultural Work",
+    "url": "/wiki/concepts/softwareasculturalwork/"
+  },
+  "SoftwareCreationBarbell": {
+    "title": "Software Creation Barbell",
+    "url": "/wiki/concepts/softwarecreationbarbell/"
   },
   "SoftwareDeveloperHiringPullback": {
     "title": "Software Developer Hiring Pullback",
@@ -29398,6 +29414,10 @@
   "dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian": {
     "title": "当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁",
     "url": "/wiki/sources/dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian/"
+  },
+  "dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi": {
+    "title": "当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert",
+    "url": "/wiki/sources/dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi/"
   },
   "dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd": {
     "title": "当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: MiniMax × Hermes Agent",

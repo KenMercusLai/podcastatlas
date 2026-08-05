@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert](sources/dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi.md) — 42章经 episode with Albert on AI coding abundance, model-company value capture, small maker tools, software as cultural work, maker community, and one-person fund speculation.
 - [真正改变世界的技术，为什么一开始都不被看好？| S10E16](sources/zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1.md) — What's Next episode with Wang Bo on semiconductor history, Moore's Law as industry coordination, MOS transistor underestimation, Huawei's Tau Law, disruptive innovation, and human know-how under AI.
 - [7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？ | S10E12](sources/7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52.md) — What's Next episode with Aaron on hyperscaler AI capex, bubble risk, bright-line/dark-line AI revenue, circular infrastructure financing, and U.S.-China valuation asymmetry.
 - [从央视纪录片到爆款 AI 短剧：第一批「转身」的导演｜ S10E11](sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc.md) — What's Next｜科技早知道 episode with Chouxiangzai and Taitai on AI short-drama workflows, C-DANCE/Seedance, director-core production, overseas localization, paid traffic, and story-driven monetization.
@@ -721,7 +722,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SignalFire](entities/SignalFire.md) — Venture-capital firm mentioned through Josh Constantine in the hacker-house investor-access context.
 - [500 Startups](entities/FiveHundredStartups.md) — Accelerator/investor comparison point for how hacker houses may reach founders before seed-stage programs.
 - [San Francisco Bay Area](entities/SanFranciscoBayArea.md) — Startup-network place node for the episode's Bay Area density, founder network arbitrage, and hacker-house context.
-- [Albert](entities/Albert.md) — Consecutive entrepreneur and 42章经 guest connecting AI product exploration, win-rate startup strategy, coding democratization, and theoretical operating standards.
+- [Albert](entities/Albert.md) — Consecutive entrepreneur and 42章经 guest connecting AI product exploration, win-rate startup strategy, coding democratization, maker communities, cultural software, and one-person fund speculation.
 - [Hexfield](entities/Hexfield.md) — AI image/video product used by Albert to explain model capability packaging, templates, role consistency, and user-perceived delivery.
 - [Lovable](entities/Lovable.md) — AI coding/building tool referenced by Albert as a designer-oriented container for coding democratization.
 - [黄峥 / Huang Zheng](entities/HuangZheng.md) — Founder example used by Albert to connect Pinduoduo and accumulated advantage to win-rate startup strategy.
@@ -3844,7 +3845,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nintendo](entities/Nintendo.md) — Console company comparison for physical-media resilience and industry-wide digital distribution pressure.
 - [Stop Killing Games](entities/StopKillingGames.md) — Player-rights movement referenced as context for service shutdown, deletion, and game-preservation concerns.
 - [朱宁 / Zhu Ning](entities/ZhuNing.md) — Economist and behavioral-finance scholar explaining bubble conditions, AI valuation risk, and consequence-first investing discipline.
-- [42章经](entities/42Zhangjing.md) — Podcast/show context for interviews on investing bubbles, PingCAP infrastructure, AI application pivots, and EVE-style AI companionship.
+- [42章经](entities/42Zhangjing.md) — Podcast/show context for business and AI interviews spanning investing bubbles, infrastructure, application pivots, AI companionship, agent teams, AI coding, and maker communities.
 - [United States](entities/UnitedStates.md) — Country and institutional context spanning democratic resilience, geopolitics, Venezuela oil sanctions and licenses, frontier-model review, open-model substitution, and industrial gaps.
 - [United States Constitution](entities/UnitedStatesConstitution.md) — Constitutional document treated as patched institutional code behind impeachment, separation of powers, and the 25th Amendment.
 - [Supreme Court](entities/SupremeCourt.md) — U.S. judicial institution used in the America-at-250 source as both democratic guardrail and possible executive-power precedent maker.
@@ -4129,7 +4130,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations, bee economics, FIFA governance, Sushiro operations, AI data-center cooling, and fishmeal-driven aquaculture price risk.
 - [Grundfos / 格兰富](entities/Grundfos.md) — Pump, water, and cooling-infrastructure company case used to explain AI data-center thermal management.
 - [河南智能超算中心 / Henan Smart Supercomputing Center](entities/HenanSmartSupercomputingCenter.md) — Supercomputing-center case for prefabricated, container-style integrated cooling deployment.
-- [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
+- [Polymarket](entities/Polymarket.md) — Prediction-market platform used for price-as-probability thinking, ethics and integrity cases, and AI-era one-person fund speculation.
 - [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for Latin America investment, jollof-price inflation, BBC longwave shutdown, Starmer's resignation, Brexit, Gulf stability, America at 250, U.S.-Iran diplomacy, NATO stress, Colombia security politics, and other magazine-style segments.
 - [NATO](entities/NATO.md) — Alliance context for defence spending, Ukraine support, European defence autonomy, Russian hybrid pressure, American commitment doubts, and Britain's post-Brexit defence role.
 - [Anton LaGuardia](entities/AntonLaGuardia.md) — The Intelligence diplomatic editor explaining NATO's tense summit, European defence autonomy, and alliance credibility risks.
@@ -4784,6 +4785,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Software Creation Barbell](concepts/SoftwareCreationBarbell.md) — AI-era software structure where model-company containers capture broad productivity value while tiny makers serve long-tail personal or expressive needs.
+- [Software As Cultural Work](concepts/SoftwareAsCulturalWork.md) — Software products understood as taste, mood, identity, and interaction-bearing works rather than only productivity utilities.
+- [Maker Community](concepts/MakerCommunity.md) — AI-coding creator community pattern built around discovery, collaboration, response, recognition, and sometimes payment.
+- [One-Person Fund](concepts/OnePersonFund.md) — Speculative OPF frame where one person uses coding agents, public information, and market strategies to seek direct trading feedback.
 - [Disruptive Innovation](concepts/DisruptiveInnovation.md) — Pattern where a technology starts inferior on incumbent metrics but wins through a scalable advantage, added through the MOS/BJT and Intel/Nvidia discussion.
 - [MOSFET / MOS Transistor](concepts/MOSFET.md) — Semiconductor device route initially underweighted against BJT but later central because of cost, structure, and integration advantages.
 - [Bipolar Junction Transistor](concepts/BipolarJunctionTransistor.md) — Incumbent transistor technology contrasted with MOS in the Bell Labs and AT&T switching context.
