@@ -2,8 +2,8 @@
 title: "AI Short Drama"
 type: concept
 tags: [ai, video, entertainment, short-drama]
-sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]
-last_updated: 2026-07-09
+sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
+last_updated: 2026-08-05
 ---
 
 # AI Short Drama
@@ -16,6 +16,8 @@ The category matters because it sits between [[VideoModels]], short-video distri
 
 [[269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]] adds the live-action boundary. [[HouChao]] and [[LiJiajia]] both accept that AI can improve fantasy, spectacle, effects, and workflow speed, but they argue that [[LiveActionShortDrama]] still has space where actor fit, subtle relationships, and collaborative production craft change whether users remember the story.
 
+[[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] adds the director and overseas commercialization branch. [[Chouxiangzai]] and [[Taitai]] treat AI short drama as a full production business: [[AIDirectorCoreWorkflow]], asset libraries, storyboards, model choice, editing, overseas cultural resonance, platform review, paid traffic, and subscription/payment behavior all decide whether a work like [[WuGeGeGeDouChongWo]] or [[YiWanFuWengHuiGui]] travels beyond a model demo.
+
 ## Key Claims
 - AI photorealistic drama may address a broader mainstream audience than ACG-only formats.
 - AI comic and commentary formats can test genres that live-action short dramas avoid because of set, effects, costume, or actor costs.
@@ -24,6 +26,8 @@ The category matters because it sits between [[VideoModels]], short-video distri
 - AI and live-action short drama are increasingly adjacent lanes: AI is stronger for imagined worlds and iteration, while live action remains stronger where relationship nuance and performer contribution are decisive.
 - The commercial path depends on [[ShortDramaEconomics]], [[AIVideoProductionWorkflow]], recommendation platforms, ad yield, and rights control.
 - A single viral AI short-drama case is not a repeatable formula when IP channels close, platform review tightens, and revenue settlement remains opaque.
+- Overseas AI short drama adds a localization problem: domestic hit logic may travel only when setting, status symbols, character design, payment habit, and target-audience psychology are adapted.
+- Better video models reduce some generation labor but raise the importance of director expression, script judgment, asset setup, and performance selection.
 
 ## Connections
 - [[Hongguo]], [[Douyin]], and [[Kuaishou]] — distribution and platform context.
@@ -36,3 +40,4 @@ The category matters because it sits between [[VideoModels]], short-video distri
 - [[AIInteractiveEntertainment]] — adjacent interactive drama and game boundary.
 - [[AIContentProvenance]] and [[AIContentDevaluation]] — rights, likeness, and homogeneity risks.
 - [[AISuperCreators]] — solo/small-team creator pattern enabled by AI tools.
+- [[Chouxiangzai]], [[Taitai]], [[AIDirectorCoreWorkflow]], and [[AIShortDramaOverseasLocalization]] — director-centered and outbound branch added by the What's Next source.

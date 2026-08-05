@@ -1039,6 +1039,10 @@
     "title": "AI Detector Bias",
     "url": "/wiki/concepts/aidetectorbias/"
   },
+  "AIDirectorCoreWorkflow": {
+    "title": "AI Director-Core Workflow",
+    "url": "/wiki/concepts/aidirectorcoreworkflow/"
+  },
   "AIDiscoverySEO": {
     "title": "AI Discovery SEO",
     "url": "/wiki/concepts/aidiscoveryseo/"
@@ -1378,6 +1382,10 @@
   "AIShortDrama": {
     "title": "AI Short Drama",
     "url": "/wiki/concepts/aishortdrama/"
+  },
+  "AIShortDramaOverseasLocalization": {
+    "title": "AI Short Drama Overseas Localization",
+    "url": "/wiki/concepts/aishortdramaoverseaslocalization/"
   },
   "AIShortcutRisk": {
     "title": "AI Shortcut Risk",
@@ -5650,6 +5658,10 @@
   "ChokepointShippingConfidence": {
     "title": "Chokepoint Shipping Confidence",
     "url": "/wiki/concepts/chokepointshippingconfidence/"
+  },
+  "Chouxiangzai": {
+    "title": "抽象仔 / Chouxiangzai",
+    "url": "/wiki/entities/chouxiangzai/"
   },
   "ChrisBest": {
     "title": "Chris Best",
@@ -13878,6 +13890,10 @@
   "JiangningWeavingBureau": {
     "title": "江宁织造 / Jiangning Weaving Bureau",
     "url": "/wiki/entities/jiangningweavingbureau/"
+  },
+  "JiangyouWenhua": {
+    "title": "酱油文化 / Jiangyou Wenhua",
+    "url": "/wiki/entities/jiangyouwenhua/"
   },
   "Jianshouqing": {
     "title": "见手青 / Jianshouqing",
@@ -22271,6 +22287,10 @@
     "title": "Rod Eggert",
     "url": "/wiki/entities/rodeggert/"
   },
+  "RodeoAI": {
+    "title": "Rodeo.ai",
+    "url": "/wiki/entities/rodeoai/"
+  },
   "RogerZelazny": {
     "title": "Roger Zelazny / 罗杰·泽拉兹尼",
     "url": "/wiki/entities/rogerzelazny/"
@@ -25155,6 +25175,10 @@
     "title": "Tail-Risk Hedging",
     "url": "/wiki/concepts/tailriskhedging/"
   },
+  "Taitai": {
+    "title": "台台 / Taitai",
+    "url": "/wiki/entities/taitai/"
+  },
   "TakagiNaoko": {
     "title": "高木直子 / Takagi Naoko",
     "url": "/wiki/entities/takaginaoko/"
@@ -27903,6 +27927,10 @@
     "title": "武大郎 / Wu Dalang",
     "url": "/wiki/entities/wudalang/"
   },
+  "WuGeGeGeDouChongWo": {
+    "title": "五个哥哥都宠我",
+    "url": "/wiki/entities/wugegegedouchongwo/"
+  },
   "WuHai": {
     "title": "Wu Hai",
     "url": "/wiki/entities/wuhai/"
@@ -28014,6 +28042,10 @@
   "XiJinping": {
     "title": "Xi Jinping",
     "url": "/wiki/entities/xijinping/"
+  },
+  "XiSongFengyun": {
+    "title": "西宋风云",
+    "url": "/wiki/entities/xisongfengyun/"
   },
   "Xiamen": {
     "title": "Xiamen / 厦门",
@@ -28142,6 +28174,10 @@
   "XinDynasty": {
     "title": "Xin dynasty / 新朝",
     "url": "/wiki/entities/xindynasty/"
+  },
+  "XinYuanYangHuDieMeng": {
+    "title": "新鸳鸯蝴蝶梦",
+    "url": "/wiki/entities/xinyuanyanghudiemeng/"
   },
   "XinchuangOperatingSystems": {
     "title": "Xinchuang Operating Systems",
@@ -28410,6 +28446,10 @@
   "YiLaoYongYi": {
     "title": "一劳永逸",
     "url": "/wiki/entities/yilaoyongyi/"
+  },
+  "YiWanFuWengHuiGui": {
+    "title": "亿万富翁回归",
+    "url": "/wiki/entities/yiwanfuwenghuigui/"
   },
   "Yibin": {
     "title": "Yibin / 宜宾",
@@ -29242,6 +29282,10 @@
   "cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun": {
     "title": "从QQ会员到豆包包月，中国人为什么总觉得软件该免费",
     "url": "/wiki/sources/cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun/"
+  },
+  "cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc": {
+    "title": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11",
+    "url": "/wiki/sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc/"
   },
   "congress-has-voted-to-eliminate-government-funding-for-public-media": {
     "title": "Congress has voted to eliminate government funding for public media",

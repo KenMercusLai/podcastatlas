@@ -10,7 +10,8 @@ sources:
   - 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1
   - vol-264-ba-shijiebei-zuowei-fangfa-999416048
   - e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d
-last_updated: 2026-07-23
+  - cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc
+last_updated: 2026-08-05
 ---
 
 # Global Product Localization
@@ -31,6 +32,8 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 
 [[e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]] adds the U.S. restaurant and tea-drink version. Here localization includes [[RestaurantCulturalLegibility]], [[USRestaurantRealEstateConstraint]], local franchisees, labor rules, long leases, store buildout, influencer selection, and whether the consumer can imagine the food occasion before trying it.
 
+[[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] adds the AI-media version through [[AIShortDramaOverseasLocalization]]. The source treats outbound AI short drama as more than translation: creators may preserve a domestic hit's story logic while changing wealth symbols, settings, appearances, cultural references, and emotional power dynamics for overseas viewers.
+
 ## Key Claims
 - A global product should separate what must be globally consistent from what must adapt locally.
 - Local content and operations can vary without fragmenting the core product container.
@@ -46,6 +49,7 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - Consumer-chain localization can require local ownership, local professional managers, and faster product-price-store iteration than a global headquarters can supply.
 - Global sports brands may need local teams with enough autonomy to turn memes, city events, content formats, and campaign timing into products and experiences.
 - Restaurant localization can require changing the operating environment around the product - lease, approvals, menu bridges, service explanation, and local team credibility - rather than only adapting flavor.
+- Media localization can require changing fantasy signals and story psychology: the same plot pattern may need different visual status markers, relationship dynamics, and payment assumptions across markets.
 
 ## Connections
 - [[TikTok]], [[Douyin]], and [[ByteDance]] — source product and company case.
@@ -59,3 +63,4 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - [[CoffeeChainLocalization]], [[Starbucks]], [[BoyuCapital]], [[BlueBottleCoffee]], and [[Nestle]] - coffee-chain localization extension added by the FengTouQuan coffee source.
 - [[Adidas]], [[OfflineBrandActivation]], and [[SportsLifestyleConsumption]] - multinational sports-brand localization extension added by Vol.264.
 - [[DinTaiFung]], [[GongCha]], [[MoliNaiBai]], [[Chagee]], [[FeiDaChu]], [[RestaurantCulturalLegibility]], and [[USRestaurantRealEstateConstraint]] - U.S. foodservice and tea-drink localization extension added by E232.
+- [[AIShortDramaOverseasLocalization]], [[WuGeGeGeDouChongWo]], [[YiWanFuWengHuiGui]], [[RodeoAI]], [[Chouxiangzai]], and [[Taitai]] - AI short-drama localization extension added by What's Next.

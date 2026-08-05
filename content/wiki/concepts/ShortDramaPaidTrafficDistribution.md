@@ -2,8 +2,8 @@
 title: "Short Drama Paid-Traffic Distribution"
 type: concept
 tags: [media, advertising, short-drama, platform-economics]
-sources: [267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
-last_updated: 2026-07-08
+sources: [267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
+last_updated: 2026-08-05
 ---
 
 # Short Drama Paid-Traffic Distribution
@@ -12,12 +12,16 @@ Short drama paid-traffic distribution is the mechanism by which a short drama sc
 
 The concept extends [[ShortDramaEconomics]]. A creator can produce a low-cost AI short drama, but scale depends on whether distributors and ad buyers can move ad placement, test creatives, estimate ROI, and keep spending when revenue covers traffic cost. The creator may receive a share, but the episode emphasizes opacity: settlement happens later, the split is unclear, and high play counts do not automatically translate into predictable income.
 
+[[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] adds the producer-side vocabulary. [[Taitai]] divides the chain into production/commissioning, paid-traffic, and platform layers, says ROI 120 is a working traffic-buying benchmark, and describes platforms as landlords whose price and policy changes can determine whether AI comic-drama or AI short-drama companies survive. [[YiWanFuWengHuiGui]] is presented as a relatively good case with about a 50% share.
+
 ## Key Claims
 - Paid traffic can make a short drama look like an organic viral hit when the creator only sees playback growth.
 - Distribution partners may change monetization details, such as where an ad appears inside the episode sequence.
 - ROI-based buying ties short-drama growth to [[AutomatedPerformanceMarketing]] and [[CreativeMaterialIndustrialization]], not only to story quality.
 - Platform-side credit, rebates, and advertising-system incentives may matter to large buyers, while creators mostly see delayed revenue-share outcomes.
 - The mechanism increases platform dependence because [[Douyin]], [[Hongguo]], rights channels, review rules, and ad systems jointly decide whether the work can scale.
+- A production-side guarantee plus traffic-share contract can still leave the producer exposed to later platform price, policy, and traffic allocation changes.
+- Traffic ROI benchmarks can make short-drama success look quantitative while still depending on story fit, target user psychology, and platform rule stability.
 
 ## Connections
 - [[AnhuiXiaoMujiang]] and [[XiaoGuoGege]] — case and creator used to describe the mechanism.
@@ -25,3 +29,4 @@ The concept extends [[ShortDramaEconomics]]. A creator can produce a low-cost AI
 - [[ShortDramaEconomics]], [[AIShortDrama]], and [[AIVideoProductionWorkflow]] — category and production logic.
 - [[AutomatedPerformanceMarketing]], [[CreativeMaterialIndustrialization]], [[RecommendationDistributionAdvantage]], and [[UnifiedAdPlatform]] — adjacent growth-system concepts.
 - [[PlatformizedDramaProduction]] and [[ContentEcosystemGovernance]] — review, rights, and platform intake constraints once supply grows.
+- [[Taitai]], [[YiWanFuWengHuiGui]], and [[AIShortDramaOverseasLocalization]] — producer-side business and overseas monetization branch added by What's Next.

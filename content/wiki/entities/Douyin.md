@@ -2,8 +2,8 @@
 title: "Douyin"
 type: entity
 tags: [company, short-video, platform, travel, local-commerce, short-drama, china]
-sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]
-last_updated: 2026-07-09
+sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
+last_updated: 2026-08-05
 ---
 
 # Douyin
@@ -28,6 +28,8 @@ This makes Douyin part of the broader question of whether [[OnlineTravelAgency]]
 
 [[faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]] adds two Douyin growth extensions. [[DouyinLite]] is the short-video Lite-app version where coins, tasks, and red packets train early use while the core feed and ad system create retention. [[Doushenshen]] is the local-life direction where coupons and low-price daily offers try to move Douyin from content seeding and campaign traffic toward repeat transaction demand.
 
+[[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] adds Douyin to the producer-side [[ShortDramaPaidTrafficDistribution]] map. [[Taitai]] describes the short-drama chain as production side, traffic-buying side, and platform side, with Douyin sitting beside [[Hongguo]] and C-DANCE/[[Seedance]] in the source's ByteDance-adjacent stack where traffic, review, and monetization power concentrate.
+
 ## Connections
 - [[Ctrip]], [[Meituan]], [[Fliggy]], and [[JDTravel]] — travel-competition context.
 - [[TikTok]], [[MusicalLy]], [[GlobalProductLocalization]], and [[ProductContainer]] — globalization and container-fit comparison added by the Musical.ly/TikTok source.
@@ -39,3 +41,4 @@ This makes Douyin part of the broader question of whether [[OnlineTravelAgency]]
 - [[ToutengWar]], [[NeihanDuanzi]], [[TencentWeishi]], [[WeChatChannels]], and [[RecommendationDistributionAdvantage]] — ByteDance/Tencent short-video rivalry context from the Touteng source.
 - [[ByteDanceGrowthSystem]], [[RedPacketGrowth]], [[LTVBasedGrowthBudgeting]], [[CreativeMaterialIndustrialization]], [[QishuiMusic]], and [[AIConsumerGrowthMetrics]] — growth and account-system context added by the episode 7 source.
 - [[DouyinLite]], [[Doushenshen]], [[LiteAppGrowth]], [[CouponLedTransactionGrowth]], and [[SpringFestivalGrowthCampaign]] — Lite-app and local-life growth context added by episode 8.
+- [[Taitai]], [[Chouxiangzai]], [[YiWanFuWengHuiGui]], [[AIShortDramaOverseasLocalization]], and [[AIDirectorCoreWorkflow]] — AI short-drama producer-side branch added by What's Next.

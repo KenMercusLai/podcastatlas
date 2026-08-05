@@ -5512,3 +5512,11 @@ Added source page for a What's Next｜科技早知道 episode on Silicon Valley 
 ## [2026-08-05] lint | Wiki health check
 
 Ran lint after health passed. Health scanned 7,757 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-05] ingest | 从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11
+
+Added source page for a What's Next｜科技早知道 episode with Chouxiangzai and Taitai on AI short-drama production and commercialization. Created pages for Chouxiangzai, Taitai, Rodeo.ai, 五个哥哥都宠我, 亿万富翁回归, 新鸳鸯蝴蝶梦, 西宋风云, 酱油文化, AI Director-Core Workflow, and AI Short Drama Overseas Localization; updated overview, index, What's Next｜科技早知道, AI Short Drama, AI Video Production Workflow, Short Drama Economics, Short Drama Paid-Traffic Distribution, Platformized Drama Production, Seedance, Video Models, Live-Action Film Under AI, Global Product Localization, Cross-Cultural Product Design, Hongguo, Douyin, AI Super Creators, China Communication University, Yuewen Group, and ByteDance. No direct contradiction found; the source reinforces existing AI short-drama economics while adding a director-centered workflow and overseas-localization branch, and it qualifies AI film optimism by leaving restrained performance and long-form commercial closure unresolved.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 7,768 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.

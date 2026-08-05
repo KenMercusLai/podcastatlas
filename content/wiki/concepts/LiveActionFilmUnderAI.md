@@ -2,8 +2,8 @@
 title: "Live-Action Film Under AI"
 type: concept
 tags: [ai, film, production, performance]
-sources: [e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5]
-last_updated: 2026-07-23
+sources: [e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
+last_updated: 2026-08-05
 ---
 
 # Live-Action Film Under AI
@@ -14,12 +14,16 @@ The source's answer is not that live action disappears. AI becomes a measuring t
 
 [[NanjingNanjing]] supplies the source's clearest example. Lu Chuan's memory of finding a character's execution-scene line with the actor on the shooting day defines live action as a process that can produce moments no one fully planned in advance.
 
+[[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] adds the short-drama operator version. [[Chouxiangzai]] argues that AI is already appropriate for short-drama emotion because the format often needs large, direct, high-payoff feeling, while film-grade restraint such as a tear slowly forming and falling remains difficult and may justify hiring actors. [[Taitai]] adds that long-form AI film also lacks a settled commercial path, not only a technical path.
+
 ## Key Claims
 - AI pressures creators to justify live-action cost scene by scene.
 - The strongest live-action defense is not technical fidelity but irreproducible human performance and presence.
 - AI may make physical production more luxurious and selective rather than obsolete.
 - Film education and in-person theater/film training still matter because embodied practice cannot be fully absorbed from model knowledge bases.
 - The concept complements [[IndustrialGradeFilmModels]]: even better models increase the need to decide what should remain human-shot.
+- Short-drama suitability does not automatically imply feature-film readiness; production cycles, model iteration speed, budget, approval, and distribution all affect whether an AI film can close commercially.
+- AI performance may be good enough for broad short-drama emotions while still weaker for restrained, actor-driven emotional detail.
 
 ## Connections
 - [[LuChuan]] - source guest and main advocate of this frame.
@@ -27,3 +31,4 @@ The source's answer is not that live action disappears. AI becomes a measuring t
 - [[VideoModels]], [[AIVideoProductionWorkflow]], and [[IndustrialGradeFilmModels]] - AI production context.
 - [[LiveHumanFeeling]] and [[HumanJudgmentUnderAI]] - adjacent concepts for human presence and decision-making.
 - [[CreativeLaborAIBacklash]] - labor and industry anxiety context.
+- [[Chouxiangzai]], [[Taitai]], [[AIShortDrama]], and [[AIDirectorCoreWorkflow]] - short-drama and AI-film boundary added by What's Next.

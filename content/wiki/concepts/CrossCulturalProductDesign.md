@@ -2,8 +2,8 @@
 title: "Cross-Cultural Product Design"
 type: concept
 tags: [design, localization, product, internationalization]
-sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc]
-last_updated: 2026-07-07
+sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
+last_updated: 2026-08-05
 ---
 
 # Cross-Cultural Product Design
@@ -14,6 +14,8 @@ The episode's concrete examples include color preferences across China, Southeas
 
 [[musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz]] adds the large-platform version through [[TikTok]]. [[Vanessa]] argues that TikTok is not merely overseas [[Douyin]] because it is a multi-country product with different languages, cultures, content ecosystems, maturity stages, and compliance constraints. This extends the concept into [[GlobalProductLocalization]]: keep the product container unified where possible, but localize content, operations, market timing, and culturally sensitive expression.
 
+[[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] adds a story-product version through [[AIShortDramaOverseasLocalization]]. [[Chouxiangzai]] says outbound short drama needs cultural resonance that domestic creators may lack if they have not lived in the target market; the design object is therefore not only interface or copy, but also scene choice, status symbols, character appearance, and gendered emotional payoff.
+
 ## Key Claims
 
 - Cultural differences may be modest at the level of broad user need but large at the level of design cues, density, color, language, and trust.
@@ -21,6 +23,7 @@ The episode's concrete examples include color preferences across China, Southeas
 - Real user visits and account-manager knowledge can turn abstract personas into concrete market understanding.
 - Product teams should distinguish global product logic from local expression: the same problem may need different proof, copy, or visual weight in different markets.
 - A global content platform can reuse one product framework while still needing local content supply, creator norms, moderation expectations, language handling, and regional team judgment.
+- Cross-cultural media design includes story logic and fantasy cues: a helicopter, award stage, or billionaire setting may carry different status meaning across markets.
 
 ## Connections
 
@@ -30,3 +33,4 @@ The episode's concrete examples include color preferences across China, Southeas
 - [[CrossCulturalUserResearch]] — adjacent research method already in the wiki.
 - [[LandingPageConversion]] — conversion pages may require different local trust cues and copy density.
 - [[MiddleEastSocialGameGrowth]] — existing case where local cultural and social norms shaped product growth.
+- [[AIShortDramaOverseasLocalization]], [[WuGeGeGeDouChongWo]], [[YiWanFuWengHuiGui]], and [[RodeoAI]] — story-product localization case added by What's Next.

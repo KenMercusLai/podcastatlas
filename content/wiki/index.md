@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [从央视纪录片到爆款 AI 短剧：第一批「转身」的导演｜ S10E11](sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc.md) — What's Next｜科技早知道 episode with Chouxiangzai and Taitai on AI short-drama workflows, C-DANCE/Seedance, director-core production, overseas localization, paid traffic, and story-driven monetization.
 - [探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」｜ S10E10](sources/tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77.md) — What's Next episode on Silicon Valley hacker houses, The Residency, Accelerate, Frontier Tower, HF0, AGI House, equity pools, founder network arbitrage, and hacker houses as early startup infrastructure.
 - [优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert](sources/youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2.md) — 42章经 episode with Albert on optimizing startup win rate over odds, AI interactive content limits, Hexfield-style model packaging, coding democratization, multimodal understanding, and operating to a theoretical standard.
 - [A whiplash year for electric vehicles](sources/tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128.md) — Marketplace Tech episode with Henry Epp on the U.S. EV tax-credit cliff, pull-forward sales, October/November decline, new-vs-used EV price gaps, Ford/GM pullbacks, China/Europe comparison, and the 2026 watchlist around cheaper models and charging.
@@ -3910,6 +3911,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刚刚好影视 / Gangganghao Yingshi](entities/GangganghaoYingshi.md) — Live-action short-drama company contrasted with Rixin Yiy through higher-budget, story-led, single-project production.
 - [苏太太高调离婚了 / Su Taitai Gaodiao Lihunle](entities/SuTaitaiGaodiaoLihunle.md) — Live-action short-drama work used as an episode 269 example of completion, immersion, and story-driven free-platform performance.
 - [甄千金他是学霸 / Zhen Qianjin Ta Shi Xueba](entities/ZhenQianjinTaShiXueba.md) — Live-action short-drama example used to explain why changed character relationships change motivation and story events.
+- [抽象仔 / Chouxiangzai](entities/Chouxiangzai.md) — Former CCTV documentary director and AI short-drama creator explaining director-core workflows, C-DANCE/Seedance use, and overseas audience fit.
+- [台台 / Taitai](entities/Taitai.md) — AI short-drama producer and creator explaining cost structure, platform policy risk, paid traffic, and author-centered studio strategy.
+- [Rodeo.ai](entities/RodeoAI.md) — Overseas AI short-drama platform named as the release context for 《五个哥哥都宠我》.
+- [五个哥哥都宠我](entities/WuGeGeGeDouChongWo.md) — Early overseas AI short-drama project used to show localization, budget imagination, and slow first-generation workflows.
+- [亿万富翁回归](entities/YiWanFuWengHuiGui.md) — Overseas AI short-drama monetization case used to show why story and audience psychology can beat visible AI flaws.
+- [新鸳鸯蝴蝶梦](entities/XinYuanYangHuDieMeng.md) — AI-video work used as a realism example after C-DANCE/Seedance-style model improvement.
+- [西宋风云](entities/XiSongFengyun.md) — AI work used to discuss director-selected generated performance and the boundary around live human feeling.
+- [酱油文化 / Jiangyou Wenhua](entities/JiangyouWenhua.md) — High-volume short-drama production benchmark contrasted with a smaller author-centered AI studio route.
 - [YouTube](entities/YouTube.md) — Video platform discussed through social-media product liability verdicts, media dominance, short-drama distribution, Social Radars clips, and Google's acquisition as legal-risk acquirer fit.
 - [Israel](entities/Israel.md) — Country actor whose conflict with Hezbollah in Lebanon could imperil the episode's wider U.S.-Iran diplomacy frame.
 - [Lebanon](entities/Lebanon.md) — Country context for the ceasefire clause, Hezbollah capacity, and enforcement problem in the Iran-deal segment.
@@ -7018,6 +7027,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Short Drama Economics](concepts/ShortDramaEconomics.md) — Cost, paid-traffic, IAP-to-IAA, ad-yield, and single-minute-cost frame behind short drama and AI short drama.
 - [Short Drama Paid-Traffic Distribution](concepts/ShortDramaPaidTrafficDistribution.md) — Distributor, ad-buying, ROI, ad-placement, and delayed settlement mechanism behind some short-drama scale-ups.
 - [AI Video Production Workflow](concepts/AIVideoProductionWorkflow.md) — Practical AI-video creation process involving scripts, prompts, image/video generation, repeated draws, editing, localization, and rights checks.
+- [AI Director-Core Workflow](concepts/AIDirectorCoreWorkflow.md) — AI short-drama production pattern centered on director intent, scripts, asset libraries, storyboards, model-specific generation, and human performance judgment.
+- [AI Short Drama Overseas Localization](concepts/AIShortDramaOverseasLocalization.md) — Outbound AI short-drama localization frame covering story resonance, fantasy/status symbols, payment behavior, and platform distribution.
 - [Platformized Drama Production](concepts/PlatformizedDramaProduction.md) — Shift from producer-led long-video commissioning toward open submission, fast feedback, platform governance, and market-tested drama supply.
 - [Live-Action Short Drama](concepts/LiveActionShortDrama.md) — Human-cast short-drama category whose value depends on actor fit, relationship nuance, collaborative production craft, and AI-assisted rather than AI-replaced workflows.
 - [Short Drama Industrialization](concepts/ShortDramaIndustrialization.md) — Production-management pattern using script tagging, middle-office coordination, reusable scenes, ROI controls, and AI workflow checks to scale live-action short drama.

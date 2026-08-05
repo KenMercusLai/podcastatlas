@@ -2,8 +2,8 @@
 title: "AI Video Production Workflow"
 type: concept
 tags: [ai, video, workflow, creator-economy]
-sources: [the-business-of-heated-rivalry, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]
-last_updated: 2026-07-24
+sources: [the-business-of-heated-rivalry, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
+last_updated: 2026-08-05
 ---
 
 # AI Video Production Workflow
@@ -15,6 +15,8 @@ The source's important point is that [[VideoModels]] reduce the need for actors,
 [[267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx]] adds an end-to-end creator case. [[XiaoGuoGege]] used [[Doubao]] to adapt a [[FanqieNovel]] story into multiple script variants and prompts, generated short video fragments with Seedance-style and adjacent tools, salvaged flawed clips for voice, picture, transitions, or internal monologue, and edited the output into [[AnhuiXiaoMujiang]].
 
 [[269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]] extends the workflow frame beyond generated clips. [[RixinYiy]] uses AI for live-action production management: script tools linked to databases, scene and character consistency checks, electronic continuity notes, actor notices, work-time records, and upload/approval gates. In this version, AI is infrastructure for [[ShortDramaIndustrialization]], not only a replacement camera crew.
+
+[[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] adds [[AIDirectorCoreWorkflow]]. [[Chouxiangzai]] describes the early image-to-video stage where one sub-two-minute episode of [[WuGeGeGeDouChongWo]] could require roughly 70 generated images and nearly ten days, then contrasts it with newer multi-reference workflows where more time moves to script, IP, asset libraries, storyboards, and director instructions.
 
 [[e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5]] adds the film-previs version. [[LuChuan]] says AI can turn prompts, [[Midjourney]]-style images, and [[VideoModels]] into hundreds or thousands of keyframes and a 48- to 72-hour visualization pass for action scenes that once required months of visual-effects coordination.
 
@@ -30,6 +32,8 @@ The source's important point is that [[VideoModels]] reduce the need for actors,
 - In live-action workflows, AI can enforce consistency and reduce coordination loss even when the finished work remains human-shot.
 - In film workflows, AI is strongest when it helps directors test and communicate scenes before expensive production, but it still needs [[IndustrialGradeFilmModels]] and human taste to reach final delivery.
 - Production-management AI can be useful without implying that writing, costuming, acting, or directing should be delegated to generated output.
+- The "抽卡师" role can shrink as multi-reference models improve, but the source says the director's ability to ask for a specific shot, expression, movement, or emotional state becomes more valuable.
+- Practical AI-video workflows are model-specific: the source describes using C-DANCE/[[Seedance]], Kling-style generation, GPT image tools, Banana/Banana Pro, and Jimeng-like image generation according to each shot's requirements.
 
 ## Connections
 - [[AIShortDrama]] — main content category using the workflow.
@@ -43,3 +47,4 @@ The source's important point is that [[VideoModels]] reduce the need for actors,
 - [[YouTube]] — overseas distribution workflow context.
 - [[LuChuan]], [[Midjourney]], [[IndustrialGradeFilmModels]], and [[LiveActionFilmUnderAI]] — film-previsualization and live-action decision branch added by E234.
 - [[HeatedRivalry|Heated Rivalry]], [[BrendanBrady]], [[JacobTierney]], [[ConstraintDrivenMediaProduction]], and [[HumanJudgmentUnderAI]] - AI-as-production-tool boundary added by Planet Money.
+- [[AIDirectorCoreWorkflow]], [[Chouxiangzai]], [[Taitai]], [[WuGeGeGeDouChongWo]], and [[XiSongFengyun]] — director-centered short-drama workflow added by What's Next.
