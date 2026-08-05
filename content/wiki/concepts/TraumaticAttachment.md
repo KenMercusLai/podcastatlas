@@ -2,11 +2,13 @@
 title: "Traumatic Attachment"
 type: concept
 tags: [relationships, trauma, psychology, abuse]
-sources: [18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]
-last_updated: 2026-07-25
+sources: [84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676, 18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]
+last_updated: 2026-08-06
 ---
 
 # Traumatic Attachment
+
+[[84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676]] adds a nonfiction domestic-abuse case through [[AmyButcher|Amy Butcher / 艾米]] in [[Mothertrucker|《冰路狂花》 / Mothertrucker]]. Amy knows Dave frightens her, receives outside confirmation that [[PsychologicalAbuseRecognition|psychological abuse]] is abuse, and still hesitates because love, shame, self-doubt, and memories of tenderness keep the bond emotionally active.
 
 Traumatic attachment is the relationship pattern where fear, neglect, intermittent comfort, and self-blame bind a person to someone who harms them. [[181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261]] introduces it through Xiaoxi's relationship with Colin: his crises, demands, and accusations repeatedly pull her away from work, friends, and her own needs, while occasional relief makes the bond feel like love.
 
@@ -25,6 +27,7 @@ The episode explicitly connects this pattern to [[IntermittentReinforcement]]. L
 - A harmful caregiver can become harder to see clearly when they are also the only available attachment figure.
 - Therapy may need to separate love hunger, shame, obligation, and realistic care before the person can choose differently.
 - Leaving an extractive bond can feel like cruelty when the other person performs collapse, but the source treats that guilt as part of the control risk rather than proof of responsibility.
+- Episode 84 adds that a relationship can remain emotionally binding even after a therapist names it as abuse, because the victim may still carry real love, public shame, fear of being disbelieved, and hope for the next gentle moment.
 
 ## Connections
 - [[FawnResponse]] - the appeasement response active in the relationship.
@@ -33,3 +36,4 @@ The episode explicitly connects this pattern to [[IntermittentReinforcement]]. L
 - [[Parentification]], [[ShameBasedSelfConcept]], and [[TraumaNumbing]] - episode 151's family-origin mechanisms.
 - [[CommunicationBoundarySetting]] and [[UnfawningBoundaryPractice]] - boundary concepts extended by the Xiaoxi case.
 - [[PsychicVampirePersonality]], [[RelationalIsolationControl]], and [[GuiltBasedRelationalControl]] - episode 18's extraction, isolation, and guilt-control extension.
+- [[PsychologicalAbuseRecognition]], [[WhyNotLeaveVictimBlaming]], and [[LoveRescueTrap]] - episode 84's domestic-abuse and exit-difficulty extension.

@@ -2,11 +2,13 @@
 title: "Complex Trauma Recognition"
 type: concept
 tags: [psychology, trauma, family, mental-health]
-sources: [18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 13-beishang-de-liliang-tantan-sangqin-zhitong-551507792, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]
-last_updated: 2026-07-25
+sources: [84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676, 18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 13-beishang-de-liliang-tantan-sangqin-zhitong-551507792, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]
+last_updated: 2026-08-06
 ---
 
 # Complex Trauma Recognition
+
+[[84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676]] adds an intimate-partner version through [[AmyButcher|Amy Butcher / 艾米]] and [[JoyWiebe|Joy "Joey" Wiebe / Joey]]. The source shows trauma recognition extending beyond childhood family injury: adult relationships can create chronic fear, shame, bodily shaking, concealment, and self-doubt even when the person remains professionally competent and publicly articulate.
 
 Complex trauma recognition is the practice of seeing long-term, repeated, relational harm as real trauma even when it lacks a single spectacular event. [[181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261]] builds this concept through [[IngridClayton]]'s childhood, Anthony's apparently loving family, and [[QinZong|秦总]]'s own memories of performing maturity and strength inside family insecurity.
 
@@ -31,6 +33,7 @@ The episode is careful about shame. People who fawn may reject the word "trauma"
 - Ordinary painful-memory rehearsal can reinforce distress, but complex trauma still needs paced recognition rather than simple distraction.
 - Childhood bereavement can become complex relational injury when adults hide the death, demand pretending, or block the child's right to mourn.
 - Early deprivation can help explain later extractive need, but the source separates explanation from permission to keep harming others.
+- Adult intimate abuse can require the same recognition discipline when verbal terror, religious shame, and intermittent tenderness make the injury hard to name.
 
 ## Connections
 - [[FawnResponse]] and [[FourFTraumaResponse]] - trauma responses made understandable by this recognition.
@@ -43,3 +46,4 @@ The episode is careful about shame. People who fawn may reject the word "trauma"
 - [[PainfulMemoryRehearsalRisk]] and [[ForgettingAsCognitiveFunction]] - episode 143's memory-hygiene extension.
 - [[ChildDeathEducation]], [[BereavementGriefWork]], and [[TraumaNarrativeIntegration]] - bereavement branch added by episode 13.
 - [[PsychicVampirePersonality]], [[SelfGeneratedEmotionalCapacity]], and [[ReneSpitz]] - episode 18's early-need and emotional-repair extension.
+- [[PsychologicalAbuseRecognition]], [[WhyNotLeaveVictimBlaming]], and [[SocialMediaAbuseMask]] - episode 84's adult relationship-recognition extension.

@@ -2,11 +2,13 @@
 title: "Shame-Based Self-Concept"
 type: concept
 tags: [psychology, trauma, shame, identity]
-sources: [161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202, 33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624, 151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]
+sources: [84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676, 161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202, 33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624, 151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]
 last_updated: 2026-08-06
 ---
 
 # Shame-Based Self-Concept
+
+[[84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676]] adds a relationship-abuse version through [[AmyButcher|Amy Butcher / 艾米]]. Amy's shame is sharpened by the gap between her public feminist competence and her private inability to leave Dave immediately. The source treats that gap as part of [[WhyNotLeaveVictimBlaming|victim-blaming]] pressure rather than as proof that she should have known better.
 
 Shame-based self-concept is the pattern where a person interprets injury, need, desire, or happiness as evidence that they are fundamentally bad or monstrous. [[151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]] makes this concrete through Madeline: her mother's repeated "monster" label becomes an inner explanation for why love, success, food, safety, and ordinary care feel undeserved.
 
@@ -24,6 +26,7 @@ The concept also helps interpret Laura's shame about failing to mother her sibli
 - Recovery often requires moving blame back toward the harmful adult, partner, or institution without turning hatred into the only identity.
 - Literary shame can become total when social nonconformity is interpreted as ontological failure rather than as distress, injury, or unmet need.
 - Unemployment shame can become total when a person mistakes market silence, family disappointment, or status descent for a verdict on the whole self.
+- Abuse shame can become total when a competent person interprets delayed exit as hypocrisy, weakness, or proof that they are responsible for the harm.
 
 ## Connections
 - [[GoodMorningMonster|《早安，怪物》 / Good Morning, Monster]] - source book.
@@ -33,3 +36,4 @@ The concept also helps interpret Laura's shame about failing to mother her sibli
 - [[UnfawningBoundaryPractice]] and [[FemaleSelfPossession]] - recovery directions after self-erasure.
 - [[NoLongerHuman|《人间失格》]], [[ObaYozo|大庭叶藏]], [[ComicMaskSurvival]], and [[CoercedNormality]] - episode 33's literary self-disqualification branch.
 - [[UnemploymentStigma]], [[HighlyEducatedUnemployment]], [[StatusDescentPressure]], and [[UnemployedMutualAid]] - episode 161's labor-market shame and mutual-aid branch.
+- [[AmyButcher]], [[PsychologicalAbuseRecognition]], [[SocialMediaAbuseMask]], and [[WhyNotLeaveVictimBlaming]] - episode 84's abuse-disclosure shame branch.

@@ -2,11 +2,13 @@
 title: "Action Against Anxiety"
 type: concept
 tags: [anxiety, agency, life-design, work, self-knowledge]
-sources: [18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
-last_updated: 2026-07-25
+sources: [84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676, 18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+last_updated: 2026-08-06
 ---
 
 # Action Against Anxiety
+
+[[84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676]] adds an abuse-exit travel case. [[AmyButcher|Amy Butcher / 艾米]]'s trip to [[Alaska]] does not solve the relationship by insight alone; it turns fear into movement, witness, a conversation with [[JoyWiebe|Joy "Joey" Wiebe / Joey]], and eventually a concrete decision to let Dave leave.
 
 Action against anxiety is the closing practical frame of [[sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]]. [[QianJing|钱静]] does not present selfhood as mood repair or comfort content; she repeatedly returns listener dilemmas to concrete action: check fit, improve ability, create value, move out if necessary, communicate or leave strategically, and keep a real ambition alive.
 
@@ -39,6 +41,7 @@ The source's action is not only career optimization. It also includes small stab
 - Dissent action requires emotional practices that keep social pressure from turning a principled objection into avoidance, collapse, or rage.
 - Imperfect action can be an action against anxiety when it lowers the first step enough to replace imagined evaluation with completed behavior.
 - Leaving a high-drain relationship can be an action against anxiety because it replaces endless internal diagnosis with observable boundaries, evidence, and outside support.
+- Episode 84 adds that action may start indirectly: traveling toward a witness can become the step that makes later exit possible.
 
 ## Connections
 - [[QianJing|钱静]] and [[WoYouZijiDeYuzhou|《我有自己的宇宙》]] - source voice and book.
@@ -53,3 +56,4 @@ The source's action is not only career optimization. It also includes small stab
 - [[NegotiationAsBargaining]], [[BATNA]], [[ReservationValue]], and [[InterestBasedNegotiation]] - episode 106's conflict-action extension.
 - [[PsychologicalFlexibilityForDissent]], [[PrincipledDisobedience]], and [[InsiderDissentStrategy]] - disobedience-pressure extension from episode 116.
 - [[PerfectionismAsAvoidance]], [[ImperfectActionPractice]], [[BinaryActionThinking]], and [[FailureDesensitization]] - episode 129's anti-perfectionist action extension.
+- [[AmyButcher]], [[JoyWiebe]], [[DaltonHighway]], [[PsychologicalAbuseRecognition]], and [[OrdinaryEscapeCourage]] - episode 84's travel, witness, and exit extension.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-06] ingest | 84.冰路狂花：好姑娘，你只是忘了勇敢
+
+Added source page for a 蜜獾吃书 episode on Amy Butcher's Mothertrucker, Joy "Joey" Wiebe, Alaska's Dalton Highway, psychological abuse, "why doesn't she leave" victim blaming, social-media masking, love-as-rescue, and courage as concrete exit. Created pages for Mothertrucker, Amy Butcher, Joy Wiebe, Dalton Highway, Prudhoe Bay, Psychological Abuse Recognition, Why-Not-Leave Victim Blaming, Social Media Abuse Mask, Love Rescue Trap, and High-Risk Labor Mutual Aid; updated overview, index, 蜜獾吃书, Alaska, Instagram, Traumatic Attachment, Complex Trauma Recognition, Shame-Based Self-Concept, Female Self-Possession, Intermittent Reinforcement, Extreme Environment Risk Management, Action Against Anxiety, and Ordinary Escape Courage. No direct contradiction found; the source complements the wiki's fawning and traumatic-attachment branch by showing a nonfiction domestic-abuse case where education, feminism, love, shame, public image, and practical resources all complicate exit.
+
 ## [2026-08-06] ingest | 81.间谍与叛徒：恕我直言，007的故事弱爆了（下）
 
 Added source page for a 蜜獾吃书 continuation episode on Ben Macintyre's 《间谍与叛徒》, Oleg Gordievsky's London intelligence work, Operation RYAN, Cold War nuclear misperception, Aldrich Ames's betrayal, Operation Pimlico, extraction through Finland, and the costs of source protection. Created pages for CIA, Aldrich Ames, Operation RYAN, Margaret Thatcher, Ronald Reagan, Mikhail Gorbachev, Yuri Andropov, Finland, Veronica Price, Michael Foot, Michael Bettaney, Cold War Nuclear Misperception, Intelligence Liaison Risk, Extraction Promise Ethics, and Strategic Intelligence Interpretation; updated overview, index, 蜜獾吃书, Oleg Gordievsky, KGB, MI6, Operation Sunbeam, Operation Pimlico, Ben Macintyre, The Spy and the Traitor, Soviet Union, United Kingdom, United States, Denmark, Russia, Ideological Defection, Totalitarian Double Life, Cold War Spycraft, Spy Source Protection, Insider Dissent Strategy, Administrative Opacity As Control, Ideological Totalization Risk, and Principled Disobedience. No direct contradiction found; the source keeps the Michael Foot/KGB-money allegation source-scoped and unresolved while extending the wiki's Cold War branch from ideological defection into strategic warning, ally-side exposure risk, and the ethics of extraction.
@@ -5844,3 +5848,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran health before lint; health scanned 8,271 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,271 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 8,271 pages; treat graph findings as stale until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. No `wiki/lint-report.md` file was saved.

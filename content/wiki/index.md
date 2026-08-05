@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [84.冰路狂花：好姑娘，你只是忘了勇敢](sources/84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676.md) — 蜜獾吃书 episode on Amy Butcher's Mothertrucker, Joy Wiebe, Alaska's Dalton Highway, psychological abuse, why-not-leave victim blaming, and courage as concrete exit.
 - [83.梳毛、八卦及语言的进化：人际关系“邓巴数”，咱不服不行](sources/83-shumao-bagua-ji-yuyan-de-jinhua-renji-guanxi-dengbashu-zan-bu-fu-bu-xing-698132861.md) — 蜜獾吃书 episode on Robin Dunbar, Dunbar Number, social grooming, gossip, language evolution, workplace informal talk, group-boundary language, and podcast intimacy.
 - [81.间谍与叛徒：恕我直言，007的故事弱爆了（下）](sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209.md) — 蜜獾吃书 episode continuing Oleg Gordievsky's London intelligence work, Operation RYAN, Aldrich Ames's betrayal, Operation Pimlico, escape through Finland, and the costs of source protection.
 - [80.间谍与叛徒：恕我直言，007的故事弱爆了（上）](sources/80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649.md) — 蜜獾吃书 episode on Ben Macintyre's 《间谍与叛徒》, Oleg Gordievsky, KGB, MI6, ideological defection, Denmark, Operation Sunbeam, and Operation Pimlico.
@@ -732,6 +733,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Mothertrucker / 《冰路狂花》](entities/Mothertrucker.md) — Amy Butcher nonfiction book read by episode 84 as a road memoir about abuse, friendship, Alaska, and delayed courage.
+- [Amy Butcher / 艾米](entities/AmyButcher.md) — Writer and teacher whose public feminist fluency and private abusive relationship anchor episode 84's trauma-recognition branch.
+- [Joy "Joey" Wiebe / Joey](entities/JoyWiebe.md) — Female ice-road trucker whose Dalton Highway competence, wounded history, and witness role shape Mothertrucker.
+- [Dalton Highway / 道尔顿公路](entities/DaltonHighway.md) — Alaska road used by episode 84 as both high-risk labor setting and embodied escape route.
+- [Prudhoe Bay / 普拉德霍湾](entities/PrudhoeBay.md) — Northern Alaska destination in episode 84 where arrival becomes safety without a neat rescue ritual.
 - [Robin Dunbar / 罗宾·邓巴](entities/RobinDunbar.md) — Evolutionary psychologist presented by episode 83 through Dunbar Number and the language-as-social-grooming thesis.
 - [《梳毛、八卦及语言的进化》 / Grooming, Gossip and the Evolution of Language](entities/GroomingGossipAndEvolutionOfLanguage.md) — Robin Dunbar book used by episode 83 to connect primate grooming, gossip, language evolution, and modern sociability.
 - [CIA / Central Intelligence Agency / 中情局](entities/CIA.md) — U.S. intelligence service whose need for Soviet-warning intelligence and curiosity about Britain's source created ally-side exposure risk in episode 81.
@@ -5064,6 +5070,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Psychological Abuse Recognition / 精神虐待识别](concepts/PsychologicalAbuseRecognition.md) — Naming intimidation, verbal terror, shame, and reality distortion as abuse even without visible injury.
+- [Why-Not-Leave Victim Blaming / “为什么不离开”受害者责难](concepts/WhyNotLeaveVictimBlaming.md) — Critique of treating delayed exit from abuse as the victim's failure rather than a control, fear, shame, and resource problem.
+- [Social Media Abuse Mask / 社交媒体虐待遮蔽](concepts/SocialMediaAbuseMask.md) — Curated online peace or courage making private abuse and pain harder to see.
+- [Love Rescue Trap / 以爱拯救陷阱](concepts/LoveRescueTrap.md) — Pattern where love, forgiveness, or endurance becomes a self-erasing attempt to save a harmful partner.
+- [High-Risk Labor Mutual Aid / 高风险劳动互助](concepts/HighRiskLaborMutualAid.md) — Survival-oriented help network among workers facing dangerous terrain, weather, isolation, and fatigue.
 - [Dunbar Number / 邓巴数](concepts/DunbarNumber.md) — Approximate 150-person relationship-capacity frame connecting group size, cognition, and social-maintenance bandwidth.
 - [Social Grooming / 社会性梳毛](concepts/SocialGrooming.md) — Grooming as costly trust, alliance, and emotional-regulation work in the Dunbar-language branch.
 - [Gossip As Social Grooming / 八卦作为社会性梳毛](concepts/GossipAsSocialGrooming.md) — Revalues gossip and small talk as relationship mapping and maintenance, while preserving harm boundaries.
