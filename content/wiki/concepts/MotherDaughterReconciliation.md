@@ -2,8 +2,8 @@
 title: "Mother-Daughter Reconciliation"
 type: concept
 tags: [family, grief, care, life-design]
-sources: [ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425]
-last_updated: 2026-07-12
+sources: [ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552]
+last_updated: 2026-08-05
 ---
 
 # Mother-Daughter Reconciliation
@@ -12,11 +12,14 @@ Mother-daughter reconciliation is the process of reinterpreting maternal absence
 
 QinZong's version is grief and missed goodbye. She recognizes that her early wish to have a daughter may have been a way to become the mother her younger self needed, and she imagines restarting one hospital-day walk so she could face what her mother wanted to say. YinJie's version is ongoing repair: with age, she can understand her mother better, make her happy more deliberately, and help her accept a daughter who does not marry or have children but is living well.
 
+[[15-bijingji-gengnianqi-gei-wo-ziyou-557912552]] adds [[ItoHiromi|伊藤比吕美]]'s more jagged version through [[BijingJi|《闭经记》]]. Ito recognizes that she is becoming like the strong mother she once resisted, then tries not to repeat that pattern with her own daughter: she connects the daughter's pregnancy and breastfeeding to her own earlier body history, but she also avoids taking over the daughter's new household life.
+
 ## Key Claims
 
 - Reconciliation can happen with memory, not only with direct repair; the missing parent can still shape later self-understanding.
 - Wanting to mother someone else may sometimes hide a wish to mother one's own child-self.
 - Adult daughters may understand mothers differently after seeing the pressures, compromises, and historical context around their lives.
+- Repair can include deciding not to repeat the mother's form of care, especially when help would become control.
 - Family repair can include helping a parent accept a life choice that diverges from marriage or motherhood expectations.
 
 ## Connections
@@ -26,3 +29,4 @@ QinZong's version is grief and missed goodbye. She recognizes that her early wis
 - [[RegretIntegration]] - grief and conflict held inside the present self.
 - [[LifeRestartThoughtExperiment]] - prompt that reveals the unspoken goodbye.
 - [[FemaleSelfPossession]] - choosing a life beyond inherited family expectations.
+- [[ItoHiromi|伊藤比吕美]], [[BijingJi|《闭经记》]], and [[MenopauseAsFreedom]] - source case where mother, daughter, pregnancy, aging, and bodily self-command intersect.

@@ -1,22 +1,26 @@
 ---
-title: "《毕竟记》"
+title: "《闭经记》"
 type: entity
-tags: [book, japan, life-writing, aging]
-sources: [kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080]
-last_updated: 2026-07-18
+tags: [book, japan, life-writing, aging, women, menopause]
+sources: [kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552]
+last_updated: 2026-08-05
 ---
 
-# 《毕竟记》
+# 《闭经记》
 
-《毕竟记》 is mentioned in [[kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080]] as the earlier [[ItoHiromi|伊藤比吕美]] book whose style is continued in [[ChurouNoOnna|《初老的女人》]]. The source does not summarize 《毕竟记》 directly; it uses the title as a reference point for readers who already know Ito's previous work.
+[[kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080]] first mentioned 《闭经记》 as the earlier [[ItoHiromi|伊藤比吕美]] book whose style is continued in [[ChurouNoOnna|《初老的女人》]]. That earlier wiki ingest rendered the title as 《毕竟记》; [[15-bijingji-gengnianqi-gei-wo-ziyou-557912552]] confirms the book as 《闭经记》 and supplies the full source context.
+
+In the episode, 《闭经记》 is read as a candid essay collection about menopause, menstruation, shame, mothering, daughters, parents, partners, female friends, food, depression, and death. Its "revenge" is not a direct attack but an older woman's refusal to keep bodily change, resentment, love, and aging polite. The book becomes the source for [[MenopauseAsFreedom]] because it treats the end of menstruation as both physical disruption and partial release from fertility-centered womanhood.
 
 ## Key Claims
-- The source establishes 《毕竟记》 as part of the same authorial continuity that makes [[ChurouNoOnna|《初老的女人》]] attractive to the host.
-- The page should not infer the book's argument beyond that continuity until a fuller source is added.
-- Its current wiki value is relational: it helps track Ito's life-writing style across books.
+- The book's title makes a stigmatized life-stage speakable instead of hiding it behind politeness or medical euphemism.
+- Menopause is not framed as simple decline; it is a moment when menstruation, fertility, youth, family service, and female identity can be reexamined.
+- The book's light, humorous tone carries serious observations about [[MenstrualStigma]], [[GenderedMedicalization]], [[MotherDaughterReconciliation]], and [[FemaleSelfPossession]].
+- Its wiki role now links Ito's earlier menopause writing to the later [[ChurouNoOnna|《初老的女人》]] branch on post-menopausal [[EmbodiedAging]].
 
 ## Connections
 - [[ItoHiromi|伊藤比吕美]] - author associated with the book in the source.
 - [[ChurouNoOnna|《初老的女人》]] - later book whose style the host says continues from this one.
-- [[EmbodiedAging]] - adjacent branch that episode 110 develops more fully through Ito.
-- [[ReadingListPointerEpisode]] - source format that keeps this mention brief.
+- [[MenopauseAsFreedom]] - main concept added by the full episode.
+- [[FemaleBodyFreedom]], [[MenstrualStigma]], [[GenderedMedicalization]], and [[EmbodiedAging]] - body and aging concepts connected by the source.
+- [[MotherDaughterReconciliation]] and [[FemaleSelfPossession]] - family and agency frames the book extends.

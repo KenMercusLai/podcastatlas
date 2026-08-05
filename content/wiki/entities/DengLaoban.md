@@ -1,9 +1,9 @@
 ---
 title: "邓老板"
 type: entity
-tags: [host, football, finance, books]
-sources: [22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]
-last_updated: 2026-07-25
+tags: [host, football, finance, books, gender]
+sources: [22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552]
+last_updated: 2026-08-05
 ---
 
 # 邓老板
@@ -12,8 +12,11 @@ last_updated: 2026-07-25
 
 His role is especially clear in the episode's treatment of [[ArseneWenger|Arsene Wenger / 温格]], club finance, and [[GameTheory]]. He helps explain why football can be a "clean" economic example: the sport has enough history and data to test claims, yet the situations remain concrete enough for non-specialist readers.
 
+[[15-bijingji-gengnianqi-gei-wo-ziyou-557912552]] adds 邓老板's role in the [[BijingJi|《闭经记》]] discussion. She is one of the voices who keeps the episode from becoming a single affirmative line about women, menopause, or alliance: she questions the durability of "女性联盟," admits the ambivalence of wanting youth even after intellectually rejecting youth worship, and uses her missed-period anxiety to show that [[MenopauseAsFreedom]] is emotionally mixed.
+
 ## Connections
 - [[QinZong|秦总]] - co-discussion partner and former publishing editor for the Chinese edition.
 - [[MihuanChishu|蜜獾吃书]] - show context.
 - [[Soccernomics]], [[FootballAsEconomicLaboratory]], and [[EconomicWayOfThinking]] - source frame.
 - [[ArseneWenger]], [[SoftBudgetFootballClubs]], and [[GameTheory]] - topics where his fan and finance perspective matters.
+- [[BijingJi|《闭经记》]], [[MenopauseAsFreedom]], and [[FemaleSelfPossession]] - episode 15's menopause and gender-discussion branch.

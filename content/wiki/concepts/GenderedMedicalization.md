@@ -2,8 +2,8 @@
 title: "Gendered Medicalization"
 type: concept
 tags: [gender, medicine, body, social-control]
-sources: [110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
-last_updated: 2026-07-17
+sources: [110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552]
+last_updated: 2026-08-05
 ---
 
 # Gendered Medicalization
@@ -14,14 +14,18 @@ The concept is useful because it avoids a simple science-versus-superstition spl
 
 [[110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278]] adds an aging-health version. Ito's checkups, diabetes monitoring, weight judgment, gynecological-health reminder, and insurance segment show that medical attention can be necessary while still carrying shame, delay, and anxiety when the body is read as risk.
 
+[[15-bijingji-gengnianqi-gei-wo-ziyou-557912552]] adds a reproductive-aging version. The hosts argue that everyday narratives often exaggerate menopause, hysterectomy, and reproductive-system change as immediate decline while minimizing childbirth pain and pregnancy's long aftereffects. The source also keeps the hormone-therapy question ambivalent: delaying menopause may express youth attachment, health anxiety, or an attempt to manage symptoms rather than simple vanity.
+
 ## Key Claims
 - Medical advice can be materially helpful while still carrying gendered assumptions about fragility, sexuality, emotion, or capacity.
 - Menstrual restrictions become social control when they exceed actual health needs and limit work, study, movement, or legal agency.
 - The boundary between care and control depends on whether menstruating people gain safer choices or lose public participation.
 - In later life, medicalization can be both responsible monitoring and a source of bodily humiliation, especially around weight, chronic disease, and women's health checks.
+- Reproductive-aging claims require symmetry: menopause and surgery should not be inflated into social fear while pregnancy and birth are softened into inevitability.
 
 ## Connections
 - [[MenstrualStigma]] - stigma can be restated in medical language.
 - [[ProtectionAsControl]] - safety framing can become restriction.
 - [[MenstrualProductSocialHistory]] - product improvement depends partly on medical knowledge but should not be governed only by medicalized suspicion.
 - [[FemaleBodyFreedom]], [[EmbodiedAging]], and [[HealthInsurancePlanning]] - later-life health monitoring and insurance-planning extension.
+- [[MenopauseAsFreedom]] and [[BijingJi|《闭经记》]] - reproductive-aging extension added by episode 15.

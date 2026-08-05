@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [15.闭经记：更年期给我自由！](sources/15-bijingji-gengnianqi-gei-wo-ziyou-557912552.md) — 蜜獾吃书 episode on 伊藤比吕美《闭经记》, menopause, menstrual shame, mother-daughter inheritance, female friendship, embodied aging, and bodily self-possession beyond fertility and youth.
 - [05.她来自马里乌波尔：“如果你看见过我曾见到的。”](sources/05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925.md) — 蜜獾吃书 episode on 纳塔莎·沃丁《她来自马里乌波尔》, Mariupol, family memory, Soviet repression, Ukrainian famine, Nazi Eastern forced labor, postwar displacement, and silence after catastrophe.
 - [John Coogan on Soylent, Lucy, Founders Fund, and TBPN](sources/tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1.md) — The Social Radars episode with John Coogan on Imagine K-12, startup scarcity, Soylent's viral launch, Lucy's regulated nicotine-gum bet, Founders Fund, YouTube, and building TBPN as a daily live tech-media show.
 - [How botnets infiltrate the internet of things](sources/tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128.md) — Marketplace Tech episode with Brian Krebs on KimWolf, compromised TV streaming boxes, routers, botnets, proxy networks, DDoS amplification, command-and-control, and router replacement as consumer security hygiene.
@@ -2026,7 +2027,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Air Purifier / 空气净化器](entities/AirPurifier.md) — Household air-cleaning technology framed by episode 97 as allergy infrastructure and a filtered indoor-space response.
 - [王大可](entities/WangDake.md) — Zoology author introduced through 《他们的性》 and the episode's animal reproductive strategy pointer.
 - [《他们的性》](entities/TamenDeXing.md) — Wang Dake book used by the episode to route listeners to an animal reproduction and reproductive strategies discussion.
-- [《毕竟记》](entities/BijingJi.md) — Earlier Ito Hiromi book mentioned as the style predecessor to 《初老的女人》.
+- [《闭经记》](entities/BijingJi.md) — Ito Hiromi essay collection using menopause to revisit menstruation, body shame, family roles, female friendship, and aging.
 - [《烧钱》](entities/ShaoQianBook.md) — Overseas China studies book introduced through paper-money ritual and material pursuit in spiritual life.
 - [海外中国研究丛书](entities/OverseasChinaStudiesSeries.md) — Book series named as the context for 《烧钱》 and an unnamed immortality-practice study.
 - [刘东](entities/LiuDong.md) — Series editor named in connection with 海外中国研究丛书.
@@ -4681,6 +4682,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Menopause As Freedom / 更年期作为自由](concepts/MenopauseAsFreedom.md) — Frame where menopause loosens fertility, youth, and gender-role claims without denying bodily discomfort or ambivalence.
 - [Ostarbeiter Forced Labor / 东方劳工强制劳动](concepts/OstarbeiterForcedLabor.md) — Nazi Germany's Eastern forced-labor system and its postwar afterlife of stigma, repatriation fear, displacement, and family silence.
 - [Family Memory Nonfiction / 家族记忆非虚构](concepts/FamilyMemoryNonfiction.md) — Nonfiction mode that reconstructs family absence through archives, relatives, documents, photographs, and narrative restraint.
 - [Disaster Silence And Shame / 灾难后的沉默与羞耻](concepts/DisasterSilenceAndShame.md) — Pattern where survivors of historical catastrophe fall silent because trauma, disbelief, survival pressure, or shame blocks testimony.

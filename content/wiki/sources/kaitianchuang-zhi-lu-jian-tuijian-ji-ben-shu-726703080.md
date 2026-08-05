@@ -18,7 +18,7 @@ This short [[MihuanChishu|蜜獾吃书]] interval is a [[ReadingListPointerEpiso
 ## Key Claims
 - The episode explicitly frames itself as a light "water a few sentences" installment because of the adjusted holiday schedule.
 - [[TamenDeXing|《他们的性》]] is presented through the 423 exclusive episode as a book by Oxford zoology PhD [[WangDake|王大可]] about animal reproduction and reproductive strategies, adding an [[AnimalReproductiveStrategies]] branch to the show.
-- [[ChurouNoOnna|《初老的女人》]] is praised as continuing [[ItoHiromi|伊藤比吕美]]'s earlier style from [[BijingJi|《毕竟记》]], with interest focused on aging, widowhood, and the way a husband can be alive in some essays and dead in others.
+- [[ChurouNoOnna|《初老的女人》]] is praised as continuing [[ItoHiromi|伊藤比吕美]]'s earlier style from [[BijingJi|《闭经记》]], with interest focused on aging, widowhood, and the way a husband can be alive in some essays and dead in others.
 - [[ShaoQianBook|《烧钱》]] is introduced as part of [[OverseasChinaStudiesSeries|海外中国研究丛书]], with the episode summarizing its topic as Chinese material pursuit inside spiritual life.
 - The unnamed overseas China studies book on immortality practice is treated only as a browsed academic lead; the source does not provide enough title-level detail to make a separate book page.
 - [[GuanggunWeiji|《光棍危机》]] is recommended as an especially insightful book on Asian male population surplus, social stability, security, politics, sociology, and life-science evidence; the source notes that [[FrancisFukuyama|Francis Fukuyama / 福山]] recommended it.
@@ -36,7 +36,7 @@ This short [[MihuanChishu|蜜獾吃书]] interval is a [[ReadingListPointerEpiso
 - [[MihuanChishu|蜜獾吃书]] - show context; this source extends its lighter reading-list and program-routing mode.
 - [[ReadingListPointerEpisode]], [[ReadingAsLifeExperience]], and [[NonInstrumentalLiteraryReading]] - format and reading-practice frames for a short book-list episode.
 - [[TamenDeXing|《他们的性》]], [[WangDake|王大可]], and [[AnimalReproductiveStrategies]] - animal reproduction branch routed through the exclusive 423 episode.
-- [[ItoHiromi|伊藤比吕美]], [[ChurouNoOnna|《初老的女人》]], [[BijingJi|《毕竟记》]], and [[EmbodiedAging]] - aging and life-writing branch later developed by episode 110.
+- [[ItoHiromi|伊藤比吕美]], [[ChurouNoOnna|《初老的女人》]], [[BijingJi|《闭经记》]], and [[EmbodiedAging]] - aging and life-writing branch later developed by episode 110.
 - [[ShaoQianBook|《烧钱》]], [[OverseasChinaStudiesSeries|海外中国研究丛书]], [[LiuDong|刘东]], [[PaperMoneyRitualMateriality]], and [[ChineseFolkReligionLayering]] - ritual money and overseas China studies branch.
 - [[GuanggunWeiji|《光棍危机》]], [[MaleSurplusSecurityRisk]], and [[FrancisFukuyama|Francis Fukuyama / 福山]] - gender, demography, and security branch.
 - [[JiujiuwuDeDansheng|《居酒屋的诞生》]], [[EverydayFoodCultureHistory]], [[MaterialHistoryNarrative]], and [[Japan]] - Japanese everyday food-culture history branch.

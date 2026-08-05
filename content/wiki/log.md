@@ -5412,3 +5412,11 @@ Added source page for a 蜜獾吃书 episode on Natascha Wodin's 《她来自马
 ## [2026-08-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-05] ingest | 15.闭经记：更年期给我自由！
+
+Added source page for a 蜜獾吃书 episode on 伊藤比吕美《闭经记》, menopause, menstrual shame, mother-daughter inheritance, female friendship, embodied aging, and bodily self-possession beyond fertility and youth. Created Menopause As Freedom; updated overview, index, 蜜獾吃书, 伊藤比吕美, 《闭经记》, 《初老的女人》, 秦总, 邓老板, 北明, Female Body Freedom, Menstrual Stigma, Gendered Medicalization, Embodied Aging, Female Self-Possession, and Mother-Daughter Reconciliation. Corrected the existing BijingJi page title from 《毕竟记》 to 《闭经记》; no other direct contradiction found.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
