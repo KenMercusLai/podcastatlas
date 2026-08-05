@@ -5629,6 +5629,10 @@ Added source page for a 蜜獾吃书 episode on Angela Carter's 《精怪故事�
 
 Added source page for a 蜜獾吃书 episode on Nigel Barley's 《天真的人类学家》, Dowayo fieldwork in Cameroon, fieldwork romance deflation, participant-observer entanglement, missionary support, development-project unintended consequences, and visual/linguistic representation friction. Created pages for 《天真的人类学家》, Nigel Barley, Dowayo People, Cameroon, Bronislaw Malinowski, Fieldwork Romance Deflation, Ethnographic Everyday Friction, Participant-Observer Entanglement, Missionary Fieldwork Infrastructure, Development Project Unintended Consequences, and Visual Representation Literacy; updated overview, index, 蜜獾吃书, 秦总, Fieldwork As Knowledge Method, Anthropology Fieldwork Safety, Linguistic Relativity, and Good Intentions Political Limits. No direct contradiction found; the source complements episode 113 by moving the anthropology branch from catastrophic fieldwork harm into everyday dependence, comic self-exposure, and development ambiguity.
 
+## [2026-08-06] ingest | 161.攥着文凭失业，我怎么爬出这个陷阱
+
+Added source page for a 蜜獾吃书 episode on high-education unemployment, 《污名陷阱》, unemployment stigma, opaque hiring, long-term unemployment penalty, weak ties, honest gap narratives, status descent pressure, family pressure, unemployed mutual aid, and caution against reactive entrepreneurship. Created pages for 《污名陷阱》, Highly Educated Unemployment, Unemployment Stigma, Opaque Hiring Market, Long-Term Unemployment Penalty, Status Descent Pressure, and Unemployed Mutual Aid; updated overview, index, 蜜獾吃书, 秦总, Career Self-Rescue, Career Shore Myth, Degree As Trust Credential, Workplace Hidden Rules, Weak-Tie Opportunity, Achievement Pressure Mental Health, and Shame-Based Self-Concept. No direct contradiction found; the source qualifies the wiki's credential and career-shore branches by showing how education and prior status can become negative signals under opaque hiring and unemployment stigma.
+
 ## [2026-08-06] ingest | 34.猫咪秘史：呵，愚蠢又可爱的人类
 
 Added source page for a 蜜獾吃书 episode on 《猫咪秘史：从史前时期到太空时代》, cat domestication, cats as pest-control and ship/war infrastructure, Bastet and Egyptian cat worship, Asian soul-cat legends, medieval European cat demonization, literary rehabilitation, and Felicette in the space age. Created pages for Cat / 猫, 《猫咪秘史：从史前时期到太空时代》, Bastet / 巴斯特, Felicette / 菲利切特, Cat Domestication History, Cat As Civilizational Infrastructure, Cat Religious Mythology, and Cat Cultural Ambivalence; updated overview, index, 蜜獾吃书, Human-Animal Continuity In Myth, Animal Moral Projection, Witch-Hunt Mechanism, Companion Animal Health, Animal Welfare As Public Health, Story Motif Transmission, and Myth As Historical Evidence. No direct contradiction found; the source extends the wiki's animal-history and mythology branches while keeping legend-heavy anecdotes source-scoped.
@@ -5700,6 +5704,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] ingest | 37.智商测试：请问你是智力婆罗门吗？
 
 Added source page for a 蜜獾吃书 episode on 《智商测试》, intelligence testing, Francis Galton, eugenics, social Darwinism, Binet-Simon child testing, Henry Goddard and the Kallikak family, immigration and army testing, educational tracking, Carrie Buck, Nazi eugenic killing, and meritocratic arrogance. Created pages for 《智商测试》, Francis Galton, Alfred Binet, Theodore Simon, Henry Goddard, Kallikak Family, Carrie Buck, Intelligence Testing, Eugenic Governance, Social Darwinism, Psychometric Social Sorting, Cultural Bias In Testing, Educational Tracking By Testing, Forced Sterilization By Eugenics, and Meritocratic Arrogance; updated overview, index, Charles Darwin, H. G. Wells, Nazi Germany, Rational Humility, Achievement Pressure Mental Health, Social Comparison Pressure, Merit-Based Immigration Filter, Anti-Authoritarian Education, Algorithmic Labeling, 蜜獾吃书, and 秦总. No direct contradiction found; the source extends the wiki's education-pressure and measurement branches by showing how a cognitive test can move from self-knowledge or school support into social rank, state sorting, reproductive control, and contempt.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [161.攥着文凭失业，我怎么爬出这个陷阱](sources/161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202.md) — 蜜獾吃书 episode on high-education unemployment, 《污名陷阱》, unemployment stigma, opaque hiring, long-term unemployment penalty, weak ties, status descent pressure, and unemployed mutual aid.
 - [38.安吉拉卡特精怪故事集：哦！迷人的悍妇！](sources/38-anjila-kate-jingguai-gushiji-o-mirende-hanfu-609607139.md) — 蜜獾吃书 episode on Angela Carter's 《精怪故事集》, grandmotherly oral storytelling, unruly women in folktales, feminist fairy-tale rewriting, desanitized fairy-tale material, and cross-cultural tale flow.
 - [37.智商测试：请问你是智力婆罗门吗？](sources/37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679.md) — 蜜獾吃书 episode on intelligence testing history, Galton and eugenics, Binet-Simon school testing, Goddard and the Kallikak case, Carrie Buck, Nazi eugenics, educational tracking, and meritocratic arrogance.
 - [36.黑暗的左手：流放与爱的未来往事](sources/36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522.md) — 蜜獾吃书 episode on Ursula K. Le Guin's The Left Hand of Darkness, Gethen's ambisexual society, Genly Ai and Estraven, Ekumen diplomacy, shifgrethor, nationalism as hatred, correct questioning, and intimacy beyond gender scripts.
@@ -715,6 +716,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《污名陷阱》](entities/WumingXianjing.md) — book used by episode 161 to frame high-education unemployment as a stigma trap involving hiring suspicion, family pressure, and self-blame.
 - [《精怪故事集》](entities/JingguaiGushiji.md) — Angela Carter folk- and fairy-tale collection read by episode 38 as a desanitized, female-forward story world of desire, tricks, cruelty, maternal wit, and comic agency.
 - [《染血之室》 / The Bloody Chamber](entities/TheBloodyChamber.md) — Carter fairy-tale rewriting example used by episode 38 to show agency shifting away from male rescue toward maternal action.
 - [《萨德的女人》 / The Sadeian Woman](entities/TheSadeianWoman.md) — Carter theoretical reference used by episode 38 to frame sex, repression, liberation, and female value beyond reproduction.
@@ -4941,6 +4943,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Highly Educated Unemployment / 高学历失业](concepts/HighlyEducatedUnemployment.md) — unemployment condition where degrees, elite schooling, or prior status fail to secure work and can intensify stigma.
+- [Unemployment Stigma / 失业污名](concepts/UnemploymentStigma.md) — process by which joblessness is read as defective character, ability, effort, or stability.
+- [Opaque Hiring Market / 不透明招聘市场](concepts/OpaqueHiringMarket.md) — hiring environment where applicants, employers, HR screeners, and referrers make decisions from incomplete signals.
+- [Long-Term Unemployment Penalty / 长期失业惩罚](concepts/LongTermUnemploymentPenalty.md) — compounding disadvantage where time out of work becomes a negative hiring signal.
+- [Status Descent Pressure / 身份落差压力](concepts/StatusDescentPressure.md) — identity pressure that appears when a person moves from a prestigious role into lower-status or more precarious work.
+- [Unemployed Mutual Aid / 失业者互助](concepts/UnemployedMutualAid.md) — job-seeker support pattern that shares leads, information, and emotional witness against unemployment shame.
 - [Female Oral Storytelling / 女性口头叙事](concepts/FemaleOralStorytelling.md) — Episode 38 frame for mothers, grandmothers, and old wives as serious transmitters of folk knowledge, jokes, desire, household labor, and survival intelligence.
 - [Unruly Women In Folktales / 民间故事中的悍妇](concepts/UnrulyWomenInFolktales.md) — Carter-source pattern where women in old tales deceive, desire, rescue, punish, refuse, or laugh without becoming morally clean heroines.
 - [Feminist Fairy-Tale Rewriting / 女性主义童话改写](concepts/FeministFairyTaleRewriting.md) — Rewriting method that changes who gets voice, desire, danger, and decisive action inside inherited fairy-tale plots.

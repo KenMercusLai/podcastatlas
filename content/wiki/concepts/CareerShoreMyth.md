@@ -2,8 +2,8 @@
 title: "Career Shore Myth"
 type: concept
 tags: [career, workplace, stability, big-company]
-sources: [da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
-last_updated: 2026-07-15
+sources: [161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
+last_updated: 2026-08-06
 ---
 
 # Career Shore Myth
@@ -16,6 +16,8 @@ The concept does not say people should avoid large companies. It says the expect
 
 [[vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]] adds the social-clock failure version. [[FuYu|傅宇]] describes students planning GPA, internships, and "上岸" earlier while parents also notice that strong credentials can lead to disappointing work. The episode's [[HikikomoriStrategicRetreat]] frame treats pausing as a possible response when the promised shore no longer feels credible.
 
+[[161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202]] adds the unemployment-after-credential version. [[HighlyEducatedUnemployment]] shows the shore myth breaking after the person already has a diploma, senior role, or elite self-image: leaving the old field can make return difficult, while lowering salary or title can trigger suspicion in an [[OpaqueHiringMarket|opaque hiring market]].
+
 ## Key Claims
 
 - "上岸" is dangerous when it turns a temporary system into a promised life destination.
@@ -25,6 +27,7 @@ The concept does not say people should avoid large companies. It says the expect
 - The myth is especially tempting for people who climbed through education, migration, and family sacrifice because the large company can look like proof that the climb is complete.
 - Exiting a large company does not automatically mean freedom, but it can reveal which forms of autonomy, income, family support, and self-directed work remain possible.
 - Vol.102 adds that "上岸" pressure can start earlier when students internalize weak opportunity conditions before graduation.
+- Episode 161 adds that "上岸" can fail retrospectively: credentials and prior titles may no longer protect someone once unemployment, age, gaps, or overqualification become negative signals.
 
 ## Connections
 
@@ -37,3 +40,4 @@ The concept does not say people should avoid large companies. It says the expect
 - [[QianJing|钱静]], [[ObjectiveSelfOwnership]], and [[ActionAgainstAnxiety]] - civil-service and exam-pressure extension.
 - [[ImperialExaminationAsOnlyExit]] - older credential-monopoly analogue.
 - [[GraduationAnxiety]], [[HikikomoriStrategicRetreat]], and [[YouthHappinessAfterGrowth]] - vol.102's social-clock and strategic-pause extension.
+- [[DegreeAsTrustCredential]], [[LongTermUnemploymentPenalty]], [[StatusDescentPressure]], and [[UnemploymentStigma]] - episode 161's credential-collapse and job-loss extension.

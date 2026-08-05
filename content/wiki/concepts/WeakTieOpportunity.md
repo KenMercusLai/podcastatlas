@@ -2,8 +2,8 @@
 title: "Weak-Tie Opportunity"
 type: concept
 tags: [networks, career, publishing, opportunity]
-sources: [172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, can-transforming-neighborhoods-help-kids-escape-poverty]
-last_updated: 2026-07-24
+sources: [161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, can-transforming-neighborhoods-help-kids-escape-poverty]
+last_updated: 2026-08-06
 ---
 
 # Weak-Tie Opportunity
@@ -14,12 +14,15 @@ The source treats weak ties as maintenance work rather than social spamming. A l
 
 [[can-transforming-neighborhoods-help-kids-escape-poverty]] adds a childhood and class-mobility version through [[CrossClassSocialCapital]]. [[RajChetty]]'s proposed mechanisms for HOPE VI gains overlap with weak-tie logic: higher-income peers and families can expose low-income children to job paths, college information, and aspirations that are scarce inside isolated poverty networks.
 
+[[161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202]] adds a job-search and stigma-prevention version. The source argues that weak ties are easier to use when they were built through ordinary interests before crisis; once [[UnemploymentStigma]] and urgency dominate, asking close family or cold contacts can feel shameful, overly instrumental, or socially costly.
+
 ## Key Claims
 - Weak ties carry nonredundant information because they sit outside one's habitual environment.
 - Publishing and creative work often depend on weak-link discovery of authors, topics, and collaborators.
 - Weak ties need boundaries; repeated interruption can damage the channel.
 - Small public traces can make future opportunities easier to route back to a person.
 - Cross-class ties can carry opportunity information before a child is old enough to frame it as networking or career strategy.
+- Episode 161 adds that weak ties can reduce dependence on opaque formal hiring channels, especially for people changing fields or explaining unemployment gaps.
 
 ## Connections
 - [[LuckAsInformationBandwidth]] - weak ties increase external signal bandwidth.
@@ -27,3 +30,4 @@ The source treats weak ties as maintenance work rather than social spamming. A l
 - [[PersonalKnowledgeEcology]] - adjacent idea that useful information becomes valuable when connected to a person's own context.
 - [[AnQi|安琪]] and [[YouguangPublishing|有光]] - publishing example from the source.
 - [[CrossClassSocialCapital]] and [[NeighborhoodOpportunityRevitalization]] - class-mobility branch added by the HOPE VI episode.
+- [[UnemployedMutualAid]], [[OpaqueHiringMarket]], and [[CareerSelfRescue]] - episode 161's job-search and stigma-resistance branch.

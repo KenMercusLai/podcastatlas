@@ -2,7 +2,7 @@
 title: "Achievement Pressure Mental Health"
 type: concept
 tags: [education, mental-health, youth, parenting]
-sources: [37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, 140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
+sources: [161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202, 37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, 140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
 last_updated: 2026-08-06
 ---
 
@@ -30,6 +30,8 @@ The source focuses on "good students" because their distress is often hidden by 
 
 [[143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634]] adds a memory-development layer. The source argues that childhood fear, reward, stress, and overloaded schedules can be remembered deeply before a child can narrate them, so "more training" may strengthen anxiety and pressure loops instead of only building capability.
 
+[[161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202]] adds the unemployment rupture. [[HighlyEducatedUnemployment]] can break the school-era promise that enough effort, degree accumulation, and correct choices will reliably produce work. The episode treats that rupture as psychologically dangerous because [[UnemploymentStigma]] can turn market rejection into proof that the person wasted their education or failed their family.
+
 ## Key Claims
 - High achievement does not reliably indicate psychological safety; elite schools and middle-class families can hide serious distress.
 - A binary honor/shame model makes ordinary setbacks feel like existential failure.
@@ -46,6 +48,7 @@ The source focuses on "good students" because their distress is often hidden by 
 - Episode 140 adds that achievement pressure can become bodily and gendered when students learn that illness, exhaustion, beauty, rest, or personal feeling are secondary to the role of being a good student.
 - Episode 143 adds that achievement pressure is also a memory problem: children may retain fear, reward, and bodily stress as non-declarative patterns even when the explicit lesson is forgotten.
 - Episode 37 adds that measured intelligence can become a prestige and anxiety machine when families and schools read test performance as destiny rather than bounded information.
+- Episode 161 adds that achievement pressure does not end at graduation; joblessness can reactivate the same honor/shame system under harsher labor-market conditions.
 
 ## Connections
 - [[ExcellentSheep|《优秀的绵羊》 / Excellent Sheep]] and [[WilliamDeresiewicz]] - book and author grounding the elite-student diagnosis.
@@ -63,3 +66,4 @@ The source focuses on "good students" because their distress is often hidden by 
 - [[SmallTownExamTakerDiscipline|小镇做题家规训]], [[HardshipCultureAsEducation|吃苦文化作为教育]], and [[EffortNarrativeInterrogation|努力叙事追问]] - episode 140's embodied and life-design extension.
 - [[ForgettingAsCognitiveFunction]], [[PainfulMemoryRehearsalRisk]], and [[FocusedDiffuseThinkingBalance]] - episode 143's memory, painful-rehearsal, and balanced-brain-use extension.
 - [[IntelligenceTesting]], [[EducationalTrackingByTesting]], and [[MeritocraticArrogance]] - episode 37's score, placement, and status extension.
+- [[HighlyEducatedUnemployment]], [[LongTermUnemploymentPenalty]], [[UnemploymentStigma]], and [[StatusDescentPressure]] - episode 161's unemployment and broken-effort-narrative extension.

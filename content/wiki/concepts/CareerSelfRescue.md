@@ -2,8 +2,8 @@
 title: "Career Self-Rescue"
 type: concept
 tags: [career, work, mental-health, life-design]
-sources: [63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
-last_updated: 2026-07-15
+sources: [161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+last_updated: 2026-08-06
 ---
 
 # Career Self-Rescue
@@ -22,6 +22,8 @@ The episode's version is physical and trackable: distance, danger, fatigue, rout
 
 [[sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]] adds a pre-rescue diagnostic version. [[QianJing|钱静]] asks exam repeaters and civil-service hopefuls to check whether the path fits their personality, pressure tolerance, and desired work before treating "考上" as rescue. The episode connects career recovery to [[ObjectiveSelfOwnership]] and [[ActionAgainstAnxiety]]: recognize the hand, stop using the target as proof of worth, and account for the opportunity cost of waiting.
 
+[[161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202]] adds an unemployment-stigma version. Here self-rescue is not heroic exit from a bad job; it is preserving agency after job loss through a remembered interest, a credible transition story, [[WeakTieOpportunity|weak ties]], and refusal to turn [[UnemploymentStigma|unemployment stigma]] into self-condemnation. The source keeps the practical warning visible: entrepreneurship or lower-status work can restore agency only if the person understands the real operating costs.
+
 ## Key Claims
 
 - A career low point can involve not only job dissatisfaction but loss of deservedness, confidence, and felt agency.
@@ -33,6 +35,7 @@ The episode's version is physical and trackable: distance, danger, fatigue, rout
 - Self-rescue can be incremental: a person may keep enough contact with the desired work through small public traces before a recognizable career opening appears.
 - External prestige can delay self-rescue because other people keep confirming the role's status even when the person living inside it feels empty.
 - Career self-rescue can begin before exit, when a person stops treating one exam or institution as the only legitimate proof of value.
+- Episode 161 adds that self-rescue can also mean staying psychologically intact while unemployed: the person needs evidence, relationships, and narrative room before a new role appears.
 
 ## Connections
 
@@ -46,3 +49,4 @@ The episode's version is physical and trackable: distance, danger, fatigue, rout
 - [[TakagiNaoko|高木直子]], [[EverydayAutobiographicalComics]], and [[OrdinaryHardshipNarrative]] — episode 52's incremental creative-work case.
 - [[GenderedAgeAnxiety]], [[MidlifeAsGift]], and [[FemaleSelfPossession]] — episode 63's midlife and status-exit extension.
 - [[QianJing|钱静]], [[CareerShoreMyth]], [[ObjectiveSelfOwnership]], and [[ActionAgainstAnxiety]] - sp.02's exam, civil-service, and opportunity-cost diagnostic extension.
+- [[HighlyEducatedUnemployment]], [[UnemploymentStigma]], [[StatusDescentPressure]], and [[UnemployedMutualAid]] - episode 161's job-loss and stigma-resistance extension.

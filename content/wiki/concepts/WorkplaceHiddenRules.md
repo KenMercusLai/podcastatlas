@@ -2,8 +2,8 @@
 title: "Workplace Hidden Rules"
 type: concept
 tags: [career, workplace, communication]
-sources: [140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8, ep41-chengjiu-zhichang-dasheng-yuanli-tianming-zhangwo-xiangshang-guanli-lrkefagxfcan-faiyoalofhevidp, ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg, ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, 48-kaishi-daji-diyiliu-de-youmo-fengci-627375908, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350, 02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046]
-last_updated: 2026-07-24
+sources: [161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202, 140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8, ep41-chengjiu-zhichang-dasheng-yuanli-tianming-zhangwo-xiangshang-guanli-lrkefagxfcan-faiyoalofhevidp, ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg, ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, 48-kaishi-daji-diyiliu-de-youmo-fengci-627375908, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350, 02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046]
+last_updated: 2026-08-06
 ---
 
 # Workplace Hidden Rules
@@ -19,6 +19,8 @@ Workplace hidden rules are the implicit communication, etiquette, and relationsh
 [[92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]] adds a comic philosophy case through [[PlatoGoesToWork|《柏拉图上班记：哲学家的职场百态》]]. The intern learns the company through onboarding, departments, gossip, machines, bosses, sales fights, and accidental contract destruction, showing that even a fictional philosophy company has implicit rules that are learned by mishap.
 
 [[140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655]] adds the fashion-media version through [[Jinzi|金子]] at [[CondeNast|康泰纳仕]]. The hidden rules are not only email or reporting norms; they include middle-class references, device and brand signals, controlled enthusiasm, elegance, and [[RespectabilityTax|体面税]].
+
+[[161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202]] adds the hiring-side version. [[OpaqueHiringMarket]] makes job applications depend on hidden employer inferences: a complete resume may look unfocused, a senior title may look hard to manage, a pay cut may look temporary, and a gap may be read through [[UnemploymentStigma]] rather than through direct evidence.
 
 ## Key Claims
 - Hidden rules usually reduce other people's coordination cost rather than merely enforce hierarchy.
@@ -39,6 +41,7 @@ Workplace hidden rules are the implicit communication, etiquette, and relationsh
 - The Lao She source adds a darker organizational case: hidden rules can preserve a failing system when informal benefits matter more to stakeholders than formal performance.
 - The 《离婚》 source adds that hidden rules can also regulate personal life by making office rank, favors, marriage, housing, and family rescue interdependent.
 - Episode 140 adds that creative and fashion workplaces can hide rules in taste, sincerity, class fluency, and the ability to look effortless.
+- Episode 161 adds that hiring has hidden rules before employment begins: applicants must manage match signals, gap narratives, overqualification risk, and unclear rejection reasons.
 
 ## Connections
 - [[InternshipAsCareerExploration]] — interns encounter hidden rules while testing career directions.
@@ -58,3 +61,4 @@ Workplace hidden rules are the implicit communication, etiquette, and relationsh
 - [[LihunNovel|《离婚》]], [[BeipingOfficeWorld]], [[ZhangDageLihun]], and [[XiaoZhaoLihun]] — literary case where hidden office rules structure family and personal escape.
 - [[PhilosophyWorkplaceSatire]] and [[ThinkReasonLtd|思考理性有限公司]] — source-92 comic case where onboarding exposes hidden rules.
 - [[CondeNast|康泰纳仕]], [[RespectabilityTax|体面税]], [[MiddleClassConsumptionPressure]], and [[FemaleBeautySelfSurveillance|女性美貌自我监控]] - episode 140's fashion-media extension.
+- [[OpaqueHiringMarket]], [[LongTermUnemploymentPenalty]], [[DegreeAsTrustCredential]], and [[HighlyEducatedUnemployment]] - episode 161's hiring-opacity extension.

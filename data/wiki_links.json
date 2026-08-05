@@ -407,6 +407,10 @@
     "title": "160.优秀的绵羊：请把说“不”的权利还给我",
     "url": "/wiki/sources/160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014/"
   },
+  "161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202": {
+    "title": "161.攥着文凭失业，我怎么爬出这个陷阱",
+    "url": "/wiki/sources/161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202/"
+  },
   "166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1": {
     "title": "166: 许华哲再次具身创业：不想错过最大的西瓜",
     "url": "/wiki/sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1/"
@@ -12643,6 +12647,10 @@
     "title": "Higher Education AI Discoverability",
     "url": "/wiki/concepts/highereducationaidiscoverability/"
   },
+  "HighlyEducatedUnemployment": {
+    "title": "Highly Educated Unemployment / 高学历失业",
+    "url": "/wiki/concepts/highlyeducatedunemployment/"
+  },
   "Hightouch": {
     "title": "Hightouch",
     "url": "/wiki/entities/hightouch/"
@@ -16523,6 +16531,10 @@
     "title": "Long-Term Stock Exchange",
     "url": "/wiki/entities/longtermstockexchange/"
   },
+  "LongTermUnemploymentPenalty": {
+    "title": "Long-Term Unemployment Penalty / 长期失业惩罚",
+    "url": "/wiki/concepts/longtermunemploymentpenalty/"
+  },
   "LongVideoNetworkEffects": {
     "title": "Long Video Network Effects",
     "url": "/wiki/concepts/longvideonetworkeffects/"
@@ -19758,6 +19770,10 @@
   "OonaONeill": {
     "title": "Oona O'Neill / 乌娜",
     "url": "/wiki/entities/oonaoneill/"
+  },
+  "OpaqueHiringMarket": {
+    "title": "Opaque Hiring Market / 不透明招聘市场",
+    "url": "/wiki/concepts/opaquehiringmarket/"
   },
   "OpenAI": {
     "title": "OpenAI",
@@ -25439,6 +25455,10 @@
     "title": "Statistical Significance Threshold",
     "url": "/wiki/concepts/statisticalsignificancethreshold/"
   },
+  "StatusDescentPressure": {
+    "title": "Status Descent Pressure / 身份落差压力",
+    "url": "/wiki/concepts/statusdescentpressure/"
+  },
   "StatusQuoRationalization": {
     "title": "Status-Quo Rationalization / 现状合理化",
     "url": "/wiki/concepts/statusquorationalization/"
@@ -27651,6 +27671,14 @@
     "title": "Underworld Bureaucracy",
     "url": "/wiki/concepts/underworldbureaucracy/"
   },
+  "UnemployedMutualAid": {
+    "title": "Unemployed Mutual Aid / 失业者互助",
+    "url": "/wiki/concepts/unemployedmutualaid/"
+  },
+  "UnemploymentStigma": {
+    "title": "Unemployment Stigma / 失业污名",
+    "url": "/wiki/concepts/unemploymentstigma/"
+  },
   "UnfawningBoundaryPractice": {
     "title": "Unfawning Boundary Practice",
     "url": "/wiki/concepts/unfawningboundarypractice/"
@@ -29002,6 +29030,10 @@
   "WuhanErchangSoda": {
     "title": "Wuhan Erchang Soda / 武汉二厂汽水",
     "url": "/wiki/entities/wuhanerchangsoda/"
+  },
+  "WumingXianjing": {
+    "title": "《污名陷阱》",
+    "url": "/wiki/entities/wumingxianjing/"
   },
   "WurenZhixiao": {
     "title": "无人知晓",

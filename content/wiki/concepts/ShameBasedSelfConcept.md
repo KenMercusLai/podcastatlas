@@ -2,7 +2,7 @@
 title: "Shame-Based Self-Concept"
 type: concept
 tags: [psychology, trauma, shame, identity]
-sources: [33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624, 151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]
+sources: [161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202, 33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624, 151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]
 last_updated: 2026-08-06
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-06
 Shame-based self-concept is the pattern where a person interprets injury, need, desire, or happiness as evidence that they are fundamentally bad or monstrous. [[151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]] makes this concrete through Madeline: her mother's repeated "monster" label becomes an inner explanation for why love, success, food, safety, and ordinary care feel undeserved.
 
 [[33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624]] adds a literary self-disqualification version through [[ObaYozo|大庭叶藏]] in [[NoLongerHuman|《人间失格》]]. Yozo interprets mismatch with family, school, hunger, practical life, desire, trust, and domestic roles as proof that he is not qualified to be human. His [[ComicMaskSurvival|comic mask]] hides that shame while also confirming it.
+
+[[161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202]] adds an unemployment version. [[UnemploymentStigma]] can make a person treat joblessness, rejection, or a lower-status role as evidence that they are a failure rather than as a temporary labor-market state shaped by [[OpaqueHiringMarket|opaque hiring]] and [[LongTermUnemploymentPenalty|long-term unemployment penalties]].
 
 The concept also helps interpret Laura's shame about failing to mother her siblings and Danny's shame around language, identity, and abuse. In each case, the person carries blame that belongs to adults or institutions that failed them.
 
@@ -21,6 +23,7 @@ The concept also helps interpret Laura's shame about failing to mother her sibli
 - A non-shaming relationship can be destabilizing because care contradicts the person's organizing story.
 - Recovery often requires moving blame back toward the harmful adult, partner, or institution without turning hatred into the only identity.
 - Literary shame can become total when social nonconformity is interpreted as ontological failure rather than as distress, injury, or unmet need.
+- Unemployment shame can become total when a person mistakes market silence, family disappointment, or status descent for a verdict on the whole self.
 
 ## Connections
 - [[GoodMorningMonster|《早安，怪物》 / Good Morning, Monster]] - source book.
@@ -29,3 +32,4 @@ The concept also helps interpret Laura's shame about failing to mother her sibli
 - [[TraumaticAttachment]] - relationship form where shame keeps the person bound to harmful others.
 - [[UnfawningBoundaryPractice]] and [[FemaleSelfPossession]] - recovery directions after self-erasure.
 - [[NoLongerHuman|《人间失格》]], [[ObaYozo|大庭叶藏]], [[ComicMaskSurvival]], and [[CoercedNormality]] - episode 33's literary self-disqualification branch.
+- [[UnemploymentStigma]], [[HighlyEducatedUnemployment]], [[StatusDescentPressure]], and [[UnemployedMutualAid]] - episode 161's labor-market shame and mutual-aid branch.
