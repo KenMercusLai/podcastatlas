@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [80.间谍与叛徒：恕我直言，007的故事弱爆了（上）](sources/80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649.md) — 蜜獾吃书 episode on Ben Macintyre's 《间谍与叛徒》, Oleg Gordievsky, KGB, MI6, ideological defection, Denmark, Operation Sunbeam, and Operation Pimlico.
 - [79.各位领导，但凡咱学点博弈论：契约理论如何解释职场管理](sources/79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262.md) — 蜜獾吃书 episode on 聂辉华《一切皆契约》, contract theory, prisoner’s dilemma, information asymmetry, credential signaling, book price wars, workplace incentives, equity, motivation crowding out, and internal marketization limits.
 - [78.西方决斗史：出剑吧！为了荣誉！](sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000.md) — 蜜獾吃书 episode on Western dueling as judicial ordeal, chivalric spectacle, honor culture, proceduralized violence, women duelists, weapon lethality, and U.S. political duels.
 - [77.她是自由的野狗，她是法拉奇](sources/77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187.md) — 蜜獾吃书 episode on Oriana Fallaci, 《我不相信神话》, anti-fascist childhood, political interviewing, Khomeini, Pahlavi, Tlatelolco, Panagoulis, AFTRA, and freedom as dignity.
@@ -729,6 +730,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《间谍与叛徒》 / The Spy and the Traitor](entities/TheSpyAndTheTraitor.md) — Ben Macintyre nonfiction book used by episode 80 to narrate Oleg Gordievsky's Cold War defection from KGB officer to MI6 source.
+- [Ben Macintyre / 本·麦金泰尔](entities/BenMacintyre.md) — Author of 《间谍与叛徒》, introduced through episode 80's Cold War espionage narrative.
+- [Oleg Gordievsky / 奥列格·戈尔杰夫斯基](entities/OlegGordievsky.md) — KGB officer and MI6 source whose ideological defection anchors episode 80.
+- [KGB / 克格勃](entities/KGB.md) — Soviet state-security and intelligence institution central to episode 80's account of double life, surveillance, and Cold War spycraft.
+- [MI6 / British Secret Intelligence Service / 军情六处](entities/MI6.md) — British intelligence service that identified, handled, and protected Oleg Gordievsky in episode 80.
+- [Kim Philby / 金·菲尔比](entities/KimPhilby.md) — Soviet source inside British intelligence used by episode 80 as a contrast to Gordievsky's reverse-direction case.
+- [Operation Sunbeam / 阳光计划](entities/OperationSunbeam.md) — MI6 recruitment and handling project around Gordievsky in episode 80.
+- [Operation Pimlico / 皮姆利科行动](entities/OperationPimlico.md) — Emergency escape plan built for Gordievsky, tying source protection to physical extraction.
 - [聂辉华](entities/NieHuihua.md) — Renmin University economist and author of 《一切皆契约》, used by episode 79 to explain contract theory in workplace and market settings.
 - [《一切皆契约》](entities/YiQieJieQiyue.md) — Nie Huihua book used by episode 79 to translate contract theory, game theory, information asymmetry, and incentive design into practical cases.
 - [Oliver Hart](entities/OliverHart.md) — Contract-theory economist named as Nie Huihua's postdoctoral teacher and theory lineage in episode 79.
@@ -5040,6 +5049,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Ideological Defection / 意识形态叛逃](concepts/IdeologicalDefection.md) — Episode 80 frame for gradual covert rejection of a system from inside its own intelligence institution.
+- [Totalitarian Double Life / 极权双重生活](concepts/TotalitarianDoubleLife.md) — Pattern where public loyalty and private belief diverge under coercive ideology and surveillance.
+- [Cold War Spycraft / 冷战间谍技艺](concepts/ColdWarSpycraft.md) — Episode 80 counterimage to spy fiction, built from file reading, source handling, signals, restraint, and escape planning.
+- [Spy Source Protection / 间谍线人保护](concepts/SpySourceProtection.md) — Intelligence tradeoff where using information too directly can expose and endanger the source who supplied it.
 - [Contract Theory / 契约理论](concepts/ContractTheory.md) — Episode 79 frame for designing relationships, institutions, and workplace arrangements under imperfect information.
 - [Incomplete Contract / 不完全契约](concepts/IncompleteContract.md) — Contract-theory concept for agreements that cannot specify or enforce every future condition.
 - [Information Asymmetry In Contracts / 契约中的信息不对称](concepts/InformationAsymmetryInContracts.md) — Hidden information, hidden behavior, and third-party proof problems that make contracts fail.

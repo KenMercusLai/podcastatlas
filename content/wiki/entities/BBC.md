@@ -2,11 +2,13 @@
 title: "BBC"
 type: entity
 tags: [media, broadcaster, united-kingdom, infrastructure, conservation]
-sources: [tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, 186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d]
-last_updated: 2026-07-15
+sources: [80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, 186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d]
+last_updated: 2026-08-06
 ---
 
 # BBC
+
+[[80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649]] adds the BBC as a trusted outside-information signal inside [[OlegGordievsky|Oleg Gordievsky]]'s [[KGB]] world. In the episode, a BBC report about Britain expelling Soviet intelligence personnel proves more accurate than official denial, making foreign broadcasting part of the information contrast behind [[IdeologicalDefection]].
 
 [[tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128]] adds the BBC through [[AnnaHolligan]]'s reporting for a [[MarketplaceTech]] segment on mushroom-based alternatives to polystyrene. The source gives the broadcaster a materials-and-climate reporting connection alongside its existing infrastructure and conservation contexts.
 
@@ -22,3 +24,4 @@ The source frames the BBC's decision as a [[BroadcastInfrastructureSunset]] case
 - [[LongwaveRadio]] - transmission technology and cultural object in the episode.
 - [[BroadcastInfrastructureSunset]] - broader modernization and access problem.
 - [[UnitedKingdom]] - national media and infrastructure context.
+- [[OlegGordievsky]], [[KGB]], [[SovietUnion]], and [[IdeologicalDefection]] - Cold War outside-information branch added by 蜜獾吃书 episode 80.

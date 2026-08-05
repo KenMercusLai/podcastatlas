@@ -843,6 +843,10 @@
     "title": "79.各位领导，但凡咱学点博弈论：契约理论如何解释职场管理",
     "url": "/wiki/sources/79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262/"
   },
+  "80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649": {
+    "title": "80.间谍与叛徒：恕我直言，007的故事弱爆了（上）",
+    "url": "/wiki/sources/80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649/"
+  },
   "82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589": {
     "title": "82.闲聊伟大作家的八卦（第二弹）",
     "url": "/wiki/sources/82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589/"
@@ -3999,6 +4003,10 @@
     "title": "Ben Jordan",
     "url": "/wiki/entities/benjordan/"
   },
+  "BenMacintyre": {
+    "title": "Ben Macintyre / 本·麦金泰尔",
+    "url": "/wiki/entities/benmacintyre/"
+  },
   "BenParr": {
     "title": "Ben Parr",
     "url": "/wiki/entities/benparr/"
@@ -6414,6 +6422,10 @@
   "ColdChainCPGConstraint": {
     "title": "Cold-Chain CPG Constraint",
     "url": "/wiki/concepts/coldchaincpgconstraint/"
+  },
+  "ColdWarSpycraft": {
+    "title": "Cold War Spycraft / 冷战间谍技艺",
+    "url": "/wiki/concepts/coldwarspycraft/"
   },
   "ColemanStrumpf": {
     "title": "Coleman Strumpf",
@@ -13515,6 +13527,10 @@
     "title": "《身份政治》",
     "url": "/wiki/entities/identitypoliticsbook/"
   },
+  "IdeologicalDefection": {
+    "title": "Ideological Defection / 意识形态叛逃",
+    "url": "/wiki/concepts/ideologicaldefection/"
+  },
   "IdeologicalOvercontrol": {
     "title": "Ideological Overcontrol / 意识形态过度控制",
     "url": "/wiki/concepts/ideologicalovercontrol/"
@@ -15283,6 +15299,10 @@
     "title": "KESA",
     "url": "/wiki/entities/kesa/"
   },
+  "KGB": {
+    "title": "KGB / 克格勃",
+    "url": "/wiki/entities/kgb/"
+  },
   "KLH": {
     "title": "KLH",
     "url": "/wiki/entities/klh/"
@@ -15586,6 +15606,10 @@
   "Kiko": {
     "title": "Kiko",
     "url": "/wiki/entities/kiko/"
+  },
+  "KimPhilby": {
+    "title": "Kim Philby / 金·菲尔比",
+    "url": "/wiki/entities/kimphilby/"
   },
   "KimWolfBotnet": {
     "title": "KimWolf Botnet",
@@ -17202,6 +17226,10 @@
   "MGX": {
     "title": "MGX",
     "url": "/wiki/entities/mgx/"
+  },
+  "MI6": {
+    "title": "MI6 / British Secret Intelligence Service / 军情六处",
+    "url": "/wiki/entities/mi6/"
   },
   "MIT": {
     "title": "MIT",
@@ -19991,6 +20019,10 @@
     "title": "Older Worker AI Retirement",
     "url": "/wiki/concepts/olderworkerairetirement/"
   },
+  "OlegGordievsky": {
+    "title": "Oleg Gordievsky / 奥列格·戈尔杰夫斯基",
+    "url": "/wiki/entities/oleggordievsky/"
+  },
   "OlgaTokarczuk": {
     "title": "Olga Tokarczuk / 托卡尔丘克",
     "url": "/wiki/entities/olgatokarczuk/"
@@ -20238,6 +20270,14 @@
   "OpenWorldRobotManipulation": {
     "title": "Open-World Robot Manipulation",
     "url": "/wiki/concepts/openworldrobotmanipulation/"
+  },
+  "OperationPimlico": {
+    "title": "Operation Pimlico / 皮姆利科行动",
+    "url": "/wiki/entities/operationpimlico/"
+  },
+  "OperationSunbeam": {
+    "title": "Operation Sunbeam / 阳光计划",
+    "url": "/wiki/entities/operationsunbeam/"
   },
   "OperationalCarbon": {
     "title": "Operational Carbon",
@@ -25719,6 +25759,10 @@
     "title": "Sprinto",
     "url": "/wiki/entities/sprinto/"
   },
+  "SpySourceProtection": {
+    "title": "Spy Source Protection / 间谍线人保护",
+    "url": "/wiki/concepts/spysourceprotection/"
+  },
   "Square": {
     "title": "Square",
     "url": "/wiki/entities/square/"
@@ -27251,6 +27295,10 @@
     "title": "《蛛丝》 / The Spider's Thread",
     "url": "/wiki/entities/thespiderthread/"
   },
+  "TheSpyAndTheTraitor": {
+    "title": "《间谍与叛徒》 / The Spy and the Traitor",
+    "url": "/wiki/entities/thespyandthetraitor/"
+  },
   "TheSwineherd": {
     "title": "《猪倌》 / The Swineherd",
     "url": "/wiki/entities/theswineherd/"
@@ -27646,6 +27694,10 @@
   "TotalEnergies": {
     "title": "TotalEnergies",
     "url": "/wiki/entities/totalenergies/"
+  },
+  "TotalitarianDoubleLife": {
+    "title": "Totalitarian Double Life / 极权双重生活",
+    "url": "/wiki/concepts/totalitariandoublelife/"
   },
   "TotemismNationalism": {
     "title": "Totemism And Nationalism / 图腾主义与民族主义",

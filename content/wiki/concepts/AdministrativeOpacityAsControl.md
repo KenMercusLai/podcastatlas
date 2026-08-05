@@ -2,8 +2,8 @@
 title: "Administrative Opacity As Control"
 type: concept
 tags: [government, bureaucracy, transparency, power]
-sources: [04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843, 118-shi-dachen-xinla-fengci-yongbuguoshi-768665425]
-last_updated: 2026-08-04
+sources: [80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649, 04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843, 118-shi-dachen-xinla-fengci-yongbuguoshi-768665425]
+last_updated: 2026-08-06
 ---
 
 # Administrative Opacity As Control
@@ -16,12 +16,15 @@ The concept differs from simple lying. Opacity works best when it is embedded in
 
 [[04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843]] adds a disaster-safety version through [[ChernobylNuclearPowerPlant|Chernobyl]]. In that source, design flaws, safety claims, delayed disclosure, and blame allocation show how opacity can protect institutional legitimacy while making [[PostDisasterTruthAndResponsibility]] harder.
 
+[[80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649]] adds a state-security version through [[KGB]] culture. The episode's [[OlegGordievsky|Gordievsky]] story shows opacity operating inside the institution itself: officers perform loyalty, families conceal beliefs, foreign reporting is distrusted, and suspicion of internal betrayal turns information control into both power and fear.
+
 ## Key Claims
 - Transparency slogans can be absorbed by the bureaucracy that they were supposed to discipline.
 - Opacity becomes stronger when it is justified as prudence, stability, or protection rather than secrecy.
 - Formal compliance with a reform's language can defeat the reform's substance.
 - Information control shapes political power before any explicit policy decision is made.
 - In technical systems, opacity can become a safety risk because operators, responders, and outside publics cannot reason from the full facts.
+- In intelligence systems, opacity can also discipline insiders by making every private doubt look like a potential security breach.
 
 ## Connections
 - [[YesMinister|《是，大臣》 / Yes Minister]] - source case.
@@ -31,3 +34,4 @@ The concept differs from simple lying. Opacity works best when it is embedded in
 - [[PoliticalTruthTelling]] - adjacent contrast where political speech remains answerable to reality.
 - [[BureaucraticRiskAvoidance]] - related pattern where officials prefer procedural safety.
 - [[ChernobylNuclearPowerPlant]], [[NuclearSafetyPropaganda]], and [[PostDisasterTruthAndResponsibility]] - disaster extension added by 蜜獾吃书 episode 04.
+- [[KGB]], [[OlegGordievsky]], [[TotalitarianDoubleLife]], and [[IdeologicalDefection]] - state-security extension added by 蜜獾吃书 episode 80.
