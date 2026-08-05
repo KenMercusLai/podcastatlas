@@ -2,7 +2,7 @@
 title: "Platform Data Regulation"
 type: concept
 tags: [platform, regulation, data, antitrust]
-sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128, tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]
+sources: [tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128, tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]
 last_updated: 2026-08-05
 ---
 
@@ -26,6 +26,8 @@ The concept matters because visible app screens are not enough to evaluate platf
 
 [[tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128]] adds two platform-data governance edges. [[Meta]]'s reported employee activity capture shows data regulation inside the workplace and AI training pipeline, while [[Roblox]]'s [[PlatformAgeEstimation]] shows how child-safety compliance can depend on sensitive age-inference data and communication rules.
 
+[[tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128]] adds the broader [[OnlineAgeVerification]] layer. Age assurance can route ID scans, face images, age estimates, and behavioral signals through websites, contractors, app stores, or device platforms, making retention, reuse, breach handling, auditability, and false-positive correction part of platform data regulation.
+
 [[tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128]] adds a retail-price opacity angle through [[SurveillancePricing]]. The Walmart.com toothpaste comparison shows why price and discount systems may need auditability: a shopper can observe two prices, but not the internal logic deciding whether the difference came from personalization, market variation, price matching, or real-time repricing.
 
 [[tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128]] adds a public-sensor security angle. [[SurveillanceCameraExposure]] shows that data governance also depends on authentication, configuration, archive controls, and deletion permissions for physical-world data systems, not only on downstream market conduct or government purchase rules.
@@ -42,6 +44,7 @@ The concept matters because visible app screens are not enough to evaluate platf
 - For social media, the key privacy question is whether rules can constrain collection and targeting without replacing business-model governance with speech-restrictive age gates.
 - For federal data practices, the key governance question is whether agencies have visible purpose limits, sharing limits, and oversight strong enough to sustain benefit uptake.
 - For employee and child-facing platforms, the key privacy question includes whether activity traces or face-based age signals can be reused, audited, retained, or converted into model-training or safety-enforcement infrastructure.
+- For age assurance, the key regulatory question includes who holds verification data, how long it is retained, whether contractors can be audited, and how users can contest bad age decisions.
 - For retail pricing, the key regulatory question is whether users, researchers, or regulators can inspect enough data to distinguish fair market variation from opaque customer-specific treatment.
 - For public camera systems, the key regulatory question includes whether access controls, archived footage, and administrative permissions are auditable enough to prevent accidental public exposure.
 
@@ -55,5 +58,6 @@ The concept matters because visible app screens are not enough to evaluate platf
 - [[ComprehensiveConsumerDataPrivacy]], [[ElectronicFrontierFoundation|Electronic Frontier Foundation]], [[YouthOnlineSpeechRights]], and [[SocialMediaAgeGateSpeechBurden]] - social-media privacy alternative to age-based bans.
 - [[FederalDataPracticeTrust]], [[PublicBenefitsDataChillingEffect]], [[EnforcementAgencyDataSharing]], and [[GovernmentDataAccountability]] - public-sector data-trust branch added by Marketplace Tech.
 - [[Meta]], [[WorkplaceBehaviorTrainingData]], [[Roblox]], and [[PlatformAgeEstimation]] - workplace training-data and child-safety age-estimation branch added by Marketplace Tech Bytes.
+- [[OnlineAgeVerification]], [[AgeVerificationComplianceIndustry]], [[BehavioralAgeInference]], and [[AgeVerificationPatchwork]] - age-assurance data-governance branch added by Marketplace Tech.
 - [[SurveillancePricing]], [[Walmart]], [[AIConsumerDecisionShaping]], and [[GarrettJohnson]] - personalized retail-pricing branch added by Marketplace Tech.
 - [[SurveillanceCameraExposure]], [[FlockSafety]], [[Shodan]], and [[404Media|404 Media]] - public-sensor security branch added by Marketplace Tech.

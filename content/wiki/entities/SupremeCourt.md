@@ -2,8 +2,8 @@
 title: "Supreme Court"
 type: entity
 tags: [institution, law, politics]
-sources: [how-we-got-free-agents-in-baseball, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, jerome-powell-and-the-test-of-fed-independence, a-trip-to-the-magic-mushroom-megachurch]
-last_updated: 2026-08-04
+sources: [tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, how-we-got-free-agents-in-baseball, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, jerome-powell-and-the-test-of-fed-independence, a-trip-to-the-magic-mushroom-megachurch]
+last_updated: 2026-08-05
 ---
 
 # Supreme Court
@@ -11,6 +11,8 @@ last_updated: 2026-08-04
 [[how-we-got-free-agents-in-baseball]] adds the Court through [[FloodVKuhn|Flood v. Kuhn]], where [[CurtFlood]] challenged [[MajorLeagueBaseball|MLB]]'s [[BaseballReserveClause|reserve clause]]. The source says the Court ruled against Flood and left the [[BaseballAntitrustExemption|baseball antitrust exemption]] in place, but that the case still helped shift public opinion and labor leverage toward [[BaseballFreeAgency|free agency]].
 
 [[a-trip-to-the-magic-mushroom-megachurch]] adds the Court through a 2006 ayahuasca religious-exemption decision. The source says the Court agreed that the government had not shown enough harm or diversion risk in that case, making it a precedent signal for [[ReligiousControlledSubstanceExemption]] claims by newer [[PsychedelicChurches]].
+
+[[tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128]] adds the Court to the [[OnlineAgeVerification]] branch. [[DrewHarwell]] says a [[Texas]] explicit-content age-verification law reached the Court, and the episode treats the ruling as a legal signal that made lawmakers more aggressive about requiring websites to check whether users are old enough.
 
 [[the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]] resolves the tariff-authority watchpoint from [[indicators-of-2025-and-what-to-watch-in-2026]] inside the source set. The Court struck down [[DonaldTrump]]'s sweeping IEPA-based tariffs, making [[IEPATariffAuthorityLimit]] a concrete limit on one emergency-power route while leaving [[Section122TariffAuthority]] and other tariff statutes available.
 
@@ -29,6 +31,7 @@ The source's main contribution is not a doctrinal account of specific cases, but
 ## Connections
 - [[CurtFlood]], [[BowieKuhn]], [[ArthurGoldberg]], [[MajorLeagueBaseball]], [[FloodVKuhn]], [[BaseballReserveClause]], [[BaseballAntitrustExemption]], and [[PublicOpinionLitigationStrategy]] - baseball labor and antitrust branch added by Planet Money.
 - [[ReligiousControlledSubstanceExemption]], [[PsychedelicChurches]], [[NativeAmericanChurch]], [[ControlledSubstancesAct]], and [[DEAExemptionProcess]] - psychedelic church exemption branch added by Planet Money.
+- [[OnlineAgeVerification]], [[AgeVerificationPatchwork]], [[Texas]], and [[DrewHarwell]] - age-verification legal-signal branch added by Marketplace Tech.
 - [[IEPATariffAuthorityLimit]], [[TariffRefundUncertainty]], [[Section122TariffAuthority]], and [[KathleenClaussen]] - tariff-ruling aftermath branch added by Planet Money.
 - [[UnitedStates]] - country and constitutional system in the source.
 - [[AmericanDemocraticResilience]] - optimistic reading of institutional guardrails.

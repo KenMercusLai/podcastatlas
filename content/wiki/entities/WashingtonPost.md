@@ -2,8 +2,8 @@
 title: "Washington Post"
 type: entity
 tags: [media, newspaper, journalism]
-sources: [betty-boop-excel-olympics-penny-isms-our-2026-valentines, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128]
-last_updated: 2026-07-24
+sources: [tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, betty-boop-excel-olympics-penny-isms-our-2026-valentines, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Washington Post
@@ -14,6 +14,8 @@ The Washington Post appears in [[tech-20260311-0311-mp-tech-pod-128-tech-2026031
 
 In this source, the Post functions as an outside national-news lens on a local-news AI experiment. It connects the wiki's publisher and AI-content branch to [[AIJournalismTrust]], [[AIWrittenJournalism]], and [[HumanJudgmentUnderAI]] rather than only platform licensing or search-discovery issues.
 
+[[tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128]] adds the Post through [[DrewHarwell]], its technology reporter discussing [[OnlineAgeVerification]] on [[MarketplaceTech]]. His role extends the Post page from newsroom AI and technical-culture reporting into privacy, age assurance, child-safety regulation, and platform access.
+
 [[betty-boop-excel-olympics-penny-isms-our-2026-valentines]] adds the Post through [[JesseDoherty]]'s article on the Microsoft Excel Collegiate Competition. The [[PlanetMoney]] segment values the article because it uses sports-journalism framing to make [[MicrosoftExcel|Microsoft Excel]] expertise and [[CompetitiveSpreadsheeting]] legible to general readers.
 
 ## Key Claims
@@ -21,6 +23,7 @@ In this source, the Post functions as an outside national-news lens on a local-n
 - Her reporting frames the Plain Dealer as unusually aggressive in using AI for article production.
 - The episode also mentions that the Washington Post uses AI tools to review long court rulings and identify potentially interesting passages, with journalists still verifying the relevant text.
 - The Planet Money Valentine source identifies Jesse Doherty's Washington Post article as a strong example of turning technical skill into spectator-readable journalism.
+- The Marketplace Tech age-verification source identifies Drew Harwell as a Post technology reporter connecting child-safety laws to privacy and platform-access consequences.
 
 ## Connections
 - [[WillaRemus]] - reporter interviewed by Marketplace Tech.
@@ -29,3 +32,4 @@ In this source, the Post functions as an outside national-news lens on a local-n
 - [[NewsroomAIAdoption]], [[AIWorkflowTriage]], and [[HumanJudgmentUnderAI]] - reporting-support and verification themes.
 - [[AIJournalismTrust]] and [[AIContentDevaluation]] - reader-trust and authorship implications.
 - [[JesseDoherty]], [[MicrosoftExcel]], and [[CompetitiveSpreadsheeting]] - Excel competition article branch added by Planet Money.
+- [[DrewHarwell]], [[OnlineAgeVerification]], [[AgeVerificationPatchwork]], and [[CivilLibertiesSurveillanceRisk]] - age-assurance branch added by Marketplace Tech.

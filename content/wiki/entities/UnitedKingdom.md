@@ -2,8 +2,8 @@
 title: "United Kingdom"
 type: entity
 tags: [country, politics, europe]
-sources: [keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]
-last_updated: 2026-07-16
+sources: [tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]
+last_updated: 2026-08-05
 ---
 
 # United Kingdom
@@ -18,6 +18,8 @@ The source's central claim is that Britain was not instantly broken by Brexit, b
 
 [[in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]] adds a different by-election case through [[Clacton]], where [[NigelFarage]] faces [[CountBinface]] after triggering a contest under finance scrutiny. The source uses the absence of major-party candidates, the continuing strength of [[ReformUK]], and a satirical challenger to build [[PoliticalFarceAccountability]] as a British electoral-culture pattern.
 
+[[tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128]] adds the United Kingdom as part of the international [[OnlineAgeVerification]] spread. [[DrewHarwell]] says UK rules are one reason age checks are appearing in more places users may not expect, placing Britain inside [[AgeVerificationPatchwork]] alongside U.S. state laws and [[Australia]].
+
 ## Connections
 - [[Brexit]] - defining political event and policy rupture in the source.
 - [[EuropeanUnion]] - institution Britain left and still trades with under new friction.
@@ -27,3 +29,4 @@ The source's central claim is that Britain was not instantly broken by Brexit, b
 - [[KeirStarmer]], [[LabourPartyUK]], [[AndyBurnham]], [[LabourLeadershipCrisis]], and [[PoliticalDeliveryGap]] - leadership-crisis branch added by the later sources.
 - [[ReformUK]], [[ConservativePartyUK]], and [[RestoreBritain]] - by-election and party-competition pressure map.
 - [[NigelFarage]], [[CountBinface]], [[Clacton]], and [[PoliticalFarceAccountability]] - later Clacton by-election and satire branch.
+- [[OnlineAgeVerification]], [[AgeVerificationPatchwork]], [[DrewHarwell]], and [[Australia]] - age-verification regulation branch added by Marketplace Tech.

@@ -2,8 +2,8 @@
 title: "Australia"
 type: entity
 tags: [country, economics, water, democracy]
-sources: [tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, how-to-get-what-greenland-has-with-permission, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]
-last_updated: 2026-07-25
+sources: [tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, how-to-get-what-greenland-has-with-permission, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]
+last_updated: 2026-08-05
 ---
 
 # Australia
@@ -16,6 +16,8 @@ The episode also uses Australia as a democratic-institution contrast. [[JustinWo
 
 [[tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]] adds Australia as the policy model cited for [[CaliforniaAB1709]], California's proposed under-16 social-media ban. The episode does not analyze the Australian policy in detail, but it uses the comparison to show how youth social-media restrictions can travel across jurisdictions before encountering U.S. [[YouthOnlineSpeechRights]] constraints.
 
+[[tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128]] adds Australia to the broader [[OnlineAgeVerification]] trend. The episode says Australian rules are part of the same international movement toward age assurance, making Australia an [[AgeVerificationPatchwork]] reference beyond the narrower social-media-ban comparison.
+
 ## Connections
 - [[NewSouthWales]], [[MurrayRiver]], and [[MurrayDarlingBasin]] - geography of the water case.
 - [[CarlyMarriott]] and [[NeilHughes]] - farmer and analyst perspectives on the water market.
@@ -23,3 +25,4 @@ The episode also uses Australia as a democratic-institution contrast. [[JustinWo
 - [[InflationTargeting]] - policy framework the episode says Australia later adopted after New Zealand's experiment spread.
 - [[Greenland]], [[GracelandBaskaran]], and [[RareEarthProcessingBottleneck]] - critical-minerals partner branch added by the Greenland episode.
 - [[CaliforniaAB1709]], [[YouthOnlineSpeechRights]], and [[SocialMediaAgeGateSpeechBurden]] - social-media age-ban policy model added by Marketplace Tech.
+- [[OnlineAgeVerification]], [[AgeVerificationPatchwork]], [[UnitedKingdom|United Kingdom]], and [[DrewHarwell]] - broader age-assurance regulation branch added by Marketplace Tech.

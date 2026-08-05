@@ -1899,6 +1899,14 @@
     "title": "Age-Friendly Infrastructure",
     "url": "/wiki/concepts/agefriendlyinfrastructure/"
   },
+  "AgeVerificationComplianceIndustry": {
+    "title": "Age Verification Compliance Industry",
+    "url": "/wiki/concepts/ageverificationcomplianceindustry/"
+  },
+  "AgeVerificationPatchwork": {
+    "title": "Age Verification Patchwork",
+    "url": "/wiki/concepts/ageverificationpatchwork/"
+  },
   "AgentAsAService": {
     "title": "Agent as a Service",
     "url": "/wiki/concepts/agentasaservice/"
@@ -3651,6 +3659,10 @@
     "title": "Behavior Change Baby Steps",
     "url": "/wiki/concepts/behaviorchangebabysteps/"
   },
+  "BehavioralAgeInference": {
+    "title": "Behavioral Age Inference",
+    "url": "/wiki/concepts/behavioralageinference/"
+  },
   "BehavioralInvestingBiases": {
     "title": "Behavioral Investing Biases",
     "url": "/wiki/concepts/behavioralinvestingbiases/"
@@ -4074,6 +4086,10 @@
   "BlueOwlCapital": {
     "title": "Blue Owl Capital",
     "url": "/wiki/entities/blueowlcapital/"
+  },
+  "Bluesky": {
+    "title": "Bluesky",
+    "url": "/wiki/entities/bluesky/"
   },
   "BoSo": {
     "title": "BoSo",
@@ -8086,6 +8102,10 @@
   "DreamLogicNarrative": {
     "title": "Dream Logic Narrative",
     "url": "/wiki/concepts/dreamlogicnarrative/"
+  },
+  "DrewHarwell": {
+    "title": "Drew Harwell",
+    "url": "/wiki/entities/drewharwell/"
   },
   "DrewHouston": {
     "title": "Drew Houston",
@@ -17339,6 +17359,10 @@
     "title": "Mission-Focused Company",
     "url": "/wiki/concepts/missionfocusedcompany/"
   },
+  "Mississippi": {
+    "title": "Mississippi",
+    "url": "/wiki/entities/mississippi/"
+  },
   "MitchMorando": {
     "title": "Mitch Morando",
     "url": "/wiki/entities/mitchmorando/"
@@ -18774,6 +18798,10 @@
   "OneWayDoorProduct": {
     "title": "One Way Door Product",
     "url": "/wiki/concepts/onewaydoorproduct/"
+  },
+  "OnlineAgeVerification": {
+    "title": "Online Age Verification",
+    "url": "/wiki/concepts/onlineageverification/"
   },
   "OnlineAppointmentRegistration": {
     "title": "Online Appointment Registration",
@@ -29858,6 +29886,10 @@
   "tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128": {
     "title": "The year in AI wearables",
     "url": "/wiki/sources/tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128/"
+  },
+  "tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128": {
+    "title": "How online age-gating laws went mainstream this year",
+    "url": "/wiki/sources/tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128/"
   },
   "tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128": {
     "title": "A tech company that 'happens to build homes'",

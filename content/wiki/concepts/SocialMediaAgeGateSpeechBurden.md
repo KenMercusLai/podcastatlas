@@ -2,8 +2,8 @@
 title: "Social Media Age-Gate Speech Burden"
 type: concept
 tags: [social-media, age-verification, speech, privacy, child-safety]
-sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Social Media Age-Gate Speech Burden
@@ -14,12 +14,15 @@ The burden is two-sided. Minors may be cut off from large communication platform
 
 [[tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128]] adds a narrower platform-safety mechanism through [[Roblox]]. [[PlatformAgeEstimation]] is not the same as a broad social-media ban, but the source keeps it near this concept because face-based age checks can still determine who gets communication access and under what conditions.
 
+[[tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128]] adds the adult-content and cross-jurisdiction version through [[DrewHarwell]]. The source says age verification grew around pornography and adult content first, but it also reaches some social-media contexts and can make ordinary web access depend on ID checks, face scans, or behavioral inference.
+
 ## Key Claims
 - Age verification can affect adult speech access even when a law is aimed at children.
 - Parental-consent requirements can operate as speech barriers, not only as family-safety tools.
 - Broad social-media restrictions are vulnerable when platforms contain large amounts of lawful speech.
 - Privacy-focused regulation may address platform harms with less direct burden on access to speech.
 - Face-based age estimation may avoid categorical bans, but it still has to balance child safety, privacy, accuracy, and participation rights.
+- Adult-content age-verification laws can have a different legal posture from broad social-media bans, but both can turn age assurance into an access barrier for lawful users.
 
 ## Connections
 - [[CaliforniaAB1709]] - proposed under-16 ban discussed in the source.
@@ -28,3 +31,4 @@ The burden is two-sided. Minors may be cut off from large communication platform
 - [[ComprehensiveConsumerDataPrivacy]] and [[CivilLibertiesSurveillanceRisk]] - alternative and adjacent privacy/civil-liberties frames.
 - [[PlatformFirstAmendmentDefense]] - related but separate First Amendment issue around platform editorial rights.
 - [[Roblox]], [[MattKaufman]], and [[PlatformAgeEstimation]] - narrower age-estimation mechanism added by Marketplace Tech Bytes.
+- [[OnlineAgeVerification]], [[AgeVerificationPatchwork]], [[DrewHarwell]], and [[Bluesky]] - adult-content, state-patchwork, and platform-access branch added by Marketplace Tech.
