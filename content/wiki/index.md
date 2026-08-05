@@ -154,6 +154,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Why are we so obsessed with manufacturing?](sources/why-are-we-so-obsessed-with-manufacturing.md) — Planet Money episode on U.S. manufacturing jobs, pay premiums, workforce pipelines, strategic reshoring, regional multipliers, and why the broader goal is good jobs for non-college workers.
 - [Why economists got free trade with China so wrong](sources/why-economists-got-free-trade-with-china-so-wrong.md) — Planet Money episode with David Autor on the China shock, concentrated manufacturing losses, slow worker adjustment, tariffs, and strategic industrial policy.
 - [Vol.112 一次非共识的2024反思和2025展望 | 对话蓝小康X牟一凌](sources/vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv.md) — 起朱楼宴宾客 episode with 蓝小康 and 牟一凌 on 2024 market reflection, Trump 2.0, China supply clearing, labor-share consumption repair, SOE valuation, Belt and Road demand, and active management.
+- [vol.110.投资就是对世界观的投票｜《迈出资产配置第一步》完结篇](sources/vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8.md) — 起朱楼宴宾客 asset-allocation finale on investment worldview fit, risk perception, human capital as an inflation hedge, cash, diversification, global perspective, and The Century Trilogy as a historical-uncertainty metaphor.
 - [EP268 毛冬x唐唐：大黄，你到底咋了！上蹿下跳的黄金和那些绝不下车的人](sources/ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv.md) — Talk三联 episode with 毛冬, 唐涛/唐唐, 吴淑冰, and 莫晨 on gold drawdowns, household gold savings, online gold accumulation, gifts, liquidity, allocation, and no-leverage risk discipline.
 - [【沙青青x韩钊】石川啄木：我抱持的思想，都是因为缺钱](sources/shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314.md) — 蜜獾吃书 episode with 韩钊 and 沙青青 on 石川啄木, 《短歌是我悲伤的玩具》, Donald Keene's biography, tanka as emotional snapshot, Meiji intellectual precarity, and the Great Treason political context.
 - [148. 王氏之死：断井颓垣上的历史妆镜](sources/148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934.md) — 蜜獾吃书 episode on 史景迁《王氏之死》, 郯城 disaster society, 王氏's murder, 黄六鸿, 《福惠全书》, 蒲松龄, 《聊斋志异》, Qing gender law, and fiction as historical evidence.
@@ -1766,6 +1767,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexander Graham Bell / 亚历山大·格雷厄姆·贝尔](entities/AlexanderGrahamBell.md) — Inventor used in episode 135 as Twain's missed telephone investment case.
 - [H. G. Wells / H. G. 威尔斯](entities/HGWells.md) — Science-fiction writer discussed by episode 135 through prediction, socialism, eugenics, pacifism, war imagination, and relationship contradictions.
 - [The Time Machine / 《时间机器》](entities/TimeMachine.md) — H. G. Wells work named by episode 135 as part of his science-fiction founder status.
+- [The Century Trilogy / 世纪三部曲](entities/TheCenturyTrilogy.md) — Ken Follett historical-fiction series used by vol.110 as an investing metaphor for historical turning points, diversification, and cash optionality.
 - [The War of the Worlds / 《世界大战》](entities/WarOfTheWorlds.md) — H. G. Wells work used by episode 135 to connect science-fiction imagination, war, and pacifist contradiction.
 - [The Invisible Man / 《隐身人》](entities/InvisibleManHGWells.md) — H. G. Wells work named by episode 135 in the science-fiction prediction branch.
 - [Rebecca West / 瑞贝卡·韦斯特](entities/RebeccaWest.md) — Writer named in episode 135 as part of H. G. Wells's relationship branch.
@@ -2310,6 +2312,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gary Cross](entities/GaryCross.md) — Historian explaining European paid-leisure politics, festivals, and American work-ethic context in the vacation episode.
 - [Daniel Hamermesh](entities/DanielHamermesh.md) — Labor economist who rejects simple culture, tax, and consumerism explanations for the U.S. vacation gap.
 - [Daniel Kahneman](entities/DanielKahneman.md) — Behavioral-economics figure used by episode 155 to introduce prospect-theory-style loss aversion in everyday economic choice.
+- [Paul Slovic](entities/PaulSlovic.md) — Psychologist cited by vol.110 for risk perception and the gap between felt danger, probability, and investment behavior.
 - [Richard Thaler](entities/RichardThaler.md) — Behavioral economist used by episode 155 to explain mental accounting and asymmetric valuation of risk, compensation, and loss.
 - [Tom Cohen](entities/TomCohen.md) — MIT source who frames U.S. paid vacation as a missed political window and employer-bargained benefit.
 - [American Federation of Labor](entities/AmericanFederationOfLabor.md) — Union federation invoked as part of the U.S. private-bargaining path for vacation and other benefits.
@@ -2901,7 +2904,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [蝴蝶牌](entities/ButterflyBrand.md) — Chen Diexian's tooth-powder and cosmetics brand, combining beauty imagery, trademark strategy, national-goods rhetoric, and consumer trust.
 - [家庭工业社](entities/JiatingGongyeshe.md) — Light-industrial company founded by Chen Diexian, growing from tooth powder into cosmetics, packaging, raw materials, and wartime factory migration.
 - [《女子世界》](entities/NushiShijie.md) — Women's magazine context for Chen Diexian's cosmetics-formula column and household-chemistry authority building.
-- [起朱楼宴宾客 / Qizhulou Yan Binke](entities/QizhulouYanBinke.md) — Podcast show represented across Trump-policy, asset-allocation, Japan-youth, quant-history, Hong Kong investing, portfolio-suitability, Dubai-opportunity, and youth-generational-dialogue episodes.
+- [起朱楼宴宾客 / Qizhulou Yan Binke](entities/QizhulouYanBinke.md) — Podcast show represented across Trump-policy, asset-allocation, investment-worldview, Japan-youth, quant-history, Hong Kong investing, portfolio-suitability, Dubai-opportunity, and youth-generational-dialogue episodes.
 - [Project 2025](entities/Project2025.md) — Heritage-linked conservative transition project treated as a personnel, training, document, and governing-architecture effort to institutionalize Trumpism.
 - [Mandate for Leadership 2025](entities/MandateForLeadership2025.md) — Project 2025 policy-document layer with department-level recommendations, transition planning, and conservative administrative-state critique.
 - [Heritage Foundation](entities/HeritageFoundation.md) — Conservative think tank behind Project 2025 and the Mandate for Leadership tradition discussed as governing handoff infrastructure.
@@ -3328,6 +3331,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [U.S. News and World Report](entities/USNewsAndWorldReport.md) — Ranking reference used in the college-search episode to show how AI can reinforce familiar school lists.
 - [Instagram](entities/Instagram.md) — Meta social platform tied to youth-safety litigation, college-search vibe signals, and Muse Image public-likeness generation.
 - [Ray Smith](entities/RaySmith.md) — Wall Street Journal workplace reporter interviewed by Marketplace Tech about AI job interviews, candidate experience, automated assessments, and human-in-the-loop hiring.
+- [Ray Dalio](entities/RayDalio.md) — All-weather investing reference in vol.110, linking Bridgewater, risk parity, and investment worldview fit.
 - [Wall Street Journal](entities/WallStreetJournal.md) — Media organization entering the wiki through Ray Smith's Marketplace Tech commentary on AI interviewing and hiring automation.
 - [Davines](entities/Davines.md) — Hair-care brand used as the Marketplace Tech case for a fake sponsored shopping result and AI-assisted retail website impersonation.
 - [Netcraft](entities/Netcraft.md) — Cybersecurity company cited for identifying AI-generated websites impersonating brands.
@@ -4732,7 +4736,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bank of Japan](entities/BankOfJapan.md) — Central bank whose tightening and yen effects are discussed as triggers for yen carry trade stress and Japanese equity volatility.
 - [半拿铁](entities/Banlatte.md) — Business-history podcast/show context covering China internet, infrastructure, regional commerce, private enterprise, product history, and its own podcast-production method.
 - [Berkshire Hathaway](entities/BerkshireHathaway.md) — Warren Buffett's investment company discussed through Apple reduction, high cash, valuation caution, market sentiment, and Munger/Buffett consumer-brand cases.
-- [Bitcoin](entities/Bitcoin.md) — Cryptocurrency asset discussed through trading, scarcity, safe-haven behavior, consumer confidence, regulated access, and Lugano's everyday-payment experiment.
+- [Bitcoin](entities/Bitcoin.md) — Cryptocurrency asset discussed through trading, scarcity, safe-haven behavior, consumer confidence, regulated access, Lugano's everyday-payment experiment, and conviction-based holdability.
 - [Bird Mobile](entities/BirdMobile.md) — First-generation Chinese domestic handset brand remembered for licenses, local channels, celebrity marketing, and the "手机中的战斗机" slogan.
 - [Bobo's Oat Bars](entities/BobosOatBars.md) — Food company that shared early Boulder kitchen capacity and employees with Justin's Nut Butter.
 - [Boston Dynamics](entities/BostonDynamics.md) — Robotics company referenced through Shibo's admiration for Marc Raibert and autonomous robotics.
@@ -4820,6 +4824,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kimi](entities/Kimi.md) — Chinese AI model/product reference used in the wiki's model-routing, workflow-fit, overseas-adoption, and OpenClaw cost-control discussions.
 - [Kedaibiao Lizheng](entities/KedaibiaoLizheng.md) — Episode guest focused on AI learning, skills, context, and agent-based workflows.
 - [Kenan Voice Changer](entities/KenanVoiceChanger.md) — Assistive AI prototype that repairs unclear speech so users can communicate during rehabilitation.
+- [Ken Follett](entities/KenFollett.md) — Historical-fiction author whose Century Trilogy is used by vol.110 to connect investing worldview with ordinary survival under historical turbulence.
 - [Kaseya](entities/Kaseya.md) — Cybersecurity/MSP company referenced through the July 2021 ransomware incident that accelerated ThreatLocker demand.
 - [K Computer](entities/KComputer.md) — Share AI's lightweight Unix-style virtual computer for agent work environments.
 - [K Becker](entities/KBecker.md) — Kimberly Becker's sustainable apparel brand testing made-to-order drops to reduce inventory risk while preserving customer trust.
@@ -5201,6 +5206,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Separate Crypto Reserve Fund](concepts/SeparateCryptoReserveFund.md) — Budgetary structure that isolates crypto exposure outside a government's general operating fund.
 - [Seized Digital Asset Custody](concepts/SeizedDigitalAssetCustody.md) — Practice of preserving seized crypto in digital form rather than immediately converting it to cash.
 - [Human Authorship Premium](concepts/HumanAuthorshipPremium.md) — Added trust, authenticity, or willingness to pay attached to work described as human-made or human-led in an AI-saturated market.
+- [Human Capital Inflation Hedge](concepts/HumanCapitalInflationHedge.md) — Vol.110 personal-finance frame that earning ability, adaptability, and work capacity can be stronger inflation protection than forced market participation.
 - [Algorithm Aversion](concepts/AlgorithmAversion.md) — Consumer-behavior pattern where AI or algorithmic authorship is discounted in domains expected to involve human emotion, care, or judgment.
 - [Tech Bubble Conditions](concepts/TechBubbleConditions.md) — David Kirsch's four-part technology-bubble framework: uncertainty, novice investors, investable access, and powerful narratives.
 - [AGI Narrative](concepts/AGINarrative.md) — Investment and strategy story in which general artificial intelligence promises unforeseeable future opportunities and intensifies AI bubble dynamics.
@@ -6380,7 +6386,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dubai Business Hub Model](concepts/DubaiBusinessHubModel.md) — Low-tax, open, internationally staffed city-hub model combining capital, immigration, logistics, branding, services, compliance cleanup, and confidence risk.
 - [Dubai Golden Visa Residency](concepts/DubaiGoldenVisaResidency.md) — Episode-reported residency frame linking Dubai property, company setup, or talent status to practical banking, ID, insurance, and recurring-base benefits.
 - [Dubai Real Estate Market](concepts/DubaiRealEstateMarket.md) — Dubai property market frame around high rents, off-plan sales, international buyers, residency-linked demand, supply uncertainty, and foreign-currency risk.
-- [Portfolio Suitability](concepts/PortfolioSuitability.md) — Investor-side test for whether a portfolio fits the person's goals, competence boundary, risk tolerance, and liquidity needs.
+- [Portfolio Suitability](concepts/PortfolioSuitability.md) — Investor-side test for whether a portfolio fits goals, competence boundary, risk tolerance, liquidity needs, and worldview.
 - [Adaptive Portfolio Design](concepts/AdaptivePortfolioDesign.md) — Portfolio-design frame that favors diversification, liquidity, and adjustment room over frequent high-conviction regime calls.
 - [Investment Cooldown Discipline](concepts/InvestmentCooldownDiscipline.md) — Behavioral rule system that forces waiting periods and turnover caps before large investment decisions.
 - [Hong Kong Retail Investor Survival](concepts/HongKongRetailInvestorSurvival.md) — Practical checklist for ordinary Hong Kong stock pickers covering penny-stock risk, exit liquidity, management alignment, sell-side incentives, and stop-loss discipline.
@@ -7314,6 +7320,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Financial Platform Incentives](concepts/FinancialPlatformIncentives.md) — Business-model forces such as take rate, promotion fees, trading volume, and product complexity that determine whether a financial platform stays aligned with users.
 - [Investor Suitability Friction](concepts/InvestorSuitabilityFriction.md) — Deliberate pre-purchase slowdown, such as quizzes or gates, that tests whether investors understand products before taking risk.
 - [Investment For Better Life](concepts/InvestmentForBetterLife.md) — Frame that investment should improve attention, relationships, sleep, and ordinary life rather than become life's dominant scoreboard.
+- [Investment Worldview Fit](concepts/InvestmentWorldviewFit.md) — Vol.110 frame that investing styles must fit a person's worldview, temperament, risk perception, and ability to hold the method.
 - [Knowing Enough](concepts/KnowingEnough.md) — Founder and governance restraint around recognizing when more revenue, products, trading, or external validation is no longer worth the trust cost.
 - [Benfen / 本分](concepts/Benfen.md) — Practice of doing what should be done after stripping away pressure, temptation, ego, and external scoring.
 - [As It Is Practice / 如其所是](concepts/AsItIsPractice.md) — Seeing and acting within the situation as it is, with proportionate agency rather than ego-driven interpretation.
@@ -7662,6 +7669,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Technology Installation Cycle](concepts/TechnologyInstallationCycle.md) — Innovation-cycle frame for how major technologies move from introduction through bubble risk toward wider deployment.
 - [Depression Driven Innovation](concepts/DepressionDrivenInnovation.md) — Claim that weak macro periods can produce new technologies, companies, and strategies when old profit pools compress.
 - [Risk Parity](concepts/RiskParity.md) — Multi-asset allocation approach that balances risk across assets and can suffer when liquidity crises make correlations rise together.
+- [Risk Perception](concepts/RiskPerception.md) — Psychological frame for how felt risk, vivid detail, and probability judgment shape investor behavior before portfolio math.
 - [Macro Asset Expression](concepts/MacroAssetExpression.md) — Discipline of translating macro narratives into concrete assets, styles, duration, commodities, sectors, and risk budgets.
 - [Gold Monetary Anchor](concepts/GoldMonetaryAnchor.md) — Gold frame focused on debt, currency trust, central-bank assets, and monetary-system change rather than CPI alone.
 - [Geopolitical Cycle Macro](concepts/GeopoliticalCycleMacro.md) — Macro frame treating geopolitical order as a higher-level constraint that can change asset-pricing boundaries.
@@ -7697,14 +7705,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Compute Continuity](concepts/AIComputeContinuity.md) — Ability to keep model APIs, coding agents, inference workloads, and GPU-backed business processes available through power, cooling, network, siting, and utility-regulation constraints.
 - [Regional Network Topology Risk](concepts/RegionalNetworkTopologyRisk.md) — Exposure created by where cloud regions, cable landings, exchange points, and data centers sit relative to users, chokepoints, and political conflict.
 - [Asymmetric Infrastructure Attack](concepts/AsymmetricInfrastructureAttack.md) — Risk pattern where low-cost weapons or sabotage impose high downtime, repair, or deterrence costs on expensive infrastructure.
-- [Value Investing](concepts/ValueInvesting.md) — Long-term cash-flow-oriented investing philosophy that treats valuation, safety margin, business quality, sizing, and holder behavior as one discipline.
+- [Value Investing](concepts/ValueInvesting.md) — Long-term cash-flow-oriented investing philosophy that treats valuation, safety margin, business quality, sizing, holder behavior, and worldview fit as one discipline.
 - [Margin Of Safety](concepts/MarginOfSafety.md) — Buying discipline that pays for pessimistic assumptions rather than optimistic scenarios to reduce permanent capital loss.
 - [Dividend Discount Model](concepts/DividendDiscountModel.md) — Valuation frame that treats stock value as the discounted sum of future dividends or distributable cash flows.
 - [Fund Liability Matching](concepts/FundLiabilityMatching.md) — Asset-management discipline of aligning strategy, drawdown, liquidity, communication, and client holding behavior.
 - [Circle Of Competence](concepts/CircleOfCompetence.md) — Investor's honest boundary of what can be understood, sized, held, and expanded through research.
 - [Business Moat](concepts/BusinessMoat.md) — Durable competitive advantage such as cost, scale, scope, brand, channel, network effects, or production know-how that protects future cash flows.
 - [Value Trap](concepts/ValueTrap.md) — Cheap-looking stock whose business value is structurally deteriorating faster than price or valuation multiples imply.
-- [Asset Allocation](concepts/AssetAllocation.md) — Multi-asset portfolio construction starting from client outcomes, expected return, volatility, correlation, and strategic/tactical risk budgets.
+- [Asset Allocation](concepts/AssetAllocation.md) — Multi-asset portfolio construction starting from client outcomes, expected return, volatility, correlation, strategic/tactical risk budgets, and investor worldview fit.
 - [Efficient Frontier](concepts/EfficientFrontier.md) — Portfolio frame for improving risk-return by adding assets with higher expected return or lower correlation.
 - [Asset Correlation](concepts/AssetCorrelation.md) — Portfolio relationship concept where changing macro variables, flows, and narratives can make assets move together or apart.
 - [FOF Product Design](concepts/FOFProductDesign.md) — Fund-of-funds product discipline that reverse-engineers return, drawdown, volatility, and client-holding behavior.
@@ -8036,7 +8044,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Intent Context](concepts/IntentContext.md) — High-signal context captured when a user explicitly expresses intent, used by proactive agents to act without generic interruption.
 - [Internal Transfer Strategy](concepts/InternalTransferStrategy.md) — Handling department moves as managed career transitions across current and receiving managers.
 - [Internship As Career Exploration](concepts/InternshipAsCareerExploration.md) — Using internships to test directions and stage goals instead of only soothing anxiety or decorating a resume.
-- [Investment Risk Management](concepts/InvestmentRiskManagement.md) — Position sizing, diversification, leverage control, automated rules, and emotional discipline for surviving uncertainty.
+- [Investment Risk Management](concepts/InvestmentRiskManagement.md) — Position sizing, diversification, leverage control, automated rules, worldview-fit checks, and emotional discipline for surviving uncertainty.
 - [Investor Education](concepts/InvestorEducation.md) — Work of making financial customers understand product structure, downside risk, liquidity, incentives, and the difference between disclosure and comprehension.
 - [Large Company Open Source Strategy](concepts/LargeCompanyOpenSourceStrategy.md) — Strategic use of open source by large companies and the tension between influence and internal value capture.
 - [Large Company Organizational Inertia](concepts/LargeCompanyOrganizationalInertia.md) — Big-company dynamic where resources and momentum amplify work but rules, scale, corporate ownership, and incentives reduce startup-like leverage.

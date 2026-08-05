@@ -2,8 +2,8 @@
 title: "Value Investing"
 type: concept
 tags: [investing, valuation, risk]
-sources: [e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1]
-last_updated: 2026-07-09
+sources: [e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
+last_updated: 2026-08-06
 ---
 
 # Value Investing
@@ -20,6 +20,8 @@ The episode's practical metaphor is "seeking the integral": value is the sum of 
 
 [[139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1]] adds [[ICEInvestor]]'s decompression of value-investing slogans. The episode argues that "buying stocks is buying companies" becomes misleading if it ignores time horizon, valuation, market expectations, growth acceleration, catalysts, and the investor's own behavior. [[PopMart]] and [[Pinduoduo]] become paired examples: a good business can be a hard stock, and a cheap stock can lack a rerating trigger.
 
+[[vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]] adds the worldview-fit caveat. The host argues that a cigar-butt or deep-value style requires a person who can believe assets may become absurdly cheap and still wait; a technology-optimistic or impatient investor may break the method by buying too early, adding leverage, or leaving before the thesis works.
+
 ## Key Claims
 - Value investing starts by asking where the investor's return ultimately comes from: business cash flow, dividends, repurchases, or eventual sale value.
 - It is not identical to low valuation; cheapness can be a symptom of value, a reward for patient capital, or a warning sign of [[ValueTrap]] risk.
@@ -33,6 +35,7 @@ The episode's practical metaphor is "seeking the integral": value is the sum of 
 - The relevant measurement window matters; short underperformance during narrative markets does not by itself invalidate a long-horizon cash-flow discipline.
 - FengTouQuan episode 139 adds that value slogans need time-horizon and market-context decompression before they can guide real stock selection.
 - A low valuation or strong company label still needs [[GoodCompanyGoodStock]], [[EarningsGrowthAcceleration]], and [[InvestmentCatalyst]] analysis.
+- Vol.110 adds that value investing should be matched to [[InvestmentWorldviewFit]]; the method's patience and pessimistic-entry discipline are not psychologically universal.
 
 ## Connections
 - [[MarginOfSafety]] — main defense against forecast error.
@@ -45,3 +48,4 @@ The episode's practical metaphor is "seeking the integral": value is the sum of 
 - [[AsymmetricPayoff]], [[Antifragility]], and [[InvestmentRiskManagement]] — E43's connection between value investing and option-like downside/upside structure.
 - [[ZhuNing]], [[BubbleNecessaryConditions]], and [[AIEquityValuationRisk]] — 42章经 interview extension around bubbles, AI valuation, and long-horizon discipline.
 - [[ICEInvestor]], [[PopMart]], [[Pinduoduo]], [[GoodCompanyGoodStock]], [[EarningsGrowthAcceleration]], and [[InvestmentCatalyst]] — FengTouQuan episode 139's method extension.
+- [[InvestmentWorldviewFit]], [[WarrenBuffett]], and [[PortfolioSuitability]] — vol.110's style-fit extension.

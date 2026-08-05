@@ -2,8 +2,8 @@
 title: "Jim Simons"
 type: entity
 tags: [person, investing, mathematics]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl]
-last_updated: 2026-07-15
+sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
+last_updated: 2026-08-06
 ---
 
 # Jim Simons
@@ -14,6 +14,8 @@ Jim Simons is presented in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-p
 
 [[ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj]] uses Simons differently: his unusually strong long-term record becomes a benchmark for suspicion. If a promoter promises short, stable, low-risk returns that outshine elite investors, the episode treats that as a reason to check [[InvestmentFraudRedFlags]] before considering the opportunity.
 
+[[vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]] uses Simons as an [[InvestmentWorldviewFit]] example. The host treats a Simons-like path as one that would naturally become [[QuantitativeInvesting]] if applied to finance, showing that investment method can express training, temperament, and worldview rather than only return preference.
+
 ## Key Claims
 - Simons's edge is framed as a translation of mathematical and cryptographic habits into financial markets.
 - The episode contrasts his approach with [[WarrenBuffett]] and [[PeterLynch]], who are associated with business-quality and familiar-company investing.
@@ -21,6 +23,7 @@ Jim Simons is presented in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-p
 - His framework depends on signal, noise, and capacity: a pattern must be real, strong enough to trade, and large enough not to be destroyed by the trader's own capital.
 - Vol.103 frames him as an institutional architect whose "fear" of risk became a feature of [[InvestmentRiskManagement]], not a contradiction of model discipline.
 - EP28 uses his record to calibrate return expectations: extraordinary stable-return promises should trigger fraud checks, not excitement.
+- Vol.110 adds Simons as a style-fit example: a quantitative worldview may be brilliant but still not replicable or psychologically suitable for most ordinary investors.
 
 ## Connections
 - [[RenaissanceTechnologies]] — company associated with Simons's quantitative system.
@@ -30,3 +33,4 @@ Jim Simons is presented in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-p
 - [[LeonardBaum]], [[JamesAx]], [[SandorStraus]], [[ElwynBerlekamp]], [[HenryLaufer]], [[PeterBrown]], and [[RobertMercer]] — key people in vol.103's organizational history.
 - [[QuantitativeDataMoat]], [[ShortTermStatisticalArbitrage]], [[AlphaDecay]], and [[HumanRiskOverride]] — vol.103's main additions to the Simons cluster.
 - [[InvestmentFraudRedFlags]] — EP28's use of Simons as a high-return skepticism benchmark.
+- [[InvestmentWorldviewFit]] — vol.110's frame for why Simons represents a specific investing temperament.

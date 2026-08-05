@@ -2,8 +2,8 @@
 title: "Market Regime Shift"
 type: concept
 tags: [investing, markets, risk]
-sources: [the-secret-meeting-that-launched-opec, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
-last_updated: 2026-07-24
+sources: [the-secret-meeting-that-launched-opec, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+last_updated: 2026-08-06
 ---
 
 # Market Regime Shift
@@ -15,6 +15,8 @@ Market regime shift is the term for periods when the rules behind market behavio
 [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]] adds the hedge-correlation version. The episode treats 2022 as a regime reminder: if inflation is the stress, bonds may stop diversifying equities, so a stock crash tied to AI valuation could still require more than the usual stock-bond template.
 
 [[vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]] adds the China-asset and Trump 2.0 version. The episode argues that U.S. soft-landing consensus, low option-protection costs, strong-dollar assumptions, and "U.S. stocks do not fall" habits may become unstable if tariffs, tax cuts, reshoring, inflation control, fiscal balance, and dollar-supply roles cannot all be satisfied at once.
+
+[[vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]] adds the historical-imagination version through [[TheCenturyTrilogy]]. The episode argues that ordinary people cannot reliably see the timing or shape of the next historical turning point, so a regime-shift-aware portfolio should leave cash, avoid all-in bets, and keep enough global breadth for "somewhere" to still offer opportunity.
 
 [[the-secret-meeting-that-launched-opec]] adds an oil-market institutional version. The episode treats the 1973 oil shock as a regime shift in producer power: once oil states saw that coordinated supply cuts could move prices, [[OPEC]] shifted from grievance organization toward [[OilProducerSupplyCoordination]], changing how consumers, governments, and producers understood oil-price risk.
 
@@ -36,6 +38,7 @@ Market regime shift is the term for periods when the rules behind market behavio
 - A model can be valid in normal regimes yet become dangerous when leverage and disappearing liquidity make exits impossible.
 - A hedge can be valid in one regime and unreliable in another when the shock changes the correlation structure.
 - Commodity-market regimes can change when control over marginal supply shifts from companies to producer states or when a chokepoint turns formal supply into unusable supply.
+- Vol.110 adds that historical turning-point awareness should lower all-in conviction and raise the value of cash, diversification, and global perspective.
 - Vol.112 adds that old valuation consensus can itself be a regime artifact: if global order, Chinese distribution, supply ecology, and external-demand assumptions change, the same asset can require a different pricing frame.
 
 ## Connections
@@ -53,5 +56,6 @@ Market regime shift is the term for periods when the rules behind market behavio
 - [[KondratievCycle]], [[GeopoliticalCycleMacro]], [[GoldMonetaryAnchor]], and [[MacroAssetExpression]] — E162's long-cycle, monetary-system, and non-steady macro extension.
 - [[LongTermCapitalManagement]] and [[FinancialModelRisk]] — EP90's quantitative-finance failure case.
 - [[AIBubbleHedging]], [[AssetCorrelation]], and [[TreasuryDurationRisk]] — The Intelligence episode's stock-bond hedge caveat.
+- [[TheCenturyTrilogy]], [[KenFollett]], [[AdaptivePortfolioDesign]], and [[InvestmentWorldviewFit]] — vol.110's historical-fiction and ordinary-survival extension.
 - [[OPEC]], [[SevenSistersOilMajors]], [[OilProducerSupplyCoordination]], [[SwingProducerRole]], and [[ChokepointShippingConfidence]] — oil-market institutional regime added by Planet Money.
 - [[DonaldTrump]], [[NewOrderAssetPricing]], [[ChinaSupplySideClearing]], [[LaborShareConsumptionRebalancing]], and [[BeltAndRoadExternalDemand]] — vol.112's U.S.-policy and China-asset regime branch.

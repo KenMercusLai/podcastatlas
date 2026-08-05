@@ -2,8 +2,8 @@
 title: "Behavioral Investing Biases"
 type: concept
 tags: [investing, psychology, behavior]
-sources: [155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
-last_updated: 2026-07-24
+sources: [155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
+last_updated: 2026-08-06
 ---
 
 # Behavioral Investing Biases
@@ -26,6 +26,8 @@ The concept overlaps with [[RetailBullMarketPsychology]] and [[RetailInvestorCro
 
 [[155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210]] adds a general-reader explanation of [[LossAversion]]. The episode contrasts virtual stock trading with real-money investing to show why ownership and reference points make losses harder to process than hypothetical drawdowns.
 
+[[vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]] adds the [[RiskPerception]] and worldview version. The source argues that people do not only miscalculate risks; they feel them through personality, upbringing, rules, optimism, pessimism, and social models, which helps explain why copying another investor's method can become behaviorally impossible.
+
 ## Key Claims
 - Loss aversion can make investors take small gains quickly while holding or adding to losing positions.
 - Confirmation bias can turn [[AIInvestmentResearch]] or social feeds into a search for evidence that protects an existing view.
@@ -46,6 +48,7 @@ The concept overlaps with [[RetailBullMarketPsychology]] and [[RetailInvestorCro
 - Liquidity can amplify bias when easy redemption makes it painless to abandon a long-term plan during volatility or excitement.
 - Vol.105 adds that the desire to react immediately to news is itself a behavioral risk when the portfolio is rebuilt several times a year.
 - Episode 155 adds that real-money ownership intensifies loss aversion compared with simulated decisions.
+- Vol.110 adds that a strategy borrowed from a mismatched worldview can create hidden behavioral risk even before market losses arrive.
 
 ## Connections
 - [[InvestmentRiskManagement]] — discipline layer needed to contain bias.
@@ -62,3 +65,4 @@ The concept overlaps with [[RetailBullMarketPsychology]] and [[RetailInvestorCro
 - [[InvestmentLiquidityTradeoff]], [[InvestmentImpossibleTriangle]], and [[AssetAllocation]] — vol.101's liquidity-as-behavior-control extension.
 - [[InvestmentCooldownDiscipline]], [[PortfolioSuitability]], and [[AdaptivePortfolioDesign]] — vol.105's impulse-control and self-fit extension.
 - [[LossAversion]], [[EverydayBehavioralEconomics]], and [[DanielKahneman]] - episode-155 behavioral-economics bridge.
+- [[RiskPerception]], [[InvestmentWorldviewFit]], and [[PaulSlovic]] — vol.110's worldview and perceived-risk bridge.

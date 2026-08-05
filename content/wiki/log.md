@@ -5769,6 +5769,14 @@ Ran lint. See lint-report.md for details.
 
 Added source page for a 蜜獾吃书 episode on 先南后北, southern conquest, 平蜀后的暴力与川蜀反抗, 宋初相权变化, 赵光义势力形成, 太祖猝死, 烛影斧声, 金匮之盟, 德昭德芳之死, 廷美案, and 太宗合法性焦虑. Created pages for 烛影斧声, 金匮之盟, 赵德昭, 赵德芳, 赵廷美, 杜太后, 宋皇后, 王继恩, 程德玄, 王全斌, 全师雄, 曹彬, 潘美, Song Unification Strategy, Song Succession Legitimacy Crisis, Sichuan Post-Conquest Resistance, and Official History Legitimacy Repair; updated overview, index, 蜜獾吃书, 赵匡胤, 赵光义, 赵普, 北宋, Song Military Centralization, Song Founding Legitimacy Performance, Evidence-Bound Historical Revision, Historical Memory Contest, Autocratic Succession, Conspiracy Theory Pattern Seeking, Sichuan, and Good Intentions Political Limits. No direct contradiction found; the source extends the upper-part Song founding cluster by showing how unification strategy, conquest violence, source control, and alternative-heir removal make the Taizu death mystery institutionally durable.
 
+## [2026-08-06] ingest | vol.110.投资就是对世界观的投票｜《迈出资产配置第一步》完结篇
+
+Added source page for a 起朱楼宴宾客 asset-allocation finale on investment as a vote for worldview, risk perception, portfolio suitability, cash and diversification, human capital as an inflation hedge, crypto conviction, and The Century Trilogy as a historical-uncertainty metaphor. Created pages for Investment Worldview Fit, Risk Perception, Human Capital Inflation Hedge, Paul Slovic, Ray Dalio, Ken Follett, and The Century Trilogy; updated overview, index, 起朱楼宴宾客, Asset Allocation, Portfolio Suitability, Investment Risk Management, Behavioral Investing Biases, Investment For Better Life, Circle Of Competence, Market Regime Shift, Geopolitical Cycle Macro, Adaptive Portfolio Design, Daniel Kahneman, Warren Buffett, Jim Simons, Bridgewater Associates, Risk Parity, Value Investing, and Bitcoin. No direct contradiction found; the source qualifies prior allocation and passive-investing guidance by stressing that no financial-market method is universally mandatory, and that ordinary investors should fit investing to worldview, life stage, and real behavior.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

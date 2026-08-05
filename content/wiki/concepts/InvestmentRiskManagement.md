@@ -38,8 +38,9 @@ sources:
   - vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90
   - vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe
   - vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x
+  - vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8
   - ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv
-last_updated: 2026-08-05
+last_updated: 2026-08-06
 ---
 
 # Investment Risk Management
@@ -57,6 +58,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 [[vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]] adds the portfolio-suitability version: risk management means matching the portfolio to both the market environment and the investor's own goals, [[CircleOfCompetence]], liquidity needs, and sleep-at-night boundary. It also adds [[InvestmentCooldownDiscipline]] as a concrete process for slowing large decisions and limiting turnover before short-term news becomes a portfolio rebuild.
 
 [[vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]] adds the pension-account version: risk management inside a [[PersonalPensionAccount|个人养老金账户]] means matching tax benefit, contribution rhythm, retirement date, product type, and drawdown holdability. The source treats low-fee index funds, FOF, and [[TargetDateFund|target-date funds]] as different risk paths rather than as universally ranked products.
+
+[[vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]] adds the worldview-fit version: risk management begins by refusing to copy a style that contradicts the investor's own view of uncertainty, rules, leverage, or time. Cash buffers, diversification, no all-in bets, and global perspective are treated as behaviorally durable choices for the host's worldview, while other investors may legitimately choose different roads if they can survive them.
 
 [[ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]] adds the retail-gold version: even an asset associated with safety can create stress when the buyer enters after a fast run-up, allocates too much, or uses borrowed money. The source treats gold's form factor - jewelry, physical gold, accumulated grams, or ETF-like exposure - as part of risk management because each route changes liquidity, premium, and behavior.
 
@@ -163,6 +166,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 - Large allocation changes should require friction through [[InvestmentCooldownDiscipline]], especially when the trigger is a social-media headline or a sudden macro narrative.
 - [[AdaptivePortfolioDesign]] favors diverse and liquid enough structures over repeated all-in or all-out regime calls by ordinary investors.
 - Pension-account risk management should evaluate whether the investor can hold direct [[PassiveInvesting|index beta]] or needs FOF and [[TargetDateFund|target-date]] discipline to stay aligned with retirement goals.
+- Vol.110 adds that style mismatch is itself a risk: borrowed conviction from an influencer, famous manager, or friend can fail when the investor cannot emotionally or philosophically hold the method.
 - EP268 adds that gold risk management begins with purpose, size, and funding source: the same gold purchase can be a long-term reserve, a gift, a monthly reward, or a stressful speculation depending on those inputs.
 - Vol.112 adds that non-consensus macro frameworks need a risk boundary: investors must distinguish structural possibility from company earnings, cash flow, valuation repair, and a fund manager's holdable process.
 - Public crypto reserves require a higher institutional risk bar than private crypto exposure because fund purpose, taxpayer exposure, custody, liquidity, and emergency-use rules must be explicit.
@@ -208,4 +212,5 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[HongKongRetailInvestorSurvival]], [[HongKongPennyStockRisk]], [[HongKongLiquidityExitRisk]], [[ManagementShareholderAlignmentRisk]], [[SellSideResearchIncentives]], [[AHShareDiscountRepricing]], [[HongKongIPOLiquidityPath]], and [[HongKongTripleRerating]] — vol.104's Hong Kong retail-stock-picking survival cluster.
 - [[PortfolioSuitability]], [[AdaptivePortfolioDesign]], [[InvestmentCooldownDiscipline]], and [[CircleOfCompetence]] — vol.105's portfolio-fit, liquidity, and behavioral-process cluster.
 - [[PersonalPensionAccount|个人养老金账户]], [[TargetDateFund|目标日期基金]], [[FOFProductDesign]], and [[PassiveInvesting]] — vol.109's pension-account risk and product-choice cluster.
+- [[InvestmentWorldviewFit]], [[RiskPerception]], [[HumanCapitalInflationHedge]], and [[TheCenturyTrilogy]] — vol.110's worldview, psychology, and historical-uncertainty extension.
 - [[HouseholdGoldSavings]], [[OnlineGoldAccumulation]], [[AntFortune]], and [[GoldMonetaryAnchor]] — EP268's retail-gold, platform, and household-reserve extension.

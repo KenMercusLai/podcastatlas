@@ -2,8 +2,8 @@
 title: "Daniel Kahneman"
 type: entity
 tags: [person, psychology, economics, behavioral-economics]
-sources: [155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210]
-last_updated: 2026-07-24
+sources: [155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
+last_updated: 2026-08-06
 ---
 
 # Daniel Kahneman
@@ -12,8 +12,11 @@ Daniel Kahneman appears in [[155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai
 
 His source role is practical rather than biographical. Kahneman helps the episode connect [[SocialPsychology|social psychology]] with [[EconomicWayOfThinking]]: people decide with reference points, fear of loss, emotions, and context, so consumer and investment decisions need psychological self-suspicion as well as arithmetic.
 
+[[vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]] adds Kahneman as the transmission route for [[PaulSlovic]]'s [[RiskPerception]] argument. The host uses this behavioral-psychology bridge to explain why investment decisions are shaped by felt danger and worldview before they become asset-allocation math.
+
 ## Connections
 - [[LossAversion]] - central mechanism attached to the source's Kahneman discussion.
 - [[EverydayBehavioralEconomics]] - broader source frame.
 - [[BehavioralInvestingBiases]] - adjacent investing page where loss aversion already appears as a market failure mode.
 - [[RichardThaler]] - neighboring behavioral-economics figure used in the same source.
+- [[PaulSlovic]] and [[RiskPerception]] - vol.110's risk-feeling and investment-worldview bridge.

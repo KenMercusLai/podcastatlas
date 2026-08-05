@@ -2,8 +2,8 @@
 title: "Circle Of Competence"
 type: concept
 tags: [investing, research, judgment]
-sources: [e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
-last_updated: 2026-07-15
+sources: [e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
+last_updated: 2026-08-06
 ---
 
 # Circle Of Competence
@@ -14,6 +14,8 @@ Circle of competence is the boundary of what an investor can understand well eno
 
 [[vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]] adds the portfolio-fit version. The episode treats competence as one axis of [[PortfolioSuitability]]: derivatives, snowball products, crypto, or single stocks should not become main weapons if the investor cannot understand their mechanics or hold them through stress.
 
+[[vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]] adds the worldview boundary. A method can sit outside a person's practical circle not only because they lack facts, but because its rule culture, risk style, leverage assumptions, or time horizon conflict with [[InvestmentWorldviewFit]].
+
 ## Key Claims
 - The circle of competence should guide capital allocation, not become a shield against studying missed opportunities.
 - A stable investment framework can coexist with an expanding research boundary.
@@ -22,6 +24,7 @@ Circle of competence is the boundary of what an investor can understand well eno
 - [[ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i]] adds the Munger-style complement: inversion and irreversible-error avoidance help define where apparent understanding is too weak.
 - Episode 139 adds that AI can widen preparation, but it does not make an unsuitable investing game suitable for the user.
 - Vol.105 adds that competence should influence position size: unfamiliar assets can be small learning positions, but should not become the portfolio core.
+- Vol.110 adds that competence includes self-knowledge about which investing worlds the person can inhabit without borrowing false conviction.
 
 ## Connections
 - [[ValueInvesting]] — long-horizon investing depends on business understanding.
@@ -32,3 +35,4 @@ Circle of competence is the boundary of what an investor can understand well eno
 - [[CharlieMunger]] and [[WarrenBuffett]] — adjacent wiki references for staying within what can be understood.
 - [[ICEInvestor]], [[AICompressedInvestmentResearchAdvantage]], and [[BehavioralInvestingBiases]] — episode 139's self-knowledge and AI-assisted-research extension.
 - [[PortfolioSuitability]], [[AdaptivePortfolioDesign]], and [[InvestmentCooldownDiscipline]] — vol.105's application of competence boundaries to portfolio structure and turnover.
+- [[InvestmentWorldviewFit]] and [[RiskPerception]] — vol.110's temperament and perceived-risk extension.

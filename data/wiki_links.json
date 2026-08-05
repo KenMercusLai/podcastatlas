@@ -13267,6 +13267,10 @@
     "title": "Human Authorship Premium",
     "url": "/wiki/concepts/humanauthorshippremium/"
   },
+  "HumanCapitalInflationHedge": {
+    "title": "Human Capital Inflation Hedge",
+    "url": "/wiki/concepts/humancapitalinflationhedge/"
+  },
   "HumanConnectionUnderAI": {
     "title": "Human Connection Under AI",
     "url": "/wiki/concepts/humanconnectionunderai/"
@@ -13970,6 +13974,10 @@
   "InvestmentRiskManagement": {
     "title": "Investment Risk Management",
     "url": "/wiki/concepts/investmentriskmanagement/"
+  },
+  "InvestmentWorldviewFit": {
+    "title": "Investment Worldview Fit",
+    "url": "/wiki/concepts/investmentworldviewfit/"
   },
   "InvestorEducation": {
     "title": "Investor Education",
@@ -15382,6 +15390,10 @@
   "KenChenault": {
     "title": "Ken Chenault",
     "url": "/wiki/entities/kenchenault/"
+  },
+  "KenFollett": {
+    "title": "Ken Follett",
+    "url": "/wiki/entities/kenfollett/"
   },
   "KenOno": {
     "title": "Ken Ono",
@@ -20611,6 +20623,10 @@
     "title": "Paul Rhode",
     "url": "/wiki/entities/paulrhode/"
   },
+  "PaulSlovic": {
+    "title": "Paul Slovic",
+    "url": "/wiki/entities/paulslovic/"
+  },
   "PaulVixie": {
     "title": "Paul Vixie",
     "url": "/wiki/entities/paulvixie/"
@@ -22483,6 +22499,10 @@
     "title": "Ray-Ban Smart Glasses",
     "url": "/wiki/entities/raybansmartglasses/"
   },
+  "RayDalio": {
+    "title": "Ray Dalio",
+    "url": "/wiki/entities/raydalio/"
+  },
   "RaySmith": {
     "title": "Ray Smith",
     "url": "/wiki/entities/raysmith/"
@@ -23166,6 +23186,10 @@
   "RiskParity": {
     "title": "Risk Parity",
     "url": "/wiki/concepts/riskparity/"
+  },
+  "RiskPerception": {
+    "title": "Risk Perception",
+    "url": "/wiki/concepts/riskperception/"
   },
   "Ritan": {
     "title": "日谈",
@@ -26770,6 +26794,10 @@
   "TheCatcherInTheRye": {
     "title": "《麦田里的守望者》 / The Catcher in the Rye",
     "url": "/wiki/entities/thecatcherintherye/"
+  },
+  "TheCenturyTrilogy": {
+    "title": "The Century Trilogy / 世纪三部曲",
+    "url": "/wiki/entities/thecenturytrilogy/"
   },
   "TheContinental": {
     "title": "The Continental",
@@ -32402,6 +32430,10 @@
   "vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x": {
     "title": "vol.109. FOF派VS指数派，关于个人养老金账户该配什么的一场辩论",
     "url": "/wiki/sources/vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x/"
+  },
+  "vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8": {
+    "title": "vol.110.投资就是对世界观的投票｜《迈出资产配置第一步》完结篇",
+    "url": "/wiki/sources/vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8/"
   },
   "vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv": {
     "title": "Vol.112 一次非共识的2024反思和2025展望 | 对话蓝小康X牟一凌",
