@@ -2,8 +2,8 @@
 title: "Auspicious Omen Politics / 祥瑞政治"
 type: concept
 tags: [history, politics, china, legitimacy]
-sources: [126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]
-last_updated: 2026-07-24
+sources: [126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
+last_updated: 2026-08-06
 ---
 
 # Auspicious Omen Politics / 祥瑞政治
@@ -12,13 +12,17 @@ Auspicious omen politics / 祥瑞政治 is the episode's mechanism for turning s
 
 The source treats auspicious signs as institutional work, not just superstition. Officials, scholars, envoys, and court factions could gather, report, amplify, or refuse signs, as in the episode's contrast between omen production and the person who declines to fabricate it.
 
+[[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]] places auspicious signs inside a wider [[FangshuSystematization|fangshu]] field: disasters, star signs, rainmaking, prophecy, ritual implements, and North Dipper practices all become ways that Heaven-linked meaning enters political action.
+
 ## Key Claims
 - Auspicious signs can soften a political taboo by making change appear Heaven-approved.
 - Omen production creates incentives for exaggeration and fabrication around power.
 - Ritual projects and mass petitions make symbolic approval look bureaucratically real.
 - The concept works with [[ChenweiPolitics]] and [[MandateOfHeavenLegitimacy]] to produce [[DynasticLegitimacyBackfire]].
+- Episode 87 adds that auspicious signs share infrastructure with astrology, ritual technique, and Confucianized disaster interpretation.
 
 ## Connections
 - [[WangMang]], [[WangZhengjun]], [[XinDynasty]], and [[XiangruiBook|《祥瑞》]] - source case.
 - [[ChenweiPolitics]], [[MandateOfHeavenLegitimacy]], and [[MoralReputationPoliticalCapital]] - enabling cluster.
+- [[FangshuSystematization]], [[ChineseAstrologicalPolitics]], and [[DaoistRitualTechnology]] - broader sign and practice environment added by episode 87.
 - [[HistoricalMemoryContest]] - later dispute over whether signs reveal truth, manipulation, or belief.

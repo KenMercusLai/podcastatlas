@@ -2,8 +2,8 @@
 title: "Wang Mang / 王莽"
 type: entity
 tags: [history, china, politics]
-sources: [126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]
-last_updated: 2026-07-24
+sources: [126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
+last_updated: 2026-08-06
 ---
 
 # Wang Mang / 王莽
@@ -12,10 +12,13 @@ Wang Mang / 王莽 is the central figure in [[126-wangmang-zhisi-shensheng-diguo
 
 His importance in the wiki is not only the founding of the [[XinDynasty|Xin dynasty]]. The source uses him to show how [[MandateOfHeavenLegitimacy|天命合法性]], [[ChenweiPolitics|谶纬政治]], [[AuspiciousOmenPolitics|祥瑞政治]], [[MoralReputationPoliticalCapital]], and [[TuoguReformPolitics|托古改制]] could become a path from moral public image to imperial seizure.
 
+[[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]] adds Wang Mang's ritual and astrological side. His "威斗" and crisis-time orientation around the North Dipper make omen politics embodied and spatial, connecting him to [[ChineseAstrologicalPolitics]] and to later [[DaoistRitualTechnology|Daoist pacing-the-Dipper]] traditions.
+
 ## Key Claims
 - Wang Mang's early filial, modest, and generous image created real political capital.
 - His rise depended on court procedure and family networks as much as personal ideology.
 - Omen production helped him pass one political boundary after another.
+- Episode 87 adds that Wang Mang's North Dipper practices turned celestial legitimacy into court ritual behavior.
 - [[WangMangReforms|王莽改制]] mixed Confucian idealism, coercive control, and weak administrative realism.
 - His final violence and collapse are part of the episode's argument that moralized legitimacy can intensify unchecked power.
 
@@ -24,3 +27,4 @@ His importance in the wiki is not only the founding of the [[XinDynasty|Xin dyna
 - [[WesternHanDynasty]], [[XinDynasty]], [[WangZhengjun]], [[HanAidi]], [[DongXian]], and [[HanPingdi]] - dynastic network.
 - [[LiuXiu]], [[KunyangBattle]], [[ChimeiRebellion]], and [[LulinRebellion]] - collapse and succession context.
 - [[DynasticLegitimacyBackfire]], [[IdeologicalOvercontrol]], and [[ConfucianIdealGovernance]] - main interpretive concepts.
+- [[ChineseAstrologicalPolitics]], [[DaoistRitualTechnology]], and [[FangshuSystematization]] - episode 87's ritual and star-omen extension.

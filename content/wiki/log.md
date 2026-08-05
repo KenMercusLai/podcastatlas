@@ -5868,3 +5868,11 @@ Ran health before lint; health scanned 8,277 wiki pages and found no empty/stub 
 ## [2026-08-06] lint | Wiki health check
 
 Ran health before lint; health scanned 8,284 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,284 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` and found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because no provider-qualified `LLM_MODEL` or API key is configured in the shell environment. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-06] ingest | 87.过年最适合聊玄学！探讨神仙方术发展史（接上集）
+
+Added source page for a 蜜獾吃书 episode on Han-to-Wei-Jin fangshu history, Dong Zhongshu's Confucian-omen synthesis, Jing Fang and star omens, chenwei politics, Wang Mang's North Dipper ritual, Fei Changfang, Daoist alchemy and nourishing-life techniques, talismans and spells, portable divination systems, Guo Pu and fengshui, Ge Hong's Baopuzi, and Fotucheng's Buddhist miracle politics. Created pages for Jing Fang, Fei Changfang, Wei Boyang, Zhouyi Cantongqi, Zhang Hua, Bowuzhi, Guo Pu, Zangshu, Ge Hong, Baopuzi, Fotucheng, Fangshu Systematization, Chinese Astrological Politics, Daoist Alchemy, Daoist Nourishing-Life Techniques, Daoist Ritual Technology, Portable Divination Systems, Feng Shui Vital-Energy Theory, and Buddhist Miracle Politics; updated overview, index, 蜜獾吃书, Dong Zhongshu, Wang Mang, Liu Xiu, Liu Bang, Chenwei Politics, Auspicious Omen Politics, Mandate of Heaven Legitimacy, Confucian Ideal Governance, Chinese Folk Religion Layering, and Alchemy-Chemistry Continuity. No direct contradiction found; the source qualifies any simple view of Confucianism as anti-superstition by showing how ritual technique, omen interpretation, religious authority, and political legitimacy became entangled.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,7 +2,7 @@
 title: "Liu Bang / 刘邦"
 type: entity
 tags: [history, china, empire]
-sources: [164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]
+sources: [164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
 last_updated: 2026-08-06
 ---
 
@@ -14,13 +14,17 @@ Liu Bang / 刘邦 appears in [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao
 
 The episode's interest in Liu Bang is structural. His myths helped build [[MandateOfHeavenLegitimacy]], but the same logic could later become [[DynasticLegitimacyBackfire]]: if Heaven once selected Liu Bang's line, bad omens and broken succession could suggest Heaven might select someone else.
 
+[[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]] adds Liu Bang's sword-and-white-snake story to a broader discussion of ritual objects and divine sanction. In that source, the founding myth helps explain why swords can become political-theological signs inside [[DaoistRitualTechnology]] and [[AuspiciousOmenPolitics]].
+
 ## Key Claims
 - Liu Bang's origin stories helped sacralize Han rule.
 - Founding mythology became a later vulnerability when legitimacy was read through signs.
 - The source uses Liu Bang as the starting point for understanding why Wang Mang's claim became thinkable.
+- Episode 87 adds his white-snake story to the weapon-symbol branch of omen politics.
 
 ## Connections
 - [[WesternHanDynasty]] and [[WangMang]] - founding and late-dynasty contrast.
 - [[MandateOfHeavenLegitimacy]], [[DynasticLegitimacyBackfire]], and [[AuspiciousOmenPolitics]] - interpretive frame.
 - [[LiuXiu]] - later Liu restoration contrast.
+- [[DaoistRitualTechnology]] and [[ChineseAstrologicalPolitics]] - episode 87's symbolic-object and omen context.
 - [[HongmenYan|《鸿门宴》]], [[XiangYu|项羽]], [[ZhangLiang|张良]], and [[FanKuai|樊哙]] - episode 164's power-scene extension.

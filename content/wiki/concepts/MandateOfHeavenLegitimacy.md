@@ -2,7 +2,7 @@
 title: "Mandate of Heaven Legitimacy / 天命合法性"
 type: concept
 tags: [history, politics, china, legitimacy]
-sources: [126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+sources: [126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
 last_updated: 2026-08-06
 ---
 
@@ -14,15 +14,19 @@ The concept is important because it separates sacred legitimacy from simple prop
 
 [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] adds a Mencian version through [[MencianPeopleBasedLegitimacy]]. In that source, Heaven is not primarily read through omens or dynastic signs but through the people's seeing and hearing, making popular response a test of whether rule is legitimate.
 
+[[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]] extends the omen-centered version by showing the wider technique environment around mandate claims. Rainmaking, star omens, chenwei, auspicious signs, swords, and North Dipper ritual all make Heaven's will seem available to specialists and rulers.
+
 ## Key Claims
 - A mandate narrative strengthens a dynasty by making rule more than military success.
 - The same narrative can imply that Heaven may withdraw approval.
 - Omen interpretation gives political actors a way to argue that legitimacy has shifted.
 - In the source, mandate politics is inseparable from [[ChenweiPolitics]], [[AuspiciousOmenPolitics]], and [[DynasticLegitimacyBackfire]].
 - The Mencius source emphasizes a people-facing version of Heaven's will rather than an omen-centered imperial version.
+- Episode 87 adds the fangshu infrastructure that made Heaven-readable politics practical.
 
 ## Connections
 - [[WesternHanDynasty]], [[LiuBang]], [[WangMang]], and [[XinDynasty]] - source case.
 - [[DongZhongshu]] - intellectual background in the episode.
 - [[Mengzi|孟子 / Mencius]] and [[MencianPeopleBasedLegitimacy]] - Mencian people-based extension.
 - [[PersonalRuleLegitimacyCrisis]] and [[HistoricalMemoryContest]] - adjacent wiki frames about authority and later interpretation.
+- [[FangshuSystematization]], [[ChineseAstrologicalPolitics]], and [[DaoistRitualTechnology]] - technique environment around Heaven-linked signs.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [87.过年最适合聊玄学！探讨神仙方术发展史（接上集）](sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550.md) — 蜜獾吃书 episode on Han-to-Wei-Jin fangshu, Dong Zhongshu, star omens, chenwei politics, Daoist alchemy, ritual technology, divination, fengshui, and Buddhist miracle politics.
 - [86.打开一颗心：那美好的仗，我已经打过了](sources/86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437.md) — 蜜獾吃书 episode on Stephen Westaby, 《打开一颗心》, cardiac surgery, artificial hearts, the AB180 blood pump, high-risk surgical innovation, mortality metrics, and sponsor-linked major-illness insurance planning.
 - [85.车墩墩野事记：走啊！搬到乡下钻小树林儿去！](sources/85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571.md) — 蜜獾吃书 episode with 尹琪 on 《车墩墩野事记》, city-edge nature, Chedun life, small woods, fireflies, raccoon-dog surveys, and observation before judgment.
 - [84.冰路狂花：好姑娘，你只是忘了勇敢](sources/84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676.md) — 蜜獾吃书 episode on Amy Butcher's Mothertrucker, Joy Wiebe, Alaska's Dalton Highway, psychological abuse, why-not-leave victim blaming, and courage as concrete exit.
@@ -735,6 +736,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jing Fang / 京房](entities/JingFang.md) — Han star-omen figure connecting celestial interpretation, court criticism, and political diagnosis.
+- [Fei Changfang / 费长房](entities/FeiChangfang.md) — Han immortal-arts figure whose stories link hidden worlds, tests, talismans, ghost control, and failed transcendence.
+- [Wei Boyang / 魏伯阳](entities/WeiBoyang.md) — Early Chinese alchemy figure attached to 《周易参同契》 and coded Daoist transformation language.
+- [Zhouyi Cantongqi / 《周易参同契》](entities/ZhouyiCantongqi.md) — Alchemical classic used by episode 87 to connect Yi learning, yin-yang, five phases, and material transformation.
+- [Zhang Hua / 张华](entities/ZhangHua.md) — Wei-Jin strange-knowledge figure linking 《博物志》, star omens, sword qi, and official historical memory.
+- [Bowuzhi / 《博物志》](entities/Bowuzhi.md) — Strange-knowledge text associated with Zhang Hua and treated as an archive of omens, transformations, and object lore.
+- [Guo Pu / 郭璞](entities/GuoPu.md) — Traditional fengshui authority figure attached to 《葬书》 with source-scoped attribution caution.
+- [Zangshu / 《葬书》](entities/Zangshu.md) — Fengshui text used by episode 87 to explain qi, wind, water, burial, and landscape form.
+- [Ge Hong / 葛洪](entities/GeHong.md) — Daoist thinker whose 《抱朴子》 links immortality, alchemy, ritual objects, moral conduct, and "我命由我不由天".
+- [Baopuzi / 《抱朴子》](entities/Baopuzi.md) — Ge Hong text anchoring episode 87's gold elixir, moral-accounting, and immortality-system branch.
+- [Fotucheng / 佛图澄](entities/Fotucheng.md) — Buddhist monk used by episode 87 to connect miracle stories, elite patronage, and Later Zhao political violence.
 - [Stephen Westaby / 史蒂芬·维斯塔比](entities/StephenWestaby.md) — Cardiac surgeon at the center of 《打开一颗心》, connecting surgical courage, artificial hearts, patient memory, and institutional risk.
 - [Robert Jarvik / 罗伯特·贾维克](entities/RobertJarvik.md) — Artificial-heart figure used by episode 86 to connect Westaby's work to left-ventricular assist-pump development.
 - [AB180 Blood Pump](entities/AB180BloodPump.md) — Rotating blood-pump device in episode 86's Julie case, linking artificial-heart bridge therapy, device validation, and bureaucratic risk.
@@ -5078,6 +5090,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Fangshu Systematization / 方术系统化](concepts/FangshuSystematization.md) — Process by which omens, immortality arts, healing, talismans, alchemy, divination, and fengshui become textual and religious systems.
+- [Chinese Astrological Politics / 中国星占政治](concepts/ChineseAstrologicalPolitics.md) — Reading celestial phenomena as political evidence about rulers, ministers, war, legitimacy, and state conduct.
+- [Daoist Alchemy / 道教炼丹](concepts/DaoistAlchemy.md) — Immortality-oriented elixir practice linking coded language, material transformation, cosmology, and textual authority.
+- [Daoist Nourishing-Life Techniques / 道教养生术](concepts/DaoistNourishingLifeTechniques.md) — Guarding the One, qi practices, fetal breathing, and daoyin as immortality-oriented body disciplines.
+- [Daoist Ritual Technology / 道教仪式技术](concepts/DaoistRitualTechnology.md) — Pacing the Dipper, talismans, spells, swords, mirrors, invisibility arts, and administrative command formulae as ritual technique.
+- [Portable Divination Systems / 便携占算系统](concepts/PortableDivinationSystems.md) — Simplified procedures that compress larger cosmologies into repeatable uncertainty-management tools.
+- [Feng Shui Vital-Energy Theory / 风水生气论](concepts/FengShuiVitalEnergyTheory.md) — Fengshui frame where qi, burial, wind, water, and landscape enclosure make place cosmologically active.
+- [Buddhist Miracle Politics / 佛教神通政治](concepts/BuddhistMiraclePolitics.md) — Use of miracle narratives to authorize Buddhist specialists in elite and courtly political settings.
 - [High-Risk Surgical Innovation](concepts/HighRiskSurgicalInnovation.md) — Surgical innovation pattern where patient severity, device limits, permission, and responsibility collide before a stable playbook exists.
 - [Artificial Heart Bridge Therapy](concepts/ArtificialHeartBridgeTherapy.md) — Mechanical circulatory support used to buy time, support recovery, or bridge patients toward transplant under serious device and ICU risks.
 - [Surgical Outcome Metric Distortion](concepts/SurgicalOutcomeMetricDistortion.md) — Incentive problem where crude mortality statistics can discourage surgeons from accepting the sickest or rarest cases.

@@ -2,7 +2,7 @@
 title: "Confucian Ideal Governance / 儒家理想治理"
 type: concept
 tags: [history, politics, china, confucianism]
-sources: [165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+sources: [165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
 last_updated: 2026-08-06
 ---
 
@@ -14,6 +14,8 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 
 [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] adds an earlier contrast through [[Mengzi|孟子 / Mencius]]. There, Confucian political language is not primarily imperial moralization but [[EarlyConfucianResistancePolitics|resistance politics]]: renyi gives ministers grounds to rebuke rulers, makes popular welfare a legitimacy test, and can deny tyrants the moral name of ruler.
 
+[[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]] adds a religious-technical qualification. Through [[DongZhongshu|董仲舒]], the episode argues that imperial Confucianism could absorb yin-yang, five phases, rainmaking, disasters, and omen interpretation, so Confucian statecraft is not automatically a rationalist boundary against [[FangshuSystematization|方术]].
+
 [[165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646]] adds an elder-care extension through [[RespectForEldersTradition]]. The episode treats Confucian elder respect as morally mixed: it can express care for vulnerability and public peace, but later family and state order can also convert age, virtue, and hierarchy into stabilizing authority.
 
 ## Key Claims
@@ -22,11 +24,13 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 - Scholar support and ritual language can legitimate concentration of power.
 - The source treats the failure as structural, not simply a failure of Wang Mang's personality.
 - The Mencius episode adds that early Confucian political ideals could also authorize ruler-limitation and people-based legitimacy before later imperial absorption.
+- Episode 87 adds that Confucian imperial order could incorporate ritual technique and omen reading rather than only moral doctrine.
 - The elder-respect branch adds that Confucian social ethics can support care and dignity, but becomes suspect when age is treated as automatic virtue or authority.
 
 ## Connections
 - [[WangMang]], [[DongZhongshu]], and [[XiangruiBook|《祥瑞》]] - source context.
 - [[MoralReputationPoliticalCapital]], [[TuoguReformPolitics]], [[WangMangReforms]], and [[ConfucianForeignPolicyMoralism]] - concept cluster.
 - [[Mengzi|孟子 / Mencius]], [[MencianBenevolentGovernment]], [[MencianPeopleBasedLegitimacy]], and [[MencianIdealismLimits]] - early Confucian contrast.
+- [[FangshuSystematization]], [[ChineseAstrologicalPolitics]], and [[AuspiciousOmenPolitics]] - episode 87's religious-technical qualification.
 - [[GoodIntentionsPoliticalLimits]] and [[MachiavellianRealism]] - adjacent wiki frames about idealism and political reality.
 - [[RespectForEldersTradition]] and [[ElderCareStateCapacity]] - elder-care and state-capacity extension added by episode 165.

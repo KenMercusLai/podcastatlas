@@ -871,6 +871,10 @@
     "title": "86.打开一颗心：那美好的仗，我已经打过了",
     "url": "/wiki/sources/86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437/"
   },
+  "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550": {
+    "title": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集）",
+    "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -3831,6 +3835,10 @@
     "title": "暴风影音 / Baofeng Yingyin",
     "url": "/wiki/entities/baofengyingyin/"
   },
+  "Baopuzi": {
+    "title": "Baopuzi / 《抱朴子》",
+    "url": "/wiki/entities/baopuzi/"
+  },
   "BarackObama": {
     "title": "Barack Obama",
     "url": "/wiki/entities/barackobama/"
@@ -4567,6 +4575,10 @@
     "title": "Bowie Kuhn",
     "url": "/wiki/entities/bowiekuhn/"
   },
+  "Bowuzhi": {
+    "title": "Bowuzhi / 《博物志》",
+    "url": "/wiki/entities/bowuzhi/"
+  },
   "BoyuCapital": {
     "title": "Boyu Capital / 博裕资本",
     "url": "/wiki/entities/boyucapital/"
@@ -4738,6 +4750,10 @@
   "BuddhistLifeAffirmingLiterature": {
     "title": "Buddhist Life-Affirming Literature",
     "url": "/wiki/concepts/buddhistlifeaffirmingliterature/"
+  },
+  "BuddhistMiraclePolitics": {
+    "title": "Buddhist Miracle Politics / 佛教神通政治",
+    "url": "/wiki/concepts/buddhistmiraclepolitics/"
   },
   "BudgetAirlineCostSqueeze": {
     "title": "Budget Airline Cost Squeeze",
@@ -5914,6 +5930,10 @@
   "ChinaYouthUnemployment": {
     "title": "China Youth Unemployment",
     "url": "/wiki/concepts/chinayouthunemployment/"
+  },
+  "ChineseAstrologicalPolitics": {
+    "title": "Chinese Astrological Politics / 中国星占政治",
+    "url": "/wiki/concepts/chineseastrologicalpolitics/"
   },
   "ChineseBasketballAssociation": {
     "title": "中国男子篮球职业联赛 / Chinese Basketball Association",
@@ -7622,6 +7642,18 @@
   "Danzhou": {
     "title": "儋州 / Danzhou",
     "url": "/wiki/entities/danzhou/"
+  },
+  "DaoistAlchemy": {
+    "title": "Daoist Alchemy / 道教炼丹",
+    "url": "/wiki/concepts/daoistalchemy/"
+  },
+  "DaoistNourishingLifeTechniques": {
+    "title": "Daoist Nourishing-Life Techniques / 道教养生术",
+    "url": "/wiki/concepts/daoistnourishinglifetechniques/"
+  },
+  "DaoistRitualTechnology": {
+    "title": "Daoist Ritual Technology / 道教仪式技术",
+    "url": "/wiki/concepts/daoistritualtechnology/"
   },
   "Daqi": {
     "title": "大琪",
@@ -10003,6 +10035,10 @@
     "title": "范增 / Fan Zeng",
     "url": "/wiki/entities/fanzeng/"
   },
+  "FangshuSystematization": {
+    "title": "Fangshu Systematization / 方术系统化",
+    "url": "/wiki/concepts/fangshusystematization/"
+  },
   "FangxuehouDeXiaoxiang": {
     "title": "《放学后的小巷》",
     "url": "/wiki/entities/fangxuehoudexiaoxiang/"
@@ -10143,6 +10179,10 @@
     "title": "菲比",
     "url": "/wiki/entities/feibi/"
   },
+  "FeiChangfang": {
+    "title": "Fei Changfang / 费长房",
+    "url": "/wiki/entities/feichangfang/"
+  },
   "FeiDaChu": {
     "title": "Fei Da Chu / 费大厨",
     "url": "/wiki/entities/feidachu/"
@@ -10202,6 +10242,10 @@
   "FenJingyuan": {
     "title": "焚景源",
     "url": "/wiki/entities/fenjingyuan/"
+  },
+  "FengShuiVitalEnergyTheory": {
+    "title": "Feng Shui Vital-Energy Theory / 风水生气论",
+    "url": "/wiki/concepts/fengshuivitalenergytheory/"
   },
   "FengTouQuan": {
     "title": "疯投圈",
@@ -10782,6 +10826,10 @@
   "Fosun": {
     "title": "复星 / Fosun",
     "url": "/wiki/entities/fosun/"
+  },
+  "Fotucheng": {
+    "title": "Fotucheng / 佛图澄",
+    "url": "/wiki/entities/fotucheng/"
   },
   "FoundationOwnedBrandStewardship": {
     "title": "Foundation-Owned Brand Stewardship",
@@ -11498,6 +11546,10 @@
   "GavinNewsom": {
     "title": "Gavin Newsom",
     "url": "/wiki/entities/gavinnewsom/"
+  },
+  "GeHong": {
+    "title": "Ge Hong / 葛洪",
+    "url": "/wiki/entities/gehong/"
   },
   "GeckoRobotics": {
     "title": "Gecko Robotics",
@@ -12270,6 +12322,10 @@
   "GuoMoruo": {
     "title": "郭沫若",
     "url": "/wiki/entities/guomoruo/"
+  },
+  "GuoPu": {
+    "title": "Guo Pu / 郭璞",
+    "url": "/wiki/entities/guopu/"
   },
   "GuoWei": {
     "title": "郭威 / Guo Wei",
@@ -14918,6 +14974,10 @@
   "JinYongPoliticalReading": {
     "title": "Jin Yong Political Reading",
     "url": "/wiki/concepts/jinyongpoliticalreading/"
+  },
+  "JingFang": {
+    "title": "Jing Fang / 京房",
+    "url": "/wiki/entities/jingfang/"
   },
   "JingguaiGushiji": {
     "title": "《精怪故事集》",
@@ -21798,6 +21858,10 @@
   "PortableCreatorCameras": {
     "title": "Portable Creator Cameras",
     "url": "/wiki/concepts/portablecreatorcameras/"
+  },
+  "PortableDivinationSystems": {
+    "title": "Portable Divination Systems / 便携占算系统",
+    "url": "/wiki/concepts/portabledivinationsystems/"
   },
   "PortfolioSuitability": {
     "title": "Portfolio Suitability",
@@ -29335,6 +29399,10 @@
     "title": "Weebly",
     "url": "/wiki/entities/weebly/"
   },
+  "WeiBoyang": {
+    "title": "Wei Boyang / 魏伯阳",
+    "url": "/wiki/entities/weiboyang/"
+  },
   "WeiChou": {
     "title": "魏犨 / Wei Wuzi",
     "url": "/wiki/entities/weichou/"
@@ -30667,6 +30735,10 @@
     "title": "Zach Lowe",
     "url": "/wiki/entities/zachlowe/"
   },
+  "Zangshu": {
+    "title": "Zangshu / 《葬书》",
+    "url": "/wiki/entities/zangshu/"
+  },
   "Zed": {
     "title": "Zed",
     "url": "/wiki/entities/zed/"
@@ -30726,6 +30798,10 @@
   "ZhangHaoran": {
     "title": "Zhang Haoran",
     "url": "/wiki/entities/zhanghaoran/"
+  },
+  "ZhangHua": {
+    "title": "Zhang Hua / 张华",
+    "url": "/wiki/entities/zhanghua/"
   },
   "ZhangJiayuan": {
     "title": "Zhang Jiayuan",
@@ -31022,6 +31098,10 @@
   "Zhoukoudian": {
     "title": "周口店",
     "url": "/wiki/entities/zhoukoudian/"
+  },
+  "ZhouyiCantongqi": {
+    "title": "Zhouyi Cantongqi / 《周易参同契》",
+    "url": "/wiki/entities/zhouyicantongqi/"
   },
   "ZhuBajie": {
     "title": "猪八戒",
