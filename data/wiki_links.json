@@ -875,6 +875,10 @@
     "title": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集）",
     "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550/"
   },
+  "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997": {
+    "title": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）",
+    "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -2770,6 +2774,10 @@
   "AnchoringEffect": {
     "title": "Anchoring Effect / 锚定效应",
     "url": "/wiki/concepts/anchoringeffect/"
+  },
+  "AncientChineseSoulSummoning": {
+    "title": "Ancient Chinese Soul Summoning / 招魂",
+    "url": "/wiki/concepts/ancientchinesesoulsummoning/"
   },
   "AncientGreekHonorCommunity": {
     "title": "Ancient Greek Honor Community",
@@ -10035,6 +10043,10 @@
     "title": "范增 / Fan Zeng",
     "url": "/wiki/entities/fanzeng/"
   },
+  "FangshiFraudAndAuthority": {
+    "title": "Fangshi Fraud And Authority / 方士骗术与权威",
+    "url": "/wiki/concepts/fangshifraudandauthority/"
+  },
   "FangshuSystematization": {
     "title": "Fangshu Systematization / 方术系统化",
     "url": "/wiki/concepts/fangshusystematization/"
@@ -12555,6 +12567,10 @@
     "title": "韩通 / Han Tong",
     "url": "/wiki/entities/hantong/"
   },
+  "HanWudi": {
+    "title": "Emperor Wu of Han / 汉武帝",
+    "url": "/wiki/entities/hanwudi/"
+  },
   "HanYang": {
     "title": "汉洋 / Han Yang",
     "url": "/wiki/entities/hanyang/"
@@ -13431,6 +13447,10 @@
     "title": "胡适",
     "url": "/wiki/entities/hushi/"
   },
+  "Huainanzi": {
+    "title": "Huainanzi / 《淮南子》",
+    "url": "/wiki/entities/huainanzi/"
+  },
   "HuajuGuanzhongXuzhiErshize": {
     "title": "《话剧观众须知二十则》",
     "url": "/wiki/entities/huajuguanzhongxuzhiershize/"
@@ -13738,6 +13758,10 @@
   "ImmigrationDetentionExpansion": {
     "title": "Immigration Detention Expansion",
     "url": "/wiki/concepts/immigrationdetentionexpansion/"
+  },
+  "ImmortalityQuestPolitics": {
+    "title": "Immortality Quest Politics / 求仙政治",
+    "url": "/wiki/concepts/immortalityquestpolitics/"
   },
   "ImpeachmentBook": {
     "title": "《弹劾》 / Impeachment: A Citizen's Guide",
@@ -16794,6 +16818,10 @@
   "LittleWomen": {
     "title": "Little Women / 小妇人",
     "url": "/wiki/entities/littlewomen/"
+  },
+  "LiuAn": {
+    "title": "Liu An / 刘安",
+    "url": "/wiki/entities/liuan/"
   },
   "LiuBang": {
     "title": "Liu Bang / 刘邦",
@@ -20531,6 +20559,10 @@
     "title": "Oracle",
     "url": "/wiki/entities/oracle/"
   },
+  "OracleBoneDivination": {
+    "title": "Oracle-Bone Divination / 甲骨占卜",
+    "url": "/wiki/concepts/oraclebonedivination/"
+  },
   "OralEpicRepetition": {
     "title": "Oral Epic Repetition",
     "url": "/wiki/concepts/oralepicrepetition/"
@@ -22658,6 +22690,10 @@
   "QilinRansomwareGroup": {
     "title": "Qilin Ransomware Group",
     "url": "/wiki/entities/qilinransomwaregroup/"
+  },
+  "QinShiHuang": {
+    "title": "Qin Shi Huang / 秦始皇",
+    "url": "/wiki/entities/qinshihuang/"
   },
   "QinZong": {
     "title": "秦总",
@@ -29903,6 +29939,10 @@
     "title": "武则天 / Wu Zetian",
     "url": "/wiki/entities/wuzetian/"
   },
+  "WuguPoliticalPanic": {
+    "title": "Wugu Political Panic / 巫蛊政治恐慌",
+    "url": "/wiki/concepts/wugupoliticalpanic/"
+  },
   "Wuhan": {
     "title": "Wuhan / 武汉",
     "url": "/wiki/entities/wuhan/"
@@ -30166,6 +30206,10 @@
   "Xtep": {
     "title": "Xtep",
     "url": "/wiki/entities/xtep/"
+  },
+  "XuFu": {
+    "title": "Xu Fu / 徐福",
+    "url": "/wiki/entities/xufu/"
   },
   "XuHongliang": {
     "title": "徐鸿亮 / Tom",
@@ -30458,6 +30502,10 @@
   "YinWu": {
     "title": "Yin Wu",
     "url": "/wiki/entities/yinwu/"
+  },
+  "YinYangFivePhasesPoliticalTheory": {
+    "title": "Yin-Yang Five-Phases Political Theory / 阴阳五行政治理论",
+    "url": "/wiki/concepts/yinyangfivephasespoliticaltheory/"
   },
   "YinchuanInternetHospitalPilot": {
     "title": "银川互联网医院试点",
@@ -31103,6 +31151,10 @@
     "title": "Zhouyi Cantongqi / 《周易参同契》",
     "url": "/wiki/entities/zhouyicantongqi/"
   },
+  "ZhouyiDivination": {
+    "title": "Zhouyi Divination / 《周易》占卜",
+    "url": "/wiki/concepts/zhouyidivination/"
+  },
   "ZhuBajie": {
     "title": "猪八戒",
     "url": "/wiki/entities/zhubajie/"
@@ -31178,6 +31230,10 @@
   "ZouXikouMigration": {
     "title": "Zou Xikou Migration",
     "url": "/wiki/concepts/zouxikoumigration/"
+  },
+  "ZouYan": {
+    "title": "Zou Yan / 邹衍",
+    "url": "/wiki/entities/zouyan/"
   },
   "ZuoZhuan": {
     "title": "《左传》 / Zuo Zhuan",

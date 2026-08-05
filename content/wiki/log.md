@@ -5677,6 +5677,10 @@ Added source page for a 蜜獾吃书 episode on 蒲松龄《聊斋志异》 as s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-06] ingest | 87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）
+
+Added source page for a 蜜獾吃书 episode opening the two-part Chinese fangshu history branch, covering oracle-bone divination, Zhouyi yarrow divination, Chu soul summoning, star omens, dream interpretation, yin-yang/five-phase political theory, early immortal belief, Qin Shi Huang and Han Wudi's immortality quests, Liu An and Huainanzi, and Western Han wugu political panic. Created pages for Qin Shi Huang, Emperor Wu of Han, Liu An, Huainanzi, Zou Yan, Xu Fu, Oracle-Bone Divination, Zhouyi Divination, Ancient Chinese Soul Summoning, Yin-Yang Five-Phases Political Theory, Immortality Quest Politics, Fangshi Fraud And Authority, and Wugu Political Panic; updated overview, index, 蜜獾吃书, Fangshu Systematization, Chinese Astrological Politics, Chinese Folk Religion Layering, Auspicious Omen Politics, Alchemy-Chemistry Continuity, Pseudoscience Fraud Vulnerability, Jianghu Scam Craft, Western Han dynasty, and Jianghu Congtan. No direct contradiction found; the source supplies the earlier raw-material layer for the already-ingested episode-87 sequel and keeps later Xu Fu destination legends source-scoped.
+
 ## [2026-08-06] ingest | 83.梳毛、八卦及语言的进化：人际关系“邓巴数”，咱不服不行
 
 Added source page for a 蜜獾吃书 episode on Robin Dunbar's 《梳毛、八卦及语言的进化》, Dunbar Number, social grooming, gossip, language evolution, workplace informal talk, group-boundary language, art/religion as comfort systems, and podcast intimacy. Created pages for Robin Dunbar, the Dunbar book, Dunbar Number, Social Grooming, Gossip As Social Grooming, Language As Social Grooming, Machiavellian Intelligence, Group-Boundary Language, and Workplace Informal Talk; updated overview, index, 蜜獾吃书, Evolutionary Trait Interpretation, Linguistic Relativity, Podcast Intimacy, and Workplace Hidden Rules. No direct contradiction found; the source qualifies workplace rumor-risk pages by distinguishing social-maintenance talk from harmful gossip, and keeps evolutionary/sex-difference claims source-scoped rather than deterministic.
@@ -5872,6 +5876,10 @@ Ran health before lint; health scanned 8,284 wiki pages and found no empty/stub 
 ## [2026-08-06] ingest | 87.过年最适合聊玄学！探讨神仙方术发展史（接上集）
 
 Added source page for a 蜜獾吃书 episode on Han-to-Wei-Jin fangshu history, Dong Zhongshu's Confucian-omen synthesis, Jing Fang and star omens, chenwei politics, Wang Mang's North Dipper ritual, Fei Changfang, Daoist alchemy and nourishing-life techniques, talismans and spells, portable divination systems, Guo Pu and fengshui, Ge Hong's Baopuzi, and Fotucheng's Buddhist miracle politics. Created pages for Jing Fang, Fei Changfang, Wei Boyang, Zhouyi Cantongqi, Zhang Hua, Bowuzhi, Guo Pu, Zangshu, Ge Hong, Baopuzi, Fotucheng, Fangshu Systematization, Chinese Astrological Politics, Daoist Alchemy, Daoist Nourishing-Life Techniques, Daoist Ritual Technology, Portable Divination Systems, Feng Shui Vital-Energy Theory, and Buddhist Miracle Politics; updated overview, index, 蜜獾吃书, Dong Zhongshu, Wang Mang, Liu Xiu, Liu Bang, Chenwei Politics, Auspicious Omen Politics, Mandate of Heaven Legitimacy, Confucian Ideal Governance, Chinese Folk Religion Layering, and Alchemy-Chemistry Continuity. No direct contradiction found; the source qualifies any simple view of Confucianism as anti-superstition by showing how ritual technique, omen interpretation, religious authority, and political legitimacy became entangled.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）](sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997.md) — 蜜獾吃书 episode on early Chinese fangshu, oracle-bone and Zhouyi divination, soul summoning, astrology, yin-yang/five phases, Qin-Han immortality quests, Huainanzi, and wugu political panic.
 - [87.过年最适合聊玄学！探讨神仙方术发展史（接上集）](sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550.md) — 蜜獾吃书 episode on Han-to-Wei-Jin fangshu, Dong Zhongshu, star omens, chenwei politics, Daoist alchemy, ritual technology, divination, fengshui, and Buddhist miracle politics.
 - [86.打开一颗心：那美好的仗，我已经打过了](sources/86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437.md) — 蜜獾吃书 episode on Stephen Westaby, 《打开一颗心》, cardiac surgery, artificial hearts, the AB180 blood pump, high-risk surgical innovation, mortality metrics, and sponsor-linked major-illness insurance planning.
 - [85.车墩墩野事记：走啊！搬到乡下钻小树林儿去！](sources/85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571.md) — 蜜獾吃书 episode with 尹琪 on 《车墩墩野事记》, city-edge nature, Chedun life, small woods, fireflies, raccoon-dog surveys, and observation before judgment.
@@ -736,6 +737,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin emperor used by episode 87 to connect immortality seeking, water-phase symbolism, fangshi patronage, omen anxiety, and coercive imperial power.
+- [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose求仙 projects and wugu panic make fangshu a fiscal, political, and succession danger in episode 87.
+- [Liu An / 刘安](entities/LiuAn.md) — Western Han prince whose fangshu interest appears through textual compilation, Huainanzi, technical lore, and later immortalization legend.
+- [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used by episode 87 to connect philosophy, astronomy, technical knowledge, alchemy, and fangshu.
+- [Zou Yan / 邹衍](entities/ZouYan.md) — Warring States thinker anchoring episode 87's yin-yang and five-phases political-theory branch.
+- [Xu Fu / 徐福](entities/XuFu.md) — Qin fangshi attached to immortal-medicine sea voyages and later destination legends.
 - [Jing Fang / 京房](entities/JingFang.md) — Han star-omen figure connecting celestial interpretation, court criticism, and political diagnosis.
 - [Fei Changfang / 费长房](entities/FeiChangfang.md) — Han immortal-arts figure whose stories link hidden worlds, tests, talismans, ghost control, and failed transcendence.
 - [Wei Boyang / 魏伯阳](entities/WeiBoyang.md) — Early Chinese alchemy figure attached to 《周易参同契》 and coded Daoist transformation language.
@@ -5090,6 +5097,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Oracle-Bone Divination / 甲骨占卜](concepts/OracleBoneDivination.md) — Shang ritual and archival practice where burned-shell cracks and inscriptions record questions, diviners, outcomes, and state concerns.
+- [Zhouyi Divination / 《周易》占卜](concepts/ZhouyiDivination.md) — Yarrow-stalk and hexagram procedure where arithmetic arrangement, ritual authority, and interpretation become a durable divination system.
+- [Ancient Chinese Soul Summoning / 招魂](concepts/AncientChineseSoulSummoning.md) — Chu-centered soul ritual frame for illness, fainting, death anxiety, and body-soul explanations.
+- [Yin-Yang Five-Phases Political Theory / 阴阳五行政治理论](concepts/YinYangFivePhasesPoliticalTheory.md) — Cosmological classification system that joins natural categories, historical cycles, and dynastic legitimacy.
+- [Immortality Quest Politics / 求仙政治](concepts/ImmortalityQuestPolitics.md) — Pattern where imperial death anxiety turns immortal belief into expenditure, patronage, secrecy, and coercion.
+- [Fangshi Fraud And Authority / 方士骗术与权威](concepts/FangshiFraudAndAuthority.md) — Specialist-authority pattern where hidden-cause claims, props, staging, and failure reinterpretation can become predatory extraction.
+- [Wugu Political Panic / 巫蛊政治恐慌](concepts/WuguPoliticalPanic.md) — Western Han curse-accusation pattern where illness, denunciation, torture, palace rivalry, and succession fear produce mass violence.
 - [Fangshu Systematization / 方术系统化](concepts/FangshuSystematization.md) — Process by which omens, immortality arts, healing, talismans, alchemy, divination, and fengshui become textual and religious systems.
 - [Chinese Astrological Politics / 中国星占政治](concepts/ChineseAstrologicalPolitics.md) — Reading celestial phenomena as political evidence about rulers, ministers, war, legitimacy, and state conduct.
 - [Daoist Alchemy / 道教炼丹](concepts/DaoistAlchemy.md) — Immortality-oriented elixir practice linking coded language, material transformation, cosmology, and textual authority.
