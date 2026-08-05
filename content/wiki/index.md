@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [29.千面英雄：俄狄浦斯正在下班挤地铁](sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891.md) — 蜜獾吃书 episode on Joseph Campbell's 《千面英雄》, monomyth, hero-journey stages, public-dream myth reading, Jung/Freud/Frazer influence, and modern media examples from Star Wars to 《西游记》.
 - [28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话](sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930.md) — 蜜獾吃书 episode on 《聊斋志异》 as strange-tale social critique, connecting 蒲松龄, 于七之乱, fox and ghost agency, folk performance, 纪昀, 《阅微草堂笔记》, and examination satire.
 - [日谈串台｜红楼梦：还是可以读一读的](sources/ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638.md) — 蜜獾吃书 and 日谈 crossover introducing 《红楼梦》 through chapter-3 entry advice, Daiyu/Baoyu/Qingwen/Lingguan, Grand View Garden, poetry, female friendship, versions, sequels, and Redology guardrails.
 - [三联串台｜神赐给人葡萄，世界微醺了](sources/sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156.md) — 蜜獾吃书/Sanlian crossover with 黑麦 on wine as agriculture and culture, terroir, natural wine, taste training, food writing, and finding one's own palate.
@@ -704,6 +705,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《千面英雄》 / The Hero with a Thousand Faces](entities/TheHeroWithAThousandFaces.md) — Joseph Campbell book read by episode 29 as an influential but contested source for monomyth and hero-journey narrative.
+- [Sigmund Freud / 西格蒙德·弗洛伊德](entities/SigmundFreud.md) — Psychoanalysis figure used by episode 29 as background for dream, desire, Oedipus, and myth-symbol interpretation.
+- [James George Frazer / 詹姆斯·乔治·弗雷泽](entities/JamesGeorgeFrazer.md) — Comparative-religion figure whose 《金枝》 material gives episode 29 ritual, kingship, sacrifice, and renewal examples.
+- [《金枝》 / The Golden Bough](entities/TheGoldenBough.md) — Frazer book invoked by episode 29 for ritual kingship, taboo, sacrifice, death, and renewal, with strong evidence cautions.
+- [George Lucas](entities/GeorgeLucas.md) — Star Wars creator used by episode 29 as the clearest modern influence case for Campbell's hero journey.
+- [Oedipus / 俄狄浦斯](entities/Oedipus.md) — Greek myth and tragedy figure used by episode 29 as psychoanalytic shorthand for taboo, family desire, and mythic recurrence.
 - [纪昀 / Ji Yun](entities/JiYun.md) — Qing writer used by the Liaozhai episode as the orthodox notebook-style contrast to 蒲松龄's more unruly strange fiction.
 - [《阅微草堂笔记》](entities/YueweiCaotangBiji.md) — Ji Yun's strange-tale notebook collection, contrasted with 《聊斋志异》 in the episode.
 - [于七之乱 / Yu Qi Rebellion](entities/YuQiRebellion.md) — Qing Shandong conflict background used by the Liaozhai episode to read 《野狗》 and 《公孙九娘》 as war-shadow stories.
@@ -1749,7 +1756,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Carlo Collodi / 卡洛·科洛迪](entities/CarloCollodi.md) — Italian author of 《木偶奇遇记》, presented by episode 122 through the serial origin, first hanging ending, and writer-made fairy-tale anxiety.
 - [Geppetto / 杰佩托](entities/Geppetto.md) — Pinocchio's father, whose sacrifice and later vulnerability make growth as protector role concrete.
 - [Blue Fairy / 蓝仙女](entities/BlueFairy.md) — Fairy and mother figure whose changing forms, apparent death, tests, and final dream praise shape Pinocchio's moral attachment.
-- [Joseph Campbell / 约瑟夫·坎贝尔](entities/JosephCampbell.md) — Mythology and narrative-theory figure used by episode 122 through the Hero Journey framework.
+- [Joseph Campbell / 约瑟夫·坎贝尔](entities/JosephCampbell.md) — Mythology and narrative-theory figure whose 《千面英雄》, monomyth, and hero-journey framework are made central by episode 29 and applied earlier to Pinocchio.
 - [《极简法医鉴识手册》](entities/JijianFayiJianshiShouce.md) — Forensic-science popularization book used by episode 121 to correct CSI-style certainty and introduce法证鉴识 as a court-facing evidence system.
 - [William Bass](entities/WilliamBass.md) — Forensic anthropologist used by episode 121 to explain body-farm decomposition research and death-time inference.
 - [Calvin Goddard](entities/CalvinGoddard.md) — Ballistics expert used by episode 121 through the St. Valentine's Day Massacre and comparison microscopy.
@@ -2663,7 +2670,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《小王子》 / The Little Prince](entities/TheLittlePrince.md) — Comparative children's classic used to contrast Alice's active vitality with melancholy adult projection and return/death imagery.
 - [Hayao Miyazaki / 宫崎骏](entities/HayaoMiyazaki.md) — Animation director used as a comparison point for brave girl protagonists and otherworld fantasy after Alice.
 - [《千与千寻》 / Spirited Away](entities/SpiritedAway.md) — Miyazaki otherworld film compared with Alice through child agency under strange rules.
-- [《黑客帝国》 / The Matrix](entities/TheMatrix.md) — Cyberpunk Alice afterlife that turns rabbit-hole imagery into a reality-transition metaphor.
+- [《黑客帝国》 / The Matrix](entities/TheMatrix.md) — Cyberpunk Alice afterlife and Campbellian call/refusal example that turns rabbit-hole imagery and red/blue-pill choice into a reality-transition metaphor.
 - [《桃花源记》 / Peach Blossom Spring](entities/PeachBlossomSpring.md) — Chinese otherworld-portal comparison for rabbit holes, caves, and threshold crossings.
 - [Johann Jakob Bachofen](entities/JohannJakobBachofen.md) — Jurist and classical scholar whose 《母权论》 is treated as a disputed but influential challenge to patriarchal-eternity assumptions.
 - [《母权论》 / Mother Right](entities/MotherRight.md) — Bachofen's 1861 book used by episode 178 to examine mother-right, myth, kinship, inheritance, and modern caution about matriarchy claims.
@@ -2792,7 +2799,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周明](entities/ZhouMing.md) — Editor and episode 42 guest reading Andor through imperial governance, Star Wars political texture, and false-choice control.
 - [蹦迪班长](entities/BengdiBanzhang.md) — Public-account writer and episode 42 guest connecting Andor with 2022-era freedom, ordinary courage, and anti-heroic resistance.
 - [《安多》 / Andor](entities/Andor.md) — Star Wars television series read by episode 42 as a political prequel about imperial bureaucracy, prison labor, community revolt, and moral compromise.
-- [Star Wars](entities/StarWars.md) — Franchise background for episode 42's contrast between Skywalker-family hero narrative and Andor's ordinary resistance story.
+- [Star Wars](entities/StarWars.md) — Franchise background for episode 42 and episode 29's clearest modern Campbell hero-journey influence case through George Lucas.
 - [《侠盗一号》 / Rogue One](entities/RogueOne.md) — Star Wars film endpoint that makes Andor's prequel tension depend on Cassian's moral formation rather than survival suspense.
 - [Tony Gilroy](entities/TonyGilroy.md) — Creator figure praised by episode 42 for turning bureaucracy, intelligence work, prison, and political compromise into genre drama.
 - [Cassian Andor](entities/CassianAndor.md) — Marginal survivor whose movement toward rebellion anchors episode 42's reading of Andor as anti-heroic resistance.
@@ -4859,6 +4866,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Monomyth / 单一神话](concepts/Monomyth.md) — Campbell claim that many cultures' hero stories share departure, initiation, and return patterns, useful as structure but contested as proof.
+- [Myth As Public Dream / 神话作为公共的梦](concepts/MythAsPublicDream.md) — Campbell/Jung frame where myth is read as outward shared dream material and private dreams as miniature myths.
+- [Collective Unconscious / 集体无意识](concepts/CollectiveUnconscious.md) — Jungian idea used by episode 29 to explain recurring mythic images while preserving historical and transmission caution.
+- [Belly of the Whale Rebirth / 鲸鱼之腹与重生](concepts/BellyOfTheWhaleRebirth.md) — Hero-journey stage where enclosed danger, swallowing, descent, or labyrinth entry becomes symbolic death and rebirth.
+- [Mythic Parent Archetypes / 神话中的父母原型](concepts/MythicParentArchetypes.md) — Episode 29 pattern for goddess/mother/father figures as safety, terror, desire, law, test, and integration in hero stories.
+- [Hero Return With Boon / 英雄携赐归来](concepts/HeroReturnWithBoon.md) — Return-stage pattern where the hero must bring wisdom, treasure, scripture, or changed life back into the ordinary world.
 - [Strange Tale Social Critique](concepts/StrangeTaleSocialCritique.md) — Reading frame where ghosts, foxes, corpses, and marvels expose war, official failure, examination absurdity, and human cruelty.
 - [Nonhuman Moral Agency In Strange Tales](concepts/NonhumanMoralAgencyInStrangeTales.md) — Pattern where foxes, ghosts, snakes, and other nonhuman figures repay kindness, punish greed, protect humans, or reveal human moral failure.
 - [红楼入口式阅读 / Red Chamber Entry Reading](concepts/RedChamberEntryReading.md) — Practical method for entering 《红楼梦》 through chapter 3 and multiple reader hooks without reducing the novel to one use.
@@ -5586,7 +5599,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gilbert-Spinoza Hypothesis / 吉尔伯特-斯宾诺莎假设](concepts/GilbertSpinozaHypothesis.md) — Belief-first cognition frame where people initially accept information and need effortful attention to reject it.
 - [Money Illusion / 货币错觉](concepts/MoneyIllusion.md) — Bias where nominal amounts, tokens, or surface numbers shape behavior more than real value.
 - [Emotional Contagion / 情绪感染](concepts/EmotionalContagion.md) — Mechanism by which anger, fear, charisma, or political affect can spread before reflective judgment catches up.
-- [Hero Journey Narrative](concepts/HeroJourneyNarrative.md) — Mythic-growth frame used by episode 122 to read Pinocchio's tests, symbolic death, shark-belly descent, return, and transformation.
+- [Hero Journey Narrative](concepts/HeroJourneyNarrative.md) — Campbellian departure-initiation-return frame made explicit by episode 29 and applied earlier to Pinocchio's tests, belly descent, return, and transformation.
 - [Nonhuman Becoming Human Motif](concepts/NonhumanBecomingHumanMotif.md) — Transformation motif linking Pinocchio to mermaids, robots, cyborgs, spirits, embodiment, and personhood questions.
 - [Growth As Protector Role](concepts/GrowthAsProtectorRole.md) — Episode 122's growth frame where maturity appears when a protected child becomes capable of protecting parent figures.
 - [Forensic Science / 法证鉴识](concepts/ForensicScience.md) — Court-facing evidence system that includes medicine, laboratories, trace evidence, toxicology, psychology, and expert testimony rather than only autopsy work.
@@ -6128,7 +6141,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Horse Religious Mythology](concepts/HorseReligiousMythology.md) — Cross-religious pattern from episode 171 where horses become sacred messengers, divine mounts, rescuers, omens, and apocalyptic signs.
 - [Horse As Civilizational Infrastructure](concepts/HorseAsCivilizationalInfrastructure.md) — Episode 171 historical frame for horses as mobility infrastructure behind war, trade, pastoral movement, state capacity, and Eurasian exchange.
 - [Horse Domestication History](concepts/HorseDomesticationHistory.md) — Episode 171 natural-history layer connecting horse evolution, grassland adaptation, Central Asian domestication, burden, milk, meat, riding, and chariots.
-- [Story Motif Transmission](concepts/StoryMotifTransmission.md) — Folklore method from episode 171 for reading recurring motifs as portable patterns shaped by borrowing, reinvention, contact, and retrospective tradition-making.
+- [Story Motif Transmission](concepts/StoryMotifTransmission.md) — Folklore method for reading recurring motifs, including Campbellian hero patterns, as portable forms shaped by borrowing, reinvention, contact, and retrospective tradition-making.
 - [Personal Pension Account / 个人养老金账户](concepts/PersonalPensionAccount.md) — Tax-preferred retirement-account wrapper where product choice must fit retirement date, contribution rhythm, risk tolerance, and long-term holding discipline.
 - [Target-Date Fund / 目标日期基金](concepts/TargetDateFund.md) — Retirement-year fund structure that uses a glide path to adjust equity risk as the target retirement date approaches.
 - [Japanese Sogo Shosha / 日本综合商社](concepts/JapaneseSogoShosha.md) — Japanese general trading-company model combining trade, financing, information, logistics, investment, global offices, and long-term supply-chain relationships.
@@ -6214,7 +6227,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Otherworld Portal Narrative](concepts/OtherworldPortalNarrative.md) — Cross-cultural threshold pattern linking rabbit holes, caves, doors, tunnels, stations, and hidden rule-worlds.
 - [Matriarchy Question](concepts/MatriarchyQuestion.md) — Episode 178 frame for asking what mother-right can reveal even when universal ancient matriarchy remains unproven.
 - [Kinship Power Distinction](concepts/KinshipPowerDistinction.md) — Guardrail separating matrilineal descent, matrilocal residence, and actual female political or resource power.
-- [Myth As Historical Evidence](concepts/MythAsHistoricalEvidence.md) — Bachofen method where myths can expose social memory and legal anxieties but need support before becoming historical claims.
+- [Myth As Historical Evidence](concepts/MythAsHistoricalEvidence.md) — Method boundary where myths, including Campbell/Frazer patterns, can expose memory and social anxiety but need support before becoming historical claims.
 - [Mother Goddess Evidence Leap](concepts/MotherGoddessEvidenceLeap.md) — Warning against jumping from female figurines or goddess worship to proof of female rule.
 - [Female Civilizing Power](concepts/FemaleCivilizingPower.md) — Cautious frame for women’s voice, care, and lower violence without assuming natural female gentleness or proven ancient matriarchy.
 - [Gender Power And Uncertainty Cost](concepts/GenderPowerAndUncertaintyCost.md) — Episode 178 closing concept: gender justice depends on who bears bodily, family, economic, and social uncertainty and who controls resources.
@@ -6387,7 +6400,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Black Comic Moral Inversion](concepts/BlackComicMoralInversion.md) — Comic pattern where serious moral categories are inverted so respectable duty, haunting, or social convention becomes absurd but still ethically charged.
 - [Author Myth Deflation](concepts/AuthorMythDeflation.md) — Reading canonical writers as brilliant but embodied, flawed, political, domestic, ridiculous, or harmful rather than saintly icons.
 - [Occult And Pseudoscience In Literary Modernity](concepts/OccultPseudoscienceLiteraryModernity.md) — Frame for literary lives entangled with phrenology, spiritualism, fairy photographs, astrology, seances, and occult organizations.
-- [Greek Mythology](concepts/GreekMythology.md) — Mythic frame for Crete stories around Zeus, Europa, Minos, the Minotaur, Daedalus, Icarus, Theseus, Ariadne, and recurring story variants.
+- [Greek Mythology](concepts/GreekMythology.md) — Mythic frame for Crete, Homeric, tragic, and Campbellian examples including Theseus, Odysseus, Perseus, Phaethon, Hermaphroditus, and Oedipus.
 - [Island Extinction After Human Arrival](concepts/IslandExtinctionAfterHumanArrival.md) — Island-ecology pattern where human arrival, hunting, habitat change, or introduced pressures can eliminate island-adapted animals.
 - [Chinese Character Evidence Discipline](concepts/ChineseCharacterEvidenceDiscipline.md) — Practice of explaining Chinese characters through attested historical forms and scholarly uncertainty rather than modern visual association alone.
 - [Character Form Evolution](concepts/CharacterFormEvolution.md) — Pattern where Chinese characters change across oracle-bone, bronze, seal, clerical, traditional, simplified, and modern forms.
@@ -6418,7 +6431,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [古史辨 / Doubting Antiquity](concepts/GushiBian.md) — Ancient-history-doubt frame used by episode 75 to read 《理水》, 顾颉刚, and the risks of detached evidential performance.
 - [Mythic Source Layering](concepts/MythicSourceLayering.md) — Character-formation pattern where religious, folkloric, regional, and textual motifs accumulate inside one literary figure.
 - [Semiotic Detective Fiction](concepts/SemioticDetectiveFiction.md) — Mystery form where clues are signs whose meaning, reliability, and overinterpretation become part of the story's argument.
-- [Interpretation And Overinterpretation](concepts/InterpretationAndOverinterpretation.md) — Boundary problem between reading signs carefully and forcing signs to say more than evidence supports.
+- [Interpretation And Overinterpretation](concepts/InterpretationAndOverinterpretation.md) — Boundary problem between reading signs, myths, and symbols carefully and forcing them to say more than evidence supports.
 - [Knowledge Monopoly](concepts/KnowledgeMonopoly.md) — Institutional control over who may access, classify, read, copy, or interpret knowledge.
 - [Laughter Against Authority](concepts/LaughterAgainstAuthority.md) — Literary idea that comedy and grotesque images can weaken fear-based power by making authority appear contingent or absurd.
 - [Anti-Detective Fiction](concepts/AntiDetectiveFiction.md) — Detective fiction that uses clues and solution while undercutting the fantasy of clean rational closure.

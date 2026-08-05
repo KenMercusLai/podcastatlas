@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-06] ingest | 29.千面英雄：俄狄浦斯正在下班挤地铁
+
+Added source page for a 蜜獾吃书 episode on Joseph Campbell's 《千面英雄》, monomyth, hero-journey narrative, myth as public dream, Freud/Jung/Frazer influence, belly-of-the-whale rebirth, parent archetypes, return with boon, and modern media examples from Star Wars to 《西游记》. Created pages for 《千面英雄》 / The Hero with a Thousand Faces, Sigmund Freud, James George Frazer, 《金枝》 / The Golden Bough, George Lucas, Oedipus, Monomyth, Myth As Public Dream, Collective Unconscious, Belly of the Whale Rebirth, Mythic Parent Archetypes, and Hero Return With Boon; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, Joseph Campbell, Hero Journey Narrative, Jungian Archetypal Reading, Carl Jung, Star Wars, The Matrix, Journey to the West, Greek Mythology, Myth As Historical Evidence, Story Motif Transmission, Interpretation And Overinterpretation, Classic Reading Complexity, and Reading As Life Experience. No direct contradiction found; the source expands Campbell from an earlier Pinocchio framework reference into a full disputed-but-useful comparative mythology branch.
+
 ## [2026-08-05] ingest | 27.希区柯克已在您桌下安置炸弹
 
 Added source page for a 蜜獾吃书 episode on Alfred Hitchcock, 《惊魂记》 / Psycho, MacGuffin, bomb-under-table suspense, narrative misdirection, and Hitchcockian moral irony across several short-story reversals. Created pages for 《惊魂记》 / Psycho, MacGuffin, Bomb-Under-Table Suspense, Narrative Misdirection, and Hitchcockian Moral Irony; updated overview, index, 蜜獾吃书, 秦总, Alfred Hitchcock, Black Comic Moral Inversion, Moral Suspension In Art Reading, and Classic Reading Complexity. No direct contradiction found; the source complements the earlier Hitchcock biography/gossip page by shifting from director myth and set power to suspense mechanics and story structure.
@@ -5620,3 +5624,7 @@ Added source page for a 蜜獾吃书 episode on 蒲松龄《聊斋志异》 as s
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 7,920 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-24 with 6,453 nodes while lint scanned 7,920 pages, so graph findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`; a bounded in-session semantic scan of explicit contradiction markers, orphan pages, and fragile-bridge endpoints found no hard unresolved contradiction, but surfaced one formatting artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -2,11 +2,13 @@
 title: "《西游记》"
 type: entity
 tags: [book, literature, chinese-classics, mythology]
-sources: [43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486]
-last_updated: 2026-07-14
+sources: [29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486]
+last_updated: 2026-08-06
 ---
 
 # 《西游记》
+
+[[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]] adds a [[JosephCampbell|Campbell]] comparison layer. The episode uses 《西游记》 as one of the familiar Chinese examples for [[HeroJourneyNarrative]]: dangerous thresholds, demons, temptations, belly/furnace ordeals around [[SunWukong|孙悟空]], and the final return with scriptures all make the text legible beside world-hero patterns without reducing it to Campbell alone.
 
 《西游记》 is the central text in [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]], where [[MihuanChishu|蜜獾吃书]] argues that familiar television memory is not the same as reading the novel. The episode treats the book as an [[AccretiveTextFormation|accretive text]]: [[Xuanzang|玄奘]] pilgrimage history, religious imagery, oral literature, zaju, folk monster stories, and later authorial organization all accumulate inside the received classic.
 
@@ -17,6 +19,7 @@ The book also anchors the wiki's [[MythicSourceLayering]] branch. [[SunWukong|�
 [[136-chunri-mingmei-liaoliao-guishen-827911486]] adds an underworld-administration use of the novel. The episode uses Tang Taizong's descent to the underworld, Cui Jue's altered life-span register, Liu Quan's melon delivery, and bodily return stories to show how [[JourneyToTheWest|《西游记》]] can turn [[UnderworldBureaucracy]] into satire of paperwork, relationships, imperial power, and negotiable authority.
 
 ## Connections
+- [[HeroJourneyNarrative]], [[BellyOfTheWhaleRebirth]], [[HeroReturnWithBoon]], and [[Monomyth]] - Campbell branch added by episode 29.
 - [[MihuanChishu|蜜獾吃书]] - episode context.
 - [[WuChengen|吴承恩]], [[QiuChuji|丘处机]], and [[YangShen|杨慎]] - author-attribution figures discussed by the source.
 - [[Xuanzang|玄奘]] - historical pilgrimage source behind the取经 tradition.

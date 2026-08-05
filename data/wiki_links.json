@@ -583,6 +583,10 @@
     "title": "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话",
     "url": "/wiki/sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930/"
   },
+  "29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891": {
+    "title": "29.千面英雄：俄狄浦斯正在下班挤地铁",
+    "url": "/wiki/sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891/"
+  },
   "361Degrees": {
     "title": "361 Degrees",
     "url": "/wiki/entities/361degrees/"
@@ -3835,6 +3839,10 @@
     "title": "Bellwether Platform Trials",
     "url": "/wiki/concepts/bellwetherplatformtrials/"
   },
+  "BellyOfTheWhaleRebirth": {
+    "title": "Belly of the Whale Rebirth / 鲸鱼之腹与重生",
+    "url": "/wiki/concepts/bellyofthewhalerebirth/"
+  },
   "BeltAndRoadExternalDemand": {
     "title": "Belt and Road External Demand",
     "url": "/wiki/concepts/beltandroadexternaldemand/"
@@ -6198,6 +6206,10 @@
   "CollateralPunishmentAndGuiltByAssociation": {
     "title": "Collateral Punishment And Guilt By Association",
     "url": "/wiki/concepts/collateralpunishmentandguiltbyassociation/"
+  },
+  "CollectiveUnconscious": {
+    "title": "Collective Unconscious / 集体无意识",
+    "url": "/wiki/concepts/collectiveunconscious/"
   },
   "ColleenKirk": {
     "title": "Colleen Kirk",
@@ -11143,6 +11155,10 @@
     "title": "George Halas",
     "url": "/wiki/entities/georgehalas/"
   },
+  "GeorgeLucas": {
+    "title": "George Lucas",
+    "url": "/wiki/entities/georgelucas/"
+  },
   "GeorgeOrwell": {
     "title": "George Orwell / 乔治·奥威尔",
     "url": "/wiki/entities/georgeorwell/"
@@ -12314,6 +12330,10 @@
   "HeroJourneyNarrative": {
     "title": "Hero Journey Narrative",
     "url": "/wiki/concepts/herojourneynarrative/"
+  },
+  "HeroReturnWithBoon": {
+    "title": "Hero Return With Boon / 英雄携赐归来",
+    "url": "/wiki/concepts/heroreturnwithboon/"
   },
   "HesseYouthCultureMisreading": {
     "title": "Hesse Youth Culture Misreading / 黑塞青年文化误读",
@@ -13794,6 +13814,10 @@
   "JamesDamore": {
     "title": "James Damore",
     "url": "/wiki/entities/jamesdamore/"
+  },
+  "JamesGeorgeFrazer": {
+    "title": "James George Frazer / 詹姆斯·乔治·弗雷泽",
+    "url": "/wiki/entities/jamesgeorgefrazer/"
   },
   "JamesGraham": {
     "title": "James Graham / 詹姆斯·格雷厄姆",
@@ -18055,6 +18079,10 @@
     "title": "Monogamy As Stability Structure",
     "url": "/wiki/concepts/monogamyasstabilitystructure/"
   },
+  "Monomyth": {
+    "title": "Monomyth / 单一神话",
+    "url": "/wiki/concepts/monomyth/"
+  },
   "Montana": {
     "title": "Montana",
     "url": "/wiki/entities/montana/"
@@ -18295,9 +18323,17 @@
     "title": "Myth As Historical Evidence",
     "url": "/wiki/concepts/mythashistoricalevidence/"
   },
+  "MythAsPublicDream": {
+    "title": "Myth As Public Dream / 神话作为公共的梦",
+    "url": "/wiki/concepts/mythaspublicdream/"
+  },
   "MythicEnvironmentalImagination": {
     "title": "Mythic Environmental Imagination",
     "url": "/wiki/concepts/mythicenvironmentalimagination/"
+  },
+  "MythicParentArchetypes": {
+    "title": "Mythic Parent Archetypes / 神话中的父母原型",
+    "url": "/wiki/concepts/mythicparentarchetypes/"
   },
   "MythicScienceFictionStyle": {
     "title": "Mythic Science Fiction Style",
@@ -19118,6 +19154,10 @@
   "Odysseus": {
     "title": "Odysseus",
     "url": "/wiki/entities/odysseus/"
+  },
+  "Oedipus": {
+    "title": "Oedipus / 俄狄浦斯",
+    "url": "/wiki/entities/oedipus/"
   },
   "OffensiveHumorSpeechSpace": {
     "title": "Offensive Humor Speech Space / 冒犯性幽默空间",
@@ -24067,6 +24107,10 @@
     "title": "Siemens EDA / 西门子EDA",
     "url": "/wiki/entities/siemenseda/"
   },
+  "SigmundFreud": {
+    "title": "Sigmund Freud / 西格蒙德·弗洛伊德",
+    "url": "/wiki/entities/sigmundfreud/"
+  },
   "SignalFire": {
     "title": "SignalFire",
     "url": "/wiki/entities/signalfire/"
@@ -26063,6 +26107,10 @@
     "title": "The Generator",
     "url": "/wiki/entities/thegenerator/"
   },
+  "TheGoldenBough": {
+    "title": "《金枝》 / The Golden Bough",
+    "url": "/wiki/entities/thegoldenbough/"
+  },
   "TheGreenPlanet": {
     "title": "《绿色星球》",
     "url": "/wiki/entities/thegreenplanet/"
@@ -26070,6 +26118,10 @@
   "TheHappyPrince": {
     "title": "《快乐王子》 / The Happy Prince",
     "url": "/wiki/entities/thehappyprince/"
+  },
+  "TheHeroWithAThousandFaces": {
+    "title": "《千面英雄》 / The Hero with a Thousand Faces",
+    "url": "/wiki/entities/theherowithathousandfaces/"
   },
   "TheHolocaust": {
     "title": "The Holocaust / 犹太人大屠杀",

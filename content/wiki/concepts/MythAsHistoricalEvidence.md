@@ -2,11 +2,13 @@
 title: "Myth As Historical Evidence"
 type: concept
 tags: [mythology, evidence, interpretation, anthropology]
-sources: [ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
-last_updated: 2026-07-24
+sources: [29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+last_updated: 2026-08-06
 ---
 
 # Myth As Historical Evidence
+
+[[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]] adds a Campbell/Frazer boundary case. [[TheHeroWithAThousandFaces|《千面英雄》]] and [[TheGoldenBough|《金枝》]] both make myth and ritual feel deeply patterned, but the episode repeatedly distinguishes suggestive resemblance from historical proof. Flood stories, sacred-kingship examples, death-and-renewal rituals, and taboo rules may preserve memory or social anxiety, yet they still need source-specific evidence before becoming historical claims.
 
 Myth as historical evidence is the method [[JohannJakobBachofen]] makes central in [[MotherRight|《母权论》 / Mother Right]] and that [[178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368]] evaluates cautiously. Bachofen treats myths, tragedies, classical texts, symbols, gods, and heroic conflicts as traces of older social orders rather than mere fantasy.
 
@@ -27,6 +29,7 @@ Myth as historical evidence is the method [[JohannJakobBachofen]] makes central 
 The episode finds this method productive but dangerous. It can reveal that stories carry law, kinship, sex, violence, and inheritance anxieties, but it can also turn symbolic patterns into historical claims without enough archaeological or anthropological support. This makes the page adjacent to [[MythicSourceLayering]] and [[ObservationBeforeInference]].
 
 ## Key Claims
+- Campbell and Frazer show why broad mythic patterning is attractive, but also why old comparative frameworks need modern evidence discipline.
 - Myths can preserve social memory, recurring anxieties, or symbolic conflicts.
 - Mythic evidence is strongest when supported by language, material culture, law, kinship records, or comparative anthropology.
 - Mythic resonance alone cannot prove a historical institution existed.
@@ -39,6 +42,7 @@ The episode finds this method productive but dangerous. It can reveal that stori
 - Epic evidence needs the same split: flood resemblance, snake motifs, manuscript layers, and environmental atmosphere can orient inquiry without proving a single historical route or cause.
 
 ## Connections
+- [[TheHeroWithAThousandFaces|《千面英雄》]], [[JosephCampbell]], [[JamesGeorgeFrazer]], [[TheGoldenBough|《金枝》]], and [[Monomyth]] - episode 29's comparative-mythology caution.
 - [[JohannJakobBachofen]] and [[MotherRight|《母权论》 / Mother Right]] - source method.
 - [[GreekMythology]] - major mythic field used by the episode.
 - [[MythicSourceLayering]] - adjacent concept for variants and layered origins.

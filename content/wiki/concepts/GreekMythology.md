@@ -2,11 +2,13 @@
 title: "Greek Mythology"
 type: concept
 tags: [mythology, literature, Greece, interpretation]
-sources: [ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514, 67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
-last_updated: 2026-07-24
+sources: [29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514, 67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
+last_updated: 2026-08-06
 ---
 
 # Greek Mythology
+
+[[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]] adds a broad comparative-mythology layer through [[TheHeroWithAThousandFaces|《千面英雄》]]. Greek material appears as one example field for [[Monomyth|单一神话]], [[HeroJourneyNarrative]], and [[MythAsPublicDream]]: Daphne's refusal, Theseus and the labyrinth, swallowing and rebirth motifs, Odysseus resisting temptation, Phaethon and the father test, Hermaphroditus, Perseus fleeing with Medusa's head, and [[Oedipus|俄狄浦斯]] as psychoanalytic shorthand.
 
 Greek mythology enters the wiki through [[59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]], where [[MihuanChishu|蜜獾吃书]] uses [[Crete]] as a dense mythic setting. The episode moves through Zeus hidden in a Cretan cave, Europa carried away by the bull, Minos, Pasiphae, the Minotaur, Daedalus, Icarus, Theseus, Ariadne, Dionysus, the Aegean Sea naming story, and later Theseus variants.
 
@@ -32,6 +34,7 @@ The episode treats myth as cultural logic rather than literal evidence. Bull wor
 - The Odyssey adds a boundary and recognition layer: adventure is not aimlessness when the hero's goal is return to a social order that can name him.
 
 ## Connections
+- [[TheHeroWithAThousandFaces|《千面英雄》]], [[Monomyth]], [[HeroJourneyNarrative]], [[Oedipus]], and [[BellyOfTheWhaleRebirth]] - Campbell branch added by episode 29.
 - [[Crete]] - main mythic setting in the source.
 - [[MinoanCivilization]] and [[KnossosPalace]] - archaeological layer that makes bull and labyrinth imagery resonate.
 - [[MedeaPlay|《美狄亚》 / Medea]], [[MedeaCharacter]], [[Jason]], and [[GoldenFleece|Golden Fleece / 金羊毛]] - Argonautic-tragic branch added by episode 67.

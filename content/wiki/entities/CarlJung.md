@@ -2,11 +2,13 @@
 title: "Carl Jung / 荣格"
 type: entity
 tags: [psychology, psychoanalysis, analytical-psychology]
-sources: [20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734, 07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165]
-last_updated: 2026-07-25
+sources: [29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, 20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734, 07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165]
+last_updated: 2026-08-06
 ---
 
 # Carl Jung / 荣格
+
+[[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]] adds Jung's role in [[JosephCampbell|Campbell]]'s comparative mythology. The episode uses [[CollectiveUnconscious|集体无意识]] to explain why similar mythic images might recur across cultures, while also contrasting that explanation with historical memory, borrowing, and local transmission. Jung becomes part of [[MythAsPublicDream]] rather than a source of scientific certainty.
 
 [[CarlJung|Carl Jung / 荣格]] enters the wiki through [[07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165]], where [[MihuanChishu|蜜獾吃书]] uses Jungian analytical psychology as a literary-reading method for [[TheLittlePrince|《小王子》]]. The episode emphasizes collective unconscious, recurring mythic images, child-god figures, and symbolic interpretation rather than presenting a full biography of Jung.
 
@@ -20,6 +22,7 @@ In the source, Jung matters because his framework makes the little prince readab
 - The episode keeps Jungian psychology as a heuristic literary lens, not a diagnostic or scientific demonstration.
 
 ## Connections
+- [[JosephCampbell]], [[TheHeroWithAThousandFaces|《千面英雄》]], [[Monomyth]], [[MythAsPublicDream]], and [[CollectiveUnconscious]] - Campbell branch added by episode 29.
 - [[TheLittlePrince|《小王子》 / The Little Prince]] - source text interpreted through Jungian motifs.
 - [[MarieLouiseVonFranz|Marie-Louise von Franz / 玛丽-路易丝·冯·弗兰兹]] and [[TheEternalYouth|《永恒少年：我们为何拒绝长大》]] - Jungian analyst and book grounding the episode.
 - [[JungianArchetypalReading]], [[PuerAeternus]], and [[MotherComplex]] - main concepts connected to Jung by this source.

@@ -2,11 +2,13 @@
 title: "Story Motif Transmission"
 type: concept
 tags: [folklore, mythology, narrative, transmission]
-sources: [06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
-last_updated: 2026-07-25
+sources: [29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, 06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+last_updated: 2026-08-06
 ---
 
 # Story Motif Transmission
+
+[[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]] adds [[Monomyth|单一神话]] as a high-level motif-transmission problem. The source treats repeated hero calls, threshold crossings, swallowed interiors, goddess meetings, father tests, magic flights, and return-with-boon plots as real comparative material, but it preserves the same caution as this page: resemblance can come from borrowing, shared memory, recurring human situations, or later recombination.
 
 Story motif transmission is the source's frame for how story patterns travel, recur, or get reinvented across cultures. In [[171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962]], [[MihuanChishu|蜜獾吃书]] uses horse material to show this: centaurs may reflect outsiders encountering skilled riders, Native American post-contact legends can retroactively place horses at creation, and Saiweng loses his horse can be compared with older fortune-reversal motifs.
 
@@ -37,6 +39,7 @@ Story motif transmission is the source's frame for how story patterns travel, re
 The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation]], but it focuses less on a single figure or text and more on portable narrative units: rescue, loss-turned-good, half-human rider, miraculous animal helper, or world-crossing messenger.
 
 ## Key Claims
+- Campbell's hero-journey examples show motif comparison at whole-story scale, not only at the level of a single animal, object, or episode.
 - Old-looking stories are not always ancient in the form people remember.
 - Similarity can come from borrowing, shared human situations, later invention, or retrospective tradition-making.
 - Zodiac and dragon material show that motif comparison can operate at the level of calendars, animals, ritual, and national symbols, not only individual plots.
@@ -55,6 +58,7 @@ The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation
 - Zhiguai entries can become later motifs without carrying their whole original archive context into the new moral, dramatic, or religious setting.
 
 ## Connections
+- [[Monomyth]], [[HeroJourneyNarrative]], [[BellyOfTheWhaleRebirth]], [[MythAsPublicDream]], and [[HeroReturnWithBoon]] - episode 29's hero-pattern extension.
 - [[YeXian|《叶限》]], [[YouyangZazu|《酉阳杂俎》]], and [[TangMiscellanyArchiveValue]] - episode 90's Cinderella-like tale extension.
 - [[TangChuanqi]], [[XuanGuaiLu|《玄怪录》]], and [[TangStrangeTaleRepaymentEthics]] - episode 76's strange-tale extension.
 - [[HorseCulturalSymbolism]] and [[HorseReligiousMythology]] - horse-specific motif fields.
