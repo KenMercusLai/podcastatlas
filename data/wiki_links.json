@@ -5731,6 +5731,14 @@
     "title": "中国传媒大学 / Communication University of China",
     "url": "/wiki/entities/chinacommunicationuniversity/"
   },
+  "ChinaCorporateAntiInvolution": {
+    "title": "China Corporate Anti-Involution",
+    "url": "/wiki/concepts/chinacorporateantiinvolution/"
+  },
+  "ChinaDivergentTechnologyRoute": {
+    "title": "China Divergent Technology Route",
+    "url": "/wiki/concepts/chinadivergenttechnologyroute/"
+  },
   "ChinaDivorceRestrictions": {
     "title": "China Divorce Restrictions",
     "url": "/wiki/concepts/chinadivorcerestrictions/"
@@ -5746,6 +5754,10 @@
   "ChinaInternationalFamineReliefCommission": {
     "title": "China International Famine Relief Commission / 华洋义赈会",
     "url": "/wiki/entities/chinainternationalfaminereliefcommission/"
+  },
+  "ChinaLocalDebtResolution": {
+    "title": "China Local Debt Resolution",
+    "url": "/wiki/concepts/chinalocaldebtresolution/"
   },
   "ChinaLowRedistributionState": {
     "title": "China Low-Redistribution State",
@@ -13855,6 +13867,10 @@
     "title": "Internal Revenue Service",
     "url": "/wiki/entities/internalrevenueservice/"
   },
+  "InternalStabilityConfidenceRepair": {
+    "title": "Internal Stability Confidence Repair",
+    "url": "/wiki/concepts/internalstabilityconfidencerepair/"
+  },
   "InternalToolProductization": {
     "title": "Internal Tool Productization",
     "url": "/wiki/concepts/internaltoolproductization/"
@@ -15942,6 +15958,10 @@
   "LeSports": {
     "title": "乐视体育 / LeSports",
     "url": "/wiki/entities/lesports/"
+  },
+  "LeadingIncumbentDisadvantage": {
+    "title": "Leading Incumbent Disadvantage",
+    "url": "/wiki/concepts/leadingincumbentdisadvantage/"
   },
   "LeagueFirstOperatingModel": {
     "title": "League First Operating Model",
@@ -18898,6 +18918,10 @@
   "NATOAllianceCredibility": {
     "title": "NATO Alliance Credibility",
     "url": "/wiki/concepts/natoalliancecredibility/"
+  },
+  "NAURA": {
+    "title": "NAURA / 北方华创",
+    "url": "/wiki/entities/naura/"
   },
   "NBC": {
     "title": "NBC",
@@ -32434,6 +32458,10 @@
   "vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8": {
     "title": "vol.110.投资就是对世界观的投票｜《迈出资产配置第一步》完结篇",
     "url": "/wiki/sources/vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8/"
+  },
+  "vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g": {
+    "title": "Vol.111 关于2025年的四个猜想",
+    "url": "/wiki/sources/vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g/"
   },
   "vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv": {
     "title": "Vol.112 一次非共识的2024反思和2025展望 | 对话蓝小康X牟一凌",

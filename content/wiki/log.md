@@ -5780,3 +5780,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | Vol.111 关于2025年的四个猜想
+
+Added source page for a 起朱楼宴宾客 annual-prediction episode on China local debt resolution, Trump 2.0's possible domestic-first priority, Chinese corporate anti-involution, and divergent Chinese technology routes. Created pages for NAURA / 北方华创, China Local Debt Resolution, Internal Stability Confidence Repair, China Corporate Anti-Involution, China Divergent Technology Route, and Leading Incumbent Disadvantage; updated overview, index, 起朱楼宴宾客, China, Donald Trump, Elon Musk, Mandate for Leadership 2025, Department of Government Efficiency, Trumpism Institutionalization, Administrative State Dismantling, China Supply-Side Clearing, Semiconductor Supply Chain, Northvolt, and DeepSeek. No direct contradiction found; the source qualifies vol.112's China-asset framework by treating 2025 less as a smooth market extrapolation and more as a confidence, local-fiscal, industrial-ecology, and technology-route stress test.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran health before lint; health scanned 8,160 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,160 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes while current lint scanned 8,160 pages; treat graph findings as stale until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`; a bounded in-session semantic review of orphan pages, fragile-bridge endpoints, and explicit contradiction markers found no hard unresolved contradiction, while preserving the source-scoped `ProjectGlasswing`/`ProjectGlassfin` naming tension and noting a `+-` formatting artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. No `wiki/lint-report.md` file was saved.

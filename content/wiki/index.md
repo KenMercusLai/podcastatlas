@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.111 关于2025年的四个猜想](sources/vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g.md) — 起朱楼宴宾客 annual-prediction episode on China debt resolution, Trump domestic-state reform, anti-involution, and divergent Chinese technology routes.
 - [170.宋太祖之死：烛影斧声，阴谋论中的人性谜团（下）](sources/170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115.md) — 蜜獾吃书 episode on 先南后北, 平蜀暴力, 宋初相权, 太祖猝死, 烛影斧声, 金匮之盟, 德昭德芳之死, 廷美案, and 太宗合法性焦虑.
 - [169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上）](sources/169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909.md) — 蜜獾吃书 episode on 赵匡胤, 后周 military politics, 陈桥兵变, 太宗朝修史, 开封定都, 杯酒释兵权, and Song military centralization tradeoffs.
 - [166.悠游长风：温柔的幻想之歌，抚平焦虑的沟壑](sources/166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059.md) — 蜜獾吃书 episode on Sarah Pinsker's speculative short stories, gentle science-fiction ambiguity, embodied identity, dream parenthood, memory deletion ethics, and civilization carried by human memory.
@@ -724,6 +725,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [NAURA / 北方华创](entities/NAURA.md) — Chinese semiconductor-equipment company used as a concrete example of equipment localization and divergent technology routes.
 - [赵匡胤 / Song Taizu](entities/ZhaoKuangyin.md) — Northern Song founder read through Later Zhou military networks, Chenqiao coup packaging, disarmament, and institutional redesign.
 - [赵光义 / Song Taizong](entities/ZhaoGuangyi.md) — Zhao Kuangyin's brother and later emperor whose Chenqiao role becomes a source-criticism and succession-legitimacy issue.
 - [赵普 / Zhao Pu](entities/ZhaoPu.md) — Zhao Kuangyin's strategist, linked to Chenqiao planning debates and the logic behind disarming generals.
@@ -5007,6 +5009,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [China Local Debt Resolution](concepts/ChinaLocalDebtResolution.md) — 2025 policy frame where hidden-debt relief may loosen local-government pressure on firms, households, and confidence.
+- [Internal Stability Confidence Repair](concepts/InternalStabilityConfidenceRepair.md) — cross-system frame for China and Trump-era U.S. policy as efforts to restore internal order, trust, and room to act.
+- [China Corporate Anti-Involution](concepts/ChinaCorporateAntiInvolution.md) — policy and industry response to Chinese price-war competition, overcapacity, and external strategic-industry pressure.
+- [China Divergent Technology Route](concepts/ChinaDivergentTechnologyRoute.md) — source frame for Chinese firms developing different semiconductor, EV, and AI routes under sanctions and industrial transition.
+- [Leading Incumbent Disadvantage](concepts/LeadingIncumbentDisadvantage.md) — route-change concept where old technical leadership becomes lock-in during EV and platform shifts.
 - [先南后北 / Song Unification Strategy](concepts/SongUnificationStrategy.md) — Strategy frame for sequencing southern conquest before northern war under early Song logistics and security constraints.
 - [宋初继承合法性危机 / Song Succession Legitimacy Crisis](concepts/SongSuccessionLegitimacyCrisis.md) — Frame linking Taizu's sudden death, Taizong's accession, Golden Cabinet logic, heir deaths, and the Tingmei case.
 - [川蜀征服后反抗 / Sichuan Post-Conquest Resistance](concepts/SichuanPostConquestResistance.md) — Conquest-aftermath frame tying military violence, taxation, state monopoly, and local rebellion in Sichuan.

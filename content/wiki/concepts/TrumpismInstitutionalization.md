@@ -2,8 +2,8 @@
 title: "Trumpism Institutionalization"
 type: concept
 tags: [politics, institutions, trumpism]
-sources: [e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
-last_updated: 2026-07-23
+sources: [e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g]
+last_updated: 2026-08-06
 ---
 
 # Trumpism Institutionalization
@@ -14,11 +14,14 @@ The concept combines ideas, staff, operational documents, personnel databases, t
 
 [[e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]] extends the concept upstream into [[TechnologyRightPowerNetwork]]. The [[SiliconValley101]] episode argues that [[PeterThiel]]'s campus-media, venture-capital, right-wing media, and candidate-selection machinery helped make Trump-era politics more networked before it becomes formal governing agenda.
 
+[[vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g]] adds a timing claim: because Trump 2.0 has prepared documents, organizations, and supporters, the host expects an early domestic focus on bureaucracy and internal control rather than only immediate outward trade pressure.
+
 ## Key Claims
 - Institutionalization converts slogans into personnel choices, transition plans, and administrative procedures.
 - It can discipline a volatile leader by preloading staff and ideas, but it can also intensify ideological capture if the personnel pipeline narrows.
 - [[HeritageFoundation]], [[AmericaFirstPolicyInstitute]], [[ConservativePartnershipInstitute]], and [[AmericanMoment]] represent different layers of the same ecosystem in this source.
 - The source treats this as the main difference between Trump's first run as a political outsider and the second-term preparation.
+- The vol.111 source uses institutionalization to support [[InternalStabilityConfidenceRepair]]: domestic state control is framed as a confidence and governing-capacity project.
 
 ## Connections
 - [[Project2025]] and [[MandateForLeadership2025]] — governing blueprint.
@@ -26,3 +29,4 @@ The concept combines ideas, staff, operational documents, personnel databases, t
 - [[AdministrativeStateDismantling]] — major institutional target.
 - [[ExecutivePowerPrecedent]] and [[AmericanDemocraticResilience]] — existing governance-risk branch that this concept extends.
 - [[PeterThiel]], [[JDVance]], [[RightWingMediaInfrastructure]], and [[PoliticalTalentPipeline]] - Silicon Valley right branch added by Silicon Valley 101.
+- [[DepartmentOfGovernmentEfficiency]] and [[InternalStabilityConfidenceRepair]] — vol.111's domestic-first interpretation.
