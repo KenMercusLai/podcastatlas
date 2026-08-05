@@ -855,6 +855,10 @@
     "title": "82.闲聊伟大作家的八卦（第二弹）",
     "url": "/wiki/sources/82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589/"
   },
+  "83-shumao-bagua-ji-yuyan-de-jinhua-renji-guanxi-dengbashu-zan-bu-fu-bu-xing-698132861": {
+    "title": "83.梳毛、八卦及语言的进化：人际关系“邓巴数”，咱不服不行",
+    "url": "/wiki/sources/83-shumao-bagua-ji-yuyan-de-jinhua-renji-guanxi-dengbashu-zan-bu-fu-bu-xing-698132861/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -8791,6 +8795,10 @@
     "title": "Dubai Real Estate Market",
     "url": "/wiki/concepts/dubairealestatemarket/"
   },
+  "DunbarNumber": {
+    "title": "Dunbar Number / 邓巴数",
+    "url": "/wiki/concepts/dunbarnumber/"
+  },
   "DunlopPneumaticTyreCompany": {
     "title": "Dunlop Pneumatic Tyre Company",
     "url": "/wiki/entities/dunloppneumatictyrecompany/"
@@ -11919,6 +11927,10 @@
     "title": "Gordon Moore",
     "url": "/wiki/entities/gordonmoore/"
   },
+  "GossipAsSocialGrooming": {
+    "title": "Gossip As Social Grooming / 八卦作为社会性梳毛",
+    "url": "/wiki/concepts/gossipassocialgrooming/"
+  },
   "GovernmentDataAccountability": {
     "title": "Government Data Accountability",
     "url": "/wiki/concepts/governmentdataaccountability/"
@@ -12071,9 +12083,17 @@
     "title": "Grok",
     "url": "/wiki/entities/grok/"
   },
+  "GroomingGossipAndEvolutionOfLanguage": {
+    "title": "《梳毛、八卦及语言的进化》 / Grooming, Gossip and the Evolution of Language",
+    "url": "/wiki/entities/groominggossipandevolutionoflanguage/"
+  },
   "Groq": {
     "title": "Groq",
     "url": "/wiki/entities/groq/"
+  },
+  "GroupBoundaryLanguage": {
+    "title": "Group-Boundary Language / 群体边界语言",
+    "url": "/wiki/concepts/groupboundarylanguage/"
   },
   "GroupPolarization": {
     "title": "Group Polarization / 群体极化",
@@ -15943,6 +15963,10 @@
     "title": "Language Agent",
     "url": "/wiki/concepts/languageagent/"
   },
+  "LanguageAsSocialGrooming": {
+    "title": "Language As Social Grooming / 语言作为社会性梳毛",
+    "url": "/wiki/concepts/languageassocialgrooming/"
+  },
   "LanguageDependentAIBias": {
     "title": "Language-Dependent AI Bias",
     "url": "/wiki/concepts/languagedependentaibias/"
@@ -17318,6 +17342,10 @@
   "MacMini": {
     "title": "Mac Mini",
     "url": "/wiki/entities/macmini/"
+  },
+  "MachiavellianIntelligence": {
+    "title": "Machiavellian Intelligence / 马基雅维利智能",
+    "url": "/wiki/concepts/machiavellianintelligence/"
   },
   "MachiavellianRealism": {
     "title": "Machiavellian Realism",
@@ -23559,6 +23587,10 @@
     "title": "Robert Smith",
     "url": "/wiki/entities/robertsmith/"
   },
+  "RobinDunbar": {
+    "title": "Robin Dunbar / 罗宾·邓巴",
+    "url": "/wiki/entities/robindunbar/"
+  },
   "RobinGreenwood": {
     "title": "Robin Greenwood",
     "url": "/wiki/entities/robingreenwood/"
@@ -25382,6 +25414,10 @@
   "SocialGraphMoat": {
     "title": "Social Graph Moat",
     "url": "/wiki/concepts/socialgraphmoat/"
+  },
+  "SocialGrooming": {
+    "title": "Social Grooming / 社会性梳毛",
+    "url": "/wiki/concepts/socialgrooming/"
   },
   "SocialMediaAgeGateSpeechBurden": {
     "title": "Social Media Age-Gate Speech Burden",
@@ -29598,6 +29634,10 @@
   "WorkplaceIncentiveDesign": {
     "title": "Workplace Incentive Design",
     "url": "/wiki/concepts/workplaceincentivedesign/"
+  },
+  "WorkplaceInformalTalk": {
+    "title": "Workplace Informal Talk / 职场非正式闲聊",
+    "url": "/wiki/concepts/workplaceinformaltalk/"
   },
   "WorkplaceMetricGaming": {
     "title": "Workplace Metric Gaming",

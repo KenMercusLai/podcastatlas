@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [83.梳毛、八卦及语言的进化：人际关系“邓巴数”，咱不服不行](sources/83-shumao-bagua-ji-yuyan-de-jinhua-renji-guanxi-dengbashu-zan-bu-fu-bu-xing-698132861.md) — 蜜獾吃书 episode on Robin Dunbar, Dunbar Number, social grooming, gossip, language evolution, workplace informal talk, group-boundary language, and podcast intimacy.
 - [81.间谍与叛徒：恕我直言，007的故事弱爆了（下）](sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209.md) — 蜜獾吃书 episode continuing Oleg Gordievsky's London intelligence work, Operation RYAN, Aldrich Ames's betrayal, Operation Pimlico, escape through Finland, and the costs of source protection.
 - [80.间谍与叛徒：恕我直言，007的故事弱爆了（上）](sources/80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649.md) — 蜜獾吃书 episode on Ben Macintyre's 《间谍与叛徒》, Oleg Gordievsky, KGB, MI6, ideological defection, Denmark, Operation Sunbeam, and Operation Pimlico.
 - [79.各位领导，但凡咱学点博弈论：契约理论如何解释职场管理](sources/79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262.md) — 蜜獾吃书 episode on 聂辉华《一切皆契约》, contract theory, prisoner’s dilemma, information asymmetry, credential signaling, book price wars, workplace incentives, equity, motivation crowding out, and internal marketization limits.
@@ -731,6 +732,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Robin Dunbar / 罗宾·邓巴](entities/RobinDunbar.md) — Evolutionary psychologist presented by episode 83 through Dunbar Number and the language-as-social-grooming thesis.
+- [《梳毛、八卦及语言的进化》 / Grooming, Gossip and the Evolution of Language](entities/GroomingGossipAndEvolutionOfLanguage.md) — Robin Dunbar book used by episode 83 to connect primate grooming, gossip, language evolution, and modern sociability.
 - [CIA / Central Intelligence Agency / 中情局](entities/CIA.md) — U.S. intelligence service whose need for Soviet-warning intelligence and curiosity about Britain's source created ally-side exposure risk in episode 81.
 - [Aldrich Ames / 奥德里奇·艾姆斯](entities/AldrichAmes.md) — CIA officer whose betrayal to the KGB exposed Oleg Gordievsky and made Operation Pimlico urgent.
 - [Operation RYAN / 莱恩行动](entities/OperationRYAN.md) — KGB nuclear-war warning operation used by episode 81 to show Soviet fear becoming an intelligence feedback loop.
@@ -5061,6 +5064,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Dunbar Number / 邓巴数](concepts/DunbarNumber.md) — Approximate 150-person relationship-capacity frame connecting group size, cognition, and social-maintenance bandwidth.
+- [Social Grooming / 社会性梳毛](concepts/SocialGrooming.md) — Grooming as costly trust, alliance, and emotional-regulation work in the Dunbar-language branch.
+- [Gossip As Social Grooming / 八卦作为社会性梳毛](concepts/GossipAsSocialGrooming.md) — Revalues gossip and small talk as relationship mapping and maintenance, while preserving harm boundaries.
+- [Language As Social Grooming / 语言作为社会性梳毛](concepts/LanguageAsSocialGrooming.md) — Episode 83 frame for conversation as scalable relationship maintenance rather than only information transfer.
+- [Machiavellian Intelligence / 马基雅维利智能](concepts/MachiavellianIntelligence.md) — Social-cognition capacity to track alliances and third-party relations under group pressure.
+- [Group-Boundary Language / 群体边界语言](concepts/GroupBoundaryLanguage.md) — Dialect, slang, black talk, memes, and shared codes as signs of belonging and exclusion.
+- [Workplace Informal Talk / 职场非正式闲聊](concepts/WorkplaceInformalTalk.md) — Management-side frame for tea rooms, shared meals, and casual chat as workplace social infrastructure.
 - [Cold War Nuclear Misperception / 冷战核误判](concepts/ColdWarNuclearMisperception.md) — Episode 81 frame for nuclear escalation risk created by fear, adversary perception, and intelligence feedback loops.
 - [Intelligence Liaison Risk / 情报盟友协作风险](concepts/IntelligenceLiaisonRisk.md) — Ally-sharing problem where sanitized intelligence, curiosity, and compromised officials can expose a protected source.
 - [Extraction Promise Ethics / 撤离承诺伦理](concepts/ExtractionPromiseEthics.md) — Ethical frame for honoring rescue promises to human intelligence sources despite diplomatic, family, and operational costs.

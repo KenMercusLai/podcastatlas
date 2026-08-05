@@ -2,8 +2,8 @@
 title: "Evolutionary Trait Interpretation"
 type: concept
 tags: [evolution, biology, birds, reasoning]
-sources: [47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489]
-last_updated: 2026-07-16
+sources: [83-shumao-bagua-ji-yuyan-de-jinhua-renji-guanxi-dengbashu-zan-bu-fu-bu-xing-698132861, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489]
+last_updated: 2026-08-06
 ---
 
 # Evolutionary Trait Interpretation
@@ -14,6 +14,8 @@ The [[RedHeadedWoodPigeon|红头黑铃鸽]] case is the clearest example. Its re
 
 [[93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489]] adds a human-body version through [[HairAsBiosocialSignal]]. The episode treats body-hair reduction, scalp hair retention, sensory hairs, follicle distribution, and mating signals as traits that need function, history, and mechanism, while keeping speculative claims such as hair-loss-driven family cooperation explicitly hypothetical.
 
+[[83-shumao-bagua-ji-yuyan-de-jinhua-renji-guanxi-dengbashu-zan-bu-fu-bu-xing-698132861]] adds a social-behavior version through [[SocialGrooming]], [[DunbarNumber]], and [[LanguageAsSocialGrooming]]. The episode uses evolutionary explanation to connect primate grooming, group size, gossip, language, courtship display, and group-boundary speech, but it repeatedly marks sex-difference and mate-choice claims as hypotheses that cannot judge individuals.
+
 ## Key Claims
 - Traits may preserve evidence of past ecological or reproductive pressures.
 - Color can carry energy costs, mate-choice value, species-recognition value, or fruit-dispersal value depending on context.
@@ -21,6 +23,7 @@ The [[RedHeadedWoodPigeon|红头黑铃鸽]] case is the clearest example. Its re
 - Accurate interpretation starts with observation, then asks about history, cost, and comparison.
 - Evolutionary explanation should not become a just-so story detached from evidence.
 - Human bodily traits require the same caution: a plausible adaptive story is weaker than evidence about mechanism, comparison, and historical selection pressure.
+- Social-behavior explanations need even stronger guardrails because useful group-level hypotheses can easily become stereotypes about real individuals.
 
 ## Connections
 - [[RedHeadedWoodPigeon|红头黑铃鸽]] - red-head interpretation case.
@@ -29,3 +32,4 @@ The [[RedHeadedWoodPigeon|红头黑铃鸽]] case is the clearest example. Its re
 - [[ObservationBeforeInference]] - guardrail against over-explanation.
 - [[OrnithologicalFieldwork]] - evidence source for trait interpretation.
 - [[HairAsBiosocialSignal]] and [[AlanTuring]] - hair and follicle-patterning extension added by episode 93.
+- [[SocialGrooming]], [[DunbarNumber]], and [[LanguageAsSocialGrooming]] - social-behavior extension added by episode 83.

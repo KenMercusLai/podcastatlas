@@ -5665,6 +5665,10 @@ Added source page for a 蜜獾吃书 episode on 蒲松龄《聊斋志异》 as s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-06] ingest | 83.梳毛、八卦及语言的进化：人际关系“邓巴数”，咱不服不行
+
+Added source page for a 蜜獾吃书 episode on Robin Dunbar's 《梳毛、八卦及语言的进化》, Dunbar Number, social grooming, gossip, language evolution, workplace informal talk, group-boundary language, art/religion as comfort systems, and podcast intimacy. Created pages for Robin Dunbar, the Dunbar book, Dunbar Number, Social Grooming, Gossip As Social Grooming, Language As Social Grooming, Machiavellian Intelligence, Group-Boundary Language, and Workplace Informal Talk; updated overview, index, 蜜獾吃书, Evolutionary Trait Interpretation, Linguistic Relativity, Podcast Intimacy, and Workplace Hidden Rules. No direct contradiction found; the source qualifies workplace rumor-risk pages by distinguishing social-maintenance talk from harmful gossip, and keeps evolutionary/sex-difference claims source-scoped rather than deterministic.
+
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 7,920 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-24 with 6,453 nodes while lint scanned 7,920 pages, so graph findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`; a bounded in-session semantic scan of explicit contradiction markers, orphan pages, and fragile-bridge endpoints found no hard unresolved contradiction, but surfaced one formatting artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. Report returned in-session; `wiki/lint-report.md` was not saved.
@@ -5832,6 +5836,10 @@ Ran health before lint; health scanned 8,221 wiki pages and found no empty/stub 
 ## [2026-08-06] lint | Wiki health check
 
 Ran health before lint; health scanned 8,234 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,234 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 8,234 pages; treat graph findings as stale until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`; a bounded fallback scan found no hard unresolved contradiction, but did surface follow-ups: orphan pages need inbound links, `MidJourney.md` and `Midjourney.md` should be merged or disambiguated, the `ProjectGlasswing`/`ProjectGlassfin` naming tension remains source-scoped, `FigureAI` livestream autonomy and `Cursor` acquisition claims remain uncorroborated source-local claims, and `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md` has a `+-` bullet formatting artifact. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

@@ -2,7 +2,7 @@
 title: "Linguistic Relativity"
 type: concept
 tags: [language, cognition, literature]
-sources: [35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]
+sources: [83-shumao-bagua-ji-yuyan-de-jinhua-renji-guanxi-dengbashu-zan-bu-fu-bu-xing-698132861, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]
 last_updated: 2026-08-06
 ---
 
@@ -14,12 +14,15 @@ The concept links practical language awareness to speculative literature. The so
 
 [[35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624]] adds a fieldwork example through [[NigelBarley|Nigel Barley]]'s struggle to ask hypothetical kinship questions among the [[DowayoPeople|Dowayo people]]. The source says he had to move from abstract "what if" forms into concrete third-person situations, making language structure part of [[EthnographicEverydayFriction]] rather than only a literary or philosophical problem.
 
+[[83-shumao-bagua-ji-yuyan-de-jinhua-renji-guanxi-dengbashu-zan-bu-fu-bu-xing-698132861]] adds a more social boundary layer through [[GroupBoundaryLanguage]]. Dialects, slang, black talk, internet phrases, emoji, and shared speech habits can shape who feels close, who feels outside, and what social distance a conversation implies.
+
 ## Key Claims
 - Language can shape perception and thought without needing to determine every possible thought.
 - Speech and writing may organize cognition differently.
 - Fiction can push a contested linguistic idea to an extreme in order to test its philosophical stakes.
 - In the Chiang story, the language-change question becomes inseparable from [[NonlinearTimePerception]] and [[PredestinedChoice]].
 - Fieldwork translation can fail when the researcher's question format assumes grammatical or conceptual tools that are not locally natural.
+- Episode 83 adds that language can shape affiliation and distance even when the cognitive content of a sentence is simple.
 
 ## Connections
 - [[HeptapodB]] - fictional writing system that makes the concept concrete.
@@ -27,3 +30,4 @@ The concept links practical language awareness to speculative literature. The so
 - [[LanguagePrecision]] - adjacent practical-language page; this concept is cognitive rather than operational.
 - [[HanziTransdialectalFunction]] and [[ScriptAsSocialHistory]] - existing wiki pages on writing systems shaping social and cognitive practice.
 - [[VisualRepresentationLiteracy]] - parallel source-35 problem where images also require learned representation conventions.
+- [[GroupBoundaryLanguage]] and [[LanguageAsSocialGrooming]] - episode-83 social-bonding and boundary extension.
