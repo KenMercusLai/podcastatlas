@@ -963,6 +963,10 @@
     "title": "阿错 / Acuo",
     "url": "/wiki/entities/acuo/"
   },
+  "ADCEngineeringOptimization": {
+    "title": "ADC Engineering Optimization",
+    "url": "/wiki/concepts/adcengineeringoptimization/"
+  },
   "ADNOC": {
     "title": "ADNOC",
     "url": "/wiki/entities/adnoc/"
@@ -1098,6 +1102,10 @@
   "AICircularInfrastructureFinancing": {
     "title": "AI Circular Infrastructure Financing",
     "url": "/wiki/concepts/aicircularinfrastructurefinancing/"
+  },
+  "AIClinicalValidationInDrugDiscovery": {
+    "title": "AI Clinical Validation In Drug Discovery",
+    "url": "/wiki/concepts/aiclinicalvalidationindrugdiscovery/"
   },
   "AIClusterNetworking": {
     "title": "AI Cluster Networking",
@@ -2291,6 +2299,10 @@
     "title": "阿娇 / 柱子哥",
     "url": "/wiki/entities/ajiao/"
   },
+  "Akeso": {
+    "title": "Akeso / 康方生物",
+    "url": "/wiki/entities/akeso/"
+  },
   "AkiraKurosawa": {
     "title": "黑泽明 / Akira Kurosawa",
     "url": "/wiki/entities/akirakurosawa/"
@@ -3391,6 +3403,10 @@
     "title": "Assistive Device Classification",
     "url": "/wiki/concepts/assistivedeviceclassification/"
   },
+  "AstraZeneca": {
+    "title": "AstraZeneca / 阿斯利康",
+    "url": "/wiki/entities/astrazeneca/"
+  },
   "AsymmetricInformation": {
     "title": "Asymmetric Information",
     "url": "/wiki/concepts/asymmetricinformation/"
@@ -3995,6 +4011,10 @@
     "title": "Behavioral Investing Biases",
     "url": "/wiki/concepts/behavioralinvestingbiases/"
   },
+  "BeiGene": {
+    "title": "BeiGene / 百济神州",
+    "url": "/wiki/entities/beigene/"
+  },
   "Beibei": {
     "title": "贝贝网 / Beibei",
     "url": "/wiki/entities/beibei/"
@@ -4314,6 +4334,10 @@
   "BiotechFounderControl": {
     "title": "Biotech Founder Control",
     "url": "/wiki/concepts/biotechfoundercontrol/"
+  },
+  "BiotechLicenseOutArbitrage": {
+    "title": "Biotech License-Out Arbitrage",
+    "url": "/wiki/concepts/biotechlicenseoutarbitrage/"
   },
   "BipolarJunctionTransistor": {
     "title": "Bipolar Junction Transistor",
@@ -4714,6 +4738,10 @@
   "BridgewaterAssociates": {
     "title": "Bridgewater Associates",
     "url": "/wiki/entities/bridgewaterassociates/"
+  },
+  "BristolMyersSquibb": {
+    "title": "Bristol Myers Squibb / BMS",
+    "url": "/wiki/entities/bristolmyerssquibb/"
   },
   "BrittYoung": {
     "title": "Britt Young",
@@ -5858,6 +5886,14 @@
   "ChinaBicycleShortageEconomy": {
     "title": "China Bicycle Shortage Economy",
     "url": "/wiki/concepts/chinabicycleshortageeconomy/"
+  },
+  "ChinaBiotechAssetRepricing": {
+    "title": "China Biotech Asset Repricing",
+    "url": "/wiki/concepts/chinabiotechassetrepricing/"
+  },
+  "ChinaBiotechGlobalization": {
+    "title": "China Biotech Globalization",
+    "url": "/wiki/concepts/chinabiotechglobalization/"
   },
   "ChinaCellTherapyRegulatoryDualTrack": {
     "title": "China Cell Therapy Regulatory Dual Track",
@@ -8879,6 +8915,10 @@
     "title": "双手稿叙事 / Dual Manuscript Narration",
     "url": "/wiki/concepts/dualmanuscriptnarration/"
   },
+  "DualPayloadADC": {
+    "title": "Dual-Payload ADC",
+    "url": "/wiki/concepts/dualpayloadadc/"
+  },
   "DualUseDefenseTechnology": {
     "title": "Dual-Use Defense Technology",
     "url": "/wiki/concepts/dualusedefensetechnology/"
@@ -10523,6 +10563,10 @@
     "title": "Financo",
     "url": "/wiki/entities/financo/"
   },
+  "FiniteGameBiotechCompetition": {
+    "title": "Finite-Game Biotech Competition",
+    "url": "/wiki/concepts/finitegamebiotechcompetition/"
+  },
   "Finland": {
     "title": "Finland",
     "url": "/wiki/entities/finland/"
@@ -11859,6 +11903,10 @@
     "title": "Gilbert-Spinoza Hypothesis / 吉尔伯特-斯宾诺莎假设",
     "url": "/wiki/concepts/gilbertspinozahypothesis/"
   },
+  "GileadSciences": {
+    "title": "Gilead Sciences / 吉利德",
+    "url": "/wiki/entities/gileadsciences/"
+  },
   "Gilgamesh": {
     "title": "Gilgamesh / 吉尔伽美什",
     "url": "/wiki/entities/gilgamesh/"
@@ -12927,6 +12975,10 @@
     "title": "恒安集团",
     "url": "/wiki/entities/hengangroup/"
   },
+  "HengruiPharma": {
+    "title": "Hengrui Pharma / 恒瑞医药",
+    "url": "/wiki/entities/hengruipharma/"
+  },
   "HenriPierreRoche": {
     "title": "Henri-Pierre Roche / 亨利-皮埃尔·罗什",
     "url": "/wiki/entities/henripierreroche/"
@@ -13883,6 +13935,10 @@
     "title": "In Vivo CAR-T",
     "url": "/wiki/concepts/invivocart/"
   },
+  "InVivoMRNACART": {
+    "title": "In Vivo mRNA CAR-T",
+    "url": "/wiki/concepts/invivomrnacart/"
+  },
   "InboundTourismBrandDiscovery": {
     "title": "Inbound Tourism Brand Discovery",
     "url": "/wiki/concepts/inboundtourismbranddiscovery/"
@@ -14050,6 +14106,10 @@
   "InnovationsForPovertyAction": {
     "title": "Innovations for Poverty Action",
     "url": "/wiki/entities/innovationsforpovertyaction/"
+  },
+  "InnoventBiologics": {
+    "title": "Innovent Biologics / 信达生物",
+    "url": "/wiki/entities/innoventbiologics/"
   },
   "InsiderDissentStrategy": {
     "title": "Insider Dissent Strategy / 局内人异议策略",
@@ -15775,6 +15835,10 @@
     "title": "Kelly Criterion",
     "url": "/wiki/concepts/kellycriterion/"
   },
+  "KelunBiotech": {
+    "title": "Kelun-Biotech / 科伦博泰",
+    "url": "/wiki/entities/kelunbiotech/"
+  },
   "KelvinKiptum": {
     "title": "Kelvin Kiptum",
     "url": "/wiki/entities/kelvinkiptum/"
@@ -15830,6 +15894,10 @@
   "KevinWarsh": {
     "title": "Kevin Warsh",
     "url": "/wiki/entities/kevinwarsh/"
+  },
+  "Keytruda": {
+    "title": "Keytruda / K药",
+    "url": "/wiki/entities/keytruda/"
   },
   "Kickstarter": {
     "title": "Kickstarter",
@@ -17078,6 +17146,10 @@
   "LondonCollegeOfCommunication": {
     "title": "London College of Communication",
     "url": "/wiki/entities/londoncollegeofcommunication/"
+  },
+  "LongActingHIVPrevention": {
+    "title": "Long-Acting HIV Prevention",
+    "url": "/wiki/concepts/longactinghivprevention/"
   },
   "LongChainAICompetition": {
     "title": "Long-Chain AI Competition",
@@ -18515,6 +18587,10 @@
     "title": "Merchant To Industrial City Upgrade",
     "url": "/wiki/concepts/merchanttoindustrialcityupgrade/"
   },
+  "Merck": {
+    "title": "Merck / 默沙东",
+    "url": "/wiki/entities/merck/"
+  },
   "MeritBasedImmigrationFilter": {
     "title": "Merit-Based Immigration Filter",
     "url": "/wiki/concepts/meritbasedimmigrationfilter/"
@@ -19254,6 +19330,10 @@
   "MultimodalPersonalMemory": {
     "title": "Multimodal Personal Memory",
     "url": "/wiki/concepts/multimodalpersonalmemory/"
+  },
+  "MultinationalPharmaPatentCliffAnxiety": {
+    "title": "Multinational Pharma Patent-Cliff Anxiety",
+    "url": "/wiki/concepts/multinationalpharmapatentcliffanxiety/"
   },
   "MultipleEquilibria": {
     "title": "Multiple Equilibria",
@@ -20830,6 +20910,14 @@
   "PAWPatrol": {
     "title": "PAW Patrol",
     "url": "/wiki/entities/pawpatrol/"
+  },
+  "PD1MarketSaturation": {
+    "title": "PD-1 Market Saturation",
+    "url": "/wiki/concepts/pd1marketsaturation/"
+  },
+  "PD1VEGFBispecific": {
+    "title": "PD-1/VEGF Bispecific",
+    "url": "/wiki/concepts/pd1vegfbispecific/"
   },
   "PDVSA": {
     "title": "PDVSA",
@@ -23586,6 +23674,10 @@
   "Reuters": {
     "title": "Reuters",
     "url": "/wiki/entities/reuters/"
+  },
+  "ReverseNewCoBiotechModel": {
+    "title": "Reverse NewCo Biotech Model",
+    "url": "/wiki/concepts/reversenewcobiotechmodel/"
   },
   "Revid": {
     "title": "Revid",
@@ -26959,6 +27051,10 @@
     "title": "TBPN",
     "url": "/wiki/entities/tbpn/"
   },
+  "TCellEngagers": {
+    "title": "T-Cell Engagers",
+    "url": "/wiki/concepts/tcellengagers/"
+  },
   "TConScribd": {
     "title": "T-Con (Scribd Co-Founder)",
     "url": "/wiki/entities/tconscribd/"
@@ -30143,6 +30239,10 @@
     "title": "小满",
     "url": "/wiki/entities/xiaoman/"
   },
+  "XiaoPTeacher": {
+    "title": "小P老师 / Xiao P Teacher",
+    "url": "/wiki/entities/xiaopteacher/"
+  },
   "XiaoS": {
     "title": "小S / Xiao S",
     "url": "/wiki/entities/xiaos/"
@@ -33186,6 +33286,10 @@
   "vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx": {
     "title": "Vol.115 全球宏观和资本市场2025展望：短期问题不解决，就没有中期和长期了",
     "url": "/wiki/sources/vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx/"
+  },
+  "vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7": {
+    "title": "vol.117.生物医药的2025：抄底中国、研发焦虑和新王继位",
+    "url": "/wiki/sources/vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7/"
   },
   "vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1": {
     "title": "Vol. 160 一年多以后，再聊AI写代码Vibe Coding",

@@ -5900,3 +5900,11 @@ Added source page for a 起朱楼宴宾客 macro and capital-market outlook with
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | vol.117.生物医药的2025：抄底中国、研发焦虑和新王继位
+
+Added source page for a 起朱楼宴宾客 episode with 大卫翁 and 小P老师 on 2024-2025 biopharma, China biotech asset repricing, MNC patent-cliff anxiety, license-out and reverse NewCo structures, PD-1/VEGF, TCEs, ADC engineering, GLP-1 competition, long-acting HIV prevention, BeiGene globalization, AI drug clinical validation, and in vivo mRNA CAR-T. Created pages for 小P老师, Akeso, BeiGene, Hengrui Pharma, Gilead Sciences, Merck, Keytruda, AstraZeneca, Bristol Myers Squibb, Kelun-Biotech, Innovent Biologics, China Biotech Asset Repricing, Biotech License-Out Arbitrage, Reverse NewCo Biotech Model, Multinational Pharma Patent-Cliff Anxiety, PD-1 Market Saturation, PD-1/VEGF Bispecific, T-Cell Engagers, ADC Engineering Optimization, Dual-Payload ADC, Long-Acting HIV Prevention, China Biotech Globalization, AI Clinical Validation In Drug Discovery, In Vivo mRNA CAR-T, and Finite-Game Biotech Competition; updated overview, index, 起朱楼宴宾客, 大卫翁, CAR-T Cell Therapy, In Vivo CAR-T, Allogeneic CAR-T, AI Drug Discovery Platform, Platform-Pipeline Biotech Strategy, AI For Science, GLP-1 Agonists, Eli Lilly, and Novo Nordisk. No direct contradiction found; the source qualifies earlier CAR-T and AI-drug optimism by emphasizing clinical proof, persistence, cost, manufacturability, commercialization, and value-capture constraints.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

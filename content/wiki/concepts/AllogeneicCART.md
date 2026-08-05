@@ -2,8 +2,8 @@
 title: "Allogeneic CAR-T"
 type: concept
 tags: [biotech, oncology, cell-therapy, manufacturing]
-sources: [e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]
-last_updated: 2026-07-23
+sources: [e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
+last_updated: 2026-08-06
 ---
 
 # Allogeneic CAR-T
@@ -12,13 +12,17 @@ Allogeneic CAR-T is the off-the-shelf donor-cell route discussed in [[e235-20-ni
 
 The source presents this route as an attempt to solve time and cost, but [[LiuCheng|刘诚]] is skeptical of its efficacy compared with autologous [[CARTCellTherapy]]. His reason is immune persistence: cells from another person can be rejected by the patient's immune system and may not stay alive long enough to deliver the same effect.
 
+[[vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]] reinforces the same caution from a separate industry-review source. [[XiaoPTeacher|小P老师]] says allogeneic CAR-T still appears weaker than autologous CAR-T in efficacy, making it an unsolved convenience-versus-performance tradeoff rather than a solved replacement.
+
 ## Key Claims
 - Allogeneic CAR-T tries to make cell therapy more available by separating production from a single patient's treatment timeline.
 - Liu argues that donor-cell rejection and limited persistence are the route's central weaknesses.
 - The route is conceptually different from [[InVivoCART]], which still aims to modify the patient's own cells inside the body.
+- Vol.117 adds that allogeneic CAR-T's weaker effect keeps alternative routes such as [[TCellEngagers]] and [[InVivoMRNACART]] commercially interesting.
 
 ## Connections
 - [[CARTCellTherapy]] - therapy class being adapted into an off-the-shelf format.
 - [[ExVivoCARTManufacturing]] - patient-specific autologous route allogeneic products try to replace or supplement.
 - [[InVivoCART]] - separate cost/access route discussed in the same episode.
 - [[CancerImmuneRecognitionProblem]] - underlying oncology problem all CAR-T variants try to solve.
+- [[TCellEngagers]] and [[InVivoMRNACART]] - adjacent vol.117 alternatives and variants.

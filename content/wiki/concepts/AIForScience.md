@@ -2,8 +2,8 @@
 title: "AI For Science"
 type: concept
 tags: [ai, science, investment]
-sources: [tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
-last_updated: 2026-08-05
+sources: [tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
+last_updated: 2026-08-06
 ---
 
 # AI For Science
@@ -26,6 +26,8 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 
 [[e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]] adds the founder-history version through [[DemisHassabis]]. The [[SiliconValley101]] episode treats [[AlphaFold]] as the clearest realization of Hassabis's claim that AI should help humanity solve hard scientific problems, while [[ScientificIdealVsAIArmsRace]] keeps that optimism tied to competition and governance risk.
 
+[[vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]] adds the industry-skeptical AI drug version. [[XiaoPTeacher|小P老师]] still lists AI drug as a 2025 direction, but [[AIClinicalValidationInDrugDiscovery]] makes clinical readouts the deciding evidence rather than platform narrative, demo quality, or model architecture.
+
 ## Investment Logic
 - Scientific and industrial domains may be harder to commoditize than lightweight software wrappers.
 - They require specialized knowledge, data, and operational credibility.
@@ -35,6 +37,7 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 - [[DiscoveryModel]] work adds a second moat question: can the system choose valuable scientific questions and verify answers, not only generate candidates?
 - [[AIForMath]] may be an unusually clean AI-for-science route because formal proof gives better verification signals than most empirical domains.
 - [[AllModalMolecularWorldModel]] adds a biological route where verification must pass molecular interaction, synthesis, wet-lab, and customer-use constraints.
+- [[AIClinicalValidationInDrugDiscovery]] adds the stricter drug-development version: human clinical data can reprice AI-for-biology claims faster than platform language can defend them.
 
 ## Connections
 - [[ZhengkeFund]] — investment context in which the theme is discussed.
@@ -47,3 +50,4 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 - [[HongLetong]], [[Axiom]], [[AIForMath]], [[FormalVerification]], and [[MathematicalAbundance]] — formal-math route added by episode 137.
 - [[YinglingdianAI]], [[HaotianOdin]], [[AllModalMolecularWorldModel]], [[AIDrugDiscoveryPlatform]], and [[ScientificDiscoveryAutomation]] — molecular-biology platform branch added by the Shizilukou Crossing source.
 - [[DemisHassabis]], [[DeepMind]], [[AlphaFold]], [[JohnJumper]], and [[ScientificIdealVsAIArmsRace]] — DeepMind founder-history and protein-structure proof point added by Silicon Valley 101.
+- [[XiaoPTeacher]], [[AIDrugDiscoveryPlatform]], and [[AIClinicalValidationInDrugDiscovery]] — biotech-industry validation check added by Qizhulou vol.117.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.117.生物医药的2025：抄底中国、研发焦虑和新王继位](sources/vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7.md) — 起朱楼宴宾客 episode with 大卫翁 and 小P老师 on China biotech asset repricing, MNC patent-cliff anxiety, license-out and reverse NewCo structures, PD-1/VEGF, TCE, ADC, GLP-1, HIV prevention, BeiGene globalization, AI drug, and in vivo mRNA CAR-T.
 - [Vol.115 全球宏观和资本市场2025展望：短期问题不解决，就没有中期和长期了](sources/vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx.md) — 起朱楼宴宾客 episode with 大卫翁 and Ricky on China policy easing, fiscal transmission, A/H equity barbell strategy, bond-return expectations, U.S. mega-cap tech, gold, commodities, and cash optionality.
 - [88.别认输，惠子：在听不到喝彩的世界里，挥拳！](sources/88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803.md) — 蜜獾吃书 episode on 惠子, 《惠子凝视》, deaf education, communication misrecognition, female boxing, gym access, and boxing as embodied agency rather than simple inspirational victory.
 - [87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）](sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997.md) — 蜜獾吃书 episode on early Chinese fangshu, oracle-bone and Zhouyi divination, soul summoning, astrology, yin-yang/five phases, Qin-Han immortality quests, Huainanzi, and wugu political panic.
@@ -739,6 +740,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [小P老师 / Xiao P Teacher](entities/XiaoPTeacher.md) — Biotech early-research guest in vol.117, grounding the episode's sober 2025 view of PD-1, CAR-T, ADC, AI drug, and cross-border biotech transactions.
+- [Akeso / 康方生物](entities/Akeso.md) — Chinese biotech company used by vol.117 as the central PD-1/VEGF bispecific and China asset-repricing example.
+- [BeiGene / 百济神州](entities/BeiGene.md) — Chinese biotech company used by vol.117 as a self-globalization case beyond ordinary license-out.
+- [Hengrui Pharma / 恒瑞医药](entities/HengruiPharma.md) — Chinese pharma company tied in vol.117 to license-out arbitrage and reverse NewCo transaction design.
+- [Gilead Sciences / 吉利德](entities/GileadSciences.md) — Pharma company split in vol.117 between long-acting HIV prevention strength and oncology investment setbacks.
+- [Merck / 默沙东](entities/Merck.md) — Pharma company used by vol.117 to explain Keytruda-linked patent-cliff anxiety and defensive China-asset BD.
+- [Keytruda / K药](entities/Keytruda.md) — Merck PD-1 blockbuster used by vol.117 as the comparator for PD-1 saturation, PD-1/VEGF data, and patent-cliff pressure.
+- [AstraZeneca / 阿斯利康](entities/AstraZeneca.md) — Multinational pharma example in vol.117's China biotech asset-buying pattern.
+- [Bristol Myers Squibb / BMS](entities/BristolMyersSquibb.md) — Earlier PD-1 mover used by vol.117 to show how clinical-development execution can overtake first entry.
+- [Kelun-Biotech / 科伦博泰](entities/KelunBiotech.md) — Chinese ADC company example in vol.117's licensing and engineering-optimization discussion.
+- [Innovent Biologics / 信达生物](entities/InnoventBiologics.md) — Chinese biotech company connected by vol.117 to dual-payload ADC exploration.
 - [惠子 / Keiko (boxer)](entities/KeikoBoxer.md) — Hearing-impaired female boxer whose path through school isolation, boxing refusal, professional entry, and later support work anchors episode 88.
 - [《别认输，惠子》](entities/BieRenshuHuiziBook.md) — Autobiographical source as presented by episode 88, valued for its plain account of deafness, school pain, boxing practice, and relational repair.
 - [《惠子凝视》](entities/KeikoGazeFilm.md) — Japanese film used by episode 88 as the entry point into 惠子's real boxing and disability story.
@@ -5105,6 +5117,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [China Biotech Asset Repricing](concepts/ChinaBiotechAssetRepricing.md) — Vol.117 frame for MNCs buying or licensing depressed Chinese biotech assets that may be valued higher in overseas structures.
+- [Biotech License-Out Arbitrage](concepts/BiotechLicenseOutArbitrage.md) — Pattern where a Chinese pipeline licensed overseas is later repriced or transferred at a much higher implied valuation.
+- [Reverse NewCo Biotech Model](concepts/ReverseNewCoBiotechModel.md) — Cross-border structure taking Chinese pipelines into overseas NewCos to capture more upside than ordinary license-out.
+- [Multinational Pharma Patent-Cliff Anxiety](concepts/MultinationalPharmaPatentCliffAnxiety.md) — Big-pharma pressure to replace future revenue as blockbuster exclusivity weakens, driving M&A and BD appetite.
+- [PD-1 Market Saturation](concepts/PD1MarketSaturation.md) — Vol.117 view that PD-1 has moved from breakthrough platform to crowded market requiring real differentiation.
+- [PD-1/VEGF Bispecific](concepts/PD1VEGFBispecific.md) — Akeso-anchored mechanism in vol.117 linking Chinese clinical data, mechanism uncertainty, and Merck's defensive interest.
+- [T-Cell Engagers](concepts/TCellEngagers.md) — TCE class framed by vol.117 as a cheaper, weaker immune-redirection alternative or complement to CAR-T.
+- [ADC Engineering Optimization](concepts/ADCEngineeringOptimization.md) — Antibody, payload, and linker optimization frame that vol.117 ties to Chinese engineering strengths and licensing risk.
+- [Dual-Payload ADC](concepts/DualPayloadADC.md) — More complex ADC direction discussed in vol.117, promising resistance management but raising CMC, QC, and cost burdens.
+- [Long-Acting HIV Prevention](concepts/LongActingHIVPrevention.md) — Gilead-linked prevention direction in vol.117 built around long dosing interval and vaccine-like practical effect.
+- [China Biotech Globalization](concepts/ChinaBiotechGlobalization.md) — BeiGene-style route of building global commercial capability instead of mainly licensing assets to MNCs.
+- [AI Clinical Validation In Drug Discovery](concepts/AIClinicalValidationInDrugDiscovery.md) — Vol.117 check on AI drug narratives: molecular design and target selection still have to survive clinical data.
+- [In Vivo mRNA CAR-T](concepts/InVivoMRNACART.md) — Vol.117 route using mRNA-LNP delivery to generate CAR-T-like cells inside the body, with short persistence as a key tradeoff.
+- [Finite-Game Biotech Competition](concepts/FiniteGameBiotechCompetition.md) — Vol.117 shift from pure breakthrough expectation toward clinical, manufacturing, pricing, BD, and engineering differentiation.
 - [China Policy Easing Pivot](concepts/ChinaPolicyEasingPivot.md) — 2024-2025 China policy-turn frame moving from July disappointment to September/December easing confirmation, with RMB still constraining monetary room.
 - [Short-Term Demand Before Long-Term Reform](concepts/ShortTermDemandBeforeLongTermReform.md) — Sequencing claim that damaged household, enterprise, and local-government balance sheets must be repaired before medium-term reform and long-term productivity stories can work.
 - [China Fiscal Expansion Channels](concepts/ChinaFiscalExpansionChannels.md) — Map of targeted 2025 fiscal transmission through local debt, special bonds, housing inventory purchase, bank capital, policy banks, public services, and arrears cleanup.
