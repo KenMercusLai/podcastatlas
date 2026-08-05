@@ -399,6 +399,10 @@
     "title": "159.要精明，要善良，要解决问题",
     "url": "/wiki/sources/159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201/"
   },
+  "16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282": {
+    "title": "16.时尚受害者：惊！绿色或为最毒颜色",
+    "url": "/wiki/sources/16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282/"
+  },
   "160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014": {
     "title": "160.优秀的绵羊：请把说“不”的权利还给我",
     "url": "/wiki/sources/160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014/"
@@ -2151,6 +2155,10 @@
     "title": "Alexander Hamilton",
     "url": "/wiki/entities/alexanderhamilton/"
   },
+  "AlexanderMcQueen": {
+    "title": "Alexander McQueen / 亚历山大·麦昆",
+    "url": "/wiki/entities/alexandermcqueen/"
+  },
   "AlexandrWang": {
     "title": "Alexandr Wang",
     "url": "/wiki/entities/alexandrwang/"
@@ -3867,6 +3875,10 @@
     "title": "Bill Bishop",
     "url": "/wiki/entities/billbishop/"
   },
+  "BillBowerman": {
+    "title": "Bill Bowerman / 鲍尔曼",
+    "url": "/wiki/entities/billbowerman/"
+  },
   "BillClerico": {
     "title": "Bill Clerico",
     "url": "/wiki/entities/billclerico/"
@@ -5119,6 +5131,10 @@
     "title": "Charles Henderson",
     "url": "/wiki/entities/charleshenderson/"
   },
+  "CharlesNicolle": {
+    "title": "Charles Nicolle / 尼科勒",
+    "url": "/wiki/entities/charlesnicolle/"
+  },
   "CharlesPepin": {
     "title": "夏尔·佩潘 / Charles Pepin",
     "url": "/wiki/entities/charlespepin/"
@@ -5854,6 +5870,10 @@
   "CocaCola": {
     "title": "Coca-Cola",
     "url": "/wiki/entities/cocacola/"
+  },
+  "CocoChanel": {
+    "title": "Coco Chanel / 香奈儿女士",
+    "url": "/wiki/entities/cocochanel/"
   },
   "CocoaBeach": {
     "title": "Cocoa Beach",
@@ -9239,6 +9259,14 @@
     "title": "Farzad Rashidi",
     "url": "/wiki/entities/farzadrashidi/"
   },
+  "FashionSupplyChainExternality": {
+    "title": "Fashion Supply Chain Externality",
+    "url": "/wiki/concepts/fashionsupplychainexternality/"
+  },
+  "FashionVictimsBook": {
+    "title": "《时尚受害者》 / Fashion Victims",
+    "url": "/wiki/entities/fashionvictimsbook/"
+  },
   "Fast16": {
     "title": "Fast 16",
     "url": "/wiki/entities/fast16/"
@@ -10642,6 +10670,10 @@
   "GenderedFairyTalePunishment": {
     "title": "Gendered Fairy-Tale Punishment / 童话中的性别化惩罚",
     "url": "/wiki/concepts/genderedfairytalepunishment/"
+  },
+  "GenderedFashionSafetyBlame": {
+    "title": "Gendered Fashion Safety Blame",
+    "url": "/wiki/concepts/genderedfashionsafetyblame/"
   },
   "GenderedFreedomAgainstOrder": {
     "title": "Gendered Freedom Against Order",
@@ -25734,6 +25766,10 @@
   "TowerOfBabylon": {
     "title": "Tower of Babylon",
     "url": "/wiki/entities/towerofbabylon/"
+  },
+  "ToxicFashionMaterialRisk": {
+    "title": "Toxic Fashion Material Risk",
+    "url": "/wiki/concepts/toxicfashionmaterialrisk/"
   },
   "ToxicShockSyndromeRisk": {
     "title": "Toxic Shock Syndrome Risk",

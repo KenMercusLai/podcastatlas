@@ -2,7 +2,7 @@
 title: "Female Body Freedom"
 type: concept
 tags: [women, body, gender, aging, agency]
-sources: [110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552]
+sources: [110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]
 last_updated: 2026-08-05
 ---
 
@@ -14,12 +14,15 @@ The concept is not only about clothing. The episode links bra freedom, menstruat
 
 [[15-bijingji-gengnianqi-gei-wo-ziyou-557912552]] adds the menopause-centered version through [[BijingJi|《闭经记》]]. Here body freedom can mean no longer being organized by menstruation, fertility, youth, and reproductive availability, while still admitting hot flashes, hormone-therapy ambivalence, fear of lost youth, and the awkwardness of bodily change.
 
+[[16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]] adds a fashion-safety version through [[FashionVictimsBook|《时尚受害者》]]. Here body freedom includes the ability to move, work, ride, wash, and dress without being trapped by floor-length skirts, hobble skirts, flammable fabrics, toxic dyes, high-maintenance cleaning, or legal and social rules against trousers. The source keeps the point practical: less restrictive clothing can be a safety technology as much as a style preference.
+
 ## Key Claims
 - Body freedom can mean refusing unnecessary restraint, not announcing a political identity.
 - Shame around breasts, menstruation, menopause, fatness, and aging can limit ordinary movement and self-perception.
 - Menopause can be liberating without being painless; the source's freedom comes from loosened social claims, not from a fantasy of perfect health.
 - Medical monitoring can be necessary while still emotionally difficult when it turns the body into a risk report.
 - Late-life self-possession includes accepting bodily change without letting etiquette, beauty norms, or institutional dress codes define the self.
+- Fashion freedom can be literal safety: a garment can increase or reduce infection, poisoning, fire, fall, vehicle, or machine risk.
 
 ## Connections
 - [[FemaleSelfPossession]] - broader agency frame this concept extends.
@@ -28,3 +31,4 @@ The concept is not only about clothing. The episode links bra freedom, menstruat
 - [[EmbodiedAging]] - age and physical-decline context.
 - [[ItoHiromi|伊藤比吕美]] and [[ChurouNoOnna|《初老的女人》]] - source author and book.
 - [[HealthInsurancePlanning]] - health-risk monitoring and sponsored discussion context.
+- [[FashionVictimsBook|《时尚受害者》]], [[ToxicFashionMaterialRisk]], and [[GenderedFashionSafetyBlame]] - episode 16's fashion and body-safety branch.

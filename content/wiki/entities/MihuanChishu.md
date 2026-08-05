@@ -8,6 +8,8 @@ last_updated: 2026-08-05
 
 # 蜜獾吃书
 
+[[16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]] adds the show's early fashion, public-health, and material-safety branch through [[FashionVictimsBook|《时尚受害者》]]. The episode connects clothing and cosmetics to [[ToxicFashionMaterialRisk]], [[FashionSupplyChainExternality]], [[GenderedFashionSafetyBlame]], [[MaterialHistoryNarrative]], [[FemaleBodyFreedom]], and [[EnvironmentalTradeoffAccounting]], extending the show's body-history interests from menstruation and aging into dyes, hats, fire, solvents, footwear, labor, and ecological substitution.
+
 [[15-bijingji-gengnianqi-gei-wo-ziyou-557912552]] adds the show's early menopause, menstrual shame, and women-body branch through [[ItoHiromi|伊藤比吕美]]'s [[BijingJi|《闭经记》]]. It connects [[MenopauseAsFreedom]], [[MenstrualStigma]], [[FemaleBodyFreedom]], [[GenderedMedicalization]], [[MotherDaughterReconciliation]], and [[FemaleSelfPossession]], while preserving the show's discussion style: personal memory, literary reading, feminist theory, humor, and disagreement remain in the same conversation.
 
 [[04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843]] adds the show's early disaster-history and technical-nonfiction branch through [[MidnightInChernobyl|《切尔诺贝利的午夜》]]. The episode connects [[ChernobylNuclearPowerPlant]], [[Pripyat]], [[ViktorBryukhanov]], [[AnatolyDyatlov]], and [[ValeryLegasov]] to [[TechnologicalDisasterAsInstitutionalFailure]], [[HumanDependentSafetySystem]], [[NuclearSafetyPropaganda]], [[DisasterCleanupSacrificeAndFutility]], and [[PostDisasterTruthAndResponsibility]], extending the show's recurring interest in evidence, institutions, and responsibility under pressure.

@@ -5420,3 +5420,11 @@ Added source page for a 蜜獾吃书 episode on 伊藤比吕美《闭经记》, 
 ## [2026-08-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-05] ingest | 16.时尚受害者：惊！绿色或为最毒颜色
+
+Added source page for a 蜜獾吃书 episode on 《时尚受害者》, toxic fashion materials, arsenic green, mercury hatmaking, lead cosmetics, flammable dress, labor exposure, gendered blame, and environmental substitution costs. Created pages for 《时尚受害者》 / Fashion Victims, Coco Chanel / 香奈儿女士, Charles Nicolle / 尼科勒, Bill Bowerman / 鲍尔曼, Alexander McQueen / 亚历山大·麦昆, Toxic Fashion Material Risk, Fashion Supply Chain Externality, and Gendered Fashion Safety Blame; updated overview, index, 蜜獾吃书, Material History Narrative, Female Body Freedom, Environmental Tradeoff Accounting, Mad Hatter, Chanel, and Nike. No direct contradiction found; the source complements existing menstrual-product and body-agency branches by showing fashion safety as a broader material, labor, and public-health problem.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 7,643 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while lint scanned 7,643 pages, so graph findings are advisory until `build graph` refreshes it; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`; a bounded in-session semantic pass reviewed orphan pages, their source pages, fragile-bridge endpoints, and explicit contradiction/tension markers, finding no hard unresolved contradiction. Report returned in-session; `wiki/lint-report.md` was not saved.

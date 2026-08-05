@@ -2,8 +2,8 @@
 title: "Material History Narrative"
 type: concept
 tags: [history, commodities, narrative, material-culture]
-sources: [134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, zhongqiu-kuaile-669967741, 66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, 71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
-last_updated: 2026-07-24
+sources: [134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, zhongqiu-kuaile-669967741, 66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, 71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]
+last_updated: 2026-08-05
 ---
 
 # Material History Narrative
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 Material history narrative is a way of explaining civilization through objects, substances, and everyday products rather than through rulers or abstract ideas alone. In [[74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]], [[QuanqiuShangyin|《全球上瘾》]] makes [[Coffee|coffee]] the protagonist of a story about myth, religion, trade, public speech, state monopoly, industry, military supply, and commodity cycles.
 
 The concept is useful because it keeps scale changes visible. A material object can begin as medicine, ritual drink, luxury, rumor object, or imported novelty, then become a mass habit, a taxable flow, a workplace tool, and a speculative commodity. The episode's limitation warning also matters: material history is incomplete when it follows taste and trade but underplays the labor regimes and coercion behind production.
+
+[[16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]] adds a toxic fashion version through [[FashionVictimsBook|《时尚受害者》]]. Clothing, cosmetics, dyes, hats, shoes, accessories, dry cleaning, artificial fibers, and animal-material substitutes become material history when their color, softness, sheen, cleanliness, flammability, and price reveal [[ToxicFashionMaterialRisk]], [[FashionSupplyChainExternality]], [[GenderedFashionSafetyBlame]], and [[FemaleBodyFreedom]].
 
 [[175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]] adds a gendered bodily-infrastructure version through [[JoseiEiseiYouhinNoShakaishi|《女性卫生用品的社会史》]]. Sanitary pads, menstrual belts, absorbent cotton, tampons, wrappers, school pamphlets, and public transit retail reveal how [[MenstrualStigma]], [[GenderedMedicalization]], war resource allocation, [[CommercialMenstrualEducation]], and [[MenstrualPublicInfrastructure]] shape everyday freedom.
 
@@ -49,6 +51,7 @@ The concept is useful because it keeps scale changes visible. A material object 
 - Invisible or airborne materials can also anchor material history when they shape instruments, evidence, bodies, markets, and infrastructure.
 - Expedition materials are not only scientific tools; skins, specimens, ships, anchors, and stored food can reveal which forms of value survive crisis and later scale into trade.
 - Books and gifts can anchor material history when their physical circulation reveals trust, scarcity, dignity, correspondence, and remembered place.
+- Fashion materials can anchor material history when beauty depends on chemistry, infection control, worker exposure, fire risk, gendered movement, animal extraction, or waste handling.
 
 ## Connections
 - [[Coffee|Coffee / 咖啡]] and [[QuanqiuShangyin|《全球上瘾》]] - source case for a commodity as protagonist.
@@ -65,3 +68,4 @@ The concept is useful because it keeps scale changes visible. A material object 
 - [[PollenAsHistoricalObject]], [[PalynologyAsEvidence]], [[HayFeverEnvironmentalHistory]], and [[AirPurifier]] - airborne biological-material extension added by episode 97.
 - [[SeaOtter]], [[BeringIsland]], [[GeorgWilhelmSteller]], [[RussianAmericanCompany]], [[Alaska]], and [[ExplorationToExtractionPipeline]] - fur-trade and expedition-afterlife extension added by episode 120.
 - [[EightyFourCharingCrossRoad|《查令十字街84号》]], [[OldBookMateriality]], [[DignityThroughSmallGifts]], and [[BookstoreSerendipity]] - reading-culture material history added by episode 134.
+- [[FashionVictimsBook|《时尚受害者》]], [[ToxicFashionMaterialRisk]], [[FashionSupplyChainExternality]], and [[GenderedFashionSafetyBlame]] - toxic fashion material-history branch added by episode 16.
