@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [真正改变世界的技术，为什么一开始都不被看好？| S10E16](sources/zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1.md) — What's Next episode with Wang Bo on semiconductor history, Moore's Law as industry coordination, MOS transistor underestimation, Huawei's Tau Law, disruptive innovation, and human know-how under AI.
 - [7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？ | S10E12](sources/7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52.md) — What's Next episode with Aaron on hyperscaler AI capex, bubble risk, bright-line/dark-line AI revenue, circular infrastructure financing, and U.S.-China valuation asymmetry.
 - [从央视纪录片到爆款 AI 短剧：第一批「转身」的导演｜ S10E11](sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc.md) — What's Next｜科技早知道 episode with Chouxiangzai and Taitai on AI short-drama workflows, C-DANCE/Seedance, director-core production, overseas localization, paid traffic, and story-driven monetization.
 - [探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」｜ S10E10](sources/tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77.md) — What's Next episode on Silicon Valley hacker houses, The Residency, Accelerate, Frontier Tower, HF0, AGI House, equity pools, founder network arbitrage, and hacker houses as early startup infrastructure.
@@ -693,6 +694,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Wang Bo / 汪波](entities/WangBo.md) — Semiconductor researcher and author of 《芯片简史》 using chip history to explain underappreciated technologies, Moore's Law, MOS, Tau Law, and AI-era know-how.
+- [A Brief History of Chips / 芯片简史](entities/ABriefHistoryOfChips.md) — Wang Bo book that grounds the S10E16 semiconductor-history discussion.
+- [Bell Labs](entities/BellLabs.md) — Research organization used in S10E16 to explain why MOS was initially underweighted against BJT for telecom switching needs.
+- [Fairchild Semiconductor](entities/FairchildSemiconductor.md) — Early semiconductor company tied to Moore's Law's commercial context and later MOS stabilization.
+- [Muhammad Atalla](entities/MuhammadAtalla.md) — Bell Labs researcher named in the S10E16 MOS transistor origin story.
+- [Dawon Kahng / 姜大元](entities/DawonKahng.md) — Bell Labs researcher named alongside Muhammad Atalla in the S10E16 MOS transistor origin story.
+- [AT&T](entities/ATT.md) — Telecom incumbent context explaining Bell Labs' early preference for faster, stabler BJT devices over MOS.
+- [Andrew Grove](entities/AndrewGrove.md) — Intel leader referenced through The Innovator's Dilemma and incumbent self-disruption in S10E16.
 - [Aaron (What's Next guest)](entities/AaronWhatsNext.md) — Source-scoped What's Next guest explaining AI capex, bubble risk, revenue visibility, circular infrastructure financing, and U.S.-China market-reaction asymmetry.
 - [CoreWeave](entities/CoreWeave.md) — GPU cloud and AI compute counterparty used in the episode's circular financing example with Nvidia and OpenAI.
 - [The Residency](entities/TheResidency.md) — Hacker-house organization combining selected founder housing, meals, community, investor access, and batch equity pooling.
@@ -4775,6 +4784,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Disruptive Innovation](concepts/DisruptiveInnovation.md) — Pattern where a technology starts inferior on incumbent metrics but wins through a scalable advantage, added through the MOS/BJT and Intel/Nvidia discussion.
+- [MOSFET / MOS Transistor](concepts/MOSFET.md) — Semiconductor device route initially underweighted against BJT but later central because of cost, structure, and integration advantages.
+- [Bipolar Junction Transistor](concepts/BipolarJunctionTransistor.md) — Incumbent transistor technology contrasted with MOS in the Bell Labs and AT&T switching context.
+- [System-Level Semiconductor Optimization](concepts/SystemLevelSemiconductorOptimization.md) — Post-Moore route seeking performance through delay reduction, architecture, packaging, memory proximity, and cross-layer co-design.
+- [Domain Know-How Moat](concepts/DomainKnowHowMoat.md) — AI-era expertise moat built from cross-chain engineering knowledge, interface understanding, process quirks, communication, and judgment.
 - [AI Capex Return Window](concepts/AICapexReturnWindow.md) — One-to-three-year public-market test for whether AI infrastructure spending becomes visible revenue, cost reduction, or strategic control.
 - [AI Revenue Legibility](concepts/AIRevenueLegibility.md) — Bright-line/dark-line framework for whether investors can observe AI's contribution in reported business lines.
 - [AI Circular Infrastructure Financing](concepts/AICircularInfrastructureFinancing.md) — AI infrastructure loop where investments, compute leases, and GPU orders reinforce one another before independent third-party demand is fully proven.

@@ -2,8 +2,8 @@
 title: "Large Company Organizational Inertia"
 type: concept
 tags: [organizations, career, management]
-sources: [socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final]
-last_updated: 2026-07-12
+sources: [socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]
+last_updated: 2026-08-05
 ---
 
 # Large Company Organizational Inertia
@@ -21,6 +21,8 @@ Large company organizational inertia is the episode's frame for how massive comp
 [[socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll]] adds an earlier acquired-startup version through [[PaulGraham]], [[Viaweb]], and [[Yahoo]]. Graham says Yahoo was trying to become a serious conventional business after the acquisition, and that the office-park atmosphere gradually wore down his startup-level intensity before he left to paint.
 
 [[dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun]] adds a legacy-platform version through [[Baidu]]. The hosts describe filtered feedback, late corrections, repeated late entry into validated markets, and difficulty sustaining complex new businesses after search advertising became a cash cow.
+
+[[zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]] adds a technology-disruption version through [[Google]], [[Intel]], and [[Nvidia]]. The source says Google's transformer-era assets were constrained by search's cash-flow position, while Intel's older semiconductor leadership did not prevent it from missing the GPU-era shift. Nvidia is used as the countermeasure case: product-roadmap self-replacement and flat communication are presented as attempts to keep a large company from defending yesterday's winner.
 
 [[nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun]] adds a technical-to-enterprise-vendor version through [[TongxinSoftware]]. A project lineage that began with [[HiweedLinux]] and [[Deepin]] becomes a [[XinchuangOperatingSystems]] vendor, and the source interprets formal dress demands, sales posture, delivery pressure, and management hierarchy as signs that customer structure can reshape organizational culture.
 
@@ -45,6 +47,7 @@ Large company organizational inertia is the episode's frame for how massive comp
 - Acquired teams can be pulled into existing product mandates even when the acquisition thesis points somewhere else.
 - Inertia can be an incentive problem as much as a competence problem: managers may avoid risky launches even when the company has the talent and technology.
 - Inertia can become a career trap when compensation and comfort raise the cost of returning to founder-level risk.
+- In technology companies, inertia can appear as reluctance to attack a profitable core business even after the new technical path is visible.
 - Acquired startups can lose startup-like hiring power when corporate compensation and bureaucracy replace equity upside and speed.
 - Corporate normalization after acquisition can wear down a founder even when the acquired product and team are still valuable.
 - A founder-led functional reset can reduce some inertia by forcing one roadmap and fewer initiatives, but it can also concentrate review capacity around the founder.
@@ -60,6 +63,7 @@ Large company organizational inertia is the episode's frame for how massive comp
 - [[Reddit]], [[CondeNast|Conde Nast]], [[SteveHuffman]], and [[CorporateOwnedStartupConstraints]] - acquired-startup constraint added by The Social Radars.
 - [[PaulGraham]], [[Viaweb]], [[Yahoo]], and [[PostAcquisitionFounderIdentity]] - acquired-founder burnout and exit case added by The Social Radars.
 - [[Baidu]], [[LiYanhong]], [[LuQi]], and [[CashCowStrategicInertia]] — legacy search-platform case added by the Baidu source.
+- [[DisruptiveInnovation]], [[Google]], [[Intel]], [[Nvidia]], [[JensenHuang]], and [[AndrewGrove]] — S10E16's incumbent self-disruption and countermeasure branch.
 - [[TongxinSoftware]], [[LinWei]], and [[TechnicalCultureSalesCultureTension]] — technical-community-to-enterprise-vendor case added by the domestic operating-system source.
 - [[Huawei]], [[TauLaw]], and [[HuaweiOrganizationalMethodology]] — scale-coordination case added by the Huawei source.
 - [[XiaoMan]], [[DaChangXiaomin]], [[CareerShoreMyth]], [[SystemHumanity]], and [[LayoffBuffer]] — ordinary-worker and layoff layer added by the Mianji source.

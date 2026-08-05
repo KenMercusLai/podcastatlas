@@ -102,6 +102,8 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 
 [[1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6]] adds the solo-founder and agent-manager version. [[YuYi]] may want agents to act like partners, and [[CangShifu]] may prefer tools, but both make the human responsible for deciding the workflow, checking output, setting red lines, and knowing when a business task has crossed into finance, compliance, trust, or customer-facing judgment.
 
+[[zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]] adds the semiconductor and manufacturing version through [[WangBo|汪波]]. The source says AI can assist bounded chip-design and manufacturing tasks, but process-specific effects, tool gaps, upstream/downstream interfaces, human communication, and lived technical experience still form a [[DomainKnowHowMoat]]. Its career advice extends judgment beyond prompt skill: build enough domain and human context to define the problem before asking AI to solve it.
+
 ## Key Claims
 - AI is useful for preparation, framing, and organizing context.
 - Live questioning requires internalized understanding, tradeoffs, and expression.
@@ -162,6 +164,7 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 - Institutional knowledge is a judgment input when workplace relationships, communication norms, escalation routes, and local context are not stored online for AI to retrieve.
 - In cognitive-surrender cases, judgment starts before verification: the user has to notice when AI is becoming the first reasoning path rather than a checked assistant.
 - In consumer-facing creative work, judgment includes preserving human authorship where buyers expect emotion, care, or self-expression rather than treating AI output plus human editing as equivalent.
+- In semiconductor and manufacturing work, judgment includes domain know-how around process effects, interfaces, tacit failure modes, and cross-team communication that AI can assist but not define by itself.
 
 ## Connections
 - [[ReneDescartes]], [[MethodicDoubt]], [[CogitoErgoSum]], and [[ComputingVersusThinking]] - episode 174's philosophical boundary between calculation, thinking, and judgment.
@@ -214,3 +217,4 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 - [[EnterpriseAgentGovernance]], [[AgenticWorkflow]], and [[CapabilityOverhang]] — Google Cloud Next's agent-management and responsibility case.
 - [[RetrievalAugmentedGeneration]], [[VectorModelEngineering]], [[DocumentChunking]], and [[AISearchEvaluation]] — retrieval and evidence-quality boundary added by the Fuyou Tiandi vector-model episode.
 - [[Creo]], [[PeterCreo]], [[ChenKaiCreo]], [[ClarkCreo]], [[AIFirstOrganization]], and [[HarnessEngineering]] — E238's architecture, market, value, and review judgment branch.
+- [[WangBo]], [[DomainKnowHowMoat]], [[SemiconductorSupplyChain]], and [[ElectronicDesignAutomation]] — S10E16's semiconductor and manufacturing know-how branch.

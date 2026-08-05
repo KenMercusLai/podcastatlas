@@ -811,6 +811,10 @@
     "title": "A/B Testing For Marketers",
     "url": "/wiki/concepts/abtestingformarketers/"
   },
+  "ABriefHistoryOfChips": {
+    "title": "A Brief History of Chips / 芯片简史",
+    "url": "/wiki/entities/abriefhistoryofchips/"
+  },
   "ABriefHistoryOfIntelligence": {
     "title": "A Brief History of Intelligence",
     "url": "/wiki/entities/abriefhistoryofintelligence/"
@@ -1558,6 +1562,10 @@
   "ATMOperations": {
     "title": "ATM Operations",
     "url": "/wiki/concepts/atmoperations/"
+  },
+  "ATT": {
+    "title": "AT&T",
+    "url": "/wiki/entities/att/"
   },
   "AVRide": {
     "title": "AV Ride",
@@ -2626,6 +2634,10 @@
   "AndrewGraff": {
     "title": "Andrew Graff",
     "url": "/wiki/entities/andrewgraff/"
+  },
+  "AndrewGrove": {
+    "title": "Andrew Grove",
+    "url": "/wiki/entities/andrewgrove/"
   },
   "AndrewJohnson": {
     "title": "Andrew Johnson",
@@ -3787,6 +3799,10 @@
     "title": "Belgium",
     "url": "/wiki/entities/belgium/"
   },
+  "BellLabs": {
+    "title": "Bell Labs",
+    "url": "/wiki/entities/belllabs/"
+  },
   "BellMedia": {
     "title": "Bell Media",
     "url": "/wiki/entities/bellmedia/"
@@ -4054,6 +4070,10 @@
   "BiotechFounderControl": {
     "title": "Biotech Founder Control",
     "url": "/wiki/concepts/biotechfoundercontrol/"
+  },
+  "BipolarJunctionTransistor": {
+    "title": "Bipolar Junction Transistor",
+    "url": "/wiki/concepts/bipolarjunctiontransistor/"
   },
   "BirdDinosaurContinuity": {
     "title": "Bird-Dinosaur Continuity / 鸟类-恐龙连续性",
@@ -7439,6 +7459,10 @@
     "title": "Davines",
     "url": "/wiki/entities/davines/"
   },
+  "DawonKahng": {
+    "title": "Dawon Kahng / 姜大元",
+    "url": "/wiki/entities/dawonkahng/"
+  },
   "Daxiong": {
     "title": "大雄",
     "url": "/wiki/entities/daxiong/"
@@ -7959,6 +7983,10 @@
     "title": "Display Ergonomics",
     "url": "/wiki/concepts/displayergonomics/"
   },
+  "DisruptiveInnovation": {
+    "title": "Disruptive Innovation",
+    "url": "/wiki/concepts/disruptiveinnovation/"
+  },
   "DistributionBeforeMonetization": {
     "title": "Distribution Before Monetization",
     "url": "/wiki/concepts/distributionbeforemonetization/"
@@ -8026,6 +8054,10 @@
   "DomainExpertAlignment": {
     "title": "Domain Expert Alignment",
     "url": "/wiki/concepts/domainexpertalignment/"
+  },
+  "DomainKnowHowMoat": {
+    "title": "Domain Know-How Moat",
+    "url": "/wiki/concepts/domainknowhowmoat/"
   },
   "DomesticAIChipCatchUp": {
     "title": "Domestic AI Chip Catch-Up",
@@ -9330,6 +9362,10 @@
   "FailureDesensitization": {
     "title": "Failure Desensitization",
     "url": "/wiki/concepts/failuredesensitization/"
+  },
+  "FairchildSemiconductor": {
+    "title": "Fairchild Semiconductor",
+    "url": "/wiki/entities/fairchildsemiconductor/"
   },
   "FairyTaleDeathAndSpirituality": {
     "title": "Fairy-Tale Death And Spirituality",
@@ -16319,6 +16355,10 @@
     "title": "MOE Capital",
     "url": "/wiki/entities/moecapital/"
   },
+  "MOSFET": {
+    "title": "MOSFET / MOS Transistor",
+    "url": "/wiki/concepts/mosfet/"
+  },
   "MPMaterials": {
     "title": "MP Materials",
     "url": "/wiki/entities/mpmaterials/"
@@ -17902,6 +17942,10 @@
   "MtGox": {
     "title": "Mt. Gox",
     "url": "/wiki/entities/mtgox/"
+  },
+  "MuhammadAtalla": {
+    "title": "Muhammad Atalla",
+    "url": "/wiki/entities/muhammadatalla/"
   },
   "Mujian": {
     "title": "Mujian",
@@ -25131,6 +25175,10 @@
     "title": "System Humanity",
     "url": "/wiki/concepts/systemhumanity/"
   },
+  "SystemLevelSemiconductorOptimization": {
+    "title": "System-Level Semiconductor Optimization",
+    "url": "/wiki/concepts/systemlevelsemiconductoroptimization/"
+  },
   "SystemicDegenerativeVolatility": {
     "title": "Systemic Degenerative Volatility",
     "url": "/wiki/concepts/systemicdegenerativevolatility/"
@@ -27294,6 +27342,10 @@
   "WangAnshiReforms": {
     "title": "王安石变法 / Wang Anshi Reforms",
     "url": "/wiki/concepts/wanganshireforms/"
+  },
+  "WangBo": {
+    "title": "Wang Bo / 汪波",
+    "url": "/wiki/entities/wangbo/"
   },
   "WangChaoyun": {
     "title": "王朝云 / Wang Chaoyun",
@@ -31082,6 +31134,10 @@
   "zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew": {
     "title": "这可能才是 AI 陪伴真正该有的样子｜对谈刷屏产品 EVE 创始人 Tristan",
     "url": "/wiki/sources/zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew/"
+  },
+  "zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1": {
+    "title": "真正改变世界的技术，为什么一开始都不被看好？| S10E16",
+    "url": "/wiki/sources/zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1/"
   },
   "zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1": {
     "title": "智力贬值的春节见闻录，与那场正在酝酿的优贷危机",

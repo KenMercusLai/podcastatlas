@@ -2,8 +2,8 @@
 title: "Battery Manufacturing Know-How"
 type: concept
 tags: [batteries, manufacturing, process, china]
-sources: [tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi]
-last_updated: 2026-07-25
+sources: [tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]
+last_updated: 2026-08-05
 ---
 
 # Battery Manufacturing Know-How
@@ -14,11 +14,14 @@ The episode argues that "knowing how" accumulates when engineers and operators r
 
 [[tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128]] adds a chemistry-improvement example. [[ColinMcCarrick]] says Chinese engineers spent roughly a decade making [[LithiumIronPhosphateBatteries|LFP batteries]] smaller and faster to charge, showing how practical engineering work can turn a cheaper chemistry into a mass EV battery route.
 
+[[zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]] uses a battery adhesive example as an analogy for [[DomainKnowHowMoat]]. A seemingly small material parameter can determine whether a battery pack works, making battery manufacturing a parallel case to [[SemiconductorSupplyChain]] know-how: field experience and upstream/downstream communication decide whether designs survive production.
+
 ## Key Claims
 - Manual workarounds can teach process details later needed for automation.
 - Coating, drying, rolling, slitting, winding or stacking, injection, formation, aging, and grading each create practical failure modes.
 - Tacit production knowledge becomes a strategic asset when competitors underestimate how many defects and yield problems sit between lab cells and vehicle packs.
 - Chemistry cost advantages still need engineering refinement before they can support [[ElectricVehiclePriceParity]].
+- Small material and process parameters can carry system-level consequences that are hard to infer without hands-on domain experience.
 
 ## Connections
 - [[BatteryConsistencySafety]] — quality and safety outcome of process control.
@@ -26,3 +29,4 @@ The episode argues that "knowing how" accumulates when engineers and operators r
 - [[ATL]], [[BYD]], [[CATL]], [[TDK]], and [[Northvolt]] — company cases.
 - [[DryElectrodeManufacturing]] — possible route that tries to bypass entrenched wet-coating know-how.
 - [[LithiumIronPhosphateBatteries]] and [[ElectricVehiclePriceParity]] — Marketplace Tech branch connecting LFP improvement to consumer affordability.
+- [[DomainKnowHowMoat]] and [[SemiconductorSupplyChain]] — S10E16's analogy between battery and semiconductor tacit engineering knowledge.

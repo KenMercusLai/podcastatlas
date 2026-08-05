@@ -2,8 +2,8 @@
 title: "Intel"
 type: entity
 tags: [company, semiconductors, manufacturing, chips]
-sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
-last_updated: 2026-07-23
+sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]
+last_updated: 2026-08-05
 ---
 
 # Intel
@@ -14,9 +14,12 @@ The episode also connects Intel indirectly to [[GordonMoore|Gordon Moore]] and t
 
 [[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]] adds two narrower Intel roles. The guests mention Intel EMIB while discussing alternatives and complements to [[TSMC]] packaging, and [[AlexGMICloud|Alex]] names Intel CPU supply among components that can tighten inside GPU-cloud deployments. In this source, Intel is therefore both a packaging reference and a supporting-system bottleneck.
 
+[[zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]] adds Intel as a [[DisruptiveInnovation]] and [[LargeCompanyOrganizationalInertia]] case. The source says Intel participated in solving the early [[MOSFET|MOS]] stability problem and benefited from the integrated-circuit era, but later missed the GPU-era transition that made [[Nvidia]] central to AI infrastructure. [[AndrewGrove]] appears through the episode's discussion of The Innovator's Dilemma.
+
 ## Connections
 - [[GordonMoore]] and [[MooreLaw]] — historical scaling frame.
 - [[TSMC]] and [[Samsung]] — leading-edge manufacturing peers named in the source.
 - [[PhotolithographyBottleneck]] and [[SemiconductorSupplyChain]] — manufacturing constraints around advanced nodes.
 - [[AdvancedPackaging]] — post-Moore route discussed as process scaling gets harder.
 - [[GPUCloudOperations]], [[AIHardwareSupplyChainPressure]], and [[DataCenterPowerBottleneck]] - E230's deployment-support context.
+- [[MOSFET]], [[DisruptiveInnovation]], [[AndrewGrove]], and [[Nvidia]] — S10E16's history and incumbent-transition context.

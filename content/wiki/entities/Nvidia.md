@@ -50,6 +50,8 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 
 [[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]] adds Nvidia at the peak of its own AI-infrastructure narrative. [[JensenHuang]]'s GTC claim about at least $1 trillion in cumulative [[NvidiaBlackwellPlatform|Blackwell]] and [[NvidiaVeraRubinPlatform|Vera Rubin]] orders becomes a way to test whether demand, [[InferenceAsCashFlow]], [[TokenPerWatt]], [[AdvancedPackaging]], [[HighBandwidthMemory]], data-center power, [[GPUCloudOperations]], and [[NeMoCloud]]-style software can all align. The episode's view is that Nvidia's moat is now [[AIInfrastructureFullStackMoat|full stack]], but that same breadth exposes the company to power, memory, interconnect, cloud-operations, and custom-chip pressure.
 
+[[zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]] adds Nvidia as the organizational countercase to [[Intel]]. [[WangBo|汪波]] says [[JensenHuang]] studied [[DisruptiveInnovation|The Innovator's Dilemma]] and tried to reduce incumbent complacency through flatter management and yearly GPU roadmap renewal, even when the prior generation still sold well.
+
 [[so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]] adds Nvidia as the named focal point of a possible AI bubble. The [[PlanetMoney]] episode says Nvidia's valuation depends on beliefs about whether AI chips will transform the world, making it hard to separate business strength from bubble risk. [[RobinGreenwood]] treats Nvidia's valuation and volatility as warning signs while noting that other [[StatisticalBubbleIndicators]], especially issuance and acceleration, are weaker.
 
 [[tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128]] adds Nvidia as an investor in [[RedwoodMaterials]]. The [[MarketplaceTech]] episode uses that investment to connect Nvidia's chip-centered AI infrastructure role to the power-storage layer: data centers need energy access and [[SecondLifeEVBatteryStorage]] as well as accelerators.
@@ -75,6 +77,7 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 - The 2026 Marketplace Tech TPU/GPU episode treats Nvidia's moat as both hardware and software: general-purpose accelerator flexibility and ecosystem depth remain valuable even as [[AIChipSpecialization]] grows.
 - EP270 treats Nvidia as the benchmark for [[DomesticAIChipCatchUp]] because the substitution target includes performance, software tools, developer habits, application adaptation, and cost-effective availability.
 - E230 treats Nvidia as an AI-infrastructure company whose strength is no longer reducible to CUDA or one GPU generation, while its risk is that orders must pass through packaging, HBM, interconnect, power, cloud operations, and customer deployment before becoming usable token capacity.
+- S10E16 treats Nvidia as a company that actively tries to self-replace before customers force the shift, contrasting it with [[Intel]]'s missed GPU-era transition.
 - The Planet Money AI-bubble source treats Nvidia as the clearest example of valuation uncertainty around real AI infrastructure demand, not as evidence that the company itself is unsound.
 - The January 29 Marketplace Tech source treats Nvidia's Redwood investment as a power-infrastructure signal, not as evidence that Nvidia itself is becoming a battery company.
 
@@ -105,3 +108,4 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 - [[NvidiaBlackwellPlatform]], [[NvidiaVeraRubinPlatform]], [[NeMoCloud]], [[InferenceAsCashFlow]], [[TokenPerWatt]], [[AIInfrastructureFullStackMoat]], [[GPUCloudOperations]], and [[DataCenterPowerBottleneck]] - platform, software, cloud, and facility constraints added by E230.
 - [[RobinGreenwood]], [[StatisticalBubbleIndicators]], [[AIEquityValuationRisk]], and [[SP500]] - Planet Money bubble-detection and market-concentration context.
 - [[RedwoodMaterials]], [[SecondLifeEVBatteryStorage]], and [[AIEnergyBottleneck]] - power-storage infrastructure branch added by Marketplace Tech.
+- [[DisruptiveInnovation]], [[LargeCompanyOrganizationalInertia]], [[Intel]], [[AndrewGrove]], and [[JensenHuang]] - S10E16's self-disruption and organization branch.

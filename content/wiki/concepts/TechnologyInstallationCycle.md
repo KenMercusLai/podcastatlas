@@ -2,7 +2,7 @@
 title: "Technology Installation Cycle"
 type: concept
 tags: [technology, innovation, cycles, ai]
-sources: [tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]
+sources: [tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]
 last_updated: 2026-08-05
 ---
 
@@ -20,6 +20,8 @@ Applied to AI, the episode places the field closer to an introductory or install
 
 [[tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128]] adds [[DavidKirsch]]'s "infrastructure as timekeeper" version. The source compares AI with railways, electrical distribution, and aviation: infrastructure can be installed, but broad value depends on airports, norms, communications, business models, market design, and organizational routines that may develop more slowly than capital spending.
 
+[[zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]] adds the emotional-history layer. [[WangBo|汪波]] compares present-day surprise, optimism, and fear around [[ChatGPT]] with earlier reactions to telegraph and telephone, while the [[MOSFET]] and [[MooreLaw]] stories show that the installation cycle can begin with both technical skepticism and overlarge social hopes.
+
 ## Key Claims
 - Installation-stage technologies can be technically important before their social, organizational, and investment returns are settled.
 - Early finance and narrative can run ahead of deployment, making [[AIEquityValuationRisk]] compatible with genuine AI progress.
@@ -29,6 +31,7 @@ Applied to AI, the episode places the field closer to an introductory or install
 - Reusable infrastructure can make an installation-stage bubble socially different from a purely speculative collectible boom, even when public-market investors overpay.
 - The installed base matters: [[DarkFiber]] shows how deployment can lag installation by years, turning unused capacity into later economic infrastructure.
 - Kirsch's aviation analogy adds that an early visible use case may be closer to demonstration than mature deployment.
+- Early reactions to a technology can swing between dismissal and utopian expectation before real deployment boundaries become visible.
 
 ## Connections
 - [[CarlotaPerez]] — theorist invoked by the episode for technology-cycle staging.
@@ -39,3 +42,4 @@ Applied to AI, the episode places the field closer to an introductory or install
 - [[AIEconomicDiffusion]], [[AIOrganizationDesign]], and [[AgentNativeSoftware]] — episode 141's productivity-absorption extension.
 - [[ProductiveBubbleSpillovers]], [[DarkFiber]], [[AIComputeContinuity]], and [[DataCenterDebtRisk]] — post-bust infrastructure extensions.
 - [[DavidKirsch]], [[TechBubbleConditions]], and [[AGINarrative]] — Marketplace Tech's historical bubble-score and narrative-risk extension.
+- [[DisruptiveInnovation]], [[MOSFET]], [[MooreLaw]], and [[ChatGPT]] — S10E16's early skepticism and emotional repetition extension.

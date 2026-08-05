@@ -64,6 +64,8 @@ Google is the company context for [[Gemini]], [[GeminiCLI]], and [[GoogleDeepMin
 
 [[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds [[SamAltman]]'s view of Google's missed transformer and AI-search moments. In his account, Google did not fully realize the transformer paper's significance because many architectures were being published, and its layers of management and launch caution made AI product release harder. The same source uses [[ChatGPT]] search to show Google exposed to [[DelegatedWebResearch]] and answer-first search behavior.
 
+[[zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]] adds a parallel [[DisruptiveInnovation]] interpretation. [[WangBo|汪波]] uses Google's transformer and chatbot history to argue that a company can hold important technical assets while its core search cash flow and evaluation system make self-disruption hard.
+
 [[dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun]] adds Google as the comparison case for [[Baidu]]. The hosts argue that both companies began with search strength, but Google found additional strategic positions such as Android and AI while Baidu did not build an equivalent mobile-era or AI-era platform loop.
 
 [[no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376]] makes that mobile-era platform loop concrete through [[Android]]. In the episode, Google's 2005 Android acquisition and the 2008 first Android phone become strategically important because Android gave non-[[Apple]] handset makers an open platform after [[IPhone]] changed user expectations.
@@ -106,6 +108,7 @@ Google is the company context for [[Gemini]], [[GeminiCLI]], and [[GoogleDeepMin
 - The Jared Friedman source treats Google as both the acquirer whose YouTube deal inspired Scribd's "YouTube for documents" idea and the search-distribution layer that later drove Scribd's growth loop.
 - The January 30 Marketplace Tech source treats Google as part of frontier-AI service dependence, not as evidence that any specific Google valuation is settled.
 - The age-verification source treats Google as both a possible platform-level age-assurance gatekeeper and a behavioral-data holder whose signals could classify users by age.
+- S10E16 treats Google's transformer/search position as a cash-cow self-disruption case rather than as a claim that Google lacked AI research ability.
 
 ## Connections
 - [[Scribd]], [[JaredFriedman]], [[PaulBuchheit]], [[SearchDrivenContentGrowth]], and [[YouTube]] - Scribd idea and search-distribution branch added by The Social Radars.
@@ -143,6 +146,7 @@ Google is the company context for [[Gemini]], [[GeminiCLI]], and [[GoogleDeepMin
 - [[FounderFriendlyInvestorSupport]], [[VentureSyndicateOrchestration]], [[RajivMotwani]], and [[SusanWojcicki]] - Conway Part 4 continuation of the Google relationship.
 - [[DavidLieb]], [[Bump]], [[Flock]], [[GooglePhotos]], [[GooglePlus]], and [[LargeCompanyRiskIncentives]] — acquisition, product-persistence, and large-company incentive case added by The Social Radars.
 - [[OpenAI]], [[LanguageModelScalingBet]], [[DelegatedWebResearch]], [[LargeCompanyOrganizationalInertia]], and [[ChatGPT]] - transformer and search critique added by the Sam Altman episode.
+- [[DisruptiveInnovation]], [[WangBo]], and [[Intel]] - S10E16's comparison between technical invention and organization willingness to attack the core business.
 - [[Dropbox]], [[DrewHouston]], [[GooglePhotos]], [[Carousel]], [[Mailbox]], [[IncumbentPlatformPressure]], and [[StrategicFocusUnderIncumbentPressure]] - platform-backed productivity pressure added by the Drew Houston episode.
 - [[DavidKirsch]], [[ChatGPT]], [[Anthropic]], [[TechBubbleConditions]], and [[AIEquityValuationRisk]] - AI service-dependence and bubble-score context added by Marketplace Tech.
 - [[OnlineAgeVerification]], [[BehavioralAgeInference]], [[AgeVerificationPatchwork]], [[Apple]], and [[PlatformDataRegulation]] - age-assurance responsibility and behavioral-inference branch added by Marketplace Tech.
