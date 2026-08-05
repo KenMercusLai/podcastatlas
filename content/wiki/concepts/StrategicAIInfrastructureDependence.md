@@ -2,8 +2,8 @@
 title: "Strategic AI Infrastructure Dependence"
 type: concept
 tags: [ai, infrastructure, chips, cloud, strategy]
-sources: [tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128, tech-20260127-0127-mp-tech-pod-128-tech-20260127-0127-mp-tech-pod-128, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128, tech-20260127-0127-mp-tech-pod-128-tech-20260127-0127-mp-tech-pod-128, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Strategic AI Infrastructure Dependence
@@ -20,6 +20,8 @@ The same source says OpenAI still needs Nvidia's chips and ecosystem, while expl
 
 [[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]] adds the supplier-platform version. [[Nvidia]] can gain leverage by owning a broader [[AIInfrastructureFullStackMoat]], but its customers and partners still depend on [[TSMC]], HBM suppliers, data-center power, GPU clouds, and model-service demand. [[Google]] [[TPU|TPUs]] and [[NeoCloud]] providers become partial diversification routes rather than pure replacements.
 
+[[tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128]] adds the cluster-networking version through [[AmazonWebServices|AWS]] and [[SatishVangala]]. The source shows that AI infrastructure also depends on fibers, high-density connectors, [[OpticalTransponders|optical transponders]], and deployment workflows inside hyperscale networks; chips and power do not become strategic capacity if cluster data movement turns into the bottleneck.
+
 [[tech-20260127-0127-mp-tech-pod-128-tech-20260127-0127-mp-tech-pod-128]] adds the interconnection version through [[Equinix]]'s historic Palo Alto data center. The source shows that AI infrastructure also depends on [[ColocationDataCenter|colocation]] sites and [[NeutralInternetExchange|neutral internet exchanges]] where networks, cloud providers, and enterprise systems can physically meet; chips and power do not become usable services unless data can move through dense network exchange.
 
 [[tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]] adds the post-bust capacity version through [[PaulVixie]] and [[DarkFiber]]. The episode's dot-com analogy suggests that strategic AI infrastructure may look overbuilt before demand catches up, but also that network capacity can become durable leverage when later applications need it.
@@ -33,6 +35,7 @@ The same source says OpenAI still needs Nvidia's chips and ecosystem, while expl
 - Memory capacity can become strategic infrastructure: companies that lock packaging, HBM, DRAM, and NAND earlier may gain a temporary product and model-serving advantage.
 - Chip independence depends on many upstream and downstream dependencies at once; [[ComputeFreedom]] is limited by the weakest link in manufacturing, packaging, tools, power, or software adoption.
 - A full-stack supplier can be powerful and dependent at the same time when its order book relies on customers, foundries, HBM suppliers, cloud operators, and power availability.
+- Cluster networking is part of the dependency stack: processors need physical fiber, connectors, transponders, and reliable deployment workflows before they can become useful AI capacity.
 - Network interconnection is part of the dependency stack: AI capacity still needs physical exchange points, fiber, colocation facilities, and neutral places where many networks can route traffic.
 - Post-bust network capacity can become strategic infrastructure when later AI, cloud, or media workloads have enough demand to use it.
 
@@ -43,5 +46,6 @@ The same source says OpenAI still needs Nvidia's chips and ecosystem, while expl
 - [[MemoryCapacityLockIn]], [[AIStorageSupercycle]], [[HighBandwidthMemory]], [[TSMC]], [[Google]], [[Huawei]], and [[Alibaba]] - memory and packaging dependence added by What's Next.
 - [[DomesticAIChipCatchUp]], [[ElectronicDesignAutomation]], [[PhotolithographyBottleneck]], [[AdvancedPackaging]], and [[SupplyChainSovereignty]] — EP270's semiconductor-chain dependence branch.
 - [[AIInfrastructureFullStackMoat]], [[NvidiaBlackwellPlatform]], [[NvidiaVeraRubinPlatform]], [[NeoCloud]], [[GPUCloudOperations]], and [[DataCenterPowerBottleneck]] - E230's supplier-platform dependence branch.
+- [[AmazonWebServices|AWS]], [[SatishVangala]], [[AIClusterNetworking]], [[FiberConnectorDeployment]], and [[OpticalTransponders]] - cluster-networking hardware branch added by Marketplace Tech.
 - [[Equinix]], [[PaloAltoInternetExchange]], [[ColocationDataCenter]], and [[NeutralInternetExchange]] - interconnection and colocation branch added by Marketplace Tech.
 - [[PaulVixie]], [[DarkFiber]], and [[ProductiveBubbleSpillovers]] - post-bust capacity branch added by the next Marketplace Tech episode.

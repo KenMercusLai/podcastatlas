@@ -2,8 +2,8 @@
 title: "AI Compute Continuity"
 type: concept
 tags: [ai, infrastructure, reliability]
-sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
-last_updated: 2026-08-04
+sources: [tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
+last_updated: 2026-08-05
 ---
 
 # AI Compute Continuity
@@ -34,6 +34,8 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 
 [[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]] adds the order-delivery version. Even if [[Nvidia]] has demand for [[NvidiaBlackwellPlatform|Blackwell]] and [[NvidiaVeraRubinPlatform|Vera Rubin]], compute continuity depends on [[AdvancedPackaging]], [[HighBandwidthMemory]], interconnect, GPU-cloud operations, firmware, SLA, land, power, and onsite generation turning systems into reliable model service.
 
+[[tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128]] adds the cluster-networking version through [[AmazonWebServices|AWS]]'s networking hardware lab. [[SatishVangala]]'s fiber, connector, and [[OpticalTransponders|transponder]] examples show that compute continuity can fail or slow at the data-movement layer even when processors exist; deployment speed and network resilience decide whether AI clusters become reliable capacity.
+
 [[tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]] adds a historical network-capacity reminder through [[DarkFiber]]. The episode does not say dark fiber solves AI compute continuity, but it shows that capacity installed ahead of demand can later become an enabling layer when applications finally arrive.
 
 [[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] adds the orbital-compute version. If ground data centers are blocked by power, approval, or cooling, [[SpaceBasedAIInfrastructure]] may look like a continuity alternative; the source keeps that conditional on [[OrbitalDataCenterEconomics]], [[OrbitalDataCenterThermalManagement]], launch cadence, communications, and orbital governance.
@@ -55,6 +57,7 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 - Memory and storage continuity matter alongside GPU availability: HBM, DRAM, NAND, CXL pooling, and packaging decide whether accelerators can stay fed with data.
 - Domestic compute continuity requires a working [[SemiconductorSupplyChain]] loop, not only imported accelerators or one-off domestic chips.
 - Platform demand is not continuity by itself; booked systems still need packaging, memory, switches, power, cooling, and operating teams before they become available tokens.
+- Cluster networking can bind compute continuity if fiber, connectors, transponders, deployment workflows, or reliability cannot keep pace with AI cluster demand.
 - Network capacity can be latent rather than useless: dark fiber became useful only after later services created enough traffic and economics to light it.
 - Orbital compute can diversify the physical location of AI capacity, but only by adding new dependencies on launch, satellite operations, radiative cooling, and space-traffic governance.
 
@@ -76,5 +79,6 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 - [[AIStorageSupercycle]], [[MemoryWall]], [[HighBandwidthMemory]], and [[MemoryCapacityLockIn]] — memory-supply extension added by What's Next.
 - [[ComputeFreedom]], [[DomesticAIChipCatchUp]], [[ElectronicDesignAutomation]], [[PhotolithographyBottleneck]], and [[AdvancedPackaging]] — semiconductor-chain continuity branch added by EP270.
 - [[NvidiaBlackwellPlatform]], [[NvidiaVeraRubinPlatform]], [[GPUCloudOperations]], [[NeoCloud]], [[DataCenterPowerBottleneck]], and [[TokenPerWatt]] - E230's order-to-token continuity branch.
+- [[AmazonWebServices|AWS]], [[SatishVangala]], [[AIClusterNetworking]], [[FiberConnectorDeployment]], and [[OpticalTransponders]] - cluster-networking continuity branch added by Marketplace Tech.
 - [[DarkFiber]], [[PaulVixie]], and [[ProductiveBubbleSpillovers]] - historical network-capacity analogy added by Marketplace Tech.
 - [[SpaceBasedAIInfrastructure]], [[OrbitalDataCenterEconomics]], [[OrbitalDataCenterThermalManagement]], and [[OrbitalComputeGovernance]] - orbital-compute continuity branch added by E239.

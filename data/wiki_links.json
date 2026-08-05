@@ -907,6 +907,10 @@
     "title": "AI Chip Specialization",
     "url": "/wiki/concepts/aichipspecialization/"
   },
+  "AIClusterNetworking": {
+    "title": "AI Cluster Networking",
+    "url": "/wiki/concepts/aiclusternetworking/"
+  },
   "AICodingGuardrails": {
     "title": "AI Coding Guardrails",
     "url": "/wiki/concepts/aicodingguardrails/"
@@ -9370,6 +9374,10 @@
   "FiatChryslerAutomobiles": {
     "title": "Fiat Chrysler Automobiles",
     "url": "/wiki/entities/fiatchryslerautomobiles/"
+  },
+  "FiberConnectorDeployment": {
+    "title": "Fiber Connector Deployment",
+    "url": "/wiki/concepts/fiberconnectordeployment/"
   },
   "FictionAsHistoricalEvidence": {
     "title": "Fiction As Historical Evidence",
@@ -18659,6 +18667,10 @@
     "title": "Optical Tactile Sensing",
     "url": "/wiki/concepts/opticaltactilesensing/"
   },
+  "OpticalTransponders": {
+    "title": "Optical Transponders",
+    "url": "/wiki/concepts/opticaltransponders/"
+  },
   "OptimismGap": {
     "title": "Optimism Gap",
     "url": "/wiki/concepts/optimismgap/"
@@ -22174,6 +22186,10 @@
   "SatiricalGroupPortrait": {
     "title": "Satirical Group Portrait",
     "url": "/wiki/concepts/satiricalgroupportrait/"
+  },
+  "SatishVangala": {
+    "title": "Satish Vangala",
+    "url": "/wiki/entities/satishvangala/"
   },
   "SatoshiNakamoto": {
     "title": "Satoshi Nakamoto",
@@ -29494,6 +29510,10 @@
   "tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128": {
     "title": "Bytes: Week in Review - SpaceX eyes an IPO, community members want legal commitments from Micron, and YouTube to ditch AI slop",
     "url": "/wiki/sources/tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128/"
+  },
+  "tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128": {
+    "title": "Raising the \\\"speed limit\\\" on AI's \\\"information highway\\\"",
+    "url": "/wiki/sources/tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128/"
   },
   "tech-20260127-0127-mp-tech-pod-128-tech-20260127-0127-mp-tech-pod-128": {
     "title": "A historic home tour of the virtual world",

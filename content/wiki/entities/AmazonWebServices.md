@@ -2,11 +2,13 @@
 title: "Amazon Web Services"
 type: entity
 tags: [company, cloud, ai, startup-program]
-sources: [tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Amazon Web Services
+
+[[tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128]] adds AWS as an AI networking infrastructure operator through a [[MarketplaceTech]] visit to its networking hardware lab in Cupertino. [[SatishVangala]] explains AWS's network as an information highway for AI clusters, using fiber scale, dense connector design, and [[OpticalTransponders|optical transponders]] to show that usable AI capacity depends on [[AIClusterNetworking]] as well as chips and data centers.
 
 [[tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128]] adds AWS as the profitability comparison inside [[SarahKunst]]'s explanation of [[PathToProfitability]]. She contrasts Amazon's higher-margin cloud business with lower-margin marketplace, warehouse, logistics, and shipping operations to show why investors may tolerate years of losses when a credible future profit engine becomes visible.
 
@@ -23,3 +25,4 @@ Amazon Web Services appears in [[1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-
 - [[OnePersonCompany]], [[AICommercializationPressure]], and [[BuildingPublic]] — startup themes the program is positioned around in the source.
 - [[PaulVixie]], [[DarkFiber]], and [[MarketplaceTech]] — affiliation and infrastructure-history branch added by the 2026-01-28 episode.
 - [[DualUseTechInfrastructureTargeting]], [[DigitalInfrastructureWarRisk]], [[Iran]], and [[USDepartmentOfDefense]] - Middle East cloud-infrastructure exposure branch added by Marketplace Tech.
+- [[SatishVangala]], [[AIClusterNetworking]], [[FiberConnectorDeployment]], and [[OpticalTransponders]] - networking hardware branch added by the 2026-01-26 Marketplace Tech lab tour.
