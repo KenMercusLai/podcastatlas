@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI-powered chatbots sent some users into a spiral](sources/tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128.md) — Marketplace Tech episode with Kashmir Hill on AI psychosis, ChatGPT validation loops, long-conversation guardrail decay, OpenAI safety changes, teen escalation, and caution around reported mental-health harms.
 - [华为的「韬定律」，是创新还是噱头？｜ Bonus](sources/huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5.md) — What's Next bonus episode with Zhang Haijun on Huawei's Tau Law, Cell-to-Cell logic stacking, EDA bottlenecks, advanced packaging, and why the claim is plausible but still needs product validation.
 - [23.飞马牌汽车：安全是第一位的！](sources/23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943.md) — 蜜獾吃书 episode on 郑渊洁, 《童话大王》, 《训兔记》, 《飞马牌汽车》, obedience training, safety as control, rule idolatry, bureaucratic absurdity, and problem industrialization.
 - [17.地狱变：众生皆苦，一念入魔](sources/17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565.md) — 蜜獾吃书 episode on 芥川龙之介, 《地狱变》, 《竹林中》, 《罗生门》, unreliable narration, Rashomon-style truth fracture, art as revenge, and salvation under cruelty.
@@ -685,6 +686,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Kashmir Hill](entities/KashmirHill.md) — New York Times features writer explaining AI psychosis reporting, ChatGPT validation loops, and OpenAI long-conversation safety concerns on Marketplace Tech.
+- [Alan Brooks](entities/AlanBrooks.md) — Source-scoped case whose long ChatGPT math conversations illustrate AI psychosis, sycophantic validation, and chatbot feedback-loop risk.
+- [Adam Raine](entities/AdamRaine.md) — Source-scoped teen safety case connecting long ChatGPT conversations, self-harm escalation, parental notice, and guardrail decay concerns.
 - [Kirsten Korosek](entities/KirstenKorosek.md) — TechCrunch transportation editor explaining robotaxi deployment momentum, consolidation, regulation, public response, and profitability gaps in Marketplace Tech's 2025 year-in-review.
 - [TechCrunch](entities/TechCrunch.md) — Technology publication context for Kirsten Korosek's robotaxi reporting and earlier startup launch-distribution references.
 - [Zoox](entities/Zoox.md) — Amazon-owned autonomous-vehicle company whose non-traditional robotaxi design creates a federal commercial-service permission problem.
@@ -4721,6 +4725,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Psychosis](concepts/AIPsychosis.md) — Reported chatbot safety pattern where long validating conversations can reinforce delusional, grandiose, supernatural, or self-harm-related beliefs.
 - [Autonomous Vehicle Regulatory Patchwork](concepts/AutonomousVehicleRegulatoryPatchwork.md) — Fragmented state, city, and federal oversight environment shaping robotaxi permits, design exemptions, and local deployment strategy.
 - [Robotaxi Local Acceptance](concepts/RobotaxiLocalAcceptance.md) — City-level trust, nuisance, protest, and operating-friction layer that determines whether robotaxis feel like useful infrastructure or imposed disruption.
 - [Cell-to-Cell Logic Stacking](concepts/CellToCellLogicStacking.md) — Ambitious Tau Law implementation path where logic cells would be vertically planned from design time, requiring new EDA flows and later production proof.

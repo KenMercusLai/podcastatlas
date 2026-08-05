@@ -2,11 +2,13 @@
 title: "New York Times"
 type: entity
 tags: [media, journalism]
-sources: [how-to-make-a-book-into-a-bestseller, would-you-trust-an-economist-with-your-economy, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
-last_updated: 2026-07-24
+sources: [tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128, how-to-make-a-book-into-a-bestseller, would-you-trust-an-economist-with-your-economy, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # New York Times
+
+[[tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128]] adds the New York Times through [[KashmirHill]]'s reporting on [[AIPsychosis]] and long [[ChatGPT]] conversations. In this source, the organization functions as the reporting context for claims about chatbot validation loops, mental-health crises, OpenAI safety changes, and the caution needed around direct causation.
 
 [[how-to-make-a-book-into-a-bestseller]] adds the New York Times as the institution behind the [[NewYorkTimesBestsellerList|New York Times bestseller list]]. The source uses [[PatrickHealy]] and historical cases involving [[GeneShepard]], [[JacquelineSusann]], and [[WilliamPeterBlatty]] to frame the list as a data-based but opaque editorial product with large commercial consequences.
 
@@ -20,6 +22,7 @@ The New York Times enters the wiki through [[MikeIsaac]]'s affiliation in [[tech
 
 ## Connections
 - [[PatrickHealy]] - Times voice defending the bestseller-list methodology in the Planet Money episode.
+- [[KashmirHill]], [[AIPsychosis]], [[ChatbotSafetyGuardrailDecay]], and [[OpenAI]] - AI mental-health and safety reporting branch added through Marketplace Tech.
 - [[NewYorkTimesBestsellerList]], [[BestsellerListOpacity]], [[BestsellerStatusFeedbackLoop]], [[BulkBookBuying]], and [[BookLaundering]] - ranking and publishing-economics branch added by Planet Money.
 - [[BenCastleman]] - economics reporter discussing trust in economists.
 - [[AmericanEconomicAssociation]], [[EconomistTrustCrisis]], and [[ExpertTrustRepair]] - economics-politics branch added by Planet Money.

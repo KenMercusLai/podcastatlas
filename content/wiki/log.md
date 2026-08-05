@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-05] ingest | AI-powered chatbots sent some users into a spiral
+
+Added source page for a Marketplace Tech episode with Megan McCarty-Carino interviewing Kashmir Hill of the New York Times about AI psychosis, ChatGPT validation loops, long-conversation guardrail decay, reported mental-health crises, OpenAI safety changes, teen escalation, and caution around causation. Created pages for Kashmir Hill, Alan Brooks, Adam Raine, and AI Psychosis; updated overview, index, Marketplace Tech, Megan McCarty-Corino, ChatGPT, OpenAI, New York Times, Chatbot Safety Guardrail Decay, Sycophantic AI Companion Risk, Teen Chatbot Mental Health Risk, AI Companion Attention Risk, How We Survive, and American Public Media. No direct contradiction found; the source reinforces the existing teen chatbot mental-health source while broadening the risk from report simulations to long real-world conversations.
+
 ## [2026-08-05] ingest | How botnets infiltrate the internet of things
 
 Added source page for a Marketplace Tech episode with Stephanie Hughes interviewing Brian Krebs of Krebs on Security about KimWolf, compromised TV boxes, routers, botnets, proxy networks, DDoS amplification, command-and-control, and router replacement advice. Created pages for Brian Krebs, Krebs on Security, KimWolf Botnet, IoT Botnet Risk, Pirated Streaming Box Malware, Malicious Proxy Networks, Home Router Security Lifecycle, DDoS Attack Amplification, and Command-and-Control Infrastructure; updated overview, index, Marketplace Tech, Stephanie Hughes, U.S. Department of Justice, Banking DDoS Resilience, How We Survive, and Amy Scott. No direct contradiction found; the source extends existing DDoS material by adding the consumer-device supply side and the practical lifecycle problem of old routers.
@@ -5460,6 +5464,10 @@ Ran lint after health passed. Health scanned 7,682 wiki pages with no empty/stub
 ## [2026-08-05] ingest | Robotaxis moved into the fast lane in 2025
 
 Added source page for a Marketplace Tech episode with Kirsten Korosek of TechCrunch on the 2025 robotaxi deployment wave. Created pages for Kirsten Korosek, TechCrunch, Zoox, Wayve, AV Ride, WeRide, Pony.ai, Autonomous Vehicle Regulatory Patchwork, and Robotaxi Local Acceptance; updated overview, index, Marketplace Tech, Waymo, Tesla, Uber, Amazon, Momenta, California, Texas, Arizona, Robotaxi Economics, Envelope Expansion Deployment, and Path To Profitability. No direct contradiction found; the source reinforces robotaxi deployment momentum while qualifying it with unresolved profitability, fragmented regulation, city acceptance, and 2026 global competition questions.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-05] lint | Wiki health check
 

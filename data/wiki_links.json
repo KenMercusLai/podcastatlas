@@ -1315,6 +1315,10 @@
     "title": "AI Proxy Scraping Risk",
     "url": "/wiki/concepts/aiproxyscrapingrisk/"
   },
+  "AIPsychosis": {
+    "title": "AI Psychosis",
+    "url": "/wiki/concepts/aipsychosis/"
+  },
   "AIPublicLikenessGeneration": {
     "title": "AI Public Likeness Generation",
     "url": "/wiki/concepts/aipubliclikenessgeneration/"
@@ -1690,6 +1694,10 @@
   "AdamGoldstein": {
     "title": "Adam Goldstein",
     "url": "/wiki/entities/adamgoldstein/"
+  },
+  "AdamRaine": {
+    "title": "Adam Raine",
+    "url": "/wiki/entities/adamraine/"
   },
   "AdamRosendorff": {
     "title": "Adam Rosendorff",
@@ -2078,6 +2086,10 @@
   "Alabama": {
     "title": "Alabama",
     "url": "/wiki/entities/alabama/"
+  },
+  "AlanBrooks": {
+    "title": "Alan Brooks",
+    "url": "/wiki/entities/alanbrooks/"
   },
   "AlanGreenspan": {
     "title": "Alan Greenspan",
@@ -14386,6 +14398,10 @@
   "KashishGupta": {
     "title": "Kashish Gupta",
     "url": "/wiki/entities/kashishgupta/"
+  },
+  "KashmirHill": {
+    "title": "Kashmir Hill",
+    "url": "/wiki/entities/kashmirhill/"
   },
   "KateCrawford": {
     "title": "Kate Crawford",
@@ -29930,6 +29946,10 @@
   "tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128": {
     "title": "Robotaxis moved into the fast lane in 2025",
     "url": "/wiki/sources/tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128/"
+  },
+  "tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128": {
+    "title": "AI-powered chatbots sent some users into a spiral",
+    "url": "/wiki/sources/tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128/"
   },
   "tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128": {
     "title": "A tech company that 'happens to build homes'",
