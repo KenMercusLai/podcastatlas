@@ -2,13 +2,15 @@
 title: "Virtual Asset AML Risk"
 type: concept
 tags: [crypto, finance, compliance, aml]
-sources: [how-to-get-through-the-strait-of-hormuz, tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, socialradarspod-brianarmstrong-final]
-last_updated: 2026-07-24
+sources: [tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, how-to-get-through-the-strait-of-hormuz, tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, socialradarspod-brianarmstrong-final]
+last_updated: 2026-08-05
 ---
 
 # Virtual Asset AML Risk
 
 Virtual asset AML risk is the use of crypto assets, stablecoins, exchanges, miners, wallets, or conversion services as one layer in a broader laundering or fund-transfer chain. [[ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr]] treats virtual assets as neither magic anonymity nor automatically suspicious; their risk comes from identity opacity, cross-border liquidity, conversion routes, and combination with other assets.
+
+[[tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128]] adds the state-custody version through [[Arizona]]. [[LizFarmer]] says Arizona's reserve lets the state hold seized digital assets instead of converting them immediately to cash. That turns virtual-asset risk into a public custody and property-preservation question, not only a suspicious-flow question: officials need legal authority, secure custody, valuation, and source-of-funds awareness.
 
 [[tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128]] adds a municipal defense of Bitcoin adoption through [[MicheleFolletti]] of [[Lugano]]. Asked whether the city could become a crime magnet, Folletti argues that mafia groups prefer fiat and cash because cash is more anonymous. The page treats this as an official argument inside [[CryptoPublicLegitimacy]], not as a settled finding that Bitcoin creates no AML exposure.
 
@@ -29,9 +31,11 @@ Virtual asset AML risk is the use of crypto assets, stablecoins, exchanges, mine
 - For exchange operators, virtual-asset AML risk can block core user features such as bank-funded purchases unless the company can explain its controls to banks and regulators.
 - AML risk can rise even when lawful adoption grows faster, because larger rails create more absolute space for sanctioned actors, hackers, and scam networks.
 - Public officials may answer crypto-crime concerns by comparing Bitcoin traceability with cash anonymity, but that is a legitimacy argument rather than a complete AML analysis.
+- Seized digital assets can create public custody and source-of-funds obligations even when the state is preserving property rather than making a new investment.
 
 ## Connections
 - [[AntiMoneyLaundering]] — compliance frame for suspicious virtual-asset flows.
+- [[Arizona]], [[SeizedDigitalAssetCustody]], [[StateCryptoReserves]], and [[LizFarmer]] - state-custody branch added by the April 14 Marketplace Tech episode.
 - [[Lugano]], [[MicheleFolletti]], [[MunicipalBitcoinAdoption]], and [[CryptoPublicLegitimacy]] - municipal Bitcoin adoption and crime-risk defense added by Marketplace Tech.
 - [[BitcoinSafeHavenBehavior]] and [[CrossBorderCryptoCapitalFlight]] - reputational and portability branches added by the March 12 Marketplace Tech episode.
 - [[MoneyLaunderingStages]] — virtual assets may appear during layering or integration.

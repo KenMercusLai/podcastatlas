@@ -2,11 +2,13 @@
 title: "How We Survive"
 type: entity
 tags: [podcast, climate, marketplace]
-sources: [tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+sources: [tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
 last_updated: 2026-08-05
 ---
 
 # How We Survive
+
+[[tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128]] adds another closing promo context after the main [[MarketplaceTech]] episode on [[StateCryptoReserves]] and [[PublicCryptoInvestmentRisk]]. The promo again points to [[AmyScott]]'s climate-solutions reporting on geoengineering, stratospheric balloons, sunshades, and a possible space economy, while the main episode remains focused on public crypto investment risk.
 
 [[tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128]] adds another promo context after a [[MarketplaceTech]] episode on [[MyceliumInsulation]] and [[BiodegradableFoamPackaging]]. The promo again positions [[AmyScott]]'s show as Marketplace's deeper climate-solutions venue.
 
@@ -35,6 +37,7 @@ In this source, How We Survive functions as a bridge from a concise technology s
 - [[Apple]], [[Meta]], and [[Roblox]] - main episode topics attached to the April 24 promo context.
 - [[EmbodiedCarbonBuildingCode]] and [[LowCarbonConstructionMaterials]] - construction-carbon climate-solution branch promoted beside the show.
 - [[HumanAuthorshipPremium]] and [[AIContentProvenance]] - main episode context adjacent to the April 13 promo.
+- [[StateCryptoReserves]] and [[PublicCryptoInvestmentRisk]] - main April 14 episode context adjacent to the promo.
 - [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]], [[DirectAirCapture]], and [[CarbonRemoval]] - main topic promoted from the episode.
 - [[ClimateStartupCommercializationGap]] and [[CarbonRemovalMoralHazard]] - deeper questions the source points toward.
 - [[ElectricVehiclePriceParity]] and [[EconomicClimateTechAdoption]] - adjacent climate-economics branch in the EV episode.

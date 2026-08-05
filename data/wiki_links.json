@@ -2887,6 +2887,10 @@
     "title": "亚里士多德《诗学》第二卷 / Aristotle's Poetics Book II",
     "url": "/wiki/entities/aristotlepoeticsbooktwo/"
   },
+  "Arizona": {
+    "title": "Arizona",
+    "url": "/wiki/entities/arizona/"
+  },
   "ArkadyOstrovsky": {
     "title": "Arkady Ostrovsky",
     "url": "/wiki/entities/arkadyostrovsky/"
@@ -15419,6 +15423,10 @@
     "title": "立信会计",
     "url": "/wiki/entities/lixinaccounting/"
   },
+  "LizFarmer": {
+    "title": "Liz Farmer",
+    "url": "/wiki/entities/lizfarmer/"
+  },
   "LizanSports": {
     "title": "力赞体育 / Lizan Sports",
     "url": "/wiki/entities/lizansports/"
@@ -17943,6 +17951,10 @@
     "title": "New England Revolution",
     "url": "/wiki/entities/newenglandrevolution/"
   },
+  "NewHampshire": {
+    "title": "New Hampshire",
+    "url": "/wiki/entities/newhampshire/"
+  },
   "NewMexico": {
     "title": "New Mexico",
     "url": "/wiki/entities/newmexico/"
@@ -19519,6 +19531,10 @@
     "title": "Peugeot / 标志",
     "url": "/wiki/entities/peugeot/"
   },
+  "PewCharitableTrusts": {
+    "title": "Pew Charitable Trusts",
+    "url": "/wiki/entities/pewcharitabletrusts/"
+  },
   "PewResearchCenter": {
     "title": "Pew Research Center",
     "url": "/wiki/entities/pewresearchcenter/"
@@ -20534,6 +20550,10 @@
   "PublicCompanyTransition": {
     "title": "Public Company Transition",
     "url": "/wiki/concepts/publiccompanytransition/"
+  },
+  "PublicCryptoInvestmentRisk": {
+    "title": "Public Crypto Investment Risk",
+    "url": "/wiki/concepts/publiccryptoinvestmentrisk/"
   },
   "PublicDomainReuse": {
     "title": "Public Domain Reuse",
@@ -22535,6 +22555,10 @@
     "title": "Seiko",
     "url": "/wiki/entities/seiko/"
   },
+  "SeizedDigitalAssetCustody": {
+    "title": "Seized Digital Asset Custody",
+    "url": "/wiki/concepts/seizeddigitalassetcustody/"
+  },
   "SekigaharaBattle": {
     "title": "Battle of Sekigahara / 关原合战",
     "url": "/wiki/entities/sekigaharabattle/"
@@ -22642,6 +22666,10 @@
   "SepahNavy": {
     "title": "Sepah Navy",
     "url": "/wiki/entities/sepahnavy/"
+  },
+  "SeparateCryptoReserveFund": {
+    "title": "Separate Crypto Reserve Fund",
+    "url": "/wiki/concepts/separatecryptoreservefund/"
   },
   "SeparationOfPowers": {
     "title": "Separation Of Powers",
@@ -23950,6 +23978,10 @@
   "StateBackedRareEarthRebuilding": {
     "title": "State-Backed Rare Earth Rebuilding",
     "url": "/wiki/concepts/statebackedrareearthrebuilding/"
+  },
+  "StateCryptoReserves": {
+    "title": "State Crypto Reserves",
+    "url": "/wiki/concepts/statecryptoreserves/"
   },
   "StateOwnedEnterpriseSocialValue": {
     "title": "State-Owned Enterprise Social Value",
@@ -29818,6 +29850,10 @@
   "tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128": {
     "title": "Is \\\"made by humans\\\" the new premium label?",
     "url": "/wiki/sources/tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128/"
+  },
+  "tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128": {
+    "title": "States are getting crypto-curious",
+    "url": "/wiki/sources/tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128/"
   },
   "tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128": {
     "title": "One way to avoid AI altogether? Retire early",

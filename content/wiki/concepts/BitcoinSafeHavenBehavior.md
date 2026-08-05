@@ -2,8 +2,8 @@
 title: "Bitcoin Safe-Haven Behavior"
 type: concept
 tags: [bitcoin, crypto, investing, geopolitics, risk]
-sources: [tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Bitcoin Safe-Haven Behavior
@@ -14,12 +14,15 @@ The episode's key distinction is timing and mechanism. [[GilLuria]] says Bitcoin
 
 [[tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128]] adds a consumer-confidence qualification. [[DaveReibstein]] says many consumers do not really treat crypto as currency; they view it more like a risky stock or gamble money. That makes [[CryptoConsumerConfidence]] relevant to price demand, but it also weakens any simple claim that crypto is already trusted as safe everyday money.
 
+[[tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128]] adds a state-reserve qualification. [[LizFarmer]] says some state officials see crypto as a possible diversification tool and downturn hedge, but she also says no state has yet faced a scenario where it used a Bitcoin strategic reserve. That keeps [[StateCryptoReserves]] as a hypothesis about future crisis utility rather than evidence that Bitcoin already behaves as a public safe haven.
+
 ## Key Claims
 - Safe-haven status requires investor trust, not only scarcity or non-government issuance.
 - Bitcoin's volatility weakens its claim to be a stable refuge in acute geopolitical stress.
 - A longer crisis can support Bitcoin demand through inflation fears, currency depreciation, and demand for assets outside domestic systems.
 - Bitcoin can be more useful as portable wealth than as a low-volatility safe asset.
 - Consumer confidence can amplify crypto demand without proving safe-haven trust.
+- State reserve laws can assume Bitcoin will be useful in fiscal stress without yet proving that assumption through actual reserve use.
 
 ## Connections
 - [[Bitcoin]] and [[DigitalGold]] - asset and narrative being tested.
@@ -28,3 +31,4 @@ The episode's key distinction is timing and mechanism. [[GilLuria]] says Bitcoin
 - [[Iran]] and [[UnitedStates]] - geopolitical trigger in the episode.
 - [[CrossBorderCryptoCapitalFlight]] - alternative crisis utility beyond immediate price stability.
 - [[InvestmentRiskManagement]] - risk frame for handling Bitcoin's volatility.
+- [[StateCryptoReserves]] and [[PublicCryptoInvestmentRisk]] - state-level reserve and taxpayer-risk branch added by Marketplace Tech.

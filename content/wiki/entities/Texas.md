@@ -1,12 +1,14 @@
 ---
 title: "Texas"
 type: entity
-tags: [place, state, energy, climate, carbon-removal, ai-policy]
-sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+tags: [place, state, energy, climate, carbon-removal, ai-policy, crypto]
+sources: [tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
 last_updated: 2026-08-05
 ---
 
 # Texas
+
+[[tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128]] adds Texas to the [[StateCryptoReserves]] branch. [[LizFarmer]] of the [[PewCharitableTrusts]] says the Texas Strategic Bitcoin Reserve and similar proposals create [[SeparateCryptoReserveFund|separate funds]] outside the general operating fund, a structure intended to limit direct exposure of routine taxpayer spending to [[Bitcoin]] volatility.
 
 Texas appears in [[tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]] as the site of a [[DirectAirCapture]] hub backed by [[OccidentalPetroleum|Occidental Petroleum]]. [[AaronBurns]] of [[Carbon180]] says [[UnitedStatesCongress|Congress]] protected that hub along with a planned [[Louisiana]] project even as other carbon-removal funding was rescinded.
 
@@ -20,3 +22,4 @@ The source uses Texas as the fossil-fuel-backed contrast case. Support from an o
 - [[DirectAirCapture]], [[CarbonRemoval]], [[CarbonRemovalPoliticalDurability]], and [[CarbonRemovalMoralHazard]] - technology and legitimacy frame.
 - [[Louisiana]] - protected hub comparison.
 - [[StateAIRegulationPatchwork]], [[FederalAIPreemption]], and [[AIGovernanceAndCompliance]] - state AI disclosure branch added by Marketplace Tech.
+- [[StateCryptoReserves]], [[SeparateCryptoReserveFund]], [[PublicCryptoInvestmentRisk]], [[Bitcoin]], [[LizFarmer]], and [[PewCharitableTrusts]] - state crypto reserve branch added by Marketplace Tech.

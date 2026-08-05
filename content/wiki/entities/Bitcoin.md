@@ -2,11 +2,13 @@
 title: "Bitcoin"
 type: entity
 tags: [asset, cryptocurrency]
-sources: [tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128, tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, socialradarspod-brianarmstrong-final, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg]
-last_updated: 2026-07-23
+sources: [tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128, tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, socialradarspod-brianarmstrong-final, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg]
+last_updated: 2026-08-05
 ---
 
 # Bitcoin
+
+[[tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128]] adds Bitcoin as a possible public reserve asset through state-level crypto laws. [[LizFarmer]] of the [[PewCharitableTrusts]] says [[Texas]] is framed around a separate Bitcoin reserve, while the episode treats the broader [[StateCryptoReserves]] idea as untested: no state has yet had to use a Bitcoin reserve during a downturn. That keeps Bitcoin's public-finance role tied to [[PublicCryptoInvestmentRisk]], [[SeparateCryptoReserveFund]], and the existing caution around [[BitcoinSafeHavenBehavior]].
 
 [[tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128]] adds Bitcoin as an everyday-payment experiment through [[Lugano]] and [[LuganoPlanB|Plan B]]. The episode shows [[MunicipalBitcoinAdoption]] in shops, restaurants, and city services, while [[CryptoPaymentPracticalityGap]] keeps the claim bounded: transport, fuel, bills, dentists, and some medical services remain hard to cover. It also adds [[CryptoPublicLegitimacy]] because local skepticism and the damaged [[SatoshiNakamoto]] statue show that public acceptance can lag official promotion.
 
@@ -23,6 +25,7 @@ Bitcoin appears in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren
 [[vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg]] adds Bitcoin to the [[AssetScarcityPremium]] frame. The source groups Bitcoin with gold and other finite-supply assets as possible space-scarcity examples, while warning that scarcity can be weakened by substitute assets or belief changes and does not remove volatility or [[InvestmentRiskManagement]] needs.
 
 ## Connections
+- [[StateCryptoReserves]], [[PublicCryptoInvestmentRisk]], [[SeparateCryptoReserveFund]], [[Texas]], [[Arizona]], [[NewHampshire]], [[LizFarmer]], and [[PewCharitableTrusts]] - state reserve and public-finance branch added by the April 14 Marketplace Tech episode.
 - [[CryptoConsumerConfidence]], [[DaveReibstein]], and [[WhartonSchool]] - consumer confidence, price feedback, and risky-stock framing added by the March 16 Marketplace Tech episode.
 - [[Lugano]], [[LuganoPlanB|Plan B]], [[MunicipalBitcoinAdoption]], [[CryptoPaymentPracticalityGap]], and [[CryptoPublicLegitimacy]] - city-level payment experiment added by the January 14 Marketplace Tech episode.
 - [[GilLuria]], [[DADavidson|D.A. Davidson]], [[MarketplaceTech]], and [[StephanieHughes]] - March 12, 2026 crisis-asset discussion.
