@@ -2,13 +2,15 @@
 title: "Economic Way Of Thinking"
 type: concept
 tags: [economics, reasoning, decision-making, education]
-sources: [live-anthropic-co-founder-on-ai-and-jobs, the-laws-of-the-office-revisited, planet-money-vs-the-nbas-tanking-problem, dont-hate-the-replicator-hate-the-game, would-you-trust-an-economist-with-your-economy, inside-a-book-auction, 155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]
-last_updated: 2026-07-25
+sources: [79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, live-anthropic-co-founder-on-ai-and-jobs, the-laws-of-the-office-revisited, planet-money-vs-the-nbas-tanking-problem, dont-hate-the-replicator-hate-the-game, would-you-trust-an-economist-with-your-economy, inside-a-book-auction, 155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]
+last_updated: 2026-08-06
 ---
 
 # Economic Way Of Thinking
 
 Economic way of thinking is the reasoning style added by [[61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]] through [[TheEconomicWayOfThinking|《经济学的思维方式》 / The Economic Way of Thinking]]. The episode treats economics as a general habit of asking what order is being produced, what tradeoffs are hidden, what information is missing, and how different people can still cooperate.
+
+[[79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262]] adds a contract-theory version through [[YiQieJieQiyue|《一切皆契约》]]. It reinforces the wiki's economics branch by showing how [[ContractTheory]], [[InformationAsymmetryInContracts]], [[SignalDesign]], and [[WorkplaceIncentiveDesign]] can explain leader complaints, workplace shirking, degree competition, publishing discounts, compensation design, and internal marketization without reducing them to moral blame.
 
 The concept matters because the source refuses two weak versions of economics: formula intimidation for beginners and slogan certainty for public problems. [[LiangJie|梁杰]] presents economics as a way to stay clear about costs, incentives, constraints, and consequences while still admitting that real social life rarely has one simple answer.
 
@@ -42,6 +44,7 @@ The concept matters because the source refuses two weak versions of economics: f
 - The office-laws source adds that economic thinking can diagnose everyday management failure by asking how metrics, deadlines, promotions, and social proof change behavior.
 - The book-auction source adds that cultural products can be analyzed through incentives and constraints without reducing creative value to money alone.
 - The live book-tour source adds that the same reasoning can connect AI productivity, cyber public goods, price allocation, and housing voice as institutional-design problems.
+- Episode 79 adds that contract theory helps economic thinking stay practical: ask what information is hidden, what signal is being rewarded, who bears risk, and whether the institution makes cooperation rational.
 
 ## Connections
 - [[TheEconomicWayOfThinking|《经济学的思维方式》 / The Economic Way of Thinking]], [[PaulHeyne|Paul Heyne / 保罗·海恩]], and [[LiangJie|梁杰]] - source, author, and interpreter.
@@ -56,3 +59,4 @@ The concept matters because the source refuses two weak versions of economics: f
 - [[GoodhartsLaw]], [[ParkinsonsLaw]], [[PeterPrinciple]], [[TruthfulSocialProof]], and [[WorkplaceIncentiveDesign]] - office-incentive branch added by Planet Money.
 - [[BookPublishingEconomics]], [[PublishingAuctionDesign]], [[AdvanceAgainstRoyalties]], and [[PublishingPortfolioRisk]] - media-market branch added by Planet Money.
 - [[AIAutomationRedistribution]], [[AICyberDefenseUtility]], [[DynamicPricingFairness]], and [[FutureResidentHousingVoice]] - live book-tour branch added by Planet Money.
+- [[ContractTheory]], [[IncompleteContract]], [[InformationAsymmetryInContracts]], [[SignalDesign]], [[MixedIncentiveContracts]], [[MotivationCrowdingOut]], and [[InternalMarketizationLimit]] - episode-79 contract-theory extension.

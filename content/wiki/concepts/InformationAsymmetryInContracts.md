@@ -1,0 +1,24 @@
+---
+title: "Information Asymmetry In Contracts / 契约中的信息不对称"
+type: concept
+tags: [economics, contracts, information, management]
+sources: [79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262]
+last_updated: 2026-08-06
+---
+
+# Information Asymmetry In Contracts / 契约中的信息不对称
+
+Information asymmetry in contracts is [[79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262]]'s explanation for why many agreements fail even when both sides appear to have signed up voluntarily. The episode separates three problems: hidden information before the contract, hidden behavior after the contract, and third-party proof failure after a dispute.
+
+Its examples move from fruit, stocks, marriage, loans, and employment to workplace shirking, kickbacks, collision scams, and court evidence. The shared problem is that the party making a choice, bearing the risk, or judging the dispute often does not see the same facts as the party taking action.
+
+## Key Claims
+- Pre-contract hidden information can make selection unreliable because quality, ability, or future conduct is not visible.
+- Post-contract hidden behavior creates moral-hazard-style problems when one side can take risk or slack off after securing the benefit.
+- Third-party information asymmetry matters when a court, manager, or outside judge cannot verify what happened.
+- Useful contract design increases certainty through incentives, monitoring, signals, reputation, and proof-friendly procedures.
+
+## Connections
+- [[ContractTheory]], [[IncompleteContract]], and [[SignalDesign]] - source theory branch.
+- [[WorkplaceIncentiveDesign]], [[SubjectivePerformanceIncentives]], and [[MixedIncentiveContracts]] - workplace applications.
+- [[InsuranceClaimsInformationAsymmetry]] and [[MoralHazardContagionTradeoff]] - adjacent existing wiki information-risk pages.

@@ -839,6 +839,10 @@
     "title": "78.西方决斗史：出剑吧！为了荣誉！",
     "url": "/wiki/sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000/"
   },
+  "79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262": {
+    "title": "79.各位领导，但凡咱学点博弈论：契约理论如何解释职场管理",
+    "url": "/wiki/sources/79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262/"
+  },
   "82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589": {
     "title": "82.闲聊伟大作家的八卦（第二弹）",
     "url": "/wiki/sources/82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589/"
@@ -4431,6 +4435,10 @@
     "title": "《启示录》 / Book of Revelation",
     "url": "/wiki/entities/bookofrevelation/"
   },
+  "BookPriceWarSignalTrap": {
+    "title": "Book Price War Signal Trap / 图书价格战信号陷阱",
+    "url": "/wiki/concepts/bookpricewarsignaltrap/"
+  },
   "BookPrintRunStrategy": {
     "title": "Book Print-Run Strategy",
     "url": "/wiki/concepts/bookprintrunstrategy/"
@@ -4830,6 +4838,10 @@
   "CBS": {
     "title": "CBS",
     "url": "/wiki/entities/cbs/"
+  },
+  "CEOPayLuckSkimming": {
+    "title": "CEO Pay Luck Skimming / CEO薪酬揩油",
+    "url": "/wiki/concepts/ceopayluckskimming/"
   },
   "CJFinn": {
     "title": "CJ Finn",
@@ -6814,6 +6826,10 @@
   "ContinuousGlucoseMonitoring": {
     "title": "Continuous Glucose Monitoring",
     "url": "/wiki/concepts/continuousglucosemonitoring/"
+  },
+  "ContractTheory": {
+    "title": "Contract Theory / 契约理论",
+    "url": "/wiki/concepts/contracttheory/"
   },
   "ContrarianSentimentIndicators": {
     "title": "Contrarian Sentiment Indicators",
@@ -8991,6 +9007,10 @@
     "title": "Education Department Abolition",
     "url": "/wiki/concepts/educationdepartmentabolition/"
   },
+  "EducationSignalInflation": {
+    "title": "Education Signal Inflation / 学历信号膨胀",
+    "url": "/wiki/concepts/educationsignalinflation/"
+  },
   "EducationTechnologyFairness": {
     "title": "Education Technology Fairness",
     "url": "/wiki/concepts/educationtechnologyfairness/"
@@ -9462,6 +9482,10 @@
   "EquityHackerHouseModel": {
     "title": "Equity Hacker House Model",
     "url": "/wiki/concepts/equityhackerhousemodel/"
+  },
+  "EquityIncentiveAlignment": {
+    "title": "Equity Incentive Alignment / 股权激励相容",
+    "url": "/wiki/concepts/equityincentivealignment/"
   },
   "ErasmusDarwin": {
     "title": "Erasmus Darwin / 伊拉斯默·达尔文",
@@ -12275,6 +12299,10 @@
     "title": "《海尔兄弟》",
     "url": "/wiki/entities/haierbrothers/"
   },
+  "HaierGroup": {
+    "title": "Haier Group / 海尔",
+    "url": "/wiki/entities/haiergroup/"
+  },
   "HaijinAndMaritimeSmuggling": {
     "title": "Haijin and Maritime Smuggling",
     "url": "/wiki/concepts/haijinandmaritimesmuggling/"
@@ -13623,6 +13651,10 @@
     "title": "Inbound Tourism Brand Discovery",
     "url": "/wiki/concepts/inboundtourismbranddiscovery/"
   },
+  "IncompleteContract": {
+    "title": "Incomplete Contract / 不完全契约",
+    "url": "/wiki/concepts/incompletecontract/"
+  },
   "Incorruptible": {
     "title": "Incorruptible",
     "url": "/wiki/entities/incorruptible/"
@@ -13734,6 +13766,10 @@
   "InformationApocalypse": {
     "title": "Information Apocalypse",
     "url": "/wiki/concepts/informationapocalypse/"
+  },
+  "InformationAsymmetryInContracts": {
+    "title": "Information Asymmetry In Contracts / 契约中的信息不对称",
+    "url": "/wiki/concepts/informationasymmetryincontracts/"
   },
   "InformationCocoon": {
     "title": "Information Cocoon / 信息茧房",
@@ -13918,6 +13954,10 @@
   "IntermittentReinforcement": {
     "title": "Intermittent Reinforcement",
     "url": "/wiki/concepts/intermittentreinforcement/"
+  },
+  "InternalMarketizationLimit": {
+    "title": "Internal Marketization Limit / 企业内部市场化边界",
+    "url": "/wiki/concepts/internalmarketizationlimit/"
   },
   "InternalRevenueService": {
     "title": "Internal Revenue Service",
@@ -14382,6 +14422,10 @@
   "JapaneseDisabilityRightsMovement": {
     "title": "Japanese Disability Rights Movement",
     "url": "/wiki/concepts/japanesedisabilityrightsmovement/"
+  },
+  "JapaneseEnterprisePriceWarAvoidance": {
+    "title": "Japanese Enterprise Price-War Avoidance / 日本企业避免价格战",
+    "url": "/wiki/concepts/japaneseenterprisepricewaravoidance/"
   },
   "JapaneseImperialFamily": {
     "title": "Japanese Imperial Family",
@@ -18527,6 +18571,10 @@
     "title": "三美电机",
     "url": "/wiki/entities/mitsumielectric/"
   },
+  "MixedIncentiveContracts": {
+    "title": "Mixed Incentive Contracts / 组合激励契约",
+    "url": "/wiki/concepts/mixedincentivecontracts/"
+  },
   "MixedIncomeHousing": {
     "title": "Mixed-Income Housing",
     "url": "/wiki/concepts/mixedincomehousing/"
@@ -18818,6 +18866,10 @@
   "MotivatedBias": {
     "title": "Motivated Bias / 动机偏差",
     "url": "/wiki/concepts/motivatedbias/"
+  },
+  "MotivationCrowdingOut": {
+    "title": "Motivation Crowding Out / 动机挤出",
+    "url": "/wiki/concepts/motivationcrowdingout/"
   },
   "Motorola": {
     "title": "Motorola",
@@ -19491,6 +19543,10 @@
     "title": "Nicole Turner-Lee",
     "url": "/wiki/entities/nicoleturnerlee/"
   },
+  "NieHuihua": {
+    "title": "聂辉华",
+    "url": "/wiki/entities/niehuihua/"
+  },
   "NiemanLab": {
     "title": "Nieman Lab",
     "url": "/wiki/entities/niemanlab/"
@@ -19954,6 +20010,10 @@
   "OliverCarroll": {
     "title": "Oliver Carroll",
     "url": "/wiki/entities/olivercarroll/"
+  },
+  "OliverHart": {
+    "title": "Oliver Hart",
+    "url": "/wiki/entities/oliverhart/"
   },
   "OliverMorton": {
     "title": "Oliver Morton",
@@ -21851,6 +21911,10 @@
     "title": "Pripyat",
     "url": "/wiki/entities/pripyat/"
   },
+  "PrisonersDilemma": {
+    "title": "Prisoner's Dilemma / 囚徒困境",
+    "url": "/wiki/concepts/prisonersdilemma/"
+  },
   "PrivacyUnderPublicGaze": {
     "title": "Privacy Under Public Gaze / 公共凝视下的隐私",
     "url": "/wiki/concepts/privacyunderpublicgaze/"
@@ -22599,6 +22663,10 @@
     "title": "黑泽明《罗生门》 / Rashomon Film",
     "url": "/wiki/entities/rashomonfilm/"
   },
+  "RatchetEffectWorkplace": {
+    "title": "Ratchet Effect In The Workplace / 职场棘轮效应",
+    "url": "/wiki/concepts/ratcheteffectworkplace/"
+  },
   "RatingsCom": {
     "title": "Ratings.com",
     "url": "/wiki/entities/ratingscom/"
@@ -22935,6 +23003,10 @@
     "title": "Remora Carbon",
     "url": "/wiki/entities/remoracarbon/"
   },
+  "RenDanHeYi": {
+    "title": "人单合一 / RenDanHeYi",
+    "url": "/wiki/concepts/rendanheyi/"
+  },
   "RenNing": {
     "title": "任宁 / Ren Ning",
     "url": "/wiki/entities/renning/"
@@ -22966,6 +23038,10 @@
   "ReneSpitz": {
     "title": "Rene Spitz / 史匹茨",
     "url": "/wiki/entities/renespitz/"
+  },
+  "RenminUniversityOfChina": {
+    "title": "Renmin University of China / 中国人民大学",
+    "url": "/wiki/entities/renminuniversityofchina/"
   },
   "RenqingOrder": {
     "title": "Renqing Order",
@@ -23259,6 +23335,10 @@
     "title": "Richard Thaler",
     "url": "/wiki/entities/richardthaler/"
   },
+  "RichardTitmuss": {
+    "title": "Richard Titmuss / 蒂特马斯",
+    "url": "/wiki/entities/richardtitmuss/"
+  },
   "RichardWiseman": {
     "title": "Richard Wiseman",
     "url": "/wiki/entities/richardwiseman/"
@@ -23350,6 +23430,10 @@
   "RobbyWokbot": {
     "title": "Robby Wokbot",
     "url": "/wiki/entities/robbywokbot/"
+  },
+  "RobertAxelrod": {
+    "title": "Robert Axelrod",
+    "url": "/wiki/entities/robertaxelrod/"
   },
   "RobertBoyle": {
     "title": "Robert Boyle / 罗伯特·波义耳",
@@ -24935,6 +25019,10 @@
     "title": "Sigmund Freud / 西格蒙德·弗洛伊德",
     "url": "/wiki/entities/sigmundfreud/"
   },
+  "SignalDesign": {
+    "title": "Signal Design / 信号设计",
+    "url": "/wiki/concepts/signaldesign/"
+  },
   "SignalFire": {
     "title": "SignalFire",
     "url": "/wiki/entities/signalfire/"
@@ -26199,6 +26287,10 @@
     "title": "Subject-Led Care",
     "url": "/wiki/concepts/subjectledcare/"
   },
+  "SubjectivePerformanceIncentives": {
+    "title": "Subjective Performance Incentives / 主观绩效激励",
+    "url": "/wiki/concepts/subjectiveperformanceincentives/"
+  },
   "SubjectiveRealityConstruction": {
     "title": "Subjective Reality Construction / 主观现实建构",
     "url": "/wiki/concepts/subjectiverealityconstruction/"
@@ -27390,6 +27482,10 @@
   "TingWong": {
     "title": "Ting Wong",
     "url": "/wiki/entities/tingwong/"
+  },
+  "TitForTatCooperation": {
+    "title": "Tit-For-Tat Cooperation / 一报还一报合作",
+    "url": "/wiki/concepts/titfortatcooperation/"
   },
   "TlatelolcoMassacre": {
     "title": "Tlatelolco Massacre / 三文化广场枪击",
@@ -30002,6 +30098,10 @@
   "YiLaoYongYi": {
     "title": "一劳永逸",
     "url": "/wiki/entities/yilaoyongyi/"
+  },
+  "YiQieJieQiyue": {
+    "title": "《一切皆契约》",
+    "url": "/wiki/entities/yiqiejieqiyue/"
   },
   "YiWanFuWengHuiGui": {
     "title": "亿万富翁回归",

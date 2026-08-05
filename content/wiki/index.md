@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [79.各位领导，但凡咱学点博弈论：契约理论如何解释职场管理](sources/79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262.md) — 蜜獾吃书 episode on 聂辉华《一切皆契约》, contract theory, prisoner’s dilemma, information asymmetry, credential signaling, book price wars, workplace incentives, equity, motivation crowding out, and internal marketization limits.
 - [78.西方决斗史：出剑吧！为了荣誉！](sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000.md) — 蜜獾吃书 episode on Western dueling as judicial ordeal, chivalric spectacle, honor culture, proceduralized violence, women duelists, weapon lethality, and U.S. political duels.
 - [77.她是自由的野狗，她是法拉奇](sources/77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187.md) — 蜜獾吃书 episode on Oriana Fallaci, 《我不相信神话》, anti-fascist childhood, political interviewing, Khomeini, Pahlavi, Tlatelolco, Panagoulis, AFTRA, and freedom as dignity.
 - [Vol.114 AI的2025和DeepSeek们的未来 | 对谈复旦张奇教授](sources/vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo.md) — 起朱楼宴宾客 episode with Zhang Qi on DeepSeek, LLM statistical limits, post-training, scenario-specific AI products, AI search, contact-center AI, and 2025 agents.
@@ -728,6 +729,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [聂辉华](entities/NieHuihua.md) — Renmin University economist and author of 《一切皆契约》, used by episode 79 to explain contract theory in workplace and market settings.
+- [《一切皆契约》](entities/YiQieJieQiyue.md) — Nie Huihua book used by episode 79 to translate contract theory, game theory, information asymmetry, and incentive design into practical cases.
+- [Oliver Hart](entities/OliverHart.md) — Contract-theory economist named as Nie Huihua's postdoctoral teacher and theory lineage in episode 79.
+- [Robert Axelrod](entities/RobertAxelrod.md) — Cooperation theorist invoked through 《合作的进化》 and tit-for-tat strategy in episode 79.
+- [Richard Titmuss / 蒂特马斯](entities/RichardTitmuss.md) — Social-policy thinker tied to the episode's blood-donation and motivation-crowding example.
+- [Haier Group / 海尔](entities/HaierGroup.md) — Company case for 人单合一 and the limits of internal marketization in episode 79.
+- [Renmin University of China / 中国人民大学](entities/RenminUniversityOfChina.md) — Academic institution attached to Nie Huihua in episode 79.
 - [《西方决斗史》 / The History of Duelling](entities/XifangJuedouShi.md) — Millingen book used by episode 78 to separate judicial duel, chivalric tournament, and honor duel culture.
 - [John Gideon Millingen / 约翰·基甸·米林根](entities/JohnGideonMillingen.md) — Nineteenth-century doctor, military surgeon, and dueling-history author read critically by episode 78.
 - [Andrew Jackson / 安德鲁·杰克逊](entities/AndrewJackson.md) — U.S. president used by episode 78 as a high-frequency duelist and American honor-culture example.
@@ -5032,6 +5040,23 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Contract Theory / 契约理论](concepts/ContractTheory.md) — Episode 79 frame for designing relationships, institutions, and workplace arrangements under imperfect information.
+- [Incomplete Contract / 不完全契约](concepts/IncompleteContract.md) — Contract-theory concept for agreements that cannot specify or enforce every future condition.
+- [Information Asymmetry In Contracts / 契约中的信息不对称](concepts/InformationAsymmetryInContracts.md) — Hidden information, hidden behavior, and third-party proof problems that make contracts fail.
+- [Prisoner's Dilemma / 囚徒困境](concepts/PrisonersDilemma.md) — Game-theory trap where individually rational choices can create collectively bad outcomes.
+- [Tit-For-Tat Cooperation / 一报还一报合作](concepts/TitForTatCooperation.md) — Reciprocity strategy from the cooperation branch that makes repeated cooperation more stable.
+- [Signal Design / 信号设计](concepts/SignalDesign.md) — Frame for credentials, reputation, discounts, and workplace behavior as costly or distorted signals.
+- [Education Signal Inflation / 学历信号膨胀](concepts/EducationSignalInflation.md) — Credential arms race where degrees lose distinguishing power while proof costs rise.
+- [Book Price War Signal Trap / 图书价格战信号陷阱](concepts/BookPriceWarSignalTrap.md) — Publishing discount competition as a prisoner’s-dilemma signal problem.
+- [Japanese Enterprise Price-War Avoidance / 日本企业避免价格战](concepts/JapaneseEnterprisePriceWarAvoidance.md) — Cross-shareholding, communication, and overseas expansion as ways to avoid destructive price war.
+- [Ratchet Effect In The Workplace / 职场棘轮效应](concepts/RatchetEffectWorkplace.md) — Workplace pattern where peak effort becomes the baseline for rising future targets.
+- [Subjective Performance Incentives / 主观绩效激励](concepts/SubjectivePerformanceIncentives.md) — Evaluation frame for hard-to-measure work and the flattery incentives subjective judgment can create.
+- [Mixed Incentive Contracts / 组合激励契约](concepts/MixedIncentiveContracts.md) — Compensation design balancing contracting, fixed wage, commission, bonus, and risk allocation.
+- [Equity Incentive Alignment / 股权激励相容](concepts/EquityIncentiveAlignment.md) — Equity as alignment for core contributors who can bear long-term company risk.
+- [CEO Pay Luck Skimming / CEO薪酬揩油](concepts/CEOPayLuckSkimming.md) — Executive-pay agency problem where managers capture market luck as if it were personal contribution.
+- [Motivation Crowding Out / 动机挤出](concepts/MotivationCrowdingOut.md) — Reward-design failure where external pay can weaken intrinsic or civic motivation.
+- [人单合一 / RenDanHeYi](concepts/RenDanHeYi.md) — Haier management model discussed as a test case for internal marketization.
+- [Internal Marketization Limit / 企业内部市场化边界](concepts/InternalMarketizationLimit.md) — Boundary on turning firm interiors into markets when hierarchy lowers transaction costs.
 - [Honor Duel Culture / 荣誉决斗文化](concepts/HonorDuelCulture.md) — Social system where insult, reputation, witnesses, courage, and weapon risk make private honor publicly legible.
 - [Judicial Duel / 司法决斗](concepts/JudicialDuel.md) — Formal combat procedure rooted in divine judgment and legal authority before later honor dueling.
 - [Trial By Ordeal / 神裁法](concepts/TrialByOrdeal.md) — Religious-legal truth test where bodily danger is interpreted as divine evidence.

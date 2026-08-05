@@ -2,13 +2,15 @@
 title: "Book Publishing Economics"
 type: concept
 tags: [publishing, books, media, economics]
-sources: [how-to-make-a-book-into-a-bestseller, inside-a-book-auction, bookstore-economics]
-last_updated: 2026-07-24
+sources: [79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, how-to-make-a-book-into-a-bestseller, inside-a-book-auction, bookstore-economics]
+last_updated: 2026-08-06
 ---
 
 # Book Publishing Economics
 
 Book publishing economics is the market machinery that turns a book idea into a financial bet. [[inside-a-book-auction]] adds the concept by following [[PlanetMoney]]'s own book from idea, agent outreach, and proposal development through publisher meetings, auction rounds, and the winning [[WWNorton|W. W. Norton]] deal.
+
+[[79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262]] adds a Chinese publishing price-war case through [[BookPriceWarSignalTrap]]. The episode argues that discounting can become a [[PrisonersDilemma|prisoner's dilemma]] and a bad [[SignalDesign|signal]]: each publisher or platform cuts price to avoid weakness, but the market can train readers to treat deep discounts as normal and make bookstore/channel ecology harder to sustain.
 
 The source's central point is that cultural products are not acquired only because an editor likes them. Publishers evaluate audience, comparable titles, production costs, rights, marketing, platform, and [[AdvanceAgainstRoyalties|advance]] exposure before deciding how much to bid.
 
@@ -26,6 +28,7 @@ The source's central point is that cultural products are not acquired only becau
 - Retailer order estimates, returnability, print-run sizing, remaindering risk, and shelf placement are downstream publishing-economics problems, not separate from the book deal.
 - Bestseller-list placement can become an economic asset because it affects displays, ads, future sales conversations, rights value, and author status.
 - Ranking systems create gray-area incentives such as [[BulkBookBuying]] and [[BookLaundering]] when the value of status exceeds the value of ordinary book revenue.
+- Episode 79 adds that pricing itself is part of publishing economics: discount targets and platform pressure can distort the signal of book value and damage channel ecology.
 
 ## Connections
 - [[inside-a-book-auction]] and [[bookstore-economics]] - source cases.
@@ -35,3 +38,4 @@ The source's central point is that cultural products are not acquired only becau
 - [[FisherNash]], [[CarmichaelsBookstore|Carmichael's Bookstore]], [[StephenPace]], [[PlanetMoneyBook]], [[BookstoreBuying]], [[BookReturnability]], and [[BookPrintRunStrategy]] - downstream retail and sales mechanics added by the later source.
 - [[NewYorkTimesBestsellerList]], [[BestsellerStatusFeedbackLoop]], [[BestsellerListOpacity]], [[BulkBookBuying]], [[BookLaundering]], [[BestsellerSpeakerEconomy]], and [[PreOrderLaunchConcentration]] - ranking and launch mechanics added by the bestseller source.
 - [[BookCreatorWork]], [[LiteraryPublishingAsMaterialSupport]], and [[LiteraryAgentJudgment]] - adjacent book-world concepts.
+- [[BookPriceWarSignalTrap]], [[SignalDesign]], [[PrisonersDilemma]], and [[ChinaCorporateAntiInvolution]] - pricing and destructive-competition branch added by episode 79.

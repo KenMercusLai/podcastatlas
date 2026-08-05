@@ -2,11 +2,13 @@
 title: "Japan"
 type: entity
 tags: [country, politics, law, society, consumer, tourism, economy, youth, healthcare, early-modern-history]
-sources: [165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, battlefield-rare-earths-how-the-us-lost-to-china, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq, 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]
+sources: [79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, battlefield-rare-earths-how-the-us-lost-to-china, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq, 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]
 last_updated: 2026-08-06
 ---
 
 # Japan
+
+[[79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262]] adds Japan as a comparative corporate-competition case. The episode says Japanese firms responded to destructive price-war dynamics through cross-shareholding, communication, and overseas expansion, making [[JapaneseEnterprisePriceWarAvoidance]] a bridge between [[PrisonersDilemma]], [[BookPriceWarSignalTrap]], and [[KeiretsuBusinessGroups]].
 
 [[165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646]] adds Japan as the source setting for [[YinfaChuanliu|《银发川柳》]] and the episode's super-aged-society contrast. The Japanese material makes old age visible through public senryu: medicine, hospitals, pets, grandchildren, lonely living, memorial portraits, funeral jokes, and [[Siri]] all become examples for [[SenryuAgingHumor]], [[EmbodiedAging]], and [[ElderTechnologyExclusion]].
 
@@ -45,6 +47,7 @@ Japan also appears in [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61b
 - [[JapaneseLostDecades]], [[EmploymentIceAgeGeneration]], [[NISA]], and [[HikikomoriStrategicRetreat]] - low-growth, investing, and youth-pressure branch added by vol.102.
 - [[YouthHappinessAfterGrowth]], [[SocialTrustAndHappiness]], [[MicroHappiness]], and [[ArtisanalAttention]] - happiness branch added by vol.102.
 - [[JapaneseSogoShosha]], [[KeiretsuBusinessGroups]], [[TradingCompanyInvestmentModel]], [[LowEquityCommercialRights]], and [[DeglobalizationTradeIntermediation]] - corporate-organization and trade branch added by vol.108.
+- [[JapaneseEnterprisePriceWarAvoidance]], [[BookPriceWarSignalTrap]], and [[PrisonersDilemma]] - price-war avoidance branch added by episode 79.
 - [[RareEarthExportLeverage]], [[China]], [[Molycorp]], and [[ProjectPhoenix]] - rare-earth shock and U.S. comeback branch added by Planet Money.
 - [[TheIntelligence]] - source podcast context.
 - [[HayashiYuri]], [[CrossCulturalAssistedDeathEthics]], and [[AssistedDeathClinicalResponsibility]] - assisted-death branch added by episode 119.
