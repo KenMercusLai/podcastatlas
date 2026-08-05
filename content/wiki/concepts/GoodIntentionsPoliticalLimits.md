@@ -2,8 +2,8 @@
 title: "Good Intentions Political Limits"
 type: concept
 tags: [ethics, politics, realism, responsibility]
-sources: [133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
-last_updated: 2026-07-24
+sources: [133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+last_updated: 2026-08-06
 ---
 
 # Good Intentions Political Limits
@@ -16,6 +16,8 @@ The concept does not reject goodness. The source argues that people need conscie
 
 [[133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110]] adds the reverse danger: invoking realism, trade, or peace can become a way to excuse cooperation with a violent power. The source's closing argument is that moral rules protect ordinary people precisely because power politics is real.
 
+[[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] adds a Mencian case through [[MencianIdealismLimits]]. The episode values [[Mengzi|孟子 / Mencius]]'s moral force, but uses the failed Qi campaign against Yan to show that benevolent intent cannot substitute for disciplined institutions, enforceable limits, and realistic control over coercive instruments.
+
 ## Key Claims
 - Goodness without realism can become helpless, but realism without conscience becomes corruption.
 - The episode separates "is" and "ought" without allowing the "is" to erase the "ought."
@@ -23,6 +25,7 @@ The concept does not reject goodness. The source argues that people need conscie
 - Personal strategic failure becomes a small-scale mirror of Machiavelli's larger political problem.
 - Wang Mang adds a governance version: moralized reform can harm people when institutional and material constraints are ignored.
 - The IBM-Nazi branch adds that rejecting naive goodness must not become [[CleverOpportunismAsMoralRisk|clever opportunism]] or [[AppeasementLogic|appeasement logic]].
+- The Mencius branch adds that benevolent conquest needs institutional proof, not only righteous self-description.
 
 ## Connections
 - [[MachiavellianRealism]] and [[NonMoralPoliticalAnalysis]] - concepts that create the pressure on naive goodness.
@@ -31,3 +34,4 @@ The concept does not reject goodness. The source argues that people need conscie
 - [[SacrificingOthersEthics]] - related problem of strategic action under morally compromised conditions.
 - [[ConfucianIdealGovernance]], [[WangMangReforms]], and [[IdeologicalOvercontrol]] - Wang Mang extension.
 - [[AppeasementLogic]], [[CleverOpportunismAsMoralRisk]], [[CorporateComplicityWithAuthoritarianism]], and [[OrdinaryPeopleResistance]] - episode 133 extension.
+- [[Mengzi|孟子 / Mencius]], [[WangdaoVsBadao]], and [[MencianIdealismLimits]] - Mencian extension.

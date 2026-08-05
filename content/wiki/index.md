@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [30.孟子：战国愤青的赤子之心](sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138.md) — 蜜獾吃书 episode rereading 孟子 as a forceful Warring States political thinker through 义利之辨, 仁政, 王道/霸道, 有恒产者有恒心, 民贵君轻, 暴君非君, and the limits of benevolent conquest.
 - [29.千面英雄：俄狄浦斯正在下班挤地铁](sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891.md) — 蜜獾吃书 episode on Joseph Campbell's 《千面英雄》, monomyth, hero-journey stages, public-dream myth reading, Jung/Freud/Frazer influence, and modern media examples from Star Wars to 《西游记》.
 - [28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话](sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930.md) — 蜜獾吃书 episode on 《聊斋志异》 as strange-tale social critique, connecting 蒲松龄, 于七之乱, fox and ghost agency, folk performance, 纪昀, 《阅微草堂笔记》, and examination satire.
 - [日谈串台｜红楼梦：还是可以读一读的](sources/ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638.md) — 蜜獾吃书 and 日谈 crossover introducing 《红楼梦》 through chapter-3 entry advice, Daiyu/Baoyu/Qingwen/Lingguan, Grand View Garden, poetry, female friendship, versions, sequels, and Redology guardrails.
@@ -705,6 +706,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [孟子 / Mencius](entities/Mengzi.md) — Pre-Qin Confucian thinker reread by episode 30 through Warring States politics, renyi, ruler accountability, people-based legitimacy, and resistance to unjust power.
+- [《孟子》 / Mencius](entities/MenciusText.md) — Classical text used by episode 30 as dialogue material for renyi, benevolent government, tyrant legitimacy, and Mencius's exchanges with Liang Hui Wang and Qi Xuan Wang.
+- [战国时期 / Warring States Period](entities/WarringStatesPeriod.md) — Historical setting for episode 30's account of interstate competition, scholar mobility, harsher war, and the practical stakes of Mencian politics.
+- [稷下学宫 / Jixia Academy](entities/JixiaAcademy.md) — Qi-sponsored Warring States thought-market setting used by episode 30 to explain Mencius's exposure to multiple schools before choosing the Confucian renyi path.
+- [梁惠王 / King Hui of Liang](entities/LiangHuiWang.md) — Warring States ruler whose dialogues with Mencius anchor episode 30's righteousness-over-profit and benevolent-government arguments.
+- [齐宣王 / King Xuan of Qi](entities/QiXuanWang.md) — Warring States ruler used by episode 30 to develop kingly way, compassion, people-based legitimacy, and the Yan campaign as a limit case.
+- [墨子 / Mozi](entities/Mozi.md) — Rival pre-Qin teaching presence used by episode 30 to show that Mencius's Confucian renyi position was contested rather than automatic.
+- [杨朱 / Yang Zhu](entities/YangZhu.md) — Rival pre-Qin teaching presence paired with Mozi in episode 30's picture of Warring States intellectual competition.
+- [邹国 / Zou State](entities/ZouState.md) — Mencius's source-scoped place of origin and local-memory setting for episode 30's people-first political imagination.
 - [《千面英雄》 / The Hero with a Thousand Faces](entities/TheHeroWithAThousandFaces.md) — Joseph Campbell book read by episode 29 as an influential but contested source for monomyth and hero-journey narrative.
 - [Sigmund Freud / 西格蒙德·弗洛伊德](entities/SigmundFreud.md) — Psychoanalysis figure used by episode 29 as background for dream, desire, Oedipus, and myth-symbol interpretation.
 - [James George Frazer / 詹姆斯·乔治·弗雷泽](entities/JamesGeorgeFrazer.md) — Comparative-religion figure whose 《金枝》 material gives episode 29 ritual, kingship, sacrifice, and renewal examples.
@@ -4866,6 +4876,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Early Confucian Resistance Politics / 早期儒家的反抗政治](concepts/EarlyConfucianResistancePolitics.md) — Episode 30 frame separating Mencian Confucianism from obedience-only imperial stereotypes through dignity, remonstrance, and tyrant delegitimation.
+- [Righteousness Over Profit / 义利之辨](concepts/RighteousnessOverProfit.md) — Mencian argument that a state decays when ruler, ministers, and people all treat private gain as the first political question.
+- [Mencian Benevolent Government / 孟子仁政](concepts/MencianBenevolentGovernment.md) — Episode 30's governing program of livelihood, compassion, anti-starvation responsibility, and fuller reform beyond partial welfare gestures.
+- [王道 versus 霸道 / Kingly Way Over Hegemony](concepts/WangdaoVsBadao.md) — Episode 30 contrast between humane legitimacy and hegemonic domination, with the added risk that benevolent conquest still needs constraint.
+- [Constant Property, Constant Heart / 有恒产者有恒心](concepts/ConstantPropertyConstantHeart.md) — Mencian link between stable livelihood, property, moral steadiness, and political responsibility.
+- [Mencian People-Based Legitimacy / 孟子的民本合法性](concepts/MencianPeopleBasedLegitimacy.md) — Episode 30 synthesis of 民贵君轻, 暴君非君, and Heaven's will being read through the people's seeing and hearing.
+- [Mencian Idealism Limits / 孟子理想主义的限度](concepts/MencianIdealismLimits.md) — Episode 30 caution that Mencian moral politics can fail when war, institutions, incentives, and implementation do not match benevolent intent.
 - [Monomyth / 单一神话](concepts/Monomyth.md) — Campbell claim that many cultures' hero stories share departure, initiation, and return patterns, useful as structure but contested as proof.
 - [Myth As Public Dream / 神话作为公共的梦](concepts/MythAsPublicDream.md) — Campbell/Jung frame where myth is read as outward shared dream material and private dreams as miniature myths.
 - [Collective Unconscious / 集体无意识](concepts/CollectiveUnconscious.md) — Jungian idea used by episode 29 to explain recurring mythic images while preserving historical and transmission caution.

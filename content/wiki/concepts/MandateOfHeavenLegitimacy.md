@@ -2,8 +2,8 @@
 title: "Mandate of Heaven Legitimacy / 天命合法性"
 type: concept
 tags: [history, politics, china, legitimacy]
-sources: [126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]
-last_updated: 2026-07-24
+sources: [126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+last_updated: 2026-08-06
 ---
 
 # Mandate of Heaven Legitimacy / 天命合法性
@@ -12,13 +12,17 @@ Mandate of Heaven legitimacy / 天命合法性 is the source's frame for how the
 
 The concept is important because it separates sacred legitimacy from simple propaganda. The episode presents the mandate as a working political language believed, managed, exploited, and feared by rulers, officials, and later challengers such as [[WangMang|王莽]].
 
+[[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] adds a Mencian version through [[MencianPeopleBasedLegitimacy]]. In that source, Heaven is not primarily read through omens or dynastic signs but through the people's seeing and hearing, making popular response a test of whether rule is legitimate.
+
 ## Key Claims
 - A mandate narrative strengthens a dynasty by making rule more than military success.
 - The same narrative can imply that Heaven may withdraw approval.
 - Omen interpretation gives political actors a way to argue that legitimacy has shifted.
 - In the source, mandate politics is inseparable from [[ChenweiPolitics]], [[AuspiciousOmenPolitics]], and [[DynasticLegitimacyBackfire]].
+- The Mencius source emphasizes a people-facing version of Heaven's will rather than an omen-centered imperial version.
 
 ## Connections
 - [[WesternHanDynasty]], [[LiuBang]], [[WangMang]], and [[XinDynasty]] - source case.
 - [[DongZhongshu]] - intellectual background in the episode.
+- [[Mengzi|孟子 / Mencius]] and [[MencianPeopleBasedLegitimacy]] - Mencian people-based extension.
 - [[PersonalRuleLegitimacyCrisis]] and [[HistoricalMemoryContest]] - adjacent wiki frames about authority and later interpretation.

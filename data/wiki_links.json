@@ -587,6 +587,10 @@
     "title": "29.千面英雄：俄狄浦斯正在下班挤地铁",
     "url": "/wiki/sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891/"
   },
+  "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138": {
+    "title": "30.孟子：战国愤青的赤子之心",
+    "url": "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
+  },
   "361Degrees": {
     "title": "361 Degrees",
     "url": "/wiki/entities/361degrees/"
@@ -6451,6 +6455,10 @@
     "title": "Conspiracy Theory Pattern Seeking",
     "url": "/wiki/concepts/conspiracytheorypatternseeking/"
   },
+  "ConstantPropertyConstantHeart": {
+    "title": "Constant Property, Constant Heart / 有恒产者有恒心",
+    "url": "/wiki/concepts/constantpropertyconstantheart/"
+  },
   "ConstellationEnergy": {
     "title": "Constellation Energy",
     "url": "/wiki/entities/constellationenergy/"
@@ -8538,6 +8546,10 @@
   "EachNet": {
     "title": "易趣 / EachNet",
     "url": "/wiki/entities/eachnet/"
+  },
+  "EarlyConfucianResistancePolitics": {
+    "title": "Early Confucian Resistance Politics / 早期儒家的反抗政治",
+    "url": "/wiki/concepts/earlyconfucianresistancepolitics/"
   },
   "EarlyFintechFraudControls": {
     "title": "Early Fintech Fraud Controls",
@@ -14283,6 +14295,10 @@
     "title": "旧世代",
     "url": "/wiki/entities/jiushidai/"
   },
+  "JixiaAcademy": {
+    "title": "稷下学宫 / Jixia Academy",
+    "url": "/wiki/entities/jixiaacademy/"
+  },
   "Jizong": {
     "title": "鸡枞 / Jizong",
     "url": "/wiki/entities/jizong/"
@@ -15750,6 +15766,10 @@
   "LianKuoru": {
     "title": "连阔如 / Lian Kuoru",
     "url": "/wiki/entities/liankuoru/"
+  },
+  "LiangHuiWang": {
+    "title": "梁惠王 / King Hui of Liang",
+    "url": "/wiki/entities/lianghuiwang/"
   },
   "LiangJianzhang": {
     "title": "Liang Jianzhang",
@@ -17483,6 +17503,22 @@
     "title": "Memory Wall",
     "url": "/wiki/concepts/memorywall/"
   },
+  "MencianBenevolentGovernment": {
+    "title": "Mencian Benevolent Government / 孟子仁政",
+    "url": "/wiki/concepts/mencianbenevolentgovernment/"
+  },
+  "MencianIdealismLimits": {
+    "title": "Mencian Idealism Limits / 孟子理想主义的限度",
+    "url": "/wiki/concepts/mencianidealismlimits/"
+  },
+  "MencianPeopleBasedLegitimacy": {
+    "title": "Mencian People-Based Legitimacy / 孟子的民本合法性",
+    "url": "/wiki/concepts/mencianpeoplebasedlegitimacy/"
+  },
+  "MenciusText": {
+    "title": "《孟子》 / Mencius",
+    "url": "/wiki/entities/menciustext/"
+  },
   "MengPo": {
     "title": "孟婆",
     "url": "/wiki/entities/mengpo/"
@@ -17506,6 +17542,10 @@
   "Mengqi": {
     "title": "梦琪 / Mengqi",
     "url": "/wiki/entities/mengqi/"
+  },
+  "Mengzi": {
+    "title": "孟子 / Mencius",
+    "url": "/wiki/entities/mengzi/"
   },
   "MenopauseAsFreedom": {
     "title": "Menopause As Freedom / 更年期作为自由",
@@ -18190,6 +18230,10 @@
   "Moxt": {
     "title": "Moxt",
     "url": "/wiki/entities/moxt/"
+  },
+  "Mozi": {
+    "title": "墨子 / Mozi",
+    "url": "/wiki/entities/mozi/"
   },
   "MtGox": {
     "title": "Mt. Gox",
@@ -21543,6 +21587,10 @@
     "title": "《齐物论》",
     "url": "/wiki/entities/qiwulun/"
   },
+  "QiXuanWang": {
+    "title": "齐宣王 / King Xuan of Qi",
+    "url": "/wiki/entities/qixuanwang/"
+  },
   "QianCangshui": {
     "title": "钱苍水",
     "url": "/wiki/entities/qiancangshui/"
@@ -22506,6 +22554,10 @@
   "RightWingMediaInfrastructure": {
     "title": "Right-Wing Media Infrastructure",
     "url": "/wiki/concepts/rightwingmediainfrastructure/"
+  },
+  "RighteousnessOverProfit": {
+    "title": "Righteousness Over Profit / 义利之辨",
+    "url": "/wiki/concepts/righteousnessoverprofit/"
   },
   "RiguangPaidui": {
     "title": "日光派对播客联盟",
@@ -27883,6 +27935,10 @@
     "title": "Wang Zhengjun / 王政君",
     "url": "/wiki/entities/wangzhengjun/"
   },
+  "WangdaoVsBadao": {
+    "title": "王道 versus 霸道 / Kingly Way Over Hegemony",
+    "url": "/wiki/concepts/wangdaovsbadao/"
+  },
   "WanhuaChemical": {
     "title": "Wanhua Chemical",
     "url": "/wiki/entities/wanhuachemical/"
@@ -27934,6 +27990,10 @@
   "WarrenBuffett": {
     "title": "Warren Buffett",
     "url": "/wiki/entities/warrenbuffett/"
+  },
+  "WarringStatesPeriod": {
+    "title": "战国时期 / Warring States Period",
+    "url": "/wiki/entities/warringstatesperiod/"
   },
   "WashingtonPost": {
     "title": "Washington Post",
@@ -28911,6 +28971,10 @@
     "title": "Yang Zeyi",
     "url": "/wiki/entities/yangzeyi/"
   },
+  "YangZhu": {
+    "title": "杨朱 / Yang Zhu",
+    "url": "/wiki/entities/yangzhu/"
+  },
   "YangcongXueyuan": {
     "title": "Yangcong Xueyuan / 洋葱学园",
     "url": "/wiki/entities/yangcongxueyuan/"
@@ -29654,6 +29718,10 @@
   "Zoox": {
     "title": "Zoox",
     "url": "/wiki/entities/zoox/"
+  },
+  "ZouState": {
+    "title": "邹国 / Zou State",
+    "url": "/wiki/entities/zoustate/"
   },
   "ZouXikouMigration": {
     "title": "Zou Xikou Migration",

@@ -2,8 +2,8 @@
 title: "孔子 / Confucius"
 type: entity
 tags: [person, philosopher, chinese-classics, spring-and-autumn]
-sources: [109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]
-last_updated: 2026-07-17
+sources: [109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+last_updated: 2026-08-06
 ---
 
 # 孔子 / Confucius
@@ -12,9 +12,13 @@ last_updated: 2026-07-17
 
 The source's point is not to replace Confucius's intellectual image with a sports image. It uses [[SportsAsHistoricalReadingFrame]] to make visible that Spring-Autumn aristocratic education joined ritual, music, archery, charioteering, writing, and calculation, and that physical skill could belong to elite moral and political formation rather than being separate from it.
 
+[[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] adds a later pre-Qin extension through [[Mengzi|孟子 / Mencius]]. In that episode, Confucius is the renyi path Mencius actively chooses and amplifies after exposure to the more plural thought world of the [[WarringStatesPeriod|战国时期]] and [[JixiaAcademy|稷下学宫]].
+
 ## Connections
 - [[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]] - source episode.
+- [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode's Mencian extension.
 - [[ShuliangHe|叔梁纥]] - father and paired strength case.
 - [[SpringAndAutumnPeriod|春秋时期]] - historical setting.
 - [[SportsAsHistoricalReadingFrame]] - source's athletic reinterpretation frame.
 - [[SpringAutumnWarfareRitual]] and [[HorseAsCivilizationalInfrastructure]] - chariot, elite education, and battle-skill context.
+- [[Mengzi|孟子 / Mencius]], [[MenciusText|《孟子》]], and [[EarlyConfucianResistancePolitics]] - later Confucian-political extension.
