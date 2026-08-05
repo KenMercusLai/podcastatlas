@@ -2,8 +2,8 @@
 title: "Founder Motivation Evolution"
 type: concept
 tags: [startups, founder-psychology, leadership]
-sources: [tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarspod-brianarmstrong-final]
-last_updated: 2026-08-04
+sources: [tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarspod-brianarmstrong-final]
+last_updated: 2026-08-05
 ---
 
 # Founder Motivation Evolution
@@ -24,6 +24,8 @@ Armstrong says he was filled with self-doubt early, feared disappointing his par
 
 [[tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio]] adds [[JustinKan]] as an external-approval case after a major exit. Justin says selling [[Twitch]] made him happy for about a month, and that [[Atrium]] was partly driven by comparing himself with other successful founders. His ayahuasca story turns the concept inward: he identifies a need for external approval, then reframes work around whether a day would still feel worthwhile without money or public recognition.
 
+[[tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1]] adds [[JohnCoogan]] as a role-selection version. Coogan leaves [[Soylent]] when the work becomes more about retail execution, later finds [[FoundersFund]] investment work interesting but not a strong fit, and then moves toward [[TBPN]], where daily live conversation gives him faster feedback and a more motivating operating rhythm.
+
 ## Key Claims
 - Early insecurity can help a founder start, but it is usually too brittle to sustain long-term leadership.
 - External validation such as a first investor check can matter psychologically, not only financially.
@@ -35,6 +37,7 @@ Armstrong says he was filled with self-doubt early, feared disappointing his par
 - A founder's motivation can come from embodied personal experience, such as losing and restoring a capability, not only from market ambition or external validation.
 - Motivation selection can precede qualification: a founder may deliberately choose a problem they care about enough to learn into, instead of only choosing from resume-matched ideas.
 - A major exit does not settle motivation; comparison and external approval can reappear unless the founder rebuilds a more intrinsic test for worthwhile work.
+- Motivation can evolve through rejecting prestigious roles that do not fit the founder's preferred decision tempo or daily craft.
 
 ## Connections
 - [[BrianArmstrong]], [[Coinbase]], [[YCombinator]], and [[Airbnb]] - source case.
@@ -46,3 +49,4 @@ Armstrong says he was filled with self-doubt early, feared disappointing his par
 - [[DanSiroker]], [[MindEmulationFoundation]], [[RewindAI]], [[Limitless]], and [[PersonalAIMemory]] - augmentation and family-focus branch added by the Dan Siroker episode.
 - [[BlakeScholl]], [[BarcodeHero]], [[BoomSupersonic]], and [[FounderProductFit]] - motivation-selection branch added by The Social Radars.
 - [[JustinKan]], [[Twitch]], [[Atrium]], and [[ServiceProductization]] - post-exit external-approval and intrinsic-motivation branch added by The Social Radars.
+- [[JohnCoogan]], [[Soylent]], [[FoundersFund]], [[TBPN]], and [[DailyLiveMediaCadence]] - role-selection and media-cadence branch added by The Social Radars.

@@ -2,11 +2,13 @@
 title: "Food and Drug Administration"
 type: entity
 tags: [organization, regulator, healthcare, food, drugs]
-sources: [a-trip-to-the-magic-mushroom-megachurch, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
-last_updated: 2026-08-04
+sources: [tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, a-trip-to-the-magic-mushroom-megachurch, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Food and Drug Administration
+
+[[tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1]] adds the FDA through [[Lucy]], [[JohnCoogan]]'s nicotine-gum company. Coogan says the regulatory pathway made the product slower and more controlled than [[Soylent]], but also potentially created a [[RegulatedConsumerProductMoat]] because competitors had to clear the same burden.
 
 The Food and Drug Administration appears in [[why-is-there-a-supplement-craze-if-they-dont-even-work]] as the U.S. regulator whose authority over supplements is much weaker than its authority over drugs. The source contrasts drug approval, which requires rigorous evidence, with [[DietarySupplementRegulation]], where many products can reach the market without proving effectiveness or ordinary premarket safety.
 
@@ -26,6 +28,7 @@ The episode also uses the FDA in the [[Prevagen]] story. According to the source
 
 ## Connections
 - [[DietarySupplementHealthAndEducationAct]] - legal frame limiting FDA supplement oversight.
+- [[Lucy]], [[JohnCoogan]], [[RegulatedConsumerProductMoat]], and [[ShippingWeightEconomics]] - nicotine-gum regulation and consumer-product strategy added by The Social Radars.
 - [[GrayMarketPeptides]], [[ResearchChemicalLoophole]], and [[GLP1Agonists]] - peptide and research-chemical boundary added by Marketplace Tech.
 - [[PsilocybinMushrooms]], [[MedicalRiskManagement]], [[DrugEnforcementAdministration]], and [[ControlledSubstancesAct]] - psychedelic trial-versus-religious-exemption contrast added by Planet Money.
 - [[SupplementStructureFunctionClaims]] - claim category that avoids drug-like disease language.

@@ -2,8 +2,8 @@
 title: "Founders Fund"
 type: entity
 tags: [venture-capital, startups, silicon-valley, politics]
-sources: [tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]
-last_updated: 2026-07-23
+sources: [tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]
+last_updated: 2026-08-05
 ---
 
 # Founders Fund
@@ -14,13 +14,17 @@ The source names [[MikeSolana]] as someone drawn into Thiel's orbit and later as
 
 [[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] adds Founders Fund as an important [[Flexport]] investor. [[RyanPetersen]] says the firm came to Flexport's rescue during hard fundraising moments, and the episode also notes that Petersen briefly joined Founders Fund before returning as Flexport CEO.
 
+[[tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1]] adds Founders Fund as [[JohnCoogan]]'s post-[[YouTube]] entrepreneur-in-residence context. Coogan says he found investment committee work intellectually interesting but did not thrive in fast, high-stakes expected-value decisions and deal negotiation, making the episode a [[FounderProductFit]] boundary case for the move from founder/media operator into venture capital.
+
 ## Source Position
 - The episode does not analyze Founders Fund's portfolio in detail.
 - It uses the firm as a recurring node in Thiel's capital, media, and talent-selection machinery.
 - The Flexport source uses Founders Fund as a source-scoped founder-support and financing node rather than a full portfolio analysis.
+- The John Coogan source uses Founders Fund as a role-fit contrast: VC access and prestige did not make the investment role fit Coogan's preferred work.
 
 ## Connections
 - [[PeterThiel]] - founder and central figure in the source.
 - [[MikeSolana]], [[PirateWires]], and [[RightWingMediaInfrastructure]] - brand/media branch.
 - [[PoliticalTalentPipeline]], [[ThielFellowship]], and [[TechnologyRightPowerNetwork]] - selection and network concepts.
 - [[RyanPetersen]], [[Flexport]], [[FounderFriendlyInvestorSupport]], and [[FounderOperationalReset]] - Flexport funding and founder-return context.
+- [[JohnCoogan]], [[YouTube]], [[TBPN]], and [[FounderProductFit]] - Coogan's EIR and role-fit context.

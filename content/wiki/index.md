@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [John Coogan on Soylent, Lucy, Founders Fund, and TBPN](sources/tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1.md) — The Social Radars episode with John Coogan on Imagine K-12, startup scarcity, Soylent's viral launch, Lucy's regulated nicotine-gum bet, Founders Fund, YouTube, and building TBPN as a daily live tech-media show.
 - [How botnets infiltrate the internet of things](sources/tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128.md) — Marketplace Tech episode with Brian Krebs on KimWolf, compromised TV streaming boxes, routers, botnets, proxy networks, DDoS amplification, command-and-control, and router replacement as consumer security hygiene.
 - [States are getting crypto-curious](sources/tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128.md) — Marketplace Tech episode with Liz Farmer of Pew Charitable Trusts on state crypto investment laws, strategic Bitcoin reserves, separate reserve funds, Arizona's seized digital asset custody model, and taxpayer risk from volatile public assets.
 - [Is "made by humans" the new premium label?](sources/tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128.md) — Marketplace Tech episode with Colleen Kirk on AI-authorship labels, consumer authenticity, purchase intent, human-designed products, algorithm aversion, and when AI is accepted as an assisting tool rather than the author.
@@ -676,6 +677,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [John Coogan](entities/JohnCoogan.md) — Founder and media operator whose episode connects Soylent, Lucy, Founders Fund, YouTube, and TBPN through constraint-driven company choices.
+- [TBPN](entities/TBPN.md) — Daily live technology and business media show co-hosted by John Coogan and Jordi Hayes.
+- [Soylent](entities/Soylent.md) — Meal-replacement company whose Social Radars account links startup food scarcity, Hacker News virality, manufacturing, and CPG distribution.
+- [Lucy](entities/Lucy.md) — John Coogan's regulated nicotine-gum company, used as a case in FDA-bound consumer products and shipping-weight economics.
+- [Jordi Hayes](entities/JordiHayes.md) — TBPN co-host whose chemistry with John Coogan and daily-show discipline shape the episode's media branch.
+- [Imagine K-12](entities/ImagineK12.md) — Education-technology accelerator in John Coogan's early startup path, framed as adjacent to Y Combinator.
+- [Rob Rhinehart](entities/RobRhinehart.md) — Soylent founder whose public 30-day experiment and Hacker News post anchor the controversial-launch case.
 - [Brian Krebs](entities/BrianKrebs.md) — Cybersecurity journalist explaining KimWolf, IoT botnets, compromised TV boxes, proxy networks, DDoS attacks, and router replacement advice.
 - [Krebs on Security](entities/KrebsOnSecurity.md) — Cybersecurity publication context for Brian Krebs' Marketplace Tech discussion of botnets and compromised consumer devices.
 - [KimWolf Botnet](entities/KimWolfBotnet.md) — Botnet described as compromising more than three million devices, especially TV streaming boxes tied to pirated-content access.
@@ -4666,6 +4674,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Shipping Weight Economics](concepts/ShippingWeightEconomics.md) — Product-strategy constraint where weight, volume, and fulfillment cost determine whether direct consumer distribution can work.
+- [Regulated Consumer Product Moat](concepts/RegulatedConsumerProductMoat.md) — Consumer-product defensibility pattern where approval, age restrictions, labeling, and compliance slow entry but may reduce competition.
+- [Controversial Launch Virality](concepts/ControversialLaunchVirality.md) — Launch pattern where a strange or stress-testable product claim spreads through debate and curiosity before ordinary operations catch up.
+- [Daily Live Media Cadence](concepts/DailyLiveMediaCadence.md) — Media operating pattern where a show has to happen live at a fixed daily moment with hosts, production, guests, and audience expectation aligned.
 - [IoT Botnet Risk](concepts/IoTBotnetRisk.md) — Risk that ordinary connected devices become remotely controlled attack infrastructure without obvious signs to their owners.
 - [Pirated Streaming Box Malware](concepts/PiratedStreamingBoxMalware.md) — Malware risk created when TV boxes promising cheap unauthorized streaming arrive infected or push users toward risky app stores.
 - [Malicious Proxy Networks](concepts/MaliciousProxyNetworks.md) — Abuse pattern where compromised devices route someone else's traffic through an unsuspecting user's internet connection.

@@ -6335,6 +6335,10 @@
     "title": "Controlled Substances Act",
     "url": "/wiki/concepts/controlledsubstancesact/"
   },
+  "ControversialLaunchVirality": {
+    "title": "Controversial Launch Virality",
+    "url": "/wiki/concepts/controversiallaunchvirality/"
+  },
   "ConvectiveCapital": {
     "title": "Convective Capital",
     "url": "/wiki/entities/convectivecapital/"
@@ -6870,6 +6874,10 @@
   "DailyLifeMystery": {
     "title": "日常推理 / Daily-Life Mystery",
     "url": "/wiki/concepts/dailylifemystery/"
+  },
+  "DailyLiveMediaCadence": {
+    "title": "Daily Live Media Cadence",
+    "url": "/wiki/concepts/dailylivemediacadence/"
   },
   "DailyMail": {
     "title": "Daily Mail",
@@ -12535,6 +12543,10 @@
     "title": "ImageNet",
     "url": "/wiki/entities/imagenet/"
   },
+  "ImagineK12": {
+    "title": "Imagine K-12",
+    "url": "/wiki/entities/imaginek12/"
+  },
   "ImmanuelKant": {
     "title": "Immanuel Kant / 康德",
     "url": "/wiki/entities/immanuelkant/"
@@ -13795,6 +13807,10 @@
     "title": "John Collison",
     "url": "/wiki/entities/johncollison/"
   },
+  "JohnCoogan": {
+    "title": "John Coogan",
+    "url": "/wiki/entities/johncoogan/"
+  },
   "JohnDoerr": {
     "title": "John Doerr",
     "url": "/wiki/entities/johndoerr/"
@@ -13926,6 +13942,10 @@
   "JordanBelfort": {
     "title": "Jordan Belfort",
     "url": "/wiki/entities/jordanbelfort/"
+  },
+  "JordiHayes": {
+    "title": "Jordi Hayes",
+    "url": "/wiki/entities/jordihayes/"
   },
   "JorgeOfBurgos": {
     "title": "豪尔赫 / Jorge of Burgos",
@@ -15802,6 +15822,10 @@
   "LuckinCoffee": {
     "title": "Luckin Coffee / 瑞幸咖啡",
     "url": "/wiki/entities/luckincoffee/"
+  },
+  "Lucy": {
+    "title": "Lucy",
+    "url": "/wiki/entities/lucy/"
   },
   "LudwigWittgenstein": {
     "title": "Ludwig Wittgenstein / 维特根斯坦",
@@ -21267,6 +21291,10 @@
     "title": "Regret Integration",
     "url": "/wiki/concepts/regretintegration/"
   },
+  "RegulatedConsumerProductMoat": {
+    "title": "Regulated Consumer Product Moat",
+    "url": "/wiki/concepts/regulatedconsumerproductmoat/"
+  },
   "RegulatedCryptoTrustStrategy": {
     "title": "Regulated Crypto Trust Strategy",
     "url": "/wiki/concepts/regulatedcryptotruststrategy/"
@@ -21702,6 +21730,10 @@
   "RoaldDahl": {
     "title": "Roald Dahl / 罗尔德·达尔",
     "url": "/wiki/entities/roalddahl/"
+  },
+  "RobRhinehart": {
+    "title": "Rob Rhinehart",
+    "url": "/wiki/entities/robrhinehart/"
   },
   "RobbieMcCluskey": {
     "title": "Robbie McCluskey",
@@ -23043,6 +23075,10 @@
     "title": "Shimazaki Toson / 岛崎藤村",
     "url": "/wiki/entities/shimazakitoson/"
   },
+  "ShippingWeightEconomics": {
+    "title": "Shipping Weight Economics",
+    "url": "/wiki/concepts/shippingweighteconomics/"
+  },
   "ShiraAviono": {
     "title": "Shira Aviono",
     "url": "/wiki/entities/shiraaviono/"
@@ -23586,6 +23622,10 @@
   "SovietUnion": {
     "title": "Soviet Union",
     "url": "/wiki/entities/sovietunion/"
+  },
+  "Soylent": {
+    "title": "Soylent",
+    "url": "/wiki/entities/soylent/"
   },
   "SpaceBasedAIInfrastructure": {
     "title": "Space Based AI Infrastructure",
@@ -24618,6 +24658,10 @@
   "T3Chuxing": {
     "title": "T3 Chuxing",
     "url": "/wiki/entities/t3chuxing/"
+  },
+  "TBPN": {
+    "title": "TBPN",
+    "url": "/wiki/entities/tbpn/"
   },
   "TConScribd": {
     "title": "T-Con (Scribd Co-Founder)",
@@ -30146,6 +30190,10 @@
   "tsr-s5-jared-v3final-tsr-s5-jared-v3final": {
     "title": "Jared Friedman, Partner, Y Combinator; Co-founder, Scribd",
     "url": "/wiki/sources/tsr-s5-jared-v3final-tsr-s5-jared-v3final/"
+  },
+  "tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1": {
+    "title": "John Coogan on Soylent, Lucy, Founders Fund, and TBPN",
+    "url": "/wiki/sources/tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1/"
   },
   "tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio": {
     "title": "Justin Kan on the First YC Batch, Justin.tv, Twitch, and Intrinsic Motivation",

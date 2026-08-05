@@ -2,11 +2,13 @@
 title: "YouTube"
 type: entity
 tags: [company, video, platform, distribution]
-sources: [tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, the-nfl-1, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
+sources: [tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, the-nfl-1, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
 last_updated: 2026-08-05
 ---
 
 # YouTube
+
+[[tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1]] adds YouTube as [[JohnCoogan]]'s post-[[Lucy]] media surface. During COVID, Coogan used YouTube for startup, fundraising, YC, and business video essays, then found that long documentary production was less attractive than the unscripted, live format that became [[TBPN]].
 
 [[tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]] adds YouTube as a platform trying to limit [[AISlop|AI slop]] in 2026. The [[MarketplaceTech]] Bytes episode says CEO [[NeilMohan]] outlined goals that include cracking down on repetitive, low-quality AI-generated content, and [[PareshDave|Paresh Dave]] frames the likely enforcement signal around repetition, misleading clips, mismatched voiceovers, clickbait, labels, and human-rater judgment.
 
@@ -36,6 +38,7 @@ The episode's forward-looking claim is that pure overseas distribution may becom
 
 ## Connections
 - [[Scribd]], [[JaredFriedman]], [[Google]], [[BrianMendoza]], and [[UserGeneratedContentCopyrightRisk]] - document-platform analogy and copyright-risk context added by the Jared Friedman episode.
+- [[JohnCoogan]], [[TBPN]], [[DailyLiveMediaCadence]], and [[VideoPodcastAffordance]] - founder-to-media path added by The Social Radars.
 - [[Meta]], [[SocialMediaProductLiability]], [[PlatformLegalCausation]], [[Section230]], [[Section230DesignWorkaround]], [[PlatformFirstAmendmentDefense]], [[TikTok]], and [[Snapchat]] - platform-liability and youth mental-health litigation branch added by Marketplace Tech.
 - [[AaronMackey]], [[ElectronicFrontierFoundation|Electronic Frontier Foundation]], and [[ComprehensiveConsumerDataPrivacy]] - privacy-legislation alternative added by the April 6, 2026 Marketplace Tech source.
 - [[WangXiaoshu]] — guest describing the distribution experience.

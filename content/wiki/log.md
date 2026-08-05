@@ -5396,3 +5396,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-05] ingest | John Coogan on Soylent, Lucy, Founders Fund, and TBPN
+
+Added source page for a Social Radars episode with John Coogan on Imagine K-12, Soylent, Lucy, Founders Fund, YouTube, and TBPN. Created pages for John Coogan, TBPN, Soylent, Lucy, Jordi Hayes, Imagine K-12, Rob Rhinehart, Shipping Weight Economics, Regulated Consumer Product Moat, Controversial Launch Virality, and Daily Live Media Cadence; updated overview, index, The Social Radars, Y Combinator, Founders Fund, Hacker News, Food and Drug Administration, YouTube, CAA, CPG Distribution, Founder Cash Flow Constraint, Founder Product Fit, Founder Motivation Evolution, and Media Form Constraint. No direct contradiction found; Soylent sales figures, Lucy scale timing, and Coogan's Founders Fund role-fit comments are preserved as source-scoped retrospective claims.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 7,620 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges, so findings are advisory until `build graph` is refreshed; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.

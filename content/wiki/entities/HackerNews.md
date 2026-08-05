@@ -2,11 +2,13 @@
 title: "Hacker News"
 type: entity
 tags: [product, online-community, startups, y-combinator]
-sources: [tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-replit-v2-tsr-s3-replit-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianarmstrong-final]
-last_updated: 2026-08-04
+sources: [tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-replit-v2-tsr-s3-replit-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianarmstrong-final]
+last_updated: 2026-08-05
 ---
 
 # Hacker News
+
+[[tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1]] adds Hacker News as the launch surface where [[RobRhinehart]]'s public [[Soylent]] experiment turned a strange meal-replacement idea into visible demand. The source makes Hacker News part of [[ControversialLaunchVirality]]: the community did not merely supply users, but helped stress-test and spread a provocative consumer-product claim.
 
 [[peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted]] adds Hacker News as the launch surface where [[AnalyticsJS|analytics.js]] became legible as the real [[Segment]] opportunity. [[PeterReinhardt]] says the post reached the top of Hacker News and produced GitHub stars and email signups, giving the team stronger demand evidence than [[ClassMetric]] or the planned analytics product had produced.
 
@@ -28,6 +30,7 @@ The source makes Hacker News a compact case for [[StartupCommunityForumBurden]].
 
 ## Connections
 - [[AnalyticsJS|analytics.js]], [[Segment]], [[PeterReinhardt]], [[ClassMetric]], and [[OpenSourceWedge]] - launch validation case added by the Peter Reinhardt episode.
+- [[Soylent]], [[RobRhinehart]], [[JohnCoogan]], and [[ControversialLaunchVirality]] - consumer-product launch and public stress-test case added by the John Coogan episode.
 - [[Scribd]], [[JaredFriedman]], [[YCombinator]], [[Bookface]], and [[YCInternalSoftware]] - launch distribution and internal-software lineage added by the Jared Friedman episode.
 - [[SpenserSkates]], [[CurtisLiu]], [[Sonalight]], [[Amplitude]], and [[YCombinator]] - startup self-education path added by the Spenser Skates episode.
 - [[PaulGraham]] and [[YCombinator]] - founder and institutional context.

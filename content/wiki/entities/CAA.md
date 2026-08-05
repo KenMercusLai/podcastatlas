@@ -2,11 +2,13 @@
 title: "CAA"
 type: entity
 tags: [company, sports, media, rights]
-sources: [e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]
-last_updated: 2026-07-10
+sources: [tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]
+last_updated: 2026-08-05
 ---
 
 # CAA
+
+[[tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1]] adds CAA as [[TBPN]]'s representation context. [[JohnCoogan]] says signing with CAA changed what he had to learn about building a larger technology media company, after initially imagining TBPN might remain a small podcast with one or a few episodes a week.
 
 CAA appears in [[e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]] as an American-background agency connected to [[UEFA]] national-team competition commercial development in the 2012-2013 period. The episode uses CAA and CAA11 to show that U.S. influence in European football reaches beyond club ownership into rights packaging, sponsorship, and distribution.
 
@@ -20,3 +22,4 @@ In the source, CAA is part of the monetization layer that sits between governing
 ## Connections
 - [[UEFA]], [[RelevantSports]], and [[TeamMarketing]] - commercial-rights context.
 - [[SportsMediaRights]], [[SportsRightsGrowthEngine]], [[AmericanSportsCapitalInEuropeanFootball]], and [[DeFactoSuperLeagueLogic]] - related concepts.
+- [[TBPN]], [[JohnCoogan]], and [[DailyLiveMediaCadence]] - technology media growth and representation context added by The Social Radars.
