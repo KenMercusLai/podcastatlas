@@ -148,6 +148,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to win a penalty shootout (with game theory)](sources/how-to-win-a-penalty-shootout-with-game-theory.md) — Planet Money episode on soccer penalties as game theory, mixed strategy, Ignacio Palacio Huerta's data, Chelsea vs. Manchester United in 2008, and modern penalty reports.
 - [Can the Trump administration make college cheaper?](sources/can-the-trump-administration-make-college-cheaper.md) — Planet Money episode on graduate federal student-loan caps, the Bennett hypothesis, mixed evidence on tuition pass-through, and access risks for borrowers if schools do not cut prices.
 - [Dark times for Cuba's economic experiment](sources/dark-times-for-cubas-economic-experiment.md) — Planet Money episode on Cuba's dual economic strategy, Soviet/Venezuela oil dependence, controlled market reform, tourism collapse, U.S. sanctions and pressure, blackouts, and Yaser Gonzalez Cabrera's City Cleta bike-tour business.
+- [Bytes: Week in Review - SpaceX eyes an IPO, community members want legal commitments from Micron, and YouTube to ditch AI slop](sources/tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Paresh Dave on possible SpaceX, OpenAI, and Anthropic IPOs, Micron's planned Clay, New York mega fab and enforceable community commitments, and YouTube's AI slop crackdown.
 - [Unraveling the complex knot of an AI-generated hoax](sources/tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128.md) — Marketplace Tech episode with Casey Newton on a viral Reddit hoax, AI-generated badge/document evidence, Gemini/SynthID detection, and outrage-triggered verification habits.
 - [Welcome to the 'infocalypse'](sources/tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128.md) — Marketplace Tech episode with Aviv Ovadia on AI-intensified information collapse, verification costs, content credentials, reality apathy, and democratic institutions resilient to synthetic media.
 - [Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI](sources/tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Anita Ramaswamy on Nvidia H200 exports to China, Microsoft's data-center electricity-cost pledge, local backlash, and Apple using Gemini for advanced Siri.
@@ -667,6 +668,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Neil Mohan](entities/NeilMohan.md) — YouTube CEO whose 2026 goals anchor Marketplace Tech's discussion of AI slop enforcement.
+- [Kagi](entities/Kagi.md) — Search engine cited by Marketplace Tech for user-reported AI slop examples used to build detection data.
+- [Clay, New York](entities/ClayNewYork.md) — Town near Syracuse used by Marketplace Tech as the planned site of Micron's mega fab and local community-benefit demands.
+- [Micron Clay Mega Fab](entities/MicronClayMegaFab.md) — Planned Micron memory-chip facility in Clay, New York, tying AI memory capacity to local hiring, environmental, water, and emissions commitments.
 - [Andrew Nelson](entities/AndrewNelson.md) — Fifth-generation farmer and software engineer whose Marketplace Tech episode grounds farm AI in GPS equipment, drone mapping, Crop Wizard, voice models, and agronomist-in-the-loop judgment.
 - [Crop Wizard](entities/CropWizard.md) — UIUC agriculture AI project described as a way to retrieve university research documentation from farm images or situation descriptions.
 - [University of Illinois Urbana-Champaign](entities/UniversityOfIllinoisUrbanaChampaign.md) — University context for Crop Wizard and AI-assisted agricultural research retrieval in the Marketplace Tech farm episode.
@@ -4635,6 +4640,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Slop Detection](concepts/AISlopDetection.md) — Platform-quality workflow for identifying repetitive, low-effort, misleading, or engagement-farmed AI-generated content.
+- [Enforceable Community Benefits](concepts/EnforceableCommunityBenefits.md) — Legally binding local hiring, labor, environmental, water, and emissions commitments demanded around AI-era infrastructure or manufacturing projects.
 - [AI Farm Decision Support](concepts/AIFarmDecisionSupport.md) — Farm AI pattern where models retrieve research, interpret field evidence, and test crop scenarios while farmers and agronomists retain final judgment.
 - [Digital Agriculture](concepts/DigitalAgriculture.md) — Farm digitization layer where software, data, sensors, imagery, and AI enter everyday field operations and equipment decisions.
 - [Drone Crop Mapping](concepts/DroneCropMapping.md) — Use of aerial field imagery and AI analysis to identify crop or weed conditions that human scouting may miss.

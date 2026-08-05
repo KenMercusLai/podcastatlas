@@ -2,8 +2,8 @@
 title: "SpaceX"
 type: entity
 tags: [company, technology, space, hard-tech]
-sources: [tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
-last_updated: 2026-08-04
+sources: [tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
+last_updated: 2026-08-05
 ---
 
 # SpaceX
@@ -17,6 +17,8 @@ SpaceX appears in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-
 The source also frames SpaceX as an organization and manufacturing model. [[ElonMusk]]'s first-principles pressure, [[HighResponsibilityDensity]], and [[FirstPrinciplesManufacturing]] are presented as mechanisms that let a relatively small, young organization do work that traditional aerospace firms handled with much larger structures. The episode then extends SpaceX into a future platform thesis around [[SpaceBasedAIInfrastructure]], [[XAI]], [[Grok]], and [[SpaceXMafia]], while marking some ecosystem integration claims as speculative.
 
 [[far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]] adds the capital-market shock version. The episode says SpaceX's IPO and follow-on issuance turned the company from a private hard-tech platform into a major demand on public equity and bond markets. It stresses that investors are buying uncertain future businesses, not only current launch capability, and that index inclusion could create [[IndexFundAutomaticExposure]] for ordinary savers.
+
+[[tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]] adds an earlier Marketplace Tech IPO-rumor layer. [[PareshDave|Paresh Dave]] says [[ElonMusk]] may want to beat figures such as [[SamAltman]] and [[JeffBezos]] to public markets, while the source frames a possible IPO as a way to fund capital-intensive ambitions such as data centers in space. The episode keeps the space-data-center idea conditional because orbital servers and chips would be difficult to maintain.
 
 [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds the [[XAI|xAI]] acquisition as a bridge between the earlier space-infrastructure thesis and the later IPO-risk frame. The episode says SpaceX's purchase of xAI would put [[Grok]], [[Starlink]], and [[Twitter|X]] under a broader [[ElonMusk]] structure, potentially giving xAI a better-funded home while making a future SpaceX IPO harder to analyze because rocket, satellite, AI, and chatbot-risk claims are bundled together.
 
@@ -47,6 +49,7 @@ The source also frames SpaceX as an organization and manufacturing model. [[Elon
 - [[OrbitalDataCenterEconomics]], [[OrbitalDataCenterThermalManagement]], [[OrbitalComputeGovernance]], and [[MoonMarsStrategySplit]] - E239's detailed orbital-compute and space-strategy branch.
 - [[LiuBinyan]], [[Starbase]], and [[StarCloud]] - guest, site, and startup contrast added by E239.
 - [[XAI|xAI]], [[Grok]], and [[StrategicAIInfrastructureDependence]] — AI-company acquisition and infrastructure-bargaining layer added by Marketplace Tech.
+- [[MeganMcCartyCorino]], [[PareshDave]], [[Wired]], [[SpaceBasedAIInfrastructure]], and [[OrbitalDataCenterEconomics]] - January 23 Marketplace Tech Bytes context around possible IPO capital and space-data-center maintenance uncertainty.
 - [[PareshDave]], [[AIIPOValuation]], and [[DualUseTechInfrastructureTargeting]] - April 3 Marketplace Tech Bytes context around IPO financing and tech infrastructure exposure.
 - [[NASA]] — government knowledge and procurement context that helped shape SpaceX's path.
 - [[BlakeScholl]], [[BoomSupersonic]], and [[RecursiveExpertRecruiting]] - SpaceX talent-network bridge used by Boom.

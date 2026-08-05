@@ -2,8 +2,8 @@
 title: "Data Center Community Consent"
 type: concept
 tags: [ai, data-centers, local-politics, governance]
-sources: [tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Data Center Community Consent
@@ -14,6 +14,8 @@ The concept refines [[DataCenterBacklash]]. Opposition may come from power bills
 
 Community consent also links local politics to [[AIComputeContinuity]]. AI firms need data centers to train, serve, and scale models, but capacity now depends on whether communities accept the local bargain. Bans, moratoriums, referendums, and elections become governance tools when residents doubt that jobs, tax benefits, energy costs, and environmental impacts have been balanced openly.
 
+[[tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]] extends the same social-license logic beyond data centers into semiconductor fabs. The [[MicronClayMegaFab|Micron Clay mega fab]] case shows that communities may welcome strategic AI-related infrastructure while still demanding [[EnforceableCommunityBenefits]] around hiring, emissions, water pollution, and environmental protection.
+
 ## Key Claims
 - Data-center politics intensify when development speed exceeds local planning capacity.
 - Communities may resist not only the physical facility, but also a perceived loss of control over their future.
@@ -21,6 +23,7 @@ Community consent also links local politics to [[AIComputeContinuity]]. AI firms
 - Statewide bans and moratoriums can create time for communities and lawmakers to define acceptable terms.
 - Industry engagement has to address process legitimacy as well as technical mitigations such as cooling systems or energy arrangements.
 - Community consent is a social-license constraint on [[MaaSInfrastructure]], [[AIComputeContinuity]], and [[AIEnergyBottleneck]].
+- The Micron case shows that consent may require enforceable commitments rather than voluntary stewardship language, especially when public benefits and local burdens are unevenly distributed.
 
 ## Connections
 - [[TonyPippa]], [[BrookingsInstitution]], [[MarketplaceTech]], and [[StephanieHughes]] - source expert and interview context.
@@ -28,3 +31,4 @@ Community consent also links local politics to [[AIComputeContinuity]]. AI firms
 - [[HyperscaleDataCenterMoratorium]], [[Maine]], and [[NationalConferenceOfStateLegislatures]] - state pause and legislative-policy branch.
 - [[DataCenterIncentiveReferendum]], [[DataCenterTaxIncentives]], and [[DataCenterCostShifting]] - bargaining mechanisms and cost-allocation issues.
 - [[AIMetabolicInfrastructure]], [[AIEnergyBottleneck]], and [[AIBacklashPolitics]] - material and political AI infrastructure context.
+- [[MicronTechnology]], [[MicronClayMegaFab]], [[ClayNewYork|Clay, New York]], and [[EnforceableCommunityBenefits]] - semiconductor-fab extension added by Marketplace Tech.

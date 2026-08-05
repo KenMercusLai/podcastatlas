@@ -2,13 +2,15 @@
 title: "High Bandwidth Memory"
 type: concept
 tags: [ai, semiconductors, memory, infrastructure]
-sources: [tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
-last_updated: 2026-07-23
+sources: [tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
+last_updated: 2026-08-05
 ---
 
 # High Bandwidth Memory
 
 [[tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128]] adds a concise public explanation of HBM's role in the AI boom. The episode says high-bandwidth memory is needed to train and run AI, is paired with [[Nvidia]] chips, and is made by only a small number of suppliers, so data-center demand can create shortages for other memory-using products.
+
+[[tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]] adds the manufacturing-site version. The episode says [[MicronTechnology|Micron]] is one of three companies making high-bandwidth memory important for AI processing and uses [[MicronClayMegaFab|Micron's planned Clay mega fab]] to show that HBM capacity growth also creates local questions about jobs, wetlands, emissions, and water.
 
 High bandwidth memory is the fast memory category discussed in [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] as a critical companion to AI processors. [[AnitaRamaswamy]] uses [[MicronTechnology]] to explain that AI workloads need memory close to accelerators, making HBM a less visible but important part of the AI data-center stack.
 
@@ -30,9 +32,11 @@ The source's concrete comparison is scale: it describes Nvidia's GB200 as having
 - Advanced packaging and HBM are helpful catch-up levers only if enough advanced chips, materials, equipment, and volume production are also available.
 - HBM roadmap confidence must be paired with packaging and data-center readiness before it translates into reliable inference capacity.
 - HBM supplier concentration and memory-fab capital intensity can make shortages hard to solve quickly.
+- HBM capacity expansion can become a local-governance issue when fabs require land, water, environmental review, and enforceable community commitments.
 
 ## Connections
 - [[MicronTechnology]] - main company case in the source.
+- [[MicronClayMegaFab]], [[ClayNewYork|Clay, New York]], and [[EnforceableCommunityBenefits]] - manufacturing-site and community-benefit branch added by Marketplace Tech.
 - [[Nvidia]] - AI chip platform used for the GB200 memory comparison.
 - [[SKHynix]] and [[Samsung]] - peer suppliers named in the episode.
 - [[AIHardwareSupplyChainPressure]] - broader supply-chain implication.

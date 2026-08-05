@@ -2,11 +2,13 @@
 title: "Wired"
 type: entity
 tags: [media, journalism, technology]
-sources: [tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Wired
+
+[[tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]] adds Wired through [[PareshDave]]'s Marketplace Tech Bytes analysis of possible [[SpaceX]], [[OpenAI]], and [[Anthropic]] IPOs, [[MicronTechnology|Micron]]'s planned [[MicronClayMegaFab|Clay mega fab]], and [[YouTube]]'s [[AISlop|AI slop]] crackdown. In this source, Wired anchors a weekly interpretation of capital markets, semiconductor community commitments, and platform content-quality enforcement.
 
 [[tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128]] adds Wired through reporting that [[Anthropic]] wanted major changes to the [[IllinoisAILiabilityBill|Illinois AI liability bill]] or wanted it killed. In this source, Wired anchors the company-position split between Anthropic and [[OpenAI]] over [[StateAILiabilityShield|state AI liability shields]].
 
@@ -22,6 +24,7 @@ The page mainly anchors source context. It connects the wiki's Marketplace Tech 
 - [[IllinoisAILiabilityBill]], [[Anthropic]], [[OpenAI]], and [[StateAILiabilityShield]] - April 17 state AI liability-bill reporting context.
 - [[PareshDave]] - Wired journalist interviewed in the Marketplace Tech Bytes episodes.
 - [[MarketplaceTech]] and [[StephanieHughes]] - show and host context.
+- [[AIIPOValuation]], [[EnforceableCommunityBenefits]], and [[AISlopDetection]] - January 23 Bytes themes.
 - [[AIHardwareTradeSecretDispute]], [[HyperscaleDataCenterMoratorium]], and [[RobotaxiHybridDeployment]] - July 17, 2026 topic clusters.
 - [[PredictionMarketEthics]], [[DefenseAIProcurement]], and [[AIContentLicensing]] - March 6 topic clusters.
 - [[SpaceBasedAIInfrastructure]] and [[StrategicAIInfrastructureDependence]] - February 6 topic clusters.

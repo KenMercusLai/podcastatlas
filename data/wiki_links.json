@@ -1351,6 +1351,10 @@
     "title": "AI Slop",
     "url": "/wiki/concepts/aislop/"
   },
+  "AISlopDetection": {
+    "title": "AI Slop Detection",
+    "url": "/wiki/concepts/aislopdetection/"
+  },
   "AISocialNetworks": {
     "title": "AI Social Networks",
     "url": "/wiki/concepts/aisocialnetworks/"
@@ -5715,6 +5719,10 @@
     "title": "Claudia Goldin",
     "url": "/wiki/entities/claudiagoldin/"
   },
+  "ClayNewYork": {
+    "title": "Clay, New York",
+    "url": "/wiki/entities/claynewyork/"
+  },
   "CleanBreakDivorceModel": {
     "title": "Clean Break Divorce Model",
     "url": "/wiki/concepts/cleanbreakdivorcemodel/"
@@ -8594,6 +8602,10 @@
   "EnergyTradingScaleAdvantage": {
     "title": "Energy Trading Scale Advantage",
     "url": "/wiki/concepts/energytradingscaleadvantage/"
+  },
+  "EnforceableCommunityBenefits": {
+    "title": "Enforceable Community Benefits",
+    "url": "/wiki/concepts/enforceablecommunitybenefits/"
   },
   "EngineeringCompetition": {
     "title": "Engineering Competition",
@@ -14039,6 +14051,10 @@
     "title": "《花粉症与人类》 / 花粉症と人類",
     "url": "/wiki/entities/kafunshotojinrui/"
   },
+  "Kagi": {
+    "title": "Kagi",
+    "url": "/wiki/entities/kagi/"
+  },
   "KaiShiDaJi": {
     "title": "《开市大吉》",
     "url": "/wiki/entities/kaishidaji/"
@@ -16871,6 +16887,10 @@
     "title": "Microhistory From Hostile Archives",
     "url": "/wiki/concepts/microhistoryfromhostilearchives/"
   },
+  "MicronClayMegaFab": {
+    "title": "Micron Clay Mega Fab",
+    "url": "/wiki/entities/micronclaymegafab/"
+  },
   "MicronTechnology": {
     "title": "Micron Technology",
     "url": "/wiki/entities/microntechnology/"
@@ -17778,6 +17798,10 @@
   "NeilHughes": {
     "title": "Neil Hughes",
     "url": "/wiki/entities/neilhughes/"
+  },
+  "NeilMohan": {
+    "title": "Neil Mohan",
+    "url": "/wiki/entities/neilmohan/"
   },
   "NeoCloud": {
     "title": "Neo Cloud",
@@ -29466,6 +29490,10 @@
   "tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128": {
     "title": "Unraveling the complex knot of an AI-generated hoax",
     "url": "/wiki/sources/tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128/"
+  },
+  "tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128": {
+    "title": "Bytes: Week in Review - SpaceX eyes an IPO, community members want legal commitments from Micron, and YouTube to ditch AI slop",
+    "url": "/wiki/sources/tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128/"
   },
   "tech-20260127-0127-mp-tech-pod-128-tech-20260127-0127-mp-tech-pod-128": {
     "title": "A historic home tour of the virtual world",

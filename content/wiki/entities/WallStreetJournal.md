@@ -2,8 +2,8 @@
 title: "Wall Street Journal"
 type: entity
 tags: [media, journalism, workplace, publishing]
-sources: [tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Wall Street Journal
@@ -11,6 +11,8 @@ last_updated: 2026-07-25
 The Wall Street Journal enters the wiki through [[RaySmith]]'s affiliation in [[tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128]]. In this [[MarketplaceTech]] source, it functions as the reporting context behind Smith's discussion of [[AIInterviewing]], candidate preparation, and how automated assessments are moving deeper into the hiring process.
 
 The page is primarily source context rather than a separate claim about the publication's own strategy. It anchors the workplace-reporting source that connects AI interviews to [[ObjectiveHiringAssessment]], [[AIHiringArmsRace]], and [[HumanJudgmentUnderAI]].
+
+[[tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]] adds the Wall Street Journal as the publication whose reporting is cited for [[SpaceX]] possibly wanting IPO capital for data centers in space. In this source, the Journal is a reporting input to [[PareshDave|Paresh Dave]]'s [[MarketplaceTech]] analysis of [[SpaceBasedAIInfrastructure]] and [[OrbitalDataCenterEconomics]], not the direct interview source.
 
 [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] adds the Wall Street Journal as a [[NewsCorp]] publication that the episode says first reported [[Meta]]'s AI licensing deal. In this source, the Journal is part of the publisher-side context for [[AIContentLicensing]], not the source of a workplace-AI segment.
 
@@ -20,6 +22,7 @@ The page is primarily source context rather than a separate claim about the publ
 
 ## Connections
 - [[NewsCorp]], [[Meta]], and [[AIContentLicensing]] - publisher licensing context added by Marketplace Tech.
+- [[SpaceX]], [[SpaceBasedAIInfrastructure]], [[OrbitalDataCenterEconomics]], and [[AIIPOValuation]] - reporting context cited by Marketplace Tech in the SpaceX IPO discussion.
 - [[LaurenWeber]], [[OlderWorkerAIRetirement]], and [[InstitutionalKnowledgeTransfer]] - workplace AI and older-worker retirement branch.
 - [[JohnCarreyrou|John Carreyrou]], [[TylerShultz|Tyler Shultz]], [[Theranos]], and [[RupertMurdoch|Rupert Murdoch]] - Theranos investigation and ownership-pressure context.
 - [[RaySmith]] - workplace reporter affiliated with the publication in the episode.

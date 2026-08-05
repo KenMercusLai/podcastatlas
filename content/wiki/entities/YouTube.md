@@ -2,11 +2,13 @@
 title: "YouTube"
 type: entity
 tags: [company, video, platform, distribution]
-sources: [tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, the-nfl-1]
-last_updated: 2026-08-04
+sources: [tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, the-nfl-1, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # YouTube
+
+[[tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]] adds YouTube as a platform trying to limit [[AISlop|AI slop]] in 2026. The [[MarketplaceTech]] Bytes episode says CEO [[NeilMohan]] outlined goals that include cracking down on repetitive, low-quality AI-generated content, and [[PareshDave|Paresh Dave]] frames the likely enforcement signal around repetition, misleading clips, mismatched voiceovers, clickbait, labels, and human-rater judgment.
 
 [[tsr-s5-jared-v3final-tsr-s5-jared-v3final]] adds YouTube as the analogy and legal-risk predecessor for [[Scribd]]. [[JaredFriedman]] says Scribd came from brainstorming "YouTube for X" ideas after YouTube's acquisition by [[Google]], and that [[BrianMendoza]] later drew on YouTube experience when helping Scribd handle [[UserGeneratedContentCopyrightRisk]].
 
@@ -40,6 +42,7 @@ The episode's forward-looking claim is that pure overseas distribution may becom
 - [[TheSocialRadars]], [[JessicaLivingston]], and [[CarolynLevy]] — podcast and hosts planning more video clips.
 - [[VideoPodcastAffordance]] — full-episode video context added by the Season Five update.
 - [[MoffettNathanson]], [[YouTubeMediaDominance]], [[Alphabet]], and [[AIAdvertisingTargeting]] — Marketplace Tech report frame around revenue, ecosystem leverage, and targeting.
+- [[NeilMohan]], [[AISlop]], [[AISlopDetection]], [[AIContentProvenance]], and [[Kagi]] - AI slop enforcement and detection branch added by Marketplace Tech.
 - [[NationalFootballLeague|NFL]], [[YouTubeTV|YouTube TV]], [[SportsMediaRights]], and [[LiveSportsStreamingTransition]] - sports-rights branch added by Acquired.
 - [[AIShortDrama]] — content category being distributed.
 - [[AIVideoProductionWorkflow]] — workflow and localization services that may replace pure distribution value.

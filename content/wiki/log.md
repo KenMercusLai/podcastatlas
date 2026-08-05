@@ -5328,3 +5328,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-05] lint | Wiki health check
 
 Ran lint. Report output was kept in-session; lint-report.md was not saved.
+
+## [2026-08-05] ingest | Bytes: Week in Review - SpaceX eyes an IPO, community members want legal commitments from Micron, and YouTube to ditch AI slop
+
+Added source page for a Marketplace Tech Bytes episode on possible SpaceX, OpenAI, and Anthropic IPOs, Micron's planned Clay, New York mega fab, enforceable community commitments, and YouTube's AI slop crackdown. Created pages for Neil Mohan, Kagi, Clay, New York, Micron Clay Mega Fab, Enforceable Community Benefits, and AI Slop Detection; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Paresh Dave, Wired, SpaceX, OpenAI, Anthropic, Micron Technology, Wall Street Journal, YouTube, AI IPO Valuation, Space Based AI Infrastructure, Orbital Data Center Economics, High Bandwidth Memory, Tech Manufacturing Reshoring, Data Center Community Consent, AI Metabolic Infrastructure, and AI Slop. No direct contradiction found; SpaceX IPO timing and valuation are preserved as source-dated claims because later wiki sources describe different reported stages and valuation/profitability frames.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

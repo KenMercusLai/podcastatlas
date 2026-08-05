@@ -2,8 +2,8 @@
 title: "AI IPO Valuation"
 type: concept
 tags: [ai, investing, valuation]
-sources: [tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
-last_updated: 2026-07-25
+sources: [tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
+last_updated: 2026-08-05
 ---
 
 # AI IPO Valuation
@@ -15,6 +15,8 @@ AI IPO valuation is the episode's frame for evaluating hot private technology co
 [[145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]] adds a useful qualification through [[SpaceX]]. [[LouisHong]] says possible IPO attention may be a capital-market recognition moment for space, but the technical inflection came earlier through [[ReusableRocketEconomics]] and the 2015 [[Falcon9]] landing. The valuation lesson is therefore two-sided: investors should respect real platform progress while still separating industry importance from public-market entry price.
 
 [[tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]] adds the pre-IPO race version. [[PareshDave]] says [[SpaceX]] reportedly made a confidential filing that could put it ahead of possible [[Anthropic]] and [[OpenAI]] IPOs, while [[OpenAI]]'s corporate structure could slow its paperwork. The source also complicates valuation work by bundling [[Starlink]], [[Starship]], [[XAI|xAI]], [[Twitter|X]], and space data-center ambitions into one possible public-company story.
+
+[[tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]] adds an earlier Marketplace Tech version of the same public-market question. [[PareshDave|Paresh Dave]] says possible IPOs by [[SpaceX]], [[OpenAI]], and [[Anthropic]] can be read as credibility, disclosure, liquidity, and capital-access events, not only valuation headlines. The source also frames SpaceX's possible space-data-center ambitions as a reason public capital might be attractive despite high technical uncertainty.
 
 [[far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]] adds the index-transmission version. The episode says [[SpaceX]]'s IPO valued it near $2 trillion and briefly pushed it toward $3 trillion, but warns that unprofitable, uncertain businesses can become ordinary-saver exposure once major indices and pension portfolios buy automatically. This turns IPO valuation from a voluntary stock-picking decision into [[IndexFundAutomaticExposure]].
 
@@ -30,6 +32,7 @@ AI IPO valuation is the episode's frame for evaluating hot private technology co
 - The SpaceX IPO segment adds that benchmark inclusion can transfer valuation risk to passive investors who did not deliberately choose the single-name exposure.
 - The SpaceX/xAI segment adds that corporate bundling can make an IPO harder to underwrite because profitable infrastructure businesses and cash-burning AI bets may be mixed together.
 - The April 3 source adds IPO-timing competition: entering public markets before other frontier AI companies can matter if investor attention, liquidity, and comparable valuations are scarce.
+- The January 23 source adds that IPOs can broaden who funds capital-intensive AI ventures, but that broader access does not remove the need to evaluate cash burn, technical uncertainty, and exit incentives.
 
 ## Connections
 - [[OpenAI]], [[Anthropic]], and [[SpaceX]] — companies used in the episode's valuation discussion.
@@ -41,3 +44,4 @@ AI IPO valuation is the episode's frame for evaluating hot private technology co
 - [[AIEquityValuationRisk]], [[Nvidia]], and [[JensenHuang]] — public-equity version added by EP39.
 - [[XAI|xAI]], [[Grok]], [[SpaceBasedAIInfrastructure]], and [[ElonMusk]] — SpaceX/xAI pre-IPO complication added by Marketplace Tech.
 - [[PareshDave]], [[Starlink]], [[Starship]], and [[Twitter|X]] - bundled SpaceX filing and IPO-race context added by the April 3 Marketplace Tech source.
+- [[PublicCompanyTransition]], [[PublicMarketCommunication]], [[SpaceBasedAIInfrastructure]], and [[OrbitalDataCenterEconomics]] - credibility, disclosure, and capital-intensive space-data-center context added by the January 23 Marketplace Tech source.

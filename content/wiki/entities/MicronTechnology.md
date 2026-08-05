@@ -2,11 +2,13 @@
 title: "Micron Technology"
 type: entity
 tags: [company, semiconductors, memory, ai]
-sources: [tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
-last_updated: 2026-07-23
+sources: [tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
+last_updated: 2026-08-05
 ---
 
 # Micron Technology
+
+[[tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]] adds Micron through its planned [[MicronClayMegaFab|mega fab]] in [[ClayNewYork|Clay, New York]]. The [[MarketplaceTech]] Bytes episode says Micron is one of the few companies making [[HighBandwidthMemory|high-bandwidth memory]] essential to AI processing, but it uses the fab mainly as a public-accountability test: local civil rights, environmental, and labor groups want hiring, environmental, emissions, and water commitments enforceable in court.
 
 Micron Technology appears in [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] as the semiconductor company anchoring the episode's memory-chip segment. [[AnitaRamaswamy]] explains that Micron sells several memory products, but that [[HighBandwidthMemory]] is the fast-growing category because AI processing needs fast memory close to accelerators.
 
@@ -23,9 +25,11 @@ The source makes Micron a case in [[AIHardwareSupplyChainPressure]]. AI data-cen
 - Consumer storage pressure is presented as a downstream effect of AI demand rather than an isolated retail-price story.
 - The What's Next source positions Micron inside a longer [[AIStorageSupercycle]], while preserving the risk that memory remains cyclical.
 - The Marketplace Tech January 13 source treats Micron's consumer-RAM exit as evidence that higher-margin AI infrastructure customers can reshape supplier priorities.
+- The Marketplace Tech January 23 source treats Micron's U.S. manufacturing expansion as locally conditional: strategic memory capacity still has to answer questions about jobs, water, emissions, and land use.
 
 ## Connections
 - [[HighBandwidthMemory]] - main product category discussed.
+- [[MicronClayMegaFab]], [[ClayNewYork|Clay, New York]], and [[EnforceableCommunityBenefits]] - local facility and commitment branch added by Marketplace Tech.
 - [[AIHardwareSupplyChainPressure]] - supply-chain pattern the episode illustrates.
 - [[Nvidia]] - AI chip platform whose memory intensity makes HBM strategically important.
 - [[SKHynix]] and [[Samsung]] - memory-market peers named in the source.
