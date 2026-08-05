@@ -2,11 +2,13 @@
 title: "Internet Moral Trial / 互联网审判"
 type: concept
 tags: [internet-culture, judgment, public-expression, creators, ethics]
-sources: [145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 123-renxing-shiyan-dangxin-ni-ziji-779479569, 121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
-last_updated: 2026-07-24
+sources: [24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441, 145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 123-renxing-shiyan-dangxin-ni-ziji-779479569, 121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
+last_updated: 2026-08-05
 ---
 
 # Internet Moral Trial / 互联网审判
+
+[[24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441]] adds a fictional community-panic case through [[DefendingJacob|《捍卫雅各布》 / Defending Jacob]]. Once online student comments and neighborhood hostility point toward [[JacobBarber|Jacob Barber]], the episode shows how suspicion can become social punishment before legal proof has done its work.
 
 [[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] adds a public-argument boundary. The source accepts that some online conflict can be worth having for third-party witnesses, but it warns against confusing that with endless attempts to make a hostile stranger concede or with addictive punishment-seeking.
 
@@ -39,6 +41,7 @@ The concept is not a ban on judgment. The episode preserves basic values and bot
 - Forensic-science discourse adds that partial clues and missing evidence should reduce online certainty, not intensify amateur conviction.
 - Social psychology adds that anonymity, group identity, and character attribution can make cruelty feel like justice.
 - Episode 145 adds that envy and contempt can make online punishment feel personally relieving before it becomes ethically examined.
+- The legal-thriller case adds that community accusation may feel protective after a child murder, but it can still bypass [[LegalTruthEvidenceGap]] and convert suspicion into informal punishment.
 
 ## Connections
 - [[ZhaoLusi|赵露思]] - public-figure case that opens the discussion.
@@ -54,3 +57,4 @@ The concept is not a ban on judgment. The episode preserves basic values and bot
 - [[ForensicScience]], [[CSIEffect]], and [[EvidenceOverTestimony]] - source-121 extension around evidence expectations and online judgment.
 - [[ActorObserverBias]], [[Deindividuation]], [[HostileMediaEffect]], and [[EmotionalContagion]] - source-123 mechanisms behind public certainty and online group behavior.
 - [[EnvyContemptComparison]], [[SocialComparisonPressure]], [[LowStatusSyndrome]], [[SchadenfreudeAsComparisonEmotion]], and [[DehumanizationByComparison]] - episode-145 comparison-emotion extension.
+- [[DefendingJacob|《捍卫雅各布》 / Defending Jacob]], [[JacobBarber]], and [[LegalTruthEvidenceGap]] - fictional school-and-neighborhood suspicion case.

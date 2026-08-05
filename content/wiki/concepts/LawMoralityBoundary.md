@@ -2,11 +2,13 @@
 title: "Law-Morality Boundary"
 type: concept
 tags: [law, ethics, criminal-law, moralism]
-sources: [sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488]
-last_updated: 2026-07-24
+sources: [24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488]
+last_updated: 2026-08-05
 ---
 
 # Law-Morality Boundary
+
+[[24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441]] adds a parenthood and crime-fiction case through [[DefendingJacob|《捍卫雅各布》 / Defending Jacob]]. The source makes parental love morally intelligible but legally dangerous when [[AndyBarber|Andy Barber]] hides evidence for [[JacobBarber|Jacob]], while [[LaurieBarber|Laurie Barber]]'s final act tests whether fear of future harm can ever become a defensible private judgment.
 
 Law-morality boundary is the episode's problem of deciding when morality should shape law and when law should resist becoming enforced morality. In [[100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]], the battered-women bigamy case shows why "法不容情" can be too mechanical, while arbitrary moral discretion can also become corruption.
 
@@ -29,6 +31,7 @@ The source distinguishes positive moralism from negative moralism. It rejects cr
 - Cultural humility matters in criminal cases, but it cannot replace evidence, equality, and victim protection.
 - End-of-life mercy can be morally intelligible and still need legal limits because death is irreversible and vulnerable people may be pressured, misdiagnosed, or left without care.
 - Anti-insurer anger can be morally intelligible and still require legal boundaries because private punishment and state execution both convert moral judgment into violence.
+- Parental love can make concealment or prevention feel morally urgent, but it still needs legal boundaries because victims, evidence, and future harms are not owned by the family.
 
 ## Connections
 - [[LegalParadoxThinking]] - reasoning style needed for the boundary problem.
@@ -40,3 +43,4 @@ The source distinguishes positive moralism from negative moralism. It rejects cr
 - [[CulturalRelativismVictimProtectionBoundary]], [[FieldworkSexualViolence]], and [[VictimBlamingAsInstitutionalDefense]] - episode 113's cross-cultural violence extension.
 - [[AssistedDeathClinicalResponsibility]], [[AssistedDeathConceptBoundary]], and [[FamilyEthicsAtEndOfLife]] - assisted-death extension from episode 119.
 - [[VigilanteJusticeUniversalizationRisk]], [[CapitalPunishmentRetributionProblem]], and [[USHealthInsuranceDenialPolitics]] - sp.04 extension around private violence, state punishment, and health-care anger.
+- [[ParentalDefenseConflict]], [[LegalTruthEvidenceGap]], and [[DefendingJacob|《捍卫雅各布》 / Defending Jacob]] - fiction extension around family feeling, evidence, and legal responsibility.

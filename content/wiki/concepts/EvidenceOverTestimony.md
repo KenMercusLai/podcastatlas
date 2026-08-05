@@ -2,11 +2,13 @@
 title: "Evidence Over Testimony"
 type: concept
 tags: [evidence, memory, testimony, skepticism]
-sources: [121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
-last_updated: 2026-07-24
+sources: [24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441, 121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
+last_updated: 2026-08-05
 ---
 
 # Evidence Over Testimony
+
+[[24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441]] adds a courtroom-fiction case through [[DefendingJacob|《捍卫雅各布》 / Defending Jacob]]. The source treats the blood fingerprint, knife, online material, witness claims, violent writing, and later drowning uncertainty as serious evidence problems, while still stressing that none of them should be confused with omniscient certainty.
 
 Evidence over testimony is the episode's rule of thumb that physical evidence usually deserves more weight than human testimony when the claim is extraordinary. In [[185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]], this matters for UFO sightings, alien abduction stories, witch-trial memories, religious testimony, hypnosis, hallucination, and perceptual errors.
 
@@ -25,6 +27,7 @@ The concept does not say people always lie. It says sincere perception and memor
 - Institutions can make testimony more dangerous when they treat fear, performance, and authority-approved interpretation as proof rather than as claims needing checks.
 - Cultural explanations or claimed taboos need evidentiary grounding before they are allowed to recode violence as misunderstanding or consent.
 - Physical evidence can correct memory and rumor, but it still needs method, context, and confidence limits.
+- A collection of suspicious clues can justify investigation without automatically closing the [[LegalTruthEvidenceGap]].
 
 ## Connections
 - [[MemoryContaminationRisk]] - mechanism by which testimony can become unreliable.
@@ -34,3 +37,4 @@ The concept does not say people always lie. It says sincere perception and memor
 - [[SpectralEvidence]], [[SalemWitchTrials]], and [[WitchHuntMechanism]] - witch-trial case where testimony outruns evidence.
 - [[HenriettaSchmerler]], [[GurneySeymour]], and [[CulturalRelativismVictimProtectionBoundary]] - episode 113's trial and taboo-claim extension.
 - [[ForensicScience]], [[CSIEffect]], and [[TraceEvidenceForensics]] - source-121 forensic-evidence extension.
+- [[DefendingJacob|《捍卫雅各布》 / Defending Jacob]], [[JacobBarber]], [[LegalTruthEvidenceGap]], and [[DrowningForensicUncertainty]] - episode-24 legal-thriller extension.

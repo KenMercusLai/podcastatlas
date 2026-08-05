@@ -2,11 +2,13 @@
 title: "Forensic Science / 法证鉴识"
 type: concept
 tags: [forensic-science, criminal-justice, evidence, institutions]
-sources: [121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343, 50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]
-last_updated: 2026-07-24
+sources: [24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441, 121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343, 50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]
+last_updated: 2026-08-05
 ---
 
 # Forensic Science / 法证鉴识
+
+[[24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441]] adds a legal-thriller application through [[DefendingJacob|《捍卫雅各布》 / Defending Jacob]]. The episode's fingerprint, knife, blood, online-writing, and drowning details show how forensic and quasi-forensic evidence can increase suspicion while still needing chain of custody, alternative explanations, admissibility, and courtroom testing.
 
 Forensic science / 法证鉴识 is the court-facing use of scientific and technical knowledge to collect, preserve, compare, and explain evidence. [[121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343]] makes the concept explicit by explaining that "forensic" points to a legal forum, not only to a medical examiner. A forensic pathologist is one participant inside a larger system of crime-scene investigators, laboratory specialists, toxicologists, entomologists, psychologists, botanists, firearms examiners, and expert witnesses.
 
@@ -20,6 +22,7 @@ This page also gathers earlier wiki forensic branches. [[50-kaitangshou-jieke-ji
 - The same trace can support a claim, weaken a claim, or remain ambiguous depending on collection, contamination, comparison data, and alternative explanations.
 - Legal use matters: experts must explain methods under cross-examination, not only produce technical findings.
 - Public confidence should be calibrated between cynicism and fantasy: forensic science can reveal truth, but it cannot remove uncertainty from every case.
+- Fictional courtroom cases can use forensic clues to stage the difference between suspicion, trial strategy, and legally proved fact.
 
 ## Connections
 - [[LocardsExchangePrinciple]], [[TraceEvidenceForensics]], and [[ScientificSamplingDiscipline]] - material and methodological base.
@@ -27,3 +30,4 @@ This page also gathers earlier wiki forensic branches. [[50-kaitangshou-jieke-ji
 - [[CSIEffect]] and [[InternetMoralTrial]] - distorted public expectations around evidence and judgment.
 - [[DrowningForensicUncertainty]], [[ForensicDeathTimeInference]], [[ForensicEntomology]], [[BloodstainPatternAnalysis]], and [[ForensicToxicology]] - evidence subfields from source 121.
 - [[ContestedForensicAttribution]], [[ForensicHairEvidence]], and [[PalynologyAsEvidence]] - earlier wiki evidence branches.
+- [[DefendingJacob|《捍卫雅各布》 / Defending Jacob]], [[LegalTruthEvidenceGap]], and [[DrowningForensicUncertainty]] - episode-24 fiction case around forensic uncertainty.

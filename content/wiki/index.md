@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [24.捍卫雅各布：相信你是我唯一的执念](sources/24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441.md) — 蜜獾吃书 episode on William Landay's 《捍卫雅各布》, legal proof versus truth, parental defense, inherited violence, forensic ambiguity, and first-person moral alignment.
 - [E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？](sources/e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67.md) — 硅谷101 episode on U.S. healthcare AI, physician administrative burden, billing/coding automation, HIPAA constraints, OpenEvidence, OpenAI and Anthropic healthcare products, and doctor-led medical AI workflows.
 - [E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛](sources/e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73.md) — 硅谷101 episode with Zhou Jiangong on Demis Hassabis, DeepMind's reinforcement-learning AGI route, AlphaGo, AlphaFold, Google acquisition, Gemini catch-up, and scientific ideal versus AI race risk.
 - [当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert](sources/dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi.md) — 42章经 episode with Albert on AI coding abundance, model-company value capture, small maker tools, software as cultural work, maker community, and one-person fund speculation.
@@ -697,6 +698,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《捍卫雅各布》 / Defending Jacob](entities/DefendingJacob.md) — William Landay legal thriller used by 蜜獾吃书 to examine evidence, parental defense, inherited-risk claims, and moral ambiguity.
+- [William Landay](entities/WilliamLanday.md) — Legal-thriller author whose prosecutor background grounds the episode's courtroom and evidence analysis.
+- [Andy Barber](entities/AndyBarber.md) — Prosecutor-father narrator whose defense of Jacob turns love into conflict-of-interest and evidence-destruction pressure.
+- [Jacob Barber](entities/JacobBarber.md) — Accused teenager whose ambiguous evidence trail anchors the source's legal proof versus private suspicion problem.
+- [Laurie Barber](entities/LaurieBarber.md) — Mother whose fear, guilt, and final act test parental responsibility when certainty and future danger do not align.
+- [Billy Barber](entities/BillyBarber.md) — Imprisoned grandfather whose violent history drives the episode's inherited-risk and family-cover-up branch.
 - [OpenEvidence](entities/OpenEvidence.md) — Physician-facing medical AI search product framed around evidence-grounded answers, licensed medical content, doctor adoption, and advertising trust risk.
 - [ChatGPT Health](entities/ChatGPTHealth.md) — OpenAI's consumer health product surface, useful for health questions and preparation but bounded by disclaimers, data separation, and doctor consultation.
 - [ChatGPT for Healthcare](entities/ChatGPTForHealthcare.md) — OpenAI hospital-facing healthcare platform path for prior authorization, record summaries, patient communication, coding, and institution workflows.
@@ -4809,6 +4816,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Legal Truth-Evidence Gap / 法律真相与证据差距](concepts/LegalTruthEvidenceGap.md) — Gap between what happened and what a court can responsibly decide from admissible evidence.
+- [Parental Defense Conflict / 父母辩护冲突](concepts/ParentalDefenseConflict.md) — Ethical and legal clash when protecting a child may betray evidence, victims, public duty, or future safety.
+- [Genetic Culpability Problem / 遗传归责问题](concepts/GeneticCulpabilityProblem.md) — Question of how law should handle inherited traits or psychological risk without punishing identity before conduct.
+- [First-Person Moral Alignment / 第一人称道德贴近](concepts/FirstPersonMoralAlignment.md) — Narrative effect where a morally compromised narrator becomes emotionally legible before final judgment.
 - [Physician Administrative Burden](concepts/PhysicianAdministrativeBurden.md) — U.S. healthcare workflow problem where doctors spend large time on records, insurance, documentation, coding, and billing rather than patient care.
 - [Healthcare AI Infrastructure](concepts/HealthcareAIInfrastructure.md) — Medical AI layer below the chatbot surface: billing, coding, compliance, APIs, EHR integration, data sharing, deployment, and auditability.
 - [Medical Billing and Coding Automation](concepts/MedicalBillingAndCodingAutomation.md) — AI use case for translating clinical work into payer-facing codes, checking documentation, and reducing denial or payment delays.

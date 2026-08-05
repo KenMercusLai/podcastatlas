@@ -2,11 +2,13 @@
 title: "Criminal Law As Power Limitation"
 type: concept
 tags: [law, criminal-law, state-power, rights]
-sources: [sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]
-last_updated: 2026-07-24
+sources: [24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]
+last_updated: 2026-08-05
 ---
 
 # Criminal Law As Power Limitation
+
+[[24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441]] adds a fiction case through [[DefendingJacob|《捍卫雅各布》 / Defending Jacob]]. The episode's "murder gene" discussion strengthens the page's conduct-based premise: even when inherited violence, psychological risk, or public fear make someone seem dangerous, criminal law cannot punish a person for identity before a proved act.
 
 Criminal law as power limitation is the episode's central institutional claim in [[100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]]. Criminal law is not only the means by which society punishes wrongdoing; it is also a restraint on the state, because the power to investigate, accuse, imprison, and execute can become more dangerous than ordinary crime.
 
@@ -20,6 +22,7 @@ The source uses [[MagnaCarta|Magna Carta / 大宪章]], wrongful-death historica
 - Public anger can make procedural restraint look like weakness, even when restraint is the thing protecting everyone.
 - Historical and media-driven miscarriages show why suspicion should not become punishment before lawful judgment.
 - The death penalty intensifies the power-limitation problem because legal error, public pressure, and political symbolism cannot be repaired after execution.
+- Genetic risk, family history, or feared personality traits cannot become guilt unless law abandons conduct-based responsibility.
 
 ## Connections
 - [[LegalParadoxThinking]] - broader reasoning frame.
@@ -29,3 +32,4 @@ The source uses [[MagnaCarta|Magna Carta / 大宪章]], wrongful-death historica
 - [[InternetMoralTrial]] - public-fury and informal-punishment neighbor.
 - [[MagnaCarta]] and [[RichardJewell]] - examples used by the source.
 - [[CapitalPunishmentRetributionProblem]], [[VigilanteJusticeUniversalizationRisk]], and [[LuigiCaseSuspect]] - sp.04 extension around state and private violence.
+- [[DefendingJacob|《捍卫雅各布》 / Defending Jacob]], [[LegalTruthEvidenceGap]], and [[GeneticCulpabilityProblem]] - fiction case around evidence, identity, and punishment.

@@ -2,11 +2,13 @@
 title: "Rational Humility"
 type: concept
 tags: [reasoning, science, evidence, epistemology]
-sources: [sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 174-du-dikaer-shi-jian-dashi-966856702, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
-last_updated: 2026-07-24
+sources: [24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 174-du-dikaer-shi-jian-dashi-966856702, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+last_updated: 2026-08-05
 ---
 
 # Rational Humility
+
+[[24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441]] adds a legal-thriller version through [[DefendingJacob|《捍卫雅各布》 / Defending Jacob]]. The source asks listeners to hold several partial truths at once: evidence against [[JacobBarber|Jacob Barber]] is frightening, [[AndyBarber|Andy Barber]]'s love is understandable, [[LaurieBarber|Laurie Barber]]'s fear is not irrational, and none of that grants a god's-eye certainty about what happened.
 
 [[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] adds an argument-and-persuasion version. The episode distinguishes caution from performative neutrality: limited information should lower confidence, but claiming absolute neutrality can become another status posture. It also treats persuasion as ethically bounded, because trying to change someone else requires a prior check of purpose, relationship, and value.
 
@@ -49,6 +51,7 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 - Assisted-death humility adds that the more irreversible the decision, the more careful judgment must be about facts, alternatives, language, and the observer's distance from the actual pain.
 - Anti-doctrine humility adds that a coherent philosophy can still be incomplete when tested by relationships, politics, and ordinary life.
 - Contact-style humility adds that science can remain the best method while still admitting that cosmic scale, alien intelligence, and religious meaning cannot be closed by posture alone.
+- Legal-thriller humility adds that suspicion, fear, love, and legal proof can all diverge, so judgment should not pretend to know more than the evidence can carry.
 
 ## Connections
 - [[ReneDescartes]], [[MethodicDoubt]], [[CogitoErgoSum]], and [[RationalistMethod]] - Descartes branch that clarifies foundation-seeking versus total certainty.
@@ -66,3 +69,4 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 - [[EuthanasiaUncertaintyStance]], [[CrossCulturalAssistedDeathEthics]], and [[AssistedDeathClinicalResponsibility]] - end-of-life ethics extension from episode 119.
 - [[IdeologicalTotalizationRisk]], [[Objectivism]], and [[Existentialism]] - episode-135 extension into the limits of doctrine.
 - [[ContactNovel|《接触》 / Contact]], [[SETI]], and [[OpenExtraterrestrialCivilizationImagination]] - sp.01's science, religion, and extraterrestrial-intelligence extension.
+- [[DefendingJacob|《捍卫雅各布》 / Defending Jacob]], [[LegalTruthEvidenceGap]], and [[ParentalDefenseConflict]] - episode-24 extension into criminal suspicion and family love.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-05] ingest | 24.捍卫雅各布：相信你是我唯一的执念
+
+Added source page for a 蜜獾吃书 episode on William Landay's 《捍卫雅各布》 / Defending Jacob, covering legal truth versus evidence, parental defense, inherited violence, forensic ambiguity, and first-person moral alignment. Created pages for Defending Jacob, William Landay, Andy Barber, Jacob Barber, Laurie Barber, Billy Barber, Legal Truth-Evidence Gap, Parental Defense Conflict, Genetic Culpability Problem, and First-Person Moral Alignment; updated overview, index, 蜜獾吃书, 秦总, 北明 / 北民, Criminal Law As Power Limitation, Law-Morality Boundary, Rational Humility, Internet Moral Trial, Evidence Over Testimony, Forensic Science, Moral Suspension In Art Reading, and Action Defines Identity. No direct contradiction found; the source reinforces legal-humility and forensic-evidence pages while adding a fiction case where parental love makes evidence discipline emotionally costly.
+
 ## [2026-08-05] ingest | E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛
 
 Added source page for a 硅谷101 episode with 周建功 on Demis Hassabis, DeepMind's reinforcement-learning AGI route, AlphaGo, AlphaFold, the Google/Facebook acquisition choice, Google DeepMind's Gemini catch-up, and the tension between scientific AI ideals and an escalating AI race. Created pages for DeepMind, Demis Hassabis, Zhou Jiangong, Sebastian Mallaby, Mustafa Suleyman, Shane Legg, David Silver, John Jumper, Zhou Kaixuan, Inflection AI, Geoff Hinton, Richard Sutton, Yoshua Bengio, Reinforcement Learning AGI Path, Scientific Ideal vs AI Arms Race, and DeepMind Acquisition Choice; updated overview, index, Silicon Valley 101, Google DeepMind, Gemini, AlphaGo, AlphaFold, AGI Narrative, Language Model Scaling Bet, AI Alignment Governance, AI For Science, Larry Page, Mark Zuckerberg, Facebook, Peter Thiel, Founders Fund, and Elon Musk. No direct contradiction found; the source reinforces the existing language-model route contrast while adding a more sympathetic account of why DeepMind's RL-and-science path was coherent before ChatGPT shifted the competitive center.
@@ -5544,6 +5548,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-05] ingest | 真正改变世界的技术，为什么一开始都不被看好？| S10E16
 
 Added source page for a What's Next｜科技早知道 episode with Wang Bo on semiconductor history and why important technologies are often underestimated at first. Created pages for Wang Bo, A Brief History of Chips, Bell Labs, Fairchild Semiconductor, Muhammad Atalla, Dawon Kahng, AT&T, Andrew Grove, Disruptive Innovation, MOSFET, Bipolar Junction Transistor, System-Level Semiconductor Optimization, and Domain Know-How Moat; updated overview, index, What's Next｜科技早知道, Moore's Law, Tau Law, Electronic Design Automation, Semiconductor Supply Chain, Non-Consensus Innovation, Large Company Organizational Inertia, Human Judgment Under AI, Intel, Gordon Moore, Huawei, Constraint Driven Engineering Strategy, Battery Manufacturing Know-How, Technology Installation Cycle, Nvidia, Google, and Jensen Huang. No direct contradiction found; the source reinforces the existing cautious Tau Law interpretation while adding the historical pattern that early yield, heat, speed, stability, and tooling weaknesses can hide scalable advantages.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-05] lint | Wiki health check
 
