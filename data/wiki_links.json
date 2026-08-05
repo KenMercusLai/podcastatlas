@@ -423,6 +423,10 @@
     "title": "168.放学后的小巷：致青春，致那年的友谊【日常推理强势回归！！】",
     "url": "/wiki/sources/168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535/"
   },
+  "17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565": {
+    "title": "17.地狱变：众生皆苦，一念入魔",
+    "url": "/wiki/sources/17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565/"
+  },
   "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962": {
     "title": "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感",
     "url": "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
@@ -2039,9 +2043,17 @@
     "title": "阿娇 / 柱子哥",
     "url": "/wiki/entities/ajiao/"
   },
+  "AkiraKurosawa": {
+    "title": "黑泽明 / Akira Kurosawa",
+    "url": "/wiki/entities/akirakurosawa/"
+  },
   "AkutagawaRyunosuke": {
     "title": "芥川龙之介 / Ryunosuke Akutagawa",
     "url": "/wiki/entities/akutagawaryunosuke/"
+  },
+  "AkutagawaSalvationProblem": {
+    "title": "Akutagawa Salvation Problem / 芥川式救赎问题",
+    "url": "/wiki/concepts/akutagawasalvationproblem/"
   },
   "AlDavis": {
     "title": "Al Davis",
@@ -2942,6 +2954,10 @@
   "ArtAgainstMoralInstruction": {
     "title": "Art Against Moral Instruction / 反道德说教的艺术",
     "url": "/wiki/concepts/artagainstmoralinstruction/"
+  },
+  "ArtAsRevenge": {
+    "title": "Art As Revenge / 艺术作为复仇",
+    "url": "/wiki/concepts/artasrevenge/"
   },
   "ArtCommerceIntegration": {
     "title": "Art Commerce Integration",
@@ -11795,6 +11811,10 @@
     "title": "Helium-3",
     "url": "/wiki/concepts/helium3/"
   },
+  "HellScreen": {
+    "title": "《地狱变》 / Hell Screen",
+    "url": "/wiki/entities/hellscreen/"
+  },
   "HelloKitty": {
     "title": "Hello Kitty",
     "url": "/wiki/entities/hellokitty/"
@@ -12443,6 +12463,10 @@
     "title": "Human Risk Override",
     "url": "/wiki/concepts/humanriskoverride/"
   },
+  "HumanWorldAsHell": {
+    "title": "Human World As Hell / 人间如地狱",
+    "url": "/wiki/concepts/humanworldashell/"
+  },
   "HumanisticScienceCommunication": {
     "title": "Humanistic Science Communication",
     "url": "/wiki/concepts/humanisticsciencecommunication/"
@@ -12662,6 +12686,10 @@
   "ImpulseWatch": {
     "title": "Impulse Watch",
     "url": "/wiki/entities/impulsewatch/"
+  },
+  "InAGrove": {
+    "title": "《竹林中》 / In a Grove",
+    "url": "/wiki/entities/inagrove/"
   },
   "InHouseBankingSoftware": {
     "title": "In-House Banking Software",
@@ -14270,6 +14298,10 @@
   "KangxiLaile": {
     "title": "《康熙来了》 / Kangxi Coming",
     "url": "/wiki/entities/kangxilaile/"
+  },
+  "KappaAkutagawa": {
+    "title": "《河童》 / Kappa",
+    "url": "/wiki/entities/kappaakutagawa/"
   },
   "KaraDyer": {
     "title": "Kara Dyer",
@@ -21115,6 +21147,18 @@
     "title": "Rare Earth Processing Bottleneck",
     "url": "/wiki/concepts/rareearthprocessingbottleneck/"
   },
+  "RashomonAkutagawa": {
+    "title": "《罗生门》 / Rashomon",
+    "url": "/wiki/entities/rashomonakutagawa/"
+  },
+  "RashomonEffect": {
+    "title": "Rashomon Effect / 罗生门效应",
+    "url": "/wiki/concepts/rashomoneffect/"
+  },
+  "RashomonFilm": {
+    "title": "黑泽明《罗生门》 / Rashomon Film",
+    "url": "/wiki/entities/rashomonfilm/"
+  },
   "RatingsCom": {
     "title": "Ratings.com",
     "url": "/wiki/entities/ratingscom/"
@@ -23166,6 +23210,10 @@
   "ShiraAviono": {
     "title": "Shira Aviono",
     "url": "/wiki/entities/shiraaviono/"
+  },
+  "ShiroAkutagawa": {
+    "title": "《小白》 / Shiro",
+    "url": "/wiki/entities/shiroakutagawa/"
   },
   "ShivonZilis": {
     "title": "Shivon Zilis",
@@ -25319,6 +25367,10 @@
     "title": "《夜莺与玫瑰》 / The Nightingale and the Rose",
     "url": "/wiki/entities/thenightingaleandtherose/"
   },
+  "TheNoseAkutagawa": {
+    "title": "《鼻子》 / The Nose",
+    "url": "/wiki/entities/thenoseakutagawa/"
+  },
   "TheOdyssey": {
     "title": "The Odyssey",
     "url": "/wiki/entities/theodyssey/"
@@ -25366,6 +25418,10 @@
   "TheSocialRadars": {
     "title": "The Social Radars",
     "url": "/wiki/entities/thesocialradars/"
+  },
+  "TheSpiderThread": {
+    "title": "《蛛丝》 / The Spider's Thread",
+    "url": "/wiki/entities/thespiderthread/"
   },
   "TheSwineherd": {
     "title": "《猪倌》 / The Swineherd",
@@ -26418,6 +26474,10 @@
   "UnprotectedOverseasWork": {
     "title": "Unprotected Overseas Work",
     "url": "/wiki/concepts/unprotectedoverseaswork/"
+  },
+  "UnreliablePraiseNarration": {
+    "title": "Unreliable Praise Narration / 赞美式不可靠叙述",
+    "url": "/wiki/concepts/unreliablepraisenarration/"
   },
   "UnscalableFounderWork": {
     "title": "Unscalable Founder Work",

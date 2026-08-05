@@ -2,8 +2,8 @@
 title: "Transcendence Against Human Feeling"
 type: concept
 tags: [literature, ethics, immortality, suffering]
-sources: [76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]
-last_updated: 2026-07-24
+sources: [76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106, 17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565]
+last_updated: 2026-08-05
 ---
 
 # Transcendence Against Human Feeling
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 Transcendence against human feeling is the ethical problem added by [[76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220]] through [[DuZiChun|《杜子春》]]. The source reads the story's failed immortality test as more than a lesson about discipline: if becoming immortal requires not speaking before torture, death, childbirth, or the killing of a child, then transcendence begins to look like the removal of the very reactions that make someone human.
 
 The [[AkutagawaRyunosuke|芥川龙之介]] comparison intensifies the concept. In the episode's account, Akutagawa's version makes the master say that if 杜子春 had not broken silence, he would have been killed. Ordinary life, small property, and remaining human become preferable to spiritual success purchased by emotional extinction.
+
+[[17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565]] extends the Akutagawa branch from one adaptation into an author-level [[AkutagawaSalvationProblem]]. [[HellScreen|《地狱变》]] and [[TheSpiderThread|《蛛丝》]] ask whether rescue, compassion, or grace can survive fear, selfishness, power, and art; the newer source therefore shifts the concept from immortality testing toward broader salvation failure.
 
 [[sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]] adds a technological neighbor through [[RogerZelazny|Zelazny]]. In [[TwentyFourViewsOfMountFujiByHokusai|《富岳二十四景》]], digital upload can preserve loneliness and coercive control instead of transcending them, while [[ForABreathITarry|《趁生命气息逗留》]] makes body and fear necessary to becoming human. The new branch is captured more directly in [[DigitalTranscendenceAsControl]] and [[EmbodiedPersonhood]].
 
@@ -25,6 +27,7 @@ The [[AkutagawaRyunosuke|芥川龙之介]] comparison intensifies the concept. I
 ## Connections
 - [[DuZiChun|《杜子春》]] - source story.
 - [[AkutagawaRyunosuke|芥川龙之介]] - adaptation comparison used by the episode.
+- [[AkutagawaSalvationProblem]], [[HellScreen|《地狱变》]], and [[TheSpiderThread|《蛛丝》]] - episode-17 extension from one adaptation into Akutagawa's wider salvation question.
 - [[TangChuanqi]] - genre frame for supernatural moral testing.
 - [[PainAndMoralResponsibility]] - related suffering-and-ethics frame.
 - [[NonInstrumentalLiteraryReading]] - the story's force lies in the felt conflict between doctrine and attachment.

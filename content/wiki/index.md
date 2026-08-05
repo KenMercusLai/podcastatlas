@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [17.地狱变：众生皆苦，一念入魔](sources/17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565.md) — 蜜獾吃书 episode on 芥川龙之介, 《地狱变》, 《竹林中》, 《罗生门》, unreliable narration, Rashomon-style truth fracture, art as revenge, and salvation under cruelty.
 - [16.时尚受害者：惊！绿色或为最毒颜色](sources/16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282.md) — 蜜獾吃书 episode on 《时尚受害者》, toxic dyes and cosmetics, mercury hatmaking, arsenic green, flammable dress, fashion labor exposure, body freedom, and hidden environmental costs.
 - [15.闭经记：更年期给我自由！](sources/15-bijingji-gengnianqi-gei-wo-ziyou-557912552.md) — 蜜獾吃书 episode on 伊藤比吕美《闭经记》, menopause, menstrual shame, mother-daughter inheritance, female friendship, embodied aging, and bodily self-possession beyond fertility and youth.
 - [05.她来自马里乌波尔：“如果你看见过我曾见到的。”](sources/05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925.md) — 蜜獾吃书 episode on 纳塔莎·沃丁《她来自马里乌波尔》, Mariupol, family memory, Soviet repression, Ukrainian famine, Nazi Eastern forced labor, postwar displacement, and silence after catastrophe.
@@ -680,6 +681,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《地狱变》 / Hell Screen](entities/HellScreen.md) — Akutagawa short story used by episode 17 to connect unreliable praise narration, power violence, artist fixation, hell imagery, and art as revenge.
+- [《竹林中》 / In a Grove](entities/InAGrove.md) — Akutagawa short story whose contradictory testimony structure anchors the episode's truth-fracture and Rashomon-effect discussion.
+- [《罗生门》 / Rashomon](entities/RashomonAkutagawa.md) — Akutagawa short story kept distinct from 《竹林中》 while explaining the title layer behind Kurosawa's film.
+- [黑泽明《罗生门》 / Rashomon Film](entities/RashomonFilm.md) — Film adaptation that fuses 《竹林中》's testimony plot with 《罗生门》's gate frame and spreads the Rashomon-effect label.
+- [黑泽明 / Akira Kurosawa](entities/AkiraKurosawa.md) — Director whose Rashomon adaptation gives Akutagawa's separate stories a new cultural afterlife.
+- [《蛛丝》 / The Spider's Thread](entities/TheSpiderThread.md) — Akutagawa story used by episode 17 to frame failed salvation through a broken rescue chance.
+- [《河童》 / Kappa](entities/KappaAkutagawa.md) — Akutagawa social satire used by the episode to extend his darkness into absurd institutions, labor, and birth.
+- [《鼻子》 / The Nose](entities/TheNoseAkutagawa.md) — Akutagawa story translated by 鲁迅 and used by the episode to read mockery, pity, envy, and bodily social pressure.
+- [《小白》 / Shiro](entities/ShiroAkutagawa.md) — Akutagawa story used by the episode to connect guilt, failed rescue, self-punishment, and repair.
 - [《时尚受害者》 / Fashion Victims](entities/FashionVictimsBook.md) — Fashion-history book used by 蜜獾吃书 to connect clothing, cosmetics, dyes, accessories, fire, labor exposure, and ecological harm.
 - [Coco Chanel / 香奈儿女士](entities/CocoChanel.md) — Designer figure used by the episode to connect simplicity, trousers, color avoidance, and women's practical clothing freedom.
 - [Charles Nicolle / 尼科勒](entities/CharlesNicolle.md) — Bacteriologist used by the episode to connect clothing, lice, soap, and infectious-disease prevention.
@@ -2097,7 +2107,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李宗闵](entities/LiZongmin.md) — Figure grouped with 牛僧儒 in episode 76's account of the 牛李党争.
 - [《周秦行纪》](entities/ZhouQinXingJi.md) — Disputed erotic tale treated by episode 76 as a possible factional-attribution and reputation problem.
 - [《杜子春》](entities/DuZiChun.md) — Immortality-test story used by episode 76 to ask whether transcendence requires giving up human feeling.
-- [芥川龙之介 / Ryunosuke Akutagawa](entities/AkutagawaRyunosuke.md) — Japanese writer invoked through his 《杜子春》 adaptation and its more humane ending.
+- [芥川龙之介 / Ryunosuke Akutagawa](entities/AkutagawaRyunosuke.md) — Japanese writer now grounded in both his 《杜子春》 adaptation and episode 17's full discussion of 《地狱变》, 《竹林中》, 《蛛丝》, 《河童》, 《鼻子》, and salvation under cruelty.
 - [《中华蟹史》](entities/ZhonghuaXieshi.md) — Crab-history book used to connect Mid-Autumn eating, literary crab references, Shanghai's "沪" etymology, and giant-crab folklore.
 - [钱苍水](entities/QianCangshui.md) — Jiangsu Taicang author of 《中华蟹史》, treated source-locally as the crab-history compiler behind the episode's festival-food turn.
 - [《中亚行迹》 / Sovietistan](entities/ZhongyaXingji.md) — Travel-anthropology book recommended as a way to read post-Soviet Central Asia through social change rather than sightseeing.
@@ -4688,6 +4698,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Rashomon Effect / 罗生门效应](concepts/RashomonEffect.md) — Pattern where multiple accounts of the same event conflict without one stable public truth, added through 《竹林中》 and 黑泽明《罗生门》.
+- [Unreliable Praise Narration / 赞美式不可靠叙述](concepts/UnreliablePraiseNarration.md) — Narrative pattern where repeated praise of power exposes the violence and loyalty system it tries to cover.
+- [Art As Revenge / 艺术作为复仇](concepts/ArtAsRevenge.md) — Reading frame where art preserves traumatic evidence and returns it against the power that caused the trauma.
+- [Human World As Hell / 人间如地狱](concepts/HumanWorldAsHell.md) — Literary frame where hell imagery diagnoses worldly social cruelty rather than only afterlife punishment.
+- [Akutagawa Salvation Problem / 芥川式救赎问题](concepts/AkutagawaSalvationProblem.md) — Akutagawa-centered question of whether rescue, compassion, or grace can survive cruelty, selfishness, power, and guilt.
 - [Toxic Fashion Material Risk](concepts/ToxicFashionMaterialRisk.md) — Clothing, cosmetics, accessories, footwear, fibers, dyes, and cleaning practices as possible infectious, chemical, fire, mechanical, and environmental exposure systems.
 - [Fashion Supply Chain Externality](concepts/FashionSupplyChainExternality.md) — Hidden worker, animal, waste, and downstream costs behind fashionable color, sheen, shape, cheapness, or novelty.
 - [Gendered Fashion Safety Blame](concepts/GenderedFashionSafetyBlame.md) — Pattern where dangerous fashion is blamed on women's vanity while industry, law, spectatorship, and profit remain less visible.

@@ -2,8 +2,8 @@
 title: "鲁迅"
 type: entity
 tags: [writer, critic, chinese-literature, satire, language]
-sources: [fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
-last_updated: 2026-08-04
+sources: [fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437, 17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565]
+last_updated: 2026-08-05
 ---
 
 # 鲁迅
@@ -24,6 +24,8 @@ The Rulin Waishi source links Lu Xun backward and forward in the satire traditio
 
 [[fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433]] adds a reception-history mention through [[JinPingMei|《金瓶梅》]]. [[Banlatte|半拿铁]] cites Lu Xun among modern evaluators who treat the novel as serious literature and social-historical writing rather than only scandalous material, connecting his critical authority to [[GenreLiteraryLegitimacy]] and [[ClassicReadingComplexity]].
 
+[[17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565]] adds Lu Xun as an early Chinese reception figure for [[AkutagawaRyunosuke|芥川龙之介]]. The episode says Lu Xun translated [[TheNoseAkutagawa|《鼻子》]] and [[RashomonAkutagawa|《罗生门》]] in 1921 and published them in Beijing's Morning News, making Akutagawa part of the modern China-Japan literary exchange context rather than only a later world-literature name.
+
 ## Connections
 - [[GushiXinbian|《故事新编》]], [[LiShui|《理水》]], and [[QiSi|《起死》]] - episode 75's main Lu Xun texts.
 - [[GuJiegang|顾颉刚]], [[GushiBian|古史辨]], [[Zhuangzi|庄子]], [[QiWuLun|《齐物论》]], and [[GuoMoruo|郭沫若]] - source-scoped interlocutors and allusion fields for the episode.
@@ -35,3 +37,4 @@ The Rulin Waishi source links Lu Xun backward and forward in the satire traditio
 - [[GeologicalResearchInstitute|地质研究所/地质调查所]], [[Zhoukoudian|周口店]], and [[Yinxu|殷墟]] - episode 19's science and archaeology context around Lu Xun's wider interests.
 - [[CosmopolitanChineseScholarship]] and [[FieldworkAsKnowledgeMethod]] - modern scholarly formation frames that complicate a purely literary Lu Xun image.
 - [[JinPingMei|《金瓶梅》]], [[GenreLiteraryLegitimacy]], and [[ClassicReadingComplexity]] - reception-history branch added by the Banlatte special.
+- [[AkutagawaRyunosuke|芥川龙之介]], [[TheNoseAkutagawa|《鼻子》]], and [[RashomonAkutagawa|《罗生门》]] - early translation and reception branch added by episode 17.
