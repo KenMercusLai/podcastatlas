@@ -2,11 +2,13 @@
 title: "Russia"
 type: entity
 tags: [country, geopolitics, security, space, crypto]
-sources: [how-to-get-what-greenland-has-with-permission, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
-last_updated: 2026-07-24
+sources: [81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209, how-to-get-what-greenland-has-with-permission, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
+last_updated: 2026-08-06
 ---
 
 # Russia
+
+[[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]] adds a post-Soviet retaliation note through [[OlegGordievsky|Oleg Gordievsky]]'s life after [[OperationPimlico]]. The [[MihuanChishu|蜜獾吃书]] episode says he continues living under protection in the [[UnitedKingdom]] and uses later attacks on former Russian intelligence defectors as evidence that escape from the [[KGB]] did not end the threat.
 
 [[120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218]] adds a historical-imperial layer through [[RussianEmpire]], [[PeterTheGreat]], and [[VitusBering]]. The episode frames eighteenth-century Russia as a land empire trying to become a maritime power by forcing routes through Siberia toward [[Okhotsk]], [[Kamchatka]], [[BeringStrait]], [[BeringSea]], and [[Alaska]]. This adds [[RussianNorthPacificExpansion]], [[ImperialExplorationLogistics]], and [[ExplorationToExtractionPipeline]] as pre-modern roots of later North Pacific colonial and ecological consequences.
 
@@ -42,3 +44,4 @@ The source frames Russia's pressure as intentionally ambiguous. Drone incursions
 - [[China]], [[ArtemisAccords]], [[Moon]], and [[LunarResourceGovernance]] - lunar diplomacy branch added by Marketplace Tech.
 - [[A7A5]], [[Stablecoins]], and [[StablecoinSanctionsEvasion]] - crypto sanctions branch added by the 2026-02-12 Marketplace Tech episode.
 - [[Greenland]], [[UnitedStates]], [[China]], and [[GreenlandStrategicAccess]] - Arctic missile-warning and location branch added by Planet Money.
+- [[OlegGordievsky]], [[OperationPimlico]], [[KGB]], and [[UnitedKingdom]] - post-defection threat branch added by 蜜獾吃书 episode 81.

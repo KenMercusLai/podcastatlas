@@ -2,13 +2,15 @@
 title: "United Kingdom"
 type: entity
 tags: [country, politics, europe]
-sources: [80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]
+sources: [81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209, 80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]
 last_updated: 2026-08-06
 ---
 
 # United Kingdom
 
 [[80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649]] adds a Cold War intelligence branch through [[MI6]], [[OperationSunbeam]], and [[OperationPimlico]]. In the [[MihuanChishu|蜜獾吃书]] episode, British intelligence identifies [[OlegGordievsky|Oleg Gordievsky]] from defector files and Danish observations, then treats [[SpySourceProtection]] as a strategic reason to handle him patiently.
+
+[[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]] extends the same branch into national decision-making. [[MargaretThatcher|Margaret Thatcher]] reads Gordievsky-derived intelligence, moves toward contact with [[MikhailGorbachev|Mikhail Gorbachev]], and later approves [[OperationPimlico]] despite diplomatic risk, making Britain the state case for [[ExtractionPromiseEthics]] as well as [[ColdWarSpycraft]].
 
 The United Kingdom is the country case in [[keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b]], where [[TheIntelligence]] revisits [[Brexit]] ten years after the referendum. The episode frames Brexit as a long-running national rupture that changed trade, party politics, immigration expectations, regulation, and Britain's role between the [[EuropeanUnion]], the United States, and European security.
 
@@ -32,4 +34,4 @@ The source's central claim is that Britain was not instantly broken by Brexit, b
 - [[ReformUK]], [[ConservativePartyUK]], and [[RestoreBritain]] - by-election and party-competition pressure map.
 - [[NigelFarage]], [[CountBinface]], [[Clacton]], and [[PoliticalFarceAccountability]] - later Clacton by-election and satire branch.
 - [[OnlineAgeVerification]], [[AgeVerificationPatchwork]], [[DrewHarwell]], and [[Australia]] - age-verification regulation branch added by Marketplace Tech.
-- [[MI6]], [[OlegGordievsky]], [[OperationSunbeam]], [[OperationPimlico]], and [[SpySourceProtection]] - Cold War intelligence branch added by 蜜獾吃书 episode 80.
+- [[MI6]], [[OlegGordievsky]], [[OperationSunbeam]], [[OperationPimlico]], [[SpySourceProtection]], [[MargaretThatcher]], and [[ExtractionPromiseEthics]] - Cold War intelligence branch added by 蜜獾吃书 episodes 80 and 81.

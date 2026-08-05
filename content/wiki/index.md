@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [81.间谍与叛徒：恕我直言，007的故事弱爆了（下）](sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209.md) — 蜜獾吃书 episode continuing Oleg Gordievsky's London intelligence work, Operation RYAN, Aldrich Ames's betrayal, Operation Pimlico, escape through Finland, and the costs of source protection.
 - [80.间谍与叛徒：恕我直言，007的故事弱爆了（上）](sources/80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649.md) — 蜜獾吃书 episode on Ben Macintyre's 《间谍与叛徒》, Oleg Gordievsky, KGB, MI6, ideological defection, Denmark, Operation Sunbeam, and Operation Pimlico.
 - [79.各位领导，但凡咱学点博弈论：契约理论如何解释职场管理](sources/79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262.md) — 蜜獾吃书 episode on 聂辉华《一切皆契约》, contract theory, prisoner’s dilemma, information asymmetry, credential signaling, book price wars, workplace incentives, equity, motivation crowding out, and internal marketization limits.
 - [78.西方决斗史：出剑吧！为了荣誉！](sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000.md) — 蜜獾吃书 episode on Western dueling as judicial ordeal, chivalric spectacle, honor culture, proceduralized violence, women duelists, weapon lethality, and U.S. political duels.
@@ -730,6 +731,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [CIA / Central Intelligence Agency / 中情局](entities/CIA.md) — U.S. intelligence service whose need for Soviet-warning intelligence and curiosity about Britain's source created ally-side exposure risk in episode 81.
+- [Aldrich Ames / 奥德里奇·艾姆斯](entities/AldrichAmes.md) — CIA officer whose betrayal to the KGB exposed Oleg Gordievsky and made Operation Pimlico urgent.
+- [Operation RYAN / 莱恩行动](entities/OperationRYAN.md) — KGB nuclear-war warning operation used by episode 81 to show Soviet fear becoming an intelligence feedback loop.
+- [Margaret Thatcher / 玛格丽特·撒切尔](entities/MargaretThatcher.md) — British prime minister who used Gordievsky-derived intelligence and approved Operation Pimlico despite diplomatic risk.
+- [Ronald Reagan / 罗纳德·里根](entities/RonaldReagan.md) — U.S. president whose hard-line Cold War posture shaped Soviet fear in the episode's Operation RYAN branch.
+- [Mikhail Gorbachev / 米哈伊尔·戈尔巴乔夫](entities/MikhailGorbachev.md) — Soviet leader whose British and U.S. encounters are interpreted through Gordievsky's strategic intelligence in episode 81.
+- [Yuri Andropov / 尤里·安德罗波夫](entities/YuriAndropov.md) — Soviet leader tied to Operation RYAN and the conversion of nuclear fear into a KGB collection task.
+- [Finland](entities/Finland.md) — Cold War border route and diplomatic-ambiguity setting for Operation Pimlico's extraction of Gordievsky.
+- [Veronica Price / 维罗尼卡·普莱斯](entities/VeronicaPrice.md) — MI6 figure who kept Operation Pimlico actionable and coordinated the Finnish-side rescue in episode 81.
+- [Michael Foot / 迈克尔·富特](entities/MichaelFoot.md) — British politician appearing as a contested source-scoped KGB-money allegation in Gordievsky's London intelligence.
+- [Michael Bettaney / 迈克尔·贝塔尼](entities/MichaelBettaney.md) — British-side intelligence figure in the "Koba" letter incident used to show Gordievsky's counterintelligence value.
 - [《间谍与叛徒》 / The Spy and the Traitor](entities/TheSpyAndTheTraitor.md) — Ben Macintyre nonfiction book used by episode 80 to narrate Oleg Gordievsky's Cold War defection from KGB officer to MI6 source.
 - [Ben Macintyre / 本·麦金泰尔](entities/BenMacintyre.md) — Author of 《间谍与叛徒》, introduced through episode 80's Cold War espionage narrative.
 - [Oleg Gordievsky / 奥列格·戈尔杰夫斯基](entities/OlegGordievsky.md) — KGB officer and MI6 source whose ideological defection anchors episode 80.
@@ -5049,6 +5061,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Cold War Nuclear Misperception / 冷战核误判](concepts/ColdWarNuclearMisperception.md) — Episode 81 frame for nuclear escalation risk created by fear, adversary perception, and intelligence feedback loops.
+- [Intelligence Liaison Risk / 情报盟友协作风险](concepts/IntelligenceLiaisonRisk.md) — Ally-sharing problem where sanitized intelligence, curiosity, and compromised officials can expose a protected source.
+- [Extraction Promise Ethics / 撤离承诺伦理](concepts/ExtractionPromiseEthics.md) — Ethical frame for honoring rescue promises to human intelligence sources despite diplomatic, family, and operational costs.
+- [Strategic Intelligence Interpretation / 战略情报解释](concepts/StrategicIntelligenceInterpretation.md) — Concept for intelligence value as a judgment model of the adversary's fears, rules, and institutional habits.
 - [Ideological Defection / 意识形态叛逃](concepts/IdeologicalDefection.md) — Episode 80 frame for gradual covert rejection of a system from inside its own intelligence institution.
 - [Totalitarian Double Life / 极权双重生活](concepts/TotalitarianDoubleLife.md) — Pattern where public loyalty and private belief diverge under coercive ideology and surveillance.
 - [Cold War Spycraft / 冷战间谍技艺](concepts/ColdWarSpycraft.md) — Episode 80 counterimage to spy fiction, built from file reading, source handling, signals, restraint, and escape planning.

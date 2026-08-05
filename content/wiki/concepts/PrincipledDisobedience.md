@@ -2,7 +2,7 @@
 title: "Principled Disobedience / 原则性不服从"
 type: concept
 tags: [dissent, ethics, agency, politics, organizations]
-sources: [80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187]
+sources: [81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209, 80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187]
 last_updated: 2026-08-06
 ---
 
@@ -16,6 +16,8 @@ The source's formula frames principled disobedience as deviation from convention
 
 [[80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649]] complicates the concept with [[OlegGordievsky|Oleg Gordievsky]]. His [[IdeologicalDefection]] is principled in motive but not public in form: working with [[MI6]] against the [[KGB]] shows how refusal can become covert when open speech would mean prison, exposure, or death.
 
+[[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]] pushes that ambiguity further. Gordievsky's refusal may help reduce nuclear misperception and expose KGB dysfunction, but it also requires lying to family, risking colleagues, depending on a foreign service, and living afterward under protection. The episode therefore keeps principled disobedience from becoming a simple purity story.
+
 ## Key Claims
 - Disobedience needs a principle and a public or interpersonal contribution, not only a mood.
 - Social pressure is part of the test because dissent that costs nothing may be style rather than courage.
@@ -24,6 +26,7 @@ The source's formula frames principled disobedience as deviation from convention
 - The source connects principled disobedience to truth, but also to method: persuasion, timing, allies, credibility, and emotional endurance decide whether truth travels.
 - Episode 77 adds that a single "no" can carry dignity when power's preferred response is silence, reverence, or compliance.
 - Episode 80 adds that covert refusal can still be principled, but it carries extra moral and operational ambiguity because it uses secrecy and foreign intelligence channels.
+- Episode 81 adds that even consequentially valuable covert refusal can leave family damage, diplomatic risk, and permanent exposure.
 
 ## Connections
 - [[TheArtOfInsubordination]] and [[ToddKashdan]] - book and author source.
@@ -33,3 +36,4 @@ The source's formula frames principled disobedience as deviation from convention
 - [[AntiAuthoritarianEducation]] - education branch that asks children to learn courageous refusal without ignoring cost.
 - [[OrianaFallaci]], [[AlexandrosPanagoulis]], and [[FreedomAsDignity]] - episode 77's journalist and resistance cases.
 - [[OlegGordievsky]], [[KGB]], [[MI6]], and [[IdeologicalDefection]] - covert Cold War case added by episode 80.
+- [[OperationPimlico]], [[ColdWarNuclearMisperception]], [[ExtractionPromiseEthics]], and [[AldrichAmes]] - episode-81 continuation of the Cold War case.

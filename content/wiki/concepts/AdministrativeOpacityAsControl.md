@@ -2,7 +2,7 @@
 title: "Administrative Opacity As Control"
 type: concept
 tags: [government, bureaucracy, transparency, power]
-sources: [80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649, 04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843, 118-shi-dachen-xinla-fengci-yongbuguoshi-768665425]
+sources: [81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209, 80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649, 04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843, 118-shi-dachen-xinla-fengci-yongbuguoshi-768665425]
 last_updated: 2026-08-06
 ---
 
@@ -18,6 +18,8 @@ The concept differs from simple lying. Opacity works best when it is embedded in
 
 [[80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649]] adds a state-security version through [[KGB]] culture. The episode's [[OlegGordievsky|Gordievsky]] story shows opacity operating inside the institution itself: officers perform loyalty, families conceal beliefs, foreign reporting is distrusted, and suspicion of internal betrayal turns information control into both power and fear.
 
+[[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]] adds a late Cold War escalation version through [[OperationRYAN]]. The KGB is not only hiding information from outsiders; it is also asked to collect information that fits a leadership fear about a U.S. first strike. The same opacity appears after Gordievsky disappears, when trackers hesitate to report failure because bureaucratic blame may be safer to delay than truth.
+
 ## Key Claims
 - Transparency slogans can be absorbed by the bureaucracy that they were supposed to discipline.
 - Opacity becomes stronger when it is justified as prudence, stability, or protection rather than secrecy.
@@ -25,6 +27,7 @@ The concept differs from simple lying. Opacity works best when it is embedded in
 - Information control shapes political power before any explicit policy decision is made.
 - In technical systems, opacity can become a safety risk because operators, responders, and outside publics cannot reason from the full facts.
 - In intelligence systems, opacity can also discipline insiders by making every private doubt look like a potential security breach.
+- A security bureaucracy can distort risk assessment when reporting upward becomes an exercise in confirming fear or avoiding blame.
 
 ## Connections
 - [[YesMinister|《是，大臣》 / Yes Minister]] - source case.
@@ -35,3 +38,4 @@ The concept differs from simple lying. Opacity works best when it is embedded in
 - [[BureaucraticRiskAvoidance]] - related pattern where officials prefer procedural safety.
 - [[ChernobylNuclearPowerPlant]], [[NuclearSafetyPropaganda]], and [[PostDisasterTruthAndResponsibility]] - disaster extension added by 蜜獾吃书 episode 04.
 - [[KGB]], [[OlegGordievsky]], [[TotalitarianDoubleLife]], and [[IdeologicalDefection]] - state-security extension added by 蜜獾吃书 episode 80.
+- [[OperationRYAN]], [[ColdWarNuclearMisperception]], and [[StrategicIntelligenceInterpretation]] - episode-81 extension into leadership fear and intelligence feedback.

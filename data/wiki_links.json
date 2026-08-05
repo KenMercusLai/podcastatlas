@@ -847,6 +847,10 @@
     "title": "80.间谍与叛徒：恕我直言，007的故事弱爆了（上）",
     "url": "/wiki/sources/80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649/"
   },
+  "81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209": {
+    "title": "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）",
+    "url": "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"
+  },
   "82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589": {
     "title": "82.闲聊伟大作家的八卦（第二弹）",
     "url": "/wiki/sources/82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589/"
@@ -2310,6 +2314,10 @@
   "Aldhani": {
     "title": "Aldhani",
     "url": "/wiki/entities/aldhani/"
+  },
+  "AldrichAmes": {
+    "title": "Aldrich Ames / 奥德里奇·艾姆斯",
+    "url": "/wiki/entities/aldrichames/"
   },
   "AleisterCrowley": {
     "title": "Aleister Crowley / 阿莱斯特·克劳利",
@@ -4851,6 +4859,10 @@
     "title": "CEO Pay Luck Skimming / CEO薪酬揩油",
     "url": "/wiki/concepts/ceopayluckskimming/"
   },
+  "CIA": {
+    "title": "CIA / Central Intelligence Agency / 中情局",
+    "url": "/wiki/entities/cia/"
+  },
   "CJFinn": {
     "title": "CJ Finn",
     "url": "/wiki/entities/cjfinn/"
@@ -6422,6 +6434,10 @@
   "ColdChainCPGConstraint": {
     "title": "Cold-Chain CPG Constraint",
     "url": "/wiki/concepts/coldchaincpgconstraint/"
+  },
+  "ColdWarNuclearMisperception": {
+    "title": "Cold War Nuclear Misperception / 冷战核误判",
+    "url": "/wiki/concepts/coldwarnuclearmisperception/"
   },
   "ColdWarSpycraft": {
     "title": "Cold War Spycraft / 冷战间谍技艺",
@@ -9779,6 +9795,10 @@
     "title": "Externality Internalization",
     "url": "/wiki/concepts/externalityinternalization/"
   },
+  "ExtractionPromiseEthics": {
+    "title": "Extraction Promise Ethics / 撤离承诺伦理",
+    "url": "/wiki/concepts/extractionpromiseethics/"
+  },
   "ExtremeEnvironmentRiskManagement": {
     "title": "Extreme Environment Risk Management",
     "url": "/wiki/concepts/extremeenvironmentriskmanagement/"
@@ -10350,6 +10370,10 @@
   "Financo": {
     "title": "Financo",
     "url": "/wiki/entities/financo/"
+  },
+  "Finland": {
+    "title": "Finland",
+    "url": "/wiki/entities/finland/"
   },
   "FintechRegulatoryWindow": {
     "title": "Fintech Regulatory Window",
@@ -13942,6 +13966,10 @@
   "IntelligenceDevaluation": {
     "title": "Intelligence Devaluation",
     "url": "/wiki/concepts/intelligencedevaluation/"
+  },
+  "IntelligenceLiaisonRisk": {
+    "title": "Intelligence Liaison Risk / 情报盟友协作风险",
+    "url": "/wiki/concepts/intelligenceliaisonrisk/"
   },
   "IntelligenceTesting": {
     "title": "Intelligence Testing / 智力测试",
@@ -17575,6 +17603,10 @@
     "title": "Margaret Mead / 米德",
     "url": "/wiki/entities/margaretmead/"
   },
+  "MargaretThatcher": {
+    "title": "Margaret Thatcher / 玛格丽特·撒切尔",
+    "url": "/wiki/entities/margaretthatcher/"
+  },
   "MarginOfSafety": {
     "title": "Margin Of Safety",
     "url": "/wiki/concepts/marginofsafety/"
@@ -18315,9 +18347,17 @@
     "title": "妙玉 / Miaoyu",
     "url": "/wiki/entities/miaoyu/"
   },
+  "MichaelBettaney": {
+    "title": "Michael Bettaney / 迈克尔·贝塔尼",
+    "url": "/wiki/entities/michaelbettaney/"
+  },
   "MichaelCoppenheifer": {
     "title": "Michael Coppenheifer",
     "url": "/wiki/entities/michaelcoppenheifer/"
+  },
+  "MichaelFoot": {
+    "title": "Michael Foot / 迈克尔·富特",
+    "url": "/wiki/entities/michaelfoot/"
   },
   "MichaelLaSara": {
     "title": "Michael LaSara",
@@ -18454,6 +18494,10 @@
   "MikeSolana": {
     "title": "Mike Solana",
     "url": "/wiki/entities/mikesolana/"
+  },
+  "MikhailGorbachev": {
+    "title": "Mikhail Gorbachev / 米哈伊尔·戈尔巴乔夫",
+    "url": "/wiki/entities/mikhailgorbachev/"
   },
   "MilanKundera": {
     "title": "Milan Kundera / 米兰·昆德拉",
@@ -20274,6 +20318,10 @@
   "OperationPimlico": {
     "title": "Operation Pimlico / 皮姆利科行动",
     "url": "/wiki/entities/operationpimlico/"
+  },
+  "OperationRYAN": {
+    "title": "Operation RYAN / 莱恩行动",
+    "url": "/wiki/entities/operationryan/"
   },
   "OperationSunbeam": {
     "title": "Operation Sunbeam / 阳光计划",
@@ -23699,6 +23747,10 @@
     "title": "Ron Wyden",
     "url": "/wiki/entities/ronwyden/"
   },
+  "RonaldReagan": {
+    "title": "Ronald Reagan / 罗纳德·里根",
+    "url": "/wiki/entities/ronaldreagan/"
+  },
   "RongzhongGroup": {
     "title": "Rongzhong Group / 荣众集团",
     "url": "/wiki/entities/rongzhonggroup/"
@@ -26215,6 +26267,10 @@
     "title": "Strategic Industrial Policy",
     "url": "/wiki/concepts/strategicindustrialpolicy/"
   },
+  "StrategicIntelligenceInterpretation": {
+    "title": "Strategic Intelligence Interpretation / 战略情报解释",
+    "url": "/wiki/concepts/strategicintelligenceinterpretation/"
+  },
   "StrategicMustWorkProductBet": {
     "title": "Strategic Must-Work Product Bet",
     "url": "/wiki/concepts/strategicmustworkproductbet/"
@@ -28579,6 +28635,10 @@
     "title": "Vernacular Industrialism",
     "url": "/wiki/concepts/vernacularindustrialism/"
   },
+  "VeronicaPrice": {
+    "title": "Veronica Price / 维罗尼卡·普莱斯",
+    "url": "/wiki/entities/veronicaprice/"
+  },
   "VerticalAgentSaaSification": {
     "title": "Vertical Agent SaaSification",
     "url": "/wiki/concepts/verticalagentsaasification/"
@@ -30438,6 +30498,10 @@
   "YunnanWildMushroomCulture": {
     "title": "Yunnan Wild Mushroom Culture",
     "url": "/wiki/concepts/yunnanwildmushroomculture/"
+  },
+  "YuriAndropov": {
+    "title": "Yuri Andropov / 尤里·安德罗波夫",
+    "url": "/wiki/entities/yuriandropov/"
   },
   "YuriHosta": {
     "title": "Yuri Hosta",

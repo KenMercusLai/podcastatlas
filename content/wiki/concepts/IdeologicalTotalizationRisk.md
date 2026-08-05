@@ -2,7 +2,7 @@
 title: "Ideological Totalization Risk / 主义万能钥匙风险"
 type: concept
 tags: [ideology, philosophy, judgment, life-design]
-sources: [80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 09-atelasi-songsongjian-anlande-zhishi-shuangwen-zuojia-ma-543277898]
+sources: [81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209, 80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 09-atelasi-songsongjian-anlande-zhishi-shuangwen-zuojia-ma-543277898]
 last_updated: 2026-08-06
 ---
 
@@ -18,6 +18,8 @@ The concept is related to [[RationalHumility]] and [[PureRationalityTrap]]. It d
 
 [[80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649]] adds an institutional Cold War version through [[OlegGordievsky|Oleg Gordievsky]]. The episode presents Soviet ideology as totalizing when it demands public loyalty despite family doubt, foreign evidence, cultural deprivation, and violent suppression of reform; [[IdeologicalDefection]] becomes possible once the doctrine no longer explains lived reality.
 
+[[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]] extends the risk from doctrine to security perception. [[OperationRYAN]] shows a system treating hostile Western intent as a premise to verify, not a claim to test. In that setting, ideology and intelligence can merge into [[ColdWarNuclearMisperception]].
+
 ## Key Claims
 - Doctrine is useful as a tool but dangerous as a total worldview.
 - Smart people may be especially tempted to compress messy reality into elegant concepts.
@@ -25,6 +27,7 @@ The concept is related to [[RationalHumility]] and [[PureRationalityTrap]]. It d
 - A doctrine can be distorted after the author by followers who extract only the most useful toxin.
 - Allegorical fiction becomes risky when readers convert its mythic categories into direct labels for real people.
 - State ideology becomes especially brittle when it cannot absorb evidence from ordinary culture, foreign reporting, or reform movements.
+- A totalizing security worldview can turn uncertainty into evidence of enemy intent.
 
 ## Connections
 - [[AynRand]], [[Objectivism]], and [[NathanielBranden]] - strongest source case.
@@ -33,3 +36,4 @@ The concept is related to [[RationalHumility]] and [[PureRationalityTrap]]. It d
 - [[HGWells]] and [[FreeLovePracticeGap]] - contradiction and doctrine-practice case.
 - [[SecularHappinessAgainstIdeology]], [[PureRationalityTrap]], [[RationalHumility]], and [[IdeologicalOvercontrol]] - neighboring wiki concepts.
 - [[OlegGordievsky]], [[SovietUnion]], [[KGB]], [[IdeologicalDefection]], and [[TotalitarianDoubleLife]] - Cold War institutional extension.
+- [[OperationRYAN]], [[ColdWarNuclearMisperception]], and [[AdministrativeOpacityAsControl]] - episode-81 extension into security-perception feedback.

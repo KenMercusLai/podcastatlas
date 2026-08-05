@@ -2,7 +2,7 @@
 title: "Oleg Gordievsky / 奥列格·戈尔杰夫斯基"
 type: entity
 tags: [person, intelligence, espionage, cold-war, soviet]
-sources: [80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649]
+sources: [81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209, 80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649]
 last_updated: 2026-08-06
 ---
 
@@ -14,8 +14,14 @@ His path is framed as [[IdeologicalDefection|ideological defection]] rather than
 
 The episode's first half ends before the most famous escape. By then Gordievsky has worked under [[OperationSunbeam]], returned to Moscow, received the [[OperationPimlico]] escape protocol, and begun learning English in hope of a later posting to the [[UnitedKingdom]].
 
+[[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]] continues the arc into London, where Gordievsky becomes valuable not only for files but for [[StrategicIntelligenceInterpretation]]. His reporting on [[OperationRYAN]] makes Soviet fear of nuclear attack visible to [[MI6]], [[MargaretThatcher|Margaret Thatcher]], and eventually the [[UnitedStates]], while his later exposure by [[AldrichAmes|Aldrich Ames]] turns allied intelligence sharing into [[IntelligenceLiaisonRisk]].
+
+The second half completes [[OperationPimlico]] as lived extraction rather than only contingency planning. Gordievsky survives drugged interrogation, signals for rescue, escapes through [[Finland]] in a diplomatic vehicle, and continues advising the West after reaching safety. The episode also keeps the personal cost explicit: his wife and daughters are endangered, the family later breaks, and he remains under long-term protection from Russian retaliation.
+
 ## Connections
 - [[TheSpyAndTheTraitor]], [[BenMacintyre]], [[KGB]], and [[MI6]] - source book and institutional setting.
 - [[SovietUnion]], [[Denmark]], [[UnitedKingdom]], [[BBC]], and [[PragueSpring]] - political and cultural context.
 - [[OperationSunbeam]] and [[OperationPimlico]] - recruitment and escape-plan branches.
+- [[OperationRYAN]], [[AldrichAmes]], [[CIA]], [[Finland]], [[MargaretThatcher]], and [[MikhailGorbachev]] - episode-81 strategic and escape context.
 - [[IdeologicalDefection]], [[TotalitarianDoubleLife]], [[ColdWarSpycraft]], and [[SpySourceProtection]] - source concepts.
+- [[ColdWarNuclearMisperception]], [[StrategicIntelligenceInterpretation]], [[IntelligenceLiaisonRisk]], and [[ExtractionPromiseEthics]] - continuation concepts from episode 81.
