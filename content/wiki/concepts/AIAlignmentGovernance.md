@@ -2,8 +2,8 @@
 title: "AI Alignment Governance"
 type: concept
 tags: [ai, governance, alignment]
-sources: [tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, eric-ries-incorruptible-by-design-wrgromn5peq]
-last_updated: 2026-07-12
+sources: [tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, eric-ries-incorruptible-by-design-wrgromn5peq, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]
+last_updated: 2026-08-05
 ---
 
 # AI Alignment Governance
@@ -13,6 +13,8 @@ AI alignment governance is the claim from [[eric-ries-incorruptible-by-design-wr
 [[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds [[SamAltman]]'s version of the [[OpenAIBoardCrisis]] as a concrete alignment-governance case. Altman says the crisis involved both sincere AI-safety disagreement and personal power issues, while also arguing that board composition and organizational structure made the conflict harder to resolve safely.
 
 [[tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly]] adds [[EmmettShear]]'s agent-level complement through [[Softmax]]. Shear's version asks whether an agent can understand itself, understand other agents, and recognize when it belongs to a shared "we." This does not replace governance; it gives the alignment branch a behavioral target that [[LearningEnvironmentCenteredAITraining]] and [[AgentRL]] environments might test.
+
+[[e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]] adds [[DeepMind]] as an early acquisition-governance case. The source says [[DemisHassabis]] wanted AI safety and ethics commitments when selling to [[Google]], but it also frames the later [[GoogleDeepMind]] race with [[OpenAI]] as evidence that scientific intent still needs durable institutional controls.
 
 ## Key Claims
 - Replacing human responsibility with AI is described by Ries as both morally wrong and technologically premature.
@@ -30,3 +32,4 @@ AI alignment governance is the claim from [[eric-ries-incorruptible-by-design-wr
 - [[StewardOwnership]] and [[TrustAsBusinessAsset]] - possible structural responses.
 - [[OpenAIBoardCrisis]], [[SamAltman]], [[IlyaSutskever]], and [[LanguageModelScalingBet]] - OpenAI-specific crisis and strategy context added by The Social Radars.
 - [[Softmax]], [[EmmettShear]], [[AICollectiveAlignment]], [[LearningEnvironmentCenteredAITraining]], and [[AgentRL]] - agent-level alignment frame added by the Emmett Shear YC offsite source.
+- [[DeepMind]], [[DemisHassabis]], [[ScientificIdealVsAIArmsRace]], and [[DeepMindAcquisitionChoice]] — early AI-safety and acquisition-governance case added by Silicon Valley 101.

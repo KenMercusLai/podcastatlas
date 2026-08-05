@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛](sources/e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73.md) — 硅谷101 episode with Zhou Jiangong on Demis Hassabis, DeepMind's reinforcement-learning AGI route, AlphaGo, AlphaFold, Google acquisition, Gemini catch-up, and scientific ideal versus AI race risk.
 - [当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert](sources/dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi.md) — 42章经 episode with Albert on AI coding abundance, model-company value capture, small maker tools, software as cultural work, maker community, and one-person fund speculation.
 - [真正改变世界的技术，为什么一开始都不被看好？| S10E16](sources/zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1.md) — What's Next episode with Wang Bo on semiconductor history, Moore's Law as industry coordination, MOS transistor underestimation, Huawei's Tau Law, disruptive innovation, and human know-how under AI.
 - [7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？ | S10E12](sources/7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52.md) — What's Next episode with Aaron on hyperscaler AI capex, bubble risk, bright-line/dark-line AI revenue, circular infrastructure financing, and U.S.-China valuation asymmetry.
@@ -695,6 +696,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [DeepMind](entities/DeepMind.md) — London AI research company framed as Hassabis's reinforcement-learning AGI lab before Google acquisition and Google DeepMind consolidation.
+- [Demis Hassabis](entities/DemisHassabis.md) — DeepMind founder and Google DeepMind leader interpreted through chess, games, neuroscience, AlphaGo, AlphaFold, and science-versus-race tension.
+- [周建功 / Zhou Jiangong](entities/ZhouJiangong.md) — Technology and financial media worker and translator interpreting Hassabis through a 2017 interview and Mallaby biography.
+- [Sebastian Mallaby](entities/SebastianMallaby.md) — Biography author whose Hassabis book grounds the episode while also raising source-tilt questions.
+- [Mustafa Suleyman](entities/MustafaSuleyman.md) — DeepMind cofounder tied to financing, applications, the NHS controversy, Inflection AI, and later Microsoft AI competition.
+- [Shane Legg](entities/ShaneLegg.md) — DeepMind cofounder connecting Hassabis to early AGI networks and nonstandard financing.
+- [David Silver](entities/DavidSilver.md) — Reinforcement-learning researcher linking Hassabis's game work to DeepMind's AlphaGo route.
+- [John Jumper](entities/JohnJumper.md) — AlphaFold figure connecting DeepMind's game AI credibility to protein-structure and AI-for-science breakthroughs.
+- [周凯旋 / Zhou Kaixuan](entities/ZhouKaixuan.md) — DeepMind financing figure associated with the roughly $25 million B round in the source.
+- [Inflection AI](entities/InflectionAI.md) — Mustafa Suleyman company used as the bridge from DeepMind departure to Microsoft AI leadership.
+- [Geoff Hinton](entities/GeoffHinton.md) — Deep-learning scientist used as both a route contrast with Sutton-style RL and an AI-risk reference.
+- [Richard Sutton](entities/RichardSutton.md) — Reinforcement-learning theorist anchoring David Silver and DeepMind's early AGI route in the episode.
+- [Yoshua Bengio](entities/YoshuaBengio.md) — AI scientist referenced for public AI-risk concern in contrast with Hassabis's science optimism.
 - [Wang Bo / 汪波](entities/WangBo.md) — Semiconductor researcher and author of 《芯片简史》 using chip history to explain underappreciated technologies, Moore's Law, MOS, Tau Law, and AI-era know-how.
 - [A Brief History of Chips / 芯片简史](entities/ABriefHistoryOfChips.md) — Wang Bo book that grounds the S10E16 semiconductor-history discussion.
 - [Bell Labs](entities/BellLabs.md) — Research organization used in S10E16 to explain why MOS was initially underweighted against BJT for telecom switching needs.
@@ -4785,6 +4799,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Reinforcement Learning AGI Path](concepts/ReinforcementLearningAGIPath.md) — DeepMind-style route to AGI through agents, environments, rewards, games, and later RL-on-language-model return.
+- [Scientific Ideal vs AI Arms Race](concepts/ScientificIdealVsAIArmsRace.md) — Tension where sincere AI-for-science ambition still participates in strategic model competition and governance risk.
+- [DeepMind Acquisition Choice](concepts/DeepMindAcquisitionChoice.md) — Interpretation of why Hassabis chose Google over Facebook: compute, science, independence, and AI safety alongside price.
 - [Software Creation Barbell](concepts/SoftwareCreationBarbell.md) — AI-era software structure where model-company containers capture broad productivity value while tiny makers serve long-tail personal or expressive needs.
 - [Software As Cultural Work](concepts/SoftwareAsCulturalWork.md) — Software products understood as taste, mood, identity, and interaction-bearing works rather than only productivity utilities.
 - [Maker Community](concepts/MakerCommunity.md) — AI-coding creator community pattern built around discovery, collaboration, response, recognition, and sometimes payment.

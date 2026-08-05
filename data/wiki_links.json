@@ -7447,6 +7447,10 @@
     "title": "David Sacks",
     "url": "/wiki/entities/davidsacks/"
   },
+  "DavidSilver": {
+    "title": "David Silver",
+    "url": "/wiki/entities/davidsilver/"
+  },
   "DavidVictor": {
     "title": "David Victor",
     "url": "/wiki/entities/davidvictor/"
@@ -7514,6 +7518,14 @@
   "DeepCanvassing": {
     "title": "Deep Canvassing / 深度说服",
     "url": "/wiki/concepts/deepcanvassing/"
+  },
+  "DeepMind": {
+    "title": "DeepMind",
+    "url": "/wiki/entities/deepmind/"
+  },
+  "DeepMindAcquisitionChoice": {
+    "title": "DeepMind Acquisition Choice",
+    "url": "/wiki/concepts/deepmindacquisitionchoice/"
   },
   "DeepResearch": {
     "title": "Deep Research",
@@ -7622,6 +7634,10 @@
   "DemianNovel": {
     "title": "《德米安》 / Demian",
     "url": "/wiki/entities/demiannovel/"
+  },
+  "DemisHassabis": {
+    "title": "Demis Hassabis",
+    "url": "/wiki/entities/demishassabis/"
   },
   "Democracy21": {
     "title": "Democracy 21",
@@ -10995,6 +11011,10 @@
     "title": "Genuine Fred",
     "url": "/wiki/entities/genuinefred/"
   },
+  "GeoffHinton": {
+    "title": "Geoff Hinton",
+    "url": "/wiki/entities/geoffhinton/"
+  },
   "GeoffreyWinthropYoung": {
     "title": "Geoffrey Winthrop Young",
     "url": "/wiki/entities/geoffreywinthropyoung/"
@@ -13055,6 +13075,10 @@
     "title": "Inflation Targeting",
     "url": "/wiki/concepts/inflationtargeting/"
   },
+  "InflectionAI": {
+    "title": "Inflection AI",
+    "url": "/wiki/entities/inflectionai/"
+  },
   "Infogami": {
     "title": "Infogami",
     "url": "/wiki/entities/infogami/"
@@ -14186,6 +14210,10 @@
   "JohnIcabone": {
     "title": "John Icabone",
     "url": "/wiki/entities/johnicabone/"
+  },
+  "JohnJumper": {
+    "title": "John Jumper",
+    "url": "/wiki/entities/johnjumper/"
   },
   "JohnKempStarley": {
     "title": "John Kemp Starley / 约翰·坎普·斯塔利",
@@ -18039,6 +18067,10 @@
     "title": "Musical.ly",
     "url": "/wiki/entities/musically/"
   },
+  "MustafaSuleyman": {
+    "title": "Mustafa Suleyman",
+    "url": "/wiki/entities/mustafasuleyman/"
+  },
   "MuthosLogosTension": {
     "title": "Muthos Logos Tension",
     "url": "/wiki/concepts/muthoslogostension/"
@@ -21811,6 +21843,10 @@
     "title": "Reid Hoffman",
     "url": "/wiki/entities/reidhoffman/"
   },
+  "ReinforcementLearningAGIPath": {
+    "title": "Reinforcement Learning AGI Path",
+    "url": "/wiki/concepts/reinforcementlearningagipath/"
+  },
   "RelationalIsolationControl": {
     "title": "Relational Isolation Control / 关系孤立控制",
     "url": "/wiki/concepts/relationalisolationcontrol/"
@@ -22150,6 +22186,10 @@
   "RichardNixon": {
     "title": "Richard Nixon",
     "url": "/wiki/entities/richardnixon/"
+  },
+  "RichardSutton": {
+    "title": "Richard Sutton",
+    "url": "/wiki/entities/richardsutton/"
   },
   "RichardThaler": {
     "title": "Richard Thaler",
@@ -22959,6 +22999,10 @@
     "title": "Scientific Discovery Automation",
     "url": "/wiki/concepts/scientificdiscoveryautomation/"
   },
+  "ScientificIdealVsAIArmsRace": {
+    "title": "Scientific Ideal vs AI Arms Race",
+    "url": "/wiki/concepts/scientificidealvsaiarmsrace/"
+  },
   "ScientificPublicSpectacle": {
     "title": "Scientific Public Spectacle",
     "url": "/wiki/concepts/scientificpublicspectacle/"
@@ -23070,6 +23114,10 @@
   "SeattleSounders": {
     "title": "Seattle Sounders",
     "url": "/wiki/entities/seattlesounders/"
+  },
+  "SebastianMallaby": {
+    "title": "Sebastian Mallaby",
+    "url": "/wiki/entities/sebastianmallaby/"
   },
   "SebastianTheResidency": {
     "title": "Sebastian (The Residency)",
@@ -23398,6 +23446,10 @@
   "ShandongLunengFootballSchool": {
     "title": "山东鲁能足校 / Shandong Luneng Football School",
     "url": "/wiki/entities/shandonglunengfootballschool/"
+  },
+  "ShaneLegg": {
+    "title": "Shane Legg",
+    "url": "/wiki/entities/shanelegg/"
   },
   "ShangYang": {
     "title": "Shang Yang / 商鞅",
@@ -28643,6 +28695,10 @@
     "title": "Yosano Akiko / 与谢野晶子",
     "url": "/wiki/entities/yosanoakiko/"
   },
+  "YoshuaBengio": {
+    "title": "Yoshua Bengio",
+    "url": "/wiki/entities/yoshuabengio/"
+  },
   "YouGov": {
     "title": "YouGov",
     "url": "/wiki/entities/yougov/"
@@ -29075,6 +29131,10 @@
     "title": "中植集团",
     "url": "/wiki/entities/zhongzhigroup/"
   },
+  "ZhouJiangong": {
+    "title": "周建功 / Zhou Jiangong",
+    "url": "/wiki/entities/zhoujiangong/"
+  },
   "ZhouJin": {
     "title": "周进",
     "url": "/wiki/entities/zhoujin/"
@@ -29082,6 +29142,10 @@
   "ZhouJintao": {
     "title": "周金涛",
     "url": "/wiki/entities/zhoujintao/"
+  },
+  "ZhouKaixuan": {
+    "title": "周凯旋 / Zhou Kaixuan",
+    "url": "/wiki/entities/zhoukaixuan/"
   },
   "ZhouKaiya": {
     "title": "周开亚 / Zhou Kaiya",
@@ -29502,6 +29566,10 @@
   "e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou": {
     "title": "E225｜SaaS业数千亿市值蒸发：AI如何变革组织架构？",
     "url": "/wiki/sources/e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou/"
+  },
+  "e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73": {
+    "title": "E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛",
+    "url": "/wiki/sources/e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73/"
   },
   "e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi": {
     "title": "E229｜从手工作坊到全球第一：中国动力电池逆袭史",

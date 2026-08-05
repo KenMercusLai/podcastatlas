@@ -2,7 +2,7 @@
 title: "Peter Thiel"
 type: entity
 tags: [person, venture-capital, politics, silicon-valley]
-sources: [tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]
+sources: [tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]
 last_updated: 2026-08-04
 ---
 
@@ -13,6 +13,8 @@ Peter Thiel is the central figure in [[e233-guigu-youyi-de-quanli-wang-ruhe-xing
 The source's Thiel begins at [[StanfordReview]], draws on [[ReneGirard]], [[CarlSchmitt]], and [[LeoStrauss]], then moves through [[PayPal]], [[Facebook]], [[Palantir]], [[FoundersFund]], [[ThielFellowship]], [[RightWingMediaInfrastructure]], and support for [[JDVance]]. The page should preserve that as the source's synthesis rather than a full biography.
 
 [[tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio]] adds a source-scoped [[YCombinator]] controversy branch. [[PaulGraham]] says Thiel was listed as an unpaid part-time partner who did very little, and that criticism exaggerated his operational role at YC. Graham also says [[SamAltman]] had already considered removing Thiel for inactivity, but Graham advised against removing him under public pressure because that would set a precedent around online mobs.
+
+[[e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]] adds Thiel through [[DeepMind]]'s early financing. The source says [[FoundersFund]] was part of the unusual investor set willing to back a long-horizon AGI lab before its commercial model was obvious.
 
 ## Source Position
 - Thiel is framed as ideologically consistent from campus conservatism into later new-right politics.
@@ -27,3 +29,4 @@ The source's Thiel begins at [[StanfordReview]], draws on [[ReneGirard]], [[Carl
 - [[DavidSacks]], [[KeithRabois]], [[JoeLonsdale]], [[StephenCohen]], and [[DavidHorowitz]] - network and tactical-influence layer.
 - [[PirateWires]], [[AmericanGreatness]], [[RockbridgeNetwork]], [[1789Capital]], and [[RightWingMediaInfrastructure]] - media and movement infrastructure.
 - [[JDVance]], [[DonaldTrump]], [[PoliticalTalentPipeline]], [[NewRightPolicyNetwork]], and [[TrumpismInstitutionalization]] - electoral and governing-politics branch.
+- [[DeepMind]], [[FoundersFund]], [[DemisHassabis]], and [[AGINarrative]] — early AGI financing context added by Silicon Valley 101.

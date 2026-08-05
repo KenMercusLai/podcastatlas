@@ -24,6 +24,8 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 
 [[ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz]] adds the life-science startup version through [[HaotianOdin]] and [[YinglingdianAI]]. The source makes [[AllModalMolecularWorldModel]] the technical bet: small molecules, proteins, RNA, and DNA should be modeled together because biological intervention crosses molecular modalities. It also adds [[AIDrugDiscoveryPlatform]], [[AIProteinDesign]], [[ScientificDiscoveryAutomation]], and [[PlatformPipelineBiotechStrategy]], making AI for Science a combined model, experiment, team, customer, and financing problem.
 
+[[e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]] adds the founder-history version through [[DemisHassabis]]. The [[SiliconValley101]] episode treats [[AlphaFold]] as the clearest realization of Hassabis's claim that AI should help humanity solve hard scientific problems, while [[ScientificIdealVsAIArmsRace]] keeps that optimism tied to competition and governance risk.
+
 ## Investment Logic
 - Scientific and industrial domains may be harder to commoditize than lightweight software wrappers.
 - They require specialized knowledge, data, and operational credibility.
@@ -44,3 +46,4 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 - [[Apodex]], [[DiscoveryModel]], [[RecursiveSelfImprovement]], [[AIVerification]], and [[ResearchTaste]] — Heavy Duty Solver version added by the Silicon Valley 101 source.
 - [[HongLetong]], [[Axiom]], [[AIForMath]], [[FormalVerification]], and [[MathematicalAbundance]] — formal-math route added by episode 137.
 - [[YinglingdianAI]], [[HaotianOdin]], [[AllModalMolecularWorldModel]], [[AIDrugDiscoveryPlatform]], and [[ScientificDiscoveryAutomation]] — molecular-biology platform branch added by the Shizilukou Crossing source.
+- [[DemisHassabis]], [[DeepMind]], [[AlphaFold]], [[JohnJumper]], and [[ScientificIdealVsAIArmsRace]] — DeepMind founder-history and protein-structure proof point added by Silicon Valley 101.
