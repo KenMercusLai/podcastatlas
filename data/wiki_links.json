@@ -447,6 +447,10 @@
     "title": "168.放学后的小巷：致青春，致那年的友谊【日常推理强势回归！！】",
     "url": "/wiki/sources/168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535/"
   },
+  "169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909": {
+    "title": "169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上）",
+    "url": "/wiki/sources/169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909/"
+  },
   "17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565": {
     "title": "17.地狱变：众生皆苦，一念入魔",
     "url": "/wiki/sources/17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565/"
@@ -5383,6 +5387,10 @@
     "title": "Chagee / 霸王茶姬",
     "url": "/wiki/entities/chagee/"
   },
+  "ChaiRong": {
+    "title": "柴荣 / Emperor Shizong of Later Zhou",
+    "url": "/wiki/entities/chairong/"
+  },
   "ChainRestaurantStandardization": {
     "title": "Chain Restaurant Standardization",
     "url": "/wiki/concepts/chainrestaurantstandardization/"
@@ -5570,6 +5578,10 @@
   "ChenKaige": {
     "title": "陈凯歌 / Chen Kaige",
     "url": "/wiki/entities/chenkaige/"
+  },
+  "ChenQiaoMutiny": {
+    "title": "陈桥兵变 / Chenqiao Mutiny",
+    "url": "/wiki/entities/chenqiaomutiny/"
   },
   "ChenTianqiao": {
     "title": "Chen Tianqiao / 陈天桥",
@@ -7186,6 +7198,10 @@
   "CultureWineCompany": {
     "title": "Culture Wine Company",
     "url": "/wiki/entities/culturewinecompany/"
+  },
+  "CupWineDisarmsGenerals": {
+    "title": "杯酒释兵权 / Cup of Wine Disarms Generals",
+    "url": "/wiki/concepts/cupwinedisarmsgenerals/"
   },
   "CurrencyControlTrap": {
     "title": "Currency Control Trap",
@@ -12051,6 +12067,10 @@
     "title": "郭沫若",
     "url": "/wiki/entities/guomoruo/"
   },
+  "GuoWei": {
+    "title": "郭威 / Guo Wei",
+    "url": "/wiki/entities/guowei/"
+  },
   "GuomaiCulture": {
     "title": "果麦文化 / Guomai Culture",
     "url": "/wiki/entities/guomaiculture/"
@@ -12266,6 +12286,10 @@
   "HanRiver": {
     "title": "Han River / 汉江",
     "url": "/wiki/entities/hanriver/"
+  },
+  "HanTong": {
+    "title": "韩通 / Han Tong",
+    "url": "/wiki/entities/hantong/"
   },
   "HanYang": {
     "title": "汉洋 / Han Yang",
@@ -15127,6 +15151,14 @@
     "title": "Kaiden Booth",
     "url": "/wiki/entities/kaidenbooth/"
   },
+  "Kaifeng": {
+    "title": "开封 / Kaifeng",
+    "url": "/wiki/entities/kaifeng/"
+  },
+  "KaifengCapitalTradeoff": {
+    "title": "开封定都取舍 / Kaifeng Capital Tradeoff",
+    "url": "/wiki/concepts/kaifengcapitaltradeoff/"
+  },
   "KaimingHe": {
     "title": "Kaiming He",
     "url": "/wiki/entities/kaiminghe/"
@@ -15791,6 +15823,10 @@
     "title": "Late Tang Political Poetics",
     "url": "/wiki/concepts/latetangpoliticalpoetics/"
   },
+  "LaterZhou": {
+    "title": "后周 / Later Zhou",
+    "url": "/wiki/entities/laterzhou/"
+  },
   "LatinAmerica": {
     "title": "Latin America",
     "url": "/wiki/entities/latinamerica/"
@@ -16046,6 +16082,10 @@
   "LiBeibin": {
     "title": "Li Beibin",
     "url": "/wiki/entities/libeibin/"
+  },
+  "LiChongjin": {
+    "title": "李重进 / Li Chongjin",
+    "url": "/wiki/entities/lichongjin/"
   },
   "LiDan": {
     "title": "李诞",
@@ -24507,6 +24547,10 @@
     "title": "时雷 / Shi Lei",
     "url": "/wiki/entities/shilei/"
   },
+  "ShiShouxin": {
+    "title": "石守信 / Shi Shouxin",
+    "url": "/wiki/entities/shishouxin/"
+  },
   "ShiXiangyun": {
     "title": "史湘云 / Shi Xiangyun",
     "url": "/wiki/entities/shixiangyun/"
@@ -25062,6 +25106,14 @@
   "SongFactionalPolitics": {
     "title": "宋代党争 / Song Factional Politics",
     "url": "/wiki/concepts/songfactionalpolitics/"
+  },
+  "SongFoundingLegitimacyPerformance": {
+    "title": "宋初建国合法性表演 / Song Founding Legitimacy Performance",
+    "url": "/wiki/concepts/songfoundinglegitimacyperformance/"
+  },
+  "SongMilitaryCentralization": {
+    "title": "宋初军事集权 / Song Military Centralization",
+    "url": "/wiki/concepts/songmilitarycentralization/"
   },
   "SongRenzong": {
     "title": "宋仁宗 / Song Renzong",
@@ -28507,6 +28559,10 @@
     "title": "Wang Shengli",
     "url": "/wiki/entities/wangshengli/"
   },
+  "WangShenqi": {
+    "title": "王审琦 / Wang Shenqi",
+    "url": "/wiki/entities/wangshenqi/"
+  },
   "WangShiTancheng": {
     "title": "王氏 / Woman Wang",
     "url": "/wiki/entities/wangshitancheng/"
@@ -30155,6 +30211,10 @@
     "title": "张一贞",
     "url": "/wiki/entities/zhangyizhen/"
   },
+  "ZhangYongde": {
+    "title": "张永德 / Zhang Yongde",
+    "url": "/wiki/entities/zhangyongde/"
+  },
   "ZhangYueguang": {
     "title": "张月光",
     "url": "/wiki/entities/zhangyueguang/"
@@ -30183,9 +30243,17 @@
     "title": "Zhao Dongping / 赵东平",
     "url": "/wiki/entities/zhaodongping/"
   },
+  "ZhaoGuangyi": {
+    "title": "赵光义 / Song Taizong",
+    "url": "/wiki/entities/zhaoguangyi/"
+  },
   "ZhaoHang": {
     "title": "Zhao Hang",
     "url": "/wiki/entities/zhaohang/"
+  },
+  "ZhaoKuangyin": {
+    "title": "赵匡胤 / Song Taizu",
+    "url": "/wiki/entities/zhaokuangyin/"
   },
   "ZhaoLinger": {
     "title": "Zhao Ling'er / 赵灵儿",
@@ -30194,6 +30262,10 @@
   "ZhaoLusi": {
     "title": "Zhao Lusi / 赵露思",
     "url": "/wiki/entities/zhaolusi/"
+  },
+  "ZhaoPu": {
+    "title": "赵普 / Zhao Pu",
+    "url": "/wiki/entities/zhaopu/"
   },
   "ZhaoYuanren": {
     "title": "赵元任",

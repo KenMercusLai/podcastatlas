@@ -5619,7 +5619,7 @@ Added source page for a 蜜獾吃书 and 日谈 crossover on reading 《红楼�
 
 ## [2026-08-06] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran health before lint; health scanned 8,127 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,127 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 8,127 pages; treat graph findings as stale until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM; no `wiki/lint-report.md` file was saved.
 
 ## [2026-08-06] ingest | 163.教一只猞猁忘记动物园：西野的故事，比疯狂动物城2更精彩！
 
@@ -5756,3 +5756,11 @@ Added source page for a 蜜獾吃书 episode on Sarah Pinsker's speculative shor
 ## [2026-08-06] lint | Wiki health check
 
 Ran health before lint; health scanned 8,109 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,109 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes while current lint scanned 8,109 pages; treat graph findings as stale until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM; no `wiki/lint-report.md` file was saved.
+
+## [2026-08-06] ingest | 169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上）
+
+Added source page for a 蜜獾吃书 episode on 赵匡胤, 后周 military politics, 陈桥兵变, "点检做天子", 太宗朝修史, 开封定都, 杯酒释兵权, and Song founding tradeoffs. Created pages for 赵匡胤, 赵光义, 赵普, 后周, 郭威, 柴荣, 张永德, 李重进, 石守信, 王审琦, 韩通, 陈桥兵变, 开封, Song Founding Legitimacy Performance, Cup of Wine Disarms Generals, Song Military Centralization, and Kaifeng Capital Tradeoff; updated overview, index, 蜜獾吃书, 北宋, Military Personalization, Chenwei Politics, Evidence-Bound Historical Revision, Historical Memory Contest, and Good Intentions Political Limits. No direct contradiction found; the source qualifies the wiki's existing Northern Song branch by showing that later scholar-official politics and reform disputes rest on a founding memory of coup, ritual transfer, military distrust, capital logistics, and institutional tradeoffs.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

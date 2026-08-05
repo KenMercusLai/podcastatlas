@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上）](sources/169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909.md) — 蜜獾吃书 episode on 赵匡胤, 后周 military politics, 陈桥兵变, 太宗朝修史, 开封定都, 杯酒释兵权, and Song military centralization tradeoffs.
 - [166.悠游长风：温柔的幻想之歌，抚平焦虑的沟壑](sources/166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059.md) — 蜜獾吃书 episode on Sarah Pinsker's speculative short stories, gentle science-fiction ambiguity, embodied identity, dream parenthood, memory deletion ethics, and civilization carried by human memory.
 - [165.银发川柳：用幽默面对老年，咱们来写打油诗](sources/165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646.md) — 蜜獾吃书 episode on 《银发川柳》, senryu aging humor, embodied old age, death-facing jokes, elder technology exclusion, and East Asian respect-for-elders traditions.
 - [164.古文的力量：请收下这份千年未变的深情、洞见和勇气](sources/164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576.md) — 蜜獾吃书 episode on 《古文的力量》, 杜若, 《项脊轩志》, 《游褒禅山记》, 《上枢密韩太尉书》, 《鸿门宴》, restrained classical emotion, failure and subjectivity, and power etiquette.
@@ -721,6 +722,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [赵匡胤 / Song Taizu](entities/ZhaoKuangyin.md) — Northern Song founder read through Later Zhou military networks, Chenqiao coup packaging, disarmament, and institutional redesign.
+- [赵光义 / Song Taizong](entities/ZhaoGuangyi.md) — Zhao Kuangyin's brother and later emperor whose Chenqiao role becomes a source-criticism and succession-legitimacy issue.
+- [赵普 / Zhao Pu](entities/ZhaoPu.md) — Zhao Kuangyin's strategist, linked to Chenqiao planning debates and the logic behind disarming generals.
+- [后周 / Later Zhou](entities/LaterZhou.md) — Predecessor regime whose military command structure and child succession make the Song founding possible.
+- [郭威 / Guo Wei](entities/GuoWei.md) — Later Zhou founder and military patron in the episode's background to Zhao Kuangyin's rise.
+- [柴荣 / Emperor Shizong of Later Zhou](entities/ChaiRong.md) — Later Zhou ruler whose trust in Zhao Kuangyin, command balancing, and early death shape the succession crisis.
+- [张永德 / Zhang Yongde](entities/ZhangYongde.md) — Later Zhou general affected by the "点检做天子" rumor and command reshuffle.
+- [李重进 / Li Chongjin](entities/LiChongjin.md) — Later Zhou general and possible participant in competing interpretations of the wood-plaque rumor.
+- [石守信 / Shi Shouxin](entities/ShiShouxin.md) — Zhao-aligned禁军 figure tied to capital-gate control at Chenqiao and later disarmament.
+- [王审琦 / Wang Shenqi](entities/WangShenqi.md) — Zhao-aligned禁军 figure used by the source to show military networks converted into wealth and kinship ties.
+- [韩通 / Han Tong](entities/HanTong.md) — Later Zhou loyalist whose killing complicates the peaceful-abdication story.
+- [陈桥兵变 / Chenqiao Mutiny](entities/ChenQiaoMutiny.md) — Founding coup of the Northern Song, read through military networks, omen talk, and abdication staging.
+- [开封 / Kaifeng](entities/Kaifeng.md) — Song capital whose canal logistics and defensive vulnerability create a long-term institutional tradeoff.
 - [Sarah Pinsker / 莎拉·平斯克](entities/SarahPinsker.md) — Speculative-fiction writer and musician read by episode 166 through gentle ambiguity, embodied identity, dream parenthood, memory ethics, and artistic transmission.
 - [《悠游长风》 / 《悠悠长风》](entities/YouyouChangfeng.md) — Sarah Pinsker collection discussed by episode 166 through quiet speculative premises, lingering emotional aftertaste, and memory/art preservation.
 - [《一段双车道公路》](entities/AStretchOfHighwayTwoLanesWide.md) — Pinsker story where Andy's prosthetic arm becomes bound to a Colorado road, making body, machine, landscape, and identity unstable.
@@ -4974,6 +4988,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [宋初建国合法性表演 / Song Founding Legitimacy Performance](concepts/SongFoundingLegitimacyPerformance.md) — Frame for turning Chenqiao's military coup into reluctant-rule, abdication, discipline, and successor-memory narratives.
+- [杯酒释兵权 / Cup of Wine Disarms Generals](concepts/CupWineDisarmsGenerals.md) — Compressed story for Zhao Kuangyin's broader strategy of converting military threats into wealth, retirement, and kinship-bound elites.
+- [宋初军事集权 / Song Military Centralization](concepts/SongMilitaryCentralization.md) — Northern Song institutional response to Five Dynasties commander-centered instability, with stability and border-strength tradeoffs.
+- [开封定都取舍 / Kaifeng Capital Tradeoff](concepts/KaifengCapitalTradeoff.md) — Capital-choice frame linking canal logistics and southern grain access to Kaifeng's exposed military geography.
 - [Gentle Speculative Ambiguity / 温柔的科幻暧昧](concepts/GentleSpeculativeAmbiguity.md) — Pinsker-style frame where speculative premises stay partly unresolved while making body, dream, trauma, memory, and regret emotionally precise.
 - [Embodied Identity Boundary / 身体身份边界](concepts/EmbodiedIdentityBoundary.md) — Question of where the self stops when prosthesis, interface, body, memory, and landscape no longer line up cleanly.
 - [Dream Parenthood Ambiguity / 梦中亲子暧昧](concepts/DreamParenthoodAmbiguity.md) — Pattern where dream experience, bodily response, reproductive desire, and external reality make parent-child recognition unstable.
