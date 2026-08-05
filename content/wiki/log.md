@@ -5520,3 +5520,11 @@ Added source page for a What's Next｜科技早知道 episode with Chouxiangzai 
 ## [2026-08-05] lint | Wiki health check
 
 Ran lint after health passed. Health scanned 7,768 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-05] ingest | 7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？ | S10E12
+
+Added source page for a What's Next｜科技早知道 episode with Aaron on hyperscaler AI capex, bubble risk, revenue visibility, circular infrastructure financing, and U.S.-China market asymmetry. Created pages for Aaron, CoreWeave, AI Capex Return Window, AI Revenue Legibility, AI Circular Infrastructure Financing, and China-U.S. AI Valuation Asymmetry; updated overview, index, What's Next｜科技早知道, AI Equity Valuation Risk, AI Investment Metrics, AI Commercialization Pressure, Productive Bubble Spillovers, Strategic AI Infrastructure Dependence, Data Center Debt Risk, Nvidia, OpenAI, Meta, Alibaba, and Hong Kong Tech Repricing. No direct contradiction found; the source is more assertive than earlier statistical AI-bubble pages but frames the disagreement as a difference between capex-return timing and probabilistic bubble indicators.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

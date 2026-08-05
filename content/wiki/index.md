@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？ | S10E12](sources/7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52.md) — What's Next episode with Aaron on hyperscaler AI capex, bubble risk, bright-line/dark-line AI revenue, circular infrastructure financing, and U.S.-China valuation asymmetry.
 - [从央视纪录片到爆款 AI 短剧：第一批「转身」的导演｜ S10E11](sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc.md) — What's Next｜科技早知道 episode with Chouxiangzai and Taitai on AI short-drama workflows, C-DANCE/Seedance, director-core production, overseas localization, paid traffic, and story-driven monetization.
 - [探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」｜ S10E10](sources/tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77.md) — What's Next episode on Silicon Valley hacker houses, The Residency, Accelerate, Frontier Tower, HF0, AGI House, equity pools, founder network arbitrage, and hacker houses as early startup infrastructure.
 - [优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert](sources/youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2.md) — 42章经 episode with Albert on optimizing startup win rate over odds, AI interactive content limits, Hexfield-style model packaging, coding democratization, multimodal understanding, and operating to a theoretical standard.
@@ -692,6 +693,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Aaron (What's Next guest)](entities/AaronWhatsNext.md) — Source-scoped What's Next guest explaining AI capex, bubble risk, revenue visibility, circular infrastructure financing, and U.S.-China market-reaction asymmetry.
+- [CoreWeave](entities/CoreWeave.md) — GPU cloud and AI compute counterparty used in the episode's circular financing example with Nvidia and OpenAI.
 - [The Residency](entities/TheResidency.md) — Hacker-house organization combining selected founder housing, meals, community, investor access, and batch equity pooling.
 - [Accelerate (Hacker House)](entities/AccelerateHackerHouse.md) — Rent-and-community hacker-house project using housing, playful events, a larger Hacker Hotel, and talent services rather than an equity-first model.
 - [Frontier Tower](entities/FrontierTower.md) — Market Street vertical-tech-village experiment clustering AI, crypto, robotics, longevity, and other startup communities in a large San Francisco building.
@@ -4772,6 +4775,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Capex Return Window](concepts/AICapexReturnWindow.md) — One-to-three-year public-market test for whether AI infrastructure spending becomes visible revenue, cost reduction, or strategic control.
+- [AI Revenue Legibility](concepts/AIRevenueLegibility.md) — Bright-line/dark-line framework for whether investors can observe AI's contribution in reported business lines.
+- [AI Circular Infrastructure Financing](concepts/AICircularInfrastructureFinancing.md) — AI infrastructure loop where investments, compute leases, and GPU orders reinforce one another before independent third-party demand is fully proven.
+- [China-U.S. AI Valuation Asymmetry](concepts/ChinaUSAIValuationAsymmetry.md) — Market frame where U.S. investors tend to believe AI capex first while Chinese large-internet investors first question governance, spending, and return discipline.
 - [Hacker House Startup Infrastructure](concepts/HackerHouseStartupInfrastructure.md) — Live-work founder spaces becoming part of startup selection, community, fundraising, and early value capture.
 - [Equity Hacker House Model](concepts/EquityHackerHouseModel.md) — Hacker-house model where housing, food, community, and investor access are exchanged for startup equity.
 - [Batch Equity Pool](concepts/BatchEquityPool.md) — The Residency-style structure pooling cohort company equity and selling investors exposure to the batch.

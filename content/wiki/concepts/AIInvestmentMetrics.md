@@ -2,13 +2,15 @@
 title: "AI Investment Metrics"
 type: concept
 tags: [ai, investing, metrics]
-sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
-last_updated: 2026-07-08
+sources: [7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
+last_updated: 2026-08-05
 ---
 
 # AI Investment Metrics
 
 AI investment metrics are the [[Mianji]] E155 framework for replacing broad "AI bubble" arguments with observable business and infrastructure signals. The episode argues that generative AI should not be evaluated only through mobile-internet metrics such as MAU, DAU, time spent, or DAU/MAU stickiness. It proposes a loop: CAPEX improves model capability, better models increase tokens, token demand turns into paid usage, and the result should appear in ARR, contract liabilities, deferred revenue, or AI-native revenue.
+
+[[7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]] adds the public-company legibility version. [[AaronWhatsNext|Aaron]] separates [[AIRevenueLegibility|bright-line and dark-line AI revenue]], then suggests watching data-center utilization, GPU rental prices, downstream customer payment capacity, cloud margins, and hardware depreciation as the practical indicators for whether capex is turning into demand.
 
 [[141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]] adds [[Freda]]'s public/private-market version. It sharpens token metrics through [[TokenMaxxing]]: raw token volume should be normalized by task completion, model quality, hidden reasoning cost, dollar-per-token, and revenue per unit of constrained compute. The source also warns that reported model-company ARR may not be comparable when companies use different run-rate, gross/net, and time-window conventions.
 
@@ -34,6 +36,7 @@ AI investment metrics are the [[Mianji]] E155 framework for replacing broad "AI 
 - Model-company revenue should not be treated as terminal AI return by itself; it may still be customer input until downstream business outcomes appear.
 - Episode 136 adds that Token Usage can be a better leading metric than DAU when models complete expensive, high-value work, but usage still needs to be tested against terminal customer value.
 - The LateTalk source adds that coding-agent share, enterprise migration, and internal research acceleration can be strategic metrics even when near-term profitability is unclear.
+- The What's Next source adds that infrastructure metrics must be paired with public reporting visibility: utilization, GPU pricing, customer ability to pay, cloud margins, and depreciation risk matter more when AI revenue is otherwise a dark line.
 
 ## Connections
 - [[TokenMaxxing]] and [[AIEconomicDiffusion]] — episode 141's token-efficiency and productivity-absorption extensions.
@@ -46,3 +49,4 @@ AI investment metrics are the [[Mianji]] E155 framework for replacing broad "AI 
 - [[DaiYusen]], [[AgentHarness]], [[ClaudeCode]], [[Codex]], and [[AIEconomicDiffusion]] — input-output-result metric boundary added by episode 142.
 - [[AGIThreeActs]], [[ModelAsOperatingSystem]], [[TokenMaxxing]], [[ClaudeCode]], and [[Codex]] — Token Usage and model-platform investment frame added by episode 136.
 - [[HenryYin]], [[Codex]], [[ClaudeCode]], [[AutoResearch]], and [[RecursiveSelfImprovement]] — Q2 2026 coding revenue and self-improvement-loop metric update added by LateTalk.
+- [[AIRevenueLegibility]], [[AICapexReturnWindow]], [[AICircularInfrastructureFinancing]], and [[CoreWeave]] — public-market capex and infrastructure-demand metrics added by What's Next S10E12.

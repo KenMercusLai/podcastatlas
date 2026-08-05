@@ -715,6 +715,10 @@
     "title": "70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊",
     "url": "/wiki/sources/70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394/"
   },
+  "7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52": {
+    "title": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？ | S10E12",
+    "url": "/wiki/sources/7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52/"
+  },
   "71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384": {
     "title": "71.美妆帝国蝴蝶牌：言情小说家的国货创业往事",
     "url": "/wiki/sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384/"
@@ -931,9 +935,17 @@
     "title": "AI Bubble Hedging",
     "url": "/wiki/concepts/aibubblehedging/"
   },
+  "AICapexReturnWindow": {
+    "title": "AI Capex Return Window",
+    "url": "/wiki/concepts/aicapexreturnwindow/"
+  },
   "AIChipSpecialization": {
     "title": "AI Chip Specialization",
     "url": "/wiki/concepts/aichipspecialization/"
+  },
+  "AICircularInfrastructureFinancing": {
+    "title": "AI Circular Infrastructure Financing",
+    "url": "/wiki/concepts/aicircularinfrastructurefinancing/"
   },
   "AIClusterNetworking": {
     "title": "AI Cluster Networking",
@@ -1359,6 +1371,10 @@
     "title": "AI Resistant Experiential Consumption",
     "url": "/wiki/concepts/airesistantexperientialconsumption/"
   },
+  "AIRevenueLegibility": {
+    "title": "AI Revenue Legibility",
+    "url": "/wiki/concepts/airevenuelegibility/"
+  },
   "AIRewriteDesk": {
     "title": "AI Rewrite Desk",
     "url": "/wiki/concepts/airewritedesk/"
@@ -1574,6 +1590,10 @@
   "AaronSwartz": {
     "title": "Aaron Swartz",
     "url": "/wiki/entities/aaronswartz/"
+  },
+  "AaronWhatsNext": {
+    "title": "Aaron (What's Next guest)",
+    "url": "/wiki/entities/aaronwhatsnext/"
   },
   "AbbeyOfMonteCassino": {
     "title": "卡西诺修道院 / Abbey of Monte Cassino",
@@ -5547,6 +5567,10 @@
     "title": "China Supply-Side Clearing",
     "url": "/wiki/concepts/chinasupplysideclearing/"
   },
+  "ChinaUSAIValuationAsymmetry": {
+    "title": "China-U.S. AI Valuation Asymmetry",
+    "url": "/wiki/concepts/chinausaivaluationasymmetry/"
+  },
   "ChinaUnicom": {
     "title": "China Unicom",
     "url": "/wiki/entities/chinaunicom/"
@@ -6534,6 +6558,10 @@
   "CopyrightPlatformConflict": {
     "title": "Copyright Platform Conflict",
     "url": "/wiki/concepts/copyrightplatformconflict/"
+  },
+  "CoreWeave": {
+    "title": "CoreWeave",
+    "url": "/wiki/entities/coreweave/"
   },
   "CoreyStaley": {
     "title": "Corey Staley",

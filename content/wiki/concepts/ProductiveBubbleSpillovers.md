@@ -2,7 +2,7 @@
 title: "Productive Bubble Spillovers"
 type: concept
 tags: [innovation, macroeconomics, bubbles, infrastructure]
-sources: [tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, no-199-zixingche-200-nian-973489465, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]
+sources: [7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52, tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, no-199-zixingche-200-nian-973489465, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]
 last_updated: 2026-08-05
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-05
 Productive bubble spillovers are the source's silver-lining theory that some bubbles may leave useful infrastructure, knowledge, or research behind even when investors overpay. In [[so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]], the dot-com comparison is fiber-optic buildout: much capacity initially looked wasted, but later broadband and streaming uses benefited from it.
 
 The source applies this cautiously to AI. If AI expectations disappoint, data centers, chips, and model R&D may still have later uses or spillovers. That does not make the bubble harmless, because jobs, wealth, spending, and debt channels can still transmit damage. It means the welfare question differs from purely speculative collectibles where overproduction leaves little reusable value.
+
+[[7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]] adds a sharper investor-timeframe qualification. [[AaronWhatsNext|Aaron]] accepts the dot-com analogy around infrastructure-before-demand, but argues that public markets still judge whether today's AI capex becomes revenue within an [[AICapexReturnWindow|effective commercial window]]. Useful future capacity does not guarantee that current data-center builders, GPU buyers, or equity investors earn adequate returns.
 
 [[tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]] adds a more concrete dot-com case through [[PaulVixie]] and [[DarkFiber]]. The episode cites the [[FederalCommunicationsCommission|Federal Communications Commission]] estimate that much fiber remained unused in 2007, then shows how later internet applications turned that unused capacity into productive infrastructure. This strengthens the concept while keeping the distinction between social capacity and investor returns: the source also notes telecom bankruptcies after the boom.
 
@@ -27,6 +29,7 @@ The source applies this cautiously to AI. If AI expectations disappoint, data ce
 - The theory is not a blanket defense of bubbles because leverage, banking exposure, and worker displacement can still dominate.
 - In AI, the important test is whether data centers, compute, and research become reusable capacity or stranded assets.
 - Fast infrastructure construction does not automatically compress adoption time; social, organizational, and business-model diffusion can still lag.
+- Productive spillovers are distinct from shareholder return: AI infrastructure may be useful later while still failing the one-to-three-year return window implied by current valuations.
 
 ## Connections
 - [[GadiBarlevy|Gadi Barlevy]] - source voice who treats the theory as interesting but not fully convincing.
@@ -37,3 +40,4 @@ The source applies this cautiously to AI. If AI expectations disappoint, data ce
 - [[ExternalityInternalization]] - related economics of spillovers and who pays or benefits.
 - [[AIEquityValuationRisk]] and [[SpeculativeBubblePsychology]] - why social usefulness does not settle stock-price attractiveness.
 - [[DavidKirsch]] and [[TechBubbleConditions]] - Marketplace Tech's historical timing caution for the AI bubble debate.
+- [[AaronWhatsNext]], [[AICapexReturnWindow]], [[AIRevenueLegibility]], and [[AICircularInfrastructureFinancing]] - What's Next's investor-timeframe and demand-quality qualification.
