@@ -2,7 +2,7 @@
 title: "Humanistic Science Communication"
 type: concept
 tags: [science, communication, humanities, public-science]
-sources: [163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074]
+sources: [85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571, 163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074]
 last_updated: 2026-08-06
 ---
 
@@ -14,6 +14,8 @@ The concept is not anti-skeptical. The source's Sagan refuses superstition, UFO 
 
 [[163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179]] adds a wildlife-conservation version through [[YuanZhang|袁掌]] and [[JiaoYiZhiSheliWangjiDongwuyuan|《教一只猞猁忘记动物园》]]. The episode keeps [[Lynx|lynx]] taxonomy, release timing, satellite tracking, and live-prey ethics in view, but argues that a moving individual story can make public science more effective when pure rational explanation fails to make people care.
 
+[[85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571]] adds a neighborhood and essayistic version through [[YinQiCheDundun|尹琪]]. Her account of insects, fireflies, raccoon-dog surveys, swallow nests, and child night observation shows public nature knowledge moving through stories, local activities, and community negotiation rather than only through formal lectures.
+
 ## Key Claims
 - Good science communication needs accuracy, clarity, story, and emotional orientation.
 - Wonder becomes stronger, not weaker, when it stays connected to evidence and correction.
@@ -21,6 +23,7 @@ The concept is not anti-skeptical. The source's Sagan refuses superstition, UFO 
 - Sagan's work makes cosmic scale a source of responsibility rather than nihilism.
 - The source treats public science as civic work: it can defend exploration, warn against nuclear self-destruction, and help people imagine themselves as part of one civilization.
 - In conservation communication, evidence and emotion can reinforce each other when the story stays accountable to species behavior, field uncertainty, and institutional work.
+- Everyday nature communication can be effective when it gives children and neighbors names, scenes, and memories for organisms already living nearby.
 
 ## Connections
 - [[CarlSagan|Carl Sagan]], [[CosmosBook|《宇宙》 / Cosmos]], and [[ContactNovel|《接触》 / Contact]] - central source cases.
@@ -29,3 +32,4 @@ The concept is not anti-skeptical. The source's Sagan refuses superstition, UFO 
 - [[VoyagerGoldenRecord]], [[SETI]], and [[NuclearWinter]] - project and risk branches that make the concept concrete.
 - [[RationalHumility]] - humility needed when cosmic scale exceeds current knowledge.
 - [[YuanZhang|袁掌]], [[JiaoYiZhiSheliWangjiDongwuyuan|《教一只猞猁忘记动物园》]], [[ConservationStoryMobilization]], and [[WildReleaseHumanAvoidance]] - wildlife-conservation extension.
+- [[YinQiCheDundun|尹琪]], [[CheDundunYeShiji|《车墩墩野事记》]], [[CommunityFireflyProtection]], and [[CitizenScience]] - neighborhood nature-writing extension.

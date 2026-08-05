@@ -863,6 +863,10 @@
     "title": "84.冰路狂花：好姑娘，你只是忘了勇敢",
     "url": "/wiki/sources/84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676/"
   },
+  "85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571": {
+    "title": "85.车墩墩野事记：走啊！搬到乡下钻小树林儿去！",
+    "url": "/wiki/sources/85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -5619,6 +5623,14 @@
     "title": "Chatbot Safety Guardrail Decay",
     "url": "/wiki/concepts/chatbotsafetyguardraildecay/"
   },
+  "CheDundunYeShiji": {
+    "title": "《车墩墩野事记》",
+    "url": "/wiki/entities/chedundunyeshiji/"
+  },
+  "ChedunTown": {
+    "title": "车墩镇 / Chedun Town",
+    "url": "/wiki/entities/cheduntown/"
+  },
   "ChelanPUD": {
     "title": "Chelan PUD",
     "url": "/wiki/entities/chelanpud/"
@@ -6562,6 +6574,10 @@
   "CommunityFeeling": {
     "title": "Community Feeling",
     "url": "/wiki/concepts/communityfeeling/"
+  },
+  "CommunityFireflyProtection": {
+    "title": "Community Firefly Protection / 社区萤火虫保护",
+    "url": "/wiki/concepts/communityfireflyprotection/"
   },
   "CommunityGroupBuying": {
     "title": "Community Group Buying",
@@ -28575,6 +28591,10 @@
     "title": "Urban Ecology",
     "url": "/wiki/concepts/urbanecology/"
   },
+  "UrbanEdgeNature": {
+    "title": "Urban-Edge Nature / 城市边缘自然",
+    "url": "/wiki/concepts/urbanedgenature/"
+  },
   "UrbanEverydayFiction": {
     "title": "Urban Everyday Fiction",
     "url": "/wiki/concepts/urbaneverydayfiction/"
@@ -30334,6 +30354,10 @@
   "YinQi": {
     "title": "Yin Qi",
     "url": "/wiki/entities/yinqi/"
+  },
+  "YinQiCheDundun": {
+    "title": "尹琪 / Yin Qi (nature writer)",
+    "url": "/wiki/entities/yinqichedundun/"
   },
   "YinWu": {
     "title": "Yin Wu",

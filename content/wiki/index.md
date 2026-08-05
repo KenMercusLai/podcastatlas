@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [85.车墩墩野事记：走啊！搬到乡下钻小树林儿去！](sources/85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571.md) — 蜜獾吃书 episode with 尹琪 on 《车墩墩野事记》, city-edge nature, Chedun life, small woods, fireflies, raccoon-dog surveys, and observation before judgment.
 - [84.冰路狂花：好姑娘，你只是忘了勇敢](sources/84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676.md) — 蜜獾吃书 episode on Amy Butcher's Mothertrucker, Joy Wiebe, Alaska's Dalton Highway, psychological abuse, why-not-leave victim blaming, and courage as concrete exit.
 - [83.梳毛、八卦及语言的进化：人际关系“邓巴数”，咱不服不行](sources/83-shumao-bagua-ji-yuyan-de-jinhua-renji-guanxi-dengbashu-zan-bu-fu-bu-xing-698132861.md) — 蜜獾吃书 episode on Robin Dunbar, Dunbar Number, social grooming, gossip, language evolution, workplace informal talk, group-boundary language, and podcast intimacy.
 - [81.间谍与叛徒：恕我直言，007的故事弱爆了（下）](sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209.md) — 蜜獾吃书 episode continuing Oleg Gordievsky's London intelligence work, Operation RYAN, Aldrich Ames's betrayal, Operation Pimlico, escape through Finland, and the costs of source protection.
@@ -733,6 +734,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [尹琪 / Yin Qi (nature writer)](entities/YinQiCheDundun.md) — Author of 《车墩墩野事记》 whose city-edge observations connect nature writing, insects, birds, fireflies, and renewed attention to people.
+- [《车墩墩野事记》](entities/CheDundunYeShiji.md) — 尹琪 essay collection discussed by episode 85 as nature writing about Chedun, urban-edge animals, local people, and messy ordinary habitats.
+- [车墩镇 / Chedun Town](entities/ChedunTown.md) — Shanghai-area urban-edge town that grounds 《车墩墩野事记》 through balconies, storefronts, woods, fields, fireflies, and community life.
 - [Mothertrucker / 《冰路狂花》](entities/Mothertrucker.md) — Amy Butcher nonfiction book read by episode 84 as a road memoir about abuse, friendship, Alaska, and delayed courage.
 - [Amy Butcher / 艾米](entities/AmyButcher.md) — Writer and teacher whose public feminist fluency and private abusive relationship anchor episode 84's trauma-recognition branch.
 - [Joy "Joey" Wiebe / Joey](entities/JoyWiebe.md) — Female ice-road trucker whose Dalton Highway competence, wounded history, and witness role shape Mothertrucker.
@@ -5070,6 +5074,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Urban-Edge Nature / 城市边缘自然](concepts/UrbanEdgeNature.md) — Mixed city/suburb/village habitat where animals, residents, infrastructure, waste, safety, and informal human behavior shape one lived ecology.
+- [Community Firefly Protection / 社区萤火虫保护](concepts/CommunityFireflyProtection.md) — Small-scale urban conservation where darkness, path lights, resident cooperation, and night observation decide whether local fireflies can persist.
 - [Psychological Abuse Recognition / 精神虐待识别](concepts/PsychologicalAbuseRecognition.md) — Naming intimidation, verbal terror, shame, and reality distortion as abuse even without visible injury.
 - [Why-Not-Leave Victim Blaming / “为什么不离开”受害者责难](concepts/WhyNotLeaveVictimBlaming.md) — Critique of treating delayed exit from abuse as the victim's failure rather than a control, fear, shame, and resource problem.
 - [Social Media Abuse Mask / 社交媒体虐待遮蔽](concepts/SocialMediaAbuseMask.md) — Curated online peace or courage making private abuse and pain harder to see.

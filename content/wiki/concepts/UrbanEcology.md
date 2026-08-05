@@ -2,13 +2,15 @@
 title: "Urban Ecology"
 type: concept
 tags: [ecology, cities, nature]
-sources: [97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down]
-last_updated: 2026-07-18
+sources: [85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down]
+last_updated: 2026-08-06
 ---
 
 # Urban Ecology
 
 Urban ecology is the study of how organisms, habitats, infrastructure, and human activity interact inside cities. In [[ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779]], [[RenNing]] uses birdwatching to show that city nature includes parks, wetlands, train stations, convenience-store edges, power-line wasteland, vacant lots, landscaped water, and unmanaged native plants.
+
+[[85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571]] adds a [[ChedunTown|车墩镇]] version through [[UrbanEdgeNature]]. The episode makes balconies, storefront eaves, village paths, small woods, community lawns, lighting, garbage, and rail-commuting suburbs part of urban ecology, because bats, swallows, insects, raccoon dogs, fireflies, residents, and property management all shape each other's possibilities.
 
 The source's key urban-ecology move is to treat birds as indicators rather than decoration. If a species appears, disappears, changes abundance, or returns predictably to a branch, that may signal food, water, landscaping, climate, migration habit, disturbance, or a hidden habitat condition. Managed green spaces can help by concentrating habitat, but scenic landscaping can also damage wetland cycles when it freezes water levels and vegetation into stable visitor-friendly views.
 
@@ -32,6 +34,7 @@ The source's key urban-ecology move is to treat birds as indicators rather than 
 - Privately owned trees can still serve public ecological functions, which makes canopy preservation a local-government issue.
 - The ecological value of urban trees is not enough by itself; policy also has to address owner safety, replacement costs, and [[PermitProportionality]].
 - Urban allergen exposure is an ecological signal too: plant choice, vacant land, disturbance, mowing, and air filtration shape how city residents experience seasonal disease.
+- City-edge ecology includes informal human uses and community infrastructure, not only planned parks or official green space.
 
 ## Connections
 - [[BirdwatchingAsAttention]] - method for seeing the urban habitat layer.
@@ -43,3 +46,4 @@ The source's key urban-ecology move is to treat birds as indicators rather than 
 - [[WetlandAdaptation]], [[ModernUrbanDisasterRisk]], [[FloodControlRiskTransfer]], and [[NaturalHazardSocialDisaster]] - historical floodplain-city extension from episode 65.
 - [[UrbanCanopyExternalities]], [[TreeProtectionOrdinances]], and [[PropertyRightsCommunityObligations]] - private-tree regulation layer added by Planet Money.
 - [[HayFeverEnvironmentalHistory]], [[RagweedEcologicalFeedback]], [[AllergySourceControl]], and [[AirPurifier]] - pollen-allergy and indoor-refuge extension from episode 97.
+- [[UrbanEdgeNature]], [[CommunityFireflyProtection]], [[ChedunTown|车墩镇]], and [[CheDundunYeShiji|《车墩墩野事记》]] - episode 85's suburban wildlife and lighting branch.
