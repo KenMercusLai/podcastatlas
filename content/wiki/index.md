@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [一条节目说明，希望各位听众能够听完](sources/yi-tiao-jiemu-shuoming-xiwang-gewei-tingzhong-nenggou-tingwan-578621335.md) — 蜜獾吃书 short notice on a prepared episode failing review on some platforms, alternate listening routes, weekly update expectations, and platform-review friction.
 - [24.捍卫雅各布：相信你是我唯一的执念](sources/24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441.md) — 蜜獾吃书 episode on William Landay's 《捍卫雅各布》, legal proof versus truth, parental defense, inherited violence, forensic ambiguity, and first-person moral alignment.
 - [E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？](sources/e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67.md) — 硅谷101 episode on U.S. healthcare AI, physician administrative burden, billing/coding automation, HIPAA constraints, OpenEvidence, OpenAI and Anthropic healthcare products, and doctor-led medical AI workflows.
 - [E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛](sources/e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73.md) — 硅谷101 episode with Zhou Jiangong on Demis Hassabis, DeepMind's reinforcement-learning AGI route, AlphaGo, AlphaFold, Google acquisition, Gemini catch-up, and scientific ideal versus AI race risk.
@@ -4816,6 +4817,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Podcast Platform Review](concepts/PodcastPlatformReview.md) — Distribution constraint when the same podcast episode passes review on some platforms but is blocked on others.
 - [Legal Truth-Evidence Gap / 法律真相与证据差距](concepts/LegalTruthEvidenceGap.md) — Gap between what happened and what a court can responsibly decide from admissible evidence.
 - [Parental Defense Conflict / 父母辩护冲突](concepts/ParentalDefenseConflict.md) — Ethical and legal clash when protecting a child may betray evidence, victims, public duty, or future safety.
 - [Genetic Culpability Problem / 遗传归责问题](concepts/GeneticCulpabilityProblem.md) — Question of how law should handle inherited traits or psychological risk without punishing identity before conduct.
