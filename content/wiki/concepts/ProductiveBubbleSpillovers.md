@@ -2,8 +2,8 @@
 title: "Productive Bubble Spillovers"
 type: concept
 tags: [innovation, macroeconomics, bubbles, infrastructure]
-sources: [no-199-zixingche-200-nian-973489465, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]
-last_updated: 2026-08-04
+sources: [tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, no-199-zixingche-200-nian-973489465, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Productive Bubble Spillovers
@@ -16,6 +16,8 @@ The source applies this cautiously to AI. If AI expectations disappoint, data ce
 
 [[no-199-zixingche-200-nian-973489465]] adds a pre-digital consumer-manufacturing case through the [[BicycleCapitalBubble]]. The episode says the 1895-1897 bicycle mania produced saturation, price war, and bankruptcies, but also left [[BicycleIndustrialSpillovers]]: lightweight tubing, bearings, tires, precision parts, repair shops, and operators who later helped cars and aviation.
 
+[[tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128]] adds a timing caution through [[DavidKirsch]]. The source says AI infrastructure is being built quickly, but value will only become clearer after businesses, markets, communications, and organizations incorporate the technology. That reinforces the spillover distinction: useful capacity may emerge later, but that does not guarantee current investors' required timeframe.
+
 ## Key Claims
 - A bubble can allocate capital badly for investors while still accelerating some socially useful infrastructure.
 - R&D can be underfunded because firms cannot capture all benefits from discoveries, making spillovers a possible reason overinvestment is not purely waste.
@@ -24,6 +26,7 @@ The source applies this cautiously to AI. If AI expectations disappoint, data ce
 - The bicycle case shows that spillovers can be embodied in parts, tools, repair practice, and trained operators, not only in fixed communications infrastructure.
 - The theory is not a blanket defense of bubbles because leverage, banking exposure, and worker displacement can still dominate.
 - In AI, the important test is whether data centers, compute, and research become reusable capacity or stranded assets.
+- Fast infrastructure construction does not automatically compress adoption time; social, organizational, and business-model diffusion can still lag.
 
 ## Connections
 - [[GadiBarlevy|Gadi Barlevy]] - source voice who treats the theory as interesting but not fully convincing.
@@ -33,3 +36,4 @@ The source applies this cautiously to AI. If AI expectations disappoint, data ce
 - [[AIComputeContinuity]], [[DataCenterPowerBottleneck]], and [[DataCenterDebtRisk]] - AI infrastructure branch where useful capacity and financing fragility interact.
 - [[ExternalityInternalization]] - related economics of spillovers and who pays or benefits.
 - [[AIEquityValuationRisk]] and [[SpeculativeBubblePsychology]] - why social usefulness does not settle stock-price attractiveness.
+- [[DavidKirsch]] and [[TechBubbleConditions]] - Marketplace Tech's historical timing caution for the AI bubble debate.

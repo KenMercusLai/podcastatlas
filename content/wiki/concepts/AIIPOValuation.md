@@ -2,7 +2,7 @@
 title: "AI IPO Valuation"
 type: concept
 tags: [ai, investing, valuation]
-sources: [tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
+sources: [tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
 last_updated: 2026-08-05
 ---
 
@@ -22,6 +22,8 @@ AI IPO valuation is the episode's frame for evaluating hot private technology co
 
 [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds a pre-IPO complication through the [[SpaceX]] and [[XAI|xAI]] combination. The episode says a future SpaceX IPO would no longer be only a rocket and satellite story if xAI's cash burn, [[Grok]] controversies, [[SpaceBasedAIInfrastructure]] claims, and [[ElonMusk]]'s cross-company structure are bundled into the same public-market narrative.
 
+[[tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128]] adds [[DavidKirsch]]'s pure-play IPO qualification. Under [[TechBubbleConditions]], AI scores high on uncertainty, novice investors, and narrative power, but Kirsch says the boom is weaker on pure plays because there have not been many AI IPOs. That makes IPO absence a diagnostic limit, not a sign that valuation risk has disappeared.
+
 ## Key Claims
 - An IPO is a repricing event where private-market consensus meets public-market voting.
 - Public buyers may be taking risk from founders, employees, and venture investors who can finally exit.
@@ -33,6 +35,7 @@ AI IPO valuation is the episode's frame for evaluating hot private technology co
 - The SpaceX/xAI segment adds that corporate bundling can make an IPO harder to underwrite because profitable infrastructure businesses and cash-burning AI bets may be mixed together.
 - The April 3 source adds IPO-timing competition: entering public markets before other frontier AI companies can matter if investor attention, liquidity, and comparable valuations are scarce.
 - The January 23 source adds that IPOs can broaden who funds capital-intensive AI ventures, but that broader access does not remove the need to evaluate cash burn, technical uncertainty, and exit incentives.
+- The January 30 source adds that a limited pure-play IPO wave can keep the bubble score below maximum while leaving other investable channels, such as public mega-caps and infrastructure debt, exposed.
 
 ## Connections
 - [[OpenAI]], [[Anthropic]], and [[SpaceX]] — companies used in the episode's valuation discussion.
@@ -45,3 +48,4 @@ AI IPO valuation is the episode's frame for evaluating hot private technology co
 - [[XAI|xAI]], [[Grok]], [[SpaceBasedAIInfrastructure]], and [[ElonMusk]] — SpaceX/xAI pre-IPO complication added by Marketplace Tech.
 - [[PareshDave]], [[Starlink]], [[Starship]], and [[Twitter|X]] - bundled SpaceX filing and IPO-race context added by the April 3 Marketplace Tech source.
 - [[PublicCompanyTransition]], [[PublicMarketCommunication]], [[SpaceBasedAIInfrastructure]], and [[OrbitalDataCenterEconomics]] - credibility, disclosure, and capital-intensive space-data-center context added by the January 23 Marketplace Tech source.
+- [[DavidKirsch]], [[TechBubbleConditions]], [[AIInfrastructureDebtFinancing]], and [[AIEquityValuationRisk]] - pure-play IPO qualification added by the January 30 Marketplace Tech source.

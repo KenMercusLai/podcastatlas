@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-05] ingest | Bytes: Week in Review - Are we in an AI bubble?
+
+Added source page for a Marketplace Tech Bytes episode with David Kirsch on whether the AI boom is a technology bubble. Created pages for David Kirsch, University of Maryland, Bubbles and Crashes, Tech Bubble Conditions, and AGI Narrative; updated overview, index, Marketplace Tech, Megan McCarty-Corino, AI Equity Valuation Risk, Bubble Necessary Conditions, Statistical Bubble Indicators, Productive Bubble Spillovers, Technology Installation Cycle, Data Center Debt Risk, AI Infrastructure Debt Financing, AI IPO Valuation, ChatGPT, Google, and Anthropic. No direct contradiction found; the source reinforces existing AI-bubble and infrastructure-cycle pages while qualifying them with Kirsch's seven-out-of-eight score, limited pure-play IPO signal, and distinction between AI service dependence and investor return certainty.
+
 ## [2026-08-05] ingest | Raising the "speed limit" on AI's "information highway"
 
 Added source page for a Marketplace Tech episode visiting an AWS networking hardware lab in Cupertino, focused on AI cluster networking, fiber scale, 64-fiber connector deployment, optical transponders, deployment speed, and network resilience. Created pages for Satish Vangala, AI Cluster Networking, Fiber Connector Deployment, and Optical Transponders; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Amazon Web Services, Strategic AI Infrastructure Dependence, AI Compute Continuity, How We Survive, and Amy Scott. No direct contradiction found; the source complements the Jan. 27 Equinix and Jan. 28 Paul Vixie infrastructure episodes by adding the inside-cluster networking layer, while keeping AWS performance claims source-attributed.
@@ -5352,3 +5356,7 @@ Added source page for a Marketplace Tech episode on Redwood Materials using reus
 ## [2026-08-05] lint | Wiki health check
 
 Ran lint after health passed. Health scanned 7,567 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 7,573 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.

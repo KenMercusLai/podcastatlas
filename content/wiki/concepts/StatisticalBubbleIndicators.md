@@ -2,8 +2,8 @@
 title: "Statistical Bubble Indicators"
 type: concept
 tags: [investing, markets, bubbles, risk]
-sources: [so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
-last_updated: 2026-07-24
+sources: [tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
+last_updated: 2026-08-05
 ---
 
 # Statistical Bubble Indicators
@@ -12,6 +12,8 @@ Statistical bubble indicators are [[RobinGreenwood]]'s four-signal framework in 
 
 Applied to AI, the source gives a mixed reading. [[Nvidia]] and other AI-linked stocks show high valuations and some volatility, but the episode says there has not been much new public issuance from major AI companies and that prices have not recently been accelerating faster and faster. That is why Greenwood calls the situation an early bubble rather than a settled one.
 
+[[tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128]] adds a non-statistical comparison through [[DavidKirsch]]'s [[TechBubbleConditions]]. Kirsch also sees AI as highly bubble-like, but his framework explains the pure-play IPO gap differently: AI may score high on uncertainty, novice investors, and narrative power while still missing one classic public-market signal.
+
 ## Key Claims
 - Bubble detection becomes more useful when it moves from a single dramatic price rise to a constellation of measurable signals.
 - High valuation means prices are high relative to current earnings, not merely that the company or technology is popular.
@@ -19,10 +21,12 @@ Applied to AI, the source gives a mixed reading. [[Nvidia]] and other AI-linked 
 - Acceleration matters because a market rising faster and faster is more fragile than one that has simply gone up a lot.
 - The source says the indicator set remains weak, helping only modestly more than chance in historical cases.
 - For AI, the framework reinforces [[AIEquityValuationRisk]] without proving that the current boom must immediately crash.
+- Kirsch's framework shows why a bubble assessment can be high even when Greenwood's issuance signal remains incomplete.
 
 ## Connections
 - [[RobinGreenwood]] - economist source for the framework.
 - [[EugeneFama]] and [[MarketEfficiency]] - skeptical challenge to predictability.
-- [[BubbleNecessaryConditions]] - adjacent warning checklist from a different source.
+- [[BubbleNecessaryConditions]] and [[TechBubbleConditions]] - adjacent warning checklists from other sources.
 - [[SpeculativeBubblePsychology]], [[AIBubbleHedging]], and [[InvestmentRiskManagement]] - behavioral and portfolio-response branches.
 - [[Nvidia]], [[SP500]], and [[MegaCapConcentrationRisk]] - AI-market application.
+- [[DavidKirsch]] - technology-history comparison added by Marketplace Tech.

@@ -2,8 +2,8 @@
 title: "Bubble Necessary Conditions"
 type: concept
 tags: [investing, markets, bubbles, risk]
-sources: [paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
-last_updated: 2026-07-24
+sources: [tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
+last_updated: 2026-08-05
 ---
 
 # Bubble Necessary Conditions
@@ -14,6 +14,8 @@ The key word is insufficient. The checklist is not a top-calling machine and doe
 
 [[so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]] adds a more market-data-oriented cousin through [[StatisticalBubbleIndicators]]. [[RobinGreenwood]]'s list is high valuation, volatility, issuance, and acceleration. The source keeps the same caution against certainty: AI shows some of these signs, but not enough to make the bubble label decisive.
 
+[[tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128]] adds a technology-historical cousin through [[DavidKirsch]]'s [[TechBubbleConditions]]. Kirsch emphasizes uncertainty, novice investors, investable access, and narratives, then scores AI at seven out of eight because the first, second, and fourth conditions are strong while pure-play IPO access remains less developed.
+
 ## Key Claims
 - A real technological or social change can still become a bubble if price, liquidity, and crowd psychology run ahead of cash-flow evidence.
 - New concepts make extrapolation easier because investors have fewer historical anchors and more room for this-time-is-different stories.
@@ -23,10 +25,11 @@ The key word is insufficient. The checklist is not a top-calling machine and doe
 - The framework overlaps with [[AIEquityValuationRisk]] because AI may be genuinely important while still satisfying several bubble-warning conditions.
 - The practical response is not certainty, but [[PositionSizing]], diversification, lower leverage, and asking what gain or loss would do to the investor's life.
 - Greenwood's indicators complement this page by looking at observable market behavior rather than the broader narrative, liquidity, policy, and participant conditions emphasized by Zhu Ning.
+- Kirsch's framework complements both pages by asking how new technology creates uncertainty before use cases, infrastructure, and business models have matured.
 
 ## Connections
 - [[ZhuNing]] and [[42Zhangjing]] — source voice and show context.
 - [[SpeculativeBubblePsychology]] and [[BehavioralInvestingBiases]] — human mechanisms behind the checklist.
-- [[StatisticalBubbleIndicators]], [[AIEquityValuationRisk]], [[AIBubbleHedging]], and [[TechnologyInstallationCycle]] — AI and technology-cycle applications.
+- [[StatisticalBubbleIndicators]], [[TechBubbleConditions]], [[AIEquityValuationRisk]], [[AIBubbleHedging]], and [[TechnologyInstallationCycle]] — AI and technology-cycle applications.
 - [[RetailBullMarketPsychology]], [[PolicyDrivenMarketRally]], and [[LeverageDrivenBullMarket]] — crowd, policy, and leverage channels.
 - [[InvestmentRiskManagement]], [[PositionSizing]], [[AssetAllocation]], and [[ValueInvesting]] — practical controls when warning conditions accumulate.

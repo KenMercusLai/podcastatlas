@@ -799,6 +799,10 @@
     "title": "ADNOC",
     "url": "/wiki/entities/adnoc/"
   },
+  "AGINarrative": {
+    "title": "AGI Narrative",
+    "url": "/wiki/concepts/aginarrative/"
+  },
   "AGIThreeActs": {
     "title": "AGI Three Acts",
     "url": "/wiki/concepts/agithreeacts/"
@@ -4295,6 +4299,10 @@
     "title": "Bubble Necessary Conditions",
     "url": "/wiki/concepts/bubblenecessaryconditions/"
   },
+  "BubblesAndCrashes": {
+    "title": "Bubbles and Crashes",
+    "url": "/wiki/entities/bubblesandcrashes/"
+  },
   "Bucephalus": {
     "title": "Bucephalus / 布西法拉斯",
     "url": "/wiki/entities/bucephalus/"
@@ -7162,6 +7170,10 @@
   "DavidKirkpatrick": {
     "title": "David Kirkpatrick",
     "url": "/wiki/entities/davidkirkpatrick/"
+  },
+  "DavidKirsch": {
+    "title": "David Kirsch",
+    "url": "/wiki/entities/davidkirsch/"
   },
   "DavidKirtley": {
     "title": "David Kirtley",
@@ -24739,6 +24751,10 @@
     "title": "Team Marketing",
     "url": "/wiki/entities/teammarketing/"
   },
+  "TechBubbleConditions": {
+    "title": "Tech Bubble Conditions",
+    "url": "/wiki/concepts/techbubbleconditions/"
+  },
   "TechCultureBiohacking": {
     "title": "Tech-Culture Biohacking",
     "url": "/wiki/concepts/techculturebiohacking/"
@@ -26118,6 +26134,10 @@
   "UniversityOfIllinoisUrbanaChampaign": {
     "title": "University of Illinois Urbana-Champaign",
     "url": "/wiki/entities/universityofillinoisurbanachampaign/"
+  },
+  "UniversityOfMaryland": {
+    "title": "University of Maryland",
+    "url": "/wiki/entities/universityofmaryland/"
   },
   "UniversityOfMichigan": {
     "title": "University of Michigan",
@@ -29538,6 +29558,10 @@
   "tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128": {
     "title": "A recycling startup joins the AI boom",
     "url": "/wiki/sources/tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128/"
+  },
+  "tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128": {
+    "title": "Bytes: Week in Review - Are we in an AI bubble?",
+    "url": "/wiki/sources/tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128/"
   },
   "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128": {
     "title": "Making the most of AI, without the hype",

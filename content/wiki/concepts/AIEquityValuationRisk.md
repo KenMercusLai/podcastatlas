@@ -2,8 +2,8 @@
 title: "AI Equity Valuation Risk"
 type: concept
 tags: [ai, investing, valuation, risk]
-sources: [so-are-we-in-an-ai-bubble-here-are-clues-to-look-for, indicators-of-2025-and-what-to-watch-in-2026, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]
-last_updated: 2026-07-24
+sources: [tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for, indicators-of-2025-and-what-to-watch-in-2026, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]
+last_updated: 2026-08-05
 ---
 
 # AI Equity Valuation Risk
@@ -32,6 +32,8 @@ AI equity valuation risk is the frame for public-market AI leaders whose busines
 
 [[so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]] adds [[RobinGreenwood]]'s [[StatisticalBubbleIndicators]] to the same public-equity question. The source treats [[Nvidia]]'s high valuation and volatility as bubble-like signals, but says weak new issuance and non-accelerating recent price gains keep the diagnosis incomplete. It also adds [[EugeneFama]]'s [[MarketEfficiency]] challenge, turning AI valuation risk into an uncertainty-management problem rather than a confident top call.
 
+[[tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128]] adds [[DavidKirsch]]'s historical bubble score. Kirsch gives AI a seven-out-of-eight reading under [[TechBubbleConditions]]: uncertainty, novice investors, and narratives are strong, while pure-play AI IPOs remain weaker. This reinforces the page's core distinction: AI can be important, deeply used, and still vulnerable if capital expects adoption, business-model clarity, or [[AGINarrative|AGI]] payoff faster than the economy can deliver.
+
 ## Key Claims
 - "AI will change the world" and "this stock is attractive at this price" are separate claims.
 - [[Nvidia]]'s demand path depends partly on large customers such as [[Microsoft]], [[Google]], and [[Amazon]] continuing AI capex at high levels.
@@ -56,6 +58,7 @@ AI equity valuation risk is the frame for public-market AI leaders whose busines
 - Government review and unclear launch criteria can turn model capability into a timing and revenue-risk question for investors.
 - CAPE can show broad valuation risk even when the underlying AI infrastructure and earnings narratives are partly real.
 - Greenwood's bubble indicators make AI valuation risk more structured but not more certain: the episode's "early bubble" label is probabilistic and explicitly weak as a timing tool.
+- Kirsch's historical score makes the same risk more technology-specific: AI can score as highly bubble-like even if pure-play issuance remains lower than in a classic public-market mania.
 
 ## Connections
 - [[Nvidia]], [[JensenHuang]], [[Microsoft]], [[Google]], and [[Amazon]] — concrete entity cluster from the source.
@@ -75,3 +78,4 @@ AI equity valuation risk is the frame for public-market AI leaders whose busines
 - [[FrontierModelReleaseGovernance]], [[AIExportControls]], and [[OpenSourceAIModels]] — policy and substitution pressure added by The Intelligence.
 - [[CAPERatioValuationSignal]], [[DarianWoods]], [[KShapedConsumerSpending]], and [[SP500]] - broad-market valuation branch added by the Planet Money crossover.
 - [[RobinGreenwood]], [[EugeneFama]], [[StatisticalBubbleIndicators]], and [[MarketEfficiency]] - bubble-detection and predictability branch added by Planet Money.
+- [[DavidKirsch]], [[TechBubbleConditions]], [[AGINarrative]], and [[TechnologyInstallationCycle]] - historical technology-bubble score added by Marketplace Tech.
