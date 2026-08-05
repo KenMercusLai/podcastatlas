@@ -2,8 +2,8 @@
 title: "Princes in the Tower / 塔中王子案"
 type: entity
 tags: [historical-case, england, monarchy, historical-mystery]
-sources: [69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
-last_updated: 2026-07-18
+sources: [69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]
+last_updated: 2026-08-06
 ---
 
 # Princes in the Tower / 塔中王子案
@@ -12,9 +12,12 @@ The Princes in the Tower / 塔中王子案 is the disappearance case around the 
 
 The episode does not treat the case as cleanly solved. Its importance is that motive, source timing, succession law, Tudor legitimacy, and later literary reputation all become evidence questions. The case therefore demonstrates how historical mystery can be fair-play in a real archive: the material is not private to the detective, but the interpretation of that material remains contested.
 
+[[31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]] adds a fantasy-afterlife use of the case. The source connects the disappearance of the princes after Edward IV's death to the apparent loss and escape of the two youngest Stark children in [[ASongOfIceAndFire|《冰与火之歌》 / A Song of Ice and Fire]], while keeping the resemblance inside [[HistoricalFantasySourceLayering]] rather than treating it as a solved source code.
+
 ## Connections
 - [[RichardIII|Richard III / 理查三世]] - king traditionally blamed by later narratives.
 - [[TheDaughterOfTime|《时间的女儿》 / The Daughter of Time]] - source book that reopens the case.
 - [[HistoricalDetectiveReasoning]] - archive-based method.
 - [[EvidenceBoundHistoricalRevision]] - revision discipline needed for the case.
 - [[HistoricalMemoryContest]] - public reputation shaped by dynastic and literary transmission.
+- [[WarsOfTheRoses|Wars of the Roses / 玫瑰战争]], [[ASongOfIceAndFire|《冰与火之歌》 / A Song of Ice and Fire]], and [[HistoricalFantasySourceLayering]] - episode 31's fantasy-worldbuilding comparison.

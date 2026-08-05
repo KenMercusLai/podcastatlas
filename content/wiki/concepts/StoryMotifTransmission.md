@@ -2,7 +2,7 @@
 title: "Story Motif Transmission"
 type: concept
 tags: [folklore, mythology, narrative, transmission]
-sources: [29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, 06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+sources: [31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848, 29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, 06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
 last_updated: 2026-08-06
 ---
 
@@ -21,6 +21,8 @@ Story motif transmission is the source's frame for how story patterns travel, re
 [[152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062]] adds the [[SwanMaidenMotif]] version. The episode treats the hidden-clothing marriage plot in [[CowherdAndWeaverGirl|牛郎织女]] as a portable motif comparable with Buryat, Manchu, Celtic, Indian, Buddhist, and European stories, while keeping the route into Qixi open rather than overclaiming direct descent.
 
 [[142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]] adds a Celtic transformation version. [[CelticAnimalTransformation]] gathers [[TuanMacCairill|Tuan]]'s stag, boar, eagle, and salmon rebirths with Fenian dog-kin and deer-woman stories, making animal form a portable way to think about memory, kinship, coercion, and survival without turning every similar story into one descent line.
+
+[[31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]] adds a modern fantasy version through [[ASongOfIceAndFire|《冰与火之歌》 / A Song of Ice and Fire]]. The episode treats ravens, wargs, white animals, Others, forest spirits, royal incest, comet omens, and towered princes as portable motifs and historical echoes, while keeping them inside [[HistoricalFantasySourceLayering]] rather than proof of single-source descent.
 
 [[ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw]] adds ancient epic examples. [[TheEpicOfGilgamesh|《吉尔伽美什史诗》]]'s flood survivor and snake-steals-life-plant episodes invite comparison with Biblical, Chinese, and serpent-renewal traditions, while the episode keeps borrowing direction open. [[NorseMythology]] also shows motif reuse at media scale when gods, apocalyptic battles, heroic afterlife, and world trees move into fantasy, games, and superhero stories.
 
@@ -53,6 +55,7 @@ The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation
 - In mystery rewriting, a motif can function less as transmission evidence and more as an agreed rule that makes deduction possible.
 - Animal roles can travel even when the specific animal changes; the motif may be clever prey, trickster exposure, or justice against a predator rather than "crab" as a fixed symbol.
 - Celtic animal-transformation stories show that the same animal body can carry rebirth, kinship, witness memory, curse, or spouse-loss depending on narrative context.
+- Modern fantasy can gather motifs from history, myth, religion, and folklore into one invented world; motif resemblance still needs confidence discipline.
 - Serpent stories show the same caution around powerful motifs: snake wives, forbidden knowledge, hidden bathing, hero-slaying, and renewal can recur without proving one direct genealogy.
 - Gilgamesh and Norse examples show that motifs travel both through old comparative mythology and through modern media franchises; neither route should be collapsed into direct source proof.
 - Zhiguai entries can become later motifs without carrying their whole original archive context into the new moral, dramatic, or religious setting.
@@ -64,6 +67,7 @@ The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation
 - [[HorseCulturalSymbolism]] and [[HorseReligiousMythology]] - horse-specific motif fields.
 - [[SwanMaidenMotif]] and [[CowherdAndWeaverGirl|牛郎织女]] - Qixi extension added by episode 152.
 - [[CelticAnimalTransformation]], [[TuanMacCairill|图安]], [[FionnMacCumhaill|芬恩]], and [[Ossian|Oisin / Ossian / 鹅相]] - Celtic transformation extension added by episode 142.
+- [[ASongOfIceAndFire|《冰与火之歌》 / A Song of Ice and Fire]], [[HistoricalFantasySourceLayering]], and [[FictionalHistoriography]] - modern fantasy and in-world memory extension added by episode 31.
 - [[TheEpicOfGilgamesh]], [[NorseMythology]], [[Ragnarok]], [[MarvelCinematicUniverse]], and [[EpicModernAfterlife]] - ancient epic and media-afterlife extension added by EP269.
 - [[MythicSourceLayering]] - related figure-level layering concept.
 - [[AccretiveTextFormation]] - related text-level layering concept.

@@ -5636,3 +5636,11 @@ Added source page for a 蜜獾吃书 episode rereading 孟子 through Warring St
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 7,937 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-24 with 6,453 nodes while lint scanned 7,937 pages, so graph findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`; a bounded fallback scan of contradiction sections, orphan pages, and fragile-bridge endpoints found no hard unresolved contradiction, but surfaced one formatting artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-06] ingest | 31.冰与火之歌：虽然从不自称历史
+
+Added source page for a 蜜獾吃书 episode reading 《冰与火之歌》 and 《权力的游戏》 through historical fantasy source layering, covering the Wars of the Roses, conquest history, medieval geography, Valyria/Rome analogies, Celtic and Norse myth, unreliable in-world historiography, religion, disease, and later historical parallels such as the Knights Templar and Constantinople. Created pages for 《冰与火之歌》 / A Song of Ice and Fire, 《权力的游戏》 / Game of Thrones, Wars of the Roses, Historical Fantasy Source Layering, and Fictional Historiography; updated overview, index, 蜜獾吃书, George R. R. Martin, J.R.R. Tolkien, Princes in the Tower, Celtic Mythology, Norse Mythology, Mythic Source Layering, Story Motif Transmission, and Interpretation And Overinterpretation. No direct contradiction found; the source extends the wiki's mythology and evidence-discipline branches by showing that Martin's historical density depends on recombination and in-world memory uncertainty rather than one-to-one prototype claims.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

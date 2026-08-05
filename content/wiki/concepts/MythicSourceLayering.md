@@ -2,8 +2,8 @@
 title: "Mythic Source Layering"
 type: concept
 tags: [mythology, folklore, literature, religion]
-sources: [06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
-last_updated: 2026-07-25
+sources: [31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848, 06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+last_updated: 2026-08-06
 ---
 
 # Mythic Source Layering
@@ -30,6 +30,8 @@ The clearest case is [[SunWukong|孙悟空]]. The episode compares him with [[Ha
 
 [[142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]] adds a Celtic mythology case through [[CelticMythology]]. The episode keeps [[Danu|达努]], [[TuathaDeDanann|Tuatha De Danann / 达努神族]], [[LeborGabalaErenn|《入侵之书》]], [[TuanMacCairill|图安]], [[FionnMacCumhaill|芬恩]], and [[Ossian|Oisin / Ossian / 鹅相]] as layered material shaped by oral memory, Christian manuscript preservation, Romantic revival, animal transformation, and modern fantasy afterlives rather than one recoverable pure source.
 
+[[31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]] adds a historical-fantasy extension through [[ASongOfIceAndFire|《冰与火之歌》 / A Song of Ice and Fire]]. The source applies the same layering discipline to a constructed world: Celtic, Norse, Roman, Greek, crusading, dynastic, religious, and disease-history materials can all shape the setting without making any one fictional people or character reducible to a single prototype.
+
 [[ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw]] adds an ancient-epic and Norse case. [[PoeticEdda|《诗体埃达》]] and [[ProseEdda|《散文埃达》]] show oral poetry, medieval Icelandic manuscript preservation, explanatory prose, [[JRRTolkien|Tolkien]]-style fantasy, games, and the [[MarvelCinematicUniverse|漫威宇宙]] layering on top of [[NorseMythology]], while [[TheEpicOfGilgamesh|《吉尔伽美什史诗》]] shows tablet fragments, accumulated stories, and later comparative flood/snake readings.
 
 [[152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062]] adds the [[CowherdAndWeaverGirl|牛郎织女]] case. The episode separates star lore, ritual cattle and river-drum star imagery, Daoist ascent stories, textile labor, and the [[SwanMaidenMotif]] hidden-clothing plot rather than treating the modern Qixi romance as one original unit.
@@ -46,6 +48,7 @@ The clearest case is [[SunWukong|孙悟空]]. The episode compares him with [[Ha
 - The snake episode shows a parallel animal-symbol layer where biology, fear, cosmic-serpent stories, renewal, secret knowledge, and gendered folklore accumulate around one form.
 - Cross-cultural resemblance is evidence for comparison, not automatic proof of borrowing.
 - Celtic material shows how one mythology branch can layer regional languages, medieval Christian record, Romantic authenticity debates, animal transformation, and modern fantasy memory.
+- Historical fantasy shows that source layering can operate at world scale: dynastic conflict, conquest, religion, myth, disease, and geography can be recombined without producing a one-to-one historical code.
 - Edda material shows how oral poetry, medieval recording, explanatory prose, fantasy, games, and superhero media can layer over one mythic field without becoming the same source layer.
 - Gilgamesh material shows that textual fragments, long redaction, and cross-cultural motif comparison should be kept separate.
 - Religious iconography can become comic fiction without losing all of its earlier symbolic force.
@@ -75,6 +78,7 @@ The clearest case is [[SunWukong|孙悟空]]. The episode compares him with [[Ha
 - [[ChineseFolkReligionLayering]] - broader folk-belief version added by episode 136.
 - [[AfricanMythology]], [[AfricanOralLiterature]], and [[TricksterAmbivalence]] - African mythology and oral-story version added by episode 147.
 - [[CelticMythology]], [[TuathaDeDanann|Tuatha De Danann / 达努神族]], [[LeborGabalaErenn|《入侵之书》]], [[CelticAnimalTransformation]], and [[CelticOtherworld]] - Celtic mythology extension added by episode 142.
+- [[ASongOfIceAndFire|《冰与火之歌》 / A Song of Ice and Fire]], [[HistoricalFantasySourceLayering]], and [[FictionalHistoriography]] - historical-fantasy extension added by episode 31.
 - [[NorseMythology]], [[PoeticEdda]], [[ProseEdda]], [[Ragnarok]], [[MarvelCinematicUniverse]], and [[TheEpicOfGilgamesh]] - ancient epic and Norse layering extension added by EP269.
 - [[CowherdAndWeaverGirl|牛郎织女]], [[QixiFestivalLayering]], and [[SwanMaidenMotif]] - Qixi extension added by episode 152.
 - [[HorseReligiousMythology]], [[StoryMotifTransmission]], [[Bucephalus|布西法拉斯]], and [[EldenRing|《艾尔登法环》]] - horse and game-design extension added by episode 171.

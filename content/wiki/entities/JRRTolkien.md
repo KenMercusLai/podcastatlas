@@ -2,8 +2,8 @@
 title: "J.R.R. Tolkien / 托尔金"
 type: entity
 tags: [writer, fantasy, philology, biography]
-sources: [ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]
-last_updated: 2026-07-24
+sources: [ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]
+last_updated: 2026-08-06
 ---
 
 # J.R.R. Tolkien / 托尔金
@@ -20,11 +20,14 @@ Tolkien also extends [[AuthorMythDeflation]] gently. The episode keeps his anti-
 
 [[ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw]] adds a [[NorseMythology]] and [[PoeticEdda|Edda]] layer. The source connects Tolkien's fantasy world to [[Ragnarok|Ragnarok]], dwarves, elves, northern fate, and [[NorthernCourage|northern courage]], where action matters even when the end is known.
 
+[[31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]] uses Tolkien as a comparison point for [[ASongOfIceAndFire|《冰与火之歌》 / A Song of Ice and Fire]]: both worlds feel larger than their current plot because they have deep prehistory, but the Martin episode focuses more on mixed political history, unreliable in-world records, and [[HistoricalFantasySourceLayering]] than on Tolkien's philological myth-making.
+
 ## Connections
 - [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] - source episode.
 - [[CSLewis|C. S. Lewis / C.S. 刘易斯]] - friend and fellow Inklings figure discussed in the episode.
 - [[CelticMythology]] and [[NorseMythology]] - later mythology episodes' comparison fields for fantasy afterlives.
 - [[PoeticEdda]], [[Ragnarok]], [[NorthernCourage]], and [[EpicModernAfterlife]] - EP269's Norse and epic-afterlife extension.
+- [[ASongOfIceAndFire|《冰与火之歌》 / A Song of Ice and Fire]] and [[HistoricalFantasySourceLayering]] - episode 31's comparison with Martin-style worldbuilding.
 - [[AuthorMythDeflation]] - great fantasy author made human through quirks and prejudices.
 - [[LiteraryGossipAsContext]] - biography and habit used as context for myth-making.
 - [[ClassicReadingComplexity]] - adjacent frame for reading fantasy and author image without simple labels.

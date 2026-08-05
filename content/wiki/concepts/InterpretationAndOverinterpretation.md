@@ -2,13 +2,15 @@
 title: "Interpretation And Overinterpretation"
 type: concept
 tags: [interpretation, literature, reasoning, semiotics]
-sources: [29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638, 17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565, 20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734, 10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195, 07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165, 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
+sources: [31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848, 29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638, 17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565, 20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734, 10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195, 07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165, 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
 last_updated: 2026-08-06
 ---
 
 # Interpretation And Overinterpretation
 
 [[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]] adds a comparative-mythology version of the boundary. The episode finds real value in [[JosephCampbell|Campbell]], [[SigmundFreud|Freud]], [[CarlJung|Jung]], and [[JamesGeorgeFrazer|Frazer]], but it repeatedly warns that symbolic fit, dream resonance, and cross-cultural resemblance should not be promoted into scientific or historical certainty.
+
+[[31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]] adds a historical-fantasy version of the same boundary. The source reads [[ASongOfIceAndFire|《冰与火之歌》 / A Song of Ice and Fire]] through the [[WarsOfTheRoses|Wars of the Roses / 玫瑰战争]], conquest history, medieval religion, and northern myth, but its core discipline is to keep those analogies as layered source material rather than one-to-one proof.
 
 [[ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638]] adds a practical Redology boundary case. The episode values [[Zhiyanzhai|脂砚斋]]批语, version comparison, verdict poems, and computer-style authorship analysis as clues, but it warns that [[HongLouMeng|《红楼梦》]] should be read first as literature rather than only as a historical password system.
 
@@ -50,6 +52,7 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 
 ## Key Claims
 - In comparative mythology, overinterpretation can begin when an elegant universal pattern replaces local history, transmission evidence, or source uncertainty.
+- In historical fantasy, overinterpretation can begin when a useful historical analogy is treated as a complete source code for a character, family, or plot.
 - Interpretation is necessary because signs do not explain themselves.
 - Overinterpretation begins when a reader treats an attractive pattern as proof before checking evidence, context, and alternative explanations.
 - Fear and authority can make overinterpretation socially powerful: a doubtful sign can become accusation, doctrine, or punishment.
@@ -71,6 +74,7 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 
 ## Connections
 - [[TheHeroWithAThousandFaces|《千面英雄》]], [[Monomyth]], [[MythAsPublicDream]], [[CollectiveUnconscious]], and [[TheGoldenBough|《金枝》]] - episode 29's Campbell/Freud/Jung/Frazer boundary case.
+- [[ASongOfIceAndFire|《冰与火之歌》 / A Song of Ice and Fire]], [[HistoricalFantasySourceLayering]], [[FictionalHistoriography]], and [[WarsOfTheRoses|Wars of the Roses / 玫瑰战争]] - episode 31's historical-fantasy boundary case.
 - [[ThePortraitOfMrWH|《W.H.先生的画像》]], [[WilliamShakespeare|William Shakespeare / 威廉·莎士比亚]], and [[FictionalEvidenceSeduction]] - episode 10's forged-evidence extension.
 - [[TheLittlePrince|《小王子》 / The Little Prince]], [[JungianArchetypalReading]], [[PuerAeternus]], and [[MotherComplex]] - episode 07's Jungian-symbolic extension.
 - [[SemioticDetectiveFiction]] - mystery form where the boundary becomes part of the plot.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [31.冰与火之歌：虽然从不自称历史](sources/31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848.md) — 蜜獾吃书 episode reading 《冰与火之歌》 through historical fantasy source layering: Wars of the Roses, conquest history, medieval religion, Celtic/Norse myth, unreliable records, and the guardrail against one-to-one prototype hunting.
 - [30.孟子：战国愤青的赤子之心](sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138.md) — 蜜獾吃书 episode rereading 孟子 as a forceful Warring States political thinker through 义利之辨, 仁政, 王道/霸道, 有恒产者有恒心, 民贵君轻, 暴君非君, and the limits of benevolent conquest.
 - [29.千面英雄：俄狄浦斯正在下班挤地铁](sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891.md) — 蜜獾吃书 episode on Joseph Campbell's 《千面英雄》, monomyth, hero-journey stages, public-dream myth reading, Jung/Freud/Frazer influence, and modern media examples from Star Wars to 《西游记》.
 - [28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话](sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930.md) — 蜜獾吃书 episode on 《聊斋志异》 as strange-tale social critique, connecting 蒲松龄, 于七之乱, fox and ghost agency, folk performance, 纪昀, 《阅微草堂笔记》, and examination satire.
@@ -706,6 +707,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《冰与火之歌》 / A Song of Ice and Fire](entities/ASongOfIceAndFire.md) — George R. R. Martin fantasy series read by episode 31 as layered from dynastic conflict, conquest, religion, mythology, geography, disease, and unreliable in-world history.
+- [《权力的游戏》 / Game of Thrones](entities/GameOfThrones.md) — Screen-facing adaptation route into 《冰与火之歌》, used by episode 31 to distinguish visible plot from deeper fictional prehistory and adaptation limits.
+- [Wars of the Roses / 玫瑰战争](entities/WarsOfTheRoses.md) — English succession conflict used by episode 31 as the strongest political analogy for Martin's noble-family struggle, with a caution against direct mapping.
 - [孟子 / Mencius](entities/Mengzi.md) — Pre-Qin Confucian thinker reread by episode 30 through Warring States politics, renyi, ruler accountability, people-based legitimacy, and resistance to unjust power.
 - [《孟子》 / Mencius](entities/MenciusText.md) — Classical text used by episode 30 as dialogue material for renyi, benevolent government, tyrant legitimacy, and Mencius's exchanges with Liang Hui Wang and Qi Xuan Wang.
 - [战国时期 / Warring States Period](entities/WarringStatesPeriod.md) — Historical setting for episode 30's account of interstate competition, scholar mobility, harsher war, and the practical stakes of Mencian politics.
@@ -1843,7 +1847,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《永久冻土》 / Permafrost](entities/PermafrostZelazny.md) — Zelazny seasonal-planet story where revenge, mycelium, and narrative fragmentation create a nonhuman voice.
 - [《富岳二十四景》 / 24 Views of Mt. Fuji, by Hokusai](entities/TwentyFourViewsOfMountFujiByHokusai.md) — Zelazny story using Hokusai's Fuji views to frame embodied resistance to coercive digital upload.
 - [Dangerous Visions](entities/DangerousVisions.md) — New Wave science-fiction anthology recommended as wider context for Zelazny's experimental field.
-- [George R. R. Martin / 乔治·R·R·马丁](entities/GeorgeRRMartin.md) — Writer mentioned through his friendship with Zelazny and screenplay role in the Last Defender adaptation.
+- [George R. R. Martin / 乔治·R·R·马丁](entities/GeorgeRRMartin.md) — Writer read through Zelazny friendship/adaptation context and, in episode 31, through 《冰与火之歌》 as historical fantasy source layering.
 - [Isaac Asimov / 艾萨克·阿西莫夫](entities/IsaacAsimov.md) — Robot-fiction comparison point for distinguishing rule conflicts from Zelazny's trauma/personhood robot stories.
 - [Katsushika Hokusai / 葛饰北斋](entities/KatsushikaHokusai.md) — Artist whose Fuji print series supplies the formal template behind Zelazny's 《富岳二十四景》.
 - [Thirty-six Views of Mount Fuji / 富岳三十六景](entities/ThirtySixViewsOfMountFuji.md) — Hokusai print series used as the visual and structural reference for Zelazny's Fuji story.
@@ -2278,7 +2282,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Josephine Tey / 约瑟芬·铁伊](entities/JosephineTey.md) — Detective novelist whose 《时间的女儿》 is defended as evidence-centered historical mystery.
 - [《时间的女儿》 / The Daughter of Time](entities/TheDaughterOfTime.md) — Josephine Tey novel used by the episode to connect fair-play detection with Richard III historical revision.
 - [Richard III / 理查三世](entities/RichardIII.md) — English king whose inherited villain image becomes the episode's case for evidence-bound historical revision.
-- [Princes in the Tower / 塔中王子案](entities/PrincesInTheTower.md) — Historical disappearance case reopened through 《时间的女儿》 as an archive-based mystery.
+- [Princes in the Tower / 塔中王子案](entities/PrincesInTheTower.md) — Historical disappearance case reopened through 《时间的女儿》 as an archive-based mystery and used by episode 31 as a Stark-children plot echo.
 - [曹操墓](entities/CaoCaoTomb.md) — Archaeology case used to show material evidence contending with literary and popular memory.
 - [《螺丝在拧紧》 / The Turn of the Screw](entities/TheTurnOfTheScrew.md) — Gothic novella used as a mystery-origin case around ambiguity, psychology, and interpretive pressure.
 - [The Hound of the Baskervilles / 《巴斯克维尔的猎犬》](entities/TheHoundOfTheBaskervilles.md) — Sherlock Holmes story used to show gothic atmosphere returning to rational evidence.
@@ -2897,7 +2901,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [W. B. Yeats / 叶芝](entities/WBYeats.md) — Poet used by episode 60 to connect romantic image, occult practice, Golden Dawn, bad politics, automatic writing, and late-life desire.
 - [Golden Dawn / 金色黎明](entities/GoldenDawn.md) — Occult organization connecting Yeats, Crowley, ritual practice, and the literary-occult branch of episode 60.
 - [Aleister Crowley / 阿莱斯特·克劳利](entities/AleisterCrowley.md) — Occult figure whose rivalry with Yeats makes episode 60's Golden Dawn segment a literary-biographical case.
-- [J.R.R. Tolkien / 托尔金](entities/JRRTolkien.md) — Fantasy writer framed through anti-Nazi reply, English myth-making, philology, anti-modern quirks, and friendship with C. S. Lewis.
+- [J.R.R. Tolkien / 托尔金](entities/JRRTolkien.md) — Fantasy writer framed through biography, English myth-making, Norse/Celtic afterlives, and episode 31's comparison with Martin's historical worldbuilding.
 - [C. S. Lewis / C.S. 刘易斯](entities/CSLewis.md) — Tolkien's friend and literary counterpart, used by episode 60 to show admiration and artistic criticism coexisting.
 - [Crete](entities/Crete.md) — Mediterranean island used by episode 59 as a layered setting for mythology, Minoan archaeology, World War II memory, sea-turtle observation, and island extinction.
 - [Minoan Civilization](entities/MinoanCivilization.md) — Bronze Age Cretan civilization discussed through Knossos, bull imagery, palace systems, art, Linear A, and cautious archaeological interpretation.
@@ -4876,6 +4880,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Historical Fantasy Source Layering](concepts/HistoricalFantasySourceLayering.md) — Worldbuilding method where fantasy gains historical texture by recombining wars, conquest, religion, mythology, institutions, disease, geography, and records without becoming disguised history.
+- [Fictional Historiography](concepts/FictionalHistoriography.md) — Fictional-world method where archives, legends, anachronisms, and contested memory make an invented past feel historically unstable.
 - [Early Confucian Resistance Politics / 早期儒家的反抗政治](concepts/EarlyConfucianResistancePolitics.md) — Episode 30 frame separating Mencian Confucianism from obedience-only imperial stereotypes through dignity, remonstrance, and tyrant delegitimation.
 - [Righteousness Over Profit / 义利之辨](concepts/RighteousnessOverProfit.md) — Mencian argument that a state decays when ruler, ministers, and people all treat private gain as the first political question.
 - [Mencian Benevolent Government / 孟子仁政](concepts/MencianBenevolentGovernment.md) — Episode 30's governing program of livelihood, compassion, anti-starvation responsibility, and fuller reform beyond partial welfare gestures.
@@ -5423,7 +5429,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sensory Hypersensitivity Accommodation / 感官超敏适配](concepts/SensoryHypersensitivityAccommodation.md) — Practical frame for changing environments around intense sensory experience instead of treating overload as bad attitude.
 - [Gendered Fairy-Tale Punishment / 童话中的性别化惩罚](concepts/GenderedFairyTalePunishment.md) — Pattern where fairy tales discipline women through bodily pain, exposure, lost voice, constrained movement, or compliance.
 - [Literary Ambiguity As Complexity / 文学混沌性](concepts/LiteraryAmbiguityAsComplexity.md) — Reading frame where strong works preserve conflicting pressures instead of collapsing into one clean answer.
-- [Norse Mythology / 北欧神话](concepts/NorseMythology.md) — Mythology field opened by EP269 through the Eddas, Odin, Thor, Loki, Valhalla, Ragnarok, Tolkien, Marvel, and fate-facing action.
+- [Norse Mythology / 北欧神话](concepts/NorseMythology.md) — Mythology field opened by EP269 and extended by episode 31 through Martin's northern fantasy atmosphere: Others, ravens, wargs, frost-giant imagery, and winter threat.
 - [Ragnarok / 诸神的黄昏](concepts/Ragnarok.md) — Norse end-time and renewal pattern in EP269 where known doom sharpens courage and modern ecological/fantasy reinterpretation.
 - [Epic Modern Afterlife](concepts/EpicModernAfterlife.md) — EP269 pattern where ancient epics return through films, games, fantasy, superhero franchises, phrases, and reading culture.
 - [Oral Epic Repetition](concepts/OralEpicRepetition.md) — Cross-epic poetics frame from EP269 for repetition as memory, breath, chorus, and emotional accumulation.
@@ -5476,7 +5482,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Memory Consolidation Windows / 记忆巩固窗口](concepts/MemoryConsolidationWindows.md) — Study and memory timing frame where review in the first tens of minutes and first 24 hours helps selected material survive normal forgetting.
 - [Painful Memory Rehearsal Risk / 痛苦记忆反复咀嚼风险](concepts/PainfulMemoryRehearsalRisk.md) — Source-scoped caution that repeatedly replaying painful events can strengthen them, while gentle new experience can interrupt the loop.
 - [Focused-Diffuse Thinking Balance / 专注与发散思维均衡](concepts/FocusedDiffuseThinkingBalance.md) — Brain-use pacing frame where concentrated work and relaxed associative states both matter for learning, memory sorting, and attention health.
-- [Celtic Mythology](concepts/CelticMythology.md) — Multi-region mythology field added by episode 142, linking Irish origin stories, Christian manuscript layers, animal transformation, druids, and modern fantasy afterlives.
+- [Celtic Mythology](concepts/CelticMythology.md) — Multi-region mythology field added by episode 142 and extended by episode 31 through Children of the Forest, weirwoods, old gods, and druidic fantasy associations.
 - [Druidic Knowledge](concepts/DruidicKnowledge.md) — Episode 142 frame for druidic wisdom, ritual authority, hospitality law, transformation magic, and darker sacrificial power.
 - [Celtic Animal Transformation](concepts/CelticAnimalTransformation.md) — Episode 142 motif where identity, kinship, memory, and coercion pass through deer, dogs, salmon, boar, eagle, and human forms.
 - [Celtic Otherworld](concepts/CelticOtherworld.md) — Hidden Celtic rule-world frame around sidhe, fairy-like survival, altered time, and heroic otherworld spaces.
@@ -6158,7 +6164,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Horse Religious Mythology](concepts/HorseReligiousMythology.md) — Cross-religious pattern from episode 171 where horses become sacred messengers, divine mounts, rescuers, omens, and apocalyptic signs.
 - [Horse As Civilizational Infrastructure](concepts/HorseAsCivilizationalInfrastructure.md) — Episode 171 historical frame for horses as mobility infrastructure behind war, trade, pastoral movement, state capacity, and Eurasian exchange.
 - [Horse Domestication History](concepts/HorseDomesticationHistory.md) — Episode 171 natural-history layer connecting horse evolution, grassland adaptation, Central Asian domestication, burden, milk, meat, riding, and chariots.
-- [Story Motif Transmission](concepts/StoryMotifTransmission.md) — Folklore method for reading recurring motifs, including Campbellian hero patterns, as portable forms shaped by borrowing, reinvention, contact, and retrospective tradition-making.
+- [Story Motif Transmission](concepts/StoryMotifTransmission.md) — Folklore method for recurring motifs, now including episode 31's fantasy reuse of ravens, wargs, white animals, towered princes, and royal omens.
 - [Personal Pension Account / 个人养老金账户](concepts/PersonalPensionAccount.md) — Tax-preferred retirement-account wrapper where product choice must fit retirement date, contribution rhythm, risk tolerance, and long-term holding discipline.
 - [Target-Date Fund / 目标日期基金](concepts/TargetDateFund.md) — Retirement-year fund structure that uses a glide path to adjust equity risk as the target retirement date approaches.
 - [Japanese Sogo Shosha / 日本综合商社](concepts/JapaneseSogoShosha.md) — Japanese general trading-company model combining trade, financing, information, logistics, investment, global offices, and long-term supply-chain relationships.
@@ -6446,9 +6452,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Accretive Text Formation](concepts/AccretiveTextFormation.md) — Textual-history pattern where a classic forms through layered sources, variants, religious imagery, authorship claims, and later organization.
 - [索隐式阅读 / Suo Yin Reading](concepts/SuoYinReading.md) — Interpretive mode that treats literary details as hidden historical or political ciphers while requiring evidence discipline.
 - [古史辨 / Doubting Antiquity](concepts/GushiBian.md) — Ancient-history-doubt frame used by episode 75 to read 《理水》, 顾颉刚, and the risks of detached evidential performance.
-- [Mythic Source Layering](concepts/MythicSourceLayering.md) — Character-formation pattern where religious, folkloric, regional, and textual motifs accumulate inside one literary figure.
+- [Mythic Source Layering](concepts/MythicSourceLayering.md) — Pattern where religious, folkloric, regional, textual, and now historical-fantasy materials accumulate without a single clean prototype.
 - [Semiotic Detective Fiction](concepts/SemioticDetectiveFiction.md) — Mystery form where clues are signs whose meaning, reliability, and overinterpretation become part of the story's argument.
-- [Interpretation And Overinterpretation](concepts/InterpretationAndOverinterpretation.md) — Boundary problem between reading signs, myths, and symbols carefully and forcing them to say more than evidence supports.
+- [Interpretation And Overinterpretation](concepts/InterpretationAndOverinterpretation.md) — Boundary problem between reading signs, myths, symbols, and historical analogies carefully and forcing them to say more than evidence supports.
 - [Knowledge Monopoly](concepts/KnowledgeMonopoly.md) — Institutional control over who may access, classify, read, copy, or interpret knowledge.
 - [Laughter Against Authority](concepts/LaughterAgainstAuthority.md) — Literary idea that comedy and grotesque images can weaken fear-based power by making authority appear contingent or absurd.
 - [Anti-Detective Fiction](concepts/AntiDetectiveFiction.md) — Detective fiction that uses clues and solution while undercutting the fantasy of clean rational closure.
