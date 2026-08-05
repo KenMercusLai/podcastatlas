@@ -1,9 +1,9 @@
 ---
 title: "Ukraine"
 type: entity
-tags: [country, geopolitics, security]
-sources: [a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
-last_updated: 2026-07-24
+tags: [country, geopolitics, security, history]
+sources: [a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, 05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]
+last_updated: 2026-08-05
 ---
 
 # Ukraine
@@ -22,6 +22,8 @@ The source's Ukraine thread is operational rather than only diplomatic. [[AntonL
 
 [[keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b]] adds Ukraine as part of the strategic context for the [[UnitedKingdom]] after [[Brexit]]. The episode argues that the war increases the importance of European defence capacity and gives Britain one plausible area for continued relevance.
 
+[[05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]] adds a historical and family-memory layer through [[Mariupol]] and [[SheCameFromMariupol|《她来自马里乌波尔》]]. The episode uses the city's 2022 news visibility as a doorway into [[NataschaWodin|纳塔莎·沃丁]]'s reconstruction of her Ukrainian family, connecting Ukraine to Soviet repression, famine, [[OstarbeiterForcedLabor|Eastern forced labor]], postwar displacement, and [[DisasterSilenceAndShame]].
+
 ## Connections
 - [[Shahed136]], [[LowCostDroneWarfare]], [[DroneDecoyEconomics]], [[DroneDefenseEconomics]], and [[Russia]] - drone and decoy pressure branch added by Marketplace Tech.
 - [[NATO]] and [[NATOAllianceCredibility]] - alliance support and deterrence context.
@@ -32,3 +34,4 @@ The source's Ukraine thread is operational rather than only diplomatic. [[AntonL
 - [[DonaldTrump]] - American commitment risk in the source.
 - [[UnitedKingdom]] and [[PostBrexitStrategicIdentity]] - post-Brexit defence role added by The Intelligence.
 - [[LindseyGraham]] and [[RepublicanForeignPolicyAdaptation]] - Republican advocacy and sanctions-support branch added by the later The Intelligence source.
+- [[Mariupol]], [[SheCameFromMariupol]], [[NataschaWodin]], [[OstarbeiterForcedLabor]], and [[FamilyMemoryNonfiction]] - historical family-memory branch added by 蜜獾吃书 episode 05.

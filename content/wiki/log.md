@@ -5351,7 +5351,7 @@ Added source page for a Marketplace Tech Bytes episode on possible SpaceX, OpenA
 
 ## [2026-08-05] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran lint after health passed. Health scanned 7,632 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges, so findings are advisory until `build graph` is refreshed; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
 
 ## [2026-08-05] lint | Wiki health check
 
@@ -5404,3 +5404,11 @@ Added source page for a Social Radars episode with John Coogan on Imagine K-12, 
 ## [2026-08-05] lint | Wiki health check
 
 Ran lint after health passed. Health scanned 7,620 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges, so findings are advisory until `build graph` is refreshed; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-05] ingest | 05.她来自马里乌波尔：“如果你看见过我曾见到的。”
+
+Added source page for a 蜜獾吃书 episode on Natascha Wodin's 《她来自马里乌波尔》, Mariupol, family-memory nonfiction, Soviet repression, famine, Nazi Eastern forced labor, postwar repatriation fear, domestic violence, and silence after catastrophe. Created pages for She Came From Mariupol, Natascha Wodin, Mariupol, Yevgenia, Lidiya, Konstantin, Ostarbeiter Forced Labor, Family Memory Nonfiction, Disaster Silence And Shame, Rationalized State Violence, and Revolutionary Destruction Of Civilian Life; updated overview, index, Mihuan Chishu, Qin Zong, Ukraine, Soviet Union, Nazi Germany, Germany, Personal Archive As History, Trauma Narrative Integration, and Banality Of Evil. No direct contradiction found; the source extends the Ukraine branch backward into twentieth-century family memory and extends the Nazi/Soviet history pages through forced labor, purges, famine, exile, and survivor silence.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

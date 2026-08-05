@@ -2,8 +2,8 @@
 title: "Personal Archive As History"
 type: concept
 tags: [history, memory, archives, material-culture]
-sources: [69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
-last_updated: 2026-07-18
+sources: [69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]
+last_updated: 2026-08-05
 ---
 
 # Personal Archive As History
@@ -12,12 +12,15 @@ Personal archive as history is the episode's closing idea that ordinary people p
 
 The concept extends [[MaterialHistoryNarrative]] from public objects and commodities into domestic and family evidence. An object may look useless now but later become the thing that lets descendants understand work, migration, industry, taste, aspiration, or loss. The episode's one-meter steel-wire story makes this concrete: a German participant preserved an early cooperation artifact that the Chinese side later needed for exhibition but had not kept itself.
 
+[[05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]] adds a traumatic family-history version through [[SheCameFromMariupol|《她来自马里乌波尔》]]. [[KonstantinMariupolGenealogist|康斯坦丁]]'s forum response, family-tree work, victim-list search, and recovered relative traces show how personal archives can repair historical disappearance when state violence and family silence have cut descendants off from names and sequence.
+
 ## Key Claims
 - Historical preservation is not only the work of museums and states.
 - Family records, work objects, newspapers, magazines, digital traces, and everyday tools can become evidence.
 - Recent history is easy to lose because it looks too ordinary before distance gives it value.
 - Personal archives can connect macro history to lived sequence: who worked where, what was bought, what was repaired, what was kept, and what names were remembered.
 - Preservation does not require treating everything as sacred; it requires noticing which traces can carry a future story.
+- In traumatic family history, even small traces can restore dignity by turning an absence back into a named person with relations, choices, and a sequence of events.
 
 ## Connections
 - [[HistoricalDetectiveReasoning]] - personal traces as evidence for future inquiry.
@@ -25,3 +28,4 @@ The concept extends [[MaterialHistoryNarrative]] from public objects and commodi
 - [[EvidenceBoundHistoricalRevision]] - later revision may depend on ordinary preserved traces.
 - [[PersonalKnowledgeEcology]] - adjacent personal system for preserving usable knowledge.
 - [[StoryBasedEmpathy]] - concrete traces help later people imagine lives rather than only dates.
+- [[FamilyMemoryNonfiction]], [[KonstantinMariupolGenealogist]], and [[DisasterSilenceAndShame]] - episode 05's archive-driven family recovery branch.

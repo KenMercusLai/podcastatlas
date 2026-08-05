@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [05.她来自马里乌波尔：“如果你看见过我曾见到的。”](sources/05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925.md) — 蜜獾吃书 episode on 纳塔莎·沃丁《她来自马里乌波尔》, Mariupol, family memory, Soviet repression, Ukrainian famine, Nazi Eastern forced labor, postwar displacement, and silence after catastrophe.
 - [John Coogan on Soylent, Lucy, Founders Fund, and TBPN](sources/tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1.md) — The Social Radars episode with John Coogan on Imagine K-12, startup scarcity, Soylent's viral launch, Lucy's regulated nicotine-gum bet, Founders Fund, YouTube, and building TBPN as a daily live tech-media show.
 - [How botnets infiltrate the internet of things](sources/tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128.md) — Marketplace Tech episode with Brian Krebs on KimWolf, compromised TV streaming boxes, routers, botnets, proxy networks, DDoS amplification, command-and-control, and router replacement as consumer security hygiene.
 - [States are getting crypto-curious](sources/tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128.md) — Marketplace Tech episode with Liz Farmer of Pew Charitable Trusts on state crypto investment laws, strategic Bitcoin reserves, separate reserve funds, Arizona's seized digital asset custody model, and taxpayer risk from volatile public assets.
@@ -677,6 +678,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《她来自马里乌波尔》 / She Came From Mariupol](entities/SheCameFromMariupol.md) — Natascha Wodin nonfiction work that turns a search for her mother into a family-history reconstruction of Mariupol, Soviet repression, forced labor, exile, and silence.
+- [Natascha Wodin / 纳塔莎·沃丁](entities/NataschaWodin.md) — Ukrainian-descended German writer whose search for her mother anchors the episode's family-memory nonfiction branch.
+- [Mariupol / 马里乌波尔](entities/Mariupol.md) — Ukrainian port city treated as both current-news reference point and recovered family-memory setting in the episode.
+- [叶弗根尼亚 / Yevgenia](entities/YevgeniaSheCameFromMariupol.md) — Natascha Wodin's mother, whose life connects Mariupol, Eastern forced labor, postwar fear, domestic violence, and traumatic silence.
+- [莉蒂娅 / Lidiya](entities/LidiyaSheCameFromMariupol.md) — Yevgenia's sister, whose exile, labor-camp teaching, survival, and notebooks become the book's internal memoir branch.
+- [康斯坦丁 / Konstantin (Mariupol genealogist)](entities/KonstantinMariupolGenealogist.md) — Genealogy helper whose forum response and archival work reconnect Wodin to lost Mariupol family traces.
 - [John Coogan](entities/JohnCoogan.md) — Founder and media operator whose episode connects Soylent, Lucy, Founders Fund, YouTube, and TBPN through constraint-driven company choices.
 - [TBPN](entities/TBPN.md) — Daily live technology and business media show co-hosted by John Coogan and Jordi Hayes.
 - [Soylent](entities/Soylent.md) — Meal-replacement company whose Social Radars account links startup food scarcity, Hacker News virality, manufacturing, and CPG distribution.
@@ -4674,6 +4681,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Ostarbeiter Forced Labor / 东方劳工强制劳动](concepts/OstarbeiterForcedLabor.md) — Nazi Germany's Eastern forced-labor system and its postwar afterlife of stigma, repatriation fear, displacement, and family silence.
+- [Family Memory Nonfiction / 家族记忆非虚构](concepts/FamilyMemoryNonfiction.md) — Nonfiction mode that reconstructs family absence through archives, relatives, documents, photographs, and narrative restraint.
+- [Disaster Silence And Shame / 灾难后的沉默与羞耻](concepts/DisasterSilenceAndShame.md) — Pattern where survivors of historical catastrophe fall silent because trauma, disbelief, survival pressure, or shame blocks testimony.
+- [Rationalized State Violence / 理性化国家暴力](concepts/RationalizedStateViolence.md) — Modern organized harm carried through bureaucracy, categories, calculation, logistics, and state or institutional procedure.
+- [Revolutionary Destruction Of Civilian Life / 革命对日常生活的摧毁](concepts/RevolutionaryDestructionOfCivilianLife.md) — Household-scale damage caused when revolutionary rupture, class labeling, civil war, and coercion destroy ordinary spaces and continuities.
 - [Shipping Weight Economics](concepts/ShippingWeightEconomics.md) — Product-strategy constraint where weight, volume, and fulfillment cost determine whether direct consumer distribution can work.
 - [Regulated Consumer Product Moat](concepts/RegulatedConsumerProductMoat.md) — Consumer-product defensibility pattern where approval, age restrictions, labeling, and compliance slow entry but may reduce competition.
 - [Controversial Launch Virality](concepts/ControversialLaunchVirality.md) — Launch pattern where a strange or stress-testable product claim spreads through debate and curiosity before ordinary operations catch up.

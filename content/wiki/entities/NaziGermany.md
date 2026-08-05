@@ -2,8 +2,8 @@
 title: "Nazi Germany / 纳粹德国"
 type: entity
 tags: [state, fascism, antisemitism, holocaust, totalitarianism]
-sources: [133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789]
-last_updated: 2026-07-24
+sources: [133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789, 05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]
+last_updated: 2026-08-05
 ---
 
 # Nazi Germany / 纳粹德国
@@ -14,9 +14,12 @@ The source's main use of Nazi Germany is moral and political rather than encyclo
 
 [[133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110]] adds the technical and corporate-administrative branch. The episode argues that [[IBM]], [[Dehomag|德霍梅格]], and [[PunchedCardAdministration|punched-card administration]] helped Nazi Germany turn racial categories, census data, railway logistics, forced labor, and camp records into [[DataEnabledPersecution|data-enabled persecution]].
 
+[[05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]] adds the [[OstarbeiterForcedLabor|Eastern forced labor]] branch through [[YevgeniaSheCameFromMariupol|叶弗根尼亚]]. The episode emphasizes organized labor extraction from Eastern Europe, camp conditions, factory work, racialized contempt for Slavs, and the postwar afterlife of forced-labor identity as fear, silence, and displacement.
+
 ## Connections
 - [[HannahArendt|Hannah Arendt / 汉娜·阿伦特]] - exile and theorist shaped by the regime.
 - [[MartinHeidegger|Martin Heidegger]] - philosopher criticized for Nazi alignment in the episode.
 - [[AdolfEichmann|Adolf Eichmann / 阿道夫·艾希曼]], [[EichmannInJerusalem|《艾希曼在耶路撒冷》]], and [[JewishCouncils|Jewish Councils]] - Holocaust and trial branch.
 - [[IntellectualResponsibilityUnderAuthoritarianism]], [[BanalityOfEvil]], and [[ResponsibilityVsGuilt]] - concepts the source develops through this regime.
 - [[IBM]], [[ThomasJWatson|Thomas J. Watson / 托马斯·沃森]], [[Dehomag|德霍梅格]], [[PunchedCardAdministration]], and [[CorporateComplicityWithAuthoritarianism]] - corporate and data-infrastructure branch added by episode 133.
+- [[OstarbeiterForcedLabor]], [[YevgeniaSheCameFromMariupol]], [[RationalizedStateViolence]], and [[Germany]] - Eastern forced-labor and postwar-memory branch added by episode 05.

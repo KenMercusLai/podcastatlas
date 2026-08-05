@@ -2,8 +2,8 @@
 title: "Banality Of Evil / 恶的平庸性"
 type: concept
 tags: [ethics, politics, holocaust, bureaucracy, judgment]
-sources: [133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789]
-last_updated: 2026-07-24
+sources: [133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789, 05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]
+last_updated: 2026-08-05
 ---
 
 # Banality Of Evil / 恶的平庸性
@@ -14,6 +14,8 @@ The source develops the concept through [[AdolfEichmann|Adolf Eichmann]]. Eichma
 
 [[133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110]] extends the concept from bureaucratic office language into corporate and technical systems. In that source, [[IBM]], [[Dehomag|德霍梅格]], and [[PunchedCardAdministration|punched-card administration]] show how evil can become flat not only through orders, but through card fields, leases, maintenance, railway routing, and business-risk management.
 
+[[05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]] adds a related forced-labor version through [[OstarbeiterForcedLabor]]. The episode's [[RationalizedStateViolence]] frame is not a full Arendt discussion, but it makes the same moral danger visible in camps, factories, labor categories, and state-scale enslavement that can look like administration from inside the system.
+
 ## Key Claims
 - Banality does not excuse evil; it shows how evil can operate without theatrical hatred or abnormal psychology.
 - Bureaucratic role language can help people avoid seeing what their work does to others.
@@ -21,6 +23,7 @@ The source develops the concept through [[AdolfEichmann|Adolf Eichmann]]. Eichma
 - The concept extends [[EvilAsResponsibilityFailure]] from cruelty toward helpless beings into state and bureaucratic murder.
 - It also qualifies [[InstitutionalOvercompliance]]: a system may become deadly through routine performance, not only through visibly zealous actors.
 - The IBM source adds that technical normality and corporate process can make participation in atrocity look like logistics, service, and account management.
+- The Ostarbeiter source adds that organized labor extraction can make enslavement look like allocation, production, and camp management.
 
 ## Connections
 - [[HannahArendt|Hannah Arendt / 汉娜·阿伦特]], [[AdolfEichmann|Adolf Eichmann / 阿道夫·艾希曼]], and [[EichmannInJerusalem|《艾希曼在耶路撒冷》]] - source case.
@@ -28,3 +31,4 @@ The source develops the concept through [[AdolfEichmann|Adolf Eichmann]]. Eichma
 - [[ResponsibilityVsGuilt]], [[PoliticalTruthTelling]], and [[PowerViolenceDistinction]] - adjacent Arendtian concepts added by the source.
 - [[EvilAsResponsibilityFailure]] and [[InstitutionalOvercompliance]] - existing concepts sharpened by the episode.
 - [[IBM]], [[Dehomag|德霍梅格]], [[PunchedCardAdministration]], [[DataEnabledPersecution]], and [[CorporateComplicityWithAuthoritarianism]] - corporate-technical extension added by episode 133.
+- [[OstarbeiterForcedLabor]], [[RationalizedStateViolence]], [[YevgeniaSheCameFromMariupol]], and [[SheCameFromMariupol]] - forced-labor extension added by episode 05.
