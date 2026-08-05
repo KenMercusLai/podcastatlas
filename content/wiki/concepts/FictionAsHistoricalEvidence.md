@@ -2,8 +2,8 @@
 title: "Fiction As Historical Evidence"
 type: concept
 tags: [history, literature, evidence, interpretation]
-sources: [fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934]
-last_updated: 2026-08-04
+sources: [28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930, fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934]
+last_updated: 2026-08-06
 ---
 
 # Fiction As Historical Evidence
@@ -14,15 +14,19 @@ The concept's boundary is that fiction is not treated as a transcript of events.
 
 [[fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433]] adds a Ming-style urban-life case through [[JinPingMei|《金瓶梅》]]. The episode treats the novel's food, clothing, cosmetics, housing, business, officialdom, religious ceremony, funerals, law, transport, and entertainment as evidence for [[UrbanEverydayFiction]] and [[HouseholdAsSocialWeb]], while still keeping the novel literary rather than documentary.
 
+[[28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930]] adds a direct [[LiaozhaiZhiyi|《聊斋志异》]] reading. The source uses 《野狗》 and 《公孙九娘》 to show how war trauma around [[YuQiRebellion|于七之乱]] can be carried by strange plots without turning those plots into literal military record. This reinforces the method boundary: fiction can reveal the remembered shape of violence, burial, official absence, and common fear without proving each incident as fact.
+
 ## Key Claims
 - Fiction can preserve fears, norms, fantasies, and moral tensions that official records omit.
 - Fiction is weakest when used as direct proof that an event happened.
 - Fiction becomes stronger as evidence when it is checked against place, law, administrative records, material conditions, and recurring social patterns.
 - The method helps explain why [[LiaozhaiZhiyi|《聊斋志异》]] can illuminate [[WangShiTancheng|王氏]]'s world without pretending to speak in her exact voice.
 - [[JinPingMei|《金瓶梅》]] shows that a novel can preserve everyday social texture through repeated details, but those details still need interpretive caution.
+- A strange tale can preserve historical pressure through atmosphere, setting, and repeated moral concerns even when the supernatural event is not factual evidence.
 
 ## Connections
 - [[LiaozhaiZhiyi|《聊斋志异》]] and [[PuSongling|蒲松龄]] - central literary source.
+- [[YuQiRebellion|于七之乱]] and [[StrangeTaleSocialCritique]] - episode 28's war-memory and social-critique extension.
 - [[TheDeathOfWomanWang|《王氏之死》]], [[JonathanSpence|史景迁]], and [[WangShiTancheng|王氏]] - historical case.
 - [[MicrohistoryFromHostileArchives]] - companion method for reconstructing marginal lives.
 - [[MythAsHistoricalEvidence]], [[EvidenceBoundFolkloreInquiry]], [[LegendAsSocialHistory]], and [[InterpretationAndOverinterpretation]] - adjacent evidence and guardrail concepts.

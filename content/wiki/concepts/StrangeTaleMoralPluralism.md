@@ -2,8 +2,8 @@
 title: "Strange Tale Moral Pluralism"
 type: concept
 tags: [literature, folklore, ethics, chinese-classics, zhiguai]
-sources: [06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044]
-last_updated: 2026-07-25
+sources: [28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930, 06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044]
+last_updated: 2026-08-06
 ---
 
 # Strange Tale Moral Pluralism
@@ -12,16 +12,22 @@ Strange tale moral pluralism is the way [[SouShenJi|《搜神记》]], as read i
 
 The concept keeps the source from being reduced to one doctrine. A later reader can dislike Guo Ju burying his son or other filial extremity stories without making that strand stand for the whole book. Conversely, the presence of more humane or rebellious stories does not erase the text's superstition, violence, or harsh moralism. The archive's value is that it lets these voices remain visible together.
 
+[[28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930]] adds a [[LiaozhaiZhiyi|《聊斋志异》]] version. The episode finds filial and moral instruction in [[PuSongling|蒲松龄]], but also highlights the absence of loyalist praise, the presence of war trauma, fox and ghost agency, folk performance, failed courts, and examination satire. The plurality therefore becomes more literary and social: moral lessons coexist with sympathy for nonhuman beings and anger at human institutions.
+
 ## Key Claims
 - A strange-tale collection can preserve moral disagreement rather than solve it.
 - Later moralizing reception can select one strand and make it look like the whole source.
 - Monsters and spirits are not always worse than people; authority figures may be the destructive force.
 - Brief, unexplained tales can resist moral closure by ending in shock, comedy, or unresolved strangeness.
 - Moral plurality is not the same as modern progressiveness; it is a record of mixed values, fears, jokes, and judgments.
+- A collection can be didactic without being loyalist: moral lessons may point toward common people rather than rulers.
+- Nonhuman beings can carry parts of the moral field that human institutions fail to uphold.
 
 ## Connections
 - [[SouShenJi|《搜神记》]] and [[GanBao|干宝]] - source and compiler.
+- [[LiaozhaiZhiyi|《聊斋志异》]], [[PuSongling|蒲松龄]], and [[28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930]] - later strange-tale extension.
 - [[ZhiguaiArchiveValue]] - archive frame that makes the plurality readable.
+- [[StrangeTaleSocialCritique]] and [[NonhumanMoralAgencyInStrangeTales]] - social and nonhuman agency concepts added by the Liaozhai episode.
 - [[FilialPietyStoryAfterlife]] and [[TwentyFourFilialExemplars|《二十四孝》]] - later narrowing of selected tales.
 - [[LiJiSlaysSnake]] and [[OrdinaryPeopleResistance]] - resistance branch.
 - [[JiangZiwen|蒋子文]], [[LocalDeityGovernance]], and [[UnderworldBureaucracy]] - religious-authority branch.

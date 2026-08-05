@@ -5612,3 +5612,11 @@ Added source page for a 蜜獾吃书 and 日谈 crossover on reading 《红楼�
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话
+
+Added source page for a 蜜獾吃书 episode on 蒲松龄《聊斋志异》 as strange-tale social critique, covering war shadow, fox and ghost agency, folk performance, 纪昀/《阅微草堂笔记》 contrast, official failure, and examination satire. Created pages for 纪昀 / Ji Yun, 《阅微草堂笔记》, 于七之乱 / Yu Qi Rebellion, Strange Tale Social Critique, and Nonhuman Moral Agency In Strange Tales; updated overview, index, 蜜獾吃书, 秦总, 蒲松龄, 《聊斋志异》, Zhiguai Archive Value, Strange Tale Moral Pluralism, Folklore Trauma Encoding, Folklore As Social Memory, Fiction As Historical Evidence, Classic Reading Complexity, Female Self-Possession, Institutional Mechanism Satire, and Imperial Examination As Only Exit. No direct contradiction found; the source complements earlier Liaozhai mentions by making the collection itself the center rather than only a folk-religion or microhistory support.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

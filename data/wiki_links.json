@@ -579,6 +579,10 @@
     "title": "27.希区柯克已在您桌下安置炸弹",
     "url": "/wiki/sources/27-xiqukeke-yizai-nin-zhuoxia-anzhi-zhadan-582370829/"
   },
+  "28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930": {
+    "title": "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话",
+    "url": "/wiki/sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930/"
+  },
   "361Degrees": {
     "title": "361 Degrees",
     "url": "/wiki/entities/361degrees/"
@@ -14075,6 +14079,10 @@
     "title": "Ji Qi",
     "url": "/wiki/entities/jiqi/"
   },
+  "JiYun": {
+    "title": "纪昀 / Ji Yun",
+    "url": "/wiki/entities/jiyun/"
+  },
   "JiaBaoyu": {
     "title": "贾宝玉 / Jia Baoyu",
     "url": "/wiki/entities/jiabaoyu/"
@@ -18902,6 +18910,10 @@
   "NonhumanBecomingHumanMotif": {
     "title": "Nonhuman Becoming Human Motif",
     "url": "/wiki/concepts/nonhumanbecominghumanmotif/"
+  },
+  "NonhumanMoralAgencyInStrangeTales": {
+    "title": "Nonhuman Moral Agency In Strange Tales",
+    "url": "/wiki/concepts/nonhumanmoralagencyinstrangetales/"
   },
   "NonhumanNarrativeVoice": {
     "title": "Nonhuman Narrative Voice",
@@ -25139,6 +25151,10 @@
     "title": "Strange Tale Moral Pluralism",
     "url": "/wiki/concepts/strangetalemoralpluralism/"
   },
+  "StrangeTaleSocialCritique": {
+    "title": "Strange Tale Social Critique",
+    "url": "/wiki/concepts/strangetalesocialcritique/"
+  },
   "StrategicAIInfrastructureDependence": {
     "title": "Strategic AI Infrastructure Dependence",
     "url": "/wiki/concepts/strategicaiinfrastructuredependence/"
@@ -29103,6 +29119,10 @@
     "title": "Yu Chengdong",
     "url": "/wiki/entities/yuchengdong/"
   },
+  "YuQiRebellion": {
+    "title": "于七之乱 / Yu Qi Rebellion",
+    "url": "/wiki/entities/yuqirebellion/"
+  },
   "YuTheGreat": {
     "title": "大禹 / Yu the Great",
     "url": "/wiki/entities/yuthegreat/"
@@ -29150,6 +29170,10 @@
   "YuebanDongli": {
     "title": "Yueban Dongli",
     "url": "/wiki/entities/yuebandongli/"
+  },
+  "YueweiCaotangBiji": {
+    "title": "《阅微草堂笔记》",
+    "url": "/wiki/entities/yueweicaotangbiji/"
   },
   "YuewenGroup": {
     "title": "Yuewen Group / 阅文集团",

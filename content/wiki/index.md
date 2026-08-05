@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话](sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930.md) — 蜜獾吃书 episode on 《聊斋志异》 as strange-tale social critique, connecting 蒲松龄, 于七之乱, fox and ghost agency, folk performance, 纪昀, 《阅微草堂笔记》, and examination satire.
 - [日谈串台｜红楼梦：还是可以读一读的](sources/ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638.md) — 蜜獾吃书 and 日谈 crossover introducing 《红楼梦》 through chapter-3 entry advice, Daiyu/Baoyu/Qingwen/Lingguan, Grand View Garden, poetry, female friendship, versions, sequels, and Redology guardrails.
 - [三联串台｜神赐给人葡萄，世界微醺了](sources/sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156.md) — 蜜獾吃书/Sanlian crossover with 黑麦 on wine as agriculture and culture, terroir, natural wine, taste training, food writing, and finding one's own palate.
 - [27.希区柯克已在您桌下安置炸弹](sources/27-xiqukeke-yizai-nin-zhuoxia-anzhi-zhadan-582370829.md) — 蜜獾吃书 episode on Alfred Hitchcock, Psycho, MacGuffin, bomb-under-table suspense, narrative misdirection, and Hitchcockian moral irony in short-story reversals.
@@ -703,6 +704,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [纪昀 / Ji Yun](entities/JiYun.md) — Qing writer used by the Liaozhai episode as the orthodox notebook-style contrast to 蒲松龄's more unruly strange fiction.
+- [《阅微草堂笔记》](entities/YueweiCaotangBiji.md) — Ji Yun's strange-tale notebook collection, contrasted with 《聊斋志异》 in the episode.
+- [于七之乱 / Yu Qi Rebellion](entities/YuQiRebellion.md) — Qing Shandong conflict background used by the Liaozhai episode to read 《野狗》 and 《公孙九娘》 as war-shadow stories.
 - [晴雯 / Qingwen](entities/Qingwen.md) — Red Chamber maid read as a figure of truthfulness, self-respect, and vulnerability under household hierarchy.
 - [史湘云 / Shi Xiangyun](entities/ShiXiangyun.md) — Red Chamber character whose quick poetic talent and friendship with Daiyu show women's relations beyond Baoyu.
 - [妙玉 / Miaoyu](entities/Miaoyu.md) — Red Chamber character entering the Mid-Autumn linked-poem scene as a poetic and tonal counterweight to Daiyu and Xiangyun.
@@ -4855,6 +4859,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Strange Tale Social Critique](concepts/StrangeTaleSocialCritique.md) — Reading frame where ghosts, foxes, corpses, and marvels expose war, official failure, examination absurdity, and human cruelty.
+- [Nonhuman Moral Agency In Strange Tales](concepts/NonhumanMoralAgencyInStrangeTales.md) — Pattern where foxes, ghosts, snakes, and other nonhuman figures repay kindness, punish greed, protect humans, or reveal human moral failure.
 - [红楼入口式阅读 / Red Chamber Entry Reading](concepts/RedChamberEntryReading.md) — Practical method for entering 《红楼梦》 through chapter 3 and multiple reader hooks without reducing the novel to one use.
 - [大观园青春乌托邦 / Grand View Garden Youth Utopia](concepts/GrandViewGardenYouthUtopia.md) — Reading of Daguan Garden as a temporary youth/female space protected by Yuan Chun and doomed by the return of social order.
 - [红楼之真 / Truthful Temperament In Red Chamber](concepts/TruthfulTemperamentInRedChamber.md) — Frame for Daiyu, Qingwen, Lingguan, and related figures whose self-respect and emotional directness make them beautiful and vulnerable.
