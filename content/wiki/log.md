@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-05] ingest | How botnets infiltrate the internet of things
+
+Added source page for a Marketplace Tech episode with Stephanie Hughes interviewing Brian Krebs of Krebs on Security about KimWolf, compromised TV boxes, routers, botnets, proxy networks, DDoS amplification, command-and-control, and router replacement advice. Created pages for Brian Krebs, Krebs on Security, KimWolf Botnet, IoT Botnet Risk, Pirated Streaming Box Malware, Malicious Proxy Networks, Home Router Security Lifecycle, DDoS Attack Amplification, and Command-and-Control Infrastructure; updated overview, index, Marketplace Tech, Stephanie Hughes, U.S. Department of Justice, Banking DDoS Resilience, How We Survive, and Amy Scott. No direct contradiction found; the source extends existing DDoS material by adding the consumer-device supply side and the practical lifecycle problem of old routers.
+
 ## [2026-08-05] ingest | States are getting crypto-curious
 
 Added source page for a Marketplace Tech episode with Stephanie Hughes and Liz Farmer of the Pew Charitable Trusts on state crypto investment laws, strategic Bitcoin reserves, separate reserve funds, Arizona's seized digital asset custody model, and taxpayer risk from volatile public assets. Created pages for Liz Farmer, Pew Charitable Trusts, Arizona, New Hampshire, State Crypto Reserves, Public Crypto Investment Risk, Separate Crypto Reserve Fund, and Seized Digital Asset Custody; updated overview, index, Marketplace Tech, Stephanie Hughes, Bitcoin, Cryptocurrency Market Structure, Bitcoin Safe-Haven Behavior, Digital Gold, Crypto Public Legitimacy, Virtual Asset AML Risk, Investment Risk Management, Texas, How We Survive, Amy Scott, and American Public Media. No direct contradiction found; the source qualifies existing digital-gold and Bitcoin safe-haven pages by showing that state reserve laws assume possible downturn usefulness without a tested state-reserve use case.
@@ -5380,6 +5384,10 @@ Added source page for a Marketplace Tech episode with Megan McCarty-Corino inter
 ## [2026-08-05] ingest | Is "made by humans" the new premium label?
 
 Added source page for a Marketplace Tech episode with Stephanie Hughes interviewing Colleen Kirk of the New York Institute of Technology about consumer response to AI-generated marketing, product design, and human-made labels. Created pages for Colleen Kirk, New York Institute of Technology, Genuine Fred, Human Authorship Premium, and Algorithm Aversion; updated overview, index, Marketplace Tech, Stephanie Hughes, European Union, How We Survive, AI Content Provenance, AI Authorship Presence, AI Content Devaluation, AI-Generated Advertising, Creative Labor AI Backlash, Human Judgment Under AI, AI Assistant Augmentation, Product Led Willingness To Pay, and Consumer Brand Moat. No direct contradiction found; the source qualifies provenance and augmentation by showing that disclosure can reduce trust when AI appears to author emotionally meaningful or identity-linked work, while human-led use of AI as a tool is received differently.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-05] lint | Wiki health check
 

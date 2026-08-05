@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How botnets infiltrate the internet of things](sources/tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128.md) — Marketplace Tech episode with Brian Krebs on KimWolf, compromised TV streaming boxes, routers, botnets, proxy networks, DDoS amplification, command-and-control, and router replacement as consumer security hygiene.
 - [States are getting crypto-curious](sources/tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128.md) — Marketplace Tech episode with Liz Farmer of Pew Charitable Trusts on state crypto investment laws, strategic Bitcoin reserves, separate reserve funds, Arizona's seized digital asset custody model, and taxpayer risk from volatile public assets.
 - [Is "made by humans" the new premium label?](sources/tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128.md) — Marketplace Tech episode with Colleen Kirk on AI-authorship labels, consumer authenticity, purchase intent, human-designed products, algorithm aversion, and when AI is accepted as an assisting tool rather than the author.
 - [Bytes: Week in Review - Are we in an AI bubble?](sources/tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128.md) — Marketplace Tech episode with David Kirsch on scoring the AI boom as a technology bubble, using uncertainty, novice investors, investable access, narratives, infrastructure timing, AGI expectations, and limited pure-play IPOs.
@@ -675,6 +676,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Brian Krebs](entities/BrianKrebs.md) — Cybersecurity journalist explaining KimWolf, IoT botnets, compromised TV boxes, proxy networks, DDoS attacks, and router replacement advice.
+- [Krebs on Security](entities/KrebsOnSecurity.md) — Cybersecurity publication context for Brian Krebs' Marketplace Tech discussion of botnets and compromised consumer devices.
+- [KimWolf Botnet](entities/KimWolfBotnet.md) — Botnet described as compromising more than three million devices, especially TV streaming boxes tied to pirated-content access.
 - [Liz Farmer](entities/LizFarmer.md) — Pew Charitable Trusts public-finance expert explaining state crypto reserves, separate Bitcoin funds, and Arizona's seized digital asset custody model.
 - [Pew Charitable Trusts](entities/PewCharitableTrusts.md) — Public-policy organization anchoring the episode's count of states considering digital-asset investment laws.
 - [Arizona](entities/Arizona.md) — State example where a crypto reserve law is framed around holding seized digital assets rather than immediately converting them to cash.
@@ -4662,6 +4666,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [IoT Botnet Risk](concepts/IoTBotnetRisk.md) — Risk that ordinary connected devices become remotely controlled attack infrastructure without obvious signs to their owners.
+- [Pirated Streaming Box Malware](concepts/PiratedStreamingBoxMalware.md) — Malware risk created when TV boxes promising cheap unauthorized streaming arrive infected or push users toward risky app stores.
+- [Malicious Proxy Networks](concepts/MaliciousProxyNetworks.md) — Abuse pattern where compromised devices route someone else's traffic through an unsuspecting user's internet connection.
+- [Home Router Security Lifecycle](concepts/HomeRouterSecurityLifecycle.md) — Consumer-security frame for replacing or updating routers as devices age out of support and become hard to inspect.
+- [DDoS Attack Amplification](concepts/DDoSAttackAmplification.md) — Pattern where many compromised systems combine small bandwidth contributions into overwhelming denial-of-service traffic.
+- [Command-and-Control Infrastructure](concepts/CommandAndControlInfrastructure.md) — Coordination layer that lets malware-infected devices receive later instructions, updates, attack orders, or proxy tasks.
 - [State Crypto Reserves](concepts/StateCryptoReserves.md) — State-level legal structures for holding Bitcoin or other digital assets as possible public contingency assets.
 - [Public Crypto Investment Risk](concepts/PublicCryptoInvestmentRisk.md) — Taxpayer and public-fund risk frame for volatile crypto exposure, custody, liquidity, and public accountability.
 - [Separate Crypto Reserve Fund](concepts/SeparateCryptoReserveFund.md) — Budgetary structure that isolates crypto exposure outside a government's general operating fund.

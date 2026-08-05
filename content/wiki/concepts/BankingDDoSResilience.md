@@ -1,14 +1,16 @@
 ---
 title: "Banking DDoS Resilience"
 type: concept
-tags: [cybersecurity, banking, resilience]
-sources: [tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128]
-last_updated: 2026-07-12
+tags: [cybersecurity, banking, resilience, botnets]
+sources: [tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128]
+last_updated: 2026-08-05
 ---
 
 # Banking DDoS Resilience
 
 Banking DDoS resilience is the ability of banks to keep customer-facing online services available when attackers flood websites with traffic. [[tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128]] uses the 2011-2013 attacks on nearly 50 U.S. financial institutions as the core case: [[RafePilling]] explains that compromised computers sent high request volume toward bank websites until legitimate customers could not reach them.
+
+[[tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128]] adds the botnet supply side through [[BrianKrebs]]' explanation of compromised routers and TV streaming boxes. The source does not focus on banks, but it clarifies why any DDoS target faces distributed traffic: many ordinary devices can contribute small amounts of bandwidth that aggregate into [[DDoSAttackAmplification]].
 
 The source treats resilience as both technical filtering and public-trust work. Banks had to identify malicious traffic, separate it from legitimate users, and reduce customer-facing disruption. Pilling expects banks to be relatively prepared for renewed denial-of-service campaigns because external-facing services can be designed with redundancy, absorption, and redirection capacity.
 
@@ -17,9 +19,11 @@ The source treats resilience as both technical filtering and public-trust work. 
 - Preparedness depends on distinguishing hostile requests from legitimate customer traffic under high load.
 - Financial institutions are likely more mature than many other sectors because public-facing uptime is central to customer trust.
 - Bank resilience against DDoS does not eliminate broader [[IranLinkedCyberOperations]] risk against health care, sensitive data, or industrial-control targets.
+- Consumer-device botnets such as [[KimWolfBotnet|KimWolf]] help explain the supply of distributed traffic that target-side resilience has to absorb.
 
 ## Connections
 - [[RafePilling]], [[Sophos]], and [[MarketplaceTech]] - source explanation.
+- [[BrianKrebs]], [[IoTBotnetRisk]], [[DDoSAttackAmplification]], and [[KimWolfBotnet|KimWolf]] - consumer-device botnet supply side.
 - [[IranLinkedCyberOperations]] - actor and campaign context.
 - [[CyberDataTheftAndLeakOperations]] - contrast with intrusion and leak campaigns.
 - [[RansomwareBusinessContinuity]] and [[FinancialOperationsResilience]] - adjacent continuity concepts where information-system failure becomes business disruption.

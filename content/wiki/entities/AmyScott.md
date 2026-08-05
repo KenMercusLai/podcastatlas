@@ -2,11 +2,13 @@
 title: "Amy Scott"
 type: entity
 tags: [journalist, podcast, climate]
-sources: [tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+sources: [tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
 last_updated: 2026-08-05
 ---
 
 # Amy Scott
+
+[[tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128]] adds Scott through another closing [[HowWeSurvive]] promo. The main [[MarketplaceTech]] episode covers [[IoTBotnetRisk]], [[PiratedStreamingBoxMalware]], and [[DDoSAttackAmplification]], while the promo points to Scott's climate-solutions reporting.
 
 [[tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128]] adds Scott through another closing [[HowWeSurvive]] promo. The main [[MarketplaceTech]] episode covers [[StateCryptoReserves]] and [[PublicCryptoInvestmentRisk]], while the promo points to Scott's climate-solutions reporting on geoengineering and space-economy ideas.
 
@@ -30,6 +32,7 @@ Scott's reporting also links the technical demonstration to public funding and l
 
 ## Connections
 - [[MarketplaceTech]] and [[HowWeSurvive]] - Marketplace reporting context around climate technology.
+- [[IoTBotnetRisk]], [[PiratedStreamingBoxMalware]], and [[DDoSAttackAmplification]] - main April 15 episode context attached to the promo.
 - [[MyceliumInsulation]] and [[BiodegradableFoamPackaging]] - December 24 climate-material segment attached to the promo.
 - [[DataCenterBacklash]] and [[DataCenterCommunityConsent]] - main episode context attached to the promo.
 - [[Apple]], [[Meta]], and [[Roblox]] - April 24 Marketplace Tech context attached to the promo.

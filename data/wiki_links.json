@@ -4243,6 +4243,10 @@
     "title": "Brian Chesky",
     "url": "/wiki/entities/brianchesky/"
   },
+  "BrianKrebs": {
+    "title": "Brian Krebs",
+    "url": "/wiki/entities/briankrebs/"
+  },
   "BrianMendoza": {
     "title": "Brian Mendoza",
     "url": "/wiki/entities/brianmendoza/"
@@ -5979,6 +5983,10 @@
     "title": "Columbia University",
     "url": "/wiki/entities/columbiauniversity/"
   },
+  "CommandAndControlInfrastructure": {
+    "title": "Command-and-Control Infrastructure",
+    "url": "/wiki/concepts/commandandcontrolinfrastructure/"
+  },
   "CommercialFusionPower": {
     "title": "Commercial Fusion Power",
     "url": "/wiki/concepts/commercialfusionpower/"
@@ -6814,6 +6822,10 @@
   "DAZN": {
     "title": "DAZN",
     "url": "/wiki/entities/dazn/"
+  },
+  "DDoSAttackAmplification": {
+    "title": "DDoS Attack Amplification",
+    "url": "/wiki/concepts/ddosattackamplification/"
   },
   "DEAExemptionProcess": {
     "title": "DEA Exemption Process",
@@ -11979,6 +11991,10 @@
     "title": "《刽子手返乡》 / Home Is the Hangman",
     "url": "/wiki/entities/homeisthehangman/"
   },
+  "HomeRouterSecurityLifecycle": {
+    "title": "Home Router Security Lifecycle",
+    "url": "/wiki/concepts/homeroutersecuritylifecycle/"
+  },
   "HomeServiceRobots": {
     "title": "Home Service Robots",
     "url": "/wiki/concepts/homeservicerobots/"
@@ -13038,6 +13054,10 @@
   "InvokoAI": {
     "title": "invoko.ai / Invoqo",
     "url": "/wiki/entities/invokoai/"
+  },
+  "IoTBotnetRisk": {
+    "title": "IoT Botnet Risk",
+    "url": "/wiki/concepts/iotbotnetrisk/"
   },
   "IowaElectronicMarkets": {
     "title": "Iowa Electronic Markets",
@@ -14371,6 +14391,10 @@
     "title": "Kiko",
     "url": "/wiki/entities/kiko/"
   },
+  "KimWolfBotnet": {
+    "title": "KimWolf Botnet",
+    "url": "/wiki/entities/kimwolfbotnet/"
+  },
   "KimberlyBecker": {
     "title": "Kimberly Becker",
     "url": "/wiki/entities/kimberlybecker/"
@@ -14490,6 +14514,10 @@
   "KotokuShusui": {
     "title": "Kotoku Shusui / 幸德秋水",
     "url": "/wiki/entities/kotokushusui/"
+  },
+  "KrebsOnSecurity": {
+    "title": "Krebs on Security",
+    "url": "/wiki/entities/krebsonsecurity/"
   },
   "KrishnaKaliannan": {
     "title": "Krishna Kaliannan",
@@ -16078,6 +16106,10 @@
   "MalibuHighSchool": {
     "title": "Malibu High School",
     "url": "/wiki/entities/malibuhighschool/"
+  },
+  "MaliciousProxyNetworks": {
+    "title": "Malicious Proxy Networks",
+    "url": "/wiki/concepts/maliciousproxynetworks/"
   },
   "MallBasedRetailExpansion": {
     "title": "Mall Based Retail Expansion",
@@ -19690,6 +19722,10 @@
   "PirateWires": {
     "title": "Pirate Wires",
     "url": "/wiki/entities/piratewires/"
+  },
+  "PiratedStreamingBoxMalware": {
+    "title": "Pirated Streaming Box Malware",
+    "url": "/wiki/concepts/piratedstreamingboxmalware/"
   },
   "PistoriusDemian": {
     "title": "Pistorius / 皮斯托留斯",
@@ -29854,6 +29890,10 @@
   "tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128": {
     "title": "States are getting crypto-curious",
     "url": "/wiki/sources/tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128/"
+  },
+  "tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128": {
+    "title": "How botnets infiltrate the internet of things",
+    "url": "/wiki/sources/tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128/"
   },
   "tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128": {
     "title": "One way to avoid AI altogether? Retire early",
