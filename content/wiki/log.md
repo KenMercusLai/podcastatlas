@@ -5580,3 +5580,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-05] ingest | 26.牛顿与伪币制造者：可能是斯内普的原型？
+
+Added source page for a 蜜獾吃书 episode on 《牛顿与伪币制造者》, Isaac Newton, the Royal Mint, the Great Recoinage, and William Chaloner. Created pages for Newton, Chaloner, the Royal Mint, the discussed book, Locke, Halley, Hooke, Huygens, the Royal Society, the Bank of England, the South Sea Company, Severus Snape, Scientific Revolution Social Infrastructure, Great Recoinage, Gresham's Law, Counterfeit Currency Policing, Scientist As State Bureaucrat, and Newtonian Alchemy Theology; updated overview, index, MihuanChishu, Currency Credit, Alchemy-Chemistry Continuity, Historical Detective Reasoning, Self-Experimentation, and Robert Boyle. No direct contradiction found; the source extends currency-trust and science-history branches while qualifying the Snape comparison as analogy rather than proof of literary influence.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,8 +2,8 @@
 title: "Historical Detective Reasoning"
 type: concept
 tags: [history, archaeology, reasoning, detective-fiction]
-sources: [69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
-last_updated: 2026-07-18
+sources: [69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317]
+last_updated: 2026-08-05
 ---
 
 # Historical Detective Reasoning
@@ -14,12 +14,15 @@ The concept does not mean turning history into a game where one clever solution 
 
 The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿》]], [[RichardIII|理查三世]], the [[PrincesInTheTower|塔中王子案]], [[CaoCaoTomb|曹操墓]], and [[JackTheRipper|Jack the Ripper]]. These cases show different outcomes: some questions may be revised, some may remain undecidable, and some may shift from "who did it" toward the social conditions that made the event possible.
 
+[[26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317]] adds a crime-history adjacent case through [[IsaacNewton|Newton]] and [[WilliamChaloner|Chaloner]]. The source follows contradictory testimony, prison informants, institutional self-protection, missing tools, pamphlet accusations, and courtroom timing, showing why historical reconstruction must track interested witnesses and procedural incentives rather than only the final verdict.
+
 ## Key Claims
 - Historical evidence is usually fragmentary, mediated, and unevenly preserved.
 - A strong historical inference asks who produced the source, when it appeared, what it leaves out, and what rival explanation it must beat.
 - Detective fiction can train attention to clues, but it can also create overconfidence if readers expect every real archive to have one elegant solution.
 - The method is strongest when joined to [[ObservationBeforeInference]], [[InterpretationAndOverinterpretation]], and [[RationalHumility]].
 - The same reasoning can apply to family objects and local records, not only kings, murder cases, and famous ruins.
+- Criminal-history sources require special caution because witnesses, informants, defendants, and institutions all have reasons to shape the record.
 
 ## Connections
 - [[ZhangZhihao|张志浩]] and [[LishiBoke|《历史播客》]] - source context.
@@ -29,3 +32,4 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 - [[EvidenceBoundHistoricalRevision]] - revision discipline inside the concept.
 - [[ObservationBeforeInference]], [[InterpretationAndOverinterpretation]], and [[RationalHumility]] - reasoning guardrails.
 - [[EvidenceBoundFolkloreInquiry]] and [[MythAsHistoricalEvidence]] - adjacent historical-method concepts from folklore and myth.
+- [[CounterfeitCurrencyPolicing]], [[WilliamChaloner]], and [[RoyalMint]] - crime-history and institutional-record branch added by the Newton episode.

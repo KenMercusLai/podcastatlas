@@ -2,8 +2,8 @@
 title: "Alchemy-Chemistry Continuity / 炼金术与化学连续性"
 type: concept
 tags: [science-history, alchemy, chemistry]
-sources: [141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931]
-last_updated: 2026-07-24
+sources: [141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931, 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317]
+last_updated: 2026-08-05
 ---
 
 # Alchemy-Chemistry Continuity / 炼金术与化学连续性
@@ -12,8 +12,11 @@ Alchemy-chemistry continuity is the source's reminder that older alchemical trad
 
 The concept helps keep [[Frankenstein|《弗兰肯斯坦》]] historically textured. The episode can acknowledge that Victor's books are outdated within the story while still showing why alchemy, chemistry, medicine, animation, and divine ambition remain entangled in the novel's imagination.
 
+[[26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317]] adds the [[IsaacNewton|Newton]] version through [[NewtonianAlchemyTheology]]. The source treats Newton's alchemy as part of an early-modern search for hidden divine activity in matter, while also noting why alchemy and precious-metal making could sit near the legal boundary of counterfeiting and coinage control.
+
 ## Connections
 - [[141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931]] - source episode.
 - [[JohannConradDippel|Johann Conrad Dippel]] and [[FrankensteinCastle|Frankenstein Castle / 弗兰肯斯坦城堡]] - alchemical legend branch.
 - [[ScienceFictionContemporaryScienceIntegration]] - wider reading frame.
 - [[VitalismLifePrincipleDebate]] and [[ModernPrometheusReading]] - adjacent life-making frames.
+- [[NewtonianAlchemyTheology]], [[IsaacNewton]], and [[RoyalMint]] - Newton-centered alchemy, theology, and coinage branch.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [26.牛顿与伪币制造者：可能是斯内普的原型？](sources/26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317.md) — 蜜獾吃书 episode on Isaac Newton, 《牛顿与伪币制造者》, the Royal Mint, the Great Recoinage, William Chaloner, counterfeiting, alchemy, and Newton as scientist-bureaucrat.
 - [一条节目说明，希望各位听众能够听完](sources/yi-tiao-jiemu-shuoming-xiwang-gewei-tingzhong-nenggou-tingwan-578621335.md) — 蜜獾吃书 short notice on a prepared episode failing review on some platforms, alternate listening routes, weekly update expectations, and platform-review friction.
 - [24.捍卫雅各布：相信你是我唯一的执念](sources/24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441.md) — 蜜獾吃书 episode on William Landay's 《捍卫雅各布》, legal proof versus truth, parental defense, inherited violence, forensic ambiguity, and first-person moral alignment.
 - [E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？](sources/e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67.md) — 硅谷101 episode on U.S. healthcare AI, physician administrative burden, billing/coding automation, HIPAA constraints, OpenEvidence, OpenAI and Anthropic healthcare products, and doctor-led medical AI workflows.
@@ -699,6 +700,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《牛顿与伪币制造者》 / Newton and the Counterfeiter](entities/NewtonAndTheCounterfeiter.md) — Book discussed by 蜜獾吃书 as a Newton biography, Royal Mint crime story, and monetary-history case.
+- [Isaac Newton / 牛顿](entities/IsaacNewton.md) — Scientist and Royal Mint official read through genius, religious seriousness, alchemy, recoinage, prosecution, and financial fallibility.
+- [William Chaloner / 查罗纳](entities/WilliamChaloner.md) — Skilled counterfeiter and informant-manipulator whose case turns Newton's Royal Mint role into a crime-history narrative.
+- [Royal Mint / 皇家造币厂](entities/RoyalMint.md) — British coinage institution where Newton handled recoinage production and counterfeit enforcement.
+- [John Locke / 约翰·洛克](entities/JohnLocke.md) — Philosopher and Newton friend who opposed coin debasement in the episode's monetary debate.
+- [Edmond Halley / 哈雷](entities/EdmondHalley.md) — Astronomer whose question and advocacy helped bring Newton's Principia into public scientific circulation.
+- [Robert Hooke / 罗伯特·胡克](entities/RobertHooke.md) — Royal Society experimental figure used by the source to show instrument and observation networks behind the scientific revolution.
+- [Christiaan Huygens / 惠更斯](entities/ChristiaanHuygens.md) — European scientist whose validation helps explain Locke's reception of Newton's work.
+- [Royal Society / 皇家学会](entities/RoyalSociety.md) — Learned society grounding the source's networked view of early modern science.
+- [Bank of England / 英格兰银行](entities/BankOfEngland.md) — Early paper-money institution used by the episode to extend currency trust beyond silver coins.
+- [South Sea Company / 南海公司](entities/SouthSeaCompany.md) — Bubble-era company used by the episode to show that Newton remained vulnerable to market mania.
+- [Severus Snape / 西弗勒斯·斯内普](entities/SeverusSnape.md) — Fictional-character analogy for Newton's wounded, brilliant, severe temperament, explicitly not proven as a source influence.
 - [《捍卫雅各布》 / Defending Jacob](entities/DefendingJacob.md) — William Landay legal thriller used by 蜜獾吃书 to examine evidence, parental defense, inherited-risk claims, and moral ambiguity.
 - [William Landay](entities/WilliamLanday.md) — Legal-thriller author whose prosecutor background grounds the episode's courtroom and evidence analysis.
 - [Andy Barber](entities/AndyBarber.md) — Prosecutor-father narrator whose defense of Jacob turns love into conflict-of-interest and evidence-destruction pressure.
@@ -4817,6 +4830,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Scientific Revolution Social Infrastructure](concepts/ScientificRevolutionSocialInfrastructure.md) — Frame for Newton's achievements as both individual genius and product of instruments, data, institutions, correspondence, and trusted evaluators.
+- [Great Recoinage / 大重铸](concepts/GreatRecoinage.md) — English monetary repair effort responding to clipped coins, counterfeit pressure, silver outflow, and coinage production limits.
+- [Gresham's Law / 劣币驱逐良币](concepts/GreshamsLaw.md) — Mechanism where inferior money circulates while better money is hoarded, melted, or exported under equal legal face value.
+- [Counterfeit Currency Policing](concepts/CounterfeitCurrencyPolicing.md) — Enforcement problem where fake money, informants, courts, reputation, and incomplete police infrastructure meet.
+- [Scientist As State Bureaucrat](concepts/ScientistAsStateBureaucrat.md) — Newton-at-the-Mint frame joining measurement, production administration, state capacity, and coercive enforcement.
+- [Newtonian Alchemy Theology](concepts/NewtonianAlchemyTheology.md) — Interpretation of Newton's alchemy as a search for hidden divine vitality inside matter, not merely greed or irrationality.
 - [Podcast Platform Review](concepts/PodcastPlatformReview.md) — Distribution constraint when the same podcast episode passes review on some platforms but is blocked on others.
 - [Legal Truth-Evidence Gap / 法律真相与证据差距](concepts/LegalTruthEvidenceGap.md) — Gap between what happened and what a court can responsibly decide from admissible evidence.
 - [Parental Defense Conflict / 父母辩护冲突](concepts/ParentalDefenseConflict.md) — Ethical and legal clash when protecting a child may betray evidence, victims, public duty, or future safety.

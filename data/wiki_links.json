@@ -547,6 +547,10 @@
     "title": "25 & Pine",
     "url": "/wiki/entities/25andpine/"
   },
+  "26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317": {
+    "title": "26.牛顿与伪币制造者：可能是斯内普的原型？",
+    "url": "/wiki/sources/26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317/"
+  },
   "263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs": {
     "title": "263.Sora死了，Adobe跌了，美图何去何从？",
     "url": "/wiki/sources/263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs/"
@@ -3603,6 +3607,10 @@
     "title": "Bank of Communications",
     "url": "/wiki/entities/bankofcommunications/"
   },
+  "BankOfEngland": {
+    "title": "Bank of England / 英格兰银行",
+    "url": "/wiki/entities/bankofengland/"
+  },
   "BankOfJapan": {
     "title": "Bank of Japan",
     "url": "/wiki/entities/bankofjapan/"
@@ -5747,6 +5755,10 @@
     "title": "Chris Surdean",
     "url": "/wiki/entities/chrissurdean/"
   },
+  "ChristiaanHuygens": {
+    "title": "Christiaan Huygens / 惠更斯",
+    "url": "/wiki/entities/christiaanhuygens/"
+  },
   "ChristianStClair": {
     "title": "Christian St. Clair",
     "url": "/wiki/entities/christianstclair/"
@@ -6686,6 +6698,10 @@
   "CounterDroneLayeredDefense": {
     "title": "Counter-Drone Layered Defense",
     "url": "/wiki/concepts/counterdronelayereddefense/"
+  },
+  "CounterfeitCurrencyPolicing": {
+    "title": "Counterfeit Currency Policing",
+    "url": "/wiki/concepts/counterfeitcurrencypolicing/"
   },
   "CountertransferenceBoundaryRisk": {
     "title": "Countertransference Boundary Risk",
@@ -8634,6 +8650,10 @@
   "EditorAsCulturalProjectManager": {
     "title": "Editor As Cultural Project Manager",
     "url": "/wiki/concepts/editorasculturalprojectmanager/"
+  },
+  "EdmondHalley": {
+    "title": "Edmond Halley / 哈雷",
+    "url": "/wiki/entities/edmondhalley/"
   },
   "EdouardPhilippe": {
     "title": "Edouard Philippe",
@@ -11451,6 +11471,10 @@
     "title": "Great Northern Expedition / 大北方探险",
     "url": "/wiki/entities/greatnorthernexpedition/"
   },
+  "GreatRecoinage": {
+    "title": "Great Recoinage / 大重铸",
+    "url": "/wiki/concepts/greatrecoinage/"
+  },
   "GreatTreasonIncident": {
     "title": "Great Treason Incident / 大逆事件",
     "url": "/wiki/entities/greattreasonincident/"
@@ -11502,6 +11526,10 @@
   "GregRosalsky": {
     "title": "Greg Rosalsky",
     "url": "/wiki/entities/gregrosalsky/"
+  },
+  "GreshamsLaw": {
+    "title": "Gresham's Law / 劣币驱逐良币",
+    "url": "/wiki/concepts/greshamslaw/"
   },
   "GreyWolfRock": {
     "title": "大灰狼罗克 / Grey Wolf Rock",
@@ -13523,6 +13551,10 @@
     "title": "Isaac Beeckman / 贝克曼",
     "url": "/wiki/entities/isaacbeeckman/"
   },
+  "IsaacNewton": {
+    "title": "Isaac Newton / 牛顿",
+    "url": "/wiki/entities/isaacnewton/"
+  },
   "IsaoTakahata": {
     "title": "Isao Takahata / 高畑勋",
     "url": "/wiki/entities/isaotakahata/"
@@ -14294,6 +14326,10 @@
   "JohnKempStarley": {
     "title": "John Kemp Starley / 约翰·坎普·斯塔利",
     "url": "/wiki/entities/johnkempstarley/"
+  },
+  "JohnLocke": {
+    "title": "John Locke / 约翰·洛克",
+    "url": "/wiki/entities/johnlocke/"
   },
   "JohnPhillips": {
     "title": "John Phillips",
@@ -18599,6 +18635,14 @@
     "title": "Newsroom AI Adoption",
     "url": "/wiki/concepts/newsroomaiadoption/"
   },
+  "NewtonAndTheCounterfeiter": {
+    "title": "《牛顿与伪币制造者》 / Newton and the Counterfeiter",
+    "url": "/wiki/entities/newtonandthecounterfeiter/"
+  },
+  "NewtonianAlchemyTheology": {
+    "title": "Newtonian Alchemy Theology",
+    "url": "/wiki/concepts/newtonianalchemytheology/"
+  },
   "NextRobot": {
     "title": "Next Robot",
     "url": "/wiki/entities/nextrobot/"
@@ -22395,6 +22439,10 @@
     "title": "Robert Guest",
     "url": "/wiki/entities/robertguest/"
   },
+  "RobertHooke": {
+    "title": "Robert Hooke / 罗伯特·胡克",
+    "url": "/wiki/entities/roberthooke/"
+  },
   "RobertKelchen": {
     "title": "Robert Kelchen",
     "url": "/wiki/entities/robertkelchen/"
@@ -22654,6 +22702,14 @@
   "RoyDisney": {
     "title": "Roy Disney",
     "url": "/wiki/entities/roydisney/"
+  },
+  "RoyalMint": {
+    "title": "Royal Mint / 皇家造币厂",
+    "url": "/wiki/entities/royalmint/"
+  },
+  "RoyalSociety": {
+    "title": "Royal Society / 皇家学会",
+    "url": "/wiki/entities/royalsociety/"
   },
   "RoyalSocietyForProtectionOfBirds": {
     "title": "Royal Society for the Protection of Birds",
@@ -23111,6 +23167,10 @@
     "title": "Scientific Public Spectacle",
     "url": "/wiki/concepts/scientificpublicspectacle/"
   },
+  "ScientificRevolutionSocialInfrastructure": {
+    "title": "Scientific Revolution Social Infrastructure",
+    "url": "/wiki/concepts/scientificrevolutionsocialinfrastructure/"
+  },
   "ScientificSamplingDiscipline": {
     "title": "Scientific Sampling Discipline",
     "url": "/wiki/concepts/scientificsamplingdiscipline/"
@@ -23122,6 +23182,10 @@
   "ScientificSkepticism": {
     "title": "Scientific Skepticism",
     "url": "/wiki/concepts/scientificskepticism/"
+  },
+  "ScientistAsStateBureaucrat": {
+    "title": "Scientist As State Bureaucrat",
+    "url": "/wiki/concepts/scientistasstatebureaucrat/"
   },
   "ScotlandYard": {
     "title": "Scotland Yard",
@@ -23490,6 +23554,10 @@
   "SeverinBorenstein": {
     "title": "Severin Borenstein",
     "url": "/wiki/entities/severinborenstein/"
+  },
+  "SeverusSnape": {
+    "title": "Severus Snape / 西弗勒斯·斯内普",
+    "url": "/wiki/entities/severussnape/"
   },
   "SexualAssaultEvidenceKit": {
     "title": "Sexual Assault Evidence Kit",
@@ -24310,6 +24378,10 @@
   "SouthKorea": {
     "title": "South Korea / 韩国",
     "url": "/wiki/entities/southkorea/"
+  },
+  "SouthSeaCompany": {
+    "title": "South Sea Company / 南海公司",
+    "url": "/wiki/entities/southseacompany/"
   },
   "SouthernTourPoliticalTheater": {
     "title": "南巡政治剧场 / Southern Tour Political Theater",
@@ -27982,6 +28054,10 @@
   "WilliamBennett": {
     "title": "William Bennett",
     "url": "/wiki/entities/williambennett/"
+  },
+  "WilliamChaloner": {
+    "title": "William Chaloner / 查罗纳",
+    "url": "/wiki/entities/williamchaloner/"
   },
   "WilliamDeresiewicz": {
     "title": "William Deresiewicz",
