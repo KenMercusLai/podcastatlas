@@ -2,7 +2,7 @@
 title: "Amy Scott"
 type: entity
 tags: [journalist, podcast, climate]
-sources: [tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+sources: [tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
 last_updated: 2026-08-05
 ---
 
@@ -21,6 +21,8 @@ Amy Scott is the Marketplace reporter in [[tech-20260713-tech-pod-128-tech-20260
 Scott's reporting also links the technical demonstration to public funding and legitimacy questions. The segment follows from Heirloom's [[California]] facility to its planned [[Louisiana]] project, then to [[Carbon180]]'s explanation of why some carbon-removal hubs survived federal funding cuts.
 
 [[tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128]] adds Scott through the closing [[HowWeSurvive]] promo. The episode frames her climate-solutions podcast as covering messy climate responses, including geoengineering and space-based sunshades, after the main segment on EV affordability.
+
+[[tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128]] adds the same promo context after a [[MarketplaceTech]] segment on U.S. EV sales whiplash. The main episode contribution is [[EVTaxCreditCliff]] and [[UsedEVAffordability]], while the promo again points toward Scott's broader climate-solutions reporting.
 
 [[tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128]] adds another closing-promo mention of Scott and [[HowWeSurvive]]. The main episode is about [[DataCenterBacklash]] and [[DataCenterCommunityConsent]], while the promo points listeners toward climate-solutions reporting on geoengineering ideas.
 
@@ -41,5 +43,6 @@ Scott's reporting also links the technical demonstration to public funding and l
 - [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]], [[ChristianToya]], and [[LimestoneLoopCarbonCapture]] - interview and site-visit branch.
 - [[CarbonRemoval]], [[DirectAirCapture]], [[CarbonRemovalCostCurve]], and [[CarbonRemovalPoliticalDurability]] - concepts her reporting connects.
 - [[ElectricVehiclePriceParity]] and [[EconomicClimateTechAdoption]] - adjacent climate-economics context from the EV episode promo.
+- [[EVTaxCreditCliff]] and [[UsedEVAffordability]] - main December 31 EV episode context attached to the promo.
 - [[AIClusterNetworking]] and [[AmazonWebServices|AWS]] - main January 26 episode context attached to the promo.
 - [[RedwoodMaterials]] and [[SecondLifeEVBatteryStorage]] - main January 29 episode context attached to the promo.

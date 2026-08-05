@@ -2,7 +2,7 @@
 title: "How We Survive"
 type: entity
 tags: [podcast, climate, marketplace]
-sources: [tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128, tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+sources: [tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128, tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
 last_updated: 2026-08-05
 ---
 
@@ -26,6 +26,8 @@ In this source, How We Survive functions as a bridge from a concise technology s
 
 [[tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128]] adds another promo context. The EV price-parity episode closes by describing How We Survive as [[AmyScott]]'s podcast about the messy business of climate solutions, including geoengineering and space-based sunshades.
 
+[[tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128]] adds another closing promo context after the main [[MarketplaceTech]] segment on [[EVTaxCreditCliff]], [[UsedEVAffordability]], and [[EVChargingInfrastructure]]. The promo again points to [[AmyScott]]'s climate-solutions reporting, while the main source remains about EV market adoption after the federal credit deadline.
+
 [[tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128]] adds another closing promo context after the main [[DataCenterBacklash]] interview. The promo again points to [[AmyScott]]'s climate-solutions reporting and speculative geoengineering ideas, while the main episode remains focused on data-center politics.
 
 [[tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128]] adds another closing promo context after a Bytes episode on [[Apple]], [[Meta]], and [[Roblox]]. The promo repeats the climate-solutions frame around geoengineering ideas, while the main episode remains focused on platform strategy, AI training data, and child-safety controls.
@@ -47,5 +49,6 @@ In this source, How We Survive functions as a bridge from a concise technology s
 - [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]], [[DirectAirCapture]], and [[CarbonRemoval]] - main topic promoted from the episode.
 - [[ClimateStartupCommercializationGap]] and [[CarbonRemovalMoralHazard]] - deeper questions the source points toward.
 - [[ElectricVehiclePriceParity]] and [[EconomicClimateTechAdoption]] - adjacent climate-economics branch in the EV episode.
+- [[EVTaxCreditCliff]], [[UsedEVAffordability]], and [[EVChargingInfrastructure]] - main December 31 EV episode context adjacent to the promo.
 - [[AIClusterNetworking]] and [[AmazonWebServices|AWS]] - main episode context adjacent to the January 26 promo.
 - [[RedwoodMaterials]] and [[SecondLifeEVBatteryStorage]] - main episode context adjacent to the January 29 promo.

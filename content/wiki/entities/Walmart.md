@@ -2,8 +2,8 @@
 title: "Walmart"
 type: entity
 tags: [company, retail, commerce]
-sources: [tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, board-games-3-whats-in-a-name, costco-1]
-last_updated: 2026-08-04
+sources: [tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, board-games-3-whats-in-a-name, costco-1]
+last_updated: 2026-08-05
 ---
 
 # Walmart
@@ -20,6 +20,8 @@ The page also connects to the existing [[Yihaodian]] branch, where Walmart appea
 
 [[costco-1]] adds Walmart through [[SamWalton]] and [[SamsClub|Sam's Club]]. Walton is described as studying [[PriceClub]] before launching Sam's Club, while Costco is contrasted with Walmart on wages, inventory turns, revenue per square foot, and the different operating logic behind warehouse-club membership.
 
+[[tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128]] adds Walmart as a private fast-charging expansion example. In the source, Walmart and convenience store chains are part of the [[EVChargingInfrastructure]] buildout that could support U.S. EV adoption after the [[EVTaxCreditCliff]].
+
 ## Connections
 - [[SurveillancePricing]], [[KristinSchwab]], [[JosephTurow]], and [[GarrettJohnson]] - price-opacity branch added by the January 2026 Marketplace Tech episode.
 - [[Amazon]], [[UltraFastDeliveryEconomics]], [[InstantRetail]], and [[AIConsumerDecisionShaping]] - ultra-fast delivery and everyday-goods competition added by the March 2026 Marketplace Tech Bytes episode.
@@ -28,3 +30,4 @@ The page also connects to the existing [[Yihaodian]] branch, where Walmart appea
 - [[Yihaodian]] - earlier wiki branch where Walmart appears through China ecommerce history.
 - [[SellMeASasquatch]], [[ExplodingKittens]], and [[RetailShelfAppeal]] - board-game retail branch added by Planet Money.
 - [[SamWalton]], [[SamsClub|Sam's Club]], [[PriceClub]], [[Costco]], [[WarehouseClubModel]], and [[EmployeeRetentionEconomics]] - warehouse-club comparison added by Acquired.
+- [[EVChargingInfrastructure]] and [[EVTaxCreditCliff]] - charging-network context added by the December 2025 Marketplace Tech episode.

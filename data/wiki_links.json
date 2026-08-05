@@ -8299,9 +8299,17 @@
     "title": "ESPN",
     "url": "/wiki/entities/espn/"
   },
+  "EVChargingInfrastructure": {
+    "title": "EV Charging Infrastructure",
+    "url": "/wiki/concepts/evcharginginfrastructure/"
+  },
   "EVE": {
     "title": "EVE",
     "url": "/wiki/entities/eve/"
+  },
+  "EVTaxCreditCliff": {
+    "title": "EV Tax Credit Cliff",
+    "url": "/wiki/concepts/evtaxcreditcliff/"
   },
   "EachNet": {
     "title": "易趣 / EachNet",
@@ -11906,6 +11914,10 @@
   "HenryDavidThoreau": {
     "title": "Henry David Thoreau / 梭罗",
     "url": "/wiki/entities/henrydavidthoreau/"
+  },
+  "HenryEpp": {
+    "title": "Henry Epp",
+    "url": "/wiki/entities/henryepp/"
   },
   "HenryFordII": {
     "title": "Henry Ford II",
@@ -26639,6 +26651,10 @@
     "title": "Usage-Based Vertical SaaS Pricing",
     "url": "/wiki/concepts/usagebasedverticalsaaspricing/"
   },
+  "UsedEVAffordability": {
+    "title": "Used EV Affordability",
+    "url": "/wiki/concepts/usedevaffordability/"
+  },
   "UserGeneratedContentCopyrightRisk": {
     "title": "User-Generated Content Copyright Risk",
     "url": "/wiki/concepts/usergeneratedcontentcopyrightrisk/"
@@ -29950,6 +29966,10 @@
   "tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128": {
     "title": "AI-powered chatbots sent some users into a spiral",
     "url": "/wiki/sources/tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128/"
+  },
+  "tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128": {
+    "title": "A whiplash year for electric vehicles",
+    "url": "/wiki/sources/tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128/"
   },
   "tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128": {
     "title": "A tech company that 'happens to build homes'",

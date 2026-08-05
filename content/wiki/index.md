@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A whiplash year for electric vehicles](sources/tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128.md) — Marketplace Tech episode with Henry Epp on the U.S. EV tax-credit cliff, pull-forward sales, October/November decline, new-vs-used EV price gaps, Ford/GM pullbacks, China/Europe comparison, and the 2026 watchlist around cheaper models and charging.
 - [AI-powered chatbots sent some users into a spiral](sources/tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128.md) — Marketplace Tech episode with Kashmir Hill on AI psychosis, ChatGPT validation loops, long-conversation guardrail decay, OpenAI safety changes, teen escalation, and caution around reported mental-health harms.
 - [华为的「韬定律」，是创新还是噱头？｜ Bonus](sources/huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5.md) — What's Next bonus episode with Zhang Haijun on Huawei's Tau Law, Cell-to-Cell logic stacking, EDA bottlenecks, advanced packaging, and why the claim is plausible but still needs product validation.
 - [23.飞马牌汽车：安全是第一位的！](sources/23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943.md) — 蜜獾吃书 episode on 郑渊洁, 《童话大王》, 《训兔记》, 《飞马牌汽车》, obedience training, safety as control, rule idolatry, bureaucratic absurdity, and problem industrialization.
@@ -1130,6 +1131,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Port Washington, Wisconsin](entities/PortWashingtonWisconsin.md) — City whose residents voted for direct approval over some large developer incentives tied to future data-center development.
 - [Stephanie Valdez Streaty](entities/StephanieValdezStreaty.md) — Cox Automotive analyst voice explaining that U.S. EV adoption remains constrained mainly by sticker price.
 - [Cox Automotive](entities/CoxAutomotive.md) — Automotive market organization used by Marketplace Tech to ground the EV sticker-price barrier.
+- [Henry Epp](entities/HenryEpp.md) — Marketplace Tech voice explaining U.S. EV sales whiplash after federal tax credits expired.
 - [Colin McCarrick](entities/ColinMcCarrick.md) — BloombergNEF analyst connecting China's EV price parity to integrated supply chains and improved LFP batteries.
 - [BloombergNEF](entities/BloombergNEF.md) — Energy-market research organization represented by Colin McCarrick in the EV battery-cost episode.
 - [CJ Finn](entities/CJFinn.md) — PwC voice forecasting that U.S. EV and hybrid sales could expand once battery-electric price premiums fall.
@@ -4982,6 +4984,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cybersecurity AI Supervision](concepts/CybersecurityAISupervision.md) — Work pattern where humans direct, inspect, and constrain AI agents performing security tasks such as vulnerability discovery.
 - [Space Mission Livestreaming](concepts/SpaceMissionLivestreaming.md) — Continuous live and social-media coverage that turns distant space missions into public-facing media events.
 - [Electric Vehicle Price Parity](concepts/ElectricVehiclePriceParity.md) — Adoption threshold where EV sticker prices become comparable to internal-combustion vehicles and mass-market buying becomes more likely.
+- [EV Tax Credit Cliff](concepts/EVTaxCreditCliff.md) — EV demand shock where an expiring purchase incentive pulls sales forward and exposes the remaining upfront price gap.
+- [Used EV Affordability](concepts/UsedEVAffordability.md) — Secondary-market pathway where older EVs become accessible before new EVs reach full price parity.
+- [EV Charging Infrastructure](concepts/EVChargingInfrastructure.md) — Public and private charging network that makes EV ownership practical beyond home charging.
 - [Lithium Iron Phosphate Batteries](concepts/LithiumIronPhosphateBatteries.md) — Cheaper LFP battery chemistry whose Chinese engineering improvements and global share support the EV price-parity story.
 - [California AB 1709](concepts/CaliforniaAB1709.md) — Proposed California under-16 social-media ban used as a case of child-safety technology regulation colliding with First Amendment speech-access limits.
 - [Youth Online Speech Rights](concepts/YouthOnlineSpeechRights.md) — Claim that minors have constitutional interests in speaking and accessing lawful online speech, not only adults or platforms.

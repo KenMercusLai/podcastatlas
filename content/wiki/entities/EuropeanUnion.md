@@ -2,7 +2,7 @@
 title: "European Union"
 type: entity
 tags: [institution, europe, politics]
-sources: [tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
+sources: [tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
 last_updated: 2026-08-05
 ---
 
@@ -17,6 +17,8 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 [[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]] adds the EU through the [[EuropeanCommission]] investigation of [[Google]] and publisher content in [[GoogleAIOverviews|Google AI Overviews]]. This source extends the EU page from privacy and feature-availability questions into [[PlatformAntitrust]] around AI-search attribution and publisher traffic.
 
 [[tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128]] adds an AI-disclosure example through [[ColleenKirk]]'s interview on [[MarketplaceTech]]. Kirk says the European Union requires marketers to disclose when content is AI-generated, contrasting that rule with the lack of a similar general U.S. requirement in the episode's account. The source connects EU regulation to [[AIContentProvenance]], [[AIGeneratedAdvertising]], and [[HumanAuthorshipPremium]] by showing why disclosure can be both a trust obligation and a commercial risk.
+
+[[tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128]] adds a European EV-policy signal. The source says EV sales have grown substantially in Europe, but that policymakers are planning to ease a 2035 combustion-engine ban, making Europe a comparison case where EV adoption remains stronger than in the [[UnitedStates]] but policy certainty is still changing.
 
 [[keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b]] adds the EU as the institution the [[UnitedKingdom]] left through [[Brexit]]. The episode's EU frame is double-edged: leaving created some room for [[BrexitRegulatoryDividend]], but also produced [[BrexitEconomicFriction]] because exporters, importers, investors, finance, professional qualifications, and EU-facing AI firms still have to navigate the European market.
 
@@ -42,5 +44,6 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 - [[ApplePrivacy]], [[TimCook]], and [[PlatformDataRegulation]] - GDPR and privacy-regulation context added by the Cook episode.
 - [[EuropeanCommission]], [[Google]], [[GoogleAIOverviews|Google AI Overviews]], [[AIAnswerSourceAttribution]], and [[PlatformAntitrust]] - AI-search competition context added by Marketplace Tech.
 - [[ColleenKirk]], [[AIContentProvenance]], [[AIGeneratedAdvertising]], and [[HumanAuthorshipPremium]] - AI-generated marketing disclosure context added by Marketplace Tech.
+- [[EVTaxCreditCliff]], [[ElectricVehiclePriceParity]], and [[EconomicClimateTechAdoption]] - EV policy and adoption comparison added by the December 2025 Marketplace Tech source.
 - [[Brexit]], [[UnitedKingdom]], [[BrexitEconomicFriction]], and [[BrexitRegulatoryDividend]] - post-exit trade and policy-freedom context.
 - [[CoolingAsPublicHealth]] and [[ClimateAdaptation]] - heat, electricity, and public-health branch added by The Intelligence.

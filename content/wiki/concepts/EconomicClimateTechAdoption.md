@@ -2,8 +2,8 @@
 title: "Economic Climate Tech Adoption"
 type: concept
 tags: [climate, startup, market-adoption]
-sources: [tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
-last_updated: 2026-07-25
+sources: [tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
+last_updated: 2026-08-05
 ---
 
 # Economic Climate Tech Adoption
@@ -20,6 +20,8 @@ The source's portfolio examples make the point concrete. [[BlueDot]] connects EV
 
 [[tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128]] adds the ordinary-consumer vehicle version through [[ElectricVehiclePriceParity]]. The episode argues that U.S. EV adoption depends on lowering the upfront premium over gasoline vehicles, with [[LithiumIronPhosphateBatteries|LFP batteries]] and [[China]]'s integrated supply chain showing how battery-cost improvements can become mass-market affordability.
 
+[[tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128]] adds the subsidy-cliff version. Federal EV tax credits temporarily improved buyer economics, but their September 2025 expiry exposed the underlying price gap through a sales pull-forward and drop. The source therefore extends economic adoption from cost curves into timing, used-market access, cheaper model launches, and [[EVChargingInfrastructure]].
+
 [[tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128]] adds a regulation-driven construction version. [[California]]'s [[EmbodiedCarbonBuildingCode]] can make demand for [[LowCarbonConstructionMaterials]] visible enough for manufacturers to invest, even if individual builders mainly experience the rule as [[ConstructionCarbonCompliance]] documentation and review.
 
 [[tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128]] adds a packaging-material version through [[MyceliumInsulation]]. The climate benefit is lower polystyrene waste, but adoption depends on whether [[BiodegradableFoamPackaging]] can match the incumbent material's low weight, insulation, durability, and cost in [[SeafoodColdChainPackaging]].
@@ -33,6 +35,7 @@ The source's portfolio examples make the point concrete. [[BlueDot]] connects EV
 - In direct air capture, corporate carbon-removal procurement can support early projects before costs are low enough for broad deployment.
 - In bio-oil carbon removal, corporate procurement can create a market before ordinary buyers exist, but only if physical storage, permits, cost reduction, and verification keep improving.
 - In consumer vehicles, EV adoption can remain limited despite interest until the sticker-price gap narrows enough for ordinary car buyers.
+- In consumer vehicles, subsidies can move adoption timing, but they do not replace durable affordability, reliable charging, and ordinary purchase confidence.
 - In construction, code requirements can create adoption pressure by making supplier demand predictable before voluntary customer demand is mature.
 - In packaging, biological materials can win only if sustainability is paired with the logistics performance buyers already pay for.
 
@@ -44,5 +47,6 @@ The source's portfolio examples make the point concrete. [[BlueDot]] connects EV
 - [[CharmIndustrial|Charm Industrial]], [[BioOilCarbonRemoval]], [[CarbonRemovalPermitting]], [[AdvancedMarketCommitment]], and [[FrontierCarbonRemoval|Frontier Carbon Removal]] - bio-oil carbon-removal procurement case added by The Social Radars.
 - [[ClimateAdaptation]], [[FireTechClimateResilience]], and [[ProductLedWillingnessToPay]] - adjacent climate and market-value concepts.
 - [[ElectricVehiclePriceParity]], [[LithiumIronPhosphateBatteries]], [[CoxAutomotive]], [[BloombergNEF]], and [[PwC]] - EV affordability branch added by Marketplace Tech.
+- [[EVTaxCreditCliff]], [[UsedEVAffordability]], and [[EVChargingInfrastructure]] - post-subsidy EV adoption branch added by the December 2025 Marketplace Tech episode.
 - [[EmbodiedCarbonBuildingCode]], [[LowCarbonConstructionMaterials]], [[ConstructionCarbonCompliance]], and [[USGreenBuildingCouncilOfCalifornia|U.S. Green Building Council of California]] - regulation-driven construction-materials adoption branch.
 - [[MyceliumInsulation]], [[BiodegradableFoamPackaging]], [[SeafoodColdChainPackaging]], [[WildSource]], and [[ColdChainCPGConstraint]] - packaging-material adoption branch added by Marketplace Tech.

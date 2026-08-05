@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-05] ingest | A whiplash year for electric vehicles
+
+Added source page for a Marketplace Tech episode on U.S. EV sales after federal tax credits expired at the end of September 2025. Created pages for Henry Epp, EV Tax Credit Cliff, Used EV Affordability, and EV Charging Infrastructure; updated overview, index, Marketplace Tech, Cox Automotive, Electric Vehicle Price Parity, Economic Climate Tech Adoption, United States, China, European Union, Ford Motor Company, General Motors, Tesla, Walmart, How We Survive, and Amy Scott. No direct contradiction found; the source reinforces the existing EV price-parity branch while adding a subsidy-timing, used-market, automaker-pullback, and charging-infrastructure layer.
+
 ## [2026-08-05] ingest | AI-powered chatbots sent some users into a spiral
 
 Added source page for a Marketplace Tech episode with Megan McCarty-Carino interviewing Kashmir Hill of the New York Times about AI psychosis, ChatGPT validation loops, long-conversation guardrail decay, reported mental-health crises, OpenAI safety changes, teen escalation, and caution around causation. Created pages for Kashmir Hill, Alan Brooks, Adam Raine, and AI Psychosis; updated overview, index, Marketplace Tech, Megan McCarty-Corino, ChatGPT, OpenAI, New York Times, Chatbot Safety Guardrail Decay, Sycophantic AI Companion Risk, Teen Chatbot Mental Health Risk, AI Companion Attention Risk, How We Survive, and American Public Media. No direct contradiction found; the source reinforces the existing teen chatbot mental-health source while broadening the risk from report simulations to long real-world conversations.
@@ -5472,3 +5476,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-05] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 7,702 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while lint scanned 7,702 pages, so graph findings are advisory until `build graph` refreshes it; current graph checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest` and no provider/key env vars are available in this shell. Report returned in-session; `wiki/lint-report.md` was not saved.
