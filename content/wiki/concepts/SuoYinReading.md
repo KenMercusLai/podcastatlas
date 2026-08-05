@@ -2,11 +2,13 @@
 title: "索隐式阅读 / Suo Yin Reading"
 type: concept
 tags: [literature, interpretation, evidence, politics]
-sources: [75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
-last_updated: 2026-07-24
+sources: [ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
+last_updated: 2026-08-05
 ---
 
 # 索隐式阅读 / Suo Yin Reading
+
+[[ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638]] adds a Redology overview version. The source introduces 索隐派 and evidential approaches near its discussion of [[RedChamberVersionAndSequelReading]], but treats them as routes back to [[HongLouMeng|《红楼梦》]] rather than as replacements for reading the novel as fiction.
 
 索隐式阅读 / Suo Yin reading is the interpretive habit of treating literary details as hidden historical, political, or biographical ciphers. In [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]], [[MihuanChishu|蜜獾吃书]] uses the [[YangShen|杨慎]] attribution theory for [[JourneyToTheWest|《西游记》]] to show why this mode is tempting: if a politically punished Ming literatus wrote the novel, monsters and divine officials might seem to encode Jiajing-era court conflict.
 

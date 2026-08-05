@@ -2,11 +2,13 @@
 title: "曹雪芹 / Cao Xueqin"
 type: entity
 tags: [writer, literature, chinese-classics]
-sources: [167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]
-last_updated: 2026-07-24
+sources: [ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]
+last_updated: 2026-08-05
 ---
 
 # 曹雪芹 / Cao Xueqin
+
+[[ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638]] presents 曹雪芹 through the basic literary craft of [[HongLouMeng|《红楼梦》]]: he can write poetry, but also write different levels and kinds of poetry for different characters; he can build suspense through 判词, hints, names, and [[Zhiyanzhai|脂砚斋]] commentary without turning the book into only a puzzle. The episode therefore adds [[RedChamberEntryReading]] and [[RedChamberVersionAndSequelReading]] to the existing author-history and intertext branches.
 
 In [[183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260]], 曹雪芹 appears as the authorial center behind [[HongLouMeng|《红楼梦》]] and its relation to [[LiShangyin|李商隐]]. The episode notes the suggestive but uncertain echo between Cao Xueqin's 芹溪 and Li Shangyin's 玉溪, then treats the stronger case as textual: quotations, images, reading scenes, and character affinities matter more than name echo alone.
 

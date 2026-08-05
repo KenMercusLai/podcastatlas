@@ -2,11 +2,13 @@
 title: "贾府 / Jia Family Household"
 type: entity
 tags: [fictional-household, literature, hongloumeng, institution]
-sources: [167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]
-last_updated: 2026-07-24
+sources: [ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]
+last_updated: 2026-08-05
 ---
 
 # 贾府 / Jia Family Household
+
+[[ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638]] adds the [[GrandViewGarden|大观园]] branch to the household page. The episode treats the Jia household as the container that makes a protected youth dream possible through [[JiaYuanchun|贾元春]], but also as the social world whose marriage, status, and male-speech norms eventually press back against [[LinDaiyu|林黛玉]], [[Qingwen|晴雯]], [[Lingguan|龄官]], and [[YouSanjie|尤三姐]].
 
 In [[167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324]], 贾府 is not only a family setting for [[HongLouMeng|《红楼梦》]], but an institution where law, household management, status hierarchy, examination pressure, and imperial favor meet. The episode reads the household's care for [[LinDaiyu|林黛玉]], pressure on [[JiaBaoyu|贾宝玉]], management of actresses, and eventual confiscation risk as connected parts of one social system.
 

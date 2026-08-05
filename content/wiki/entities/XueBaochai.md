@@ -2,11 +2,13 @@
 title: "薛宝钗 / Xue Baochai"
 type: entity
 tags: [fictional-character, literature, hongloumeng]
-sources: [167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260]
-last_updated: 2026-07-15
+sources: [ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260]
+last_updated: 2026-08-05
 ---
 
 # 薛宝钗 / Xue Baochai
+
+[[ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638]] adds a survival-and-adaptation frame for 薛宝钗. The episode places her beside [[Xiren|袭人]] and against [[LinDaiyu|林黛玉]] and [[Qingwen|晴雯]], not to make Baochai a simple villain, but to show how social intelligence and worldly accommodation can preserve a person in the same order that destroys figures of [[TruthfulTemperamentInRedChamber|真]].
 
 [[183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260]] brings 薛宝钗 into the Li Shangyin branch through the shooting-cover game where [[Xiangling|香菱]] identifies "宝钗无日不生尘" as coming from [[LiShangyin|李商隐]]'s 《残花》. The episode treats this as evidence that [[HongLouMeng|《红楼梦》]] expects characters and readers to know Li Shangyin's poetry well enough for allusive play.
 

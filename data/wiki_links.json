@@ -11463,6 +11463,14 @@
     "title": "Graham Wetzbarger",
     "url": "/wiki/entities/grahamwetzbarger/"
   },
+  "GrandViewGarden": {
+    "title": "大观园 / Grand View Garden",
+    "url": "/wiki/entities/grandviewgarden/"
+  },
+  "GrandViewGardenYouthUtopia": {
+    "title": "大观园青春乌托邦 / Grand View Garden Youth Utopia",
+    "url": "/wiki/concepts/grandviewgardenyouthutopia/"
+  },
   "GrassrootsPrivateEntrepreneurship": {
     "title": "Grassroots Private Entrepreneurship",
     "url": "/wiki/concepts/grassrootsprivateentrepreneurship/"
@@ -14075,9 +14083,25 @@
     "title": "贾府 / Jia Family Household",
     "url": "/wiki/entities/jiafamilyhousehold/"
   },
+  "JiaLian": {
+    "title": "贾琏 / Jia Lian",
+    "url": "/wiki/entities/jialian/"
+  },
   "JiaMu": {
     "title": "贾母 / Jia Mu",
     "url": "/wiki/entities/jiamu/"
+  },
+  "JiaQiang": {
+    "title": "贾蔷 / Jia Qiang",
+    "url": "/wiki/entities/jiaqiang/"
+  },
+  "JiaYuanchun": {
+    "title": "贾元春 / Jia Yuanchun",
+    "url": "/wiki/entities/jiayuanchun/"
+  },
+  "JiaYucun": {
+    "title": "贾雨村 / Jia Yucun",
+    "url": "/wiki/entities/jiayucun/"
   },
   "JiaguwenDeGushi": {
     "title": "《甲骨文的故事》",
@@ -17546,6 +17570,10 @@
   "Miaoya": {
     "title": "妙鸭",
     "url": "/wiki/entities/miaoya/"
+  },
+  "Miaoyu": {
+    "title": "妙玉 / Miaoyu",
+    "url": "/wiki/entities/miaoyu/"
   },
   "MichaelCoppenheifer": {
     "title": "Michael Coppenheifer",
@@ -21543,6 +21571,10 @@
     "title": "轻刀快马 / Qingdao Kuaima",
     "url": "/wiki/entities/qingdaokuaima/"
   },
+  "Qingwen": {
+    "title": "晴雯 / Qingwen",
+    "url": "/wiki/entities/qingwen/"
+  },
   "QiqiaoRitualPractice": {
     "title": "Qiqiao Ritual Practice",
     "url": "/wiki/concepts/qiqiaoritualpractice/"
@@ -21919,6 +21951,14 @@
     "title": "Red Bull Racing",
     "url": "/wiki/entities/redbullracing/"
   },
+  "RedChamberDreamStructure": {
+    "title": "红楼梦结构 / Red Chamber Dream Structure",
+    "url": "/wiki/concepts/redchamberdreamstructure/"
+  },
+  "RedChamberEntryReading": {
+    "title": "红楼入口式阅读 / Red Chamber Entry Reading",
+    "url": "/wiki/concepts/redchamberentryreading/"
+  },
   "RedChamberFamilyHistoryEcho": {
     "title": "红楼家族史回声 / Red Chamber Family History Echo",
     "url": "/wiki/concepts/redchamberfamilyhistoryecho/"
@@ -21926,6 +21966,10 @@
   "RedChamberLegalReading": {
     "title": "红楼法律阅读 / Red Chamber Legal Reading",
     "url": "/wiki/concepts/redchamberlegalreading/"
+  },
+  "RedChamberVersionAndSequelReading": {
+    "title": "红楼版本与续书阅读 / Red Chamber Version And Sequel Reading",
+    "url": "/wiki/concepts/redchamberversionandsequelreading/"
   },
   "RedCliffFu": {
     "title": "《赤壁赋》 / Red Cliff Fu",
@@ -23846,6 +23890,10 @@
   "ShiLei": {
     "title": "时雷 / Shi Lei",
     "url": "/wiki/entities/shilei/"
+  },
+  "ShiXiangyun": {
+    "title": "史湘云 / Shi Xiangyun",
+    "url": "/wiki/entities/shixiangyun/"
   },
   "ShiYiZhiCiZouBaoxian": {
     "title": "《事已至此，走保险》",
@@ -26787,6 +26835,10 @@
     "title": "Truthful Social Proof",
     "url": "/wiki/concepts/truthfulsocialproof/"
   },
+  "TruthfulTemperamentInRedChamber": {
+    "title": "红楼之真 / Truthful Temperament In Red Chamber",
+    "url": "/wiki/concepts/truthfultemperamentinredchamber/"
+  },
   "Tsathoggua": {
     "title": "Tsathoggua / 萨托古雅",
     "url": "/wiki/entities/tsathoggua/"
@@ -26878,6 +26930,10 @@
   "TwoRoundPresidentialElection": {
     "title": "Two-Round Presidential Election",
     "url": "/wiki/concepts/tworoundpresidentialelection/"
+  },
+  "TwoWorldsOfRedChamberDream": {
+    "title": "《红楼梦的两个世界》 / Two Worlds of Dream of the Red Chamber",
+    "url": "/wiki/entities/twoworldsofredchamberdream/"
   },
   "TylerShultz": {
     "title": "Tyler Shultz",
@@ -28615,6 +28671,10 @@
     "title": "兴盛优选 / Xingsheng Youxuan",
     "url": "/wiki/entities/xingshengyouxuan/"
   },
+  "Xiren": {
+    "title": "袭人 / Xiren",
+    "url": "/wiki/entities/xiren/"
+  },
   "XiuLife": {
     "title": "Xiu Life / 秀生活",
     "url": "/wiki/entities/xiulife/"
@@ -28682,6 +28742,10 @@
   "XueBaochai": {
     "title": "薛宝钗 / Xue Baochai",
     "url": "/wiki/entities/xuebaochai/"
+  },
+  "XuePan": {
+    "title": "薛蟠 / Xue Pan",
+    "url": "/wiki/entities/xuepan/"
   },
   "XujingQitan": {
     "title": "《虚境奇谭》",
@@ -28971,6 +29035,10 @@
     "title": "YouGov",
     "url": "/wiki/entities/yougov/"
   },
+  "YouSanjie": {
+    "title": "尤三姐 / You Sanjie",
+    "url": "/wiki/entities/yousanjie/"
+  },
   "YouShengDianYing": {
     "title": "《有声电影》",
     "url": "/wiki/entities/youshengdianying/"
@@ -29050,6 +29118,10 @@
   "YuYi": {
     "title": "Yu Yi",
     "url": "/wiki/entities/yuyi/"
+  },
+  "YuYingshi": {
+    "title": "余英时 / Yu Yingshi",
+    "url": "/wiki/entities/yuyingshi/"
   },
   "YuanShanla": {
     "title": "Yuan Shanla / 袁善辣",
@@ -30426,6 +30498,10 @@
   "riding-with-the-repo-man-update": {
     "title": "Riding with the repo man (update)",
     "url": "/wiki/sources/riding-with-the-repo-man-update/"
+  },
+  "ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638": {
+    "title": "日谈串台｜红楼梦：还是可以读一读的",
+    "url": "/wiki/sources/ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638/"
   },
   "ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425": {
     "title": "日谈串台｜姐妹聊天会：重启人生也是我最妖娇",

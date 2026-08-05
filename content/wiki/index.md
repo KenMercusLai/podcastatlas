@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [日谈串台｜红楼梦：还是可以读一读的](sources/ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638.md) — 蜜獾吃书 and 日谈 crossover introducing 《红楼梦》 through chapter-3 entry advice, Daiyu/Baoyu/Qingwen/Lingguan, Grand View Garden, poetry, female friendship, versions, sequels, and Redology guardrails.
 - [三联串台｜神赐给人葡萄，世界微醺了](sources/sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156.md) — 蜜獾吃书/Sanlian crossover with 黑麦 on wine as agriculture and culture, terroir, natural wine, taste training, food writing, and finding one's own palate.
 - [27.希区柯克已在您桌下安置炸弹](sources/27-xiqukeke-yizai-nin-zhuoxia-anzhi-zhadan-582370829.md) — 蜜獾吃书 episode on Alfred Hitchcock, Psycho, MacGuffin, bomb-under-table suspense, narrative misdirection, and Hitchcockian moral irony in short-story reversals.
 - [26.牛顿与伪币制造者：可能是斯内普的原型？](sources/26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317.md) — 蜜獾吃书 episode on Isaac Newton, 《牛顿与伪币制造者》, the Royal Mint, the Great Recoinage, William Chaloner, counterfeiting, alchemy, and Newton as scientist-bureaucrat.
@@ -702,6 +703,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [晴雯 / Qingwen](entities/Qingwen.md) — Red Chamber maid read as a figure of truthfulness, self-respect, and vulnerability under household hierarchy.
+- [史湘云 / Shi Xiangyun](entities/ShiXiangyun.md) — Red Chamber character whose quick poetic talent and friendship with Daiyu show women's relations beyond Baoyu.
+- [妙玉 / Miaoyu](entities/Miaoyu.md) — Red Chamber character entering the Mid-Autumn linked-poem scene as a poetic and tonal counterweight to Daiyu and Xiangyun.
+- [贾元春 / Jia Yuanchun](entities/JiaYuanchun.md) — Red Chamber figure whose status opens and temporarily protects Grand View Garden.
+- [尤三姐 / You Sanjie](entities/YouSanjie.md) — Red Chamber character read through active will, clear-sightedness toward Jia men, and tragic constraint after rejected marriage.
+- [袭人 / Xiren](entities/Xiren.md) — Red Chamber character used as an adaptive survival contrast to Daiyu and Qingwen.
+- [薛蟠 / Xue Pan](entities/XuePan.md) — Red Chamber male character used to distinguish flawed, spoiled grayness from more active corruption.
+- [贾琏 / Jia Lian](entities/JiaLian.md) — Red Chamber male character used in the episode's gray male-world discussion.
+- [贾雨村 / Jia Yucun](entities/JiaYucun.md) — Red Chamber figure named as a more typical corrupt actor and possible Jia-household downfall link.
+- [贾蔷 / Jia Qiang](entities/JiaQiang.md) — Red Chamber character whose relation with Lingguan teaches Baoyu emotional limitation.
+- [大观园 / Grand View Garden](entities/GrandViewGarden.md) — Protected youth space in 《红楼梦》 where poetry, games, friendship, and truthfulness briefly gather.
+- [余英时 / Yu Yingshi](entities/YuYingshi.md) — Scholar recommended in the episode as a route into Redology without replacing literary reading.
+- [《红楼梦的两个世界》 / Two Worlds of Dream of the Red Chamber](entities/TwoWorldsOfRedChamberDream.md) — Yu Yingshi book recommended as a Red Chamber scholarship entry point.
 - [Wine / 葡萄酒](entities/Wine.md) — Agricultural drink and cultural object connecting terroir, natural wine, taste training, food writing, material history, and personal palate discovery.
 - [黑麦 / Heimai](entities/Heimai.md) — 三联生活周刊 writer whose wine, food, media, kitchen, and family-memory experiences anchor the Sanlian crossover episode.
 - [三联生活周刊 / Sanlian Life Weekly](entities/SanlianLifeWeekly.md) — Chinese culture and lifestyle media context for 黑麦's food, wine, and taste-writing practice.
@@ -4841,6 +4855,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [红楼入口式阅读 / Red Chamber Entry Reading](concepts/RedChamberEntryReading.md) — Practical method for entering 《红楼梦》 through chapter 3 and multiple reader hooks without reducing the novel to one use.
+- [大观园青春乌托邦 / Grand View Garden Youth Utopia](concepts/GrandViewGardenYouthUtopia.md) — Reading of Daguan Garden as a temporary youth/female space protected by Yuan Chun and doomed by the return of social order.
+- [红楼之真 / Truthful Temperament In Red Chamber](concepts/TruthfulTemperamentInRedChamber.md) — Frame for Daiyu, Qingwen, Lingguan, and related figures whose self-respect and emotional directness make them beautiful and vulnerable.
+- [红楼版本与续书阅读 / Red Chamber Version And Sequel Reading](concepts/RedChamberVersionAndSequelReading.md) — Guardrail for reading front eighty chapters, Zhiyanzhai commentary, Cheng-Gao variants, and contested last-forty-chapter continuations.
+- [红楼梦结构 / Red Chamber Dream Structure](concepts/RedChamberDreamStructure.md) — Multi-scale dream reading of Baoyu's fifth-chapter dream, Grand View Garden, and the Jia household's rise and fall.
 - [Wine As Agricultural Culture](concepts/WineAsAgriculturalCulture.md) — Frame for treating wine first as a farmed, fermented, place-bound material rather than as a luxury credential.
 - [Wine Terroir / 葡萄酒风土](concepts/WineTerroir.md) — Source frame for wine place-character as soil, climate, geography, surrounding smells, and human practice together.
 - [Taste Training](concepts/TasteTraining.md) — Sensory-learning practice built from comparison, repeated tasting, vocabulary, and bodily attention across wine, tea, coffee, perfume, and food.

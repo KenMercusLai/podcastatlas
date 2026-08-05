@@ -2,11 +2,13 @@
 title: "贾宝玉 / Jia Baoyu"
 type: entity
 tags: [fictional-character, literature, hongloumeng]
-sources: [01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260]
-last_updated: 2026-07-23
+sources: [ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260]
+last_updated: 2026-08-05
 ---
 
 # 贾宝玉 / Jia Baoyu
+
+[[ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638]] reads 贾宝玉's "uselessness" as part of his ethical value. The episode argues that his "意淫" is not ordinary lust but a way of seeing women as people like himself; at the same time, [[Lingguan|龄官]] and [[JiaQiang|贾蔷]] teach him that sensitivity does not entitle him to every girl's tears. This extends the page from comparison and legal pressure into [[TruthfulTemperamentInRedChamber]], [[GrandViewGardenYouthUtopia]], and emotional limitation.
 
 [[01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422]] adds a cross-cultural comparison branch that treats [[HoldenCaulfield|Holden Caulfield / 霍尔顿]] from [[TheCatcherInTheRye|《麦田里的守望者》]] as a "20th-century American Jia Baoyu." The episode's point is not plot equivalence, but shared temperament: privileged youth, school resistance, sensitivity, love of literature, tenderness toward younger or female figures, and disgust toward hypocrisy, vulgarity, and adult social performance.
 

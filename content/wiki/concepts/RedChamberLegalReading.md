@@ -2,11 +2,13 @@
 title: "红楼法律阅读 / Red Chamber Legal Reading"
 type: concept
 tags: [literature, law, hongloumeng, social-history]
-sources: [167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]
-last_updated: 2026-07-24
+sources: [ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]
+last_updated: 2026-08-05
 ---
 
 # 红楼法律阅读 / Red Chamber Legal Reading
+
+[[ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638]] complements this legal method from a more literary entry angle. It does not replace law with temperament, but shows why [[TruthfulTemperamentInRedChamber|真]], [[GrandViewGarden|大观园]], youth, female friendship, and [[JiaYuanchun|贾元春]]'s temporary protection become tragic only because the wider social and ethical order eventually returns.
 
 红楼法律阅读 / Red Chamber legal reading is the source's method for reading [[HongLouMeng|《红楼梦》]] through concrete legal and social institutions rather than through totalizing dynastic allegory. In [[167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324]], [[MingRuoZhaoShuang|《命若朝霜》]] helps the hosts connect the novel's opening legal case, marriage rules, inheritance, status hierarchy, household performers, and confiscation into one interpretive field.
 

@@ -2,11 +2,13 @@
 title: "《红楼梦》 / Dream of the Red Chamber"
 type: entity
 tags: [book, literature, chinese-classics, novel]
-sources: [fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]
-last_updated: 2026-08-04
+sources: [ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638, fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]
+last_updated: 2026-08-05
 ---
 
 # 《红楼梦》 / Dream of the Red Chamber
+
+[[ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638]] adds an explicit reader-entry and version-reading branch. The [[MihuanChishu|蜜獾吃书]] / [[Ritan|日谈]] crossover argues that the novel can be entered from chapter 3, [[GrandViewGarden|大观园]], poetry games, love, women, or version questions, but should not be reduced to romance, workplace lessons, dynastic code, or family archive. It adds [[RedChamberEntryReading]], [[TruthfulTemperamentInRedChamber]], [[GrandViewGardenYouthUtopia]], [[RedChamberDreamStructure]], and [[RedChamberVersionAndSequelReading]] as the episode's main frames.
 
 [[114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117]] adds a food-and-poetry branch through the Grand View Garden crab banquet. The episode contrasts [[JinPingMei|《金瓶梅》]]'s more worldly crab dish with [[HongLouMeng|《红楼梦》]]'s steamed-crab scene, then reads the poems by [[JiaBaoyu|贾宝玉]], [[LinDaiyu|林黛玉]], and [[XueBaochai|薛宝钗]] as character work: Baoyu's boyish ease, Daiyu's joy-shadowed sadness, and Baochai's sharper satire of those who横行 and eventually enter the pot.
 
