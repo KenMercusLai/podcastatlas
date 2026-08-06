@@ -2,7 +2,7 @@
 title: "Portfolio Suitability"
 type: concept
 tags: [investing, portfolio, personal-finance, behavior]
-sources: [135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+sources: [136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
 last_updated: 2026-08-06
 ---
 
@@ -30,6 +30,8 @@ The personal side is a two-axis map. One axis asks what the investor needs: liqu
 
 [[134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg]] adds the master-copying version. A famous investor's approach may be intellectually useful and still unsuitable if the listener lacks the same professional role, research process, capital base, instrument access, or emotional endurance.
 
+[[136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt]] adds the bank wealth-management version through [[BankWealthProductSuitability]]. A product can be bank-distributed, low-volatility, and familiar to parents or households while still requiring a fit check around product role, underlying assets, valuation method, liquidity, institution capability, and whether the displayed annualized return is repeatable.
+
 ## Key Claims
 - Suitability is not a universal model portfolio; it is the match between portfolio job, investor understanding, and tolerable risk path.
 - Near-term money should not be placed in the same assets as long-term FIRE, passive-income, or intergenerational goals.
@@ -47,6 +49,7 @@ The personal side is a two-axis map. One axis asks what the investor needs: liqu
 - Vol.126 adds that active public-fund suitability includes fund-company and channel suitability: a good manager label is not enough if sales incentives, fee opacity, redemption behavior, or weak governance make the product hard to hold.
 - Episode 134 adds that suitability should be checked before imitating a master, not after the copied position starts causing stress.
 - Episode 135 adds that information diet, account separation, and willingness to ignore macro events can be part of suitability.
+- Episode 136 adds that bank wealth-management suitability starts with product job and asset mechanics: cash-management and low-volatility fixed income are different from equity, multi-asset, or "fixed income plus" products.
 
 ## Connections
 - [[AssetAllocation]] — broader portfolio construction discipline.
@@ -64,3 +67,4 @@ The personal side is a two-axis map. One axis asks what the investor needs: liqu
 - [[PublicMutualFundEcosystem]], [[FundDistributionIncentives]], [[FundRedemptionLiquidityPressure]], [[FundInvestorReturnGap]], and [[ContractualFundGovernanceGap]] — vol.126's active-public-fund suitability extension.
 - [[InvestmentMasterNarrative]], [[InvestmentStyleMap]], [[EraTailwindInInvesting]], and [[InvestorIdolRisk]] — episode 134's master-study and non-copyability extension.
 - [[OrdinaryInvestorMacroBoundary]], [[InvestmentPlanExecutionDiscipline]], and [[SleepWellPortfolioTest]] — episode 135's attention and account-separation extension.
+- [[ChineseBankWealthManagement]], [[BankWealthProductSuitability]], [[WealthManagementFundPoolRisk]], and [[InvestmentLiquidityTradeoff]] — episode 136's bank wealth-management product-fit extension.

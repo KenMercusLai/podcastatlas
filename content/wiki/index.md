@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [136.银行理财还能怎么买？](sources/136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt.md) — 起朱楼宴宾客 episode on Chinese bank wealth management, bank wealth-management subsidiaries, 资管新规, fund-pool and implicit-guarantee risk, net-value transformation, and why cash-management and low-volatility fixed-income products fit the category better than equity or multi-asset promises.
 - [135.宏观大事频发期如何保持定力？| 投资账2025半年度复盘](sources/135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq.md) — 起朱楼宴宾客 half-year 投资账 review on ordinary-investor macro boundaries, April tariff-war calm, staged deployment discipline, short Treasuries, gold rebalancing, dividend-technology barbell, and Hong Kong IPO cash optionality.
 - [134. 投资大师系列先导篇：“他们不只赚了很多钱，更创造了理解世界的方法”](sources/134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg.md) — 起朱楼宴宾客 paid-series preview with 大卫翁, 小小跑, and 雨白 on investment masters as historically situated market methods, style maps, era tailwinds, worldview fit, and the risk of copying famous investors.
 - [133.全球宏观和资本市场2025年中盘点：中国的三个温差和美国的三个预期差](sources/133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc.md) — 起朱楼宴宾客 mid-year macro and capital-market review with 大卫翁 and Ricky on China temperature gaps, Hong Kong-led asset repricing, innovation drugs, RMB/rates, U.S. AI/fiscal/dollar expectation gaps, gold, cash, bonds, and private-credit tail risk.
@@ -757,6 +758,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [China Banking and Insurance Regulatory Commission / 银保监会](entities/ChinaBankingAndInsuranceRegulatoryCommission.md) — Banking-and-insurance regulator tied by episode 136 to the approval of bank wealth-management subsidiaries after 资管新规.
+- [China Construction Bank / 建设银行](entities/ChinaConstructionBank.md) — State bank used by episode 136 as a first-approval and first-opening case for bank wealth-management subsidiaries.
+- [China Everbright Bank / 光大银行](entities/ChinaEverbrightBank.md) — Bank credited by episode 136 with an early RMB retail bank wealth-management product and later mentioned in bank wealth-management product selection.
+- [Shanghai Pudong Development Bank / 浦发银行](entities/ShanghaiPudongDevelopmentBank.md) — Bank case tied by episode 136 to Pufa Wealth legacy-risk, stock-pledge, and equity-direct-investment cleanup.
+- [Ping An Bank / 平安银行](entities/PingAnBank.md) — Bank case in episode 136 for wealth-management return-to-balance-sheet impairments and non-credit asset cleanup.
 - [投资大师系列 / Investment Masters Series](entities/InvestmentMastersSeries.md) — Paid cross-show podcast project framing famous investors as market-history and worldview cases rather than copyable strategy templates.
 - [小小跑 / XiaoXiaoPao](entities/XiaoXiaoPao.md) — Episode 134 speaker from 文力两开花 and 强烈谈, emphasizing market-history reconstruction, era tailwinds, style maps, and non-worship of investment masters.
 - [雨白 / Yubai](entities/Yubai.md) — 小酒馆 speaker in episode 134 who represents non-specialist listener questions and keeps the investment-master series from becoming closed financial jargon.
@@ -777,7 +783,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Inovance Technology / 汇川技术](entities/InovanceTechnology.md) — Chinese automation, EV, and robotics company showing domestic substitution, cluster scale, and infrastructure-demand exposure.
 - [Mindray Medical / 迈瑞医疗](entities/MindrayMedical.md) — Chinese medical-device and digital-health company linking procurement pressure to integrated device, IT, and AI platform evolution.
 - [Hang Lung Properties / 恒隆地产](entities/HangLungProperties.md) — Property and retail company whose annual-report tone is used as evidence for weak but possibly bottoming China sentiment.
-- [China Merchants Bank / 招商银行](entities/ChinaMerchantsBank.md) — Bank used for consumer-credit, mortgage-quality, and household balance-sheet stress signals.
+- [China Merchants Bank / 招商银行](entities/ChinaMerchantsBank.md) — Bank used for consumer-credit and mortgage stress signals, now also tied to episode 136's bank wealth-management subsidiary and product-suitability context.
 - [Anta Sports / 安踏](entities/AntaSports.md) — Chinese sportswear group used as a consumer-brand operating-system and multi-brand evolution case.
 - [SF Holding / 顺丰控股](entities/SFHolding.md) — Logistics company used as infrastructure for Chinese consumer-chain globalization.
 - [Roborock / 石头科技](entities/Roborock.md) — Smart-cleaning and appliance company used as a technology-platform reuse case.
@@ -4768,7 +4774,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [孔祥熙](entities/KongXiangxi.md) — Finance-ministry and family-network figure in EP23's construction-bond speculation explanation.
 - [宋爱玲](entities/SoongAiLing.md) — Political-family figure used by EP23 to connect fake-money and treasury-bond stories to elite financial power.
 - [Central Bank of China](entities/CentralBankOfChina.md) — Nationalist-era central bank discussed through recruitment, fiscal funding, debt issuance, and currency credibility.
-- [Bank of China](entities/BankOfChina.md) — Republican-era bank tied by EP23 to international exchange, trade settlement, and Bund financial geography.
+- [Bank of China](entities/BankOfChina.md) — Bank tied to Republican-era exchange and remittance history, and to episode 136's first bank wealth-management subsidiary approvals.
 - [Bank of Communications](entities/BankOfCommunications.md) — Republican-era bank named in EP23's "four banks" structure and associated with transport-related finance.
 - [China Farmers Bank](entities/ChinaFarmersBank.md) — Republican-era bank named in EP23's "four banks" structure, showing differentiated institutional mandates.
 - [Standard Chartered](entities/StandardChartered.md) — Foreign-bank example in EP23's Bund and Shanghai financial-geography discussion.
@@ -5201,6 +5207,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese Bank Wealth Management / 中国式银行理财](concepts/ChineseBankWealthManagement.md) — Episode 136 frame for bank-channel Chinese wealth products shaped by expected returns, off-balance-sheet credit, implicit guarantees, and post-资管新规 net-value transformation.
+- [Bank Wealth-Management Subsidiary / 银行理财子公司](concepts/BankWealthManagementSubsidiary.md) — Post-资管新规 legal carrier for bank wealth-management business, inheriting bank channels, legacy assets, and parent-bank culture.
+- [Asset Management New Rules / 资管新规](concepts/AssetManagementNewRules.md) — Regulatory turning point requiring asset-management products to break implicit guarantees, ban fund pools, reduce nesting, and move toward net-value disclosure.
+- [Wealth-Management Fund Pool Risk / 银行理财资金池风险](concepts/WealthManagementFundPoolRisk.md) — Bank wealth-management risk mechanism combining maturity mismatch, pooled operation, amortized-cost smoothing, non-standard credit, and implicit guarantees.
+- [Bank Wealth Product Suitability / 银行理财产品适配](concepts/BankWealthProductSuitability.md) — Episode 136 buying rule that bank wealth products fit cash and low-volatility fixed-income jobs better than complex equity, multi-asset, or yield-display-driven promises.
 - [Ordinary Investor Macro Boundary](concepts/OrdinaryInvestorMacroBoundary.md) — Episode 135 rule separating macro relevance from macro tradability for ordinary household investors.
 - [Investment Plan Execution Discipline](concepts/InvestmentPlanExecutionDiscipline.md) — Episode 135 lesson that staged deployment plans preserve liquidity, judgment, and future action before the investor knows which drawdown will matter.
 - [Dividend-Technology Barbell / 红利科技杠铃](concepts/DividendTechnologyBarbell.md) — Episode 135 China-equity barbell separating dividend cash-flow/governance exposure from disruptive technology exposure.

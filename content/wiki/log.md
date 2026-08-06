@@ -6053,3 +6053,11 @@ Added source page for a 起朱楼宴宾客 half-year 投资账 review by 大卫�
 ## [2026-08-06] lint | Wiki health check
 
 Ran health before lint; health scanned 8,560 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while the current wiki scan found 8,560 pages, so graph findings are advisory until `build graph` refreshes it; the graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint failed because no provider-qualified `LLM_MODEL` or provider API key is configured in the shell environment. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-06] ingest | 136.银行理财还能怎么买？
+
+Added source page for a 起朱楼宴宾客 episode by 大卫翁 on Chinese bank wealth management, bank wealth-management subsidiaries, 资管新规, fund-pool maturity mismatch, implicit guarantees, net-value transformation, and the current buying boundary for cash-management and low-volatility fixed-income products. Created pages for Chinese Bank Wealth Management, Bank Wealth-Management Subsidiary, Asset Management New Rules, Wealth-Management Fund Pool Risk, Bank Wealth Product Suitability, China Banking and Insurance Regulatory Commission, China Construction Bank, China Everbright Bank, Shanghai Pudong Development Bank, and Ping An Bank; updated overview, index, 起朱楼宴宾客, 大卫翁, China Merchants Bank, Bank of China, Portfolio Suitability, Public Mutual Fund Ecosystem, Financial Platform Incentives, Investment Liquidity Tradeoff, and Investment Risk Management. No direct contradiction found; the source reinforces the investment impossible triangle and extends the wiki's fund/product suitability branch by showing why old smooth bank wealth returns depended on hidden credit, liquidity, accounting, and guarantee mechanisms.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

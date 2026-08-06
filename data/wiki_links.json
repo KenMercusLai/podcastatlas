@@ -267,6 +267,10 @@
     "title": "136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS",
     "url": "/wiki/sources/136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v/"
   },
+  "136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt": {
+    "title": "136.银行理财还能怎么买？",
+    "url": "/wiki/sources/136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt/"
+  },
   "137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1": {
     "title": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费",
     "url": "/wiki/sources/137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1/"
@@ -3431,6 +3435,10 @@
     "title": "Asset-Light Vs Heavy-Asset Models",
     "url": "/wiki/concepts/assetlightvsheavyassetmodels/"
   },
+  "AssetManagementNewRules": {
+    "title": "Asset Management New Rules / 资管新规",
+    "url": "/wiki/concepts/assetmanagementnewrules/"
+  },
   "AssetRevaluationTheory": {
     "title": "Asset Revaluation Theory",
     "url": "/wiki/concepts/assetrevaluationtheory/"
@@ -3906,6 +3914,14 @@
   "BankTraineeSystem": {
     "title": "Bank Trainee System",
     "url": "/wiki/concepts/banktraineesystem/"
+  },
+  "BankWealthManagementSubsidiary": {
+    "title": "Bank Wealth-Management Subsidiary / 银行理财子公司",
+    "url": "/wiki/concepts/bankwealthmanagementsubsidiary/"
+  },
+  "BankWealthProductSuitability": {
+    "title": "Bank Wealth Product Suitability / 银行理财产品适配",
+    "url": "/wiki/concepts/bankwealthproductsuitability/"
   },
   "BankingComplianceBoundaries": {
     "title": "Banking Compliance Boundaries",
@@ -5979,6 +5995,10 @@
     "title": "China as Trump Narrative Enemy",
     "url": "/wiki/concepts/chinaastrumpnarrativeenemy/"
   },
+  "ChinaBankingAndInsuranceRegulatoryCommission": {
+    "title": "China Banking and Insurance Regulatory Commission / 银保监会",
+    "url": "/wiki/entities/chinabankingandinsuranceregulatorycommission/"
+  },
   "ChinaBicycleShortageEconomy": {
     "title": "China Bicycle Shortage Economy",
     "url": "/wiki/concepts/chinabicycleshortageeconomy/"
@@ -6007,6 +6027,10 @@
     "title": "中国传媒大学 / Communication University of China",
     "url": "/wiki/entities/chinacommunicationuniversity/"
   },
+  "ChinaConstructionBank": {
+    "title": "China Construction Bank / 建设银行",
+    "url": "/wiki/entities/chinaconstructionbank/"
+  },
   "ChinaCorporateAntiInvolution": {
     "title": "China Corporate Anti-Involution",
     "url": "/wiki/concepts/chinacorporateantiinvolution/"
@@ -6018,6 +6042,10 @@
   "ChinaDivorceRestrictions": {
     "title": "China Divorce Restrictions",
     "url": "/wiki/concepts/chinadivorcerestrictions/"
+  },
+  "ChinaEverbrightBank": {
+    "title": "China Everbright Bank / 光大银行",
+    "url": "/wiki/entities/chinaeverbrightbank/"
   },
   "ChinaFarmersBank": {
     "title": "China Farmers Bank",
@@ -6126,6 +6154,10 @@
   "ChineseAstrologicalPolitics": {
     "title": "Chinese Astrological Politics / 中国星占政治",
     "url": "/wiki/concepts/chineseastrologicalpolitics/"
+  },
+  "ChineseBankWealthManagement": {
+    "title": "Chinese Bank Wealth Management / 中国式银行理财",
+    "url": "/wiki/concepts/chinesebankwealthmanagement/"
   },
   "ChineseBasketballAssociation": {
     "title": "中国男子篮球职业联赛 / Chinese Basketball Association",
@@ -22203,6 +22235,10 @@
     "title": "Pinduoduo",
     "url": "/wiki/entities/pinduoduo/"
   },
+  "PingAnBank": {
+    "title": "Ping An Bank / 平安银行",
+    "url": "/wiki/entities/pinganbank/"
+  },
   "PingAnGoodDoctor": {
     "title": "平安好医生",
     "url": "/wiki/entities/pingangooddoctor/"
@@ -25718,6 +25754,10 @@
   "ShanghaiMaglev": {
     "title": "Shanghai Maglev / 上海磁悬浮",
     "url": "/wiki/entities/shanghaimaglev/"
+  },
+  "ShanghaiPudongDevelopmentBank": {
+    "title": "Shanghai Pudong Development Bank / 浦发银行",
+    "url": "/wiki/entities/shanghaipudongdevelopmentbank/"
   },
   "ShanghaiStockExchange": {
     "title": "Shanghai Stock Exchange",
@@ -30286,6 +30326,10 @@
   "WeakTieOpportunity": {
     "title": "Weak-Tie Opportunity",
     "url": "/wiki/concepts/weaktieopportunity/"
+  },
+  "WealthManagementFundPoolRisk": {
+    "title": "Wealth-Management Fund Pool Risk / 银行理财资金池风险",
+    "url": "/wiki/concepts/wealthmanagementfundpoolrisk/"
   },
   "Wealthfront": {
     "title": "Wealthfront",

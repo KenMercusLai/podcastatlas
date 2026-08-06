@@ -3,6 +3,7 @@ title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
 sources:
+  - 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt
   - 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq
   - 134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg
   - vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v
@@ -86,6 +87,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 [[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] adds the mid-year revision version: a good first-half trade does not remove the need to separate valuation repair from earnings recovery, AI adoption from AI-stock price, gold hedge role from gold faith, bond trend from entry point, and private-credit income from hidden liquidity risk.
 
 [[135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq]] adds the half-year behavior version: even after a profitable period, risk management includes not abandoning a staged deployment plan, avoiding macro-event overtrading, keeping short Treasuries as cash-like reserves rather than rate bets, rebalancing gold back toward its intended shock-absorber role, and reducing market-checking frequency when attention itself becomes a risk.
+
+[[136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt]] adds the bank wealth-management version: risk management for [[ChineseBankWealthManagement|bank wealth products]] means looking past bank trust and smooth historical returns to asset type, valuation method, maturity mismatch, implicit-guarantee history, channel incentives, and whether the product's role fits [[BankWealthProductSuitability]].
 
 [[e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]] adds the multi-asset product version: risk management includes the client's maximum drawdown, path volatility, product comprehension, [[AssetCorrelation]], and whether tactical macro views stay inside a defined allocation sleeve.
 
