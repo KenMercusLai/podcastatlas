@@ -2,11 +2,13 @@
 title: "Intel"
 type: entity
 tags: [company, semiconductors, manufacturing, chips]
-sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]
-last_updated: 2026-08-05
+sources: [150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]
+last_updated: 2026-08-06
 ---
 
 # Intel
+
+[[150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g]] adds Intel as a source-scoped [[ProcessKnowledge]] example. The episode uses Intel to illustrate that advanced manufacturing capability includes tacit factory, process, and organizational memory, not only designs or scientific knowledge.
 
 Intel appears in [[ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]] as one of the few companies still pursuing the most advanced semiconductor process nodes, alongside [[TSMC]] and [[Samsung]]. The source uses Intel to show how expensive and concentrated leading-edge manufacturing has become in the post-[[MooreLaw|Moore's Law]] period.
 
@@ -23,3 +25,4 @@ The episode also connects Intel indirectly to [[GordonMoore|Gordon Moore]] and t
 - [[AdvancedPackaging]] — post-Moore route discussed as process scaling gets harder.
 - [[GPUCloudOperations]], [[AIHardwareSupplyChainPressure]], and [[DataCenterPowerBottleneck]] - E230's deployment-support context.
 - [[MOSFET]], [[DisruptiveInnovation]], [[AndrewGrove]], and [[Nvidia]] — S10E16's history and incumbent-transition context.
+- [[ProcessKnowledge]], [[EngineeringState]], and [[LawyerState]] - episode 150's tacit manufacturing and build-capacity branch.

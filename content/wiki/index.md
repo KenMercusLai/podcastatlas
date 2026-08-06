@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方](sources/150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g.md) — 起朱楼宴宾客 episode reading 洪源远, 李璐, and Dan Wang together on Chinese modernization, poverty-trap escape, weak institutions, directed improvisation, engineering-state process knowledge, and next-stage cultural/service-governance gaps.
 - [149.百五特辑：和两位老媒体人漫谈播客、媒介以及声音生态的未来](sources/149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga.md) — 起朱楼宴宾客 crossover with 杨一 and 欧阳斌 on Chinese podcasting, media trust, living-person voice, platform algorithms, brand podcasts, fragmented commercialization, and long-form audio as a minority but durable medium.
 - [147.再谈日本医疗与照护行业之我曾在北海道的医院当护士](sources/147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp.md) — 起朱楼宴宾客 conversation with 琼琼 on Japanese nursing, no-family-attendant care, multidisciplinary hospital work, universal-coverage practice, medical social work, care socialization, subject-led care, daily dignity, and AI/robot elder-care limits.
 - [146.美国经济这么差，美股还能继续涨吗 | 串台《美轮美换》](sources/146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu.md) — 起朱楼宴宾客 crossover with 美轮美换 on U.S. economic sentiment, shutdown data blindness, tariff inflation, Fed independence, Big Tech-led equity gains, AI bubble spillover, private credit, and entry-level labor pressure.
@@ -770,6 +771,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Yuen Yuen Ang / 洪源远](entities/YuenYuenAng.md) — Political-economy author whose poverty-trap account anchors episode 150's weak-institution, variation-system, and directed-improvisation branch.
+- [《中国如何跳出贫困陷阱》 / How China Escaped the Poverty Trap](entities/HowChinaEscapedPovertyTrap.md) — Yuen Yuen Ang book used by episode 150 to explain China's early market formation through available institutions and local experimentation.
+- [Li Lu / 李璐](entities/LiLu.md) — Investor-author whose modernization and value-investment worldview frames episode 150's civilizational account of China.
+- [《文明、现代化、价值投资与中国》](entities/CivilizationModernizationValueInvestmentChina.md) — Li Lu book used by episode 150 to link Malthusian escape, free-market/science loops, and long-term China judgment.
+- [宋铮 / Song Zheng](entities/SongZheng.md) — Economist cited by episode 150 as an example of the need for reality-oriented Chinese economic research.
+- [Fujian / 福建](entities/Fujian.md) — Coastal province used by episode 150 to show clan, hometown, and overseas-Chinese networks as informal protection for early investment.
+- [Zhejiang / 浙江](entities/Zhejiang.md) — Coastal province used by episode 150 to contrast early private-economy formation with later inland catch-up.
 - [杨一 / Yang Yi](entities/YangYi.md) — Early Chinese podcast practitioner and 忽左忽右 speaker explaining market education, brand-podcast services, and the Chinese-vs-U.S. podcast path.
 - [欧阳斌 / Ouyang Bin](entities/OuyangBin.md) — 去现场 and 725沙龙-side speaker framing the episode from listener, media-observer, and cultural-dialogue perspectives.
 - [忽左忽右 / Huzuo Huyou](entities/HuzuoHuyou.md) — Yang Yi's podcast context used by episode 149 to discuss Chinese podcast ecosystem-building.
@@ -5284,6 +5292,22 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Poverty-Trap Modernization / 贫困陷阱与现代化](concepts/PovertyTrapModernization.md) — Episode 150 synthesis joining Li Lu's compound-growth modernization frame with Yuen Yuen Ang's institutional account of how China escaped poverty.
+- [Malthusian Trap / 马尔萨斯陷阱](concepts/MalthusianTrap.md) — Agricultural-civilization limit that episode 150 uses to define what modernization escapes.
+- [Modernization As Compound Growth / 复合增长式现代化](concepts/ModernizationAsCompoundGrowth.md) — Episode 150 definition of modernization as sustained compounding through productivity, markets, science, and industrial organization.
+- [Free-Market Scientific Loop / 自由市场与现代科学闭环](concepts/FreeMarketScientificLoop.md) — Episode 150 mechanism linking markets, limited government, science, and industrial technology into modern growth.
+- [Imperial Examination Opportunity Equality / 科举与机会平等](concepts/ImperialExaminationOpportunityEquality.md) — Episode 150 reading of 科举 as an agricultural-era opportunity institution that later hardened into constraint.
+- [Development As Variation System / 发展作为变异系统](concepts/DevelopmentAsVariationSystem.md) — Yuen Yuen Ang frame used by episode 150 to reject one-cause or one-sequence development models.
+- [Weak Institutions Market Building / 弱制度启动市场](concepts/WeakInstitutionsMarketBuilding.md) — Episode 150 mechanism where imperfect institutions can start early markets but must later be upgraded.
+- [Directed Improvisation / 引导创变](concepts/DirectedImprovisation.md) — Center-local reform model where central boundaries and incentives combine with local problem-solving.
+- [Local Government Policy Experimentation / 地方政府政策实验](concepts/LocalGovernmentPolicyExperimentation.md) — Episode 150 frame for investment attraction, policy wording, and local adaptation during China's early reform development.
+- [Informal Property-Rights Protection / 非正式产权保护](concepts/InformalPropertyRightsProtection.md) — Clan, hometown, official, and diaspora trust used as partial property protection before formal institutions mature.
+- [Process Knowledge / 过程知识](concepts/ProcessKnowledge.md) — Tacit industrial and engineering know-how retained through repeated building, manufacturing, and practice communities.
+- [Lawyer State / 律师国家](concepts/LawyerState.md) — Dan Wang comparison frame in episode 150 for U.S. procedural, legal, and veto-point governance contrasted with China's engineering state.
+- [Service-Oriented Local Government / 服务型地方政府](concepts/ServiceOrientedLocalGovernment.md) — Episode 150 next-stage problem of moving local government from growth mobilization toward services, welfare, and feedback.
+- [Stranger Trust Sixth Relation / 陌生人第六伦](concepts/StrangerTrustSixthRelation.md) — Li Lu's proposed modern trust relation among strangers, used by episode 150 as part of China's cultural renewal question.
+- [Chinese Modernization Cultural Gap / 中国现代化的文化短板](concepts/ChineseModernizationCulturalGap.md) — Episode 150 warning that China's next modernization gap is cultural, service, humanistic, and social-science capacity rather than engineering alone.
+- [Reality-Oriented Social Science Research / 现实问题导向的社会科学研究](concepts/RealityOrientedSocialScienceResearch.md) — Episode 150 claim that Chinese economic and social research needs stronger grounding in real problems, not only technical polish.
 - [Chinese Podcast Ecosystem / 中文播客生态](concepts/ChinesePodcastEcosystem.md) — Episode 149 frame for platform, hardware, creator, brand, and listener conditions behind Chinese podcast growth.
 - [Podcast Commercialization Fragmentation / 播客商业化分散](concepts/PodcastCommercializationFragmentation.md) — Episode 149 claim that Chinese podcast monetization is real but dispersed across ads, branded shows, services, communities, events, and vertical deals.
 - [Subscription vs Algorithm Podcast Distribution / 播客订阅与算法分发](concepts/SubscriptionVsAlgorithmPodcastDistribution.md) — Tension between stable subscribed podcast relationships and algorithmic discovery or concentration.

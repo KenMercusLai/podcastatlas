@@ -439,6 +439,10 @@
     "title": "150.吃菌！和阿错聊云南的鸡枞、松茸、见手青",
     "url": "/wiki/sources/150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165/"
   },
+  "150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g": {
+    "title": "150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方",
+    "url": "/wiki/sources/150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g/"
+  },
   "151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286": {
     "title": "151.早安,怪物：祝你战胜恐惧，祝你获得康复",
     "url": "/wiki/sources/151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286/"
@@ -6331,6 +6335,10 @@
     "title": "Chinese Model Liberal Arts Constraint",
     "url": "/wiki/concepts/chinesemodelliberalartsconstraint/"
   },
+  "ChineseModernizationCulturalGap": {
+    "title": "Chinese Modernization Cultural Gap / 中国现代化的文化短板",
+    "url": "/wiki/concepts/chinesemodernizationculturalgap/"
+  },
   "ChineseMysteryPublishingEcology": {
     "title": "国产推理出版生态 / Chinese Mystery Publishing Ecology",
     "url": "/wiki/concepts/chinesemysterypublishingecology/"
@@ -6566,6 +6574,10 @@
   "CivilizationAsDeception": {
     "title": "Civilization As Deception",
     "url": "/wiki/concepts/civilizationasdeception/"
+  },
+  "CivilizationModernizationValueInvestmentChina": {
+    "title": "《文明、现代化、价值投资与中国》",
+    "url": "/wiki/entities/civilizationmodernizationvalueinvestmentchina/"
   },
   "CivilizationalMemoryTransmission": {
     "title": "Civilizational Memory Transmission / 文明记忆传承",
@@ -8607,6 +8619,10 @@
     "title": "Developer-First Payment Infrastructure",
     "url": "/wiki/concepts/developerfirstpaymentinfrastructure/"
   },
+  "DevelopmentAsVariationSystem": {
+    "title": "Development As Variation System / 发展作为变异系统",
+    "url": "/wiki/concepts/developmentasvariationsystem/"
+  },
   "DevelopmentProjectUnintendedConsequences": {
     "title": "Development Project Unintended Consequences / 发展项目的意外后果",
     "url": "/wiki/concepts/developmentprojectunintendedconsequences/"
@@ -8822,6 +8838,10 @@
   "DirectToDeviceSatelliteConnectivity": {
     "title": "Direct-To-Device Satellite Connectivity",
     "url": "/wiki/concepts/directtodevicesatelliteconnectivity/"
+  },
+  "DirectedImprovisation": {
+    "title": "Directed Improvisation / 引导创变",
+    "url": "/wiki/concepts/directedimprovisation/"
   },
   "DirectorMythDeflation": {
     "title": "Director Myth Deflation",
@@ -11699,6 +11719,10 @@
     "title": "Free Love Practice Gap / 自由恋爱实践落差",
     "url": "/wiki/concepts/freelovepracticegap/"
   },
+  "FreeMarketScientificLoop": {
+    "title": "Free-Market Scientific Loop / 自由市场与现代科学闭环",
+    "url": "/wiki/concepts/freemarketscientificloop/"
+  },
   "FreeServiceHiddenCost": {
     "title": "Free Service Hidden Cost / 免费服务隐性成本",
     "url": "/wiki/concepts/freeservicehiddencost/"
@@ -11834,6 +11858,10 @@
   "FuhuiQuanshu": {
     "title": "《福惠全书》",
     "url": "/wiki/entities/fuhuiquanshu/"
+  },
+  "Fujian": {
+    "title": "Fujian / 福建",
+    "url": "/wiki/entities/fujian/"
   },
   "FullFunnelCivicTechnology": {
     "title": "Full-Funnel Civic Technology",
@@ -14115,6 +14143,10 @@
     "title": "慧骃 / Houyhnhnms",
     "url": "/wiki/entities/houyhnhnms/"
   },
+  "HowChinaEscapedPovertyTrap": {
+    "title": "《中国如何跳出贫困陷阱》 / How China Escaped the Poverty Trap",
+    "url": "/wiki/entities/howchinaescapedpovertytrap/"
+  },
   "HowIBuiltThis": {
     "title": "How I Built This",
     "url": "/wiki/entities/howibuiltthis/"
@@ -14495,6 +14527,10 @@
     "title": "Imperial Examination As Only Exit",
     "url": "/wiki/concepts/imperialexaminationasonlyexit/"
   },
+  "ImperialExaminationOpportunityEquality": {
+    "title": "Imperial Examination Opportunity Equality / 科举与机会平等",
+    "url": "/wiki/concepts/imperialexaminationopportunityequality/"
+  },
   "ImperialExplorationLogistics": {
     "title": "Imperial Exploration Logistics",
     "url": "/wiki/concepts/imperialexplorationlogistics/"
@@ -14674,6 +14710,10 @@
   "InformalJianghuOrder": {
     "title": "Informal Jianghu Order",
     "url": "/wiki/concepts/informaljianghuorder/"
+  },
+  "InformalPropertyRightsProtection": {
+    "title": "Informal Property-Rights Protection / 非正式产权保护",
+    "url": "/wiki/concepts/informalpropertyrightsprotection/"
   },
   "InformationApocalypse": {
     "title": "Information Apocalypse",
@@ -17219,6 +17259,10 @@
     "title": "Lawrence J. Peter",
     "url": "/wiki/entities/lawrencejpeter/"
   },
+  "LawyerState": {
+    "title": "Lawyer State / 律师国家",
+    "url": "/wiki/concepts/lawyerstate/"
+  },
   "LayeredRobotArchitecture": {
     "title": "Layered Robot Architecture",
     "url": "/wiki/concepts/layeredrobotarchitecture/"
@@ -17462,6 +17506,10 @@
   "LiLiang": {
     "title": "Li Liang",
     "url": "/wiki/entities/liliang/"
+  },
+  "LiLu": {
+    "title": "Li Lu / 李璐",
+    "url": "/wiki/entities/lilu/"
   },
   "LiNing": {
     "title": "Li-Ning",
@@ -17918,6 +17966,10 @@
   "LocalGovernmentEnterpriseRescue": {
     "title": "Local Government Enterprise Rescue",
     "url": "/wiki/concepts/localgovernmententerpriserescue/"
+  },
+  "LocalGovernmentPolicyExperimentation": {
+    "title": "Local Government Policy Experimentation / 地方政府政策实验",
+    "url": "/wiki/concepts/localgovernmentpolicyexperimentation/"
   },
   "LocalJournalism": {
     "title": "Local Journalism",
@@ -18622,6 +18674,10 @@
   "MaltaTaxLoophole": {
     "title": "Malta Tax Loophole",
     "url": "/wiki/concepts/maltataxloophole/"
+  },
+  "MalthusianTrap": {
+    "title": "Malthusian Trap / 马尔萨斯陷阱",
+    "url": "/wiki/concepts/malthusiantrap/"
   },
   "MamaHui": {
     "title": "妈妈会 / Mama Hui",
@@ -20002,6 +20058,10 @@
   "ModernUrbanDisasterRisk": {
     "title": "Modern Urban Disaster Risk",
     "url": "/wiki/concepts/modernurbandisasterrisk/"
+  },
+  "ModernizationAsCompoundGrowth": {
+    "title": "Modernization As Compound Growth / 复合增长式现代化",
+    "url": "/wiki/concepts/modernizationascompoundgrowth/"
   },
   "MoekaIida": {
     "title": "Moeka Iida",
@@ -23147,6 +23207,10 @@
     "title": "Posterous",
     "url": "/wiki/entities/posterous/"
   },
+  "PovertyTrapModernization": {
+    "title": "Poverty-Trap Modernization / 贫困陷阱与现代化",
+    "url": "/wiki/concepts/povertytrapmodernization/"
+  },
   "PowerBatteryIndustryChain": {
     "title": "Power Battery Industry Chain",
     "url": "/wiki/concepts/powerbatteryindustrychain/"
@@ -23438,6 +23502,10 @@
   "ProceduralizedViolence": {
     "title": "Proceduralized Violence / 程序化暴力",
     "url": "/wiki/concepts/proceduralizedviolence/"
+  },
+  "ProcessKnowledge": {
+    "title": "Process Knowledge / 过程知识",
+    "url": "/wiki/concepts/processknowledge/"
   },
   "ProcurementLedTechnologyTransfer": {
     "title": "Procurement-Led Technology Transfer",
@@ -24250,6 +24318,10 @@
   "RealityLabs": {
     "title": "Reality Labs",
     "url": "/wiki/entities/realitylabs/"
+  },
+  "RealityOrientedSocialScienceResearch": {
+    "title": "Reality-Oriented Social Science Research / 现实问题导向的社会科学研究",
+    "url": "/wiki/concepts/realityorientedsocialscienceresearch/"
   },
   "RebeccaBairdRemba": {
     "title": "Rebecca Baird-Remba",
@@ -26127,6 +26199,10 @@
     "title": "ServiceNow",
     "url": "/wiki/entities/servicenow/"
   },
+  "ServiceOrientedLocalGovernment": {
+    "title": "Service-Oriented Local Government / 服务型地方政府",
+    "url": "/wiki/concepts/serviceorientedlocalgovernment/"
+  },
   "ServiceProductization": {
     "title": "Service Productization",
     "url": "/wiki/concepts/serviceproductization/"
@@ -27075,6 +27151,10 @@
     "title": "Song-Yuan Maritime Trade Center",
     "url": "/wiki/concepts/songyuanmaritimetradecenter/"
   },
+  "SongZheng": {
+    "title": "宋铮 / Song Zheng",
+    "url": "/wiki/entities/songzheng/"
+  },
   "SongZiwen": {
     "title": "宋子文",
     "url": "/wiki/entities/songziwen/"
@@ -27818,6 +27898,10 @@
   "StrangeTaleSocialCritique": {
     "title": "Strange Tale Social Critique",
     "url": "/wiki/concepts/strangetalesocialcritique/"
+  },
+  "StrangerTrustSixthRelation": {
+    "title": "Stranger Trust Sixth Relation / 陌生人第六伦",
+    "url": "/wiki/concepts/strangertrustsixthrelation/"
   },
   "StrategicAIInfrastructureDependence": {
     "title": "Strategic AI Infrastructure Dependence",
@@ -30875,6 +30959,10 @@
     "title": "WeRide",
     "url": "/wiki/entities/weride/"
   },
+  "WeakInstitutionsMarketBuilding": {
+    "title": "Weak Institutions Market Building / 弱制度启动市场",
+    "url": "/wiki/concepts/weakinstitutionsmarketbuilding/"
+  },
   "WeakTieOpportunity": {
     "title": "Weak-Tie Opportunity",
     "url": "/wiki/concepts/weaktieopportunity/"
@@ -32235,6 +32323,10 @@
     "title": "Yueban Dongli",
     "url": "/wiki/entities/yuebandongli/"
   },
+  "YuenYuenAng": {
+    "title": "Yuen Yuen Ang / 洪源远",
+    "url": "/wiki/entities/yuenyuenang/"
+  },
   "YueweiCaotangBiji": {
     "title": "《阅微草堂笔记》",
     "url": "/wiki/entities/yueweicaotangbiji/"
@@ -32530,6 +32622,10 @@
   "ZhaoYuanren": {
     "title": "赵元任",
     "url": "/wiki/entities/zhaoyuanren/"
+  },
+  "Zhejiang": {
+    "title": "Zhejiang / 浙江",
+    "url": "/wiki/entities/zhejiang/"
   },
   "ZhenQianjinTaShiXueba": {
     "title": "甄千金他是学霸 / Zhen Qianjin Ta Shi Xueba",
