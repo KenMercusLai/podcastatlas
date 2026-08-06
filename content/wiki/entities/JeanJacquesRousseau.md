@@ -2,8 +2,8 @@
 title: "Jean-Jacques Rousseau / 卢梭"
 type: entity
 tags: [person, philosophy, enlightenment, politics]
-sources: [92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]
-last_updated: 2026-07-24
+sources: [167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]
+last_updated: 2026-08-06
 ---
 
 # Jean-Jacques Rousseau / 卢梭
@@ -14,8 +14,11 @@ The joke lets the source discuss how company competition can make people feel wr
 
 [[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]] adds Rousseau as part of the [[FrenchRevolution|French Revolution]]'s intellectual atmosphere. The episode connects Rousseau-shaped sincerity, publicness, and suspicion of hidden interests to [[RevolutionaryVirtuePolitics]], where virtue can become a test used against political opponents.
 
+[[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] adds Rousseau to the algorithm branch through the Enlightenment/anti-Enlightenment tension. The episode uses him beside [[ImmanuelKant|Kant]] and [[Voltaire|伏尔泰]] to ask whether algorithmic abundance advances knowledge while also encouraging [[AlgorithmicReasonOutsourcing|reason outsourcing]], comparison, passivity, and dependence on externally computed relevance.
+
 ## Connections
 - [[Voltaire|伏尔泰]] - sales rival in the source.
 - [[PhilosophyWorkplaceSatire]] - method that turns intellectual conflict into office conflict.
 - [[WorkplaceHiddenRules]] - unclear credit, role boundaries, and internal competition.
 - [[FrenchRevolution]] and [[RevolutionaryVirtuePolitics]] - episode 125 extension.
+- [[AlgorithmicReasonOutsourcing]], [[ImmanuelKant]], and [[PublicRelevanceAlgorithms]] - episode 167's Enlightenment and algorithm branch.

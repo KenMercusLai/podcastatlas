@@ -2,8 +2,8 @@
 title: "豆瓣 / Douban"
 type: entity
 tags: [platform, reviews, books, media]
-sources: [140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655]
-last_updated: 2026-07-24
+sources: [167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655]
+last_updated: 2026-08-06
 ---
 
 # 豆瓣 / Douban
@@ -12,8 +12,11 @@ last_updated: 2026-07-24
 
 This makes Douban part of the wiki's [[CreatorEvaluationPressure]] branch. In this source, platform scoring revives [[RedPenLogic]] because book reception begins to feel like being graded again, not only like hearing from readers.
 
+[[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] adds Douban as a comparison point in the episode's platform-regime discussion. The source contrasts platform structures by asking how different public spaces shape creator behavior, reputation, and [[AlgorithmicPublicAppearance|public appearance]].
+
 ## Connections
 - [[Jinzi|金子]] and [[HaikeyiDeJinNvshi|《还可以的金女士》]] - author and book case.
 - [[CreatorEvaluationPressure]] - primary concept extended by the source.
 - [[RedPenLogic]] - internal scoring mechanism revived by public ratings.
 - [[AttentionIndustrialization]] - broader attention environment in which rating surfaces gain psychological force.
+- [[AlgorithmicPublicAppearance]] and [[PlatformAffordance]] - episode 167's platform-publicness branch.

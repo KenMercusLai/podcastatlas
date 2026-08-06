@@ -2,8 +2,8 @@
 title: "Immanuel Kant / 康德"
 type: entity
 tags: [person, philosophy, ethics, law]
-sources: [103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]
-last_updated: 2026-07-24
+sources: [167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]
+last_updated: 2026-08-06
 ---
 
 # Immanuel Kant / 康德
@@ -14,9 +14,12 @@ Kant's role is therefore tied to dignity and proportionality. The source contras
 
 [[103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789]] adds Kant as a truth-priority reference around [[HannahArendt|Hannah Arendt]]. The episode connects Arendt's willingness to state painful truths during the [[EichmannInJerusalem|《艾希曼在耶路撒冷》]] controversy to a Kantian refusal to let consequences decide whether truth should be spoken.
 
+[[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] adds Kant as the Enlightenment reference for "using one's own reason." The source uses that formula to frame [[AlgorithmicReasonOutsourcing]]: algorithmic rankings and recommendations may embody calculation while weakening the user's practice of active judgment.
+
 ## Connections
 - [[PunishmentTheoryTradeoff]] - main punishment-theory concept.
 - [[GWFHegel|G. W. F. Hegel / 黑格尔]] - paired retributivist reference in the episode.
 - [[JeremyBentham|Jeremy Bentham / 边沁]] - utilitarian contrast.
 - [[CriminalLawAsPowerLimitation]] - institutional constraint on punishment.
 - [[PoliticalTruthTelling]] - Arendtian truth-speaking frame added by episode 103.
+- [[AlgorithmicReasonOutsourcing]], [[JeanJacquesRousseau]], and [[AutonomyUnderInformationFlow]] - episode 167's algorithm and Enlightenment branch.

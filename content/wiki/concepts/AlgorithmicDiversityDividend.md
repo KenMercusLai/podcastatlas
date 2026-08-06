@@ -2,7 +2,7 @@
 title: "Algorithmic Diversity Dividend / 算法多样性红利"
 type: concept
 tags: [algorithms, media, information-diet, agency]
-sources: [164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]
+sources: [167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]
 last_updated: 2026-08-06
 ---
 
@@ -14,6 +14,8 @@ The concept is not optimism about platforms by default. It says diversity has to
 
 [[164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq]] adds empirical support for the idea that information environments are often leaky. [[HuangShengchun|黄圣淳]] points to [[IncidentalExposure]], [[NewsFindsMe]], and cross-platform use as reasons not to treat [[FilterBubble|filter bubbles]] as total, while still warning that exposure can become [[AffectivePolarization]] or [[AlgorithmicEntertainmentRedirect]] if the feed format is wrong.
 
+[[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] adds a philosophical justification. If each platform is a different cave, then moving among feeds, podcasts, search, books, and conversation can make the projection visible even when no single platform is neutral.
+
 ## Key Claims
 - Information cocoons can be real without being total.
 - Multi-platform use can create a weak form of epistemic redundancy because each system has different ranking incentives and blind spots.
@@ -21,6 +23,7 @@ The concept is not optimism about platforms by default. It says diversity has to
 - Platform diversity is not the same as worldview diversity; different apps can still route the user toward the same identity or outrage market.
 - The concept turns algorithm critique into practice: users cannot exit algorithms completely, but they can avoid letting one filter become the whole world.
 - Episode 164 adds that diversity is not enough by itself; users must also interpret what each platform's affordances and incentives are doing.
+- Episode 167 adds that diversity helps because it reveals cave boundaries: different platforms hide and emphasize different parts of the world.
 
 ## Connections
 - [[InformationCocoon]] and [[GroupPolarization]] — problems the concept qualifies.
@@ -29,3 +32,4 @@ The concept is not optimism about platforms by default. It says diversity has to
 - [[CalculatedPublics]], [[AlgorithmicPredictionLoop]], and [[AlgorithmicRelevanceAssessment]] — algorithmic mechanisms whose effects diversity can partly reveal.
 - [[Douyin]], [[Xiaohongshu]], [[YouTube]], [[Xiaoyuzhou]], and [[Google]] — platform examples in the source's mixed-media environment.
 - [[IncidentalExposure]], [[NewsFindsMe]], [[FilterBubble]], [[AffectivePolarization]], and [[AlgorithmicMediaLiteracy]] — episode 164's leaky-feed and literacy extension.
+- [[AlgorithmicCaveAllegory]], [[AlgorithmicDispersedKnowledge]], and [[FeedCuration]] — episode 167's cave-boundary and dispersed-knowledge extension.

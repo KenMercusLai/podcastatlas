@@ -579,6 +579,10 @@
     "title": "166.悠游长风：温柔的幻想之歌，抚平焦虑的沟壑",
     "url": "/wiki/sources/166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059/"
   },
+  "167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja": {
+    "title": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林",
+    "url": "/wiki/sources/167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja/"
+  },
   "167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324": {
     "title": "167.命若朝霜：为什么红楼梦不需要悼明？",
     "url": "/wiki/sources/167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324/"
@@ -2699,6 +2703,10 @@
     "title": "Algorithmic Anger Engagement",
     "url": "/wiki/concepts/algorithmicangerengagement/"
   },
+  "AlgorithmicCaveAllegory": {
+    "title": "Algorithmic Cave Allegory / 算法洞穴隐喻",
+    "url": "/wiki/concepts/algorithmiccaveallegory/"
+  },
   "AlgorithmicCulturalFlattening": {
     "title": "Algorithmic Cultural Flattening / 算法文化压平",
     "url": "/wiki/concepts/algorithmicculturalflattening/"
@@ -2706,6 +2714,10 @@
   "AlgorithmicDesirePreemption": {
     "title": "Algorithmic Desire Preemption / 算法欲望预支",
     "url": "/wiki/concepts/algorithmicdesirepreemption/"
+  },
+  "AlgorithmicDispersedKnowledge": {
+    "title": "Algorithmic Dispersed Knowledge / 算法分散知识聚合",
+    "url": "/wiki/concepts/algorithmicdispersedknowledge/"
   },
   "AlgorithmicDiversityDividend": {
     "title": "Algorithmic Diversity Dividend / 算法多样性红利",
@@ -2738,6 +2750,14 @@
   "AlgorithmicPredictionLoop": {
     "title": "Algorithmic Prediction Loop / 算法预判循环",
     "url": "/wiki/concepts/algorithmicpredictionloop/"
+  },
+  "AlgorithmicPublicAppearance": {
+    "title": "Algorithmic Public Appearance / 算法公共显现",
+    "url": "/wiki/concepts/algorithmicpublicappearance/"
+  },
+  "AlgorithmicReasonOutsourcing": {
+    "title": "Algorithmic Reason Outsourcing / 算法理性外包",
+    "url": "/wiki/concepts/algorithmicreasonoutsourcing/"
   },
   "AlgorithmicRelevanceAssessment": {
     "title": "Algorithmic Relevance Assessment / 算法相关性评估",
@@ -9594,6 +9614,10 @@
   "Duoshan": {
     "title": "Duoshan",
     "url": "/wiki/entities/duoshan/"
+  },
+  "DushuBuchenglin": {
+    "title": "独树不成林 / Dushu Buchenglin",
+    "url": "/wiki/entities/dushubuchenglin/"
   },
   "DutchDisease": {
     "title": "Dutch Disease",

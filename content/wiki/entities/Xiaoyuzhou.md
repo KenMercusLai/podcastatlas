@@ -2,11 +2,13 @@
 title: "小宇宙"
 type: entity
 tags: [podcast-platform, media, china]
-sources: [164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]
+sources: [167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]
 last_updated: 2026-08-06
 ---
 
 # 小宇宙
+
+[[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] adds 小宇宙 to the platform-regime comparison inside [[AlgorithmicPublicAppearance]]. The episode contrasts podcast distribution's subscription and reputation cues with more aggressive algorithmic feeds, treating platform form as a condition for how creators perform and how publics appear.
 
 小宇宙 appears in [[fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]] as a Chinese podcast-platform context where brands and institutions are beginning to experiment with podcast-like expression. The episode does not analyze 小宇宙's product strategy directly; it uses the platform as evidence that Chinese podcasting is no longer only an enthusiast or elite-discussion format.
 
@@ -17,6 +19,7 @@ last_updated: 2026-08-06
 [[164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq]] adds 小宇宙 as a [[PlatformAffordance]] example. [[DavidWeng|大卫翁]] contrasts podcast platforms with and without comment areas, arguing that comments can change creator motivation, listener relation, and the emotional texture of a show even when the audio file is the same.
 
 ## Connections
+- [[AlgorithmicPublicAppearance]] and [[PlatformAffordance]] - episode 167's platform-regime comparison branch.
 - [[PodcastAsAsynchronousMedia]] - broader media form the platform distributes.
 - [[BrandPodcasting]] - brand and institutional podcast use case mentioned in the source.
 - [[PodcastIntimacy]] - listener relationship value that makes platform-hosted shows useful.

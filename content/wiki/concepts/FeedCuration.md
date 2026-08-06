@@ -2,7 +2,7 @@
 title: "Feed Curation"
 type: concept
 tags: [attention, media, life-design, agency]
-sources: [164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
+sources: [167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
 last_updated: 2026-08-06
 ---
 
@@ -20,6 +20,8 @@ Feed curation extends [[AttentionIndustrialization]] from critique to practice. 
 
 [[164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq]] adds a feedback-specific rule through [[AlgorithmicMediaLiteracy]]. Curation is not only choosing who to follow; it includes noticing when anger, correction, or curiosity is about to become a signal in a [[PlatformFeedbackLoop]], and sometimes refusing to click or comment so the feed does not learn the wrong thing.
 
+[[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] adds a philosophical reason for curation. If feeds are [[AlgorithmicCaveAllegory|caves]] and rankings invite [[AlgorithmicReasonOutsourcing|reason outsourcing]], then comparing platforms, seeking context, and using search or long-form media become ways to notice the projection mechanism.
+
 ## Key Claims
 - A feed is not a neutral stream; it trains what the person notices, wants, fears, and remembers.
 - Fewer high-signal inputs can produce more freedom than abundant low-signal inputs.
@@ -29,6 +31,7 @@ Feed curation extends [[AttentionIndustrialization]] from critique to practice. 
 - Episode 154 adds that curation includes choosing when to expose oneself to disagreeable views for worldview testing, not only reducing noisy inputs.
 - Episode 159 adds that comparing multiple algorithmic filters can be a curation method when the user treats difference as evidence.
 - Episode 164 adds that withholding feedback from rage bait and entertainment drift can be a deliberate curation move.
+- Episode 167 adds that curation can be cave-awareness: one cannot leave all mediation, but can keep one filter from becoming the whole world.
 
 ## Connections
 - [[AttentionIndustrialization]] — platform-level problem feed curation responds to.
@@ -40,3 +43,4 @@ Feed curation extends [[AttentionIndustrialization]] from critique to practice. 
 - [[RuminationVsReflection]] — input noise can feed rumination instead of useful thought.
 - [[AlgorithmicDiversityDividend]], [[PublicRelevanceAlgorithms]], and [[InformationCocoon]] - episode 159's platform-comparison and anti-cocoon extension.
 - [[AlgorithmicMediaLiteracy]], [[PlatformFeedbackLoop]], [[AffectivePolarization]], and [[AlgorithmicEntertainmentRedirect]] - episode 164's feedback-aware curation extension.
+- [[AlgorithmicCaveAllegory]], [[AlgorithmicReasonOutsourcing]], and [[AlgorithmicDiversityDividend]] - episode 167's political-philosophy curation extension.

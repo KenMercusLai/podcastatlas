@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林](sources/167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja.md) — 起朱楼宴宾客 algorithm-series crossover with 独树不成林 using Plato, Rousseau, Hayek, and Arendt to frame algorithmic reality selection, reason outsourcing, dispersed-knowledge aggregation, and public appearance.
 - [166.普通人能从机构投资者身上学到什么？｜串台投资ABC](sources/166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6.md) — 起朱楼宴宾客 crossover with 投资ABC on institutional-investor process, information advantage, target-weight discipline, fund redemption pressure, personal capital-duration advantage, and ordinary-investor asset allocation.
 - [165.年报季中的真实中国2026](sources/165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo.md) — 起朱楼宴宾客 2026 annual-report episode on China's K-shaped industrial divergence, non-financial margin pressure, real-estate-chain losses, safety-first supply chains, localized global companies, hard-AI infrastructure, CATL quality, and innovation-transparency constraints.
 - [164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授](sources/164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq.md) — 起朱楼宴宾客 algorithm-series conversation with 黄圣淳 on filter-bubble evidence gaps, incidental exposure, news-finds-me, affective polarization, YouTube entertainment redirection, platform affordances, feedback loops, and algorithmic media literacy.
@@ -787,6 +788,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [独树不成林 / Dushu Buchenglin](entities/DushuBuchenglin.md) — Podcast crossover partner in episode 167, bringing political-philosophy framing to the 起朱楼 algorithm series.
 - [投资ABC / Investment ABC](entities/InvestmentABC.md) — Podcast crossover partner in episode 166, used to translate institutional investing into ordinary-investor education.
 - [Amy / 投资ABC](entities/AmyInvestmentABC.md) — 投资ABC speaker keeping episode 166 anchored in ordinary-investor questions about goals, costs, emotions, and asset allocation.
 - [陈博士 / 投资ABC](entities/ChenDoctorInvestmentABC.md) — 投资ABC speaker explaining short-term market-counterparty logic, institutional data teams, and cost/behavior effects in episode 166.
@@ -5349,6 +5351,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Algorithmic Cave Allegory / 算法洞穴隐喻](concepts/AlgorithmicCaveAllegory.md) — Episode 167 use of Plato's cave to explain algorithmic reality selection, filtered visibility, and user feedback as projection.
+- [Algorithmic Reason Outsourcing / 算法理性外包](concepts/AlgorithmicReasonOutsourcing.md) — Episode 167 Enlightenment critique where rankings, recommendations, and hot lists perform reason while weakening active judgment.
+- [Algorithmic Dispersed Knowledge / 算法分散知识聚合](concepts/AlgorithmicDispersedKnowledge.md) — Episode 167 Hayekian question of whether platform algorithms can aggregate local and tacit knowledge without losing weak or non-quantified signals.
+- [Algorithmic Public Appearance / 算法公共显现](concepts/AlgorithmicPublicAppearance.md) — Episode 167 Arendtian frame for whether platforms let people appear as full persons or reduce them to labels, data points, and metric-driven personas.
 - [Institutional Investor Process Discipline / 机构投资者流程纪律](concepts/InstitutionalInvestorProcessDiscipline.md) — Episode 166 lesson that mandates, risk controls, committees, stock pools, and written review create useful friction between emotion and trade.
 - [Institutional Information Advantage / 机构信息优势](concepts/InstitutionalInformationAdvantage.md) — Episode 166 frame for broker research, expert networks, alternative data, data teams, and compliance-filtered information processing.
 - [Target Weight Discipline / 目标权重纪律](concepts/TargetWeightDiscipline.md) — Episode 166 practice of managing assets by portfolio percentage and role rather than cost basis, floating profit, or single-position emotion.

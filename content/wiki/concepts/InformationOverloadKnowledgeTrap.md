@@ -2,7 +2,7 @@
 title: "Information Overload Knowledge Trap"
 type: concept
 tags: [knowledge, information, ai, cognition]
-sources: [154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
+sources: [167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
 last_updated: 2026-08-06
 ---
 
@@ -20,6 +20,8 @@ The trap is that truth at the statement level does not equal understanding. A pe
 
 [[vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]] adds the investing-action version. Under tariff shock and capital-market volatility, [[DavidWeng|大卫翁]] uses [[HowardMarks|Howard Marks]] to separate information from knowledge and knowledge from action: ordinary investors can read, listen, and update context without treating every new fact or confident analysis as a trade command.
 
+[[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] adds the filtering version. The episode accepts that information abundance makes selection necessary, but warns that selection can become [[AlgorithmicReasonOutsourcing]] when rankings, hot lists, or recommendations replace the user's own ordering of relevance.
+
 ## Key Claims
 - Correct facts can become noise when they are not attached to a purpose, model, or question.
 - Knowledge work depends on selection and interpretation, not only access.
@@ -29,6 +31,7 @@ The trap is that truth at the statement level does not equal understanding. A pe
 - Episode 132 adds that overload can suppress desire when feeds make possible lives feel already consumed, socially out of reach, or too costly to attempt.
 - Vol.124 adds that information overload becomes financially dangerous when it collapses observation, forecast, and portfolio action into one anxious reflex.
 - Episode 154 adds that overload can become autonomy loss when the person no longer knows whether a thought came from deliberate attention, feed impulse, or an AI answer.
+- Episode 167 adds that overload makes external filters necessary, which is why users must ask who filters, with what metric, and what judgment gets displaced.
 
 ## Connections
 - [[TheCyberiad|《机器人大师》 / The Cyberiad]], [[StanislawLem|斯坦尼斯拉夫·莱姆]], and [[Trurl|特鲁勒]] - source story and author context.
@@ -39,3 +42,4 @@ The trap is that truth at the statement level does not equal understanding. A pe
 - [[AlgorithmicLabeling]], [[AttentionIndustrialization]], [[FeedCuration]], and [[EmpathyBoundaries]] - vol.102's information, label, and relationship branch.
 - [[AlgorithmicDesirePreemption]], [[SocialTemplateDesire]], and [[LowDesireDefensiveContraction]] - episode 132's desire-suppression extension.
 - [[HowardMarks]], [[MacroEventTrendDistinction]], [[InvestmentCooldownDiscipline]], and [[SleepWellPortfolioTest]] - vol.124's investment-action discipline.
+- [[AlgorithmicReasonOutsourcing]], [[PublicRelevanceAlgorithms]], and [[AlgorithmicMediaLiteracy]] - episode 167's filtering and judgment branch.

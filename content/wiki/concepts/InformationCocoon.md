@@ -2,7 +2,7 @@
 title: "Information Cocoon / 信息茧房"
 type: concept
 tags: [media, psychology, internet-culture, polarization]
-sources: [164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]
+sources: [167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]
 last_updated: 2026-08-06
 ---
 
@@ -22,6 +22,8 @@ The episode links information cocoons to online groups, politicized vaccine info
 
 [[164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq]] adds a stronger evidence caveat through [[HuangShengchun|黄圣淳]]. The episode distinguishes [[FilterBubble|filter bubbles]] from echo chambers and says the empirical case for universal algorithmic cocoons is not as strong as public discourse assumes. It also adds [[IncidentalExposure]] and [[NewsFindsMe]] as mechanisms that can leak information into the feed while still leaving room for [[AffectivePolarization]] and [[AlgorithmicAmplification]].
 
+[[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] adds the political-philosophy version. The episode treats single-feed reality as an [[AlgorithmicCaveAllegory|algorithmic cave]] and stresses that especially for young users, repeated exposure to one kind of content can harden judgment before they know the limits of their information environment.
+
 ## Key Claims
 - Selective exposure lowers the chance that contrary evidence reaches the person as usable evidence.
 - Group reward makes repeated claims feel more credible and safer to repeat.
@@ -32,6 +34,7 @@ The episode links information cocoons to online groups, politicized vaccine info
 - Episode 154 adds that leaving a cocoon can be intentional and limited: the aim is to test one's own frame without outsourcing judgment to the opposing group.
 - Episode 159 adds that information cocoons are often leaky: platform variety can expose blind spots, but only if users actively notice the differences between filters.
 - Episode 164 adds that breaking a cocoon does not guarantee understanding; cross-viewpoint exposure can intensify hostility when the platform format rewards reaction.
+- Episode 167 adds that cocoon awareness starts from knowing one is seeing selected shadows, not an unmediated public reality.
 
 ## Connections
 - [[GroupPolarization]] - dynamic that can intensify inside the cocoon.
@@ -43,3 +46,4 @@ The episode links information cocoons to online groups, politicized vaccine info
 - [[FeedCuration]], [[InvestmentWorldviewFit]], and [[AutonomyUnderInformationFlow]] - episode 154's worldview-testing and autonomy branch.
 - [[AlgorithmicPredictionLoop]], [[CalculatedPublics]], and [[AlgorithmicDiversityDividend]] - episode 159's algorithmic grouping and multi-platform qualification.
 - [[FilterBubble]], [[IncidentalExposure]], [[NewsFindsMe]], and [[AffectivePolarization]] - episode 164's evidence caveat and exposure-emotion extension.
+- [[AlgorithmicCaveAllegory]], [[AlgorithmicMediaLiteracy]], and [[AlgorithmicDiversityDividend]] - episode 167's cave-awareness and cross-platform response.

@@ -2,8 +2,8 @@
 title: "Twitter / X"
 type: entity
 tags: [company, social-media, platform]
-sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarspod-paulb-final, socialradarspod-stevehuffman-final]
-last_updated: 2026-08-05
+sources: [167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarspod-paulb-final, socialradarspod-stevehuffman-final]
+last_updated: 2026-08-06
 ---
 
 # Twitter / X
@@ -16,9 +16,12 @@ Twitter also appears elsewhere as part of the social-web environment. In [[socia
 
 [[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] adds the X-era platform-AI abuse branch. [[MariaCurie|Maria Curi]] says users are tagging [[Grok]] on X to generate non-consensual intimate images, turning the platform into the distribution setting for [[AINonConsensualIntimateImageAbuse]] and a test case for [[ChatbotGeneratedContentLiability]].
 
+[[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] adds X as an example in the episode's platform-publicness critique. The source treats Musk-era X as a low-threshold, highly visible public space where democratized speech can coexist with more explicit vulgarity, extremity, and performative conflict, making it relevant to [[AlgorithmicPublicAppearance]].
+
 ## Connections
 - [[ElonMusk]] - owner in Best's account of the Substack conflict.
 - [[Substack]] and [[SubstackNotes]] - platform and product affected by Twitter dependency.
 - [[PlatformDependencyRisk]] and [[DistributionLedProductBuilding]] - strategic concepts sharpened by the case.
 - [[FriendFeed]], [[Reddit]], and [[UserPoweredContentPlatform]] - adjacent social-platform context in earlier Social Radars sources.
 - [[Grok]], [[XAI|xAI]], [[AINonConsensualIntimateImageAbuse]], and [[ChatbotGeneratedContentLiability]] - January 2026 Marketplace Tech branch.
+- [[AlgorithmicPublicAppearance]], [[PlatformAffordance]], and [[AffectivePolarization]] - episode 167's public-space and platform-behavior extension.

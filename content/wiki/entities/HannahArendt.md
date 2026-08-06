@@ -2,8 +2,8 @@
 title: "Hannah Arendt / 汉娜·阿伦特"
 type: entity
 tags: [person, philosophy, political-theory, exile, holocaust]
-sources: [103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789]
-last_updated: 2026-07-24
+sources: [167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789]
+last_updated: 2026-08-06
 ---
 
 # Hannah Arendt / 汉娜·阿伦特
@@ -14,9 +14,12 @@ The source presents Arendt as someone whose ideas came under pressure from life:
 
 Arendt's central contribution here is not a slogan but a discipline. [[BanalityOfEvil]] names how bureaucratic normality can carry murderous systems; [[ResponsibilityVsGuilt]] preserves judgment without flattening victims into perpetrators; [[PoliticalTruthTelling]] and [[PowerViolenceDistinction]] keep politics connected to truth, reflection, and collective power rather than force.
 
+[[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] adds Arendt to the algorithm-series branch through public appearance. The episode uses her distinction between "who" and "what" to ask whether platforms let people appear as full persons through speech and action, or reduce them to labels, profiles, comments, creator roles, and data points inside [[AlgorithmicPublicAppearance]].
+
 ## Connections
 - [[HannahArendtLoveAndEvil|《汉娜·阿伦特：爱与恶》]] - biography used by the source.
 - [[MartinHeidegger|Martin Heidegger]] and [[KarlJaspers|Karl Jaspers]] - formative teachers, contrasted by the episode through moral failure and loyal judgment.
 - [[HeinrichBlucher|Heinrich Blücher]] and [[WalterBenjamin|Walter Benjamin]] - exile-world companions.
 - [[EichmannInJerusalem|《艾希曼在耶路撒冷》]], [[AdolfEichmann|Adolf Eichmann]], and [[JewishCouncils|Jewish Councils]] - controversy that crystallizes the episode's responsibility argument.
 - [[BanalityOfEvil]], [[ResponsibilityVsGuilt]], [[PoliticalTruthTelling]], [[StatelessExile]], and [[PowerViolenceDistinction]] - main concept cluster attached to Arendt by the source.
+- [[AlgorithmicPublicAppearance]], [[CalculatedPublics]], and [[PlatformFeedbackLoop]] - episode 167's platform-publicness extension.

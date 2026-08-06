@@ -6297,3 +6297,11 @@ Added source page for a 起朱楼宴宾客 crossover with 投资ABC on instituti
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林
+
+Added source page for a 起朱楼宴宾客 algorithm-series crossover with 独树不成林 on using Plato, Rousseau, Hayek, and Arendt to interpret algorithmic media. Created pages for 独树不成林, Algorithmic Cave Allegory, Algorithmic Reason Outsourcing, Algorithmic Dispersed Knowledge, and Algorithmic Public Appearance; updated overview, index, 起朱楼宴宾客, 大卫翁, the four philosopher pages, Kant, Voltaire, Xiaohongshu, 小宇宙, Douyin, Douban, Twitter/X, and related public-relevance, feedback, media-literacy, feed-curation, autonomy, information-cocoon, attention, dispersed-knowledge, and market-coordination concepts. No direct contradiction found; the source is recorded as a political-philosophy analogy layer over earlier algorithm-sociology and media-effects episodes rather than empirical proof about a specific platform mechanism.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
