@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授](sources/164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq.md) — 起朱楼宴宾客 algorithm-series conversation with 黄圣淳 on filter-bubble evidence gaps, incidental exposure, news-finds-me, affective polarization, YouTube entertainment redirection, platform affordances, feedback loops, and algorithmic media literacy.
 - [163.当孤注一掷的年轻人遇上这个草台班子的世界｜串台轻刀快马](sources/163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta.md) — 起朱楼宴宾客 crossover with 轻刀快马 on U.S. social separation, AI anxiety, youth FOMO, financial nihilism, bounded speculative optionality, structure-over-prediction, barbell life design, and staying in the game.
 - [162.财富的本质，以及自由的真正含义｜串台十分吸引](sources/162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust.md) — 起朱楼宴宾客 crossover with 十分吸引 on wealth as resources, capability, rights, capital conversion, cash flow, resource-network repricing, client-centered wealth management, and freedom as the gap between what one has and wants.
 - [161. 全球宏观和资本市场2026一季度复盘与展望](sources/161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm.md) — 起朱楼宴宾客 live Beijing Q1 2026 macro review with 大卫翁 and Ricky on Iran war risk, stagflation repricing, AI/private-credit finance, China data, gold, oil, A/H allocation, and cash discipline.
@@ -784,6 +785,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [黄圣淳 / Shengchun Huang](entities/HuangShengchun.md) — Media and journalism scholar whose 起朱楼 episode complicates filter-bubble panic while adding YouTube entertainment redirect, platform affordance, and algorithmic media literacy.
 - [Pierre Bourdieu / 皮埃尔·布迪厄](entities/PierreBourdieu.md) — Sociologist whose economic, cultural, social, and symbolic capital framework anchors episode 162's wealth-as-convertible-capital branch.
 - [Anna Sorokin / 安娜·索罗金](entities/AnnaSorokin.md) — Episode 162 case for fragile capital conversion, where performed status temporarily opens social and financial access before cash-flow and credit checks break the loop.
 - [Georg Simmel / 齐美尔](entities/GeorgSimmel.md) — Sociologist cited by episode 162 for the warning that money is a bridge toward final values rather than a final place to live.
@@ -5338,6 +5340,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Filter Bubble / 过滤气泡](concepts/FilterBubble.md) — Algorithmic-personalization narrowing concern that episode 164 qualifies with weak universal evidence, incidental exposure, and cross-platform leakiness.
+- [Incidental Exposure / 偶然暴露](concepts/IncidentalExposure.md) — Accidental contact with news or opposing information through feeds, social sharing, and platform defaults.
+- [News Finds Me / 新闻找到我](concepts/NewsFindsMe.md) — Media-consumption pattern where news reaches users through feeds and recommendations rather than intentional news seeking.
+- [Affective Polarization / 情感极化](concepts/AffectivePolarization.md) — Emotional hostility toward opposing views or groups that can intensify even when information cocoons are broken.
+- [Algorithmic Amplification / 算法放大](concepts/AlgorithmicAmplification.md) — Platform ranking pattern that makes selected conflicts, emotions, categories, or content types feel more salient and representative.
+- [Algorithmic Entertainment Redirect / 算法娱乐重定向](concepts/AlgorithmicEntertainmentRedirect.md) — Recommendation drift from news or public information toward entertainment and lighter content.
+- [Platform Affordance / 平台可供性](concepts/PlatformAffordance.md) — Platform features such as comments, likes, reposts, autoplay, and feeds as relationship-shaping media conditions.
+- [Platform Feedback Loop / 平台反馈循环](concepts/PlatformFeedbackLoop.md) — Cycle where user behavior, visible metrics, creator adaptation, and algorithmic ranking reinforce one another.
+- [Algorithmic Media Literacy / 算法媒介素养](concepts/AlgorithmicMediaLiteracy.md) — User-side practice of noticing and shaping how feeds collect feedback, route attention, and influence judgment.
+- [Algorithmic Cultural Flattening / 算法文化压平](concepts/AlgorithmicCulturalFlattening.md) — Platform-feedback tendency toward safer, more imitable, lower-friction cultural formats.
 - [Financial Nihilism / 金融虚无主义](concepts/FinancialNihilism.md) — Episode 163 frame for young people's belief that normal work and saving cannot catch asset inflation, debt, and inherited wealth, often pushing them toward all-in speculative rescue bets.
 - [Structure Over Prediction / 结构优先于预测](concepts/StructureOverPrediction.md) — Episode 163 strategy of designing portfolios and lives that can survive multiple futures instead of depending on one correct macro or market forecast.
 - [Bounded Speculative Optionality / 有边界的彩票仓位](concepts/BoundedSpeculativeOptionality.md) — Episode 163 discipline for using a small loss-tolerable high-upside sleeve without letting speculative desire endanger the stable base.

@@ -2,7 +2,7 @@
 title: "Feed Curation"
 type: concept
 tags: [attention, media, life-design, agency]
-sources: [159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
+sources: [164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
 last_updated: 2026-08-06
 ---
 
@@ -18,6 +18,8 @@ The episode's rule is that a lower-level constraint can create higher-level free
 
 Feed curation extends [[AttentionIndustrialization]] from critique to practice. If platforms and AI systems can industrialize mental intake, the user needs active input governance rather than relying on willpower after the feed has already been optimized against them.
 
+[[164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq]] adds a feedback-specific rule through [[AlgorithmicMediaLiteracy]]. Curation is not only choosing who to follow; it includes noticing when anger, correction, or curiosity is about to become a signal in a [[PlatformFeedbackLoop]], and sometimes refusing to click or comment so the feed does not learn the wrong thing.
+
 ## Key Claims
 - A feed is not a neutral stream; it trains what the person notices, wants, fears, and remembers.
 - Fewer high-signal inputs can produce more freedom than abundant low-signal inputs.
@@ -26,6 +28,7 @@ Feed curation extends [[AttentionIndustrialization]] from critique to practice. 
 - AI-era speed makes feed curation more important because models can multiply whatever input diet the user provides.
 - Episode 154 adds that curation includes choosing when to expose oneself to disagreeable views for worldview testing, not only reducing noisy inputs.
 - Episode 159 adds that comparing multiple algorithmic filters can be a curation method when the user treats difference as evidence.
+- Episode 164 adds that withholding feedback from rage bait and entertainment drift can be a deliberate curation move.
 
 ## Connections
 - [[AttentionIndustrialization]] — platform-level problem feed curation responds to.
@@ -36,3 +39,4 @@ Feed curation extends [[AttentionIndustrialization]] from critique to practice. 
 - [[FlowEnvironmentDesign]] — adjacent method of shaping environment so attention can settle.
 - [[RuminationVsReflection]] — input noise can feed rumination instead of useful thought.
 - [[AlgorithmicDiversityDividend]], [[PublicRelevanceAlgorithms]], and [[InformationCocoon]] - episode 159's platform-comparison and anti-cocoon extension.
+- [[AlgorithmicMediaLiteracy]], [[PlatformFeedbackLoop]], [[AffectivePolarization]], and [[AlgorithmicEntertainmentRedirect]] - episode 164's feedback-aware curation extension.

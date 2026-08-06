@@ -555,6 +555,10 @@
     "title": "164.古文的力量：请收下这份千年未变的深情、洞见和勇气",
     "url": "/wiki/sources/164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576/"
   },
+  "164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq": {
+    "title": "164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授",
+    "url": "/wiki/sources/164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq/"
+  },
   "165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646": {
     "title": "165.银发川柳：用幽默面对老年，咱们来写打油诗",
     "url": "/wiki/sources/165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646/"
@@ -2251,6 +2255,10 @@
     "title": "Aether AI",
     "url": "/wiki/entities/aetherai/"
   },
+  "AffectivePolarization": {
+    "title": "Affective Polarization / 情感极化",
+    "url": "/wiki/concepts/affectivepolarization/"
+  },
   "AffordableCareAct": {
     "title": "Affordable Care Act / 奥巴马医改",
     "url": "/wiki/entities/affordablecareact/"
@@ -2675,9 +2683,17 @@
     "title": "Algorithm Aversion",
     "url": "/wiki/concepts/algorithmaversion/"
   },
+  "AlgorithmicAmplification": {
+    "title": "Algorithmic Amplification / 算法放大",
+    "url": "/wiki/concepts/algorithmicamplification/"
+  },
   "AlgorithmicAngerEngagement": {
     "title": "Algorithmic Anger Engagement",
     "url": "/wiki/concepts/algorithmicangerengagement/"
+  },
+  "AlgorithmicCulturalFlattening": {
+    "title": "Algorithmic Cultural Flattening / 算法文化压平",
+    "url": "/wiki/concepts/algorithmicculturalflattening/"
   },
   "AlgorithmicDesirePreemption": {
     "title": "Algorithmic Desire Preemption / 算法欲望预支",
@@ -2691,6 +2707,10 @@
     "title": "Algorithmic Entanglement / 算法与实践纠缠",
     "url": "/wiki/concepts/algorithmicentanglement/"
   },
+  "AlgorithmicEntertainmentRedirect": {
+    "title": "Algorithmic Entertainment Redirect / 算法娱乐重定向",
+    "url": "/wiki/concepts/algorithmicentertainmentredirect/"
+  },
   "AlgorithmicInclusionPatterns": {
     "title": "Algorithmic Inclusion Patterns / 算法包含模式",
     "url": "/wiki/concepts/algorithmicinclusionpatterns/"
@@ -2698,6 +2718,10 @@
   "AlgorithmicLabeling": {
     "title": "Algorithmic Labeling",
     "url": "/wiki/concepts/algorithmiclabeling/"
+  },
+  "AlgorithmicMediaLiteracy": {
+    "title": "Algorithmic Media Literacy / 算法媒介素养",
+    "url": "/wiki/concepts/algorithmicmedialiteracy/"
   },
   "AlgorithmicObjectivityPromise": {
     "title": "Algorithmic Objectivity Promise / 算法客观性承诺",
@@ -11167,6 +11191,10 @@
     "title": "Film Set Power And Abuse",
     "url": "/wiki/concepts/filmsetpowerandabuse/"
   },
+  "FilterBubble": {
+    "title": "Filter Bubble / 过滤气泡",
+    "url": "/wiki/concepts/filterbubble/"
+  },
   "Filterworld": {
     "title": "Filterworld",
     "url": "/wiki/entities/filterworld/"
@@ -14423,6 +14451,10 @@
     "title": "黄六鸿 / Huang Liuhong",
     "url": "/wiki/entities/huangliuhong/"
   },
+  "HuangShengchun": {
+    "title": "黄圣淳 / Shengchun Huang",
+    "url": "/wiki/entities/huangshengchun/"
+  },
   "HuangTingjian": {
     "title": "黄庭坚 / Huang Tingjian",
     "url": "/wiki/entities/huangtingjian/"
@@ -14814,6 +14846,10 @@
   "InboundTourismBrandDiscovery": {
     "title": "Inbound Tourism Brand Discovery",
     "url": "/wiki/concepts/inboundtourismbranddiscovery/"
+  },
+  "IncidentalExposure": {
+    "title": "Incidental Exposure / 偶然暴露",
+    "url": "/wiki/concepts/incidentalexposure/"
   },
   "IncompleteContract": {
     "title": "Incomplete Contract / 不完全契约",
@@ -21135,6 +21171,10 @@
     "title": "News Corp",
     "url": "/wiki/entities/newscorp/"
   },
+  "NewsFindsMe": {
+    "title": "News Finds Me / 新闻找到我",
+    "url": "/wiki/concepts/newsfindsme/"
+  },
   "NewsroomAIAdoption": {
     "title": "Newsroom AI Adoption",
     "url": "/wiki/concepts/newsroomaiadoption/"
@@ -23115,6 +23155,10 @@
     "title": "Plasma TV Preference",
     "url": "/wiki/concepts/plasmatvpreference/"
   },
+  "PlatformAffordance": {
+    "title": "Platform Affordance / 平台可供性",
+    "url": "/wiki/concepts/platformaffordance/"
+  },
   "PlatformAgeEstimation": {
     "title": "Platform Age Estimation",
     "url": "/wiki/concepts/platformageestimation/"
@@ -23142,6 +23186,10 @@
   "PlatformDependencyRisk": {
     "title": "Platform Dependency Risk",
     "url": "/wiki/concepts/platformdependencyrisk/"
+  },
+  "PlatformFeedbackLoop": {
+    "title": "Platform Feedback Loop / 平台反馈循环",
+    "url": "/wiki/concepts/platformfeedbackloop/"
   },
   "PlatformFirstAmendmentDefense": {
     "title": "Platform First Amendment Defense",

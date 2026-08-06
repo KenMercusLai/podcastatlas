@@ -2,7 +2,7 @@
 title: "Attention Industrialization"
 type: concept
 tags: [attention, media, ai, platforms]
-sources: [159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708, 123-renxing-shiyan-dangxin-ni-ziji-779479569, tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
+sources: [164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708, 123-renxing-shiyan-dangxin-ni-ziji-779479569, tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
 last_updated: 2026-08-06
 ---
 
@@ -30,6 +30,8 @@ The concept connects platform incentives to AI risk. The danger is not only that
 
 [[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] adds an algorithm-sociology layer. The source breaks attention capture into [[PublicRelevanceAlgorithms]], [[AlgorithmicPredictionLoop]], [[AlgorithmicRelevanceAssessment]], and [[AlgorithmicEntanglement]], showing that industrialized attention is not only abundant content; it is a feedback system that decides what counts, what predicts, what ranks, and how users learn to express themselves for distribution.
 
+[[164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq]] adds the entertainment-rabbit-hole branch. The episode's concern is that public information can be displaced by [[AlgorithmicEntertainmentRedirect]] through autoplay, recommendation sequences, infinite scroll, and user feedback that keeps easy content nearby. The result is attention capture by drift rather than an explicit decision to avoid news.
+
 ## Key Claims
 - "Free" algorithmic services often carry a hidden price in attention and behavioral shaping.
 - Industrialized mental food can be abundant while still being low quality.
@@ -45,6 +47,7 @@ The concept connects platform incentives to AI risk. The danger is not only that
 - Episode 143 adds that "diffuse" attention is not the same as feed capture; healthy looseness needs recovery and integration rather than endless stimulation.
 - Episode 154 adds that answer-first AI can join feeds as a supply chain for thought, making complete self-directed reasoning harder to preserve.
 - Episode 159 adds that attention industrialization begins before the feed reaches the user: classification, prediction, ranking, and recognizability already shape what can be noticed.
+- Episode 164 adds that industrialized attention can redirect from news toward entertainment and make non-reaction an important user-side practice.
 
 ## Connections
 - [[AIUsePacing]] — individual discipline for limiting AI-created work and information consumption.
@@ -61,3 +64,4 @@ The concept connects platform incentives to AI risk. The danger is not only that
 - [[AlgorithmicAngerEngagement]], [[BookCreatorWork]], and [[ReadingAsCognitiveRestoration]] - book-creator and long-form reading extension from sp.06.
 - [[FocusedDiffuseThinkingBalance]] and [[ForgettingAsCognitiveFunction]] - episode 143's brain-use and healthy-forgetting extension.
 - [[PublicRelevanceAlgorithms]], [[AlgorithmicPredictionLoop]], [[AlgorithmicRelevanceAssessment]], and [[AlgorithmicEntanglement]] - episode 159's algorithm-sociology extension.
+- [[AlgorithmicEntertainmentRedirect]], [[PlatformAffordance]], [[PlatformFeedbackLoop]], and [[AlgorithmicMediaLiteracy]] - episode 164's entertainment-rabbit-hole and feedback-literacy extension.

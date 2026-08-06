@@ -6265,3 +6265,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授
+
+Added source page for a 起朱楼宴宾客 algorithm-series conversation with 黄圣淳 on filter-bubble evidence gaps, incidental exposure, news-finds-me, affective polarization, YouTube entertainment redirection, platform affordances, feedback loops, cultural flattening, and algorithmic media literacy. Created pages for 黄圣淳, Filter Bubble, Incidental Exposure, News Finds Me, Affective Polarization, Algorithmic Amplification, Algorithmic Entertainment Redirect, Platform Affordance, Platform Feedback Loop, Algorithmic Media Literacy, and Algorithmic Cultural Flattening; updated overview, index, 起朱楼宴宾客, 大卫翁, YouTube, Xiaohongshu, 小宇宙, and related algorithm, cocoon, recommendation, attention, feed-curation, and polarization pages. No direct contradiction found; the source qualifies simple information-cocoon panic while reinforcing the wiki's concerns about platform-shaped public relevance and attention drift.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

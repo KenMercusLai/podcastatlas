@@ -2,7 +2,7 @@
 title: "Recommendation System Productization"
 type: concept
 tags: [recommendation, product, platform, short-video]
-sources: [159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz]
+sources: [164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz]
 last_updated: 2026-08-06
 ---
 
@@ -14,6 +14,8 @@ The source's main corrective is that TikTok's growth was not a single magic algo
 
 [[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] adds the social-theory layer. Recommendation systems are not only product systems; when they become [[PublicRelevanceAlgorithms]], they define inclusion, prediction, relevance, objectivity, creator practice, and inferred publics at the same time.
 
+[[164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq]] adds a media-effects audit layer through [[YouTube]] and [[AlgorithmicEntertainmentRedirect]]. The episode shows recommendation productization as a routing system: the next item, autoplay surface, category label, and measured response can redirect attention from news toward entertainment even when the user began with public information.
+
 ## Key Claims
 - A recommendation system is a product system, not only a model: content supply, review, cold start, and interface signals all shape whether the ranking feels good.
 - Musical.ly's content pool and creator culture were necessary inputs; stronger ByteDance infrastructure made distribution more efficient.
@@ -21,6 +23,7 @@ The source's main corrective is that TikTok's growth was not a single magic algo
 - Short-video recommendation may re-surface initially skipped videos if timing and user state become better later.
 - Recommendation strength can create growth, but without [[ContentEcosystemGovernance]] it can also amplify low-quality or risky content.
 - Episode 159 adds that a recommendation system can shape public life even when it feels like personalized convenience.
+- Episode 164 adds that recommendation quality must be judged by transition paths as well as by single-item relevance.
 
 ## Connections
 - [[MusicalLy]], [[TikTok]], and [[ByteDance]] — source case.
@@ -30,3 +33,4 @@ The source's main corrective is that TikTok's growth was not a single magic algo
 - [[ShortVideoCreationTools]] — creator supply and audio/effect reuse create material for recommendation to distribute.
 - [[ProductContainer]] — feed design and entry restraint shape the signals recommendation receives.
 - [[PublicRelevanceAlgorithms]], [[AlgorithmicPredictionLoop]], [[AlgorithmicRelevanceAssessment]], [[AlgorithmicObjectivityPromise]], and [[CalculatedPublics]] — episode 159's sociological extension of recommendation.
+- [[YouTube]], [[AlgorithmicEntertainmentRedirect]], [[NewsFindsMe]], and [[AttentionIndustrialization]] — episode 164's recommendation-audit and public-attention extension.

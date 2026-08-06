@@ -2,7 +2,7 @@
 title: "Group Polarization / 群体极化"
 type: concept
 tags: [psychology, groups, internet-culture, polarization]
-sources: [159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]
+sources: [164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]
 last_updated: 2026-08-06
 ---
 
@@ -14,12 +14,15 @@ In the source, polarization is partly social positioning. If other members expre
 
 [[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] adds an algorithmic grouping route. [[CalculatedPublics]] and [[AlgorithmicPredictionLoop]] can keep presenting a user with inferred neighbors and relevant topics, making polarization look like personal fit even when the platform is repeatedly manufacturing the reference group.
 
+[[164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq]] adds the [[AffectivePolarization]] qualification. Breaking a [[FilterBubble]] by showing opposing views can still intensify hostility if the contact arrives through conflict-rich feeds, angry comments, and dense [[AlgorithmicAmplification]] rather than deliberative context.
+
 ## Key Claims
 - Shared leanings can intensify through repeated in-group argument.
 - Extreme members can shift what counts as the group center.
 - Identity pressure can make moderation socially costly.
 - Group polarization explains why information cocoons can become more radical over time without any single central controller.
 - Episode 159 adds that algorithmic publics can intensify polarization by turning inferred similarity into repeated exposure and social self-recognition.
+- Episode 164 adds that exposure to difference can polarize emotion even when it broadens information contact.
 
 ## Connections
 - [[InformationCocoon]] - media setting that supports polarization.
@@ -27,3 +30,4 @@ In the source, polarization is partly social positioning. If other members expre
 - [[ConstructiveDissent]] - needed corrective when groups start losing outside evidence.
 - [[CassSunstein]] - scholar associated with the group-polarization framing used by the source.
 - [[CalculatedPublics]] and [[AlgorithmicPredictionLoop]] - episode 159's inferred-group and prediction-loop branch.
+- [[AffectivePolarization]], [[FilterBubble]], [[AlgorithmicAmplification]], and [[AlgorithmicMediaLiteracy]] - episode 164's exposure and emotional-friction branch.

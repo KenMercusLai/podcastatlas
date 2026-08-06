@@ -2,7 +2,7 @@
 title: "小宇宙"
 type: entity
 tags: [podcast-platform, media, china]
-sources: [149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]
+sources: [164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]
 last_updated: 2026-08-06
 ---
 
@@ -14,6 +14,8 @@ last_updated: 2026-08-06
 
 [[149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga]] adds more ecosystem detail. [[DavidWeng|大卫翁]] treats 小宇宙 editorial selection as part of his early audience growth, while [[YangYi|杨一]] and [[OuyangBin|欧阳斌]] use the platform as evidence that Chinese podcasting moved from enthusiast education into a broader [[ChinesePodcastEcosystem]] with brand podcasts, listener comments, subscription habits, and possible algorithmic distribution.
 
+[[164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq]] adds 小宇宙 as a [[PlatformAffordance]] example. [[DavidWeng|大卫翁]] contrasts podcast platforms with and without comment areas, arguing that comments can change creator motivation, listener relation, and the emotional texture of a show even when the audio file is the same.
+
 ## Connections
 - [[PodcastAsAsynchronousMedia]] - broader media form the platform distributes.
 - [[BrandPodcasting]] - brand and institutional podcast use case mentioned in the source.
@@ -21,3 +23,4 @@ last_updated: 2026-08-06
 - [[Banlatte|半拿铁]] - show context for the conversation.
 - [[QizhulouYanBinke|起朱楼宴宾客]], [[DavidWeng|大卫翁]], and [[PodcastEnabledCareerPath]] - episode 141 publication context.
 - [[YangYi|杨一]], [[OuyangBin|欧阳斌]], [[ChinesePodcastEcosystem]], and [[SubscriptionVsAlgorithmPodcastDistribution]] - episode 149 ecosystem and distribution branch.
+- [[PlatformAffordance]], [[PlatformFeedbackLoop]], and [[PodcastIntimacy]] - episode 164's comment-area and creator-listener relationship branch.

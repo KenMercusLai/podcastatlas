@@ -2,11 +2,13 @@
 title: "YouTube"
 type: entity
 tags: [company, video, platform, distribution]
-sources: [tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, the-nfl-1, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, the-nfl-1, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
+last_updated: 2026-08-06
 ---
 
 # YouTube
+
+[[164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq]] adds YouTube as the audit case for [[AlgorithmicEntertainmentRedirect]]. [[HuangShengchun|黄圣淳]] describes research in which recommendation paths more often moved from news videos toward entertainment than from entertainment back toward news, making YouTube a civic-attention case rather than only a creator, sports, or litigation platform.
 
 [[tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1]] adds YouTube as [[JohnCoogan]]'s post-[[Lucy]] media surface. During COVID, Coogan used YouTube for startup, fundraising, YC, and business video essays, then found that long documentary production was less attractive than the unscripted, live format that became [[TBPN]].
 
@@ -52,3 +54,4 @@ The episode's forward-looking claim is that pure overseas distribution may becom
 - [[VerticalMediaDistribution]] — broader media-distribution frame already used elsewhere in the wiki.
 - [[Google]], [[RonConway]], [[SVAngel]], [[Napster]], and [[SusanWojcicki]] — Google acquisition and institutional-memory context added by the Conway Part 3 episode.
 - [[LegalRiskAcquirerFit]] — acquisition pattern where the right buyer can absorb startup legal exposure.
+- [[HuangShengchun]], [[AlgorithmicEntertainmentRedirect]], [[RecommendationSystemProductization]], and [[AttentionIndustrialization]] — episode 164's recommendation-audit and public-attention branch.
