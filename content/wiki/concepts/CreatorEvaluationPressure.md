@@ -2,8 +2,8 @@
 title: "Creator Evaluation Pressure"
 type: concept
 tags: [creators, attention, reviews, media, psychology]
-sources: [140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655]
-last_updated: 2026-07-24
+sources: [159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655]
+last_updated: 2026-08-06
 ---
 
 # Creator Evaluation Pressure
@@ -18,6 +18,8 @@ The episode's useful point is that evaluation pressure is not only criticism. Ab
 
 [[140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655]] adds the newly published author and [[Douban]] version through [[Jinzi|金子]]. The source emphasizes that rational awareness does not cancel affect: one can know a review is partial or mistaken and still refresh the score, lose sleep, or feel a one-star comment outweigh many supportive responses.
 
+[[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] adds the algorithmic-recognizability layer through [[AlgorithmicEntanglement]]. The episode argues that creators learn to shape titles, covers, tags, timing, topics, and even work style around what platforms can classify and distribute, so evaluation pressure moves upstream into production before ratings or comments arrive.
+
 ## Key Claims
 - Creators can understand that online reviews are not objective and still lose time, mood, and confidence to them.
 - Negative reviews often have strong traffic incentives, which gives creators a distorted but hard-to-ignore mirror.
@@ -28,6 +30,7 @@ The episode's useful point is that evaluation pressure is not only criticism. Ab
 - Fame and income do not cancel the psychological cost of being continuously evaluated by strangers.
 - For book creators, data is partly book-dependent: known titles and familiar disputes can outperform unfamiliar works before the creator has said anything especially good or bad.
 - Episode 140 adds that rating platforms can reactivate school-style [[RedPenLogic]] for adult creators, especially when the work is autobiographical and therefore hard to separate from self-worth.
+- Episode 159 adds that platform evaluation begins before publication when creators optimize the work's form for algorithmic legibility.
 
 ## Connections
 - [[Xiaojia|小佳]] - source case for review, hot-search, and sales pressure.
@@ -39,3 +42,4 @@ The episode's useful point is that evaluation pressure is not only criticism. Ab
 - [[ZhaoLusi|赵露思]], [[LiveHumanFeeling]], and [[InternetMoralTrial]] - celebrity-publicness extension.
 - [[BookCreatorWork]], [[AlgorithmicAngerEngagement]], and [[BridgeStyleReadingContent]] - reading-creator extension from the sp.06 crossover.
 - [[Jinzi|金子]], [[HaikeyiDeJinNvshi|《还可以的金女士》]], [[Douban]], and [[RedPenLogic]] - episode 140's book-publication and rating-pressure extension.
+- [[AlgorithmicEntanglement]], [[AlgorithmicRelevanceAssessment]], and [[PublicRelevanceAlgorithms]] - episode 159's creator-optimization and ranking extension.

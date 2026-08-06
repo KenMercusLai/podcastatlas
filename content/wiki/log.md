@@ -6225,3 +6225,11 @@ Ran health before lint; health scanned 8,805 wiki pages and found no empty/stub 
 ## [2026-08-06] lint | Wiki health check
 
 Ran health before lint; health scanned 8,809 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,809 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 8,809 pages, so graph findings are advisory until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-06] ingest | 159.算法的六副面孔：它是如何从处理数据，变成定义我们是谁的
+
+Added source page for a 起朱楼宴宾客 framework episode by 大卫翁 on algorithms and media through Tarleton Gillespie's The Relevance of Algorithms and Kyle Chayka's Filterworld. Created pages for Tarleton Gillespie, The Relevance of Algorithms, Kyle Chayka, Filterworld, Marshall McLuhan, Public Relevance Algorithms, Algorithmic Inclusion Patterns, Algorithmic Prediction Loop, Algorithmic Relevance Assessment, Algorithmic Objectivity Promise, Algorithmic Entanglement, Calculated Publics, and Algorithmic Diversity Dividend; updated overview, index, 起朱楼宴宾客, 大卫翁, Google, Amazon, Spotify, TikTok, Instagram, Douyin, Xiaohongshu, Walter Benjamin, Information Cocoon, Attention Industrialization, Algorithmic Labeling, PageRank Search Relevance, Recommendation System Productization, Personalization As Social Identity, Feed Curation, Creator Evaluation Pressure, and Group Polarization. No direct contradiction found; the source extends the wiki's information-cocoon, attention-industrialization, recommendation, and platform-power branches while qualifying cocoon panic with a multi-platform diversity countermeasure.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

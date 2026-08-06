@@ -2,7 +2,7 @@
 title: "Algorithmic Labeling"
 type: concept
 tags: [social-media, youth, attention, relationships]
-sources: [37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
+sources: [159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
 last_updated: 2026-08-06
 ---
 
@@ -16,6 +16,8 @@ The source's strongest concern is offline spillover. If students learn to interp
 
 [[140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655]] adds a lived counterweight through [[Jinzi|金子]]. The episode uses "小镇做题家" not as a fast label for sorting others, but as a way to examine the discipline, opportunity, gender contradiction, and self-surveillance behind the label.
 
+[[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] shifts the concept from social labels to platform data labels. [[AlgorithmicInclusionPatterns]] show that tags, categories, adult-content flags, trend eligibility, and demotion rules can decide whether a group or work appears at all, while [[CalculatedPublics]] show how inferred labels can become identity categories for users.
+
 ## Key Claims
 - Labels simplify social reality enough to travel quickly through algorithmic feeds.
 - A label can contain some social observation while still damaging the ability to understand individuals.
@@ -23,6 +25,7 @@ The source's strongest concern is offline spillover. If students learn to interp
 - Algorithmic labeling weakens [[EmpathyBoundaries]] because people start from category judgment rather than contextual understanding.
 - Episode 140 adds that labels can become useful only when unpacked into lived mechanisms such as schooling, town opportunity, gender rules, and adult workplace translation.
 - Episode 37 adds that intelligence labels are especially dangerous when they look objective enough to make contempt feel scientific.
+- Episode 159 adds that labels also operate inside platforms: classification can govern visibility before ordinary users see a ranking or discussion.
 
 ## Connections
 - [[AttentionIndustrialization]] - platform environment that rewards simple, emotionally efficient signals.
@@ -31,3 +34,4 @@ The source's strongest concern is offline spillover. If students learn to interp
 - [[YouthHappinessAfterGrowth]] and [[AchievementPressureMentalHealth]] - youth context where labels become social interpretation tools.
 - [[SmallTownExamTakerDiscipline|小镇做题家规训]], [[Jinzi|金子]], and [[HaikeyiDeJinNvshi|《还可以的金女士》]] - episode 140's lived-analysis extension of a widely circulated label.
 - [[IntelligenceTesting]], [[PsychometricSocialSorting]], and [[MeritocraticArrogance]] - episode 37's measured-ability label extension.
+- [[AlgorithmicInclusionPatterns]] and [[CalculatedPublics]] - episode 159's platform-data and inferred-public extension.

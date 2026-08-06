@@ -2,8 +2,8 @@
 title: "Feed Curation"
 type: concept
 tags: [attention, media, life-design, agency]
-sources: [154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
-last_updated: 2026-07-09
+sources: [159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
+last_updated: 2026-08-06
 ---
 
 # Feed Curation
@@ -14,6 +14,8 @@ The episode's rule is that a lower-level constraint can create higher-level free
 
 [[154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x]] adds [[DavidWeng|大卫翁]]'s midlife autonomy version. He notices heavy phone use and worries that feeds plus AI can make attention reactive, while also describing the deliberate act of listening to opposing or unfamiliar worldviews as a way to test the limits of one's own frame without surrendering judgment.
 
+[[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] adds a platform-comparison response. The episode accepts that each algorithmic feed has bias, but argues that using multiple platforms, long audio, books, and conversation can make those biases visible to the user instead of allowing one filter to become the whole world.
+
 Feed curation extends [[AttentionIndustrialization]] from critique to practice. If platforms and AI systems can industrialize mental intake, the user needs active input governance rather than relying on willpower after the feed has already been optimized against them.
 
 ## Key Claims
@@ -23,6 +25,7 @@ Feed curation extends [[AttentionIndustrialization]] from critique to practice. 
 - Feed design connects to [[PersonalKnowledgeEcology]] because inputs become notes, questions, memories, and future frames.
 - AI-era speed makes feed curation more important because models can multiply whatever input diet the user provides.
 - Episode 154 adds that curation includes choosing when to expose oneself to disagreeable views for worldview testing, not only reducing noisy inputs.
+- Episode 159 adds that comparing multiple algorithmic filters can be a curation method when the user treats difference as evidence.
 
 ## Connections
 - [[AttentionIndustrialization]] — platform-level problem feed curation responds to.
@@ -32,3 +35,4 @@ Feed curation extends [[AttentionIndustrialization]] from critique to practice. 
 - [[PersonalKnowledgeEcology]] and [[AIAssistedReading]] — curated inputs feed the user's knowledge system.
 - [[FlowEnvironmentDesign]] — adjacent method of shaping environment so attention can settle.
 - [[RuminationVsReflection]] — input noise can feed rumination instead of useful thought.
+- [[AlgorithmicDiversityDividend]], [[PublicRelevanceAlgorithms]], and [[InformationCocoon]] - episode 159's platform-comparison and anti-cocoon extension.

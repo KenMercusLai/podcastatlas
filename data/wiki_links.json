@@ -507,6 +507,10 @@
     "title": "158.全员名侦探：推理薯片来一包！",
     "url": "/wiki/sources/158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122/"
   },
+  "159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7": {
+    "title": "159.算法的六副面孔：它是如何从处理数据，变成定义我们是谁的",
+    "url": "/wiki/sources/159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7/"
+  },
   "159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201": {
     "title": "159.要精明，要善良，要解决问题",
     "url": "/wiki/sources/159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201/"
@@ -2663,9 +2667,33 @@
     "title": "Algorithmic Desire Preemption / 算法欲望预支",
     "url": "/wiki/concepts/algorithmicdesirepreemption/"
   },
+  "AlgorithmicDiversityDividend": {
+    "title": "Algorithmic Diversity Dividend / 算法多样性红利",
+    "url": "/wiki/concepts/algorithmicdiversitydividend/"
+  },
+  "AlgorithmicEntanglement": {
+    "title": "Algorithmic Entanglement / 算法与实践纠缠",
+    "url": "/wiki/concepts/algorithmicentanglement/"
+  },
+  "AlgorithmicInclusionPatterns": {
+    "title": "Algorithmic Inclusion Patterns / 算法包含模式",
+    "url": "/wiki/concepts/algorithmicinclusionpatterns/"
+  },
   "AlgorithmicLabeling": {
     "title": "Algorithmic Labeling",
     "url": "/wiki/concepts/algorithmiclabeling/"
+  },
+  "AlgorithmicObjectivityPromise": {
+    "title": "Algorithmic Objectivity Promise / 算法客观性承诺",
+    "url": "/wiki/concepts/algorithmicobjectivitypromise/"
+  },
+  "AlgorithmicPredictionLoop": {
+    "title": "Algorithmic Prediction Loop / 算法预判循环",
+    "url": "/wiki/concepts/algorithmicpredictionloop/"
+  },
+  "AlgorithmicRelevanceAssessment": {
+    "title": "Algorithmic Relevance Assessment / 算法相关性评估",
+    "url": "/wiki/concepts/algorithmicrelevanceassessment/"
   },
   "AliFangxuehou": {
     "title": "阿里（《放学后的小巷》）",
@@ -5342,6 +5370,10 @@
   "CaitlinClark": {
     "title": "Caitlin Clark",
     "url": "/wiki/entities/caitlinclark/"
+  },
+  "CalculatedPublics": {
+    "title": "Calculated Publics / 计算出的公众",
+    "url": "/wiki/concepts/calculatedpublics/"
   },
   "CalculatingEmpires": {
     "title": "Calculating Empires",
@@ -11094,6 +11126,10 @@
   "FilmSetPowerAndAbuse": {
     "title": "Film Set Power And Abuse",
     "url": "/wiki/concepts/filmsetpowerandabuse/"
+  },
+  "Filterworld": {
+    "title": "Filterworld",
+    "url": "/wiki/entities/filterworld/"
   },
   "FinallySomethingGood": {
     "title": "Finally Something Good",
@@ -17119,6 +17155,10 @@
     "title": "Kyiv",
     "url": "/wiki/entities/kyiv/"
   },
+  "KyleChayka": {
+    "title": "Kyle Chayka",
+    "url": "/wiki/entities/kylechayka/"
+  },
   "KyleVogt": {
     "title": "Kyle Vogt",
     "url": "/wiki/entities/kylevogt/"
@@ -19162,6 +19202,10 @@
   "Mars": {
     "title": "Mars",
     "url": "/wiki/entities/mars/"
+  },
+  "MarshallMcLuhan": {
+    "title": "Marshall McLuhan / 麦克卢汉",
+    "url": "/wiki/entities/marshallmcluhan/"
   },
   "MarthaGellhorn": {
     "title": "Martha Gellhorn / 玛莎·盖尔霍恩",
@@ -23999,6 +24043,10 @@
     "title": "Public Opinion Litigation Strategy",
     "url": "/wiki/concepts/publicopinionlitigationstrategy/"
   },
+  "PublicRelevanceAlgorithms": {
+    "title": "Public Relevance Algorithms / 公共相关性的算法",
+    "url": "/wiki/concepts/publicrelevancealgorithms/"
+  },
   "PublicServiceDigitalization": {
     "title": "Public Service Digitalization",
     "url": "/wiki/concepts/publicservicedigitalization/"
@@ -28807,6 +28855,10 @@
     "title": "Tariq Rahman",
     "url": "/wiki/entities/tariqrahman/"
   },
+  "TarletonGillespie": {
+    "title": "Tarleton Gillespie",
+    "url": "/wiki/entities/tarletongillespie/"
+  },
   "TaskAsAService": {
     "title": "Task As A Service",
     "url": "/wiki/concepts/taskasaservice/"
@@ -29282,6 +29334,10 @@
   "TheRealReal": {
     "title": "The RealReal",
     "url": "/wiki/entities/therealreal/"
+  },
+  "TheRelevanceOfAlgorithms": {
+    "title": "The Relevance of Algorithms",
+    "url": "/wiki/entities/therelevanceofalgorithms/"
   },
   "TheResidency": {
     "title": "The Residency",

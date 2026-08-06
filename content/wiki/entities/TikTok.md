@@ -2,11 +2,13 @@
 title: "TikTok"
 type: entity
 tags: [company, social-platform, internationalization]
-sources: [vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
+sources: [159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
 last_updated: 2026-08-06
 ---
 
 # TikTok
+
+[[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] adds TikTok through [[Filterworld]]'s travel and taste standardization critique. The episode uses Iceland travel examples to show how visually optimized recommendations can narrow what travelers seek, while also treating TikTok as one filter among several in an [[AlgorithmicDiversityDividend]] strategy.
 
 [[tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128]] adds TikTok as one of the social-media companies that reportedly settled a Los Angeles lawsuit over alleged addictive design and youth mental-health harms. The episode uses TikTok less as a product-specific case than as part of the broader [[SocialMediaProductLiability]] wave that [[EricGoldman]] warns could produce [[InternetLiabilitySpillover]].
 
@@ -32,6 +34,7 @@ For the wiki, TikTok extends [[CrossCulturalProductDesign]] from Southeast Asian
 
 ## Connections
 
+- [[Filterworld]], [[KyleChayka]], [[AlgorithmicDiversityDividend]], and [[AlgorithmicRelevanceAssessment]] - episode 159's taste-standardization and platform-comparison branch.
 - [[MusicalLy]], [[ByteDance]], [[Vanessa]], [[AlexZhu]], and [[ZhangNan]] — product-formation and organization context added by the Luanfanshu source.
 - [[SocialMediaProductLiability]], [[PlatformLegalCausation]], [[Meta]], [[YouTube]], and [[Snapchat]] - U.S. youth-safety litigation context added by Marketplace Tech.
 - [[ShortVideoCreationTools]], [[RecommendationSystemProductization]], [[ContentEcosystemGovernance]], [[DataDrivenProductCulture]], [[GlobalProductLocalization]], and [[ProductContainer]] — main product concepts attached to TikTok by the new source.

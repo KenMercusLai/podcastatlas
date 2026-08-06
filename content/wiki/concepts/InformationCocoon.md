@@ -2,7 +2,7 @@
 title: "Information Cocoon / 信息茧房"
 type: concept
 tags: [media, psychology, internet-culture, polarization]
-sources: [154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]
+sources: [159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]
 last_updated: 2026-08-06
 ---
 
@@ -18,6 +18,8 @@ The episode links information cocoons to online groups, politicized vaccine info
 
 [[154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x]] adds a deliberate-exposure response. [[DavidWeng|大卫翁]] says he sometimes listens to views he does not share, such as All-In or Japanese right-wing perspectives, not to agree but to see the limits of his own worldview. The source frames this as [[FeedCuration]] for worldview testing rather than passive algorithmic exposure.
 
+[[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] adds the algorithm-sociology version and a qualification. The episode says [[AlgorithmicPredictionLoop]] and [[CalculatedPublics]] can accelerate polarization by repeatedly defining "people like you", but it also argues that many users move among platforms and media forms, creating an [[AlgorithmicDiversityDividend]] when those filters are compared rather than passively merged.
+
 ## Key Claims
 - Selective exposure lowers the chance that contrary evidence reaches the person as usable evidence.
 - Group reward makes repeated claims feel more credible and safer to repeat.
@@ -26,6 +28,7 @@ The episode links information cocoons to online groups, politicized vaccine info
 - Subscriptions can isolate audience groups around preferred creators, while algorithmic feeds can isolate users around repeated event-level and viewpoint-level signals.
 - Market narratives can become more extreme when investment content spreads inside platform-shaped cocoons.
 - Episode 154 adds that leaving a cocoon can be intentional and limited: the aim is to test one's own frame without outsourcing judgment to the opposing group.
+- Episode 159 adds that information cocoons are often leaky: platform variety can expose blind spots, but only if users actively notice the differences between filters.
 
 ## Connections
 - [[GroupPolarization]] - dynamic that can intensify inside the cocoon.
@@ -35,3 +38,4 @@ The episode links information cocoons to online groups, politicized vaccine info
 - [[CreatorDrivenFinancialNarrative]] - episode 141's financial-market version of cocooned creator influence.
 - [[CreatorFactCheckingResponsibility]] - verification duty when creators speak inside closed or reinforcing audience groups.
 - [[FeedCuration]], [[InvestmentWorldviewFit]], and [[AutonomyUnderInformationFlow]] - episode 154's worldview-testing and autonomy branch.
+- [[AlgorithmicPredictionLoop]], [[CalculatedPublics]], and [[AlgorithmicDiversityDividend]] - episode 159's algorithmic grouping and multi-platform qualification.

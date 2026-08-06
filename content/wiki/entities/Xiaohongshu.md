@@ -2,11 +2,13 @@
 title: "Xiaohongshu"
 type: entity
 tags: [platform, social-media, community]
-sources: [141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, vol-264-ba-shijiebei-zuowei-fangfa-999416048, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
+sources: [159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, vol-264-ba-shijiebei-zuowei-fangfa-999416048, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
 last_updated: 2026-08-06
 ---
 
 # Xiaohongshu
+
+[[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] adds a personal platform-use diagnosis. [[DavidWeng|大卫翁]] says his own Xiaohongshu feed increasingly converts topics that once felt like [[LiveHumanFeeling|活人感]] into ads, marketing, and AI-like content, making the platform a case in [[AlgorithmicPredictionLoop]], [[CalculatedPublics]], and the limits of preference-based personalization.
 
 [[141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]] adds Xiaohongshu as one Chinese platform surface in [[CreatorDrivenFinancialNarrative]]. The source groups it with short-video platforms, public accounts, podcasts, and investing communities to argue that social content can help concentrate A-share market narratives.
 
@@ -35,6 +37,7 @@ The source frames Xiaohongshu less as a conventional startup demo day host and m
 [[176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]] adds Xiaohongshu as an applied food-system education surface through [[ZhuGe|猪哥 / 猪场严选]]. The episode presents the platform as where a livestock-industry insider can explain pork, [[FoodAnimalWelfare]], [[AnimalWelfareProductLabeling]], and consumer misconceptions in a more public-facing style than ordinary industry communication.
 
 ## Connections
+- [[AlgorithmicPredictionLoop]], [[CalculatedPublics]], [[AlgorithmicDiversityDividend]], and [[LiveHumanFeeling|活人感]] - episode 159's personal feed-diagnosis branch.
 - [[XiaohongshuHackathonPeakCompetition]] — event organized around AI-era builders.
 - [[ProductContainer]], [[Douyin]], and [[TikTok]] — container-fit comparison added by the Musical.ly/TikTok source.
 - [[Shanbin]] — community technology lead and event organizer in the episode.

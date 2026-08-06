@@ -2,11 +2,13 @@
 title: "Instagram"
 type: entity
 tags: [company, social-media, platform]
-sources: [84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]
+sources: [159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]
 last_updated: 2026-08-06
 ---
 
 # Instagram
+
+[[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] adds Instagram through [[Filterworld]]'s travel-taste critique. The episode treats Instagrammable places and recommendation-ready aesthetics as part of the loop by which platforms standardize destination choice, while also making Instagram one comparison point in [[AlgorithmicDiversityDividend]].
 
 [[84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676]] adds Instagram as a visibility filter in [[SocialMediaAbuseMask]]. [[JoyWiebe|Joy "Joey" Wiebe / Joey]]'s trucker posts attract [[AmyButcher|Amy Butcher / 艾米]] toward [[Alaska]], while Amy's own peaceful-looking feed helps hide the private fear and [[PsychologicalAbuseRecognition|psychological abuse]] she is living through.
 
@@ -19,6 +21,7 @@ Instagram appears in [[tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-
 The source adds Instagram to the wiki as a campus-culture input inside [[AICollegeSearch]]. Its role here is not direct institutional marketing alone; it is also informal student-generated evidence that AI tools may summarize when applicants compare schools.
 
 ## Connections
+- [[Filterworld]], [[KyleChayka]], [[AlgorithmicDiversityDividend]], and [[AlgorithmicRelevanceAssessment]] - episode 159's travel-taste and platform-comparison branch.
 - [[SocialMediaAbuseMask]], [[AmyButcher]], [[JoyWiebe]], and [[Mothertrucker]] - episode 84 branch around public image, witness, and hidden abuse.
 - [[Meta]], [[Facebook]], [[GaiaBernstein]], [[StateAGPlatformLitigation]], and [[SocialMediaProductLiability]] - youth social-media litigation context added by Marketplace Tech.
 - [[MuseImage|Muse Image]], [[WhatsApp]], and [[AIPublicLikenessGeneration]] - social AI image-generation and public-likeness context added by Marketplace Tech.

@@ -2,11 +2,13 @@
 title: "Douyin"
 type: entity
 tags: [company, short-video, platform, travel, local-commerce, short-drama, china]
-sources: [141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
+sources: [159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
 last_updated: 2026-08-06
 ---
 
 # Douyin
+
+[[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] adds Douyin as one of the Chinese comparison surfaces in [[AlgorithmicDiversityDividend]]. The episode argues that no single platform escapes filtering, but moving between Douyin, [[Xiaohongshu]], books, audio, and conversation can make filter differences more visible than staying inside one feed.
 
 [[141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]] adds Douyin as a short-video distribution surface in [[CreatorDrivenFinancialNarrative]]. The source does not analyze Douyin's product strategy directly; it treats the platform as one place where creator commentary and algorithmic attention can reinforce market narratives.
 
@@ -33,6 +35,7 @@ This makes Douyin part of the broader question of whether [[OnlineTravelAgency]]
 [[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] adds Douyin to the producer-side [[ShortDramaPaidTrafficDistribution]] map. [[Taitai]] describes the short-drama chain as production side, traffic-buying side, and platform side, with Douyin sitting beside [[Hongguo]] and C-DANCE/[[Seedance]] in the source's ByteDance-adjacent stack where traffic, review, and monetization power concentrate.
 
 ## Connections
+- [[AlgorithmicDiversityDividend]], [[Xiaohongshu]], [[FeedCuration]], and [[InformationCocoon]] - episode 159's multi-platform comparison branch.
 - [[Ctrip]], [[Meituan]], [[Fliggy]], and [[JDTravel]] — travel-competition context.
 - [[TikTok]], [[MusicalLy]], [[GlobalProductLocalization]], and [[ProductContainer]] — globalization and container-fit comparison added by the Musical.ly/TikTok source.
 - [[TravelSuperAppConvenience]], [[OTAPlatformConcentration]], and [[PlatformAntitrust]] — concept links.
