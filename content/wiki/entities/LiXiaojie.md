@@ -1,8 +1,8 @@
 ---
 title: "李小杰 / Li Xiaojie"
 type: entity
-tags: [person, journalist, eldercare, vocational-education]
-sources: [ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
+tags: [person, journalist, eldercare, vocational-education, media, work]
+sources: [ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
 last_updated: 2026-08-07
 ---
 
@@ -12,8 +12,11 @@ Li Xiaojie is a [[SanlianLifeWeekly|三联生活周刊]] reporter and [[TalkSanl
 
 Her account makes [[SchoolEnterpriseCooperation|校企合作]] concrete in a care setting rather than only a factory setting. She compares [[MinzhengVocationalUniversity|民政职业大学]], [[TaikangHome|太康之家]], and a Beijing public-private elder-care institution to show how industry demand, student reluctance, stigma, wages, and hands-on practice shape whether trained students stay in elder care.
 
+[[ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb]] adds her reporter-self-understanding branch. 李小杰 describes how early confidence in journalistic authority weakened as public institutions, interview subjects, and online audiences increasingly questioned reporters' motives; she later moved toward longer-cycle, less confrontational reporting while still valuing interview travel and simple working relations.
+
 ## Connections
 - [[TalkSanlian]] and [[SanlianLifeWeekly]] — show and reporting context.
 - [[ElderCareWorkforce]], [[CareSocialization]], and [[PatientDignityInDailyCare]] — care-labor concepts her segment strengthens.
 - [[MinzhengVocationalUniversity]] and [[TaikangHome]] — main institutions in her elder-care reporting.
 - [[AIAndRoboticElderCareLimits]] and [[AIProgramAdjustment]] — technology boundary and program-adjustment branch.
+- [[JournalisticAuthorityErosion]], [[SocialReportingBurnout]], [[MediaWorkAsLifestyle]], and [[InterviewAsEmbodiedReporting]] — journalism-work concepts added by EP244.

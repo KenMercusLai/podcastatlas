@@ -13107,6 +13107,10 @@
     "title": "Good Roads Movement",
     "url": "/wiki/concepts/goodroadsmovement/"
   },
+  "GoodWorkNewStandard": {
+    "title": "Good Work New Standard / 好工作的新标准",
+    "url": "/wiki/concepts/goodworknewstandard/"
+  },
   "GoodhartsLaw": {
     "title": "Goodhart's Law",
     "url": "/wiki/concepts/goodhartslaw/"
@@ -15539,6 +15543,10 @@
     "title": "Interstate Bypass Economics",
     "url": "/wiki/concepts/interstatebypasseconomics/"
   },
+  "InterviewAsEmbodiedReporting": {
+    "title": "Interview As Embodied Reporting / 采访作为具身报道",
+    "url": "/wiki/concepts/interviewasembodiedreporting/"
+  },
   "IntimacyBeyondGenderScript": {
     "title": "Intimacy Beyond Gender Script / 超越性别脚本的亲密",
     "url": "/wiki/concepts/intimacybeyondgenderscript/"
@@ -16839,9 +16847,17 @@
     "title": "Josie Dallap",
     "url": "/wiki/entities/josiedallap/"
   },
+  "JournalisticAuthorityErosion": {
+    "title": "Journalistic Authority Erosion / 记者权威感消失",
+    "url": "/wiki/concepts/journalisticauthorityerosion/"
+  },
   "JournalisticIndependenceAgainstFaction": {
     "title": "Journalistic Independence Against Faction / 拒绝站队的新闻独立",
     "url": "/wiki/concepts/journalisticindependenceagainstfaction/"
+  },
+  "JournalisticPublicness": {
+    "title": "Journalistic Publicness / 记者工作的公共性",
+    "url": "/wiki/concepts/journalisticpublicness/"
   },
   "JourneyToTheWest": {
     "title": "《西游记》",
@@ -18671,6 +18687,10 @@
     "title": "Long-Horizon AI",
     "url": "/wiki/concepts/longhorizonai/"
   },
+  "LongHorizonWorkEvaluation": {
+    "title": "Long-Horizon Work Evaluation / 长时间尺度工作评估",
+    "url": "/wiki/concepts/longhorizonworkevaluation/"
+  },
   "LongLivedStartupDecisions": {
     "title": "Long-Lived Startup Decisions",
     "url": "/wiki/concepts/longlivedstartupdecisions/"
@@ -19910,6 +19930,10 @@
   "MediaTek": {
     "title": "MediaTek",
     "url": "/wiki/entities/mediatek/"
+  },
+  "MediaWorkAsLifestyle": {
+    "title": "Media Work As Lifestyle / 媒体工作作为生活方式",
+    "url": "/wiki/concepts/mediaworkaslifestyle/"
   },
   "MedicalAIMarketingRisk": {
     "title": "Medical AI Marketing Risk",
@@ -21794,6 +21818,10 @@
   "NoraDoel": {
     "title": "Nora Doel / 诺拉·多尔",
     "url": "/wiki/entities/noradoel/"
+  },
+  "NormalWorkBaseline": {
+    "title": "Normal Work Baseline / 正常工作基线",
+    "url": "/wiki/concepts/normalworkbaseline/"
   },
   "NorseMythology": {
     "title": "Norse Mythology / 北欧神话",
@@ -27879,6 +27907,10 @@
     "title": "Social Reality Construction / 社会现实建构",
     "url": "/wiki/concepts/socialrealityconstruction/"
   },
+  "SocialReportingBurnout": {
+    "title": "Social Reporting Burnout / 社会报道消耗",
+    "url": "/wiki/concepts/socialreportingburnout/"
+  },
   "SocialSignalInterpretation": {
     "title": "Social Signal Interpretation",
     "url": "/wiki/concepts/socialsignalinterpretation/"
@@ -32383,6 +32415,10 @@
     "title": "Work-From-Home Scam",
     "url": "/wiki/concepts/workfromhomescam/"
   },
+  "WorkRoleDecentering": {
+    "title": "Work Role Decentering / 工作角色去中心化",
+    "url": "/wiki/concepts/workroledecentering/"
+  },
   "WorkplaceAITransparency": {
     "title": "Workplace AI Transparency",
     "url": "/wiki/concepts/workplaceaitransparency/"
@@ -33334,6 +33370,10 @@
   "YuYingshi": {
     "title": "余英时 / Yu Yingshi",
     "url": "/wiki/entities/yuyingshi/"
+  },
+  "YuanChanggeng": {
+    "title": "袁长庚 / Yuan Changgeng",
+    "url": "/wiki/entities/yuanchanggeng/"
   },
   "YuanShanla": {
     "title": "Yuan Shanla / 袁善辣",
@@ -34438,6 +34478,10 @@
   "ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6": {
     "title": "EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了",
     "url": "/wiki/sources/ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6/"
+  },
+  "ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb": {
+    "title": "EP244 记者眼中的“好工作”，什么样？",
+    "url": "/wiki/sources/ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb/"
   },
   "ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg": {
     "title": "EP25 中资外资哪家强：“一劳永逸”找“钱粮”（下）",

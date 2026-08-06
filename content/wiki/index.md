@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP244 记者眼中的“好工作”，什么样？](sources/ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb.md) — Talk三联 episode with 魏茜, 李小杰, and 吴淑彬 on good work standards, normal work, work decentering, media-industry change, social-reporting burnout, journalistic authority erosion, and AI-era interviewing.
 - [EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了](sources/ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6.md) — Talk三联 episode with 双雪涛, 蒋奇明, and 李雪琴 on 《飞行家》, covering adaptation from failure to ordinary life, Northeast memory, regional-language performance, family-supported aspiration, and Northeast women.
 - [EP242 独立游戏，是一条搞钱好赛道吗？](sources/ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu.md) — Talk三联 episode on whether independent games are a viable money-making path, covering Steam publishing, Dragon Spirit, vertical fandom crowdfunding, OC commissions, BJD makeup, AI tools, and skill-based side income.
 - [EP241 校企合作是新一代的“铁饭碗”吗？](sources/ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig.md) — Talk三联 episode on vocational education and school-enterprise cooperation, covering Bosch dual-system training, Li Auto's Changzhou industrial college, elder-care workforce training, degree progression, career cognition, and AI-assisted program adjustment.
@@ -800,6 +801,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [袁长庚 / Yuan Changgeng](entities/YuanChanggeng.md) — Anthropologist cited in EP244 for a long-time-scale view of work and life, grounding long-horizon work evaluation.
 - [蒋奇明 / Jiang Qiming](entities/JiangQiming.md) — Actor in EP243 whose 《飞行家》 role grounds the idea that Northeast speech is a route into character thinking rather than just accent.
 - [李雪琴 / Li Xueqin](entities/LiXueqin.md) — Performer and EP243 guest connecting 《飞行家》 to Northeast family life, relatives as family, supportive dream stories, and Northeast women.
 - [双雪涛 / Shuang Xuetao](entities/ShuangXuetao.md) — Writer and EP243 guest explaining how 《飞行家》 shifts from a failure frame toward an ordinary-person and family-responsibility frame.
@@ -813,7 +815,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [66RPG](entities/SixtySixRPG.md) — Early Chinese game-making forum in EP242 tied to RPG Maker learning and hobbyist creator communities.
 - [Project One论坛](entities/ProjectOneForum.md) — Later form of the 66RPG community in EP242, representing the forum-to-commercialization maker path.
 - [米画师 / Mihuashi](entities/Mihuashi.md) — Art-commission platform named in EP242's discussion of original-character and game-art service markets.
-- [李小杰 / Li Xiaojie](entities/LiXiaojie.md) — Sanlian reporter in EP241 grounding the elder-care vocational-training branch through real care scenes, student reluctance, and institutional cooperation.
+- [李小杰 / Li Xiaojie](entities/LiXiaojie.md) — Sanlian reporter in EP241 grounding elder-care vocational training; EP244 adds her reflections on journalist authority erosion, social reporting, and staying in media.
 - [Bosch / 博世](entities/Bosch.md) — Manufacturing company in EP241 representing the heavy-investment dual-system vocational-education model.
 - [Li Auto / 理想汽车](entities/LiAuto.md) — New-energy-vehicle company in EP241 tied to the Changzhou industrial-college case and maintenance career ladder.
 - [常州工业职业技术学院 / Changzhou Industrial Vocational Technical College](entities/ChangzhouIndustrialVocationalTechnicalCollege.md) — Vocational school in EP241 hosting Li Auto's industrial college inside Changzhou's new-energy cluster.
@@ -833,10 +835,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [World Gold Council / 世界黄金协会](entities/WorldGoldCouncil.md) — Gold-market organization providing the institutional context for 王立新's expert framing in EP239.
 - [Shanghai Gold Exchange / 上海黄金交易所](entities/ShanghaiGoldExchange.md) — 2002 Chinese gold-market infrastructure milestone used by EP239 to explain marketized domestic gold trading.
 - [薛鹏 / Xue Peng](entities/XuePeng.md) — Talk三联 speaker grounding EP238's armored-combat segment through armor, historical authenticity, team fighting, and commercialization limits.
-- [吴淑彬 / Wu Shubin](entities/WuShubin.md) — Talk三联 speaker in EP238 explaining mermaid freediving, paddleboarding, water-sport venues, courses, equipment, and urban water access.
+- [吴淑彬 / Wu Shubin](entities/WuShubin.md) — Talk三联 speaker in EP238 explaining water sports; EP244 adds her institutional media-work, social-reporting burnout, and rest-boundary reflections.
 - [许路 / Xu Lu](entities/XuLu.md) — Sailing interview subject in EP238 connecting leisure sailing to Xiamen dock memory, wooden-boat restoration, Fujian fieldwork, and experimental archaeology.
 - [张伯后 / Jerry](entities/ZhangBohouJerry.md) — Padel player interviewed in EP238, used to show athlete opportunity and support networks in an emerging racket sport.
-- [魏茜 / Wei Qian (Sanlian)](entities/WeiQianSanlian.md) — 三联生活周刊 reporter and Talk三联 guest grounding EP236's emotion-economy, wellness, plush, pet, and self-care discussion.
+- [魏茜 / Wei Qian (Sanlian)](entities/WeiQianSanlian.md) — 三联生活周刊 reporter grounding EP236's emotion economy and EP244's good-work, journalistic publicness, and AI-interviewing boundary.
 - [阮佳宁 / Ruan Jianing](entities/RuanJianing.md) — 三联生活周刊 reporter and Talk三联 guest grounding EP236's paid-listening, platform-incentive, therapy-boundary, and AI-companionship discussion.
 - [Jellycat](entities/Jellycat.md) — Plush-toy brand used by EP236 as an example of tactile comfort consumption inside the emotion economy.
 - [Siri Investment / Siri 投资](entities/SiriInvestment.md) — Ricky's investment firm named in episode 172, separated from Apple Siri and tied to AI capex, China/Hong Kong rotation, and institutional risk-control context.
@@ -5417,6 +5419,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Good Work New Standard / 好工作的新标准](concepts/GoodWorkNewStandard.md) — EP244 umbrella frame for changing job-quality criteria across income, stability, dignity, growth, meaning, life stage, and media work.
+- [Normal Work Baseline / 正常工作基线](concepts/NormalWorkBaseline.md) — EP244 frame for basic non-exploitative work conditions such as pay, leave, social insurance, respect, and growth.
+- [Work Role Decentering / 工作角色去中心化](concepts/WorkRoleDecentering.md) — EP244 pattern where work no longer monopolizes identity, meaning, happiness, income, and social recognition.
+- [Journalistic Publicness / 记者工作的公共性](concepts/JournalisticPublicness.md) — EP244 frame for reporting as public explanation, stranger contact, cognitive labor, and accountable understanding.
+- [Social Reporting Burnout / 社会报道消耗](concepts/SocialReportingBurnout.md) — EP244 concept for the emotional, relational, and cognitive cost of public-facing social news.
+- [Journalistic Authority Erosion / 记者权威感消失](concepts/JournalisticAuthorityErosion.md) — EP244 media-trust diagnosis around weakened reporter authority, public suspicion, and industry irregularity.
+- [Interview As Embodied Reporting / 采访作为具身报道](concepts/InterviewAsEmbodiedReporting.md) — EP244 AI-era boundary separating generated prose from human interviewing, scene judgment, and byline responsibility.
+- [Media Work As Lifestyle / 媒体工作作为生活方式](concepts/MediaWorkAsLifestyle.md) — EP244 explanation for why journalists may stay for autonomy, learning, simple relations, and contact with unfamiliar worlds.
+- [Long-Horizon Work Evaluation / 长时间尺度工作评估](concepts/LongHorizonWorkEvaluation.md) — EP244/Yuan Changgeng frame for judging work over a whole life rather than one immediate workplace conflict.
 - [Adaptation As Moral Reframing / 改编作为道德重心重置](concepts/AdaptationAsMoralReframing.md) — EP243 concept for an adaptation changing a story's moral center from failure to ordinary personhood rather than only changing plot details.
 - [Northeast As Memory Structure / 东北作为记忆结构](concepts/NortheastAsMemoryStructure.md) — EP243 frame for Northeast identity as language, vanished landmarks, factory smell, rooms, food, football fields, and family memory.
 - [Regional Language As Character Access / 方言作为人物入口](concepts/RegionalLanguageAsCharacterAccess.md) — EP243 performance concept treating Northeast speech as local cognition, emotional rhythm, and character access rather than surface accent.

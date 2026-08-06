@@ -6306,6 +6306,10 @@ Added source page for a 起朱楼宴宾客 algorithm-series crossover with 独�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-07] ingest | EP244 记者眼中的“好工作”，什么样？
+
+Added source page for a Talk三联 episode with 魏茜, 李小杰, and 吴淑彬 on changing good-work standards, normal work, work role decentering, journalism's publicness, social-reporting burnout, journalistic authority erosion, media work as lifestyle, AI-era interviewing, and long-horizon work evaluation through 袁长庚. Created pages for 袁长庚, Good Work New Standard, Normal Work Baseline, Work Role Decentering, Journalistic Publicness, Social Reporting Burnout, Journalistic Authority Erosion, Interview As Embodied Reporting, Media Work As Lifestyle, and Long-Horizon Work Evaluation; updated overview, index, Talk三联, 三联生活周刊, 魏茜, 李小杰, 吴淑彬, AI-Written Journalism, AI Journalism Trust, and Public Service Journalism. No direct contradiction found; the source qualifies good-job and AI-journalism discussions by showing that ordinary labor protections are becoming the real baseline while interviewing, field presence, and byline responsibility remain distinct from generated prose.
+
 ## [2026-08-07] ingest | EP241 校企合作是新一代的“铁饭碗”吗？
 
 Added source page for a Talk三联 episode on vocational education and school-enterprise cooperation, covering Bosch dual-system training, Li Auto's Changzhou industrial college, elder-care workforce training, degree progression, project-based learning, career cognition, and AI-assisted program adjustment. Created pages for 李小杰 / Li Xiaojie, Bosch / 博世, Li Auto / 理想汽车, 常州工业职业技术学院, 民政职业大学, 太康之家, Vocational Education, School-Enterprise Cooperation, Dual-System Vocational Education, Industrial College, Order-Class Vocational Education, Vocational Degree Progression, Project-Based Vocational Learning, Career Cognition Education, AI-Assisted Program Adjustment, and Elder-Care Workforce; updated overview, index, Talk三联, 三联生活周刊, 张从志, 刘畅, Changzhou, College Career Preparation, Education Signal Inflation, Career Shore Myth, AI As Tutor, AI And Robotic Elder-Care Limits, Elder Care State Capacity, Care Socialization, Patient Dignity In Daily Care, and Local Battery Industrial Clusters. No direct contradiction found; the source reinforces the wiki's elder-care technology boundary and career-shore skepticism while adding a vocational-education path where stable work depends on industry demand, enterprise investment, school adaptation, student recognition, and skill progression.
@@ -6397,6 +6401,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] ingest | EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了
 
 Added source page for a Talk三联 episode with 双雪涛, 蒋奇明, and 李雪琴 on 《飞行家》, covering novel-to-film adaptation, the shift from failure to ordinary personhood, Northeast speech and memory, family-supported aspiration, only-child and parental expectation, Northeast women, and the Yafeng role. Created pages for 蒋奇明, 李雪琴, 双雪涛, 《飞行家》, Adaptation As Moral Reframing, Northeast As Memory Structure, Regional Language As Character Access, Family-Supported Aspiration, and Northeast Women Family Agency; updated overview, index, Talk三联, 三联生活周刊, Responsibility Against Romantic Escape, and Female Self-Possession. No direct contradiction found; the source qualifies individual dream narratives by showing aspiration as relational, family-supported, historically situated, and ethically shaped rather than purely solitary escape.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 

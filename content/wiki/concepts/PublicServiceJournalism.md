@@ -2,8 +2,8 @@
 title: "Public Service Journalism"
 type: concept
 tags: [journalism, public-media, democracy]
-sources: [141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, congress-has-voted-to-eliminate-government-funding-for-public-media, stefan-sagmeister-finally-something-good-yqqxftsvema]
-last_updated: 2026-08-06
+sources: [ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, congress-has-voted-to-eliminate-government-funding-for-public-media, stefan-sagmeister-finally-something-good-yqqxftsvema]
+last_updated: 2026-08-07
 ---
 
 # Public Service Journalism
@@ -24,6 +24,8 @@ The source connects this mission to [[PublicMediaFunding]] because the appeal ar
 
 [[141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]] adds a self-media boundary through [[CreatorFactCheckingResponsibility]]. The source does not claim independent podcasters are newsrooms, but it uses the contrast with newsroom editing, neutrality norms, and fact-checking to argue that creators who influence public understanding inherit some journalism-like verification duties.
 
+[[ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb]] adds the reporter-work experience behind the civic mission. The episode's [[JournalisticPublicness]] frame says social reporting can still make public problems visible, but [[SocialReportingBurnout]] and [[JournalisticAuthorityErosion]] show why that mission becomes harder when reporters lose authority, face obstruction, and work inside strained media institutions.
+
 ## Key Claims
 - Journalism can be justified as a public service when it informs communities and holds power accountable.
 - Public-service journalism depends on institutional and funding arrangements that protect access and independence.
@@ -34,6 +36,7 @@ The source connects this mission to [[PublicMediaFunding]] because the appeal ar
 - Investigative reporting can become public-service infrastructure when it lets isolated insiders surface safety-critical evidence without immediately standing alone.
 - Public-service journalism also depends on public records and archives that let reporters verify how web pages, government information, and institutional claims changed over time.
 - Creator media can borrow public-service functions when it informs audiences about markets, health systems, or institutions, but that borrowing increases verification responsibility.
+- Public-service value also depends on whether reporters can sustain the social, emotional, and institutional costs of doing public-facing fieldwork.
 
 ## Connections
 - [[NPR]], [[KatherineMaher]], and [[PlanetMoney]] — organization, speaker, and feed context for the appeal.
@@ -46,3 +49,4 @@ The source connects this mission to [[PublicMediaFunding]] because the appeal ar
 - [[JohnCarreyrou|John Carreyrou]], [[WallStreetJournal|Wall Street Journal]], [[TylerShultz|Tyler Shultz]], [[Theranos]], [[WhistleblowerEvidenceDiscipline]], and [[WhistleblowerLegalIntimidation]] - investigative-accountability branch added by The Social Radars.
 - [[InternetArchive]], [[WaybackMachine|Wayback Machine]], [[PublicWebArchiving]], [[ArchiveAccessTradeoff]], and [[InternetHistoryFragility]] - web-archive accountability branch added by Marketplace Tech.
 - [[CreatorFactCheckingResponsibility]], [[PodcastAuthenticityBoundary]], [[DavidWeng|大卫翁]], and [[QiongQiong|琼琼]] - self-media verification branch added by episode 141.
+- [[JournalisticPublicness]], [[SocialReportingBurnout]], [[JournalisticAuthorityErosion]], and [[InterviewAsEmbodiedReporting]] - reporter-work and field-reporting branch added by EP244.
