@@ -1,12 +1,14 @@
 ---
 title: "Talk三联"
 type: entity
-tags: [podcast, media, technology, finance, culture, sports, lifestyle, china]
-sources: [ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek, ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
+tags: [podcast, media, technology, finance, culture, sports, lifestyle, education, china]
+sources: [ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig, ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek, ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
 last_updated: 2026-08-07
 ---
 
 # Talk三联
+
+[[ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]] adds the show's education-and-work reporting branch. With [[ZhangCongzhi|张从志]], [[LiXiaojie|李小杰]], and [[LiuChang|刘畅]], Talk三联 asks whether [[SchoolEnterpriseCooperation|校企合作]] can make [[VocationalEducation|职业教育]] more stable through [[Bosch|博世]]'s [[DualSystemVocationalEducation|双元制]], [[LiAuto|理想汽车]]'s [[IndustrialCollege|产业学院]], and [[ElderCareWorkforce|养老照护人才培养]].
 
 [[ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek]] adds the show's culture-industry reporting branch on [[ShortDramaOverseasExpansion|短剧出海]]. With [[HuangZiyiSanlian|黄子逸]], [[XiaJieyi|夏洁逸]], and [[DuanNongyu|段农裕]], Talk三联 connects [[ChineseWebFictionMethodology|中国网文方法论]], overseas actors, [[ShortDramaPaidTrafficDistribution|paid traffic]], and platform feedback into a single explanation for why Chinese short dramas could travel abroad.
 
@@ -36,3 +38,4 @@ The episode positions industrial reporting as a translation layer. Instead of tr
 - [[PodcastAsAsynchronousMedia]] — broader media form.
 - [[WangLixin]], [[WorldGoldCouncil]], [[ShanghaiGoldExchange]], [[StrategicGoldAllocation]], [[GoldInvestmentProducts]], and [[GoldPortfolioProducts]] — expert gold-allocation branch added by EP239.
 - [[HuangZiyiSanlian]], [[XiaJieyi]], [[DuanNongyu]], [[ShortDramaOverseasExpansion]], [[ShortDramaOverseasLocalization]], [[ChineseWebFictionMethodology]], and [[DataDrivenEntertainmentProduct]] — short-drama export branch added by EP240.
+- [[LiXiaojie]], [[VocationalEducation]], [[SchoolEnterpriseCooperation]], [[DualSystemVocationalEducation]], [[IndustrialCollege]], [[ElderCareWorkforce]], and [[AIProgramAdjustment]] — vocational-education branch added by EP241.

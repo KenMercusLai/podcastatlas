@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP241 校企合作是新一代的“铁饭碗”吗？](sources/ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig.md) — Talk三联 episode on vocational education and school-enterprise cooperation, covering Bosch dual-system training, Li Auto's Changzhou industrial college, elder-care workforce training, degree progression, career cognition, and AI-assisted program adjustment.
 - [EP240 “霸总甜宠”在海外：短剧出海的产业密码](sources/ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek.md) — Talk三联 episode on short-drama overseas expansion, connecting domestic free-platform pressure, web-fiction methods, overseas actors, local production, paid traffic, and data-driven entertainment.
 - [EP239 和大咖聊聊：金价又双叒叕飙了，普通人还能上车吗？](sources/ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq.md) — Talk三联 episode with 王立新 on gold after a sharp run-up, covering gold's non-credit asset role, China gold-market infrastructure, physical/ETF/product routes, strategic gold allocation, and 黄金家 portfolio products.
 - [EP238 2025年，你玩过怎样的“小众运动”？](sources/ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg.md) — Talk三联 episode on urban niche sports, covering padel, mermaid freediving, armored combat, leisure sailing, paddleboarding, archery, venue constraints, equipment thresholds, and small sports communities.
@@ -797,6 +798,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [李小杰 / Li Xiaojie](entities/LiXiaojie.md) — Sanlian reporter in EP241 grounding the elder-care vocational-training branch through real care scenes, student reluctance, and institutional cooperation.
+- [Bosch / 博世](entities/Bosch.md) — Manufacturing company in EP241 representing the heavy-investment dual-system vocational-education model.
+- [Li Auto / 理想汽车](entities/LiAuto.md) — New-energy-vehicle company in EP241 tied to the Changzhou industrial-college case and maintenance career ladder.
+- [常州工业职业技术学院 / Changzhou Industrial Vocational Technical College](entities/ChangzhouIndustrialVocationalTechnicalCollege.md) — Vocational school in EP241 hosting Li Auto's industrial college inside Changzhou's new-energy cluster.
+- [民政职业大学 / Minzheng Vocational University](entities/MinzhengVocationalUniversity.md) — Elder-care vocational university in EP241 illustrating real-scene practice, vocational undergraduate progression, and care-robotics input.
+- [太康之家 / Taikang Home](entities/TaikangHome.md) — Elder-care operator in EP241 used to discuss youth elder care, wages, training, and frontline-care retention.
 - [黄子逸 / Huang Ziyi](entities/HuangZiyiSanlian.md) — 三联生活周刊 reporter in EP240 explaining short-drama export, domestic market pressure, web-fiction lineage, and paid-traffic capability.
 - [夏洁逸 / Xia Jieyi](entities/XiaJieyi.md) — EP240 reporter connecting Chinese web-fiction globalization to overseas short-drama scripts, author cultivation, and genre methods.
 - [段农裕 / Duan Nongyu](entities/DuanNongyu.md) — EP240 reporter foregrounding overseas actors, local dialogue adjustment, labor opportunity, and value adaptation in short-drama production.
@@ -5395,6 +5402,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Vocational Education / 职业教育](concepts/VocationalEducation.md) — EP241 frame for applied education, hands-on learning, industry-facing training, degree progression, and occupational recognition.
+- [School-Enterprise Cooperation / 校企合作](concepts/SchoolEnterpriseCooperation.md) — Training arrangement where schools and companies jointly shape practice, curriculum, and hiring pipelines without guaranteeing permanent stability.
+- [Dual-System Vocational Education / 双元制职业教育](concepts/DualSystemVocationalEducation.md) — Deep school-enterprise model represented by Bosch, requiring enterprise training sites, curriculum coordination, management rules, and high investment.
+- [Industrial College / 产业学院](concepts/IndustrialCollege.md) — Campus-based enterprise cooperation form represented by Li Auto at Changzhou Industrial Vocational Technical College.
+- [Order-Class Vocational Education / 订单班](concepts/OrderClassVocationalEducation.md) — Employer-oriented cohort model that can clarify employment channels but remains shallower than full dual-system training.
+- [Vocational Degree Progression / 职业教育升学通道](concepts/VocationalDegreeProgression.md) — 专升本, vocational undergraduate, and exam routes that give vocational students mobility while complicating employment-first cooperation.
+- [Project-Based Vocational Learning / 项目式职业学习](concepts/ProjectBasedVocationalLearning.md) — Hands-on learning mode that can build confidence and practical skill when students work on real projects.
+- [Career Cognition Education / 职业认知教育](concepts/CareerCognitionEducation.md) — Occupational-understanding layer that helps students evaluate pay, skill ladders, work culture, and industry fit.
+- [AI-Assisted Program Adjustment / AI辅助专业调整](concepts/AIProgramAdjustment.md) — Vocational-school use of AI, labor-demand data, and policy signals to adjust majors, courses, and micro-specializations.
+- [Elder-Care Workforce / 养老照护人才](concepts/ElderCareWorkforce.md) — Trained care-labor pipeline needed for aging societies, linking real practice, dignity, retention, and technology boundaries.
 - [Short Drama Overseas Expansion / 短剧出海](concepts/ShortDramaOverseasExpansion.md) — EP240 frame for Chinese short dramas moving abroad through domestic market pressure, web-fiction lineage, localized production, and paid traffic.
 - [Short Drama Overseas Localization / 短剧海外本土化](concepts/ShortDramaOverseasLocalization.md) — EP240 concept for adapting scripts, actors, consent norms, status cues, and genre shells instead of simply translating domestic short dramas.
 - [Chinese Web Fiction Methodology / 中国网文方法论](concepts/ChineseWebFictionMethodology.md) — Fast serialized storytelling toolkit of hooks, paid points, reversals, face-slapping, golden fingers, and genre branching.

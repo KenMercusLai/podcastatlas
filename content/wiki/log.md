@@ -6306,6 +6306,10 @@ Added source page for a 起朱楼宴宾客 algorithm-series crossover with 独�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-07] ingest | EP241 校企合作是新一代的“铁饭碗”吗？
+
+Added source page for a Talk三联 episode on vocational education and school-enterprise cooperation, covering Bosch dual-system training, Li Auto's Changzhou industrial college, elder-care workforce training, degree progression, project-based learning, career cognition, and AI-assisted program adjustment. Created pages for 李小杰 / Li Xiaojie, Bosch / 博世, Li Auto / 理想汽车, 常州工业职业技术学院, 民政职业大学, 太康之家, Vocational Education, School-Enterprise Cooperation, Dual-System Vocational Education, Industrial College, Order-Class Vocational Education, Vocational Degree Progression, Project-Based Vocational Learning, Career Cognition Education, AI-Assisted Program Adjustment, and Elder-Care Workforce; updated overview, index, Talk三联, 三联生活周刊, 张从志, 刘畅, Changzhou, College Career Preparation, Education Signal Inflation, Career Shore Myth, AI As Tutor, AI And Robotic Elder-Care Limits, Elder Care State Capacity, Care Socialization, Patient Dignity In Daily Care, and Local Battery Industrial Clusters. No direct contradiction found; the source reinforces the wiki's elder-care technology boundary and career-shore skepticism while adding a vocational-education path where stable work depends on industry demand, enterprise investment, school adaptation, student recognition, and skill progression.
+
 ## [2026-08-07] ingest | EP239 和大咖聊聊：金价又双叒叕飙了，普通人还能上车吗？
 
 Added source page for a Talk三联 episode with 王立新 on gold after a sharp price run-up, covering gold's non-credit asset role, China gold-market infrastructure, physical bars/coins, jewelry, ETF-like exposure, professional derivatives, strategic gold allocation, and 黄金家 portfolio products. Created pages for 王立新 / Wang Lixin, World Gold Council / 世界黄金协会, Shanghai Gold Exchange / 上海黄金交易所, Strategic Gold Allocation, Gold Investment Products, and Gold Portfolio Products; updated overview, index, Talk三联, Ray Dalio, Gold Monetary Anchor, Gold As Currency Spare Tire, Asset Allocation, Portfolio Suitability, Target Weight Discipline, Fund Investment Advisory, Investment Behavior Coaching, and Household Gold Savings. No direct contradiction found; the source complements prior gold pages by translating monetary-trust and household-gold narratives into product form, channel diligence, target sizing, and holding-discipline requirements.
@@ -6373,6 +6377,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] ingest | EP240 “霸总甜宠”在海外：短剧出海的产业密码
 
 Added source page for a Talk三联 episode on short-drama overseas expansion, covering domestic market pressure from free Hongguo-style platforms, translation/dubbing versus overseas self-production, web-fiction method export, overseas actor localization labor, women-oriented melodrama demand, paid traffic, and AI-assisted campaign optimization. Created pages for 黄子逸, 夏洁逸, 段农裕, 博靖, 九州文化, 典众科技, 丰业娱乐, Webnovel / 起点国际版, Wuxiaworld / 武侠世界, 赖靖平, Short Drama Overseas Expansion, Short Drama Overseas Localization, Chinese Web Fiction Methodology, Web-Fiction-To-Short-Drama Pipeline, Women-Oriented Melodrama Demand, and Data-Driven Entertainment Product; updated overview, index, Talk三联, 三联生活周刊, Hongguo, Qidian, Yuewen Group, Short Drama Economics, Live-Action Short Drama, Short Drama Industrialization, Short Drama Paid-Traffic Distribution, AI Short Drama Overseas Localization, Platformized Drama Production, Automated Performance Marketing, Creative Material Industrialization, Global Product Localization, and Cross-Cultural Product Design. No direct contradiction found; the source broadens the wiki's AI-short-drama export branch into a larger story of web-fiction methods, local production, social-media acquisition, and entertainment-as-product logic.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 

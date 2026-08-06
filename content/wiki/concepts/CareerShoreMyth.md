@@ -2,8 +2,8 @@
 title: "Career Shore Myth"
 type: concept
 tags: [career, workplace, stability, big-company]
-sources: [161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
-last_updated: 2026-08-06
+sources: [161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
+last_updated: 2026-08-07
 ---
 
 # Career Shore Myth
@@ -18,6 +18,8 @@ The concept does not say people should avoid large companies. It says the expect
 
 [[161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202]] adds the unemployment-after-credential version. [[HighlyEducatedUnemployment]] shows the shore myth breaking after the person already has a diploma, senior role, or elite self-image: leaving the old field can make return difficult, while lowering salary or title can trigger suspicion in an [[OpaqueHiringMarket|opaque hiring market]].
 
+[[ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]] adds the [[VocationalEducation|vocational-education]] version through the question of whether [[SchoolEnterpriseCooperation|校企合作]] is a new "铁饭碗." The episode treats enterprise-linked training as a real path but not a shore: [[Bosch|博世]], [[LiAuto|理想汽车]], and elder-care institutions still depend on industry demand, student retention, pay, progression, and whether students actually recognize the occupation.
+
 ## Key Claims
 
 - "上岸" is dangerous when it turns a temporary system into a promised life destination.
@@ -28,6 +30,7 @@ The concept does not say people should avoid large companies. It says the expect
 - Exiting a large company does not automatically mean freedom, but it can reveal which forms of autonomy, income, family support, and self-directed work remain possible.
 - Vol.102 adds that "上岸" pressure can start earlier when students internalize weak opportunity conditions before graduation.
 - Episode 161 adds that "上岸" can fail retrospectively: credentials and prior titles may no longer protect someone once unemployment, age, gaps, or overqualification become negative signals.
+- EP241 adds that school-enterprise cooperation can improve employability without becoming a permanent guarantee of work or status.
 
 ## Connections
 
@@ -41,3 +44,4 @@ The concept does not say people should avoid large companies. It says the expect
 - [[ImperialExaminationAsOnlyExit]] - older credential-monopoly analogue.
 - [[GraduationAnxiety]], [[HikikomoriStrategicRetreat]], and [[YouthHappinessAfterGrowth]] - vol.102's social-clock and strategic-pause extension.
 - [[DegreeAsTrustCredential]], [[LongTermUnemploymentPenalty]], [[StatusDescentPressure]], and [[UnemploymentStigma]] - episode 161's credential-collapse and job-loss extension.
+- [[VocationalEducation]], [[SchoolEnterpriseCooperation]], [[OrderClassVocationalEducation]], and [[CareerCognitionEducation]] - EP241's vocational-stability extension.

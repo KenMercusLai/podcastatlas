@@ -1,9 +1,9 @@
 ---
 title: "Changzhou / 常州"
 type: entity
-tags: [city, china, batteries, manufacturing, song-dynasty, history]
-sources: [105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi]
-last_updated: 2026-07-24
+tags: [city, china, batteries, manufacturing, vocational-education, song-dynasty, history]
+sources: [105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
+last_updated: 2026-08-07
 ---
 
 # Changzhou / 常州
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 Changzhou appears in [[e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi]] as a Yangtze River Delta power-battery and EV cluster case. The episode describes a "four-hour industrial circle" in which most new-energy vehicle parts can be sourced nearby, with automakers, component firms, electrical systems, interiors, charging, and photovoltaic industries forming a dense regional base.
 
 The source says Changzhou's early attempt to bring in a battery project did not fully work, but it helped local officials learn the industry. Later local funds, headquarters moves, and supply-chain matching helped attract and grow battery-related firms.
+
+[[ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]] adds a vocational-education layer to the same industrial cluster. [[LiuChang|刘畅]] describes [[LiAuto|理想汽车]]'s [[IndustrialCollege|产业学院]] at [[ChangzhouIndustrialVocationalTechnicalCollege|常州工业职业技术学院]] as an example of how the city's new-energy-vehicle ecosystem can pull school programs toward current industry demand.
 
 [[105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]] adds a much older literary-history layer. The episode says [[SuShi|苏轼 / 苏东坡]] died in Changzhou on his northward return after exile, making the city part of the closing movement from [[Danzhou|儋州]] and southern hardship back toward the [[NorthernSong|北宋]] center.
 
@@ -20,3 +22,4 @@ The source says Changzhou's early attempt to bring in a battery project did not 
 - [[PowerBatteryIndustryChain]] — broader industrial-chain context.
 - [[China]] — country and policy context.
 - [[SuShi|苏轼 / 苏东坡]], [[Danzhou|儋州]], and [[NorthernSong|北宋]] - literary-history layer added by episode 105.
+- [[LiAuto]], [[ChangzhouIndustrialVocationalTechnicalCollege]], [[SchoolEnterpriseCooperation]], and [[IndustrialCollege]] - vocational-education layer added by EP241.

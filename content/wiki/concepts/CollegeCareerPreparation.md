@@ -2,7 +2,7 @@
 title: "College Career Preparation"
 type: concept
 tags: [education, career, work]
-sources: [169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, can-the-trump-administration-make-college-cheaper, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
+sources: [169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, can-the-trump-administration-make-college-cheaper, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
 last_updated: 2026-08-07
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-07
 College career preparation is the episode's goal-dependent way to allocate undergraduate effort across grades, exams, projects, internships, portfolios, and hiring readiness. In [[vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1]], the hosts argue that gaokao is only the beginning: students still need to decide whether they are aiming for graduate school, baoyan, civil-service exams, direct employment, entrepreneurship, or creative work, then build evidence for that path.
 
 [[169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c]] adds finance-specific preparation. Because [[FinanceIndustryRoleSegmentation|finance roles]] differ and [[FinanceEntryLevelAICompression|entry-level information work is exposed to AI]], preparation should not mean only choosing a finance major; it should produce internship evidence, city-based opportunity access, domain knowledge, AI literacy, and enough self-knowledge to decide whether immediate finance entry or an [[IndustryToFinanceCareerPath|industry-first path]] fits.
+
+[[ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]] adds the vocational-college version. [[VocationalEducation|职业教育]] students also prepare across multiple paths: employment through [[SchoolEnterpriseCooperation|校企合作]], further study through [[VocationalDegreeProgression|专升本 and vocational undergraduate routes]], public-sector exams, or exit into other work. The source makes [[CareerCognitionEducation]] part of preparation because students need to understand skill ladders and industry fit before treating any route as stable.
 
 [[160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]] adds a psychological boundary to this preparation frame. The source warns that certificates, resumes, graduate exams, civil-service exams, and carefully planned "safe" paths can become [[RedPenLogic]] when preparation is driven by fear of being marked down rather than by capability, curiosity, or realistic agency.
 
@@ -45,6 +47,7 @@ College career preparation is the episode's goal-dependent way to allocate under
 - Trust, communication, and deep peer/teacher relationships become career assets when generated work makes generic output cheaper.
 - Graduate school planning must include financing and program-return analysis, because loan caps can change whether a chosen path is affordable even when it remains academically attractive.
 - Finance-oriented preparation should distinguish school signal, internship access, role exposure, and domain knowledge rather than assuming the finance/economics major itself creates job readiness.
+- Vocational-college preparation should preserve real skill practice and occupational knowledge even when further-study and exam routes become more available.
 
 ## Connections
 
@@ -61,3 +64,4 @@ College career preparation is the episode's goal-dependent way to allocate under
 - [[AIDefaultLearningEnvironment]], [[AIUniversityAssessmentReform]], and [[DegreeAsTrustCredential]] - E236's AI-native university and credential branch.
 - [[FederalStudentLoanCaps]], [[GraduateSchoolDebt]], [[LoanCapAccessRisk]], and [[CollegeProgramEarningsAccountability]] - graduate-finance constraints added by Planet Money.
 - [[FinanceIndustryRoleSegmentation]], [[FinanceEntryLevelAICompression]], [[IndustryToFinanceCareerPath]], and [[FinanceRelationshipCapital]] — episode 169's finance-career preparation branch.
+- [[VocationalEducation]], [[SchoolEnterpriseCooperation]], [[VocationalDegreeProgression]], [[ProjectBasedVocationalLearning]], and [[CareerCognitionEducation]] — EP241's vocational-college preparation branch.

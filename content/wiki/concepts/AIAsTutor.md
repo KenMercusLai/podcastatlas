@@ -2,8 +2,8 @@
 title: "AI As Tutor"
 type: concept
 tags: [ai, education, learning]
-sources: [fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-08-04
+sources: [fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
+last_updated: 2026-08-07
 ---
 
 # AI As Tutor
@@ -22,6 +22,8 @@ AI as tutor is the use of tools such as [[ChatGPT]] to personalize explanations,
 
 [[tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128]] adds [[ChristopherMims]]' adult self-teaching version. The source describes a CEO talking with AI during a commute as a tutor and shows [[NotebookLM]] making dense documents conversational. This extends AI tutoring beyond school homework into ongoing professional and civic learning, while still depending on [[HumanJudgmentUnderAI]].
 
+[[ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]] adds the vocational-project version. Students use AI to write summaries, handle assignments, debug code, and solve concrete wiring or project problems, while [[AIProgramAdjustment]] shows schools using AI and industry data to decide which programs should exist.
+
 ## Key Claims
 
 - AI can explain concepts in the learner's own language, background, and current knowledge frame, which can make hard courses easier to approach.
@@ -38,6 +40,7 @@ AI as tutor is the use of tools such as [[ChatGPT]] to personalize explanations,
 - In AI-native university settings, tutoring may include curriculum planning, simulated exam questions, paper explanation, project review, coding help, and workflow selection.
 - The useful distinction is whether the learner can verify, question, and internalize the result; heavy AI tutoring can still become [[AIShortcutRisk]] if it removes the learner's own confusion and judgment practice.
 - Adult AI learning can work when the learner has enough self-knowledge to ask for explanations in a usable frame and enough humility to verify with people or sources outside the model.
+- In vocational learning, AI tutoring is most useful when it helps students complete and understand real projects rather than only bypassing the practice that builds skill.
 
 ## Connections
 
@@ -53,3 +56,4 @@ AI as tutor is the use of tools such as [[ChatGPT]] to personalize explanations,
 - [[ChristopherMims]], [[NotebookLM]], [[MundaneAIUseCases]], and [[AIAssistedReading]] - Marketplace Tech's adult self-teaching and document-conversation branch.
 - [[AlfredLinTongyu|Alfred 林童雨]], [[KelentoHouTaiyu|Kelento 侯泰宇]], and [[JackRaoJiewu|Jack 饶街五]] - E236's heavy university-user cases.
 - [[AIDefaultLearningEnvironment]] and [[AIUniversityAssessmentReform]] - default access and assessment implications added by E236.
+- [[VocationalEducation]], [[ProjectBasedVocationalLearning]], [[AIProgramAdjustment]], and [[CareerCognitionEducation]] - EP241's vocational-learning extension.

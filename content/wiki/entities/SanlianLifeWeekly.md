@@ -1,8 +1,8 @@
 ---
 title: "三联生活周刊 / Sanlian Life Weekly"
 type: entity
-tags: [media, magazine, china, culture, lifestyle, sports]
-sources: [ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
+tags: [media, magazine, china, culture, lifestyle, sports, education]
+sources: [ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig, ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
 last_updated: 2026-08-07
 ---
 
@@ -18,6 +18,8 @@ In this source, Sanlian Life Weekly matters less as an institution to profile an
 
 [[ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek]] adds the magazine's short-drama export reporting branch. [[HuangZiyiSanlian|黄子逸]], [[XiaJieyi|夏洁逸]], [[DuanNongyu|段农裕]], and [[BoJing|博靖]] split the topic across industry history, overseas actors, web-fiction export, and domestic production labor, making [[ShortDramaOverseasExpansion|短剧出海]] a reporting object that spans media industry, globalization, platform growth, and popular emotion.
 
+[[ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]] adds the magazine's [[VocationalEducation|职业教育]] reporting branch. [[ZhangCongzhi|张从志]], [[LiXiaojie|李小杰]], and [[LiuChang|刘畅]] use [[SchoolEnterpriseCooperation|校企合作]], manufacturing, new-energy vehicles, and elder care to ask when vocational training can become a credible work path rather than only a fallback or a credential bridge.
+
 ## Connections
 - [[Heimai|黑麦]] - writer whose work anchors the source.
 - [[Wine|Wine / 葡萄酒]] and [[WineAsAgriculturalCulture]] - main subject area opened through the magazine context.
@@ -26,3 +28,4 @@ In this source, Sanlian Life Weekly matters less as an institution to profile an
 - [[WeiQianSanlian|魏茜]], [[RuanJianing|阮佳宁]], [[EmotionEconomy]], and [[PaidListeningServices]] - emotion-economy reporting branch added by EP236.
 - [[TalkSanlian]], [[UrbanNicheSports]], [[Padel]], [[MermaidFreediving]], [[ArmoredCombat]], [[LeisureSailing]], [[StandUpPaddleboarding]], and [[ArcheryFlow]] - niche-sports branch added by EP238.
 - [[HuangZiyiSanlian]], [[XiaJieyi]], [[DuanNongyu]], [[BoJing]], [[ShortDramaOverseasExpansion]], [[ChineseWebFictionMethodology]], and [[WomenOrientedMelodramaDemand]] - short-drama export branch added by EP240.
+- [[ZhangCongzhi]], [[LiXiaojie]], [[LiuChang]], [[VocationalEducation]], [[SchoolEnterpriseCooperation]], and [[ElderCareWorkforce]] - vocational-education branch added by EP241.

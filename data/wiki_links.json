@@ -1679,6 +1679,10 @@
     "title": "AI Product Fragmentation",
     "url": "/wiki/concepts/aiproductfragmentation/"
   },
+  "AIProgramAdjustment": {
+    "title": "AI-Assisted Program Adjustment / AI辅助专业调整",
+    "url": "/wiki/concepts/aiprogramadjustment/"
+  },
   "AIProgrammingEngineShift": {
     "title": "AI Programming Engine Shift",
     "url": "/wiki/concepts/aiprogrammingengineshift/"
@@ -4999,6 +5003,10 @@
     "title": "Boris Johnson",
     "url": "/wiki/entities/borisjohnson/"
   },
+  "Bosch": {
+    "title": "Bosch / 博世",
+    "url": "/wiki/entities/bosch/"
+  },
   "BoscoSaraiva": {
     "title": "Bosco Saraiva",
     "url": "/wiki/entities/boscosaraiva/"
@@ -5763,6 +5771,10 @@
     "title": "Care Sociology / 照护社会学",
     "url": "/wiki/concepts/caresociology/"
   },
+  "CareerCognitionEducation": {
+    "title": "Career Cognition Education / 职业认知教育",
+    "url": "/wiki/concepts/careercognitioneducation/"
+  },
   "CareerExitFriction": {
     "title": "Career Exit Friction / 职业退出摩擦",
     "url": "/wiki/concepts/careerexitfriction/"
@@ -6066,6 +6078,10 @@
   "Changzhou": {
     "title": "Changzhou / 常州",
     "url": "/wiki/entities/changzhou/"
+  },
+  "ChangzhouIndustrialVocationalTechnicalCollege": {
+    "title": "常州工业职业技术学院 / Changzhou Industrial Vocational Technical College",
+    "url": "/wiki/entities/changzhouindustrialvocationaltechnicalcollege/"
   },
   "ChannelFocusExperiments": {
     "title": "Channel Focus Experiments",
@@ -9639,6 +9655,10 @@
     "title": "Dual-Payload ADC",
     "url": "/wiki/concepts/dualpayloadadc/"
   },
+  "DualSystemVocationalEducation": {
+    "title": "Dual-System Vocational Education / 双元制职业教育",
+    "url": "/wiki/concepts/dualsystemvocationaleducation/"
+  },
   "DualUseDefenseTechnology": {
     "title": "Dual-Use Defense Technology",
     "url": "/wiki/concepts/dualusedefensetechnology/"
@@ -10054,6 +10074,10 @@
   "ElderCareStateCapacity": {
     "title": "Elder Care State Capacity",
     "url": "/wiki/concepts/eldercarestatecapacity/"
+  },
+  "ElderCareWorkforce": {
+    "title": "Elder-Care Workforce / 养老照护人才",
+    "url": "/wiki/concepts/eldercareworkforce/"
   },
   "ElderRelationshipCapital": {
     "title": "Elder Relationship Capital / 老年关系资本",
@@ -15123,6 +15147,10 @@
     "title": "Individual Psychology",
     "url": "/wiki/concepts/individualpsychology/"
   },
+  "IndustrialCollege": {
+    "title": "Industrial College / 产业学院",
+    "url": "/wiki/concepts/industrialcollege/"
+  },
   "IndustrialControlSystemCyberRisk": {
     "title": "Industrial Control System Cyber Risk",
     "url": "/wiki/concepts/industrialcontrolsystemcyberrisk/"
@@ -18003,6 +18031,10 @@
     "title": "Lex Fridman",
     "url": "/wiki/entities/lexfridman/"
   },
+  "LiAuto": {
+    "title": "Li Auto / 理想汽车",
+    "url": "/wiki/entities/liauto/"
+  },
   "LiBeibin": {
     "title": "Li Beibin",
     "url": "/wiki/entities/libeibin/"
@@ -18098,6 +18130,10 @@
   "LiXiaobo": {
     "title": "Li Xiaobo / 李晓波",
     "url": "/wiki/entities/lixiaobo/"
+  },
+  "LiXiaojie": {
+    "title": "李小杰 / Li Xiaojie",
+    "url": "/wiki/entities/lixiaojie/"
   },
   "LiXu": {
     "title": "李煦 / Li Xu",
@@ -20455,6 +20491,10 @@
     "title": "民生证券 / Minsheng Securities",
     "url": "/wiki/entities/minshengsecurities/"
   },
+  "MinzhengVocationalUniversity": {
+    "title": "民政职业大学 / Minzheng Vocational University",
+    "url": "/wiki/entities/minzhengvocationaluniversity/"
+  },
   "Missfresh": {
     "title": "每日优鲜 / Missfresh",
     "url": "/wiki/entities/missfresh/"
@@ -22359,6 +22399,10 @@
     "title": "Orbital Data Center Thermal Management",
     "url": "/wiki/concepts/orbitaldatacenterthermalmanagement/"
   },
+  "OrderClassVocationalEducation": {
+    "title": "Order-Class Vocational Education / 订单班",
+    "url": "/wiki/concepts/orderclassvocationaleducation/"
+  },
   "OrdinaryEscapeCourage": {
     "title": "Ordinary Escape Courage",
     "url": "/wiki/concepts/ordinaryescapecourage/"
@@ -24250,6 +24294,10 @@
   "ProjectAristotle": {
     "title": "Project Aristotle",
     "url": "/wiki/entities/projectaristotle/"
+  },
+  "ProjectBasedVocationalLearning": {
+    "title": "Project-Based Vocational Learning / 项目式职业学习",
+    "url": "/wiki/concepts/projectbasedvocationallearning/"
   },
   "ProjectGlassfin": {
     "title": "Project Glassfin",
@@ -26502,6 +26550,10 @@
   "SchoolAreaMemoryEcology": {
     "title": "放学后记忆生态 / School-Area Memory Ecology",
     "url": "/wiki/concepts/schoolareamemoryecology/"
+  },
+  "SchoolEnterpriseCooperation": {
+    "title": "School-Enterprise Cooperation / 校企合作",
+    "url": "/wiki/concepts/schoolenterprisecooperation/"
   },
   "ScienceCommunicationDisadvantage": {
     "title": "Science Communication Disadvantage",
@@ -29179,6 +29231,10 @@
     "title": "多田克己 / Tada Katsumi",
     "url": "/wiki/entities/tadakatsumi/"
   },
+  "TaikangHome": {
+    "title": "太康之家 / Taikang Home",
+    "url": "/wiki/entities/taikanghome/"
+  },
   "TailRiskHedging": {
     "title": "Tail-Risk Hedging",
     "url": "/wiki/concepts/tailriskhedging/"
@@ -31390,6 +31446,14 @@
   "VladimirPutin": {
     "title": "Vladimir Putin",
     "url": "/wiki/entities/vladimirputin/"
+  },
+  "VocationalDegreeProgression": {
+    "title": "Vocational Degree Progression / 职业教育升学通道",
+    "url": "/wiki/concepts/vocationaldegreeprogression/"
+  },
+  "VocationalEducation": {
+    "title": "Vocational Education / 职业教育",
+    "url": "/wiki/concepts/vocationaleducation/"
   },
   "VoiceInteraction": {
     "title": "Voice Interaction",
@@ -34270,6 +34334,10 @@
   "ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek": {
     "title": "EP240 “霸总甜宠”在海外：短剧出海的产业密码",
     "url": "/wiki/sources/ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek/"
+  },
+  "ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig": {
+    "title": "EP241 校企合作是新一代的“铁饭碗”吗？",
+    "url": "/wiki/sources/ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig/"
   },
   "ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg": {
     "title": "EP25 中资外资哪家强：“一劳永逸”找“钱粮”（下）",
