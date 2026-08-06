@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP247 重启人生：当农村中年女性开始“做主播”](sources/ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj.md) — Talk三联 episode with 魏茜 and 曾欣 on rural middle-aged women becoming livestreamers, covering visibility, family resistance, persona labor, platform feedback, compressed modernity, and county platform work.
 - [EP246 让女生安心的约会小酒馆，什么样？](sources/ep246-rang-nvsheng-anxin-de-yuehui-xiaojiuguan-shenme-yang-lpd5zw9ryd3kplmnaywsoqokvakm.md) — Talk三联 love-issue episode with 张星云 and Moku on spatial love studies, female-friendly bistros, coffee-shop first-date affordances, familiar-space dating, and how small venues make women feel safer.
 - [现场！现场！ | 2025年终特辑：三联女记者揭秘新闻背后的苦与光](sources/xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c.md) — Talk三联 year-end reporting special with 秦思, 程静, and 魏昭阳 on women reporters, fieldwork, remote interviews, source trust, emotional labor, and sustainable media work.
 - [EP245 一年一度寻味之旅：今年去吃创意菜](sources/ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz.md) — Talk三联 annual food-issue episode on creative Chinese cuisine, regional flavor transfer across Guizhou/Yunnan/Sichuan/Guangxi/Fujian, bistros, local alcohol pairing, and stir-fry revival.
@@ -804,6 +805,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [曾欣 / Zeng Xin](entities/ZengXin.md) — CASS journalism and communication scholar in EP247 whose fieldwork grounds rural women livestreaming, compressed modernity, family-based agency, and county platform labor.
 - [张星云 / Zhang Xingyun](entities/ZhangXingyun.md) — Sanlian speaker in EP246 framing the annual love issue through spatial love studies, nearby encounters, coffee shops, bistros, and city dating venues.
 - [Moku](entities/Moku.md) — Bistro operator interviewed in EP246, explaining how portions, seating, owner presence, and service discretion make a small venue comfortable for women and dates.
 - [万九 / Wanjiu](entities/Wanjiu.md) — Beijing bistro case in EP246, used to show how an eat-and-drink space becomes solo-dining, dating, and regular-customer relationship infrastructure.
@@ -5436,6 +5438,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Rural Women Livestreaming / 乡村女主播](concepts/RuralWomenLivestreaming.md) — EP247 concept for rural middle-aged women using livestreaming as phone-skill training, public visibility, flexible work, family negotiation, and uneven platform income.
+- [Livestream Persona Labor / 直播人设劳动](concepts/LivestreamPersonaLabor.md) — EP247 frame for streamers testing beauty, rural authenticity, field scenes, and wife-mother trust signals in response to traffic and buyers.
+- [Compressed Modernity Gender Transition / 压缩现代性中的女性转型](concepts/CompressedModernityGenderTransition.md) — EP247/Zeng Xin frame for inherited family roles and modern selfhood colliding inside rural women's midlife choices.
+- [Family-Based Emotional Motivation / 家庭本位的情感动力](concepts/FamilyBasedEmotionalMotivation.md) — EP247 concept for women's new work being motivated and constrained by children, household welfare, husband approval, and family respect.
+- [County Platform Labor / 县域平台劳动](concepts/CountyPlatformLabor.md) — EP247 frame for livestreaming, delivery, driving, and small e-commerce in county towns as partial rural-urban mobility and family strategy.
 - [Spatial Love Studies / 空间爱情学](concepts/SpatialLoveStudies.md) — EP246 frame for studying romantic encounters through concrete urban spaces, publicness, seating, exit routes, staff mediation, and nearby routines.
 - [Female-Friendly Bistro / 女性友好小酒馆](concepts/FemaleFriendlyBistro.md) — Hospitality pattern where food portions, bar seats, owner presence, and staff discretion make small bistros safer for women and dates.
 - [Coffee Date Affordance / 咖啡馆约会可退可进性](concepts/CoffeeDateAffordance.md) — First-date coffee-shop logic where publicness, low time commitment, and easy extension or exit make meetings reversible.

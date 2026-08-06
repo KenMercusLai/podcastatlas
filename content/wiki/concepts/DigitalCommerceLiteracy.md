@@ -2,8 +2,8 @@
 title: "Digital Commerce Literacy"
 type: concept
 tags: [commerce, education, marketing, digital-literacy]
-sources: [tech-20260310-0310-mp-tech-pod-128-tech-20260310-0310-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj, tech-20260310-0310-mp-tech-pod-128-tech-20260310-0310-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # Digital Commerce Literacy
@@ -12,12 +12,15 @@ Digital commerce literacy is the practical ability to use online sales tools whi
 
 The concept differs from generic digital literacy because it is tied to an actual commercial workflow. The learner is not only using a device; she is making choices about audience, timing, message, conversion, payment, and delivery inside a bounded [[YouthEntrepreneurship]] setting.
 
+[[ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj]] adds an adult rural version through [[RuralWomenLivestreaming|乡村女主播]]. Many women first attend training to learn phone use, video shooting, and online expression, then some move toward selling products, reading audience feedback, and organizing family help for packing or shipping. The source shows digital commerce literacy as midlife reskilling, not only youth entrepreneurship.
+
 ## Key Claims
 - Digital selling teaches more than online posting: sellers learn goal setting, channel selection, message revision, checkout friction, and customer follow-up.
 - A commerce workflow can turn abstract online-safety rules into concrete choices about who to contact and how to deliver.
 - Faster checkout matters because digital tools must support real-world booth and delivery situations, not only remote ecommerce.
 - Digital commerce literacy is stronger when sellers can see whether outreach produced orders and adjust their approach.
 - For children, digital commerce literacy depends on [[ChildOnlineCommerceSafety]] and caregiver scaffolding.
+- For rural middle-aged women, digital commerce literacy can begin as phone confidence and public speech before becoming a mature sales workflow.
 
 ## Connections
 - [[GirlScoutsOfTheUSA|Girl Scouts of the USA]] and [[WendyLiu]] - source case.
@@ -25,3 +28,4 @@ The concept differs from generic digital literacy because it is tied to an actua
 - [[ChildOnlineCommerceSafety]] - safety constraint.
 - [[MissionDrivenCustomerEducation]] - adjacent customer-message concept.
 - [[DirectToConsumerBrandControl]] - adjacent owned-channel concept this source qualifies through a nonprofit youth case.
+- [[RuralWomenLivestreaming]], [[LivestreamPersonaLabor]], [[PlatformFeedbackLoop]], and [[FamilyLaborBoundaries]] - adult rural livestreaming branch added by EP247.

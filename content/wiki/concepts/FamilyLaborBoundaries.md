@@ -2,8 +2,8 @@
 title: "Family Labor Boundaries"
 type: concept
 tags: [family, labor, care, boundaries]
-sources: [137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, socialradarsseason1-tracyyoung-final-1]
-last_updated: 2026-08-06
+sources: [ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj, 137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, socialradarsseason1-tracyyoung-final-1]
+last_updated: 2026-08-07
 ---
 
 # Family Labor Boundaries
@@ -16,6 +16,8 @@ The concept connects money, care, and power. Paying a parent does not remove emo
 
 [[137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7]] adds a public-policy version through [[Japan]]. The episode says Japanese grandparents are less commonly treated as default childcare labor, while [[JapaneseParentalLeaveIncomeSupport]], [[JapaneseChildcareAndPreschoolSystem]], and father leave try to move care from invisible family obligation into institutions, workplaces, and more explicit parental sharing.
 
+[[ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj]] adds a rural livestreaming boundary case. [[ZengXin|曾欣]] describes women who keep doing housework and compress sleep to prove that [[RuralWomenLivestreaming|livestreaming]] has not damaged family duty; when accounts become profitable, family members may join packing and shipping, turning the same work into a visible household business.
+
 ## Key Claims
 
 - Family care can be real labor even when it is motivated by love.
@@ -25,9 +27,11 @@ The concept connects money, care, and power. Paying a parent does not remove emo
 - Healthy boundaries require both economic clarity and restraint, so the family is not reduced to either free labor or workplace-style task management.
 - Founder availability can depend on explicit home equality, grandparents, and paid childcare; treating that support as invisible can distort the story of what company-building requires.
 - Public childcare and father leave can redraw family labor boundaries by making care a social and workplace responsibility rather than a mother-or-grandparent default.
+- EP247 adds that a woman's new income activity may fail to redraw labor boundaries if she must complete all domestic work first; visible revenue can shift family participation, but it does not automatically create equal authority.
 
 ## Connections
 
+- [[RuralWomenLivestreaming]], [[FamilyBasedEmotionalMotivation]], [[CountyPlatformLabor]], and [[CompressedModernityGenderTransition]] - rural livestreaming and county platform-work extension added by EP247.
 - [[XiaoMan]] — source case.
 - [[ToolRationalitySpillover]] — boundary warning around importing work logic into family.
 - [[FinancialFreedomVsLifestyleFreedom]] — adjacent autonomy and cost-of-life frame.
