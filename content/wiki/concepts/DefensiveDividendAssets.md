@@ -2,7 +2,7 @@
 title: "Defensive Dividend Assets"
 type: concept
 tags: [investing, dividends, allocation, risk]
-sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+sources: [135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
 last_updated: 2026-08-06
 ---
 
@@ -26,6 +26,8 @@ Defensive dividend assets are the episode's waiting-position category for invest
 
 [[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] adds the 2025 A/H barbell version. [[DavidWeng|大卫翁]] favors dividend assets because lower risk-free rates, state-owned enterprise market-value management, and shareholder-return pressure can support the cash-flow side of [[AHShare2025Barbell]], while [[Ricky]] keeps them paired with [[NewQualityProductiveForces]] rather than treating dividends as the whole equity market.
 
+[[135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq]] sharpens the dividend side through [[DividendTechnologyBarbell]]. The source says "红利归红利": the market should care not only about stable cash flow, but also sustained dividend capacity, willingness to return cash, and corporate governance, using [[Japan]] and [[WarrenBuffett|Warren Buffett]]'s Japanese trading-company context as a comparison point for shareholder-return repricing.
+
 ## Key Claims
 - Dividend assets should be judged by cash-flow stability, payout durability, leverage, and entry price, not by recent technology-stock returns.
 - The episode warns that dividend and defensive assets will often underperform during aggressive risk-on rallies.
@@ -41,6 +43,7 @@ Defensive dividend assets are the episode's waiting-position category for invest
 - Vol.104 adds that Hong Kong dividend yield should be checked against [[ManagementShareholderAlignmentRisk]]: a headline yield or asset base matters only if management actually returns cash and avoids value-destructive capital operations.
 - Vol.112 adds that defensive dividend analysis may need to include public-service duration and policy-aligned cash flows, while still checking governance and payout quality.
 - Vol.115 adds that dividend assets can be the Fact side of [[FactFutureAssetPricing]], but they still require entry-price, payout, governance, and rate-sensitivity checks.
+- Episode 135 adds that dividend assets should not be mixed with vague growth expectations; their job is cash-flow and shareholder-return discipline.
 
 ## Connections
 - [[IndexReentryDiscipline]] — dividend/cash-flow assets can be a bridge while waiting for index entry prices.
@@ -56,3 +59,4 @@ Defensive dividend assets are the episode's waiting-position category for invest
 - [[ManagementShareholderAlignmentRisk]] — vol.104 governance condition for dividend assets.
 - [[StateOwnedEnterpriseSocialValue]], [[LanXiaokang]], and [[NewOrderAssetPricing]] — vol.112's SOE social-value extension.
 - [[AHShare2025Barbell]], [[FactFutureAssetPricing]], [[NewQualityProductiveForces]], and [[ChinaPolicyEasingPivot]] — vol.115's A/H equity-style extension.
+- [[DividendTechnologyBarbell]], [[ManagementShareholderAlignmentRisk]], [[Japan]], and [[WarrenBuffett]] — episode 135's governance and payout-discipline extension.

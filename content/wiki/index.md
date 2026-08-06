@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [135.宏观大事频发期如何保持定力？| 投资账2025半年度复盘](sources/135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq.md) — 起朱楼宴宾客 half-year 投资账 review on ordinary-investor macro boundaries, April tariff-war calm, staged deployment discipline, short Treasuries, gold rebalancing, dividend-technology barbell, and Hong Kong IPO cash optionality.
 - [134. 投资大师系列先导篇：“他们不只赚了很多钱，更创造了理解世界的方法”](sources/134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg.md) — 起朱楼宴宾客 paid-series preview with 大卫翁, 小小跑, and 雨白 on investment masters as historically situated market methods, style maps, era tailwinds, worldview fit, and the risk of copying famous investors.
 - [133.全球宏观和资本市场2025年中盘点：中国的三个温差和美国的三个预期差](sources/133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc.md) — 起朱楼宴宾客 mid-year macro and capital-market review with 大卫翁 and Ricky on China temperature gaps, Hong Kong-led asset repricing, innovation drugs, RMB/rates, U.S. AI/fiscal/dollar expectation gaps, gold, cash, bonds, and private-credit tail risk.
 - [132.当过度思考的打工人遇上低欲望的时代](sources/132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo.md) — 起朱楼宴宾客 episode on Japanese workplace boundaries, rule-bound overthinking, AI usefulness anxiety, information overload, algorithmic desire preemption, defensive low desire, social-template desire, and concrete daily anchors.
@@ -5200,6 +5201,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Ordinary Investor Macro Boundary](concepts/OrdinaryInvestorMacroBoundary.md) — Episode 135 rule separating macro relevance from macro tradability for ordinary household investors.
+- [Investment Plan Execution Discipline](concepts/InvestmentPlanExecutionDiscipline.md) — Episode 135 lesson that staged deployment plans preserve liquidity, judgment, and future action before the investor knows which drawdown will matter.
+- [Dividend-Technology Barbell / 红利科技杠铃](concepts/DividendTechnologyBarbell.md) — Episode 135 China-equity barbell separating dividend cash-flow/governance exposure from disruptive technology exposure.
 - [Investment Master Narrative / 投资大师叙事](concepts/InvestmentMasterNarrative.md) — Episode 134 method for reading famous investors as historically situated market, method, temperament, and worldview cases rather than secret formulas.
 - [Investment Style Map / 投资流派地图](concepts/InvestmentStyleMap.md) — Episode 134 coordinate-system frame for comparing value, quant, macro, trading, allocation, and cycle-oriented investing styles.
 - [Era Tailwind In Investing / 投资时代红利](concepts/EraTailwindInInvesting.md) — Episode 134 warning that investment masters are shaped by postwar peace, globalization, market expansion, and new instruments as well as talent.

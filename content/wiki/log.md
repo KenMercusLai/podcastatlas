@@ -6045,3 +6045,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 135.宏观大事频发期如何保持定力？| 投资账2025半年度复盘
+
+Added source page for a 起朱楼宴宾客 half-year 投资账 review by 大卫翁 on first-half 2025 returns, April tariff-war calm, ordinary-investor macro boundaries, staged deployment discipline, short Treasuries, gold as shock absorber, dividend-technology barbell, and Hong Kong IPO cash optionality. Created pages for Ordinary Investor Macro Boundary, Investment Plan Execution Discipline, and Dividend-Technology Barbell; updated overview, index, 起朱楼宴宾客, 大卫翁, Howard Marks, Macro Event vs Macro Trend Distinction, 1:1:1 Allocation Anchor, Barbell Strategy, Defensive Dividend Assets, Investment Liquidity Tradeoff, Hong Kong IPO Liquidity Path, Gold As Currency Spare Tire, Treasury Duration Risk, U.S. Treasury, Asset Allocation, Portfolio Suitability, Sleep-Well Portfolio Test, Macro Narrative Anxiety, and Investment Risk Management. No direct contradiction found; the source qualifies vol.124 by showing the same uncertainty discipline worked in April while adding a separate execution lesson about preserving dry powder.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran health before lint; health scanned 8,560 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while the current wiki scan found 8,560 pages, so graph findings are advisory until `build graph` refreshes it; the graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint failed because no provider-qualified `LLM_MODEL` or provider API key is configured in the shell environment. No `wiki/lint-report.md` file was saved.

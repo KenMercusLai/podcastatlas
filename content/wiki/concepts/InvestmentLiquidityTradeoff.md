@@ -2,7 +2,7 @@
 title: "Investment Liquidity Tradeoff"
 type: concept
 tags: [investing, liquidity, behavior, personal-finance]
-sources: [vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+sources: [135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
@@ -18,6 +18,8 @@ The episode gives three management routes. One is to buy products that lock liqu
 
 [[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] adds a private-credit version. The source warns that products with low reported volatility, quarterly redemption windows, or manager-estimated marks can look liquid enough until stress reveals that the exit price and exit timing are not under the investor's control.
 
+[[135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq]] adds a dry-powder execution version. The host's regret about deploying house-sale proceeds too quickly shows that liquidity has option value before the investor knows which drawdown will matter. The second-half plan to hold more cash-like assets, including short-maturity [[USTreasury|U.S. Treasuries]], also connects liquidity to future Hong Kong IPO participation and possible larger market turning points.
+
 ## Key Claims
 - Liquidity is an asset attribute, not a free good.
 - Long-term return often requires using long-duration money rather than money needed for uncertain near-term spending.
@@ -30,6 +32,7 @@ The episode gives three management routes. One is to buy products that lock liqu
 - Vol.104 adds that low-liquidity individual stocks require smaller sizing and faster thesis review because the exit itself can become the loss source.
 - Vol.105 adds that liquidity must preserve both household readiness and portfolio adaptability; too much lockup can be as damaging as too much trading freedom.
 - Episode 133 adds that smoothed marks are not liquidity: private-credit investors still need to ask what happens when many holders want cash at the same time.
+- Episode 135 adds that cash-like liquidity can be lost by premature execution even when the broad allocation idea remains reasonable.
 
 ## Connections
 - [[InvestmentImpossibleTriangle]] — liquidity is one corner of the return-safety-liquidity tradeoff.
@@ -41,3 +44,4 @@ The episode gives three management routes. One is to buy products that lock liqu
 - [[HongKongLiquidityExitRisk]] and [[HongKongMarketStructure]] — single-stock and Hong Kong market-structure extension from vol.104.
 - [[AdaptivePortfolioDesign]], [[InvestmentCooldownDiscipline]], and [[PortfolioSuitability]] — vol.105's balance between adjustment room and self-imposed behavioral friction.
 - [[PrivateCreditTailRisk]], [[FundRedemptionLiquidityPressure]], and [[FatTailRisk]] — episode 133's low-volatility credit-product extension.
+- [[InvestmentPlanExecutionDiscipline]], [[OneToOneToOneAllocation]], [[USTreasury]], and [[HongKongIPOLiquidityPath]] — episode 135's cash reserve and dry-powder extension.

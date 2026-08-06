@@ -2,7 +2,7 @@
 title: "Macro Event vs Macro Trend Distinction"
 type: concept
 tags: [macro, investing, risk, information]
-sources: [vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]
+sources: [135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]
 last_updated: 2026-08-06
 ---
 
@@ -12,11 +12,14 @@ Macro event vs macro trend distinction is [[vol-124-xinxi-guozai-hou-ruhe-baochi
 
 In the source, tariffs, group-chat panic, and daily market swings are treated as macro events. Deglobalization, higher inflation, higher rates, supply-chain fragmentation, commodity exposure, China policy room, and demand for income assets are treated as possible macro trends only when they can be translated into portfolio structure and reviewed over time.
 
+[[135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq]] adds a more explicit three-layer version: macro data can often be ignored by ordinary investors, macro events can create opportunities but reverse too fast to price reliably, and macro trends are the level that deserves sustained attention. The source also adds [[OrdinaryInvestorMacroBoundary]]: professional macro allocators may need to track events closely, while ordinary households usually need fewer trades, clearer allocation roles, and less direct headline-to-portfolio linking.
+
 ## Key Claims
 - More macro information does not automatically create more investable knowledge.
 - Ordinary investors should be skeptical of confident explanations during unprecedented events.
 - A macro trend needs time horizon, asset expression, position sizing, and review discipline before it becomes useful.
 - The distinction reduces [[MacroNarrativeAnxiety]] by stopping every shock from becoming a forced trade.
+- Episode 135 adds that events can affect ordinary life while still remaining poor short-term trading signals.
 
 ## Connections
 - [[InformationOverloadKnowledgeTrap]] - information abundance can overwhelm judgment.
@@ -24,3 +27,4 @@ In the source, tariffs, group-chat panic, and daily market swings are treated as
 - [[MacroAssetExpression]] - the step that turns a macro view into specific assets.
 - [[MarketRegimeShift]], [[ChinaPolicyEasingPivot]], and [[CommodityPriceExposure]] - examples of regime-level themes that still need evidence and sizing.
 - [[InvestmentRiskManagement]] and [[InvestmentCooldownDiscipline]] - behavior controls that keep event-driven decisions from taking over the portfolio.
+- [[OrdinaryInvestorMacroBoundary]] and [[InvestmentPlanExecutionDiscipline]] - episode 135's ordinary-investor and plan-execution extensions.

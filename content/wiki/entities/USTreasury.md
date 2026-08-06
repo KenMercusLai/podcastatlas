@@ -2,13 +2,15 @@
 title: "U.S. Treasury"
 type: entity
 tags: [institution, macro, bonds, sanctions, compliance]
-sources: [129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, betty-boop-excel-olympics-penny-isms-our-2026-valentines, the-leaked-tapes-that-show-how-the-rich-avoid-taxes, iran-protests-and-sanctions, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]
+sources: [135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, betty-boop-excel-olympics-penny-isms-our-2026-valentines, the-leaked-tapes-that-show-how-the-rich-avoid-taxes, iran-protests-and-sanctions, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]
 last_updated: 2026-08-06
 ---
 
 # U.S. Treasury
 
 The U.S. Treasury appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]] through debt issuance, short-bill strategy, long-bond supply, and federal debt-service cost. The speakers connect Treasury financing choices to [[FederalReserve]] policy pressure and to whether long-duration Treasury products remain attractive after accounting for supply and currency risk.
+
+[[135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq]] adds the household cash-management version. [[DavidWeng|大卫翁]] says he holds half-year or one-year U.S. Treasuries for roughly cash-like yield and dry powder, while avoiding long-duration Treasury ETFs as rate bets unsuited to ordinary investors.
 
 [[129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb]] adds Treasury as a monetary-anchor confidence object. [[DavidWeng|大卫翁]] notes that U.S. Treasuries have long been treated as the risk-free rate and a core monetary anchor, while current professional discussion increasingly asks how durable Treasury-market and U.S. sovereign-credit trust remain. The source connects that doubt to central-bank reserve diversification and [[GoldAsCurrencySpareTire]].
 
@@ -35,6 +37,7 @@ The U.S. Treasury appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-b
 - The Planet Money Valentine source treats Treasury as a minting-policy actor when small-denomination currency stops justifying its production cost.
 - The Social Radars source treats Treasury as one of the central decision venues for whether SVB deposits would be guaranteed before global markets opened.
 - Episode 129 treats Treasury credibility as part of the dollar anchor itself, not only as bond duration or fiscal-cost risk.
+- Episode 135 treats short U.S. Treasuries as a cash-like reserve instrument, distinct from long-duration Treasury products with larger price sensitivity.
 
 ## Connections
 - [[JanetYellen]] — policy figure attached to the issuance discussion.
@@ -48,3 +51,4 @@ The U.S. Treasury appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-b
 - [[UnitedStatesMint|U.S. Mint]], [[ErikaBeras]], and [[CoinRetirementEconomics]] - penny-retirement branch added by Planet Money.
 - [[SiliconValleyBank]], [[WallyAdeyemo]], [[GrahamSteele]], [[JanetYellen]], [[DepositGuaranteeCrisisResponse]], and [[SystemicRiskException]] - SVB weekend branch added by The Social Radars.
 - [[GoldAsCurrencySpareTire]], [[CurrencyAnchorTransition]], [[GoldMonetaryAnchor]], [[FederalReserve]], and [[CurrencyRisk]] - episode 129's reserve-anchor and gold-risk-premium branch.
+- [[TreasuryDurationRisk]], [[InvestmentLiquidityTradeoff]], and [[OrdinaryInvestorMacroBoundary]] - episode 135's short-Treasury cash-management branch.
