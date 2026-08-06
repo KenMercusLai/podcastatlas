@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [168. 银与信：一部日本劳工移民的跨洋汇款史](sources/168-yin-yu-xin-yibu-riben-laogong-yimin-de-kuayang-huikuan-shi-lmgfmmgkawoa-6xyucnm1ljebzwu.md) — 起朱楼宴宾客 episode with 素 on Japanese labor migration remittances, Hawaii plantation labor, Yokohama Specie Bank, state-mediated archives, racialized U.S. immigration politics, and qiaopi/silver-letter comparison.
 - [167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林](sources/167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja.md) — 起朱楼宴宾客 algorithm-series crossover with 独树不成林 using Plato, Rousseau, Hayek, and Arendt to frame algorithmic reality selection, reason outsourcing, dispersed-knowledge aggregation, and public appearance.
 - [166.普通人能从机构投资者身上学到什么？｜串台投资ABC](sources/166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6.md) — 起朱楼宴宾客 crossover with 投资ABC on institutional-investor process, information advantage, target-weight discipline, fund redemption pressure, personal capital-duration advantage, and ordinary-investor asset allocation.
 - [165.年报季中的真实中国2026](sources/165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo.md) — 起朱楼宴宾客 2026 annual-report episode on China's K-shaped industrial divergence, non-financial margin pressure, real-estate-chain losses, safety-first supply chains, localized global companies, hard-AI infrastructure, CATL quality, and innovation-transparency constraints.
@@ -788,6 +789,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [素 / Su](entities/Su.md) — North America-based humanities PhD guest whose episode 168 research connects Japanese labor migration, remittances, multilingual archives, and qiaopi comparison.
+- [Hawaii / 夏威夷](entities/Hawaii.md) — Plantation-labor and remittance node linking Japanese contract migration, sugar production, Yokohama Specie Bank, and later U.S. West Coast movement.
+- [Yokohama Specie Bank / 横滨正金银行](entities/YokohamaSpecieBank.md) — Semi-official Japanese bank that made overseas labor remittances legible through consulate-adjacent banking and foreign-exchange infrastructure.
+- [Dillingham Commission](entities/DillinghamCommission.md) — U.S. immigration investigation used by episode 168 to show how remittances became racialized as wealth drain and loyalty threat.
 - [独树不成林 / Dushu Buchenglin](entities/DushuBuchenglin.md) — Podcast crossover partner in episode 167, bringing political-philosophy framing to the 起朱楼 algorithm series.
 - [投资ABC / Investment ABC](entities/InvestmentABC.md) — Podcast crossover partner in episode 166, used to translate institutional investing into ordinary-investor education.
 - [Amy / 投资ABC](entities/AmyInvestmentABC.md) — 投资ABC speaker keeping episode 166 anchored in ordinary-investor questions about goals, costs, emotions, and asset allocation.
@@ -5351,6 +5356,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Japanese Labor Migration Remittances / 日本劳工移民汇款](concepts/JapaneseLaborMigrationRemittances.md) — Episode 168 frame for connecting overseas Japanese wages, family support, consulates, banking, national image, and exclusion politics.
+- [State-Mediated Remittance System / 国家中介汇款体系](concepts/StateMediatedRemittanceSystem.md) — Pattern where migrant money becomes routed and archived through officials, consulates, and semi-official banks rather than only private trust networks.
+- [Migrant Family Remittance Obligation / 移民家庭汇款义务](concepts/MigrantFamilyRemittanceObligation.md) — Family, moral, and bureaucratic pressure that turns overseas earning into a duty toward people at home.
+- [Racialized Remittance Politics / 种族化汇款政治](concepts/RacializedRemittancePolitics.md) — Host-country pattern where similar migrant remittances are read as family support for some groups and threat or wealth drain for racialized others.
+- [Archive Preservation Bias / 档案保存偏差](concepts/ArchivePreservationBias.md) — Research-method concept that asks why some remittance records were preserved, centralized, cataloged, and narratable while others stayed scattered.
 - [Algorithmic Cave Allegory / 算法洞穴隐喻](concepts/AlgorithmicCaveAllegory.md) — Episode 167 use of Plato's cave to explain algorithmic reality selection, filtered visibility, and user feedback as projection.
 - [Algorithmic Reason Outsourcing / 算法理性外包](concepts/AlgorithmicReasonOutsourcing.md) — Episode 167 Enlightenment critique where rankings, recommendations, and hot lists perform reason while weakening active judgment.
 - [Algorithmic Dispersed Knowledge / 算法分散知识聚合](concepts/AlgorithmicDispersedKnowledge.md) — Episode 167 Hayekian question of whether platform algorithms can aggregate local and tacit knowledge without losing weak or non-quantified signals.

@@ -2,8 +2,8 @@
 title: "Overseas Chinese Mutual Aid Networks"
 type: concept
 tags: [diaspora, migration, governance, southeast-asia]
-sources: [150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g, no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918, no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046]
-last_updated: 2026-08-06
+sources: [168-yin-yu-xin-yibu-riben-laogong-yimin-de-kuayang-huikuan-shi-lmgfmmgkawoa-6xyucnm1ljebzwu, 150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g, no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918, no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046]
+last_updated: 2026-08-07
 ---
 
 # Overseas Chinese Mutual Aid Networks
@@ -16,6 +16,8 @@ The source emphasizes that migration was not only opportunity. Overseas Chinese 
 
 [[no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046]] extends the concept through [[Chaoshan]] migrants in Southeast Asia. The episode emphasizes hometown and dialect trust behind water couriers, qiaopi offices, merchant houses, and return investment, while also showing the limit: strong overseas networks did not by themselves solve [[MerchantToIndustrialCityUpgrade]] for [[Shantou]].
 
+[[168-yin-yu-xin-yibu-riben-laogong-yimin-de-kuayang-huikuan-shi-lmgfmmgkawoa-6xyucnm1ljebzwu]] adds a comparative angle. The source contrasts overseas Chinese associations, clan networks, merchants, and couriers with Japan's [[StateMediatedRemittanceSystem]], making mutual aid networks more legible as private governance infrastructure rather than informal residue.
+
 ## Key Claims
 - Diaspora institutions can substitute for missing or hostile formal protection in colonial or unfamiliar settings.
 - Dialect, hometown, clan, industry, and temple ties all help turn individual migrants into a supportable community.
@@ -24,8 +26,10 @@ The source emphasizes that migration was not only opportunity. Overseas Chinese 
 - Trust networks can support private finance and logistics before formal institutions are accessible.
 - Their development payoff depends on whether returned money meets local industrial capacity, public credit, and administrative coordination.
 - Episode 150 adds that those same trust networks can temporarily substitute for formal property-rights protection during early market formation.
+- Episode 168 shows that private mutual-aid networks can be less visible in centralized archives even when they carry essential remittance and communication work.
 
 ## Connections
+- [[StateMediatedRemittanceSystem]], [[JapaneseLaborMigrationRemittances]], and [[ArchivePreservationBias]] — Japanese comparison branch added by episode 168.
 - [[MinnanMaritimeCommercialCulture]] — migration and institution branch of the broader pattern.
 - [[QiaopiRemittanceNetworks]] — finance and communication layer built on trust networks.
 - [[ChenJiageng]] — education and public-good version of diaspora return.

@@ -6305,3 +6305,11 @@ Added source page for a 起朱楼宴宾客 algorithm-series crossover with 独�
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | 168. 银与信：一部日本劳工移民的跨洋汇款史
+
+Added source page for a 起朱楼宴宾客 episode with 素 on Japanese labor migration remittances from Hawaii and the U.S. West Coast back to Japan. Created pages for 素, Hawaii, Yokohama Specie Bank, Dillingham Commission, Japanese Labor Migration Remittances, State-Mediated Remittance System, Migrant Family Remittance Obligation, Racialized Remittance Politics, and Archive Preservation Bias; updated overview, index, 起朱楼宴宾客, 大卫翁, Japan, United States, Qiaopi Remittance Networks, Overseas Chinese Mutual Aid Networks, Japanese Labor Shortage Immigration Tension, and Archive Access Tradeoff. No direct contradiction found; the source extends the qiaopi/remittance branch by contrasting a centralized Japanese state-bank archive with decentralized Chinese letter-money networks while caveating uncertain qiaopi figures and the unexamined film parallel.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran health before lint; health scanned 8,890 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,890 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 8,890 pages, so graph findings are advisory until `build graph` refreshes it; the graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because no provider-qualified `LLM_MODEL` and Anthropic API key are configured in this shell; bounded fallback scans of explicit contradiction markers found no hard unresolved contradiction. No `wiki/lint-report.md` file was saved.
