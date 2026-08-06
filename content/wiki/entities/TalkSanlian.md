@@ -1,12 +1,14 @@
 ---
 title: "Talk三联"
 type: entity
-tags: [podcast, media, technology, finance, culture, china]
-sources: [ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
+tags: [podcast, media, technology, finance, culture, sports, lifestyle, china]
+sources: [ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
 last_updated: 2026-08-07
 ---
 
 # Talk三联
+
+[[ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg]] adds the show's lifestyle-sports reporting branch. With [[Heimai|黑麦]], [[SunRuoxi|孙若曦]], [[XuePeng|薛鹏]], and [[WuShubin|吴淑彬]], the show treats [[UrbanNicheSports|城市小众运动]] as an urban culture question spanning [[Padel|板式网球]], [[MermaidFreediving|美人鱼潜水]], [[ArmoredCombat|盔甲格斗]], [[LeisureSailing|休闲帆船]], [[StandUpPaddleboarding|桨板]], and [[ArcheryFlow|射箭专注体验]].
 
 Talk三联 is the podcast/show context for [[ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]], where [[GaoYiding|高一丁]] and [[ZhangCongzhi|张从志]] explain chips, semiconductor manufacturing, and AI compute for a broad audience. In that source, the show acts as a public-technology explainer: it moves from parking-lot chips and consumer devices to GPUs, fabs, [[ElectronicDesignAutomation|EDA]], lithography, and domestic AI-chip strategy.
 
@@ -26,4 +28,5 @@ The episode positions industrial reporting as a translation layer. Instead of tr
 - [[HouseholdGoldSavings]], [[OnlineGoldAccumulation]], and [[GoldMonetaryAnchor]] — gold branch added by EP268.
 - [[XiaoChuzhou]], [[SunRuoxi]], [[LiuChang]], [[TheEpicOfGilgamesh]], [[PoeticEdda]], [[NorseMythology]], and [[EpicModernAfterlife]] — epic and mythology branch added by EP269.
 - [[WeiQianSanlian]], [[RuanJianing]], [[EmotionEconomy]], [[PaidListeningServices]], [[ListeningTherapyBoundary]], and [[EmotionRegulationToolkit]] — emotion-economy branch added by EP236.
+- [[Heimai]], [[SunRuoxi]], [[XuePeng]], [[WuShubin]], [[UrbanNicheSports]], [[Padel]], [[MermaidFreediving]], [[ArmoredCombat]], [[LeisureSailing]], [[StandUpPaddleboarding]], and [[ArcheryFlow]] — lifestyle-sports branch added by EP238.
 - [[PodcastAsAsynchronousMedia]] — broader media form.

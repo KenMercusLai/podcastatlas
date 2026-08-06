@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP238 2025年，你玩过怎样的“小众运动”？](sources/ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg.md) — Talk三联 episode on urban niche sports, covering padel, mermaid freediving, armored combat, leisure sailing, paddleboarding, archery, venue constraints, equipment thresholds, and small sports communities.
 - [EP236 唠五块钱心里话，付费的陪伴是真的吗？](sources/ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx.md) — Talk三联 episode with 魏茜 and 阮佳宁 on emotion economy, paid listening, therapy boundaries, platform incentives, plush and pet comfort, wellness relief, ritual hope, AI companionship, and emotion-regulation support networks.
 - [172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步](sources/172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2.md) — 起朱楼宴宾客 half-year 2026 macro review with 大卫翁 and Ricky on AI capex re-igniting global equities, U.S.-China AI macro asymmetry, China AI export leverage, employment-multiplier compression, Fed constraints, cash-first defense, A-share domestic substitution, and Hong Kong innovation drugs.
 - [171.为什么牛市后期更容易亏钱？｜半年度投资账复盘](sources/171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk.md) — 起朱楼宴宾客 half-year 2026 investment review on late bull-market loss risk, market breadth narrowing, FOMO entry, overtrading, oversized bets, and 2014-2015 A-share wealth redistribution.
@@ -794,6 +795,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [薛鹏 / Xue Peng](entities/XuePeng.md) — Talk三联 speaker grounding EP238's armored-combat segment through armor, historical authenticity, team fighting, and commercialization limits.
+- [吴淑彬 / Wu Shubin](entities/WuShubin.md) — Talk三联 speaker in EP238 explaining mermaid freediving, paddleboarding, water-sport venues, courses, equipment, and urban water access.
+- [许路 / Xu Lu](entities/XuLu.md) — Sailing interview subject in EP238 connecting leisure sailing to Xiamen dock memory, wooden-boat restoration, Fujian fieldwork, and experimental archaeology.
+- [张伯后 / Jerry](entities/ZhangBohouJerry.md) — Padel player interviewed in EP238, used to show athlete opportunity and support networks in an emerging racket sport.
 - [魏茜 / Wei Qian (Sanlian)](entities/WeiQianSanlian.md) — 三联生活周刊 reporter and Talk三联 guest grounding EP236's emotion-economy, wellness, plush, pet, and self-care discussion.
 - [阮佳宁 / Ruan Jianing](entities/RuanJianing.md) — 三联生活周刊 reporter and Talk三联 guest grounding EP236's paid-listening, platform-incentive, therapy-boundary, and AI-companionship discussion.
 - [Jellycat](entities/Jellycat.md) — Plush-toy brand used by EP236 as an example of tactile comfort consumption inside the emotion economy.
@@ -5375,6 +5380,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Urban Niche Sports / 城市小众运动](concepts/UrbanNicheSports.md) — EP238 frame for sports becoming visible through urban venues, indoorization, simplified formats, equipment, community, and lifestyle participation.
+- [Padel / 板式网球](concepts/Padel.md) — EP238 racket-sport case combining tennis, squash, glass-wall rebounds, doubles cooperation, beginner friendliness, and emerging professional opportunity.
+- [Mermaid Freediving / 美人鱼潜水](concepts/MermaidFreediving.md) — Freediving branch in EP238 where sport, underwater performance, certificates, fish-tail equipment, photography, and pool sets merge.
+- [Armored Combat / 盔甲格斗](concepts/ArmoredCombat.md) — EP238 historical combat sport combining armor, blunt weapons, team fighting, authenticity rules, high physical load, and spectacle.
+- [Leisure Sailing / 休闲帆船](concepts/LeisureSailing.md) — EP238 sailing frame linking wind, water, crew coordination, Xu Lu's wooden-boat restoration, and maritime-history fieldwork.
+- [Stand-Up Paddleboarding / 桨板](concepts/StandUpPaddleboarding.md) — EP238 water-sport case where portable boards meet urban water access, leisure, whitewater, travel, and rare commuting experiments.
+- [Archery Flow / 射箭专注体验](concepts/ArcheryFlow.md) — EP238 frame for archery as accessible short-window concentration, safety protocol, bow categories, and equipment fit.
+- [Pre-Commercial Sports Community / 商业化前小众运动社群](concepts/PreCommercialSportsCommunity.md) — EP238 concept for friendly early sports circles before mature sponsorship, media, and professional-league flywheels.
 - [Emotion Economy / 情绪经济](concepts/EmotionEconomy.md) — Market frame for products and services that sell comfort, relief, companionship, identity, hope, or quick happiness.
 - [Paid Listening Services / 付费树洞与倾听师](concepts/PaidListeningServices.md) — Online paid listening and chat services where users buy immediate feedback, emotional containment, and temporary companionship.
 - [Emotional Value Commodification / 情绪价值商品化](concepts/EmotionalValueCommodification.md) — Pattern where listening, comfort, recognition, and companionship are named as value and turned into products or services.

@@ -6353,3 +6353,11 @@ Added source page for a Talk三联 episode with 魏茜 and 阮佳宁 on emotion 
 ## [2026-08-07] lint | Wiki health check
 
 Ran health before lint; health scanned 8,933 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,933 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 8,933 pages, so graph findings are advisory until `build graph` refreshes it; the graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`; a bounded in-session semantic sample review found no hard contradiction and flagged source-breadth gaps for current AI-politics, fisheries/commodity, and company-annual-report innovation claims. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-07] ingest | EP238 2025年，你玩过怎样的“小众运动”？
+
+Added source page for a Talk三联 episode with 黑麦, 孙若曦, 薛鹏, and 吴淑彬 on urban niche sports, covering padel, mermaid freediving, armored combat, leisure sailing, paddleboarding, archery, venue access, equipment thresholds, sport simplification, city water/indoor infrastructure, and pre-commercial sports communities. Created pages for 薛鹏 / Xue Peng, 吴淑彬 / Wu Shubin, 许路 / Xu Lu, 张伯后 / Jerry, Urban Niche Sports, Padel, Mermaid Freediving, Armored Combat, Leisure Sailing, Stand-Up Paddleboarding, Archery Flow, and Pre-Commercial Sports Community; updated overview, index, Talk三联, 三联生活周刊, 黑麦, 孙若曦, UFC, and Sports Lifestyle Consumption. No direct contradiction found; the source extends sports lifestyle consumption from apparel and event demand into participation-based urban leisure.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
