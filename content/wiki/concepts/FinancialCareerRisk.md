@@ -2,13 +2,15 @@
 title: "Financial Career Risk"
 type: concept
 tags: [finance, career, risk, incentives]
-sources: [154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq, ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
-last_updated: 2026-07-08
+sources: [169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq, ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
+last_updated: 2026-08-07
 ---
 
 # Financial Career Risk
 
 Financial career risk is the way finance-industry workers' platform choices, client resources, incentive systems, and status narratives can change their legal exposure, reputation, income stability, and life path. In [[ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]], [[YiLaoYongYi]] uses the contrast between people who joined risky outside platforms and people who stayed, transferred, or left finance deliberately to show that career upside has to be evaluated together with platform downside.
+
+[[169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c]] adds the pre-entry planning version through [[DavidWeng|大卫翁]]'s advice to gaokao students. Finance career risk begins before the first job: students may overread industry status, underestimate [[FinanceIndustryRoleSegmentation|role segmentation]], miss the market-cycle luck embedded in hiring cohorts, or assume AI affects senior and junior work equally when [[FinanceEntryLevelAICompression]] is more concentrated in information-processing entry roles.
 
 [[154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x]] adds [[DavidWeng|大卫翁]]'s first-person market-cycle and office-politics version. Joining a small private fund in late June 2015 immediately exposed him to crash, rescue, and circuit-breaker conditions, while later brokerage work showed how sponsor support, KPI reassignment, and faction labels can change risk even when income and growth look strong.
 
@@ -34,6 +36,7 @@ Financial career risk is the way finance-industry workers' platform choices, cli
 - Finance-career self-protection includes knowing when not to judge, not to choose sides, and not to assume that a dramatic promotion route is available in the actual institution.
 - AI-era career risk includes skill repricing: a worker can remain competent while the market value of that competence falls.
 - Episode 154 adds that finance-career risk can be market-timing risk, fit risk, sponsor-political risk, and warm-water exit risk at once.
+- Episode 169 adds that finance-career risk includes pre-college overcommitment: school, city, family resources, internships, role choice, AI exposure, and entry-cycle timing all shape whether "going into finance" is a real plan or only a status label.
 
 ## Connections
 - [[ThirdPartyWealthPlatformRisk]] — platform and product-risk version of the concept.
@@ -48,3 +51,4 @@ Financial career risk is the way finance-industry workers' platform choices, cli
 - [[WorkplacePacing]] and [[BankOrganizationalHierarchy]] — EP58's role-specific pressure, slack, and visibility layer.
 - [[BankInternalAudit]], [[BankDueDiligence]], and [[WorkplaceRelationshipBoundaries]] — EP26's bank workplace, control, and self-protection additions.
 - [[IntelligenceDevaluation]], [[PrimeBorrowerCreditRisk]], and [[HumanResourceDeflationComputeInfrastructureInflation]] — AI-era labor and credit pressure added by the Keji Luandun source.
+- [[FinanceIndustryRoleSegmentation]], [[FinanceRelationshipCapital]], [[FinanceEntryLevelAICompression]], and [[IndustryToFinanceCareerPath]] — episode 169's finance-career planning branch.

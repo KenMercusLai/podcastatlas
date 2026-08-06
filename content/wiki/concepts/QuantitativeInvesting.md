@@ -2,8 +2,8 @@
 title: "Quantitative Investing"
 type: concept
 tags: [investing, quantitative-finance]
-sources: [134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl]
-last_updated: 2026-08-06
+sources: [169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl]
+last_updated: 2026-08-07
 ---
 
 # Quantitative Investing
@@ -20,6 +20,8 @@ Quantitative investing is the episode's nameable method behind [[JimSimons]], [[
 
 [[134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg]] places quant on the [[InvestmentStyleMap]] as one pole of the master series. [[JimSimons]] is recommended as unavoidable for understanding quant, but the source keeps the lesson aligned with the existing wiki: quant is a system of data, talent, execution, and controls, not a retail formula.
 
+[[169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c]] adds an entry-route update. A quant practitioner tells the episode that the old beginner path of reproducing research reports and slowly learning through basic factor work is being compressed; institutions now prefer people with stronger machine-learning research depth or rare combinations of market understanding and independent research ability.
+
 ## Key Claims
 - The method is less about understanding business stories and more about detecting patterns in time-series data.
 - A small edge can matter if it is real, repeatable, low-correlation, and traded many times.
@@ -34,6 +36,7 @@ Quantitative investing is the episode's nameable method behind [[JimSimons]], [[
 - E144 adds that backtested signal combinations need complete entry and exit definitions; a signal alone is not a strategy.
 - Random experiments and generated narratives are useful checks against confusing statistical appearance with causal explanation.
 - Episode 134 adds that Simons should be studied as a distinct worldview and institutional method, not as evidence that ordinary investors can easily automate alpha.
+- Episode 169 adds that AI can change quant apprenticeship by making simple report reproduction less useful while raising the bar for independent ML, market, and research ability.
 
 ## Connections
 - [[JimSimons]], [[RenaissanceTechnologies]], and [[MedallionFund]] — central case.
@@ -45,3 +48,4 @@ Quantitative investing is the episode's nameable method behind [[JimSimons]], [[
 - [[NoPredictionTrading]], [[RandomMarketNarratives]], and [[DiversificationAlpha]] — E144's trend-signal, narrative, and diversification extensions.
 - [[QuantitativeDataMoat]], [[ShortTermStatisticalArbitrage]], [[HumanRiskOverride]], and [[AlphaDecay]] — vol.103's historical and organizational extensions.
 - [[InvestmentMastersSeries]], [[InvestmentStyleMap]], [[InvestmentWorldviewFit]], and [[InvestorIdolRisk]] — episode 134's map and non-copyability extension.
+- [[FinanceEntryLevelAICompression]] and [[AICompressedInvestmentResearchAdvantage]] — episode 169's AI-era entry-path update.

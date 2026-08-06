@@ -2,13 +2,15 @@
 title: "College Major Choice"
 type: concept
 tags: [education, career, ai]
-sources: [tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
-last_updated: 2026-07-14
+sources: [169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+last_updated: 2026-08-07
 ---
 
 # College Major Choice
 
 College major choice is the episode's frame for choosing a field of study under uncertainty rather than optimizing only for a currently hot job title. In [[vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1]], [[JustinYan]] and [[Zili]] treat gaokao volunteer filling as a serious but revisable decision that interacts with school resources, city context, family expectations, income needs, personal interest, and AI-driven change.
+
+[[169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c]] adds the finance-career version. [[DavidWeng|大卫翁]] argues that students who want finance should often prioritize school signal, city, internships, and broad foundations over a narrow undergraduate finance label; if a major ranking is forced, he favors basic disciplines and STEM before finance/economics specialization because industry knowledge and general thinking can remain valuable when AI compresses generic information work.
 
 [[ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1]] adds [[JiangXun]]'s parent-and-author perspective. Because many students do not yet know what they like, the episode argues that curiosity and real-world exposure should be cultivated before the application deadline, while [[DistributionOutPersonalStrategy]] warns against choosing only the most standardized path.
 
@@ -34,6 +36,7 @@ College major choice is the episode's frame for choosing a field of study under 
 - AI can help collect college and program information, but it can also make existing ranking defaults feel like personalized advice.
 - Status pressure can distort major choice when the student is optimizing for family reassurance, ranking labels, or fear of failure rather than a defensible direction.
 - Opportunity cost makes major choice more honest: keeping every future open is itself a costly strategy when time and attention are limited.
+- Episode 169 adds that for finance careers, the major can be less decisive than the school's hiring signal, the city's internship density, and whether the student gains transferable domain knowledge.
 
 ## Connections
 
@@ -47,3 +50,4 @@ College major choice is the episode's frame for choosing a field of study under 
 - [[AICollegeSearch]], [[HigherEducationAIDiscoverability]], and [[AIRankingReinforcement]] — AI-mediated college-search layer added by Marketplace Tech.
 - [[RedPenLogic]], [[AchievementPressureMentalHealth]], and [[IvyLeagueMeritocracy]] — episode 160's warning that education choices can become identity scoring.
 - [[OpportunityCost]], [[CostBenefitThinking]], and [[MarginalAnalysis]] — episode 61's economic-thinking tools for choosing under finite time and imperfect information.
+- [[FinanceIndustryRoleSegmentation]], [[FinanceEntryLevelAICompression]], and [[IndustryToFinanceCareerPath]] — episode 169's finance-career major-choice branch.

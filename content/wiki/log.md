@@ -6313,3 +6313,11 @@ Added source page for a 起朱楼宴宾客 episode with 素 on Japanese labor mi
 ## [2026-08-07] lint | Wiki health check
 
 Ran health before lint; health scanned 8,890 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,890 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 8,890 pages, so graph findings are advisory until `build graph` refreshes it; the graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because no provider-qualified `LLM_MODEL` and Anthropic API key are configured in this shell; bounded fallback scans of explicit contradiction markers found no hard unresolved contradiction. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-07] ingest | 169.如果你18岁，正考虑未来把金融当职业｜高考季特别策划
+
+Added source page for a 起朱楼宴宾客 gaokao-season finance-career episode by 大卫翁 on finance role segmentation, front/middle/back-office distinctions, relationship capital, market-cycle timing, AI pressure on junior information-processing work, school/city signaling, internships, and industry-to-finance routes. Created pages for Finance Industry Role Segmentation, Finance Relationship Capital, Finance Entry-Level AI Compression, and Industry-To-Finance Career Path; updated overview, index, 起朱楼宴宾客, 大卫翁, 小宇宙, Financial Career Risk, Finance Career Portability, Finance Platform Social Capital, Entry-Level AI Career-Ladder Risk, College Major Choice, College Career Preparation, University Opportunity Density, Internship As Career Exploration, AI Investment Research, AI-Compressed Investment Research Advantage, Quantitative Investing, and Brokerage Research Reports. No direct contradiction found; the source extends existing AI-career and education-planning pages by making finance a role-, platform-, relationship-, and cycle-dependent career choice rather than a simple major or industry-status decision.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

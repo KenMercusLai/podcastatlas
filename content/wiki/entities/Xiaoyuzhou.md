@@ -2,11 +2,13 @@
 title: "小宇宙"
 type: entity
 tags: [podcast-platform, media, china]
-sources: [167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]
-last_updated: 2026-08-06
+sources: [169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]
+last_updated: 2026-08-07
 ---
 
 # 小宇宙
+
+[[169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c]] adds 小宇宙 as the organizer of a gaokao-season planning project for ordinary students and parents. The episode itself remains a [[QizhulouYanBinke|起朱楼宴宾客]] finance-career explainer, but the platform context matters because it places finance-career advice inside a broader public-service and education-decision series.
 
 [[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] adds 小宇宙 to the platform-regime comparison inside [[AlgorithmicPublicAppearance]]. The episode contrasts podcast distribution's subscription and reputation cues with more aggressive algorithmic feeds, treating platform form as a condition for how creators perform and how publics appear.
 
@@ -27,3 +29,4 @@ last_updated: 2026-08-06
 - [[QizhulouYanBinke|起朱楼宴宾客]], [[DavidWeng|大卫翁]], and [[PodcastEnabledCareerPath]] - episode 141 publication context.
 - [[YangYi|杨一]], [[OuyangBin|欧阳斌]], [[ChinesePodcastEcosystem]], and [[SubscriptionVsAlgorithmPodcastDistribution]] - episode 149 ecosystem and distribution branch.
 - [[PlatformAffordance]], [[PlatformFeedbackLoop]], and [[PodcastIntimacy]] - episode 164's comment-area and creator-listener relationship branch.
+- [[CollegeMajorChoice]], [[CollegeCareerPreparation]], and [[QizhulouYanBinke|起朱楼宴宾客]] - episode 169's gaokao planning and finance-career context.

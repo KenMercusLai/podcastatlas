@@ -2,8 +2,8 @@
 title: "Finance Career Portability"
 type: concept
 tags: [finance, career, sales, entrepreneurship]
-sources: [154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]
-last_updated: 2026-07-07
+sources: [169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]
+last_updated: 2026-08-07
 ---
 
 # Finance Career Portability
@@ -11,6 +11,8 @@ last_updated: 2026-07-07
 Finance career portability is the transfer of finance-industry skills into other roles, institutions, or sectors. [[ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]] treats finance work as a training ground for communication, etiquette, sales, customer understanding, goal orientation, risk boundaries, and emotional control, while also showing that people can move from bank roles into management, training, investment consulting, clothing, restaurants, or life abroad.
 
 [[154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x]] adds a content-and-digital-transformation version. [[DavidWeng|大卫翁]] connects computer training, finance work, overseas research, investment experience, public writing, and investor education into a role leading brokerage research digital transformation, then later into podcast and creator work. The source shows portability as skill recombination plus [[FinancePlatformSocialCapital]], not only leaving finance for an unrelated business.
+
+[[169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c]] adds the reverse direction: [[IndustryToFinanceCareerPath|industry-to-finance]] can also be portability. The episode argues that students who first build domain knowledge in medicine, semiconductors, manufacturing, technology, or another real industry may later transfer that expertise into investment research, asset management, or advisory work, especially when generic finance knowledge becomes easier to learn with AI.
 
 ## Key Claims
 - Early finance work can train broadly useful habits: professional presentation, client conversation, emotional restraint, follow-up, and bottom-line thinking.
@@ -20,6 +22,7 @@ Finance career portability is the transfer of finance-industry skills into other
 - Portability is healthier when it follows self-knowledge and skill transfer rather than escape from misconduct, product failure, or unsustainable fast-money pressure.
 - The episode's positive cases show that long-term careers and exits both work best when they are chosen deliberately rather than driven only by the highest short-term payout.
 - Episode 154 adds that portability can come from combining technical, financial, writing, and platform skills until a new role can see the composite value.
+- Episode 169 adds that portability can run from industry into finance when domain knowledge becomes the scarce input and finance vocabulary is easier to learn later.
 
 ## Connections
 - [[FinancialCareerRisk]] — portability is the constructive alternative to being trapped by a bad platform choice.
@@ -29,3 +32,4 @@ Finance career portability is the transfer of finance-industry skills into other
 - [[DirtyWork]] — low-status early tasks can still teach workflow, customer, and responsibility logic.
 - [[IndependentInvestmentConsulting]] — one finance-to-advisory portability route.
 - [[FinancialFreedomVsLifestyleFreedom]] — personal goals and lifestyle design affect whether staying or leaving finance is rational.
+- [[IndustryToFinanceCareerPath]], [[FinanceIndustryRoleSegmentation]], and [[AICompressedInvestmentResearchAdvantage]] - episode 169's industry-domain path into finance.

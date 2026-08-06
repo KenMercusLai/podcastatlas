@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [169.如果你18岁，正考虑未来把金融当职业｜高考季特别策划](sources/169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c.md) — 起朱楼宴宾客 gaokao-season finance-career episode on finance role segmentation, relationship capital, AI pressure on entry-level work, school/city signaling, internships, and industry-to-finance paths.
 - [168. 银与信：一部日本劳工移民的跨洋汇款史](sources/168-yin-yu-xin-yibu-riben-laogong-yimin-de-kuayang-huikuan-shi-lmgfmmgkawoa-6xyucnm1ljebzwu.md) — 起朱楼宴宾客 episode with 素 on Japanese labor migration remittances, Hawaii plantation labor, Yokohama Specie Bank, state-mediated archives, racialized U.S. immigration politics, and qiaopi/silver-letter comparison.
 - [167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林](sources/167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja.md) — 起朱楼宴宾客 algorithm-series crossover with 独树不成林 using Plato, Rousseau, Hayek, and Arendt to frame algorithmic reality selection, reason outsourcing, dispersed-knowledge aggregation, and public appearance.
 - [166.普通人能从机构投资者身上学到什么？｜串台投资ABC](sources/166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6.md) — 起朱楼宴宾客 crossover with 投资ABC on institutional-investor process, information advantage, target-weight discipline, fund redemption pressure, personal capital-duration advantage, and ordinary-investor asset allocation.
@@ -5356,6 +5357,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Finance Industry Role Segmentation / 金融行业岗位分层](concepts/FinanceIndustryRoleSegmentation.md) — Episode 169 frame for separating finance by institution, business line, and front/middle/back-office role instead of treating finance as one career.
+- [Finance Relationship Capital / 金融关系资本](concepts/FinanceRelationshipCapital.md) — Episode 169 concept for client trust, personal networks, market-cycle memory, and senior judgment that often move with experienced finance workers.
+- [Finance Entry-Level AI Compression / 金融初级岗位AI压缩](concepts/FinanceEntryLevelAICompression.md) — Episode 169 finance-specific AI labor risk where junior research, execution, drafting, data, and report tasks are compressed before senior relationship and judgment work.
+- [Industry-To-Finance Career Path / 产业转金融职业路径](concepts/IndustryToFinanceCareerPath.md) — Episode 169 path where students first build industry/domain expertise and later move into investing, research, asset management, or advisory roles.
 - [Japanese Labor Migration Remittances / 日本劳工移民汇款](concepts/JapaneseLaborMigrationRemittances.md) — Episode 168 frame for connecting overseas Japanese wages, family support, consulates, banking, national image, and exclusion politics.
 - [State-Mediated Remittance System / 国家中介汇款体系](concepts/StateMediatedRemittanceSystem.md) — Pattern where migrant money becomes routed and archived through officials, consulates, and semi-official banks rather than only private trust networks.
 - [Migrant Family Remittance Obligation / 移民家庭汇款义务](concepts/MigrantFamilyRemittanceObligation.md) — Family, moral, and bureaucratic pressure that turns overseas earning into a duty toward people at home.

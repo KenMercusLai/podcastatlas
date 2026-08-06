@@ -599,6 +599,10 @@
     "title": "168. 银与信：一部日本劳工移民的跨洋汇款史",
     "url": "/wiki/sources/168-yin-yu-xin-yibu-riben-laogong-yimin-de-kuayang-huikuan-shi-lmgfmmgkawoa-6xyucnm1ljebzwu/"
   },
+  "169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c": {
+    "title": "169.如果你18岁，正考虑未来把金融当职业｜高考季特别策划",
+    "url": "/wiki/sources/169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c/"
+  },
   "169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909": {
     "title": "169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上）",
     "url": "/wiki/sources/169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909/"
@@ -11267,9 +11271,21 @@
     "title": "Finance Career Portability",
     "url": "/wiki/concepts/financecareerportability/"
   },
+  "FinanceEntryLevelAICompression": {
+    "title": "Finance Entry-Level AI Compression / 金融初级岗位AI压缩",
+    "url": "/wiki/concepts/financeentrylevelaicompression/"
+  },
+  "FinanceIndustryRoleSegmentation": {
+    "title": "Finance Industry Role Segmentation / 金融行业岗位分层",
+    "url": "/wiki/concepts/financeindustryrolesegmentation/"
+  },
   "FinancePlatformSocialCapital": {
     "title": "Finance Platform Social Capital / 金融平台社会资本",
     "url": "/wiki/concepts/financeplatformsocialcapital/"
+  },
+  "FinanceRelationshipCapital": {
+    "title": "Finance Relationship Capital / 金融关系资本",
+    "url": "/wiki/concepts/financerelationshipcapital/"
   },
   "FinancialAIAgents": {
     "title": "Financial AI Agents",
@@ -15002,6 +15018,10 @@
   "IndustrialSubsidyDependence": {
     "title": "Industrial Subsidy Dependence",
     "url": "/wiki/concepts/industrialsubsidydependence/"
+  },
+  "IndustryToFinanceCareerPath": {
+    "title": "Industry-To-Finance Career Path / 产业转金融职业路径",
+    "url": "/wiki/concepts/industrytofinancecareerpath/"
   },
   "IndyJohar": {
     "title": "Indy Johar",
