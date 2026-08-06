@@ -207,6 +207,10 @@
     "title": "131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程",
     "url": "/wiki/sources/131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan/"
   },
+  "132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo": {
+    "title": "132.当过度思考的打工人遇上低欲望的时代",
+    "url": "/wiki/sources/132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo/"
+  },
   "132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan": {
     "title": "132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开",
     "url": "/wiki/sources/132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan/"
@@ -2538,6 +2542,10 @@
   "AlgorithmicAngerEngagement": {
     "title": "Algorithmic Anger Engagement",
     "url": "/wiki/concepts/algorithmicangerengagement/"
+  },
+  "AlgorithmicDesirePreemption": {
+    "title": "Algorithmic Desire Preemption / 算法欲望预支",
+    "url": "/wiki/concepts/algorithmicdesirepreemption/"
   },
   "AlgorithmicLabeling": {
     "title": "Algorithmic Labeling",
@@ -17711,6 +17719,10 @@
     "title": "Low-Cost Short-Cycle Validation",
     "url": "/wiki/concepts/lowcostshortcyclevalidation/"
   },
+  "LowDesireDefensiveContraction": {
+    "title": "Low Desire As Defensive Contraction / 低欲望防御性收缩",
+    "url": "/wiki/concepts/lowdesiredefensivecontraction/"
+  },
   "LowEquityCommercialRights": {
     "title": "Low-Equity Commercial Rights",
     "url": "/wiki/concepts/lowequitycommercialrights/"
@@ -24691,6 +24703,10 @@
     "title": "Ruhollah Khomeini",
     "url": "/wiki/entities/ruhollahkhomeini/"
   },
+  "RuleBoundOverthinking": {
+    "title": "Rule-Bound Overthinking / 规则化过度思考",
+    "url": "/wiki/concepts/ruleboundoverthinking/"
+  },
   "RuleIdolatry": {
     "title": "Rule Idolatry",
     "url": "/wiki/concepts/ruleidolatry/"
@@ -26306,6 +26322,10 @@
   "SocialSignalInterpretation": {
     "title": "Social Signal Interpretation",
     "url": "/wiki/concepts/socialsignalinterpretation/"
+  },
+  "SocialTemplateDesire": {
+    "title": "Social-Template Desire / 社会模板欲望",
+    "url": "/wiki/concepts/socialtemplatedesire/"
   },
   "SocialTrustAndHappiness": {
     "title": "Social Trust And Happiness",
@@ -31410,6 +31430,10 @@
   "Youku": {
     "title": "优酷 / Youku",
     "url": "/wiki/entities/youku/"
+  },
+  "YoumamaMaomao": {
+    "title": "尤妈妈 / 猫猫",
+    "url": "/wiki/entities/youmamamaomao/"
   },
   "YouthEntrepreneurship": {
     "title": "Youth Entrepreneurship",

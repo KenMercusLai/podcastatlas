@@ -2,8 +2,8 @@
 title: "Controllable Life Anchors"
 type: concept
 tags: [life-design, attention, happiness, youth]
-sources: [vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
-last_updated: 2026-07-15
+sources: [132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
+last_updated: 2026-08-06
 ---
 
 # Controllable Life Anchors
@@ -12,12 +12,15 @@ Controllable life anchors are the small practices in [[vol-107-85hou-tiwen-95hou
 
 The concept is close to [[MicroHappiness]] and [[ArtisanalAttention]], but its emphasis is control. The anchor does not need to solve structural uncertainty; it only needs to be a repeatable place where effort and outcome remain legible enough for the person to feel alive and oriented.
 
+[[132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo]] adds the overthinking and low-desire version. [[YoumamaMaomao|尤妈妈 / 猫猫]] describes Japanese study, gardening, marathon training, cooking, and thinking about the next meal as anchors that pull attention out of workplace rumination, algorithmic comparison, and AI usefulness anxiety.
+
 ## Key Claims
 - A controllable anchor works because it has visible feedback, bounded scope, and some room for self-directed improvement.
 - Baking and reading are not framed as escape only; they also reset attention after work and short-form feeds.
 - The anchor becomes more important when [[AchievementPressureMentalHealth|achievement pressure]] and adult work reveal that effort does not always map linearly to reward.
 - Controllable anchors can coexist with ambition, career planning, and social concern; they do not require full withdrawal.
 - The frame adds a youth-specific version of [[LifeAntifragility]]: preserve a stable base while the larger environment remains uncertain.
+- Episode 132 adds that anchors can preserve desire indirectly: they keep body, attention, and daily rhythm available while larger goals are unclear.
 
 ## Connections
 - [[SiriQizhulou|Siri]] — source speaker who describes baking, reading, and travel as life supports.
@@ -25,3 +28,4 @@ The concept is close to [[MicroHappiness]] and [[ArtisanalAttention]], but its e
 - [[MicroHappiness]] and [[ArtisanalAttention]] — adjacent post-growth happiness practices.
 - [[ActionAgainstAnxiety]] and [[LifeAntifragility]] — broader action and survivability frames.
 - [[YouthHappinessAfterGrowth]] and [[MacroNarrativeAnxiety]] — background conditions that make anchors more valuable.
+- [[YoumamaMaomao|尤妈妈 / 猫猫]], [[RuleBoundOverthinking]], [[LowDesireDefensiveContraction]], and [[MicroHappiness]] - episode 132's overthinking and low-desire extension.

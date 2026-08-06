@@ -2,8 +2,8 @@
 title: "AI Consumer Decision Shaping"
 type: concept
 tags: [ai, commerce, consumer-behavior, recommendations]
-sources: [tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128]
+last_updated: 2026-08-06
 ---
 
 # AI Consumer Decision Shaping
@@ -14,15 +14,19 @@ The source connects recommendation to speed. If AI suggests the item and [[Ultra
 
 [[tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128]] adds the price side of the same loop through [[SurveillancePricing]]. If a retailer can observe login state, cart behavior, membership, location, device, or other customer signals, then the platform can shape buying not only by recommending items or delivering quickly, but also by changing what price the user sees or what discount they receive.
 
+[[132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo]] adds a non-purchase extension through [[AlgorithmicDesirePreemption]]. The episode suggests that algorithmic systems can shape desire even when they do not close a sale: a feed may show enough travel, fitness, promotion, or lifestyle content that the person feels the desire has already been consumed, is unaffordable, or belongs to someone else's template.
+
 ## Key Claims
 - AI recommendations can shape demand before the consumer has fully articulated a need.
 - Ultra-fast delivery can make ordinary wants feel more urgent by lowering the waiting cost.
 - The same AI system can optimize the supply side and the demand side of commerce.
 - Consumer agency depends on whether users can tell the difference between convenience, recommendation, and manufactured urgency.
 - Price personalization adds another agency problem because shoppers may not know whether a price reflects demand, market variation, membership discounts, or customer-specific data.
+- Episode 132 adds that AI and algorithms can shape the absence of purchase by exhausting or preempting desire before the consumer acts.
 
 ## Connections
 - [[Amazon]] - source case.
 - [[UltraFastDeliveryEconomics]], [[InstantRetail]], and [[EcommerceFulfillmentComplexity]] - fulfillment and speed context.
 - [[AgenticCommerce]], [[AISearchAdvertising]], and [[AICommercializationPressure]] - adjacent AI commerce and monetization concepts.
 - [[SurveillancePricing]], [[Walmart]], [[KristinSchwab]], and [[GarrettJohnson]] - price-opacity branch added by the January 2026 Marketplace Tech episode.
+- [[AlgorithmicDesirePreemption]], [[Xiaohongshu]], [[AttentionIndustrialization]], and [[LowDesireDefensiveContraction]] - episode 132's desire-fatigue and feed-comparison branch.

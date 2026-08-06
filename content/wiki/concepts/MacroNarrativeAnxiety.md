@@ -2,8 +2,8 @@
 title: "Macro Narrative Anxiety"
 type: concept
 tags: [anxiety, economy, attention, life-design, agency]
-sources: [sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
-last_updated: 2026-07-15
+sources: [132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
+last_updated: 2026-08-06
 ---
 
 # Macro Narrative Anxiety
@@ -16,6 +16,8 @@ The episode's answer is not forced optimism. It recommends returning to specific
 
 [[vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]] adds a choice-boundary version through [[SiriQizhulou|Siri]]. Macro topics can be noticed without being continuously processed if they do not require a present decision or allow a near-term response. This does not erase anxiety, but it explains why a young person may shift attention toward industry decisions, nearby relationships, or [[ControllableLifeAnchors]] instead of debating every distant narrative.
 
+[[132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo]] adds a low-desire version. The speakers link defensive low desire to high housing costs, risk aversion, weaker visible change in cities such as Beijing, and the broken belief that delayed gratification reliably pays off. The source's answer is not macro optimism, but preserving health, strength, and self-knowledge until desire and action can become specific again.
+
 ## Key Claims
 - Big social and economic narratives can be true while still becoming psychologically unusable at the scale of one day.
 - Personal life should not be treated as a direct average of the macro environment.
@@ -23,6 +25,7 @@ The episode's answer is not forced optimism. It recommends returning to specific
 - The goal is not denial of difficulty, but preserving an action range inside difficult conditions.
 - Vol.102 adds that lost confidence is slow to rebuild and may require social support, small happiness, and strategic pauses as well as action.
 - Vol.107 adds that macro anxiety may be filtered through [[ChoiceTriggeredAttentionBoundary]]: if no current choice is possible, attention may move elsewhere.
+- Episode 132 adds that low desire can be a response to macro narratives losing credibility, especially when postponed reward feels less guaranteed.
 
 ## Connections
 - [[ActionAgainstAnxiety]] - practical response to macro-scale fear.
@@ -32,3 +35,4 @@ The episode's answer is not forced optimism. It recommends returning to specific
 - [[PersonalKnowledgeEcology]] - long-term attention environment that can resist panic narratives.
 - [[JapaneseLostDecades]], [[YouthHappinessAfterGrowth]], [[MicroHappiness]], [[SocialTrustAndHappiness]], and [[HikikomoriStrategicRetreat]] - vol.102's cross-national low-confidence extension.
 - [[ChoiceTriggeredAttentionBoundary]], [[ControllableLifeAnchors]], and [[SiriQizhulou|Siri]] - vol.107's choice-filtered attention extension.
+- [[LowDesireDefensiveContraction]], [[SocialTemplateDesire]], and [[YouthHappinessAfterGrowth]] - episode 132's defensive low-desire and social-template extension.

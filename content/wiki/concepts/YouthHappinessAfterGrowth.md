@@ -2,8 +2,8 @@
 title: "Youth Happiness After Growth"
 type: concept
 tags: [youth, happiness, society, life-design]
-sources: [building-things-and-breaking-things-in-china-summer-school-world-tour, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
-last_updated: 2026-07-15
+sources: [132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, building-things-and-breaking-things-in-china-summer-school-world-tour, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
+last_updated: 2026-08-06
 ---
 
 # Youth Happiness After Growth
@@ -14,6 +14,8 @@ The source does not reduce happiness to attitude repair. Its answer combines mat
 
 [[vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]] adds a China-side 95后 account through [[SiriQizhulou|Siri]]. The episode argues that after macro growth and personal-upward narratives lose force, younger people may care more about whether this day or this year feels workable, and may protect happiness through [[ControllableLifeAnchors]], relationship choice, and attention boundaries rather than through one grand life plan.
 
+[[132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo]] adds a low-desire and overthinking version through [[YoumamaMaomao|尤妈妈 / 猫猫]]. The episode treats "明天见" and daily continuity as a short-horizon happiness image: when ambition, work usefulness, and social templates become unstable, happiness may come from health, repeated routines, trusted relations, and enough energy for desire to return later.
+
 [[building-things-and-breaking-things-in-china-summer-school-world-tour]] adds a harder labor-market case through [[Aze]] and [[NancyQian]]. It turns post-growth happiness from a life-design question into [[ChinaYouthUnemployment]]: when white-collar jobs shrink, family expectations remain high, and 996-style work feels intolerable, young people may pause, hide, or redirect attention toward hobbies and daily survivability.
 
 ## Key Claims
@@ -23,6 +25,7 @@ The source does not reduce happiness to attitude repair. Its answer combines mat
 - Work or company belonging can be replaced partly by interest communities, concerts, games, hobbies, and other voluntary groups.
 - A life after growth may require both inward order and renewed connection, not only self-optimization.
 - Vol.107 adds that present happiness is linked to [[ChoiceTriggeredAttentionBoundary]]: young people may not ignore the future, but they triage attention toward choices that can actually be made.
+- Episode 132 adds that low desire may be a stage of preserving strength and health when social templates and usefulness narratives become unconvincing.
 
 ## Connections
 - [[Japan]], [[China]], and [[JapaneseLostDecades]] - comparative frame.
@@ -30,4 +33,5 @@ The source does not reduce happiness to attitude repair. Its answer combines mat
 - [[HikikomoriStrategicRetreat]], [[CareerShoreMyth]], and [[GraduationAnxiety]] - pressure and pause branch.
 - [[EmpathyBoundaries]], [[AlgorithmicLabeling]], and [[AttentionIndustrialization]] - relationship and information-environment branch.
 - [[ChoiceTriggeredAttentionBoundary]], [[ControllableLifeAnchors]], and [[RelationshipOptionality]] - vol.107's youth-choice and daily-anchor extension.
+- [[LowDesireDefensiveContraction]], [[SocialTemplateDesire]], [[RuleBoundOverthinking]], and [[HumanAgencyUnderAI]] - episode 132's low-desire, template, and usefulness-anxiety extension.
 - [[Aze]], [[NancyQian]], and [[ChinaYouthUnemployment]] - Planet Money China case that turns the post-growth frame into a labor-market and expectations problem.

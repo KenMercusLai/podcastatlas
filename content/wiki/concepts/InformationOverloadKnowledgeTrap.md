@@ -2,7 +2,7 @@
 title: "Information Overload Knowledge Trap"
 type: concept
 tags: [knowledge, information, ai, cognition]
-sources: [vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
+sources: [132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
 last_updated: 2026-08-06
 ---
 
@@ -14,6 +14,8 @@ The trap is that truth at the statement level does not equal understanding. A pe
 
 [[vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]] adds the emotional-consumption version. [[FuYu|傅宇]] and [[Dalaoshi|大老师]] argue that people may have more access to information than before while also seeking resonance,爽感, and同温层, because full complexity is too costly to process continuously.
 
+[[132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo]] adds the desire-suppression version. [[DavidWeng|大卫翁]] and [[YoumamaMaomao|尤妈妈 / 猫猫]] argue that seeing too much of other people's promotions, trips, engagement, consumption, and lifestyles can make desire feel pre-consumed or unreachable, turning overload into [[AlgorithmicDesirePreemption]] and [[LowDesireDefensiveContraction]] rather than only confusion.
+
 [[vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]] adds the investing-action version. Under tariff shock and capital-market volatility, [[DavidWeng|大卫翁]] uses [[HowardMarks|Howard Marks]] to separate information from knowledge and knowledge from action: ordinary investors can read, listen, and update context without treating every new fact or confident analysis as a trade command.
 
 ## Key Claims
@@ -22,6 +24,7 @@ The trap is that truth at the statement level does not equal understanding. A pe
 - A system that maximizes true statements may still fail the user.
 - AI-era abundance increases the value of knowing what to ask and why an answer matters.
 - Vol.102 adds that overload can lead people to choose the emotionally bearable slice of reality, not only the most useful or accurate one.
+- Episode 132 adds that overload can suppress desire when feeds make possible lives feel already consumed, socially out of reach, or too costly to attempt.
 - Vol.124 adds that information overload becomes financially dangerous when it collapses observation, forecast, and portfolio action into one anxious reflex.
 
 ## Connections
@@ -30,4 +33,5 @@ The trap is that truth at the statement level does not equal understanding. A pe
 - [[PersonalKnowledgeEcology]] - adjacent practice of turning abundant material into usable personal context.
 - [[KnowledgeMonopoly]] - contrast case where knowledge is scarce because access is restricted rather than excessive.
 - [[AlgorithmicLabeling]], [[AttentionIndustrialization]], [[FeedCuration]], and [[EmpathyBoundaries]] - vol.102's information, label, and relationship branch.
+- [[AlgorithmicDesirePreemption]], [[SocialTemplateDesire]], and [[LowDesireDefensiveContraction]] - episode 132's desire-suppression extension.
 - [[HowardMarks]], [[MacroEventTrendDistinction]], [[InvestmentCooldownDiscipline]], and [[SleepWellPortfolioTest]] - vol.124's investment-action discipline.

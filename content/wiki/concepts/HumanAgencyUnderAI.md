@@ -2,8 +2,8 @@
 title: "Human Agency Under AI"
 type: concept
 tags: [ai, agency, life-design, work]
-sources: [174-du-dikaer-shi-jian-dashi-966856702, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-07-15
+sources: [132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 174-du-dikaer-shi-jian-dashi-966856702, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
+last_updated: 2026-08-06
 ---
 
 # Human Agency Under AI
@@ -11,6 +11,8 @@ last_updated: 2026-07-15
 Human agency under AI is the E163 [[Mianji]] claim that stronger AI execution pushes people back toward questions of intention, taste, values, and choice. In [[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]], the host starts with AI FoMO and a blank chat window, but the conversation with [[PingGe]] turns that anxiety into a more basic problem: what do I want to create, why does it matter, and what kind of person is giving the agent instructions?
 
 The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result is right for the situation; agency asks what deserves to be delegated in the first place. The episode argues that as "how" becomes easier through [[VibeCoding]], [[AISkills]], and [[AgenticWorkflow]], the scarce layer moves toward why, what, what if, taste, and trust delivery.
+
+[[132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo]] adds the usefulness-anxiety version. [[DavidWeng|大卫翁]] and [[YoumamaMaomao|尤妈妈 / 猫猫]] ask what happens when AI threatens writing, design, and emotional work, then press the deeper question of why humans must prove usefulness at all. The source's minimal answer is not productivity triumph, but preserving health, avoiding harm, and finding concrete desires that still belong to the person.
 
 [[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]] adds the reading and cognition version. The source distinguishes "I can do X" from "I should do X": AI can summarize, reshape, or accelerate books and notes, but agency means deciding when the process of reading, thinking, and meeting people is itself the point. [[XFFXFramework]] makes that agency concrete by asking which frame the person wants to train, not only which output they can obtain.
 
@@ -45,6 +47,7 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 - If AI absorbs more brain work, agency depends on preserving heart power, embodied rhythm, feed choice, and value direction rather than passively relaying model output.
 - Student agency means learning to take responsibility for understanding while still receiving enough teacher, product, and AI support to avoid repeated failure.
 - AI-era agency also depends on distinguishing calculation from an owned act of thinking.
+- Episode 132 adds that agency may start below usefulness: a person can preserve value by not causing harm, protecting health, and clarifying real desires before optimizing output.
 
 ## Connections
 
@@ -61,3 +64,4 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 - [[WeiQing]], [[WantCanShouldMayFramework]], [[HumanMachineAmplification]], and [[AILiteracyAgainstWorship]] — E42's humanistic engineering and public-literacy branch.
 - [[LiJigang]], [[WetStateHumanAgency]], [[FeedCuration]], and [[WaterFireEducation]] — E45's AI-era self-disposition and education branch.
 - [[YangLingfeng]], [[SelfDirectedLearning]], [[LearningExperienceDesign]], and [[AIShortcutRisk]] — K12 learning-agency branch.
+- [[LowDesireDefensiveContraction]], [[SocialTemplateDesire]], [[ControllableLifeAnchors]], and [[RuleBoundOverthinking]] - episode 132's usefulness-anxiety and life-design extension.

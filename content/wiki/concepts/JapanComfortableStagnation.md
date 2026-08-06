@@ -2,7 +2,7 @@
 title: "Japan Comfortable Stagnation / 日本舒适停滞"
 type: concept
 tags: [japan, society, economy, aging, innovation]
-sources: [131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw]
+sources: [132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw]
 last_updated: 2026-08-06
 ---
 
@@ -16,14 +16,18 @@ The episode uses [[IsaacAsimov|Isaac Asimov]]'s Solaria analogy as an image rath
 
 [[131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz]] adds the owner-facing housing version of the same tension. A buyer can experience mature services, careful disclosure, reliable construction details, property management, and low mortgage rates, while also facing high maintenance costs, rigid process, standardized design, and a market where core locations are again becoming investment-shaped.
 
+[[132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo]] adds the workplace and attention version. Japan's rule-rich work, slower phone rhythms, preserved routines, and process-heavy services can support a calmer life than Chinese always-on work, but the same order can become [[RuleBoundOverthinking]], indirect conflict, edge-case bureaucracy, and low appetite for frontier change.
+
 ## Key Claims
 - Individual life quality and national growth capacity can diverge.
 - Earlier industrial success can fund a good present while reducing urgency for risky renewal.
 - Comfort, order, and service quality can hide weak future-facing ambition.
 - Population decline, labor shortage, immigration reluctance, and innovation retreat reinforce one another.
+- Episode 132 adds that the same order can protect daily boundaries while also producing procedural brittleness and low desire.
 
 ## Connections
 - [[Japan]], [[JapaneseHealthcareSystem]], [[AgingInPlaceSupportSystem]], and [[ElderCareStateCapacity]] - daily-life, aging, and service-state context.
 - [[JapaneseLaborShortageImmigrationTension]], [[JapaneseInnovationRetreat]], and [[JapaneseGalapagosization]] - constraints behind the stagnation frame.
 - [[JapaneseEquityRepricing]], [[JapanGeopoliticalSupplyChainDividend]], and [[JapaneseOvertourismTradeoff]] - real current benefits that do not automatically solve long-term growth.
 - [[YouthHappinessAfterGrowth]] and [[JapaneseLostDecades]] - earlier Japan low-growth and life-design branch.
+- [[RuleBoundOverthinking]], [[WorkplacePacing]], [[LowDesireDefensiveContraction]], and [[ControllableLifeAnchors]] - episode 132's workplace, attention, and low-desire extension.

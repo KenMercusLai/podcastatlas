@@ -2,8 +2,8 @@
 title: "Workplace Pacing"
 type: concept
 tags: [career, workplace, productivity]
-sources: [tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]
-last_updated: 2026-07-25
+sources: [132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]
+last_updated: 2026-08-06
 ---
 
 # Workplace Pacing
@@ -11,6 +11,8 @@ last_updated: 2026-07-25
 Workplace pacing is the practice of managing work intensity, recovery time, task visibility, and role risk so that output remains sustainable instead of merely continuous. In [[ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c]], [[YiLaoYongYi]] uses the Chinese workplace term "摸鱼" to explore this boundary: some "摸鱼" is pure avoidance, but some is recovery after intense work, self-improvement during idle windows, or smarter sequencing of visible deliverables.
 
 The concept is deliberately not a universal excuse for doing less work. The episode's finance and banking examples show that pacing depends on role, workload cycle, customer exposure, organizational trust, and whether the employee still delivers the work that matters.
+
+[[132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo]] adds a Japanese boundary version. [[YoumamaMaomao|尤妈妈 / 猫猫]] contrasts Japanese overtime approval and clearer off-work expectations with Chinese internet work where network access can pull work back into the person's life, making pacing a systems question rather than only an employee tactic.
 
 [[92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]] adds a satirical edge through [[BlaisePascal|帕斯卡]] being caught gambling at work by [[MichelFoucault|福柯]]'s monitoring screens. The source links "摸鱼" to distraction, boredom, mortality, and surveillance, so pacing is not only a productivity tactic but also a question of what kinds of thought and rest a monitored workplace permits.
 
@@ -27,6 +29,7 @@ The concept is deliberately not a universal excuse for doing less work. The epis
 - AI tools can expand pacing room by reducing repetitive work, but the user still owns framing, verification, presentation, and final judgment.
 - Surveillance can turn ordinary distraction or recovery into a disciplinary event before its meaning is understood.
 - In late-career AI adoption, pacing can include choosing not to continue with an employer-driven transition when autonomy and retirement readiness make exit possible.
+- Episode 132 adds that pacing improves when the organization must justify overtime, but can still be undermined by hierarchy, indirect communication, and always-on technology.
 
 ## Connections
 - [[WorkplaceHiddenRules]] — pacing depends on implicit norms around visibility, discretion, workload, and status.
@@ -39,3 +42,4 @@ The concept is deliberately not a universal excuse for doing less work. The epis
 - [[HumanJudgmentUnderAI]] — AI can improve preparation and presentation, but people remain responsible for the work's fit to context.
 - [[OfficeSurveillancePrivacy]] and [[BlaisePascal]] — source-92 satire around monitored "摸鱼".
 - [[OlderWorkerAIRetirement]], [[AIUsePacing]], and [[InstitutionalKnowledgeTransfer]] - Marketplace Tech branch on AI rollout pacing, retirement, and knowledge handoff.
+- [[RuleBoundOverthinking]], [[Japan]], [[China]], and [[YoumamaMaomao|尤妈妈 / 猫猫]] - episode 132's overtime-boundary and always-on comparison branch.

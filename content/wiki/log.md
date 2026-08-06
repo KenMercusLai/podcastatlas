@@ -6021,3 +6021,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 132.当过度思考的打工人遇上低欲望的时代
+
+Added source page for a 起朱楼宴宾客 episode with 大卫翁 and 尤妈妈 / 猫猫 on Japanese workplace boundaries, rule-bound overthinking, AI usefulness anxiety, information overload, algorithmic desire preemption, defensive low desire, social-template desire, and concrete daily anchors. Created pages for 尤妈妈 / 猫猫, Rule-Bound Overthinking, Low Desire As Defensive Contraction, Algorithmic Desire Preemption, and Social-Template Desire; updated overview, index, 起朱楼宴宾客, 大卫翁, Japan, China, Xiaohongshu, Perfect Days, Information Overload Knowledge Trap, Rumination Vs Reflection, Youth Happiness After Growth, Micro-Happiness, Macro Narrative Anxiety, Achievement Pressure Mental Health, Attention Industrialization, Controllable Life Anchors, AI Consumer Decision Shaping, Workplace Pacing, Self-Directed Work, Human Agency Under AI, and Japan Comfortable Stagnation. No direct contradiction found; the source qualifies earlier Japan comfort and youth-happiness branches by showing how rules, hierarchy, always-on work, AI replacement anxiety, algorithms, and social templates can turn low desire into defensive contraction rather than pure apathy.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

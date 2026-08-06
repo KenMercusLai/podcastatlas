@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [132.当过度思考的打工人遇上低欲望的时代](sources/132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo.md) — 起朱楼宴宾客 episode on Japanese workplace boundaries, rule-bound overthinking, AI usefulness anxiety, information overload, algorithmic desire preemption, defensive low desire, social-template desire, and concrete daily anchors.
 - [131.我在日本买了一套自住房](sources/131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz.md) — 起朱楼宴宾客 episode using 大卫翁's Japanese new-build condo purchase to map Yokohama location choice, presale protection, area rules, maintenance reserves, mortgage/insurance workflow, disclosure documents, holding costs, negative real estate, and housing as a maintained consumer good.
 - [130. 谁才是生物医药行业发展的核心驱动力？兼谈创新药产业链的角色分工](sources/130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh.md) — 起朱楼宴宾客 episode mapping innovation-drug industry roles across BioTech, BioPharm, MNCs, CXO, academia, hospitals, regulators, payers, and capital, with commercialization capability as the key boundary.
 - [129.货币的本质，以及黄金的真正价值 | 串台十分吸引](sources/129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb.md) — 起朱楼宴宾客 crossover with 十分吸引 on money as flow, endogenous credit creation, payment-clearing networks, currency-anchor transition, gold as a spare monetary anchor, Bitcoin's network-value claim, and currency risk as wealth-measurement risk.
@@ -753,6 +754,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [尤妈妈 / 猫猫](entities/YoumamaMaomao.md) — 起朱楼宴宾客 guest in episode 132, grounding Japanese workplace boundaries, indirect conflict, AI-startup exhaustion, low desire, and concrete life anchors in first-year Japan work experience.
 - [Yokohama / 横滨](entities/Yokohama.md) — Main residential city case in episode 131, chosen for daily-life fit between quieter coastal living and Tokyo-scale convenience.
 - [Mitsubishi Estate / 三菱地所](entities/MitsubishiEstate.md) — Japanese real-estate developer used by episode 131 to explain urban-core redevelopment and long-term district operation.
 - [Mori Building / 森大厦](entities/MoriBuilding.md) — Japanese developer used by episode 131 as a Roppongi Hills-style example of mature city-operation capability.
@@ -5189,6 +5191,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Rule-Bound Overthinking / 规则化过度思考](concepts/RuleBoundOverthinking.md) — Episode 132 frame for rules, manuals, scripts, and hierarchy reducing some uncertainty while creating procedural and context-reading anxiety.
+- [Low Desire As Defensive Contraction / 低欲望防御性收缩](concepts/LowDesireDefensiveContraction.md) — Episode 132 frame for low desire as protective narrowing under high costs, weak confidence, broken effort narratives, and social-media comparison.
+- [Algorithmic Desire Preemption / 算法欲望预支](concepts/AlgorithmicDesirePreemption.md) — Episode 132 concept where algorithmic feeds predict, display, and partially consume desire before action, turning wanting into vicarious completion or fatigue.
+- [Social-Template Desire / 社会模板欲望](concepts/SocialTemplateDesire.md) — Episode 132 concept for desires borrowed from social scripts such as good student, good employee, marriage, promotion, property, goods, or travel.
 - [Japanese New-Build Condo Buying / 日本新建公寓购房](concepts/JapaneseNewCondoBuying.md) — Episode 131 process frame for self-use new condo purchase through location, developer, presale, disclosure, maintenance, mortgage, insurance, tax, and resale considerations.
 - [Japanese Housing Presale Protection / 日本住宅预售保全](concepts/JapaneseHousingPresaleProtection.md) — Episode 131 contrast between Japanese staged handover-funded presale and household-financed unfinished-apartment risk.
 - [Japanese Railway Real-Estate Development / 日本铁路系房地产开发](concepts/JapaneseRailwayRealEstateDevelopment.md) — Episode 131 model where private railway operators combine commuting routes, station commerce, residential development, and daily services.

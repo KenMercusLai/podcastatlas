@@ -2,8 +2,8 @@
 title: "Self-Directed Work"
 type: concept
 tags: [work, founder, motivation]
-sources: [tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd]
-last_updated: 2026-07-12
+sources: [132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd]
+last_updated: 2026-08-06
 ---
 
 # Self-Directed Work
@@ -16,6 +16,8 @@ The concept is not treated as simple romantic freedom. XiaoSun also says that if
 
 [[ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd]] adds a mobility precondition through [[MobileWork]]. Work that can be done from an RV still depends on route choice, network signal, power, heat, seating, and the discipline to reset the vehicle after each stop, so autonomy is constrained by physical logistics rather than only by employer permission.
 
+[[132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo]] adds a Japanese "individual business owner" version. The source discusses a teacher who moved away from corporate employment and relational workplace pressure into individual registration, freelance-like work, and short-term jobs; autonomy reduces some [[RuleBoundOverthinking]], but it also shifts risk into self-management, income uncertainty, and finding enough personally fitting work.
+
 [[tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio]] adds a technical-skill version through [[ChristinaCacioppo]]. She wanted to start a software company but felt blocked because she could not build software, so she left [[UnionSquareVentures]], lived cheaply, treated learning to code as a daily job, and used that structured self-directed period before joining [[Dropbox]] and later founding [[Vanta]].
 
 ## Key Claims
@@ -26,6 +28,7 @@ The concept is not treated as simple romantic freedom. XiaoSun also says that if
 - The pattern is strongest when paired with [[FounderProductFit]] and weakest when it ignores [[CustomerPull]] or [[FounderCashFlowConstraint]].
 - Writing, creator work, and nonfiction can be self-directed even when they remain economically fragile and dependent on family or platform conditions.
 - Mobile work expands self-direction only when the worker can satisfy the physical setup needs behind the autonomy story.
+- Episode 132 adds that self-directed work can be a psychological boundary against workplace relationship pressure, but not an escape from economic and logistical constraint.
 - Self-directed learning becomes more credible when it has external structure: a schedule, workspace, projects, budget, and a clear missing capability tied to future work.
 
 ## Connections
@@ -38,4 +41,5 @@ The concept is not treated as simple romantic freedom. XiaoSun also says that if
 - [[XiaoMan]] and [[DaChangXiaomin]] — nonfiction writing case added by the Mianji source.
 - [[CareerShoreMyth]] and [[FamilyLaborBoundaries]] — constraints that remain after leaving the large-company system.
 - [[MobileWork]] and [[RVTravelLogistics]] — vehicle-bound autonomy case added by EP122.
+- [[RuleBoundOverthinking]], [[WorkplacePacing]], and [[YoumamaMaomao|尤妈妈 / 猫猫]] - episode 132's individual-business-owner and short-job extension.
 - [[ChristinaCacioppo]], [[UnionSquareVentures]], [[Dropbox]], and [[Vanta]] — founder skill-acquisition case added by The Social Radars.

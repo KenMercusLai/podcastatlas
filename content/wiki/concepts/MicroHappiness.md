@@ -2,8 +2,8 @@
 title: "Micro-Happiness"
 type: concept
 tags: [happiness, youth, life-design, attention]
-sources: [vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
-last_updated: 2026-07-15
+sources: [132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
+last_updated: 2026-08-06
 ---
 
 # Micro-Happiness
@@ -14,12 +14,15 @@ The episode's point is not that small pleasures solve structural problems. It ar
 
 [[vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]] adds a more controllable-practice version through [[SiriQizhulou|Siri]]. Baking, sleep-adjacent deep reading, travel with family or friends, and exercise become small happiness only because they are repeatable anchors with visible feedback, not because they deny work or macro pressure.
 
+[[132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo]] adds a short-horizon continuity version. The episode's "明天见" / また明天 image, plus gardening, running, cooking, language study, and thinking about the next meal, shows micro-happiness as a way to keep life tangible when [[LowDesireDefensiveContraction]] and overthinking narrow the future.
+
 ## Key Claims
 - Micro-happiness is not new; its importance increases when long-term confidence weakens.
 - Small pleasures can be anchors without becoming denial of macro difficulty.
 - Recording or sharing daily happiness can be a way to protect attention, not only consumption display.
 - Micro-happiness becomes stronger when paired with [[SocialTrustAndHappiness]] and [[ArtisanalAttention]] rather than isolated dopamine hits.
 - Vol.107 adds that small happiness can become a [[ControllableLifeAnchors|controllable life anchor]] when it restores calm after work and short-form feeds.
+- Episode 132 adds that small happiness can be an anti-rumination practice: it reconnects attention to bodily rhythm, relationships, and tomorrow rather than to social templates.
 
 ## Connections
 - [[YouthHappinessAfterGrowth]] - broader synthesis.
@@ -27,3 +30,4 @@ The episode's point is not that small pleasures solve structural problems. It ar
 - [[SocialTrustAndHappiness]] - friends, partners, and low-pressure companions make many small moments possible.
 - [[ArtisanalAttention]], [[PerfectDays|《完美的日子》]], and [[PresentMomentAgainstDeath]] - adjacent pages around attention to ordinary life.
 - [[ControllableLifeAnchors]] and [[ChoiceTriggeredAttentionBoundary]] - vol.107's controllability and attention-triage extension.
+- [[LowDesireDefensiveContraction]], [[RuleBoundOverthinking]], and [[PerfectDays|《完美的日子》]] - episode 132's low-desire, overthinking, and routine extension.
