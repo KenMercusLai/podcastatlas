@@ -2,7 +2,7 @@
 title: "Public Mutual Fund Ecosystem / 公募基金生态"
 type: concept
 tags: [investing, funds, china, incentives]
-sources: [136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v]
+sources: [145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v]
 last_updated: 2026-08-06
 ---
 
@@ -14,6 +14,8 @@ The source contrasts China's public-fund industry with the U.S. mutual-fund syst
 
 The China-specific diagnosis is a three-part paradox. [[FundDistributionIncentives|Sales-channel incentives]] can make new issuance and share-class choice serve distributors before investors. [[FundRedemptionLiquidityPressure|Redemption pressure]] can force managers to hold cash or sell assets when investors redeem at breakeven or small profit. The [[FundInvestorReturnGap|fund-investor return gap]] then appears when some funds make money over time while actual holders churn, panic, or sell before the return path completes.
 
+[[145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi]] adds the [[FundInvestmentAdvisory|fund advisory]] version. The episode argues that advisory can respond to the ecosystem's holder-return problem only if it changes client understanding, behavior support, fee visibility, and conflict disclosure. If advisory remains a product shelf or bull-market distribution channel, it repeats the same incentive problem through a new wrapper.
+
 [[136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt]] adds the bank wealth-management comparison. [[ChineseBankWealthManagement|Bank wealth products]] are regulated and built differently from public mutual funds, but the same ecosystem question applies: product buyability depends on channels, incentives, fees, disclosure, investor expectations, and whether the product's return path can actually be held.
 
 ## Key Claims
@@ -23,6 +25,7 @@ The China-specific diagnosis is a three-part paradox. [[FundDistributionIncentiv
 - A sales-driven ecosystem can create many funds without creating many holdable products.
 - Indexation and ETF growth can lower costs and simplify allocation, but they do not by themselves repair distribution conflicts or holder behavior.
 - The source's "can public funds still be bought" answer is conditional: buyability depends on whether a specific fund company or product avoids the ecosystem's sales, investment, and performance paradoxes.
+- Episode 145 adds that fund advisory is an ecosystem repair only when it provides [[BuySideInvestmentAdvisory|buy-side advice]], [[InvestmentBehaviorCoaching]], [[FundAdvisoryFeeTransparency]], and [[FundRecommendationConflictDisclosure]] rather than another fund-distribution surface.
 - Episode 136 adds that the same conditional logic applies outside public funds: bank wealth products can be buyable, but only when product mechanics and [[BankWealthProductSuitability]] line up with the investor's job for the money.
 
 ## Connections
@@ -31,4 +34,5 @@ The China-specific diagnosis is a three-part paradox. [[FundDistributionIncentiv
 - [[InvestmentCompanyInstitute|ICI]], [[MassachusettsInvestorsTrust]], [[401KPlan|401(k) plan]], and [[CharlesSchwab]] - U.S. comparison anchors.
 - [[FinancialPlatformIncentives]], [[CostMattersHypothesis]], and [[InvestorSuitabilityFriction]] - adjacent incentive and user-protection concepts.
 - [[PortfolioSuitability]], [[InvestmentRiskManagement]], [[PassiveInvesting]], and [[PersonalPensionAccount|个人养老金账户]] - investor-side implementation context.
+- [[FundInvestmentAdvisory]], [[BuySideInvestmentAdvisory]], [[InvestmentBehaviorCoaching]], and [[FundRecommendationConflictDisclosure]] - episode 145 advisory-extension branch.
 - [[ChineseBankWealthManagement]], [[BankWealthManagementSubsidiary]], and [[BankWealthProductSuitability]] - bank wealth-management comparison added by episode 136.

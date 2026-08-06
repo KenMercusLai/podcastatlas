@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [145.基金投顾值得信任吗？](sources/145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi.md) — 起朱楼宴宾客 episode on Chinese fund advisory, buy-side trust, behavior coaching, goal-based client profiling, advisory fees, disclosure conflicts, and U.S. fiduciary/retirement-advice comparisons.
 - [144.女侠段四合和她的家乡马坪关：“我们曾以为有电有路只是梦”](sources/144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt.md) — 起朱楼宴宾客 field conversation with 段四合 on 马坪关's electricity, roads, matsutake commons, village self-governance, women's organizing, parent-child reading, and slow rural tourism.
 - [不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波](sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu.md) — 不熄灯 episode linking Japan/Thailand political bargaining, crypto leverage-liquidity collapse, U.S. shutdown data risk, First Brands private-credit opacity, RWA tokenization, and 娃哈哈 succession governance.
 - [143.如何判断一段行情是回调还是结束？| 三季度投资账复盘](sources/143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz.md) — 起朱楼宴宾客 Q3 投资账 review on pullback-versus-trend-end discipline, China valuation repair, AI bubble financing structure, private-credit escalation risk, and asset-allocation behavior in a bull market.
@@ -766,6 +767,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [ETF拯救世界 / ETF Zhengjiu Shijie](entities/ETFZhengjiuShijie.md) — Source-scoped investment creator reference used by episode 145 to discuss advisory-like communication, investor accompaniment, trust, and fund-recommendation conflict disclosure.
 - [段四合 / Duan Sihe](entities/DuanSihe.md) — 马坪关 homestay host and village public participant whose story anchors episode 144's rural-development branch.
 - [马坪关 / Mapingguan](entities/Mapingguan.md) — Yunnan mountain village used by episode 144 to connect infrastructure, matsutake commons, women's organizing, education, and cautious tourism.
 - [黄云武 / Huang Yunwu](entities/HuangYunwu.md) — Architect and facilitator credited in episode 144 with long-term village-facing work around 马坪关 and 沙溪.
@@ -5269,6 +5271,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Fund Investment Advisory / 基金投顾](concepts/FundInvestmentAdvisory.md) — Episode 145 frame for fund-portfolio advice, rebalancing, post-purchase accompaniment, behavior support, fee clarity, and trust.
+- [Buy-Side Investment Advisory / 买方投资顾问](concepts/BuySideInvestmentAdvisory.md) — Advisory principle that puts client goals, constraints, and long-term outcomes ahead of product-issuer or distributor incentives.
+- [Investment Adviser Fiduciary Duty / 投资顾问信义义务](concepts/InvestmentAdviserFiduciaryDuty.md) — U.S. advisory-duty comparison used by episode 145 to explain why law, disclosure, and oversight matter for client trust.
+- [Investment Behavior Coaching / 投资行为陪伴](concepts/InvestmentBehaviorCoaching.md) — Advisory value of helping clients avoid chasing rallies, panic selling, excessive switching, and drawdown-driven plan abandonment.
+- [Goal-Based Client Profiling / 目标导向客户画像](concepts/GoalBasedClientProfiling.md) — Client-understanding method that starts from retirement, education, liquidity, housing, or family goals rather than simple risk labels.
+- [Fund Advisory Fee Transparency / 基金投顾费率透明](concepts/FundAdvisoryFeeTransparency.md) — Fee-trust problem where visible advisory charges must be matched by visible service, conflict disclosure, and client-side value.
+- [Fund Recommendation Conflict Disclosure / 基金推荐利益冲突披露](concepts/FundRecommendationConflictDisclosure.md) — Disclosure problem when fund creators, platforms, or advisors may receive money from product companies while recommending funds to clients.
+- [Robo-Advisor Hybrid Service / 人机结合投顾](concepts/RoboAdvisorHybridService.md) — Episode 145 comparison model combining automated portfolio allocation with human consultation and tiered wealth-planning service.
 - [Village Self-Governance / 村庄自主治理](concepts/VillageSelfGovernance.md) — Episode 144 frame for village meetings, local rules, collective decisions, and facilitator-supported deliberation in 马坪关.
 - [Matsutake Commons Management / 松茸山公共资源治理](concepts/MatsutakeCommonsManagement.md) — Resource-governance frame for 马坪关's matsutake mountain access, harvesting rules, contracts, distribution, and reserve funds.
 - [Rural Infrastructure Transition / 乡村基础设施转折](concepts/RuralInfrastructureTransition.md) — Before-and-after frame for electricity, roads, toilets, bridges, and daily rhythm in rural modernization.

@@ -6121,3 +6121,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 145.基金投顾值得信任吗？
+
+Added source page for a 起朱楼宴宾客 episode by 大卫翁 on whether Chinese fund investment advisory deserves trust after six years of pilot development. Created pages for Fund Investment Advisory, Buy-Side Investment Advisory, Investment Adviser Fiduciary Duty, Investment Behavior Coaching, Goal-Based Client Profiling, Fund Advisory Fee Transparency, Fund Recommendation Conflict Disclosure, Robo-Advisor Hybrid Service, and ETF拯救世界; updated overview, index, 起朱楼宴宾客, 大卫翁, Public Mutual Fund Ecosystem, Fund Distribution Incentives, Fund-Investor Return Gap, Portfolio Suitability, FOF Product Design, Drawdown Psychology, Financial Platform Incentives, Investor Suitability Friction, Investor Education, Trust As Business Asset, 401(k) Plan, Vanguard, Fidelity, Wealthfront, Charles Schwab, SEC, China Securities Regulatory Commission, 有知有行, and Meng Yan. No direct contradiction found; the source extends the public-fund ecosystem branch by arguing that fund advisory only repairs investor outcomes when it delivers buy-side client understanding, behavior coaching, transparent fees, and conflict disclosure rather than another product shelf.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

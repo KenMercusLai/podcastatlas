@@ -395,6 +395,10 @@
     "title": "145.嫉妒与鄙视：我该如何躲避这双向的毒箭？",
     "url": "/wiki/sources/145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647/"
   },
+  "145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi": {
+    "title": "145.基金投顾值得信任吗？",
+    "url": "/wiki/sources/145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi/"
+  },
   "145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou": {
     "title": "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？",
     "url": "/wiki/sources/145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou/"
@@ -5075,6 +5079,10 @@
     "title": "不熄灯 / Buxideng",
     "url": "/wiki/entities/buxideng/"
   },
+  "BuySideInvestmentAdvisory": {
+    "title": "Buy-Side Investment Advisory / 买方投资顾问",
+    "url": "/wiki/concepts/buysideinvestmentadvisory/"
+  },
   "BuzzFeed": {
     "title": "BuzzFeed",
     "url": "/wiki/entities/buzzfeed/"
@@ -9347,6 +9355,10 @@
     "title": "ESPN",
     "url": "/wiki/entities/espn/"
   },
+  "ETFZhengjiuShijie": {
+    "title": "ETF拯救世界 / ETF Zhengjiu Shijie",
+    "url": "/wiki/entities/etfzhengjiushijie/"
+  },
   "ETNCreditRisk": {
     "title": "ETN Credit Risk",
     "url": "/wiki/concepts/etncreditrisk/"
@@ -11795,9 +11807,17 @@
     "title": "Functional Extinction",
     "url": "/wiki/concepts/functionalextinction/"
   },
+  "FundAdvisoryFeeTransparency": {
+    "title": "Fund Advisory Fee Transparency / 基金投顾费率透明",
+    "url": "/wiki/concepts/fundadvisoryfeetransparency/"
+  },
   "FundDistributionIncentives": {
     "title": "Fund Distribution Incentives / 基金销售激励",
     "url": "/wiki/concepts/funddistributionincentives/"
+  },
+  "FundInvestmentAdvisory": {
+    "title": "Fund Investment Advisory / 基金投顾",
+    "url": "/wiki/concepts/fundinvestmentadvisory/"
   },
   "FundInvestorReturnGap": {
     "title": "Fund-Investor Return Gap / 基金赚钱基民不赚钱",
@@ -11806,6 +11826,10 @@
   "FundLiabilityMatching": {
     "title": "Fund Liability Matching",
     "url": "/wiki/concepts/fundliabilitymatching/"
+  },
+  "FundRecommendationConflictDisclosure": {
+    "title": "Fund Recommendation Conflict Disclosure / 基金推荐利益冲突披露",
+    "url": "/wiki/concepts/fundrecommendationconflictdisclosure/"
   },
   "FundRedemptionLiquidityPressure": {
     "title": "Fund Redemption Liquidity Pressure / 基金赎回流动性压力",
@@ -12450,6 +12474,10 @@
   "GoPro": {
     "title": "GoPro",
     "url": "/wiki/entities/gopro/"
+  },
+  "GoalBasedClientProfiling": {
+    "title": "Goal-Based Client Profiling / 目标导向客户画像",
+    "url": "/wiki/concepts/goalbasedclientprofiling/"
   },
   "Gob": {
     "title": "Gob",
@@ -14898,6 +14926,14 @@
   "InventoryWriteDownRisk": {
     "title": "Inventory Write-Down Risk",
     "url": "/wiki/concepts/inventorywritedownrisk/"
+  },
+  "InvestmentAdviserFiduciaryDuty": {
+    "title": "Investment Adviser Fiduciary Duty / 投资顾问信义义务",
+    "url": "/wiki/concepts/investmentadviserfiduciaryduty/"
+  },
+  "InvestmentBehaviorCoaching": {
+    "title": "Investment Behavior Coaching / 投资行为陪伴",
+    "url": "/wiki/concepts/investmentbehaviorcoaching/"
   },
   "InvestmentCatalyst": {
     "title": "Investment Catalyst",
@@ -24890,6 +24926,10 @@
   "Roblox": {
     "title": "Roblox",
     "url": "/wiki/entities/roblox/"
+  },
+  "RoboAdvisorHybridService": {
+    "title": "Robo-Advisor Hybrid Service / 人机结合投顾",
+    "url": "/wiki/concepts/roboadvisorhybridservice/"
   },
   "Roborock": {
     "title": "Roborock / 石头科技",

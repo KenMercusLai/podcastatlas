@@ -2,8 +2,8 @@
 title: "Meng Yan / 孟岩"
 type: entity
 tags: [person, investing, podcasting, ai]
-sources: [e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
-last_updated: 2026-07-09
+sources: [145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
+last_updated: 2026-08-06
 ---
 
 # Meng Yan / 孟岩
@@ -16,6 +16,8 @@ In E42, Meng Yan moves the same ordinary-person translation role into technology
 
 In E44, Meng Yan becomes the subject as well as the interpreter. In conversation with [[LiXiaobo]], he explains [[YouzhiYouxing]] through [[FinancialPlatformIncentives]], [[InvestorSuitabilityFriction]], [[InvestmentForBetterLife]], founder governance, and the question of [[KnowingEnough]]. The episode also makes his life-practice vocabulary explicit: [[Benfen]], [[AsItIsPractice]], and [[RuminationVsReflection]] become ways to talk about user responsibility, company restraint, and personal calm.
 
+[[145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi]] mentions Meng Yan in the context of Chinese investment creators or platforms whose long-term public communication can provide investor accompaniment. The source uses him and [[YouzhiYouxing]] to show why trust in [[FundInvestmentAdvisory|fund advisory]] may come from repeated explanation and behavior support, not only formal license status.
+
 In E45, Meng Yan returns to the AI-era human question through [[LiJigang]]. His role is again translational: he turns Li's abstract frames around [[AIAsTimeCompression]], [[AICompanyDeepWell]], [[PromptAsIntentTransmission]], [[WetStateHumanAgency]], and [[WaterFireEducation]] into ordinary questions about investing, hiring, body pacing, AI workflows, education, and how a person remains present when models absorb more brain work.
 
 ## Connections
@@ -26,4 +28,5 @@ In E45, Meng Yan returns to the AI-era human question through [[LiJigang]]. His 
 - [[SilentProtagonist]], [[AttentionIndustrialization]], and [[HumanMachineAmplification]] — E42 ideas he draws into company, life, and AI-era practice.
 - [[YouzhiYouxing]], [[FinancialPlatformIncentives]], [[InvestorSuitabilityFriction]], and [[InvestmentForBetterLife]] — E44's company and user-alignment frame.
 - [[Benfen]], [[AsItIsPractice]], [[KnowingEnough]], and [[RuminationVsReflection]] — E44's practice vocabulary.
+- [[FundInvestmentAdvisory]], [[InvestmentBehaviorCoaching]], and [[FundRecommendationConflictDisclosure]] — episode 145's advisory-trust context.
 - [[AIAsTimeCompression]], [[WetStateHumanAgency]], [[PromptAsIntentTransmission]], and [[WaterFireEducation]] — E45's AI-era self-disposition vocabulary.

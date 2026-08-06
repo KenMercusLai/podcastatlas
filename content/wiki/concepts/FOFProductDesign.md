@@ -2,8 +2,8 @@
 title: "FOF Product Design"
 type: concept
 tags: [investing, funds, product-design]
-sources: [e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]
-last_updated: 2026-07-15
+sources: [145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]
+last_updated: 2026-08-06
 ---
 
 # FOF Product Design
@@ -14,6 +14,8 @@ The source's examples include low-volatility products targeting modest returns a
 
 [[vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]] adds the pension-account version through [[JiangHuaan|蒋华安]]. Inside a [[PersonalPensionAccount|个人养老金账户]], the FOF argument is less about beating index funds and more about providing an allocation, rebalancing, risk-matching, and investor-discipline layer above the underlying instruments, which may themselves include low-fee passive funds.
 
+[[145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi]] adds the [[FundInvestmentAdvisory|fund advisory]] boundary around FOF-like work. The episode says a fund combination and transparent rebalancing are useful, but the advisory product is incomplete unless it also understands the client, explains fees, discloses conflicts, and provides [[InvestmentBehaviorCoaching|behavior support]] after purchase.
+
 ## Key Claims
 - A FOF product should be reverse-engineered from return target, drawdown limit, volatility path, and client holding behavior.
 - The product should explain its strategic base clearly, because opaque complexity can damage client trust and holding discipline.
@@ -21,6 +23,7 @@ The source's examples include low-volatility products targeting modest returns a
 - Product design must account for liability-side duration: public-fund clients can redeem under drawdown pressure even if the manager's long-term thesis is reasonable.
 - Low-rate and weak-property environments create demand for products that can replace parts of bank wealth-management, bond-fund, and real-estate allocation behavior.
 - Vol.109 adds that a pension FOF or [[TargetDateFund|target-date fund]] has to keep active judgment inside a retirement objective, glide-path range, and risk discipline rather than becoming unconstrained fund selection.
+- Episode 145 adds that advisory packaging should not stop at the portfolio layer: the "顾" side requires [[GoalBasedClientProfiling]], [[FundAdvisoryFeeTransparency]], and ongoing communication.
 
 ## Connections
 - [[AssetAllocation]] and [[EfficientFrontier]] — portfolio-design tools behind the product.
@@ -29,3 +32,4 @@ The source's examples include low-volatility products targeting modest returns a
 - [[InvestorEducation]] and [[InvestmentRiskManagement]] — client understanding and survival discipline.
 - [[ProductLedWillingnessToPay]] — adjacent product principle: users value products when the use case and outcome are concrete.
 - [[PersonalPensionAccount|个人养老金账户]], [[TargetDateFund|目标日期基金]], and [[JiangHuaan|蒋华安]] — pension-account extension from vol.109.
+- [[FundInvestmentAdvisory]], [[InvestmentBehaviorCoaching]], [[GoalBasedClientProfiling]], and [[FundAdvisoryFeeTransparency]] — episode 145's advisory-service extension.

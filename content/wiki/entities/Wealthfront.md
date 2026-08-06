@@ -2,8 +2,8 @@
 title: "Wealthfront"
 type: entity
 tags: [company, finance, robo-advisor]
-sources: [e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2]
-last_updated: 2026-07-09
+sources: [145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2]
+last_updated: 2026-08-06
 ---
 
 # Wealthfront
@@ -12,8 +12,11 @@ Wealthfront appears in [[e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrv
 
 In this wiki, Wealthfront functions as a comparison node for [[FinancialPlatformIncentives]] rather than as a full company history.
 
+[[145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi]] adds Wealthfront as the U.S. [[RoboAdvisorHybridService|robo-advisor]] comparison. The source says, at its recording point, Wealthfront had become a large automated advisory platform and had filed for IPO, using it to contrast U.S. advisory diversity with China's more homogeneous fund-advisory pilot.
+
 ## Connections
 - [[FinancialPlatformIncentives]] — take-rate comparison frame.
 - [[YouzhiYouxing]] — Chinese wealth-management case compared through user alignment and product friction.
 - [[Robinhood]] — contrast case where trading incentives are discussed as potentially less aligned with users.
+- [[RoboAdvisorHybridService]], [[FundInvestmentAdvisory]], and [[FundAdvisoryFeeTransparency]] — episode 145 robo-advice and fee comparison.
 - [[PassiveInvesting]] and [[InvestmentRiskManagement]] — adjacent ordinary-investor frames.

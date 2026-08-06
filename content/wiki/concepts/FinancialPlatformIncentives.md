@@ -2,7 +2,7 @@
 title: "Financial Platform Incentives"
 type: concept
 tags: [finance, incentives, trust, business-model]
-sources: [136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vanguard-1]
+sources: [145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vanguard-1]
 last_updated: 2026-08-06
 ---
 
@@ -16,6 +16,8 @@ The episode's core claim is that explicit user-first language is not enough. A c
 
 [[vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v]] adds the Chinese public-fund distribution version. [[DavidWeng|大卫翁]] describes trail commissions, C-share sales-service fees, channel-driven new issuance, and bank/platform economics as [[FundDistributionIncentives]] that can pull the ecosystem away from fiduciary-style long-term holder service. The episode uses [[CharlesSchwab]] as a comparison case for a platform that can compete through lower fees, advice, and wealth-management capability rather than only through product shelf control.
 
+[[145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi]] adds the fund-advisory monetization version. The source says platforms can move from hidden sales-service revenue toward visible [[FundAdvisoryFeeTransparency|advisory fees]], but incentive alignment still depends on whether product-company payments, sponsored fund-code displays, and creator-commercial cooperation are disclosed rather than mixed quietly with client-paid advice.
+
 [[136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt]] adds the bank wealth-management shelf version. The source says third-party products distributed through another bank's channel may sometimes need better fees, yield, or resources to enter that shelf, but the incentive reading cuts both ways: product placement, return display, and parent-bank customer ownership still shape what the investor sees.
 
 ## Key Claims
@@ -27,6 +29,7 @@ The episode's core claim is that explicit user-first language is not enough. A c
 - Vanguard adds a structural version of incentive alignment: the management company is owned by funds, so [[ScaleEconomiesShared]] can become fee reduction.
 - Competitors with brokerage, ETF, or platform profit pools can match low headline fees while relying on different incentive structures.
 - Vol.126 adds that trail commissions and C-share service fees can make fund distribution profitable even when the holder's long-term experience is weak.
+- Episode 145 adds that explicit advisory fees are not automatically aligned; they become aligned only when conflicts, product sponsorship, and post-purchase service are visible to the client.
 - Episode 136 adds that bank wealth-management product shelves should be read as incentive systems, not neutral lists of guaranteed-safe products.
 
 ## Connections
@@ -34,6 +37,7 @@ The episode's core claim is that explicit user-first language is not enough. A c
 - [[Robinhood]], [[Wealthfront]], [[Vanguard]], and [[JohnBogle]] — comparison cases.
 - [[Fidelity]], [[BlackRock]], [[FundholderMutualOwnership]], [[CostMattersHypothesis]], and [[ScaleEconomiesShared]] — Acquired Vanguard extension.
 - [[PublicMutualFundEcosystem]], [[FundDistributionIncentives]], [[FundInvestorReturnGap]], and [[CharlesSchwab]] — vol.126 public-fund distribution extension.
+- [[FundInvestmentAdvisory]], [[FundAdvisoryFeeTransparency]], [[FundRecommendationConflictDisclosure]], and [[BuySideInvestmentAdvisory]] — episode 145 advisory monetization and conflict branch.
 - [[ChineseBankWealthManagement]], [[BankWealthManagementSubsidiary]], and [[BankWealthProductSuitability]] — episode 136 bank wealth-management shelf and product-fit extension.
 - [[InvestorSuitabilityFriction]], [[InvestmentForBetterLife]], and [[InvestmentRiskManagement]] — user-side implications.
 - [[FinancialGravity]], [[ShareholderPrimacy]], [[PurposeDrivenBusiness]], and [[TrustAsBusinessAsset]] — governance and pressure context.

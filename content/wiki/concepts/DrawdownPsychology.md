@@ -2,7 +2,7 @@
 title: "Drawdown Psychology"
 type: concept
 tags: [investing, psychology, risk]
-sources: [143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
+sources: [145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
 last_updated: 2026-08-06
 ---
 
@@ -20,6 +20,8 @@ This concept connects market risk to life experience. A portfolio can look accep
 
 [[143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]] adds the bull-market regret version. [[DavidWeng|大卫翁]] says even a profitable quarter can produce discomfort when investors compare themselves with better-performing friends, missed stocks, or imagined perfect exits. That makes [[MarketPullbackVsTrendEnd]] psychological as well as analytical: the investor needs enough rules and allocation structure to avoid turning every ordinary drawdown into a full portfolio referendum.
 
+[[145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi]] adds the advisory-service version. The episode argues that [[InvestmentBehaviorCoaching]] is a central part of [[FundInvestmentAdvisory|fund advisory]] because clients need market explanation, plan reminders, and trusted accompaniment before and during drawdowns, not only a rebalancing notice after the fact.
+
 ## Key Claims
 - Maximum drawdown misses part of the problem because it records the worst point but not the duration of being underwater.
 - Long, slow losses can reduce attention, patience, family tolerance, and the willingness to add at better prices.
@@ -31,6 +33,7 @@ This concept connects market risk to life experience. A portfolio can look accep
 - Vol.109 adds that pension-account products should be judged by whether they help the investor keep contributing and holding through retirement-relevant drawdowns.
 - EP268 adds that account avoidance can be a symptom of path discomfort; gram-counting and long horizons can help only if position size and funding source are already reasonable.
 - Episode 143 adds that regret after gains can be as destabilizing as fear after losses, because comparison pressure pushes investors to overtrade, abandon rebalancing, or seek perfect top-calling.
+- Episode 145 adds that drawdown support is a service capability: an advisor must have enough prior trust and client knowledge to keep volatility from becoming panic redemption.
 
 ## Connections
 - [[InvestmentRiskManagement]] — broader discipline for sizing, exits, hedging, and survival.
@@ -43,3 +46,4 @@ This concept connects market risk to life experience. A portfolio can look accep
 - [[PersonalPensionAccount|个人养老金账户]], [[TargetDateFund|目标日期基金]], [[FOFProductDesign]], and [[PassiveInvesting]] — vol.109's pension-account behavior and product-choice context.
 - [[HouseholdGoldSavings]], [[OnlineGoldAccumulation]], [[GoldMonetaryAnchor]], and [[MaoDong]] — EP268's gold drawdown and accumulation-behavior context.
 - [[MarketPullbackVsTrendEnd]], [[OneToOneToOneAllocation]], and [[InvestmentCooldownDiscipline]] — episode 143's bull-market pullback and behavior-control context.
+- [[FundInvestmentAdvisory]], [[InvestmentBehaviorCoaching]], [[GoalBasedClientProfiling]], and [[TrustAsBusinessAsset]] — episode 145's advisory accompaniment branch.

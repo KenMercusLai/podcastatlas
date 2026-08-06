@@ -2,8 +2,8 @@
 title: "Investor Education"
 type: concept
 tags: [finance, investing, consumer-risk, trust]
-sources: [ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]
-last_updated: 2026-07-08
+sources: [145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]
+last_updated: 2026-08-06
 ---
 
 # Investor Education
@@ -11,6 +11,8 @@ last_updated: 2026-07-08
 Investor education is the work of making financial customers understand product structure, downside risk, liquidity, uncertainty, fees, incentives, and the difference between sales compliance and real comprehension. [[ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]] grounds the concept in a financial-crisis case where a family invested compensation money in a structured product and suffered a large loss despite the transaction having gone through ordinary sales processes. [[ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2]] adds a market-entry version: new investors should learn account opening, exchange permissions, bank-securities transfer, trading-rule limits, leverage thresholds, and the difference between floating and realized profit before acting on bull-market emotion. [[ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj]] adds the company-report version: ordinary investors should understand enough [[FinancialStatementAnalysis]] to distinguish profit from cash, read leverage and asset quality, and notice [[AccountingRedFlags]] before outsourcing judgment to headlines or AI summaries. [[ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn]] adds the AI-era information version: investors need to learn how expectations, social-media narratives, behavioral bias, and decision records shape outcomes before treating any AI answer as a recommendation. [[ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm]] adds the anti-fraud version: users must verify platforms, contracts, fund routes, guarantees, and counterparties before trusting returns, teachers, seminars, or intermediaries. [[ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj]] adds the fraud-history version: education should teach payout source, upfront-fee logic, seller incentives, social engineering, fake venue checks, and AI-era identity verification.
 
 [[e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]] adds the asset-management version: communication is not marketing noise but a way to help holders understand which parts of past performance were repeatable, when the strategy may underperform, and whether their own capital duration fits the product.
+
+[[145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi]] adds the [[FundInvestmentAdvisory|fund advisory]] version. Education in advisory means explaining why a portfolio was matched to the client's goal, what fees are being charged, why rebalancing happened, what conflicts may exist, and how to interpret market declines without turning every drawdown into redemption.
 
 ## Key Claims
 - A signed form or recorded risk disclosure does not prove that a customer truly understands a product.
@@ -34,6 +36,7 @@ Investor education is the work of making financial customers understand product 
 - Contract literacy includes reading guarantees versus projections, collateral authority, service agreements, withdrawal terms, and the legal identity of every counterparty.
 - Platform verification is part of investor education: a good-looking app, seminar room, certificate wall, or chat group does not prove regulated custody or real execution.
 - Identity verification must adapt to [[AIImpersonationFraudRisk]] by using slower independent confirmation rather than trusting a single urgent voice or video-like signal.
+- Fund-advisory education should make [[FundAdvisoryFeeTransparency]], [[FundRecommendationConflictDisclosure]], and [[InvestmentBehaviorCoaching]] legible so clients understand what they are paying for and whose interest the recommendation serves.
 
 ## Connections
 - [[IndependentInvestmentConsulting]] — advisory model that depends on customers paying for understanding and decision support.
@@ -48,3 +51,4 @@ Investor education is the work of making financial customers understand product 
 - [[InvestmentFraudRedFlags]], [[FakeInvestmentPlatformRisk]], [[StockTipGroupRisk]], [[ElderlyCareFinancialFraud]], and [[InsurancePolicyLoanFraud]] — EP64's anti-fraud education additions.
 - [[PonziScheme]], [[AdvanceFeeFraud]], [[SocialEngineeringFraud]], [[PennyStockBoilerRoomFraud]], [[PigButcheringScam]], [[LotteryGamblingPlatformFraud]], and [[AIImpersonationFraudRisk]] — EP28's fraud-history and modern verification additions.
 - [[FundLiabilityMatching]], [[ValueInvesting]], and [[InvestmentRiskManagement]] — E160's public-fund communication and holder-fit additions.
+- [[FundInvestmentAdvisory]], [[BuySideInvestmentAdvisory]], [[FundAdvisoryFeeTransparency]], [[FundRecommendationConflictDisclosure]], and [[InvestmentBehaviorCoaching]] — episode 145's advisory-education branch.

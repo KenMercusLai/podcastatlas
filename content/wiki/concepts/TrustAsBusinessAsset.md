@@ -2,7 +2,7 @@
 title: "Trust As Business Asset"
 type: concept
 tags: [governance, trust, business-model]
-sources: [would-you-trust-an-economist-with-your-economy, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, seven-allegedly-fake-chanel-bags-vs-the-realreal, costco-1, rolex-1, 142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq]
+sources: [145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, would-you-trust-an-economist-with-your-economy, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, seven-allegedly-fake-chanel-bags-vs-the-realreal, costco-1, rolex-1, 142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq]
 last_updated: 2026-08-06
 ---
 
@@ -17,6 +17,8 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 [[yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7]] adds the [[Gumroad]] and [[Patreon]] creator-tool version. [[SahilLavingia]] argues that when software is easier to build, human listening, sales conversations, story, and support quality can become stronger trust signals than another AI-generated app or email.
 
 [[e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2]] adds the wealth-management version through [[YouzhiYouxing]]. Trust is valuable because users cannot easily evaluate fund products, incentives, or long-term behavioral harm, but that same trust can be damaged if the platform monetizes paid exposure, trading urgency, or product complexity against the user's life interests.
+
+[[145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi]] adds the fund-advisory version. In this source, trust is the reason an investor can commit enough capital for enough time, but it is also the asset that advisors, fund platforms, and creators can spend if they charge visible advisory fees while hiding product sponsorship, weak post-purchase service, or shallow client understanding.
 
 [[socialradarspod-brianchesky-final]] adds the peer-to-peer marketplace version through [[Airbnb]]. [[BrianChesky]] says the first hosted stays exposed a trust problem: strangers needed enough confidence to sleep in one another's homes. Profiles, reciprocal reviews, and payment handling therefore became product infrastructure for [[PeerToPeerMarketplaceTrust]], not only safety or compliance features.
 
@@ -52,6 +54,7 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - AI-era solo founders may need trust before scale: users who cannot inspect every generated artifact may rely on public history, relationship context, and personal accountability.
 - In creator tools, trust can come from sales attention, audience understanding, and reliable support escalation, especially when AI makes feature production easier to copy.
 - Financial-platform trust depends on visible refusals as well as visible services: a company may need to decline revenue paths to keep [[InvestmentForBetterLife]] credible.
+- Fund-advisory trust depends on client-side proof: [[GoalBasedClientProfiling]], clear fees, conflict disclosure, market-cycle communication, and real help with holding behavior.
 - Peer-to-peer marketplace trust has to be designed into identity, reputation, and payment flows because the product asks ordinary people to accept social risk.
 - Crisis decisions can spend trust with one stakeholder group to protect another, so repair mechanisms have to be part of the decision rather than an afterthought.
 - Nonprofit trust has to preserve operating room: donors can demand accountability through shared metrics without controlling every spending decision.
@@ -74,6 +77,7 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - [[YuYi]], [[BuildingPublic]], and [[OnePersonCompany]] - personal-brand and public-trust branch added by S10E18.
 - [[SahilLavingia]], [[Gumroad]], [[Patreon]], [[FounderLedSales]], and [[CustomerSupportAutomation]] — creator-tool trust branch added by What's Next S10E14.
 - [[YouzhiYouxing]], [[FinancialPlatformIncentives]], [[InvestorSuitabilityFriction]], [[InvestmentForBetterLife]], and [[KnowingEnough]] - wealth-management trust branch added by E44.
+- [[FundInvestmentAdvisory]], [[BuySideInvestmentAdvisory]], [[FundAdvisoryFeeTransparency]], [[FundRecommendationConflictDisclosure]], and [[InvestmentBehaviorCoaching]] - episode 145 fund-advisory trust branch.
 - [[Airbnb]], [[BrianChesky]], [[PeerToPeerMarketplaceTrust]], and [[RealWorldConnectionProducts]] - marketplace and connection branch added by the Chesky episode.
 - [[CrisisStakeholderLeadership]] and [[StakeholderCapitalism]] - second Chesky episode's COVID trust-tradeoff branch.
 - [[NooraHealth]], [[EdithElliott]], [[TrustBasedPhilanthropy]], and [[NonprofitStartupDiscipline]] - donor-trust branch added by the Elliott episode.

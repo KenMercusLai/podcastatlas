@@ -2,8 +2,8 @@
 title: "SEC"
 type: entity
 tags: [regulator, finance, securities, crypto]
-sources: [tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, socialradarspod-brianarmstrong-final]
-last_updated: 2026-07-23
+sources: [145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, socialradarspod-brianarmstrong-final]
+last_updated: 2026-08-06
 ---
 
 # SEC
@@ -14,8 +14,11 @@ The source frames the dispute as a regulatory-clarity problem rather than a refu
 
 [[tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3]] adds the SEC as one of the government channels [[TylerShultz|Tyler Shultz]] recommends potential whistleblowers consider after speaking with independent counsel. Tyler says SEC whistleblower awards can make contingency-fee legal representation more available, which connects the agency to [[ProtectedWhistleblowerChannels]] rather than only crypto-market regulation.
 
+[[145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi]] adds the SEC to the U.S. investment-advisory comparison. The episode connects SEC and state-level oversight with the 1940 Investment Advisers Act, [[InvestmentAdviserFiduciaryDuty]], and the larger U.S. advisory ecosystem.
+
 ## Connections
 - [[GaryGensler]] - SEC chair discussed in the source.
 - [[Coinbase]] and [[BrianArmstrong]] - company and founder context.
 - [[CryptocurrencyMarketStructure]], [[AntiMoneyLaundering]], and [[RegulatedCryptoTrustStrategy]] - finance and compliance context.
 - [[TylerShultz|Tyler Shultz]], [[Theranos]], and [[ProtectedWhistleblowerChannels]] - whistleblower-channel context added by The Social Radars.
+- [[InvestmentAdviserFiduciaryDuty]], [[BuySideInvestmentAdvisory]], and [[FundInvestmentAdvisory]] - episode 145 advisory-law comparison.
