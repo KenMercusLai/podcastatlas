@@ -2,11 +2,13 @@
 title: "Investment Worldview Fit"
 type: concept
 tags: [investing, behavior, asset-allocation, self-knowledge]
-sources: [162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust, 158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
+sources: [163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta, 162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust, 158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
 last_updated: 2026-08-06
 ---
 
 # Investment Worldview Fit
+
+[[163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta]] adds a temperament-and-history version. [[DavidWeng|大卫翁]] says long-term investing is not automatically suitable for everyone: a person's family background, business exposure, tolerance for volatility, trading reflexes, and need for sleep may make one method holdable and another method destructive.
 
 [[162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust]] adds a wealth-freedom version. The source argues that investment methods also express what a person thinks wealth is: visible richness, durable assets, cash flow, human capital, social recognition, time control, or the freedom created by [[WealthDesireGap]].
 
@@ -31,6 +33,7 @@ The concept extends [[PortfolioSuitability]]. Suitability asks whether a portfol
 - Episode 154 adds that worldview fit is not only an investment suitability issue; it also shapes friendships, media input, argument tolerance, and life choices.
 - Episode 158 adds that worldview fit can be taught as a first-step book frame: the reader should learn how to draw a personal map before copying another investor's map.
 - Episode 162 adds that worldview fit includes desire and freedom: an investor who treats money as final value will build a different life and portfolio from one who treats money as a bridge toward time control and self-command.
+- Episode 163 adds that worldview fit also includes growth history: a short-term trader and a long-term allocator may both be coherent if their method fits their temperament, evidence style, and drawdown path.
 
 ## Connections
 - [[AssetAllocationActionGuide|《资产配置行动指南》]] and [[PodcastToBookSystematization]] - episode 158's book-form extension of the concept.
@@ -43,3 +46,4 @@ The concept extends [[PortfolioSuitability]]. Suitability asks whether a portfol
 - [[HumanCapitalInflationHedge]] and [[InvestmentForBetterLife]] — non-market and life-quality boundaries around investing.
 - [[InvestmentMasterNarrative]], [[InvestmentStyleMap]], and [[InvestorIdolRisk]] — episode 134's famous-investor extension.
 - [[WealthAsCapabilityAndRights]], [[WealthDesireGap]], [[ClientCenteredWealthManagement]], and [[MainContradictionAllocation]] - episode 162's wealth and freedom extension.
+- [[StructureOverPrediction]], [[PortfolioSuitability]], and [[BoundedSpeculativeOptionality]] - episode 163's random-world and temperament-fit extension.

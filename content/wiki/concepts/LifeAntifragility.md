@@ -2,11 +2,13 @@
 title: "Life Antifragility"
 type: concept
 tags: [life-design, risk, uncertainty]
-sources: [172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
-last_updated: 2026-07-15
+sources: [163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+last_updated: 2026-08-06
 ---
 
 # Life Antifragility
+
+[[163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta]] adds the stay-in-the-game version. The source's practical claim is that randomness cannot be eliminated, so a person should protect the stable base, preserve initiative, and keep enough financial, bodily, relational, and psychological resilience to receive future opportunities.
 
 Life antifragility is the episode's translation of [[Antifragility]] from markets into daily structure. In [[e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]], [[ZhangXiaoyu]] argues that life choices should first ask how bad the worst credible outcome can be, whether that outcome is bearable, and whether the design allows upside contact with the world.
 
@@ -27,6 +29,7 @@ The source gives two sides of the concept. The defensive side closes ruin risks 
 - A life can become stronger around mistakes and losses without pretending those shocks were desirable or fully redeemed.
 - Small practices can provide antifragile contact with the world when macro narratives make agency feel too abstract.
 - Luck-oriented antifragility increases contact with uncertainty through [[LowCostExperimentation]] and [[WeakTieOpportunity]] while protecting the stable base.
+- Episode 163 adds that life antifragility also rejects [[FinancialNihilism]]: high-upside attempts should be structured so failure does not end future attempts.
 
 ## Connections
 - [[Antifragility]], [[BlackSwan]], and [[FatTailRisk]] — market ideas translated into life design.
@@ -36,3 +39,4 @@ The source gives two sides of the concept. The defensive side closes ruin risks 
 - [[RegretIntegration]], [[PetGriefAndCare]], and [[MotherDaughterReconciliation]] — retrospective life-growth cases from the restart episode.
 - [[MacroNarrativeAnxiety]], [[ActionAgainstAnxiety]], and [[ObjectiveSelfOwnership]] - sp.02's practical anxiety and agency extension.
 - [[LuckAsInformationBandwidth]], [[PositiveExpectationTraining]], and [[BarbellStrategy]] - episode 172's luck and survivable-exposure branch.
+- [[StructureOverPrediction]], [[BoundedSpeculativeOptionality]], and [[FinancialNihilism]] - episode 163's random-world survival branch.

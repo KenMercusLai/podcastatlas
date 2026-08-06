@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [163.当孤注一掷的年轻人遇上这个草台班子的世界｜串台轻刀快马](sources/163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta.md) — 起朱楼宴宾客 crossover with 轻刀快马 on U.S. social separation, AI anxiety, youth FOMO, financial nihilism, bounded speculative optionality, structure-over-prediction, barbell life design, and staying in the game.
 - [162.财富的本质，以及自由的真正含义｜串台十分吸引](sources/162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust.md) — 起朱楼宴宾客 crossover with 十分吸引 on wealth as resources, capability, rights, capital conversion, cash flow, resource-network repricing, client-centered wealth management, and freedom as the gap between what one has and wants.
 - [161. 全球宏观和资本市场2026一季度复盘与展望](sources/161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm.md) — 起朱楼宴宾客 live Beijing Q1 2026 macro review with 大卫翁 and Ricky on Iran war risk, stagflation repricing, AI/private-credit finance, China data, gold, oil, A/H allocation, and cash discipline.
 - [160.如何应对中国资产牛市的“调整期”｜新书分享会成都场实录](sources/160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz.md) — 起朱楼宴宾客 live Chengdu book-sharing episode with 大卫翁 and 浩哥 on handling a China-asset bull-market pullback through long/mid/short allocation, 1:1:1 buckets, AI and war narratives, gold sizing, cash optionality, human-capital fit, and index-fund discipline.
@@ -5337,6 +5338,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Financial Nihilism / 金融虚无主义](concepts/FinancialNihilism.md) — Episode 163 frame for young people's belief that normal work and saving cannot catch asset inflation, debt, and inherited wealth, often pushing them toward all-in speculative rescue bets.
+- [Structure Over Prediction / 结构优先于预测](concepts/StructureOverPrediction.md) — Episode 163 strategy of designing portfolios and lives that can survive multiple futures instead of depending on one correct macro or market forecast.
+- [Bounded Speculative Optionality / 有边界的彩票仓位](concepts/BoundedSpeculativeOptionality.md) — Episode 163 discipline for using a small loss-tolerable high-upside sleeve without letting speculative desire endanger the stable base.
 - [Wealth As Capability And Rights / 财富作为能力与权利](concepts/WealthAsCapabilityAndRights.md) — Episode 162 definition of wealth as real resources, productive capacity, social recognition, rights, human capital, relationships, reputation, and freedom rather than money alone.
 - [Bourdieu Capital Forms / 布迪厄资本形式](concepts/BourdieuCapitalForms.md) — Episode 162 use of economic, cultural, social, and symbolic capital to explain wealth beyond financial assets.
 - [Capital Conversion Loop / 资本转换循环](concepts/CapitalConversionLoop.md) — Episode 162 pattern for how money, taste, networks, reputation, and stories convert into one another, with Anna Sorokin as a fragile negative case.

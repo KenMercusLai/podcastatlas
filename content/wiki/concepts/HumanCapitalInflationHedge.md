@@ -2,11 +2,13 @@
 title: "Human Capital Inflation Hedge"
 type: concept
 tags: [personal-finance, career, inflation, life-design]
-sources: [162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
+sources: [163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta, 162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
 last_updated: 2026-08-06
 ---
 
 # Human Capital Inflation Hedge
+
+[[163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta]] adds the human-capital-as-risk-asset version. [[DavidWeng|大卫翁]] describes different career paths as bond-like or stock-like cash-flow exposures, then uses that classification to decide whether financial assets should take more risk, reduce risk, or protect liquidity.
 
 Human capital inflation hedge is [[vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]]'s ordinary-person counterweight to investment anxiety. The host argues that for many people, the strongest long-run protection against inflation has not been forcing money into volatile markets, but preserving earning ability, employability, adaptability, and the capacity to support a household.
 
@@ -21,6 +23,7 @@ The concept does not reject [[AssetAllocation]]. It changes the priority order w
 - Saving can improve when people find value and identity outside material consumption, not only when they learn more product facts.
 - [[InvestmentForBetterLife]] is the boundary: financial tools should serve ordinary life rather than replace work, relationships, sleep, and agency.
 - Episode 162 adds that human capital is wealth, not merely an input into portfolio construction, because it expands [[WealthDesireGap|choice space]] and reduces dependence on visible financial capital.
+- Episode 163 adds that human capital is also part of risk budgeting: career volatility and financial-asset volatility should not be stacked blindly.
 
 ## Connections
 - [[InvestmentForBetterLife]] — life-quality standard that keeps investing subordinate to better living.
@@ -29,3 +32,4 @@ The concept does not reject [[AssetAllocation]]. It changes the priority order w
 - [[FinancialFreedomVsLifestyleFreedom]] — distinction between asset-level independence and practical day-to-day freedom.
 - [[WealthAsCapabilityAndRights]], [[WealthDesireGap]], and [[ClientCenteredWealthManagement]] - episode 162's broader wealth and freedom extension.
 - [[AssetAllocation]], [[PortfolioSuitability]], and [[InvestmentRiskManagement]] — market tools that still matter when financial capital and worldview fit justify them.
+- [[FinancialNihilism]], [[StructureOverPrediction]], and [[BoundedSpeculativeOptionality]] - episode 163's young-person risk and survivable-upside branch.

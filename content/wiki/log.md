@@ -5713,6 +5713,10 @@ Added source page for a 蜜獾吃书 episode on 蒲松龄《聊斋志异》 as s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-06] ingest | 163.当孤注一掷的年轻人遇上这个草台班子的世界｜串台轻刀快马
+
+Added source page for a 起朱楼宴宾客 crossover with 轻刀快马 on U.S. social separation, AI anxiety, youth FOMO, financial nihilism, bounded speculative optionality, structure-over-prediction, human-capital risk balancing, barbell life design, and staying in the game. Created pages for Financial Nihilism, Structure Over Prediction, and Bounded Speculative Optionality; updated overview, index, 起朱楼宴宾客, 大卫翁, 傅宇, 轻刀快马, GameStop, Asset Allocation, Portfolio Suitability, Investment Worldview Fit, Barbell Strategy, Investment Risk Management, Human Capital Inflation Hedge, Social Comparison Pressure, Macro Narrative Anxiety, and Life Antifragility. No direct contradiction found; the source extends the prior 轻刀快马 youth-happiness branch by turning "草台班子" from a trust mood into a portfolio and life-structure problem.
+
 ## [2026-08-06] ingest | 160.如何应对中国资产牛市的“调整期”｜新书分享会成都场实录
 
 Added source page for a 起朱楼宴宾客 live Chengdu book-sharing episode with 大卫翁 and 浩哥 on handling a China-asset bull-market pullback without reducing it to point forecasts. Updated overview, index, 起朱楼宴宾客, 大卫翁, 三点下班, 浩哥, China, DeepSeek, Asset Allocation, 1:1:1 Allocation, Portfolio Suitability, Market Pullback vs Trend End, Gold As Currency Spare Tire, AI Equity Valuation Risk, Holo Assets, Ordinary Investor Macro Boundary, China Equity Structural Selection, China Excess Savings Reallocation, Defensive Dividend Assets, and Passive Investing. No direct contradiction found; the source extends the existing China-risk-asset and asset-allocation branch by separating long-term household savings/shareholder-return logic, medium-term AI/gold/dollar/geopolitical narratives, and short-term cash or cash-like optionality.
@@ -6253,6 +6257,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] ingest | 162.财富的本质，以及自由的真正含义｜串台十分吸引
 
 Added source page for a 起朱楼宴宾客 crossover with 十分吸引 on wealth as real resources, productive capacity, human capital, recognized rights, Bourdieu-style capital forms, capital conversion, cash-flow and resource-network investing, client-centered wealth management, and freedom as the gap between what one has and wants. Created pages for Wealth As Capability And Rights, Bourdieu Capital Forms, Capital Conversion Loop, Wealth Desire Gap, Main Contradiction Allocation, Resource Network Repricing, Client-Centered Wealth Management, Pierre Bourdieu, Anna Sorokin, Georg Simmel, David Ricardo, and Irving Fisher; updated overview, index, 起朱楼宴宾客, 大卫翁, 十分吸引, 时雷, Adam Smith, Socrates, Money As Flow, Human Capital Inflation Hedge, Financial Freedom Vs Lifestyle Freedom, Social Comparison Pressure, Low Desire Defensive Contraction, Asset Allocation, Portfolio Suitability, Profit And Cash Flow Quality, Investment Worldview Fit, Japanese Sogo Shosha, State-Owned Enterprise Social Value, and Defensive Dividend Assets. No direct contradiction found; the source extends the prior money-as-flow branch by making money a bridge toward resources, rights, capability, and freedom rather than wealth's final form.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

@@ -2,11 +2,13 @@
 title: "Social Comparison Pressure / 社会比较压力"
 type: concept
 tags: [psychology, society, status, education, internet-culture]
-sources: [162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust, 37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647]
+sources: [163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta, 162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust, 37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647]
 last_updated: 2026-08-06
 ---
 
 # Social Comparison Pressure / 社会比较压力
+
+[[163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta]] adds the FOMO and investment-nihilism version. [[FuYu|傅宇]] and [[DavidWeng|大卫翁]] argue that social media makes visible winners feel like the norm, so young people can mistake "others caught the AI, crypto, meme-stock, or generational opportunity" for evidence that their own normal path has already failed.
 
 Social comparison pressure / 社会比较压力 is the condition in which schools, workplaces, online spaces, taste hierarchies, region, class, body, income, and group labels make people constantly locate themselves above or below others. In [[145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647]], this pressure is the shared root of envy and contempt.
 
@@ -25,6 +27,7 @@ The source argues that modern life is especially tense because it combines equal
 - The healthier move is not to erase all standards, but to ask whether a specific comparison is useful, accurate, chosen, and proportionate.
 - Replacing horizontal comparison with longitudinal self-comparison can turn envy into development rather than attack.
 - Episode 162 adds that comparison inflates wants and can shrink [[WealthDesireGap|felt wealth]] even when absolute living conditions improve.
+- Episode 163 adds that comparison can become [[FinancialNihilism]] when visible winners make ordinary saving, work, and gradual improvement feel futile.
 
 ## Connections
 - [[EnvyContemptComparison]] - emotional pattern produced by comparison.
@@ -35,3 +38,4 @@ The source argues that modern life is especially tense because it combines equal
 - [[EmpathyAgainstComparison]] and [[CommunityFeeling]] - repair paths through concrete personhood and shared-unit design.
 - [[IntelligenceTesting]], [[PsychometricSocialSorting]], and [[MeritocraticArrogance]] - episode 37's measured-ability extension.
 - [[WealthDesireGap]], [[WealthAsCapabilityAndRights]], and [[LowDesireDefensiveContraction]] - episode 162's wealth-anxiety and desire branch.
+- [[FinancialNihilism]], [[BoundedSpeculativeOptionality]], and [[RetailBullMarketPsychology]] - episode 163's FOMO and speculative-rescue branch.

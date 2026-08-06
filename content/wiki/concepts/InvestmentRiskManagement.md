@@ -4,6 +4,7 @@ type: concept
 tags: [investing, risk]
 sources:
   - 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm
+  - 163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta
   - 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2
   - 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi
   - 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1
@@ -58,6 +59,8 @@ last_updated: 2026-08-06
 ---
 
 # Investment Risk Management
+
+[[163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta]] adds the [[FinancialNihilism]] version. The source accepts that young people may face real asset, wage, housing, and generational constraints, but treats all-in speculative rescue bets as a risk-management failure unless upside exposure is explicitly limited through [[BoundedSpeculativeOptionality]], position sizing, and a stable base that can survive loss.
 
 [[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] adds the high-randomness macro version. The source argues there is no single signal that proves systemic risk, so risk management uses permanent cash, no all-in exit or reentry, gold sizing, private-credit skepticism, and source-dated assumptions instead of top-calling.
 
