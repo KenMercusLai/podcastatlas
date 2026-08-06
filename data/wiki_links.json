@@ -2151,6 +2151,10 @@
     "title": "Adao",
     "url": "/wiki/entities/adao/"
   },
+  "AdaptationAsMoralReframing": {
+    "title": "Adaptation As Moral Reframing / 改编作为道德重心重置",
+    "url": "/wiki/concepts/adaptationasmoralreframing/"
+  },
   "AdaptationEndingEthics": {
     "title": "Adaptation Ending Ethics",
     "url": "/wiki/concepts/adaptationendingethics/"
@@ -10963,6 +10967,10 @@
     "title": "Family Reading Ecology",
     "url": "/wiki/concepts/familyreadingecology/"
   },
+  "FamilySupportedAspiration": {
+    "title": "Family-Supported Aspiration / 家庭承托的愿望",
+    "url": "/wiki/concepts/familysupportedaspiration/"
+  },
   "FamilyWorldSimulator": {
     "title": "Family World Simulator",
     "url": "/wiki/concepts/familyworldsimulator/"
@@ -11166,6 +11174,10 @@
   "FeimaPaiQiche": {
     "title": "《飞马牌汽车》",
     "url": "/wiki/entities/feimapaiqiche/"
+  },
+  "FeixingjiaFilm": {
+    "title": "《飞行家》 / Feixingjia",
+    "url": "/wiki/entities/feixingjiafilm/"
   },
   "Felicette": {
     "title": "Felicette / 菲利切特",
@@ -16379,6 +16391,10 @@
     "title": "蒋华安 / Jiang Huaan",
     "url": "/wiki/entities/jianghuaan/"
   },
+  "JiangQiming": {
+    "title": "蒋奇明 / Jiang Qiming",
+    "url": "/wiki/entities/jiangqiming/"
+  },
   "JiangXiaoyu": {
     "title": "江小鱼",
     "url": "/wiki/entities/jiangxiaoyu/"
@@ -18154,6 +18170,10 @@
   "LiXu": {
     "title": "李煦 / Li Xu",
     "url": "/wiki/entities/lixu/"
+  },
+  "LiXueqin": {
+    "title": "李雪琴 / Li Xueqin",
+    "url": "/wiki/entities/lixueqin/"
   },
   "LiYanhong": {
     "title": "Li Yanhong",
@@ -21783,6 +21803,14 @@
     "title": "North Korea",
     "url": "/wiki/entities/northkorea/"
   },
+  "NortheastAsMemoryStructure": {
+    "title": "Northeast As Memory Structure / 东北作为记忆结构",
+    "url": "/wiki/concepts/northeastasmemorystructure/"
+  },
+  "NortheastWomenFamilyAgency": {
+    "title": "Northeast Women Family Agency / 东北女性的家庭行动力",
+    "url": "/wiki/concepts/northeastwomenfamilyagency/"
+  },
   "NorthernCourage": {
     "title": "Northern Courage / 北方的勇气",
     "url": "/wiki/concepts/northerncourage/"
@@ -25271,6 +25299,10 @@
     "title": "Regional Labor Market Scarring",
     "url": "/wiki/concepts/regionallabormarketscarring/"
   },
+  "RegionalLanguageAsCharacterAccess": {
+    "title": "Regional Language As Character Access / 方言作为人物入口",
+    "url": "/wiki/concepts/regionallanguageascharacteraccess/"
+  },
   "RegionalNetworkTopologyRisk": {
     "title": "Regional Network Topology Risk",
     "url": "/wiki/concepts/regionalnetworktopologyrisk/"
@@ -27430,6 +27462,10 @@
   "ShuCai": {
     "title": "树才",
     "url": "/wiki/entities/shucai/"
+  },
+  "ShuangXuetao": {
+    "title": "双雪涛 / Shuang Xuetao",
+    "url": "/wiki/entities/shuangxuetao/"
   },
   "Shubo": {
     "title": "Shubo",
@@ -34398,6 +34434,10 @@
   "ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu": {
     "title": "EP242 独立游戏，是一条搞钱好赛道吗？",
     "url": "/wiki/sources/ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu/"
+  },
+  "ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6": {
+    "title": "EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了",
+    "url": "/wiki/sources/ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6/"
   },
   "ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg": {
     "title": "EP25 中资外资哪家强：“一劳永逸”找“钱粮”（下）",

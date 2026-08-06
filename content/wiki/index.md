@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了](sources/ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6.md) — Talk三联 episode with 双雪涛, 蒋奇明, and 李雪琴 on 《飞行家》, covering adaptation from failure to ordinary life, Northeast memory, regional-language performance, family-supported aspiration, and Northeast women.
 - [EP242 独立游戏，是一条搞钱好赛道吗？](sources/ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu.md) — Talk三联 episode on whether independent games are a viable money-making path, covering Steam publishing, Dragon Spirit, vertical fandom crowdfunding, OC commissions, BJD makeup, AI tools, and skill-based side income.
 - [EP241 校企合作是新一代的“铁饭碗”吗？](sources/ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig.md) — Talk三联 episode on vocational education and school-enterprise cooperation, covering Bosch dual-system training, Li Auto's Changzhou industrial college, elder-care workforce training, degree progression, career cognition, and AI-assisted program adjustment.
 - [EP240 “霸总甜宠”在海外：短剧出海的产业密码](sources/ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek.md) — Talk三联 episode on short-drama overseas expansion, connecting domestic free-platform pressure, web-fiction methods, overseas actors, local production, paid traffic, and data-driven entertainment.
@@ -799,6 +800,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [蒋奇明 / Jiang Qiming](entities/JiangQiming.md) — Actor in EP243 whose 《飞行家》 role grounds the idea that Northeast speech is a route into character thinking rather than just accent.
+- [李雪琴 / Li Xueqin](entities/LiXueqin.md) — Performer and EP243 guest connecting 《飞行家》 to Northeast family life, relatives as family, supportive dream stories, and Northeast women.
+- [双雪涛 / Shuang Xuetao](entities/ShuangXuetao.md) — Writer and EP243 guest explaining how 《飞行家》 shifts from a failure frame toward an ordinary-person and family-responsibility frame.
+- [《飞行家》 / Feixingjia](entities/FeixingjiaFilm.md) — Film/work discussed in EP243 as a Northeast adaptation about ordinary aspiration, family support, regional language, and women's family agency.
 - [巫君 / Wu Jun (indie game creator)](entities/WuJunIndieGameCreator.md) — EP242 independent game creator explaining forum-era game making, Steam commercialization, Dragon Spirit, AI production help, and realistic indie-game income.
 - [王依然 / Wang Yiran (Sanlian)](entities/WangYiranSanlian.md) — 三联生活周刊 reporter in EP242 connecting young side income to independent games, original-character commissions, BJD makeup, and AIGC content attempts.
 - [FHN](entities/FHN.md) — Dragon Spirit collaborator whose vertical fandom background helps explain EP242's community-funded indie-game case.
@@ -5412,6 +5417,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Adaptation As Moral Reframing / 改编作为道德重心重置](concepts/AdaptationAsMoralReframing.md) — EP243 concept for an adaptation changing a story's moral center from failure to ordinary personhood rather than only changing plot details.
+- [Northeast As Memory Structure / 东北作为记忆结构](concepts/NortheastAsMemoryStructure.md) — EP243 frame for Northeast identity as language, vanished landmarks, factory smell, rooms, food, football fields, and family memory.
+- [Regional Language As Character Access / 方言作为人物入口](concepts/RegionalLanguageAsCharacterAccess.md) — EP243 performance concept treating Northeast speech as local cognition, emotional rhythm, and character access rather than surface accent.
+- [Family-Supported Aspiration / 家庭承托的愿望](concepts/FamilySupportedAspiration.md) — EP243 concept for dreams shaped by family support, responsibility, pressure, and ordinary relational life.
+- [Northeast Women Family Agency / 东北女性的家庭行动力](concepts/NortheastWomenFamilyAgency.md) — EP243 frame for Northeast women as practical household decision-makers and structurally necessary supporters in 《飞行家》.
 - [Indie Game Commercialization / 独立游戏商业化](concepts/IndieGameCommercialization.md) — EP242 frame for turning small-team game making into Steam sales while accounting for platform access, costs, taxes, splits, competition, and long-tail revenue.
 - [Vertical Fandom Crowdfunding / 垂直圈层众筹](concepts/VerticalFandomCrowdfunding.md) — EP242 pattern where a concentrated fandom funds, validates, and sometimes enters a creative work before mass-market proof.
 - [Original Character Commission Economy / 设圈约稿经济](concepts/OriginalCharacterCommissionEconomy.md) — EP242 creator-economy branch where original characters, commissioned art, OC games, and identity-linked design become paid services.

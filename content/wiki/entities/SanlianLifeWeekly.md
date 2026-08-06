@@ -2,11 +2,13 @@
 title: "三联生活周刊 / Sanlian Life Weekly"
 type: entity
 tags: [media, magazine, china, culture, lifestyle, sports, education, games, creator-economy]
-sources: [ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig, ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
+sources: [ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6, ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig, ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
 last_updated: 2026-08-07
 ---
 
 # 三联生活周刊 / Sanlian Life Weekly
+
+[[ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6]] adds a Talk三联 film-culture branch through [[ShuangXuetao|双雪涛]], [[JiangQiming|蒋奇明]], and [[LiXueqin|李雪琴]]. The episode treats [[FeixingjiaFilm|《飞行家》]] as a way to connect Northeast literature, film adaptation, regional speech, family relations, and [[NortheastWomenFamilyAgency|Northeast women's household agency]].
 
 [[ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu]] adds the magazine's young-side-income and independent-game reporting branch through [[WangYiranSanlian|王依然]]. The episode places [[IndieGameCommercialization|独立游戏商业化]] beside [[OriginalCharacterCommissionEconomy|设圈约稿经济]], [[BJDDollMakeupCommission|BJD妆面约稿]], and AI-assisted creative work to ask when internet-native hobbies can become sustainable income rather than generic "搞钱" advice.
 
@@ -32,3 +34,4 @@ In this source, Sanlian Life Weekly matters less as an institution to profile an
 - [[HuangZiyiSanlian]], [[XiaJieyi]], [[DuanNongyu]], [[BoJing]], [[ShortDramaOverseasExpansion]], [[ChineseWebFictionMethodology]], and [[WomenOrientedMelodramaDemand]] - short-drama export branch added by EP240.
 - [[ZhangCongzhi]], [[LiXiaojie]], [[LiuChang]], [[VocationalEducation]], [[SchoolEnterpriseCooperation]], and [[ElderCareWorkforce]] - vocational-education branch added by EP241.
 - [[WangYiranSanlian]], [[WuJunIndieGameCreator]], [[IndieGameCommercialization]], [[OriginalCharacterCommissionEconomy]], and [[SkillBasedSideIncome]] - independent-game and creator-economy branch added by EP242.
+- [[ShuangXuetao]], [[JiangQiming]], [[LiXueqin]], [[FeixingjiaFilm]], [[NortheastAsMemoryStructure]], and [[FamilySupportedAspiration]] - film-culture and Northeast-memory branch added by EP243.

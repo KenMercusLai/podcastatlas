@@ -6393,3 +6393,11 @@ Added source page for a Talk三联 episode with 巫君 and 王依然 on whether 
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了
+
+Added source page for a Talk三联 episode with 双雪涛, 蒋奇明, and 李雪琴 on 《飞行家》, covering novel-to-film adaptation, the shift from failure to ordinary personhood, Northeast speech and memory, family-supported aspiration, only-child and parental expectation, Northeast women, and the Yafeng role. Created pages for 蒋奇明, 李雪琴, 双雪涛, 《飞行家》, Adaptation As Moral Reframing, Northeast As Memory Structure, Regional Language As Character Access, Family-Supported Aspiration, and Northeast Women Family Agency; updated overview, index, Talk三联, 三联生活周刊, Responsibility Against Romantic Escape, and Female Self-Possession. No direct contradiction found; the source qualifies individual dream narratives by showing aspiration as relational, family-supported, historically situated, and ethically shaped rather than purely solitary escape.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
