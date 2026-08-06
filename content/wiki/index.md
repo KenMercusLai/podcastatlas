@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [149.百五特辑：和两位老媒体人漫谈播客、媒介以及声音生态的未来](sources/149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga.md) — 起朱楼宴宾客 crossover with 杨一 and 欧阳斌 on Chinese podcasting, media trust, living-person voice, platform algorithms, brand podcasts, fragmented commercialization, and long-form audio as a minority but durable medium.
 - [147.再谈日本医疗与照护行业之我曾在北海道的医院当护士](sources/147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp.md) — 起朱楼宴宾客 conversation with 琼琼 on Japanese nursing, no-family-attendant care, multidisciplinary hospital work, universal-coverage practice, medical social work, care socialization, subject-led care, daily dignity, and AI/robot elder-care limits.
 - [146.美国经济这么差，美股还能继续涨吗 | 串台《美轮美换》](sources/146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu.md) — 起朱楼宴宾客 crossover with 美轮美换 on U.S. economic sentiment, shutdown data blindness, tariff inflation, Fed independence, Big Tech-led equity gains, AI bubble spillover, private credit, and entry-level labor pressure.
 - [145.基金投顾值得信任吗？](sources/145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi.md) — 起朱楼宴宾客 episode on Chinese fund advisory, buy-side trust, behavior coaching, goal-based client profiling, advisory fees, disclosure conflicts, and U.S. fiduciary/retirement-advice comparisons.
@@ -769,6 +770,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [杨一 / Yang Yi](entities/YangYi.md) — Early Chinese podcast practitioner and 忽左忽右 speaker explaining market education, brand-podcast services, and the Chinese-vs-U.S. podcast path.
+- [欧阳斌 / Ouyang Bin](entities/OuyangBin.md) — 去现场 and 725沙龙-side speaker framing the episode from listener, media-observer, and cultural-dialogue perspectives.
+- [忽左忽右 / Huzuo Huyou](entities/HuzuoHuyou.md) — Yang Yi's podcast context used by episode 149 to discuss Chinese podcast ecosystem-building.
+- [去现场 / Qu Xianchang](entities/QuXianchang.md) — Crossover context for 欧阳斌 in episode 149's podcast and media-ecosystem discussion.
+- [725沙龙 / 725 Salon](entities/725Salon.md) — New York Chinese cultural-dialogue project testing a purely online podcast format in episode 149.
 - [Ueno Chizuko / 上野千鹤子](entities/UenoChizuko.md) — Care-sociology author whose work anchors 琼琼's translation path and episode 147's care-socialization frame.
 - [触动杂货铺 / Chudong Zahuopu](entities/ChudongZahuopu.md) — Care-focused podcast/public-account project associated with 琼琼 and public discussion of socialized care.
 - [美轮美换 / Meilun Meihuan](entities/MeilunMeihuan.md) — Podcast crossover partner supplying U.S. politics and lived-economy context for episode 146.
@@ -5278,6 +5284,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese Podcast Ecosystem / 中文播客生态](concepts/ChinesePodcastEcosystem.md) — Episode 149 frame for platform, hardware, creator, brand, and listener conditions behind Chinese podcast growth.
+- [Podcast Commercialization Fragmentation / 播客商业化分散](concepts/PodcastCommercializationFragmentation.md) — Episode 149 claim that Chinese podcast monetization is real but dispersed across ads, branded shows, services, communities, events, and vertical deals.
+- [Subscription vs Algorithm Podcast Distribution / 播客订阅与算法分发](concepts/SubscriptionVsAlgorithmPodcastDistribution.md) — Tension between stable subscribed podcast relationships and algorithmic discovery or concentration.
 - [Care Sociology / 照护社会学](concepts/CareSociology.md) — Episode 147 frame for analyzing care as social organization, labor, ethics, subjecthood, and public responsibility rather than only private family duty.
 - [Japanese No-Family-Attendant Care / 日本无家属陪护](concepts/JapaneseNoFamilyAttendantCare.md) — Japanese hospital practice where daily bedside care shifts from family attendants into trained hospital roles and workflows.
 - [Multidisciplinary Hospital Care / 医院多职种协作](concepts/MultidisciplinaryHospitalCare.md) — Team-care model linking doctors, nurses, rehabilitation, technicians, nutrition, social work, and support staff around patient function and discharge.

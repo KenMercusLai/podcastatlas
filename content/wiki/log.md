@@ -5754,7 +5754,6 @@ Added source page for a 蜜獾吃书 episode reading 《冰与火之歌》 and �
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -6146,3 +6145,11 @@ Added source page for a 起朱楼宴宾客 conversation with 琼琼 on Japanese 
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 149.百五特辑：和两位老媒体人漫谈播客、媒介以及声音生态的未来
+
+Added source page for a 起朱楼宴宾客 crossover with 杨一 and 欧阳斌 on Chinese podcasting, media transformation, long-form voice, listener trust, platform algorithms, brand podcasts, fragmented commercialization, and podcast-enabled creator paths. Created pages for 杨一, 欧阳斌, 忽左忽右, 去现场, 725沙龙, Chinese Podcast Ecosystem, Podcast Commercialization Fragmentation, and Subscription vs Algorithm Podcast Distribution; updated overview, index, 起朱楼宴宾客, 大卫翁, 小宇宙, Podcast As Asynchronous Media, Podcast Intimacy, Brand Podcasting, Podcast-Enabled Career Path, Podcast Release Cadence, Long-Form Conversation, Live Human Feeling, and Media Form Constraint. No direct contradiction found; the source extends the wiki's podcast branch by showing Chinese podcasting as a personal, UGC-leaning, trust-based ecosystem rather than a simple copy of U.S. PGC/public-radio podcast history.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran health before lint; health scanned 8,717 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 8,717 pages; treat graph findings as advisory until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`; a bounded fallback marker scan found no hard unresolved contradiction, but retained follow-ups for MidJourney/Midjourney casing duplication, ProjectGlasswing/ProjectGlassfin naming, FigureAI autonomy/source-local claim verification, and the `+-` formatting artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. No `wiki/lint-report.md` file was saved.

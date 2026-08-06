@@ -2,7 +2,7 @@
 title: "活人感 / Live Human Feeling"
 type: concept
 tags: [internet-culture, authenticity, public-expression, creators, emotion]
-sources: [140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770]
+sources: [149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga, 140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770]
 last_updated: 2026-07-24
 ---
 
@@ -16,6 +16,8 @@ The concept is not the same as pure authenticity. The hosts argue that people pe
 
 [[140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655]] adds the "做自己" versus "扮演自己" version. [[Jinzi|金子]] observes that coolness and looseness can become templates too, so live human feeling requires more than adopting a tribe's style; it requires enough [[SelfFeelingTrust|相信自己的感受]] to notice when authenticity itself has become performance.
 
+[[149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga]] adds the Chinese podcast version. [[DavidWeng|大卫翁]] and [[YangYi|杨一]] argue that Chinese listeners often trust individual voices more readily than institutional media voices, so podcasts succeed when a host or guest sounds like a real person with judgment, hesitation, and bounded presence rather than only a polished content machine.
+
 ## Key Claims
 - 活人感 often comes from imperfection: stumbles, rough language, not-yet-polished emotion, and ordinary detail.
 - Audiences may crave realness precisely when polished upward narratives feel less believable.
@@ -25,8 +27,10 @@ The concept is not the same as pure authenticity. The hosts argue that people pe
 - The perceived return of 活人感 is unstable: the episode leaves open whether internet culture will become more tolerant or whether public figures will withdraw into safer machine-like accounts.
 - In AI-era film and voice work, some imperfections can be evidence of embodied performance rather than defects to smooth away.
 - Episode 140 adds that public "being oneself" can harden into another performance script when coolness, relaxation, or refusal become identity badges.
+- Episode 149 adds that voice-based media can produce 活人感 through duration, conversation, and audible personhood, especially where institutional-media trust is weak.
 
 ## Connections
+- [[ChinesePodcastEcosystem]], [[PodcastIntimacy]], [[LongFormConversation]], [[DavidWeng|大卫翁]], and [[YangYi|杨一]] - podcast and voice-trust branch added by episode 149.
 - [[ZhaoLusi|赵露思]] - celebrity case around which the discussion begins.
 - [[IshikawaTakuboku|石川啄木]] and [[TankaEverydayExpression]] - literary source of small, direct feeling.
 - [[DuanGeShiWoBeishangDeWanju|《短歌是我悲伤的玩具》]] - book object used to carry the concept.

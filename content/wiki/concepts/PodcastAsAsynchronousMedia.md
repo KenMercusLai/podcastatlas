@@ -2,13 +2,15 @@
 title: "Podcast As Asynchronous Media"
 type: concept
 tags: [podcast, media, audio, technology-culture]
-sources: [141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, yi-tiao-jiemu-shuoming-xiwang-gewei-tingzhong-nenggou-tingwan-578621335, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-s2-wrapup-v1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5, gengxin-shijian-biandong-tongzhi-644387724]
-last_updated: 2026-08-05
+sources: [149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, yi-tiao-jiemu-shuoming-xiwang-gewei-tingzhong-nenggou-tingwan-578621335, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-s2-wrapup-v1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5, gengxin-shijian-biandong-tongzhi-644387724]
+last_updated: 2026-08-06
 ---
 
 # Podcast As Asynchronous Media
 
 Podcast as asynchronous media is the idea that recorded audio gains value because listeners can shift it into idle-ear contexts such as commuting, walking, housework, and exercise. In [[zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]], [[NeiheKonghuang]] uses Apple Podcasts' 20th anniversary and the show's 11th year to reflect on how podcasting grew out of iPod, iTunes, radio, and pre-recorded campus broadcasting practices.
+
+[[149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga]] adds a Chinese ecosystem version through [[QizhulouYanBinke|起朱楼宴宾客]], [[HuzuoHuyou|忽左忽右]], and [[Xiaoyuzhou|小宇宙]]. The source keeps the idle-ear premise but stresses adoption infrastructure: wireless earbuds, platform editorial selection, subscription habits, listener comments, and the ability to carry long conversations into commuting, exercise, and other daily routines.
 
 [[fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]] adds the intimacy and production side through [[Banlatte|半拿铁]]. The source keeps the idle-ear premise but emphasizes that long repeated listening creates [[PodcastIntimacy]], lets public figures become more three-dimensional, and makes [[BrandPodcasting]] possible when advertising or institutional speech preserves trust.
 
@@ -41,8 +43,10 @@ The concept is not simply "audio on demand." The hosts contrast podcasting with 
 - Long-form voice can make hosts and guests feel familiar; that relationship value is distinct from but built on asynchronous listening.
 - A podcast's archive can become a personal-memory surface when listeners connect historical stories to their own lived technology and consumer experience.
 - A sustained podcast archive can also become a career and research signal when institutions can hear the creator's interests, judgment, and public relationship over time.
+- Episode 149 adds that adoption can depend on both hardware and platform education: listeners need practical listening contexts, enough category clarity, and apps that make subscription, comments, and discovery feel native.
 
 ## Connections
+- [[ChinesePodcastEcosystem]], [[Xiaoyuzhou|小宇宙]], [[AppleAirPods|AirPods]], [[HuzuoHuyou|忽左忽右]], and [[QizhulouYanBinke|起朱楼宴宾客]] - Chinese ecosystem and hardware-adoption branch added by episode 149.
 - [[Banlatte|半拿铁]], [[LiDan|李诞]], [[PodcastIntimacy]], [[PodcastProductionWorkflow]], [[PodcastAuthenticityBoundary]], and [[BrandPodcasting]] - intimacy, production, and brand-expression branch added by the Li Dan special.
 - [[QizhulouYanBinke|起朱楼宴宾客]], [[DavidWeng|大卫翁]], [[ColumbiaJournalismSchool|Columbia Journalism School]], and [[PodcastEnabledCareerPath]] - archive-as-career-signal branch added by episode 141.
 - [[NeiheKonghuang]], [[WuTao]], and [[Ryo]] - source show and hosts.

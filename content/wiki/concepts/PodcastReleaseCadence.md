@@ -2,8 +2,8 @@
 title: "Podcast Release Cadence"
 type: concept
 tags: [podcast, media, scheduling, audience]
-sources: [yi-tiao-jiemu-shuoming-xiwang-gewei-tingzhong-nenggou-tingwan-578621335, kaitianchuang-moyu-ganxie-chui-dali-553650149, gengxin-shijian-biandong-tongzhi-644387724]
-last_updated: 2026-08-05
+sources: [149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga, yi-tiao-jiemu-shuoming-xiwang-gewei-tingzhong-nenggou-tingwan-578621335, kaitianchuang-moyu-ganxie-chui-dali-553650149, gengxin-shijian-biandong-tongzhi-644387724]
+last_updated: 2026-08-06
 ---
 
 # Podcast Release Cadence
@@ -16,6 +16,8 @@ Podcast release cadence is the scheduling layer of a show: when listeners expect
 
 The concept sits next to [[PodcastAsAsynchronousMedia]]. Podcasts are consumed asynchronously, but release timing still matters because listeners form routines, apps surface new episodes in time-based feeds, and shows compete for attention with other audio drops. A schedule change therefore affects both audience expectation and production rhythm.
 
+[[149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga]] adds a media-theory qualification. [[YangYi|杨一]] argues that weekly updates matter because ordinary life is organized around weeks, while [[DavidWeng|大卫翁]] says Chinese platform habits and algorithmic feeds may weaken fixed-time expectations compared with traditional radio or overseas podcast listening.
+
 ## Key Claims
 - Release cadence is part of a podcast's implicit audience contract.
 - Moving a release time can be a competitive-positioning choice when many shows publish in the same window.
@@ -23,8 +25,10 @@ The concept sits next to [[PodcastAsAsynchronousMedia]]. Podcasts are consumed a
 - Even informal notices can preserve listener trust when they explain the change clearly and ask for continued feedback.
 - Keeping a short update in the feed can maintain cadence while openly admitting that ordinary production capacity is temporarily constrained.
 - Platform review can make a scheduled update fail on one surface while remaining available elsewhere.
+- Episode 149 adds that weekly cadence can embed a show in listener routine, but algorithmic and information-flow platforms may reduce the felt importance of exact publish time.
 
 ## Connections
+- [[ChinesePodcastEcosystem]], [[SubscriptionVsAlgorithmPodcastDistribution]], [[YangYi|杨一]], and [[DavidWeng|大卫翁]] - episode 149 weekly-rhythm and algorithmic-feed qualification.
 - [[gengxin-shijian-biandong-tongzhi-644387724]] - source that introduces the concept through a concrete schedule change.
 - [[kaitianchuang-moyu-ganxie-chui-dali-553650149]] - source that shows cadence preservation during moving disruption.
 - [[yi-tiao-jiemu-shuoming-xiwang-gewei-tingzhong-nenggou-tingwan-578621335]] - source that shows cadence disruption from platform review.
