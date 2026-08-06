@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP242 独立游戏，是一条搞钱好赛道吗？](sources/ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu.md) — Talk三联 episode on whether independent games are a viable money-making path, covering Steam publishing, Dragon Spirit, vertical fandom crowdfunding, OC commissions, BJD makeup, AI tools, and skill-based side income.
 - [EP241 校企合作是新一代的“铁饭碗”吗？](sources/ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig.md) — Talk三联 episode on vocational education and school-enterprise cooperation, covering Bosch dual-system training, Li Auto's Changzhou industrial college, elder-care workforce training, degree progression, career cognition, and AI-assisted program adjustment.
 - [EP240 “霸总甜宠”在海外：短剧出海的产业密码](sources/ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek.md) — Talk三联 episode on short-drama overseas expansion, connecting domestic free-platform pressure, web-fiction methods, overseas actors, local production, paid traffic, and data-driven entertainment.
 - [EP239 和大咖聊聊：金价又双叒叕飙了，普通人还能上车吗？](sources/ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq.md) — Talk三联 episode with 王立新 on gold after a sharp run-up, covering gold's non-credit asset role, China gold-market infrastructure, physical/ETF/product routes, strategic gold allocation, and 黄金家 portfolio products.
@@ -798,6 +799,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [巫君 / Wu Jun (indie game creator)](entities/WuJunIndieGameCreator.md) — EP242 independent game creator explaining forum-era game making, Steam commercialization, Dragon Spirit, AI production help, and realistic indie-game income.
+- [王依然 / Wang Yiran (Sanlian)](entities/WangYiranSanlian.md) — 三联生活周刊 reporter in EP242 connecting young side income to independent games, original-character commissions, BJD makeup, and AIGC content attempts.
+- [FHN](entities/FHN.md) — Dragon Spirit collaborator whose vertical fandom background helps explain EP242's community-funded indie-game case.
+- [龙魂 / Dragon Spirit game series](entities/DragonSpiritGameSeries.md) — EP242 independent RPG series used to show Steam publishing, creature-collection play, and vertical fandom crowdfunding.
+- [丑蛙 / Ugly Frog game](entities/UglyFrogGame.md) — EP242 casual independent game named as part of Wu Jun's small-team Steam portfolio.
+- [RPG Maker](entities/RPGMaker.md) — Game-making tool in EP242 that made forum-era hobbyist RPG production accessible.
+- [66RPG](entities/SixtySixRPG.md) — Early Chinese game-making forum in EP242 tied to RPG Maker learning and hobbyist creator communities.
+- [Project One论坛](entities/ProjectOneForum.md) — Later form of the 66RPG community in EP242, representing the forum-to-commercialization maker path.
+- [米画师 / Mihuashi](entities/Mihuashi.md) — Art-commission platform named in EP242's discussion of original-character and game-art service markets.
 - [李小杰 / Li Xiaojie](entities/LiXiaojie.md) — Sanlian reporter in EP241 grounding the elder-care vocational-training branch through real care scenes, student reluctance, and institutional cooperation.
 - [Bosch / 博世](entities/Bosch.md) — Manufacturing company in EP241 representing the heavy-investment dual-system vocational-education model.
 - [Li Auto / 理想汽车](entities/LiAuto.md) — New-energy-vehicle company in EP241 tied to the Changzhou industrial-college case and maintenance career ladder.
@@ -5402,6 +5412,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Indie Game Commercialization / 独立游戏商业化](concepts/IndieGameCommercialization.md) — EP242 frame for turning small-team game making into Steam sales while accounting for platform access, costs, taxes, splits, competition, and long-tail revenue.
+- [Vertical Fandom Crowdfunding / 垂直圈层众筹](concepts/VerticalFandomCrowdfunding.md) — EP242 pattern where a concentrated fandom funds, validates, and sometimes enters a creative work before mass-market proof.
+- [Original Character Commission Economy / 设圈约稿经济](concepts/OriginalCharacterCommissionEconomy.md) — EP242 creator-economy branch where original characters, commissioned art, OC games, and identity-linked design become paid services.
+- [BJD Doll Makeup Commission / BJD妆面约稿](concepts/BJDDollMakeupCommission.md) — EP242 craft-service example connecting character design, fandom accuracy, manual skill, and modest side income.
+- [Skill-Based Side Income / 技能型副业收入](concepts/SkillBasedSideIncome.md) — EP242 conclusion that sustainable side income usually compounds existing skills, interests, community access, and resources rather than low-effort arbitrage.
 - [Vocational Education / 职业教育](concepts/VocationalEducation.md) — EP241 frame for applied education, hands-on learning, industry-facing training, degree progression, and occupational recognition.
 - [School-Enterprise Cooperation / 校企合作](concepts/SchoolEnterpriseCooperation.md) — Training arrangement where schools and companies jointly shape practice, curriculum, and hiring pipelines without guaranteeing permanent stability.
 - [Dual-System Vocational Education / 双元制职业教育](concepts/DualSystemVocationalEducation.md) — Deep school-enterprise model represented by Bosch, requiring enterprise training sites, curriculum coordination, management rules, and high investment.

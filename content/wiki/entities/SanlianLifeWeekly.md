@@ -1,12 +1,14 @@
 ---
 title: "三联生活周刊 / Sanlian Life Weekly"
 type: entity
-tags: [media, magazine, china, culture, lifestyle, sports, education]
-sources: [ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig, ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
+tags: [media, magazine, china, culture, lifestyle, sports, education, games, creator-economy]
+sources: [ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig, ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
 last_updated: 2026-08-07
 ---
 
 # 三联生活周刊 / Sanlian Life Weekly
+
+[[ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu]] adds the magazine's young-side-income and independent-game reporting branch through [[WangYiranSanlian|王依然]]. The episode places [[IndieGameCommercialization|独立游戏商业化]] beside [[OriginalCharacterCommissionEconomy|设圈约稿经济]], [[BJDDollMakeupCommission|BJD妆面约稿]], and AI-assisted creative work to ask when internet-native hobbies can become sustainable income rather than generic "搞钱" advice.
 
 三联生活周刊 / Sanlian Life Weekly is the Chinese magazine and media context named in [[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]]. The episode introduces [[Heimai|黑麦]] as one of its writers and uses his magazine work to explain how lifestyle reporting can move among culture, fashion, food, [[Wine|wine]], and ordinary changes in taste.
 
@@ -29,3 +31,4 @@ In this source, Sanlian Life Weekly matters less as an institution to profile an
 - [[TalkSanlian]], [[UrbanNicheSports]], [[Padel]], [[MermaidFreediving]], [[ArmoredCombat]], [[LeisureSailing]], [[StandUpPaddleboarding]], and [[ArcheryFlow]] - niche-sports branch added by EP238.
 - [[HuangZiyiSanlian]], [[XiaJieyi]], [[DuanNongyu]], [[BoJing]], [[ShortDramaOverseasExpansion]], [[ChineseWebFictionMethodology]], and [[WomenOrientedMelodramaDemand]] - short-drama export branch added by EP240.
 - [[ZhangCongzhi]], [[LiXiaojie]], [[LiuChang]], [[VocationalEducation]], [[SchoolEnterpriseCooperation]], and [[ElderCareWorkforce]] - vocational-education branch added by EP241.
+- [[WangYiranSanlian]], [[WuJunIndieGameCreator]], [[IndieGameCommercialization]], [[OriginalCharacterCommissionEconomy]], and [[SkillBasedSideIncome]] - independent-game and creator-economy branch added by EP242.

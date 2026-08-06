@@ -2,8 +2,8 @@
 title: "AI Game Industrialization"
 type: concept
 tags: [games, production, ai]
-sources: [2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx]
-last_updated: 2026-07-07
+sources: [ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx]
+last_updated: 2026-08-07
 ---
 
 # AI Game Industrialization
@@ -14,10 +14,13 @@ AI game industrialization is the warning in [[2026-ai-youxi-quanjing-saomiao-si-
 
 [[ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec]] adds an adjacent productization distinction through [[Mujian]]. [[Roi]] does not treat [[AISimulationContent]] as the same thing as generating traditional games; she argues that simulation products can be text-first and creator-led, but still need rules, feedback, pacing, and engineering rather than only prompts.
 
+[[ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu]] adds a small-team production view. [[WuJunIndieGameCreator|巫君]] expects AI to help with code and translation, but he says useful AI use still requires enough programming, art, music, and design knowledge to ask the right questions and correct the output. The same episode shows why quality-control cost rises when [[DragonSpiritGameSeries|龙魂]] moved from simple fan-submitted character art toward more animation-ready assets.
+
 ## Key Claims
 - One prompt may create a prototype, but playable quality may require many rounds of specification and adjustment.
 - Game quality depends on feedback loops, level design, hand feel, audiovisual response, progression, and system balance, not only generated assets or text.
 - AI can lower production cost, but it does not remove the need for craft, QA, live-ops understanding, and player feedback.
+- In small-team indie production, AI can reduce cost without making nontechnical creators automatically capable of shipping a coherent game.
 - The risk resembles [[AICodingVerification]]: generation speed increases, then verification, maintainability, and responsibility become the bottleneck.
 - AI game teams still need [[AIStartupUnitEconomics]] because generated content or NPC dialogue creates ongoing model cost, not only production-time savings.
 - Text-first AI simulators may avoid some 3D production burden, but they still face the industrialization problem of state, feedback, creator tools, and repeatable fun.
@@ -30,3 +33,4 @@ AI game industrialization is the warning in [[2026-ai-youxi-quanjing-saomiao-si-
 - [[TypeTypeMaker]] — tool example that may help prototypes while still requiring game-design expertise.
 - [[MicoAILab]], [[Simon]], and [[AIInteractiveEntertainment]] — application-team case for choosing games as a more calculable AI market.
 - [[Mujian]], [[Roi]], and [[AISimulationContent]] — simulation-platform case adjacent to generated games.
+- [[IndieGameCommercialization]], [[WuJunIndieGameCreator]], [[DragonSpiritGameSeries]], and [[ExpertiseAmplifiedAIUse]] — EP242 small-team and AI-assistance extension.

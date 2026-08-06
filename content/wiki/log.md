@@ -6385,3 +6385,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP242 独立游戏，是一条搞钱好赛道吗？
+
+Added source page for a Talk三联 episode with 巫君 and 王依然 on whether independent games are a viable money-making path for young people. Created pages for 巫君, 王依然, FHN, 龙魂, 丑蛙, RPG Maker, 66RPG, Project One论坛, 米画师, Indie Game Commercialization, Vertical Fandom Crowdfunding, Original Character Commission Economy, BJD Doll Makeup Commission, and Skill-Based Side Income; updated overview, index, Talk三联, 三联生活周刊, 高一丁, Steam, Digital Game Distribution, AI Game Industrialization, AI Interactive Entertainment, Expertise-Amplified AI Use, Creative Labor AI Backlash, Maker Community, Lifestyle Subsidy Creator Work, and Free-to-Play Game Monetization. No direct contradiction found; the source qualifies indie-game and AI-production optimism by showing that low platform and tooling thresholds still require craft, niche community access, quality control, and realistic income accounting.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,8 +2,8 @@
 title: "Creative Labor AI Backlash"
 type: concept
 tags: [ai, labor, media, backlash]
-sources: [tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, the-business-of-heated-rivalry, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, the-business-of-heated-rivalry, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # Creative Labor AI Backlash
@@ -20,6 +20,8 @@ The concept differs from a simple "AI looks bad" complaint. The source notes tha
 
 [[the-business-of-heated-rivalry]] adds a creator-side boundary without making the source primarily an AI backlash story. [[BrendanBrady]] accepts possible AI help for scheduling and budgeting, while [[JacobTierney]] says he does not want AI to write for him; the concern is preserving collaborative creative friction rather than rejecting every production tool.
 
+[[ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu]] adds a small-market commission version through [[OriginalCharacterCommissionEconomy|设圈约稿经济]]. [[WangYiranSanlian|王依然]] and [[WuJunIndieGameCreator|巫君]] note that visible AI drawing can damage a creator's reputation because buyers are paying for the artist's skill, taste, and quality guarantee, not only for a usable image.
+
 ## Key Claims
 - Backlash can persist even when AI content is disclosed and visually competent.
 - The perceived wealth and power of the advertiser matters: a large corporation may be judged differently from a small creator experimenting with tools.
@@ -30,6 +32,7 @@ The concept differs from a simple "AI looks bad" complaint. The source notes tha
 - In film and dubbing, backlash can be strongest where AI appears to copy recognizable styles, faces, or voices while skipping the human craft and contracts that created them.
 - A creator can accept AI for logistics while rejecting it as the source of authorship, taste, and interpersonal creative discovery.
 - Consumers may also object or discount AI-made work because it lacks perceived human care, even when they are not making an explicit labor-rights claim.
+- In commission communities, AI backlash can be reputation-based: the buyer may see AI use as breaking the implicit promise of human craft.
 
 ## Connections
 - [[AIGeneratedAdvertising]] and [[McDonaldsNetherlands]] - source case.
@@ -40,3 +43,4 @@ The concept differs from a simple "AI looks bad" complaint. The source notes tha
 - [[LuChuan]], [[HuangYing]], [[AIVideoProductionWorkflow]], [[AIDubbing]], and [[AIVoiceCloningRights]] - film and voice branch added by E234.
 - [[HeatedRivalry|Heated Rivalry]], [[JacobTierney]], [[BrendanBrady]], and [[ConstraintDrivenMediaProduction]] - television production boundary added by Planet Money.
 - [[ColleenKirk]], [[HumanAuthorshipPremium]], [[AIAuthorshipPresence]], and [[AlgorithmAversion]] - consumer-authenticity branch added by Marketplace Tech.
+- [[OriginalCharacterCommissionEconomy]], [[Mihuashi]], [[BJDDollMakeupCommission]], and [[SkillBasedSideIncome]] - small creator-market branch added by EP242.

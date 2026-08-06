@@ -4063,6 +4063,10 @@
     "title": "BCG",
     "url": "/wiki/entities/bcg/"
   },
+  "BJDDollMakeupCommission": {
+    "title": "BJD Doll Makeup Commission / BJD妆面约稿",
+    "url": "/wiki/concepts/bjddollmakeupcommission/"
+  },
   "BLACKPINK": {
     "title": "BLACKPINK",
     "url": "/wiki/entities/blackpink/"
@@ -9547,6 +9551,10 @@
     "title": "Dragon Spacecraft",
     "url": "/wiki/entities/dragonspacecraft/"
   },
+  "DragonSpiritGameSeries": {
+    "title": "龙魂 / Dragon Spirit game series",
+    "url": "/wiki/entities/dragonspiritgameseries/"
+  },
   "DrawdownPsychology": {
     "title": "Drawdown Psychology",
     "url": "/wiki/concepts/drawdownpsychology/"
@@ -10826,6 +10834,10 @@
   "FAIR": {
     "title": "FAIR",
     "url": "/wiki/entities/fair/"
+  },
+  "FHN": {
+    "title": "FHN",
+    "url": "/wiki/entities/fhn/"
   },
   "FIA": {
     "title": "FIA",
@@ -15134,6 +15146,10 @@
   "IndianaWesleyanUniversity": {
     "title": "Indiana Wesleyan University",
     "url": "/wiki/entities/indianawesleyanuniversity/"
+  },
+  "IndieGameCommercialization": {
+    "title": "Indie Game Commercialization / 独立游戏商业化",
+    "url": "/wiki/concepts/indiegamecommercialization/"
   },
   "IndigenousAmericanMythology": {
     "title": "Indigenous American Mythology / 美洲原住民神话",
@@ -20359,6 +20375,10 @@
     "title": "蜜獾吃书",
     "url": "/wiki/entities/mihuanchishu/"
   },
+  "Mihuashi": {
+    "title": "米画师 / Mihuashi",
+    "url": "/wiki/entities/mihuashi/"
+  },
   "Mijia": {
     "title": "美嘉 / Mijia",
     "url": "/wiki/entities/mijia/"
@@ -22455,6 +22475,10 @@
     "title": "Origin Traceability Moat",
     "url": "/wiki/concepts/origintraceabilitymoat/"
   },
+  "OriginalCharacterCommissionEconomy": {
+    "title": "Original Character Commission Economy / 设圈约稿经济",
+    "url": "/wiki/concepts/originalcharactercommissioneconomy/"
+  },
   "OrlandBishop": {
     "title": "Orland Bishop",
     "url": "/wiki/entities/orlandbishop/"
@@ -24307,6 +24331,10 @@
     "title": "Project Glasswing",
     "url": "/wiki/entities/projectglasswing/"
   },
+  "ProjectOneForum": {
+    "title": "Project One论坛",
+    "url": "/wiki/entities/projectoneforum/"
+  },
   "ProjectPhoenix": {
     "title": "Project Phoenix",
     "url": "/wiki/entities/projectphoenix/"
@@ -24854,6 +24882,10 @@
   "RMBExchangeRatePolicy": {
     "title": "RMB Exchange Rate Policy",
     "url": "/wiki/concepts/rmbexchangeratepolicy/"
+  },
+  "RPGMaker": {
+    "title": "RPG Maker",
+    "url": "/wiki/entities/rpgmaker/"
   },
   "RVOwnershipEconomics": {
     "title": "RV Ownership Economics",
@@ -27595,6 +27627,10 @@
     "title": "60/40 Portfolio",
     "url": "/wiki/concepts/sixtyfortyportfolio/"
   },
+  "SixtySixRPG": {
+    "title": "66RPG",
+    "url": "/wiki/entities/sixtysixrpg/"
+  },
   "SizeChangeIdentity": {
     "title": "Size Change Identity",
     "url": "/wiki/concepts/sizechangeidentity/"
@@ -27606,6 +27642,10 @@
   "SkildAI": {
     "title": "Skild AI",
     "url": "/wiki/entities/skildai/"
+  },
+  "SkillBasedSideIncome": {
+    "title": "Skill-Based Side Income / 技能型副业收入",
+    "url": "/wiki/concepts/skillbasedsideincome/"
   },
   "Skimmer": {
     "title": "Skimmer",
@@ -30887,6 +30927,10 @@
     "title": "Ueno Chizuko / 上野千鹤子",
     "url": "/wiki/entities/uenochizuko/"
   },
+  "UglyFrogGame": {
+    "title": "丑蛙 / Ugly Frog game",
+    "url": "/wiki/entities/uglyfroggame/"
+  },
   "Ukraine": {
     "title": "Ukraine",
     "url": "/wiki/entities/ukraine/"
@@ -31270,6 +31314,10 @@
   "VerticalEcommerceFailureModes": {
     "title": "Vertical Ecommerce Failure Modes",
     "url": "/wiki/concepts/verticalecommercefailuremodes/"
+  },
+  "VerticalFandomCrowdfunding": {
+    "title": "Vertical Fandom Crowdfunding / 垂直圈层众筹",
+    "url": "/wiki/concepts/verticalfandomcrowdfunding/"
   },
   "VerticalGroup": {
     "title": "Vertical Group",
@@ -31702,6 +31750,10 @@
   "WangXingDoctor": {
     "title": "王兴医生 / Wang Xing",
     "url": "/wiki/entities/wangxingdoctor/"
+  },
+  "WangYiranSanlian": {
+    "title": "王依然 / Wang Yiran (Sanlian)",
+    "url": "/wiki/entities/wangyiransanlian/"
   },
   "WangYong": {
     "title": "Wang Yong",
@@ -32398,6 +32450,10 @@
   "WuJingzi": {
     "title": "吴敬梓",
     "url": "/wiki/entities/wujingzi/"
+  },
+  "WuJunIndieGameCreator": {
+    "title": "巫君 / Wu Jun (indie game creator)",
+    "url": "/wiki/entities/wujunindiegamecreator/"
   },
   "WuLiande": {
     "title": "Wu Liande / 伍连德",
@@ -34338,6 +34394,10 @@
   "ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig": {
     "title": "EP241 校企合作是新一代的“铁饭碗”吗？",
     "url": "/wiki/sources/ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig/"
+  },
+  "ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu": {
+    "title": "EP242 独立游戏，是一条搞钱好赛道吗？",
+    "url": "/wiki/sources/ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu/"
   },
   "ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg": {
     "title": "EP25 中资外资哪家强：“一劳永逸”找“钱粮”（下）",
