@@ -243,6 +243,10 @@
     "title": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe",
     "url": "/wiki/sources/134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe/"
   },
+  "134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg": {
+    "title": "134. 投资大师系列先导篇：“他们不只赚了很多钱，更创造了理解世界的方法”",
+    "url": "/wiki/sources/134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg/"
+  },
   "135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty": {
     "title": "135. 和自然选择创始人Tristan聊，Elys、赛博分身、灵魂、Context的获取与流动和AI社交网络",
     "url": "/wiki/sources/135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty/"
@@ -9871,6 +9875,10 @@
     "title": "Equity Incentive Alignment / 股权激励相容",
     "url": "/wiki/concepts/equityincentivealignment/"
   },
+  "EraTailwindInInvesting": {
+    "title": "Era Tailwind In Investing / 投资时代红利",
+    "url": "/wiki/concepts/eratailwindininvesting/"
+  },
   "ErasmusDarwin": {
     "title": "Erasmus Darwin / 伊拉斯默·达尔文",
     "url": "/wiki/entities/erasmusdarwin/"
@@ -14675,9 +14683,21 @@
     "title": "Investment Liquidity Tradeoff",
     "url": "/wiki/concepts/investmentliquiditytradeoff/"
   },
+  "InvestmentMasterNarrative": {
+    "title": "Investment Master Narrative / 投资大师叙事",
+    "url": "/wiki/concepts/investmentmasternarrative/"
+  },
+  "InvestmentMastersSeries": {
+    "title": "投资大师系列 / Investment Masters Series",
+    "url": "/wiki/entities/investmentmastersseries/"
+  },
   "InvestmentRiskManagement": {
     "title": "Investment Risk Management",
     "url": "/wiki/concepts/investmentriskmanagement/"
+  },
+  "InvestmentStyleMap": {
+    "title": "Investment Style Map / 投资流派地图",
+    "url": "/wiki/concepts/investmentstylemap/"
   },
   "InvestmentWorldviewFit": {
     "title": "Investment Worldview Fit",
@@ -14686,6 +14706,10 @@
   "InvestorEducation": {
     "title": "Investor Education",
     "url": "/wiki/concepts/investoreducation/"
+  },
+  "InvestorIdolRisk": {
+    "title": "Investor Idol Risk / 投资偶像风险",
+    "url": "/wiki/concepts/investoridolrisk/"
   },
   "InvestorReferenceChecking": {
     "title": "Investor Reference Checking",
@@ -19091,6 +19115,10 @@
     "title": "Michael Bettaney / 迈克尔·贝塔尼",
     "url": "/wiki/entities/michaelbettaney/"
   },
+  "MichaelBurry": {
+    "title": "Michael Burry",
+    "url": "/wiki/entities/michaelburry/"
+  },
   "MichaelCoppenheifer": {
     "title": "Michael Coppenheifer",
     "url": "/wiki/entities/michaelcoppenheifer/"
@@ -21707,6 +21735,10 @@
     "title": "Paul Slovic",
     "url": "/wiki/entities/paulslovic/"
   },
+  "PaulTudorJones": {
+    "title": "Paul Tudor Jones / 保罗·都铎·琼斯",
+    "url": "/wiki/entities/paultudorjones/"
+  },
   "PaulVixie": {
     "title": "Paul Vixie",
     "url": "/wiki/entities/paulvixie/"
@@ -23314,6 +23346,10 @@
   "QianTuWuLiang": {
     "title": "前途无量",
     "url": "/wiki/entities/qiantuwuliang/"
+  },
+  "QianglieTan": {
+    "title": "强烈谈 / Qianglie Tan",
+    "url": "/wiki/entities/qianglietan/"
   },
   "QianliTechnology": {
     "title": "Qianli Technology",
@@ -30307,6 +30343,10 @@
     "title": "Wendy Liu",
     "url": "/wiki/entities/wendyliu/"
   },
+  "WenliLiangkaihua": {
+    "title": "文力两开花 / Wenli Liangkaihua",
+    "url": "/wiki/entities/wenliliangkaihua/"
+  },
   "Wenxin": {
     "title": "Wenxin",
     "url": "/wiki/entities/wenxin/"
@@ -30910,6 +30950,10 @@
   "XiaoSun": {
     "title": "小孙",
     "url": "/wiki/entities/xiaosun/"
+  },
+  "XiaoXiaoPao": {
+    "title": "小小跑 / XiaoXiaoPao",
+    "url": "/wiki/entities/xiaoxiaopao/"
   },
   "XiaoZhaoLihun": {
     "title": "小赵（《离婚》） / Xiao Zhao",
@@ -31538,6 +31582,10 @@
   "Yuanyin": {
     "title": "原因",
     "url": "/wiki/entities/yuanyin/"
+  },
+  "Yubai": {
+    "title": "雨白 / Yubai",
+    "url": "/wiki/entities/yubai/"
   },
   "YueBao": {
     "title": "Yu'e Bao / 余额宝",

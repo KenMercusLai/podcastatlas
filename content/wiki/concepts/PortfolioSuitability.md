@@ -2,7 +2,7 @@
 title: "Portfolio Suitability"
 type: concept
 tags: [investing, portfolio, personal-finance, behavior]
-sources: [vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+sources: [134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
 last_updated: 2026-08-06
 ---
 
@@ -26,6 +26,8 @@ The personal side is a two-axis map. One axis asks what the investor needs: liqu
 
 [[vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v]] adds the active-public-fund company version. A fund is suitable only if the investor can understand not just the manager's past performance, but also the [[PublicMutualFundEcosystem|fund-company ecosystem]] around it: [[FundDistributionIncentives|distribution incentives]], share-class fees, [[FundRedemptionLiquidityPressure|redemption pressure]], product duplication, manager turnover, and whether holder governance is strong enough to make long-term ownership credible.
 
+[[134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg]] adds the master-copying version. A famous investor's approach may be intellectually useful and still unsuitable if the listener lacks the same professional role, research process, capital base, instrument access, or emotional endurance.
+
 ## Key Claims
 - Suitability is not a universal model portfolio; it is the match between portfolio job, investor understanding, and tolerable risk path.
 - Near-term money should not be placed in the same assets as long-term FIRE, passive-income, or intergenerational goals.
@@ -41,6 +43,7 @@ The personal side is a two-axis map. One axis asks what the investor needs: liqu
 - Vol.121 adds that product mechanics belong inside suitability: an ETF or fund can be easy to buy while still unsuitable for long-horizon capital.
 - Vol.124 adds that time structure is part of suitability: options, convertible bonds, REITs, and cash-like assets can create very different anxiety paths even when the market view is similar.
 - Vol.126 adds that active public-fund suitability includes fund-company and channel suitability: a good manager label is not enough if sales incentives, fee opacity, redemption behavior, or weak governance make the product hard to hold.
+- Episode 134 adds that suitability should be checked before imitating a master, not after the copied position starts causing stress.
 
 ## Connections
 - [[AssetAllocation]] — broader portfolio construction discipline.
@@ -56,3 +59,4 @@ The personal side is a two-axis map. One axis asks what the investor needs: liqu
 - [[LeveragedProductSuitability]], [[LeveragedETF]], [[ChineseStructuredFund]], and [[ETNCreditRisk]] — vol.121's leverage-product extension.
 - [[SleepWellPortfolioTest]], [[OptionContractMechanics]], [[ConvertibleBond]], and [[OneToOneToOneAllocation]] — vol.124's time-pressure and life-state suitability extension.
 - [[PublicMutualFundEcosystem]], [[FundDistributionIncentives]], [[FundRedemptionLiquidityPressure]], [[FundInvestorReturnGap]], and [[ContractualFundGovernanceGap]] — vol.126's active-public-fund suitability extension.
+- [[InvestmentMasterNarrative]], [[InvestmentStyleMap]], [[EraTailwindInInvesting]], and [[InvestorIdolRisk]] — episode 134's master-study and non-copyability extension.

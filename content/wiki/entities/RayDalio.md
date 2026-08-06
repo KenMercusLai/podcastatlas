@@ -2,7 +2,7 @@
 title: "Ray Dalio"
 type: entity
 tags: [person, investing, asset-management]
-sources: [vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
+sources: [134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
 last_updated: 2026-08-06
 ---
 
@@ -12,7 +12,10 @@ Ray Dalio appears in [[vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zic
 
 For the wiki, Dalio links this episode's personal-worldview argument back to the existing [[BridgewaterAssociates]] and [[RiskParity]] branch. The point is not biographical detail; it is that a portfolio method can embody a worldview about macro balance, diversification, and survivability.
 
+[[134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg]] adds Dalio as one of the [[InvestmentMastersSeries|投资大师系列]] reference figures and as an [[InvestorIdolRisk]] example. The preview treats him as analytically rich but not automatically the strongest pure-investment recommendation, which keeps his macro, debt-cycle, and life-complexity story source-scoped rather than devotional.
+
 ## Connections
 - [[BridgewaterAssociates]] — institutional reference point for risk-parity-style allocation in the wiki.
 - [[RiskParity]], [[AssetAllocation]], and [[AdaptivePortfolioDesign]] — portfolio methods adjacent to the all-weather example.
 - [[InvestmentWorldviewFit]] and [[InvestmentRiskManagement]] — source-specific reason Dalio is mentioned.
+- [[InvestmentMastersSeries]], [[InvestmentMasterNarrative]], and [[InvestorIdolRisk]] — episode 134's use of Dalio as a complex master rather than a copyable template.

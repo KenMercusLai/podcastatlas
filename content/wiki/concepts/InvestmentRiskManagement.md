@@ -3,6 +3,7 @@ title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
 sources:
+  - 134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg
   - vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v
   - vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l
   - vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx
@@ -109,6 +110,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 
 [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]] adds the real-estate role-definition version. Through [[HousingExperienceInvestmentSplit]], the episode argues that housing risk should separate daily use value from investment value, because a property asset can be non-standardized, illiquid, hard to divide, and vulnerable to leverage or supply changes even when the lived experience is real.
 
+[[134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg]] adds the famous-investor version. Risk management includes refusing to copy a master's view when one's own capital base, time horizon, instrument access, drawdown tolerance, or information process does not match the original conditions.
+
 ## Key Claims
 - Every trade has an informed or differently informed counterparty, so humility should be the starting point.
 - Even a high-probability bet can fail, which makes position sizing and diversification central.
@@ -194,6 +197,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 - Vol.121 adds that exchange-traded product access does not simplify product risk: leverage mechanics, legal wrapper, premium, reset, roll, financing, and issuer risk must be understood before position size or holding period is chosen.
 - Vol.124 adds that a portfolio can be too risky even before capital loss if information overload, expiry pressure, or position size damages sleep, judgment, and the ability to act deliberately.
 - Vol.126 adds that public-fund risk analysis should examine the fund company's ecosystem, channel incentives, share class, redemption path, and holder return gap before relying on fund-manager reputation or headline returns.
+- Episode 134 adds that a correct call by [[RayDalio]], [[MichaelBurry]], or another famous investor can still become the wrong risk for a follower with different liquidity and timing constraints.
 
 ## Connections
 - [[PublicCryptoInvestmentRisk]], [[StateCryptoReserves]], [[SeparateCryptoReserveFund]], [[SeizedDigitalAssetCustody]], and [[Bitcoin]] - state public-finance crypto branch added by Marketplace Tech.
@@ -242,3 +246,4 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[ChineseStructuredFund]], [[LeveragedETF]], [[LeveragedProductSuitability]], [[DailyLeverageReset]], [[VolatilityDecay]], [[FuturesRollCost]], [[LeveragedETNFinancingCost]], and [[ETNCreditRisk]] — vol.121's leveraged-product mechanics cluster.
 - [[InformationOverloadKnowledgeTrap]], [[MacroEventTrendDistinction]], [[OneToOneToOneAllocation]], [[ConvertibleBond]], and [[SleepWellPortfolioTest]] — vol.124's information-overload and portfolio-review extension.
 - [[PublicMutualFundEcosystem]], [[FundDistributionIncentives]], [[FundRedemptionLiquidityPressure]], [[FundInvestorReturnGap]], and [[ContractualFundGovernanceGap]] — vol.126's public-fund ecosystem risk cluster.
+- [[InvestmentMasterNarrative]], [[InvestmentStyleMap]], [[InvestorIdolRisk]], and [[PortfolioSuitability]] — episode 134's famous-investor and non-copyability cluster.

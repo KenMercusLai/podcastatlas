@@ -2,7 +2,7 @@
 title: "Investment Worldview Fit"
 type: concept
 tags: [investing, behavior, asset-allocation, self-knowledge]
-sources: [vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
+sources: [134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
 last_updated: 2026-08-06
 ---
 
@@ -12,6 +12,8 @@ Investment worldview fit is [[vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-mai
 
 The concept extends [[PortfolioSuitability]]. Suitability asks whether a portfolio fits goals, competence, liquidity, and drawdown tolerance; worldview fit asks why those boundaries exist and why a seemingly profitable strategy may still be impossible for a particular person to follow for long enough to work.
 
+[[134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg]] extends the concept from choosing one's own portfolio to studying famous investors. The preview argues that [[RayDalio]], [[JimSimons]], [[HowardMarks]], [[PeterLynch]], [[StanleyDruckenmiller]], and [[PaulTudorJones]] are useful because each embodies a way of reading the world, but their methods become dangerous when copied without matching temperament, tools, time horizon, and risk path.
+
 ## Key Claims
 - A high-performing method is not automatically transferable because the holder must live through its evidence style, drawdown path, and emotional demands.
 - Real estate, cash, leverage, short-term trading, [[Bitcoin]], and diversified portfolios each carry implicit beliefs about risk, rules, time, and opportunity.
@@ -19,6 +21,7 @@ The concept extends [[PortfolioSuitability]]. Suitability asks whether a portfol
 - Refusing an unsuitable game can be a form of [[InvestmentRiskManagement]], not a failure of ambition.
 - Worldview fit explains why the same person may be attracted to [[AdaptivePortfolioDesign]] and cash while another may prefer concentrated bets or frequent trading.
 - The concept also lowers investment anxiety: if financial-market participation worsens life and does not fit the person's goals, [[HumanCapitalInflationHedge]] and [[InvestmentForBetterLife]] may be better priorities.
+- Episode 134 adds that master biographies should be read as worldview examples before they are read as strategy templates.
 
 ## Connections
 - [[PortfolioSuitability]] — existing investor-fit frame extended by worldview and temperament.
@@ -27,3 +30,4 @@ The concept extends [[PortfolioSuitability]]. Suitability asks whether a portfol
 - [[CircleOfCompetence]] — knowledge boundary that overlaps with worldview but is not identical to it.
 - [[InvestmentRiskManagement]] — risk-control discipline when style and self-knowledge conflict.
 - [[HumanCapitalInflationHedge]] and [[InvestmentForBetterLife]] — non-market and life-quality boundaries around investing.
+- [[InvestmentMasterNarrative]], [[InvestmentStyleMap]], and [[InvestorIdolRisk]] — episode 134's famous-investor extension.

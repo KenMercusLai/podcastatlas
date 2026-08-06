@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [134. 投资大师系列先导篇：“他们不只赚了很多钱，更创造了理解世界的方法”](sources/134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg.md) — 起朱楼宴宾客 paid-series preview with 大卫翁, 小小跑, and 雨白 on investment masters as historically situated market methods, style maps, era tailwinds, worldview fit, and the risk of copying famous investors.
 - [133.全球宏观和资本市场2025年中盘点：中国的三个温差和美国的三个预期差](sources/133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc.md) — 起朱楼宴宾客 mid-year macro and capital-market review with 大卫翁 and Ricky on China temperature gaps, Hong Kong-led asset repricing, innovation drugs, RMB/rates, U.S. AI/fiscal/dollar expectation gaps, gold, cash, bonds, and private-credit tail risk.
 - [132.当过度思考的打工人遇上低欲望的时代](sources/132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo.md) — 起朱楼宴宾客 episode on Japanese workplace boundaries, rule-bound overthinking, AI usefulness anxiety, information overload, algorithmic desire preemption, defensive low desire, social-template desire, and concrete daily anchors.
 - [131.我在日本买了一套自住房](sources/131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz.md) — 起朱楼宴宾客 episode using 大卫翁's Japanese new-build condo purchase to map Yokohama location choice, presale protection, area rules, maintenance reserves, mortgage/insurance workflow, disclosure documents, holding costs, negative real estate, and housing as a maintained consumer good.
@@ -755,6 +756,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [投资大师系列 / Investment Masters Series](entities/InvestmentMastersSeries.md) — Paid cross-show podcast project framing famous investors as market-history and worldview cases rather than copyable strategy templates.
+- [小小跑 / XiaoXiaoPao](entities/XiaoXiaoPao.md) — Episode 134 speaker from 文力两开花 and 强烈谈, emphasizing market-history reconstruction, era tailwinds, style maps, and non-worship of investment masters.
+- [雨白 / Yubai](entities/Yubai.md) — 小酒馆 speaker in episode 134 who represents non-specialist listener questions and keeps the investment-master series from becoming closed financial jargon.
+- [文力两开花 / Wenli Liangkaihua](entities/WenliLiangkaihua.md) — Podcast context attached to 小小跑 in the episode 134 investment-master collaboration.
+- [强烈谈 / Qianglie Tan](entities/QianglieTan.md) — Podcast context attached to 小小跑 in the episode 134 investment-master collaboration.
+- [Paul Tudor Jones / 保罗·都铎·琼斯](entities/PaulTudorJones.md) — Trader covered by the investment-master series and used by episode 134 to place trading logic on the style map.
+- [Michael Burry](entities/MichaelBurry.md) — Famous-investor caution example in episode 134, illustrating why being directionally right may still be unholdable for followers.
 - [尤妈妈 / 猫猫](entities/YoumamaMaomao.md) — 起朱楼宴宾客 guest in episode 132, grounding Japanese workplace boundaries, indirect conflict, AI-startup exhaustion, low desire, and concrete life anchors in first-year Japan work experience.
 - [Yokohama / 横滨](entities/Yokohama.md) — Main residential city case in episode 131, chosen for daily-life fit between quieter coastal living and Tokyo-scale convenience.
 - [Mitsubishi Estate / 三菱地所](entities/MitsubishiEstate.md) — Japanese real-estate developer used by episode 131 to explain urban-core redevelopment and long-term district operation.
@@ -5192,6 +5200,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Investment Master Narrative / 投资大师叙事](concepts/InvestmentMasterNarrative.md) — Episode 134 method for reading famous investors as historically situated market, method, temperament, and worldview cases rather than secret formulas.
+- [Investment Style Map / 投资流派地图](concepts/InvestmentStyleMap.md) — Episode 134 coordinate-system frame for comparing value, quant, macro, trading, allocation, and cycle-oriented investing styles.
+- [Era Tailwind In Investing / 投资时代红利](concepts/EraTailwindInInvesting.md) — Episode 134 warning that investment masters are shaped by postwar peace, globalization, market expansion, and new instruments as well as talent.
+- [Investor Idol Risk / 投资偶像风险](concepts/InvestorIdolRisk.md) — Episode 134 risk that admiration for famous investors bypasses sizing, liquidity, competence, timing, and worldview-fit checks.
 - [Rule-Bound Overthinking / 规则化过度思考](concepts/RuleBoundOverthinking.md) — Episode 132 frame for rules, manuals, scripts, and hierarchy reducing some uncertainty while creating procedural and context-reading anxiety.
 - [Low Desire As Defensive Contraction / 低欲望防御性收缩](concepts/LowDesireDefensiveContraction.md) — Episode 132 frame for low desire as protective narrowing under high costs, weak confidence, broken effort narratives, and social-media comparison.
 - [Algorithmic Desire Preemption / 算法欲望预支](concepts/AlgorithmicDesirePreemption.md) — Episode 132 concept where algorithmic feeds predict, display, and partially consume desire before action, turning wanting into vicarious completion or fatigue.
