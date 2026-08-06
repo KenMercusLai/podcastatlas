@@ -2,11 +2,13 @@
 title: "Tourism Traffic Mismatch"
 type: concept
 tags: [tourism, retail, cities, platforms, restaurants]
-sources: [vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]
+sources: [144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]
 last_updated: 2026-08-06
 ---
 
 # Tourism Traffic Mismatch
+
+[[144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt]] adds a pre-emptive rural version through [[Mapingguan|马坪关]]. Rather than waiting for platform traffic to distort local life, [[DuanSihe|段四合]] and the episode describe a desire to avoid fast online promotion until the village's people, rules, and hosting capacity can handle visitors.
 
 Tourism traffic mismatch is the gap between where visitors are directed by platforms, landmarks, festivals, or viral recommendations and where local commercial value or resident preference actually sits. In [[vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]], a Shunde listener says tourists often queue for restaurants found through social media while locals prefer different places. The same episode gives related examples from Suzhou garden activation, Nanjing zoo-driven traffic, Wuxi's Spring Festival gala exposure, Yangzhou museum and wetland tourism, Luoyang hanfu stores, and Lijiang tourists avoiding ticketed attractions.
 
@@ -17,6 +19,7 @@ The mismatch is not always bad. Tourist traffic can create real demand for resta
 [[vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw]] adds a Japan overtourism version through [[Kyoto]] and Kamakura. Visitor flows bring cash and support local services, but concentrated routes also raise hotel prices, crowd resident spaces, and make business travel more expensive.
 
 ## Key Claims
+- Episode 144 adds that avoiding a traffic mismatch can be an intentional development choice: a village may defer online visibility until local capacity, ecology, and governance are stronger.
 - Social platforms can concentrate visitors on a small set of visible venues, even when local residents distribute demand differently.
 - Tourism demand can activate underused assets, such as gardens, museums, wetlands, animal parks, old streets, or festival sites, but the commercial spillover depends on route design, dwell time, and nearby supply.
 - Viral traffic may reward photogenic or queue-friendly businesses more than durable neighborhood utility.
@@ -26,6 +29,7 @@ The mismatch is not always bad. Tourist traffic can create real demand for resta
 - In Japan's overtourism case, the mismatch is not only between local and tourist restaurant choices; it is also between national visitor targets and neighborhood carrying capacity.
 
 ## Connections
+- [[Mapingguan|马坪关]], [[SlowRuralTourism]], [[LongTermPlaceOperation]], and [[MatsutakeCommonsManagement]] - episode 144's village-capacity and tourism-pacing branch.
 - [[CityCommercialObservation]] — broader method that surfaced the mismatch.
 - [[Xiaohongshu]] and [[OpenWebTrafficDecline]] — discovery surfaces that can redirect travel and restaurant search away from general search.
 - [[RetailSiteSelection]] — tourism flow can make a location appear stronger or weaker than local repeat demand suggests.

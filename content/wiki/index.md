@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [144.女侠段四合和她的家乡马坪关：“我们曾以为有电有路只是梦”](sources/144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt.md) — 起朱楼宴宾客 field conversation with 段四合 on 马坪关's electricity, roads, matsutake commons, village self-governance, women's organizing, parent-child reading, and slow rural tourism.
 - [不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波](sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu.md) — 不熄灯 episode linking Japan/Thailand political bargaining, crypto leverage-liquidity collapse, U.S. shutdown data risk, First Brands private-credit opacity, RWA tokenization, and 娃哈哈 succession governance.
 - [143.如何判断一段行情是回调还是结束？| 三季度投资账复盘](sources/143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz.md) — 起朱楼宴宾客 Q3 投资账 review on pullback-versus-trend-end discipline, China valuation repair, AI bubble financing structure, private-credit escalation risk, and asset-allocation behavior in a bull market.
 - [142.日本消费者为何如此痴迷“季节限定”？| 串台跨海电波](sources/142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq.md) — 起朱楼宴宾客 crossover with 跨海电波 on Japan's seasonal-limited consumer culture, regional and calendar-based scarcity, story-led premiums, channel trust, after-sales expectations, and Chinese brands entering Japan.
@@ -765,6 +766,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [段四合 / Duan Sihe](entities/DuanSihe.md) — 马坪关 homestay host and village public participant whose story anchors episode 144's rural-development branch.
+- [马坪关 / Mapingguan](entities/Mapingguan.md) — Yunnan mountain village used by episode 144 to connect infrastructure, matsutake commons, women's organizing, education, and cautious tourism.
+- [黄云武 / Huang Yunwu](entities/HuangYunwu.md) — Architect and facilitator credited in episode 144 with long-term village-facing work around 马坪关 and 沙溪.
+- [卡卡姑姑 / Kaka Gugu](entities/KakaGugu.md) — Source-scoped rural-development and reception-work organization associated with 黄云武 and 马坪关.
+- [爱娃娃亲子阅读小组 / Ai Wawa Reading Group](entities/AiWawaReadingGroup.md) — Parent-child reading project responding to school consolidation, Mandarin gaps, and village-child confidence in 马坪关.
+- [沙溪古镇 / Shaxi Ancient Town](entities/ShaxiAncientTown.md) — Yunnan heritage town used in episode 144 as nearby context for 马坪关 and 黄云武's restoration-linked work.
+- [白族 / Bai People](entities/BaiPeople.md) — Ethnic context in episode 144 for 段四合, 马坪关 language environment, and 妈妈会 women's organization.
 - [不熄灯 / Buxideng](entities/Buxideng.md) — Three-host current-events podcast context for David Weng, Yubai, and Xiaobao's cross-location discussion of politics, markets, credit, and Chinese business governance.
 - [小宝 / Xiaobao](entities/XiaobaoQizhulou.md) — 不熄灯 host connecting Japan observations, crypto liquidity mechanics, First Brands, and private-credit risk.
 - [First Brands](entities/FirstBrands.md) — U.S. auto-parts company whose bankruptcy is used by 不熄灯 E02 as a private-credit and receivables-opacity warning case.
@@ -5261,6 +5269,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Village Self-Governance / 村庄自主治理](concepts/VillageSelfGovernance.md) — Episode 144 frame for village meetings, local rules, collective decisions, and facilitator-supported deliberation in 马坪关.
+- [Matsutake Commons Management / 松茸山公共资源治理](concepts/MatsutakeCommonsManagement.md) — Resource-governance frame for 马坪关's matsutake mountain access, harvesting rules, contracts, distribution, and reserve funds.
+- [Rural Infrastructure Transition / 乡村基础设施转折](concepts/RuralInfrastructureTransition.md) — Before-and-after frame for electricity, roads, toilets, bridges, and daily rhythm in rural modernization.
+- [Slow Rural Tourism / 慢速乡村旅游](concepts/SlowRuralTourism.md) — Development stance that limits promotion and visitor flow until local people, ecology, and hosting capacity can absorb tourism.
+- [Rural Women Public Participation / 乡村女性公共参与](concepts/RuralWomenPublicParticipation.md) — Frame for women entering village public life through 妈妈会, Mandarin practice, hosting, childcare, and school advocacy.
+- [Rural Parent-Child Reading / 乡村亲子阅读](concepts/RuralParentChildReading.md) — Reading-and-confidence practice linking picture books, parents, children, volunteers, and school-consolidation pressure.
+- [妈妈会 / Mama Hui](concepts/MamaHui.md) — Bai village women's organization described in episode 144 as a ritual, social, and public-participation structure.
 - [Political Veto-Point Bargaining](concepts/PoliticalVetoPointBargaining.md) — Episode frame for Japan, Thailand, and U.S. shutdown politics where veto points turn ordinary governance into leverage.
 - [Crypto Leverage-Liquidity Cascade](concepts/CryptoLeverageLiquidityCascade.md) — Crypto crash mechanism where tariff headlines meet high leverage, market-maker retreat, thin altcoin books, and forced selling.
 - [Government Shutdown Data Blindness](concepts/GovernmentShutdownDataBlindness.md) — Shutdown risk where delayed CPI/jobs/operations data weakens Fed and market decision quality.

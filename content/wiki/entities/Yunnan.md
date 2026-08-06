@@ -2,11 +2,13 @@
 title: "Yunnan / 云南"
 type: entity
 tags: [place, china, food, ecology, tourism]
-sources: [zhongqiu-kuaile-669967741, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165]
-last_updated: 2026-07-18
+sources: [144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt, zhongqiu-kuaile-669967741, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165]
+last_updated: 2026-08-06
 ---
 
 # Yunnan / 云南
+
+[[144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt]] adds a rural-development case through [[Mapingguan|马坪关]], [[DuanSihe|段四合]], and [[ShaxiAncientTown|沙溪古镇]]. Yunnan here is not primarily food or scenery, but a setting where roads, electricity, [[MatsutakeCommonsManagement]], [[VillageSelfGovernance]], [[RuralWomenPublicParticipation]], and [[SlowRuralTourism]] meet in one mountain village.
 
 [[Yunnan|云南]] is the southwestern Chinese province that anchors [[150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165]]. In that source, it appears less as an abstract travel destination than as an ecological and cultural field: mushroom season, mountain gathering, household food safety, plant abundance, [[DaliYunnan|大理]], [[Lijiang|丽江]], [[TeaHorseRoad|茶马古道]], and [[Cangcheng|《苍城》]] all depend on local terrain and memory.
 
@@ -15,6 +17,7 @@ The episode's Yunnan is also a contrast case. Outsiders may encounter it through
 [[zhongqiu-kuaile-669967741]] adds a lighter travel-reading version. The host reminds listeners that going to Yunnan should not stop at eating and drinking, and recommends local-history reading as part of [[TravelReadingAsPlaceInquiry]].
 
 ## Key Claims
+- Episode 144 adds that Yunnan rural tourism and development can depend on local absorptive capacity, village organizations, and commons rules rather than only on landscape, food, or visitor demand.
 - Yunnan mushroom culture depends on local expertise, not only on abundant ingredients.
 - The province's plant and mountain environment makes nature an everyday presence rather than a separate leisure category.
 - [[TeaHorseRoad|茶马古道]] and local horse or mule transport keep older mobility systems visible inside literary and family memory.
@@ -22,6 +25,7 @@ The episode's Yunnan is also a contrast case. Outsiders may encounter it through
 - Yunnan travel reading can counter scenery-only consumption by foregrounding local history and regional cultural memory.
 
 ## Connections
+- [[Mapingguan|马坪关]], [[DuanSihe|段四合]], [[ShaxiAncientTown|沙溪古镇]], [[VillageSelfGovernance]], [[RuralInfrastructureTransition]], and [[SlowRuralTourism]] - rural-development branch added by 起朱楼宴宾客 episode 144.
 - [[DaliYunnan|大理]] and [[Lijiang|丽江]] - major places in the episode's Yunnan frame.
 - [[YunnanWildMushroomCulture]], [[WildMushroomFoodSafety]], and [[ForagingEthics]] - food, safety, and ecology concepts.
 - [[Cangcheng|《苍城》]] and [[PlaceBasedFiction]] - literary branch grounded in Yunnan experience.

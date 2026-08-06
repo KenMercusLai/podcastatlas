@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-06] ingest | 144.女侠段四合和她的家乡马坪关：“我们曾以为有电有路只是梦”
+
+Added source page for a 起朱楼宴宾客 field conversation with 段四合 in 马坪关 on rural infrastructure transition, matsutake commons, village self-governance, women’s public participation, parent-child reading, school advocacy, and slow rural tourism. Created pages for 段四合, 马坪关, 黄云武, 卡卡姑姑, 爱娃娃亲子阅读小组, 沙溪古镇, 白族, Village Self-Governance, Matsutake Commons Management, Rural Infrastructure Transition, Slow Rural Tourism, Rural Women Public Participation, Rural Parent-Child Reading, and 妈妈会; updated overview, index, 起朱楼宴宾客, 大卫翁, Yunnan, Matsutake, Yunnan Wild Mushroom Culture, Foraging Ethics, Tragedy of the Commons, Local Governance As Care, Place-Based Anti-Poverty Policy, Female Self-Possession, Family Reading Ecology, Childhood Reading Ecology, Long-Term Place Operation, Heritage Tourism Commercialization, and Tourism Traffic Mismatch. No direct contradiction found; source-scoped oral-history caveats are recorded for village-history details, organization background, and reported matsutake revenue.
+
 ## [2026-08-06] ingest | 134. 投资大师系列先导篇：“他们不只赚了很多钱，更创造了理解世界的方法”
 
 Added source page for a 起朱楼宴宾客 paid-series preview with 大卫翁, 小小跑, and 雨白 on 投资大师系列 as market history, style mapping, worldview training, and non-copyable biography rather than an investment course. Created pages for 投资大师系列, 小小跑, 雨白, 文力两开花, 强烈谈, Paul Tudor Jones, Michael Burry, Investment Master Narrative, Investment Style Map, Era Tailwind In Investing, and Investor Idol Risk; updated overview, index, 起朱楼宴宾客, 大卫翁, 知青小酒馆, Ray Dalio, Jim Simons, Howard Marks, Peter Lynch, Stanley Druckenmiller, Asset Allocation, Investment Worldview Fit, Portfolio Suitability, Investment Risk Management, Quantitative Investing, Value Investing, and Behavioral Investing Biases. No direct contradiction found; the source reinforces the existing suitability and worldview-fit branch by making famous investors useful as methods to understand, not accounts to imitate.
@@ -6109,6 +6113,10 @@ Added source page for a 起朱楼宴宾客 Q3 投资账 review by 大卫翁 on p
 ## [2026-08-06] ingest | 不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波
 
 Added source page for a 不熄灯 current-events episode with 大卫翁、雨白、小宝 on Japan/Thailand political bargaining, crypto leverage-liquidity collapse, U.S. shutdown data risk, First Brands private-credit opacity, RWA tokenization, and 娃哈哈 succession governance. Created pages for 不熄灯, 小宝, First Brands, 娃哈哈, 宗馥莉, 宗庆后, 红盛系, Danone, Komeito, Changpeng Zhao, Political Veto-Point Bargaining, Crypto Leverage-Liquidity Cascade, Government Shutdown Data Blindness, Private Credit Receivables Opacity, Real World Asset Tokenization Risk, Family Business Succession Opacity, and National Brand Narrative Backfire; updated overview, index, 起朱楼宴宾客, 大卫翁, 雨白, Takaichi Sanae, LDP Japan, Thailand, Japan, United States, Federal Reserve, China, Donald Trump, Private Credit Tail Risk, Cryptocurrency Market Structure, H-1B Visa Coalition Fault Line, Japanese Overtourism Tradeoff, National Goods Branding, Family Business Scaling, Stablecoins, Effective Tariff Rate Shock, Official Statistics Credibility, and Federal Funds Rate As Policy Signal. No direct contradiction found; Takaichi uncertainty is source-dated to 2025-10-14 and predates later prime-minister framing.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

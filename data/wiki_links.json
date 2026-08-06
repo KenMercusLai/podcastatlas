@@ -387,6 +387,10 @@
     "title": "144. 对杨萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式",
     "url": "/wiki/sources/144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b/"
   },
+  "144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt": {
+    "title": "144.女侠段四合和她的家乡马坪关：“我们曾以为有电有路只是梦”",
+    "url": "/wiki/sources/144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt/"
+  },
   "145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647": {
     "title": "145.嫉妒与鄙视：我该如何躲避这双向的毒箭？",
     "url": "/wiki/sources/145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647/"
@@ -2327,6 +2331,10 @@
     "title": "Agricultural Systems Reality",
     "url": "/wiki/concepts/agriculturalsystemsreality/"
   },
+  "AiWawaReadingGroup": {
+    "title": "爱娃娃亲子阅读小组 / Ai Wawa Reading Group",
+    "url": "/wiki/entities/aiwawareadinggroup/"
+  },
   "AirChina": {
     "title": "Air China / 国航",
     "url": "/wiki/entities/airchina/"
@@ -3854,6 +3862,10 @@
   "Bahrain": {
     "title": "Bahrain",
     "url": "/wiki/entities/bahrain/"
+  },
+  "BaiPeople": {
+    "title": "白族 / Bai People",
+    "url": "/wiki/entities/baipeople/"
   },
   "Baidu": {
     "title": "Baidu",
@@ -9239,6 +9251,10 @@
     "title": "《短歌是我悲伤的玩具》",
     "url": "/wiki/entities/duangeshiwobeishangdewanju/"
   },
+  "DuanSihe": {
+    "title": "段四合 / Duan Sihe",
+    "url": "/wiki/entities/duansihe/"
+  },
   "DuanXiaolou": {
     "title": "段小楼 / Duan Xiaolou",
     "url": "/wiki/entities/duanxiaolou/"
@@ -14087,6 +14103,10 @@
     "title": "黄英 / Huang Ying",
     "url": "/wiki/entities/huangying/"
   },
+  "HuangYunwu": {
+    "title": "黄云武 / Huang Yunwu",
+    "url": "/wiki/entities/huangyunwu/"
+  },
   "HuangZhang": {
     "title": "Huang Zhang",
     "url": "/wiki/entities/huangzhang/"
@@ -16343,6 +16363,10 @@
     "title": "Kaiying Network / 凯英网络",
     "url": "/wiki/entities/kaiyingnetwork/"
   },
+  "KakaGugu": {
+    "title": "卡卡姑姑 / Kaka Gugu",
+    "url": "/wiki/entities/kakagugu/"
+  },
   "Kakapo": {
     "title": "Kakapo / 宵鹦鹉",
     "url": "/wiki/entities/kakapo/"
@@ -18507,6 +18531,10 @@
     "title": "Malta Tax Loophole",
     "url": "/wiki/concepts/maltataxloophole/"
   },
+  "MamaHui": {
+    "title": "妈妈会 / Mama Hui",
+    "url": "/wiki/concepts/mamahui/"
+  },
   "MamoonHamid": {
     "title": "Mamoon Hamid",
     "url": "/wiki/entities/mamoonhamid/"
@@ -18610,6 +18638,10 @@
   "MaomiMishiBook": {
     "title": "《猫咪秘史：从史前时期到太空时代》",
     "url": "/wiki/entities/maomimishibook/"
+  },
+  "Mapingguan": {
+    "title": "马坪关 / Mapingguan",
+    "url": "/wiki/entities/mapingguan/"
   },
   "MarALago": {
     "title": "Mar-a-Lago",
@@ -18938,6 +18970,10 @@
   "Matsutake": {
     "title": "Matsutake / 松茸",
     "url": "/wiki/entities/matsutake/"
+  },
+  "MatsutakeCommonsManagement": {
+    "title": "Matsutake Commons Management / 松茸山公共资源治理",
+    "url": "/wiki/concepts/matsutakecommonsmanagement/"
   },
   "MattJacobs": {
     "title": "Matt Jacobs",
@@ -25159,6 +25195,18 @@
     "title": "Rupert Murdoch",
     "url": "/wiki/entities/rupertmurdoch/"
   },
+  "RuralInfrastructureTransition": {
+    "title": "Rural Infrastructure Transition / 乡村基础设施转折",
+    "url": "/wiki/concepts/ruralinfrastructuretransition/"
+  },
+  "RuralParentChildReading": {
+    "title": "Rural Parent-Child Reading / 乡村亲子阅读",
+    "url": "/wiki/concepts/ruralparentchildreading/"
+  },
+  "RuralWomenPublicParticipation": {
+    "title": "Rural Women Public Participation / 乡村女性公共参与",
+    "url": "/wiki/concepts/ruralwomenpublicparticipation/"
+  },
   "Russia": {
     "title": "Russia",
     "url": "/wiki/entities/russia/"
@@ -26159,6 +26207,10 @@
     "title": "Sharon Price John",
     "url": "/wiki/entities/sharonpricejohn/"
   },
+  "ShaxiAncientTown": {
+    "title": "沙溪古镇 / Shaxi Ancient Town",
+    "url": "/wiki/entities/shaxiancienttown/"
+  },
   "ShaziVisram": {
     "title": "Shazi Visram",
     "url": "/wiki/entities/shazivisram/"
@@ -26618,6 +26670,10 @@
   "SlowProductMarketFit": {
     "title": "Slow Product Market Fit",
     "url": "/wiki/concepts/slowproductmarketfit/"
+  },
+  "SlowRuralTourism": {
+    "title": "Slow Rural Tourism / 慢速乡村旅游",
+    "url": "/wiki/concepts/slowruraltourism/"
   },
   "SlownessAsModernityCritique": {
     "title": "Slowness As Modernity Critique / 作为现代性批判的慢",
@@ -30218,6 +30274,10 @@
   "VillaDiodati": {
     "title": "Villa Diodati / 迪奥达蒂别墅",
     "url": "/wiki/entities/villadiodati/"
+  },
+  "VillageSelfGovernance": {
+    "title": "Village Self-Governance / 村庄自主治理",
+    "url": "/wiki/concepts/villageselfgovernance/"
   },
   "Vipshop": {
     "title": "唯品会 / Vipshop",
