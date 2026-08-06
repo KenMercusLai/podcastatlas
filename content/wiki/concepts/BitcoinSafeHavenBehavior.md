@@ -2,11 +2,13 @@
 title: "Bitcoin Safe-Haven Behavior"
 type: concept
 tags: [bitcoin, crypto, investing, geopolitics, risk]
-sources: [129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128]
+sources: [155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128]
 last_updated: 2026-08-06
 ---
 
 # Bitcoin Safe-Haven Behavior
+
+[[155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi]] adds a gold-rally comparison. [[DavidWeng|大卫翁]] argues that the current gold move is hard to explain as simple dollar substitution if [[Bitcoin]] and other crypto assets are weak at the same time. The source also notes crypto-sector gold buying through [[Tether]], which makes crypto capital a possible buyer of gold rather than proof that Bitcoin itself is serving the safe-haven job.
 
 Bitcoin safe-haven behavior is the question of whether [[Bitcoin]] actually attracts protective demand during shocks, rather than only being described as [[DigitalGold]]. [[tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128]] grounds the concept in the Iran crisis: gold rose after news that the [[UnitedStates]] attacked [[Iran]], while Bitcoin did not show the same immediate flight-to-safety move.
 
@@ -26,6 +28,7 @@ The episode's key distinction is timing and mechanism. [[GilLuria]] says Bitcoin
 - Consumer confidence can amplify crypto demand without proving safe-haven trust.
 - State reserve laws can assume Bitcoin will be useful in fiscal stress without yet proving that assumption through actual reserve use.
 - Episode 129 adds that Bitcoin's potential network-anchor role should be separated from whether it currently behaves as a low-volatility safe haven or usable payment money.
+- Episode 155 adds that crypto capital buying gold can weaken, rather than confirm, the claim that Bitcoin itself is acting as the immediate safe haven.
 
 ## Connections
 - [[Bitcoin]] and [[DigitalGold]] - asset and narrative being tested.
@@ -36,3 +39,4 @@ The episode's key distinction is timing and mechanism. [[GilLuria]] says Bitcoin
 - [[InvestmentRiskManagement]] - risk frame for handling Bitcoin's volatility.
 - [[StateCryptoReserves]] and [[PublicCryptoInvestmentRisk]] - state-level reserve and taxpayer-risk branch added by Marketplace Tech.
 - [[MoneyAsFlow]], [[CurrencyAnchorTransition]], and [[GoldAsCurrencySpareTire]] - episode 129's monetary-network and gold-spare-tire comparison.
+- [[Tether]] and [[LiquidityDrivenVolatilityCascade]] - episode 155's crypto-sector gold-demand and flow-volatility branch.

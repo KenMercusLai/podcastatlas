@@ -2,11 +2,13 @@
 title: "Currency Anchor Transition / 货币锚转换"
 type: concept
 tags: [money, macro, currency, investing]
-sources: [129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+sources: [155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
 # Currency Anchor Transition / 货币锚转换
+
+[[155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi]] adds an ultra-long gold-pricing version. The source reads gold's rally as a partial sign that the dollar and [[USTreasury|Treasury]] anchor is being questioned, citing the comparison between the value of global above-ground gold and U.S. Treasury debt as a way to make the anchor problem visible. It still keeps the claim probabilistic: the dollar system is fragile but not near-term dead, because global finance remains built on it.
 
 Currency anchor transition / 货币锚转换 is the source's frame for moments when the unit people trust to measure and store wealth becomes contested. In [[129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb]], [[DavidWeng|大卫翁]] and [[ShiLei|时雷]] do not try to forecast one exchange rate or gold price; they ask what happens if the dollar, U.S. Treasuries, RMB, gold, Bitcoin, and digital-currency networks are all being re-priced as possible anchors.
 
@@ -21,6 +23,7 @@ The concept links macro uncertainty to asset allocation. When a dominant anchor 
 - RMB strength in this frame comes less from abstract convertibility than from the real-economy, manufacturing, payment, and wealth network behind it.
 - Digital currencies and [[Bitcoin]] are treated as possible network anchors, but the source keeps their daily-payment capacity and final institutional form unresolved.
 - Episode 133 adds that anchor transition may be a diversification process rather than a single replacement: currency baskets, gold, stablecoins, and payment systems can each absorb part of the trust shift.
+- Episode 155 adds that anchor-transition thinking can coexist with short-term gold overheat because monetary-order claims and liquidity-driven price paths operate on different horizons.
 
 ## Connections
 - [[GoldAsCurrencySpareTire]], [[GoldMonetaryAnchor]], and [[CurrencyRisk]] - main portfolio and hedge implications.
@@ -29,3 +32,4 @@ The concept links macro uncertainty to asset allocation. When a dominant anchor 
 - [[NewOrderAssetPricing]] and [[AssetAllocation]] - broader asset-pricing and portfolio branch.
 - [[MoneyIllusion]] - risk of reading nominal wealth without asking which anchor is being used.
 - [[US2025ExpectationGaps]], [[GoldAsCurrencySpareTire]], [[CurrencyCredit]], and [[RMBExchangeRatePolicy]] - mid-year dollar, gold, and RMB context added by episode 133.
+- [[CommodityTimeHorizonFramework]], [[LiquidityDrivenVolatilityCascade]], and [[CentralBankIndependence]] - episode 155's horizon, flow, and Fed-politics extension.

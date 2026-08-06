@@ -2,11 +2,13 @@
 title: "Federal Funds Rate As Policy Signal"
 type: concept
 tags: [macro, central-bank, rates, monetary-policy]
-sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, indicators-of-2025-and-what-to-watch-in-2026]
+sources: [155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, indicators-of-2025-and-what-to-watch-in-2026]
 last_updated: 2026-08-06
 ---
 
 # Federal Funds Rate As Policy Signal
+
+[[155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi]] adds a chair-succession interpretation. If [[KevinWarsh]] is viewed as hawkish, markets may initially translate that into higher-rate or tighter-liquidity expectations; if he is instead a politically flexible chair, the same rate path may later be interpreted as [[DonaldTrump]]-aligned easing. The source therefore makes the federal funds rate a signal not only of inflation and jobs, but of how markets read the chair's political independence.
 
 [[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds a practical "not QE yet" boundary. [[DavidWeng|大卫翁]] says pausing balance-sheet runoff because liquidity is tight is still far from quantitative easing; in this source, QE enters the conversation only if markets or the financial system show clearer stress.
 
@@ -31,3 +33,4 @@ The source, dated 2025-12-31, says the rate stood between 3.5% and 3.75% after t
 - [[ConsumerSentimentIndicator]] and [[KShapedConsumerSpending]] - household-facing signals affected by rates and confidence.
 - [[GovernmentShutdownDataBlindness]] and [[OfficialStatisticsCredibility]] - shutdown-related data branch added by 不熄灯 E02.
 - [[InvestmentRiskManagement]] - reason the Qizhulou/美轮美换 source separates liquidity-management signals from crisis-response signals.
+- [[KevinWarsh]], [[GoldMonetaryAnchor]], and [[LiquidityDrivenVolatilityCascade]] - episode 155's succession-triggered market interpretation branch.

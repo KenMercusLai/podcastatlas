@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [155.如何理解黄金的史诗级波动](sources/155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi.md) — 起朱楼宴宾客 addendum on gold and silver's extreme volatility, commodity time-horizon analysis, ETF and CTA flow mechanics, gold as U.S./dollar distrust vote, central-bank buying, Kevin Warsh's Fed-chair succession, Fed politicization, and allocation sizing discipline.
 - [154.四十岁感言：不做那只温水里的青蛙](sources/154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x.md) — 起朱楼宴宾客 personal reflection by 大卫翁 on leaving the People's Bank system, the 2015 market crash, finance/content career turns, platform social capital, telos crisis, midlife self-knowledge, habits, worldview, and protecting autonomy from phones, feeds, and AI answers.
 - [153.全球宏观和资本市场2026展望：大年之后，仍是大年？](sources/153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d.md) — 起朱楼宴宾客 2026 macro and capital-market outlook with Ricky on 2025's asset-management big year, China equity-real-economy divergence, central balance-sheet demand support, RMB/gold/AI/private-market risks, insurance funds, and A/H plus Hong Kong structural selection.
 - [152.关于2026年的四个猜想](sources/152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz.md) — 起朱楼宴宾客 annual-prediction episode on 2026 threshold risks: Western AI backlash, private-market bubble opacity, Chinese excess savings seeking equity/insurance outlets, and Western China narratives possibly loosening.
@@ -5246,6 +5247,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tencent](entities/Tencent.md) — Chinese internet company discussed through QQ/Yuanbao, WeChat service entry, ByteDance competition, and investments in internet-healthcare platforms.
 - [Tencent Meeting](entities/TencentMeeting.md) — Tencent collaboration product used as Vol. 164's example for decomposing SaaS into agent-recombinable video, recording, storage, and interface capabilities.
 - [Tesla](entities/Tesla.md) — EV, autonomous-driving, and battery-format comparison case across investing, FSD/Robotaxi field notes, Musk hard tech, and cylindrical-cell route dependence.
+- [Tether](entities/Tether.md) — Crypto-sector company cited by episode 155 as holding substantial gold, used as a bridge between crypto capital, digital-gold narratives, and gold demand.
 - [The Mom Test](entities/TheMomTest.md) — Startup validation book referenced as a guardrail against leading customer interviews and false demand signals.
 - [The SaaS Podcast](entities/TheSaaSPodcast.md) — SaaS interview show covering founder growth, product validation, distribution, and AI-era SaaS strategy.
 - [ThreatLocker](entities/ThreatLocker.md) — Cybersecurity SaaS company built around zero trust controls, default-deny application control, and MSP-to-enterprise distribution.
@@ -5449,6 +5451,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Payment Clearing Network / 支付清算网络](concepts/PaymentClearingNetwork.md) — Episode 129 infrastructure concept treating correspondent banking, PVP, DVP, clearing centers, and account claims as part of money's substance.
 - [Currency Anchor Transition / 货币锚转换](concepts/CurrencyAnchorTransition.md) — Episode 129 frame for periods when dollars, Treasuries, RMB, gold, Bitcoin, and digital networks compete as wealth-measurement anchors.
 - [Gold As Currency Spare Tire / 黄金备胎](concepts/GoldAsCurrencySpareTire.md) — Episode 129 version of gold as a temporary backup anchor carrying risk premium when dominant monetary networks are uncertain.
+- [Commodity Time-Horizon Framework](concepts/CommodityTimeHorizonFramework.md) — Episode 155 framework separating short-term liquidity, medium-term narrative, long-term supply-demand, and gold's ultra-long monetary-order layer.
 - [Trump Victory-Narrative Deal-Making](concepts/TrumpVictoryNarrativeDealMaking.md) — Vol.128 frame for bargaining outcomes that must be packaged as visible wins for Trump supporters.
 - [China as Trump Narrative Enemy](concepts/ChinaAsTrumpNarrativeEnemy.md) — Vol.128 explanation for why China-U.S. tariff bargaining is harder to soften than ally bargaining.
 - [Trump Supporter Interpretive Loop](concepts/TrumpSupporterInterpretiveLoop.md) — Vol.128 "特朗普心理学" frame for pro-Trump media and supporters interpreting abrupt moves as hidden deal strategy.
@@ -8617,6 +8620,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Default Deny Security](concepts/DefaultDenySecurity.md) — Cybersecurity control pattern where software or behavior is blocked unless explicitly approved.
 - [Defensive Dividend Assets](concepts/DefensiveDividendAssets.md) — Income and cash-flow-oriented equity allocation used as a defensive waiting position, while still requiring entry-price and leverage analysis.
 - [Derivative Amplified Volatility](concepts/DerivativeAmplifiedVolatility.md) — Market stress pattern where futures, options, leverage, and short covering magnify an underlying shock.
+- [Liquidity-Driven Volatility Cascade](concepts/LiquidityDrivenVolatilityCascade.md) — Cross-asset pattern where crowded inflows, model signals, leverage, and thin exit liquidity turn a headline into forced selling.
 - [Display Ergonomics](concepts/DisplayErgonomics.md) — Display-choice frame connecting monitor readability, viewing distance, content type, and TV motion perception.
 - [Designed Agency In Games](concepts/DesignedAgencyInGames.md) — Game-design claim that fun choice comes from constraints, goals, feedback, and control rather than unlimited options.
 - [Demand Harvesting](concepts/DemandHarvesting.md) — Go-to-market pattern where startups capture already expressed buyer demand instead of first creating a new category.

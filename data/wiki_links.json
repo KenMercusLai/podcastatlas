@@ -479,6 +479,10 @@
     "title": "155.美貌能当饭吃吗?想赚钱该做点啥?拮据时应避免什么行为?经济学思维有什么用？",
     "url": "/wiki/sources/155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210/"
   },
+  "155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi": {
+    "title": "155.如何理解黄金的史诗级波动",
+    "url": "/wiki/sources/155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi/"
+  },
   "156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198": {
     "title": "156.一个阿富汗女人的来信: 纸上的光，和出版背后的故事",
     "url": "/wiki/sources/156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198/"
@@ -7034,6 +7038,10 @@
   "CommodityPriceExposure": {
     "title": "Commodity Price Exposure",
     "url": "/wiki/concepts/commoditypriceexposure/"
+  },
+  "CommodityTimeHorizonFramework": {
+    "title": "Commodity Time-Horizon Framework",
+    "url": "/wiki/concepts/commoditytimehorizonframework/"
   },
   "CommonSenseMedia": {
     "title": "Common Sense Media",
@@ -17854,6 +17862,10 @@
   "LionelMessi": {
     "title": "Lionel Messi",
     "url": "/wiki/entities/lionelmessi/"
+  },
+  "LiquidityDrivenVolatilityCascade": {
+    "title": "Liquidity-Driven Volatility Cascade",
+    "url": "/wiki/concepts/liquiditydrivenvolatilitycascade/"
   },
   "LisaCook": {
     "title": "Lisa Cook",
@@ -28906,6 +28918,10 @@
   "Tesla": {
     "title": "Tesla",
     "url": "/wiki/entities/tesla/"
+  },
+  "Tether": {
+    "title": "Tether",
+    "url": "/wiki/entities/tether/"
   },
   "Texas": {
     "title": "Texas",

@@ -2,11 +2,13 @@
 title: "Central Bank Independence"
 type: concept
 tags: [macro, central-bank, governance, monetary-policy]
-sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, indicators-of-2025-and-what-to-watch-in-2026, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]
+sources: [155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, indicators-of-2025-and-what-to-watch-in-2026, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]
 last_updated: 2026-08-06
 ---
 
 # Central Bank Independence
+
+[[155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi]] adds the [[KevinWarsh]] succession interpretation from [[QizhulouYanBinke|起朱楼宴宾客]]. [[DavidWeng|大卫翁]] argues that the market's first "hawkish chair" reading may be too simple: Warsh can look independent or hawkish while still being politically flexible enough to support [[DonaldTrump]]'s lower-rate preference. The source turns Fed independence into a political-economy problem of confirmation constraints, internal Fed credibility, market confidence, and whether the chair treats policy as trend-driven negotiation rather than only data-driven analysis.
 
 [[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds a source-dated Qizhulou/美轮美换 update that combines political pressure with historical explanation. The episode links [[DonaldTrump]]'s pressure on [[JeromePowell]], the attempted removal of [[LisaCook]], and [[StephenMiran]]'s nomination to a broader account of why Congress delegates monetary policy to a technically specialized institution that can absorb unpopular rate decisions.
 
@@ -37,6 +39,7 @@ The source also shows why independence is not the same as infallibility. Greensp
 - The federal funds rate can become an independence signal when markets ask whether a cut, hold, or dissent reflects data or presidential preference.
 - Independence can weaken through succession and surrounding administrative-control channels even before a direct monetary-policy order is issued.
 - Episode 146 adds that independence is also a market-confidence signal when shutdown-disrupted data and removal or nomination controversies make rate decisions harder to interpret.
+- Episode 155 adds that a Fed chair can preserve the language of independence while weakening its substance if political bargaining and trend-driven rationales dominate the rate path.
 
 ## Connections
 - [[FederalReserve]] and [[AlanGreenspan]] - institution and source case.
@@ -49,3 +52,4 @@ The source also shows why independence is not the same as infallibility. Greensp
 - [[FederalFundsRateAsPolicySignal]], [[WaylonWong]], [[FederalReserve]], [[JeromePowell]], and [[LisaCook]] - 2026 rate-watch branch added by the indicator source.
 - [[OfficeOfManagementAndBudget]], [[DepartmentOfGovernmentEfficiency]], [[IndependentAgencyControlPressure]], and [[TrumpismInstitutionalization]] - May 2025 agency-control branch added by Qizhulou Yan Binke.
 - [[StephenMiran]], [[GovernmentShutdownDataBlindness]], and [[OfficialStatisticsCredibility]] - Qizhulou/美轮美换 extension linking appointments, data quality, and policy trust.
+- [[KevinWarsh]], [[CommodityTimeHorizonFramework]], [[FederalFundsRateAsPolicySignal]], and [[GoldMonetaryAnchor]] - episode 155's succession, market-narrative, and gold-volatility branch.

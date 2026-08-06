@@ -3,6 +3,7 @@ title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
 sources:
+  - 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi
   - 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1
   - 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz
   - 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt
@@ -55,6 +56,8 @@ last_updated: 2026-08-06
 ---
 
 # Investment Risk Management
+
+[[155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi]] adds the precious-metals cascade version. [[DavidWeng|大卫翁]] treats gold and silver's extreme moves as a warning that even assets associated with safety can become dangerous when short-term liquidity, ETF flows, CTA or programmatic selling, stop-losses, and leverage interact. The practical response is to remove leverage in high volatility, size gold by role, and avoid using a long-term monetary thesis as a short-term FOMO entry rule.
 
 [[151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]] adds the private-credit product version. [[DavidWeng|大卫翁]] argues that apparently stable yield must still be risk-managed through borrower quality, collateral verification, mark frequency, liquidity terms, [[PaymentInKindInterest|PIK]] use, bank and insurer linkages, and whether AI-infrastructure debt is moving optimism into opaque credit channels.
 

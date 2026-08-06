@@ -6193,3 +6193,11 @@ Added source page for a 起朱楼宴宾客 forty-year-old personal reflection by
 ## [2026-08-06] lint | Wiki health check
 
 Ran health before lint; health scanned 8,782 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,782 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 8,782 pages, so graph findings are advisory until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-06] ingest | 155.如何理解黄金的史诗级波动
+
+Added source page for a 起朱楼宴宾客 addendum by 大卫翁 on gold and silver's extreme volatility, commodity time-horizon analysis, ETF/CTA/leverage flow mechanics, gold as a U.S./dollar distrust vote, central-bank reserve demand, Kevin Warsh's Fed-chair succession, and allocation sizing discipline. Created pages for Commodity Time-Horizon Framework, Liquidity-Driven Volatility Cascade, and Tether; updated overview, index, 起朱楼宴宾客, 大卫翁, Gold Monetary Anchor, Gold As Currency Spare Tire, Asset Allocation, Portfolio Suitability, Investment Risk Management, Market Regime Shift, Bitcoin Safe-Haven Behavior, Currency Anchor Transition, New Order Asset Pricing, Derivative Amplified Volatility, Federal Reserve, Kevin Warsh, Central Bank Independence, Federal Funds Rate As Policy Signal, Independent Agency Control Pressure, and Donald Trump. No direct contradiction found; the source extends the gold-as-anchor branch while qualifying it with short-term volatility and horizon-mismatch risks, and adds a more skeptical source-scoped Warsh interpretation than the prior Fed-independence page.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

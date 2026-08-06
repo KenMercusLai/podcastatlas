@@ -2,11 +2,13 @@
 title: "Portfolio Suitability"
 type: concept
 tags: [investing, portfolio, personal-finance, behavior]
-sources: [145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+sources: [155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
 last_updated: 2026-08-06
 ---
 
 # Portfolio Suitability
+
+[[155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi]] adds the time-horizon mismatch version through gold. The source argues that investors should not use an ultra-long monetary-system thesis to justify short-term dip buying, and should not use a short-term volatility shock to erase a multi-year allocation thesis. Suitability therefore includes whether the holder's intended time, leverage, liquidity, and stress tolerance match the part of [[CommodityTimeHorizonFramework]] they are relying on.
 
 Portfolio suitability is the [[QizhulouYanBinke|起朱楼宴宾客]] vol.105 frame for judging whether an [[AssetAllocation]] structure fits the investor who must live with it. The episode separates suitability into two tests: whether the portfolio can adapt to the external market environment, and whether it matches the investor's own purpose, [[CircleOfCompetence]], and risk boundary.
 
@@ -53,6 +55,7 @@ The personal side is a two-axis map. One axis asks what the investor needs: liqu
 - Episode 135 adds that information diet, account separation, and willingness to ignore macro events can be part of suitability.
 - Episode 136 adds that bank wealth-management suitability starts with product job and asset mechanics: cash-management and low-volatility fixed income are different from equity, multi-asset, or "fixed income plus" products.
 - Episode 145 adds that advisory suitability should be [[GoalBasedClientProfiling|goal based]] rather than only risk-label based, because good post-purchase support depends on understanding the client's actual life and money purpose.
+- Episode 155 adds that horizon mismatch is a suitability failure: trading, annual holding, multi-year allocation, and strategic hedging need different evidence and position sizes.
 
 ## Connections
 - [[AssetAllocation]] — broader portfolio construction discipline.
@@ -72,3 +75,4 @@ The personal side is a two-axis map. One axis asks what the investor needs: liqu
 - [[OrdinaryInvestorMacroBoundary]], [[InvestmentPlanExecutionDiscipline]], and [[SleepWellPortfolioTest]] — episode 135's attention and account-separation extension.
 - [[ChineseBankWealthManagement]], [[BankWealthProductSuitability]], [[WealthManagementFundPoolRisk]], and [[InvestmentLiquidityTradeoff]] — episode 136's bank wealth-management product-fit extension.
 - [[FundInvestmentAdvisory]], [[BuySideInvestmentAdvisory]], [[GoalBasedClientProfiling]], and [[InvestmentBehaviorCoaching]] — episode 145's client-understanding and advisory-holding extension.
+- [[CommodityTimeHorizonFramework]], [[LiquidityDrivenVolatilityCascade]], and [[GoldAsCurrencySpareTire]] — episode 155's gold-volatility and horizon-fit extension.
