@@ -2,11 +2,13 @@
 title: "Central Bank Independence"
 type: concept
 tags: [macro, central-bank, governance, monetary-policy]
-sources: [vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, indicators-of-2025-and-what-to-watch-in-2026, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]
+sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, indicators-of-2025-and-what-to-watch-in-2026, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]
 last_updated: 2026-08-06
 ---
 
 # Central Bank Independence
+
+[[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds a source-dated Qizhulou/美轮美换 update that combines political pressure with historical explanation. The episode links [[DonaldTrump]]'s pressure on [[JeromePowell]], the attempted removal of [[LisaCook]], and [[StephenMiran]]'s nomination to a broader account of why Congress delegates monetary policy to a technically specialized institution that can absorb unpopular rate decisions.
 
 Central bank independence is the institutional principle that monetary-policy decisions should be protected from short-term political pressure. [[far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]] introduces the concept through [[AlanGreenspan]]'s career at the [[FederalReserve]], where the episode says he defended the Fed's autonomy while advising presidents and treasury secretaries.
 
@@ -34,6 +36,7 @@ The source also shows why independence is not the same as infallibility. Greensp
 - A credible target can help move an economy between [[MultipleEquilibria]], but the New Zealand case shows credibility can be bought through painful unemployment as well as clear communication.
 - The federal funds rate can become an independence signal when markets ask whether a cut, hold, or dissent reflects data or presidential preference.
 - Independence can weaken through succession and surrounding administrative-control channels even before a direct monetary-policy order is issued.
+- Episode 146 adds that independence is also a market-confidence signal when shutdown-disrupted data and removal or nomination controversies make rate decisions harder to interpret.
 
 ## Connections
 - [[FederalReserve]] and [[AlanGreenspan]] - institution and source case.
@@ -45,3 +48,4 @@ The source also shows why independence is not the same as infallibility. Greensp
 - [[InflationTargeting]], [[MultipleEquilibria]], [[ArthurGrimes]], [[DonBrash]], and [[ReserveBankOfNewZealand]] - expectations-coordination branch added by Planet Money.
 - [[FederalFundsRateAsPolicySignal]], [[WaylonWong]], [[FederalReserve]], [[JeromePowell]], and [[LisaCook]] - 2026 rate-watch branch added by the indicator source.
 - [[OfficeOfManagementAndBudget]], [[DepartmentOfGovernmentEfficiency]], [[IndependentAgencyControlPressure]], and [[TrumpismInstitutionalization]] - May 2025 agency-control branch added by Qizhulou Yan Binke.
+- [[StephenMiran]], [[GovernmentShutdownDataBlindness]], and [[OfficialStatisticsCredibility]] - Qizhulou/美轮美换 extension linking appointments, data quality, and policy trust.

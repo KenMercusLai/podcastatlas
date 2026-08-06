@@ -2,11 +2,13 @@
 title: "Lisa Cook"
 type: entity
 tags: [person, central-bank, law]
-sources: [indicators-of-2025-and-what-to-watch-in-2026, jerome-powell-and-the-test-of-fed-independence]
-last_updated: 2026-07-24
+sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, indicators-of-2025-and-what-to-watch-in-2026, jerome-powell-and-the-test-of-fed-independence]
+last_updated: 2026-08-06
 ---
 
 # Lisa Cook
+
+[[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds Cook to a later Qizhulou/美轮美换 discussion of [[FederalReserve]] independence. The source groups [[DonaldTrump]]'s attempted removal of Cook with pressure on [[JeromePowell]] and the nomination of [[StephenMiran]], making her case one part of a wider institutional-pressure pattern.
 
 Lisa Cook appears in [[jerome-powell-and-the-test-of-fed-independence]] as a Biden-nominated [[FederalReserve]] board member whom [[DonaldTrump]] attempted to fire for alleged mortgage fraud. The source says Cook sued, lower courts kept her on the board, and the case was before the [[SupremeCourt]].
 
@@ -17,6 +19,7 @@ Lisa Cook appears in [[jerome-powell-and-the-test-of-fed-independence]] as a Bid
 - The episode treats the litigation as potentially decisive for whether presidents can effectively remove Fed governors at will.
 - The source connects Cook's case to [[CentralBankIndependence]] because removal threats can pressure policy even before a formal rate decision.
 - The crossover source treats the case as a forward-looking institutional risk for 2026, not only as a legal dispute around one board member.
+- Episode 146 treats Cook's case as a live market-confidence issue because board removal risk can make rate decisions look politically contaminated.
 
 ## Connections
 - [[FederalReserve]] - board on which Cook served in the source.
@@ -24,3 +27,4 @@ Lisa Cook appears in [[jerome-powell-and-the-test-of-fed-independence]] as a Bid
 - [[SupremeCourt]] - institution the source says may decide the removal boundary.
 - [[ForCauseRemovalStandard]], [[ExecutivePowerPrecedent]], and [[CentralBankIndependence]] - legal and institutional concepts the case illustrates.
 - [[FederalFundsRateAsPolicySignal]] - rate-watch concept that includes the Cook litigation as a governance signal.
+- [[StephenMiran]] and [[JeromePowell]] - adjacent Fed-pressure actors in the Qizhulou/美轮美换 crossover.

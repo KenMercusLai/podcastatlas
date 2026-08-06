@@ -2,11 +2,13 @@
 title: "Affordable Care Act / 奥巴马医改"
 type: entity
 tags: [law, healthcare, insurance, united-states]
-sources: [sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209]
-last_updated: 2026-07-24
+sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209]
+last_updated: 2026-08-06
 ---
 
 # Affordable Care Act / 奥巴马医改
+
+[[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds the ACA as the immediate subsidy-conflict issue in a U.S. government shutdown discussion. The source says expiring Obamacare subsidies became a Democratic bargaining demand and a Republican messaging target, turning health-insurance affordability into [[PoliticalVetoPointBargaining]].
 
 [[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]] adds the sequel's reform-window question. The source treats the Affordable Care Act as evidence that even a major Democratic health-care reform was structurally partial, and that future reform after the [[UnitedHealthcare]] killing would still depend on [[DemocraticParty]] control, Senate procedure, and the wider [[USConstitutionalReformConstraint]].
 
@@ -22,3 +24,4 @@ The episode also uses the Affordable Care Act to discuss freedom and public inte
 - [[UnitedHealthcare]] and [[USHealthInsuranceDenialPolitics]] - private-insurance structure that persisted after reform.
 - [[HealthInsurancePlanning]] - adjacent wiki page about household coverage, distinct from this source's system-level U.S. reform problem.
 - [[DemocraticParty]], [[PoliticalDeliveryGap]], and [[USConstitutionalCrisisRisk]] - sequel branch about why reform demand may not become policy delivery.
+- [[PoliticalVetoPointBargaining]], [[GovernmentShutdownDataBlindness]], and [[DonaldTrump]] - shutdown and bargaining extension added by episode 146.

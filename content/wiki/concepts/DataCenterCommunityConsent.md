@@ -2,11 +2,13 @@
 title: "Data Center Community Consent"
 type: concept
 tags: [ai, data-centers, local-politics, governance]
-sources: [tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
+last_updated: 2026-08-06
 ---
 
 # Data Center Community Consent
+
+[[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds a jobs-and-permits version of the same consent problem. The source says AI data centers can require large local commitments of power, water, and permitting while creating fewer stable long-term jobs than residents may expect from a major facility.
 
 Data center community consent is the governance problem of whether local residents and officials have enough time, information, and leverage to decide what kind of data-center development they will accept. [[tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128]] adds the concept through [[TonyPippa]] of the [[BrookingsInstitution]], who frames backlash as partly a reaction to the speed of development and the asymmetry between large technology companies and towns that have not planned for AI-scale infrastructure.
 
@@ -24,6 +26,7 @@ Community consent also links local politics to [[AIComputeContinuity]]. AI firms
 - Industry engagement has to address process legitimacy as well as technical mitigations such as cooling systems or energy arrangements.
 - Community consent is a social-license constraint on [[MaaSInfrastructure]], [[AIComputeContinuity]], and [[AIEnergyBottleneck]].
 - The Micron case shows that consent may require enforceable commitments rather than voluntary stewardship language, especially when public benefits and local burdens are unevenly distributed.
+- Episode 146 adds that job quality and post-construction employment depth are part of consent, not only power or water mitigation.
 
 ## Connections
 - [[TonyPippa]], [[BrookingsInstitution]], [[MarketplaceTech]], and [[StephanieHughes]] - source expert and interview context.
@@ -32,3 +35,4 @@ Community consent also links local politics to [[AIComputeContinuity]]. AI firms
 - [[DataCenterIncentiveReferendum]], [[DataCenterTaxIncentives]], and [[DataCenterCostShifting]] - bargaining mechanisms and cost-allocation issues.
 - [[AIMetabolicInfrastructure]], [[AIEnergyBottleneck]], and [[AIBacklashPolitics]] - material and political AI infrastructure context.
 - [[MicronTechnology]], [[MicronClayMegaFab]], [[ClayNewYork|Clay, New York]], and [[EnforceableCommunityBenefits]] - semiconductor-fab extension added by Marketplace Tech.
+- [[DataCenterBacklash]] and [[AIEquityValuationRisk]] - AI-boom legitimacy and market-risk context added by episode 146.

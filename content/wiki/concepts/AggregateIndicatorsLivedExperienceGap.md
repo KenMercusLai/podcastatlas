@@ -2,11 +2,13 @@
 title: "Aggregate Indicators Lived Experience Gap"
 type: concept
 tags: [economics, measurement, households, trust]
-sources: [139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, indicators-of-2025-and-what-to-watch-in-2026, would-you-trust-an-economist-with-your-economy, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, 139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, indicators-of-2025-and-what-to-watch-in-2026, would-you-trust-an-economist-with-your-economy, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
 # Aggregate Indicators Lived Experience Gap
+
+[[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds a U.S. sector-and-market version through [[USEconomicExperienceSplit]]. The source argues that technology, finance, and AI infrastructure can feel strong while entry-level hiring, food prices, nonprofits, media, biotech, agriculture, and ordinary consumers feel weak, so the gap is not only between data and mood but also between different lived economies.
 
 [[139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]] adds a geopolitical version through [[MacroNarrativeMicroLifeGap]]. The source shows that national war narratives, energy-market explanations, and EU-level trade claims can be accurate or consequential while still missing the lived reality of Ukrainian workers, mixed Russian-Ukrainian families, visa holders, and renters in local European cities.
 
@@ -26,6 +28,7 @@ The episode's example is post-pandemic price pain. Even when inflation rates slo
 - The concept helps explain why [[EconomistTrustCrisis]] persists even when experts believe the official numbers are correct.
 - Consumer sentiment can become a useful companion indicator when hard data and household mood diverge.
 - Episode 133 adds that aggregate indicators can also hide industrial upgrading or substitution, not only household pain.
+- Episode 146 adds that public equity strength can itself widen the interpretive gap if index gains come from sectors many households do not work in or own meaningfully.
 
 ## Connections
 - [[MacroNarrativeMicroLifeGap]], [[Ukraine]], [[Russia]], and [[EurozoneInternalImbalance]] - geopolitical and European integration extension added by episode 139.
@@ -36,3 +39,4 @@ The episode's example is post-pandemic price pain. Even when inflation rates slo
 - [[FreeTradeDistributionalCost]] and [[PeopleVersusPlacesRecovery]] - earlier wiki cases where aggregates hid concentrated loss.
 - [[ConsumerSentimentIndicator]], [[KennyMalone]], and [[UniversityOfMichigan]] - year-end mood-indicator branch added by Planet Money.
 - [[ChinaMacroTemperatureGaps]], [[AnnualReportMacroReading]], [[TechnologyInnovationAsScaleEconomy]], and [[DigitalEconomyMeasurementGap]] - China-specific measurement branch added by episode 133.
+- [[USEconomicExperienceSplit]], [[EmployerPowerReassertion]], and [[EquityRetirementAssetBinding]] - U.S. sector, labor-power, and market-ownership branch added by episode 146.

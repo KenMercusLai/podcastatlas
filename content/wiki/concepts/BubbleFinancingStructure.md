@@ -2,11 +2,13 @@
 title: "Bubble Financing Structure"
 type: concept
 tags: [bubbles, investing, finance, ai, risk]
-sources: [143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]
+sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]
 last_updated: 2026-08-06
 ---
 
 # Bubble Financing Structure
+
+[[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds a spillover test around AI. The source separates an AI bubble that mostly breaks inside technology equities from one that reaches shadow banking, project debt, or [[PrivateCreditTailRisk]], arguing that the latter would be more dangerous for the wider financial system.
 
 Bubble financing structure is [[143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]]'s Gavekal-derived way of separating bubbles by what they finance and how they are financed. The first axis separates productive bubbles, which may leave useful infrastructure, knowledge, or capacity, from nonproductive bubbles, which mostly reprice scarce objects. The second axis separates equity-funded bubbles from debt-funded bubbles.
 
@@ -21,9 +23,11 @@ Applied to AI, [[DavidWeng|大卫翁]] says the current cycle looks more product
 - A productive bubble can still be a poor investment if the useful assets arrive too late for the current owners' required return.
 - AI's risk profile changes if capital spending moves from large-company cash flow and equity markets toward private credit, bonds, and project-level debt.
 - [[Oracle]] is a useful warning case in this source because its AI infrastructure story already raises questions around debt funding and future cloud demand.
+- Episode 146 adds that the policy and bailout question depends on spillover: a contained equity bust looks different from a financing-chain failure involving opaque credit.
 
 ## Connections
 - [[BubbleNecessaryConditions]], [[TechBubbleConditions]], and [[AIBubbleHedging]] - adjacent bubble-diagnosis and portfolio-response frames.
 - [[AIEquityValuationRisk]], [[AIInfrastructureDebtFinancing]], [[DataCenterDebtRisk]], and [[PrivateCreditTailRisk]] - AI-specific financing and valuation risks.
 - [[ProductiveBubbleSpillovers]], [[TechnologyInstallationCycle]], [[AIComputeContinuity]], and [[DataCenterDebtRisk]] - productive-infrastructure and post-bust-asset branch.
 - [[InvestmentRiskManagement]], [[PositionSizing]], and [[AssetAllocation]] - practical controls when bubble structure is visible but timing is not.
+- [[LeanVersusCleanBubblePolicy]] and [[EquityRetirementAssetBinding]] - policy-response and household-exposure extension added by episode 146.

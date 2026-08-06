@@ -23,7 +23,7 @@ This [[PlanetMoney]] episode uses [[JeromePowell]]'s final day as [[FederalReser
 - The source treats the DOJ subpoenas around Powell's testimony on a Fed construction project as the defining Powell-era pressure event.
 - [[KevinWarsh]] is identified as the incoming Trump-nominated chair; Brainard says prior Fed board service can give a new chair practical respect for the mandate.
 - [[LisaCook]]'s attempted removal and lawsuit make the undefined "for cause" standard a live test of [[ForCauseRemovalStandard]] and [[ExecutivePowerPrecedent]].
-- [[StephenMoran]]'s repeated dissents are framed as potentially healthy disagreement rather than automatic evidence that Fed independence has collapsed.
+- [[StephenMiran]]'s repeated dissents are framed as potentially healthy disagreement rather than automatic evidence that Fed independence has collapsed.
 
 ## Key Quotes
 > "for cause" - the removal standard the source says Congress left undefined in the 1913 Fed statute.
@@ -35,7 +35,7 @@ This [[PlanetMoney]] episode uses [[JeromePowell]]'s final day as [[FederalReser
 ## Connections
 - [[NPR]] and [[PlanetMoney]] - network and show context.
 - [[JeromePowell]], [[FederalReserve]], and [[CentralBankIndependence]] - central institution and episode question.
-- [[DonaldTrump]], [[LaelBrainard]], [[KevinWarsh]], [[LisaCook]], [[StephenMoran]], and [[UnitedStatesCongress]] - Powell-era pressure, succession, legal, dissent, and check-and-balance actors.
+- [[DonaldTrump]], [[LaelBrainard]], [[KevinWarsh]], [[LisaCook]], [[StephenMiran]], and [[UnitedStatesCongress]] - Powell-era pressure, succession, legal, dissent, and check-and-balance actors.
 - [[WilliamMcChesneyMartin]], [[LyndonBJohnson]], [[ArthurBurns]], [[RichardNixon]], and [[BurtonAbrams]] - historical comparison and expert framing.
 - [[InflationBias]], [[ForCauseRemovalStandard]], [[ExecutivePowerPrecedent]], [[SupremeCourt]], and [[AmericanDemocraticResilience]] - concepts the source extends beyond ordinary rate-cycle analysis.
 - [[MonetaryPolicyLag]] and [[MarketRegimeShift]] - adjacent macro frames that matter for judging Fed policy outcomes separately from institutional independence.

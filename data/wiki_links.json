@@ -411,6 +411,10 @@
     "title": "146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角",
     "url": "/wiki/sources/146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv/"
   },
+  "146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu": {
+    "title": "146.美国经济这么差，美股还能继续涨吗 | 串台《美轮美换》",
+    "url": "/wiki/sources/146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu/"
+  },
   "147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004": {
     "title": "147. 非洲神话：腋毛创世, 土狼下蛋及哪吒的另一版本",
     "url": "/wiki/sources/147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004/"
@@ -9883,6 +9887,10 @@
     "title": "Employer-Bargained Benefits",
     "url": "/wiki/concepts/employerbargainedbenefits/"
   },
+  "EmployerPowerReassertion": {
+    "title": "Employer Power Reassertion",
+    "url": "/wiki/concepts/employerpowerreassertion/"
+  },
   "EmploymentIceAgeGeneration": {
     "title": "Employment Ice Age Generation",
     "url": "/wiki/concepts/employmenticeagegeneration/"
@@ -9983,6 +9991,10 @@
     "title": "Entrepreneurship Infrastructure",
     "url": "/wiki/concepts/entrepreneurshipinfrastructure/"
   },
+  "EntryLevelAICareerLadderRisk": {
+    "title": "Entry-Level AI Career-Ladder Risk",
+    "url": "/wiki/concepts/entrylevelaicareerladderrisk/"
+  },
   "EnvelopeExpansionDeployment": {
     "title": "Envelope Expansion Deployment",
     "url": "/wiki/concepts/envelopeexpansiondeployment/"
@@ -10042,6 +10054,10 @@
   "EquityIncentiveAlignment": {
     "title": "Equity Incentive Alignment / 股权激励相容",
     "url": "/wiki/concepts/equityincentivealignment/"
+  },
+  "EquityRetirementAssetBinding": {
+    "title": "Equity Retirement Asset Binding",
+    "url": "/wiki/concepts/equityretirementassetbinding/"
   },
   "EraTailwindInInvesting": {
     "title": "Era Tailwind In Investing / 投资时代红利",
@@ -19243,6 +19259,10 @@
     "title": "美丽说 / Meilishuo",
     "url": "/wiki/entities/meilishuo/"
   },
+  "MeilunMeihuan": {
+    "title": "美轮美换 / Meilun Meihuan",
+    "url": "/wiki/entities/meilunmeihuan/"
+  },
   "Meipai": {
     "title": "Meipai / 美拍",
     "url": "/wiki/entities/meipai/"
@@ -27611,9 +27631,9 @@
     "title": "Stephen Cohen",
     "url": "/wiki/entities/stephencohen/"
   },
-  "StephenMoran": {
-    "title": "Stephen Moran",
-    "url": "/wiki/entities/stephenmoran/"
+  "StephenMiran": {
+    "title": "Stephen Miran",
+    "url": "/wiki/entities/stephenmiran/"
   },
   "StephenPace": {
     "title": "Stephen Pace",
@@ -28590,6 +28610,10 @@
   "TerryKarl": {
     "title": "Terry Karl",
     "url": "/wiki/entities/terrykarl/"
+  },
+  "TerryMeilunMeihuan": {
+    "title": "Terry / 美轮美换",
+    "url": "/wiki/entities/terrymeilunmeihuan/"
   },
   "Tesla": {
     "title": "Tesla",
@@ -29770,6 +29794,10 @@
   "USDepartmentOfLabor": {
     "title": "U.S. Department of Labor",
     "url": "/wiki/entities/usdepartmentoflabor/"
+  },
+  "USEconomicExperienceSplit": {
+    "title": "U.S. Economic Experience Split",
+    "url": "/wiki/concepts/useconomicexperiencesplit/"
   },
   "USFederalismVetoPoints": {
     "title": "U.S. Federalism Veto Points",
@@ -31498,6 +31526,10 @@
   "XiaohongshuHackathonPeakCompetition": {
     "title": "Xiaohongshu Hackathon Peak Competition",
     "url": "/wiki/entities/xiaohongshuhackathonpeakcompetition/"
+  },
+  "XiaohuaMeilunMeihuan": {
+    "title": "小华 / 美轮美换",
+    "url": "/wiki/entities/xiaohuameilunmeihuan/"
   },
   "Xiaojia": {
     "title": "小佳",

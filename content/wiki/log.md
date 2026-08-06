@@ -5701,6 +5701,10 @@ Added source page for a 蜜獾吃书 episode on 蒲松龄《聊斋志异》 as s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-06] ingest | 146.美国经济这么差，美股还能继续涨吗 | 串台《美轮美换》
+
+Added source page for a 起朱楼宴宾客 crossover with 美轮美换 on why weak U.S. economic sentiment can coexist with rising U.S. equities. Created pages for 美轮美换, Terry, 小华, U.S. Economic Experience Split, Employer Power Reassertion, Equity Retirement Asset Binding, and Entry-Level AI Career-Ladder Risk; updated overview, index, 起朱楼宴宾客, 大卫翁, Fed/data/tariff/labor/AI-market/private-credit pages, and normalized StephenMoran to StephenMiran. No direct contradiction found; the Stephen Miran spelling was treated as an entity-normalization correction.
+
 ## [2026-08-06] ingest | 139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？
 
 Added source page for a 起朱楼宴宾客 episode with 费 on Stefan Zweig's 《昨日的世界》, Belle Epoque nostalgia, European integration, classed cosmopolitan mobility, passport and language friction, digital-nomad housing pressure, eurozone imbalance, Ukraine-war micro-life, and NATO-shaped EU bargaining. Created pages for Fei, Stefan Zweig, The World of Yesterday, Romain Rolland, Austria, Vienna, Schengen Area, Erasmus Programme, Airbus, Belle Epoque, Elite Cosmopolitan Mobility, European Integration As War Prevention, Passport Mobility Inequality, European Language Friction, European Identity Class Gradient, Digital Nomad Housing Pressure, Eurozone Internal Imbalance, and Macro Narrative Micro-Life Gap; updated overview, index, 起朱楼宴宾客, 大卫翁, European Union, United Kingdom, Ukraine, Russia, European Defense Autonomy, NATO Alliance Credibility, Appeasement Logic, Digital Nomad Community Building, Aggregate Indicators Lived Experience Gap, Macro Narrative Anxiety, and Brazil. No direct contradiction found; the source qualifies Europe-as-integration optimism by showing that cosmopolitan freedom is unevenly distributed by class, passport, language, industry, and security dependence.
@@ -6125,6 +6129,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] ingest | 145.基金投顾值得信任吗？
 
 Added source page for a 起朱楼宴宾客 episode by 大卫翁 on whether Chinese fund investment advisory deserves trust after six years of pilot development. Created pages for Fund Investment Advisory, Buy-Side Investment Advisory, Investment Adviser Fiduciary Duty, Investment Behavior Coaching, Goal-Based Client Profiling, Fund Advisory Fee Transparency, Fund Recommendation Conflict Disclosure, Robo-Advisor Hybrid Service, and ETF拯救世界; updated overview, index, 起朱楼宴宾客, 大卫翁, Public Mutual Fund Ecosystem, Fund Distribution Incentives, Fund-Investor Return Gap, Portfolio Suitability, FOF Product Design, Drawdown Psychology, Financial Platform Incentives, Investor Suitability Friction, Investor Education, Trust As Business Asset, 401(k) Plan, Vanguard, Fidelity, Wealthfront, Charles Schwab, SEC, China Securities Regulatory Commission, 有知有行, and Meng Yan. No direct contradiction found; the source extends the public-fund ecosystem branch by arguing that fund advisory only repairs investor outcomes when it delivers buy-side client understanding, behavior coaching, transparent fees, and conflict disclosure rather than another product shelf.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

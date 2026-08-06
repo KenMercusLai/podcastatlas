@@ -2,11 +2,13 @@
 title: "Data Center Backlash"
 type: concept
 tags: [ai, infrastructure, local-politics]
-sources: [tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, kate-crawford-mapping-empires, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, kate-crawford-mapping-empires, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-08-06
 ---
 
 # Data Center Backlash
+
+[[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds a Qizhulou/美轮美换 version tied to AI stock-market risk. The source says data centers consume power, water, permits, and land while offering relatively few long-term local jobs after construction, making AI infrastructure politically exposed even while it supports [[USMegaCapTechRightSideTrade]] and [[AIEquityValuationRisk]].
 
 Data center backlash is local and political opposition to the physical facilities behind cloud and AI systems. [[fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]] frames U.S. data-center fights as a visible form of [[AIBacklashPolitics]]: opponents object to noise, electricity demand, large buildings, and sometimes to data centers being built anywhere at all.
 
@@ -40,6 +42,7 @@ The concept extends the wiki's AI infrastructure branch from technical continuit
 - Backlash can escalate into state-level moratoriums when lawmakers decide the largest facilities require a pause before new standards, subsidy rules, or local-benefit requirements are clarified.
 - Backlash can also become procedural: voters may require approval over public incentives even when they do not directly vote on every siting or construction decision.
 - Backlash can become a community-consent problem when towns object to the speed, asymmetry, and long-term uncertainty of data-center proposals rather than only to a single technical impact.
+- Episode 146 adds that local backlash can weaken the political legitimacy of an AI boom if communities see utility demand and siting burdens without durable employment gains.
 
 ## Connections
 - [[TonyPippa]], [[BrookingsInstitution]], [[Maine]], and [[DataCenterCommunityConsent]] - community-capacity and local-deal branch added by the April 23 Marketplace Tech episode.
@@ -55,3 +58,4 @@ The concept extends the wiki's AI infrastructure branch from technical continuit
 - [[Oracle]], [[BlueOwlCapital]], and [[DataCenterDebtRisk]] - finance-linked backlash branch added by the 2025-12-19 Marketplace Tech source.
 - [[KathyHochul]] and [[HyperscaleDataCenterMoratorium]] - New York construction-pause branch added by the July 2026 Marketplace Tech Bytes source.
 - [[PortWashingtonWisconsin|Port Washington, Wisconsin]], [[DataCenterIncentiveReferendum]], and [[DataCenterTaxIncentives]] - local referendum branch added by Marketplace Tech.
+- [[EquityRetirementAssetBinding]] and [[LeanVersusCleanBubblePolicy]] - market and policy-legitimacy extension added by episode 146.

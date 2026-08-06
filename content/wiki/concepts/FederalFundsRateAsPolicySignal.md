@@ -2,11 +2,13 @@
 title: "Federal Funds Rate As Policy Signal"
 type: concept
 tags: [macro, central-bank, rates, monetary-policy]
-sources: [bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, indicators-of-2025-and-what-to-watch-in-2026]
-last_updated: 2026-07-24
+sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, indicators-of-2025-and-what-to-watch-in-2026]
+last_updated: 2026-08-06
 ---
 
 # Federal Funds Rate As Policy Signal
+
+[[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds a practical "not QE yet" boundary. [[DavidWeng|大卫翁]] says pausing balance-sheet runoff because liquidity is tight is still far from quantitative easing; in this source, QE enters the conversation only if markets or the financial system show clearer stress.
 
 Federal funds rate as policy signal is the source's 2026 watchpoint for the [[FederalReserve]]'s benchmark rate. In [[indicators-of-2025-and-what-to-watch-in-2026]], [[WaylonWong]] says he will watch the rate because it condenses inflation, unemployment, growth, Fed dissent, chair succession, and presidential pressure into one visible number.
 
@@ -20,6 +22,7 @@ The source, dated 2025-12-31, says the rate stood between 3.5% and 3.75% after t
 - The source makes the rate a governance indicator: whether the Fed cuts, holds, or dissents matters partly because markets ask if decisions are data-driven or politically pressured.
 - The concept extends [[CentralBankIndependence]] and [[MonetaryPolicyLag]] by treating rate decisions as both policy tools and institutional trust signals.
 - [[GovernmentShutdownDataBlindness]] makes the signal noisier because a data-dependent central bank may lack the data that normally justifies its move.
+- Episode 146 adds that balance-sheet policy can be misread: stopping runoff is a liquidity-management signal, while QE would be a stronger crisis-response signal.
 
 ## Connections
 - [[WaylonWong]] - source participant selecting the indicator.
@@ -27,3 +30,4 @@ The source, dated 2025-12-31, says the rate stood between 3.5% and 3.75% after t
 - [[CentralBankIndependence]], [[InflationBias]], [[InflationTargeting]], and [[MonetaryPolicyLag]] - monetary-policy governance branch.
 - [[ConsumerSentimentIndicator]] and [[KShapedConsumerSpending]] - household-facing signals affected by rates and confidence.
 - [[GovernmentShutdownDataBlindness]] and [[OfficialStatisticsCredibility]] - shutdown-related data branch added by 不熄灯 E02.
+- [[InvestmentRiskManagement]] - reason the Qizhulou/美轮美换 source separates liquidity-management signals from crisis-response signals.

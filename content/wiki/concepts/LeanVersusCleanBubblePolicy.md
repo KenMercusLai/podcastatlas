@@ -2,11 +2,13 @@
 title: "Lean Versus Clean Bubble Policy"
 type: concept
 tags: [macroeconomics, policy, bubbles, finance]
-sources: [so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
-last_updated: 2026-07-24
+sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
+last_updated: 2026-08-06
 ---
 
 # Lean Versus Clean Bubble Policy
+
+[[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds a political-legitimacy version for a possible AI bubble. The source asks whether an AI bust that required rescue would be harder to justify than 2008 bank support or auto-sector rescue if the public sees AI firms as concentrated, rich, power-hungry, and locally thin on durable jobs.
 
 Lean versus clean bubble policy is the macro-policy debate in [[so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]]: whether policymakers should lean against a suspected bubble before it bursts or wait and clean up the damage afterward. [[GadiBarlevy|Gadi Barlevy]] uses the frame to separate bubble identification from bubble response.
 
@@ -18,6 +20,7 @@ The source stresses that policy stakes depend on transmission channels. A price 
 - Waiting to clean up can look cheaper until leverage and bank exposure turn a price correction into a financial crisis.
 - Borrowing structure matters more than the bubble label itself for macro damage.
 - AI-linked investment may be less bank-centered than housing was, but that does not eliminate spillover risk through jobs, wealth, spending, private credit, and infrastructure projects.
+- Episode 146 adds that "cleaning up" after an AI bust also has a legitimacy problem if taxpayers, workers, or local communities do not believe they shared in the upside.
 
 ## Connections
 - [[GadiBarlevy|Gadi Barlevy]] - economist explaining the debate in the source.
@@ -25,3 +28,4 @@ The source stresses that policy stakes depend on transmission channels. A price 
 - [[DataCenterDebtRisk]], [[AIComputeContinuity]], and [[DataCenterPowerBottleneck]] - AI infrastructure channels where financing and execution affect systemic risk.
 - [[AIEquityValuationRisk]], [[AIBubbleHedging]], and [[InvestmentRiskManagement]] - investor-side response to similar uncertainty.
 - [[ProductiveBubbleSpillovers]] - reason leaning too hard can have opportunity costs if some overinvestment leaves useful assets.
+- [[EquityRetirementAssetBinding]], [[DataCenterBacklash]], and [[BubbleFinancingStructure]] - retirement exposure, local legitimacy, and financing-spillover extension added by episode 146.

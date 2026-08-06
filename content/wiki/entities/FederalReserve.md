@@ -2,11 +2,13 @@
 title: "Federal Reserve"
 type: entity
 tags: [institution, central-bank, macro]
-sources: [bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, do-prediction-market-bettors-make-anything-better, indicators-of-2025-and-what-to-watch-in-2026, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]
+sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, do-prediction-market-bettors-make-anything-better, indicators-of-2025-and-what-to-watch-in-2026, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]
 last_updated: 2026-08-06
 ---
 
 # Federal Reserve
+
+[[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds a later Qizhulou/美轮美换 version of the same pressure cluster. The episode says shutdown-disrupted data leaves the Fed "driving in fog," while [[DonaldTrump]] pressure on [[JeromePowell]], the attempted removal of [[LisaCook]], and [[StephenMiran]]'s nomination make [[CentralBankIndependence]] and [[FederalFundsRateAsPolicySignal]] harder for markets to read.
 
 [[bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu]] adds a shutdown-data layer. The source argues that a U.S. government shutdown can delay CPI, employment, and operational data while the Fed is trying to decide how to balance inflation, employment, credit stress, and political pressure, making [[GovernmentShutdownDataBlindness]] part of the same branch as [[FederalFundsRateAsPolicySignal]] and [[OfficialStatisticsCredibility]].
 
@@ -54,6 +56,7 @@ The Federal Reserve appears in [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-d
 
 ## Connections
 - [[GovernmentShutdownDataBlindness]], [[OfficialStatisticsCredibility]], and [[FederalFundsRateAsPolicySignal]] - shutdown-disrupted data and rate-decision branch added by 不熄灯 E02.
+- [[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]], [[StephenMiran]], and [[USEconomicExperienceSplit]] - later U.S. economy crossover extending the data and independence branch.
 - [[BankOfJapan]] — policy divergence with Japan is central to the episode's chain of events.
 - [[MonetaryPolicyLag]] — concern that cuts may arrive after economic weakness has already accumulated.
 - [[YieldCurveInversion]] — macro signal used to discuss recession and market-risk history.
@@ -63,7 +66,7 @@ The Federal Reserve appears in [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-d
 - [[AlanGreenspan]] and [[CentralBankIndependence]] — historical Fed-leadership and institutional-autonomy context.
 - [[Project2025]], [[AdministrativeStateDismantling]], and [[GoldMonetaryAnchor]] — conservative critique and monetary-system branch added by Qizhulou Yan Binke.
 - [[OfficeOfManagementAndBudget]], [[DepartmentOfGovernmentEfficiency]], [[IndependentAgencyControlPressure]], and [[CentralBankIndependence]] — vol.128 agency-control and Fed-succession branch.
-- [[LaelBrainard]], [[WilliamMcChesneyMartin]], [[ArthurBurns]], [[BurtonAbrams]], [[KevinWarsh]], [[LisaCook]], [[StephenMoran]], [[UnitedStatesCongress]], [[InflationBias]], and [[ForCauseRemovalStandard]] - Powell-era independence branch added by Planet Money.
+- [[LaelBrainard]], [[WilliamMcChesneyMartin]], [[ArthurBurns]], [[BurtonAbrams]], [[KevinWarsh]], [[LisaCook]], [[StephenMiran]], [[UnitedStatesCongress]], [[InflationBias]], and [[ForCauseRemovalStandard]] - Powell-era independence branch added by Planet Money.
 - [[InflationTargeting]], [[ArthurGrimes]], [[DonBrash]], [[ReserveBankOfNewZealand]], and [[MultipleEquilibria]] - New Zealand origin branch for explicit inflation targets.
 - [[WaylonWong]], [[FederalFundsRateAsPolicySignal]], [[CentralBankIndependence]], and [[MonetaryPolicyLag]] - 2026 rate-watch branch added by the indicator source.
 - [[Kalshi]], [[PredictionMarketTraderAlpha]], and [[EventContractManipulationRisk]] - word-betting manipulation branch added by Planet Money.

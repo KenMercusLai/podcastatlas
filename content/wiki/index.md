@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [146.美国经济这么差，美股还能继续涨吗 | 串台《美轮美换》](sources/146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu.md) — 起朱楼宴宾客 crossover with 美轮美换 on U.S. economic sentiment, shutdown data blindness, tariff inflation, Fed independence, Big Tech-led equity gains, AI bubble spillover, private credit, and entry-level labor pressure.
 - [145.基金投顾值得信任吗？](sources/145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi.md) — 起朱楼宴宾客 episode on Chinese fund advisory, buy-side trust, behavior coaching, goal-based client profiling, advisory fees, disclosure conflicts, and U.S. fiduciary/retirement-advice comparisons.
 - [144.女侠段四合和她的家乡马坪关：“我们曾以为有电有路只是梦”](sources/144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt.md) — 起朱楼宴宾客 field conversation with 段四合 on 马坪关's electricity, roads, matsutake commons, village self-governance, women's organizing, parent-child reading, and slow rural tourism.
 - [不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波](sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu.md) — 不熄灯 episode linking Japan/Thailand political bargaining, crypto leverage-liquidity collapse, U.S. shutdown data risk, First Brands private-credit opacity, RWA tokenization, and 娃哈哈 succession governance.
@@ -767,6 +768,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [美轮美换 / Meilun Meihuan](entities/MeilunMeihuan.md) — Podcast crossover partner supplying U.S. politics and lived-economy context for episode 146.
+- [Terry / 美轮美换](entities/TerryMeilunMeihuan.md) — 美轮美换 participant grounding episode 146 in Trump-supporter, nonprofit, and everyday U.S. economic sentiment observations.
+- [小华 / 美轮美换](entities/XiaohuaMeilunMeihuan.md) — 美轮美换 participant whose consumer-price observations anchor episode 146's household inflation layer.
 - [ETF拯救世界 / ETF Zhengjiu Shijie](entities/ETFZhengjiuShijie.md) — Source-scoped investment creator reference used by episode 145 to discuss advisory-like communication, investor accompaniment, trust, and fund-recommendation conflict disclosure.
 - [段四合 / Duan Sihe](entities/DuanSihe.md) — 马坪关 homestay host and village public participant whose story anchors episode 144's rural-development branch.
 - [马坪关 / Mapingguan](entities/Mapingguan.md) — Yunnan mountain village used by episode 144 to connect infrastructure, matsutake commons, women's organizing, education, and cautious tourism.
@@ -5041,7 +5045,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Burton Abrams](entities/BurtonAbrams.md) — Economist comparing Powell with Martin and Burns while explaining inflation bias and central-bank independence.
 - [Kevin Warsh](entities/KevinWarsh.md) — Incoming Trump-nominated Fed chair in the source, used as the next leadership test for Fed independence.
 - [Lisa Cook](entities/LisaCook.md) — Fed board member whose attempted removal becomes the source's case for the undefined "for cause" standard.
-- [Stephen Moran](entities/StephenMoran.md) — Trump-nominated Fed official whose dissents are used to distinguish policy disagreement from political capture.
+- [Stephen Miran](entities/StephenMiran.md) — Trump-nominated Fed official whose dissents are used to distinguish policy disagreement from political capture.
 - [United States Congress](entities/UnitedStatesCongress.md) — Legislative guardrail in the Powell episode, tied to Fed mandate, chair confirmation, and possible clarification of for-cause removal.
 - [FocusFly / 专注飞机](entities/FocusFly.md) — Una's focus-timer app using a flight metaphor and serving as EP102's ASO case.
 - [Forward Consumer Partners](entities/ForwardConsumerPartners.md) — Investment group that acquired a controlling stake in Justin's Nut Butter and brought Justin Gold back as owner, founder, and board member.
@@ -5271,6 +5275,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [U.S. Economic Experience Split](concepts/USEconomicExperienceSplit.md) — Episode 146 frame for why tech, finance, and AI infrastructure can feel strong while workers, consumers, and weaker sectors feel stressed.
+- [Employer Power Reassertion](concepts/EmployerPowerReassertion.md) — Post-2021 shift from worker bargaining power toward employer control through layoffs, RTO, DEI rollback, and AI substitution pressure.
+- [Equity Retirement Asset Binding](concepts/EquityRetirementAssetBinding.md) — Political-economy pattern where 401(k)-style retirement exposure ties households and unions to Big Tech, AI, crypto, and broad U.S. equity performance.
+- [Entry-Level AI Career-Ladder Risk](concepts/EntryLevelAICareerLadderRisk.md) — Risk that AI automates junior search, summary, draft, and data tasks that previously trained future senior workers.
 - [Fund Investment Advisory / 基金投顾](concepts/FundInvestmentAdvisory.md) — Episode 145 frame for fund-portfolio advice, rebalancing, post-purchase accompaniment, behavior support, fee clarity, and trust.
 - [Buy-Side Investment Advisory / 买方投资顾问](concepts/BuySideInvestmentAdvisory.md) — Advisory principle that puts client goals, constraints, and long-term outcomes ahead of product-issuer or distributor incentives.
 - [Investment Adviser Fiduciary Duty / 投资顾问信义义务](concepts/InvestmentAdviserFiduciaryDuty.md) — U.S. advisory-duty comparison used by episode 145 to explain why law, disclosure, and oversight matter for client trust.

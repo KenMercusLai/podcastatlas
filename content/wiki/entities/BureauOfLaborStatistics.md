@@ -2,11 +2,13 @@
 title: "Bureau of Labor Statistics"
 type: entity
 tags: [government, statistics, labor, economics]
-sources: [would-you-trust-an-economist-with-your-economy]
-last_updated: 2026-07-24
+sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, would-you-trust-an-economist-with-your-economy]
+last_updated: 2026-08-06
 ---
 
 # Bureau of Labor Statistics
+
+[[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds a market-facing version of the BLS credibility problem. The source says shutdown disruption, staff/resource constraints, large revisions, and [[DonaldTrump]]'s firing-and-manipulation accusations make some institutional investors less willing to use official labor data without adjustment.
 
 The Bureau of Labor Statistics is the U.S. statistical agency at the center of [[would-you-trust-an-economist-with-your-economy]]'s official-data trust case. The source says President [[DonaldTrump]] accused jobs numbers of being fake or rigged, criticized a large revision, and fired the economist in charge of publishing the jobs report.
 
@@ -18,3 +20,4 @@ The episode presents BLS credibility as an institutional asset created by techni
 - [[DianeKPMGChiefEconomist]] - economist rejecting conspiracy claims about the data.
 - [[DonaldTrump]] - political actor whose accusations and firing are central to the source.
 - [[CivilServiceContinuity]] - neutral expert bureaucracy branch that the episode makes less satirical and more fragile.
+- [[GovernmentShutdownDataBlindness]] and [[FederalReserve]] - data-timeliness and policy-decision branch added by episode 146.

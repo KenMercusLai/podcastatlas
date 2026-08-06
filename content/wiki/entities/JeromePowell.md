@@ -2,11 +2,13 @@
 title: "Jerome Powell"
 type: entity
 tags: [person, central-bank, macro]
-sources: [vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, indicators-of-2025-and-what-to-watch-in-2026, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, jerome-powell-and-the-test-of-fed-independence]
+sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, indicators-of-2025-and-what-to-watch-in-2026, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, jerome-powell-and-the-test-of-fed-independence]
 last_updated: 2026-08-06
 ---
 
 # Jerome Powell
+
+[[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds Powell as the current chair in a source-dated U.S. market discussion. The episode treats [[DonaldTrump]]'s public dissatisfaction with Powell, reports of possible firing letters, and market reaction to those reports as part of a continuing [[CentralBankIndependence]] stress test rather than only a personality conflict.
 
 Jerome Powell appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]] through the episode's discussion of [[FederalReserve]] communication, nonfarm payroll data, and short-term March 2025 volatility. The speakers contrast Powell and the Fed's typically ambiguous language with [[DonaldTrump]]'s more direct policy messaging.
 
@@ -24,6 +26,7 @@ Jerome Powell appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi
 - The source treats the DOJ subpoenas as Powell's defining pressure moment because he publicly framed possible criminal charges as a consequence of rate decisions made against presidential preference.
 - The crossover source treats Powell's approaching May 2026 chair transition as part of [[FederalFundsRateAsPolicySignal]], not just as a biographical endpoint.
 - The Qizhulou vol.128 source treats Powell as a current resistance case while moving the main institutional concern to succession and [[IndependentAgencyControlPressure]].
+- Episode 146 adds shutdown-disrupted data and market reaction to removal rumors as reasons Powell's independence signal can affect both rate expectations and equity risk appetite.
 
 ## Connections
 - [[FederalReserve]] — institution Powell represents in the source.
@@ -32,4 +35,5 @@ Jerome Powell appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi
 - [[LaelBrainard]], [[BurtonAbrams]], [[WilliamMcChesneyMartin]], and [[ArthurBurns]] - Planet Money's insider, expert, and historical comparison set.
 - [[CentralBankIndependence]], [[InflationBias]], and [[ForCauseRemovalStandard]] - governance concepts extended by the Powell episode.
 - [[FederalFundsRateAsPolicySignal]], [[WaylonWong]], and [[LisaCook]] - 2026 rate-watch and Fed-removal branch added by the crossover source.
+- [[StephenMiran]] and [[GovernmentShutdownDataBlindness]] - appointment and data-visibility context added by the Qizhulou/美轮美换 crossover.
 - [[IndependentAgencyControlPressure]], [[OfficeOfManagementAndBudget]], and [[DepartmentOfGovernmentEfficiency]] - May 2025 agency-control context added by Qizhulou Yan Binke.
