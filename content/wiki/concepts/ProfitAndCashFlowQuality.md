@@ -2,11 +2,13 @@
 title: "Profit And Cash Flow Quality"
 type: concept
 tags: [finance, accounting, investing, cash-flow]
-sources: [ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, socialradarspod-brianchesky2-final]
-last_updated: 2026-07-11
+sources: [162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, socialradarspod-brianchesky2-final]
+last_updated: 2026-08-06
 ---
 
 # Profit And Cash Flow Quality
+
+[[162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust]] adds a wealth-definition and allocation version. The episode uses future cash flow as one reason wealth is not the same as money in hand: a productive asset, business, bond, or human skill becomes wealth when it can generate usable cash flow or future claims that fit the holder's life.
 
 Profit and cash-flow quality is the distinction between reported earnings and money actually collected or generated. [[ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj]] explains the gap through accrual accounting: a company can book revenue and profit before customers pay, so investors need the cash-flow statement to see whether the business can fund itself.
 
@@ -26,6 +28,7 @@ Profit and cash-flow quality is the distinction between reported earnings and mo
 - Free cash flow to equity and dividends can diverge, so investors need to ask whether cash is actually available and likely to be returned to shareholders.
 - Ecommerce growth metrics need cash-flow checks because low-margin volume can increase losses when fulfillment, subsidy, and inventory costs scale with orders.
 - A crisis reset can improve cash-flow quality if the company removes scattered initiatives, lowers fixed-cost growth, and keeps revenue tied to a focused core.
+- Episode 162 adds that cash-flow quality is part of [[WealthAsCapabilityAndRights]]: a high-status or high-price asset can fail as wealth if it cannot produce, preserve, or convert value under the holder's constraints.
 
 ## Connections
 - [[FinancialStatementAnalysis]] — broader three-statement method.
@@ -35,3 +38,4 @@ Profit and cash-flow quality is the distinction between reported earnings and mo
 - [[DividendDiscountModel]], [[DefensiveDividendAssets]], and [[ValueInvesting]] — E160's shareholder-return use case.
 - [[EcommerceSurfaceMetricsRisk]], [[EcommercePlatformFailureModes]], [[Beibei]], [[Missfresh]], [[DaLuobo]], [[Suning]], and [[Gome]] — ecommerce extension added by Banlatte episode 200.
 - [[Airbnb]], [[BrianChesky]], [[CrisisStakeholderLeadership]], and [[FounderLedFunctionalOrganization]] — post-crisis efficiency extension added by the second Chesky episode.
+- [[WealthAsCapabilityAndRights]], [[MainContradictionAllocation]], and [[ResourceNetworkRepricing]] - episode 162's wealth, bottleneck, and resource-network extension.

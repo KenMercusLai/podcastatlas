@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [162.财富的本质，以及自由的真正含义｜串台十分吸引](sources/162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust.md) — 起朱楼宴宾客 crossover with 十分吸引 on wealth as resources, capability, rights, capital conversion, cash flow, resource-network repricing, client-centered wealth management, and freedom as the gap between what one has and wants.
 - [161. 全球宏观和资本市场2026一季度复盘与展望](sources/161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm.md) — 起朱楼宴宾客 live Beijing Q1 2026 macro review with 大卫翁 and Ricky on Iran war risk, stagflation repricing, AI/private-credit finance, China data, gold, oil, A/H allocation, and cash discipline.
 - [160.如何应对中国资产牛市的“调整期”｜新书分享会成都场实录](sources/160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz.md) — 起朱楼宴宾客 live Chengdu book-sharing episode with 大卫翁 and 浩哥 on handling a China-asset bull-market pullback through long/mid/short allocation, 1:1:1 buckets, AI and war narratives, gold sizing, cash optionality, human-capital fit, and index-fund discipline.
 - [159.算法的六副面孔：它是如何从处理数据，变成定义我们是谁的](sources/159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7.md) — 起朱楼宴宾客 framework episode by 大卫翁 on Tarleton Gillespie and Kyle Chayka's algorithm sociology, covering inclusion, prediction, relevance, objectivity, practice entanglement, calculated publics, and multi-platform resistance.
@@ -782,6 +783,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Pierre Bourdieu / 皮埃尔·布迪厄](entities/PierreBourdieu.md) — Sociologist whose economic, cultural, social, and symbolic capital framework anchors episode 162's wealth-as-convertible-capital branch.
+- [Anna Sorokin / 安娜·索罗金](entities/AnnaSorokin.md) — Episode 162 case for fragile capital conversion, where performed status temporarily opens social and financial access before cash-flow and credit checks break the loop.
+- [Georg Simmel / 齐美尔](entities/GeorgSimmel.md) — Sociologist cited by episode 162 for the warning that money is a bridge toward final values rather than a final place to live.
+- [David Ricardo / 大卫·李嘉图](entities/DavidRicardo.md) — Classical economist cited by episode 162 in the move from money or metal toward real goods, rights, and wealth capacity.
+- [Irving Fisher / 欧文·费雪](entities/IrvingFisher.md) — Economist cited by episode 162 for wealth as future cash flow and recognized rights rather than only current money.
 - [Tarleton Gillespie](entities/TarletonGillespie.md) — Media scholar whose The Relevance of Algorithms supplies episode 159's six-face algorithm-sociology framework.
 - [The Relevance of Algorithms](entities/TheRelevanceOfAlgorithms.md) — Tarleton Gillespie paper used by episode 159 to frame algorithms as public relevance infrastructure.
 - [Kyle Chayka](entities/KyleChayka.md) — Writer whose Filterworld supplies episode 159's cultural examples of algorithmic flattening, travel, music, and taste.
@@ -3040,9 +3046,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ricky](entities/Ricky.md) — Finance-oriented 起朱楼宴宾客 guest whose vol.106 Dubai field report and vol.115 macro outlook cover overseas opportunity, China policy, A/H equities, bonds, and technology-market caveats.
 - [红色火箭 / Hongse Huojian](entities/HongseHuojianIndexTool.md) — Index-investing mini-program mentioned by vol.105 as a ChinaAMC-affiliated tool for observing, comparing, and selecting indices.
 - [华夏基金 / ChinaAMC](entities/ChinaAMC.md) — Fund-management company context for vol.105's opening mention of the 红色火箭 index-investing tool.
-- [时雷 / Shi Lei](entities/ShiLei.md) — 十分吸引 speaker linking money as flow, endogenous credit, payment clearing, gold as spare anchor, Bitcoin network value, and Bridgewater-style allocation references.
-- [十分吸引 / Shifen Xiyin](entities/ShifenXiyin.md) — Shi Lei's podcast and episode 129 crossover partner, connecting technical asset allocation with money, gold, Bitcoin, and currency-anchor discussion.
-- [大卫翁 / David Weng](entities/DavidWeng.md) — 起朱楼宴宾客 host connecting Hong Kong retail investing, Dubai, Japan, macro allocation, biotech, sell-side research, tariffs, and money-anchor risk.
+- [时雷 / Shi Lei](entities/ShiLei.md) — 十分吸引 speaker linking money as flow, wealth as capability and rights, capital conversion, main-contradiction allocation, gold-anchor risk, and Bridgewater-style allocation references.
+- [十分吸引 / Shifen Xiyin](entities/ShifenXiyin.md) — Shi Lei's podcast and 起朱楼 crossover partner for money/gold in episode 129 and wealth/freedom in episode 162.
+- [大卫翁 / David Weng](entities/DavidWeng.md) — 起朱楼宴宾客 host connecting Hong Kong retail investing, Dubai, Japan, macro allocation, biotech, sell-side research, tariffs, money-anchor risk, and wealth as freedom.
 - [三点下班 / San Dian Xiaban](entities/SanDianXiaban.md) — Podcast crossover partner for vol.104, represented through 浩哥's Hong Kong stock-picking and survival discussion.
 - [浩哥 / Haoge](entities/Haoge.md) — 三点下班 speaker in vol.104, contributing retail Hong Kong investing cases around early wins, illiquid losses, IPO paths, and fast stop-loss discipline.
 - [China Mobile / 中国移动](entities/ChinaMobile.md) — Hong Kong-listed telecom SOE used in vol.104 as a sanction-driven mispricing and high-dividend example.
@@ -5331,6 +5337,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Wealth As Capability And Rights / 财富作为能力与权利](concepts/WealthAsCapabilityAndRights.md) — Episode 162 definition of wealth as real resources, productive capacity, social recognition, rights, human capital, relationships, reputation, and freedom rather than money alone.
+- [Bourdieu Capital Forms / 布迪厄资本形式](concepts/BourdieuCapitalForms.md) — Episode 162 use of economic, cultural, social, and symbolic capital to explain wealth beyond financial assets.
+- [Capital Conversion Loop / 资本转换循环](concepts/CapitalConversionLoop.md) — Episode 162 pattern for how money, taste, networks, reputation, and stories convert into one another, with Anna Sorokin as a fragile negative case.
+- [Wealth Desire Gap / 财富欲望差](concepts/WealthDesireGap.md) — Episode 162 freedom formula that wealth equals what one has minus what one wants.
+- [Main Contradiction Allocation / 主要矛盾式资产配置](concepts/MainContradictionAllocation.md) — Episode 162 investment method of tracking whether money, credit, cash flow, goods, resources, or effective capacity is the current bottleneck.
+- [Resource Network Repricing / 资源网络重估](concepts/ResourceNetworkRepricing.md) — Episode 162 resource, energy, intermediate-goods, trading-company, and central-SOE repricing frame.
+- [Client-Centered Wealth Management / 以客户为中心的财富管理](concepts/ClientCenteredWealthManagement.md) — Episode 162 distinction between asset management and wealth management that starts from client life, cognition, anxiety, relationships, and freedom.
 - [Stagflation Risk Repricing / 滞胀风险重估](concepts/StagflationRiskRepricing.md) — Episode 161 frame for markets shifting from early-2026 risk appetite toward inflation, recession, liquidity, oil, and policy-path stress.
 - [Lindy Effect Asset Allocation / 林迪效应资产配置](concepts/LindyEffectAssetAllocation.md) — Episode 161 ultra-long-horizon filter for giving different evidence weight to assets and institutions that have survived many regimes.
 - [Public Relevance Algorithms / 公共相关性的算法](concepts/PublicRelevanceAlgorithms.md) — Episode 159 category for algorithms that process and certify what becomes visible, searchable, recommendable, and publicly relevant.

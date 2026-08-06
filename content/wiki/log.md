@@ -6249,3 +6249,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 162.财富的本质，以及自由的真正含义｜串台十分吸引
+
+Added source page for a 起朱楼宴宾客 crossover with 十分吸引 on wealth as real resources, productive capacity, human capital, recognized rights, Bourdieu-style capital forms, capital conversion, cash-flow and resource-network investing, client-centered wealth management, and freedom as the gap between what one has and wants. Created pages for Wealth As Capability And Rights, Bourdieu Capital Forms, Capital Conversion Loop, Wealth Desire Gap, Main Contradiction Allocation, Resource Network Repricing, Client-Centered Wealth Management, Pierre Bourdieu, Anna Sorokin, Georg Simmel, David Ricardo, and Irving Fisher; updated overview, index, 起朱楼宴宾客, 大卫翁, 十分吸引, 时雷, Adam Smith, Socrates, Money As Flow, Human Capital Inflation Hedge, Financial Freedom Vs Lifestyle Freedom, Social Comparison Pressure, Low Desire Defensive Contraction, Asset Allocation, Portfolio Suitability, Profit And Cash Flow Quality, Investment Worldview Fit, Japanese Sogo Shosha, State-Owned Enterprise Social Value, and Defensive Dividend Assets. No direct contradiction found; the source extends the prior money-as-flow branch by making money a bridge toward resources, rights, capability, and freedom rather than wealth's final form.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

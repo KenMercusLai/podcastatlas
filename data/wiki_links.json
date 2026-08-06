@@ -535,6 +535,10 @@
     "title": "161.攥着文凭失业，我怎么爬出这个陷阱",
     "url": "/wiki/sources/161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202/"
   },
+  "162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust": {
+    "title": "162.财富的本质，以及自由的真正含义｜串台十分吸引",
+    "url": "/wiki/sources/162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust/"
+  },
   "162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270": {
     "title": "162.屁书：闲聊“人间之气”！一天几次最健康？",
     "url": "/wiki/sources/162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270/"
@@ -3187,6 +3191,10 @@
     "title": "Anna Kerr",
     "url": "/wiki/entities/annakerr/"
   },
+  "AnnaSorokin": {
+    "title": "Anna Sorokin / 安娜·索罗金",
+    "url": "/wiki/entities/annasorokin/"
+  },
   "AnneBoden": {
     "title": "Anne Boden",
     "url": "/wiki/entities/anneboden/"
@@ -4899,6 +4907,10 @@
     "title": "Bottom-Up Enterprise Distribution",
     "url": "/wiki/concepts/bottomupenterprisedistribution/"
   },
+  "BourdieuCapitalForms": {
+    "title": "Bourdieu Capital Forms / 布迪厄资本形式",
+    "url": "/wiki/concepts/bourdieucapitalforms/"
+  },
   "BowieKuhn": {
     "title": "Bowie Kuhn",
     "url": "/wiki/entities/bowiekuhn/"
@@ -5530,6 +5542,10 @@
   "CapitalAccountInvestmentRestrictions": {
     "title": "Capital Account Investment Restrictions",
     "url": "/wiki/concepts/capitalaccountinvestmentrestrictions/"
+  },
+  "CapitalConversionLoop": {
+    "title": "Capital Conversion Loop / 资本转换循环",
+    "url": "/wiki/concepts/capitalconversionloop/"
   },
   "CapitalEfficientMedicalDeviceStartup": {
     "title": "Capital-Efficient Medical Device Startup",
@@ -6842,6 +6858,10 @@
   "Clico": {
     "title": "Clico",
     "url": "/wiki/entities/clico/"
+  },
+  "ClientCenteredWealthManagement": {
+    "title": "Client-Centered Wealth Management / 以客户为中心的财富管理",
+    "url": "/wiki/concepts/clientcenteredwealthmanagement/"
   },
   "ClimateAdaptation": {
     "title": "Climate Adaptation",
@@ -8470,6 +8490,10 @@
   "DavidMcRaney": {
     "title": "David McRaney / 大卫·麦克雷尼",
     "url": "/wiki/entities/davidmcraney/"
+  },
+  "DavidRicardo": {
+    "title": "David Ricardo / 大卫·李嘉图",
+    "url": "/wiki/entities/davidricardo/"
   },
   "DavidRusenko": {
     "title": "David Rusenko",
@@ -12523,6 +12547,10 @@
     "title": "Geopolitical Cycle Macro",
     "url": "/wiki/concepts/geopoliticalcyclemacro/"
   },
+  "GeorgSimmel": {
+    "title": "Georg Simmel / 齐美尔",
+    "url": "/wiki/entities/georgsimmel/"
+  },
   "GeorgWilhelmSteller": {
     "title": "Georg Wilhelm Steller / 乔治·威廉·斯特勒",
     "url": "/wiki/entities/georgwilhelmsteller/"
@@ -15334,6 +15362,10 @@
   "Ireland": {
     "title": "Ireland",
     "url": "/wiki/entities/ireland/"
+  },
+  "IrvingFisher": {
+    "title": "Irving Fisher / 欧文·费雪",
+    "url": "/wiki/entities/irvingfisher/"
   },
   "IsaacAsimov": {
     "title": "Isaac Asimov / 艾萨克·阿西莫夫",
@@ -18810,6 +18842,10 @@
   "Mailbox": {
     "title": "Mailbox",
     "url": "/wiki/entities/mailbox/"
+  },
+  "MainContradictionAllocation": {
+    "title": "Main Contradiction Allocation / 主要矛盾式资产配置",
+    "url": "/wiki/concepts/maincontradictionallocation/"
   },
   "Maine": {
     "title": "Maine",
@@ -22947,6 +22983,10 @@
     "title": "Piero Ferrari",
     "url": "/wiki/entities/pieroferrari/"
   },
+  "PierreBourdieu": {
+    "title": "Pierre Bourdieu / 皮埃尔·布迪厄",
+    "url": "/wiki/entities/pierrebourdieu/"
+  },
   "PierreLallement": {
     "title": "Pierre Lallement / 皮埃尔·拉勒芒",
     "url": "/wiki/entities/pierrelallement/"
@@ -24974,6 +25014,10 @@
   "ResourceBasedEconomicTransition": {
     "title": "Resource-Based Economic Transition",
     "url": "/wiki/concepts/resourcebasedeconomictransition/"
+  },
+  "ResourceNetworkRepricing": {
+    "title": "Resource Network Repricing / 资源网络重估",
+    "url": "/wiki/concepts/resourcenetworkrepricing/"
   },
   "RespectForEldersTradition": {
     "title": "Respect For Elders Tradition / 敬老传统",
@@ -31302,6 +31346,14 @@
   "WeakTieOpportunity": {
     "title": "Weak-Tie Opportunity",
     "url": "/wiki/concepts/weaktieopportunity/"
+  },
+  "WealthAsCapabilityAndRights": {
+    "title": "Wealth As Capability And Rights / 财富作为能力与权利",
+    "url": "/wiki/concepts/wealthascapabilityandrights/"
+  },
+  "WealthDesireGap": {
+    "title": "Wealth Desire Gap / 财富欲望差",
+    "url": "/wiki/concepts/wealthdesiregap/"
   },
   "WealthManagementFundPoolRisk": {
     "title": "Wealth-Management Fund Pool Risk / 银行理财资金池风险",

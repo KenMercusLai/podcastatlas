@@ -2,11 +2,13 @@
 title: "时雷 / Shi Lei"
 type: entity
 tags: [podcaster, investing, asset-allocation]
-sources: [129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
+sources: [162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
 last_updated: 2026-08-06
 ---
 
 # 时雷 / Shi Lei
+
+In [[162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust]], 时雷 returns as the [[ShifenXiyin|十分吸引]] speaker for the wealth follow-up to episode 129's money discussion. His role shifts from "money as credit and settlement flow" toward [[WealthAsCapabilityAndRights]], [[BourdieuCapitalForms]], [[MainContradictionAllocation]], and the final [[WealthDesireGap]] freedom formula.
 
 时雷 is the [[ShifenXiyin|十分吸引]] speaker in [[129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb]], where he develops a monetary framework around [[MoneyAsFlow]], [[EndogenousMoneyCreation]], [[PaymentClearingNetwork]], [[CurrencyAnchorTransition]], and [[GoldAsCurrencySpareTire]]. His role is to move the discussion away from "money is printed by the central bank" toward money as credit, settlement, network consensus, and a changing unit of wealth measurement.
 
@@ -16,6 +18,7 @@ The wiki should keep the distinction between his framework and the host's caveat
 
 ## Connections
 - [[ShifenXiyin|十分吸引]] — show associated with Shi Lei in the episode.
+- [[WealthAsCapabilityAndRights]], [[BourdieuCapitalForms]], [[MainContradictionAllocation]], [[ResourceNetworkRepricing]], and [[WealthDesireGap]] - wealth and freedom framework from episode 162.
 - [[MoneyAsFlow]], [[EndogenousMoneyCreation]], [[PaymentClearingNetwork]], [[CurrencyAnchorTransition]], and [[GoldAsCurrencySpareTire]] — monetary framework from the 129 crossover.
 - [[GoldMonetaryAnchor]], [[CurrencyRisk]], [[Bitcoin]], [[DigitalGold]], and [[BitcoinSafeHavenBehavior]] — asset and monetary-anchor branches he discusses.
 - [[BridgewaterAssociates]], [[RiskParity]], [[AssetAllocation]], and [[AdaptivePortfolioDesign]] — institutional allocation references from vol.105.

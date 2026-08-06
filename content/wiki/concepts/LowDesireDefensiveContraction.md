@@ -2,7 +2,7 @@
 title: "Low Desire As Defensive Contraction / 低欲望防御性收缩"
 type: concept
 tags: [desire, youth, life-design, japan, china]
-sources: [132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo]
+sources: [162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo]
 last_updated: 2026-08-06
 ---
 
@@ -14,12 +14,15 @@ The concept is defensive because it reduces exposure to disappointment. Wanting 
 
 The practical move is therefore not forcing desire back through slogans. It is separating material wants from social templates, asking which desires are actually one's own, and preserving enough physical and mental strength for desire to return in a more grounded form.
 
+[[162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust]] qualifies the concept through [[WealthDesireGap]]. Wanting less can expand felt wealth if it is chosen and clears away socially borrowed desires, but defensive numbness is not the same as freedom. The episode's standard is whether desire management leaves more time control, refusal power, and room to become oneself.
+
 ## Key Claims
 - Low desire can be a rational defense under high-cost and low-confidence conditions.
 - It becomes risky when defensive narrowing erases curiosity, relationships, body care, and future optionality.
 - The broken effort-reward narrative makes wanting feel less actionable, especially for people educated inside high-growth achievement stories.
 - Algorithmic feeds can intensify low desire by showing desirable lives as already consumed, unaffordable, or socially out of reach.
 - Low material desire can coexist with strong experiential, intellectual, relational, and spiritual desire.
+- Episode 162 adds that desire management is part of wealth only when it increases usable freedom rather than simply shrinking life under fear.
 
 ## Connections
 - [[Japan]] and [[China]] - comparative settings for the source's low-desire discussion.
@@ -27,3 +30,4 @@ The practical move is therefore not forcing desire back through slogans. It is s
 - [[AlgorithmicDesirePreemption]], [[SocialTemplateDesire]], and [[InformationOverloadKnowledgeTrap]] - desire-shaping mechanisms.
 - [[MicroHappiness]], [[ControllableLifeAnchors]], and [[RelationshipOptionality]] - practices and choices that keep agency available inside low desire.
 - [[HumanAgencyUnderAI]] - AI-era usefulness anxiety extends the same question from consumption into work value.
+- [[WealthDesireGap]], [[FinancialFreedomVsLifestyleFreedom]], and [[SocialComparisonPressure]] - episode 162's wealth-freedom extension.
