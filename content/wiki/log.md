@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-06] ingest | 157.如何带走牛市的胜利果实？
+
+Added source page for a 起朱楼宴宾客 episode by 大卫翁 on preserving bull-market gains after a profitable 2025 and positive early 2026. Created pages for Bull Market Profit Preservation, Bull Market Bezzle Trap, Gain Conversion Asset Form, John Kenneth Galbraith, The Great Crash 1929, and LeEco; updated overview and index plus related investing, gold, bubble, and show pages. No direct contradiction found; the source extends the wiki's investing branch by shifting from opportunity discovery and pullback diagnosis to exit design, anti-bezzle narrative discipline, gain conversion, and permanent-capital accumulation.
+
 ## [2026-08-06] ingest | 144.女侠段四合和她的家乡马坪关：“我们曾以为有电有路只是梦”
 
 Added source page for a 起朱楼宴宾客 field conversation with 段四合 in 马坪关 on rural infrastructure transition, matsutake commons, village self-governance, women’s public participation, parent-child reading, school advocacy, and slow rural tourism. Created pages for 段四合, 马坪关, 黄云武, 卡卡姑姑, 爱娃娃亲子阅读小组, 沙溪古镇, 白族, Village Self-Governance, Matsutake Commons Management, Rural Infrastructure Transition, Slow Rural Tourism, Rural Women Public Participation, Rural Parent-Child Reading, and 妈妈会; updated overview, index, 起朱楼宴宾客, 大卫翁, Yunnan, Matsutake, Yunnan Wild Mushroom Culture, Foraging Ethics, Tragedy of the Commons, Local Governance As Care, Place-Based Anti-Poverty Policy, Female Self-Possession, Family Reading Ecology, Childhood Reading Ecology, Long-Term Place Operation, Heritage Tourism Commercialization, and Tourism Traffic Mismatch. No direct contradiction found; source-scoped oral-history caveats are recorded for village-history details, organization background, and reported matsutake revenue.
@@ -6209,3 +6213,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran health before lint; health scanned 8,805 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,805 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 8,805 pages, so graph findings are advisory until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because no provider-qualified `LLM_MODEL` or API key is configured in the shell environment. No `wiki/lint-report.md` file was saved.

@@ -2,11 +2,13 @@
 title: "Stop-Loss Discipline"
 type: concept
 tags: [investing, trading, risk]
-sources: [ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]
-last_updated: 2026-07-07
+sources: [157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]
+last_updated: 2026-08-06
 ---
 
 # Stop-Loss Discipline
+
+[[157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]] adds a stop-profit variant. For assets already judged bubbly, [[DavidWeng|大卫翁]] treats a large fall from the high as a reason to leave and keep the gains, while warning that the rule is not a universal interpretation of every drawdown and that immediate reentry can undo the whole purpose.
 
 Stop-loss discipline is the rule-based loss-control practice emphasized in [[ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg]]. The source treats stop-losses as a way to protect capital and psychological capacity when the market has not confirmed the trader's thesis.
 
@@ -23,8 +25,10 @@ Stop-loss discipline is the rule-based loss-control practice emphasized in [[ep7
 - E153 adds that no-floating-profit trades should be reviewed quickly, while profitable trades can be held only while the trend or thesis remains intact.
 - Stop-loss rules become more important after add-on buying because the correlated exposure has increased.
 - In thin Hong Kong stocks, stop-loss rules also protect exit liquidity: waiting for certainty can mean competing with other sellers in a market with little depth.
+- Episode 157 adds that trailing exits can function as stop-profit rules when the aim is preserving bull-market gains rather than only cutting initial losses.
 
 ## Connections
+- [[BullMarketProfitPreservation]], [[MarketPullbackVsTrendEnd]], and [[PaperWealthVsCashValue]] - episode 157's gain-protection extension.
 - [[JesseLivermore]] — central teaching case for both good and failed stop-loss behavior.
 - [[TrendFollowing]] — entry and holding framework that needs explicit exits.
 - [[Pyramiding]] — adding to winners only works if losing trades are cut.

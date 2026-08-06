@@ -2,11 +2,13 @@
 title: "Drawdown Psychology"
 type: concept
 tags: [investing, psychology, risk]
-sources: [145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
+sources: [157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
 last_updated: 2026-08-06
 ---
 
 # Drawdown Psychology
+
+[[157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]] adds the giveback version. [[DavidWeng|大卫翁]] recalls that after earlier gains, buying what looked like an early post-crash bargain in January 2016 still cost about 10% of liquid assets, showing how giving back prior gains can feel like a fresh loss and trigger worse reentry behavior.
 
 Drawdown psychology is the investor-behavior constraint emphasized in [[e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]]: losses hurt not only by how deep they get, but by how long they last and how much agency they drain. The episode uses the ulcer index idea to focus on drawdown area, meaning the combined burden of depth and duration.
 
@@ -34,8 +36,10 @@ This concept connects market risk to life experience. A portfolio can look accep
 - EP268 adds that account avoidance can be a symptom of path discomfort; gram-counting and long horizons can help only if position size and funding source are already reasonable.
 - Episode 143 adds that regret after gains can be as destabilizing as fear after losses, because comparison pressure pushes investors to overtrade, abandon rebalancing, or seek perfect top-calling.
 - Episode 145 adds that drawdown support is a service capability: an advisor must have enough prior trust and client knowledge to keep volatility from becoming panic redemption.
+- Episode 157 adds that giving back prior gains can feel and behave like a fresh loss, especially when early dip-buying turns a prior win into regret.
 
 ## Connections
+- [[BullMarketProfitPreservation]], [[MarketPullbackVsTrendEnd]], and [[PaperWealthVsCashValue]] - episode 157's profit-giveback branch.
 - [[InvestmentRiskManagement]] — broader discipline for sizing, exits, hedging, and survival.
 - [[BehavioralInvestingBiases]] — loss aversion, regret, anchoring, and herding pressures that worsen drawdowns.
 - [[PaperWealthVsCashValue]] — floating gains become painful when treated as already-owned wealth.

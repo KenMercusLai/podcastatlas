@@ -2,11 +2,13 @@
 title: "Option Contract Mechanics"
 type: concept
 tags: [investing, options, derivatives]
-sources: [vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]
+sources: [157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]
 last_updated: 2026-08-06
 ---
 
 # Option Contract Mechanics
+
+[[157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]] adds a small-budget speculative-hedge example. [[DavidWeng|大卫翁]] uses [[Gemini]] to explore U.S. option structures for an AI-related stress scenario, but caps the maximum loss below about 1% of liquid assets and treats his own inexperience as part of the risk analysis.
 
 Option contract mechanics are the basic rights-and-obligations structure behind calls and puts. [[ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p]] explains the idea through World Cup ticket rights: a call option resembles paying a premium for the right to buy later at an agreed price, while a put option resembles paying for protection against a later price drop.
 
@@ -24,8 +26,10 @@ The key distinction is buyer versus seller. The buyer pays [[OptionPremiumPricin
 - Understanding rights, obligations, strike price, expiration, and contract size matters before discussing strategy.
 - E43 adds that option mechanics become materially harder when the goal is portfolio-level [[Antifragility]] rather than a single payoff diagram.
 - Vol.124 adds that expiration is not only a pricing variable; it can change behavior, sleep, and willingness to hold through uncertainty.
+- Episode 157 adds that bounded premium loss does not make options broadly suitable; sizing, expiry, and user competence decide whether the structure is risk management or speculation.
 
 ## Connections
+- [[Gemini]], [[AIBubbleHedging]], [[AsymmetricPayoff]], and [[BullMarketProfitPreservation]] - episode 157's small-loss options example.
 - [[OptionPremiumPricing]] — what the buyer pays and what the seller receives for the contract.
 - [[OptionSellingDiscipline]] — practical seller-side constraint once the obligation is accepted.
 - [[ProtectiveCollarStrategy]] — combined call/put structure built from these mechanics.

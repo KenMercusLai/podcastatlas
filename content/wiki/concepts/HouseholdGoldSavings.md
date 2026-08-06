@@ -2,11 +2,13 @@
 title: "Household Gold Savings"
 type: concept
 tags: [gold, household-finance, savings, culture, investing]
-sources: [ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
-last_updated: 2026-07-24
+sources: [157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
+last_updated: 2026-08-06
 ---
 
 # Household Gold Savings
+
+[[157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]] adds the profit-conversion version. After gold contributes meaningfully to a portfolio, [[DavidWeng|大卫翁]] treats physical gold and accumulated gold as ways to make part of the gain harder to churn back into the same market cycle.
 
 Household gold savings is the frame added by [[ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]] for gold as a family-scale store of value rather than only a macro hedge or trading instrument. The episode treats gold as children's lucky money, wedding and birth gifts, gold beans, jewelry, family memory, and a visible gram-counted reserve.
 
@@ -21,8 +23,10 @@ The source also makes gold culturally flexible. Gold can feel conservative becau
 - Jewelry and small physical gold can offer touch and identity, but premiums and resale friction mean they should not be treated as identical to liquid gold exposure.
 - The household safety story can still fail if position size is too large, the entry is crowded, or the buyer uses debt.
 - Social encouragement around "课金" can support persistence, but it can also blur the boundary between disciplined saving and consumption-led buying.
+- Episode 157 adds that household-scale gold can be a gain-preservation form when the point is to reduce trading temptation rather than maximize liquidity.
 
 ## Connections
+- [[GainConversionAssetForm]] and [[BullMarketProfitPreservation]] - episode 157's gain-preservation branch.
 - [[GoldMonetaryAnchor]] - macro version of gold as trust anchor.
 - [[OnlineGoldAccumulation]] and [[AntFortune]] - platform route that turns household gold into recurring small purchases.
 - [[AssetAllocation]], [[PortfolioSuitability]], and [[InvestmentRiskManagement]] - portfolio discipline required before household gold gets a size.

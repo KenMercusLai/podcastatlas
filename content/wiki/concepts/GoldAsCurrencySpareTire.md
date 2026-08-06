@@ -2,11 +2,13 @@
 title: "Gold As Currency Spare Tire / 黄金备胎"
 type: concept
 tags: [gold, money, macro, investing]
-sources: [155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+sources: [157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
 # Gold As Currency Spare Tire / 黄金备胎
+
+[[157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]] adds the gain-preservation version. After a profitable gold run, [[DavidWeng|大卫翁]] lowers total gold exposure to about 6% while considering whether part of the gain should move into physical bars or accumulated gold, separating target weight from asset form.
 
 [[155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi]] adds the post-rally stress test. [[DavidWeng|大卫翁]] reads gold's surge as a distrust vote against U.S. policy and dollar/Treasury credibility, but he also says short-term liquidity, ETF inflows, momentum, and leverage can make the spare tire skid. In allocation terms, the source turns the spare-tire idea into rebalancing discipline: gold can remain a hedge while its target weight moves from overweight toward standard weight after a crowded move.
 
@@ -29,9 +31,11 @@ The source is explicit that this is not a permanent faith claim. Gold has no cas
 - Episode 133 adds that gold can be preferred as uncertainty insurance even when the dollar is not expected to be replaced quickly.
 - Episode 135 adds that the spare-tire role should be translated into target weight and rebalancing rather than momentum chasing.
 - Episode 155 adds that a crowded gold rally can turn the spare-tire asset into a flow-sensitive volatility asset in the short term.
+- Episode 157 adds that preserving gold gains can include changing the form of exposure, not only lowering the portfolio percentage.
 
 ## Connections
 - [[GoldMonetaryAnchor]] - broader gold-as-monetary-trust frame.
+- [[GainConversionAssetForm]] and [[HouseholdGoldSavings]] - episode 157's physical and accumulated-gold conversion frame.
 - [[CommodityTimeHorizonFramework]] and [[LiquidityDrivenVolatilityCascade]] - episode 155's horizon and volatility mechanics.
 - [[CurrencyAnchorTransition]] and [[CurrencyRisk]] - anchor-change and wealth-measurement context.
 - [[USTreasury]], [[FederalReserve]], and [[CentralBankIndependence]] - dollar, rates, and sovereign-credit context.

@@ -495,6 +495,10 @@
     "title": "157.吹牛大王历险记：叔本华、扒马褂和超级英雄",
     "url": "/wiki/sources/157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703/"
   },
+  "157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2": {
+    "title": "157.如何带走牛市的胜利果实？",
+    "url": "/wiki/sources/157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2/"
+  },
   "158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122": {
     "title": "158.全员名侦探：推理薯片来一包！",
     "url": "/wiki/sources/158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122/"
@@ -5094,6 +5098,14 @@
   "BulkBookBuying": {
     "title": "Bulk Book Buying",
     "url": "/wiki/concepts/bulkbookbuying/"
+  },
+  "BullMarketBezzleTrap": {
+    "title": "Bull Market Bezzle Trap / 牛市叙事欺诈",
+    "url": "/wiki/concepts/bullmarketbezzletrap/"
+  },
+  "BullMarketProfitPreservation": {
+    "title": "Bull Market Profit Preservation / 牛市胜利果实保留",
+    "url": "/wiki/concepts/bullmarketprofitpreservation/"
   },
   "Bump": {
     "title": "Bump",
@@ -12151,6 +12163,10 @@
     "title": "盖德",
     "url": "/wiki/entities/gaide/"
   },
+  "GainConversionAssetForm": {
+    "title": "Gain Conversion Asset Form / 收益固化资产形态",
+    "url": "/wiki/concepts/gainconversionassetform/"
+  },
   "GaiusCassiusLonginus": {
     "title": "Gaius Cassius Longinus / 卡西乌斯",
     "url": "/wiki/entities/gaiuscassiuslonginus/"
@@ -16235,6 +16251,10 @@
     "title": "John Kemp Starley / 约翰·坎普·斯塔利",
     "url": "/wiki/entities/johnkempstarley/"
   },
+  "JohnKennethGalbraith": {
+    "title": "John Kenneth Galbraith",
+    "url": "/wiki/entities/johnkennethgalbraith/"
+  },
   "JohnLocke": {
     "title": "John Locke / 约翰·洛克",
     "url": "/wiki/entities/johnlocke/"
@@ -17394,6 +17414,10 @@
   "LazyBearSports": {
     "title": "懒熊体育 / LazyBear Sports",
     "url": "/wiki/entities/lazybearsports/"
+  },
+  "LeEco": {
+    "title": "LeEco / 乐视",
+    "url": "/wiki/entities/leeco/"
   },
   "LeSports": {
     "title": "乐视体育 / LeSports",
@@ -29098,6 +29122,10 @@
   "TheGoldenBough": {
     "title": "《金枝》 / The Golden Bough",
     "url": "/wiki/entities/thegoldenbough/"
+  },
+  "TheGreatCrash1929": {
+    "title": "The Great Crash 1929 / 《1929年大崩盘》",
+    "url": "/wiki/entities/thegreatcrash1929/"
   },
   "TheGreenPlanet": {
     "title": "《绿色星球》",

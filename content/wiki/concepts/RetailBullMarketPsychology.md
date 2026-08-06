@@ -2,11 +2,13 @@
 title: "Retail Bull Market Psychology"
 type: concept
 tags: [investing, psychology, markets, behavior]
-sources: [vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
+sources: [157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
 last_updated: 2026-08-06
 ---
 
 # Retail Bull Market Psychology
+
+[[157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]] adds the experienced-investor failure mode. Beginners may lose by chasing highs, but older investors can also give back gains by treating the first bear-market decline as an obvious bargain and returning to the battlefield too soon.
 
 Retail bull market psychology is the behavior pattern in [[ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2]] where ordinary investors are pulled into equities by visible gains, social proof, work-income comparison, and the repeated belief that the current cycle will avoid the previous cycle's ending. The episode uses family memories, early stock-certificate stories, fund-chasing, a Taiwanese client's late entry, and a barber's repeated market participation to show how similar emotions recur across decades.
 
@@ -29,8 +31,10 @@ The concept is narrower than [[RetailInvestorCrowding]]. Retail crowding describ
 - [[AShareValuationIndicators]] can cool down euphoria, but only if the investor accepts that indicators guide sizing rather than promise a precise top.
 - When skeptics capitulate or ordinary social circles start repeating the same trade, the signal is not proof of a top but evidence that [[SpeculativeBubblePsychology]] is becoming broad.
 - Vol.121 adds that leverage products can intensify bull-market psychology because amplified gains make ordinary market beta feel dull.
+- Episode 157 adds that experienced investors may give back gains by treating early bear-market falls as bargains too soon.
 
 ## Connections
+- [[BullMarketProfitPreservation]] and [[BullMarketBezzleTrap]] - episode 157's profit-preservation and narrative-trap extension.
 - [[RetailInvestorCrowding]] — market-level result of this behavior when many ordinary investors enter together.
 - [[SpeculativeBubblePsychology]] — broader narrative-and-crowd frame.
 - [[InvestmentRiskManagement]] — discipline needed to counter the behavior.

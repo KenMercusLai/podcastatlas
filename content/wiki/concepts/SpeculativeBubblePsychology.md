@@ -2,13 +2,15 @@
 title: "Speculative Bubble Psychology"
 type: concept
 tags: [investing, markets, psychology]
-sources: [ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
-last_updated: 2026-07-24
+sources: [157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
+last_updated: 2026-08-06
 ---
 
 # Speculative Bubble Psychology
 
 Speculative bubble psychology is the pattern in [[ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg]] where a real technology or industry story becomes mixed with leverage, crowd participation, price extrapolation, and claims that "this time is different." The episode links railroad and automobile-era enthusiasm to modern AI-market excitement. [[ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2]] adds the A-share version: policy support, bull-market memories, ordinary-worker stories, and financing tools can make investors believe that a fast rally is safer than it is. [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]] adds the political identity version through [[PoliticalMemeStock]], where loyalty and symbolism can support prices that operating results do not explain.
+
+[[157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]] adds the [[JohnKennethGalbraith]] bezzle layer through [[BullMarketBezzleTrap]]. The episode argues that a theme can be real while the specific company, new listing, or cycle stock still embeds a dream that has not yet earned cash flow, durability, or exit liquidity.
 
 [[jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf]] adds the embodied-intelligence startup version. [[ZhangYi]] says financing bubbles can pull talent and capital into [[EmbodiedAI]], but companies such as [[WeilaiBuyuan]] still have to survive the cycle with [[HomeServiceRobots]] that produce durable household use, data, and business-model evidence.
 
@@ -36,8 +38,10 @@ Speculative bubble psychology is the pattern in [[ep76-chuanyue-1940-wo-yu-gupia
 - A full bubble checklist should trigger [[InvestmentRiskManagement]] rather than a prediction that the market must immediately crash.
 - Information arriving through broad social circles can be a late-cycle signal because core investors may have already positioned before the public narrative becomes obvious.
 - New technologies are especially bubble-prone because genuine uncertainty makes extreme upside stories hard to falsify in real time.
+- Episode 157 adds that bezzle-like conditions do not require a fake industry thesis; a real theme can still support false certainty about company outcomes.
 
 ## Connections
+- [[BullMarketBezzleTrap]], [[JohnKennethGalbraith]], [[TheGreatCrash1929]], [[LeEco]], and [[BaofengYingyin]] - episode 157's bull-market dream-narrative extension.
 - [[JesseLivermore]] — historical persona used to connect 1907, 1929, and modern AI markets.
 - [[AIEquityValuationRisk]] and [[AIIPOValuation]] — technology-versus-price frames already present in the wiki.
 - [[MarketMeanReversion]] and [[MarketRegimeShift]] — ways speculative pricing can break or reprice.

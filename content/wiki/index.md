@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [157.如何带走牛市的胜利果实？](sources/157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2.md) — 起朱楼宴宾客 episode on preserving bull-market gains through bezzle/narrative skepticism, 20%-style exit discipline, avoiding early bear-market dip-buying, gold sizing, gain conversion into physical/cash-flow assets, and permanent-capital accumulation.
 - [156.生物医药的2026：当市场不再为BD躁动，中国药企的星辰大海才刚刚展开](sources/156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup.md) — 起朱楼宴宾客 2026 biopharma outlook on record 2025 China innovation-drug BD, MNC patent cliffs, platform-level deals, PFS/OS data validation, Innovent-Takeda co-development, TCE/CAR-T pressure, GLP-1 competition, RDCs, small nucleic acid drugs, and payment-policy support.
 - [155.如何理解黄金的史诗级波动](sources/155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi.md) — 起朱楼宴宾客 addendum on gold and silver's extreme volatility, commodity time-horizon analysis, ETF and CTA flow mechanics, gold as U.S./dollar distrust vote, central-bank buying, Kevin Warsh's Fed-chair succession, Fed politicization, and allocation sizing discipline.
 - [154.四十岁感言：不做那只温水里的青蛙](sources/154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x.md) — 起朱楼宴宾客 personal reflection by 大卫翁 on leaving the People's Bank system, the 2015 market crash, finance/content career turns, platform social capital, telos crisis, midlife self-knowledge, habits, worldview, and protecting autonomy from phones, feeds, and AI answers.
@@ -777,6 +778,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [John Kenneth Galbraith](entities/JohnKennethGalbraith.md) — Economist-author whose bezzle vocabulary is used by episode 157 to frame bull-market dream-wealth traps.
+- [The Great Crash 1929 / 《1929年大崩盘》](entities/TheGreatCrash1929.md) — Galbraith book referenced by episode 157 for the bezzle idea behind bull-market narrative caution.
+- [LeEco / 乐视](entities/LeEco.md) — Chinese internet-video and ecosystem-story company used by episode 157 as a bull-market narrative cautionary case.
 - [The Second Mountain / 第二座山](entities/TheSecondMountain.md) — Book used by episode 154 for the telos-crisis frame behind a successful but purpose-depleted finance career.
 - [严飞 / Yan Fei](entities/YanFei.md) — Professor whose autonomy vocabulary helps episode 154 name the loss of agency under phones, feeds, and AI answers.
 - [王婉 / Wang Wan](entities/WangWan.md) — Author of 《跑外卖：一个女骑手的世界》, used by episode 154 for a concrete image of stepping outside life's conveyor belt.
@@ -5316,6 +5320,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Bull Market Profit Preservation / 牛市胜利果实保留](concepts/BullMarketProfitPreservation.md) — Episode 157 framework for keeping bull-market gains through narrative skepticism, pre-set exits, reentry restraint, and durable-capital conversion.
+- [Bull Market Bezzle Trap / 牛市叙事欺诈](concepts/BullMarketBezzleTrap.md) — Episode 157 use of Galbraith's bezzle idea for late-cycle dream narratives that make investors treat untested future wealth as already owned.
+- [Gain Conversion Asset Form / 收益固化资产形态](concepts/GainConversionAssetForm.md) — Episode 157 concept for protecting floating profit by converting part of it into physical, cash-flow, or otherwise more holdable assets.
 - [Career Exit Friction / 职业退出摩擦](concepts/CareerExitFriction.md) — Episode 154 frame for why income, title, institution, and external admiration can trap a person in a no-longer-fit career.
 - [Finance Platform Social Capital / 金融平台社会资本](concepts/FinancePlatformSocialCapital.md) — Episode 154 claim that strong early finance platforms compound through reputation, referrals, mentors, and client context while also creating political and exit risks.
 - [Telos Crisis / 目的危机](concepts/TelosCrisis.md) — Purpose-collapse state used by episode 154 to explain why a successful role can still feel empty.

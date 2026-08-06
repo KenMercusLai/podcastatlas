@@ -3,6 +3,7 @@ title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
 sources:
+  - 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2
   - 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi
   - 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1
   - 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz
@@ -56,6 +57,8 @@ last_updated: 2026-08-06
 ---
 
 # Investment Risk Management
+
+[[157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]] adds the bull-market profit-preservation version. After a strong year, [[DavidWeng|大卫翁]] treats risk management as narrative skepticism, pre-set exit rules, no-immediate-reentry discipline, conversion of gains into more holdable assets, and very small budgets for unfamiliar option structures.
 
 [[155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi]] adds the precious-metals cascade version. [[DavidWeng|大卫翁]] treats gold and silver's extreme moves as a warning that even assets associated with safety can become dangerous when short-term liquidity, ETF flows, CTA or programmatic selling, stop-losses, and leverage interact. The practical response is to remove leverage in high volatility, size gold by role, and avoid using a long-term monetary thesis as a short-term FOMO entry rule.
 
@@ -205,6 +208,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 - Pension-account risk management should evaluate whether the investor can hold direct [[PassiveInvesting|index beta]] or needs FOF and [[TargetDateFund|target-date]] discipline to stay aligned with retirement goals.
 - Vol.110 adds that style mismatch is itself a risk: borrowed conviction from an influencer, famous manager, or friend can fail when the investor cannot emotionally or philosophically hold the method.
 - Vol.119 adds that borrowed conviction from a public sell-side report is also a risk: the report may be late, compliance-filtered, incentive-shaped, or missing the private client context behind the analyst's sharper view.
+- Episode 157 adds that protecting gains is itself a risk-management task: a profitable position can still become unsuitable if its story, liquidity, or reentry temptation can return gains faster than the investor can convert them into durable capital.
 - EP268 adds that gold risk management begins with purpose, size, and funding source: the same gold purchase can be a long-term reserve, a gift, a monthly reward, or a stressful speculation depending on those inputs.
 - Vol.112 adds that non-consensus macro frameworks need a risk boundary: investors must distinguish structural possibility from company earnings, cash flow, valuation repair, and a fund manager's holdable process.
 - Vol.115 adds that an asset ranking is not an allocation plan until it names position role, time horizon, drawdown tolerance, and whether the expected return now comes from carry, cash flow, valuation repair, or future belief.
@@ -215,6 +219,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 - Episode 134 adds that a correct call by [[RayDalio]], [[MichaelBurry]], or another famous investor can still become the wrong risk for a follower with different liquidity and timing constraints.
 
 ## Connections
+- [[BullMarketProfitPreservation]], [[BullMarketBezzleTrap]], [[GainConversionAssetForm]], and [[OptionContractMechanics]] - episode 157's profit-preservation branch.
 - [[PublicCryptoInvestmentRisk]], [[StateCryptoReserves]], [[SeparateCryptoReserveFund]], [[SeizedDigitalAssetCustody]], and [[Bitcoin]] - state public-finance crypto branch added by Marketplace Tech.
 - [[JimSimons]] — source's voice for the principle.
 - [[KellyCriterion]], [[CompoundingGrowthFormula]], [[InvestmentEdge]], and [[PositionSizing]] — E153's edge-sizing-frequency-time extension.

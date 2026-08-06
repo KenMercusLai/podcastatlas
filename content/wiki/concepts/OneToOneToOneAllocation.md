@@ -2,11 +2,13 @@
 title: "1:1:1 Allocation Anchor"
 type: concept
 tags: [investing, asset-allocation, portfolio, personal-finance]
-sources: [143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]
+sources: [157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]
 last_updated: 2026-08-06
 ---
 
 # 1:1:1 Allocation Anchor
+
+[[157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]] adds the post-bull-market preservation version. [[DavidWeng|大卫翁]] keeps the three-role habit but shifts the emphasis from deploying after a shock to deciding which gains should move into cash-flow, gold, REITs, housing, deposits, insurance, or other permanent-capital forms.
 
 The 1:1:1 allocation anchor is [[vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]]'s source-scoped portfolio rule after the host's investable assets expanded. It divides the portfolio into three roughly equal roles: China-related offensive assets, cash-like defensive assets, and assets that can provide current or potential passive income or hedge monetary debasement.
 
@@ -25,8 +27,10 @@ The episode stresses that this is not a mathematically optimized allocation. Its
 - The rule resembles [[BarbellStrategy]] but adds a middle income-or-hedge sleeve rather than a pure safe/risky split.
 - Episode 135 adds that a behavioral anchor still needs execution discipline; otherwise future buying opportunities arrive after the cash sleeve has already been spent.
 - Episode 143 adds that rebalancing can feel suboptimal during a bull market but still preserve the structure needed for later pullbacks, add-on opportunities, and sleep-tested sizing.
+- Episode 157 adds that the anchor can preserve gains by redirecting part of a bull-market win into slower, more life-linked capital buckets.
 
 ## Connections
+- [[BullMarketProfitPreservation]] and [[GainConversionAssetForm]] - episode 157's profit-preservation extension.
 - [[AssetAllocation]] - parent portfolio-construction discipline.
 - [[BarbellStrategy]], [[AHShare2025Barbell]], and [[DefensiveDividendAssets]] - related allocation structures.
 - [[ChinaPolicyEasingPivot]] and [[China]] - policy-space thesis behind the offensive sleeve.
