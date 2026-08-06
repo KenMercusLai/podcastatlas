@@ -3,6 +3,7 @@ title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
 sources:
+  - 166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6
   - 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm
   - 163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta
   - 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2
@@ -59,6 +60,8 @@ last_updated: 2026-08-06
 ---
 
 # Investment Risk Management
+
+[[166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6]] adds the institutional-process version. Risk management is framed as goal definition, information-edge humility, [[TargetWeightDiscipline]], cooldown periods, written reasons for large weights, and regular review, rather than only stop-losses after a position has already become emotional.
 
 [[163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta]] adds the [[FinancialNihilism]] version. The source accepts that young people may face real asset, wage, housing, and generational constraints, but treats all-in speculative rescue bets as a risk-management failure unless upside exposure is explicitly limited through [[BoundedSpeculativeOptionality]], position sizing, and a stable base that can survive loss.
 
@@ -223,8 +226,10 @@ Investment risk management is the practical bridge from market uncertainty to or
 - Vol.124 adds that a portfolio can be too risky even before capital loss if information overload, expiry pressure, or position size damages sleep, judgment, and the ability to act deliberately.
 - Vol.126 adds that public-fund risk analysis should examine the fund company's ecosystem, channel incentives, share class, redemption path, and holder return gap before relying on fund-manager reputation or headline returns.
 - Episode 134 adds that a correct call by [[RayDalio]], [[MichaelBurry]], or another famous investor can still become the wrong risk for a follower with different liquidity and timing constraints.
+- Episode 166 adds that not having an institutional information edge is itself a risk input: ordinary investors should manage exposure, decision frequency, and product choice accordingly instead of treating easy trading access as equivalent to professional capability.
 
 ## Connections
+- [[InstitutionalInvestorProcessDiscipline]], [[InstitutionalInformationAdvantage]], [[TargetWeightDiscipline]], and [[PersonalCapitalDurationAdvantage]] - episode 166's institution-derived risk-management extension.
 - [[BullMarketProfitPreservation]], [[BullMarketBezzleTrap]], [[GainConversionAssetForm]], and [[OptionContractMechanics]] - episode 157's profit-preservation branch.
 - [[PublicCryptoInvestmentRisk]], [[StateCryptoReserves]], [[SeparateCryptoReserveFund]], [[SeizedDigitalAssetCustody]], and [[Bitcoin]] - state public-finance crypto branch added by Marketplace Tech.
 - [[JimSimons]] — source's voice for the principle.

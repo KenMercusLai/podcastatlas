@@ -2,7 +2,7 @@
 title: "Li Lu / 李璐"
 type: entity
 tags: [investor, author, modernization, china]
-sources: [165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo, 150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g]
+sources: [166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6, 165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo, 150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g]
 last_updated: 2026-08-06
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-06
 Li Lu / 李璐 enters the wiki through [[150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g]] as the author of [[CivilizationModernizationValueInvestmentChina|《文明、现代化、价值投资与中国》]]. The episode uses his book to connect long-term investing in [[China]] with a view of national modernization, civilization evolution, and future institutional direction.
 
 In the source's reading, Li defines modernization as a break from the [[MalthusianTrap]] into [[ModernizationAsCompoundGrowth]]. He emphasizes the historical loop among free markets, limited government, modern science, and industrial technology, while also arguing that China's future may require a modernized cultural renewal rather than full Westernization.
+
+[[166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6]] adds a source-scoped investing-process reference. The episode cites Li Lu as an example of a manager who prefers long-term, philosophy-aligned capital because unstable redemptions can interfere with the investment process, connecting his wiki role to [[FundLiabilityMatching]] as well as value-investment worldview.
 
 [[165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo]] uses Li Lu's phrase "中国籍的全球公司" to define a new test for Chinese champions. In this reading, a company can become a global champion only if it becomes part of local economic development abroad, which the episode turns into the [[LocalizedGlobalCompany]] concept.
 
@@ -21,3 +23,4 @@ In the source's reading, Li defines modernization as a break from the [[Malthusi
 - [[ImperialExaminationOpportunityEquality]] - China-specific institutional comparison.
 - [[StrangerTrustSixthRelation]], [[Mozi|墨子 / Mozi]], and [[ChineseModernizationCulturalGap]] - future cultural-renewal branch.
 - [[LocalizedGlobalCompany]], [[GlobalResourceAllocationCompany]], and [[ChinaInnovationTransparencyGap]] - episode 165's globalization and talent-legibility branch.
+- [[FundLiabilityMatching]] and [[InvestmentBehaviorCoaching]] - episode 166's long-term aligned-capital reference.

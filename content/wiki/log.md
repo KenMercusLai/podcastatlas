@@ -6289,3 +6289,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 166.普通人能从机构投资者身上学到什么？｜串台投资ABC
+
+Added source page for a 起朱楼宴宾客 crossover with 投资ABC on institutional-investor goals, information systems, expert/data services, risk-control process, cost structure, redemption pressure, target-weight discipline, human capital, and personal asset allocation. Created pages for 投资ABC, Amy, 陈博士, Institutional Investor Process Discipline, Institutional Information Advantage, Target Weight Discipline, and Personal Capital Duration Advantage; updated overview, index, 起朱楼宴宾客, 大卫翁, 《资产配置行动指南》, Li Lu, Asset Allocation, Portfolio Suitability, Investment Risk Management, Investment Behavior Coaching, Passive Investing, Fund Liability Matching, Fund Redemption Liquidity Pressure, Investment Cooldown Discipline, and Human Capital Inflation Hedge. No direct contradiction found; the source reinforces the wiki's ordinary-investor discipline by arguing that individuals should borrow institutional framework and process while using long horizon, flexibility, and low-cost index exposure instead of competing on short-term information advantage.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

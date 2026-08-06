@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [166.普通人能从机构投资者身上学到什么？｜串台投资ABC](sources/166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6.md) — 起朱楼宴宾客 crossover with 投资ABC on institutional-investor process, information advantage, target-weight discipline, fund redemption pressure, personal capital-duration advantage, and ordinary-investor asset allocation.
 - [165.年报季中的真实中国2026](sources/165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo.md) — 起朱楼宴宾客 2026 annual-report episode on China's K-shaped industrial divergence, non-financial margin pressure, real-estate-chain losses, safety-first supply chains, localized global companies, hard-AI infrastructure, CATL quality, and innovation-transparency constraints.
 - [164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授](sources/164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq.md) — 起朱楼宴宾客 algorithm-series conversation with 黄圣淳 on filter-bubble evidence gaps, incidental exposure, news-finds-me, affective polarization, YouTube entertainment redirection, platform affordances, feedback loops, and algorithmic media literacy.
 - [163.当孤注一掷的年轻人遇上这个草台班子的世界｜串台轻刀快马](sources/163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta.md) — 起朱楼宴宾客 crossover with 轻刀快马 on U.S. social separation, AI anxiety, youth FOMO, financial nihilism, bounded speculative optionality, structure-over-prediction, barbell life design, and staying in the game.
@@ -786,6 +787,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [投资ABC / Investment ABC](entities/InvestmentABC.md) — Podcast crossover partner in episode 166, used to translate institutional investing into ordinary-investor education.
+- [Amy / 投资ABC](entities/AmyInvestmentABC.md) — 投资ABC speaker keeping episode 166 anchored in ordinary-investor questions about goals, costs, emotions, and asset allocation.
+- [陈博士 / 投资ABC](entities/ChenDoctorInvestmentABC.md) — 投资ABC speaker explaining short-term market-counterparty logic, institutional data teams, and cost/behavior effects in episode 166.
 - [Haier Smart Home / 海尔智家](entities/HaierSmartHome.md) — Listed appliance company used by episode 165 to frame tariff, supply-chain reconfiguration, regional protection, and geopolitical pressure.
 - [Shenzhou International / 申洲国际](entities/ShenzhouInternational.md) — Textile and apparel manufacturer used by episode 165 to show exporter margin pressure and the limits of simple overseas production.
 - [Foxconn Industrial Internet / 工业富联](entities/FoxconnIndustrialInternet.md) — AI server manufacturer used by episode 165 as the clearest hard-AI infrastructure company case.
@@ -5345,6 +5349,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Institutional Investor Process Discipline / 机构投资者流程纪律](concepts/InstitutionalInvestorProcessDiscipline.md) — Episode 166 lesson that mandates, risk controls, committees, stock pools, and written review create useful friction between emotion and trade.
+- [Institutional Information Advantage / 机构信息优势](concepts/InstitutionalInformationAdvantage.md) — Episode 166 frame for broker research, expert networks, alternative data, data teams, and compliance-filtered information processing.
+- [Target Weight Discipline / 目标权重纪律](concepts/TargetWeightDiscipline.md) — Episode 166 practice of managing assets by portfolio percentage and role rather than cost basis, floating profit, or single-position emotion.
+- [Personal Capital Duration Advantage / 个人资金期限优势](concepts/PersonalCapitalDurationAdvantage.md) — Episode 166 ordinary-investor advantage of smaller, steadier, more flexible capital when paired with patience and suitability.
 - [China Industrial K-Shaped Divergence / 中国式K型产业分化](concepts/ChinaIndustrialKShapedDivergence.md) — Episode 165 frame for resources, discount retail, innovation drugs, and AI infrastructure rising while real estate, exporters, industrial parks, and many manufacturers remain pressured.
 - [Security-First Supply Chain Logic / 安全优先供应链逻辑](concepts/SecurityFirstSupplyChainLogic.md) — Episode 165 supply-chain order where safety and resilience outrank pure efficiency under tariffs, geopolitics, and local protection.
 - [Localized Global Company / 中国籍全球公司本地化](concepts/LocalizedGlobalCompany.md) — Episode 165 model requiring Chinese global companies to localize manufacturing, supply chains, service networks, and R&D.

@@ -2,11 +2,13 @@
 title: "Human Capital Inflation Hedge"
 type: concept
 tags: [personal-finance, career, inflation, life-design]
-sources: [163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta, 162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
+sources: [166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6, 163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta, 162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
 last_updated: 2026-08-06
 ---
 
 # Human Capital Inflation Hedge
+
+[[166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6]] adds the household-balance-sheet version. [[DavidWeng|大卫翁]] says young people's human capital, family resources, parental assets, future cash flow, medical needs, education plans, retirement, marriage, and child-rearing obligations should be counted before choosing financial products.
 
 [[163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta]] adds the human-capital-as-risk-asset version. [[DavidWeng|大卫翁]] describes different career paths as bond-like or stock-like cash-flow exposures, then uses that classification to decide whether financial assets should take more risk, reduce risk, or protect liquidity.
 
@@ -24,6 +26,7 @@ The concept does not reject [[AssetAllocation]]. It changes the priority order w
 - [[InvestmentForBetterLife]] is the boundary: financial tools should serve ordinary life rather than replace work, relationships, sleep, and agency.
 - Episode 162 adds that human capital is wealth, not merely an input into portfolio construction, because it expands [[WealthDesireGap|choice space]] and reduces dependence on visible financial capital.
 - Episode 163 adds that human capital is also part of risk budgeting: career volatility and financial-asset volatility should not be stacked blindly.
+- Episode 166 adds that human capital should be counted with family resources and future obligations before financial product selection; asset allocation starts from a household balance sheet, not a fund shelf.
 
 ## Connections
 - [[InvestmentForBetterLife]] — life-quality standard that keeps investing subordinate to better living.
@@ -33,3 +36,4 @@ The concept does not reject [[AssetAllocation]]. It changes the priority order w
 - [[WealthAsCapabilityAndRights]], [[WealthDesireGap]], and [[ClientCenteredWealthManagement]] - episode 162's broader wealth and freedom extension.
 - [[AssetAllocation]], [[PortfolioSuitability]], and [[InvestmentRiskManagement]] — market tools that still matter when financial capital and worldview fit justify them.
 - [[FinancialNihilism]], [[StructureOverPrediction]], and [[BoundedSpeculativeOptionality]] - episode 163's young-person risk and survivable-upside branch.
+- [[TargetWeightDiscipline]] and [[PersonalCapitalDurationAdvantage]] - episode 166's household-balance-sheet and allocation process extension.

@@ -2,11 +2,13 @@
 title: "Passive Investing"
 type: concept
 tags: [investing, index-funds]
-sources: [160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v, vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vanguard-1]
+sources: [166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6, 160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v, vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vanguard-1]
 last_updated: 2026-08-06
 ---
 
 # Passive Investing
+
+[[166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6]] adds the "stand on institutions' shoulders" version. After explaining [[InstitutionalInformationAdvantage]], [[DavidWeng|大卫翁]] argues that many ordinary investors can use low-cost index funds and public funds to participate in capital-market growth without entering a short-term information war against institutions.
 
 [[160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz]] adds the ordinary China-asset account version. [[DavidWeng|大卫翁]] suggests that many investors should compare their own active results with broad indexes such as CSI 300, CSI 500, and the Hang Seng before spending large effort on stocks and sectors. [[Haoge|浩哥]] accepts the index-fund logic but prefers more volatile growth-oriented indexes for investors who deliberately want technology and growth exposure.
 
@@ -57,6 +59,7 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 - Vol.121 adds that ETF form alone is not enough: leverage, reset, financing, concentration, and credit risk can make a product tactical rather than passive.
 - Vol.126 adds that passive investing can be a suitability response to active-fund ecosystem risk, but indexation itself may be cyclical if too much money stops doing price-discovery work.
 - The Acquired Vanguard source adds that index funds can create market-wide governance questions when large passive managers accumulate voting power and common ownership.
+- Episode 166 adds that passive investing can be a deliberate response to institutional competition: individuals can use long horizon and low cost instead of trying to replicate data teams, expert networks, and trading infrastructure.
 
 ## Connections
 - [[InvestmentRiskManagement]] — practical reason for favoring broad, automated exposure.
@@ -75,3 +78,4 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 - [[BrokerageResearchReports]], [[SellSideResearchIncentives]], and [[ResearchReportReadingDiscipline]] — vol.119's active-research feedback loop.
 - [[LeveragedETF]], [[DailyLeverageReset]], [[VolatilityDecay]], [[FNGU]], and [[LeveragedProductSuitability]] — vol.121's ETF-wrapper caveat.
 - [[PublicMutualFundEcosystem]], [[FundDistributionIncentives]], [[FundInvestorReturnGap]], [[CostMattersHypothesis]], and [[CharlesSchwab]] — vol.126's active-fund ecosystem and fee-pressure contrast.
+- [[InstitutionalInformationAdvantage]], [[PersonalCapitalDurationAdvantage]], and [[TargetWeightDiscipline]] - episode 166's ordinary-investor implementation context.

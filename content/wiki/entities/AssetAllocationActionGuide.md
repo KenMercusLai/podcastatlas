@@ -2,11 +2,13 @@
 title: "《资产配置行动指南》 / Asset Allocation Action Guide"
 type: entity
 tags: [book, investing, asset-allocation, personal-finance]
-sources: [158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29]
+sources: [166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6, 158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29]
 last_updated: 2026-08-06
 ---
 
 # 《资产配置行动指南》 / Asset Allocation Action Guide
+
+[[166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6]] mentions the book as the bridge from institutional-investor lessons into personal money management. The source uses it to shift the second half of the conversation from "why institutions are hard to beat" toward how ordinary people can count human capital, family resources, future obligations, and account horizons inside [[AssetAllocation]].
 
 《资产配置行动指南》 is [[DavidWeng|大卫翁]]'s book explained in [[158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29]]. The source presents it as a book-length continuation of the [[QizhulouYanBinke|起朱楼宴宾客]] "迈出资产配置第一步" series, especially the worldview-fit close in [[vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]].
 
@@ -23,4 +25,4 @@ Its wiki role is to turn [[AssetAllocation]] from a recurring podcast theme into
 ## Connections
 - [[DavidWeng|大卫翁]], [[QizhulouYanBinke|起朱楼宴宾客]], and [[CITICPress|中信出版社]] — author, show, and publisher context.
 - [[PodcastToBookSystematization]], [[BookPublishingEconomics]], and [[AuthorPlatformRiskReduction]] — media and publishing branch.
-- [[AssetAllocation]], [[InvestmentWorldviewFit]], [[PortfolioSuitability]], and [[InvestmentForBetterLife]] — investing concepts the book packages for ordinary readers.
+- [[AssetAllocation]], [[InvestmentWorldviewFit]], [[PortfolioSuitability]], [[HumanCapitalInflationHedge]], and [[InvestmentForBetterLife]] — investing concepts the book packages for ordinary readers.

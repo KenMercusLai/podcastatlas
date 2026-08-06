@@ -567,6 +567,10 @@
     "title": "165.银发川柳：用幽默面对老年，咱们来写打油诗",
     "url": "/wiki/sources/165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646/"
   },
+  "166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6": {
+    "title": "166.普通人能从机构投资者身上学到什么？｜串台投资ABC",
+    "url": "/wiki/sources/166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6/"
+  },
   "166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1": {
     "title": "166: 许华哲再次具身创业：不想错过最大的西瓜",
     "url": "/wiki/sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1/"
@@ -2994,6 +2998,10 @@
   "AmyButcher": {
     "title": "Amy Butcher / 艾米",
     "url": "/wiki/entities/amybutcher/"
+  },
+  "AmyInvestmentABC": {
+    "title": "Amy / 投资ABC",
+    "url": "/wiki/entities/amyinvestmentabc/"
   },
   "AmyScott": {
     "title": "Amy Scott",
@@ -6138,6 +6146,10 @@
   "ChenDiexian": {
     "title": "陈迭仙",
     "url": "/wiki/entities/chendiexian/"
+  },
+  "ChenDoctorInvestmentABC": {
+    "title": "陈博士 / 投资ABC",
+    "url": "/wiki/entities/chendoctorinvestmentabc/"
   },
   "ChenJiageng": {
     "title": "Chen Jiageng / 陈嘉庚",
@@ -15099,6 +15111,14 @@
     "title": "历史语言研究所 / 史语所",
     "url": "/wiki/entities/instituteofhistoryandphilology/"
   },
+  "InstitutionalInformationAdvantage": {
+    "title": "Institutional Information Advantage / 机构信息优势",
+    "url": "/wiki/concepts/institutionalinformationadvantage/"
+  },
+  "InstitutionalInvestorProcessDiscipline": {
+    "title": "Institutional Investor Process Discipline / 机构投资者流程纪律",
+    "url": "/wiki/concepts/institutionalinvestorprocessdiscipline/"
+  },
   "InstitutionalKnowledgeTransfer": {
     "title": "Institutional Knowledge Transfer",
     "url": "/wiki/concepts/institutionalknowledgetransfer/"
@@ -15302,6 +15322,10 @@
   "InventoryWriteDownRisk": {
     "title": "Inventory Write-Down Risk",
     "url": "/wiki/concepts/inventorywritedownrisk/"
+  },
+  "InvestmentABC": {
+    "title": "投资ABC / Investment ABC",
+    "url": "/wiki/entities/investmentabc/"
   },
   "InvestmentAdviserFiduciaryDuty": {
     "title": "Investment Adviser Fiduciary Duty / 投资顾问信义义务",
@@ -22791,6 +22815,10 @@
     "title": "Personal Archive As History",
     "url": "/wiki/concepts/personalarchiveashistory/"
   },
+  "PersonalCapitalDurationAdvantage": {
+    "title": "Personal Capital Duration Advantage / 个人资金期限优势",
+    "url": "/wiki/concepts/personalcapitaldurationadvantage/"
+  },
   "PersonalCashFlowAccount": {
     "title": "Personal Cash-Flow Account",
     "url": "/wiki/concepts/personalcashflowaccount/"
@@ -28990,6 +29018,10 @@
   "TargetDateFund": {
     "title": "Target-Date Fund / 目标日期基金",
     "url": "/wiki/concepts/targetdatefund/"
+  },
+  "TargetWeightDiscipline": {
+    "title": "Target Weight Discipline / 目标权重纪律",
+    "url": "/wiki/concepts/targetweightdiscipline/"
   },
   "TariffComplianceTest": {
     "title": "Tariff Compliance Test",
