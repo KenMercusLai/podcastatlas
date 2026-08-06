@@ -2,8 +2,8 @@
 title: "Hang Seng Tech Index"
 type: entity
 tags: [market-index, hong-kong, technology, investing]
-sources: [ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]
-last_updated: 2026-07-08
+sources: [ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+last_updated: 2026-08-06
 ---
 
 # Hang Seng Tech Index
@@ -14,12 +14,15 @@ The Hang Seng Tech Index appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-
 
 [[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]] adds a hard-asset comparison. The guest argues that some Hang Seng Tech constituents look cheap but lack the [[HoloAssets]] attributes attracting AI-infrastructure capital: heavy assets, hard replacement, long build cycles, and direct exposure to power or data-center demand.
 
+[[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] adds a first-half 2025 checkpoint. The source says Hang Seng Tech had risen strongly by the recording date and helped make Hong Kong the main visible channel for China new-economy repricing, while still carrying sharp drawdown and timing risk.
+
 ## Source Position
 - The source links the Hang Seng Tech Index to [[HongKongTechRepricing]], especially after [[DeepSeek]] changed how investors viewed Chinese AI and technology assets.
 - [[LaoMai]] warns that if U.S. equities sell off sharply, Hong Kong tech can still be hit first by liquidity pressure.
 - [[Daxiong]] warns against overfitting short historical correlations between Hong Kong tech and U.S. tech.
 - E159 treats the index as part of [[HongKongMarketStructure]]: it can provide tradable beta and volatility, but still faces offshore-flow, liquidity, and rebalancing constraints.
 - E155 adds that low valuation may not be enough when global capital prefers AI-linked hard infrastructure and Holo-like scarcity.
+- Episode 133 treats the index as part of Hong Kong's leading role in China asset repricing, not as proof that broad A-share earnings recovery had arrived.
 
 ## Connections
 - [[Alibaba]], [[Tencent]], and [[Xiaomi]] — Chinese technology names the speakers expect foreign investors to examine first.
@@ -27,3 +30,4 @@ The Hang Seng Tech Index appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-
 - [[IndexReentryDiscipline]] and [[InvestmentRiskManagement]] — staged-entry and sizing response to volatile technology indexes.
 - [[HongKongMarketStructure]] — broader Hong Kong liquidity and ETF-context page added by E159.
 - [[HoloAssets]], [[AIEquityValuationRisk]], and [[CAPEXOPEXSubstitution]] — AI-infrastructure comparison added by E155.
+- [[ChinaMacroTemperatureGaps]], [[AHShare2025Barbell]], and [[HongKongTechRepricing]] — episode 133's mid-year China-market frame.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-06] ingest | 133.全球宏观和资本市场2025年中盘点：中国的三个温差和美国的三个预期差
+
+Added source page for a 起朱楼宴宾客 mid-year macro and capital-market review with 大卫翁 and Ricky on China macro/industry temperature gaps, new-consumption pricing power, outbound profit capture, Hong Kong-led China asset repricing, innovation-drug validation, fiscal restraint, RMB/rate constraints, U.S. AI/fiscal/dollar expectation gaps, gold, bonds, cash optionality, and private-credit tail risk. Created pages for China Macro Temperature Gaps, Digital Economy Measurement Gap, China Outbound Profit Loop, U.S. 2025 Expectation Gaps, Quality Low Price And Reasoned Premium, and Private Credit Tail Risk; updated overview, index, 起朱楼宴宾客, 大卫翁, Ricky, DeepSeek, Pop Mart, Labubu, Hang Seng Tech Index, A/H Share 2025 Barbell, China Policy Easing Pivot, China Fiscal Expansion Channels, China Narrative Split, Aggregate Indicators Lived Experience Gap, Global Resource Allocation Company, Hong Kong Market Structure, Hong Kong Tech Repricing, China Biotech Asset Repricing, RMB Exchange Rate Policy, Bond Fund Return Expectation Reset, Gold As Currency Spare Tire, Currency Anchor Transition, AI Equity Valuation Risk, U.S. Mega-Cap Tech Right-Side Trade, Asset Allocation, Investment Liquidity Tradeoff, and Investment Risk Management. No direct contradiction found; the source qualifies the January 2025 outlook by showing valuation repair and expectation gaps before broad earnings or demand confirmation.
+
 ## [2026-08-06] ingest | 131.我在日本买了一套自住房
 
 Added source page for a 起朱楼宴宾客 episode by 大卫翁 on buying a first self-use new-build condo in Yokohama and using that process to explain Japanese residential property. Created pages for Yokohama, Mitsubishi Estate, Mori Building, Japanese New-Build Condo Buying, Japanese Housing Presale Protection, Japanese Railway Real-Estate Development, Japanese Condo Maintenance Reserve, Japanese Housing Information Disclosure, Japanese Mortgage Insurance Bundle, Negative Real Estate, Housing As Consumption Good, Japanese Urban-Core Redevelopment, and Japanese Property Holding Cost; updated overview, index, 起朱楼宴宾客, 大卫翁, Japan, Itochu, Japanese Lost Decades, Japan Comfortable Stagnation, Housing Experience Investment Split, Mortgage Approval, Insurance Risk Transfer, Long-Term Place Operation, and China Real Estate Debt Cycle. No direct contradiction found; the source qualifies Japan's comfortable-stagnation branch by showing the owner-side cost, paperwork, and standardization behind high residential-service quality.
@@ -6025,6 +6029,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] ingest | 132.当过度思考的打工人遇上低欲望的时代
 
 Added source page for a 起朱楼宴宾客 episode with 大卫翁 and 尤妈妈 / 猫猫 on Japanese workplace boundaries, rule-bound overthinking, AI usefulness anxiety, information overload, algorithmic desire preemption, defensive low desire, social-template desire, and concrete daily anchors. Created pages for 尤妈妈 / 猫猫, Rule-Bound Overthinking, Low Desire As Defensive Contraction, Algorithmic Desire Preemption, and Social-Template Desire; updated overview, index, 起朱楼宴宾客, 大卫翁, Japan, China, Xiaohongshu, Perfect Days, Information Overload Knowledge Trap, Rumination Vs Reflection, Youth Happiness After Growth, Micro-Happiness, Macro Narrative Anxiety, Achievement Pressure Mental Health, Attention Industrialization, Controllable Life Anchors, AI Consumer Decision Shaping, Workplace Pacing, Self-Directed Work, Human Agency Under AI, and Japan Comfortable Stagnation. No direct contradiction found; the source qualifies earlier Japan comfort and youth-happiness branches by showing how rules, hierarchy, always-on work, AI replacement anxiety, algorithms, and social templates can turn low desire into defensive contraction rather than pure apathy.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

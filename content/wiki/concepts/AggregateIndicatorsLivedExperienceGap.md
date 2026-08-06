@@ -2,8 +2,8 @@
 title: "Aggregate Indicators Lived Experience Gap"
 type: concept
 tags: [economics, measurement, households, trust]
-sources: [indicators-of-2025-and-what-to-watch-in-2026, would-you-trust-an-economist-with-your-economy]
-last_updated: 2026-07-24
+sources: [indicators-of-2025-and-what-to-watch-in-2026, would-you-trust-an-economist-with-your-economy, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+last_updated: 2026-08-06
 ---
 
 # Aggregate Indicators Lived Experience Gap
@@ -14,6 +14,8 @@ The episode's example is post-pandemic price pain. Even when inflation rates slo
 
 [[indicators-of-2025-and-what-to-watch-in-2026]] adds the year-end indicator version through [[ConsumerSentimentIndicator]]. [[KennyMalone]] argues that weak consumer sentiment in 2025 captured anxiety about prices, jobs, housing, and the future even when other hard data could look more resilient.
 
+[[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] adds a China macro variant through [[ChinaMacroTemperatureGaps]]. The source argues that a single indicator such as import decline can be ambiguous: it may show weak demand, domestic substitution, supply-chain self-sufficiency, or a mixture that only sector-level evidence can separate.
+
 ## Key Claims
 - Aggregate statistics can be accurate while still missing distribution, affordability, and timing.
 - Slowing inflation does not automatically mean households feel relief if the price level remains high.
@@ -21,6 +23,7 @@ The episode's example is post-pandemic price pain. Even when inflation rates slo
 - Listening to people is not anti-data; it can identify which data cuts are missing.
 - The concept helps explain why [[EconomistTrustCrisis]] persists even when experts believe the official numbers are correct.
 - Consumer sentiment can become a useful companion indicator when hard data and household mood diverge.
+- Episode 133 adds that aggregate indicators can also hide industrial upgrading or substitution, not only household pain.
 
 ## Connections
 - [[DianeKPMGChiefEconomist]] - source case.
@@ -29,3 +32,4 @@ The episode's example is post-pandemic price pain. Even when inflation rates slo
 - [[EconomicWayOfThinking]] - data interpretation must preserve tradeoffs and distribution.
 - [[FreeTradeDistributionalCost]] and [[PeopleVersusPlacesRecovery]] - earlier wiki cases where aggregates hid concentrated loss.
 - [[ConsumerSentimentIndicator]], [[KennyMalone]], and [[UniversityOfMichigan]] - year-end mood-indicator branch added by Planet Money.
+- [[ChinaMacroTemperatureGaps]], [[AnnualReportMacroReading]], [[TechnologyInnovationAsScaleEconomy]], and [[DigitalEconomyMeasurementGap]] - China-specific measurement branch added by episode 133.

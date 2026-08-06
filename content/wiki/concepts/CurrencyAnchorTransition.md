@@ -2,7 +2,7 @@
 title: "Currency Anchor Transition / 货币锚转换"
 type: concept
 tags: [money, macro, currency, investing]
-sources: [129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb]
+sources: [129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
@@ -12,12 +12,15 @@ Currency anchor transition / 货币锚转换 is the source's frame for moments w
 
 The concept links macro uncertainty to asset allocation. When a dominant anchor feels stable, investors can treat many price moves as ordinary relative valuation. When the anchor itself is doubted, nominal returns become harder to read and [[CurrencyRisk]] moves from a side issue to the base layer of portfolio thinking.
 
+[[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] adds a reserve-currency credibility update. The source separates economic trust and geopolitical-security trust through its "water-star" and "fire-star" shorthand: dollar dominance can be weakened not only by fiscal or inflation concerns, but also when allies question U.S. tariff behavior and security commitments.
+
 ## Key Claims
 - Currency anchors are network claims, not absolute measures: dollars, RMB, gold, and Bitcoin all depend on acceptance, credibility, and surrounding economic systems.
 - A transition period can make gold more valuable as [[GoldAsCurrencySpareTire]] because multiple monetary networks are uncertain at once.
 - [[USTreasury|U.S. Treasuries]] can lose some anchor confidence if the market questions U.S. fiscal capacity, reserve concentration, or the dollar network.
 - RMB strength in this frame comes less from abstract convertibility than from the real-economy, manufacturing, payment, and wealth network behind it.
 - Digital currencies and [[Bitcoin]] are treated as possible network anchors, but the source keeps their daily-payment capacity and final institutional form unresolved.
+- Episode 133 adds that anchor transition may be a diversification process rather than a single replacement: currency baskets, gold, stablecoins, and payment systems can each absorb part of the trust shift.
 
 ## Connections
 - [[GoldAsCurrencySpareTire]], [[GoldMonetaryAnchor]], and [[CurrencyRisk]] - main portfolio and hedge implications.
@@ -25,3 +28,4 @@ The concept links macro uncertainty to asset allocation. When a dominant anchor 
 - [[Bitcoin]], [[DigitalGold]], and [[BitcoinSafeHavenBehavior]] - digital-network candidate and its qualifications.
 - [[NewOrderAssetPricing]] and [[AssetAllocation]] - broader asset-pricing and portfolio branch.
 - [[MoneyIllusion]] - risk of reading nominal wealth without asking which anchor is being used.
+- [[US2025ExpectationGaps]], [[GoldAsCurrencySpareTire]], [[CurrencyCredit]], and [[RMBExchangeRatePolicy]] - mid-year dollar, gold, and RMB context added by episode 133.

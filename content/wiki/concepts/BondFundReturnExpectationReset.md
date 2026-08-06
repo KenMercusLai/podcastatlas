@@ -2,7 +2,7 @@
 title: "Bond Fund Return Expectation Reset"
 type: concept
 tags: [bonds, investing, rates, china]
-sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]
+sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
@@ -12,12 +12,15 @@ Bond fund return expectation reset is the source's warning that 2025 fixed-incom
 
 The concept extends [[TreasuryDurationRisk]] into a China domestic bond-fund setting. It is not only about U.S. Treasury duration; it is about any ordinary investor treating "bond fund" or "money fund" as if last year's rate path were a stable product attribute.
 
+[[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] adds the mid-year Chinese-rate update. [[Ricky]] still views China's long-term rate trend as downward, but he says exchange-rate stability is the first constraint and describes waiting for a better entry around a higher 10-year yield rather than chasing every bond rally.
+
 ## Key Claims
 - 2024 bond-fund returns benefited from capital gains as yields fell, not only from coupon income.
 - When yields are low, future carry is thinner and the same duration exposure can produce less reward for the same volatility.
 - Money-market fund yields can keep stepping down as the policy-rate and short-rate environment declines.
 - The episode expects limited additional short-term room for China's 10-year yield from the 1.5%-1.6% area discussed in the source.
 - Investors should inspect duration, credit exposure, currency exposure, and expected holding period before treating fixed income as cash.
+- Episode 133 adds that the bond opportunity is path-sensitive: a lower long-run rate view does not remove tactical entry, FX, or volatility constraints.
 
 ## Connections
 - [[TreasuryDurationRisk]], [[CurrencyRisk]], and [[QDIIAllocation]] — related overseas fixed-income risk branch.
@@ -25,3 +28,4 @@ The concept extends [[TreasuryDurationRisk]] into a China domestic bond-fund set
 - [[AssetAllocation]] and [[InvestmentRiskManagement]] — portfolio-level use of bonds and cash.
 - [[MarketRegimeShift]] — reason last year's bond experience may not transfer.
 - [[ChinaPolicyEasingPivot]] — domestic policy context for lower rates.
+- [[RMBExchangeRatePolicy]], [[PrivateCreditTailRisk]], and [[AssetAllocation]] — episode 133's rate, credit, and portfolio-role extension.

@@ -45,6 +45,7 @@ sources:
   - vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3
   - vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb
   - ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv
+  - 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc
 last_updated: 2026-08-06
 ---
 
@@ -79,6 +80,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 [[vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]] adds the non-consensus active-management version: when a market thesis depends on [[NewOrderAssetPricing]], [[ChinaSupplySideClearing]], [[StateOwnedEnterpriseSocialValue]], and [[BeltAndRoadExternalDemand]], risk management requires separating long-horizon framework from near-term tradability. It also treats fund-manager fit through [[ActiveManagementStyleEvolution]] and [[PortfolioSuitability]] as a risk-control issue for fundholders.
 
 [[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] adds the annual-outlook implementation version: source-dated macro rankings still require lower return expectations, smaller technology optionality sizing, bond-duration awareness, gold volatility awareness, and enough cash-like liquidity to act if market drawdowns produce better entry points.
+
+[[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] adds the mid-year revision version: a good first-half trade does not remove the need to separate valuation repair from earnings recovery, AI adoption from AI-stock price, gold hedge role from gold faith, bond trend from entry point, and private-credit income from hidden liquidity risk.
 
 [[e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]] adds the multi-asset product version: risk management includes the client's maximum drawdown, path volatility, product comprehension, [[AssetCorrelation]], and whether tactical macro views stay inside a defined allocation sleeve.
 
@@ -128,6 +131,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 - Individual Hong Kong stock investing adds stricter hazards: [[HongKongPennyStockRisk]], [[HongKongLiquidityExitRisk]], [[ManagementShareholderAlignmentRisk]], and [[SellSideResearchIncentives]] can each overwhelm a superficially cheap valuation.
 - Hong Kong opportunity patterns such as [[AHShareDiscountRepricing]], [[HongKongIPOLiquidityPath]], and [[HongKongTripleRerating]] still need catalysts, right-side evidence, liquidity, and exit discipline rather than just a good story.
 - Multi-asset FOF investing needs [[EfficientFrontier]] discipline because adding assets only helps if expected return, volatility, and [[AssetCorrelation]] improve the whole portfolio.
+- Episode 133 adds that low-volatility credit products, especially private credit, require the same scrutiny as volatile equities because hidden marks and redemption limits can turn apparent stability into delayed loss recognition.
 - Return, safety, and liquidity claims should be tested together through [[InvestmentImpossibleTriangle]]; if all three seem excellent, the investor should look for hidden risk, a time-limited scarcity window, or fraud.
 - Value investing needs [[MarginOfSafety]] because a low valuation, attractive dividend, or good story is not enough if pessimistic assumptions can still produce permanent loss.
 - Risk-parity and macro products need liquidity-crisis awareness because assets that diversify in normal periods can become correlated when investors are forced to reduce risk.

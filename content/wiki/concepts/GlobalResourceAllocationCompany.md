@@ -2,7 +2,7 @@
 title: "Global Resource Allocation Company"
 type: concept
 tags: [globalization, supply-chain, manufacturing, china]
-sources: [vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
+sources: [vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
@@ -12,15 +12,19 @@ Global resource allocation company is [[vol-127-nianbaoji-zhong-de-zhenshi-zhong
 
 The concept is grounded in [[GreatStarIndustrial]] and [[AnkerInnovations]], with related support from [[MideaGroup]], [[SFHolding]], [[ZijinMining]], and [[CMOC]]. It shifts the tariff question away from whether exports simply leave China and toward which firms can coordinate procurement, factories, warehouses, compliance, brands, customer service, and supplier learning across multiple jurisdictions.
 
+[[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] adds the GNI and profit-loop version. The episode links Chinese company outbound operations to [[ChinaOutboundProfitLoop]], asking whether domestic GDP alone can describe company value once overseas subsidiaries, profits, and reinvestment become more important.
+
 ## Key Claims
 - Tariff resilience depends on operating-system flexibility, not only moving one factory.
 - Firms can globalize production while retaining high-value coordination and technical know-how in China.
 - Warehousing, distribution, and local service are part of the competitive system.
 - The model can reduce direct tariff exposure but also requires more complex management and capital discipline.
 - The source treats global resource allocation as a company-level answer to [[TradeReciprocityProtectionism]] and [[TariffComplianceTest]].
+- Episode 133 adds that overseas profit capture changes macro interpretation: company earnings can improve even when domestic demand indicators remain subdued.
 
 ## Connections
 - [[GreatStarIndustrial]], [[AnkerInnovations]], [[MideaGroup]], [[SFHolding]], [[ZijinMining]], and [[CMOC]] - source company cases.
 - [[SupplyChainSovereignty]] - strategic production and input-control context.
 - [[DeglobalizationTradeIntermediation]], [[TradeReciprocityProtectionism]], and [[TariffComplianceTest]] - policy pressure branch.
 - [[ThreeLayerScaleEconomies]] - domestic capability base behind global redeployment.
+- [[ChinaOutboundProfitLoop]], [[CurrencyRisk]], and [[RMBExchangeRatePolicy]] - episode 133's GNI, repatriation, and currency context.

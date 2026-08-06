@@ -2,8 +2,8 @@
 title: "Investment Liquidity Tradeoff"
 type: concept
 tags: [investing, liquidity, behavior, personal-finance]
-sources: [vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
-last_updated: 2026-07-15
+sources: [vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+last_updated: 2026-08-06
 ---
 
 # Investment Liquidity Tradeoff
@@ -16,6 +16,8 @@ The episode gives three management routes. One is to buy products that lock liqu
 
 [[vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]] adds the adaptability version. Liquidity should be sufficient for emergency needs and portfolio adjustment, but not so unconstrained that every headline triggers a large trade. The source warns that oversized long lockups in private funds, closed-end funds, insurance products, or long-duration bonds can make [[AdaptivePortfolioDesign]] impossible when the market environment changes.
 
+[[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] adds a private-credit version. The source warns that products with low reported volatility, quarterly redemption windows, or manager-estimated marks can look liquid enough until stress reveals that the exit price and exit timing are not under the investor's control.
+
 ## Key Claims
 - Liquidity is an asset attribute, not a free good.
 - Long-term return often requires using long-duration money rather than money needed for uncertain near-term spending.
@@ -27,6 +29,7 @@ The episode gives three management routes. One is to buy products that lock liqu
 - Default-prone or tail-risk assets require diversification because time alone does not solve single-name failure.
 - Vol.104 adds that low-liquidity individual stocks require smaller sizing and faster thesis review because the exit itself can become the loss source.
 - Vol.105 adds that liquidity must preserve both household readiness and portfolio adaptability; too much lockup can be as damaging as too much trading freedom.
+- Episode 133 adds that smoothed marks are not liquidity: private-credit investors still need to ask what happens when many holders want cash at the same time.
 
 ## Connections
 - [[InvestmentImpossibleTriangle]] — liquidity is one corner of the return-safety-liquidity tradeoff.
@@ -37,3 +40,4 @@ The episode gives three management routes. One is to buy products that lock liqu
 - [[HousingExperienceInvestmentSplit]] — adjacent real-estate distinction between lived use and investment liquidity.
 - [[HongKongLiquidityExitRisk]] and [[HongKongMarketStructure]] — single-stock and Hong Kong market-structure extension from vol.104.
 - [[AdaptivePortfolioDesign]], [[InvestmentCooldownDiscipline]], and [[PortfolioSuitability]] — vol.105's balance between adjustment room and self-imposed behavioral friction.
+- [[PrivateCreditTailRisk]], [[FundRedemptionLiquidityPressure]], and [[FatTailRisk]] — episode 133's low-volatility credit-product extension.

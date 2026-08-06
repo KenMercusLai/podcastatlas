@@ -2,7 +2,7 @@
 title: "Ricky"
 type: entity
 tags: [person, investing, podcast, field-report]
-sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8]
+sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
@@ -14,8 +14,11 @@ Ricky's role in the wiki is as a short-field-visit observer, not a definitive au
 
 In [[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]], Ricky returns as the macro and investing guest. He frames China's 2025 policy challenge through [[ShortTermDemandBeforeLongTermReform]], fiscal transmission, [[RMBExchangeRatePolicy]], and an [[AHShare2025Barbell]] combining [[DefensiveDividendAssets]] with [[NewQualityProductiveForces]], while treating U.S. mega-cap technology as a right-side but increasingly belief-heavy trade.
 
+[[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] adds Ricky's mid-year update to that framework. He emphasizes the split between ordinary and professional investor experience, Hong Kong's stronger first-half China-asset role, fiscal-space preservation, RMB-first rate constraints, continued gold preference, and the risk that private-credit or credit-like products only reveal volatility under stress.
+
 ## Connections
 - [[QizhulouYanBinke|起朱楼宴宾客]] and [[DavidWeng|大卫翁]] — show and host.
 - [[Dubai]], [[AbuDhabi|Abu Dhabi]], and [[UnitedArabEmirates|United Arab Emirates]] — trip and topic context.
 - [[DubaiBusinessHubModel]], [[DubaiRealEstateMarket]], and [[DubaiGoldenVisaResidency]] — concepts his field report adds.
 - [[ChinaPolicyEasingPivot]], [[ChinaFiscalExpansionChannels]], [[AHShare2025Barbell]], [[FactFutureAssetPricing]], and [[USMegaCapTechRightSideTrade]] — vol.115 macro and allocation framework.
+- [[ChinaMacroTemperatureGaps]], [[US2025ExpectationGaps]], [[BondFundReturnExpectationReset]], [[GoldAsCurrencySpareTire]], and [[PrivateCreditTailRisk]] — episode 133 mid-year allocation update.

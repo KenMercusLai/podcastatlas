@@ -2,7 +2,7 @@
 title: "China Policy Easing Pivot"
 type: concept
 tags: [china, macro, monetary-policy, fiscal-policy]
-sources: [vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]
+sources: [vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
@@ -16,6 +16,8 @@ The concept is a [[PolicyDrivenMarketRally]] frame, but with an important caveat
 
 [[vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]] adds the portfolio-positioning version after the tariff panic. [[DavidWeng|大卫翁]] keeps roughly one-third China-related offensive exposure because he believes China and other economies still have policy tools, but he places that thesis inside [[OneToOneToOneAllocation]] rather than letting policy optimism dominate the whole portfolio.
 
+[[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] adds the fiscal-space version. After the April 2025 tariff shock, the source says markets briefly expected stronger stimulus, but easing expectations cooled as negotiations softened; [[Ricky]] interprets the lack of aggressive fiscal expansion as possibly preserving room for a larger external shock.
+
 ## Key Claims
 - The September 2024 policy turn improved confidence before fundamentals had visibly repaired.
 - Monetary constraints around cross-cycle patience, saving policy room, and bank net-interest margins are described as looser than before.
@@ -25,6 +27,7 @@ The concept is a [[PolicyDrivenMarketRally]] frame, but with an important caveat
 - The pivot matters for markets because it can lift valuations first, but it still needs [[ChinaFiscalExpansionChannels]] to transmit into real cash flow.
 - Vol.123 adds that export shock can make policy response the main market question, especially if direct and transshipment-related U.S. demand both fall.
 - Vol.124 adds that policy room can justify offensive exposure without eliminating the need for cash-like defense and sleep-tested sizing.
+- Episode 133 adds that restraint can be a policy choice as well as a disappointment: preserving fiscal space may keep the pivot alive, but it also leaves markets more dependent on sector-specific repricing rather than broad demand beta.
 
 ## Connections
 - [[PeoplesBankOfChina]] — central-bank actor in the monetary-policy side.
@@ -34,3 +37,4 @@ The concept is a [[PolicyDrivenMarketRally]] frame, but with an important caveat
 - [[ShortTermDemandBeforeLongTermReform]] — sequencing rule that keeps the pivot from becoming a pure sentiment story.
 - [[EffectiveTariffRateShock]], [[ReciprocalTariffFormula]], [[SupplyChainSovereignty]], and [[MarketRegimeShift]] — tariff-shock context added by Qizhulou vol.123.
 - [[OneToOneToOneAllocation]], [[AHShare2025Barbell]], [[DefensiveDividendAssets]], and [[SleepWellPortfolioTest]] — portfolio-sizing context added by Qizhulou vol.124.
+- [[ChinaMacroTemperatureGaps]], [[RMBExchangeRatePolicy]], and [[BondFundReturnExpectationReset]] — mid-year constraints and sector-level effects added by episode 133.

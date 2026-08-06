@@ -2,7 +2,7 @@
 title: "RMB Exchange Rate Policy"
 type: concept
 tags: [currency, macro, china]
-sources: [vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+sources: [vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
@@ -16,6 +16,8 @@ RMB exchange rate policy is the EP39 frame that the RMB/USD rate is more likely 
 
 [[vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6]] adds the tariff-response version. The episode says markets will watch whether China uses exchange-rate adjustment alongside broader [[ChinaPolicyEasingPivot]] measures after U.S. tariffs hit direct exports and transshipment-linked exports.
 
+[[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] adds the mid-year rate-constraint version. [[Ricky]] treats bonds and FX as two sides of the same policy problem: the central bank may still prefer long-term lower rates, but near-term rate cuts are constrained by the priority of exchange-rate stability.
+
 ## Key Claims
 - Severe RMB depreciation can worsen capital outflow pressure and confidence.
 - Severe RMB appreciation can hurt exports and GDP-sensitive manufacturing competitiveness.
@@ -26,6 +28,7 @@ RMB exchange rate policy is the EP39 frame that the RMB/USD rate is more likely 
 - Vol.112 adds that the exchange-rate path can be partly subjective and strategic at historical turning points, especially when [[China]] is trying to build rather than merely adapt to a global order.
 - Vol.115 adds that RMB policy can limit rate-cut space even during [[ChinaPolicyEasingPivot]], because exchange-rate credibility also supports external trade strategy.
 - Vol.123 adds that tariff pressure can turn RMB policy from a background constraint into one of the visible response channels watched by markets.
+- Episode 133 adds that RMB/USD appreciation in the first half can be partly dollar weakness rather than a simple RMB-strength story; RMB behavior against a basket matters too.
 
 ## Connections
 - [[PeoplesBankOfChina]] — policy actor.
@@ -36,3 +39,4 @@ RMB exchange rate policy is the EP39 frame that the RMB/USD rate is more likely 
 - [[China]], [[NewOrderAssetPricing]], and [[SupplyChainSovereignty]] — vol.112's order-building and industrial-anchor context.
 - [[ChinaPolicyEasingPivot]], [[BondFundReturnExpectationReset]], [[PeoplesBankOfChina]], and [[ChinaFiscalExpansionChannels]] — vol.115 monetary-constraint and fixed-income extension.
 - [[EffectiveTariffRateShock]], [[TariffComplianceTest]], and [[MarketRegimeShift]] — tariff-response context added by Qizhulou vol.123.
+- [[BondFundReturnExpectationReset]], [[ChinaPolicyEasingPivot]], and [[CurrencyAnchorTransition]] — episode 133's rate, easing, and dollar-credit context.

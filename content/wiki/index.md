@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [133.全球宏观和资本市场2025年中盘点：中国的三个温差和美国的三个预期差](sources/133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc.md) — 起朱楼宴宾客 mid-year macro and capital-market review with 大卫翁 and Ricky on China temperature gaps, Hong Kong-led asset repricing, innovation drugs, RMB/rates, U.S. AI/fiscal/dollar expectation gaps, gold, cash, bonds, and private-credit tail risk.
 - [132.当过度思考的打工人遇上低欲望的时代](sources/132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo.md) — 起朱楼宴宾客 episode on Japanese workplace boundaries, rule-bound overthinking, AI usefulness anxiety, information overload, algorithmic desire preemption, defensive low desire, social-template desire, and concrete daily anchors.
 - [131.我在日本买了一套自住房](sources/131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz.md) — 起朱楼宴宾客 episode using 大卫翁's Japanese new-build condo purchase to map Yokohama location choice, presale protection, area rules, maintenance reserves, mortgage/insurance workflow, disclosure documents, holding costs, negative real estate, and housing as a maintained consumer good.
 - [130. 谁才是生物医药行业发展的核心驱动力？兼谈创新药产业链的角色分工](sources/130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh.md) — 起朱楼宴宾客 episode mapping innovation-drug industry roles across BioTech, BioPharm, MNCs, CXO, academia, hospitals, regulators, payers, and capital, with commercialization capability as the key boundary.
@@ -5292,6 +5293,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dual-Payload ADC](concepts/DualPayloadADC.md) — More complex ADC direction discussed in vol.117, promising resistance management but raising CMC, QC, and cost burdens.
 - [Long-Acting HIV Prevention](concepts/LongActingHIVPrevention.md) — Gilead-linked prevention direction in vol.117 built around long dosing interval and vaccine-like practical effect.
 - [China Biotech Globalization](concepts/ChinaBiotechGlobalization.md) — BeiGene-style route of building global commercial capability instead of mainly licensing assets to MNCs.
+- [China Outbound Profit Loop / 中国出海收益环流](concepts/ChinaOutboundProfitLoop.md) — GNI-oriented lens for Chinese firms earning, holding, or reinvesting more profit abroad while domestic GDP remains an incomplete guide to company value.
 - [BioTech To BioPharm Transition](concepts/BioTechToBioPharmTransition.md) — Episode 130 boundary where commercialization and clinical-development capability matter more than company size.
 - [Global Pharma Commercialization](concepts/GlobalPharmaCommercialization.md) — MNC capability frame around global registration, launch, market access, lifecycle expansion, BD, and portfolio management.
 - [Drug Development Outsourcing / CXO](concepts/DrugDevelopmentOutsourcing.md) — CRO, CDMO, CSO, and related services that decompose the drug-development workflow for smaller companies.
@@ -5306,11 +5308,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [China Policy Easing Pivot](concepts/ChinaPolicyEasingPivot.md) — 2024-2025 China policy-turn frame moving from July disappointment to September/December easing confirmation, with RMB still constraining monetary room.
 - [Short-Term Demand Before Long-Term Reform](concepts/ShortTermDemandBeforeLongTermReform.md) — Sequencing claim that damaged household, enterprise, and local-government balance sheets must be repaired before medium-term reform and long-term productivity stories can work.
 - [China Fiscal Expansion Channels](concepts/ChinaFiscalExpansionChannels.md) — Map of targeted 2025 fiscal transmission through local debt, special bonds, housing inventory purchase, bank capital, policy banks, public services, and arrears cleanup.
+- [China Macro Temperature Gaps / 中国宏观温差](concepts/ChinaMacroTemperatureGaps.md) — Episode 133 frame for gaps among macro data, industrial reality, consumption pockets, overseas profits, foreign perception, and China asset pricing.
 - [New Quality Productive Forces / 新质生产力](concepts/NewQualityProductiveForces.md) — China technology and productivity theme used as the future-upside side of the vol.115 A/H equity barbell.
 - [A/H Share 2025 Barbell](concepts/AHShare2025Barbell.md) — China-equity structure pairing defensive dividend cash flow with new-productivity optionality while watching policy, profit indicators, PPI, and earnings.
 - [Fact/Future Asset Pricing](concepts/FactFutureAssetPricing.md) — Valuation distinction between cash-flow-priced assets and assets priced mainly through future technology or policy belief.
 - [Bond Fund Return Expectation Reset](concepts/BondFundReturnExpectationReset.md) — Fixed-income warning that 2024 bond-fund gains from falling rates should not be extrapolated after yields have already compressed.
 - [U.S. Mega-Cap Tech Right-Side Trade](concepts/USMegaCapTechRightSideTrade.md) — Source-dated view that M7-style technology stocks remained on the right side while becoming mature, volatile, and belief-dependent.
+- [U.S. 2025 Expectation Gaps](concepts/US2025ExpectationGaps.md) — Mid-2025 frame for challenged assumptions around U.S. AI commercialization, fiscal restraint, and dollar or sovereign-credit trust.
 - [China Narrative Split](concepts/ChinaNarrativeSplit.md) — Warning that elite, foreign-investor, asset-owner, lower-tier-city, and migrant-worker experiences of China can diverge enough to affect consumption and asset narratives.
 - [Deaf Education And Belonging](concepts/DeafEducationBelonging.md) — Education-access frame where school placement must be judged by real communication, trust, peer life, and the student's ability to participate.
 - [Communication Access And Misrecognition](concepts/CommunicationAccessAndMisrecognition.md) — Pattern where communication barriers are misread as rudeness, arrogance, laziness, or defiance.
@@ -5966,6 +5970,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Economic Forecasting Limits](concepts/EconomicForecastingLimits.md) — Constraint that economists often cannot reliably answer short-term market or crisis predictions despite public demand for certainty.
 - [Official Statistics Credibility](concepts/OfficialStatisticsCredibility.md) — Public trust that government economic data is collected and revised through reliable, nonpartisan procedure.
 - [Aggregate Indicators Lived Experience Gap](concepts/AggregateIndicatorsLivedExperienceGap.md) — Mismatch between broad statistics such as GDP, unemployment, and inflation rates and what households actually feel.
+- [Digital Economy Measurement Gap / 数字经济统计盲区](concepts/DigitalEconomyMeasurementGap.md) — Claim that platform interaction, virtual services, content payment, and digital consumption can be under-recognized by production-era GDP and policy frameworks.
 - [Work From Home Evidence](concepts/WorkFromHomeEvidence.md) — Job-specific evidence frame for remote, hybrid, and in-person work policy.
 - [Expert Trust Repair](concepts/ExpertTrustRepair.md) — Rebuilding expert credibility through acknowledgment, transparency, listening, and costly accountable commitments.
 - [China Shock](concepts/ChinaShock.md) — Trade shock where Chinese import growth after roughly 2001 produced concentrated and persistent U.S. manufacturing labor-market damage.
@@ -6798,6 +6803,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Empathy Boundaries](concepts/EmpathyBoundaries.md) — Boundary-aware empathy frame where understanding another person's logic does not require unlimited acceptance or self-erasure.
 - [Investment Impossible Triangle](concepts/InvestmentImpossibleTriangle.md) — Investing framework that treats high return, high safety, and high liquidity as a tradeoff unless hidden risk, fraud, or scarcity explains the exception.
 - [Investment Liquidity Tradeoff](concepts/InvestmentLiquidityTradeoff.md) — Liquidity planning frame for when easy exit helps, when it harms long-term behavior, and how locked products, ladders, or allocation manage cash needs.
+- [Private Credit Tail Risk / 私募信贷尾部风险](concepts/PrivateCreditTailRisk.md) — Warning that smoothed marks, quarterly liquidity, and low apparent volatility can hide credit and redemption stress until pressure arrives.
 - [Asset Scarcity Premium](concepts/AssetScarcityPremium.md) — Fourth-attribute frame where regulatory windows, capacity limits, finite supply, or access scarcity may temporarily improve an asset's return-safety-liquidity balance.
 - [Humorous Conservation Writing](concepts/HumorousConservationWriting.md) — Conservation prose mode where comedy, travel failure, self-mockery, and scientific observation make extinction readable without softening it.
 - [Last-Chance Ecological Witnessing](concepts/LastChanceEcologicalWitnessing.md) — Seeing endangered species with the knowledge that the encounter may be close to the end of their living history.
@@ -8267,6 +8273,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Middle East Social Game Growth](concepts/MiddleEastSocialGameGrowth.md) — Localized game-social growth pattern combining atmosphere supply, high-value users, anonymity, acquisition, and paid gifts.
 - [Lifestyle Cost Rationalization](concepts/LifestyleCostRationalization.md) — Practice of preserving comfort and purpose while replacing status-heavy purchases with lower-cost variants.
 - [Low Price Brand Perception](concepts/LowPriceBrandPerception.md) — Problem of making a very inexpensive product feel credible, attractive, and branded rather than cheap.
+- [Quality Low Price And Reasoned Premium / 有品质的低价与有理由的溢价](concepts/QualityLowPriceReasonedPremium.md) — Consumer-demand frame where buyers pay for either credible value-for-money or a clear emotional, cultural, social, or product reason for premium pricing.
 - [Retail Incrementality](concepts/RetailIncrementality.md) — Proof that a product grows category sales or creates impulse demand instead of only cannibalizing existing shelf sales.
 - [Direct To Consumer Cash Flow](concepts/DirectToConsumerCashFlow.md) — Cash-flow and learning advantage from selling directly to customers before or alongside retail channels.
 - [Accidental Virality](concepts/AccidentalVirality.md) — Sudden external attention spike that can reveal demand while stressing inventory, fulfillment, and operations.

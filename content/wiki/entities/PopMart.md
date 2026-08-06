@@ -2,7 +2,7 @@
 title: "Pop Mart / 泡泡玛特"
 type: entity
 tags: [company, consumer, ip, collectibles]
-sources: [139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
+sources: [139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
@@ -18,6 +18,8 @@ The source's central Pop Mart tension is [[Labubu]] concentration. The hosts say
 
 [[vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]] adds Pop Mart as both a consumption-transfer and globalization case. The episode contrasts weak high-end retail with consumer spending that moves toward brands with emotional pull, then notes Pop Mart's new overseas stores and themed locations as a possible route toward a world-class cultural consumer brand.
 
+[[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] uses Pop Mart as a mid-2025 new-consumption example inside [[QualityLowPriceReasonedPremium]]. In this source, Pop Mart is less a stock-specific case and more evidence that Chinese consumers may still pay for a premium when the emotional or cultural reason is legible.
+
 ## Connections
 - [[Labubu]] - blockbuster IP and concentration-risk case.
 - [[Sanrio]] and [[ImageFirstIP]] - episode 142 comparison around image-led character IP and business model.
@@ -25,4 +27,5 @@ The source's central Pop Mart tension is [[Labubu]] concentration. The hosts say
 - [[EarningsGrowthAcceleration]] and [[EarningsExpectationGap]] - why still-positive growth can disappoint investors.
 - [[ConsumerBrandMoat]] and [[BusinessMoat]] - brand/IP durability questions behind Pop Mart's long-term value.
 - [[SFHolding]], [[GlobalResourceAllocationCompany]], and [[ChineseCorporateGladiatorCompetition]] - vol.127's consumer-globalization and competition context.
+- [[QualityLowPriceReasonedPremium]] and [[ChinaMacroTemperatureGaps]] - episode 133's new-consumption and macro-temperature context.
 - [[ValueInvesting]] and [[InvestmentRiskManagement]] - valuation, horizon, and position-discipline context.

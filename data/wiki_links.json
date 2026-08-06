@@ -231,6 +231,10 @@
     "title": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义",
     "url": "/wiki/sources/133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110/"
   },
+  "133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc": {
+    "title": "133.全球宏观和资本市场2025年中盘点：中国的三个温差和美国的三个预期差",
+    "url": "/wiki/sources/133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc/"
+  },
   "134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226": {
     "title": "134.查令十字街84号：再次原谅世界的理由",
     "url": "/wiki/sources/134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226/"
@@ -6031,6 +6035,10 @@
     "title": "China Low-Redistribution State",
     "url": "/wiki/concepts/chinalowredistributionstate/"
   },
+  "ChinaMacroTemperatureGaps": {
+    "title": "China Macro Temperature Gaps / 中国宏观温差",
+    "url": "/wiki/concepts/chinamacrotemperaturegaps/"
+  },
   "ChinaMerchantsBank": {
     "title": "China Merchants Bank / 招商银行",
     "url": "/wiki/entities/chinamerchantsbank/"
@@ -6050,6 +6058,10 @@
   "ChinaNationalAviationHolding": {
     "title": "China National Aviation Holding / 中航集团",
     "url": "/wiki/entities/chinanationalaviationholding/"
+  },
+  "ChinaOutboundProfitLoop": {
+    "title": "China Outbound Profit Loop / 中国出海收益环流",
+    "url": "/wiki/concepts/chinaoutboundprofitloop/"
   },
   "ChinaPolicyEasingPivot": {
     "title": "China Policy Easing Pivot",
@@ -8474,6 +8486,10 @@
   "DigitalDetoxEconomy": {
     "title": "Digital Detox Economy",
     "url": "/wiki/concepts/digitaldetoxeconomy/"
+  },
+  "DigitalEconomyMeasurementGap": {
+    "title": "Digital Economy Measurement Gap / 数字经济统计盲区",
+    "url": "/wiki/concepts/digitaleconomymeasurementgap/"
   },
   "DigitalEmployees": {
     "title": "Digital Employees",
@@ -22827,6 +22843,10 @@
     "title": "Private Airline Failure Modes",
     "url": "/wiki/concepts/privateairlinefailuremodes/"
   },
+  "PrivateCreditTailRisk": {
+    "title": "Private Credit Tail Risk / 私募信贷尾部风险",
+    "url": "/wiki/concepts/privatecredittailrisk/"
+  },
   "PrivateEquityAITransformation": {
     "title": "Private Equity AI Transformation",
     "url": "/wiki/concepts/privateequityaitransformation/"
@@ -23402,6 +23422,10 @@
   "QuToutiao": {
     "title": "QuToutiao",
     "url": "/wiki/entities/qutoutiao/"
+  },
+  "QualityLowPriceReasonedPremium": {
+    "title": "Quality Low Price And Reasoned Premium / 有品质的低价与有理由的溢价",
+    "url": "/wiki/concepts/qualitylowpricereasonedpremium/"
   },
   "QuanShixiong": {
     "title": "全师雄 / Quan Shixiong",
@@ -29174,6 +29198,10 @@
   "UPI": {
     "title": "UPI",
     "url": "/wiki/entities/upi/"
+  },
+  "US2025ExpectationGaps": {
+    "title": "U.S. 2025 Expectation Gaps",
+    "url": "/wiki/concepts/us2025expectationgaps/"
   },
   "USBorderPatrol": {
     "title": "U.S. Border Patrol",
