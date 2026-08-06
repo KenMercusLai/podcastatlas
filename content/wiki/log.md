@@ -6425,3 +6425,11 @@ Added source page for a Talk三联 现场！现场！ year-end special with 吴�
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP246 让女生安心的约会小酒馆，什么样？
+
+Added source page for a Talk三联 love-issue episode with 张星云 and Moku on 空间爱情学, female-friendly bistros, coffee-shop first-date affordances, familiar-space dating, and how small eat-and-drink venues make women feel safer. Created pages for 张星云, Moku, 万九, Spatial Love Studies, Female-Friendly Bistro, Coffee Date Affordance, and Familiar-Space Dating; updated overview, index, Talk三联, 三联生活周刊, Chinese Bistro Localization, and Coffeehouse Public Sphere. No direct contradiction found; the source extends the wiki's bistro and coffeehouse branches by showing that menus, seating, alcohol, publicness, staff discretion, and owner presence are relationship infrastructure as well as consumption design.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran health before lint; health scanned 9,056 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 9,056 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 9,056 pages, so graph findings are advisory until `build graph` refreshes it; the graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`; a bounded fallback scan found potential duplicate entity pages at `wiki/entities/MidJourney.md` and `wiki/entities/Midjourney.md`, plus source-scoped unresolved notes around `ProjectGlasswing`/`ProjectGlassfin` and `FigureAI` autonomy that are already documented rather than hard contradictions. No `wiki/lint-report.md` file was saved.

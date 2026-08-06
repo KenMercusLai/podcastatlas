@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP246 让女生安心的约会小酒馆，什么样？](sources/ep246-rang-nvsheng-anxin-de-yuehui-xiaojiuguan-shenme-yang-lpd5zw9ryd3kplmnaywsoqokvakm.md) — Talk三联 love-issue episode with 张星云 and Moku on spatial love studies, female-friendly bistros, coffee-shop first-date affordances, familiar-space dating, and how small venues make women feel safer.
 - [现场！现场！ | 2025年终特辑：三联女记者揭秘新闻背后的苦与光](sources/xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c.md) — Talk三联 year-end reporting special with 秦思, 程静, and 魏昭阳 on women reporters, fieldwork, remote interviews, source trust, emotional labor, and sustainable media work.
 - [EP245 一年一度寻味之旅：今年去吃创意菜](sources/ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz.md) — Talk三联 annual food-issue episode on creative Chinese cuisine, regional flavor transfer across Guizhou/Yunnan/Sichuan/Guangxi/Fujian, bistros, local alcohol pairing, and stir-fry revival.
 - [EP244 记者眼中的“好工作”，什么样？](sources/ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb.md) — Talk三联 episode with 魏茜, 李小杰, and 吴淑彬 on good work standards, normal work, work decentering, media-industry change, social-reporting burnout, journalistic authority erosion, and AI-era interviewing.
@@ -803,6 +804,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张星云 / Zhang Xingyun](entities/ZhangXingyun.md) — Sanlian speaker in EP246 framing the annual love issue through spatial love studies, nearby encounters, coffee shops, bistros, and city dating venues.
+- [Moku](entities/Moku.md) — Bistro operator interviewed in EP246, explaining how portions, seating, owner presence, and service discretion make a small venue comfortable for women and dates.
+- [万九 / Wanjiu](entities/Wanjiu.md) — Beijing bistro case in EP246, used to show how an eat-and-drink space becomes solo-dining, dating, and regular-customer relationship infrastructure.
 - [秦思 / Qin Si](entities/QinSi.md) — 三联生活周刊 reporter in the 现场！现场！ year-end special, connecting investigative reporting to social-science training, field entry, pollution reporting, and local trust networks.
 - [程静 / Cheng Jing](entities/ChengJing.md) — 三联生活周刊 international-news reporter in the 现场！现场！ year-end special, using social-investigation methods and remote interviews across Gaza, Moscow, Nigeria, Mexico, and migration enforcement.
 - [魏昭阳 / Wei Zhaoyang](entities/WeiZhaoyang.md) — First-year 三联生活周刊 reporter in the 现场！现场！ year-end special, grounding reporting emotional labor through long trips, breaking stories, source intimacy, and audience feedback.
@@ -5432,6 +5436,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Spatial Love Studies / 空间爱情学](concepts/SpatialLoveStudies.md) — EP246 frame for studying romantic encounters through concrete urban spaces, publicness, seating, exit routes, staff mediation, and nearby routines.
+- [Female-Friendly Bistro / 女性友好小酒馆](concepts/FemaleFriendlyBistro.md) — Hospitality pattern where food portions, bar seats, owner presence, and staff discretion make small bistros safer for women and dates.
+- [Coffee Date Affordance / 咖啡馆约会可退可进性](concepts/CoffeeDateAffordance.md) — First-date coffee-shop logic where publicness, low time commitment, and easy extension or exit make meetings reversible.
+- [Familiar-Space Dating / 熟悉空间约会](concepts/FamiliarSpaceDating.md) — Dating pattern where a regular venue lets someone show an everyday social network while requiring careful staff discretion.
 - [Female Journalist Fieldwork / 女记者现场方法](concepts/FemaleJournalistFieldwork.md) — 现场！现场！ year-end concept for gender-shaped reporting access, trust, risk, anger, empathy, and hard-news capability.
 - [Remote Reporting Presence / 远程采访现场感](concepts/RemoteReportingPresence.md) — Reporting method for producing scene texture through direct calls, timelines, translation, source networks, and humility when travel is impossible.
 - [Reporter-Source Trust Network / 记者与信任网络](concepts/ReporterSourceTrustNetwork.md) — Pattern where reporting depends on temporary trust among reporters, sources, translators, volunteers, family members, and listeners.
