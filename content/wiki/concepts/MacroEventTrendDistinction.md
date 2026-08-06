@@ -2,11 +2,13 @@
 title: "Macro Event vs Macro Trend Distinction"
 type: concept
 tags: [macro, investing, risk, information]
-sources: [143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]
+sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]
 last_updated: 2026-08-06
 ---
 
 # Macro Event vs Macro Trend Distinction
+
+[[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] adds the geopolitical escalation version. The episode begins with a live 2026-03-23 market selloff, but [[DavidWeng|大卫翁]] and [[Ricky]] argue that the key question is whether [[Iran]], oil, inflation, AI financing, and global-order instability have stopped being isolated events and become a macro trend. That shift changes the response from headline trading to allocation structure, cash, and [[InvestmentRiskManagement]].
 
 Macro event vs macro trend distinction is [[vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]]'s rule for handling market anxiety. A macro event is a news shock, policy announcement, or price move that may be important but is too noisy, fast, or uncertain for most ordinary investors to trade directly. A macro trend is a slower regime claim that can be expressed through [[AssetAllocation]], sizing, and long-horizon asset roles.
 

@@ -2,11 +2,13 @@
 title: "China Macro Temperature Gaps / 中国宏观温差"
 type: concept
 tags: [china, macro, investing, measurement]
-sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
 # China Macro Temperature Gaps / 中国宏观温差
+
+[[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] adds the first-quarter 2026 data-and-lived-experience version. The source says January-February industrial output, consumption, fixed-asset investment, infrastructure/manufacturing investment, and exports were better than expected, while property remained weak and ordinary income, employment, city, and class experience still felt divided. [[Ricky]] emphasizes macro resilience through a difficult transition, and [[DavidWeng|大卫翁]] stresses that some groups absorb the personal cost of industrial upgrading and state-capacity gains.
 
 [[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds the full-year market-versus-economy version through [[ChinaEquityRealEconomyGap]]. The source says 2025's Chinese equity strength did not make property, employment, consumption confidence, capital formation, or effective demand feel repaired, so temperature gaps can widen during a rally instead of disappearing.
 

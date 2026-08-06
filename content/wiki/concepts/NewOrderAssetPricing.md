@@ -2,11 +2,13 @@
 title: "New Order Asset Pricing"
 type: concept
 tags: [investing, macro, geopolitics, valuation]
-sources: [155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
 last_updated: 2026-07-24
 ---
 
 # New Order Asset Pricing
+
+[[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] adds a war-and-liquidity checkpoint. The source says markets can no longer price the [[Iran]] conflict as a small isolated event because oil, [[StraitOfHormuz]], U.S. political objectives, [[FederalReserve]] constraints, AI financing, and China policy all sit inside a looser global order. This extends the concept from a non-consensus China-asset thesis into a live cross-asset stress map.
 
 [[155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi]] adds a gold-market extension. The source reads the rally less as generic crisis hedging and more as distrust of U.S. policy, [[DonaldTrump]]-era institutions, and the dollar/Treasury anchor. That makes gold a market price for possible order change, while the episode's short-term caution shows that new-order pricing still needs [[CommodityTimeHorizonFramework|time-horizon separation]] and risk sizing.
 

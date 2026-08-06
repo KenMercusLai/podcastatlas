@@ -2,11 +2,13 @@
 title: "Geopolitical Cycle Macro"
 type: concept
 tags: [macro, geopolitics, investing, regime]
-sources: [the-secret-meeting-that-launched-opec, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
+sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, the-secret-meeting-that-launched-opec, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
 last_updated: 2026-08-06
 ---
 
 # Geopolitical Cycle Macro
+
+[[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] adds a source-dated 2026 market-stress version. [[Ricky]] argues that the [[Iran]] war and broader great-power uncertainty show old rules breaking before a new order is rebuilt; [[DavidWeng|大卫翁]] frames geopolitics as moving from a macro event into a macro trend. The portfolio result is [[StagflationRiskRepricing]]: oil, inflation, rates, liquidity, and risk appetite can all reprice together when the war is no longer treated as a short interruption.
 
 Geopolitical cycle macro is the episode's claim that recent macro analysis has to include geopolitical order as a higher-level constraint. In [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]], the guest describes the current world as moving away from a stable unipolar setting toward a more bipolar or multipolar structure, making ordinary steady-state macro analysis less reliable.
 

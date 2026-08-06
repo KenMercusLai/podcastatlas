@@ -2,11 +2,13 @@
 title: "A-Share Valuation Indicators"
 type: concept
 tags: [investing, valuation, china, markets]
-sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]
+sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]
 last_updated: 2026-08-06
 ---
 
 # A-Share Valuation Indicators
+
+[[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] adds a live-index-level checkpoint. The source says the Shanghai Composite had reached a 4197-point stage high in Q1 2026 before falling below 3900, while CSI 300 and Wind All-A turned negative and ChiNext only barely stayed positive. The episode uses the drawdown less as a top-call indicator than as evidence that A-share floor assumptions must be tested against policy support, domestic yield scarcity, and [[ChinaEquityStructuralSelection]].
 
 A-share valuation indicators are the measurement cluster introduced by [[e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]] for judging market heat after A-shares moved above 4000. [[ZhangYizhen]] uses PE versus future returns, stock-bond relative value, deposit-to-market-cap ratios, three-year equity-fund annualized returns, log charts, confidence intervals, and moving-average deviation to shift attention from index points toward expected return, crowd behavior, and drawdown risk.
 

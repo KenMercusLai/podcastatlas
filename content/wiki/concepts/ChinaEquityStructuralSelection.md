@@ -2,11 +2,13 @@
 title: "China Equity Structural Selection / 中国权益结构分化"
 type: concept
 tags: [china, equities, investing, active-management]
-sources: [160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]
+sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]
 last_updated: 2026-08-06
 ---
 
 # China Equity Structural Selection / 中国权益结构分化
+
+[[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] adds the first-quarter 2026 allocation update. [[Ricky]] argues that A shares have a relatively stronger floor because domestic long rates and credit yields leave institutions with few attractive alternatives, while Hong Kong can face short-term overseas liquidity and geopolitical pressure. [[DavidWeng|大卫翁]] keeps long-term interest in Hong Kong central/state-owned firms, market-value management, shareholder-return improvement, and core Chinese internet companies with technology teams, talent density, and data assets.
 
 [[160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz]] adds the pullback-and-sector-choice version. [[Haoge|浩哥]] frames China equity opportunity as choosing the right industries rather than owning every China label, while [[DavidWeng|大卫翁]] separates broad long-term China exposure from medium-term narratives in innovation drugs, high-end manufacturing, AI, and other leading industries. The source also treats overheated private-market interest in robotics, space computing, and commercial space as a possible warning sign if future listings stop caring about valuation or financial evidence.
 

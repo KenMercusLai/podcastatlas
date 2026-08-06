@@ -2,11 +2,13 @@
 title: "BlackRock"
 type: entity
 tags: [company, finance, asset-management]
-sources: [151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, vanguard-1]
+sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, vanguard-1]
 last_updated: 2026-08-06
 ---
 
 # BlackRock
+
+[[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] mentions BlackRock inside [[DavidWeng|大卫翁]]'s updated [[PrivateCreditTailRisk]] concern. The source says conversations with people around BlackRock, [[KKR]], and [[ApolloGlobalManagement|Apollo]] left him less reassured because each institution tended to view its own private-credit exposure as higher quality or less risky than the market average.
 
 [[151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]] adds BlackRock as one of the traditional financial giants moving further into [[PrivateCreditMarket|private credit]] through acquisition or strategic partnership. In the source's framing, this is part of private credit becoming less marginal and more connected to mainstream asset-management distribution.
 

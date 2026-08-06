@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-06] ingest | 161. 全球宏观和资本市场2026一季度复盘与展望
+
+Added source page for a 起朱楼宴宾客 live Beijing Q1 2026 macro and capital-market review with 大卫翁 and Ricky on the March 23 market selloff, Iran war risk, old-order breakdown, stagflation/recession/liquidity repricing, China January-February data, AI application and financing risk, private credit, gold, oil, A/H allocation, and cash discipline. Created pages for Stagflation Risk Repricing and Lindy Effect Asset Allocation; updated overview, index, 起朱楼宴宾客, 大卫翁, Ricky, Iran, Strait of Hormuz, BlackRock, KKR, Apollo, Federal Reserve, Donald Trump, and related macro, China, gold, AI, private-credit, convertible-bond, and allocation concepts. No direct contradiction found; the source qualifies the January 2026 outlook by showing how quickly the 2026 risk-asset frame shifted from optimism to war, inflation, liquidity, and policy-response uncertainty.
+
 ## [2026-08-06] ingest | 158. 播客里聊了四年的资产配置，我把它做成了一本《行动指南》
 
 Added source page for a 起朱楼宴宾客 episode by 大卫翁 on how the "迈出资产配置第一步" podcast series became 《资产配置行动指南》. Created pages for 《资产配置行动指南》, 中信出版社, and Podcast To Book Systematization; updated overview, index, 起朱楼宴宾客, 大卫翁, Asset Allocation, Investment Worldview Fit, Portfolio Suitability, Investment For Better Life, Book Publishing Economics, Author Platform Risk Reduction, Podcast-Enabled Career Path, Podcast As Asynchronous Media, and Book Creator Work. No direct contradiction found; the source extends the existing asset-allocation branch by turning worldview fit and ordinary household life goals into a book-shaped action guide rather than a transcript or single-asset recommendation.
@@ -6233,6 +6237,10 @@ Ran health before lint; health scanned 8,809 wiki pages and found no empty/stub 
 ## [2026-08-06] ingest | 159.算法的六副面孔：它是如何从处理数据，变成定义我们是谁的
 
 Added source page for a 起朱楼宴宾客 framework episode by 大卫翁 on algorithms and media through Tarleton Gillespie's The Relevance of Algorithms and Kyle Chayka's Filterworld. Created pages for Tarleton Gillespie, The Relevance of Algorithms, Kyle Chayka, Filterworld, Marshall McLuhan, Public Relevance Algorithms, Algorithmic Inclusion Patterns, Algorithmic Prediction Loop, Algorithmic Relevance Assessment, Algorithmic Objectivity Promise, Algorithmic Entanglement, Calculated Publics, and Algorithmic Diversity Dividend; updated overview, index, 起朱楼宴宾客, 大卫翁, Google, Amazon, Spotify, TikTok, Instagram, Douyin, Xiaohongshu, Walter Benjamin, Information Cocoon, Attention Industrialization, Algorithmic Labeling, PageRank Search Relevance, Recommendation System Productization, Personalization As Social Identity, Feed Curation, Creator Evaluation Pressure, and Group Polarization. No direct contradiction found; the source extends the wiki's information-cocoon, attention-industrialization, recommendation, and platform-power branches while qualifying cocoon panic with a multi-platform diversity countermeasure.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

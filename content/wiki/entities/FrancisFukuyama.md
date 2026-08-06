@@ -2,11 +2,13 @@
 title: "Francis Fukuyama / 福山"
 type: entity
 tags: [author, political-theory]
-sources: [kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080, jiaqi-moyu-geng-jiankang-574391976]
+sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080, jiaqi-moyu-geng-jiankang-574391976]
 last_updated: 2026-07-18
 ---
 
 # Francis Fukuyama / 福山
+
+[[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] cites Fukuyama in a source-scoped way around the [[Iran]] war. [[DavidWeng|大卫翁]] summarizes a Fukuyama podcast argument that [[DonaldTrump]] had not made the strike objective clear, using it to explain why the market had trouble separating military outcome, domestic victory narrative, and macro risk.
 
 [[kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080]] mentions Fukuyama as the recommender of [[GuanggunWeiji|《光棍危机》]], a book the host praises for linking Asian male population surplus to stability, security, politics, sociology, and life-science evidence. The source does not discuss Fukuyama's own theory; it records him only as a recommendation signal for [[MaleSurplusSecurityRisk]].
 

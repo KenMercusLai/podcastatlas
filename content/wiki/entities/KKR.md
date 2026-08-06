@@ -2,11 +2,13 @@
 title: "KKR"
 type: entity
 tags: [company, finance, private-markets, private-credit]
-sources: [151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]
+sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]
 last_updated: 2026-08-06
 ---
 
 # KKR
+
+[[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] mentions KKR in the first-quarter 2026 private-credit update. [[DavidWeng|大卫翁]] groups it with [[BlackRock]] and [[ApolloGlobalManagement|Apollo]] as an institution whose private-credit confidence matters not because KKR is singled out as uniquely risky, but because system-wide risk can be understated when every large participant believes its own book is safer.
 
 KKR appears in [[151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]] as one of the large private-market managers shaping the growth of [[PrivateCreditMarket|private credit]]. The source uses KKR partly as a scale example and partly as part of the insurance-funding channel where private-market managers gather long-duration capital for illiquid credit assets.
 

@@ -2,11 +2,13 @@
 title: "Strait of Hormuz"
 type: entity
 tags: [place, geopolitics, shipping]
-sources: [how-to-get-through-the-strait-of-hormuz, the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
+sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, how-to-get-through-the-strait-of-hormuz, the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
 last_updated: 2026-07-24
 ---
 
 # Strait of Hormuz
+
+[[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] adds the market-pricing version. [[Ricky]] says roughly 20 million barrels of oil movement depend on the strait while only about 6 million barrels can route around it through pipelines, so a rational settlement path might keep oil around 70-80 dollars but an uncontrolled path can make much higher prices impossible to rule out. The source uses the strait as a direct bridge from [[Iran]] war risk to [[StagflationRiskRepricing]].
 
 [[how-to-get-through-the-strait-of-hormuz]] adds a [[PlanetMoney]] operational account of the strait as a possible toll booth. [[HamidHosseini]] says an Indian oil-ship owner sought [[SepahNavy]] permission, passed screening around vessel identity, flag, destination, cargo, crew, and adversary links, then paid an alleged crypto toll before sailing toward [[India]]. The source keeps the toll claim attributed to Hosseini's unnamed contacts.
 

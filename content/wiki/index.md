@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [161. 全球宏观和资本市场2026一季度复盘与展望](sources/161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm.md) — 起朱楼宴宾客 live Beijing Q1 2026 macro review with 大卫翁 and Ricky on Iran war risk, stagflation repricing, AI/private-credit finance, China data, gold, oil, A/H allocation, and cash discipline.
 - [160.如何应对中国资产牛市的“调整期”｜新书分享会成都场实录](sources/160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz.md) — 起朱楼宴宾客 live Chengdu book-sharing episode with 大卫翁 and 浩哥 on handling a China-asset bull-market pullback through long/mid/short allocation, 1:1:1 buckets, AI and war narratives, gold sizing, cash optionality, human-capital fit, and index-fund discipline.
 - [159.算法的六副面孔：它是如何从处理数据，变成定义我们是谁的](sources/159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7.md) — 起朱楼宴宾客 framework episode by 大卫翁 on Tarleton Gillespie and Kyle Chayka's algorithm sociology, covering inclusion, prediction, relevance, objectivity, practice entanglement, calculated publics, and multi-platform resistance.
 - [158. 播客里聊了四年的资产配置，我把它做成了一本《行动指南》](sources/158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29.md) — 起朱楼宴宾客 episode on how 大卫翁 turned the "迈出资产配置第一步" podcast series into 《资产配置行动指南》, framing asset allocation as worldview-fit action design and podcast-to-book systematization rather than transcript cleanup.
@@ -5330,6 +5331,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Stagflation Risk Repricing / 滞胀风险重估](concepts/StagflationRiskRepricing.md) — Episode 161 frame for markets shifting from early-2026 risk appetite toward inflation, recession, liquidity, oil, and policy-path stress.
+- [Lindy Effect Asset Allocation / 林迪效应资产配置](concepts/LindyEffectAssetAllocation.md) — Episode 161 ultra-long-horizon filter for giving different evidence weight to assets and institutions that have survived many regimes.
 - [Public Relevance Algorithms / 公共相关性的算法](concepts/PublicRelevanceAlgorithms.md) — Episode 159 category for algorithms that process and certify what becomes visible, searchable, recommendable, and publicly relevant.
 - [Algorithmic Inclusion Patterns / 算法包含模式](concepts/AlgorithmicInclusionPatterns.md) — Episode 159 frame for how platforms decide what can enter indexes, tags, ranking pools, and public visibility.
 - [Algorithmic Prediction Loop / 算法预判循环](concepts/AlgorithmicPredictionLoop.md) — Episode 159 pattern where platforms build behavioral user models while feedback interfaces also train users.

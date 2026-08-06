@@ -2,11 +2,13 @@
 title: "Ricky"
 type: entity
 tags: [person, investing, podcast, field-report]
-sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
 # Ricky
+
+In [[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]], Ricky gives the first-quarter 2026 update to his January macro outlook. He argues that markets moved from a risk-appetite window toward [[StagflationRiskRepricing]], recession fear, liquidity pressure, and geopolitical uncertainty, making him cautious on U.S. technology equities, more constructive on A shares as relatively supported, and short-term neutral but long-term selective on Hong Kong assets. His frame extends [[GeopoliticalCycleMacro]], [[ChinaEquityStructuralSelection]], [[GoldAsCurrencySpareTire]], and [[PrivateCreditTailRisk]].
 
 In [[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]], Ricky returns for the 2026 annual macro and capital-market outlook. He describes 2025 as a capital-market and asset-management big year while stressing [[ChinaEquityRealEconomyGap]], then leans risk-on for 2026 through A/H exposure, especially H shares, provided investors watch [[CentralBalanceSheetDemandSupport]], [[ChinaDeflationDemandRepair]], RMB appreciation, AI capex confirmation, gold sizing, and [[ChinaEquityStructuralSelection]] rather than assuming another broad beta year.
 

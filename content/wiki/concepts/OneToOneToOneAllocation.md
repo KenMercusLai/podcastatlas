@@ -2,11 +2,13 @@
 title: "1:1:1 Allocation Anchor"
 type: concept
 tags: [investing, asset-allocation, portfolio, personal-finance]
-sources: [160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]
+sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]
 last_updated: 2026-08-06
 ---
 
 # 1:1:1 Allocation Anchor
+
+[[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] adds the permanent-cash stress version. During a live market selloff, [[DavidWeng|大卫翁]] says investors should not wait for one perfect signal before raising or lowering risk; cash should be a long-term allocation role. In his own 1:1:1 language, roughly one-third cash or cash-like exposure preserves choice when [[StagflationRiskRepricing]], war, AI disappointment, or liquidity shocks arrive faster than forecasts can update.
 
 [[160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz]] adds a second 1:1:1 map. Alongside the familiar split among risk assets, income-or-gold assets, and cash-like assets, [[DavidWeng|大卫翁]] proposes a time-and-thesis split: long-term original intention, medium-term narrative, and short-term cash or quasi-cash. In this version, cash is not a failed return asset; it is what lets the investor live through a China-asset pullback, AI or war headlines, and regret after rebalancing.
 

@@ -2,11 +2,13 @@
 title: "Convertible Bond / 可转债"
 type: concept
 tags: [investing, bonds, equity, risk]
-sources: [vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]
+sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]
 last_updated: 2026-08-06
 ---
 
 # Convertible Bond / 可转债
+
+[[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] adds a cautious reentry note. [[Ricky]] says a continued decline in China's convertible-bond market could create subcategory opportunities, but [[DavidWeng|大卫翁]] says he would not consider the category while bond-like protection is insufficient and yields have not turned positive. The source therefore reinforces the idea that convertibles need credit floor, yield, and holder-fit evidence before they become attractive again.
 
 Convertible bond / 可转债 enters the wiki through [[vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]] as one of [[DavidWeng|大卫翁]]'s two successful recent investment cases. The source frames convertible bonds as an instrument with a clearer bond floor and equity-linked upside, making credit-risk analysis and macro judgment more central than pure price momentum.
 

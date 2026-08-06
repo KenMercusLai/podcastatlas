@@ -2,11 +2,13 @@
 title: "AI Data-Center Private Credit Financing"
 type: concept
 tags: [ai, data-centers, private-credit, infrastructure, finance]
-sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]
+sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]
 last_updated: 2026-08-06
 ---
 
 # AI Data-Center Private Credit Financing
+
+[[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] adds the first-quarter 2026 risk-sentiment update. [[DavidWeng|大卫翁]] worries that AI financing and private credit can become more dangerous when every large institution believes its own assets are safer and when markets assume the U.S. government or [[FederalReserve]] will intervene if stress becomes systemic. [[Ricky]] treats the underlying private-credit logic as familiar, but notes that the scale has grown as the financing target shifts toward AI compute centers.
 
 [[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] adds the annual-risk context. AI data-center finance is no longer only a product map from episode 151; it becomes a reason [[PrivateMarketBubbleOpacity]] could matter for 2026 if [[OpenAI]], hyperscaler commitments, private credit, insurers, and public-market exit plans become linked.
 

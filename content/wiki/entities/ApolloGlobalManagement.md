@@ -2,11 +2,13 @@
 title: "Apollo Global Management"
 type: entity
 tags: [company, finance, private-credit, private-markets]
-sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]
+sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]
 last_updated: 2026-08-06
 ---
 
 # Apollo Global Management
+
+[[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] mentions Apollo in the first-quarter 2026 private-credit risk update. [[DavidWeng|大卫翁]] groups Apollo with [[BlackRock]] and [[KKR]] as part of a wider institutional-confidence problem: each large participant may believe its own assets are better underwritten even as AI compute and data-center financing increase the scale of [[PrivateCreditTailRisk]].
 
 [[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] uses Apollo again inside the private-market bubble guess. The source cites Apollo's broad private-credit-related market framing to argue that [[PrivateCreditMarket|private credit]] and adjacent non-bank credit channels can be far larger and less transparent than the public equity stories investors usually watch.
 
