@@ -2,8 +2,8 @@
 title: "Retail Bull Market Psychology"
 type: concept
 tags: [investing, psychology, markets, behavior]
-sources: [ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
-last_updated: 2026-07-08
+sources: [vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
+last_updated: 2026-08-06
 ---
 
 # Retail Bull Market Psychology
@@ -16,6 +16,8 @@ The concept is narrower than [[RetailInvestorCrowding]]. Retail crowding describ
 
 [[paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]] adds the information-cascade version through [[ZhuNing]]. The source treats broad social chatter about easy profits as a warning sign: by the time a trend reaches ordinary acquaintances or social platforms as an obvious money-making story, earlier circles may already have captured much of the opportunity.
 
+[[vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb]] adds the leveraged-product version. [[ChineseStructuredFund|Structured-fund]] B shares turned sector rallies into visibly larger daily gains, helping retail investors treat leverage as a normal bull-market participation tool until [[StructuredFundDownwardConversion|downward conversion]] revealed the hidden path risk.
+
 ## Key Claims
 - Visible quick gains make stock income feel more attractive than slow labor income, even for people who previously ignored the market.
 - Ordinary investors often underbuy early, sell too soon, reenter higher, and then hold losses after the cycle turns.
@@ -26,6 +28,7 @@ The concept is narrower than [[RetailInvestorCrowding]]. Retail crowding describ
 - E145 adds that fear of giving back gains and fear of selling too early can both trap investors in indecision.
 - [[AShareValuationIndicators]] can cool down euphoria, but only if the investor accepts that indicators guide sizing rather than promise a precise top.
 - When skeptics capitulate or ordinary social circles start repeating the same trade, the signal is not proof of a top but evidence that [[SpeculativeBubblePsychology]] is becoming broad.
+- Vol.121 adds that leverage products can intensify bull-market psychology because amplified gains make ordinary market beta feel dull.
 
 ## Connections
 - [[RetailInvestorCrowding]] — market-level result of this behavior when many ordinary investors enter together.
@@ -37,3 +40,4 @@ The concept is narrower than [[RetailInvestorCrowding]]. Retail crowding describ
 - [[AShareValuationIndicators]], [[DrawdownPsychology]], and [[PaperWealthVsCashValue]] — E145's valuation and profit-capture extension.
 - [[MultiStrategyAllocation]] — portfolio response to single-market emotional dependence.
 - [[ZhuNing]] and [[BubbleNecessaryConditions]] — 42章经 interview extension around crowd entry and late-cycle information arrival.
+- [[ChineseStructuredFund]], [[StructuredFundDownwardConversion]], and [[LeveragedProductSuitability]] — vol.121's structured-fund mania extension.

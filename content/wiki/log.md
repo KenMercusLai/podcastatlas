@@ -5932,3 +5932,19 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | vol.121.从昙花一现的分级基金到风头正劲的杠杆ETF：永远不要低估人性的疯狂
+
+Added source page for a 起朱楼宴宾客 episode on Chinese structured funds, 2015 B-share downward conversion, overseas leveraged ETFs and ETNs, and the investor-behavior risks around leverage. Created pages for FNGU, TMF, TQQQ, NVDL, Rydex, XACT, ProShares, Bank of Montreal, 国投瑞银基金, 长盛基金, 银华基金, 招商基金, 申万菱信基金, 富国基金, Shenzhen Stock Exchange, Chinese Structured Fund, Structured Fund Pair Conversion, Structured Fund Downward Conversion, Leveraged ETF, Daily Leverage Reset, Volatility Decay, Futures Roll Cost, Single-Stock Leveraged ETF, Leveraged ETN Financing Cost, ETN Credit Risk, and Leveraged Product Suitability; updated overview, index, 起朱楼宴宾客, 大卫翁, China Securities Regulatory Commission, Shanghai Stock Exchange, Leverage-Driven Bull Market, Investment Risk Management, Behavioral Investing Biases, Retail Bull Market Psychology, Portfolio Suitability, and Passive Investing. No direct contradiction found; the source qualifies passive and ETF-based investing by showing that ETF/ETN access can hide daily reset, volatility decay, financing cost, roll cost, premium collapse, and issuer-credit risk that make leveraged products poor ordinary long-term holdings.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

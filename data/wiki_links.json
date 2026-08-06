@@ -3839,6 +3839,10 @@
     "title": "Bank of Japan",
     "url": "/wiki/entities/bankofjapan/"
   },
+  "BankOfMontreal": {
+    "title": "Bank of Montreal / 蒙特利尔银行",
+    "url": "/wiki/entities/bankofmontreal/"
+  },
   "BankOrganizationalHierarchy": {
     "title": "Bank Organizational Hierarchy",
     "url": "/wiki/concepts/bankorganizationalhierarchy/"
@@ -5595,6 +5599,10 @@
     "title": "《长得好看能当饭吃吗》",
     "url": "/wiki/entities/changdehaokannengdangfanchima/"
   },
+  "ChangshengFund": {
+    "title": "长盛基金 / Changsheng Fund",
+    "url": "/wiki/entities/changshengfund/"
+  },
   "Changzhou": {
     "title": "Changzhou / 常州",
     "url": "/wiki/entities/changzhou/"
@@ -5955,6 +5963,10 @@
     "title": "China Low-Redistribution State",
     "url": "/wiki/concepts/chinalowredistributionstate/"
   },
+  "ChinaMerchantsFund": {
+    "title": "招商基金 / China Merchants Fund",
+    "url": "/wiki/entities/chinamerchantsfund/"
+  },
   "ChinaMobile": {
     "title": "China Mobile / 中国移动",
     "url": "/wiki/entities/chinamobile/"
@@ -6102,6 +6114,10 @@
   "ChineseStandardEMU": {
     "title": "Chinese Standard EMU",
     "url": "/wiki/concepts/chinesestandardemu/"
+  },
+  "ChineseStructuredFund": {
+    "title": "Chinese Structured Fund / 中国分级基金",
+    "url": "/wiki/concepts/chinesestructuredfund/"
   },
   "ChineseSuperLeague": {
     "title": "中国足球超级联赛 / Chinese Super League",
@@ -7611,6 +7627,10 @@
     "title": "Daily Harvest",
     "url": "/wiki/entities/dailyharvest/"
   },
+  "DailyLeverageReset": {
+    "title": "Daily Leverage Reset",
+    "url": "/wiki/concepts/dailyleveragereset/"
+  },
   "DailyLifeMystery": {
     "title": "日常推理 / Daily-Life Mystery",
     "url": "/wiki/concepts/dailylifemystery/"
@@ -9055,6 +9075,10 @@
     "title": "ESPN",
     "url": "/wiki/entities/espn/"
   },
+  "ETNCreditRisk": {
+    "title": "ETN Credit Risk",
+    "url": "/wiki/concepts/etncreditrisk/"
+  },
   "EVChargingInfrastructure": {
     "title": "EV Charging Infrastructure",
     "url": "/wiki/concepts/evcharginginfrastructure/"
@@ -10034,6 +10058,10 @@
   "FINRAFoundation": {
     "title": "FINRA Foundation",
     "url": "/wiki/entities/finrafoundation/"
+  },
+  "FNGU": {
+    "title": "FNGU",
+    "url": "/wiki/entities/fngu/"
   },
   "FOFProductDesign": {
     "title": "FOF Product Design",
@@ -11403,6 +11431,10 @@
     "title": "Full-Stack AI Platform",
     "url": "/wiki/concepts/fullstackaiplatform/"
   },
+  "FullgoalFund": {
+    "title": "富国基金 / Fullgoal Fund",
+    "url": "/wiki/entities/fullgoalfund/"
+  },
   "FunctionalAlibi": {
     "title": "Functional Alibi",
     "url": "/wiki/concepts/functionalalibi/"
@@ -11442,6 +11474,10 @@
   "FutureResidentHousingVoice": {
     "title": "Future Resident Housing Voice",
     "url": "/wiki/concepts/futureresidenthousingvoice/"
+  },
+  "FuturesRollCost": {
+    "title": "Futures Roll Cost / 期货展期损耗",
+    "url": "/wiki/concepts/futuresrollcost/"
   },
   "Fuxinghao": {
     "title": "Fuxinghao / 复兴号",
@@ -16647,6 +16683,18 @@
     "title": "Leveraged Aviation Expansion",
     "url": "/wiki/concepts/leveragedaviationexpansion/"
   },
+  "LeveragedETF": {
+    "title": "Leveraged ETF / 杠杆 ETF",
+    "url": "/wiki/concepts/leveragedetf/"
+  },
+  "LeveragedETNFinancingCost": {
+    "title": "Leveraged ETN Financing Cost",
+    "url": "/wiki/concepts/leveragedetnfinancingcost/"
+  },
+  "LeveragedProductSuitability": {
+    "title": "Leveraged Product Suitability",
+    "url": "/wiki/concepts/leveragedproductsuitability/"
+  },
   "LeviCase": {
     "title": "Levi Case",
     "url": "/wiki/entities/levicase/"
@@ -19555,6 +19603,10 @@
     "title": "N 同学 / N Student",
     "url": "/wiki/entities/nstudent/"
   },
+  "NVDL": {
+    "title": "NVDL",
+    "url": "/wiki/entities/nvdl/"
+  },
   "NVisionMedical": {
     "title": "nVision Medical",
     "url": "/wiki/entities/nvisionmedical/"
@@ -22455,6 +22507,10 @@
     "title": "ProPublica",
     "url": "/wiki/entities/propublica/"
   },
+  "ProShares": {
+    "title": "ProShares",
+    "url": "/wiki/entities/proshares/"
+  },
   "ProactiveAgents": {
     "title": "Proactive Agents",
     "url": "/wiki/concepts/proactiveagents/"
@@ -24347,6 +24403,10 @@
     "title": "Ryan Sutton-Gee",
     "url": "/wiki/entities/ryansuttongee/"
   },
+  "Rydex": {
+    "title": "Rydex",
+    "url": "/wiki/entities/rydex/"
+  },
   "Ryo": {
     "title": "Ryo",
     "url": "/wiki/entities/ryo/"
@@ -24362,6 +24422,10 @@
   "SCJohnson": {
     "title": "SC Johnson",
     "url": "/wiki/entities/scjohnson/"
+  },
+  "SDICUBSFund": {
+    "title": "国投瑞银基金 / SDIC UBS Fund",
+    "url": "/wiki/entities/sdicubsfund/"
   },
   "SEC": {
     "title": "SEC",
@@ -25327,9 +25391,17 @@
     "title": "盛世投资研习院",
     "url": "/wiki/entities/shengshiinvestmentacademy/"
   },
+  "ShenwanLingxinFund": {
+    "title": "申万菱信基金 / Shenwan Lingxin Fund",
+    "url": "/wiki/entities/shenwanlingxinfund/"
+  },
   "Shenzhen": {
     "title": "Shenzhen / 深圳",
     "url": "/wiki/entities/shenzhen/"
+  },
+  "ShenzhenStockExchange": {
+    "title": "Shenzhen Stock Exchange / 深圳证券交易所",
+    "url": "/wiki/entities/shenzhenstockexchange/"
   },
   "SherlockHolmes": {
     "title": "Sherlock Holmes / 福尔摩斯",
@@ -25650,6 +25722,10 @@
   "SingleRoomOccupancyHousing": {
     "title": "Single-Room Occupancy Housing",
     "url": "/wiki/concepts/singleroomoccupancyhousing/"
+  },
+  "SingleStockLeveragedETF": {
+    "title": "Single-Stock Leveraged ETF / 个股杠杆 ETF",
+    "url": "/wiki/concepts/singlestockleveragedetf/"
   },
   "Sinocism": {
     "title": "Sinocism",
@@ -26803,6 +26879,14 @@
     "title": "Structured 3D Robot Data",
     "url": "/wiki/concepts/structured3drobotdata/"
   },
+  "StructuredFundDownwardConversion": {
+    "title": "Structured Fund Downward Conversion / 分级基金下折",
+    "url": "/wiki/concepts/structuredfunddownwardconversion/"
+  },
+  "StructuredFundPairConversion": {
+    "title": "Structured Fund Pair Conversion / 分级基金配对转换",
+    "url": "/wiki/concepts/structuredfundpairconversion/"
+  },
   "StubbinsFfirth": {
     "title": "Stubbins Ffirth / 斯塔宾斯·福斯",
     "url": "/wiki/entities/stubbinsffirth/"
@@ -27159,6 +27243,10 @@
     "title": "TDK",
     "url": "/wiki/entities/tdk/"
   },
+  "TMF": {
+    "title": "TMF",
+    "url": "/wiki/entities/tmf/"
+  },
   "TPG": {
     "title": "TPG",
     "url": "/wiki/entities/tpg/"
@@ -27166,6 +27254,10 @@
   "TPU": {
     "title": "TPU",
     "url": "/wiki/entities/tpu/"
+  },
+  "TQQQ": {
+    "title": "TQQQ",
+    "url": "/wiki/entities/tqqq/"
   },
   "TRMLabs": {
     "title": "TRM Labs",
@@ -29307,6 +29399,10 @@
     "title": "《切尔诺贝利的悲鸣》 / Voices from Chernobyl",
     "url": "/wiki/entities/voicesfromchernobyl/"
   },
+  "VolatilityDecay": {
+    "title": "Volatility Decay / 波动率损耗",
+    "url": "/wiki/concepts/volatilitydecay/"
+  },
   "VolodymyrZelensky": {
     "title": "Volodymyr Zelensky",
     "url": "/wiki/entities/volodymyrzelensky/"
@@ -30247,6 +30343,10 @@
     "title": "无支祁",
     "url": "/wiki/entities/wuzhiqi/"
   },
+  "XACT": {
+    "title": "XACT",
+    "url": "/wiki/entities/xact/"
+  },
   "XAI": {
     "title": "xAI",
     "url": "/wiki/entities/xai/"
@@ -30802,6 +30902,10 @@
   "YinglingdianAI": {
     "title": "Yinglingdian AI / 英灵殿",
     "url": "/wiki/entities/yinglingdianai/"
+  },
+  "YinhuaFund": {
+    "title": "银华基金 / Yinhua Fund",
+    "url": "/wiki/entities/yinhuafund/"
   },
   "Yinxu": {
     "title": "殷墟",
@@ -33406,6 +33510,10 @@
   "vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt": {
     "title": "vol.120.日本医疗体系的崩溃与重生：医院、药品、医保三角困局的一种解法",
     "url": "/wiki/sources/vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt/"
+  },
+  "vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb": {
+    "title": "vol.121.从昙花一现的分级基金到风头正劲的杠杆ETF：永远不要低估人性的疯狂",
+    "url": "/wiki/sources/vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb/"
   },
   "vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1": {
     "title": "Vol. 160 一年多以后，再聊AI写代码Vibe Coding",

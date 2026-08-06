@@ -2,8 +2,8 @@
 title: "Leverage-Driven Bull Market"
 type: concept
 tags: [investing, markets, leverage, risk]
-sources: [ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
-last_updated: 2026-07-08
+sources: [vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
+last_updated: 2026-08-06
 ---
 
 # Leverage-Driven Bull Market
@@ -14,6 +14,8 @@ The concept extends the wiki's broader [[InvestmentRiskManagement]] and [[Deriva
 
 [[paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]] adds a household-asset version. [[ZhuNing]] argues that real estate became attractive to many Chinese households partly because it was one of the few investment channels where ordinary people could use large leverage, which increases participation but also turns price declines into balance-sheet stress.
 
+[[vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb]] adds the product-structure version through [[ChineseStructuredFund|Chinese structured funds]]. The 2014-2015 boom made B-share leverage look like a convenient daily-return amplifier, but [[StructuredFundDownwardConversion|downward conversion]], price limits, rising effective leverage, and premium collapse turned the reversal into a product-specific wealth destruction channel.
+
 ## Key Claims
 - Leverage can make a rising market feel obvious because account gains arrive faster than wages, savings, or unleveraged investing.
 - Margin finance and off-market financing can bring new demand into equities without adding real business value.
@@ -22,6 +24,7 @@ The concept extends the wiki's broader [[InvestmentRiskManagement]] and [[Deriva
 - The source treats house-mortgage or high-multiple financing ideas as red flags that market enthusiasm is exceeding ordinary [[InvestmentRiskManagement]].
 - Leverage-driven rallies are especially fragile when policy support and regulatory cleanup appear close together.
 - Household leverage can make an asset class feel like the only realistic path to a large goal, but that same leverage can convert market volatility into liquidity and repayment risk.
+- Vol.121 adds that leverage can be embedded inside public-fund products, so investors may enter a leverage-driven bull market without opening an explicit margin account.
 
 ## Connections
 - [[AShareBullMarketHistory]] — historical home of the 2014-2015 case.
@@ -31,3 +34,4 @@ The concept extends the wiki's broader [[InvestmentRiskManagement]] and [[Deriva
 - [[SpeculativeBubblePsychology]] — crowd story and leverage reinforce each other.
 - [[ChinaSecuritiesRegulatoryCommission]] — regulator connected to the cleanup of external financing channels in the source.
 - [[ZhuNing]] and [[BubbleNecessaryConditions]] — 42章经 interview extension linking leverage access, real estate participation, and bubble risk.
+- [[ChineseStructuredFund]], [[StructuredFundDownwardConversion]], and [[LeveragedProductSuitability]] — vol.121's product-structure extension.

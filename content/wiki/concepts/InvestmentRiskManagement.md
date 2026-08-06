@@ -41,6 +41,7 @@ sources:
   - vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x
   - vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8
   - vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3
+  - vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb
   - ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv
 last_updated: 2026-08-06
 ---
@@ -64,6 +65,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 [[vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]] adds the worldview-fit version: risk management begins by refusing to copy a style that contradicts the investor's own view of uncertainty, rules, leverage, or time. Cash buffers, diversification, no all-in bets, and global perspective are treated as behaviorally durable choices for the host's worldview, while other investors may legitimately choose different roads if they can survive them.
 
 [[vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3]] adds the research-consumption version: using [[BrokerageResearchReports|brokerage research reports]] safely means separating evidence from recommendation pressure. Reports can improve data, context, and industry framing, but public ratings, target prices, and conclusions should not override position sizing, liquidity, [[PortfolioSuitability]], or the investor's own [[CircleOfCompetence]].
+
+[[vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb]] adds the leveraged-product mechanics version: risk management must identify whether a product's losses come from [[StructuredFundDownwardConversion|downward conversion]], [[DailyLeverageReset|daily reset]], [[VolatilityDecay|volatility decay]], [[FuturesRollCost|roll cost]], [[LeveragedETNFinancingCost|financing cost]], premium collapse, or [[ETNCreditRisk|issuer credit risk]] before sizing or holding it.
 
 [[ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]] adds the retail-gold version: even an asset associated with safety can create stress when the buyer enters after a fast run-up, allocates too much, or uses borrowed money. The source treats gold's form factor - jewelry, physical gold, accumulated grams, or ETF-like exposure - as part of risk management because each route changes liquidity, premium, and behavior.
 
@@ -178,6 +181,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 - Vol.112 adds that non-consensus macro frameworks need a risk boundary: investors must distinguish structural possibility from company earnings, cash flow, valuation repair, and a fund manager's holdable process.
 - Vol.115 adds that an asset ranking is not an allocation plan until it names position role, time horizon, drawdown tolerance, and whether the expected return now comes from carry, cash flow, valuation repair, or future belief.
 - Public crypto reserves require a higher institutional risk bar than private crypto exposure because fund purpose, taxpayer exposure, custody, liquidity, and emergency-use rules must be explicit.
+- Vol.121 adds that exchange-traded product access does not simplify product risk: leverage mechanics, legal wrapper, premium, reset, roll, financing, and issuer risk must be understood before position size or holding period is chosen.
 
 ## Connections
 - [[PublicCryptoInvestmentRisk]], [[StateCryptoReserves]], [[SeparateCryptoReserveFund]], [[SeizedDigitalAssetCustody]], and [[Bitcoin]] - state public-finance crypto branch added by Marketplace Tech.
@@ -223,3 +227,4 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[PersonalPensionAccount|个人养老金账户]], [[TargetDateFund|目标日期基金]], [[FOFProductDesign]], and [[PassiveInvesting]] — vol.109's pension-account risk and product-choice cluster.
 - [[InvestmentWorldviewFit]], [[RiskPerception]], [[HumanCapitalInflationHedge]], and [[TheCenturyTrilogy]] — vol.110's worldview, psychology, and historical-uncertainty extension.
 - [[HouseholdGoldSavings]], [[OnlineGoldAccumulation]], [[AntFortune]], and [[GoldMonetaryAnchor]] — EP268's retail-gold, platform, and household-reserve extension.
+- [[ChineseStructuredFund]], [[LeveragedETF]], [[LeveragedProductSuitability]], [[DailyLeverageReset]], [[VolatilityDecay]], [[FuturesRollCost]], [[LeveragedETNFinancingCost]], and [[ETNCreditRisk]] — vol.121's leveraged-product mechanics cluster.

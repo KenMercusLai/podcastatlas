@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.121.从昙花一现的分级基金到风头正劲的杠杆ETF：永远不要低估人性的疯狂](sources/vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb.md) — 起朱楼宴宾客 episode on Chinese structured funds, 2015 B-share downward conversions, leveraged ETFs and ETNs including FNGU, TMF, TQQQ, and NVDL, and why ordinary investors should treat retail leverage as a short-horizon tool rather than a long-term holding.
 - [vol.120.日本医疗体系的崩溃与重生：医院、药品、医保三角困局的一种解法](sources/vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt.md) — 起朱楼宴宾客 episode with 大卫翁 on Japan's healthcare reform from 1990s medical collapse to a hospital-drug-insurance system built around public coverage, high-cost caps, triage, community care, DPC/DRG payment, drug-pricing reform, generic-drug trust, and pharmacist expansion.
 - [vol.119.券商研究报告还值得读吗？](sources/vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3.md) — 起朱楼宴宾客 episode with 大卫翁 on brokerage research reports, sell-side research institutes, buy-side service, compliance pressure, report types, macro/strategy expression, passive investing, and how ordinary investors should read reports without outsourcing judgment.
 - [vol.118.单身人士养老指南：不是孤独的代名词，是更早掌握人生的主动权](sources/vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt.md) — 起朱楼宴宾客 crossover with 知青小酒馆 on single/solo aging, retirement cash flow, aging in place, health, relationship capital, cognitive-decline planning, and solo death preparedness.
@@ -743,6 +744,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [FNGU](entities/FNGU.md) — Leveraged ETN case in vol.121, combining concentrated technology exposure with financing cost and issuer-credit risk.
+- [TMF](entities/TMF.md) — Three-times long Treasury ETF case in vol.121, used to separate a rate view from leveraged ETF reset, volatility, and futures-roll drag.
+- [TQQQ](entities/TQQQ.md) — Three-times technology-index ETF case in vol.121, illustrating daily leverage reset and volatility decay.
+- [NVDL](entities/NVDL.md) — Nvidia-linked single-stock leveraged ETF case in vol.121, used to discuss volatility decay and premium risk.
+- [Rydex](entities/Rydex.md) — Early leveraged and inverse public-fund issuer in vol.121's global leveraged-product history.
+- [XACT](entities/XACT.md) — Swedish issuer associated by vol.121 with the first leveraged ETF milestone.
+- [ProShares](entities/ProShares.md) — U.S. leveraged ETF rollout issuer in vol.121's product-history section.
+- [Bank of Montreal / 蒙特利尔银行](entities/BankOfMontreal.md) — Bank and ETN counterparty tied by vol.121 to FNGU's financing and credit-risk layers.
+- [国投瑞银基金 / SDIC UBS Fund](entities/SDICUBSFund.md) — Fund company behind 瑞福分级, used by vol.121 to introduce Chinese structured funds.
+- [长盛基金 / Changsheng Fund](entities/ChangshengFund.md) — Fund company behind 长盛同庆, used by vol.121 to explain early A/B share separation and discounts.
+- [银华基金 / Yinhua Fund](entities/YinhuaFund.md) — Fund company behind 银华深证 100 and 银华锐进, central to vol.121's third-generation structured-fund mechanics.
+- [招商基金 / China Merchants Fund](entities/ChinaMerchantsFund.md) — Fund company behind 招商中证白酒分级, used by vol.121 as a successful-path structured-fund case.
+- [申万菱信基金 / Shenwan Lingxin Fund](entities/ShenwanLingxinFund.md) — Securities-sector structured-fund example in vol.121's 2014-2015 boom account.
+- [富国基金 / Fullgoal Fund](entities/FullgoalFund.md) — Structured-fund scale example in vol.121, including military and reform B-share products.
+- [Shenzhen Stock Exchange / 深圳证券交易所](entities/ShenzhenStockExchange.md) — Exchange tied by vol.121 to 2016 structured-fund access-threshold and risk-disclosure rules.
 - [Ministry of Health, Labour and Welfare / 厚生劳动省](entities/MinistryOfHealthLabourAndWelfare.md) — Japanese government institution associated by vol.120 with post-2000 healthcare coordination across hospitals, insurance, drugs, long-term care, and pharmacist reform.
 - [Daiichi Sankyo / 第一三共](entities/DaiichiSankyo.md) — Japanese pharma company cited in vol.120 as evidence that Japan retained globally meaningful drug-industry capacity after pricing and generic-drug reform.
 - [Takeda Pharmaceutical / 武田制药](entities/TakedaPharmaceutical.md) — Japanese pharma company cited in vol.120 as part of the industry outcome of Japan's post-crisis drug-pricing and quality reforms.
@@ -5124,6 +5140,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese Structured Fund / 中国分级基金](concepts/ChineseStructuredFund.md) — Vol.121 frame for Chinese public funds split into priority A shares and leveraged B shares.
+- [Structured Fund Pair Conversion / 分级基金配对转换](concepts/StructuredFundPairConversion.md) — Mechanism in vol.121 linking A/B shares and mother funds through arbitrageable conversion.
+- [Structured Fund Downward Conversion / 分级基金下折](concepts/StructuredFundDownwardConversion.md) — Crash mechanism in vol.121 where B-share NAV reset, share shrinkage, and premium collapse destroyed late buyers.
+- [Leveraged ETF / 杠杆 ETF](concepts/LeveragedETF.md) — Vol.121 category for derivative-based ETFs targeting daily multiples rather than cumulative long-term multiples.
+- [Daily Leverage Reset](concepts/DailyLeverageReset.md) — Leveraged ETF mechanism in vol.121 that keeps daily leverage on target while creating path dependence.
+- [Volatility Decay / 波动率损耗](concepts/VolatilityDecay.md) — Leveraged-product drag in vol.121 where repeated up-and-down moves erode compounded returns.
+- [Futures Roll Cost / 期货展期损耗](concepts/FuturesRollCost.md) — Implementation drag in vol.121 for futures-based leveraged ETFs such as TMF.
+- [Single-Stock Leveraged ETF / 个股杠杆 ETF](concepts/SingleStockLeveragedETF.md) — Vol.121 category for daily leveraged exposure to a single volatile stock such as Nvidia.
+- [Leveraged ETN Financing Cost](concepts/LeveragedETNFinancingCost.md) — FNGU-focused vol.121 mechanism where borrowed-money leverage makes rate and spread cost central.
+- [ETN Credit Risk](concepts/ETNCreditRisk.md) — Vol.121 warning that ETNs add issuer credit risk beyond market exposure.
+- [Leveraged Product Suitability](concepts/LeveragedProductSuitability.md) — Vol.121 suitability frame for treating leveraged funds, ETFs, and ETNs as short-horizon tools rather than ordinary long-term holdings.
 - [Japanese Healthcare System / 日本医疗体系](concepts/JapaneseHealthcareSystem.md) — Vol.120 umbrella frame for Japan's hospital-drug-insurance triangle and the coordinated reforms that followed 1990s medical collapse.
 - [Japanese Universal Health Coverage / 日本全民医保](concepts/JapaneseUniversalHealthCoverage.md) — Insurance base in vol.120, combining broad public coverage with elderly-specific financing and cost-control mechanisms.
 - [High-Cost Medical Expense Benefit / 高额疗养制度](concepts/HighCostMedicalExpenseBenefit.md) — Japanese out-of-pocket cap mechanism that gives patients a monthly upper bound on high medical spending.

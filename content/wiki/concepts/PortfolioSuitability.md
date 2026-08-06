@@ -2,7 +2,7 @@
 title: "Portfolio Suitability"
 type: concept
 tags: [investing, portfolio, personal-finance, behavior]
-sources: [vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+sources: [vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
 last_updated: 2026-08-06
 ---
 
@@ -20,6 +20,8 @@ The personal side is a two-axis map. One axis asks what the investor needs: liqu
 
 [[vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3]] adds the information-work version. Reading [[BrokerageResearchReports|brokerage research reports]] is suitable mainly for investors who are actively selecting stocks or closely tracking macro and markets; for others, the time, confidence, and imitation risk may outweigh the value of extra information.
 
+[[vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb]] adds the leverage-product version. The source argues that products such as [[LeveragedETF|leveraged ETFs]], [[FNGU]]-style ETNs, and [[ChineseStructuredFund|structured funds]] are suitable only when the investor's horizon, sizing, exit plan, and understanding of reset, conversion, premium, financing, and credit risk match the tool.
+
 ## Key Claims
 - Suitability is not a universal model portfolio; it is the match between portfolio job, investor understanding, and tolerable risk path.
 - Near-term money should not be placed in the same assets as long-term FIRE, passive-income, or intergenerational goals.
@@ -32,6 +34,7 @@ The personal side is a two-axis map. One axis asks what the investor needs: liqu
 - Vol.110 adds that suitability includes worldview fit: a person who cannot believe in all-in leverage, short-term news trading, crypto, or cigar-butt value investing should not build a core portfolio around that game.
 - Vol.112 adds that manager suitability is part of fund suitability: a fund's label is less important than whether the holder understands the manager's process, values, weaknesses, and risk-sharing terms.
 - Vol.119 adds that information-work suitability matters: a person should not read sell-side reports as a substitute for deciding whether active stock or macro research fits their own goals and competence.
+- Vol.121 adds that product mechanics belong inside suitability: an ETF or fund can be easy to buy while still unsuitable for long-horizon capital.
 
 ## Connections
 - [[AssetAllocation]] — broader portfolio construction discipline.
@@ -44,3 +47,4 @@ The personal side is a two-axis map. One axis asks what the investor needs: liqu
 - [[InvestmentWorldviewFit]], [[RiskPerception]], and [[HumanCapitalInflationHedge]] — vol.110's self-knowledge extension.
 - [[ActiveManagementStyleEvolution]], [[LanXiaokang]], and [[ZhongouFund]] — vol.112's active-manager suitability extension.
 - [[BrokerageResearchReports]] and [[ResearchReportReadingDiscipline]] — vol.119's report-reading suitability extension.
+- [[LeveragedProductSuitability]], [[LeveragedETF]], [[ChineseStructuredFund]], and [[ETNCreditRisk]] — vol.121's leverage-product extension.
