@@ -2,8 +2,8 @@
 title: "Short Drama Economics"
 type: concept
 tags: [media, entertainment, advertising, economics]
-sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
-last_updated: 2026-08-05
+sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc, ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek]
+last_updated: 2026-08-07
 ---
 
 # Short Drama Economics
@@ -18,6 +18,8 @@ The source also explains the revenue side. Short dramas may begin with paid IAP-
 
 [[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] adds an AI-studio operator view. [[Taitai]] estimates that AI production can cut a comparable modern romance short-drama budget to roughly one-third of live action, but says labor remains the main cost and platform policy can quickly change survival conditions. [[Chouxiangzai]] adds that production polish still loses to story and audience resonance at the current stage, using [[YiWanFuWengHuiGui]] as a case where flaws were tolerated because the story worked.
 
+[[ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek]] adds the export-pressure history. [[HuangZiyiSanlian|黄子逸]] says the domestic move from miniprogram paid unlock toward free, more polished [[Hongguo]]-style viewing made the home market more crowded, encouraging companies to seek overseas growth. The source also separates cost from moat: filming can happen abroad, but [[ShortDramaPaidTrafficDistribution]], [[ChineseWebFictionMethodology]], and [[DataDrivenEntertainmentProduct|product-like iteration]] are harder to copy.
+
 ## Key Claims
 - A 100-minute story can resemble a movie-like consumption unit, but free/ad-supported distribution lowers the user's payment barrier.
 - Live-action short drama cost inflation can improve visual quality while also pushing teams toward safer, more homogeneous topics.
@@ -29,6 +31,8 @@ The source also explains the revenue side. Short dramas may begin with paid IAP-
 - AI cost reduction changes budget, but not the whole P&L: asset setup, directing, editing, labor, platform review, traffic buying, and revenue-share rules still shape returns.
 - Overseas short-drama economics can differ from domestic IAA-heavy viewing because paid unlock and subscription behavior may be stronger abroad.
 - At the current stage, better production can help traffic only when it serves topic selection, story logic, and audience resonance.
+- EP240 adds that domestic free-platform competition can be a push factor for overseas expansion, while overseas live-action production may cost more but buy localization and actor fit.
+- Short drama can be evaluated as an internet entertainment product: weak prestige aesthetics can coexist with strong emotional utility and measurable ROI.
 
 ## Connections
 - [[Hongguo]] and [[Douyin]] — free/ad-supported and algorithmic distribution context.
@@ -42,3 +46,4 @@ The source also explains the revenue side. Short dramas may begin with paid IAP-
 - [[AIInferenceCostStructure]] and [[ProductLedWillingnessToPay]] — adjacent AI cost/value concepts.
 - [[ContentEcosystemGovernance]] — platform challenge once supply expands.
 - [[Taitai]], [[Chouxiangzai]], [[YiWanFuWengHuiGui]], and [[AIShortDramaOverseasLocalization]] — AI-studio cost and overseas-audience branch added by What's Next.
+- [[ShortDramaOverseasExpansion]], [[ShortDramaOverseasLocalization]], [[ChineseWebFictionMethodology]], and [[DataDrivenEntertainmentProduct]] — EP240's broader export and product-economics branch.

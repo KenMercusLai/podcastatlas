@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP240 “霸总甜宠”在海外：短剧出海的产业密码](sources/ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek.md) — Talk三联 episode on short-drama overseas expansion, connecting domestic free-platform pressure, web-fiction methods, overseas actors, local production, paid traffic, and data-driven entertainment.
 - [EP239 和大咖聊聊：金价又双叒叕飙了，普通人还能上车吗？](sources/ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq.md) — Talk三联 episode with 王立新 on gold after a sharp run-up, covering gold's non-credit asset role, China gold-market infrastructure, physical/ETF/product routes, strategic gold allocation, and 黄金家 portfolio products.
 - [EP238 2025年，你玩过怎样的“小众运动”？](sources/ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg.md) — Talk三联 episode on urban niche sports, covering padel, mermaid freediving, armored combat, leisure sailing, paddleboarding, archery, venue constraints, equipment thresholds, and small sports communities.
 - [EP236 唠五块钱心里话，付费的陪伴是真的吗？](sources/ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx.md) — Talk三联 episode with 魏茜 and 阮佳宁 on emotion economy, paid listening, therapy boundaries, platform incentives, plush and pet comfort, wellness relief, ritual hope, AI companionship, and emotion-regulation support networks.
@@ -796,6 +797,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [黄子逸 / Huang Ziyi](entities/HuangZiyiSanlian.md) — 三联生活周刊 reporter in EP240 explaining short-drama export, domestic market pressure, web-fiction lineage, and paid-traffic capability.
+- [夏洁逸 / Xia Jieyi](entities/XiaJieyi.md) — EP240 reporter connecting Chinese web-fiction globalization to overseas short-drama scripts, author cultivation, and genre methods.
+- [段农裕 / Duan Nongyu](entities/DuanNongyu.md) — EP240 reporter foregrounding overseas actors, local dialogue adjustment, labor opportunity, and value adaptation in short-drama production.
+- [博靖 / Bo Jing](entities/BoJing.md) — Sanlian reporter mentioned in EP240 for coverage of young domestic short-drama production workers.
+- [九州文化 / Jiuzhou Culture](entities/JiuzhouCulture.md) — Short-drama company named in EP240 as an overseas self-production and localized-filming operator.
+- [典众科技 / Dianzhong Technology](entities/DianzhongTechnology.md) — Web-fiction and short-drama company in EP240 associated with translating and dubbing already validated domestic short dramas for overseas distribution.
+- [丰业娱乐 / Fengye Entertainment](entities/FengyeEntertainment.md) — Short-drama company named in EP240 as an overseas self-production and localization example.
+- [Webnovel / 起点国际版](entities/Webnovel.md) — Qidian/Yuewen overseas web-fiction platform described in EP240 as training local authors in Chinese web-fiction methods.
+- [Wuxiaworld / 武侠世界](entities/Wuxiaworld.md) — Early fan-translation site in EP240 whose communities helped validate overseas demand for Chinese web fiction.
+- [赖靖平 / Lai Jingping](entities/LaiJingping.md) — Chinese American founder of Wuxiaworld named in EP240's account of fan translation and web-fiction globalization.
 - [王立新 / Wang Lixin](entities/WangLixin.md) — Gold-industry expert in EP239, using World Gold Council experience to frame gold as a strategic, liquid, non-credit asset rather than a short-term chase.
 - [World Gold Council / 世界黄金协会](entities/WorldGoldCouncil.md) — Gold-market organization providing the institutional context for 王立新's expert framing in EP239.
 - [Shanghai Gold Exchange / 上海黄金交易所](entities/ShanghaiGoldExchange.md) — 2002 Chinese gold-market infrastructure milestone used by EP239 to explain marketized domestic gold trading.
@@ -5384,6 +5395,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Short Drama Overseas Expansion / 短剧出海](concepts/ShortDramaOverseasExpansion.md) — EP240 frame for Chinese short dramas moving abroad through domestic market pressure, web-fiction lineage, localized production, and paid traffic.
+- [Short Drama Overseas Localization / 短剧海外本土化](concepts/ShortDramaOverseasLocalization.md) — EP240 concept for adapting scripts, actors, consent norms, status cues, and genre shells instead of simply translating domestic short dramas.
+- [Chinese Web Fiction Methodology / 中国网文方法论](concepts/ChineseWebFictionMethodology.md) — Fast serialized storytelling toolkit of hooks, paid points, reversals, face-slapping, golden fingers, and genre branching.
+- [Web-Fiction-To-Short-Drama Pipeline / 网文到短剧转化链](concepts/WebFictionToShortDramaPipeline.md) — EP240 pipeline where Chinese web-fiction IP, ad material, and audience-acquisition techniques become short-drama production logic.
+- [Women-Oriented Melodrama Demand / 女性向通俗情节需求](concepts/WomenOrientedMelodramaDemand.md) — EP240 demand frame connecting 霸总, werewolves, vampires, Lifetime-like melodrama, and emotional compensation.
+- [Data-Driven Entertainment Product / 数据驱动娱乐产品](concepts/DataDrivenEntertainmentProduct.md) — EP240 concept treating short drama as iterative internet entertainment shaped by clips, ROI, platform metrics, and user feedback.
 - [Strategic Gold Allocation / 黄金战略底仓](concepts/StrategicGoldAllocation.md) — EP239 frame for treating gold as a persistent defensive portfolio sleeve with target sizing, staged entry, and rebalancing discipline.
 - [Gold Investment Products / 黄金投资产品](concepts/GoldInvestmentProducts.md) — EP239 product map separating jewelry, bars, coins, ETF-like exposure, and professional derivatives by liquidity, fees, and suitability.
 - [Gold Portfolio Products / 黄金家组合产品](concepts/GoldPortfolioProducts.md) — EP239 category for professionally managed multi-asset products that embed a strategic gold sleeve to address recognition, entry, and holding frictions.

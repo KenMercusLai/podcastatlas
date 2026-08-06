@@ -2,8 +2,8 @@
 title: "红果"
 type: entity
 tags: [platform, short-drama, china]
-sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
-last_updated: 2026-08-05
+sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc, ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek]
+last_updated: 2026-08-07
 ---
 
 # 红果
@@ -11,6 +11,8 @@ last_updated: 2026-08-05
 Hongguo is the short-drama platform used in [[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]] as the main case for free, ad-supported scripted entertainment growth. [[WangXiaoshu]] argues that Hongguo initially pulled in users who were not heavy long-video viewers, so its rise should not be reduced to a simple zero-sum transfer from [[IQIYI]] and other long-video platforms.
 
 The source frames Hongguo's importance through [[ShortDramaEconomics]]: a roughly 100-minute story can be consumed with lower payment friction when free viewing and advertising replace direct episode payment. As live-action short dramas become more expensive and better looking, the source expects more overlap with long-video audiences and more direct substitution pressure.
+
+[[ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek]] adds Hongguo as a domestic market-pressure point. [[HuangZiyiSanlian|黄子逸]] says the rise of free, more polished Hongguo-style short dramas overturned the earlier miniprogram paid-unlock model and made domestic competition more intense, pushing some short-drama firms toward [[ShortDramaOverseasExpansion|overseas growth]].
 
 [[quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]] adds Hongguo to the [[ByteDanceGrowthSystem]] map. [[XuHongliang]] describes Hongguo as a high-growth product adjacent to [[FanqieNovel]] material teams and short-video distribution, while also noting a commercial ceiling: short episodes may generate very high time spent, but their ad load and DAU ARPU can be lower than [[Douyin]].
 
@@ -29,6 +31,7 @@ The source frames Hongguo's importance through [[ShortDramaEconomics]]: a roughl
 - Episode 267 adds Hongguo to the [[ShortDramaPaidTrafficDistribution]] chain, where platform acceptance, distributor amplification, and delayed settlement shape creator economics.
 - Episode 269 adds Hongguo's live-action support context: more supply, better matching, and a completion-rate standard that rewards coherent stories.
 - The What's Next source adds Hongguo as a platform whose production demand can create revenue for AI-drama studios while also exposing them to platform pricing and policy shifts.
+- EP240 adds Hongguo as the free-platform disruption that made domestic short-drama competition more crowded and helped motivate overseas expansion.
 
 ## Connections
 - [[Douyin]] — adjacent distribution and copyright-center context.
@@ -39,3 +42,4 @@ The source frames Hongguo's importance through [[ShortDramaEconomics]]: a roughl
 - [[LiveActionShortDrama]], [[CharacterRelationshipStoryLogic]], and [[ShortDramaIndustrialization]] — live-action branch added by episode 269.
 - [[ByteDanceGrowthSystem]], [[CreativeMaterialIndustrialization]], and [[LTVBasedGrowthBudgeting]] — growth operating context added by the Luanfanshu episode 7 source.
 - [[Taitai]], [[JiangyouWenhua]], [[YuewenGroup]], and [[PlatformizedDramaProduction]] — production-capacity and platform-policy branch added by What's Next.
+- [[ShortDramaOverseasExpansion]], [[ShortDramaEconomics]], and [[DataDrivenEntertainmentProduct]] — domestic-pressure branch added by EP240.

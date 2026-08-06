@@ -11,8 +11,9 @@ sources:
   - vol-264-ba-shijiebei-zuowei-fangfa-999416048
   - e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d
   - cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc
+  - ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek
   - 165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo
-last_updated: 2026-08-06
+last_updated: 2026-08-07
 ---
 
 # Global Product Localization
@@ -35,6 +36,8 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 
 [[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] adds the AI-media version through [[AIShortDramaOverseasLocalization]]. The source treats outbound AI short drama as more than translation: creators may preserve a domestic hit's story logic while changing wealth symbols, settings, appearances, cultural references, and emotional power dynamics for overseas viewers.
 
+[[ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek]] adds the broader short-drama export version through [[ShortDramaOverseasExpansion]] and [[ShortDramaOverseasLocalization]]. Here localization spans scripts, local actors, genre shells such as werewolves or vampires, native-language dialogue, consent cues, paid-unlock habits, and social-media acquisition; the exported object is a story-and-growth system, not only a translated video file.
+
 [[165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo]] adds the industrial-company version through [[LocalizedGlobalCompany]]. The episode's localization problem is not only product, content, or marketing adaptation; it includes factories, local supplier clusters, customs and compliance, after-sales networks, clinical data, R&D teams, and whether a Chinese firm becomes part of local economic development.
 
 ## Key Claims
@@ -53,6 +56,7 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - Global sports brands may need local teams with enough autonomy to turn memes, city events, content formats, and campaign timing into products and experiences.
 - Restaurant localization can require changing the operating environment around the product - lease, approvals, menu bridges, service explanation, and local team credibility - rather than only adapting flavor.
 - Media localization can require changing fantasy signals and story psychology: the same plot pattern may need different visual status markers, relationship dynamics, and payment assumptions across markets.
+- Short-drama localization also includes local actor participation and paid-traffic feedback, because campaign data can reveal fit problems that translation alone misses.
 - Episode 165 adds that industrial-company localization can require local manufacturing, supply-chain, and R&D reconstruction beyond the product interface.
 
 ## Connections
@@ -68,4 +72,5 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - [[Adidas]], [[OfflineBrandActivation]], and [[SportsLifestyleConsumption]] - multinational sports-brand localization extension added by Vol.264.
 - [[DinTaiFung]], [[GongCha]], [[MoliNaiBai]], [[Chagee]], [[FeiDaChu]], [[RestaurantCulturalLegibility]], and [[USRestaurantRealEstateConstraint]] - U.S. foodservice and tea-drink localization extension added by E232.
 - [[AIShortDramaOverseasLocalization]], [[WuGeGeGeDouChongWo]], [[YiWanFuWengHuiGui]], [[RodeoAI]], [[Chouxiangzai]], and [[Taitai]] - AI short-drama localization extension added by What's Next.
+- [[ShortDramaOverseasExpansion]], [[ShortDramaOverseasLocalization]], [[WomenOrientedMelodramaDemand]], [[WebFictionToShortDramaPipeline]], and [[DataDrivenEntertainmentProduct]] - broader short-drama export branch added by EP240.
 - [[LocalizedGlobalCompany]], [[SecurityFirstSupplyChainLogic]], [[SFHolding]], [[AnkerInnovations]], and [[BeiGene]] - industrial-company localization layer added by episode 165.

@@ -2,8 +2,8 @@
 title: "Platformized Drama Production"
 type: concept
 tags: [media, platforms, entertainment, organization]
-sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
-last_updated: 2026-08-05
+sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc, ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek]
+last_updated: 2026-08-07
 ---
 
 # Platformized Drama Production
@@ -20,6 +20,8 @@ The concept is not just "let more people upload." The platform must handle creat
 
 [[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] adds a dependency warning from [[Taitai]]. AI comic-drama companies can earn revenue by making platform-native dramas for [[Hongguo]] and [[YuewenGroup]] under guarantee plus traffic-share models, but the source says platform price systems and policy shifts can change survival conditions quickly. This keeps platformization from being only a creator-opportunity story.
 
+[[ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek]] adds an overseas-platform contrast. Traditional Chinese long-drama export is described as depending on local TV stations or large streamers such as [[Netflix]] and [[HBO]], where negotiation and bargaining power can be difficult. Overseas short drama routes around that bottleneck by using [[Facebook]], [[Google]], and other social/ad surfaces for direct user acquisition, making platformization a marketing and data-feedback issue as much as a production issue.
+
 ## Key Claims
 - Long-video platforms have historically depended on producer decisions, IP, stars, and large budgets, which can narrow supply.
 - Short-drama platforms use faster ROI and recommendation feedback, making failures cheaper and successes easier to scale.
@@ -29,6 +31,7 @@ The concept is not just "let more people upload." The platform must handle creat
 - Episode 204 adds the long-video baseline: [[ChineseLongVideoPlatformEconomics]] made producer-led, high-budget commissioning powerful but expensive, while [[UGCToProfessionalCreatorPipeline]] shows the alternative supply path that earlier platforms once had.
 - Episode 269 adds that platformization can also reduce production-side matching friction among investors, writers, directors, actors, and production companies.
 - Platform-native AI-drama production can create revenue, but it also puts studios under platform pricing, review, policy, and traffic-allocation power.
+- EP240 adds that overseas short-drama platformization can bypass traditional channel negotiations but increase dependence on ad platforms, acquisition data, and campaign ROI.
 
 ## Connections
 - [[IQIYI]], [[GongYu]], [[Hongguo]], and [[Douyin]] — platform cases in the source.
@@ -40,3 +43,4 @@ The concept is not just "let more people upload." The platform must handle creat
 - [[AIContentProvenance]] — rights and disclosure pressure from AI-generated media.
 - [[Tudou]], [[Youku]], [[TencentVideo]], [[MangoTV]], [[VideoMembershipModel]], and [[LongVideoNetworkEffects]] — historical long-video context from episode 204.
 - [[Taitai]], [[JiangyouWenhua]], [[AIShortDramaOverseasLocalization]], and [[AIDirectorCoreWorkflow]] — AI-studio strategy and platform-dependence branch added by What's Next.
+- [[ShortDramaOverseasExpansion]], [[ShortDramaPaidTrafficDistribution]], [[AutomatedPerformanceMarketing]], and [[DataDrivenEntertainmentProduct]] — overseas distribution and feedback branch added by EP240.

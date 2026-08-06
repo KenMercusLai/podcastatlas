@@ -6369,3 +6369,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP240 “霸总甜宠”在海外：短剧出海的产业密码
+
+Added source page for a Talk三联 episode on short-drama overseas expansion, covering domestic market pressure from free Hongguo-style platforms, translation/dubbing versus overseas self-production, web-fiction method export, overseas actor localization labor, women-oriented melodrama demand, paid traffic, and AI-assisted campaign optimization. Created pages for 黄子逸, 夏洁逸, 段农裕, 博靖, 九州文化, 典众科技, 丰业娱乐, Webnovel / 起点国际版, Wuxiaworld / 武侠世界, 赖靖平, Short Drama Overseas Expansion, Short Drama Overseas Localization, Chinese Web Fiction Methodology, Web-Fiction-To-Short-Drama Pipeline, Women-Oriented Melodrama Demand, and Data-Driven Entertainment Product; updated overview, index, Talk三联, 三联生活周刊, Hongguo, Qidian, Yuewen Group, Short Drama Economics, Live-Action Short Drama, Short Drama Industrialization, Short Drama Paid-Traffic Distribution, AI Short Drama Overseas Localization, Platformized Drama Production, Automated Performance Marketing, Creative Material Industrialization, Global Product Localization, and Cross-Cultural Product Design. No direct contradiction found; the source broadens the wiki's AI-short-drama export branch into a larger story of web-fiction methods, local production, social-media acquisition, and entertainment-as-product logic.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

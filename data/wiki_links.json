@@ -4871,6 +4871,10 @@
     "title": "Bluesky",
     "url": "/wiki/entities/bluesky/"
   },
+  "BoJing": {
+    "title": "博靖 / Bo Jing",
+    "url": "/wiki/entities/bojing/"
+  },
   "BoSo": {
     "title": "BoSo",
     "url": "/wiki/entities/boso/"
@@ -6670,6 +6674,10 @@
   "ChineseSuperLeague": {
     "title": "中国足球超级联赛 / Chinese Super League",
     "url": "/wiki/entities/chinesesuperleague/"
+  },
+  "ChineseWebFictionMethodology": {
+    "title": "Chinese Web Fiction Methodology / 中国网文方法论",
+    "url": "/wiki/concepts/chinesewebfictionmethodology/"
   },
   "ChineseZodiac": {
     "title": "Chinese Zodiac / 十二生肖",
@@ -8495,6 +8503,10 @@
     "title": "Data Center Thermal Management",
     "url": "/wiki/concepts/datacenterthermalmanagement/"
   },
+  "DataDrivenEntertainmentProduct": {
+    "title": "Data-Driven Entertainment Product / 数据驱动娱乐产品",
+    "url": "/wiki/concepts/datadrivenentertainmentproduct/"
+  },
   "DataDrivenPenaltyPreparation": {
     "title": "Data-Driven Penalty Preparation",
     "url": "/wiki/concepts/datadrivenpenaltypreparation/"
@@ -8954,6 +8966,10 @@
   "DianeKPMGChiefEconomist": {
     "title": "Diane (KPMG Chief Economist)",
     "url": "/wiki/entities/dianekpmgchiefeconomist/"
+  },
+  "DianzhongTechnology": {
+    "title": "典众科技 / Dianzhong Technology",
+    "url": "/wiki/entities/dianzhongtechnology/"
   },
   "DiasporaCapitalManufacturingClusters": {
     "title": "Diaspora Capital Manufacturing Clusters",
@@ -9638,6 +9654,10 @@
   "DuanGeShiWoBeishangDeWanju": {
     "title": "《短歌是我悲伤的玩具》",
     "url": "/wiki/entities/duangeshiwobeishangdewanju/"
+  },
+  "DuanNongyu": {
+    "title": "段农裕 / Duan Nongyu",
+    "url": "/wiki/entities/duannongyu/"
   },
   "DuanSihe": {
     "title": "段四合 / Duan Sihe",
@@ -11182,6 +11202,10 @@
   "FengyanFengyu": {
     "title": "枫言枫语",
     "url": "/wiki/entities/fengyanfengyu/"
+  },
+  "FengyeEntertainment": {
+    "title": "丰业娱乐 / Fengye Entertainment",
+    "url": "/wiki/entities/fengyeentertainment/"
   },
   "FenwaySportsGroup": {
     "title": "Fenway Sports Group",
@@ -14651,6 +14675,10 @@
     "title": "黄峥 / Huang Zheng",
     "url": "/wiki/entities/huangzheng/"
   },
+  "HuangZiyiSanlian": {
+    "title": "黄子逸 / Huang Ziyi",
+    "url": "/wiki/entities/huangziyisanlian/"
+  },
   "HuangyeShangDeDashi": {
     "title": "《荒野上的大师》",
     "url": "/wiki/entities/huangyeshangdedashi/"
@@ -16459,6 +16487,10 @@
     "title": "旧世代",
     "url": "/wiki/entities/jiushidai/"
   },
+  "JiuzhouCulture": {
+    "title": "九州文化 / Jiuzhou Culture",
+    "url": "/wiki/entities/jiuzhouculture/"
+  },
   "JixiaAcademy": {
     "title": "稷下学宫 / Jixia Academy",
     "url": "/wiki/entities/jixiaacademy/"
@@ -17526,6 +17558,10 @@
   "LaelBrainard": {
     "title": "Lael Brainard",
     "url": "/wiki/entities/laelbrainard/"
+  },
+  "LaiJingping": {
+    "title": "赖靖平 / Lai Jingping",
+    "url": "/wiki/entities/laijingping/"
   },
   "LaiXinlu": {
     "title": "Lai Xinlu",
@@ -27271,6 +27307,14 @@
     "title": "Short Drama Industrialization",
     "url": "/wiki/concepts/shortdramaindustrialization/"
   },
+  "ShortDramaOverseasExpansion": {
+    "title": "Short Drama Overseas Expansion / 短剧出海",
+    "url": "/wiki/concepts/shortdramaoverseasexpansion/"
+  },
+  "ShortDramaOverseasLocalization": {
+    "title": "Short Drama Overseas Localization / 短剧海外本土化",
+    "url": "/wiki/concepts/shortdramaoverseaslocalization/"
+  },
   "ShortDramaPaidTrafficDistribution": {
     "title": "Short Drama Paid-Traffic Distribution",
     "url": "/wiki/concepts/shortdramapaidtrafficdistribution/"
@@ -31783,6 +31827,14 @@
     "title": "Web-Based Software",
     "url": "/wiki/concepts/webbasedsoftware/"
   },
+  "WebFictionToShortDramaPipeline": {
+    "title": "Web-Fiction-To-Short-Drama Pipeline / 网文到短剧转化链",
+    "url": "/wiki/concepts/webfictiontoshortdramapipeline/"
+  },
+  "Webnovel": {
+    "title": "Webnovel / 起点国际版",
+    "url": "/wiki/entities/webnovel/"
+  },
   "Weebly": {
     "title": "Weebly",
     "url": "/wiki/entities/weebly/"
@@ -32155,6 +32207,10 @@
     "title": "Wolverhampton Wanderers / 狼队",
     "url": "/wiki/entities/wolverhamptonwanderers/"
   },
+  "WomenOrientedMelodramaDemand": {
+    "title": "Women-Oriented Melodrama Demand / 女性向通俗情节需求",
+    "url": "/wiki/concepts/womenorientedmelodramademand/"
+  },
   "WomensHealthDiagnosticGap": {
     "title": "Women's Health Diagnostic Gap",
     "url": "/wiki/concepts/womenshealthdiagnosticgap/"
@@ -32347,6 +32403,10 @@
     "title": "Wuxia Intertextual Craft",
     "url": "/wiki/concepts/wuxiaintertextualcraft/"
   },
+  "Wuxiaworld": {
+    "title": "Wuxiaworld / 武侠世界",
+    "url": "/wiki/entities/wuxiaworld/"
+  },
   "Wuzhiqi": {
     "title": "无支祁",
     "url": "/wiki/entities/wuzhiqi/"
@@ -32402,6 +32462,10 @@
   "XiSongFengyun": {
     "title": "西宋风云",
     "url": "/wiki/entities/xisongfengyun/"
+  },
+  "XiaJieyi": {
+    "title": "夏洁逸 / Xia Jieyi",
+    "url": "/wiki/entities/xiajieyi/"
   },
   "Xiamen": {
     "title": "Xiamen / 厦门",
@@ -34202,6 +34266,10 @@
   "ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439": {
     "title": "EP24 房贷车贷消费贷，贷贷为奴，代代还",
     "url": "/wiki/sources/ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439/"
+  },
+  "ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek": {
+    "title": "EP240 “霸总甜宠”在海外：短剧出海的产业密码",
+    "url": "/wiki/sources/ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek/"
   },
   "ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg": {
     "title": "EP25 中资外资哪家强：“一劳永逸”找“钱粮”（下）",

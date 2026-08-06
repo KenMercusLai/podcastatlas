@@ -2,11 +2,13 @@
 title: "Talk三联"
 type: entity
 tags: [podcast, media, technology, finance, culture, sports, lifestyle, china]
-sources: [ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
+sources: [ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek, ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
 last_updated: 2026-08-07
 ---
 
 # Talk三联
+
+[[ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek]] adds the show's culture-industry reporting branch on [[ShortDramaOverseasExpansion|短剧出海]]. With [[HuangZiyiSanlian|黄子逸]], [[XiaJieyi|夏洁逸]], and [[DuanNongyu|段农裕]], Talk三联 connects [[ChineseWebFictionMethodology|中国网文方法论]], overseas actors, [[ShortDramaPaidTrafficDistribution|paid traffic]], and platform feedback into a single explanation for why Chinese short dramas could travel abroad.
 
 [[ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq]] adds the show's expert-led gold allocation branch. With [[WangLixin|王立新]] of the [[WorldGoldCouncil|世界黄金协会]], Talk三联 turns a price-run-up question into a map of [[StrategicGoldAllocation]], [[GoldInvestmentProducts]], [[GoldPortfolioProducts]], and ordinary-investor suitability.
 
@@ -33,3 +35,4 @@ The episode positions industrial reporting as a translation layer. Instead of tr
 - [[Heimai]], [[SunRuoxi]], [[XuePeng]], [[WuShubin]], [[UrbanNicheSports]], [[Padel]], [[MermaidFreediving]], [[ArmoredCombat]], [[LeisureSailing]], [[StandUpPaddleboarding]], and [[ArcheryFlow]] — lifestyle-sports branch added by EP238.
 - [[PodcastAsAsynchronousMedia]] — broader media form.
 - [[WangLixin]], [[WorldGoldCouncil]], [[ShanghaiGoldExchange]], [[StrategicGoldAllocation]], [[GoldInvestmentProducts]], and [[GoldPortfolioProducts]] — expert gold-allocation branch added by EP239.
+- [[HuangZiyiSanlian]], [[XiaJieyi]], [[DuanNongyu]], [[ShortDramaOverseasExpansion]], [[ShortDramaOverseasLocalization]], [[ChineseWebFictionMethodology]], and [[DataDrivenEntertainmentProduct]] — short-drama export branch added by EP240.
