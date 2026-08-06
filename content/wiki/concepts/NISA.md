@@ -2,8 +2,8 @@
 title: "NISA"
 type: concept
 tags: [japan, investing, retirement, policy]
-sources: [vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
-last_updated: 2026-07-15
+sources: [vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
+last_updated: 2026-08-06
 ---
 
 # NISA
@@ -12,14 +12,18 @@ NISA is the Japanese tax-advantaged investment-account frame discussed in [[vol-
 
 In the source, NISA does not automatically mean Japanese young people have become enthusiastic investors. [[Dalaoshi|大老师]] describes a friend who opened an account and bought stocks because inflation made money feel as if it could depreciate, but later sold because market attention consumed too much mental energy.
 
+[[vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw]] adds a market-direction layer. [[DavidWeng|大卫翁]] says NISA helped push Japanese households toward investment, but popular allocations often go into U.S.-linked index funds and ETFs rather than Japanese equities, so the policy can increase household investing without cleanly supporting domestic growth narratives.
+
 ## Key Claims
 - NISA is treated as a policy nudge from saving toward investing rather than proof of a broad retail-investor boom.
 - Inflation changes the emotional baseline: people who long assumed prices were stable start noticing that cash can lose purchasing power.
 - Investment access does not erase [[BehavioralInvestingBiases]] or the attention cost captured by [[RuminationVsReflection]].
 - The account sits inside a broader retirement-pressure problem created by aging, weak confidence, and uneven asset accumulation.
+- Vol.125 adds that household adoption can be driven by [[JapaneseInflationHouseholdPressure]] while still expressing stronger trust in U.S. assets than in Japan's own growth story.
 
 ## Connections
 - [[Japan]] - national policy and household context.
 - [[Dalaoshi|大老师]] - speaker who gives the concrete friend example.
 - [[JapaneseLostDecades]] and [[EmploymentIceAgeGeneration]] - background for distrust of markets and uneven assets.
 - [[InvestmentRiskManagement]], [[BehavioralInvestingBiases]], and [[RuminationVsReflection]] - investing behavior branches connected by the source.
+- [[JapaneseInflationHouseholdPressure]] and [[JapaneseEquityRepricing]] - vol.125's household-pressure and stock-market extension.

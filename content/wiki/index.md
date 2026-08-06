@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.125.日本到底还行不行？ | 串台东亚观察局](sources/vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw.md) — 起朱楼宴宾客 crossover with 东亚观察局 on Japan's inflation, NISA household investing, equity repricing, TSMC Kumamoto spillovers, labor shortage, immigration tension, overtourism, industrial-policy path dependence, innovation retreat, and comfortable stagnation.
 - [vol.124.信息过载后如何保持冷静？ | 投资账复盘](sources/vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l.md) — 起朱楼宴宾客 first-quarter investment review on information overload, Howard Marks's "nobody knows" discipline, macro event versus trend filtering, a 1:1:1 allocation anchor, mainland REITs, convertible bonds, options fit, and the sleep-well portfolio test.
 - [vol.123.特朗普的“对等”关税案：不止是一场大型服从性测试](sources/vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6.md) — 起朱楼宴宾客 episode on Trump’s April 2025 reciprocal-tariff shock, the deficit-based tariff formula, ally compliance testing, China export exposure, multinational tax optimization, market regime risk, and patrimonial governance.
 - [vol.121.从昙花一现的分级基金到风头正劲的杠杆ETF：永远不要低估人性的疯狂](sources/vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb.md) — 起朱楼宴宾客 episode on Chinese structured funds, 2015 B-share downward conversions, leveraged ETFs and ETNs including FNGU, TMF, TQQQ, and NVDL, and why ordinary investors should treat retail leverage as a short-horizon tool rather than a long-term holding.
@@ -746,6 +747,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [东亚观察局 / East Asia Observatory](entities/EastAsiaObservatory.md) — Crossover partner in vol.125, bringing an East Asia society-and-politics conversation mode to Japan's economy, labor, tourism, and development questions.
+- [樊一如 / Fan Yiru](entities/FanYiru.md) — 东亚观察局 speaker in vol.125 who helps frame Japan as personally livable but structurally constrained.
+- [Kumamoto / 熊本](entities/Kumamoto.md) — Japan regional case where TSMC investment turns semiconductor-chain relocation into local supplier, service, wage, and school spillovers.
 - [Howard Marks / 霍华德·马克斯](entities/HowardMarks.md) — Investor and memo writer used by vol.124 as the "nobody knows" uncertainty discipline for information overload and deliberate inaction.
 - [Vietnam](entities/Vietnam.md) — Country used by vol.123 as the reciprocal-tariff formula example and a U.S.-dependent supply-chain pressure point.
 - [Ireland](entities/Ireland.md) — Tax-jurisdiction example in vol.123's globalization tax-optimization explanation.
@@ -5147,6 +5151,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Japanese Inflation Household Pressure / 日本通胀生活压力](concepts/JapaneseInflationHouseholdPressure.md) — Vol.125 frame for rice, ramen, utilities, hotels, service costs, wages, and NISA adoption as daily inflation changes Japan's household behavior.
+- [Japan Rice Supply Fragility / 日本大米供应脆弱性](concepts/JapanRiceSupplyFragility.md) — Vol.125 explanation of Japanese rice-price pressure through tight supply management, harvest sensitivity, weather, heat, and reserve release.
+- [Japanese Equity Repricing / 日本股市再定价](concepts/JapaneseEquityRepricing.md) — Vol.125 account of Japanese stock strength through shareholder returns, overseas capital, yen weakness, valuation, and supply-chain spillovers without assuming broad domestic growth.
+- [Japan Geopolitical Supply-Chain Dividend / 日本地缘供应链红利](concepts/JapanGeopoliticalSupplyChainDividend.md) — Vol.125 pattern where semiconductor and manufacturing rerouting benefits Japanese regions such as Kumamoto while remaining bounded by labor and demographic constraints.
+- [Japanese Labor Shortage Immigration Tension / 日本劳动力短缺与移民矛盾](concepts/JapaneseLaborShortageImmigrationTension.md) — Vol.125 frame for Japan's need for foreign workers or automation while resisting a fuller immigration-society bargain.
+- [Japanese Overtourism Tradeoff / 日本过度旅游取舍](concepts/JapaneseOvertourismTradeoff.md) — Vol.125 tourism frame where inbound visitors are economically valuable and disruptive to residents, hotels, transport, and city rhythm.
+- [Japanese Industrial-Policy Path Dependence / 日本产业政策路径依赖](concepts/JapaneseIndustrialPolicyPathDependence.md) — Vol.125 caution that Japan's successful bureaucratic and large-firm coordination model can become rigid in internet, software, AI, and startup cycles.
+- [Japanese Innovation Retreat / 日本创新退潮](concepts/JapaneseInnovationRetreat.md) — Vol.125 claim that Japanese talent, comfort, failure costs, and lower overseas exposure push young people toward stable institutions rather than risky new ventures.
+- [Japanese Galapagosization / 日本加拉帕戈斯化](concepts/JapaneseGalapagosization.md) — Vol.125 risk that Japan's technology, apps, institutions, and habits remain internally refined but globally inward-facing.
+- [Japan Comfortable Stagnation / 日本舒适停滞](concepts/JapanComfortableStagnation.md) — Vol.125 synthesis that Japan can be safe, refined, and appealing for life, retirement, consumption, and tourism while remaining structurally weak as a frontier-growth society.
 - [Macro Event vs Macro Trend Distinction](concepts/MacroEventTrendDistinction.md) — Vol.124 rule separating noisy macro shocks from slower investable trends that can be expressed through allocation.
 - [1:1:1 Allocation Anchor](concepts/OneToOneToOneAllocation.md) — Vol.124 source-scoped portfolio anchor dividing assets into China-related offense, cash-like defense, and income-or-hedge sleeves.
 - [Convertible Bond / 可转债](concepts/ConvertibleBond.md) — Vol.124 hybrid debt/equity instrument case with a bond-floor reference, credit-risk analysis, upside participation, and sell-down discipline.

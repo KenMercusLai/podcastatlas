@@ -5685,6 +5685,10 @@ Added source page for a 蜜獾吃书 episode on 蒲松龄《聊斋志异》 as s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-06] ingest | vol.125.日本到底还行不行？ | 串台东亚观察局
+
+Added source page for a 起朱楼宴宾客 crossover with 东亚观察局 on Japan's inflation, NISA household investing, rice supply fragility, Japanese equity repricing, Buffett and sogo shosha, TSMC's Kumamoto spillover, labor shortage, immigration tension, overtourism, industrial-policy path dependence, innovation retreat, Galapagosization, and comfortable stagnation. Created pages for 东亚观察局 / East Asia Observatory, 樊一如 / Fan Yiru, Kumamoto, Japanese Inflation Household Pressure, Japan Rice Supply Fragility, Japanese Equity Repricing, Japan Geopolitical Supply-Chain Dividend, Japanese Labor Shortage Immigration Tension, Japanese Overtourism Tradeoff, Japanese Industrial-Policy Path Dependence, Japanese Innovation Retreat, Japanese Galapagosization, and Japan Comfortable Stagnation; updated overview, index, 起朱楼宴宾客, 大卫翁, Japan, NISA, Japanese Lost Decades, Japanese Sogo Shosha, Deglobalization Trade Intermediation, Warren Buffett, TSMC, Semiconductor Supply Chain, Food Inflation, Strategic Industrial Policy, Kyoto, Isaac Asimov, Tourism Traffic Mismatch, Tourism-Dependent Small Economy, Robot Logistics Sorting, and Youth Entrepreneurship. No direct contradiction found; the source complements earlier Japan youth, healthcare, and sogo shosha pages by arguing that Japan is personally comfortable and selectively investable without necessarily regaining frontier-growth capacity.
+
 ## [2026-08-06] ingest | 87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）
 
 Added source page for a 蜜獾吃书 episode opening the two-part Chinese fangshu history branch, covering oracle-bone divination, Zhouyi yarrow divination, Chu soul summoning, star omens, dream interpretation, yin-yang/five-phase political theory, early immortal belief, Qin Shi Huang and Han Wudi's immortality quests, Liu An and Huainanzi, and Western Han wugu political panic. Created pages for Qin Shi Huang, Emperor Wu of Han, Liu An, Huainanzi, Zou Yan, Xu Fu, Oracle-Bone Divination, Zhouyi Divination, Ancient Chinese Soul Summoning, Yin-Yang Five-Phases Political Theory, Immortality Quest Politics, Fangshi Fraud And Authority, and Wugu Political Panic; updated overview, index, 蜜獾吃书, Fangshu Systematization, Chinese Astrological Politics, Chinese Folk Religion Layering, Auspicious Omen Politics, Alchemy-Chemistry Continuity, Pseudoscience Fraud Vulnerability, Jianghu Scam Craft, Western Han dynasty, and Jianghu Congtan. No direct contradiction found; the source supplies the earlier raw-material layer for the already-ingested episode-87 sequel and keeps later Xu Fu destination legends source-scoped.
@@ -5960,6 +5964,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] ingest | vol.124.信息过载后如何保持冷静？ | 投资账复盘
 
 Added source page for a 起朱楼宴宾客 first-quarter investment review by 大卫翁 on information overload, Howard Marks's "nobody knows" discipline, macro event versus macro trend filtering, the 1:1:1 allocation anchor, China-related offense, cash-like defense, gold and REIT income/hedge assets, leveraged ETF decay, mainland REITs, convertible bonds, option time-pressure mismatch, and the sleep-well portfolio test. Created pages for Howard Marks, Macro Event vs Macro Trend Distinction, 1:1:1 Allocation Anchor, Convertible Bond, and Sleep-Well Portfolio Test; updated overview, index, 起朱楼宴宾客, 大卫翁, Tencent, Alibaba, DeepSeek, Information Overload Knowledge Trap, Asset Allocation, Investment Risk Management, Portfolio Suitability, Real Estate Investment Trust, Leveraged ETF, Volatility Decay, Barbell Strategy, Retirement Cash-Flow Security, Option Contract Mechanics, China Policy Easing Pivot, Gold Monetary Anchor, and A/H Share 2025 Barbell. No direct contradiction found; the source reinforces earlier tariff-shock, macro-allocation, and leveraged-product warnings while adding a stronger behavioral claim that information, knowledge, and action should be separated until the portfolio still lets the investor sleep and act deliberately.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

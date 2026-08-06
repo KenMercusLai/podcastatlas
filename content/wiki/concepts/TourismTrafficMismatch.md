@@ -2,8 +2,8 @@
 title: "Tourism Traffic Mismatch"
 type: concept
 tags: [tourism, retail, cities, platforms, restaurants]
-sources: [vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]
-last_updated: 2026-07-09
+sources: [vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]
+last_updated: 2026-08-06
 ---
 
 # Tourism Traffic Mismatch
@@ -14,6 +14,8 @@ The mismatch is not always bad. Tourist traffic can create real demand for resta
 
 [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]] adds the positive content-lever version. The source treats [[XunweiShunde]] as a documentary that helped make [[Shunde]] and restaurants such as [[Zhuroupo]] national food destinations, while still warning that holiday crowding and queue tolerance shape the actual visitor experience.
 
+[[vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw]] adds a Japan overtourism version through [[Kyoto]] and Kamakura. Visitor flows bring cash and support local services, but concentrated routes also raise hotel prices, crowd resident spaces, and make business travel more expensive.
+
 ## Key Claims
 - Social platforms can concentrate visitors on a small set of visible venues, even when local residents distribute demand differently.
 - Tourism demand can activate underused assets, such as gardens, museums, wetlands, animal parks, old streets, or festival sites, but the commercial spillover depends on route design, dwell time, and nearby supply.
@@ -21,6 +23,7 @@ The mismatch is not always bad. Tourist traffic can create real demand for resta
 - Operators should separate tourist one-time demand from resident repeat behavior before treating a site or restaurant as proof of stable [[CustomerPull]].
 - The concept connects platform discovery to place economics: [[Xiaohongshu]], short video, and event media can influence [[RetailSiteSelection]] and [[RestaurantExperienceDesign]] by changing where attention arrives.
 - Documentary or long-form content can generate durable destination demand, but the resulting tourist flow still needs to be separated from resident repeat behavior and operational capacity.
+- In Japan's overtourism case, the mismatch is not only between local and tourist restaurant choices; it is also between national visitor targets and neighborhood carrying capacity.
 
 ## Connections
 - [[CityCommercialObservation]] — broader method that surfaced the mismatch.
@@ -29,3 +32,4 @@ The mismatch is not always bad. Tourist traffic can create real demand for resta
 - [[RestaurantExperienceDesign]] and [[ConceptLedHospitality]] — restaurants and hospitality venues must decide whether they are serving tourists, locals, or both.
 - [[CustomerPull]] and [[LocalMarketProof]] — demand validation concepts that help distinguish durable repeat behavior from short attention spikes.
 - [[Shunde]], [[Zhuroupo]], [[XunweiShunde]], and [[AIResistantExperientialConsumption]] — episode 137's food-tourism and content-lever branch.
+- [[Japan]], [[Kyoto]], and [[JapaneseOvertourismTradeoff]] - vol.125's inbound-tourism concentration branch.

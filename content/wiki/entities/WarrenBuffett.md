@@ -2,7 +2,7 @@
 title: "Warren Buffett"
 type: entity
 tags: [person, investing]
-sources: [tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8, vanguard-1]
+sources: [vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8, vanguard-1]
 last_updated: 2026-08-06
 ---
 
@@ -13,6 +13,8 @@ Warren Buffett appears in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-pu
 [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]] adds Buffett as a live market-sentiment reference: the speakers discuss [[BerkshireHathaway]]'s large cash position, reduced [[Apple]] exposure, and earlier Japan-related financing as signals of caution and optionality rather than as proof of a specific crash call.
 
 [[vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]] adds Buffett through the Japanese trading-company discussion. The episode treats his interest in [[MitsubishiCorporation]], [[MitsuiAndCo]], [[Itochu]], [[SumitomoCorporation]], and [[Marubeni]] as partly explainable by resources and governance, but its more distinctive claim is a source-level [[DeglobalizationTradeIntermediation]] conjecture: trusted intermediaries may regain value as trade and supply chains become harder to coordinate directly.
+
+[[vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw]] repeats that interpretation inside a broader Japan-economy discussion. The episode says the Buffett trade should be read through cheap yen financing, resources, and deglobalization supply-chain value, not as a simple claim that Japanese domestic demand or startup dynamism has returned.
 
 [[ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj]] adds Buffett to a financial-statement reading frame. The episode uses his view of stocks as a kind of variable-coupon bond to introduce [[ReturnOnEquityAnalysis]], while warning that a high ROE still needs leverage, cash-flow, and business-quality checks.
 
@@ -37,6 +39,7 @@ Warren Buffett appears in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-pu
 - [[InvestmentRiskManagement]] — practical principle common to multiple investing styles.
 - [[BerkshireHathaway]] and [[Apple]] — EP38's public-market example of cash preference and position reduction.
 - [[JapaneseSogoShosha]], [[DeglobalizationTradeIntermediation]], and [[LongDistanceTradeFriction]] — vol.108's Japan trading-company interpretation of Buffett's exposure.
+- [[JapaneseEquityRepricing]] and [[JapanComfortableStagnation]] — vol.125's distinction between investable Japan themes and national growth limits.
 - [[MarketMeanReversion]] — valuation discipline and waiting for better risk/reward are discussed through Buffett's cash.
 - [[ReturnOnEquityAnalysis]], [[FinancialStatementAnalysis]], and [[ProfitAndCashFlowQuality]] — EP86's accounting and metric-reading context.
 - [[CharlieMunger]] — paired inversion reference for looking first at how a company can fail.
