@@ -2,7 +2,7 @@
 title: "Preventive Health Screening"
 type: concept
 tags: [healthcare, preventive-health, screening, medical-literacy]
-sources: [tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]
+sources: [vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]
 last_updated: 2026-07-23
 ---
 
@@ -14,6 +14,8 @@ The source also stresses the limits of self-detection. The body can compensate s
 
 [[tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3]] adds the ovarian-cancer diagnostic boundary through [[SurbhiSarna]] and [[NVisionMedical|nVision Medical]]. The source supports early detection as a goal, but shows that some cancers need a new safe access route and [[MedicalDeviceClinicalValidation]] before screening-like ambition can become responsible care.
 
+[[vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt]] adds the [[Japan]] system-design version. Ningen dock-style checks and later metabolic guidance become part of [[LifestyleDiseasePrevention]]: screening is not only personal reassurance, but a way to move chronic-disease demand earlier in an aging public-insurance system.
+
 ## Key Claims
 - Routine screening is useful because symptoms can arrive late, especially when compensation hides early damage.
 - More detected disease can reflect better diagnostic tools and longer life, not simply a worsening world.
@@ -21,6 +23,7 @@ The source also stresses the limits of self-detection. The body can compensate s
 - The source compares hospital checkups with package-style checkup centers: hospitals can be cheaper and more diagnostic but less convenient, while centers may be easier but more report-oriented.
 - The episode's insurance-before-checkup reminder is sponsor-adjacent and should be treated as [[HealthInsurancePlanning]] context rather than universal financial advice.
 - Early detection goals can expose a product gap when the body location is hard to sample safely and existing tests lack accuracy.
+- In an aging system, screening can be a demand-management tool when it connects to follow-up, behavior change, and chronic-disease support.
 
 ## Connections
 - [[AtHomePreventiveHealth]] - adjacent service model for lower-friction testing and repeat measurement.
@@ -29,3 +32,4 @@ The source also stresses the limits of self-detection. The body can compensate s
 - [[HealthInsurancePlanning]] and [[XiaoyusanInsurance|小雨伞]] - sponsor-linked insurance timing and financial-risk context.
 - [[OnlineSymptomSearchAnxiety]] - screening is a better outlet for concern than repeated search-based self-diagnosis.
 - [[OvarianCancerDiagnostics]], [[FallopianTubeAccessDiagnostics]], [[WomensHealthDiagnosticGap]], and [[MedicalDeviceClinicalValidation]] - women-health diagnostics branch added by The Social Radars.
+- [[LifestyleDiseasePrevention]], [[JapaneseHealthcareSystem]], and [[CommunityIntegratedCare]] - Japan healthcare demand-management branch added by vol.120.

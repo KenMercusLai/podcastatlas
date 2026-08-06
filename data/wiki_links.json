@@ -6711,6 +6711,10 @@
     "title": "Community Group Buying",
     "url": "/wiki/concepts/communitygroupbuying/"
   },
+  "CommunityIntegratedCare": {
+    "title": "Community Integrated Care / 社区综合照护",
+    "url": "/wiki/concepts/communityintegratedcare/"
+  },
   "CommunityLedSaaSGrowth": {
     "title": "Community-Led SaaS Growth",
     "url": "/wiki/concepts/communityledsaasgrowth/"
@@ -7571,6 +7575,10 @@
     "title": "DMT",
     "url": "/wiki/entities/dmt/"
   },
+  "DPCDRGPaymentReform": {
+    "title": "DPC/DRG Payment Reform",
+    "url": "/wiki/concepts/dpcdrgpaymentreform/"
+  },
   "DXY": {
     "title": "丁香园 / DXY",
     "url": "/wiki/entities/dxy/"
@@ -7594,6 +7602,10 @@
   "DaiYusen": {
     "title": "Dai Yusen / 戴雨森",
     "url": "/wiki/entities/daiyusen/"
+  },
+  "DaiichiSankyo": {
+    "title": "Daiichi Sankyo / 第一三共",
+    "url": "/wiki/entities/daiichisankyo/"
   },
   "DailyHarvest": {
     "title": "Daily Harvest",
@@ -11779,6 +11791,10 @@
     "title": "Generative Engine Optimization",
     "url": "/wiki/concepts/generativeengineoptimization/"
   },
+  "GenericDrugTrustRebuilding": {
+    "title": "Generic Drug Trust Rebuilding / 仿制药再信任",
+    "url": "/wiki/concepts/genericdrugtrustrebuilding/"
+  },
   "GenesisRobotics": {
     "title": "Genesis Robotics",
     "url": "/wiki/entities/genesisrobotics/"
@@ -12911,6 +12927,10 @@
     "title": "Healthcare AI Infrastructure",
     "url": "/wiki/concepts/healthcareaiinfrastructure/"
   },
+  "HealthcareImpossibleTriangle": {
+    "title": "Healthcare Impossible Triangle / 医疗不可能三角",
+    "url": "/wiki/concepts/healthcareimpossibletriangle/"
+  },
   "HealthcareO2O": {
     "title": "Healthcare O2O",
     "url": "/wiki/concepts/healthcareo2o/"
@@ -13134,6 +13154,10 @@
   "HighBandwidthMemory": {
     "title": "High Bandwidth Memory",
     "url": "/wiki/concepts/highbandwidthmemory/"
+  },
+  "HighCostMedicalExpenseBenefit": {
+    "title": "High-Cost Medical Expense Benefit / 高额疗养制度",
+    "url": "/wiki/concepts/highcostmedicalexpensebenefit/"
   },
   "HighCrimesAndMisdemeanors": {
     "title": "High Crimes And Misdemeanors",
@@ -14743,9 +14767,17 @@
     "title": "Japanese Disability Rights Movement",
     "url": "/wiki/concepts/japanesedisabilityrightsmovement/"
   },
+  "JapaneseDrugPricingReform": {
+    "title": "Japanese Drug Pricing Reform / 日本药品定价改革",
+    "url": "/wiki/concepts/japanesedrugpricingreform/"
+  },
   "JapaneseEnterprisePriceWarAvoidance": {
     "title": "Japanese Enterprise Price-War Avoidance / 日本企业避免价格战",
     "url": "/wiki/concepts/japaneseenterprisepricewaravoidance/"
+  },
+  "JapaneseHealthcareSystem": {
+    "title": "Japanese Healthcare System / 日本医疗体系",
+    "url": "/wiki/concepts/japanesehealthcaresystem/"
   },
   "JapaneseImperialFamily": {
     "title": "Japanese Imperial Family",
@@ -14759,9 +14791,21 @@
     "title": "Japanese Lost Decades",
     "url": "/wiki/concepts/japaneselostdecades/"
   },
+  "JapaneseMedicalCollapse": {
+    "title": "Japanese Medical Collapse / 日本医疗崩坏",
+    "url": "/wiki/concepts/japanesemedicalcollapse/"
+  },
+  "JapaneseMedicalTriageSystem": {
+    "title": "Japanese Medical Triage System / 日本分诊制",
+    "url": "/wiki/concepts/japanesemedicaltriagesystem/"
+  },
   "JapaneseSogoShosha": {
     "title": "Japanese Sogo Shosha / 日本综合商社",
     "url": "/wiki/concepts/japanesesogoshosha/"
+  },
+  "JapaneseUniversalHealthCoverage": {
+    "title": "Japanese Universal Health Coverage / 日本全民医保",
+    "url": "/wiki/concepts/japaneseuniversalhealthcoverage/"
   },
   "JaredFriedman": {
     "title": "Jared Friedman",
@@ -16814,6 +16858,10 @@
   "LifestyleCostRationalization": {
     "title": "Lifestyle Cost Rationalization",
     "url": "/wiki/concepts/lifestylecostrationalization/"
+  },
+  "LifestyleDiseasePrevention": {
+    "title": "Lifestyle-Disease Prevention / 生活习惯病预防",
+    "url": "/wiki/concepts/lifestylediseaseprevention/"
   },
   "LifestyleSubsidyCreatorWork": {
     "title": "Lifestyle Subsidy Creator Work",
@@ -18898,6 +18946,10 @@
   "MinimalistEntrepreneurship": {
     "title": "Minimalist Entrepreneurship",
     "url": "/wiki/concepts/minimalistentrepreneurship/"
+  },
+  "MinistryOfHealthLabourAndWelfare": {
+    "title": "Ministry of Health, Labour and Welfare / 厚生劳动省",
+    "url": "/wiki/entities/ministryofhealthlabourandwelfare/"
   },
   "MinistryOfIntelligenceAndSecurity": {
     "title": "Ministry of Intelligence and Security",
@@ -21566,6 +21618,10 @@
   "PharmaceuticalEcommerce": {
     "title": "Pharmaceutical Ecommerce",
     "url": "/wiki/concepts/pharmaceuticalecommerce/"
+  },
+  "PharmacistAsSecondDoctor": {
+    "title": "Pharmacist As Second Doctor / 药剂师第二医生体系",
+    "url": "/wiki/concepts/pharmacistasseconddoctor/"
   },
   "PhilHolstead": {
     "title": "Phil Holstead",
@@ -25779,6 +25835,10 @@
     "title": "Social Grooming / 社会性梳毛",
     "url": "/wiki/concepts/socialgrooming/"
   },
+  "SocialHospitalization": {
+    "title": "Social Hospitalization / 社会性住院",
+    "url": "/wiki/concepts/socialhospitalization/"
+  },
   "SocialMediaAbuseMask": {
     "title": "Social Media Abuse Mask / 社交媒体虐待遮蔽",
     "url": "/wiki/concepts/socialmediaabusemask/"
@@ -27162,6 +27222,10 @@
   "TakeItDownAct": {
     "title": "Take It Down Act",
     "url": "/wiki/concepts/takeitdownact/"
+  },
+  "TakedaPharmaceutical": {
+    "title": "Takeda Pharmaceutical / 武田制药",
+    "url": "/wiki/entities/takedapharmaceutical/"
   },
   "TakeichiNoLongerHuman": {
     "title": "竹一 / Takeichi",
@@ -33338,6 +33402,10 @@
   "vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3": {
     "title": "vol.119.券商研究报告还值得读吗？",
     "url": "/wiki/sources/vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3/"
+  },
+  "vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt": {
+    "title": "vol.120.日本医疗体系的崩溃与重生：医院、药品、医保三角困局的一种解法",
+    "url": "/wiki/sources/vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt/"
   },
   "vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1": {
     "title": "Vol. 160 一年多以后，再聊AI写代码Vibe Coding",

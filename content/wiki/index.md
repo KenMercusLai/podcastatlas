@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.120.日本医疗体系的崩溃与重生：医院、药品、医保三角困局的一种解法](sources/vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt.md) — 起朱楼宴宾客 episode with 大卫翁 on Japan's healthcare reform from 1990s medical collapse to a hospital-drug-insurance system built around public coverage, high-cost caps, triage, community care, DPC/DRG payment, drug-pricing reform, generic-drug trust, and pharmacist expansion.
 - [vol.119.券商研究报告还值得读吗？](sources/vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3.md) — 起朱楼宴宾客 episode with 大卫翁 on brokerage research reports, sell-side research institutes, buy-side service, compliance pressure, report types, macro/strategy expression, passive investing, and how ordinary investors should read reports without outsourcing judgment.
 - [vol.118.单身人士养老指南：不是孤独的代名词，是更早掌握人生的主动权](sources/vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt.md) — 起朱楼宴宾客 crossover with 知青小酒馆 on single/solo aging, retirement cash flow, aging in place, health, relationship capital, cognitive-decline planning, and solo death preparedness.
 - [vol.117.生物医药的2025：抄底中国、研发焦虑和新王继位](sources/vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7.md) — 起朱楼宴宾客 episode with 大卫翁 and 小P老师 on China biotech asset repricing, MNC patent-cliff anxiety, license-out and reverse NewCo structures, PD-1/VEGF, TCE, ADC, GLP-1, HIV prevention, BeiGene globalization, AI drug, and in vivo mRNA CAR-T.
@@ -742,6 +743,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ministry of Health, Labour and Welfare / 厚生劳动省](entities/MinistryOfHealthLabourAndWelfare.md) — Japanese government institution associated by vol.120 with post-2000 healthcare coordination across hospitals, insurance, drugs, long-term care, and pharmacist reform.
+- [Daiichi Sankyo / 第一三共](entities/DaiichiSankyo.md) — Japanese pharma company cited in vol.120 as evidence that Japan retained globally meaningful drug-industry capacity after pricing and generic-drug reform.
+- [Takeda Pharmaceutical / 武田制药](entities/TakedaPharmaceutical.md) — Japanese pharma company cited in vol.120 as part of the industry outcome of Japan's post-crisis drug-pricing and quality reforms.
 - [知青小酒馆 / Zhiqing Xiaojiuguan](entities/ZhiqingXiaojiuguan.md) — Crossover partner in vol.118, where single aging is treated as life-system planning rather than only retirement finance.
 - [小P老师 / Xiao P Teacher](entities/XiaoPTeacher.md) — Biotech early-research guest in vol.117, grounding the episode's sober 2025 view of PD-1, CAR-T, ADC, AI drug, and cross-border biotech transactions.
 - [Akeso / 康方生物](entities/Akeso.md) — Chinese biotech company used by vol.117 as the central PD-1/VEGF bispecific and China asset-repricing example.
@@ -5120,6 +5124,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Japanese Healthcare System / 日本医疗体系](concepts/JapaneseHealthcareSystem.md) — Vol.120 umbrella frame for Japan's hospital-drug-insurance triangle and the coordinated reforms that followed 1990s medical collapse.
+- [Japanese Universal Health Coverage / 日本全民医保](concepts/JapaneseUniversalHealthCoverage.md) — Insurance base in vol.120, combining broad public coverage with elderly-specific financing and cost-control mechanisms.
+- [High-Cost Medical Expense Benefit / 高额疗养制度](concepts/HighCostMedicalExpenseBenefit.md) — Japanese out-of-pocket cap mechanism that gives patients a monthly upper bound on high medical spending.
+- [Japanese Medical Collapse / 日本医疗崩坏](concepts/JapaneseMedicalCollapse.md) — 1990s crisis frame where aging, chronic disease, recession-era cost control, long stays, and defensive medicine overwhelmed an acute-care system.
+- [Social Hospitalization / 社会性住院](concepts/SocialHospitalization.md) — Hospital overuse pattern where elder care, rehabilitation, welfare, and medical treatment blur into long inpatient stays.
+- [Lifestyle-Disease Prevention / 生活习惯病预防](concepts/LifestyleDiseasePrevention.md) — Preventive demand-management branch around chronic disease, metabolic checks, and earlier intervention under aging pressure.
+- [Japanese Medical Triage System / 日本分诊制](concepts/JapaneseMedicalTriageSystem.md) — Clinic-first, referral-based care structure that trades direct hospital access for system efficiency.
+- [Community Integrated Care / 社区综合照护](concepts/CommunityIntegratedCare.md) — Japanese shift from hospital-complete care to community-complete medical, long-term care, and life-support coordination.
+- [DPC/DRG Payment Reform](concepts/DPCDRGPaymentReform.md) — Hospital-payment mechanism that shifts incentives from fee-for-service overprovision toward diagnosis-group cost discipline and shorter stays.
+- [Japanese Drug Pricing Reform / 日本药品定价改革](concepts/JapaneseDrugPricingReform.md) — Post-2003 policy branch distinguishing valuable innovation from low-value me-too drugs after destructive low-price procurement.
+- [Generic Drug Trust Rebuilding / 仿制药再信任](concepts/GenericDrugTrustRebuilding.md) — Generic-drug substitution as a quality, professional-trust, and industry-consolidation problem rather than only a price problem.
+- [Pharmacist As Second Doctor / 药剂师第二医生体系](concepts/PharmacistAsSecondDoctor.md) — Expanded pharmacist role in medication records, generic-drug explanation, chronic-care support, and community healthcare.
+- [Healthcare Impossible Triangle / 医疗不可能三角](concepts/HealthcareImpossibleTriangle.md) — Source-scoped tradeoff among medical quality, efficiency, and price used to explain Japan's ordinary-care design.
 - [Brokerage Research Reports](concepts/BrokerageResearchReports.md) — Sell-side report artifacts used by buy-side service businesses, valuable for data and frameworks but weak as public trading instructions.
 - [Research Report Reading Discipline](concepts/ResearchReportReadingDiscipline.md) — Ordinary-investor method for extracting data and frameworks from brokerage reports while discounting ratings, target prices, and delayed or incentive-shaped conclusions.
 - [Solo Aging Planning / 单身养老规划](concepts/SoloAgingPlanning.md) — Vol.118 frame for preparing money, residence, health, relationships, emotions, cognition, and death arrangements before solo later life becomes crisis.

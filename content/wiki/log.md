@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-06] ingest | vol.120.日本医疗体系的崩溃与重生：医院、药品、医保三角困局的一种解法
+
+Added source page for a 起朱楼宴宾客 episode by 大卫翁 on Japan's healthcare system, 1990s medical collapse, public coverage, high-cost medical expense caps, lifestyle-disease prevention, triage, community integrated care, DPC/DRG-style payment reform, drug-pricing reform, generic-drug trust, pharmacist reform, and the hospital-drug-insurance triangle as a China-facing comparison case. Created pages for Japanese Healthcare System, Japanese Universal Health Coverage, High-Cost Medical Expense Benefit, Japanese Medical Collapse, Social Hospitalization, Lifestyle-Disease Prevention, Japanese Medical Triage System, Community Integrated Care, DPC/DRG Payment Reform, Japanese Drug Pricing Reform, Generic Drug Trust Rebuilding, Pharmacist As Second Doctor, Healthcare Impossible Triangle, Ministry of Health, Labour and Welfare, Daiichi Sankyo, and Takeda Pharmaceutical; updated overview, index, 起朱楼宴宾客, 大卫翁, Japan, China, Health Insurance Planning, Preventive Health Screening, Elder Care State Capacity, Aging-In-Place Support System, Long-Term Care Insurance Planning, and Medical Risk Management. No direct contradiction found; the source's own correction note is recorded as a reliability caveat for the revised episode.
+
 ## [2026-08-06] ingest | 88.别认输，惠子：在听不到喝彩的世界里，挥拳！
 
 Added source page for a 蜜獾吃书 episode on 惠子, 《别认输，惠子》, 《惠子凝视》, deaf education, communication misrecognition, adolescent anger, female boxing, repeated competition refusals, 真斗拳馆, 小林亮一, 和田幸子, and boxing as embodied agency. Created pages for 惠子 / Keiko (boxer), 《别认输，惠子》, 《惠子凝视》, 真斗拳馆, 小林亮一, 和田幸子, Deaf Education And Belonging, Communication Access And Misrecognition, Disability Access In Combat Sports, and Boxing As Embodied Agency; updated overview, index, 蜜獾吃书, Disability Independent Living, Subject-Led Care, Adolescent Alienation Recognition, Complex Trauma Recognition, Action Against Anxiety, Female Body Freedom, and Female Self-Possession. No direct contradiction found; the existing [[Keiko]] page refers to the Free Willy orca, so the boxer is kept under [[KeikoBoxer]] to prevent identity conflation.
@@ -5920,6 +5924,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] ingest | vol.119.券商研究报告还值得读吗？
 
 Added source page for a 起朱楼宴宾客 episode with 大卫翁 on whether brokerage research reports are worth reading, how sell-side research institutes serve buy-side clients, why public reports are only one visible layer of a service business, how compliance and incentives shape expression, which report types are more useful, and how ordinary investors should extract data and frameworks without copying recommendations. Created pages for Brokerage Research Reports and Research Report Reading Discipline; updated overview, index, 起朱楼宴宾客, 大卫翁, Sell-Side Research Incentives, Macro Research Public Expression, Investment Risk Management, Portfolio Suitability, Passive Investing, and Active Management Style Evolution. No direct contradiction found; the source reinforces earlier sell-side incentive and macro public-expression pages while adding a general report-reading rule: useful evidence can coexist with weak standalone advice.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 
