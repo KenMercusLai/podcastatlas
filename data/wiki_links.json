@@ -3015,6 +3015,10 @@
     "title": "Annemarie Graham-Hudak",
     "url": "/wiki/entities/annemariegrahamhudak/"
   },
+  "AnnualReportMacroReading": {
+    "title": "Annual Report Macro Reading",
+    "url": "/wiki/concepts/annualreportmacroreading/"
+  },
   "AnnualUpfrontSaaSCashFlow": {
     "title": "Annual Upfront SaaS Cash Flow",
     "url": "/wiki/concepts/annualupfrontsaascashflow/"
@@ -3026,6 +3030,10 @@
   "AntFortune": {
     "title": "蚂蚁财富 / Ant Fortune",
     "url": "/wiki/entities/antfortune/"
+  },
+  "AntaSports": {
+    "title": "Anta Sports / 安踏",
+    "url": "/wiki/entities/antasports/"
   },
   "Anthropic": {
     "title": "Anthropic",
@@ -4987,6 +4995,10 @@
     "title": "CJ Finn",
     "url": "/wiki/entities/cjfinn/"
   },
+  "CMOC": {
+    "title": "CMOC / 洛阳钼业",
+    "url": "/wiki/entities/cmoc/"
+  },
   "CNN": {
     "title": "CNN",
     "url": "/wiki/entities/cnn/"
@@ -5971,6 +5983,10 @@
     "title": "China Low-Redistribution State",
     "url": "/wiki/concepts/chinalowredistributionstate/"
   },
+  "ChinaMerchantsBank": {
+    "title": "China Merchants Bank / 招商银行",
+    "url": "/wiki/entities/chinamerchantsbank/"
+  },
   "ChinaMerchantsFund": {
     "title": "招商基金 / China Merchants Fund",
     "url": "/wiki/entities/chinamerchantsfund/"
@@ -6050,6 +6066,10 @@
   "ChineseCharacterEvidenceDiscipline": {
     "title": "Chinese Character Evidence Discipline",
     "url": "/wiki/concepts/chinesecharacterevidencediscipline/"
+  },
+  "ChineseCorporateGladiatorCompetition": {
+    "title": "Chinese Corporate Gladiator Competition",
+    "url": "/wiki/concepts/chinesecorporategladiatorcompetition/"
   },
   "ChineseCrestedTern": {
     "title": "中华凤头燕鸥 / Chinese Crested Tern",
@@ -6786,6 +6806,10 @@
   "ComprehensiveConsumerDataPrivacy": {
     "title": "Comprehensive Consumer Data Privacy",
     "url": "/wiki/concepts/comprehensiveconsumerdataprivacy/"
+  },
+  "CompressedCorporateEvolution": {
+    "title": "Compressed Corporate Evolution",
+    "url": "/wiki/concepts/compressedcorporateevolution/"
   },
   "ComputeFreedom": {
     "title": "Compute Freedom / 算力自由",
@@ -11443,6 +11467,10 @@
     "title": "Fudan University / 复旦大学",
     "url": "/wiki/entities/fudanuniversity/"
   },
+  "FufengGroup": {
+    "title": "Fufeng Group / 富丰集团",
+    "url": "/wiki/entities/fufenggroup/"
+  },
   "FugitiveTemporality": {
     "title": "Fugitive Temporality",
     "url": "/wiki/concepts/fugitivetemporality/"
@@ -12079,6 +12107,10 @@
     "title": "Global Product Localization",
     "url": "/wiki/concepts/globalproductlocalization/"
   },
+  "GlobalResourceAllocationCompany": {
+    "title": "Global Resource Allocation Company",
+    "url": "/wiki/concepts/globalresourceallocationcompany/"
+  },
   "GlobalSportsGovernance": {
     "title": "Global Sports Governance",
     "url": "/wiki/concepts/globalsportsgovernance/"
@@ -12326,6 +12358,10 @@
   "GreatRecoinage": {
     "title": "Great Recoinage / 大重铸",
     "url": "/wiki/concepts/greatrecoinage/"
+  },
+  "GreatStarIndustrial": {
+    "title": "GreatStar Industrial / 巨星科技",
+    "url": "/wiki/entities/greatstarindustrial/"
   },
   "GreatTreasonIncident": {
     "title": "Great Treason Incident / 大逆事件",
@@ -12802,6 +12838,10 @@
   "HandsetMarketConcentration": {
     "title": "Handset Market Concentration",
     "url": "/wiki/concepts/handsetmarketconcentration/"
+  },
+  "HangLungProperties": {
+    "title": "Hang Lung Properties / 恒隆地产",
+    "url": "/wiki/entities/hanglungproperties/"
   },
   "HangSengTechIndex": {
     "title": "Hang Seng Tech Index",
@@ -14238,6 +14278,10 @@
   "InnoventBiologics": {
     "title": "Innovent Biologics / 信达生物",
     "url": "/wiki/entities/innoventbiologics/"
+  },
+  "InovanceTechnology": {
+    "title": "Inovance Technology / 汇川技术",
+    "url": "/wiki/entities/inovancetechnology/"
   },
   "InsiderDissentStrategy": {
     "title": "Insider Dissent Strategy / 局内人异议策略",
@@ -17547,6 +17591,10 @@
     "title": "Low-Equity Commercial Rights",
     "url": "/wiki/concepts/lowequitycommercialrights/"
   },
+  "LowFactorCostAdvantage": {
+    "title": "Low Factor Cost Advantage",
+    "url": "/wiki/concepts/lowfactorcostadvantage/"
+  },
   "LowFireLaborMarket": {
     "title": "Low-Fire Labor Market",
     "url": "/wiki/concepts/lowfirelabormarket/"
@@ -19082,6 +19130,10 @@
   "Mindhunter": {
     "title": "Mindhunter",
     "url": "/wiki/entities/mindhunter/"
+  },
+  "MindrayMedical": {
+    "title": "Mindray Medical / 迈瑞医疗",
+    "url": "/wiki/entities/mindraymedical/"
   },
   "MingRuoZhaoShuang": {
     "title": "《命若朝霜》 / Ming Ruo Zhao Shuang",
@@ -24203,6 +24255,10 @@
     "title": "Roblox",
     "url": "/wiki/entities/roblox/"
   },
+  "Roborock": {
+    "title": "Roborock / 石头科技",
+    "url": "/wiki/entities/roborock/"
+  },
   "RobotActiveUseMetrics": {
     "title": "Robot Active Use Metrics",
     "url": "/wiki/concepts/robotactiveusemetrics/"
@@ -24566,6 +24622,10 @@
   "SETI": {
     "title": "SETI / Search for Extraterrestrial Intelligence",
     "url": "/wiki/entities/seti/"
+  },
+  "SFHolding": {
+    "title": "SF Holding / 顺丰控股",
+    "url": "/wiki/entities/sfholding/"
   },
   "SKHynix": {
     "title": "SK Hynix",
@@ -27711,6 +27771,10 @@
     "title": "Technological Disaster As Institutional Failure",
     "url": "/wiki/concepts/technologicaldisasterasinstitutionalfailure/"
   },
+  "TechnologyInnovationAsScaleEconomy": {
+    "title": "Technology Innovation As Scale Economy",
+    "url": "/wiki/concepts/technologyinnovationasscaleeconomy/"
+  },
   "TechnologyInstallationCycle": {
     "title": "Technology Installation Cycle",
     "url": "/wiki/concepts/technologyinstallationcycle/"
@@ -28210,6 +28274,10 @@
   "ThreeDPrintedProsthetics": {
     "title": "3D-Printed Prosthetics",
     "url": "/wiki/concepts/threedprintedprosthetics/"
+  },
+  "ThreeLayerScaleEconomies": {
+    "title": "Three-Layer Scale Economies",
+    "url": "/wiki/concepts/threelayerscaleeconomies/"
   },
   "ThreeMileIslandAccident": {
     "title": "Three Mile Island Accident",
@@ -31735,6 +31803,10 @@
     "title": "《自卑与超越》",
     "url": "/wiki/entities/zibeiyuchaoyue/"
   },
+  "ZijinMining": {
+    "title": "Zijin Mining / 紫金矿业",
+    "url": "/wiki/entities/zijinmining/"
+  },
   "Zili": {
     "title": "自立",
     "url": "/wiki/entities/zili/"
@@ -33674,6 +33746,10 @@
   "vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v": {
     "title": "vol.126.公募基金还值得买吗？",
     "url": "/wiki/sources/vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v/"
+  },
+  "vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv": {
+    "title": "vol.127.年报季中的真实中国2025",
+    "url": "/wiki/sources/vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv/"
   },
   "vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1": {
     "title": "Vol. 160 一年多以后，再聊AI写代码Vibe Coding",

@@ -5980,3 +5980,11 @@ Added source page for a 起朱楼宴宾客 episode by 大卫翁 on whether Chine
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | vol.127.年报季中的真实中国2025
+
+Added source page for a 起朱楼宴宾客 episode by 大卫翁 using 2024 annual reports to read China's weak demand, local fiscal drag, consumer-credit stress, REIT bottom-asset signals, private-enterprise evolution, scale economies, technology innovation, tariff-war adaptation, and the social costs of gladiator-style competition. Created pages for Fufeng Group, Inovance Technology, Mindray Medical, Hang Lung Properties, China Merchants Bank, Anta Sports, SF Holding, Roborock, GreatStar Industrial, Zijin Mining, CMOC, Annual Report Macro Reading, Compressed Corporate Evolution, Low Factor Cost Advantage, Three-Layer Scale Economies, Technology Innovation As Scale Economy, Global Resource Allocation Company, and Chinese Corporate Gladiator Competition; updated overview, index, 起朱楼宴宾客, 大卫翁, Mixue Bingcheng, Pop Mart, Hengrui Pharma, Midea Group, Anker Innovations, Temu, Pinduoduo, CATL, BYD, Lens Technology, Financial Statement Analysis, China Local Debt Resolution, Real Estate Investment Trust, Supply Chain Sovereignty, and China Corporate Anti-Involution. No direct contradiction found; the source extends earlier local-debt, tariff, REIT, and anti-involution branches by grounding them in 2024 company-report evidence while warning that Chinese corporate resilience carries worker, founder, failed-firm, and domestic-demand costs.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

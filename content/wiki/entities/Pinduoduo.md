@@ -2,8 +2,8 @@
 title: "Pinduoduo"
 type: entity
 tags: [company, ecommerce, china, marketplace]
-sources: [zhe-bannian-women-you-maile-naxie-keji-haowu-1, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]
-last_updated: 2026-07-09
+sources: [zhe-bannian-women-you-maile-naxie-keji-haowu-1, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
+last_updated: 2026-08-06
 ---
 
 # Pinduoduo
@@ -24,6 +24,8 @@ The source does not analyze Pinduoduo as a company in depth. Its relevance is pr
 
 The same source also connects Pinduoduo to grocery competition through [[DuoduoMaicai]], where community group buying moved from startup experimentation into large-platform subsidy and fulfillment competition.
 
+[[vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]] adds Pinduoduo through [[Temu]] and the platform's merchant-adaptation pressure. The source uses rapid shifts in Temu rules to illustrate [[ChineseCorporateGladiatorCompetition]]: Chinese small merchants can adapt quickly, but the process can also damage trust, margins, and stability.
+
 ## Connections
 - [[KejiLuandun]] — show where the sponsorship and product list appear.
 - [[PersonalInfrastructureCostAccounting]] — the episode compares subsidy prices against official prices, expected use, and ownership cost.
@@ -34,3 +36,4 @@ The same source also connects Pinduoduo to grocery competition through [[DuoduoM
 - [[GoodCompanyGoodStock]], [[MarginOfSafety]], [[InvestmentCatalyst]], and [[EarningsGrowthAcceleration]] — investing-method concepts added by the FengTouQuan episode.
 - [[PharmaceuticalEcommerce]], [[JDHealth]], and [[InternetHealthcare]] — medicine-retail context added by episode 206.
 - [[DuoduoMaicai]], [[CommunityGroupBuying]], [[ChineseEcommercePlatformHistory]], and [[EcommercePlatformFailureModes]] — ecommerce-history and grocery-platform context added by Banlatte episode 200.
+- [[Temu]], [[ChineseCorporateGladiatorCompetition]], and [[GlobalResourceAllocationCompany]] — vol.127's global ecommerce adaptation branch.

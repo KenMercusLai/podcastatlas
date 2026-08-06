@@ -32,6 +32,8 @@ In [[vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772ol
 
 In [[vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v]], he draws on his former fund-industry work to explain why Chinese public funds should be judged through company strategy, channel economics, regulation, product mechanics, and holder behavior. His synthesis turns "can public funds still be bought" into a [[PublicMutualFundEcosystem]] question: investors should look for fund companies and products that can avoid [[FundDistributionIncentives|sales-driven issuance]], [[FundRedemptionLiquidityPressure|redemption pressure]], the [[FundInvestorReturnGap]], and the [[ContractualFundGovernanceGap]].
 
+In [[vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]], he uses 2024 annual reports as a macro and company-evolution map. His synthesis combines weak-demand evidence from banks, REITs, malls, cement, medical procurement, and infrastructure orders with a more positive account of Chinese firms' [[CompressedCorporateEvolution]], [[ThreeLayerScaleEconomies]], [[TechnologyInnovationAsScaleEconomy]], and [[GlobalResourceAllocationCompany|global resource allocation]] capabilities, while warning about the social cost of [[ChineseCorporateGladiatorCompetition]].
+
 ## Connections
 - [[QizhulouYanBinke|起朱楼宴宾客]] — source show.
 - [[SanDianXiaban|三点下班]] and [[Haoge|浩哥]] — crossover partner and conversation counterpart.
@@ -48,3 +50,4 @@ In [[vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v]], he dr
 - [[HowardMarks]], [[MacroEventTrendDistinction]], [[OneToOneToOneAllocation]], [[ConvertibleBond]], and [[SleepWellPortfolioTest]] — vol.124 information-overload and portfolio-review branch.
 - [[FanYiru|樊一如]], [[EastAsiaObservatory|东亚观察局]], [[JapaneseInflationHouseholdPressure]], [[JapaneseEquityRepricing]], [[JapanGeopoliticalSupplyChainDividend]], [[JapaneseLaborShortageImmigrationTension]], and [[JapanComfortableStagnation]] — vol.125 Japan macro-society branch.
 - [[PublicMutualFundEcosystem]], [[FundDistributionIncentives]], [[FundRedemptionLiquidityPressure]], [[FundInvestorReturnGap]], [[ContractualFundGovernanceGap]], and [[CharlesSchwab]] — vol.126 public-fund industry branch.
+- [[AnnualReportMacroReading]], [[ChinaLocalDebtResolution]], [[CompressedCorporateEvolution]], [[TechnologyInnovationAsScaleEconomy]], [[GlobalResourceAllocationCompany]], and [[ChineseCorporateGladiatorCompetition]] — vol.127 annual-report and Chinese corporate-evolution branch.

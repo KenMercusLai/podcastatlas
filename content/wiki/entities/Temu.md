@@ -2,8 +2,8 @@
 title: "Temu"
 type: entity
 tags: [company, ecommerce, internationalization, growth]
-sources: [quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1]
-last_updated: 2026-07-09
+sources: [quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
+last_updated: 2026-08-06
 ---
 
 # Temu
@@ -14,8 +14,11 @@ The source uses Temu to mark the boundary of ByteDance growth transfer. Paid tra
 
 [[139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1]] adds Temu as a potential [[InvestmentCatalyst]] for [[Pinduoduo]]. The episode argues that when domestic ecommerce is mature and ecosystem repair weighs on near-term margins, overseas growth reacceleration could become one of the clearer ways for the market to rebuild confidence in Pinduoduo's future growth.
 
+[[vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]] adds Temu as an example of violent but fast platform adaptation. The source says merchants moved from full-managed to semi-managed models, adjusted to overseas compliance and consumer requirements, and rapidly searched for lower-cost materials after platform rules changed, making Temu a case in [[ChineseCorporateGladiatorCompetition]].
+
 ## Connections
 - [[Pinduoduo]] — related ecommerce and subsidy context in the wiki.
 - [[ByteDance]], [[TikTok]], and [[GlobalProductLocalization]] — overseas organization comparison.
 - [[ByteDanceGrowthSystem]], [[LTVBasedGrowthBudgeting]], and [[DistributionLedProductBuilding]] — adjacent growth concepts.
 - [[InvestmentCatalyst]] and [[GoodCompanyGoodStock]] — investing-method extension from the FengTouQuan source.
+- [[ChineseCorporateGladiatorCompetition]], [[Pinduoduo]], and [[GlobalResourceAllocationCompany]] — adaptation and merchant-pressure context added by vol.127.

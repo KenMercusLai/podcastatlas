@@ -2,7 +2,7 @@
 title: "Real Estate Investment Trust"
 type: concept
 tags: [finance, real-estate, housing, investment]
-sources: [vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, two-indicators-for-lowering-the-rent]
+sources: [vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, two-indicators-for-lowering-the-rent, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
 last_updated: 2026-08-06
 ---
 
@@ -14,14 +14,18 @@ In this wiki branch, the concept is narrow: it matters because it helps turn sca
 
 [[vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]] adds the ordinary-investor portfolio version. [[DavidWeng|大卫翁]] reviews mainland REITs as a successful but imperfect trade: expected income returns were largely achieved, but he underestimated economic-cycle exposure in highways and logistics REITs, forecast fragility at issuance, and the chance that stable-income scarcity would push some REITs beyond his early sell prices.
 
+[[vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]] adds the macro-sensor version. The episode uses highway and industrial-park REIT bottom-asset data to test real logistics demand, truck traffic, rents, revenue, and occupancy, making REITs part of [[AnnualReportMacroReading]] rather than only a portfolio product.
+
 ## Key Claims
 - REITs can serve different roles: rental-housing finance, income asset, or scarcity-driven market trade.
 - Dividend yield alone is not enough if the underlying asset cash flow, forecast assumptions, and cycle exposure are weakening.
 - In a small REIT market, stable-income demand can push valuations beyond simple yield comparison.
 - Vol.124 uses REITs as a lesson for later [[ConvertibleBond|convertible bond]] sell-down discipline: realizing gains and leaving a residual position can be separate decisions.
+- Vol.127 adds that highway and industrial-park REITs can reveal business-cycle pressure through toll revenue, traffic mix, rent decline, and occupancy.
 
 ## Connections
 - [[InstitutionalSingleFamilyRental]] - housing ownership category REITs can support.
 - [[HousingAffordabilitySupplyMechanics]] - affordability frame affected by finance structures.
 - [[CorporateLandlordTradeoffs]] - policy debate around investor-backed landlords.
 - [[ConvertibleBond]], [[OneToOneToOneAllocation]], [[RetirementCashFlowSecurity]], and [[InvestmentRiskManagement]] - investing branch added by vol.124.
+- [[AnnualReportMacroReading]] and [[ChinaLocalDebtResolution]] - macro and local-fiscal transmission branch added by vol.127.

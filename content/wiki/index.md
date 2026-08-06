@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.127.年报季中的真实中国2025](sources/vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv.md) — 起朱楼宴宾客 episode using 2024 annual reports to read China's weak demand, company impairment and REIT signals, private-enterprise evolution, scale economies, technology innovation, global resource allocation, and the social cost of gladiator-style competition.
 - [vol.126.公募基金还值得买吗？](sources/vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v.md) — 起朱楼宴宾客 episode on China's public mutual fund ecosystem, sales-channel incentives, trail commissions, C-share fee opacity, redemption pressure, contractual-fund governance gaps, investor return gaps, and the conditions under which active public funds can still be buyable.
 - [vol.125.日本到底还行不行？ | 串台东亚观察局](sources/vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw.md) — 起朱楼宴宾客 crossover with 东亚观察局 on Japan's inflation, NISA household investing, equity repricing, TSMC Kumamoto spillovers, labor shortage, immigration tension, overtourism, industrial-policy path dependence, innovation retreat, and comfortable stagnation.
 - [vol.124.信息过载后如何保持冷静？ | 投资账复盘](sources/vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l.md) — 起朱楼宴宾客 first-quarter investment review on information overload, Howard Marks's "nobody knows" discipline, macro event versus trend filtering, a 1:1:1 allocation anchor, mainland REITs, convertible bonds, options fit, and the sleep-well portfolio test.
@@ -748,6 +749,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Fufeng Group / 富丰集团](entities/FufengGroup.md) — Chinese biochemical company used as the central case for compressed private-enterprise evolution.
+- [Inovance Technology / 汇川技术](entities/InovanceTechnology.md) — Chinese automation, EV, and robotics company showing domestic substitution, cluster scale, and infrastructure-demand exposure.
+- [Mindray Medical / 迈瑞医疗](entities/MindrayMedical.md) — Chinese medical-device and digital-health company linking procurement pressure to integrated device, IT, and AI platform evolution.
+- [Hang Lung Properties / 恒隆地产](entities/HangLungProperties.md) — Property and retail company whose annual-report tone is used as evidence for weak but possibly bottoming China sentiment.
+- [China Merchants Bank / 招商银行](entities/ChinaMerchantsBank.md) — Bank used for consumer-credit, mortgage-quality, and household balance-sheet stress signals.
+- [Anta Sports / 安踏](entities/AntaSports.md) — Chinese sportswear group used as a consumer-brand operating-system and multi-brand evolution case.
+- [SF Holding / 顺丰控股](entities/SFHolding.md) — Logistics company used as infrastructure for Chinese consumer-chain globalization.
+- [Roborock / 石头科技](entities/Roborock.md) — Smart-cleaning and appliance company used as a technology-platform reuse case.
+- [GreatStar Industrial / 巨星科技](entities/GreatStarIndustrial.md) — Toolmaker used to define global resource allocation under tariff pressure.
+- [Zijin Mining / 紫金矿业](entities/ZijinMining.md) — Mining company used as an upstream resource globalization and engineering-capability case.
+- [CMOC / 洛阳钼业](entities/CMOC.md) — Mining company used to connect upstream resource access with CATL-linked battery-chain demand.
 - [Investment Company Institute / ICI](entities/InvestmentCompanyInstitute.md) — Mutual-fund industry reference source in vol.126, used for global and U.S. fund data plus the social-value framing of mutual funds.
 - [Eric Pan](entities/EricPan.md) — ICI figure quoted by vol.126 on mutual funds as financial democratization and long-term household finance infrastructure.
 - [Massachusetts Investors Trust](entities/MassachusettsInvestorsTrust.md) — First-mutual-fund historical anchor in vol.126, used to illustrate compounding and institutional continuity.
@@ -5156,6 +5168,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Annual Report Macro Reading](concepts/AnnualReportMacroReading.md) — Method of using many company reports to infer macro demand, confidence, balance-sheet stress, and enterprise adaptation.
+- [Compressed Corporate Evolution](concepts/CompressedCorporateEvolution.md) — Chinese company growth pattern that compresses product, listing, internationalization, and professionalization stages into a shorter cycle.
+- [Low Factor Cost Advantage](concepts/LowFactorCostAdvantage.md) — Cheap land, labor, utilities, logistics, infrastructure, and capital as an older but limited Chinese enterprise advantage.
+- [Three-Layer Scale Economies](concepts/ThreeLayerScaleEconomies.md) — Domestic market scale, industrial-cluster externalities, and public infrastructure or application-scene scale.
+- [Technology Innovation As Scale Economy](concepts/TechnologyInnovationAsScaleEconomy.md) — Shift from low-cost growth toward reusable R&D, AI, algorithms, engineering, and product-platform productivity.
+- [Global Resource Allocation Company](concepts/GlobalResourceAllocationCompany.md) — Company archetype coordinating local service, global production, and China-based management, R&D, and supply-chain know-how.
+- [Chinese Corporate Gladiator Competition](concepts/ChineseCorporateGladiatorCompetition.md) — Fast but costly competition pattern driven by surplus supply, unclear rules, and intense business-making pressure.
 - [Public Mutual Fund Ecosystem / 公募基金生态](concepts/PublicMutualFundEcosystem.md) — Vol.126 system frame for judging public funds through fund companies, channels, regulation, fees, product structure, and holder behavior together.
 - [Fund Distribution Incentives / 基金销售激励](concepts/FundDistributionIncentives.md) — Vol.126 sales-channel incentive problem around new issuance, trail commissions, C-share service fees, and distributor economics.
 - [Fund Redemption Liquidity Pressure / 基金赎回流动性压力](concepts/FundRedemptionLiquidityPressure.md) — Vol.126 investment paradox where open-ended redemptions can force cash buffers or sales that conflict with a manager's long-term thesis.

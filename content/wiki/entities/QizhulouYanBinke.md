@@ -60,6 +60,8 @@ The episode is explicitly cautious about expertise. It presents the discussion a
 
 [[vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v]] returns the show to the "金融行业是如何运作的" sequence by asking whether public funds are still worth buying. [[DavidWeng|大卫翁]] connects [[PublicMutualFundEcosystem|public mutual fund ecosystem]] design to [[FundDistributionIncentives]], [[FundRedemptionLiquidityPressure]], [[FundInvestorReturnGap]], [[ContractualFundGovernanceGap]], [[InvestmentCompanyInstitute|ICI]], [[401KPlan|401(k) plans]], and [[CharlesSchwab]], making the fund question an incentive and institution problem rather than only a fund-manager ranking.
 
+[[vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]] adds the show's annual-report macro branch. [[DavidWeng|大卫翁]] reads hundreds of 2024 company reports to connect [[AnnualReportMacroReading]], [[ChinaLocalDebtResolution]], [[RealEstateInvestmentTrust]], [[CompressedCorporateEvolution]], [[ThreeLayerScaleEconomies]], [[GlobalResourceAllocationCompany]], [[TechnologyInnovationAsScaleEconomy]], and [[ChineseCorporateGladiatorCompetition]] into a double-edged picture of weak demand and fast but costly corporate adaptation.
+
 ## Connections
 - [[DonaldTrump]], [[Project2025]], and [[TrumpismInstitutionalization]] — main subject of the ingested episode.
 - [[AdministrativeStateDismantling]], [[MeritBasedImmigrationFilter]], and [[TradeReciprocityProtectionism]] — policy themes developed by the source.
@@ -91,3 +93,4 @@ The episode is explicitly cautious about expertise. It presents the discussion a
 - [[HowardMarks]], [[MacroEventTrendDistinction]], [[OneToOneToOneAllocation]], [[ConvertibleBond]], and [[SleepWellPortfolioTest]] — vol.124's information-overload and first-quarter investment-review branch.
 - [[EastAsiaObservatory|东亚观察局]], [[FanYiru|樊一如]], [[JapaneseInflationHouseholdPressure]], [[JapaneseEquityRepricing]], [[JapaneseLaborShortageImmigrationTension]], [[JapaneseOvertourismTradeoff]], [[JapaneseIndustrialPolicyPathDependence]], and [[JapanComfortableStagnation]] — vol.125's Japan macro-society branch.
 - [[PublicMutualFundEcosystem]], [[FundDistributionIncentives]], [[FundRedemptionLiquidityPressure]], [[FundInvestorReturnGap]], and [[ContractualFundGovernanceGap]] — vol.126's public-fund industry branch.
+- [[AnnualReportMacroReading]], [[CompressedCorporateEvolution]], [[LowFactorCostAdvantage]], [[ThreeLayerScaleEconomies]], [[TechnologyInnovationAsScaleEconomy]], [[GlobalResourceAllocationCompany]], and [[ChineseCorporateGladiatorCompetition]] — vol.127's annual-report and corporate-evolution branch.

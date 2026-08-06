@@ -2,8 +2,8 @@
 title: "Pop Mart / 泡泡玛特"
 type: entity
 tags: [company, consumer, ip, collectibles]
-sources: [139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
-last_updated: 2026-07-10
+sources: [139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
+last_updated: 2026-08-06
 ---
 
 # Pop Mart / 泡泡玛特
@@ -16,10 +16,13 @@ The source's central Pop Mart tension is [[Labubu]] concentration. The hosts say
 
 [[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]] compares Pop Mart with [[Sanrio]] as an [[ImageFirstIP]] company. The episode argues that both companies rely more on character image and emotion than on Disney-style narrative universes, but their models differ: Sanrio is framed as licensing-led and open, while Pop Mart is framed as more self-operated, closed-system, inventory-bearing, and directly connected to consumer demand.
 
+[[vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]] adds Pop Mart as both a consumption-transfer and globalization case. The episode contrasts weak high-end retail with consumer spending that moves toward brands with emotional pull, then notes Pop Mart's new overseas stores and themed locations as a possible route toward a world-class cultural consumer brand.
+
 ## Connections
 - [[Labubu]] - blockbuster IP and concentration-risk case.
 - [[Sanrio]] and [[ImageFirstIP]] - episode 142 comparison around image-led character IP and business model.
 - [[GoodCompanyGoodStock]] - Pop Mart is the episode's main example of business quality diverging from stock attractiveness.
 - [[EarningsGrowthAcceleration]] and [[EarningsExpectationGap]] - why still-positive growth can disappoint investors.
 - [[ConsumerBrandMoat]] and [[BusinessMoat]] - brand/IP durability questions behind Pop Mart's long-term value.
+- [[SFHolding]], [[GlobalResourceAllocationCompany]], and [[ChineseCorporateGladiatorCompetition]] - vol.127's consumer-globalization and competition context.
 - [[ValueInvesting]] and [[InvestmentRiskManagement]] - valuation, horizon, and position-discipline context.

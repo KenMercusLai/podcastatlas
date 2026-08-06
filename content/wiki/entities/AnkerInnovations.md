@@ -2,8 +2,8 @@
 title: "Anker Innovations / 安克创新"
 type: entity
 tags: [company, consumer-electronics, ai-hardware, robotics]
-sources: [144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b]
-last_updated: 2026-07-08
+sources: [144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
+last_updated: 2026-08-06
 ---
 
 # Anker Innovations / 安克创新
@@ -11,6 +11,8 @@ last_updated: 2026-07-08
 Anker Innovations is the consumer-electronics company founded by [[YangMeng]] and [[ZhaoDongping]] in [[144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b]]. The episode traces Anker from Amazon-channel charging accessories and Shenzhen supply-chain proximity into a company trying to systematize multi-category product creation, deepen core technology, and reorganize around AI.
 
 The source's main Anker thesis is that consumer-electronics companies cannot depend on one immortal product. Anker's proposed answer is [[ThirdTypeCompany]]: repeatedly winning many mid-sized categories through shared technology, user overlap, brand trust, creator density, and a federation-like organization rather than betting everything on a single super-category.
+
+[[vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]] adds Anker to the tariff-war and global resource-allocation branch. The episode summarizes Anker's response as flexible supply-chain globalization, emerging-market expansion to reduce regional policy risk, and user-value focus to preserve brand pricing power.
 
 ## Source Position
 - Anker started by finding and improving products for overseas Amazon buyers, then moved closer to Shenzhen as product creation became more important than online selling alone.
@@ -20,6 +22,7 @@ The source's main Anker thesis is that consumer-electronics companies cannot dep
 - [[Anker2023Lab]] is the symbol of the deep-tech push, with [[InMemoryComputingForEdgeAI]] and edge-side voice isolation as early examples.
 - Anker's AI platform centralizes model access, local command-line use, web entry points, and internal token usage so employees do not scatter across unrelated AI tools.
 - The company is exploring [[HouseholdSecurityRobots]] and broader embodied intelligence, but the source positions nearer-term security response as more productized than immediate humanoid commercialization.
+- Vol.127 treats Anker as a [[GlobalResourceAllocationCompany]] case: globally exposed, but still relying on China-based product, brand, R&D, and supply-chain know-how.
 
 ## Connections
 - [[YangMeng]] and [[ZhaoDongping]] — founder/CEO and cofounder roles in the source.
@@ -28,3 +31,4 @@ The source's main Anker thesis is that consumer-electronics companies cannot dep
 - [[ThirdTypeCompany]], [[CreatorCulture]], and [[AIOrganizationDesign]] — organization design around multiple categories and AI.
 - [[Anker2023Lab]], [[InMemoryComputingForEdgeAI]], [[OnDeviceModelHierarchy]], and [[TrueSmartHome]] — technical direction.
 - [[AIPlusTerminals]], [[PhysicalAI]], [[EmbodiedAI]], and [[HomeServiceRobots]] — broader hardware/AI context.
+- [[GlobalResourceAllocationCompany]], [[TradeReciprocityProtectionism]], and [[TariffComplianceTest]] — tariff-war operating context added by vol.127.
