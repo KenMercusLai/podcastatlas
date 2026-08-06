@@ -12959,6 +12959,10 @@
     "title": "Gold As Currency Spare Tire / 黄金备胎",
     "url": "/wiki/concepts/goldascurrencysparetire/"
   },
+  "GoldInvestmentProducts": {
+    "title": "Gold Investment Products / 黄金投资产品",
+    "url": "/wiki/concepts/goldinvestmentproducts/"
+  },
   "GoldMonetaryAnchor": {
     "title": "Gold Monetary Anchor",
     "url": "/wiki/concepts/goldmonetaryanchor/"
@@ -12966,6 +12970,10 @@
   "GoldPlan": {
     "title": "Gold Plan",
     "url": "/wiki/concepts/goldplan/"
+  },
+  "GoldPortfolioProducts": {
+    "title": "Gold Portfolio Products / 黄金家组合产品",
+    "url": "/wiki/concepts/goldportfolioproducts/"
   },
   "GoldenCabinetPledge": {
     "title": "金匮之盟 / Golden Cabinet Pledge",
@@ -26983,6 +26991,10 @@
     "title": "Shanghai Foreign Banks",
     "url": "/wiki/concepts/shanghaiforeignbanks/"
   },
+  "ShanghaiGoldExchange": {
+    "title": "Shanghai Gold Exchange / 上海黄金交易所",
+    "url": "/wiki/entities/shanghaigoldexchange/"
+  },
   "ShanghaiMaglev": {
     "title": "Shanghai Maglev / 上海磁悬浮",
     "url": "/wiki/entities/shanghaimaglev/"
@@ -28606,6 +28618,10 @@
   "StrategicFocusUnderIncumbentPressure": {
     "title": "Strategic Focus Under Incumbent Pressure",
     "url": "/wiki/concepts/strategicfocusunderincumbentpressure/"
+  },
+  "StrategicGoldAllocation": {
+    "title": "Strategic Gold Allocation / 黄金战略底仓",
+    "url": "/wiki/concepts/strategicgoldallocation/"
   },
   "StrategicIndustrialPolicy": {
     "title": "Strategic Industrial Policy",
@@ -31511,6 +31527,10 @@
     "title": "Wang Laichun",
     "url": "/wiki/entities/wanglaichun/"
   },
+  "WangLixin": {
+    "title": "王立新 / Wang Lixin",
+    "url": "/wiki/entities/wanglixin/"
+  },
   "WangMang": {
     "title": "Wang Mang / 王莽",
     "url": "/wiki/entities/wangmang/"
@@ -32210,6 +32230,10 @@
   "WorldCupExpansion": {
     "title": "World Cup Expansion",
     "url": "/wiki/concepts/worldcupexpansion/"
+  },
+  "WorldGoldCouncil": {
+    "title": "World Gold Council / 世界黄金协会",
+    "url": "/wiki/entities/worldgoldcouncil/"
   },
   "WorldLibertyFinancial": {
     "title": "World Liberty Financial",
@@ -34170,6 +34194,10 @@
   "ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg": {
     "title": "EP238 2025年，你玩过怎样的“小众运动”？",
     "url": "/wiki/sources/ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg/"
+  },
+  "ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq": {
+    "title": "EP239 和大咖聊聊：金价又双叒叕飙了，普通人还能上车吗？",
+    "url": "/wiki/sources/ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq/"
   },
   "ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439": {
     "title": "EP24 房贷车贷消费贷，贷贷为奴，代代还",

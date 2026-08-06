@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP239 和大咖聊聊：金价又双叒叕飙了，普通人还能上车吗？](sources/ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq.md) — Talk三联 episode with 王立新 on gold after a sharp run-up, covering gold's non-credit asset role, China gold-market infrastructure, physical/ETF/product routes, strategic gold allocation, and 黄金家 portfolio products.
 - [EP238 2025年，你玩过怎样的“小众运动”？](sources/ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg.md) — Talk三联 episode on urban niche sports, covering padel, mermaid freediving, armored combat, leisure sailing, paddleboarding, archery, venue constraints, equipment thresholds, and small sports communities.
 - [EP236 唠五块钱心里话，付费的陪伴是真的吗？](sources/ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx.md) — Talk三联 episode with 魏茜 and 阮佳宁 on emotion economy, paid listening, therapy boundaries, platform incentives, plush and pet comfort, wellness relief, ritual hope, AI companionship, and emotion-regulation support networks.
 - [172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步](sources/172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2.md) — 起朱楼宴宾客 half-year 2026 macro review with 大卫翁 and Ricky on AI capex re-igniting global equities, U.S.-China AI macro asymmetry, China AI export leverage, employment-multiplier compression, Fed constraints, cash-first defense, A-share domestic substitution, and Hong Kong innovation drugs.
@@ -795,6 +796,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [王立新 / Wang Lixin](entities/WangLixin.md) — Gold-industry expert in EP239, using World Gold Council experience to frame gold as a strategic, liquid, non-credit asset rather than a short-term chase.
+- [World Gold Council / 世界黄金协会](entities/WorldGoldCouncil.md) — Gold-market organization providing the institutional context for 王立新's expert framing in EP239.
+- [Shanghai Gold Exchange / 上海黄金交易所](entities/ShanghaiGoldExchange.md) — 2002 Chinese gold-market infrastructure milestone used by EP239 to explain marketized domestic gold trading.
 - [薛鹏 / Xue Peng](entities/XuePeng.md) — Talk三联 speaker grounding EP238's armored-combat segment through armor, historical authenticity, team fighting, and commercialization limits.
 - [吴淑彬 / Wu Shubin](entities/WuShubin.md) — Talk三联 speaker in EP238 explaining mermaid freediving, paddleboarding, water-sport venues, courses, equipment, and urban water access.
 - [许路 / Xu Lu](entities/XuLu.md) — Sailing interview subject in EP238 connecting leisure sailing to Xiamen dock memory, wooden-boat restoration, Fujian fieldwork, and experimental archaeology.
@@ -5380,6 +5384,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Strategic Gold Allocation / 黄金战略底仓](concepts/StrategicGoldAllocation.md) — EP239 frame for treating gold as a persistent defensive portfolio sleeve with target sizing, staged entry, and rebalancing discipline.
+- [Gold Investment Products / 黄金投资产品](concepts/GoldInvestmentProducts.md) — EP239 product map separating jewelry, bars, coins, ETF-like exposure, and professional derivatives by liquidity, fees, and suitability.
+- [Gold Portfolio Products / 黄金家组合产品](concepts/GoldPortfolioProducts.md) — EP239 category for professionally managed multi-asset products that embed a strategic gold sleeve to address recognition, entry, and holding frictions.
 - [Urban Niche Sports / 城市小众运动](concepts/UrbanNicheSports.md) — EP238 frame for sports becoming visible through urban venues, indoorization, simplified formats, equipment, community, and lifestyle participation.
 - [Padel / 板式网球](concepts/Padel.md) — EP238 racket-sport case combining tennis, squash, glass-wall rebounds, doubles cooperation, beginner friendliness, and emerging professional opportunity.
 - [Mermaid Freediving / 美人鱼潜水](concepts/MermaidFreediving.md) — Freediving branch in EP238 where sport, underwater performance, certificates, fish-tail equipment, photography, and pool sets merge.

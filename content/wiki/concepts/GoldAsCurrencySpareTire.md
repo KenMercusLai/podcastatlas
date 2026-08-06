@@ -2,11 +2,13 @@
 title: "Gold As Currency Spare Tire / 黄金备胎"
 type: concept
 tags: [gold, money, macro, investing]
-sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+sources: [ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-07
 ---
 
 # Gold As Currency Spare Tire / 黄金备胎
+
+[[ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq]] adds the professional ordinary-investor version. [[WangLixin|王立新]] frames gold as an independent non-credit asset whose appeal rises when credit-system trust weakens, but he turns that macro thesis into [[StrategicGoldAllocation]] and [[GoldPortfolioProducts]] rather than a license to buy heavily after a fast rally.
 
 [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds the post-volatility risk-sleeve version. [[Ricky]] treats gold less as the first-half macro winner and more as a risk-allocation sleeve after a sharp drawdown, while [[DavidWeng|大卫翁]] puts cash ahead of gold in his second-half ordering.
 
@@ -42,6 +44,7 @@ The source is explicit that this is not a permanent faith claim. Gold has no cas
 - Episode 155 adds that a crowded gold rally can turn the spare-tire asset into a flow-sensitive volatility asset in the short term.
 - Episode 157 adds that preserving gold gains can include changing the form of exposure, not only lowering the portfolio percentage.
 - Episode 171 adds that keeping a strategic gold allocation can coexist with refusing to average up or refill after a volatility-driven loss.
+- EP239 adds that the spare-tire thesis should be translated into channel choice, target percentage, and long-term holding discipline before an ordinary investor buys a product.
 
 ## Connections
 - [[GoldMonetaryAnchor]] - broader gold-as-monetary-trust frame.
@@ -55,3 +58,4 @@ The source is explicit that this is not a permanent faith claim. Gold has no cas
 - [[OneToOneToOneAllocation]], [[SleepWellPortfolioTest]], and [[InvestmentRiskManagement]] - episode 135's gold-as-shock-absorber sizing context.
 - [[Tether]] and [[BitcoinSafeHavenBehavior]] - episode 155's crypto-capital and digital-gold comparison.
 - [[LateBullMarketLossRisk]], [[PositionSizing]], and [[InvestmentRiskManagement]] - episode 171's no-add and target-weight follow-up.
+- [[StrategicGoldAllocation]], [[GoldInvestmentProducts]], and [[GoldPortfolioProducts]] - EP239's ordinary-investor implementation branch.

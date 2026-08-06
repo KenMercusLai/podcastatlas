@@ -2,11 +2,13 @@
 title: "Gold Monetary Anchor"
 type: concept
 tags: [macro, gold, monetary-system, investing]
-sources: [155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
-last_updated: 2026-08-06
+sources: [ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq, 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+last_updated: 2026-08-07
 ---
 
 # Gold Monetary Anchor
+
+[[ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq]] adds the [[WorldGoldCouncil|世界黄金协会]] practitioner version. [[WangLixin|王立新]] emphasizes gold's independence from any issuing government, company, or person, then ties investability to market infrastructure such as the [[ShanghaiGoldExchange|上海黄金交易所]] and to ordinary-investor product choices.
 
 [[155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi]] adds the volatility and time-horizon version. [[DavidWeng|大卫翁]] argues that gold's medium- and ultra-long support comes from distrust of U.S. policy credibility, central-bank reserve diversification, and a looser dollar/Treasury anchor, but the same source says gold's short-term price path can be dominated by [[LiquidityDrivenVolatilityCascade|liquidity-driven cascades]]. This makes [[CommodityTimeHorizonFramework]] part of the gold-anchor page: the monetary thesis and the next trading window are not the same question.
 
@@ -45,6 +47,7 @@ The source also connects gold to [[RiskParity]] and multi-asset strategy. If a s
 - Episode 129 adds that gold's traditional real-rate or commodity-ratio models can lose explanatory power when the pricing currency itself is being questioned.
 - Episode 129 treats gold as a temporary backup anchor during [[CurrencyAnchorTransition]], not as a permanent belief system.
 - Episode 155 adds that gold can be a valid monetary-anchor hedge and still be temporarily overextended when ETF flows, momentum, leverage, and model selling dominate short-term pricing.
+- EP239 adds that the monetary-anchor argument needs market infrastructure and product discipline before it becomes ordinary-investor exposure.
 
 ## Connections
 - [[CommodityTimeHorizonFramework]], [[LiquidityDrivenVolatilityCascade]], [[Tether]], and [[KevinWarsh]] — episode 155's gold-volatility, crypto-capital, and Fed-succession extension.
@@ -61,3 +64,4 @@ The source also connects gold to [[RiskParity]] and multi-asset strategy. If a s
 - [[AssetAllocation]], [[InvestmentRiskManagement]], [[CommodityPriceExposure]], and [[FactFutureAssetPricing]] — vol.115 cross-asset allocation extension.
 - [[OneToOneToOneAllocation]], [[RetirementCashFlowSecurity]], [[InvestmentLiquidityTradeoff]], and [[SleepWellPortfolioTest]] — vol.124 hedge-sleeve and portfolio-comfort extension.
 - [[GoldAsCurrencySpareTire]], [[MoneyAsFlow]], [[CurrencyAnchorTransition]], [[USTreasury]], and [[MoneyIllusion]] — episode 129's unanchored-world and wealth-measurement extension.
+- [[WorldGoldCouncil]], [[ShanghaiGoldExchange]], [[StrategicGoldAllocation]], and [[GoldInvestmentProducts]] — EP239's practitioner and product-infrastructure branch.

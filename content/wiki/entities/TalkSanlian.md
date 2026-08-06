@@ -2,11 +2,13 @@
 title: "Talk三联"
 type: entity
 tags: [podcast, media, technology, finance, culture, sports, lifestyle, china]
-sources: [ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
+sources: [ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
 last_updated: 2026-08-07
 ---
 
 # Talk三联
+
+[[ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq]] adds the show's expert-led gold allocation branch. With [[WangLixin|王立新]] of the [[WorldGoldCouncil|世界黄金协会]], Talk三联 turns a price-run-up question into a map of [[StrategicGoldAllocation]], [[GoldInvestmentProducts]], [[GoldPortfolioProducts]], and ordinary-investor suitability.
 
 [[ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg]] adds the show's lifestyle-sports reporting branch. With [[Heimai|黑麦]], [[SunRuoxi|孙若曦]], [[XuePeng|薛鹏]], and [[WuShubin|吴淑彬]], the show treats [[UrbanNicheSports|城市小众运动]] as an urban culture question spanning [[Padel|板式网球]], [[MermaidFreediving|美人鱼潜水]], [[ArmoredCombat|盔甲格斗]], [[LeisureSailing|休闲帆船]], [[StandUpPaddleboarding|桨板]], and [[ArcheryFlow|射箭专注体验]].
 
@@ -30,3 +32,4 @@ The episode positions industrial reporting as a translation layer. Instead of tr
 - [[WeiQianSanlian]], [[RuanJianing]], [[EmotionEconomy]], [[PaidListeningServices]], [[ListeningTherapyBoundary]], and [[EmotionRegulationToolkit]] — emotion-economy branch added by EP236.
 - [[Heimai]], [[SunRuoxi]], [[XuePeng]], [[WuShubin]], [[UrbanNicheSports]], [[Padel]], [[MermaidFreediving]], [[ArmoredCombat]], [[LeisureSailing]], [[StandUpPaddleboarding]], and [[ArcheryFlow]] — lifestyle-sports branch added by EP238.
 - [[PodcastAsAsynchronousMedia]] — broader media form.
+- [[WangLixin]], [[WorldGoldCouncil]], [[ShanghaiGoldExchange]], [[StrategicGoldAllocation]], [[GoldInvestmentProducts]], and [[GoldPortfolioProducts]] — expert gold-allocation branch added by EP239.

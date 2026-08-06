@@ -6306,6 +6306,10 @@ Added source page for a 起朱楼宴宾客 algorithm-series crossover with 独�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-07] ingest | EP239 和大咖聊聊：金价又双叒叕飙了，普通人还能上车吗？
+
+Added source page for a Talk三联 episode with 王立新 on gold after a sharp price run-up, covering gold's non-credit asset role, China gold-market infrastructure, physical bars/coins, jewelry, ETF-like exposure, professional derivatives, strategic gold allocation, and 黄金家 portfolio products. Created pages for 王立新 / Wang Lixin, World Gold Council / 世界黄金协会, Shanghai Gold Exchange / 上海黄金交易所, Strategic Gold Allocation, Gold Investment Products, and Gold Portfolio Products; updated overview, index, Talk三联, Ray Dalio, Gold Monetary Anchor, Gold As Currency Spare Tire, Asset Allocation, Portfolio Suitability, Target Weight Discipline, Fund Investment Advisory, Investment Behavior Coaching, and Household Gold Savings. No direct contradiction found; the source complements prior gold pages by translating monetary-trust and household-gold narratives into product form, channel diligence, target sizing, and holding-discipline requirements.
+
 ## [2026-08-07] ingest | 170.《1929》的泡沫之夏：三个代表人物，和他们在当下周期的影子
 
 Added source page for a 起朱楼宴宾客 episode by 大卫翁 on Andrew Ross Sorkin's 《1929》 as a behavioral-finance and market-psychology reading of the 1929 crash. Created pages for Andrew Ross Sorkin, Sorkin's 《1929》, Richard Whitney, William Durant, Charles E. Mitchell, Masayoshi Son, Jia Yueting, New York Stock Exchange, National City Bank, Athene Holding, Bubble Role Analogy, Financial Institution Trust Transmission, and Glass-Steagall Act; updated overview, index, 起朱楼宴宾客, 大卫翁, SoftBank, OpenAI, Sam Altman, Apollo, Blackstone, Stargate, Oracle, LeEco, Kevin Warsh, Donald Trump, and related bubble, leverage, suitability, private-credit, and AI-infrastructure concepts. No direct contradiction found; the source preserves contemporary mappings as source-scoped analogies rather than accusations.
@@ -6357,6 +6361,10 @@ Ran health before lint; health scanned 8,933 wiki pages and found no empty/stub 
 ## [2026-08-07] ingest | EP238 2025年，你玩过怎样的“小众运动”？
 
 Added source page for a Talk三联 episode with 黑麦, 孙若曦, 薛鹏, and 吴淑彬 on urban niche sports, covering padel, mermaid freediving, armored combat, leisure sailing, paddleboarding, archery, venue access, equipment thresholds, sport simplification, city water/indoor infrastructure, and pre-commercial sports communities. Created pages for 薛鹏 / Xue Peng, 吴淑彬 / Wu Shubin, 许路 / Xu Lu, 张伯后 / Jerry, Urban Niche Sports, Padel, Mermaid Freediving, Armored Combat, Leisure Sailing, Stand-Up Paddleboarding, Archery Flow, and Pre-Commercial Sports Community; updated overview, index, Talk三联, 三联生活周刊, 黑麦, 孙若曦, UFC, and Sports Lifestyle Consumption. No direct contradiction found; the source extends sports lifestyle consumption from apparel and event demand into participation-based urban leisure.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 
