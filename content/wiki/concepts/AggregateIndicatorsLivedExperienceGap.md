@@ -2,11 +2,13 @@
 title: "Aggregate Indicators Lived Experience Gap"
 type: concept
 tags: [economics, measurement, households, trust]
-sources: [indicators-of-2025-and-what-to-watch-in-2026, would-you-trust-an-economist-with-your-economy, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+sources: [139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, indicators-of-2025-and-what-to-watch-in-2026, would-you-trust-an-economist-with-your-economy, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
 # Aggregate Indicators Lived Experience Gap
+
+[[139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]] adds a geopolitical version through [[MacroNarrativeMicroLifeGap]]. The source shows that national war narratives, energy-market explanations, and EU-level trade claims can be accurate or consequential while still missing the lived reality of Ukrainian workers, mixed Russian-Ukrainian families, visa holders, and renters in local European cities.
 
 Aggregate indicators lived experience gap is the mismatch between broad economic statistics and what households, workers, or specific sectors feel. [[would-you-trust-an-economist-with-your-economy]] grounds the concept through [[DianeKPMGChiefEconomist]], who says distrust made her more careful with GDP, unemployment, and inflation readings.
 
@@ -26,6 +28,7 @@ The episode's example is post-pandemic price pain. Even when inflation rates slo
 - Episode 133 adds that aggregate indicators can also hide industrial upgrading or substitution, not only household pain.
 
 ## Connections
+- [[MacroNarrativeMicroLifeGap]], [[Ukraine]], [[Russia]], and [[EurozoneInternalImbalance]] - geopolitical and European integration extension added by episode 139.
 - [[DianeKPMGChiefEconomist]] - source case.
 - [[OfficialStatisticsCredibility]] - official numbers and public belief branch.
 - [[EconomicForecastingLimits]] - adjacent humility problem.

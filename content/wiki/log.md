@@ -5697,6 +5697,10 @@ Added source page for a 蜜獾吃书 episode on 蒲松龄《聊斋志异》 as s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-06] ingest | 139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？
+
+Added source page for a 起朱楼宴宾客 episode with 费 on Stefan Zweig's 《昨日的世界》, Belle Epoque nostalgia, European integration, classed cosmopolitan mobility, passport and language friction, digital-nomad housing pressure, eurozone imbalance, Ukraine-war micro-life, and NATO-shaped EU bargaining. Created pages for Fei, Stefan Zweig, The World of Yesterday, Romain Rolland, Austria, Vienna, Schengen Area, Erasmus Programme, Airbus, Belle Epoque, Elite Cosmopolitan Mobility, European Integration As War Prevention, Passport Mobility Inequality, European Language Friction, European Identity Class Gradient, Digital Nomad Housing Pressure, Eurozone Internal Imbalance, and Macro Narrative Micro-Life Gap; updated overview, index, 起朱楼宴宾客, 大卫翁, European Union, United Kingdom, Ukraine, Russia, European Defense Autonomy, NATO Alliance Credibility, Appeasement Logic, Digital Nomad Community Building, Aggregate Indicators Lived Experience Gap, Macro Narrative Anxiety, and Brazil. No direct contradiction found; the source qualifies Europe-as-integration optimism by showing that cosmopolitan freedom is unevenly distributed by class, passport, language, industry, and security dependence.
+
 ## [2026-08-06] ingest | 137.亲历日本生育补贴：国家帮我养娃，归来仍是“吞金兽”
 
 Added source page for a 起朱楼宴宾客 episode with 霓虹电波 guests 美嘉 and 摩方 on Japan's child allowance, childbirth cost support, parental leave, childcare and preschool services, child medical cost coverage, local welfare differences, education-cost pressure, and fertility-subsidy limits. Created pages for 霓虹电波, 美嘉, 摩方, Japanese Fertility Support System, Japanese Child Allowance, Japanese Childbirth Cost Support, Japanese Parental Leave Income Support, Japanese Childcare And Preschool System, Japanese Child Medical Cost Coverage, East Asian Education Cost Pressure, and Fertility Subsidy Limits; updated overview, index, 起朱楼宴宾客, Japan, China, Japanese Healthcare System, Japanese Universal Health Coverage, High-Cost Medical Expense Benefit, Japan Comfortable Stagnation, Family Labor Boundaries, Education Signal Inflation, and Helicopter Parenting. No direct contradiction found; the source extends the Japan healthcare and comfortable-stagnation branches by showing that broad public support can lower family risk while education expectations, marriage decline, time scarcity, local capacity, and financing disputes still limit fertility-policy effectiveness.
@@ -6061,6 +6065,10 @@ Ran health before lint; health scanned 8,560 wiki pages and found no empty/stub 
 ## [2026-08-06] ingest | 136.银行理财还能怎么买？
 
 Added source page for a 起朱楼宴宾客 episode by 大卫翁 on Chinese bank wealth management, bank wealth-management subsidiaries, 资管新规, fund-pool maturity mismatch, implicit guarantees, net-value transformation, and the current buying boundary for cash-management and low-volatility fixed-income products. Created pages for Chinese Bank Wealth Management, Bank Wealth-Management Subsidiary, Asset Management New Rules, Wealth-Management Fund Pool Risk, Bank Wealth Product Suitability, China Banking and Insurance Regulatory Commission, China Construction Bank, China Everbright Bank, Shanghai Pudong Development Bank, and Ping An Bank; updated overview, index, 起朱楼宴宾客, 大卫翁, China Merchants Bank, Bank of China, Portfolio Suitability, Public Mutual Fund Ecosystem, Financial Platform Incentives, Investment Liquidity Tradeoff, and Investment Risk Management. No direct contradiction found; the source reinforces the investment impossible triangle and extends the wiki's fund/product suitability branch by showing why old smooth bank wealth returns depended on hidden credit, liquidity, accounting, and guarantee mechanisms.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

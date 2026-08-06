@@ -2,11 +2,13 @@
 title: "Ukraine"
 type: entity
 tags: [country, geopolitics, security, history]
-sources: [a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, 05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]
-last_updated: 2026-08-05
+sources: [139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, 05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]
+last_updated: 2026-08-06
 ---
 
 # Ukraine
+
+[[139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]] adds a micro-life layer to the Ukraine war. [[FeiQizhulou|费]] describes a young Ukrainian cleaner in the [[UnitedKingdom]] who still returns to see family, and a Russian-Ukrainian marriage whose family logistics move through a third country. The source uses these examples to build [[MacroNarrativeMicroLifeGap]] without denying the war's geopolitical reality.
 
 [[a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55]] adds Ukraine through [[LindseyGraham]]'s foreign-policy role. The episode says Graham had recently visited Kyiv, supported [[VolodymyrZelensky]], backed continued American support, and pushed stronger sanctions against [[Russia]]. It treats his death as a possible loss of an especially effective Republican advocate for Ukraine.
 
@@ -25,6 +27,7 @@ The source's Ukraine thread is operational rather than only diplomatic. [[AntonL
 [[05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]] adds a historical and family-memory layer through [[Mariupol]] and [[SheCameFromMariupol|《她来自马里乌波尔》]]. The episode uses the city's 2022 news visibility as a doorway into [[NataschaWodin|纳塔莎·沃丁]]'s reconstruction of her Ukrainian family, connecting Ukraine to Soviet repression, famine, [[OstarbeiterForcedLabor|Eastern forced labor]], postwar displacement, and [[DisasterSilenceAndShame]].
 
 ## Connections
+- [[MacroNarrativeMicroLifeGap]], [[FeiQizhulou|费]], and [[UnitedKingdom]] - lived-war examples added by episode 139.
 - [[Shahed136]], [[LowCostDroneWarfare]], [[DroneDecoyEconomics]], [[DroneDefenseEconomics]], and [[Russia]] - drone and decoy pressure branch added by Marketplace Tech.
 - [[NATO]] and [[NATOAllianceCredibility]] - alliance support and deterrence context.
 - [[Russia]] and [[RussianHybridPressure]] - adversary and grey-zone pressure context.

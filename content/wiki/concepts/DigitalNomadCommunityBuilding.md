@@ -2,11 +2,13 @@
 title: "Digital Nomad Community Building"
 type: concept
 tags: [community, work, lifestyle, creator-economy]
-sources: [ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2]
-last_updated: 2026-07-07
+sources: [139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2]
+last_updated: 2026-08-06
 ---
 
 # Digital Nomad Community Building
+
+[[139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]] adds the European pressure version through [[DigitalNomadHousingPressure]]. The source contrasts the freedom of mobile remote workers with residents' experience in southern European cities where higher-income newcomers can raise rents, change neighborhoods, and remain culturally separate.
 
 Digital nomad community building is the attempt to turn remote-work and travel scenes into recurring relationships, events, business infrastructure, and local "strongholds." In [[ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2]], [[XiaoSun]] describes moving through Dali, Chiang Mai, Chengdu, and future gatherings while planning live streams, weekly events, a digital-nomad marketplace, and a platform-like project.
 
@@ -21,6 +23,7 @@ The concept matters because it distinguishes lifestyle movement from community/p
 
 ## Connections
 
+- [[DigitalNomadHousingPressure]], [[EliteCosmopolitanMobility]], and [[EurozoneInternalImbalance]] - European housing-pressure qualification added by episode 139.
 - [[XiaoSun]] — source case.
 - [[SelfDirectedWork]] — autonomy motive behind the community direction.
 - [[FinancialFreedomVsLifestyleFreedom]] and [[LifestyleSubsidyCreatorWork]] — adjacent lifestyle-economics concepts.

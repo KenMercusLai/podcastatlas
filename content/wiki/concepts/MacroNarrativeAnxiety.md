@@ -2,11 +2,13 @@
 title: "Macro Narrative Anxiety"
 type: concept
 tags: [anxiety, economy, attention, life-design, agency]
-sources: [135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
+sources: [139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
 last_updated: 2026-08-06
 ---
 
 # Macro Narrative Anxiety
+
+[[139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]] adds a European witness version through [[MacroNarrativeMicroLifeGap]]. The source does not recommend ignoring war, tariffs, or political fragmentation; it argues that people need a way to hold those macro narratives alongside specific evidence from relationships, travel, work, local housing, and cultural life.
 
 Macro narrative anxiety is the fear state discussed near the end of [[sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]], where economic conditions, employment discourse, and big trend stories make individual life feel doomed in advance. [[QianJing|钱静]] does not deny the environment can be worse than before, but separates broad conditions from the smaller range where a person can still act.
 
@@ -31,6 +33,7 @@ The episode's answer is not forced optimism. It recommends returning to specific
 - Episode 135 adds that macro news can be life-relevant but still psychologically and financially unusable as a daily trading feed.
 
 ## Connections
+- [[MacroNarrativeMicroLifeGap]], [[TheWorldOfYesterday]], and [[StefanZweig]] - European witness and literary-memory extension added by episode 139.
 - [[ActionAgainstAnxiety]] - practical response to macro-scale fear.
 - [[InformationGapAnxiety]] and [[InternetRiskAvoidanceTrap]] - media patterns that can intensify trend-driven helplessness.
 - [[LifeAntifragility]] - designing life for survivability and upside under uncertainty.

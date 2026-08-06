@@ -2,11 +2,13 @@
 title: "European Union"
 type: entity
 tags: [institution, europe, politics]
-sources: [tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
-last_updated: 2026-08-05
+sources: [139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
+last_updated: 2026-08-06
 ---
 
 # European Union
+
+[[139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]] adds the EU as a lived integration and fragmentation case. The source uses [[SchengenArea|Schengen]] mobility, [[ErasmusProgramme|Erasmus]], [[Airbus]], language difference, southern European housing pressure, tariff bargaining with the United States, and [[NATO]] security reliance to ask whether Europe is still moving toward common life or drifting back toward division.
 
 The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]] as part of the hosts' discussion of European political coordination, language communities, market fragmentation, and AI competitiveness.
 
@@ -36,6 +38,7 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 - The Fear-jerker source treats Europe as an uneven but improving energy system where cooling access can become a health adaptation rather than only a moralized consumption choice.
 
 ## Connections
+- [[SchengenArea]], [[ErasmusProgramme]], [[Airbus]], [[EuropeanIntegrationWarPrevention]], [[EuropeanIdentityClassGradient]], [[EuropeanLanguageFriction]], [[DigitalNomadHousingPressure]], and [[EurozoneInternalImbalance]] - integration and fragmentation branch added by episode 139.
 - [[AITranslation]] - possible reducer of language friction across European markets.
 - [[EuropeanAIIndustrialConstraints]] - broader concept built from the source's Europe discussion.
 - [[SAP]] and [[AlephAlpha]] - German software and AI examples in the same episode.

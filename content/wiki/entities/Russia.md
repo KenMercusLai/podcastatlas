@@ -2,11 +2,13 @@
 title: "Russia"
 type: entity
 tags: [country, geopolitics, security, space, crypto]
-sources: [81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209, how-to-get-what-greenland-has-with-permission, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
+sources: [139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, 81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209, how-to-get-what-greenland-has-with-permission, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
 last_updated: 2026-08-06
 ---
 
 # Russia
+
+[[139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]] adds Russia as the limiting case for economic interdependence and European integration optimism. The source argues that Europe's earlier energy dependence on Russia did not stop the Russia-Ukraine war, and that postwar economic decoupling shows how quickly trade ties can become politically severed under security pressure.
 
 [[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]] adds a post-Soviet retaliation note through [[OlegGordievsky|Oleg Gordievsky]]'s life after [[OperationPimlico]]. The [[MihuanChishu|蜜獾吃书]] episode says he continues living under protection in the [[UnitedKingdom]] and uses later attacks on former Russian intelligence defectors as evidence that escape from the [[KGB]] did not end the threat.
 
@@ -31,6 +33,7 @@ The source frames Russia's pressure as intentionally ambiguous. Drone incursions
 [[how-to-get-what-greenland-has-with-permission]] adds Russia as part of [[GreenlandStrategicAccess]]. The episode says [[Greenland]] sits between the [[UnitedStates]], Russia, and [[China]], and that the shortest hypothetical missile paths toward the U.S. would pass over Greenland.
 
 ## Connections
+- [[EuropeanIntegrationWarPrevention]], [[Ukraine]], and [[MacroNarrativeMicroLifeGap]] - energy, war, and lived-relationship qualifications added by episode 139.
 - [[RussianEmpire]], [[PeterTheGreat]], [[VitusBering]], [[FirstKamchatkaExpedition]], [[GreatNorthernExpedition]], [[Kamchatka]], [[Okhotsk]], [[Alaska]], [[RussianNorthPacificExpansion]], and [[ExplorationToExtractionPipeline]] - eighteenth-century imperial exploration and North Pacific expansion branch added by 蜜獾吃书.
 - [[Shahed136]], [[LowCostDroneWarfare]], [[DroneDecoyEconomics]], [[DroneDefenseEconomics]], and [[CounterDroneLayeredDefense]] - drone and decoy branch added by Marketplace Tech.
 - [[RussianHybridPressure]] - main threat pattern.

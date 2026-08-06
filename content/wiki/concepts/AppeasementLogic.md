@@ -2,11 +2,13 @@
 title: "Appeasement Logic / 绥靖逻辑"
 type: concept
 tags: [politics, war, ethics, authoritarianism]
-sources: [133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110]
-last_updated: 2026-07-24
+sources: [139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110]
+last_updated: 2026-08-06
 ---
 
 # Appeasement Logic / 绥靖逻辑
+
+[[139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]] adds a source-scoped "semi-appeasement" comparison for the [[EuropeanUnion]]'s tariff posture toward the United States. The episode invokes the Chamberlain analogy rhetorically, but the case is different from fascist expansion: here the point is that security dependence through [[NATO]] can weaken economic bargaining even when Europe has major market scale.
 
 Appeasement logic / 绥靖逻辑 is the episode's warning against describing surrender to aggression as prudence, realism, peace, or a bargain that sacrifices only someone else. In [[133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110]], the hosts connect [[ThomasJWatson|Thomas J. Watson]]'s trade-and-peace rhetoric with broader prewar examples of tolerating fascist and militarist expansion.
 
@@ -20,6 +22,7 @@ The source's argument is not that every compromise is immoral. It targets compro
 - The practical danger is recurrence: a successful aggressor learns that threats produce concessions.
 
 ## Connections
+- [[EuropeanUnion]], [[NATO]], [[EuropeanDefenseAutonomy]], and [[NATOAllianceCredibility]] - tariff-and-security analogy added by episode 139.
 - [[NaziGermany|Nazi Germany / 纳粹德国]], [[TheHolocaust|犹太人大屠杀]], and [[CorporateComplicityWithAuthoritarianism]] - source setting and business case.
 - [[ThomasJWatson|Thomas J. Watson / 托马斯·沃森]] and [[IBM]] - trade-and-peace rhetoric in the episode.
 - [[MachiavellianRealism]] and [[GoodIntentionsPoliticalLimits]] - existing political-realism concepts the source qualifies.
