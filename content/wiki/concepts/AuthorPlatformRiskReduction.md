@@ -2,8 +2,8 @@
 title: "Author Platform Risk Reduction"
 type: concept
 tags: [publishing, books, audience, media]
-sources: [how-to-make-a-book-into-a-bestseller, inside-a-book-auction, bookstore-economics]
-last_updated: 2026-07-24
+sources: [158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29, how-to-make-a-book-into-a-bestseller, inside-a-book-auction, bookstore-economics]
+last_updated: 2026-08-06
 ---
 
 # Author Platform Risk Reduction
@@ -16,6 +16,8 @@ The episode's evidence is practical rather than abstract. The proposal cited pri
 
 [[how-to-make-a-book-into-a-bestseller]] extends the platform logic into launch-week conversion. The [[PlanetMoneyBook]] benefited from NPR's podcast audience, media network, pre-order campaign, and live-event sales, but the poster-fulfillment issue shows that platform can concentrate attention on operational mistakes as well as sales.
 
+[[158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29]] adds a Chinese long-form podcast version. [[DavidWeng|大卫翁]]'s multi-year [[QizhulouYanBinke|起朱楼宴宾客]] asset-allocation series made [[AssetAllocationActionGuide|《资产配置行动指南》]] legible as a book project, but the source stresses that audience trust had to be converted through rewriting, editorial selection, and [[PodcastToBookSystematization]].
+
 ## Key Claims
 - Platform does not guarantee a book will sell, but it gives publishers measurable demand clues.
 - Prior audience behavior can matter more than general brand awareness.
@@ -24,8 +26,10 @@ The episode's evidence is practical rather than abstract. The proposal cited pri
 - Platform can influence not only publisher acquisition but also [[BookstoreBuying]], display quantity, and [[RetailShelfPlacement]].
 - Platform becomes more valuable when it can be timed through [[PreOrderLaunchConcentration]] for a ranking window.
 - Platform does not eliminate execution risk; a launch incentive can become a visible trust problem if buyers do not understand how to redeem it.
+- Episode 158 adds that platform can supply topic proof and trust, but it does not remove the need to redesign the work for the book medium.
 
 ## Connections
+- [[AssetAllocationActionGuide|《资产配置行动指南》]], [[QizhulouYanBinke|起朱楼宴宾客]], [[DavidWeng|大卫翁]], and [[PodcastToBookSystematization]] - Chinese podcast-to-book extension.
 - [[PlanetMoney]], [[NPR]], [[AlexGoldmark]], [[FisherNash]], [[RachelSalzman]], and [[PlanetMoneyBook]] - source case.
 - [[BookProposalAsSalesDocument]], [[PublishingPortfolioRisk]], [[AdvanceAgainstRoyalties]], [[BookstoreBuying]], [[RetailShelfPlacement]], and [[BookPublishingEconomics]] - adjacent acquisition and retail mechanics.
 - [[PreOrderLaunchConcentration]], [[BestsellerStatusFeedbackLoop]], and [[ProductLaunchUnderConstraint]] - launch-window mechanics added by the bestseller-list source.

@@ -499,6 +499,10 @@
     "title": "157.如何带走牛市的胜利果实？",
     "url": "/wiki/sources/157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2/"
   },
+  "158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29": {
+    "title": "158. 播客里聊了四年的资产配置，我把它做成了一本《行动指南》",
+    "url": "/wiki/sources/158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29/"
+  },
   "158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122": {
     "title": "158.全员名侦探：推理薯片来一包！",
     "url": "/wiki/sources/158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122/"
@@ -3539,6 +3543,10 @@
     "title": "Asset Allocation",
     "url": "/wiki/concepts/assetallocation/"
   },
+  "AssetAllocationActionGuide": {
+    "title": "《资产配置行动指南》 / Asset Allocation Action Guide",
+    "url": "/wiki/entities/assetallocationactionguide/"
+  },
   "AssetBasedFinance": {
     "title": "Asset-Based Finance / ABF",
     "url": "/wiki/concepts/assetbasedfinance/"
@@ -5222,6 +5230,10 @@
   "CIA": {
     "title": "CIA / Central Intelligence Agency / 中情局",
     "url": "/wiki/entities/cia/"
+  },
+  "CITICPress": {
+    "title": "中信出版社 / CITIC Press",
+    "url": "/wiki/entities/citicpress/"
   },
   "CJFinn": {
     "title": "CJ Finn",
@@ -23122,6 +23134,10 @@
   "PodcastReleaseCadence": {
     "title": "Podcast Release Cadence",
     "url": "/wiki/concepts/podcastreleasecadence/"
+  },
+  "PodcastToBookSystematization": {
+    "title": "Podcast To Book Systematization",
+    "url": "/wiki/concepts/podcasttobooksystematization/"
   },
   "Podwise": {
     "title": "Podwise",

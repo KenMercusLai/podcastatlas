@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-06] ingest | 158. 播客里聊了四年的资产配置，我把它做成了一本《行动指南》
+
+Added source page for a 起朱楼宴宾客 episode by 大卫翁 on how the "迈出资产配置第一步" podcast series became 《资产配置行动指南》. Created pages for 《资产配置行动指南》, 中信出版社, and Podcast To Book Systematization; updated overview, index, 起朱楼宴宾客, 大卫翁, Asset Allocation, Investment Worldview Fit, Portfolio Suitability, Investment For Better Life, Book Publishing Economics, Author Platform Risk Reduction, Podcast-Enabled Career Path, Podcast As Asynchronous Media, and Book Creator Work. No direct contradiction found; the source extends the existing asset-allocation branch by turning worldview fit and ordinary household life goals into a book-shaped action guide rather than a transcript or single-asset recommendation.
+
 ## [2026-08-06] ingest | 157.如何带走牛市的胜利果实？
 
 Added source page for a 起朱楼宴宾客 episode by 大卫翁 on preserving bull-market gains after a profitable 2025 and positive early 2026. Created pages for Bull Market Profit Preservation, Bull Market Bezzle Trap, Gain Conversion Asset Form, John Kenneth Galbraith, The Great Crash 1929, and LeEco; updated overview and index plus related investing, gold, bubble, and show pages. No direct contradiction found; the source extends the wiki's investing branch by shifting from opportunity discovery and pullback diagnosis to exit design, anti-bezzle narrative discipline, gain conversion, and permanent-capital accumulation.
@@ -6217,3 +6221,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran health before lint; health scanned 8,805 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,805 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 8,805 pages, so graph findings are advisory until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because no provider-qualified `LLM_MODEL` or API key is configured in the shell environment. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran health before lint; health scanned 8,809 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,809 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 8,809 pages, so graph findings are advisory until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. No `wiki/lint-report.md` file was saved.

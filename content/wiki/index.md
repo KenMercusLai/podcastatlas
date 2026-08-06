@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [158. 播客里聊了四年的资产配置，我把它做成了一本《行动指南》](sources/158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29.md) — 起朱楼宴宾客 episode on how 大卫翁 turned the "迈出资产配置第一步" podcast series into 《资产配置行动指南》, framing asset allocation as worldview-fit action design and podcast-to-book systematization rather than transcript cleanup.
 - [157.如何带走牛市的胜利果实？](sources/157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2.md) — 起朱楼宴宾客 episode on preserving bull-market gains through bezzle/narrative skepticism, 20%-style exit discipline, avoiding early bear-market dip-buying, gold sizing, gain conversion into physical/cash-flow assets, and permanent-capital accumulation.
 - [156.生物医药的2026：当市场不再为BD躁动，中国药企的星辰大海才刚刚展开](sources/156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup.md) — 起朱楼宴宾客 2026 biopharma outlook on record 2025 China innovation-drug BD, MNC patent cliffs, platform-level deals, PFS/OS data validation, Innovent-Takeda co-development, TCE/CAR-T pressure, GLP-1 competition, RDCs, small nucleic acid drugs, and payment-policy support.
 - [155.如何理解黄金的史诗级波动](sources/155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi.md) — 起朱楼宴宾客 addendum on gold and silver's extreme volatility, commodity time-horizon analysis, ETF and CTA flow mechanics, gold as U.S./dollar distrust vote, central-bank buying, Kevin Warsh's Fed-chair succession, Fed politicization, and allocation sizing discipline.
@@ -778,6 +779,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《资产配置行动指南》 / Asset Allocation Action Guide](entities/AssetAllocationActionGuide.md) — David Weng book turning the 起朱楼 asset-allocation podcast series into a written worldview, reader-stage, and action-guide object.
+- [中信出版社 / CITIC Press](entities/CITICPress.md) — Publisher context for 《资产配置行动指南》, including topic selection, title positioning, editorial revision, review, and copyediting in the source.
 - [John Kenneth Galbraith](entities/JohnKennethGalbraith.md) — Economist-author whose bezzle vocabulary is used by episode 157 to frame bull-market dream-wealth traps.
 - [The Great Crash 1929 / 《1929年大崩盘》](entities/TheGreatCrash1929.md) — Galbraith book referenced by episode 157 for the bezzle idea behind bull-market narrative caution.
 - [LeEco / 乐视](entities/LeEco.md) — Chinese internet-video and ecosystem-story company used by episode 157 as a bull-market narrative cautionary case.
@@ -5320,6 +5323,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Podcast To Book Systematization](concepts/PodcastToBookSystematization.md) — Medium-conversion process where a trusted podcast series becomes a rewritten, edited, and reusable book system rather than a transcript.
 - [Bull Market Profit Preservation / 牛市胜利果实保留](concepts/BullMarketProfitPreservation.md) — Episode 157 framework for keeping bull-market gains through narrative skepticism, pre-set exits, reentry restraint, and durable-capital conversion.
 - [Bull Market Bezzle Trap / 牛市叙事欺诈](concepts/BullMarketBezzleTrap.md) — Episode 157 use of Galbraith's bezzle idea for late-cycle dream narratives that make investors treat untested future wealth as already owned.
 - [Gain Conversion Asset Form / 收益固化资产形态](concepts/GainConversionAssetForm.md) — Episode 157 concept for protecting floating profit by converting part of it into physical, cash-flow, or otherwise more holdable assets.

@@ -2,8 +2,8 @@
 title: "Book Creator Work"
 type: concept
 tags: [reading, creators, media, books]
-sources: [sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708, inside-a-book-auction]
-last_updated: 2026-07-24
+sources: [158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29, sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708, inside-a-book-auction]
+last_updated: 2026-08-06
 ---
 
 # Book Creator Work
@@ -14,6 +14,8 @@ The episode's practical correction is that book creators are not simply minor li
 
 [[inside-a-book-auction]] adds the backend publishing version. [[AlexGoldmark]] and [[AlexMaiassi]] still have to make a readable book, but their work is preceded by [[BookProposalAsSalesDocument|proposal]], [[LiteraryAgentMarketMaking|agent]], [[PublishingAuctionDesign|auction]], and publisher-fit labor that decides whether the public-facing book project exists at all.
 
+[[158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29]] adds the podcast-author version through [[AssetAllocationActionGuide|《资产配置行动指南》]]. The creator work here is not only talking about books; it is reorganizing years of audio explanation into a written object with editorial review, chapter structure, extension materials, tools, and checklists.
+
 ## Key Claims
 - A book creator's raw material is not only the book; it is the creator's taste, deadline pressure, platform, audience, memory, and present emotional contact with the text.
 - Good preparation can mean notes and scripts, but in some audio contexts it can also mean freshly revisiting the book and speaking from live understanding.
@@ -21,8 +23,10 @@ The episode's practical correction is that book creators are not simply minor li
 - The creator's identity is part of the product: a universal formula cannot replace why this person is the one making this recommendation or conversation.
 - Humility can be productive when it lets the creator state limits and speak sincerely; it becomes damaging when it prevents any public attempt.
 - A book creator's visible work may depend on hidden proposal, agent, auction, and distribution decisions before publication begins.
+- Episode 158 adds that book creator work can start from an existing podcast archive, but the finished book still needs medium-specific rewriting and action design.
 
 ## Connections
+- [[AssetAllocationActionGuide|《资产配置行动指南》]], [[PodcastToBookSystematization]], [[QizhulouYanBinke|起朱楼宴宾客]], and [[DavidWeng|大卫翁]] - podcast-author extension.
 - [[QinZong|秦总]], [[LiWuya|李乌鸦]], and [[ChaoGe|超哥]] - source voices.
 - [[CultureLimited|《文化有限》]] - source case for books as a sustainable conversation engine.
 - [[GuomaiCulture|果麦文化]] and [[LuojiSiwei|罗辑思维]] - publishing and knowledge-media contexts named in the episode.

@@ -2,13 +2,15 @@
 title: "Investment Worldview Fit"
 type: concept
 tags: [investing, behavior, asset-allocation, self-knowledge]
-sources: [154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
+sources: [158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
 last_updated: 2026-08-06
 ---
 
 # Investment Worldview Fit
 
 Investment worldview fit is [[vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]]'s claim that an investing method expresses how a person sees the world. Risk tolerance, rule preference, optimism or pessimism, belief in technology, comfort with uncertainty, and need for safety can all shape whether a person can actually hold [[AssetAllocation]], [[ValueInvesting]], [[QuantitativeInvesting]], crypto exposure, real estate, or short-term trading.
+
+[[158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29]] turns that claim into the explicit closing message of [[AssetAllocationActionGuide|《资产配置行动指南》]]. The book is framed as a way to help readers build their own allocation map, not as a substitute worldview or a shortcut to a single right asset.
 
 The concept extends [[PortfolioSuitability]]. Suitability asks whether a portfolio fits goals, competence, liquidity, and drawdown tolerance; worldview fit asks why those boundaries exist and why a seemingly profitable strategy may still be impossible for a particular person to follow for long enough to work.
 
@@ -25,8 +27,10 @@ The concept extends [[PortfolioSuitability]]. Suitability asks whether a portfol
 - The concept also lowers investment anxiety: if financial-market participation worsens life and does not fit the person's goals, [[HumanCapitalInflationHedge]] and [[InvestmentForBetterLife]] may be better priorities.
 - Episode 134 adds that master biographies should be read as worldview examples before they are read as strategy templates.
 - Episode 154 adds that worldview fit is not only an investment suitability issue; it also shapes friendships, media input, argument tolerance, and life choices.
+- Episode 158 adds that worldview fit can be taught as a first-step book frame: the reader should learn how to draw a personal map before copying another investor's map.
 
 ## Connections
+- [[AssetAllocationActionGuide|《资产配置行动指南》]] and [[PodcastToBookSystematization]] - episode 158's book-form extension of the concept.
 - [[PortfolioSuitability]] — existing investor-fit frame extended by worldview and temperament.
 - [[FeedCuration]], [[InformationCocoon]], and [[AutonomyUnderInformationFlow]] - episode 154's social and media-worldview extension.
 - [[AssetAllocation]] and [[AdaptivePortfolioDesign]] — diversified implementation favored by the episode's host.

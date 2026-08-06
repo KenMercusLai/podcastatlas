@@ -2,7 +2,7 @@
 title: "Book Publishing Economics"
 type: concept
 tags: [publishing, books, media, economics]
-sources: [79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, how-to-make-a-book-into-a-bestseller, inside-a-book-auction, bookstore-economics]
+sources: [158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29, 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, how-to-make-a-book-into-a-bestseller, inside-a-book-auction, bookstore-economics]
 last_updated: 2026-08-06
 ---
 
@@ -18,6 +18,8 @@ The source's central point is that cultural products are not acquired only becau
 
 [[how-to-make-a-book-into-a-bestseller]] adds the ranking layer after retail launch. The source shows that first-week sales, [[PreOrderLaunchConcentration]], bestseller-list opacity, bulk-buying detection, and list-driven advertising can change a book's market trajectory after publication.
 
+[[158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29]] adds a Chinese creator-to-book case through [[AssetAllocationActionGuide|《资产配置行动指南》]]. The source shows [[CITICPress|中信出版社]] selection, title positioning, editorial revision, review, and copyediting turning a trusted podcast series into a book rather than letting [[AuthorPlatformRiskReduction]] or transcript availability do the whole job.
+
 ## Key Claims
 - A nonfiction book proposal has to be readable as both creative project and business case.
 - [[LiteraryAgentMarketMaking]] matters because agents create access, refine the pitch, and make publishers aware that other bidders may be interested.
@@ -29,8 +31,10 @@ The source's central point is that cultural products are not acquired only becau
 - Bestseller-list placement can become an economic asset because it affects displays, ads, future sales conversations, rights value, and author status.
 - Ranking systems create gray-area incentives such as [[BulkBookBuying]] and [[BookLaundering]] when the value of status exceeds the value of ordinary book revenue.
 - Episode 79 adds that pricing itself is part of publishing economics: discount targets and platform pressure can distort the signal of book value and damage channel ecology.
+- Episode 158 adds that a creator's existing media archive still needs publisher selection, title-market fit, editing, review, and format redesign before it becomes a credible book.
 
 ## Connections
+- [[AssetAllocationActionGuide|《资产配置行动指南》]], [[CITICPress|中信出版社]], and [[PodcastToBookSystematization]] - episode 158's Chinese podcast-to-book publishing case.
 - [[inside-a-book-auction]] and [[bookstore-economics]] - source cases.
 - [[how-to-make-a-book-into-a-bestseller]], [[inside-a-book-auction]], and [[bookstore-economics]] - source cases.
 - [[NPR]], [[PlanetMoney]], [[AlexGoldmark]], [[AlexMaiassi]], [[LauraNolan]], [[JaneVonMehren|Jane von Mehren]], [[TomMayer]], [[RachelSalzman]], and [[WWNorton|W. W. Norton]] - participants and institutions.
