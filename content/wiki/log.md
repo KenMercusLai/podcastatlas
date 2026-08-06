@@ -5972,3 +5972,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | vol.126.公募基金还值得买吗？
+
+Added source page for a 起朱楼宴宾客 episode by 大卫翁 on whether Chinese public funds, especially active equity funds, are still worth buying. Created pages for Public Mutual Fund Ecosystem, Fund Distribution Incentives, Fund Redemption Liquidity Pressure, Fund-Investor Return Gap, Contractual Fund Governance Gap, 401(k) Plan, Investment Company Institute, Eric Pan, Massachusetts Investors Trust, and Charles Schwab; updated overview, index, 起朱楼宴宾客, 大卫翁, China Securities Regulatory Commission, Financial Platform Incentives, Personal Pension Account, Investment Risk Management, Portfolio Suitability, and Passive Investing. No direct contradiction found; the source extends existing suitability and platform-incentive branches by showing how new issuance, trail commissions, C-share fee opacity, redemption pressure, weak holder governance, and short holding periods can make "fund earns money, holder does not" a system-level outcome.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,7 +2,7 @@
 title: "Passive Investing"
 type: concept
 tags: [investing, index-funds]
-sources: [vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vanguard-1]
+sources: [vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v, vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vanguard-1]
 last_updated: 2026-08-06
 ---
 
@@ -32,6 +32,8 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 
 [[vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb]] adds a product-wrapper caveat. A product can be an ETF and still not be suitable passive exposure: [[LeveragedETF|leveraged ETFs]] target daily multiples, and ETNs such as [[FNGU]] add financing and issuer-credit layers that do not resemble broad, low-cost, long-horizon index holding.
 
+[[vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v]] adds the active-fund ecosystem contrast. The source says ordinary investors may reasonably choose index funds because active public funds require evaluating not only manager ability but also [[FundDistributionIncentives]], fees, [[FundRedemptionLiquidityPressure]], company culture, and the [[FundInvestorReturnGap]]. It also cautions that if passive share becomes too high, active management may again find neglected opportunities in under-covered companies.
+
 ## Key Claims
 - For many investors, broad index funds may offer a better balance of return, effort, cost, and emotional burden than active trading.
 - The Vanguard source adds that passive investing's ordinary-investor value depends heavily on cost, distribution, and ownership structure, not only on the index methodology.
@@ -51,6 +53,7 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 - Vol.109 adds that in pension accounts, low fees and transparency are advantages but do not remove the need for retirement-horizon allocation and drawdown holdability.
 - Vol.119 adds that passive adoption can shrink sell-side research demand while preserving a cyclic need for active research if price discovery weakens.
 - Vol.121 adds that ETF form alone is not enough: leverage, reset, financing, concentration, and credit risk can make a product tactical rather than passive.
+- Vol.126 adds that passive investing can be a suitability response to active-fund ecosystem risk, but indexation itself may be cyclical if too much money stops doing price-discovery work.
 - The Acquired Vanguard source adds that index funds can create market-wide governance questions when large passive managers accumulate voting power and common ownership.
 
 ## Connections
@@ -69,3 +72,4 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 - [[PersonalPensionAccount|个人养老金账户]], [[TargetDateFund|目标日期基金]], and [[FOFProductDesign]] — vol.109's pension-account comparison between direct beta and managed allocation products.
 - [[BrokerageResearchReports]], [[SellSideResearchIncentives]], and [[ResearchReportReadingDiscipline]] — vol.119's active-research feedback loop.
 - [[LeveragedETF]], [[DailyLeverageReset]], [[VolatilityDecay]], [[FNGU]], and [[LeveragedProductSuitability]] — vol.121's ETF-wrapper caveat.
+- [[PublicMutualFundEcosystem]], [[FundDistributionIncentives]], [[FundInvestorReturnGap]], [[CostMattersHypothesis]], and [[CharlesSchwab]] — vol.126's active-fund ecosystem and fee-pressure contrast.

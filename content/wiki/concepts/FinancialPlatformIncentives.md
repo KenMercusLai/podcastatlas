@@ -2,7 +2,7 @@
 title: "Financial Platform Incentives"
 type: concept
 tags: [finance, incentives, trust, business-model]
-sources: [e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vanguard-1]
+sources: [vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vanguard-1]
 last_updated: 2026-07-23
 ---
 
@@ -14,6 +14,8 @@ The episode's core claim is that explicit user-first language is not enough. A c
 
 [[vanguard-1]] adds the asset-management structure behind one of those comparison cases. [[Vanguard]] lowers fee conflict through [[FundholderMutualOwnership]], while competitors such as [[Fidelity]] and [[BlackRock]] can subsidize low-fee funds from broader platform economics. The episode shows that user-aligned pricing can come from governance design, but also that the same structure can constrain service, technology, and product-investment budgets.
 
+[[vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v]] adds the Chinese public-fund distribution version. [[DavidWeng|大卫翁]] describes trail commissions, C-share sales-service fees, channel-driven new issuance, and bank/platform economics as [[FundDistributionIncentives]] that can pull the ecosystem away from fiduciary-style long-term holder service. The episode uses [[CharlesSchwab]] as a comparison case for a platform that can compete through lower fees, advice, and wealth-management capability rather than only through product shelf control.
+
 ## Key Claims
 - Take rate asks how much a financial company earns from the same amount of user assets; it reveals more than stated mission language.
 - Fund-selection and holding accompaniment can justify some revenue, but paid exposure, slotting fees, and promotional surfaces introduce a different conflict.
@@ -22,10 +24,12 @@ The episode's core claim is that explicit user-first language is not enough. A c
 - [[StartupGovernance]] and [[KnowingEnough]] matter because incentive restraint has to survive bull markets, capital pressure, employee salaries, and founder succession.
 - Vanguard adds a structural version of incentive alignment: the management company is owned by funds, so [[ScaleEconomiesShared]] can become fee reduction.
 - Competitors with brokerage, ETF, or platform profit pools can match low headline fees while relying on different incentive structures.
+- Vol.126 adds that trail commissions and C-share service fees can make fund distribution profitable even when the holder's long-term experience is weak.
 
 ## Connections
 - [[YouzhiYouxing]] — central company case in the source.
 - [[Robinhood]], [[Wealthfront]], [[Vanguard]], and [[JohnBogle]] — comparison cases.
 - [[Fidelity]], [[BlackRock]], [[FundholderMutualOwnership]], [[CostMattersHypothesis]], and [[ScaleEconomiesShared]] — Acquired Vanguard extension.
+- [[PublicMutualFundEcosystem]], [[FundDistributionIncentives]], [[FundInvestorReturnGap]], and [[CharlesSchwab]] — vol.126 public-fund distribution extension.
 - [[InvestorSuitabilityFriction]], [[InvestmentForBetterLife]], and [[InvestmentRiskManagement]] — user-side implications.
 - [[FinancialGravity]], [[ShareholderPrimacy]], [[PurposeDrivenBusiness]], and [[TrustAsBusinessAsset]] — governance and pressure context.
