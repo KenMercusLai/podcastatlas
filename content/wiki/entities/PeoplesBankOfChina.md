@@ -2,7 +2,7 @@
 title: "People's Bank of China"
 type: entity
 tags: [institution, central-bank, currency, macroeconomics]
-sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439, 173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe]
+sources: [129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439, 173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe]
 last_updated: 2026-08-06
 ---
 
@@ -16,6 +16,8 @@ The People's Bank of China appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui
 
 [[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] adds the central bank to [[ChinaPolicyEasingPivot]]. The episode says earlier constraints around cross-cycle adjustment, saving monetary-policy room, and bank net-interest margins had loosened after the September 2024 policy turn, while [[RMBExchangeRatePolicy]] remained a binding reason not to read easing as unconstrained.
 
+[[129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb]] adds a monetary-network comparison. The episode says RMB value should be understood through the RMB payment network and the economic, financial, and wealth system behind it, rather than as a purely declared central-bank value. This connects the PBoC page to [[MoneyAsFlow]], [[PaymentClearingNetwork]], and [[CurrencyAnchorTransition]].
+
 ## Source Position
 - Large RMB depreciation is framed as dangerous because it can intensify capital outflow pressure.
 - Large RMB appreciation is framed as undesirable because it can weaken export competitiveness.
@@ -25,6 +27,7 @@ The People's Bank of China appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui
 - EP24 uses LPR as the policy-rate reference for ordinary mortgage pricing and for the fixed-versus-floating mortgage-rate decision.
 - Episode 173 uses the central-bank context to explain why sell-side macro research could still aspire to influence policy rather than only serve market clients.
 - Vol.115 adds that monetary easing can support confidence, but its market effect still depends on fiscal transmission, bank balance sheets, and exchange-rate management.
+- Episode 129 adds that RMB credibility depends on the real-economy and payment network supporting the currency, not only on the central bank's policy settings.
 
 ## Connections
 - [[RMBExchangeRatePolicy]] — concept capturing the managed-stability frame.
@@ -34,3 +37,4 @@ The People's Bank of China appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui
 - [[MortgageApproval]] — EP24's household-credit setting for LPR-linked mortgage pricing.
 - [[GaoShanwen|高善文]], [[BalanceSheetMacroAnalysis]], and [[MacroResearchPublicExpression]] — episode 173's macro-research and public-expression branch.
 - [[ChinaPolicyEasingPivot]], [[ShortTermDemandBeforeLongTermReform]], [[ChinaFiscalExpansionChannels]], and [[BondFundReturnExpectationReset]] — vol.115 policy and fixed-income branch.
+- [[MoneyAsFlow]], [[PaymentClearingNetwork]], [[CurrencyAnchorTransition]], [[China]], and [[CurrencyRisk]] — episode 129's RMB network and anchor comparison.

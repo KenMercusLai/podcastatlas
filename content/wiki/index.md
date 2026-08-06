@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [129.货币的本质，以及黄金的真正价值 | 串台十分吸引](sources/129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb.md) — 起朱楼宴宾客 crossover with 十分吸引 on money as flow, endogenous credit creation, payment-clearing networks, currency-anchor transition, gold as a spare monetary anchor, Bitcoin's network-value claim, and currency risk as wealth-measurement risk.
 - [vol.128.关税战下一步走向何方？美国人民如何看待特朗普“百日新政”？| 狂喜播客节·对话仲树&Talich](sources/vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb.md) — 起朱楼宴宾客 live discussion on the May 2025 tariff-war moment, Trump victory-narrative bargaining, China as a campaign enemy, tariff consumer-price pass-through, exemptions, gray routing chains, research-funding cuts, TikTok as bargaining chip, DOGE/OMB agency pressure, and Fed independence risk.
 - [vol.127.年报季中的真实中国2025](sources/vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv.md) — 起朱楼宴宾客 episode using 2024 annual reports to read China's weak demand, company impairment and REIT signals, private-enterprise evolution, scale economies, technology innovation, global resource allocation, and the social cost of gladiator-style competition.
 - [vol.126.公募基金还值得买吗？](sources/vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v.md) — 起朱楼宴宾客 episode on China's public mutual fund ecosystem, sales-channel incentives, trail commissions, C-share fee opacity, redemption pressure, contractual-fund governance gaps, investor return gaps, and the conditions under which active public funds can still be buyable.
@@ -2884,9 +2885,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ricky](entities/Ricky.md) — Finance-oriented 起朱楼宴宾客 guest whose vol.106 Dubai field report and vol.115 macro outlook cover overseas opportunity, China policy, A/H equities, bonds, and technology-market caveats.
 - [红色火箭 / Hongse Huojian](entities/HongseHuojianIndexTool.md) — Index-investing mini-program mentioned by vol.105 as a ChinaAMC-affiliated tool for observing, comparing, and selecting indices.
 - [华夏基金 / ChinaAMC](entities/ChinaAMC.md) — Fund-management company context for vol.105's opening mention of the 红色火箭 index-investing tool.
-- [时雷 / Shi Lei](entities/ShiLei.md) — Asset-allocation commentator referenced by vol.105 for complex adaptive systems and localizing Bridgewater-style all-weather thinking.
-- [十分吸引 / Shifen Xiyin](entities/ShifenXiyin.md) — Shi Lei's podcast, referenced by vol.105 as a more technical allocation discussion source.
-- [大卫翁 / David Weng](entities/DavidWeng.md) — 起朱楼宴宾客 host connecting Hong Kong retail-investing survival, Dubai field-report questions, Japan business history, macro allocation, biotech, and sell-side research-report reading.
+- [时雷 / Shi Lei](entities/ShiLei.md) — 十分吸引 speaker linking money as flow, endogenous credit, payment clearing, gold as spare anchor, Bitcoin network value, and Bridgewater-style allocation references.
+- [十分吸引 / Shifen Xiyin](entities/ShifenXiyin.md) — Shi Lei's podcast and episode 129 crossover partner, connecting technical asset allocation with money, gold, Bitcoin, and currency-anchor discussion.
+- [大卫翁 / David Weng](entities/DavidWeng.md) — 起朱楼宴宾客 host connecting Hong Kong retail investing, Dubai, Japan, macro allocation, biotech, sell-side research, tariffs, and money-anchor risk.
 - [三点下班 / San Dian Xiaban](entities/SanDianXiaban.md) — Podcast crossover partner for vol.104, represented through 浩哥's Hong Kong stock-picking and survival discussion.
 - [浩哥 / Haoge](entities/Haoge.md) — 三点下班 speaker in vol.104, contributing retail Hong Kong investing cases around early wins, illiquid losses, IPO paths, and fast stop-loss discipline.
 - [China Mobile / 中国移动](entities/ChinaMobile.md) — Hong Kong-listed telecom SOE used in vol.104 as a sanction-driven mispricing and high-dividend example.
@@ -5174,6 +5175,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Money As Flow / 货币是流量](concepts/MoneyAsFlow.md) — Episode 129 frame that money gains value through payment, clearing, credit creation, debt settlement, and network acceptance rather than as a static object.
+- [Endogenous Money Creation / 内生货币](concepts/EndogenousMoneyCreation.md) — Episode 129 claim that money can be created and destroyed inside the economy through credit, trade, lending, payment, and repayment.
+- [Payment Clearing Network / 支付清算网络](concepts/PaymentClearingNetwork.md) — Episode 129 infrastructure concept treating correspondent banking, PVP, DVP, clearing centers, and account claims as part of money's substance.
+- [Currency Anchor Transition / 货币锚转换](concepts/CurrencyAnchorTransition.md) — Episode 129 frame for periods when dollars, Treasuries, RMB, gold, Bitcoin, and digital networks compete as wealth-measurement anchors.
+- [Gold As Currency Spare Tire / 黄金备胎](concepts/GoldAsCurrencySpareTire.md) — Episode 129 version of gold as a temporary backup anchor carrying risk premium when dominant monetary networks are uncertain.
 - [Trump Victory-Narrative Deal-Making](concepts/TrumpVictoryNarrativeDealMaking.md) — Vol.128 frame for bargaining outcomes that must be packaged as visible wins for Trump supporters.
 - [China as Trump Narrative Enemy](concepts/ChinaAsTrumpNarrativeEnemy.md) — Vol.128 explanation for why China-U.S. tariff bargaining is harder to soften than ally bargaining.
 - [Trump Supporter Interpretive Loop](concepts/TrumpSupporterInterpretiveLoop.md) — Vol.128 "特朗普心理学" frame for pro-Trump media and supporters interpreting abrupt moves as hidden deal strategy.

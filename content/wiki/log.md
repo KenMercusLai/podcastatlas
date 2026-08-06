@@ -5685,6 +5685,7 @@ Added source page for a 蜜獾吃书 episode on 蒲松龄《聊斋志异》 as s
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-08-06] ingest | vol.128.关税战下一步走向何方？美国人民如何看待特朗普“百日新政”？| 狂喜播客节·对话仲树&Talich
 
 Added source page for a 起朱楼宴宾客 live 狂喜播客节 discussion recorded on 2025-05-11 and published on 2025-05-12, covering the next phase of the China-U.S. tariff war, Trump first-hundred-days politics, ally bargaining, Japan's auto bottom line, consumer price pass-through, gray routing chains, research-funding cuts, TikTok as a bargaining chip, DOGE/OMB agency pressure, and Fed independence risk. Created pages for 众数/仲树, Talich, 关亚迪, Office of Management and Budget, Mexico, Trump Victory-Narrative Deal-Making, China as Trump Narrative Enemy, Trump Supporter Interpretive Loop, Tariff Consumer Price Pass-Through, Tariff Exemption Pressure Valve, Federal Research Funding Political Risk, and Independent Agency Control Pressure; updated overview, index, 起朱楼宴宾客, 大卫翁, Donald Trump, DOGE, TikTok, Elon Musk, Federal Reserve, Jerome Powell, Tariff Compliance Test, Effective Tariff Rate Shock, Deglobalization Trade Intermediation, Trade Reciprocity Protectionism, Supply Chain Sovereignty, Tariff Policy Planning Risk, Central Bank Independence, Administrative State Dismantling, and Trumpism Institutionalization. No direct contradiction found; the source explicitly caveats that it was recorded before the Geneva negotiation outcome, so its value is a timestamped map of live narrative constraints and practical pressure channels rather than a settled tariff forecast.
@@ -5992,6 +5993,14 @@ Added source page for a 起朱楼宴宾客 episode by 大卫翁 using 2024 annua
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 129.货币的本质，以及黄金的真正价值 | 串台十分吸引
+
+Added source page for a 起朱楼宴宾客 crossover with 十分吸引 on money as flow, endogenous credit creation, payment-clearing networks, currency-anchor transition, gold as a temporary spare monetary anchor, Bitcoin's network-value claim, and currency risk as wealth-measurement risk. Created pages for Money As Flow, Endogenous Money Creation, Payment Clearing Network, Currency Anchor Transition, and Gold As Currency Spare Tire; updated overview, index, 起朱楼宴宾客, 大卫翁, 时雷, 十分吸引, Bitcoin, Federal Reserve, U.S. Treasury, People's Bank of China, Bank of England, Gold Monetary Anchor, Currency Risk, Currency Credit, Digital Gold, Bitcoin Safe-Haven Behavior, Money Illusion, and Money Movement Infrastructure. No direct contradiction found; the source qualifies Bitcoin's digital-gold claim and extends gold's role as a temporary backup anchor under monetary uncertainty.
 
 ## [2026-08-06] lint | Wiki health check
 

@@ -2,11 +2,13 @@
 title: "Bitcoin"
 type: entity
 tags: [asset, cryptocurrency]
-sources: [tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128, tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, socialradarspod-brianarmstrong-final, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
+sources: [129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128, tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, socialradarspod-brianarmstrong-final, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]
 last_updated: 2026-08-06
 ---
 
 # Bitcoin
+
+[[129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb]] adds Bitcoin to a broader monetary-network comparison. [[ShiLei|时雷]] treats Bitcoin as an internet-consensus asset whose value depends on network belief and possible future use as a digital anchor, while [[DavidWeng|大卫翁]] questions whether its strict supply limit and weak payment efficiency make it suitable as everyday money for a growing economy. The source therefore supports [[DigitalGold]] as a narrative, but keeps [[BitcoinSafeHavenBehavior]] and payment usefulness qualified.
 
 [[tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128]] adds Bitcoin as a possible public reserve asset through state-level crypto laws. [[LizFarmer]] of the [[PewCharitableTrusts]] says [[Texas]] is framed around a separate Bitcoin reserve, while the episode treats the broader [[StateCryptoReserves]] idea as untested: no state has yet had to use a Bitcoin reserve during a downturn. That keeps Bitcoin's public-finance role tied to [[PublicCryptoInvestmentRisk]], [[SeparateCryptoReserveFund]], and the existing caution around [[BitcoinSafeHavenBehavior]].
 
@@ -41,3 +43,4 @@ Bitcoin appears in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren
 - [[Coinbase]], [[BrianArmstrong]], [[MtGox]], and [[RegulatedCryptoTrustStrategy]] — Armstrong episode path from early exposure to productized Bitcoin access.
 - [[AssetScarcityPremium]] and [[InvestmentImpossibleTriangle]] — vol.101's scarcity and asset-attribute frame.
 - [[InvestmentWorldviewFit]] and [[BehavioralInvestingBiases]] — vol.110's belief and holdability frame.
+- [[MoneyAsFlow]], [[CurrencyAnchorTransition]], [[DigitalGold]], [[BitcoinSafeHavenBehavior]], and [[GoldAsCurrencySpareTire]] — episode 129's monetary-network and anchor-transition comparison.

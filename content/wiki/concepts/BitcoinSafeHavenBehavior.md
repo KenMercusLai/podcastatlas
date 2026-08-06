@@ -2,13 +2,15 @@
 title: "Bitcoin Safe-Haven Behavior"
 type: concept
 tags: [bitcoin, crypto, investing, geopolitics, risk]
-sources: [tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128]
+last_updated: 2026-08-06
 ---
 
 # Bitcoin Safe-Haven Behavior
 
 Bitcoin safe-haven behavior is the question of whether [[Bitcoin]] actually attracts protective demand during shocks, rather than only being described as [[DigitalGold]]. [[tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128]] grounds the concept in the Iran crisis: gold rose after news that the [[UnitedStates]] attacked [[Iran]], while Bitcoin did not show the same immediate flight-to-safety move.
+
+[[129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb]] adds a 2025 asset-allocation qualification. The episode says Bitcoin can be read as a new internet-consensus monetary network, but its recent behavior looked more like an amplifier of existing financial-market volatility than a clean opposite to fiat money. That reinforces the difference between long-run anchor narrative and observed short-run refuge behavior.
 
 The episode's key distinction is timing and mechanism. [[GilLuria]] says Bitcoin may not be treated as safe in the first panic because it is volatile and associated with riskier market behavior, but a prolonged conflict, inflation, dollar weakness, or wealth leaving unstable countries could still increase demand for it. That makes Bitcoin's crisis role conditional rather than gold-like by default.
 
@@ -23,6 +25,7 @@ The episode's key distinction is timing and mechanism. [[GilLuria]] says Bitcoin
 - Bitcoin can be more useful as portable wealth than as a low-volatility safe asset.
 - Consumer confidence can amplify crypto demand without proving safe-haven trust.
 - State reserve laws can assume Bitcoin will be useful in fiscal stress without yet proving that assumption through actual reserve use.
+- Episode 129 adds that Bitcoin's potential network-anchor role should be separated from whether it currently behaves as a low-volatility safe haven or usable payment money.
 
 ## Connections
 - [[Bitcoin]] and [[DigitalGold]] - asset and narrative being tested.
@@ -32,3 +35,4 @@ The episode's key distinction is timing and mechanism. [[GilLuria]] says Bitcoin
 - [[CrossBorderCryptoCapitalFlight]] - alternative crisis utility beyond immediate price stability.
 - [[InvestmentRiskManagement]] - risk frame for handling Bitcoin's volatility.
 - [[StateCryptoReserves]] and [[PublicCryptoInvestmentRisk]] - state-level reserve and taxpayer-risk branch added by Marketplace Tech.
+- [[MoneyAsFlow]], [[CurrencyAnchorTransition]], and [[GoldAsCurrencySpareTire]] - episode 129's monetary-network and gold-spare-tire comparison.

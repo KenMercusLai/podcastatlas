@@ -2,13 +2,15 @@
 title: "Gold Monetary Anchor"
 type: concept
 tags: [macro, gold, monetary-system, investing]
-sources: [vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+sources: [129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
 last_updated: 2026-08-06
 ---
 
 # Gold Monetary Anchor
 
 Gold monetary anchor is the episode's frame for analyzing gold as more than an inflation hedge. In [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]], the guest argues that the current gold context should be compared with periods of large debt, dominant-country transition, and monetary-system change, not only with the 1970s.
+
+[[129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb]] adds the strongest monetary-theory version of the concept. [[ShiLei|时雷]] frames gold as [[GoldAsCurrencySpareTire]]: when the dollar, [[USTreasury|U.S. Treasury]] market, RMB network, and digital-currency networks are all uncertain, gold can carry the risk premium of an unanchored world. The source also insists that this is not faith; if a new anchor becomes convincing, gold's spare-tire premium should fall.
 
 [[ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]] adds a household-scale version of the same trust problem. The [[TalkSanlian|Talk三联]] episode links central-bank buying, dollar confidence, U.S. debt, and geopolitical anxiety to why ordinary families still treat gold as children's savings, wedding gifts, gold beans, and a store of safety through [[HouseholdGoldSavings]] and [[OnlineGoldAccumulation]].
 
@@ -38,6 +40,8 @@ The source also connects gold to [[RiskParity]] and multi-asset strategy. If a s
 - Vol.112 adds that gold's 2024 strength can be read as part of a broader [[NewOrderAssetPricing]] debate, not only as a single-asset performance story.
 - Vol.115 adds that gold's portfolio role is diversification and optional trade exposure, not yield; this makes sizing and entry behavior central.
 - Vol.124 adds that gold can belong in an income-or-hedge sleeve even though it has no cash yield, as long as its role is currency-risk hedging rather than short-term signal chasing.
+- Episode 129 adds that gold's traditional real-rate or commodity-ratio models can lose explanatory power when the pricing currency itself is being questioned.
+- Episode 129 treats gold as a temporary backup anchor during [[CurrencyAnchorTransition]], not as a permanent belief system.
 
 ## Connections
 - [[Bitcoin]], [[DigitalGold]], and [[BitcoinSafeHavenBehavior]] - March 12 Marketplace Tech comparison between gold and Bitcoin under Iran-crisis stress.
@@ -52,3 +56,4 @@ The source also connects gold to [[RiskParity]] and multi-asset strategy. If a s
 - [[DonaldTrump]], [[MarketRegimeShift]], and [[NewOrderAssetPricing]] — vol.112's year-review and order-uncertainty branch.
 - [[AssetAllocation]], [[InvestmentRiskManagement]], [[CommodityPriceExposure]], and [[FactFutureAssetPricing]] — vol.115 cross-asset allocation extension.
 - [[OneToOneToOneAllocation]], [[RetirementCashFlowSecurity]], [[InvestmentLiquidityTradeoff]], and [[SleepWellPortfolioTest]] — vol.124 hedge-sleeve and portfolio-comfort extension.
+- [[GoldAsCurrencySpareTire]], [[MoneyAsFlow]], [[CurrencyAnchorTransition]], [[USTreasury]], and [[MoneyIllusion]] — episode 129's unanchored-world and wealth-measurement extension.

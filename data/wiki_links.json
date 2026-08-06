@@ -171,6 +171,10 @@
     "title": "128.闲聊十二生肖之蛇：从耶梦加得到赵灵儿",
     "url": "/wiki/sources/128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305/"
   },
+  "129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb": {
+    "title": "129.货币的本质，以及黄金的真正价值 | 串台十分吸引",
+    "url": "/wiki/sources/129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb/"
+  },
   "129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151": {
     "title": "129.如何成为真正的不完美主义者，浑身是劲儿！",
     "url": "/wiki/sources/129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151/"
@@ -7527,6 +7531,10 @@
     "title": "杯酒释兵权 / Cup of Wine Disarms Generals",
     "url": "/wiki/concepts/cupwinedisarmsgenerals/"
   },
+  "CurrencyAnchorTransition": {
+    "title": "Currency Anchor Transition / 货币锚转换",
+    "url": "/wiki/concepts/currencyanchortransition/"
+  },
   "CurrencyControlTrap": {
     "title": "Currency Control Trap",
     "url": "/wiki/concepts/currencycontroltrap/"
@@ -9642,6 +9650,10 @@
   "EndOfLifeAutonomyAndDignity": {
     "title": "End-of-Life Autonomy And Dignity",
     "url": "/wiki/concepts/endoflifeautonomyanddignity/"
+  },
+  "EndogenousMoneyCreation": {
+    "title": "Endogenous Money Creation / 内生货币",
+    "url": "/wiki/concepts/endogenousmoneycreation/"
   },
   "EnergyTradingScaleAdvantage": {
     "title": "Energy Trading Scale Advantage",
@@ -12158,6 +12170,10 @@
   "Gob": {
     "title": "Gob",
     "url": "/wiki/entities/gob/"
+  },
+  "GoldAsCurrencySpareTire": {
+    "title": "Gold As Currency Spare Tire / 黄金备胎",
+    "url": "/wiki/concepts/goldascurrencysparetire/"
   },
   "GoldMonetaryAnchor": {
     "title": "Gold Monetary Anchor",
@@ -19447,6 +19463,10 @@
     "title": "Monetary Policy Lag",
     "url": "/wiki/concepts/monetarypolicylag/"
   },
+  "MoneyAsFlow": {
+    "title": "Money As Flow / 货币是流量",
+    "url": "/wiki/concepts/moneyasflow/"
+  },
   "MoneyIllusion": {
     "title": "Money Illusion / 货币错觉",
     "url": "/wiki/concepts/moneyillusion/"
@@ -21566,6 +21586,10 @@
   "PaylessShoeSource": {
     "title": "Payless ShoeSource",
     "url": "/wiki/entities/paylessshoesource/"
+  },
+  "PaymentClearingNetwork": {
+    "title": "Payment Clearing Network / 支付清算网络",
+    "url": "/wiki/concepts/paymentclearingnetwork/"
   },
   "PaymentLedMarketSelection": {
     "title": "Payment Led Market Selection",

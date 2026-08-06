@@ -2,13 +2,15 @@
 title: "Money Movement Infrastructure"
 type: concept
 tags: [fintech, payments, infrastructure]
-sources: [socialradarsseason2-dimitri-final, socialradarss2-billclerico-final, socialradarss2-stripe-v2, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
-last_updated: 2026-07-14
+sources: [129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, socialradarsseason2-dimitri-final, socialradarss2-billclerico-final, socialradarss2-stripe-v2, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-08-06
 ---
 
 # Money Movement Infrastructure
 
 Money movement infrastructure is the hidden software and workflow layer that lets companies instruct payments, connect to banks, read bank statements, reconcile activity, and handle exceptions. In [[socialradarsseason2-dimitri-final]], [[DimitriDadiomov]] explains [[ModernTreasury]] through the operational pain he first saw at [[LendingHome]]: ACH, wires, bank integrations, and reconciliation became hard once payment volume reached tens of thousands per month.
+
+[[129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb]] adds the macro-money version of the same infrastructure problem. [[ShiLei|时雷]] describes correspondent banking, PVP, DVP, clearing centers, and interbank account claims as part of [[PaymentClearingNetwork]] and therefore part of money's nature: if money is [[MoneyAsFlow]], payment rails are not merely back-office tools but the routes through which monetary claims become usable.
 
 The concept matters because payment movement is not just a button in a product. At scale, product, finance, capital markets, support, and banking counterparties all need reliable state, auditability, and human review. New rails such as [[FedNow]] can make payments faster, but they do not eliminate the need for coordination software.
 
@@ -26,6 +28,7 @@ The concept matters because payment movement is not just a button in a product. 
 - A consumer payments product can reveal an infrastructure business when other companies repeatedly ask for the underlying banking, fraud, and payment-operations layer.
 - Developer-first payment infrastructure can make money movement feel like software setup even when regulation, bank relationships, and risk controls remain underneath.
 - Direct-debit infrastructure can emerge when customers value reliable access to bank-payment rails more than the original consumer-facing payment product.
+- Episode 129 adds that payment infrastructure also shapes currency trust because transfer speed, finality, correspondent paths, and settlement risk affect whether a claim can circulate as money.
 
 ## Connections
 - [[ModernTreasury]], [[DimitriDadiomov]], and [[LendingHome]] - source company, founder, and origin pain.
@@ -35,3 +38,4 @@ The concept matters because payment movement is not just a button in a product. 
 - [[TrustHeavyInfrastructureSales]] - sales and adoption pattern for critical systems.
 - [[FinancialOperationsResilience]] and [[AcceleratedBankRuns]] - resilience concepts connected to banking operations.
 - [[FedNow]] - payment-rail future discussed in the source.
+- [[PaymentClearingNetwork]], [[MoneyAsFlow]], [[EndogenousMoneyCreation]], and [[CurrencyCredit]] - macro monetary extension added by episode 129.
