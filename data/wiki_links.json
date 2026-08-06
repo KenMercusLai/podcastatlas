@@ -419,6 +419,10 @@
     "title": "147. 非洲神话：腋毛创世, 土狼下蛋及哪吒的另一版本",
     "url": "/wiki/sources/147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004/"
   },
+  "147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp": {
+    "title": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士",
+    "url": "/wiki/sources/147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp/"
+  },
   "148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934": {
     "title": "148. 王氏之死：断井颓垣上的历史妆镜",
     "url": "/wiki/sources/148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934/"
@@ -1090,6 +1094,10 @@
   "AIAndDemocracyFoundation": {
     "title": "AI and Democracy Foundation",
     "url": "/wiki/entities/aianddemocracyfoundation/"
+  },
+  "AIAndRoboticElderCareLimits": {
+    "title": "AI And Robotic Elder-Care Limits / AI与机器人养老边界",
+    "url": "/wiki/concepts/aiandroboticeldercarelimits/"
   },
   "AIAnswerSourceAttribution": {
     "title": "AI Answer Source Attribution",
@@ -5479,6 +5487,14 @@
     "title": "Care Companion Program",
     "url": "/wiki/entities/carecompanionprogram/"
   },
+  "CareSocialization": {
+    "title": "Care Socialization / 照护社会化",
+    "url": "/wiki/concepts/caresocialization/"
+  },
+  "CareSociology": {
+    "title": "Care Sociology / 照护社会学",
+    "url": "/wiki/concepts/caresociology/"
+  },
   "CareerOptionality": {
     "title": "Career Optionality",
     "url": "/wiki/concepts/careeroptionality/"
@@ -6438,6 +6454,10 @@
   "ChronicFoodAdditiveRisk": {
     "title": "Chronic Food Additive Risk",
     "url": "/wiki/concepts/chronicfoodadditiverisk/"
+  },
+  "ChudongZahuopu": {
+    "title": "触动杂货铺 / Chudong Zahuopu",
+    "url": "/wiki/entities/chudongzahuopu/"
   },
   "ChunDianArgot": {
     "title": "春点 / Chun Dian Argot",
@@ -15467,6 +15487,10 @@
     "title": "Japanese New-Build Condo Buying / 日本新建公寓购房",
     "url": "/wiki/concepts/japanesenewcondobuying/"
   },
+  "JapaneseNoFamilyAttendantCare": {
+    "title": "Japanese No-Family-Attendant Care / 日本无家属陪护",
+    "url": "/wiki/concepts/japanesenofamilyattendantcare/"
+  },
   "JapaneseOvertourismTradeoff": {
     "title": "Japanese Overtourism Tradeoff / 日本过度旅游取舍",
     "url": "/wiki/concepts/japaneseovertourismtradeoff/"
@@ -19219,6 +19243,10 @@
     "title": "Medical Scam Packaging",
     "url": "/wiki/concepts/medicalscampackaging/"
   },
+  "MedicalSocialWorkDischargeCoordination": {
+    "title": "Medical Social Work Discharge Coordination / 医疗社工与出院衔接",
+    "url": "/wiki/concepts/medicalsocialworkdischargecoordination/"
+  },
   "MedicalTestingValidationIntegrity": {
     "title": "Medical Testing Validation Integrity",
     "url": "/wiki/concepts/medicaltestingvalidationintegrity/"
@@ -20218,6 +20246,10 @@
   "MultiStrategyAllocation": {
     "title": "Multi-Strategy Allocation",
     "url": "/wiki/concepts/multistrategyallocation/"
+  },
+  "MultidisciplinaryHospitalCare": {
+    "title": "Multidisciplinary Hospital Care / 医院多职种协作",
+    "url": "/wiki/concepts/multidisciplinaryhospitalcare/"
   },
   "MultimodalIntelligence": {
     "title": "Multimodal Intelligence",
@@ -22086,6 +22118,10 @@
   "PatientAIUse": {
     "title": "Patient AI Use",
     "url": "/wiki/concepts/patientaiuse/"
+  },
+  "PatientDignityInDailyCare": {
+    "title": "Patient Dignity In Daily Care / 日常照护中的患者尊严",
+    "url": "/wiki/concepts/patientdignityindailycare/"
   },
   "Patreon": {
     "title": "Patreon",
@@ -29866,6 +29902,10 @@
   "UberEats": {
     "title": "Uber Eats",
     "url": "/wiki/entities/ubereats/"
+  },
+  "UenoChizuko": {
+    "title": "Ueno Chizuko / 上野千鹤子",
+    "url": "/wiki/entities/uenochizuko/"
   },
   "Ukraine": {
     "title": "Ukraine",

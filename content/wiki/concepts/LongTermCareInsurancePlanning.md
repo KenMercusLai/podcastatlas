@@ -2,7 +2,7 @@
 title: "Long-Term Care Insurance Planning"
 type: concept
 tags: [insurance, care, disability, family-finance]
-sources: [vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt, vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951]
+sources: [147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp, vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt, vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951]
 last_updated: 2026-08-06
 ---
 
@@ -16,6 +16,8 @@ Because this segment is sponsored by [[XiaoyusanInsurance|小雨伞]], the wiki 
 
 [[vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt]] adds the hospital-system boundary. Long-term care finance and service supply matter because weak care separation can become [[SocialHospitalization]], while [[CommunityIntegratedCare]] can move recovery, chronic support, and daily assistance outside acute hospitals.
 
+[[147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp]] adds the service-quality boundary. [[QiongQiong|琼琼]] stresses that money alone does not guarantee good care: if care workers are underpaid and overloaded, resentment can be transferred to the cared-for person. The planning problem therefore includes [[PatientDignityInDailyCare]], [[SubjectLedCare]], and whether [[CareSocialization]] creates real service capacity rather than only shifting bills.
+
 ## Key Claims
 - Long-term care costs can be a separate household risk from hospital treatment costs.
 - The planning question is practical: who provides care, how long care may be needed, what equipment or home support is required, and what cash flow can cover it.
@@ -23,6 +25,7 @@ Because this segment is sponsored by [[XiaoyusanInsurance|小雨伞]], the wiki 
 - In this episode, long-term care planning is ethically tied to [[SubjectLedCare]] because money alone does not guarantee dignified or self-directed support.
 - Vol.118 adds that care insurance works only when a service system exists: carers, home visits, cleaning, bathing help, institutions, and emergency response are part of the same planning problem.
 - Vol.120 adds that long-term care planning is also hospital-capacity planning: without a care channel, older patients can remain in medical beds for social rather than acute clinical reasons.
+- Episode 147 adds that care planning should ask who performs the labor, under what pay and training conditions, and whether the cared-for person can still refuse, choose, and be treated with dignity.
 
 ## Connections
 - [[XiaoyusanInsurance|小雨伞]] - sponsor context in the source.
@@ -31,3 +34,4 @@ Because this segment is sponsored by [[XiaoyusanInsurance|小雨伞]], the wiki 
 - [[ShikanoYasuaki|鹿野靖明]] - narrative case showing why ongoing care is not a minor side cost.
 - [[SoloAgingPlanning]], [[AgingInPlaceSupportSystem]], and [[RetirementCashFlowSecurity]] - single-aging and cash-flow planning extension from vol.118.
 - [[SocialHospitalization]], [[CommunityIntegratedCare]], and [[JapaneseHealthcareSystem]] - Japan healthcare reform extension added by vol.120.
+- [[CareSocialization]], [[PatientDignityInDailyCare]], [[MedicalSocialWorkDischargeCoordination]], and [[AIAndRoboticElderCareLimits]] - episode 147's labor-quality, dignity, and technology-boundary extension.

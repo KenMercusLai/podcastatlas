@@ -2,7 +2,7 @@
 title: "Aging-In-Place Support System / 居家养老支持系统"
 type: concept
 tags: [aging, housing, cities, care, infrastructure]
-sources: [vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt, vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt]
+sources: [147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp, vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt, vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt]
 last_updated: 2026-08-06
 ---
 
@@ -14,6 +14,8 @@ The source contrasts romantic mobility with late-life reliability. Travel or rur
 
 [[vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt]] adds the [[CommunityIntegratedCare]] side from Japan's healthcare reform. Home-based aging is presented not only as a preference but as a way to reduce [[SocialHospitalization]], shorten unnecessary acute-care stays, and connect clinics, pharmacies, nursing support, rehabilitation, and daily-life services.
 
+[[147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp]] adds the discharge and bodily-care detail behind that system. It shows that aging in place may require [[MedicalSocialWorkDischargeCoordination]], bathing support, swallowing and nutrition adjustment, safe transfer, rehabilitation, and respect for the older person's own choices rather than only family willingness.
+
 ## Key Claims
 - Home-based elder care is possible only when professional carers, inspection routines, cleaning, bathing support, and emergency response are available.
 - Dense cities can be more suitable for single elders because they concentrate hospitals, services, accessibility upgrades, and younger workers.
@@ -21,6 +23,7 @@ The source contrasts romantic mobility with late-life reliability. Travel or rur
 - "Aging at home" depends on [[ElderCareStateCapacity]], not only on filial duty or personal desire.
 - Residence planning should distinguish the freer early-retirement stage from the later stage when physical and cognitive limitations shape daily life.
 - Aging in place can protect hospital capacity only when community medical, pharmacy, rehabilitation, and care services are real enough to absorb post-acute and chronic needs.
+- Episode 147 adds that care technology can help aging in place only when it is embedded in a staffed, accountable, subject-led support system.
 
 ## Connections
 - [[SoloAgingPlanning]] - parent planning frame.
@@ -29,3 +32,4 @@ The source contrasts romantic mobility with late-life reliability. Travel or rur
 - [[EmbodiedAging]] and [[HealthInsurancePlanning]] - body and medical-risk context.
 - [[Japan]] and [[China]] - comparative settings in the source.
 - [[CommunityIntegratedCare]], [[SocialHospitalization]], and [[PharmacistAsSecondDoctor]] - Japan healthcare reform extension added by vol.120.
+- [[MedicalSocialWorkDischargeCoordination]], [[CareSocialization]], [[PatientDignityInDailyCare]], and [[AIAndRoboticElderCareLimits]] - episode 147's discharge, dignity, and technology-boundary branch.

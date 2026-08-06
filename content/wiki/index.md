@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [147.再谈日本医疗与照护行业之我曾在北海道的医院当护士](sources/147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp.md) — 起朱楼宴宾客 conversation with 琼琼 on Japanese nursing, no-family-attendant care, multidisciplinary hospital work, universal-coverage practice, medical social work, care socialization, subject-led care, daily dignity, and AI/robot elder-care limits.
 - [146.美国经济这么差，美股还能继续涨吗 | 串台《美轮美换》](sources/146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu.md) — 起朱楼宴宾客 crossover with 美轮美换 on U.S. economic sentiment, shutdown data blindness, tariff inflation, Fed independence, Big Tech-led equity gains, AI bubble spillover, private credit, and entry-level labor pressure.
 - [145.基金投顾值得信任吗？](sources/145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi.md) — 起朱楼宴宾客 episode on Chinese fund advisory, buy-side trust, behavior coaching, goal-based client profiling, advisory fees, disclosure conflicts, and U.S. fiduciary/retirement-advice comparisons.
 - [144.女侠段四合和她的家乡马坪关：“我们曾以为有电有路只是梦”](sources/144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt.md) — 起朱楼宴宾客 field conversation with 段四合 on 马坪关's electricity, roads, matsutake commons, village self-governance, women's organizing, parent-child reading, and slow rural tourism.
@@ -768,6 +769,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ueno Chizuko / 上野千鹤子](entities/UenoChizuko.md) — Care-sociology author whose work anchors 琼琼's translation path and episode 147's care-socialization frame.
+- [触动杂货铺 / Chudong Zahuopu](entities/ChudongZahuopu.md) — Care-focused podcast/public-account project associated with 琼琼 and public discussion of socialized care.
 - [美轮美换 / Meilun Meihuan](entities/MeilunMeihuan.md) — Podcast crossover partner supplying U.S. politics and lived-economy context for episode 146.
 - [Terry / 美轮美换](entities/TerryMeilunMeihuan.md) — 美轮美换 participant grounding episode 146 in Trump-supporter, nonprofit, and everyday U.S. economic sentiment observations.
 - [小华 / 美轮美换](entities/XiaohuaMeilunMeihuan.md) — 美轮美换 participant whose consumer-price observations anchor episode 146's household inflation layer.
@@ -794,7 +797,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nakagawa Masashichi Shoten / 中川政七商店](entities/NakagawaMasashichiShoten.md) — Japanese craft retailer used by episode 142 to show story, place, and traditional-maker renewal as a reasoned premium.
 - [Montbell](entities/Montbell.md) — Japanese outdoor brand used by episode 142 as a regional-limited T-shirt case where local availability turns apparel into a place story.
 - [Columbia Journalism School](entities/ColumbiaJournalismSchool.md) — Columbia University journalism school context for David Weng's visiting-scholar opportunity and media/financial-narrative research.
-- [琼琼 / Qiongqiong](entities/QiongQiong.md) — Listener and medical-journalism figure whose Japanese healthcare fact-checking case grounds creator fact-checking responsibility.
+- [琼琼 / Qiongqiong](entities/QiongQiong.md) — Nurse, medical-journalism figure, and care-sociology translator whose Japanese healthcare fact-checking and Hokkaido hospital experience ground episode 147.
 - [雪球 / Xueqiu](entities/Xueqiu.md) — Chinese investor social platform used by episode 141 as part of the creator-driven financial-narrative ecosystem.
 - [远行者与碎冰匠 / Yuanxingzhe Yu Suibingjiang](entities/YuanxingzheYuSuibingjiang.md) — Crossover partner in episode 140, bringing travel and hospitality perspectives to hotel loyalty systems.
 - [猫草 / Maocao](entities/MaocaoYuanxingzhe.md) — 远行者与碎冰匠 speaker grounding episode 140 in frequent-traveler behavior and hotel points use.
@@ -5275,6 +5278,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Care Sociology / 照护社会学](concepts/CareSociology.md) — Episode 147 frame for analyzing care as social organization, labor, ethics, subjecthood, and public responsibility rather than only private family duty.
+- [Japanese No-Family-Attendant Care / 日本无家属陪护](concepts/JapaneseNoFamilyAttendantCare.md) — Japanese hospital practice where daily bedside care shifts from family attendants into trained hospital roles and workflows.
+- [Multidisciplinary Hospital Care / 医院多职种协作](concepts/MultidisciplinaryHospitalCare.md) — Team-care model linking doctors, nurses, rehabilitation, technicians, nutrition, social work, and support staff around patient function and discharge.
+- [Medical Social Work Discharge Coordination / 医疗社工与出院衔接](concepts/MedicalSocialWorkDischargeCoordination.md) — Hospital-to-life bridge coordinating discharge, welfare, long-term care, public assistance, institutions, and home support.
+- [Care Socialization / 照护社会化](concepts/CareSocialization.md) — Shift from family-only care toward socially recognized, paid, trained, accountable care systems.
+- [Patient Dignity In Daily Care / 日常照护中的患者尊严](concepts/PatientDignityInDailyCare.md) — Care-ethics frame showing how bathing, eating, hair, mobility, refusal, and consent shape dignity in everyday routines.
+- [AI And Robotic Elder-Care Limits / AI与机器人养老边界](concepts/AIAndRoboticElderCareLimits.md) — Episode 147 caution that robotics and AI can assist care but cannot bypass labor, body, refusal, emotion, and dignity constraints.
 - [U.S. Economic Experience Split](concepts/USEconomicExperienceSplit.md) — Episode 146 frame for why tech, finance, and AI infrastructure can feel strong while workers, consumers, and weaker sectors feel stressed.
 - [Employer Power Reassertion](concepts/EmployerPowerReassertion.md) — Post-2021 shift from worker bargaining power toward employer control through layoffs, RTO, DEI rollback, and AI substitution pressure.
 - [Equity Retirement Asset Binding](concepts/EquityRetirementAssetBinding.md) — Political-economy pattern where 401(k)-style retirement exposure ties households and unions to Big Tech, AI, crypto, and broad U.S. equity performance.

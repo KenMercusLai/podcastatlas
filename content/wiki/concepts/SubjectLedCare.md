@@ -2,7 +2,7 @@
 title: "Subject-Led Care"
 type: concept
 tags: [care, disability, agency, ethics]
-sources: [88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951]
+sources: [147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp, 88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951]
 last_updated: 2026-08-06
 ---
 
@@ -16,6 +16,8 @@ The concept does not mean every request must be accepted. The source's closing r
 
 [[119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087]] adds an end-of-life boundary case. The assisted-death discussion makes the cared-for person's voice urgent, but it also shows why subject-led care cannot simply equate every stated wish with a valid final decision: prognosis, mental state, family pressure, doctor responsibility, and available care all change what respecting the subject requires.
 
+[[147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp]] adds the Japanese care-exam language of 当事者主权. [[QiongQiong|琼琼]] uses a gastric-fistula decision case to show that the correct care response begins by asking the patient what he wants, even when the doctor, spouse, or adult child has a clear view. The same episode adds daily examples such as hair cutting and AI/robot care preference to show how easily a cared-for person can lose the ability to refuse.
+
 ## Key Claims
 - Care without the cared-for person's voice easily becomes top-down arrangement.
 - Direct requests can break the pity hierarchy by making both sides negotiate as people.
@@ -24,6 +26,7 @@ The concept does not mean every request must be accepted. The source's closing r
 - It also changes volunteers through [[VolunteerCareReciprocity]], because helpers learn to recognize their own needs and limits.
 - End-of-life agency needs [[AssistedDeathClinicalResponsibility]] and [[AssistedDyingSafeguards]] because the stakes of misreading a request are irreversible.
 - Episode 88 adds that subject-led support can include standards: a teacher or coach can respect the person's timing and desire without pretending risk, anger, or technical requirements do not exist.
+- Episode 147 adds that subject-led care also applies to routine elder and hospital care: medical expertise, family convenience, and caregiver emotion must not erase the patient's own preference.
 
 ## Connections
 - [[ShikanoYasuaki|鹿野靖明]] and [[SangengBanyeJuranYaoChiXiangjiao|《三更半夜居然要吃香蕉》]] - source case and book.
@@ -33,3 +36,4 @@ The concept does not mean every request must be accepted. The source's closing r
 - [[FenJingyuan|焚景源]] - closing Chinese disability example reinforcing the need to listen to disabled people's own voice.
 - [[EndOfLifeAutonomyAndDignity]] and [[FamilyEthicsAtEndOfLife]] - episode 119's autonomy and family-pressure extension.
 - [[WadaSachiko|和田幸子]], [[ZhendouBoxingGym|真斗拳馆]], and [[DisabilityAccessInCombatSports]] - episode 88's school and boxing support cases.
+- [[QiongQiong|琼琼]], [[CareSociology]], [[PatientDignityInDailyCare]], [[CareSocialization]], and [[AIAndRoboticElderCareLimits]] - episode 147's Japanese care, dignity, and technology-boundary branch.

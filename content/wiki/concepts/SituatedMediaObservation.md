@@ -2,7 +2,7 @@
 title: "Situated Media Observation / 在场的媒体观察"
 type: concept
 tags: [media, fieldwork, journalism, reasoning]
-sources: [141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]
+sources: [147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]
 last_updated: 2026-08-06
 ---
 
@@ -12,11 +12,14 @@ Situated media observation is the source's method for reducing secondhand bias w
 
 The concept is a media-specific version of [[ObservationBeforeInference]]. The host contrasts it with Japanese podcast commentary on China that he finds shallow when it infers restaurant or auto-industry conditions from visible surface details while missing delivery systems, technical capacity, or supply-chain change. His worry is that he could reproduce the same weakness when speaking about the United States or Europe from secondhand information.
 
+[[147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp]] adds a professional version through [[QiongQiong|琼琼]]. Her observation is situated not only because she lived in Japan, but because she had nursing training, a Japanese nurse credential, hospital work experience, and later medical-journalism training. The episode's closing contrast between trained first-hand observation and online information patchwork strengthens this concept.
+
 ## Key Claims
 - Field presence can reveal what secondary media misses: local language, daily routines, social networks, distribution channels, and implicit assumptions.
 - Commentary on another society should mark whether it is based on lived observation, local conversations, primary sources, or relayed media.
 - Situated observation does not guarantee correctness, but it can reduce the chance that a creator distributes someone else's bias as personal judgment.
 - Podcasts can support situated observation by creating listener meetups, local conversations, and archiveable field reflections.
+- Professional training changes what field observation can see: daily routines, role boundaries, equipment, and system gaps become visible where casual visitors may see only surface comfort or inconvenience.
 
 ## Connections
 - [[ObservationBeforeInference]] — broader reasoning discipline.
@@ -25,3 +28,4 @@ The concept is a media-specific version of [[ObservationBeforeInference]]. The h
 - [[ColumbiaJournalismSchool|Columbia Journalism School]] and [[ColumbiaUniversity]] — institutional setting for the source's U.S. observation.
 - [[Japan]], [[China]], and [[UnitedStates]] — comparative contexts named in the source.
 - [[PodcastAsAsynchronousMedia]] — medium through which observations can later be shared.
+- [[QiongQiong|琼琼]], [[JapaneseHealthcareSystem]], [[JapaneseNoFamilyAttendantCare]], and [[PatientDignityInDailyCare]] — episode 147's trained first-hand observation branch.

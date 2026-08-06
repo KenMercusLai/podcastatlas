@@ -5754,6 +5754,7 @@ Added source page for a 蜜獾吃书 episode reading 《冰与火之歌》 and �
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -6133,6 +6134,14 @@ Added source page for a 起朱楼宴宾客 episode by 大卫翁 on whether Chine
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 147.再谈日本医疗与照护行业之我曾在北海道的医院当护士
+
+Added source page for a 起朱楼宴宾客 conversation with 琼琼 on Japanese nursing, no-family-attendant hospital care, multidisciplinary teams, universal-coverage practice, medical social work, care socialization, subject-led care, patient dignity in daily routines, and AI/robot elder-care limits. Created pages for Ueno Chizuko, 触动杂货铺, Care Sociology, Japanese No-Family-Attendant Care, Multidisciplinary Hospital Care, Medical Social Work Discharge Coordination, Care Socialization, Patient Dignity In Daily Care, and AI And Robotic Elder-Care Limits; updated overview, index, 琼琼, Japan, 大卫翁, 起朱楼宴宾客, Japanese Healthcare System, Japanese Universal Health Coverage, Japanese Medical Triage System, Healthcare Impossible Triangle, Community Integrated Care, Social Hospitalization, Subject-Led Care, Elder Care State Capacity, Aging-In-Place Support System, Long-Term Care Insurance Planning, Creator Fact-Checking Responsibility, and Situated Media Observation. No direct contradiction found; the source reinforces episode 120's healthcare-system branch while adding a ward-level care and ethics layer, and it qualifies universal-coverage optimism with insurance-pool, provider-finance, doctor-variation, and innovation caveats.
 
 ## [2026-08-06] lint | Wiki health check
 
