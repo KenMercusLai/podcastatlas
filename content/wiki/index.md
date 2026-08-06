@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [170.《1929》的泡沫之夏：三个代表人物，和他们在当下周期的影子](sources/170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j.md) — 起朱楼宴宾客 episode reading Andrew Ross Sorkin's 1929 through Richard Whitney, William Durant, and Charles E. Mitchell as role portraits for AI-cycle governance, SoftBank/OpenAI conviction, private credit, retail leverage, and institutional trust transmission.
 - [169.如果你18岁，正考虑未来把金融当职业｜高考季特别策划](sources/169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c.md) — 起朱楼宴宾客 gaokao-season finance-career episode on finance role segmentation, relationship capital, AI pressure on entry-level work, school/city signaling, internships, and industry-to-finance paths.
 - [168. 银与信：一部日本劳工移民的跨洋汇款史](sources/168-yin-yu-xin-yibu-riben-laogong-yimin-de-kuayang-huikuan-shi-lmgfmmgkawoa-6xyucnm1ljebzwu.md) — 起朱楼宴宾客 episode with 素 on Japanese labor migration remittances, Hawaii plantation labor, Yokohama Specie Bank, state-mediated archives, racialized U.S. immigration politics, and qiaopi/silver-letter comparison.
 - [167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林](sources/167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja.md) — 起朱楼宴宾客 algorithm-series crossover with 独树不成林 using Plato, Rousseau, Hayek, and Arendt to frame algorithmic reality selection, reason outsourcing, dispersed-knowledge aggregation, and public appearance.
@@ -790,6 +791,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Andrew Ross Sorkin](entities/AndrewRossSorkin.md) — Journalist-author whose 1929 book gives episode 170 its character-driven market-history frame.
+- [1929 / 《1929》 (Andrew Ross Sorkin)](entities/NineteenTwentyNineSorkin.md) — Sorkin book read by episode 170 as a behavioral-finance archive around crash actors, leverage, and institutional trust.
+- [Richard Whitney / 理查德·惠特尼](entities/RichardWhitney.md) — NYSE gatekeeper and 1929 white-knight figure used by episode 170 as the trusted-authority role in bubble analysis.
+- [William Durant / 威廉·杜兰特](entities/WilliamDurant.md) — GM founder used by episode 170 as the entrepreneur whose industrial insight did not protect him from speculative self-entrapment.
+- [Charles E. Mitchell / 查理·米切尔](entities/CharlesEMitchell.md) — National City Bank chairman used by episode 170 to show how institutional trust can distribute risky securities to households.
+- [Masayoshi Son / 孙正义](entities/MasayoshiSon.md) — SoftBank founder used by episode 170 as a contemporary Durant-style shadow around AI and OpenAI-scale conviction.
+- [Jia Yueting / 贾跃亭](entities/JiaYueting.md) — Chinese entrepreneur used by episode 170 as a Durant-style analogy for ecosystem ambition and financing loss of control.
+- [New York Stock Exchange / 纽约证券交易所](entities/NewYorkStockExchange.md) — Exchange institution whose pre-SEC self-regulatory credibility frames Richard Whitney's role.
+- [National City Bank / 国民城市银行](entities/NationalCityBank.md) — Charles E. Mitchell's bank, used by episode 170 as the historical trust-to-securities distribution case.
+- [Athene Holding / 雅典娜保险](entities/AtheneHolding.md) — Apollo-linked insurer used by episode 170 to explain annuity liabilities and private-credit risk transmission.
 - [素 / Su](entities/Su.md) — North America-based humanities PhD guest whose episode 168 research connects Japanese labor migration, remittances, multilingual archives, and qiaopi comparison.
 - [Hawaii / 夏威夷](entities/Hawaii.md) — Plantation-labor and remittance node linking Japanese contract migration, sugar production, Yokohama Specie Bank, and later U.S. West Coast movement.
 - [Yokohama Specie Bank / 横滨正金银行](entities/YokohamaSpecieBank.md) — Semi-official Japanese bank that made overseas labor remittances legible through consulate-adjacent banking and foreign-exchange infrastructure.
@@ -5357,6 +5368,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Bubble Role Analogy / 泡沫角色类比](concepts/BubbleRoleAnalogy.md) — Episode 170 method for comparing 1929 and current cycles through roles such as gatekeeper, entrepreneur-speculator, and trusted financial intermediary.
+- [Financial Institution Trust Transmission / 金融机构信任传导](concepts/FinancialInstitutionTrustTransmission.md) — Risk pattern where trusted banks, insurers, asset managers, or wealth platforms make opaque or leveraged assets feel suitable to households.
+- [Glass-Steagall Act / 格拉斯-斯蒂格尔法案](concepts/GlassSteagallAct.md) — Regulatory separation frame episode 170 connects to Charles E. Mitchell and bank-based securities distribution.
 - [Finance Industry Role Segmentation / 金融行业岗位分层](concepts/FinanceIndustryRoleSegmentation.md) — Episode 169 frame for separating finance by institution, business line, and front/middle/back-office role instead of treating finance as one career.
 - [Finance Relationship Capital / 金融关系资本](concepts/FinanceRelationshipCapital.md) — Episode 169 concept for client trust, personal networks, market-cycle memory, and senior judgment that often move with experienced finance workers.
 - [Finance Entry-Level AI Compression / 金融初级岗位AI压缩](concepts/FinanceEntryLevelAICompression.md) — Episode 169 finance-specific AI labor risk where junior research, execution, drafting, data, and report tasks are compressed before senior relationship and judgment work.

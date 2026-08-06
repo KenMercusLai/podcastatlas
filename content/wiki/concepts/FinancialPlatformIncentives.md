@@ -2,11 +2,13 @@
 title: "Financial Platform Incentives"
 type: concept
 tags: [finance, incentives, trust, business-model]
-sources: [145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vanguard-1]
-last_updated: 2026-08-06
+sources: [170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vanguard-1]
+last_updated: 2026-08-07
 ---
 
 # Financial Platform Incentives
+
+[[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] adds the historical banking version through [[CharlesEMitchell]] and [[NationalCityBank]]. The episode shows that a trusted financial platform can turn distribution power into risk transmission when branch networks, sales incentives, and institutional reputation make stocks, bonds, or private-credit products feel suitable before the buyer understands the underlying asset.
 
 Financial platform incentives are the business-model forces that determine whether a platform makes more money when users become better long-term investors or when users trade, buy, switch, and pay attention more often. [[e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2]] frames this through [[MengYan]]'s discussion of take rate, fund-distribution fees, homepage slots, advertising-style charges, [[Wealthfront]], [[Robinhood]], [[Vanguard]], and [[YouzhiYouxing]].
 

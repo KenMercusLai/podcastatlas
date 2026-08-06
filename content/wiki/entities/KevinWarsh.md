@@ -2,11 +2,13 @@
 title: "Kevin Warsh"
 type: entity
 tags: [person, central-bank, politics]
-sources: [155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, jerome-powell-and-the-test-of-fed-independence]
-last_updated: 2026-08-06
+sources: [170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, jerome-powell-and-the-test-of-fed-independence]
+last_updated: 2026-08-07
 ---
 
 # Kevin Warsh
+
+[[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] adds Warsh as a source-scoped [[RichardWhitney]]-style silhouette. The episode summary again notes the "Kevin Walsh" spelling in the source, while the wiki keeps the normalized [[KevinWarsh]] page. The point is not misconduct; it is a watchlist around financial authority, wealth disclosures, political appointment, and possible conflicts when a market cycle has not yet been stress-tested.
 
 [[155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi]] adds a more skeptical source-scoped profile. The episode summary spells the name as Kevin Walsh, but the wiki normalizes the target to [[KevinWarsh]]. [[DavidWeng|大卫翁]] argues that Warsh should not be read as a one-dimensional hawk: his prior Fed service, Wall Street and political network, Stanford and Harvard Law background, and willingness to preserve chair authority make him look more like a politically skilled coordinator who may talk hawkishly while compromising in action.
 

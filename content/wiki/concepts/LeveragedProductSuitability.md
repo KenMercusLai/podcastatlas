@@ -2,11 +2,13 @@
 title: "Leveraged Product Suitability"
 type: concept
 tags: [investing, leverage, suitability, risk]
-sources: [vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb]
-last_updated: 2026-08-06
+sources: [170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb]
+last_updated: 2026-08-07
 ---
 
 # Leveraged Product Suitability
+
+[[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] adds a historical analogy for why leveraged access should not be confused with suitability. The episode connects 1920s margin lending and installment-style stock-buying ideas to modern leveraged ETFs, options, and retail leverage, arguing that "ordinary people can participate" is dangerous when it hides path risk and forced deleveraging.
 
 Leveraged product suitability is the practical investor-fit concept added by [[vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb]]. The episode does not say leverage products are inherently evil; it argues that products such as [[ChineseStructuredFund|structured funds]], [[LeveragedETF|leveraged ETFs]], and leveraged ETNs are usually unsuitable for ordinary long-term holding because their loss paths are not intuitive.
 

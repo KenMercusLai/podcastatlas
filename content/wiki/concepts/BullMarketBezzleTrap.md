@@ -2,11 +2,13 @@
 title: "Bull Market Bezzle Trap / 牛市叙事欺诈"
 type: concept
 tags: [investing, bull-market, bubbles, narrative]
-sources: [157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]
-last_updated: 2026-08-06
+sources: [170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]
+last_updated: 2026-08-07
 ---
 
 # Bull Market Bezzle Trap / 牛市叙事欺诈
+
+[[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] adds the [[WilliamDurant]] and [[JiaYueting]] extension. The source's point is that a partially real industrial or technology vision can still become a self-proof trap when the founder, investor, or public market treats future success as already secured.
 
 Bull market bezzle trap is [[157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]]'s investment translation of [[JohnKennethGalbraith]]'s "bezzle" idea from [[TheGreatCrash1929]]. In [[DavidWeng|大卫翁]]'s use, the trap is not necessarily legal fraud. It is the period in a bull market when investors feel enriched by a dream that has not yet been tested by cash flow, execution, cycle position, or exit liquidity.
 

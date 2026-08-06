@@ -2,11 +2,13 @@
 title: "Private-Market Bubble Opacity"
 type: concept
 tags: [private-markets, bubbles, finance, investing, ai]
-sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]
-last_updated: 2026-08-06
+sources: [170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]
+last_updated: 2026-08-07
 ---
 
 # Private-Market Bubble Opacity
+
+[[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] adds a 1929-to-current-cycle analogy through [[FinancialInstitutionTrustTransmission]]. The source says risk may be harder to see today not only because companies remain private, but because insurance liabilities, private-credit marks, retail access, and AI infrastructure finance distribute exposure across institutions that do not reprice like public equities.
 
 [[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] reinforces the same bubble-location warning from a different angle. [[DavidWeng|大卫翁]] says U.S. AI bubble risk may not be obvious in public Nasdaq leaders because many high-revenue companies and much lending now sit outside public markets and banks, making private equity, private credit, and non-bank finance harder to read.
 

@@ -2,11 +2,13 @@
 title: "Rated Note Feeders / 评级票据通道"
 type: concept
 tags: [insurance, credit, private-markets, regulation]
-sources: [151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]
-last_updated: 2026-08-06
+sources: [170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]
+last_updated: 2026-08-07
 ---
 
 # Rated Note Feeders / 评级票据通道
+
+[[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] adds a broader trust-transmission frame through [[ApolloGlobalManagement]] and [[AtheneHolding]]. The episode's concern is that insurance balance sheets and rated structures can make illiquid private credit look more ordinary and institutionally safe, even though the underlying valuation, duration, and liquidity risks remain.
 
 Rated note feeders are [[151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]]'s example of how insurance capital can enter [[PrivateCreditMarket|private credit]] through structures that look more rating-compliant. The source describes these vehicles as packaging illiquid private-credit exposure into rated notes so insurers can satisfy internal, rating, or capital requirements.
 

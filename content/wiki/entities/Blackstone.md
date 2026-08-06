@@ -2,11 +2,13 @@
 title: "Blackstone"
 type: entity
 tags: [company, private-equity, finance, ai]
-sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, vanguard-1]
-last_updated: 2026-08-06
+sources: [170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, vanguard-1]
+last_updated: 2026-08-07
 ---
 
 # Blackstone
+
+[[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] adds Blackstone through the episode's private-credit retailization watchlist. [[DavidWeng|大卫翁]] uses reported large redemption requests at a Blackstone private-credit product as a signal that household- or wealth-channel access can turn illiquid credit into [[FundRedemptionLiquidityPressure]], even when losses do not resemble a 1929-style bank run.
 
 [[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds Blackstone as an example of non-bank/private-market finance becoming central to U.S. risk analysis. [[DavidWeng|大卫翁]] uses a Blackstone-style flexible financing example to argue that possible AI or credit bubbles may sit in private equity, private credit, and non-bank lending channels rather than in public equity indexes alone.
 

@@ -2,11 +2,13 @@
 title: "Oracle"
 type: entity
 tags: [company, cloud, infrastructure, ai]
-sources: [143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
-last_updated: 2026-08-06
+sources: [170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
+last_updated: 2026-08-07
 ---
 
 # Oracle
+
+[[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] adds Oracle to the SoftBank/OpenAI/Stargate financing branch. The episode treats Oracle less as a standalone operating thesis than as one participant in AI infrastructure commitments where [[BubbleFinancingStructure]], [[AICircularInfrastructureFinancing]], and collateral-dependent confidence matter if the cycle turns.
 
 Oracle appears in [[chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]] as one of the cloud and technology companies named in the episode's discussion of Middle East data-center exposure. The hosts describe claims about Oracle-linked regional data-center or AI-infrastructure risk, while also making clear that the transcript itself does not provide external verification for the current-war details.
 

@@ -2,11 +2,13 @@
 title: "AI Circular Infrastructure Financing"
 type: concept
 tags: [ai, infrastructure, financing, bubbles]
-sources: [7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]
-last_updated: 2026-08-05
+sources: [170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]
+last_updated: 2026-08-07
 ---
 
 # AI Circular Infrastructure Financing
+
+[[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] extends the circular-financing concern from vendor-customer loops into a role analogy. The source links [[SoftBank]], [[MasayoshiSon]], [[OpenAI]], [[Oracle]], and [[StargateAIInfrastructure]] to the question of whether AI infrastructure commitments are backed by durable outside demand or by a confidence loop that becomes fragile when collateral, credit ratings, or refinancing pressure change.
 
 AI circular infrastructure financing is the pattern where money, orders, equity investment, and compute purchases circulate among AI infrastructure actors before final third-party demand is fully proven. In [[7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]], the example is [[Nvidia]] investing in [[OpenAI]], OpenAI renting [[CoreWeave]] compute, and CoreWeave buying Nvidia GPUs.
 

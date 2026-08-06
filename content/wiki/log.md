@@ -6306,6 +6306,10 @@ Added source page for a 起朱楼宴宾客 algorithm-series crossover with 独�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-07] ingest | 170.《1929》的泡沫之夏：三个代表人物，和他们在当下周期的影子
+
+Added source page for a 起朱楼宴宾客 episode by 大卫翁 on Andrew Ross Sorkin's 《1929》 as a behavioral-finance and market-psychology reading of the 1929 crash. Created pages for Andrew Ross Sorkin, Sorkin's 《1929》, Richard Whitney, William Durant, Charles E. Mitchell, Masayoshi Son, Jia Yueting, New York Stock Exchange, National City Bank, Athene Holding, Bubble Role Analogy, Financial Institution Trust Transmission, and Glass-Steagall Act; updated overview, index, 起朱楼宴宾客, 大卫翁, SoftBank, OpenAI, Sam Altman, Apollo, Blackstone, Stargate, Oracle, LeEco, Kevin Warsh, Donald Trump, and related bubble, leverage, suitability, private-credit, and AI-infrastructure concepts. No direct contradiction found; the source preserves contemporary mappings as source-scoped analogies rather than accusations.
+
 ## [2026-08-07] ingest | 168. 银与信：一部日本劳工移民的跨洋汇款史
 
 Added source page for a 起朱楼宴宾客 episode with 素 on Japanese labor migration remittances from Hawaii and the U.S. West Coast back to Japan. Created pages for 素, Hawaii, Yokohama Specie Bank, Dillingham Commission, Japanese Labor Migration Remittances, State-Mediated Remittance System, Migrant Family Remittance Obligation, Racialized Remittance Politics, and Archive Preservation Bias; updated overview, index, 起朱楼宴宾客, 大卫翁, Japan, United States, Qiaopi Remittance Networks, Overseas Chinese Mutual Aid Networks, Japanese Labor Shortage Immigration Tension, and Archive Access Tradeoff. No direct contradiction found; the source extends the qiaopi/remittance branch by contrasting a centralized Japanese state-bank archive with decentralized Chinese letter-money networks while caveating uncertain qiaopi figures and the unexamined film parallel.
@@ -6317,6 +6321,10 @@ Ran health before lint; health scanned 8,890 wiki pages and found no empty/stub 
 ## [2026-08-07] ingest | 169.如果你18岁，正考虑未来把金融当职业｜高考季特别策划
 
 Added source page for a 起朱楼宴宾客 gaokao-season finance-career episode by 大卫翁 on finance role segmentation, front/middle/back-office distinctions, relationship capital, market-cycle timing, AI pressure on junior information-processing work, school/city signaling, internships, and industry-to-finance routes. Created pages for Finance Industry Role Segmentation, Finance Relationship Capital, Finance Entry-Level AI Compression, and Industry-To-Finance Career Path; updated overview, index, 起朱楼宴宾客, 大卫翁, 小宇宙, Financial Career Risk, Finance Career Portability, Finance Platform Social Capital, Entry-Level AI Career-Ladder Risk, College Major Choice, College Career Preparation, University Opportunity Density, Internship As Career Exploration, AI Investment Research, AI-Compressed Investment Research Advantage, Quantitative Investing, and Brokerage Research Reports. No direct contradiction found; the source extends existing AI-career and education-planning pages by making finance a role-, platform-, relationship-, and cycle-dependent career choice rather than a simple major or industry-status decision.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 

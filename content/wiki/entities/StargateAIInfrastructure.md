@@ -2,11 +2,13 @@
 title: "Stargate AI Infrastructure"
 type: entity
 tags: [project, ai, infrastructure, politics, cloud]
-sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]
-last_updated: 2026-07-17
+sources: [170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]
+last_updated: 2026-08-07
 ---
 
 # Stargate AI Infrastructure
+
+[[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] adds Stargate to the [[MasayoshiSon]] / [[SoftBank]] and [[OpenAI]] cycle-risk branch. The source treats the project as part of a possible [[WilliamDurant]]-style self-proof structure: if the AI infrastructure cycle works, it may validate a giant industrial bet; if not, financing, collateral, and institutional confidence decide where losses appear.
 
 Stargate AI Infrastructure is the large U.S. AI infrastructure plan discussed in [[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]]. The episode says [[DonaldTrump]] launched the plan at the [[WhiteHouse]] soon after taking office, with [[Oracle]] positioned as a core architecture participant.
 
