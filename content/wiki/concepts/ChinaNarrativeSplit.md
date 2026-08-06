@@ -2,11 +2,13 @@
 title: "China Narrative Split"
 type: concept
 tags: [china, macro, society, distribution]
-sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
 # China Narrative Split
+
+[[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] adds the foreign-investor correction version through [[WesternChinaMisreading]]. The source argues that Western narratives can correctly identify real estate, local debt, deflation, and employment stress while still underreading mobile-first consumption, manufacturing-credit rotation, industrial upgrading, and the possibility that foreign underweight positioning becomes a market catalyst.
 
 China narrative split is the source's warning that different groups experience and describe China's economy differently. In [[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]], [[DavidWeng|大卫翁]] argues that Western investors and politicians often hear China through first- and second-tier-city elites, entrepreneurs, and scholars, while lower-tier-city residents and migrant workers may see different income, housing, public-service, and policy realities.
 

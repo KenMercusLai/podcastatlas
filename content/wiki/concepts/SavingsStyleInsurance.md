@@ -2,11 +2,13 @@
 title: "Savings-Style Insurance"
 type: concept
 tags: [insurance, saving, personal-finance]
-sources: [ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg]
-last_updated: 2026-07-15
+sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg]
+last_updated: 2026-08-06
 ---
 
 # Savings-Style Insurance
+
+[[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] adds a market-cycle reason savings-style insurance can become more attractive. If deposits, money-market funds, bond funds, and bank wealth-management products keep yielding less, long-duration savings and participating policies can pull in household money, then connect indirectly to equities through [[ChinaInsuranceFundsEquityAllocation]].
 
 Savings-style insurance covers long-term insurance products such as annuities, participating policies, and other products sold partly for saving, retirement, education, or wealth-transfer goals. In [[ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw]], the concept is treated as potentially useful but easy to misuse: it can create forced saving and certainty for some households, but it is not a short-term investment product and can punish early exit.
 

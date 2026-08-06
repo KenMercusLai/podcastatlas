@@ -6169,3 +6169,11 @@ Added source page for a 起朱楼宴宾客 episode by 大卫翁 on private credi
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 152.关于2026年的四个猜想
+
+Added source page for a 起朱楼宴宾客 annual-prediction episode by 大卫翁 on four 2026 guesses under “量变引发质变”: Western AI backlash, private-market bubble opacity, Chinese excess savings seeking outlets through equities and insurance, and stale Western China narratives possibly loosening. Created pages for Quantity Change to Quality Change, Private-Market Bubble Opacity, China Excess Savings Reallocation, China Insurance Funds Equity Allocation, Western China Misreading, Bernie Sanders, SoftBank, and Graham Allison; updated overview, index, 起朱楼宴宾客, 大卫翁, China, United States, OpenAI, DeepSeek, SpaceX, Anthropic, Apollo Global Management, Donald Trump, AI Backlash Politics, Entry-Level AI Career-Ladder Risk, Data Center Cost Shifting, Private Credit Market, Private Credit Tail Risk, AI Data-Center Private Credit Financing, Bubble Financing Structure, RMB Exchange Rate Policy, China Narrative Split, China Macro Temperature Gaps, Household Balance-Sheet Repair, Savings-Style Insurance, A/H Share 2025 Barbell, and Hong Kong Tech Repricing. No direct contradiction found; the source qualifies the 2025 four-guesses episode with hindsight and keeps all 2026 claims as source-dated watchlist hypotheses rather than settled facts.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes while the wiki scan found 8,766 pages; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.

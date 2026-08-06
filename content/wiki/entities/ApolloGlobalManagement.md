@@ -2,11 +2,13 @@
 title: "Apollo Global Management"
 type: entity
 tags: [company, finance, private-credit, private-markets]
-sources: [151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]
+sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]
 last_updated: 2026-08-06
 ---
 
 # Apollo Global Management
+
+[[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] uses Apollo again inside the private-market bubble guess. The source cites Apollo's broad private-credit-related market framing to argue that [[PrivateCreditMarket|private credit]] and adjacent non-bank credit channels can be far larger and less transparent than the public equity stories investors usually watch.
 
 Apollo Global Management appears in [[151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]] as one of the private-credit and private-markets giants that make [[PrivateCreditMarket|private credit]] more concentrated and more systemically relevant. The source names Apollo in the [[XAI|xAI]] chip-financing case as the arranger of debt financing for a structure that buys chips and leases them to xAI.
 

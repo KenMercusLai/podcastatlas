@@ -2,11 +2,13 @@
 title: "AI Data-Center Private Credit Financing"
 type: concept
 tags: [ai, data-centers, private-credit, infrastructure, finance]
-sources: [151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]
+sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]
 last_updated: 2026-08-06
 ---
 
 # AI Data-Center Private Credit Financing
+
+[[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] adds the annual-risk context. AI data-center finance is no longer only a product map from episode 151; it becomes a reason [[PrivateMarketBubbleOpacity]] could matter for 2026 if [[OpenAI]], hyperscaler commitments, private credit, insurers, and public-market exit plans become linked.
 
 AI data-center private credit financing is [[151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]]'s most important bridge between [[PrivateCreditMarket|private credit]] and the AI boom. The source argues that AI infrastructure can move from technology-equity risk into credit-market risk when chips, facilities, leases, power, and project companies are financed through private credit and debt structures.
 

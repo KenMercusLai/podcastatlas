@@ -2,11 +2,13 @@
 title: "Entry-Level AI Career-Ladder Risk"
 type: concept
 tags: [ai, labor-market, careers, education]
-sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]
+sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]
 last_updated: 2026-08-06
 ---
 
 # Entry-Level AI Career-Ladder Risk
+
+[[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] extends the concept inside the episode's anti-AI backlash guess. [[DavidWeng|大卫翁]] says AI's early labor effect may appear as smaller future hiring cohorts rather than headline layoffs: companies can keep current teams while replacing some junior research, drafting, and data-preparation work with AI.
 
 Entry-level AI career-ladder risk is [[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]]'s concern that AI can compress the junior work that used to train future senior workers. [[DavidWeng|大卫翁]] says AI is strongest at searching, summarizing, organizing information, and basic data or draft work, which are also common entry-level tasks.
 

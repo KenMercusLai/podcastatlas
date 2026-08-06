@@ -2,11 +2,13 @@
 title: "AI Backlash Politics"
 type: concept
 tags: [ai, politics, public-opinion]
-sources: [tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-08-06
 ---
 
 # AI Backlash Politics
+
+[[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] adds a 2026 annual-prediction version of the concept. [[DavidWeng|大卫翁]] argues that a Western anti-AI wave can form even if AI capability keeps improving, because [[BernieSanders]]-style arguments about job dignity, class distribution, [[DataCenterCostShifting]], and [[EntryLevelAICareerLadderRisk]] attack the social bargain around AI rather than only the technology.
 
 [[live-anthropic-co-founder-on-ai-and-jobs]] adds a redistribution branch through [[JackClark]]. Clark's robot-tax and AI-company-tax proposal makes backlash prevention partly fiscal: if machine production produces concentrated returns, public legitimacy may depend on [[AIAutomationRedistribution]] rather than only reskilling or optimism.
 

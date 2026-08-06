@@ -2,11 +2,13 @@
 title: "Data Center Cost Shifting"
 type: concept
 tags: [ai, data-centers, energy, regulation]
-sources: [tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, indicators-of-2025-and-what-to-watch-in-2026, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, indicators-of-2025-and-what-to-watch-in-2026, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-08-06
 ---
 
 # Data Center Cost Shifting
+
+[[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] adds the annual-prediction version: household electricity bills can turn AI from an abstract productivity promise into a visible cost. The source treats data-center power demand as one practical reason [[AIBacklashPolitics]] could spread beyond labor displacement into everyday affordability politics.
 
 Data center cost shifting is the risk that utilities build grid infrastructure for large data centers while residential customers or other ordinary ratepayers absorb some of the cost through higher bills. [[the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]] adds this as the rate-design version of the wiki's AI infrastructure branch.
 

@@ -2,11 +2,13 @@
 title: "Private Credit Market / 私募信贷市场"
 type: concept
 tags: [credit, finance, private-markets, investing]
-sources: [151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]
+sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]
 last_updated: 2026-08-06
 ---
 
 # Private Credit Market / 私募信贷市场
+
+[[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] revisits private credit as part of [[PrivateMarketBubbleOpacity]]. The source keeps the 151 explanation intact, but adds a 2026 watchlist claim: if investors focus only on public tech-stock valuations, they may miss private credit's opacity, bank and insurer links, and regulation lag.
 
 Private credit market is [[151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]]'s umbrella for non-public, non-bank or bank-adjacent lending arranged mainly by funds and asset managers. [[DavidWeng|大卫翁]] frames it as useful credit intermediation and a possible fragility source at the same time.
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [152.关于2026年的四个猜想](sources/152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz.md) — 起朱楼宴宾客 annual-prediction episode on 2026 threshold risks: Western AI backlash, private-market bubble opacity, Chinese excess savings seeking equity/insurance outlets, and Western China narratives possibly loosening.
 - [151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？](sources/151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1.md) — 起朱楼宴宾客 episode on private credit, direct lending, ABF, insurer funding, bank risk transfers, PIK, AI data-center project debt, and whether opaque credit channels can turn AI infrastructure enthusiasm into systemic financial risk.
 - [150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方](sources/150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g.md) — 起朱楼宴宾客 episode reading 洪源远, 李璐, and Dan Wang together on Chinese modernization, poverty-trap escape, weak institutions, directed improvisation, engineering-state process knowledge, and next-stage cultural/service-governance gaps.
 - [149.百五特辑：和两位老媒体人漫谈播客、媒介以及声音生态的未来](sources/149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga.md) — 起朱楼宴宾客 crossover with 杨一 and 欧阳斌 on Chinese podcasting, media trust, living-person voice, platform algorithms, brand podcasts, fragmented commercialization, and long-form audio as a minority but durable medium.
@@ -772,6 +773,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Bernie Sanders](entities/BernieSanders.md) — U.S. political figure used by episode 152 to frame anti-AI backlash around job dignity, class distribution, and technology gains.
+- [SoftBank](entities/SoftBank.md) — Technology investment company used by episode 152 as a private-market AI capital-rotation example.
+- [Graham Allison](entities/GrahamAllison.md) — Political scientist referenced by episode 152 to frame China-U.S. mutual worldviews and great-power self-centering.
 - [Apollo Global Management](entities/ApolloGlobalManagement.md) — Private-market manager named by episode 151 as a major private-credit actor and arranger in the xAI chip-financing case.
 - [KKR](entities/KKR.md) — Private-market manager used by episode 151 to show private-credit concentration and insurance-linked funding scale.
 - [Ares Management](entities/AresManagement.md) — Private-credit manager named by episode 151 in both the large-manager cluster and the Pluralsight lender case.
@@ -5299,6 +5303,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Quantity Change to Quality Change / 量变引发质变](concepts/QuantityChangeQualityChange.md) — Episode 152 threshold-forecasting frame for accumulated AI, private-market, savings, and China-narrative pressures becoming visible.
+- [Private-Market Bubble Opacity](concepts/PrivateMarketBubbleOpacity.md) — Episode 152 warning that bubble risk may sit in private equity, private credit, and late-stage AI companies rather than only public tech stocks.
+- [China Excess Savings Reallocation / 中国超额储蓄再配置](concepts/ChinaExcessSavingsReallocation.md) — Episode 152 thesis that post-2022 Chinese household savings may seek outlets through stocks, funds, and savings-style insurance.
+- [China Insurance Funds Equity Allocation / 中国险资入市](concepts/ChinaInsuranceFundsEquityAllocation.md) — Episode 152 mechanism where low yields, policy treatment, and accounting rules can push insurers toward equities.
+- [Western China Misreading / 西方对中国的误读](concepts/WesternChinaMisreading.md) — Episode 152 frame for stale Western China narratives potentially loosening when asset, currency, earnings, or technology triggers appear.
 - [Private Credit Market / 私募信贷市场](concepts/PrivateCreditMarket.md) — Episode 151 umbrella for private credit as useful non-public lending and possible opaque credit-cycle fragility.
 - [Direct Lending / 直接贷款](concepts/DirectLending.md) — Largest private-credit strategy in episode 151, where funds or asset managers lend directly to companies.
 - [Asset-Based Finance / ABF](concepts/AssetBasedFinance.md) — Private-credit strategy focused on collateral or asset cash flows such as receivables, equipment leases, data centers, and royalties.

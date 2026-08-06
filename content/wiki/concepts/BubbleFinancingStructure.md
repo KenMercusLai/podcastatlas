@@ -2,11 +2,13 @@
 title: "Bubble Financing Structure"
 type: concept
 tags: [bubbles, investing, finance, ai, risk]
-sources: [151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]
+sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]
 last_updated: 2026-08-06
 ---
 
 # Bubble Financing Structure
+
+[[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] adds a private-market-location warning. [[DavidWeng|大卫翁]] argues that observers may be looking for the bubble in familiar public equity places while debt, private-company valuation, and AI capital commitments build in less transparent venues such as [[PrivateCreditMarket|private credit]] and late-stage private AI companies.
 
 [[151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]] adds the detailed debt-transmission branch. The source argues that AI can still be a productive technology cycle while becoming more dangerous if [[AIDataCenterPrivateCreditFinancing]], [[PrivateCreditMarket|private credit]], insurance capital, bank risk-transfer structures, and wealth-management distribution finance the buildout.
 

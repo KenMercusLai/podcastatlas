@@ -2,11 +2,13 @@
 title: "Household Balance-Sheet Repair"
 type: concept
 tags: [household-finance, debt, investing, psychology]
-sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, 173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe]
+sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, 173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe]
 last_updated: 2026-08-06
 ---
 
 # Household Balance-Sheet Repair
+
+[[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] adds the excess-savings outcome of household caution. The source argues that post-2022 deposits accumulated because precautionary saving, real-estate stress, low inflation, and weak implicit-guarantee confidence made cash feel safer, but falling low-risk yields may eventually force [[ChinaExcessSavingsReallocation]].
 
 Household balance-sheet repair is the private deleveraging frame [[FuYu|傅宇]] develops in [[vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]]. Looking back at the late-2010s logic of buying homes, cars, and parking spaces with leverage, he says his household later focused on early mortgage repayment and treated it as a psychologically stable return.
 
