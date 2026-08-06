@@ -2,8 +2,8 @@
 title: "Option Contract Mechanics"
 type: concept
 tags: [investing, options, derivatives]
-sources: [ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]
-last_updated: 2026-07-08
+sources: [vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]
+last_updated: 2026-08-06
 ---
 
 # Option Contract Mechanics
@@ -14,6 +14,8 @@ The key distinction is buyer versus seller. The buyer pays [[OptionPremiumPricin
 
 [[e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]] adds a more technical tail-risk version through [[XuZhe]]. Options are not treated as simple insurance contracts but as volatility-sensitive instruments that can be combined, hedged, sold, or owned to create [[ConvexityExposure]] and [[AsymmetricPayoff]].
 
+[[vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]] adds the holder-fit warning. [[DavidWeng|大卫翁]] says U.S. stock options were a relatively failed battle for him because expiry pressure made the position feel incompatible with his preferred multi-year investment horizon, even when volatility itself looked like an opportunity.
+
 ## Key Claims
 - Calls give the buyer upside exposure if the underlying rises above the strike price before expiration.
 - Puts give the buyer downside protection or downside exposure if the underlying falls below the strike price.
@@ -21,6 +23,7 @@ The key distinction is buyer versus seller. The buyer pays [[OptionPremiumPricin
 - A single option contract often represents many units of the underlying asset, so small cash outlays can control large notional exposure.
 - Understanding rights, obligations, strike price, expiration, and contract size matters before discussing strategy.
 - E43 adds that option mechanics become materially harder when the goal is portfolio-level [[Antifragility]] rather than a single payoff diagram.
+- Vol.124 adds that expiration is not only a pricing variable; it can change behavior, sleep, and willingness to hold through uncertainty.
 
 ## Connections
 - [[OptionPremiumPricing]] — what the buyer pays and what the seller receives for the contract.
@@ -29,3 +32,4 @@ The key distinction is buyer versus seller. The buyer pays [[OptionPremiumPricin
 - [[GammaSqueeze]] — market-structure effect that can emerge when many call contracts need hedging.
 - [[InvestmentRiskManagement]] — risk-control frame for deciding whether the contract is a hedge or a leveraged bet.
 - [[ConvexityExposure]], [[AsymmetricPayoff]], and [[TailRiskHedging]] — E43's portfolio-structure extension.
+- [[PortfolioSuitability]], [[SleepWellPortfolioTest]], and [[ConvertibleBond]] — vol.124's instrument-fit contrast.

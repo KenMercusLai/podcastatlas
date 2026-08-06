@@ -5956,3 +5956,11 @@ Added source page for a 起朱楼宴宾客 episode on Trump’s April 2025 recip
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | vol.124.信息过载后如何保持冷静？ | 投资账复盘
+
+Added source page for a 起朱楼宴宾客 first-quarter investment review by 大卫翁 on information overload, Howard Marks's "nobody knows" discipline, macro event versus macro trend filtering, the 1:1:1 allocation anchor, China-related offense, cash-like defense, gold and REIT income/hedge assets, leveraged ETF decay, mainland REITs, convertible bonds, option time-pressure mismatch, and the sleep-well portfolio test. Created pages for Howard Marks, Macro Event vs Macro Trend Distinction, 1:1:1 Allocation Anchor, Convertible Bond, and Sleep-Well Portfolio Test; updated overview, index, 起朱楼宴宾客, 大卫翁, Tencent, Alibaba, DeepSeek, Information Overload Knowledge Trap, Asset Allocation, Investment Risk Management, Portfolio Suitability, Real Estate Investment Trust, Leveraged ETF, Volatility Decay, Barbell Strategy, Retirement Cash-Flow Security, Option Contract Mechanics, China Policy Easing Pivot, Gold Monetary Anchor, and A/H Share 2025 Barbell. No direct contradiction found; the source reinforces earlier tariff-shock, macro-allocation, and leveraged-product warnings while adding a stronger behavioral claim that information, knowledge, and action should be separated until the portfolio still lets the investor sleep and act deliberately.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

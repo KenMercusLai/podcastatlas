@@ -2,7 +2,7 @@
 title: "Portfolio Suitability"
 type: concept
 tags: [investing, portfolio, personal-finance, behavior]
-sources: [vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+sources: [vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
 last_updated: 2026-08-06
 ---
 
@@ -22,6 +22,8 @@ The personal side is a two-axis map. One axis asks what the investor needs: liqu
 
 [[vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb]] adds the leverage-product version. The source argues that products such as [[LeveragedETF|leveraged ETFs]], [[FNGU]]-style ETNs, and [[ChineseStructuredFund|structured funds]] are suitable only when the investor's horizon, sizing, exit plan, and understanding of reset, conversion, premium, financing, and credit risk match the tool.
 
+[[vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]] adds the time-pressure version. [[DavidWeng|大卫翁]] says short-expiry options did not fit him even when the market direction seemed tradable, because expiration pressure made him worry, sell, or stop out in ways that conflicted with his usual multi-year horizon. The same source turns "can I sleep?" into a practical suitability test through [[SleepWellPortfolioTest]].
+
 ## Key Claims
 - Suitability is not a universal model portfolio; it is the match between portfolio job, investor understanding, and tolerable risk path.
 - Near-term money should not be placed in the same assets as long-term FIRE, passive-income, or intergenerational goals.
@@ -35,6 +37,7 @@ The personal side is a two-axis map. One axis asks what the investor needs: liqu
 - Vol.112 adds that manager suitability is part of fund suitability: a fund's label is less important than whether the holder understands the manager's process, values, weaknesses, and risk-sharing terms.
 - Vol.119 adds that information-work suitability matters: a person should not read sell-side reports as a substitute for deciding whether active stock or macro research fits their own goals and competence.
 - Vol.121 adds that product mechanics belong inside suitability: an ETF or fund can be easy to buy while still unsuitable for long-horizon capital.
+- Vol.124 adds that time structure is part of suitability: options, convertible bonds, REITs, and cash-like assets can create very different anxiety paths even when the market view is similar.
 
 ## Connections
 - [[AssetAllocation]] — broader portfolio construction discipline.
@@ -48,3 +51,4 @@ The personal side is a two-axis map. One axis asks what the investor needs: liqu
 - [[ActiveManagementStyleEvolution]], [[LanXiaokang]], and [[ZhongouFund]] — vol.112's active-manager suitability extension.
 - [[BrokerageResearchReports]] and [[ResearchReportReadingDiscipline]] — vol.119's report-reading suitability extension.
 - [[LeveragedProductSuitability]], [[LeveragedETF]], [[ChineseStructuredFund]], and [[ETNCreditRisk]] — vol.121's leverage-product extension.
+- [[SleepWellPortfolioTest]], [[OptionContractMechanics]], [[ConvertibleBond]], and [[OneToOneToOneAllocation]] — vol.124's time-pressure and life-state suitability extension.

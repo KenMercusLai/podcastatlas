@@ -2,7 +2,7 @@
 title: "Barbell Strategy"
 type: concept
 tags: [investing, risk, uncertainty]
-sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]
+sources: [vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]
 last_updated: 2026-08-06
 ---
 
@@ -16,6 +16,8 @@ The concept connects [[NassimTaleb]]'s uncertainty thinking to both investing an
 
 [[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] adds an A/H equity version through [[AHShare2025Barbell]]. One side is [[DefensiveDividendAssets]] priced more by cash flow and shareholder return; the other is [[NewQualityProductiveForces]] exposure priced more by future technology and policy optionality.
 
+[[vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]] adds a modified allocation cousin through [[OneToOneToOneAllocation]]. The host's 1:1:1 anchor is not a pure barbell because it adds a middle sleeve for income and hedges, but it shares the barbell concern with separating offensive risk, defensive liquidity, and behaviorally tolerable downside.
+
 ## Key Claims
 - A barbell is a structure, not a fixed product allocation rule.
 - The high-upside side must be priced and sized so failure remains survivable.
@@ -24,6 +26,7 @@ The concept connects [[NassimTaleb]]'s uncertainty thinking to both investing an
 - The life-design version protects health, cash, and relationships before seeking upside contact.
 - The luck version uses [[LowCostExperimentation]] to keep the upside side active without sacrificing the stable base.
 - Vol.115 adds that a barbell can separate Fact-style cash-flow exposure from Future-style technology exposure, but the risky side still needs sizing and patience.
+- Vol.124 adds that a behaviorally useful allocation may borrow barbell logic without staying two-sided; the point is knowing which assets provide attack, defense, income, and sleep.
 
 ## Connections
 - [[Antifragility]] — broader uncertainty frame.
@@ -32,3 +35,4 @@ The concept connects [[NassimTaleb]]'s uncertainty thinking to both investing an
 - [[CareerOptionality]] and [[LifeAntifragility]] — non-market analogues.
 - [[LuckAsInformationBandwidth]] and [[InformationEntropyAsOpportunity]] — episode 172's opportunity-side extension.
 - [[AHShare2025Barbell]], [[FactFutureAssetPricing]], [[DefensiveDividendAssets]], and [[NewQualityProductiveForces]] — vol.115 equity-market extension.
+- [[OneToOneToOneAllocation]], [[InvestmentLiquidityTradeoff]], [[RetirementCashFlowSecurity]], and [[SleepWellPortfolioTest]] — vol.124 allocation-anchor extension.

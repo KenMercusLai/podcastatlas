@@ -3,6 +3,7 @@ title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
 sources:
+  - vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l
   - vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx
   - tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128
   - vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv
@@ -67,6 +68,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 [[vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3]] adds the research-consumption version: using [[BrokerageResearchReports|brokerage research reports]] safely means separating evidence from recommendation pressure. Reports can improve data, context, and industry framing, but public ratings, target prices, and conclusions should not override position sizing, liquidity, [[PortfolioSuitability]], or the investor's own [[CircleOfCompetence]].
 
 [[vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb]] adds the leveraged-product mechanics version: risk management must identify whether a product's losses come from [[StructuredFundDownwardConversion|downward conversion]], [[DailyLeverageReset|daily reset]], [[VolatilityDecay|volatility decay]], [[FuturesRollCost|roll cost]], [[LeveragedETNFinancingCost|financing cost]], premium collapse, or [[ETNCreditRisk|issuer credit risk]] before sizing or holding it.
+
+[[vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]] adds the information-overload version. Risk management begins before the trade: separate incoming information from knowledge, distinguish [[MacroEventTrendDistinction|macro events from macro trends]], avoid treating group-chat panic as a signal, and size the portfolio so it passes the [[SleepWellPortfolioTest]].
 
 [[ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]] adds the retail-gold version: even an asset associated with safety can create stress when the buyer enters after a fast run-up, allocates too much, or uses borrowed money. The source treats gold's form factor - jewelry, physical gold, accumulated grams, or ETF-like exposure - as part of risk management because each route changes liquidity, premium, and behavior.
 
@@ -182,6 +185,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 - Vol.115 adds that an asset ranking is not an allocation plan until it names position role, time horizon, drawdown tolerance, and whether the expected return now comes from carry, cash flow, valuation repair, or future belief.
 - Public crypto reserves require a higher institutional risk bar than private crypto exposure because fund purpose, taxpayer exposure, custody, liquidity, and emergency-use rules must be explicit.
 - Vol.121 adds that exchange-traded product access does not simplify product risk: leverage mechanics, legal wrapper, premium, reset, roll, financing, and issuer risk must be understood before position size or holding period is chosen.
+- Vol.124 adds that a portfolio can be too risky even before capital loss if information overload, expiry pressure, or position size damages sleep, judgment, and the ability to act deliberately.
 
 ## Connections
 - [[PublicCryptoInvestmentRisk]], [[StateCryptoReserves]], [[SeparateCryptoReserveFund]], [[SeizedDigitalAssetCustody]], and [[Bitcoin]] - state public-finance crypto branch added by Marketplace Tech.
@@ -228,3 +232,4 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[InvestmentWorldviewFit]], [[RiskPerception]], [[HumanCapitalInflationHedge]], and [[TheCenturyTrilogy]] — vol.110's worldview, psychology, and historical-uncertainty extension.
 - [[HouseholdGoldSavings]], [[OnlineGoldAccumulation]], [[AntFortune]], and [[GoldMonetaryAnchor]] — EP268's retail-gold, platform, and household-reserve extension.
 - [[ChineseStructuredFund]], [[LeveragedETF]], [[LeveragedProductSuitability]], [[DailyLeverageReset]], [[VolatilityDecay]], [[FuturesRollCost]], [[LeveragedETNFinancingCost]], and [[ETNCreditRisk]] — vol.121's leveraged-product mechanics cluster.
+- [[InformationOverloadKnowledgeTrap]], [[MacroEventTrendDistinction]], [[OneToOneToOneAllocation]], [[ConvertibleBond]], and [[SleepWellPortfolioTest]] — vol.124's information-overload and portfolio-review extension.

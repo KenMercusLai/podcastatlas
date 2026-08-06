@@ -7063,6 +7063,10 @@
     "title": "Conversational Search Interface",
     "url": "/wiki/concepts/conversationalsearchinterface/"
   },
+  "ConvertibleBond": {
+    "title": "Convertible Bond / 可转债",
+    "url": "/wiki/concepts/convertiblebond/"
+  },
   "ConvexityExposure": {
     "title": "Convexity Exposure",
     "url": "/wiki/concepts/convexityexposure/"
@@ -13623,6 +13627,10 @@
     "title": "Howard Lutnick",
     "url": "/wiki/entities/howardlutnick/"
   },
+  "HowardMarks": {
+    "title": "Howard Marks / 霍华德·马克斯",
+    "url": "/wiki/entities/howardmarks/"
+  },
   "HuGe": {
     "title": "胡戈 / Hu Ge",
     "url": "/wiki/entities/huge/"
@@ -17767,6 +17775,10 @@
     "title": "Macro Asset Expression",
     "url": "/wiki/concepts/macroassetexpression/"
   },
+  "MacroEventTrendDistinction": {
+    "title": "Macro Event vs Macro Trend Distinction",
+    "url": "/wiki/concepts/macroeventtrenddistinction/"
+  },
   "MacroNarrativeAnxiety": {
     "title": "Macro Narrative Anxiety",
     "url": "/wiki/concepts/macronarrativeanxiety/"
@@ -20634,6 +20646,10 @@
   "OneThreeFiveSevenConsumerSegmentation": {
     "title": "One Three Five Seven Consumer Segmentation",
     "url": "/wiki/concepts/onethreefivesevenconsumersegmentation/"
+  },
+  "OneToOneToOneAllocation": {
+    "title": "1:1:1 Allocation Anchor",
+    "url": "/wiki/concepts/onetoonetooneallocation/"
   },
   "OneWayDoorProduct": {
     "title": "One Way Door Product",
@@ -25806,6 +25822,10 @@
   "SleepAsDailyHealthAccount": {
     "title": "Sleep As Daily Health Account",
     "url": "/wiki/concepts/sleepasdailyhealthaccount/"
+  },
+  "SleepWellPortfolioTest": {
+    "title": "Sleep-Well Portfolio Test / 睡眠理论",
+    "url": "/wiki/concepts/sleepwellportfoliotest/"
   },
   "SlockAI": {
     "title": "Slock.ai / Slock AI",
@@ -33550,6 +33570,10 @@
   "vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6": {
     "title": "vol.123.特朗普的“对等”关税案：不止是一场大型服从性测试",
     "url": "/wiki/sources/vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6/"
+  },
+  "vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l": {
+    "title": "vol.124.信息过载后如何保持冷静？ | 投资账复盘",
+    "url": "/wiki/sources/vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l/"
   },
   "vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1": {
     "title": "Vol. 160 一年多以后，再聊AI写代码Vibe Coding",

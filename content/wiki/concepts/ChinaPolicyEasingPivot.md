@@ -2,7 +2,7 @@
 title: "China Policy Easing Pivot"
 type: concept
 tags: [china, macro, monetary-policy, fiscal-policy]
-sources: [vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]
+sources: [vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]
 last_updated: 2026-08-06
 ---
 
@@ -14,6 +14,8 @@ The concept is a [[PolicyDrivenMarketRally]] frame, but with an important caveat
 
 [[vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6]] adds the tariff-response version. The episode argues that after [[EffectiveTariffRateShock]], investors will care less about abstract confidence language and more about whether China responds through larger stimulus, monetary adjustment, and [[RMBExchangeRatePolicy]] choices that can cushion export weakness.
 
+[[vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]] adds the portfolio-positioning version after the tariff panic. [[DavidWeng|大卫翁]] keeps roughly one-third China-related offensive exposure because he believes China and other economies still have policy tools, but he places that thesis inside [[OneToOneToOneAllocation]] rather than letting policy optimism dominate the whole portfolio.
+
 ## Key Claims
 - The September 2024 policy turn improved confidence before fundamentals had visibly repaired.
 - Monetary constraints around cross-cycle patience, saving policy room, and bank net-interest margins are described as looser than before.
@@ -22,6 +24,7 @@ The concept is a [[PolicyDrivenMarketRally]] frame, but with an important caveat
 - The December meetings confirmed policy direction without fully satisfying the market's desire for explicit fiscal numbers.
 - The pivot matters for markets because it can lift valuations first, but it still needs [[ChinaFiscalExpansionChannels]] to transmit into real cash flow.
 - Vol.123 adds that export shock can make policy response the main market question, especially if direct and transshipment-related U.S. demand both fall.
+- Vol.124 adds that policy room can justify offensive exposure without eliminating the need for cash-like defense and sleep-tested sizing.
 
 ## Connections
 - [[PeoplesBankOfChina]] — central-bank actor in the monetary-policy side.
@@ -30,3 +33,4 @@ The concept is a [[PolicyDrivenMarketRally]] frame, but with an important caveat
 - [[PolicyDrivenMarketRally]], [[AShareValuationIndicators]], and [[AHShare2025Barbell]] — market-pricing branch.
 - [[ShortTermDemandBeforeLongTermReform]] — sequencing rule that keeps the pivot from becoming a pure sentiment story.
 - [[EffectiveTariffRateShock]], [[ReciprocalTariffFormula]], [[SupplyChainSovereignty]], and [[MarketRegimeShift]] — tariff-shock context added by Qizhulou vol.123.
+- [[OneToOneToOneAllocation]], [[AHShare2025Barbell]], [[DefensiveDividendAssets]], and [[SleepWellPortfolioTest]] — portfolio-sizing context added by Qizhulou vol.124.

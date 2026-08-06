@@ -2,7 +2,7 @@
 title: "大卫翁 / David Weng"
 type: entity
 tags: [person, podcast, investing]
-sources: [vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt, vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]
+sources: [vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt, vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]
 last_updated: 2026-08-06
 ---
 
@@ -26,6 +26,8 @@ In [[vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanj
 
 In [[vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb]], he turns the show's investing-risk thread toward public leveraged products. His synthesis connects Chinese [[ChineseStructuredFund|structured funds]], B-share [[StructuredFundDownwardConversion|downward conversion]], and 2015 retail damage to overseas [[LeveragedETF|leveraged ETFs]], [[FNGU]]-style ETNs, [[DailyLeverageReset]], [[VolatilityDecay]], financing cost, and [[LeveragedProductSuitability]].
 
+In [[vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]], he records a first-quarter investment review that makes uncertainty management more explicit. He uses [[HowardMarks|Howard Marks]] to argue that information is not knowledge, then reviews [[OneToOneToOneAllocation]], mainland [[RealEstateInvestmentTrust|REITs]], [[ConvertibleBond|convertible bonds]], and option misfit through [[PortfolioSuitability]] and the [[SleepWellPortfolioTest]].
+
 ## Connections
 - [[QizhulouYanBinke|起朱楼宴宾客]] — source show.
 - [[SanDianXiaban|三点下班]] and [[Haoge|浩哥]] — crossover partner and conversation counterpart.
@@ -39,3 +41,4 @@ In [[vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-
 - [[BrokerageResearchReports]], [[SellSideResearchIncentives]], [[ResearchReportReadingDiscipline]], and [[MacroResearchPublicExpression]] — vol.119 sell-side research branch.
 - [[JapaneseHealthcareSystem]], [[JapaneseMedicalCollapse]], [[HighCostMedicalExpenseBenefit]], [[CommunityIntegratedCare]], [[DPCDRGPaymentReform]], and [[JapaneseDrugPricingReform]] — vol.120 healthcare-system branch.
 - [[ChineseStructuredFund]], [[StructuredFundDownwardConversion]], [[LeveragedETF]], [[FNGU]], [[TMF]], and [[LeveragedProductSuitability]] — vol.121 leveraged-product branch.
+- [[HowardMarks]], [[MacroEventTrendDistinction]], [[OneToOneToOneAllocation]], [[ConvertibleBond]], and [[SleepWellPortfolioTest]] — vol.124 information-overload and portfolio-review branch.

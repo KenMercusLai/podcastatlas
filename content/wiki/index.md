@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.124.信息过载后如何保持冷静？ | 投资账复盘](sources/vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l.md) — 起朱楼宴宾客 first-quarter investment review on information overload, Howard Marks's "nobody knows" discipline, macro event versus trend filtering, a 1:1:1 allocation anchor, mainland REITs, convertible bonds, options fit, and the sleep-well portfolio test.
 - [vol.123.特朗普的“对等”关税案：不止是一场大型服从性测试](sources/vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6.md) — 起朱楼宴宾客 episode on Trump’s April 2025 reciprocal-tariff shock, the deficit-based tariff formula, ally compliance testing, China export exposure, multinational tax optimization, market regime risk, and patrimonial governance.
 - [vol.121.从昙花一现的分级基金到风头正劲的杠杆ETF：永远不要低估人性的疯狂](sources/vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb.md) — 起朱楼宴宾客 episode on Chinese structured funds, 2015 B-share downward conversions, leveraged ETFs and ETNs including FNGU, TMF, TQQQ, and NVDL, and why ordinary investors should treat retail leverage as a short-horizon tool rather than a long-term holding.
 - [vol.120.日本医疗体系的崩溃与重生：医院、药品、医保三角困局的一种解法](sources/vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt.md) — 起朱楼宴宾客 episode with 大卫翁 on Japan's healthcare reform from 1990s medical collapse to a hospital-drug-insurance system built around public coverage, high-cost caps, triage, community care, DPC/DRG payment, drug-pricing reform, generic-drug trust, and pharmacist expansion.
@@ -745,6 +746,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Howard Marks / 霍华德·马克斯](entities/HowardMarks.md) — Investor and memo writer used by vol.124 as the "nobody knows" uncertainty discipline for information overload and deliberate inaction.
 - [Vietnam](entities/Vietnam.md) — Country used by vol.123 as the reciprocal-tariff formula example and a U.S.-dependent supply-chain pressure point.
 - [Ireland](entities/Ireland.md) — Tax-jurisdiction example in vol.123's globalization tax-optimization explanation.
 - [Max Weber](entities/MaxWeber.md) — Sociological reference for vol.123's patrimonial-governance frame.
@@ -5145,6 +5147,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Macro Event vs Macro Trend Distinction](concepts/MacroEventTrendDistinction.md) — Vol.124 rule separating noisy macro shocks from slower investable trends that can be expressed through allocation.
+- [1:1:1 Allocation Anchor](concepts/OneToOneToOneAllocation.md) — Vol.124 source-scoped portfolio anchor dividing assets into China-related offense, cash-like defense, and income-or-hedge sleeves.
+- [Convertible Bond / 可转债](concepts/ConvertibleBond.md) — Vol.124 hybrid debt/equity instrument case with a bond-floor reference, credit-risk analysis, upside participation, and sell-down discipline.
+- [Sleep-Well Portfolio Test / 睡眠理论](concepts/SleepWellPortfolioTest.md) — Vol.124 behavioral risk-tolerance test that sizes exposure by whether the investor can sleep, live, and keep judgment.
 - [Reciprocal Tariff Formula](concepts/ReciprocalTariffFormula.md) — Vol.123 concept for a deficit-based tariff calculation presented as reciprocity.
 - [Tariff Compliance Test](concepts/TariffComplianceTest.md) — Vol.123 frame for tariffs as market-access pressure on allies and trading partners.
 - [Globalization Tax Optimization](concepts/GlobalizationTaxOptimization.md) — Vol.123 explanation of tariffs as a rough response to multinational profit and tax-base separation.

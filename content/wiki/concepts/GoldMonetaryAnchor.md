@@ -2,7 +2,7 @@
 title: "Gold Monetary Anchor"
 type: concept
 tags: [macro, gold, monetary-system, investing]
-sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+sources: [vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
 last_updated: 2026-08-06
 ---
 
@@ -24,6 +24,8 @@ The source also connects gold to [[RiskParity]] and multi-asset strategy. If a s
 
 [[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] adds a 2025 allocation caveat. The episode treats gold as still useful for risk diversification and geopolitical or monetary uncertainty, but not as a positive-carry asset; it warns that retail investors using a trading mindset can suffer from larger swings and poor entry timing.
 
+[[vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]] adds the hedge-sleeve version inside [[OneToOneToOneAllocation]]. [[DavidWeng|大卫翁]] places gold in the third "1" alongside income or potential passive-income assets: it does not pay interest, but it can hedge sovereign-currency depreciation and reduce dependence on China-equity or cash-like sleeves.
+
 ## Key Claims
 - Gold should be analyzed through monetary-system credibility, debt, central-bank balance sheets, and geopolitical order, not only through CPI.
 - Its role in a portfolio depends on [[AssetCorrelation]] and the specific macro regime.
@@ -35,6 +37,7 @@ The source also connects gold to [[RiskParity]] and multi-asset strategy. If a s
 - Household gold still needs [[InvestmentRiskManagement]] because the safety narrative can be overwhelmed by large position size, high entry price, leverage, or poor liquidity.
 - Vol.112 adds that gold's 2024 strength can be read as part of a broader [[NewOrderAssetPricing]] debate, not only as a single-asset performance story.
 - Vol.115 adds that gold's portfolio role is diversification and optional trade exposure, not yield; this makes sizing and entry behavior central.
+- Vol.124 adds that gold can belong in an income-or-hedge sleeve even though it has no cash yield, as long as its role is currency-risk hedging rather than short-term signal chasing.
 
 ## Connections
 - [[Bitcoin]], [[DigitalGold]], and [[BitcoinSafeHavenBehavior]] - March 12 Marketplace Tech comparison between gold and Bitcoin under Iran-crisis stress.
@@ -48,3 +51,4 @@ The source also connects gold to [[RiskParity]] and multi-asset strategy. If a s
 - [[HouseholdGoldSavings]], [[OnlineGoldAccumulation]], [[AntFortune]], and [[TalkSanlian]] — household and platform branch added by EP268.
 - [[DonaldTrump]], [[MarketRegimeShift]], and [[NewOrderAssetPricing]] — vol.112's year-review and order-uncertainty branch.
 - [[AssetAllocation]], [[InvestmentRiskManagement]], [[CommodityPriceExposure]], and [[FactFutureAssetPricing]] — vol.115 cross-asset allocation extension.
+- [[OneToOneToOneAllocation]], [[RetirementCashFlowSecurity]], [[InvestmentLiquidityTradeoff]], and [[SleepWellPortfolioTest]] — vol.124 hedge-sleeve and portfolio-comfort extension.
