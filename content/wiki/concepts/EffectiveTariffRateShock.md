@@ -2,7 +2,7 @@
 title: "Effective Tariff Rate Shock"
 type: concept
 tags: [trade, tariffs, macro, public-policy]
-sources: [vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, battlefield-rare-earths-how-the-us-lost-to-china, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026]
+sources: [bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, battlefield-rare-earths-how-the-us-lost-to-china, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026]
 last_updated: 2026-08-06
 ---
 
@@ -20,6 +20,8 @@ The concept extends [[BlanketTariffLimit]] by making tariff policy visible as a 
 
 [[battlefield-rare-earths-how-the-us-lost-to-china]] adds a strategic-input spillover. The episode says [[DonaldTrump]]'s April 2025 "Liberation Day" tariffs were followed by [[China]] limiting exports of some rare earths needed by the [[UnitedStates]], turning tariff conflict into [[RareEarthExportLeverage]] and defense-supply exposure.
 
+[[bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu]] adds a financial-market spillover: the hosts say Trump's sudden 100% China-tariff message directly triggered a crypto flash crash, while the actual market damage depended on [[CryptoLeverageLiquidityCascade]]. This makes tariff shock a cross-asset trigger, not only a consumer-price or legal-authority story.
+
 ## Key Claims
 - Effective tariff rates matter because they summarize the tariff burden that reaches import prices and consumers.
 - A tariff shock can be both macroeconomic and institutional: it affects markets and prices while also testing executive authority.
@@ -29,6 +31,7 @@ The concept extends [[BlanketTariffLimit]] by making tariff policy visible as a 
 - The rare-earth source shows that tariff shocks can trigger upstream supply-chain responses even when the visible tariff debate is about consumer prices and legal authority.
 - The Qizhulou vol.123 source adds that the shock can arrive through a [[ReciprocalTariffFormula]] whose rates are much higher than ordinary reciprocal tariff bargaining would suggest.
 - The Qizhulou vol.128 source adds that [[TariffConsumerPricePassThrough]] and [[TariffExemptionPressureValve]] decide how much of the headline shock households actually feel.
+- 不熄灯 E02 adds that tariff headlines can trigger leveraged crypto-market cascades even when the deeper fragility sits inside market structure.
 
 ## Connections
 - [[GregRosalsky]] - source participant pitching tariffs.
@@ -39,3 +42,4 @@ The concept extends [[BlanketTariffLimit]] by making tariff policy visible as a 
 - [[ConsumerSentimentIndicator]] and [[FederalFundsRateAsPolicySignal]] - adjacent macro indicators affected by inflation, uncertainty, and policy credibility.
 - [[RareEarthExportLeverage]], [[RareEarthProcessingBottleneck]], and [[StateBackedRareEarthRebuilding]] - strategic-materials response added by Planet Money.
 - [[TariffConsumerPricePassThrough]], [[TariffExemptionPressureValve]], and [[DeglobalizationTradeIntermediation]] - consumer and rerouting branch added by Qizhulou vol.128.
+- [[CryptoLeverageLiquidityCascade]], [[CryptocurrencyMarketStructure]], and [[DonaldTrump]] - cross-asset flash-crash branch added by 不熄灯 E02.

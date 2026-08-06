@@ -6105,3 +6105,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] ingest | 143.如何判断一段行情是回调还是结束？| 三季度投资账复盘
 
 Added source page for a 起朱楼宴宾客 Q3 投资账 review by 大卫翁 on profitable bull-market behavior, China valuation repair, AI bubble financing structure, and how to judge whether a decline is a pullback or a trend end. Created pages for Market Pullback vs Trend End and Bubble Financing Structure; updated overview, index, 起朱楼宴宾客, 大卫翁, Peter Lynch, Oracle, Investment Risk Management, Drawdown Psychology, Macro Event vs Macro Trend Distinction, 1:1:1 Allocation Anchor, A/H Share 2025 Barbell, Asset Allocation, AI Bubble Hedging, AI Infrastructure Debt Financing, Data Center Debt Risk, and Private Credit Tail Risk. No direct contradiction found; the source extends the wiki's 投资账 branch by showing that ordinary investors need smaller-unit thesis checks, leader-stock observation, pre-set rules, position sizing, and allocation discipline rather than reliable real-time market top-calling.
+
+## [2026-08-06] ingest | 不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波
+
+Added source page for a 不熄灯 current-events episode with 大卫翁、雨白、小宝 on Japan/Thailand political bargaining, crypto leverage-liquidity collapse, U.S. shutdown data risk, First Brands private-credit opacity, RWA tokenization, and 娃哈哈 succession governance. Created pages for 不熄灯, 小宝, First Brands, 娃哈哈, 宗馥莉, 宗庆后, 红盛系, Danone, Komeito, Changpeng Zhao, Political Veto-Point Bargaining, Crypto Leverage-Liquidity Cascade, Government Shutdown Data Blindness, Private Credit Receivables Opacity, Real World Asset Tokenization Risk, Family Business Succession Opacity, and National Brand Narrative Backfire; updated overview, index, 起朱楼宴宾客, 大卫翁, 雨白, Takaichi Sanae, LDP Japan, Thailand, Japan, United States, Federal Reserve, China, Donald Trump, Private Credit Tail Risk, Cryptocurrency Market Structure, H-1B Visa Coalition Fault Line, Japanese Overtourism Tradeoff, National Goods Branding, Family Business Scaling, Stablecoins, Effective Tariff Rate Shock, Official Statistics Credibility, and Federal Funds Rate As Policy Signal. No direct contradiction found; Takaichi uncertainty is source-dated to 2025-10-14 and predates later prime-minister framing.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,7 +2,7 @@
 title: "Official Statistics Credibility"
 type: concept
 tags: [statistics, government, economics, trust]
-sources: [would-you-trust-an-economist-with-your-economy]
+sources: [bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, would-you-trust-an-economist-with-your-economy]
 last_updated: 2026-07-24
 ---
 
@@ -12,11 +12,14 @@ Official statistics credibility is the public trust that government-produced eco
 
 The source separates normal statistical revision from conspiracy. [[AaronSojourner]] and [[DianeKPMGChiefEconomist]] describe BLS staff as technical, politically neutral civil servants, but the episode also warns that credibility can still be damaged when political actors punish unwelcome data.
 
+[[bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu]] adds a timeliness version through [[GovernmentShutdownDataBlindness]]. The problem is not that data is politically falsified; it is that a shutdown can interrupt collection, publication, or operational service exactly when [[FederalReserve]] decisions depend on timely CPI and employment signals.
+
 ## Key Claims
 - Official data depends on both methods and institutions.
 - Revisions can be normal statistical practice rather than evidence of manipulation.
 - Neutral civil servants are part of the trust infrastructure behind economic data.
 - Political attacks can weaken decision-making by making households, firms, and policymakers doubt the numbers they need.
+- Shutdowns can weaken decision-making by delaying or degrading timely data even without direct manipulation.
 - The concept complements [[CentralBankIndependence]] because both data credibility and policy credibility depend on institutional insulation from short-term politics.
 
 ## Connections
@@ -25,3 +28,4 @@ The source separates normal statistical revision from conspiracy. [[AaronSojourn
 - [[CivilServiceContinuity]] - bureaucracy and neutral expertise branch.
 - [[EconomistTrustCrisis]] - wider trust problem.
 - [[AggregateIndicatorsLivedExperienceGap]] - reason correct official data may still fail to persuade.
+- [[GovernmentShutdownDataBlindness]], [[FederalReserve]], and [[FederalFundsRateAsPolicySignal]] - shutdown and policy-decision branch added by 不熄灯 E02.

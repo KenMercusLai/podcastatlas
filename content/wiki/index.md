@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波](sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu.md) — 不熄灯 episode linking Japan/Thailand political bargaining, crypto leverage-liquidity collapse, U.S. shutdown data risk, First Brands private-credit opacity, RWA tokenization, and 娃哈哈 succession governance.
 - [143.如何判断一段行情是回调还是结束？| 三季度投资账复盘](sources/143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz.md) — 起朱楼宴宾客 Q3 投资账 review on pullback-versus-trend-end discipline, China valuation repair, AI bubble financing structure, private-credit escalation risk, and asset-allocation behavior in a bull market.
 - [142.日本消费者为何如此痴迷“季节限定”？| 串台跨海电波](sources/142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq.md) — 起朱楼宴宾客 crossover with 跨海电波 on Japan's seasonal-limited consumer culture, regional and calendar-based scarcity, story-led premiums, channel trust, after-sales expectations, and Chinese brands entering Japan.
 - [141.加更：因为播客，我受邀去哥伦比亚大学做访问学者了](sources/141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj.md) — 起朱楼宴宾客 personal addendum on David Weng's Columbia Journalism School visiting-scholar opportunity, podcast-enabled career paths, creator-driven financial narratives, creator fact-checking, algorithmic information cocoons, and situated U.S. media observation.
@@ -764,6 +765,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [不熄灯 / Buxideng](entities/Buxideng.md) — Three-host current-events podcast context for David Weng, Yubai, and Xiaobao's cross-location discussion of politics, markets, credit, and Chinese business governance.
+- [小宝 / Xiaobao](entities/XiaobaoQizhulou.md) — 不熄灯 host connecting Japan observations, crypto liquidity mechanics, First Brands, and private-credit risk.
+- [First Brands](entities/FirstBrands.md) — U.S. auto-parts company whose bankruptcy is used by 不熄灯 E02 as a private-credit and receivables-opacity warning case.
+- [娃哈哈 / Wahaha Group](entities/WahahaGroup.md) — Chinese beverage company used by 不熄灯 E02 to examine family-business succession, trademarks, national-brand narrative, and opaque affiliate networks.
+- [宗馥莉 / Zong Fuli](entities/ZongFuli.md) — 娃哈哈 successor figure whose resignation and trademark disputes anchor the episode's family-business succession-opacity frame.
+- [宗庆后 / Zong Qinghou](entities/ZongQinghou.md) — 娃哈哈 founder whose authority and national-brand rhetoric frame the later succession and public-opinion conflict.
+- [红盛系 / Hongsheng System](entities/HongshengSystem.md) — Family-linked Wahaha supply-chain and channel network used to show how operating control can diverge from a unified consumer brand.
+- [Danone / 达能](entities/Danone.md) — Foreign shareholder/conflict counterpart in the older Wahaha national-brand story.
+- [Komeito / 公明党](entities/Komeito.md) — Japanese coalition party whose exit from the LDP alliance made Takaichi Sanae's source-dated path to power uncertain.
+- [Changpeng Zhao / 赵长鹏](entities/ChangpengZhao.md) — Crypto-industry figure whose Hong Kong appearance is treated as a talent and capital signal in the episode.
 - [跨海电波 / Kuahai Dianbo](entities/KuahaiDianbo.md) — Amazon Advertising-produced cross-border-commerce podcast represented by the episode 142 crossover on Japanese seasonal-limited consumption and market entry.
 - [MUJI / 无印良品](entities/Muji.md) — Japanese retail brand used by episode 142 as a New Year lucky-bag and annual-ritual consumer-memory case.
 - [Nakagawa Masashichi Shoten / 中川政七商店](entities/NakagawaMasashichiShoten.md) — Japanese craft retailer used by episode 142 to show story, place, and traditional-maker renewal as a reasoned premium.
@@ -5250,6 +5261,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Political Veto-Point Bargaining](concepts/PoliticalVetoPointBargaining.md) — Episode frame for Japan, Thailand, and U.S. shutdown politics where veto points turn ordinary governance into leverage.
+- [Crypto Leverage-Liquidity Cascade](concepts/CryptoLeverageLiquidityCascade.md) — Crypto crash mechanism where tariff headlines meet high leverage, market-maker retreat, thin altcoin books, and forced selling.
+- [Government Shutdown Data Blindness](concepts/GovernmentShutdownDataBlindness.md) — Shutdown risk where delayed CPI/jobs/operations data weakens Fed and market decision quality.
+- [Private Credit Receivables Opacity](concepts/PrivateCreditReceivablesOpacity.md) — First Brands lesson that receivables financing and off-balance-sheet credit can hide cash-control and collateral uncertainty.
+- [Real World Asset Tokenization Risk](concepts/RealWorldAssetTokenizationRisk.md) — RWA caution that tokenizing private credit can create a liquidity story without solving underlying opacity.
+- [Family Business Succession Opacity](concepts/FamilyBusinessSuccessionOpacity.md) — Wahaha governance frame for succession conflicts across family, state, employee, brand, and affiliate interests.
+- [National Brand Narrative Backfire](concepts/NationalBrandNarrativeBackfire.md) — Risk that patriotic brand rhetoric later turns into harsher scrutiny of ownership, trademarks, and asset transfer.
 - [Market Pullback vs Trend End](concepts/MarketPullbackVsTrendEnd.md) — Episode 143 framework for distinguishing stock, sector, and market pullbacks from thesis-ending breaks through fundamentals, leaders, observation windows, and sizing rules.
 - [Bubble Financing Structure](concepts/BubbleFinancingStructure.md) — Productive/nonproductive and equity/debt bubble taxonomy used by episode 143 to locate AI risk and the danger of debt/private-credit financing channels.
 - [Japanese Seasonal Limited Consumption / 日本季节限定消费](concepts/JapaneseSeasonalLimitedConsumption.md) — Japan consumer-culture pattern where time, region, channel, or quantity limitation works by attaching products to seasonal rituals and local stories.

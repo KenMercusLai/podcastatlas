@@ -2,11 +2,13 @@
 title: "Federal Reserve"
 type: entity
 tags: [institution, central-bank, macro]
-sources: [129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, do-prediction-market-bettors-make-anything-better, indicators-of-2025-and-what-to-watch-in-2026, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]
+sources: [bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, do-prediction-market-bettors-make-anything-better, indicators-of-2025-and-what-to-watch-in-2026, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]
 last_updated: 2026-08-06
 ---
 
 # Federal Reserve
+
+[[bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu]] adds a shutdown-data layer. The source argues that a U.S. government shutdown can delay CPI, employment, and operational data while the Fed is trying to decide how to balance inflation, employment, credit stress, and political pressure, making [[GovernmentShutdownDataBlindness]] part of the same branch as [[FederalFundsRateAsPolicySignal]] and [[OfficialStatisticsCredibility]].
 
 The Federal Reserve appears in [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]] as the central-bank actor whose expected rate cuts shape global risk appetite. The episode presents the Fed as trapped between supporting markets and avoiding the message that U.S. growth or employment has already weakened enough to require urgent easing.
 
@@ -51,6 +53,7 @@ The Federal Reserve appears in [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-d
 - Episode 129 treats the Fed as one layer of monetary credibility within a wider dollar, bank-credit, payment-clearing, Treasury, and asset-pricing network.
 
 ## Connections
+- [[GovernmentShutdownDataBlindness]], [[OfficialStatisticsCredibility]], and [[FederalFundsRateAsPolicySignal]] - shutdown-disrupted data and rate-decision branch added by 不熄灯 E02.
 - [[BankOfJapan]] — policy divergence with Japan is central to the episode's chain of events.
 - [[MonetaryPolicyLag]] — concern that cuts may arrive after economic weakness has already accumulated.
 - [[YieldCurveInversion]] — macro signal used to discuss recession and market-risk history.

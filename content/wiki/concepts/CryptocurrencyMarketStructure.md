@@ -2,7 +2,7 @@
 title: "Cryptocurrency Market Structure"
 type: concept
 tags: [crypto, investing, markets, compliance]
-sources: [tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128, tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, socialradarspod-brianarmstrong-final]
+sources: [bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128, tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, socialradarspod-brianarmstrong-final]
 last_updated: 2026-08-05
 ---
 
@@ -22,6 +22,8 @@ Cryptocurrency market structure is the wiki's frame for how crypto trading rails
 
 [[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]] adds the illicit-activity measurement layer through [[TRMLabs]] and [[AriRedbord]]. The source says lawful crypto use is growing faster than illicit use, but also says illicit activity reached roughly $158 billion in 2025. That makes market structure a dual-use question: exchanges, stablecoins, wallets, and payment rails can expand legitimate adoption while also giving sanctioned actors and scam networks faster fund movement.
 
+[[bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu]] adds the flash-crash mechanics layer. The episode says [[DonaldTrump]]'s sudden China-tariff message was the immediate trigger, but [[CryptoLeverageLiquidityCascade]] explains the speed: high leverage, market-maker retreat, and thin small-token liquidity can turn a headline into forced selling and price gaps.
+
 ## Key Claims
 - Crypto markets can contain more short-term inefficiencies than mature equity markets.
 - Fragmented exchanges and continuous trading create operational opportunities for systematic traders.
@@ -35,6 +37,7 @@ Cryptocurrency market structure is the wiki's frame for how crypto trading rails
 - Payment acceptance does not prove everyday currency use when most consumers still hold crypto as investment exposure.
 - Municipal acceptance can make crypto payments locally practical without eliminating volatility, service-coverage gaps, or public skepticism.
 - State reserve laws can move crypto market-structure risk onto public balance sheets, where custody, liquidity, volatility, and taxpayer exposure matter.
+- Political headlines can matter differently in crypto when continuous trading, leverage, exchange fragmentation, and market-maker capacity combine into [[CryptoLeverageLiquidityCascade]].
 
 ## Connections
 - [[StateCryptoReserves]], [[PublicCryptoInvestmentRisk]], [[SeparateCryptoReserveFund]], and [[SeizedDigitalAssetCustody]] - state public-finance branch added by the April 14 Marketplace Tech episode.
@@ -49,3 +52,4 @@ Cryptocurrency market structure is the wiki's frame for how crypto trading rails
 - [[WorldLibertyFinancial]] and [[PoliticalInfluenceMonetization]] — EP77's crypto monetization case.
 - [[Coinbase]], [[BrianArmstrong]], [[RegulatedCryptoTrustStrategy]], [[EarlyFintechFraudControls]], [[FTX]], and [[SamBankmanFried]] — Armstrong episode's exchange trust and reputational-risk branch.
 - [[TRMLabs]], [[AriRedbord]], [[A7A5]], [[StablecoinSanctionsEvasion]], and [[AIEnabledScamIndustrialization]] — Marketplace Tech crypto-crime and scam-scale branch.
+- [[CryptoLeverageLiquidityCascade]], [[DonaldTrump]], [[EffectiveTariffRateShock]], [[H1BVisaCoalitionFaultLine]], [[ChangpengZhao]], and [[HongKong]] - 不熄灯 E02 flash-crash and talent-capital signal branch.

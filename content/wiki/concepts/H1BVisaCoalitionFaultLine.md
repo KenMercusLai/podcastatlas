@@ -2,7 +2,7 @@
 title: "H-1B Visa Coalition Fault Line"
 type: concept
 tags: [immigration, labor, technology, politics]
-sources: [tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128]
+sources: [bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128]
 last_updated: 2026-07-25
 ---
 
@@ -12,12 +12,15 @@ H-1B visa coalition fault line is the split between technology employers' demand
 
 The source says technology leaders remain incentivized to push for more skilled-worker visas, while protectionist MAGA actors resist that agenda. Pasi expects a stalemate rather than a decisive break: the protectionist faction is unlikely to eliminate H-1B visas, but tech leaders are also unlikely to get a clean immigration-policy win.
 
+[[bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu]] adds a crypto-worker version of the same fault line. The hosts say some crypto-sector employees and technical workers are H-1B holders or future green-card applicants, so abrupt new-fee rhetoric can damage trust even when later clarification says current holders are not directly hit. The episode contrasts that unpredictability with [[HongKong]]'s crypto-friendly signal to Chinese-speaking capital and talent.
+
 ## Key Claims
 - High-skill immigration can divide a political coalition even when both sides support the same president or party.
 - Technology employers read H-1B access as labor supply and competitiveness; restrictionist factions read it as displacement or betrayal.
 - [[DonaldTrump]] can hold the coalition together by signaling that the visas have value without giving the tech sector everything it wants.
 - The fault line extends [[MAGACoalitionFracture]] by making the conflict specifically about skilled labor, not only immigration in general.
 - Visa politics can coexist with [[TechGovernmentAccommodation]]: tech leaders may placate the administration while still pushing against its restrictionist wing.
+- The same policy shock can be read differently by crypto capital and crypto labor: pro-crypto regulation does not automatically mean skilled-immigration predictability.
 
 ## Connections
 - [[MAGA]], [[DonaldTrump]], [[ElonMusk]], and [[SteveBannon]] - actors and factional context.
@@ -25,3 +28,4 @@ The source says technology leaders remain incentivized to push for more skilled-
 - [[ImmigrationBacklashCycle]] and [[MeritBasedImmigrationFilter]] - adjacent immigration-policy frames.
 - [[TechGovernmentAccommodation]] - broader alignment pattern that the visa dispute complicates.
 - [[SuyashPasi]] and [[MarketplaceTech]] - source context.
+- [[Buxideng|不熄灯]], [[CryptocurrencyMarketStructure]], [[ChangpengZhao]], and [[HongKong]] - crypto-worker and talent-location branch added by 不熄灯 E02.
