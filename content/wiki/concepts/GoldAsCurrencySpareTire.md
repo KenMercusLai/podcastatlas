@@ -2,11 +2,13 @@
 title: "Gold As Currency Spare Tire / 黄金备胎"
 type: concept
 tags: [gold, money, macro, investing]
-sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
-last_updated: 2026-08-06
+sources: [171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+last_updated: 2026-08-07
 ---
 
 # Gold As Currency Spare Tire / 黄金备胎
+
+[[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds the "do not add after overheat" follow-up. After gold contributed negatively in the host's first-half account, [[DavidWeng|大卫翁]] keeps roughly a 5% strategic allocation but does not add, preserving the spare-tire role without letting a prior gold narrative override target-weight discipline.
 
 [[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] adds the first-quarter 2026 drawdown-and-sizing version. [[Ricky]] distinguishes physical gold from investable gold and argues that portfolio gold should mainly diversify risk rather than become an all-in return bet. [[DavidWeng|大卫翁]] keeps gold in a 5%-10% total-asset range and links its long-term role to [[LindyEffectAssetAllocation]], while warning that short-term price moves should not replace target-weight discipline.
 
@@ -36,6 +38,7 @@ The source is explicit that this is not a permanent faith claim. Gold has no cas
 - Episode 135 adds that the spare-tire role should be translated into target weight and rebalancing rather than momentum chasing.
 - Episode 155 adds that a crowded gold rally can turn the spare-tire asset into a flow-sensitive volatility asset in the short term.
 - Episode 157 adds that preserving gold gains can include changing the form of exposure, not only lowering the portfolio percentage.
+- Episode 171 adds that keeping a strategic gold allocation can coexist with refusing to average up or refill after a volatility-driven loss.
 
 ## Connections
 - [[GoldMonetaryAnchor]] - broader gold-as-monetary-trust frame.
@@ -48,3 +51,4 @@ The source is explicit that this is not a permanent faith claim. Gold has no cas
 - [[US2025ExpectationGaps]], [[CurrencyAnchorTransition]], and [[AssetAllocation]] - episode 133's dollar-credit and portfolio context.
 - [[OneToOneToOneAllocation]], [[SleepWellPortfolioTest]], and [[InvestmentRiskManagement]] - episode 135's gold-as-shock-absorber sizing context.
 - [[Tether]] and [[BitcoinSafeHavenBehavior]] - episode 155's crypto-capital and digital-gold comparison.
+- [[LateBullMarketLossRisk]], [[PositionSizing]], and [[InvestmentRiskManagement]] - episode 171's no-add and target-weight follow-up.

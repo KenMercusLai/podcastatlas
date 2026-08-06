@@ -2,11 +2,13 @@
 title: "Investment Decision Logging"
 type: concept
 tags: [investing, process, risk]
-sources: [ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn]
-last_updated: 2026-07-07
+sources: [171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn]
+last_updated: 2026-08-07
 ---
 
 # Investment Decision Logging
+
+[[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds a monthly investment-account version. [[DavidWeng|大卫翁]] uses scheduled account reviews to decide what, if anything, to trade next month, which turns logging into a friction device against late-cycle FOMO and repeated account-checking.
 
 Investment decision logging is the practice of recording why an investor entered, held, sold, or waited on a position, including the thesis, evidence, risk, expected catalyst, and conditions that would change the decision. In [[ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn]], [[TangHaocheng]] contrasts professional investors, who often must write down industry and company reasoning, with ordinary investors who may forget why they made a trade months later.
 
@@ -17,6 +19,7 @@ The episode treats logging as both an [[InvestmentRiskManagement]] habit and a p
 - Logging should include not only "buy" or "sell" but also the reason for waiting and the data or event that would matter next.
 - Decision records make [[BehavioralInvestingBiases]] easier to notice because the original reason can be compared with later emotion.
 - AI assistants can improve the workflow by linking records to watchlists, natural-language alerts, and updated market information.
+- Episode 171 adds that scheduled logging can delay trades until after a full-account review, reducing the chance that late-cycle market noise becomes immediate action.
 
 ## Connections
 - [[TangHaocheng]] — guest who emphasizes the professional-investor written-thesis habit.
@@ -24,3 +27,4 @@ The episode treats logging as both an [[InvestmentRiskManagement]] habit and a p
 - [[AIInvestmentResearch]] and [[FinancialAIAgents]] — AI-supported research and follow-up workflow.
 - [[BehavioralInvestingBiases]] — biases the practice helps expose.
 - [[InvestorEducation]] — practical skill ordinary investors can learn before relying on product recommendations.
+- [[InvestmentCooldownDiscipline]] and [[LateBullMarketLossRisk]] - episode 171's review-cadence and late-cycle behavior extension.

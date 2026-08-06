@@ -3,6 +3,7 @@ title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
 sources:
+  - 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk
   - 166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6
   - 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm
   - 163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta
@@ -56,10 +57,12 @@ sources:
   - vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb
   - ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv
   - 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc
-last_updated: 2026-08-06
+last_updated: 2026-08-07
 ---
 
 # Investment Risk Management
+
+[[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds the late-bull-market loss version. Risk management is framed as reducing trades, distinguishing FOMO positions from long-term value positions, keeping total equity exposure within a target range, and using explicit exit rules when [[MarketBreadthNarrowing]], social comparison, and [[RetailInvestorCrowding]] make impulse decisions more dangerous.
 
 [[166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6]] adds the institutional-process version. Risk management is framed as goal definition, information-edge humility, [[TargetWeightDiscipline]], cooldown periods, written reasons for large weights, and regular review, rather than only stop-losses after a position has already become emotional.
 

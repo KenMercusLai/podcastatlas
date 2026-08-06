@@ -2,11 +2,13 @@
 title: "Investment Cooldown Discipline"
 type: concept
 tags: [investing, behavior, risk, process]
-sources: [166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
-last_updated: 2026-08-06
+sources: [171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
+last_updated: 2026-08-07
 ---
 
 # Investment Cooldown Discipline
+
+[[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds the late-bull-market review version. [[DavidWeng|大卫翁]] says he tries not to trade before finishing his monthly investment-account review, using the bookkeeping rhythm to keep volatile late-cycle information from becoming immediate account action.
 
 Investment cooldown discipline is the vol.105 [[QizhulouYanBinke|起朱楼宴宾客]] rule for slowing down large investment decisions before emotion turns into turnover. The host's personal rule is proportional: a decision involving 1% of liquid assets requires a one-day cooling-off period, 2% requires two days, and monthly investment actions are capped at 5% of liquid assets.
 
@@ -22,6 +24,7 @@ The point is not that every investor should copy those exact numbers. The concep
 - The rule also complements [[InvestmentDecisionLogging]]: the cooling period is more useful when the thesis and invalidation condition are written down.
 - Excessive liquidity can make action too easy, so cooldown discipline can be a behavioral substitute for hard lockups.
 - Episode 166 adds that cooldown can imitate part of institutional stock-pool and committee friction without requiring a real institution.
+- Episode 171 adds that a fixed review cadence can be especially useful when late-cycle social media, account-checking, and investor groups increase trading impulse.
 
 ## Connections
 - [[InvestmentRiskManagement]] — broader risk-control system.
@@ -31,3 +34,4 @@ The point is not that every investor should copy those exact numbers. The concep
 - [[InvestmentLiquidityTradeoff]] — behavioral reason liquidity sometimes needs self-imposed constraints.
 - [[PortfolioSuitability]] — the rule helps keep decisions aligned with the investor's actual goals and tolerance.
 - [[InstitutionalInvestorProcessDiscipline]] and [[TargetWeightDiscipline]] - episode 166's institutional-process and target-weight extension.
+- [[LateBullMarketLossRisk]], [[InvestmentDecisionLogging]], and [[RetailBullMarketPsychology]] - episode 171's monthly-review and late-cycle impulse-control extension.

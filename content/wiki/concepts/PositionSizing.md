@@ -2,11 +2,13 @@
 title: "Position Sizing"
 type: concept
 tags: [investing, trading, risk]
-sources: [e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
-last_updated: 2026-07-15
+sources: [171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
+last_updated: 2026-08-07
 ---
 
 # Position Sizing
+
+[[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds the late-cycle overbetting version. The episode says one common bull-market-late mistake is using the largest position size at the most expensive point, especially in hot themes, leveraged trades, or lottery-like stocks chosen after FOMO rather than prior thesis work.
 
 Position sizing is the capital-allocation decision that connects an investor's edge to actual portfolio results. [[e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc]] argues that even a positive-expectation idea can produce poor outcomes if the investor sizes too large, uses unnecessary leverage, or adds after the original edge has weakened.
 
@@ -31,6 +33,7 @@ Position sizing is the capital-allocation decision that connects an investor's e
 - Zhu Ning's frame makes personal consequence part of sizing: a technically identical trade can deserve different size depending on income, liquidity needs, age, obligations, and ability to recover.
 - In potential bubbles, sizing should respond to warning conditions without pretending to know the exact top.
 - Vol.105 adds that larger decisions should require more time, clearer purpose, and more resistance to social-media urgency before execution.
+- Episode 171 adds that position size should be smallest, not largest, when the purchase reason is late-cycle FOMO or a story the investor does not understand well.
 
 ## Connections
 - [[KellyCriterion]] — formal repeated-game sizing rule.
@@ -42,3 +45,4 @@ Position sizing is the capital-allocation decision that connects an investor's e
 - [[MarginOfSafety]], [[BusinessMoat]], and [[ValueTrap]] — E160's quality, price-protection, and cheapness-failure inputs to sizing.
 - [[ZhuNing]], [[BubbleNecessaryConditions]], and [[AIEquityValuationRisk]] — 42章经 interview extension around bubble uncertainty and personal risk capacity.
 - [[InvestmentCooldownDiscipline]] and [[PortfolioSuitability]] — vol.105's size-linked waiting-period and personal-fit extension.
+- [[LateBullMarketLossRisk]], [[BubbleWealthRedistribution]], and [[StopLossDiscipline]] - episode 171's overbetting and exit-rule extension.

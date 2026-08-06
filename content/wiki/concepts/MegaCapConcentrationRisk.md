@@ -2,11 +2,13 @@
 title: "Mega-Cap Concentration Risk"
 type: concept
 tags: [investing, markets, risk, valuation]
-sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
-last_updated: 2026-08-06
+sources: [171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
+last_updated: 2026-08-07
 ---
 
 # Mega-Cap Concentration Risk
+
+[[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] clarifies the related but broader [[MarketBreadthNarrowing]] problem. Concentration can appear as heavy index weight in a few leaders, while breadth narrowing asks whether enough stocks are still participating at all; both can make broad-market gains less representative of ordinary portfolios.
 
 [[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds the retirement-asset and political-economy angle through [[EquityRetirementAssetBinding]]. The source says broad U.S. equity strength can make ordinary retirement accounts depend on the same Big Tech and AI leaders that also drive concentration risk.
 
@@ -25,6 +27,7 @@ Mega-cap concentration risk is the source's warning that broad U.S. index exposu
 - AI bubble risk can transmit through ordinary index exposure when a few AI-linked companies explain a large share of recent broad-market gains.
 - Vol.115 adds that concentration risk can coexist with right-side momentum; the issue is maturity, volatility, and belief-dependence rather than immediate collapse.
 - Episode 146 adds that concentration is not only an investor risk; it can become a household and political issue when retirement balances depend on the same concentrated leaders.
+- Episode 171 adds that concentration and breadth narrowing are risk context, not reliable standalone sell signals.
 
 ## Connections
 - [[AIEquityValuationRisk]] — AI leaders can be excellent companies while still carrying demanding prices.
@@ -34,3 +37,4 @@ Mega-cap concentration risk is the source's warning that broad U.S. index exposu
 - [[Nvidia]], [[SP500]], [[AIEquityValuationRisk]], and [[StatisticalBubbleIndicators]] — Planet Money AI-bubble extension.
 - [[USMegaCapTechRightSideTrade]], [[FactFutureAssetPricing]], [[FederalReserve]], and [[DonaldTrump]] — vol.115 U.S. equity-market extension.
 - [[EquityRetirementAssetBinding]], [[401KPlan]], and [[KShapedConsumerSpending]] - retirement exposure and distributional extension added by episode 146.
+- [[MarketBreadthNarrowing]] and [[LateBullMarketLossRisk]] - episode 171's broader participation-risk extension.

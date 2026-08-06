@@ -2,11 +2,13 @@
 title: "Market Pullback vs Trend End"
 type: concept
 tags: [investing, markets, behavior, risk]
-sources: [160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]
-last_updated: 2026-08-06
+sources: [171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]
+last_updated: 2026-08-07
 ---
 
 # Market Pullback vs Trend End
+
+[[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds the breadth-warning version. [[MarketBreadthNarrowing]] can explain why many holdings fall while the index is still strong, but the source emphasizes that breadth deterioration is not a mechanical sell signal; it should change risk context, trading frequency, and position sizing before it becomes a top-calling rule.
 
 [[160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz]] restages the pullback question as a China-asset "adjustment period." The episode's answer is to avoid using short-term volatility to erase long-term China theses, while also refusing to let long-term optimism justify every medium-term narrative or every short-term entry. [[OneToOneToOneAllocation]] turns the question into thesis separation, cash optionality, and less need to decide immediately whether the whole bull market is over.
 
@@ -30,6 +32,7 @@ At the sector level, the source looks to leaders. If the first and second leadin
 - A pre-set rule, such as selling a pre-identified bubble after a large drawdown, can reduce repeated emotional reinterpretation.
 - Episode 157 adds that a trailing exit for assets already judged bubbly is a profit-preservation rule, not a universal claim that every 20% fall is a bear market.
 - The framework depends on [[PositionSizing]]: one wrong call should not destroy the whole portfolio.
+- Episode 171 adds that market breadth deterioration should explain hidden fragility without pretending to identify the exact market peak.
 
 ## Connections
 - [[BullMarketProfitPreservation]] and [[GainConversionAssetForm]] - episode 157's gain-preservation extension.
@@ -38,3 +41,4 @@ At the sector level, the source looks to leaders. If the first and second leadin
 - [[StopLossDiscipline]], [[TrendFollowing]], [[IndexReentryDiscipline]], and [[PositionSizing]] - rule-based implementation cousins.
 - [[RetailBullMarketPsychology]], [[SpeculativeBubblePsychology]], and [[ValueTrap]] - psychological and thesis-failure risks around the same question.
 - [[PeterLynch]], [[InvestmentMastersSeries]], and [[InvestmentMasterNarrative]] - source references for using investor frameworks without slogan-copying.
+- [[MarketBreadthNarrowing]], [[LateBullMarketLossRisk]], and [[RetailBullMarketPsychology]] - episode 171's breadth and late-cycle behavior extension.

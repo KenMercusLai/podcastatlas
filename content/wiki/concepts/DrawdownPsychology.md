@@ -2,11 +2,13 @@
 title: "Drawdown Psychology"
 type: concept
 tags: [investing, psychology, risk]
-sources: [157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
-last_updated: 2026-08-06
+sources: [171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
+last_updated: 2026-08-07
 ---
 
 # Drawdown Psychology
+
+[[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds the bull-market relative-loss version. The source says losing money or lagging badly inside a bull market can feel worse than ordinary drawdown because other people's gains make the investor's own result feel like both loss and missed status, increasing the urge to switch tracks late.
 
 [[157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]] adds the giveback version. [[DavidWeng|大卫翁]] recalls that after earlier gains, buying what looked like an early post-crash bargain in January 2016 still cost about 10% of liquid assets, showing how giving back prior gains can feel like a fresh loss and trigger worse reentry behavior.
 
@@ -37,6 +39,7 @@ This concept connects market risk to life experience. A portfolio can look accep
 - Episode 143 adds that regret after gains can be as destabilizing as fear after losses, because comparison pressure pushes investors to overtrade, abandon rebalancing, or seek perfect top-calling.
 - Episode 145 adds that drawdown support is a service capability: an advisor must have enough prior trust and client knowledge to keep volatility from becoming panic redemption.
 - Episode 157 adds that giving back prior gains can feel and behave like a fresh loss, especially when early dip-buying turns a prior win into regret.
+- Episode 171 adds that relative underperformance during a visible bull market can produce FOMO pressure even without a large absolute drawdown.
 
 ## Connections
 - [[BullMarketProfitPreservation]], [[MarketPullbackVsTrendEnd]], and [[PaperWealthVsCashValue]] - episode 157's profit-giveback branch.
@@ -51,3 +54,4 @@ This concept connects market risk to life experience. A portfolio can look accep
 - [[HouseholdGoldSavings]], [[OnlineGoldAccumulation]], [[GoldMonetaryAnchor]], and [[MaoDong]] — EP268's gold drawdown and accumulation-behavior context.
 - [[MarketPullbackVsTrendEnd]], [[OneToOneToOneAllocation]], and [[InvestmentCooldownDiscipline]] — episode 143's bull-market pullback and behavior-control context.
 - [[FundInvestmentAdvisory]], [[InvestmentBehaviorCoaching]], [[GoalBasedClientProfiling]], and [[TrustAsBusinessAsset]] — episode 145's advisory accompaniment branch.
+- [[LateBullMarketLossRisk]], [[MarketBreadthNarrowing]], and [[RetailBullMarketPsychology]] - episode 171's relative-loss and late-switching extension.

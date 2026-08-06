@@ -6329,3 +6329,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | 171.为什么牛市后期更容易亏钱？｜半年度投资账复盘
+
+Added source page for a 起朱楼宴宾客 half-year 2026 investment-account review by 大卫翁 on late bull-market loss risk, market breadth narrowing, FOMO entry, overtrading, oversized bets, and 2014-2015 A-share wealth redistribution. Created pages for Late Bull Market Loss Risk, Market Breadth Narrowing, and Bubble Wealth Redistribution; updated overview, index, 起朱楼宴宾客, 大卫翁, Bull Market Profit Preservation, Retail Bull Market Psychology, Behavioral Investing Biases, Investment Cooldown Discipline, Investment Decision Logging, Stop-Loss Discipline, Market Pullback vs Trend End, Position Sizing, Investment Risk Management, Drawdown Psychology, Mega-Cap Concentration Risk, Speculative Bubble Psychology, A-Share Bull Market History, Retail Investor Crowding, Gold As Currency Spare Tire, Defensive Dividend Assets, and Investment Plan Execution Discipline. No direct contradiction found; the source extends prior bull-market profit-preservation and pullback-discipline pages by showing how investors can lose during the headline bull market through breadth, behavior, and account-size timing differences.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,11 +2,13 @@
 title: "Stop-Loss Discipline"
 type: concept
 tags: [investing, trading, risk]
-sources: [157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]
-last_updated: 2026-08-06
+sources: [171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]
+last_updated: 2026-08-07
 ---
 
 # Stop-Loss Discipline
+
+[[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds the late-bull-market FOMO version. For positions bought from tips, unfamiliarity, or late-cycle fear of missing out, [[DavidWeng|大卫翁]] says a 20%-from-high exit rule remains a usable discipline, while a looser 30% threshold may be debated only if the investor still writes and follows a rule.
 
 [[157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]] adds a stop-profit variant. For assets already judged bubbly, [[DavidWeng|大卫翁]] treats a large fall from the high as a reason to leave and keep the gains, while warning that the rule is not a universal interpretation of every drawdown and that immediate reentry can undo the whole purpose.
 
@@ -26,6 +28,7 @@ Stop-loss discipline is the rule-based loss-control practice emphasized in [[ep7
 - Stop-loss rules become more important after add-on buying because the correlated exposure has increased.
 - In thin Hong Kong stocks, stop-loss rules also protect exit liquidity: waiting for certainty can mean competing with other sellers in a market with little depth.
 - Episode 157 adds that trailing exits can function as stop-profit rules when the aim is preserving bull-market gains rather than only cutting initial losses.
+- Episode 171 adds that late-cycle FOMO positions need faster exits than long-term value positions because the entry reason is weaker and usually less researched.
 
 ## Connections
 - [[BullMarketProfitPreservation]], [[MarketPullbackVsTrendEnd]], and [[PaperWealthVsCashValue]] - episode 157's gain-protection extension.
@@ -35,3 +38,4 @@ Stop-loss discipline is the rule-based loss-control practice emphasized in [[ep7
 - [[InvestmentRiskManagement]] and [[MarketRegimeShift]] — broader risk frames reinforced by stop rules.
 - [[KellyCriterion]] and [[PositionSizing]] — E153's reason exits matter for long-term survival.
 - [[HongKongLiquidityExitRisk]] and [[HongKongRetailInvestorSurvival]] — vol.104's Hong Kong extension.
+- [[LateBullMarketLossRisk]], [[RetailBullMarketPsychology]], and [[PositionSizing]] - episode 171's late-cycle FOMO and rule-discipline extension.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [171.为什么牛市后期更容易亏钱？｜半年度投资账复盘](sources/171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk.md) — 起朱楼宴宾客 half-year 2026 investment review on late bull-market loss risk, market breadth narrowing, FOMO entry, overtrading, oversized bets, and 2014-2015 A-share wealth redistribution.
 - [170.《1929》的泡沫之夏：三个代表人物，和他们在当下周期的影子](sources/170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j.md) — 起朱楼宴宾客 episode reading Andrew Ross Sorkin's 1929 through Richard Whitney, William Durant, and Charles E. Mitchell as role portraits for AI-cycle governance, SoftBank/OpenAI conviction, private credit, retail leverage, and institutional trust transmission.
 - [169.如果你18岁，正考虑未来把金融当职业｜高考季特别策划](sources/169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c.md) — 起朱楼宴宾客 gaokao-season finance-career episode on finance role segmentation, relationship capital, AI pressure on entry-level work, school/city signaling, internships, and industry-to-finance paths.
 - [168. 银与信：一部日本劳工移民的跨洋汇款史](sources/168-yin-yu-xin-yibu-riben-laogong-yimin-de-kuayang-huikuan-shi-lmgfmmgkawoa-6xyucnm1ljebzwu.md) — 起朱楼宴宾客 episode with 素 on Japanese labor migration remittances, Hawaii plantation labor, Yokohama Specie Bank, state-mediated archives, racialized U.S. immigration politics, and qiaopi/silver-letter comparison.
@@ -5368,6 +5369,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Late Bull Market Loss Risk / 牛市后期亏钱风险](concepts/LateBullMarketLossRisk.md) — Episode 171 framework for absolute loss, relative underperformance, or full-cycle gain loss during late bull markets.
+- [Market Breadth Narrowing / 市场广度收窄](concepts/MarketBreadthNarrowing.md) — Episode 171 market-structure risk where headline indexes keep rising while participation shrinks across sectors and individual stocks.
+- [Bubble Wealth Redistribution / 泡沫财富再分配](concepts/BubbleWealthRedistribution.md) — Episode 171 frame for how bubble-crash trading can transfer wealth from late, active small accounts to earlier or larger accounts.
 - [Bubble Role Analogy / 泡沫角色类比](concepts/BubbleRoleAnalogy.md) — Episode 170 method for comparing 1929 and current cycles through roles such as gatekeeper, entrepreneur-speculator, and trusted financial intermediary.
 - [Financial Institution Trust Transmission / 金融机构信任传导](concepts/FinancialInstitutionTrustTransmission.md) — Risk pattern where trusted banks, insurers, asset managers, or wealth platforms make opaque or leveraged assets feel suitable to households.
 - [Glass-Steagall Act / 格拉斯-斯蒂格尔法案](concepts/GlassSteagallAct.md) — Regulatory separation frame episode 170 connects to Charles E. Mitchell and bank-based securities distribution.
