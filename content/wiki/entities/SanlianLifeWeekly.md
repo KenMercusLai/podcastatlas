@@ -2,11 +2,13 @@
 title: "三联生活周刊 / Sanlian Life Weekly"
 type: entity
 tags: [media, magazine, china, culture, lifestyle, sports, education, games, creator-economy, work, journalism, food, cuisine]
-sources: [ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz, ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6, ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig, ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
+sources: [xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c, ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz, ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6, ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig, ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
 last_updated: 2026-08-07
 ---
 
 # 三联生活周刊 / Sanlian Life Weekly
+
+[[xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c]] adds the magazine's reporting-backstage branch. Through [[QinSi|秦思]], [[ChengJing|程静]], and [[WeiZhaoyang|魏昭阳]], the source connects Sanlian's written reporting to field entry, international remote interviews, gendered source trust, local volunteers, and [[DeepReportingEmotionalLabor|the emotional labor of deep reporting]].
 
 [[ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz]] adds the magazine's annual food-issue branch. Through [[WuLiwei|吴立伟]], [[QiuLian|邱连]], [[Heimai|黑麦]], and [[XuePeng|薛鹏]], the episode turns "new flavor" into a reporting map across regional cuisines, restaurants, young chefs, bistros, local alcohol, and [[StirFryRevival|stir-fry revival]].
 
@@ -29,6 +31,7 @@ In this source, Sanlian Life Weekly matters less as an institution to profile an
 [[ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]] adds the magazine's [[VocationalEducation|职业教育]] reporting branch. [[ZhangCongzhi|张从志]], [[LiXiaojie|李小杰]], and [[LiuChang|刘畅]] use [[SchoolEnterpriseCooperation|校企合作]], manufacturing, new-energy vehicles, and elder care to ask when vocational training can become a credible work path rather than only a fallback or a credential bridge.
 
 ## Connections
+- [[XianchangXianchang|现场！现场！]], [[QinSi]], [[ChengJing]], [[WeiZhaoyang]], [[FemaleJournalistFieldwork]], [[RemoteReportingPresence]], [[ReporterSourceTrustNetwork]], and [[DeepReportingEmotionalLabor]] - reporting-backstage branch added by the year-end special.
 - [[WuLiwei]], [[QiuLian]], [[Heimai]], [[XuePeng]], [[CreativeChineseCuisine]], [[RegionalFlavorTransfer]], [[ChineseBistroLocalization]], and [[LocalAlcoholPairing]] - annual food-issue branch added by EP245.
 - [[WeiQianSanlian]], [[LiXiaojie]], [[WuShubin]], [[GoodWorkNewStandard]], [[JournalisticPublicness]], [[SocialReportingBurnout]], and [[InterviewAsEmbodiedReporting]] - work-and-journalism branch added by EP244.
 - [[Heimai|黑麦]] - writer whose work anchors the source.

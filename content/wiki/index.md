@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [现场！现场！ | 2025年终特辑：三联女记者揭秘新闻背后的苦与光](sources/xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c.md) — Talk三联 year-end reporting special with 秦思, 程静, and 魏昭阳 on women reporters, fieldwork, remote interviews, source trust, emotional labor, and sustainable media work.
 - [EP245 一年一度寻味之旅：今年去吃创意菜](sources/ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz.md) — Talk三联 annual food-issue episode on creative Chinese cuisine, regional flavor transfer across Guizhou/Yunnan/Sichuan/Guangxi/Fujian, bistros, local alcohol pairing, and stir-fry revival.
 - [EP244 记者眼中的“好工作”，什么样？](sources/ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb.md) — Talk三联 episode with 魏茜, 李小杰, and 吴淑彬 on good work standards, normal work, work decentering, media-industry change, social-reporting burnout, journalistic authority erosion, and AI-era interviewing.
 - [EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了](sources/ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6.md) — Talk三联 episode with 双雪涛, 蒋奇明, and 李雪琴 on 《飞行家》, covering adaptation from failure to ordinary life, Northeast memory, regional-language performance, family-supported aspiration, and Northeast women.
@@ -802,7 +803,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [吴立伟 / Wu Liwei](entities/WuLiwei.md) — Talk三联 host in EP245 framing the annual food issue around new regional cuisine, creative Chinese cooking, and bistro/drink scenes.
+- [秦思 / Qin Si](entities/QinSi.md) — 三联生活周刊 reporter in the 现场！现场！ year-end special, connecting investigative reporting to social-science training, field entry, pollution reporting, and local trust networks.
+- [程静 / Cheng Jing](entities/ChengJing.md) — 三联生活周刊 international-news reporter in the 现场！现场！ year-end special, using social-investigation methods and remote interviews across Gaza, Moscow, Nigeria, Mexico, and migration enforcement.
+- [魏昭阳 / Wei Zhaoyang](entities/WeiZhaoyang.md) — First-year 三联生活周刊 reporter in the 现场！现场！ year-end special, grounding reporting emotional labor through long trips, breaking stories, source intimacy, and audience feedback.
+- [现场！现场！ / Xianchang Xianchang](entities/XianchangXianchang.md) — Talk三联 reporting-focused series context for the year-end episode on how Sanlian reporters work behind finished stories.
+- [Aisha (Gaza Letters)](entities/AishaGaza.md) — Gaza-based interview subject in 程静's 加沙来信 reporting, used to show long-distance source trust, disconnection, empathy limits, and war reporting humility.
+- [吴立伟 / Wu Liwei](entities/WuLiwei.md) — Talk三联 host of EP245's food issue and the 现场！现场！ year-end reporting special on women reporters, source trust, and reporting practice.
 - [邱连 / Qiu Lian](entities/QiuLian.md) — 三联生活周刊 food speaker in EP245 explaining Guizhou acid-spicy flavor transfer, bistro iteration, rice wine, and local alcohol pairing.
 - [Guangxi / 广西](entities/Guangxi.md) — Regional cuisine case in EP245 whose outside recognition still depends on building memory points beyond luosifen.
 - [欧哈 / Oha Guizhou Bistro](entities/OhaGuizhouBistro.md) — Guizhou-style bistro case in EP245 used to show red sour soup, corn dessert, low-filter drinks, and regional flavor transfer.
@@ -1284,7 +1290,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《红楼梦的两个世界》 / Two Worlds of Dream of the Red Chamber](entities/TwoWorldsOfRedChamberDream.md) — Yu Yingshi book recommended as a Red Chamber scholarship entry point.
 - [Wine / 葡萄酒](entities/Wine.md) — Agricultural drink and cultural object connecting terroir, natural wine, taste training, food writing, material history, and personal palate discovery.
 - [黑麦 / Heimai](entities/Heimai.md) — 三联生活周刊 writer whose wine, food, media, kitchen, Sichuan cuisine, and restaurant-trend reporting anchor food and taste discussions.
-- [三联生活周刊 / Sanlian Life Weekly](entities/SanlianLifeWeekly.md) — Chinese culture and lifestyle media context for 黑麦's food, wine, and taste-writing practice.
+- [三联生活周刊 / Sanlian Life Weekly](entities/SanlianLifeWeekly.md) — Chinese magazine/media context spanning Talk三联 food, work, sports, short-drama, education, and reporting-backstage branches.
 - [《神之水滴》 / The Drops of God](entities/DropsOfGod.md) — Wine manga used by the episode to show how tasting notes, region knowledge, and collector desire become popular story.
 - [《杯酒人生》 / Sideways](entities/SidewaysFilm.md) — Wine film used by 黑麦 to explain flavor preference as self-projection and self-reconciliation.
 - [SOM](entities/SOMDocumentary.md) — Sommelier-training documentary illustrating blind tasting, region inference, and the limits of wine expertise.
@@ -2676,7 +2682,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [KLH](entities/KLH.md) — European mass-timber company named as a cross-laminated timber example in a Colby College dormitory project.
 - [Mercer Mass Timber](entities/MercerMassTimber.md) — Mass-timber actor connected to off-site CLT panel manufacturing and the Teddy Roosevelt Presidential Library example.
 - [Nate Foster](entities/NateFoster.md) — Mercer representative quoted on crane-placed mass-timber panels and schedule savings.
-- [Talk三联](entities/TalkSanlian.md) — Podcast/show context for EP270's public explainer on chips, semiconductor manufacturing, domestic AI-chip catch-up, and compute freedom.
+- [Talk三联](entities/TalkSanlian.md) — Podcast/show context spanning Sanlian public explainers, food, work, sports, culture industry, education, finance, and reporting-backstage conversations.
 - [高一丁 / Gao Yiding](entities/GaoYiding.md) — Talk三联 host framing why chips became newly visible through AI, EVs, chip shortages, and global technology competition.
 - [JCET / 长电科技](entities/JCET.md) — Chinese semiconductor packaging company whose factory visit grounds EP270's advanced-packaging and cleanroom-manufacturing explanation.
 - [ASML / 阿斯麦](entities/ASML.md) — Dutch lithography-equipment maker presented in EP270 as the unique high-end EUV supplier but not the only advanced-chip bottleneck.
@@ -5426,6 +5432,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Female Journalist Fieldwork / 女记者现场方法](concepts/FemaleJournalistFieldwork.md) — 现场！现场！ year-end concept for gender-shaped reporting access, trust, risk, anger, empathy, and hard-news capability.
+- [Remote Reporting Presence / 远程采访现场感](concepts/RemoteReportingPresence.md) — Reporting method for producing scene texture through direct calls, timelines, translation, source networks, and humility when travel is impossible.
+- [Reporter-Source Trust Network / 记者与信任网络](concepts/ReporterSourceTrustNetwork.md) — Pattern where reporting depends on temporary trust among reporters, sources, translators, volunteers, family members, and listeners.
+- [Deep Reporting Emotional Labor / 深度报道情感劳动](concepts/DeepReportingEmotionalLabor.md) — Emotional burden of deep reporting when care, source intimacy, public value, and representational pressure make stories hard to carry.
 - [Creative Chinese Cuisine / 创意中餐](concepts/CreativeChineseCuisine.md) — EP245 frame for new Chinese cooking as recombination of regional flavor, tradition, technique, chef training, drink pairing, and dining format.
 - [Regional Flavor Transfer / 地方风味迁移](concepts/RegionalFlavorTransfer.md) — EP245 pattern where a clear regional taste element moves into another dish structure, cuisine, or drink scene.
 - [Guizhou Cuisine Flavor Transfer / 贵州酸辣风味迁移](concepts/GuizhouCuisineFlavorTransfer.md) — EP245 account of Guizhou acid, chili, fermentation, 木姜子, red sour soup, and bistro adaptation as portable flavor tools.
@@ -5437,11 +5447,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Good Work New Standard / 好工作的新标准](concepts/GoodWorkNewStandard.md) — EP244 umbrella frame for changing job-quality criteria across income, stability, dignity, growth, meaning, life stage, and media work.
 - [Normal Work Baseline / 正常工作基线](concepts/NormalWorkBaseline.md) — EP244 frame for basic non-exploitative work conditions such as pay, leave, social insurance, respect, and growth.
 - [Work Role Decentering / 工作角色去中心化](concepts/WorkRoleDecentering.md) — EP244 pattern where work no longer monopolizes identity, meaning, happiness, income, and social recognition.
-- [Journalistic Publicness / 记者工作的公共性](concepts/JournalisticPublicness.md) — EP244 frame for reporting as public explanation, stranger contact, cognitive labor, and accountable understanding.
-- [Social Reporting Burnout / 社会报道消耗](concepts/SocialReportingBurnout.md) — EP244 concept for the emotional, relational, and cognitive cost of public-facing social news.
+- [Journalistic Publicness / 记者工作的公共性](concepts/JournalisticPublicness.md) — Reporting as public explanation, stranger contact, cognitive labor, field entry, source trust, and accountable understanding.
+- [Social Reporting Burnout / 社会报道消耗](concepts/SocialReportingBurnout.md) — Emotional, relational, bodily, and cognitive cost of public-facing social news and deep reporting.
 - [Journalistic Authority Erosion / 记者权威感消失](concepts/JournalisticAuthorityErosion.md) — EP244 media-trust diagnosis around weakened reporter authority, public suspicion, and industry irregularity.
-- [Interview As Embodied Reporting / 采访作为具身报道](concepts/InterviewAsEmbodiedReporting.md) — EP244 AI-era boundary separating generated prose from human interviewing, scene judgment, and byline responsibility.
-- [Media Work As Lifestyle / 媒体工作作为生活方式](concepts/MediaWorkAsLifestyle.md) — EP244 explanation for why journalists may stay for autonomy, learning, simple relations, and contact with unfamiliar worlds.
+- [Interview As Embodied Reporting / 采访作为具身报道](concepts/InterviewAsEmbodiedReporting.md) — AI-era and field-method boundary separating generated prose from human interviewing, scene judgment, source trust, and byline responsibility.
+- [Media Work As Lifestyle / 媒体工作作为生活方式](concepts/MediaWorkAsLifestyle.md) — Why journalists may stay for autonomy, learning, and contact with unfamiliar worlds while needing body, rest, and life maintenance.
 - [Long-Horizon Work Evaluation / 长时间尺度工作评估](concepts/LongHorizonWorkEvaluation.md) — EP244/Yuan Changgeng frame for judging work over a whole life rather than one immediate workplace conflict.
 - [Adaptation As Moral Reframing / 改编作为道德重心重置](concepts/AdaptationAsMoralReframing.md) — EP243 concept for an adaptation changing a story's moral center from failure to ordinary personhood rather than only changing plot details.
 - [Northeast As Memory Structure / 东北作为记忆结构](concepts/NortheastAsMemoryStructure.md) — EP243 frame for Northeast identity as language, vanished landmarks, factory smell, rooms, food, football fields, and family memory.
@@ -6220,7 +6230,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Self Discovery Against Mass Conformity / 抵抗从众的自我追寻](concepts/SelfDiscoveryAgainstMassConformity.md) — Hesse self-seeking framed against church orthodoxy, education discipline, war fever, and inherited moral labels.
 - [Hesse Youth Culture Misreading / 黑塞青年文化误读](concepts/HesseYouthCultureMisreading.md) — Reception-history caution that countercultural and psychedelic uses of Hesse can flatten his wartime spiritual problem.
 - [Gnosticism / 诺斯替主义](concepts/Gnosticism.md) — Religious and literary influence used by the episode to explain experiential knowledge and Abraxas's whole-world symbolism.
-- [Fieldwork As Knowledge Method / 田野作为知识方法](concepts/FieldworkAsKnowledgeMethod.md) — Modern scholarship method where walking, measuring, excavating, recording, and comparing field evidence correct desk-bound inference.
+- [Fieldwork As Knowledge Method / 田野作为知识方法](concepts/FieldworkAsKnowledgeMethod.md) — Scholarship and journalism method where field evidence, social investigation, remote presence, and comparison correct desk-bound inference.
 - [Scholarship In Wartime / 乱世求研究](concepts/ScholarshipInWartime.md) — Research that continues under war, displacement, poverty, damaged infrastructure, and political pressure.
 - [Modern Chinese Academic Institution Building / 中国现代学术制度建设](concepts/ModernChineseAcademicInstitutionBuilding.md) — Training, funding, laboratories, surveys, publications, and organizations as scholarly achievement.
 - [Cosmopolitan Chinese Scholarship / 世界主义的中国学术](concepts/CosmopolitanChineseScholarship.md) — Modern Chinese scholarship that uses international methods and collaborators to study Chinese land, language, buildings, and antiquity.

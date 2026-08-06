@@ -2523,6 +2523,10 @@
     "title": "Airline Unbundling",
     "url": "/wiki/concepts/airlineunbundling/"
   },
+  "AishaGaza": {
+    "title": "Aisha (Gaza Letters)",
+    "url": "/wiki/entities/aishagaza/"
+  },
   "Ajiao": {
     "title": "阿娇 / 柱子哥",
     "url": "/wiki/entities/ajiao/"
@@ -6307,6 +6311,10 @@
     "title": "程夫人 / Madam Cheng",
     "url": "/wiki/entities/chengfuren/"
   },
+  "ChengJing": {
+    "title": "程静 / Cheng Jing",
+    "url": "/wiki/entities/chengjing/"
+  },
   "Chengdu": {
     "title": "Chengdu / 成都",
     "url": "/wiki/entities/chengdu/"
@@ -8775,6 +8783,10 @@
     "title": "DeepMind Acquisition Choice",
     "url": "/wiki/concepts/deepmindacquisitionchoice/"
   },
+  "DeepReportingEmotionalLabor": {
+    "title": "Deep Reporting Emotional Labor / 深度报道情感劳动",
+    "url": "/wiki/concepts/deepreportingemotionallabor/"
+  },
   "DeepResearch": {
     "title": "Deep Research",
     "url": "/wiki/concepts/deepresearch/"
@@ -11210,6 +11222,10 @@
   "FemaleDuelAgency": {
     "title": "Female Duel Agency / 女性决斗主体性",
     "url": "/wiki/concepts/femaleduelagency/"
+  },
+  "FemaleJournalistFieldwork": {
+    "title": "Female Journalist Fieldwork / 女记者现场方法",
+    "url": "/wiki/concepts/femalejournalistfieldwork/"
   },
   "FemaleOralStorytelling": {
     "title": "Female Oral Storytelling / 女性口头叙事",
@@ -24791,6 +24807,10 @@
     "title": "Qin Shi Huang / 秦始皇",
     "url": "/wiki/entities/qinshihuang/"
   },
+  "QinSi": {
+    "title": "秦思 / Qin Si",
+    "url": "/wiki/entities/qinsi/"
+  },
   "QinZong": {
     "title": "秦总",
     "url": "/wiki/entities/qinzong/"
@@ -25447,6 +25467,10 @@
     "title": "Remora Carbon",
     "url": "/wiki/entities/remoracarbon/"
   },
+  "RemoteReportingPresence": {
+    "title": "Remote Reporting Presence / 远程采访现场感",
+    "url": "/wiki/concepts/remotereportingpresence/"
+  },
   "RenDanHeYi": {
     "title": "人单合一 / RenDanHeYi",
     "url": "/wiki/concepts/rendanheyi/"
@@ -25510,6 +25534,10 @@
   "Replit": {
     "title": "Replit",
     "url": "/wiki/entities/replit/"
+  },
+  "ReporterSourceTrustNetwork": {
+    "title": "Reporter-Source Trust Network / 记者与信任网络",
+    "url": "/wiki/concepts/reportersourcetrustnetwork/"
   },
   "RepresentationLearning": {
     "title": "Representation Learning",
@@ -32095,6 +32123,10 @@
     "title": "魏则西事件",
     "url": "/wiki/concepts/weizexiincident/"
   },
+  "WeiZhaoyang": {
+    "title": "魏昭阳 / Wei Zhaoyang",
+    "url": "/wiki/entities/weizhaoyang/"
+  },
   "WeilaiBuyuan": {
     "title": "Weilai Buyuan",
     "url": "/wiki/entities/weilaibuyuan/"
@@ -32710,6 +32742,10 @@
   "Xiamen": {
     "title": "Xiamen / 厦门",
     "url": "/wiki/entities/xiamen/"
+  },
+  "XianchangXianchang": {
+    "title": "现场！现场！ / Xianchang Xianchang",
+    "url": "/wiki/entities/xianchangxianchang/"
   },
   "XiangJiXuanZhi": {
     "title": "《项脊轩志》",
@@ -36086,6 +36122,10 @@
   "wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d": {
     "title": "WWDC 26 补上了 AI，但离真正的 AI 助手还差什么？｜ S10E15",
     "url": "/wiki/sources/wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d/"
+  },
+  "xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c": {
+    "title": "现场！现场！ | 2025年终特辑：三联女记者揭秘新闻背后的苦与光",
+    "url": "/wiki/sources/xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c/"
   },
   "xiangliang-moxing-gongchengshi-ai-de-yincang-pingjing-yu-xinshidai-de-xinxi-migong-4b6cf945-d64a-4dd0-95a7-cb8f11963698": {
     "title": "Episode 17: 向量模型工程师：AI 的隐藏瓶颈与新时代的信息迷宫",

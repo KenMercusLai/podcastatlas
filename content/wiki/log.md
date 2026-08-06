@@ -6417,3 +6417,11 @@ Added source page for a Talk三联 annual food-issue episode with 吴立伟, 邱
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | 现场！现场！ | 2025年终特辑：三联女记者揭秘新闻背后的苦与光
+
+Added source page for a Talk三联 现场！现场！ year-end special with 吴立伟, 秦思, 程静, and 魏昭阳 on women reporters, investigation, international reporting, remote interviewing, source trust, reporting emotional labor, audience feedback, and sustainable media work. Created pages for 秦思, 程静, 魏昭阳, 现场！现场！, Aisha (Gaza Letters), Female Journalist Fieldwork, Remote Reporting Presence, Reporter-Source Trust Network, and Deep Reporting Emotional Labor; updated overview, index, Talk三联, 三联生活周刊, 吴立伟, Interview As Embodied Reporting, Social Reporting Burnout, Journalistic Publicness, Media Work As Lifestyle, and Fieldwork As Knowledge Method. No direct contradiction found; the source reinforces the existing journalism-work branch by showing how public reporting is produced through gendered field access, embodied interview practice, improvised trust networks, and the emotional cost of caring about whether suffering is adequately restored to readers.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
