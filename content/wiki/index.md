@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.118.单身人士养老指南：不是孤独的代名词，是更早掌握人生的主动权](sources/vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt.md) — 起朱楼宴宾客 crossover with 知青小酒馆 on single/solo aging, retirement cash flow, aging in place, health, relationship capital, cognitive-decline planning, and solo death preparedness.
 - [vol.117.生物医药的2025：抄底中国、研发焦虑和新王继位](sources/vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7.md) — 起朱楼宴宾客 episode with 大卫翁 and 小P老师 on China biotech asset repricing, MNC patent-cliff anxiety, license-out and reverse NewCo structures, PD-1/VEGF, TCE, ADC, GLP-1, HIV prevention, BeiGene globalization, AI drug, and in vivo mRNA CAR-T.
 - [Vol.115 全球宏观和资本市场2025展望：短期问题不解决，就没有中期和长期了](sources/vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx.md) — 起朱楼宴宾客 episode with 大卫翁 and Ricky on China policy easing, fiscal transmission, A/H equity barbell strategy, bond-return expectations, U.S. mega-cap tech, gold, commodities, and cash optionality.
 - [88.别认输，惠子：在听不到喝彩的世界里，挥拳！](sources/88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803.md) — 蜜獾吃书 episode on 惠子, 《惠子凝视》, deaf education, communication misrecognition, female boxing, gym access, and boxing as embodied agency rather than simple inspirational victory.
@@ -740,6 +741,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [知青小酒馆 / Zhiqing Xiaojiuguan](entities/ZhiqingXiaojiuguan.md) — Crossover partner in vol.118, where single aging is treated as life-system planning rather than only retirement finance.
 - [小P老师 / Xiao P Teacher](entities/XiaoPTeacher.md) — Biotech early-research guest in vol.117, grounding the episode's sober 2025 view of PD-1, CAR-T, ADC, AI drug, and cross-border biotech transactions.
 - [Akeso / 康方生物](entities/Akeso.md) — Chinese biotech company used by vol.117 as the central PD-1/VEGF bispecific and China asset-repricing example.
 - [BeiGene / 百济神州](entities/BeiGene.md) — Chinese biotech company used by vol.117 as a self-globalization case beyond ordinary license-out.
@@ -5117,6 +5119,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Solo Aging Planning / 单身养老规划](concepts/SoloAgingPlanning.md) — Vol.118 frame for preparing money, residence, health, relationships, emotions, cognition, and death arrangements before solo later life becomes crisis.
+- [Active Solo Living / 主动独居](concepts/ActiveSoloLiving.md) — Distinction between chosen solo living with support and forced isolation caused by poverty, weak care systems, or social exclusion.
+- [Retirement Cash-Flow Security](concepts/RetirementCashFlowSecurity.md) — Late-life income reliability frame around annuity-like certainty, passive income, work extension, reverse mortgages, and outliving-money anxiety.
+- [Aging-In-Place Support System / 居家养老支持系统](concepts/AgingInPlaceSupportSystem.md) — Home-care and residence-choice frame where familiar neighborhoods, city services, carers, hospitals, and emergency response make solo aging viable.
+- [Elder Relationship Capital / 老年关系资本](concepts/ElderRelationshipCapital.md) — Trusted friendship, relative, neighbor, and community ties treated as late-life assets built through long-term maintenance.
+- [Cognitive Decline Advance Planning / 认知障碍提前规划](concepts/CognitiveDeclineAdvancePlanning.md) — Planning for wills, mandates, trusted decision-makers, care wishes, and finances before dementia-like decline removes capacity.
+- [Solo Death Preparedness / 独居死亡准备](concepts/SoloDeathPreparedness.md) — End-of-life preparation for solo elders around early discovery, legal and medical wishes, family conflict, and the stigma of solitary death.
 - [China Biotech Asset Repricing](concepts/ChinaBiotechAssetRepricing.md) — Vol.117 frame for MNCs buying or licensing depressed Chinese biotech assets that may be valued higher in overseas structures.
 - [Biotech License-Out Arbitrage](concepts/BiotechLicenseOutArbitrage.md) — Pattern where a Chinese pipeline licensed overseas is later repriced or transferred at a much higher implied valuation.
 - [Reverse NewCo Biotech Model](concepts/ReverseNewCoBiotechModel.md) — Cross-border structure taking Chinese pipelines into overseas NewCos to capture more upside than ordinary license-out.

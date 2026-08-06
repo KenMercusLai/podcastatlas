@@ -1879,6 +1879,10 @@
     "title": "Active Management Style Evolution",
     "url": "/wiki/concepts/activemanagementstyleevolution/"
   },
+  "ActiveSoloLiving": {
+    "title": "Active Solo Living / 主动独居",
+    "url": "/wiki/concepts/activesololiving/"
+  },
   "ActivistInvestorPressure": {
     "title": "Activist Investor Pressure",
     "url": "/wiki/concepts/activistinvestorpressure/"
@@ -2242,6 +2246,10 @@
   "AggregateIndicatorsLivedExperienceGap": {
     "title": "Aggregate Indicators Lived Experience Gap",
     "url": "/wiki/concepts/aggregateindicatorslivedexperiencegap/"
+  },
+  "AgingInPlaceSupportSystem": {
+    "title": "Aging-In-Place Support System / 居家养老支持系统",
+    "url": "/wiki/concepts/aginginplacesupportsystem/"
   },
   "AgingRealityEstrangement": {
     "title": "Aging Reality Estrangement",
@@ -6543,6 +6551,10 @@
     "title": "Cognition",
     "url": "/wiki/entities/cognition/"
   },
+  "CognitiveDeclineAdvancePlanning": {
+    "title": "Cognitive Decline Advance Planning / 认知障碍提前规划",
+    "url": "/wiki/concepts/cognitivedeclineadvanceplanning/"
+  },
   "CognitiveDissonanceAndAccommodation": {
     "title": "Cognitive Dissonance And Accommodation / 认知失调与顺应",
     "url": "/wiki/concepts/cognitivedissonanceandaccommodation/"
@@ -9306,6 +9318,10 @@
   "ElderCareStateCapacity": {
     "title": "Elder Care State Capacity",
     "url": "/wiki/concepts/eldercarestatecapacity/"
+  },
+  "ElderRelationshipCapital": {
+    "title": "Elder Relationship Capital / 老年关系资本",
+    "url": "/wiki/concepts/elderrelationshipcapital/"
   },
   "ElderTechnologyExclusion": {
     "title": "Elder Technology Exclusion / 老年技术排除",
@@ -23655,6 +23671,10 @@
     "title": "Retail Site Selection",
     "url": "/wiki/concepts/retailsiteselection/"
   },
+  "RetirementCashFlowSecurity": {
+    "title": "Retirement Cash-Flow Security",
+    "url": "/wiki/concepts/retirementcashflowsecurity/"
+  },
   "RetrievalAugmentedGeneration": {
     "title": "Retrieval-Augmented Generation",
     "url": "/wiki/concepts/retrievalaugmentedgeneration/"
@@ -25838,6 +25858,14 @@
   "SolidTumorCARTConstraints": {
     "title": "Solid Tumor CAR-T Constraints",
     "url": "/wiki/concepts/solidtumorcartconstraints/"
+  },
+  "SoloAgingPlanning": {
+    "title": "Solo Aging Planning / 单身养老规划",
+    "url": "/wiki/concepts/soloagingplanning/"
+  },
+  "SoloDeathPreparedness": {
+    "title": "Solo Death Preparedness / 独居死亡准备",
+    "url": "/wiki/concepts/solodeathpreparedness/"
   },
   "SoloFounderFundraisingBias": {
     "title": "Solo Founder Fundraising Bias",
@@ -31239,6 +31267,10 @@
     "title": "Zhipu AI",
     "url": "/wiki/entities/zhipuai/"
   },
+  "ZhiqingXiaojiuguan": {
+    "title": "知青小酒馆 / Zhiqing Xiaojiuguan",
+    "url": "/wiki/entities/zhiqingxiaojiuguan/"
+  },
   "ZhishangCeshiBook": {
     "title": "《智商测试》",
     "url": "/wiki/entities/zhishangceshibook/"
@@ -33290,6 +33322,10 @@
   "vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7": {
     "title": "vol.117.生物医药的2025：抄底中国、研发焦虑和新王继位",
     "url": "/wiki/sources/vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7/"
+  },
+  "vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt": {
+    "title": "vol.118.单身人士养老指南：不是孤独的代名词，是更早掌握人生的主动权",
+    "url": "/wiki/sources/vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt/"
   },
   "vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1": {
     "title": "Vol. 160 一年多以后，再聊AI写代码Vibe Coding",

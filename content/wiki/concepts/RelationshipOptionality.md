@@ -2,8 +2,8 @@
 title: "Relationship Optionality"
 type: concept
 tags: [relationships, youth, gender, life-design]
-sources: [chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
-last_updated: 2026-07-25
+sources: [vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt, chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
+last_updated: 2026-08-06
 ---
 
 # Relationship Optionality
@@ -14,12 +14,15 @@ Relationship optionality is [[vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-z
 
 The source's key distinction is reversibility. Dating and even marriage can be tried and exited more easily than childbirth, so the latter receives more caution. [[DavidWeng|大卫翁]] adds that once intimacy becomes optional rather than mandatory, its inconvenience, transaction cost, and downside become more visible.
 
+[[vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt]] adds the later-life version. If marriage and childbirth are optional rather than default elder-care routes, the person must deliberately build [[ElderRelationshipCapital]] and practical supports so [[ActiveSoloLiving|active solo living]] does not collapse into isolation.
+
 ## Key Claims
 - Optionality raises the threshold for entering intimacy because not entering is now a viable life path.
 - A negative list is not necessarily a high standard; in this source it means excluding basic moral and behavioral red flags.
 - Reversibility changes risk perception: romance and marriage look more testable than childbirth.
 - Women's broader economic and social choices make unsatisfying relationships less compulsory, which can raise partner expectations.
 - The frame connects personal choice to [[YouthHappinessAfterGrowth]] because happiness no longer has to be routed through one standard family sequence.
+- Vol.118 adds that optionality creates a planning burden: not choosing spouse/children as default care infrastructure means building other relationship and service supports earlier.
 
 ## Connections
 - [[SiriQizhulou|Siri]] and [[DavidWeng|大卫翁]] — source speakers.
@@ -27,3 +30,4 @@ The source's key distinction is reversibility. Dating and even marriage can be t
 - [[ObjectiveSelfOwnership]] and [[FemaleSelfPossession]] — selfhood frames that make optionality possible.
 - [[SocialTrustAndHappiness]] — relationship quality still matters even when relationships become optional.
 - [[ChoiceTriggeredAttentionBoundary]] — relationship decisions are high-attention because they require concrete choices.
+- [[SoloAgingPlanning]], [[ActiveSoloLiving]], and [[ElderRelationshipCapital]] - later-life extension of optional intimacy and family defaults.

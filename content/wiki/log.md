@@ -5908,3 +5908,11 @@ Added source page for a 起朱楼宴宾客 episode with 大卫翁 and 小P老师
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | vol.118.单身人士养老指南：不是孤独的代名词，是更早掌握人生的主动权
+
+Added source page for a 起朱楼宴宾客 crossover with 知青小酒馆 on single and solo later-life planning. Created pages for 知青小酒馆, Solo Aging Planning, Active Solo Living, Retirement Cash-Flow Security, Aging-In-Place Support System, Elder Relationship Capital, Cognitive Decline Advance Planning, and Solo Death Preparedness; updated overview, index, 起朱楼宴宾客, Japan, China, Elder Care State Capacity, Age-Friendly Infrastructure, Long-Term Care Insurance Planning, Personal Cash-Flow Account, Relationship Optionality, End-of-Life Autonomy And Dignity, and Embodied Aging. No direct contradiction found; the source complements vol.109's pension-account discussion by widening retirement preparation into residence, health, care systems, relationships, emotions, cognition, and death arrangements.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

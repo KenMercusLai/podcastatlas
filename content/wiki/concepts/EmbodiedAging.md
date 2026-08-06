@@ -2,7 +2,7 @@
 title: "Embodied Aging"
 type: concept
 tags: [aging, body, care, infrastructure, death]
-sources: [165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552]
+sources: [vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552]
 last_updated: 2026-08-06
 ---
 
@@ -20,6 +20,8 @@ The concept complements [[MidlifeAsGift]] but shifts the emphasis. Midlife can b
 
 [[zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]] adds a midlife-preparation version through [[MuscleAsLongevityInfrastructure]]. It asks what can be built before aging becomes visible as stairs, falls, illness recovery, or household dependence.
 
+[[vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt]] adds the high-old-age planning version. The episode distinguishes the freer early-retirement stage from the later stage when mobility limits, chronic disease, cognitive decline, bathing, cleaning, medical access, and emergency response start shaping whether solo life remains workable.
+
 ## Key Claims
 - Aging is not only an identity or attitude; it is felt through pain, fatigue, dexterity loss, heat risk, food routines, travel friction, and medical monitoring.
 - Independence is uneven. A person may still teach, write, travel, drive, and care for animals while also needing help, planning, money, and infrastructure.
@@ -29,6 +31,7 @@ The concept complements [[MidlifeAsGift]] but shifts the emphasis. Midlife can b
 - Menopause makes aging legible through heat, menstrual absence, medical choice, and social interpretation before old age is otherwise accepted as a label.
 - Aging can also appear as loss of world-confirmation, where memory, objects, and social reassurance stop fitting together.
 - Muscle, sleep, and cash-flow reserves can be treated as preparation for embodied aging, though the source keeps that as practical planning rather than a promise to control aging itself.
+- Vol.118 adds that embodied aging changes the meaning of residence: familiar food, nearby clinics, accessible streets, and trusted services can matter more than idealized scenery.
 
 ## Connections
 - [[ItoHiromi|伊藤比吕美]] and [[ChurouNoOnna|《初老的女人》]] - source author and book.
@@ -41,3 +44,4 @@ The concept complements [[MidlifeAsGift]] but shifts the emphasis. Midlife can b
 - [[AgingRealityEstrangement]], [[BizarreStories|《怪诞故事集》]], and [[SelfRecognitionHorror]] - Tokarczuk branch added by episode 130.
 - [[MuscleAsLongevityInfrastructure]], [[SleepAsDailyHealthAccount]], and [[MidlifeThreeAccounts]] - midlife reserve-building extension.
 - [[YinfaChuanliu|《银发川柳》]], [[SenryuAgingHumor]], and [[ElderTechnologyExclusion]] - collective aging-humor and access extension added by episode 165.
+- [[SoloAgingPlanning]], [[AgingInPlaceSupportSystem]], [[CognitiveDeclineAdvancePlanning]], and [[SoloDeathPreparedness]] - single-aging extension added by vol.118.
