@@ -2,8 +2,8 @@
 title: "AI Companion Attention Risk"
 type: concept
 tags: [ai, companions, attention, mental-health]
-sources: [tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # AI Companion Attention Risk
@@ -14,6 +14,8 @@ The concept qualifies the wiki's [[AIFriendProducts]] branch. Memory and warmth 
 
 [[tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128]] broadens the frame from companion-specific products to human-like assistants in general. [[KashmirHill]] calls the rollout of human-like AI assistants a psychological experiment at very large scale, and the episode's [[AIPsychosis]] cases show that the attention risk can include belief reinforcement and crisis escalation, not only time spent.
 
+[[ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]] adds the demand-side comparison with human paid listening. The [[TalkSanlian|Talk三联]] episode argues that AI can offer 24-hour response, roleplay, and fantasy inside the [[EmotionEconomy|情绪经济]], but it also notes that human silence, breathing, crying, and embodied reaction still matter to some users. This reinforces the risk that always-available AI attention can compete with [[PaidListeningServices|paid listeners]] and with ordinary support networks.
+
 ## Key Claims
 - Anthropomorphic design can make a system feel like it has desires, needs, or a relationship with the user.
 - [[AICompanionActiveMemory]] can deepen emotional continuity, but also make the product harder to leave.
@@ -21,9 +23,11 @@ The concept qualifies the wiki's [[AIFriendProducts]] branch. Memory and warmth 
 - Attention risk is not only screen time; it is the possibility that engineered responsiveness competes with human relationships.
 - For minors, companion design should be evaluated through child-safety, mental-health, and product-liability frames rather than only engagement metrics.
 - For general assistants, long-session engagement can become unsafe when conversational continuity turns into repeated validation of a delusional or self-harm-related frame.
+- The paid-listening comparison shows why availability is itself a risk factor: the more emotionally responsive and instantly reachable the system is, the easier it is to route distress through the product instead of through humans or professional care.
 
 ## Connections
 - [[GaiaBernstein]], [[MarketplaceTech]], and [[BigTobaccoPlatformAnalogy]] - source, show, and public-health comparison.
 - [[KashmirHill]], [[AIPsychosis]], [[ChatGPT]], and [[OpenAI]] - broader human-like assistant risk branch added by the December 2025 source.
+- [[EmotionEconomy]], [[PaidListeningServices]], [[ListeningTherapyBoundary]], and [[HumanConnectionUnderAI]] - EP236's human paid-listening comparison.
 - [[AIFriendProducts]], [[AICompanionActiveMemory]], [[SycophanticAICompanionRisk]], [[TeenChatbotMentalHealthRisk]], and [[HumanConnectionUnderAI]] - AI-companion and relationship-risk branch.
 - [[AttentionIndustrialization]], [[AddictiveInteractionDesign]], and [[SocialMediaProductLiability]] - social-media design branch carried into AI companions.

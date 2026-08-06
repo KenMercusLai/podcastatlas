@@ -6345,3 +6345,11 @@ Added source page for a 起朱楼宴宾客 half-year 2026 macro review with 大�
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP236 唠五块钱心里话，付费的陪伴是真的吗？
+
+Added source page for a Talk三联 episode with 魏茜 and 阮佳宁 on emotion economy, paid listening, emotional value commodification, therapy/listening boundaries, platform renewal incentives, crisis-intervention limits, tactile comfort consumption, wellness relief, ritual hope, AI companionship, and emotion-regulation tools. Created pages for 魏茜 / Wei Qian (Sanlian), 阮佳宁 / Ruan Jianing, Jellycat, Emotion Economy, Paid Listening Services, Emotional Value Commodification, Listening-Therapy Boundary, Emotional Service Platform Incentives, Mental Health Crisis Intervention Boundary, Tactile Comfort Consumption, Ritual Hope Consumption, Emotion Regulation Toolkit, and Immediate-Relief Wellness Consumption; updated overview, index, Talk三联, 三联生活周刊, AI Friend Products, AI Companion Attention Risk, Human Connection Under AI, Therapy Relationship And Boundaries, Relationship Need Diversification, and Companion Animal Health. No direct contradiction found; the source reinforces AI-companion risk and therapy-boundary pages by showing why people seek always-available comfort while keeping professional crisis care and noncommercial support networks as hard limits.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran health before lint; health scanned 8,933 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,933 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 8,933 pages, so graph findings are advisory until `build graph` refreshes it; the graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`; a bounded in-session semantic sample review found no hard contradiction and flagged source-breadth gaps for current AI-politics, fisheries/commodity, and company-annual-report innovation claims. No `wiki/lint-report.md` file was saved.

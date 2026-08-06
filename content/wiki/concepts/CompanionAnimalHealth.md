@@ -2,8 +2,8 @@
 title: "Companion Animal Health"
 type: concept
 tags: [animal-welfare, mental-health, relationships, public-health]
-sources: [34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]
-last_updated: 2026-08-06
+sources: [ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, 34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]
+last_updated: 2026-08-07
 ---
 
 # Companion Animal Health
@@ -18,6 +18,8 @@ The source makes the frame concrete through grief over a cat, children recoverin
 
 [[34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607]] adds a longer historical cat version through [[Cat|猫]]. The episode is not a clinical companion-animal source, but it shows that household cat attachment grows out of older practical and symbolic roles: pest control, household protection, divine or magical proximity, literary companionship, and the recurring human recognition that a nonhuman housemate can expose human vanity and loneliness.
 
+[[ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]] adds the [[EmotionEconomy|情绪经济]] comparison. [[WeiQianSanlian|魏茜]] and [[RuanJianing|阮佳宁]] discuss cats as anchors that provide nonverbal companionship, routine, and bodily comfort, while contrasting that with [[TactileComfortConsumption|plush toys]] and AI-enhanced comfort objects.
+
 ## Key Claims
 - Health includes social and emotional safety, not only absence of disease.
 - Companion animals can offer nonjudgmental presence when human social contact is too defended, status-bound, or frightening.
@@ -26,6 +28,7 @@ The source makes the frame concrete through grief over a cat, children recoverin
 - Treating animal attachment as trivial can damage care, because people may refuse rescue, shelter, treatment, or disclosure if it means abandoning an animal they treat as family.
 - Companion care can become morally difficult when treatment, pain, euthanasia, or separation force humans to act for an animal that cannot understand the reason.
 - A wild animal can temporarily become a companion and community anchor, but that bond should not erase species-specific needs or release/captivity questions.
+- In emotion-economy contexts, pets should not be collapsed into products: they can regulate mood through presence and routine, but they remain living relationships with care obligations.
 
 ## Connections
 - [[PetGriefAndCare]] - existing relationship and loss frame extended by this source.
@@ -37,3 +40,4 @@ The source makes the frame concrete through grief over a cat, children recoverin
 - [[TeenChatbotMentalHealthRisk]] - adjacent mental-health-support page; this source concerns embodied animal companionship rather than AI companionship.
 - [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]], [[StGeorgesSchool|St. George's School / 圣乔治学校]], [[MariaStGeorges|Maria / 玛利亚]], and [[WildAnimalRescueResponsibility]] - wild-animal school-community extension added by episode 138.
 - [[Cat|猫]] and [[CatCulturalAmbivalence]] - historical companion-animal extension added by episode 34.
+- [[EmotionEconomy]], [[TactileComfortConsumption]], [[Jellycat]], and [[EmotionRegulationToolkit]] - EP236's consumer-comfort and self-care comparison.

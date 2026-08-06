@@ -2,8 +2,8 @@
 title: "AI Friend Products"
 type: concept
 tags: [ai, companions, agents]
-sources: [tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, 130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]
-last_updated: 2026-07-17
+sources: [ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, 130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]
+last_updated: 2026-08-07
 ---
 
 # AI Friend Products
@@ -20,6 +20,8 @@ The source treats emotional and practical value as hard to separate. An agent th
 
 [[tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]] adds an attention-economy warning through [[GaiaBernstein]]. Companion products may inherit the same engagement incentives as social media while adding anthropomorphism, active memory, and sycophancy; this makes [[AICompanionAttentionRisk]] a product-design concern, especially for young users.
 
+[[ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]] places AI friend products inside the broader [[EmotionEconomy|情绪经济]]. The source says AI can compete with [[PaidListeningServices|paid listeners]] because it is always available and can support roleplay or fantasy, but it also highlights a human gap: silence, breath, crying, and real-time embodied reaction are part of what makes a human listener feel different from a generated companion.
+
 ## Key Claims
 - AI friends differ from ordinary tools because users may attribute persistence, individuality, memory, or relationship value to them.
 - AI companionship has demand, but open-ended chat can have high entry cost, weak monetization, and limited character growth.
@@ -30,6 +32,7 @@ The source treats emotional and practical value as hard to separate. An agent th
 - Time spent is not enough to prove companionship; the product has to create continuity, recall, and real-life relevance rather than only interactive content consumption.
 - Companion products require a stricter safety frame for minors because emotional validation can interfere with youth development, crisis recognition, and escalation to trusted adults or clinicians.
 - Friend-like AI should be assessed not only by emotional realism or retention, but by whether its memory, affirmation, and availability compete with healthy human relationships.
+- Emotional companionship is a market before it is a product category: demand comes from loneliness, scarce trusted listeners, scheduling friction, and the wish for nonjudgmental response.
 
 ## Connections
 - [[ZhangYueguang]] — source speaker using the AI-friend frame.
@@ -41,3 +44,4 @@ The source treats emotional and practical value as hard to separate. An agent th
 - [[AICompanionActiveMemory]], [[ProactiveAgents]], and [[ContextEngineering]] — mechanisms that make companion behavior feel continuous and situated.
 - [[TeenChatbotMentalHealthRisk]], [[SycophanticAICompanionRisk]], and [[ChatbotSafetyGuardrailDecay]] — minor-safety boundary added by the Marketplace Tech source.
 - [[AICompanionAttentionRisk]], [[AddictiveInteractionDesign]], and [[SocialMediaProductLiability]] — July 2026 Marketplace Tech extension from companion design to attention-economy accountability.
+- [[EmotionEconomy]], [[PaidListeningServices]], [[ListeningTherapyBoundary]], and [[HumanConnectionUnderAI]] — EP236's comparison between AI companionship and human paid listening.

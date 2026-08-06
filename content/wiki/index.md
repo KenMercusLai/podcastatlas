@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP236 唠五块钱心里话，付费的陪伴是真的吗？](sources/ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx.md) — Talk三联 episode with 魏茜 and 阮佳宁 on emotion economy, paid listening, therapy boundaries, platform incentives, plush and pet comfort, wellness relief, ritual hope, AI companionship, and emotion-regulation support networks.
 - [172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步](sources/172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2.md) — 起朱楼宴宾客 half-year 2026 macro review with 大卫翁 and Ricky on AI capex re-igniting global equities, U.S.-China AI macro asymmetry, China AI export leverage, employment-multiplier compression, Fed constraints, cash-first defense, A-share domestic substitution, and Hong Kong innovation drugs.
 - [171.为什么牛市后期更容易亏钱？｜半年度投资账复盘](sources/171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk.md) — 起朱楼宴宾客 half-year 2026 investment review on late bull-market loss risk, market breadth narrowing, FOMO entry, overtrading, oversized bets, and 2014-2015 A-share wealth redistribution.
 - [170.《1929》的泡沫之夏：三个代表人物，和他们在当下周期的影子](sources/170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j.md) — 起朱楼宴宾客 episode reading Andrew Ross Sorkin's 1929 through Richard Whitney, William Durant, and Charles E. Mitchell as role portraits for AI-cycle governance, SoftBank/OpenAI conviction, private credit, retail leverage, and institutional trust transmission.
@@ -793,6 +794,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [魏茜 / Wei Qian (Sanlian)](entities/WeiQianSanlian.md) — 三联生活周刊 reporter and Talk三联 guest grounding EP236's emotion-economy, wellness, plush, pet, and self-care discussion.
+- [阮佳宁 / Ruan Jianing](entities/RuanJianing.md) — 三联生活周刊 reporter and Talk三联 guest grounding EP236's paid-listening, platform-incentive, therapy-boundary, and AI-companionship discussion.
+- [Jellycat](entities/Jellycat.md) — Plush-toy brand used by EP236 as an example of tactile comfort consumption inside the emotion economy.
 - [Siri Investment / Siri 投资](entities/SiriInvestment.md) — Ricky's investment firm named in episode 172, separated from Apple Siri and tied to AI capex, China/Hong Kong rotation, and institutional risk-control context.
 - [Andrew Ross Sorkin](entities/AndrewRossSorkin.md) — Journalist-author whose 1929 book gives episode 170 its character-driven market-history frame.
 - [1929 / 《1929》 (Andrew Ross Sorkin)](entities/NineteenTwentyNineSorkin.md) — Sorkin book read by episode 170 as a behavioral-finance archive around crash actors, leverage, and institutional trust.
@@ -5371,6 +5375,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Emotion Economy / 情绪经济](concepts/EmotionEconomy.md) — Market frame for products and services that sell comfort, relief, companionship, identity, hope, or quick happiness.
+- [Paid Listening Services / 付费树洞与倾听师](concepts/PaidListeningServices.md) — Online paid listening and chat services where users buy immediate feedback, emotional containment, and temporary companionship.
+- [Emotional Value Commodification / 情绪价值商品化](concepts/EmotionalValueCommodification.md) — Pattern where listening, comfort, recognition, and companionship are named as value and turned into products or services.
+- [Listening-Therapy Boundary / 倾听与心理咨询边界](concepts/ListeningTherapyBoundary.md) — Boundary between ordinary paid emotional listening and psychotherapy, including training, role, supervision, and crisis limits.
+- [Emotional Service Platform Incentives / 情绪服务平台激励](concepts/EmotionalServicePlatformIncentives.md) — Platform, commission, matching, training, and renewal pressures that shape paid emotional services.
+- [Mental Health Crisis Intervention Boundary / 心理危机干预边界](concepts/MentalHealthCrisisInterventionBoundary.md) — Point where self-harm, suicide threats, or life-threatening distress exceed ordinary paid listening, friendship, or AI companionship.
+- [Tactile Comfort Consumption / 触感安慰消费](concepts/TactileComfortConsumption.md) — Plush, pet, and bodily-comfort consumption where softness, weight, warmth, and quiet presence regulate emotion.
+- [Ritual Hope Consumption / 仪式性希望消费](concepts/RitualHopeConsumption.md) — Buying rituals, symbols, objects, or practices that turn uncertainty into visible hope or participation.
+- [Emotion Regulation Toolkit / 情绪调节工具箱](concepts/EmotionRegulationToolkit.md) — Practical set of supports and body-based actions for noticing, tolerating, regulating, and seeking help around emotion.
+- [Immediate-Relief Wellness Consumption / 即时缓解型疗愈消费](concepts/ImmediateReliefWellnessConsumption.md) — Wellness services such as sound healing or sleep-oriented scenes evaluated by quick felt relief and permission to pause.
 - [U.S.-China AI Macro Asymmetry / 中美AI宏观不对称](concepts/USChinaAIMacroAsymmetry.md) — Episode 172 frame contrasting U.S. AI capex/wealth-effect demand with China's export, advanced-manufacturing, domestic-substitution, and supply-side AI channels.
 - [AI Labor Substitution Valuation Boundary / AI劳动力替代估值边界](concepts/AILaborSubstitutionValuationBoundary.md) — Episode 172 distinction between priced coding/office substitution and uncertain broad white-collar labor replacement.
 - [China AI Export Leverage / 中国AI出口杠杆](concepts/ChinaAIExportLeverage.md) — Episode 172 frame for AI-chain exports supporting Chinese value growth, profits, and manufacturing while passing less cleanly into jobs and household demand.
