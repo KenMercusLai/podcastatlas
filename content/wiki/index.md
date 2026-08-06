@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [156.生物医药的2026：当市场不再为BD躁动，中国药企的星辰大海才刚刚展开](sources/156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup.md) — 起朱楼宴宾客 2026 biopharma outlook on record 2025 China innovation-drug BD, MNC patent cliffs, platform-level deals, PFS/OS data validation, Innovent-Takeda co-development, TCE/CAR-T pressure, GLP-1 competition, RDCs, small nucleic acid drugs, and payment-policy support.
 - [155.如何理解黄金的史诗级波动](sources/155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi.md) — 起朱楼宴宾客 addendum on gold and silver's extreme volatility, commodity time-horizon analysis, ETF and CTA flow mechanics, gold as U.S./dollar distrust vote, central-bank buying, Kevin Warsh's Fed-chair succession, Fed politicization, and allocation sizing discipline.
 - [154.四十岁感言：不做那只温水里的青蛙](sources/154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x.md) — 起朱楼宴宾客 personal reflection by 大卫翁 on leaving the People's Bank system, the 2015 market crash, finance/content career turns, platform social capital, telos crisis, midlife self-knowledge, habits, worldview, and protecting autonomy from phones, feeds, and AI answers.
 - [153.全球宏观和资本市场2026展望：大年之后，仍是大年？](sources/153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d.md) — 起朱楼宴宾客 2026 macro and capital-market outlook with Ricky on 2025's asset-management big year, China equity-real-economy divergence, central balance-sheet demand support, RMB/gold/AI/private-market risks, insurance funds, and A/H plus Hong Kong structural selection.
@@ -927,9 +928,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [知青小酒馆 / Zhiqing Xiaojiuguan](entities/ZhiqingXiaojiuguan.md) — Crossover partner in vol.118, where single aging is treated as life-system planning rather than only retirement finance.
 - [大白牛老师 / Daba Niu Teacher](entities/DabaNiuTeacher.md) — Clinical-development guest in episode 130, grounding the role map in doctors, patients, trials, and development execution.
 - [小P老师 / Xiao P Teacher](entities/XiaoPTeacher.md) — Biotech early-research guest in vol.117, grounding the episode's sober 2025 view of PD-1, CAR-T, ADC, AI drug, and cross-border biotech transactions.
+- [SanSheng Pharma / 三生制药](entities/SanShengPharma.md) — Chinese pharma company used by episode 156 as a headline 2025 innovation-drug BD case through its Pfizer deal.
 - [Akeso / 康方生物](entities/Akeso.md) — Chinese biotech company used by vol.117 as the central PD-1/VEGF bispecific and China asset-repricing example.
+- [Summit Therapeutics](entities/SummitTherapeutics.md) — Akeso overseas partner used by episode 156 to illustrate why PFS, OS, and post-BD data validation matter.
 - [BeiGene / 百济神州](entities/BeiGene.md) — Chinese biotech company used by vol.117 as a self-globalization case beyond ordinary license-out.
 - [Hengrui Pharma / 恒瑞医药](entities/HengruiPharma.md) — Chinese pharma company tied in vol.117 to license-out arbitrage and reverse NewCo transaction design.
+- [GSK / 葛兰素史克](entities/GSK.md) — Multinational pharma partner for Hengrui in episode 156's China innovation-drug BD map.
 - [Gilead Sciences / 吉利德](entities/GileadSciences.md) — Pharma company split in vol.117 between long-acting HIV prevention strength and oncology investment setbacks.
 - [Merck / 默沙东](entities/Merck.md) — Pharma company used by vol.117 to explain Keytruda-linked patent-cliff anxiety and defensive China-asset BD.
 - [Keytruda / K药](entities/Keytruda.md) — Merck PD-1 blockbuster used by vol.117 as the comparator for PD-1 saturation, PD-1/VEGF data, and patent-cliff pressure.
@@ -5525,14 +5529,22 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Solo Death Preparedness / 独居死亡准备](concepts/SoloDeathPreparedness.md) — End-of-life preparation for solo elders around early discovery, legal and medical wishes, family conflict, and the stigma of solitary death.
 - [China Biotech Asset Repricing](concepts/ChinaBiotechAssetRepricing.md) — Vol.117 frame for MNCs buying or licensing depressed Chinese biotech assets that may be valued higher in overseas structures.
 - [Biotech License-Out Arbitrage](concepts/BiotechLicenseOutArbitrage.md) — Pattern where a Chinese pipeline licensed overseas is later repriced or transferred at a much higher implied valuation.
+- [Biotech BD Data Validation Phase](concepts/BiotechBDDataValidationPhase.md) — Episode 156 frame that 2026 must test 2025 China BD through clinical readouts, endpoints, milestones, commercialization, and payment.
+- [Platform-Level Biotech BD](concepts/PlatformLevelBiotechBD.md) — Episode 156 deal-structure shift from licensing one molecule toward broader platform, package, and company-level cooperation.
+- [Clinical Data Trust Rebuilding](concepts/ClinicalDataTrustRebuilding.md) — Episode 156 claim that maturing China trial standards and execution made Chinese clinical assets more credible to MNC partners.
 - [Reverse NewCo Biotech Model](concepts/ReverseNewCoBiotechModel.md) — Cross-border structure taking Chinese pipelines into overseas NewCos to capture more upside than ordinary license-out.
 - [Multinational Pharma Patent-Cliff Anxiety](concepts/MultinationalPharmaPatentCliffAnxiety.md) — Big-pharma pressure to replace future revenue as blockbuster exclusivity weakens, driving M&A and BD appetite.
 - [PD-1 Market Saturation](concepts/PD1MarketSaturation.md) — Vol.117 view that PD-1 has moved from breakthrough platform to crowded market requiring real differentiation.
 - [PD-1/VEGF Bispecific](concepts/PD1VEGFBispecific.md) — Akeso-anchored mechanism in vol.117 linking Chinese clinical data, mechanism uncertainty, and Merck's defensive interest.
+- [Progression-Free vs Overall Survival](concepts/ProgressionFreeVsOverallSurvival.md) — Episode 156 endpoint distinction used to interpret Akeso/Summit PD-1/VEGF data beyond headline PFS strength.
+- [PD-1/IL-2 Bispecific](concepts/PD1IL2Bispecific.md) — Innovent-Takeda mechanism-design case in episode 156 around T-cell activation, toxicity buffering, and co-development.
 - [T-Cell Engagers](concepts/TCellEngagers.md) — TCE class framed by vol.117 as a cheaper, weaker immune-redirection alternative or complement to CAR-T.
 - [ADC Engineering Optimization](concepts/ADCEngineeringOptimization.md) — Antibody, payload, and linker optimization frame that vol.117 ties to Chinese engineering strengths and licensing risk.
 - [Dual-Payload ADC](concepts/DualPayloadADC.md) — More complex ADC direction discussed in vol.117, promising resistance management but raising CMC, QC, and cost burdens.
 - [Long-Acting HIV Prevention](concepts/LongActingHIVPrevention.md) — Gilead-linked prevention direction in vol.117 built around long dosing interval and vaccine-like practical effect.
+- [Radiopharmaceutical Drug Conjugates / RDC](concepts/RadiopharmaceuticalDrugConjugates.md) — Episode 156 modality frame for targeted radiotherapy whose value depends on isotope, logistics, hospital proximity, and radiation controls.
+- [Small Nucleic Acid Drugs](concepts/SmallNucleicAcidDrugs.md) — Episode 156 RNA-layer therapeutic modality focused on sequence-specific silencing and delivery-constrained indications.
+- [Innovative Drug Commercial Insurance Catalog](concepts/InnovativeDrugCommercialInsuranceCatalog.md) — Episode 156 China payment-policy signal for guiding commercial-insurance coverage of high-value innovative drugs.
 - [China Biotech Globalization](concepts/ChinaBiotechGlobalization.md) — BeiGene-style route of building global commercial capability instead of mainly licensing assets to MNCs.
 - [China Outbound Profit Loop / 中国出海收益环流](concepts/ChinaOutboundProfitLoop.md) — GNI-oriented lens for Chinese firms earning, holding, or reinvesting more profit abroad while domestic GDP remains an incomplete guide to company value.
 - [BioTech To BioPharm Transition](concepts/BioTechToBioPharmTransition.md) — Episode 130 boundary where commercialization and clinical-development capability matter more than company size.

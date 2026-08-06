@@ -5701,6 +5701,10 @@ Added source page for a 蜜獾吃书 episode on 蒲松龄《聊斋志异》 as s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-06] ingest | 156.生物医药的2026：当市场不再为BD躁动，中国药企的星辰大海才刚刚展开
+
+Added source page for a 起朱楼宴宾客 annual biopharma outlook with 大卫翁 and 小P老师 on 2025's record China innovation-drug BD, MNC patent-cliff demand, platform-level BD, clinical-data trust, PFS/OS interpretation, Innovent-Takeda PD-1/IL-2 co-development, TCE pressure on CAR-T, GLP-1 competition, RDCs, small nucleic acid drugs, and commercial-insurance payment policy. Created pages for SanSheng Pharma, GSK, Summit Therapeutics, Biotech BD Data Validation Phase, Platform-Level Biotech BD, Clinical Data Trust Rebuilding, Progression-Free vs Overall Survival, PD-1/IL-2 Bispecific, Radiopharmaceutical Drug Conjugates, Small Nucleic Acid Drugs, and Innovative Drug Commercial Insurance Catalog; updated overview, index, 起朱楼宴宾客, 大卫翁, 小P老师, Akeso, Innovent Biologics, Hengrui Pharma, Pfizer, Takeda Pharmaceutical, Merck, Johnson & Johnson, Legend Biotech, Novo Nordisk, Eli Lilly, National Healthcare Security Administration, China Center for Drug Evaluation, China Biotech Asset Repricing, Biotech License-Out Arbitrage, China Biotech Globalization, and related biotech modality and clinical-development concepts. No direct contradiction found; the source qualifies earlier biotech optimism by making 2026 a data, endpoint, payment, and commercialization validation year rather than another pure BD headline year.
+
 ## [2026-08-06] ingest | 146.美国经济这么差，美股还能继续涨吗 | 串台《美轮美换》
 
 Added source page for a 起朱楼宴宾客 crossover with 美轮美换 on why weak U.S. economic sentiment can coexist with rising U.S. equities. Created pages for 美轮美换, Terry, 小华, U.S. Economic Experience Split, Employer Power Reassertion, Equity Retirement Asset Binding, and Entry-Level AI Career-Ladder Risk; updated overview, index, 起朱楼宴宾客, 大卫翁, Fed/data/tariff/labor/AI-market/private-credit pages, and normalized StephenMoran to StephenMiran. No direct contradiction found; the Stephen Miran spelling was treated as an entity-normalization correction.
@@ -6197,6 +6201,10 @@ Ran health before lint; health scanned 8,782 wiki pages and found no empty/stub 
 ## [2026-08-06] ingest | 155.如何理解黄金的史诗级波动
 
 Added source page for a 起朱楼宴宾客 addendum by 大卫翁 on gold and silver's extreme volatility, commodity time-horizon analysis, ETF/CTA/leverage flow mechanics, gold as a U.S./dollar distrust vote, central-bank reserve demand, Kevin Warsh's Fed-chair succession, and allocation sizing discipline. Created pages for Commodity Time-Horizon Framework, Liquidity-Driven Volatility Cascade, and Tether; updated overview, index, 起朱楼宴宾客, 大卫翁, Gold Monetary Anchor, Gold As Currency Spare Tire, Asset Allocation, Portfolio Suitability, Investment Risk Management, Market Regime Shift, Bitcoin Safe-Haven Behavior, Currency Anchor Transition, New Order Asset Pricing, Derivative Amplified Volatility, Federal Reserve, Kevin Warsh, Central Bank Independence, Federal Funds Rate As Policy Signal, Independent Agency Control Pressure, and Donald Trump. No direct contradiction found; the source extends the gold-as-anchor branch while qualifying it with short-term volatility and horizon-mismatch risks, and adds a more skeptical source-scoped Warsh interpretation than the prior Fed-independence page.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

@@ -2,7 +2,7 @@
 title: "Eli Lilly"
 type: entity
 tags: [company, pharmaceuticals, healthcare, ai]
-sources: [130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
+sources: [156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, 130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
 last_updated: 2026-08-06
 ---
 
@@ -16,9 +16,12 @@ The source uses the example narrowly. It is evidence that large pharma and AI in
 
 [[130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh]] uses Eli Lilly as an MNC example with deep metabolic-disease accumulation. The source makes Lilly part of [[GlobalPharmaCommercialization]]: category depth, lifecycle execution, and global commercialization can turn a therapeutic focus into a durable moat.
 
+[[156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup]] adds that Lilly gained share as [[NovoNordisk|Novo Nordisk]] faced semaglutide sales and capacity pressure. The episode treats Lilly's GLP-1 position as a case where clinical data, manufacturing capacity, commercialization, and patient continuation behavior interact.
+
 ## Connections
 - [[Nvidia]] — named strategic cooperation partner in the source.
 - [[JPMorganHealthcareConference]] — industry context where healthcare AI integration became more urgent.
 - [[HealthcareAIInfrastructure]] and [[VerticalMedicalSmallModels]] — broader healthcare AI adoption themes.
 - [[GLP1Agonists]], [[NovoNordisk]], and [[FiniteGameBiotechCompetition]] — GLP-1 competition context added by vol.117.
 - [[GlobalPharmaCommercialization]] and [[ClinicalDevelopmentCapability]] — MNC capability context added by episode 130.
+- [[BiotechBDDataValidationPhase]] - broader 2026 pharma execution context.

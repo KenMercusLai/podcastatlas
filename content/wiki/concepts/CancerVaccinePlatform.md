@@ -2,8 +2,8 @@
 title: "Cancer Vaccine Platform"
 type: concept
 tags: [biotech, oncology, vaccines]
-sources: [tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]
-last_updated: 2026-07-23
+sources: [156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]
+last_updated: 2026-08-06
 ---
 
 # Cancer Vaccine Platform
@@ -16,14 +16,18 @@ The episode presents the platform through [[KRASOncologyTarget]]. Herbach says K
 
 The source is a founder interview rather than independent clinical validation. Its contribution to the wiki is therefore the startup's stated model: choose a mutation target with cross-cancer relevance, enter through a serious treatment setting, prepare the IND path, and preserve enough founder control to keep scientific judgment aligned with patient benefit.
 
+[[156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup]] adds the difficulty side. [[XiaoPTeacher|小P老师]] says pathogen vaccines target comparatively stable antigens, while tumor mutations are highly individualized. That makes both universal and personalized cancer vaccines biologically plausible but clinically hard, with current progress still limited and uneven in the source's account.
+
 ## Key Claims
 - Cancer vaccines are framed as immune-recognition tools, not only as post-diagnosis drugs.
 - A vaccine target can be strategically attractive if it appears across several major cancer types.
 - The treatment-to-prevention path requires clinical proof in an initial setting before the broader preventive claim can matter.
 - Expected vaccine-like tolerability is a source claim, not established wiki-wide clinical evidence.
+- Episode 156 adds that cancer-vaccine development is constrained by tumor heterogeneity and individualized antigens.
 
 ## Connections
 - [[AdventrisPharmaceuticals]], [[JenHerbach]], and [[KRASOncologyTarget]] - source case and first target.
 - [[CARTCellTherapy]], [[CancerImmuneRecognitionProblem]], and [[SolidTumorCARTConstraints]] - adjacent CAR-T branch added by E235.
 - [[BiotechFounderControl]] - governance layer needed to protect scientific strategy.
 - [[LifeSciencesWorkflowSoftware]] and [[AIForScience]] - adjacent life-sciences technology branches already present in the wiki.
+- [[ClinicalDevelopmentCapability]] and [[BiotechBDDataValidationPhase]] - evidence and validation context added by episode 156.

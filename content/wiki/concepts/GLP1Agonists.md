@@ -2,7 +2,7 @@
 title: "GLP-1 Agonists"
 type: concept
 tags: [healthcare, drugs, metabolism, weight-loss]
-sources: [tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
+sources: [156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
 last_updated: 2026-08-06
 ---
 
@@ -14,6 +14,8 @@ The source distinguishes the category's public popularity from the safety status
 
 [[vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]] adds the pharma-competition version. [[XiaoPTeacher|小P老师]] and [[DavidWeng|大卫翁]] compare [[EliLilly|Eli Lilly]] and [[NovoNordisk|Novo Nordisk]] through clinical data, approval timing, marketing, celebrity visibility, sales expectations, and next-generation claims around reducing fat while preserving muscle.
 
+[[156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup]] adds the execution and discontinuation layer. The episode says [[NovoNordisk|Novo Nordisk]]'s semaglutide sales disappointed expectations and cautious capacity expansion gave [[EliLilly|Eli Lilly]] room to gain share; it also notes that weight rebound after stopping treatment makes lifestyle change and continuation behavior part of the category's real-world value.
+
 ## Key Claims
 - GLP-1 awareness helps explain why injectable peptides became legible to non-specialists.
 - Demand for cheaper GLP-1-like effects can spill into unapproved supply channels.
@@ -21,6 +23,7 @@ The source distinguishes the category's public popularity from the safety status
 - Regulatory status, manufacturing quality, and clinical evidence remain central distinctions between approved drugs and gray-market compounds.
 - Vol.117 adds that GLP-1s combine drug and consumer-product dynamics, so awareness, brand trust, sales execution, and side-effect tradeoffs can matter alongside efficacy.
 - The source's next-generation watch item is fat loss without excessive muscle loss.
+- Episode 156 adds that capacity, sales guidance, persistence of use, and discontinuation rebound are central to GLP-1 market interpretation.
 
 ## Connections
 - [[Ozempic]] - named product reference point in the episode.
@@ -29,3 +32,4 @@ The source distinguishes the category's public popularity from the safety status
 - [[FoodAndDrugAdministration|FDA]] and [[MedicalRiskManagement]] - oversight and safety context.
 - [[EliLilly]] and [[NovoNordisk]] - large-pharma competition context added by vol.117.
 - [[FiniteGameBiotechCompetition]] - mature but high-value category competition.
+- [[BiotechBDDataValidationPhase]] - broader 2026 pharma execution context.

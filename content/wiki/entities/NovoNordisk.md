@@ -2,7 +2,7 @@
 title: "Novo Nordisk"
 type: entity
 tags: [company, healthcare, pharma, governance]
-sources: [130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh, eric-ries-incorruptible-by-design-wrgromn5peq, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
+sources: [156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, 130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh, eric-ries-incorruptible-by-design-wrgromn5peq, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
 last_updated: 2026-08-06
 ---
 
@@ -14,10 +14,13 @@ Novo Nordisk is [[EricRies]]'s central [[StewardOwnership]] case in [[eric-ries-
 
 [[130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh]] adds Novo Nordisk as an example of multinational pharma therapeutic-area depth in metabolism. The source uses it with [[EliLilly]] to show how MNCs can compound expertise, products, and commercial systems inside an advantaged disease field.
 
+[[156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup]] adds a more operational GLP-1 reading: Novo Nordisk's semaglutide sales disappointment and cautious capacity expansion are presented as openings for [[EliLilly|Eli Lilly]]'s tirzepatide. The episode also stresses weight rebound after discontinuation, keeping [[GLP1Agonists]] tied to adherence and lifestyle rather than pure demand growth.
+
 ## Key Claims
 - Novo Nordisk is presented as evidence that mission-preserving ownership does not necessarily prevent major financial success.
 - Its nonprofit-foundation center and for-profit subsidiary make it a concrete case of industrial foundation or [[StewardOwnership]] design.
 - The insulin example ties [[HumanFlourishingProfit]] to a high-stakes product where pricing, access, and trust are central.
+- Episode 156 adds that capacity, sales expectations, and discontinuation behavior can reshape GLP-1 competition even when public demand remains strong.
 
 ## Connections
 - [[StewardOwnership]] - governance structure associated with the case.

@@ -2,7 +2,7 @@
 title: "CAR-T Cell Therapy"
 type: concept
 tags: [biotech, oncology, cell-therapy, immunotherapy]
-sources: [e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
+sources: [156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
 last_updated: 2026-08-06
 ---
 
@@ -14,6 +14,8 @@ The episode treats CAR-T as a shift in cancer-treatment logic. Chemotherapy, tar
 
 [[vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]] adds a more skeptical industry-review layer. [[XiaoPTeacher|小P老师]] says solid-tumor CAR-T progress is still not satisfying, [[AllogeneicCART|allogeneic]] versions still lag autologous efficacy, and cheaper immune redirection approaches such as [[TCellEngagers|TCEs]] may become commercially attractive even if their effect is weaker.
 
+[[156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup]] adds two 2026-facing tests: TCE competition can pressure CAR-T in multiple myeloma, while China's [[InnovativeDrugCommercialInsuranceCatalog]] may give high-cost CAR-T products a payment channel outside basic医保. Both keep CAR-T tied to efficacy, toxicity, manufacturing, and market access together.
+
 ## Key Claims
 - CAR-T combines target recognition with T-cell activation, letting immune cells find and attack cells expressing a chosen antigen.
 - [[ExVivoCARTManufacturing]] is currently powerful but expensive and slow because each autologous product is manufactured for one patient.
@@ -22,6 +24,7 @@ The episode treats CAR-T as a shift in cancer-treatment logic. Chemotherapy, tar
 - [[CytokineReleaseSyndrome]] is a major safety constraint created by excessive immune activation.
 - Vol.117 adds [[InVivoMRNACART]] as a short-duration in vivo variant that may fit some autoimmune uses better than durable oncology.
 - Vol.117 also makes CAR-T part of [[FiniteGameBiotechCompetition]]: the question becomes cost, persistence, toxicity, and use-case fit, not just whether engineered immune cells can work.
+- Episode 156 adds that CAR-T adoption also depends on payment policy and competition from TCEs.
 
 ## Connections
 - [[LiuCheng|刘诚]] and [[EurekaTherapeutics]] - guest and company grounding the concept.
@@ -30,3 +33,4 @@ The episode treats CAR-T as a shift in cancer-treatment logic. Chemotherapy, tar
 - [[SolidTumorCARTConstraints]], [[TumorMicroenvironment]], and [[CytokineReleaseSyndrome]] - efficacy and safety limits.
 - [[LegendBiotech]] and [[JohnsonAndJohnson]] - commercialization case named in the source.
 - [[TCellEngagers]], [[InVivoMRNACART]], and [[FiniteGameBiotechCompetition]] - industry-review extensions added by vol.117.
+- [[InnovativeDrugCommercialInsuranceCatalog]], [[JohnsonAndJohnson]], and [[LegendBiotech]] - episode 156 payment and competitive-pressure context.

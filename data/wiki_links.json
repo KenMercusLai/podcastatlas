@@ -483,6 +483,10 @@
     "title": "155.如何理解黄金的史诗级波动",
     "url": "/wiki/sources/155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi/"
   },
+  "156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup": {
+    "title": "156.生物医药的2026：当市场不再为BD躁动，中国药企的星辰大海才刚刚展开",
+    "url": "/wiki/sources/156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup/"
+  },
   "156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198": {
     "title": "156.一个阿富汗女人的来信: 纸上的光，和出版背后的故事",
     "url": "/wiki/sources/156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198/"
@@ -4551,6 +4555,10 @@
     "title": "Bioregional Resilience",
     "url": "/wiki/concepts/bioregionalresilience/"
   },
+  "BiotechBDDataValidationPhase": {
+    "title": "Biotech BD Data Validation Phase",
+    "url": "/wiki/concepts/biotechbddatavalidationphase/"
+  },
   "BiotechCapitalCycle": {
     "title": "Biotech Capital Cycle",
     "url": "/wiki/concepts/biotechcapitalcycle/"
@@ -6782,6 +6790,10 @@
   "ClimateStartupCommercializationGap": {
     "title": "Climate Startup Commercialization Gap",
     "url": "/wiki/concepts/climatestartupcommercializationgap/"
+  },
+  "ClinicalDataTrustRebuilding": {
+    "title": "Clinical Data Trust Rebuilding",
+    "url": "/wiki/concepts/clinicaldatatrustrebuilding/"
   },
   "ClinicalDevelopmentCapability": {
     "title": "Clinical Development Capability",
@@ -12099,6 +12111,10 @@
     "title": "GRAS Self-Certification",
     "url": "/wiki/concepts/grasselfcertification/"
   },
+  "GSK": {
+    "title": "GSK / 葛兰素史克",
+    "url": "/wiki/entities/gsk/"
+  },
   "GSMStandardization": {
     "title": "GSM Standardization",
     "url": "/wiki/concepts/gsmstandardization/"
@@ -14858,6 +14874,10 @@
   "InnovationsForPovertyAction": {
     "title": "Innovations for Poverty Action",
     "url": "/wiki/entities/innovationsforpovertyaction/"
+  },
+  "InnovativeDrugCommercialInsuranceCatalog": {
+    "title": "Innovative Drug Commercial Insurance Catalog",
+    "url": "/wiki/concepts/innovativedrugcommercialinsurancecatalog/"
   },
   "InnoventBiologics": {
     "title": "Innovent Biologics / 信达生物",
@@ -22055,6 +22075,10 @@
     "title": "PAW Patrol",
     "url": "/wiki/entities/pawpatrol/"
   },
+  "PD1IL2Bispecific": {
+    "title": "PD-1/IL-2 Bispecific",
+    "url": "/wiki/concepts/pd1il2bispecific/"
+  },
   "PD1MarketSaturation": {
     "title": "PD-1 Market Saturation",
     "url": "/wiki/concepts/pd1marketsaturation/"
@@ -22991,6 +23015,10 @@
     "title": "Platform Legal Causation",
     "url": "/wiki/concepts/platformlegalcausation/"
   },
+  "PlatformLevelBiotechBD": {
+    "title": "Platform-Level Biotech BD",
+    "url": "/wiki/concepts/platformlevelbiotechbd/"
+  },
   "PlatformOwnershipTransition": {
     "title": "Platform Ownership Transition",
     "url": "/wiki/concepts/platformownershiptransition/"
@@ -23707,6 +23735,10 @@
     "title": "Progress Data Visualization",
     "url": "/wiki/concepts/progressdatavisualization/"
   },
+  "ProgressionFreeVsOverallSurvival": {
+    "title": "Progression-Free vs Overall Survival",
+    "url": "/wiki/concepts/progressionfreevsoverallsurvival/"
+  },
   "Project2025": {
     "title": "Project 2025",
     "url": "/wiki/entities/project2025/"
@@ -24286,6 +24318,10 @@
   "RacingHeritageBrandMoat": {
     "title": "Racing Heritage Brand Moat",
     "url": "/wiki/concepts/racingheritagebrandmoat/"
+  },
+  "RadiopharmaceuticalDrugConjugates": {
+    "title": "Radiopharmaceutical Drug Conjugates / RDC",
+    "url": "/wiki/concepts/radiopharmaceuticaldrugconjugates/"
   },
   "RafaelParker": {
     "title": "Rafael Parker",
@@ -25787,6 +25823,10 @@
     "title": "San Francisco Bay Area",
     "url": "/wiki/entities/sanfranciscobayarea/"
   },
+  "SanShengPharma": {
+    "title": "SanSheng Pharma / 三生制药",
+    "url": "/wiki/entities/sanshengpharma/"
+  },
   "SanWuHuan": {
     "title": "三五环",
     "url": "/wiki/entities/sanwuhuan/"
@@ -27010,6 +27050,10 @@
   "SlownessAsModernityCritique": {
     "title": "Slowness As Modernity Critique / 作为现代性批判的慢",
     "url": "/wiki/concepts/slownessasmodernitycritique/"
+  },
+  "SmallNucleicAcidDrugs": {
+    "title": "Small Nucleic Acid Drugs",
+    "url": "/wiki/concepts/smallnucleicaciddrugs/"
   },
   "SmallTownExamTakerDiscipline": {
     "title": "小镇做题家规训 / Small-Town Exam-Taker Discipline",
@@ -28258,6 +28302,10 @@
   "SummerFoundersProgram": {
     "title": "Summer Founders Program",
     "url": "/wiki/entities/summerfoundersprogram/"
+  },
+  "SummitTherapeutics": {
+    "title": "Summit Therapeutics",
+    "url": "/wiki/entities/summittherapeutics/"
   },
   "SunBum": {
     "title": "Sun Bum",

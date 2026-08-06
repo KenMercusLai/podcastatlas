@@ -2,7 +2,7 @@
 title: "Akeso / 康方生物"
 type: entity
 tags: [company, biotech, china, oncology]
-sources: [vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
+sources: [156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
 last_updated: 2026-08-06
 ---
 
@@ -12,12 +12,16 @@ Akeso / 康方生物 is the Chinese biotech company used in [[vol-117-shengwu-yi
 
 The page is source-scoped. It records the episode's interpretation that Akeso made Chinese innovation-drug capability harder for multinational pharma to dismiss, not an independent assessment of the company's full pipeline or valuation.
 
+[[156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup]] revisits Akeso through [[SummitTherapeutics|Summit]] and makes [[ProgressionFreeVsOverallSurvival]] the key interpretive problem. The episode keeps the PFS data important, but says OS had not yet reached the most optimistic market expectations, which turns Akeso into a test case for [[BiotechBDDataValidationPhase]] rather than only for China asset excitement.
+
 ## Key Claims
 - The episode says Akeso's PD-1/VEGF bispecific produced strong Chinese phase-3 data, with PFS described by the guest as roughly doubling versus [[Keytruda|K药]] in that context.
 - The mechanism is treated as not fully explained: same-molecule dual targeting and tumor-local concentration are offered as possible reasons, not settled biology.
 - Akeso anchors the source's [[ChinaBiotechAssetRepricing]] and [[MultinationalPharmaPatentCliffAnxiety]] examples because Chinese data can force defensive global BD action.
+- Episode 156 adds that Akeso also illustrates endpoint discipline: strong PFS should not be read as settled OS proof.
 
 ## Connections
 - [[PD1VEGFBispecific]] - main technical asset frame.
 - [[Merck]] and [[Keytruda]] - global comparator and patent-cliff context in the episode.
 - [[ChinaBiotechAssetRepricing]] and [[BiotechLicenseOutArbitrage]] - transaction and valuation context.
+- [[SummitTherapeutics]], [[ProgressionFreeVsOverallSurvival]], and [[BiotechBDDataValidationPhase]] - 2026 follow-up context.

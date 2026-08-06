@@ -2,7 +2,7 @@
 title: "小P老师 / Xiao P Teacher"
 type: entity
 tags: [person, biotech, pharma, research]
-sources: [130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
+sources: [156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, 130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
 last_updated: 2026-08-06
 ---
 
@@ -14,8 +14,11 @@ His main contribution to the wiki is a sober 2025 biotech frame. He treats [[PD1
 
 [[130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh]] adds his role-allocation view. He explains why [[BioTechToBioPharmTransition]] depends on capabilities beyond early research, why [[DrugDevelopmentOutsourcing|CXO]] services let small teams operate, and why academic ideas still need industrial execution before becoming drugs.
 
+[[156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup]] makes his view more forward-looking: 2025 proved Chinese innovation-drug assets could attract record BD, but 2026 shifts into [[BiotechBDDataValidationPhase]]. His research-side contribution is to separate deal heat from biology, endpoints, toxicity, trial credibility, and global development execution across [[PD1VEGFBispecific]], [[PD1IL2Bispecific]], [[TCellEngagers]], [[RadiopharmaceuticalDrugConjugates]], and [[SmallNucleicAcidDrugs]].
+
 ## Connections
 - [[QizhulouYanBinke|起朱楼宴宾客]] and [[DavidWeng|大卫翁]] - show and host context.
 - [[ChinaBiotechAssetRepricing]], [[MultinationalPharmaPatentCliffAnxiety]], and [[FiniteGameBiotechCompetition]] - industry structure themes developed in the episode.
 - [[ADCEngineeringOptimization]], [[TCellEngagers]], [[AIClinicalValidationInDrugDiscovery]], and [[InVivoMRNACART]] - technical directions he discusses.
 - [[DabaNiuTeacher]], [[BioTechToBioPharmTransition]], [[DrugDevelopmentOutsourcing]], and [[AcademicBiotechTranslation]] - episode 130's role-allocation branch.
+- [[BiotechBDDataValidationPhase]], [[ClinicalDataTrustRebuilding]], [[PD1IL2Bispecific]], [[RadiopharmaceuticalDrugConjugates]], and [[SmallNucleicAcidDrugs]] - episode 156's 2026 validation branch.
