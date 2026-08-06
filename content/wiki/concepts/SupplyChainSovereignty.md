@@ -2,7 +2,7 @@
 title: "Supply Chain Sovereignty"
 type: concept
 tags: [supply-chain, geopolitics, trade, energy, semiconductors, manufacturing]
-sources: [vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, no-201-zhongguo-gaotie-jianshi-976314772, no-199-zixingche-200-nian-973489465, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, why-are-we-so-obsessed-with-manufacturing, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
+sources: [vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, no-201-zhongguo-gaotie-jianshi-976314772, no-199-zixingche-200-nian-973489465, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, why-are-we-so-obsessed-with-manufacturing, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
 last_updated: 2026-08-06
 ---
 
@@ -28,6 +28,8 @@ The source is skeptical that full self-sufficiency is realistic across the econo
 
 [[vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]] adds a company-response version. The episode shows that Chinese firms facing tariffs and hostile trade policy may not simply reshore or leave China; some become [[GlobalResourceAllocationCompany|global resource allocation companies]] that retain management, R&D, and supply-chain know-how in China while distributing production, warehousing, raw materials, and market service globally.
 
+[[vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb]] adds the gray-routing and career-exposure version. The source says tariff conflict can push goods through Southeast Asia, Canada, Mexico, and other intermediate channels while individuals working for exposed foreign firms should think about transferable industries and employers in countries whose China trade may deepen.
+
 ## Key Claims
 - Supply-chain resilience is used to justify domestic production, ally-shoring, energy expansion, tariffs, and trade reciprocity.
 - The concept links economic policy to security policy: a trade deficit becomes a sign of outsourced manufacturing and defense-industrial weakness.
@@ -41,6 +43,7 @@ The source is skeptical that full self-sufficiency is realistic across the econo
 - Standard-setting can be a sovereignty layer after assembly competence: control over interfaces, parts, testing, and rescue compatibility matters as much as finished-product branding.
 - The Qizhulou vol.123 source adds that alternative routing through third countries does not fully reduce exposure when the end market can still impose [[TariffComplianceTest]] pressure.
 - Vol.127 adds that company-level sovereignty and resilience can mean flexible global resource allocation rather than full localization in one country.
+- Vol.128 adds that supply-chain adaptation can be informal and individual: middlemen reroute goods, while workers exposed to trade conflict hedge career location and employer risk.
 
 ## Connections
 - [[AmericaFirstPolicyInstitute]], [[Project2025]], and [[PeterNavarro]] — source actors.
@@ -54,3 +57,4 @@ The source is skeptical that full self-sufficiency is realistic across the econo
 - [[Shimano]], [[BicycleComponentStackPower]], [[EBikeValueChainShift]], and [[BafangElectric]] - bicycle-component dependence and E-bike shift added by Banlatte episode 199.
 - [[ChineseHighSpeedRail]], [[ProcurementLedTechnologyTransfer]], [[HighSpeedRailSystemIntegration]], [[ChineseStandardEMU]], [[Fuxinghao]], and [[CR450]] - high-speed-rail standardization branch added by Banlatte episode 201.
 - [[GlobalResourceAllocationCompany]], [[GreatStarIndustrial]], [[AnkerInnovations]], [[SFHolding]], [[ZijinMining]], and [[CMOC]] - company-level global allocation branch added by Qizhulou vol.127.
+- [[DeglobalizationTradeIntermediation]], [[TariffExemptionPressureValve]], [[TariffPolicyPlanningRisk]], [[Canada]], and [[Mexico]] - gray-routing and career-exposure branch added by Qizhulou vol.128.

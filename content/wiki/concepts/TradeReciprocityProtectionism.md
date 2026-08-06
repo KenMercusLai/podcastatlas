@@ -2,7 +2,7 @@
 title: "Trade Reciprocity Protectionism"
 type: concept
 tags: [trade, tariffs, geopolitics, united-states]
-sources: [vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, why-economists-got-free-trade-with-china-so-wrong, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, why-are-we-so-obsessed-with-manufacturing]
+sources: [vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, why-economists-got-free-trade-with-china-so-wrong, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, why-are-we-so-obsessed-with-manufacturing]
 last_updated: 2026-08-06
 ---
 
@@ -13,6 +13,8 @@ Trade reciprocity protectionism is the source's key for reading Trump-era tariff
 The concept reframes tariffs inside [[AmericanProtectionistTradition]]. If a trading partner is seen as benefiting from asymmetric access, subsidies, market barriers, or industrial offshoring, tariffs become a compensating or retaliatory instrument rather than a violation of free-trade morality.
 
 [[vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6]] adds a formula critique. The episode says the 2025 "reciprocal" tariff schedule is not true tariff matching; it is built through [[ReciprocalTariffFormula]], where a bilateral trade surplus relative to U.S.-bound exports drives the rate. That turns reciprocity from a fairness principle into [[TariffComplianceTest]] and trade-balance pressure.
+
+[[vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb]] adds the narrative constraint. The live discussion treats reciprocity rhetoric as easier to soften with allies when [[TrumpVictoryNarrativeDealMaking]] can produce a visible win, but harder with [[China]] because [[ChinaAsTrumpNarrativeEnemy]] makes toughness part of the policy's political meaning.
 
 [[why-are-we-so-obsessed-with-manufacturing]] adds a labor-market check on the same manufacturing politics. The [[PlanetMoney]] episode explains why tariffs and industrial policy can appeal to both parties, but it asks whether the resulting factory strategy actually creates [[ManufacturingJobQuality]] and [[GoodJobsForNonCollegeWorkers]] rather than only restoring a symbolic industry.
 
@@ -29,6 +31,7 @@ The concept reframes tariffs inside [[AmericanProtectionistTradition]]. If a tra
 - The China-shock episode adds that tariffs may be politically legible compensation for free-trade damage while still failing as targeted [[TradeAdjustmentAssistance]] or future-oriented [[StrategicIndustrialPolicy]].
 - The tariff-ruling source adds that reciprocal or emergency tariff rhetoric does not substitute for delegated statutory authority.
 - The Qizhulou vol.123 source adds that "reciprocal" rhetoric can mask a deficit-based formula that cannot be resolved by simple tariff matching.
+- The Qizhulou vol.128 source adds that reciprocal tariff pressure is constrained by political storytelling, not just trade-rate bargaining.
 
 ## Connections
 - [[DonaldTrump]], [[AmericaFirstPolicyInstitute]], [[PeterNavarro]], and [[Project2025]] — policy actors and documents.
@@ -39,3 +42,4 @@ The concept reframes tariffs inside [[AmericanProtectionistTradition]]. If a tra
 - [[ManufacturingPayPremium]], [[ManufacturingJobQuality]], and [[GoodJobsForNonCollegeWorkers]] — labor-market test added by the Planet Money manufacturing episode.
 - [[ChinaShock]], [[FreeTradeDistributionalCost]], [[RegionalLaborMarketScarring]], [[TradeAdjustmentAssistance]], [[BlanketTariffLimit]], and [[StrategicIndustrialPolicy]] - tariff-repair limits added by the China-shock episode.
 - [[IEPATariffAuthorityLimit]], [[Section122TariffAuthority]], and [[ExecutivePowerPrecedent]] - legal-authority limit added by the tariff-ruling episode.
+- [[TrumpVictoryNarrativeDealMaking]], [[ChinaAsTrumpNarrativeEnemy]], and [[TrumpSupporterInterpretiveLoop]] — May 2025 political-narrative branch added by Qizhulou Yan Binke.

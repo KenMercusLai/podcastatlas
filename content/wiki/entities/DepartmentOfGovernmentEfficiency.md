@@ -2,7 +2,7 @@
 title: "Department of Government Efficiency"
 type: entity
 tags: [government, public-sector, efficiency]
-sources: [the-leaked-tapes-that-show-how-the-rich-avoid-taxes, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g]
+sources: [vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, the-leaked-tapes-that-show-how-the-rich-avoid-taxes, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g]
 last_updated: 2026-08-06
 ---
 
@@ -18,6 +18,8 @@ The page records the source's framing rather than independently verifying the pr
 
 [[vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g]] adds the early-priority prediction. The host treats DOGE, and [[ElonMusk]]'s involvement in it, as a possible first-stage instrument for a Trump administration that wants to attack bureaucracy, respond to public distrust, and increase presidential control before making foreign trade the main battlefield.
 
+[[vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb]] adds a live-update version after the first hundred days. [[Talich]] treats DOGE as part of [[IndependentAgencyControlPressure]] alongside [[OfficeOfManagementAndBudget|OMB]] and personnel channels, while [[Zhongshu|众数 / 仲树]] notes that [[ElonMusk]] may move back from formal visibility without losing influence over projects, staff, and the administrative-control agenda.
+
 ## Key Claims
 - DOGE is used as a government-efficiency context connecting startup operators with public-service systems.
 - The source moves quickly from DOGE to the [[InternalRevenueService]], where the practical problem becomes service delivery rather than startup-style speed alone.
@@ -25,6 +27,7 @@ The page records the source's framing rather than independently verifying the pr
 - The Qizhulou Yan Binke source treats DOGE as potentially more than budget theater: it may be part of a broader federal reorganization agenda under [[DonaldTrump]].
 - The Planet Money Malta source treats DOGE-linked staff reductions as one factor in weakened or delayed tax-shelter enforcement.
 - The vol.111 source makes DOGE part of [[InternalStabilityConfidenceRepair]], where efficiency politics is also trust and state-control politics.
+- The vol.128 source treats DOGE as an implementation surface for [[IndependentAgencyControlPressure]], not only as a cost-cutting or software-modernization frame.
 
 ## Connections
 - [[SahilLavingia]] — person linked to this source branch.
@@ -33,3 +36,4 @@ The page records the source's framing rather than independently verifying the pr
 - [[DonaldTrump]], [[Project2025]], and [[AdministrativeStateDismantling]] — Trump 2.0 reorganization context added by Qizhulou Yan Binke.
 - [[InternalRevenueService]], [[MaltaTaxLoophole]], [[TaxShelterDisclosureRegulation]], and [[TaxEnforcementCapacity]] — tax-enforcement capacity branch added by Planet Money.
 - [[ElonMusk]] and [[InternalStabilityConfidenceRepair]] — vol.111's domestic-first Trump 2.0 branch.
+- [[OfficeOfManagementAndBudget]], [[IndependentAgencyControlPressure]], [[FederalReserve]], and [[CentralBankIndependence]] — vol.128's agency-control and Fed-succession branch.

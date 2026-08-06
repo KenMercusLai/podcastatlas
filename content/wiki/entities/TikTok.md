@@ -2,8 +2,8 @@
 title: "TikTok"
 type: entity
 tags: [company, social-platform, internationalization]
-sources: [tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
-last_updated: 2026-07-23
+sources: [vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
+last_updated: 2026-08-06
 ---
 
 # TikTok
@@ -28,6 +28,8 @@ For the wiki, TikTok extends [[CrossCulturalProductDesign]] from Southeast Asian
 
 [[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds the political-regulatory reading of the same U.S. transition. The [[ShangyeJiushiZheyang]] episode says [[Oracle]] received a stake, data-hosting role, and algorithm-supervision role, and treats that position as part of [[LarryEllison]]'s broader [[PoliticalRegulatoryLeverage]] alongside AI infrastructure and media approvals.
 
+[[vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb]] adds a pre-resolution bargaining-chip view. In the May 2025 live discussion, [[Talich]] and [[DavidWeng|大卫翁]] say [[TikTok]] may enter China-U.S. tariff negotiations because both governments can imagine using it as leverage; the company and management team are the exposed middle layer between [[UnitedStates]] and [[China]] politics.
+
 ## Connections
 
 - [[MusicalLy]], [[ByteDance]], [[Vanessa]], [[AlexZhu]], and [[ZhangNan]] — product-formation and organization context added by the Luanfanshu source.
@@ -41,3 +43,4 @@ For the wiki, TikTok extends [[CrossCulturalProductDesign]] from Southeast Asian
 - [[XuHongliang]], [[ByteDanceGrowthSystem]], [[LTVBasedGrowthBudgeting]], [[AutomatedPerformanceMarketing]], [[CreativeMaterialIndustrialization]], and [[GlobalProductLocalization]] — growth and overseas-organization layer added by the episode 7 source.
 - [[USTikTok|U.S. TikTok]], [[Oracle]], [[MGX]], [[SilverLake]], and [[PlatformOwnershipTransition]] — ownership, infrastructure, and terms-of-service layer added by Marketplace Tech.
 - [[LarryEllison]], [[DonaldTrump]], and [[PoliticalRegulatoryLeverage]] - political-regulatory branch added by 商业就是这样.
+- [[DonaldTrump]], [[UnitedStates]], [[China]], [[TariffComplianceTest]], and [[TrumpVictoryNarrativeDealMaking]] - May 2025 bargaining-chip branch added by Qizhulou Yan Binke.

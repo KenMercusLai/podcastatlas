@@ -5923,6 +5923,10 @@
     "title": "China Agent Market Friction",
     "url": "/wiki/concepts/chinaagentmarketfriction/"
   },
+  "ChinaAsTrumpNarrativeEnemy": {
+    "title": "China as Trump Narrative Enemy",
+    "url": "/wiki/concepts/chinaastrumpnarrativeenemy/"
+  },
   "ChinaBicycleShortageEconomy": {
     "title": "China Bicycle Shortage Economy",
     "url": "/wiki/concepts/chinabicycleshortageeconomy/"
@@ -10363,6 +10367,10 @@
     "title": "Federal Law Enforcement Training Centers",
     "url": "/wiki/entities/federallawenforcementtrainingcenters/"
   },
+  "FederalResearchFundingPoliticalRisk": {
+    "title": "Federal Research Funding Political Risk",
+    "url": "/wiki/concepts/federalresearchfundingpoliticalrisk/"
+  },
   "FederalReserve": {
     "title": "Federal Reserve",
     "url": "/wiki/entities/federalreserve/"
@@ -12507,6 +12515,10 @@
     "title": "关雅迪",
     "url": "/wiki/entities/guanyadi/"
   },
+  "GuanYadiQizhulou": {
+    "title": "关亚迪 / Guan Yadi",
+    "url": "/wiki/entities/guanyadiqizhulou/"
+  },
   "GuangfanTechnology": {
     "title": "Guangfan Technology / 光帆科技",
     "url": "/wiki/entities/guangfantechnology/"
@@ -14130,6 +14142,10 @@
   "IndependenceBank": {
     "title": "Independence Bank",
     "url": "/wiki/entities/independencebank/"
+  },
+  "IndependentAgencyControlPressure": {
+    "title": "Independent Agency Control Pressure",
+    "url": "/wiki/concepts/independentagencycontrolpressure/"
   },
   "IndependentAgentVendor": {
     "title": "Independent Agent Vendor",
@@ -18899,6 +18915,10 @@
     "title": "Methodic Doubt",
     "url": "/wiki/concepts/methodicdoubt/"
   },
+  "Mexico": {
+    "title": "Mexico",
+    "url": "/wiki/entities/mexico/"
+  },
   "MiHoYo": {
     "title": "MiHoYo",
     "url": "/wiki/entities/mihoyo/"
@@ -20582,6 +20602,10 @@
   "OfficeLinkedProfitAccounting": {
     "title": "Office-Linked Profit Accounting",
     "url": "/wiki/concepts/officelinkedprofitaccounting/"
+  },
+  "OfficeOfManagementAndBudget": {
+    "title": "Office of Management and Budget / OMB",
+    "url": "/wiki/entities/officeofmanagementandbudget/"
   },
   "OfficeSurveillancePrivacy": {
     "title": "Office Surveillance And Privacy",
@@ -27531,6 +27555,10 @@
     "title": "《石川啄木》 / Takuboku Biography",
     "url": "/wiki/entities/takubokubiography/"
   },
+  "Talich": {
+    "title": "Talich",
+    "url": "/wiki/entities/talich/"
+  },
   "TalkSanlian": {
     "title": "Talk三联",
     "url": "/wiki/entities/talksanlian/"
@@ -27634,6 +27662,14 @@
   "TariffComplianceTest": {
     "title": "Tariff Compliance Test",
     "url": "/wiki/concepts/tariffcompliancetest/"
+  },
+  "TariffConsumerPricePassThrough": {
+    "title": "Tariff Consumer Price Pass-Through",
+    "url": "/wiki/concepts/tariffconsumerpricepassthrough/"
+  },
+  "TariffExemptionPressureValve": {
+    "title": "Tariff Exemption Pressure Valve",
+    "url": "/wiki/concepts/tariffexemptionpressurevalve/"
   },
   "TariffPolicyPlanningRisk": {
     "title": "Tariff Policy Planning Risk",
@@ -28770,6 +28806,14 @@
   "TrumpOrganization": {
     "title": "Trump Organization",
     "url": "/wiki/entities/trumporganization/"
+  },
+  "TrumpSupporterInterpretiveLoop": {
+    "title": "Trump Supporter Interpretive Loop",
+    "url": "/wiki/concepts/trumpsupporterinterpretiveloop/"
+  },
+  "TrumpVictoryNarrativeDealMaking": {
+    "title": "Trump Victory-Narrative Deal-Making",
+    "url": "/wiki/concepts/trumpvictorynarrativedealmaking/"
   },
   "TrumpismInstitutionalization": {
     "title": "Trumpism Institutionalization",
@@ -31695,6 +31739,10 @@
     "title": "《中世纪的身体》",
     "url": "/wiki/entities/zhongshijideshenti/"
   },
+  "Zhongshu": {
+    "title": "众数 / 仲树",
+    "url": "/wiki/entities/zhongshu/"
+  },
   "ZhongyaXingji": {
     "title": "《中亚行迹》 / Sovietistan",
     "url": "/wiki/entities/zhongyaxingji/"
@@ -33750,6 +33798,10 @@
   "vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv": {
     "title": "vol.127.年报季中的真实中国2025",
     "url": "/wiki/sources/vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv/"
+  },
+  "vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb": {
+    "title": "vol.128.关税战下一步走向何方？美国人民如何看待特朗普“百日新政”？| 狂喜播客节·对话仲树&Talich",
+    "url": "/wiki/sources/vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb/"
   },
   "vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1": {
     "title": "Vol. 160 一年多以后，再聊AI写代码Vibe Coding",

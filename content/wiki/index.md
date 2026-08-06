@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.128.关税战下一步走向何方？美国人民如何看待特朗普“百日新政”？| 狂喜播客节·对话仲树&Talich](sources/vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb.md) — 起朱楼宴宾客 live discussion on the May 2025 tariff-war moment, Trump victory-narrative bargaining, China as a campaign enemy, tariff consumer-price pass-through, exemptions, gray routing chains, research-funding cuts, TikTok as bargaining chip, DOGE/OMB agency pressure, and Fed independence risk.
 - [vol.127.年报季中的真实中国2025](sources/vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv.md) — 起朱楼宴宾客 episode using 2024 annual reports to read China's weak demand, company impairment and REIT signals, private-enterprise evolution, scale economies, technology innovation, global resource allocation, and the social cost of gladiator-style competition.
 - [vol.126.公募基金还值得买吗？](sources/vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v.md) — 起朱楼宴宾客 episode on China's public mutual fund ecosystem, sales-channel incentives, trail commissions, C-share fee opacity, redemption pressure, contractual-fund governance gaps, investor return gaps, and the conditions under which active public funds can still be buyable.
 - [vol.125.日本到底还行不行？ | 串台东亚观察局](sources/vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw.md) — 起朱楼宴宾客 crossover with 东亚观察局 on Japan's inflation, NISA household investing, equity repricing, TSMC Kumamoto spillovers, labor shortage, immigration tension, overtourism, industrial-policy path dependence, innovation retreat, and comfortable stagnation.
@@ -749,6 +750,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [众数 / 仲树](entities/Zhongshu.md) — Live vol.128 participant connecting U.S. campus funding cuts, consumer price changes, supporter interpretation, and China enemy-making.
+- [Talich](entities/Talich.md) — Live vol.128 participant explaining Trump victory-narrative bargaining, consumer tariff pressure, TikTok leverage, DOGE/OMB agency control, and Fed succession risk.
+- [关亚迪 / Guan Yadi](entities/GuanYadiQizhulou.md) — Live-session moderator for the vol.128 狂喜播客节 discussion on tariff war and Trump first-hundred-days politics.
+- [Office of Management and Budget / OMB](entities/OfficeOfManagementAndBudget.md) — U.S. executive-office institution used by vol.128 to explain regulatory review and independent-agency control pressure.
+- [Mexico](entities/Mexico.md) — North American tariff counterparty and possible rerouting node in vol.128's tariff-war and gray-chain discussion.
 - [Fufeng Group / 富丰集团](entities/FufengGroup.md) — Chinese biochemical company used as the central case for compressed private-enterprise evolution.
 - [Inovance Technology / 汇川技术](entities/InovanceTechnology.md) — Chinese automation, EV, and robotics company showing domestic substitution, cluster scale, and infrastructure-demand exposure.
 - [Mindray Medical / 迈瑞医疗](entities/MindrayMedical.md) — Chinese medical-device and digital-health company linking procurement pressure to integrated device, IT, and AI platform evolution.
@@ -5168,6 +5174,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Trump Victory-Narrative Deal-Making](concepts/TrumpVictoryNarrativeDealMaking.md) — Vol.128 frame for bargaining outcomes that must be packaged as visible wins for Trump supporters.
+- [China as Trump Narrative Enemy](concepts/ChinaAsTrumpNarrativeEnemy.md) — Vol.128 explanation for why China-U.S. tariff bargaining is harder to soften than ally bargaining.
+- [Trump Supporter Interpretive Loop](concepts/TrumpSupporterInterpretiveLoop.md) — Vol.128 "特朗普心理学" frame for pro-Trump media and supporters interpreting abrupt moves as hidden deal strategy.
+- [Tariff Consumer Price Pass-Through](concepts/TariffConsumerPricePassThrough.md) — Vol.128 consumer-facing tariff channel through toys, baby gear, fashion, ecommerce goods, imported brands, and delayed inflation effects.
+- [Tariff Exemption Pressure Valve](concepts/TariffExemptionPressureValve.md) — Vol.128 mechanism where exemptions and carveouts soften high headline tariff pressure while increasing planning uncertainty.
+- [Federal Research Funding Political Risk](concepts/FederalResearchFundingPoliticalRisk.md) — Vol.128 campus-facing risk that grant cuts, freezes, and legal reversals disrupt research and early-career academic labor markets.
+- [Independent Agency Control Pressure](concepts/IndependentAgencyControlPressure.md) — Vol.128 governance frame linking OMB, DOGE, regulatory review, Fed succession, and weaker practical independence.
 - [Annual Report Macro Reading](concepts/AnnualReportMacroReading.md) — Method of using many company reports to infer macro demand, confidence, balance-sheet stress, and enterprise adaptation.
 - [Compressed Corporate Evolution](concepts/CompressedCorporateEvolution.md) — Chinese company growth pattern that compresses product, listing, internationalization, and professionalization stages into a shorter cycle.
 - [Low Factor Cost Advantage](concepts/LowFactorCostAdvantage.md) — Cheap land, labor, utilities, logistics, infrastructure, and capital as an older but limited Chinese enterprise advantage.

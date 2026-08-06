@@ -2,7 +2,7 @@
 title: "Elon Musk"
 type: entity
 tags: [person, founder, spacex, tesla]
-sources: [tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73, vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g]
+sources: [vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73, vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g]
 last_updated: 2026-08-06
 ---
 
@@ -13,6 +13,8 @@ last_updated: 2026-08-06
 [[tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128]] independently reinforces that H-1B branch. [[SuyashPasi]] contrasts Musk and technology employers with the [[SteveBannon]] faction, arguing that skilled-worker visa demand keeps the [[H1BVisaCoalitionFaultLine]] open even as many technology leaders accommodate the [[DonaldTrump]] administration.
 
 [[vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g]] adds Musk through [[DepartmentOfGovernmentEfficiency]]. The [[QizhulouYanBinke|起朱楼宴宾客]] source treats his role less as a personality clash story and more as a shared-interest instrument for a Trump administration that may prioritize domestic bureaucracy, spending, and public-trust politics before foreign trade escalation.
+
+[[vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb]] adds the first-hundred-days follow-up. [[Zhongshu|众数 / 仲树]] and [[Talich]] discuss whether Musk is moving away from visible White House roles, but the source's interpretation is that influence can continue through [[DepartmentOfGovernmentEfficiency|DOGE]], personnel, projects, and relationships even if the formal role becomes less prominent.
 
 Elon Musk appears in [[145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]] as the leadership and operating-system center of [[SpaceX]]. [[LouisHong]] describes him as unusually demanding, first-principles-driven, and focused on the hardest unsolved problems rather than ceremonial management.
 
@@ -44,3 +46,4 @@ The source emphasizes Musk's use of extreme targets. In the episode, 10% or 30% 
 - [[MAGA]], [[DonaldTrump]], [[RepublicanParty]], and [[ImmigrationBacklashCycle]] - H-1B coalition-fracture context added by sp.05.
 - [[SteveBannon]], [[H1BVisaCoalitionFaultLine]], and [[TechGovernmentAccommodation]] - H-1B and Trump-administration accommodation branch reinforced by Marketplace Tech.
 - [[DepartmentOfGovernmentEfficiency]], [[AdministrativeStateDismantling]], and [[InternalStabilityConfidenceRepair]] - vol.111's domestic-first Trump 2.0 branch.
+- [[DepartmentOfGovernmentEfficiency]], [[IndependentAgencyControlPressure]], and [[OfficeOfManagementAndBudget]] - vol.128's first-hundred-days DOGE follow-up.
