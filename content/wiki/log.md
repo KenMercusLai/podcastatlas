@@ -6161,3 +6161,11 @@ Added source page for a 起朱楼宴宾客 episode by 大卫翁 reading 洪源�
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？
+
+Added source page for a 起朱楼宴宾客 episode by 大卫翁 on private credit, direct lending, unitranche loans, ABF, bank risk transfers, insurer funding, PIK, AI data-center private-credit financing, and the risk that opaque credit channels can turn AI infrastructure optimism into broader financial fragility. Created pages for Private Credit Market, Direct Lending, Asset-Based Finance, Unitranche Loan, Payment-In-Kind Interest, Synthetic Risk Transfer, Rated Note Feeders, Subscription Lines, AI Data-Center Private Credit Financing, Apollo Global Management, KKR, Ares Management, PIMCO, Vista Equity Partners, and Pluralsight; updated overview, index, 起朱楼宴宾客, 大卫翁, Private Credit Tail Risk, AI Infrastructure Debt Financing, Data Center Debt Risk, Bubble Financing Structure, Investment Risk Management, Investment Liquidity Tradeoff, Blackstone, Blue Owl Capital, Meta, xAI, Bank of England, BlackRock, and First Brands. No direct contradiction found; the source extends earlier private-credit warnings by giving the full market structure and showing how AI data-center project debt, insurance capital, bank channels, and wealth-management distribution can make private credit more systemically relevant.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

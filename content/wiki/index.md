@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？](sources/151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1.md) — 起朱楼宴宾客 episode on private credit, direct lending, ABF, insurer funding, bank risk transfers, PIK, AI data-center project debt, and whether opaque credit channels can turn AI infrastructure enthusiasm into systemic financial risk.
 - [150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方](sources/150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g.md) — 起朱楼宴宾客 episode reading 洪源远, 李璐, and Dan Wang together on Chinese modernization, poverty-trap escape, weak institutions, directed improvisation, engineering-state process knowledge, and next-stage cultural/service-governance gaps.
 - [149.百五特辑：和两位老媒体人漫谈播客、媒介以及声音生态的未来](sources/149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga.md) — 起朱楼宴宾客 crossover with 杨一 and 欧阳斌 on Chinese podcasting, media trust, living-person voice, platform algorithms, brand podcasts, fragmented commercialization, and long-form audio as a minority but durable medium.
 - [147.再谈日本医疗与照护行业之我曾在北海道的医院当护士](sources/147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp.md) — 起朱楼宴宾客 conversation with 琼琼 on Japanese nursing, no-family-attendant care, multidisciplinary hospital work, universal-coverage practice, medical social work, care socialization, subject-led care, daily dignity, and AI/robot elder-care limits.
@@ -771,6 +772,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Apollo Global Management](entities/ApolloGlobalManagement.md) — Private-market manager named by episode 151 as a major private-credit actor and arranger in the xAI chip-financing case.
+- [KKR](entities/KKR.md) — Private-market manager used by episode 151 to show private-credit concentration and insurance-linked funding scale.
+- [Ares Management](entities/AresManagement.md) — Private-credit manager named by episode 151 in both the large-manager cluster and the Pluralsight lender case.
+- [PIMCO](entities/PIMCO.md) — Fixed-income manager named by episode 151 as a major buyer in Meta's data-center project debt structure.
+- [Vista Equity Partners](entities/VistaEquityPartners.md) — Private-equity sponsor in episode 151's Pluralsight case, used to show sponsor-lender conflict in private credit.
+- [Pluralsight](entities/Pluralsight.md) — Software education company used by episode 151 as a private-credit stress and sponsor-collateral conflict case.
 - [Yuen Yuen Ang / 洪源远](entities/YuenYuenAng.md) — Political-economy author whose poverty-trap account anchors episode 150's weak-institution, variation-system, and directed-improvisation branch.
 - [《中国如何跳出贫困陷阱》 / How China Escaped the Poverty Trap](entities/HowChinaEscapedPovertyTrap.md) — Yuen Yuen Ang book used by episode 150 to explain China's early market formation through available institutions and local experimentation.
 - [Li Lu / 李璐](entities/LiLu.md) — Investor-author whose modernization and value-investment worldview frames episode 150's civilizational account of China.
@@ -5292,6 +5299,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Private Credit Market / 私募信贷市场](concepts/PrivateCreditMarket.md) — Episode 151 umbrella for private credit as useful non-public lending and possible opaque credit-cycle fragility.
+- [Direct Lending / 直接贷款](concepts/DirectLending.md) — Largest private-credit strategy in episode 151, where funds or asset managers lend directly to companies.
+- [Asset-Based Finance / ABF](concepts/AssetBasedFinance.md) — Private-credit strategy focused on collateral or asset cash flows such as receivables, equipment leases, data centers, and royalties.
+- [Unitranche Loan / 单级贷款](concepts/UnitrancheLoan.md) — Direct-lending form that blends senior and subordinated risk into one borrower-friendly but less transparent instrument.
+- [Payment-In-Kind Interest / PIK](concepts/PaymentInKindInterest.md) — Credit structure allowing unpaid cash interest to accrete into principal, useful for liquidity but risky as delayed stress.
+- [Synthetic Risk Transfer / SRT](concepts/SyntheticRiskTransfer.md) — Bank-private-credit bridge where banks transfer portfolio credit risk to outside investors to manage capital.
+- [Rated Note Feeders / 评级票据通道](concepts/RatedNoteFeeders.md) — Insurance-capital channel that packages private-credit exposure into rated notes.
+- [Subscription Lines / 基金认缴信用额度](concepts/SubscriptionLines.md) — Bank credit lines to private funds secured by LP commitments, smoothing capital calls while adding hidden leverage and return-timing effects.
+- [AI Data-Center Private Credit Financing](concepts/AIDataCenterPrivateCreditFinancing.md) — Episode 151 branch where xAI and Meta data-center structures connect AI capex to project debt, leases, private credit, and fixed-income capital.
 - [Poverty-Trap Modernization / 贫困陷阱与现代化](concepts/PovertyTrapModernization.md) — Episode 150 synthesis joining Li Lu's compound-growth modernization frame with Yuen Yuen Ang's institutional account of how China escaped poverty.
 - [Malthusian Trap / 马尔萨斯陷阱](concepts/MalthusianTrap.md) — Agricultural-civilization limit that episode 150 uses to define what modernization escapes.
 - [Modernization As Compound Growth / 复合增长式现代化](concepts/ModernizationAsCompoundGrowth.md) — Episode 150 definition of modernization as sustained compounding through productivity, markets, science, and industrial organization.

@@ -443,6 +443,10 @@
     "title": "150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方",
     "url": "/wiki/sources/150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g/"
   },
+  "151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1": {
+    "title": "151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？",
+    "url": "/wiki/sources/151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1/"
+  },
   "151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286": {
     "title": "151.早安,怪物：祝你战胜恐惧，祝你获得康复",
     "url": "/wiki/sources/151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286/"
@@ -1286,6 +1290,10 @@
   "AIDataCenterMemoryHierarchy": {
     "title": "AI Data Center Memory Hierarchy",
     "url": "/wiki/concepts/aidatacentermemoryhierarchy/"
+  },
+  "AIDataCenterPrivateCreditFinancing": {
+    "title": "AI Data-Center Private Credit Financing",
+    "url": "/wiki/concepts/aidatacenterprivatecreditfinancing/"
   },
   "AIDataInfrastructure": {
     "title": "AI Data Infrastructure",
@@ -3255,6 +3263,10 @@
     "title": "Apodex",
     "url": "/wiki/entities/apodex/"
   },
+  "ApolloGlobalManagement": {
+    "title": "Apollo Global Management",
+    "url": "/wiki/entities/apolloglobalmanagement/"
+  },
   "AppStore": {
     "title": "App Store",
     "url": "/wiki/entities/appstore/"
@@ -3362,6 +3374,10 @@
   "ArenicCapitalManagement": {
     "title": "Arenic Capital Management",
     "url": "/wiki/entities/areniccapitalmanagement/"
+  },
+  "AresManagement": {
+    "title": "Ares Management",
+    "url": "/wiki/entities/aresmanagement/"
   },
   "Argentina": {
     "title": "Argentina",
@@ -3498,6 +3514,10 @@
   "AssetAllocation": {
     "title": "Asset Allocation",
     "url": "/wiki/concepts/assetallocation/"
+  },
+  "AssetBasedFinance": {
+    "title": "Asset-Based Finance / ABF",
+    "url": "/wiki/concepts/assetbasedfinance/"
   },
   "AssetCorrelation": {
     "title": "Asset Correlation",
@@ -8822,6 +8842,10 @@
   "DirectAirCapture": {
     "title": "Direct Air Capture",
     "url": "/wiki/concepts/directaircapture/"
+  },
+  "DirectLending": {
+    "title": "Direct Lending / 直接贷款",
+    "url": "/wiki/concepts/directlending/"
   },
   "DirectListingDiscipline": {
     "title": "Direct Listing Discipline",
@@ -16435,6 +16459,10 @@
     "title": "KGB / 克格勃",
     "url": "/wiki/entities/kgb/"
   },
+  "KKR": {
+    "title": "KKR",
+    "url": "/wiki/entities/kkr/"
+  },
   "KLH": {
     "title": "KLH",
     "url": "/wiki/entities/klh/"
@@ -21979,6 +22007,10 @@
     "title": "P-Hacking",
     "url": "/wiki/concepts/phacking/"
   },
+  "PIMCO": {
+    "title": "PIMCO",
+    "url": "/wiki/entities/pimco/"
+  },
   "PPG": {
     "title": "PPG",
     "url": "/wiki/entities/ppg/"
@@ -22306,6 +22338,10 @@
   "PaymentClearingNetwork": {
     "title": "Payment Clearing Network / 支付清算网络",
     "url": "/wiki/concepts/paymentclearingnetwork/"
+  },
+  "PaymentInKindInterest": {
+    "title": "Payment-In-Kind Interest / PIK",
+    "url": "/wiki/concepts/paymentinkindinterest/"
   },
   "PaymentLedMarketSelection": {
     "title": "Payment Led Market Selection",
@@ -22923,6 +22959,10 @@
     "title": "Playwright",
     "url": "/wiki/entities/playwright/"
   },
+  "Pluralsight": {
+    "title": "Pluralsight",
+    "url": "/wiki/entities/pluralsight/"
+  },
   "PodcastAsAsynchronousMedia": {
     "title": "Podcast As Asynchronous Media",
     "url": "/wiki/concepts/podcastasasynchronousmedia/"
@@ -23442,6 +23482,10 @@
   "PrivateAirlineFailureModes": {
     "title": "Private Airline Failure Modes",
     "url": "/wiki/concepts/privateairlinefailuremodes/"
+  },
+  "PrivateCreditMarket": {
+    "title": "Private Credit Market / 私募信贷市场",
+    "url": "/wiki/concepts/privatecreditmarket/"
   },
   "PrivateCreditReceivablesOpacity": {
     "title": "Private Credit Receivables Opacity",
@@ -24230,6 +24274,10 @@
   "RatchetEffectWorkplace": {
     "title": "Ratchet Effect In The Workplace / 职场棘轮效应",
     "url": "/wiki/concepts/ratcheteffectworkplace/"
+  },
+  "RatedNoteFeeders": {
+    "title": "Rated Note Feeders / 评级票据通道",
+    "url": "/wiki/concepts/ratednotefeeders/"
   },
   "RatingsCom": {
     "title": "Ratings.com",
@@ -28075,6 +28123,10 @@
     "title": "Subscription Fatigue",
     "url": "/wiki/concepts/subscriptionfatigue/"
   },
+  "SubscriptionLines": {
+    "title": "Subscription Lines / 基金认缴信用额度",
+    "url": "/wiki/concepts/subscriptionlines/"
+  },
   "SubscriptionVsAlgorithmPodcastDistribution": {
     "title": "Subscription vs Algorithm Podcast Distribution / 播客订阅与算法分发",
     "url": "/wiki/concepts/subscriptionvsalgorithmpodcastdistribution/"
@@ -28310,6 +28362,10 @@
   "SynthID": {
     "title": "SynthID",
     "url": "/wiki/entities/synthid/"
+  },
+  "SyntheticRiskTransfer": {
+    "title": "Synthetic Risk Transfer / SRT",
+    "url": "/wiki/concepts/syntheticrisktransfer/"
   },
   "SyrilKarn": {
     "title": "Syril Karn",
@@ -30143,6 +30199,10 @@
     "title": "United States Pharmacopeia",
     "url": "/wiki/entities/unitedstatespharmacopeia/"
   },
+  "UnitrancheLoan": {
+    "title": "Unitranche Loan / 单级贷款",
+    "url": "/wiki/concepts/unitrancheloan/"
+  },
   "UnitreeRobotics": {
     "title": "Unitree Robotics",
     "url": "/wiki/entities/unitreerobotics/"
@@ -30538,6 +30598,10 @@
   "Visme": {
     "title": "Visme",
     "url": "/wiki/entities/visme/"
+  },
+  "VistaEquityPartners": {
+    "title": "Vista Equity Partners",
+    "url": "/wiki/entities/vistaequitypartners/"
   },
   "VisualBrandSystem": {
     "title": "Visual Brand System",

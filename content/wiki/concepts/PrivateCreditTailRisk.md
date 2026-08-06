@@ -2,11 +2,13 @@
 title: "Private Credit Tail Risk / 私募信贷尾部风险"
 type: concept
 tags: [credit, investing, liquidity, risk]
-sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+sources: [151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
 # Private Credit Tail Risk / 私募信贷尾部风险
+
+[[151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]] turns the concept from a broad warning into a full market mechanism. [[DavidWeng|大卫翁]] argues that [[PrivateCreditMarket|private credit]] can be useful while still becoming fragile through [[DirectLending]], [[AssetBasedFinance]], [[PaymentInKindInterest|PIK]], insurer funding, [[SyntheticRiskTransfer|SRT]], [[RatedNoteFeeders]], [[SubscriptionLines]], and [[AIDataCenterPrivateCreditFinancing]].
 
 [[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] reinforces private credit as a possible AI-bubble spillover channel. [[DavidWeng|大卫翁]] says the next crisis may not appear directly inside AI companies if they keep delivering earnings; the harder-to-observe risk may sit in opaque credit corners where financing, collateral, and marks are less visible.
 
@@ -28,8 +30,12 @@ The concept is not a claim that all private credit is bad. It is a risk-manageme
 - Episode 143 adds that private credit becomes more concerning when it finances long-duration AI infrastructure whose revenue path remains uncertain.
 - 不熄灯 E02 adds that private-credit stress can surface through receivables and cash-control questions before it looks like an economy-wide credit event.
 - Episode 146 adds that AI-related systemic risk depends less on the bubble label than on whether hidden credit channels have financed the buildout.
+- Episode 151 adds the full transmission chain: banks can return indirectly through SRT and subscription lines, insurers can enter through rated feeder structures, and AI data-center finance can move technology optimism into private credit.
+- PIK, ABF collateral opacity, and 2026-2028 refinancing pressure are warning signs because they can delay, obscure, or synchronize credit stress.
 
 ## Connections
+- [[PrivateCreditMarket]], [[DirectLending]], [[AssetBasedFinance]], [[UnitrancheLoan]], and [[PaymentInKindInterest]] - episode 151's private-credit product and mechanism layer.
+- [[SyntheticRiskTransfer]], [[RatedNoteFeeders]], [[SubscriptionLines]], and [[AIDataCenterPrivateCreditFinancing]] - bank, insurance, fund, and AI-infrastructure transmission channels added by episode 151.
 - [[InvestmentLiquidityTradeoff]], [[InvestmentRiskManagement]], and [[FundRedemptionLiquidityPressure]] - ordinary-investor and product-liquidity context.
 - [[FatTailRisk]], [[TailRiskHedging]], and [[DataCenterDebtRisk]] - stress, tail, and private-credit-adjacent branches.
 - [[AIInfrastructureDebtFinancing]] and [[TechBubbleConditions]] - adjacent technology-cycle financing context.

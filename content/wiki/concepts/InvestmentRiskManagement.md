@@ -3,6 +3,7 @@ title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
 sources:
+  - 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1
   - 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz
   - 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt
   - 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq
@@ -54,6 +55,8 @@ last_updated: 2026-08-06
 ---
 
 # Investment Risk Management
+
+[[151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]] adds the private-credit product version. [[DavidWeng|大卫翁]] argues that apparently stable yield must still be risk-managed through borrower quality, collateral verification, mark frequency, liquidity terms, [[PaymentInKindInterest|PIK]] use, bank and insurer linkages, and whether AI-infrastructure debt is moving optimism into opaque credit channels.
 
 [[tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128]] adds the public-fund crypto version. [[LizFarmer]] says some state officials view digital assets as high-risk, high-reward diversification tools, but [[PublicCryptoInvestmentRisk]] changes the risk-management standard because state funds, reserve authority, taxpayer exposure, custody, and operating-budget separation have to be evaluated before any [[Bitcoin]] reserve can be treated as prudent.
 
