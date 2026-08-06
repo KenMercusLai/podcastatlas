@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-06] ingest | 131.我在日本买了一套自住房
+
+Added source page for a 起朱楼宴宾客 episode by 大卫翁 on buying a first self-use new-build condo in Yokohama and using that process to explain Japanese residential property. Created pages for Yokohama, Mitsubishi Estate, Mori Building, Japanese New-Build Condo Buying, Japanese Housing Presale Protection, Japanese Railway Real-Estate Development, Japanese Condo Maintenance Reserve, Japanese Housing Information Disclosure, Japanese Mortgage Insurance Bundle, Negative Real Estate, Housing As Consumption Good, Japanese Urban-Core Redevelopment, and Japanese Property Holding Cost; updated overview, index, 起朱楼宴宾客, 大卫翁, Japan, Itochu, Japanese Lost Decades, Japan Comfortable Stagnation, Housing Experience Investment Split, Mortgage Approval, Insurance Risk Transfer, Long-Term Place Operation, and China Real Estate Debt Cycle. No direct contradiction found; the source qualifies Japan's comfortable-stagnation branch by showing the owner-side cost, paperwork, and standardization behind high residential-service quality.
+
 ## [2026-08-06] ingest | vol.120.日本医疗体系的崩溃与重生：医院、药品、医保三角困局的一种解法
 
 Added source page for a 起朱楼宴宾客 episode by 大卫翁 on Japan's healthcare system, 1990s medical collapse, public coverage, high-cost medical expense caps, lifestyle-disease prevention, triage, community integrated care, DPC/DRG-style payment reform, drug-pricing reform, generic-drug trust, pharmacist reform, and the hospital-drug-insurance triangle as a China-facing comparison case. Created pages for Japanese Healthcare System, Japanese Universal Health Coverage, High-Cost Medical Expense Benefit, Japanese Medical Collapse, Social Hospitalization, Lifestyle-Disease Prevention, Japanese Medical Triage System, Community Integrated Care, DPC/DRG Payment Reform, Japanese Drug Pricing Reform, Generic Drug Trust Rebuilding, Pharmacist As Second Doctor, Healthcare Impossible Triangle, Ministry of Health, Labour and Welfare, Daiichi Sankyo, and Takeda Pharmaceutical; updated overview, index, 起朱楼宴宾客, 大卫翁, Japan, China, Health Insurance Planning, Preventive Health Screening, Elder Care State Capacity, Aging-In-Place Support System, Long-Term Care Insurance Planning, and Medical Risk Management. No direct contradiction found; the source's own correction note is recorded as a reliability caveat for the revised episode.
@@ -6005,6 +6009,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] ingest | 129.货币的本质，以及黄金的真正价值 | 串台十分吸引
 
 Added source page for a 起朱楼宴宾客 crossover with 十分吸引 on money as flow, endogenous credit creation, payment-clearing networks, currency-anchor transition, gold as a temporary spare monetary anchor, Bitcoin's network-value claim, and currency risk as wealth-measurement risk. Created pages for Money As Flow, Endogenous Money Creation, Payment Clearing Network, Currency Anchor Transition, and Gold As Currency Spare Tire; updated overview, index, 起朱楼宴宾客, 大卫翁, 时雷, 十分吸引, Bitcoin, Federal Reserve, U.S. Treasury, People's Bank of China, Bank of England, Gold Monetary Anchor, Currency Risk, Currency Credit, Digital Gold, Bitcoin Safe-Haven Behavior, Money Illusion, and Money Movement Infrastructure. No direct contradiction found; the source qualifies Bitcoin's digital-gold claim and extends gold's role as a temporary backup anchor under monetary uncertainty.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

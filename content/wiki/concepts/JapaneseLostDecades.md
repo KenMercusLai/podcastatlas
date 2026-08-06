@@ -2,7 +2,7 @@
 title: "Japanese Lost Decades"
 type: concept
 tags: [japan, economy, confidence, society]
-sources: [vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
+sources: [131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
 last_updated: 2026-08-06
 ---
 
@@ -13,6 +13,8 @@ Japanese lost decades is the post-bubble, long-low-growth frame used by [[vol-10
 The source is careful not to turn Japan into a direct forecast for [[China]]. Its use is comparative: Japan makes visible what can happen when confidence is slow to rebuild, when company belonging changes, and when people shift from outward achievement toward ordinary routines, interest communities, and inner calm.
 
 [[vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw]] extends the lost-decades frame from youth happiness into national development. The episode says Japan can enjoy [[JapaneseEquityRepricing]], good daily services, and supply-chain or tourism benefits while still showing the long shadow of post-bubble caution, demographic shrinkage, and limited entrepreneurial ambition.
+
+[[131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz]] adds the housing-market version. The source uses post-bubble [[NegativeRealEstate]] and the shift toward [[HousingAsConsumptionGood]] to show how the lost decades changed property from an assumed wealth escalator into a location-, maintenance-, population-, and carrying-cost problem.
 
 ## Key Claims
 - The lost-decades frame is economic and emotional: it includes prices, assets, jobs, and a long memory of disappointment.

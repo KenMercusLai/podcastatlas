@@ -199,6 +199,10 @@
     "title": "131.“日常之谜”推理：是我未能说出口的真心",
     "url": "/wiki/sources/131-richang-zhimi-tuili-shi-wo-wei-neng-shuo-chukou-de-zhenxin-805617229/"
   },
+  "131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz": {
+    "title": "131.我在日本买了一套自住房",
+    "url": "/wiki/sources/131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz/"
+  },
   "131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan": {
     "title": "131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程",
     "url": "/wiki/sources/131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan/"
@@ -13743,6 +13747,10 @@
     "title": "Housing Affordability Supply Mechanics",
     "url": "/wiki/concepts/housingaffordabilitysupplymechanics/"
   },
+  "HousingAsConsumptionGood": {
+    "title": "Housing As Consumption Good / 房子消费品化",
+    "url": "/wiki/concepts/housingasconsumptiongood/"
+  },
   "HousingExperienceInvestmentSplit": {
     "title": "Housing Experience Investment Split",
     "url": "/wiki/concepts/housingexperienceinvestmentsplit/"
@@ -14995,6 +15003,10 @@
     "title": "日本树莺 / Japanese Bush Warbler",
     "url": "/wiki/entities/japanesebushwarbler/"
   },
+  "JapaneseCondoMaintenanceReserve": {
+    "title": "Japanese Condo Maintenance Reserve / 日本公寓修缮基金",
+    "url": "/wiki/concepts/japanesecondomaintenancereserve/"
+  },
   "JapaneseDisabilityRightsMovement": {
     "title": "Japanese Disability Rights Movement",
     "url": "/wiki/concepts/japanesedisabilityrightsmovement/"
@@ -15018,6 +15030,14 @@
   "JapaneseHealthcareSystem": {
     "title": "Japanese Healthcare System / 日本医疗体系",
     "url": "/wiki/concepts/japanesehealthcaresystem/"
+  },
+  "JapaneseHousingInformationDisclosure": {
+    "title": "Japanese Housing Information Disclosure / 日本住宅信息披露",
+    "url": "/wiki/concepts/japanesehousinginformationdisclosure/"
+  },
+  "JapaneseHousingPresaleProtection": {
+    "title": "Japanese Housing Presale Protection / 日本住宅预售保全",
+    "url": "/wiki/concepts/japanesehousingpresaleprotection/"
   },
   "JapaneseImperialFamily": {
     "title": "Japanese Imperial Family",
@@ -15055,9 +15075,25 @@
     "title": "Japanese Medical Triage System / 日本分诊制",
     "url": "/wiki/concepts/japanesemedicaltriagesystem/"
   },
+  "JapaneseMortgageInsuranceBundle": {
+    "title": "Japanese Mortgage Insurance Bundle / 日本房贷保险组合",
+    "url": "/wiki/concepts/japanesemortgageinsurancebundle/"
+  },
+  "JapaneseNewCondoBuying": {
+    "title": "Japanese New-Build Condo Buying / 日本新建公寓购房",
+    "url": "/wiki/concepts/japanesenewcondobuying/"
+  },
   "JapaneseOvertourismTradeoff": {
     "title": "Japanese Overtourism Tradeoff / 日本过度旅游取舍",
     "url": "/wiki/concepts/japaneseovertourismtradeoff/"
+  },
+  "JapanesePropertyHoldingCost": {
+    "title": "Japanese Property Holding Cost / 日本房产持有成本",
+    "url": "/wiki/concepts/japanesepropertyholdingcost/"
+  },
+  "JapaneseRailwayRealEstateDevelopment": {
+    "title": "Japanese Railway Real-Estate Development / 日本铁路系房地产开发",
+    "url": "/wiki/concepts/japaneserailwayrealestatedevelopment/"
   },
   "JapaneseSogoShosha": {
     "title": "Japanese Sogo Shosha / 日本综合商社",
@@ -15066,6 +15102,10 @@
   "JapaneseUniversalHealthCoverage": {
     "title": "Japanese Universal Health Coverage / 日本全民医保",
     "url": "/wiki/concepts/japaneseuniversalhealthcoverage/"
+  },
+  "JapaneseUrbanCoreRedevelopment": {
+    "title": "Japanese Urban-Core Redevelopment / 日本城市核心区再开发",
+    "url": "/wiki/concepts/japaneseurbancoreredevelopment/"
   },
   "JaredFriedman": {
     "title": "Jared Friedman",
@@ -19319,6 +19359,10 @@
     "title": "Mitsubishi Corporation / 三菱商事",
     "url": "/wiki/entities/mitsubishicorporation/"
   },
+  "MitsubishiEstate": {
+    "title": "Mitsubishi Estate / 三菱地所",
+    "url": "/wiki/entities/mitsubishiestate/"
+  },
   "MitsuiAndCo": {
     "title": "Mitsui & Co. / 三井物产",
     "url": "/wiki/entities/mitsuiandco/"
@@ -19578,6 +19622,10 @@
   "MoriBuichi": {
     "title": "森布一",
     "url": "/wiki/entities/moribuichi/"
+  },
+  "MoriBuilding": {
+    "title": "Mori Building / 森大厦",
+    "url": "/wiki/entities/moribuilding/"
   },
   "MoriOgai": {
     "title": "Mori Ogai / 森鸥外",
@@ -20082,6 +20130,10 @@
   "NegativeCashConversionCycle": {
     "title": "Negative Cash Conversion Cycle",
     "url": "/wiki/concepts/negativecashconversioncycle/"
+  },
+  "NegativeRealEstate": {
+    "title": "Negative Real Estate / 负动产",
+    "url": "/wiki/concepts/negativerealestate/"
   },
   "NegotiationAsBargaining": {
     "title": "Negotiation As Bargaining / 谈判即商量",
@@ -31286,6 +31338,10 @@
   "YokaiMystery": {
     "title": "妖怪推理 / Yokai Mystery",
     "url": "/wiki/concepts/yokaimystery/"
+  },
+  "Yokohama": {
+    "title": "Yokohama / 横滨",
+    "url": "/wiki/entities/yokohama/"
   },
   "YonezawaHonobu": {
     "title": "米泽穗信 / Yonezawa Honobu",

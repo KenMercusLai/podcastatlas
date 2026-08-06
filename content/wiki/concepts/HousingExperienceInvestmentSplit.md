@@ -2,8 +2,8 @@
 title: "Housing Experience Investment Split"
 type: concept
 tags: [real-estate, investing, housing, consumer, allocation]
-sources: [137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]
-last_updated: 2026-07-09
+sources: [131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]
+last_updated: 2026-08-06
 ---
 
 # Housing Experience Investment Split
@@ -11,6 +11,8 @@ last_updated: 2026-07-09
 Housing experience investment split is the source's distinction between a home as lived consumption and a property as an investment asset. In [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]], [[FengTouQuan]] uses [[HongKong]], [[Shenzhen]], and [[Guangzhou]] to argue that "experience belongs to experience, investment belongs to investment."
 
 The concept extends [[AssetAllocation]] and [[InvestmentRiskManagement]]. A primary residence can be justified by commute, space, family, school, community, and daily comfort, but a property not used by the owner should be judged more like an asset: price, leverage, rent, liquidity, supply, divisibility, carrying cost, and exit demand matter.
+
+[[131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz]] adds a Japanese owner-occupation case. The source turns [[HousingAsConsumptionGood]] into a practical buying frame: a self-use condo in [[Yokohama]] can be worth buying for location, management, and daily convenience, while the same property still needs to be tested through [[JapanesePropertyHoldingCost]], repair reserves, mortgage rules, and resale demand if treated as an investment.
 
 ## Key Claims
 - Living in a home creates real experience value even if the financial return is weak.

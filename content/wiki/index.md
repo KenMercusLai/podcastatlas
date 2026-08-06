@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [131.我在日本买了一套自住房](sources/131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz.md) — 起朱楼宴宾客 episode using 大卫翁's Japanese new-build condo purchase to map Yokohama location choice, presale protection, area rules, maintenance reserves, mortgage/insurance workflow, disclosure documents, holding costs, negative real estate, and housing as a maintained consumer good.
 - [130. 谁才是生物医药行业发展的核心驱动力？兼谈创新药产业链的角色分工](sources/130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh.md) — 起朱楼宴宾客 episode mapping innovation-drug industry roles across BioTech, BioPharm, MNCs, CXO, academia, hospitals, regulators, payers, and capital, with commercialization capability as the key boundary.
 - [129.货币的本质，以及黄金的真正价值 | 串台十分吸引](sources/129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb.md) — 起朱楼宴宾客 crossover with 十分吸引 on money as flow, endogenous credit creation, payment-clearing networks, currency-anchor transition, gold as a spare monetary anchor, Bitcoin's network-value claim, and currency risk as wealth-measurement risk.
 - [vol.128.关税战下一步走向何方？美国人民如何看待特朗普“百日新政”？| 狂喜播客节·对话仲树&Talich](sources/vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb.md) — 起朱楼宴宾客 live discussion on the May 2025 tariff-war moment, Trump victory-narrative bargaining, China as a campaign enemy, tariff consumer-price pass-through, exemptions, gray routing chains, research-funding cuts, TikTok as bargaining chip, DOGE/OMB agency pressure, and Fed independence risk.
@@ -752,6 +753,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Yokohama / 横滨](entities/Yokohama.md) — Main residential city case in episode 131, chosen for daily-life fit between quieter coastal living and Tokyo-scale convenience.
+- [Mitsubishi Estate / 三菱地所](entities/MitsubishiEstate.md) — Japanese real-estate developer used by episode 131 to explain urban-core redevelopment and long-term district operation.
+- [Mori Building / 森大厦](entities/MoriBuilding.md) — Japanese developer used by episode 131 as a Roppongi Hills-style example of mature city-operation capability.
 - [众数 / 仲树](entities/Zhongshu.md) — Live vol.128 participant connecting U.S. campus funding cuts, consumer price changes, supporter interpretation, and China enemy-making.
 - [Talich](entities/Talich.md) — Live vol.128 participant explaining Trump victory-narrative bargaining, consumer tariff pressure, TikTok leverage, DOGE/OMB agency control, and Fed succession risk.
 - [关亚迪 / Guan Yadi](entities/GuanYadiQizhulou.md) — Live-session moderator for the vol.128 狂喜播客节 discussion on tariff war and Trump first-hundred-days politics.
@@ -5185,6 +5189,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Japanese New-Build Condo Buying / 日本新建公寓购房](concepts/JapaneseNewCondoBuying.md) — Episode 131 process frame for self-use new condo purchase through location, developer, presale, disclosure, maintenance, mortgage, insurance, tax, and resale considerations.
+- [Japanese Housing Presale Protection / 日本住宅预售保全](concepts/JapaneseHousingPresaleProtection.md) — Episode 131 contrast between Japanese staged handover-funded presale and household-financed unfinished-apartment risk.
+- [Japanese Railway Real-Estate Development / 日本铁路系房地产开发](concepts/JapaneseRailwayRealEstateDevelopment.md) — Episode 131 model where private railway operators combine commuting routes, station commerce, residential development, and daily services.
+- [Japanese Condo Maintenance Reserve / 日本公寓修缮基金](concepts/JapaneseCondoMaintenanceReserve.md) — Episode 131 repair-reserve and management-fee mechanism that turns building aging into planned collective cost.
+- [Japanese Housing Information Disclosure / 日本住宅信息披露](concepts/JapaneseHousingInformationDisclosure.md) — Episode 131 disclosure layer covering land history, legal limits, utilities, disaster information, urban planning, construction reports, and handover procedures.
+- [Japanese Mortgage Insurance Bundle / 日本房贷保险组合](concepts/JapaneseMortgageInsuranceBundle.md) — Episode 131 bundle of low-rate self-use mortgage finance, borrower review, loan-purpose rules, group credit life insurance, fire insurance, and earthquake insurance.
+- [Negative Real Estate / 负动产](concepts/NegativeRealEstate.md) — Episode 131 post-bubble warning that property can become a costly obligation when population, demand, transport, maintenance, and exit buyers weaken.
+- [Housing As Consumption Good / 房子消费品化](concepts/HousingAsConsumptionGood.md) — Episode 131 frame for treating homes by lived value, aging, repair, location, and carrying cost rather than automatic appreciation.
+- [Japanese Urban-Core Redevelopment / 日本城市核心区再开发](concepts/JapaneseUrbanCoreRedevelopment.md) — Episode 131 explanation for renewed central property demand through dual-earner households, industrial-land release, mixed-use redevelopment, and developer operation.
+- [Japanese Property Holding Cost / 日本房产持有成本](concepts/JapanesePropertyHoldingCost.md) — Episode 131 owner-cost stack combining taxes, management fees, repair reserves, insurance, loan interest, options, and services.
 - [Money As Flow / 货币是流量](concepts/MoneyAsFlow.md) — Episode 129 frame that money gains value through payment, clearing, credit creation, debt settlement, and network acceptance rather than as a static object.
 - [Endogenous Money Creation / 内生货币](concepts/EndogenousMoneyCreation.md) — Episode 129 claim that money can be created and destroyed inside the economy through credit, trade, lending, payment, and repayment.
 - [Payment Clearing Network / 支付清算网络](concepts/PaymentClearingNetwork.md) — Episode 129 infrastructure concept treating correspondent banking, PVP, DVP, clearing centers, and account claims as part of money's substance.

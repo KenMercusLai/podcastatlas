@@ -2,7 +2,7 @@
 title: "Japan Comfortable Stagnation / 日本舒适停滞"
 type: concept
 tags: [japan, society, economy, aging, innovation]
-sources: [vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw]
+sources: [131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw]
 last_updated: 2026-08-06
 ---
 
@@ -13,6 +13,8 @@ Japan comfortable stagnation is the source's synthesis for why Japan can be a de
 The concept holds two claims together. Japan's earlier success produced real assets: infrastructure, safety, healthcare, industrial skill, service quality, and a high floor for daily life. But those assets can coexist with population decline, guarded immigration, weak startup appetite, aging decision power, and [[JapaneseGalapagosization|Galapagosization]].
 
 The episode uses [[IsaacAsimov|Isaac Asimov]]'s Solaria analogy as an image rather than a literal forecast: a comfortable society served by machines can still become socially narrow and stagnant.
+
+[[131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz]] adds the owner-facing housing version of the same tension. A buyer can experience mature services, careful disclosure, reliable construction details, property management, and low mortgage rates, while also facing high maintenance costs, rigid process, standardized design, and a market where core locations are again becoming investment-shaped.
 
 ## Key Claims
 - Individual life quality and national growth capacity can diverge.

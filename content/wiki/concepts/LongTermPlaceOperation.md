@@ -2,8 +2,8 @@
 title: "Long-Term Place Operation"
 type: concept
 tags: [retail, real-estate, operations, tourism, cities]
-sources: [142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
-last_updated: 2026-07-10
+sources: [131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
+last_updated: 2026-08-06
 ---
 
 # Long-Term Place Operation
@@ -11,6 +11,8 @@ last_updated: 2026-07-10
 Long-term place operation is the capability to keep a physical destination, commercial space, neighborhood, park, or mixed-use community valuable after the initial build and launch. [[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]] contrasts this with China's faster real-estate and infrastructure cycle, where land finance, construction, and short-term traffic can dominate over slow operational craft.
 
 [[TokyoDisneyResort]] is the source's main benchmark. The episode argues that decades of detailed operation create secondary revenue in lockers, merchandise, dining, and shopping because visitors trust the whole experience enough to spend time and money inside it. [[Anaya]] is used as a domestic China example where long-term resident life and programming help the place avoid becoming only a staged scene.
+
+[[131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz]] adds the real-estate developer version through [[JapaneseUrbanCoreRedevelopment]]. [[MoriBuilding]] and [[MitsubishiEstate]] illustrate how mature developers preserve central district value by refreshing tenants, hotels, restaurants, greenery, and public space after construction, while [[JapaneseCondoMaintenanceReserve]] shows a building-level version of the same maintenance logic.
 
 ## Key Claims
 - Construction quality and hardware are not enough; the place must be operated through crowd flow, product cadence, convenience, service, maintenance, and repeat novelty.

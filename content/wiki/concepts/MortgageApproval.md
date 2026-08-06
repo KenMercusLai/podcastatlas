@@ -2,13 +2,15 @@
 title: "Mortgage Approval"
 type: concept
 tags: [finance, banking, credit, housing, personal-finance]
-sources: [ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439]
-last_updated: 2026-07-07
+sources: [131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz, ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439]
+last_updated: 2026-08-06
 ---
 
 # Mortgage Approval
 
 Mortgage approval is the bank process that connects property collateral to the borrower's actual repayment capacity. [[ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439]] treats housing loans as standardized but not automatic: the property may be strong collateral, yet the bank still reviews down payment source, income stability, existing debt, loan purpose, repayment records, and interest-rate choice.
+
+[[131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz]] adds the Japanese self-use mortgage version. The source emphasizes low variable rates, preliminary and final review, foreign-resident hurdles, tax deduction, credit-building, and strict separation among self-use, second-home, investment, and short-term-rental loans inside [[JapaneseMortgageInsuranceBundle]].
 
 ## Key Claims
 - A purchase contract can support a housing-loan application, but approval still depends on documents, bank policy, repayment ability, and the property transaction flow.
