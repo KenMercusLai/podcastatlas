@@ -1,9 +1,9 @@
 ---
 title: "The Atlantic"
 type: entity
-tags: [publication, journalism, technology]
-sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]
-last_updated: 2026-07-25
+tags: [publication, journalism, technology, politics]
+sources: [vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]
+last_updated: 2026-08-06
 ---
 
 # The Atlantic
@@ -12,8 +12,11 @@ The Atlantic appears in [[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-
 
 The source uses The Atlantic affiliation to anchor a cultural and consumer-technology reading of [[WearableAIAssistant]]: smart glasses, pins, pendants, bracelets, rings, watches, and earbuds are judged not only by technical promise but by whether they feel useful, socially normal, and privacy-respecting in ordinary life.
 
+[[vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6]] adds The Atlantic as the publication source for a [[PatrimonialGovernance]] frame. The [[QizhulouYanBinke|起朱楼宴宾客]] episode uses an Atlantic article, via [[MaxWeber]], to connect [[DonaldTrump]]'s personal loyalty demands, anti-bureaucracy posture, and tariff leverage to a broader personal-rule pattern.
+
 ## Connections
 - [[WillGottsagen]] - Atlantic writer interviewed in the source.
 - [[MarketplaceTech]] and [[MeganMcCartyCorino|Megan McCarty-Carino]] - show and host context.
 - [[WearableAIAssistant]], [[AIPlusTerminals]], and [[SmartphoneAIHub]] - concepts discussed through the episode.
 - [[ConsumerCameraSurveillance]] and [[ConsentBasedRecording]] - privacy concerns surfaced by the Atlantic-affiliated commentary.
+- [[PatrimonialGovernance]], [[MaxWeber]], [[DonaldTrump]], and [[ExecutivePowerPrecedent]] - governance frame added by Qizhulou vol.123.

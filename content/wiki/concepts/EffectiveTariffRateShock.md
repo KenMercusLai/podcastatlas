@@ -2,8 +2,8 @@
 title: "Effective Tariff Rate Shock"
 type: concept
 tags: [trade, tariffs, macro, public-policy]
-sources: [battlefield-rare-earths-how-the-us-lost-to-china, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026]
-last_updated: 2026-07-24
+sources: [vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, battlefield-rare-earths-how-the-us-lost-to-china, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026]
+last_updated: 2026-08-06
 ---
 
 # Effective Tariff Rate Shock
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 Effective tariff rate shock is the source's 2025 tariff indicator. In [[indicators-of-2025-and-what-to-watch-in-2026]], [[GregRosalsky]] says the average effective tariff rate faced by U.S. consumers rose from 2.5% in 2024 to 16.8% in 2025, the highest level since 1935.
 
 The concept extends [[BlanketTariffLimit]] by making tariff policy visible as a direct consumer-price and legal-authority event. The episode describes [[DonaldTrump]]'s "Liberation Day" tariffs, market turmoil, pauses, negotiations, [[Costco]]'s lawsuit, and a pending [[SupremeCourt]] question over whether the president could impose the tariffs without congressional approval.
+
+[[vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6]] adds an early April 2025 market-shock reading. The source says U.S. weighted average tariff rates could move from roughly 5% toward 24%, and cites another effective-rate estimate moving from 2.4% toward 25.1%, making the episode's comparison with the Smoot-Hawley era part of the shock logic.
 
 [[the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]] updates that pending question by treating the Supreme Court ruling as decided in the source set. The new source turns the tariff shock into [[IEPATariffAuthorityLimit]], [[TariffRefundUncertainty]], [[TariffRefundClaimsMarket]], and continuing [[TariffPolicyPlanningRisk]] through [[Section122TariffAuthority]].
 
@@ -23,11 +25,13 @@ The concept extends [[BlanketTariffLimit]] by making tariff policy visible as a 
 - The later tariff-ruling source resolves the IEPA question while preserving uncertainty around refunds, claim monetization, and replacement tariff authority.
 - The concept complements [[TradeReciprocityProtectionism]] and [[AmericanProtectionistTradition]] while preserving the warning that tariffs do not automatically rebuild lost manufacturing jobs.
 - The rare-earth source shows that tariff shocks can trigger upstream supply-chain responses even when the visible tariff debate is about consumer prices and legal authority.
+- The Qizhulou vol.123 source adds that the shock can arrive through a [[ReciprocalTariffFormula]] whose rates are much higher than ordinary reciprocal tariff bargaining would suggest.
 
 ## Connections
 - [[GregRosalsky]] - source participant pitching tariffs.
 - [[DonaldTrump]], [[Costco]], and [[SupremeCourt]] - policy actor, lawsuit context, and legal forum in the source.
 - [[IEPATariffAuthorityLimit]], [[TariffRefundUncertainty]], [[TariffRefundClaimsMarket]], and [[Section122TariffAuthority]] - ruling and aftermath branch added by the later source.
 - [[BlanketTariffLimit]], [[TradeReciprocityProtectionism]], and [[AmericanProtectionistTradition]] - tariff-policy branch.
+- [[ReciprocalTariffFormula]], [[TariffComplianceTest]], and [[MarketRegimeShift]] - April 2025 formula, bargaining, and market-impact branch added by Qizhulou Yan Binke.
 - [[ConsumerSentimentIndicator]] and [[FederalFundsRateAsPolicySignal]] - adjacent macro indicators affected by inflation, uncertainty, and policy credibility.
 - [[RareEarthExportLeverage]], [[RareEarthProcessingBottleneck]], and [[StateBackedRareEarthRebuilding]] - strategic-materials response added by Planet Money.

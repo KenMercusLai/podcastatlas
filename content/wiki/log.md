@@ -5948,3 +5948,11 @@ Added source page for a 起朱楼宴宾客 episode on Chinese structured funds, 
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | vol.123.特朗普的“对等”关税案：不止是一场大型服从性测试
+
+Added source page for a 起朱楼宴宾客 episode on Trump’s April 2025 reciprocal-tariff shock. Created pages for Reciprocal Tariff Formula, Tariff Compliance Test, Globalization Tax Optimization, Patrimonial Governance, Vietnam, Ireland, Max Weber, and Midea Group; updated overview, index, Donald Trump, 起朱楼宴宾客, United States, China, Apple, The Atlantic, Trade Reciprocity Protectionism, Effective Tariff Rate Shock, Supply Chain Sovereignty, China Policy Easing Pivot, RMB Exchange Rate Policy, Market Regime Shift, and Deglobalization Trade Intermediation. No direct contradiction found; the source predates the later wiki tariff-ruling source and is treated as an April 2025 political-economic analysis rather than the final legal outcome.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

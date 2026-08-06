@@ -2,7 +2,7 @@
 title: "China Policy Easing Pivot"
 type: concept
 tags: [china, macro, monetary-policy, fiscal-policy]
-sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]
+sources: [vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]
 last_updated: 2026-08-06
 ---
 
@@ -12,6 +12,8 @@ China policy easing pivot is the episode's account of how 2024 policy expectatio
 
 The concept is a [[PolicyDrivenMarketRally]] frame, but with an important caveat: the rally began from policy belief before clear macro data recovery. The episode therefore treats the pivot as necessary but incomplete unless it becomes [[ShortTermDemandBeforeLongTermReform|demand repair]], balance-sheet repair, and eventually corporate earnings.
 
+[[vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6]] adds the tariff-response version. The episode argues that after [[EffectiveTariffRateShock]], investors will care less about abstract confidence language and more about whether China responds through larger stimulus, monetary adjustment, and [[RMBExchangeRatePolicy]] choices that can cushion export weakness.
+
 ## Key Claims
 - The September 2024 policy turn improved confidence before fundamentals had visibly repaired.
 - Monetary constraints around cross-cycle patience, saving policy room, and bank net-interest margins are described as looser than before.
@@ -19,6 +21,7 @@ The concept is a [[PolicyDrivenMarketRally]] frame, but with an important caveat
 - Fiscal constraints around deficit ratios, government debt ratios, and macro leverage are described as weaker but not abolished.
 - The December meetings confirmed policy direction without fully satisfying the market's desire for explicit fiscal numbers.
 - The pivot matters for markets because it can lift valuations first, but it still needs [[ChinaFiscalExpansionChannels]] to transmit into real cash flow.
+- Vol.123 adds that export shock can make policy response the main market question, especially if direct and transshipment-related U.S. demand both fall.
 
 ## Connections
 - [[PeoplesBankOfChina]] — central-bank actor in the monetary-policy side.
@@ -26,3 +29,4 @@ The concept is a [[PolicyDrivenMarketRally]] frame, but with an important caveat
 - [[ChinaFiscalExpansionChannels]] — fiscal implementation layer after the policy turn.
 - [[PolicyDrivenMarketRally]], [[AShareValuationIndicators]], and [[AHShare2025Barbell]] — market-pricing branch.
 - [[ShortTermDemandBeforeLongTermReform]] — sequencing rule that keeps the pivot from becoming a pure sentiment story.
+- [[EffectiveTariffRateShock]], [[ReciprocalTariffFormula]], [[SupplyChainSovereignty]], and [[MarketRegimeShift]] — tariff-shock context added by Qizhulou vol.123.

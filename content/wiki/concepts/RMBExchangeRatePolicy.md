@@ -2,7 +2,7 @@
 title: "RMB Exchange Rate Policy"
 type: concept
 tags: [currency, macro, china]
-sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+sources: [vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
 last_updated: 2026-08-06
 ---
 
@@ -14,6 +14,8 @@ RMB exchange rate policy is the EP39 frame that the RMB/USD rate is more likely 
 
 [[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] adds the easing-constraint version. The episode says several domestic monetary-policy constraints have loosened, but [[PeoplesBankOfChina]] still cares strongly about exchange-rate stability; RMB stability is framed not only as capital-flow defense, but also as part of doing business with Southeast Asia, Africa, South America, and other non-U.S. markets.
 
+[[vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6]] adds the tariff-response version. The episode says markets will watch whether China uses exchange-rate adjustment alongside broader [[ChinaPolicyEasingPivot]] measures after U.S. tariffs hit direct exports and transshipment-linked exports.
+
 ## Key Claims
 - Severe RMB depreciation can worsen capital outflow pressure and confidence.
 - Severe RMB appreciation can hurt exports and GDP-sensitive manufacturing competitiveness.
@@ -23,6 +25,7 @@ RMB exchange rate policy is the EP39 frame that the RMB/USD rate is more likely 
 - Exchange-rate pressure can make regulators more sensitive to false-purpose FX use, split purchases, and informal outbound investment routes.
 - Vol.112 adds that the exchange-rate path can be partly subjective and strategic at historical turning points, especially when [[China]] is trying to build rather than merely adapt to a global order.
 - Vol.115 adds that RMB policy can limit rate-cut space even during [[ChinaPolicyEasingPivot]], because exchange-rate credibility also supports external trade strategy.
+- Vol.123 adds that tariff pressure can turn RMB policy from a background constraint into one of the visible response channels watched by markets.
 
 ## Connections
 - [[PeoplesBankOfChina]] — policy actor.
@@ -32,3 +35,4 @@ RMB exchange rate policy is the EP39 frame that the RMB/USD rate is more likely 
 - [[StateAdministrationOfForeignExchange]] and [[CapitalAccountInvestmentRestrictions]] — policy and enforcement context for personal FX use.
 - [[China]], [[NewOrderAssetPricing]], and [[SupplyChainSovereignty]] — vol.112's order-building and industrial-anchor context.
 - [[ChinaPolicyEasingPivot]], [[BondFundReturnExpectationReset]], [[PeoplesBankOfChina]], and [[ChinaFiscalExpansionChannels]] — vol.115 monetary-constraint and fixed-income extension.
+- [[EffectiveTariffRateShock]], [[TariffComplianceTest]], and [[MarketRegimeShift]] — tariff-response context added by Qizhulou vol.123.

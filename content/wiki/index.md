@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.123.特朗普的“对等”关税案：不止是一场大型服从性测试](sources/vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6.md) — 起朱楼宴宾客 episode on Trump’s April 2025 reciprocal-tariff shock, the deficit-based tariff formula, ally compliance testing, China export exposure, multinational tax optimization, market regime risk, and patrimonial governance.
 - [vol.121.从昙花一现的分级基金到风头正劲的杠杆ETF：永远不要低估人性的疯狂](sources/vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb.md) — 起朱楼宴宾客 episode on Chinese structured funds, 2015 B-share downward conversions, leveraged ETFs and ETNs including FNGU, TMF, TQQQ, and NVDL, and why ordinary investors should treat retail leverage as a short-horizon tool rather than a long-term holding.
 - [vol.120.日本医疗体系的崩溃与重生：医院、药品、医保三角困局的一种解法](sources/vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt.md) — 起朱楼宴宾客 episode with 大卫翁 on Japan's healthcare reform from 1990s medical collapse to a hospital-drug-insurance system built around public coverage, high-cost caps, triage, community care, DPC/DRG payment, drug-pricing reform, generic-drug trust, and pharmacist expansion.
 - [vol.119.券商研究报告还值得读吗？](sources/vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3.md) — 起朱楼宴宾客 episode with 大卫翁 on brokerage research reports, sell-side research institutes, buy-side service, compliance pressure, report types, macro/strategy expression, passive investing, and how ordinary investors should read reports without outsourcing judgment.
@@ -744,6 +745,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Vietnam](entities/Vietnam.md) — Country used by vol.123 as the reciprocal-tariff formula example and a U.S.-dependent supply-chain pressure point.
+- [Ireland](entities/Ireland.md) — Tax-jurisdiction example in vol.123's globalization tax-optimization explanation.
+- [Max Weber](entities/MaxWeber.md) — Sociological reference for vol.123's patrimonial-governance frame.
+- [Midea Group](entities/MideaGroup.md) — Manufacturing-company coda in vol.123's discussion of operating through a more volatile global environment.
 - [FNGU](entities/FNGU.md) — Leveraged ETN case in vol.121, combining concentrated technology exposure with financing cost and issuer-credit risk.
 - [TMF](entities/TMF.md) — Three-times long Treasury ETF case in vol.121, used to separate a rate view from leveraged ETF reset, volatility, and futures-roll drag.
 - [TQQQ](entities/TQQQ.md) — Three-times technology-index ETF case in vol.121, illustrating daily leverage reset and volatility decay.
@@ -5140,6 +5145,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Reciprocal Tariff Formula](concepts/ReciprocalTariffFormula.md) — Vol.123 concept for a deficit-based tariff calculation presented as reciprocity.
+- [Tariff Compliance Test](concepts/TariffComplianceTest.md) — Vol.123 frame for tariffs as market-access pressure on allies and trading partners.
+- [Globalization Tax Optimization](concepts/GlobalizationTaxOptimization.md) — Vol.123 explanation of tariffs as a rough response to multinational profit and tax-base separation.
+- [Patrimonial Governance](concepts/PatrimonialGovernance.md) — Vol.123 Weberian frame for personal-rule logic, institutional loyalty, and tariff leverage.
 - [Chinese Structured Fund / 中国分级基金](concepts/ChineseStructuredFund.md) — Vol.121 frame for Chinese public funds split into priority A shares and leveraged B shares.
 - [Structured Fund Pair Conversion / 分级基金配对转换](concepts/StructuredFundPairConversion.md) — Mechanism in vol.121 linking A/B shares and mother funds through arbitrageable conversion.
 - [Structured Fund Downward Conversion / 分级基金下折](concepts/StructuredFundDownwardConversion.md) — Crash mechanism in vol.121 where B-share NAV reset, share shrinkage, and premium collapse destroyed late buyers.
