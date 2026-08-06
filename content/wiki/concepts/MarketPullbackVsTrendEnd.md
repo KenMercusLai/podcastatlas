@@ -2,11 +2,13 @@
 title: "Market Pullback vs Trend End"
 type: concept
 tags: [investing, markets, behavior, risk]
-sources: [157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]
+sources: [160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]
 last_updated: 2026-08-06
 ---
 
 # Market Pullback vs Trend End
+
+[[160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz]] restages the pullback question as a China-asset "adjustment period." The episode's answer is to avoid using short-term volatility to erase long-term China theses, while also refusing to let long-term optimism justify every medium-term narrative or every short-term entry. [[OneToOneToOneAllocation]] turns the question into thesis separation, cash optionality, and less need to decide immediately whether the whole bull market is over.
 
 [[157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]] adds the profit-preservation version. The question is no longer only whether a decline is a pullback or a trend end; it is whether the investor has already converted, trimmed, or rule-bound enough gains before that judgment becomes urgent.
 

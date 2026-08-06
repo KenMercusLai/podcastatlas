@@ -2,11 +2,13 @@
 title: "Holo Assets"
 type: concept
 tags: [investing, infrastructure, ai, hard-assets]
-sources: [e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]
-last_updated: 2026-07-09
+sources: [160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]
+last_updated: 2026-08-06
 ---
 
 # Holo Assets
+
+[[160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz]] adds the source-scoped HELLO naming and valuation-ceiling warning. [[DavidWeng|大卫翁]] accepts that heavy assets with low obsolescence can be attractive when investors want durability, but stresses that heavy balance sheets usually imply slower growth, limited ROE, and a cap on valuation repair. Once such assets return to historical median or above-median valuation, the low-obsolescence story can become a poor reason to chase.
 
 Holo assets are the E155 shorthand for "heavy assets, low obsolescence": infrastructure whose value comes from physical scarcity, long build cycles, regulation, replacement difficulty, and low risk of being made irrelevant by a near-term software change. The episode uses the term for assets such as power grids, utilities, electricity equipment, hydro or pipeline-like infrastructure, data-center power chains, and other hard assets connected to AI's physical constraints.
 

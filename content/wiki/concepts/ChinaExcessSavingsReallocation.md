@@ -2,11 +2,13 @@
 title: "China Excess Savings Reallocation / 中国超额储蓄再配置"
 type: concept
 tags: [china, household-finance, saving, investing, equities]
-sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]
+sources: [160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]
 last_updated: 2026-08-06
 ---
 
 # China Excess Savings Reallocation / 中国超额储蓄再配置
+
+[[160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz]] adds the live bull-market adjustment version. [[DavidWeng|大卫翁]] repeats that long-term China equity support can come from household money moving away from deposits and real estate into public equities, broad indexes, and dividend-style assets, but he keeps that as a long-cycle allocation thesis rather than a promise that a short-term pullback must immediately reverse.
 
 [[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] turns the 2026 savings-flow guess into an asset-allocation channel. The source links property wealth loss, low yields, and demand for savings-style insurance to the possibility that household money reaches equities indirectly through insurers and directly through funds or indexes, while still requiring suitability and volatility discipline.
 

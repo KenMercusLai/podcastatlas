@@ -2,11 +2,13 @@
 title: "Ordinary Investor Macro Boundary"
 type: concept
 tags: [macro, investing, behavior, personal-finance]
-sources: [135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq]
+sources: [160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq]
 last_updated: 2026-08-06
 ---
 
 # Ordinary Investor Macro Boundary
+
+[[160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz]] adds the AI-and-war information-flow version. [[DavidWeng|大卫翁]] says ordinary investors usually cannot tell whether events such as Strait of Hormuz risk are underpriced or overpriced, so those headlines are better treated as context than direct trade signals. The same boundary applies to AI anxiety: if anxiety comes mainly from self-media, group chats, and peer pressure rather than the person's actual work exposure, the portfolio response should be slower and more structured.
 
 Ordinary investor macro boundary is [[135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq]]'s rule for separating macro relevance from macro tradability. The source says macro has become more important for professional asset allocators because currency, gold, rates, tariffs, and geopolitics move entire asset classes, but that same environment can make ordinary investors trade too often and too confidently.
 

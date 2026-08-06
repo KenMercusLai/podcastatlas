@@ -5709,6 +5709,10 @@ Added source page for a 蜜獾吃书 episode on 蒲松龄《聊斋志异》 as s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-06] ingest | 160.如何应对中国资产牛市的“调整期”｜新书分享会成都场实录
+
+Added source page for a 起朱楼宴宾客 live Chengdu book-sharing episode with 大卫翁 and 浩哥 on handling a China-asset bull-market pullback without reducing it to point forecasts. Updated overview, index, 起朱楼宴宾客, 大卫翁, 三点下班, 浩哥, China, DeepSeek, Asset Allocation, 1:1:1 Allocation, Portfolio Suitability, Market Pullback vs Trend End, Gold As Currency Spare Tire, AI Equity Valuation Risk, Holo Assets, Ordinary Investor Macro Boundary, China Equity Structural Selection, China Excess Savings Reallocation, Defensive Dividend Assets, and Passive Investing. No direct contradiction found; the source extends the existing China-risk-asset and asset-allocation branch by separating long-term household savings/shareholder-return logic, medium-term AI/gold/dollar/geopolitical narratives, and short-term cash or cash-like optionality.
+
 ## [2026-08-06] ingest | 156.生物医药的2026：当市场不再为BD躁动，中国药企的星辰大海才刚刚展开
 
 Added source page for a 起朱楼宴宾客 annual biopharma outlook with 大卫翁 and 小P老师 on 2025's record China innovation-drug BD, MNC patent-cliff demand, platform-level BD, clinical-data trust, PFS/OS interpretation, Innovent-Takeda PD-1/IL-2 co-development, TCE pressure on CAR-T, GLP-1 competition, RDCs, small nucleic acid drugs, and commercial-insurance payment policy. Created pages for SanSheng Pharma, GSK, Summit Therapeutics, Biotech BD Data Validation Phase, Platform-Level Biotech BD, Clinical Data Trust Rebuilding, Progression-Free vs Overall Survival, PD-1/IL-2 Bispecific, Radiopharmaceutical Drug Conjugates, Small Nucleic Acid Drugs, and Innovative Drug Commercial Insurance Catalog; updated overview, index, 起朱楼宴宾客, 大卫翁, 小P老师, Akeso, Innovent Biologics, Hengrui Pharma, Pfizer, Takeda Pharmaceutical, Merck, Johnson & Johnson, Legend Biotech, Novo Nordisk, Eli Lilly, National Healthcare Security Administration, China Center for Drug Evaluation, China Biotech Asset Repricing, Biotech License-Out Arbitrage, China Biotech Globalization, and related biotech modality and clinical-development concepts. No direct contradiction found; the source qualifies earlier biotech optimism by making 2026 a data, endpoint, payment, and commercialization validation year rather than another pure BD headline year.
@@ -6229,6 +6233,10 @@ Ran health before lint; health scanned 8,809 wiki pages and found no empty/stub 
 ## [2026-08-06] ingest | 159.算法的六副面孔：它是如何从处理数据，变成定义我们是谁的
 
 Added source page for a 起朱楼宴宾客 framework episode by 大卫翁 on algorithms and media through Tarleton Gillespie's The Relevance of Algorithms and Kyle Chayka's Filterworld. Created pages for Tarleton Gillespie, The Relevance of Algorithms, Kyle Chayka, Filterworld, Marshall McLuhan, Public Relevance Algorithms, Algorithmic Inclusion Patterns, Algorithmic Prediction Loop, Algorithmic Relevance Assessment, Algorithmic Objectivity Promise, Algorithmic Entanglement, Calculated Publics, and Algorithmic Diversity Dividend; updated overview, index, 起朱楼宴宾客, 大卫翁, Google, Amazon, Spotify, TikTok, Instagram, Douyin, Xiaohongshu, Walter Benjamin, Information Cocoon, Attention Industrialization, Algorithmic Labeling, PageRank Search Relevance, Recommendation System Productization, Personalization As Social Identity, Feed Curation, Creator Evaluation Pressure, and Group Polarization. No direct contradiction found; the source extends the wiki's information-cocoon, attention-industrialization, recommendation, and platform-power branches while qualifying cocoon panic with a multi-platform diversity countermeasure.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 
