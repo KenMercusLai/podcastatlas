@@ -331,6 +331,10 @@
     "title": "140. 还可以的金女士：“所以人为什么要努力啊？！”",
     "url": "/wiki/sources/140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655/"
   },
+  "140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew": {
+    "title": "140.酒店集团为什么都热衷于打造会员和积分体系？| 串台远行者与碎冰匠",
+    "url": "/wiki/sources/140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew/"
+  },
   "141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m": {
     "title": "141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接",
     "url": "/wiki/sources/141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m/"
@@ -2643,6 +2647,10 @@
     "title": "All-Modal Molecular World Model",
     "url": "/wiki/concepts/allmodalmolecularworldmodel/"
   },
+  "AllSeasonsHotel": {
+    "title": "All Seasons Hotel / 全季酒店",
+    "url": "/wiki/entities/allseasonshotel/"
+  },
   "AllergyAsImmuneResponse": {
     "title": "Allergy As Immune Response",
     "url": "/wiki/concepts/allergyasimmuneresponse/"
@@ -2702,6 +2710,10 @@
   "AltosComputer": {
     "title": "Altos Computer",
     "url": "/wiki/entities/altoscomputer/"
+  },
+  "AmanResorts": {
+    "title": "Aman Resorts",
+    "url": "/wiki/entities/amanresorts/"
   },
   "AmandaCantrell": {
     "title": "Amanda Cantrell",
@@ -3530,6 +3542,10 @@
   "Atoom": {
     "title": "Atoom",
     "url": "/wiki/entities/atoom/"
+  },
+  "Atour": {
+    "title": "Atour / 亚朵",
+    "url": "/wiki/entities/atour/"
   },
   "Atrium": {
     "title": "Atrium",
@@ -6407,6 +6423,10 @@
     "title": "Cindy McCaffrey",
     "url": "/wiki/entities/cindymccaffrey/"
   },
+  "CindyYuanxingzhe": {
+    "title": "Cindy (远行者与碎冰匠)",
+    "url": "/wiki/entities/cindyyuanxingzhe/"
+  },
   "CircadianRhythmExperimentation": {
     "title": "Circadian Rhythm Experimentation",
     "url": "/wiki/concepts/circadianrhythmexperimentation/"
@@ -7694,6 +7714,10 @@
   "CustomerEvidenceStrategy": {
     "title": "Customer Evidence Strategy",
     "url": "/wiki/concepts/customerevidencestrategy/"
+  },
+  "CustomerLifetimeValue": {
+    "title": "Customer Lifetime Value",
+    "url": "/wiki/concepts/customerlifetimevalue/"
   },
   "CustomerPull": {
     "title": "Customer Pull",
@@ -11439,6 +11463,10 @@
     "title": "4F Trauma Response",
     "url": "/wiki/concepts/fourftraumaresponse/"
   },
+  "FourSeasonsHotels": {
+    "title": "Four Seasons Hotels and Resorts",
+    "url": "/wiki/entities/fourseasonshotels/"
+  },
   "FourierSpatialEncoding": {
     "title": "Fourier Spatial Encoding",
     "url": "/wiki/concepts/fourierspatialencoding/"
@@ -13563,6 +13591,10 @@
     "title": "Hillhouse Capital / 高瓴资本",
     "url": "/wiki/entities/hillhousecapital/"
   },
+  "HiltonWorldwide": {
+    "title": "Hilton Worldwide",
+    "url": "/wiki/entities/hiltonworldwide/"
+  },
   "Himiko": {
     "title": "Himiko",
     "url": "/wiki/entities/himiko/"
@@ -13618,6 +13650,10 @@
   "HoldenCaulfield": {
     "title": "Holden Caulfield / 霍尔顿",
     "url": "/wiki/entities/holdencaulfield/"
+  },
+  "HolidayInn": {
+    "title": "Holiday Inn",
+    "url": "/wiki/entities/holidayinn/"
   },
   "HolmesPasticheTradition": {
     "title": "福尔摩斯同人传统 / Holmes Pastiche Tradition",
@@ -13819,6 +13855,10 @@
     "title": "Horse Religious Mythology",
     "url": "/wiki/concepts/horsereligiousmythology/"
   },
+  "HoshinoResorts": {
+    "title": "Hoshino Resorts / 星野集团",
+    "url": "/wiki/entities/hoshinoresorts/"
+  },
   "HospiceCare": {
     "title": "安宁疗护 / Hospice Care",
     "url": "/wiki/concepts/hospicecare/"
@@ -13831,6 +13871,22 @@
     "title": "Hostile Media Effect / 敌意媒体效应",
     "url": "/wiki/concepts/hostilemediaeffect/"
   },
+  "HotelAssetLightFranchiseModel": {
+    "title": "Hotel Asset-Light Franchise Model",
+    "url": "/wiki/concepts/hotelassetlightfranchisemodel/"
+  },
+  "HotelBrandPortfolio": {
+    "title": "Hotel Brand Portfolio",
+    "url": "/wiki/concepts/hotelbrandportfolio/"
+  },
+  "HotelDirectBookingChannels": {
+    "title": "Hotel Direct Booking Channels",
+    "url": "/wiki/concepts/hoteldirectbookingchannels/"
+  },
+  "HotelLoyaltyPrograms": {
+    "title": "Hotel Loyalty Programs",
+    "url": "/wiki/concepts/hotelloyaltyprograms/"
+  },
   "HotelPMSInventoryControl": {
     "title": "Hotel PMS Inventory Control",
     "url": "/wiki/concepts/hotelpmsinventorycontrol/"
@@ -13838,6 +13894,14 @@
   "HotelPlatformPricingPower": {
     "title": "Hotel Platform Pricing Power",
     "url": "/wiki/concepts/hotelplatformpricingpower/"
+  },
+  "HotelServiceSOPHumanCeiling": {
+    "title": "Hotel Service SOP And Human Ceiling",
+    "url": "/wiki/concepts/hotelservicesophumanceiling/"
+  },
+  "HotelStarRatingErosion": {
+    "title": "Hotel Star-Rating Erosion",
+    "url": "/wiki/concepts/hotelstarratingerosion/"
   },
   "HouChao": {
     "title": "侯超 / Hou Chao",
@@ -14102,6 +14166,10 @@
   "HyakkiYagyoSeries": {
     "title": "百鬼夜行系列 / Hyakki Yagyo Series",
     "url": "/wiki/entities/hyakkiyagyoseries/"
+  },
+  "HyattHotels": {
+    "title": "Hyatt Hotels",
+    "url": "/wiki/entities/hyatthotels/"
   },
   "Hyperfixed": {
     "title": "Hyperfixed",
@@ -14631,6 +14699,10 @@
     "title": "Intent Context",
     "url": "/wiki/concepts/intentcontext/"
   },
+  "InterContinentalHotelsGroup": {
+    "title": "InterContinental Hotels Group / IHG",
+    "url": "/wiki/entities/intercontinentalhotelsgroup/"
+  },
   "InteractionModel": {
     "title": "Interaction Model",
     "url": "/wiki/entities/interactionmodel/"
@@ -15146,6 +15218,10 @@
   "JapanGeopoliticalSupplyChainDividend": {
     "title": "Japan Geopolitical Supply-Chain Dividend / 日本地缘供应链红利",
     "url": "/wiki/concepts/japangeopoliticalsupplychaindividend/"
+  },
+  "JapanHotelLoyaltyUnderdevelopment": {
+    "title": "Japan Hotel Loyalty Underdevelopment",
+    "url": "/wiki/concepts/japanhotelloyaltyunderdevelopment/"
   },
   "JapanRiceSupplyFragility": {
     "title": "Japan Rice Supply Fragility / 日本大米供应脆弱性",
@@ -15670,6 +15746,10 @@
   "Jinjiang": {
     "title": "Jinjiang / 晋江",
     "url": "/wiki/entities/jinjiang/"
+  },
+  "JinjiangHotels": {
+    "title": "Jinjiang Hotels / 锦江酒店",
+    "url": "/wiki/entities/jinjianghotels/"
   },
   "JinriToutiao": {
     "title": "Jinri Toutiao",
@@ -18367,6 +18447,10 @@
     "title": "Manchester United",
     "url": "/wiki/entities/manchesterunited/"
   },
+  "MandarinOriental": {
+    "title": "Mandarin Oriental",
+    "url": "/wiki/entities/mandarinoriental/"
+  },
   "MandateForLeadership2025": {
     "title": "Mandate for Leadership 2025",
     "url": "/wiki/entities/mandateforleadership2025/"
@@ -18442,6 +18526,10 @@
   "MaoHonghui": {
     "title": "Mao Honghui / 毛红汇",
     "url": "/wiki/entities/maohonghui/"
+  },
+  "MaocaoYuanxingzhe": {
+    "title": "猫草 / Maocao",
+    "url": "/wiki/entities/maocaoyuanxingzhe/"
   },
   "MaomiMishiBook": {
     "title": "《猫咪秘史：从史前时期到太空时代》",
@@ -18650,6 +18738,10 @@
   "MarriageExitFriction": {
     "title": "Marriage Exit Friction",
     "url": "/wiki/concepts/marriageexitfriction/"
+  },
+  "MarriottInternational": {
+    "title": "Marriott International",
+    "url": "/wiki/entities/marriottinternational/"
   },
   "Mars": {
     "title": "Mars",
@@ -26343,6 +26435,10 @@
     "title": "Siri (起朱楼宴宾客)",
     "url": "/wiki/entities/siriqizhulou/"
   },
+  "SixSensesHotels": {
+    "title": "Six Senses Hotels Resorts Spas",
+    "url": "/wiki/entities/sixsenseshotels/"
+  },
   "SixtyFortyPortfolio": {
     "title": "60/40 Portfolio",
     "url": "/wiki/concepts/sixtyfortyportfolio/"
@@ -27162,6 +27258,14 @@
   "StartupTimingWindows": {
     "title": "Startup Timing Windows",
     "url": "/wiki/concepts/startuptimingwindows/"
+  },
+  "StarwoodHotelsAndResorts": {
+    "title": "Starwood Hotels and Resorts",
+    "url": "/wiki/entities/starwoodhotelsandresorts/"
+  },
+  "StarwoodPreferredGuest": {
+    "title": "Starwood Preferred Guest",
+    "url": "/wiki/entities/starwoodpreferredguest/"
   },
   "StateAGPlatformLitigation": {
     "title": "State AG Platform Litigation",
@@ -31762,6 +31866,10 @@
   "Yuanbao": {
     "title": "Yuanbao",
     "url": "/wiki/entities/yuanbao/"
+  },
+  "YuanxingzheYuSuibingjiang": {
+    "title": "远行者与碎冰匠 / Yuanxingzhe Yu Suibingjiang",
+    "url": "/wiki/entities/yuanxingzheyusuibingjiang/"
   },
   "Yuanyin": {
     "title": "原因",

@@ -6077,3 +6077,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 140.酒店集团为什么都热衷于打造会员和积分体系？| 串台远行者与碎冰匠
+
+Added source page for a 起朱楼宴宾客 crossover with 远行者与碎冰匠 on hotel loyalty programs, direct booking, OTA channel pressure, hotel brand portfolios, star-rating erosion, asset-light hotel groups, Japanese hotel loyalty limits, and service SOP versus human hospitality. Created pages for the crossover show and speakers, major hotel-group and luxury-hotel examples, Hotel Loyalty Programs, Customer Lifetime Value, Hotel Direct Booking Channels, Hotel Brand Portfolio, Hotel Star-Rating Erosion, Hotel Asset-Light Franchise Model, Japan Hotel Loyalty Underdevelopment, and Hotel Service SOP And Human Ceiling; updated overview, index, 起朱楼宴宾客, 大卫翁, Ctrip, Huazhu Group, Booking Holdings, Expedia Group, Fliggy, Online Travel Agency, OTA Platform Concentration, Hotel Platform Pricing Power, Airline Loyalty Program Moat, Asset-Light Vs Heavy-Asset Models, Service Brand Standardization, and Concept Led Hospitality. No direct contradiction found; the source complements the Ctrip OTA branch by showing hotel groups' loyalty and direct-booking response.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran health before lint; health scanned 8,629 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while the current wiki scan found 8,629 pages, so graph findings are advisory until `build graph` refreshes it; the graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM. No `wiki/lint-report.md` file was saved.

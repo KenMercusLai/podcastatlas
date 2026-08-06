@@ -8,6 +8,8 @@ last_updated: 2026-08-06
 
 # 大卫翁 / David Weng
 
+In [[140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew]], he hosts a hospitality crossover with [[YuanxingzheYuSuibingjiang|远行者与碎冰匠]] speakers [[MaocaoYuanxingzhe|猫草]] and [[CindyYuanxingzhe|Cindy]]. His role is to move from frequent-traveler experience with [[MarriottInternational]] and [[HyattHotels]] points into the business logic of [[HotelLoyaltyPrograms]], [[CustomerLifetimeValue]], [[HotelDirectBookingChannels]], and the distinction between SOP as service floor and human attention as hospitality ceiling.
+
 In [[139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]], he hosts [[FeiQizhulou|费]] for a Europe-and-literature discussion around [[StefanZweig|Stefan Zweig / 茨威格]] and [[TheWorldOfYesterday|《昨日的世界》]]. His role is to keep the episode moving between literary witness, [[BelleEpoque|Belle Epoque]] nostalgia, [[EuropeanUnion]] integration, [[PassportMobilityInequality]], the [[Ukraine]] war, tariff bargaining, and the question of whether a contemporary "beautiful age" belongs to a place or to a mobile class.
 
 In [[132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo]], he turns the Japan series from housing and systems analysis toward workplace experience, overthinking, and low desire. His role is to keep [[YoumamaMaomao|尤妈妈 / 猫猫]]'s personal account connected to broader frames: Japanese off-work boundaries, [[RuleBoundOverthinking]], Chinese always-on work, algorithmic feeds, AI usefulness anxiety, and whether concrete daily practices can preserve agency when ambition loses its obvious path.

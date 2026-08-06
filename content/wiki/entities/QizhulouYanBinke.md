@@ -8,6 +8,8 @@ last_updated: 2026-08-06
 
 # 起朱楼宴宾客 / Qizhulou Yan Binke
 
+[[140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew]] adds the show's hospitality and consumer-industry branch through a crossover with [[YuanxingzheYuSuibingjiang|远行者与碎冰匠]]. [[DavidWeng|大卫翁]], [[MaocaoYuanxingzhe|猫草]], and [[CindyYuanxingzhe|Cindy]] use [[HotelLoyaltyPrograms]], [[HotelDirectBookingChannels]], [[HotelBrandPortfolio]], [[HotelStarRatingErosion]], and [[HotelServiceSOPHumanCeiling]] to connect travel experience, hotel industry structure, OTA bargaining power, and service operations.
+
 [[139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]] adds the show's literature-and-Europe branch through [[FeiQizhulou|费]] and [[TheWorldOfYesterday|《昨日的世界》]]. The episode uses [[StefanZweig|Stefan Zweig / 茨威格]] and [[BelleEpoque|Belle Epoque / 美好年代]] to connect European cultural memory with [[EuropeanUnion]] integration, [[SchengenArea|Schengen]] mobility, [[EuropeanLanguageFriction]], [[DigitalNomadHousingPressure]], the [[Ukraine]] war, tariff bargaining, and [[EuropeanDefenseAutonomy]].
 
 起朱楼宴宾客 is the podcast show represented in [[vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]]. In this source, the show uses a long-form reading-notes format to connect [[DonaldTrump]]'s second-term agenda with [[Project2025]], [[HeritageFoundation]], [[AmericaFirstPolicyInstitute]], [[ConservativePartnershipInstitute]], and older American trade-policy traditions.

@@ -2,8 +2,8 @@
 title: "Online Travel Agency"
 type: concept
 tags: [online-travel, platform, hospitality]
-sources: [kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun]
-last_updated: 2026-07-07
+sources: [kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, 140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew]
+last_updated: 2026-08-06
 ---
 
 # Online Travel Agency
@@ -12,12 +12,15 @@ An online travel agency is a platform that aggregates travel inventory, search, 
 
 The source emphasizes that OTA value is operational before it is purely digital. Early Ctrip needed call centers, hotel contracts, membership cards, paper-ticket delivery, ticketing qualifications, and later supplier systems before it could become a travel super app.
 
+[[140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew]] adds the hotel-group response to OTA power. [[HotelLoyaltyPrograms]] and [[HotelDirectBookingChannels]] are valuable partly because they let groups such as [[HuazhuGroup]] or [[MarriottInternational]] turn OTA commission savings into member benefits, direct relationships, and higher [[CustomerLifetimeValue]].
+
 ## Key Claims
 - OTA platforms reduce user search and booking friction in fragmented travel markets.
 - The same aggregation that creates convenience can lead to [[OTAPlatformConcentration]] when traffic, inventory, supplier systems, and business-travel habits reinforce one another.
 - OTA platforms are not only apps; they depend on hotel supply, PMS links, ticketing systems, support workflows, payment, invoices, and trust.
 - The consumer benefit of one-stop booking must be weighed against [[HotelPlatformPricingPower]] and [[TravelBookingHiddenFees]].
+- Hotel loyalty and direct booking create a counterweight to OTAs, but platform membership systems can pull users back toward OTA-controlled demand.
 
 ## Connections
 - [[Ctrip]], [[Qunar]], [[Elong]], and [[TongchengTravel]] — source cases.
-- [[HotelPMSInventoryControl]], [[TravelSuperAppConvenience]], [[OTAPlatformConcentration]], and [[PlatformAntitrust]] — adjacent concepts.
+- [[HotelPMSInventoryControl]], [[TravelSuperAppConvenience]], [[OTAPlatformConcentration]], [[HotelDirectBookingChannels]], and [[PlatformAntitrust]] — adjacent concepts.

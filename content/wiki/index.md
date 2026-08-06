@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [140.酒店集团为什么都热衷于打造会员和积分体系？| 串台远行者与碎冰匠](sources/140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew.md) — 起朱楼宴宾客 crossover with 远行者与碎冰匠 on hotel loyalty programs, direct booking, OTA channel pressure, hotel brand portfolios, star-rating erosion, asset-light hotel groups, and service SOP versus human hospitality.
 - [139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？](sources/139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf.md) — 起朱楼宴宾客 episode linking Stefan Zweig's The World of Yesterday, Belle Epoque nostalgia, European integration, classed mobility, language, passports, digital-nomad housing pressure, Ukraine war, and EU decision limits.
 - [137.亲历日本生育补贴：国家帮我养娃，归来仍是“吞金兽”](sources/137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7.md) — 起朱楼宴宾客 episode with 霓虹电波 guests on Japan's child allowance, childbirth support, parental leave, childcare, child medical coverage, local welfare differences, education-cost pressure, and why subsidies ease burdens without fully solving low fertility.
 - [136.银行理财还能怎么买？](sources/136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt.md) — 起朱楼宴宾客 episode on Chinese bank wealth management, bank wealth-management subsidiaries, 资管新规, fund-pool and implicit-guarantee risk, net-value transformation, and why cash-management and low-volatility fixed-income products fit the category better than equity or multi-asset promises.
@@ -760,6 +761,24 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [远行者与碎冰匠 / Yuanxingzhe Yu Suibingjiang](entities/YuanxingzheYuSuibingjiang.md) — Crossover partner in episode 140, bringing travel and hospitality perspectives to hotel loyalty systems.
+- [猫草 / Maocao](entities/MaocaoYuanxingzhe.md) — 远行者与碎冰匠 speaker grounding episode 140 in frequent-traveler behavior and hotel points use.
+- [Cindy (远行者与碎冰匠)](entities/CindyYuanxingzhe.md) — Hotel-industry and consumer-research speaker in episode 140.
+- [Marriott International](entities/MarriottInternational.md) — Global hotel group used by episode 140 to connect Starwood, loyalty, brand portfolios, and asset-light hotel economics.
+- [Starwood Hotels and Resorts](entities/StarwoodHotelsAndResorts.md) — Hotel group whose 2016 acquisition by Marriott is framed as a loyalty and brand-portfolio event.
+- [Starwood Preferred Guest](entities/StarwoodPreferredGuest.md) — Starwood loyalty program used by episode 140 as an influential hotel-points benchmark.
+- [Hilton Worldwide](entities/HiltonWorldwide.md) — Global hotel group used in episode 140's hotel loyalty comparison.
+- [Hyatt Hotels](entities/HyattHotels.md) — Global hotel group used in episode 140's elite-status and lifetime-loyalty discussion.
+- [InterContinental Hotels Group / IHG](entities/InterContinentalHotelsGroup.md) — Global hotel group tied by episode 140 to early hotel loyalty and customer lifetime value.
+- [Holiday Inn](entities/HolidayInn.md) — Early hotel loyalty-program example associated with IHG in episode 140.
+- [Jinjiang Hotels / 锦江酒店](entities/JinjiangHotels.md) — Chinese hotel group used as a large but more fragmented membership-integration contrast to Huazhu.
+- [Atour / 亚朵](entities/Atour.md) — Chinese hotel chain used by episode 140 as a standardized domestic business-travel option.
+- [All Seasons Hotel / 全季酒店](entities/AllSeasonsHotel.md) — Huazhu-linked chain used by episode 140 to explain domestic chain standards replacing star ratings.
+- [Hoshino Resorts / 星野集团](entities/HoshinoResorts.md) — Japanese hotel group used by episode 140 to explain simpler loyalty design and employee-led service improvement.
+- [Aman Resorts](entities/AmanResorts.md) — Luxury/destination hotel example in episode 140.
+- [Four Seasons Hotels and Resorts](entities/FourSeasonsHotels.md) — Luxury hotel example in episode 140's service and destination-hospitality discussion.
+- [Mandarin Oriental](entities/MandarinOriental.md) — Luxury hotel example in episode 140's concept-led hospitality discussion.
+- [Six Senses Hotels Resorts Spas](entities/SixSensesHotels.md) — Luxury and wellness-oriented hotel example in episode 140.
 - [费 / Fei (Qizhulou)](entities/FeiQizhulou.md) — 起朱楼宴宾客 guest grounding the Europe episode in UK residence, continental travel, visas, Ukraine-war daily life, and digital-nomad observations.
 - [Stefan Zweig / 茨威格](entities/StefanZweig.md) — Austrian Jewish writer whose The World of Yesterday frames the episode's Belle Epoque, world-citizen, exile, and witness themes.
 - [The World of Yesterday / 《昨日的世界》](entities/TheWorldOfYesterday.md) — Zweig memoir used by the source as a bridge from prewar Europe to contemporary fragmentation.
@@ -5221,6 +5240,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Hotel Loyalty Programs](concepts/HotelLoyaltyPrograms.md) — Hotel points, elite tiers, benefits, direct booking, and guest-data systems used to turn one-off stays into repeat relationships.
+- [Customer Lifetime Value](concepts/CustomerLifetimeValue.md) — Repeat-relationship value frame used by episode 140 to explain why hotels invest in member benefits and direct channels.
+- [Hotel Direct Booking Channels](concepts/HotelDirectBookingChannels.md) — Hotel apps, websites, mini-programs, and loyalty portals used to reduce OTA dependence.
+- [Hotel Brand Portfolio](concepts/HotelBrandPortfolio.md) — Multi-brand hotel-group strategy for segmenting price bands, trip purposes, lifestyle, business travel, and luxury use cases.
+- [Hotel Star-Rating Erosion](concepts/HotelStarRatingErosion.md) — Shift from formal star labels toward OTA reviews, location, and chain-brand standards in hotel choice.
+- [Hotel Asset-Light Franchise Model](concepts/HotelAssetLightFranchiseModel.md) — Hotel-group model separating brands, reservations, loyalty, and fees from owning every property.
+- [Japan Hotel Loyalty Underdevelopment](concepts/JapanHotelLoyaltyUnderdevelopment.md) — Explanation for why Japanese hotels often have simpler loyalty systems despite a broader points culture.
+- [Hotel Service SOP And Human Ceiling](concepts/HotelServiceSOPHumanCeiling.md) — Episode 140 distinction between SOP as the service floor and human attention as the hospitality ceiling.
 - [Belle Epoque / 美好年代](concepts/BelleEpoque.md) — Remembered prewar European golden age read by the source as real cultural abundance but unevenly classed access.
 - [Elite Cosmopolitan Mobility](concepts/EliteCosmopolitanMobility.md) — Class, language, passport, and network conditions that make world-citizen travel available to some people more than others.
 - [European Integration As War Prevention](concepts/EuropeanIntegrationWarPrevention.md) — Source's bounded claim that shared European institutions and industrial chains can lower internal war risk.
