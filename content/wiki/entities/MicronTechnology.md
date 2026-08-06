@@ -2,11 +2,13 @@
 title: "Micron Technology"
 type: entity
 tags: [company, semiconductors, memory, ai]
-sources: [tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
-last_updated: 2026-08-05
+sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
+last_updated: 2026-08-07
 ---
 
 # Micron Technology
+
+[[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds Micron as a memory-cycle example in the AI capex rebound. The source links stronger memory long-order expectations and profit improvement to the Q2 shift back toward global AI equities, reinforcing Micron's role in [[AIHardwareSupplyChainPressure]] and [[AICapexReturnWindow]].
 
 [[tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]] adds Micron through its planned [[MicronClayMegaFab|mega fab]] in [[ClayNewYork|Clay, New York]]. The [[MarketplaceTech]] Bytes episode says Micron is one of the few companies making [[HighBandwidthMemory|high-bandwidth memory]] essential to AI processing, but it uses the fab mainly as a public-accountability test: local civil rights, environmental, and labor groups want hiring, environmental, emissions, and water commitments enforceable in court.
 

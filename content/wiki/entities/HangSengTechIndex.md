@@ -2,11 +2,13 @@
 title: "Hang Seng Tech Index"
 type: entity
 tags: [market-index, hong-kong, technology, investing]
-sources: [ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
-last_updated: 2026-08-06
+sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+last_updated: 2026-08-07
 ---
 
 # Hang Seng Tech Index
+
+[[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds a weaker first-half 2026 checkpoint. The source says Hang Seng Tech lagged A-share technology leadership during the first half, so the index remains part of the China-technology repricing map but not a clean proxy for the domestic AI and semiconductor trade.
 
 The Hang Seng Tech Index appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]] as the Hong Kong technology benchmark in the episode's "east rises, west falls" question. The speakers argue that its relationship with the [[NasdaqComposite]] is dynamic rather than mechanically inverse.
 

@@ -2,11 +2,13 @@
 title: "K-Shaped Consumer Spending"
 type: concept
 tags: [economics, households, inequality, consumption]
-sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, indicators-of-2025-and-what-to-watch-in-2026]
-last_updated: 2026-08-06
+sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, indicators-of-2025-and-what-to-watch-in-2026]
+last_updated: 2026-08-07
 ---
 
 # K-Shaped Consumer Spending
+
+[[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds the AI wealth-effect version. The source argues that U.S. AI equity gains can support consumption because high-income households own more stock and account for a large share of spending, while China lacks the same stock-wealth transmission because household wealth remains more property-linked.
 
 [[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] extends the K-shaped frame beyond consumption totals. The source says stock-market strength, Big Tech earnings, and retirement-account exposure can support wealthier or asset-owning households while price-sensitive consumers, young workers, and weaker sectors feel much worse.
 
@@ -15,6 +17,7 @@ K-shaped consumer spending is the source's 2026 watchpoint for aggregate consump
 The concept matters because aggregate demand can look healthy while stress builds below the top income slice. The episode points to reduced confidence, record-high auto loan delinquencies, and record-high credit card debt outside the highest-income group, while higher-income consumers benefit from rising home values and a strong stock market.
 
 ## Key Claims
+- Episode 172 adds that AI equity wealth can become a macro consumption channel when stock ownership is concentrated among high-spending households.
 - Consumer spending can remain strong even when most households feel worse if high-income households keep spending.
 - Stock-market strength can support spending through richer households, but it also makes demand more vulnerable to a market correction.
 - Tax cuts that mainly benefit upper-income households can reinforce the top-heavy spending pattern in the source's account.

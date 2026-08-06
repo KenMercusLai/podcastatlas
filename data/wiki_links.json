@@ -631,6 +631,10 @@
     "title": "172.好运是什么？为啥说总避雷会败好运？",
     "url": "/wiki/sources/172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860/"
   },
+  "172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2": {
+    "title": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步",
+    "url": "/wiki/sources/172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2/"
+  },
   "173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe": {
     "title": "173.当缅怀高善文博士时，我们究竟在怀念什么？",
     "url": "/wiki/sources/173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe/"
@@ -1415,6 +1419,10 @@
     "title": "AI Election Misinformation Risk",
     "url": "/wiki/concepts/aielectionmisinformationrisk/"
   },
+  "AIEmploymentMultiplierCompression": {
+    "title": "AI Employment Multiplier Compression / AI就业乘数压缩",
+    "url": "/wiki/concepts/aiemploymentmultipliercompression/"
+  },
   "AIEnabledScamIndustrialization": {
     "title": "AI-Enabled Scam Industrialization",
     "url": "/wiki/concepts/aienabledscamindustrialization/"
@@ -1574,6 +1582,10 @@
   "AILaborMarketConcentration": {
     "title": "AI Labor Market Concentration",
     "url": "/wiki/concepts/ailabormarketconcentration/"
+  },
+  "AILaborSubstitutionValuationBoundary": {
+    "title": "AI Labor Substitution Valuation Boundary / AI劳动力替代估值边界",
+    "url": "/wiki/concepts/ailaborsubstitutionvaluationboundary/"
   },
   "AILiteracyAgainstWorship": {
     "title": "AI Literacy Against Worship",
@@ -6342,6 +6354,10 @@
   "China": {
     "title": "China",
     "url": "/wiki/entities/china/"
+  },
+  "ChinaAIExportLeverage": {
+    "title": "China AI Export Leverage / 中国AI出口杠杆",
+    "url": "/wiki/concepts/chinaaiexportleverage/"
   },
   "ChinaAMC": {
     "title": "华夏基金 / ChinaAMC",
@@ -27383,6 +27399,10 @@
     "title": "Siri",
     "url": "/wiki/entities/siri/"
   },
+  "SiriInvestment": {
+    "title": "Siri Investment / Siri 投资",
+    "url": "/wiki/entities/siriinvestment/"
+  },
   "SiriQizhulou": {
     "title": "Siri (起朱楼宴宾客)",
     "url": "/wiki/entities/siriqizhulou/"
@@ -30562,6 +30582,10 @@
   "USBorderPatrol": {
     "title": "U.S. Border Patrol",
     "url": "/wiki/entities/usborderpatrol/"
+  },
+  "USChinaAIMacroAsymmetry": {
+    "title": "U.S.-China AI Macro Asymmetry / 中美AI宏观不对称",
+    "url": "/wiki/concepts/uschinaaimacroasymmetry/"
   },
   "USConstitutionalCrisisRisk": {
     "title": "U.S. Constitutional Crisis Risk",

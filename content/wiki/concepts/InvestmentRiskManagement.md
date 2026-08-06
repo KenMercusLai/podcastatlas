@@ -3,6 +3,7 @@ title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
 sources:
+  - 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2
   - 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk
   - 166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6
   - 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm
@@ -61,6 +62,8 @@ last_updated: 2026-08-07
 ---
 
 # Investment Risk Management
+
+[[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds the AI-led half-year allocation version. Risk management is framed as keeping cash high when volatility rises, maintaining some technology exposure without chasing overheated core AI and semiconductor names, watching liquidity and capex evidence, and separating ordinary-investor suitability from institution-level information advantages.
 
 [[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds the late-bull-market loss version. Risk management is framed as reducing trades, distinguishing FOMO positions from long-term value positions, keeping total equity exposure within a target range, and using explicit exit rules when [[MarketBreadthNarrowing]], social comparison, and [[RetailInvestorCrowding]] make impulse decisions more dangerous.
 

@@ -3,6 +3,7 @@ title: "AI Commercialization Pressure"
 type: concept
 tags: [ai, commercialization, strategy]
 sources:
+  - 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2
   - 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52
   - ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz
   - tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128
@@ -31,10 +32,12 @@ sources:
   - 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1
   - tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128
   - dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi
-last_updated: 2026-08-05
+last_updated: 2026-08-07
 ---
 
 # AI Commercialization Pressure
+
+[[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds the stage-boundary version. [[Ricky]] argues that coding and office-productivity substitution have become commercial enough for markets to price, while broad labor substitution remains the larger but less certain commercialization problem; this makes [[AILaborSubstitutionValuationBoundary]] a valuation and business-model issue, not only a labor-market issue.
 
 AI commercialization pressure is the tension between technical influence, user adoption, training cost, inference cost, product quality, and financial return. In [[ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]], the hosts stress that large-model training is expensive, and that even successful open-source models such as [[Qwen]] eventually face questions about ROI and business value inside a company like [[Alibaba]].
 

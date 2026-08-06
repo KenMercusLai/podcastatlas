@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步](sources/172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2.md) — 起朱楼宴宾客 half-year 2026 macro review with 大卫翁 and Ricky on AI capex re-igniting global equities, U.S.-China AI macro asymmetry, China AI export leverage, employment-multiplier compression, Fed constraints, cash-first defense, A-share domestic substitution, and Hong Kong innovation drugs.
 - [171.为什么牛市后期更容易亏钱？｜半年度投资账复盘](sources/171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk.md) — 起朱楼宴宾客 half-year 2026 investment review on late bull-market loss risk, market breadth narrowing, FOMO entry, overtrading, oversized bets, and 2014-2015 A-share wealth redistribution.
 - [170.《1929》的泡沫之夏：三个代表人物，和他们在当下周期的影子](sources/170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j.md) — 起朱楼宴宾客 episode reading Andrew Ross Sorkin's 1929 through Richard Whitney, William Durant, and Charles E. Mitchell as role portraits for AI-cycle governance, SoftBank/OpenAI conviction, private credit, retail leverage, and institutional trust transmission.
 - [169.如果你18岁，正考虑未来把金融当职业｜高考季特别策划](sources/169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c.md) — 起朱楼宴宾客 gaokao-season finance-career episode on finance role segmentation, relationship capital, AI pressure on entry-level work, school/city signaling, internships, and industry-to-finance paths.
@@ -792,6 +793,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Siri Investment / Siri 投资](entities/SiriInvestment.md) — Ricky's investment firm named in episode 172, separated from Apple Siri and tied to AI capex, China/Hong Kong rotation, and institutional risk-control context.
 - [Andrew Ross Sorkin](entities/AndrewRossSorkin.md) — Journalist-author whose 1929 book gives episode 170 its character-driven market-history frame.
 - [1929 / 《1929》 (Andrew Ross Sorkin)](entities/NineteenTwentyNineSorkin.md) — Sorkin book read by episode 170 as a behavioral-finance archive around crash actors, leverage, and institutional trust.
 - [Richard Whitney / 理查德·惠特尼](entities/RichardWhitney.md) — NYSE gatekeeper and 1929 white-knight figure used by episode 170 as the trusted-authority role in bubble analysis.
@@ -5369,6 +5371,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [U.S.-China AI Macro Asymmetry / 中美AI宏观不对称](concepts/USChinaAIMacroAsymmetry.md) — Episode 172 frame contrasting U.S. AI capex/wealth-effect demand with China's export, advanced-manufacturing, domestic-substitution, and supply-side AI channels.
+- [AI Labor Substitution Valuation Boundary / AI劳动力替代估值边界](concepts/AILaborSubstitutionValuationBoundary.md) — Episode 172 distinction between priced coding/office substitution and uncertain broad white-collar labor replacement.
+- [China AI Export Leverage / 中国AI出口杠杆](concepts/ChinaAIExportLeverage.md) — Episode 172 frame for AI-chain exports supporting Chinese value growth, profits, and manufacturing while passing less cleanly into jobs and household demand.
+- [AI Employment Multiplier Compression / AI就业乘数压缩](concepts/AIEmploymentMultiplierCompression.md) — Episode 172 concern that AI/software/finance growth creates less employment pull than construction, retail, and services.
 - [Late Bull Market Loss Risk / 牛市后期亏钱风险](concepts/LateBullMarketLossRisk.md) — Episode 171 framework for absolute loss, relative underperformance, or full-cycle gain loss during late bull markets.
 - [Market Breadth Narrowing / 市场广度收窄](concepts/MarketBreadthNarrowing.md) — Episode 171 market-structure risk where headline indexes keep rising while participation shrinks across sectors and individual stocks.
 - [Bubble Wealth Redistribution / 泡沫财富再分配](concepts/BubbleWealthRedistribution.md) — Episode 171 frame for how bubble-crash trading can transfer wealth from late, active small accounts to earlier or larger accounts.

@@ -2,11 +2,13 @@
 title: "Gold As Currency Spare Tire / 黄金备胎"
 type: concept
 tags: [gold, money, macro, investing]
-sources: [171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-07
 ---
 
 # Gold As Currency Spare Tire / 黄金备胎
+
+[[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds the post-volatility risk-sleeve version. [[Ricky]] treats gold less as the first-half macro winner and more as a risk-allocation sleeve after a sharp drawdown, while [[DavidWeng|大卫翁]] puts cash ahead of gold in his second-half ordering.
 
 [[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds the "do not add after overheat" follow-up. After gold contributed negatively in the host's first-half account, [[DavidWeng|大卫翁]] keeps roughly a 5% strategic allocation but does not add, preserving the spare-tire role without letting a prior gold narrative override target-weight discipline.
 
@@ -29,6 +31,7 @@ The source is explicit that this is not a permanent faith claim. Gold has no cas
 [[135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq]] adds the portfolio-sleeve sizing version. [[DavidWeng|大卫翁]] says gold contributed meaningfully to first-half returns, but still treats it as a shock absorber and rebalance target around 8% to 10%, not as the main return engine.
 
 ## Key Claims
+- Episode 172 reinforces that gold can remain a risk sleeve while losing priority to cash when volatility and AI-led equity concentration rise.
 - Gold's "spare tire" role is strongest when dollar, Treasury, RMB, and digital-currency networks are all uncertain at the same time.
 - Traditional gold models based on real rates, CPI, oil-gold ratios, or copper-gold ratios can lose explanatory power when the deeper issue is trust in the pricing currency itself.
 - Central-bank reserve diversification matters because it reveals whether official actors are reducing dependence on U.S. Treasuries or other single anchors.

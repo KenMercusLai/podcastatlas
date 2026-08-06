@@ -2,11 +2,13 @@
 title: "Market Breadth Narrowing / 市场广度收窄"
 type: concept
 tags: [investing, markets, risk, indicators]
-sources: [171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]
+sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]
 last_updated: 2026-08-07
 ---
 
 # Market Breadth Narrowing / 市场广度收窄
+
+[[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds a real-time China AI version. [[Ricky]] says the China market's industry divergence had become extreme, with many trading days where most stocks fell while gains concentrated in AI-linked names, so breadth becomes both a risk signal and an explanation for why ordinary investors can miss or underperform a headline rally.
 
 Market breadth narrowing is [[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]]'s market-structure explanation for why a headline bull market can still feel bad for many investors. [[DavidWeng|大卫翁]] uses "breadth narrowing" to describe a market where index strength, leading sectors, and flagship stocks keep attracting capital while more stocks fall, lag the index, or fail to participate.
 
@@ -15,6 +17,7 @@ The concept overlaps with [[MegaCapConcentrationRisk]] but is broader. Mega-cap 
 The source treats breadth as context, not as a precise sell signal. It cites historical and contemporary examples where narrow leadership continued for a while, including late-1990s Nasdaq, 2021 China core-asset crowding, and the 2007 A-share shift after the May 30 stamp-duty shock. The actionable lesson is not to call the top from one indicator, but to explain why investors outside the main line may already be losing money and why late switching can be hazardous.
 
 ## Key Claims
+- Episode 172 adds that AI-led market breadth can narrow even while turnover and index-level excitement stay high.
 - A market can make new highs while many individual stocks are flat or falling.
 - Breadth can be measured through new highs/lows, advance-decline ratios, moving-average participation, or the share of constituents outperforming the index.
 - Narrow leadership can persist, so breadth deterioration is a risk background rather than a standalone top-calling model.

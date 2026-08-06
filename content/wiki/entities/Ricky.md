@@ -2,11 +2,13 @@
 title: "Ricky"
 type: entity
 tags: [person, investing, podcast, field-report]
-sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
-last_updated: 2026-08-06
+sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+last_updated: 2026-08-07
 ---
 
 # Ricky
+
+In [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]], Ricky gives the half-year 2026 update from his [[SiriInvestment|Siri 投资]] role. He treats April hyperscaler capex as the turn that re-lit global AI equities, but says the next stage is more tactical: avoid overheated core AI names, watch trading volume and U.S. capex, keep some technology exposure, and look for peripheral or time-lagged opportunities around China domestic substitution, [[Huawei]], and [[DeepSeek]].
 
 In [[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]], Ricky gives the first-quarter 2026 update to his January macro outlook. He argues that markets moved from a risk-appetite window toward [[StagflationRiskRepricing]], recession fear, liquidity pressure, and geopolitical uncertainty, making him cautious on U.S. technology equities, more constructive on A shares as relatively supported, and short-term neutral but long-term selective on Hong Kong assets. His frame extends [[GeopoliticalCycleMacro]], [[ChinaEquityStructuralSelection]], [[GoldAsCurrencySpareTire]], and [[PrivateCreditTailRisk]].
 
@@ -21,6 +23,7 @@ In [[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-ji
 [[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] adds Ricky's mid-year update to that framework. He emphasizes the split between ordinary and professional investor experience, Hong Kong's stronger first-half China-asset role, fiscal-space preservation, RMB-first rate constraints, continued gold preference, and the risk that private-credit or credit-like products only reveal volatility under stress.
 
 ## Connections
+- [[SiriInvestment|Siri 投资]], [[USChinaAIMacroAsymmetry]], [[AILaborSubstitutionValuationBoundary]], [[ChinaAIExportLeverage]], and [[AIEmploymentMultiplierCompression]] - episode 172 half-year 2026 macro and AI allocation update.
 - [[ChinaEquityRealEconomyGap]], [[CentralBalanceSheetDemandSupport]], [[ChinaDeflationDemandRepair]], [[ChinaEquityStructuralSelection]], and [[ChinaInsuranceFundsEquityAllocation]] — episode 153 year-end macro and 2026 allocation update.
 - [[QizhulouYanBinke|起朱楼宴宾客]] and [[DavidWeng|大卫翁]] — show and host.
 - [[Dubai]], [[AbuDhabi|Abu Dhabi]], and [[UnitedArabEmirates|United Arab Emirates]] — trip and topic context.

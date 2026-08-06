@@ -6337,3 +6337,11 @@ Added source page for a 起朱楼宴宾客 half-year 2026 investment-account rev
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | 172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步
+
+Added source page for a 起朱楼宴宾客 half-year 2026 macro review with 大卫翁 and Ricky on AI capex re-igniting global equities, U.S.-China AI macro asymmetry, China AI export leverage, employment-multiplier compression, Fed constraints, cash-first defense, A-share domestic substitution, and Hong Kong innovation drugs. Created pages for U.S.-China AI Macro Asymmetry, AI Labor Substitution Valuation Boundary, China AI Export Leverage, AI Employment Multiplier Compression, and Siri Investment; updated overview, index, 起朱楼宴宾客, 大卫翁, Ricky, China, United States, Federal Reserve, OpenAI, Anthropic, Huawei, DeepSeek, SanDisk, Micron, Hang Seng Tech Index, Red Rocket, and related AI capex, valuation, revenue legibility, China K-shaped divergence, China equity selection, gold, labor-market, consumption, breadth, and risk-management pages. No direct contradiction found; the source qualifies episode 161's first-quarter caution with Q2 AI-capex confirmation while preserving volatility, financing, and ordinary-investor risk controls.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,11 +2,13 @@
 title: "AI IPO Valuation"
 type: concept
 tags: [ai, investing, valuation]
-sources: [tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
-last_updated: 2026-08-05
+sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
+last_updated: 2026-08-07
 ---
 
 # AI IPO Valuation
+
+[[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds a near-term narrative-reset version through [[OpenAI]] and [[Anthropic]]. [[DavidWeng|大卫翁]] argues that their listing progress could shape the next one-to-two-year AI story because public-market disclosure would reveal how much revenue and margin belong to already-priced coding/office substitution versus less certain broad labor replacement.
 
 AI IPO valuation is the episode's frame for evaluating hot private technology companies when they enter public markets. [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] separates technological truth from investment price: AI may change the world, but buying [[OpenAI]], [[Anthropic]], [[SpaceX]], or similar companies at the wrong public-market valuation can still be a poor investment.
 
@@ -25,6 +27,7 @@ AI IPO valuation is the episode's frame for evaluating hot private technology co
 [[tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128]] adds [[DavidKirsch]]'s pure-play IPO qualification. Under [[TechBubbleConditions]], AI scores high on uncertainty, novice investors, and narrative power, but Kirsch says the boom is weaker on pure plays because there have not been many AI IPOs. That makes IPO absence a diagnostic limit, not a sign that valuation risk has disappeared.
 
 ## Key Claims
+- Episode 172 adds that AI IPOs can become capex and labor-substitution truth tests, not only liquidity events for private shareholders.
 - An IPO is a repricing event where private-market consensus meets public-market voting.
 - Public buyers may be taking risk from founders, employees, and venture investors who can finally exit.
 - The episode recommends watching cash flow, competitive structure, lockup expirations, and insider selling.
@@ -38,6 +41,7 @@ AI IPO valuation is the episode's frame for evaluating hot private technology co
 - The January 30 source adds that a limited pure-play IPO wave can keep the bubble score below maximum while leaving other investable channels, such as public mega-caps and infrastructure debt, exposed.
 
 ## Connections
+- [[AILaborSubstitutionValuationBoundary]], [[AIRevenueLegibility]], and [[AICapexReturnWindow]] - episode 172's disclosure and valuation-test branch.
 - [[OpenAI]], [[Anthropic]], and [[SpaceX]] — companies used in the episode's valuation discussion.
 - [[ReusableRocketEconomics]] and [[Falcon9]] — SpaceX-specific technical inflection that qualifies IPO-centered narratives.
 - [[AICommercializationPressure]] — public markets force technology stories into revenue, cash-flow, and valuation discipline.

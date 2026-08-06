@@ -2,11 +2,13 @@
 title: "Huawei"
 type: entity
 tags: [company, china, semiconductors, telecom, organization]
-sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # Huawei
+
+[[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds Huawei as the China domestic-substitution signal in a half-year macro allocation frame. [[Ricky]] argues that future AI opportunities in China may move through Huawei chips, GPU supply chains, and autonomous data-security logic, making Huawei relevant to [[ChinaEquityStructuralSelection]] and [[USChinaAIMacroAsymmetry]] rather than only to the earlier [[TauLaw]] semiconductor debate.
 
 Huawei is the central company in [[dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun]]. The episode treats Huawei less as a generic technology brand than as an organization that turns constraints into named methods, coordinated targets, customer-facing solution systems, and long-horizon self-reliance narratives.
 

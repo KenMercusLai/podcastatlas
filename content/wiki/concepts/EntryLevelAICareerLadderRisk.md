@@ -2,11 +2,13 @@
 title: "Entry-Level AI Career-Ladder Risk"
 type: concept
 tags: [ai, labor-market, careers, education]
-sources: [169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]
+sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]
 last_updated: 2026-08-07
 ---
 
 # Entry-Level AI Career-Ladder Risk
+
+[[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] extends the concept from junior tasks to macro demand. The source separates current coding and office substitution from a later broad labor-substitution stage, while warning that growth in AI/software/finance may not absorb workers from high-employment-multiplier sectors.
 
 [[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] extends the concept inside the episode's anti-AI backlash guess. [[DavidWeng|大卫翁]] says AI's early labor effect may appear as smaller future hiring cohorts rather than headline layoffs: companies can keep current teams while replacing some junior research, drafting, and data-preparation work with AI.
 
@@ -17,6 +19,7 @@ Entry-level AI career-ladder risk is [[146-meiguo-jingji-zheme-cha-meigu-hai-nen
 The risk is less about every junior worker being fired immediately than about future hiring plans. Firms may keep senior employees, ask them to supervise AI, and hire fewer beginners. If that continues, universities, professional programs, and companies face a pipeline problem: senior judgment still exists today, but the apprenticeship path that creates it can weaken.
 
 ## Key Claims
+- Episode 172 adds that labor substitution is both a valuation boundary and a household-demand problem when AI growth has a low employment multiplier.
 - AI can affect hiring plans before it shows up as visible layoffs.
 - Junior work is vulnerable because basic research, summarization, drafting, and data preparation are both automatable and training-rich.
 - Reduced entry-level hiring can coexist with selective demand for AI, data, and senior engineering talent.

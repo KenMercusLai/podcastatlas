@@ -2,11 +2,13 @@
 title: "AI Labor Market Concentration"
 type: concept
 tags: [ai, labor-market, hiring]
-sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]
-last_updated: 2026-08-06
+sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # AI Labor Market Concentration
+
+[[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds the macro multiplier version. The source says AI, software, and finance can create profits and market leadership with fewer jobs than construction, retail, and services, making [[AIEmploymentMultiplierCompression]] a reason AI-led growth may not restore broad consumption.
 
 [[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds the entry-level career-ladder version. The source argues that AI demand can be strong in elite or infrastructure-adjacent roles while AI tools reduce future need for junior search, summarization, data organization, and drafting work.
 
@@ -17,6 +19,7 @@ The concept explains why AI stock enthusiasm can coexist with weak tech postings
 [[tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]] adds the education-market version. In [[CarrieGeorge]]'s account, AI-related programs and data science can grow even as traditional computer science and software engineering enrollment falls, so concentration shows up in student demand as well as employer postings.
 
 ## Key Claims
+- Episode 172 adds that selective AI growth can be low-employment-multiplier growth, not only narrow hiring growth.
 - AI demand can be real without being large enough to revive the whole tech labor market.
 - AI-related skills appear in only a small minority of Indeed postings in the episode.
 - Stronger roles include AI engineering, machine-learning engineering, and [[DataEngineeringDemand]].
