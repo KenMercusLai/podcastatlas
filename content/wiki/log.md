@@ -6409,3 +6409,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP245 一年一度寻味之旅：今年去吃创意菜
+
+Added source page for a Talk三联 annual food-issue episode with 吴立伟, 邱连, 黑麦, and 薛鹏 on creative Chinese cuisine, regional flavor transfer, Guizhou acid-spicy systems, Yunnan menu narrative, Sichuan internal technical renewal, Guangxi cuisine legibility, Chinese bistro localization, local alcohol pairing, and stir-fry revival. Created pages for 吴立伟, 邱连, Guangxi, 欧哈, 芽, 贵小厨, Creative Chinese Cuisine, Regional Flavor Transfer, Guizhou Cuisine Flavor Transfer, Yunnan Cuisine Menu Narrative, Guangxi Cuisine Legibility, Chinese Bistro Localization, Local Alcohol Pairing, and Stir-Fry Revival; updated overview, index, Talk三联, 三联生活周刊, 黑麦, 薛鹏, Guizhou, Yunnan, Sichuan, Fujian, Sichuan Cuisine, Culinary Grammar, Food Writing As Life Experience, Everyday Food Culture History, Flavor As Self-Knowledge, Restaurant Cultural Legibility, Natural Wine, and Taste Training. No direct contradiction found; the source extends the wiki's food-writing branch by showing creative cuisine as grounded recombination rather than rootless novelty.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

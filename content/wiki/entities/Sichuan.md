@@ -2,11 +2,13 @@
 title: "Sichuan / 四川"
 type: entity
 tags: [place, china, food, culture, history]
-sources: [170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536]
-last_updated: 2026-07-18
+sources: [ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz, 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536]
+last_updated: 2026-08-07
 ---
 
 # Sichuan / 四川
+
+[[ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz]] adds a contemporary restaurant layer through [[Heimai|黑麦]]. The source argues that [[SichuanCuisine|川菜]] innovation often happens inside a strong tradition: chefs adjust soup bases, brining, yogurt marinade, low-temperature treatment, and aroma extraction while keeping recognizable Sichuan flavor logic.
 
 Sichuan / 四川 enters the wiki through [[66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536]] as the regional food and cultural setting for [[FuchsiaDunlop|胡霞 / Fuchsia Dunlop]]'s [[SharkFinAndSichuanPepper|《鱼翅与花椒》]]. The episode does not treat Sichuan only as a spicy-food label; it uses [[Chengdu|成都]] street life, huajiao, dan dan noodles, rabbit heads, cooks, markets, and [[FoodTextureAesthetics|口感]] to show a local culinary world that has to be learned.
 
@@ -18,6 +20,7 @@ The source also makes Sichuan a translation site. Dunlop's affection for [[Sichu
 - Sichuan food culture is presented as practice, not only flavor: buying, cooking, eating, market contact, and social relationships all matter.
 - [[SichuanCuisine|川菜]] in this source becomes a route into [[CulinaryGrammar]] because unfamiliar taste categories require time and context.
 - The episode distinguishes admiration for Sichuan food from uncritical nationalism or foreign validation.
+- EP245 adds that a strong culinary tradition can renew itself through technique and ingredient treatment without needing to look more exotic.
 - In the Song case, Sichuan shows how unification can look rational from the center while creating local resistance through violence and extraction.
 
 ## Connections
@@ -26,3 +29,4 @@ The source also makes Sichuan a translation site. Dunlop's affection for [[Sichu
 - [[FuchsiaDunlop|胡霞 / Fuchsia Dunlop]] and [[SharkFinAndSichuanPepper|《鱼翅与花椒》]] - writer and book tied to the source.
 - [[FoodCulturalBias]] and [[CulinaryIdentityTransformation]] - broader cultural-reading frames.
 - [[SichuanPostConquestResistance|川蜀征服后反抗]], [[WangQuanbin|王全斌]], and [[QuanShixiong|全师雄]] - early Song conquest-afterlife branch.
+- [[Heimai]], [[CreativeChineseCuisine]], and [[StirFryRevival]] - contemporary cuisine-innovation branch added by EP245.

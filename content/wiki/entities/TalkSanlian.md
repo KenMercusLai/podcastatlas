@@ -1,12 +1,14 @@
 ---
 title: "Talk三联"
 type: entity
-tags: [podcast, media, technology, finance, culture, sports, lifestyle, education, games, work, journalism, china]
-sources: [ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6, ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig, ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek, ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
+tags: [podcast, media, technology, finance, culture, sports, lifestyle, education, games, work, journalism, food, cuisine, china]
+sources: [ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz, ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6, ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig, ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek, ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
 last_updated: 2026-08-07
 ---
 
 # Talk三联
+
+[[ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz]] adds the show's food and restaurant-trend branch. With [[WuLiwei|吴立伟]], [[QiuLian|邱连]], [[Heimai|黑麦]], and [[XuePeng|薛鹏]], Talk三联 uses the annual [[SanlianLifeWeekly|三联生活周刊]] food issue to connect [[CreativeChineseCuisine|创意中餐]], [[RegionalFlavorTransfer|地方风味迁移]], [[GuizhouCuisineFlavorTransfer|贵州酸辣风味迁移]], [[YunnanCuisineMenuNarrative|云南菜路线叙事]], [[GuangxiCuisineLegibility|广西菜可识别化]], [[ChineseBistroLocalization|中式小酒馆本土化]], [[LocalAlcoholPairing|地方酒饮餐配]], and [[StirFryRevival|爆炒与小炒回潮]].
 
 [[ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb]] adds the show's work-and-media self-reflection branch. With [[WeiQianSanlian|魏茜]], [[LiXiaojie|李小杰]], and [[WuShubin|吴淑彬]], Talk三联 connects [[GoodWorkNewStandard|好工作的新标准]], [[NormalWorkBaseline|正常工作基线]], [[WorkRoleDecentering|工作角色去中心化]], [[JournalisticPublicness|记者工作的公共性]], [[SocialReportingBurnout|社会报道消耗]], [[JournalisticAuthorityErosion|记者权威感消失]], and [[InterviewAsEmbodiedReporting|采访作为具身报道]].
 
@@ -33,6 +35,7 @@ Talk三联 is the podcast/show context for [[ep270-yi-mei-xinpian-de-manchang-zh
 The episode positions industrial reporting as a translation layer. Instead of treating chips only as investment symbols or geopolitical slogans, it asks what has to happen across [[SemiconductorSupplyChain|design, manufacturing, packaging, testing]], software ecosystems, and user-facing token prices before [[ComputeFreedom|算力自由]] becomes practical.
 
 ## Connections
+- [[WuLiwei]], [[QiuLian]], [[CreativeChineseCuisine]], [[GuizhouCuisineFlavorTransfer]], [[YunnanCuisineMenuNarrative]], [[GuangxiCuisineLegibility]], [[ChineseBistroLocalization]], [[LocalAlcoholPairing]], and [[StirFryRevival]] — annual food-issue and creative-cuisine branch added by EP245.
 - [[WeiQianSanlian]], [[LiXiaojie]], [[WuShubin]], [[YuanChanggeng]], [[GoodWorkNewStandard]], [[NormalWorkBaseline]], [[JournalisticPublicness]], [[JournalisticAuthorityErosion]], and [[InterviewAsEmbodiedReporting]] — work-and-media branch added by EP244.
 - [[GaoYiding]] — host of the episode.
 - [[ZhangCongzhi]] — reporter and guest explaining semiconductor industry reporting.

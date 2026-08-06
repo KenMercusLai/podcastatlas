@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP245 一年一度寻味之旅：今年去吃创意菜](sources/ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz.md) — Talk三联 annual food-issue episode on creative Chinese cuisine, regional flavor transfer across Guizhou/Yunnan/Sichuan/Guangxi/Fujian, bistros, local alcohol pairing, and stir-fry revival.
 - [EP244 记者眼中的“好工作”，什么样？](sources/ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb.md) — Talk三联 episode with 魏茜, 李小杰, and 吴淑彬 on good work standards, normal work, work decentering, media-industry change, social-reporting burnout, journalistic authority erosion, and AI-era interviewing.
 - [EP243 蒋奇明x李雪琴x双雪涛：想在东北上天？这事儿还是太复杂了](sources/ep243-jiang-qiming-x-li-xueqin-x-shuang-xuetao-xiang-zai-dongbei-shangtian-zhe-shi-er-haishi-tai-fuza-le-lkqbo0zg5y7p1fo4x90n8yq394t6.md) — Talk三联 episode with 双雪涛, 蒋奇明, and 李雪琴 on 《飞行家》, covering adaptation from failure to ordinary life, Northeast memory, regional-language performance, family-supported aspiration, and Northeast women.
 - [EP242 独立游戏，是一条搞钱好赛道吗？](sources/ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu.md) — Talk三联 episode on whether independent games are a viable money-making path, covering Steam publishing, Dragon Spirit, vertical fandom crowdfunding, OC commissions, BJD makeup, AI tools, and skill-based side income.
@@ -801,6 +802,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [吴立伟 / Wu Liwei](entities/WuLiwei.md) — Talk三联 host in EP245 framing the annual food issue around new regional cuisine, creative Chinese cooking, and bistro/drink scenes.
+- [邱连 / Qiu Lian](entities/QiuLian.md) — 三联生活周刊 food speaker in EP245 explaining Guizhou acid-spicy flavor transfer, bistro iteration, rice wine, and local alcohol pairing.
+- [Guangxi / 广西](entities/Guangxi.md) — Regional cuisine case in EP245 whose outside recognition still depends on building memory points beyond luosifen.
+- [欧哈 / Oha Guizhou Bistro](entities/OhaGuizhouBistro.md) — Guizhou-style bistro case in EP245 used to show red sour soup, corn dessert, low-filter drinks, and regional flavor transfer.
+- [芽 / Ya Restaurant](entities/YaRestaurant.md) — Yunnan-flavored vegetarian fine-dining case in EP245 using Tea Horse Road route narrative, fermentation, and regional ingredients.
+- [贵小厨 / Gui Xiao Chu](entities/GuiXiaoChu.md) — Guangxi restaurant case in EP245 whose 老友鱼 shows how familiar flavor structures can make Guangxi cuisine more legible.
 - [袁长庚 / Yuan Changgeng](entities/YuanChanggeng.md) — Anthropologist cited in EP244 for a long-time-scale view of work and life, grounding long-horizon work evaluation.
 - [蒋奇明 / Jiang Qiming](entities/JiangQiming.md) — Actor in EP243 whose 《飞行家》 role grounds the idea that Northeast speech is a route into character thinking rather than just accent.
 - [李雪琴 / Li Xueqin](entities/LiXueqin.md) — Performer and EP243 guest connecting 《飞行家》 to Northeast family life, relatives as family, supportive dream stories, and Northeast women.
@@ -834,7 +841,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王立新 / Wang Lixin](entities/WangLixin.md) — Gold-industry expert in EP239, using World Gold Council experience to frame gold as a strategic, liquid, non-credit asset rather than a short-term chase.
 - [World Gold Council / 世界黄金协会](entities/WorldGoldCouncil.md) — Gold-market organization providing the institutional context for 王立新's expert framing in EP239.
 - [Shanghai Gold Exchange / 上海黄金交易所](entities/ShanghaiGoldExchange.md) — 2002 Chinese gold-market infrastructure milestone used by EP239 to explain marketized domestic gold trading.
-- [薛鹏 / Xue Peng](entities/XuePeng.md) — Talk三联 speaker grounding EP238's armored-combat segment through armor, historical authenticity, team fighting, and commercialization limits.
+- [薛鹏 / Xue Peng](entities/XuePeng.md) — Talk三联 speaker grounding EP238's armored-combat segment and EP245's Yunnan cuisine, fermentation, and menu-narrative discussion.
 - [吴淑彬 / Wu Shubin](entities/WuShubin.md) — Talk三联 speaker in EP238 explaining water sports; EP244 adds her institutional media-work, social-reporting burnout, and rest-boundary reflections.
 - [许路 / Xu Lu](entities/XuLu.md) — Sailing interview subject in EP238 connecting leisure sailing to Xiamen dock memory, wooden-boat restoration, Fujian fieldwork, and experimental archaeology.
 - [张伯后 / Jerry](entities/ZhangBohouJerry.md) — Padel player interviewed in EP238, used to show athlete opportunity and support networks in an emerging racket sport.
@@ -899,7 +906,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Li Lu / 李璐](entities/LiLu.md) — Investor-author whose modernization and value-investment worldview frames episode 150's civilizational account of China.
 - [《文明、现代化、价值投资与中国》](entities/CivilizationModernizationValueInvestmentChina.md) — Li Lu book used by episode 150 to link Malthusian escape, free-market/science loops, and long-term China judgment.
 - [宋铮 / Song Zheng](entities/SongZheng.md) — Economist cited by episode 150 as an example of the need for reality-oriented Chinese economic research.
-- [Fujian / 福建](entities/Fujian.md) — Coastal province used by episode 150 to show clan, hometown, and overseas-Chinese networks as informal protection for early investment.
+- [Fujian / 福建](entities/Fujian.md) — Coastal province used for informal investment-trust history in episode 150 and as a historical-baggage-plus-bistro cuisine case in EP245.
 - [Zhejiang / 浙江](entities/Zhejiang.md) — Coastal province used by episode 150 to contrast early private-economy formation with later inland catch-up.
 - [杨一 / Yang Yi](entities/YangYi.md) — Early Chinese podcast practitioner and 忽左忽右 speaker explaining market education, brand-podcast services, and the Chinese-vs-U.S. podcast path.
 - [欧阳斌 / Ouyang Bin](entities/OuyangBin.md) — 去现场 and 725沙龙-side speaker framing the episode from listener, media-observer, and cultural-dialogue perspectives.
@@ -1276,7 +1283,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [余英时 / Yu Yingshi](entities/YuYingshi.md) — Scholar recommended in the episode as a route into Redology without replacing literary reading.
 - [《红楼梦的两个世界》 / Two Worlds of Dream of the Red Chamber](entities/TwoWorldsOfRedChamberDream.md) — Yu Yingshi book recommended as a Red Chamber scholarship entry point.
 - [Wine / 葡萄酒](entities/Wine.md) — Agricultural drink and cultural object connecting terroir, natural wine, taste training, food writing, material history, and personal palate discovery.
-- [黑麦 / Heimai](entities/Heimai.md) — 三联生活周刊 writer whose wine, food, media, kitchen, and family-memory experiences anchor the Sanlian crossover episode.
+- [黑麦 / Heimai](entities/Heimai.md) — 三联生活周刊 writer whose wine, food, media, kitchen, Sichuan cuisine, and restaurant-trend reporting anchor food and taste discussions.
 - [三联生活周刊 / Sanlian Life Weekly](entities/SanlianLifeWeekly.md) — Chinese culture and lifestyle media context for 黑麦's food, wine, and taste-writing practice.
 - [《神之水滴》 / The Drops of God](entities/DropsOfGod.md) — Wine manga used by the episode to show how tasting notes, region knowledge, and collector desire become popular story.
 - [《杯酒人生》 / Sideways](entities/SidewaysFilm.md) — Wine film used by 黑麦 to explain flavor preference as self-projection and self-reconciliation.
@@ -2839,7 +2846,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Bacchae / 酒神的伴侣](entities/TheBacchae.md) — Euripides tragedy used as a comparison for freedom, ecstasy, violence, and order collapse.
 - [Fuchsia Dunlop / 胡霞](entities/FuchsiaDunlop.md) — British food writer whose 《鱼翅与花椒》 is read through Sichuan cuisine, appetite, cultural translation, and identity change.
 - [《鱼翅与花椒》 / Shark's Fin and Sichuan Pepper](entities/SharkFinAndSichuanPepper.md) — Food memoir used by the source to connect Chengdu, Sichuan cuisine, culinary grammar, texture, bias, and animal ethics.
-- [Sichuan / 四川](entities/Sichuan.md) — Regional setting for the source's Sichuan food, Chengdu market, huajiao, and culinary-translation branch.
+- [Sichuan / 四川](entities/Sichuan.md) — Regional setting for Sichuan food, Chengdu market, huajiao, culinary translation, and EP245's internal technical renewal of strong cuisine.
 - [Chengdu / 成都](entities/Chengdu.md) — City setting where Dunlop's 1990s study, street food, market encounters, and Sichuan cuisine learning are grounded.
 - [Women's National Basketball Association](entities/WNBA.md) — Women's professional basketball league whose media-rights growth becomes the labor-revenue-share case in the Planet Money episode.
 - [WNBA Players Association](entities/WNBAPlayersAssociation.md) — Player-side bargaining organization that uses data, strike authorization, and member preparation to push for revenue sharing.
@@ -2894,7 +2901,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Xi Jinping](entities/XiJinping.md) — Chinese leader whose anti-speculation housing line marks the policy pivot in the episode.
 - [Nancy Qian](entities/NancyQian.md) — Economist explaining China's youth unemployment, job scarcity, and productivity risk.
 - [Aze](entities/Aze.md) — Young Beijing woman whose hidden unemployment grounds the youth case study.
-- [Guizhou](entities/Guizhou.md) — Province used as the episode's example of impressive but possibly misallocated infrastructure.
+- [Guizhou](entities/Guizhou.md) — Province used first for infrastructure capacity and later for EP245's acid-spicy cuisine, fermentation, 木姜子, and bistro flavor transfer.
 - [Jerry / 太空僧](entities/JerryTaikongSeng.md) — Aerospace practitioner and guest explaining Long March 10B's sea-net recovery mechanics.
 - [Long March 10B / 长征十号乙](entities/LongMarch10B.md) — Chinese reusable launch vehicle framed through first-stage sea-net recovery and later reuse validation.
 - [Long March 10A / 长征十号甲](entities/LongMarch10A.md) — Manned Long March 10 variant whose first-stage technology shortens the Long March 10B path in the episode.
@@ -3098,7 +3105,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李飘 / Li Piao](entities/LiPiao.md) — 蜜獾吃书 host in episode 150, steering the Yunnan mushroom conversation across food safety, tourism, 《苍城》, and nature contact.
 - [阿错 / Acuo](entities/ACuo.md) — Yunnan writer and author of 《苍城》, grounding episode 150 in local mushroom knowledge, mountain customs, Tea Horse Road memory, and place-based fiction.
 - [《苍城》](entities/Cangcheng.md) — 阿错 novel discussed through Yunnan fungi, altered perception, horse transport, women muleteers, Lijiang memory, and morally complex characters.
-- [Yunnan / 云南](entities/Yunnan.md) — Province framed by episode 150 as ecological, culinary, literary, and mountain-life context rather than only a tourism image.
+- [Yunnan / 云南](entities/Yunnan.md) — Province framed as ecological, culinary, literary, mountain-life, mushroom, and EP245 menu-narrative context rather than only a tourism image.
 - [Dali, Yunnan / 大理](entities/DaliYunnan.md) — Yunnan place in the 蜜獾吃书 branch, tied to Dali life, plant abundance, mushroom eating, reading rhythm, and nature contact.
 - [Lijiang / 丽江](entities/Lijiang.md) — Yunnan city connected by episode 150 to the Tea Horse Road, horse/mule transport memory, and 《苍城》's local imagination.
 - [Tea Horse Road / 茶马古道](entities/TeaHorseRoad.md) — Historical Yunnan transport and trade route linking horse infrastructure to Cangcheng's muleteer and local-labor material.
@@ -5419,6 +5426,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Creative Chinese Cuisine / 创意中餐](concepts/CreativeChineseCuisine.md) — EP245 frame for new Chinese cooking as recombination of regional flavor, tradition, technique, chef training, drink pairing, and dining format.
+- [Regional Flavor Transfer / 地方风味迁移](concepts/RegionalFlavorTransfer.md) — EP245 pattern where a clear regional taste element moves into another dish structure, cuisine, or drink scene.
+- [Guizhou Cuisine Flavor Transfer / 贵州酸辣风味迁移](concepts/GuizhouCuisineFlavorTransfer.md) — EP245 account of Guizhou acid, chili, fermentation, 木姜子, red sour soup, and bistro adaptation as portable flavor tools.
+- [Yunnan Cuisine Menu Narrative / 云南菜路线叙事](concepts/YunnanCuisineMenuNarrative.md) — EP245 frame for turning Yunnan geography, minority foodways, fermentation, and route memory into a sequenced restaurant menu.
+- [Guangxi Cuisine Legibility / 广西菜可识别化](concepts/GuangxiCuisineLegibility.md) — EP245 concept for building recognizable outside memory points around Guangxi dishes beyond luosifen.
+- [Chinese Bistro Localization / 中式小酒馆本土化](concepts/ChineseBistroLocalization.md) — EP245 pattern where small restaurants localize bistro formats through Chinese dishes, rice wine, cocktails, tea drinks, and regional flavor.
+- [Local Alcohol Pairing / 地方酒饮餐配](concepts/LocalAlcoholPairing.md) — EP245 drink-pairing frame where local grain, microbes, smoke, fat, tea, spice, and dish memory shape alcoholic or nonalcoholic pairings.
+- [Stir-Fry Revival / 爆炒与小炒回潮](concepts/StirFryRevival.md) — EP245 trend where rougher, hotter, fresher stir-fry and small-shop formats answer fatigue with over-polished dining.
 - [Good Work New Standard / 好工作的新标准](concepts/GoodWorkNewStandard.md) — EP244 umbrella frame for changing job-quality criteria across income, stability, dignity, growth, meaning, life stage, and media work.
 - [Normal Work Baseline / 正常工作基线](concepts/NormalWorkBaseline.md) — EP244 frame for basic non-exploitative work conditions such as pay, leave, social insurance, respect, and growth.
 - [Work Role Decentering / 工作角色去中心化](concepts/WorkRoleDecentering.md) — EP244 pattern where work no longer monopolizes identity, meaning, happiness, income, and social recognition.
@@ -5979,8 +5994,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wine Terroir / 葡萄酒风土](concepts/WineTerroir.md) — Source frame for wine place-character as soil, climate, geography, surrounding smells, and human practice together.
 - [Taste Training](concepts/TasteTraining.md) — Sensory-learning practice built from comparison, repeated tasting, vocabulary, and bodily attention across wine, tea, coffee, perfume, and food.
 - [Natural Wine](concepts/NaturalWine.md) — Low-intervention wine style framed as both a fermentation choice and a social lowering of wine's status barrier.
-- [Food Writing As Life Experience](concepts/FoodWritingAsLifeExperience.md) — Writing frame where food and drink are explained through memory, place, work, body, and changing taste rather than only recommendations.
-- [Flavor As Self-Knowledge](concepts/FlavorAsSelfKnowledge.md) — Claim that tasting food and drink helps people discover their own preferences, needs, memories, and self-descriptions.
+- [Food Writing As Life Experience](concepts/FoodWritingAsLifeExperience.md) — Writing frame where food and drink are explained through memory, place, work, body, regional cuisine, and changing taste rather than only recommendations.
+- [Flavor As Self-Knowledge](concepts/FlavorAsSelfKnowledge.md) — Claim that tasting food and drink helps people discover their own preferences, needs, memories, self-descriptions, and desired eating scenes.
 - [MacGuffin / 麦格芬](concepts/MacGuffin.md) — Suspense device where an object, secret, or question drives action and curiosity without necessarily remaining the story's final center.
 - [桌下炸弹悬念 / Bomb-Under-Table Suspense](concepts/BombUnderTableSuspense.md) — Hitchcockian information-design rule where known but unresolved danger creates sustained anxiety.
 - [Narrative Misdirection / 叙事误导](concepts/NarrativeMisdirection.md) — Story technique that directs attention toward a plausible provisional center, then makes earlier details read differently after a reveal.
@@ -6921,7 +6936,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Transparent AI Use](concepts/TransparentAIUse.md) — Process-visible AI collaboration pattern where students show which work is theirs, what the tool changed, and how they judged the result.
 - [AI Detector Bias](concepts/AIDetectorBias.md) — Risk that AI-writing detectors create uneven suspicion or false positives, especially for already marginalized students.
 - [U.S. Restaurant Real Estate Constraint](concepts/USRestaurantRealEstateConstraint.md) — E232 concept that U.S. restaurant rollout depends on leases, permits, foodservice-ready sites, landlords, buildout time, and local operator credibility.
-- [Restaurant Cultural Legibility](concepts/RestaurantCulturalLegibility.md) — E232 concept for whether local consumers understand a food's format, occasion, ordering method, and repeat reason.
+- [Restaurant Cultural Legibility](concepts/RestaurantCulturalLegibility.md) — Concept for whether consumers understand a food's format, occasion, ordering method, repeat reason, and cuisine memory point.
 - [Culture-Led Food Adoption](concepts/CultureLedFoodAdoption.md) — E232 concept for entertainment, tourism, government promotion, channels, and diaspora memory making cuisine easier to try.
 - [B2B to A2A](concepts/B2BToA2A.md) — E231 thesis that business-to-business trade can become agent-to-agent coordination among buyer, seller, platform, and operator agents.
 - [Agentic B2B Sourcing](concepts/AgenticB2BSourcing.md) — E231 workflow pattern for turning product ideas into research, design packs, supplier matching, pricing, logistics, transactions, and feedback loops.
@@ -7019,7 +7034,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Animal Reproductive Strategies](concepts/AnimalReproductiveStrategies.md) — Preview concept opened through Wang Dake's 《他们的性》 and the 423 exclusive animal reproduction discussion.
 - [Paper Money Ritual Materiality](concepts/PaperMoneyRitualMateriality.md) — Frame for reading burned paper money as material desire and obligation inside Chinese spiritual life.
 - [Male Surplus Security Risk](concepts/MaleSurplusSecurityRisk.md) — Gender-demography risk frame generated by the recommendation of 《光棍危机》.
-- [Everyday Food Culture History](concepts/EverydayFoodCultureHistory.md) — Reading frame where ordinary eating and drinking spaces reveal social change through material practice.
+- [Everyday Food Culture History](concepts/EverydayFoodCultureHistory.md) — Reading frame where ordinary eating, drinking, restaurant, and festival spaces reveal social change through material practice.
 - [Reading List Pointer Episode](concepts/ReadingListPointerEpisode.md) — Podcast format where a short interval records reading leads, platform routing, and possible future topics rather than a full review.
 - [Homer Question](concepts/HomerQuestion.md) — Authorship, oral transmission, and historical-memory problem around Homer, The Iliad, and The Odyssey.
 - [Oral-Formulaic Epic](concepts/OralFormulaicEpic.md) — Homeric craft frame for fixed epithets, repeated prophecy, active absence, and oral performance technique.
@@ -7060,8 +7075,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Greek Tragedy](concepts/GreekTragedy.md) — Dramatic and civic form tied to Dionysian ritual, Athenian public education, myth, chorus, restraint, and political reflection.
 - [Tragic Modernity](concepts/TragicModernity.md) — Euripidean pattern where ancient myth feels modern through psychology, moral ambiguity, hero deconstruction, and unresolved endings.
 - [Female Revenge And Political Order](concepts/FemaleRevengeAndPoliticalOrder.md) — Pattern where Medea's revenge exposes real gender injury while destroying family, city, and human relation.
-- [Sichuan Cuisine / 川菜](concepts/SichuanCuisine.md) — Food system in the source, centered on Chengdu, huajiao, street food, markets, offal, texture, and learned appetite.
-- [Culinary Grammar](concepts/CulinaryGrammar.md) — Idea that cuisines have learned sensory, social, freshness, texture, and etiquette rules before fair judgment is possible.
+- [Sichuan Cuisine / 川菜](concepts/SichuanCuisine.md) — Food system centered on Chengdu, huajiao, street food, markets, offal, texture, learned appetite, and internal technical renewal.
+- [Culinary Grammar](concepts/CulinaryGrammar.md) — Idea that cuisines have learned sensory, social, freshness, texture, etiquette, and restaurant-format rules before fair judgment is possible.
 - [Food Texture Aesthetics](concepts/FoodTextureAesthetics.md) — Mouthfeel-centered food value around crunch, bounce, gelatinousness, tenderness, and other texture categories.
 - [Food Cultural Bias](concepts/FoodCulturalBias.md) — Pattern where diners turn unfamiliar food habits into hierarchy, disgust, or civilizational judgment.
 - [Market Freshness Culture](concepts/MarketFreshnessCulture.md) — Food-market freshness norm where ingredient selection, live animals, and visible slaughter shape cooking knowledge and ethics.

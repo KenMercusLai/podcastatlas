@@ -2,11 +2,13 @@
 title: "Yunnan / 云南"
 type: entity
 tags: [place, china, food, ecology, tourism]
-sources: [144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt, zhongqiu-kuaile-669967741, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165]
-last_updated: 2026-08-06
+sources: [ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz, 144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt, zhongqiu-kuaile-669967741, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165]
+last_updated: 2026-08-07
 ---
 
 # Yunnan / 云南
+
+[[ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz]] adds a restaurant-innovation layer through [[XuePeng|薛鹏]] and [[YaRestaurant|芽]]. The episode treats Yunnan cuisine as difficult to summarize because highland, tropical, minority, fermentation, and city-adapted food systems differ sharply, but that same complexity supports [[YunnanCuisineMenuNarrative|云南菜路线叙事]] in contemporary restaurants.
 
 [[144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt]] adds a rural-development case through [[Mapingguan|马坪关]], [[DuanSihe|段四合]], and [[ShaxiAncientTown|沙溪古镇]]. Yunnan here is not primarily food or scenery, but a setting where roads, electricity, [[MatsutakeCommonsManagement]], [[VillageSelfGovernance]], [[RuralWomenPublicParticipation]], and [[SlowRuralTourism]] meet in one mountain village.
 
@@ -23,6 +25,7 @@ The episode's Yunnan is also a contrast case. Outsiders may encounter it through
 - [[TeaHorseRoad|茶马古道]] and local horse or mule transport keep older mobility systems visible inside literary and family memory.
 - Tourist desire can damage the same landscapes it wants to consume when gathering becomes careless or photo-driven.
 - Yunnan travel reading can counter scenery-only consumption by foregrounding local history and regional cultural memory.
+- EP245 adds that Yunnan's regional complexity can become menu structure: a restaurant can organize flavor through route, altitude, fermentation, and ingredient system rather than one generic "Yunnan taste."
 
 ## Connections
 - [[Mapingguan|马坪关]], [[DuanSihe|段四合]], [[ShaxiAncientTown|沙溪古镇]], [[VillageSelfGovernance]], [[RuralInfrastructureTransition]], and [[SlowRuralTourism]] - rural-development branch added by 起朱楼宴宾客 episode 144.
@@ -31,3 +34,4 @@ The episode's Yunnan is also a contrast case. Outsiders may encounter it through
 - [[Cangcheng|《苍城》]] and [[PlaceBasedFiction]] - literary branch grounded in Yunnan experience.
 - [[NatureContactSelfPerception]] - closing natural-environment synthesis.
 - [[TravelReadingAsPlaceInquiry]] - later holiday-reading frame that uses Yunnan local history as a travel example.
+- [[XuePeng]], [[YaRestaurant|芽]], [[YunnanCuisineMenuNarrative]], and [[CreativeChineseCuisine]] - restaurant-innovation branch added by EP245.

@@ -6603,6 +6603,10 @@
     "title": "中国男子篮球职业联赛 / Chinese Basketball Association",
     "url": "/wiki/entities/chinesebasketballassociation/"
   },
+  "ChineseBistroLocalization": {
+    "title": "Chinese Bistro Localization / 中式小酒馆本土化",
+    "url": "/wiki/concepts/chinesebistrolocalization/"
+  },
   "ChineseCharacterEvidenceDiscipline": {
     "title": "Chinese Character Evidence Discipline",
     "url": "/wiki/concepts/chinesecharacterevidencediscipline/"
@@ -7858,6 +7862,10 @@
   "CreationOfTheGodsI": {
     "title": "《封神》 / Creation of the Gods",
     "url": "/wiki/entities/creationofthegodsi/"
+  },
+  "CreativeChineseCuisine": {
+    "title": "Creative Chinese Cuisine / 创意中餐",
+    "url": "/wiki/concepts/creativechinesecuisine/"
   },
   "CreativeLaborAIBacklash": {
     "title": "Creative Labor AI Backlash",
@@ -13423,6 +13431,14 @@
     "title": "光轮智能",
     "url": "/wiki/entities/guanglunintelligence/"
   },
+  "Guangxi": {
+    "title": "Guangxi / 广西",
+    "url": "/wiki/entities/guangxi/"
+  },
+  "GuangxiCuisineLegibility": {
+    "title": "Guangxi Cuisine Legibility / 广西菜可识别化",
+    "url": "/wiki/concepts/guangxicuisinelegibility/"
+  },
   "Guangzhou": {
     "title": "Guangzhou / 广州",
     "url": "/wiki/entities/guangzhou/"
@@ -13434,6 +13450,10 @@
   "Guanyin": {
     "title": "Guanyin / 观音",
     "url": "/wiki/entities/guanyin/"
+  },
+  "GuiXiaoChu": {
+    "title": "贵小厨 / Gui Xiao Chu",
+    "url": "/wiki/entities/guixiaochu/"
   },
   "GuiYouguang": {
     "title": "归有光 / Gui Youguang",
@@ -13454,6 +13474,10 @@
   "Guizhou": {
     "title": "Guizhou",
     "url": "/wiki/entities/guizhou/"
+  },
+  "GuizhouCuisineFlavorTransfer": {
+    "title": "Guizhou Cuisine Flavor Transfer / 贵州酸辣风味迁移",
+    "url": "/wiki/concepts/guizhoucuisineflavortransfer/"
   },
   "GulfCooperationCouncil": {
     "title": "Gulf Cooperation Council",
@@ -18579,6 +18603,10 @@
     "title": "Local Agent Execution",
     "url": "/wiki/concepts/localagentexecution/"
   },
+  "LocalAlcoholPairing": {
+    "title": "Local Alcohol Pairing / 地方酒饮餐配",
+    "url": "/wiki/concepts/localalcoholpairing/"
+  },
   "LocalBatteryIndustrialClusters": {
     "title": "Local Battery Industrial Clusters",
     "url": "/wiki/concepts/localbatteryindustrialclusters/"
@@ -22067,6 +22095,10 @@
     "title": "小笠原群岛 / Ogasawara Islands",
     "url": "/wiki/entities/ogasawaraislands/"
   },
+  "OhaGuizhouBistro": {
+    "title": "欧哈 / Oha Guizhou Bistro",
+    "url": "/wiki/entities/ohaguizhoubistro/"
+  },
   "Ohayoo": {
     "title": "Ohayoo",
     "url": "/wiki/entities/ohayoo/"
@@ -24811,6 +24843,10 @@
     "title": "丘处机",
     "url": "/wiki/entities/qiuchuji/"
   },
+  "QiuLian": {
+    "title": "邱连 / Qiu Lian",
+    "url": "/wiki/entities/qiulian/"
+  },
   "QixiBook": {
     "title": "《七夕》 / Qixi",
     "url": "/wiki/entities/qixibook/"
@@ -25322,6 +25358,10 @@
   "RegionalAdministrativeFragmentation": {
     "title": "Regional Administrative Fragmentation",
     "url": "/wiki/concepts/regionaladministrativefragmentation/"
+  },
+  "RegionalFlavorTransfer": {
+    "title": "Regional Flavor Transfer / 地方风味迁移",
+    "url": "/wiki/concepts/regionalflavortransfer/"
   },
   "RegionalLaborMarketScarring": {
     "title": "Regional Labor Market Scarring",
@@ -28738,6 +28778,10 @@
   "StewardOwnership": {
     "title": "Steward Ownership",
     "url": "/wiki/concepts/stewardownership/"
+  },
+  "StirFryRevival": {
+    "title": "Stir-Fry Revival / 爆炒与小炒回潮",
+    "url": "/wiki/concepts/stirfryrevival/"
   },
   "StitchedAIArchitecture": {
     "title": "Stitched AI Architecture",
@@ -32531,6 +32575,10 @@
     "title": "Wu Liande / 伍连德",
     "url": "/wiki/entities/wuliande/"
   },
+  "WuLiwei": {
+    "title": "吴立伟 / Wu Liwei",
+    "url": "/wiki/entities/wuliwei/"
+  },
   "WuQingyuan": {
     "title": "吴清源",
     "url": "/wiki/entities/wuqingyuan/"
@@ -32974,6 +33022,10 @@
   "YaGe": {
     "title": "鸭哥",
     "url": "/wiki/entities/yage/"
+  },
+  "YaRestaurant": {
+    "title": "芽 / Ya Restaurant",
+    "url": "/wiki/entities/yarestaurant/"
   },
   "Yahoo": {
     "title": "Yahoo",
@@ -33446,6 +33498,10 @@
   "Yunnan": {
     "title": "Yunnan / 云南",
     "url": "/wiki/entities/yunnan/"
+  },
+  "YunnanCuisineMenuNarrative": {
+    "title": "Yunnan Cuisine Menu Narrative / 云南菜路线叙事",
+    "url": "/wiki/concepts/yunnancuisinemenunarrative/"
   },
   "YunnanHomestayAssociation": {
     "title": "Yunnan Homestay Association",
@@ -34482,6 +34538,10 @@
   "ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb": {
     "title": "EP244 记者眼中的“好工作”，什么样？",
     "url": "/wiki/sources/ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb/"
+  },
+  "ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz": {
+    "title": "EP245 一年一度寻味之旅：今年去吃创意菜",
+    "url": "/wiki/sources/ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz/"
   },
   "ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg": {
     "title": "EP25 中资外资哪家强：“一劳永逸”找“钱粮”（下）",

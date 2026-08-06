@@ -2,8 +2,8 @@
 title: "Taste Training"
 type: concept
 tags: [taste, learning, wine, food, coffee, sensory-culture]
-sources: [sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
-last_updated: 2026-08-05
+sources: [ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
+last_updated: 2026-08-07
 ---
 
 # Taste Training
@@ -12,11 +12,14 @@ Taste training is the source's account of how sensory judgment becomes more prec
 
 The concept is not pure expertise worship. The episode values training because it gives people more access to their own perception: aroma can suggest clues, but the palate must verify them; standardized terms help, but personal and local memories still shape description. That connects taste training to [[CulinaryGrammar]] and [[FlavorAsSelfKnowledge]] rather than to status performance.
 
+[[ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz]] adds a regional-cuisine version. Distinguishing [[GuizhouCuisineFlavorTransfer|Guizhou sour-spicy systems]] from [[GuangxiCuisineLegibility|Guangxi acid profiles]], or understanding why rice wine, low-filter drinks, and tea-based pairings fit specific dishes, also requires comparative sensory learning.
+
 ## Key Claims
 - Sensory learning works best through comparison because difference gives the palate and nose a reference point.
 - Smell, texture, acidity, tannin, sweetness, bitterness, body, and aftertaste each provide partial evidence.
 - Vocabulary can train perception, but it also reflects culture; Chinese tea and food traditions may need different descriptive systems from French wine or specialty coffee.
 - Taste training should make preferences clearer, not make drinkers feel unworthy of unfamiliar or expensive things.
+- Regional-cuisine tasting trains recognition across acid, heat, fermentation, aroma, texture, and dining scene, not only across beverage categories.
 
 ## Connections
 - [[Wine|Wine / 葡萄酒]], [[WineTerroir]], and [[NaturalWine]] - main wine cases.
@@ -24,3 +27,4 @@ The concept is not pure expertise worship. The episode values training because i
 - [[CulinaryGrammar]] - food-system rule learning that taste training generalizes.
 - [[FlavorAsSelfKnowledge]] and [[FoodWritingAsLifeExperience]] - personal and narrative consequences of sensory learning.
 - [[SOMDocumentary|SOM]] and [[WorldAtlasOfWine|《世界葡萄酒地图》]] - training and reference examples.
+- [[RegionalFlavorTransfer]], [[LocalAlcoholPairing]], and [[FlavorAsSelfKnowledge]] - EP245 cuisine and pairing branch.
