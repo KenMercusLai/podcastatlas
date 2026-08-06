@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [137.亲历日本生育补贴：国家帮我养娃，归来仍是“吞金兽”](sources/137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7.md) — 起朱楼宴宾客 episode with 霓虹电波 guests on Japan's child allowance, childbirth support, parental leave, childcare, child medical coverage, local welfare differences, education-cost pressure, and why subsidies ease burdens without fully solving low fertility.
 - [136.银行理财还能怎么买？](sources/136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt.md) — 起朱楼宴宾客 episode on Chinese bank wealth management, bank wealth-management subsidiaries, 资管新规, fund-pool and implicit-guarantee risk, net-value transformation, and why cash-management and low-volatility fixed-income products fit the category better than equity or multi-asset promises.
 - [135.宏观大事频发期如何保持定力？| 投资账2025半年度复盘](sources/135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq.md) — 起朱楼宴宾客 half-year 投资账 review on ordinary-investor macro boundaries, April tariff-war calm, staged deployment discipline, short Treasuries, gold rebalancing, dividend-technology barbell, and Hong Kong IPO cash optionality.
 - [134. 投资大师系列先导篇：“他们不只赚了很多钱，更创造了理解世界的方法”](sources/134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg.md) — 起朱楼宴宾客 paid-series preview with 大卫翁, 小小跑, and 雨白 on investment masters as historically situated market methods, style maps, era tailwinds, worldview fit, and the risk of copying famous investors.
@@ -758,6 +759,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [霓虹电波 / Nihong Dianbo](entities/NihongDianbo.md) — Guest-show context for 美嘉 and 摩方's first-person Japan parenting experience in episode 137.
+- [美嘉 / Mijia](entities/Mijia.md) — 霓虹电波 guest grounding Japanese childbirth benefits, child allowance, pediatric coverage, and education spending through cross-China-Japan parenting experience.
+- [摩方 / Mofang](entities/Mofang.md) — 霓虹电波 guest whose father-side examples cover NICU cost coverage, paternal leave, and expensive cram/private-school pathways in Japan.
 - [China Banking and Insurance Regulatory Commission / 银保监会](entities/ChinaBankingAndInsuranceRegulatoryCommission.md) — Banking-and-insurance regulator tied by episode 136 to the approval of bank wealth-management subsidiaries after 资管新规.
 - [China Construction Bank / 建设银行](entities/ChinaConstructionBank.md) — State bank used by episode 136 as a first-approval and first-opening case for bank wealth-management subsidiaries.
 - [China Everbright Bank / 光大银行](entities/ChinaEverbrightBank.md) — Bank credited by episode 136 with an early RMB retail bank wealth-management product and later mentioned in bank wealth-management product selection.
@@ -5207,6 +5211,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Japanese Fertility Support System / 日本生育育儿支持体系](concepts/JapaneseFertilitySupportSystem.md) — Episode 137 umbrella frame for Japan's child allowance, childbirth support, parental leave, childcare, child medical coverage, local add-ons, financing tensions, and education-cost limits.
+- [Japanese Child Allowance / 日本儿童手当](concepts/JapaneseChildAllowance.md) — Cash-transfer branch of Japan's family policy, moving from a limited 1972 third-child benefit toward broader, income-limit-free support after the 1.57 shock and 2024 expansion.
+- [Japanese Childbirth Cost Support / 日本分娩费用支持](concepts/JapaneseChildbirthCostSupport.md) — Birth-cost support around the 出产育儿一时金, medical-insurance treatment of delivery, local add-ons, and planned fuller free-delivery support.
+- [Japanese Parental Leave Income Support / 日本产育休收入支持](concepts/JapaneseParentalLeaveIncomeSupport.md) — Work-and-care support through maternity leave, childcare leave benefits, social-insurance exemptions, and growing father-leave expectations.
+- [Japanese Childcare And Preschool System / 日本保育与幼教体系](concepts/JapaneseChildcareAndPreschoolSystem.md) — Hoikuen/kindergarten and early-childhood free-access branch that moves care from family-only labor toward public or semi-public services.
+- [Japanese Child Medical Cost Coverage / 日本儿童医疗费用兜底](concepts/JapaneseChildMedicalCostCoverage.md) — Pediatric medical risk protection made vivid by episode 137's NICU and routine child-health examples.
+- [East Asian Education Cost Pressure / 东亚教育成本压力](concepts/EastAsianEducationCostPressure.md) — Episode 137 "吞金兽" frame for cram school, private school, extracurriculars, exams, neighborhood sorting, and status-security spending.
+- [Fertility Subsidy Limits / 生育补贴边界](concepts/FertilitySubsidyLimits.md) — Policy caution that cash transfers help but cannot alone overcome education cost, marriage decline, time scarcity, work pressure, and household lifestyle tradeoffs.
 - [Chinese Bank Wealth Management / 中国式银行理财](concepts/ChineseBankWealthManagement.md) — Episode 136 frame for bank-channel Chinese wealth products shaped by expected returns, off-balance-sheet credit, implicit guarantees, and post-资管新规 net-value transformation.
 - [Bank Wealth-Management Subsidiary / 银行理财子公司](concepts/BankWealthManagementSubsidiary.md) — Post-资管新规 legal carrier for bank wealth-management business, inheriting bank channels, legacy assets, and parent-bank culture.
 - [Asset Management New Rules / 资管新规](concepts/AssetManagementNewRules.md) — Regulatory turning point requiring asset-management products to break implicit guarantees, ban fund pools, reduce nesting, and move toward net-value disclosure.

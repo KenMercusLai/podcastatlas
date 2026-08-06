@@ -2,7 +2,7 @@
 title: "Japanese Healthcare System / 日本医疗体系"
 type: concept
 tags: [healthcare, japan, insurance, hospitals, pharma]
-sources: [vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt]
+sources: [137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7, vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt]
 last_updated: 2026-08-06
 ---
 
@@ -12,11 +12,14 @@ The Japanese healthcare system enters the wiki through [[vol-120-riben-yiliao-ti
 
 The source's core value is comparative. [[DavidWeng|大卫翁]] reads [[Japan]] as a useful mirror for [[China]] because both face aging, public-insurance affordability, drug-price pressure, tiered diagnosis, community elder care, and heavy state involvement in medical finance.
 
+[[137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7]] adds the family-facing version of the system. [[Mofang|摩方]]'s 18-day NICU example and [[Mijia|美嘉]]'s comparison with routine pediatric costs after returning to China show why [[JapaneseChildMedicalCostCoverage]] can feel more tangible to parents than a general insurance description. The same episode connects childbirth bills and the "出产育儿一时金" to [[JapaneseChildbirthCostSupport]].
+
 ## Key Claims
 - Healthcare supply has to include service capacity, drug supply, and insurance financing at the same time.
 - Demand management is not only rationing; prevention, screening, chronic-disease support, and out-of-pocket caps also shape patient behavior.
 - Japan's answer was not one lever. Reform worked when insurance, hospital incentives, drug pricing, community care, and professional roles reinforced each other.
 - The system trades away some direct access and emergency convenience in exchange for lower prices and more efficient ordinary care.
+- Episode 137 adds that healthcare protection can also function as fertility support when it reduces parents' fear of unpredictable child illness costs.
 
 ## Connections
 - [[Japan]] and [[China]] - country comparison frame.
@@ -24,3 +27,4 @@ The source's core value is comparative. [[DavidWeng|大卫翁]] reads [[Japan]] 
 - [[JapaneseUniversalHealthCoverage]], [[HighCostMedicalExpenseBenefit]], and [[HealthInsurancePlanning]] - coverage and household-cost branch.
 - [[JapaneseMedicalTriageSystem]], [[CommunityIntegratedCare]], and [[HealthcareImpossibleTriangle]] - service-delivery branch.
 - [[DPCDRGPaymentReform]], [[JapaneseDrugPricingReform]], [[GenericDrugTrustRebuilding]], and [[PharmacistAsSecondDoctor]] - payment, drug, and professional-role branch.
+- [[JapaneseChildMedicalCostCoverage]], [[JapaneseChildbirthCostSupport]], and [[JapaneseFertilitySupportSystem]] - child and childbirth support branch added by episode 137.

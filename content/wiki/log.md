@@ -5697,6 +5697,10 @@ Added source page for a 蜜獾吃书 episode on 蒲松龄《聊斋志异》 as s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-06] ingest | 137.亲历日本生育补贴：国家帮我养娃，归来仍是“吞金兽”
+
+Added source page for a 起朱楼宴宾客 episode with 霓虹电波 guests 美嘉 and 摩方 on Japan's child allowance, childbirth cost support, parental leave, childcare and preschool services, child medical cost coverage, local welfare differences, education-cost pressure, and fertility-subsidy limits. Created pages for 霓虹电波, 美嘉, 摩方, Japanese Fertility Support System, Japanese Child Allowance, Japanese Childbirth Cost Support, Japanese Parental Leave Income Support, Japanese Childcare And Preschool System, Japanese Child Medical Cost Coverage, East Asian Education Cost Pressure, and Fertility Subsidy Limits; updated overview, index, 起朱楼宴宾客, Japan, China, Japanese Healthcare System, Japanese Universal Health Coverage, High-Cost Medical Expense Benefit, Japan Comfortable Stagnation, Family Labor Boundaries, Education Signal Inflation, and Helicopter Parenting. No direct contradiction found; the source extends the Japan healthcare and comfortable-stagnation branches by showing that broad public support can lower family risk while education expectations, marriage decline, time scarcity, local capacity, and financing disputes still limit fertility-policy effectiveness.
+
 ## [2026-08-06] ingest | 130. 谁才是生物医药行业发展的核心驱动力？兼谈创新药产业链的角色分工
 
 Added source page for a 起朱楼宴宾客 episode with 大卫翁, 小P老师, and 大白牛老师 on innovation-drug role allocation across BioTech, BioPharm, MNCs, CXO, academia, hospitals, patients, regulators, payers, and capital. Created pages for 大白牛老师, BioTech To BioPharm Transition, Global Pharma Commercialization, Drug Development Outsourcing / CXO, Academic Biotech Translation, Clinical Development Capability, First-In-Class Drug Discovery Role Split, Biotech Capital Cycle, Unmet Medical Need Demand Pull, Roche, Pfizer, Genmab, Amgen, Regeneron, AbbVie, China CDE, and 国家医保局; updated overview, index, 起朱楼宴宾客, 大卫翁, 小P老师, BeiGene, FDA, Johnson & Johnson, Eli Lilly, Novo Nordisk, China Biotech Globalization, Platform-Pipeline Biotech Strategy, Finite-Game Biotech Competition, PD-1 Market Saturation, and Biotech License-Out Arbitrage. No direct contradiction found; the source qualifies the vol.117 biotech branch by shifting from 2024-2025 market mood to the wider industry architecture that determines who discovers, funds, develops, approves, reimburses, commercializes, and captures value from innovation drugs.
@@ -6057,6 +6061,10 @@ Ran health before lint; health scanned 8,560 wiki pages and found no empty/stub 
 ## [2026-08-06] ingest | 136.银行理财还能怎么买？
 
 Added source page for a 起朱楼宴宾客 episode by 大卫翁 on Chinese bank wealth management, bank wealth-management subsidiaries, 资管新规, fund-pool maturity mismatch, implicit guarantees, net-value transformation, and the current buying boundary for cash-management and low-volatility fixed-income products. Created pages for Chinese Bank Wealth Management, Bank Wealth-Management Subsidiary, Asset Management New Rules, Wealth-Management Fund Pool Risk, Bank Wealth Product Suitability, China Banking and Insurance Regulatory Commission, China Construction Bank, China Everbright Bank, Shanghai Pudong Development Bank, and Ping An Bank; updated overview, index, 起朱楼宴宾客, 大卫翁, China Merchants Bank, Bank of China, Portfolio Suitability, Public Mutual Fund Ecosystem, Financial Platform Incentives, Investment Liquidity Tradeoff, and Investment Risk Management. No direct contradiction found; the source reinforces the investment impossible triangle and extends the wiki's fund/product suitability branch by showing why old smooth bank wealth returns depended on hidden credit, liquidity, accounting, and guarantee mechanisms.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

@@ -2,7 +2,7 @@
 title: "Japan Comfortable Stagnation / 日本舒适停滞"
 type: concept
 tags: [japan, society, economy, aging, innovation]
-sources: [132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw]
+sources: [137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw]
 last_updated: 2026-08-06
 ---
 
@@ -18,12 +18,15 @@ The episode uses [[IsaacAsimov|Isaac Asimov]]'s Solaria analogy as an image rath
 
 [[132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo]] adds the workplace and attention version. Japan's rule-rich work, slower phone rhythms, preserved routines, and process-heavy services can support a calmer life than Chinese always-on work, but the same order can become [[RuleBoundOverthinking]], indirect conflict, edge-case bureaucracy, and low appetite for frontier change.
 
+[[137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7]] adds the family-policy version. [[JapaneseFertilitySupportSystem|Child allowance, childbirth support, parental leave, childcare, and pediatric medical coverage]] help make Japan feel like a high-floor society for parents, while persistent low fertility shows the limits of a comfortable service state when marriage patterns, education spending, time, and energy remain binding constraints.
+
 ## Key Claims
 - Individual life quality and national growth capacity can diverge.
 - Earlier industrial success can fund a good present while reducing urgency for risky renewal.
 - Comfort, order, and service quality can hide weak future-facing ambition.
 - Population decline, labor shortage, immigration reluctance, and innovation retreat reinforce one another.
 - Episode 132 adds that the same order can protect daily boundaries while also producing procedural brittleness and low desire.
+- Episode 137 adds that generous child-related services can reduce the cost floor without necessarily changing the deeper demographic slope.
 
 ## Connections
 - [[Japan]], [[JapaneseHealthcareSystem]], [[AgingInPlaceSupportSystem]], and [[ElderCareStateCapacity]] - daily-life, aging, and service-state context.
@@ -31,3 +34,4 @@ The episode uses [[IsaacAsimov|Isaac Asimov]]'s Solaria analogy as an image rath
 - [[JapaneseEquityRepricing]], [[JapanGeopoliticalSupplyChainDividend]], and [[JapaneseOvertourismTradeoff]] - real current benefits that do not automatically solve long-term growth.
 - [[YouthHappinessAfterGrowth]] and [[JapaneseLostDecades]] - earlier Japan low-growth and life-design branch.
 - [[RuleBoundOverthinking]], [[WorkplacePacing]], [[LowDesireDefensiveContraction]], and [[ControllableLifeAnchors]] - episode 132's workplace, attention, and low-desire extension.
+- [[JapaneseFertilitySupportSystem]], [[JapaneseChildMedicalCostCoverage]], [[EastAsianEducationCostPressure]], and [[FertilitySubsidyLimits]] - family-policy extension added by episode 137.

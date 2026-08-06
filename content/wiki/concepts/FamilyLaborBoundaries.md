@@ -2,8 +2,8 @@
 title: "Family Labor Boundaries"
 type: concept
 tags: [family, labor, care, boundaries]
-sources: [da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, socialradarsseason1-tracyyoung-final-1]
-last_updated: 2026-07-11
+sources: [137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, socialradarsseason1-tracyyoung-final-1]
+last_updated: 2026-08-06
 ---
 
 # Family Labor Boundaries
@@ -14,6 +14,8 @@ The concept connects money, care, and power. Paying a parent does not remove emo
 
 [[socialradarsseason1-tracyyoung-final-1]] adds a founder-family support version through [[TracyYoung]]. Young says building [[TigerEye]] while raising young children works because [[RalphGoody]] shares childcare and household duties, her parents live with the family much of the time, and paid nannies cover logistics. The source treats family support as real capacity planning for startup work, not as invisible background.
 
+[[137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7]] adds a public-policy version through [[Japan]]. The episode says Japanese grandparents are less commonly treated as default childcare labor, while [[JapaneseParentalLeaveIncomeSupport]], [[JapaneseChildcareAndPreschoolSystem]], and father leave try to move care from invisible family obligation into institutions, workplaces, and more explicit parental sharing.
+
 ## Key Claims
 
 - Family care can be real labor even when it is motivated by love.
@@ -22,6 +24,7 @@ The concept connects money, care, and power. Paying a parent does not remove emo
 - Childcare disagreements expose family as a field of negotiation, compromise, authority, and affection.
 - Healthy boundaries require both economic clarity and restraint, so the family is not reduced to either free labor or workplace-style task management.
 - Founder availability can depend on explicit home equality, grandparents, and paid childcare; treating that support as invisible can distort the story of what company-building requires.
+- Public childcare and father leave can redraw family labor boundaries by making care a social and workplace responsibility rather than a mother-or-grandparent default.
 
 ## Connections
 
@@ -31,3 +34,4 @@ The concept connects money, care, and power. Paying a parent does not remove emo
 - [[WorkplaceRelationshipBoundaries]] — workplace version of role-boundary thinking.
 - [[CareerShoreMyth]] — after leaving a large company, family economics still constrain freedom.
 - [[TracyYoung]], [[RalphGoody]], [[TigerEye]], and [[SecondTimeFounderOperatingJudgment]] - founder-family support case added by The Social Radars.
+- [[JapaneseParentalLeaveIncomeSupport]], [[JapaneseChildcareAndPreschoolSystem]], [[JapaneseFertilitySupportSystem]], [[Mijia|美嘉]], and [[Mofang|摩方]] - Japan family-policy branch added by episode 137.
