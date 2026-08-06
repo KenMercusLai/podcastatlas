@@ -2,7 +2,7 @@
 title: "Biotech License-Out Arbitrage"
 type: concept
 tags: [biotech, pharma, licensing, china]
-sources: [vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
+sources: [130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
 last_updated: 2026-08-06
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-06
 Biotech license-out arbitrage is the episode's term-level pattern for how a Chinese pipeline can be licensed overseas, then repriced or transferred at a much higher valuation than the original deal implied. In [[vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]], [[HengruiPharma|恒瑞医药]] is used as the source's example of an asset whose first buyer reportedly captured a large gain after a later transfer.
 
 The source treats license-out as neither pure failure nor pure victory. It can bring upfront cash, milestones, royalties, and overseas development capacity, but it can also cap upside, reduce IPO possibility, create tax or fund-exit constraints, and make the original asset owner look underpaid if the market later rewards the same pipeline.
+
+[[130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh]] adds the capability explanation for why license-out persists. If a BioTech or BioPharm lacks [[GlobalPharmaCommercialization|global commercialization]] capacity, partnering with an MNC can be rational even when it limits upside, because the partner may own the clinical, regulatory, indication-expansion, reimbursement, and sales machinery needed to realize the asset.
 
 ## Key Claims
 - License-out can monetize Chinese assets quickly when domestic capital markets are weak.
@@ -22,4 +24,5 @@ The source treats license-out as neither pure failure nor pure victory. It can b
 - [[ChinaBiotechAssetRepricing]] - broader pricing-gap frame.
 - [[HengruiPharma]] and [[KelunBiotech]] - company examples in the source.
 - [[PlatformPipelineBiotechStrategy]] - adjacent question of whether to sell capability, own assets, or use assets as proof.
+- [[GlobalPharmaCommercialization]], [[ClinicalDevelopmentCapability]], and [[BiotechCapitalCycle]] - capability and financing context added by episode 130.
 - [[ManagementShareholderAlignmentRisk]] - shareholder-rights concern when new structures allocate too much value to insiders.

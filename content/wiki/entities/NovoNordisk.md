@@ -2,7 +2,7 @@
 title: "Novo Nordisk"
 type: entity
 tags: [company, healthcare, pharma, governance]
-sources: [eric-ries-incorruptible-by-design-wrgromn5peq, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
+sources: [130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh, eric-ries-incorruptible-by-design-wrgromn5peq, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
 last_updated: 2026-08-06
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-06
 Novo Nordisk is [[EricRies]]'s central [[StewardOwnership]] case in [[eric-ries-incorruptible-by-design-wrgromn5peq]]. Ries says the company began around bringing insulin technology from Canada to Denmark while protecting life-saving medicine from pricing temptation, and that its foundation-centered structure has endured since the 1920s while creating large shareholder value.
 
 [[vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]] adds Novo Nordisk through semaglutide and the consumer-facing [[GLP1Agonists|GLP-1]] market. The episode says earlier approval, advertising, and celebrity effects gave semaglutide strong public recognition even as [[EliLilly|Eli Lilly]]'s tirzepatide was described as having stronger clinical data in the source's comparison.
+
+[[130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh]] adds Novo Nordisk as an example of multinational pharma therapeutic-area depth in metabolism. The source uses it with [[EliLilly]] to show how MNCs can compound expertise, products, and commercial systems inside an advantaged disease field.
 
 ## Key Claims
 - Novo Nordisk is presented as evidence that mission-preserving ownership does not necessarily prevent major financial success.
@@ -22,3 +24,4 @@ Novo Nordisk is [[EricRies]]'s central [[StewardOwnership]] case in [[eric-ries-
 - [[HumanFlourishingProfit]] and [[TrustAsBusinessAsset]] - value frame for healthcare trust and mission.
 - [[Zeiss]] and [[LongTermBenefitTrust]] - other alternative governance examples.
 - [[GLP1Agonists]], [[EliLilly]], and [[FiniteGameBiotechCompetition]] - competitive GLP-1 context added by vol.117.
+- [[GlobalPharmaCommercialization]] and [[ClinicalDevelopmentCapability]] - MNC capability context added by episode 130.

@@ -5685,6 +5685,10 @@ Added source page for a 蜜獾吃书 episode on 蒲松龄《聊斋志异》 as s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-06] ingest | 130. 谁才是生物医药行业发展的核心驱动力？兼谈创新药产业链的角色分工
+
+Added source page for a 起朱楼宴宾客 episode with 大卫翁, 小P老师, and 大白牛老师 on innovation-drug role allocation across BioTech, BioPharm, MNCs, CXO, academia, hospitals, patients, regulators, payers, and capital. Created pages for 大白牛老师, BioTech To BioPharm Transition, Global Pharma Commercialization, Drug Development Outsourcing / CXO, Academic Biotech Translation, Clinical Development Capability, First-In-Class Drug Discovery Role Split, Biotech Capital Cycle, Unmet Medical Need Demand Pull, Roche, Pfizer, Genmab, Amgen, Regeneron, AbbVie, China CDE, and 国家医保局; updated overview, index, 起朱楼宴宾客, 大卫翁, 小P老师, BeiGene, FDA, Johnson & Johnson, Eli Lilly, Novo Nordisk, China Biotech Globalization, Platform-Pipeline Biotech Strategy, Finite-Game Biotech Competition, PD-1 Market Saturation, and Biotech License-Out Arbitrage. No direct contradiction found; the source qualifies the vol.117 biotech branch by shifting from 2024-2025 market mood to the wider industry architecture that determines who discovers, funds, develops, approves, reimburses, commercializes, and captures value from innovation drugs.
+
 
 ## [2026-08-06] ingest | vol.128.关税战下一步走向何方？美国人民如何看待特朗普“百日新政”？| 狂喜播客节·对话仲树&Talich
 
@@ -6001,6 +6005,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-06] ingest | 129.货币的本质，以及黄金的真正价值 | 串台十分吸引
 
 Added source page for a 起朱楼宴宾客 crossover with 十分吸引 on money as flow, endogenous credit creation, payment-clearing networks, currency-anchor transition, gold as a temporary spare monetary anchor, Bitcoin's network-value claim, and currency risk as wealth-measurement risk. Created pages for Money As Flow, Endogenous Money Creation, Payment Clearing Network, Currency Anchor Transition, and Gold As Currency Spare Tire; updated overview, index, 起朱楼宴宾客, 大卫翁, 时雷, 十分吸引, Bitcoin, Federal Reserve, U.S. Treasury, People's Bank of China, Bank of England, Gold Monetary Anchor, Currency Risk, Currency Credit, Digital Gold, Bitcoin Safe-Haven Behavior, Money Illusion, and Money Movement Infrastructure. No direct contradiction found; the source qualifies Bitcoin's digital-gold claim and extends gold's role as a temporary backup anchor under monetary uncertainty.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-06] lint | Wiki health check
 

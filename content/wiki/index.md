@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [130. 谁才是生物医药行业发展的核心驱动力？兼谈创新药产业链的角色分工](sources/130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh.md) — 起朱楼宴宾客 episode mapping innovation-drug industry roles across BioTech, BioPharm, MNCs, CXO, academia, hospitals, regulators, payers, and capital, with commercialization capability as the key boundary.
 - [129.货币的本质，以及黄金的真正价值 | 串台十分吸引](sources/129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb.md) — 起朱楼宴宾客 crossover with 十分吸引 on money as flow, endogenous credit creation, payment-clearing networks, currency-anchor transition, gold as a spare monetary anchor, Bitcoin's network-value claim, and currency risk as wealth-measurement risk.
 - [vol.128.关税战下一步走向何方？美国人民如何看待特朗普“百日新政”？| 狂喜播客节·对话仲树&Talich](sources/vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb.md) — 起朱楼宴宾客 live discussion on the May 2025 tariff-war moment, Trump victory-narrative bargaining, China as a campaign enemy, tariff consumer-price pass-through, exemptions, gray routing chains, research-funding cuts, TikTok as bargaining chip, DOGE/OMB agency pressure, and Fed independence risk.
 - [vol.127.年报季中的真实中国2025](sources/vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv.md) — 起朱楼宴宾客 episode using 2024 annual reports to read China's weak demand, company impairment and REIT signals, private-enterprise evolution, scale economies, technology innovation, global resource allocation, and the social cost of gladiator-style competition.
@@ -798,6 +799,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Daiichi Sankyo / 第一三共](entities/DaiichiSankyo.md) — Japanese pharma company cited in vol.120 as evidence that Japan retained globally meaningful drug-industry capacity after pricing and generic-drug reform.
 - [Takeda Pharmaceutical / 武田制药](entities/TakedaPharmaceutical.md) — Japanese pharma company cited in vol.120 as part of the industry outcome of Japan's post-crisis drug-pricing and quality reforms.
 - [知青小酒馆 / Zhiqing Xiaojiuguan](entities/ZhiqingXiaojiuguan.md) — Crossover partner in vol.118, where single aging is treated as life-system planning rather than only retirement finance.
+- [大白牛老师 / Daba Niu Teacher](entities/DabaNiuTeacher.md) — Clinical-development guest in episode 130, grounding the role map in doctors, patients, trials, and development execution.
 - [小P老师 / Xiao P Teacher](entities/XiaoPTeacher.md) — Biotech early-research guest in vol.117, grounding the episode's sober 2025 view of PD-1, CAR-T, ADC, AI drug, and cross-border biotech transactions.
 - [Akeso / 康方生物](entities/Akeso.md) — Chinese biotech company used by vol.117 as the central PD-1/VEGF bispecific and China asset-repricing example.
 - [BeiGene / 百济神州](entities/BeiGene.md) — Chinese biotech company used by vol.117 as a self-globalization case beyond ordinary license-out.
@@ -807,6 +809,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Keytruda / K药](entities/Keytruda.md) — Merck PD-1 blockbuster used by vol.117 as the comparator for PD-1 saturation, PD-1/VEGF data, and patent-cliff pressure.
 - [AstraZeneca / 阿斯利康](entities/AstraZeneca.md) — Multinational pharma example in vol.117's China biotech asset-buying pattern.
 - [Bristol Myers Squibb / BMS](entities/BristolMyersSquibb.md) — Earlier PD-1 mover used by vol.117 to show how clinical-development execution can overtake first entry.
+- [Roche / 罗氏](entities/Roche.md) — MNC example in episode 130, used for therapeutic-area depth and Genentech-style external innovation absorption.
+- [Pfizer / 辉瑞](entities/Pfizer.md) — MNC example in episode 130's distinction between drug companies and global pharma portfolio operators.
+- [Genmab](entities/Genmab.md) — Biotech/BioPharm example in episode 130 showing that valuable products can still depend on larger partners for commercialization.
+- [Amgen / 安进](entities/Amgen.md) — Mature BioPharm comparison case in episode 130's BioPharm-to-MNC boundary discussion.
+- [Regeneron / 再生元](entities/Regeneron.md) — BioPharm comparison case in episode 130's stricter MNC-capability discussion.
+- [AbbVie / 艾伯维](entities/AbbVie.md) — Pharma company in episode 130's example of drug assets moving through multiple companies and commercialization partnerships.
+- [China Center for Drug Evaluation / CDE](entities/ChinaCenterForDrugEvaluation.md) — Chinese drug-review institution named in episode 130 as a regulator in the innovation-drug ecosystem.
+- [National Healthcare Security Administration / 国家医保局](entities/NationalHealthcareSecurityAdministration.md) — Chinese payer-side institution named in episode 130 as part of the innovation-drug access and reimbursement system.
 - [Kelun-Biotech / 科伦博泰](entities/KelunBiotech.md) — Chinese ADC company example in vol.117's licensing and engineering-optimization discussion.
 - [Innovent Biologics / 信达生物](entities/InnoventBiologics.md) — Chinese biotech company connected by vol.117 to dual-payload ADC exploration.
 - [惠子 / Keiko (boxer)](entities/KeikoBoxer.md) — Hearing-impaired female boxer whose path through school isolation, boxing refusal, professional entry, and later support work anchors episode 88.
@@ -5262,6 +5272,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dual-Payload ADC](concepts/DualPayloadADC.md) — More complex ADC direction discussed in vol.117, promising resistance management but raising CMC, QC, and cost burdens.
 - [Long-Acting HIV Prevention](concepts/LongActingHIVPrevention.md) — Gilead-linked prevention direction in vol.117 built around long dosing interval and vaccine-like practical effect.
 - [China Biotech Globalization](concepts/ChinaBiotechGlobalization.md) — BeiGene-style route of building global commercial capability instead of mainly licensing assets to MNCs.
+- [BioTech To BioPharm Transition](concepts/BioTechToBioPharmTransition.md) — Episode 130 boundary where commercialization and clinical-development capability matter more than company size.
+- [Global Pharma Commercialization](concepts/GlobalPharmaCommercialization.md) — MNC capability frame around global registration, launch, market access, lifecycle expansion, BD, and portfolio management.
+- [Drug Development Outsourcing / CXO](concepts/DrugDevelopmentOutsourcing.md) — CRO, CDMO, CSO, and related services that decompose the drug-development workflow for smaller companies.
+- [Academic Biotech Translation](concepts/AcademicBiotechTranslation.md) — Conversion of university or research-institute discoveries into drug assets and companies.
+- [Clinical Development Capability](concepts/ClinicalDevelopmentCapability.md) — Trial, regulatory, indication-expansion, and evidence-building capability that turns molecules into valuable drugs.
+- [First-In-Class Drug Discovery Role Split](concepts/FirstInClassDrugDiscoveryRoleSplit.md) — Role split where small companies or academia often originate molecules while large pharma frequently owns or launches them.
+- [Biotech Capital Cycle](concepts/BiotechCapitalCycle.md) — Financing cycle linking VC, public markets, MNC cash flow, BD, licensing, and exits in innovation-drug development.
+- [Unmet Medical Need Demand Pull](concepts/UnmetMedicalNeedDemandPull.md) — Patient, physician, hospital, and disease-burden demand layer behind innovation-drug development.
 - [AI Clinical Validation In Drug Discovery](concepts/AIClinicalValidationInDrugDiscovery.md) — Vol.117 check on AI drug narratives: molecular design and target selection still have to survive clinical data.
 - [In Vivo mRNA CAR-T](concepts/InVivoMRNACART.md) — Vol.117 route using mRNA-LNP delivery to generate CAR-T-like cells inside the body, with short persistence as a key tradeoff.
 - [Finite-Game Biotech Competition](concepts/FiniteGameBiotechCompetition.md) — Vol.117 shift from pure breakthrough expectation toward clinical, manufacturing, pricing, BD, and engineering differentiation.

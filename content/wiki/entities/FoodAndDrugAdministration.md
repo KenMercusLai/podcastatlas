@@ -2,8 +2,8 @@
 title: "Food and Drug Administration"
 type: entity
 tags: [organization, regulator, healthcare, food, drugs]
-sources: [tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, a-trip-to-the-magic-mushroom-megachurch, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh, tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, a-trip-to-the-magic-mushroom-megachurch, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
+last_updated: 2026-08-06
 ---
 
 # Food and Drug Administration
@@ -15,6 +15,8 @@ The Food and Drug Administration appears in [[why-is-there-a-supplement-craze-if
 [[e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]] adds a drug-regulation context through [[CARTCellTherapy|CAR-T]]. [[LiuCheng|刘诚]] says the U.S. ultimately treated CAR-T as a drug rather than only as a medical technology, which made it subject to drug-style FDA review and safety labeling. The source also uses FDA approval thresholds and early CD19 CAR-T black-box-warning context to show why efficacy, manufacturing, and [[CytokineReleaseSyndrome|immune toxicity]] have to be evaluated together.
 
 [[tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]] adds a gray-market peptide version. [[JasmineSun]] says users may buy injectable compounds as research chemicals from suppliers not held to FDA-approved manufacturing standards, even when the substances are personally injected and labeled "not for human use." The source makes FDA approval a practical boundary around evidence, contents, manufacturing, labeling, and clinical oversight rather than a mere bureaucratic delay.
+
+[[130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh]] adds the FDA as an innovation-drug ecosystem actor. The episode uses FDA approvals and oncology First-in-Class data to explain why regulators shape [[ClinicalDevelopmentCapability|clinical development]], evidence standards, and the division of labor between small discovery teams and large pharma launch organizations.
 
 [[a-trip-to-the-magic-mushroom-megachurch]] adds the FDA as a possible future clinical-trial pathway rather than the main current regulator. [[JohnRapp]] hopes psilocybin will move through FDA clinical trials, which contrasts with the source's central religious-exemption route through the [[DrugEnforcementAdministration]] and [[ControlledSubstancesAct]].
 
@@ -39,3 +41,4 @@ The episode also uses the FDA in the [[Prevagen]] story. According to the source
 - [[CARTCellTherapy]], [[ExVivoCARTManufacturing]], and [[CytokineReleaseSyndrome]] - drug-review and safety-labeling context added by E235.
 - [[Theranos]], [[TylerShultz|Tyler Shultz]], [[CentersForMedicareAndMedicaidServices|CMS]], and [[MedicalTestingValidationIntegrity]] - diagnostic-lab inspection context added by The Social Radars.
 - [[NVisionMedical|nVision Medical]], [[SurbhiSarna]], [[FallopianTubeAccessDiagnostics]], and [[MedicalDeviceClinicalValidation]] - medical-device clearance context added by The Social Radars.
+- [[ChinaCenterForDrugEvaluation]], [[FirstInClassDrugDiscoveryRoleSplit]], and [[ClinicalDevelopmentCapability]] - innovation-drug regulation context added by episode 130.

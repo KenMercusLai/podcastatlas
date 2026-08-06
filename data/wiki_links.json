@@ -183,6 +183,10 @@
     "title": "13.悲伤的力量：谈谈丧亲之痛",
     "url": "/wiki/sources/13-beishang-de-liliang-tantan-sangqin-zhitong-551507792/"
   },
+  "130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh": {
+    "title": "130. 谁才是生物医药行业发展的核心驱动力？兼谈创新药产业链的角色分工",
+    "url": "/wiki/sources/130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh/"
+  },
   "130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569": {
     "title": "130.托卡尔丘克《怪诞故事集》：寻找和告别",
     "url": "/wiki/sources/130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569/"
@@ -1783,6 +1787,10 @@
     "title": "Aaron (What's Next guest)",
     "url": "/wiki/entities/aaronwhatsnext/"
   },
+  "AbbVie": {
+    "title": "AbbVie / 艾伯维",
+    "url": "/wiki/entities/abbvie/"
+  },
   "AbbeyOfMonteCassino": {
     "title": "卡西诺修道院 / Abbey of Monte Cassino",
     "url": "/wiki/entities/abbeyofmontecassino/"
@@ -1814,6 +1822,10 @@
   "AbuDhabi": {
     "title": "Abu Dhabi / 阿布扎比",
     "url": "/wiki/entities/abudhabi/"
+  },
+  "AcademicBiotechTranslation": {
+    "title": "Academic Biotech Translation",
+    "url": "/wiki/concepts/academicbiotechtranslation/"
   },
   "AcademicFreedom": {
     "title": "Academic Freedom",
@@ -2754,6 +2766,10 @@
   "AmericanSportsCapitalInEuropeanFootball": {
     "title": "American Sports Capital In European Football",
     "url": "/wiki/concepts/americansportscapitalineuropeanfootball/"
+  },
+  "Amgen": {
+    "title": "Amgen / 安进",
+    "url": "/wiki/entities/amgen/"
   },
   "AmirRashidi": {
     "title": "Amir Rashidi",
@@ -4343,6 +4359,10 @@
     "title": "Bio-Oil Carbon Removal",
     "url": "/wiki/concepts/biooilcarbonremoval/"
   },
+  "BioTechToBioPharmTransition": {
+    "title": "BioTech To BioPharm Transition",
+    "url": "/wiki/concepts/biotechtobiopharmtransition/"
+  },
   "BiodegradableAmazonPlastics": {
     "title": "Biodegradable Amazon Plastics",
     "url": "/wiki/concepts/biodegradableamazonplastics/"
@@ -4358,6 +4378,10 @@
   "BioregionalResilience": {
     "title": "Bioregional Resilience",
     "url": "/wiki/concepts/bioregionalresilience/"
+  },
+  "BiotechCapitalCycle": {
+    "title": "Biotech Capital Cycle",
+    "url": "/wiki/concepts/biotechcapitalcycle/"
   },
   "BiotechFounderControl": {
     "title": "Biotech Founder Control",
@@ -5947,6 +5971,10 @@
     "title": "China Cell Therapy Regulatory Dual Track",
     "url": "/wiki/concepts/chinacelltherapyregulatorydualtrack/"
   },
+  "ChinaCenterForDrugEvaluation": {
+    "title": "China Center for Drug Evaluation / CDE",
+    "url": "/wiki/entities/chinacenterfordrugevaluation/"
+  },
   "ChinaCentralTelevision": {
     "title": "中央广播电视总台 / China Central Television",
     "url": "/wiki/entities/chinacentraltelevision/"
@@ -6486,6 +6514,10 @@
   "ClimateStartupCommercializationGap": {
     "title": "Climate Startup Commercialization Gap",
     "url": "/wiki/concepts/climatestartupcommercializationgap/"
+  },
+  "ClinicalDevelopmentCapability": {
+    "title": "Clinical Development Capability",
+    "url": "/wiki/concepts/clinicaldevelopmentcapability/"
   },
   "ClioCapital": {
     "title": "Clio Capital",
@@ -7658,6 +7690,10 @@
   "DaLuobo": {
     "title": "呆萝卜 / Da Luobo",
     "url": "/wiki/entities/daluobo/"
+  },
+  "DabaNiuTeacher": {
+    "title": "大白牛老师 / Daba Niu Teacher",
+    "url": "/wiki/entities/dabaniuteacher/"
   },
   "Dafeixin": {
     "title": "达菲辛 / Dafeixin",
@@ -8974,6 +9010,10 @@
   "DrowningForensicUncertainty": {
     "title": "Drowning Forensic Uncertainty",
     "url": "/wiki/concepts/drowningforensicuncertainty/"
+  },
+  "DrugDevelopmentOutsourcing": {
+    "title": "Drug Development Outsourcing / CXO",
+    "url": "/wiki/concepts/drugdevelopmentoutsourcing/"
   },
   "DrugEnforcementAdministration": {
     "title": "Drug Enforcement Administration",
@@ -10727,6 +10767,10 @@
     "title": "First Draft Thinking",
     "url": "/wiki/concepts/firstdraftthinking/"
   },
+  "FirstInClassDrugDiscoveryRoleSplit": {
+    "title": "First-In-Class Drug Discovery Role Split",
+    "url": "/wiki/concepts/firstinclassdrugdiscoveryrolesplit/"
+  },
   "FirstKamchatkaExpedition": {
     "title": "First Kamchatka Expedition / 第一次勘察加探险",
     "url": "/wiki/entities/firstkamchatkaexpedition/"
@@ -11931,6 +11975,10 @@
     "title": "金利·艾 / Genly Ai",
     "url": "/wiki/entities/genlyai/"
   },
+  "Genmab": {
+    "title": "Genmab",
+    "url": "/wiki/entities/genmab/"
+  },
   "GenreLiteraryLegitimacy": {
     "title": "Genre Literary Legitimacy / 类型文学正名",
     "url": "/wiki/concepts/genreliterarylegitimacy/"
@@ -12122,6 +12170,10 @@
   "GlobalLogisticsCoordination": {
     "title": "Global Logistics Coordination",
     "url": "/wiki/concepts/globallogisticscoordination/"
+  },
+  "GlobalPharmaCommercialization": {
+    "title": "Global Pharma Commercialization",
+    "url": "/wiki/concepts/globalpharmacommercialization/"
   },
   "GlobalProductLocalization": {
     "title": "Global Product Localization",
@@ -19923,6 +19975,10 @@
     "title": "National Goods Branding",
     "url": "/wiki/concepts/nationalgoodsbranding/"
   },
+  "NationalHealthcareSecurityAdministration": {
+    "title": "National Healthcare Security Administration / 国家医保局",
+    "url": "/wiki/entities/nationalhealthcaresecurityadministration/"
+  },
   "NationalHockeyLeague": {
     "title": "National Hockey League / NHL",
     "url": "/wiki/entities/nationalhockeyleague/"
@@ -21891,6 +21947,10 @@
     "title": "Pew Research Center",
     "url": "/wiki/entities/pewresearchcenter/"
   },
+  "Pfizer": {
+    "title": "Pfizer / 辉瑞",
+    "url": "/wiki/entities/pfizer/"
+  },
   "PharmaceuticalEcommerce": {
     "title": "Pharmaceutical Ecommerce",
     "url": "/wiki/concepts/pharmaceuticalecommerce/"
@@ -23719,6 +23779,10 @@
     "title": "Reform UK",
     "url": "/wiki/entities/reformuk/"
   },
+  "Regeneron": {
+    "title": "Regeneron / 再生元",
+    "url": "/wiki/entities/regeneron/"
+  },
   "RegionalAdministrativeFragmentation": {
     "title": "Regional Administrative Fragmentation",
     "url": "/wiki/concepts/regionaladministrativefragmentation/"
@@ -24374,6 +24438,10 @@
   "RobustnessChecks": {
     "title": "Robustness Checks",
     "url": "/wiki/concepts/robustnesschecks/"
+  },
+  "Roche": {
+    "title": "Roche / 罗氏",
+    "url": "/wiki/entities/roche/"
   },
   "RockbridgeNetwork": {
     "title": "Rockbridge Network",
@@ -29318,6 +29386,10 @@
   "UniversityOpportunityDensity": {
     "title": "University Opportunity Density",
     "url": "/wiki/concepts/universityopportunitydensity/"
+  },
+  "UnmetMedicalNeedDemandPull": {
+    "title": "Unmet Medical Need Demand Pull",
+    "url": "/wiki/concepts/unmetmedicalneeddemandpull/"
   },
   "UnprotectedOverseasWork": {
     "title": "Unprotected Overseas Work",
