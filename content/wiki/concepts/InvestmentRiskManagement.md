@@ -40,6 +40,7 @@ sources:
   - vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe
   - vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x
   - vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8
+  - vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3
   - ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv
 last_updated: 2026-08-06
 ---
@@ -61,6 +62,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 [[vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]] adds the pension-account version: risk management inside a [[PersonalPensionAccount|个人养老金账户]] means matching tax benefit, contribution rhythm, retirement date, product type, and drawdown holdability. The source treats low-fee index funds, FOF, and [[TargetDateFund|target-date funds]] as different risk paths rather than as universally ranked products.
 
 [[vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]] adds the worldview-fit version: risk management begins by refusing to copy a style that contradicts the investor's own view of uncertainty, rules, leverage, or time. Cash buffers, diversification, no all-in bets, and global perspective are treated as behaviorally durable choices for the host's worldview, while other investors may legitimately choose different roads if they can survive them.
+
+[[vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3]] adds the research-consumption version: using [[BrokerageResearchReports|brokerage research reports]] safely means separating evidence from recommendation pressure. Reports can improve data, context, and industry framing, but public ratings, target prices, and conclusions should not override position sizing, liquidity, [[PortfolioSuitability]], or the investor's own [[CircleOfCompetence]].
 
 [[ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]] adds the retail-gold version: even an asset associated with safety can create stress when the buyer enters after a fast run-up, allocates too much, or uses borrowed money. The source treats gold's form factor - jewelry, physical gold, accumulated grams, or ETF-like exposure - as part of risk management because each route changes liquidity, premium, and behavior.
 
@@ -170,6 +173,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[AdaptivePortfolioDesign]] favors diverse and liquid enough structures over repeated all-in or all-out regime calls by ordinary investors.
 - Pension-account risk management should evaluate whether the investor can hold direct [[PassiveInvesting|index beta]] or needs FOF and [[TargetDateFund|target-date]] discipline to stay aligned with retirement goals.
 - Vol.110 adds that style mismatch is itself a risk: borrowed conviction from an influencer, famous manager, or friend can fail when the investor cannot emotionally or philosophically hold the method.
+- Vol.119 adds that borrowed conviction from a public sell-side report is also a risk: the report may be late, compliance-filtered, incentive-shaped, or missing the private client context behind the analyst's sharper view.
 - EP268 adds that gold risk management begins with purpose, size, and funding source: the same gold purchase can be a long-term reserve, a gift, a monthly reward, or a stressful speculation depending on those inputs.
 - Vol.112 adds that non-consensus macro frameworks need a risk boundary: investors must distinguish structural possibility from company earnings, cash flow, valuation repair, and a fund manager's holdable process.
 - Vol.115 adds that an asset ranking is not an allocation plan until it names position role, time horizon, drawdown tolerance, and whether the expected return now comes from carry, cash flow, valuation repair, or future belief.

@@ -5916,3 +5916,11 @@ Added source page for a 起朱楼宴宾客 crossover with 知青小酒馆 on sin
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | vol.119.券商研究报告还值得读吗？
+
+Added source page for a 起朱楼宴宾客 episode with 大卫翁 on whether brokerage research reports are worth reading, how sell-side research institutes serve buy-side clients, why public reports are only one visible layer of a service business, how compliance and incentives shape expression, which report types are more useful, and how ordinary investors should extract data and frameworks without copying recommendations. Created pages for Brokerage Research Reports and Research Report Reading Discipline; updated overview, index, 起朱楼宴宾客, 大卫翁, Sell-Side Research Incentives, Macro Research Public Expression, Investment Risk Management, Portfolio Suitability, Passive Investing, and Active Management Style Evolution. No direct contradiction found; the source reinforces earlier sell-side incentive and macro public-expression pages while adding a general report-reading rule: useful evidence can coexist with weak standalone advice.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

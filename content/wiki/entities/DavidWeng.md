@@ -2,7 +2,7 @@
 title: "大卫翁 / David Weng"
 type: entity
 tags: [person, podcast, investing]
-sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]
+sources: [vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]
 last_updated: 2026-08-06
 ---
 
@@ -20,6 +20,8 @@ In [[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-ji
 
 In [[vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]], he hosts [[XiaoPTeacher|小P老师]] for a biotech review that keeps research, BD, company execution, and investing caveats in the same frame. His synthesis turns 2024-2025 biopharma into [[FiniteGameBiotechCompetition]]: fewer pure miracles, more competition over clinical data, cross-border asset pricing, transaction structures, and differentiated engineering.
 
+In [[vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3]], he draws on his earlier brokerage research-institute work to explain [[BrokerageResearchReports|brokerage research reports]] as a service artifact rather than a public stock-picking answer. His practical advice is [[ResearchReportReadingDiscipline]]: read data, objective information, and frameworks, but do not outsource investing judgment to public recommendations, ratings, or target prices.
+
 ## Connections
 - [[QizhulouYanBinke|起朱楼宴宾客]] — source show.
 - [[SanDianXiaban|三点下班]] and [[Haoge|浩哥]] — crossover partner and conversation counterpart.
@@ -30,3 +32,4 @@ In [[vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei
 - [[JapaneseSogoShosha]], [[MitsubishiCorporation]], [[MitsuiAndCo]], [[Itochu]], [[SumitomoCorporation]], and [[Marubeni]] — vol.108 Japanese trading-company branch.
 - [[Ricky]], [[ChinaPolicyEasingPivot]], [[AHShare2025Barbell]], [[BondFundReturnExpectationReset]], and [[USMegaCapTechRightSideTrade]] — vol.115 macro and market outlook branch.
 - [[XiaoPTeacher]], [[ChinaBiotechAssetRepricing]], [[ReverseNewCoBiotechModel]], [[ChinaBiotechGlobalization]], and [[FiniteGameBiotechCompetition]] — vol.117 biotech and pharma-industry branch.
+- [[BrokerageResearchReports]], [[SellSideResearchIncentives]], [[ResearchReportReadingDiscipline]], and [[MacroResearchPublicExpression]] — vol.119 sell-side research branch.

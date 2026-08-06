@@ -2,8 +2,8 @@
 title: "Passive Investing"
 type: concept
 tags: [investing, index-funds]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vanguard-1]
-last_updated: 2026-07-23
+sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vanguard-1]
+last_updated: 2026-08-06
 ---
 
 # Passive Investing
@@ -28,6 +28,8 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 
 [[far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]] adds the forced-exposure caveat through [[SpaceX]]. If a very large post-IPO company enters major indices, passive funds and pension portfolios may buy it automatically, creating [[IndexFundAutomaticExposure]] even for savers who never made a direct SpaceX valuation decision.
 
+[[vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3]] adds the active-research feedback loop. The episode argues that indexation can reduce demand for active sell-side research, but if passive ownership becomes high enough, fewer investors may do price-discovery work, making patient active research valuable again for those with process, information discipline, and [[ResearchReportReadingDiscipline]].
+
 ## Key Claims
 - For many investors, broad index funds may offer a better balance of return, effort, cost, and emotional burden than active trading.
 - The Vanguard source adds that passive investing's ordinary-investor value depends heavily on cost, distribution, and ownership structure, not only on the index methodology.
@@ -45,6 +47,7 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 - E43 adds that broad passive exposure is a humble response to fat tails: it captures some upside concentration without requiring professional [[TailRiskHedging]].
 - The SpaceX segment adds that passive investing can inherit single-name IPO and valuation risk through benchmark inclusion.
 - Vol.109 adds that in pension accounts, low fees and transparency are advantages but do not remove the need for retirement-horizon allocation and drawdown holdability.
+- Vol.119 adds that passive adoption can shrink sell-side research demand while preserving a cyclic need for active research if price discovery weakens.
 - The Acquired Vanguard source adds that index funds can create market-wide governance questions when large passive managers accumulate voting power and common ownership.
 
 ## Connections
@@ -61,3 +64,4 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 - [[DiversificationAlpha]] and [[NoPredictionTrading]] — E144's reason broad exposure can reduce dependence on winner prediction.
 - [[MengYan]], [[FatTailRisk]], and [[TailRiskHedging]] — E43's ordinary-investor interpretation of fat-tail return concentration.
 - [[PersonalPensionAccount|个人养老金账户]], [[TargetDateFund|目标日期基金]], and [[FOFProductDesign]] — vol.109's pension-account comparison between direct beta and managed allocation products.
+- [[BrokerageResearchReports]], [[SellSideResearchIncentives]], and [[ResearchReportReadingDiscipline]] — vol.119's active-research feedback loop.

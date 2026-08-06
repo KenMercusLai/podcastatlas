@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.119.券商研究报告还值得读吗？](sources/vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3.md) — 起朱楼宴宾客 episode with 大卫翁 on brokerage research reports, sell-side research institutes, buy-side service, compliance pressure, report types, macro/strategy expression, passive investing, and how ordinary investors should read reports without outsourcing judgment.
 - [vol.118.单身人士养老指南：不是孤独的代名词，是更早掌握人生的主动权](sources/vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt.md) — 起朱楼宴宾客 crossover with 知青小酒馆 on single/solo aging, retirement cash flow, aging in place, health, relationship capital, cognitive-decline planning, and solo death preparedness.
 - [vol.117.生物医药的2025：抄底中国、研发焦虑和新王继位](sources/vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7.md) — 起朱楼宴宾客 episode with 大卫翁 and 小P老师 on China biotech asset repricing, MNC patent-cliff anxiety, license-out and reverse NewCo structures, PD-1/VEGF, TCE, ADC, GLP-1, HIV prevention, BeiGene globalization, AI drug, and in vivo mRNA CAR-T.
 - [Vol.115 全球宏观和资本市场2025展望：短期问题不解决，就没有中期和长期了](sources/vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx.md) — 起朱楼宴宾客 episode with 大卫翁 and Ricky on China policy easing, fiscal transmission, A/H equity barbell strategy, bond-return expectations, U.S. mega-cap tech, gold, commodities, and cash optionality.
@@ -2831,7 +2832,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [华夏基金 / ChinaAMC](entities/ChinaAMC.md) — Fund-management company context for vol.105's opening mention of the 红色火箭 index-investing tool.
 - [时雷 / Shi Lei](entities/ShiLei.md) — Asset-allocation commentator referenced by vol.105 for complex adaptive systems and localizing Bridgewater-style all-weather thinking.
 - [十分吸引 / Shifen Xiyin](entities/ShifenXiyin.md) — Shi Lei's podcast, referenced by vol.105 as a more technical allocation discussion source.
-- [大卫翁 / David Weng](entities/DavidWeng.md) — 起朱楼宴宾客 host connecting Hong Kong retail-investing survival, Dubai field-report questions, 95后 generational interviews, Japan business history, and vol.115 macro allocation framing.
+- [大卫翁 / David Weng](entities/DavidWeng.md) — 起朱楼宴宾客 host connecting Hong Kong retail-investing survival, Dubai field-report questions, Japan business history, macro allocation, biotech, and sell-side research-report reading.
 - [三点下班 / San Dian Xiaban](entities/SanDianXiaban.md) — Podcast crossover partner for vol.104, represented through 浩哥's Hong Kong stock-picking and survival discussion.
 - [浩哥 / Haoge](entities/Haoge.md) — 三点下班 speaker in vol.104, contributing retail Hong Kong investing cases around early wins, illiquid losses, IPO paths, and fast stop-loss discipline.
 - [China Mobile / 中国移动](entities/ChinaMobile.md) — Hong Kong-listed telecom SOE used in vol.104 as a sanction-driven mispricing and high-dividend example.
@@ -3016,7 +3017,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [蝴蝶牌](entities/ButterflyBrand.md) — Chen Diexian's tooth-powder and cosmetics brand, combining beauty imagery, trademark strategy, national-goods rhetoric, and consumer trust.
 - [家庭工业社](entities/JiatingGongyeshe.md) — Light-industrial company founded by Chen Diexian, growing from tooth powder into cosmetics, packaging, raw materials, and wartime factory migration.
 - [《女子世界》](entities/NushiShijie.md) — Women's magazine context for Chen Diexian's cosmetics-formula column and household-chemistry authority building.
-- [起朱楼宴宾客 / Qizhulou Yan Binke](entities/QizhulouYanBinke.md) — Podcast show represented across Trump-policy, AI, asset-allocation, macro outlook, investment-worldview, Japan-youth, quant-history, Hong Kong investing, portfolio-suitability, Dubai-opportunity, and youth-generational-dialogue episodes.
+- [起朱楼宴宾客 / Qizhulou Yan Binke](entities/QizhulouYanBinke.md) — Podcast show represented across Trump-policy, AI, asset allocation, macro outlook, Japan business, quant history, Hong Kong investing, retirement planning, biotech, and sell-side research episodes.
 - [Project 2025](entities/Project2025.md) — Heritage-linked conservative transition project treated as a personnel, training, document, and governing-architecture effort to institutionalize Trumpism.
 - [Mandate for Leadership 2025](entities/MandateForLeadership2025.md) — Project 2025 policy-document layer with department-level recommendations, transition planning, and conservative administrative-state critique.
 - [Heritage Foundation](entities/HeritageFoundation.md) — Conservative think tank behind Project 2025 and the Mandate for Leadership tradition discussed as governing handoff infrastructure.
@@ -5119,6 +5120,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Brokerage Research Reports](concepts/BrokerageResearchReports.md) — Sell-side report artifacts used by buy-side service businesses, valuable for data and frameworks but weak as public trading instructions.
+- [Research Report Reading Discipline](concepts/ResearchReportReadingDiscipline.md) — Ordinary-investor method for extracting data and frameworks from brokerage reports while discounting ratings, target prices, and delayed or incentive-shaped conclusions.
 - [Solo Aging Planning / 单身养老规划](concepts/SoloAgingPlanning.md) — Vol.118 frame for preparing money, residence, health, relationships, emotions, cognition, and death arrangements before solo later life becomes crisis.
 - [Active Solo Living / 主动独居](concepts/ActiveSoloLiving.md) — Distinction between chosen solo living with support and forced isolation caused by poverty, weak care systems, or social exclusion.
 - [Retirement Cash-Flow Security](concepts/RetirementCashFlowSecurity.md) — Late-life income reliability frame around annuity-like certainty, passive income, work extension, reverse mortgages, and outliving-money anxiety.
