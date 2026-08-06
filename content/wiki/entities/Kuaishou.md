@@ -2,11 +2,13 @@
 title: "Kuaishou"
 type: entity
 tags: [company, short-video, social-platform, china]
-sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]
-last_updated: 2026-07-09
+sources: [141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]
+last_updated: 2026-08-06
 ---
 
 # Kuaishou
+
+[[141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]] adds Kuaishou as one of the short-video surfaces where [[CreatorDrivenFinancialNarrative]] may travel. The source groups it with [[Xiaohongshu]], [[Douyin]], public accounts, podcasts, and investment communities as part of a platform-shaped market narrative environment.
 
 Kuaishou appears in [[musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz]] as the short-video UGC ecosystem that the [[MusicalLy]] team admired. [[Vanessa]] says Kuaishou showed a breadth of ordinary life, niche interests, and everyday users that early Musical.ly and [[Douyin]] had not fully grown.
 
@@ -25,6 +27,7 @@ The source uses Kuaishou as a contrast case for short-video ecology. Musical.ly 
 - Episode 266 adds Kuaishou as a short-drama/comic-drama distribution context.
 - Episode 7 adds Kuaishou as both a Brazil-market competitor and a warning that overseas red-packet-style acquisition can collide with fraud, payment, PR, and legal risks.
 - Episode 8 adds Kuaishou Lite as the strongest domestic proof that [[LiteAppGrowth]] can scale when backed by a real short-video consumption and monetization system.
+- Episode 141 adds Kuaishou as a market-narrative distribution surface rather than a product-mechanics case.
 
 ## Connections
 - [[MusicalLy]], [[TikTok]], and [[Douyin]] — comparison platforms.
@@ -34,3 +37,4 @@ The source uses Kuaishou as a contrast case for short-video ecology. Musical.ly 
 - [[AIShortDrama]] and [[ShortDramaEconomics]] — short-drama category and paid-traffic economics added by episode 266.
 - [[TikTok]], [[Zynn]], [[RedPacketGrowth]], and [[GrowthRiskControl]] — overseas growth and incentive-risk context added by episode 7.
 - [[KuaishouLite]], [[DouyinLite]], [[LiteAppGrowth]], and [[GrowthROILayers]] — domestic Lite-app incentive context added by episode 8.
+- [[CreatorDrivenFinancialNarrative]], [[InformationCocoon]], [[Xiaohongshu]], [[Douyin]], and [[Xueqiu]] — episode 141's creator and market-narrative extension.

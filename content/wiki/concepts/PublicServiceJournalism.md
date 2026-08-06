@@ -2,8 +2,8 @@
 title: "Public Service Journalism"
 type: concept
 tags: [journalism, public-media, democracy]
-sources: [tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, congress-has-voted-to-eliminate-government-funding-for-public-media, stefan-sagmeister-finally-something-good-yqqxftsvema]
-last_updated: 2026-07-25
+sources: [141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, congress-has-voted-to-eliminate-government-funding-for-public-media, stefan-sagmeister-finally-something-good-yqqxftsvema]
+last_updated: 2026-08-06
 ---
 
 # Public Service Journalism
@@ -22,6 +22,8 @@ The source connects this mission to [[PublicMediaFunding]] because the appeal ar
 
 [[tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128]] adds a web-archive infrastructure boundary through the [[WaybackMachine|Wayback Machine]]. The episode says journalists use archived pages to track deleted or stealth-edited pages, so publisher blocking may protect against perceived [[AIProxyScrapingRisk]] while weakening tools that make accountability reporting possible.
 
+[[141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]] adds a self-media boundary through [[CreatorFactCheckingResponsibility]]. The source does not claim independent podcasters are newsrooms, but it uses the contrast with newsroom editing, neutrality norms, and fact-checking to argue that creators who influence public understanding inherit some journalism-like verification duties.
+
 ## Key Claims
 - Journalism can be justified as a public service when it informs communities and holds power accountable.
 - Public-service journalism depends on institutional and funding arrangements that protect access and independence.
@@ -31,6 +33,7 @@ The source connects this mission to [[PublicMediaFunding]] because the appeal ar
 - Ownership and approval dependence can threaten public-service journalism even when the newsroom itself has not changed its stated mission.
 - Investigative reporting can become public-service infrastructure when it lets isolated insiders surface safety-critical evidence without immediately standing alone.
 - Public-service journalism also depends on public records and archives that let reporters verify how web pages, government information, and institutional claims changed over time.
+- Creator media can borrow public-service functions when it informs audiences about markets, health systems, or institutions, but that borrowing increases verification responsibility.
 
 ## Connections
 - [[NPR]], [[KatherineMaher]], and [[PlanetMoney]] — organization, speaker, and feed context for the appeal.
@@ -42,3 +45,4 @@ The source connects this mission to [[PublicMediaFunding]] because the appeal ar
 - [[CBS]], [[CNN]], [[MediaOwnershipIndependenceRisk]], and [[PoliticalRegulatoryLeverage]] - ownership-independence branch added by 商业就是这样.
 - [[JohnCarreyrou|John Carreyrou]], [[WallStreetJournal|Wall Street Journal]], [[TylerShultz|Tyler Shultz]], [[Theranos]], [[WhistleblowerEvidenceDiscipline]], and [[WhistleblowerLegalIntimidation]] - investigative-accountability branch added by The Social Radars.
 - [[InternetArchive]], [[WaybackMachine|Wayback Machine]], [[PublicWebArchiving]], [[ArchiveAccessTradeoff]], and [[InternetHistoryFragility]] - web-archive accountability branch added by Marketplace Tech.
+- [[CreatorFactCheckingResponsibility]], [[PodcastAuthenticityBoundary]], [[DavidWeng|大卫翁]], and [[QiongQiong|琼琼]] - self-media verification branch added by episode 141.

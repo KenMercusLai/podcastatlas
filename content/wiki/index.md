@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [141.加更：因为播客，我受邀去哥伦比亚大学做访问学者了](sources/141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj.md) — 起朱楼宴宾客 personal addendum on David Weng's Columbia Journalism School visiting-scholar opportunity, podcast-enabled career paths, creator-driven financial narratives, creator fact-checking, algorithmic information cocoons, and situated U.S. media observation.
 - [140.酒店集团为什么都热衷于打造会员和积分体系？| 串台远行者与碎冰匠](sources/140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew.md) — 起朱楼宴宾客 crossover with 远行者与碎冰匠 on hotel loyalty programs, direct booking, OTA channel pressure, hotel brand portfolios, star-rating erosion, asset-light hotel groups, and service SOP versus human hospitality.
 - [139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？](sources/139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf.md) — 起朱楼宴宾客 episode linking Stefan Zweig's The World of Yesterday, Belle Epoque nostalgia, European integration, classed mobility, language, passports, digital-nomad housing pressure, Ukraine war, and EU decision limits.
 - [137.亲历日本生育补贴：国家帮我养娃，归来仍是“吞金兽”](sources/137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7.md) — 起朱楼宴宾客 episode with 霓虹电波 guests on Japan's child allowance, childbirth support, parental leave, childcare, child medical coverage, local welfare differences, education-cost pressure, and why subsidies ease burdens without fully solving low fertility.
@@ -761,6 +762,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Columbia Journalism School](entities/ColumbiaJournalismSchool.md) — Columbia University journalism school context for David Weng's visiting-scholar opportunity and media/financial-narrative research.
+- [琼琼 / Qiongqiong](entities/QiongQiong.md) — Listener and medical-journalism figure whose Japanese healthcare fact-checking case grounds creator fact-checking responsibility.
+- [雪球 / Xueqiu](entities/Xueqiu.md) — Chinese investor social platform used by episode 141 as part of the creator-driven financial-narrative ecosystem.
 - [远行者与碎冰匠 / Yuanxingzhe Yu Suibingjiang](entities/YuanxingzheYuSuibingjiang.md) — Crossover partner in episode 140, bringing travel and hospitality perspectives to hotel loyalty systems.
 - [猫草 / Maocao](entities/MaocaoYuanxingzhe.md) — 远行者与碎冰匠 speaker grounding episode 140 in frequent-traveler behavior and hotel points use.
 - [Cindy (远行者与碎冰匠)](entities/CindyYuanxingzhe.md) — Hotel-industry and consumer-research speaker in episode 140.
@@ -5240,6 +5244,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Creator-Driven Financial Narrative / 创作者驱动的财经叙事](concepts/CreatorDrivenFinancialNarrative.md) — Episode 141 research frame for how creators, podcasts, subscriptions, social platforms, and algorithms reshape macro and market narratives.
+- [Creator Fact-Checking Responsibility / 创作者事实核查责任](concepts/CreatorFactCheckingResponsibility.md) — Self-media verification duty sharpened by the source's Japanese healthcare fact-checking case.
+- [Podcast-Enabled Career Path / 播客带来的职业路径](concepts/PodcastEnabledCareerPath.md) — Long-term podcast work creating institutional, career, and research opportunities beyond direct monetization.
+- [Situated Media Observation / 在场的媒体观察](concepts/SituatedMediaObservation.md) — Media-specific observation-before-inference method for reducing secondhand bias when interpreting another society.
 - [Hotel Loyalty Programs](concepts/HotelLoyaltyPrograms.md) — Hotel points, elite tiers, benefits, direct booking, and guest-data systems used to turn one-off stays into repeat relationships.
 - [Customer Lifetime Value](concepts/CustomerLifetimeValue.md) — Repeat-relationship value frame used by episode 140 to explain why hotels invest in member benefits and direct channels.
 - [Hotel Direct Booking Channels](concepts/HotelDirectBookingChannels.md) — Hotel apps, websites, mini-programs, and loyalty portals used to reduce OTA dependence.

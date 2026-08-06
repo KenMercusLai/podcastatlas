@@ -2,8 +2,8 @@
 title: "Information Cocoon / 信息茧房"
 type: concept
 tags: [media, psychology, internet-culture, polarization]
-sources: [chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]
-last_updated: 2026-07-25
+sources: [141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]
+last_updated: 2026-08-06
 ---
 
 # Information Cocoon / 信息茧房
@@ -14,14 +14,20 @@ Information cocoon is the media environment where people mostly encounter signal
 
 The episode links information cocoons to online groups, politicized vaccine information, fandom identity, and public controversy. The cocoon does not need perfect censorship; it only needs enough selective exposure and social reward to make correction feel like outside hostility.
 
+[[141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]] adds the subscription-and-algorithm version. [[DavidWeng|大卫翁]] argues that subscriptions cluster people with similar interests and worldviews, while algorithmic feeds behave like an even more granular cocoon by using likes, shares, watch time, and topic reactions to keep routing users toward similar events and viewpoints.
+
 ## Key Claims
 - Selective exposure lowers the chance that contrary evidence reaches the person as usable evidence.
 - Group reward makes repeated claims feel more credible and safer to repeat.
 - A cocoon can make moderation feel like betrayal because the local norm has already moved.
 - Public argument can sometimes puncture the cocoon for bystanders even when insiders do not concede.
+- Subscriptions can isolate audience groups around preferred creators, while algorithmic feeds can isolate users around repeated event-level and viewpoint-level signals.
+- Market narratives can become more extreme when investment content spreads inside platform-shaped cocoons.
 
 ## Connections
 - [[GroupPolarization]] - dynamic that can intensify inside the cocoon.
 - [[TribalTruth]] - identity payoff protected by the cocoon.
 - [[HostileMediaEffect]] - outside information can be perceived as enemy bias.
 - [[PublicArgumentForBystanders]] - public speech as a way to leave evidence outside the closed group.
+- [[CreatorDrivenFinancialNarrative]] - episode 141's financial-market version of cocooned creator influence.
+- [[CreatorFactCheckingResponsibility]] - verification duty when creators speak inside closed or reinforcing audience groups.

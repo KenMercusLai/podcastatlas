@@ -339,6 +339,10 @@
     "title": "141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接",
     "url": "/wiki/sources/141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m/"
   },
+  "141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj": {
+    "title": "141.加更：因为播客，我受邀去哥伦比亚大学做访问学者了",
+    "url": "/wiki/sources/141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj/"
+  },
   "141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1": {
     "title": "141. 咖啡战争2026：机构化与本土化",
     "url": "/wiki/sources/141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1/"
@@ -6839,6 +6843,10 @@
     "title": "Color As Identity Disruption",
     "url": "/wiki/concepts/colorasidentitydisruption/"
   },
+  "ColumbiaJournalismSchool": {
+    "title": "Columbia Journalism School",
+    "url": "/wiki/entities/columbiajournalismschool/"
+  },
   "ColumbiaUniversity": {
     "title": "Columbia University",
     "url": "/wiki/entities/columbiauniversity/"
@@ -7439,9 +7447,17 @@
     "title": "Creator Culture",
     "url": "/wiki/concepts/creatorculture/"
   },
+  "CreatorDrivenFinancialNarrative": {
+    "title": "Creator-Driven Financial Narrative / 创作者驱动的财经叙事",
+    "url": "/wiki/concepts/creatordrivenfinancialnarrative/"
+  },
   "CreatorEvaluationPressure": {
     "title": "Creator Evaluation Pressure",
     "url": "/wiki/concepts/creatorevaluationpressure/"
+  },
+  "CreatorFactCheckingResponsibility": {
+    "title": "Creator Fact-Checking Responsibility / 创作者事实核查责任",
+    "url": "/wiki/concepts/creatorfactcheckingresponsibility/"
   },
   "CreatorOwnedAudience": {
     "title": "Creator-Owned Audience",
@@ -22627,6 +22643,10 @@
     "title": "Podcast Authenticity Boundary",
     "url": "/wiki/concepts/podcastauthenticityboundary/"
   },
+  "PodcastEnabledCareerPath": {
+    "title": "Podcast-Enabled Career Path / 播客带来的职业路径",
+    "url": "/wiki/concepts/podcastenabledcareerpath/"
+  },
   "PodcastIntimacy": {
     "title": "Podcast Intimacy",
     "url": "/wiki/concepts/podcastintimacy/"
@@ -23670,6 +23690,10 @@
   "Qingwen": {
     "title": "晴雯 / Qingwen",
     "url": "/wiki/entities/qingwen/"
+  },
+  "QiongQiong": {
+    "title": "琼琼 / Qiongqiong",
+    "url": "/wiki/entities/qiongqiong/"
   },
   "QiqiaoRitualPractice": {
     "title": "Qiqiao Ritual Practice",
@@ -26434,6 +26458,10 @@
   "SiriQizhulou": {
     "title": "Siri (起朱楼宴宾客)",
     "url": "/wiki/entities/siriqizhulou/"
+  },
+  "SituatedMediaObservation": {
+    "title": "Situated Media Observation / 在场的媒体观察",
+    "url": "/wiki/concepts/situatedmediaobservation/"
   },
   "SixSensesHotels": {
     "title": "Six Senses Hotels Resorts Spas",
@@ -31430,6 +31458,10 @@
   "XuePan": {
     "title": "薛蟠 / Xue Pan",
     "url": "/wiki/entities/xuepan/"
+  },
+  "Xueqiu": {
+    "title": "雪球 / Xueqiu",
+    "url": "/wiki/entities/xueqiu/"
   },
   "XujingQitan": {
     "title": "《虚境奇谭》",

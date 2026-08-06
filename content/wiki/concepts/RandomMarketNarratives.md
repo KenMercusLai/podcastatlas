@@ -2,8 +2,8 @@
 title: "Random Market Narratives"
 type: concept
 tags: [investing, markets, psychology, statistics]
-sources: [e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]
-last_updated: 2026-07-08
+sources: [141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]
+last_updated: 2026-08-06
 ---
 
 # Random Market Narratives
@@ -12,6 +12,8 @@ Random market narratives are the stories investors generate after observing pric
 
 The concept is a behavioral and statistical warning. It does not say all market stories are false; it says price paths can create plausible explanations faster than investors can prove causality. That makes narrative discipline part of [[InvestmentRiskManagement]], especially for [[TrendFollowing]] and quantitative systems that can otherwise confuse observed movement with reliable explanation.
 
+[[141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]] adds the creator-platform extension. The source argues that financial narratives can be actively amplified by podcasters, public-account writers, short-video creators, [[Xueqiu|雪球]] investors, and platforms such as [[Xiaohongshu]], [[Douyin]], and [[Kuaishou]], making [[CreatorDrivenFinancialNarrative]] a distribution layer for stories that may later look obvious in price charts.
+
 ## Key Claims
 - Any sufficiently rich price chart can invite a convincing explanation after the fact.
 - Post-hoc stories become more persuasive when they align with winners, media coverage, and investor self-interest.
@@ -19,6 +21,8 @@ The concept is a behavioral and statistical warning. It does not say all market 
 - Real markets may be even more narrative-driven than the experiment because institutions, media, and capital flows can reinforce each other.
 - [[NoPredictionTrading]] responds by requiring repeatable rules, records, and payoff evidence instead of relying on a story alone.
 - Narratives can still matter as market forces if they attract capital, but that makes them part of price behavior rather than proof of fundamental truth.
+- Social-media and creator distribution can concentrate market attention before the post-hoc story is written.
+- The stronger the narrative feedback loop, the more important it is to separate explanatory power from popularity.
 
 ## Connections
 - [[BehavioralInvestingBiases]] — individual tendency to explain and defend observed outcomes.
@@ -26,3 +30,4 @@ The concept is a behavioral and statistical warning. It does not say all market 
 - [[SpeculativeBubblePsychology]] — social and media reinforcement of stories around strong price moves.
 - [[MarketEfficiency]] — price aggregates information, but not every later explanation is causal.
 - [[InvestmentRiskManagement]] and [[InvestmentDecisionLogging]] — disciplines for separating original thesis from rewritten memory.
+- [[CreatorDrivenFinancialNarrative]], [[InformationCocoon]], [[Xueqiu]], [[Xiaohongshu]], [[Douyin]], and [[Kuaishou]] — creator and platform extension added by episode 141.

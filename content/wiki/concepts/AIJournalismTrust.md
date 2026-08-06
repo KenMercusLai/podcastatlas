@@ -2,8 +2,8 @@
 title: "AI Journalism Trust"
 type: concept
 tags: [ai, journalism, trust]
-sources: [tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
+last_updated: 2026-08-06
 ---
 
 # AI Journalism Trust
@@ -18,6 +18,8 @@ The concept connects [[AIContentProvenance]] to a deeper [[TrustAsBusinessAsset]
 
 [[tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128]] adds the archival-evidence layer. The [[WaybackMachine|Wayback Machine]] can help journalists verify deleted or stealth-edited pages, but publisher blocking motivated by [[AIProxyScrapingRisk]] can remove a verification tool from the reporting workflow.
 
+[[141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]] adds a creator-media bridge. [[DavidWeng|大卫翁]] says [[ColumbiaJournalismSchool|Columbia Journalism School]] already studies how AI and technology change media, but his own episode stresses that authorship clarity alone is insufficient: human creators without newsroom process also face a verification problem.
+
 ## Key Claims
 - Trust risk rises when AI moves from support tasks into visible published prose.
 - Disclosure is necessary but incomplete because readers also infer effort, care, and editorial responsibility.
@@ -26,6 +28,7 @@ The concept connects [[AIContentProvenance]] to a deeper [[TrustAsBusinessAsset]
 - Journalistic trust also depends on verification capacity when sources, images, videos, and social posts may be synthetic or miscontextualized.
 - A source package that looks unusually complete can be a trust warning when the reporter has not independently authenticated the evidence.
 - Trust also depends on durable public records; without archived pages, claims about what changed online can become harder to verify.
+- Human-authored creator media can still create journalism-trust problems when its sourcing and fact-checking are weak.
 
 ## Connections
 - [[AIWrittenJournalism]], [[AIRewriteDesk]], and [[NewsroomAIAdoption]] - production-side causes.
@@ -35,3 +38,4 @@ The concept connects [[AIContentProvenance]] to a deeper [[TrustAsBusinessAsset]
 - [[InformationApocalypse]], [[AIRealityVerificationTax]], and [[ContentCredentials]] - external-media verification branch added by Marketplace Tech.
 - [[CaseyNewton]], [[Platformer]], [[AIGeneratedHoaxEvidence]], [[SynthID]], and [[OutrageTriggeredSkepticism]] - source-authentication and audience-checking branch added by Marketplace Tech.
 - [[InternetArchive]], [[WaybackMachine|Wayback Machine]], [[PublicWebArchiving]], and [[InternetHistoryFragility]] - web-archive verification branch added by Marketplace Tech.
+- [[ColumbiaJournalismSchool]], [[CreatorFactCheckingResponsibility]], and [[PodcastAuthenticityBoundary]] - creator-media trust bridge added by episode 141.

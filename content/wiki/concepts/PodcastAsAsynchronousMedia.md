@@ -2,7 +2,7 @@
 title: "Podcast As Asynchronous Media"
 type: concept
 tags: [podcast, media, audio, technology-culture]
-sources: [yi-tiao-jiemu-shuoming-xiwang-gewei-tingzhong-nenggou-tingwan-578621335, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-s2-wrapup-v1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5, gengxin-shijian-biandong-tongzhi-644387724]
+sources: [141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, yi-tiao-jiemu-shuoming-xiwang-gewei-tingzhong-nenggou-tingwan-578621335, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-s2-wrapup-v1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5, gengxin-shijian-biandong-tongzhi-644387724]
 last_updated: 2026-08-05
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-05
 Podcast as asynchronous media is the idea that recorded audio gains value because listeners can shift it into idle-ear contexts such as commuting, walking, housework, and exercise. In [[zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]], [[NeiheKonghuang]] uses Apple Podcasts' 20th anniversary and the show's 11th year to reflect on how podcasting grew out of iPod, iTunes, radio, and pre-recorded campus broadcasting practices.
 
 [[fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]] adds the intimacy and production side through [[Banlatte|半拿铁]]. The source keeps the idle-ear premise but emphasizes that long repeated listening creates [[PodcastIntimacy]], lets public figures become more three-dimensional, and makes [[BrandPodcasting]] possible when advertising or institutional speech preserves trust.
+
+[[141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]] adds a career and research-surface version through [[DavidWeng|大卫翁]]. The episode argues that a long podcast archive can become evidence of curiosity, judgment, and audience trust, opening a [[PodcastEnabledCareerPath]] such as his [[ColumbiaJournalismSchool|Columbia Journalism School]] visiting-scholar invitation.
 
 [[gengxin-shijian-biandong-tongzhi-644387724]] adds a scheduling qualification through [[PodcastReleaseCadence]]. Even if listeners consume episodes later, the moment a show publishes still shapes habit, feed competition, listener expectation, and production slack.
 
@@ -38,9 +40,11 @@ The concept is not simply "audio on demand." The hosts contrast podcasting with 
 - Ratings and reviews are part of podcast distribution infrastructure because they signal listener response and can improve discovery.
 - Long-form voice can make hosts and guests feel familiar; that relationship value is distinct from but built on asynchronous listening.
 - A podcast's archive can become a personal-memory surface when listeners connect historical stories to their own lived technology and consumer experience.
+- A sustained podcast archive can also become a career and research signal when institutions can hear the creator's interests, judgment, and public relationship over time.
 
 ## Connections
 - [[Banlatte|半拿铁]], [[LiDan|李诞]], [[PodcastIntimacy]], [[PodcastProductionWorkflow]], [[PodcastAuthenticityBoundary]], and [[BrandPodcasting]] - intimacy, production, and brand-expression branch added by the Li Dan special.
+- [[QizhulouYanBinke|起朱楼宴宾客]], [[DavidWeng|大卫翁]], [[ColumbiaJournalismSchool|Columbia Journalism School]], and [[PodcastEnabledCareerPath]] - archive-as-career-signal branch added by episode 141.
 - [[NeiheKonghuang]], [[WuTao]], and [[Ryo]] - source show and hosts.
 - [[Apple]] and [[IPhone]] - platform and device context for podcast adoption and later mobile convergence.
 - [[MobileInternetPrehistory]] - adjacent device-history frame around how portable devices changed everyday media use.

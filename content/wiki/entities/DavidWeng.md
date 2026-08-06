@@ -8,6 +8,8 @@ last_updated: 2026-08-06
 
 # 大卫翁 / David Weng
 
+In [[141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]], he records a personal addendum explaining that [[QizhulouYanBinke|起朱楼宴宾客]] led to a one-year visiting-scholar invitation from [[ColumbiaJournalismSchool|Columbia Journalism School]]. His role shifts from host to research subject and researcher: he frames podcasts, creators, subscriptions, algorithms, and social platforms as forces reshaping public and financial narratives, while also naming the fact-checking duties that follow from audience trust.
+
 In [[140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew]], he hosts a hospitality crossover with [[YuanxingzheYuSuibingjiang|远行者与碎冰匠]] speakers [[MaocaoYuanxingzhe|猫草]] and [[CindyYuanxingzhe|Cindy]]. His role is to move from frequent-traveler experience with [[MarriottInternational]] and [[HyattHotels]] points into the business logic of [[HotelLoyaltyPrograms]], [[CustomerLifetimeValue]], [[HotelDirectBookingChannels]], and the distinction between SOP as service floor and human attention as hospitality ceiling.
 
 In [[139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]], he hosts [[FeiQizhulou|费]] for a Europe-and-literature discussion around [[StefanZweig|Stefan Zweig / 茨威格]] and [[TheWorldOfYesterday|《昨日的世界》]]. His role is to keep the episode moving between literary witness, [[BelleEpoque|Belle Epoque]] nostalgia, [[EuropeanUnion]] integration, [[PassportMobilityInequality]], the [[Ukraine]] war, tariff bargaining, and the question of whether a contemporary "beautiful age" belongs to a place or to a mobile class.
@@ -58,6 +60,7 @@ In [[134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-c
 
 ## Connections
 - [[QizhulouYanBinke|起朱楼宴宾客]] — source show.
+- [[ColumbiaJournalismSchool]], [[PodcastEnabledCareerPath]], [[CreatorDrivenFinancialNarrative]], [[CreatorFactCheckingResponsibility]], [[QiongQiong|琼琼]], and [[SituatedMediaObservation]] — episode 141 visiting-scholar and self-media responsibility branch.
 - [[FeiQizhulou|费]], [[StefanZweig|Stefan Zweig / 茨威格]], [[TheWorldOfYesterday|《昨日的世界》]], [[BelleEpoque]], [[EuropeanIntegrationWarPrevention]], [[PassportMobilityInequality]], and [[MacroNarrativeMicroLifeGap]] — episode 139's Europe and literature branch.
 - [[YoumamaMaomao|尤妈妈 / 猫猫]], [[RuleBoundOverthinking]], [[LowDesireDefensiveContraction]], [[AlgorithmicDesirePreemption]], and [[SocialTemplateDesire]] — episode 132 workplace, overthinking, and low-desire branch.
 - [[SanDianXiaban|三点下班]] and [[Haoge|浩哥]] — crossover partner and conversation counterpart.

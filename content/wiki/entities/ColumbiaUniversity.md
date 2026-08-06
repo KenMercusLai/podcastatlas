@@ -2,11 +2,13 @@
 title: "Columbia University"
 type: entity
 tags: [university, medicine, mental-health, education, anthropology]
-sources: [113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]
+sources: [141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]
 last_updated: 2026-07-24
 ---
 
 # Columbia University
+
+[[141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]] adds Columbia through [[ColumbiaJournalismSchool|Columbia Journalism School]], where [[DavidWeng|大卫翁]] is invited as a visiting scholar after years of [[QizhulouYanBinke|起朱楼宴宾客]] podcast work. This extends Columbia from a clinical, student, and anthropology node into a journalism and media-research setting around [[CreatorDrivenFinancialNarrative]] and [[PodcastEnabledCareerPath]].
 
 Columbia University appears in [[using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]] as [[DariaGeorgievich]]'s institutional affiliation. The episode uses her psychiatric expertise to explain why chatbot companionship and mental-health support are higher-risk for teens than for adults.
 
@@ -17,6 +19,7 @@ The Columbia link matters because the source is not only a technology-consumer s
 [[113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827]] adds Columbia as the anthropology institution around [[HenriettaSchmerler]]. The source places [[RuthBenedict]], [[MargaretMead]], and [[FranzBoas]] in the orbit of her training, funding, and post-murder disciplinary response, making Columbia a node for [[AnthropologyFieldworkSafety]] and [[DisciplinarySelfProtectionAfterHarm]].
 
 ## Connections
+- [[ColumbiaJournalismSchool]], [[DavidWeng|大卫翁]], [[QizhulouYanBinke|起朱楼宴宾客]], [[CreatorDrivenFinancialNarrative]], and [[PodcastEnabledCareerPath]] - episode 141 visiting-scholar and media-research branch.
 - [[DariaGeorgievich]] - psychiatrist affiliated with Columbia in the episode.
 - [[MarketplaceTech]] - interview context.
 - [[AIHealthManagement]], [[HumanJudgmentUnderAI]], and [[OnlineHealthcareRegulatoryBoundary]] - professional-care boundaries reinforced by the source.

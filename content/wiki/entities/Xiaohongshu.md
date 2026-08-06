@@ -2,11 +2,13 @@
 title: "Xiaohongshu"
 type: entity
 tags: [platform, social-media, community]
-sources: [132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, vol-264-ba-shijiebei-zuowei-fangfa-999416048, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
+sources: [141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, vol-264-ba-shijiebei-zuowei-fangfa-999416048, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
 last_updated: 2026-08-06
 ---
 
 # Xiaohongshu
+
+[[141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]] adds Xiaohongshu as one Chinese platform surface in [[CreatorDrivenFinancialNarrative]]. The source groups it with short-video platforms, public accounts, podcasts, and investing communities to argue that social content can help concentrate A-share market narratives.
 
 [[63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972]] adds Xiaohongshu as a self-improvement and comparison-pressure surface. The host points to recommendation titles about "breaking information gaps" and "becoming a better person," treating them as examples of [[InformationGapAnxiety]] rather than neutral learning prompts.
 
@@ -49,3 +51,4 @@ The source frames Xiaohongshu less as a conventional startup demo day host and m
 - [[ZhuGe|猪哥 / 猪场严选]], [[FoodAnimalWelfare]], and [[AnimalWelfareProductLabeling]] — food-system education extension added by episode 176.
 - [[InformationGapAnxiety]] — self-improvement comparison pressure added by episode 63.
 - [[AlgorithmicDesirePreemption]], [[SocialTemplateDesire]], and [[LowDesireDefensiveContraction]] — episode 132's desire, comparison, and low-desire extension.
+- [[CreatorDrivenFinancialNarrative]], [[Xueqiu]], [[Douyin]], and [[Kuaishou]] — episode 141's market-narrative distribution extension.

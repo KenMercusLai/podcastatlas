@@ -6085,3 +6085,11 @@ Added source page for a 起朱楼宴宾客 crossover with 远行者与碎冰匠 
 ## [2026-08-06] lint | Wiki health check
 
 Ran health before lint; health scanned 8,629 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while the current wiki scan found 8,629 pages, so graph findings are advisory until `build graph` refreshes it; the graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-06] ingest | 141.加更：因为播客，我受邀去哥伦比亚大学做访问学者了
+
+Added source page for a 起朱楼宴宾客 personal addendum by 大卫翁 on being invited to Columbia Journalism School as a visiting scholar because of podcasting. Created pages for Columbia Journalism School, 琼琼, 雪球, Creator-Driven Financial Narrative, Creator Fact-Checking Responsibility, Podcast-Enabled Career Path, and Situated Media Observation; updated overview, index, 起朱楼宴宾客, 大卫翁, Columbia University, Donald Trump, Xiaohongshu, Douyin, Kuaishou, 小宇宙, Podcast As Asynchronous Media, Podcast Authenticity Boundary, Creator-Owned Audience, Information Cocoon, Random Market Narratives, Macro Narrative Anxiety, Public Service Journalism, and AI Journalism Trust. No direct contradiction found; the source extends the wiki's podcast and market-narrative branches by showing podcasting as both career surface and research object, while adding a stronger verification duty for creators whose narratives affect markets, healthcare understanding, or public judgment.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
