@@ -2,7 +2,7 @@
 title: "Zijin Mining / 紫金矿业"
 type: entity
 tags: [company, mining, resources, globalization, china]
-sources: [vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
+sources: [165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
 last_updated: 2026-08-06
 ---
 
@@ -12,14 +12,18 @@ Zijin Mining / 紫金矿业 appears in [[vol-127-nianbaoji-zhong-de-zhenshi-zhon
 
 The source links Zijin's outward expansion to China's broader engineering, construction, equipment, and project-delivery capabilities. This makes mining globalization another instance of [[ThreeLayerScaleEconomies]] and [[GlobalResourceAllocationCompany]], where overseas resource ownership is supported by domestic industrial know-how and supply-chain capacity.
 
+[[165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo]] adds Zijin as a high-prosperity branch in [[ChinaIndustrialKShapedDivergence]]. The episode links its resource demand to energy transition and AI compute, cites its unusually favorable convertible-bond financing, and uses its annual-report language to introduce [[SecurityFirstSupplyChainLogic]].
+
 ## Source Position
 - Zijin is used as evidence that Chinese corporate evolution extends upstream into minerals and resources.
 - The episode says Chinese mining firms are helping reshape a mining order long dominated by Western incumbents.
 - Its overseas expansion is treated as ecosystem-supported, not just a company-by-company land grab.
 - The source keeps the focus on capability and cost efficiency rather than commodity-price forecasting.
+- Episode 165 treats Zijin as both a resource-cycle winner and a source of the safety-first supply-chain vocabulary.
 
 ## Connections
 - [[CMOC]] and [[CATL]] - resource and battery-chain cases in the same source.
 - [[SupplyChainSovereignty]] - upstream resources as strategic production inputs.
 - [[GlobalResourceAllocationCompany]] - overseas assets supported by Chinese operating know-how.
 - [[ThreeLayerScaleEconomies]] - domestic engineering and supplier base behind overseas project execution.
+- [[SecurityFirstSupplyChainLogic]], [[HardAIInfrastructure]], [[AIEnergyBottleneck]], and [[CATL]] - episode 165's AI, energy, and safety branch.

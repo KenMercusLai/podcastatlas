@@ -2,8 +2,8 @@
 title: "AI Metabolic Infrastructure"
 type: concept
 tags: [ai, infrastructure, ecology, political-economy]
-sources: [tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, kate-crawford-mapping-empires, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
-last_updated: 2026-08-05
+sources: [165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, kate-crawford-mapping-empires, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
+last_updated: 2026-08-06
 ---
 
 # AI Metabolic Infrastructure
@@ -26,6 +26,8 @@ The frame connects several existing wiki branches. [[AIComputeContinuity]] and [
 
 [[tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]] extends the frame from data centers into semiconductor manufacturing. [[MicronTechnology|Micron]]'s planned [[MicronClayMegaFab|Clay mega fab]] shows that AI's material system also includes memory fabs, wetlands, forests, farmland, water pollution concerns, emissions, local hiring, and court-enforceable community demands.
 
+[[165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo]] adds a Chinese capital-market and supplier version through [[HardAIInfrastructure]]. The episode treats metals, batteries, storage, servers, optical modules, power equipment, and grids as the visible physical layer through which Chinese companies may participate in the AI boom.
+
 ## Key Claims
 - AI systems consume material resources even when their user interface looks immaterial.
 - Data extraction and mineral extraction are parallel processes: both turn shared or distant resources into private model capability.
@@ -37,6 +39,7 @@ The frame connects several existing wiki branches. [[AIComputeContinuity]] and [
 - Onsite natural gas generation can move AI energy demand outside a slow grid queue while preserving the underlying fuel, emissions, and equipment burden.
 - Reused EV batteries can become part of AI's material metabolism when data-center power demand creates a second market for vehicle battery packs.
 - Semiconductor fabs make AI's material footprint visible through land conversion, water use, emissions, jobs, and enforceable local commitments, not only through data-center electricity demand.
+- Episode 165 adds that AI's physical metabolism can become an upstream business opportunity for resource, battery, server, and power-equipment suppliers.
 - Short hardware cycles create a deep-time mismatch between minerals formed over geological time and chips used for only a short period.
 - Model outputs can become inputs again, making [[ModelCollapse]] a metabolic risk as well as a technical training-data risk.
 - Sustainable AI cannot be reduced to efficiency improvements if total demand rises through [[JevonsParadoxInAI]].
@@ -57,3 +60,4 @@ The frame connects several existing wiki branches. [[AIComputeContinuity]] and [
 - [[JevonsParadoxInAI]] - demand-growth dynamic.
 - [[HumanResourceDeflationComputeInfrastructureInflation]] - adjacent economic frame where labor savings move into compute infrastructure.
 - [[PublicInterestAI]] - governance response proposed in the source.
+- [[HardAIInfrastructure]], [[ZijinMining]], [[CATL]], and [[FoxconnIndustrialInternet]] - Chinese supplier and capital-market branch added by episode 165.

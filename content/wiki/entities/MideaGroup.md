@@ -2,7 +2,7 @@
 title: "Midea Group"
 type: entity
 tags: [company, manufacturing, china]
-sources: [vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
+sources: [165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo, vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
 last_updated: 2026-08-06
 ---
 
@@ -14,8 +14,11 @@ In the wiki, Midea Group links the macro tariff branch back to operating-company
 
 [[vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]] makes Midea a fuller example of [[TechnologyInnovationAsScaleEconomy]]. The episode emphasizes Midea's global operating footprint, large workforce, many subsidiaries, R&D centers, manufacturing bases, and multi-country business as evidence that Chinese home-appliance leaders are becoming global platform companies rather than low-cost assemblers.
 
+[[165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo]] adds Midea's annual-report language as the episode's broad frame for [[ChinaIndustrialKShapedDivergence]] and corporate renewal. The host uses Midea to name the K-shaped environment and closes with its claim that durable companies need the ability to restart and regenerate when prosperity creates inertia.
+
 ## Connections
 - [[China]] and [[SupplyChainSovereignty]] — country and production-system context.
 - [[MarketRegimeShift]], [[InvestmentRiskManagement]], and [[DeglobalizationTradeIntermediation]] — broader uncertainty and operating-environment concepts.
 - [[DonaldTrump]] and [[TradeReciprocityProtectionism]] — external policy shock behind the source's closing business-survival frame.
 - [[TechnologyInnovationAsScaleEconomy]], [[GlobalResourceAllocationCompany]], and [[ThreeLayerScaleEconomies]] — vol.127's company-evolution frame.
+- [[ChinaIndustrialKShapedDivergence]], [[LocalizedGlobalCompany]], and [[SecurityFirstSupplyChainLogic]] — episode 165's reconstruction frame.

@@ -559,6 +559,10 @@
     "title": "164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授",
     "url": "/wiki/sources/164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq/"
   },
+  "165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo": {
+    "title": "165.年报季中的真实中国2026",
+    "url": "/wiki/sources/165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo/"
+  },
   "165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646": {
     "title": "165.银发川柳：用幽默面对老年，咱们来写打油诗",
     "url": "/wiki/sources/165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646/"
@@ -6359,6 +6363,14 @@
     "title": "China Handset Supply Chain",
     "url": "/wiki/concepts/chinahandsetsupplychain/"
   },
+  "ChinaIndustrialKShapedDivergence": {
+    "title": "China Industrial K-Shaped Divergence / 中国式K型产业分化",
+    "url": "/wiki/concepts/chinaindustrialkshapeddivergence/"
+  },
+  "ChinaInnovationTransparencyGap": {
+    "title": "China Innovation Transparency Gap / 中国创新透明度缺口",
+    "url": "/wiki/concepts/chinainnovationtransparencygap/"
+  },
   "ChinaInsuranceFundsEquityAllocation": {
     "title": "China Insurance Funds Equity Allocation / 中国险资入市",
     "url": "/wiki/concepts/chinainsurancefundsequityallocation/"
@@ -11859,6 +11871,10 @@
     "title": "Fourth-Person Narrative",
     "url": "/wiki/concepts/fourthpersonnarrative/"
   },
+  "FoxconnIndustrialInternet": {
+    "title": "Foxconn Industrial Internet / 工业富联",
+    "url": "/wiki/entities/foxconnindustrialinternet/"
+  },
   "FrameworkLedSaaS": {
     "title": "Framework-Led SaaS",
     "url": "/wiki/concepts/frameworkledsaas/"
@@ -13383,6 +13399,10 @@
     "title": "Haier Group / 海尔",
     "url": "/wiki/entities/haiergroup/"
   },
+  "HaierSmartHome": {
+    "title": "Haier Smart Home / 海尔智家",
+    "url": "/wiki/entities/haiersmarthome/"
+  },
   "HaijinAndMaritimeSmuggling": {
     "title": "Haijin and Maritime Smuggling",
     "url": "/wiki/concepts/haijinandmaritimesmuggling/"
@@ -13578,6 +13598,10 @@
   "HappyFamilyOrganics": {
     "title": "Happy Family Organics",
     "url": "/wiki/entities/happyfamilyorganics/"
+  },
+  "HardAIInfrastructure": {
+    "title": "Hard AI Infrastructure / 硬AI基础设施",
+    "url": "/wiki/concepts/hardaiinfrastructure/"
   },
   "HardNegativeMining": {
     "title": "Hard Negative Mining",
@@ -18286,6 +18310,10 @@
   "LocalPsychedelicDecriminalization": {
     "title": "Local Psychedelic Decriminalization",
     "url": "/wiki/concepts/localpsychedelicdecriminalization/"
+  },
+  "LocalizedGlobalCompany": {
+    "title": "Localized Global Company / 中国籍全球公司本地化",
+    "url": "/wiki/concepts/localizedglobalcompany/"
   },
   "LocalizedInnovationAdvantage": {
     "title": "Localized Innovation Advantage",
@@ -24823,6 +24851,10 @@
     "title": "Red Pen Logic",
     "url": "/wiki/concepts/redpenlogic/"
   },
+  "RedStarMacalline": {
+    "title": "Red Star Macalline / 美凯龙",
+    "url": "/wiki/entities/redstarmacalline/"
+  },
   "RedTruckOrchards": {
     "title": "Red Truck Orchards",
     "url": "/wiki/entities/redtruckorchards/"
@@ -26395,6 +26427,10 @@
     "title": "Security Backlash Politics",
     "url": "/wiki/concepts/securitybacklashpolitics/"
   },
+  "SecurityFirstSupplyChainLogic": {
+    "title": "Security-First Supply Chain Logic / 安全优先供应链逻辑",
+    "url": "/wiki/concepts/securityfirstsupplychainlogic/"
+  },
   "Seedance": {
     "title": "Seedance",
     "url": "/wiki/entities/seedance/"
@@ -26842,6 +26878,10 @@
   "ShenzhenStockExchange": {
     "title": "Shenzhen Stock Exchange / 深圳证券交易所",
     "url": "/wiki/entities/shenzhenstockexchange/"
+  },
+  "ShenzhouInternational": {
+    "title": "Shenzhou International / 申洲国际",
+    "url": "/wiki/entities/shenzhouinternational/"
   },
   "SherlockHolmes": {
     "title": "Sherlock Holmes / 福尔摩斯",

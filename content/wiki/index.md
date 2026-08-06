@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [165.年报季中的真实中国2026](sources/165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo.md) — 起朱楼宴宾客 2026 annual-report episode on China's K-shaped industrial divergence, non-financial margin pressure, real-estate-chain losses, safety-first supply chains, localized global companies, hard-AI infrastructure, CATL quality, and innovation-transparency constraints.
 - [164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授](sources/164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq.md) — 起朱楼宴宾客 algorithm-series conversation with 黄圣淳 on filter-bubble evidence gaps, incidental exposure, news-finds-me, affective polarization, YouTube entertainment redirection, platform affordances, feedback loops, and algorithmic media literacy.
 - [163.当孤注一掷的年轻人遇上这个草台班子的世界｜串台轻刀快马](sources/163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta.md) — 起朱楼宴宾客 crossover with 轻刀快马 on U.S. social separation, AI anxiety, youth FOMO, financial nihilism, bounded speculative optionality, structure-over-prediction, barbell life design, and staying in the game.
 - [162.财富的本质，以及自由的真正含义｜串台十分吸引](sources/162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust.md) — 起朱楼宴宾客 crossover with 十分吸引 on wealth as resources, capability, rights, capital conversion, cash flow, resource-network repricing, client-centered wealth management, and freedom as the gap between what one has and wants.
@@ -785,6 +786,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Haier Smart Home / 海尔智家](entities/HaierSmartHome.md) — Listed appliance company used by episode 165 to frame tariff, supply-chain reconfiguration, regional protection, and geopolitical pressure.
+- [Shenzhou International / 申洲国际](entities/ShenzhouInternational.md) — Textile and apparel manufacturer used by episode 165 to show exporter margin pressure and the limits of simple overseas production.
+- [Foxconn Industrial Internet / 工业富联](entities/FoxconnIndustrialInternet.md) — AI server manufacturer used by episode 165 as the clearest hard-AI infrastructure company case.
+- [Red Star Macalline / 美凯龙](entities/RedStarMacalline.md) — Home-furnishing mall and commercial-property company used by episode 165 to show property-chain loss amplification.
 - [黄圣淳 / Shengchun Huang](entities/HuangShengchun.md) — Media and journalism scholar whose 起朱楼 episode complicates filter-bubble panic while adding YouTube entertainment redirect, platform affordance, and algorithmic media literacy.
 - [Pierre Bourdieu / 皮埃尔·布迪厄](entities/PierreBourdieu.md) — Sociologist whose economic, cultural, social, and symbolic capital framework anchors episode 162's wealth-as-convertible-capital branch.
 - [Anna Sorokin / 安娜·索罗金](entities/AnnaSorokin.md) — Episode 162 case for fragile capital conversion, where performed status temporarily opens social and financial access before cash-flow and credit checks break the loop.
@@ -5340,6 +5345,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [China Industrial K-Shaped Divergence / 中国式K型产业分化](concepts/ChinaIndustrialKShapedDivergence.md) — Episode 165 frame for resources, discount retail, innovation drugs, and AI infrastructure rising while real estate, exporters, industrial parks, and many manufacturers remain pressured.
+- [Security-First Supply Chain Logic / 安全优先供应链逻辑](concepts/SecurityFirstSupplyChainLogic.md) — Episode 165 supply-chain order where safety and resilience outrank pure efficiency under tariffs, geopolitics, and local protection.
+- [Localized Global Company / 中国籍全球公司本地化](concepts/LocalizedGlobalCompany.md) — Episode 165 model requiring Chinese global companies to localize manufacturing, supply chains, service networks, and R&D.
+- [Hard AI Infrastructure / 硬AI基础设施](concepts/HardAIInfrastructure.md) — Episode 165 China-market AI frame centered on servers, optical modules, chips, power equipment, batteries, storage, grids, and other physical infrastructure.
+- [China Innovation Transparency Gap / 中国创新透明度缺口](concepts/ChinaInnovationTransparencyGap.md) — Episode 165 concern that weaker external disclosure and less candid annual-report language can make Chinese innovation harder for global talent, investors, and partners to evaluate.
 - [Filter Bubble / 过滤气泡](concepts/FilterBubble.md) — Algorithmic-personalization narrowing concern that episode 164 qualifies with weak universal evidence, incidental exposure, and cross-platform leakiness.
 - [Incidental Exposure / 偶然暴露](concepts/IncidentalExposure.md) — Accidental contact with news or opposing information through feeds, social sharing, and platform defaults.
 - [News Finds Me / 新闻找到我](concepts/NewsFindsMe.md) — Media-consumption pattern where news reaches users through feeds and recommendations rather than intentional news seeking.

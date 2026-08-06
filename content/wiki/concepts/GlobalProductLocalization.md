@@ -11,7 +11,8 @@ sources:
   - vol-264-ba-shijiebei-zuowei-fangfa-999416048
   - e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d
   - cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc
-last_updated: 2026-08-05
+  - 165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo
+last_updated: 2026-08-06
 ---
 
 # Global Product Localization
@@ -34,6 +35,8 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 
 [[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] adds the AI-media version through [[AIShortDramaOverseasLocalization]]. The source treats outbound AI short drama as more than translation: creators may preserve a domestic hit's story logic while changing wealth symbols, settings, appearances, cultural references, and emotional power dynamics for overseas viewers.
 
+[[165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo]] adds the industrial-company version through [[LocalizedGlobalCompany]]. The episode's localization problem is not only product, content, or marketing adaptation; it includes factories, local supplier clusters, customs and compliance, after-sales networks, clinical data, R&D teams, and whether a Chinese firm becomes part of local economic development.
+
 ## Key Claims
 - A global product should separate what must be globally consistent from what must adapt locally.
 - Local content and operations can vary without fragmenting the core product container.
@@ -50,6 +53,7 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - Global sports brands may need local teams with enough autonomy to turn memes, city events, content formats, and campaign timing into products and experiences.
 - Restaurant localization can require changing the operating environment around the product - lease, approvals, menu bridges, service explanation, and local team credibility - rather than only adapting flavor.
 - Media localization can require changing fantasy signals and story psychology: the same plot pattern may need different visual status markers, relationship dynamics, and payment assumptions across markets.
+- Episode 165 adds that industrial-company localization can require local manufacturing, supply-chain, and R&D reconstruction beyond the product interface.
 
 ## Connections
 - [[TikTok]], [[Douyin]], and [[ByteDance]] — source product and company case.
@@ -64,3 +68,4 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - [[Adidas]], [[OfflineBrandActivation]], and [[SportsLifestyleConsumption]] - multinational sports-brand localization extension added by Vol.264.
 - [[DinTaiFung]], [[GongCha]], [[MoliNaiBai]], [[Chagee]], [[FeiDaChu]], [[RestaurantCulturalLegibility]], and [[USRestaurantRealEstateConstraint]] - U.S. foodservice and tea-drink localization extension added by E232.
 - [[AIShortDramaOverseasLocalization]], [[WuGeGeGeDouChongWo]], [[YiWanFuWengHuiGui]], [[RodeoAI]], [[Chouxiangzai]], and [[Taitai]] - AI short-drama localization extension added by What's Next.
+- [[LocalizedGlobalCompany]], [[SecurityFirstSupplyChainLogic]], [[SFHolding]], [[AnkerInnovations]], and [[BeiGene]] - industrial-company localization layer added by episode 165.

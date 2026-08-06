@@ -2,7 +2,7 @@
 title: "AI Energy Bottleneck"
 type: concept
 tags: [ai, energy, infrastructure, data-centers]
-sources: [tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, indicators-of-2025-and-what-to-watch-in-2026, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+sources: [165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, indicators-of-2025-and-what-to-watch-in-2026, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
 last_updated: 2026-08-05
 ---
 
@@ -26,6 +26,8 @@ The concept extends [[MaaSInfrastructure]] and [[AIComputeContinuity]]. Compute 
 
 [[indicators-of-2025-and-what-to-watch-in-2026]] adds the household affordability version through [[ElectricityAffordabilityIndicator]]. The source says AI data centers are one contributor to rising electricity rates, but it also names aging grid infrastructure, wildfires, line repairs, and winter heating exposure.
 
+[[165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo]] adds a Chinese annual-report version through [[HardAIInfrastructure]]. The episode links AI data-center buildout to demand for metals, optical modules, servers, gas turbines, power equipment, batteries, and storage, making the energy bottleneck part of Chinese manufacturing and resource-company opportunity as well as U.S. utility politics.
+
 ## Key Claims
 - AI developers can treat both compute capacity and energy capacity as bottlenecks for model progress and product deployment.
 - Energy bottlenecks turn state utility regulators into AI policy actors.
@@ -38,6 +40,7 @@ The concept extends [[MaaSInfrastructure]] and [[AIComputeContinuity]]. Compute 
 - Clean baseload procurement only helps the bottleneck if the generation technology clears hard-tech deployment gates: reliability, permitting, cost, grid delivery, and manufacturing rate.
 - AI electricity demand becomes more politically salient when it appears inside household power bills rather than only inside data-center operating costs.
 - Energy access can become a local election and community-consent issue when communities believe data-center buildout is arriving faster than their planning capacity.
+- Episode 165 adds that energy and grid constraints can appear as upside for suppliers such as [[ZijinMining]], [[CATL]], and industrial equipment makers, not only as a constraint on AI labs.
 
 ## Connections
 - [[TonyPippa]] and [[DataCenterCommunityConsent]] - community-negotiation layer added by the April 23 Marketplace Tech episode.
@@ -51,3 +54,4 @@ The concept extends [[MaaSInfrastructure]] and [[AIComputeContinuity]]. Compute 
 - [[DataCenterBacklash]] and [[AIMetabolicInfrastructure]] - local and material-cost frames connected to power demand.
 - [[Helion]], [[CommercialFusionPower]], [[Microsoft]], and [[FusionEnergyRecovery]] - future fusion power route added by The Social Radars.
 - [[ElectricityAffordabilityIndicator]] and [[StephenPassaha]] - household-bill indicator branch added by the Planet Money crossover.
+- [[HardAIInfrastructure]], [[ZijinMining]], [[CATL]], and [[FoxconnIndustrialInternet]] - Chinese annual-report branch added by episode 165.

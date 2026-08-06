@@ -2,7 +2,7 @@
 title: "CATL / 宁德时代"
 type: entity
 tags: [company, batteries, electric-vehicles, china, manufacturing]
-sources: [e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
+sources: [165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
 last_updated: 2026-08-06
 ---
 
@@ -14,6 +14,8 @@ The source also uses CATL as a "chain-anchor" case for [[Yibin]]. Attracting CAT
 
 [[vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]] adds CATL as a downstream demand and financing anchor for upstream resource coordination. The episode highlights CATL's alliance with [[CMOC]] as a case where battery demand, raw-material access, and capital support become part of the same Chinese industrial ecosystem.
 
+[[165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo]] adds CATL as a long-term value and energy-system case. The episode cites CATL's annual-report language on quality discipline, the difficulty of making reliable batteries at scale, global service coverage, and the reframing of batteries as basic units in a future energy system rather than only vehicle or storage components.
+
 ## Connections
 - [[BYD]] and [[ATL]] — peer and predecessor company cases in the episode's battery-manufacturing arc.
 - [[PowerBatteryIndustryChain]] — full-chain industrial context in which CATL is positioned.
@@ -21,3 +23,4 @@ The source also uses CATL as a "chain-anchor" case for [[Yibin]]. Attracting CAT
 - [[Yibin]] and [[LocalBatteryIndustrialClusters]] — city and cluster branch.
 - [[SodiumIonBatteryStorage]] — future route where the episode says CATL and related suppliers are active.
 - [[CMOC]], [[ZijinMining]], [[SupplyChainSovereignty]], and [[ThreeLayerScaleEconomies]] — upstream-resource coordination added by vol.127.
+- [[HardAIInfrastructure]], [[LocalizedGlobalCompany]], [[AIEnergyBottleneck]], and [[ChinaIndustrialKShapedDivergence]] — episode 165's energy-system and AI-infrastructure branch.

@@ -6273,3 +6273,19 @@ Added source page for a 起朱楼宴宾客 algorithm-series conversation with �
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 165.年报季中的真实中国2026
+
+Added source page for a 起朱楼宴宾客 annual-report episode by 大卫翁 on 2025 listed-company disclosures, GDP versus non-financial profit divergence, real-estate-chain loss amplification, exporter tariff pressure, industrial-park stress, resources, innovation drugs, hard-AI infrastructure, safety-first supply chains, localized global companies, CATL quality, and innovation-transparency constraints. Created pages for China Industrial K-Shaped Divergence, Security-First Supply Chain Logic, Localized Global Company, Hard AI Infrastructure, China Innovation Transparency Gap, Haier Smart Home, Shenzhou International, Foxconn Industrial Internet, and Red Star Macalline; updated overview, index, 起朱楼宴宾客, 大卫翁, Annual Report Macro Reading, China Equity-Real Economy Gap, Global Resource Allocation Company, Supply Chain Sovereignty, Global Product Localization, China Biotech Globalization, AI Energy Bottleneck, AI Metabolic Infrastructure, China Real Estate Debt Cycle, CATL, Zijin Mining, Midea Group, Vanke, SF Holding, BeiGene, Anker Innovations, Inovance Technology, GreatStar Industrial, and Li Lu. No direct contradiction found; the source extends the 2025 annual-report episode by moving from corporate evolution toward reconstruction under safety, localization, R&D, quality, and transparency constraints.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
