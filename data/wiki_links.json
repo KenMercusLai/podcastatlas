@@ -359,6 +359,10 @@
     "title": "142. 凯尔特神话故事（第一弹）：德鲁伊会梦见变形羊吗？",
     "url": "/wiki/sources/142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403/"
   },
+  "142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq": {
+    "title": "142.日本消费者为何如此痴迷“季节限定”？| 串台跨海电波",
+    "url": "/wiki/sources/142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq/"
+  },
   "142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz": {
     "title": "142. 雨森的创投观察第2集：Harness、下一个字节、2026大机会和Stanley Druckenmiller",
     "url": "/wiki/sources/142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz/"
@@ -15239,6 +15243,10 @@
     "title": "Japan Hotel Loyalty Underdevelopment",
     "url": "/wiki/concepts/japanhotelloyaltyunderdevelopment/"
   },
+  "JapanMarketEntryTrust": {
+    "title": "Japan Market Entry Trust / 日本市场进入信任",
+    "url": "/wiki/concepts/japanmarketentrytrust/"
+  },
   "JapanRiceSupplyFragility": {
     "title": "Japan Rice Supply Fragility / 日本大米供应脆弱性",
     "url": "/wiki/concepts/japanricesupplyfragility/"
@@ -15362,6 +15370,10 @@
   "JapaneseRailwayRealEstateDevelopment": {
     "title": "Japanese Railway Real-Estate Development / 日本铁路系房地产开发",
     "url": "/wiki/concepts/japaneserailwayrealestatedevelopment/"
+  },
+  "JapaneseSeasonalLimitedConsumption": {
+    "title": "Japanese Seasonal Limited Consumption / 日本季节限定消费",
+    "url": "/wiki/concepts/japaneseseasonallimitedconsumption/"
   },
   "JapaneseSogoShosha": {
     "title": "Japanese Sogo Shosha / 日本综合商社",
@@ -16710,6 +16722,10 @@
   "Ku6": {
     "title": "Ku6 / 酷六",
     "url": "/wiki/entities/ku6/"
+  },
+  "KuahaiDianbo": {
+    "title": "跨海电波 / Kuahai Dianbo",
+    "url": "/wiki/entities/kuahaidianbo/"
   },
   "Kuaishou": {
     "title": "Kuaishou",
@@ -19891,6 +19907,10 @@
     "title": "Montana",
     "url": "/wiki/entities/montana/"
   },
+  "Montbell": {
+    "title": "Montbell",
+    "url": "/wiki/entities/montbell/"
+  },
   "Monzo": {
     "title": "Monzo",
     "url": "/wiki/entities/monzo/"
@@ -20022,6 +20042,10 @@
   "MuhammadAtalla": {
     "title": "Muhammad Atalla",
     "url": "/wiki/entities/muhammadatalla/"
+  },
+  "Muji": {
+    "title": "MUJI / 无印良品",
+    "url": "/wiki/entities/muji/"
   },
   "Mujian": {
     "title": "Mujian",
@@ -20234,6 +20258,10 @@
   "NaftaliBennett": {
     "title": "Naftali Bennett",
     "url": "/wiki/entities/naftalibennett/"
+  },
+  "NakagawaMasashichiShoten": {
+    "title": "Nakagawa Masashichi Shoten / 中川政七商店",
+    "url": "/wiki/entities/nakagawamasashichishoten/"
   },
   "NamingPowerSocialChange": {
     "title": "Naming Power In Social Change / 社会变革中的命名权",

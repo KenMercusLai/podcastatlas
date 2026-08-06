@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [142.日本消费者为何如此痴迷“季节限定”？| 串台跨海电波](sources/142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq.md) — 起朱楼宴宾客 crossover with 跨海电波 on Japan's seasonal-limited consumer culture, regional and calendar-based scarcity, story-led premiums, channel trust, after-sales expectations, and Chinese brands entering Japan.
 - [141.加更：因为播客，我受邀去哥伦比亚大学做访问学者了](sources/141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj.md) — 起朱楼宴宾客 personal addendum on David Weng's Columbia Journalism School visiting-scholar opportunity, podcast-enabled career paths, creator-driven financial narratives, creator fact-checking, algorithmic information cocoons, and situated U.S. media observation.
 - [140.酒店集团为什么都热衷于打造会员和积分体系？| 串台远行者与碎冰匠](sources/140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew.md) — 起朱楼宴宾客 crossover with 远行者与碎冰匠 on hotel loyalty programs, direct booking, OTA channel pressure, hotel brand portfolios, star-rating erosion, asset-light hotel groups, and service SOP versus human hospitality.
 - [139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？](sources/139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf.md) — 起朱楼宴宾客 episode linking Stefan Zweig's The World of Yesterday, Belle Epoque nostalgia, European integration, classed mobility, language, passports, digital-nomad housing pressure, Ukraine war, and EU decision limits.
@@ -762,6 +763,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [跨海电波 / Kuahai Dianbo](entities/KuahaiDianbo.md) — Amazon Advertising-produced cross-border-commerce podcast represented by the episode 142 crossover on Japanese seasonal-limited consumption and market entry.
+- [MUJI / 无印良品](entities/Muji.md) — Japanese retail brand used by episode 142 as a New Year lucky-bag and annual-ritual consumer-memory case.
+- [Nakagawa Masashichi Shoten / 中川政七商店](entities/NakagawaMasashichiShoten.md) — Japanese craft retailer used by episode 142 to show story, place, and traditional-maker renewal as a reasoned premium.
+- [Montbell](entities/Montbell.md) — Japanese outdoor brand used by episode 142 as a regional-limited T-shirt case where local availability turns apparel into a place story.
 - [Columbia Journalism School](entities/ColumbiaJournalismSchool.md) — Columbia University journalism school context for David Weng's visiting-scholar opportunity and media/financial-narrative research.
 - [琼琼 / Qiongqiong](entities/QiongQiong.md) — Listener and medical-journalism figure whose Japanese healthcare fact-checking case grounds creator fact-checking responsibility.
 - [雪球 / Xueqiu](entities/Xueqiu.md) — Chinese investor social platform used by episode 141 as part of the creator-driven financial-narrative ecosystem.
@@ -5244,6 +5249,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Japanese Seasonal Limited Consumption / 日本季节限定消费](concepts/JapaneseSeasonalLimitedConsumption.md) — Japan consumer-culture pattern where time, region, channel, or quantity limitation works by attaching products to seasonal rituals and local stories.
+- [Japan Market Entry Trust / 日本市场进入信任](concepts/JapanMarketEntryTrust.md) — Market-entry trust frame for outside brands selling into Japan through channel backing, offline confirmation, service detail, origin transparency, and slow relationship building.
 - [Creator-Driven Financial Narrative / 创作者驱动的财经叙事](concepts/CreatorDrivenFinancialNarrative.md) — Episode 141 research frame for how creators, podcasts, subscriptions, social platforms, and algorithms reshape macro and market narratives.
 - [Creator Fact-Checking Responsibility / 创作者事实核查责任](concepts/CreatorFactCheckingResponsibility.md) — Self-media verification duty sharpened by the source's Japanese healthcare fact-checking case.
 - [Podcast-Enabled Career Path / 播客带来的职业路径](concepts/PodcastEnabledCareerPath.md) — Long-term podcast work creating institutional, career, and research opportunities beyond direct monetization.

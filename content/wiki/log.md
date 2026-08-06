@@ -6093,3 +6093,11 @@ Added source page for a 起朱楼宴宾客 personal addendum by 大卫翁 on bei
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 142.日本消费者为何如此痴迷“季节限定”？| 串台跨海电波
+
+Added source page for a 起朱楼宴宾客 crossover with 跨海电波 on Japanese seasonal-limited consumption, annual rituals, short-cycle retail, regional limitation, craft and story premiums, Japanese channel trust, after-sales expectations, and Chinese brands entering Japan. Created pages for 跨海电波, MUJI, Nakagawa Masashichi Shoten, Montbell, Japanese Seasonal Limited Consumption, and Japan Market Entry Trust; updated overview, index, Japan, 起朱楼宴宾客, 大卫翁, Anker Innovations, Roborock, Experience-Led Brand, Story Led Consumer Branding, Place Based Brand Perception, Quality Low Price And Reasoned Premium, and Trust As Business Asset. No direct contradiction found; the source complements the existing Japan product-experience branch by adding seasonal calendar, regional scarcity, service trust, and slower market-entry mechanics.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

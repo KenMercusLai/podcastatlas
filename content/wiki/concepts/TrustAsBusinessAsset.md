@@ -2,8 +2,8 @@
 title: "Trust As Business Asset"
 type: concept
 tags: [governance, trust, business-model]
-sources: [would-you-trust-an-economist-with-your-economy, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, seven-allegedly-fake-chanel-bags-vs-the-realreal, costco-1, rolex-1]
-last_updated: 2026-08-04
+sources: [would-you-trust-an-economist-with-your-economy, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, seven-allegedly-fake-chanel-bags-vs-the-realreal, costco-1, rolex-1, 142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq]
+last_updated: 2026-08-06
 ---
 
 # Trust As Business Asset
@@ -38,6 +38,8 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 
 [[rolex-1]] adds the luxury-watch version through [[Rolex]]. Trust is created by long product continuity, visible technical proof, cautious production, refusal to cheapen price perception, and the ownership patience of [[HansWilsdorfFoundation]].
 
+[[142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq]] adds the Japan-market-entry version through [[JapanMarketEntryTrust]]. In that source, trust is built through origin transparency, local channel backing, physical confirmation, detailed Q&A, and human-accessible after-sales support. [[Roborock]] is used as a cautionary example that a technically capable product can still feel weak if support is reduced to form-and-email exchanges when consumers expect someone reachable.
+
 [[would-you-trust-an-economist-with-your-economy]] adds a professional-expertise analogue through [[ExpertTrustRepair]]. In that source, trust is not a business model but it behaves like an asset: economists and statistical institutions accumulate it through reliable work, spend it through mistakes or overconfidence, and repair it only through costly signals, transparency, and accountable changes.
 
 ## Key Claims
@@ -61,6 +63,7 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - Retail trust can be maintained through visible refusals: a company may choose not to raise markups, not to run confusing promotions, or not to pursue e-commerce convenience if those moves weaken the value promise.
 - Luxury trust can be maintained through visible patience: a company may leave demand unmet, avoid crisis discounting, and keep designs stable so buyers believe the product will still mean something later.
 - Expert trust behaves like an institutional asset when public confidence in data, forecasts, and professional advice affects whether people act on evidence.
+- In Japan-market entry, support access and origin transparency can be trust assets: automation helps only if it does not make the customer feel abandoned when escalation is needed.
 
 ## Connections
 - [[FinancialGravity]] - pressure that can redirect trust.
@@ -82,3 +85,4 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - [[Costco]], [[KirklandSignature]], [[LowMarkupTrust]], [[MembershipRetail]], and [[ScaleEconomiesShared]] - warehouse-retail trust branch added by Acquired.
 - [[Rolex]], [[HansWilsdorfFoundation]], [[LuxuryScarcityDiscipline]], [[LuxuryRetailChannelControl]], and [[VerticalIntegrationForQualityControl]] - luxury-watch trust branch added by Acquired.
 - [[BenHo]], [[EconomistTrustCrisis]], [[OfficialStatisticsCredibility]], and [[ExpertTrustRepair]] - professional trust-repair branch added by Planet Money.
+- [[JapanMarketEntryTrust]], [[Roborock]], [[AnkerInnovations]], and [[JapaneseSeasonalLimitedConsumption]] - Japan-market branch where channel, service, and cultural fit create or weaken trust.

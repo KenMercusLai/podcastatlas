@@ -2,7 +2,7 @@
 title: "Anker Innovations / 安克创新"
 type: entity
 tags: [company, consumer-electronics, ai-hardware, robotics]
-sources: [144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
+sources: [144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv, 142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq]
 last_updated: 2026-08-06
 ---
 
@@ -14,6 +14,8 @@ The source's main Anker thesis is that consumer-electronics companies cannot dep
 
 [[vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]] adds Anker to the tariff-war and global resource-allocation branch. The episode summarizes Anker's response as flexible supply-chain globalization, emerging-market expansion to reduce regional policy risk, and user-value focus to preserve brand pricing power.
 
+[[142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq]] adds Anker as a Japan-market reception example. In that source, Anker is cited as a Chinese consumer-electronics brand that can work in Japan by feeling like a global technology brand and by earning channel trust, rather than by hiding its Chinese origin or relying only on low price.
+
 ## Source Position
 - Anker started by finding and improving products for overseas Amazon buyers, then moved closer to Shenzhen as product creation became more important than online selling alone.
 - The company was cash-flow positive early and later used financing and listing partly to price and liquidate employee-held shares.
@@ -23,6 +25,7 @@ The source's main Anker thesis is that consumer-electronics companies cannot dep
 - Anker's AI platform centralizes model access, local command-line use, web entry points, and internal token usage so employees do not scatter across unrelated AI tools.
 - The company is exploring [[HouseholdSecurityRobots]] and broader embodied intelligence, but the source positions nearer-term security response as more productized than immediate humanoid commercialization.
 - Vol.127 treats Anker as a [[GlobalResourceAllocationCompany]] case: globally exposed, but still relying on China-based product, brand, R&D, and supply-chain know-how.
+- The Japan-market source treats Anker as evidence that foreign technical products can be accepted when brand, channel, reliability, and category expectations fit [[JapanMarketEntryTrust]].
 
 ## Connections
 - [[YangMeng]] and [[ZhaoDongping]] — founder/CEO and cofounder roles in the source.
@@ -32,3 +35,4 @@ The source's main Anker thesis is that consumer-electronics companies cannot dep
 - [[Anker2023Lab]], [[InMemoryComputingForEdgeAI]], [[OnDeviceModelHierarchy]], and [[TrueSmartHome]] — technical direction.
 - [[AIPlusTerminals]], [[PhysicalAI]], [[EmbodiedAI]], and [[HomeServiceRobots]] — broader hardware/AI context.
 - [[GlobalResourceAllocationCompany]], [[TradeReciprocityProtectionism]], and [[TariffComplianceTest]] — tariff-war operating context added by vol.127.
+- [[JapanMarketEntryTrust]], [[TrustAsBusinessAsset]], and [[QualityLowPriceReasonedPremium]] — Japan-market reception context added by episode 142.
