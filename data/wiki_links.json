@@ -467,6 +467,10 @@
     "title": "153.我的名字叫红：用一千零一夜的心跳完成这场谋杀(上）",
     "url": "/wiki/sources/153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296/"
   },
+  "154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x": {
+    "title": "154.四十岁感言：不做那只温水里的青蛙",
+    "url": "/wiki/sources/154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x/"
+  },
   "154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400": {
     "title": "154.我的名字叫红：用一千零一夜的心跳完成这场谋杀(下）",
     "url": "/wiki/sources/154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400/"
@@ -3783,6 +3787,10 @@
     "title": "Autonomous Vehicle Safety Benchmark",
     "url": "/wiki/concepts/autonomousvehiclesafetybenchmark/"
   },
+  "AutonomyUnderInformationFlow": {
+    "title": "Autonomy Under Information Flow / 信息流中的自主性",
+    "url": "/wiki/concepts/autonomyunderinformationflow/"
+  },
   "AvailabilityHeuristic": {
     "title": "Availability Heuristic",
     "url": "/wiki/concepts/availabilityheuristic/"
@@ -5538,6 +5546,10 @@
   "CareSociology": {
     "title": "Care Sociology / 照护社会学",
     "url": "/wiki/concepts/caresociology/"
+  },
+  "CareerExitFriction": {
+    "title": "Career Exit Friction / 职业退出摩擦",
+    "url": "/wiki/concepts/careerexitfriction/"
   },
   "CareerOptionality": {
     "title": "Career Optionality",
@@ -11047,6 +11059,10 @@
     "title": "Finance Career Portability",
     "url": "/wiki/concepts/financecareerportability/"
   },
+  "FinancePlatformSocialCapital": {
+    "title": "Finance Platform Social Capital / 金融平台社会资本",
+    "url": "/wiki/concepts/financeplatformsocialcapital/"
+  },
   "FinancialAIAgents": {
     "title": "Financial AI Agents",
     "url": "/wiki/concepts/financialaiagents/"
@@ -13166,6 +13182,10 @@
   "HaagenDazs": {
     "title": "Haagen-Dazs",
     "url": "/wiki/entities/haagendazs/"
+  },
+  "HabitPositiveFeedback": {
+    "title": "Habit Positive Feedback / 习惯正反馈",
+    "url": "/wiki/concepts/habitpositivefeedback/"
   },
   "HackerHouseStartupInfrastructure": {
     "title": "Hacker House Startup Infrastructure",
@@ -22159,6 +22179,10 @@
     "title": "庞春梅 / Pang Chunmei",
     "url": "/wiki/entities/pangchunmei/"
   },
+  "PaoWaimai": {
+    "title": "《跑外卖：一个女骑手的世界》",
+    "url": "/wiki/entities/paowaimai/"
+  },
   "PaperMoneyRitualMateriality": {
     "title": "Paper Money Ritual Materiality",
     "url": "/wiki/concepts/papermoneyritualmateriality/"
@@ -28831,6 +28855,10 @@
     "title": "Telangana",
     "url": "/wiki/entities/telangana/"
   },
+  "TelosCrisis": {
+    "title": "Telos Crisis / 目的危机",
+    "url": "/wiki/concepts/teloscrisis/"
+  },
   "TempleUniversity": {
     "title": "Temple University",
     "url": "/wiki/entities/templeuniversity/"
@@ -29158,6 +29186,10 @@
   "TheSadeianWoman": {
     "title": "《萨德的女人》 / The Sadeian Woman",
     "url": "/wiki/entities/thesadeianwoman/"
+  },
+  "TheSecondMountain": {
+    "title": "The Second Mountain / 第二座山",
+    "url": "/wiki/entities/thesecondmountain/"
   },
   "TheSocialRadars": {
     "title": "The Social Radars",
@@ -30907,6 +30939,10 @@
     "title": "Wang Tao / 汪滔",
     "url": "/wiki/entities/wangtao/"
   },
+  "WangWan": {
+    "title": "王婉 / Wang Wan",
+    "url": "/wiki/entities/wangwan/"
+  },
   "WangWeiTudou": {
     "title": "王微 / Wang Wei (Tudou)",
     "url": "/wiki/entities/wangweitudou/"
@@ -32034,6 +32070,10 @@
   "YakumoHospital": {
     "title": "八云医院",
     "url": "/wiki/entities/yakumohospital/"
+  },
+  "YanFei": {
+    "title": "严飞 / Yan Fei",
+    "url": "/wiki/entities/yanfei/"
   },
   "YanJunjie": {
     "title": "Yan Junjie",

@@ -2,7 +2,7 @@
 title: "Career Self-Rescue"
 type: concept
 tags: [career, work, mental-health, life-design]
-sources: [161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+sources: [154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
 last_updated: 2026-08-06
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-06
 Career self-rescue is the pattern where a person leaves a low-confidence or stuck professional state through a concrete act that restores agency. In [[ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2]], [[XiaoSun]] treats his roughly 800-kilometer ride from Shanghai to Qingdao as the moment that helped him escape a low point, recover courage, and leave employment again.
 
 The episode's version is physical and trackable: distance, danger, fatigue, route, and completion give the person evidence that they can still act. The concept does not replace practical career planning; it names the personal reset that can precede better decisions.
+
+[[154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x]] adds [[DavidWeng|大卫翁]]'s finance-career version. The rescue happens in stages rather than one heroic quit: leaving the [[PeoplesBankOfChina|People's Bank of China]] system, discovering that secondary-market investing was not a good full-time fit, turning content ability into investor education, and finally leaving finance when [[TelosCrisis]] made the warm-water condition visible.
 
 [[da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]] adds a writing-based version through [[XiaoMan]]. After a layoff signal and a [[LayoffBuffer]], she does not "rescue" herself through heroic escape, but through observation, interviews, nonfiction craft, and choosing a fragile but more self-directed writing path.
 
@@ -36,10 +38,12 @@ The episode's version is physical and trackable: distance, danger, fatigue, rout
 - External prestige can delay self-rescue because other people keep confirming the role's status even when the person living inside it feels empty.
 - Career self-rescue can begin before exit, when a person stops treating one exam or institution as the only legitimate proof of value.
 - Episode 161 adds that self-rescue can also mean staying psychologically intact while unemployed: the person needs evidence, relationships, and narrative room before a new role appears.
+- Episode 154 adds that self-rescue may require repeated fit tests, not only one exit: institution, market, platform, and industry can each become a separate decision.
 
 ## Connections
 
 - [[XiaoSun]] — source case.
+- [[DavidWeng|大卫翁]], [[CareerExitFriction]], [[FinancePlatformSocialCapital]], and [[TelosCrisis]] - episode 154's finance-career self-rescue branch.
 - [[SelfDirectedWork]] — work direction recovered after the ride.
 - [[FounderCashFlowConstraint]] — practical constraint that self-rescue does not remove.
 - [[GraduationAnxiety]], [[InternshipAsCareerExploration]], and [[WorkplaceHiddenRules]] — earlier career-stage concepts in the wiki.

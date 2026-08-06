@@ -2,7 +2,7 @@
 title: "Information Overload Knowledge Trap"
 type: concept
 tags: [knowledge, information, ai, cognition]
-sources: [132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
+sources: [154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
 last_updated: 2026-08-06
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-06
 Information overload knowledge trap is the episode's lesson from the PHD pirate and second-class demon story in [[TheCyberiad|《机器人大师》]]. In [[45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112]], the pirate wants true knowledge rather than treasure, so [[Trurl|特鲁勒]] builds a machine that extracts true statements from disorder. The output is true but mostly useless, and the pirate is buried under correct facts.
 
 The trap is that truth at the statement level does not equal understanding. A person can have more facts than they can orient, interpret, rank, or connect to a living question. The episode uses this story to comment on the internet and [[ChatGPT]] era: information is abundant, while search, question choice, comprehension, empathy, and judgment remain scarce.
+
+[[154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x]] adds the autonomy-loss version. [[DavidWeng|大卫翁]] connects heavy phone use, frequent pickups, fragmented feeds, and AI answers to a loss of self-directed thought: abundance does not only confuse; it can make the person stop noticing when attention and conclusion formation have been outsourced.
 
 [[vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]] adds the emotional-consumption version. [[FuYu|傅宇]] and [[Dalaoshi|大老师]] argue that people may have more access to information than before while also seeking resonance,爽感, and同温层, because full complexity is too costly to process continuously.
 
@@ -26,9 +28,11 @@ The trap is that truth at the statement level does not equal understanding. A pe
 - Vol.102 adds that overload can lead people to choose the emotionally bearable slice of reality, not only the most useful or accurate one.
 - Episode 132 adds that overload can suppress desire when feeds make possible lives feel already consumed, socially out of reach, or too costly to attempt.
 - Vol.124 adds that information overload becomes financially dangerous when it collapses observation, forecast, and portfolio action into one anxious reflex.
+- Episode 154 adds that overload can become autonomy loss when the person no longer knows whether a thought came from deliberate attention, feed impulse, or an AI answer.
 
 ## Connections
 - [[TheCyberiad|《机器人大师》 / The Cyberiad]], [[StanislawLem|斯坦尼斯拉夫·莱姆]], and [[Trurl|特鲁勒]] - source story and author context.
+- [[AutonomyUnderInformationFlow]], [[AIUsePacing]], [[FeedCuration]], and [[ScreenTimeFriction]] - episode 154's autonomy and input-governance extension.
 - [[ChatGPT]], [[HumanJudgmentUnderAI]], and [[AIAssistedReading]] - modern AI information-use boundary.
 - [[PersonalKnowledgeEcology]] - adjacent practice of turning abundant material into usable personal context.
 - [[KnowledgeMonopoly]] - contrast case where knowledge is scarce because access is restricted rather than excessive.

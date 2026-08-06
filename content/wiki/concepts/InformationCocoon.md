@@ -2,7 +2,7 @@
 title: "Information Cocoon / 信息茧房"
 type: concept
 tags: [media, psychology, internet-culture, polarization]
-sources: [141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]
+sources: [154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]
 last_updated: 2026-08-06
 ---
 
@@ -16,6 +16,8 @@ The episode links information cocoons to online groups, politicized vaccine info
 
 [[141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]] adds the subscription-and-algorithm version. [[DavidWeng|大卫翁]] argues that subscriptions cluster people with similar interests and worldviews, while algorithmic feeds behave like an even more granular cocoon by using likes, shares, watch time, and topic reactions to keep routing users toward similar events and viewpoints.
 
+[[154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x]] adds a deliberate-exposure response. [[DavidWeng|大卫翁]] says he sometimes listens to views he does not share, such as All-In or Japanese right-wing perspectives, not to agree but to see the limits of his own worldview. The source frames this as [[FeedCuration]] for worldview testing rather than passive algorithmic exposure.
+
 ## Key Claims
 - Selective exposure lowers the chance that contrary evidence reaches the person as usable evidence.
 - Group reward makes repeated claims feel more credible and safer to repeat.
@@ -23,6 +25,7 @@ The episode links information cocoons to online groups, politicized vaccine info
 - Public argument can sometimes puncture the cocoon for bystanders even when insiders do not concede.
 - Subscriptions can isolate audience groups around preferred creators, while algorithmic feeds can isolate users around repeated event-level and viewpoint-level signals.
 - Market narratives can become more extreme when investment content spreads inside platform-shaped cocoons.
+- Episode 154 adds that leaving a cocoon can be intentional and limited: the aim is to test one's own frame without outsourcing judgment to the opposing group.
 
 ## Connections
 - [[GroupPolarization]] - dynamic that can intensify inside the cocoon.
@@ -31,3 +34,4 @@ The episode links information cocoons to online groups, politicized vaccine info
 - [[PublicArgumentForBystanders]] - public speech as a way to leave evidence outside the closed group.
 - [[CreatorDrivenFinancialNarrative]] - episode 141's financial-market version of cocooned creator influence.
 - [[CreatorFactCheckingResponsibility]] - verification duty when creators speak inside closed or reinforcing audience groups.
+- [[FeedCuration]], [[InvestmentWorldviewFit]], and [[AutonomyUnderInformationFlow]] - episode 154's worldview-testing and autonomy branch.

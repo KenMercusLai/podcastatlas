@@ -2,7 +2,7 @@
 title: "Attention Industrialization"
 type: concept
 tags: [attention, media, ai, platforms]
-sources: [132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708, 123-renxing-shiyan-dangxin-ni-ziji-779479569, tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
+sources: [154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708, 123-renxing-shiyan-dangxin-ni-ziji-779479569, tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
 last_updated: 2026-08-06
 ---
 
@@ -17,6 +17,8 @@ The concept connects platform incentives to AI risk. The danger is not only that
 [[vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]] adds the social-label version through [[AlgorithmicLabeling]]. The source argues that platforms reward simple, emotional, binary categories, so young people may start interpreting classmates, roommates, and gender debates through labels before slower understanding can happen.
 
 [[132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo]] adds the desire-preemption version through [[AlgorithmicDesirePreemption]]. The source argues that social feeds can industrialize not only attention but wanting itself: repeated exposure to other people's promotions, trips, bodies, goods, and milestones can make a person feel desire as comparison, exhaustion, or exclusion before they have acted.
+
+[[154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x]] adds the midlife autonomy version through [[AutonomyUnderInformationFlow]]. [[DavidWeng|大卫翁]] treats eight-hour phone use, frequent pickups, and AI answer dependence as signs that attention industrialization can become less dramatic than addiction but more continuous: the person is always supplied with the next fragment or answer before choosing a full thought.
 
 [[tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128]] adds the consumer-market response through [[DigitalDetoxEconomy]] and [[ScreenTimeFriction]]. The episode shows people paying for apps, objects, and heavy cases that make phones harder to use, while [[TanyaSujohn]] argues that phone overuse reflects technologies working as designed rather than only personal weakness.
 
@@ -39,9 +41,11 @@ The concept connects platform incentives to AI risk. The danger is not only that
 - Source 123 adds that distraction can make false claims stick even when they are marked as false, which turns presentation pace into an epistemic risk.
 - The sp.06 source adds that algorithmic attention can make creators choose recognizable or anger-generating books and angles even when slower curiosity would better serve reading.
 - Episode 143 adds that "diffuse" attention is not the same as feed capture; healthy looseness needs recovery and integration rather than endless stimulation.
+- Episode 154 adds that answer-first AI can join feeds as a supply chain for thought, making complete self-directed reasoning harder to preserve.
 
 ## Connections
 - [[AIUsePacing]] — individual discipline for limiting AI-created work and information consumption.
+- [[AutonomyUnderInformationFlow]], [[ScreenTimeFriction]], and [[PodcastAsAsynchronousMedia]] - episode 154's phone, AI, and long-form counter-practice branch.
 - [[HumanAgencyUnderAI]] — attention choice is part of agency.
 - [[AttentionAsWeather]] — adjacent frame that attention is socially and materially patterned.
 - [[LanguagePrecision]] — words and symbols help decide what people notice and how they interpret it.

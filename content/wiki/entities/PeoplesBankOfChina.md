@@ -2,11 +2,13 @@
 title: "People's Bank of China"
 type: entity
 tags: [institution, central-bank, currency, macroeconomics]
-sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439, 173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe]
+sources: [154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439, 173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe]
 last_updated: 2026-08-06
 ---
 
 # People's Bank of China
+
+[[154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x]] adds a career-history use of the People's Bank of China. [[DavidWeng|大卫翁]] describes leaving the PBoC system in 2015 after frustration with promotion and talent-plan expectations, then says that ten years later he can see the management-side resource-allocation and fairness constraints more clearly. This makes the institution part of [[CareerExitFriction]] and [[CareerSelfRescue]], not only the wiki's macro-policy branch.
 
 [[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds a 2026 appreciation-pressure version. [[Ricky]] says almost no institutions he spoke with expected RMB depreciation in 2026, with many watching roughly 6.85; the episode treats the [[PeoplesBankOfChina|PBoC]] as unlikely to fight orderly appreciation, while still expected to prevent excessive volatility.
 
@@ -32,6 +34,7 @@ The People's Bank of China appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui
 - Episode 129 adds that RMB credibility depends on the real-economy and payment network supporting the currency, not only on the central bank's policy settings.
 
 ## Connections
+- [[CareerExitFriction]], [[CareerSelfRescue]], and [[DavidWeng|大卫翁]] - episode 154's career-history use of the institution.
 - [[RMBExchangeRatePolicy]], [[CurrencyRisk]], and [[ChinaEquityRealEconomyGap]] - episode 153's appreciation-consensus and asset-pricing branch.
 - [[RMBExchangeRatePolicy]] — concept capturing the managed-stability frame.
 - [[CurrencyRisk]] — practical investor risk when switching between RMB, USD, and other currencies.

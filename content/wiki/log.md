@@ -6185,3 +6185,11 @@ Added source page for a 起朱楼宴宾客 annual macro and capital-market outlo
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 154.四十岁感言：不做那只温水里的青蛙
+
+Added source page for a 起朱楼宴宾客 forty-year-old personal reflection by 大卫翁 on leaving the People's Bank system, the 2015 market crash, private funds, investor education, platform social capital, mentor/sponsor politics, leaving finance, telos crisis, midlife self-knowledge, habits, worldview, and protecting autonomy from phones, feeds, and AI answers. Created pages for Career Exit Friction, Finance Platform Social Capital, Telos Crisis, Habit Positive Feedback, Autonomy Under Information Flow, The Second Mountain, Yan Fei, Wang Wan, and 《跑外卖：一个女骑手的世界》; updated overview and index plus related show, host, finance-career, AI-agency, attention, habit, and midlife pages. No direct contradiction found; the source qualifies creator/career optionality by showing that podcast and content exits depend on accumulated skills, resources, and support rather than a universal midlife recipe.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran health before lint; health scanned 8,782 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 8,782 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 8,782 pages, so graph findings are advisory until `build graph` refreshes it. The graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`. No `wiki/lint-report.md` file was saved.

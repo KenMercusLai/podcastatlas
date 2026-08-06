@@ -2,7 +2,7 @@
 title: "Feed Curation"
 type: concept
 tags: [attention, media, life-design, agency]
-sources: [e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
+sources: [154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
 last_updated: 2026-07-09
 ---
 
@@ -12,6 +12,8 @@ Feed curation is the practice of deliberately shaping the information and social
 
 The episode's rule is that a lower-level constraint can create higher-level freedom. Restricting the feed looks like less input, but it can create more thinking room, deeper relationships, and more legible memory. [[MengYan]] summarizes the point as "your feed is your fate": the material that repeatedly enters attention becomes part of who the person is becoming.
 
+[[154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x]] adds [[DavidWeng|大卫翁]]'s midlife autonomy version. He notices heavy phone use and worries that feeds plus AI can make attention reactive, while also describing the deliberate act of listening to opposing or unfamiliar worldviews as a way to test the limits of one's own frame without surrendering judgment.
+
 Feed curation extends [[AttentionIndustrialization]] from critique to practice. If platforms and AI systems can industrialize mental intake, the user needs active input governance rather than relying on willpower after the feed has already been optimized against them.
 
 ## Key Claims
@@ -20,9 +22,11 @@ Feed curation extends [[AttentionIndustrialization]] from critique to practice. 
 - Social curation can make people visible again instead of turning contacts into undifferentiated noise.
 - Feed design connects to [[PersonalKnowledgeEcology]] because inputs become notes, questions, memories, and future frames.
 - AI-era speed makes feed curation more important because models can multiply whatever input diet the user provides.
+- Episode 154 adds that curation includes choosing when to expose oneself to disagreeable views for worldview testing, not only reducing noisy inputs.
 
 ## Connections
 - [[AttentionIndustrialization]] — platform-level problem feed curation responds to.
+- [[AutonomyUnderInformationFlow]] and [[InformationCocoon]] — episode 154's autonomy and worldview-testing extension.
 - [[AIUsePacing]] — practical discipline for limiting AI and information overrun.
 - [[HumanAgencyUnderAI]] and [[WetStateHumanAgency]] — agency requires chosen inputs and protected volition.
 - [[PersonalKnowledgeEcology]] and [[AIAssistedReading]] — curated inputs feed the user's knowledge system.

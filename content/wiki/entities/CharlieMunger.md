@@ -2,11 +2,13 @@
 title: "Charlie Munger"
 type: entity
 tags: [person, investing]
-sources: [ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
+sources: [154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
 last_updated: 2026-07-08
 ---
 
 # Charlie Munger
+
+[[154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x]] adds a self-knowledge use of Munger. [[DavidWeng|大卫翁]] invokes the Munger-style priority of recognizing and avoiding weaknesses, then applies it away from investing: poor memory requires more preparation, lack of short-sleep capacity requires seven to eight hours, and strong willpower can itself create control and planning problems.
 
 Charlie Munger appears in [[ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj]] through the episode's use of inversion: before asking why a company is attractive, ask how it could die, mislead, or disappoint. The source uses that habit to justify reading financial statements as a defensive screening tool rather than only a search for upside.
 
@@ -22,6 +24,7 @@ Charlie Munger appears in [[ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-
 - The 42章经 interview uses Munger as a patience and leverage caution reference inside [[InvestmentRiskManagement]].
 
 ## Connections
+- [[HabitPositiveFeedback]], [[MidlifeAsGift]], and [[DavidWeng|大卫翁]] - episode 154's self-knowledge and weakness-avoidance branch.
 - [[WarrenBuffett]] — paired investing reference in the episode.
 - [[AccountingRedFlags]] and [[FinancialStatementAnalysis]] — practical application of inversion.
 - [[InvestmentRiskManagement]] — ordinary-investor discipline reinforced by the inversion frame.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [154.四十岁感言：不做那只温水里的青蛙](sources/154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x.md) — 起朱楼宴宾客 personal reflection by 大卫翁 on leaving the People's Bank system, the 2015 market crash, finance/content career turns, platform social capital, telos crisis, midlife self-knowledge, habits, worldview, and protecting autonomy from phones, feeds, and AI answers.
 - [153.全球宏观和资本市场2026展望：大年之后，仍是大年？](sources/153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d.md) — 起朱楼宴宾客 2026 macro and capital-market outlook with Ricky on 2025's asset-management big year, China equity-real-economy divergence, central balance-sheet demand support, RMB/gold/AI/private-market risks, insurance funds, and A/H plus Hong Kong structural selection.
 - [152.关于2026年的四个猜想](sources/152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz.md) — 起朱楼宴宾客 annual-prediction episode on 2026 threshold risks: Western AI backlash, private-market bubble opacity, Chinese excess savings seeking equity/insurance outlets, and Western China narratives possibly loosening.
 - [151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？](sources/151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1.md) — 起朱楼宴宾客 episode on private credit, direct lending, ABF, insurer funding, bank risk transfers, PIK, AI data-center project debt, and whether opaque credit channels can turn AI infrastructure enthusiasm into systemic financial risk.
@@ -774,6 +775,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [The Second Mountain / 第二座山](entities/TheSecondMountain.md) — Book used by episode 154 for the telos-crisis frame behind a successful but purpose-depleted finance career.
+- [严飞 / Yan Fei](entities/YanFei.md) — Professor whose autonomy vocabulary helps episode 154 name the loss of agency under phones, feeds, and AI answers.
+- [王婉 / Wang Wan](entities/WangWan.md) — Author of 《跑外卖：一个女骑手的世界》, used by episode 154 for a concrete image of stepping outside life's conveyor belt.
+- [《跑外卖：一个女骑手的世界》](entities/PaoWaimai.md) — Wang Wan book whose river-stone image anchors episode 154's autonomy-under-information-flow branch.
 - [Vanke / 万科](entities/Vanke.md) — Chinese property developer used by episode 153 as a property-sector confidence-break signal inside China's equity-real-economy gap.
 - [Bernie Sanders](entities/BernieSanders.md) — U.S. political figure used by episode 152 to frame anti-AI backlash around job dignity, class distribution, and technology gains.
 - [SoftBank](entities/SoftBank.md) — Technology investment company used by episode 152 as a private-market AI capital-rotation example.
@@ -5305,6 +5310,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Career Exit Friction / 职业退出摩擦](concepts/CareerExitFriction.md) — Episode 154 frame for why income, title, institution, and external admiration can trap a person in a no-longer-fit career.
+- [Finance Platform Social Capital / 金融平台社会资本](concepts/FinancePlatformSocialCapital.md) — Episode 154 claim that strong early finance platforms compound through reputation, referrals, mentors, and client context while also creating political and exit risks.
+- [Telos Crisis / 目的危机](concepts/TelosCrisis.md) — Purpose-collapse state used by episode 154 to explain why a successful role can still feel empty.
+- [Habit Positive Feedback / 习惯正反馈](concepts/HabitPositiveFeedback.md) — Episode 154 correction to pure willpower stories, where sustainable habits depend on interest, competence, records, and felt benefit.
+- [Autonomy Under Information Flow / 信息流中的自主性](concepts/AutonomyUnderInformationFlow.md) — Episode 154 concern that phones, feeds, and AI answers can erode chosen attention and independent thought.
 - [China Equity-Real Economy Gap / 中国股市与实体经济落差](concepts/ChinaEquityRealEconomyGap.md) — Episode 153 frame for Chinese equity strength coexisting with property, employment, consumption, and demand weakness.
 - [Central Balance-Sheet Demand Support / 中央资产负债表托底](concepts/CentralBalanceSheetDemandSupport.md) — Episode 153 claim that China’s 2026 demand repair increasingly requires central-government balance-sheet support.
 - [China Deflation Demand Repair / 中国通缩的需求侧修复](concepts/ChinaDeflationDemandRepair.md) — Episode 153 view that anti-involution and supply clearing need demand-side support to turn into inflation, orders, and earnings repair.
