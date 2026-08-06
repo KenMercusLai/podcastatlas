@@ -2,8 +2,8 @@
 title: "AI Bubble Hedging"
 type: concept
 tags: [ai, investing, allocation, risk]
-sources: [stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
-last_updated: 2026-07-24
+sources: [143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
+last_updated: 2026-08-06
 ---
 
 # AI Bubble Hedging
@@ -16,6 +16,8 @@ The episode's answer is not a perfect hedge. It weighs classic bonds, gold, defe
 
 [[so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]] adds a diagnosis limit before the hedge question. [[RobinGreenwood]]'s [[StatisticalBubbleIndicators]] make the AI boom look risky but incomplete, while [[GadiBarlevy|Gadi Barlevy]] shifts attention to the damage channels if it bursts: debt, bank exposure, jobs, spending, and whether some infrastructure remains useful. The hedge problem is therefore not only market price, but the investor's exposure to a broader AI-infrastructure and employment cycle.
 
+[[143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]] adds [[BubbleFinancingStructure]] as a sharper risk lens. [[DavidWeng|大卫翁]] is willing to call the AI trade a bubble while still classifying it as more productive and equity/cash-flow-funded than a debt-driven financial bubble. The hedge question therefore includes watching whether [[AIInfrastructureDebtFinancing]], [[DataCenterDebtRisk]], and [[PrivateCreditTailRisk]] become the dominant channel.
+
 ## Key Claims
 - [[AIEquityValuationRisk]] is not the same as disbelief in AI; a real technology can still produce a bubble.
 - Market timing is hard because bubble prices can rise dramatically before they break.
@@ -25,6 +27,7 @@ The episode's answer is not a perfect hedge. It weighs classic bonds, gold, defe
 - Long-term buy-and-hold remains a central discipline because panic-selling in a crash converts temporary drawdown into realized loss.
 - Zhu Ning's version of AI-bubble hedging begins with [[BubbleNecessaryConditions]] but rejects deterministic top-calling; warning signs should change exposure, leverage, and expectations rather than produce false certainty.
 - Greenwood's version reinforces hedging humility: if the signal is only weakly predictive, hedges should be sized for uncertainty rather than built around a confident crash date.
+- Episode 143 adds that financing mix is part of hedging: an equity-funded AI bubble and a debt/private-credit-funded AI bubble do not require the same risk budget.
 
 ## Connections
 - [[AIEquityValuationRisk]] and [[SpeculativeBubblePsychology]] — reason the hedge question arises.
@@ -34,3 +37,4 @@ The episode's answer is not a perfect hedge. It weighs classic bonds, gold, defe
 - [[JoshRoberts]] — correspondent explaining the hedge tradeoffs.
 - [[ZhuNing]], [[BubbleNecessaryConditions]], and [[PositionSizing]] — behavioral-finance extension from the 42章经 interview.
 - [[RobinGreenwood]], [[GadiBarlevy|Gadi Barlevy]], [[StatisticalBubbleIndicators]], [[LeanVersusCleanBubblePolicy]], and [[ProductiveBubbleSpillovers]] — Planet Money extension around diagnosis limits and macro spillovers.
+- [[BubbleFinancingStructure]], [[AIInfrastructureDebtFinancing]], [[DataCenterDebtRisk]], and [[PrivateCreditTailRisk]] — episode 143's financing-channel extension.

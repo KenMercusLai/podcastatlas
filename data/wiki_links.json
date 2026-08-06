@@ -371,6 +371,10 @@
     "title": "143. 对何小鹏的第二次访谈：更大赌注、人形机器人Iron诞生、那场意外、技术剧变下CEO、GX和缝合怪",
     "url": "/wiki/sources/143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc/"
   },
+  "143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz": {
+    "title": "143.如何判断一段行情是回调还是结束？| 三季度投资账复盘",
+    "url": "/wiki/sources/143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz/"
+  },
   "143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634": {
     "title": "143.遗忘的脑力：记性不好可咋整啊？",
     "url": "/wiki/sources/143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634/"
@@ -4926,6 +4930,10 @@
   "BuChengWenTiDeWenTi": {
     "title": "《不成问题的问题》",
     "url": "/wiki/entities/buchengwentidewenti/"
+  },
+  "BubbleFinancingStructure": {
+    "title": "Bubble Financing Structure",
+    "url": "/wiki/concepts/bubblefinancingstructure/"
   },
   "BubbleNecessaryConditions": {
     "title": "Bubble Necessary Conditions",
@@ -18746,6 +18754,10 @@
   "MarketMeanReversion": {
     "title": "Market Mean Reversion",
     "url": "/wiki/concepts/marketmeanreversion/"
+  },
+  "MarketPullbackVsTrendEnd": {
+    "title": "Market Pullback vs Trend End",
+    "url": "/wiki/concepts/marketpullbackvstrendend/"
   },
   "MarketRegimeShift": {
     "title": "Market Regime Shift",

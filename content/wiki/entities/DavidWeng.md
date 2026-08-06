@@ -60,6 +60,8 @@ In [[129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin
 
 In [[134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg]], he introduces the paid [[InvestmentMastersSeries|投资大师系列]] with [[XiaoXiaoPao|小小跑]] and [[Yubai|雨白]]. His main contribution is to keep the project away from simple biography or trade copying: famous investors are useful because their lives reveal [[EraTailwindInInvesting]], [[InvestmentStyleMap|style maps]], [[InvestmentWorldviewFit]], and the danger of ignoring [[PortfolioSuitability]].
 
+In [[143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]], he records a third-quarter 投资账 review after a strong risk-asset period. His main synthesis is [[MarketPullbackVsTrendEnd]]: investors cannot reliably know at the whole-market level whether a decline is only a pullback or the end of the trend, so they should move down to stock and sector thesis checks, use leaders as evidence, pre-set rules for bubbly assets, and keep [[OneToOneToOneAllocation]] from being overwhelmed by bull-market regret.
+
 ## Connections
 - [[QizhulouYanBinke|起朱楼宴宾客]] — source show.
 - [[ColumbiaJournalismSchool]], [[PodcastEnabledCareerPath]], [[CreatorDrivenFinancialNarrative]], [[CreatorFactCheckingResponsibility]], [[QiongQiong|琼琼]], and [[SituatedMediaObservation]] — episode 141 visiting-scholar and self-media responsibility branch.
@@ -88,3 +90,4 @@ In [[134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-c
 - [[ShifenXiyin|十分吸引]], [[ShiLei|时雷]], [[MoneyAsFlow]], [[CurrencyRisk]], [[GoldAsCurrencySpareTire]], [[CurrencyAnchorTransition]], and [[Bitcoin]] — episode 129 money, gold, and currency-anchor branch.
 - [[InvestmentMastersSeries]], [[XiaoXiaoPao|小小跑]], [[Yubai|雨白]], [[HowardMarks]], [[PeterLynch]], [[StanleyDruckenmiller]], and [[PaulTudorJones]] — episode 134 investment-master preview branch.
 - [[ChineseBankWealthManagement]], [[BankWealthManagementSubsidiary]], [[AssetManagementNewRules]], [[WealthManagementFundPoolRisk]], and [[BankWealthProductSuitability]] — episode 136 bank wealth-management and buying-suitability branch.
+- [[MarketPullbackVsTrendEnd]], [[BubbleFinancingStructure]], [[OneToOneToOneAllocation]], and [[AIBubbleHedging]] — episode 143 Q3 投资账, pullback discipline, and AI-bubble financing branch.

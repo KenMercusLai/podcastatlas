@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [143.如何判断一段行情是回调还是结束？| 三季度投资账复盘](sources/143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz.md) — 起朱楼宴宾客 Q3 投资账 review on pullback-versus-trend-end discipline, China valuation repair, AI bubble financing structure, private-credit escalation risk, and asset-allocation behavior in a bull market.
 - [142.日本消费者为何如此痴迷“季节限定”？| 串台跨海电波](sources/142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq.md) — 起朱楼宴宾客 crossover with 跨海电波 on Japan's seasonal-limited consumer culture, regional and calendar-based scarcity, story-led premiums, channel trust, after-sales expectations, and Chinese brands entering Japan.
 - [141.加更：因为播客，我受邀去哥伦比亚大学做访问学者了](sources/141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj.md) — 起朱楼宴宾客 personal addendum on David Weng's Columbia Journalism School visiting-scholar opportunity, podcast-enabled career paths, creator-driven financial narratives, creator fact-checking, algorithmic information cocoons, and situated U.S. media observation.
 - [140.酒店集团为什么都热衷于打造会员和积分体系？| 串台远行者与碎冰匠](sources/140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew.md) — 起朱楼宴宾客 crossover with 远行者与碎冰匠 on hotel loyalty programs, direct booking, OTA channel pressure, hotel brand portfolios, star-rating erosion, asset-light hotel groups, and service SOP versus human hospitality.
@@ -5249,6 +5250,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Market Pullback vs Trend End](concepts/MarketPullbackVsTrendEnd.md) — Episode 143 framework for distinguishing stock, sector, and market pullbacks from thesis-ending breaks through fundamentals, leaders, observation windows, and sizing rules.
+- [Bubble Financing Structure](concepts/BubbleFinancingStructure.md) — Productive/nonproductive and equity/debt bubble taxonomy used by episode 143 to locate AI risk and the danger of debt/private-credit financing channels.
 - [Japanese Seasonal Limited Consumption / 日本季节限定消费](concepts/JapaneseSeasonalLimitedConsumption.md) — Japan consumer-culture pattern where time, region, channel, or quantity limitation works by attaching products to seasonal rituals and local stories.
 - [Japan Market Entry Trust / 日本市场进入信任](concepts/JapanMarketEntryTrust.md) — Market-entry trust frame for outside brands selling into Japan through channel backing, offline confirmation, service detail, origin transparency, and slow relationship building.
 - [Creator-Driven Financial Narrative / 创作者驱动的财经叙事](concepts/CreatorDrivenFinancialNarrative.md) — Episode 141 research frame for how creators, podcasts, subscriptions, social platforms, and algorithms reshape macro and market narratives.

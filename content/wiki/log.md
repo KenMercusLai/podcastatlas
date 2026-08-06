@@ -6101,3 +6101,7 @@ Added source page for a 起朱楼宴宾客 crossover with 跨海电波 on Japane
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-06] ingest | 143.如何判断一段行情是回调还是结束？| 三季度投资账复盘
+
+Added source page for a 起朱楼宴宾客 Q3 投资账 review by 大卫翁 on profitable bull-market behavior, China valuation repair, AI bubble financing structure, and how to judge whether a decline is a pullback or a trend end. Created pages for Market Pullback vs Trend End and Bubble Financing Structure; updated overview, index, 起朱楼宴宾客, 大卫翁, Peter Lynch, Oracle, Investment Risk Management, Drawdown Psychology, Macro Event vs Macro Trend Distinction, 1:1:1 Allocation Anchor, A/H Share 2025 Barbell, Asset Allocation, AI Bubble Hedging, AI Infrastructure Debt Financing, Data Center Debt Risk, and Private Credit Tail Risk. No direct contradiction found; the source extends the wiki's 投资账 branch by showing that ordinary investors need smaller-unit thesis checks, leader-stock observation, pre-set rules, position sizing, and allocation discipline rather than reliable real-time market top-calling.

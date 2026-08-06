@@ -88,6 +88,8 @@ The episode is explicitly cautious about expertise. It presents the discussion a
 
 [[135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq]] adds a 2025 half-year investment-account review. [[DavidWeng|大卫翁]] uses first-half returns, April tariff-war calm, missed staged deployment, gold, short Treasuries, and Hong Kong IPO cash planning to extend the show's ordinary-investor branch through [[OrdinaryInvestorMacroBoundary]], [[InvestmentPlanExecutionDiscipline]], and [[DividendTechnologyBarbell]].
 
+[[143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]] adds the show's third-quarter 投资账 branch. [[DavidWeng|大卫翁]] uses a strong Q3 portfolio review to extend the show's ordinary-investor discipline into [[MarketPullbackVsTrendEnd]], [[BubbleFinancingStructure]], [[OneToOneToOneAllocation]], and AI-bubble financing risk: bull-market gains still need rebalancing, while AI risk depends partly on whether financing stays equity/cash-flow based or moves deeper into debt and private credit.
+
 [[136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt]] continues the show's "金融机构是如何运作的" sequence with [[ChineseBankWealthManagement|Chinese bank wealth management]]. [[DavidWeng|大卫翁]] connects [[AssetManagementNewRules|资管新规]], [[BankWealthManagementSubsidiary|bank wealth-management subsidiaries]], [[WealthManagementFundPoolRisk|fund-pool risk]], and [[BankWealthProductSuitability]] to the show's recurring ordinary-investor rule: product channels and familiar institutions do not remove the need to understand assets, liquidity, incentives, and holdability.
 
 ## Connections
@@ -132,5 +134,6 @@ The episode is explicitly cautious about expertise. It presents the discussion a
 - [[ShifenXiyin|十分吸引]], [[ShiLei|时雷]], [[MoneyAsFlow]], [[EndogenousMoneyCreation]], [[PaymentClearingNetwork]], [[CurrencyAnchorTransition]], and [[GoldAsCurrencySpareTire]] — episode 129's monetary-system and gold-anchor branch.
 - [[InvestmentMastersSeries]], [[XiaoXiaoPao|小小跑]], [[Yubai|雨白]], [[InvestmentMasterNarrative]], [[InvestmentStyleMap]], [[EraTailwindInInvesting]], and [[InvestorIdolRisk]] — episode 134's investment-master preview branch.
 - [[OrdinaryInvestorMacroBoundary]], [[InvestmentPlanExecutionDiscipline]], [[DividendTechnologyBarbell]], and [[HongKongIPOLiquidityPath]] — episode 135's half-year investment-review branch.
+- [[MarketPullbackVsTrendEnd]], [[BubbleFinancingStructure]], [[AIBubbleHedging]], and [[PrivateCreditTailRisk]] — episode 143's Q3 review, pullback discipline, and AI-bubble-financing branch.
 - [[ChineseBankWealthManagement]], [[BankWealthManagementSubsidiary]], [[AssetManagementNewRules]], [[WealthManagementFundPoolRisk]], and [[BankWealthProductSuitability]] — episode 136's bank wealth-management and product-suitability branch.
 - [[YoumamaMaomao|尤妈妈 / 猫猫]], [[RuleBoundOverthinking]], [[LowDesireDefensiveContraction]], [[AlgorithmicDesirePreemption]], and [[SocialTemplateDesire]] — episode 132's workplace, overthinking, and low-desire branch.

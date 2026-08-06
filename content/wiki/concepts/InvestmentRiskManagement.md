@@ -3,6 +3,7 @@ title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
 sources:
+  - 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz
   - 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt
   - 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq
   - 134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg
@@ -89,6 +90,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 [[135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq]] adds the half-year behavior version: even after a profitable period, risk management includes not abandoning a staged deployment plan, avoiding macro-event overtrading, keeping short Treasuries as cash-like reserves rather than rate bets, rebalancing gold back toward its intended shock-absorber role, and reducing market-checking frequency when attention itself becomes a risk.
 
 [[136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt]] adds the bank wealth-management version: risk management for [[ChineseBankWealthManagement|bank wealth products]] means looking past bank trust and smooth historical returns to asset type, valuation method, maturity mismatch, implicit-guarantee history, channel incentives, and whether the product's role fits [[BankWealthProductSuitability]].
+
+[[143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]] adds the bull-market pullback version through [[MarketPullbackVsTrendEnd]]. The source says investors often mistake pullbacks for endings and endings for pullbacks, so risk management should not depend on perfect top-calling. Instead, it uses smaller-unit thesis checks, leading-stock observation, a pre-set 20%-style exit rule for assets already judged bubbly, and portfolio sizing that keeps one mistaken call from damaging the whole allocation.
 
 [[e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]] adds the multi-asset product version: risk management includes the client's maximum drawdown, path volatility, product comprehension, [[AssetCorrelation]], and whether tactical macro views stay inside a defined allocation sleeve.
 

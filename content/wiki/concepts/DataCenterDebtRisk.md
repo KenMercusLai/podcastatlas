@@ -2,8 +2,8 @@
 title: "Data Center Debt Risk"
 type: concept
 tags: [ai, data-centers, finance, infrastructure]
-sources: [7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52, tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52, tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]
+last_updated: 2026-08-06
 ---
 
 # Data Center Debt Risk
@@ -24,6 +24,8 @@ The concept extends the wiki's AI infrastructure branch beyond power and permitt
 
 [[tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128]] adds the investor-expertise angle through [[DavidKirsch]]. The episode notes that AI speculation may be less retail-public than the dot-com boom, but Kirsch still treats many debt, data-center, private-credit, or hedge-fund participants as novices if they do not understand AI's technical and adoption risks.
 
+[[143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]] adds a portfolio-risk framing through [[BubbleFinancingStructure]]. The source says AI infrastructure can remain a productive bubble while still becoming dangerous if the financing base shifts from equity and hyperscaler cash flow toward debt and private credit; [[Oracle]] is the host's concrete warning example.
+
 ## Key Claims
 - AI data centers can create balance-sheet and credit risk before their long-term cloud revenue is proven.
 - Third-party data-center development can make capacity growth faster, but it can also expose cloud providers to lease, financing, counterparty, and project-delay risk.
@@ -36,6 +38,7 @@ The concept extends the wiki's AI infrastructure branch beyond power and permitt
 - Useful post-bust assets do not remove debt risk; the dot-com fiber story shows that infrastructure can become socially valuable after some builders fail.
 - Professional investors can still function as novices when the financing structure is familiar but the technology, demand path, and adoption clock are not.
 - Circular compute demand can amplify data-center finance risk even without a conventional bank-debt story, because leases and GPU orders may depend on the same AI revenue assumptions.
+- Episode 143 adds that financing structure should be monitored as a regime signal: productive assets funded by debt can still transmit losses more severely than productive assets funded by equity.
 
 ## Connections
 - [[Oracle]] - main company case in the source.
@@ -50,3 +53,4 @@ The concept extends the wiki's AI infrastructure branch beyond power and permitt
 - [[PaulVixie]] and [[DarkFiber]] - Marketplace Tech's historical example of bankruptcies coexisting with later infrastructure value.
 - [[DavidKirsch]] and [[TechBubbleConditions]] - novice-investor and private-credit context added by the later Marketplace Tech episode.
 - [[AICircularInfrastructureFinancing]], [[CoreWeave]], [[AIRevenueLegibility]], and [[AICapexReturnWindow]] - circular demand and commercial-window extension added by What's Next.
+- [[BubbleFinancingStructure]] and [[PrivateCreditTailRisk]] - episode 143's debt-versus-equity and private-credit escalation branch.
