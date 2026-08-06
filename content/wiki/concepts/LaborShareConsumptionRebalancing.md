@@ -2,11 +2,13 @@
 title: "Labor-Share Consumption Rebalancing"
 type: concept
 tags: [china, consumption, distribution, macro]
-sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
 last_updated: 2026-08-06
 ---
 
 # Labor-Share Consumption Rebalancing
+
+[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds the supply-versus-demand consumption version. The source says loosening permits, tourism, games, events, and service supply can help, but durable consumption repair still depends on social security, medical, pension, unemployment protection, employment, and wealth effects.
 
 Labor-share consumption rebalancing is the episode's claim that durable Chinese consumption repair requires more income and liquidity flowing to workers and households, not only lower prices or temporary subsidy campaigns. In [[vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]], [[MouYiling|牟一凌]] distinguishes policies that create inflationary price expectations from policies that reduce effective prices and release consumption quantity, while [[LanXiaokang|蓝小康]] argues that wages, social security, subsidies, working hours, and leisure structure all matter for a new consumption cycle.
 

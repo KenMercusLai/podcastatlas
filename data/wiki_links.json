@@ -459,6 +459,10 @@
     "title": "152.夜色如水话七夕，牛郎原本是保安？【民俗学系列填坑啦】",
     "url": "/wiki/sources/152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062/"
   },
+  "153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d": {
+    "title": "153.全球宏观和资本市场2026展望：大年之后，仍是大年？",
+    "url": "/wiki/sources/153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d/"
+  },
   "153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296": {
     "title": "153.我的名字叫红：用一千零一夜的心跳完成这场谋杀(上）",
     "url": "/wiki/sources/153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296/"
@@ -5767,6 +5771,10 @@
     "title": "Centers for Medicare & Medicaid Services",
     "url": "/wiki/entities/centersformedicareandmedicaidservices/"
   },
+  "CentralBalanceSheetDemandSupport": {
+    "title": "Central Balance-Sheet Demand Support / 中央资产负债表托底",
+    "url": "/wiki/concepts/centralbalancesheetdemandsupport/"
+  },
   "CentralBankIndependence": {
     "title": "Central Bank Independence",
     "url": "/wiki/concepts/centralbankindependence/"
@@ -6175,6 +6183,10 @@
     "title": "China Corporate Anti-Involution",
     "url": "/wiki/concepts/chinacorporateantiinvolution/"
   },
+  "ChinaDeflationDemandRepair": {
+    "title": "China Deflation Demand Repair / 中国通缩的需求侧修复",
+    "url": "/wiki/concepts/chinadeflationdemandrepair/"
+  },
   "ChinaDivergentTechnologyRoute": {
     "title": "China Divergent Technology Route",
     "url": "/wiki/concepts/chinadivergenttechnologyroute/"
@@ -6182,6 +6194,14 @@
   "ChinaDivorceRestrictions": {
     "title": "China Divorce Restrictions",
     "url": "/wiki/concepts/chinadivorcerestrictions/"
+  },
+  "ChinaEquityRealEconomyGap": {
+    "title": "China Equity-Real Economy Gap / 中国股市与实体经济落差",
+    "url": "/wiki/concepts/chinaequityrealeconomygap/"
+  },
+  "ChinaEquityStructuralSelection": {
+    "title": "China Equity Structural Selection / 中国权益结构分化",
+    "url": "/wiki/concepts/chinaequitystructuralselection/"
   },
   "ChinaEverbrightBank": {
     "title": "China Everbright Bank / 光大银行",
@@ -30426,6 +30446,10 @@
   "Vanguard": {
     "title": "Vanguard",
     "url": "/wiki/entities/vanguard/"
+  },
+  "Vanke": {
+    "title": "Vanke / 万科",
+    "url": "/wiki/entities/vanke/"
   },
   "VannetteHo": {
     "title": "Vannette Ho",

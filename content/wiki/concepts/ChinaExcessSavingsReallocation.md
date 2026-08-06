@@ -2,11 +2,13 @@
 title: "China Excess Savings Reallocation / 中国超额储蓄再配置"
 type: concept
 tags: [china, household-finance, saving, investing, equities]
-sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]
+sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]
 last_updated: 2026-08-06
 ---
 
 # China Excess Savings Reallocation / 中国超额储蓄再配置
+
+[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] turns the 2026 savings-flow guess into an asset-allocation channel. The source links property wealth loss, low yields, and demand for savings-style insurance to the possibility that household money reaches equities indirectly through insurers and directly through funds or indexes, while still requiring suitability and volatility discipline.
 
 China excess savings reallocation is [[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]]'s third 2026 guess: household deposits accumulated after 2022 will eventually seek a new outlet. [[DavidWeng|大卫翁]] connects the buildup to precautionary saving, the weakening of the real-estate reservoir, falling low-risk product yields, and the breakdown of old implicit-guarantee beliefs.
 

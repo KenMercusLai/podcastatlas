@@ -6177,3 +6177,11 @@ Added source page for a 起朱楼宴宾客 annual-prediction episode by 大卫�
 ## [2026-08-06] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes while the wiki scan found 8,766 pages; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-06] ingest | 153.全球宏观和资本市场2026展望：大年之后，仍是大年？
+
+Added source page for a 起朱楼宴宾客 annual macro and capital-market outlook with Ricky and 大卫翁 on 2025 as an asset-management big year, China's equity-real-economy divergence, property and employment pressure, central balance-sheet demand support, RMB appreciation, gold as hedge, U.S. AI capex, private-market/private-credit bubble opacity, insurance funds, public-fund tooling, and 2026 A/H plus Hong Kong structural selection. Created pages for China Equity-Real Economy Gap, Central Balance-Sheet Demand Support, China Deflation Demand Repair, China Equity Structural Selection, and Vanke; updated overview, index, Ricky, 大卫翁, 起朱楼宴宾客, China, United States, Venezuela, People's Bank of China, Federal Reserve, Blackstone, South Korea, and related macro, AI, gold, fund, and allocation concepts. No direct contradiction found; the source extends the 2025 outlook and mid-year macro review by showing that the capital-market rally ran ahead of full macro repair, and it keeps the 2026 bullish China-risk-asset view conditional on demand, deflation, earnings, AI-capex, and financing-structure confirmation.
+
+## [2026-08-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

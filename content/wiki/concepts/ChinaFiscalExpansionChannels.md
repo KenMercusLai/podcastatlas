@@ -2,11 +2,13 @@
 title: "China Fiscal Expansion Channels"
 type: concept
 tags: [china, fiscal-policy, macro, debt]
-sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
 # China Fiscal Expansion Channels
+
+[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds [[CentralBalanceSheetDemandSupport]] as the sharper 2026 version. [[Ricky]] argues that if households, firms, local governments, and property actors are all cautious, the central-government balance sheet becomes the actor most able to absorb risk and support demand.
 
 China fiscal expansion channels are the source's map of how a looser 2025 fiscal stance could move from headline policy into household, firm, and local-government balance sheets. [[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] mentions local special bonds, special treasury bonds, "两重两新" projects, financial-institution capital replenishment, policy-bank activity, local-debt resolution, housing inventory purchase, and arrears cleanup.
 

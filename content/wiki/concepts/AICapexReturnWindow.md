@@ -2,11 +2,13 @@
 title: "AI Capex Return Window"
 type: concept
 tags: [ai, capex, investing, commercialization]
-sources: [7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]
-last_updated: 2026-08-05
+sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]
+last_updated: 2026-08-06
 ---
 
 # AI Capex Return Window
+
+[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds a dated 2026 market-test layer. [[Ricky]] says U.S. AI stocks may still have value, but April-May 2026 could force a revision between capex expectations and actual data; the bottlenecks he highlights include data centers, power, and infrastructure delivery.
 
 AI capex return window is the [[7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]] frame for judging whether huge AI infrastructure spending can produce visible business returns quickly enough for public markets. [[AaronWhatsNext|Aaron]] argues that capex itself is not the problem; the problem is whether data centers, GPUs, chips, and compute networks turn into revenue within a commercially meaningful one-to-three-year window.
 

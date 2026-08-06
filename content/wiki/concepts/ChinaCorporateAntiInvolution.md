@@ -2,11 +2,13 @@
 title: "China Corporate Anti-Involution"
 type: concept
 tags: [china, industry, competition, industrial-policy]
-sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
+sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
 last_updated: 2026-08-06
 ---
 
 # China Corporate Anti-Involution
+
+[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds a deflation-policy qualification. [[Ricky]] says anti-involution and production clearing over the past year were mainly supply-side tools, while the bigger macro problem is still low inflation and insufficient demand.
 
 China corporate anti-involution is the source's third 2025 guess in [[vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g]]. The host argues that price-war competition in medical procurement, new-energy vehicles, power batteries, and photovoltaics may have reached a point where internal opinion and external pressure both demand policy response.
 

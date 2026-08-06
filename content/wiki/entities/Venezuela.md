@@ -2,11 +2,13 @@
 title: "Venezuela"
 type: entity
 tags: [country, politics, economics, oil, currency, disaster-response, crypto]
-sources: [chevron-venezuela-and-the-paradox-of-plenty, venezuelas-recent-economic-history-update, dark-times-for-cubas-economic-experiment, the-secret-meeting-that-launched-opec, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]
-last_updated: 2026-07-24
+sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, chevron-venezuela-and-the-paradox-of-plenty, venezuelas-recent-economic-history-update, dark-times-for-cubas-economic-experiment, the-secret-meeting-that-launched-opec, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]
+last_updated: 2026-08-06
 ---
 
 # Venezuela
+
+[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds a China-facing geopolitical-risk use of Venezuela. [[Ricky]] says an extreme deterioration in Venezuela could matter for [[China]] because Chinese loans, resource interests, infrastructure projects, and South America positioning would be exposed, making the country a resource-security and overseas-balance-sheet example inside the episode rather than a standalone Venezuela history update.
 
 [[chevron-venezuela-and-the-paradox-of-plenty]] adds the long oil-history layer behind Venezuela's later collapse. The [[PlanetMoney]] episode traces the country from the 1922 [[LakeMaracaibo]] gusher through foreign concessions, [[DutchDisease]], [[OilConcessionBargaining]], [[OPEC]], [[OilNationalization]], and [[PDVSA]], making Venezuela an early [[Petrostate]] and a core [[PoliticalResourceCurse]] case in [[TerryKarl]]'s framing.
 
@@ -27,6 +29,7 @@ In the source, shortages of machinery, fuel, medical capacity, trained personnel
 [[dark-times-for-cubas-economic-experiment]] adds Venezuela as [[Cuba]]'s later oil lifeline after the [[SovietUnion]] collapsed. The episode says the 2000 arrangement sent Venezuelan oil to Cuba in exchange for Cuban services such as doctors, teachers, and sports coaches, then treats Venezuela's later decline and U.S. pressure on oil shipments as a key trigger for Cuba's [[OilDependencyBlackoutRisk]].
 
 ## Connections
+- [[China]] and [[InvestmentRiskManagement]] - episode 153's China-facing geopolitical and overseas-asset risk context.
 - [[Chevron]], [[PDVSA]], [[ExxonMobil]], and [[ConocoPhillips]] — oil-company and state-company branch added by the Chevron episode.
 - [[TerryKarl]], [[MiguelTinkerSalas]], [[JuanPabloPerezAlfonso]], and [[LakeMaracaibo]] — expert, historian, oil minister, and discovery site grounding the long oil-history branch.
 - [[Petrostate]], [[DutchDisease]], [[OilConcessionBargaining]], [[OilNationalization]], [[OilCompanyEnclave]], and [[PoliticalResourceCurse]] — new oil-economy concepts added by the source.

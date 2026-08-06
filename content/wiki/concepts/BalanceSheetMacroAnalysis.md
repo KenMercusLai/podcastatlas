@@ -2,11 +2,13 @@
 title: "Balance-Sheet Macro Analysis"
 type: concept
 tags: [macroeconomics, balance-sheet, debt, investing]
-sources: [173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe]
-last_updated: 2026-07-17
+sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe]
+last_updated: 2026-08-06
 ---
 
 # Balance-Sheet Macro Analysis
+
+[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds a policy-capacity application. [[Ricky]] reads households, property developers, firms, and local governments as balance-sheet-constrained, then identifies the central government balance sheet as the actor with the greatest room to add leverage and stabilize demand.
 
 Balance-sheet macro analysis is the method [[173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe]] uses to explain [[GaoShanwen|高善文]]'s research style. Instead of starting only from GDP, inflation, or short-term market sentiment, the source says Gao watched the asset and liability positions of households, firms, government, and the central bank to infer what economic actors could do next.
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [153.全球宏观和资本市场2026展望：大年之后，仍是大年？](sources/153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d.md) — 起朱楼宴宾客 2026 macro and capital-market outlook with Ricky on 2025's asset-management big year, China equity-real-economy divergence, central balance-sheet demand support, RMB/gold/AI/private-market risks, insurance funds, and A/H plus Hong Kong structural selection.
 - [152.关于2026年的四个猜想](sources/152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz.md) — 起朱楼宴宾客 annual-prediction episode on 2026 threshold risks: Western AI backlash, private-market bubble opacity, Chinese excess savings seeking equity/insurance outlets, and Western China narratives possibly loosening.
 - [151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？](sources/151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1.md) — 起朱楼宴宾客 episode on private credit, direct lending, ABF, insurer funding, bank risk transfers, PIK, AI data-center project debt, and whether opaque credit channels can turn AI infrastructure enthusiasm into systemic financial risk.
 - [150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方](sources/150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g.md) — 起朱楼宴宾客 episode reading 洪源远, 李璐, and Dan Wang together on Chinese modernization, poverty-trap escape, weak institutions, directed improvisation, engineering-state process knowledge, and next-stage cultural/service-governance gaps.
@@ -773,6 +774,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Vanke / 万科](entities/Vanke.md) — Chinese property developer used by episode 153 as a property-sector confidence-break signal inside China's equity-real-economy gap.
 - [Bernie Sanders](entities/BernieSanders.md) — U.S. political figure used by episode 152 to frame anti-AI backlash around job dignity, class distribution, and technology gains.
 - [SoftBank](entities/SoftBank.md) — Technology investment company used by episode 152 as a private-market AI capital-rotation example.
 - [Graham Allison](entities/GrahamAllison.md) — Political scientist referenced by episode 152 to frame China-U.S. mutual worldviews and great-power self-centering.
@@ -5303,6 +5305,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [China Equity-Real Economy Gap / 中国股市与实体经济落差](concepts/ChinaEquityRealEconomyGap.md) — Episode 153 frame for Chinese equity strength coexisting with property, employment, consumption, and demand weakness.
+- [Central Balance-Sheet Demand Support / 中央资产负债表托底](concepts/CentralBalanceSheetDemandSupport.md) — Episode 153 claim that China’s 2026 demand repair increasingly requires central-government balance-sheet support.
+- [China Deflation Demand Repair / 中国通缩的需求侧修复](concepts/ChinaDeflationDemandRepair.md) — Episode 153 view that anti-involution and supply clearing need demand-side support to turn into inflation, orders, and earnings repair.
+- [China Equity Structural Selection / 中国权益结构分化](concepts/ChinaEquityStructuralSelection.md) — Episode 153 China-equity view that 2026 returns require sector and company evidence after broad 2025 valuation repair.
 - [Quantity Change to Quality Change / 量变引发质变](concepts/QuantityChangeQualityChange.md) — Episode 152 threshold-forecasting frame for accumulated AI, private-market, savings, and China-narrative pressures becoming visible.
 - [Private-Market Bubble Opacity](concepts/PrivateMarketBubbleOpacity.md) — Episode 152 warning that bubble risk may sit in private equity, private credit, and late-stage AI companies rather than only public tech stocks.
 - [China Excess Savings Reallocation / 中国超额储蓄再配置](concepts/ChinaExcessSavingsReallocation.md) — Episode 152 thesis that post-2022 Chinese household savings may seek outlets through stocks, funds, and savings-style insurance.

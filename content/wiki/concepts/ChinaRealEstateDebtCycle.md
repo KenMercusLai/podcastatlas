@@ -2,11 +2,13 @@
 title: "China Real Estate Debt Cycle"
 type: concept
 tags: [china, real-estate, debt, housing]
-sources: [131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz, building-things-and-breaking-things-in-china-summer-school-world-tour]
+sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz, building-things-and-breaking-things-in-china-summer-school-world-tour]
 last_updated: 2026-08-06
 ---
 
 # China Real Estate Debt Cycle
+
+[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds the post-bust confidence version through [[Vanke|万科]]. The source says falling home prices, high-leverage household losses, developer cash-flow stress, and the Vanke event weaken expectations that property-sector risk can be smoothly contained or that safer developers are fully insulated.
 
 China real estate debt cycle is the episode's account of how property ownership, local-government finance, developer borrowing, household speculation, and unfinished prepaid apartments became tied together. In [[building-things-and-breaking-things-in-china-summer-school-world-tour]], the cycle moves from [[DesmondShum]] and [[WhitneyDuan]]'s airport logistics deal to [[Evergrande]], [[XuJiayin]], the 2020 debt caps, and the broader bust.
 

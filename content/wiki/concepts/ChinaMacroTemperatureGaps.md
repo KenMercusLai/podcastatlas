@@ -2,11 +2,13 @@
 title: "China Macro Temperature Gaps / 中国宏观温差"
 type: concept
 tags: [china, macro, investing, measurement]
-sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
 last_updated: 2026-08-06
 ---
 
 # China Macro Temperature Gaps / 中国宏观温差
+
+[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds the full-year market-versus-economy version through [[ChinaEquityRealEconomyGap]]. The source says 2025's Chinese equity strength did not make property, employment, consumption confidence, capital formation, or effective demand feel repaired, so temperature gaps can widen during a rally instead of disappearing.
 
 [[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] extends the temperature-gap frame into a 2026 Western-perception thesis. The source says old visual indicators such as property and storefront vacancy can miss manufacturing-loan growth, platform-based consumption, and outbound competitiveness, making [[WesternChinaMisreading]] a market variable rather than only a media complaint.
 

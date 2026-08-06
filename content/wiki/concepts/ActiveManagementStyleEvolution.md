@@ -2,11 +2,13 @@
 title: "Active Management Style Evolution"
 type: concept
 tags: [investing, fund-management, portfolio, behavior]
-sources: [vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
 last_updated: 2026-08-06
 ---
 
 # Active Management Style Evolution
+
+[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds Ricky's 2026 alpha-migration version. After a broad China-equity rally, he expects more room for active managers who can verify orders, earnings, and industry change at company level, while public-fund benchmark, pay, regulation, and channel constraints may push ambitious alpha-seeking toward private vehicles.
 
 Active management style evolution is [[LanXiaokang|蓝小康]]'s fund-management frame in [[vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]]. He resists being reduced to a fixed "red dividend" or style label, arguing that a manager's method has to evolve with the era while still preserving a bottom-layer algorithm around values, worldview, cash-flow judgment, and risk sharing.
 

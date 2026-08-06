@@ -2,11 +2,13 @@
 title: "Private-Market Bubble Opacity"
 type: concept
 tags: [private-markets, bubbles, finance, investing, ai]
-sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]
+sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]
 last_updated: 2026-08-06
 ---
 
 # Private-Market Bubble Opacity
+
+[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] reinforces the same bubble-location warning from a different angle. [[DavidWeng|大卫翁]] says U.S. AI bubble risk may not be obvious in public Nasdaq leaders because many high-revenue companies and much lending now sit outside public markets and banks, making private equity, private credit, and non-bank finance harder to read.
 
 Private-market bubble opacity is [[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]]'s warning that the next bubble may be harder to see because more financing, valuation, and company growth happens outside public markets. [[DavidWeng|大卫翁]] argues that investors may over-focus on the Nasdaq, the "Magnificent Seven," or headline public multiples while private equity, [[PrivateCreditMarket|private credit]], and late-stage AI companies carry less visible risk.
 

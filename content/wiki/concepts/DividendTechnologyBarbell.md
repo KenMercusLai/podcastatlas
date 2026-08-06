@@ -2,11 +2,13 @@
 title: "Dividend-Technology Barbell / 红利科技杠铃"
 type: concept
 tags: [investing, barbell, dividends, technology, china]
-sources: [135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq]
+sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq]
 last_updated: 2026-08-06
 ---
 
 # Dividend-Technology Barbell / 红利科技杠铃
+
+[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] keeps the dividend-technology barbell but adds consumer exposure. [[Ricky]] says "technology plus dividend" can still work in 2026, while also increasing attention to selected consumption areas; the episode therefore makes the barbell a three-part selection problem rather than a pure 2025 repeat.
 
 Dividend-technology barbell / 红利科技杠铃 is [[135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq]]'s sharper second-half version of [[BarbellStrategy]] for China-related equities. The source summarizes the move as "红利归红利，科技归科技": the defensive side should be judged by cash-flow stability, sustained dividend capacity, payout willingness, and governance, while the upside side should focus on genuinely disruptive directions.
 

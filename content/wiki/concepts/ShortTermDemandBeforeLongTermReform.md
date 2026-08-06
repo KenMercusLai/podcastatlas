@@ -2,11 +2,13 @@
 title: "Short-Term Demand Before Long-Term Reform"
 type: concept
 tags: [china, macro, policy, demand]
-sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]
+sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]
 last_updated: 2026-08-06
 ---
 
 # Short-Term Demand Before Long-Term Reform
+
+[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] extends the sequencing rule into 2026. [[Ricky]] repeats the short-term demand, medium-term reform, long-term technology framework and argues that demand support has become urgent because technology and reform stories cannot by themselves repair deflation, employment pressure, property wealth loss, and cautious household behavior.
 
 Short-term demand before long-term reform is the central sequencing claim in [[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]]. [[DavidWeng|大卫翁]] and [[Ricky]] argue that [[China]] cannot rely on medium-term reform language or long-term [[NewQualityProductiveForces]] alone while household, enterprise, and local-government balance sheets remain damaged.
 

@@ -2,11 +2,13 @@
 title: "Public Mutual Fund Ecosystem / 公募基金生态"
 type: concept
 tags: [investing, funds, china, incentives]
-sources: [145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v]
+sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v]
 last_updated: 2026-08-06
 ---
 
 # Public Mutual Fund Ecosystem / 公募基金生态
+
+[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds the toolification version. [[Ricky]] argues that public mutual funds may increasingly become ETF, index, and low-cost allocation tools, while the search for large active alpha shifts toward private funds, hedge-fund-like vehicles, or skilled personal asset rotation.
 
 Public mutual fund ecosystem is the [[vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v]] frame for judging public funds as a system rather than as isolated products. [[DavidWeng|大卫翁]] argues that ordinary investors usually see the fund, the net asset value, and the fund manager, while fund-company strategy, channel economics, regulation, product type, fee split, and holder behavior shape the outcome behind the screen.
 

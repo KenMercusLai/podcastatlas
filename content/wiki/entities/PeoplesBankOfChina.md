@@ -2,11 +2,13 @@
 title: "People's Bank of China"
 type: entity
 tags: [institution, central-bank, currency, macroeconomics]
-sources: [129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439, 173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe]
+sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439, 173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe]
 last_updated: 2026-08-06
 ---
 
 # People's Bank of China
+
+[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds a 2026 appreciation-pressure version. [[Ricky]] says almost no institutions he spoke with expected RMB depreciation in 2026, with many watching roughly 6.85; the episode treats the [[PeoplesBankOfChina|PBoC]] as unlikely to fight orderly appreciation, while still expected to prevent excessive volatility.
 
 The People's Bank of China appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]] as the policy actor behind RMB exchange-rate stability. The speakers argue that the central bank has tools and incentives to resist both disorderly depreciation and excessive appreciation. [[ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs]] adds the exchange-regime and multi-agency cleanup context around personal FX use and cross-border securities funding.
 
@@ -30,6 +32,7 @@ The People's Bank of China appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui
 - Episode 129 adds that RMB credibility depends on the real-economy and payment network supporting the currency, not only on the central bank's policy settings.
 
 ## Connections
+- [[RMBExchangeRatePolicy]], [[CurrencyRisk]], and [[ChinaEquityRealEconomyGap]] - episode 153's appreciation-consensus and asset-pricing branch.
 - [[RMBExchangeRatePolicy]] — concept capturing the managed-stability frame.
 - [[CurrencyRisk]] — practical investor risk when switching between RMB, USD, and other currencies.
 - [[InvestmentRiskManagement]] — exchange-rate views should be tied to actual use cases and position sizing.

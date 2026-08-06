@@ -2,11 +2,13 @@
 title: "China Insurance Funds Equity Allocation / 中国险资入市"
 type: concept
 tags: [china, insurance, equities, asset-allocation, regulation]
-sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]
+sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]
 last_updated: 2026-08-06
 ---
 
 # China Insurance Funds Equity Allocation / 中国险资入市
+
+[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds the 2026 market-structure version. The episode links lower insurance equity risk factors, indexes such as large-cap dividend or science-technology exposures, long-term accounts, and cost-method-style accounting to the claim that insurers can act like "national beta" institutions that reduce volatility while seeking returns above fixed-income liabilities.
 
 China insurance funds equity allocation is [[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]]'s institutional path for household savings to enter equities indirectly. [[DavidWeng|大卫翁]] summarizes the 2026 logic as "have to buy, allowed to buy, dare to buy": insurers need yield, policy settings can reduce capital pressure, and accounting treatment can make equity volatility less disruptive to reported earnings.
 
