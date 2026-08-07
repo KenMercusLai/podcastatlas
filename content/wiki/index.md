@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.268 两个劳斯莱斯](sources/vol-268-liang-ge-lao-si-lai-si-1003563933.md) — 商业就是这样 episode on Rolls-Royce's split between aircraft engines and cars, RB211 fixed-price engineering risk, the Lockheed L-1011 TriStar, British nationalization, Lockheed's bailout pressure, and the bribery scandal that reached Japan and the FCPA.
 - [EP91 订房订票定江山，携程51亿为傲慢买单](sources/ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw.md) — 一劳永逸 episode on Ctrip's 51.79亿元 antitrust penalty, merchant exclusivity, full-network-lowest-price enforcement, OTA competition history, consumer trust, internationalization, customer service, and AI travel planning.
 - [No.212 曾经的精神角落：豆瓣、知乎、贴吧、虎扑 | 中国互联网故事25](sources/no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980.md) — Banlatte episode on Douban, Zhihu, Baidu Tieba, and Hupu as PC-era Chinese communities whose relationship density, subcultures, and shared memory made them emotionally powerful but commercially fragile.
 - [Brave New whirl: Turkey's opposition overhaul](sources/brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f.md) — The Intelligence episode on Ozel's New Party and Turkish opposition suppression, Jens Spahn's German surrogacy scandal, and Gen Z career advice under AI.
@@ -888,6 +889,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Rolls-Royce RB211](entities/RollsRoyceRB211.md) — Aircraft-engine program whose ambitious technology, fixed-price Lockheed contract, and overruns drove Rolls-Royce into the 1971 crisis.
+- [Lockheed Corporation](entities/LockheedCorporation.md) — U.S. aerospace company whose L-1011 TriStar depended on RB211 and whose overseas sales pressure led into the Lockheed bribery scandal.
+- [Lockheed L-1011 TriStar](entities/LockheedL1011TriStar.md) — Wide-body aircraft tied to RB211 engine lock-in, DC-10 competition, Lockheed bailout pressure, and overseas order-seeking.
+- [Rolls-Royce Motor Cars](entities/RollsRoyceMotorCars.md) — Luxury-car branch separated from the protected Rolls-Royce aero-engine business after the 1971 RB211 crisis.
+- [Charles Rolls](entities/CharlesRolls.md) — Rolls-Royce cofounder whose elite sales network and aviation enthusiasm foreshadow the company's aircraft-engine branch.
+- [Henry Royce](entities/HenryRoyce.md) — Rolls-Royce cofounder whose engineering credibility anchored the early luxury-car brand.
+- [Claude Johnson](entities/ClaudeJohnson.md) — Commercial operator who helped combine Rolls's network and Royce's engineering into the early Rolls-Royce brand.
+- [McDonnell Douglas DC-10](entities/McDonnellDouglasDC10.md) — TriStar competitor used by the RB211 source to show how engine delay changed wide-body market timing.
+- [Tanaka Kakuei / 田中角荣](entities/TanakaKakuei.md) — Japanese prime minister tied by the episode to China normalization and the Japanese aftermath of the Lockheed bribery scandal.
+- [Kodama Yoshio / 儿玉誉士夫](entities/KodamaYoshio.md) — Japanese political-brokerage intermediary named in the Lockheed bribery scandal branch.
+- [All Nippon Airways / 全日空](entities/AllNipponAirways.md) — Japanese airline whose L-1011 purchase became central to the episode's Lockheed bribery discussion.
+- [Lockheed Bribery Scandal](entities/LockheedBriberyScandal.md) — Overseas aircraft-sales bribery scandal connecting Lockheed, Japan, Tanaka Kakuei, Marubeni, ANA, and the FCPA.
 - [知乎 / Zhihu](entities/Zhihu.md) — PC-era Chinese knowledge Q&A community whose invitation culture, creator incentives, paid-knowledge experiments, and story turn ground episode 212.
 - [百度贴吧 / Baidu Tieba](entities/BaiduTieba.md) — Baidu keyword-driven forum system where search terms became long-tail communities, subcultures, and governance/commercialization conflicts.
 - [虎扑 / Hupu](entities/Hupu.md) — Sports forum and Pedestrian Street community that grew from HoopChina and later incubated the equipment-commerce path toward Dewu.
@@ -3179,7 +3192,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Barcode Hero](entities/BarcodeHero.md) — Blake Scholl's earlier shopping startup, used as the episode's founder-learning setup before Boom.
 - [Overture Supersonic Airliner](entities/OvertureSupersonicAirliner.md) — Boom Supersonic's planned all-business-class supersonic airliner.
 - [XB-1 Supersonic Demonstrator](entities/XB1SupersonicDemonstrator.md) — Boom's demonstrator aircraft used as technical proof, team-training system, and investor credibility artifact.
-- [Rolls-Royce](entities/RollsRoyce.md) — Engine incumbent whose 2022 withdrawal from Boom's program forced Boom toward custom engine ownership.
+- [Rolls-Royce](entities/RollsRoyce.md) — Aircraft-engine company whose RB211 crisis split off the car business and whose later Boom withdrawal forms a second engine-strategy case.
 - [Richard Branson](entities/RichardBranson.md) — Virgin founder whose support helped turn Boom's early customer intent into investor-legible proof.
 - [Virgin Group](entities/VirginGroup.md) — Virgin brand and airline context behind Boom's early customer proof and credibility signal.
 - [Surbhi Sarna](entities/SurbhiSarna.md) — YC partner and former nVision Medical founder whose Social Radars interview connects women's-health diagnostic gaps, medtech validation, solo-founder fundraising, and mission-driven acquisition judgment.
@@ -3746,7 +3759,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mitsui & Co. / 三井物产](entities/MitsuiAndCo.md) — Japanese sogo shosha used by vol.108 to explain steel-chain integration, metals/energy diversification, and commercial information networks.
 - [Itochu / 伊藤忠商事](entities/Itochu.md) — Japanese sogo shosha with textile and retail roots, China-trade history, sanpo-yoshi ethics, and the FamilyMart integration case.
 - [Sumitomo Corporation / 住友商事](entities/SumitomoCorporation.md) — Japanese sogo shosha from the older Sumitomo lineage, used by vol.108 for diversification and keiretsu context.
-- [Marubeni / 丸红](entities/Marubeni.md) — Japanese sogo shosha used by vol.108 to show diversified copper, coffee, agriculture, forestry, and auto-supply-chain coordination.
+- [Marubeni / 丸红](entities/Marubeni.md) — Japanese sogo shosha used for trading-company coordination in vol.108 and later named in the Lockheed bribery scandal branch.
 - [FamilyMart / 全家便利店](entities/FamilyMart.md) — Convenience-store chain used by vol.108 as Itochu's downstream supply-chain integration case.
 - [Toyota / 丰田](entities/Toyota.md) — Manufacturer used by vol.108 as a vertical keiretsu example distinct from bank-centered trading-company groups.
 - [Siri (起朱楼宴宾客)](entities/SiriQizhulou.md) — 95后 speaker in vol.107, explaining youth "corpse mode", choice-triggered attention, controllable life anchors, and relationship optionality.
@@ -4297,7 +4310,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [U.S. Navy](entities/USNavy.md) — Military customer for Gecko Robotics' ship-inspection contract, tied to ship readiness, repair delays, and industrial-capacity concerns.
 - [Anduril](entities/Anduril.md) — Defense startup cited as another large-contract example of newer technology companies gaining ground in military procurement.
 - [Raytheon](entities/Raytheon.md) — Legacy defense contractor example used to frame startup pressure on traditional vendors.
-- [Boeing](entities/Boeing.md) — Legacy aerospace and defense contractor example used to frame startup pressure on traditional vendors.
+- [Boeing](entities/Boeing.md) — Legacy aerospace and defense contractor and wide-body aircraft context for process-knowledge, defense-startup pressure, and RB211's later civil-engine path.
 - [BuzzFeed](entities/BuzzFeed.md) — Media company whose going-concern warning and AI app pivot ground the media AI rescue strategy branch.
 - [QuizParty](entities/QuizParty.md) — BuzzFeed quiz app named as part of its AI games, quizzes, and interactive-product strategy.
 - [Center for Strategic and International Studies](entities/CenterForStrategicAndInternationalStudies.md) — Think tank cited for the shipbuilding-capacity comparison in the Gecko/Navy discussion.
@@ -5115,7 +5128,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《弹劾》 / Impeachment: A Citizen's Guide](entities/ImpeachmentBook.md) — Sunstein book used by the episode to define impeachment around office abuse, public trust, and constitutional order.
 - [Alexander Hamilton](entities/AlexanderHamilton.md) — Founding-era figure used to explain the case for a strong but removable single executive.
 - [Andrew Johnson](entities/AndrewJohnson.md) — First impeached U.S. president, used as a historical case for legal charges amid wider constitutional-political conflict.
-- [Richard Nixon](entities/RichardNixon.md) — President whose resignation before conviction illustrates impeachment's deterrent and signaling function.
+- [Richard Nixon](entities/RichardNixon.md) — President used across impeachment, Fed-pressure, and 1970s diplomacy/investigation branches including the Lockheed bribery source.
 - [Robert Guest](entities/RobertGuest.md) — The Intelligence panelist giving the more optimistic account of American democratic resilience, assimilation, and cultural durability.
 - [Daniel Knowles](entities/DanielKnowles.md) — The Intelligence panelist warning that Supreme Court behavior and executive-power disputes show weakening U.S. constitutional guardrails.
 - [Rebecca Jackson](entities/RebeccaJackson.md) — The Intelligence panelist emphasizing representation erosion and historical memory conflicts in the America-at-250 episode.
@@ -5394,7 +5407,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dairy Queen](entities/DairyQueen.md) — Mid-price ice-cream chain used as the steadier small-store comparison to Haagen-Dazs and Yeren Xiansheng.
 - [Mixue Bingcheng](entities/MixueBingcheng.md) — Tea-drink chain whose low-price soft serve makes it a large ice-cream-volume comparison point.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
-- [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations, bee economics, FIFA governance, Sushiro operations, AI data-center cooling, and fishmeal-driven aquaculture price risk.
+- [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce, bee economics, FIFA, Sushiro, AI data-center cooling, fishmeal, ETFs, World Cup costs, and the Rolls-Royce RB211 aviation-history case.
 - [Grundfos / 格兰富](entities/Grundfos.md) — Pump, water, and cooling-infrastructure company case used to explain AI data-center thermal management.
 - [河南智能超算中心 / Henan Smart Supercomputing Center](entities/HenanSmartSupercomputingCenter.md) — Supercomputing-center case for prefabricated, container-style integrated cooling deployment.
 - [Polymarket](entities/Polymarket.md) — Prediction-market platform used for price-as-probability thinking, ethics and integrity cases, and AI-era one-person fund speculation.
@@ -6056,6 +6069,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Fixed Price Engineering Risk](concepts/FixedPriceEngineeringRisk.md) — RB211 pattern where fixed price, penalties, ambitious performance, and immature technology convert engineering delay into solvency risk.
+- [Airframe Engine Lock-In](concepts/AirframeEngineLockIn.md) — L-1011/RB211 dependency where the airframe could not simply change engine suppliers after delay and cost trouble emerged.
+- [Industrial Capability Bailout](concepts/IndustrialCapabilityBailout.md) — State rescue pattern where strategic engineering capability is preserved even as a failing company is restructured.
+- [Overseas Bribery Export Sales](concepts/OverseasBriberyExportSales.md) — Pattern where large foreign orders in state-linked sectors create pressure for intermediaries, political access, and bribery.
+- [Foreign Corrupt Practices Act](concepts/ForeignCorruptPracticesAct.md) — U.S. anti-bribery law connected by the source to Lockheed-era overseas payments and post-Watergate investigations.
 - [Chinese PC Internet Communities / 中文 PC 互联网社区](concepts/ChinesePCInternetCommunities.md) — Episode 212 umbrella for Douban, Zhihu, Baidu Tieba, and Hupu as PC-era communities built from relationships, norms, identity, and shared memory.
 - [Online Community Commercialization Friction / 社区商业化摩擦](concepts/OnlineCommunityCommercializationFriction.md) — Why pure relationship communities resist ads,导购, paid services, algorithmic feeds, and heavy platform intervention.
 - [Community vs Content Platform / 社区与内容平台区别](concepts/CommunityVsContentPlatform.md) — Episode 212 distinction between relationship-based communities and media-like content consumption platforms.

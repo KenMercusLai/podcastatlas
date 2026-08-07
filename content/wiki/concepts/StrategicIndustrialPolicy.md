@@ -2,8 +2,8 @@
 title: "Strategic Industrial Policy"
 type: concept
 tags: [industrial-policy, manufacturing, technology, trade]
-sources: [vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, no-201-zhongguo-gaotie-jianshi-976314772, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189]
-last_updated: 2026-08-06
+sources: [vol-268-liang-ge-lao-si-lai-si-1003563933, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, no-201-zhongguo-gaotie-jianshi-976314772, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189]
+last_updated: 2026-08-08
 ---
 
 # Strategic Industrial Policy
@@ -20,6 +20,8 @@ The concept is not simply protection. The episode allows that temporary barriers
 
 [[no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189]] adds a Chinese city-level investment case through [[Hefei]]. The source treats [[BOETechnology]], [[ChangXinMemory]], and [[NIO]] as examples of local public capital taking early risk in hard-tech sectors, while failed bets in plasma display, powertrain, solar, and EV projects keep [[HefeiIndustrialInvestmentModel]] inside the concept's risk boundary.
 
+[[vol-268-liang-ge-lao-si-lai-si-1003563933]] adds a British aerospace rescue case through [[IndustrialCapabilityBailout]]. The source says the [[UnitedKingdom]] government preserved [[RollsRoyce|Rolls-Royce]] aero-engine assets during the [[RollsRoyceRB211|RB211]] crisis because aircraft-engine capability mattered for defense, exports, and national industrial capacity, while [[RollsRoyceMotorCars|Rolls-Royce Motor Cars]] could be separated.
+
 ## Key Claims
 - Industrial policy should target future productive capacity, not only restore old labor-intensive work.
 - Temporary protection is weaker without domestic investment, skills, infrastructure, and firm capability.
@@ -30,6 +32,7 @@ The concept is not simply protection. The episode allows that temporary barriers
 - The high-speed-rail source shows that procurement can build capability only when transfer is followed by testing, component substitution, redesign, and standardization.
 - The vol.125 source adds that a historically successful industrial-policy style can become [[JapaneseIndustrialPolicyPathDependence]] when frontier industries require less centralized, more experimental organization.
 - The Hefei source adds that city-level industrial policy must be judged at the portfolio and cluster level, not only by whether one public investment quickly exits with a profit.
+- The Rolls-Royce source adds that industrial policy sometimes appears as rescue after contract risk has already exceeded private capacity; preserving capability does not erase the bad risk pricing that made the rescue necessary.
 
 ## Connections
 - [[UnitedStates]], [[China]], and [[ChinaShock]] - strategic and historical context.
@@ -40,3 +43,4 @@ The concept is not simply protection. The episode allows that temporary barriers
 - [[ChineseHighSpeedRail]], [[MinistryOfRailwaysChina]], [[ProcurementLedTechnologyTransfer]], [[HighSpeedRailSystemIntegration]], and [[ChineseStandardEMU]] - high-speed-rail industrial-policy branch added by Banlatte.
 - [[Japan]], [[JapaneseIndustrialPolicyPathDependence]], [[JapaneseInnovationRetreat]], and [[JapaneseGalapagosization]] - vol.125's industrial-policy constraint branch.
 - [[Hefei]], [[HefeiIndustrialInvestmentModel]], [[ProductionInvestmentCity]], [[BOETechnology]], [[ChangXinMemory]], and [[NIO]] - city-level industrial-investment branch added by Banlatte episode 211.
+- [[RollsRoyce|Rolls-Royce]], [[RollsRoyceRB211|RB211]], [[IndustrialCapabilityBailout]], and [[UnitedKingdom]] - strategic aero-engine rescue branch added by 商业就是这样.

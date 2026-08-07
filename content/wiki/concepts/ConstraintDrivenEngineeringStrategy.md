@@ -2,8 +2,8 @@
 title: "Constraint Driven Engineering Strategy"
 type: concept
 tags: [strategy, engineering, semiconductors, constraints]
-sources: [tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]
-last_updated: 2026-08-05
+sources: [vol-268-liang-ge-lao-si-lai-si-1003563933, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]
+last_updated: 2026-08-08
 ---
 
 # Constraint Driven Engineering Strategy
@@ -18,6 +18,8 @@ The concept is not a claim that constraints are automatically good. The source's
 
 [[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds a commercial-aviation version through [[BoomSupersonic]]. [[BlakeScholl]] says the [[RollsRoyce|Rolls-Royce]] engine break forced Boom away from a conventional supplier-credibility path and toward [[CrisisForcedVerticalIntegration]]. In the source account, that constraint later produced a better custom engine path, [[BoomlessCruise]], and range/product options unavailable on the earlier route.
 
+[[vol-268-liang-ge-lao-si-lai-si-1003563933]] adds a cautionary aviation prehistory through [[RollsRoyceRB211|RB211]]. The episode shows the other side of constraint-driven strategy: a company can set commercial constraints so tightly that a technically promising path becomes financially destructive. [[FixedPriceEngineeringRisk]] and [[AirframeEngineLockIn]] therefore qualify the idea that hard constraints are automatically productive.
+
 ## Source Position
 - The episode frames [[TauLaw]] as partly a "change the battlefield" move: from pure nanometer-node competition to end-to-end delay and system performance.
 - The What's Next bonus source adds that changing the battlefield still requires design-tool proof: [[ElectronicDesignAutomation|EDA]], packaging, yield, power, and cost decide whether [[CellToCellLogicStacking]] becomes more than a constraint-driven proposal.
@@ -27,6 +29,7 @@ The concept is not a claim that constraints are automatically good. The source's
 - The risk is that competitors with fewer constraints can also copy the same engineering route while retaining access to the dominant route.
 - Boom's source case shows the same pattern in a different domain: a broken supplier path can become strategically useful only if the alternate subsystem produces concrete product or economic advantages.
 - S10E16 adds that constraint-driven semiconductor strategy needs multi-layer integration: architecture, packaging, EDA, manufacturing, and communication-distance reductions have to reinforce one another.
+- The RB211 source adds a negative boundary: constraints become dangerous when fixed price, penalties, immature technology, and airframe dependency compress the learning loop below what the company can finance.
 
 ## Connections
 - [[Huawei]], [[HiSilicon]], and [[RenZhengfei]] — source case.
@@ -38,3 +41,4 @@ The concept is not a claim that constraints are automatically good. The source's
 - [[ChineseDomesticOperatingSystems]] — earlier wiki branch where procurement and localization constraints shaped domestic technical ecosystems.
 - [[BoomSupersonic]], [[BlakeScholl]], [[RollsRoyce]], [[CrisisForcedVerticalIntegration]], and [[BoomlessCruise]] - commercial-aviation constraint case added by The Social Radars.
 - [[SystemLevelSemiconductorOptimization]], [[MooreLaw]], and [[WangBo]] - S10E16's broader semiconductor-history extension.
+- [[RollsRoyceRB211|RB211]], [[LockheedL1011TriStar|L-1011 TriStar]], [[FixedPriceEngineeringRisk]], and [[AirframeEngineLockIn]] - cautionary aviation branch added by 商业就是这样.

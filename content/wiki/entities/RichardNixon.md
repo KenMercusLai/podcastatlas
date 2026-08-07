@@ -2,8 +2,8 @@
 title: "Richard Nixon"
 type: entity
 tags: [person, politics, presidency, impeachment]
-sources: [173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, jerome-powell-and-the-test-of-fed-independence]
-last_updated: 2026-07-18
+sources: [vol-268-liang-ge-lao-si-lai-si-1003563933, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, jerome-powell-and-the-test-of-fed-independence]
+last_updated: 2026-08-08
 ---
 
 # Richard Nixon
@@ -14,14 +14,18 @@ The Nixon case supports the source's broader claim that [[PresidentialImpeachmen
 
 [[jerome-powell-and-the-test-of-fed-independence]] adds Nixon as the president in the source's cautionary [[FederalReserve]] pressure case. The episode presents [[ArthurBurns]] as damaging Fed independence by appearing responsive to Nixon's reelection pressure before severe inflation.
 
+[[vol-268-liang-ge-lao-si-lai-si-1003563933]] adds Nixon as political context for 1972 diplomacy and the later investigative environment around the [[LockheedBriberyScandal]]. The source pairs Nixon's visit to [[China]] with [[TanakaKakuei|Tanaka Kakuei]]'s China diplomacy, then says post-Watergate investigations helped expose U.S. corporate foreign bribery. Its stronger claims about Nixon-linked political pressure and Tanaka are kept source-scoped.
+
 ## Source Position
 - Nixon is the clearest episode example of impeachment's suspended-threat function.
 - His resignation shows that constitutional remedies can work through political pressure before a formal Senate conviction.
 - The case helps distinguish impeachment from ordinary criminal prosecution or retrospective moral judgment.
 - The Planet Money source uses Nixon as the negative presidential-pressure comparison for [[JeromePowell]] and [[WilliamMcChesneyMartin]].
+- The 商业就是这样 source uses Nixon as background for China diplomacy, Watergate-era investigation, and the political setting around the Lockheed bribery revelations.
 
 ## Connections
 - [[PresidentialImpeachment]], [[HighCrimesAndMisdemeanors]], and [[ConstitutionalRobustness]] - concepts illustrated by the case.
 - [[UnitedStatesConstitution]] and [[SeparationOfPowers]] - institutional setting.
 - [[CassSunstein]] and [[ImpeachmentBook|《弹劾》]] - source framework.
 - [[ArthurBurns]], [[FederalReserve]], [[CentralBankIndependence]], and [[InflationBias]] - Fed-pressure branch added by Planet Money.
+- [[LockheedBriberyScandal]], [[ForeignCorruptPracticesAct]], [[TanakaKakuei]], and [[China]] - 1970s diplomacy and investigation branch added by 商业就是这样.

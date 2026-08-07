@@ -7109,3 +7109,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] ingest | Vol.268 两个劳斯莱斯
+
+Added source page for a 商业就是这样 episode on Rolls-Royce's aircraft-engine and luxury-car split, the RB211 fixed-price engineering crisis, Lockheed L-1011 TriStar lock-in, British nationalization, Lockheed bailout pressure, and the overseas bribery scandal around Japanese aircraft sales. Created pages for Rolls-Royce RB211, Lockheed Corporation, Lockheed L-1011 TriStar, Rolls-Royce Motor Cars, Charles Rolls, Henry Royce, Claude Johnson, McDonnell Douglas DC-10, Tanaka Kakuei, Kodama Yoshio, All Nippon Airways, Lockheed Bribery Scandal, Fixed Price Engineering Risk, Airframe Engine Lock-In, Industrial Capability Bailout, Overseas Bribery Export Sales, and Foreign Corrupt Practices Act; updated overview, index, 商业就是这样, Rolls-Royce, Boeing, Marubeni, Richard Nixon, Strategic Industrial Policy, and Constraint Driven Engineering Strategy. No direct contradiction found; the source mainly qualifies hard-technology optimism by showing that a technically valuable engine can still bankrupt its maker when contract price, delay penalties, immature materials, airframe dependency, national prestige, and overseas order pressure collide.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

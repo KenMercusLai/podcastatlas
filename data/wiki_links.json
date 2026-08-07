@@ -2751,6 +2751,10 @@
     "title": "Airbus",
     "url": "/wiki/entities/airbus/"
   },
+  "AirframeEngineLockIn": {
+    "title": "Airframe Engine Lock-In",
+    "url": "/wiki/concepts/airframeenginelockin/"
+  },
   "AirlineBailoutPolitics": {
     "title": "Airline Bailout Politics",
     "url": "/wiki/concepts/airlinebailoutpolitics/"
@@ -3154,6 +3158,10 @@
   "AllModalMolecularWorldModel": {
     "title": "All-Modal Molecular World Model",
     "url": "/wiki/concepts/allmodalmolecularworldmodel/"
+  },
+  "AllNipponAirways": {
+    "title": "All Nippon Airways / 全日空",
+    "url": "/wiki/entities/allnipponairways/"
   },
   "AllSeasonsHotel": {
     "title": "All Seasons Hotel / 全季酒店",
@@ -6815,6 +6823,10 @@
     "title": "Charles Ponzi",
     "url": "/wiki/entities/charlesponzi/"
   },
+  "CharlesRolls": {
+    "title": "Charles Rolls",
+    "url": "/wiki/entities/charlesrolls/"
+  },
   "CharlesSchwab": {
     "title": "Charles Schwab",
     "url": "/wiki/entities/charlesschwab/"
@@ -7758,6 +7770,10 @@
   "ClaudeForHealthcare": {
     "title": "Claude for Healthcare",
     "url": "/wiki/entities/claudeforhealthcare/"
+  },
+  "ClaudeJohnson": {
+    "title": "Claude Johnson",
+    "url": "/wiki/entities/claudejohnson/"
   },
   "ClaudeMethosPreview": {
     "title": "Claude-Methos Preview",
@@ -12927,6 +12943,10 @@
     "title": "Fixed Income Plus Product / 固收+产品",
     "url": "/wiki/concepts/fixedincomeplusproduct/"
   },
+  "FixedPriceEngineeringRisk": {
+    "title": "Fixed Price Engineering Risk",
+    "url": "/wiki/concepts/fixedpriceengineeringrisk/"
+  },
   "FlashInvaders": {
     "title": "Flash Invaders",
     "url": "/wiki/entities/flashinvaders/"
@@ -13162,6 +13182,10 @@
   "ForeignBankingInChina": {
     "title": "Foreign Banking In China",
     "url": "/wiki/concepts/foreignbankinginchina/"
+  },
+  "ForeignCorruptPracticesAct": {
+    "title": "Foreign Corrupt Practices Act",
+    "url": "/wiki/concepts/foreigncorruptpracticesact/"
   },
   "ForensicDeathTimeInference": {
     "title": "Forensic Death-Time Inference",
@@ -15699,6 +15723,10 @@
     "title": "Henry McMaster",
     "url": "/wiki/entities/henrymcmaster/"
   },
+  "HenryRoyce": {
+    "title": "Henry Royce",
+    "url": "/wiki/entities/henryroyce/"
+  },
   "HenryTPUEngineer": {
     "title": "Henry (TPU engineer)",
     "url": "/wiki/entities/henrytpuengineer/"
@@ -16906,6 +16934,10 @@
   "Indonesia": {
     "title": "Indonesia",
     "url": "/wiki/entities/indonesia/"
+  },
+  "IndustrialCapabilityBailout": {
+    "title": "Industrial Capability Bailout",
+    "url": "/wiki/concepts/industrialcapabilitybailout/"
   },
   "IndustrialCollege": {
     "title": "Industrial College / 产业学院",
@@ -19395,6 +19427,10 @@
     "title": "小林亮一 / Kobayashi Ryoichi",
     "url": "/wiki/entities/kobayashiryoichi/"
   },
+  "KodamaYoshio": {
+    "title": "Kodama Yoshio / 儿玉誉士夫",
+    "url": "/wiki/entities/kodamayoshio/"
+  },
   "KodiakHarbour": {
     "title": "Kodiak Harbour",
     "url": "/wiki/entities/kodiakharbour/"
@@ -20783,6 +20819,18 @@
     "title": "Locard's Exchange Principle",
     "url": "/wiki/concepts/locardsexchangeprinciple/"
   },
+  "LockheedBriberyScandal": {
+    "title": "Lockheed Bribery Scandal",
+    "url": "/wiki/entities/lockheedbriberyscandal/"
+  },
+  "LockheedCorporation": {
+    "title": "Lockheed Corporation",
+    "url": "/wiki/entities/lockheedcorporation/"
+  },
+  "LockheedL1011TriStar": {
+    "title": "Lockheed L-1011 TriStar",
+    "url": "/wiki/entities/lockheedl1011tristar/"
+  },
   "LoganSuddeth": {
     "title": "Logan Suddeth",
     "url": "/wiki/entities/logansuddeth/"
@@ -22110,6 +22158,10 @@
   "McDonaldsNetherlands": {
     "title": "McDonald's Netherlands",
     "url": "/wiki/entities/mcdonaldsnetherlands/"
+  },
+  "McDonnellDouglasDC10": {
+    "title": "McDonnell Douglas DC-10",
+    "url": "/wiki/entities/mcdonnelldouglasdc10/"
   },
   "McKinsey": {
     "title": "McKinsey",
@@ -25286,6 +25338,10 @@
   "OverStory": {
     "title": "OverStory",
     "url": "/wiki/entities/overstory/"
+  },
+  "OverseasBriberyExportSales": {
+    "title": "Overseas Bribery Export Sales",
+    "url": "/wiki/concepts/overseasbriberyexportsales/"
   },
   "OverseasChinaStudiesSeries": {
     "title": "海外中国研究丛书",
@@ -29055,6 +29111,14 @@
     "title": "Rolls-Royce",
     "url": "/wiki/entities/rollsroyce/"
   },
+  "RollsRoyceMotorCars": {
+    "title": "Rolls-Royce Motor Cars",
+    "url": "/wiki/entities/rollsroycemotorcars/"
+  },
+  "RollsRoyceRB211": {
+    "title": "Rolls-Royce RB211",
+    "url": "/wiki/entities/rollsroycerb211/"
+  },
   "RomainRolland": {
     "title": "Romain Rolland / 罗曼·罗兰",
     "url": "/wiki/entities/romainrolland/"
@@ -32794,6 +32858,10 @@
   "TanakaHikari": {
     "title": "田中光",
     "url": "/wiki/entities/tanakahikari/"
+  },
+  "TanakaKakuei": {
+    "title": "Tanaka Kakuei / 田中角荣",
+    "url": "/wiki/entities/tanakakakuei/"
   },
   "Tancheng": {
     "title": "郯城 / Tancheng",
@@ -40290,6 +40358,10 @@
   "vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145": {
     "title": "Vol.267 如何现场看世界杯并大亏一笔 feat.鹰眼时间",
     "url": "/wiki/sources/vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145/"
+  },
+  "vol-268-liang-ge-lao-si-lai-si-1003563933": {
+    "title": "Vol.268 两个劳斯莱斯",
+    "url": "/wiki/sources/vol-268-liang-ge-lao-si-lai-si-1003563933/"
   },
   "we-almost-had-a-smartphone-in-the-90s-why-did-it-fail": {
     "title": "We almost had a smartphone in the 90s. Why did it fail?",
