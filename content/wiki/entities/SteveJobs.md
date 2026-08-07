@@ -2,11 +2,13 @@
 title: "Steve Jobs"
 type: entity
 tags: [person, founder, apple, product]
-sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
-last_updated: 2026-07-17
+sources: [we-almost-had-a-smartphone-in-the-90s-why-did-it-fail, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
+last_updated: 2026-08-07
 ---
 
 # Steve Jobs
+
+[[we-almost-had-a-smartphone-in-the-90s-why-did-it-fail]] adds Jobs as the Apple decision-maker who greenlit [[TonyFadell]]'s [[IPod]] project while [[Apple]] was financially constrained. The episode uses that decision less as founder myth than as [[ConstraintDrivenProductDiscipline]]: a limited budget, an urgent deadline, and a clear customer promise created a sharper path than [[GeneralMagic]]'s unconstrained [[SonyMagicLink]] launch.
 
 Steve Jobs appears in [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] as the comparison shadow over [[TimCook]]'s Apple tenure. The episode says media narratives often cast Jobs as the creator, artist, and revolutionary product figure, while Cook is cast as the operator, accountant, and supply-chain manager.
 
@@ -30,6 +32,7 @@ The source does not dispute Jobs's centrality to [[Apple]] or [[IPhone]]. Instea
 - [[Apple]] — company shaped first by Jobs's product era and then Cook's institutional era.
 - [[TimCook]] — successor whose legacy the episode reframes.
 - [[IPhone]] and [[SmartphoneOperatingSystemEcosystems]] — Jobs-era product and ecosystem reference.
+- [[TonyFadell]], [[IPod]], [[GeneralMagic]], and [[ConstraintDrivenProductDiscipline]] - iPod greenlight and constraint branch added by Planet Money.
 - [[ValuesAsOperationalAsset]] — contrast between symbolic values and executable values.
 - [[Looped]], [[SamAltman]], and [[Apple]] - App Store demo context added by The Social Radars.
 - [[Dropbox]], [[DrewHouston]], [[IncumbentPlatformPressure]], and [[PlatformDependencyRisk]] - file-sync platform warning added by The Social Radars.

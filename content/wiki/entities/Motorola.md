@@ -2,11 +2,13 @@
 title: "Motorola"
 type: entity
 tags: [company, telecom, handset, consumer-electronics, batteries]
-sources: [no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi]
-last_updated: 2026-07-12
+sources: [we-almost-had-a-smartphone-in-the-90s-why-did-it-fail, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi]
+last_updated: 2026-08-07
 ---
 
 # Motorola
+
+[[we-almost-had-a-smartphone-in-the-90s-why-did-it-fail]] adds Motorola as one of the major corporate partners around [[GeneralMagic]]. In this source, Motorola matters as part of the broad investor and partner coalition whose resources did not solve the [[SonyMagicLink]]'s missing [[ClearCustomerDefinition]] or execution discipline.
 
 Motorola is one of the three old handset giants in [[no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376]]. The episode traces the company from car radios and two-way communications to Martin Cooper's 1973 handheld mobile call, the DynaTAC commercial launch, analog network equipment, Chinese pager strength, StarTAC, and the RAZR V3.
 
@@ -24,3 +26,4 @@ Motorola is one of the three old handset giants in [[no-208-zhongguo-shouji-jian
 - [[ChinaHandsetSupplyChain]] — Motorola's Chinese factories, engineering systems, and supplier relationships are described as part of the later domestic supply-chain foundation.
 - [[Google]] and [[Android]] — later ownership and ecosystem context after Motorola's mobile business declined.
 - [[BYD]] and [[BatteryManufacturingKnowHow]] — battery-manufacturing branch added by E229.
+- [[GeneralMagic]], [[SonyMagicLink]], and [[ConstraintDrivenProductDiscipline]] - partner-context branch added by Planet Money.

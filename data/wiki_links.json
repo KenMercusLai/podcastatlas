@@ -2203,6 +2203,10 @@
     "title": "Addictive Interaction Design",
     "url": "/wiki/concepts/addictiveinteractiondesign/"
   },
+  "AdditiveBias": {
+    "title": "Additive Bias",
+    "url": "/wiki/concepts/additivebias/"
+  },
   "AdewaleMaie": {
     "title": "Adewale Maie",
     "url": "/wiki/entities/adewalemaie/"
@@ -5359,6 +5363,10 @@
     "title": "Brooks",
     "url": "/wiki/entities/brooks/"
   },
+  "BrooksLaw": {
+    "title": "Brooks's Law",
+    "url": "/wiki/concepts/brookslaw/"
+  },
   "BrothersGrimm": {
     "title": "格林兄弟 / Brothers Grimm",
     "url": "/wiki/entities/brothersgrimm/"
@@ -5438,6 +5446,10 @@
   "BuildToRentHousing": {
     "title": "Build-To-Rent Housing",
     "url": "/wiki/concepts/buildtorenthousing/"
+  },
+  "BuildVsBorrowProductStrategy": {
+    "title": "Build vs. Borrow Product Strategy",
+    "url": "/wiki/concepts/buildvsborrowproductstrategy/"
   },
   "BuilderCenteredInstitutions": {
     "title": "Builder-Centered Institutions",
@@ -7255,6 +7267,10 @@
     "title": "Clean Edition Classic Reading",
     "url": "/wiki/concepts/cleaneditionclassicreading/"
   },
+  "ClearCustomerDefinition": {
+    "title": "Clear Customer Definition",
+    "url": "/wiki/concepts/clearcustomerdefinition/"
+  },
   "ClearlakeCapital": {
     "title": "Clearlake Capital",
     "url": "/wiki/entities/clearlakecapital/"
@@ -7806,6 +7822,10 @@
   "ConstraintDrivenMediaProduction": {
     "title": "Constraint-Driven Media Production",
     "url": "/wiki/concepts/constraintdrivenmediaproduction/"
+  },
+  "ConstraintDrivenProductDiscipline": {
+    "title": "Constraint-Driven Product Discipline",
+    "url": "/wiki/concepts/constraintdrivenproductdiscipline/"
   },
   "ConstructionBlueprintVersionControl": {
     "title": "Construction Blueprint Version Control",
@@ -8931,6 +8951,10 @@
     "title": "David Ellison",
     "url": "/wiki/entities/davidellison/"
   },
+  "DavidEpstein": {
+    "title": "David Epstein",
+    "url": "/wiki/entities/davidepstein/"
+  },
   "DavidHorowitz": {
     "title": "David Horowitz",
     "url": "/wiki/entities/davidhorowitz/"
@@ -9254,6 +9278,10 @@
   "DesignedAgencyInGames": {
     "title": "Designed Agency In Games",
     "url": "/wiki/concepts/designedagencyingames/"
+  },
+  "DesirableDifficulty": {
+    "title": "Desirable Difficulty",
+    "url": "/wiki/concepts/desirabledifficulty/"
   },
   "DesmondShum": {
     "title": "Desmond Shum",
@@ -11463,6 +11491,10 @@
     "title": "《讨好反应》 / Fawning",
     "url": "/wiki/entities/fawning/"
   },
+  "FeatureCreep": {
+    "title": "Feature Creep",
+    "url": "/wiki/concepts/featurecreep/"
+  },
   "FeaturePhoneCulturalMemory": {
     "title": "Feature Phone Cultural Memory",
     "url": "/wiki/concepts/featurephoneculturalmemory/"
@@ -13182,6 +13214,10 @@
   "GeneralAverage": {
     "title": "General Average",
     "url": "/wiki/concepts/generalaverage/"
+  },
+  "GeneralMagic": {
+    "title": "General Magic",
+    "url": "/wiki/entities/generalmagic/"
   },
   "GeneralMills": {
     "title": "General Mills",
@@ -15450,6 +15486,10 @@
   "IPhone": {
     "title": "iPhone",
     "url": "/wiki/entities/iphone/"
+  },
+  "IPod": {
+    "title": "iPod",
+    "url": "/wiki/entities/ipod/"
   },
   "IQIYI": {
     "title": "iQIYI / 爱奇艺",
@@ -22315,6 +22355,10 @@
     "title": "Neo Cognition",
     "url": "/wiki/entities/neocognition/"
   },
+  "NestThermostat": {
+    "title": "Nest Thermostat",
+    "url": "/wiki/entities/nestthermostat/"
+  },
   "Nestle": {
     "title": "Nestle",
     "url": "/wiki/entities/nestle/"
@@ -25022,6 +25066,10 @@
   "PrematureDeindustrialization": {
     "title": "Premature Deindustrialization",
     "url": "/wiki/concepts/prematuredeindustrialization/"
+  },
+  "PrematureEcosystemBuild": {
+    "title": "Premature Ecosystem Build",
+    "url": "/wiki/concepts/prematureecosystembuild/"
   },
   "PremierLeague": {
     "title": "Premier League",
@@ -29195,6 +29243,10 @@
     "title": "Sony",
     "url": "/wiki/entities/sony/"
   },
+  "SonyMagicLink": {
+    "title": "Sony Magic Link",
+    "url": "/wiki/entities/sonymagiclink/"
+  },
   "SonyPictures": {
     "title": "Sony Pictures",
     "url": "/wiki/entities/sonypictures/"
@@ -29882,6 +29934,10 @@
   "SteveJobs": {
     "title": "Steve Jobs",
     "url": "/wiki/entities/stevejobs/"
+  },
+  "StevePerlman": {
+    "title": "Steve Perlman",
+    "url": "/wiki/entities/steveperlman/"
   },
   "SteveShaw": {
     "title": "Steve Shaw",
@@ -31626,6 +31682,10 @@
   "TonleSapLake": {
     "title": "Tonle Sap Lake / 洞里萨湖",
     "url": "/wiki/entities/tonlesaplake/"
+  },
+  "TonyFadell": {
+    "title": "Tony Fadell",
+    "url": "/wiki/entities/tonyfadell/"
   },
   "TonyGilroy": {
     "title": "Tony Gilroy",
@@ -37538,6 +37598,10 @@
   "vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591": {
     "title": "Vol.265 跨越50年的美国版本之子",
     "url": "/wiki/sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591/"
+  },
+  "we-almost-had-a-smartphone-in-the-90s-why-did-it-fail": {
+    "title": "We almost had a smartphone in the 90s. Why did it fail?",
+    "url": "/wiki/sources/we-almost-had-a-smartphone-in-the-90s-why-did-it-fail/"
   },
   "weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces": {
     "title": "为什么公司用不好AI？从焦虑到行动的 3 个关键动作｜对谈百融智能张韶峰",

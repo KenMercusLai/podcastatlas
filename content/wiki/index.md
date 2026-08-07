@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [We almost had a smartphone in the 90s. Why did it fail?](sources/we-almost-had-a-smartphone-in-the-90s-why-did-it-fail.md) — Planet Money episode on General Magic, the Sony Magic Link, Tony Fadell, and how excess resources, vague customers, feature creep, and weak constraints shaped an early smartphone failure.
 - [Reese's heir vs. chocolate skimpflation](sources/reeses-heir-vs-chocolate-skimpflation.md) — Planet Money episode on Reese's label changes, chocolate compound, peanut butter cream, skimpflation, cocoa supply shocks, FDA chocolate standards, and Hershey's announced return to classic chocolate recipes by 2027.
 - [The Invention Invention](sources/the-invention-invention.md) — Planet Money episode on MPEG, the Singer sewing-machine patent war, patent pools, FRAND licensing, essential patents, and the antitrust line between collaboration and collusion.
 - [The real horror of 'Alien' and how it explains why we're not paid enough](sources/the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough.md) — Planet Money episode using Alien and Alien: Romulus to explain labor monopsony, hidden job risks, search frictions, non-competes, company-town control, and labor-market counterforces.
@@ -830,6 +831,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [General Magic](entities/GeneralMagic.md) — Early smartphone-like mobile-computing company used as a case in overbroad vision, weak customer clarity, and constraint-free product failure.
+- [Tony Fadell](entities/TonyFadell.md) — General Magic employee and later Apple product builder whose iPod/iPhone work is framed as disciplined learning from that failure.
+- [David Epstein](entities/DavidEpstein.md) — Journalist and constraints analyst interpreting General Magic as a case of too much talent, time, money, freedom, and complexity.
+- [Steve Perlman](entities/StevePerlman.md) — General Magic engineer whose expanding calendar feature illustrates feature creep.
+- [Sony Magic Link](entities/SonyMagicLink.md) — 1994 General Magic-powered device that launched with broad digital-assistant functions but failed commercially.
+- [iPod](entities/IPod.md) — Apple music player used as the disciplined contrast to General Magic through customer focus, borrowed parts, deadlines, and iteration.
+- [Nest Thermostat](entities/NestThermostat.md) — Later Tony Fadell product mentioned as part of the General Magic failure-to-products lineage.
 - [Hershey](entities/Hershey.md) — Chocolate and candy company whose Reese's formula and label changes are examined as a skimpflation and brand-trust case.
 - [Reese's](entities/Reeses.md) — Peanut-butter-and-chocolate candy brand used by the episode to contrast classic formulas with shaped products using chocolate compound or peanut butter cream.
 - [Brad Reese](entities/BradReese.md) — H.B. Reese descendant whose label campaign turns Reese's ingredient changes into a public skimpflation and brand-legacy dispute.
@@ -5638,6 +5646,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Constraint-Driven Product Discipline](concepts/ConstraintDrivenProductDiscipline.md) — Product-building pattern where customer clarity, budgets, deadlines, reuse, and iteration sharpen ambitious technology.
+- [Clear Customer Definition](concepts/ClearCustomerDefinition.md) — Product discipline of knowing who the first customer is, what problem they have, and what need should force tradeoffs.
+- [Feature Creep](concepts/FeatureCreep.md) — Scope-expansion pattern where good ideas keep being added until the product loses first-customer coherence.
+- [Premature Ecosystem Build](concepts/PrematureEcosystemBuild.md) — Platform failure mode where a team builds too many layers before a narrow first product and market are ready.
+- [Build vs. Borrow Product Strategy](concepts/BuildVsBorrowProductStrategy.md) — Engineering/product discipline of deciding what must be invented and what should be assembled from existing parts.
+- [Brooks's Law](concepts/BrooksLaw.md) — Project-management warning that adding people to a late or unclear project can increase coordination cost and delay it further.
+- [Additive Bias](concepts/AdditiveBias.md) — Decision tendency to improve by adding more rather than cutting, narrowing, or stopping.
+- [Desirable Difficulty](concepts/DesirableDifficulty.md) — Constraint frame where useful limits force tradeoffs, invention, and sharper work.
 - [Skimpflation](concepts/Skimpflation.md) — Quality-degradation response to inflation where familiar products keep their surface identity while ingredients, service, or standards quietly weaken.
 - [Chocolate Compound](concepts/ChocolateCompound.md) — Chocolate-like coating that can use chocolate ingredients without meeting legal milk-chocolate standards.
 - [Chocolate Label Standards](concepts/ChocolateLabelStandards.md) — Food-label rules that make distinctions such as milk chocolate, chocolate candy, and peanut butter cream economically meaningful.
