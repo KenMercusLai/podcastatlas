@@ -2,8 +2,8 @@
 title: "Civil Liberties Surveillance Risk"
 type: concept
 tags: [civil-liberties, surveillance, democracy, privacy]
-sources: [tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources: [tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]
+last_updated: 2026-08-08
 ---
 
 # Civil Liberties Surveillance Risk
@@ -22,6 +22,8 @@ The risk grows when surveillance is easy, persistent, searchable, and outsourced
 
 [[tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128]] adds a public-benefits version through [[ElizabethLaird]] and the [[CenterForDemocracyAndTechnology|Center for Democracy and Technology]]. The civil-liberties risk is not only chilled speech or movement; mistrust in federal data practices can also discourage people from using education, housing, health, or nutrition benefits if they fear [[EnforcementAgencyDataSharing]] or lack [[GovernmentDataAccountability]].
 
+[[tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128]] adds a legal-AI personalization version through [[BenjaminAlarie]]. [[PersonalizedLegalGuidance]] may require systems to know a great deal about legal circumstances, people, and case law; Alarie says society has to balance high-functioning legal systems against the risk of being over-surveilled.
+
 ## Key Claims
 - Surveillance can target people for speech or association, not only for crimes.
 - Private-sector data markets can make government monitoring cheaper and more scalable.
@@ -33,6 +35,7 @@ The risk grows when surveillance is easy, persistent, searchable, and outsourced
 - Age-assurance systems can create breach and misuse risk when identity documents, face images, or behavioral signals are collected by websites or contractors.
 - Public-benefit systems can become chilled when people fear service-linked data may be reused by enforcement agencies.
 - Child-safety identity checks can affect anonymity and association even when the immediate policy target is underage platform access.
+- Legal AI can create civil-liberties risk when personalized help depends on large-scale collection or mining of personal and case data.
 
 ## Connections
 - [[JeremyScott]] and [[ElectronicPrivacyInformationCenter]] - source civil-liberties framing.
@@ -44,3 +47,4 @@ The risk grows when surveillance is easy, persistent, searchable, and outsourced
 - [[OnlineAgeVerification]], [[AgeVerificationComplianceIndustry]], [[BehavioralAgeInference]], and [[DrewHarwell]] - age-assurance surveillance branch added by Marketplace Tech.
 - [[ElizabethLaird]], [[FederalDataPracticeTrust]], [[PublicBenefitsDataChillingEffect]], [[EnforcementAgencyDataSharing]], and [[GovernmentDataAccountability]] - public-benefits and federal-data trust branch added by Marketplace Tech.
 - [[SocialMediaAgeBans]], [[OnlineAgeVerification]], [[France]], and [[WillOremus]] - social-media identity-check branch added by Marketplace Tech.
+- [[BenjaminAlarie]], [[PersonalizedLegalGuidance]], and [[AIAccessToJustice]] - legal-AI personalization branch added by Marketplace Tech.

@@ -1231,6 +1231,10 @@
     "title": "AI Accelerator Supernode",
     "url": "/wiki/concepts/aiacceleratorsupernode/"
   },
+  "AIAccessToJustice": {
+    "title": "AI Access To Justice",
+    "url": "/wiki/concepts/aiaccesstojustice/"
+  },
   "AIAdvertisingTargeting": {
     "title": "AI Advertising Targeting",
     "url": "/wiki/concepts/aiadvertisingtargeting/"
@@ -5142,6 +5146,10 @@
   "BengdiBanzhang": {
     "title": "蹦迪班长",
     "url": "/wiki/entities/bengdibanzhang/"
+  },
+  "BenjaminAlarie": {
+    "title": "Benjamin Alarie",
+    "url": "/wiki/entities/benjaminalarie/"
   },
   "BenjaminLibet": {
     "title": "Benjamin Libet / 利比特",
@@ -20511,6 +20519,10 @@
     "title": "Legal AI Hallucination",
     "url": "/wiki/concepts/legalaihallucination/"
   },
+  "LegalAIVerificationAuditability": {
+    "title": "Legal AI Verification And Auditability",
+    "url": "/wiki/concepts/legalaiverificationauditability/"
+  },
   "LegalInterestIndividualReduction": {
     "title": "Legal Interest Individual Reduction",
     "url": "/wiki/concepts/legalinterestindividualreduction/"
@@ -26722,6 +26734,10 @@
   "PersonalizationAsSocialIdentity": {
     "title": "Personalization As Social Identity",
     "url": "/wiki/concepts/personalizationassocialidentity/"
+  },
+  "PersonalizedLegalGuidance": {
+    "title": "Personalized Legal Guidance",
+    "url": "/wiki/concepts/personalizedlegalguidance/"
   },
   "PersonalizedMolecularMedicine": {
     "title": "Personalized Molecular Medicine",
@@ -33359,6 +33375,10 @@
     "title": "Super Dry",
     "url": "/wiki/entities/superdry/"
   },
+  "SuperJustice": {
+    "title": "Super Justice",
+    "url": "/wiki/concepts/superjustice/"
+  },
   "SuperMonkey": {
     "title": "SuperMonkey / 超级猩猩",
     "url": "/wiki/entities/supermonkey/"
@@ -35754,6 +35774,10 @@
   "UniversityOfSouthernCalifornia": {
     "title": "University of Southern California",
     "url": "/wiki/entities/universityofsoutherncalifornia/"
+  },
+  "UniversityOfToronto": {
+    "title": "University of Toronto",
+    "url": "/wiki/entities/universityoftoronto/"
   },
   "UniversityOfVirginia": {
     "title": "University of Virginia",
@@ -40958,6 +40982,10 @@
   "tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128": {
     "title": "China's soft power play in the global AI arms race",
     "url": "/wiki/sources/tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128/"
+  },
+  "tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128": {
+    "title": "AI-driven law could be an answer to accessible legal help",
+    "url": "/wiki/sources/tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

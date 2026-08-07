@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI-driven law could be an answer to accessible legal help](sources/tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128.md) — Marketplace Tech episode with Benjamin Alarie on Super Justice, AI access to legal help, personalized legal guidance, verification, auditability, surveillance risk, and professional accountability.
 - [Taking the shine off: albedo and global temperatures](sources/taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760.md) — The Intelligence episode on falling planetary reflectivity, West Africa cocaine routing, and female-breadwinner norms in American couples.
 - [Sand heists and property rights in the Caribbean (Summer School)](sources/sand-heists-and-property-rights-in-the-caribbean-summer-school.md) — Planet Money Summer School episode on Caribbean small-economy vulnerability, Barbuda communal land rights, property-title reform after Hurricane Irma, Jamaica's stolen beach, sand scarcity, tourism externalities, and free-trade lessons.
 - [E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”](sources/e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668.md) — 硅谷101 episode with Sheng Ying on SGLang, xAI inference work, Redix ARK, AI infrastructure as product, Radix Attention, LM-SYS, open source, and AI democratization.
@@ -910,6 +911,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Benjamin Alarie](entities/BenjaminAlarie.md) — University of Toronto law professor arguing that AI could relieve legal scarcity if verification and accountability remain human-owned.
+- [University of Toronto](entities/UniversityOfToronto.md) — Academic affiliation for Benjamin Alarie's Marketplace Tech discussion of legal AI and Super Justice.
 - [Paul Crutzen](entities/PaulCrutzen.md) — Scientist referenced for the 2006 sulphate-aerosol solar geoengineering proposal.
 - [International Maritime Organization](entities/InternationalMaritimeOrganization.md) — Shipping regulator whose 2020 sulphur rules are tied to reduced aerosol reflectivity in the source.
 - [Argo floats](entities/ArgoFloats.md) — Ocean-observation floats used as independent confirmation of satellite-measured Earth energy imbalance.
@@ -6222,6 +6225,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Super Justice](concepts/SuperJustice.md) — Benjamin Alarie's frame for relieving legal scarcity through abundant but accountable AI-supported legal help.
+- [AI Access To Justice](concepts/AIAccessToJustice.md) — Claim that AI can reduce legal-help scarcity only when fairness, verification, privacy, and accountability are preserved.
+- [Personalized Legal Guidance](concepts/PersonalizedLegalGuidance.md) — Tailoring legal explanations and pathways without changing underlying rights or rules.
+- [Legal AI Verification And Auditability](concepts/LegalAIVerificationAuditability.md) — Requirement that legal and tax AI outputs remain checkable by responsible professionals.
 - [Albedo Feedback](concepts/AlbedoFeedback.md) — Climate loop where reduced clouds, ice, or aerosols lower reflectivity and increase absorbed heat.
 - [Earth Energy Imbalance](concepts/EarthEnergyImbalance.md) — Planetary heat-budget measure of energy absorbed versus emitted, measured by satellites and ocean heat.
 - [Aerosol Cooling Masking](concepts/AerosolCoolingMasking.md) — Public-health and climate tension where sulphur pollution cools by reflecting sunlight but harms people.

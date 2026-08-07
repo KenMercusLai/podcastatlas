@@ -7090,8 +7090,6 @@ Added source page for a LateTalk episode with Yuan Xin of SAP on ERP, AI coding,
 
 Ran lint. See lint-report.md for details.
 
-
-
 ## [2026-08-08] ingest | 「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】
 
 Added source page for a Shizilukou Crossing road-podcast episode with Will Wang Tianfan of B.A.I Capital on 15 years in VC, AI-era investment judgment, context machines, wisdom over intelligence, AI-native investing workflows, AI infra versus crypto infra, blockchain financial innovation, three-non venture theory, Lookie, Mashie, and AI for fun. Created pages for Wang Tianfan, B.A.I Capital, Lookie, Mashie, Yuan Ming, Wisdom Over Intelligence, AI Context Machine, AI-Native Investing Workflow, AI Cognitive Gym, Three-Non Venture Theory, AI Infra Crypto Analogy, Blockchain Financial Innovation, and AI For Fun; updated overview and index. No direct contradiction found; the source qualifies productivity-only AI and upstream-infrastructure hype by emphasizing context, feedback, founder vision, human agency, joy, and actual product use.
@@ -7279,6 +7277,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] ingest | Taking the shine off: albedo and global temperatures
 
 Added source page for a The Intelligence episode on falling planetary reflectivity, West Africa cocaine routing, and female-breadwinner norms in American couples. Created pages for Paul Crutzen, International Maritime Organization, Argo floats, West Africa, Liberia, Monrovia, Sierra Leone, Ori Ogunbiyi, Paulo Silva, Maritime Analysis and Information Centre, Gregory Coleman, Albedo Feedback, Earth Energy Imbalance, Aerosol Cooling Masking, Ocean Heat Monitoring, Solar Geoengineering, West Africa Cocaine Transit, Cocaine Route Displacement, Maritime Drug Interdiction Capacity, Narco-State Risk, Female Breadwinner Norms, Reported Income Gender Norms, and Domestic Labor Double Burden; updated overview, index, The Intelligence, Economist Podcasts, Oliver Morton, NASA, Carbon Removal, China, Brazil, Ghana, Western Sahara, European Union, United States, Taylor Swift, Travis Kelce, Doug Dawson, World Values Survey, Women Workplace Progress Stall, Family Labor Boundaries, Gender Power And Uncertainty Cost, Age-Gap Marriage Decline, and Small-State Enforcement Capacity. No direct contradiction found; the source adds productive tensions around clean-air policy uncovering aerosol-masked warming, cocaine interdiction displacing routes into weaker maritime institutions, and egalitarian gender attitudes coexisting with household status and care-work burdens.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-08] ingest | AI-driven law could be an answer to accessible legal help
+
+Added source page for a Marketplace Tech episode with Benjamin Alarie of the University of Toronto on AI and legal access. Created pages for Benjamin Alarie, University of Toronto, Super Justice, AI Access To Justice, Personalized Legal Guidance, and Legal AI Verification And Auditability; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Legal AI Hallucination, Human-In-The-Loop Legal AI, AI Verification, AI Governance And Compliance, Human Judgment Under AI, and Civil Liberties Surveillance Risk. No direct contradiction found; the source extends legal-AI access optimism while preserving the wiki's existing responsibility boundary around hallucinated legal material, human review, auditability, privacy, and professional accountability.
 
 ## [2026-08-08] lint | Wiki health check
 

@@ -2,8 +2,8 @@
 title: "Legal AI Hallucination"
 type: concept
 tags: [ai, law, governance]
-sources: [tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e]
-last_updated: 2026-07-12
+sources: [tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e]
+last_updated: 2026-08-08
 ---
 
 # Legal AI Hallucination
@@ -14,12 +14,15 @@ The concept is a high-stakes version of generic AI unreliability because courts 
 
 [[tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final]] adds the pre-breakthrough product perspective through [[JakeHeller]] and [[Casetext]]. Heller says GPT-3 and GPT-3.5 were interesting but not yet useful for legal work because they could produce legal-sounding text that was often nonsense. In that account, the early [[GPT4|GPT-4]] jump mattered because it reduced the gap between plausible legal prose and workflow usefulness enough for [[CoCounsel|Co-Counsel]] to become a company-level bet.
 
+[[tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128]] adds [[BenjaminAlarie]]'s professional-accountability version. He refers to a New York example where lawyers filed a brief containing AI-invented cases and were sanctioned, then generalizes the point: attorneys and accountants remain responsible for AI-assisted work and cannot treat machine output as an excuse.
+
 ## Key Claims
 - Legal hallucinations are especially dangerous because case citations are supposed to be independently checkable authority.
 - Generic chatbots can overstate chances of success and create a false sense of legal strategy.
 - Professional lawyers still need verification gates; bar status does not make AI output reliable.
 - Purpose-built tools may reduce risk only when paired with [[HumanInTheLoopLegalAI]] and clear responsibility.
 - The commercial legal-AI opportunity depends on reducing hallucination risk enough that specific workflows can be trusted, not merely on producing legal style.
+- Sanctions for AI-invented cases show that legal hallucination is also a professional-responsibility problem, not only a model-quality problem.
 
 ## Connections
 - [[VibeLawyering]] - broader courtroom-use trend.
@@ -28,3 +31,4 @@ The concept is a high-stakes version of generic AI unreliability because courts 
 - [[OpenAI]] - company named in one lawsuit example from the segment.
 - [[AIGovernanceAndCompliance]], [[HumanJudgmentUnderAI]], and [[OutputQualityGates]] - related control concepts.
 - [[Casetext]], [[CoCounsel|Co-Counsel]], [[GPT4|GPT-4]], and [[VerticalWorkflowAI]] - product-side case where model capability changed the risk calculation.
+- [[BenjaminAlarie]] and [[LegalAIVerificationAuditability]] - accountability and checkability extension added by Marketplace Tech.
