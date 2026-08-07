@@ -6394,6 +6394,10 @@ Added source page for a Talk三联 episode with 高一丁 and 苗伟 on 徐光�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-07] ingest | A modern-day odyssey through AI chatbot hellscape
+
+Added source page for a Marketplace Tech episode on Dylan Thompson's missing $1,700 e-bike, chatbot-first customer service, automated claims loops, consumer preference for human help, and AI as a new face of customer-service sludge. Created pages for Dylan Thompson, FedEx, and Customer Service Sludge; updated overview, index, Marketplace Tech, Wired, How We Survive, Customer Support Automation, AI Workflow Triage, Human Judgment Under AI, Trust As Business Asset, and Public Service Digitalization. No direct contradiction found; the source qualifies optimistic support-automation cases by showing that automation becomes trust-damaging when human escalation is difficult, delayed, or procedurally useless.
+
 ## [2026-08-07] ingest | No.211 徽商往事：从前世不修到最牛风投
 
 Added source page for a Banlatte episode connecting Huizhou merchants, Lianghuai salt permits, lineage capital, Jiang Chun, salt-commerce risk, USTC's Hefei relocation, Wuhu's Chery case, BOE, ChangXin Memory, NIO, and Hefei's production-investment model. Created pages for Huizhou Prefecture, Huizhou Merchants, Jiang Chun, Hefei, Wuhu, USTC, Chery, BOE Technology, NIO, Lianghuai Salt Monopoly, Salt Permit License Crisis, Lineage Commercial Capital, Hefei Industrial Investment Model, and Production Investment City; updated Banlatte, Anhui, ChangXin Memory, Merchant To Industrial City Upgrade, Strategic Industrial Policy, and Automobile City Path Dependence. No direct contradiction found; source-dated industrial output, IPO, and company-performance claims are recorded as episode claims rather than independently verified current market facts.
@@ -6861,6 +6865,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] ingest | For bucks' sake: the rise of self-made billionaires
 
 Added source page for a The Intelligence episode on competitive billionaire wealth, wealth-tax legitimacy, Cambodia's scam-compound crackdown, Chen Zhi sanctions and extradition pressure, and Larry the Cat as political image satire. Created pages for Callum Williams, Su-Lin Wong, Chen Zhi, Hun Sen, Hui Wan Group, Larry the Cat, 10 Downing Street, Amnesty International, Competitive Billionaire Wealth, Wealth Tax Legitimacy, Scam Compound Political Protection, and Political Image Maintenance; updated overview, index, The Intelligence, Economist Podcasts, Rosie Bloor, Cambodia, Pig Butchering Scam, and Social Engineering Fraud. No direct contradiction found; the episode's U.S. top-wealth effective-tax-rate claim is recorded as source-scoped and flagged as a tension, not a contradiction, with the existing Malta tax-loophole source.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 

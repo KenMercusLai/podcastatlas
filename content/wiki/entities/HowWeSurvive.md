@@ -2,8 +2,8 @@
 title: "How We Survive"
 type: entity
 tags: [podcast, climate, marketplace]
-sources: [tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128, tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128, tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # How We Survive
@@ -36,6 +36,8 @@ In this source, How We Survive functions as a bridge from a concise technology s
 
 [[tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128]] adds another closing promo context after the main [[MarketplaceTech]] segment on [[RedwoodMaterials]] and [[SecondLifeEVBatteryStorage]]. The promo again points to [[AmyScott]]'s climate-solutions reporting, while the main episode remains focused on AI data-center power.
 
+[[tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128]] adds another closing promo context after the main [[MarketplaceTech]] segment on [[CustomerServiceSludge]]. The promo again points to How We Survive as Marketplace climate-solutions reporting, while the main episode remains focused on chatbot-first customer service.
+
 ## Connections
 - [[MarketplaceTech]] and [[AmyScott]] - Marketplace reporting context.
 - [[AIPsychosis]], [[ChatbotSafetyGuardrailDecay]], and [[ChatGPT]] - main December 30 episode context adjacent to the promo.
@@ -52,3 +54,4 @@ In this source, How We Survive functions as a bridge from a concise technology s
 - [[EVTaxCreditCliff]], [[UsedEVAffordability]], and [[EVChargingInfrastructure]] - main December 31 EV episode context adjacent to the promo.
 - [[AIClusterNetworking]] and [[AmazonWebServices|AWS]] - main episode context adjacent to the January 26 promo.
 - [[RedwoodMaterials]] and [[SecondLifeEVBatteryStorage]] - main episode context adjacent to the January 29 promo.
+- [[CustomerServiceSludge]] - main July 23, 2026 episode context adjacent to the promo.

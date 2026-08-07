@@ -2,8 +2,8 @@
 title: "AI Workflow Triage"
 type: concept
 tags: [ai, workflow, enterprise-ai, operations]
-sources: [tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128, tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]
-last_updated: 2026-07-25
+sources: [tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128, tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128, tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]
+last_updated: 2026-08-07
 ---
 
 # AI Workflow Triage
@@ -22,6 +22,8 @@ AI workflow triage is the implementation discipline of decomposing a business pr
 
 [[tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128]] adds a homebuilder version through [[CBHHomes]]. Sales nurturing, warranty lookup, and after-hours support are AI-suitable routine flows, while ready-to-buy conversations and escalated service issues remain human-trust points.
 
+[[tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128]] adds a consumer-support failure criterion through [[DylanThompson]]'s missing e-bike case. A chatbot-first workflow is badly triaged when automation handles the routine entry path but the unresolved, high-value, cross-organizational exception cannot reach timely [[HumanJudgmentUnderAI]].
+
 ## Key Claims
 - Good AI deployment starts with a workflow map rather than a model demo.
 - Mims' assembly-line analogy adds a practical test: if the task cannot be made repeatable, inspectable, and attached to a real workflow, AI may not produce reliable productivity.
@@ -34,6 +36,7 @@ AI workflow triage is the implementation discipline of decomposing a business pr
 - Newsroom triage should distinguish evidence-gathering and signal-finding from published writing, because the latter carries authorship, trust, and public accountability.
 - Homebuilding triage separates routine sales and warranty communication from high-trust buyer conversations, urgent customer issues, and escalation ownership.
 - Triage should include cognitive load: a task may be technically automatable but still unsuitable if AI turns the worker into a constant high-stakes reviewer.
+- Customer-service triage should define escalation triggers before deployment; otherwise automation can become [[CustomerServiceSludge]] rather than support.
 
 ## Connections
 - [[InvisibleTechnologies]] and [[Oliver]] — source company and speaker.
@@ -44,5 +47,6 @@ AI workflow triage is the implementation discipline of decomposing a business pr
 - [[Casetext]], [[CoCounsel|Co-Counsel]], [[VerticalWorkflowAI]], and [[FrontierModelInflectionPivot]] - legal AI product-strategy case.
 - [[NewsroomAIAdoption]], [[AIRewriteDesk]], [[AIWrittenJournalism]], [[ThePlainDealer]], and [[AIJournalismTrust]] - newsroom workflow-boundary case.
 - [[CBHHomes]], [[RhondaConger]], [[HomebuildingAIOperations]], and [[CustomerSupportAutomation]] - homebuilding workflow-boundary case.
+- [[DylanThompson]], [[FedEx]], and [[CustomerServiceSludge]] - customer-support escalation failure case.
 - [[ChristopherMims]], [[Clorox]], [[HiddenValleyRanch]], [[MicrosoftCopilot|Microsoft Copilot]], and [[AIGeneratedAdvertising]] - bounded workplace and CPG-marketing examples.
 - [[MattKrop]], [[BCG]], and [[AIBrainFry]] - cognitive-exhaustion criterion added by Marketplace Tech.

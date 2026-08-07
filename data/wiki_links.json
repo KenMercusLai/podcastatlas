@@ -8747,6 +8747,10 @@
     "title": "Customer Reactivation",
     "url": "/wiki/concepts/customerreactivation/"
   },
+  "CustomerServiceSludge": {
+    "title": "Customer Service Sludge",
+    "url": "/wiki/concepts/customerservicesludge/"
+  },
   "CustomerSuccessEngineer": {
     "title": "Customer Success Engineer",
     "url": "/wiki/concepts/customersuccessengineer/"
@@ -10403,6 +10407,10 @@
     "title": "Dwell Time",
     "url": "/wiki/entities/dwelltime/"
   },
+  "DylanThompson": {
+    "title": "Dylan Thompson",
+    "url": "/wiki/entities/dylanthompson/"
+  },
   "DynamicBalancingRobotics": {
     "title": "Dynamic Balancing Robotics",
     "url": "/wiki/concepts/dynamicbalancingrobotics/"
@@ -11886,6 +11894,10 @@
   "FeaturePhoneCulturalMemory": {
     "title": "Feature Phone Cultural Memory",
     "url": "/wiki/concepts/featurephoneculturalmemory/"
+  },
+  "FedEx": {
+    "title": "FedEx",
+    "url": "/wiki/entities/fedex/"
   },
   "FedMart": {
     "title": "FedMart",
@@ -38414,6 +38426,10 @@
   "tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128": {
     "title": "Uncanny AI: Why AI bots remember random, sometimes useless information",
     "url": "/wiki/sources/tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128/"
+  },
+  "tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128": {
+    "title": "A modern-day odyssey through AI chatbot hellscape",
+    "url": "/wiki/sources/tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

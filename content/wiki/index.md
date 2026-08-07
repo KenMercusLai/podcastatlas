@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A modern-day odyssey through AI chatbot hellscape](sources/tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128.md) — Marketplace Tech episode with Dylan Thompson on a missing $1,700 e-bike, chatbot-first customer service, automated claims loops, consumer preference for human help, and AI as a new face of service sludge.
 - [For bucks' sake: the rise of self-made billionaires](sources/for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95.md) — The Intelligence episode on competitive billionaire wealth, wealth-tax legitimacy, Cambodia's scam-compound crackdown, Chen Zhi sanctions, and Larry the Cat as political image satire.
 - [Advice Line with Curt Richardson of OtterBox](sources/advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773.md) — How I Built This Advice Line episode with Curt Richardson on OtterBox focus, Mr. Game Show Florida's host-dependent scaling, Gilded Coach Teas' retention-led restart, and Everloop's circular baby-gear buyback and measured channel tests.
 - [Big Lettuce meets Small Intestine](sources/big-lettuce-meets-small-intestine.md) — Planet Money episode on Taylor Farms, bagged lettuce, cyclospora, the Food Safety Modernization Act, farm inspections, imported produce, and why raw-produce safety remains hard at national scale.
@@ -856,6 +857,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Dylan Thompson](entities/DylanThompson.md) — Wired writer whose missing e-bike case grounds Marketplace Tech's discussion of AI-enabled customer-service sludge.
+- [FedEx](entities/FedEx.md) — Delivery company named in the missing e-bike case, where automated claims handling illustrates customer-service sludge.
 - [Callum Williams](entities/CallumWilliams.md) — The Intelligence participant explaining the episode's competitive versus rent-linked billionaire-wealth taxonomy.
 - [Su-Lin Wong](entities/SuLinWong.md) — The Intelligence participant analyzing Cambodia's scam compounds, sanctions, extradition pressure, and political protection.
 - [Chen Zhi](entities/ChenZhi.md) — Alleged Cambodia-linked scam boss whose sanctions, extradition, and crypto seizure anchor the episode's enforcement story.
@@ -5869,6 +5872,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Customer Service Sludge](concepts/CustomerServiceSludge.md) — Customer-service friction pattern where chatbots, phone bots, and automated claims systems can delay or deter accountable human help.
 - [Competitive Billionaire Wealth](concepts/CompetitiveBillionaireWealth.md) — Distinction between billionaire fortunes built through competitive goods and services versus inheritance, restricted resources, or political favor.
 - [Wealth Tax Legitimacy](concepts/WealthTaxLegitimacy.md) — Framework separating political-power, justice, and economic-cost arguments for taxing large fortunes.
 - [Scam Compound Political Protection](concepts/ScamCompoundPoliticalProtection.md) — Pattern where raids, sanctions, and extraditions disrupt scam sites without dismantling protected enabling systems.
