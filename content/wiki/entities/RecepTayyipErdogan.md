@@ -2,8 +2,8 @@
 title: "Recep Tayyip Erdogan"
 type: entity
 tags: [politics, turkey]
-sources: [stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]
-last_updated: 2026-08-07
+sources: [stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]
+last_updated: 2026-08-08
 ---
 
 # Recep Tayyip Erdogan
@@ -14,6 +14,8 @@ The source presents Erdogan's position as stronger than that of any visible succ
 
 [[the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]] adds the macro-credibility version of Erdogan risk. [[Turkey]] has a [[WarSpilloverHubOpportunity]] as conflict and [[StraitOfHormuz]] disruption redirect cargo and attention toward [[Istanbul]], but the source says investors still worry about whether Erdogan will continue tolerating [[MehmetSimsek]]'s more orthodox economic policy.
 
+[[brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]] adds the active-opposition-management version. The source says Erdogan is widely expected to seek an early election before the official 2028 date, while courts, police, and arrests weaken [[OzgurOzel]], [[EkremImamoglu]], [[RepublicanPeoplesParty|the CHP]], and local opposition officials. This shifts the page from succession alone toward [[JudicializedOppositionSuppression]] and [[TurkishOppositionRealignment]].
+
 ## Connections
 - [[AutocraticSuccession]] — concept for succession under personalized long-term rule.
 - [[JusticeAndDevelopmentParty]] — party vehicle and internal arena for succession.
@@ -21,3 +23,4 @@ The source presents Erdogan's position as stronger than that of any visible succ
 - [[EkremImamoglu]] — opposition mayor whose imprisonment is presented as part of the political context.
 - [[PiotrZilevsky]] — correspondent explaining the succession problem.
 - [[Turkey]], [[MehmetSimsek]], [[Istanbul]], and [[FinancialHubCredibilityGap]] - macro-policy credibility branch added by the later episode.
+- [[OzgurOzel]], [[NewPartyTurkey]], [[RepublicanPeoplesParty]], and [[JudicializedOppositionSuppression]] - opposition-overhaul branch added by the Brave New whirl source.

@@ -1,9 +1,9 @@
 ---
 title: "Germany"
 type: entity
-tags: [country, security, europe, war-memory]
-sources: [111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, 05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]
-last_updated: 2026-08-05
+tags: [country, security, europe, war-memory, politics]
+sources: [111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, 05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]
+last_updated: 2026-08-08
 ---
 
 # Germany
@@ -16,6 +16,8 @@ The episode uses Germany as the clearest concrete sign of [[EuropeanDefenseAuton
 
 [[05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]] adds a World War II and postwar-memory branch through [[SheCameFromMariupol|《她来自马里乌波尔》]]. The source follows [[YevgeniaSheCameFromMariupol|叶弗根尼亚]] from forced labor in [[NaziGermany|Nazi Germany]] into postwar hiding in Germany, then argues that German guilt and reckoning should not be treated as fully settled when Eastern workers and Slavs still faced stigma and erasure.
 
+[[brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]] adds a contemporary domestic-politics branch through [[JensSpahn]]'s surrogacy scandal. The episode says Germany bans surrogacy and that public anger focused on Spahn defending the ban while using a surrogate abroad, forcing [[FriedrichMerz]] into a reshuffle and creating pressure before eastern state elections where [[AlternativeForGermany|AfD]] leads.
+
 ## Connections
 - [[Lithuania]] - deployment destination and Baltic reassurance case.
 - [[NATO]] and [[NATOAllianceCredibility]] - alliance context.
@@ -23,3 +25,4 @@ The episode uses Germany as the clearest concrete sign of [[EuropeanDefenseAuton
 - [[Russia]] and [[RussianHybridPressure]] - threat context behind the deployment.
 - [[Hamelin|哈默尔恩]], [[PiedPiperOfHamelin|花衣魔笛手]], and [[BrothersGrimm|格林兄弟]] - medieval folklore and legend-history branch added by episode 111.
 - [[NaziGermany]], [[OstarbeiterForcedLabor]], [[YevgeniaSheCameFromMariupol]], and [[RationalizedStateViolence]] - forced-labor and war-memory branch added by 蜜獾吃书 episode 05.
+- [[JensSpahn]], [[FriedrichMerz]], [[ChristianDemocraticUnionGermany]], [[SurrogacyPolicyHypocrisy]], and [[PoliticalDoubleStandardBacklash]] - contemporary scandal branch added by The Intelligence.

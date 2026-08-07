@@ -2,8 +2,8 @@
 title: "Entry-Level AI Career-Ladder Risk"
 type: concept
 tags: [ai, labor-market, careers, education]
-sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]
-last_updated: 2026-08-07
+sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]
+last_updated: 2026-08-08
 ---
 
 # Entry-Level AI Career-Ladder Risk
@@ -20,6 +20,8 @@ Entry-level AI career-ladder risk is [[146-meiguo-jingji-zheme-cha-meigu-hai-nen
 
 The risk is less about every junior worker being fired immediately than about future hiring plans. Firms may keep senior employees, ask them to supervise AI, and hire fewer beginners. If that continues, universities, professional programs, and companies face a pipeline problem: senior judgment still exists today, but the apprenticeship path that creates it can weaken.
 
+[[brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]] adds the graduate-advice layer. The source says new graduates face AI-assisted application floods and AI-powered HR systems, so entry-level risk is also experienced as search friction and screening opacity, not only as eventual task substitution.
+
 ## Key Claims
 - Episode 172 adds that labor substitution is both a valuation boundary and a household-demand problem when AI growth has a low employment multiplier.
 - AI can affect hiring plans before it shows up as visible layoffs.
@@ -28,6 +30,7 @@ The risk is less about every junior worker being fired immediately than about fu
 - Career-ladder risk is a pipeline problem, not only a wage or unemployment problem.
 - The source leaves the long-run outcome open: technology may also reshape roles and create new paths, but the old junior-to-senior progression cannot be assumed.
 - Episode 169 adds that finance's old ordinary-student entry points may narrow because they were often built around hard, repetitive information-processing labor.
+- The graduate-entry version shows that search channels can deteriorate before the underlying occupation fully changes.
 
 ## Connections
 - [[AILaborMarketConcentration]], [[LowFireLaborMarket]], and [[EmployerPowerReassertion]] - labor-market patterns around selective AI demand and weak entry paths.
@@ -36,3 +39,4 @@ The risk is less about every junior worker being fired immediately than about fu
 - [[USEconomicExperienceSplit]] - broader economic divergence this risk helps explain.
 - [[FinanceEntryLevelAICompression]], [[AIInvestmentResearch]], and [[IndustryToFinanceCareerPath]] — episode 169's finance-specific branch and possible response.
 - [[AIHollowingFoundationalTraining]], [[AIEraMajorChoice]], and [[CollegeCareerPreparation]] — EP266's school-to-work pipeline extension.
+- [[AIGraduateCareerUncertainty]], [[AIHiringArmsRace]], and [[UsefulWorkCareerCompounding]] - The Intelligence career-advice branch.

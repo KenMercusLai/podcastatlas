@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Brave New whirl: Turkey's opposition overhaul](sources/brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f.md) — The Intelligence episode on Ozel's New Party and Turkish opposition suppression, Jens Spahn's German surrogacy scandal, and Gen Z career advice under AI.
 - [An interview with Elon Musk](sources/an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c.md) — Full The Intelligence interview with Elon Musk on AI, humanoid robots, universal high income, frontier-model peer review, SpaceX control, Starlink in Ukraine, DOGE/USAID, X, and European political influence.
 - [175.公募基金二季报：极致的抱团与割裂之后](sources/175-gongmu-jijin-erjibao-jizhi-de-baotuan-yu-gelie-zhihou-lv20uprxrcw0tde5ugohu29tmlg6.md) — 起朱楼宴宾客 episode on Chinese public mutual funds' 2026 Q2 reports, active-fund crowding, AI and semiconductor concentration, manager ranking incentives, supply-chain bullwhip risk, and why retail investors should avoid chasing new star managers into long-term accounts.
 - [Burning questions: a more fire-prone world](sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b.md) — The Intelligence episode on extreme wildfire, smoke health burden, women’s stalled workplace progress, and U.S. nightlife mayors.
@@ -885,6 +886,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ozgur Ozel](entities/OzgurOzel.md) — Former CHP leader whose court removal and New Party launch anchor the Turkey opposition-overhaul source.
+- [New Party (Turkey)](entities/NewPartyTurkey.md) — Ozel's source-described opposition party, strengthened by CHP defections and framed as Turkey's new main challenge to the AK Party.
+- [Republican People's Party](entities/RepublicanPeoplesParty.md) — Turkish CHP, presented as a secular social-democratic party hollowed out after Ozel's removal and New Party defections.
+- [Kemal Kilicdaroglu](entities/KemalKilicdaroglu.md) — Former CHP leader restored by court ruling and framed by the source as easier for Erdogan to manage.
+- [Mansur Yavas](entities/MansurYavas.md) — Ankara mayor and backup opposition presidential candidate rumored in the source to face possible legal pressure.
+- [Jens Spahn](entities/JensSpahn.md) — German center-right politician forced out after using surrogacy abroad despite defending Germany's surrogacy ban.
+- [Friedrich Merz](entities/FriedrichMerz.md) — German chancellor managing the Spahn scandal, reshuffle pressure, and AfD-facing state-election risk.
+- [Christian Democratic Union (Germany)](entities/ChristianDemocraticUnionGermany.md) — German center-right party context for Merz and Spahn in the surrogacy-scandal segment.
+- [Alternative for Germany](entities/AlternativeForGermany.md) — German party mentioned as leading in eastern state elections, raising the political cost of the Spahn scandal for Merz's CDU.
+- [Bill Gurley](entities/BillGurley.md) — Author of Running Down a Dream, used by the career segment to discuss passion advice and survivorship bias.
+- [Jodi Kantor](entities/JodiKantor.md) — Author of How to Start, used by the career segment as another successful but atypical career-advice voice.
+- [Benjamin Todd](entities/BenjaminTodd.md) — Author of 80,000 Hours, whose advice favors useful skill-building and impact over simply following passion.
+- [80,000 Hours](entities/EightyThousandHours.md) — Career-advice book/framework highlighted as the episode's stronger alternative to passion-first guidance.
 - [金子才 / Jin Zicai](entities/JinZicai.md) — Caitong Fund manager used by episode 175 to show a verification-oriented AI investment framework moving from capex and model capability to AI Coding, ARR, and upstream bottlenecks.
 - [谢治宇 / Xie Zhiyu](entities/XieZhiyu.md) — Fund-manager voice warning that tight AI-infrastructure links can be overvalued before fundamentals visibly peak.
 - [张坤 / Zhang Kun](entities/ZhangKun.md) — Fund manager whose 2026 Q2 report frames AI compute through installed base versus annual capex and reads weak consumption through household expectations and balance-sheet stress.
@@ -1184,7 +1198,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [United Nations](entities/UnitedNations.md) — Recognition arena where Myanmar is represented by the civilian-government ambassador rather than the junta.
 - [Narendra Modi](entities/NarendraModi.md) — Foreign leader named as asking Min Aung Hlaing about Aung San Suu Kyi's welfare.
 - [Julie Bishop](entities/JulieBishop.md) — Outside diplomatic figure named as raising Aung San Suu Kyi's welfare in May.
-- [Turkey](entities/Turkey.md) — Country trying to turn Gulf and Iran disruption into logistics, tourism, and finance advantage through Istanbul.
+- [Turkey](entities/Turkey.md) — Country page covering Istanbul's war-spillover hub ambitions and Erdogan-era opposition realignment through the New Party and CHP pressure.
 - [Mehmet Simsek](entities/MehmetSimsek.md) — Turkish finance minister whose orthodox-policy credibility is central to investor confidence in the episode.
 - [Istanbul Financial Center](entities/IstanbulFinancialCenter.md) — 2023 financial-services project used as evidence of Turkey's hub ambition and credibility gap.
 - [Junhao Wen](entities/JunhaoWen.md) — Columbia computational neuroscientist named as lead author of the sleep-duration biological-clock study.
@@ -5381,7 +5395,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Garfield AI](entities/GarfieldAI.md) — Legal AI company used as the source's positive human-in-the-loop legal AI example.
 - [Russia](entities/Russia.md) — Country framed through hybrid pressure, Ukraine-war spillover, possible future tests of NATO credibility, and Britain's post-Brexit defence relevance.
 - [Ukraine](entities/Ukraine.md) — War context for NATO support, Russian hybrid pressure, European defense autonomy, and the defence argument in Britain's post-Brexit role.
-- [Germany](entities/Germany.md) — Country case for permanent brigade deployment to Lithuania and concrete European reassurance.
+- [Germany](entities/Germany.md) — Country page covering NATO reassurance, folklore and war-memory branches, and the Spahn surrogacy-scandal politics segment.
 - [Lithuania](entities/Lithuania.md) — Baltic security case where German deployment and American force uncertainty make NATO credibility visible.
 - [Ali Khamenei](entities/AliKhamenei.md) — Iranian supreme-leader figure whose funeral is framed by The Intelligence as religious rite, regime display, and succession test.
 - [Mujtaba Khamenei](entities/MujtabaKhamenei.md) — Khamenei son described by the episode as supposed successor whose absence creates command uncertainty.
@@ -5409,11 +5423,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rosie Bloor](entities/RosieBloor.md) — Host introducing the episode's finance, Turkey politics, and literary obituary segments.
 - [Josh Roberts](entities/JoshRoberts.md) — Capital-markets correspondent explaining AI bubble hedging, hyperscaler capex, and defensive portfolio choices.
 - [Piotr Zilevsky](entities/PiotrZilevsky.md) — Turkey correspondent explaining Erdogan succession dynamics, term-limit workarounds, and party maneuvering.
-- [Recep Tayyip Erdogan](entities/RecepTayyipErdogan.md) — Turkey's long-ruling leader whose term limits, age, and party dominance create succession uncertainty.
-- [Justice and Development Party](entities/JusticeAndDevelopmentParty.md) — Erdogan's ruling party and succession arena in the Turkey segment.
+- [Recep Tayyip Erdogan](entities/RecepTayyipErdogan.md) — Turkey's long-ruling leader whose succession, early-election route, and pressure on opposition challengers shape the Turkey politics sources.
+- [Justice and Development Party](entities/JusticeAndDevelopmentParty.md) — Erdogan's AK Party, framed through succession pressure and New Party polling competition.
 - [Hakan Fidan](entities/HakanFidan.md) — Foreign minister and possible Erdogan successor with broader public-survey appeal in the episode.
 - [Bilal Erdogan](entities/BilalErdogan.md) — Erdogan's youngest son and possible dynastic successor discussed in the episode.
-- [Ekrem Imamoglu](entities/EkremImamoglu.md) — Istanbul mayor and opposition figure whose imprisonment shapes the episode's Turkey political context.
+- [Ekrem Imamoglu](entities/EkremImamoglu.md) — Istanbul mayor and opposition challenger whose imprisonment and threatened sentence illustrate judicialized opposition suppression.
 - [Georges Beauchard](entities/GeorgesBeauchard.md) — Literary agent and refugee profiled for championing Beckett and Wiesel before publishers recognized their value.
 - [Samuel Beckett](entities/SamuelBeckett.md) — Writer whose work Beauchard backed before broader market recognition.
 - [Elie Wiesel](entities/ElieWiesel.md) — Writer whose Holocaust memoir Night Beauchard championed through early rejection.
@@ -6030,6 +6044,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Turkish Opposition Realignment](concepts/TurkishOppositionRealignment.md) — Rapid reshaping of Turkey's opposition after Ozel leaves the CHP, founds the New Party, and attracts defecting MPs.
+- [Judicialized Opposition Suppression](concepts/JudicializedOppositionSuppression.md) — Use of courts, police, prosecutions, and legal procedure to weaken challengers while preserving surface legality.
+- [Opposition Party Hollowing](concepts/OppositionPartyHollowing.md) — Pattern where a formal opposition party remains alive but loses leadership credibility, support, and organizational substance.
+- [Surrogacy Policy Hypocrisy](concepts/SurrogacyPolicyHypocrisy.md) — Scandal mechanism where a politician defending a surrogacy ban personally routes around it abroad.
+- [Political Double-Standard Backlash](concepts/PoliticalDoubleStandardBacklash.md) — Public anger when politicians appear to apply one rule to citizens and another to themselves.
+- [AI Graduate Career Uncertainty](concepts/AIGraduateCareerUncertainty.md) — Early-career problem where AI increases both application volume and automated employer screening.
+- [Career Advice Survivorship Bias](concepts/CareerAdviceSurvivorshipBias.md) — Risk that unusually successful advisers turn rare career paths into general rules.
+- [Passion Trap Career Advice](concepts/PassionTrapCareerAdvice.md) — Weakness of telling graduates to follow passion when interests are uncertain and jobs may not match.
+- [Useful Work Career Compounding](concepts/UsefulWorkCareerCompounding.md) — Career strategy of becoming very good at helpful work and letting motivation grow from competence and contribution.
+- [Impact Career Choice](concepts/ImpactCareerChoice.md) — Attempt to compare careers by their potential contribution to global good, with caution against demoralizing optimization.
+- [Effective Altruism](concepts/EffectiveAltruism.md) — Impact-oriented altruism frame used in the 80,000 Hours career-advice segment.
 - [Active Fund Crowding / 主动基金抱团](concepts/ActiveFundCrowding.md) — Public-fund market-structure pattern where active managers cluster around the same sectors, holdings, and narratives under ranking, benchmark, research, channel, and holder pressure.
 - [Fund Manager Ranking Incentives / 基金经理排名激励](concepts/FundManagerRankingIncentives.md) — Incentive mechanism where relative returns, peer rankings, benchmarks, sales lists, and recent winner attention push active managers toward similar positioning.
 - [AI Infrastructure Supply-Chain Bullwhip / AI 基建供应链牛鞭效应](concepts/AIInfrastructureSupplyChainBullwhip.md) — AI investing risk where final-demand expectations are amplified through cloud, model, chip, component, and capacity layers into upstream scarcity and valuation pressure.
@@ -6060,7 +6085,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Workplace AI Readiness Gap](concepts/WorkplaceAIReadinessGap.md) — Employer-worker-manager mismatch where AI skill demand outruns worker confidence, manager fluency, training, and trust.
 - [AI Native Worker](concepts/AINativeWorker.md) — Behavior-based label for workers who use AI to design, execute, and scale workflows end to end, not simply a demographic label.
 - [Managerial AI Fluency Gap](concepts/ManagerialAIFluencyGap.md) — Management-side blocker where managers lack the AI understanding needed to lead, evaluate, or learn from more AI-fluent employees.
-- [AI Job Security Anxiety](concepts/AIJobSecurityAnxiety.md) — Worker hesitation that AI productivity gains may help consolidate roles, eliminate junior jobs, or weaken employment security.
+- [AI Job Security Anxiety](concepts/AIJobSecurityAnxiety.md) — Worker and graduate hesitation that AI productivity, automated screening, and junior-role compression may weaken employment security.
 - [Advance News Trading Experiment](concepts/AdvanceNewsTradingExperiment.md) — Trading experiment showing that tomorrow’s headlines still fail without expectation reading, sizing discipline, and abstention.
 - [Cockroach Movement](concepts/CockroachMovement.md) — Youth-led Indian protest wave that converted a cockroach insult into meme identity, education grievance, and ministerial pressure.
 - [Dissent Space Compression](concepts/DissentSpaceCompression.md) — Pattern where protest remains possible but becomes costlier through patriotic loyalty tests, police force, and infrastructure restrictions.
@@ -6608,7 +6633,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [U.S. Economic Experience Split](concepts/USEconomicExperienceSplit.md) — Episode 146 frame for why tech, finance, and AI infrastructure can feel strong while workers, consumers, and weaker sectors feel stressed.
 - [Employer Power Reassertion](concepts/EmployerPowerReassertion.md) — Post-2021 shift from worker bargaining power toward employer control through layoffs, RTO, DEI rollback, and AI substitution pressure.
 - [Equity Retirement Asset Binding](concepts/EquityRetirementAssetBinding.md) — Political-economy pattern where 401(k)-style retirement exposure ties households and unions to Big Tech, AI, crypto, and broad U.S. equity performance.
-- [Entry-Level AI Career-Ladder Risk](concepts/EntryLevelAICareerLadderRisk.md) — Risk that AI automates junior search, summary, draft, and data tasks that previously trained future senior workers.
+- [Entry-Level AI Career-Ladder Risk](concepts/EntryLevelAICareerLadderRisk.md) — Risk that AI automates junior training tasks and worsens early-career search through noisy application funnels and screening opacity.
 - [Fund Investment Advisory / 基金投顾](concepts/FundInvestmentAdvisory.md) — Episode 145 frame for fund-portfolio advice, rebalancing, post-purchase accompaniment, behavior support, fee clarity, and trust.
 - [Buy-Side Investment Advisory / 买方投资顾问](concepts/BuySideInvestmentAdvisory.md) — Advisory principle that puts client goals, constraints, and long-term outcomes ahead of product-issuer or distributor incentives.
 - [Investment Adviser Fiduciary Duty / 投资顾问信义义务](concepts/InvestmentAdviserFiduciaryDuty.md) — U.S. advisory-duty comparison used by episode 145 to explain why law, disclosure, and oversight matter for client trust.
@@ -9461,7 +9486,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Public Service Journalism](concepts/PublicServiceJournalism.md) — Journalism mission frame built around civic service, accountability, access, diversity, and crisis connection.
 - [Democratic Transition Election](concepts/DemocraticTransitionElection.md) — Competitive vote after authoritarian drift, protest, disaster, or externally managed transition where representation, timing, reform, and legitimacy are unsettled.
 - [Applied Astrobiology](concepts/AppliedAstrobiology.md) — Biology-for-space agenda using microbes, bioreactors, and ecosystems to make off-Earth habitats more liveable.
-- [AI Hiring Arms Race](concepts/AIHiringArmsRace.md) — Recruiting feedback loop where candidates use AI to submit more applications and employers counter with screening, tests, policies, and agents.
+- [AI Hiring Arms Race](concepts/AIHiringArmsRace.md) — Recruiting feedback loop where candidates, including Gen Z graduates, use AI to submit more applications and employers counter with screening, tests, policies, and agents.
 - [Candidate Identity Fraud](concepts/CandidateIdentityFraud.md) — Hiring-security risk that remote-work applicants, profiles, or interview identities are synthetic or deceptive.
 - [Labour Leadership Crisis](concepts/LabourLeadershipCrisis.md) — Governing-party situation where weak authority moves from failed scare to resignation and successor selection.
 - [Political Delivery Gap](concepts/PoliticalDeliveryGap.md) — Mismatch between promised governing outcomes and visible progress, making scandals and leadership exits more likely.
@@ -9499,7 +9524,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diversification Alpha](concepts/DiversificationAlpha.md) — Portfolio idea that broad exposure, capped downside, uncapped upside, and winner weighting can be return sources.
 - [Random Market Narratives](concepts/RandomMarketNarratives.md) — Warning that convincing market stories can be generated after random or contingent price paths.
 - [AI Bubble Hedging](concepts/AIBubbleHedging.md) — Portfolio-response frame for suspected AI overvaluation using bonds, gold, defensive equities, and buy-and-hold discipline.
-- [Autocratic Succession](concepts/AutocraticSuccession.md) — Succession problem under personalized long-term rule, extended by the Erdogan and Khamenei funeral cases.
+- [Autocratic Succession](concepts/AutocraticSuccession.md) — Succession problem under personalized long-term rule, extended by Erdogan's early-election route, opposition pressure, and the Khamenei funeral cases.
 - [Political Funeral](concepts/PoliticalFuneral.md) — Use of mourning ritual as regime-legitimacy performance and succession signal.
 - [Joint Custody Reform](concepts/JointCustodyReform.md) — Family-law shift toward continuing post-divorce parental responsibility, grounded by Japan's reform.
 - [Clean Break Divorce Model](concepts/CleanBreakDivorceModel.md) — Divorce norm where one parent becomes effectively absent from the child's life after household separation.
@@ -9867,7 +9892,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Causal AI](concepts/CausalAI.md) — Research direction focused on intervention-grounded causal structure, causal discovery, and machine-learning systems that generalize beyond surface correlation.
 - [Causal World Models](concepts/CausalWorldModels.md) — World-model route that learns causal variables, causal structure, and action-conditioned transition dynamics for physical AI.
 - [LLM World Model Gap](concepts/LLMWorldModelGap.md) — Gap between fluent language prediction and explicit representations of entities, states, actions, affordances, facts, and causation.
-- [College Career Preparation](concepts/CollegeCareerPreparation.md) — Goal-dependent undergraduate preparation across GPA, exams, projects, internships, portfolios, and hiring readiness.
+- [College Career Preparation](concepts/CollegeCareerPreparation.md) — Goal-dependent undergraduate preparation across GPA, exams, projects, internships, portfolios, AI-era hiring readiness, and useful skill-building.
 - [College Major Choice](concepts/CollegeMajorChoice.md) — Choosing a field of study under AI and labor-market uncertainty without treating hot majors or outlier success stories as guarantees.
 - [Community-Led SaaS Growth](concepts/CommunityLedSaaSGrowth.md) — SaaS growth through practitioner communities, trusted channels, service, and word of mouth.
 - [Companion Robots](concepts/CompanionRobots.md) — Robots designed primarily for emotional coexistence, social presence, and household relationship-building.
