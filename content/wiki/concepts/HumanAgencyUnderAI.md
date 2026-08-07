@@ -2,8 +2,8 @@
 title: "Human Agency Under AI"
 type: concept
 tags: [ai, agency, life-design, work]
-sources: [ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 174-du-dikaer-shi-jian-dashi-966856702, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
-last_updated: 2026-08-07
+sources: [ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx, ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 174-du-dikaer-shi-jian-dashi-966856702, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
+last_updated: 2026-08-08
 ---
 
 # Human Agency Under AI
@@ -34,6 +34,8 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 
 [[174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]] adds [[ChaSheng]]'s "taste teacher" version. People still supply problem definition, taste, intuition, and human connection while AI takes over more reading, coordination, drafting, and planning, but the source also warns that taste and values may become model data once people express them clearly enough.
 
+[[ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx]] adds [[LiuKefan]]'s independent-builder version. He argues that AI should help with concrete tasks such as selection, short video, podcasting, event preparation, and talk preparation, but not decide the user's life direction or business interest. His warning that AI's incentives are not necessarily the user's incentives makes agency a practical product and business boundary, not only a philosophical concern.
+
 ## Key Claims
 
 - AI makes the user's undefined intention more visible because a powerful assistant still needs a direction.
@@ -58,6 +60,7 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 - Episode 256 adds that agency under AI inherits the older free-will problem: choices are causally constrained, but still matter when they organize meaning, responsibility, body, and action.
 - Future AI agency becomes a governance risk if systems gain their own goals and meanings rather than remaining delegated tools.
 - The Qizhulou source adds a second-order agency problem: humans are currently the taste and value source for AI, but their expressed taste can become training data that reduces future demand for ordinary human judgment.
+- The Liu Kefan source adds that agency includes deciding what AI should not decide: life direction, business interest, and locally grounded tradeoffs remain the user's responsibility.
 
 ## Connections
 
@@ -78,3 +81,4 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 - [[YangLingfeng]], [[SelfDirectedLearning]], [[LearningExperienceDesign]], and [[AIShortcutRisk]] — K12 learning-agency branch.
 - [[ChaSheng]], [[HumanTasteAsAITrainingSignal]], [[CognitiveDebt]], [[ModelValueEmbedding]], and [[HumanConnectionUnderAI]] - Qizhulou Yan Binke branch on human value after AI absorbs more production.
 - [[LowDesireDefensiveContraction]], [[SocialTemplateDesire]], [[ControllableLifeAnchors]], and [[RuleBoundOverthinking]] - episode 132's usefulness-anxiety and life-design extension.
+- [[LiuKefan]], [[TryCatchFinallySelfManagement]], [[AIEngineeringThinking]], and [[HumanAsAgentTool]] - Hard Hacker branch on independent-builder agency and task delegation.

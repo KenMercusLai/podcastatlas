@@ -2,13 +2,15 @@
 title: "Validated Learning"
 type: concept
 tags: [startup, product-validation, lean-startup, ai]
-sources: [socialradars-edithelliot-v3, socialradarspod-davidlieb-final, eric-ries-on-how-founders-quietly-lose-their-company, finding-product-market-fit-after-3-years-of-failed-ideas, how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]
-last_updated: 2026-07-11
+sources: [ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx, socialradars-edithelliot-v3, socialradarspod-davidlieb-final, eric-ries-on-how-founders-quietly-lose-their-company, finding-product-market-fit-after-3-years-of-failed-ideas, how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]
+last_updated: 2026-08-08
 ---
 
 # Validated Learning
 
 Validated learning is [[EricRies]]'s unit of progress for startups: learning, through real customer behavior, whether the product and business assumptions are true. In [[eric-ries-on-how-founders-quietly-lose-their-company]], Ries argues that AI changes the tactics of startup building but not this underlying constraint, because faster prototypes only matter if they help founders learn what customers want. [[finding-product-market-fit-after-3-years-of-failed-ideas]] adds [[GirishRedikar]]'s Sprinto case, where learning came from customer conversations, mockups, and repeated real audits before product code existed. [[how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m]] adds [[DannyJenkins]]'s ThreatLocker case, where endpoint-security learning required real deployments, buyer payment, product fixes, and market education around [[ZeroTrustSecurity]]. [[justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b]] adds a CPG case where [[JustinGold]] learned from formula tests, farmers markets, [[InStoreDemos]], observing shoppers, and changing [[RetailShelfPlacement]] for squeeze packs. [[e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]] adds [[ELFCosmetics]], where rejected dollar stores, online orders, and [[HEB]]/[[Target]] tests successively changed what [[JoeyShamah]] knew about the real channel. [[socialradars-edithelliot-v3]] adds a nonprofit-health version through [[NooraHealth]], where learning came from hospital field interviews, early complication-reduction evidence, cost-per-life-saved estimates, and quarterly milestone reporting rather than ordinary revenue. [[socialradarspod-davidlieb-final]] adds [[Bump]] as a case where learning lagged behind apparent success: massive adoption did not answer whether contact sharing had enough frequency and value to monetize, while top-user conversations and [[Flock]]'s failure taught the team that photos were the stronger opportunity but a separate app was not enough.
+
+[[ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx]] adds [[LiuKefan]]'s falsifiability emphasis for independent builders. The source treats validation as a way to define which belief failed: if a two-month AI cost-reduction hypothesis misses the target, the theory is falsified and should be reviewed, but the founder's whole path is not thereby invalidated.
 
 ## Key Claims
 - AI lowers the friction of creating experiments, so founders have fewer excuses for delaying MVP tests.
@@ -23,6 +25,7 @@ Validated learning is [[EricRies]]'s unit of progress for startups: learning, th
 - Retail validation can overturn the founder's original channel thesis while still confirming the product, as e.l.f. learned after [[FamilyDollar]] and [[DollarGeneral]] said no.
 - Successful distribution can delay validated learning if the team mistakes install scale for proof of business-model strength.
 - Nonprofit validated learning needs credible outcome metrics and field behavior, because donor enthusiasm alone does not prove that an intervention works.
+- Falsifiable hypotheses help validated learning stay honest: the founder should know what result would count as disconfirmation before explaining failure away.
 
 ## Connections
 - [[EricRies]] - source of the concept in this wiki.
@@ -36,3 +39,4 @@ Validated learning is [[EricRies]]'s unit of progress for startups: learning, th
 - [[ELFCosmetics]], [[JoeyShamah]], [[FamilyDollar]], [[DollarGeneral]], [[HEB]], and [[Target]] - value beauty case where channel tests produced learning.
 - [[NooraHealth]], [[EdithElliott]], [[FamilyCaregiverTraining]], and [[NonprofitStartupDiscipline]] - nonprofit health case where evidence and milestones replace revenue as the main learning signal.
 - [[DavidLieb]], [[Bump]], [[Flock]], [[GooglePhotos]], [[LowFrequencyLowValueProduct]], and [[PowerUserDiscovery]] - mobile-app case where adoption, top-user conversations, and failed product extension produced learning.
+- [[LiuKefan]], [[FalsifiableProductHypothesis]], and [[TryCatchFinallySelfManagement]] - Hard Hacker case where validation turns anxiety into testable claims.

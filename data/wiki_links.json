@@ -12331,6 +12331,10 @@
     "title": "False Choice Governance",
     "url": "/wiki/concepts/falsechoicegovernance/"
   },
+  "FalsifiableProductHypothesis": {
+    "title": "Falsifiable Product Hypothesis / 可证伪产品假设",
+    "url": "/wiki/concepts/falsifiableproducthypothesis/"
+  },
   "FamiliarSpaceDating": {
     "title": "Familiar-Space Dating / 熟悉空间约会",
     "url": "/wiki/concepts/familiarspacedating/"
@@ -16683,6 +16687,10 @@
     "title": "Human-Animal Continuity In Myth",
     "url": "/wiki/concepts/humananimalcontinuityinmyth/"
   },
+  "HumanAsAgentTool": {
+    "title": "Human As Agent Tool / 人作为 AI 工具",
+    "url": "/wiki/concepts/humanasagenttool/"
+  },
   "HumanAuthorshipPremium": {
     "title": "Human Authorship Premium",
     "url": "/wiki/concepts/humanauthorshippremium/"
@@ -20862,6 +20870,10 @@
   "LiuKai": {
     "title": "Liu Kai",
     "url": "/wiki/entities/liukai/"
+  },
+  "LiuKefan": {
+    "title": "刘可凡 / Liu Kefan",
+    "url": "/wiki/entities/liukefan/"
   },
   "LiuLiangyou": {
     "title": "刘良佑 / Liu Liangyou",
@@ -34723,6 +34735,10 @@
     "title": "红楼之真 / Truthful Temperament In Red Chamber",
     "url": "/wiki/concepts/truthfultemperamentinredchamber/"
   },
+  "TryCatchFinallySelfManagement": {
+    "title": "Try-Catch-Finally Self-Management / try-catch-finally 自我管理",
+    "url": "/wiki/concepts/trycatchfinallyselfmanagement/"
+  },
   "Tsathoggua": {
     "title": "Tsathoggua / 萨托古雅",
     "url": "/wiki/entities/tsathoggua/"
@@ -39034,6 +39050,10 @@
   "ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa": {
     "title": "EP117 豆包月活过亿，阿里再造「千问」是不是晚了？",
     "url": "/wiki/sources/ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa/"
+  },
+  "ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx": {
+    "title": "EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛",
+    "url": "/wiki/sources/ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx/"
   },
   "ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2": {
     "title": "EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了",

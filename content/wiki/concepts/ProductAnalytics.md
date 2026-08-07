@@ -2,8 +2,8 @@
 title: "Product Analytics"
 type: concept
 tags: [product, analytics, retention, saas]
-sources: [peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio]
-last_updated: 2026-07-25
+sources: [ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx, peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio]
+last_updated: 2026-08-08
 ---
 
 # Product Analytics
@@ -14,12 +14,15 @@ The source makes product analytics narrower and more operational than generic tr
 
 [[peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted]] adds [[Segment]] as an adjacent product-analytics infrastructure case. [[PeterReinhardt]] says [[AnalyticsJS|analytics.js]] began as a small routing library for sending [[ClassMetric]] events to tools such as [[Mixpanel]], [[GoogleAnalytics|Google Analytics]], and [[Kissmetrics]], but user demand pointed toward a hosted service that could route behavioral data across many destinations without repeated engineering work.
 
+[[ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx]] adds a solo-builder validation use. [[LiuKefan]] recommends adding measurement points to an MVP, watching which features users care about, and pairing usage data with feedback or interviews so the builder can test a [[FalsifiableProductHypothesis]] rather than argue with anxiety.
+
 ## Key Claims
 - Product analytics is most useful when it answers a decision question rather than only reporting usage counts.
 - Retention questions can expose whether the product has a reliability, onboarding, habit, or value problem.
 - The same behavioral visibility can become a company when multiple teams recognize the pain and will pay to solve it.
 - Product analytics connects [[DataDrivenProductCulture]] to concrete founder decisions: what to fix, whether to pivot, and how to explain value to customers.
 - Product analytics infrastructure can also be valuable when it reduces the integration burden around many downstream tools, not only when it supplies dashboards or cohort reports.
+- For independent builders, analytics is useful when it is tied to a hypothesis and a decision window rather than becoming another vanity dashboard.
 
 ## Connections
 - [[Amplitude]], [[SpenserSkates]], [[CurtisLiu]], and [[Sonalight]] - source case.
@@ -28,3 +31,4 @@ The source makes product analytics narrower and more operational than generic tr
 - [[InternalToolProductization]], [[CustomerEvidenceStrategy]], and [[FounderLedSales]] - path from internal tool to product.
 - [[GoogleAnalytics]], [[Flurry]], [[Mixpanel]], [[Kissmetrics]], and [[Adobe]] - named comparison tools.
 - [[Zynga]] and [[TwelveGigs|12gigs]] - early market context where the value was legible.
+- [[LiuKefan]], [[FalsifiableProductHypothesis]], and [[FastProductValidation]] - solo-builder measurement layer added by Hard Hacker.

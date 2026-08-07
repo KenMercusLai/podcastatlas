@@ -2,8 +2,8 @@
 title: "AI Engineering Thinking"
 type: concept
 tags: [ai, workflow, software-engineering]
-sources: [vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
-last_updated: 2026-08-07
+sources: [ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
+last_updated: 2026-08-08
 ---
 
 # AI Engineering Thinking
@@ -42,6 +42,8 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 
 [[ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]] adds the Kimi K3 podcast-agent case. The host's task succeeded because the goal, workflow layers, expected outputs, and constraints were concrete enough for the model to reason about news search, background research, outline generation, and multi-topic conflicts. The source also emphasizes a practical split: frontier models may be worth using to create tools and solve unknowns, while production operation should route work by cost, latency, and risk through [[TopModelBuildRuntimeSplit]].
 
+[[ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx]] adds [[LiuKefan]]'s life-and-business version. He maps `try-catch-finally` onto action, error handling, and cleanup: start with a minimal step, convert anxiety into a [[FalsifiableProductHypothesis]], and close the workday with a fixed stopping rule. The source expands engineering thinking from software and AI workflows into [[TryCatchFinallySelfManagement]] for independent builders.
+
 ## Key Claims
 - AI is most useful when the work can be decomposed into bounded tasks with clear inputs, outputs, and acceptance criteria.
 - Test-driven development, end-to-end tests, screenshots, code review, documentation, and logging become easier to enforce because AI will perform tedious process steps if asked.
@@ -70,6 +72,7 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 - In model training, engineering thinking means debugging the whole experimental system before declaring a scaling law, data recipe, or algorithmic idea invalid.
 - [[MLCoding]] makes engineering thinking part of research itself because models need experiment structure, metrics, and logs to help improve future models.
 - Kimi K3 reinforces that the user's system design can matter as much as model choice when nearby models are all capable enough to build first-pass applications.
+- Liu Kefan adds that engineering thinking can be applied to self-management: starting conditions, failure handling, and cleanup routines can be designed rather than left to mood.
 
 ## Connections
 - [[VibeCoding]] — AI coding practice that needs this engineering posture to become product work.
@@ -94,3 +97,4 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 - [[YaoShunyu]], [[MLCoding]], [[FrontierModelScaling]], and [[ProblemDefinitionInResearch]] — frontier-training and experiment-design branch added by episode 140.
 - [[FudanUniversity]], [[AIHollowingFoundationalTraining]], [[NewEngineeringEducation]], and [[AIUniversityAssessmentReform]] — EP266's software-education and system-view branch.
 - [[KimiK3]], [[ModelWorkflowFit]], [[ModelRoutingCostControl]], and [[TopModelBuildRuntimeSplit]] — podcast-agent implementation and model-routing branch added by Keji Luandun.
+- [[LiuKefan]], [[TryCatchFinallySelfManagement]], [[FalsifiableProductHypothesis]], and [[FounderWorkBoundaries]] — engineering metaphor applied to solo-builder psychology and work rhythm.

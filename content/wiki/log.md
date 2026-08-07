@@ -7197,3 +7197,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 10,248 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-08] ingest | EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛
+
+Added source page for a 硬地骇客 episode with 刘可凡 on using `try-catch-finally` as a solo-builder self-management loop. Created pages for Liu Kefan, Try-Catch-Finally Self-Management, Falsifiable Product Hypothesis, and Human As Agent Tool; updated overview, index, 硬地骇客, Podwise, One-Person Company, AI As Business Operator, Human Agency Under AI, AI Engineering Thinking, Fast Product Validation, Product Analytics, Founder Work Boundaries, AI Use Pacing, Validated Learning, Model Context Protocol, and Agentic Workflow. No direct contradiction found; the source qualifies one-person-company and AI-operator optimism by separating AI-assisted task execution from human-owned direction, falsifiable validation, cash-flow/feedback pressure, and shutdown boundaries.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

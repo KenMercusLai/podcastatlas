@@ -2,8 +2,8 @@
 title: "AI Use Pacing"
 type: concept
 tags: [ai, pacing, productivity, life-design]
-sources: [ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128, tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-08-07
+sources: [ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx, ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128, tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
+last_updated: 2026-08-08
 ---
 
 # AI Use Pacing
@@ -36,6 +36,8 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 
 [[ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix]] adds a reading-culture version. The speakers are open to AI as a recommendation aid, but they resist the pressure to treat every new technology wave as urgent; pacing includes letting books and embodied routines decide what deserves attention now.
 
+[[ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx]] adds a builder-focused boundary through [[LiuKefan]]. AI is useful for decomposing concrete tasks, but it should not become the first authority on life direction or business interest. His `finally` rule also applies to AI-heavy work: stop the agent-assisted optimization loop before it turns into another form of internal friction.
+
 ## Key Claims
 
 - AI can convert anxiety into activity: installing tools, trying models, and consuming tokens may feel like progress even without a clear purpose.
@@ -60,6 +62,7 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 - Pacing can also mean not prompting yet: the user may need a no-AI interval to make AI support an inspected aid rather than the first source of judgment.
 - Episode 154 adds that AI pacing is part of autonomy because the order of thinking and prompting changes whether the answer is owned.
 - EP258 adds that AI pacing can mean using recommendation without surrendering reading pace, book choice, or the right to ignore a short-lived tech wave.
+- The Liu Kefan source adds that AI pacing includes both task selection and shutdown: use AI to reduce execution resistance, then stop before tool-driven optimization takes over the day.
 
 ## Connections
 
@@ -81,3 +84,4 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 - [[AIBrainFry]], [[MattKrop]], and [[BCG]] - Marketplace Tech branch on workplace AI exhaustion and recovery.
 - [[LaurenWeber]], [[OlderWorkerAIRetirement]], and [[InstitutionalKnowledgeTransfer]] - Marketplace Tech branch where rapid adoption can trigger retirement and knowledge loss.
 - [[ReadingMediumPluralism]], [[AttentionFragmentation]], and [[AIAssistedReading]] - EP258's reading and technology-wave extension.
+- [[LiuKefan]], [[TryCatchFinallySelfManagement]], [[HumanAgencyUnderAI]], and [[FounderWorkBoundaries]] - independent-builder AI boundary added by Hard Hacker.

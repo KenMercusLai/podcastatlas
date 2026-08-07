@@ -2,11 +2,13 @@
 title: "硬地骇客"
 type: entity
 tags: [podcast, media]
-sources: [ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd]
-last_updated: 2026-07-24
+sources: [ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd]
+last_updated: 2026-08-08
 ---
 
 # 硬地骇客
+
+[[ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx]] adds a solo-builder self-management case through [[LiuKefan|刘可凡]]. The episode uses programming's `try-catch-finally` structure to discuss internal friction, [[FalsifiableProductHypothesis|falsifiable product hypotheses]], AI-assisted task decomposition, and the need for shutdown rituals when one person carries direction, execution, and business pressure.
 
 硬地骇客 is the podcast/show context for [[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]]. In this episode, the show connects [[Cursor]] pricing, [[Windsurf]]'s transaction turmoil, [[ClaudeCode]], [[GeminiCLI]], and the broader [[VibeCoding]] wave into one discussion about AI coding tool competition.
 
@@ -29,6 +31,7 @@ last_updated: 2026-07-24
 [[ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd]] adds a non-AI lifestyle and travel case through [[Guigui]]. The episode turns the show toward [[BTypeRVMotorhome]], [[RVOwnershipEconomics]], [[RVTravelLogistics]], [[PetTravel]], and [[MobileWork]], emphasizing that mobility and freedom depend on vehicle height, diesel grade, water, sewage, parking, network signal, and small-space chores.
 
 ## Connections
+- [[LiuKefan]], [[TryCatchFinallySelfManagement]], [[FalsifiableProductHypothesis]], and [[HumanAsAgentTool]] — solo-builder self-management and AI workflow case added by the Liu Kefan episode.
 - [[Cursor]], [[Windsurf]], [[ClaudeCode]], and [[GeminiCLI]] — central tools and companies discussed in the episode.
 - [[VibeCoding]], [[AICodingVerification]], and [[ModelProviderToolCompetition]] — main themes surfaced by the episode.
 - [[Qwen]], [[Doubao]], [[AIAssistantServiceEntry]], and [[AgenticCommerce]] — consumer assistant strategy themes added by EP117.

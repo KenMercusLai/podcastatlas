@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛](sources/ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx.md) — 硬地骇客 episode with Liu Kefan on solo-builder internal friction, try-catch-finally self-management, falsifiable product hypotheses, AI task decomposition, human-callable MCP workflows, and shutdown rituals.
 - [「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】](sources/reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk.md) — Shizilukou Crossing road-podcast episode with Will Wang Tianfan on B.A.I Capital, VC trust and feedback, AI context machines, wisdom-over-intelligence applications, AI-native investing workflows, AI infra versus crypto infra, three-non venture theory, Lookie, Mashie, and AI for fun.
 - [EP272 谁的青春里，没有一本被传阅到卷边的杂志？](sources/ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu.md) — Talk三联 episode on magazine reading memory, family subscriptions, classroom circulation, youth magazines, e-magazines, mobile-internet decline, paper subscription ritual, and local zine revival.
 - [270.大厂押注AI办公，飞书和钉钉却先成了配角](sources/270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4.md) — 乱翻书 episode on Feishu/DingTalk becoming AI-office substrate, Doubao C-end monetization pressure, Tencent WorkBody, Alibaba Qwen office, enterprise data, and coding-like office agents.
@@ -899,6 +900,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [刘可凡 / Liu Kefan](entities/LiuKefan.md) — Hard Hacker guest using programming metaphors, product validation, and AI workflow experiments to explain how solo builders handle internal friction.
 - [Will Wang Tianfan / 汪天凡](entities/WangTianfan.md) — B.A.I Capital partner whose road-podcast episode links VC apprenticeship, AI context machines, wisdom-over-intelligence product judgment, and three-non venture investing.
 - [B.A.I Capital](entities/BAICapital.md) — Venture-capital firm context for Wang Tianfan's AI hardware, context-machine, AI social, Lookie, Mashie, and AI for fun investment examples.
 - [Lookie / Loki](entities/Lookie.md) — Wearable AI context-machine product discussed as a pendant-like memory and AI comic case, kept distinct from the mythological Loki page.
@@ -6145,6 +6147,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Try-Catch-Finally Self-Management / try-catch-finally 自我管理](concepts/TryCatchFinallySelfManagement.md) — Liu Kefan's method for solo builders: start with a tiny action, catch fear as a falsifiable hypothesis, and use fixed shutdown rituals to preserve pace.
+- [Falsifiable Product Hypothesis / 可证伪产品假设](concepts/FalsifiableProductHypothesis.md) — Product-validation practice of defining what evidence would disconfirm a founder's belief before turning persistence into self-protective rationalization.
+- [Human As Agent Tool / 人作为 AI 工具](concepts/HumanAsAgentTool.md) — Human-in-the-loop agent workflow where an AI system calls on a person for narrow, permissioned actions when no clean software interface exists.
 - [Wisdom Over Intelligence / 智慧稀缺论](concepts/WisdomOverIntelligence.md) — Wang Tianfan's AI application thesis that model intelligence may become abundant while wisdom still needs context, feedback, reflection, value judgment, and care.
 - [AI Context Machine / AI 上下文机器](concepts/AIContextMachine.md) — Product thesis for AI devices or software that capture seen/heard/said/done context and convert it into memory, reflection, feedback, or presence.
 - [AI-Native Investing Workflow](concepts/AINativeInvestingWorkflow.md) — VC workflow using detailed prompts for research, product scans, due diligence synthesis, and portfolio tracking while preserving human judgment.

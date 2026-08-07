@@ -2,8 +2,8 @@
 title: "Founder Work Boundaries"
 type: concept
 tags: [founder, work, mental-health, startup]
-sources: [ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5]
-last_updated: 2026-08-07
+sources: [ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5]
+last_updated: 2026-08-08
 ---
 
 # Founder Work Boundaries
@@ -14,6 +14,8 @@ The episode treats boundaries as practical infrastructure rather than a vague we
 
 [[ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw]] adds the family-business successor version through [[FamilyBusinessWorkLifeBoundary]]. In that episode, founders can treat the company as a child and work seven days a week, while second-generation successors still accept responsibility but want systems, AI, and management structure that let the company operate without permanent physical presence.
 
+[[ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx]] adds the independent-builder shutdown version through [[LiuKefan]]. In [[TryCatchFinallySelfManagement]], `finally` is the fixed closure action that happens whether the day went well or badly: stop at a defined time, leave unresolved work for tomorrow, and protect the pace needed to keep building.
+
 ## Key Claims
 - Physical separation matters when work happens at home and every room becomes a reminder of the business.
 - Time boundaries can increase creativity because ideas often appear after the founder disconnects from immediate tasks.
@@ -21,9 +23,11 @@ The episode treats boundaries as practical infrastructure rather than a vague we
 - Founder boundaries complement [[FounderIdentityDiversification]]: the founder needs relationships, rituals, and interests that are not judged by company performance.
 - Boundaries are part of [[SustainableGrowthPace]] when the founder remains the central salesperson, storyteller, and operator.
 - In family succession, boundaries can mark a shift from founder identity fusion toward a company that can survive through roles, systems, and delegated management.
+- For solo product builders, a shutdown ritual is not optional polish; it prevents endless optimization from consuming the next day's capacity.
 
 ## Connections
 - [[MattSmith]] and [[WanderingSoulBeer]] - source case.
 - [[RonnenHarary]] and [[GuyRaz]] - advisors who frame boundaries as practical operating structure.
 - [[StoryLedConsumerBranding]], [[FounderIdentityDiversification]], [[SustainableGrowthPace]], and [[FounderRoleTransition]] - adjacent founder and brand concepts.
 - [[FamilyBusinessWorkLifeBoundary]], [[FactorySecondGeneration]], [[Fadior]], [[WoteShoes]], and [[SuccessionAsContinuousEntrepreneurship]] - family-business successor extension added by EP255.
+- [[LiuKefan]], [[TryCatchFinallySelfManagement]], [[WorkplacePacing]], and [[AIUsePacing]] - fixed shutdown boundary added by the Hard Hacker episode.
