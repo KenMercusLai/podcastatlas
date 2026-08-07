@@ -6969,3 +6969,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | How to beat the resource curse in Norway (Summer School)
+
+Added source page for a Planet Money Summer School episode on Norway's oil governance and salmon export-market creation. Created pages for Norway, Hilde Bjornland, Farouk Al Qassem, Bjorn Adek Olsen, Ekofisk Oil Field, Norwegian Oil Fund, Nishire, Resource Curse Governance, Slow Extraction Strategy, Sovereign Oil Fund Governance, Social Trust As State Capacity, Salmon Sushi Market Creation, Export Market Coordination, Free Rider Problem, and National Export Branding; updated overview, index, Planet Money, NPR, Robert Smith, Japan, Dutch Disease, Political Resource Curse, Oil Revenue Dependence, Market Coordination, and Social Trust And Happiness. No direct contradiction found; the source complements the Venezuela oil-resource-curse branch by adding a positive Norway contrast and qualifies simple market-coordination stories through the salmon-sushi free-rider case.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

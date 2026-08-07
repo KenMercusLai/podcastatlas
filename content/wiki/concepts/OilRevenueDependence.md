@@ -2,8 +2,8 @@
 title: "Oil Revenue Dependence"
 type: concept
 tags: [oil, macro, political-economy, commodity, development]
-sources: [chevron-venezuela-and-the-paradox-of-plenty, venezuelas-recent-economic-history-update]
-last_updated: 2026-07-24
+sources: [how-to-beat-the-resource-curse-in-norway-summer-school, chevron-venezuela-and-the-paradox-of-plenty, venezuelas-recent-economic-history-update]
+last_updated: 2026-08-07
 ---
 
 # Oil Revenue Dependence
@@ -14,16 +14,21 @@ Oil revenue dependence is the country-level vulnerability in [[venezuelas-recent
 
 The dependence became dangerous because oil money crowded out other buffers. The source says manufacturing and agriculture weakened as Venezuela imported more goods with cheap dollars from oil sales. When prices fell in 2014, [[NicolasMaduro]] inherited a system that needed dollars for imports, public spending, and exchange-rate support at the same time.
 
+[[how-to-beat-the-resource-curse-in-norway-summer-school]] adds [[Norway]] as the mitigation case. The episode argues that Norway did not avoid dependence by pretending oil was small; it built taxation, technical capacity, [[SlowExtractionStrategy]], and the [[NorwegianOilFund]] so that oil revenue could support public wealth without becoming the only operating logic of the economy.
+
 ## Key Claims
 - Oil revenue can hide weakness in domestic production when imports are cheap and politically easier.
 - A commodity boom can make social spending and subsidies look sustainable until the price cycle turns.
 - Countries with sovereign savings or diversified production can absorb oil shocks more easily than countries that spend the boom.
 - Oil dependence can feed a [[CurrencyControlTrap]] when dollar supply comes from export revenue but import demand remains broad.
 - The vulnerability is both macroeconomic and political because painful adjustment threatens public support.
+- Sovereign savings reduce dependence only when rules, trust, and political restraint prevent the fund from becoming current spending.
 
 ## Connections
 - [[Venezuela]], [[HugoChavez]], and [[NicolasMaduro]] - source case and leadership sequence.
+- [[Norway]], [[EkofiskOilField]], and [[NorwegianOilFund]] - mitigation case added by the Norway Summer School source.
 - [[Petrostate]], [[DutchDisease]], [[OilNationalization]], [[PDVSA]], and [[PoliticalResourceCurse]] - long oil-history branch added by the Chevron episode.
+- [[ResourceCurseGovernance]], [[SlowExtractionStrategy]], and [[SovereignOilFundGovernance]] - institutional responses to dependence risk.
 - [[OPEC]] and [[OilProducerSupplyCoordination]] - oil-market institution context.
 - [[CommodityPriceExposure]] - broader risk category extended by the country-level Venezuela case.
 - [[ImportApprovalBottleneck]] and [[CurrencyControlTrap]] - downstream failures after oil dollars dried up.

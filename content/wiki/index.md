@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to beat the resource curse in Norway (Summer School)](sources/how-to-beat-the-resource-curse-in-norway-summer-school.md) — Planet Money Summer School episode on Norway's oil governance, Farouk Al Qassem, slow extraction, the Norwegian oil fund, social trust, and salmon-sushi market creation in Japan.
 - [143. 「蔚小理」的高端探索](sources/143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1.md) — 疯投圈 episode on Li Auto, XPeng, and NIO's premium-EV positioning, family SUVs, MONA-driven volume, GX high-end push, NIO battery leasing, and battery-swap infrastructure.
 - [An "antacid" to fight climate change](sources/tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128.md) — Marketplace Tech episode on Vesta's olivine ocean-carbon-removal demonstration, ocean alkalinity enhancement, bicarbonate storage, marine-life tradeoffs, and the scale and verification questions around marine carbon removal.
 - [11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿](sources/11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk.md) — Shizilukou Crossing episode with Wu Kai on Airwallex's global payment network, transaction-banking expansion, AI finance products Kai, Agent OS, T0, ARID, and the intelligent-finance thesis.
@@ -869,6 +870,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Norway](entities/Norway.md) — Country case for Planet Money's resource-curse-governance and salmon export-market-creation episode.
+- [Hilde Bjornland](entities/HildeBjornland.md) — Norwegian economics professor explaining oil wealth, social trust, public spending, and salmon-market coordination in the Planet Money Summer School source.
+- [Farouk Al Qassem](entities/FaroukAlQassem.md) — Iraqi geologist whose early oil expertise helped Norway prepare before the Ekofisk discovery.
+- [Bjorn Adek Olsen](entities/BjornAdekOlsen.md) — Norwegian fish marketer who helped sell Norwegian salmon into Japan as sushi.
+- [Ekofisk Oil Field](entities/EkofiskOilField.md) — 1969 Norwegian offshore oil discovery used as the turning point in the Norway resource-governance case.
+- [Norwegian Oil Fund](entities/NorwegianOilFund.md) — Sovereign oil savings institution used by the source to show how Norway separated oil wealth from immediate spending pressure.
+- [Nishire](entities/Nishire.md) — Japanese frozen-food company named in the source as the buyer in the large salmon-sushi market-opening deal.
 - [Li Auto L9 / 理想 L9](entities/LiAutoL9.md) — Flagship family SUV used by FengTouQuan to explain Li Auto's early high-end EV branding and later premium-renewal pressure.
 - [XPeng MONA 03 / 小鹏 MONA 03](entities/XPengMONA03.md) — Low-price XPeng volume vehicle tied to smart-driving democratization, younger buyers, and the risk that entry products define the brand.
 - [NIO ES8 / 蔚来 ES8](entities/NIOES8.md) — Premium NIO SUV used to show how battery leasing and battery swapping lower upfront purchase friction while preserving high-end positioning.
@@ -5940,6 +5948,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Resource Curse Governance](concepts/ResourceCurseGovernance.md) — Institutional response to resource wealth built from early expertise, regulation, taxation, slow extraction, sovereign saving, and social trust.
+- [Slow Extraction Strategy](concepts/SlowExtractionStrategy.md) — Resource-policy approach of limiting extraction pace so institutions, bargaining capacity, and technical expertise can develop.
+- [Sovereign Oil Fund Governance](concepts/SovereignOilFundGovernance.md) — Fiscal discipline mechanism for turning temporary oil revenue into long-horizon public wealth.
+- [Social Trust As State Capacity](concepts/SocialTrustAsStateCapacity.md) — Governance concept where public trust supports taxation, delayed spending, saving, and redistribution.
+- [Salmon Sushi Market Creation](concepts/SalmonSushiMarketCreation.md) — Norway-to-Japan case of turning culturally resisted raw salmon into an accepted sushi product.
+- [Export Market Coordination](concepts/ExportMarketCoordination.md) — Public-private demand-creation problem where shared market benefits exceed what one firm can capture alone.
+- [Free Rider Problem](concepts/FreeRiderProblem.md) — Coordination failure where firms benefit from another actor's market-opening investment without sharing the cost.
+- [National Export Branding](concepts/NationalExportBranding.md) — Origin-based export strategy using a country's image to communicate quality, safety, and desirability.
 - [High-End EV Branding / 新能源车高端心智](concepts/HighEndEVBranding.md) — Premium electric-vehicle positioning problem where brands must justify higher prices despite feature convergence, price pressure, and crowded Chinese competition.
 - [EV Battery Leasing / 电动车电池租赁](concepts/EVBatteryLeasing.md) — Battery-as-recurring-payment structure that lowers upfront EV purchase friction while preserving sticker-price and brand-positioning signals.
 - [Battery Swap Infrastructure / 换电体系](concepts/BatterySwapInfrastructure.md) — Physical network and operating system for exchanging EV batteries, supporting NIO's battery-leasing and residual-value narrative.

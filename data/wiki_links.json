@@ -5183,6 +5183,10 @@
     "title": "《怪诞故事集》 / Bizarre Stories",
     "url": "/wiki/entities/bizarrestories/"
   },
+  "BjornAdekOlsen": {
+    "title": "Bjorn Adek Olsen",
+    "url": "/wiki/entities/bjornadekolsen/"
+  },
   "BlackBerry": {
     "title": "BlackBerry",
     "url": "/wiki/entities/blackberry/"
@@ -10939,6 +10943,10 @@
     "title": "《查令十字街84号》 / 84 Charing Cross Road",
     "url": "/wiki/entities/eightyfourcharingcrossroad/"
   },
+  "EkofiskOilField": {
+    "title": "Ekofisk Oil Field",
+    "url": "/wiki/entities/ekofiskoilfield/"
+  },
   "EkremImamoglu": {
     "title": "Ekrem Imamoglu",
     "url": "/wiki/entities/ekremimamoglu/"
@@ -11755,6 +11763,10 @@
     "title": "Exploration To Extraction Pipeline",
     "url": "/wiki/concepts/explorationtoextractionpipeline/"
   },
+  "ExportMarketCoordination": {
+    "title": "Export Market Coordination",
+    "url": "/wiki/concepts/exportmarketcoordination/"
+  },
   "ExportTaxFraudCreditCrisis": {
     "title": "Export Tax Fraud Credit Crisis",
     "url": "/wiki/concepts/exporttaxfraudcreditcrisis/"
@@ -12046,6 +12058,10 @@
   "FarmersMarketUrbanism": {
     "title": "Farmers Market Urbanism",
     "url": "/wiki/concepts/farmersmarketurbanism/"
+  },
+  "FaroukAlQassem": {
+    "title": "Farouk Al Qassem",
+    "url": "/wiki/entities/faroukalqassem/"
   },
   "FarzadRashidi": {
     "title": "Farzad Rashidi",
@@ -13278,6 +13294,10 @@
   "FreeMarketScientificLoop": {
     "title": "Free-Market Scientific Loop / 自由市场与现代科学闭环",
     "url": "/wiki/concepts/freemarketscientificloop/"
+  },
+  "FreeRiderProblem": {
+    "title": "Free Rider Problem",
+    "url": "/wiki/concepts/freeriderproblem/"
   },
   "FreeServiceHiddenCost": {
     "title": "Free Service Hidden Cost / 免费服务隐性成本",
@@ -15550,6 +15570,10 @@
   "HikikomoriStrategicRetreat": {
     "title": "Hikikomori Strategic Retreat",
     "url": "/wiki/concepts/hikikomoristrategicretreat/"
+  },
+  "HildeBjornland": {
+    "title": "Hilde Bjornland",
+    "url": "/wiki/entities/hildebjornland/"
   },
   "HillaryClinton": {
     "title": "Hillary Clinton",
@@ -23287,6 +23311,10 @@
     "title": "National Conference of State Legislatures",
     "url": "/wiki/entities/nationalconferenceofstatelegislatures/"
   },
+  "NationalExportBranding": {
+    "title": "National Export Branding",
+    "url": "/wiki/concepts/nationalexportbranding/"
+  },
   "NationalFinancialCapabilityStudy": {
     "title": "National Financial Capability Study",
     "url": "/wiki/entities/nationalfinancialcapabilitystudy/"
@@ -23767,6 +23795,10 @@
     "title": "西之岛 / Nishinoshima",
     "url": "/wiki/entities/nishinoshima/"
   },
+  "Nishire": {
+    "title": "Nishire",
+    "url": "/wiki/entities/nishire/"
+  },
   "NiuLiPartyStruggle": {
     "title": "牛李党争 / Niu-Li Party Struggle",
     "url": "/wiki/entities/niulipartystruggle/"
@@ -23914,6 +23946,14 @@
   "Northvolt": {
     "title": "Northvolt",
     "url": "/wiki/entities/northvolt/"
+  },
+  "Norway": {
+    "title": "Norway",
+    "url": "/wiki/entities/norway/"
+  },
+  "NorwegianOilFund": {
+    "title": "Norwegian Oil Fund",
+    "url": "/wiki/entities/norwegianoilfund/"
   },
   "NotWorkingAmbivalence": {
     "title": "Not Working Ambivalence / 不上班的复杂性",
@@ -27903,6 +27943,10 @@
     "title": "Resource-Based Economic Transition",
     "url": "/wiki/concepts/resourcebasedeconomictransition/"
   },
+  "ResourceCurseGovernance": {
+    "title": "Resource Curse Governance",
+    "url": "/wiki/concepts/resourcecursegovernance/"
+  },
   "ResourceNetworkRepricing": {
     "title": "Resource Network Repricing / 资源网络重估",
     "url": "/wiki/concepts/resourcenetworkrepricing/"
@@ -28890,6 +28934,10 @@
   "SalinasValley": {
     "title": "Salinas Valley",
     "url": "/wiki/entities/salinasvalley/"
+  },
+  "SalmonSushiMarketCreation": {
+    "title": "Salmon Sushi Market Creation",
+    "url": "/wiki/concepts/salmonsushimarketcreation/"
   },
   "SalmonTroutLabelTransparency": {
     "title": "Salmon-Trout Label Transparency / 鲑鳟商品名透明",
@@ -30323,6 +30371,10 @@
     "title": "Slock.ai / Slock AI",
     "url": "/wiki/entities/slockai/"
   },
+  "SlowExtractionStrategy": {
+    "title": "Slow Extraction Strategy",
+    "url": "/wiki/concepts/slowextractionstrategy/"
+  },
   "SlowKundera": {
     "title": "《慢》 / Slowness",
     "url": "/wiki/entities/slowkundera/"
@@ -30518,6 +30570,10 @@
   "SocialTrustAndHappiness": {
     "title": "Social Trust And Happiness",
     "url": "/wiki/concepts/socialtrustandhappiness/"
+  },
+  "SocialTrustAsStateCapacity": {
+    "title": "Social Trust As State Capacity",
+    "url": "/wiki/concepts/socialtrustasstatecapacity/"
   },
   "SocietyForResearchInChineseArchitecture": {
     "title": "中国营造学社",
@@ -30742,6 +30798,10 @@
   "SovereignHousingDevelopment": {
     "title": "Sovereign Housing Development",
     "url": "/wiki/concepts/sovereignhousingdevelopment/"
+  },
+  "SovereignOilFundGovernance": {
+    "title": "Sovereign Oil Fund Governance",
+    "url": "/wiki/concepts/sovereignoilfundgovernance/"
   },
   "SovietUnion": {
     "title": "Soviet Union",
@@ -38046,6 +38106,10 @@
   "how-much-money-president-trump-and-his-family-have-made": {
     "title": "How much money President Trump and his family have made",
     "url": "/wiki/sources/how-much-money-president-trump-and-his-family-have-made/"
+  },
+  "how-to-beat-the-resource-curse-in-norway-summer-school": {
+    "title": "How to beat the resource curse in Norway (Summer School)",
+    "url": "/wiki/sources/how-to-beat-the-resource-curse-in-norway-summer-school/"
   },
   "how-to-get-through-the-strait-of-hormuz": {
     "title": "How to get through the Strait of Hormuz",

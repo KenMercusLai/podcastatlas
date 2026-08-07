@@ -2,8 +2,8 @@
 title: "Market Coordination"
 type: concept
 tags: [economics, markets, cooperation, institutions]
-sources: [167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
-last_updated: 2026-08-06
+sources: [how-to-beat-the-resource-curse-in-norway-summer-school, 167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+last_updated: 2026-08-07
 ---
 
 # Market Coordination
@@ -14,12 +14,15 @@ The source connects this to [[AdamSmith|Adam Smith / 亚当·斯密]] and the in
 
 [[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] adds an algorithm comparison. The episode treats algorithms as a possible new "invisible hand" of media life: they coordinate attention and visible knowledge through aggregated behavior, but their platform objectives and ranking metrics make them different from ordinary market price signals.
 
+[[how-to-beat-the-resource-curse-in-norway-summer-school]] adds a market-creation limit case through [[SalmonSushiMarketCreation]]. Norwegian salmon could not enter Japanese sushi culture through price and supply alone; cultural resistance, safety perception, the [[FreeRiderProblem]], and shared origin branding required [[ExportMarketCoordination]] and [[NationalExportBranding]].
+
 ## Key Claims
 - Social order can emerge from many local actions rather than from a central command.
 - Modern products depend on cooperation across people who each know only a small part of the process.
 - Prices and exchange can coordinate dispersed needs and capabilities, but only within workable institutional conditions.
 - Market coordination is not the same as moral indifference; it is a mechanism for using local knowledge and creating mutual gain.
 - Episode 167 adds that algorithmic coordination can look market-like while remaining platform-governed, opaque, and only partly responsive to dispersed knowledge.
+- The Norway salmon case adds that markets sometimes need coordinated demand creation before ordinary exchange can work.
 
 ## Connections
 - [[AdamSmith|Adam Smith / 亚当·斯密]] - invisible-hand frame.
@@ -27,3 +30,4 @@ The source connects this to [[AdamSmith|Adam Smith / 亚当·斯密]] and the in
 - [[ComparativeAdvantage]] and [[SubjectiveValue]] - reasons exchange can create value.
 - [[MarketEfficiency]] - adjacent market concept in the wiki, focused more on price aggregation and investment edges.
 - [[AlgorithmicDispersedKnowledge]], [[PublicRelevanceAlgorithms]], and [[AlgorithmicObjectivityPromise]] - episode 167's algorithm-as-invisible-hand branch.
+- [[SalmonSushiMarketCreation]], [[ExportMarketCoordination]], [[FreeRiderProblem]], and [[NationalExportBranding]] - source case where market coordination needed public-private support.
