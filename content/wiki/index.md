@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.267 如何现场看世界杯并大亏一笔 feat.鹰眼时间](sources/vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145.md) — 商业就是这样 crossover with 鹰眼时间 on 2026 World Cup host-city costs, local sponsorship, fan festivals, high on-site prices, official resale fees, and a $900-plus ticket-loss case.
 - [How to beat the resource curse in Norway (Summer School)](sources/how-to-beat-the-resource-curse-in-norway-summer-school.md) — Planet Money Summer School episode on Norway's oil governance, Farouk Al Qassem, slow extraction, the Norwegian oil fund, social trust, and salmon-sushi market creation in Japan.
 - [143. 「蔚小理」的高端探索](sources/143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1.md) — 疯投圈 episode on Li Auto, XPeng, and NIO's premium-EV positioning, family SUVs, MONA-driven volume, GX high-end push, NIO battery leasing, and battery-swap infrastructure.
 - [An "antacid" to fight climate change](sources/tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128.md) — Marketplace Tech episode on Vesta's olivine ocean-carbon-removal demonstration, ocean alkalinity enhancement, bicarbonate storage, marine-life tradeoffs, and the scale and verification questions around marine carbon removal.
@@ -870,6 +871,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [鹰眼时间](entities/YingyanShijian.md) — Football podcast context supplying the Vol.267 World Cup fan-experience and on-site observation layer.
+- [特特飞](entities/TeteFei.md) — 鹰眼时间 speaker whose 2026 World Cup trip and resale-ticket loss anchor Vol.267's fan-cost analysis.
 - [Norway](entities/Norway.md) — Country case for Planet Money's resource-curse-governance and salmon export-market-creation episode.
 - [Hilde Bjornland](entities/HildeBjornland.md) — Norwegian economics professor explaining oil wealth, social trust, public spending, and salmon-market coordination in the Planet Money Summer School source.
 - [Farouk Al Qassem](entities/FaroukAlQassem.md) — Iraqi geologist whose early oil expertise helped Norway prepare before the Ekofisk discovery.
@@ -5948,6 +5951,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [World Cup Host-City Economics](concepts/WorldCupHostCityEconomics.md) — Cost and revenue split between FIFA's central rights and host-city committee operations, subsidies, venues, transport, and fan festivals.
+- [Host City Supporter Sponsorship](concepts/HostCitySupporterSponsorship.md) — City-level World Cup sponsor layer focused on local activation, hospitality, fan-zone presence, and host-committee revenue.
+- [Fan Festival Commercialization](concepts/FanFestivalCommercialization.md) — Official fan-zone monetization through sponsor exposure, local event costs, admission rules, activities, food, drink, and merchandise.
+- [Official Sports Ticket Resale](concepts/OfficialSportsTicketResale.md) — Sanctioned secondary ticket platform model where official fees and flexible pricing turn resale into a revenue and risk surface.
 - [Resource Curse Governance](concepts/ResourceCurseGovernance.md) — Institutional response to resource wealth built from early expertise, regulation, taxation, slow extraction, sovereign saving, and social trust.
 - [Slow Extraction Strategy](concepts/SlowExtractionStrategy.md) — Resource-policy approach of limiting extraction pace so institutions, bargaining capacity, and technical expertise can develop.
 - [Sovereign Oil Fund Governance](concepts/SovereignOilFundGovernance.md) — Fiscal discipline mechanism for turning temporary oil revenue into long-horizon public wealth.

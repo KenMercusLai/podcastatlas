@@ -2,8 +2,8 @@
 title: "Sports Entertainment Flywheel"
 type: concept
 tags: [sports, media, entertainment, strategy]
-sources: [planet-money-vs-the-nbas-tanking-problem, can-world-cup-mania-grow-mls-in-the-us, diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427, the-nfl-1, ferrari-1]
-last_updated: 2026-08-04
+sources: [vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, planet-money-vs-the-nbas-tanking-problem, can-world-cup-mania-grow-mls-in-the-us, diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427, the-nfl-1, ferrari-1]
+last_updated: 2026-08-07
 ---
 
 # Sports Entertainment Flywheel
@@ -19,6 +19,8 @@ The concept is adjacent to [[EntertainmentIPFlywheel]]. Disney compounds owned c
 The 2026 [[FIFAWorldCup]] source adds a tournament version of the flywheel. [[FIFA]] tries to compound national-team identity, global participation, host-market infrastructure, sponsors, media windows, ticketing, and hospitality, but [[WorldCupExpansion]] also tests whether more inventory weakens scarcity or player availability.
 
 [[vol-264-ba-shijiebei-zuowei-fangfa-999416048]] adds the marketing and platform layer. A World Cup flywheel does not stop at match inventory: Chinese platforms buy rights to grow users and social participation, sponsors such as [[Hisense]] and [[Lenovo]] use the event to accumulate trust, [[Adidas]] builds offline scenes, and jerseys become [[SportsLifestyleConsumption]].
+
+[[vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145]] adds the cost-bearing version. A World Cup flywheel can compound tickets, sponsor exposure, fan festivals, official resale, merchandise, and host-city visibility, but the same loop can push costs onto cities and fans through [[WorldCupHostCityEconomics]], [[FanFestivalCommercialization]], and [[OfficialSportsTicketResale]].
 
 [[can-world-cup-mania-grow-mls-in-the-us]] adds the domestic-league conversion version through [[MajorLeagueSoccer]]. The episode shows the flywheel at a fragile stage: the [[FIFAWorldCup]] creates attention, but MLS clubs still need watch parties, stadium experiences, marketing campaigns, [[LionelMessi]]-level legitimacy, and [[SportsFandomNetworkEffects]] to turn that attention into repeat local demand.
 
@@ -40,6 +42,7 @@ The 2026 [[FIFAWorldCup]] source adds a tournament version of the flywheel. [[FI
 - More live-event inventory strengthens the flywheel only if governance, competitive quality, and fan demand keep reinforcing one another.
 - At the lower-tier club level, community identity can keep a club meaningful while still failing to create investor returns or a repeatable commercial loop.
 - The flywheel can extend into platform growth, sponsor technology proof, offline activation, and fashion when the event becomes part of daily consumption rather than only match viewing.
+- The flywheel can also turn ordinary attendance into many paid surfaces, creating fan-access and host-city-budget stress even when the central event succeeds commercially.
 - A global event can feed a domestic-league flywheel only when attention converts into local clubs, venues, player credibility, and repeat fan networks.
 - At the elite-club level, ownership, venue, finance, and rights intermediaries can strengthen the flywheel while increasing the risk that fan identity is monetized faster than it is replenished.
 - A growing flywheel can still become unstable if player compensation stays fixed while league media revenue and audience attention expand.
@@ -50,6 +53,6 @@ The 2026 [[FIFAWorldCup]] source adds a tournament version of the flywheel. [[FI
 
 ## Connections
 - [[FormulaOne]], [[FormulaOneGroup]], [[LibertyMedia]], [[DriveToSurvive]], [[Netflix]], [[Ferrari]], [[ScuderiaFerrari]], [[Tifosi]], [[NationalFootballLeague|NFL]], [[NFLFilms]], [[SuperBowl]], [[MondayNightFootball]], [[TaylorSwift]], [[TravisKelce]], [[FIFA]], [[FIFAWorldCup]], [[MajorLeagueSoccer]], [[SeattleSounders]], [[NewEnglandRevolution]], [[ChicagoFire]], [[JumillaCF]], [[Adidas]], [[Hisense]], [[Lenovo]], [[PremierLeague]], [[ManchesterUnited]], [[ArsenalFC]], [[LiverpoolFC]], [[ChelseaFC]], and [[NationalBasketballAssociation]] - source cases.
-- [[SportsMediaRights]], [[LeagueStakeholderAlignment]], [[LeagueFirstOperatingModel]], [[LiveSportsStreamingTransition]], [[SportsBettingEngagement]], [[WorldCupExpansion]], [[MajorEventAttentionConversion]], [[SportsFandomNetworkEffects]], [[SportsMegaEventWelfareAccounting]], [[SportsRightsGrowthEngine]], [[GlobalSportsSponsorship]], [[OfflineBrandActivation]], [[SportsLifestyleConsumption]], [[CostCapEconomics]], [[CorporateHospitalityPlatform]], [[FootballClubAsCommunityAsset]], [[AmericanSportsCapitalInEuropeanFootball]], [[FootballCommercializationFanConflict]], [[SportsDraftIncentiveDesign]], [[SportsTanking]], [[SportsCompetitiveBalance]], and [[EntertainmentIPFlywheel]] - related concepts.
+- [[SportsMediaRights]], [[LeagueStakeholderAlignment]], [[LeagueFirstOperatingModel]], [[LiveSportsStreamingTransition]], [[SportsBettingEngagement]], [[WorldCupExpansion]], [[WorldCupHostCityEconomics]], [[FanFestivalCommercialization]], [[OfficialSportsTicketResale]], [[MajorEventAttentionConversion]], [[SportsFandomNetworkEffects]], [[SportsMegaEventWelfareAccounting]], [[SportsRightsGrowthEngine]], [[GlobalSportsSponsorship]], [[OfflineBrandActivation]], [[SportsLifestyleConsumption]], [[CostCapEconomics]], [[CorporateHospitalityPlatform]], [[FootballClubAsCommunityAsset]], [[AmericanSportsCapitalInEuropeanFootball]], [[FootballCommercializationFanConflict]], [[SportsDraftIncentiveDesign]], [[SportsTanking]], [[SportsCompetitiveBalance]], and [[EntertainmentIPFlywheel]] - related concepts.
 - [[LuxuryBrandAsSportsTeam]], [[LuxuryCommunityPyramid]], and [[RacingHeritageBrandMoat]] - Ferrari luxury-sports branch added by Acquired.
 - [[WNBA]], [[WNBAPlayersAssociation]], [[WomensSportsBusinessGrowth]], and [[SportsLaborRevenueSharing]] - women's basketball labor branch added by the WNBA negotiation source.

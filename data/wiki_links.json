@@ -11991,6 +11991,10 @@
     "title": "Fan Economy",
     "url": "/wiki/concepts/faneconomy/"
   },
+  "FanFestivalCommercialization": {
+    "title": "Fan Festival Commercialization",
+    "url": "/wiki/concepts/fanfestivalcommercialization/"
+  },
   "FanJin": {
     "title": "范进",
     "url": "/wiki/entities/fanjin/"
@@ -15866,6 +15870,10 @@
   "HospitalInformationSystem": {
     "title": "Hospital Information System",
     "url": "/wiki/concepts/hospitalinformationsystem/"
+  },
+  "HostCitySupporterSponsorship": {
+    "title": "Host City Supporter Sponsorship",
+    "url": "/wiki/concepts/hostcitysupportersponsorship/"
   },
   "HostileMediaEffect": {
     "title": "Hostile Media Effect / 敌意媒体效应",
@@ -24162,6 +24170,10 @@
   "OfficialHistoryLegitimacyRepair": {
     "title": "Official History Legitimacy Repair",
     "url": "/wiki/concepts/officialhistorylegitimacyrepair/"
+  },
+  "OfficialSportsTicketResale": {
+    "title": "Official Sports Ticket Resale",
+    "url": "/wiki/concepts/officialsportsticketresale/"
   },
   "OfficialStatisticsCredibility": {
     "title": "Official Statistics Credibility",
@@ -32559,6 +32571,10 @@
     "title": "Tesla",
     "url": "/wiki/entities/tesla/"
   },
+  "TeteFei": {
+    "title": "特特飞",
+    "url": "/wiki/entities/tetefei/"
+  },
   "Tether": {
     "title": "Tether",
     "url": "/wiki/entities/tether/"
@@ -35583,6 +35599,10 @@
     "title": "World Cup Expansion",
     "url": "/wiki/concepts/worldcupexpansion/"
   },
+  "WorldCupHostCityEconomics": {
+    "title": "World Cup Host-City Economics",
+    "url": "/wiki/concepts/worldcuphostcityeconomics/"
+  },
   "WorldGoldCouncil": {
     "title": "World Gold Council / 世界黄金协会",
     "url": "/wiki/entities/worldgoldcouncil/"
@@ -36418,6 +36438,10 @@
   "YinglingdianAI": {
     "title": "Yinglingdian AI / 英灵殿",
     "url": "/wiki/entities/yinglingdianai/"
+  },
+  "YingyanShijian": {
+    "title": "鹰眼时间",
+    "url": "/wiki/entities/yingyanshijian/"
   },
   "YinhuaFund": {
     "title": "银华基金 / Yinhua Fund",
@@ -39498,6 +39522,10 @@
   "vol-266-yi-ci-xing-gao-dong-etf-1002344828": {
     "title": "Vol.266 一次性搞懂ETF",
     "url": "/wiki/sources/vol-266-yi-ci-xing-gao-dong-etf-1002344828/"
+  },
+  "vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145": {
+    "title": "Vol.267 如何现场看世界杯并大亏一笔 feat.鹰眼时间",
+    "url": "/wiki/sources/vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145/"
   },
   "we-almost-had-a-smartphone-in-the-90s-why-did-it-fail": {
     "title": "We almost had a smartphone in the 90s. Why did it fail?",

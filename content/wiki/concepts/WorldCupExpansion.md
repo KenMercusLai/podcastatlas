@@ -2,8 +2,8 @@
 title: "World Cup Expansion"
 type: concept
 tags: [sports, football, governance, commercialization]
-sources: [can-world-cup-mania-grow-mls-in-the-us, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
-last_updated: 2026-07-18
+sources: [vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, can-world-cup-mania-grow-mls-in-the-us, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
+last_updated: 2026-08-07
 ---
 
 # World Cup Expansion
@@ -16,6 +16,8 @@ The commercial layer is more match inventory for [[SportsMediaRights]], sponsors
 
 [[can-world-cup-mania-grow-mls-in-the-us]] adds the domestic-league uncertainty. Even if an expanded [[FIFAWorldCup]] creates bigger North American attention, [[MajorLeagueSoccer]] still has to convert that event heat into local club demand, and the episode says past host-tournament effects on domestic leagues have been mixed.
 
+[[vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145]] adds the post-commercial-success cost side. The episode argues that the expanded tournament can look successful for [[FIFA]] and [[GianniInfantino]] while also making future hosts and ordinary fans absorb higher infrastructure, operating, ticketing, and live-consumption pressure.
+
 ## Key Claims
 - Expansion can grow revenue without being proportional to match count, because host-market quality, ticketing systems, sponsor demand, and broadcast windows change the value of each match.
 - Expansion can be an electoral promise inside [[GlobalSportsGovernance]], not just a competition-design choice.
@@ -23,9 +25,10 @@ The commercial layer is more match inventory for [[SportsMediaRights]], sponsors
 - Historical expansions under [[JoaoHavelange]], [[SeppBlatter]], and [[GianniInfantino]] show a recurring link between football globalization and FIFA power.
 - The Intelligence source adds the fan-experience case that expansion can produce memorable underdog and diaspora-audience moments, even when off-pitch politics and prices remain problematic.
 - The Planet Money source adds that expansion and hosting are not enough by themselves; domestic-league benefit depends on [[MajorEventAttentionConversion]] and [[SportsFandomNetworkEffects]] after the tournament moment.
+- Vol.267 adds that expansion's revenue success can harden future pricing expectations and make the 48-team, multi-city format harder for smaller hosts to reproduce alone.
 
 ## Connections
 - [[FIFA]], [[FIFAWorldCup]], [[GianniInfantino]], [[UEFA]], [[SeppBlatter]], and [[JoaoHavelange]] - source actors.
-- [[SportsMediaRights]], [[SportsEventTicketing]], [[CorporateHospitalityPlatform]], [[GlobalSportsGovernance]], [[SportsPoliticalInterference]], and [[LeagueStakeholderAlignment]] - mechanisms affected by expansion.
+- [[SportsMediaRights]], [[SportsEventTicketing]], [[CorporateHospitalityPlatform]], [[WorldCupHostCityEconomics]], [[OfficialSportsTicketResale]], [[GlobalSportsGovernance]], [[SportsPoliticalInterference]], and [[LeagueStakeholderAlignment]] - mechanisms affected by expansion.
 - [[MajorLeagueSoccer]], [[MajorEventAttentionConversion]], [[SportsFandomNetworkEffects]], and [[OfflineBrandActivation]] - domestic-league conversion layer added by Planet Money.
 - [[FormulaOne]] and [[FatLeagueEconomics]] - adjacent sports-business comparison where central organizations package scarce live-event inventory.

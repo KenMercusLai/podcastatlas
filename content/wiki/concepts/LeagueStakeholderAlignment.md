@@ -2,8 +2,8 @@
 title: "League Stakeholder Alignment"
 type: concept
 tags: [sports, governance, strategy, incentives]
-sources: [how-we-got-free-agents-in-baseball, planet-money-vs-the-nbas-tanking-problem, can-world-cup-mania-grow-mls-in-the-us, diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, tech-20260330-0330-mp-tech-pod-128-tech-20260330-0330-mp-tech-pod-128, the-nfl-1]
-last_updated: 2026-07-25
+sources: [vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, how-we-got-free-agents-in-baseball, planet-money-vs-the-nbas-tanking-problem, can-world-cup-mania-grow-mls-in-the-us, diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, tech-20260330-0330-mp-tech-pod-128-tech-20260330-0330-mp-tech-pod-128, the-nfl-1]
+last_updated: 2026-08-07
 ---
 
 # League Stakeholder Alignment
@@ -24,6 +24,8 @@ The source argues that [[FormulaOne]] became more valuable when [[LibertyMedia]]
 
 [[can-world-cup-mania-grow-mls-in-the-us]] adds the domestic-league marketing version through [[MajorLeagueSoccer]]. Alignment here means league headquarters, host-city clubs, non-host-city clubs, facilities, fans, sponsors, and elite players all need different bridges from the same [[FIFAWorldCup]] attention spike into durable MLS value.
 
+[[vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145]] adds the host-city version. [[FIFA]] can win through central rights and resale, cities can need subsidies and [[HostCitySupporterSponsorship]], local committees can manage operations, and fans can face higher all-in attendance costs, so the tournament's success can still be misaligned across stakeholders.
+
 [[planet-money-vs-the-nbas-tanking-problem]] adds the rule-design version through [[NationalBasketballAssociation|NBA]] tanking. Alignment here means weak teams need hope, fans need real late-season competition, owners need a credible rebuild path, and incoming players may need [[SportsPlayerAutonomy]] rather than only assignment through draft order.
 
 [[how-we-got-free-agents-in-baseball]] adds the historical baseball labor version. [[MajorLeagueBaseball|MLB]] owners used the [[BaseballReserveClause|reserve clause]] and later salary-cap arguments to defend league balance, while players used [[CurtFlood]]'s challenge, arbitration, and [[SportsCollectiveBargaining]] to push toward [[BaseballFreeAgency|free agency]] and a larger share of revenue.
@@ -40,6 +42,7 @@ The source argues that [[FormulaOne]] became more valuable when [[LibertyMedia]]
 - Elite football can also misalign when owners, banks, rights intermediaries, and global sponsors benefit from valuation growth while local fans face higher prices, debt anxiety, and weaker access.
 - Player labor can become an alignment problem when athlete attention and performance drive media-rights growth but compensation does not move with revenue.
 - Domestic leagues can also misalign around major events if host-city clubs, non-host cities, headquarters, players, and casual fans cannot convert a shared attention spike into repeat local demand.
+- Mega-events can misalign when the central rights holder captures global revenue while host cities and ordinary attendees absorb local costs.
 - Draft rules can misalign stakeholders when losing becomes a rational path to future talent even though the league, fans, and many players need teams to keep competing.
 - Labor restrictions can appear to align teams and fans around competitive balance while misaligning players through suppressed wages, unwanted assignment, and weak exit options.
 - Officiating automation can strengthen alignment when it improves trust, but it can also create new disputes over tradition, data use, calibration, and who is blamed when a call remains uncertain.
@@ -47,6 +50,6 @@ The source argues that [[FormulaOne]] became more valuable when [[LibertyMedia]]
 
 ## Connections
 - [[FormulaOne]], [[FormulaOneGroup]], [[FIA]], [[BernieEcclestone]], [[LibertyMedia]], [[NationalFootballLeague|NFL]], [[PeteRozelle]], [[BertBell]], [[AmericanFootballLeague|AFL]], [[FIFA]], [[UEFA]], [[GianniInfantino]], [[MajorLeagueSoccer]], [[SeattleSounders]], [[NewEnglandRevolution]], [[ChicagoFire]], [[JumillaCF]], [[PremierLeague]], [[RelevantSports]], [[WNBA]], [[WNBAPlayersAssociation]], [[NationalBasketballAssociation]], [[MajorLeagueBaseball]], [[MajorLeagueBaseballPlayersAssociation]], and [[AutomatedBallStrikeChallengeSystem|ABS]] - source cases.
-- [[RacePromotionFees]], [[CostCapEconomics]], [[WorldCupExpansion]], [[GlobalSportsGovernance]], [[SportsMediaRights]], [[LeagueFirstOperatingModel]], [[SportsBroadcastingAct]], [[MajorEventAttentionConversion]], [[SportsFandomNetworkEffects]], [[FootballClubAsCommunityAsset]], [[FootballClubControlRisk]], [[SportsEntertainmentFlywheel]], [[AmericanSportsCapitalInEuropeanFootball]], [[PrivateEquityInSportsOwnership]], [[DeFactoSuperLeagueLogic]], [[FootballCommercializationFanConflict]], [[SportsLaborRevenueSharing]], [[SportsCollectiveBargaining]], [[SportsDraftIncentiveDesign]], [[SportsTanking]], [[SportsCompetitiveBalance]], and [[SportsPlayerAutonomy]] - mechanisms of alignment.
+- [[RacePromotionFees]], [[CostCapEconomics]], [[WorldCupExpansion]], [[WorldCupHostCityEconomics]], [[HostCitySupporterSponsorship]], [[OfficialSportsTicketResale]], [[GlobalSportsGovernance]], [[SportsMediaRights]], [[LeagueFirstOperatingModel]], [[SportsBroadcastingAct]], [[MajorEventAttentionConversion]], [[SportsFandomNetworkEffects]], [[FootballClubAsCommunityAsset]], [[FootballClubControlRisk]], [[SportsEntertainmentFlywheel]], [[AmericanSportsCapitalInEuropeanFootball]], [[PrivateEquityInSportsOwnership]], [[DeFactoSuperLeagueLogic]], [[FootballCommercializationFanConflict]], [[SportsLaborRevenueSharing]], [[SportsCollectiveBargaining]], [[SportsDraftIncentiveDesign]], [[SportsTanking]], [[SportsCompetitiveBalance]], and [[SportsPlayerAutonomy]] - mechanisms of alignment.
 - [[BaseballReserveClause]], [[LaborMonopsony]], [[BaseballFreeAgency]], and [[BaseballAntitrustExemption]] - baseball labor-market mechanisms added by the new Planet Money source.
 - [[BaseballStrikeZoneAutomation]], [[SportsOfficiatingAutomation]], and [[Hawkeye]] - baseball officiating-technology mechanisms added by Marketplace Tech.

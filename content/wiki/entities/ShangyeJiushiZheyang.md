@@ -2,7 +2,7 @@
 title: "商业就是这样"
 type: entity
 tags: [podcast, media, business]
-sources: [vol-266-yi-ci-xing-gao-dong-etf-1002344828, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, jiufan-zhongting-mifeng-jingjixue-956460448, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]
+sources: [vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, vol-266-yi-ci-xing-gao-dong-etf-1002344828, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, jiufan-zhongting-mifeng-jingjixue-956460448, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]
 last_updated: 2026-08-07
 ---
 
@@ -28,6 +28,8 @@ The episode's distinctive contribution to the wiki is its distributed method. In
 
 [[vol-266-yi-ci-xing-gao-dong-etf-1002344828]] adds the show's financial-product explainer side. The episode uses [[ExchangeTradedFund|ETFs]] to connect [[PassiveInvesting]], [[ETFCreationRedemption|creation-redemption]], institutional tax economics, low-fee scale, and the [[ETF7709HK|7709.HK]] [[SingleStockLeveragedETF|single-stock leveraged ETF]] case, showing how a useful liquidity invention can mutate into path-dependent risk.
 
+[[vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145]] adds the show's live-sports cost-accounting side through a crossover with [[YingyanShijian|鹰眼时间]]. The episode uses [[TeteFei|特特飞]]'s World Cup trip to connect host-city budgets, local sponsorship, fan festivals, official resale, and ordinary spectator spending into one [[WorldCupHostCityEconomics]] branch.
+
 [[shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]] adds the show's hidden-food-commodity side. It uses [[PeruvianAnchoveta|anchoveta]], [[Peru]], [[FishmealSupplyChain|fishmeal]], [[ElNino]], and [[AquacultureFeedDependency]] to show how a small marine input can move through feed formulas, salmon and shrimp production, sushi-chain sourcing, and consumer seafood prices.
 
 [[chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]] adds the show's city-industrial branch through [[ChengshiJiushiZheyang|城市就是这样]]. The episode uses [[Shiyan]], [[SecondAutomobileWorks|二汽]], and [[DongfengMotor|东风汽车]] to move from ordinary [[CityCommercialObservation]] into [[AutomobileCityPathDependence]], [[ThirdFrontConstruction]], [[EnterpriseRunSociety]], and the survival of a [[CommercialVehicleIndustrialBase]] after headquarters and passenger-car attention moved toward [[Wuhan]].
@@ -52,4 +54,5 @@ The episode's distinctive contribution to the wiki is its distributed method. In
 - [[ChinaCentralTelevision]], [[Migu]], [[Xiaohongshu]], [[Adidas]], [[Hisense]], [[Lenovo]], [[SportsRightsGrowthEngine]], [[OfflineBrandActivation]], [[GlobalSportsSponsorship]], and [[SportsLifestyleConsumption]] — World Cup marketing branch added by Vol.264.
 - [[LarryEllison]], [[DavidEllison]], [[Oracle]], [[Skydance]], [[PoliticalRegulatoryLeverage]], and [[MediaOwnershipIndependenceRisk]] - U.S. technology, media, and politics branch added by Vol.265.
 - [[ExchangeTradedFund]], [[ETFCreationRedemption]], [[ETF7709HK|7709.HK]], [[LeveragedETFHedgingFeedback]], and [[CrossMarketLeveragedETFExecutionRisk]] - ETF mechanics and risk branch added by Vol.266.
+- [[YingyanShijian|鹰眼时间]], [[TeteFei|特特飞]], [[WorldCupHostCityEconomics]], [[HostCitySupporterSponsorship]], [[FanFestivalCommercialization]], and [[OfficialSportsTicketResale]] - World Cup host-city and fan-cost branch added by Vol.267.
 - [[PodcastAsAsynchronousMedia]] — adjacent media concept; the anniversary format records listener memory across years.

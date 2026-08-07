@@ -6977,3 +6977,7 @@ Added source page for a Planet Money Summer School episode on Norway's oil gover
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | Vol.267 如何现场看世界杯并大亏一笔 feat.鹰眼时间
+
+Added source page for a 商业就是这样 crossover with 鹰眼时间 on 2026 World Cup host-city economics, local sponsorship, fan festivals, high on-site prices, official resale fees, and 特特飞's $900-plus ticket-loss case. Created pages for 鹰眼时间, 特特飞, World Cup Host-City Economics, Host City Supporter Sponsorship, Fan Festival Commercialization, and Official Sports Ticket Resale; updated overview, index, FIFA, FIFA World Cup, Gianni Infantino, 商业就是这样, Sports Event Ticketing, World Cup Expansion, Global Sports Sponsorship, Corporate Hospitality Platform, Sports Mega-Event Welfare Accounting, Sports Entertainment Flywheel, League Stakeholder Alignment, Global Sports Governance, and Football Commercialization Fan Conflict. No direct contradiction found; the source complements earlier World Cup expansion and marketing pages by adding the host-city and live-fan cost structure.
