@@ -2,11 +2,13 @@
 title: "Memory Chip Shortage"
 type: concept
 tags: [ai, memory, storage, supply-chain]
-sources: [tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
-last_updated: 2026-07-23
+sources: [tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
+last_updated: 2026-08-07
 ---
 
 # Memory Chip Shortage
+
+[[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] adds a consumer-device pricing link. The [[MarketplaceTech]] episode says expected iPhone price increases are tied to a global memory shortage as manufacturers divert resources toward AI data centers, connecting [[MemoryChipShortage]] to [[AppleDeviceLeasing]] and premium-device affordability.
 
 [[tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128]] adds the consumer-PC and AI-PC version of the shortage. [[TomMinelli]] of [[IDC]] says AI data-center demand has added a major new memory buyer, that shortages are expected through 2026 and could extend into 2027, and that large PC vendors such as [[HPInc|HP]], [[DellTechnologies|Dell]], [[Lenovo]], and [[Apple]] are likely better positioned than smaller vendors or custom builders.
 
@@ -26,6 +28,7 @@ The concept is a concrete instance of [[AIHardwareSupplyChainPressure]]. [[IDC]]
 - Shortage conditions are amplified by [[StorageIndustryCyclicality]], inventory behavior, and delayed supply expansion.
 - Large PC vendors can have an allocation advantage over smaller sellers when memory supply tightens.
 - [[AIPCMemoryDemand]] can worsen the timing problem because AI PCs raise baseline RAM needs during the shortage.
+- Premium smartphone pricing can become another visible consumer spillover when AI data centers draw memory capacity away from ordinary devices.
 
 ## Connections
 - [[AIHardwareSupplyChainPressure]] - broader supply-chain pattern.
@@ -35,3 +38,4 @@ The concept is a concrete instance of [[AIHardwareSupplyChainPressure]]. [[IDC]]
 - [[AIComputeContinuity]], [[MaaSInfrastructure]], and [[DataCenterDebtRisk]] - wider AI infrastructure dependencies.
 - [[AIStorageSupercycle]], [[AIDataCenterMemoryHierarchy]], [[AgentEraNANDStorage]], and [[MemoryCapacityLockIn]] - What's Next S10E13 extensions.
 - [[TomMinelli]], [[HPInc|HP]], [[DellTechnologies|Dell]], [[Lenovo]], [[Apple]], and [[AIPCMemoryDemand]] - consumer PC and allocation branch added by Marketplace Tech.
+- [[AppleDeviceLeasing]] and [[AIHardwareSupplyChainPressure]] - device-financing response to memory-driven price pressure.

@@ -2,11 +2,13 @@
 title: "Civil Liberties Surveillance Risk"
 type: concept
 tags: [civil-liberties, surveillance, democracy, privacy]
-sources: [tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # Civil Liberties Surveillance Risk
+
+[[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] adds the social-media-ban identity-check version. [[WillOremus]] warns that enforcing underage social-media bans may require platforms to verify identity, which can affect anonymity and create risks around surveillance, stalking, or crackdowns on dissidents.
 
 Civil liberties surveillance risk is the episode's warning that large-scale government access to privately collected data can chill speech, enable targeting, and weaken democratic participation. In [[tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]], [[JeremyScott]] argues that privacy harms are not only individual embarrassment or data misuse; they can affect how people participate in public life.
 
@@ -30,6 +32,7 @@ The risk grows when surveillance is easy, persistent, searchable, and outsourced
 - Age-verification systems can turn a child-safety rule into an identity and access barrier for lawful speech.
 - Age-assurance systems can create breach and misuse risk when identity documents, face images, or behavioral signals are collected by websites or contractors.
 - Public-benefit systems can become chilled when people fear service-linked data may be reused by enforcement agencies.
+- Child-safety identity checks can affect anonymity and association even when the immediate policy target is underage platform access.
 
 ## Connections
 - [[JeremyScott]] and [[ElectronicPrivacyInformationCenter]] - source civil-liberties framing.
@@ -40,3 +43,4 @@ The risk grows when surveillance is easy, persistent, searchable, and outsourced
 - [[AaronMackey]], [[ElectronicFrontierFoundation|Electronic Frontier Foundation]], [[YouthOnlineSpeechRights]], and [[SocialMediaAgeGateSpeechBurden]] - online age-gate branch added by Marketplace Tech.
 - [[OnlineAgeVerification]], [[AgeVerificationComplianceIndustry]], [[BehavioralAgeInference]], and [[DrewHarwell]] - age-assurance surveillance branch added by Marketplace Tech.
 - [[ElizabethLaird]], [[FederalDataPracticeTrust]], [[PublicBenefitsDataChillingEffect]], [[EnforcementAgencyDataSharing]], and [[GovernmentDataAccountability]] - public-benefits and federal-data trust branch added by Marketplace Tech.
+- [[SocialMediaAgeBans]], [[OnlineAgeVerification]], [[France]], and [[WillOremus]] - social-media identity-check branch added by Marketplace Tech.

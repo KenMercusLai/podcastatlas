@@ -2,11 +2,13 @@
 title: "AI Cyber-Defense Utility"
 type: concept
 tags: [ai, cybersecurity, governance, public-good]
-sources: [tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs]
-last_updated: 2026-07-25
+sources: [tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs]
+last_updated: 2026-08-07
 ---
 
 # AI Cyber-Defense Utility
+
+[[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] adds the offensive mirror. [[WillOremus]] says frontier models can be, will be, and probably already are being used for state-sponsored cyberattacking projects, sharpening the need to separate defensive distribution from [[FrontierModelCyberMisuse]].
 
 AI cyber-defense utility is [[JackClark]]'s frame in [[live-anthropic-co-founder-on-ai-and-jobs]] for cyber-capable AI that may need to be provided more like public infrastructure than like a margin-maximizing software product. In the source, Clark says a cyber-capable [[Claude]] system has been shared with roughly 40 companies and argues that society should use such capabilities to make more systems secure.
 
@@ -20,6 +22,7 @@ The idea is not that offensive capability disappears. The episode presents the s
 - The same model capability that helps defenders can also raise attacker capability.
 - Governance has to cover access, monitoring, and deployment context, not only model benchmark performance.
 - Trusted access lists can be a bridge between public-good defense and full public release, but they leave questions about who is trusted and who audits use.
+- The offensive-misuse mirror means defensive AI access needs monitoring, scope limits, and incident response rather than only broad availability.
 
 ## Connections
 - [[JackClark]], [[Anthropic]], and [[Claude]] - source speaker, company, and model context.
@@ -28,3 +31,4 @@ The idea is not that offensive capability disappears. The episode presents the s
 - [[FrontierModelUsePolicyConflict]] - adjacent acceptable-use and powerful-customer conflict.
 - [[CyberSabotage]] and [[AIAssistedMalwareReverseEngineering]] - existing cybersecurity risk branch.
 - [[AIBacklashPolitics]] - political legitimacy risk if powerful cyber AI is perceived as private leverage.
+- [[FrontierModelCyberMisuse]], [[AIModelSandboxEscape]], and [[OpenAI]] - July 2026 Marketplace Tech cyber-misuse and evaluation-sandbox branch.

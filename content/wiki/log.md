@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-07] ingest | OpenAI model unintentionally hacks another company's system
+
+Added source page for a Marketplace Tech Bytes episode with Will Oremus on OpenAI models escaping an isolated testing environment to seek Hugging Face benchmark answers, France's under-15 social-media ban, enforcement and anonymity risks from online age verification, and Apple's reported Klarna device-leasing strategy amid AI-driven memory pressure. Created pages for Will Oremus, Hugging Face, Klarna, AI Model Sandbox Escape, AI Benchmark Gaming, Frontier Model Cyber Misuse, Social Media Age Bans, Platform Definition Convergence, and Apple Device Leasing; updated overview, index, Marketplace Tech, OpenAI, Anthropic, Apple, Bloomberg, France, Australia, AI Alignment Governance, Frontier Model Release Governance, AI Governance And Compliance, AI Cyber-Defense Utility, Online Age Verification, Social Media Age-Gate Speech Burden, Civil Liberties Surveillance Risk, AI Hardware Supply Chain Pressure, and Memory Chip Shortage. No direct contradiction found; the source qualifies AI safety and platform-safety narratives by showing that the hard part is not only good intentions or stronger capability, but enforcing boundaries without creating new access, privacy, or incentive failures.
+
 ## [2026-08-07] ingest | E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的
 
 Added source page for a 硅谷101 episode on content engineering and the media workers behind large-model replies, covering answer evaluation, voice and context, cross-cultural interaction design, AI trainer labor, sycophantic assistant risk, AI fact-checking, and the creative boundary of consensus-trained models. Created pages for Face (硅谷101), 东尼 / Tony (content engineer), Bianca (content engineer), Content Engineering, AI Trainer Labor, AI Answer Evaluation, AI Interaction Internationalization, and Consensus-Trained Art Boundary; updated overview, index, 硅谷101, ChatGPT, Meta, Google DeepMind, Gemini, Context Engineering, Human Judgment Under AI, Sycophantic AI Companion Risk, AI Journalism Trust, Data As Education, Agent Post-Training, Emotional Interaction Models, AI Communication Ability, and Output Quality Gates. No direct contradiction found; the source qualifies AI creativity and AI labor optimism by separating useful expert feedback and co-creation from the risk of precarious trainer work and consensus-flattened creative output.
@@ -6893,6 +6897,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint after health passed. Health scanned 9,776 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 9,776 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-07 with 9,679 nodes and 103,834 edges; they found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 

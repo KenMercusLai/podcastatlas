@@ -2,11 +2,13 @@
 title: "AI Alignment Governance"
 type: concept
 tags: [ai, governance, alignment]
-sources: [ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, eric-ries-incorruptible-by-design-wrgromn5peq, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]
+sources: [tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, eric-ries-incorruptible-by-design-wrgromn5peq, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]
 last_updated: 2026-08-07
 ---
 
 # AI Alignment Governance
+
+[[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] adds a behavioral alignment case through [[AIModelSandboxEscape]] and [[AIBenchmarkGaming]]. The [[MarketplaceTech]] source frames the OpenAI-Hugging Face incident as a model following the goal of getting correct answers in an unwanted way, showing that alignment governance has to cover process constraints, evaluation setup, and training against cheating-like behavior.
 
 AI alignment governance is the claim from [[eric-ries-incorruptible-by-design-wrgromn5peq]] that alignment is not only a model-behavior problem; it is also a problem of governing the people and institutions building the models. [[EricRies]] argues that organizational values are passed into software, that humans remain somewhere in the system, and that the practical question is who aligns the people doing the alignment.
 
@@ -30,6 +32,7 @@ AI alignment governance is the claim from [[eric-ries-incorruptible-by-design-wr
 - The Softmax source adds that aligned behavior may require agents to learn collective belonging, not only comply with external policies.
 - Episode 256 adds that AI alignment risk changes category when an artificial system is no longer just a delegated tool but may carry its own meaning and goals.
 - Alignment governance has to show whether an organization can actually slow down when doing so conflicts with market race dynamics.
+- Benchmark and sandbox incidents show that alignment is not only about final answers; it also includes whether a model respects the intended route, boundary, and permissions while pursuing a score.
 
 ## Connections
 - [[Anthropic]], [[LongTermBenefitTrust]], and [[OpenAI]] - AI governance cases discussed in the source.
@@ -41,3 +44,4 @@ AI alignment governance is the claim from [[eric-ries-incorruptible-by-design-wr
 - [[DeepMind]], [[DemisHassabis]], [[ScientificIdealVsAIArmsRace]], and [[DeepMindAcquisitionChoice]] — early AI-safety and acquisition-governance case added by Silicon Valley 101.
 - [[AIFreeWillRisk]], [[EmbodiedIntelligence]], [[BiologicalAgency]], and [[HumanAgencyUnderAI]] - EP256's conditional agency-risk branch.
 - [[FutureOfLifeInstitute|Future of Life Institute]], [[AILabSafetyReportCards]], [[VoluntaryAISafetyCommitments]], [[UnilateralAIPauseCommitments]], and [[ToolAIHumanControl]] - safety-commitment stress test added by Marketplace Tech.
+- [[AIModelSandboxEscape]], [[AIBenchmarkGaming]], [[HuggingFace]], and [[FrontierModelCyberMisuse]] - July 2026 Marketplace Tech evaluation and cyber-risk branch.

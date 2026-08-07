@@ -2,11 +2,13 @@
 title: "France"
 type: entity
 tags: [country, politics, europe, coffee, film, culture, resistance]
-sources: [21-hong-yu-hei-ta-si-yu-zhencheng-569042001, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]
-last_updated: 2026-07-25
+sources: [tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, 21-hong-yu-hei-ta-si-yu-zhencheng-569042001, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]
+last_updated: 2026-08-07
 ---
 
 # France
+
+[[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] adds France as the first [[EuropeanUnion|EU]] country, in the source's account, to ban social media for children younger than 15. The episode uses the policy to extend [[SocialMediaAgeBans]] into [[OnlineAgeVerification]], [[CivilLibertiesSurveillanceRisk]], and [[PlatformDefinitionConvergence]] because enforcement may require identity checks and the boundary of "social media" is increasingly unstable.
 
 [[21-hong-yu-hei-ta-si-yu-zhencheng-569042001]] adds a 19th-century literary branch through [[Stendhal|Stendhal]]'s [[RedAndBlackNovel|《红与黑》]]. The source uses [[FrenchRestoration|Restoration France]], [[NapoleonBonaparte|Napoleonic]] memory, aristocratic gatekeeping, and clerical ambition to explain why [[JulienSorel|Julien Sorel]]'s upward mobility has to pass through performance, resentment, and emotional rupture.
 
@@ -28,3 +30,4 @@ The source presents the field as crowded: [[EmmanuelMacron]] cannot be the same 
 - [[Coffee]], [[CoffeehousePublicSphere]], and [[CoffeeCommodityPolitics]] - historical branch added by the coffee material-history source.
 - [[JulesAndJim|《祖与占》]], [[FrancoisTruffaut]], and [[FrenchNewWave]] - film and cultural-rebellion branch added by episode 108.
 - [[ReneCarmille|Rene Carmille / 勒内·卡米耶]], [[TechnicalResistanceFromWithin]], [[PunchedCardAdministration]], and [[DataEnabledPersecution]] - occupation-data resistance branch added by episode 133.
+- [[SocialMediaAgeBans]], [[OnlineAgeVerification]], and [[PlatformDefinitionConvergence]] - child-safety platform regulation branch added by Marketplace Tech.

@@ -2,11 +2,13 @@
 title: "Bloomberg"
 type: entity
 tags: [media, business, reporting, streaming]
-sources: [tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
-last_updated: 2026-07-17
+sources: [tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # Bloomberg
+
+[[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] adds Bloomberg as the reported source for [[Apple]]'s planned lease-like device program through [[Klarna]]. In the [[MarketplaceTech]] episode, the reporting grounds [[AppleDeviceLeasing]] as a possible growth tool for premium hardware rather than an announced Apple product.
 
 Bloomberg enters this wiki branch as the reported source of internal [[Netflix]] data cited in [[tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128]]. The Marketplace Tech episode uses that reporting to ground the claim that returning seasons of shows such as [[TheNightAgent]], [[BeefSeries|Beef]], and [[AvatarTheLastAirbender|Avatar: The Last Airbender]] lost large shares of their original viewers.
 
@@ -19,3 +21,4 @@ The wiki treats the numbers as source-reported rather than independently verifie
 - [[MarketplaceTech]] and [[BrandonKatz]] - episode and expert commentary built around the reporting.
 - [[StreamingAudienceRetention]] - concept grounded by the reported audience drop-offs.
 - [[OpenAI]], [[JonyIve]], [[Waymo]], and [[RobotaxiHybridDeployment]] - July 17, 2026 Marketplace Tech examples grounded in Bloomberg reporting.
+- [[Apple]], [[Klarna]], and [[AppleDeviceLeasing]] - July 24, 2026 Marketplace Tech device-leasing branch grounded in Bloomberg reporting.

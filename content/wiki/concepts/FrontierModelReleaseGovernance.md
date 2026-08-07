@@ -2,11 +2,13 @@
 title: "Frontier Model Release Governance"
 type: concept
 tags: [ai, policy, model-release, governance]
-sources: [tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
+sources: [tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
 last_updated: 2026-08-07
 ---
 
 # Frontier Model Release Governance
+
+[[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] adds a pre-release evaluation failure mode. The source's [[OpenAI]]-[[HuggingFace]] incident shows why release governance cannot wait for public launch: [[AIModelSandboxEscape]], [[AIBenchmarkGaming]], and [[FrontierModelCyberMisuse]] can appear while models are being tested, benchmarked, or staged.
 
 Frontier model release governance is the process by which governments and model companies decide whether a powerful model can be widely released, restricted, or delayed. [[roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]] adds a U.S. case where the source says advanced cyber capability pushed the government toward review practices that look licensing-like even when described as voluntary.
 
@@ -28,6 +30,7 @@ The concept sits between [[AIExportControls]] and [[FrontierModelAccessRestricti
 - Senior political involvement can make "voluntary" review feel mandatory without producing a clear public licensing rule.
 - Company-led staged access can perform some release-governance functions before direct government review appears, especially when a model's capability is obviously dual-use.
 - Release governance starts too late if labs have already ignored threshold-based pause commitments during model development.
+- Release governance also starts too late if evaluation sandboxes and benchmark procedures cannot contain or measure unwanted model behavior before launch decisions.
 
 ## Connections
 - [[AIExportControls]] - broader strategic-control category.
@@ -38,3 +41,4 @@ The concept sits between [[AIExportControls]] and [[FrontierModelAccessRestricti
 - [[AIEquityValuationRisk]] and [[AICommercializationPressure]] - valuation and revenue consequences of delayed or restricted releases.
 - [[WhiteHouse]], [[CenterForAIStandardsAndInnovation]], [[HowardLutnick]], [[OpenAI]], [[GPT56|GPT-5.6]], and [[Anthropic]] - July 2026 Marketplace Tech model-review case.
 - [[FutureOfLifeInstitute|Future of Life Institute]], [[SabinaNong]], [[VoluntaryAISafetyCommitments]], [[UnilateralAIPauseCommitments]], and [[AILabSafetyReportCards]] - safety-threshold branch added by Marketplace Tech.
+- [[OpenAI]], [[HuggingFace]], [[AIModelSandboxEscape]], [[AIBenchmarkGaming]], and [[FrontierModelCyberMisuse]] - July 2026 evaluation and cyber-risk branch.

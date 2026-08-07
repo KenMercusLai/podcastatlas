@@ -1287,6 +1287,10 @@
     "title": "AI Backlash Politics",
     "url": "/wiki/concepts/aibacklashpolitics/"
   },
+  "AIBenchmarkGaming": {
+    "title": "AI Benchmark Gaming",
+    "url": "/wiki/concepts/aibenchmarkgaming/"
+  },
   "AIBrainFry": {
     "title": "AI Brain Fry",
     "url": "/wiki/concepts/aibrainfry/"
@@ -1682,6 +1686,10 @@
   "AIModelCensorship": {
     "title": "AI Model Censorship",
     "url": "/wiki/concepts/aimodelcensorship/"
+  },
+  "AIModelSandboxEscape": {
+    "title": "AI Model Sandbox Escape",
+    "url": "/wiki/concepts/aimodelsandboxescape/"
   },
   "AIModelValueSurveying": {
     "title": "AI Model Value Surveying",
@@ -3706,6 +3714,10 @@
   "AppleAirPods": {
     "title": "Apple AirPods",
     "url": "/wiki/entities/appleairpods/"
+  },
+  "AppleDeviceLeasing": {
+    "title": "Apple Device Leasing",
+    "url": "/wiki/concepts/appledeviceleasing/"
   },
   "AppleIntelligence": {
     "title": "Apple Intelligence",
@@ -13219,6 +13231,10 @@
     "title": "Frontier Model Access Restrictions",
     "url": "/wiki/concepts/frontiermodelaccessrestrictions/"
   },
+  "FrontierModelCyberMisuse": {
+    "title": "Frontier Model Cyber Misuse",
+    "url": "/wiki/concepts/frontiermodelcybermisuse/"
+  },
   "FrontierModelInflectionPivot": {
     "title": "Frontier Model Inflection Pivot",
     "url": "/wiki/concepts/frontiermodelinflectionpivot/"
@@ -15910,6 +15926,10 @@
   "HuckleberryFinn": {
     "title": "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》",
     "url": "/wiki/entities/huckleberryfinn/"
+  },
+  "HuggingFace": {
+    "title": "Hugging Face",
+    "url": "/wiki/entities/huggingface/"
   },
   "HugoChavez": {
     "title": "Hugo Chavez",
@@ -18762,6 +18782,10 @@
   "Klapaucius": {
     "title": "克拉帕沃丘斯 / Klapaucius",
     "url": "/wiki/entities/klapaucius/"
+  },
+  "Klarna": {
+    "title": "Klarna",
+    "url": "/wiki/entities/klarna/"
   },
   "KleinerPerkins": {
     "title": "Kleiner Perkins",
@@ -25519,6 +25543,10 @@
     "title": "Platform Data Regulation",
     "url": "/wiki/concepts/platformdataregulation/"
   },
+  "PlatformDefinitionConvergence": {
+    "title": "Platform Definition Convergence",
+    "url": "/wiki/concepts/platformdefinitionconvergence/"
+  },
   "PlatformDependencyRisk": {
     "title": "Platform Dependency Risk",
     "url": "/wiki/concepts/platformdependencyrisk/"
@@ -30150,6 +30178,10 @@
   "SocialMediaAbuseMask": {
     "title": "Social Media Abuse Mask / 社交媒体虐待遮蔽",
     "url": "/wiki/concepts/socialmediaabusemask/"
+  },
+  "SocialMediaAgeBans": {
+    "title": "Social Media Age Bans",
+    "url": "/wiki/concepts/socialmediaagebans/"
   },
   "SocialMediaAgeGateSpeechBurden": {
     "title": "Social Media Age-Gate Speech Burden",
@@ -34899,6 +34931,10 @@
     "title": "Will James",
     "url": "/wiki/entities/willjames/"
   },
+  "WillOremus": {
+    "title": "Will Oremus",
+    "url": "/wiki/entities/willoremus/"
+  },
   "WillaRemus": {
     "title": "Willa Remus",
     "url": "/wiki/entities/willaremus/"
@@ -38534,6 +38570,10 @@
   "tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128": {
     "title": "A modern-day odyssey through AI chatbot hellscape",
     "url": "/wiki/sources/tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128/"
+  },
+  "tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128": {
+    "title": "OpenAI model unintentionally hacks another company's system",
+    "url": "/wiki/sources/tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

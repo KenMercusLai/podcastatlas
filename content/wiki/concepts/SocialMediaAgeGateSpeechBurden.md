@@ -2,11 +2,13 @@
 title: "Social Media Age-Gate Speech Burden"
 type: concept
 tags: [social-media, age-verification, speech, privacy, child-safety]
-sources: [tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # Social Media Age-Gate Speech Burden
+
+[[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] adds an international age-ban case. [[France]]'s under-15 social-media ban and the [[Australia]] comparison show how [[SocialMediaAgeBans]] can create the same speech and privacy burden even outside the U.S. constitutional setting: users may evade the ban, while platforms may respond with identity checks that affect lawful participation and anonymity.
 
 Social media age-gate speech burden is the risk that age verification, parental-consent rules, or categorical youth bans restrict access to lawful online speech. In [[tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]], [[AaronMackey]] says courts have largely blocked similar state laws because they burden First Amendment rights.
 
@@ -23,6 +25,7 @@ The burden is two-sided. Minors may be cut off from large communication platform
 - Privacy-focused regulation may address platform harms with less direct burden on access to speech.
 - Face-based age estimation may avoid categorical bans, but it still has to balance child safety, privacy, accuracy, and participation rights.
 - Adult-content age-verification laws can have a different legal posture from broad social-media bans, but both can turn age assurance into an access barrier for lawful users.
+- International age bans can still create speech and privacy burdens even where the U.S. First Amendment is not the governing legal frame.
 
 ## Connections
 - [[CaliforniaAB1709]] - proposed under-16 ban discussed in the source.
@@ -32,3 +35,4 @@ The burden is two-sided. Minors may be cut off from large communication platform
 - [[PlatformFirstAmendmentDefense]] - related but separate First Amendment issue around platform editorial rights.
 - [[Roblox]], [[MattKaufman]], and [[PlatformAgeEstimation]] - narrower age-estimation mechanism added by Marketplace Tech Bytes.
 - [[OnlineAgeVerification]], [[AgeVerificationPatchwork]], [[DrewHarwell]], and [[Bluesky]] - adult-content, state-patchwork, and platform-access branch added by Marketplace Tech.
+- [[SocialMediaAgeBans]], [[France]], [[Australia]], and [[PlatformDefinitionConvergence]] - July 2026 international age-ban branch.
