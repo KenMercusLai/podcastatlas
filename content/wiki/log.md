@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-07] ingest | Opening the curtain of AI business integration
+
+Added source page for a Marketplace Tech episode with Priya Rathod of Indeed on workplace AI adoption, covering employer demand for specific AI skills, the behavioral definition of AI native workers, worker confidence gaps, manager AI fluency, governance and privacy concerns, job-security anxiety, Gen Z exposure versus capability, and the need for training, milestones, and department-specific rollout. Created pages for Priya Rathod, Workplace AI Readiness Gap, AI Native Worker, Managerial AI Fluency Gap, and AI Job Security Anxiety; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Indeed, YouGov, AI Worker Literacy, Business-Led AI Transformation, AI Organization Design, AI Economic Diffusion, and AI Automation Redistribution. No direct contradiction found; the source qualifies AI worker literacy and business-led AI transformation by showing that tool access and executive enthusiasm do not produce adoption unless worker trust, manager readiness, privacy, governance, and job-security incentives are handled.
+
 ## [2026-08-07] ingest | Centering humans in AI education might be key to innovation and research
 
 Added source page for a Marketplace Tech episode on USC's human-centered AI education strategy, covering Sri Narayanan's behavioral-signal research with real-time MRI and machine learning, USC's $200 million Stevens School AI investment, a new AI major, non-STEM AI minors, project-driven curriculum, and the need to keep ethics, privacy, bias, and agency inside AI development. Created pages for Sri Narayanan, Gaurav Sukhatme, Signal Analysis and Interpretation Lab, USC Stevens School for Computing and Artificial Intelligence, Human-Centered AI Education, Behavioral Signal Processing, Academic AI Research Role, and Project-Driven AI Curriculum; updated overview, index, Marketplace Tech, University of Southern California, AI Default Learning Environment, AI University Assessment Reform, AI Health Management, Domain Expert Alignment, and University Opportunity Density. No direct contradiction found; the source qualifies AI education and mental-health AI branches by separating supervised interdisciplinary research and curriculum design from unsupervised chatbot substitution for clinicians or trusted adults.
@@ -7031,5 +7035,9 @@ Added source page for a Planet Money episode on Squishy Dumplings as a viral toy
 Added source page for a The Intelligence episode on India’s Cockroach Movement, a trading experiment with advance news, and Invader’s street mosaics. Created pages for Dharmendra Pradhan, Bharatiya Janata Party, National Eligibility cum Entrance Test, Abhijit Tipke, Sonamji, Yash Mishra, Kira Huyu, Caitlin Talbot, Invader, Flash Invaders, Delhi, Cockroach Movement, Education Accountability Protest, Dissent Space Compression, Advance News Trading Experiment, Market Expectation Gap, and Street Art Game Layer; updated overview, index, India, Narendra Modi, Josh Roberts, Position Sizing, Investment Risk Management, The Intelligence, and Economist Podcasts. No direct contradiction found; the source extends existing India and investing branches by tying youth protest to education accountability and tying advance information to expectation reading and bet sizing.
 
 ## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

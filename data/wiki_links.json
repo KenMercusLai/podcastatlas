@@ -1663,6 +1663,10 @@
     "title": "AI Investment Research",
     "url": "/wiki/concepts/aiinvestmentresearch/"
   },
+  "AIJobSecurityAnxiety": {
+    "title": "AI Job Security Anxiety",
+    "url": "/wiki/concepts/aijobsecurityanxiety/"
+  },
   "AIJournalismTrust": {
     "title": "AI Journalism Trust",
     "url": "/wiki/concepts/aijournalismtrust/"
@@ -1738,6 +1742,10 @@
   "AINativeSaaSThreat": {
     "title": "AI Native SaaS Threat",
     "url": "/wiki/concepts/ainativesaasthreat/"
+  },
+  "AINativeWorker": {
+    "title": "AI Native Worker",
+    "url": "/wiki/concepts/ainativeworker/"
   },
   "AINativeWorkspace": {
     "title": "AI-Native Workspace",
@@ -21267,6 +21275,10 @@
     "title": "Management Shareholder Alignment Risk",
     "url": "/wiki/concepts/managementshareholderalignmentrisk/"
   },
+  "ManagerialAIFluencyGap": {
+    "title": "Managerial AI Fluency Gap",
+    "url": "/wiki/concepts/managerialaifluencygap/"
+  },
   "Manaus": {
     "title": "Manaus",
     "url": "/wiki/entities/manaus/"
@@ -26742,6 +26754,10 @@
   "PrivateRevengeModernLaw": {
     "title": "Private Revenge And Modern Law",
     "url": "/wiki/concepts/privaterevengemodernlaw/"
+  },
+  "PriyaRathod": {
+    "title": "Priya Rathod",
+    "url": "/wiki/entities/priyarathod/"
   },
   "ProPublica": {
     "title": "ProPublica",
@@ -35799,6 +35815,10 @@
     "title": "Workmagic",
     "url": "/wiki/entities/workmagic/"
   },
+  "WorkplaceAIReadinessGap": {
+    "title": "Workplace AI Readiness Gap",
+    "url": "/wiki/concepts/workplaceaireadinessgap/"
+  },
   "WorkplaceAITransparency": {
     "title": "Workplace AI Transparency",
     "url": "/wiki/concepts/workplaceaitransparency/"
@@ -39334,6 +39354,10 @@
   "tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128": {
     "title": "Meta and Microsoft report different AI earnings",
     "url": "/wiki/sources/tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128/"
+  },
+  "tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128": {
+    "title": "Opening the curtain of AI business integration",
+    "url": "/wiki/sources/tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

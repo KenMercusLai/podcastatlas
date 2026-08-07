@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Opening the curtain of AI business integration](sources/tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128.md) — Marketplace Tech episode with Priya Rathod of Indeed on employer demand for AI skills, AI native workers, worker readiness gaps, manager fluency, governance/privacy concerns, and AI job-security anxiety.
 - [Cockroaches 1, Modi 0: India’s remarkable protests](sources/cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8.md) — The Intelligence episode on India’s cockroach protests, advance-news trading failures, and Invader’s street-art scavenger game.
 - [What makes a toy go viral](sources/what-makes-a-toy-go-viral.md) — Planet Money episode on Squishy Dumplings, RMS, mystery packaging, TikTok unboxing, scarcity drops, Five Below, and a no-warehouse viral toy supply chain.
 - [Meta and Microsoft report different AI earnings](sources/tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128.md) — Marketplace Tech Bytes episode on AI capex scrutiny at Microsoft, Meta, and Google, memory-chip cyclicality, China/Kimi K3 uncertainty, AI worker calls for government pace-setting, and NBCUniversal's Peacock bundle inside YouTube Premium.
@@ -878,6 +879,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Priya Rathod](entities/PriyaRathod.md) — Indeed representative interviewed by Marketplace Tech on AI native workers, worker readiness, manager AI fluency, and job-security anxiety around workplace AI.
 - [Abhijit Tipke](entities/AbhijitTipke.md) — Tweet author whose cockroach meme helped turn an insult against jobless youth into a shared protest identity.
 - [Bharatiya Janata Party](entities/BharatiyaJanataParty.md) — India’s ruling-party context for the cockroach protests, anti-national labeling, and Modi-era political strength.
 - [Caitlin Talbot](entities/CaitlinTalbot.md) — The Intelligence contributor whose London walk demonstrates Invader’s mosaics and the Flash Invaders app.
@@ -5998,6 +6000,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Workplace AI Readiness Gap](concepts/WorkplaceAIReadinessGap.md) — Employer-worker-manager mismatch where AI skill demand outruns worker confidence, manager fluency, training, and trust.
+- [AI Native Worker](concepts/AINativeWorker.md) — Behavior-based label for workers who use AI to design, execute, and scale workflows end to end, not simply a demographic label.
+- [Managerial AI Fluency Gap](concepts/ManagerialAIFluencyGap.md) — Management-side blocker where managers lack the AI understanding needed to lead, evaluate, or learn from more AI-fluent employees.
+- [AI Job Security Anxiety](concepts/AIJobSecurityAnxiety.md) — Worker hesitation that AI productivity gains may help consolidate roles, eliminate junior jobs, or weaken employment security.
 - [Advance News Trading Experiment](concepts/AdvanceNewsTradingExperiment.md) — Trading experiment showing that tomorrow’s headlines still fail without expectation reading, sizing discipline, and abstention.
 - [Cockroach Movement](concepts/CockroachMovement.md) — Youth-led Indian protest wave that converted a cockroach insult into meme identity, education grievance, and ministerial pressure.
 - [Dissent Space Compression](concepts/DissentSpaceCompression.md) — Pattern where protest remains possible but becomes costlier through patriotic loyalty tests, police force, and infrastructure restrictions.

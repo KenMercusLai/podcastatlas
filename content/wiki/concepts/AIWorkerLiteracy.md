@@ -2,8 +2,8 @@
 title: "AI Worker Literacy"
 type: concept
 tags: [ai, labor, education, workforce]
-sources: [tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128, tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # AI Worker Literacy
@@ -14,6 +14,8 @@ The source treats literacy as useful but limited. [[MariaCurie|Maria Curi]] says
 
 [[tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128]] adds the late-career version through [[LaurenWeber]]. The episode shows that worker literacy is not only a knowledge gap: some older workers may be capable of using AI and still choose not to undergo another employer-led technology transition, especially when job-security fear and productivity pressure shape the rollout.
 
+[[tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128]] adds the employer-worker-manager mismatch through [[PriyaRathod]] of [[Indeed]]. Workers may be experimenting with AI but still not feel ready for the specific skills employers want, while managers may lack the fluency to lead [[AINativeWorker|AI native workers]]. The source makes literacy a shared organizational responsibility: training, milestones, privacy, governance, and job-security trust matter alongside individual practice.
+
 ## Key Claims
 - Basic AI literacy can reduce confusion and give workers a starting point for experimenting with tools.
 - A pro-AI course can also function as reassurance when workers are asking for safeguards, job security, or policy answers.
@@ -21,6 +23,8 @@ The source treats literacy as useful but limited. [[MariaCurie|Maria Curi]] says
 - Worker literacy should include what AI can do, what it cannot do, what incentives shape deployment, and when human judgment remains responsible.
 - The concept connects public education to [[AIBacklashPolitics]] because jobs, children, and infrastructure costs can become political issues even when the official response is "skill up."
 - Older-worker AI adoption cannot be reduced to basic training; trust, autonomy, retirement readiness, and rollout pacing can decide whether a worker stays.
+- AI worker literacy also depends on management readiness: workers who are more AI fluent than their managers need clear expectations, review norms, and permission boundaries.
+- A worker can be AI literate and still hesitate if [[AIJobSecurityAnxiety]] makes productivity gains feel personally risky.
 
 ## Connections
 - [[USDepartmentOfLabor|U.S. Department of Labor]] - agency introducing the text-message course.
@@ -29,3 +33,4 @@ The source treats literacy as useful but limited. [[MariaCurie|Maria Curi]] says
 - [[HumanJudgmentUnderAI]] - worker capability still depends on judgment, verification, and context.
 - [[BusinessLedAITransformation]] and [[AICommercializationPressure]] - enterprise adoption pressure that makes worker literacy politically salient.
 - [[LaurenWeber]], [[OlderWorkerAIRetirement]], and [[InstitutionalKnowledgeTransfer]] - Marketplace Tech branch where literacy, retention, and knowledge handoff intersect.
+- [[PriyaRathod]], [[Indeed]], [[WorkplaceAIReadinessGap]], [[AINativeWorker]], [[ManagerialAIFluencyGap]], and [[AIJobSecurityAnxiety]] - Marketplace Tech branch on AI skills, worker confidence, and management readiness.

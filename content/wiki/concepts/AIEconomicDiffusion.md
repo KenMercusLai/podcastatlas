@@ -2,8 +2,8 @@
 title: "AI Economic Diffusion"
 type: concept
 tags: [ai, productivity, organizations, economics]
-sources: [live-anthropic-co-founder-on-ai-and-jobs, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
-last_updated: 2026-07-25
+sources: [tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
+last_updated: 2026-08-07
 ---
 
 # AI Economic Diffusion
@@ -11,6 +11,8 @@ last_updated: 2026-07-25
 [[live-anthropic-co-founder-on-ai-and-jobs]] adds [[JackClark]]'s sharper labor-capacity forecast. Clark predicts that by April 2027, AI systems may be able to complete tasks that would take a person roughly 150 hours, including research, circuit design, source synthesis, and software building. The source therefore pushes the diffusion question beyond firm workflow redesign into [[AIAutomationRedistribution]]: who captures the gains if long knowledge tasks become machine-executable?
 
 [[tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128]] adds a workplace measurement warning through [[ChristopherMims]]. Bosses may believe AI saves more worker time than employees experience, so the diffusion gap is not only technical; it is also managerial, perceptual, and tied to whether workflows actually change.
+
+[[tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128]] adds a workforce-readiness warning through [[PriyaRathod]] and [[Indeed]]. Even if companies believe AI can improve productivity, diffusion slows when workers do not feel prepared, managers lack AI fluency, and job-security anxiety makes employees cautious about proving that tasks can be automated.
 
 AI economic diffusion is the gap between model capability reaching the market and businesses reorganizing enough to convert that capability into productivity, revenue, or lower cost. In [[141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]], [[Freda]] borrows a distinction between technology diffusion and economic diffusion: models may improve quickly, but firms still need to redesign workflows, data capture, software architecture, roles, and incentives.
 
@@ -31,6 +33,7 @@ The episode's electric-motor metaphor connects this to [[TechnologyInstallationC
 - [[AIOrganizationDesign]] is another route: small teams may need broader skills and faster decision rights when AI compresses execution time.
 - Investors should separate model progress from revenue or margin realization; the latter depends on diffusion through customers and the economy.
 - Faster coding is not the same as higher revenue because many organizations are constrained by product direction, responsibility, decision rights, and customer demand rather than programmer headcount alone.
+- Employer demand for AI skills is not the same as diffusion; workers and managers still need training, confidence, governance, and incentives that make adoption rational.
 - Episode 136 raises the urgency: faster coding and agent work may diffuse into labor markets before firms have redesigned accountability and value capture.
 - The LateTalk source adds that diffusion can happen through several channels at once: official coding agents, Slack agents, recorded workflows, open-model post-training, and real-time voice interfaces.
 - Clark's Planet Money forecast adds that diffusion can become a public-finance question if AI systems substitute for large blocks of high-skill knowledge work.
@@ -46,3 +49,4 @@ The episode's electric-motor metaphor connects this to [[TechnologyInstallationC
 - [[ClaudeTag]], [[RecordAndReplay]], [[EnterpriseOwnedModels]], and [[VoiceInteraction]] — Q2 2026 diffusion channels added by LateTalk.
 - [[JackClark]], [[Anthropic]], [[Claude]], and [[AIAutomationRedistribution]] - long-task forecast and redistribution branch added by Planet Money.
 - [[ChristopherMims]], [[BusinessLedAITransformation]], and [[AIWorkflowTriage]] - workplace adoption and productivity-perception branch added by Marketplace Tech.
+- [[PriyaRathod]], [[WorkplaceAIReadinessGap]], [[ManagerialAIFluencyGap]], and [[AIJobSecurityAnxiety]] - workplace readiness and incentive branch added by Marketplace Tech.
