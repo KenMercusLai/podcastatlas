@@ -4319,6 +4319,10 @@
     "title": "Autonomous Driving Data Flywheel",
     "url": "/wiki/concepts/autonomousdrivingdataflywheel/"
   },
+  "AutonomousEnterprise": {
+    "title": "Autonomous Enterprise",
+    "url": "/wiki/concepts/autonomousenterprise/"
+  },
   "AutonomousVehicleRegulatoryPatchwork": {
     "title": "Autonomous Vehicle Regulatory Patchwork",
     "url": "/wiki/concepts/autonomousvehicleregulatorypatchwork/"
@@ -7066,6 +7070,10 @@
   "ChinaDivorceRestrictions": {
     "title": "China Divorce Restrictions",
     "url": "/wiki/concepts/chinadivorcerestrictions/"
+  },
+  "ChinaEnterpriseAISystemDebt": {
+    "title": "China Enterprise AI System Debt",
+    "url": "/wiki/concepts/chinaenterpriseaisystemdebt/"
   },
   "ChinaEquityRealEconomyGap": {
     "title": "China Equity-Real Economy Gap / 中国股市与实体经济落差",
@@ -10727,6 +10735,10 @@
     "title": "EOS Worldwide",
     "url": "/wiki/entities/eosworldwide/"
   },
+  "ERPTrustMoat": {
+    "title": "ERP Trust Moat",
+    "url": "/wiki/concepts/erptrustmoat/"
+  },
   "ESPN": {
     "title": "ESPN",
     "url": "/wiki/entities/espn/"
@@ -11431,6 +11443,10 @@
     "title": "Enterprise-First Product Fit",
     "url": "/wiki/concepts/enterprisefirstproductfit/"
   },
+  "EnterpriseOperationalMemory": {
+    "title": "Enterprise Operational Memory",
+    "url": "/wiki/concepts/enterpriseoperationalmemory/"
+  },
   "EnterpriseOwnedModels": {
     "title": "Enterprise Owned Models",
     "url": "/wiki/concepts/enterpriseownedmodels/"
@@ -11438,6 +11454,10 @@
   "EnterprisePrearrangedAgents": {
     "title": "Enterprise Prearranged Agents",
     "url": "/wiki/concepts/enterpriseprearrangedagents/"
+  },
+  "EnterpriseResourcePlanning": {
+    "title": "Enterprise Resource Planning",
+    "url": "/wiki/concepts/enterpriseresourceplanning/"
   },
   "EnterpriseRunSociety": {
     "title": "Enterprise-Run Society / 企业办社会",
@@ -12310,6 +12330,10 @@
   "FeimaPaiQiche": {
     "title": "《飞马牌汽车》",
     "url": "/wiki/entities/feimapaiqiche/"
+  },
+  "Feishu": {
+    "title": "Feishu / 飞书",
+    "url": "/wiki/entities/feishu/"
   },
   "FeixingjiaFilm": {
     "title": "《飞行家》 / Feixingjia",
@@ -28991,6 +29015,18 @@
     "title": "SAP",
     "url": "/wiki/entities/sap/"
   },
+  "SAPJoule": {
+    "title": "SAP Joule / Joule Work",
+    "url": "/wiki/entities/sapjoule/"
+  },
+  "SAPS4HANA": {
+    "title": "SAP S/4HANA",
+    "url": "/wiki/entities/saps4hana/"
+  },
+  "SAPSignavio": {
+    "title": "SAP Signavio",
+    "url": "/wiki/entities/sapsignavio/"
+  },
   "SBMIntelligence": {
     "title": "SBM Intelligence",
     "url": "/wiki/entities/sbmintelligence/"
@@ -29154,6 +29190,10 @@
   "SalesVelocity": {
     "title": "Sales Velocity",
     "url": "/wiki/concepts/salesvelocity/"
+  },
+  "Salesforce": {
+    "title": "Salesforce",
+    "url": "/wiki/entities/salesforce/"
   },
   "SalimRamji": {
     "title": "Salim Ramji",
@@ -35811,6 +35851,10 @@
     "title": "Work Self-Worth Boundary / 工作与自我价值边界",
     "url": "/wiki/concepts/workselfworthboundary/"
   },
+  "Workday": {
+    "title": "Workday",
+    "url": "/wiki/entities/workday/"
+  },
   "Workmagic": {
     "title": "Workmagic",
     "url": "/wiki/entities/workmagic/"
@@ -36931,6 +36975,10 @@
     "title": "Yuan Shanla / 袁善辣",
     "url": "/wiki/entities/yuanshanla/"
   },
+  "YuanXin": {
+    "title": "Yuan Xin / 原欣",
+    "url": "/wiki/entities/yuanxin/"
+  },
   "YuanZhang": {
     "title": "袁掌 / Yuan Zhang",
     "url": "/wiki/entities/yuanzhang/"
@@ -37650,6 +37698,10 @@
   "ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1": {
     "title": "AI 不只比智商，WAIC 和 Kimi K3 透露了什么新竞争",
     "url": "/wiki/sources/ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1/"
+  },
+  "ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1": {
+    "title": "174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界",
+    "url": "/wiki/sources/ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1/"
   },
   "ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx": {
     "title": "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘",

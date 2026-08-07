@@ -7041,3 +7041,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] ingest | 174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界
+
+Added source page for a LateTalk episode with Yuan Xin of SAP on ERP, AI coding, SaaS pricing pressure, FDE, autonomous enterprise, enterprise operational memory, Chinese enterprise system debt, and SAP's Alibaba Cloud/Qwen/DingTalk cooperation in China. Created pages for Yuan Xin, Workday, Salesforce, Feishu, SAP Joule, SAP Signavio, SAP S/4HANA, Enterprise Resource Planning, ERP Trust Moat, Autonomous Enterprise, Enterprise Operational Memory, and China Enterprise AI System Debt; updated overview, index, SAP, LateTalk, Forward Deployed Engineer, AI Native SaaS Threat, SaaS Trust Moat, Business-Led AI Transformation, Outcome-Based AI Pricing, Result As A Service, Enterprise Agent Governance, Enterprise Agent Memory, Enterprise Data Activation, Language User Interface, Agent Native Software, Alibaba, Alibaba Cloud, Qwen, and DingTalk. No direct contradiction found; the source qualifies SaaS-disruption and agent-native claims by showing why ERP-like systems retain defenses around trusted data, auditability, localization, process memory, and human review even as AI changes interfaces and pricing.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

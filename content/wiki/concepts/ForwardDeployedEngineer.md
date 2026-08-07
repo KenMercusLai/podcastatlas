@@ -2,8 +2,8 @@
 title: "Forward Deployed Engineer"
 type: concept
 tags: [enterprise-ai, deployment, role]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]
-last_updated: 2026-07-24
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
+last_updated: 2026-08-08
 ---
 
 # Forward Deployed Engineer
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 Forward Deployed Engineer, abbreviated FDE, is the role for bringing AI into real enterprise workflows rather than merely selling access to a model or tool. [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc]] presents the role as a likely enterprise bottleneck because AI needs process, culture, database, and organizational context before deployment. [[openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6]] corrects the naming to the [[Palantir]]-origin "Forward Deployed Engineer" and deepens the role through [[RollingAI]]'s enterprise implementation cases. [[e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]] adds [[Cresta]]'s operating version: FDEs select customer use cases, validate APIs, build and test agents, monitor live metrics, and hand lessons back into product.
 
 [[ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]] adds a demystifying layer. The [[YingdiHaike|硬地骇客]] episode argues that FDE resembles high-end [[EnterpriseCustomDelivery]] more than a wholly new role, but becomes strategically important in AI because customer demand, production workflows, product form, trust, and model feedback are still unsettled. It also separates FDE from [[CustomerSuccessEngineer]]: CSE helps a mature product keep delivering value, while FDE works earlier when the solution still has to be discovered and engineered.
+
+[[ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]] adds [[SAP]]'s enterprise-software version. [[YuanXin]] says early FDE work often has to sort historical data, identify business objects, build ontology, and translate customer needs into codable scenarios. The source contrasts early product/engineering-heavy FDE with traditional SAP implementation consultants who carry finance, industry, and process expertise, suggesting that durable FDE work may merge engineering capability with business consulting.
 
 ## Role In The Sources
 - The first source says [[OpenAI]] and [[Anthropic]] have both discussed this kind of enterprise deployment role.
@@ -24,6 +26,8 @@ Forward Deployed Engineer, abbreviated FDE, is the role for bringing AI into rea
 - The source argues that FDE work should be led by business problems rather than IT ownership alone.
 - FDEs connect model capability to [[BusinessLedAITransformation]] by redesigning workflow, incentives, and role boundaries around AI.
 - [[ForwardDeployedProductManager]] appears as the product/customer counterpart that handles agent behavior, quality expectations, requirements, and trust while FDEs own technical implementation.
+- SAP's source adds that FDE work begins before agent building when enterprise data, [[EnterpriseOperationalMemory]], business-object models, and process understanding have to be reconstructed.
+- The source also frames FDE as an ecosystem role: model companies, enterprise software vendors, consulting firms, and PE owners may all need versions of it, but the skill mix differs by where business know-how already lives.
 
 ## Connections
 - [[OpenAI]] and [[Anthropic]] — frontier AI companies cited as emphasizing FDE-style enterprise AI deployment.
@@ -38,3 +42,4 @@ Forward Deployed Engineer, abbreviated FDE, is the role for bringing AI into rea
 - [[ContextEngineering]] — enterprise context is the deployment substrate.
 - [[AgenticWorkflow]] — what FDE work tries to install inside companies.
 - [[AIWorkflowTriage]] — workflow selection boundary that keeps FDE work from forcing AI into every step.
+- [[SAP]], [[YuanXin]], [[EnterpriseOperationalMemory]], and [[ERPTrustMoat]] — ERP-centered FDE and business-process know-how extension.

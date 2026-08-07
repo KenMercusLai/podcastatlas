@@ -2,8 +2,8 @@
 title: "Agent Native Software"
 type: concept
 tags: [agents, software-design, product]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]
-last_updated: 2026-07-23
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
+last_updated: 2026-08-08
 ---
 
 # Agent Native Software
@@ -24,6 +24,8 @@ Agent-native software is software whose core substrate is an agent rather than a
 
 [[141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]] adds the enterprise-system redesign version. [[Freda]] argues that many AI CRM or ERP products still resemble old software with automation added. The stronger agent-native opportunity is to record previously invisible decision context, make systems persistent and real-time enough for agents, and redesign communication, permissions, memory, and workflow around nonhuman operators.
 
+[[ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]] adds a conservative incumbent version through [[SAP]]. The source says SAP wants to make the application layer thinner and move from record system toward executable system through [[SAPJoule]] and agents, but it keeps [[EnterpriseResourcePlanning|ERP]] process, data, permissions, and localization as the governed substrate rather than treating agents as a full replacement.
+
 [[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] adds [[SlockAI|Slock.ai]] as a multi-agent workspace form. The product is agent-native not because it adds an assistant to chat, but because channels, threads, documents, memory, task claiming, and review surfaces are designed around many agents as active participants in the workspace.
 
 ## Key Claims
@@ -39,6 +41,7 @@ Agent-native software is software whose core substrate is an agent rather than a
 - Agent-native prototypes can start as configured conversations, but durable products still need stable memory, permission boundaries, and deterministic pieces when repeated work becomes clear.
 - For non-technical users, agent-native software can reveal the programmatic structure behind work: chat becomes the surface for routines, state, memory, and tool execution.
 - Agent-native enterprise software may need to capture why decisions were made, who objected, what constraints mattered, and which approvals shaped the outcome, not only the final structured record.
+- SAP adds that incumbent enterprise software can move toward agent-native execution without abandoning the ERP substrate, especially when auditability and global compliance remain central.
 - Persistent, real-time systems can matter because agents may need to stay online, react to events, and maintain state rather than operate as one-shot assistants.
 - Agent-native collaboration software may need to be readable by two kinds of workers at once: humans scanning progress and agents consuming structured event history.
 
@@ -56,3 +59,4 @@ Agent-native software is software whose core substrate is an agent rather than a
 - [[AgenticSoftware]], [[AtomicCapabilityServices]], and [[TencentMeeting]] — Vol. 164's broader software-architecture frame.
 - [[AIEconomicDiffusion]], [[AIOrganizationDesign]], and [[AgentPermissionBoundaries]] — episode 141's workflow, team, and infrastructure redesign frame.
 - [[SlockAI|Slock.ai]], [[AgentDynamics]], [[AgentTaskClaiming]], and [[HumanAgentCollaboration]] — multi-agent workspace case added by the RC episode.
+- [[SAP]], [[SAPJoule]], [[EnterpriseResourcePlanning]], [[ERPTrustMoat]], and [[AutonomousEnterprise]] — incumbent ERP-to-agent execution branch added by LateTalk.

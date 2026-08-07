@@ -2,8 +2,8 @@
 title: "LateTalk"
 type: entity
 tags: [podcast, media]
-sources: [173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
-last_updated: 2026-08-07
+sources: [173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
+last_updated: 2026-08-08
 ---
 
 # LateTalk
@@ -22,6 +22,8 @@ The Q2 2026 AI-quarter source adds [[HenryYin]] as a guest and shifts from embod
 
 [[173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1]] adds [[YaoSong]] as a continuous hard-tech founder case. The episode ties LateTalk's AI and embodied-intelligence coverage back to [[DeePhiTech]], [[Xilinx]], [[Orienspace]], [[Gravity1Rocket]], and [[StridingAI]], making the show a place where Chinese AI-chip, commercial-space, and physical-intelligence routes can be compared through one founder's operating history.
 
+[[ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]] adds [[YuanXin]] of [[SAP]] and moves LateTalk's AI thread from frontier-model and embodied-intelligence reviews into enterprise software. The episode connects [[EnterpriseResourcePlanning]], [[ERPTrustMoat]], [[ForwardDeployedEngineer]], [[AutonomousEnterprise]], [[ChinaEnterpriseAISystemDebt]], and SAP's [[AlibabaCloud|Alibaba Cloud]] / [[Qwen]] / [[DingTalk]] China ecosystem route.
+
 ## Connections
 - [[ChenZhePeter]] and [[AlphaEast]] — recurring guest and investment-firm context for the quarterly review.
 - [[EmbodiedAI]], [[WorldModels]], and [[HumanoidRobotCommercialization]] — main subject areas covered by the episode.
@@ -31,3 +33,4 @@ The Q2 2026 AI-quarter source adds [[HenryYin]] as a guest and shifts from embod
 - [[HanYang]], [[FuyouTiandi]], and [[MediaFormConstraint]] — earlier-show context from the Fuyou Tiandi program statement.
 - [[CaoXudong]], [[Momenta]], [[AutonomousDrivingDataFlywheel]], and [[LowCostShortCycleValidation]] — IPO-era autonomous-driving founder interview.
 - [[YaoSong]], [[DeePhiTech]], [[Orienspace]], [[StridingAI]], and [[PhysicalIntelligenceSystemStack]] — hard-tech founder and physical-intelligence system-stack interview.
+- [[YuanXin]], [[SAP]], [[EnterpriseResourcePlanning]], [[ERPTrustMoat]], and [[BusinessLedAITransformation]] — enterprise software and to-B AI interview.

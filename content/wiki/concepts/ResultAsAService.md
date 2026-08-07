@@ -2,8 +2,8 @@
 title: "Result As A Service"
 type: concept
 tags: [ai, pricing, enterprise-ai, services]
-sources: [e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months]
-last_updated: 2026-07-09
+sources: [e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
+last_updated: 2026-08-08
 ---
 
 # Result As A Service
@@ -11,6 +11,8 @@ last_updated: 2026-07-09
 Result as a Service, or RaaS, is [[ZhangShaofeng]]'s frame in [[e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou]] for selling completed business outcomes rather than software access. It extends [[OutcomeBasedAIPricing]] by making the unit of purchase a role, work order, hour, completed task, transaction result, or fully outsourced process delivered by [[DigitalEmployees]]. [[e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]] adds that PE and asset-management workflows may be natural RaaS targets when firms want fundraising support, due-diligence acceleration, fund operations, or portfolio-company AI adoption rather than a generic tool license.
 
 [[he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months]] adds a marketing-result case through [[Responna]]. Here the result is not an internal AI employee task, but completed brand mentions, publisher placements, and improved AI-answer visibility delivered through an [[AIVisibilityService]].
+
+[[ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]] adds an incumbent enterprise-software caution. [[SAP]]'s source says result or consumption pricing may become more natural when agents perform tasks, but the vendor still has to preserve governed process state, auditability, and [[HumanJudgmentUnderAI]] before a result can be accepted inside [[EnterpriseResourcePlanning|ERP]].
 
 ## Key Claims
 - Buyers often care less about whether the work is done by a human employee, outsourced team, or AI employee than about cost, quality, accountability, and reliability.
@@ -20,6 +22,7 @@ Result as a Service, or RaaS, is [[ZhangShaofeng]]'s frame in [[e225-saasye-shuq
 - The model is especially plausible in markets where companies historically resisted paying for generic process software but already pay for labor, outsourcing, or completed deliverables.
 - E240 adds that result delivery still depends on [[AIWorkflowTriage]]: exact processes such as reconciliation need deterministic systems, while AI assists language, search, synthesis, and recommendation steps under human review.
 - Responna adds that customers may resist a small SaaS subscription yet pay much more once the commercial unit becomes a measurable external result.
+- SAP adds that result delivery in core enterprise systems still depends on trusted data, audit trails, process rules, and reviewable exceptions.
 
 ## Connections
 - [[OutcomeBasedAIPricing]] — broader pricing pattern that includes RaaS.
@@ -28,3 +31,4 @@ Result as a Service, or RaaS, is [[ZhangShaofeng]]'s frame in [[e225-saasye-shuq
 - [[BairongIntelligence]] and [[ZhangShaofeng]] — operator and speaker presenting the frame.
 - [[InvisibleTechnologies]], [[PrivateEquityAITransformation]], and [[AIWorkflowTriage]] — PE workflow and implementation-boundary extension added by E240.
 - [[Responna]], [[AIVisibilityService]], and [[PublisherRelationshipMoat]] — AI visibility and publisher-placement result case.
+- [[SAP]], [[EnterpriseResourcePlanning]], [[ERPTrustMoat]], and [[AutonomousEnterprise]] — enterprise-system boundary for result-based pricing.

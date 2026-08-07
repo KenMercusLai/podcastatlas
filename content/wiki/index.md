@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界](sources/ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1.md) — LateTalk episode with SAP's Yuan Xin on ERP, AI coding, SaaS pricing pressure, FDE, autonomous enterprise, enterprise data foundations, SAP-Alibaba cooperation, and why business-process trust constrains AI disruption.
 - [Opening the curtain of AI business integration](sources/tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128.md) — Marketplace Tech episode with Priya Rathod of Indeed on employer demand for AI skills, AI native workers, worker readiness gaps, manager fluency, governance/privacy concerns, and AI job-security anxiety.
 - [Cockroaches 1, Modi 0: India’s remarkable protests](sources/cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8.md) — The Intelligence episode on India’s cockroach protests, advance-news trading failures, and Invader’s street-art scavenger game.
 - [What makes a toy go viral](sources/what-makes-a-toy-go-viral.md) — Planet Money episode on Squishy Dumplings, RMS, mystery packaging, TikTok unboxing, scarcity drops, Five Below, and a no-warehouse viral toy supply chain.
@@ -879,6 +880,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Yuan Xin / 原欣](entities/YuanXin.md) — SAP guest in the LateTalk episode explaining ERP, autonomous enterprise, FDE, and enterprise AI deployment boundaries.
+- [SAP Joule / Joule Work](entities/SAPJoule.md) — SAP assistant/work-entry layer for intent recognition, agent dispatch, and natural-language enterprise workflows.
+- [SAP Signavio](entities/SAPSignavio.md) — SAP process-analysis product mentioned in the source's China enterprise globalization and efficiency discussion.
+- [SAP S/4HANA](entities/SAPS4HANA.md) — SAP ERP product reference used to distinguish code generation from embedded business logic and process trust.
+- [Feishu / 飞书](entities/Feishu.md) — Collaboration surface contrasted with backend ERP and enterprise systems in the source.
+- [Salesforce](entities/Salesforce.md) — Enterprise SaaS comparison point for AI pressure on CRM/domain software versus ERP platforms.
+- [Workday](entities/Workday.md) — Enterprise SaaS comparison point for domain software versus broader ERP platforms.
 - [Priya Rathod](entities/PriyaRathod.md) — Indeed representative interviewed by Marketplace Tech on AI native workers, worker readiness, manager AI fluency, and job-security anxiety around workplace AI.
 - [Abhijit Tipke](entities/AbhijitTipke.md) — Tweet author whose cockroach meme helped turn an insult against jobless youth into a shared protest identity.
 - [Bharatiya Janata Party](entities/BharatiyaJanataParty.md) — India’s ruling-party context for the cockroach protests, anti-national labeling, and Modi-era political strength.
@@ -6000,6 +6008,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Enterprise Resource Planning](concepts/EnterpriseResourcePlanning.md) — ERP as the backend business-process system coordinating finance, people, materials, procurement, orders, suppliers, payments, and audit-critical data.
+- [ERP Trust Moat](concepts/ERPTrustMoat.md) — Defensibility of ERP systems rooted in governed processes, trusted data, compliance, localization, auditability, and industry know-how rather than code alone.
+- [Autonomous Enterprise](concepts/AutonomousEnterprise.md) — SAP's bounded agent-era vision of moving enterprise software from recording activity toward executable workflows with human review.
+- [Enterprise Operational Memory](concepts/EnterpriseOperationalMemory.md) — Business-object, ontology, process-history, unstructured-record, and offline-decision foundation agents need before acting in enterprise workflows.
+- [China Enterprise AI System Debt](concepts/ChinaEnterpriseAISystemDebt.md) — Chinese enterprise AI adoption constraint caused by underbuilt information systems, data governance, and process foundations.
 - [Workplace AI Readiness Gap](concepts/WorkplaceAIReadinessGap.md) — Employer-worker-manager mismatch where AI skill demand outruns worker confidence, manager fluency, training, and trust.
 - [AI Native Worker](concepts/AINativeWorker.md) — Behavior-based label for workers who use AI to design, execute, and scale workflows end to end, not simply a demographic label.
 - [Managerial AI Fluency Gap](concepts/ManagerialAIFluencyGap.md) — Management-side blocker where managers lack the AI understanding needed to lead, evaluate, or learn from more AI-fluent employees.
