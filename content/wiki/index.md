@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI 发展了 4 年，把应用发展没了？｜AI 年中复盘](sources/ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx.md) — 42章经 mid-2026 AI recap by Qu Kai on the model/application rotation, the 2026 application-market trough, overseas execution, chat-to-coding transition, long-horizon agents, and founder discipline around users, revenue, and cash flow.
 - [Uncanny AI: Why AI bots remember random, sometimes useless information](sources/tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128.md) — Marketplace Tech episode with Janelle Shane on chatbot memory, Claude's awkward callbacks, persistent memory files, salience failures, sensitive-topic overreach, and privacy/security controls.
 - [AI debt is flooding the bond market](sources/tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128.md) — Marketplace Tech episode with Julie Osk of Osk Advisory on AI data-center capex, corporate bond issuance by Amazon/Alphabet/Meta/Oracle/Nvidia/SpaceX, free-cash-flow pressure, interest-rate risk, bond-supply risk, and ROI scrutiny.
 - [New NPR Series: "We Keep Us Safe" from the Embedded podcast](sources/20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer-20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer.md) — Planet Money trailer introducing Embedded's We Keep Us Safe investigation into CHOP, Antonio Mays Jr.'s death, armed protest-zone security, and the contradiction between a safety ideal and a fatal outcome.
@@ -846,6 +847,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [曲凯 / Qu Kai](entities/QuKai.md) — 42章经 founder and host of the mid-2026 AI model/application recap.
+- [唐杰 / Tang Jie](entities/TangJie.md) — Zhipu AI research leader cited through a post-DeepSeek coding/reasoning public letter.
+- [Genspark](entities/Genspark.md) — AI application company referenced as an overseas-oriented revenue example in the 42章经 recap.
+- [Dify](entities/Dify.md) — AI application platform cited as a more overseas-committed application company in the 42章经 recap.
+- [Workmagic](entities/Workmagic.md) — AI application company cited among overseas-oriented revenue examples.
+- [Aestudio](entities/Aestudio.md) — AI application company cited as an overseas-market and revenue example.
+- [OpenClaude](entities/OpenClaude.md) — source-scoped wave of Claude/OpenClaude-style agent projects.
+- [GPT Work](entities/GPTWork.md) — long-horizon agent/work product reference in the post-chat/post-coding stage.
+- [安碧 / Anbi](entities/Anbi.md) — Mo Zihao's soft-hardware/context-capture AI company in the 42章经 recap.
+- [莫子浩 / Mo Zihao](entities/MoZihao.md) — founder of Anbi used as a founder-signal-discipline case.
 - [Embedded podcast](entities/EmbeddedPodcast.md) — NPR investigative podcast launching We Keep Us Safe through a Planet Money trailer handoff.
 - [We Keep Us Safe](entities/WeKeepUsSafe.md) — Embedded investigative true-crime series on CHOP and the unresolved killing of Antonio Mays Jr.
 - [Capitol Hill Organized Protest (CHOP)](entities/CapitolHillOrganizedProtest.md) — Seattle protest zone framed by the trailer as a police-free community experiment that became the site of Antonio Mays Jr.'s death.
@@ -5774,6 +5785,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Application Market Trough](concepts/AIApplicationMarketTrough.md) — 2026 investor-market frame where AI applications face skepticism while model companies regain narrative strength.
 - [Police-Free Protest Space](concepts/PoliceFreeProtestSpace.md) — Protest-zone model where community safety is attempted without ordinary policing, added through the CHOP trailer.
 - [Armed Protest-Zone Security](concepts/ArmedProtestZoneSecurity.md) — Informal armed security response that can emerge inside a protest space under perceived threat.
 - [Safety Ideal Fatal Contradiction](concepts/SafetyIdealFatalContradiction.md) — Pattern where a space organized around protection produces a fatal outcome against someone it claimed to protect.

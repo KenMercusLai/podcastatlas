@@ -13,7 +13,8 @@ sources:
   - women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv
   - youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2
   - dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi
-last_updated: 2026-08-05
+  - ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx
+last_updated: 2026-08-07
 ---
 
 # 42章经
@@ -40,6 +41,8 @@ The Albert episode adds a founder-method and AI product-judgment branch. [[Alber
 
 The later Albert episode adds a software-future branch. It turns [[CodingDemocratization]] into an industry-structure claim through [[SoftwareCreationBarbell]], then into a creator-economy claim through [[SoftwareAsCulturalWork]] and [[MakerCommunity]]. Its finance coda adds [[OnePersonFund]] as a speculative path where coding agents and market data might turn token spend into direct trading feedback.
 
+[[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] adds [[QuKai]]'s mid-2026 AI recap as a show-level synthesis. The episode connects the show's founder and AI application interviews to a broader [[AIApplicationMarketTrough]] argument: models have regained investor heat, applications need stronger revenue and user proof, and founders should avoid reshaping product truth around capital's current preference for model stories.
+
 ## Connections
 - [[ZhuNing]] — guest economist in the episode.
 - [[BubbleNecessaryConditions]], [[BehavioralInvestingBiases]], and [[SpeculativeBubblePsychology]] — main behavioral-finance frame.
@@ -57,3 +60,4 @@ The later Albert episode adds a software-future branch. It turns [[CodingDemocra
 - [[Kuse]], [[Yuhao]], [[Junior]], and [[OpenClawForTeams]] — AI-employee and team-agent product branch added by the Yuhao episode.
 - [[Albert]], [[WinRateStartupStrategy]], [[CodingDemocratization]], and [[Hexfield]] — founder-method, AI coding, and image/video product branch added by the Albert source.
 - [[SoftwareCreationBarbell]], [[SoftwareAsCulturalWork]], [[MakerCommunity]], and [[OnePersonFund]] — software-future branch added by the later Albert conversation.
+- [[QuKai]], [[AIApplicationMarketTrough]], [[ZhipuAI]], [[Manus]], and [[Anbi]] — mid-2026 AI recap branch on model/application rotation and founder signal discipline.

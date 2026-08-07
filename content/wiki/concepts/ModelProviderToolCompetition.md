@@ -2,8 +2,8 @@
 title: "Model Provider Tool Competition"
 type: concept
 tags: [ai, competition, tools, platforms]
-sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f]
-last_updated: 2026-07-09
+sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]
+last_updated: 2026-08-07
 ---
 
 # Model Provider Tool Competition
@@ -26,6 +26,8 @@ Model provider tool competition is the pressure that appears when frontier model
 
 [[yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f]] adds the founder-anxiety version through [[Mengqi]]. The practical question "what is different from [[ClaudeCode]]?" pushed [[InvokoAI]] away from generic software/Agent claims and toward product-experience arguments around [[Clico]], user context, and maintenance.
 
+[[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] adds the macro-founder version. [[QuKai]] says the market's "models eat applications" narrative has become strong enough that some investors claim not to look at applications, while coding products such as [[ClaudeCode]], [[Codex]], and [[GPTWork]] make the platform pressure visible. The source still treats this as a pressure, not a verdict: applications can survive if they own the "nail" of user demand rather than only the "hammer" of model capability.
+
 ## Key Claims
 - If a tool's core capability comes from a model provider, official tools can compress the startup's differentiation once the provider enters the workflow directly.
 - Startups can still defend value through interaction design, workflow integration, review surfaces, autocomplete quality, user habits, distribution, and non-LLM product capability.
@@ -43,6 +45,7 @@ Model provider tool competition is the pressure that appears when frontier model
 - The same pressure can appear in creative software: image and video tool companies need defensibility beyond exposing the current best generation model.
 - Q2 2026 adds a broader system version: provider-owned coding, collaboration, computer-use, and research-automation loops can reinforce one another.
 - Application founders feel this pressure before direct competition arrives, because stronger coding agents make investors, users, and founders treat many product ideas as easier to clone.
+- Investor narrative can amplify the pressure before direct product substitution is proven, pushing founders to overperform model, agent, or context-engineering stories instead of proving user pull.
 
 ## Connections
 - [[Cursor]], [[Windsurf]], [[ClaudeCode]], [[GeminiCLI]], and [[Devin]] — coding-tool cases in the source.
@@ -59,3 +62,4 @@ Model provider tool competition is the pressure that appears when frontier model
 - [[Sora]], [[Adobe]], [[Meitu]], [[AIApplicationLayerMoat]], and [[VerticalWorkflowAI]] — creative-tool extension added by Luanfanshu.
 - [[GPT56]], [[Fable5]], [[Cursor]], [[ClaudeTag]], and [[RecordAndReplay]] — Q2 2026 system-competition update added by LateTalk.
 - [[Mengqi]], [[InvokoAI]], [[Clico]], and [[AIApplicationLayerMoat]] — founder-pivot case where model-provider pressure pushes differentiation toward experience.
+- [[AIApplicationMarketTrough]], [[QuKai]], [[GPTWork]], [[OpenClaude]], and [[Anbi]] — source where model-provider pressure becomes a broad application-market and fundraising problem.

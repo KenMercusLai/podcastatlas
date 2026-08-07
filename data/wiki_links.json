@@ -1219,6 +1219,10 @@
     "title": "AI Application Layer Moat",
     "url": "/wiki/concepts/aiapplicationlayermoat/"
   },
+  "AIApplicationMarketTrough": {
+    "title": "AI Application Market Trough",
+    "url": "/wiki/concepts/aiapplicationmarkettrough/"
+  },
   "AIAsBusinessOperator": {
     "title": "AI As Business Operator",
     "url": "/wiki/concepts/aiasbusinessoperator/"
@@ -2363,6 +2367,10 @@
     "title": "AeroFS",
     "url": "/wiki/entities/aerofs/"
   },
+  "Aestudio": {
+    "title": "Aestudio",
+    "url": "/wiki/entities/aestudio/"
+  },
   "AetherAI": {
     "title": "Aether AI",
     "url": "/wiki/entities/aetherai/"
@@ -3214,6 +3222,10 @@
   "Anaya": {
     "title": "Anaya / 阿那亚",
     "url": "/wiki/entities/anaya/"
+  },
+  "Anbi": {
+    "title": "安碧 / Anbi",
+    "url": "/wiki/entities/anbi/"
   },
   "Ancestrality": {
     "title": "Ancestrality",
@@ -9539,6 +9551,10 @@
     "title": "Diffusion Transformers",
     "url": "/wiki/concepts/diffusiontransformers/"
   },
+  "Dify": {
+    "title": "Dify",
+    "url": "/wiki/entities/dify/"
+  },
   "Digg": {
     "title": "Digg",
     "url": "/wiki/entities/digg/"
@@ -13179,6 +13195,10 @@
     "title": "GPT-5.6",
     "url": "/wiki/entities/gpt56/"
   },
+  "GPTWork": {
+    "title": "GPT Work",
+    "url": "/wiki/entities/gptwork/"
+  },
   "GPU": {
     "title": "GPU",
     "url": "/wiki/entities/gpu/"
@@ -13522,6 +13542,10 @@
   "GenreLiteraryLegitimacy": {
     "title": "Genre Literary Legitimacy / 类型文学正名",
     "url": "/wiki/concepts/genreliterarylegitimacy/"
+  },
+  "Genspark": {
+    "title": "Genspark",
+    "url": "/wiki/entities/genspark/"
   },
   "GentleMonster": {
     "title": "Gentle Monster",
@@ -21911,6 +21935,10 @@
     "title": "莫晨 / Mo Chen",
     "url": "/wiki/entities/mochen/"
   },
+  "MoZihao": {
+    "title": "莫子浩 / Mo Zihao",
+    "url": "/wiki/entities/mozihao/"
+  },
   "Mobike": {
     "title": "Mobike / 摩拜",
     "url": "/wiki/entities/mobike/"
@@ -23694,6 +23722,10 @@
   "OpenBionics": {
     "title": "Open Bionics",
     "url": "/wiki/entities/openbionics/"
+  },
+  "OpenClaude": {
+    "title": "OpenClaude",
+    "url": "/wiki/entities/openclaude/"
   },
   "OpenClaw": {
     "title": "Open Claw",
@@ -26358,6 +26390,10 @@
   "QizhulouYanBinke": {
     "title": "起朱楼宴宾客 / Qizhulou Yan Binke",
     "url": "/wiki/entities/qizhulouyanbinke/"
+  },
+  "QuKai": {
+    "title": "曲凯 / Qu Kai",
+    "url": "/wiki/entities/qukai/"
   },
   "QuToutiao": {
     "title": "QuToutiao",
@@ -31259,6 +31295,10 @@
     "title": "唐辉 / Tang Hui",
     "url": "/wiki/entities/tanghui/"
   },
+  "TangJie": {
+    "title": "唐杰 / Tang Jie",
+    "url": "/wiki/entities/tangjie/"
+  },
   "TangJun": {
     "title": "Tang Jun / 唐骏",
     "url": "/wiki/entities/tangjun/"
@@ -34471,6 +34511,10 @@
     "title": "Work Self-Worth Boundary / 工作与自我价值边界",
     "url": "/wiki/concepts/workselfworthboundary/"
   },
+  "Workmagic": {
+    "title": "Workmagic",
+    "url": "/wiki/entities/workmagic/"
+  },
   "WorkplaceAITransparency": {
     "title": "Workplace AI Transparency",
     "url": "/wiki/concepts/workplaceaitransparency/"
@@ -36234,6 +36278,10 @@
   "agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq": {
     "title": "“AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人",
     "url": "/wiki/sources/agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq/"
+  },
+  "ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx": {
+    "title": "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘",
+    "url": "/wiki/sources/ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx/"
   },
   "ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1": {
     "title": "AI 会写代码了，为什么你还是做不出产品？",

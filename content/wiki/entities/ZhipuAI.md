@@ -2,8 +2,8 @@
 title: "Zhipu AI"
 type: entity
 tags: [company, ai, open-source-ai, china]
-sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
-last_updated: 2026-07-17
+sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]
+last_updated: 2026-08-07
 ---
 
 # Zhipu AI
@@ -18,6 +18,8 @@ Zhipu AI is discussed in [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinleng
 
 [[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]] mentions ZAI as a Chinese model provider U.S. policymakers do not want domestic companies to depend on. The source adds a geopolitical-demand angle to Zhipu AI's existing [[OpenSourceAIModels]] role: cheap or capable Chinese models can become attractive to U.S. firms precisely when policy wants domestic alternatives.
 
+[[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] adds Zhipu AI as a market-cycle and coding-stage case. [[QuKai]] says Zhipu and [[MiniMax]] listings were read by some observers as a top signal, but he also treats Zhipu as one of the most interesting model-company examples because it moved from being doubted to a stronger stage position. The source also cites [[TangJie]]'s public-letter argument that after [[DeepSeek]] R1, Zhipu emphasized coding and reasoning.
+
 ## Source Position
 - The episode says Zhipu's messaging emphasized that large-model intelligence should belong to all humanity.
 - The hosts think the release timing looked rushed because API and benchmark materials were not fully ready.
@@ -25,6 +27,7 @@ Zhipu AI is discussed in [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinleng
 - The GLM5 source position is practical rather than benchmark-oriented: it supports [[AIProgrammingEngineShift]] and [[AIEngineeringThinking]] by showing how fast generated implementation changes the bottleneck.
 - Episode 136 places Zhipu AI inside the domestic shift toward coding, agents, and high-value task automation.
 - The LateTalk source connects Zhipu AI to [[EnterpriseOwnedModels]] and enterprise post-training rather than only general open-model substitution.
+- The 42章经 mid-year recap presents Zhipu AI as a model-company rebound case and a source for the chat-to-coding/reasoning transition.
 
 ## Connections
 - [[GLM52]] — model release discussed in the episode.
@@ -35,3 +38,4 @@ Zhipu AI is discussed in [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinleng
 - [[Kimi]], [[MiniMax]], [[Doubao]], [[AGIThreeActs]], and [[ModelAsOperatingSystem]] — domestic model-company convergence frame added by episode 136.
 - [[Harvey]], [[AppliedCompute]], and [[EnterpriseOwnedModels]] — Q2 2026 domain post-training route added by LateTalk.
 - [[AIExportControls]], [[FrontierModelAccessRestrictions]], and [[UnitedStates]] - policy and dependence-risk branch added by Marketplace Tech.
+- [[TangJie]], [[AIApplicationMarketTrough]], [[MiniMax]], [[DeepSeek]], and [[ModelProviderToolCompetition]] — mid-2026 market-cycle and coding-stage frame added by 42章经.

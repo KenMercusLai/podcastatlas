@@ -6761,3 +6761,11 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | AI 发展了 4 年，把应用发展没了？｜AI 年中复盘
+
+Added source page for a 42章经 mid-2026 AI recap by 曲凯 / Qu Kai on the 2023-2026 model/application cycle, application-market trough, Zhipu/MiniMax/model heat, Manus/Genspark/Dify/Workmagic/Aestudio overseas execution, chat-to-coding transition, long-horizon agents, and founder discipline around user value, payment, and cash flow. Created pages for Qu Kai, Tang Jie, Genspark, Dify, Workmagic, Aestudio, OpenClaude, GPT Work, Anbi, Mo Zihao, and AI Application Market Trough; updated 42章经, AI application/commercialization/payment/model-provider/founder/cycle pages, and related model/application entities. No direct contradiction found; source-scoped revenue/listing claims are recorded as market observations rather than independently verified financial data.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint scanned 9,624 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-24 with 6,453 nodes while the current wiki scan found 9,624 pages; they found no hub stubs, three fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. No lint report file was saved.

@@ -32,10 +32,13 @@ sources:
   - 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1
   - tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128
   - dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi
+  - ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx
 last_updated: 2026-08-07
 ---
 
 # AI Commercialization Pressure
+
+[[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] adds the venture-market split between model heat and application coldness. [[QuKai]] argues that investors can currently see model-company value more easily than application-company value, especially after coding and reasoning progress, but application companies still have to prove commercialization through revenue, overseas execution, user value, and cash-flow survival rather than through AI labels.
 
 [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds the stage-boundary version. [[Ricky]] argues that coding and office-productivity substitution have become commercial enough for markets to price, while broad labor substitution remains the larger but less certain commercialization problem; this makes [[AILaborSubstitutionValuationBoundary]] a valuation and business-model issue, not only a labor-market issue.
 
@@ -134,6 +137,7 @@ AI commercialization pressure is the tension between technical influence, user a
 - General robot startups face commercialization pressure because the route to [[PhysicalAGI]] may require long model training, expensive hardware, and patient capital before task-level performance looks consistently better than specialized robots.
 - [[RobotActiveUseMetrics]] can discipline commercialization by asking whether robots remain useful after purchase rather than whether they were produced, sold, or shown once.
 - Hyperscaler AI capex adds a public-market clock: investors may believe in AI while still demanding visible revenue, agent adoption, consumer use, or third-party infrastructure demand within a few years.
+- Model-company momentum can worsen application commercialization pressure by raising the proof bar: application teams need revenue, customer pull, and market-specific payment evidence, not only a plausible wrapper around improving models.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — strategic context where the pressure appears.
@@ -153,6 +157,7 @@ AI commercialization pressure is the tension between technical influence, user a
 - [[MicoAILab]], [[Simon]], [[AIStartupUnitEconomics]], and [[CharacterAI]] — AI game/social route added by EP101.
 - [[WeilaiBuyuan]], [[F2HomeRobot]], [[HomeServiceRobots]], [[HouseholdRobotDataFlywheel]], and [[ConsumerRoboticsFullStack]] — home-robotics commercialization route added by the Weilai Buyuan source.
 - [[Manus]], [[Meta]], [[AIAgentOverseasCommercialization]], [[ChinaAgentMarketFriction]], and [[ModelProviderToolCompetition]] — AI-agent exit and market-fit route added by the Manus source.
+- [[AIApplicationMarketTrough]], [[QuKai]], [[Genspark]], [[Dify]], [[Workmagic]], and [[Aestudio]] — 42章经 source where application commercialization is judged by overseas revenue and user value rather than investor appetite.
 - [[OnePersonCompany]], [[CustomerPull]], [[PreProductSelling]], and [[ProductLedWillingnessToPay]] — individual-founder commercialization route added by the OPC source.
 - [[WhatsNextKejiZaozhidao]], [[AmazonWebServices]], [[FromIdeaToFrontier]], [[YuYi]], and [[CangShifu]] — S10E18's accelerator, solo-founder, and agent-management extension.
 - [[Albert]], [[SoftwareAsCulturalWork]], [[MakerCommunity]], and [[OnePersonFund]] — creator-side and OPF qualification added by the later 42章经 source.
