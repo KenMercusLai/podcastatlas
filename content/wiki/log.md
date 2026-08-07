@@ -7205,3 +7205,11 @@ Added source page for a 硬地骇客 episode with 刘可凡 on using `try-catch-
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] ingest | Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It
+
+Added source page for a How I Built This episode with Lily Kanter and Serena Dugan on building Serena & Lily from premium nursery bedding into a broader home brand, covering Mill Valley Baby, early specialty-retail demand, Wendy Bellissimo's channel shift, wholesale deposits, DTC catalog growth, financial-crisis fundraising, investor conflict, a 2x participating preferred structure, acquisition-offer constraints, the Hamptons store, majority-shareholder restructuring, and founder exit. Created pages for Serena & Lily, Lily Kanter, Serena Dugan, Mill Valley Baby, Wendy Bellissimo, Maveron, Bad Money, Liquidation Preference Stack, and Inventory-Heavy Consumer Brand Financing; updated overview, index, How I Built This, Guy Raz, Founder Cash Flow Constraint, Direct To Consumer Cash Flow, Direct-to-Consumer Brand Control, Startup Governance, Financial Gravity, Investor Reference Checking, Consumer Brand Moat, Experiential Retail, Retail Site Selection, and Founder Role Transition. No direct contradiction found; the source qualifies consumer-brand growth optimism by showing that strong demand can increase financing danger when inventory, catalogs, stores, board conflict, and preference terms are undercapitalized or misaligned.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

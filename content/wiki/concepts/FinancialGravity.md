@@ -2,8 +2,8 @@
 title: "Financial Gravity"
 type: concept
 tags: [startup, governance, power, incentives]
-sources: [eric-ries-on-how-founders-quietly-lose-their-company, eric-ries-incorruptible-by-design-wrgromn5peq, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]
-last_updated: 2026-07-09
+sources: [serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66, eric-ries-on-how-founders-quietly-lose-their-company, eric-ries-incorruptible-by-design-wrgromn5peq, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]
+last_updated: 2026-08-08
 ---
 
 # Financial Gravity
@@ -13,6 +13,8 @@ Financial gravity is [[EricRies]]'s term for the pull created by economic or sta
 [[e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2]] adds the finance-platform version through [[YouzhiYouxing]]. The pressure is not only investor or acquirer power; it is also the everyday availability of higher take rate, paid exposure, product expansion, bull-market conversion, and talent-cost pressure inside a trust-heavy wealth-management business.
 
 [[advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]] adds a smaller CPG version through [[JajuPierogi]]. [[CaseyWhite]] faces the industry assumption that grocery growth eventually requires outside capital, while [[JeniBritton]] reframes capital as a power tradeoff that should be delayed or bounded when loans, grants, friends-and-family funding, or advisors can solve the immediate operating need.
+
+[[serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66]] adds [[SerenaAndLily|Serena & Lily]] as a high-growth consumer-brand version. [[LilyKanter]] and [[SerenaDugan]] had demand and fast DTC growth, but urgent working-capital needs made the company vulnerable to [[BadMoney]], board conflict, and a [[LiquidationPreferenceStack]] that shaped acquisition choices after the cash was spent.
 
 ## Key Claims
 - Financial pressure can redirect a company without anyone explicitly deciding to abandon the mission.
@@ -25,6 +27,7 @@ Financial gravity is [[EricRies]]'s term for the pull created by economic or sta
 - Capital can reshape location, pace, and exit expectations even before an investor actually closes a round.
 - Financial platforms face a direct version of gravity when higher-margin revenue paths are available but would weaken [[TrustAsBusinessAsset]] or [[InvestmentForBetterLife]].
 - CPG capital can exert gravity by making fundraising feel like the normal status path even when the company needs a narrower financing or advisory solution.
+- Inventory-heavy brand growth can strengthen financial gravity because the company needs cash most visibly when orders, catalogs, and stores are already expanding.
 
 ## Connections
 - [[EricRies]] - source of the term in this wiki.
@@ -40,3 +43,4 @@ Financial gravity is [[EricRies]]'s term for the pull created by economic or sta
 - [[Shopify]], [[TobiasLutke]], and [[BessemerVenturePartners]] - venture-scale case where funding expectations changed the company's path.
 - [[YouzhiYouxing]], [[FinancialPlatformIncentives]], [[InvestorSuitabilityFriction]], and [[KnowingEnough]] - finance-platform version added by E44.
 - [[JajuPierogi]], [[CaseyWhite]], [[StartupGovernance]], and [[SustainableGrowthPace]] - CPG growth-financing case where outside capital can change control before it solves the operating problem.
+- [[SerenaAndLily|Serena & Lily]], [[LilyKanter]], [[SerenaDugan]], [[InventoryHeavyConsumerBrandFinancing]], [[BadMoney]], and [[LiquidationPreferenceStack]] - consumer-brand case where growth and weak financing terms pulled against founder optionality.

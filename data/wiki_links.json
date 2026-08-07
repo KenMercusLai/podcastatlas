@@ -4607,6 +4607,10 @@
     "title": "宝宝树 / BabyTree",
     "url": "/wiki/entities/babytree/"
   },
+  "BadMoney": {
+    "title": "Bad Money",
+    "url": "/wiki/concepts/badmoney/"
+  },
   "BafangElectric": {
     "title": "Bafang Electric / 八方股份",
     "url": "/wiki/entities/bafangelectric/"
@@ -17551,6 +17555,10 @@
     "title": "Invasive Species Management",
     "url": "/wiki/concepts/invasivespeciesmanagement/"
   },
+  "InventoryHeavyConsumerBrandFinancing": {
+    "title": "Inventory-Heavy Consumer Brand Financing",
+    "url": "/wiki/concepts/inventoryheavyconsumerbrandfinancing/"
+  },
   "InventoryWriteDownRisk": {
     "title": "Inventory Write-Down Risk",
     "url": "/wiki/concepts/inventorywritedownrisk/"
@@ -20675,6 +20683,10 @@
     "title": "Lijiang / 丽江",
     "url": "/wiki/entities/lijiang/"
   },
+  "LilyKanter": {
+    "title": "Lily Kanter",
+    "url": "/wiki/entities/lilykanter/"
+  },
   "LimestoneLoopCarbonCapture": {
     "title": "Limestone Loop Carbon Capture",
     "url": "/wiki/concepts/limestoneloopcarboncapture/"
@@ -20758,6 +20770,10 @@
   "LionelMessi": {
     "title": "Lionel Messi",
     "url": "/wiki/entities/lionelmessi/"
+  },
+  "LiquidationPreferenceStack": {
+    "title": "Liquidation Preference Stack",
+    "url": "/wiki/concepts/liquidationpreferencestack/"
   },
   "LiquidityDrivenVolatilityCascade": {
     "title": "Liquidity-Driven Volatility Cascade",
@@ -22371,6 +22387,10 @@
     "title": "Maureen Thorson",
     "url": "/wiki/entities/maureenthorson/"
   },
+  "Maveron": {
+    "title": "Maveron",
+    "url": "/wiki/entities/maveron/"
+  },
   "MawuLisa": {
     "title": "Mawu-Lisa",
     "url": "/wiki/entities/mawulisa/"
@@ -23114,6 +23134,10 @@
   "MilkBar": {
     "title": "Milk Bar",
     "url": "/wiki/entities/milkbar/"
+  },
+  "MillValleyBaby": {
+    "title": "Mill Valley Baby",
+    "url": "/wiki/entities/millvalleybaby/"
   },
   "Millian": {
     "title": "Millian",
@@ -30543,6 +30567,14 @@
     "title": "Sequoia Capital",
     "url": "/wiki/entities/sequoiacapital/"
   },
+  "SerenaAndLily": {
+    "title": "Serena & Lily",
+    "url": "/wiki/entities/serenaandlily/"
+  },
+  "SerenaDugan": {
+    "title": "Serena Dugan",
+    "url": "/wiki/entities/serenadugan/"
+  },
   "Seres": {
     "title": "Seres / 赛力斯",
     "url": "/wiki/entities/seres/"
@@ -36295,6 +36327,10 @@
     "title": "闻一多 / Wen Yiduo",
     "url": "/wiki/entities/wenyiduo/"
   },
+  "WendyBellissimo": {
+    "title": "Wendy Bellissimo",
+    "url": "/wiki/entities/wendybellissimo/"
+  },
   "WendyLiu": {
     "title": "Wendy Liu",
     "url": "/wiki/entities/wendyliu/"
@@ -39750,6 +39786,10 @@
   "sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156": {
     "title": "三联串台｜神赐给人葡萄，世界微醺了",
     "url": "/wiki/sources/sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156/"
+  },
+  "serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66": {
+    "title": "Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It",
+    "url": "/wiki/sources/serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66/"
   },
   "seven-allegedly-fake-chanel-bags-vs-the-realreal": {
     "title": "Seven allegedly fake Chanel bags vs The RealReal",
