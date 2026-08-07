@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line with Chris Riccobono of UNTUCKit](sources/advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c.md) — How I Built This Advice Line episode with Chris Riccobono on UNTUCKit, Greatness Wins, AeroShorts, Snug Safety, Hockey Ninja, core-tribe positioning, wholesale as marketing, trust-based distribution, and safety-product credibility.
 - [175: 对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻](sources/duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1.md) — LateTalk episode with Evoken/Liblib founder Chen Mian on AI application survival, Lib TV pricing, model-provider pressure, cash-flow claims, creative-tool moats, and organization repair.
 - [Vol.268 两个劳斯莱斯](sources/vol-268-liang-ge-lao-si-lai-si-1003563933.md) — 商业就是这样 episode on Rolls-Royce's split between aircraft engines and cars, RB211 fixed-price engineering risk, the Lockheed L-1011 TriStar, British nationalization, Lockheed's bailout pressure, and the bribery scandal that reached Japan and the FCPA.
 - [EP91 订房订票定江山，携程51亿为傲慢买单](sources/ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw.md) — 一劳永逸 episode on Ctrip's 51.79亿元 antitrust penalty, merchant exclusivity, full-network-lowest-price enforcement, OTA competition history, consumer trust, internationalization, customer service, and AI travel planning.
@@ -890,6 +891,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Chris Riccobono](entities/ChrisRiccobono.md) — UNTUCKit co-founder and Advice Line guest emphasizing focus, cash, channel fit, wholesale discovery, trust channels, and professional proof.
+- [UNTUCKit](entities/UNTUCKit.md) — Apparel brand built around shirts designed to be worn untucked, now used as a case for mature DTC pressure and wholesale expansion.
+- [Greatness Wins](entities/GreatnessWins.md) — Chris Riccobono sportswear brand using green-grass golf shops as both revenue channel and discovery surface.
+- [Aaron Sanandres](entities/AaronSanandres.md) — UNTUCKit co-founder named in the Chris Riccobono Advice Line recap.
+- [AeroShorts](entities/AeroShorts.md) — Hybrid-shorts brand advised to define a core tribe around volleyball and student customers before chasing mainstream athletic apparel.
+- [Adrian Alvarez](entities/AdrianAlvarez.md) — AeroShorts founder and student founder asking how early traction can become a broader apparel brand.
+- [Snug Safety](entities/SnugSafety.md) — Daily check-in service for seniors living alone, used as a trust-based distribution and measured-channel-testing case.
+- [Preet Anand](entities/PreetAnand.md) — Snug Safety founder asking how to grow awareness for a senior-safety product on a limited marketing budget.
+- [Life Alert](entities/LifeAlert.md) — Emergency-alert comparison used to clarify Snug Safety's daily reassurance positioning.
+- [Hockey Ninja](entities/HockeyNinja.md) — Protective hockey visor and face-shield company advised to seek player and equipment-manager credibility.
+- [Derek (Hockey Ninja)](entities/DerekHockeyNinja.md) — Hockey Ninja founder/caller weighing social media against NHL equipment-manager and player validation.
 - [Chen Mian / 陈冕](entities/ChenMian.md) — Evoken founder explaining Liblib, Lib TV, AI application survival, low-margin growth, and organization repair in LateTalk episode 175.
 - [Evoken / 言语科技](entities/Evoken.md) — AI creative-application company behind Liblib, Lavod, and Lib TV, used as a case for application survival under model pressure.
 - [Liblib](entities/Liblib.md) — Evoken designer-oriented model and material sharing community, used to discuss creative-workflow moats and application-layer pressure.
@@ -6075,6 +6087,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Core Tribe Positioning](concepts/CoreTribePositioning.md) — Practice of defining the first customer community that clearly understands and validates a product before mainstream expansion.
+- [Wholesale As Marketing](concepts/WholesaleAsMarketing.md) — Channel pattern where third-party retail placement drives discovery, trust, and later owned-channel purchasing, not only immediate wholesale revenue.
+- [Trust-Based Distribution](concepts/TrustBasedDistribution.md) — Distribution pattern where products reach buyers through people, media, institutions, or communities that already carry credibility.
+- [Safety Product Credibility](concepts/SafetyProductCredibility.md) — Need for protective products to be validated by trusted users, tests, institutions, or professionals before safety claims become believable.
 - [AI Application Survival Strategy](concepts/AIApplicationSurvivalStrategy.md) — Operator frame for independent AI application companies using speed, cash flow, low positive margin, user scale, workflow focus, and organization repair to survive model shocks.
 - [Fixed Price Engineering Risk](concepts/FixedPriceEngineeringRisk.md) — RB211 pattern where fixed price, penalties, ambitious performance, and immature technology convert engineering delay into solvency risk.
 - [Airframe Engine Lock-In](concepts/AirframeEngineLockIn.md) — L-1011/RB211 dependency where the airframe could not simply change engine suppliers after delay and cost trouble emerged.

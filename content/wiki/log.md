@@ -7125,3 +7125,11 @@ Added source page for a LateTalk episode with Chen Mian of Evoken on Liblib, Lav
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] ingest | Advice Line with Chris Riccobono of UNTUCKit
+
+Added source page for a How I Built This Advice Line episode with Chris Riccobono of UNTUCKit on AeroShorts, Snug Safety, and Hockey Ninja. Created pages for Chris Riccobono, UNTUCKit, Greatness Wins, Aaron Sanandres, AeroShorts, Adrian Alvarez, Snug Safety, Preet Anand, Life Alert, Hockey Ninja, Derek (Hockey Ninja), Core Tribe Positioning, Wholesale As Marketing, Trust-Based Distribution, and Safety Product Credibility; updated overview, index, How I Built This, Guy Raz, AI Discovery SEO, Measured Channel Testing, Channel Focus Experiments, Subculture Led Marketing, Athlete Sponsorship Strategy, Trust As Business Asset, and Relationship-Led Growth. No direct contradiction found; the source reinforces that channel strategy has to match the buyer's trust behavior rather than defaulting to paid social or broad awareness.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
