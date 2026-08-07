@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI debt is flooding the bond market](sources/tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128.md) — Marketplace Tech episode with Julie Osk of Osk Advisory on AI data-center capex, corporate bond issuance by Amazon/Alphabet/Meta/Oracle/Nvidia/SpaceX, free-cash-flow pressure, interest-rate risk, bond-supply risk, and ROI scrutiny.
 - [AI firms are going back on their safety promises](sources/tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128.md) — Marketplace Tech episode with Sabina Nong of the Future of Life Institute on slipping AI lab safety grades, voluntary pause commitments, recursive self-improvement risk, tool AI, and state-level safety-framework regulation.
 - [173: 对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后](sources/173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1.md) — LateTalk interview with Yao Song on DeePhi Tech, Xilinx acquisition, Orienspace, Gravity-1, Striding AI, physical-intelligence system stacks, VLA bottlenecks, robot demo authenticity, and hard-tech founder risk calibration.
 - [可以给你的 Agent 发一点零花钱了｜ S10E22](sources/keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311.md) — What's Next episode with Patrick Wu of Clink and Gao Ning on agent payment infrastructure, agentic commerce, small-budget agent wallets, Visa's demo, stablecoins, merchant readiness, and creator monetization in agent-led interfaces.
@@ -843,6 +844,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Julie Osk](entities/JulieOsk.md) — Osk Advisory technology analyst explaining AI infrastructure bond issuance, free-cash-flow pressure, and ROI risk on Marketplace Tech.
+- [Osk Advisory](entities/OskAdvisory.md) — Advisory firm context for Julie Osk's Marketplace Tech analysis of AI infrastructure debt financing.
 - [Future of Life Institute](entities/FutureOfLifeInstitute.md) — AI safety and policy organization whose semi-annual report card grades major AI labs on safety practices and commitments.
 - [Sabina Nong](entities/SabinaNong.md) — Future of Life Institute representative explaining AI lab safety report cards, pause commitments, and tool-AI governance on Marketplace Tech.
 - [Yao Song / 姚颂](entities/YaoSong.md) — Continuous hard-tech founder behind DeePhi Tech, Orienspace, and Striding AI in the LateTalk episode.

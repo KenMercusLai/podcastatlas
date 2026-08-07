@@ -2,11 +2,13 @@
 title: "AI Infrastructure Debt Financing"
 type: concept
 tags: [ai, infrastructure, finance, debt]
-sources: [151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]
-last_updated: 2026-08-06
+sources: [tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # AI Infrastructure Debt Financing
+
+[[tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128]] adds the sector-wide corporate-bond version. [[JulieOsk|Julie Osk]] says [[Amazon]], [[Alphabet]], [[Meta]], [[Oracle]], [[Nvidia]], and [[SpaceX]] are using bonds as AI data-center capex rises beyond older free-cash-flow norms. The source makes bond-market absorption, interest rates, long-lived data-center assets, and repeated issuer supply part of the concept, not just whether one borrower has a weak or strong balance sheet.
 
 [[151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]] adds the [[PrivateCreditMarket|private-credit]] version through [[AIDataCenterPrivateCreditFinancing]]. The episode uses [[XAI|xAI]] chip financing and [[Meta]]'s data-center joint venture to show how AI capex can be funded through leases, project companies, private-credit funds, insurance-linked capital, and long-dated debt rather than only hyperscaler cash flow.
 

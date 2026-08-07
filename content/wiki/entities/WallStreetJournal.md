@@ -2,11 +2,13 @@
 title: "Wall Street Journal"
 type: entity
 tags: [media, journalism, workplace, publishing]
-sources: [tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # Wall Street Journal
+
+[[tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128]] adds the Wall Street Journal as the publication cited by [[MarketplaceTech]] for large technology-company bond issuance figures in the AI infrastructure buildout. In this source, the Journal is a reporting input to [[JulieOsk|Julie Osk]]'s analysis of [[AIInfrastructureDebtFinancing]], [[DataCenterDebtRisk]], and the question of how much AI-related debt public markets can absorb.
 
 The Wall Street Journal enters the wiki through [[RaySmith]]'s affiliation in [[tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128]]. In this [[MarketplaceTech]] source, it functions as the reporting context behind Smith's discussion of [[AIInterviewing]], candidate preparation, and how automated assessments are moving deeper into the hiring process.
 

@@ -6737,3 +6737,11 @@ Added source page for a Marketplace Tech episode with Sabina Nong of the Future 
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | AI debt is flooding the bond market
+
+Added source page for a Marketplace Tech episode with Julie Osk of Osk Advisory on large technology companies using corporate bonds to finance AI data-center infrastructure. Created pages for Julie Osk and Osk Advisory; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Amazon, Alphabet, Meta, Oracle, Nvidia, SpaceX, Wall Street Journal, AI Infrastructure Debt Financing, Data Center Debt Risk, AI Equity Valuation Risk, AI Capex Return Window, and AI Investment Metrics. No direct contradiction found; the source qualifies earlier AI infrastructure financing pages by shifting from company-specific debt and private-credit cases to a sector-wide public bond-market absorption problem involving free-cash-flow pressure, interest rates, bond supply, resource constraints, public backlash, and stricter ROI scrutiny.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

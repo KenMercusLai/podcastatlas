@@ -2,11 +2,13 @@
 title: "Alphabet"
 type: entity
 tags: [company, ai, investing]
-sources: [tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
-last_updated: 2026-07-12
+sources: [tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
+last_updated: 2026-08-07
 ---
 
 # Alphabet
+
+[[tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128]] updates Alphabet from a single long-bond case into a broader AI capex pressure example. [[JulieOsk|Julie Osk]] says Alphabet's capital expenditure rose from about $32 billion in fiscal 2023 to about $91 billion in fiscal 2025, with spending expected to almost double this year, making [[AIInfrastructureDebtFinancing]], [[DataCenterDebtRisk]], and [[AICapexReturnWindow]] more concrete for the [[Google]] parent.
 
 [[tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128]] adds Alphabet through [[YouTubeMediaDominance]]. [[JewelBurkeSolomon]] argues that [[YouTube]] benefits from Alphabet's broader properties, user understanding, AI capabilities, and targeting infrastructure, making YouTube's media position partly an ecosystem advantage rather than only a content-library advantage.
 

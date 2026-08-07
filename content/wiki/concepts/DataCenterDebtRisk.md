@@ -2,11 +2,13 @@
 title: "Data Center Debt Risk"
 type: concept
 tags: [ai, data-centers, finance, infrastructure]
-sources: [151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52, tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]
-last_updated: 2026-08-06
+sources: [tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52, tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # Data Center Debt Risk
+
+[[tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128]] adds the public bond-market absorption layer. [[JulieOsk|Julie Osk]] treats long-term bonds as a plausible match for data centers' long physical lives, but the episode also adds risks from rising rates, repeated issuance, uncertain token demand, [[DataCenterBacklash]], resource constraints, regulation, and capex that can outpace revenue or free cash flow.
 
 [[151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]] adds the private-credit financing layer through [[AIDataCenterPrivateCreditFinancing]]. The source's [[XAI|xAI]] and [[Meta]] cases show that data-center risk can sit in chip leases, project companies, private-credit funds, long-dated debt, and termination-option structures even when a headline technology company does not carry the full debt directly.
 

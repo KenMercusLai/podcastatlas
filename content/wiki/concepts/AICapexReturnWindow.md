@@ -2,11 +2,13 @@
 title: "AI Capex Return Window"
 type: concept
 tags: [ai, capex, investing, commercialization]
-sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]
+sources: [tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]
 last_updated: 2026-08-07
 ---
 
 # AI Capex Return Window
+
+[[tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128]] adds a bond-financed return-window layer. [[JulieOsk|Julie Osk]] says 2026 is bringing harder questions about AI ROI, cost, quality, and efficiency after a period when companies pushed generative AI and token usage upward. The source makes the return window more concrete because interest expense and bond-market appetite now sit beside equity-market patience.
 
 [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds the second-quarter confirmation-and-next-test version. [[Ricky]] reads the April 2026 hyperscaler capex response as the event that re-ignited global AI equities, but he still treats third-quarter capex, financing conditions, and market liquidity as live tests of whether the AI buildout can keep supporting asset prices.
 
