@@ -1,0 +1,19 @@
+---
+title: "Mastercard"
+type: entity
+tags: [company, payments, card-network, infrastructure]
+sources: [keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]
+last_updated: 2026-08-07
+---
+
+# Mastercard
+
+Mastercard appears in [[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] as one of the major payment-network companies paying attention to [[AgentPaymentInfrastructure]]. The source does not give a detailed Mastercard product walkthrough, but names it with [[Visa]], [[Stripe]], [[Google]], and [[OpenAI]] as part of the industry movement toward agent-enabled commerce and payment.
+
+In the wiki, Mastercard is therefore a supporting payment-network node for the agent-payment branch. Its relevance is the same structural problem as Visa's: card networks already have acceptance, dispute, and liability systems that could be adapted when the actor initiating payment is an agent under a user's authority.
+
+## Connections
+- [[Visa]] — closest payment-network comparison in this source.
+- [[Stripe]] — payment-company comparison.
+- [[AgentPaymentInfrastructure]], [[AgenticCommerce]], and [[PaymentClearingNetwork]] — concepts Mastercard is attached to through the episode.
+- [[Stablecoins]] — alternative settlement rail discussed in the same market map.

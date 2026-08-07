@@ -2479,6 +2479,10 @@
     "title": "Agent Organizational Culture",
     "url": "/wiki/concepts/agentorganizationalculture/"
   },
+  "AgentPaymentInfrastructure": {
+    "title": "Agent Payment Infrastructure / 智能体支付基础设施",
+    "url": "/wiki/concepts/agentpaymentinfrastructure/"
+  },
   "AgentPermissionBoundaries": {
     "title": "Agent Permission Boundaries",
     "url": "/wiki/concepts/agentpermissionboundaries/"
@@ -2494,6 +2498,10 @@
   "AgentSelfEvolution": {
     "title": "Agent Self-Evolution",
     "url": "/wiki/concepts/agentselfevolution/"
+  },
+  "AgentSpendControls": {
+    "title": "Agent Spend Controls / 智能体消费控制",
+    "url": "/wiki/concepts/agentspendcontrols/"
   },
   "AgentTaskClaiming": {
     "title": "Agent Task Claiming",
@@ -7418,6 +7426,10 @@
   "ClinicalDevelopmentCapability": {
     "title": "Clinical Development Capability",
     "url": "/wiki/concepts/clinicaldevelopmentcapability/"
+  },
+  "Clink": {
+    "title": "Clink",
+    "url": "/wiki/entities/clink/"
   },
   "ClioCapital": {
     "title": "Clio Capital",
@@ -13254,6 +13266,10 @@
   "GaoJiyang": {
     "title": "Gao Jiyang",
     "url": "/wiki/entities/gaojiyang/"
+  },
+  "GaoNing": {
+    "title": "高宁 / Gao Ning",
+    "url": "/wiki/entities/gaoning/"
   },
   "GaoShanwen": {
     "title": "高善文 / Gao Shanwen",
@@ -20827,6 +20843,10 @@
     "title": "Massachusetts Investors Trust",
     "url": "/wiki/entities/massachusettsinvestorstrust/"
   },
+  "Mastercard": {
+    "title": "Mastercard",
+    "url": "/wiki/entities/mastercard/"
+  },
   "MaterialHistoryNarrative": {
     "title": "Material History Narrative",
     "url": "/wiki/concepts/materialhistorynarrative/"
@@ -24294,6 +24314,10 @@
   "PatrickWilliams": {
     "title": "Patrick Williams",
     "url": "/wiki/entities/patrickwilliams/"
+  },
+  "PatrickWu": {
+    "title": "Patrick Wu",
+    "url": "/wiki/entities/patrickwu/"
   },
   "PatrimonialGovernance": {
     "title": "Patrimonial Governance",
@@ -33315,6 +33339,10 @@
     "title": "Virtual Asset AML Risk",
     "url": "/wiki/concepts/virtualassetamlrisk/"
   },
+  "Visa": {
+    "title": "Visa",
+    "url": "/wiki/entities/visa/"
+  },
   "VisionLanguageActionModels": {
     "title": "Vision Language Action Models",
     "url": "/wiki/concepts/visionlanguageactionmodels/"
@@ -36898,6 +36926,10 @@
   "keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b": {
     "title": "Keep qualms and carry on: a decade after Brexit",
     "url": "/wiki/sources/keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b/"
+  },
+  "keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311": {
+    "title": "可以给你的 Agent 发一点零花钱了｜ S10E22",
+    "url": "/wiki/sources/keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311/"
   },
   "kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun": {
     "title": "困在系统里的酒店，你不知道的携程垄断练成史",

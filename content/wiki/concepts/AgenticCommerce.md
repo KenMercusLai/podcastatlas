@@ -2,8 +2,8 @@
 title: "Agentic Commerce"
 type: concept
 tags: [agents, commerce, payments]
-sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # Agentic Commerce
@@ -20,6 +20,8 @@ The concept sits between [[AgentFacingInterfaces]] and [[AgentPermissionBoundari
 
 [[e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70]] adds the B2B sourcing version through [[Axio]]. The purchase is not a simple checkout: agents must help define a product, compare factories, calculate landed cost, manage communication, arrange logistics, and carry after-sales or replenishment context into the next cycle.
 
+[[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] adds the payment-infrastructure version through [[Clink]] and [[Visa]]. [[PatrickWu]] distinguishes user-facing commerce, where the human remains the final consumer, from autonomous agent spending on task resources. The source makes [[AgentPaymentInfrastructure]] and [[AgentSpendControls]] explicit parts of agentic commerce: payment should encode user intent, product scope, budget, merchant context, and liability evidence rather than simply hand an agent a stored card.
+
 ## Key Claims
 - Shopping is an obvious agent task because it combines search, comparison, routine preference, payment, and repeated replenishment.
 - Successful checkout is not enough; the agent also needs to respect price sensitivity, brand preference, delivery timing, substitutions, address choice, and return risk.
@@ -32,6 +34,9 @@ The concept sits between [[AgentFacingInterfaces]] and [[AgentPermissionBoundari
 - Agentic commerce can compress choice too much; users may gain convenience while losing visibility into alternatives, sponsorship, merchant diversity, or why one option was selected.
 - Commerce integrations can become ad infrastructure when purchase, conversion, and recommendation data feed sponsored answer ranking.
 - B2B agentic commerce needs stronger grounding than consumer shopping because incorrect specifications, tariffs, freight, hidden costs, or supplier claims can break the whole business case.
+- Agentic commerce becomes more viable when payment authorization is structured as a mandate with limits, eligible goods, and audit evidence.
+- Repeated low-value shopping and replenishment need a different authorization cadence from one-off high-risk purchases.
+- Merchant readiness matters as much as model ability: catalogs, checkout, fulfillment, refunds, and support need agent-callable surfaces.
 
 ## Connections
 - [[Google]], [[Meta]], and [[EuropeanUnion]] — platform-access and messaging-interface context in the source.
@@ -43,3 +48,4 @@ The concept sits between [[AgentFacingInterfaces]] and [[AgentPermissionBoundari
 - [[Meituan]], [[Doubao]], [[Yuanbao]], and [[ModelContextProtocol]] — local-service and milk-tea ordering case added by Keji Luandun.
 - [[Walmart]], [[OpenAI]], [[AISearchAdvertising]], and [[GenerativeEngineOptimization]] — conversion-data and sponsored-answer context added by Marketplace Tech.
 - [[ZhangKuo]], [[Alibaba]], [[Axio]], [[B2BToA2A]], and [[AgenticB2BSourcing]] — B2B sourcing and marketplace-operations branch added by E231.
+- [[Clink]], [[PatrickWu]], [[Visa]], [[AgentPaymentInfrastructure]], and [[AgentSpendControls]] — payment-mandate and merchant-readiness branch added by What's Next S10E22.

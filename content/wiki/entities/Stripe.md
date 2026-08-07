@@ -2,8 +2,8 @@
 title: "Stripe"
 type: entity
 tags: [company, fintech, payments, infrastructure, developer-tools]
-sources: [peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, socialradarss2-billclerico-final, socialradarss2-stripe-v2]
-last_updated: 2026-07-25
+sources: [keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, socialradarss2-billclerico-final, socialradarss2-stripe-v2]
+last_updated: 2026-08-07
 ---
 
 # Stripe
@@ -18,6 +18,8 @@ At scale, the Collison episode adds [[VisionToRealityExecution]]. The brothers s
 
 [[peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted]] adds Stripe to the [[CarbonRemoval]] market-formation branch. [[PeterReinhardt]] says [[CharmIndustrial|Charm Industrial]] first saw meaningful carbon-removal demand through Stripe, and that Stripe organized [[FrontierCarbonRemoval|Frontier]], an [[AdvancedMarketCommitment|advanced market commitment]] that pooled roughly $1 billion of purchasing power for carbon-removal suppliers.
 
+[[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] adds Stripe to the [[AgentPaymentInfrastructure]] branch. The source names Stripe as an important early actor in agent payment and agent commerce, while [[PatrickWu]] argues from [[Clink]]'s perspective that a neutral connector may still be needed because many global merchants use local acquirers rather than Stripe.
+
 ## Connections
 - [[PatrickCollison]] and [[JohnCollison]] - co-founders interviewed in the Stripe source.
 - [[DeveloperFirstPaymentInfrastructure]], [[APIProductDesign]], and [[EntrepreneurshipInfrastructure]] - direct product and developer-tool concepts added by the source.
@@ -25,3 +27,4 @@ At scale, the Collison episode adds [[VisionToRealityExecution]]. The brothers s
 - [[WePay]], [[BillClerico]], and [[RichAberman]] - pre-Stripe payments context from the WePay source.
 - [[VisionToRealityExecution]] and [[RelentlesslyResourcefulFounder]] - founder and scaling themes added by the Collison episode.
 - [[CharmIndustrial|Charm Industrial]], [[FrontierCarbonRemoval|Frontier Carbon Removal]], [[AdvancedMarketCommitment]], and [[CarbonRemoval]] - carbon-removal demand-creation branch added by the Peter Reinhardt episode.
+- [[AgentPaymentInfrastructure]], [[AgenticCommerce]], [[Clink]], [[Visa]], and [[Mastercard]] — agent-payment market context added by What's Next S10E22.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-07] ingest | 可以给你的 Agent 发一点零花钱了｜ S10E22
+
+Added source page for a What's Next｜科技早知道 episode with Patrick Wu of Clink and 高宁 on agent payment infrastructure, agentic commerce, small-budget agent wallets, Visa's demo, stablecoins, domestic payment ecosystems, merchant readiness, and content monetization in agent-led interfaces. Created pages for Clink, Patrick Wu, 高宁 / Gao Ning, Visa, Mastercard, Agent Payment Infrastructure, and Agent Spend Controls; updated overview, index, What's Next｜科技早知道, Agentic Commerce, Agentic Economy, Agent Permission Boundaries, Agent Identity And Authentication, Stablecoins, Stripe, and Payment Clearing Network. No direct contradiction found; the source reinforces existing agent-commerce and permission-boundary pages while adding a clearer payment split between user-confirmed shopping and autonomous small-budget agent spending.
+
 ## [2026-08-07] ingest | Hard cedar: Lebanon seeks Trump's help
 
 Added source page for a The Intelligence episode on Lebanon seeking Trump administration help to rebuild state credibility against Hezbollah, Red Bull's asset-light sports-media brand model, and census evidence that rich American men are no longer especially more likely to marry much younger women. Created pages for Joseph Aoun, Nawaf Salam, Amer Bisat, International Monetary Fund, Red Bull, Dietrich Mateschitz, Monster Beverage, Celsius Holdings, Doug Dawson, State Credibility Against Militia, Banking Loss Allocation Politics, Asset-Light Brand Machine, Energy Drink Youth Regulation, and Age-Gap Marriage Decline; updated overview, index, The Intelligence, Economist Podcasts, Greg Carlstrom, Lebanon, Hezbollah, Israel, Iran, United States, Donald Trump, Red Bull Racing, Postwar Reconstruction Finance, Proxy Conflict Spoiler Risk, U.S.-Iran Nuclear Diplomacy, and Resistance Axis Backfire. No direct contradiction found; the source extends the existing Lebanon conflict branch by adding the domestic state-capacity, banking-loss, reconstruction, and U.S.-pressure mechanisms needed for the Lebanese state to challenge Hezbollah's support.
@@ -6709,6 +6713,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] ingest | A firm Andy: what are new British PM's plans?
 
 Added source page for a The Intelligence episode on Andy Burnham's first governing choices as British prime minister, Syria's postwar reconstruction finance and investor-confidence problem, and Greenmarket's 50-year role in New York City food urbanism. Created pages for Rachel Reeves, Shabana Mahmood, Hugo Jye, Gareth Brown, Annie Crabill, Ron Benaghi, Barry Benepe, Bob Lewis, Syria, Bashar al-Assad, ISIS, Ahmad al-Sharah, Qatar, New York City, Union Square, Greenmarket, GrowNYC, Number 10 North, Manchester, Greater Manchester, NHS, Devolution As Governing Project, Postwar Reconstruction Finance, and Farmers Market Urbanism; updated overview, index, Andy Burnham, Keir Starmer, Labour Party (UK), United Kingdom, Labour Leadership Crisis, Political Delivery Gap, Rosie Bloor, Saudi Arabia, United Arab Emirates, World Bank, Gulf Stability Risk, Local Market Proof, Restaurant Supply Chain Localization, Wes Streeting, Ed Miliband, The Intelligence, Economist Podcasts, and Donald Trump. No direct contradiction found; the source extends the Starmer-to-Burnham timeline while qualifying Burnham's confidence with unresolved fiscal, migration, devolution, and public-service delivery constraints.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 

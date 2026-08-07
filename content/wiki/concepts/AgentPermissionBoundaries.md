@@ -2,8 +2,8 @@
 title: "Agent Permission Boundaries"
 type: concept
 tags: [agents, security, governance]
-sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
-last_updated: 2026-08-05
+sources: [keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
+last_updated: 2026-08-07
 ---
 
 # Agent Permission Boundaries
@@ -21,6 +21,8 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 [[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds the cross-device and IM-agent version. Browser extensions, phone-to-computer remote control, lock-screen background operation, group-chat agents, and account/IP risk make it more important to separate safe observation, low-impact execution, and actions that require explicit approval.
 
 [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds the commerce and device-risk version. [[AgenticCommerce]] requires explicit spend, product, address, and substitution controls, while voice wearables, always-on recorders, robots, and brain-computer interfaces raise the cost of mistaken or overbroad agent action.
+
+[[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] adds a payment-mandate version. [[PatrickWu]] describes [[Clink]] recording user intent, limits, and eligible goods before converting an agent's purchase request into a one-time payment capability through [[Visa]]. This makes [[AgentSpendControls]] a concrete boundary type: spending permissions should be scoped by task, amount, category, merchant context, duration, and reauthorization triggers.
 
 [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds the local-agent blast-radius version. The hosts warn that [[OpenClaw]] can see hard-drive contents, logged-in browser sessions, local accounts, and even password-manager-controlled resources if the user grants them; they also describe prompt injection through web content and third-party skills as risks that Docker cannot fully solve when sensitive directories or accounts are mounted into the runtime.
 
@@ -56,6 +58,8 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 - AI-first organizations need team-level permission design because making agents useful may require broad read access, while write access, sensitive data, customer-facing actions, and irreversible decisions still need narrower authority and audit.
 - Wearable personal AI requires bystander permissions because a device owned by one user may capture other people's speech, meetings, or private surroundings.
 - Enterprise AI employees require role-based and organization-aware boundaries because the same company data may be visible in systems but inappropriate to disclose to a given coworker or external party.
+- Agent spending needs its own boundary layer because payment mistakes create immediate financial loss, disputed liability, merchant fulfillment problems, and credential-exposure risk.
+- Small autonomous purchases can be safe only when the budget, source of spend, task reason, and responsible actor remain traceable.
 
 ## Connections
 - [[OpenClaw]], [[JustinYan]], and [[Zili]] — source context for personal-agent safety.
@@ -75,3 +79,4 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 - [[Limitless]], [[DanSiroker]], [[ConsentBasedRecording]], and [[PersonalAIMemory]] — wearable recording and bystander-consent branch added by The Social Radars.
 - [[Creo]], [[ClarkCreo]], [[AIFirstOrganization]], and [[EnterpriseAgentGovernance]] — organization-wide agent access and guardrail case added by E238.
 - [[Kuse]], [[Junior]], [[AgentEvaluationBenchmarks]], and [[EnterpriseAgentMemory]] — enterprise AI employee permissions and safety-test case added by the Yuhao source.
+- [[AgentPaymentInfrastructure]], [[AgentSpendControls]], [[Clink]], and [[Visa]] — payment-mandate and bounded-spend branch added by What's Next S10E22.

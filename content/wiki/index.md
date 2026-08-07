@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [可以给你的 Agent 发一点零花钱了｜ S10E22](sources/keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311.md) — What's Next episode with Patrick Wu of Clink and Gao Ning on agent payment infrastructure, agentic commerce, small-budget agent wallets, Visa's demo, stablecoins, merchant readiness, and creator monetization in agent-led interfaces.
 - [Hard cedar: Lebanon seeks Trump's help](sources/hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5.md) — The Intelligence episode on Lebanon seeking Trump administration help against Hezbollah, Red Bull's asset-light sports-media brand model, and census evidence that wealthy men are no longer especially more likely to marry much younger women.
 - [A firm Andy: what are new British PM's plans?](sources/a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c.md) — The Intelligence episode on Andy Burnham's first plans as British prime minister, Syria's reconstruction finance problem, and Greenmarket's role in New York City food urbanism.
 - [城市就是这样21 | 十堰：一座因汽车而起、又不甘被汽车“抛下”的城市](sources/chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066.md) — 商业就是这样 city episode on Shiyan as an auto-built Hubei city, Dongfeng/Second Automobile Works, Third Front construction, the 2003 headquarters move to Wuhan, commercial-vehicle resilience, and diversification into batteries, water, and Wudang tourism.
@@ -4812,6 +4813,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Daniel Knowles](entities/DanielKnowles.md) — The Intelligence panelist warning that Supreme Court behavior and executive-power disputes show weakening U.S. constitutional guardrails.
 - [Rebecca Jackson](entities/RebeccaJackson.md) — The Intelligence panelist emphasizing representation erosion and historical memory conflicts in the America-at-250 episode.
 - [What's Next｜科技早知道](entities/WhatsNextKejiZaozhidao.md) — Podcast/show context spanning AI phones, one-person companies, tactile robotics, AI memory, Apple AI, Google Cloud, and AI storage infrastructure.
+- [Clink](entities/Clink.md) — Agent-payment infrastructure startup connecting agents, merchants, and payment networks through mandates and one-time payment capability.
+- [Patrick Wu](entities/PatrickWu.md) — Clink founder and payments operator explaining agent-payment liability, fiat trust, stablecoin tradeoffs, and merchant readiness.
+- [高宁 / Gao Ning](entities/GaoNing.md) — What's Next guest framing agent payment around result-based task delegation and standing budgets for repeated agent work.
+- [Visa](entities/Visa.md) — Card-network actor in the Clink demo, used by the source to show how agent payment can inherit authorization, dispute, and consumer-protection infrastructure.
+- [Mastercard](entities/Mastercard.md) — Payment-network company named as part of the broader industry move toward agent-enabled commerce and payment.
 - [SanDisk](entities/SanDisk.md) — Storage company tied in S10E13 to High Bandwidth Flash as a NAND-derived AI memory direction.
 - [Cerebras](entities/Cerebras.md) — AI-chip company discussed through wafer-scale, SRAM-rich inference hardware as a differentiated but limited GPU alternative.
 - [ChangXin Memory / 长鑫存储](entities/ChangXinMemory.md) — Chinese DRAM company discussed as a domestic memory-capacity and possible HBM supplier signal.
@@ -9137,6 +9143,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Super Creators](concepts/AISuperCreators.md) — AI-native creator pattern where individuals combine taste, prompting, coding, media tools, and community distribution.
 - [Agentic Software](concepts/AgenticSoftware.md) — Software designed around agents interpreting goals, selecting capabilities, and generating or reshaping work surfaces.
 - [Agentic Commerce](concepts/AgenticCommerce.md) — Shopping and payment workflows where agents or assistants can select, buy, pay, and connect to service fulfillment under explicit user permission boundaries.
+- [Agent Payment Infrastructure / 智能体支付基础设施](concepts/AgentPaymentInfrastructure.md) — Authorization, payment, liability, merchant-readiness, and settlement layer that lets agents spend or complete transactions under human authority.
+- [Agent Spend Controls / 智能体消费控制](concepts/AgentSpendControls.md) — Budgets, mandates, limits, and audit trails governing how agents spend money or task budget while acting for a user.
 - [Atomic Capability Services](concepts/AtomicCapabilityServices.md) — SaaS decomposition pattern where reliable product abilities become agent-callable and recombinable atoms.
 - [AI Communication Ability](concepts/AICommunicationAbility.md) — Clear expression, listening, prompting, and task framing as core skills for working through agents.
 - [AI Content Devaluation](concepts/AIContentDevaluation.md) — Audience and product-trust problem where cheap AI generation makes generic content or tools feel less worth attention.
