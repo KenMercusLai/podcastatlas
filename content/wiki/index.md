@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Reese's heir vs. chocolate skimpflation](sources/reeses-heir-vs-chocolate-skimpflation.md) — Planet Money episode on Reese's label changes, chocolate compound, peanut butter cream, skimpflation, cocoa supply shocks, FDA chocolate standards, and Hershey's announced return to classic chocolate recipes by 2027.
 - [The Invention Invention](sources/the-invention-invention.md) — Planet Money episode on MPEG, the Singer sewing-machine patent war, patent pools, FRAND licensing, essential patents, and the antitrust line between collaboration and collusion.
 - [The real horror of 'Alien' and how it explains why we're not paid enough](sources/the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough.md) — Planet Money episode using Alien and Alien: Romulus to explain labor monopsony, hidden job risks, search frictions, non-competes, company-town control, and labor-market counterforces.
 - [The skyscrapers that NIMBYs and zoning couldn't stop](sources/the-skyscrapers-that-nimbys-and-zoning-couldnt-stop.md) — Planet Money episode on the Squamish Nation's Vancouver high-rise housing project, sovereign land-use authority, zoning constraints, permitting delay costs, local veto politics, and Indigenous development visibility.
@@ -829,6 +830,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Hershey](entities/Hershey.md) — Chocolate and candy company whose Reese's formula and label changes are examined as a skimpflation and brand-trust case.
+- [Reese's](entities/Reeses.md) — Peanut-butter-and-chocolate candy brand used by the episode to contrast classic formulas with shaped products using chocolate compound or peanut butter cream.
+- [Brad Reese](entities/BradReese.md) — H.B. Reese descendant whose label campaign turns Reese's ingredient changes into a public skimpflation and brand-legacy dispute.
+- [H.B. Reese](entities/HBReese.md) — Reese's Peanut Butter Cup inventor whose founder legacy anchors Brad Reese's complaint about milk chocolate and peanut butter standards.
+- [Milton Hershey](entities/MiltonHershey.md) — Chocolate-business figure connected to H.B. Reese before the later Reese's-Hershey corporate tie.
+- [Judy Gaines](entities/JudyGaines.md) — Soft-commodities consultant explaining cocoa costs, FDA chocolate standards, and chocolate-maker reformulation pressure.
+- [Kirk Tanner](entities/KirkTanner.md) — Hershey executive named through Bloomberg reporting around the company's decision to return to classic chocolate recipes.
+- [Ivory Coast](entities/IvoryCoast.md) — Major cocoa-producing country in the episode's account of weather-driven cocoa supply pressure.
 - [MPEG / Moving Pictures Experts Group](entities/MPEG.md) — Video-compression standard used by Planet Money to explain standards-based innovation and patent-pool revival.
 - [MPEG Patent Pool](entities/MPEGPatentPool.md) — 1997 DOJ-approved standards patent pool that became the episode's modern template for lawful technology coordination.
 - [Leonardo (MPEG)](entities/LeonardoMPEG.md) — Source-scoped Italian inventor figure connected to the MPEG portable-video vision.
@@ -5629,6 +5638,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Skimpflation](concepts/Skimpflation.md) — Quality-degradation response to inflation where familiar products keep their surface identity while ingredients, service, or standards quietly weaken.
+- [Chocolate Compound](concepts/ChocolateCompound.md) — Chocolate-like coating that can use chocolate ingredients without meeting legal milk-chocolate standards.
+- [Chocolate Label Standards](concepts/ChocolateLabelStandards.md) — Food-label rules that make distinctions such as milk chocolate, chocolate candy, and peanut butter cream economically meaningful.
+- [Cocoa Supply Shock](concepts/CocoaSupplyShock.md) — Weather- and production-driven cocoa cost surge that can pass through into candy prices, package sizes, and reformulated ingredients.
+- [Ingredient Reformulation Strategy](concepts/IngredientReformulationStrategy.md) — CPG operating choice to change formulas for cost, shape, stability, segmentation, or consumer-preference reasons, with brand-trust risk.
 - [Patent Pool](concepts/PatentPool.md) — Shared licensing structure that can unblock complementary patents but needs antitrust guardrails.
 - [Patent Thicket](concepts/PatentThicket.md) — Dense overlapping patent rights that make production difficult without licensing coordination.
 - [Complementary Patents](concepts/ComplementaryPatents.md) — Patents that work together as parts of a larger invention rather than substitutes.

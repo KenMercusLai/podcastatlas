@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-07] ingest | Reese's heir vs. chocolate skimpflation
+
+Added source page for a Planet Money episode on Brad Reese's campaign over Reese's labels, chocolate compound, peanut butter cream, FDA milk-chocolate and peanut-butter standards, cocoa supply shocks in Ivory Coast and Ghana, skimpflation, and Hershey's announced return to classic milk and dark chocolate recipes by 2027. Created pages for Hershey, Reese's, Brad Reese, H.B. Reese, Milton Hershey, Judy Gaines, Kirk Tanner, Ivory Coast, Skimpflation, Chocolate Compound, Chocolate Label Standards, Cocoa Supply Shock, and Ingredient Reformulation Strategy; updated overview, index, NPR, Planet Money, Food and Drug Administration, Commodity Price Exposure, Food Inflation, Climate Food Price Transmission, Consumer Brand Moat, Packaging As Product Experience, Product Led Willingness To Pay, and Story Led Consumer Branding. No direct contradiction found; the source qualifies consumer-brand and commodity-exposure branches by showing that input shocks can produce formula and label changes, not only higher shelf prices.
+
 ## [2026-08-07] ingest | The real horror of 'Alien' and how it explains why we're not paid enough
 
 Added source page for a Planet Money episode using Alien and Alien: Romulus to explain labor monopsony, negative job amenities, compensating differentials, shrouded job attributes, search frictions, non-competes, company-town labor control, and labor-market counterforces. Created pages for Arin Dube / Arindrajit Dube, The Wage Standard, University of Massachusetts Amherst, Alien Franchise, Alien (film), Weyland-Yutani, Fede Alvarez, Alien: Romulus, Rodo Sayagues, Negative Job Amenities, Compensating Differentials, Shrouded Job Attributes, Labor Search Frictions, Non-Compete Agreements, Monopsony By Artifice, Company Town Labor Control, and Labor Market Counterforces; updated overview, index, NPR, Planet Money, United States, Uruguay, Greg Rosalsky, Kenny Malone, Alex Goldmark, Labor Monopsony, No-Poaching Agreements, Paid Vacation As Labor Right, Employer-Bargained Benefits, Contract Theory, Incomplete Contract, and Information Asymmetry In Contracts. No direct contradiction found; source-name caveat recorded because the local Markdown says "Aaron Dube" while episode metadata identifies the guest as Arin Dube / Arindrajit Dube.
@@ -6629,3 +6633,7 @@ Added source page for a Planet Money episode on MPEG, the Singer sewing-machine 
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities against the existing graph. Semantic lint API failed because `LLM_MODEL` is unset/providerless (`claude-3-5-sonnet-latest`), so contradiction, stale-content, data-gap, and depth checks did not complete. Report returned in-session; `wiki/lint-report.md` was not saved.

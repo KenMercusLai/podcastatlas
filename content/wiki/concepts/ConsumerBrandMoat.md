@@ -42,6 +42,8 @@ A consumer brand moat is the durable business advantage that forms when customer
 
 [[costco-1]] adds [[KirklandSignature]] as a private-label trust case. Kirkland's power comes less from advertising than from members believing that [[Costco]] has used scale, buying judgment, and [[LowMarkupTrust]] to deliver a better value or quality point than the branded alternative.
 
+[[reeses-heir-vs-chocolate-skimpflation]] adds [[Reeses|Reese's]] as a legacy food-brand stress test. The episode shows that [[ConsumerBrandMoat|brand trust]] can be weakened when a familiar product family uses [[ChocolateCompound|compound chocolate]] or peanut butter cream while consumers still remember the classic milk-chocolate-and-peanut-butter promise.
+
 [[rolex-1]] adds [[Rolex]] as an industrial luxury case. Rolex's [[ConsumerBrandMoat]] comes from accumulated product proof, design continuity, [[ProfessionalToolBranding]], [[MechanicalWatchRepositioning]], [[LuxuryScarcityDiscipline]], and [[VerticalIntegrationForQualityControl]] rather than from pure rarity or advertising alone.
 
 [[ferrari-1]] adds [[Ferrari]] as a luxury-motorsport case. Its moat comes from [[EnzoFerrari]]'s founder story, [[ScuderiaFerrari]], [[FormulaOne]], [[Tifosi]] fandom, [[LuxuryScarcityDiscipline]], [[MakeToOrderLuxuryManufacturing]], and [[AutomotiveCollectorEconomics]] rather than from transportation utility alone.
@@ -74,6 +76,7 @@ A consumer brand moat is the durable business advantage that forms when customer
 - In luxury, brand moat protection can center on who controls authenticity claims, because counterfeits and unauthorized affiliation can damage both buyer trust and scarcity value.
 - In Black hair care, a brand moat can come from cultural and material fluency: understanding hair needs, workplace and identity pressures, media channels, and who customers trust to serve the category.
 - A private-label brand can become a moat when it inherits retailer trust and repeatedly proves that lower price does not mean lower quality.
+- A legacy food brand can lose trust if consumers discover that a familiar name now covers different legal ingredient standards.
 - A luxury hardware brand can become a moat when customers believe technical durability, status meaning, scarcity, and resale confidence reinforce one another over decades.
 - A luxury sports brand can make scarcity more powerful when non-owners still participate through fandom, live competition, and shared mythology.
 - In AI-era consumer categories, visible human authorship can become a moat element when customers treat human care and self-expression as scarce.
@@ -100,6 +103,7 @@ A consumer brand moat is the durable business advantage that forms when customer
 - [[Chanel]], [[TheRealReal]], [[LuxuryResaleAuthentication]], [[BrandControlledAuthentication]], and [[TrademarkResaleBoundary]] - luxury-resale brand-defense branch added by Planet Money.
 - [[JohnsonProducts]], [[AfroSheen]], [[UltraWave]], [[SoulTrain]], [[BlackHairCareMarketOwnership]], and [[CommunityEmbeddedBusiness]] - Black hair-care brand branch added by Planet Money.
 - [[Costco]], [[KirklandSignature]], [[LowMarkupTrust]], and [[ScaleEconomiesShared]] - private-label trust branch added by Acquired.
+- [[Hershey]], [[Reeses|Reese's]], [[BradReese]], [[ChocolateLabelStandards]], and [[Skimpflation]] - legacy candy-brand trust branch added by Planet Money.
 - [[Rolex]], [[HansWilsdorf]], [[RolexOyster]], [[RolexSubmariner]], [[MechanicalWatchRepositioning]], [[ProfessionalToolBranding]], and [[LuxuryScarcityDiscipline]] - industrial luxury branch added by Acquired.
 - [[Ferrari]], [[EnzoFerrari]], [[ScuderiaFerrari]], [[FormulaOne]], [[Tifosi]], [[LuxuryBrandAsSportsTeam]], [[RacingHeritageBrandMoat]], and [[AutomotiveCollectorEconomics]] - luxury-motorsport branch added by Acquired.
 - [[GenuineFred]], [[ColleenKirk]], [[HumanAuthorshipPremium]], and [[AlgorithmAversion]] - AI-era human-designed label branch added by Marketplace Tech.

@@ -8,6 +8,8 @@ last_updated: 2026-08-07
 
 # Planet Money
 
+[[reeses-heir-vs-chocolate-skimpflation]] adds a consumer-products and food-labeling case through [[Reeses|Reese's]] and [[Hershey]]. The episode uses [[BradReese]], [[HBReese|H.B. Reese]], [[JudyGaines]], [[ChocolateCompound]], [[ChocolateLabelStandards]], [[CocoaSupplyShock]], [[Skimpflation]], and [[IngredientReformulationStrategy]] to show how inflation pressure can appear as formula change rather than only a visible price increase.
+
 [[the-invention-invention]] adds a patents-and-standards history case. The episode links [[MPEG]] and the [[MPEGPatentPool]] back to [[IsaacMerrittSinger]], [[EliasHoweJr]], and the [[SewingMachineCombination]], using [[PatentPool]], [[PatentThicket]], [[ComplementaryPatents]], [[EssentialPatents]], [[FRANDLicensing]], and [[CollaborationVsCollusion]] to show how modern invention can require lawful coordination among rivals.
 
 [[the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]] adds a labor-economics-by-pop-culture case. [[GregRosalsky]] and [[KennyMalone]] watch [[AlienFilm|Alien]] with [[ArinDube|Arin Dube]] and use [[WeylandYutani]] to explain [[LaborMonopsony]], [[NegativeJobAmenities]], [[CompensatingDifferentials]], [[ShroudedJobAttributes]], [[LaborSearchFrictions]], [[NonCompeteAgreements]], and [[LaborMarketCounterforces]], then connect [[AlienRomulus|Alien: Romulus]] to [[CompanyTownLaborControl]] through [[FedeAlvarez]].
@@ -127,6 +129,7 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 [[so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]] adds an AI-market and macro-policy case. The episode uses [[RobinGreenwood]], [[EugeneFama]], [[GadiBarlevy|Gadi Barlevy]], and [[Nvidia]] to explain [[StatisticalBubbleIndicators]], [[MarketEfficiency]], [[LeanVersusCleanBubblePolicy]], and [[ProductiveBubbleSpillovers]].
 
 ## Connections
+- [[Hershey]], [[Reeses|Reese's]], [[BradReese]], [[HBReese|H.B. Reese]], [[JudyGaines]], [[KirkTanner]], [[Skimpflation]], [[ChocolateCompound]], [[ChocolateLabelStandards]], [[CocoaSupplyShock]], and [[IngredientReformulationStrategy]] - candy-labeling, cocoa-cost, and skimpflation branch added by the new episode.
 - [[MPEG]], [[MPEGPatentPool]], [[SewingMachineCombination]], [[PatentPool]], [[PatentThicket]], [[FRANDLicensing]], [[AntitrustChill]], and [[StandardsBasedInnovation]] - patent-pool and standards branch added by the new episode.
 - [[AlienFilm|Alien]], [[AlienRomulus|Alien: Romulus]], [[WeylandYutani]], [[ArinDube]], [[TheWageStandard]], [[FedeAlvarez]], [[LaborMonopsony]], [[ShroudedJobAttributes]], [[NonCompeteAgreements]], and [[CompanyTownLaborControl]] - labor-economics-by-film branch added by the new episode.
 - [[SquamishNation]], [[SinakVillageSite]], [[Vancouver]], [[SovereignHousingDevelopment]], [[LocalVetoHousingPolitics]], [[PermittingDelayCost]], and [[IndigenousDevelopmentVisibility]] - housing, zoning, and Indigenous-sovereignty branch added by the new episode.

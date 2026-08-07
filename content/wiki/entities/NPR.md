@@ -8,6 +8,8 @@ last_updated: 2026-08-07
 
 # NPR
 
+[[reeses-heir-vs-chocolate-skimpflation]] adds another reported [[PlanetMoney]] consumer-economics episode, this time on [[Hershey]], [[Reeses|Reese's]], and formula changes visible through candy labels. It extends NPR's economics-reporting branch into [[Skimpflation]], [[ChocolateCompound]], [[ChocolateLabelStandards]], [[CocoaSupplyShock]], and [[IngredientReformulationStrategy]], while keeping the source's causality claim disciplined around [[BradReese]] and [[KirkTanner]].
+
 [[the-invention-invention]] adds another reported [[PlanetMoney]] economics-history case, this time on [[PatentPool|patent pools]] and standards. It extends NPR's economics-reporting branch into [[MPEG]], the [[SewingMachineCombination]], [[PatentThicket]], [[EssentialPatents]], [[FRANDLicensing]], [[PatentPoolCartelRisk]], and [[StandardsBasedInnovation]], showing how U.S. antitrust law can both enable and limit technical coordination.
 
 [[the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]] adds another reported [[PlanetMoney]] episode, this time using [[AlienFilm|Alien]] and [[AlienRomulus|Alien: Romulus]] to teach labor economics. It extends NPR's economics-reporting branch into [[LaborMonopsony]], [[ShroudedJobAttributes]], [[LaborSearchFrictions]], [[NonCompeteAgreements]], [[CompanyTownLaborControl]], and [[LaborMarketCounterforces]] through [[ArinDube|Arin Dube]] and [[FedeAlvarez]].
@@ -123,6 +125,7 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 [[how-black-hair-care-grew-black-power]] adds a reported [[PlanetMoney]] consumer-market and Black business history case. It extends NPR's economics-reporting branch into [[JohnsonProducts]], [[BlackHairCareMarketOwnership]], [[CommunityEmbeddedBusiness]], [[PublicListingControlTradeoff]], and the way hair-care products can become business infrastructure, civil-rights support, and cultural distribution.
 
 ## Connections
+- [[Hershey]], [[Reeses|Reese's]], [[BradReese]], [[JudyGaines]], [[KirkTanner]], [[ChocolateCompound]], [[ChocolateLabelStandards]], [[CocoaSupplyShock]], [[Skimpflation]], and [[IngredientReformulationStrategy]] - food-labeling and consumer-product branch added through Planet Money.
 - [[MPEG]], [[MPEGPatentPool]], [[IsaacMerrittSinger]], [[EliasHoweJr]], [[SewingMachineCombination]], [[PatentPool]], [[FRANDLicensing]], and [[StandardsBasedInnovation]] - patent-pool and standards branch added through Planet Money.
 - [[AlienFilm|Alien]], [[AlienRomulus|Alien: Romulus]], [[WeylandYutani]], [[ArinDube]], [[TheWageStandard]], [[FedeAlvarez]], [[LaborMonopsony]], [[NonCompeteAgreements]], and [[CompanyTownLaborControl]] - labor-economics-by-film branch added through Planet Money.
 - [[SquamishNation]], [[SinakVillageSite]], [[Vancouver]], [[SovereignHousingDevelopment]], [[LocalVetoHousingPolitics]], [[PermittingDelayCost]], and [[IndigenousDevelopmentVisibility]] - housing, zoning, and Indigenous-sovereignty branch added through Planet Money.

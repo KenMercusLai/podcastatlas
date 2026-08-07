@@ -5211,6 +5211,10 @@
     "title": "Boyu Capital / 博裕资本",
     "url": "/wiki/entities/boyucapital/"
   },
+  "BradReese": {
+    "title": "Brad Reese",
+    "url": "/wiki/entities/bradreese/"
+  },
   "BradSmith": {
     "title": "Brad Smith",
     "url": "/wiki/entities/bradsmith/"
@@ -6943,6 +6947,14 @@
     "title": "Chobani",
     "url": "/wiki/entities/chobani/"
   },
+  "ChocolateCompound": {
+    "title": "Chocolate Compound",
+    "url": "/wiki/concepts/chocolatecompound/"
+  },
+  "ChocolateLabelStandards": {
+    "title": "Chocolate Label Standards",
+    "url": "/wiki/concepts/chocolatelabelstandards/"
+  },
   "ChoiceTriggeredAttentionBoundary": {
     "title": "Choice-Triggered Attention Boundary",
     "url": "/wiki/concepts/choicetriggeredattentionboundary/"
@@ -7350,6 +7362,10 @@
   "CocoaBeach": {
     "title": "Cocoa Beach",
     "url": "/wiki/entities/cocoabeach/"
+  },
+  "CocoaSupplyShock": {
+    "title": "Cocoa Supply Shock",
+    "url": "/wiki/concepts/cocoasupplyshock/"
   },
   "CodePilot": {
     "title": "Code Pilot",
@@ -14019,6 +14035,10 @@
     "title": "HBO",
     "url": "/wiki/entities/hbo/"
   },
+  "HBReese": {
+    "title": "H.B. Reese",
+    "url": "/wiki/entities/hbreese/"
+  },
   "HEB": {
     "title": "H-E-B",
     "url": "/wiki/entities/heb/"
@@ -14646,6 +14666,10 @@
   "HeroReturnWithBoon": {
     "title": "Hero Return With Boon / 英雄携赐归来",
     "url": "/wiki/concepts/heroreturnwithboon/"
+  },
+  "Hershey": {
+    "title": "Hershey",
+    "url": "/wiki/entities/hershey/"
   },
   "HesseYouthCultureMisreading": {
     "title": "Hesse Youth Culture Misreading / 黑塞青年文化误读",
@@ -15795,6 +15819,10 @@
     "title": "Infrastructure Malinvestment",
     "url": "/wiki/concepts/infrastructuremalinvestment/"
   },
+  "IngredientReformulationStrategy": {
+    "title": "Ingredient Reformulation Strategy",
+    "url": "/wiki/concepts/ingredientreformulationstrategy/"
+  },
   "IngridClayton": {
     "title": "Ingrid Clayton",
     "url": "/wiki/entities/ingridclayton/"
@@ -16310,6 +16338,10 @@
   "IvoParashkevov": {
     "title": "Ivo Parashkevov",
     "url": "/wiki/entities/ivoparashkevov/"
+  },
+  "IvoryCoast": {
+    "title": "Ivory Coast",
+    "url": "/wiki/entities/ivorycoast/"
   },
   "IvyLeagueMeritocracy": {
     "title": "Ivy League Meritocracy",
@@ -17455,6 +17487,10 @@
     "title": "Judicial Independence And Public Opinion",
     "url": "/wiki/concepts/judicialindependencepublicopinion/"
   },
+  "JudyGaines": {
+    "title": "Judy Gaines",
+    "url": "/wiki/entities/judygaines/"
+  },
   "JudyHuang": {
     "title": "Judy Huang",
     "url": "/wiki/entities/judyhuang/"
@@ -17962,6 +17998,10 @@
   "KinshipPowerDistinction": {
     "title": "Kinship Power Distinction",
     "url": "/wiki/concepts/kinshippowerdistinction/"
+  },
+  "KirkTanner": {
+    "title": "Kirk Tanner",
+    "url": "/wiki/entities/kirktanner/"
   },
   "KirklandSignature": {
     "title": "Kirkland Signature",
@@ -21262,6 +21302,10 @@
   "Millian": {
     "title": "Millian",
     "url": "/wiki/entities/millian/"
+  },
+  "MiltonHershey": {
+    "title": "Milton Hershey",
+    "url": "/wiki/entities/miltonhershey/"
   },
   "MimeticCompetitionAvoidance": {
     "title": "Mimetic Competition Avoidance",
@@ -26267,6 +26311,10 @@
     "title": "Redwood Materials",
     "url": "/wiki/entities/redwoodmaterials/"
   },
+  "Reeses": {
+    "title": "Reese's",
+    "url": "/wiki/entities/reeses/"
+  },
   "ReferenceCheckHiring": {
     "title": "Reference-Check Hiring",
     "url": "/wiki/concepts/referencecheckhiring/"
@@ -28794,6 +28842,10 @@
   "Skimmer": {
     "title": "Skimmer",
     "url": "/wiki/entities/skimmer/"
+  },
+  "Skimpflation": {
+    "title": "Skimpflation",
+    "url": "/wiki/concepts/skimpflation/"
   },
   "Skydance": {
     "title": "Skydance",
@@ -36406,6 +36458,10 @@
   "quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec": {
     "title": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集",
     "url": "/wiki/sources/quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec/"
+  },
+  "reeses-heir-vs-chocolate-skimpflation": {
+    "title": "Reese's heir vs. chocolate skimpflation",
+    "url": "/wiki/sources/reeses-heir-vs-chocolate-skimpflation/"
   },
   "renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o": {
     "title": "人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy",

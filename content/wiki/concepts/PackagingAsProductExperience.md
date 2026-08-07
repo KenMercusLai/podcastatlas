@@ -2,8 +2,8 @@
 title: "Packaging As Product Experience"
 type: concept
 tags: [cpg, packaging, product, retail]
-sources: [catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, board-games-3-whats-in-a-name]
-last_updated: 2026-07-24
+sources: [reeses-heir-vs-chocolate-skimpflation, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, board-games-3-whats-in-a-name]
+last_updated: 2026-08-07
 ---
 
 # Packaging As Product Experience
@@ -16,6 +16,8 @@ Packaging as product experience is the CPG pattern where the container, format, 
 
 [[board-games-3-whats-in-a-name]] adds a boxed-game version through [[SellMeASasquatch]]. Here packaging has to communicate the game's mood, market premise, giftability, and creature world before shoppers understand the [[MarketForLemons]] mechanic underneath.
 
+[[reeses-heir-vs-chocolate-skimpflation]] adds a label-as-package version through [[Reeses|Reese's]]. The package did not only identify the product; it carried the legal signal that let [[BradReese]] distinguish milk chocolate and peanut butter from [[ChocolateCompound|chocolate compound]], chocolate candy, and peanut butter cream.
+
 ## Key Claims
 - Packaging can change the use occasion: a stand-up pouch or squeeze pack can make the product easier to carry, reseal, sample, or repeat.
 - Packaging can be a manufacturing constraint if partners cannot fill, seal, label, or handle the chosen format.
@@ -25,6 +27,7 @@ Packaging as product experience is the CPG pattern where the container, format, 
 - In intimate or stigmatized categories, packaging can protect dignity by managing sound, visibility, smell, disposal, and emergency portability.
 - In familiar functional categories, packaging can create the first emotional difference by making a commodity-like item feel like it belongs to a scene, person, or ritual.
 - In board games, packaging can make a ruleset approachable by presenting the world, tone, and buying occasion before the rules are inspected.
+- Ingredient labels are part of package experience because they can reveal [[Skimpflation]] that shape, color, and brand memory might obscure.
 
 ## Connections
 - [[CatalinaCrunch]] and [[KrishnaKaliannan]] - stand-up pouch case.
@@ -34,3 +37,4 @@ Packaging as product experience is the CPG pattern where the container, format, 
 - [[SunBum]], [[TomRinks]], [[ReneKennedy]], [[SunnySunBumMascot|Sunny]], and [[VisualBrandSystem]] - sunscreen case where package design carried brand identity.
 - [[CPGManufacturingScaleUp]], [[CPGDistribution]], [[RetailShelfPlacement]], [[SalesVelocity]], and [[ProductLedWillingnessToPay]] - adjacent mechanics.
 - [[SellMeASasquatch]], [[RetailShelfAppeal]], and [[ProductNamingAsPositioning]] - boxed-game extension added by Planet Money.
+- [[Reeses|Reese's]], [[ChocolateLabelStandards]], [[ChocolateCompound]], and [[Skimpflation]] - label-transparency extension added by Planet Money.

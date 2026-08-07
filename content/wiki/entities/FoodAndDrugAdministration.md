@@ -2,11 +2,13 @@
 title: "Food and Drug Administration"
 type: entity
 tags: [organization, regulator, healthcare, food, drugs]
-sources: [130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh, tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, a-trip-to-the-magic-mushroom-megachurch, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
+sources: [reeses-heir-vs-chocolate-skimpflation, 130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh, tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, a-trip-to-the-magic-mushroom-megachurch, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
 last_updated: 2026-08-06
 ---
 
 # Food and Drug Administration
+
+[[reeses-heir-vs-chocolate-skimpflation]] adds an ordinary candy-label version of FDA relevance. The episode uses milk-chocolate and peanut-butter standards to show why [[ChocolateLabelStandards]] are not just marketing words: a product labeled [[ChocolateCompound|chocolate compound]], chocolate candy, or peanut butter cream may sit outside the legal terms consumers associate with classic [[Reeses|Reese's]].
 
 [[tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1]] adds the FDA through [[Lucy]], [[JohnCoogan]]'s nicotine-gum company. Coogan says the regulatory pathway made the product slower and more controlled than [[Soylent]], but also potentially created a [[RegulatedConsumerProductMoat]] because competitors had to clear the same burden.
 
@@ -29,6 +31,7 @@ The episode also uses the FDA in the [[Prevagen]] story. According to the source
 [[tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3]] adds the positive medical-device version through [[NVisionMedical|nVision Medical]]. [[SurbhiSarna]] says the company received FDA clearances in 2015 and 2016 after prototype, bench, animal-tissue, and clinical-study work, making the FDA pathway part of [[MedicalDeviceClinicalValidation]] rather than only a post-harm or enforcement story.
 
 ## Connections
+- [[ChocolateLabelStandards]], [[ChocolateCompound]], [[Skimpflation]], [[Hershey]], and [[Reeses|Reese's]] - candy-labeling branch added by Planet Money.
 - [[DietarySupplementHealthAndEducationAct]] - legal frame limiting FDA supplement oversight.
 - [[Lucy]], [[JohnCoogan]], [[RegulatedConsumerProductMoat]], and [[ShippingWeightEconomics]] - nicotine-gum regulation and consumer-product strategy added by The Social Radars.
 - [[GrayMarketPeptides]], [[ResearchChemicalLoophole]], and [[GLP1Agonists]] - peptide and research-chemical boundary added by Marketplace Tech.
