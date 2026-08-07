@@ -2,11 +2,13 @@
 title: "Position Sizing"
 type: concept
 tags: [investing, trading, risk]
-sources: [171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
+sources: [cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8, 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
 last_updated: 2026-08-07
 ---
 
 # Position Sizing
+
+[[cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8]] adds the advance-news trading version through [[AdvanceNewsTradingExperiment]]. The source says participants could know next-day headlines and still lose money because they misread the [[MarketExpectationGap]], used too much leverage, or failed to vary position size with confidence. Expert macro traders did better by sizing aggressively only when confidence justified it and by sometimes not trading.
 
 [[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds the late-cycle overbetting version. The episode says one common bull-market-late mistake is using the largest position size at the most expensive point, especially in hot themes, leveraged trades, or lottery-like stocks chosen after FOMO rather than prior thesis work.
 
@@ -34,6 +36,7 @@ Position sizing is the capital-allocation decision that connects an investor's e
 - In potential bubbles, sizing should respond to warning conditions without pretending to know the exact top.
 - Vol.105 adds that larger decisions should require more time, clearer purpose, and more resistance to social-media urgency before execution.
 - Episode 171 adds that position size should be smallest, not largest, when the purchase reason is late-cycle FOMO or a story the investor does not understand well.
+- The advance-news experiment adds that information advantage does not protect against ruin when leverage and confidence calibration are wrong.
 
 ## Connections
 - [[KellyCriterion]] — formal repeated-game sizing rule.
@@ -46,3 +49,4 @@ Position sizing is the capital-allocation decision that connects an investor's e
 - [[ZhuNing]], [[BubbleNecessaryConditions]], and [[AIEquityValuationRisk]] — 42章经 interview extension around bubble uncertainty and personal risk capacity.
 - [[InvestmentCooldownDiscipline]] and [[PortfolioSuitability]] — vol.105's size-linked waiting-period and personal-fit extension.
 - [[LateBullMarketLossRisk]], [[BubbleWealthRedistribution]], and [[StopLossDiscipline]] - episode 171's overbetting and exit-rule extension.
+- [[AdvanceNewsTradingExperiment]] and [[MarketExpectationGap]] - The Intelligence extension where news advantage still depends on expectation reading and bet size.

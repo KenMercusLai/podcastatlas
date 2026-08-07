@@ -3,6 +3,7 @@ title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
 sources:
+  - cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8
   - suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq
   - 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2
   - 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk
@@ -63,6 +64,8 @@ last_updated: 2026-08-07
 ---
 
 # Investment Risk Management
+
+[[cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8]] adds the advance-information version. In the source's [[AdvanceNewsTradingExperiment]], tomorrow's headlines improve neither human nor AI trading enough unless the trader also reads the [[MarketExpectationGap]], sizes positions according to confidence, limits leverage, and is willing not to trade.
 
 [[suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq]] adds the product-level risk-budget version. In a low-rate [[FixedIncomePlusProduct|fixed income plus]] account, risk management is not only cutting a bad position; it is preserving a thin [[RiskBudgetedAbsoluteReturn|risk budget]] so the whole product can keep satisfying clients across different entry dates and drawdown paths.
 

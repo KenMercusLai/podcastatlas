@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Cockroaches 1, Modi 0: India’s remarkable protests](sources/cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8.md) — The Intelligence episode on India’s cockroach protests, advance-news trading failures, and Invader’s street-art scavenger game.
 - [What makes a toy go viral](sources/what-makes-a-toy-go-viral.md) — Planet Money episode on Squishy Dumplings, RMS, mystery packaging, TikTok unboxing, scarcity drops, Five Below, and a no-warehouse viral toy supply chain.
 - [Meta and Microsoft report different AI earnings](sources/tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128.md) — Marketplace Tech Bytes episode on AI capex scrutiny at Microsoft, Meta, and Google, memory-chip cyclicality, China/Kimi K3 uncertainty, AI worker calls for government pace-setting, and NBCUniversal's Peacock bundle inside YouTube Premium.
 - [国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23](sources/guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f.md) — What's Next episode on WAIC supernodes, Huawei CM384 versus Nvidia GB200 NVL72, Scale Up interconnect, protocol fragmentation, power/cooling constraints, and domestic AI-chip order validation.
@@ -877,6 +878,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Abhijit Tipke](entities/AbhijitTipke.md) — Tweet author whose cockroach meme helped turn an insult against jobless youth into a shared protest identity.
+- [Bharatiya Janata Party](entities/BharatiyaJanataParty.md) — India’s ruling-party context for the cockroach protests, anti-national labeling, and Modi-era political strength.
+- [Caitlin Talbot](entities/CaitlinTalbot.md) — The Intelligence contributor whose London walk demonstrates Invader’s mosaics and the Flash Invaders app.
+- [Delhi](entities/Delhi.md) — Protest setting where the Cockroach Movement escalated after a hunger-striker removal, internet shutdowns, metro closures, and police action.
+- [Dharmendra Pradhan](entities/DharmendraPradhan.md) — Indian education minister whose resignation is presented as the Cockroach Movement’s concrete accountability win.
+- [Flash Invaders](entities/FlashInvaders.md) — App that lets fans scan Invader mosaics, turning street art into a global scavenger-game layer.
+- [Invader](entities/Invader.md) — Pseudonymous French street artist whose pixel-like tile mosaics and app-backed fandom anchor the episode’s culture segment.
+- [Kira Huyu](entities/KiraHuyu.md) — The Intelligence correspondent explaining India’s Cockroach Movement, NEET grievance, youth anger, and dissent-space pressure.
+- [National Eligibility cum Entrance Test](entities/NationalEligibilityCumEntranceTest.md) — Indian medical-school exam whose leak anchors the episode’s education-accountability protest branch.
+- [Sonamji](entities/Sonamji.md) — Veteran activist whose removal from a hunger-strike site helped trigger a larger Delhi protest wave.
+- [Yash Mishra](entities/YashMishra.md) — Hunger striker and protest voice framing education as a basic public good in the Cockroach Movement.
 - [Squishy Dumplings](entities/SquishyDumplings.md) — Viral RMS sensory toy used by Planet Money to explain mystery packaging, collectible scarcity, TikTok unboxing, and toy-fad supply chains.
 - [RMS / Really Magical Stuff](entities/ReallyMagicalStuff.md) — Toy company behind Squishy Dumplings, framed through small-i innovation, mystery packaging, scarcity drops, and inventory-light retail supply.
 - [Zach Barber](entities/ZachBarber.md) — RMS U.S. CEO explaining small-i innovation, mystery toys, scarcity drops, TikTok virality, and no-warehouse supply-chain discipline.
@@ -5986,6 +5998,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Advance News Trading Experiment](concepts/AdvanceNewsTradingExperiment.md) — Trading experiment showing that tomorrow’s headlines still fail without expectation reading, sizing discipline, and abstention.
+- [Cockroach Movement](concepts/CockroachMovement.md) — Youth-led Indian protest wave that converted a cockroach insult into meme identity, education grievance, and ministerial pressure.
+- [Dissent Space Compression](concepts/DissentSpaceCompression.md) — Pattern where protest remains possible but becomes costlier through patriotic loyalty tests, police force, and infrastructure restrictions.
+- [Education Accountability Protest](concepts/EducationAccountabilityProtest.md) — Protest frame where exam leaks, public education quality, youth unemployment, and ministerial responsibility converge.
+- [Market Expectation Gap](concepts/MarketExpectationGap.md) — Difference between visible news and what prices had already expected, explaining why advance headlines can still be hard to trade.
+- [Street Art Game Layer](concepts/StreetArtGameLayer.md) — Public-art interface pattern where phone scanning and points make players notice physical city details.
 - [Mystery Toy Packaging](concepts/MysteryToyPackaging.md) — Blind-opening toy format where packaging creates reveal, uncertainty, repeat buying, and shareable reaction value.
 - [Viral Toy Supply Chain](concepts/ViralToySupplyChain.md) — Toy-fad operating model using short orders, close-to-ship production, direct retailer delivery, and inventory restraint under social-media demand.
 - [Small-I Innovation](concepts/SmallIInnovation.md) — Zach Barber's consumer-product frame for trend-matched tweaks that make an existing idea commercially new.

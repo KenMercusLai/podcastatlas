@@ -7025,3 +7025,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] ingest | What makes a toy go viral
 
 Added source page for a Planet Money episode on Squishy Dumplings as a viral toy business case. Created pages for Squishy Dumplings, RMS / Really Magical Stuff, Zach Barber, Kristin McLean, Five Below, Yiwu, Mystery Toy Packaging, Viral Toy Supply Chain, Small-I Innovation, and Collectible Drop Scarcity; updated overview, index, Planet Money, NPR, TikTok, Intermittent Reinforcement, Accidental Virality, Retail Inventory Velocity, Hardware Inventory Risk, Packaging As Product Experience, Flexible Manufacturing, and Retail Shelf Appeal. No direct contradiction found; the source mainly qualifies viral-demand stories by showing that TikTok attention only becomes useful when product format, scarcity, channel fit, and inventory discipline are already in place.
+
+## [2026-08-07] ingest | Cockroaches 1, Modi 0: India’s remarkable protests
+
+Added source page for a The Intelligence episode on India’s Cockroach Movement, a trading experiment with advance news, and Invader’s street mosaics. Created pages for Dharmendra Pradhan, Bharatiya Janata Party, National Eligibility cum Entrance Test, Abhijit Tipke, Sonamji, Yash Mishra, Kira Huyu, Caitlin Talbot, Invader, Flash Invaders, Delhi, Cockroach Movement, Education Accountability Protest, Dissent Space Compression, Advance News Trading Experiment, Market Expectation Gap, and Street Art Game Layer; updated overview, index, India, Narendra Modi, Josh Roberts, Position Sizing, Investment Risk Management, The Intelligence, and Economist Podcasts. No direct contradiction found; the source extends existing India and investing branches by tying youth protest to education accountability and tying advance information to expectation reading and bet sizing.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

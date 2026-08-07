@@ -1,12 +1,14 @@
 ---
 title: "India"
 type: entity
-tags: [country, law, social-policy, asia]
-sources: [how-to-get-through-the-strait-of-hormuz, how-to-get-what-greenland-has-with-permission, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
-last_updated: 2026-07-24
+tags: [country, law, social-policy, asia, politics, education]
+sources: [cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8, how-to-get-through-the-strait-of-hormuz, how-to-get-what-greenland-has-with-permission, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
+last_updated: 2026-08-07
 ---
 
 # India
+
+[[cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8]] adds India as a youth-protest and education-accountability case. The source presents the [[CockroachMovement]] as a rare public-pressure challenge to [[NarendraModi]], built around [[NationalEligibilityCumEntranceTest|NEET]] leaks, youth unemployment, education scarcity, [[DharmendraPradhan]]'s resignation, and police action in [[Delhi]].
 
 [[how-to-get-through-the-strait-of-hormuz]] adds India as both a publishing-supply origin and an oil-shipping destination. [[ChristianStClair]] says [[FantagraphicsBooks]] books were printed in India, while [[HamidHosseini]] says an unnamed Indian oil-ship owner obtained [[SepahNavy]] passage permission and paid an alleged crypto toll before sailing through the [[StraitOfHormuz]] toward India.
 
@@ -26,3 +28,4 @@ In the wiki, India becomes one of the source's examples for [[FilialPietyLaws]] 
 - [[LeoMirani]], [[NationalInformaticsCentre]], [[Aadhaar]], [[UPI]], [[GovernmentWebsiteUsability]], [[BureaucraticRiskAvoidance]], and [[PublicServiceDigitalization]] - public-service software branch added by the later episode.
 - [[Greenland]], [[GracelandBaskaran]], and [[RareEarthProcessingBottleneck]] - critical-minerals processing branch added by Planet Money.
 - [[ChristianStClair]], [[FantagraphicsBooks]], [[HamidHosseini]], [[SepahNavy]], and [[MaritimeChokepointTolling]] - Planet Money branch where India appears in both cargo origin and oil-destination roles.
+- [[CockroachMovement]], [[NationalEligibilityCumEntranceTest]], [[DharmendraPradhan]], [[BharatiyaJanataParty]], [[Delhi]], [[EducationAccountabilityProtest]], and [[DissentSpaceCompression]] - youth protest and education-accountability branch added by The Intelligence.
