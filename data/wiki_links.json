@@ -1623,6 +1623,10 @@
     "title": "AI Marketing Decisioning",
     "url": "/wiki/concepts/aimarketingdecisioning/"
   },
+  "AIMarketingJargon": {
+    "title": "AI Marketing Jargon",
+    "url": "/wiki/concepts/aimarketingjargon/"
+  },
   "AIMaterialsDiscovery": {
     "title": "AI Materials Discovery",
     "url": "/wiki/concepts/aimaterialsdiscovery/"
@@ -8939,6 +8943,10 @@
     "title": "Dave Reibstein",
     "url": "/wiki/entities/davereibstein/"
   },
+  "DaveRoss": {
+    "title": "Dave Ross",
+    "url": "/wiki/entities/daveross/"
+  },
   "DavidAutor": {
     "title": "David Autor",
     "url": "/wiki/entities/davidautor/"
@@ -11334,6 +11342,10 @@
   "FairyTaleSanitization": {
     "title": "Fairy-Tale Sanitization / 童话净化",
     "url": "/wiki/concepts/fairytalesanitization/"
+  },
+  "FakeAISubwayAds": {
+    "title": "Fake AI Subway Ads",
+    "url": "/wiki/entities/fakeaisubwayads/"
   },
   "FakeInvestmentPlatformRisk": {
     "title": "Fake Investment Platform Risk",
@@ -14470,6 +14482,10 @@
   "HaroldBloom": {
     "title": "Harold Bloom / 哈罗德·布鲁姆",
     "url": "/wiki/entities/haroldbloom/"
+  },
+  "HarrisAlterman": {
+    "title": "Harris Alterman",
+    "url": "/wiki/entities/harrisalterman/"
   },
   "HarryMoser": {
     "title": "Harry Moser",
@@ -37326,6 +37342,10 @@
   "tech-20260713-tech-pod-128-tech-20260713-tech-pod-128": {
     "title": "The high cost of vacuuming carbon from the sky",
     "url": "/wiki/sources/tech-20260713-tech-pod-128-tech-20260713-tech-pod-128/"
+  },
+  "tech-20260714-tech-pod-128-tech-20260714-tech-pod-128": {
+    "title": "Froggle, Goofstump and the fake AI companies winning hearts online",
+    "url": "/wiki/sources/tech-20260714-tech-pod-128-tech-20260714-tech-pod-128/"
   },
   "tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128": {
     "title": "Netflix struggles to retain viewers after a series' first season",

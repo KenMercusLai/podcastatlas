@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Froggle, Goofstump and the fake AI companies winning hearts online](sources/tech-20260714-tech-pod-128-tech-20260714-tech-pod-128.md) — Marketplace Tech episode on Harris Alterman and Dave Ross's fake AI subway ads, vague AI marketing jargon, public transit legitimacy signals, and satire of AI hype language.
 - [The case of the missing totem: Aung San Suu Kyi](sources/the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f.md) — The Intelligence episode on proof-of-life uncertainty around Aung San Suu Kyi, Turkey's wartime spillover opportunity through Istanbul, and population-level sleep duration guidance.
 - [E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘](sources/e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149.md) — 硅谷101 episode with former TPU engineer Henry on Google TPUs versus Nvidia GPUs, XLA/JAX, TPU Pods, HBM/CoWoS/Broadcom constraints, Anthropic's TPU fit, and why TPU pressure is real but conditional.
 - [A pro-worker experiment in private equity](sources/a-pro-worker-experiment-in-private-equity.md) — Planet Money episode on KKR's broad worker-ownership experiment, contrasting Capital Safety's hidden equity payout with GSI's better-communicated employee ownership and retention case.
@@ -834,6 +835,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Harris Alterman](entities/HarrisAlterman.md) — New York City comedian who co-created the fake AI subway ads and frames vague AI ads as ordinary-rider disorientation.
+- [Dave Ross](entities/DaveRoss.md) — New York City comedian who co-created the fake AI subway ads and describes AI ad copy as "slop voice" built from repeatable jargon.
+- [Fake AI Subway Ads](entities/FakeAISubwayAds.md) — Satirical project placing invented AI company posters in New York City transit to expose generic AI marketing language and public-ad legitimacy signals.
 - [Jason Palmer](entities/JasonPalmer.md) — The Intelligence host introducing the episode's Aung San Suu Kyi, Turkey, and sleep-science segments.
 - [Aung San Suu Kyi](entities/AungSanSuuKyi.md) — Detained Myanmar democratic icon whose unverified condition, flawed legacy, and symbolic power anchor the episode's opening segment.
 - [Myanmar](entities/Myanmar.md) — Country context for the post-2021 coup war, junta detention of Aung San Suu Kyi, and risk of over-personalizing the crisis.
@@ -5682,6 +5686,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Marketing Jargon](concepts/AIMarketingJargon.md) — Formulaic AI-company ad language that signals technical seriousness or legitimacy while leaving the actual product unclear.
 - [Proof of Life Diplomacy](concepts/ProofOfLifeDiplomacy.md) — Diplomatic use of credible access and welfare verification when a detained symbolic figure's condition is uncertain.
 - [Democratic Icon Complex Legacy](concepts/DemocraticIconComplexLegacy.md) — Holding Aung San Suu Kyi's democratic symbolism together with her failures around the Rohingya, debate, and press freedom.
 - [Nonviolent Symbolic Power](concepts/NonviolentSymbolicPower.md) — Political force a detained figure can retain through legitimacy and loyalty rather than armed command.
