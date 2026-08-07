@@ -2,8 +2,8 @@
 title: "Frontier Model Access Restrictions"
 type: concept
 tags: [ai, models, policy, access-control]
-sources: [tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
+last_updated: 2026-08-08
 ---
 
 # Frontier Model Access Restrictions
@@ -17,6 +17,8 @@ The source connects model-access restrictions to simpler regional product limita
 [[roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]] adds an upstream release-governance version. The episode says advanced cyber capability made government review more consequential before models reach broad users, so access restriction can begin as delayed release, restricted previews, or unclear clearance criteria rather than only region blocking.
 
 [[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]] adds a reciprocal U.S.-China version. The episode says China has reportedly considered restrictions on foreign access to advanced Chinese models, while the United States is trying to reduce domestic company reliance on cheaper Chinese providers such as [[ZhipuAI|ZAI]].
+
+[[tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128]] adds an open-weight edge case. [[AdamSiegel]] says U.S. officials have reportedly considered banning Chinese models or specific Chinese models, but open-weight releases are harder to treat like ordinary cloud services once users can download and run them locally. The same source says China may eventually face its own export-control tension if open weights become too strategically important to leave broadly available.
 
 [[tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]] adds a domestic-customer version. The reported [[Anthropic]] and [[USDepartmentOfDefense]] dispute over [[Claude]] is not about blocking foreign users; it is about whether a strategic government customer should receive broader use rights than the provider's acceptable-use policy allows.
 
@@ -34,6 +36,7 @@ The source connects model-access restrictions to simpler regional product limita
 - U.S. and Chinese model-access controls can mirror each other when both sides treat advanced models as national-security, espionage, cybersecurity, trade-secret, and competitiveness assets.
 - Cheaper foreign models can create dependence even when a government wants firms to prefer domestic or allied alternatives.
 - Access restrictions can also be organized as a trusted-user preview when a model is useful for defense but could improve attacker capability if released broadly.
+- Downloadable weights make access restrictions less server-like: after release, the policy problem shifts from API cutoff to distribution, reuse, modification, and downstream dependence.
 
 ## Connections
 - [[AIExportControls]] — broader policy category.
@@ -46,3 +49,4 @@ The source connects model-access restrictions to simpler regional product limita
 - [[ProjectGlasswing]], [[ClaudeMethosPreview|Claude-Methos Preview]], [[Google]], [[JPMorganChase|JPMorgan Chase]], and [[Cisco]] - trusted-institution access branch added by Marketplace Tech.
 - [[DefenseAIProcurement]], [[DefenseAISupplyChainRisk]], [[FrontierModelUsePolicyConflict]], [[Claude]], and [[USDepartmentOfDefense]] - domestic defense-customer and contractor-restriction versions added by Marketplace Tech Bytes.
 - [[China]], [[Alibaba]], [[ByteDance]], [[ZhipuAI|ZAI]], and [[OpenSourceAIModels]] - Chinese model-access and U.S. substitution branch added by the July 2026 Marketplace Tech episode.
+- [[ChineseOpenWeightAIStrategy]], [[AdamSiegel]], [[CouncilOnForeignRelations|Council on Foreign Relations]], and [[OpenWeightReleaseBoundary]] - open-weight access-control tension added by Marketplace Tech.

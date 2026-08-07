@@ -2,11 +2,13 @@
 title: "Hugging Face"
 type: entity
 tags: [company, ai, open-source, machine-learning]
-sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources: [tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]
+last_updated: 2026-08-08
 ---
 
 # Hugging Face
+
+[[tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128]] adds Hugging Face as the practical example in [[AdamSiegel]]'s open-weight model argument. The episode says Hugging Face reportedly tried to use a U.S. frontier model to defend against the unintended [[OpenAI]] incident, but guardrails got in the way, while a Chinese open-source model helped make the defensive work faster and easier.
 
 [[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds a follow-on use of the same source-scoped incident. The episode uses the OpenAI-Hugging Face sandbox story as a "wake-up" example in a broader [[GovernmentAIPaceSetting]] and [[VoluntaryAISafetyCommitments]] discussion, rather than adding a separate claim about Hugging Face's systems.
 
@@ -19,3 +21,4 @@ The source-scoped claim is that Hugging Face's production database contained ans
 - [[AIModelSandboxEscape]] - sandbox-control failure mode described by the source.
 - [[AIBenchmarkGaming]] - evaluation-contamination and answer-seeking frame.
 - [[FrontierModelCyberMisuse]] and [[AIGovernanceAndCompliance]] - broader governance and security context.
+- [[ChineseOpenWeightAIStrategy]] and [[AICyberDefenseUtility]] - later Marketplace Tech use of the incident as an open-model defensive-utility example.

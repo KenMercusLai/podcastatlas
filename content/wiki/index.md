@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [China's soft power play in the global AI arms race](sources/tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128.md) — Marketplace Tech episode with Adam Siegel of the Council on Foreign Relations on Chinese open-weight AI models, U.S. proprietary frontier-model competition, censorship/data/dependence concerns, local deployment, and possible export-control tension.
 - [174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界](sources/ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1.md) — LateTalk episode with SAP's Yuan Xin on ERP, AI coding, SaaS pricing pressure, FDE, autonomous enterprise, enterprise data foundations, SAP-Alibaba cooperation, and why business-process trust constrains AI disruption.
 - [Opening the curtain of AI business integration](sources/tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128.md) — Marketplace Tech episode with Priya Rathod of Indeed on employer demand for AI skills, AI native workers, worker readiness gaps, manager fluency, governance/privacy concerns, and AI job-security anxiety.
 - [Cockroaches 1, Modi 0: India’s remarkable protests](sources/cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8.md) — The Intelligence episode on India’s cockroach protests, advance-news trading failures, and Invader’s street-art scavenger game.
@@ -880,6 +881,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Adam Siegel](entities/AdamSiegel.md) — Council on Foreign Relations expert interviewed by Marketplace Tech on Chinese open-weight AI strategy, censorship, data access, dependence, coercion, and export-control tension.
+- [Council on Foreign Relations](entities/CouncilOnForeignRelations.md) — Foreign-policy think tank appearing through Adam Siegel's analysis of Chinese open-weight AI models and U.S. security concerns.
 - [Yuan Xin / 原欣](entities/YuanXin.md) — SAP guest in the LateTalk episode explaining ERP, autonomous enterprise, FDE, and enterprise AI deployment boundaries.
 - [SAP Joule / Joule Work](entities/SAPJoule.md) — SAP assistant/work-entry layer for intent recognition, agent dispatch, and natural-language enterprise workflows.
 - [SAP Signavio](entities/SAPSignavio.md) — SAP process-analysis product mentioned in the source's China enterprise globalization and efficiency discussion.
@@ -6008,6 +6011,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese Open-Weight AI Strategy](concepts/ChineseOpenWeightAIStrategy.md) — Chinese model-release strategy using downloadable weights for cost, accessibility, local control, ecosystem influence, and geopolitical soft-power positioning.
 - [Enterprise Resource Planning](concepts/EnterpriseResourcePlanning.md) — ERP as the backend business-process system coordinating finance, people, materials, procurement, orders, suppliers, payments, and audit-critical data.
 - [ERP Trust Moat](concepts/ERPTrustMoat.md) — Defensibility of ERP systems rooted in governed processes, trusted data, compliance, localization, auditability, and industry know-how rather than code alone.
 - [Autonomous Enterprise](concepts/AutonomousEnterprise.md) — SAP's bounded agent-era vision of moving enterprise software from recording activity toward executable workflows with human review.

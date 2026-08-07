@@ -2,8 +2,8 @@
 title: "AI Export Controls"
 type: concept
 tags: [ai, policy, export-controls, geopolitics]
-sources: [ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-08-08
 ---
 
 # AI Export Controls
@@ -18,6 +18,8 @@ The source contrasts AI controls with chip restrictions around [[Nvidia]] hardwa
 
 [[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]] adds the mirror-image concern that China may restrict foreign access to its most advanced AI models. [[MariaCurie|Maria Curi]] frames both U.S. and Chinese moves as attempts to keep powerful models from strengthening the other side's national-security, cyber, espionage, trade-secret, or AI-competitiveness position.
 
+[[tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128]] adds the open-weight dilemma. [[AdamSiegel]] says Chinese open-weight models have been effective as a low-cost global accessibility strategy, but rumors of possible Chinese export controls reveal the tension between influence through openness and control over strategically important model capability.
+
 ## Key Claims
 - AI controls become more likely when model companies or policymakers frame frontier models as weapon-like capabilities.
 - API-delivered services are difficult to restrict by nationality because the real user behind an account may not match the identity boundary.
@@ -26,6 +28,7 @@ The source contrasts AI controls with chip restrictions around [[Nvidia]] hardwa
 - The [[PGP]] analogy suggests that code and information controls can be legally, technically, and socially fragile.
 - Model-release review can become a control mechanism even when policy avoids the language of formal licensing.
 - Model restrictions can be inbound as well as outbound: a country may worry about foreign access to its own model capability and domestic dependence on a rival country's cheaper models.
+- Open-weight releases can make controls more difficult because the strategic object is no longer only a cloud API or a hardware shipment; it is a model artifact that users can copy, self-host, and adapt.
 
 ## Connections
 - [[FrontierModelAccessRestrictions]] — implementation layer for limiting model access.
@@ -36,3 +39,4 @@ The source contrasts AI controls with chip restrictions around [[Nvidia]] hardwa
 - [[OpenSourceAIModels]], [[DeepSeek]], [[ZhipuAI]], and [[GLM52]] — substitution path discussed in the episode.
 - [[Nvidia]] and [[JensenHuang]] — hardware-control comparison.
 - [[China]], [[Alibaba]], [[ByteDance]], and [[ZhipuAI|ZAI]] - Chinese model-access branch added by Marketplace Tech.
+- [[ChineseOpenWeightAIStrategy]], [[OpenWeightReleaseBoundary]], [[AdamSiegel]], and [[CouncilOnForeignRelations|Council on Foreign Relations]] - open-weight export-control dilemma added by Marketplace Tech.

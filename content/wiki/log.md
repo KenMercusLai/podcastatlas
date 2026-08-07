@@ -7049,3 +7049,11 @@ Added source page for a LateTalk episode with Yuan Xin of SAP on ERP, AI coding,
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] ingest | China's soft power play in the global AI arms race
+
+Added source page for a Marketplace Tech episode with Adam Siegel of the Council on Foreign Relations on Chinese open-weight AI models, proprietary U.S. frontier-model competition, soft-power messaging, censorship/data/dependence risks, and the Hugging Face defensive-use example. Created pages for Adam Siegel, Council on Foreign Relations, and Chinese Open-Weight AI Strategy; updated overview, index, Marketplace Tech, Megan McCarty-Corino, China, United States, OpenAI, Anthropic, Microsoft, Hugging Face, Open Source AI Models, Open Weight Release Boundary, AI Model Censorship, Frontier Model Access Restrictions, AI Export Controls, Sovereign AI Models, AI Model Sandbox Escape, AI Cyber-Defense Utility, and AI Governance And Compliance. No direct contradiction found; the source qualifies open-weight enthusiasm by separating local-control advantages from unresolved censorship, provenance, dependence, and export-control concerns.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
