@@ -2,7 +2,7 @@
 title: "U.S.-Iran Nuclear Diplomacy"
 type: concept
 tags: [geopolitics, diplomacy, nuclear]
-sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
+sources: [hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5, ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
 last_updated: 2026-08-07
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-07
 [[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]] adds the pre-memorandum bargaining logic through [[IranNuclearMissileBargaining]]. [[LiuYiSanlian|刘仪]] argues that the 2026 indirect talks were less technically serious than 2025 talks because parties did not meet directly and the U.S. side reportedly lacked nuclear experts; in his reading, the talks were more likely a signal-management process before escalation than a nuclear-technical settlement.
 
 U.S.-Iran nuclear diplomacy is the negotiation frame added by [[missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]]. The episode says America and [[Iran]] have signed a memorandum of understanding that would end the [[StraitOfHormuz]] blockade, unfreeze Iranian assets, and open negotiations over Iran's uranium stockpile.
+
+[[hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5]] adds the Lebanon implementation layer around that wider diplomatic fragility. The source does not center the nuclear file, but it shows why [[DonaldTrump]]'s pressure on [[Israel]], support for [[Lebanon]]'s army, and investment-backed reconstruction matter if the [[Hezbollah]] conflict is to stop spoiling regional diplomacy.
 
 [[iran-protests-and-sanctions]] adds the historical 2015 nuclear deal frame behind the later 2026 diplomacy pages. The [[PlanetMoney]] episode presents the deal as the strongest case that [[IranSanctions]] produced diplomatic leverage, but also shows why relief credibility was fragile: [[SanctionsOvercompliance]] kept banks away after formal relief, and [[DonaldTrump]]'s 2018 withdrawal made sanctions rollback look politically reversible.
 
@@ -41,3 +43,4 @@ The source's main contribution is fragility. A deal can cover sanctions, assets,
 - [[NicholasPelham]] and [[DonaldTrump]] - new-source participants in the ceasefire-collapse stage.
 - [[GregCarlstrom]] and [[ChokepointShippingConfidence]] - later explanation of why formal safe-passage language did not restore commercial confidence.
 - [[IranNuclearMissileBargaining]], [[IranHorizontalEscalation]], and [[RegimeBasicBaseStabilization]] - EP251's nuclear/missile, escalation, and fiscal-guarantee bargaining frames.
+- [[JosephAoun]], [[Lebanon]], [[StateCredibilityAgainstMilitia]], and [[BankingLossAllocationPolitics]] - Lebanon implementation branch added by Hard cedar.

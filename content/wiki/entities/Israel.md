@@ -2,11 +2,13 @@
 title: "Israel"
 type: entity
 tags: [country, geopolitics, security]
-sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
+sources: [hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5, ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
 last_updated: 2026-08-07
 ---
 
 # Israel
+
+[[hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5]] adds Israel through ceasefire implementation rather than only war-risk skepticism. The episode says [[Lebanon]] wants [[DonaldTrump]] to pressure Israel to withdraw further under a vague agreement, while Israel still conducts periodic airstrikes and doubts that the Lebanese state can manage [[Hezbollah]] in the south.
 
 [[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]] adds Israel as the actor betting that [[Iran]]'s damaged strategic position may allow a short, decisive war. The source ties that bet to [[BenjaminNetanyahu]]'s domestic incentives, Israel's lower direct exposure to [[StraitOfHormuz]] energy disruption, and its view that Iranian missiles and proxy networks are more urgent practical threats than the nuclear file alone.
 
@@ -24,6 +26,7 @@ The source frames Israel's behavior through security skepticism. Israeli forces 
 - [[Shahed136]], [[Iran]], [[LowCostDroneWarfare]], [[DroneDefenseEconomics]], and [[CounterDroneLayeredDefense]] - drone-defense pressure branch added by Marketplace Tech.
 - [[Hezbollah]] - armed movement Israel treats as the immediate military threat.
 - [[Lebanon]] - country where the ceasefire clause and tunnel claim are located.
+- [[JosephAoun]], [[DonaldTrump]], and [[StateCredibilityAgainstMilitia]] - later source branch around U.S. pressure, Israeli withdrawal, and Lebanese state credibility.
 - [[Iran]] and [[USIranNuclearDiplomacy]] - wider deal that Israeli-Lebanese fighting could disrupt.
 - [[ProxyConflictSpoilerRisk]] - concept explaining why excluded or adjacent actors can undermine formal diplomacy.
 - [[DonaldTrump]] and [[JDVance]] - U.S. political figures used in the episode's strained-alliance frame.

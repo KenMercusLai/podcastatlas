@@ -2415,6 +2415,10 @@
     "title": "Age-Friendly Infrastructure",
     "url": "/wiki/concepts/agefriendlyinfrastructure/"
   },
+  "AgeGapMarriageDecline": {
+    "title": "Age-Gap Marriage Decline",
+    "url": "/wiki/concepts/agegapmarriagedecline/"
+  },
   "AgeVerificationComplianceIndustry": {
     "title": "Age Verification Compliance Industry",
     "url": "/wiki/concepts/ageverificationcomplianceindustry/"
@@ -3050,6 +3054,10 @@
   "AmbisexualWorldbuilding": {
     "title": "Ambisexual Worldbuilding / 双性世界建构",
     "url": "/wiki/concepts/ambisexualworldbuilding/"
+  },
+  "AmerBisat": {
+    "title": "Amer Bisat",
+    "url": "/wiki/entities/amerbisat/"
   },
   "AmericaAsIdea": {
     "title": "America as Idea",
@@ -3843,6 +3851,10 @@
     "title": "Asset Correlation",
     "url": "/wiki/concepts/assetcorrelation/"
   },
+  "AssetLightBrandMachine": {
+    "title": "Asset-Light Brand Machine",
+    "url": "/wiki/concepts/assetlightbrandmachine/"
+  },
   "AssetLightVsHeavyAssetModels": {
     "title": "Asset-Light Vs Heavy-Asset Models",
     "url": "/wiki/concepts/assetlightvsheavyassetmodels/"
@@ -4386,6 +4398,10 @@
   "BankingKYCCompliance": {
     "title": "Banking KYC Compliance",
     "url": "/wiki/concepts/bankingkyccompliance/"
+  },
+  "BankingLossAllocationPolitics": {
+    "title": "Banking Loss Allocation Politics",
+    "url": "/wiki/concepts/bankinglossallocationpolitics/"
   },
   "BankingProductDelight": {
     "title": "Banking Product Delight",
@@ -6246,6 +6262,10 @@
   "CellToCellLogicStacking": {
     "title": "Cell-to-Cell Logic Stacking",
     "url": "/wiki/concepts/celltocelllogicstacking/"
+  },
+  "CelsiusHoldings": {
+    "title": "Celsius Holdings",
+    "url": "/wiki/entities/celsiusholdings/"
   },
   "CelticAnimalTransformation": {
     "title": "Celtic Animal Transformation",
@@ -9463,6 +9483,10 @@
     "title": "Dietary Supplement Regulation",
     "url": "/wiki/concepts/dietarysupplementregulation/"
   },
+  "DietrichMateschitz": {
+    "title": "Dietrich Mateschitz",
+    "url": "/wiki/entities/dietrichmateschitz/"
+  },
   "DiffusionTransformers": {
     "title": "Diffusion Transformers",
     "url": "/wiki/concepts/diffusiontransformers/"
@@ -9966,6 +9990,10 @@
   "DougBehrens": {
     "title": "Doug Behrens",
     "url": "/wiki/entities/dougbehrens/"
+  },
+  "DougDawson": {
+    "title": "Doug Dawson",
+    "url": "/wiki/entities/dougdawson/"
   },
   "DouglasAdams": {
     "title": "Douglas Adams / 道格拉斯·亚当斯",
@@ -10834,6 +10862,10 @@
   "EndogenousMoneyCreation": {
     "title": "Endogenous Money Creation / 内生货币",
     "url": "/wiki/concepts/endogenousmoneycreation/"
+  },
+  "EnergyDrinkYouthRegulation": {
+    "title": "Energy Drink Youth Regulation",
+    "url": "/wiki/concepts/energydrinkyouthregulation/"
   },
   "EnergyTradingScaleAdvantage": {
     "title": "Energy Trading Scale Advantage",
@@ -16271,6 +16303,10 @@
     "title": "International Hotel",
     "url": "/wiki/entities/internationalhotel/"
   },
+  "InternationalMonetaryFund": {
+    "title": "International Monetary Fund",
+    "url": "/wiki/entities/internationalmonetaryfund/"
+  },
   "InternetArchive": {
     "title": "Internet Archive",
     "url": "/wiki/entities/internetarchive/"
@@ -17658,6 +17694,10 @@
   "JoseiEiseiYouhinNoShakaishi": {
     "title": "《女性卫生用品的社会史》",
     "url": "/wiki/entities/joseieiseiyouhinnoshakaishi/"
+  },
+  "JosephAoun": {
+    "title": "Joseph Aoun",
+    "url": "/wiki/entities/josephaoun/"
   },
   "JosephCampbell": {
     "title": "Joseph Campbell / 约瑟夫·坎贝尔",
@@ -21983,6 +22023,10 @@
     "title": "Monsoon Seasonal Social Order / 季风季节性社会秩序",
     "url": "/wiki/concepts/monsoonseasonalsocialorder/"
   },
+  "MonsterBeverage": {
+    "title": "Monster Beverage",
+    "url": "/wiki/entities/monsterbeverage/"
+  },
   "Montana": {
     "title": "Montana",
     "url": "/wiki/entities/montana/"
@@ -22574,6 +22618,10 @@
   "NausicaaOfTheValleyOfTheWind": {
     "title": "《风之谷》 / Nausicaa of the Valley of the Wind",
     "url": "/wiki/entities/nausicaaofthevalleyofthewind/"
+  },
+  "NawafSalam": {
+    "title": "Nawaf Salam",
+    "url": "/wiki/entities/nawafsalam/"
   },
   "NaziGermany": {
     "title": "Nazi Germany / 纳粹德国",
@@ -26611,6 +26659,10 @@
     "title": "《红与黑》 / The Red and the Black",
     "url": "/wiki/entities/redandblacknovel/"
   },
+  "RedBull": {
+    "title": "Red Bull",
+    "url": "/wiki/entities/redbull/"
+  },
   "RedBullRacing": {
     "title": "Red Bull Racing",
     "url": "/wiki/entities/redbullracing/"
@@ -30170,6 +30222,10 @@
   "StateBackedRareEarthRebuilding": {
     "title": "State-Backed Rare Earth Rebuilding",
     "url": "/wiki/concepts/statebackedrareearthrebuilding/"
+  },
+  "StateCredibilityAgainstMilitia": {
+    "title": "State Credibility Against Militia",
+    "url": "/wiki/concepts/statecredibilityagainstmilitia/"
   },
   "StateCryptoReserves": {
     "title": "State Crypto Reserves",
@@ -36730,6 +36786,10 @@
   "hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5": {
     "title": "汉洋：为什么做《蜉蝣天地》",
     "url": "/wiki/sources/hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5/"
+  },
+  "hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5": {
+    "title": "Hard cedar: Lebanon seeks Trump's help",
+    "url": "/wiki/sources/hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5/"
   },
   "he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months": {
     "title": "He demoted his SaaS to sell a service and 4x'd revenue in 12 months",

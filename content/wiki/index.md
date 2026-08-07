@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Hard cedar: Lebanon seeks Trump's help](sources/hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5.md) — The Intelligence episode on Lebanon seeking Trump administration help against Hezbollah, Red Bull's asset-light sports-media brand model, and census evidence that wealthy men are no longer especially more likely to marry much younger women.
 - [A firm Andy: what are new British PM's plans?](sources/a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c.md) — The Intelligence episode on Andy Burnham's first plans as British prime minister, Syria's reconstruction finance problem, and Greenmarket's role in New York City food urbanism.
 - [城市就是这样21 | 十堰：一座因汽车而起、又不甘被汽车“抛下”的城市](sources/chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066.md) — 商业就是这样 city episode on Shiyan as an auto-built Hubei city, Dongfeng/Second Automobile Works, Third Front construction, the 2003 headquarters move to Wuhan, commercial-vehicle resilience, and diversification into batteries, water, and Wudang tourism.
 - [Can Trump make buying a home more affordable?](sources/can-trump-make-buying-a-home-more-affordable.md) — Planet Money episode testing Trump housing policies through institutional investor restrictions, mortgage-backed-security purchases, first-time-buyer strain, and the deeper starter-home supply constraint.
@@ -839,6 +840,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Joseph Aoun](entities/JosephAoun.md) — Lebanese president seeking U.S. support for the army, pressure on Israel, and investment to rebuild state credibility.
+- [Nawaf Salam](entities/NawafSalam.md) — Lebanese prime minister paired with Joseph Aoun in the source's new-leadership and reform window.
+- [Amer Bisat](entities/AmerBisat.md) — Lebanese economy minister cited for war-damage and recession estimates in the Lebanon segment.
+- [International Monetary Fund](entities/InternationalMonetaryFund.md) — External lender whose Lebanon deal is blocked by unresolved banking-loss allocation politics.
+- [Red Bull](entities/RedBull.md) — Energy-drink company framed as a sports, media, and brand machine with regulatory exposure around youth consumption.
+- [Dietrich Mateschitz](entities/DietrichMateschitz.md) — Red Bull founder who adapted a Thai energy tonic and built the brand through slogans, sports, stunts, and media.
+- [Monster Beverage](entities/MonsterBeverage.md) — Energy-drink rival used as the scale and marketing-spend comparison to Red Bull.
+- [Celsius Holdings](entities/CelsiusHoldings.md) — U.S. energy-drink challenger positioned around health, wellness, and women-focused marketing.
+- [Doug Dawson](entities/DougDawson.md) — Analyst explaining census evidence on the declining income gradient in age-gap marriages.
 - [Rachel Reeves](entities/RachelReeves.md) — Chancellor tied to the Starmer-Reeves tax pledge that constrains Andy Burnham's first economic choices.
 - [Shabana Mahmood](entities/ShabanaMahmood.md) — Rumoured chancellor choice in Burnham's first cabinet, framed as a compromise inside Labour faction management.
 - [Hugo Jye](entities/HugoJye.md) — The Intelligence contributor explaining the uncertainty around Burnham's first governing programme.
@@ -5731,6 +5741,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [State Credibility Against Militia](concepts/StateCredibilityAgainstMilitia.md) — Strategy of weakening an armed group's support by making the state visibly more protective, useful, and capable.
+- [Banking Loss Allocation Politics](concepts/BankingLossAllocationPolitics.md) — Distributional fight over who absorbs financial-system losses after a collapse, blocking reform and reconstruction finance.
+- [Asset-Light Brand Machine](concepts/AssetLightBrandMachine.md) — Consumer-company model where brand, media, sports, and distribution carry value while production remains outsourced.
+- [Energy Drink Youth Regulation](concepts/EnergyDrinkYouthRegulation.md) — Policy pressure around restricting high-caffeine energy drinks for minors when youth-facing marketing increases appeal.
+- [Age-Gap Marriage Decline](concepts/AgeGapMarriageDecline.md) — Demographic pattern where wealthy American men are no longer especially more likely than other men to marry much younger women.
 - [Devolution As Governing Project](concepts/DevolutionAsGoverningProject.md) — UK governance frame where moving power from Westminster has to change services and accountability, not only office location.
 - [Postwar Reconstruction Finance](concepts/PostwarReconstructionFinance.md) — Problem of rebuilding after war when destroyed assets, security risk, political survival, and foreign capital all interact.
 - [Farmers Market Urbanism](concepts/FarmersMarketUrbanism.md) — Recurring public-market model that links food access, regional farms, neighborhood life, and restaurant sourcing.
