@@ -2,8 +2,8 @@
 title: "Model Collapse"
 type: concept
 tags: [ai, training-data, model-quality]
-sources: [tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, kate-crawford-mapping-empires]
-last_updated: 2026-07-10
+sources: [tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, kate-crawford-mapping-empires, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
+last_updated: 2026-08-07
 ---
 
 # Model Collapse
@@ -12,12 +12,15 @@ Model collapse is the failure mode in [[kate-crawford-mapping-empires]] where mo
 
 The concept turns synthetic data from a simple scaling solution into a risk that must be evaluated. It connects [[FrontierModelScaling]] to [[DataRecipeCoCreation]]: more data is not automatically better if the data is recursively generated, homogeneous, hallucinated, or detached from the human and physical variation the model needs to preserve.
 
+[[174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]] adds [[ChaSheng]]'s training-practice version. He treats model collapse less as a ban on synthetic data than as a data-quality problem: generated examples can help if they carry information, pass filtering, and are evaluated, while low-information or unfiltered AI text can damage the training distribution.
+
 [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] adds a consumer-platform route into the same risk. The [[MarketplaceTech]] episode discusses whether large volumes of [[AISlop]] could create feedback loops for future AI training, making platform quality and training-data quality part of the same problem.
 
 ## Key Claims
 - Repeated training on generated outputs can narrow the distribution a model learns.
 - Minority patterns, rare cases, edge cases, and unusual styles are especially exposed when synthetic averages dominate.
 - Synthetic data may still be useful, but it needs grounding, filtering, evaluation, and diversity controls.
+- Synthetic data is not automatically harmful; its value depends on information content, filtering, and evaluation.
 - Media-scale [[AISlop]] can become a data-quality problem if it enters future crawls.
 - Model collapse matters beyond aesthetics because high-stakes systems may depend on rare or outlier cases.
 - Public platforms can become part of the model-collapse risk surface if AI-generated material is published at scale and later recrawled as training data.
@@ -30,3 +33,4 @@ The concept turns synthetic data from a simple scaling solution into a risk that
 - [[AIRecognitionBias]] - related problem where model confidence can hide skewed or sparse training data.
 - [[HumanJudgmentUnderAI]] - review and evaluation remain necessary when generated outputs look plausible.
 - [[MarketplaceTech]] and [[MerriamWebster]] - mainstream slop discussion that reinforces the training-data feedback concern.
+- [[ChaSheng]], [[AITrainingDataScarcity]], and [[AIDataFlywheel]] - training-practice interpretation added by the Qizhulou Yan Binke episode.

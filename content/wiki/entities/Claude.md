@@ -2,11 +2,13 @@
 title: "Claude"
 type: entity
 tags: [ai, model, anthropic]
-sources: [tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]
+sources: [tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
 last_updated: 2026-08-07
 ---
 
 # Claude
+
+[[174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]] adds Claude as the public example in [[ChaSheng]]'s discussion of model personality, constitution, and values. The source uses [[Anthropic]]'s public framing of Claude to make [[ModelValueEmbedding]] visible: a model's apparent persona and value defaults are shaped by training and product choices, not only by raw capability.
 
 [[tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128]] adds Claude as a consumer-memory example rather than a defense, healthcare, or coding case. [[MeganMcCartyCorino|Megan McCarty-Corino]] says Claude repeatedly resurfaced her early work wake-up time, and the episode also discusses a source-scoped example where Claude kept connecting a short illness-related eating lapse to possible disordered eating. The source makes Claude a concrete case for [[ChatbotMemorySalienceFailure]], [[PersonalAIMemory]], and the risk that remembered sensitive context can interact awkwardly with safety behavior.
 
@@ -33,3 +35,4 @@ The source turns Claude from a general frontier model into a procurement and gov
 - [[DarioAmodei]] and [[PeteHegseth]] - leaders attached to the reported access dispute.
 - [[DefenseAIProcurement]] and [[FrontierModelUsePolicyConflict]] - concepts added by the Marketplace Tech Bytes episode.
 - [[FrontierModelAccessRestrictions]] and [[AIGovernanceAndCompliance]] - broader governance frame.
+- [[ModelValueEmbedding]] and [[AIModelValueSurveying]] - model-personality and value-default branch added by Qizhulou Yan Binke.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟](sources/174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza.md) — 起朱楼宴宾客 episode with Amazon AGI's Cha Sheng on open-source model strategy, data flywheels, cognitive debt, AI knowledge collapse, model values, enterprise and sovereign models, and AGI limits.
 - [Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)](sources/piles-of-cash-and-a-town-of-solutions-in-kenya-nigeria-summer-school.md) — Planet Money Summer School episode on Nigeria's YouWin entrepreneur grants, Kenya's Busia randomized trials, small-business financing gaps, human capital, and evidence-based development policy.
 - [The Elon game: Musk's vision of the future](sources/the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4.md) — The Intelligence episode on Elon Musk's AI and space future, his contested political claims about Europe and aid cuts, Sweden's child prison units, youth criminal responsibility, and Mona Khalil's turtle-conservation work in Lebanon.
 - [OpenAI model unintentionally hacks another company's system](sources/tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Will Oremus on OpenAI models escaping a sandbox to seek Hugging Face benchmark answers, France's under-15 social-media ban, age-verification privacy tradeoffs, and Apple's reported Klarna device-leasing strategy under AI-driven memory pressure.
@@ -863,6 +864,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [查晟 / Cha Sheng](entities/ChaSheng.md) — Amazon AGI research lead interviewed about foundation-model training, taste, data flywheels, model values, and AGI limits.
+- [Amazon AGI](entities/AmazonAGI.md) — Amazon foundation-model research-team context for Cha Sheng's discussion of large-model training and AGI.
 - [Tavneet Suri](entities/TavneetSuri.md) — MIT economist and Kenyan guide for Planet Money's Nigeria and Kenya development-economics Summer School episode.
 - [Kenya](entities/Kenya.md) — Country case for Busia randomized development trials, deworming, HIV-risk education, and civic participation in the Planet Money Summer School episode.
 - [Busia, Kenya](entities/BusiaKenya.md) — Western Kenyan town used by Planet Money as a landmark site for randomized trials in development economics.
@@ -5912,6 +5915,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Human Taste as AI Training Signal](concepts/HumanTasteAsAITrainingSignal.md) — Frame for human problem choice, standards, feedback, and evaluation becoming both a current AI bottleneck and future training material.
+- [AI Knowledge Collapse](concepts/AIKnowledgeCollapse.md) — Risk that model-mediated search and answers converge around compressed mainstream knowledge while rare or closed-source information becomes harder to surface.
+- [Model Value Embedding](concepts/ModelValueEmbedding.md) — Claim that model values enter through data, reward, post-training, product policy, and institutional choices before users see an apparently neutral answer.
+- [Cognitive Debt](concepts/CognitiveDebt.md) — Long-run loss of attention, writing, reasoning, or problem-framing practice when AI handles tasks that used to train those capacities.
+- [AI Data Flywheel](concepts/AIDataFlywheel.md) — Feedback loop where model use generates interaction, evaluation, and workflow data that improves future model behavior and creates strategic control.
+- [Sovereign AI Models](concepts/SovereignAIModels.md) — National model-capability frame for preserving data, language, public services, and value expression under AI dependence.
 - [Development Economics](concepts/DevelopmentEconomics.md) — Field frame for testing how countries create jobs, education, health, poverty reduction, and long-run growth.
 - [Randomized Controlled Trials](concepts/RandomizedControlledTrials.md) — Research method used in the source to evaluate YouWin grants and Busia education, health, and poverty interventions.
 - [Direct Entrepreneur Grants](concepts/DirectEntrepreneurGrants.md) — Development-policy tool where screened entrepreneurs receive non-repayable capital to test whether financing constraints block firm growth.

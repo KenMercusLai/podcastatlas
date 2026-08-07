@@ -2,7 +2,7 @@
 title: "Open Source AI Models"
 type: concept
 tags: [open-source, models, ai-ecosystem]
-sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
+sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
 last_updated: 2026-08-07
 ---
 
@@ -22,6 +22,8 @@ Open source AI models are model releases that enable broad downstream use, deplo
 
 [[ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]] adds the [[OpenWeightReleaseBoundary]] through [[KimiK3|Kimi K3]]. The source says open weights can make a model downloadable and self-deployable, but should not be conflated with fully open training code, data, or process. That distinction matters because open-weight models can pressure closed-model pricing and access while still leaving reproducibility and governance partly opaque.
 
+[[174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]] adds [[ChaSheng]]'s model-team interpretation. He says Chinese teams such as [[DeepSeek]] and [[Qwen]] remain striking because open releases build ecosystem influence but can give the live [[AIDataFlywheel|AI data flywheel]] to downstream application builders rather than to the base-model developer.
+
 ## Key Points
 - Open models can run across different hardware and deployment constraints when released in multiple sizes.
 - They can become base models for startups and developers who fine-tune or adapt them.
@@ -33,6 +35,7 @@ Open source AI models are model releases that enable broad downstream use, deplo
 - Closed-model release uncertainty can make open models valuable as continuity assets, not only as cheaper or more customizable models.
 - Domestic open models can become strategic infrastructure when governments want firms to avoid dependence on rival-country API providers.
 - Open-weight releases can change deployment and pricing competition without meeting the stronger transparency expectations of full open source.
+- Open releases may sacrifice direct user-data flywheels even while gaining reputation, research adoption, and ecosystem leverage.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — how large companies use and struggle with open source.
@@ -45,3 +48,4 @@ Open source AI models are model releases that enable broad downstream use, deplo
 - [[FrontierModelReleaseGovernance]] — launch-review uncertainty that can increase open-model demand.
 - [[China]], [[AIExportControls]], and [[FrontierModelAccessRestrictions]] - geopolitical access pressure added by Marketplace Tech.
 - [[OpenWeightReleaseBoundary]], [[KimiK3]], and [[ModelRoutingCostControl]] - open-weight versus open-source boundary and cost-routing branch added by Keji Luandun.
+- [[AIDataFlywheel]], [[ChaSheng]], and [[AmazonAGI]] - data-loop tradeoff added by the Qizhulou Yan Binke episode.

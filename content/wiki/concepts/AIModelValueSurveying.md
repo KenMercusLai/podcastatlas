@@ -12,11 +12,14 @@ AI model value surveying is the method in [[a-hawk-who-flew-on-political-winds-l
 
 The source's main finding is that many frontier models cluster near rich-country, secular, self-expression-oriented societies and lean left by American survey measures. That does not prove models have beliefs, but it does challenge easy claims that a model is neutral, placeless, or value-free.
 
+[[ModelValueEmbedding]] is the upstream complement: it asks how training data, reward design, post-training choices, company policy, and national context put values into model behavior before those tendencies are measured by surveys.
+
 ## Key Claims
 - Human value surveys can make model-output tendencies easier to compare across models and against human populations.
 - Survey results should be interpreted as model behavior under a test, not as evidence of consciousness or stable inner belief.
 - Model values can reflect training data, post-training preferences, company policy, and the social environment of model builders.
 - The method becomes more important as AI systems are used for advice, judgment support, and emotionally sensitive questions.
+- Surveying is downstream evidence; value embedding is the upstream process that may produce the measured tendencies.
 
 ## Connections
 - [[WorldValuesSurvey]] and [[SondreSolstad]] - survey framework and source participant.
@@ -24,3 +27,4 @@ The source's main finding is that many frontier models cluster near rich-country
 - [[TakiAI]] - historical-corpus example.
 - [[AIAdviceMoralOutsourcing]] and [[HumanJudgmentUnderAI]] - downstream risk when surveyed defaults influence advice.
 - [[AIGovernanceAndCompliance]] - broader governance context.
+- [[ModelValueEmbedding]] - upstream training and governance process that helps explain surveyed model defaults.

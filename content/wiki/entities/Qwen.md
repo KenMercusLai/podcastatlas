@@ -2,7 +2,7 @@
 title: "Qwen"
 type: entity
 tags: [model, open-source, ai]
-sources: [ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]
+sources: [ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
 last_updated: 2026-08-07
 ---
 
@@ -22,6 +22,8 @@ Qwen is Alibaba's model family and the technical focus of [[ali-qianwen-lizhi-yu
 
 [[e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70]] adds Qwen as the base-model collaborator behind [[Axio]]. [[ZhangKuo]] says Axio combines Qwen with models better suited to multimodal generation, coding, and agent reasoning, making Qwen part of a vertical [[AgenticB2BSourcing]] system rather than only a consumer assistant or open-source model family.
 
+[[174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]] adds [[ChaSheng]]'s outside model-team view. He says U.S. university researchers often use Chinese open models such as Qwen because they are accessible and structurally suitable for post-training research, reinforcing Qwen's role in [[OpenSourceAIModels]] beyond Alibaba's own products.
+
 ## Source Position
 - EP253 adds Qwen as a consumer smart-glasses context through [[QwenSmartGlasses|千问眼镜]] and location-plus-image recognition.
 - Considered important for China's AI competitiveness and overseas developer adoption.
@@ -33,6 +35,7 @@ Qwen is Alibaba's model family and the technical focus of [[ali-qianwen-lizhi-yu
 - In episode 134, treated as a domestic model strength that could feed [[VisionLanguageActionModels]], robot brains, and [[DataRecipeCoCreation]] demand.
 - In the Silicon Valley 101 source, treated as a base model that [[Apodex]] can post-train into a Deep Research and agent-team system.
 - In E231, treated as part of Alibaba's model stack for sourcing, design packs, supplier matching, and long-running B2B agent workflows.
+- In the Qizhulou Yan Binke source, treated as a Chinese open model used by outside researchers for post-training work and ecosystem learning.
 
 ## Connections
 - [[QwenSmartGlasses]], [[AIGlassesProductFit]], and [[WearableAIAssistant]] - consumer-device branch added by EP253.
@@ -45,3 +48,4 @@ Qwen is Alibaba's model family and the technical focus of [[ali-qianwen-lizhi-yu
 - [[EmbodiedAI]], [[VisionLanguageActionModels]], [[DataRecipeCoCreation]], and [[RoboticsSimulationEvaluation]] — physical-AI data context added by episode 134.
 - [[Apodex]], [[DeepResearch]], [[RecursiveSelfImprovement]], and [[DiscoveryModel]] — post-training and research-agent context added by the Silicon Valley 101 source.
 - [[Axio]], [[ZhangKuo]], [[AgenticB2BSourcing]], and [[B2BToA2A]] — international B2B agent application added by E231.
+- [[ChaSheng]], [[OpenSourceAIModels]], and [[ResearchTaste]] - outside researcher and post-training-use branch added by Qizhulou Yan Binke.

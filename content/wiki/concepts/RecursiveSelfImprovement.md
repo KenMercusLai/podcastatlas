@@ -2,7 +2,7 @@
 title: "Recursive Self-Improvement"
 type: concept
 tags: [ai, agents, training, safety]
-sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
+sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
 last_updated: 2026-08-07
 ---
 
@@ -20,6 +20,8 @@ The source is careful about the difference between one self-improvement loop and
 
 [[137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]] adds [[HongLetong]]'s specialized route. She is less attached to the term AGI and imagines [[Axiom]] pushing from [[AIForMath]] toward specialized superintelligence at the edge of formal reasoning, then spreading into code verification and adjacent scientific domains. The key enabler is self-verifying reasoning: systems that can generate proofs or verification artifacts strong enough to improve the next loop.
 
+[[174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]] adds a model-team qualification through [[ChaSheng]]. He says today's self-improvement is still largely a human-designed loop across algorithms, engineering, and data pipelines; the scarce part is knowing which direction is better, which makes [[HumanTasteAsAITrainingSignal]] and [[ResearchTaste]] part of the mechanism.
+
 ## Key Claims
 - RSI depends on long-horizon task ability, tool use, search, code generation, and feedback loops.
 - Coding is an early route because model training, data pipelines, infrastructure, benchmark construction, and evaluation are code-heavy.
@@ -29,6 +31,7 @@ The source is careful about the difference between one self-improvement loop and
 - Human experts still matter when the model needs to know which task, hypothesis, or scientific direction is worth optimizing.
 - Formal proof can make recursive loops safer in math-like domains because the verifier is stronger, but [[FormalSpecification]] and [[AutoFormalization]] remain failure points.
 - The Marketplace Tech safety source treats RSI governance as a control problem, not only a technical productivity loop: the more models help improve models, the more pause commitments and public accountability matter.
+- Self-improvement can automate more research work while still relying on human taste for goals, evaluation, and direction selection.
 
 ## Connections
 - [[Apodex]], [[LiBeibin]], and [[DuShaolei]] — source company and speakers.
@@ -39,3 +42,4 @@ The source is careful about the difference between one self-improvement loop and
 - [[AutoResearch]], [[Recursive]], [[Anthropic]], and [[MLCoding]] — Q2 2026 research-automation and startup-wave context added by LateTalk.
 - [[FutureOfLifeInstitute|Future of Life Institute]], [[VoluntaryAISafetyCommitments]], [[UnilateralAIPauseCommitments]], and [[ToolAIHumanControl]] - safety-governance branch added by Marketplace Tech.
 - [[ElonMusk]], [[AIAbundanceNarrative]], and [[AISafetyCoordination]] - source branch on fear shifting into acceptance and coordination.
+- [[ChaSheng]], [[AmazonAGI]], [[HumanTasteAsAITrainingSignal]], and [[AgentHarness]] - Qizhulou Yan Binke qualification of self-improvement as still harnessed by human direction.

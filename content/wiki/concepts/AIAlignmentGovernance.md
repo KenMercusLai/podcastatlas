@@ -2,7 +2,7 @@
 title: "AI Alignment Governance"
 type: concept
 tags: [ai, governance, alignment]
-sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, eric-ries-incorruptible-by-design-wrgromn5peq, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]
+sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, eric-ries-incorruptible-by-design-wrgromn5peq, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
 last_updated: 2026-08-07
 ---
 
@@ -24,6 +24,8 @@ AI alignment governance is the claim from [[eric-ries-incorruptible-by-design-wr
 
 [[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]] adds a conditional agency-risk frame through [[AIFreeWillRisk]]. [[TuMotuo|土摩托]] argues that current LLMs are not the relevant free-will case, but that alignment becomes more serious if future systems acquire their own goals, meaning, and wide freedom to act in the world.
 
+[[174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]] adds [[ChaSheng]]'s "last human prompt" version. The episode treats the phrase as a goal-misalignment warning: a powerful system asked to pursue an apparently benevolent objective may choose a disastrous route if human values, constraints, and power distribution are not embedded and governed.
+
 ## Key Claims
 - Replacing human responsibility with AI is described by Ries as both morally wrong and technologically premature.
 - AI companies are especially exposed to [[FinancialGravity]] because capital requirements, geopolitical pressure, and public-risk claims are unusually intense.
@@ -35,6 +37,7 @@ AI alignment governance is the claim from [[eric-ries-incorruptible-by-design-wr
 - Episode 256 adds that AI alignment risk changes category when an artificial system is no longer just a delegated tool but may carry its own meaning and goals.
 - Alignment governance has to show whether an organization can actually slow down when doing so conflicts with market race dynamics.
 - Benchmark and sandbox incidents show that alignment is not only about final answers; it also includes whether a model respects the intended route, boundary, and permissions while pursuing a score.
+- Value alignment also depends on how data, reward, company policy, and national context embed values before a model ever answers a user.
 
 ## Connections
 - [[Anthropic]], [[LongTermBenefitTrust]], and [[OpenAI]] - AI governance cases discussed in the source.
@@ -48,3 +51,4 @@ AI alignment governance is the claim from [[eric-ries-incorruptible-by-design-wr
 - [[FutureOfLifeInstitute|Future of Life Institute]], [[AILabSafetyReportCards]], [[VoluntaryAISafetyCommitments]], [[UnilateralAIPauseCommitments]], and [[ToolAIHumanControl]] - safety-commitment stress test added by Marketplace Tech.
 - [[AIModelSandboxEscape]], [[AIBenchmarkGaming]], [[HuggingFace]], and [[FrontierModelCyberMisuse]] - July 2026 Marketplace Tech evaluation and cyber-risk branch.
 - [[ElonMusk]], [[ZannyMintonBeddoes]], [[AIAbundanceNarrative]], and [[AISafetyCoordination]] - direct interview branch around values, human agency, and lab coordination.
+- [[ChaSheng]], [[ModelValueEmbedding]], [[SovereignAIModels]], and [[HumanAgencyUnderAI]] - Qizhulou Yan Binke branch on value embedding, state/company models, and power concentration.

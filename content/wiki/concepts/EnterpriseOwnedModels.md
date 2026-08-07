@@ -2,8 +2,8 @@
 title: "Enterprise Owned Models"
 type: concept
 tags: [enterprise-ai, models, post-training]
-sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]
-last_updated: 2026-07-08
+sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
+last_updated: 2026-08-07
 ---
 
 # Enterprise Owned Models
@@ -12,12 +12,15 @@ Enterprise owned models are domain-specific models that a company owns, controls
 
 The concept is not simply "use a cheaper open model." The episode argues that the route makes sense when an enterprise has proprietary data, high-frequency valuable tasks, a clear evaluation system, and a reason not to let [[OpenAI]] or [[Anthropic]] internalize the domain capability.
 
+[[174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]] adds [[ChaSheng]]'s business-logic version. A company may keep training or post-training on its own support logs, domain conversations, and customer interactions because a specialized model can become cheaper and more accurate than a frontier model in that domain while also representing the company's tone, policy, and values.
+
 ## Key Claims
 - Frontier models can be too expensive, too policy-constrained, or too unstable in access for some enterprise workflows.
 - Enterprises may want model ownership when their proprietary data and evaluation loop are themselves strategic assets.
 - [[OpenSourceAIModels]] become more valuable when paired with expert post-training, deployment support, and domain benchmarks.
 - The best candidates are high-value professional domains such as legal, medicine, finance, consulting, and other work with clear evaluation signals.
 - The route still needs [[DomainExpertAlignment]], security controls, human review, and evidence that the model improves business outcomes under [[AIEconomicDiffusion]].
+- Enterprise models can be value-control infrastructure when the model acts as an agentic representative of the company, not only an internal prediction tool.
 
 ## Connections
 - [[Harvey]], [[AppliedCompute]], [[GLM52]], and [[ZhipuAI]] — concrete case and model ecosystem in the source.
@@ -25,3 +28,4 @@ The concept is not simply "use a cheaper open model." The episode argues that th
 - [[FrontierModelAccessRestrictions]] and [[SaaSReliabilityUnderPolicyRisk]] — access and continuity reasons enterprises may seek alternatives.
 - [[ModelRoutingCostControl]] and [[AICommercializationPressure]] — cost and business reasons for owning or routing models.
 - [[LegalAIHallucination]] and [[HumanInTheLoopLegalAI]] — legal-domain quality and responsibility constraints.
+- [[AIDataFlywheel]], [[ModelValueEmbedding]], and [[SovereignAIModels]] - data-loop and value-control extension added by Qizhulou Yan Binke.

@@ -6921,3 +6921,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran health before lint; health scanned 9,836 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 9,836 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-07 with 9,679 nodes and 103,834 edges while the current wiki scan found 9,836 pages; they found no hub stubs, six fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint API failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-07] ingest | 174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟
+
+Added source page for a 起朱楼宴宾客 algorithm-series episode with Amazon AGI's Cha Sheng on open-source model strategy, data flywheels, synthetic-data quality, cognitive debt, knowledge collapse, model value embedding, enterprise and sovereign models, agent harnesses, and AGI limits. Created pages for Cha Sheng, Amazon AGI, Human Taste as AI Training Signal, AI Knowledge Collapse, Model Value Embedding, Cognitive Debt, AI Data Flywheel, and Sovereign AI Models; updated overview, index, 起朱楼宴宾客, Amazon, DeepSeek, Qwen, Anthropic, Claude, Open Source AI Models, Model Collapse, AI Training Data Scarcity, Research Taste, Enterprise Owned Models, Continual Learning, AI Alignment Governance, Recursive Self-Improvement, Agent Harness, Human Agency Under AI, Human Connection Under AI, Cognitive Surrender, and AI Model Value Surveying. No direct contradiction found; the AGI timing and job-disappearance claims remain source-scoped predictions from the 2026-07-21 episode.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

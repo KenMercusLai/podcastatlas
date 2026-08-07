@@ -655,6 +655,10 @@
     "title": "174.读笛卡尔，是件大事",
     "url": "/wiki/sources/174-du-dikaer-shi-jian-dashi-966856702/"
   },
+  "174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza": {
+    "title": "174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟",
+    "url": "/wiki/sources/174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza/"
+  },
   "175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044": {
     "title": "175.女性卫生用品的社会史：比想象中更精彩！",
     "url": "/wiki/sources/175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044/"
@@ -1411,6 +1415,10 @@
     "title": "AI Data-Center Private Credit Financing",
     "url": "/wiki/concepts/aidatacenterprivatecreditfinancing/"
   },
+  "AIDataFlywheel": {
+    "title": "AI Data Flywheel / AI数据飞轮",
+    "url": "/wiki/concepts/aidataflywheel/"
+  },
   "AIDataInfrastructure": {
     "title": "AI Data Infrastructure",
     "url": "/wiki/concepts/aidatainfrastructure/"
@@ -1646,6 +1654,10 @@
   "AIJournalismTrust": {
     "title": "AI Journalism Trust",
     "url": "/wiki/concepts/aijournalismtrust/"
+  },
+  "AIKnowledgeCollapse": {
+    "title": "AI Knowledge Collapse / AI知识塌缩",
+    "url": "/wiki/concepts/aiknowledgecollapse/"
   },
   "AILabSafetyReportCards": {
     "title": "AI Lab Safety Report Cards",
@@ -3126,6 +3138,10 @@
   "Amazon": {
     "title": "Amazon",
     "url": "/wiki/entities/amazon/"
+  },
+  "AmazonAGI": {
+    "title": "Amazon AGI",
+    "url": "/wiki/entities/amazonagi/"
   },
   "AmazonWebServices": {
     "title": "Amazon Web Services",
@@ -6495,6 +6511,10 @@
     "title": "Cesare Borgia / 凯撒·波吉亚",
     "url": "/wiki/entities/cesareborgia/"
   },
+  "ChaSheng": {
+    "title": "查晟 / Cha Sheng",
+    "url": "/wiki/entities/chasheng/"
+  },
   "Chagee": {
     "title": "Chagee / 霸王茶姬",
     "url": "/wiki/entities/chagee/"
@@ -7758,6 +7778,10 @@
   "Cognition": {
     "title": "Cognition",
     "url": "/wiki/entities/cognition/"
+  },
+  "CognitiveDebt": {
+    "title": "Cognitive Debt / 认知负债",
+    "url": "/wiki/concepts/cognitivedebt/"
   },
   "CognitiveDeclineAdvancePlanning": {
     "title": "Cognitive Decline Advance Planning / 认知障碍提前规划",
@@ -16083,6 +16107,10 @@
     "title": "Human Risk Override",
     "url": "/wiki/concepts/humanriskoverride/"
   },
+  "HumanTasteAsAITrainingSignal": {
+    "title": "Human Taste as AI Training Signal / 人的品味作为AI训练信号",
+    "url": "/wiki/concepts/humantasteasaitrainingsignal/"
+  },
   "HumanWorldAsHell": {
     "title": "Human World As Hell / 人间如地狱",
     "url": "/wiki/concepts/humanworldashell/"
@@ -22482,6 +22510,10 @@
   "ModelRoutingCostControl": {
     "title": "Model Routing Cost Control",
     "url": "/wiki/concepts/modelroutingcostcontrol/"
+  },
+  "ModelValueEmbedding": {
+    "title": "Model Value Embedding / 模型价值观嵌入",
+    "url": "/wiki/concepts/modelvalueembedding/"
   },
   "ModelWorkflowFit": {
     "title": "Model Workflow Fit",
@@ -30562,6 +30594,10 @@
   "SouthwestAssociatedUniversity": {
     "title": "西南联大",
     "url": "/wiki/entities/southwestassociateduniversity/"
+  },
+  "SovereignAIModels": {
+    "title": "Sovereign AI Models / 主权AI模型",
+    "url": "/wiki/concepts/sovereignaimodels/"
   },
   "SovereignHousingDevelopment": {
     "title": "Sovereign Housing Development",
