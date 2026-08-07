@@ -7021,3 +7021,7 @@ Added source page for a 面基 episode on fixed-income-plus and multi-asset priv
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | What makes a toy go viral
+
+Added source page for a Planet Money episode on Squishy Dumplings as a viral toy business case. Created pages for Squishy Dumplings, RMS / Really Magical Stuff, Zach Barber, Kristin McLean, Five Below, Yiwu, Mystery Toy Packaging, Viral Toy Supply Chain, Small-I Innovation, and Collectible Drop Scarcity; updated overview, index, Planet Money, NPR, TikTok, Intermittent Reinforcement, Accidental Virality, Retail Inventory Velocity, Hardware Inventory Risk, Packaging As Product Experience, Flexible Manufacturing, and Retail Shelf Appeal. No direct contradiction found; the source mainly qualifies viral-demand stories by showing that TikTok attention only becomes useful when product format, scarcity, channel fit, and inventory discipline are already in place.

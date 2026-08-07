@@ -2,13 +2,15 @@
 title: "Intermittent Reinforcement"
 type: concept
 tags: [psychology, behavior, addiction, design]
-sources: [84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
-last_updated: 2026-08-06
+sources: [what-makes-a-toy-go-viral, 84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
+last_updated: 2026-08-07
 ---
 
 # Intermittent Reinforcement
 
 Intermittent reinforcement is the behavior pattern where uncertain, variable reward strengthens repeated action more than fully predictable reward. [[44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]] introduces it through the Skinner-box analogy for slot machines: a random reward schedule can make pressing, pulling, or tapping more compulsive.
+
+[[what-makes-a-toy-go-viral]] adds the retail-toy version through [[SquishyDumplings]]. [[MysteryToyPackaging]] makes each purchase uncertain, while [[CollectibleDropScarcity]] turns rare variants into a reason to keep buying, comparing, and filming openings for [[TikTok]].
 
 The episode applies this beyond casinos to mobile-game draw mechanics and simple games where quick failure, occasional success, and immediate replay produce a tight loop. The important design issue is not only randomness itself but the way random reward is paired with speed, sound, near misses, and low-friction repetition.
 
@@ -24,9 +26,11 @@ The episode applies this beyond casinos to mobile-game draw mechanics and simple
 - Responsible design and regulation can reduce harm through limits, guarantees, slower loops, or clearer cost boundaries.
 - In abusive relationships, intermittent relief can make fear feel like love and deepen [[FawnResponse|fawning]] rather than freedom.
 - Episode 84 adds that intermittent tenderness can keep the person invested even after an outside witness names the relationship as abusive.
+- The squishy-dumpling source adds that blind packaging and collectible rarity can turn a low-price toy into a repeat-purchase loop.
 
 ## Connections
 - [[MachineGamblingAddiction]] - casino-machine source context.
+- [[SquishyDumplings]], [[MysteryToyPackaging]], and [[CollectibleDropScarcity]] - retail toy source case.
 - [[AddictiveInteractionDesign]] - broader design pattern using uncertain reward.
 - [[TraumaticAttachment]] - intimate-relationship form added by episode 181.
 - [[FawnResponse]] - trauma response that can keep a person inside the variable reward cycle.

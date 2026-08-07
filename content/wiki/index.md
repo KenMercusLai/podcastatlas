@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [What makes a toy go viral](sources/what-makes-a-toy-go-viral.md) — Planet Money episode on Squishy Dumplings, RMS, mystery packaging, TikTok unboxing, scarcity drops, Five Below, and a no-warehouse viral toy supply chain.
 - [Meta and Microsoft report different AI earnings](sources/tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128.md) — Marketplace Tech Bytes episode on AI capex scrutiny at Microsoft, Meta, and Google, memory-chip cyclicality, China/Kimi K3 uncertainty, AI worker calls for government pace-setting, and NBCUniversal's Peacock bundle inside YouTube Premium.
 - [国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23](sources/guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f.md) — What's Next episode on WAIC supernodes, Huawei CM384 versus Nvidia GB200 NVL72, Scale Up interconnect, protocol fragmentation, power/cooling constraints, and domestic AI-chip order validation.
 - [Centering humans in AI education might be key to innovation and research](sources/tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128.md) — Marketplace Tech episode on USC's human-centered AI education push, Sri Narayanan's behavioral-signal research, the $200 million Stevens School AI investment, project-driven curricula, non-STEM AI minors, and ethics/privacy/bias guardrails.
@@ -876,6 +877,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Squishy Dumplings](entities/SquishyDumplings.md) — Viral RMS sensory toy used by Planet Money to explain mystery packaging, collectible scarcity, TikTok unboxing, and toy-fad supply chains.
+- [RMS / Really Magical Stuff](entities/ReallyMagicalStuff.md) — Toy company behind Squishy Dumplings, framed through small-i innovation, mystery packaging, scarcity drops, and inventory-light retail supply.
+- [Zach Barber](entities/ZachBarber.md) — RMS U.S. CEO explaining small-i innovation, mystery toys, scarcity drops, TikTok virality, and no-warehouse supply-chain discipline.
+- [Kristin McLean](entities/KristinMcLean.md) — Toy-industry analyst contextualizing squishy-toy growth, sensory demand, and limited-release toy economics.
+- [Five Below](entities/FiveBelow.md) — Low-price impulse retailer named as a channel for Squishy Dumplings and repeat collectible purchases.
+- [Yiwu](entities/Yiwu.md) — Chinese open-market toy ecosystem where RMS first found the squishy dumpling concept.
 - [NBCUniversal](entities/NBCUniversal.md) — Media company whose Peacock content is placed inside YouTube Premium in the source's platform-native streaming bundle case.
 - [Peacock](entities/PeacockStreaming.md) — NBCUniversal streaming service whose sports, series, and film content becomes available inside YouTube Premium.
 - [YouTube Premium](entities/YouTubePremium.md) — YouTube subscription surface used by the source to show platform-native bundling of legacy streaming content.
@@ -5979,6 +5986,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Mystery Toy Packaging](concepts/MysteryToyPackaging.md) — Blind-opening toy format where packaging creates reveal, uncertainty, repeat buying, and shareable reaction value.
+- [Viral Toy Supply Chain](concepts/ViralToySupplyChain.md) — Toy-fad operating model using short orders, close-to-ship production, direct retailer delivery, and inventory restraint under social-media demand.
+- [Small-I Innovation](concepts/SmallIInnovation.md) — Zach Barber's consumer-product frame for trend-matched tweaks that make an existing idea commercially new.
+- [Collectible Drop Scarcity](concepts/CollectibleDropScarcity.md) — Series, rare variants, timed releases, and low-price repeat purchase loops used to keep toy collectors hunting.
 - [Fixed Income Plus Product / 固收+产品](concepts/FixedIncomePlusProduct.md) — Low-volatility product category using a fixed-income base plus controlled equity, convertible-bond, duration, or commodity sleeves under client drawdown limits.
 - [Risk-Budgeted Absolute Return / 风险预算绝对收益](concepts/RiskBudgetedAbsoluteReturn.md) — Holding-period and drawdown-budget approach for converting fixed-income carry and realized gains into controlled multi-asset risk-taking.
 - [Rolling Holding-Period Experience / 滚动持有期体验](concepts/RollingHoldingPeriodExperience.md) — Client-path metric for judging products by the returns and drawdowns experienced by different subscription cohorts.
