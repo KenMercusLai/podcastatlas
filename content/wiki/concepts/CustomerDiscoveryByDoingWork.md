@@ -2,11 +2,13 @@
 title: "Customer Discovery By Doing Work"
 type: concept
 tags: [startup, customer-discovery, operations]
-sources: [toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final]
+sources: [sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908, toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final]
 last_updated: 2026-08-07
 ---
 
 # Customer Discovery By Doing Work
+
+[[sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908]] adds a music-retail version through [[ChuckSurack]] and [[Sweetwater]]. Chuck learned the customer problem by touring as a musician, running sound, recording school concerts from a VW bus, editing corporate recordings by hand, creating [[KurzweilK250]] sounds, and supporting other Kurzweil users before equipment sales became the main business.
 
 [[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]] adds a restaurant software version through [[Toast]]. The founders did not only interview restaurant owners; they built integrations, installed systems, trained staff, answered support calls, and manually rescued the [[DwellTime]] outage, turning service work into product discovery for [[MissionCriticalRestaurantSoftware]].
 
@@ -44,6 +46,7 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 - In logistics, fieldwork can expose physical bottlenecks and incentive loops that are invisible from documents or dashboards alone.
 - In medical devices, discovery can mean converting clinician feedback into device ergonomics, procedural safety, and validation requirements even when the founder cannot personally perform the clinical work.
 - In regulated back-office software, watching customer onboarding can reveal privacy, compliance, and data-entry requirements that belong in the product itself.
+- In technical retail, doing the craft and support work can reveal the advice, trust, and service systems customers need before buying.
 
 ## Connections
 - [[TonyXu]], [[DoorDash]], [[PaloAltoDelivery]], and [[StanfordStartupGarage]] - source case.
@@ -59,3 +62,4 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 - [[RyanPetersen]], [[Flexport]], [[GlobalLogisticsCoordination]], and [[LogisticsCrisisResponse]] - logistics fieldwork case added by the Ryan Petersen episode.
 - [[Gusto]], [[JoshReeves]], [[EddieKim]], [[TomerLondon]], and [[PayrollInfrastructureTrust]] - payroll-onboarding case added by the Gusto episode.
 - [[Toast]], [[AmanNarang]], [[DwellTime]], and [[RestaurantOperatingSystem]] - restaurant software fieldwork case added by How I Built This.
+- [[ChuckSurack]], [[Sweetwater]], [[KurzweilK250]], [[ServiceLedRetailMoat]], and [[SalesEngineerModel]] - music-retail fieldwork case added by How I Built This.

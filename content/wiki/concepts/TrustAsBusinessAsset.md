@@ -2,7 +2,7 @@
 title: "Trust As Business Asset"
 type: concept
 tags: [governance, trust, business-model]
-sources: [tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128, 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, would-you-trust-an-economist-with-your-economy, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, seven-allegedly-fake-chanel-bags-vs-the-realreal, costco-1, rolex-1, 142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq]
+sources: [sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908, tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128, 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, would-you-trust-an-economist-with-your-economy, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, seven-allegedly-fake-chanel-bags-vs-the-realreal, costco-1, rolex-1, 142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq]
 last_updated: 2026-08-07
 ---
 
@@ -44,6 +44,8 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 
 [[tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128]] adds the chatbot-service version through [[DylanThompson]]'s missing e-bike case. The source treats [[CustomerServiceSludge]] as a way companies can save support labor or improve internal metrics while making the customer feel abandoned, which turns support escalation into a trust asset rather than an operational detail.
 
+[[sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908]] adds the positive specialty-retail version through [[Sweetwater]]. [[ChuckSurack]] argues that expert phone help, dedicated [[SalesEngineerModel|sales engineers]], [[SweetwaterUniversity]] training, warranty promises, empowered replacements, and item-level guitar inspection make customer confidence a commercial asset, not just a support cost.
+
 [[would-you-trust-an-economist-with-your-economy]] adds a professional-expertise analogue through [[ExpertTrustRepair]]. In that source, trust is not a business model but it behaves like an asset: economists and statistical institutions accumulate it through reliable work, spend it through mistakes or overconfidence, and repair it only through costly signals, transparency, and accountable changes.
 
 ## Key Claims
@@ -70,6 +72,7 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - Expert trust behaves like an institutional asset when public confidence in data, forecasts, and professional advice affects whether people act on evidence.
 - In Japan-market entry, support access and origin transparency can be trust assets: automation helps only if it does not make the customer feel abandoned when escalation is needed.
 - In chatbot-first customer service, accessible human escalation can be a trust asset because automation that closes or deflects hard cases may save costs while damaging confidence.
+- In specialty retail, trust can be accumulated through expert advice, inspection, warranty, and empowered service policies that reduce buyer risk before and after purchase.
 
 ## Connections
 - [[FinancialGravity]] - pressure that can redirect trust.
@@ -94,3 +97,4 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - [[BenHo]], [[EconomistTrustCrisis]], [[OfficialStatisticsCredibility]], and [[ExpertTrustRepair]] - professional trust-repair branch added by Planet Money.
 - [[JapanMarketEntryTrust]], [[Roborock]], [[AnkerInnovations]], and [[JapaneseSeasonalLimitedConsumption]] - Japan-market branch where channel, service, and cultural fit create or weaken trust.
 - [[DylanThompson]], [[FedEx]], [[CustomerServiceSludge]], and [[CustomerSupportAutomation]] - chatbot-service branch where escalation quality determines customer trust.
+- [[Sweetwater]], [[ChuckSurack]], [[ServiceLedRetailMoat]], [[SalesEngineerModel]], [[SweetwaterUniversity]], and [[IndividualItemEcommerce]] - specialty-retail branch where advice and inspection become trust assets.

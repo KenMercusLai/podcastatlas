@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company.](sources/sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908.md) — How I Built This episode on Sweetwater's service-led pro-audio retail model, Chuck Surack's Kurzweil-driven retail turn, sales engineers, Sweetwater University, online guitar inspection, Amazon contrast, and founder succession.
 - [Vol.267 如何现场看世界杯并大亏一笔 feat.鹰眼时间](sources/vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145.md) — 商业就是这样 crossover with 鹰眼时间 on 2026 World Cup host-city costs, local sponsorship, fan festivals, high on-site prices, official resale fees, and a $900-plus ticket-loss case.
 - [How to beat the resource curse in Norway (Summer School)](sources/how-to-beat-the-resource-curse-in-norway-summer-school.md) — Planet Money Summer School episode on Norway's oil governance, Farouk Al Qassem, slow extraction, the Norwegian oil fund, social trust, and salmon-sushi market creation in Japan.
 - [143. 「蔚小理」的高端探索](sources/143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1.md) — 疯投圈 episode on Li Auto, XPeng, and NIO's premium-EV positioning, family SUVs, MONA-driven volume, GX high-end push, NIO battery leasing, and battery-swap infrastructure.
@@ -871,6 +872,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sweetwater](entities/Sweetwater.md) — Fort Wayne-based musical-instrument and pro-audio retailer built around sales engineers, expert support, service promises, and item-level online guitar trust.
+- [Chuck Surack](entities/ChuckSurack.md) — Sweetwater founder whose path runs from touring saxophonist and mobile recording operator to service-led pro-audio retail builder and chairman.
+- [Sweetwater University](entities/SweetwaterUniversity.md) — Sweetwater's sales-engineer training system for making technical retail advice and customer conversations repeatable.
+- [Kurzweil K-250](entities/KurzweilK250.md) — Digital instrument that gave Chuck Surack rare sound-creation expertise and helped move Sweetwater from recording services into equipment retail.
 - [鹰眼时间](entities/YingyanShijian.md) — Football podcast context supplying the Vol.267 World Cup fan-experience and on-site observation layer.
 - [特特飞](entities/TeteFei.md) — 鹰眼时间 speaker whose 2026 World Cup trip and resale-ticket loss anchor Vol.267's fan-cost analysis.
 - [Norway](entities/Norway.md) — Country case for Planet Money's resource-curse-governance and salmon export-market-creation episode.
@@ -5951,6 +5956,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Service-Led Retail Moat](concepts/ServiceLedRetailMoat.md) — Retail strategy where expert advice, training, warranty, support authority, and fulfillment make service a durable advantage against price-only competition.
+- [Sales Engineer Model](concepts/SalesEngineerModel.md) — Dedicated, technically credible sales-advisor model that turns diagnosis, account memory, and support into retail trust.
+- [Individual-Item Ecommerce](concepts/IndividualItemEcommerce.md) — Online retail pattern where each physical unit is photographed, inspected, described, and matched because buyers care about item-level variation.
 - [World Cup Host-City Economics](concepts/WorldCupHostCityEconomics.md) — Cost and revenue split between FIFA's central rights and host-city committee operations, subsidies, venues, transport, and fan festivals.
 - [Host City Supporter Sponsorship](concepts/HostCitySupporterSponsorship.md) — City-level World Cup sponsor layer focused on local activation, hospitality, fan-zone presence, and host-committee revenue.
 - [Fan Festival Commercialization](concepts/FanFestivalCommercialization.md) — Official fan-zone monetization through sponsor exposure, local event costs, admission rules, activities, food, drink, and merchandise.

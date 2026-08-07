@@ -7427,6 +7427,10 @@
     "title": "Chrysippus / 克律西波斯",
     "url": "/wiki/entities/chrysippus/"
   },
+  "ChuckSurack": {
+    "title": "Chuck Surack",
+    "url": "/wiki/entities/chucksurack/"
+  },
   "ChudongZahuopu": {
     "title": "触动杂货铺 / Chudong Zahuopu",
     "url": "/wiki/entities/chudongzahuopu/"
@@ -16587,6 +16591,10 @@
     "title": "Indigenous Residential School Trauma",
     "url": "/wiki/concepts/indigenousresidentialschooltrauma/"
   },
+  "IndividualItemEcommerce": {
+    "title": "Individual-Item Ecommerce",
+    "url": "/wiki/concepts/individualitemecommerce/"
+  },
   "IndividualPsychology": {
     "title": "Individual Psychology",
     "url": "/wiki/concepts/individualpsychology/"
@@ -19146,6 +19154,10 @@
   "KurtStenn": {
     "title": "Kurt Stenn / 库尔特·斯坦",
     "url": "/wiki/entities/kurtstenn/"
+  },
+  "KurzweilK250": {
+    "title": "Kurzweil K-250",
+    "url": "/wiki/entities/kurzweilk250/"
   },
   "Kuse": {
     "title": "Kuse",
@@ -28935,6 +28947,10 @@
     "title": "Sales As Learnable Skill",
     "url": "/wiki/concepts/salesaslearnableskill/"
   },
+  "SalesEngineerModel": {
+    "title": "Sales Engineer Model",
+    "url": "/wiki/concepts/salesengineermodel/"
+  },
   "SalesVelocity": {
     "title": "Sales Velocity",
     "url": "/wiki/concepts/salesvelocity/"
@@ -29602,6 +29618,10 @@
   "ServiceBrandStandardization": {
     "title": "Service Brand Standardization",
     "url": "/wiki/concepts/servicebrandstandardization/"
+  },
+  "ServiceLedRetailMoat": {
+    "title": "Service-Led Retail Moat",
+    "url": "/wiki/concepts/serviceledretailmoat/"
   },
   "ServiceMarketplaceQualityControl": {
     "title": "Service Marketplace Quality Control",
@@ -31970,6 +31990,14 @@
   "Sweden": {
     "title": "Sweden",
     "url": "/wiki/entities/sweden/"
+  },
+  "Sweetwater": {
+    "title": "Sweetwater",
+    "url": "/wiki/entities/sweetwater/"
+  },
+  "SweetwaterUniversity": {
+    "title": "Sweetwater University",
+    "url": "/wiki/entities/sweetwateruniversity/"
   },
   "SwingProducerRole": {
     "title": "Swing Producer Role",
@@ -38586,6 +38614,10 @@
   "sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21": {
     "title": "Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)",
     "url": "/wiki/sources/sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21/"
+  },
+  "sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908": {
+    "title": "Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company.",
+    "url": "/wiki/sources/sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908/"
   },
   "ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec": {
     "title": "她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO",

@@ -6981,3 +6981,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] ingest | Vol.267 如何现场看世界杯并大亏一笔 feat.鹰眼时间
 
 Added source page for a 商业就是这样 crossover with 鹰眼时间 on 2026 World Cup host-city economics, local sponsorship, fan festivals, high on-site prices, official resale fees, and 特特飞's $900-plus ticket-loss case. Created pages for 鹰眼时间, 特特飞, World Cup Host-City Economics, Host City Supporter Sponsorship, Fan Festival Commercialization, and Official Sports Ticket Resale; updated overview, index, FIFA, FIFA World Cup, Gianni Infantino, 商业就是这样, Sports Event Ticketing, World Cup Expansion, Global Sports Sponsorship, Corporate Hospitality Platform, Sports Mega-Event Welfare Accounting, Sports Entertainment Flywheel, League Stakeholder Alignment, Global Sports Governance, and Football Commercialization Fan Conflict. No direct contradiction found; the source complements earlier World Cup expansion and marketing pages by adding the host-city and live-fan cost structure.
+
+## [2026-08-07] ingest | Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company.
+
+Added source page for a How I Built This episode on Chuck Surack building Sweetwater from mobile recording and Kurzweil K-250 sound disks into a service-led online pro-audio and music retail company. Created pages for Sweetwater, Chuck Surack, Sweetwater University, Kurzweil K-250, Service-Led Retail Moat, Sales Engineer Model, and Individual-Item Ecommerce; updated overview, index, How I Built This, Guy Raz, Amazon, Trust As Business Asset, Relationship-Led Sales, Customer Discovery By Doing Work, Unscalable Founder Work, Retail Counter-Positioning, Ecommerce Fulfillment Complexity, and Founder Succession. No direct contradiction found; the source qualifies customer-service sludge by showing the positive version of expert escalation, accountable support, training, and relationship memory as a retail moat.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
