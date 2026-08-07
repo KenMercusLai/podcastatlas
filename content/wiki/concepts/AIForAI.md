@@ -2,7 +2,7 @@
 title: "AI For AI"
 type: concept
 tags: [ai, ai-research, automation, model-design]
-sources: [149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv]
+sources: [149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv, reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]
 last_updated: 2026-08-08
 ---
 
@@ -12,6 +12,8 @@ AI for AI is the source's umbrella for using AI to improve AI research, model de
 
 Liu's version differs from a simple paper agent or coding agent. He wants [[PhysicsOfAI]] first, then AI that can automate that physics-like understanding, and only then AI that improves AI. The source condenses this as "AI for Physics of AI for AI."
 
+[[reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]] adds [[WangTianfan]]'s investment framing. He names using models to develop models as one of three AI-company growth drivers, alongside data flywheels and [[AIFirstOrganization|AI-first organizations]] that use internal context to reduce coordination friction.
+
 ## Key Claims
 - AI for AI can include coding, paper reading, hypothesis generation, experiment execution, failure analysis, and model-design search.
 - The hard part is not only trying more ideas; it is raising the quality of idea selection and failure interpretation.
@@ -20,6 +22,7 @@ Liu's version differs from a simple paper agent or coding agent. He wants [[Phys
 - [[MetaModelTrainingCurvePrediction]] can reduce compute waste by predicting which architecture ideas deserve real training.
 - [[TrainingAutopilot]] and [[VibeTraining]] are productized forms of AI for AI, but the source treats them as future horizons rather than solved products.
 - AI for AI may be necessary for AGI in Liu's view, but it is not sufficient without stronger abstraction and continual learning.
+- The Wang Tianfan source treats AI for AI less as a research architecture and more as a growth driver that can compound a model or AI-native company.
 
 ## Connections
 - [[AutoResearch]] — operational research-automation loop that overlaps with AI for AI.
@@ -28,3 +31,4 @@ Liu's version differs from a simple paper agent or coding agent. He wants [[Phys
 - [[PhysicsOfAI]], [[MechanisticInterpretability]], and [[AIInterpretabilityByAI]] — model-understanding path Liu wants to automate.
 - [[OPHISResearchWorkflow]], [[MetaModelTrainingCurvePrediction]], [[TrainingAutopilot]], and [[VibeTraining]] — source-specific workflow and product path.
 - [[ResearchTaste]], [[AIVerification]], and [[TrainingComputeAllocation]] — bottlenecks for making automated research useful.
+- [[WangTianfan]], [[AIDataFlywheel]], and [[AIFirstOrganization]] — investment-growth-driver branch added by the Wang Tianfan source.

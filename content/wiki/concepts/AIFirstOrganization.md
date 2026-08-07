@@ -2,8 +2,8 @@
 title: "AI-First Organization"
 type: concept
 tags: [ai, organizations, management]
-sources: [openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]
-last_updated: 2026-08-05
+sources: [openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2, reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]
+last_updated: 2026-08-08
 ---
 
 # AI-First Organization
@@ -18,6 +18,8 @@ The source presents [[Creo]] as an internal case: engineering, testing, go-to-ma
 
 [[youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]] adds [[Albert]]'s stricter new-project experiment: no human-written code, with engineering work pushed into AI execution and humans responsible for requirements, review, and organization logic. The source reinforces that AI-first organization is not only adoption of tools; it changes who writes specifications and where human judgment sits.
 
+[[reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]] adds [[WangTianfan]]'s investor view. He treats AI-native organization design as a growth driver for model companies because shared organizational context can reduce collaboration friction and make the company itself use AI more deeply than ordinary tool adoption.
+
 ## Key Claims
 - AI-first work changes trust: the organization has to decide when to trust AI planning, execution, and recommendations, then add guardrails that make that trust inspectable.
 - Implementation speed can reverse old bottlenecks. Engineering may produce more features than go-to-market can position, sell, or time for the market.
@@ -28,6 +30,7 @@ The source presents [[Creo]] as an internal case: engineering, testing, go-to-ma
 - Small AI-first teams may treat token budget as a substitute for some hiring, but only if [[AICodingVerification]] and human product judgment keep output useful.
 - An AI-first organization may have to manage an agent workforce directly, with norms, task ownership, shared context, and identity cues for nonhuman coworkers.
 - A zero-human-code project is possible only if requirements, architecture, testing, and review become explicit enough for agents to carry implementation.
+- An AI-native organization can become a company-level growth driver when internal context, AI use, and feedback loops make coordination faster than a traditional organization.
 
 ## Connections
 - [[AIOrganizationDesign]] - broader organization-design field this concept specializes.
@@ -39,3 +42,4 @@ The source presents [[Creo]] as an internal case: engineering, testing, go-to-ma
 - [[Sheet0]], [[WangWenfeng]], [[AIManagingAI]], and [[AIInferenceCostStructure]] — high-token small-team case added by the 42章经 source.
 - [[SlockAI|Slock.ai]], [[RC]], [[AgentDynamics]], and [[AgentOrganizationalCulture]] — many-agent operating case added by the RC episode.
 - [[Albert]], [[CodingDemocratization]], and [[TheoreticalOperatingStandard]] — zero-human-code and operating-standard branch added by the Albert episode.
+- [[WangTianfan]], [[AIForAI]], [[AIDataFlywheel]], and [[AINativeInvestingWorkflow]] — investment framing of AI-first organizations as a growth driver.

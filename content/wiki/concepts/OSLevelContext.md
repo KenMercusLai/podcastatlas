@@ -2,8 +2,8 @@
 title: "OS-Level Context"
 type: concept
 tags: [agents, context, privacy, product-design]
-sources: [tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
-last_updated: 2026-07-23
+sources: [tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]
+last_updated: 2026-08-08
 ---
 
 # OS-Level Context
@@ -20,6 +20,8 @@ OS-level context is [[Paperboy]]'s term-level bet that useful agents should lear
 
 [[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]] adds the wearable and physical-world version. [[DongHongguang]] argues that a personal assistant cannot rely only on online behavior or phone app context; earbuds, watches, cameras, microphones, and sensors can capture the user's surrounding situation at moments when the phone is not being operated.
 
+[[reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]] adds [[AIContextMachine]] as an investing formulation of the same need. [[WangTianfan]] argues that context should include what the user has said, heard, seen, done, and fed back, then be transformed into reflection or care rather than remaining a raw activity log.
+
 ## Key Claims
 - OS activity can support [[PersistentAgentMemory]] because it captures work behavior that users may never write down in prompts.
 - The usefulness of this context depends on compression, summarization, permission boundaries, and application-specific choices.
@@ -31,6 +33,7 @@ OS-level context is [[Paperboy]]'s term-level bet that useful agents should lear
 - Foldable-phone context adds a task-surface layer: the agent may need to see which document, chat, map, assistant, or calendar item is visible beside the main task.
 - Wearable context extends OS-level context from screen state into physical-world signals, but it also increases privacy and permission demands because the assistant may perceive people, places, objects, and speech around the user.
 - Local desktop capture can make old work and conversations retrievable, but it also raises privacy and retention questions before the agent takes any visible action.
+- Wang's context-machine frame adds that context capture should be judged by whether it improves salience, reflection, and value choice, not only whether it records more surfaces.
 
 ## Connections
 - [[ContextEngineering]] — broader practice of collecting and shaping useful model input.
@@ -42,3 +45,4 @@ OS-level context is [[Paperboy]]'s term-level bet that useful agents should lear
 - [[SmartphoneAIHub]], [[OnDeviceAI]], and [[EdgeCloudAIBoundary]] — phone-side context and privacy branch added by S10E17.
 - [[MobileAIWorkstation]], [[AIFileManagement]], and [[XFold6]] — mobile task-context branch added by Luanfanshu 268.
 - [[WearableAIAssistant]], [[GuangfanTechnology]], and [[AgentPermissionBoundaries]] — physical-world context branch added by S10E15.
+- [[WangTianfan]], [[AIContextMachine]], [[WisdomOverIntelligence]], and [[Lookie|Loki/Lookie]] — investor and wearable-context branch added by the Wang Tianfan source.

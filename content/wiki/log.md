@@ -7078,6 +7078,10 @@ Added source page for a LateTalk episode with Yuan Xin of SAP on ERP, AI coding,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-08] ingest | 「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】
+
+Added source page for a Shizilukou Crossing road-podcast episode with Will Wang Tianfan of B.A.I Capital on 15 years in VC, AI-era investment judgment, context machines, wisdom over intelligence, AI-native investing workflows, AI infra versus crypto infra, blockchain financial innovation, three-non venture theory, Lookie, Mashie, and AI for fun. Created pages for Wang Tianfan, B.A.I Capital, Lookie, Mashie, Yuan Ming, Wisdom Over Intelligence, AI Context Machine, AI-Native Investing Workflow, AI Cognitive Gym, Three-Non Venture Theory, AI Infra Crypto Analogy, Blockchain Financial Innovation, and AI For Fun; updated overview and index. No direct contradiction found; the source qualifies productivity-only AI and upstream-infrastructure hype by emphasizing context, feedback, founder vision, human agency, joy, and actual product use.
+
 ## [2026-08-08] ingest | 148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”
 
 Added source page for a 张小珺Jùn｜商业访谈录 episode with Yu Kaichao on vLLM, Infract, open-source inference infrastructure, PagedAttention, model-infra co-design, DeepSeek/Kimi, MoE, prefix caching, test-time scaling, and hardware lottery. Created pages for Yu Kaichao, Infract, vLLM, PyTorch Foundation, PagedAttention, Model-Infra Co-Design, Open Source AI Infrastructure, Continuous Batching, Prefix Caching, Test-Time Scaling, and Hardware Lottery; updated overview, index, 张小珺Jùn｜商业访谈录, DeepSeek, Kimi, PyTorch, Tsinghua University, UC Berkeley, AI Inference Cost Structure, Agent Harness, Mixture of Experts, Open Source AI Models, High-Throughput Inference Batching, Inference Acceleration Stack, AI Chip Specialization, AI Infrastructure Full-Stack Moat, Large Company Open Source Strategy, and Model Harness Co-Evolution. No direct contradiction found; the source strengthens the wiki's open-model and agent-harness branches by showing that inference engines, hardware fit, community governance, and prompt/cache stability now determine whether open AI capability becomes usable production infrastructure.
@@ -7189,3 +7193,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 10,248 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.

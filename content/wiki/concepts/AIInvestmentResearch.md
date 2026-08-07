@@ -2,8 +2,8 @@
 title: "AI Investment Research"
 type: concept
 tags: [ai, investing, finance]
-sources: [169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1]
-last_updated: 2026-08-07
+sources: [169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]
+last_updated: 2026-08-08
 ---
 
 # AI Investment Research
@@ -28,6 +28,8 @@ AI investment research is the episode's practical answer to whether tools such a
 
 [[169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c]] adds the career-pipeline version. In professional finance, AI-supported research is not only an investor tool; it can change who gets hired to collect data, reproduce reports, screen factors, summarize market news, and support senior investment judgment. The source therefore links AI research productivity to [[FinanceEntryLevelAICompression]] and to the value of [[IndustryToFinanceCareerPath|domain-heavy paths into finance]].
 
+[[reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]] adds the venture-capital workflow version through [[WangTianfan]] and [[AINativeInvestingWorkflow]]. The source emphasizes detailed prompt templates for concept research, product and community checks, due diligence interview synthesis, and portfolio tracking, while keeping high-level belief formation and founder judgment outside the model.
+
 ## Key Claims
 - AI lowers the cost of understanding finance, but it does not give retail investors institutional-quality data, execution, or risk systems.
 - The biggest beneficiaries of AI in markets may be institutions that already have data, compute, and talent.
@@ -50,6 +52,7 @@ AI investment research is the episode's practical answer to whether tools such a
 - AI can make an initial research framework cheap, which shifts scarce advantage toward [[AICompressedInvestmentResearchAdvantage]]: judgment, behavior, data quality, and asking better questions.
 - If AI compresses information and analysis speed, personal suitability for active stock picking becomes more important, not less.
 - Episode 169 adds that the same compression can shrink old junior research tasks, so finance-career preparation needs domain judgment and evidence of independent work rather than only willingness to process information.
+- The Wang Tianfan source adds that VC research prompts should include worries, desired outputs, product channels, user feedback, competitors, and diligence questions rather than asking a generic "is this good" question.
 
 ## Connections
 - [[ChatGPT]] — example tool named in the episode.
@@ -67,3 +70,4 @@ AI investment research is the episode's practical answer to whether tools such a
 - [[ZhuNing]], [[BehavioralInvestingBiases]], and [[SpeculativeBubblePsychology]] — 42章经 interview extension around AI-assisted overconfidence and institutional advantage.
 - [[ICEInvestor]], [[AICompressedInvestmentResearchAdvantage]], [[GoodCompanyGoodStock]], and [[InvestmentRiskManagement]] — FengTouQuan episode 139's boundary between research productivity and investable edge.
 - [[FinanceEntryLevelAICompression]], [[IndustryToFinanceCareerPath]], and [[FinanceIndustryRoleSegmentation]] — episode 169's professional finance-career extension.
+- [[WangTianfan]], [[AINativeInvestingWorkflow]], [[ThreeNonVentureTheory]], and [[HumanJudgmentUnderAI]] — venture-capital workflow branch added by the Wang Tianfan source.

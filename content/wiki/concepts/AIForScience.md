@@ -2,7 +2,7 @@
 title: "AI For Science"
 type: concept
 tags: [ai, science, investment]
-sources: [tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb, 149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv]
+sources: [tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb, 149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv, reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]
 last_updated: 2026-08-08
 ---
 
@@ -32,6 +32,8 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 
 [[vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]] adds the industry-skeptical AI drug version. [[XiaoPTeacher|小P老师]] still lists AI drug as a 2025 direction, but [[AIClinicalValidationInDrugDiscovery]] makes clinical readouts the deciding evidence rather than platform narrative, demo quality, or model architecture.
 
+[[reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]] adds [[WangTianfan]]'s founder-vision boundary. He argues that in AI for science, AI may be only the tool layer; the decisive question is whether the founder has a large enough scientific or human vision to use the tool toward a meaningful starting point.
+
 ## Investment Logic
 - Scientific and industrial domains may be harder to commoditize than lightweight software wrappers.
 - They require specialized knowledge, data, and operational credibility.
@@ -43,6 +45,7 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 - [[AllModalMolecularWorldModel]] adds a biological route where verification must pass molecular interaction, synthesis, wet-lab, and customer-use constraints.
 - [[AIClinicalValidationInDrugDiscovery]] adds the stricter drug-development version: human clinical data can reprice AI-for-biology claims faster than platform language can defend them.
 - Episode 149 adds a bidirectional boundary: AI can help science, but science-like structure may also be needed to make [[AIForAI]] credible.
+- Wang Tianfan's source adds that founder vision and starting motivation matter especially when AI is a tool applied to a deeper scientific problem.
 
 ## Connections
 - [[ZhengkeFund]] — investment context in which the theme is discussed.
@@ -58,3 +61,4 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 - [[XiaoPTeacher]], [[AIDrugDiscoveryPlatform]], and [[AIClinicalValidationInDrugDiscovery]] — biotech-industry validation check added by Qizhulou vol.117.
 - [[AIForScienceTalent]], [[TShapedAITalent]], [[TianjinUniversity]], and [[AIEraMajorChoice]] — EP266's education and basic-science talent branch.
 - [[LiuZiming|Liu Ziming]], [[PhysicsOfAI]], [[AIForAI]], and [[NewLabOrganization]] — episode 149's reversal from AI for Physics toward science of AI and venture-backed research labs.
+- [[WangTianfan]], [[BAICapital|B.A.I Capital]], [[ThreeNonVentureTheory]], and [[FounderProductFit]] — investor framing around AI-for-science founder vision.

@@ -2,8 +2,8 @@
 title: "Wearable AI Assistant"
 type: concept
 tags: [ai, wearables, assistants, hardware]
-sources: [ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
-last_updated: 2026-08-07
+sources: [ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]
+last_updated: 2026-08-08
 ---
 
 # Wearable AI Assistant
@@ -20,6 +20,8 @@ The concept does not deny the [[SmartphoneAIHub]] thesis. Instead, it splits the
 
 [[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] adds an adoption signal through [[Meta]]'s updated [[RayBanSmartGlasses|Ray-Ban smart glasses]] and [[NeuralBand]]. [[MariaCurie|Maria Curi]] says the product's normal-looking Ray-Ban design, marketing, AI features, and improved technology helped demand exceed supply, showing that wearable assistants may advance when they look like accepted fashion products rather than obvious gadgets.
 
+[[reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]] adds [[WangTianfan]]'s investor view through [[Lookie|Loki/Lookie]]. He argues that the near-term AI-glasses story can overemphasize form factor while underestimating supply-chain, chip, connectivity, and battery readiness. A pendant-like wearable can be valuable when it captures context more continuously, but the deeper product question is whether the software turns that capture into [[WisdomOverIntelligence|wisdom]], reflection, or joy.
+
 ## Key Claims
 - Wearables are valuable when interaction must happen without stopping, unlocking a screen, or visually operating an app.
 - Earbuds and watches have an adoption advantage over pins, pendants, and many smart-glasses designs because users already accept wearing them all day.
@@ -32,6 +34,7 @@ The concept does not deny the [[SmartphoneAIHub]] thesis. Instead, it splits the
 - Pendants can capture conversation context that phones or desktop agents miss, but they face a higher social-trust burden because they visibly or invisibly record shared space.
 - Established wearables such as [[AppleWatch|Apple Watch]], [[AppleAirPods|Apple AirPods]], and [[OuraRing|Oura Ring]] may be easier AI surfaces than new AI-first gadgets because users already know when and how to wear them.
 - Fashion familiarity can be a functional adoption feature for smart glasses because users may reject assistants that make them look socially abnormal even when the technology works.
+- Wang's Lookie example adds that wearable AI can win through interaction design and emotional output even before glasses reach a fully ready form factor.
 
 ## Connections
 - [[DongHongguang]] and [[GuangfanTechnology]] — source actor and company case.
@@ -44,3 +47,4 @@ The concept does not deny the [[SmartphoneAIHub]] thesis. Instead, it splits the
 - [[RayBanSmartGlasses|Ray-Ban smart glasses]] — adjacent wearable assistant example in the wiki.
 - [[WillGottsagen]], [[TheAtlantic|The Atlantic]], [[Meta]], [[MetaAI|Meta AI]], [[AppleAirPods|Apple AirPods]], [[AppleWatch|Apple Watch]], and [[OuraRing|Oura Ring]] - year-end AI-wearables branch added by Marketplace Tech.
 - [[MariaCurie|Maria Curi]], [[NeuralBand]], and [[SmartGlassesBystanderPrivacy]] - January 2026 adoption and privacy update.
+- [[WangTianfan]], [[BAICapital|B.A.I Capital]], [[Lookie|Loki/Lookie]], [[AIContextMachine]], and [[WisdomOverIntelligence]] - context-machine and wearable-product investment branch.
