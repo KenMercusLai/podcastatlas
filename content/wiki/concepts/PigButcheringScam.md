@@ -2,8 +2,8 @@
 title: "Pig Butchering Scam"
 type: concept
 tags: [fraud, social-engineering, investing, personal-finance]
-sources: [tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj]
-last_updated: 2026-07-12
+sources: [for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj]
+last_updated: 2026-08-07
 ---
 
 # Pig Butchering Scam
@@ -11,6 +11,8 @@ last_updated: 2026-07-12
 A pig butchering scam is a long-con social-engineering pattern where scammers build emotional trust before steering the victim toward transfers, loans, recharge requests, or fake investment platforms. [[ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj]] describes versions involving romance, companionship, photos, voice, care, group staging, and eventual investment or emergency-money requests.
 
 [[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]] adds the crypto-crime and operational-scale version. [[AriRedbord]] describes scammers contacting victims through social media, Telegram, or texts, building a relationship over months, showing small apparent returns, and then pushing larger crypto investment transfers before taking everything.
+
+[[for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95]] adds the upstream compound and political-protection layer. [[SuLinWong]] describes scam messages as part of a global organized industry that can run from casino-linked compounds in [[Cambodia]], move across Southeast Asia after crackdowns, and persist when raids do not reach the protective networks around bosses and facilitators.
 
 ## Key Claims
 - The first product is trust, not the investment platform.
@@ -20,6 +22,7 @@ A pig butchering scam is a long-con social-engineering pattern where scammers bu
 - [[AIImpersonationFraudRisk]] can make the relationship-building phase more convincing if voices, faces, or video-like signals are simulated.
 - The Marketplace Tech source emphasizes that these are organized networks, not only isolated individual scammers.
 - Crypto rails can become the payment and investment story that makes the long-con financially extractive.
+- The For bucks source adds that the scam's production environment can be physical, coercive, and politically protected, not only digital or relationship-based.
 
 ## Connections
 - [[SocialEngineeringFraud]] — broader trust-manipulation pattern.
@@ -29,3 +32,4 @@ A pig butchering scam is a long-con social-engineering pattern where scammers bu
 - [[AIEnabledScamIndustrialization]] — AI-enabled personalization and outreach scale.
 - [[BehavioralInvestingBiases]] — trust, sunk cost, shame, and FOMO.
 - [[InvestorEducation]] — victims need to verify relationship-linked money requests independently.
+- [[ScamCompoundPoliticalProtection]], [[Cambodia]], and [[ChenZhi]] — compound, country, and enforcement branch added by The Intelligence.

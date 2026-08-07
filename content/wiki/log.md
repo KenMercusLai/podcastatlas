@@ -6857,3 +6857,11 @@ Added source page for a How I Built This Advice Line episode with Curt Richardso
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | For bucks' sake: the rise of self-made billionaires
+
+Added source page for a The Intelligence episode on competitive billionaire wealth, wealth-tax legitimacy, Cambodia's scam-compound crackdown, Chen Zhi sanctions and extradition pressure, and Larry the Cat as political image satire. Created pages for Callum Williams, Su-Lin Wong, Chen Zhi, Hun Sen, Hui Wan Group, Larry the Cat, 10 Downing Street, Amnesty International, Competitive Billionaire Wealth, Wealth Tax Legitimacy, Scam Compound Political Protection, and Political Image Maintenance; updated overview, index, The Intelligence, Economist Podcasts, Rosie Bloor, Cambodia, Pig Butchering Scam, and Social Engineering Fraud. No direct contradiction found; the episode's U.S. top-wealth effective-tax-rate claim is recorded as source-scoped and flagged as a tension, not a contradiction, with the existing Malta tax-loophole source.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

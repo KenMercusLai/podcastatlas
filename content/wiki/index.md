@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [For bucks' sake: the rise of self-made billionaires](sources/for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95.md) — The Intelligence episode on competitive billionaire wealth, wealth-tax legitimacy, Cambodia's scam-compound crackdown, Chen Zhi sanctions, and Larry the Cat as political image satire.
 - [Advice Line with Curt Richardson of OtterBox](sources/advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773.md) — How I Built This Advice Line episode with Curt Richardson on OtterBox focus, Mr. Game Show Florida's host-dependent scaling, Gilded Coach Teas' retention-led restart, and Everloop's circular baby-gear buyback and measured channel tests.
 - [Big Lettuce meets Small Intestine](sources/big-lettuce-meets-small-intestine.md) — Planet Money episode on Taylor Farms, bagged lettuce, cyclospora, the Food Safety Modernization Act, farm inspections, imported produce, and why raw-produce safety remains hard at national scale.
 - [Vol.266 一次性搞懂ETF](sources/vol-266-yi-ci-xing-gao-dong-etf-1002344828.md) — 商业就是这样 episode explaining ETFs from index funds, passive investing, creation-redemption, tax and stock-lending economics, wrapper expansion, and the 7709.HK two-times long SK Hynix leveraged ETF risk case.
@@ -855,6 +856,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Callum Williams](entities/CallumWilliams.md) — The Intelligence participant explaining the episode's competitive versus rent-linked billionaire-wealth taxonomy.
+- [Su-Lin Wong](entities/SuLinWong.md) — The Intelligence participant analyzing Cambodia's scam compounds, sanctions, extradition pressure, and political protection.
+- [Chen Zhi](entities/ChenZhi.md) — Alleged Cambodia-linked scam boss whose sanctions, extradition, and crypto seizure anchor the episode's enforcement story.
+- [Hun Sen](entities/HunSen.md) — Cambodian political figure used by the source as the protection reference point around Chen Zhi.
+- [Hui Wan Group](entities/HuiWanGroup.md) — Illicit-marketplace entity named in the episode's U.S. financial-system blocking branch.
+- [Larry the Cat](entities/LarryTheCat.md) — 10 Downing Street chief mouser used by the episode as a comic case in political image maintenance.
+- [10 Downing Street](entities/Number10DowningStreet.md) — British political setting for the Larry the Cat segment and image-management frame.
+- [Amnesty International](entities/AmnestyInternational.md) — Monitoring organization whose Cambodia scam-compound count supports the source's crackdown assessment.
 - [Curt Richardson](entities/CurtRichardson.md) — OtterBox founder and Advice Line guest emphasizing focus, business-model improvement, founder role fit, and test-before-scaling discipline.
 - [OtterBox](entities/OtterBox.md) — Protective phone-case and mobile-accessories company used by Curt Richardson to discuss bootstrapping, focus, commoditization, and profitable maturity.
 - [Blue Ocean](entities/BlueOcean.md) — Curt Richardson company context named alongside OtterBox in the Advice Line episode.
@@ -5860,6 +5869,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Competitive Billionaire Wealth](concepts/CompetitiveBillionaireWealth.md) — Distinction between billionaire fortunes built through competitive goods and services versus inheritance, restricted resources, or political favor.
+- [Wealth Tax Legitimacy](concepts/WealthTaxLegitimacy.md) — Framework separating political-power, justice, and economic-cost arguments for taxing large fortunes.
+- [Scam Compound Political Protection](concepts/ScamCompoundPoliticalProtection.md) — Pattern where raids, sanctions, and extraditions disrupt scam sites without dismantling protected enabling systems.
+- [Political Image Maintenance](concepts/PoliticalImageMaintenance.md) — Use of backstory, performance perception, media attention, and rival containment to preserve public legitimacy.
 - [Founder-Led Service Replication](concepts/FounderLedServiceReplication.md) — Scaling problem where customers may be buying the founder's live performance, charisma, or judgment rather than a separable service.
 - [Customer Reactivation](concepts/CustomerReactivation.md) — Retention-led restart pattern that returns to prior customers for repeat purchase, feedback, referrals, and use-case learning before broad acquisition.
 - [Circular Product Takeback](concepts/CircularProductTakeback.md) — Consumer-product model where a brand accepts products back after use, making end-of-life handling part of the value proposition.
