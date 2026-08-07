@@ -2,7 +2,7 @@
 title: "Mastercard"
 type: entity
 tags: [company, payments, card-network, infrastructure]
-sources: [keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]
+sources: [keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128]
 last_updated: 2026-08-07
 ---
 
@@ -12,8 +12,11 @@ Mastercard appears in [[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a65
 
 In the wiki, Mastercard is therefore a supporting payment-network node for the agent-payment branch. Its relevance is the same structural problem as Visa's: card networks already have acceptance, dispute, and liability systems that could be adapted when the actor initiating payment is an agent under a user's authority.
 
+[[tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128]] adds a contrasting abuse-enforcement role. The episode says AI nudify websites displayed trusted payment options including Mastercard, [[Visa]], and [[PayPal]] while some transactions were routed through crypto intermediaries, making card-network visibility part of [[AbusePaymentInfrastructure]] and [[NudifyAppEcosystem]].
+
 ## Connections
 - [[Visa]] — closest payment-network comparison in this source.
 - [[Stripe]] — payment-company comparison.
 - [[AgentPaymentInfrastructure]], [[AgenticCommerce]], and [[PaymentClearingNetwork]] — concepts Mastercard is attached to through the episode.
 - [[Stablecoins]] — alternative settlement rail discussed in the same market map.
+- [[PayPal]], [[NudifyAppEcosystem]], [[AbusePaymentInfrastructure]], and [[VirtualAssetAMLRisk]] - nudify-service payment branch added by Marketplace Tech.

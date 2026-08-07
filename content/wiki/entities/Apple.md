@@ -8,6 +8,8 @@ last_updated: 2026-08-07
 
 # Apple
 
+[[tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128]] adds Apple through app-store accountability for AI nudify apps. The [[MarketplaceTech]] episode says San Francisco's city attorney sent cease-and-desist letters to Apple and [[Google]] under [[California]] law, arguing that app stores should stop profiting from nudify apps; this extends Apple's [[AppStore]] role into [[NudifyAppEcosystem]] enforcement.
+
 [[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] adds Apple through [[Bloomberg]]-reported [[AppleDeviceLeasing]] with [[Klarna]]. The [[MarketplaceTech]] Bytes episode treats lease-like access to Apple watches and Mac computers as a growth strategy for a premium device company, then links expected device-price pressure to [[MemoryChipShortage]] and [[AIHardwareSupplyChainPressure]] as memory makers prioritize AI data centers.
 
 [[we-almost-had-a-smartphone-in-the-90s-why-did-it-fail]] adds an earlier product-discipline branch for Apple through [[GeneralMagic]], [[TonyFadell]], [[SteveJobs]], the [[IPod]], and the later [[IPhone]]. The episode says [[Apple]] was a major General Magic investor, then uses Fadell's later Apple work to show the opposite operating model: a clear customer desire, constrained budget, deadline pressure, borrowed components, and repeated iteration rather than one huge all-or-nothing device launch.

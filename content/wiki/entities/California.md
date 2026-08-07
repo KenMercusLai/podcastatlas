@@ -8,6 +8,8 @@ last_updated: 2026-08-07
 
 # California
 
+[[tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128]] adds California as the state-law setting for app-store pressure around AI nudify apps. The [[MarketplaceTech]] episode says San Francisco's city attorney sent cease-and-desist letters to [[Apple]] and [[Google]], using California law to argue that app stores should stop profiting from nudify apps and improve their response to [[NudifyAppEcosystem]] abuse.
+
 [[tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128]] adds California to the frontier-lab safety-framework branch of [[StateAIRegulationPatchwork]]. [[SabinaNong]] names California as one of the states where AI legislative activity is developing, including proposals that would require companies to publish safety frameworks and be accountable to them.
 
 [[tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128]] adds California as a central autonomous-vehicle regulatory setting. [[KirstenKorosek]] says [[Waymo]]'s August 2023 California commercial permits were a turning point for robotaxi momentum, and she contrasts California's more demanding state-level rules with lighter-touch hubs such as [[Texas]] and [[Arizona]]. The same source also uses Santa Monica noise complaints and San Francisco public response as examples of [[RobotaxiLocalAcceptance]].
@@ -48,3 +50,4 @@ The California case complements [[Montana]]'s role in [[tech-20260302-0302-mp-te
 - [[StateAIRegulationPatchwork]], [[TeenChatbotMentalHealthRisk]], [[FederalAIPreemption]], and [[DonaldTrump]] - state AI laws continuing under federal pressure.
 - [[Waymo]], [[KirstenKorosek]], [[AutonomousVehicleRegulatoryPatchwork]], and [[RobotaxiLocalAcceptance]] - autonomous-vehicle regulatory and local-acceptance context added by Marketplace Tech.
 - [[FutureOfLifeInstitute|Future of Life Institute]], [[VoluntaryAISafetyCommitments]], [[AILabSafetyReportCards]], and [[StateAIRegulationPatchwork]] - frontier-lab safety-framework branch added by Marketplace Tech.
+- [[Apple]], [[Google]], [[NudifyAppEcosystem]], [[AINonConsensualIntimateImageAbuse]], and [[TakeItDownAct|Take It Down Act]] - app-store enforcement branch added by the July 27, 2026 Marketplace Tech source.

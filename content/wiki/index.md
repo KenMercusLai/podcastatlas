@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How AI nudify apps are proliferating on social media](sources/tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128.md) — Marketplace Tech episode with Sina Laubenstein of the Institute for Strategic Dialogue on AI nudify websites, YouTube/X traffic, Meta ads, app-store responses, payment rails, crypto intermediaries, and Take It Down Act enforcement.
 - [EP271 探访“柔性制造”工厂：是谁让你“想要就能买到”？](sources/ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v.md) — Talk三联 episode with 高一丁, 黄子毅, 邱连, and 吴立伟 on flexible manufacturing across Deli stationery, Haier central air-conditioning, Yagor apparel, Shenzhou sportswear surge response, digital twins, modular customization, order scheduling, and AI visual inspection.
 - [174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟](sources/174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza.md) — 起朱楼宴宾客 episode with Amazon AGI's Cha Sheng on open-source model strategy, data flywheels, cognitive debt, AI knowledge collapse, model values, enterprise and sovereign models, and AGI limits.
 - [Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)](sources/piles-of-cash-and-a-town-of-solutions-in-kenya-nigeria-summer-school.md) — Planet Money Summer School episode on Nigeria's YouWin entrepreneur grants, Kenya's Busia randomized trials, small-business financing gaps, human capital, and evidence-based development policy.
@@ -865,6 +866,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sina Laubenstein](entities/SinaLaubenstein.md) — Institute for Strategic Dialogue researcher explaining how AI nudify services spread through social platforms, app stores, and payment infrastructure.
+- [Institute for Strategic Dialogue](entities/InstituteForStrategicDialogue.md) — Research organization whose nudify-app report found 181 sites and mapped traffic, ads, app-store, and payment routes.
 - [黄子毅 / Huang Ziyi](entities/HuangZiyiManufacturingReporter.md) — Sanlian manufacturing reporter in EP271 defining flexible manufacturing and explaining Shenzhou and Haier cases; kept distinct from same-pinyin existing pages by source spelling.
 - [得力 / Deli Group](entities/DeliGroup.md) — Stationery and office-supply manufacturer used in EP271 to show C-side demand sensing, IP-linked products, order scheduling, pen precision, and AI inspection.
 - [Yagor Group / 雅戈尔](entities/YagorGroup.md) — Apparel and menswear manufacturer used in EP271 to explain vertical control, custom suits, functional fabrics, small-order quick response, and smart-factory cost limits.
@@ -5920,6 +5923,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Nudify App Ecosystem](concepts/NudifyAppEcosystem.md) — Commercial and distribution stack around AI nudify tools, including social discovery, ads, app stores, payment rails, crypto routing, and legal response.
+- [Abuse Payment Infrastructure](concepts/AbusePaymentInfrastructure.md) — Payment, banking, and crypto-intermediary layer that can keep abusive online services monetizable despite platform or app-store enforcement.
 - [Flexible Manufacturing / 柔性制造](concepts/FlexibleManufacturing.md) — Manufacturing capability that links demand sensing, product design, mass production, small orders, customization, and sudden demand response.
 - [Small-Order Quick Response / 小单快反](concepts/SmallOrderQuickResponse.md) — Production pattern for inserting small or volatile orders quickly without losing quality, material control, or delivery windows.
 - [Manufacturing Digital Thread / 制造数字主线](concepts/ManufacturingDigitalThread.md) — Operational data chain tying orders, materials, warehouses, workers, equipment, status, inspection, and delivery together.

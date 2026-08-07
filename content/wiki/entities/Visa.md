@@ -2,7 +2,7 @@
 title: "Visa"
 type: entity
 tags: [company, payments, card-network, infrastructure]
-sources: [keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]
+sources: [keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128]
 last_updated: 2026-08-07
 ---
 
@@ -14,8 +14,11 @@ The episode uses Visa to show why card-network infrastructure still matters in a
 
 Visa is also mentioned alongside [[Mastercard]], [[Stripe]], [[Google]], and [[OpenAI]] as evidence that agent payment had become a mainstream industry direction by mid-2026 in the source's account.
 
+[[tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128]] adds Visa as a trusted payment option reported on AI nudify websites. In that source, Visa sits inside [[AbusePaymentInfrastructure]] rather than agent commerce: payment availability and crypto routing can help abusive services remain profitable even when platforms and app stores apply some enforcement.
+
 ## Connections
 - [[Clink]] and [[PatrickWu]] — demo and source speaker.
 - [[AgentPaymentInfrastructure]], [[AgenticCommerce]], and [[AgentSpendControls]] — agent-payment concepts.
 - [[PaymentClearingNetwork]] and [[MoneyMovementInfrastructure]] — broader payment-system context.
 - [[Stablecoins]], [[Mastercard]], and [[Stripe]] — comparison and adjacent payment actors in the source.
+- [[PayPal]], [[NudifyAppEcosystem]], [[AbusePaymentInfrastructure]], and [[VirtualAssetAMLRisk]] - nudify-service payment branch added by Marketplace Tech.

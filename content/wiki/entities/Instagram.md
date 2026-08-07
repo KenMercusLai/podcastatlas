@@ -3,10 +3,12 @@ title: "Instagram"
 type: entity
 tags: [company, social-media, platform]
 sources: [159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]
-last_updated: 2026-08-06
+last_updated: 2026-08-07
 ---
 
 # Instagram
+
+[[tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128]] adds Instagram as a [[Meta]] ad surface for AI nudify tools. [[SinaLaubenstein]] says the [[InstituteForStrategicDialogue]] found ads for these services on Instagram and [[Facebook]], including repeated direct-language promotions, making Instagram part of [[NudifyAppEcosystem]] and [[AINonConsensualIntimateImageAbuse]].
 
 [[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] adds Instagram through [[Filterworld]]'s travel-taste critique. The episode treats Instagrammable places and recommendation-ready aesthetics as part of the loop by which platforms standardize destination choice, while also making Instagram one comparison point in [[AlgorithmicDiversityDividend]].
 
@@ -29,3 +31,4 @@ The source adds Instagram to the wiki as a campus-culture input inside [[AIColle
 - [[AICollegeSearch]] - search and decision-assistant context.
 - [[HigherEducationAIDiscoverability]] - institutional counterpart to social-surface visibility.
 - [[HumanJudgmentUnderAI]] - need to treat summarized social signals as inputs rather than final truth.
+- [[SinaLaubenstein]], [[InstituteForStrategicDialogue]], [[NudifyAppEcosystem]], and [[AINonConsensualIntimateImageAbuse]] - nudify-tool advertising branch added by Marketplace Tech.

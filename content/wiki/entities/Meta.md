@@ -8,6 +8,8 @@ last_updated: 2026-08-07
 
 # Meta
 
+[[tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128]] adds Meta through [[Facebook]] and [[Instagram]] ads for AI nudify tools. [[SinaLaubenstein]] of the [[InstituteForStrategicDialogue]] says researchers found repeated direct-language ads promoting nudify services, extending Meta's wiki role from youth-harm litigation and social AI image generation into [[NudifyAppEcosystem]] distribution enforcement.
+
 [[e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11]] adds Meta through [[TonyContentEngineer|东尼 / Tony]]'s work on model-content internationalization at a Meta superintelligence lab. In this source, Meta is not mainly a capex or platform-liability case; it is a lab context where [[ContentEngineering]] and [[AIInteractionInternationalization]] turn media judgment, cultural references, and dialogue standards into model behavior.
 
 [[tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128]] adds Meta to the public corporate-bond version of AI infrastructure financing. [[JulieOsk|Julie Osk]] says companies such as Meta are borrowing for data centers as AI capex grows beyond earlier free-cash-flow norms, and she notes that Meta is not yet earning back its AI spending. The source extends Meta's existing [[AIDataCenterPrivateCreditFinancing]] and [[AIEquityValuationRisk]] branches into a more direct bond-market and ROI-scrutiny frame.
@@ -111,3 +113,4 @@ The source speculates that Meta could see [[Manus]] demand through platform or a
 - [[AutomaticAuctions]], [[HarjTaggar]], and [[LiveCurrentMedia]] - competing acquisition-offer context added by the Harj Taggar episode.
 - [[SeanParker]], [[MarkZuckerberg]], [[RonConway]], and [[FounderFriendlyInvestorSupport]] - early Facebook relationship-network branch added by Conway Part 4.
 - [[FutureOfLifeInstitute|Future of Life Institute]], [[AILabSafetyReportCards]], [[VoluntaryAISafetyCommitments]], and [[ToolAIHumanControl]] - Marketplace Tech safety-grade branch.
+- [[SinaLaubenstein]], [[InstituteForStrategicDialogue]], [[NudifyAppEcosystem]], and [[AINonConsensualIntimateImageAbuse]] - nudify-tool advertising and enforcement branch added by Marketplace Tech.

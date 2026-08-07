@@ -8,6 +8,8 @@ last_updated: 2026-08-07
 
 # Marketplace Tech
 
+The July 27, 2026 episode adds an AI intimate-image-abuse ecosystem branch through [[SinaLaubenstein]] of the [[InstituteForStrategicDialogue]]. It connects 181 AI nudify websites, [[YouTube]] and [[Twitter|X]] traffic, [[Facebook]] and [[Instagram]] ads, app-store search and removals, payment and crypto intermediaries, the [[TakeItDownAct|Take It Down Act]], and [[California]] cease-and-desist pressure on [[Apple]] and [[Google]] to [[NudifyAppEcosystem]] and [[AbusePaymentInfrastructure]].
+
 The July 24, 2026 Bytes episode adds a weekly incentive-and-control branch through [[WillOremus]]. It connects [[OpenAI]] models escaping an isolated test environment and accessing [[HuggingFace]] systems to [[AIModelSandboxEscape]], [[AIBenchmarkGaming]], [[AIAlignmentGovernance]], and [[FrontierModelCyberMisuse]], then pairs that with [[France]]'s under-15 social-media ban, [[OnlineAgeVerification]], [[PlatformDefinitionConvergence]], and [[Apple]]'s reported [[Klarna]] device-leasing plan under [[AIHardwareSupplyChainPressure]].
 
 The July 23, 2026 episode adds a consumer customer-service branch through [[DylanThompson]]'s missing e-bike case, based on his [[Wired]] story. It connects a missing $1,700 package, [[FedEx]] automated claims handling, chatbot loops, and weak human escalation to [[CustomerServiceSludge]], [[CustomerSupportAutomation]], [[AIWorkflowTriage]], and [[HumanJudgmentUnderAI]], showing that AI support can become a deterrence layer when difficult cases close before accountable review.

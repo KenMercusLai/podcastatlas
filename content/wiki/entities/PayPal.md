@@ -2,8 +2,8 @@
 title: "PayPal"
 type: entity
 tags: [company, fintech, payments, silicon-valley]
-sources: [e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]
-last_updated: 2026-07-23
+sources: [e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # PayPal
@@ -12,11 +12,15 @@ PayPal appears in [[e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide
 
 The source also uses PayPal to illustrate [[MimeticCompetitionAvoidance]]. Thiel's company and [[ElonMusk]]'s competing payment company are discussed as a rivalry that eventually became merger rather than endless imitation.
 
+[[tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128]] adds PayPal as a trusted payment option reported on AI nudify websites. The source treats the appearance of PayPal, [[Mastercard]], and [[Visa]] in these flows as part of [[AbusePaymentInfrastructure]], especially when transactions are routed through crypto intermediaries that can weaken banking oversight.
+
 ## Source Position
 - The episode links PayPal's early alternative-money impulse to later cryptocurrency-like ideas without treating PayPal as simply a crypto precursor.
 - It frames the PayPal orbit as one source of later Silicon Valley political and venture networks.
+- The nudify-app source uses PayPal as a visible payment-trust signal on abusive-service websites, not as a detailed analysis of PayPal's own policies or enforcement response.
 
 ## Connections
 - [[PeterThiel]] and [[ElonMusk]] - founder/rivalry context in the source.
 - [[MimeticCompetitionAvoidance]] and [[ReneGirard]] - interpretive business-strategy frame.
 - [[DavidSacks]], [[KeithRabois]], [[JoeLonsdale]], and [[TechnologyRightPowerNetwork]] - adjacent network branch.
+- [[NudifyAppEcosystem]], [[AbusePaymentInfrastructure]], [[Mastercard]], [[Visa]], and [[VirtualAssetAMLRisk]] - AI nudify payment branch added by Marketplace Tech.

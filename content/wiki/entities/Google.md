@@ -7,6 +7,8 @@ last_updated: 2026-08-07
 ---
 # Google
 
+[[tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128]] adds Google through app-store accountability for AI nudify apps. The [[MarketplaceTech]] episode says San Francisco's city attorney sent cease-and-desist letters to Google and [[Apple]] under [[California]] law, making Google relevant to [[NudifyAppEcosystem]] not only through search, ads, YouTube, or Android-scale distribution, but also through mobile-store enforcement expectations.
+
 [[tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128]] adds Google through the [[FutureOfLifeInstitute|Future of Life Institute]] [[AILabSafetyReportCards|AI lab safety report card]] discussed on [[MarketplaceTech]]. The episode says Google receives a C grade and places it with other major frontier labs inside the source's critique of [[VoluntaryAISafetyCommitments]], [[RecursiveSelfImprovement]] pressure, and the need for externally defined safety standards.
 
 [[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] adds Google as a historical case in [[PublicRelevanceAlgorithms]]. [[DavidWeng|大卫翁]] uses [[PageRankSearchRelevance]] to show how search ranking could look objective while embedding choices about authority, weighting, and what counts as relevant public knowledge.

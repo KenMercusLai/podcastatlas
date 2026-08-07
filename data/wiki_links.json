@@ -2131,6 +2131,10 @@
     "title": "Abu Dhabi / 阿布扎比",
     "url": "/wiki/entities/abudhabi/"
   },
+  "AbusePaymentInfrastructure": {
+    "title": "Abuse Payment Infrastructure",
+    "url": "/wiki/concepts/abusepaymentinfrastructure/"
+  },
   "AcademicBiotechTranslation": {
     "title": "Academic Biotech Translation",
     "url": "/wiki/concepts/academicbiotechtranslation/"
@@ -16675,6 +16679,10 @@
     "title": "Institute for Science and International Security",
     "url": "/wiki/entities/instituteforscienceandinternationalsecurity/"
   },
+  "InstituteForStrategicDialogue": {
+    "title": "Institute for Strategic Dialogue",
+    "url": "/wiki/entities/instituteforstrategicdialogue/"
+  },
   "InstituteOfHistoryAndPhilology": {
     "title": "历史语言研究所 / 史语所",
     "url": "/wiki/entities/instituteofhistoryandphilology/"
@@ -23863,6 +23871,10 @@
     "title": "Nucor",
     "url": "/wiki/entities/nucor/"
   },
+  "NudifyAppEcosystem": {
+    "title": "Nudify App Ecosystem",
+    "url": "/wiki/concepts/nudifyappecosystem/"
+  },
   "NumagamiRenji": {
     "title": "沼上蓮次 / Numagami Renji",
     "url": "/wiki/entities/numagamirenji/"
@@ -30090,6 +30102,10 @@
   "Sina": {
     "title": "Sina / 新浪",
     "url": "/wiki/entities/sina/"
+  },
+  "SinaLaubenstein": {
+    "title": "Sina Laubenstein",
+    "url": "/wiki/entities/sinalaubenstein/"
   },
   "SinakVillageSite": {
     "title": "Sinak Village Site and High-Rise Development",
@@ -38814,6 +38830,10 @@
   "tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128": {
     "title": "OpenAI model unintentionally hacks another company's system",
     "url": "/wiki/sources/tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128/"
+  },
+  "tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128": {
+    "title": "How AI nudify apps are proliferating on social media",
+    "url": "/wiki/sources/tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

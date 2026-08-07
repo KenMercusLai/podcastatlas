@@ -6414,6 +6414,10 @@ Added source page for a Talk三联 episode with 高一丁 and 苗伟 on 徐光�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-07] ingest | How AI nudify apps are proliferating on social media
+
+Added source page for a Marketplace Tech episode with Sina Laubenstein of the Institute for Strategic Dialogue on AI nudify websites, YouTube and X traffic, Meta ads, app-store responses, payment rails, crypto intermediaries, and Take It Down Act / California enforcement. Created pages for Sina Laubenstein, Institute for Strategic Dialogue, Nudify App Ecosystem, and Abuse Payment Infrastructure; updated overview, index, Marketplace Tech, AI Non-Consensual Intimate Image Abuse, Take It Down Act, YouTube, Twitter/X, Facebook, Instagram, Meta, App Store, Apple, Google, California, PayPal, Mastercard, and Visa. No direct contradiction found; the source extends the earlier Grok-specific abuse branch into an ecosystem map of discovery, distribution, monetization, and legal pressure.
+
 ## [2026-08-07] ingest | A modern-day odyssey through AI chatbot hellscape
 
 Added source page for a Marketplace Tech episode on Dylan Thompson's missing $1,700 e-bike, chatbot-first customer service, automated claims loops, consumer preference for human help, and AI as a new face of customer-service sludge. Created pages for Dylan Thompson, FedEx, and Customer Service Sludge; updated overview, index, Marketplace Tech, Wired, How We Survive, Customer Support Automation, AI Workflow Triage, Human Judgment Under AI, Trust As Business Asset, and Public Service Digitalization. No direct contradiction found; the source qualifies optimistic support-automation cases by showing that automation becomes trust-damaging when human escalation is difficult, delayed, or procedurally useless.
@@ -6933,6 +6937,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] ingest | EP271 探访“柔性制造”工厂：是谁让你“想要就能买到”？
 
 Added source page for a Talk三联 episode on flexible manufacturing across Deli stationery, Haier central air-conditioning, Yagor apparel, and Shenzhou sportswear surge response. Created pages for 黄子毅 / Huang Ziyi, Deli Group, Yagor Group, COSMOPlat, Flexible Manufacturing, Small-Order Quick Response, Manufacturing Digital Thread, Manufacturing Digital Twin, Modular Customization, and AI Visual Quality Inspection; updated overview, index, Talk三联, 三联生活周刊, 高一丁, 邱连, 吴立伟, Haier Group, and Shenzhou International. No direct contradiction found; the source mainly qualifies logistics-only and universal-digitization explanations of fast consumer availability.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 
