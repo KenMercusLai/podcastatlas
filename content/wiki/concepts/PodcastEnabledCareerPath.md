@@ -2,11 +2,13 @@
 title: "Podcast-Enabled Career Path / 播客带来的职业路径"
 type: concept
 tags: [podcast, creator-work, career, life-design]
-sources: [158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29, 149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]
-last_updated: 2026-08-06
+sources: [176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah, 158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29, 149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]
+last_updated: 2026-08-08
 ---
 
 # Podcast-Enabled Career Path / 播客带来的职业路径
+
+[[176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah]] adds the listener-chat and feedback version. [[DavidWeng|大卫翁]]'s cafe chats, comments, emails, and backstage messages turn podcasting into a social observation system as well as a career surface, giving him emotional value and concrete field reports during a relatively lonely visiting-scholar year.
 
 Podcast-enabled career path is the source's claim that long-term podcast work can create opportunities beyond direct advertising, subscriptions, or conventional media jobs. In [[141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]], [[DavidWeng|大卫翁]] frames his [[ColumbiaJournalismSchool|Columbia Journalism School]] visiting-scholar opportunity as something produced by years of [[QizhulouYanBinke|起朱楼宴宾客]] work, not by a planned academic-career route.
 

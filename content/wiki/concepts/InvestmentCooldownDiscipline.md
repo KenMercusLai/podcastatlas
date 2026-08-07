@@ -2,11 +2,13 @@
 title: "Investment Cooldown Discipline"
 type: concept
 tags: [investing, behavior, risk, process]
-sources: [171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
-last_updated: 2026-08-07
+sources: [176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah, 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
+last_updated: 2026-08-08
 ---
 
 # Investment Cooldown Discipline
+
+[[176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah]] adds the finance-app-friction version. [[DavidWeng|大卫翁]] argues that financial technology can make investing action too easy, so deliberate waiting, written reasoning, and learning from market history become useful artificial friction against loss aversion, premature profit-taking, and narrative chasing.
 
 [[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds the late-bull-market review version. [[DavidWeng|大卫翁]] says he tries not to trade before finishing his monthly investment-account review, using the bookkeeping rhythm to keep volatile late-cycle information from becoming immediate account action.
 

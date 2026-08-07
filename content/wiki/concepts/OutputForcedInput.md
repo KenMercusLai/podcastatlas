@@ -2,11 +2,13 @@
 title: "Output-Forced Input"
 type: concept
 tags: [reading, learning, creators, practice]
-sources: [sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708]
-last_updated: 2026-07-24
+sources: [176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah, sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708]
+last_updated: 2026-08-08
 ---
 
 # Output-Forced Input
+
+[[176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah]] adds the information-flow version. [[DavidWeng|大卫翁]] says he also struggles with phone and feed dependence, but recommends using output obligations such as writing, podcasting, or explaining a problem to force active reading and learning rather than relying on abstract willpower.
 
 Output-forced input is the practice of using a public output obligation to make private learning, reading, or thinking more serious. In [[sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708]], [[ChaoGe|超哥]] says [[CultureLimited|《文化有限》]] used books partly because they could keep the show supplied with topics and force the hosts to keep reading. [[QinZong|秦总]] later says reading becomes more serious when it has to be spoken aloud.
 

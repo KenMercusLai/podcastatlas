@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-08] ingest | 176.纽约一年：一个悲观主义者的活法｜725沙龙实录
+
+Added source page for a 起朱楼宴宾客 live 725沙龙 conversation hosted by 欧阳斌 of 纽约漫谈录 with 大卫翁 on one year in New York, U.S./Japan/China time sense, salad-bowl urban diversity, globalization splitting between production and culture, overseas Chinese opportunity, finance exit, creator feedback, AI entry-level pressure, China excess-savings reallocation, exchange-rate/base-currency thinking, and uncertainty-era optionality. Created pages for 纽约漫谈录, New York Salad-Bowl Multiculturalism, Uncertain-Era Optionality, Split Globalization, Base Currency Thinking, and Cycle Worldview; updated overview, index, 起朱楼宴宾客, 大卫翁, 欧阳斌, 725沙龙, New York City, United States, China, Japan, Asset Allocation, Structure Over Prediction, Life Antifragility, Investment Worldview Fit, Currency Risk, Entry-Level AI Career-Ladder Risk, Investment Cooldown Discipline, Podcast-Enabled Career Path, Output-Forced Input, and China Excess Savings Reallocation. No direct contradiction found; the source extends the wiki's random-world/asset-allocation branch by making mobility, base currency, and lived overseas observation part of the same risk posture.
+
 ## [2026-08-08] ingest | 177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？
 
 Added source page for a LateTalk technical episode on Kimi K3, covering long-agent and frontend behavior, KDA, Attention Residues, NoPE, MoE quantile balancing, Per-Head Muon, kernel development agents, MOPD, on-policy distillation, AgentIn, QAT/train-inference consistency, open-weight boundaries, and possible closed-frontier valuation pressure. Created pages for Zhao Chenyang / 赵晨阳, Zeng Zhiyuan / 曾志远, Radix ARC / Ridix ARC, AgentIn, Kimi Linear, Kimi Delta Attention / KDA, Attention Residues, NoPE / No Position Encoding, Quantile Balancing, Per-Head Muon, Kernel Development Agents, MOPD Post-Training, On-Policy Distillation, and Agent Environment Isolation; updated overview, index, Kimi, Kimi K3, Moonshot AI, LateTalk, Anthropic, Dario Amodei, DeepSeek, Fable 5, Moore Threads, Open Weight Release Boundary, Open Source AI Models, Chinese Open-Weight AI Strategy, Closed Model API Moat Pressure, Open Model Safety Governance, AI Inference Cost Structure, Agent Inference Workload, Prefix Caching, Model-Infra Co-Design, Mixture of Experts, Model Distillation, Recursive Self-Improvement, Agent RL, Model Harness Co-Evolution, AI Programming Engine Shift, and AI Coding Verification. No direct contradiction found; the source qualifies earlier K3 open-weight coverage by distinguishing copied weights from the unreleased model-development factory of environments, verifiers, data pipelines, RL workflows, expert checkpoints, and serving infrastructure.
@@ -7245,6 +7249,10 @@ Ran lint after health passed. Deterministic checks scanned 10,295 pages and foun
 ## [2026-08-08] ingest | In arms’ way: Gaza-deal sticking points
 
 Added source page for a The Intelligence episode on unresolved Gaza-deal implementation, America's full-time self-employment and small-business boom, and radio's resilience across Africa. Created pages for Board of Peace, National Committee for Administration of Gaza, International Stabilization Force, International Verification Committee, Afrobarometer, Joy FM, Egypt, Uganda, Senegal, Gaza Deal Implementation Gap, Disarmament Withdrawal Sequencing, Gaza Technocratic Administration, AI-Enabled Self-Employment, Full-Time Self-Employment Boom, African Radio Resilience, Low-Data Media Access, and DAB Radio Capacity Expansion; updated overview, index, The Intelligence, Economist Podcasts, Gaza, Hamas, Israel, Benjamin Netanyahu, Donald Trump, Morocco, Qatar, Turkey, Kenya, Ghana, Sam Altman, Thin Diplomatic Frameworks, Israeli Election 2026, Palestinian Question in Israeli Politics, Entrepreneurship Infrastructure, One-Person Company, AI As Business Operator, and Africa Connectivity Infrastructure. No direct contradiction found; the source extends earlier thin-diplomacy claims by turning Gaza into a detailed sequencing, verification, governance, and election-timing case.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-08] lint | Wiki health check
 

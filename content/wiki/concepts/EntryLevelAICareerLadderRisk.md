@@ -2,11 +2,13 @@
 title: "Entry-Level AI Career-Ladder Risk"
 type: concept
 tags: [ai, labor-market, careers, education]
-sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]
+sources: [176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]
 last_updated: 2026-08-08
 ---
 
 # Entry-Level AI Career-Ladder Risk
+
+[[176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah]] adds the ordinary-tool and work-task version. [[DavidWeng|大卫翁]] treats AI as a tool for most people rather than a universal asset-class tailwind, but remains pessimistic about junior roles built on information collection, organization, summarization, and first drafts because those tasks are both automatable and historically training-rich.
 
 [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] extends the concept from junior tasks to macro demand. The source separates current coding and office substitution from a later broad labor-substitution stage, while warning that growth in AI/software/finance may not absorb workers from high-employment-multiplier sectors.
 

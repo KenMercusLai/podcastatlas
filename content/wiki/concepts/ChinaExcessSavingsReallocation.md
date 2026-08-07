@@ -2,11 +2,13 @@
 title: "China Excess Savings Reallocation / 中国超额储蓄再配置"
 type: concept
 tags: [china, household-finance, saving, investing, equities]
-sources: [160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]
-last_updated: 2026-08-06
+sources: [176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah, 160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]
+last_updated: 2026-08-08
 ---
 
 # China Excess Savings Reallocation / 中国超额储蓄再配置
+
+[[176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah]] adds a live-audience version of the same thesis. The source says falling low-risk yields and weaker real-estate wealth expectations may push Chinese household money toward stocks, REITs, insurance, bonds, and broad risk assets, while explicitly keeping this as a possible long-cycle allocation change rather than investment advice.
 
 [[160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz]] adds the live bull-market adjustment version. [[DavidWeng|大卫翁]] repeats that long-term China equity support can come from household money moving away from deposits and real estate into public equities, broad indexes, and dividend-style assets, but he keeps that as a long-cycle allocation thesis rather than a promise that a short-term pullback must immediately reverse.
 

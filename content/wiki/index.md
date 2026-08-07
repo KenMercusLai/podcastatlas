@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [176.纽约一年：一个悲观主义者的活法｜725沙龙实录](sources/176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah.md) — 起朱楼宴宾客 live 725沙龙 episode with David Weng and Ouyang Bin on New York as a salad-like city, U.S./Japan/China time sense, globalization split, overseas Chinese opportunity, content creation, AI entry-level pressure, and uncertainty-era asset/life optionality.
 - [In arms’ way: Gaza-deal sticking points](sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74.md) — The Intelligence episode on Gaza deal sequencing, verification, technocratic governance, America's full-time self-employment boom, AI-enabled founders, and radio's resilience across Africa.
 - [177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？](sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1.md) — LateTalk technical episode with Zhao Chenyang and Zeng Zhiyuan on Kimi K3 architecture, KDA, Attention Residues, MoE routing, Per-Head Muon, MOPD, AgentIn, kernel agents, open-weight boundaries, and closed-lab valuation pressure.
 - [期权这张饼，为什么越来越难吃了？](sources/qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1.md) — Keji Luandun episode on employee stock options, RSUs, VIE entity mismatch, option-pool recapture incentives, private-company liquidity risk, and why equity compensation depends on trust and exit paths.
@@ -906,6 +907,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [纽约漫谈录 / Niuyue Mantanlu](entities/NiuyueMantanlu.md) — New York-facing Chinese-language podcast/project context for Ouyang Bin's 725沙龙 live conversation with David Weng.
 - [Board of Peace](entities/BoardOfPeace.md) — Proposed Gaza-plan body whose timetable clarification still leaves sequencing, verification, and authority unresolved.
 - [National Committee for Administration of Gaza](entities/NationalCommitteeForAdministrationOfGaza.md) — Proposed Palestinian technocratic administration whose timing, territory, and powers remain unclear.
 - [International Stabilization Force](entities/InternationalStabilizationForce.md) — Proposed Gaza security force expected to start with a few hundred personnel from Morocco and Uganda.
@@ -6185,6 +6187,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [New York Salad-Bowl Multiculturalism / 纽约沙拉式多元](concepts/NewYorkSaladBowlMulticulturalism.md) — New York city-diversity frame where groups coexist in one place without fully melting into one identity.
+- [Uncertain-Era Optionality / 乱纪元选择权](concepts/UncertainEraOptionality.md) — David Weng's answer to unpredictable macro conditions: preserve asset, mobility, skill, and life choices rather than relying on forecasts.
+- [Split Globalization / 分裂的全球化](concepts/SplitGlobalization.md) — Distinction between retreating production globalization and accelerating cultural circulation through social media, algorithms, and AI.
+- [Base Currency Thinking / 本币思维](concepts/BaseCurrencyThinking.md) — Household FX discipline that starts from where future spending and liabilities sit before treating currencies as investments.
+- [Cycle Worldview / 周期世界观](concepts/CycleWorldview.md) — Investment and life worldview that treats everything as cyclical, supporting diversification while needing present-tense anchors against nihilism.
 - [Gaza Deal Implementation Gap](concepts/GazaDealImplementationGap.md) — Distance between a headline Gaza breakthrough and unresolved sequencing, verification, territorial control, governance, and election constraints.
 - [Disarmament Withdrawal Sequencing](concepts/DisarmamentWithdrawalSequencing.md) — Trust and leverage problem where Hamas wants Israeli withdrawal before disarmament while Israel wants complete disarmament first.
 - [Gaza Technocratic Administration](concepts/GazaTechnocraticAdministration.md) — Proposed Palestinian technocratic governance model whose authority depends on territory, security, and real handover.

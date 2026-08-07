@@ -2,11 +2,13 @@
 title: "Currency Risk"
 type: concept
 tags: [currency, investing, macro, risk]
-sources: [129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs]
-last_updated: 2026-08-06
+sources: [176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs]
+last_updated: 2026-08-08
 ---
 
 # Currency Risk
+
+[[176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah]] adds [[BaseCurrencyThinking]] as a household implementation rule. [[DavidWeng|大卫翁]] argues that ordinary investors should decide their real base currency from future spending and living needs before treating RMB, dollars, or any other currency as an investment thesis; he also warns that exchange rates are especially hard to forecast.
 
 Currency risk is the reminder that final value depends on the currency a household spends or reports in, not only the asset's local-currency yield or illustrated return. [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]] applies this to U.S. Treasuries, dollar deposits, QDII products, RMB/USD moves, and yen/carry-trade volatility. [[ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw]] extends it to [[OverseasInsuranceRisk]] by warning that foreign-currency insurance can add uncertainty for households whose income, spending, education, and retirement plans remain domestic. [[ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs]] adds that overseas equity returns must be judged after FX movement and access-route friction, not only by looking back at winning U.S. stocks.
 

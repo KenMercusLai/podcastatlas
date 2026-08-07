@@ -2,11 +2,13 @@
 title: "Life Antifragility"
 type: concept
 tags: [life-design, risk, uncertainty]
-sources: [163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
-last_updated: 2026-08-06
+sources: [176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah, 163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+last_updated: 2026-08-08
 ---
 
 # Life Antifragility
+
+[[176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah]] adds the cross-border mobility version. The source's "乱纪元" answer treats diversified assets, base-currency awareness, and physical ability to move as parts of the same survivability design, while still requiring present-tense anchors so pessimism does not turn into withdrawal.
 
 [[163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta]] adds the stay-in-the-game version. The source's practical claim is that randomness cannot be eliminated, so a person should protect the stable base, preserve initiative, and keep enough financial, bodily, relational, and psychological resilience to receive future opportunities.
 
