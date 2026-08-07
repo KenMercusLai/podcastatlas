@@ -2,11 +2,13 @@
 title: "Australia"
 type: entity
 tags: [country, economics, water, democracy]
-sources: [tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, how-to-get-what-greenland-has-with-permission, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]
-last_updated: 2026-08-07
+sources: [tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, how-to-get-what-greenland-has-with-permission, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
+last_updated: 2026-08-08
 ---
 
 # Australia
+
+[[burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]] adds Australia through the 2019-20 Black Summer fires. The source uses those fires as [[ExtremeWildfire]] and [[WildfireClimateFeedback]] examples, saying smoke may have helped maintain a multi-year La Nina state and fertilized Pacific waters enough to produce a large phytoplankton bloom.
 
 [[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] extends Australia's wiki role from a policy model into an effectiveness warning. [[WillOremus]] says research he has seen from Australia suggests children under 16 found ways to remain on social media through fake accounts, other login methods, or VPNs, qualifying [[SocialMediaAgeBans]] and [[OnlineAgeVerification]].
 
@@ -29,3 +31,4 @@ The episode also uses Australia as a democratic-institution contrast. [[JustinWo
 - [[CaliforniaAB1709]], [[YouthOnlineSpeechRights]], and [[SocialMediaAgeGateSpeechBurden]] - social-media age-ban policy model added by Marketplace Tech.
 - [[OnlineAgeVerification]], [[AgeVerificationPatchwork]], [[UnitedKingdom|United Kingdom]], and [[DrewHarwell]] - broader age-assurance regulation branch added by Marketplace Tech.
 - [[SocialMediaAgeBans]] - enforcement-effectiveness warning added by the July 24, 2026 Marketplace Tech Bytes episode.
+- [[ExtremeWildfire]], [[WildfireClimateFeedback]], [[WildfireSmokeHealthBurden]], and [[LandscapeFirePrevention]] - wildfire branch added by The Intelligence.

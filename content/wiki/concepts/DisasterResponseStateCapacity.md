@@ -2,13 +2,15 @@
 title: "Disaster Response State Capacity"
 type: concept
 tags: [governance, disaster-response, politics, state-capacity]
-sources: [yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093, 04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301]
-last_updated: 2026-08-06
+sources: [yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093, 04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
+last_updated: 2026-08-08
 ---
 
 # Disaster Response State Capacity
 
 Disaster response state capacity is the ability of a government to turn warning, transport, fuel, machinery, hospitals, trained workers, command systems, and aid distribution into fast rescue and recovery after a shock. In [[fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]], [[Venezuela]]'s earthquakes expose this capacity gap: the source says the first 48 hours were marked by too little machinery, fuel, medical capacity, and organized help.
+
+[[burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]] adds a prevention-side wildfire case. [[OliverMorton]] says satellites, modeling, drones, aircraft, fire breaks, behavior controls, and landscape management can all matter, but they only become capacity when institutions can maintain them and move quickly before small fires become [[ExtremeWildfire]].
 
 The concept matters because natural disasters quickly become legitimacy tests. If citizens believe the state cannot rescue survivors or distribute aid fairly, the event can intensify anger at the regime, create openings for opposition actors, and force outside powers such as the [[UnitedStates]] to decide how much responsibility they have for recovery.
 
@@ -33,6 +35,7 @@ The concept matters because natural disasters quickly become legitimacy tests. I
 - Premodern local response also depends on practical officials who can mobilize labor, water works, food, medicine, and household-level relief.
 - Technological disaster response can mobilize vast labor and expertise while still wasting sacrifice if the state lacks honest information, established doctrine, protective equipment, or technical certainty.
 - Public-health capacity can be hardest to defend when it is working, because successful prevention leaves little visible evidence except the absence of disaster.
+- Fire response capacity starts before disaster: detection, fuel management, trained crews, evacuation planning, behavior rules, and cross-region practice sharing decide how fast a fire is contained.
 
 ## Connections
 - [[NationalistGovernment]], [[SongZiwen]], [[WuLiande]], [[JohnHopeSimpson]], and [[ChinaInternationalFamineReliefCommission]] - 1931 flood response branch.
@@ -45,3 +48,4 @@ The concept matters because natural disasters quickly become legitimacy tests. I
 - [[SuShi|苏轼 / 苏东坡]], [[Xuzhou|徐州]], [[Hangzhou|杭州]], and [[LocalGovernanceAsCare]] - premodern local-governance extension added by episode 105.
 - [[ChernobylNuclearPowerPlant]], [[ValeryLegasov]], [[TechnologicalDisasterAsInstitutionalFailure]], and [[DisasterCleanupSacrificeAndFutility]] - technological-disaster branch added by 蜜獾吃书 episode 04.
 - [[PublicHealthGeopolitics]], [[PublicHealthInvisibility]], and [[PandemicAsHistoricalForce]] - disease-history extension added by the sickbed reading-list episode.
+- [[ExtremeWildfire]], [[LandscapeFirePrevention]], [[FireTechClimateResilience]], and [[WildfireSmokeHealthBurden]] - wildfire prevention and response layer added by The Intelligence.

@@ -2,8 +2,8 @@
 title: "Climate Adaptation"
 type: concept
 tags: [climate, resilience, governance]
-sources: [ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, socialradarss2-billclerico-final, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, indy-johar-civilizational-optioneering-tyeyt7r-zfu, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]
-last_updated: 2026-08-07
+sources: [ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, socialradarss2-billclerico-final, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, indy-johar-civilizational-optioneering-tyeyt7r-zfu, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
+last_updated: 2026-08-08
 ---
 
 # Climate Adaptation
@@ -26,6 +26,8 @@ The source's contribution is to connect climate adaptation to [[CivilizationalOp
 
 [[tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]] adds a post-disaster rebuilding case through [[DavidBrancaccio]] and [[FireResilientConstruction]]. The source turns adaptation into a house-level material and design problem: [[CrossLaminatedTimber]], [[FireResistantBuildingEnvelope]] layers, [[ConcreteFilledWallSystems]], [[ThreeDPrintedHousing]], [[SustainableConstructionCarbonTradeoff]], and [[BiophilicDesign]] all shape whether a rebuilt neighborhood is safer, faster to restore, lower carbon, and still livable.
 
+[[burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]] adds a broader wildfire-risk layer through [[OliverMorton]]. The episode connects [[ExtremeWildfire]] to [[WildfireSmokeHealthBurden]], [[WildfireClimateFeedback]], and [[LandscapeFirePrevention]], showing that adaptation has to include population smoke exposure, climate feedback uncertainty, agricultural fire incentives, rapid detection, modeling, firefighting tools, and best-practice transfer across regions.
+
 [[shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]] adds fisheries management as a food-system adaptation case. The episode is not a general climate-policy guide, but its [[Peru]] anchoveta example shows why quota cuts and fishing bans can be an adaptation response when [[ElNino]] stresses a stock that feeds the global [[FishmealSupplyChain]].
 
 [[tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]] adds the customer-economics side through [[LeapForward]] and [[EconomicClimateTechAdoption]]. [[DavidRusenko]] argues that solar, batteries, EVs, heat pumps, and related technologies are becoming attractive because they can save money or solve practical customer problems, while [[BlueDot]] and [[ElectricAir]] show how charging reimbursement and lower-cost heat-pump installation can make climate adoption easier to buy.
@@ -38,6 +40,8 @@ The source's contribution is to connect climate adaptation to [[CivilizationalOp
 - Cooling access can be climate adaptation when heat risk is high and electricity is decarbonizing, but it still depends on pricing, efficiency, and grid planning.
 - Wildfire adaptation needs technology, institutions, and business models that can work with conservative buyers such as utilities, fire agencies, and insurers.
 - Wildfire adaptation also has a homeowner construction layer where material fire resistance, embodied carbon, rebuilding speed, and neighborhood design have to be decided together.
+- Wildfire adaptation also has a population-health and atmospheric-feedback layer: smoke exposure, CO2 release, cooling effects, and ocean fertilization can make fires matter far beyond the burn perimeter.
+- Fire prevention is a governance and maintenance problem because known measures still require durable budgets, behavior controls, landscape work, and fast response.
 - Climate adoption accelerates when the buyer's practical economics align with the climate benefit.
 - Water adaptation can include preserving wetland buffers and mobility, not only building stronger defenses.
 - Hard infrastructure can become maladaptive when it increases settlement density without maintaining ecological overflow capacity.
@@ -55,6 +59,7 @@ The source's contribution is to connect climate adaptation to [[CivilizationalOp
 - [[A23A]] and [[IcebergClimateSymbolism]] — polar-object climate-communication branch added by The Intelligence.
 - [[FireTechClimateResilience]], [[ConvectiveCapital]], and [[OverStory]] — wildfire resilience branch added by The Social Radars.
 - [[FireResilientConstruction]], [[CrossLaminatedTimber]], [[FireResistantBuildingEnvelope]], [[ConcreteFilledWallSystems]], [[ThreeDPrintedHousing]], and [[SustainableConstructionCarbonTradeoff]] - house-level wildfire rebuilding branch added by Marketplace Tech.
+- [[ExtremeWildfire]], [[WildfireSmokeHealthBurden]], [[WildfireClimateFeedback]], [[LandscapeFirePrevention]], and [[Indonesia]] - wildfire-risk layer added by The Intelligence.
 - [[LeapForward]], [[EconomicClimateTechAdoption]], [[BlueDot]], and [[ElectricAir]] - climate-tech adoption branch added by The Social Radars.
 - [[WetlandAdaptation]], [[FloodControlRiskTransfer]], [[NaturalHazardSocialDisaster]], and [[YangtzeRiver]] - historical flood-adaptation branch added by episode 65.
 - [[FisheriesResourceManagement]], [[FishmealSupplyChain]], and [[ClimateFoodPriceTransmission]] - fishery and aquaculture-feed branch added by 商业小样45.

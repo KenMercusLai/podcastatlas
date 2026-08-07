@@ -2,11 +2,13 @@
 title: "Canada"
 type: entity
 tags: [country, media, television, public-policy, housing]
-sources: [the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb, the-business-of-heated-rivalry]
-last_updated: 2026-08-07
+sources: [the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb, the-business-of-heated-rivalry, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
+last_updated: 2026-08-08
 ---
 
 # Canada
+
+[[burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]] adds Canada as a major [[ExtremeWildfire]] example. [[OliverMorton]] says the 2023 Canadian fires released about four times as much CO2 as Canada emits from fossil-fuel burning in a year, making the country a case for [[WildfireClimateFeedback]] as well as [[WildfireSmokeHealthBurden]].
 
 [[the-skyscrapers-that-nimbys-and-zoning-couldnt-stop]] adds Canada through a federal support and Indigenous land-development branch. The episode says the Canadian government provided a C$1.4 billion low-interest loan for the [[SquamishNation|Squamish Nation]]'s high-rise rental project, while the source's longer arc starts with the nation suing the Canadian government in 1977 and regaining part of [[SinakVillageSite|the site]] in 2003.
 
@@ -24,3 +26,4 @@ The source's Canada branch is about production structure, not national culture a
 - [[ProducerOwnedIPUpside]] and [[EntertainmentIPFlywheel]] - ownership and downstream value branch.
 - [[LiJingSanlian|李菁]], [[YanFeiSociologist|颜飞]], and [[LeiTao|雷涛 / 无二旅人]] - Talk三联 vacation source speakers.
 - [[VacationShame]], [[WorkRestBoundary]], [[TravelSensoryRecovery]], and [[WaldenMomentAgainstOdysseyMoment]] - vacation and life-design concepts added by EP265.
+- [[ExtremeWildfire]], [[WildfireClimateFeedback]], and [[WildfireSmokeHealthBurden]] - wildfire branch added by The Intelligence.

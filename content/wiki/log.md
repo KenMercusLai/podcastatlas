@@ -7065,3 +7065,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] ingest | Burning questions: a more fire-prone world
+
+Added source page for a The Intelligence episode on worsening wildfire risk, stalled progress for women at work, and U.S. nightlife mayors. Created pages for Vingeru Makandewiri, Danielle Arras, Corrine Reynolds, Boston, Indonesia, Rudy Giuliani, Extreme Wildfire, Wildfire Smoke Health Burden, Wildfire Climate Feedback, Landscape Fire Prevention, Women Workplace Progress Stall, Promotion Ambition Gap, Childcare Infrastructure Constraint, Nightlife Mayor, Nighttime Economy Governance, Liquor License Quota Barrier, and Socializing Decline; updated overview, index, The Intelligence, Economist Podcasts, Oliver Morton, Climate Adaptation, Fire Tech Climate Resilience, Natural Hazard As Social Disaster, Disaster Response State Capacity, Goldman Sachs, JPMorgan Chase, McKinsey, New York City, Friendship Recession, Adult Summer Camps, United States, France, Spain, Canada, Australia, California, and Emmanuel Macron. No direct contradiction found; the source extends existing wildfire resilience pages by adding smoke exposure and climate feedbacks, and extends work and urban-social branches by tying women's advancement and nightlife participation to institutional capacity.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

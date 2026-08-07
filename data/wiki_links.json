@@ -5499,6 +5499,10 @@
     "title": "Bosco Saraiva",
     "url": "/wiki/entities/boscosaraiva/"
   },
+  "Boston": {
+    "title": "Boston",
+    "url": "/wiki/entities/boston/"
+  },
   "BostonDynamics": {
     "title": "Boston Dynamics",
     "url": "/wiki/entities/bostondynamics/"
@@ -6986,6 +6990,10 @@
   "ChildThirdPartyLiabilityInsurance": {
     "title": "Child Third-Party Liability Insurance",
     "url": "/wiki/concepts/childthirdpartyliabilityinsurance/"
+  },
+  "ChildcareInfrastructureConstraint": {
+    "title": "Childcare Infrastructure Constraint",
+    "url": "/wiki/concepts/childcareinfrastructureconstraint/"
   },
   "ChildhoodReadingEcology": {
     "title": "Childhood Reading Ecology",
@@ -8555,6 +8563,10 @@
     "title": "Correct Question Epistemology / 正确提问的认识论",
     "url": "/wiki/concepts/correctquestionepistemology/"
   },
+  "CorrineReynolds": {
+    "title": "Corrine Reynolds",
+    "url": "/wiki/entities/corrinereynolds/"
+  },
   "CosmicHorror": {
     "title": "Cosmic Horror",
     "url": "/wiki/concepts/cosmichorror/"
@@ -9250,6 +9262,10 @@
   "DanielWilliamsACLU": {
     "title": "Daniel Williams / ACLU New Mexico",
     "url": "/wiki/entities/danielwilliamsaclu/"
+  },
+  "DanielleArras": {
+    "title": "Danielle Arras",
+    "url": "/wiki/entities/daniellearras/"
   },
   "DanjiangkouReservoir": {
     "title": "Danjiangkou Reservoir / 丹江口水库",
@@ -11926,6 +11942,10 @@
   "ExtremeEnvironmentRiskManagement": {
     "title": "Extreme Environment Risk Management",
     "url": "/wiki/concepts/extremeenvironmentriskmanagement/"
+  },
+  "ExtremeWildfire": {
+    "title": "Extreme Wildfire",
+    "url": "/wiki/concepts/extremewildfire/"
   },
   "ExxonMobil": {
     "title": "ExxonMobil",
@@ -16767,6 +16787,10 @@
     "title": "Individual Psychology",
     "url": "/wiki/concepts/individualpsychology/"
   },
+  "Indonesia": {
+    "title": "Indonesia",
+    "url": "/wiki/entities/indonesia/"
+  },
   "IndustrialCollege": {
     "title": "Industrial College / 产业学院",
     "url": "/wiki/concepts/industrialcollege/"
@@ -19495,6 +19519,10 @@
     "title": "Landing Page Conversion",
     "url": "/wiki/concepts/landingpageconversion/"
   },
+  "LandscapeFirePrevention": {
+    "title": "Landscape Fire Prevention",
+    "url": "/wiki/concepts/landscapefireprevention/"
+  },
   "LanguageAgent": {
     "title": "Language Agent",
     "url": "/wiki/concepts/languageagent/"
@@ -20322,6 +20350,10 @@
   "LiquidityDrivenVolatilityCascade": {
     "title": "Liquidity-Driven Volatility Cascade",
     "url": "/wiki/concepts/liquiditydrivenvolatilitycascade/"
+  },
+  "LiquorLicenseQuotaBarrier": {
+    "title": "Liquor License Quota Barrier",
+    "url": "/wiki/concepts/liquorlicensequotabarrier/"
   },
   "LisaCook": {
     "title": "Lisa Cook",
@@ -23991,6 +24023,14 @@
     "title": "Nigeria",
     "url": "/wiki/entities/nigeria/"
   },
+  "NightlifeMayor": {
+    "title": "Nightlife Mayor",
+    "url": "/wiki/concepts/nightlifemayor/"
+  },
+  "NighttimeEconomyGovernance": {
+    "title": "Nighttime Economy Governance",
+    "url": "/wiki/concepts/nighttimeeconomygovernance/"
+  },
   "NihongDianbo": {
     "title": "霓虹电波 / Nihong Dianbo",
     "url": "/wiki/entities/nihongdianbo/"
@@ -26991,6 +27031,10 @@
     "title": "Prometheus / 普罗米修斯",
     "url": "/wiki/entities/prometheus/"
   },
+  "PromotionAmbitionGap": {
+    "title": "Promotion Ambition Gap",
+    "url": "/wiki/concepts/promotionambitiongap/"
+  },
   "PromotionExpectationManagement": {
     "title": "Promotion Expectation Management",
     "url": "/wiki/concepts/promotionexpectationmanagement/"
@@ -28959,6 +29003,10 @@
     "title": "Rudolf Erich Raspe",
     "url": "/wiki/entities/rudolferichraspe/"
   },
+  "RudyGiuliani": {
+    "title": "Rudy Giuliani",
+    "url": "/wiki/entities/rudygiuliani/"
+  },
   "RuhollahKhomeini": {
     "title": "Ruhollah Khomeini",
     "url": "/wiki/entities/ruhollahkhomeini/"
@@ -30906,6 +30954,10 @@
   "SocialTrustAsStateCapacity": {
     "title": "Social Trust As State Capacity",
     "url": "/wiki/concepts/socialtrustasstatecapacity/"
+  },
+  "SocializingDecline": {
+    "title": "Socializing Decline",
+    "url": "/wiki/concepts/socializingdecline/"
   },
   "SocietyForResearchInChineseArchitecture": {
     "title": "中国营造学社",
@@ -34859,6 +34911,10 @@
     "title": "Vince Giudice",
     "url": "/wiki/entities/vincegiudice/"
   },
+  "VingeruMakandewiri": {
+    "title": "Vingeru Makandewiri",
+    "url": "/wiki/entities/vingerumakandewiri/"
+  },
   "Vipshop": {
     "title": "唯品会 / Vipshop",
     "url": "/wiki/entities/vipshop/"
@@ -35687,6 +35743,14 @@
     "title": "《王尔德奇异故事集》 / Wilde Strange Stories",
     "url": "/wiki/entities/wildestrangestories/"
   },
+  "WildfireClimateFeedback": {
+    "title": "Wildfire Climate Feedback",
+    "url": "/wiki/concepts/wildfireclimatefeedback/"
+  },
+  "WildfireSmokeHealthBurden": {
+    "title": "Wildfire Smoke Health Burden",
+    "url": "/wiki/concepts/wildfiresmokehealthburden/"
+  },
   "WildlifeTourismSpectacle": {
     "title": "Wildlife Tourism Spectacle",
     "url": "/wiki/concepts/wildlifetourismspectacle/"
@@ -35870,6 +35934,10 @@
   "WomenOutdoorVisibility": {
     "title": "Women Outdoor Visibility / 女性户外可见度",
     "url": "/wiki/concepts/womenoutdoorvisibility/"
+  },
+  "WomenWorkplaceProgressStall": {
+    "title": "Women Workplace Progress Stall",
+    "url": "/wiki/concepts/womenworkplaceprogressstall/"
   },
   "WomensHealthDiagnosticGap": {
     "title": "Women's Health Diagnostic Gap",
@@ -37858,6 +37926,10 @@
   "building-things-and-breaking-things-in-china-summer-school-world-tour": {
     "title": "Building things and breaking things in China (Summer School World Tour)",
     "url": "/wiki/sources/building-things-and-breaking-things-in-china-summer-school-world-tour/"
+  },
+  "burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b": {
+    "title": "Burning questions: a more fire-prone world",
+    "url": "/wiki/sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b/"
   },
   "can-computer-hackers-get-inside-your-mind": {
     "title": "Can computer hackers get inside your mind?",

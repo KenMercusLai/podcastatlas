@@ -2,11 +2,13 @@
 title: "Spain"
 type: entity
 tags: [country, football, sports-development, healthcare, law, maritime-history, catholicism]
-sources: [119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, why-the-us-has-no-guaranteed-paid-vacation, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]
-last_updated: 2026-07-25
+sources: [119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, why-the-us-has-no-guaranteed-paid-vacation, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
+last_updated: 2026-08-08
 ---
 
 # Spain
+
+[[burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]] adds Spain as a recent wildfire example paired with [[France]]. The episode uses fires in both countries to introduce the broader claim that fire seasons are lengthening and that more days now carry very high fire-weather risk, extending Spain into [[ExtremeWildfire]] and [[LandscapeFirePrevention]].
 
 [[14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]] adds Spain as an early-modern Catholic maritime power in the Japan contact field. The episode uses Spanish and Portuguese influence, missionary channels, shipwreck diplomacy, and [[HasekuraTsunenaga|Hasekura Tsunenaga / 支仓常长]]'s mission to show how [[ConfessionalTradeConflict]] and trade ambitions shaped [[EarlyModernJapanEuropeContact]].
 
@@ -22,6 +24,7 @@ Spain appears in [[vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shang
 - Spain's football system is presented as a normal school-plus-club pathway where children can study, train, and compete frequently.
 - The lower-tier pyramid can provide many competitive levels, but that does not mean a club inside the pyramid is a clean financial asset.
 - The Intelligence source treats Spain as both a tournament favorite in the current final and a future 2030 host.
+- The Burning questions source treats Spain as a wildfire-risk example rather than as a politics or sports case.
 
 ## Connections
 - [[Portugal]], [[Jesuits]], [[HasekuraTsunenaga|Hasekura Tsunenaga]], and [[ConfessionalTradeConflict]] - early-modern Catholic maritime branch added by episode 14.
@@ -32,3 +35,4 @@ Spain appears in [[vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shang
 - [[AdewaleMaie]], [[UnitedStates]], and [[PaidVacationAsLaborRight]] - vacation-law comparison added by Planet Money.
 - [[FIFAWorldCup]], [[Argentina]], [[LionelMessi]], [[WorldCupExpansion]], and [[JohnFasman]] - World Cup branch added by The Intelligence.
 - [[RamonSampedro]], [[CrossCulturalAssistedDeathEthics]], and [[EndOfLifeAutonomyAndDignity]] - assisted-death branch added by episode 119.
+- [[ExtremeWildfire]], [[LandscapeFirePrevention]], and [[France]] - wildfire branch added by The Intelligence.

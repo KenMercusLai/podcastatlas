@@ -2,11 +2,13 @@
 title: "Oliver Morton"
 type: entity
 tags: [person, journalism, space]
-sources: [dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
-last_updated: 2026-07-08
+sources: [dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
+last_updated: 2026-08-08
 ---
 
 # Oliver Morton
+
+[[burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]] adds Morton in a climate-risk role. He explains worsening fire seasons through [[ExtremeWildfire]], [[WildfireSmokeHealthBurden]], [[WildfireClimateFeedback]], and [[LandscapeFirePrevention]], arguing that the hard part is not only knowing how to reduce fire risk but sustaining the governance and investment required to do it.
 
 Oliver Morton explains the [[AppliedAstrobiology]] segment in [[dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]]. He presents terraforming and habitability as questions of engineered ecosystems rather than only planetary imagination.
 
@@ -15,5 +17,6 @@ The source uses his segment to connect biology with [[SpaceEconomyInfrastructure
 ## Connections
 - [[TheIntelligence]] — show context.
 - [[AppliedAstrobiology]] — concept he explains.
+- [[ExtremeWildfire]], [[WildfireSmokeHealthBurden]], [[WildfireClimateFeedback]], and [[LandscapeFirePrevention]] - wildfire concepts he explains.
 - [[SpaceEconomyInfrastructure]] and [[SpaceBasedAIInfrastructure]] — adjacent space-infrastructure concepts.
 - [[AIForScience]] — related science-and-engineering discovery branch.

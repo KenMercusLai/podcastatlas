@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Burning questions: a more fire-prone world](sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b.md) — The Intelligence episode on extreme wildfire, smoke health burden, women’s stalled workplace progress, and U.S. nightlife mayors.
 - [China's soft power play in the global AI arms race](sources/tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128.md) — Marketplace Tech episode with Adam Siegel of the Council on Foreign Relations on Chinese open-weight AI models, U.S. proprietary frontier-model competition, censorship/data/dependence concerns, local deployment, and possible export-control tension.
 - [174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界](sources/ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1.md) — LateTalk episode with SAP's Yuan Xin on ERP, AI coding, SaaS pricing pressure, FDE, autonomous enterprise, enterprise data foundations, SAP-Alibaba cooperation, and why business-process trust constrains AI disruption.
 - [Opening the curtain of AI business integration](sources/tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128.md) — Marketplace Tech episode with Priya Rathod of Indeed on employer demand for AI skills, AI native workers, worker readiness gaps, manager fluency, governance/privacy concerns, and AI job-security anxiety.
@@ -882,6 +883,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Vingeru Makandewiri](entities/VingeruMakandewiri.md) — The Intelligence speaker explaining stalled women’s workplace progress, promotion ambition, childcare, pay gaps, and leadership-pipeline strain.
+- [Danielle Arras](entities/DanielleArras.md) — The Intelligence speaker explaining U.S. nightlife mayor roles as mediation between venues, residents, regulators, and socializing decline.
+- [Corrine Reynolds](entities/CorrineReynolds.md) — Boston nighttime-economy director used as a concrete case of nightlife governance work.
+- [Boston](entities/Boston.md) — U.S. city example where nighttime-economy governance covers complaints, crowd management, noise, regulation, and policy advocacy.
+- [Indonesia](entities/Indonesia.md) — Wildfire-risk country flagged through slash-and-burn agriculture, biofuel demand, El Nino drying, and fire-prevention governance.
+- [Rudy Giuliani](entities/RudyGiuliani.md) — New York mayoral context for 1990s cabaret-law enforcement and policing-first nightlife governance.
 - [游凯超 / Kaichao Yu](entities/YuKaichao.md) — Infract co-founder and vLLM maintainer connecting open-source inference engines, systems research, and model-infra co-design.
 - [Infract](entities/Infract.md) — Company supporting vLLM through full-time maintainers, customer collaboration, cluster resources, endpoint/BYOC services, and open-source infrastructure work.
 - [vLLM](entities/VLLM.md) — Open-source large-model inference engine originating from PagedAttention and framed as Linux-like AI inference infrastructure.
@@ -6016,6 +6023,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Extreme Wildfire](concepts/ExtremeWildfire.md) — Fire category defined by intensity, size, speed, or damage rather than by ordinary fire-season occurrence.
+- [Wildfire Smoke Health Burden](concepts/WildfireSmokeHealthBurden.md) — Public-health frame for wildfire smoke as the main human cost channel of burning landscapes.
+- [Wildfire Climate Feedback](concepts/WildfireClimateFeedback.md) — Climate-system effects of fires through CO2, smoke, atmospheric circulation, and ocean fertilization.
+- [Landscape Fire Prevention](concepts/LandscapeFirePrevention.md) — Sustained governance and technology work of reducing fire risk before ignition or while fires remain small.
+- [Women Workplace Progress Stall](concepts/WomenWorkplaceProgressStall.md) — Pattern where women’s executive representation, board seats, promotion ambition, participation, and pay-gap indicators stop improving or reverse.
+- [Promotion Ambition Gap](concepts/PromotionAmbitionGap.md) — Diverging desire for advancement between men and women, read as a signal of workplace-family payoff and structural constraints.
+- [Childcare Infrastructure Constraint](concepts/ChildcareInfrastructureConstraint.md) — Work-family bottleneck where childcare quality and availability limit participation and career advancement.
+- [Nightlife Mayor](concepts/NightlifeMayor.md) — City role mediating between nighttime businesses, residents, regulators, licensing, safety, and social life.
+- [Nighttime Economy Governance](concepts/NighttimeEconomyGovernance.md) — Urban-policy problem of managing lawful after-dark activity as economy, nuisance, culture, and social infrastructure.
+- [Liquor License Quota Barrier](concepts/LiquorLicenseQuotaBarrier.md) — Regulatory cap or scarcity mechanism that can limit lawful nightlife and shape venue economics.
+- [Socializing Decline](concepts/SocializingDecline.md) — Drop in time spent socializing, treated as a nightlife, loneliness, and urban civic-life problem.
 - [PagedAttention](concepts/PagedAttention.md) — vLLM-origin inference-memory idea showing how attention state, memory layout, request scheduling, and serving needs become one systems problem.
 - [Model-Infra Co-Design](concepts/ModelInfraCoDesign.md) — Joint design of model architecture, inference engine, chip features, and agent workloads to improve serving efficiency.
 - [Open Source AI Infrastructure](concepts/OpenSourceAIInfrastructure.md) — Community-governed, company-supported AI infrastructure pattern illustrated by vLLM, Infract, and the PyTorch Foundation.

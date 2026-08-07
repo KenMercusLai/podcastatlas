@@ -2,8 +2,8 @@
 title: "California"
 type: entity
 tags: [place, state, privacy, legislation, wildfire, climate, construction]
-sources: [tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, a-trip-to-the-magic-mushroom-megachurch, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources: [tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, a-trip-to-the-magic-mushroom-megachurch, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
+last_updated: 2026-08-08
 ---
 
 # California
@@ -17,6 +17,8 @@ last_updated: 2026-08-07
 [[tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128]] adds California as the first-state building-code setting for [[EmbodiedCarbonBuildingCode]]. The episode says large non-residential buildings over 50,000 square feet must now comply, using [[MalibuHighSchool]], [[VerticalGroup]], [[BNBuilders]], [[EmilyEnglish]], [[BenStapleton]], and the [[USGreenBuildingCouncilOfCalifornia|U.S. Green Building Council of California]] to show how material review, documentation, and supplier demand connect.
 
 [[tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]] adds California as the wildfire-rebuilding setting for a [[MarketplaceTech]] episode on homes lost in Pacific Palisades and Altadena. The source connects the state to [[FireResilientConstruction]], [[CrossLaminatedTimber]], [[ConcreteFilledWallSystems]], [[ThreeDPrintedHousing]], and [[ClimateAdaptation]] by asking how new homes can be rebuilt for future fires.
+
+[[burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]] adds California indirectly through Los Angeles fire damage. [[OliverMorton]] says fires in Los Angeles caused more insured damage than any other fires he could identify, reinforcing the state's existing [[FireResilientConstruction]] and [[FireTechClimateResilience]] branches with an [[ExtremeWildfire]] loss example.
 
 [[tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]] adds California as [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]]' operating geography. [[AmyScott]] visits Heirloom in Brisbane, and the episode says the company's first [[DirectAirCapture]] facility in Tracy can remove about 1,000 tons of CO2 per year.
 
@@ -51,3 +53,4 @@ The California case complements [[Montana]]'s role in [[tech-20260302-0302-mp-te
 - [[Waymo]], [[KirstenKorosek]], [[AutonomousVehicleRegulatoryPatchwork]], and [[RobotaxiLocalAcceptance]] - autonomous-vehicle regulatory and local-acceptance context added by Marketplace Tech.
 - [[FutureOfLifeInstitute|Future of Life Institute]], [[VoluntaryAISafetyCommitments]], [[AILabSafetyReportCards]], and [[StateAIRegulationPatchwork]] - frontier-lab safety-framework branch added by Marketplace Tech.
 - [[Apple]], [[Google]], [[NudifyAppEcosystem]], [[AINonConsensualIntimateImageAbuse]], and [[TakeItDownAct|Take It Down Act]] - app-store enforcement branch added by the July 27, 2026 Marketplace Tech source.
+- [[ExtremeWildfire]], [[WildfireSmokeHealthBurden]], and [[FireTechClimateResilience]] - Los Angeles fire-damage branch added by The Intelligence.
