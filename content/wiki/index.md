@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？](sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1.md) — LateTalk technical episode with Zhao Chenyang and Zeng Zhiyuan on Kimi K3 architecture, KDA, Attention Residues, MoE routing, Per-Head Muon, MOPD, AgentIn, kernel agents, open-weight boundaries, and closed-lab valuation pressure.
 - [期权这张饼，为什么越来越难吃了？](sources/qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1.md) — Keji Luandun episode on employee stock options, RSUs, VIE entity mismatch, option-pool recapture incentives, private-company liquidity risk, and why equity compensation depends on trust and exit paths.
 - [Taken littorally: Spain’s sudden crisis in Ceuta](sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7.md) — The Intelligence episode on Ceuta migration surge, Morocco-Spain-Western Sahara diplomacy, India's falling-object public-safety failures, and AI writing detection.
 - [A股的春夏秋冬：种树、种粮、种菜](sources/a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx.md) — 面基 episode with Wu Weizhi on A-share market seasons, tree/grain/vegetable company taxonomy, strategy fit, AI-theme trading boundaries, MAPER research, and Zhongou Ruibo's investment process.
@@ -904,6 +905,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Zhao Chenyang / 赵晨阳](entities/ZhaoChenyang.md) — Infrastructure-side LateTalk guest explaining Kimi K3 serving, KDA state, kernel agents, AgentIn, and open-weight release boundaries.
+- [Zeng Zhiyuan / 曾志远](entities/ZengZhiyuan.md) — Algorithm-side LateTalk guest explaining Kimi K3 architecture, NoPE, Attention Residues, quantile balancing, Per-Head Muon, MOPD, and distillation.
+- [Radix ARC / Ridix ARC](entities/RadixARC.md) — Source-scoped AI infrastructure/open-weight organization associated with Zhao Chenyang and the July 24 open-weights letter.
+- [AgentIn](entities/AgentIn.md) — Kimi K3 open agent environment connecting sandbox isolation, partial rollout, Agent RL, and train/deploy consistency.
+- [Kimi Linear](entities/KimiLinear.md) — Smaller Kimi model/predecessor whose linear-attention and NoPE experiments informed Kimi K3's hybrid attention scale-up.
 - [Ceuta](entities/Ceuta.md) — Spanish enclave where a court ruling, Moroccan border pressure, and EU migration politics converged.
 - [Morocco](entities/Morocco.md) — State whose border cooperation around Ceuta is framed as possible migration leverage against Spain and the EU.
 - [Algeria](entities/Algeria.md) — Morocco rival angered by Spain's Western Sahara shift, making Ceuta part of triangular diplomacy.
@@ -1136,7 +1142,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [东尼 / Tony (content engineer)](entities/TonyContentEngineer.md) — Former media worker and AI model-content practitioner explaining content engineering, internationalization, and podcast-like voice-agent design.
 - [Bianca (content engineer)](entities/BiancaContentEngineer.md) — Content-engineering speaker grounding AI answer evaluation in product goals, intent reading, uncertainty handling, and consensus-trained art limits.
 - [WAIC](entities/WAIC.md) — World Artificial Intelligence Conference context used by Keji Luandun to read the AI industry's shift from model spectacle toward landing, commercialization, and deployment.
-- [Kimi K3](entities/KimiK3.md) — Kimi model/product case tested for a podcast-host dialogue agent, adding latency, token-use, workflow-fit, and open-weight release-boundary material.
+- [Kimi K3](entities/KimiK3.md) — Kimi model/product case spanning open-weight debate, workflow-fit tests, KDA, Attention Residues, MoE routing, Per-Head Muon, MOPD, AgentIn, and infrastructure constraints.
 - [Huawei CM384](entities/HuaweiCM384.md) — Huawei AI supernode case used to compare domestic system-level catch-up against Nvidia GB200 NVL72 through aggregate compute, power, cooling, and market validation.
 - [Nvidia GB200 NVL72](entities/NvidiaGB200NVL72.md) — Nvidia Blackwell rack-scale supernode reference used in the WAIC source as the benchmark for Huawei CM384 and domestic AI infrastructure comparison.
 - [Alibaba Cloud / 阿里云](entities/AlibabaCloud.md) — Alibaba cloud-infrastructure unit connecting Aliyun Bailian model serving, Pingtouge chip work, and WAIC supernode participation.
@@ -5245,7 +5251,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yu Yi](entities/YuYi.md) — AI-first practitioner in S10E18 framing agents as partners while keeping red lines around money, deletion, protocol changes, and reputation.
 - [Amazon Web Services](entities/AmazonWebServices.md) — AWS cloud and startup-support context for the From Idea to Frontier OPC accelerator discussed in S10E18.
 - [From Idea to Frontier](entities/FromIdeaToFrontier.md) — AWS accelerator program named in S10E18 as support infrastructure for Chinese-language one-person-company founders.
-- [LateTalk](entities/LateTalk.md) — Podcast/show context spanning embodied AI, Q2 AI reviews, AI-era education, and Momenta's IPO-era autonomous-driving founder interview.
+- [LateTalk](entities/LateTalk.md) — Podcast/show context spanning embodied AI, Q2 AI reviews, AI-era education, enterprise AI, Tencent Hunyuan, and Kimi K3 technical-report analysis.
 - [Henry Yin](entities/HenryYin.md) — MOE Capital founding partner and LateTalk Q2 2026 AI-review guest connecting coding, RSI, enterprise models, open models, and AI commercialization.
 - [MOE Capital](entities/MOECapital.md) — Investment-firm context for Henry Yin's Q2 2026 AI review on model-company competition and RSI.
 - [GPT-5.6](entities/GPT56.md) — OpenAI frontier model tied to Q2 model competition and later Marketplace Tech release-governance concerns.
@@ -6169,6 +6175,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Kimi Delta Attention / KDA](concepts/KimiDeltaAttention.md) — Kimi K3 linear-attention mechanism that lowers long-context state cost while complicating prefix reuse, rollback, and serving implementation.
+- [Attention Residues](concepts/AttentionResidues.md) — Kimi K3 depth-direction attention mechanism for selectively reading shallower-layer representations instead of relying only on additive residual streams.
+- [NoPE / No Position Encoding](concepts/NoPositionEncoding.md) — Position-encoding-light architecture pattern where KDA recurrent state, gating, and decay carry order and recency information.
+- [Quantile Balancing](concepts/QuantileBalancing.md) — MoE routing-balance method used in the Kimi K3 discussion to stabilize sparse expert load without a separate auxiliary loss.
+- [Per-Head Muon](concepts/PerHeadMuon.md) — Kimi K3 optimizer variation applying Muon-style orthogonalized updates per attention head for large-scale training stability.
+- [Kernel Development Agents](concepts/KernelDevelopmentAgents.md) — AI agents for low-level kernel optimization, treated as a cheap, verifiable local recursive self-improvement loop.
+- [MOPD Post-Training](concepts/MOPDPostTraining.md) — Post-training recipe that merges domain expert models and reasoning-effort levels back into one model.
+- [On-Policy Distillation](concepts/OnPolicyDistillation.md) — Distillation method where the student generates trajectories and a teacher scores them, keeping rewards near the student's current behavior.
+- [Agent Environment Isolation](concepts/AgentEnvironmentIsolation.md) — Agent safety and training pattern where sandbox isolation, permissions, rollback, and environment consistency shape useful agent behavior.
 - [Employee Stock Options / 员工期权](concepts/EmployeeStockOptions.md) — Employment-linked right to buy future company equity, whose value depends on vesting, exercise terms, liquidity, tax, and company trust.
 - [Employee Stock Option Liquidity Risk / 员工期权流动性风险](concepts/EmployeeStockOptionLiquidityRisk.md) — Gap between a valuable-looking employee option grant and a realistic cash exit through IPO, sale, buyback, or enforceable exercise.
 - [Variable Interest Entity / VIE 架构](concepts/VariableInterestEntity.md) — Offshore-control structure used by Chinese internet companies to connect listing vehicles, domestic businesses, investors, and licensing constraints.

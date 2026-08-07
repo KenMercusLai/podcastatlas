@@ -2,11 +2,13 @@
 title: "AI Programming Engine Shift"
 type: concept
 tags: [ai-coding, software-engineering, labor, culture]
-sources: [270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, yao-shunyu-laidao-tengxun-300tian-1-176-1, tsr-s5-jared-v3final-tsr-s5-jared-v3final, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
+sources: [xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, 270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, yao-shunyu-laidao-tengxun-300tian-1-176-1, tsr-s5-jared-v3final-tsr-s5-jared-v3final, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
 last_updated: 2026-08-08
 ---
 
 # AI Programming Engine Shift
+
+[[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] adds a model-architecture version of the programming shift through [[KimiK3|Kimi K3]]. The source says K3's strong frontend and long-agent behavior comes from targeted web-development evaluation, code/rendering data, visible feedback loops, and training environments, while its [[KernelDevelopmentAgents]] case shows code becoming a way for models to improve their own model-serving infrastructure.
 
 [[yao-shunyu-laidao-tengxun-300tian-1-176-1]] adds a big-tech strategy version of the shift. The episode says coding became the more important AI battleground after the earlier chatbot-entry phase because programming tools can generate near-term productivity value, feed enterprise workflows, and serve as a step toward broader office agents.
 
@@ -55,6 +57,7 @@ AI programming engine shift is the episode's metaphor that AI changes programmin
 - The Kimi K3 source adds that model differences increasingly appear as workflow-cost differences once the human has specified architecture, modules, and constraints well enough.
 - The Tencent source adds that coding can be strategically important even when it grows more slowly than a consumer chatbot, because it connects model ability to work, enterprise adoption, and agent infrastructure.
 - Episode 270 adds that office agents can carry the programming-engine shift to non-programmers by hiding code-like execution inside work-productivity interfaces.
+- K3 adds that coding is also a model-development substrate: models can help generate data, build environments, optimize kernels, and analyze failure cases when verifiers are strong enough.
 
 ## Connections
 - [[JaredFriedman]], [[YCombinator]], [[YCInternalSoftware]], and [[AIOrganizationDesign]] - YC partner and internal-tooling branch added by The Social Radars.
@@ -75,3 +78,4 @@ AI programming engine shift is the episode's metaphor that AI changes programmin
 - [[KimiK3]], [[ModelWorkflowFit]], [[AIEngineeringThinking]], and [[TopModelBuildRuntimeSplit]] - planning, model fit, and build/runtime split added by the Kimi K3 episode.
 - [[TencentHunyuan]], [[TencentWorkBuddy]], [[ModelProviderToolCompetition]], and [[AIAssistantServiceEntry]] - Tencent big-tech strategy branch added by LateTalk episode 176.
 - [[AIOfficeAgent]], [[TencentWorkBody]], [[Feishu]], [[DingTalk]], [[Doubao]], and [[CodingAgentAsUniversalActionLayer]] - AI-office continuation added by Luanfanshu episode 270.
+- [[KimiK3]], [[KernelDevelopmentAgents]], [[KimiDeltaAttention]], [[AgentIn]], and [[RecursiveSelfImprovement]] - K3 coding, kernel, and model-development branch added by LateTalk episode 177.

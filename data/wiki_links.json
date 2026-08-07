@@ -2679,6 +2679,10 @@
     "title": "Agent Dynamics",
     "url": "/wiki/concepts/agentdynamics/"
   },
+  "AgentEnvironmentIsolation": {
+    "title": "Agent Environment Isolation",
+    "url": "/wiki/concepts/agentenvironmentisolation/"
+  },
   "AgentEraNANDStorage": {
     "title": "Agent-Era NAND Storage",
     "url": "/wiki/concepts/agenteranandstorage/"
@@ -2698,6 +2702,10 @@
   "AgentIdentityAndAuthentication": {
     "title": "Agent Identity And Authentication",
     "url": "/wiki/concepts/agentidentityandauthentication/"
+  },
+  "AgentIn": {
+    "title": "AgentIn",
+    "url": "/wiki/entities/agentin/"
   },
   "AgentInferenceWorkload": {
     "title": "Agent Inference Workload",
@@ -4314,6 +4322,10 @@
   "AttentionIndustrialization": {
     "title": "Attention Industrialization",
     "url": "/wiki/concepts/attentionindustrialization/"
+  },
+  "AttentionResidues": {
+    "title": "Attention Residues",
+    "url": "/wiki/concepts/attentionresidues/"
   },
   "AttentiveStreamingStorytelling": {
     "title": "Attentive Streaming Storytelling",
@@ -19547,6 +19559,10 @@
     "title": "Kenya",
     "url": "/wiki/entities/kenya/"
   },
+  "KernelDevelopmentAgents": {
+    "title": "Kernel Development Agents",
+    "url": "/wiki/concepts/kerneldevelopmentagents/"
+  },
   "KevinKelly": {
     "title": "Kevin Kelly",
     "url": "/wiki/entities/kevinkelly/"
@@ -19615,9 +19631,17 @@
     "title": "Kimi CLI",
     "url": "/wiki/entities/kimicli/"
   },
+  "KimiDeltaAttention": {
+    "title": "Kimi Delta Attention / KDA",
+    "url": "/wiki/concepts/kimideltaattention/"
+  },
   "KimiK3": {
     "title": "Kimi K3",
     "url": "/wiki/entities/kimik3/"
+  },
+  "KimiLinear": {
+    "title": "Kimi Linear",
+    "url": "/wiki/entities/kimilinear/"
   },
   "KindaichiKyosuke": {
     "title": "Kindaichi Kyosuke / 金田一京助",
@@ -21626,6 +21650,10 @@
   "MOECapital": {
     "title": "MOE Capital",
     "url": "/wiki/entities/moecapital/"
+  },
+  "MOPDPostTraining": {
+    "title": "MOPD Post-Training",
+    "url": "/wiki/concepts/mopdposttraining/"
   },
   "MOSFET": {
     "title": "MOSFET / MOS Transistor",
@@ -24723,6 +24751,10 @@
     "title": "No-Poaching Agreements",
     "url": "/wiki/concepts/nopoachingagreements/"
   },
+  "NoPositionEncoding": {
+    "title": "NoPE / No Position Encoding",
+    "url": "/wiki/concepts/nopositionencoding/"
+  },
   "NoPredictionTrading": {
     "title": "No-Prediction Trading",
     "url": "/wiki/concepts/nopredictiontrading/"
@@ -25246,6 +25278,10 @@
   "OnDisobedience": {
     "title": "On Disobedience / 论不服从",
     "url": "/wiki/entities/ondisobedience/"
+  },
+  "OnPolicyDistillation": {
+    "title": "On-Policy Distillation",
+    "url": "/wiki/concepts/onpolicydistillation/"
   },
   "OnRunning": {
     "title": "On Running",
@@ -26322,6 +26358,10 @@
   "PeoplesBankOfChina": {
     "title": "People's Bank of China",
     "url": "/wiki/entities/peoplesbankofchina/"
+  },
+  "PerHeadMuon": {
+    "title": "Per-Head Muon",
+    "url": "/wiki/concepts/perheadmuon/"
   },
   "PercyShelley": {
     "title": "Percy Shelley / 珀西·雪莱",
@@ -28231,6 +28271,10 @@
     "title": "《全球上瘾》",
     "url": "/wiki/entities/quanqiushangyin/"
   },
+  "QuantileBalancing": {
+    "title": "Quantile Balancing",
+    "url": "/wiki/concepts/quantilebalancing/"
+  },
   "QuantitativeDataMoat": {
     "title": "Quantitative Data Moat",
     "url": "/wiki/concepts/quantitativedatamoat/"
@@ -28354,6 +28398,10 @@
   "RadiopharmaceuticalDrugConjugates": {
     "title": "Radiopharmaceutical Drug Conjugates / RDC",
     "url": "/wiki/concepts/radiopharmaceuticaldrugconjugates/"
+  },
+  "RadixARC": {
+    "title": "Radix ARC / Ridix ARC",
+    "url": "/wiki/entities/radixarc/"
   },
   "RafaelParker": {
     "title": "Rafael Parker",
@@ -38171,6 +38219,10 @@
     "title": "曾欣 / Zeng Xin",
     "url": "/wiki/entities/zengxin/"
   },
+  "ZengZhiyuan": {
+    "title": "Zeng Zhiyuan / 曾志远",
+    "url": "/wiki/entities/zengzhiyuan/"
+  },
   "ZeroPointFiveNoOtoko": {
     "title": "《0.5 的男人》 / 0.5 no Otoko",
     "url": "/wiki/entities/zeropointfivenootoko/"
@@ -38358,6 +38410,10 @@
   "Zhangzidao": {
     "title": "Zhangzidao",
     "url": "/wiki/entities/zhangzidao/"
+  },
+  "ZhaoChenyang": {
+    "title": "Zhao Chenyang / 赵晨阳",
+    "url": "/wiki/entities/zhaochenyang/"
   },
   "ZhaoDefang": {
     "title": "赵德芳 / Zhao Defang",
@@ -41110,6 +41166,10 @@
   "xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c": {
     "title": "现场！现场！ | 2025年终特辑：三联女记者揭秘新闻背后的苦与光",
     "url": "/wiki/sources/xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c/"
+  },
+  "xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1": {
+    "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+    "url": "/wiki/sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1/"
   },
   "xiangliang-moxing-gongchengshi-ai-de-yincang-pingjing-yu-xinshidai-de-xinxi-migong-4b6cf945-d64a-4dd0-95a7-cb8f11963698": {
     "title": "Episode 17: 向量模型工程师：AI 的隐藏瓶颈与新时代的信息迷宫",

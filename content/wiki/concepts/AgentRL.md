@@ -2,11 +2,13 @@
 title: "Agent RL"
 type: concept
 tags: [agents, reinforcement-learning, infrastructure]
-sources: [yao-shunyu-laidao-tengxun-300tian-1-176-1, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
+sources: [xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, yao-shunyu-laidao-tengxun-300tian-1-176-1, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
 last_updated: 2026-08-08
 ---
 
 # Agent RL
+
+[[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] adds [[AgentIn]] as a K3-specific agent-RL environment case. The source says K3 uses stronger sandbox isolation, partial rollout for long-running trajectories, and train/inference consistency ideas such as QAT alignment so the model sampled during RL better matches the model served in use.
 
 Agent RL is the reinforcement-learning and rollout problem that appears when a model is trained or adapted inside an [[AgentHarness]] rather than inside a narrow prompt-answer loop. In [[138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]], [[LuoFuli]] says agent-era RL infrastructure has to handle agent frameworks, GPU and CPU resources, storage, fault tolerance, compatibility, and train-inference mismatch.
 
@@ -27,6 +29,7 @@ The source treats Agent RL as harder and messier than ordinary post-training bec
 - Agent RL can also be used to test social and alignment behavior, such as whether agents recognize collective belonging in simulated environments.
 - B2B sourcing adds delayed but valuable reward signals because the platform can observe whether an idea became a transaction and whether the buyer kept purchasing.
 - Tencent's Hunyuan case adds that Agent RL can be an internal platform spanning multiple products, not only a lab experiment or startup framework.
+- K3's AgentIn case adds that isolation and partial-rollout scheduling can be training infrastructure, not only production sandboxing.
 
 ## Connections
 - [[AgentPostTraining]] — broader training frame that includes Agent RL.
@@ -37,3 +40,4 @@ The source treats Agent RL as harder and messier than ordinary post-training bec
 - [[Softmax]], [[EmmettShear]], [[AICollectiveAlignment]], and [[LearningEnvironmentCenteredAITraining]] — alignment-environment case added by the Emmett Shear YC offsite source.
 - [[Axio]], [[AgenticB2BSourcing]], [[B2BToA2A]], and [[EnterpriseAgentGovernance]] — transaction-feedback case added by E231.
 - [[TencentHunyuan]], [[Yuanbao]], [[TencentWorkBuddy]], [[TencentCSIG]], and [[AIOrganizationDesign]] — large-company product-feedback RL case added by LateTalk episode 176.
+- [[AgentIn]], [[AgentEnvironmentIsolation]], [[KimiK3]], [[MOPDPostTraining]], and [[OnPolicyDistillation]] - K3 environment and post-training branch added by LateTalk episode 177.

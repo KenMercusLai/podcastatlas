@@ -2,11 +2,13 @@
 title: "Open Weight Release Boundary"
 type: concept
 tags: [ai, open-source, models, governance]
-sources: [e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
+sources: [xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
 last_updated: 2026-08-08
 ---
 
 # Open Weight Release Boundary
+
+[[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] adds the model-development-pipeline version of the boundary. The source says [[KimiK3|Kimi K3]] can open weights, [[AgentIn]], MTP, and Flash KDA while still withholding IO environments, self-evolution task systems, raw expert checkpoints, data pipelines, verifiers, and RL workflows. In this framing, weights are a trained artifact, while the environment is the reusable factory for producing later weights.
 
 [[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]] adds the commercial-license version of the boundary. The source says [[KimiK3|Kimi K3]]'s full-weight release is open enough to let users download, deploy, and route the model, but its license still asks high-revenue model-as-service companies to enter additional agreements. That makes open weights a spectrum of access, transparency, and commercial permission rather than a single "open source" category.
 
@@ -32,3 +34,4 @@ The boundary matters because open-weight models can still reshape competition ev
 - [[ModelRoutingCostControl]] - open-weight models can become one route inside a cost-aware stack.
 - [[ChineseOpenWeightAIStrategy]], [[AdamSiegel]], and [[AIModelCensorship]] - U.S.-China strategy and security-tradeoff branch added by Marketplace Tech.
 - [[OpenWeightCommercialLicensing]], [[MoonshotAI]], [[OpenRouter]], and [[NeoCloud]] - E246's license and hosted-inference branch.
+- [[AgentIn]], [[KimiDeltaAttention]], [[KernelDevelopmentAgents]], [[MOPDPostTraining]], and [[AgentRL]] - K3 release artifacts and withheld training-pipeline branch added by LateTalk episode 177.

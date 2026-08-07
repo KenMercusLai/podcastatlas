@@ -2,11 +2,13 @@
 title: "Dario Amodei"
 type: entity
 tags: [person, ai, safety]
-sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
-last_updated: 2026-08-07
+sources: [xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
+last_updated: 2026-08-08
 ---
 
 # Dario Amodei
+
+[[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] adds Amodei through the [[KimiK3|Kimi K3]] open-weight safety debate. The source says he publicly did not oppose open-source models in general but argued that certain countries' open models should face restrictions and raised large-scale distillation concerns, placing him again at the boundary between [[OpenModelSafetyGovernance]], [[AIExportControls]], and [[FrontierModelAccessRestrictions]].
 
 [[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds Amodei as one of the AI leaders named in a [[MarketplaceTech]] discussion of a worker-signed open letter calling for government involvement in AI development pace. The source keeps him in the same safety-policy branch as earlier defense-access and rhetoric debates, but this time the emphasis is [[GovernmentAIPaceSetting]] rather than military use policy alone.
 
@@ -27,3 +29,4 @@ Dario Amodei appears in [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengz
 - [[AIExportControls]] and [[FrontierModelAccessRestrictions]] — policy outcomes the episode links to safety rhetoric.
 - [[AIColdWar]] — geopolitical frame in the episode.
 - [[Claude]], [[USDepartmentOfDefense]], [[PeteHegseth]], [[DefenseAIProcurement]], [[DefenseAISupplyChainRisk]], and [[FrontierModelUsePolicyConflict]] - Marketplace Tech Bytes defense-access case.
+- [[KimiK3]], [[OpenModelSafetyGovernance]], [[OpenSourceAIModels]], and [[ModelDistillation]] - K3 open-weight safety and distillation branch added by LateTalk episode 177.

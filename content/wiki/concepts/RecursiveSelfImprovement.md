@@ -2,11 +2,13 @@
 title: "Recursive Self-Improvement"
 type: concept
 tags: [ai, agents, training, safety]
-sources: [an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza, 149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv]
+sources: [xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza, 149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv]
 last_updated: 2026-08-08
 ---
 
 # Recursive Self-Improvement
+
+[[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] adds a local, verifiable RSI loop through [[KernelDevelopmentAgents]]. The source argues that kernel optimization has three favorable properties for self-improvement: it is cheap to run, correctness and speed are measurable, and cheating can be punished with targeted tests. K3's early checkpoints reportedly helping later checkpoints train faster is treated as a partial self-improvement loop, not as proof of open-ended autonomous recursion.
 
 [[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] adds [[ElonMusk]]'s shift in attitude. [[ZannyMintonBeddoes]] says Musk used to be very worried about recursive self-improvement and catastrophic outcomes, but Musk now frames AI and robots as a momentum he sees no real way to stop.
 
@@ -38,6 +40,7 @@ The source is careful about the difference between one self-improvement loop and
 - Self-improvement can automate more research work while still relying on human taste for goals, evaluation, and direction selection.
 - The Musk interview shows a political consequence of RSI fear: a builder can move from warning about runaway improvement to racing inside the same system because they believe refusal would not stop the race.
 - Liu's source adds that AI-for-AI progress does not automatically solve abstraction or continual learning, so model-design automation should not be equated with full AGI.
+- Kernel work shows why RSI may arrive unevenly: domains with cheap, strong verifiers can improve faster than domains where goals, rewards, or failure modes are ambiguous.
 
 ## Connections
 - [[Apodex]], [[LiBeibin]], and [[DuShaolei]] — source company and speakers.
@@ -51,3 +54,4 @@ The source is careful about the difference between one self-improvement loop and
 - [[AIFatalisticAcceleration]] and [[FrontierModelPeerReview]] - full-interview governance extension.
 - [[ChaSheng]], [[AmazonAGI]], [[HumanTasteAsAITrainingSignal]], and [[AgentHarness]] - Qizhulou Yan Binke qualification of self-improvement as still harnessed by human direction.
 - [[LiuZiming|Liu Ziming]], [[AIForAI]], [[PhysicsOfAI]], [[OPHISResearchWorkflow]], and [[MetaModelTrainingCurvePrediction]] - episode 149's structure-first route from research automation toward possible self-improvement.
+- [[KernelDevelopmentAgents]], [[KimiK3]], [[AICodingVerification]], and [[ModelInfraCoDesign]] - K3 local self-improvement loop added by LateTalk episode 177.

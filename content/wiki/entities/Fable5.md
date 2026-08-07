@@ -2,8 +2,8 @@
 title: "Fable 5"
 type: entity
 tags: [ai-model, coding, agents]
-sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
-last_updated: 2026-07-07
+sources: [xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
+last_updated: 2026-08-08
 ---
 
 # Fable 5
@@ -13,6 +13,8 @@ Fable 5 is the model/product discussed in [[vol-170-fable-5-zhongchujianghu-gpt-
 The source repeatedly separates model capability from workflow wrapper. Some of the improvement may come from stronger base-model behavior, while some may come from [[AgentHarness]] design, [[AISkills]], and the way the model is used for planning and acceptance.
 
 [[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]] adds the frontier-competition version. [[HenryYin]] treats Anthropic's Methos/Fable release as strong but constrained by refusal behavior, safety guardrails, and source-reported silent degradation for some AI/ML research tasks. That shifts Fable 5 from only a hands-on coding-workflow event into part of the broader [[FrontierModelAccessRestrictions]] and [[ModelProviderToolCompetition]] story.
+
+[[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] mentions Fable 5 as the frontier model comparison point for K3's perceived long-agent and coding ability. The source does not re-evaluate Fable 5 directly; it uses the comparison to show why a strong open-weight [[KimiK3|Kimi K3]] can pressure closed-model pricing, workflow choice, and [[Anthropic]] valuation narratives.
 
 ## Source Position
 - Fable 5 is framed as a high-end coding and reasoning model whose strongest value appears in [[OneShotAICoding]], planning, review triage, and product-quality judgment.
@@ -27,3 +29,4 @@ The source repeatedly separates model capability from workflow wrapper. Some of 
 - [[AICodingVerification]] and [[AIEngineeringThinking]] — verification and planning disciplines that remain necessary despite stronger one-shot output.
 - [[TokenDrivenSoftware]] and [[ModelRoutingCostControl]] — downstream product and cost-control ideas prompted by the model's capability jump.
 - [[Anthropic]], [[GPT56]], and [[FrontierModelAccessRestrictions]] — Q2 2026 frontier-model comparison added by the LateTalk source.
+- [[KimiK3]], [[ClosedModelAPIMoatPressure]], and [[OpenWeightReleaseBoundary]] — K3 comparison branch added by LateTalk episode 177.

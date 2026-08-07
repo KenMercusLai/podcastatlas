@@ -2,11 +2,13 @@
 title: "Chinese Open-Weight AI Strategy"
 type: concept
 tags: [ai, open-source, geopolitics, china]
-sources: [e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128]
+sources: [xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128]
 last_updated: 2026-08-08
 ---
 
 # Chinese Open-Weight AI Strategy
+
+[[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] adds a technical-credibility layer through [[KimiK3|Kimi K3]]. The source argues that Chinese open-weight pressure on closed labs is stronger when the model's quality can be tied to concrete architecture, inference, and post-training work such as [[KimiDeltaAttention|KDA]], [[QuantileBalancing]], [[KernelDevelopmentAgents]], [[AgentIn]], and [[MOPDPostTraining|MOPD]], not only to low prices or national strategy.
 
 [[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]] adds an inside-industry explanation through [[KimiK3|Kimi K3]]. The episode agrees that Chinese open weights pressure U.S. closed models, but it adds that the mechanism is not just national strategy: [[ScalingEfficiency]], [[OpenWeightCommercialLicensing]], [[ModelSovereignty]], [[OpenRouter|routing]], and cheaper hosted inference can all shift where value accrues in the AI stack.
 
@@ -21,6 +23,7 @@ The strategy is not only about price. Open weights can let users run models loca
 - Local deployment can reduce data-access and cutoff risks, but it does not eliminate concerns about censorship, default values, model provenance, or strategic dependence.
 - The strategy creates a control dilemma for China: openness builds influence, but powerful exported weights may eventually look too strategic to leave unconstrained.
 - The strategy can be commercially structured through licenses rather than only free distribution, especially when large hosted inference providers benefit from the model.
+- Technical-report transparency can increase trust in open weights while still leaving the repeatable training environment, verifiers, and data pipeline as a private moat.
 
 ## Connections
 - [[OpenWeightReleaseBoundary]] - technical and governance boundary that makes the strategy possible.
@@ -30,3 +33,4 @@ The strategy is not only about price. Open weights can let users run models loca
 - [[SovereignAIModels]] - why countries and companies may prefer deployable models under dependency pressure.
 - [[HuggingFace]] and [[AIModelSandboxEscape]] - practical incident branch where a Chinese open model reportedly helped with defensive work.
 - [[KimiK3]], [[MoonshotAI]], [[ModelDistillation]], [[ScalingEfficiency]], [[OpenWeightCommercialLicensing]], and [[ClosedModelAPIMoatPressure]] - E246's technical and commercial extension.
+- [[ZhaoChenyang]], [[ZengZhiyuan]], [[KimiDeltaAttention]], [[KernelDevelopmentAgents]], and [[AgentIn]] - LateTalk episode 177's technical-report extension.
