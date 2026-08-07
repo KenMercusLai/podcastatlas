@@ -4071,6 +4071,10 @@
     "title": "Automation Reinstatement Effect",
     "url": "/wiki/concepts/automationreinstatementeffect/"
   },
+  "AutomobileCityPathDependence": {
+    "title": "Automobile City Path Dependence",
+    "url": "/wiki/concepts/automobilecitypathdependence/"
+  },
   "AutomotiveCollectorEconomics": {
     "title": "Automotive Collector Economics",
     "url": "/wiki/concepts/automotivecollectoreconomics/"
@@ -6567,6 +6571,10 @@
     "title": "Chengmai Technology",
     "url": "/wiki/entities/chengmaitechnology/"
   },
+  "ChengshiJiushiZheyang": {
+    "title": "城市就是这样",
+    "url": "/wiki/entities/chengshijiushizheyang/"
+  },
   "ChenweiPolitics": {
     "title": "Chenwei Politics / 谶纬政治",
     "url": "/wiki/concepts/chenweipolitics/"
@@ -7371,6 +7379,10 @@
     "title": "暴风雪山庄 / Closed-Circle Mystery",
     "url": "/wiki/concepts/closedcirclemystery/"
   },
+  "ClosedSiteAutonomousDriving": {
+    "title": "Closed-Site Autonomous Driving",
+    "url": "/wiki/concepts/closedsiteautonomousdriving/"
+  },
   "CloudCowork": {
     "title": "Cloud Cowork",
     "url": "/wiki/entities/cloudcowork/"
@@ -7610,6 +7622,14 @@
   "CommercialOffTheShelfWeaponization": {
     "title": "Commercial Off-The-Shelf Weaponization",
     "url": "/wiki/concepts/commercialofftheshelfweaponization/"
+  },
+  "CommercialVehicleEnergyTransition": {
+    "title": "Commercial Vehicle Energy Transition",
+    "url": "/wiki/concepts/commercialvehicleenergytransition/"
+  },
+  "CommercialVehicleIndustrialBase": {
+    "title": "Commercial Vehicle Industrial Base",
+    "url": "/wiki/concepts/commercialvehicleindustrialbase/"
   },
   "CommodityFuturesTradingCommission": {
     "title": "Commodity Futures Trading Commission",
@@ -8751,6 +8771,10 @@
     "title": "Daniel Newman",
     "url": "/wiki/entities/danielnewman/"
   },
+  "DanjiangkouReservoir": {
+    "title": "Danjiangkou Reservoir / 丹江口水库",
+    "url": "/wiki/entities/danjiangkoureservoir/"
+  },
   "DannyJenkins": {
     "title": "Danny Jenkins",
     "url": "/wiki/entities/dannyjenkins/"
@@ -9831,6 +9855,10 @@
     "title": "《东北博弈》",
     "url": "/wiki/entities/dongbeiboyi/"
   },
+  "DongfengMotor": {
+    "title": "Dongfeng Motor / 东风汽车",
+    "url": "/wiki/entities/dongfengmotor/"
+  },
   "Dongniao": {
     "title": "懂鸟 / Dongniao",
     "url": "/wiki/entities/dongniao/"
@@ -10839,6 +10867,10 @@
     "title": "Enterprise Prearranged Agents",
     "url": "/wiki/concepts/enterpriseprearrangedagents/"
   },
+  "EnterpriseRunSociety": {
+    "title": "Enterprise-Run Society / 企业办社会",
+    "url": "/wiki/concepts/enterpriserunsociety/"
+  },
   "EntertainmentIPFlywheel": {
     "title": "Entertainment IP Flywheel",
     "url": "/wiki/concepts/entertainmentipflywheel/"
@@ -10870,6 +10902,10 @@
   "EnvironmentalWorkingGroup": {
     "title": "Environmental Working Group",
     "url": "/wiki/entities/environmentalworkinggroup/"
+  },
+  "EnvisionAESC": {
+    "title": "Envision AESC / 远景动力",
+    "url": "/wiki/entities/envisionaesc/"
   },
   "EnvyContemptComparison": {
     "title": "Envy-Contempt Comparison / 嫉妒-鄙视比较",
@@ -28155,6 +28191,10 @@
     "title": "Sebastian (The Residency)",
     "url": "/wiki/entities/sebastiantheresidency/"
   },
+  "SecondAutomobileWorks": {
+    "title": "Second Automobile Works / 二汽",
+    "url": "/wiki/entities/secondautomobileworks/"
+  },
   "SecondGenerationBusinessEntryRoutes": {
     "title": "Second-Generation Business Entry Routes / 二代接班切入路径",
     "url": "/wiki/concepts/secondgenerationbusinessentryroutes/"
@@ -28370,6 +28410,10 @@
   "SequoiaCapital": {
     "title": "Sequoia Capital",
     "url": "/wiki/entities/sequoiacapital/"
+  },
+  "Seres": {
+    "title": "Seres / 赛力斯",
+    "url": "/wiki/entities/seres/"
   },
   "SergeyBrin": {
     "title": "Sergey Brin",
@@ -28786,6 +28830,10 @@
   "ShixinPublicHealth": {
     "title": "《失信：公共卫生体系的崩溃》",
     "url": "/wiki/entities/shixinpublichealth/"
+  },
+  "Shiyan": {
+    "title": "Shiyan / 十堰",
+    "url": "/wiki/entities/shiyan/"
   },
   "ShizilukouCrossing": {
     "title": "Shizilukou Crossing",
@@ -29514,6 +29562,10 @@
   "SouthSeaCompany": {
     "title": "South Sea Company / 南海公司",
     "url": "/wiki/entities/southseacompany/"
+  },
+  "SouthToNorthWaterTransferProject": {
+    "title": "South-to-North Water Transfer Project / 南水北调",
+    "url": "/wiki/entities/southtonorthwatertransferproject/"
   },
   "SouthernHan": {
     "title": "南汉 / Southern Han",
@@ -31607,6 +31659,10 @@
     "title": "Thinking Machines Lab",
     "url": "/wiki/entities/thinkingmachineslab/"
   },
+  "ThirdFrontConstruction": {
+    "title": "Third Front Construction / 三线建设",
+    "url": "/wiki/concepts/thirdfrontconstruction/"
+  },
   "ThirdPartyDoctrine": {
     "title": "Third-Party Doctrine",
     "url": "/wiki/concepts/thirdpartydoctrine/"
@@ -33427,6 +33483,10 @@
     "title": "万九 / Wanjiu",
     "url": "/wiki/entities/wanjiu/"
   },
+  "WanrunNewEnergy": {
+    "title": "Wanrun New Energy / 万润新能源",
+    "url": "/wiki/entities/wanrunnewenergy/"
+  },
   "WantCanShouldMayFramework": {
     "title": "Want Can Should May Framework",
     "url": "/wiki/concepts/wantcanshouldmayframework/"
@@ -34234,6 +34294,10 @@
   "WudaiWomenAgency": {
     "title": "五代女性活跃 / Five Dynasties Women Agency",
     "url": "/wiki/concepts/wudaiwomenagency/"
+  },
+  "WudangMountain": {
+    "title": "Wudang Mountain / 武当山",
+    "url": "/wiki/entities/wudangmountain/"
   },
   "WuguPoliticalPanic": {
     "title": "Wugu Political Panic / 巫蛊政治恐慌",
@@ -35914,6 +35978,10 @@
   "chef-vs-robot": {
     "title": "Chef vs. Robot",
     "url": "/wiki/sources/chef-vs-robot/"
+  },
+  "chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066": {
+    "title": "城市就是这样21 | 十堰：一座因汽车而起、又不甘被汽车“抛下”的城市",
+    "url": "/wiki/sources/chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066/"
   },
   "chevron-venezuela-and-the-paradox-of-plenty": {
     "title": "Chevron, Venezuela and the Paradox of Plenty",

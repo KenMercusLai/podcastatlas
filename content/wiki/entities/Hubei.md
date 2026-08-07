@@ -1,9 +1,9 @@
 ---
 title: "Hubei / 湖北"
 type: entity
-tags: [province, china, aviation, business-history, disaster-history, environmental-history]
-sources: [150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, no-203-businiao-lanshili-979295393]
-last_updated: 2026-08-06
+tags: [province, china, aviation, business-history, disaster-history, environmental-history, automotive]
+sources: [150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, no-203-businiao-lanshili-979295393, chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]
+last_updated: 2026-08-07
 ---
 
 # Hubei / 湖北
@@ -15,6 +15,8 @@ Hubei is the provincial context for [[LanShili]] and [[EastStarAirlines]] in [[n
 The province matters because East Star's airline approval required support beyond the company itself. The episode says provincial and local officials backed the application to the [[CivilAviationAdministrationOfChina]], which made the later failure politically sensitive as well as commercially damaging.
 
 [[65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922]] adds Hubei as a middle [[YangtzeRiver|Yangtze]] floodplain and wetland-history setting. The episode links [[Yunmengze]], rice agriculture, dikes, the [[HanRiver|Han River]], [[Wuhan]], [[Hankou]], and disaster relief to show how provincial geography became part of [[NaturalHazardSocialDisaster]] in 1931.
+
+[[chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]] adds Hubei as an automotive industrial geography split between [[Shiyan]] and [[Wuhan]]. The episode treats Shiyan as the [[ThirdFrontConstruction|Third Front]] birthplace of [[SecondAutomobileWorks|二汽]] and [[DongfengMotor|东风汽车]], then explains why Dongfeng's headquarters and passenger-car focus moved toward Wuhan while Shiyan retained a [[CommercialVehicleIndustrialBase|commercial-vehicle industrial base]].
 
 ## Source Position
 - Hubei is a regional-development and political-support setting for the source's private-airline story.
@@ -32,3 +34,4 @@ The province matters because East Star's airline approval required support beyon
 - [[YuenYuenAng|洪源远]], [[DirectedImprovisation]], [[LocalGovernmentPolicyExperimentation]], [[Fujian]], and [[Zhejiang]] - episode 150's inland/coastal regional comparison.
 - [[YangtzeRiver]], [[HanRiver]], [[Yunmengze]], and [[DongtingLake]] - water and wetland geography added by episode 65.
 - [[WetlandAdaptation]], [[FloodControlRiskTransfer]], and [[NaturalHazardSocialDisaster]] - disaster-history concepts added by episode 65.
+- [[Shiyan]], [[DongfengMotor]], [[SecondAutomobileWorks]], [[AutomobileCityPathDependence]], and [[CommercialVehicleIndustrialBase]] - automotive branch added by 城市就是这样21.

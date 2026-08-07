@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [城市就是这样21 | 十堰：一座因汽车而起、又不甘被汽车“抛下”的城市](sources/chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066.md) — 商业就是这样 city episode on Shiyan as an auto-built Hubei city, Dongfeng/Second Automobile Works, Third Front construction, the 2003 headquarters move to Wuhan, commercial-vehicle resilience, and diversification into batteries, water, and Wudang tourism.
 - [Can Trump make buying a home more affordable?](sources/can-trump-make-buying-a-home-more-affordable.md) — Planet Money episode testing Trump housing policies through institutional investor restrictions, mortgage-backed-security purchases, first-time-buyer strain, and the deeper starter-home supply constraint.
 - [Froggle, Goofstump and the fake AI companies winning hearts online](sources/tech-20260714-tech-pod-128-tech-20260714-tech-pod-128.md) — Marketplace Tech episode on Harris Alterman and Dave Ross's fake AI subway ads, vague AI marketing jargon, public transit legitimacy signals, and satire of AI hype language.
 - [The case of the missing totem: Aung San Suu Kyi](sources/the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f.md) — The Intelligence episode on proof-of-life uncertainty around Aung San Suu Kyi, Turkey's wartime spillover opportunity through Istanbul, and population-level sleep duration guidance.
@@ -836,6 +837,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Shiyan / 十堰](entities/Shiyan.md) — Hubei auto-built city whose Second Automobile Works and Dongfeng legacy leaves a commercial-vehicle base and diversification challenge.
+- [Dongfeng Motor / 东风汽车](entities/DongfengMotor.md) — Auto company successor to 二汽 whose headquarters move to Wuhan is the turning point in the Shiyan source.
+- [Second Automobile Works / 二汽](entities/SecondAutomobileWorks.md) — Third Front auto project that created Shiyan as an industrial city and later became Dongfeng Motor.
+- [城市就是这样](entities/ChengshiJiushiZheyang.md) — 商业就是这样 city-observation series context for the Shiyan auto-city episode.
+- [Wudang Mountain / 武当山](entities/WudangMountain.md) — Shiyan tourism and cultural anchor named as part of the city's non-auto diversification.
+- [Danjiangkou Reservoir / 丹江口水库](entities/DanjiangkouReservoir.md) — Water-resource anchor for Shiyan tied in the source to South-to-North Water Transfer and bottled-water production.
+- [South-to-North Water Transfer Project / 南水北调](entities/SouthToNorthWaterTransferProject.md) — National water infrastructure referenced through Danjiangkou Reservoir in the Shiyan episode.
+- [Envision AESC / 远景动力](entities/EnvisionAESC.md) — Battery-production company named as a Shiyan diversification anchor.
+- [Wanrun New Energy / 万润新能源](entities/WanrunNewEnergy.md) — Shiyan battery-materials company tied by the source to LFP cathode materials and CATL customers.
+- [Seres / 赛力斯](entities/Seres.md) — EV company whose source-described roots pass through Dongfeng Xiaokang and Shiyan, despite later Chongqing headquarters identity.
 - [James Lawrence](entities/JamesLawrence.md) — First-time buyer whose housing-affordability struggle grounds the Trump housing-policy episode.
 - [Caitlin Gorback](entities/CaitlinGorback.md) — Economist quantifying large institutional home investors and their geographically concentrated effects.
 - [Susan Wachter](entities/SusanWachter.md) — Economist explaining mortgage-backed-security purchases, rate relief, and taxpayer interest-rate risk.
@@ -5692,6 +5703,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Third Front Construction / 三线建设](concepts/ThirdFrontConstruction.md) — Strategic inland industrialization context that explains why 二汽 and Shiyan were built in a mountainous Hubei location.
+- [Automobile City Path Dependence](concepts/AutomobileCityPathDependence.md) — Pattern where auto manufacturing creates a city's identity, labor base, supplier system, and future constraints.
+- [Commercial Vehicle Industrial Base](concepts/CommercialVehicleIndustrialBase.md) — Truck, special-vehicle, supplier, and worker base that remained in Shiyan after Dongfeng's headquarters moved.
+- [Commercial Vehicle Energy Transition](concepts/CommercialVehicleEnergyTransition.md) — Different electrification and energy-cost logic for trucks, vans, and special vehicles compared with passenger EVs.
+- [Enterprise-Run Society / 企业办社会](concepts/EnterpriseRunSociety.md) — Work-unit pattern where a large enterprise supplies housing, leisure, welfare, and city identity as well as jobs.
+- [Closed-Site Autonomous Driving](concepts/ClosedSiteAutonomousDriving.md) — Autonomy path for bounded industrial environments such as mines and ports, added through Shiyan smart mining trucks.
 - [Demand-Side Housing Affordability Policy](concepts/DemandSideHousingAffordabilityPolicy.md) — Housing policy that changes buyer financing or investor demand without directly adding homes.
 - [Mortgage-Backed Securities Rate Policy](concepts/MortgageBackedSecuritiesRatePolicy.md) — Use of mortgage-bond purchases to lower mortgage rates while shifting interest-rate risk to public balance sheets.
 - [Housing Wealth Affordability Tension](concepts/HousingWealthAffordabilityTension.md) — Conflict between cheap homes for new buyers and valuable homes for existing owners.

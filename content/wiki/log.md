@@ -6685,3 +6685,11 @@ Added source page for a Planet Money episode on Trump housing-policy moves, Jame
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | 城市就是这样21 | 十堰：一座因汽车而起、又不甘被汽车“抛下”的城市
+
+Added source page for a 商业就是这样 / 城市就是这样 episode on Shiyan as an auto-built Hubei city shaped by Second Automobile Works, Dongfeng Motor, Third Front construction, enterprise-run society, the 2003 Dongfeng headquarters move to Wuhan, and the remaining commercial-vehicle base. Created pages for Shiyan, Dongfeng Motor, Second Automobile Works, 城市就是这样, Wudang Mountain, Danjiangkou Reservoir, South-to-North Water Transfer Project, Envision AESC, Wanrun New Energy, Seres, Third Front Construction, Automobile City Path Dependence, Commercial Vehicle Industrial Base, Commercial Vehicle Energy Transition, Enterprise-Run Society, and Closed-Site Autonomous Driving; updated overview, index, 商业就是这样, Hubei, Wuhan, China, Local Battery Industrial Clusters, Electric Vehicle Price Parity, and Manufacturing Regional Multiplier. No direct contradiction found; the source qualifies simple "Chinese Detroit" and passenger-EV narratives by showing that Shiyan lost headquarters centrality but kept commercial-vehicle capability and is trying to reuse it through batteries, smart mining trucks, water, and tourism.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

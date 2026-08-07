@@ -2,8 +2,8 @@
 title: "Electric Vehicle Price Parity"
 type: concept
 tags: [electric-vehicles, adoption, batteries, economics]
-sources: [tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]
+last_updated: 2026-08-07
 ---
 
 # Electric Vehicle Price Parity
@@ -14,6 +14,8 @@ The episode says the remaining U.S. problem is not only environmental willingnes
 
 [[tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128]] adds a policy-shock test of the same concept. After federal EV tax credits expired at the end of September 2025, [[CoxAutomotive]] data in the source showed U.S. monthly EV sales falling nearly 50% in October compared with September. The episode therefore treats price parity as a post-subsidy question: if buyers need a credit to cross the upfront price gap, demand can swing sharply when support disappears.
 
+[[chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]] adds a commercial-vehicle qualification through [[Shiyan]]. The episode argues that [[CommercialVehicleEnergyTransition|commercial-vehicle energy transition]] is not just passenger-EV price parity at larger scale: long-haul heavy trucks must account for battery weight, charging time, payload, freight pricing, and downtime, while urban light trucks can electrify faster.
+
 ## Key Claims
 - Price parity matters because many buyers evaluate EVs against gasoline vehicles at the moment of purchase, not only through lifetime fuel savings.
 - [[China]] is presented as the comparison case where price parity has already arrived for many EVs.
@@ -21,6 +23,7 @@ The episode says the remaining U.S. problem is not only environmental willingnes
 - Price parity turns [[EconomicClimateTechAdoption]] into a mass-market auto question: climate benefit scales when buyer economics become ordinary.
 - The December 2025 source shows the same threshold from the opposite direction: when a subsidy expires before parity arrives, sales can be pulled forward and then drop.
 - [[UsedEVAffordability]] can partially bridge the gap because used EVs in the source sit much closer to used gasoline-car prices than new EVs sit to new combustion vehicles.
+- The Shiyan source adds that truck and special-vehicle economics may require a separate parity frame based on freight operations, route length, payload, and charging or hydrogen infrastructure.
 
 ## Connections
 - [[StephanieValdezStreaty]], [[CoxAutomotive]], [[CJFinn]], and [[PwC]] - U.S. price-barrier and forecast voices.
@@ -29,3 +32,4 @@ The episode says the remaining U.S. problem is not only environmental willingnes
 - [[PowerBatteryIndustryChain]] and [[BatteryManufacturingKnowHow]] - industrial system that can turn chemistry improvements into vehicle prices.
 - [[UnitedStates]] and [[China]] - comparison markets.
 - [[EVTaxCreditCliff]], [[UsedEVAffordability]], and [[EVChargingInfrastructure]] - policy, secondary-market, and infrastructure conditions added by the December 2025 episode.
+- [[CommercialVehicleEnergyTransition]], [[CommercialVehicleIndustrialBase]], and [[Shiyan]] - commercial-vehicle qualification added by 城市就是这样21.
