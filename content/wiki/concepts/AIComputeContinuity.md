@@ -2,7 +2,7 @@
 title: "AI Compute Continuity"
 type: concept
 tags: [ai, infrastructure, reliability]
-sources: [tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
+sources: [tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
 last_updated: 2026-08-05
 ---
 
@@ -42,6 +42,8 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 
 [[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] adds the orbital-compute version. If ground data centers are blocked by power, approval, or cooling, [[SpaceBasedAIInfrastructure]] may look like a continuity alternative; the source keeps that conditional on [[OrbitalDataCenterEconomics]], [[OrbitalDataCenterThermalManagement]], launch cadence, communications, and orbital governance.
 
+[[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] adds the domestic supernode continuity version. If Chinese model companies need large systems for models such as [[KimiK3|Kimi K3]], continuity depends on whether [[Huawei]], [[Sugon]], [[AlibabaCloud|Alibaba Cloud]], [[BaiduAICloud|Baidu AI Cloud]], and domestic chip vendors can deliver stable [[AIAcceleratorSupernode|supernodes]] rather than only announce hardware.
+
 ## Key Claims
 - AI services depend on physical regions, power, cooling, networks, and specialized hardware rather than only model software.
 - High-density GPU facilities can be more strategically valuable and more operationally fragile than ordinary web-serving capacity.
@@ -63,6 +65,7 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 - Cluster networking can bind compute continuity if fiber, connectors, transponders, deployment workflows, or reliability cannot keep pace with AI cluster demand.
 - Network capacity can be latent rather than useless: dark fiber became useful only after later services created enough traffic and economics to light it.
 - Orbital compute can diversify the physical location of AI capacity, but only by adding new dependencies on launch, satellite operations, radiative cooling, and space-traffic governance.
+- Domestic supernodes can improve continuity when Nvidia supply is constrained, but only if interconnect, software, power, cooling, and service operations are stable enough for production workloads.
 
 ## Connections
 - [[MaaSInfrastructure]] — platform layer that turns compute into usable model service.
@@ -86,3 +89,4 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 - [[AmazonWebServices|AWS]], [[SatishVangala]], [[AIClusterNetworking]], [[FiberConnectorDeployment]], and [[OpticalTransponders]] - cluster-networking continuity branch added by Marketplace Tech.
 - [[DarkFiber]], [[PaulVixie]], and [[ProductiveBubbleSpillovers]] - historical network-capacity analogy added by Marketplace Tech.
 - [[SpaceBasedAIInfrastructure]], [[OrbitalDataCenterEconomics]], [[OrbitalDataCenterThermalManagement]], and [[OrbitalComputeGovernance]] - orbital-compute continuity branch added by E239.
+- [[AIAcceleratorSupernode]], [[ScaleUpAIInterconnect]], [[DomesticAIChipOrderValidation]], [[HuaweiCM384]], and [[Sugon]] - domestic supernode continuity branch added by S10E23.

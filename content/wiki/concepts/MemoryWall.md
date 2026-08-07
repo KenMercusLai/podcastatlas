@@ -2,7 +2,7 @@
 title: "Memory Wall"
 type: concept
 tags: [ai, semiconductors, architecture, memory]
-sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]
+sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
 last_updated: 2026-08-07
 ---
 # Memory Wall
@@ -15,6 +15,8 @@ The episode connects the memory wall to both market and architecture. Demand for
 
 [[e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]] adds the [[TPU]] utilization version. [[HenryTPUEngineer|Henry]] says training and inference are moving from compute-bound toward memory-bound, so TPU performance depends on cache reuse, memory bandwidth, [[XLACompiler|XLA]] scheduling, and keeping matrix units fed rather than only increasing peak FLOPS.
 
+[[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] adds the closely related communication-wall version. As models spread across many accelerators, the bottleneck becomes not only local memory bandwidth but also whether [[ScaleUpAIInterconnect]] can move intermediate results fast enough for an [[AIAcceleratorSupernode|AI supernode]] to behave like one larger machine.
+
 ## Key Claims
 - The memory wall can leave expensive accelerators waiting for data even when headline compute is high.
 - Inference makes the bottleneck sharper when long contexts and KV cache require large amounts of fast memory.
@@ -22,6 +24,7 @@ The episode connects the memory wall to both market and architecture. Demand for
 - Memory-wall workarounds improve utilization but do not eliminate the need for HBM in the source's near-term view.
 - EP270 adds that domestic packaging advantages still require advanced wafers and upstream capacity before they can meaningfully reduce AI-chip gaps.
 - E228 adds that a specialized accelerator can still underperform if memory movement leaves matrix units idle, making software and system scheduling part of the memory-wall response.
+- The WAIC supernode source adds that chip-to-chip communication can become the same kind of utilization wall when many accelerators are assembled to offset weaker per-chip performance.
 
 ## Connections
 - [[AIDataCenterMemoryHierarchy]] - layered frame for understanding memory-wall tradeoffs.
@@ -30,3 +33,4 @@ The episode connects the memory wall to both market and architecture. Demand for
 - [[AIChipSpecialization]] and [[Semiconductor3DStacking]] - broader hardware-design context.
 - [[AdvancedPackaging]], [[DomesticAIChipCatchUp]], and [[ComputeFreedom]] — EP270's packaging and AI-cost extension.
 - [[TPU]], [[XLACompiler]], [[TPUPodSystemOptimization]], and [[IronwoodTPU]] — E228's TPU utilization and inference-bandwidth extension.
+- [[AIAcceleratorSupernode]], [[ScaleUpAIInterconnect]], and [[ProprietaryAIInterconnectFragmentation]] — supernode communication-wall extension.

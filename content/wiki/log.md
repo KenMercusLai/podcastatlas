@@ -6418,6 +6418,10 @@ Added source page for a Talk三联 "新特产" episode with 高一丁, 邱连, �
 
 Added source page for a Talk三联 episode with 高一丁 and 苗伟 on 徐光启 as a late-Ming official, learner, translator, agricultural reformer, military-modernization advocate, and calendar-reform organizer. Created pages for 徐光启, 苗伟, 利玛窦, 李之藻, 汤若望, 杨光先, 孙元化, 《几何原本》, 《农政全书》, 《崇祯历书》, 《坤舆万国全图》, 《同文算指》, Late-Ming Western Learning, Euclidean Proof Training, Calendar Reform Legitimacy, Intellectual Life As Practice, Science Value Transmission, and Agricultural Relief Statecraft; updated overview, index, Talk三联, 三联生活周刊, 高一丁, Jesuits, Humanistic Science Communication, Scientific Revolution Social Infrastructure, and Learning How To Learn. No direct contradiction found; the source qualifies simple science-versus-tradition narratives by treating Western learning as simultaneously mathematical, practical, religiously mediated, politically useful, and culturally vulnerable.
 
+## [2026-08-07] ingest | 国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23
+
+Added source page for a What's Next｜科技早知道 WAIC episode on domestic AI supernodes, Huawei CM384 versus Nvidia GB200 NVL72, Scale Up interconnect, proprietary protocol fragmentation, power/cooling constraints, optical/copper tradeoffs, domestic chip capacity, and large-customer order validation. Created pages for Huawei CM384, Nvidia GB200 NVL72, Alibaba Cloud, Baidu AI Cloud, Sugon, H3C, Biren Technology, Moore Threads, MetaX, Kunlunxin, Xizhi Technology, AI Accelerator Supernode, Scale Up AI Interconnect, Proprietary AI Interconnect Fragmentation, and Domestic AI Chip Order Validation; updated overview, index, What's Next｜科技早知道, Zhang Haijun, Huawei, Nvidia, CUDA, WAIC, Kimi K3, Domestic AI Chip Catch-Up, AI Cluster Networking, AI Infrastructure Full-Stack Moat, Data Center Power Bottleneck, Data Center Thermal Management, AI Compute Continuity, AI Hardware Supply Chain Pressure, Compute Freedom, Pingtouge, Cambricon, ZTE, Alibaba, Baidu, GPU, Token per Watt, and Memory Wall. No direct contradiction found; the source qualifies domestic-supernode optimism by separating aggregate system parameters from open-market customer choice, power efficiency, software ecosystem stability, and reliable deployment.
+
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -6989,6 +6993,10 @@ Added source page for a 商业就是这样 crossover with 鹰眼时间 on 2026 W
 ## [2026-08-07] ingest | Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company.
 
 Added source page for a How I Built This episode on Chuck Surack building Sweetwater from mobile recording and Kurzweil K-250 sound disks into a service-led online pro-audio and music retail company. Created pages for Sweetwater, Chuck Surack, Sweetwater University, Kurzweil K-250, Service-Led Retail Moat, Sales Engineer Model, and Individual-Item Ecommerce; updated overview, index, How I Built This, Guy Raz, Amazon, Trust As Business Asset, Relationship-Led Sales, Customer Discovery By Doing Work, Unscalable Founder Work, Retail Counter-Positioning, Ecommerce Fulfillment Complexity, and Founder Succession. No direct contradiction found; the source qualifies customer-service sludge by showing the positive version of expert escalation, accountable support, training, and relationship memory as a retail moat.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 

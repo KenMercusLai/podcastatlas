@@ -2,8 +2,8 @@
 title: "Nvidia Blackwell Platform"
 type: entity
 tags: [ai, semiconductors, nvidia, infrastructure]
-sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]
-last_updated: 2026-07-23
+sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+last_updated: 2026-08-07
 ---
 
 # Nvidia Blackwell Platform
@@ -12,7 +12,10 @@ The Nvidia Blackwell Platform appears in [[e230-1-wan-yi-shouru-yuqi-beihou-ying
 
 The source links Blackwell to NVL72 efficiency claims, [[TokenPerWatt]], inference performance, rack-scale deployment, memory, interconnect, and data-center readiness. Its importance in the wiki is that it turns [[Nvidia]]'s product roadmap into a test of [[AIInfrastructureFullStackMoat]]: supply, software, networking, power, and cloud operations have to arrive together.
 
+[[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] adds a direct [[HuaweiCM384]] comparison through [[NvidiaGB200NVL72]]. The source treats NVL72 as the incumbent [[AIAcceleratorSupernode|supernode]] reference: domestic systems may exceed its aggregate compute by using more accelerators, but Nvidia still anchors the comparison through lower cited power, mature [[CUDA]], and platform stability.
+
 ## Connections
 - [[Nvidia]], [[JensenHuang]], and [[NvidiaVeraRubinPlatform]] - company, executive, and roadmap context.
 - [[GPU]], [[TokenPerWatt]], and [[AIInferenceCostStructure]] - performance and token economics.
 - [[AdvancedPackaging]], [[HighBandwidthMemory]], [[AIHardwareSupplyChainPressure]], and [[DataCenterPowerBottleneck]] - constraints on delivered systems.
+- [[NvidiaGB200NVL72]], [[HuaweiCM384]], and [[ScaleUpAIInterconnect]] - WAIC source's supernode comparison.

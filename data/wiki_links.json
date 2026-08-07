@@ -1207,6 +1207,10 @@
     "title": "AI Abundance Narrative",
     "url": "/wiki/concepts/aiabundancenarrative/"
   },
+  "AIAcceleratorSupernode": {
+    "title": "AI Accelerator Supernode",
+    "url": "/wiki/concepts/aiacceleratorsupernode/"
+  },
   "AIAdvertisingTargeting": {
     "title": "AI Advertising Targeting",
     "url": "/wiki/concepts/aiadvertisingtargeting/"
@@ -3031,6 +3035,10 @@
     "title": "Alibaba",
     "url": "/wiki/entities/alibaba/"
   },
+  "AlibabaCloud": {
+    "title": "Alibaba Cloud / 阿里云",
+    "url": "/wiki/entities/alibabacloud/"
+  },
   "AlibabaHealth": {
     "title": "阿里健康",
     "url": "/wiki/entities/alibabahealth/"
@@ -4463,6 +4471,10 @@
     "title": "Baidu",
     "url": "/wiki/entities/baidu/"
   },
+  "BaiduAICloud": {
+    "title": "Baidu AI Cloud / 百度智能云",
+    "url": "/wiki/entities/baiduaicloud/"
+  },
   "BaiduYoua": {
     "title": "百度有啊 / Baidu Youa",
     "url": "/wiki/entities/baiduyoua/"
@@ -5174,6 +5186,10 @@
   "BirdwatchingAsAttention": {
     "title": "Birdwatching As Attention",
     "url": "/wiki/concepts/birdwatchingasattention/"
+  },
+  "BirenTechnology": {
+    "title": "Biren Technology / 壁仞科技",
+    "url": "/wiki/entities/birentechnology/"
   },
   "BirthRitualMedicalConflict": {
     "title": "Birth Ritual Medical Conflict",
@@ -10199,6 +10215,10 @@
     "title": "Domestic AI Chip Catch-Up",
     "url": "/wiki/concepts/domesticaichipcatchup/"
   },
+  "DomesticAIChipOrderValidation": {
+    "title": "Domestic AI Chip Order Validation",
+    "url": "/wiki/concepts/domesticaichipordervalidation/"
+  },
   "DomesticAIRelations": {
     "title": "Domestic AI Relations",
     "url": "/wiki/concepts/domesticairelations/"
@@ -14811,6 +14831,10 @@
     "title": "H-1B Visa Coalition Fault Line",
     "url": "/wiki/concepts/h1bvisacoalitionfaultline/"
   },
+  "H3C": {
+    "title": "H3C / 华三",
+    "url": "/wiki/entities/h3c/"
+  },
   "HBO": {
     "title": "HBO",
     "url": "/wiki/entities/hbo/"
@@ -16122,6 +16146,10 @@
   "Huawei": {
     "title": "Huawei",
     "url": "/wiki/entities/huawei/"
+  },
+  "HuaweiCM384": {
+    "title": "Huawei CM384",
+    "url": "/wiki/entities/huaweicm384/"
   },
   "HuaweiOrganizationalMethodology": {
     "title": "Huawei Organizational Methodology",
@@ -19159,6 +19187,10 @@
     "title": "Kun Ni",
     "url": "/wiki/entities/kunni/"
   },
+  "Kunlunxin": {
+    "title": "Kunlunxin / 昆仑芯",
+    "url": "/wiki/entities/kunlunxin/"
+  },
   "KunyangBattle": {
     "title": "Battle of Kunyang / 昆阳之战",
     "url": "/wiki/entities/kunyangbattle/"
@@ -22143,6 +22175,10 @@
     "title": "Meta AI",
     "url": "/wiki/entities/metaai/"
   },
+  "MetaX": {
+    "title": "MetaX / 沐曦",
+    "url": "/wiki/entities/metax/"
+  },
   "Metamorphoses": {
     "title": "Metamorphoses / 《变形记》",
     "url": "/wiki/entities/metamorphoses/"
@@ -22862,6 +22898,10 @@
   "MooreLaw": {
     "title": "Moore's Law",
     "url": "/wiki/concepts/moorelaw/"
+  },
+  "MooreThreads": {
+    "title": "Moore Threads / 摩尔线程",
+    "url": "/wiki/entities/moorethreads/"
   },
   "MoralFaceUnderPowerCompetition": {
     "title": "Moral Face Under Power Competition / 权力竞争中的要脸",
@@ -24050,6 +24090,10 @@
   "NvidiaBlackwellPlatform": {
     "title": "Nvidia Blackwell Platform",
     "url": "/wiki/entities/nvidiablackwellplatform/"
+  },
+  "NvidiaGB200NVL72": {
+    "title": "Nvidia GB200 NVL72",
+    "url": "/wiki/entities/nvidiagb200nvl72/"
   },
   "NvidiaH200": {
     "title": "Nvidia H200",
@@ -26783,6 +26827,10 @@
     "title": "Property Rights And Community Obligations",
     "url": "/wiki/concepts/propertyrightscommunityobligations/"
   },
+  "ProprietaryAIInterconnectFragmentation": {
+    "title": "Proprietary AI Interconnect Fragmentation",
+    "url": "/wiki/concepts/proprietaryaiinterconnectfragmentation/"
+  },
   "ProseEdda": {
     "title": "The Prose Edda / 散文埃达",
     "url": "/wiki/entities/proseedda/"
@@ -29166,6 +29214,10 @@
   "ScaleReversalSatire": {
     "title": "Scale Reversal Satire",
     "url": "/wiki/concepts/scalereversalsatire/"
+  },
+  "ScaleUpAIInterconnect": {
+    "title": "Scale Up AI Interconnect",
+    "url": "/wiki/concepts/scaleupaiinterconnect/"
   },
   "ScalingBrokenProduct": {
     "title": "Scaling Broken Product",
@@ -31830,6 +31882,10 @@
   "SufiImageLegitimacy": {
     "title": "Sufi Image Legitimacy",
     "url": "/wiki/concepts/sufiimagelegitimacy/"
+  },
+  "Sugon": {
+    "title": "Sugon / 中科曙光",
+    "url": "/wiki/entities/sugon/"
   },
   "SukhothaiKingdom": {
     "title": "Sukhothai Kingdom / 苏可泰王朝",
@@ -36127,6 +36183,10 @@
     "title": "《西游妖物志》",
     "url": "/wiki/entities/xiyouyaowuzhi/"
   },
+  "XizhiTechnology": {
+    "title": "Xizhi Technology / 西智科技",
+    "url": "/wiki/entities/xizhitechnology/"
+  },
   "Xtep": {
     "title": "Xtep",
     "url": "/wiki/entities/xtep/"
@@ -38166,6 +38226,10 @@
   "gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6": {
     "title": "Gulf-co-operation counsel: what next for the region",
     "url": "/wiki/sources/gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6/"
+  },
+  "guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f": {
+    "title": "国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23",
+    "url": "/wiki/sources/guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f/"
   },
   "hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5": {
     "title": "汉洋：为什么做《蜉蝣天地》",

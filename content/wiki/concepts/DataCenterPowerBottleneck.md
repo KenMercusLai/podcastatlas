@@ -2,8 +2,8 @@
 title: "Data Center Power Bottleneck"
 type: concept
 tags: [ai, data-centers, energy, infrastructure]
-sources: [tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, indicators-of-2025-and-what-to-watch-in-2026, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
-last_updated: 2026-08-05
+sources: [tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, indicators-of-2025-and-what-to-watch-in-2026, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+last_updated: 2026-08-07
 ---
 
 # Data Center Power Bottleneck
@@ -20,6 +20,8 @@ The concept extends [[AIEnergyBottleneck]], [[DataCenterOnsitePower]], and [[AIC
 
 [[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] adds the orbital escape-valve version. [[LouisHong]] argues that ground data centers are increasingly constrained by power, approval, and build speed, making space solar power and orbital deployment strategically tempting. The source keeps the comparison conditional: orbital compute only helps if launch, satellite, chip, cooling, communications, and lifetime economics can beat those ground constraints.
 
+[[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] adds the supernode power-density version. The episode says [[HuaweiCM384]] is cited at far higher total power than [[NvidiaGB200NVL72|GB200 NVL72]], making the domestic [[AIAcceleratorSupernode|supernode]] route a practical tradeoff between aggregate compute and electricity, cooling, and site economics.
+
 ## Key Claims
 - Land and power can bind even when GPU supply and construction modules are available.
 - Behind-the-meter and onsite natural-gas generation can accelerate deployment, but they add fuel, maintenance, permitting, and emissions dependencies.
@@ -28,6 +30,7 @@ The concept extends [[AIEnergyBottleneck]], [[DataCenterOnsitePower]], and [[AIC
 - Power bottlenecks affect [[AIInferenceCostStructure]] because energy availability and price influence token capacity and service margins.
 - Power bottlenecks become household-affordability signals when utility bills rise faster than general inflation.
 - Space-based compute is one possible response to terrestrial power and approval bottlenecks, but it substitutes orbital-cost and heat-rejection constraints rather than removing infrastructure constraints altogether.
+- Supernode-based catch-up can raise aggregate compute while worsening the power bottleneck if it relies on many more accelerators or less efficient interconnect.
 
 ## Connections
 - [[AlexGMICloud|Alex]], [[GMICloud]], and [[GPUCloudOperations]] - source case and operating context.
@@ -36,3 +39,4 @@ The concept extends [[AIEnergyBottleneck]], [[DataCenterOnsitePower]], and [[AIC
 - [[Nvidia]], [[MaaSInfrastructure]], and [[AIComputeContinuity]] - AI serving capacity affected by power constraints.
 - [[ElectricityAffordabilityIndicator]] and [[DataCenterCostShifting]] - consumer-bill and ratepayer allocation branch added by Planet Money.
 - [[SpaceBasedAIInfrastructure]], [[OrbitalDataCenterEconomics]], and [[OrbitalDataCenterThermalManagement]] - orbital alternative evaluated by E239.
+- [[HuaweiCM384]], [[NvidiaGB200NVL72]], [[AIAcceleratorSupernode]], and [[TokenPerWatt]] - supernode power-efficiency branch added by S10E23.

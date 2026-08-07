@@ -2,7 +2,7 @@
 title: "Kimi K3"
 type: entity
 tags: [ai, model, china, coding]
-sources: [ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
+sources: [ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
 last_updated: 2026-08-07
 ---
 
@@ -14,9 +14,12 @@ The source says K3 did not misread the task and even surfaced a design issue aro
 
 The episode-dated release-governance claim is that K3 would open weights on 2026-07-27. The source explicitly frames that as [[OpenWeightReleaseBoundary|open weights]], not full open source.
 
+[[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] adds a hardware-infrastructure angle. The source says Kimi K3's large model scale makes [[AIAcceleratorSupernode|supernodes]] relevant, citing a recommendation for 64-plus accelerators as an example of why domestic AI hardware must solve [[ScaleUpAIInterconnect|Scale Up]] and [[AIComputeContinuity|compute continuity]], not only model release.
+
 ## Connections
 - [[Kimi]] - parent model/product context in the wiki.
 - [[ModelWorkflowFit]] and [[ModelRoutingCostControl]] - main model-selection lens for the K3 test.
 - [[AIProgrammingEngineShift]], [[AIEngineeringThinking]], and [[AICodingVerification]] - AI coding workflow where K3 is evaluated.
 - [[PersistentAgentMemory]] - background project cleanup and knowledge-file work where slow models may still fit.
 - [[OpenWeightReleaseBoundary]] and [[OpenSourceAIModels]] - release-governance branch from the episode.
+- [[AIAcceleratorSupernode]] and [[DomesticAIChipCatchUp]] - hardware branch added by the WAIC supernode source.

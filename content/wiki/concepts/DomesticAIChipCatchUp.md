@@ -2,8 +2,8 @@
 title: "Domestic AI Chip Catch-Up"
 type: concept
 tags: [ai, semiconductors, china, industrial-policy, hardware]
-sources: [ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+last_updated: 2026-08-07
 ---
 
 # Domestic AI Chip Catch-Up
@@ -14,15 +14,19 @@ The concept matters because the episode rejects a single-metric view of self-rel
 
 [[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] adds a policy-pressure trigger through the [[NvidiaH200|Nvidia H200]] export discussion. [[AnitaRamaswamy]] says China wants to support homegrown companies such as [[Huawei]] in developing more advanced AI chips, while [[JensenHuang]]'s counterargument is that allowing controlled American chip sales may keep Chinese AI infrastructure more dependent on U.S. technology.
 
+[[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] adds the [[AIAcceleratorSupernode|supernode]] route. [[ZhangHaijun]] argues that Chinese accelerators may struggle to beat [[Nvidia]] chip-for-chip, so domestic vendors are using [[ScaleUpAIInterconnect]], larger systems, and more accelerators to offset per-chip gaps. The source also sharpens the market test through [[DomesticAIChipOrderValidation]]: customers choosing domestic systems in open competition matters more than aggregate specs at a conference.
+
 ## Key Claims
 - Domestic chip design talent has improved, partly through teams with large-chip experience from overseas or major firms.
 - [[SMIC]] is central because domestic AI-chip companies need a local manufacturing path when overseas foundry access is restricted.
 - [[Nvidia]] remains the benchmark not only because of hardware performance, but because of the software ecosystem around [[GPU|GPUs]].
 - [[AdvancedPackaging]] is a plausible catch-up lever, but it still depends on advanced wafers, materials, equipment, volume, and upstream coordination.
 - The difference between "making" and "making reliably, cheaply, and at scale" is the core economic boundary.
+- Supernodes can be a rational catch-up route, but they move the bottleneck to interconnect, software, power, cooling, and customer-order validation.
 
 ## Connections
 - [[Cambricon]], [[SMIC]], [[Nvidia]], and [[GPU]] — company and accelerator context.
 - [[ElectronicDesignAutomation]], [[PhotolithographyBottleneck]], [[TapeOutRisk]], and [[AdvancedPackaging]] — hard technical and industrial constraints.
 - [[SupplyChainSovereignty]], [[StrategicAIInfrastructureDependence]], and [[AIHardwareSupplyChainPressure]] — broader dependency frame.
 - [[ComputeFreedom]], [[AIComputeContinuity]], and [[AIInferenceCostStructure]] — downstream compute availability and cost.
+- [[AIAcceleratorSupernode]], [[ScaleUpAIInterconnect]], [[HuaweiCM384]], and [[DomesticAIChipOrderValidation]] — WAIC source's supernode extension.

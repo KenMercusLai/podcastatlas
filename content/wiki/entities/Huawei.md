@@ -2,7 +2,7 @@
 title: "Huawei"
 type: entity
 tags: [company, china, semiconductors, telecom, organization]
-sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
 last_updated: 2026-08-07
 ---
 
@@ -15,6 +15,8 @@ Huawei is the central company in [[dang-huawei-paochu-tao-dinglv-women-gai-xin-t
 The source's main interpretation is that [[TauLaw]] fits Huawei because it can function at several levels at once: a chip-performance metric, a semiconductor-system roadmap, an internal KPI, a public communication device, and a supply-chain autonomy story. [[HiSilicon]], [[RenZhengfei]], "backup plan" culture, pressure-focused resource allocation, and industry-legion delivery all become part of the explanation for why Huawei would package [[Semiconductor3DStacking]] and latency reduction as a law-like doctrine.
 
 [[huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5]] adds the narrower engineering-filtered version of the same debate. [[ZhangHaijun]] says the [[TauLaw]] metric is not pure marketing, but the most distinctive implementation path, [[CellToCellLogicStacking]], still depends on new [[ElectronicDesignAutomation|EDA]] tools, packaging capability, and public chip evidence.
+
+[[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] adds Huawei's [[AIAcceleratorSupernode|AI supernode]] route through [[HuaweiCM384]]. [[ZhangHaijun]] presents CM384 as a system-level response to weaker per-chip performance: more accelerators and a larger [[ScaleUpAIInterconnect|Scale Up]] domain can raise aggregate compute, but the source keeps power, cooling, software ecosystem, and [[DomesticAIChipOrderValidation|customer choice]] as the real test.
 
 [[zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]] adds a longer historical comparison through [[WangBo|汪波]]. The episode compares [[TauLaw]] with early [[MooreLaw]] as a mobilizing industry target under uncertainty, while adding [[SystemLevelSemiconductorOptimization]] across system, chip, and circuit layers as the practical route Huawei would need to prove.
 
@@ -30,6 +32,7 @@ The source's main interpretation is that [[TauLaw]] fits Huawei because it can f
 - Huawei is described as unusually influential in China: many companies want to learn from it, but the hosts argue that its methods are difficult to copy without the surrounding organization.
 - [[TauLaw]] is treated as a Huawei-specific strategic metric more than an industry-wide law unless it gains repeated measurable proof.
 - The What's Next bonus source adds that "based on Tau Law" should not be read as proof that cell-to-cell logic stacking has already shipped across Huawei's claimed chip set.
+- The WAIC supernode source adds that Huawei can look strong at the system level through CM384 and UB-style integration, but aggregate compute does not by itself prove it has surpassed Nvidia.
 - S10E16 strengthens the Moore's Law analogy but keeps Huawei's burden of proof at EDA, heat, yield, power, cost, and shipped-product evidence.
 - The episode says Huawei may have stronger urgency than overseas peers to pursue [[ConstraintDrivenEngineeringStrategy]] because advanced lithography access is constrained.
 - The hosts still warn that firms with better process access can also use stacking, architecture, and system optimization, so Huawei's alternate route must be proven in performance, cost, and energy efficiency.
@@ -43,6 +46,7 @@ The source's main interpretation is that [[TauLaw]] fits Huawei because it can f
 - [[CellToCellLogicStacking]] and [[ElectronicDesignAutomation]] — toolchain-specific implementation boundary added by the What's Next bonus source.
 - [[WangBo]], [[MooreLaw]], and [[SystemLevelSemiconductorOptimization]] — S10E16's historical analogy and cross-layer engineering branch.
 - [[HiSilicon]] — Huawei chip-design arm and backup-plan case.
+- [[HuaweiCM384]], [[AIAcceleratorSupernode]], [[ScaleUpAIInterconnect]], and [[DomesticAIChipOrderValidation]] — WAIC source's supernode and market-validation branch.
 - [[RenZhengfei]] — founder figure used to explain Huawei's organizational language and self-reliance culture.
 - [[HuaweiOrganizationalMethodology]] — broader management frame used by the hosts.
 - [[Semiconductor3DStacking]] — technical route emphasized in the tau-law discussion.

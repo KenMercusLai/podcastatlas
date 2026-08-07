@@ -2,8 +2,8 @@
 title: "Baidu"
 type: entity
 tags: [company, search, ai, china-internet]
-sources: [70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500]
-last_updated: 2026-07-18
+sources: [70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+last_updated: 2026-08-07
 ---
 
 # Baidu
@@ -20,6 +20,8 @@ The source describes Baidu as a company that built an effective PC-era traffic l
 
 [[70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]] adds the ordinary user-behavior version through [[OnlineSymptomSearchAnxiety]]. In that episode, "少看百度" means that symptom search can make patients over-map general disease descriptions onto themselves, so search should prepare questions for doctors rather than replace [[MedicalDiagnosticReasoning]].
 
+[[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] adds Baidu's infrastructure-side role through [[BaiduAICloud|Baidu AI Cloud]]. The source names Baidu AI Cloud among the [[WAIC]] supernode participants, making Baidu relevant not only as a search and model company but as a possible buyer, integrator, or evaluator of domestic [[AIAcceleratorSupernode|AI supernode]] systems.
+
 ## Key Points
 - Baidu's online-marketing business is described as declining even while the broader internet advertising market still grows.
 - AI answers in search may weaken ad clicks by satisfying the user above traditional result and ad positions.
@@ -30,6 +32,7 @@ The source describes Baidu as a company that built an effective PC-era traffic l
 - The Ctrip source adds a travel-search branch through [[Qunar]], showing how search and comparison could challenge [[Ctrip]] before later OTA consolidation.
 - Episode 206 adds the healthcare version of search risk: medical search results and ads can be interpreted as authority when users are vulnerable.
 - Episode 70 adds the patient-anxiety version: symptom search can amplify fear even without a specific advertising scandal.
+- The WAIC supernode source adds a cloud-infrastructure branch where Baidu AI Cloud's role is closer to deployment, model serving, and domestic-chip validation than search advertising.
 
 ## Connections
 - [[LiYanhong]] — founder and management lens.
@@ -42,3 +45,4 @@ The source describes Baidu as a company that built an effective PC-era traffic l
 - [[Qunar]], [[Ctrip]], [[OnlineTravelAgency]], and [[OTAPlatformConcentration]] — travel-search and OTA consolidation context from the Ctrip episode.
 - [[WeiZexiIncident]], [[MedicalPlatformTrustCrisis]], and [[InternetHealthcare]] — medical-search trust context added by episode 206.
 - [[OnlineSymptomSearchAnxiety]], [[DoctorPatientCommunication]], and [[MedicalDiagnosticReasoning]] — patient-side medical-search caution added by episode 70.
+- [[BaiduAICloud]], [[AIAcceleratorSupernode]], [[ScaleUpAIInterconnect]], and [[DomesticAIChipOrderValidation]] — WAIC hardware-infrastructure branch.

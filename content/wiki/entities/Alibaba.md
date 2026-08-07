@@ -3,7 +3,7 @@ title: "Alibaba"
 type: entity
 tags: [company, ai, china]
 sources: [vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, 130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]
-last_updated: 2026-08-06
+last_updated: 2026-08-07
 ---
 
 # Alibaba
@@ -44,6 +44,8 @@ Alibaba is the large-company setting for [[ali-qianwen-lizhi-yuzhen-zai-jiwanren
 
 [[e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70]] adds Alibaba's international B2B AI branch through [[ZhangKuo]] and [[Axio]]. The source treats Alibaba's 26 years of marketplace data, daily communication signals, supplier listings, transaction feedback, [[Qwen]], and logistics/payment services as the substrate for [[B2BToA2A]] and [[AgenticB2BSourcing]].
 
+[[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] adds Alibaba's [[AIAcceleratorSupernode|supernode]] and [[ScaleUpAIInterconnect|Scale Up]] branch through [[AlibabaCloud|Alibaba Cloud]] and [[Pingtouge]]. The source treats Alibaba as one of the domestic platform companies whose hardware route matters because it can connect cloud demand, model workloads, chip teams, and customer validation.
+
 ## Source Position
 - Provides the resources needed to train and distribute large models such as [[Qwen]].
 - In episode 79, provides a stock-incentive example for [[EquityIncentiveAlignment]] and the limits of treating equity as a generic substitute for salary.
@@ -66,6 +68,7 @@ Alibaba is the large-company setting for [[ali-qianwen-lizhi-yuzhen-zai-jiwanren
 - In episode 8 of the Luanfanshu ByteDance series, appears through coupon-led transaction growth, Taobao flash-style subsidy competition, and the limits of copying ByteDance's Spring Festival or red-packet playbook without an equally strong traffic pool.
 - In episode 200, appears as the platform ecosystem around [[Taobao]], [[Hema]], [[NetEaseKaola]], and [[Taocaicai]], with both winner-side scale and upstream rule-setting power.
 - In E231, appears as a cross-border B2B platform trying to turn marketplace search, sourcing, supplier communication, logistics, and small-business operations into agentic workflows.
+- In the WAIC supernode source, appears as a cloud and chip-stack actor whose supernode efforts sit between [[MaaSInfrastructure]], [[ProprietaryAIInterconnectFragmentation]], and domestic AI-chip order validation.
 
 ## Connections
 - [[OpenSourceAIModels]] and [[LargeCompanyOpenSourceStrategy]] — strategic context for Qwen.
@@ -88,3 +91,4 @@ Alibaba is the large-company setting for [[ali-qianwen-lizhi-yuzhen-zai-jiwanren
 - [[Taobao]], [[Meituan]], [[Douyin]], [[CouponLedTransactionGrowth]], and [[SpringFestivalGrowthCampaign]] — coupon and campaign-growth context added by the Luanfanshu episode 8 source.
 - [[ChineseEcommercePlatformHistory]], [[PlatformDependencyRisk]], [[CommunityGroupBuying]], [[InstantRetail]], [[Hema]], [[NetEaseKaola]], and [[Taocaicai]] — ecommerce-history context added by episode 200.
 - [[ZhangKuo]], [[Axio]], [[B2BToA2A]], [[AgenticB2BSourcing]], and [[OnePersonCompany]] — international B2B agent branch added by E231.
+- [[AlibabaCloud]], [[Pingtouge]], [[AIAcceleratorSupernode]], [[ScaleUpAIInterconnect]], and [[DomesticAIChipOrderValidation]] — WAIC supernode and domestic compute branch.

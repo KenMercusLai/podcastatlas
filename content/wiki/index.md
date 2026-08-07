@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23](sources/guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f.md) — What's Next episode on WAIC supernodes, Huawei CM384 versus Nvidia GB200 NVL72, Scale Up interconnect, protocol fragmentation, power/cooling constraints, and domestic AI-chip order validation.
 - [Centering humans in AI education might be key to innovation and research](sources/tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128.md) — Marketplace Tech episode on USC's human-centered AI education push, Sri Narayanan's behavioral-signal research, the $200 million Stevens School AI investment, project-driven curricula, non-STEM AI minors, and ethics/privacy/bias guardrails.
 - [Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company.](sources/sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908.md) — How I Built This episode on Sweetwater's service-led pro-audio retail model, Chuck Surack's Kurzweil-driven retail turn, sales engineers, Sweetwater University, online guitar inspection, Amazon contrast, and founder succession.
 - [Vol.267 如何现场看世界杯并大亏一笔 feat.鹰眼时间](sources/vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145.md) — 商业就是这样 crossover with 鹰眼时间 on 2026 World Cup host-city costs, local sponsorship, fan festivals, high on-site prices, official resale fees, and a $900-plus ticket-loss case.
@@ -942,6 +943,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bianca (content engineer)](entities/BiancaContentEngineer.md) — Content-engineering speaker grounding AI answer evaluation in product goals, intent reading, uncertainty handling, and consensus-trained art limits.
 - [WAIC](entities/WAIC.md) — World Artificial Intelligence Conference context used by Keji Luandun to read the AI industry's shift from model spectacle toward landing, commercialization, and deployment.
 - [Kimi K3](entities/KimiK3.md) — Kimi model/product case tested for a podcast-host dialogue agent, adding latency, token-use, workflow-fit, and open-weight release-boundary material.
+- [Huawei CM384](entities/HuaweiCM384.md) — Huawei AI supernode case used to compare domestic system-level catch-up against Nvidia GB200 NVL72 through aggregate compute, power, cooling, and market validation.
+- [Nvidia GB200 NVL72](entities/NvidiaGB200NVL72.md) — Nvidia Blackwell rack-scale supernode reference used in the WAIC source as the benchmark for Huawei CM384 and domestic AI infrastructure comparison.
+- [Alibaba Cloud / 阿里云](entities/AlibabaCloud.md) — Alibaba cloud-infrastructure unit connecting Aliyun Bailian model serving, Pingtouge chip work, and WAIC supernode participation.
+- [Baidu AI Cloud / 百度智能云](entities/BaiduAICloud.md) — Baidu cloud unit named at WAIC as a supernode participant and potential domestic accelerator buyer/integrator.
+- [Sugon / 中科曙光](entities/Sugon.md) — Chinese server and computing-infrastructure company described as one of the clearer domestic supernode deployment actors.
+- [H3C / 华三](entities/H3C.md) — Server and networking/OEM participant whose WAIC supernode display shows the value chain expanding beyond chip vendors.
+- [Biren Technology / 壁仞科技](entities/BirenTechnology.md) — Chinese AI-chip company used in the WAIC source to illustrate proprietary Scale Up interconnect fragmentation.
+- [Moore Threads / 摩尔线程](entities/MooreThreads.md) — Chinese AI-chip vendor named in the WAIC supernode discussion as part of the fragmented domestic Scale Up ecosystem.
+- [MetaX / 沐曦](entities/MetaX.md) — Chinese AI-chip vendor named in the WAIC source as part of the domestic supernode and interconnect-fragmentation landscape.
+- [Kunlunxin / 昆仑芯](entities/Kunlunxin.md) — Domestic AI-chip team linked to large-platform resources and the coming large-customer order-validation phase.
+- [Xizhi Technology / 西智科技](entities/XizhiTechnology.md) — Optical chip, optical interconnect, and optical switching company connected to supernode Scale Up networking.
 - [George Georgiadis](entities/GeorgeGeorgiadis.md) — Happierleads founder who moved from a long $50K ARR plateau to about $1.5M ARR with no employees, while later warning that solo AI operation remains founder-dependent.
 - [Happierleads](entities/Happierleads.md) — Bootstrapped visitor-identification SaaS that qualifies anonymous website visitors with AI and can move qualified accounts into email campaigns.
 - [AppSumo](entities/AppSumo.md) — Startup-deal marketplace used by Happierleads for early cash, feedback, and users, with lifetime-deal support obligations as the central tradeoff.
@@ -7863,6 +7875,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Moore's Law](concepts/MooreLaw.md) — Semiconductor scaling frame that coordinated decades of density, performance, and cost improvement before physical and economic limits pushed post-Moore routes.
 - [Advanced Packaging](concepts/AdvancedPackaging.md) — Packaging and interconnect route that can improve AI-chip performance through tighter processor-memory integration but still depends on upstream wafers and volume.
 - [Domestic AI Chip Catch-Up](concepts/DomesticAIChipCatchUp.md) — China-focused AI-chip substitution challenge across design talent, EDA, fabrication, yield, packaging, software ecosystems, and cost-effective scale.
+- [AI Accelerator Supernode](concepts/AIAcceleratorSupernode.md) — System-level AI hardware pattern that links many accelerators through low-latency interconnect so they can behave like one larger compute domain.
+- [Scale Up AI Interconnect](concepts/ScaleUpAIInterconnect.md) — Low-latency accelerator interconnect domain enabling collective model operations across a supernode.
+- [Proprietary AI Interconnect Fragmentation](concepts/ProprietaryAIInterconnectFragmentation.md) — Risk that each AI accelerator vendor's Scale Up protocol and software assumptions increase migration cost and slow adoption.
+- [Domestic AI Chip Order Validation](concepts/DomesticAIChipOrderValidation.md) — Market test asking whether cloud and model customers choose domestic AI systems when Nvidia alternatives are available.
 - [Major-Event Attention Conversion](concepts/MajorEventAttentionConversion.md) — Strategy of converting a temporary major-event attention spike into durable customers, local loyalty, repeat attendance, or revenue.
 - [Sports Fandom Network Effects](concepts/SportsFandomNetworkEffects.md) — Feedback loop where a team, league, or event becomes more valuable to each fan when visible local communities also care.
 - [Sports Draft Incentive Design](concepts/SportsDraftIncentiveDesign.md) — Draft-order design problem of helping weak teams without making losing rational.

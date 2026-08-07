@@ -2,7 +2,7 @@
 title: "GPU"
 type: entity
 tags: [ai, chip, semiconductors, infrastructure]
-sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]
+sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
 last_updated: 2026-08-07
 ---
 # GPU
@@ -17,6 +17,8 @@ The wiki already discusses GPUs indirectly through [[Nvidia]], [[MaaSInfrastruct
 
 [[e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]] adds a more technical TPU/GPU contrast. [[HenryTPUEngineer|Henry]] presents GPUs as flexible SIMT-style accelerators with a mature [[CUDA]] ecosystem, making them better when workloads, model architectures, or developer tools change quickly. That same generality is the tradeoff against [[TPU]] efficiency in known, high-volume workloads optimized through [[XLACompiler|XLA]] and [[TPUPodSystemOptimization|TPU Pods]].
 
+[[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] adds the supernode comparison. The source uses [[NvidiaGB200NVL72]] and [[HuaweiCM384]] to show why AI accelerator competition now happens at rack or multi-cabinet scale, where chip count, interconnect, [[CUDA]], power, and cooling shape usable GPU-like capacity.
+
 ## Connections
 - [[Nvidia]] - dominant GPU supplier in the episode's AI market frame.
 - [[TPU]] - Google specialized-chip comparison.
@@ -26,3 +28,4 @@ The wiki already discusses GPUs indirectly through [[Nvidia]], [[MaaSInfrastruct
 - [[DomesticAIChipCatchUp]], [[ComputeFreedom]], and [[TapeOutRisk]] - EP270's manufacturing, software-ecosystem, and cost-availability extension.
 - [[TokenPerWatt]], [[GPUCloudOperations]], [[NeoCloud]], and [[AIInfrastructureFullStackMoat]] - E230's rack-scale and cloud-operations extension.
 - [[CUDA]], [[XLACompiler]], [[TPUPodSystemOptimization]], and [[ASICWorkloadPredictionRisk]] - E228's explanation of why GPU generality remains valuable even under TPU pressure.
+- [[AIAcceleratorSupernode]], [[ScaleUpAIInterconnect]], [[HuaweiCM384]], and [[NvidiaGB200NVL72]] - WAIC source's rack-scale accelerator branch.
