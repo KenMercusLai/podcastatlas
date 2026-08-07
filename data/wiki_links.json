@@ -3467,6 +3467,10 @@
     "title": "Antihero Misreading",
     "url": "/wiki/concepts/antiheromisreading/"
   },
+  "AntitrustChill": {
+    "title": "Antitrust Chill",
+    "url": "/wiki/concepts/antitrustchill/"
+  },
   "Antler": {
     "title": "Antler",
     "url": "/wiki/entities/antler/"
@@ -5014,6 +5018,10 @@
   "Bluesky": {
     "title": "Bluesky",
     "url": "/wiki/entities/bluesky/"
+  },
+  "Bluetooth": {
+    "title": "Bluetooth",
+    "url": "/wiki/entities/bluetooth/"
   },
   "BoJing": {
     "title": "博靖 / Bo Jing",
@@ -7459,6 +7467,10 @@
     "title": "Collab Capital",
     "url": "/wiki/entities/collabcapital/"
   },
+  "CollaborationVsCollusion": {
+    "title": "Collaboration vs. Collusion",
+    "url": "/wiki/concepts/collaborationvscollusion/"
+  },
   "CollateralPunishmentAndGuiltByAssociation": {
     "title": "Collateral Punishment And Guilt By Association",
     "url": "/wiki/concepts/collateralpunishmentandguiltbyassociation/"
@@ -7602,6 +7614,10 @@
   "CompetitiveSpreadsheeting": {
     "title": "Competitive Spreadsheeting",
     "url": "/wiki/concepts/competitivespreadsheeting/"
+  },
+  "ComplementaryPatents": {
+    "title": "Complementary Patents",
+    "url": "/wiki/concepts/complementarypatents/"
   },
   "ComplementaryRelationshipSupport": {
     "title": "Complementary Relationship Support / 互补式关系支持",
@@ -8490,6 +8506,10 @@
   "DPCDRGPaymentReform": {
     "title": "DPC/DRG Payment Reform",
     "url": "/wiki/concepts/dpcdrgpaymentreform/"
+  },
+  "DVD": {
+    "title": "DVD",
+    "url": "/wiki/entities/dvd/"
   },
   "DXY": {
     "title": "丁香园 / DXY",
@@ -10435,6 +10455,10 @@
     "title": "Eli Lilly",
     "url": "/wiki/entities/elililly/"
   },
+  "EliasHoweJr": {
+    "title": "Elias Howe Jr.",
+    "url": "/wiki/entities/eliashowejr/"
+  },
   "ElieWiesel": {
     "title": "Elie Wiesel",
     "url": "/wiki/entities/eliewiesel/"
@@ -10875,6 +10899,10 @@
     "title": "Eshu",
     "url": "/wiki/entities/eshu/"
   },
+  "EssentialPatents": {
+    "title": "Essential Patents",
+    "url": "/wiki/concepts/essentialpatents/"
+  },
   "Estraven": {
     "title": "伊斯特拉凡 / Estraven",
     "url": "/wiki/entities/estraven/"
@@ -11178,6 +11206,10 @@
   "FOFProductDesign": {
     "title": "FOF Product Design",
     "url": "/wiki/concepts/fofproductdesign/"
+  },
+  "FRANDLicensing": {
+    "title": "FRAND Licensing",
+    "url": "/wiki/concepts/frandlicensing/"
   },
   "FTX": {
     "title": "FTX",
@@ -11942,6 +11974,10 @@
   "FiveDynastiesTenKingdomsConceptFormation": {
     "title": "五代十国概念形成 / Five Dynasties Ten Kingdoms Concept Formation",
     "url": "/wiki/concepts/fivedynastiestenkingdomsconceptformation/"
+  },
+  "FiveG": {
+    "title": "5G",
+    "url": "/wiki/entities/fiveg/"
   },
   "FiveGRobotics": {
     "title": "5G Robotics",
@@ -13359,6 +13395,10 @@
     "title": "Glamour",
     "url": "/wiki/entities/glamour/"
   },
+  "GlassContainerPatentPool": {
+    "title": "Glass-Container Patent Pool",
+    "url": "/wiki/entities/glasscontainerpatentpool/"
+  },
   "GlassGiraffe": {
     "title": "《玻璃长颈鹿》",
     "url": "/wiki/entities/glassgiraffe/"
@@ -13762,6 +13802,10 @@
   "Grouper": {
     "title": "Grouper",
     "url": "/wiki/entities/grouper/"
+  },
+  "GroverAndBaker": {
+    "title": "Grover and Baker",
+    "url": "/wiki/entities/groverandbaker/"
   },
   "GrowthAsProtectorRole": {
     "title": "Growth As Protector Role",
@@ -16195,6 +16239,10 @@
     "title": "Isaac Beeckman / 贝克曼",
     "url": "/wiki/entities/isaacbeeckman/"
   },
+  "IsaacMerrittSinger": {
+    "title": "Isaac Merritt Singer",
+    "url": "/wiki/entities/isaacmerrittsinger/"
+  },
   "IsaacNewton": {
     "title": "Isaac Newton / 牛顿",
     "url": "/wiki/entities/isaacnewton/"
@@ -17807,6 +17855,10 @@
     "title": "Ken Ono",
     "url": "/wiki/entities/kenono/"
   },
+  "KenRubenstein": {
+    "title": "Ken Rubenstein",
+    "url": "/wiki/entities/kenrubenstein/"
+  },
   "KenanVoiceChanger": {
     "title": "Kenan Voice Changer",
     "url": "/wiki/entities/kenanvoicechanger/"
@@ -18630,6 +18682,10 @@
   "LeonardCohen": {
     "title": "Leonard Cohen / 莱昂纳德·科恩",
     "url": "/wiki/entities/leonardcohen/"
+  },
+  "LeonardoMPEG": {
+    "title": "Leonardo (MPEG)",
+    "url": "/wiki/entities/leonardompeg/"
   },
   "LeverageDrivenBullMarket": {
     "title": "Leverage-Driven Bull Market",
@@ -19766,6 +19822,14 @@
   "MOSS": {
     "title": "MOSS",
     "url": "/wiki/entities/moss/"
+  },
+  "MPEG": {
+    "title": "MPEG / Moving Pictures Experts Group",
+    "url": "/wiki/entities/mpeg/"
+  },
+  "MPEGPatentPool": {
+    "title": "MPEG Patent Pool",
+    "url": "/wiki/entities/mpegpatentpool/"
   },
   "MPMaterials": {
     "title": "MP Materials",
@@ -21018,6 +21082,10 @@
   "MichaelLynton": {
     "title": "Michael Lynton",
     "url": "/wiki/entities/michaellynton/"
+  },
+  "MichaelMattioli": {
+    "title": "Michael Mattioli",
+    "url": "/wiki/entities/michaelmattioli/"
   },
   "MichaelSchumacher": {
     "title": "Michael Schumacher",
@@ -23327,6 +23395,10 @@
     "title": "Orland Bishop",
     "url": "/wiki/entities/orlandbishop/"
   },
+  "OrlandoBPotter": {
+    "title": "Orlando B. Potter",
+    "url": "/wiki/entities/orlandobpotter/"
+  },
   "OrnithologicalFieldwork": {
     "title": "Ornithological Fieldwork",
     "url": "/wiki/concepts/ornithologicalfieldwork/"
@@ -23726,6 +23798,18 @@
   "PatekPhilippe": {
     "title": "Patek Philippe",
     "url": "/wiki/entities/patekphilippe/"
+  },
+  "PatentPool": {
+    "title": "Patent Pool",
+    "url": "/wiki/concepts/patentpool/"
+  },
+  "PatentPoolCartelRisk": {
+    "title": "Patent Pool Cartel Risk",
+    "url": "/wiki/concepts/patentpoolcartelrisk/"
+  },
+  "PatentThicket": {
+    "title": "Patent Thicket",
+    "url": "/wiki/concepts/patentthicket/"
   },
   "PathJoy": {
     "title": "PathJoy",
@@ -28059,6 +28143,10 @@
     "title": "Severus Snape / 西弗勒斯·斯内普",
     "url": "/wiki/entities/severussnape/"
   },
+  "SewingMachineCombination": {
+    "title": "Sewing Machine Combination",
+    "url": "/wiki/entities/sewingmachinecombination/"
+  },
   "SexualAssaultEvidenceKit": {
     "title": "Sexual Assault Evidence Kit",
     "url": "/wiki/entities/sexualassaultevidencekit/"
@@ -28298,6 +28386,10 @@
   "SherlockHolmes": {
     "title": "Sherlock Holmes / 福尔摩斯",
     "url": "/wiki/entities/sherlockholmes/"
+  },
+  "ShermanAntitrustAct": {
+    "title": "Sherman Antitrust Act",
+    "url": "/wiki/entities/shermanantitrustact/"
   },
   "SherrodBrown": {
     "title": "Sherrod Brown",
@@ -28638,6 +28730,10 @@
   "SingaporeAirlines": {
     "title": "Singapore Airlines",
     "url": "/wiki/entities/singaporeairlines/"
+  },
+  "SingerSewingMachine": {
+    "title": "Singer Sewing Machine",
+    "url": "/wiki/entities/singersewingmachine/"
   },
   "SingleRoomOccupancyHousing": {
     "title": "Single-Room Occupancy Housing",
@@ -29418,6 +29514,10 @@
   "StandardChartered": {
     "title": "Standard Chartered",
     "url": "/wiki/entities/standardchartered/"
+  },
+  "StandardsBasedInnovation": {
+    "title": "Standards-Based Innovation",
+    "url": "/wiki/concepts/standardsbasedinnovation/"
   },
   "StanfordReview": {
     "title": "Stanford Review",
@@ -30723,6 +30823,10 @@
     "title": "Telangana",
     "url": "/wiki/entities/telangana/"
   },
+  "TelecomItalia": {
+    "title": "Telecom Italia",
+    "url": "/wiki/entities/telecomitalia/"
+  },
   "TelosCrisis": {
     "title": "Telos Crisis / 目的危机",
     "url": "/wiki/concepts/teloscrisis/"
@@ -31234,6 +31338,10 @@
   "ThreeDPrintedProsthetics": {
     "title": "3D-Printed Prosthetics",
     "url": "/wiki/concepts/threedprintedprosthetics/"
+  },
+  "ThreeGMobilePhones": {
+    "title": "3G Mobile Phones",
+    "url": "/wiki/entities/threegmobilephones/"
   },
   "ThreeLayerScaleEconomies": {
     "title": "Three-Layer Scale Economies",
@@ -33286,6 +33394,10 @@
   "WheelRailVsMaglev": {
     "title": "Wheel-Rail vs Maglev",
     "url": "/wiki/concepts/wheelrailvsmaglev/"
+  },
+  "WheelerAndWilson": {
+    "title": "Wheeler and Wilson",
+    "url": "/wiki/entities/wheelerandwilson/"
   },
   "WhistleblowerEvidenceDiscipline": {
     "title": "Whistleblower Evidence Discipline",
@@ -36914,6 +37026,10 @@
   "the-ice-hiring-boom": {
     "title": "The ICE hiring boom",
     "url": "/wiki/sources/the-ice-hiring-boom/"
+  },
+  "the-invention-invention": {
+    "title": "The Invention Invention",
+    "url": "/wiki/sources/the-invention-invention/"
   },
   "the-latest-tv-innovations-have-their-critics": {
     "title": "The latest TV innovations have their critics",

@@ -2,11 +2,13 @@
 title: "U.S. Department of Justice"
 type: entity
 tags: [government, united-states, antitrust, regulation, ai-policy, cybersecurity]
-sources: [tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, spirit-airlines-and-the-future-of-cheap-flights, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]
-last_updated: 2026-08-05
+sources: [the-invention-invention, tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, spirit-airlines-and-the-future-of-cheap-flights, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]
+last_updated: 2026-08-07
 ---
 
 # U.S. Department of Justice
+
+[[the-invention-invention]] adds the DOJ as the antitrust reviewer that helped revive modern [[PatentPool|patent pools]]. The source says the 1970s "nine no-nos" created [[AntitrustChill]], but the 1997 approval of the [[MPEGPatentPool]] gave standards pools a workable roadmap based on [[EssentialPatents]], [[ComplementaryPatents]], and non-exclusionary licensing.
 
 [[tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128]] adds the DOJ through quoted language describing infected devices as enslaved by botnet operators and forced to attack other computers. In the source, that language helps [[StephanieHughes]] and [[BrianKrebs]] frame [[IoTBotnetRisk]] as more than household inconvenience: compromised routers and TV boxes can become infrastructure for [[DDoSAttackAmplification]], [[MaliciousProxyNetworks]], and remote control through [[CommandAndControlInfrastructure]].
 
@@ -21,6 +23,7 @@ The page's role is to connect antitrust review to [[PoliticalRegulatoryLeverage]
 [[spirit-airlines-and-the-future-of-cheap-flights]] adds the DOJ as the antitrust actor that blocked [[JetBlue]]'s attempted acquisition of [[SpiritAirlines|Spirit Airlines]], according to the episode. This connects the department's merger-review role to [[AirlineMarketPriceDiscipline]] because Spirit's survival or disappearance could affect fare pressure on larger carriers.
 
 ## Connections
+- [[MPEGPatentPool]], [[PatentPool]], [[EssentialPatents]], [[FRANDLicensing]], [[CollaborationVsCollusion]], and [[AntitrustChill]] - patent-pool approval and licensing-policy branch added by Planet Money.
 - [[BrianKrebs]], [[KimWolfBotnet|KimWolf]], [[IoTBotnetRisk]], [[DDoSAttackAmplification]], [[MaliciousProxyNetworks]], and [[CommandAndControlInfrastructure]] - botnet enforcement framing cited by Marketplace Tech.
 - [[WarnerBrosDiscovery]], [[Paramount]], and [[Skydance]] - transaction context.
 - [[LarryEllison]] and [[DavidEllison]] - ownership and financing context.

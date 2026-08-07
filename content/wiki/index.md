@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Invention Invention](sources/the-invention-invention.md) — Planet Money episode on MPEG, the Singer sewing-machine patent war, patent pools, FRAND licensing, essential patents, and the antitrust line between collaboration and collusion.
 - [The real horror of 'Alien' and how it explains why we're not paid enough](sources/the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough.md) — Planet Money episode using Alien and Alien: Romulus to explain labor monopsony, hidden job risks, search frictions, non-competes, company-town control, and labor-market counterforces.
 - [The skyscrapers that NIMBYs and zoning couldn't stop](sources/the-skyscrapers-that-nimbys-and-zoning-couldnt-stop.md) — Planet Money episode on the Squamish Nation's Vancouver high-rise housing project, sovereign land-use authority, zoning constraints, permitting delay costs, local veto politics, and Indigenous development visibility.
 - [Our BOOK vs. the global supply chain](sources/our-book-vs-the-global-supply-chain.md) — Planet Money episode following its own book through physical design, production tradeoffs, printer selection, EU forest-compliance rules, domestic printing, quality control, and reprint flexibility.
@@ -828,6 +829,25 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [MPEG / Moving Pictures Experts Group](entities/MPEG.md) — Video-compression standard used by Planet Money to explain standards-based innovation and patent-pool revival.
+- [MPEG Patent Pool](entities/MPEGPatentPool.md) — 1997 DOJ-approved standards patent pool that became the episode's modern template for lawful technology coordination.
+- [Leonardo (MPEG)](entities/LeonardoMPEG.md) — Source-scoped Italian inventor figure connected to the MPEG portable-video vision.
+- [Telecom Italia](entities/TelecomItalia.md) — Telecom context for Leonardo's MPEG-era work in the source.
+- [Isaac Merritt Singer](entities/IsaacMerrittSinger.md) — Sewing-machine inventor whose improvements and patent conflict anchor the episode's patent-thicket story.
+- [Elias Howe Jr.](entities/EliasHoweJr.md) — Sewing-machine patent holder whose claims against Singer helped create the poolable patent conflict.
+- [Michael Mattioli](entities/MichaelMattioli.md) — Law professor explaining patent pools, complementary patents, and antitrust risk in the episode.
+- [Orlando B. Potter](entities/OrlandoBPotter.md) — Lawyer who proposed the 1856 sewing-machine patent pool.
+- [Ken Rubenstein](entities/KenRubenstein.md) — MPEG patent-pool lawyer described as an essential-patent screening umpire.
+- [Singer Sewing Machine](entities/SingerSewingMachine.md) — Sewing-machine product and company context for the first major American patent-pool story.
+- [Sewing Machine Combination](entities/SewingMachineCombination.md) — 1856 sewing-machine patent pool joining Singer, Howe, Grover and Baker, and Wheeler and Wilson.
+- [Grover and Baker](entities/GroverAndBaker.md) — Sewing-machine company participating in the patent war and later pool.
+- [Wheeler and Wilson](entities/WheelerAndWilson.md) — Sewing-machine company participating in the patent war and later pool.
+- [Glass-Container Patent Pool](entities/GlassContainerPatentPool.md) — Patent-pool abuse case used to explain cartel risk and FRAND licensing.
+- [Bluetooth](entities/Bluetooth.md) — Later standards example named as following the MPEG patent-pool template.
+- [DVD](entities/DVD.md) — Media-standard example named as following the MPEG patent-pool template.
+- [3G Mobile Phones](entities/ThreeGMobilePhones.md) — Mobile-standard example named as following the MPEG patent-pool template.
+- [5G](entities/FiveG.md) — Modern mobile standard named as relying on structures enabled by patent pools.
+- [Sherman Antitrust Act](entities/ShermanAntitrustAct.md) — U.S. antitrust-law backdrop for judging abusive patent-pool coordination.
 - [Arin Dube / Arindrajit Dube](entities/ArinDube.md) — Labor economist in the Alien labor-economics episode explaining monopsony, hidden job risks, and wage-setting power.
 - [The Wage Standard](entities/TheWageStandard.md) — Arin Dube labor-economics book used by Planet Money to frame monopsony and wage-power problems.
 - [University of Massachusetts Amherst](entities/UniversityOfMassachusettsAmherst.md) — UMass Amherst affiliation for Arin Dube in the Planet Money Alien labor-economics episode.
@@ -5609,6 +5629,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Patent Pool](concepts/PatentPool.md) — Shared licensing structure that can unblock complementary patents but needs antitrust guardrails.
+- [Patent Thicket](concepts/PatentThicket.md) — Dense overlapping patent rights that make production difficult without licensing coordination.
+- [Complementary Patents](concepts/ComplementaryPatents.md) — Patents that work together as parts of a larger invention rather than substitutes.
+- [Essential Patents](concepts/EssentialPatents.md) — Patents required to implement a standard and therefore central to standards-pool governance.
+- [FRAND Licensing](concepts/FRANDLicensing.md) — Fair, reasonable, and nondiscriminatory licensing discipline for standards and patent pools.
+- [Collaboration vs. Collusion](concepts/CollaborationVsCollusion.md) — Antitrust frame for deciding when rival coordination around inventions is useful or unlawful.
+- [Patent Pool Cartel Risk](concepts/PatentPoolCartelRisk.md) — Risk that a patent pool restricts output, fixes prices, or excludes competitors.
+- [Antitrust Chill](concepts/AntitrustChill.md) — Pattern where fear of enforcement suppresses useful licensing coordination.
+- [Standards-Based Innovation](concepts/StandardsBasedInnovation.md) — Innovation pattern where shared technical standards and licensing institutions make products interoperable.
 - [Negative Job Amenities](concepts/NegativeJobAmenities.md) — Undesirable job attributes such as danger, isolation, and harsh conditions that should affect job quality and pay.
 - [Compensating Differentials](concepts/CompensatingDifferentials.md) — Wage premiums that should compensate workers for dangerous or unpleasant work when labor markets are competitive.
 - [Shrouded Job Attributes](concepts/ShroudedJobAttributes.md) — Hidden job risks or contract obligations that workers do not fully price before accepting work.

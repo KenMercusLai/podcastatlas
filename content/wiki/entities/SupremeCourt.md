@@ -2,11 +2,13 @@
 title: "Supreme Court"
 type: entity
 tags: [institution, law, politics]
-sources: [tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, how-we-got-free-agents-in-baseball, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, jerome-powell-and-the-test-of-fed-independence, a-trip-to-the-magic-mushroom-megachurch]
-last_updated: 2026-08-05
+sources: [the-invention-invention, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, how-we-got-free-agents-in-baseball, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, jerome-powell-and-the-test-of-fed-independence, a-trip-to-the-magic-mushroom-megachurch]
+last_updated: 2026-08-07
 ---
 
 # Supreme Court
+
+[[the-invention-invention]] adds the Court through the glass-container patent-pool case. The source says the Court found the pool's output restriction, price fixing, and competitor blocking unlawful under the [[ShermanAntitrustAct|Sherman Antitrust Act]], helping establish the fair, reasonable, and nondiscriminatory licensing logic later captured by [[FRANDLicensing]].
 
 [[how-we-got-free-agents-in-baseball]] adds the Court through [[FloodVKuhn|Flood v. Kuhn]], where [[CurtFlood]] challenged [[MajorLeagueBaseball|MLB]]'s [[BaseballReserveClause|reserve clause]]. The source says the Court ruled against Flood and left the [[BaseballAntitrustExemption|baseball antitrust exemption]] in place, but that the case still helped shift public opinion and labor leverage toward [[BaseballFreeAgency|free agency]].
 
@@ -29,6 +31,7 @@ The source's main contribution is not a doctrinal account of specific cases, but
 [[indicators-of-2025-and-what-to-watch-in-2026]] adds two source-dated Supreme Court watchpoints for 2026. The episode says the Court was expected to hear arguments in [[LisaCook]]'s removal case and to rule on whether [[DonaldTrump]] could impose the 2025 tariff shock without congressional approval, connecting the Court to both [[FederalFundsRateAsPolicySignal]] and [[EffectiveTariffRateShock]].
 
 ## Connections
+- [[GlassContainerPatentPool]], [[PatentPoolCartelRisk]], [[ShermanAntitrustAct|Sherman Antitrust Act]], and [[FRANDLicensing]] - patent-pool antitrust branch added by Planet Money.
 - [[CurtFlood]], [[BowieKuhn]], [[ArthurGoldberg]], [[MajorLeagueBaseball]], [[FloodVKuhn]], [[BaseballReserveClause]], [[BaseballAntitrustExemption]], and [[PublicOpinionLitigationStrategy]] - baseball labor and antitrust branch added by Planet Money.
 - [[ReligiousControlledSubstanceExemption]], [[PsychedelicChurches]], [[NativeAmericanChurch]], [[ControlledSubstancesAct]], and [[DEAExemptionProcess]] - psychedelic church exemption branch added by Planet Money.
 - [[OnlineAgeVerification]], [[AgeVerificationPatchwork]], [[Texas]], and [[DrewHarwell]] - age-verification legal-signal branch added by Marketplace Tech.

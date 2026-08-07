@@ -2,13 +2,15 @@
 title: "Platform Antitrust"
 type: concept
 tags: [platform, antitrust, regulation, china]
-sources: [tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, seven-allegedly-fake-chanel-bags-vs-the-realreal]
-last_updated: 2026-07-24
+sources: [the-invention-invention, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, seven-allegedly-fake-chanel-bags-vs-the-realreal]
+last_updated: 2026-08-07
 ---
 
 # Platform Antitrust
 
 Platform antitrust is the question of when a dominant platform's rules, pricing, ranking, contracts, and data advantages become abusive rather than merely efficient. In [[kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun]], the reported [[StateAdministrationForMarketRegulation]] investigation into [[Ctrip]] is used to explore this boundary.
+
+[[the-invention-invention]] adds a patent-pool comparison. A [[PatentPool]] is not a platform in the online marketplace sense, but [[PatentPoolCartelRisk]] raises a similar governance problem: useful shared infrastructure can become exclusionary market power if access, price, and participant behavior are not constrained.
 
 The episode's core distinction is that concentration itself can have operational reasons, especially in [[OnlineTravelAgency]] markets. The policy issue is whether the platform uses that concentration to force terms, hide fees, distort display, or weaken supplier autonomy.
 
@@ -23,8 +25,10 @@ The episode's core distinction is that concentration itself can have operational
 - The source favors [[PlatformDataRegulation]] over direct state operation as the more practical governance direction.
 - AI answer surfaces can become antitrust-relevant when they combine market power, publisher content, attribution design, and traffic diversion.
 - Trademark enforcement can become antitrust-relevant when a brand's control tactics make independent resale or marketplace competition harder.
+- Patent-pool cases show the same infrastructure-versus-control boundary in licensing rather than ranking or marketplace design.
 
 ## Connections
+- [[PatentPool]], [[PatentPoolCartelRisk]], [[FRANDLicensing]], and [[CollaborationVsCollusion]] - patent-pool comparison added by Planet Money.
 - [[Ctrip]], [[Damai]], and [[StateAdministrationForMarketRegulation]] — source cases.
 - [[Google]], [[GoogleAIOverviews|Google AI Overviews]], [[EuropeanCommission]], [[DailyMail]], and [[AIAnswerSourceAttribution]] - AI-search platform-power case added by Marketplace Tech.
 - [[OTAPlatformConcentration]], [[HotelPlatformPricingPower]], [[TravelBookingHiddenFees]], and [[PlatformDataRegulation]] — adjacent concepts.

@@ -6621,3 +6621,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities against the existing graph. Semantic lint API failed because `LLM_MODEL` is unset/providerless and no provider API key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-07] ingest | The Invention Invention
+
+Added source page for a Planet Money episode on MPEG, the Singer sewing-machine patent war, the 1856 Sewing Machine Combination, patent pools, patent thickets, complementary and essential patents, FRAND licensing, the glass-container cartel-risk case, the DOJ's antitrust chill, and the 1997 MPEG patent-pool approval. Created pages for MPEG, MPEG Patent Pool, Leonardo (MPEG), Telecom Italia, Isaac Merritt Singer, Elias Howe Jr., Michael Mattioli, Orlando B. Potter, Ken Rubenstein, Singer Sewing Machine, Sewing Machine Combination, Grover and Baker, Wheeler and Wilson, Glass-Container Patent Pool, Bluetooth, DVD, 3G Mobile Phones, 5G, Sherman Antitrust Act, Patent Pool, Patent Thicket, Complementary Patents, Essential Patents, FRAND Licensing, Collaboration vs. Collusion, Patent Pool Cartel Risk, Antitrust Chill, and Standards-Based Innovation; updated overview, index, NPR, Planet Money, U.S. Department of Justice, Supreme Court, IP Ownership, Platform Antitrust, Baseball Antitrust Exemption, Sports Broadcasting Act, GSM Standardization, and Technology Innovation As Scale Economy. No direct contradiction found; the source qualifies both pro-patent and pro-cooperation narratives by showing that patents can create productive incentives or blocking thickets, while coordination can create interoperability or cartel risk depending on scope, access, and antitrust guardrails.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

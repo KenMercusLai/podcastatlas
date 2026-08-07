@@ -2,13 +2,15 @@
 title: "IP Ownership"
 type: concept
 tags: [ip, media, strategy, control]
-sources: [the-business-of-heated-rivalry, betty-boop-excel-olympics-penny-isms-our-2026-valentines, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, the-walt-disney-company-1]
-last_updated: 2026-07-24
+sources: [the-invention-invention, the-business-of-heated-rivalry, betty-boop-excel-olympics-penny-isms-our-2026-valentines, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, the-walt-disney-company-1]
+last_updated: 2026-08-07
 ---
 
 # IP Ownership
 
 IP ownership is the strategic control of characters, stories, brands, and rights so a company can reuse and monetize them without being trapped by a customer or distributor. In [[the-walt-disney-company-1]], [[WaltDisney]] learns this lesson after losing [[OswaldTheLuckyRabbit]] and much of his animator base.
+
+[[the-invention-invention]] adds the patent version of the control problem. Where media IP often emphasizes exclusive reuse, patents inside standards can require shared access through [[PatentPool|patent pools]], [[EssentialPatents]], and [[FRANDLicensing]] so that ownership rewards inventors without blocking the wider product system.
 
 The Disney case shows that creative success without ownership can leave the creator with weak bargaining power. Once Disney owned and branded [[MickeyMouse]], the company could survive talent departures, switch distributors, license products, syndicate comics, and build an [[EntertainmentIPFlywheel]] around characters it controlled.
 
@@ -26,8 +28,10 @@ The Disney case shows that creative success without ownership can leave the crea
 - AI generation raises the cost of vague ownership and licensing boundaries because synthetic outputs can borrow recognizable signals without a normal production contract.
 - [[PublicDomainReuse]] is the post-expiration counterpart to ownership: rights can compound value while active, then release some older work into lawful reuse.
 - For independent television producers, IP control can turn a low upfront budget into a rational risk when audience demand and distribution upside are plausible.
+- Patent ownership can also create [[PatentThicket|thickets]], so technical IP sometimes needs shared licensing rather than pure exclusion.
 
 ## Connections
+- [[MPEG]], [[PatentPool]], [[PatentThicket]], [[EssentialPatents]], and [[FRANDLicensing]] - patent and standards branch added by Planet Money.
 - [[OswaldTheLuckyRabbit]] - cautionary case.
 - [[MickeyMouse]] - owned character that became the positive case.
 - [[TheWaltDisneyCompany]], [[WaltDisney]], and [[UbIwerks]] - company and early creative context.
