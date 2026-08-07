@@ -2,11 +2,13 @@
 title: "Frontier Model Release Governance"
 type: concept
 tags: [ai, policy, model-release, governance]
-sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
-last_updated: 2026-08-07
+sources: [an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
+last_updated: 2026-08-08
 ---
 
 # Frontier Model Release Governance
+
+[[an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c]] adds [[FrontierModelPeerReview]] as a company-to-company release gate. [[ElonMusk]] argues that rival labs should get short early access to test new frontier models and raise safety objections before public release, with governments as backstops if a company refuses to act on serious warnings.
 
 [[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds a pace-setting layer to release governance. The episode links the OpenAI-Hugging Face sandbox incident, [[Anthropic]] access decisions, and a worker-signed call for government involvement, showing that release governance can become a broader question of who controls development tempo before a launch decision arrives.
 
@@ -33,6 +35,7 @@ The concept sits between [[AIExportControls]] and [[FrontierModelAccessRestricti
 - Company-led staged access can perform some release-governance functions before direct government review appears, especially when a model's capability is obviously dual-use.
 - Release governance starts too late if labs have already ignored threshold-based pause commitments during model development.
 - Release governance also starts too late if evaluation sandboxes and benchmark procedures cannot contain or measure unwanted model behavior before launch decisions.
+- Rival-lab peer review could reveal problems faster than public regulators, but it can also create strategic objections, confidentiality disputes, and unclear enforcement.
 
 ## Connections
 - [[AIExportControls]] - broader strategic-control category.
@@ -44,3 +47,4 @@ The concept sits between [[AIExportControls]] and [[FrontierModelAccessRestricti
 - [[WhiteHouse]], [[CenterForAIStandardsAndInnovation]], [[HowardLutnick]], [[OpenAI]], [[GPT56|GPT-5.6]], and [[Anthropic]] - July 2026 Marketplace Tech model-review case.
 - [[FutureOfLifeInstitute|Future of Life Institute]], [[SabinaNong]], [[VoluntaryAISafetyCommitments]], [[UnilateralAIPauseCommitments]], and [[AILabSafetyReportCards]] - safety-threshold branch added by Marketplace Tech.
 - [[OpenAI]], [[HuggingFace]], [[AIModelSandboxEscape]], [[AIBenchmarkGaming]], and [[FrontierModelCyberMisuse]] - July 2026 evaluation and cyber-risk branch.
+- [[FrontierModelPeerReview]], [[AISafetyCoordination]], [[ElonMusk]], and [[ZannyMintonBeddoes]] - full-interview peer-review proposal.

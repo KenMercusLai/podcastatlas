@@ -7081,3 +7081,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] ingest | An interview with Elon Musk
+
+Added source page for the full Economist Podcasts / The Intelligence interview where Zanny Minton Beddoes presses Elon Musk on AI timelines, humanoid robots, AI values, frontier-model peer review, China and U.S. intervention, OpenAI and Anthropic trust, optional work, universal high income, SpaceX control and succession, Starlink in Ukraine, DOGE/USAID, X, European politics, immigration, and free speech. Created pages for Frontier Model Peer Review, Universal High Income, AI Work Optionality, AI Fatalistic Acceleration, and Private Infrastructure War Power; updated overview, index, Elon Musk, Zanny Minton Beddoes, SpaceX, Tesla, Starlink, Department of Government Efficiency, USAID, OpenAI, Anthropic, Twitter/X, The Intelligence, Economist Podcasts, AI Abundance Narrative, AI Safety Coordination, Frontier Model Release Governance, AI Alignment Governance, Recursive Self-Improvement, Physical AI, Humanoid Robot Commercialization, Founder Control, and Techno-Optimism Present-Threat Gap. No direct contradiction found; this source overlaps with The Elon game but is recorded separately as the full interview and keeps disputed claims about USAID deaths, British civil-war risk, Ukraine war outcomes, crime, media trust, and AI timelines source-scoped.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

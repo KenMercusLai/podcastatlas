@@ -2,8 +2,8 @@
 title: "Starlink"
 type: entity
 tags: [company, satellite, spacex, connectivity]
-sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
-last_updated: 2026-08-04
+sources: [an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
+last_updated: 2026-08-08
 ---
 
 # Starlink
@@ -18,6 +18,8 @@ The source gives Starlink two roles. First, it can generate commercial cash flow
 
 [[putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]] adds a battlefield access-control case from [[Ukraine]]. The episode says Ukrainian drones have gained a precision advantage through Starlink satellite technology, while Russian access in occupied territories has been removed. In the wiki, this makes Starlink part of [[LowCostDroneWarfare]] and [[WarVisibilityStrategy]], not only consumer or remote-area connectivity.
 
+[[an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c]] adds [[ElonMusk]]'s first-person version of that access-control problem. Musk says [[SpaceX]] never sold terminals to Russians, but Russian users obtained terminals through Ukraine and smuggling; SpaceX then worked with Ukraine on whitelists that also cut off some innocent users. This makes Starlink a clearer [[PrivateInfrastructureWarPower]] case.
+
 [[95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]] adds Starlink as an internet-era demystification case. The hosts describe seeing a line of lights in the sky and quickly identifying it online as Starlink, arguing that a similar sighting in an earlier media environment might have become a stronger [[UrbanLegend|urban legend]] or UFO story.
 
 [[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] adds Starlink as operational precedent for orbital compute. The episode treats Starlink's scaled satellite manufacturing, low-earth-orbit telemetry, heat-pump experience, and collision-avoidance operations as possible advantages if [[SpaceX]] tries to build [[SpaceBasedAIInfrastructure]]. The source does not claim Starlink makes orbital data centers solved; it makes Starlink a partial learning base for [[OrbitalDataCenterThermalManagement]] and [[OrbitalComputeGovernance]].
@@ -31,4 +33,5 @@ The source gives Starlink two roles. First, it can generate commercial cash flow
 - [[XAI|xAI]] and [[Grok]] — AI entities tied to Starlink through the SpaceX acquisition discussion.
 - [[Nigeria]], [[Eutelsat]], and [[AfricaConnectivityInfrastructure]] — connectivity branch added by the Economist source.
 - [[Ukraine]], [[LowCostDroneWarfare]], and [[WarVisibilityStrategy]] — battlefield precision branch added by the later Economist source.
+- [[PrivateInfrastructureWarPower]] — governance branch added by the full Musk interview.
 - [[UrbanLegend|都市传说]] and [[UFOConspiracyCulture]] — sky-sighting demystification branch added by episode 95.

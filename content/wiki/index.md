@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [An interview with Elon Musk](sources/an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c.md) — Full The Intelligence interview with Elon Musk on AI, humanoid robots, universal high income, frontier-model peer review, SpaceX control, Starlink in Ukraine, DOGE/USAID, X, and European political influence.
 - [175.公募基金二季报：极致的抱团与割裂之后](sources/175-gongmu-jijin-erjibao-jizhi-de-baotuan-yu-gelie-zhihou-lv20uprxrcw0tde5ugohu29tmlg6.md) — 起朱楼宴宾客 episode on Chinese public mutual funds' 2026 Q2 reports, active-fund crowding, AI and semiconductor concentration, manager ranking incentives, supply-chain bullwhip risk, and why retail investors should avoid chasing new star managers into long-term accounts.
 - [Burning questions: a more fire-prone world](sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b.md) — The Intelligence episode on extreme wildfire, smoke health burden, women’s stalled workplace progress, and U.S. nightlife mayors.
 - [China's soft power play in the global AI arms race](sources/tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128.md) — Marketplace Tech episode with Adam Siegel of the Council on Foreign Relations on Chinese open-weight AI models, U.S. proprietary frontier-model competition, censorship/data/dependence concerns, local deployment, and possible export-control tension.
@@ -6135,6 +6136,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Development Research Ethics](concepts/DevelopmentResearchEthics.md) — Tension around field experiments generating global knowledge while local participants may not always receive direct policy gains.
 - [AI Abundance Narrative](concepts/AIAbundanceNarrative.md) — Future story where advanced AI and robots produce material abundance while raising human-agency and safety questions.
 - [AI Safety Coordination](concepts/AISafetyCoordination.md) — Recurring safety and security contact among leading AI companies as a voluntary governance practice.
+- [Frontier Model Peer Review](concepts/FrontierModelPeerReview.md) — Proposed early-access review process where rival frontier labs test a model before release and can recommend a pause.
+- [Universal High Income](concepts/UniversalHighIncome.md) — Musk's AI-abundance distribution claim that output growth could make high universal checks plausible.
+- [AI Work Optionality](concepts/AIWorkOptionality.md) — Future claim that AI and robots could make paid work voluntary rather than economically necessary.
+- [AI Fatalistic Acceleration](concepts/AIFatalisticAcceleration.md) — Posture where AI and robot development is treated as risky but practically unstoppable, shifting safety toward steering and coordination.
+- [Private Infrastructure War Power](concepts/PrivateInfrastructureWarPower.md) — Governance problem created when privately owned infrastructure such as Starlink becomes operationally important in war.
 - [Techno-Optimism Present-Threat Gap](concepts/TechnoOptimismPresentThreatGap.md) — Tension between expansive technological future visions and dark present-day political threat narratives.
 - [Youth Criminal Responsibility](concepts/YouthCriminalResponsibility.md) — Debate over when children should be treated as criminally responsible for serious crimes.
 - [Child Prison Units](concepts/ChildPrisonUnits.md) — Prison-based youth facilities used by the Sweden segment to show a tougher turn in child justice.
