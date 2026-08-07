@@ -2,11 +2,13 @@
 title: "Trend Following"
 type: concept
 tags: [investing, trading, risk]
-sources: [ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]
-last_updated: 2026-07-08
+sources: [a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]
+last_updated: 2026-08-08
 ---
 
 # Trend Following
+
+[[a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx]] adds a discretionary bubble-participation version. [[WuWeizhi|吴伟志]] treats part of the A-share AI theme as a trading opportunity rather than long-term company ownership, with bounded exposure, liquidity attention, diversified entries, and gradual selling into strength.
 
 Trend following is the trading discipline emphasized in [[ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg]] through the fictionalized [[JesseLivermore]] conversation. The source frames it as acting after the market confirms direction rather than predicting exact bottoms or tops: use major indexes, moving averages, prior highs, volume, leadership stocks, and higher timeframes to decide whether the market is supporting the trade.
 
@@ -16,6 +18,7 @@ Trend following is the trading discipline emphasized in [[ep76-chuanyue-1940-wo-
 
 ## Key Claims
 - Trend following treats price action as evidence, not as a guarantee; the trader still needs position sizing and exit rules.
+- The Wu Weizhi source adds that a theme trade should not borrow long-term ownership language after the trend stops working.
 - The episode argues against buying through a falling trend just because an asset is cheaper.
 - Right-side entry means accepting that the lowest price is missed in exchange for a position that starts with better confirmation.
 - The method favors leading stocks that are stronger than their sector and market, rather than laggards that only look cheap.
@@ -33,3 +36,4 @@ Trend following is the trading discipline emphasized in [[ep76-chuanyue-1940-wo-
 - [[MarketRegimeShift]] — trend signals can change when liquidity, policy, or market structure changes.
 - [[NoPredictionTrading]], [[DiversificationAlpha]], and [[RandomMarketNarratives]] — E144's statistical, diversification, and narrative-risk extensions.
 - [[MultiStrategyAllocation]], [[AShareValuationIndicators]], and [[DrawdownPsychology]] — E145's hot-market and strategy-mix extension.
+- [[InvestmentStrategyFit]], [[AIEquityValuationRisk]], [[PositionSizing]], and [[AShareMarketSeasons]] - Wu Weizhi's bounded trend/theme participation extension.

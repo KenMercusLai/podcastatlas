@@ -2,11 +2,13 @@
 title: "Position Sizing"
 type: concept
 tags: [investing, trading, risk]
-sources: [cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8, 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
-last_updated: 2026-08-07
+sources: [a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx, cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8, 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
+last_updated: 2026-08-08
 ---
 
 # Position Sizing
+
+[[a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx]] adds the market-season and theme-sleeve version. [[WuWeizhi|吴伟志]] ties total exposure to [[AShareMarketSeasons|A-share season]] and describes a bounded 15% to 20% sleeve for AI-themed bubble participation, separating that trade from long-term ownership of high-confidence companies.
 
 [[cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8]] adds the advance-news trading version through [[AdvanceNewsTradingExperiment]]. The source says participants could know next-day headlines and still lose money because they misread the [[MarketExpectationGap]], used too much leverage, or failed to vary position size with confidence. Expert macro traders did better by sizing aggressively only when confidence justified it and by sometimes not trading.
 
@@ -24,6 +26,7 @@ Position sizing is the capital-allocation decision that connects an investor's e
 
 ## Key Claims
 - The episode treats position size as one multiplier in [[CompoundingGrowthFormula]], alongside [[InvestmentEdge]], opportunity density, and time.
+- The Wu Weizhi source adds that position size should depend on both market season and position intent: ownership, growth investment, value holding, and trend/theme trade deserve different size ceilings.
 - [[KellyCriterion]] is the mathematical reference point, but the source favors fractional Kelly because real probabilities and payoffs are uncertain.
 - A trade record can reveal that the investor's directional judgment is acceptable while the sizing rule is damaging the equity curve.
 - Single-position exposure should reflect the strategy's actual historical win rate, payoff ratio, correlation, liquidity, and emotional tolerance.
@@ -50,3 +53,4 @@ Position sizing is the capital-allocation decision that connects an investor's e
 - [[InvestmentCooldownDiscipline]] and [[PortfolioSuitability]] — vol.105's size-linked waiting-period and personal-fit extension.
 - [[LateBullMarketLossRisk]], [[BubbleWealthRedistribution]], and [[StopLossDiscipline]] - episode 171's overbetting and exit-rule extension.
 - [[AdvanceNewsTradingExperiment]] and [[MarketExpectationGap]] - The Intelligence extension where news advantage still depends on expectation reading and bet size.
+- [[AShareMarketSeasons]], [[InvestmentStrategyFit]], [[AIEquityValuationRisk]], and [[ResearchIndexPortfolioConstruction]] - Wu Weizhi's exposure, theme-sleeve, and portfolio-construction extension.

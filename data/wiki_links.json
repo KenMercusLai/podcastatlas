@@ -2123,6 +2123,14 @@
     "title": "A-Share Bull Market History",
     "url": "/wiki/concepts/asharebullmarkethistory/"
   },
+  "AShareMarketSeasons": {
+    "title": "A-Share Market Seasons / A股四季框架",
+    "url": "/wiki/concepts/asharemarketseasons/"
+  },
+  "ASharePlantingCompanyTaxonomy": {
+    "title": "A-Share Planting Company Taxonomy / 种树种粮种菜",
+    "url": "/wiki/concepts/ashareplantingcompanytaxonomy/"
+  },
   "AShareValuationIndicators": {
     "title": "A-Share Valuation Indicators",
     "url": "/wiki/concepts/asharevaluationindicators/"
@@ -15087,6 +15095,10 @@
     "title": "Growth As Protector Role",
     "url": "/wiki/concepts/growthasprotectorrole/"
   },
+  "GrowthInvesting": {
+    "title": "Growth Investing / 成长投资",
+    "url": "/wiki/concepts/growthinvesting/"
+  },
   "GrowthROILayers": {
     "title": "Growth ROI Layers",
     "url": "/wiki/concepts/growthroilayers/"
@@ -17626,6 +17638,10 @@
   "InvestmentRiskManagement": {
     "title": "Investment Risk Management",
     "url": "/wiki/concepts/investmentriskmanagement/"
+  },
+  "InvestmentStrategyFit": {
+    "title": "Investment Strategy Fit / 投资策略适配",
+    "url": "/wiki/concepts/investmentstrategyfit/"
   },
   "InvestmentStyleMap": {
     "title": "Investment Style Map / 投资流派地图",
@@ -21534,6 +21550,10 @@
   "MAGACoalitionFracture": {
     "title": "MAGA Coalition Fracture",
     "url": "/wiki/concepts/magacoalitionfracture/"
+  },
+  "MAPERInvestmentResearchFramework": {
+    "title": "MAPER Investment Research Framework",
+    "url": "/wiki/concepts/maperinvestmentresearchframework/"
   },
   "MEDICUBE": {
     "title": "MEDICUBE",
@@ -28858,6 +28878,10 @@
   "ResearchChemicalLoophole": {
     "title": "Research Chemical Loophole",
     "url": "/wiki/concepts/researchchemicalloophole/"
+  },
+  "ResearchIndexPortfolioConstruction": {
+    "title": "Research Index Portfolio Construction / 投研指数化",
+    "url": "/wiki/concepts/researchindexportfolioconstruction/"
   },
   "ResearchIntegrityIncentives": {
     "title": "Research Integrity Incentives",
@@ -36915,6 +36939,10 @@
     "title": "吴涛",
     "url": "/wiki/entities/wutao/"
   },
+  "WuWeizhi": {
+    "title": "吴伟志 / Wu Weizhi",
+    "url": "/wiki/entities/wuweizhi/"
+  },
   "WuXinhong": {
     "title": "吴欣鸿",
     "url": "/wiki/entities/wuxinhong/"
@@ -38395,6 +38423,10 @@
     "title": "中欧基金 / Zhongou Fund",
     "url": "/wiki/entities/zhongoufund/"
   },
+  "ZhongouRuibo": {
+    "title": "中欧瑞博 / Zhongou Ruibo",
+    "url": "/wiki/entities/zhongouruibo/"
+  },
   "ZhongshijiDeShenti": {
     "title": "《中世纪的身体》",
     "url": "/wiki/entities/zhongshijideshenti/"
@@ -38590,6 +38622,10 @@
   "a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c": {
     "title": "A firm Andy: what are new British PM's plans?",
     "url": "/wiki/sources/a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c/"
+  },
+  "a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx": {
+    "title": "A股的春夏秋冬：种树、种粮、种菜",
+    "url": "/wiki/sources/a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx/"
   },
   "a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55": {
     "title": "A hawk who flew on political winds: Lindsey Graham",

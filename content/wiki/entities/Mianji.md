@@ -3,6 +3,7 @@ title: "面基"
 type: entity
 tags: [podcast, investing, trading, embodied-judgment, macro, ai-workflow, career, nonfiction, reading, knowledge-management, platform-labor, fixed-income-plus, wealth-management]
 sources:
+  - a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx
   - suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq
   - baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy
   - e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e
@@ -18,10 +19,12 @@ sources:
   - da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf
   - dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1
   - zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae
-last_updated: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 # 面基
+
+[[a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx]] adds an A-share institutional-investing branch through [[WuWeizhi|吴伟志]] of [[ZhongouRuibo|中欧瑞博]]. It connects [[AShareMarketSeasons|A 股四季框架]], [[ASharePlantingCompanyTaxonomy|种树种粮种菜]], [[InvestmentStrategyFit]], [[GrowthInvesting]], [[MAPERInvestmentResearchFramework]], and [[ResearchIndexPortfolioConstruction]] into the show's existing investing thread, with the distinctive claim that method, market season, company type, and organization process must fit before any slogan becomes actionable.
 
 [[suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq]] adds a fixed-income-plus and private-account product-management branch. It connects [[FixedIncomePlusProduct|固收+产品]], [[RiskBudgetedAbsoluteReturn]], [[RollingHoldingPeriodExperience]], [[CrossAssetRiskExpression]], [[MVPInvestmentFramework]], and [[ConvertibleBondDoubleLowStrategy]] to the show's earlier allocation work by asking who is holding the net-value curve and what drawdown path the middle of the client distribution can tolerate.
 
@@ -42,6 +45,7 @@ The [[DaChangXiaomin]] conversation adds a nonfiction career layer through [[Xia
 [[baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy]] adds a platform-labor and fieldwork branch through [[TianFeng|田峰]]'s discussion of [[TalentGroupLivestreaming|才艺团播]]. It moves 面基 beyond investing, AI, and personal agency into a social-science account of livestream rooms as industrialized systems of guild training, real-time data, compliance, makeup, camera work, and backstage review.
 
 ## Connections
+- [[WuWeizhi]], [[ZhongouRuibo]], [[AShareMarketSeasons]], [[ASharePlantingCompanyTaxonomy]], [[InvestmentStrategyFit]], [[GrowthInvesting]], [[MAPERInvestmentResearchFramework]], and [[ResearchIndexPortfolioConstruction]] - A-share institutional-investing and research-process branch.
 - [[ZhangYizhen]], [[AShareValuationIndicators]], [[MultiStrategyAllocation]], and [[DrawdownPsychology]] — E145's A-share valuation, strategy-mix, and investor-psychology layer.
 - [[NoPredictionTrading]], [[DiversificationAlpha]], and [[RandomMarketNarratives]] — E144's trading-statistics and narrative-risk layer.
 - [[KellyCriterion]] — central mathematical sizing idea in the episode.

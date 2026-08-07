@@ -7194,6 +7194,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-08] ingest | A股的春夏秋冬：种树、种粮、种菜
+
+Added source page for a 面基 episode with 吴伟志 of 中欧瑞博 on A-share market seasons, tree/grain/vegetable company taxonomy, strategy fit, bounded AI-theme trading, MAPER research, investment-committee consensus, hedging, quant, AI-assisted research, and research-index portfolio construction. Created pages for Wu Weizhi, Zhongou Ruibo, A-Share Market Seasons, A-Share Planting Company Taxonomy, Investment Strategy Fit, Growth Investing, MAPER Investment Research Framework, and Research Index Portfolio Construction; updated overview, index, 面基, A-Share Bull Market History, Investment Risk Management, Position Sizing, Value Investing, Trend Following, Quantitative Investing, AI Investment Research, Passive Investing, AI Equity Valuation Risk, Market Breadth Narrowing, Defensive Dividend Assets, Asset Allocation, Investment Style Map, Multi-Strategy Allocation, and Institutional Investor Process Discipline. No direct contradiction found; the source qualifies one-method investing and passive/index optimism by making strategy, company type, market season, position size, and research process explicit before acting.
+
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 10,248 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
@@ -7213,3 +7217,7 @@ Added source page for a How I Built This episode with Lily Kanter and Serena Dug
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 10,272 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.

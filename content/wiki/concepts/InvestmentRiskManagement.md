@@ -3,6 +3,7 @@ title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
 sources:
+  - a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx
   - cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8
   - suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq
   - 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2
@@ -60,12 +61,14 @@ sources:
   - vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb
   - ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv
   - 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc
-last_updated: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 # Investment Risk Management
 
 [[cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8]] adds the advance-information version. In the source's [[AdvanceNewsTradingExperiment]], tomorrow's headlines improve neither human nor AI trading enough unless the trader also reads the [[MarketExpectationGap]], sizes positions according to confidence, limits leverage, and is willing not to trade.
+
+[[a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx]] adds the method-fit and market-season version. [[WuWeizhi|吴伟志]] treats risk management as matching [[AShareMarketSeasons|market season]], [[ASharePlantingCompanyTaxonomy|company type]], strategy style, position size, and exit rule; the episode's concrete AI-theme example is a bounded 15% to 20% trading sleeve with liquidity and gradual selling rather than an ownership thesis.
 
 [[suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq]] adds the product-level risk-budget version. In a low-rate [[FixedIncomePlusProduct|fixed income plus]] account, risk management is not only cutting a bad position; it is preserving a thin [[RiskBudgetedAbsoluteReturn|risk budget]] so the whole product can keep satisfying clients across different entry dates and drawdown paths.
 
@@ -153,6 +156,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 
 ## Key Claims
 - Every trade has an informed or differently informed counterparty, so humility should be the starting point.
+- The Wu Weizhi source adds that risk control begins when method and asset type are classified: a trend trade, growth investment, and value position need different adding, holding, and selling rules.
 - The 面基 fixed-income-plus source adds that product-level risk management must allocate one drawdown budget across credit, duration, equity, convertibles, commodities, and cash, rather than letting each sleeve optimize separately.
 - Even a high-probability bet can fail, which makes position sizing and diversification central.
 - A signal is not a forecast; it should be sized and reviewed as one repeat in a larger statistical process.
@@ -243,6 +247,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 
 ## Connections
 - [[InstitutionalInvestorProcessDiscipline]], [[InstitutionalInformationAdvantage]], [[TargetWeightDiscipline]], and [[PersonalCapitalDurationAdvantage]] - episode 166's institution-derived risk-management extension.
+- [[AShareMarketSeasons]], [[ASharePlantingCompanyTaxonomy]], [[InvestmentStrategyFit]], and [[ResearchIndexPortfolioConstruction]] - Wu Weizhi's market-season, company-type, method-fit, and organizational-process extension.
 - [[FixedIncomePlusProduct]], [[RiskBudgetedAbsoluteReturn]], [[RollingHoldingPeriodExperience]], and [[CrossAssetRiskExpression]] - product-level risk-budget and client-path extension from the 面基 source.
 - [[BullMarketProfitPreservation]], [[BullMarketBezzleTrap]], [[GainConversionAssetForm]], and [[OptionContractMechanics]] - episode 157's profit-preservation branch.
 - [[PublicCryptoInvestmentRisk]], [[StateCryptoReserves]], [[SeparateCryptoReserveFund]], [[SeizedDigitalAssetCustody]], and [[Bitcoin]] - state public-finance crypto branch added by Marketplace Tech.

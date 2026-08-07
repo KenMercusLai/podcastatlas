@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A股的春夏秋冬：种树、种粮、种菜](sources/a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx.md) — 面基 episode with Wu Weizhi on A-share market seasons, tree/grain/vegetable company taxonomy, strategy fit, AI-theme trading boundaries, MAPER research, and Zhongou Ruibo's investment process.
 - [Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It](sources/serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66.md) — How I Built This episode on Serena & Lily's premium nursery-to-home brand path, wholesale orders, DTC catalog growth, investor conflict, bad money, and liquidation-preference constraints.
 - [EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛](sources/ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx.md) — 硬地骇客 episode with Liu Kefan on solo-builder internal friction, try-catch-finally self-management, falsifiable product hypotheses, AI task decomposition, human-callable MCP workflows, and shutdown rituals.
 - [「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】](sources/reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk.md) — Shizilukou Crossing road-podcast episode with Will Wang Tianfan on B.A.I Capital, VC trust and feedback, AI context machines, wisdom-over-intelligence applications, AI-native investing workflows, AI infra versus crypto infra, three-non venture theory, Lookie, Mashie, and AI for fun.
@@ -901,6 +902,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [吴伟志 / Wu Weizhi](entities/WuWeizhi.md) — Zhongou Ruibo investor explaining A-share market seasons, company taxonomy, strategy fit, and institution-level research process.
+- [中欧瑞博 / Zhongou Ruibo](entities/ZhongouRuibo.md) — Investment firm context for Wu Weizhi's A-share framework, investment committee, hedging, quant, AI research, MAPER, and research-index process.
 - [Serena & Lily](entities/SerenaAndLily.md) — Premium home brand co-founded by Lily Kanter and Serena Dugan, used as a case in inventory-heavy consumer-brand financing, DTC control, and bad money.
 - [Lily Kanter](entities/LilyKanter.md) — Serena & Lily co-founder whose retail, accounting, and operations role grounds the episode's working-capital and investor-terms lessons.
 - [Serena Dugan](entities/SerenaDugan.md) — Serena & Lily designer co-founder whose decorative painting and textile language shaped the brand's elevated nursery and home aesthetic.
@@ -6154,6 +6157,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [A-Share Market Seasons / A股四季框架](concepts/AShareMarketSeasons.md) — Wu Weizhi's spring-summer-autumn-winter market-temperature frame for A-share exposure, sector cycles, buying speed, and selling discipline.
+- [A-Share Planting Company Taxonomy / 种树种粮种菜](concepts/ASharePlantingCompanyTaxonomy.md) — A-share company-type metaphor separating high-upside growth trees, high-win-rate value grains, and tactical vegetables before strategy selection.
+- [Investment Strategy Fit / 投资策略适配](concepts/InvestmentStrategyFit.md) — Discipline of matching entry reason, evidence, time horizon, sizing, and exit rule so value, growth, and trend methods do not overwrite one another.
+- [Growth Investing / 成长投资](concepts/GrowthInvesting.md) — Company-level growth method focused on sustained EPS, market space, share gain, business model, and management rather than theme heat alone.
+- [MAPER Investment Research Framework](concepts/MAPERInvestmentResearchFramework.md) — Zhongou Ruibo research checklist covering business model, competitive advantage, growth space, management, and earnings certainty.
+- [Research Index Portfolio Construction / 投研指数化](concepts/ResearchIndexPortfolioConstruction.md) — Process that turns analyst research into industry and personal indexes so research judgment feeds measurable portfolio construction.
 - [Bad Money](concepts/BadMoney.md) — Startup financing pattern where investor behavior, control rights, or harsh terms cost more future optionality than the cash solves.
 - [Liquidation Preference Stack](concepts/LiquidationPreferenceStack.md) — Investor payout layer that can subordinate common shareholders and make future financing or acquisition offers hard to accept.
 - [Inventory-Heavy Consumer Brand Financing](concepts/InventoryHeavyConsumerBrandFinancing.md) — Working-capital problem where physical brand demand requires inventory, packaging, catalogs, and stores before cash returns.

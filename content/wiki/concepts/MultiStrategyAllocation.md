@@ -2,11 +2,13 @@
 title: "Multi-Strategy Allocation"
 type: concept
 tags: [investing, portfolio, allocation, strategy]
-sources: [e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]
-last_updated: 2026-07-08
+sources: [a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]
+last_updated: 2026-08-08
 ---
 
 # Multi-Strategy Allocation
+
+[[a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx]] adds an institution-level strategy-fit version. [[WuWeizhi|吴伟志]] argues that value, growth, and trend approaches can all be valid but should be handled as distinct rule systems; [[ZhongouRuibo|中欧瑞博]] then supports this with sector groups, hedging, quant tools, and research indexes rather than relying on one style label.
 
 Multi-strategy allocation is the [[Mianji]] E145 frame for combining value, momentum, stock-bond allocation, and multi-asset rotation so the investor is not psychologically hostage to one asset or one market regime. In [[e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]], [[ZhangYizhen]] treats this as a way to preserve action capacity: the goal is not to maximize every bull-market segment, but to avoid the kind of drawdown and regret that makes the next decision impossible.
 
@@ -14,6 +16,7 @@ The concept extends [[AssetAllocation]] by adding strategy diversification. Owni
 
 ## Key Claims
 - Different strategies have different failure periods, so portfolio design should include strategy correlation, not only asset correlation.
+- The Wu Weizhi source adds that a multi-strategy setup must prevent style leakage: a trend position should not become a value position simply because it falls.
 - Separating value and momentum accounts can reduce the temptation to override rules with a market story.
 - A trend-following sleeve is a disciplined admission of uncertainty, while a value sleeve keeps attention on expected return and margin of safety.
 - Multi-asset rotation can "borrow time" from markets outside A-shares, reducing emotional dependence on one index.
@@ -27,3 +30,4 @@ The concept extends [[AssetAllocation]] by adding strategy diversification. Owni
 - [[ValueInvesting]], [[MarginOfSafety]], and [[AShareValuationIndicators]] — valuation side of the strategy mix.
 - [[DefensiveDividendAssets]], [[TreasuryDurationRisk]], and [[GoldMonetaryAnchor]] — examples of assets that can reduce single-equity-market dependence.
 - [[DrawdownPsychology]] and [[InvestmentRiskManagement]] — behavioral reason for diversifying strategies.
+- [[InvestmentStrategyFit]], [[ResearchIndexPortfolioConstruction]], [[MAPERInvestmentResearchFramework]], and [[AShareMarketSeasons]] - Wu Weizhi's institutional process and market-season extension.

@@ -2,11 +2,13 @@
 title: "Quantitative Investing"
 type: concept
 tags: [investing, quantitative-finance]
-sources: [169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl]
-last_updated: 2026-08-07
+sources: [a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx, 169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl]
+last_updated: 2026-08-08
 ---
 
 # Quantitative Investing
+
+[[a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx]] adds the discretionary-firm tooling version. [[WuWeizhi|吴伟志]] compares quant to engineering machinery inside [[ZhongouRuibo|中欧瑞博]]: it can widen coverage, speed research, support hedging, and power standalone product lines such as all-weather, index-enhancement, and CTA strategies, but it still needs human research and regime judgment.
 
 Quantitative investing is the episode's nameable method behind [[JimSimons]], [[RenaissanceTechnologies]], and the [[MedallionFund]]. In [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]], it means treating markets as noisy data systems where small, repeatable, statistically grounded signals can be exploited through automation and disciplined risk control.
 
@@ -24,6 +26,7 @@ Quantitative investing is the episode's nameable method behind [[JimSimons]], [[
 
 ## Key Claims
 - The method is less about understanding business stories and more about detecting patterns in time-series data.
+- The Wu Weizhi source adds that quant can also serve discretionary stock-picking organizations as machinery for breadth, speed, hedging, and product structure.
 - A small edge can matter if it is real, repeatable, low-correlation, and traded many times.
 - The approach requires infrastructure that ordinary investors usually lack: proprietary data, compute, research talent, execution, and monitoring.
 - [[QuantitativeOverfitting]] is a core failure mode when researchers confuse historical coincidences with robust signals.
@@ -49,3 +52,4 @@ Quantitative investing is the episode's nameable method behind [[JimSimons]], [[
 - [[QuantitativeDataMoat]], [[ShortTermStatisticalArbitrage]], [[HumanRiskOverride]], and [[AlphaDecay]] — vol.103's historical and organizational extensions.
 - [[InvestmentMastersSeries]], [[InvestmentStyleMap]], [[InvestmentWorldviewFit]], and [[InvestorIdolRisk]] — episode 134's map and non-copyability extension.
 - [[FinanceEntryLevelAICompression]] and [[AICompressedInvestmentResearchAdvantage]] — episode 169's AI-era entry-path update.
+- [[ZhongouRuibo]], [[AIInvestmentResearch]], [[InstitutionalInvestorProcessDiscipline]], and [[ResearchIndexPortfolioConstruction]] - discretionary-firm workflow extension from the Wu Weizhi source.

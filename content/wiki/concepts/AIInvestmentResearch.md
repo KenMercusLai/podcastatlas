@@ -2,11 +2,13 @@
 title: "AI Investment Research"
 type: concept
 tags: [ai, investing, finance]
-sources: [169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]
+sources: [a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx, 169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]
 last_updated: 2026-08-08
 ---
 
 # AI Investment Research
+
+[[a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx]] adds the professional-analyst verification version. [[WuWeizhi|吴伟志]] encourages [[ZhongouRuibo|中欧瑞博]] analysts to use AI for research breadth and speed, but says AI output cannot be treated as truth; analysts must verify logic, common sense, industry details, and market context, and must avoid private-database loops that only reinforce existing views.
 
 AI investment research is the episode's practical answer to whether tools such as [[ChatGPT]] make ordinary people better investors. [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] argues that AI can explain filings, concepts, valuation methods, and risks, but should be used as an assistant or teacher rather than as an autonomous stock picker.
 
@@ -32,6 +34,7 @@ AI investment research is the episode's practical answer to whether tools such a
 
 ## Key Claims
 - AI lowers the cost of understanding finance, but it does not give retail investors institutional-quality data, execution, or risk systems.
+- The Wu Weizhi source adds a professional version of the same boundary: AI can expand coverage and summarize faster, but it still needs analyst verification and public-information cross-checking.
 - The biggest beneficiaries of AI in markets may be institutions that already have data, compute, and talent.
 - Users should ask AI to explain a thesis, pressure-test assumptions, and surface risks rather than directly choose securities.
 - AI can make overconfident investors more dangerous if it produces fluent but weak justifications for trades.
@@ -71,3 +74,4 @@ AI investment research is the episode's practical answer to whether tools such a
 - [[ICEInvestor]], [[AICompressedInvestmentResearchAdvantage]], [[GoodCompanyGoodStock]], and [[InvestmentRiskManagement]] — FengTouQuan episode 139's boundary between research productivity and investable edge.
 - [[FinanceEntryLevelAICompression]], [[IndustryToFinanceCareerPath]], and [[FinanceIndustryRoleSegmentation]] — episode 169's professional finance-career extension.
 - [[WangTianfan]], [[AINativeInvestingWorkflow]], [[ThreeNonVentureTheory]], and [[HumanJudgmentUnderAI]] — venture-capital workflow branch added by the Wang Tianfan source.
+- [[WuWeizhi]], [[ZhongouRuibo]], [[MAPERInvestmentResearchFramework]], and [[ResearchIndexPortfolioConstruction]] - professional research-process branch added by the 面基 source.
