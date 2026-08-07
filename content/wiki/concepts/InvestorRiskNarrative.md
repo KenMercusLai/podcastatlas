@@ -2,8 +2,8 @@
 title: "Investor Risk Narrative"
 type: concept
 tags: [startup, fundraising, venture-capital, narrative]
-sources: [tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, socialradarspod-emmettshear-v2]
-last_updated: 2026-07-23
+sources: [173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, socialradarspod-emmettshear-v2]
+last_updated: 2026-08-07
 ---
 
 # Investor Risk Narrative
@@ -20,6 +20,8 @@ The concept is not about hiding risk. Emmett's retrospective advice is to say wh
 
 [[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds a commercial-aviation version through [[BlakeScholl]] and [[BoomSupersonic]]. Scholl had to make the upside of faster passenger travel legible while answering why an outsider could recruit aerospace talent, why Concorde's failure did not settle the category, why the [[AllBusinessClassSupersonicModel]] could work, and how [[HardTechCustomerIntentProof]], [[XB1SupersonicDemonstrator|XB-1]], and engine ownership could reduce successive risks.
 
+[[173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1]] adds [[DeePhiTech]] as an AI-chip case. [[YaoSong]] says investor rejection taught the team to move from a technology-first story to a market-and-product-backward story: what market exists, what product is needed, and why the technical route can land.
+
 ## Key Claims
 - Strong operating metrics may not be enough if investors cannot see the path from those metrics to a large outcome.
 - Over-indexing on risks can make a founder sound honest but unconvincing when the pitch fails to explain how the risks will be reduced.
@@ -30,6 +32,7 @@ The concept is not about hiding risk. Emmett's retrospective advice is to say wh
 - A pitch can be too current-state focused; investors still need to understand the larger company the product could become.
 - For underrecognized healthcare categories, the risk narrative may have to establish the category's seriousness before investors even evaluate the device path.
 - For commercial aviation, the risk narrative may have to separate a failed historical exemplar from a narrower new business model and a staged technical proof path.
+- For AI chips, the risk narrative may have to translate laboratory credibility into a customer, platform, and acquirer-relevance story investors can underwrite.
 
 ## Connections
 - [[Twitch]], [[EmmettShear]], and [[BessemerVenturePartners]] - source case.
@@ -39,3 +42,4 @@ The concept is not about hiding risk. Emmett's retrospective advice is to say wh
 - [[YinWu]], [[Pulley]], [[FutureOrientedFundraisingPitch]], and [[FounderResilience]] - future-oriented fundraising branch added by the Yin Wu episode.
 - [[SurbhiSarna]], [[NVisionMedical|nVision Medical]], [[SoloFounderFundraisingBias]], [[HardTechFundraising]], and [[CapitalEfficientMedicalDeviceStartup]] - women-health medtech fundraising branch added by The Social Radars.
 - [[BlakeScholl]], [[BoomSupersonic]], [[AllBusinessClassSupersonicModel]], [[HardTechCustomerIntentProof]], [[XB1SupersonicDemonstrator]], and [[CrisisForcedVerticalIntegration]] - commercial-aviation risk narrative added by The Social Radars.
+- [[DeePhiTech]], [[YaoSong]], [[AIChipSpecialization]], [[HardTechFundraising]], and [[StrategicAcquirerFit]] — AI-chip risk narrative added by LateTalk.

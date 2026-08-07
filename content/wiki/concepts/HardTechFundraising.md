@@ -2,8 +2,8 @@
 title: "Hard Tech Fundraising"
 type: concept
 tags: [startup, hard-tech, fundraising, venture-capital]
-sources: [ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final]
-last_updated: 2026-07-24
+sources: [173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final]
+last_updated: 2026-08-07
 ---
 
 # Hard Tech Fundraising
@@ -24,6 +24,8 @@ The source links this directly to [[InvestorRiskNarrative]]. Vogt had to explain
 
 [[ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz]] adds an AI-for-biology version through [[YinglingdianAI]]. [[HaotianOdin]] describes financing decisions around how much money to take and what story to tell, while warning that investors may over-index on big-company background, obvious commercial closure, or fashionable keyword bundles. This makes [[FounderSignalDiscipline]] part of hard-tech fundraising: the founder still needs capital, legal advice, and a legible risk story, but the pitch should not replace the underlying scientific problem.
 
+[[173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1]] adds the Chinese AI-chip version through [[DeePhiTech]]. [[YaoSong]] says the team met roughly 50 institutions before learning that a hard-tech pitch could not rely only on technical possibility. It had to start from market size, product need, and landing path, making [[InvestorRiskNarrative]] central to the financing process.
+
 ## Key Claims
 - Hard-tech founders often need a credible de-risking sequence before they can show familiar software metrics.
 - Repeated rejections can improve the pitch when each objection sharpens the explanation of market size, technical wedge, capital plan, and competitive path.
@@ -36,6 +38,7 @@ The source links this directly to [[InvestorRiskNarrative]]. Vogt had to explain
 - In commercial aviation, customer intent and prototype flight can make a de-risking path legible before certification or airline operation can prove the business.
 - In commercial fusion, investor fit can be as important as valuation because the company needs patience to reject side markets and keep building toward power-plant deployment.
 - In AI-for-biology, fundraising can pressure founders to add pipelines or buzzword adjacency before the platform and validation loop are ready.
+- In AI chips, technical depth may still fail to raise capital if investors cannot see market demand, product sequence, and how the technology becomes a business.
 
 ## Connections
 - [[Cruise]], [[KyleVogt]], and [[YCombinator]] - source case and Demo Day context.
@@ -47,3 +50,4 @@ The source links this directly to [[InvestorRiskNarrative]]. Vogt had to explain
 - [[BlakeScholl]], [[BoomSupersonic]], [[AllBusinessClassSupersonicModel]], [[HardTechCustomerIntentProof]], [[XB1SupersonicDemonstrator]], and [[CrisisForcedVerticalIntegration]] - commercial-aviation case added by The Social Radars.
 - [[DavidKirtley]], [[Helion]], [[MithrilCapital]], [[CapricornInvestmentGroup]], [[CommercialFusionPower]], and [[DeepTechProductFocus]] - commercial-fusion case added by The Social Radars.
 - [[YinglingdianAI]], [[HaotianOdin]], [[AIDrugDiscoveryPlatform]], and [[FounderSignalDiscipline]] - AI-for-biology fundraising case added by Shizilukou Crossing.
+- [[DeePhiTech]], [[YaoSong]], [[WangYu]], [[HanSong]], [[AIChipSpecialization]], and [[StrategicAcquirerFit]] — Chinese AI-chip fundraising case added by LateTalk.

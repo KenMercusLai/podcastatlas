@@ -6390,6 +6390,10 @@ Added source page for a Talk三联 episode with 高一丁 and 苗伟 on 徐光�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-07] ingest | 173: 对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后
+
+Added source page for a LateTalk interview with Yao Song on DeePhi Tech, Xilinx acquisition, Orienspace, Gravity-1, and Striding AI. Created pages for Yao Song, DeePhi Tech, Orienspace, Gravity-1, Striding AI, Wang Yu, Han Song, Xilinx, Matrix Partners China, Physical Intelligence System Stack, Milestone Commercialization, Robot Demo Authenticity, Commercial Rocket Launch Priority, Strategic Acquirer Fit, and Hard-Tech Direction Selection; updated overview and index. No direct contradiction found; the source creates a productive tension between household-general Physical AGI routes and Yao's scene-grounded, full-stack, milestone-commercialization route.
+
 ## [2026-08-07] ingest | 147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥
 
 Added source page for a 张小珺Jùn｜商业访谈录 episode with Shen Yujun on Ant Lingbo's robot-brain-first route, embodied-native foundation models, robot brains versus bodies, real-machine and eGo-style data, simulation limits, VLA/VA/world-model work, and why embodied AI has not reached a robot GPT-1 moment. Created pages for Shen Yujun, Ant Lingbo, Ant Group, Tang Xiao'ou, Chinese University of Hong Kong, Embodied Native Foundation Models, and Robot Data Scale Up; updated overview, index, 张小珺Jùn｜商业访谈录, AI Native Robotics, Embodied AI, Physical AI, Vision Language Action Models, Real Robot Data Strategy, Embodied Data Pyramid, Embodied Robot Data Paradigms, World Model VLA Fusion, World Models, World Action Models, Mixture of Experts, Tsinghua University, and SenseTime. No direct contradiction found; the source adds a productive tension with simulation-centered and layered-manipulation routes by arguing that real-machine-heavy data scale-up remains the missing condition for general robot brains.
@@ -6713,6 +6717,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] ingest | A firm Andy: what are new British PM's plans?
 
 Added source page for a The Intelligence episode on Andy Burnham's first governing choices as British prime minister, Syria's postwar reconstruction finance and investor-confidence problem, and Greenmarket's 50-year role in New York City food urbanism. Created pages for Rachel Reeves, Shabana Mahmood, Hugo Jye, Gareth Brown, Annie Crabill, Ron Benaghi, Barry Benepe, Bob Lewis, Syria, Bashar al-Assad, ISIS, Ahmad al-Sharah, Qatar, New York City, Union Square, Greenmarket, GrowNYC, Number 10 North, Manchester, Greater Manchester, NHS, Devolution As Governing Project, Postwar Reconstruction Finance, and Farmers Market Urbanism; updated overview, index, Andy Burnham, Keir Starmer, Labour Party (UK), United Kingdom, Labour Leadership Crisis, Political Delivery Gap, Rosie Bloor, Saudi Arabia, United Arab Emirates, World Bank, Gulf Stability Risk, Local Market Proof, Restaurant Supply Chain Localization, Wes Streeting, Ed Miliband, The Intelligence, Economist Podcasts, and Donald Trump. No direct contradiction found; the source extends the Starmer-to-Burnham timeline while qualifying Burnham's confidence with unresolved fiscal, migration, devolution, and public-service delivery constraints.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 

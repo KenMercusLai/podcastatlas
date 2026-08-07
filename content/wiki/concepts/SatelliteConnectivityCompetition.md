@@ -2,8 +2,8 @@
 title: "Satellite Connectivity Competition"
 type: concept
 tags: [satellite, connectivity, competition, infrastructure]
-sources: [tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # Satellite Connectivity Competition
@@ -12,15 +12,19 @@ Satellite connectivity competition is the market and public-interest dynamic cre
 
 The source puts [[SpaceX]] in the dominant position and treats Amazon's acquisition as a possible way to close the gap over time. The concept therefore links ordinary competition policy to [[DirectToDeviceSatelliteConnectivity]], rural or hard-to-reach internet access, and the digital divide.
 
+[[173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1]] adds the launch-capacity side through [[Orienspace]]. [[YaoSong]]'s commercial-space thesis assumes China will need satellite-internet or future 6G-like orbital infrastructure, which makes rocket reliability, carrying capacity, and timing part of the connectivity competition rather than a separate upstream market.
+
 ## Key Claims
 - Satellite connectivity markets can affect public access, not only company revenue.
 - Dominant early providers can set price and availability expectations unless other networks gain scale.
 - Acquisitions can be strategic when they buy spectrum, satellites, device relationships, or operating knowledge.
 - More providers may improve availability, but the source does not establish how fast that improvement would arrive.
 - Satellite connectivity should be evaluated as part of a mixed network system that also includes mobile, fiber, and local infrastructure.
+- Launch companies matter to connectivity competition when constellation deployment depends on enough reliable and timely access to orbit.
 
 ## Connections
 - [[Amazon]], [[Globalstar]], [[SpaceX]], and [[Starlink]] - company cluster.
 - [[DirectToDeviceSatelliteConnectivity]] - product and infrastructure surface.
 - [[AfricaConnectivityInfrastructure]] - adjacent mixed-provider connectivity frame.
 - [[InternetBlackoutPublicSafetyRisk]] - public-safety branch where lack of internet access can have immediate consequences.
+- [[Orienspace]], [[Gravity1Rocket]], [[CommercialRocketLaunchPriority]], and [[SpaceEconomyInfrastructure]] — launch-capacity branch added by episode 173.

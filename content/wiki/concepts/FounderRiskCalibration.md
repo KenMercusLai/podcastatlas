@@ -2,8 +2,8 @@
 title: "Founder Risk Calibration"
 type: concept
 tags: [startups, founders, risk, judgment]
-sources: [tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]
-last_updated: 2026-07-12
+sources: [173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]
+last_updated: 2026-08-07
 ---
 
 # Founder Risk Calibration
@@ -14,6 +14,8 @@ The hosts connect this to YC's idea of being formidable. [[JessicaLivingston]] d
 
 [[tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly]] adds a company-operating version through [[KashishGupta]] and [[Hightouch]]. Gupta argues that a founder can sometimes take risks employees cannot because the founder has broader customer, market, and company context and can absorb being wrong. His example is doubling sales headcount before historical metrics fully proved the decision, based on direct sales exposure and qualitative demand signals.
 
+[[173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1]] adds [[YaoSong]]'s continuous-founder version. He says young founders can go all in with time, energy, and attention, but should not sell a home or destroy every fallback option. His "eight parts offense, two parts defense" stance turns risk calibration into a survival-capacity question across multiple hard-tech attempts.
+
 ## Key Claims
 - Social prestige can miscalibrate risk by making safe-looking paths feel safer than they are for the person choosing them.
 - Startup risk should include the cost of not learning, not meeting a high-agency peer group, and not entering the work one actually wants to do.
@@ -21,6 +23,7 @@ The hosts connect this to YC's idea of being formidable. [[JessicaLivingston]] d
 - The same pattern can later appear as recruiting ambitious companies, defending founders, or choosing a governance structure under uncertainty.
 - In a scaling company, calibrated risk can mean acting from customer and frontline evidence before lagging metrics fully confirm the opportunity.
 - The founder's distinctive role is not being always right; it is taking the risks that others are structurally encouraged to hedge.
+- For continuous hard-tech founders, calibrated risk can mean preserving enough personal and financial runway to keep building after one attempt, exit, or direction change.
 
 ## Connections
 - [[SamAltman]], [[GoldmanSachs]], [[Looped]], and [[YCombinator]] - first source case.
@@ -28,3 +31,4 @@ The hosts connect this to YC's idea of being formidable. [[JessicaLivingston]] d
 - [[FounderProductFit]], [[FounderMotivationEvolution]], and [[StartupHighBetaBet]] - adjacent founder judgment concepts.
 - [[StartupGovernance]] - governance choices also encode risk assumptions.
 - [[KashishGupta]], [[Hightouch]], [[FounderRiskTaking]], and [[CustomerEvidenceStrategy]] - company-operating risk case added by the Kashish Gupta episode.
+- [[YaoSong]], [[HardTechDirectionSelection]], [[DeePhiTech]], [[Orienspace]], and [[StridingAI]] — continuous hard-tech risk case added by LateTalk.

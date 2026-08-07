@@ -2,8 +2,8 @@
 title: "Founder Motivation Evolution"
 type: concept
 tags: [startups, founder-psychology, leadership]
-sources: [tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarspod-brianarmstrong-final]
-last_updated: 2026-08-05
+sources: [173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, tsr-s5-justinkan-v2-audio-tsr-s5-justinkan-v2-audio, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarspod-brianarmstrong-final]
+last_updated: 2026-08-07
 ---
 
 # Founder Motivation Evolution
@@ -26,6 +26,8 @@ Armstrong says he was filled with self-doubt early, feared disappointing his par
 
 [[tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1]] adds [[JohnCoogan]] as a role-selection version. Coogan leaves [[Soylent]] when the work becomes more about retail execution, later finds [[FoundersFund]] investment work interesting but not a strong fit, and then moves toward [[TBPN]], where daily live conversation gives him faster feedback and a more motivating operating rhythm.
 
+[[173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1]] adds [[YaoSong]] as a post-exit hard-tech version. After [[DeePhiTech]] was acquired by [[Xilinx]], Yao says the initial happiness lasted only briefly before he entered a gray period because large-company routine did not fit him and the first mission had ended. His later path through [[MatrixPartnersChina]], [[Orienspace]], and [[StridingAI]] shows motivation being rebuilt around new hard-tech problems rather than around exit status.
+
 ## Key Claims
 - Early insecurity can help a founder start, but it is usually too brittle to sustain long-term leadership.
 - External validation such as a first investor check can matter psychologically, not only financially.
@@ -38,6 +40,7 @@ Armstrong says he was filled with self-doubt early, feared disappointing his par
 - Motivation selection can precede qualification: a founder may deliberately choose a problem they care about enough to learn into, instead of only choosing from resume-matched ideas.
 - A major exit does not settle motivation; comparison and external approval can reappear unless the founder rebuilds a more intrinsic test for worthwhile work.
 - Motivation can evolve through rejecting prestigious roles that do not fit the founder's preferred decision tempo or daily craft.
+- A successful hard-tech exit can remove rather than complete the founder's mission, forcing motivation to be rebuilt through a new direction search.
 
 ## Connections
 - [[BrianArmstrong]], [[Coinbase]], [[YCombinator]], and [[Airbnb]] - source case.
@@ -50,3 +53,4 @@ Armstrong says he was filled with self-doubt early, feared disappointing his par
 - [[BlakeScholl]], [[BarcodeHero]], [[BoomSupersonic]], and [[FounderProductFit]] - motivation-selection branch added by The Social Radars.
 - [[JustinKan]], [[Twitch]], [[Atrium]], and [[ServiceProductization]] - post-exit external-approval and intrinsic-motivation branch added by The Social Radars.
 - [[JohnCoogan]], [[Soylent]], [[FoundersFund]], [[TBPN]], and [[DailyLiveMediaCadence]] - role-selection and media-cadence branch added by The Social Radars.
+- [[YaoSong]], [[DeePhiTech]], [[Xilinx]], [[MatrixPartnersChina]], [[Orienspace]], and [[StridingAI]] — post-exit hard-tech motivation branch added by LateTalk.

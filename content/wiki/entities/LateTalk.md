@@ -2,8 +2,8 @@
 title: "LateTalk"
 type: entity
 tags: [podcast, media]
-sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
-last_updated: 2026-07-17
+sources: [173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
+last_updated: 2026-08-07
 ---
 
 # LateTalk
@@ -20,6 +20,8 @@ The Q2 2026 AI-quarter source adds [[HenryYin]] as a guest and shifts from embod
 
 [[momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]] adds an IPO-era founder interview with [[CaoXudong]] of [[Momenta]]. It connects LateTalk's embodied-AI thread to [[AutonomousDrivingDataFlywheel]], [[WorldModels]], [[PhysicalAI]], and [[LowCostShortCycleValidation]], using autonomous-driving commercialization as the bridge toward robotics.
 
+[[173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1]] adds [[YaoSong]] as a continuous hard-tech founder case. The episode ties LateTalk's AI and embodied-intelligence coverage back to [[DeePhiTech]], [[Xilinx]], [[Orienspace]], [[Gravity1Rocket]], and [[StridingAI]], making the show a place where Chinese AI-chip, commercial-space, and physical-intelligence routes can be compared through one founder's operating history.
+
 ## Connections
 - [[ChenZhePeter]] and [[AlphaEast]] — recurring guest and investment-firm context for the quarterly review.
 - [[EmbodiedAI]], [[WorldModels]], and [[HumanoidRobotCommercialization]] — main subject areas covered by the episode.
@@ -28,3 +30,4 @@ The Q2 2026 AI-quarter source adds [[HenryYin]] as a guest and shifts from embod
 - [[YangLingfeng]], [[YangcongXueyuan]], [[SelfDirectedLearning]], and [[AIShortcutRisk]] — education and AI-learning context.
 - [[HanYang]], [[FuyouTiandi]], and [[MediaFormConstraint]] — earlier-show context from the Fuyou Tiandi program statement.
 - [[CaoXudong]], [[Momenta]], [[AutonomousDrivingDataFlywheel]], and [[LowCostShortCycleValidation]] — IPO-era autonomous-driving founder interview.
+- [[YaoSong]], [[DeePhiTech]], [[Orienspace]], [[StridingAI]], and [[PhysicalIntelligenceSystemStack]] — hard-tech founder and physical-intelligence system-stack interview.

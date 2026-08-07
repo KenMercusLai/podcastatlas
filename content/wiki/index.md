@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [173: 对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后](sources/173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1.md) — LateTalk interview with Yao Song on DeePhi Tech, Xilinx acquisition, Orienspace, Gravity-1, Striding AI, physical-intelligence system stacks, VLA bottlenecks, robot demo authenticity, and hard-tech founder risk calibration.
 - [可以给你的 Agent 发一点零花钱了｜ S10E22](sources/keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311.md) — What's Next episode with Patrick Wu of Clink and Gao Ning on agent payment infrastructure, agentic commerce, small-budget agent wallets, Visa's demo, stablecoins, merchant readiness, and creator monetization in agent-led interfaces.
 - [Hard cedar: Lebanon seeks Trump's help](sources/hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5.md) — The Intelligence episode on Lebanon seeking Trump administration help against Hezbollah, Red Bull's asset-light sports-media brand model, and census evidence that wealthy men are no longer especially more likely to marry much younger women.
 - [A firm Andy: what are new British PM's plans?](sources/a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c.md) — The Intelligence episode on Andy Burnham's first plans as British prime minister, Syria's reconstruction finance problem, and Greenmarket's role in New York City food urbanism.
@@ -841,6 +842,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Yao Song / 姚颂](entities/YaoSong.md) — Continuous hard-tech founder behind DeePhi Tech, Orienspace, and Striding AI in the LateTalk episode.
+- [DeePhi Tech / 深鉴科技](entities/DeePhiTech.md) — Tsinghua-origin AI-chip startup co-founded by Yao Song and later acquired by Xilinx.
+- [Orienspace / 东方空间](entities/Orienspace.md) — Chinese commercial-space company in Yao Song's second startup phase, tied to satellite-internet launch demand.
+- [Gravity-1 Rocket / 引力一号](entities/Gravity1Rocket.md) — Orienspace rocket highlighted for its successful early-2024 sea launch and public livestream.
+- [Striding AI / 正行创新](entities/StridingAI.md) — Yao Song's physical-intelligence startup focused on full-stack robot systems and scenario-grounded deployment.
+- [Wang Yu / 汪玉](entities/WangYu.md) — Tsinghua professor and DeePhi technical-origin figure who later reconnects with Yao's Striding AI work.
+- [Han Song / 韩松](entities/HanSong.md) — Algorithm-compression researcher tied to DeePhi Tech's AI-chip acceleration origin.
+- [Xilinx / 赛灵思](entities/Xilinx.md) — Strategic acquirer of DeePhi Tech, framed as needing software, algorithm, and solution capability.
+- [Matrix Partners China / 经纬中国](entities/MatrixPartnersChina.md) — Venture firm where Yao Song worked part-time while searching for his post-DeePhi direction.
 - [Joseph Aoun](entities/JosephAoun.md) — Lebanese president seeking U.S. support for the army, pressure on Israel, and investment to rebuild state credibility.
 - [Nawaf Salam](entities/NawafSalam.md) — Lebanese prime minister paired with Joseph Aoun in the source's new-leadership and reform window.
 - [Amer Bisat](entities/AmerBisat.md) — Lebanese economy minister cited for war-damage and recession estimates in the Lebanon segment.
@@ -5747,6 +5757,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Physical Intelligence System Stack](concepts/PhysicalIntelligenceSystemStack.md) — Yao Song's definition of physical intelligence as data, compute, models, software, hardware, scenes, solutions, and remote systems working together.
+- [Milestone Commercialization](concepts/MilestoneCommercialization.md) — Discipline of making each technical milestone generate some commercial value rather than waiting for final general capability.
+- [Robot Demo Authenticity](concepts/RobotDemoAuthenticity.md) — Trust boundary requiring robot videos to label speed changes, teleoperation, remote takeover, and autonomy status.
+- [Commercial Rocket Launch Priority](concepts/CommercialRocketLaunchPriority.md) — Orienspace ordering of reliability, payload capacity, market speed, and then cost.
+- [Strategic Acquirer Fit](concepts/StrategicAcquirerFit.md) — Acquisition logic where a startup's capability must become strategically important to a buyer's transition.
+- [Hard-Tech Direction Selection](concepts/HardTechDirectionSelection.md) — Founder judgment pattern for choosing hard-tech fields by social importance, technical reachability, timing, and fit.
 - [State Credibility Against Militia](concepts/StateCredibilityAgainstMilitia.md) — Strategy of weakening an armed group's support by making the state visibly more protective, useful, and capable.
 - [Banking Loss Allocation Politics](concepts/BankingLossAllocationPolitics.md) — Distributional fight over who absorbs financial-system losses after a collapse, blocking reform and reconstruction finance.
 - [Asset-Light Brand Machine](concepts/AssetLightBrandMachine.md) — Consumer-company model where brand, media, sports, and distribution carry value while production remains outsourced.

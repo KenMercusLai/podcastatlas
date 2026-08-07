@@ -2,8 +2,8 @@
 title: "Physical World Data Flywheel"
 type: concept
 tags: [robotics, data, embodied-ai]
-sources: [cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
-last_updated: 2026-07-17
+sources: [173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
+last_updated: 2026-08-07
 ---
 
 # Physical World Data Flywheel
@@ -20,6 +20,8 @@ Physical world data flywheel is [[GaoJiyang]]'s central moat argument for [[Xing
 
 [[cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53]] adds a tactile-sensing version through [[YimuTechnology]]. [[EricLiZhiqiang]] uses [[Tesla]] FSD as an analogy for robots that first reach usable capability, deploy in bounded low-risk scenes, collect data, and continue improving through post-training and reinforcement learning. In his account, [[TactileSensing]] can make the flywheel richer because it captures force, slip, texture, and deformation data that vision misses.
 
+[[173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1]] adds [[StridingAI]]'s scenario-partner version through [[YaoSong]]. The source says [[CPGroup]] can provide retail scenes such as convenience stores and supermarkets, while another ODM partner can provide 3C manufacturing scenes. The data flywheel therefore begins with business-scenario access rather than with a broad consumer fleet.
+
 ## Key Claims
 - A robot body is not only a carrier for algorithms; it is the data-collection endpoint and the commercial good being sold.
 - The data flywheel cannot be built purely from a detached "brain" if the company does not control enough of the robot, deployment, and customer loop.
@@ -29,6 +31,7 @@ Physical world data flywheel is [[GaoJiyang]]'s central moat argument for [[Xing
 - A practical flywheel may begin with bounded industrial scenes and supervised operation rather than with unsupervised fully autonomous robots.
 - Tactile flywheels may start in industrial assembly, insertion, and medical manipulation because those scenes expose repeated force-feedback tasks with clearer boundaries than home robots.
 - Autonomous driving can act as a prior physical-world flywheel for robot strategy when the model, validation, and deployment stack can be reused beyond cars.
+- Retail and manufacturing partners can become data-flywheel anchors when they supply repeated tasks, deployment permission, and commercial feedback before broad general robots exist.
 
 ## Connections
 - [[Xinghaitu]] and [[GaoJiyang]] — source company and founder.
@@ -41,3 +44,4 @@ Physical world data flywheel is [[GaoJiyang]]'s central moat argument for [[Xing
 - [[RobotLogisticsSorting]], [[RobotTeleoperationAndRemoteTakeover]], [[FigureAI]], and [[XingdongEra]] — industrial scene and supervision loop added by the LateTalk source.
 - [[YimuTechnology]], [[TactileSensing]], [[TouchNet]], and [[TactileTransformerEncoder]] — tactile-data and model-interface layer added by the What's Next source.
 - [[Momenta]], [[CaoXudong]], [[AutonomousDrivingDataFlywheel]], and [[WorldModels]] — autonomous-driving-to-robotics version added by LateTalk.
+- [[StridingAI]], [[YaoSong]], [[CPGroup]], [[ProductionRobotScenarioSelection]], and [[MilestoneCommercialization]] — scenario-partner data loop added by episode 173.
