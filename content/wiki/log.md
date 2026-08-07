@@ -7221,3 +7221,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 10,272 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-08] ingest | Taken littorally: Spain’s sudden crisis in Ceuta
+
+Added source page for a The Intelligence episode on Ceuta's migration surge, Morocco-Spain-Western Sahara diplomacy, India's falling-object public-safety failures, and AI writing detection. Created pages for Ceuta, Morocco, Algeria, Western Sahara, Polisario Front, Brahim Ghali, Pedro Sanchez, Michael Reid, Giorgia Meloni, Pangram, Migration Weaponization, Border Legal Signal, Falling Object Public Safety, Infrastructure Accountability Gap, and AI Writing Detection; updated overview, index, The Intelligence, Economist Podcasts, Spain, India, Schengen Area, European Union, Jason Palmer, Leo Mirani, Caitlin Talbot, Immigration Backlash Cycle, AI Writing Pedagogy, and AI Detector Bias. No direct contradiction found; the source extends the wiki's migration politics branch into Morocco-Spain border leverage and qualifies AI-writing policy by separating opaque detector scores from explainable stylistic analysis and editing.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 10,288 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or API key is configured in the shell. Report returned in-session; `wiki/lint-report.md` was not saved.

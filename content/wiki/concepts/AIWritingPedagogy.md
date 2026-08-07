@@ -2,11 +2,13 @@
 title: "AI Writing Pedagogy"
 type: concept
 tags: [ai, writing, education, pedagogy]
-sources: [tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]
+last_updated: 2026-08-08
 ---
 
 # AI Writing Pedagogy
+
+[[taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]] adds a media-editing extension through [[CaitlinTalbot]]'s [[AIWritingDetection]] segment. The source reinforces the pedagogical point that detector scores are weak proof by themselves; useful AI-writing literacy depends on reading style, audience, punctuation, word choice, structure, and revision quality.
 
 AI writing pedagogy is the source's classroom approach for teaching students to use, inspect, and exceed AI text systems rather than only hide from them or outsource to them. In [[tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]], [[ChristyGerdhary]] argues that students need to be "better than a robot" by understanding what AI can and cannot do.
 
@@ -20,6 +22,7 @@ The concept extends [[FirstDraftThinking]] without duplicating it. First draft t
 - Assignments should ask whether a final artifact carries personal memory, embodied making, local language, or material form that AI cannot supply alone.
 - Writing instruction may need to move beyond narrow school essay forms toward communication formats students meet outside the classroom.
 - AI writing pedagogy works poorly if paired only with surveillance or suspicion; it needs care, transparency, and [[AIDetectorBias]] awareness.
+- The Economist source extends the idea beyond classrooms: good writing requires editing judgment and distinctive style, not only avoiding detectable AI traces.
 
 ## Connections
 - [[ChristyGerdhary]], [[BabsonCollege]], and [[TheGenerator]] - source speaker and institutional setting.
@@ -27,3 +30,4 @@ The concept extends [[FirstDraftThinking]] without duplicating it. First draft t
 - [[AIDetectorBias]] - fairness risk when AI writing is policed only through detectors.
 - [[FirstDraftThinking]], [[AIShortcutRisk]], [[AIAsTutor]], and [[LearningExperienceDesign]] - adjacent education concepts.
 - [[AILiteracyAgainstWorship]] and [[HumanJudgmentUnderAI]] - broader literacy and judgment frames.
+- [[CaitlinTalbot]], [[AIWritingDetection]], [[Pangram]], [[ChatGPT]], [[Claude]], [[Gemini]], and [[Grok]] - detector and stylistic-analysis branch added by The Intelligence.

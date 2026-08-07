@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Taken littorally: Spain’s sudden crisis in Ceuta](sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7.md) — The Intelligence episode on Ceuta migration surge, Morocco-Spain-Western Sahara diplomacy, India's falling-object public-safety failures, and AI writing detection.
 - [A股的春夏秋冬：种树、种粮、种菜](sources/a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx.md) — 面基 episode with Wu Weizhi on A-share market seasons, tree/grain/vegetable company taxonomy, strategy fit, AI-theme trading boundaries, MAPER research, and Zhongou Ruibo's investment process.
 - [Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It](sources/serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66.md) — How I Built This episode on Serena & Lily's premium nursery-to-home brand path, wholesale orders, DTC catalog growth, investor conflict, bad money, and liquidation-preference constraints.
 - [EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛](sources/ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx.md) — 硬地骇客 episode with Liu Kefan on solo-builder internal friction, try-catch-finally self-management, falsifiable product hypotheses, AI task decomposition, human-callable MCP workflows, and shutdown rituals.
@@ -902,6 +903,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ceuta](entities/Ceuta.md) — Spanish enclave where a court ruling, Moroccan border pressure, and EU migration politics converged.
+- [Morocco](entities/Morocco.md) — State whose border cooperation around Ceuta is framed as possible migration leverage against Spain and the EU.
+- [Algeria](entities/Algeria.md) — Morocco rival angered by Spain's Western Sahara shift, making Ceuta part of triangular diplomacy.
+- [Western Sahara](entities/WesternSahara.md) — Disputed territory behind Spain's shift toward Morocco's autonomy plan and Algerian anger.
+- [Polisario Front](entities/PolisarioFront.md) — Western Sahara movement whose leader's 2021 Spanish medical treatment anchors the Ceuta precedent.
+- [Brahim Ghali](entities/BrahimGhali.md) — Polisario Front leader whose 2021 treatment in Spain triggered Morocco's earlier Ceuta pressure.
+- [Pedro Sanchez](entities/PedroSanchez.md) — Spanish prime minister under pressure over Western Sahara policy, migrant amnesty, and Ceuta response.
+- [Michael Reid](entities/MichaelReid.md) — The Intelligence participant explaining Ceuta's court ruling, Morocco precedent, and Western Sahara backdrop.
+- [Giorgia Meloni](entities/GiorgiaMeloni.md) — European leader whose call to suspend Spain from Schengen made the Ceuta crisis an EU dispute.
+- [Pangram](entities/Pangram.md) — AI-writing detector named as an example of tool outputs that can be false-positive and opaque.
 - [吴伟志 / Wu Weizhi](entities/WuWeizhi.md) — Zhongou Ruibo investor explaining A-share market seasons, company taxonomy, strategy fit, and institution-level research process.
 - [中欧瑞博 / Zhongou Ruibo](entities/ZhongouRuibo.md) — Investment firm context for Wu Weizhi's A-share framework, investment committee, hedging, quant, AI research, MAPER, and research-index process.
 - [Serena & Lily](entities/SerenaAndLily.md) — Premium home brand co-founded by Lily Kanter and Serena Dugan, used as a case in inventory-heavy consumer-brand financing, DTC control, and bad money.
@@ -6157,6 +6168,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Migration Weaponization](concepts/MigrationWeaponization.md) — Use of cross-border migrant flows as diplomatic pressure, grounded in Morocco-Spain Ceuta tensions.
+- [Border Legal Signal](concepts/BorderLegalSignal.md) — Court ruling or enforcement interpretation that reshapes migrant behavior at a border.
+- [Falling Object Public Safety](concepts/FallingObjectPublicSafety.md) — India's lethal pattern of billboards, roofs, trees, structures, and other objects falling under weak safety governance.
+- [Infrastructure Accountability Gap](concepts/InfrastructureAccountabilityGap.md) — Gap between formal safety rules and actual prevention through enforcement, maintenance, and data.
+- [AI Writing Detection](concepts/AIWritingDetection.md) — Identifying AI prose through detectors, stylistic traces, and editorial judgment.
 - [A-Share Market Seasons / A股四季框架](concepts/AShareMarketSeasons.md) — Wu Weizhi's spring-summer-autumn-winter market-temperature frame for A-share exposure, sector cycles, buying speed, and selling discipline.
 - [A-Share Planting Company Taxonomy / 种树种粮种菜](concepts/ASharePlantingCompanyTaxonomy.md) — A-share company-type metaphor separating high-upside growth trees, high-win-rate value grains, and tactical vegetables before strategy selection.
 - [Investment Strategy Fit / 投资策略适配](concepts/InvestmentStrategyFit.md) — Discipline of matching entry reason, evidence, time horizon, sizing, and exit rule so value, growth, and trend methods do not overwrite one another.

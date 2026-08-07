@@ -2,11 +2,13 @@
 title: "Schengen Area / 申根区"
 type: entity
 tags: [institution, travel, europe, borders]
-sources: [139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]
-last_updated: 2026-08-06
+sources: [taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, 139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]
+last_updated: 2026-08-08
 ---
 
 # Schengen Area / 申根区
+
+[[taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]] adds Schengen as a political pressure point after the [[Ceuta]] migration surge. The source says [[GiorgiaMeloni]] called for [[Spain]] to be suspended from Schengen, angering the Spanish government and making the enclave crisis a test of European border solidarity.
 
 The Schengen Area / 申根区 appears in [[139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]] through [[FeiQizhulou|费]]'s experience of visa applications and the social meaning of European mobility. The source contrasts the ease of movement for many European passport holders with the paperwork and pride attached to obtaining a multi-year Schengen visa as a non-European traveler.
 
@@ -17,3 +19,4 @@ The entity anchors [[PassportMobilityInequality]]. In the episode, the feeling t
 - [[UnitedKingdom]] and [[Brexit]] - comparison case after Britain's exit from EU free movement.
 - [[PassportMobilityInequality]] and [[EliteCosmopolitanMobility]] - main concepts built from the source.
 - [[TheWorldOfYesterday]] - earlier passport and permit complaints used as historical mirror.
+- [[Ceuta]], [[Spain]], [[GiorgiaMeloni]], [[EuropeanUnion]], and [[ImmigrationBacklashCycle]] - border-politics branch added by The Intelligence.

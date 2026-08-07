@@ -2055,6 +2055,10 @@
     "title": "AI Workforce Monitoring",
     "url": "/wiki/concepts/aiworkforcemonitoring/"
   },
+  "AIWritingDetection": {
+    "title": "AI Writing Detection",
+    "url": "/wiki/concepts/aiwritingdetection/"
+  },
   "AIWritingPedagogy": {
     "title": "AI Writing Pedagogy",
     "url": "/wiki/concepts/aiwritingpedagogy/"
@@ -3078,6 +3082,10 @@
   "AlfredMathewson": {
     "title": "Alfred Mathewson",
     "url": "/wiki/entities/alfredmathewson/"
+  },
+  "Algeria": {
+    "title": "Algeria",
+    "url": "/wiki/entities/algeria/"
   },
   "AlgorithmAversion": {
     "title": "Algorithm Aversion",
@@ -5639,6 +5647,10 @@
     "title": "郑宝拉 / Bora Chung",
     "url": "/wiki/entities/borachung/"
   },
+  "BorderLegalSignal": {
+    "title": "Border Legal Signal",
+    "url": "/wiki/concepts/borderlegalsignal/"
+  },
   "BorderRegionCurrencyCredit": {
     "title": "Border Region Currency Credit",
     "url": "/wiki/concepts/borderregioncurrencycredit/"
@@ -5714,6 +5726,10 @@
   "BradenResidencyFounder": {
     "title": "Braden (The Residency founder)",
     "url": "/wiki/entities/bradenresidencyfounder/"
+  },
+  "BrahimGhali": {
+    "title": "Brahim Ghali",
+    "url": "/wiki/entities/brahimghali/"
   },
   "BrandControlledAuthentication": {
     "title": "Brand-Controlled Authentication",
@@ -6798,6 +6814,10 @@
   "CesareBorgia": {
     "title": "Cesare Borgia / 凯撒·波吉亚",
     "url": "/wiki/entities/cesareborgia/"
+  },
+  "Ceuta": {
+    "title": "Ceuta",
+    "url": "/wiki/entities/ceuta/"
   },
   "ChaSheng": {
     "title": "查晟 / Cha Sheng",
@@ -12331,6 +12351,10 @@
     "title": "Falcon 9",
     "url": "/wiki/entities/falcon9/"
   },
+  "FallingObjectPublicSafety": {
+    "title": "Falling Object Public Safety",
+    "url": "/wiki/concepts/fallingobjectpublicsafety/"
+  },
   "FallopianTubeAccessDiagnostics": {
     "title": "Fallopian Tube Access Diagnostics",
     "url": "/wiki/concepts/fallopiantubeaccessdiagnostics/"
@@ -14614,6 +14638,10 @@
   "GinoWickman": {
     "title": "Gino Wickman",
     "url": "/wiki/entities/ginowickman/"
+  },
+  "GiorgiaMeloni": {
+    "title": "Giorgia Meloni",
+    "url": "/wiki/entities/giorgiameloni/"
   },
   "GiovanniAldini": {
     "title": "Giovanni Aldini / 乔瓦尼·阿尔迪尼",
@@ -17254,6 +17282,10 @@
   "Infract": {
     "title": "Infract",
     "url": "/wiki/entities/infract/"
+  },
+  "InfrastructureAccountabilityGap": {
+    "title": "Infrastructure Accountability Gap",
+    "url": "/wiki/concepts/infrastructureaccountabilitygap/"
   },
   "InfrastructureLaborBurden": {
     "title": "Infrastructure Labor Burden",
@@ -22971,6 +23003,10 @@
     "title": "Michael Mattioli",
     "url": "/wiki/entities/michaelmattioli/"
   },
+  "MichaelReid": {
+    "title": "Michael Reid",
+    "url": "/wiki/entities/michaelreid/"
+  },
   "MichaelSchumacher": {
     "title": "Michael Schumacher",
     "url": "/wiki/entities/michaelschumacher/"
@@ -23082,6 +23118,10 @@
   "MigrantFamilyRemittanceObligation": {
     "title": "Migrant Family Remittance Obligation / 移民家庭汇款义务",
     "url": "/wiki/concepts/migrantfamilyremittanceobligation/"
+  },
+  "MigrationWeaponization": {
+    "title": "Migration Weaponization",
+    "url": "/wiki/concepts/migrationweaponization/"
   },
   "MigratoryBeekeeperLivelihood": {
     "title": "Migratory Beekeeper Livelihood / 转场蜂农生计",
@@ -23666,6 +23706,10 @@
   "MoriOgai": {
     "title": "Mori Ogai / 森鸥外",
     "url": "/wiki/entities/moriogai/"
+  },
+  "Morocco": {
+    "title": "Morocco",
+    "url": "/wiki/entities/morocco/"
   },
   "MortgageApproval": {
     "title": "Mortgage Approval",
@@ -25907,6 +25951,10 @@
     "title": "庞春梅 / Pang Chunmei",
     "url": "/wiki/entities/pangchunmei/"
   },
+  "Pangram": {
+    "title": "Pangram",
+    "url": "/wiki/entities/pangram/"
+  },
   "PaoWaimai": {
     "title": "《跑外卖：一个女骑手的世界》",
     "url": "/wiki/entities/paowaimai/"
@@ -26202,6 +26250,10 @@
   "PedestrianProject": {
     "title": "Pedestrian Project",
     "url": "/wiki/entities/pedestrianproject/"
+  },
+  "PedroSanchez": {
+    "title": "Pedro Sanchez",
+    "url": "/wiki/entities/pedrosanchez/"
   },
   "PeerToPeerMarketplaceTrust": {
     "title": "Peer-to-Peer Marketplace Trust",
@@ -26942,6 +26994,10 @@
   "PolicyDrivenMarketRally": {
     "title": "Policy-Driven Market Rally",
     "url": "/wiki/concepts/policydrivenmarketrally/"
+  },
+  "PolisarioFront": {
+    "title": "Polisario Front",
+    "url": "/wiki/entities/polisariofront/"
   },
   "PoliticalAssassinationEthics": {
     "title": "Political Assassination Ethics / 政治刺杀伦理",
@@ -36395,6 +36451,10 @@
     "title": "Western Han dynasty / 西汉",
     "url": "/wiki/entities/westernhandynasty/"
   },
+  "WesternSahara": {
+    "title": "Western Sahara",
+    "url": "/wiki/entities/westernsahara/"
+  },
   "WestsideFederationForSeniorAndSupportiveHousing": {
     "title": "Westside Federation for Senior and Supportive Housing",
     "url": "/wiki/entities/westsidefederationforseniorandsupportivehousing/"
@@ -39998,6 +40058,10 @@
   "ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec": {
     "title": "她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO",
     "url": "/wiki/sources/ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec/"
+  },
+  "taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7": {
+    "title": "Taken littorally: Spain’s sudden crisis in Ceuta",
+    "url": "/wiki/sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7/"
   },
   "tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3": {
     "title": "探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐",

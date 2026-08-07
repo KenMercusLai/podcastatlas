@@ -2,11 +2,13 @@
 title: "Jason Palmer"
 type: entity
 tags: [person, host, media]
-sources: [the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]
+sources: [taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]
 last_updated: 2026-08-08
 ---
 
 # Jason Palmer
+
+[[taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]] adds another Palmer-introduced sequence: the [[Ceuta]] migration surge, [[India]]'s falling-object deaths, and [[AIWritingDetection]].
 
 Jason Palmer is the host voice introducing [[the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]] for [[TheIntelligence]]. The episode has him preview three topics: [[AungSanSuuKyi]]'s uncertain status, [[Turkey]]'s wartime economic opportunity, and sleep-duration science.
 
@@ -19,3 +21,4 @@ His role in the wiki is show context rather than substantive analysis. The page 
 - [[AungSanSuuKyi]], [[Turkey]], and [[SleepDurationUShape]] - segment themes he introduces.
 - [[ProofOfLifeDiplomacy]], [[WarSpilloverHubOpportunity]], and [[PopulationLevelHealthAdvice]] - major concepts added by the episode.
 - [[AgeAdjustedDementiaDecline]], [[PaymentInfrastructureTradeDispute]], and [[EmoRevivalIdentityCulture]] - segment themes added by the Working memory episode.
+- [[MigrationWeaponization]], [[FallingObjectPublicSafety]], and [[AIWritingDetection]] - segment themes added by the Taken littorally episode.

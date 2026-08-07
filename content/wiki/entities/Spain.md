@@ -1,12 +1,14 @@
 ---
 title: "Spain"
 type: entity
-tags: [country, football, sports-development, healthcare, law, maritime-history, catholicism]
-sources: [119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, why-the-us-has-no-guaranteed-paid-vacation, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
+tags: [country, football, sports-development, healthcare, law, maritime-history, catholicism, migration, borders]
+sources: [taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, why-the-us-has-no-guaranteed-paid-vacation, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
 last_updated: 2026-08-08
 ---
 
 # Spain
+
+[[taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]] adds Spain as a border-management, diplomacy, and [[EuropeanUnion|EU]] migration-politics case. The episode uses the [[Ceuta]] crossing surge to connect a Spanish court ruling, [[PedroSanchez]]'s [[WesternSahara]] policy shift, Spain's migrant amnesty, and [[GiorgiaMeloni]]'s call to suspend Spain from the [[SchengenArea]].
 
 [[burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]] adds Spain as a recent wildfire example paired with [[France]]. The episode uses fires in both countries to introduce the broader claim that fire seasons are lengthening and that more days now carry very high fire-weather risk, extending Spain into [[ExtremeWildfire]] and [[LandscapeFirePrevention]].
 
@@ -25,6 +27,7 @@ Spain appears in [[vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shang
 - The lower-tier pyramid can provide many competitive levels, but that does not mean a club inside the pyramid is a clean financial asset.
 - The Intelligence source treats Spain as both a tournament favorite in the current final and a future 2030 host.
 - The Burning questions source treats Spain as a wildfire-risk example rather than as a politics or sports case.
+- The Taken littorally source treats Spain as vulnerable to [[MigrationWeaponization]] when legal rulings, enclave geography, and relations with [[Morocco]] and [[Algeria]] interact.
 
 ## Connections
 - [[Portugal]], [[Jesuits]], [[HasekuraTsunenaga|Hasekura Tsunenaga]], and [[ConfessionalTradeConflict]] - early-modern Catholic maritime branch added by episode 14.
@@ -36,3 +39,4 @@ Spain appears in [[vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shang
 - [[FIFAWorldCup]], [[Argentina]], [[LionelMessi]], [[WorldCupExpansion]], and [[JohnFasman]] - World Cup branch added by The Intelligence.
 - [[RamonSampedro]], [[CrossCulturalAssistedDeathEthics]], and [[EndOfLifeAutonomyAndDignity]] - assisted-death branch added by episode 119.
 - [[ExtremeWildfire]], [[LandscapeFirePrevention]], and [[France]] - wildfire branch added by The Intelligence.
+- [[Ceuta]], [[Morocco]], [[PedroSanchez]], [[WesternSahara]], [[Algeria]], [[SchengenArea]], [[GiorgiaMeloni]], [[MigrationWeaponization]], and [[BorderLegalSignal]] - migration and diplomacy branch added by The Intelligence.

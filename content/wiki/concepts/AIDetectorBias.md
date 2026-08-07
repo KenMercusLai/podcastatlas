@@ -2,11 +2,13 @@
 title: "AI Detector Bias"
 type: concept
 tags: [ai, education, fairness, assessment]
-sources: [tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]
+last_updated: 2026-08-08
 ---
 
 # AI Detector Bias
+
+[[taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]] adds a journalism and editing version of the detector problem. [[CaitlinTalbot]] says tools such as [[Pangram]] can produce false positives and provide little explanation, reinforcing the wiki's warning that AI-detection outputs need human review and context.
 
 AI detector bias is the risk that tools meant to identify AI-written work produce uneven suspicion or false positives across student groups. In [[tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]], [[ChristyGerdhary]] says AI detectors tend to flag already marginalized students more often, making detector-first classroom policy an equity and discipline problem.
 
@@ -20,6 +22,7 @@ AI detector bias connects education to the broader [[HumanJudgmentUnderAI]] prob
 - Fair AI classroom policy needs alternatives such as [[TransparentAIUse]], process evidence, oral explanation, revision history, or assignment redesign.
 - Detector bias does not imply that integrity no longer matters; it means integrity systems need care, documentation, and human judgment.
 - Educators should distinguish preventing shortcut behavior from punishing students through unreliable technical proxies.
+- Media and workplace uses face a similar risk: opaque detector confidence can be less useful than explainable evidence from style, source process, and editing history.
 
 ## Connections
 - [[ChristyGerdhary]], [[BabsonCollege]], and [[TheGenerator]] - source speaker and institutional context.
@@ -27,3 +30,4 @@ AI detector bias connects education to the broader [[HumanJudgmentUnderAI]] prob
 - [[AIShortcutRisk]] and [[FirstDraftThinking]] - learning risks that detectors alone do not solve.
 - [[AIRecognitionBias]] - adjacent wiki concept where model confidence can hide biased or irrelevant signals.
 - [[HumanJudgmentUnderAI]], [[LearningExperienceDesign]], and [[AILiteracyAgainstWorship]] - broader judgment, design, and literacy frames.
+- [[CaitlinTalbot]], [[Pangram]], and [[AIWritingDetection]] - later The Intelligence branch on detector opacity and stylistic traces.
