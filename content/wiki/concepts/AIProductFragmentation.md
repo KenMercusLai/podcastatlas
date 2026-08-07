@@ -2,8 +2,8 @@
 title: "AI Product Fragmentation"
 type: concept
 tags: [ai, product, platforms]
-sources: [ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources: [270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-08-08
 ---
 
 # AI Product Fragmentation
@@ -20,6 +20,8 @@ AI product fragmentation is the gap between strong model capability and a cohere
 
 [[ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa]] adds the [[Alibaba]] version through [[Quark]] and [[Qwen]]. The hosts ask why Alibaba would push Qwen as a separate assistant when Quark already has search, browser, netdisk, and assistant-like surfaces; their answer is that Quark's inherited product identity may make it harder to become the clean [[AIAssistantServiceEntry]] brand Alibaba needs.
 
+[[270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4]] adds the Chinese AI-office product-stack version. The source names many adjacent surfaces: [[Feishu]] intelligent partner, [[Doubao]], [[DoubaoEnterpriseEdition|Doubao enterprise edition]], Coze/扣子, Trae, [[DingTalk]], [[Qwen]], 螺丝快跑, Code Work, [[TencentWorkBody]], and CodeBody. The fragmentation risk is that each product may have a plausible AI story while users and sales teams still need a coherent work entry point.
+
 [[tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128]] adds the consumer-interface endpoint. [[ChristopherMims]] predicts that the chatbot will largely go away or morph into an assistant, then into an [[AmbientAIInterface]] across apps, devices, services, and operating systems. The source therefore frames fragmentation as a transitional problem: users need AI to become available where the task already lives without losing control of what the assistant can do.
 
 ## Key Claims
@@ -34,6 +36,7 @@ AI product fragmentation is the gap between strong model capability and a cohere
 - Existing traffic surfaces can help distribute an assistant while still confusing the user mental model if they carry older browser, search, or storage identities.
 - Large-company internal competition can produce multiple AI entry points, which may help experimentation but can also dilute product focus.
 - Ambient assistants can reduce fragmentation if they create one coherent task surface, but can increase it if every app, device, and account exposes a separate partial assistant.
+- AI-office stacks can fragment when collaboration suites, model brands, coding tools, agent platforms, and enterprise-sales packages each claim to be the work entry point.
 
 ## Connections
 - [[Google]], [[Gemini]], and [[GeminiCLI]] — model and product surfaces in the source.
@@ -46,3 +49,4 @@ AI product fragmentation is the gap between strong model capability and a cohere
 - [[Gemini]], [[Siri]], [[Xcode]], and [[AgenticCommerce]] — model-partner, IDE, and commerce-entry cases added by Vol. 162.
 - [[Alibaba]], [[Qwen]], [[Quark]], and [[AIAssistantServiceEntry]] — Quark/Qwen entry-point split added by EP117.
 - [[ChristopherMims]], [[AmbientAIInterface]], [[VoiceInteraction]], and [[AIAssistantServiceEntry]] - Marketplace Tech's chatbot-to-assistant interface endpoint.
+- [[AIOfficeAgent]], [[Feishu]], [[Doubao]], [[DingTalk]], [[Qwen]], [[TencentWorkBody]], and [[LargeCompanyOrganizationalInertia]] - Chinese AI-office fragmentation branch added by Luanfanshu episode 270.

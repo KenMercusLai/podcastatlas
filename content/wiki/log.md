@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-08] ingest | 270.大厂押注AI办公，飞书和钉钉却先成了配角
+
+Added source page for a 乱翻书 episode on Feishu/DingTalk as AI-office substrate, Doubao consumer monetization pressure, Tencent WorkBody, Alibaba Qwen office, enterprise data/workflow value, and coding-like office agents. Created pages for AI Office Agent, Tencent WorkBody, Doubao Enterprise Edition, Eric (Feishu source), and 雅兰/Yalan; updated overview, index, Luanfanshu, Zhuang Minghao, Feishu, DingTalk, Doubao, ByteDance, Alibaba, Tencent, Tencent WorkBuddy, Qwen, and related AI commercialization, inference-cost, enterprise-data, organization-design, and agent-workflow concepts. No direct contradiction found; product-name and reported-metric claims are kept source-scoped.
+
 ## [2026-08-07] ingest | EP91 订房订票定江山，携程51亿为傲慢买单
 
 Added source page for a 一劳永逸 episode on Ctrip's reported 51.79亿元 antitrust penalty, covering merchant-side exclusivity, full-network-lowest-price enforcement, automatic price monitoring and repricing tools, consumer cancellation and price-disclosure trust issues, Ctrip's founding and "鼠标加水泥" operating model, Elong and Qunar competition, internationalization through Skyscanner and MakeMyTrip, customer service, data assets, and Ctrip Wendao. Created pages for Zhuang Chenchao, Ctrip Wendao, Ctrip Antitrust Penalty, Travel Platform Merchant Exclusivity, Travel Price Parity Enforcement, and AI Travel Planning; updated overview, index, Ctrip, State Administration for Market Regulation, Qunar, Elong, Skyscanner, MakeMyTrip, 一劳永逸, Platform Antitrust, Platform Data Regulation, Hotel Platform Pricing Power, OTA Platform Concentration, Travel Booking Hidden Fees, Online Travel Agency, and Travel Super App Convenience. No direct contradiction found; the source narrows the legal core of the Ctrip case to merchant restrictions while keeping consumer-side pricing and cancellation complaints as trust and governance concerns.
@@ -7169,6 +7173,10 @@ Ran lint after health passed. Deterministic checks scanned 10,208 pages and foun
 ## [2026-08-08] ingest | E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿
 
 Added source page for a 硅谷101 episode with Wang Tiezhen and Keith Zhai on Kimi K3, model distillation, Chinese open-weight model progress, Kimi K3 licensing, OpenRouter and neocloud ecosystem shifts, closed API moat pressure, model sovereignty, agent inference workloads, and open-model safety governance. Created pages for Wang Tiezhen, Keith Zhai, Moonshot AI, OpenRouter, Model Distillation, Model Identity Data Pollution, Scaling Efficiency, Open-Weight Commercial Licensing, Closed Model API Moat Pressure, Model Sovereignty, Open Model Safety Governance, and Agent Inference Workload; updated overview, index, 硅谷101, Kimi K3, Kimi, DeepSeek, Qwen, Thinking Machines Lab, OpenAI, Anthropic, Open Source AI Models, Open Weight Release Boundary, Chinese Open-Weight AI Strategy, AI Inference Cost Structure, Model Routing Cost Control, Neo Cloud, Sovereign AI Models, Frontier Model Access Restrictions, AI Model Sandbox Escape, and AI Cyber-Defense Utility. No direct contradiction found; the source qualifies broad distillation accusations by separating technical distillation, generated-output training, identity data pollution, licensing compliance, and actual capability provenance, while also qualifying open-model safety debates by comparing open weights against closed-model opacity and access-control risks.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-08] lint | Wiki health check
 

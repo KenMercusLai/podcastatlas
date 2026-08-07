@@ -3,6 +3,7 @@ title: "AI Commercialization Pressure"
 type: concept
 tags: [ai, commercialization, strategy]
 sources:
+  - 270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4
   - duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1
   - 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2
   - 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52
@@ -45,6 +46,8 @@ last_updated: 2026-08-08
 [[duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1]] adds [[Evoken]] as a direct application-company pressure case. [[ChenMian]] defends cash-flow positivity, low-but-positive margin, and [[LibTV]]'s pricing logic while acknowledging that model releases, fast-growing competitors, and organization weakness can all compress the company's room to maneuver.
 
 [[ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]] adds the [[WAIC]] exhibition version of the same pressure. The hosts argue that the industry's visible language has shifted toward landing, monetization, industrialization, and application, but that many booths still fail the buyer, stability, and cost tests. The source connects application commercialization to [[AIDemoDeploymentGap]], [[AIApplicationLayerMoat]], [[ModelRoutingCostControl]], and [[SpeechToTextCostOptimization]].
+
+[[270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4]] adds the AI-office answer to consumer-assistant pressure. The source argues that [[Doubao]]'s C-end DAU can become a cost-bearing liability if GMV, ads, and subscriptions remain weak, while [[Feishu]], [[DoubaoEnterpriseEdition|Doubao enterprise edition]], [[DingTalk]], [[Qwen]], and [[TencentWorkBody]] point toward paid office, coding, enterprise-data, and workflow use cases.
 
 [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds the stage-boundary version. [[Ricky]] argues that coding and office-productivity substitution have become commercial enough for markets to price, while broad labor substitution remains the larger but less certain commercialization problem; this makes [[AILaborSubstitutionValuationBoundary]] a valuation and business-model issue, not only a labor-market issue.
 
@@ -146,6 +149,7 @@ AI commercialization pressure is the tension between technical influence, user a
 - Model-company momentum can worsen application commercialization pressure by raising the proof bar: application teams need revenue, customer pull, and market-specific payment evidence, not only a plausible wrapper around improving models.
 - Exhibition and demo settings can intensify commercialization pressure because visible capability must still be translated into buyer demand, deployment reliability, and a cost structure that works outside the booth.
 - AI application commercialization pressure includes public trust and explanation pressure: a founder may need to defend growth sources, API-cost assumptions, cash flow, and originality before the business has mature moats.
+- AI-office products are a commercialization response to weak consumer-chat monetization because work tasks, enterprise data, and productivity gains can produce clearer willingness to pay than generic chatbot DAU.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — strategic context where the pressure appears.
@@ -182,3 +186,4 @@ AI commercialization pressure is the tension between technical influence, user a
 - [[AICapexReturnWindow]], [[AIRevenueLegibility]], [[AICircularInfrastructureFinancing]], and [[ChinaUSAIValuationAsymmetry]] — public-market capex, revenue visibility, demand quality, and cross-market trust extension added by What's Next S10E12.
 - [[WAIC]], [[AIDemoDeploymentGap]], [[KimiK3]], [[TopModelBuildRuntimeSplit]], and [[SpeechToTextCostOptimization]] — exhibition, model-routing, and engineering-cost branch added by Keji Luandun.
 - [[Evoken]], [[ChenMian]], [[LibTV]], [[AIApplicationSurvivalStrategy]], and [[AISubscriptionEconomics]] — application-founder commercialization and pricing-defense branch added by LateTalk.
+- [[AIOfficeAgent]], [[Feishu]], [[DingTalk]], [[DoubaoEnterpriseEdition]], [[TencentWorkBody]], [[Qwen]], and [[ProductLedWillingnessToPay]] - AI-office monetization branch added by Luanfanshu episode 270.

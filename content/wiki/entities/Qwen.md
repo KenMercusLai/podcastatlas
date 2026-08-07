@@ -2,7 +2,7 @@
 title: "Qwen"
 type: entity
 tags: [model, open-source, ai]
-sources: [e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
+sources: [270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
 last_updated: 2026-08-08
 ---
 
@@ -28,6 +28,8 @@ Qwen is Alibaba's model family and the technical focus of [[ali-qianwen-lizhi-yu
 
 [[ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]] adds Qwen as part of [[SAP]]'s China enterprise AI stack. The source says SAP embeds Qwen into its model-service layer in China and explores FDE, post-training, and customer scenarios with [[AlibabaCloud|Alibaba Cloud]].
 
+[[270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4]] adds Qwen's office-productivity route. The source frames Alibaba's AI-office stack as Qwen layered over [[DingTalk]], 螺丝快跑, Code Work, and new DingTalk, competing with [[Doubao]]/[[Feishu]] and [[TencentWorkBody]] for the [[AIOfficeAgent|AI office agent]] entry point.
+
 ## Source Position
 - EP253 adds Qwen as a consumer smart-glasses context through [[QwenSmartGlasses|千问眼镜]] and location-plus-image recognition.
 - Considered important for China's AI competitiveness and overseas developer adoption.
@@ -41,6 +43,7 @@ Qwen is Alibaba's model family and the technical focus of [[ali-qianwen-lizhi-yu
 - In E231, treated as part of Alibaba's model stack for sourcing, design packs, supplier matching, and long-running B2B agent workflows.
 - In the Qizhulou Yan Binke source, treated as a Chinese open model used by outside researchers for post-training work and ecosystem learning.
 - In the SAP source, treated as a local model component for enterprise AI integration rather than only a consumer assistant or open-source base model.
+- In episode 270, treated as the model brand leading Alibaba's AI-office stack over DingTalk and adjacent work-agent products.
 
 ## Connections
 - [[KimiK3]], [[OpenWeightCommercialLicensing]], and [[LargeCompanyOpenSourceStrategy]] - E246's comparison between open ecosystem influence and model-company monetization.
@@ -56,3 +59,4 @@ Qwen is Alibaba's model family and the technical focus of [[ali-qianwen-lizhi-yu
 - [[Axio]], [[ZhangKuo]], [[AgenticB2BSourcing]], and [[B2BToA2A]] — international B2B agent application added by E231.
 - [[ChaSheng]], [[OpenSourceAIModels]], and [[ResearchTaste]] - outside researcher and post-training-use branch added by Qizhulou Yan Binke.
 - [[SAP]], [[AlibabaCloud]], [[DingTalk]], and [[BusinessLedAITransformation]] — enterprise software integration branch added by LateTalk.
+- [[AIOfficeAgent]], [[DingTalk]], [[Alibaba]], [[TencentWorkBody]], and [[Doubao]] - AI-office competition branch added by Luanfanshu episode 270.

@@ -815,6 +815,10 @@
     "title": "27.希区柯克已在您桌下安置炸弹",
     "url": "/wiki/sources/27-xiqukeke-yizai-nin-zhuoxia-anzhi-zhadan-582370829/"
   },
+  "270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4": {
+    "title": "270.大厂押注AI办公，飞书和钉钉却先成了配角",
+    "url": "/wiki/sources/270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4/"
+  },
   "28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930": {
     "title": "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话",
     "url": "/wiki/sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930/"
@@ -1790,6 +1794,10 @@
   "AINutritionTracking": {
     "title": "AI Nutrition Tracking",
     "url": "/wiki/concepts/ainutritiontracking/"
+  },
+  "AIOfficeAgent": {
+    "title": "AI Office Agent",
+    "url": "/wiki/concepts/aiofficeagent/"
   },
   "AIOperationsRole": {
     "title": "AI Operations Role",
@@ -10659,6 +10667,10 @@
     "title": "Doubao",
     "url": "/wiki/entities/doubao/"
   },
+  "DoubaoEnterpriseEdition": {
+    "title": "Doubao Enterprise Edition / 豆包企业版",
+    "url": "/wiki/entities/doubaoenterpriseedition/"
+  },
   "DoubtAsIntelligence": {
     "title": "Doubt as Intelligence",
     "url": "/wiki/concepts/doubtasintelligence/"
@@ -11798,6 +11810,10 @@
   "ErasmusProgramme": {
     "title": "Erasmus Programme / 伊拉斯莫计划",
     "url": "/wiki/entities/erasmusprogramme/"
+  },
+  "EricFeishu": {
+    "title": "Eric (Feishu source)",
+    "url": "/wiki/entities/ericfeishu/"
   },
   "EricGoldman": {
     "title": "Eric Goldman",
@@ -33515,6 +33531,10 @@
     "title": "Tencent Weishi",
     "url": "/wiki/entities/tencentweishi/"
   },
+  "TencentWorkBody": {
+    "title": "Tencent WorkBody",
+    "url": "/wiki/entities/tencentworkbody/"
+  },
   "TencentWorkBuddy": {
     "title": "Tencent WorkBuddy",
     "url": "/wiki/entities/tencentworkbuddy/"
@@ -37302,6 +37322,10 @@
   "YakumoHospital": {
     "title": "八云医院",
     "url": "/wiki/entities/yakumohospital/"
+  },
+  "YalanLuanfanshu": {
+    "title": "雅兰 / Yalan (Luanfanshu)",
+    "url": "/wiki/entities/yalanluanfanshu/"
   },
   "YanFei": {
     "title": "严飞 / Yan Fei",

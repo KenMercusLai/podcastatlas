@@ -2,8 +2,8 @@
 title: "Coding Agent As Universal Action Layer"
 type: concept
 tags: [agents, coding, interfaces, workflow]
-sources: [openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]
-last_updated: 2026-08-05
+sources: [270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]
+last_updated: 2026-08-08
 ---
 
 # Coding Agent As Universal Action Layer
@@ -16,6 +16,8 @@ The source links this to [[ClaudeCode]]-style usage outside pure software engine
 
 [[youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]] adds [[Albert]]'s [[CodingDemocratization]] wording. He treats code as a way for intelligence to become visible and executable, then asks which non-programmer groups can receive that capability through better containers such as [[Cursor]], [[Lovable]], or [[Replit]].
 
+[[270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4]] adds the office-agent version. The hosts argue that making websites, changing files, processing spreadsheets, and executing business workflows may still depend on coding capability even when the user sees an office UI rather than an IDE.
+
 ## Key Claims
 - Coding is unusually powerful because it converts vague goals into executable steps, observable failures, and repeatable repairs.
 - [[AgentOptimizedCLI]], [[AgentFacingInterfaces]], and files make coding agents useful outside IDEs because many tools can expose their capabilities as callable actions.
@@ -24,6 +26,7 @@ The source links this to [[ClaudeCode]]-style usage outside pure software engine
 - The pattern pressures [[AINativeSaaSThreat]] because users may ask an agent to reproduce outcomes that once required learning a fixed SaaS UI.
 - The risk is that coding agents can act too broadly unless constrained by [[AgentPermissionBoundaries]] and verified through [[AICodingVerification]].
 - Coding power can be democratized only if the product container fits the user's existing expertise and supplies the missing verification and deployment support.
+- [[AIOfficeAgent|AI office agents]] can hide coding-like execution behind document, spreadsheet, and workflow interfaces, extending the action-layer thesis to non-programmer office workers.
 
 ## Connections
 - [[WangWenfeng]], [[Sheet0]], and [[OpenClaw]] — source speaker, company, and product signal.
@@ -33,3 +36,4 @@ The source links this to [[ClaudeCode]]-style usage outside pure software engine
 - [[HumanJudgmentUnderAI]] — remaining human role in taste, acceptance criteria, and final review.
 - [[SAP]], [[AgenticWorkflow]], and [[ModelAsOperatingSystem]] — enterprise-software coexistence branch added by the 硬地骇客 FDE episode.
 - [[CodingDemocratization]], [[Lovable]], and [[Replit]] — non-programmer coding-container extension added by Albert's source.
+- [[AIOfficeAgent]], [[TencentWorkBody]], [[Feishu]], [[DingTalk]], [[AIProgrammingEngineShift]], and [[AgenticWorkflow]] - office-agent extension added by Luanfanshu episode 270.

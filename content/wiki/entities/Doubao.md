@@ -2,8 +2,8 @@
 title: "Doubao"
 type: entity
 tags: [ai, product, assistant, china]
-sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]
-last_updated: 2026-08-07
+sources: [270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]
+last_updated: 2026-08-08
 ---
 
 # Doubao
@@ -30,6 +30,8 @@ Doubao is ByteDance's AI assistant and model product discussed in [[cong-qq-huiy
 
 [[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] adds Doubao to [[QuKai]]'s stage map of AI from chat to coding and longer-horizon agents. The source counts Doubao among the chat-era domestic winners, but argues that consumer assistant scale alone does not settle whether an AI product can defend revenue, workflow depth, and scenario-specific value during an [[AIApplicationMarketTrough]].
 
+[[270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4]] adds the AI-office commercialization version. The source asks whether Doubao's large C-end DAU is an asset or liability under [[AIInferenceCostStructure]], because GMV/product cards, advertising, and C-end subscriptions have not yet become clear direct revenue paths. It argues that Doubao may need [[Feishu]] and [[DoubaoEnterpriseEdition|Doubao enterprise edition]] to turn model capability into enterprise workflows, while also noting a possible indirect value path through memory, ByteDance account links, user profiling, and ad ROI.
+
 ## Key Points
 - The hosts present Doubao's rumored paid membership as a natural consequence of [[AIInferenceCostStructure]] and rapid user growth.
 - They argue that [[Doubao]] cannot rely only on "costs are high" messaging; it needs [[ProductLedWillingnessToPay]] through clearly differentiated features.
@@ -47,6 +49,8 @@ Doubao is ByteDance's AI assistant and model product discussed in [[cong-qq-huiy
 - Episode 267 adds a creator-workflow use case where Doubao's value comes from cheap script and prompt iteration, not from being the final distribution product.
 - Episode 8 adds that Doubao's growth cannot be evaluated only by installs or DAU: AI acquisition has to pass model-quality, retention, and inference-cost tests.
 - The 42章经 mid-2026 recap treats Doubao as a chat-stage winner whose next test is whether assistant scale can translate into durable work, payment, and scenario value.
+- Episode 270 adds that consumer traffic can become a cost-bearing liability when direct GMV, advertising, and subscription monetization remain weak.
+- The same source presents Feishu and Doubao enterprise edition as a possible route from consumer-assistant scale into [[AIOfficeAgent|AI office]] and enterprise-data workflows.
 
 ## Connections
 - [[ByteDance]] — company behind Doubao.
@@ -64,3 +68,4 @@ Doubao is ByteDance's AI assistant and model product discussed in [[cong-qq-huiy
 - [[XiaoGuoGege]], [[AnhuiXiaoMujiang]], [[FanqieNovel]], and [[AIVideoProductionWorkflow]] — AI short-drama production case added by episode 267.
 - [[GrowthROILayers]], [[ProductLedWillingnessToPay]], and [[AIInferenceCostStructure]] — AI growth economics added by the Luanfanshu episode 8 source.
 - [[AIApplicationMarketTrough]], [[QuKai]], [[Kimi]], [[OpenAI]], and [[LongHorizonAI]] — 42章经 stage-map comparison across chat, coding, and agentic work.
+- [[Feishu]], [[DoubaoEnterpriseEdition]], [[AIOfficeAgent]], [[YalanLuanfanshu]], [[EricFeishu]], [[AICommercializationPressure]], and [[AIInferenceCostStructure]] - AI-office and monetization branch added by Luanfanshu episode 270.

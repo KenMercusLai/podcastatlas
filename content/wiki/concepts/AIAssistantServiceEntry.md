@@ -2,7 +2,7 @@
 title: "AI Assistant Service Entry"
 type: concept
 tags: [ai, assistants, platforms, commerce]
-sources: [yao-shunyu-laidao-tengxun-300tian-1-176-1, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+sources: [270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, yao-shunyu-laidao-tengxun-300tian-1-176-1, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
 last_updated: 2026-08-08
 ---
 
@@ -13,6 +13,8 @@ AI assistant service entry is the idea that a consumer AI assistant becomes the 
 The concept differs from generic chatbot adoption. Search replacement handles knowledge questions; service entry requires the assistant to compare options, understand user preference, call platform capabilities, handle identity and payment, and preserve enough trust that users allow it to act.
 
 [[yao-shunyu-laidao-tengxun-300tian-1-176-1]] adds the Tencent version. [[Yuanbao]] and [[TencentWorkBuddy]] are treated as likely early product loops for [[TencentHunyuan]], while [[WeChat]] and [[WeChatVLM]] show why a high-context service-entry surface may resist full central model consolidation when privacy, user data, and product-scale risk are central.
+
+[[270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4]] adds the office-entry version. The source suggests that generic chatbot entry may be weaker commercially than the entry point for work itself: [[Feishu]], [[DingTalk]], [[TencentWorkBody]], [[Qwen]], and [[DoubaoEnterpriseEdition|Doubao enterprise edition]] can route users into documents, meetings, tables, files, approvals, and enterprise knowledge.
 
 [[tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128]] adds [[Meta]]'s wearable-assistant version. [[MikeIsaac]] describes [[MarkZuckerberg]]'s [[PersonalSuperintelligence]] idea through a user asking [[RayBanSmartGlasses|Ray-Ban smart glasses]] for directions instead of opening [[Google]] or a map product. The source is a useful contrast with the Alibaba case: Meta may have distribution and user data, but still has to make [[MetaAI|Meta AI]] a trusted front door rather than a feed-inserted feature.
 
@@ -39,6 +41,7 @@ The concept differs from generic chatbot adoption. Search replacement handles kn
 - Wearable service entry is strongest when physical-world context and no-hand interaction remove the need to stop and open a phone app, but it still needs confirmation and permission design for purchases, messages, and account actions.
 - Visual and auditory service entry can make smart glasses useful before they become a general-purpose assistant, especially for identification, translation, and context-sensitive help.
 - In large platform companies, assistant service entry depends on which internal unit controls the surface; a shared model may power tasks, but the product owner may keep local models and permissions for trust-sensitive workflows.
+- Office-entry assistants can monetize differently from consumer chatbots because they can attach to work output, enterprise context, and employee productivity rather than only traffic.
 
 ## Connections
 - [[Alibaba]], [[Qwen]], [[Taobao]], [[Fliggy]], [[Damai]], [[Gaode]], and [[DingTalk]] — main ecosystem case in the source.
@@ -54,3 +57,4 @@ The concept differs from generic chatbot adoption. Search replacement handles kn
 - [[GuangfanTechnology]], [[WearableAIAssistant]], [[AgentFacingInterfaces]], and [[ModelContextProtocol]] — wearable/cloud-service entry route added by S10E15.
 - [[WillGottsagen]], [[Meta]], [[MetaAI|Meta AI]], [[RayBanSmartGlasses|Ray-Ban smart glasses]], and [[AITranslation]] - smart-glasses service-entry route added by Marketplace Tech.
 - [[TencentHunyuan]], [[Yuanbao]], [[TencentWorkBuddy]], [[WeChat]], [[WeChatVLM]], and [[FederatedAIOrganization]] - Tencent assistant-entry and internal model-routing case added by LateTalk episode 176.
+- [[AIOfficeAgent]], [[Feishu]], [[DingTalk]], [[TencentWorkBody]], [[DoubaoEnterpriseEdition]], and [[Qwen]] - office-productivity entry branch added by Luanfanshu episode 270.

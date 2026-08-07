@@ -2,8 +2,8 @@
 title: "庄明浩 / 庄明昊"
 type: entity
 tags: [person, host, product]
-sources: [263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]
-last_updated: 2026-07-09
+sources: [270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]
+last_updated: 2026-08-08
 ---
 
 # 庄明浩 / 庄明昊
@@ -18,6 +18,8 @@ His recurring contribution in this source is to move the conversation from headl
 
 [[269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]] adds his live-action short-drama framing. After the AI short-drama episodes, he asks why human-shot short drama still deserves investment, then uses [[HouChao]] and [[LiJiajia]] to separate cost, industrialization, platform matching, actor fit, and story quality.
 
+[[270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4]] records the speaker name as 明昊 and extends his product-strategy framing into [[AIOfficeAgent|AI office agents]]. He emphasizes how quickly big companies moved from C-end chatbot traffic to coding, long-horizon tasks, and office agents after Open Cloud / "小龙虾" made the work-agent shape legible to management teams.
+
 ## Connections
 - [[WeiXi]] — guest in the episode.
 - [[AIApplicationLayerMoat]] and [[VerticalWorkflowAI]] — product-strategy concepts surfaced through his framing.
@@ -25,3 +27,4 @@ His recurring contribution in this source is to move the conversation from headl
 - [[WangXiaoshu]], [[XuWenliang]], [[AIShortDrama]], and [[ShortDramaEconomics]] — episode 266's short-drama industry discussion.
 - [[LuoXuan]], [[Vivo]], [[XFold6]], and [[MobileAIWorkstation]] — episode 268's AI-phone and foldable-workbench branch.
 - [[HouChao]], [[LiJiajia]], [[LiveActionShortDrama]], [[ShortDramaIndustrialization]], and [[CharacterRelationshipStoryLogic]] — episode 269's live-action short-drama branch.
+- [[EricFeishu]], [[YalanLuanfanshu]], [[Feishu]], [[DingTalk]], [[Doubao]], [[TencentWorkBody]], [[Qwen]], and [[AIOfficeAgent]] - AI-office branch added by episode 270.
