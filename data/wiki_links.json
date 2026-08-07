@@ -12539,6 +12539,10 @@
     "title": "Federal Trade Commission",
     "url": "/wiki/entities/federaltradecommission/"
   },
+  "FederatedAIOrganization": {
+    "title": "Federated AI Organization",
+    "url": "/wiki/concepts/federatedaiorganization/"
+  },
   "FederatedMedicalDataSharing": {
     "title": "Federated Medical Data Sharing",
     "url": "/wiki/concepts/federatedmedicaldatasharing/"
@@ -14134,6 +14138,10 @@
   "GaoGu": {
     "title": "高固",
     "url": "/wiki/entities/gaogu/"
+  },
+  "GaoHonghao": {
+    "title": "Gao Honghao / 高宏昊",
+    "url": "/wiki/entities/gaohonghao/"
   },
   "GaoJiyang": {
     "title": "Gao Jiyang",
@@ -21255,6 +21263,10 @@
     "title": "Lu Qi",
     "url": "/wiki/entities/luqi/"
   },
+  "LuShanTencent": {
+    "title": "Lu Shan / 卢山",
+    "url": "/wiki/entities/lushantencent/"
+  },
   "LuWeiScreenwriter": {
     "title": "芦苇 / Lu Wei",
     "url": "/wiki/entities/luweiscreenwriter/"
@@ -22082,6 +22094,10 @@
   "MartinHeidegger": {
     "title": "Martin Heidegger / 马丁·海德格尔",
     "url": "/wiki/entities/martinheidegger/"
+  },
+  "MartinLau": {
+    "title": "Martin Lau / 刘炽平",
+    "url": "/wiki/entities/martinlau/"
   },
   "MartinLutherKingJr": {
     "title": "Martin Luther King Jr.",
@@ -33431,9 +33447,21 @@
     "title": "Tencent Advertising",
     "url": "/wiki/entities/tencentadvertising/"
   },
+  "TencentCSIG": {
+    "title": "Tencent CSIG",
+    "url": "/wiki/entities/tencentcsig/"
+  },
+  "TencentHunyuan": {
+    "title": "Tencent Hunyuan / 腾讯混元",
+    "url": "/wiki/entities/tencenthunyuan/"
+  },
   "TencentMeeting": {
     "title": "Tencent Meeting",
     "url": "/wiki/entities/tencentmeeting/"
+  },
+  "TencentTEG": {
+    "title": "Tencent TEG",
+    "url": "/wiki/entities/tencentteg/"
   },
   "TencentVideo": {
     "title": "腾讯视频 / Tencent Video",
@@ -33442,6 +33470,10 @@
   "TencentWeishi": {
     "title": "Tencent Weishi",
     "url": "/wiki/entities/tencentweishi/"
+  },
+  "TencentWorkBuddy": {
+    "title": "Tencent WorkBuddy",
+    "url": "/wiki/entities/tencentworkbuddy/"
   },
   "TensorFlow": {
     "title": "TensorFlow",
@@ -35971,6 +36003,10 @@
     "title": "微信读书",
     "url": "/wiki/entities/wechatreading/"
   },
+  "WeChatVLM": {
+    "title": "WeChat VLM / 微信 VLM",
+    "url": "/wiki/entities/wechatvlm/"
+  },
   "WeDoctor": {
     "title": "微医 / 挂号网",
     "url": "/wiki/entities/wedoctor/"
@@ -37955,6 +37991,10 @@
     "title": "张小珺Jùn｜商业访谈录",
     "url": "/wiki/entities/zhangxiaojuncommercialinterviews/"
   },
+  "ZhangXiaolong": {
+    "title": "Zhang Xiaolong / 张小龙",
+    "url": "/wiki/entities/zhangxiaolong/"
+  },
   "ZhangXiaoyu": {
     "title": "Zhang Xiaoyu / 张潇雨",
     "url": "/wiki/entities/zhangxiaoyu/"
@@ -38178,6 +38218,10 @@
   "ZhouDaguan": {
     "title": "周达观 / Zhou Daguan",
     "url": "/wiki/entities/zhoudaguan/"
+  },
+  "ZhouHaoTencent": {
+    "title": "Zhou Hao / 周颢",
+    "url": "/wiki/entities/zhouhaotencent/"
   },
   "ZhouJiangong": {
     "title": "周建功 / Zhou Jiangong",
@@ -40726,6 +40770,10 @@
   "xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770": {
     "title": "【闲聊】想送赵露思一本短歌集--编辑推书,无所不用其极！",
     "url": "/wiki/sources/xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770/"
+  },
+  "yao-shunyu-laidao-tengxun-300tian-1-176-1": {
+    "title": "176: 姚顺宇，来到腾讯300天",
+    "url": "/wiki/sources/yao-shunyu-laidao-tengxun-300tian-1-176-1/"
   },
   "yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093": {
     "title": "一份来自病床上的相关书单",

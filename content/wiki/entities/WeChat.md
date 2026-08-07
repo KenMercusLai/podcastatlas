@@ -2,11 +2,13 @@
 title: "WeChat"
 type: entity
 tags: [platform, china, agents]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]
-last_updated: 2026-07-09
+sources: [yao-shunyu-laidao-tengxun-300tian-1-176-1, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]
+last_updated: 2026-08-08
 ---
 
 # WeChat
+
+[[yao-shunyu-laidao-tengxun-300tian-1-176-1]] adds WeChat's internal model-organization layer through [[WeChatVLM]]. The source says WeChat cooperates with [[TencentHunyuan]] and can call different models in Xiaowei scenarios, but keeps its own VLM path because privacy, user data, product culture, and reliability at massive scale make full centralization difficult.
 
 WeChat is discussed in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc]] as a possible high-potential environment for agent products in China. The host points to its user base, social graph, accumulated context, and mini-program ecosystem as reasons a WeChat agent could matter. [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b]] adds the opposite pressure: users may want WeChat to expose [[AgentFacingInterfaces]], but doing so could weaken WeChat's control over the entry point.
 
@@ -31,3 +33,4 @@ WeChat is discussed in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-r
 - [[OnePersonCompany]], [[SoftwarePaymentCulture]], and [[ProductLedWillingnessToPay]] — OPC source where app creation is separated from customer adoption and payment.
 - [[ToutengWar]], [[Tencent]], [[Duoshan]], [[WeChatChannels]], and [[SocialGraphMoat]] — platform-war and short-video-component context from the Touteng source.
 - [[FissionGrowth]], [[RedPacketGrowth]], and [[SpringFestivalGrowthCampaign]] — relationship-chain and red-packet mechanics added by the Luanfanshu episode 8 source.
+- [[WeChatVLM]], [[TencentHunyuan]], [[ZhangXiaolong]], [[ZhouHaoTencent]], and [[FederatedAIOrganization]] — WeChat's independent AI model path added by LateTalk episode 176.

@@ -2,11 +2,13 @@
 title: "Yuanbao"
 type: entity
 tags: [ai, product, assistant, china]
-sources: [cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
-last_updated: 2026-07-08
+sources: [yao-shunyu-laidao-tengxun-300tian-1-176-1, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
+last_updated: 2026-08-08
 ---
 
 # Yuanbao
+
+[[yao-shunyu-laidao-tengxun-300tian-1-176-1]] updates Yuanbao from a generic domestic assistant alternative into one of [[TencentHunyuan]]'s most important product loops. The source says Yuanbao increasingly uses Hunyuan in some scenarios, appears in WeChat article-summary features, and is likely to be a seed user for Hunyuan's reinforcement-learning platform alongside [[TencentWorkBuddy]].
 
 Yuanbao is Tencent's AI assistant, discussed in [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun]] as one of [[Doubao]]'s domestic alternatives. The hosts mention Yuanbao as a product users may switch to if Doubao's free tier worsens or paid offering does not justify its price.
 
@@ -28,3 +30,4 @@ Yuanbao is Tencent's AI assistant, discussed in [[cong-qq-huiyuan-dao-doubao-bao
 - [[ProductLedWillingnessToPay]] — differentiation pressure created by substitutes.
 - [[Qwen]] and [[AIAssistantServiceEntry]] — EP117's broader assistant-entry comparison.
 - [[Meituan]], [[ModelContextProtocol]], and [[AgenticCommerce]] — local-commerce access question added by Keji Luandun.
+- [[TencentHunyuan]], [[TencentCSIG]], [[TencentWorkBuddy]], and [[AgentRL]] — Hunyuan product-loop and reinforcement-learning branch added by episode 176.

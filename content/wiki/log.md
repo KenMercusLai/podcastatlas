@@ -7044,7 +7044,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-08] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran lint after health passed. Deterministic checks scanned 10,208 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-07 with 9,679 nodes and 103,834 edges while the wiki scan found 10,208 pages; they found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key is configured in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
 
 ## [2026-08-08] ingest | Working memory: the surprising decline of dementia
 
@@ -7157,3 +7157,11 @@ Added source page for a The Intelligence episode on the fraying U.S.-Iran MOU, H
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 10,196 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key is configured in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-08] ingest | 176: 姚顺宇，来到腾讯300天
+
+Added source page for a LateTalk episode on Yao Shunyu's first 300 days rebuilding Tencent Hunyuan, including Hunyuan 3 as a staged organizational delivery, DeepSeek/Kimi pressure, Martin Lau's sponsorship, TEG origins, CSIG product loops, Yuanbao/WorkBuddy reinforcement-learning feedback, and WeChat VLM's continued independence. Created pages for Tencent Hunyuan, WeChat VLM, Tencent CSIG, Tencent WorkBuddy, Martin Lau, Zhang Xiaolong, Zhou Hao, Lu Shan, Tencent TEG, Gao Honghao, and Federated AI Organization; updated overview, index, Yao Shunyu, Tencent, WeChat, Yuanbao, LateTalk, DeepSeek, Kimi K3, AI Organization Design, Large Company Organizational Inertia, AI Assistant Service Entry, Mixture of Experts, Agent RL, Model Provider Tool Competition, AI Programming Engine Shift, and Long-Chain AI Competition. No direct contradiction found; the source sequentially updates Yao's earlier Anthropic/GoogleDeepMind page with a later Tencent role and preserves the source-file name-spelling mismatch between 姚顺雨 and 姚顺宇 as a note.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 10,208 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-07 with 9,679 nodes and 103,834 edges while the wiki scan found 10,208 pages; they found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key is configured in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.

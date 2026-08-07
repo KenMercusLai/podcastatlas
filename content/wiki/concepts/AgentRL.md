@@ -2,13 +2,15 @@
 title: "Agent RL"
 type: concept
 tags: [agents, reinforcement-learning, infrastructure]
-sources: [tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
-last_updated: 2026-07-23
+sources: [yao-shunyu-laidao-tengxun-300tian-1-176-1, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
+last_updated: 2026-08-08
 ---
 
 # Agent RL
 
 Agent RL is the reinforcement-learning and rollout problem that appears when a model is trained or adapted inside an [[AgentHarness]] rather than inside a narrow prompt-answer loop. In [[138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]], [[LuoFuli]] says agent-era RL infrastructure has to handle agent frameworks, GPU and CPU resources, storage, fault tolerance, compatibility, and train-inference mismatch.
+
+[[yao-shunyu-laidao-tengxun-300tian-1-176-1]] adds a large-platform product-loop case. The source says [[TencentHunyuan]] is building a reinforcement-learning platform that will likely start with [[Yuanbao]] and [[TencentWorkBuddy]], connecting product usage, office-agent traces, post-training, and evaluation inside [[TencentCSIG]].
 
 The source treats Agent RL as harder and messier than ordinary post-training because the environment is not just the model inference engine. Tool use, external state, long-running tasks, memory files, simulated users, framework interruptions, and heterogeneous resources all become part of the training loop.
 
@@ -24,6 +26,7 @@ The source treats Agent RL as harder and messier than ordinary post-training bec
 - Agent RL is linked to [[ModelHarnessCoEvolution]]: as the model changes, the framework, reward design, and evaluation tasks may also need to change.
 - Agent RL can also be used to test social and alignment behavior, such as whether agents recognize collective belonging in simulated environments.
 - B2B sourcing adds delayed but valuable reward signals because the platform can observe whether an idea became a transaction and whether the buyer kept purchasing.
+- Tencent's Hunyuan case adds that Agent RL can be an internal platform spanning multiple products, not only a lab experiment or startup framework.
 
 ## Connections
 - [[AgentPostTraining]] — broader training frame that includes Agent RL.
@@ -33,3 +36,4 @@ The source treats Agent RL as harder and messier than ordinary post-training bec
 - [[MultiAgentCollaboration]], [[MLCoding]], and [[LongHorizonAI]] — task classes where agent rollouts become useful and hard to evaluate.
 - [[Softmax]], [[EmmettShear]], [[AICollectiveAlignment]], and [[LearningEnvironmentCenteredAITraining]] — alignment-environment case added by the Emmett Shear YC offsite source.
 - [[Axio]], [[AgenticB2BSourcing]], [[B2BToA2A]], and [[EnterpriseAgentGovernance]] — transaction-feedback case added by E231.
+- [[TencentHunyuan]], [[Yuanbao]], [[TencentWorkBuddy]], [[TencentCSIG]], and [[AIOrganizationDesign]] — large-company product-feedback RL case added by LateTalk episode 176.

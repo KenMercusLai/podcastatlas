@@ -2,11 +2,13 @@
 title: "Mixture of Experts"
 type: concept
 tags: [ai, model-architecture, infrastructure, semiconductors]
-sources: [148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]
+sources: [yao-shunyu-laidao-tengxun-300tian-1-176-1, 148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]
 last_updated: 2026-08-08
 ---
 
 # Mixture of Experts
+
+[[yao-shunyu-laidao-tengxun-300tian-1-176-1]] adds MoE as part of Tencent's model-scale and organization discussion. The source frames Hunyuan 3 as a roughly 300B MoE model and says [[WeChatVLM]] had a 258B MoE model for WeChat-internal use, making MoE a marker of both architecture choice and duplicated internal model investment inside [[Tencent]].
 
 Mixture of Experts is the model-architecture pattern discussed in [[e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]] through its impact on [[TPU]] topology. [[HenryTPUEngineer|Henry]] says earlier TPU generations struggled with MoE because expert routing requires all-to-all communication, while older 2D Torus layouts mostly connected neighboring chips.
 
@@ -23,6 +25,7 @@ The source treats MoE as a practical example of [[ASICWorkloadPredictionRisk]]. 
 - MoE therefore links model design to [[TPUPodSystemOptimization]], not only to parameter counts or benchmark scores.
 - In the Ant Lingbo source, MoE also links architecture design to training convergence and expert-load balancing inside robot-adjacent video modeling.
 - In the vLLM source, MoE also links open-model support to inference-engine scheduling, communication, and deployment complexity.
+- In the Tencent source, MoE also becomes an organizational cost question because Hunyuan and WeChat can each pursue sparse large models under limited compute.
 
 ## Connections
 - [[TPU]], [[TPUPodSystemOptimization]], and [[XLACompiler]] — source hardware/software context.
@@ -30,3 +33,4 @@ The source treats MoE as a practical example of [[ASICWorkloadPredictionRisk]]. 
 - [[AIClusterNetworking]], [[AIChipSpecialization]], and [[ASICWorkloadPredictionRisk]] — infrastructure and prediction-risk frame.
 - [[AntLingbo]], [[ShenYujun]], [[WorldActionModels]], and [[EmbodiedNativeFoundationModels]] — embodied-model engineering context added by episode 147.
 - [[VLLM|vLLM]], [[YuKaichao|游凯超]], [[DeepSeek]], and [[ModelInfraCoDesign]] — inference-engine co-design context added by episode 148.
+- [[TencentHunyuan]], [[WeChatVLM]], [[YaoShunyu]], and [[FederatedAIOrganization]] — Tencent model-organization context added by LateTalk episode 176.

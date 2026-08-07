@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [176: 姚顺宇，来到腾讯300天](sources/yao-shunyu-laidao-tengxun-300tian-1-176-1.md) — LateTalk episode on Yao Shunyu's first 300 days rebuilding Tencent Hunyuan, Hunyuan/WeChat VLM coexistence, Tencent CSIG product loops, and Tencent's federated AI organization tension.
 - [Omission accomplished: why the Iran-war cycle spins on](sources/omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb.md) — The Intelligence episode on the fraying U.S.-Iran MOU, Hormuz control, thin Middle East diplomacy, Chinese driverless-taxi exports, AI-service standard setting, and Wally Funk's late spaceflight.
 - [149. 亲历中美 New Labs 资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和 Max Tegmark](sources/149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv.md) — 张小珺Jùn｜商业访谈录 episode with Liu Ziming on AI for AI, Physics of AI, mechanistic interpretability, KAN, OPHIS, meta-model training-curve prediction, training autopilot, vibe training, and New Lab financing.
 - [Working memory: the surprising decline of dementia](sources/working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b.md) — The Intelligence episode on falling age-adjusted dementia rates, modifiable dementia risks, Pix as Brazilian instant-payment infrastructure under tariff pressure, and emo's stadium-scale revival.
@@ -894,6 +895,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tencent Hunyuan / 腾讯混元](entities/TencentHunyuan.md) — Tencent large-model team rebuilt under Yao Shunyu, used as the source's central organization, model, infra, and product-loop case.
+- [WeChat VLM / 微信 VLM](entities/WeChatVLM.md) — WeChat's independent model path, kept separate from Hunyuan because of privacy, user data, product culture, and scale constraints.
+- [Tencent CSIG](entities/TencentCSIG.md) — Tencent business group where the source places major AI applications such as Yuanbao, WorkBuddy, CodeBuddy, IMA, Marvis, and design agents.
+- [Tencent WorkBuddy](entities/TencentWorkBuddy.md) — Tencent office-agent product named as an early seed user for Hunyuan's reinforcement-learning platform.
+- [Martin Lau / 刘炽平](entities/MartinLau.md) — Tencent executive sponsor backing Yao Shunyu's Hunyuan rebuild with hiring, compute, leadership-change, and patience authority.
+- [Zhang Xiaolong / 张小龙](entities/ZhangXiaolong.md) — WeChat product leader whose privacy and product-control priorities help explain WeChat VLM's independence.
+- [Zhou Hao / 周颢](entities/ZhouHaoTencent.md) — WeChat technical leader associated with the independent VLM team in the source.
+- [Lu Shan / 卢山](entities/LuShanTencent.md) — Tencent TEG president in Yao Shunyu's Hunyuan reporting line.
+- [Tencent TEG](entities/TencentTEG.md) — Tencent technical and engineering group described as Hunyuan's original organizational home.
+- [Gao Honghao / 高宏昊](entities/GaoHonghao.md) — LatePost reporter whose Tencent and ByteDance reporting grounds the LateTalk episode on Hunyuan.
 - [Don Weinland](entities/DonWeinland.md) — The Intelligence contributor explaining Chinese driverless-taxi exports, overseas robotaxi economics, and AI-service standard setting.
 - [Ann Wroe](entities/AnnWroe.md) — The Intelligence contributor profiling Wally Funk's aviation career, early astronaut exclusion, and late Blue Origin spaceflight.
 - [Wally Funk](entities/WallyFunk.md) — Aviation pioneer whose early spaceflight test performance, FAA/NTSB work, and Blue Origin flight ground the gender-barrier spaceflight branch.
@@ -6116,6 +6127,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Federated AI Organization](concepts/FederatedAIOrganization.md) — Pattern where a central model team coexists with business-unit model teams because compute efficiency, data control, product fit, and user trust pull in different directions.
 - [Thin Diplomatic Frameworks](concepts/ThinDiplomaticFrameworks.md) — Pattern where vague agreements create apparent settlement while leaving enforcement, control, disarmament, money, and withdrawal questions unresolved.
 - [AI Service Export Standard-Setting](concepts/AIServiceExportStandardSetting.md) — Pattern where exported AI services such as robotaxis can shape local technical standards before rules and rivals mature.
 - [Gender Barrier Spaceflight](concepts/GenderBarrierSpaceflight.md) — Institutional pattern where women can pass spaceflight tests yet still be excluded from official astronaut selection.

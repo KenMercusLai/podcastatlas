@@ -2,11 +2,13 @@
 title: "Kimi K3"
 type: entity
 tags: [ai, model, china, coding]
-sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
-last_updated: 2026-08-07
+sources: [yao-shunyu-laidao-tengxun-300tian-1-176-1, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+last_updated: 2026-08-08
 ---
 
 # Kimi K3
+
+[[yao-shunyu-laidao-tengxun-300tian-1-176-1]] adds Kimi K3 as competitive pressure on [[TencentHunyuan]]. The source says Kimi K3's good reception forced discussion inside Hunyuan about whether later entrants can catch up through better architecture, data, and distillation, or whether Hunyuan 3's smaller scale meant its immediate impact would remain limited.
 
 [[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds Kimi K3 as a U.S. market-anxiety signal rather than a hands-on workflow test. [[AnitaRamaswamy]] says a recent Chinese model release, Kimi K3, was described as cheaper and close to the standard of [[Anthropic]]'s strongest models, making it part of the episode's [[China]] wild-card frame around AI capability and cost pressure.
 
@@ -25,3 +27,4 @@ The episode-dated release-governance claim is that K3 would open weights on 2026
 - [[PersistentAgentMemory]] - background project cleanup and knowledge-file work where slow models may still fit.
 - [[OpenWeightReleaseBoundary]] and [[OpenSourceAIModels]] - release-governance branch from the episode.
 - [[AIAcceleratorSupernode]] and [[DomesticAIChipCatchUp]] - hardware branch added by the WAIC supernode source.
+- [[TencentHunyuan]], [[DeepSeek]], [[MixtureOfExperts]], and [[LongChainAICompetition]] - Chinese model-competition context added by LateTalk episode 176.

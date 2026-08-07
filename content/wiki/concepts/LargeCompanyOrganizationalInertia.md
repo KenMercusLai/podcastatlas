@@ -2,11 +2,13 @@
 title: "Large Company Organizational Inertia"
 type: concept
 tags: [organizations, career, management]
-sources: [socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]
-last_updated: 2026-08-05
+sources: [yao-shunyu-laidao-tengxun-300tian-1-176-1, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]
+last_updated: 2026-08-08
 ---
 
 # Large Company Organizational Inertia
+
+[[yao-shunyu-laidao-tengxun-300tian-1-176-1]] adds [[Tencent]]'s AI-era version through [[TencentHunyuan]] and [[WeChatVLM]]. The source shows inertia as both weakness and protection: older search/advertising/recommendation backgrounds and business-unit data walls can slow model catch-up, while WeChat's autonomy also protects privacy, product judgment, and stability for a massive user surface.
 
 Large company organizational inertia is the episode's frame for how massive companies move with resources, momentum, rules, hierarchy, and replaceability. In [[ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]], the hosts use the image of a many-thousand-person iron ball to explain why one strong individual usually cannot redirect the organization, and why the organization may prioritize order over retention.
 
@@ -52,6 +54,7 @@ Large company organizational inertia is the episode's frame for how massive comp
 - Corporate normalization after acquisition can wear down a founder even when the acquired product and team are still valuable.
 - A founder-led functional reset can reduce some inertia by forcing one roadmap and fewer initiatives, but it can also concentrate review capacity around the founder.
 - Founder mode frames skip-level relationships and daily direction as anti-inertia mechanisms, especially when executive autonomy has produced fragmented teams.
+- In AI, business-unit autonomy can become both a data/control bottleneck and a product-safety mechanism; centralizing model work is not automatically superior when a unit like WeChat has distinct trust and privacy requirements.
 
 ## Connections
 - [[StarTalentInBigCompanies]] — individual-level pattern inside the same environment.
@@ -68,3 +71,4 @@ Large company organizational inertia is the episode's frame for how massive comp
 - [[Huawei]], [[TauLaw]], and [[HuaweiOrganizationalMethodology]] — scale-coordination case added by the Huawei source.
 - [[XiaoMan]], [[DaChangXiaomin]], [[CareerShoreMyth]], [[SystemHumanity]], and [[LayoffBuffer]] — ordinary-worker and layoff layer added by the Mianji source.
 - [[Airbnb]], [[BrianChesky]], [[FounderLedFunctionalOrganization]], and [[FounderMode]] - founder-led countermeasure added by the second Chesky and YC offsite episodes.
+- [[Tencent]], [[TencentHunyuan]], [[WeChatVLM]], [[YaoShunyu]], [[MartinLau]], and [[FederatedAIOrganization]] - Tencent AI-era centralization versus autonomy case added by LateTalk episode 176.

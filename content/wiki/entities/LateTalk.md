@@ -2,7 +2,7 @@
 title: "LateTalk"
 type: entity
 tags: [podcast, media]
-sources: [duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1, 173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
+sources: [yao-shunyu-laidao-tengxun-300tian-1-176-1, duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1, 173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
 last_updated: 2026-08-08
 ---
 
@@ -26,6 +26,8 @@ The Q2 2026 AI-quarter source adds [[HenryYin]] as a guest and shifts from embod
 
 [[duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1]] adds [[ChenMian]] of [[Evoken]] as an AI application-founder case. The episode connects [[Liblib]], [[Lavod]], and [[LibTV]] to [[AIApplicationSurvivalStrategy]], [[AIStartupUnitEconomics]], [[AISubscriptionEconomics]], [[ModelProviderToolCompetition]], and [[AIOrganizationDesign]], making LateTalk's AI coverage more directly about application-layer survival under model pressure.
 
+[[yao-shunyu-laidao-tengxun-300tian-1-176-1]] adds [[GaoHonghao]]'s reporting-based discussion of [[YaoShunyu]]'s first 300 days at [[TencentHunyuan]]. It extends LateTalk's AI coverage from application survival and quarterly model reviews into large-company model-team reform, [[FederatedAIOrganization]], [[WeChatVLM]], and Tencent's tension between product-unit autonomy and centralized AI infrastructure.
+
 ## Connections
 - [[ChenZhePeter]] and [[AlphaEast]] — recurring guest and investment-firm context for the quarterly review.
 - [[EmbodiedAI]], [[WorldModels]], and [[HumanoidRobotCommercialization]] — main subject areas covered by the episode.
@@ -37,3 +39,4 @@ The Q2 2026 AI-quarter source adds [[HenryYin]] as a guest and shifts from embod
 - [[YaoSong]], [[DeePhiTech]], [[Orienspace]], [[StridingAI]], and [[PhysicalIntelligenceSystemStack]] — hard-tech founder and physical-intelligence system-stack interview.
 - [[YuanXin]], [[SAP]], [[EnterpriseResourcePlanning]], [[ERPTrustMoat]], and [[BusinessLedAITransformation]] — enterprise software and to-B AI interview.
 - [[ChenMian]], [[Evoken]], [[LibTV]], and [[AIApplicationSurvivalStrategy]] — AI application-startup survival, pricing, and organization case.
+- [[GaoHonghao]], [[YaoShunyu]], [[TencentHunyuan]], [[WeChatVLM]], and [[FederatedAIOrganization]] — Tencent AI organization case added by episode 176.

@@ -2,11 +2,13 @@
 title: "Tencent"
 type: entity
 tags: [company, internet, ai]
-sources: [vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]
-last_updated: 2026-08-06
+sources: [yao-shunyu-laidao-tengxun-300tian-1-176-1, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]
+last_updated: 2026-08-08
 ---
 
 # Tencent
+
+[[yao-shunyu-laidao-tengxun-300tian-1-176-1]] adds Tencent's current large-model organization case through [[TencentHunyuan]], [[YaoShunyu]], and [[WeChatVLM]]. The source argues that Tencent's AI challenge is not only model quality: it has to rebuild Hunyuan's talent and infra while deciding how hard to centralize AI resources across autonomous product groups such as [[WeChat]].
 
 Tencent appears in [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun]] through two roles: the historical [[QQ]] membership precedent and the current [[Yuanbao]] AI assistant. The episode uses Tencent to connect early Chinese internet membership charging with today's domestic AI subscription debate. [[2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne]] adds Tencent as a major game/platform company whose AI exploration is described as more conservative than [[ByteDance]]'s.
 
@@ -40,6 +42,8 @@ Tencent appears in [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zon
 - The Touteng source adds Tencent's platform-competition strengths and weaknesses: [[TiantianKuaibao]] and [[TencentWeishi]] show missed or weak recommendation-era responses, while [[WeChat]], [[WeChatChannels]], games, and IP show durable relationship and content assets.
 - The same source warns that Tencent cannot treat AI as peripheral if the next system capability shifts user entry points away from existing social and game platforms.
 - Episode 206 adds Tencent as a capital and content participant in internet healthcare rather than as the main operating platform.
+- Episode 176 adds Tencent's Hunyuan/WeChat split as a [[FederatedAIOrganization]] case: central model capability is attractive under scarce compute, but product units may defend their own data, culture, and reliability requirements.
+- The same source says [[MartinLau]]'s sponsorship gave [[YaoShunyu]] unusual room to hire, change key leaders, and rebuild [[TencentHunyuan]] before definitive top-tier model proof.
 
 ## Connections
 - [[QQ]] — early paid membership comparison.
@@ -56,3 +60,4 @@ Tencent appears in [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zon
 - [[ToutengWar]], [[PonyMa]], [[ZhangYiming]], [[TiantianKuaibao]], [[TencentWeishi]], [[WeChatChannels]], [[TencentAdvertising]], and [[PlatformCompanyWorldviews]] — ByteDance/Tencent competitive map from the Luanfanshu episode.
 - [[SocialGraphMoat]], [[UnifiedAdPlatform]], and [[PlatformIPStrategy]] — strategic concepts added by the source.
 - [[DXY]], [[WeDoctor]], [[Haodf]], [[InternetHealthcare]], and [[MedicalAIWorkflowIntegration]] — healthcare investment and AI-workflow context added by episode 206.
+- [[TencentHunyuan]], [[WeChatVLM]], [[TencentCSIG]], [[TencentTEG]], [[YaoShunyu]], [[MartinLau]], [[ZhangXiaolong]], and [[FederatedAIOrganization]] — large-model organization branch added by episode 176.
