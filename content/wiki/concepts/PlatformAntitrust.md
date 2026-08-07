@@ -2,7 +2,7 @@
 title: "Platform Antitrust"
 type: concept
 tags: [platform, antitrust, regulation, china]
-sources: [the-invention-invention, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, seven-allegedly-fake-chanel-bags-vs-the-realreal]
+sources: [the-invention-invention, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, seven-allegedly-fake-chanel-bags-vs-the-realreal, ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw]
 last_updated: 2026-08-07
 ---
 
@@ -13,6 +13,8 @@ Platform antitrust is the question of when a dominant platform's rules, pricing,
 [[the-invention-invention]] adds a patent-pool comparison. A [[PatentPool]] is not a platform in the online marketplace sense, but [[PatentPoolCartelRisk]] raises a similar governance problem: useful shared infrastructure can become exclusionary market power if access, price, and participant behavior are not constrained.
 
 The episode's core distinction is that concentration itself can have operational reasons, especially in [[OnlineTravelAgency]] markets. The policy issue is whether the platform uses that concentration to force terms, hide fees, distort display, or weaken supplier autonomy.
+
+[[ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw]] adds the penalty-centered version of the same Ctrip problem. The episode says [[CtripAntitrustPenalty]] was grounded in merchant-side [[TravelPlatformMerchantExclusivity]] and [[TravelPriceParityEnforcement]], making the abuse question less abstract than a general complaint about platform arrogance.
 
 [[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]] adds an AI-search version through [[GoogleAIOverviews|Google AI Overviews]]. The source says the [[EuropeanCommission]] is investigating [[Google]] over possible competition-rule violations tied to use of digital publishers' content. In this case, the antitrust issue is less about hotel inventory or hidden fees and more about whether a dominant answer surface can summarize publisher material while weakening outbound traffic.
 
@@ -26,10 +28,12 @@ The episode's core distinction is that concentration itself can have operational
 - AI answer surfaces can become antitrust-relevant when they combine market power, publisher content, attribution design, and traffic diversion.
 - Trademark enforcement can become antitrust-relevant when a brand's control tactics make independent resale or marketplace competition harder.
 - Patent-pool cases show the same infrastructure-versus-control boundary in licensing rather than ranking or marketplace design.
+- Penalty cases can clarify which alleged harms are legally central: EP91 separates Ctrip's merchant restrictions from broader user complaints about cancellation friction or big-data pricing risk.
 
 ## Connections
 - [[PatentPool]], [[PatentPoolCartelRisk]], [[FRANDLicensing]], and [[CollaborationVsCollusion]] - patent-pool comparison added by Planet Money.
 - [[Ctrip]], [[Damai]], and [[StateAdministrationForMarketRegulation]] — source cases.
 - [[Google]], [[GoogleAIOverviews|Google AI Overviews]], [[EuropeanCommission]], [[DailyMail]], and [[AIAnswerSourceAttribution]] - AI-search platform-power case added by Marketplace Tech.
 - [[OTAPlatformConcentration]], [[HotelPlatformPricingPower]], [[TravelBookingHiddenFees]], and [[PlatformDataRegulation]] — adjacent concepts.
+- [[CtripAntitrustPenalty]], [[TravelPlatformMerchantExclusivity]], and [[TravelPriceParityEnforcement]] — penalty mechanics added by EP91.
 - [[Chanel]], [[TheRealReal]], [[TrademarkResaleBoundary]], and [[FirstSaleDoctrine]] - brand-control and resale-competition branch added by Planet Money.

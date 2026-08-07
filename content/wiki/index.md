@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP91 订房订票定江山，携程51亿为傲慢买单](sources/ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw.md) — 一劳永逸 episode on Ctrip's 51.79亿元 antitrust penalty, merchant exclusivity, full-network-lowest-price enforcement, OTA competition history, consumer trust, internationalization, customer service, and AI travel planning.
 - [No.212 曾经的精神角落：豆瓣、知乎、贴吧、虎扑 | 中国互联网故事25](sources/no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980.md) — Banlatte episode on Douban, Zhihu, Baidu Tieba, and Hupu as PC-era Chinese communities whose relationship density, subcultures, and shared memory made them emotionally powerful but commercially fragile.
 - [Brave New whirl: Turkey's opposition overhaul](sources/brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f.md) — The Intelligence episode on Ozel's New Party and Turkish opposition suppression, Jens Spahn's German surrogacy scandal, and Gen Z career advice under AI.
 - [An interview with Elon Musk](sources/an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c.md) — Full The Intelligence interview with Elon Musk on AI, humanoid robots, universal high income, frontier-model peer review, SpaceX control, Starlink in Ukraine, DOGE/USAID, X, and European political influence.
@@ -5519,6 +5520,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mujian](entities/Mujian.md) — AI simulation interactive content platform building virtual-life experiences, creator tooling, distribution, and monetization.
 - [LibLib](entities/LibLib.md) — AI creator-tool and community company where Roi worked before founding Mujian.
 - [Ctrip / Trip.com Group](entities/Ctrip.md) — Chinese online-travel platform used to explain OTA concentration, hotel inventory control, pricing power, hidden fees, and platform antitrust.
+- [Ctrip Wendao](entities/CtripWendao.md) — Ctrip travel-industry vertical model used to discuss AI travel planning, booking convenience, and platform trust after the antitrust penalty.
 - [Liang Jianzhang](entities/LiangJianzhang.md) — Ctrip co-founder and returning CEO figure tied to technology, mobile recovery, supplier systems, and demographic research.
 - [Ji Qi](entities/JiQi.md) — Ctrip co-founder whose path into Home Inns, Hanting, and Huazhu connects OTA demand aggregation with hotel-chain supply.
 - [Shen Nanpeng](entities/ShenNanpeng.md) — Ctrip co-founder and investor figure tied to the Nasdaq listing and later OTA capital-consolidation context.
@@ -5532,6 +5534,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hanting Hotel](entities/HantingHotel.md) — Ji Qi's post-Home Inns hotel venture and predecessor context for Huazhu Group.
 - [Huazhu Group](entities/HuazhuGroup.md) — Hotel-chain group used to contrast large supplier bargaining power with individual hotel and homestay dependence on OTAs.
 - [Qunar](entities/Qunar.md) — Travel-search and price-comparison competitor used in the Ctrip episode's OTA competition and consolidation history.
+- [Zhuang Chenchao](entities/ZhuangChenchao.md) — Qunar founder used to explain travel price-comparison search and mobile pressure on Ctrip before later consolidation.
 - [Elong](entities/Elong.md) — OTA competitor and Expedia-linked China travel platform in the episode's consolidation history.
 - [Tongcheng Travel](entities/TongchengTravel.md) — OTA competitor and later Tencent/Ctrip-linked platform representing ground-sales and partnership routes into travel booking.
 - [MakeMyTrip](entities/MakeMyTrip.md) — India online-travel company used as part of Ctrip's global expansion context.
@@ -9682,15 +9685,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Local-Life Platform Dependency](concepts/LocalLifePlatformDependency.md) — Small-merchant reliance on local-service platforms and intermediaries for demand, messaging, paid traffic, data, and fulfillment expectations.
 - [Platform Intermediation Tax](concepts/PlatformIntermediationTax.md) — Hidden margin and control cost when traffic-owning or order-intermediating layers pass local fulfillment work to small merchants.
 - [Tourism Traffic Mismatch](concepts/TourismTrafficMismatch.md) — Gap between platform-visible tourist flows and local repeat demand, resident knowledge, durable neighborhood value, or the social machinery behind "real" ritual.
+- [Ctrip Antitrust Penalty](concepts/CtripAntitrustPenalty.md) — Penalty-centered frame for Ctrip's alleged abuse of online-travel market dominance through merchant restrictions and price-parity enforcement.
 - [Online Travel Agency](concepts/OnlineTravelAgency.md) — Platform model aggregating travel inventory, booking, payment, support, invoices, and itinerary management.
 - [OTA Platform Concentration](concepts/OTAPlatformConcentration.md) — Tendency for online-travel booking power to concentrate when users, hotels, inventory, traffic, and systems all reward scale.
 - [Hotel PMS Inventory Control](concepts/HotelPMSInventoryControl.md) — Platform leverage created when booking channels influence hotel property-management and room-inventory systems.
 - [Hotel Platform Pricing Power](concepts/HotelPlatformPricingPower.md) — Ability of a booking platform to influence lodging prices, promotions, display, and merchant participation.
+- [Travel Platform Merchant Exclusivity](concepts/TravelPlatformMerchantExclusivity.md) — OTA version of "二选一" where merchant exposure or ranking is tied to limiting supply on rival platforms.
+- [Travel Price Parity Enforcement](concepts/TravelPriceParityEnforcement.md) — Full-network-lowest-price practice backed by cross-platform monitoring, repricing tools, and merchant status pressure.
 - [Travel Super App Convenience](concepts/TravelSuperAppConvenience.md) — User value created when flights, hotels, tickets, invoices, itinerary changes, and support sit in one interface.
 - [Travel Booking Hidden Fees](concepts/TravelBookingHiddenFees.md) — Insurance, package, advertising, default-selection, or mis-click monetization inside travel booking flows.
 - [Homestay Differentiation](concepts/HomestayDifferentiation.md) — Lodging value from style, location, host experience, and atmosphere that can be flattened by platform comparison.
 - [Platform Antitrust](concepts/PlatformAntitrust.md) — Question of when dominant platform rules, pricing, ranking, contracts, and data advantages become abusive rather than efficient.
 - [Platform Data Regulation](concepts/PlatformDataRegulation.md) — Governance approach based on visibility into order, commission, price, ranking, fulfillment, and other hidden platform data.
+- [AI Travel Planning](concepts/AITravelPlanning.md) — AI-assisted itinerary and booking workflow that connects travel intent, inventory, pricing, support, and platform trust.
 - [Kelly Criterion](concepts/KellyCriterion.md) — Repeated-bet sizing rule used by E153 to connect edge, payoff, survival, and fractional position sizing.
 - [Position Sizing](concepts/PositionSizing.md) — Capital-allocation decision that turns an investment edge into portfolio exposure while controlling ruin risk.
 - [Investment Edge](concepts/InvestmentEdge.md) — Positive-expectation advantage built from probability, payoff, rules, information, patience, execution, or structure.

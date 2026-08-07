@@ -2,8 +2,8 @@
 title: "Skyscanner"
 type: entity
 tags: [company, travel-search, online-travel]
-sources: [kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun]
-last_updated: 2026-07-07
+sources: [kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw]
+last_updated: 2026-08-07
 ---
 
 # Skyscanner
@@ -11,6 +11,8 @@ last_updated: 2026-07-07
 Skyscanner appears in [[kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun]] as part of [[Ctrip]]'s international expansion. The source treats it as a travel-search and comparison asset that fits the broader [[OnlineTravelAgency]] pattern of aggregating demand and routing users toward travel inventory.
 
 The source places Skyscanner beside [[MakeMyTrip]], [[BookingHoldings]], and [[ExpediaGroup]] to show that Ctrip's story is not only a Chinese hotel-booking story but also a global OTA and travel-search competition story.
+
+[[ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw]] adds the deal detail that Ctrip acquired Skyscanner in 2016 and uses it as part of the internationalization path that could offset domestic antitrust and trust pressure.
 
 ## Connections
 - [[Ctrip]] — acquirer/global expansion context.

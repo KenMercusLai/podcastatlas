@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-07] ingest | EP91 订房订票定江山，携程51亿为傲慢买单
+
+Added source page for a 一劳永逸 episode on Ctrip's reported 51.79亿元 antitrust penalty, covering merchant-side exclusivity, full-network-lowest-price enforcement, automatic price monitoring and repricing tools, consumer cancellation and price-disclosure trust issues, Ctrip's founding and "鼠标加水泥" operating model, Elong and Qunar competition, internationalization through Skyscanner and MakeMyTrip, customer service, data assets, and Ctrip Wendao. Created pages for Zhuang Chenchao, Ctrip Wendao, Ctrip Antitrust Penalty, Travel Platform Merchant Exclusivity, Travel Price Parity Enforcement, and AI Travel Planning; updated overview, index, Ctrip, State Administration for Market Regulation, Qunar, Elong, Skyscanner, MakeMyTrip, 一劳永逸, Platform Antitrust, Platform Data Regulation, Hotel Platform Pricing Power, OTA Platform Concentration, Travel Booking Hidden Fees, Online Travel Agency, and Travel Super App Convenience. No direct contradiction found; the source narrows the legal core of the Ctrip case to merchant restrictions while keeping consumer-side pricing and cancellation complaints as trust and governance concerns.
+
 ## [2026-08-07] ingest | Opening the curtain of AI business integration
 
 Added source page for a Marketplace Tech episode with Priya Rathod of Indeed on workplace AI adoption, covering employer demand for specific AI skills, the behavioral definition of AI native workers, worker confidence gaps, manager AI fluency, governance and privacy concerns, job-security anxiety, Gen Z exposure versus capability, and the need for training, milestones, and department-specific rollout. Created pages for Priya Rathod, Workplace AI Readiness Gap, AI Native Worker, Managerial AI Fluency Gap, and AI Job Security Anxiety; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Indeed, YouGov, AI Worker Literacy, Business-Led AI Transformation, AI Organization Design, AI Economic Diffusion, and AI Automation Redistribution. No direct contradiction found; the source qualifies AI worker literacy and business-led AI transformation by showing that tool access and executive enthusiasm do not produce adoption unless worker trust, manager readiness, privacy, governance, and job-security incentives are handled.
@@ -7093,6 +7097,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] ingest | An interview with Elon Musk
 
 Added source page for the full Economist Podcasts / The Intelligence interview where Zanny Minton Beddoes presses Elon Musk on AI timelines, humanoid robots, AI values, frontier-model peer review, China and U.S. intervention, OpenAI and Anthropic trust, optional work, universal high income, SpaceX control and succession, Starlink in Ukraine, DOGE/USAID, X, European politics, immigration, and free speech. Created pages for Frontier Model Peer Review, Universal High Income, AI Work Optionality, AI Fatalistic Acceleration, and Private Infrastructure War Power; updated overview, index, Elon Musk, Zanny Minton Beddoes, SpaceX, Tesla, Starlink, Department of Government Efficiency, USAID, OpenAI, Anthropic, Twitter/X, The Intelligence, Economist Podcasts, AI Abundance Narrative, AI Safety Coordination, Frontier Model Release Governance, AI Alignment Governance, Recursive Self-Improvement, Physical AI, Humanoid Robot Commercialization, Founder Control, and Techno-Optimism Present-Threat Gap. No direct contradiction found; this source overlaps with The Elon game but is recorded separately as the full interview and keeps disputed claims about USAID deaths, British civil-war risk, Ukraine war outcomes, crime, media trust, and AI timelines source-scoped.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-08] lint | Wiki health check
 

@@ -1959,6 +1959,10 @@
     "title": "AI Translation",
     "url": "/wiki/concepts/aitranslation/"
   },
+  "AITravelPlanning": {
+    "title": "AI Travel Planning",
+    "url": "/wiki/concepts/aitravelplanning/"
+  },
   "AIUniversityAssessmentReform": {
     "title": "AI University Assessment Reform",
     "url": "/wiki/concepts/aiuniversityassessmentreform/"
@@ -8982,6 +8986,14 @@
   "Ctrip": {
     "title": "Ctrip / Trip.com Group",
     "url": "/wiki/entities/ctrip/"
+  },
+  "CtripAntitrustPenalty": {
+    "title": "Ctrip Antitrust Penalty",
+    "url": "/wiki/concepts/ctripantitrustpenalty/"
+  },
+  "CtripWendao": {
+    "title": "Ctrip Wendao",
+    "url": "/wiki/entities/ctripwendao/"
   },
   "Cuba": {
     "title": "Cuba",
@@ -34075,6 +34087,14 @@
     "title": "Travel Booking Hidden Fees",
     "url": "/wiki/concepts/travelbookinghiddenfees/"
   },
+  "TravelPlatformMerchantExclusivity": {
+    "title": "Travel Platform Merchant Exclusivity",
+    "url": "/wiki/concepts/travelplatformmerchantexclusivity/"
+  },
+  "TravelPriceParityEnforcement": {
+    "title": "Travel Price Parity Enforcement",
+    "url": "/wiki/concepts/travelpriceparityenforcement/"
+  },
   "TravelReadingAsPlaceInquiry": {
     "title": "Travel Reading As Place Inquiry",
     "url": "/wiki/concepts/travelreadingasplaceinquiry/"
@@ -37879,6 +37899,10 @@
     "title": "朱晓东 / Zhu Xiaodong",
     "url": "/wiki/entities/zhuxiaodongsportsrights/"
   },
+  "ZhuangChenchao": {
+    "title": "Zhuang Chenchao",
+    "url": "/wiki/entities/zhuangchenchao/"
+  },
   "ZhuangMinghao": {
     "title": "庄明浩 / 庄明昊",
     "url": "/wiki/entities/zhuangminghao/"
@@ -38734,6 +38758,10 @@
   "ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p": {
     "title": "EP90 从美加墨世界杯看懂期权—华尔街的终极武器",
     "url": "/wiki/sources/ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p/"
+  },
+  "ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw": {
+    "title": "EP91 订房订票定江山，携程51亿为傲慢买单",
+    "url": "/wiki/sources/ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw/"
   },
   "eric-ries-incorruptible-by-design-wrgromn5peq": {
     "title": "Eric Ries: Incorruptible by Design",
