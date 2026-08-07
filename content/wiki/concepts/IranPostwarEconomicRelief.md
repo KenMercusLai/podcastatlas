@@ -2,8 +2,8 @@
 title: "Iran Postwar Economic Relief"
 type: concept
 tags: [geopolitics, economics, diplomacy, sanctions]
-sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
-last_updated: 2026-08-07
+sources: [omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb, ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
+last_updated: 2026-08-08
 ---
 
 # Iran Postwar Economic Relief
@@ -18,12 +18,15 @@ The source is skeptical about delivery. A $300bn fund would be roughly the size 
 
 [[strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]] adds the downside of losing the relief bargain. The episode says [[Iran]] had gained sanctions and blockade benefits from the memorandum, but by attacking ships and insisting on traffic control in the [[StraitOfHormuz]], it gave up much of the economic upside it had sought.
 
+[[omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb]] adds the frozen-funds implementation dispute. The episode says Iran expected immediate access to frozen funds, while America insists on phased release after compliance. That turns relief from a headline concession into a sequencing and trust problem inside [[ThinDiplomaticFrameworks]].
+
 ## Key Claims
 - Economic relief can reward or stabilize a regime even when military objectives were not achieved.
 - A blockade and sanctions can create bargaining leverage, but lifting them can also become the concession that lets the other side claim victory.
 - Reconstruction-fund promises should be judged by funding source, sanctions politics, and neighboring-state incentives.
 - Shipping fees or tolls around the [[StraitOfHormuz]] remain future leverage even when Iran pauses them temporarily.
 - Relief leverage weakens if the recipient uses the chokepoint in a way that destroys commercial confidence and reopens escalation.
+- Frozen-asset relief can fail if the text does not specify timing, compliance triggers, and access conditions clearly enough for both sides.
 
 ## Connections
 - [[Iran]] - state receiving or seeking relief.
@@ -33,3 +36,4 @@ The source is skeptical about delivery. A $300bn fund would be roughly the size 
 - [[GulfCooperationCouncil]] and [[GulfStabilityRisk]] - adjacent Gulf confidence and funding-risk context.
 - [[ChokepointShippingConfidence]] - later episode's operational test for whether relief and passage promises are commercially credible.
 - [[RegimeBasicBaseStabilization]] - EP251 warning that relief can maintain the state machine without producing rapid development.
+- [[ThinDiplomaticFrameworks]] - later source's warning that vague relief language can preserve conflict rather than resolve it.

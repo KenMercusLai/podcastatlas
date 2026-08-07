@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Omission accomplished: why the Iran-war cycle spins on](sources/omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb.md) — The Intelligence episode on the fraying U.S.-Iran MOU, Hormuz control, thin Middle East diplomacy, Chinese driverless-taxi exports, AI-service standard setting, and Wally Funk's late spaceflight.
 - [149. 亲历中美 New Labs 资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和 Max Tegmark](sources/149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv.md) — 张小珺Jùn｜商业访谈录 episode with Liu Ziming on AI for AI, Physics of AI, mechanistic interpretability, KAN, OPHIS, meta-model training-curve prediction, training autopilot, vibe training, and New Lab financing.
 - [Working memory: the surprising decline of dementia](sources/working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b.md) — The Intelligence episode on falling age-adjusted dementia rates, modifiable dementia risks, Pix as Brazilian instant-payment infrastructure under tariff pressure, and emo's stadium-scale revival.
 - [Advice Line with Chris Riccobono of UNTUCKit](sources/advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c.md) — How I Built This Advice Line episode with Chris Riccobono on UNTUCKit, Greatness Wins, AeroShorts, Snug Safety, Hockey Ninja, core-tribe positioning, wholesale as marketing, trust-based distribution, and safety-product credibility.
@@ -893,6 +894,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Don Weinland](entities/DonWeinland.md) — The Intelligence contributor explaining Chinese driverless-taxi exports, overseas robotaxi economics, and AI-service standard setting.
+- [Ann Wroe](entities/AnnWroe.md) — The Intelligence contributor profiling Wally Funk's aviation career, early astronaut exclusion, and late Blue Origin spaceflight.
+- [Wally Funk](entities/WallyFunk.md) — Aviation pioneer whose early spaceflight test performance, FAA/NTSB work, and Blue Origin flight ground the gender-barrier spaceflight branch.
+- [Blue Origin](entities/BlueOrigin.md) — Spaceflight company that carried Wally Funk to space at 82 as Jeff Bezos's guest.
+- [William Randolph Lovelace](entities/WilliamRandolphLovelace.md) — Doctor whose early women-in-spaceflight testing program included Wally Funk.
+- [Federal Aviation Administration](entities/FederalAviationAdministration.md) — U.S. aviation agency where Wally Funk instructed pilots and inspected airplanes.
+- [National Transportation Safety Board](entities/NationalTransportationSafetyBoard.md) — U.S. safety agency where Wally Funk investigated air crashes.
+- [Oman](entities/Oman.md) — Gulf mediator whose proposed Hormuz truce and management consortium were rejected by Iran in the source.
+- [Houthis](entities/Houthis.md) — Yemen-based armed movement used by the source as a case of unresolved thin diplomacy after Saudi-linked agreements.
+- [Yemen](entities/Yemen.md) — Conflict setting for the Houthi example in the source's thin-diplomacy pattern.
+- [Hamas](entities/Hamas.md) — Armed movement whose disarmament is cited as an unresolved Gaza agreement question.
+- [Gaza](entities/Gaza.md) — Conflict theater used by the source to show how agreements can omit hard disarmament and withdrawal questions.
 - [Liu Ziming / 刘子鸣](entities/LiuZiming.md) — Tsinghua AI assistant professor, Shanghai Qi Zhi Institute PI, and Yuanhuan Intelligence participant building a Physics-of-AI route to AI for AI.
 - [Max Tegmark](entities/MaxTegmark.md) — Liu Ziming's MIT advisor in episode 149, tied to AI for Physics, mechanistic interpretability, safety concern, and the KAN origin story.
 - [Yuanhuan Intelligence / 圆环智能](entities/YuanhuanIntelligence.md) — New Lab-style AI research company connected to Liu Ziming's AI for AI, Physics of AI, OPHIS, meta-model, and training autopilot thesis.
@@ -6103,6 +6116,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Thin Diplomatic Frameworks](concepts/ThinDiplomaticFrameworks.md) — Pattern where vague agreements create apparent settlement while leaving enforcement, control, disarmament, money, and withdrawal questions unresolved.
+- [AI Service Export Standard-Setting](concepts/AIServiceExportStandardSetting.md) — Pattern where exported AI services such as robotaxis can shape local technical standards before rules and rivals mature.
+- [Gender Barrier Spaceflight](concepts/GenderBarrierSpaceflight.md) — Institutional pattern where women can pass spaceflight tests yet still be excluded from official astronaut selection.
 - [AI For AI](concepts/AIForAI.md) — Umbrella for using AI to automate AI research, model design, training, and experimentation, distinguished from simple coding-agent or paper-agent loops.
 - [Physics Of AI](concepts/PhysicsOfAI.md) — Liu Ziming's science-for-AI frame using internal structure, training dynamics, controlled experiments, and theory-like compression to understand and design models.
 - [Mechanistic Interpretability](concepts/MechanisticInterpretability.md) — Model-internal explanation field tied in episode 149 to AI safety, visualization, brittleness across seeds, and Physics of AI.

@@ -7149,3 +7149,11 @@ Added source page for a 张小珺Jùn｜商业访谈录 episode with Liu Ziming 
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 10,180 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-07 with 9,679 nodes and 103,834 edges; they found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key is configured in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-08] ingest | Omission accomplished: why the Iran-war cycle spins on
+
+Added source page for a The Intelligence episode on the fraying U.S.-Iran MOU, Hormuz control, thin Middle East diplomacy, Chinese driverless-taxi exports, AI-service standard setting, and Wally Funk's late spaceflight. Created pages for Don Weinland, Ann Wroe, Wally Funk, Blue Origin, William Randolph Lovelace, Federal Aviation Administration, National Transportation Safety Board, Oman, Houthis, Yemen, Hamas, Gaza, Thin Diplomatic Frameworks, AI Service Export Standard-Setting, and Gender Barrier Spaceflight; updated overview, index, The Intelligence, Economist Podcasts, Greg Carlstrom, Iran, Strait of Hormuz, U.S.-Iran Nuclear Diplomacy, Iran Postwar Economic Relief, Proxy Conflict Spoiler Risk, Chokepoint Shipping Confidence, China AI Export Leverage, Robotaxi Economics, Baidu, Waymo, and Jeff Bezos. No direct contradiction found; the source updates the July 2026 Hormuz/MOU branch by arguing that thin term sheets can briefly claim peace while leaving the operational questions that keep conflict cycling.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 10,196 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key is configured in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.

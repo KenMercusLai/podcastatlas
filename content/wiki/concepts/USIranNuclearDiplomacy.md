@@ -2,8 +2,8 @@
 title: "U.S.-Iran Nuclear Diplomacy"
 type: concept
 tags: [geopolitics, diplomacy, nuclear]
-sources: [hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5, ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
-last_updated: 2026-08-07
+sources: [omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb, hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5, ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
+last_updated: 2026-08-08
 ---
 
 # U.S.-Iran Nuclear Diplomacy
@@ -30,6 +30,8 @@ The source's main contribution is fragility. A deal can cover sanctions, assets,
 
 [[strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]] adds the clause-interpretation failure. The memorandum's promise that [[Iran]] would arrange safe commercial passage through the [[StraitOfHormuz]] could not survive incompatible readings: America wanted mines removed and movement restored, while Iran claimed administrative control over which vessels moved and when.
 
+[[omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb]] adds the deadline and non-decisive-pressure update. [[GregCarlstrom]] says the MOU gives the parties until August 16, 2026 to negotiate a comprehensive agreement, but serious high-level talks have barely begun. The source also argues that neither side has a decisive tool: U.S. strikes, blockades, and Iranian escalation can all impose costs without forcing settlement, making the diplomacy a [[ThinDiplomaticFrameworks]] and conflict-cycle problem.
+
 ## Connections
 - [[Iran]] - state actor in the negotiation.
 - [[IranSanctions]], [[DollarFinancialSanctions]], and [[SanctionsOvercompliance]] - historical sanctions-leverage and relief-credibility branch added by Planet Money.
@@ -42,5 +44,6 @@ The source's main contribution is fragility. A deal can cover sanctions, assets,
 - [[PoliticalFuneral]] and [[AutocraticSuccession]] - adjacent Iran sources where diplomacy continues under regime-uncertainty conditions.
 - [[NicholasPelham]] and [[DonaldTrump]] - new-source participants in the ceasefire-collapse stage.
 - [[GregCarlstrom]] and [[ChokepointShippingConfidence]] - later explanation of why formal safe-passage language did not restore commercial confidence.
+- [[Oman]] and [[ThinDiplomaticFrameworks]] - failed truce proposal and vague-term-sheet diagnosis added by the Omission accomplished episode.
 - [[IranNuclearMissileBargaining]], [[IranHorizontalEscalation]], and [[RegimeBasicBaseStabilization]] - EP251's nuclear/missile, escalation, and fiscal-guarantee bargaining frames.
 - [[JosephAoun]], [[Lebanon]], [[StateCredibilityAgainstMilitia]], and [[BankingLossAllocationPolitics]] - Lebanon implementation branch added by Hard cedar.

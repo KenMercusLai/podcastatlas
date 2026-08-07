@@ -2,8 +2,8 @@
 title: "Robotaxi Economics"
 type: concept
 tags: [autonomous-driving, mobility, business-model]
-sources: [tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
+last_updated: 2026-08-08
 ---
 
 # Robotaxi Economics
@@ -16,6 +16,8 @@ The concept differs from generic autonomous-driving capability. A robotaxi busin
 
 [[tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128]] adds the scale-without-profitability version. [[KirstenKorosek]] says [[Waymo]] was giving about 250,000 rides per week in April 2025 and aiming for one million, but robotaxi businesses still do not appear profitable based on available evidence; for public companies in robotaxis or self-driving trucks, expenses are outpacing revenue.
 
+[[omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb]] adds the cross-border fare-arbitrage version through [[DonWeinland]]. The episode says Chinese robotaxi firms may earn more abroad because domestic China has many taxi drivers and low fares, while a 10km ride in [[Wuhan]] can cost about 23 yuan and a similar ride in [[Switzerland]] about $54. That makes overseas deployment a revenue, labor-market, and [[AIServiceExportStandardSetting]] problem at once.
+
 ## Key Claims
 - Removing the driver can transform ride-hailing unit economics, but only if the autonomous system is safe, useful, and deployed densely enough.
 - Retrofit products can look like a revenue bridge while hiding liability, compatibility, and support complexity.
@@ -23,6 +25,7 @@ The concept differs from generic autonomous-driving capability. A robotaxi busin
 - Robotaxi economics connects technical progress to operations, capital, manufacturing, regulation, and public trust.
 - Ride-hailing platforms may prefer hybrid or multi-partner rollout even if autonomy works, because full robotaxi dependence can concentrate supplier power and reduce operational flexibility.
 - Higher ride volume is necessary but not sufficient: the business still has to absorb vehicles, depots, remote support, maintenance, regulation, and city-specific operating friction.
+- Overseas markets can be more attractive when fares are higher, labor is scarcer, and local standards are still open to early service providers.
 
 ## Connections
 - [[Cruise]], [[KyleVogt]], and [[GeneralMotors]] - source company, founder, and acquirer.
@@ -30,3 +33,4 @@ The concept differs from generic autonomous-driving capability. A robotaxi busin
 - [[Waymo]], [[Tesla]], and [[EmbodiedAI]] - adjacent autonomous-driving and physical-AI context already tracked by the wiki.
 - [[Uber]] and [[RobotaxiHybridDeployment]] - platform strategy and city-rollout branch added by Marketplace Tech.
 - [[KirstenKorosek]], [[TechCrunch]], [[Zoox]], [[WeRide]], [[PonyAI|Pony.ai]], [[Momenta]], [[PathToProfitability]], [[AutonomousVehicleRegulatoryPatchwork]], and [[RobotaxiLocalAcceptance]] - 2025 deployment-wave and 2026 watchlist context.
+- [[DonWeinland]], [[Baidu]], [[ChinaAIExportLeverage]], [[AIServiceExportStandardSetting]], [[Wuhan]], and [[Switzerland]] - overseas Chinese robotaxi economics branch added by The Intelligence.

@@ -2,8 +2,8 @@
 title: "Waymo"
 type: entity
 tags: [company, autonomous-driving, robotics]
-sources: [tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
+last_updated: 2026-08-08
 ---
 
 # Waymo
@@ -16,6 +16,8 @@ Waymo is the autonomous-driving company discussed in [[132-dui-xinghaitu-chuangs
 
 [[tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]] adds a U.S. city-regulation case. The episode says Waymo supports a D.C. Council bill to allow driverless cars, while [[Uber]] opposes it and argues for [[RobotaxiHybridDeployment]]. The source treats Waymo as both a safety-progress case and an operational-risk case, because robotaxis may beat average human-driver safety while still creating city edge cases around emergency vehicles, construction, passenger response, and municipal resources.
 
+[[omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb]] adds Waymo as the American comparison point in Chinese robotaxi globalization. [[DonWeinland]] says Chinese firms are moving quickly abroad while Waymo remains more focused on the U.S. market. The source's strategic warning is that later American entrants may have to conform to standards set by earlier Chinese deployments.
+
 ## Key Points
 - Gao worked on prediction and perception at Waymo and collaborated with [[ZhaoHang]] on VectorNet-style map and trajectory representation.
 - He contrasts Waymo's robotics-style modular stack with [[Tesla]]'s more AI-native, data-driven autonomous-driving route.
@@ -23,6 +25,7 @@ Waymo is the autonomous-driving company discussed in [[132-dui-xinghaitu-chuangs
 - His later move to [[Momenta]] came from wanting to be closer to product, customer value, and company operation rather than continuing inside a mature engineering organization.
 - The Win source treats Waymo as evidence that autonomous driving is moving from technical showcase toward city-level transport infrastructure, but still with pricing and operational tradeoffs.
 - The December 2025 Marketplace Tech source treats Waymo's ride volume, freeway service, and city expansion plans as real deployment momentum, while keeping profitability and local acceptance unresolved.
+- The Intelligence source treats Waymo's U.S. focus as a possible standards disadvantage if Chinese robotaxi firms deploy earlier in foreign markets.
 
 ## Connections
 - [[GaoJiyang]] — engineer trained at Waymo before returning to China.
@@ -32,3 +35,4 @@ Waymo is the autonomous-driving company discussed in [[132-dui-xinghaitu-chuangs
 - [[Tesla]] — contrasting Robotaxi route discussed by Win.
 - [[Uber]], [[RobotaxiHybridDeployment]], [[RobotaxiEconomics]], and [[AutonomousVehicleSafetyBenchmark]] — D.C. driverless-car bill context added by Marketplace Tech.
 - [[KirstenKorosek]], [[TechCrunch]], [[Zoox]], [[AutonomousVehicleRegulatoryPatchwork]], [[RobotaxiLocalAcceptance]], and [[PathToProfitability]] - 2025 robotaxi year-in-review context.
+- [[DonWeinland]], [[Baidu]], [[ChinaAIExportLeverage]], and [[AIServiceExportStandardSetting]] - Chinese overseas-deployment comparison added by The Intelligence.

@@ -1899,6 +1899,10 @@
     "title": "AI Search Evaluation",
     "url": "/wiki/concepts/aisearchevaluation/"
   },
+  "AIServiceExportStandardSetting": {
+    "title": "AI Service Export Standard-Setting",
+    "url": "/wiki/concepts/aiserviceexportstandardsetting/"
+  },
   "AIShortDrama": {
     "title": "AI Short Drama",
     "url": "/wiki/concepts/aishortdrama/"
@@ -3667,6 +3671,10 @@
     "title": "《安乐死现场》",
     "url": "/wiki/entities/anlesixianchang/"
   },
+  "AnnWroe": {
+    "title": "Ann Wroe",
+    "url": "/wiki/entities/annwroe/"
+  },
   "AnnaHolligan": {
     "title": "Anna Holligan",
     "url": "/wiki/entities/annaholligan/"
@@ -5430,6 +5438,10 @@
   "BlueOcean": {
     "title": "Blue Ocean",
     "url": "/wiki/entities/blueocean/"
+  },
+  "BlueOrigin": {
+    "title": "Blue Origin",
+    "url": "/wiki/entities/blueorigin/"
   },
   "BlueOwlCapital": {
     "title": "Blue Owl Capital",
@@ -10531,6 +10543,10 @@
     "title": "Don Valentine",
     "url": "/wiki/entities/donvalentine/"
   },
+  "DonWeinland": {
+    "title": "Don Weinland",
+    "url": "/wiki/entities/donweinland/"
+  },
   "DonaldGates": {
     "title": "Donald Gates",
     "url": "/wiki/entities/donaldgates/"
@@ -12475,6 +12491,10 @@
     "title": "Federal AI Preemption",
     "url": "/wiki/concepts/federalaipreemption/"
   },
+  "FederalAviationAdministration": {
+    "title": "Federal Aviation Administration",
+    "url": "/wiki/entities/federalaviationadministration/"
+  },
   "FederalCommunicationsCommission": {
     "title": "Federal Communications Commission",
     "url": "/wiki/entities/federalcommunicationscommission/"
@@ -14195,6 +14215,10 @@
     "title": "Gavin Newsom",
     "url": "/wiki/entities/gavinnewsom/"
   },
+  "Gaza": {
+    "title": "Gaza",
+    "url": "/wiki/entities/gaza/"
+  },
   "GeHong": {
     "title": "Ge Hong / 葛洪",
     "url": "/wiki/entities/gehong/"
@@ -14214,6 +14238,10 @@
   "GeminiCLI": {
     "title": "Gemini CLI",
     "url": "/wiki/entities/geminicli/"
+  },
+  "GenderBarrierSpaceflight": {
+    "title": "Gender Barrier Spaceflight",
+    "url": "/wiki/concepts/genderbarrierspaceflight/"
   },
   "GenderPerformanceAndTrauma": {
     "title": "Gender Performance And Trauma",
@@ -15347,6 +15375,10 @@
     "title": "Halo Product Strategy",
     "url": "/wiki/concepts/haloproductstrategy/"
   },
+  "Hamas": {
+    "title": "Hamas",
+    "url": "/wiki/entities/hamas/"
+  },
   "Hamelin": {
     "title": "哈默尔恩 / Hamelin",
     "url": "/wiki/entities/hamelin/"
@@ -16386,6 +16418,10 @@
   "HoustonRockets": {
     "title": "Houston Rockets",
     "url": "/wiki/entities/houstonrockets/"
+  },
+  "Houthis": {
+    "title": "Houthis",
+    "url": "/wiki/entities/houthis/"
   },
   "Houyhnhnms": {
     "title": "慧骃 / Houyhnhnms",
@@ -23991,6 +24027,10 @@
     "title": "National Student Clearinghouse Research Center",
     "url": "/wiki/entities/nationalstudentclearinghouseresearchcenter/"
   },
+  "NationalTransportationSafetyBoard": {
+    "title": "National Transportation Safety Board",
+    "url": "/wiki/entities/nationaltransportationsafetyboard/"
+  },
   "NationalWomensSoccerLeague": {
     "title": "National Women's Soccer League",
     "url": "/wiki/entities/nationalwomenssoccerleague/"
@@ -24946,6 +24986,10 @@
   "OlivineCarbonRemoval": {
     "title": "Olivine Carbon Removal",
     "url": "/wiki/concepts/olivinecarbonremoval/"
+  },
+  "Oman": {
+    "title": "Oman",
+    "url": "/wiki/entities/oman/"
   },
   "Omega": {
     "title": "Omega",
@@ -33815,6 +33859,10 @@
     "title": "Thiel Fellowship",
     "url": "/wiki/entities/thielfellowship/"
   },
+  "ThinDiplomaticFrameworks": {
+    "title": "Thin Diplomatic Frameworks",
+    "url": "/wiki/concepts/thindiplomaticframeworks/"
+  },
   "ThinkReasonLtd": {
     "title": "思考理性有限公司 / Think Reason Ltd.",
     "url": "/wiki/entities/thinkreasonltd/"
@@ -35579,6 +35627,10 @@
     "title": "Wally Adeyemo",
     "url": "/wiki/entities/wallyadeyemo/"
   },
+  "WallyFunk": {
+    "title": "Wally Funk",
+    "url": "/wiki/entities/wallyfunk/"
+  },
   "Walmart": {
     "title": "Walmart",
     "url": "/wiki/entities/walmart/"
@@ -36322,6 +36374,10 @@
   "WilliamPeterBlatty": {
     "title": "William Peter Blatty",
     "url": "/wiki/entities/williampeterblatty/"
+  },
+  "WilliamRandolphLovelace": {
+    "title": "William Randolph Lovelace",
+    "url": "/wiki/entities/williamrandolphlovelace/"
   },
   "WilliamShakespeare": {
     "title": "William Shakespeare / 威廉·莎士比亚",
@@ -37294,6 +37350,10 @@
   "YearlyCo": {
     "title": "Yearly Co.",
     "url": "/wiki/entities/yearlyco/"
+  },
+  "Yemen": {
+    "title": "Yemen",
+    "url": "/wiki/entities/yemen/"
   },
   "YenCarryTrade": {
     "title": "Yen Carry Trade",
@@ -39370,6 +39430,10 @@
   "no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980": {
     "title": "No.212 曾经的精神角落：豆瓣、知乎、贴吧、虎扑 | 中国互联网故事25",
     "url": "/wiki/sources/no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980/"
+  },
+  "omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb": {
+    "title": "Omission accomplished: why the Iran-war cycle spins on",
+    "url": "/wiki/sources/omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb/"
   },
   "opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1": {
     "title": "OPC 的真正难题，是 AI 还没学会替你把东西卖出去",
