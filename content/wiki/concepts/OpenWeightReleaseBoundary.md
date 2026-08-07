@@ -2,11 +2,13 @@
 title: "Open Weight Release Boundary"
 type: concept
 tags: [ai, open-source, models, governance]
-sources: [tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
+sources: [e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
 last_updated: 2026-08-08
 ---
 
 # Open Weight Release Boundary
+
+[[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]] adds the commercial-license version of the boundary. The source says [[KimiK3|Kimi K3]]'s full-weight release is open enough to let users download, deploy, and route the model, but its license still asks high-revenue model-as-service companies to enter additional agreements. That makes open weights a spectrum of access, transparency, and commercial permission rather than a single "open source" category.
 
 Open weight release boundary is the distinction between releasing downloadable/self-hostable model weights and releasing a fully open-source model system. [[ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]] makes the boundary explicit through [[KimiK3|Kimi K3]]: the episode-dated claim is that K3 would open weights on 2026-07-27, but the hosts stress that open weights do not necessarily include training code, training data, data cleaning, post-training recipes, or the full production process.
 
@@ -20,6 +22,7 @@ The boundary matters because open-weight models can still reshape competition ev
 - Open-weight releases can weaken closed-model pricing power if they become good enough for a large share of ordinary tasks.
 - Policy debates that use "open source" loosely can hide different risk and trust profiles across weights, code, data, and training process.
 - Local deployment can reduce some server-side data access, provider cutoff, and coercion risks, while still leaving questions about defaults, censorship, provenance, and capability control.
+- Open weights can be paired with commercial terms for large hosted providers, so openness and monetization are not binary.
 
 ## Connections
 - [[OpenSourceAIModels]] - broader open-model and strategic-substitution category.
@@ -28,3 +31,4 @@ The boundary matters because open-weight models can still reshape competition ev
 - [[SaaSReliabilityUnderPolicyRisk]] - why users may prefer deployable alternatives when closed access is uncertain.
 - [[ModelRoutingCostControl]] - open-weight models can become one route inside a cost-aware stack.
 - [[ChineseOpenWeightAIStrategy]], [[AdamSiegel]], and [[AIModelCensorship]] - U.S.-China strategy and security-tradeoff branch added by Marketplace Tech.
+- [[OpenWeightCommercialLicensing]], [[MoonshotAI]], [[OpenRouter]], and [[NeoCloud]] - E246's license and hosted-inference branch.

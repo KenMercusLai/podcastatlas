@@ -7165,3 +7165,11 @@ Added source page for a LateTalk episode on Yao Shunyu's first 300 days rebuildi
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 10,208 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-07 with 9,679 nodes and 103,834 edges while the wiki scan found 10,208 pages; they found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key is configured in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-08] ingest | E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿
+
+Added source page for a 硅谷101 episode with Wang Tiezhen and Keith Zhai on Kimi K3, model distillation, Chinese open-weight model progress, Kimi K3 licensing, OpenRouter and neocloud ecosystem shifts, closed API moat pressure, model sovereignty, agent inference workloads, and open-model safety governance. Created pages for Wang Tiezhen, Keith Zhai, Moonshot AI, OpenRouter, Model Distillation, Model Identity Data Pollution, Scaling Efficiency, Open-Weight Commercial Licensing, Closed Model API Moat Pressure, Model Sovereignty, Open Model Safety Governance, and Agent Inference Workload; updated overview, index, 硅谷101, Kimi K3, Kimi, DeepSeek, Qwen, Thinking Machines Lab, OpenAI, Anthropic, Open Source AI Models, Open Weight Release Boundary, Chinese Open-Weight AI Strategy, AI Inference Cost Structure, Model Routing Cost Control, Neo Cloud, Sovereign AI Models, Frontier Model Access Restrictions, AI Model Sandbox Escape, and AI Cyber-Defense Utility. No direct contradiction found; the source qualifies broad distillation accusations by separating technical distillation, generated-output training, identity data pollution, licensing compliance, and actual capability provenance, while also qualifying open-model safety debates by comparing open weights against closed-model opacity and access-control risks.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,11 +2,13 @@
 title: "Sovereign AI Models / 主权AI模型"
 type: concept
 tags: [ai, sovereignty, governance, geopolitics]
-sources: [tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
+sources: [e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
 last_updated: 2026-08-08
 ---
 
 # Sovereign AI Models / 主权AI模型
+
+[[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]] adds the enterprise analogue through [[ModelSovereignty]]. [[KeithZhai]] argues that once companies rely heavily on AI, they care whether critical capability can be downloaded, self-hosted, tuned, audited, and kept available if a closed provider changes policy. That makes open weights relevant to sovereignty inside companies as well as countries.
 
 Sovereign AI models are national or state-backed model capabilities built to preserve a country's data, language, services, and value expression. In [[174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]], [[ChaSheng]] extends the enterprise-owned model argument to countries: if AI amplifies the values and information in its training and reward system, countries may not want to rely entirely on either U.S. or Chinese models.
 
@@ -21,6 +23,7 @@ The concept is not just national branding. It combines infrastructure capacity, 
 - Open or open-weight models can be strategically useful when a country lacks full frontier-model capacity.
 - Sovereign models still need [[AIAlignmentGovernance]] because national control does not automatically make value selection accountable.
 - Low-cost open-weight models can expand practical access for countries outside the frontier-model race, but the source treats that as a dependency tradeoff rather than pure independence.
+- Enterprises can also seek sovereignty when closed API dependence creates continuity, auditability, privacy, or policy risk.
 
 ## Connections
 - [[ModelValueEmbedding]] - reason national model ownership matters.
@@ -29,3 +32,4 @@ The concept is not just national branding. It combines infrastructure capacity, 
 - [[China]], [[UnitedStates]], and [[ChinaAIExportLeverage]] - geopolitical model-provider frame.
 - [[AIAlignmentGovernance]] and [[AIGovernanceAndCompliance]] - governance boundary for national models.
 - [[ChineseOpenWeightAIStrategy]], [[AdamSiegel]], and [[CouncilOnForeignRelations|Council on Foreign Relations]] - developing-economy accessibility branch added by Marketplace Tech.
+- [[ModelSovereignty]], [[KimiK3]], [[OpenWeightReleaseBoundary]], and [[FrontierModelAccessRestrictions]] - enterprise-control branch added by E246.

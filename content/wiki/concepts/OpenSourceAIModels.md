@@ -2,11 +2,13 @@
 title: "Open Source AI Models"
 type: concept
 tags: [open-source, models, ai-ecosystem]
-sources: [148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
+sources: [e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, 148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
 last_updated: 2026-08-08
 ---
 
 # Open Source AI Models
+
+[[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]] adds the industry-operator version through [[KimiK3|Kimi K3]]. The episode argues that open models are now strong enough to pressure closed API economics, but their progress should be explained through [[ModelDistillation]], [[ScalingEfficiency]], data engineering, architecture, RL, and inference optimization rather than a single copying narrative. It also adds [[OpenWeightCommercialLicensing]] and [[OpenModelSafetyGovernance]] as the commercial and safety boundaries around powerful open weights.
 
 [[tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128]] adds the [[ChineseOpenWeightAIStrategy]] version. [[AdamSiegel]] argues that Chinese companies' open-weight releases began as a competitive response to proprietary U.S. frontier models and then became useful to [[China]]'s global accessibility messaging. The episode also stresses that local deployment can reduce some data-access and cutoff risks, even while [[AIModelCensorship]] and strategic dependence remain live concerns.
 
@@ -42,6 +44,7 @@ Open source AI models are model releases that enable broad downstream use, deplo
 - Open releases may sacrifice direct user-data flywheels even while gaining reputation, research adoption, and ecosystem leverage.
 - Open-weight releases can become soft-power infrastructure when they are good enough, cheap enough, and portable enough for international users who cannot rely on expensive proprietary APIs.
 - Open models need open serving infrastructure too; model availability matters more when engines such as [[VLLM|vLLM]] make deployment, optimization, and hardware adaptation more reusable.
+- Strong open models can weaken closed API pricing power while still needing commercial licenses, deployment expertise, and evidence-based safety governance.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — how large companies use and struggle with open source.
@@ -57,3 +60,4 @@ Open source AI models are model releases that enable broad downstream use, deplo
 - [[AIDataFlywheel]], [[ChaSheng]], and [[AmazonAGI]] - data-loop tradeoff added by the Qizhulou Yan Binke episode.
 - [[ChineseOpenWeightAIStrategy]], [[AdamSiegel]], [[CouncilOnForeignRelations|Council on Foreign Relations]], [[AIModelCensorship]], and [[SovereignAIModels]] - Marketplace Tech branch on Chinese open weights as competition, soft power, and dependency tradeoff.
 - [[VLLM|vLLM]], [[OpenSourceAIInfrastructure]], [[ModelInfraCoDesign]], and [[YuKaichao|游凯超]] - inference-infrastructure branch added by episode 148.
+- [[WangTiezhen]], [[KeithZhai]], [[MoonshotAI]], [[KimiK3]], [[ModelDistillation]], [[ScalingEfficiency]], [[OpenWeightCommercialLicensing]], [[ClosedModelAPIMoatPressure]], [[ModelSovereignty]], and [[OpenModelSafetyGovernance]] - E246's technical, commercial, and safety-governance branch.

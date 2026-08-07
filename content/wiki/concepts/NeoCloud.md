@@ -2,11 +2,13 @@
 title: "Neo Cloud"
 type: concept
 tags: [ai, cloud, infrastructure, gpu]
-sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]
-last_updated: 2026-07-23
+sources: [e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]
+last_updated: 2026-08-08
 ---
 
 # Neo Cloud
+
+[[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]] adds the open-model competition version. [[WangTiezhen|王铁镇]] argues that neoclouds can use strong open-weight models such as [[KimiK3|Kimi K3]] to compete against closed API providers, because the serving layer can focus on hardware efficiency, scheduling, model hosting, and lower token prices rather than owning a closed frontier model.
 
 Neo cloud is the AI-native GPU-cloud model discussed in [[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]]. [[AlexGMICloud|Alex]] contrasts neoclouds with hyperscalers: hyperscalers grew from CPU and storage cloud and often expose VM-oriented abstractions, while neoclouds are more likely to use k8s clusters and bare-metal access to preserve GPU efficiency.
 
@@ -17,8 +19,10 @@ The concept belongs under [[MaaSInfrastructure]] because customers are not only 
 - Bare-metal efficiency can matter when virtualization overhead reduces expensive GPU utilization.
 - K8s cluster management, model services, and kernel optimization can turn raw hardware into a more defensible product.
 - Neoclouds still face [[DataCenterPowerBottleneck|land and power]], supply-chain, and SLA constraints.
+- Strong open weights can let neoclouds sell model serving and optimization without first building a proprietary frontier model.
 
 ## Connections
 - [[GMICloud]], [[AlexGMICloud|Alex]], and [[GPUCloudOperations]] - source case and operating requirements.
 - [[Nvidia]], [[GPU]], and [[AIInfrastructureFullStackMoat]] - hardware and ecosystem context.
 - [[MaaSInfrastructure]], [[AIComputeContinuity]], and [[StrategicAIInfrastructureDependence]] - platform and dependence frame.
+- [[KimiK3]], [[OpenWeightCommercialLicensing]], [[ClosedModelAPIMoatPressure]], and [[AgentInferenceWorkload]] - open-model serving branch added by E246.

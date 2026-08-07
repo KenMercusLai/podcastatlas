@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿](sources/e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41.md) — 硅谷101 episode with Wang Tiezhen and Keith Zhai on Kimi K3, model distillation, Chinese open-weight model progress, Kimi K3 licensing, OpenRouter/neocloud ecosystem shifts, closed API moat pressure, model sovereignty, and open-model safety governance.
 - [176: 姚顺宇，来到腾讯300天](sources/yao-shunyu-laidao-tengxun-300tian-1-176-1.md) — LateTalk episode on Yao Shunyu's first 300 days rebuilding Tencent Hunyuan, Hunyuan/WeChat VLM coexistence, Tencent CSIG product loops, and Tencent's federated AI organization tension.
 - [Omission accomplished: why the Iran-war cycle spins on](sources/omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb.md) — The Intelligence episode on the fraying U.S.-Iran MOU, Hormuz control, thin Middle East diplomacy, Chinese driverless-taxi exports, AI-service standard setting, and Wally Funk's late spaceflight.
 - [149. 亲历中美 New Labs 资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和 Max Tegmark](sources/149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv.md) — 张小珺Jùn｜商业访谈录 episode with Liu Ziming on AI for AI, Physics of AI, mechanistic interpretability, KAN, OPHIS, meta-model training-curve prediction, training autopilot, vibe training, and New Lab financing.
@@ -895,6 +896,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Wang Tiezhen / 王铁镇](entities/WangTiezhen.md) — Silicon Valley 101 guest explaining model distillation, scaling efficiency, Kimi K3 licensing, and open-model safety governance.
+- [Keith Zhai](entities/KeithZhai.md) — Silicon Valley 101 guest framing Chinese open-weight models through enterprise adoption, model sovereignty, Silicon Valley reaction, and closed API pressure.
+- [Moonshot AI / 月之暗面](entities/MoonshotAI.md) — Company behind Kimi and Kimi K3, used by E246 as the open-weight release and commercial licensing case.
+- [OpenRouter](entities/OpenRouter.md) — Model-routing/API aggregation company that benefits when strong open and closed models coexist.
 - [Tencent Hunyuan / 腾讯混元](entities/TencentHunyuan.md) — Tencent large-model team rebuilt under Yao Shunyu, used as the source's central organization, model, infra, and product-loop case.
 - [WeChat VLM / 微信 VLM](entities/WeChatVLM.md) — WeChat's independent model path, kept separate from Hunyuan because of privacy, user data, product culture, and scale constraints.
 - [Tencent CSIG](entities/TencentCSIG.md) — Tencent business group where the source places major AI applications such as Yuanbao, WorkBuddy, CodeBuddy, IMA, Marvis, and design agents.
@@ -6127,6 +6132,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Model Distillation / 模型蒸馏](concepts/ModelDistillation.md) — Technique and controversy split that distinguishes classic distillation from generated-output training, terms violations, and unsupported copying accusations.
+- [Model Identity Data Pollution / 模型身份数据污染](concepts/ModelIdentityDataPollution.md) — Evidence-quality warning that model self-identification errors can come from mixed public AI-output data rather than proving systematic distillation.
+- [Scaling Efficiency](concepts/ScalingEfficiency.md) — Model-development pressure to improve capability per unit of compute, latency, and cost under constrained resources.
+- [Open-Weight Commercial Licensing](concepts/OpenWeightCommercialLicensing.md) — Business model where open weights remain broadly usable while high-revenue hosted model services owe commercial terms or certification.
+- [Closed Model API Moat Pressure](concepts/ClosedModelAPIMoatPressure.md) — Business-model stress on closed frontier labs when strong open-weight models compress token prices and weaken intelligence scarcity.
+- [Model Sovereignty / 模型主权](concepts/ModelSovereignty.md) — Enterprise and institutional need for model control, local deployability, continuity, and reduced dependence on a closed provider API.
+- [Open Model Safety Governance](concepts/OpenModelSafetyGovernance.md) — Governance frame comparing open and closed models by evidence, auditability, training data, deployment controls, and incident response.
+- [Agent Inference Workload](concepts/AgentInferenceWorkload.md) — Agent-serving pattern where long inputs, short outputs, prefix/KV-cache reuse, scheduling, and hardware/software co-design shape cost.
 - [Federated AI Organization](concepts/FederatedAIOrganization.md) — Pattern where a central model team coexists with business-unit model teams because compute efficiency, data control, product fit, and user trust pull in different directions.
 - [Thin Diplomatic Frameworks](concepts/ThinDiplomaticFrameworks.md) — Pattern where vague agreements create apparent settlement while leaving enforcement, control, disarmament, money, and withdrawal questions unresolved.
 - [AI Service Export Standard-Setting](concepts/AIServiceExportStandardSetting.md) — Pattern where exported AI services such as robotaxis can shape local technical standards before rules and rivals mature.

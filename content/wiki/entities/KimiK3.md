@@ -2,11 +2,13 @@
 title: "Kimi K3"
 type: entity
 tags: [ai, model, china, coding]
-sources: [yao-shunyu-laidao-tengxun-300tian-1-176-1, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+sources: [e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, yao-shunyu-laidao-tengxun-300tian-1-176-1, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
 last_updated: 2026-08-08
 ---
 
 # Kimi K3
+
+[[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]] adds Kimi K3 as the central case for Silicon Valley's debate over Chinese open-weight models. The source says [[MoonshotAI|Moonshot AI / 月之暗面]] released K3's full weights after a high-profile API launch, then uses the model to separate [[ModelDistillation]] from [[ModelIdentityDataPollution]], [[ScalingEfficiency]], [[OpenWeightCommercialLicensing]], [[ClosedModelAPIMoatPressure]], [[ModelSovereignty]], and [[OpenModelSafetyGovernance]].
 
 [[yao-shunyu-laidao-tengxun-300tian-1-176-1]] adds Kimi K3 as competitive pressure on [[TencentHunyuan]]. The source says Kimi K3's good reception forced discussion inside Hunyuan about whether later entrants can catch up through better architecture, data, and distillation, or whether Hunyuan 3's smaller scale meant its immediate impact would remain limited.
 
@@ -21,6 +23,7 @@ The episode-dated release-governance claim is that K3 would open weights on 2026
 [[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] adds a hardware-infrastructure angle. The source says Kimi K3's large model scale makes [[AIAcceleratorSupernode|supernodes]] relevant, citing a recommendation for 64-plus accelerators as an example of why domestic AI hardware must solve [[ScaleUpAIInterconnect|Scale Up]] and [[AIComputeContinuity|compute continuity]], not only model release.
 
 ## Connections
+- [[MoonshotAI]], [[WangTiezhen]], [[KeithZhai]], [[ModelDistillation]], [[ModelIdentityDataPollution]], [[ScalingEfficiency]], [[OpenWeightCommercialLicensing]], and [[OpenModelSafetyGovernance]] - E246's distillation, license, and safety-governance branch.
 - [[Kimi]] - parent model/product context in the wiki.
 - [[ModelWorkflowFit]] and [[ModelRoutingCostControl]] - main model-selection lens for the K3 test.
 - [[AIProgrammingEngineShift]], [[AIEngineeringThinking]], and [[AICodingVerification]] - AI coding workflow where K3 is evaluated.

@@ -2659,6 +2659,10 @@
     "title": "Agent Identity And Authentication",
     "url": "/wiki/concepts/agentidentityandauthentication/"
   },
+  "AgentInferenceWorkload": {
+    "title": "Agent Inference Workload",
+    "url": "/wiki/concepts/agentinferenceworkload/"
+  },
   "AgentMarketplace": {
     "title": "Agent Marketplace",
     "url": "/wiki/concepts/agentmarketplace/"
@@ -7946,6 +7950,10 @@
   "ClosedCircleMystery": {
     "title": "暴风雪山庄 / Closed-Circle Mystery",
     "url": "/wiki/concepts/closedcirclemystery/"
+  },
+  "ClosedModelAPIMoatPressure": {
+    "title": "Closed Model API Moat Pressure",
+    "url": "/wiki/concepts/closedmodelapimoatpressure/"
   },
   "ClosedSiteAutonomousDriving": {
     "title": "Closed-Site Autonomous Driving",
@@ -19331,6 +19339,10 @@
     "title": "Keith Rabois",
     "url": "/wiki/entities/keithrabois/"
   },
+  "KeithZhai": {
+    "title": "Keith Zhai",
+    "url": "/wiki/entities/keithzhai/"
+  },
   "KejiLuandun": {
     "title": "Keji Luandun",
     "url": "/wiki/entities/kejiluandun/"
@@ -23267,9 +23279,17 @@
     "title": "Model Context Protocol",
     "url": "/wiki/concepts/modelcontextprotocol/"
   },
+  "ModelDistillation": {
+    "title": "Model Distillation / 模型蒸馏",
+    "url": "/wiki/concepts/modeldistillation/"
+  },
   "ModelHarnessCoEvolution": {
     "title": "Model Harness Co-Evolution",
     "url": "/wiki/concepts/modelharnesscoevolution/"
+  },
+  "ModelIdentityDataPollution": {
+    "title": "Model Identity Data Pollution / 模型身份数据污染",
+    "url": "/wiki/concepts/modelidentitydatapollution/"
   },
   "ModelInfraCoDesign": {
     "title": "Model-Infra Co-Design",
@@ -23290,6 +23310,10 @@
   "ModelRoutingCostControl": {
     "title": "Model Routing Cost Control",
     "url": "/wiki/concepts/modelroutingcostcontrol/"
+  },
+  "ModelSovereignty": {
+    "title": "Model Sovereignty / 模型主权",
+    "url": "/wiki/concepts/modelsovereignty/"
   },
   "ModelValueEmbedding": {
     "title": "Model Value Embedding / 模型价值观嵌入",
@@ -23474,6 +23498,10 @@
   "MoonMarsStrategySplit": {
     "title": "Moon-Mars Strategy Split",
     "url": "/wiki/concepts/moonmarsstrategysplit/"
+  },
+  "MoonshotAI": {
+    "title": "Moonshot AI / 月之暗面",
+    "url": "/wiki/entities/moonshotai/"
   },
   "MooreLaw": {
     "title": "Moore's Law",
@@ -25195,6 +25223,14 @@
     "title": "OpenManus",
     "url": "/wiki/entities/openmanus/"
   },
+  "OpenModelSafetyGovernance": {
+    "title": "Open Model Safety Governance",
+    "url": "/wiki/concepts/openmodelsafetygovernance/"
+  },
+  "OpenRouter": {
+    "title": "OpenRouter",
+    "url": "/wiki/entities/openrouter/"
+  },
   "OpenSharedMythos": {
     "title": "Open Shared Mythos",
     "url": "/wiki/concepts/opensharedmythos/"
@@ -25230,6 +25266,10 @@
   "OpenWebTrafficDecline": {
     "title": "Open Web Traffic Decline",
     "url": "/wiki/concepts/openwebtrafficdecline/"
+  },
+  "OpenWeightCommercialLicensing": {
+    "title": "Open-Weight Commercial Licensing",
+    "url": "/wiki/concepts/openweightcommerciallicensing/"
   },
   "OpenWeightReleaseBoundary": {
     "title": "Open Weight Release Boundary",
@@ -29970,6 +30010,10 @@
   "ScalingBrokenProduct": {
     "title": "Scaling Broken Product",
     "url": "/wiki/concepts/scalingbrokenproduct/"
+  },
+  "ScalingEfficiency": {
+    "title": "Scaling Efficiency",
+    "url": "/wiki/concepts/scalingefficiency/"
   },
   "ScamCompoundPoliticalProtection": {
     "title": "Scam Compound Political Protection",
@@ -35811,6 +35855,10 @@
     "title": "Wang Tao / 汪滔",
     "url": "/wiki/entities/wangtao/"
   },
+  "WangTiezhen": {
+    "title": "Wang Tiezhen / 王铁镇",
+    "url": "/wiki/entities/wangtiezhen/"
+  },
   "WangWan": {
     "title": "王婉 / Wang Wan",
     "url": "/wiki/entities/wangwan/"
@@ -38846,6 +38894,10 @@
   "e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11": {
     "title": "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的",
     "url": "/wiki/sources/e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11/"
+  },
+  "e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41": {
+    "title": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿",
+    "url": "/wiki/sources/e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41/"
   },
   "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0": {
     "title": "E42 孟岩对话韦青：沉默的主角",
