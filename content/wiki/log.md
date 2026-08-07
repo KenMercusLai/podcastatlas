@@ -7042,6 +7042,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-08] ingest | 175.公募基金二季报：极致的抱团与割裂之后
+
+Added source page for a 起朱楼宴宾客 episode on Chinese public mutual funds' 2026 Q2 reports, extreme AI/compute/semiconductor crowding, manager ranking incentives, public-fund holder behavior, AI infrastructure supply-chain bullwhip risk, and short-term versus long-term account separation. Created pages for Active Fund Crowding, Fund Manager Ranking Incentives, AI Infrastructure Supply-Chain Bullwhip, Jin Zicai, Xie Zhiyu, Zhang Kun, Chen Jingwei, and Jiang Cheng; updated overview, index, 起朱楼宴宾客, 大卫翁, 中欧基金, Public Mutual Fund Ecosystem, Market Breadth Narrowing, AI Equity Valuation Risk, AI Capex Return Window, Fund-Investor Return Gap, Retail Investor Crowding, and Portfolio Suitability. No direct contradiction found; the source qualifies public-fund buyability and AI valuation optimism by showing how real technology fundamentals can still become fragile when fund rankings, channel short-termism, and upstream order amplification create crowded late entries.
+
 ## [2026-08-08] ingest | 174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界
 
 Added source page for a LateTalk episode with Yuan Xin of SAP on ERP, AI coding, SaaS pricing pressure, FDE, autonomous enterprise, enterprise operational memory, Chinese enterprise system debt, and SAP's Alibaba Cloud/Qwen/DingTalk cooperation in China. Created pages for Yuan Xin, Workday, Salesforce, Feishu, SAP Joule, SAP Signavio, SAP S/4HANA, Enterprise Resource Planning, ERP Trust Moat, Autonomous Enterprise, Enterprise Operational Memory, and China Enterprise AI System Debt; updated overview, index, SAP, LateTalk, Forward Deployed Engineer, AI Native SaaS Threat, SaaS Trust Moat, Business-Led AI Transformation, Outcome-Based AI Pricing, Result As A Service, Enterprise Agent Governance, Enterprise Agent Memory, Enterprise Data Activation, Language User Interface, Agent Native Software, Alibaba, Alibaba Cloud, Qwen, and DingTalk. No direct contradiction found; the source qualifies SaaS-disruption and agent-native claims by showing why ERP-like systems retain defenses around trusted data, auditability, localization, process memory, and human review even as AI changes interfaces and pricing.
@@ -7069,6 +7073,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] ingest | Burning questions: a more fire-prone world
 
 Added source page for a The Intelligence episode on worsening wildfire risk, stalled progress for women at work, and U.S. nightlife mayors. Created pages for Vingeru Makandewiri, Danielle Arras, Corrine Reynolds, Boston, Indonesia, Rudy Giuliani, Extreme Wildfire, Wildfire Smoke Health Burden, Wildfire Climate Feedback, Landscape Fire Prevention, Women Workplace Progress Stall, Promotion Ambition Gap, Childcare Infrastructure Constraint, Nightlife Mayor, Nighttime Economy Governance, Liquor License Quota Barrier, and Socializing Decline; updated overview, index, The Intelligence, Economist Podcasts, Oliver Morton, Climate Adaptation, Fire Tech Climate Resilience, Natural Hazard As Social Disaster, Disaster Response State Capacity, Goldman Sachs, JPMorgan Chase, McKinsey, New York City, Friendship Recession, Adult Summer Camps, United States, France, Spain, Canada, Australia, California, and Emmanuel Macron. No direct contradiction found; the source extends existing wildfire resilience pages by adding smoke exposure and climate feedbacks, and extends work and urban-social branches by tying women's advancement and nightlife participation to institutional capacity.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-08] lint | Wiki health check
 

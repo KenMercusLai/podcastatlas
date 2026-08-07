@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [175.公募基金二季报：极致的抱团与割裂之后](sources/175-gongmu-jijin-erjibao-jizhi-de-baotuan-yu-gelie-zhihou-lv20uprxrcw0tde5ugohu29tmlg6.md) — 起朱楼宴宾客 episode on Chinese public mutual funds' 2026 Q2 reports, active-fund crowding, AI and semiconductor concentration, manager ranking incentives, supply-chain bullwhip risk, and why retail investors should avoid chasing new star managers into long-term accounts.
 - [Burning questions: a more fire-prone world](sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b.md) — The Intelligence episode on extreme wildfire, smoke health burden, women’s stalled workplace progress, and U.S. nightlife mayors.
 - [China's soft power play in the global AI arms race](sources/tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128.md) — Marketplace Tech episode with Adam Siegel of the Council on Foreign Relations on Chinese open-weight AI models, U.S. proprietary frontier-model competition, censorship/data/dependence concerns, local deployment, and possible export-control tension.
 - [174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界](sources/ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1.md) — LateTalk episode with SAP's Yuan Xin on ERP, AI coding, SaaS pricing pressure, FDE, autonomous enterprise, enterprise data foundations, SAP-Alibaba cooperation, and why business-process trust constrains AI disruption.
@@ -883,6 +884,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [金子才 / Jin Zicai](entities/JinZicai.md) — Caitong Fund manager used by episode 175 to show a verification-oriented AI investment framework moving from capex and model capability to AI Coding, ARR, and upstream bottlenecks.
+- [谢治宇 / Xie Zhiyu](entities/XieZhiyu.md) — Fund-manager voice warning that tight AI-infrastructure links can be overvalued before fundamentals visibly peak.
+- [张坤 / Zhang Kun](entities/ZhangKun.md) — Fund manager whose 2026 Q2 report frames AI compute through installed base versus annual capex and reads weak consumption through household expectations and balance-sheet stress.
+- [陈经纬 / Chen Jingwei](entities/ChenJingwei.md) — Fund-manager voice on AI versus non-AI valuation splits, pessimistic crowding, and A-share trading-structure change.
+- [江城 / Jiang Cheng](entities/JiangChengFundManager.md) — Zhongtai Asset Management fund-manager voice emphasizing framework, win rate, safety margin, and cycle-crossing adequate return.
 - [Vingeru Makandewiri](entities/VingeruMakandewiri.md) — The Intelligence speaker explaining stalled women’s workplace progress, promotion ambition, childcare, pay gaps, and leadership-pipeline strain.
 - [Danielle Arras](entities/DanielleArras.md) — The Intelligence speaker explaining U.S. nightlife mayor roles as mediation between venues, residents, regulators, and socializing decline.
 - [Corrine Reynolds](entities/CorrineReynolds.md) — Boston nighttime-economy director used as a concrete case of nightlife governance work.
@@ -6023,6 +6029,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Active Fund Crowding / 主动基金抱团](concepts/ActiveFundCrowding.md) — Public-fund market-structure pattern where active managers cluster around the same sectors, holdings, and narratives under ranking, benchmark, research, channel, and holder pressure.
+- [Fund Manager Ranking Incentives / 基金经理排名激励](concepts/FundManagerRankingIncentives.md) — Incentive mechanism where relative returns, peer rankings, benchmarks, sales lists, and recent winner attention push active managers toward similar positioning.
+- [AI Infrastructure Supply-Chain Bullwhip / AI 基建供应链牛鞭效应](concepts/AIInfrastructureSupplyChainBullwhip.md) — AI investing risk where final-demand expectations are amplified through cloud, model, chip, component, and capacity layers into upstream scarcity and valuation pressure.
 - [Extreme Wildfire](concepts/ExtremeWildfire.md) — Fire category defined by intensity, size, speed, or damage rather than by ordinary fire-season occurrence.
 - [Wildfire Smoke Health Burden](concepts/WildfireSmokeHealthBurden.md) — Public-health frame for wildfire smoke as the main human cost channel of burning landscapes.
 - [Wildfire Climate Feedback](concepts/WildfireClimateFeedback.md) — Climate-system effects of fires through CO2, smoke, atmospheric circulation, and ocean fertilization.

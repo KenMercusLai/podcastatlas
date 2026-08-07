@@ -671,6 +671,10 @@
     "title": "174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟",
     "url": "/wiki/sources/174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza/"
   },
+  "175-gongmu-jijin-erjibao-jizhi-de-baotuan-yu-gelie-zhihou-lv20uprxrcw0tde5ugohu29tmlg6": {
+    "title": "175.公募基金二季报：极致的抱团与割裂之后",
+    "url": "/wiki/sources/175-gongmu-jijin-erjibao-jizhi-de-baotuan-yu-gelie-zhihou-lv20uprxrcw0tde5ugohu29tmlg6/"
+  },
   "175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044": {
     "title": "175.女性卫生用品的社会史：比想象中更精彩！",
     "url": "/wiki/sources/175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044/"
@@ -1635,6 +1639,10 @@
     "title": "AI Infrastructure Full-Stack Moat",
     "url": "/wiki/concepts/aiinfrastructurefullstackmoat/"
   },
+  "AIInfrastructureSupplyChainBullwhip": {
+    "title": "AI Infrastructure Supply-Chain Bullwhip / AI 基建供应链牛鞭效应",
+    "url": "/wiki/concepts/aiinfrastructuresupplychainbullwhip/"
+  },
   "AIInteractionInternationalization": {
     "title": "AI Interaction Internationalization",
     "url": "/wiki/concepts/aiinteractioninternationalization/"
@@ -2242,6 +2250,10 @@
   "ActionDefinesIdentity": {
     "title": "Action Defines Identity",
     "url": "/wiki/concepts/actiondefinesidentity/"
+  },
+  "ActiveFundCrowding": {
+    "title": "Active Fund Crowding / 主动基金抱团",
+    "url": "/wiki/concepts/activefundcrowding/"
   },
   "ActiveManagementStyleEvolution": {
     "title": "Active Management Style Evolution",
@@ -6866,6 +6878,10 @@
   "ChenJingchu": {
     "title": "Chen Jingchu",
     "url": "/wiki/entities/chenjingchu/"
+  },
+  "ChenJingwei": {
+    "title": "陈经纬 / Chen Jingwei",
+    "url": "/wiki/entities/chenjingwei/"
   },
   "ChenKaiCreo": {
     "title": "陈凯 / Chen Kai (Creo)",
@@ -13667,6 +13683,10 @@
     "title": "Fund Liability Matching",
     "url": "/wiki/concepts/fundliabilitymatching/"
   },
+  "FundManagerRankingIncentives": {
+    "title": "Fund Manager Ranking Incentives / 基金经理排名激励",
+    "url": "/wiki/concepts/fundmanagerrankingincentives/"
+  },
   "FundRecommendationConflictDisclosure": {
     "title": "Fund Recommendation Conflict Disclosure / 基金推荐利益冲突披露",
     "url": "/wiki/concepts/fundrecommendationconflictdisclosure/"
@@ -18087,6 +18107,10 @@
     "title": "《甲骨文的故事》",
     "url": "/wiki/entities/jiaguwendegushi/"
   },
+  "JiangChengFundManager": {
+    "title": "江城 / Jiang Cheng (Fund Manager)",
+    "url": "/wiki/entities/jiangchengfundmanager/"
+  },
   "JiangChun": {
     "title": "Jiang Chun / 江春",
     "url": "/wiki/entities/jiangchun/"
@@ -18226,6 +18250,10 @@
   "JinYongPoliticalReading": {
     "title": "Jin Yong Political Reading",
     "url": "/wiki/concepts/jinyongpoliticalreading/"
+  },
+  "JinZicai": {
+    "title": "金子才 / Jin Zicai",
+    "url": "/wiki/entities/jinzicai/"
   },
   "JingFang": {
     "title": "Jing Fang / 京房",
@@ -36443,6 +36471,10 @@
     "title": "Xie Xiaoqing / 谢晓清",
     "url": "/wiki/entities/xiexiaoqing/"
   },
+  "XieZhiyu": {
+    "title": "谢治宇 / Xie Zhiyu",
+    "url": "/wiki/entities/xiezhiyu/"
+  },
   "XifangJuedouShi": {
     "title": "《西方决斗史》 / The History of Duelling",
     "url": "/wiki/entities/xifangjuedoushi/"
@@ -37310,6 +37342,10 @@
   "ZhangJintao": {
     "title": "张金涛 / Zhang Jintao",
     "url": "/wiki/entities/zhangjintao/"
+  },
+  "ZhangKun": {
+    "title": "张坤 / Zhang Kun",
+    "url": "/wiki/entities/zhangkun/"
   },
   "ZhangKuo": {
     "title": "张阔 / Zhang Kuo",
