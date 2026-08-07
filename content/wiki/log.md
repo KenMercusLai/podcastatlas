@@ -7042,6 +7042,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-08] ingest | No.212 曾经的精神角落：豆瓣、知乎、贴吧、虎扑 | 中国互联网故事25
+
+Added source page for a Banlatte China-internet-history episode on Douban, Zhihu, Baidu Tieba, and Hupu as PC-era Chinese communities. Created pages for Zhihu, Baidu Tieba, Hupu, Abei, Zhou Yuan, Cheng Hang, Yang Bing, Dewu, Chinese PC Internet Communities, Online Community Commercialization Friction, Community vs Content Platform, Keyword Community Architecture, Mobile Community Fragmentation Risk, Knowledge Community Creator Incentives, and Forum Subculture Memory; updated overview, index, Douban, Baidu, Banlatte, ByteDance, Zhang Yiming, Xiaoyuzhou, platform community governance, user-powered content platform, generational technology bridge, and feature-phone cultural memory. No direct contradiction found; the source mainly qualifies platform-growth and commercialization stories by showing that relationship-heavy communities can become culturally durable while resisting the monetization and algorithmic-distribution logic that works better for content platforms.
+
 ## [2026-08-08] ingest | Brave New whirl: Turkey's opposition overhaul
 
 Added source page for a The Intelligence episode on Ozel's New Party and Turkish opposition suppression, Jens Spahn's German surrogacy scandal, and Gen Z career advice under AI-shaped hiring. Created pages for Ozgur Ozel, New Party (Turkey), Republican People's Party, Kemal Kilicdaroglu, Mansur Yavas, Jens Spahn, Friedrich Merz, Christian Democratic Union (Germany), Alternative for Germany, Bill Gurley, Jodi Kantor, Benjamin Todd, 80,000 Hours, Turkish Opposition Realignment, Judicialized Opposition Suppression, Opposition Party Hollowing, Surrogacy Policy Hypocrisy, Political Double-Standard Backlash, AI Graduate Career Uncertainty, Career Advice Survivorship Bias, Passion Trap Career Advice, Useful Work Career Compounding, Impact Career Choice, and Effective Altruism; updated overview, index, Turkey, Erdogan, AK Party, Imamoglu, Germany, The Intelligence, Economist Podcasts, autocratic succession, AI hiring arms race, AI job-security anxiety, entry-level AI career-ladder risk, and college career preparation. No direct contradiction found; the source extends the earlier Erdogan succession frame by showing how courts, arrests, and party hollowing can change which opposition figures remain able to compete before an early election.
@@ -7089,6 +7093,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] ingest | An interview with Elon Musk
 
 Added source page for the full Economist Podcasts / The Intelligence interview where Zanny Minton Beddoes presses Elon Musk on AI timelines, humanoid robots, AI values, frontier-model peer review, China and U.S. intervention, OpenAI and Anthropic trust, optional work, universal high income, SpaceX control and succession, Starlink in Ukraine, DOGE/USAID, X, European politics, immigration, and free speech. Created pages for Frontier Model Peer Review, Universal High Income, AI Work Optionality, AI Fatalistic Acceleration, and Private Infrastructure War Power; updated overview, index, Elon Musk, Zanny Minton Beddoes, SpaceX, Tesla, Starlink, Department of Government Efficiency, USAID, OpenAI, Anthropic, Twitter/X, The Intelligence, Economist Podcasts, AI Abundance Narrative, AI Safety Coordination, Frontier Model Release Governance, AI Alignment Governance, Recursive Self-Improvement, Physical AI, Humanoid Robot Commercialization, Founder Control, and Techno-Optimism Present-Threat Gap. No direct contradiction found; this source overlaps with The Elon game but is recorded separately as the full interview and keeps disputed claims about USAID deaths, British civil-war risk, Ukraine war outcomes, crime, media trust, and AI timelines source-scoped.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-08] lint | Wiki health check
 

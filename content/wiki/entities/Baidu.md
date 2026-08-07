@@ -2,8 +2,8 @@
 title: "Baidu"
 type: entity
 tags: [company, search, ai, china-internet]
-sources: [70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
-last_updated: 2026-08-07
+sources: [70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f, no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]
+last_updated: 2026-08-08
 ---
 
 # Baidu
@@ -22,6 +22,8 @@ The source describes Baidu as a company that built an effective PC-era traffic l
 
 [[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] adds Baidu's infrastructure-side role through [[BaiduAICloud|Baidu AI Cloud]]. The source names Baidu AI Cloud among the [[WAIC]] supernode participants, making Baidu relevant not only as a search and model company but as a possible buyer, integrator, or evaluator of domestic [[AIAcceleratorSupernode|AI supernode]] systems.
 
+[[no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]] adds Baidu's community side through [[BaiduTieba|百度贴吧]]. The episode presents Tieba as a PC-era success of [[KeywordCommunityArchitecture]], where search terms became natural gathering places for fan groups, schools, novels, games, identities, and long-tail interests. It also adds a negative governance and commercialization branch: later ads, bar sales, bar-owner KPIs, official interventions, and old-post handling weakened user trust.
+
 ## Key Points
 - Baidu's online-marketing business is described as declining even while the broader internet advertising market still grows.
 - AI answers in search may weaken ad clicks by satisfying the user above traditional result and ad positions.
@@ -33,6 +35,7 @@ The source describes Baidu as a company that built an effective PC-era traffic l
 - Episode 206 adds the healthcare version of search risk: medical search results and ads can be interpreted as authority when users are vulnerable.
 - Episode 70 adds the patient-anxiety version: symptom search can amplify fear even without a specific advertising scandal.
 - The WAIC supernode source adds a cloud-infrastructure branch where Baidu AI Cloud's role is closer to deployment, model serving, and domestic-chip validation than search advertising.
+- Episode 212 adds the Tieba branch: Baidu's search traffic could create large communities, but commercial intervention and weak governance could also turn community territory into a trust problem.
 
 ## Connections
 - [[LiYanhong]] — founder and management lens.
@@ -46,3 +49,4 @@ The source describes Baidu as a company that built an effective PC-era traffic l
 - [[WeiZexiIncident]], [[MedicalPlatformTrustCrisis]], and [[InternetHealthcare]] — medical-search trust context added by episode 206.
 - [[OnlineSymptomSearchAnxiety]], [[DoctorPatientCommunication]], and [[MedicalDiagnosticReasoning]] — patient-side medical-search caution added by episode 70.
 - [[BaiduAICloud]], [[AIAcceleratorSupernode]], [[ScaleUpAIInterconnect]], and [[DomesticAIChipOrderValidation]] — WAIC hardware-infrastructure branch.
+- [[BaiduTieba|百度贴吧]], [[KeywordCommunityArchitecture]], [[ForumSubcultureMemory]], and [[PlatformCommunityGovernance]] — PC-era community branch added by episode 212.

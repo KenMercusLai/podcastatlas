@@ -2,8 +2,8 @@
 title: "User-Powered Content Platform"
 type: concept
 tags: [platforms, online-community, social-media]
-sources: [socialradarspod-stevehuffman-final]
-last_updated: 2026-07-11
+sources: [socialradarspod-stevehuffman-final, no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]
+last_updated: 2026-08-08
 ---
 
 # User-Powered Content Platform
@@ -12,13 +12,18 @@ User-powered content platform is the product pattern where users submit, vote on
 
 The Reddit case shows both the product strength and the governance cost. Removing editors can make the platform feel alive and participatory, but it also pushes decisions about ranking, moderation, abuse, and community norms into product design and platform governance.
 
+[[no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]] adds a Chinese PC-era variation. [[Douban|豆瓣]], [[Zhihu|知乎]], [[BaiduTieba|百度贴吧]], and [[Hupu|虎扑]] were user-powered, but not identical: taste libraries, Q&A, keyword forums, and sports communities each turned user contribution into a different relationship structure. The source therefore distinguishes user-powered communities from pure content platforms whose main job is distribution and consumption.
+
 ## Key Claims
 - User-powered ranking can expose demand faster than editorial publishing, but the signal depends on what user actions actually mean.
 - Comment communities are not a decorative layer; they can be the reason a link platform becomes a social home rather than only a discovery feed.
 - Removing gatekeepers shifts governance work into moderation systems, norms, and crisis response.
 - Larger competitors can become learning surfaces when they reveal platform failure modes before a smaller rival faces the same scale.
+- User-powered does not guarantee community: repeated relationships, shared rules, and local memory matter as much as content supply.
+- Different contribution formats create different monetization and governance constraints.
 
 ## Connections
 - [[Reddit]], [[SteveHuffman]], [[Delicious]], [[Slashdot]], and [[Digg]] - source case and influences.
 - [[PlatformCommunityGovernance]] - governance layer that emerges once users shape the platform.
 - [[FounderIdeaPivot]] - concept explaining how the product direction emerged.
+- [[ChinesePCInternetCommunities]], [[CommunityVsContentPlatform]], and [[OnlineCommunityCommercializationFriction]] - episode 212's Chinese community extension.

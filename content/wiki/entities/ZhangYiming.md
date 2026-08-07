@@ -2,8 +2,8 @@
 title: "Zhang Yiming"
 type: entity
 tags: [person, founder, bytedance]
-sources: [touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]
-last_updated: 2026-08-05
+sources: [touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2, no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]
+last_updated: 2026-08-08
 ---
 
 # Zhang Yiming
@@ -18,6 +18,8 @@ For the wiki, Zhang matters less as a biography than as the founder lens on Byte
 
 [[youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]] adds Zhang as [[Albert]]'s example of [[WinRateStartupStrategy]]. Albert says Zhang had long watched search and information distribution from the end of the PC internet era before entering short video when conditions were more favorable, making [[Douyin]] look less like a pure [[OddsDrivenStartupNarrative]] and more like accumulated preparation meeting timing.
 
+[[no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]] adds Zhang through the Wukong Q&A conflict with [[Zhihu|知乎]]. The source cites his public criticism of Zhihu cofounder comments as part of a creator-respect dispute, but the larger wiki point is a boundary on ByteDance-style competition: subsidies and distribution can expose [[KnowledgeCommunityCreatorIncentives]] weakness without proving that a stable community has been built.
+
 ## Connections
 - [[ByteDance]], [[Douyin]], and [[TikTok]] — company and product context.
 - [[PonyMa]], [[Tencent]], and [[WeChat]] — counterpart in the public conflict.
@@ -25,3 +27,4 @@ For the wiki, Zhang matters less as a biography than as the founder lens on Byte
 - [[ByteDanceGrowthSystem]], [[LTVBasedGrowthBudgeting]], and [[DataDrivenProductCulture]] — growth-system and authorization context added by episode 7.
 - [[Doushenshen]], [[CouponLedTransactionGrowth]], and [[GrowthROILayers]] — local-life ROI and opportunity-cost context added by episode 8.
 - [[WinRateStartupStrategy]], [[Albert]], and [[Douyin]] — founder-method example added by the 42章经 source.
+- [[Zhihu|知乎]], [[KnowledgeCommunityCreatorIncentives]], and [[CommunityVsContentPlatform]] — Wukong Q&A community-boundary branch added by episode 212.

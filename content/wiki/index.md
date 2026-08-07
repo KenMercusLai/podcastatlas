@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.212 曾经的精神角落：豆瓣、知乎、贴吧、虎扑 | 中国互联网故事25](sources/no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980.md) — Banlatte episode on Douban, Zhihu, Baidu Tieba, and Hupu as PC-era Chinese communities whose relationship density, subcultures, and shared memory made them emotionally powerful but commercially fragile.
 - [Brave New whirl: Turkey's opposition overhaul](sources/brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f.md) — The Intelligence episode on Ozel's New Party and Turkish opposition suppression, Jens Spahn's German surrogacy scandal, and Gen Z career advice under AI.
 - [An interview with Elon Musk](sources/an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c.md) — Full The Intelligence interview with Elon Musk on AI, humanoid robots, universal high income, frontier-model peer review, SpaceX control, Starlink in Ukraine, DOGE/USAID, X, and European political influence.
 - [175.公募基金二季报：极致的抱团与割裂之后](sources/175-gongmu-jijin-erjibao-jizhi-de-baotuan-yu-gelie-zhihou-lv20uprxrcw0tde5ugohu29tmlg6.md) — 起朱楼宴宾客 episode on Chinese public mutual funds' 2026 Q2 reports, active-fund crowding, AI and semiconductor concentration, manager ranking incentives, supply-chain bullwhip risk, and why retail investors should avoid chasing new star managers into long-term accounts.
@@ -886,6 +887,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [知乎 / Zhihu](entities/Zhihu.md) — PC-era Chinese knowledge Q&A community whose invitation culture, creator incentives, paid-knowledge experiments, and story turn ground episode 212.
+- [百度贴吧 / Baidu Tieba](entities/BaiduTieba.md) — Baidu keyword-driven forum system where search terms became long-tail communities, subcultures, and governance/commercialization conflicts.
+- [虎扑 / Hupu](entities/Hupu.md) — Sports forum and Pedestrian Street community that grew from HoopChina and later incubated the equipment-commerce path toward Dewu.
+- [阿北 / Abei](entities/Abei.md) — Douban founder whose product idealism, restrained design, and mobile-fragmentation choices anchor episode 212's Douban branch.
+- [周源 / Zhou Yuan](entities/ZhouYuan.md) — Zhihu founder whose journalism-to-startup path anchors episode 212's knowledge-community branch.
+- [程杭 / Cheng Hang](entities/ChengHang.md) — Hupu founder who built HoopChina from NBA translation work and framed Hupu as barbecue-stall culture.
+- [杨冰 / Yang Bing](entities/YangBing.md) — Hupu equipment-commerce operator linked by episode 212 to ShiHuo, Du App, and Dewu.
+- [得物 / Dewu](entities/Dewu.md) — Sneaker and gear authentication/trading company presented as Hupu's stronger transaction-ready spinoff.
 - [Ozgur Ozel](entities/OzgurOzel.md) — Former CHP leader whose court removal and New Party launch anchor the Turkey opposition-overhaul source.
 - [New Party (Turkey)](entities/NewPartyTurkey.md) — Ozel's source-described opposition party, strengthened by CHP defections and framed as Turkey's new main challenge to the AK Party.
 - [Republican People's Party](entities/RepublicanPeoplesParty.md) — Turkish CHP, presented as a secular social-democratic party hollowed out after Ozel's removal and New Party defections.
@@ -2778,7 +2787,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《还可以的金女士》](entities/HaikeyiDeJinNvshi.md) — Jinzi autobiographical essay collection used by episode 140 to examine small-town schooling, beauty, work, effort, and self-trust.
 - [金子 / Jinzi](entities/Jinzi.md) — Author and fashion-media worker whose memoir grounds episode 140's branches on small-town exam-taker discipline, creator evaluation pressure, and effort interrogation.
 - [中国传媒大学 / Communication University of China](entities/ChinaCommunicationUniversity.md) — Jinzi's chosen journalism path, used by episode 140 to show a specialized route that local prestige systems did not fully recognize.
-- [豆瓣 / Douban](entities/Douban.md) — Public book-rating and review platform that makes episode 140's creator evaluation pressure feel like renewed school scoring.
+- [豆瓣 / Douban](entities/Douban.md) — Chinese books, film, music, groups, and ratings community now linked to both creator-evaluation pressure and episode 212's PC-community commercialization and mobile-transition story.
 - [《为什么伟大不能被计划》 / Why Greatness Cannot Be Planned](entities/WhyGreatnessCannotBePlanned.md) — Book used by episode 139 to argue that complex achievements often emerge through novelty search and stepping-stone exploration rather than direct planning.
 - [Kenneth Stanley](entities/KennethStanley.md) — AI researcher and coauthor, as presented by episode 139, whose book discussion anchors objective deception and novelty search.
 - [Joel Lehman](entities/JoelLehman.md) — AI researcher and coauthor, as presented by episode 139, connected to novelty search, objective deception, and why greatness resists direct planning.
@@ -6044,6 +6053,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese PC Internet Communities / 中文 PC 互联网社区](concepts/ChinesePCInternetCommunities.md) — Episode 212 umbrella for Douban, Zhihu, Baidu Tieba, and Hupu as PC-era communities built from relationships, norms, identity, and shared memory.
+- [Online Community Commercialization Friction / 社区商业化摩擦](concepts/OnlineCommunityCommercializationFriction.md) — Why pure relationship communities resist ads,导购, paid services, algorithmic feeds, and heavy platform intervention.
+- [Community vs Content Platform / 社区与内容平台区别](concepts/CommunityVsContentPlatform.md) — Episode 212 distinction between relationship-based communities and media-like content consumption platforms.
+- [Keyword Community Architecture / 关键词社区架构](concepts/KeywordCommunityArchitecture.md) — Baidu Tieba pattern where search keywords become community containers for long-tail interests and identities.
+- [Mobile Community Fragmentation Risk / 移动社区入口碎片化风险](concepts/MobileCommunityFragmentationRisk.md) — Douban case where splitting PC-community functions across many mobile apps weakened daily-use continuity.
+- [Knowledge Community Creator Incentives / 知识社区创作者激励](concepts/KnowledgeCommunityCreatorIncentives.md) — Zhihu case where invitation status, creator recognition, paid knowledge, and subsidy competition strained platform-community alignment.
+- [Forum Subculture Memory / 论坛亚文化记忆](concepts/ForumSubcultureMemory.md) — Durable cultural residue of old forums and communities through language, jokes, ratings, fights, and identity vocabulary.
 - [Turkish Opposition Realignment](concepts/TurkishOppositionRealignment.md) — Rapid reshaping of Turkey's opposition after Ozel leaves the CHP, founds the New Party, and attracts defecting MPs.
 - [Judicialized Opposition Suppression](concepts/JudicializedOppositionSuppression.md) — Use of courts, police, prosecutions, and legal procedure to weaken challengers while preserving surface legality.
 - [Opposition Party Hollowing](concepts/OppositionPartyHollowing.md) — Pattern where a formal opposition party remains alive but loses leadership credibility, support, and organizational substance.
