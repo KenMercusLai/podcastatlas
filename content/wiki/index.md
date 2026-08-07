@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.](sources/toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97.md) — How I Built This episode on Toast's pivot from a slow-check payment app into a restaurant operating platform, covering POS complexity, early install failures, scaling discipline, COVID off-premise tools, IPO, and Aman Narang's CEO return.
 - [AI 发展了 4 年，把应用发展没了？｜AI 年中复盘](sources/ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx.md) — 42章经 mid-2026 AI recap by Qu Kai on the model/application rotation, the 2026 application-market trough, overseas execution, chat-to-coding transition, long-horizon agents, and founder discipline around users, revenue, and cash flow.
 - [Uncanny AI: Why AI bots remember random, sometimes useless information](sources/tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128.md) — Marketplace Tech episode with Janelle Shane on chatbot memory, Claude's awkward callbacks, persistent memory files, salience failures, sensitive-topic overreach, and privacy/security controls.
 - [AI debt is flooding the bond market](sources/tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128.md) — Marketplace Tech episode with Julie Osk of Osk Advisory on AI data-center capex, corporate bond issuance by Amazon/Alphabet/Meta/Oracle/Nvidia/SpaceX, free-cash-flow pressure, interest-rate risk, bond-supply risk, and ROI scrutiny.
@@ -847,6 +848,24 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Toast](entities/Toast.md) — restaurant technology company built from a failed slow-check payment app into a restaurant operating platform.
+- [Aman Narang](entities/AmanNarang.md) — Toast co-founder and CEO interviewed by How I Built This.
+- [Steve Fredette](entities/SteveFredette.md) — Toast co-founder from the Endeca founding-team network.
+- [John Graham](entities/JohnGraham.md) — Toast co-founder and early builder of the first payment app.
+- [Chris Comparato](entities/ChrisComparato.md) — CEO brought into Toast in 2015 as the company moved from founder hustle toward scaling discipline.
+- [Steve Papa](entities/StevePapa.md) — Endeca figure and early Toast investor who helped the founders see mobile and restaurant software timing.
+- [Endeca](entities/Endeca.md) — enterprise search company where the Toast founders worked before Oracle acquired it.
+- [Firebrand Saints](entities/FirebrandSaints.md) — Kendall Square restaurant where Toast's original slow-check idea began.
+- [Gary Stark](entities/GaryStark.md) — Firebrand Saints owner who allowed the first Toast payment-app experiment.
+- [Finale Desserts](entities/FinaleDesserts.md) — restaurant group that showed Toast the fragmented systems behind restaurant operations.
+- [Chris Kane](entities/ChrisKane.md) — Finale Desserts operator whose system map pushed Toast toward an integrated restaurant platform.
+- [Dwell Time](entities/DwellTime.md) — first Toast customer whose failed live install exposed the mission-critical nature of restaurant POS.
+- [Gordon Food Service](entities/GordonFoodService.md) — food distributor that helped Toast expand beyond Boston.
+- [Micros](entities/Micros.md) — incumbent restaurant POS system named in Toast's target market.
+- [NCR](entities/NCR.md) — incumbent point-of-sale provider named in Toast's target market.
+- [PosiTouch](entities/PosiTouch.md) — incumbent restaurant POS system named in Toast's target market.
+- [Shybird](entities/Shybird.md) — restaurant that replaced Firebrand Saints and later used Toast.
+- [Toast IQ Grow](entities/ToastIQGrow.md) — Toast AI product cited in the episode's next-phase growth discussion.
 - [曲凯 / Qu Kai](entities/QuKai.md) — 42章经 founder and host of the mid-2026 AI model/application recap.
 - [唐杰 / Tang Jie](entities/TangJie.md) — Zhipu AI research leader cited through a post-DeepSeek coding/reasoning public letter.
 - [Genspark](entities/Genspark.md) — AI application company referenced as an overseas-oriented revenue example in the 42章经 recap.
@@ -5785,6 +5804,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Restaurant Operating System](concepts/RestaurantOperatingSystem.md) — vertical SaaS pattern where restaurant POS expands into payments, ordering, staffing, inventory, and decision support.
+- [Mission-Critical Restaurant Software](concepts/MissionCriticalRestaurantSoftware.md) — restaurant software category where outages immediately disrupt live service, payments, kitchen flow, and trust.
+- [Off-Premise Restaurant Commerce](concepts/OffPremiseRestaurantCommerce.md) — ordering, menu, payment, pickup, delivery, and communication layer made urgent by COVID-era restaurant disruption.
 - [AI Application Market Trough](concepts/AIApplicationMarketTrough.md) — 2026 investor-market frame where AI applications face skepticism while model companies regain narrative strength.
 - [Police-Free Protest Space](concepts/PoliceFreeProtestSpace.md) — Protest-zone model where community safety is attempted without ordinary policing, added through the CHOP trailer.
 - [Armed Protest-Zone Security](concepts/ArmedProtestZoneSecurity.md) — Informal armed security response that can emerge inside a protest space under perceived threat.

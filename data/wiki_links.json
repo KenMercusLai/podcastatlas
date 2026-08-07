@@ -3051,6 +3051,10 @@
     "title": "Altos Computer",
     "url": "/wiki/entities/altoscomputer/"
   },
+  "AmanNarang": {
+    "title": "Aman Narang",
+    "url": "/wiki/entities/amannarang/"
+  },
   "AmanResorts": {
     "title": "Aman Resorts",
     "url": "/wiki/entities/amanresorts/"
@@ -7139,6 +7143,14 @@
     "title": "Chris Buskirk",
     "url": "/wiki/entities/chrisbuskirk/"
   },
+  "ChrisComparato": {
+    "title": "Chris Comparato",
+    "url": "/wiki/entities/chriscomparato/"
+  },
+  "ChrisKane": {
+    "title": "Chris Kane",
+    "url": "/wiki/entities/chriskane/"
+  },
   "ChrisQuinn": {
     "title": "Chris Quinn",
     "url": "/wiki/entities/chrisquinn/"
@@ -10291,6 +10303,10 @@
     "title": "Dutch Disease",
     "url": "/wiki/concepts/dutchdisease/"
   },
+  "DwellTime": {
+    "title": "Dwell Time",
+    "url": "/wiki/entities/dwelltime/"
+  },
   "DynamicBalancingRobotics": {
     "title": "Dynamic Balancing Robotics",
     "url": "/wiki/concepts/dynamicbalancingrobotics/"
@@ -10926,6 +10942,10 @@
   "EndOfLifeAutonomyAndDignity": {
     "title": "End-of-Life Autonomy And Dignity",
     "url": "/wiki/concepts/endoflifeautonomyanddignity/"
+  },
+  "Endeca": {
+    "title": "Endeca",
+    "url": "/wiki/entities/endeca/"
   },
   "EndogenousMoneyCreation": {
     "title": "Endogenous Money Creation / 内生货币",
@@ -12087,6 +12107,10 @@
     "title": "Filterworld",
     "url": "/wiki/entities/filterworld/"
   },
+  "FinaleDesserts": {
+    "title": "Finale Desserts",
+    "url": "/wiki/entities/finaledesserts/"
+  },
   "FinallySomethingGood": {
     "title": "Finally Something Good",
     "url": "/wiki/entities/finallysomethinggood/"
@@ -12202,6 +12226,10 @@
   "FireTechClimateResilience": {
     "title": "Fire Tech Climate Resilience",
     "url": "/wiki/concepts/firetechclimateresilience/"
+  },
+  "FirebrandSaints": {
+    "title": "Firebrand Saints",
+    "url": "/wiki/entities/firebrandsaints/"
   },
   "FirstBrands": {
     "title": "First Brands",
@@ -13395,6 +13423,10 @@
     "title": "Gary Marcus",
     "url": "/wiki/entities/garymarcus/"
   },
+  "GaryStark": {
+    "title": "Gary Stark",
+    "url": "/wiki/entities/garystark/"
+  },
   "GavinNewsom": {
     "title": "Gavin Newsom",
     "url": "/wiki/entities/gavinnewsom/"
@@ -13934,6 +13966,10 @@
   "GooglePlus": {
     "title": "Google Plus",
     "url": "/wiki/entities/googleplus/"
+  },
+  "GordonFoodService": {
+    "title": "Gordon Food Service",
+    "url": "/wiki/entities/gordonfoodservice/"
   },
   "GordonHansen": {
     "title": "Gordon Hanson",
@@ -17654,6 +17690,10 @@
   "JohnGideonMillingen": {
     "title": "John Gideon Millingen / 约翰·基甸·米林根",
     "url": "/wiki/entities/johngideonmillingen/"
+  },
+  "JohnGraham": {
+    "title": "John Graham",
+    "url": "/wiki/entities/johngraham/"
   },
   "JohnHarvey": {
     "title": "John Harvey",
@@ -21623,6 +21663,10 @@
     "title": "Micron Technology",
     "url": "/wiki/entities/microntechnology/"
   },
+  "Micros": {
+    "title": "Micros",
+    "url": "/wiki/entities/micros/"
+  },
   "Microsoft": {
     "title": "Microsoft",
     "url": "/wiki/entities/microsoft/"
@@ -21858,6 +21902,10 @@
   "Missfresh": {
     "title": "每日优鲜 / Missfresh",
     "url": "/wiki/entities/missfresh/"
+  },
+  "MissionCriticalRestaurantSoftware": {
+    "title": "Mission-Critical Restaurant Software",
+    "url": "/wiki/concepts/missioncriticalrestaurantsoftware/"
   },
   "MissionDrivenAcquisitionDecision": {
     "title": "Mission-Driven Acquisition Decision",
@@ -22486,6 +22534,10 @@
   "NBC": {
     "title": "NBC",
     "url": "/wiki/entities/nbc/"
+  },
+  "NCR": {
+    "title": "NCR",
+    "url": "/wiki/entities/ncr/"
   },
   "NFLFilms": {
     "title": "NFL Films",
@@ -23426,6 +23478,10 @@
   "Oedipus": {
     "title": "Oedipus / 俄狄浦斯",
     "url": "/wiki/entities/oedipus/"
+  },
+  "OffPremiseRestaurantCommerce": {
+    "title": "Off-Premise Restaurant Commerce",
+    "url": "/wiki/concepts/offpremiserestaurantcommerce/"
   },
   "OffensiveHumorSpeechSpace": {
     "title": "Offensive Humor Speech Space / 冒犯性幽默空间",
@@ -25419,6 +25475,10 @@
     "title": "Portugal",
     "url": "/wiki/entities/portugal/"
   },
+  "PosiTouch": {
+    "title": "PosiTouch",
+    "url": "/wiki/entities/positouch/"
+  },
   "PositionSizing": {
     "title": "Position Sizing",
     "url": "/wiki/concepts/positionsizing/"
@@ -27182,6 +27242,10 @@
   "RestaurantExperienceDesign": {
     "title": "Restaurant Experience Design",
     "url": "/wiki/concepts/restaurantexperiencedesign/"
+  },
+  "RestaurantOperatingSystem": {
+    "title": "Restaurant Operating System",
+    "url": "/wiki/concepts/restaurantoperatingsystem/"
   },
   "RestaurantOperationalFragility": {
     "title": "Restaurant Operational Fragility",
@@ -29279,6 +29343,10 @@
     "title": "《说文解字》",
     "url": "/wiki/entities/shuowenjiezi/"
   },
+  "Shybird": {
+    "title": "Shybird",
+    "url": "/wiki/entities/shybird/"
+  },
   "Sichuan": {
     "title": "Sichuan / 四川",
     "url": "/wiki/entities/sichuan/"
@@ -30527,6 +30595,10 @@
     "title": "Steve Bannon",
     "url": "/wiki/entities/stevebannon/"
   },
+  "SteveFredette": {
+    "title": "Steve Fredette",
+    "url": "/wiki/entities/stevefredette/"
+  },
   "SteveHuffman": {
     "title": "Steve Huffman",
     "url": "/wiki/entities/stevehuffman/"
@@ -30534,6 +30606,10 @@
   "SteveJobs": {
     "title": "Steve Jobs",
     "url": "/wiki/entities/stevejobs/"
+  },
+  "StevePapa": {
+    "title": "Steve Papa",
+    "url": "/wiki/entities/stevepapa/"
   },
   "StevePerlman": {
     "title": "Steve Perlman",
@@ -32210,6 +32286,14 @@
   "ToAgentDistribution": {
     "title": "To-Agent Distribution",
     "url": "/wiki/concepts/toagentdistribution/"
+  },
+  "Toast": {
+    "title": "Toast",
+    "url": "/wiki/entities/toast/"
+  },
+  "ToastIQGrow": {
+    "title": "Toast IQ Grow",
+    "url": "/wiki/entities/toastiqgrow/"
   },
   "TobiasLutke": {
     "title": "Tobias Lütke",
@@ -37978,6 +38062,10 @@
   "theres-no-business-like-dough-business": {
     "title": "There's no business like dough business",
     "url": "/wiki/sources/theres-no-business-like-dough-business/"
+  },
+  "toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97": {
+    "title": "Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.",
+    "url": "/wiki/sources/toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97/"
   },
   "touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d": {
     "title": "头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集",

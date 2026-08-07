@@ -6769,3 +6769,11 @@ Added source page for a 42章经 mid-2026 AI recap by 曲凯 / Qu Kai on the 202
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint scanned 9,624 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-24 with 6,453 nodes while the current wiki scan found 9,624 pages; they found no hub stubs, three fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. No lint report file was saved.
+
+## [2026-08-07] ingest | Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.
+
+Added source page for a How I Built This episode on Aman Narang and Toast, tracing the company from a slow-check restaurant payment app into a restaurant operating platform. Created pages for Toast, Aman Narang, Steve Fredette, John Graham, Chris Comparato, Steve Papa, Endeca, Firebrand Saints, Gary Stark, Finale Desserts, Chris Kane, Dwell Time, Gordon Food Service, Micros, NCR, PosiTouch, Shybird, Toast IQ Grow, Restaurant Operating System, Mission-Critical Restaurant Software, and Off-Premise Restaurant Commerce; updated overview, index, How I Built This, Guy Raz, Oracle, Square, restaurant operational fragility, vertical SaaS domain expertise, operational pain founder insight, founder idea pivot, stage-appropriate hiring, customer discovery by doing work, trust-heavy infrastructure sales, payments infrastructure pivot, startup timing windows, public company transition, and product-led willingness to pay. No direct contradiction found; the episode's revenue, market-share, and AI-uplift claims are recorded as source-scoped claims rather than independently verified current financial data.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

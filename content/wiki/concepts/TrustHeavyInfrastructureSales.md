@@ -2,11 +2,13 @@
 title: "Trust-Heavy Infrastructure Sales"
 type: concept
 tags: [startups, enterprise-sales, infrastructure, trust]
-sources: [tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarsseason2-dimitri-final, socialradarss2-billclerico-final, socialradarss2-stripe-v2, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
-last_updated: 2026-07-23
+sources: [toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarsseason2-dimitri-final, socialradarss2-billclerico-final, socialradarss2-stripe-v2, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-08-07
 ---
 
 # Trust-Heavy Infrastructure Sales
+
+[[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]] adds restaurant POS as a small-business infrastructure trust case. [[Toast]] had to convince restaurants to replace systems that touched payments, kitchen flow, staff workflows, and customer service; the [[DwellTime]] outage shows why buyer trust mattered before the company could scale.
 
 Trust-heavy infrastructure sales are sales where the buyer must trust a young vendor with critical operations before visible usage metrics can appear. In [[socialradarsseason2-dimitri-final]], [[DimitriDadiomov]] says [[ModernTreasury]] had to persuade companies to rely on a three-person startup for financial workflows that touched bank accounts, payment initiation, and reconciliation.
 
@@ -47,3 +49,4 @@ The episode makes this different from ordinary SaaS adoption. A customer can lik
 - [[Dropbox]], [[DrewHouston]], [[BottomUpEnterpriseDistribution]], and [[SyncReliabilityAsUX]] - consumer-to-workplace trust case added by the Drew Houston episode.
 - [[GoCardless]], [[Monzo]], [[TomBlomfield]], [[FintechRegulatoryWindow]], and [[InHouseBankingSoftware]] - UK fintech trust cases added by the Tom Blomfield episode.
 - [[Gusto]], [[JoshReeves]], [[EddieKim]], [[TomerLondon]], and [[PayrollInfrastructureTrust]] - small-business payroll trust case added by the Gusto episode.
+- [[Toast]], [[DwellTime]], [[RestaurantOperatingSystem]], and [[MissionCriticalRestaurantSoftware]] - restaurant POS trust case added by How I Built This.

@@ -2,8 +2,8 @@
 title: "Startup Timing Windows"
 type: concept
 tags: [startups, timing, product-strategy]
-sources: [tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarspod-garrytan-final]
-last_updated: 2026-07-23
+sources: [toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarspod-garrytan-final]
+last_updated: 2026-08-07
 ---
 
 # Startup Timing Windows
@@ -15,6 +15,8 @@ The same source shows that timing windows close. Posterous raised money during t
 [[tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final]] adds an earlier hardware version through [[AltosComputer]]. [[RonConway]] says Altos rode the microcomputer disruption against minicomputer incumbents but later missed the personal-computer and Ethernet shift, turning timing windows into a [[SelfDisruptionDiscipline]] problem: the same company can exploit one window and be trapped by the next.
 
 [[tsr-s4-ronconway-v4-tsr-s4-ronconway-v4]] adds the early internet software window. [[Netscape]] made the web usable through [[BrowserAsInternetUnlock]], open source produced [[OpenSourceStartupCostCollapse]], and [[AskJeeves]] caught an early search/interface opening before [[Google]] reset the category around [[PageRankSearchRelevance]].
+
+[[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]] adds the restaurant technology version through [[Toast]]. [[AmanNarang]] says mobile, Android hardware, and payments opening up around 2012-2013 helped the company start, while COVID later opened a second urgent window for [[OffPremiseRestaurantCommerce]] such as QR menus, ordering, and payment.
 
 ## Key Claims
 - A platform shift can create demand for simple workflows before native or specialized products exist.
@@ -28,5 +30,6 @@ The same source shows that timing windows close. Posterous raised money during t
 - [[GarryTan]], [[Posterous]], and [[YCombinator]] - source case.
 - [[RonConway]], [[AltosComputer]], and [[SelfDisruptionDiscipline]] - earlier microcomputer-to-PC timing case.
 - [[Netscape]], [[BrowserAsInternetUnlock]], [[OpenSourceStartupCostCollapse]], [[AskJeeves]], and [[Google]] - internet software timing sequence.
+- [[Toast]], [[AmanNarang]], [[RestaurantOperatingSystem]], and [[OffPremiseRestaurantCommerce]] - restaurant software and COVID timing case added by How I Built This.
 - [[CustomerPull]], [[FastProductValidation]], and [[FounderProductFit]] - validation concepts affected by timing.
 - [[LargeCompanyOrganizationalInertia]] - Microsoft contrast around what builders can or cannot do inside large organizations.

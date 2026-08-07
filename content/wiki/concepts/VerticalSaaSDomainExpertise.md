@@ -2,8 +2,8 @@
 title: "Vertical SaaS Domain Expertise"
 type: concept
 tags: [startups, saas, vertical-software, domain-expertise]
-sources: [tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, socialradarsseason1-tracyyoung-final-1, 50-cents-a-pool-the-pricing-model-behind-a-saas-exit]
-last_updated: 2026-07-18
+sources: [toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, socialradarsseason1-tracyyoung-final-1, 50-cents-a-pool-the-pricing-model-behind-a-saas-exit]
+last_updated: 2026-08-07
 ---
 
 # Vertical SaaS Domain Expertise
@@ -15,6 +15,8 @@ The episode shows why domain expertise is not only a sales credential. It shapes
 [[tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio]] adds the life-sciences version through [[SajithWickramasekara]] and [[Benchling]]. Sajith studied computer science at [[MIT]] while working in biology labs, and saw that scientists were still using paper notebooks, spreadsheets, and email. The case shows cross-domain founder fit: enough software taste to know better collaboration was possible, plus enough lab exposure to see why scientific workflows needed a specialized product.
 
 [[50-cents-a-pool-the-pricing-model-behind-a-saas-exit]] adds the outsider-learning version through [[RonHash]] and [[Skimmer]]. Ron was not a pool-service operator himself, but a friend's complaint, a cold call, welcome calls, support work, and usage dashboards helped him learn the field workflow tightly enough to build [[FieldFirstVerticalSaaS]] for technicians replacing paper routes and chemical logs.
+
+[[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]] adds a restaurant-software version through [[Toast]]. [[AmanNarang]], [[SteveFredette]], and [[JohnGraham]] were not restaurant operators, but the failed payment app, [[FinaleDesserts]] system map, [[DwellTime]] outage, and high-touch installs forced them to learn restaurant workflows deeply enough to build a [[RestaurantOperatingSystem]] rather than a horizontal small-business tool.
 
 ## Key Claims
 - A vertical workflow can be high-value even when it looks ordinary or low-status from outside the industry.
@@ -33,3 +35,4 @@ The episode shows why domain expertise is not only a sales credential. It shapes
 - [[VerticalWorkflowAI]] and [[DomainExpertAlignment]] - related AI-era workflow concepts.
 - [[SajithWickramasekara]], [[Benchling]], [[MIT]], and [[LifeSciencesWorkflowSoftware]] - life-sciences software case added by the Benchling source.
 - [[RonHash]], [[Skimmer]], [[FieldFirstVerticalSaaS]], [[UsageBasedVerticalSaaSPricing]], and [[OnboardingLedChurnReduction]] - pool-service SaaS case added by The SaaS Podcast.
+- [[Toast]], [[AmanNarang]], [[RestaurantOperatingSystem]], and [[MissionCriticalRestaurantSoftware]] - restaurant SaaS case added by How I Built This.

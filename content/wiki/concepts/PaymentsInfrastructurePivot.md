@@ -2,8 +2,8 @@
 title: "Payments Infrastructure Pivot"
 type: concept
 tags: [fintech, payments, startups, infrastructure, strategy]
-sources: [socialradarss2-billclerico-final, socialradarss2-stripe-v2, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
-last_updated: 2026-07-14
+sources: [toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, socialradarss2-billclerico-final, socialradarss2-stripe-v2, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-08-07
 ---
 
 # Payments Infrastructure Pivot
@@ -17,6 +17,8 @@ The episode's warning is about execution speed. Clerico says WePay changed gradu
 [[socialradarss2-stripe-v2]] sharpens the comparison by showing [[Stripe]] starting closer to the infrastructure thesis. The Collisons' "Slicehost for payments" framing treated developer setup, API control, and online payment acceptance as the product from the beginning, whereas [[WePay]] had to migrate there after weak consumer frequency and repeated platform requests exposed the deeper opportunity.
 
 [[tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]] adds [[GoCardless]] as a UK direct-debit version. [[TomBlomfield]] says the team began with a group bill-splitting idea, ignored [[BillClerico]]'s warning that bill splitting was bad, and then used [[YCombinator]] pressure plus customer interest in bank-payment access to pivot toward B2B payments infrastructure.
+
+[[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]] adds an adjacent restaurant version through [[Toast]]. The first product was a diner payment app, but restaurant owners cared less about a faster check in isolation than about the POS and operating systems underneath it, pushing the company from payment surface toward [[RestaurantOperatingSystem]].
 
 ## Key Claims
 - A payments product can have real utility but still fail as a venture-scale consumer business if frequency and monetization are weak.
@@ -34,3 +36,4 @@ The episode's warning is about execution speed. Clerico says WePay changed gradu
 - [[ModernTreasury]] - later fintech infrastructure case in the wiki with a cleaner money-movement thesis from the start.
 - [[Stripe]], [[PatrickCollison]], [[JohnCollison]], and [[DeveloperFirstPaymentInfrastructure]] - comparison case where the infrastructure thesis was present at origin.
 - [[GoCardless]], [[TomBlomfield]], [[BillClerico]], and [[FintechRegulatoryWindow]] - direct-debit infrastructure pivot added by the Tom Blomfield source.
+- [[Toast]], [[AmanNarang]], [[RestaurantOperatingSystem]], and [[MissionCriticalRestaurantSoftware]] - restaurant-payment-to-platform pivot added by How I Built This.

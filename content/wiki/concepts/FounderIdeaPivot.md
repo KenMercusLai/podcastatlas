@@ -2,11 +2,13 @@
 title: "Founder Idea Pivot"
 type: concept
 tags: [startup, y-combinator, validation]
-sources: [peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, socialradarspod-stevehuffman-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
-last_updated: 2026-07-25
+sources: [toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, socialradarspod-stevehuffman-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-08-07
 ---
 
 # Founder Idea Pivot
+
+[[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]] adds [[Toast]] as a payment-app-to-platform pivot. [[AmanNarang]], [[SteveFredette]], and [[JohnGraham]] began with a phone-based restaurant checkout idea, but weak consumer usage and difficult POS integration pushed them toward restaurant point-of-sale and then a broader [[RestaurantOperatingSystem]].
 
 Founder idea pivot is the early-stage pattern where backers or founders reject the current idea but keep the team because the people look more promising than the plan. [[socialradarspod-stevehuffman-final]] adds the concept through [[SteveHuffman]] and [[AlexisOhanian]]: [[YCombinator]] did not want to fund their mobile food-ordering idea, but [[PaulGraham]] called them back from the train and pointed them toward what became [[Reddit]].
 
@@ -42,3 +44,4 @@ The concept matters because it separates founder judgment from idea attachment. 
 - [[GoCardless]], [[TomBlomfield]], [[PaymentsInfrastructurePivot]], and [[MoneyMovementInfrastructure]] - direct-debit infrastructure pivot added by the Tom Blomfield source.
 - [[FounderProductFit]], [[FastProductValidation]], and [[CustomerPull]] - adjacent validation concepts.
 - [[UserPoweredContentPlatform]] - the product direction that replaced the mobile food idea.
+- [[Toast]], [[AmanNarang]], [[PaymentsInfrastructurePivot]], and [[RestaurantOperatingSystem]] - restaurant platform pivot added by How I Built This.

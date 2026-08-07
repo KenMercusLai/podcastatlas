@@ -2,11 +2,13 @@
 title: "Stage-Appropriate Hiring"
 type: concept
 tags: [startups, hiring, management]
-sources: [tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, community-led-saas-growth-how-ninety-hit-44m-arr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud, socialradarsseason1-tracyyoung-final-1]
-last_updated: 2026-07-23
+sources: [toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, community-led-saas-growth-how-ninety-hit-44m-arr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud, socialradarsseason1-tracyyoung-final-1]
+last_updated: 2026-08-07
 ---
 
 # Stage-Appropriate Hiring
+
+[[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]] adds a restaurant SaaS scaling version through [[Toast]]. [[AmanNarang]] says the company had grown quickly but was struggling with outages, hardware returns, downtime, and support, making [[ChrisComparato]]'s 2015 CEO arrival a shift from founder-led survival toward systems for [[MissionCriticalRestaurantSoftware]].
 
 Stage-appropriate hiring is the principle that leaders and executives must fit the company's current stage, ambiguity level, operating pace, and culture. In [[community-led-saas-growth-how-ninety-hit-44m-arr]], [[MarkAbbott]] says [[Ninety]] made hiring mistakes after raising capital by bringing in experienced executives whose playbooks and expectations did not fit the company.
 
@@ -63,3 +65,4 @@ Stage-appropriate hiring is the principle that leaders and executives must fit t
 - [[ChristinaCacioppo]], [[Vanta]], [[FounderMode]], and [[FounderDelegationDiscipline]] - management-layer regret case from the Christina Cacioppo founder-mode source.
 - [[SajithWickramasekara]], [[Benchling]], [[FounderMode]], and [[FounderProximity]] - senior-executive fit and customer-contact case from the Benchling founder-mode source.
 - [[SpenserSkates]], [[Amplitude]], [[DirectListingDiscipline]], [[PublicCompanyTransition]], and [[PublicMarketCommunication]] - public-company-readiness case added by the Spenser Skates episode.
+- [[Toast]], [[AmanNarang]], [[ChrisComparato]], and [[MissionCriticalRestaurantSoftware]] - restaurant SaaS scaling case added by How I Built This.

@@ -2,11 +2,13 @@
 title: "Restaurant Operational Fragility"
 type: concept
 tags: [hospitality, restaurants, operations, finance]
-sources: [chef-vs-robot, starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4, vol-263-lang-de-youhuo-998128018]
-last_updated: 2026-07-07
+sources: [toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, chef-vs-robot, starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4, vol-263-lang-de-youhuo-998128018]
+last_updated: 2026-08-07
 ---
 
 # Restaurant Operational Fragility
+
+[[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]] adds the restaurant-software version through [[Toast]]. The failed first live install at [[DwellTime]] shows that operational fragility can be triggered by a point-of-sale outage as directly as by food, labor, or room problems: staff had to switch to paper orders and written card numbers while service was underway.
 
 [[chef-vs-robot]] adds a kitchen-labor and automation version through [[Instafoods]], [[RobbyWokbot]], and [[TingWong]]. The source shows that fragility can come from staffing scarce skilled roles, training time, thin margins, and service disruption if a robot breaks down, while [[RestaurantAutomation]] can reduce some labor volatility by introducing machine-maintenance and quality-tradeoff risks.
 
@@ -34,3 +36,4 @@ The concept adds a caution to [[RestaurantExperienceDesign]]. The more a restaur
 - [[FounderCashFlowConstraint]] - adjacent startup-finance concept; restaurant fragility often moves from personal runway to working capital and fixed-cost exposure.
 - [[Sushiro]], [[ConveyorBeltSushi]], [[RestaurantSupplyChainLocalization]], and [[ChainRestaurantStandardization]] - sushi-chain case where standardization and supply discipline reduce food-safety and reputation fragility.
 - [[KennyPoon]], [[RobbyWokbot]], [[PhuongHoangChiang]], [[WokHei]], and [[RobotChefCostQualityTradeoff]] - robot-chef branch added by Planet Money.
+- [[Toast]], [[DwellTime]], [[MissionCriticalRestaurantSoftware]], and [[RestaurantOperatingSystem]] - restaurant software reliability branch added by How I Built This.

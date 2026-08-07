@@ -2,11 +2,13 @@
 title: "Customer Discovery By Doing Work"
 type: concept
 tags: [startup, customer-discovery, operations]
-sources: [tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final]
-last_updated: 2026-07-23
+sources: [toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final]
+last_updated: 2026-08-07
 ---
 
 # Customer Discovery By Doing Work
+
+[[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]] adds a restaurant software version through [[Toast]]. The founders did not only interview restaurant owners; they built integrations, installed systems, trained staff, answered support calls, and manually rescued the [[DwellTime]] outage, turning service work into product discovery for [[MissionCriticalRestaurantSoftware]].
 
 Customer discovery by doing work is the pattern where founders learn by helping customers or suppliers with real tasks rather than only interviewing them. In [[socialradarspod-tonyxu-final]], [[TonyXu]] says the [[DoorDash]] founders walked into small businesses and helped with dishes, salad preparation, accounting, and other work. Merchants got free help, while the founders learned which problems were frequent and painful.
 
@@ -56,3 +58,4 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 - [[SurbhiSarna]], [[NVisionMedical|nVision Medical]], [[PhysicianLedMedicalDeviceDesign]], [[FallopianTubeAccessDiagnostics]], and [[MedicalDeviceClinicalValidation]] - physician-user discovery case added by The Social Radars.
 - [[RyanPetersen]], [[Flexport]], [[GlobalLogisticsCoordination]], and [[LogisticsCrisisResponse]] - logistics fieldwork case added by the Ryan Petersen episode.
 - [[Gusto]], [[JoshReeves]], [[EddieKim]], [[TomerLondon]], and [[PayrollInfrastructureTrust]] - payroll-onboarding case added by the Gusto episode.
+- [[Toast]], [[AmanNarang]], [[DwellTime]], and [[RestaurantOperatingSystem]] - restaurant software fieldwork case added by How I Built This.

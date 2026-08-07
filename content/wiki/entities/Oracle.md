@@ -2,11 +2,13 @@
 title: "Oracle"
 type: entity
 tags: [company, cloud, infrastructure, ai]
-sources: [tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, 170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
+sources: [toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, 170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
 last_updated: 2026-08-07
 ---
 
 # Oracle
+
+[[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]] adds Oracle as the acquisition context behind the [[Toast]] founding team. [[AmanNarang]], [[SteveFredette]], and [[JohnGraham]] had worked at [[Endeca]], and Oracle's acquisition of Endeca gave the team enough financial room to explore local-commerce and restaurant software ideas before Toast's [[FounderIdeaPivot]].
 
 [[tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128]] adds Oracle to the sector-wide bond-market version of [[DataCenterDebtRisk]]. The episode groups Oracle with [[Amazon]], [[Alphabet]], and [[Meta]] as technology companies issuing corporate bonds for AI infrastructure, making the existing Oracle debt-risk branch less exceptional and more part of a broader question about how much AI data-center debt public markets can absorb.
 
@@ -35,3 +37,4 @@ In the wiki, Oracle's main relevance from this source is not a company-specific 
 - [[USTikTok|U.S. TikTok]], [[TikTok]], [[MGX]], [[SilverLake]], and [[PlatformOwnershipTransition]] — U.S. TikTok ownership and outage branch added by Marketplace Tech.
 - [[LarryEllison]], [[EnterpriseDatabaseLockIn]], [[StargateAIInfrastructure]], and [[PoliticalRegulatoryLeverage]] - origin, lock-in, and political-infrastructure branch added by 商业就是这样.
 - [[BubbleFinancingStructure]], [[AIInfrastructureDebtFinancing]], and [[PrivateCreditTailRisk]] - episode 143's debt-financing warning around AI infrastructure.
+- [[Endeca]], [[AmanNarang]], [[SteveFredette]], [[JohnGraham]], and [[Toast]] - acquisition-to-founder-team branch added by How I Built This.

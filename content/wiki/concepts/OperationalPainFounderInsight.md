@@ -2,11 +2,13 @@
 title: "Operational Pain Founder Insight"
 type: concept
 tags: [startups, founder-fit, validation, operations]
-sources: [tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarsseason2-dimitri-final, socialradarss2-stripe-v2]
-last_updated: 2026-07-23
+sources: [toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarsseason2-dimitri-final, socialradarss2-stripe-v2]
+last_updated: 2026-08-07
 ---
 
 # Operational Pain Founder Insight
+
+[[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]] adds a consumer-pain-to-operations version through [[Toast]]. The original problem was the diner pain of waiting for the check at [[FirebrandSaints]], but the valuable company insight came only after the founders saw how hard it was to connect reliably to restaurant POS systems and how much operational software restaurants actually needed.
 
 Operational pain founder insight is the startup pattern where founders discover a company opportunity by repeatedly suffering through an unglamorous workflow before productizing it. In [[socialradarsseason2-dimitri-final]], [[DimitriDadiomov]] describes [[ModernTreasury]] as coming from the payment, bank-statement, and reconciliation pain he saw at [[LendingHome]], then validating the same pain in other companies.
 
@@ -47,3 +49,4 @@ The episode uses the language of "rage-founding" and invokes [[PaulGraham]]'s "s
 - [[EddyLu]], [[Daishen]], [[GOAT]], [[AuthenticationLedMarketplaceTrust]], and [[MarketplaceFrictionReduction]] - sneaker-authentication pain case added by the Eddy Lu episode.
 - [[RyanPetersen]], [[Flexport]], [[GlobalLogisticsCoordination]], and [[LogisticsWorkflowAutomation]] - freight and customs pain case added by the Ryan Petersen episode.
 - [[Gusto]], [[EddieKim]], [[JoshReeves]], [[TomerLondon]], and [[PayrollInfrastructureTrust]] - payroll pain case added by the Gusto episode.
+- [[Toast]], [[FirebrandSaints]], [[FinaleDesserts]], and [[RestaurantOperatingSystem]] - restaurant operations case added by How I Built This.
