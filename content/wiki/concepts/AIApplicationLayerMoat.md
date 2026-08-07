@@ -2,13 +2,15 @@
 title: "AI Application Layer Moat"
 type: concept
 tags: [ai, product, strategy]
-sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
-last_updated: 2026-08-07
+sources: [duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1, 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
+last_updated: 2026-08-08
 ---
 
 # AI Application Layer Moat
 
 [[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] adds the trough version. [[QuKai]] says the 2026 market is unusually cold toward applications because models look stronger and many application teams have not shown enough revenue, but he still rejects the conclusion that applications are dead. The episode reframes the moat question as a move from "hammer" to "nail": model knowledge is useful, but defensibility comes from understanding the user problem, scene, willingness to pay, and survival path better than model providers or copycat teams.
+
+[[duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1]] adds the [[Evoken]] founder-operator version through [[ChenMian]]. He argues that [[Liblib]] and [[LibTV]] cannot be defended only by interface originality or current model access; the hoped-for moat has to come from high-value creative workflows, user scale, timing, product execution, and eventually user-created network effects.
 
 [[ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]] adds the [[WAIC]] small-application-booth version. The hosts argue that many AI applications are easy to display and easy to copy because the same AI that helped build them can help competitors reproduce the surface feature. The moat therefore has to come from industry know-how, data accumulation, customer understanding, workflow integration, and cost discipline, not from the fact that a feature uses AI.
 
@@ -39,6 +41,7 @@ The concept is built from the contrast among [[Sora]], [[Adobe]], and [[Meitu]].
 - Scene specificity can be a moat when the product optimizes around a repeated task, known input/output shape, and user review standard that a generic chatbot does not own.
 - During an [[AIApplicationMarketTrough]], the moat has to become visible through user value, payment, and accumulated scenario knowledge rather than through model or agent labels.
 - At an AI exhibition, a visible app is only weak moat evidence unless it shows a real customer, repeated workflow, proprietary context, or cost advantage.
+- Application speed can buy survival time, but it becomes moat only if the company turns scale and workflow use into value that model providers and copycats do not immediately absorb.
 
 ## Connections
 - [[AIApplicationMarketTrough]], [[QuKai]], [[Anbi]], and [[MoZihao]] — 2026 application-trough and founder-discipline branch added by 42章经.
@@ -51,3 +54,4 @@ The concept is built from the contrast among [[Sora]], [[Adobe]], and [[Meitu]].
 - [[SoftwareCreationBarbell]], [[SoftwareAsCulturalWork]], and [[MakerCommunity]] — later Albert source on model-company capture versus long-tail maker value.
 - [[ScenarioSpecificAI]], [[ZhangQi|张奇]], [[Cursor]], and [[Perplexity]] — vol.114's scene-first application-layer argument.
 - [[WAIC]], [[AIDemoDeploymentGap]], [[AIStartupUnitEconomics]], and [[SpeechToTextCostOptimization]] — exhibition and cost-discipline branch added by Keji Luandun.
+- [[Evoken]], [[Liblib]], [[LibTV]], [[ChenMian]], and [[AIApplicationSurvivalStrategy]] — creative-application survival and moat-building branch added by LateTalk.

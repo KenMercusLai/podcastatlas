@@ -2,8 +2,8 @@
 title: "Seedance"
 type: entity
 tags: [ai, video, model, bytedance]
-sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
-last_updated: 2026-08-05
+sources: [duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
+last_updated: 2026-08-08
 ---
 
 # Seedance
@@ -20,6 +20,8 @@ Seedance is the [[ByteDance]] video-model product referenced in the wiki's AI-vi
 
 [[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] adds a director-side usage case. [[Chouxiangzai]] treats C-DANCE 2.0 as the point where clients and creators began to see stronger AI-video realism, better multi-reference handling, and unexpected details that can reduce the need for low-level "draw-card" labor inside [[AIDirectorCoreWorkflow]].
 
+[[duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1]] adds a downstream pricing controversy through [[LibTV]]. [[ChenMian]] denies that Lib TV's low price should be read as a simple discount to the Seedance API price, arguing that subscription credit consumption, renewal, and LTV determine the product economics.
+
 ## Key Points
 - Seedance is used as evidence that AI video is crossing from prototype output toward production-like media.
 - The model is discussed through examples such as flower-display videos, AI short dramas, advertisements, and film-like shots.
@@ -29,6 +31,7 @@ Seedance is the [[ByteDance]] video-model product referenced in the wiki's AI-vi
 - Episode 266 adds the AI short-drama usage loop: creator "draws," platform feedback, and production demand can become model-improvement signals.
 - Episode 267 adds the low-budget AI short-drama case where improved video generation made a 19-day production cycle plausible, while editing still remained the bottleneck.
 - The What's Next source adds that C-DANCE 2.0-style multi-reference generation can shift labor away from raw image selection and toward director intent, assets, storyboards, and performance judgment.
+- The LateTalk source adds Seedance as an upstream API reference point in [[LibTV]] pricing debates, not as the full explanation for the application business.
 
 ## Connections
 - [[ByteDance]] — company context.
@@ -40,3 +43,4 @@ Seedance is the [[ByteDance]] video-model product referenced in the wiki's AI-vi
 - [[AIShortDrama]], [[AIVideoProductionWorkflow]], and [[ShortDramaEconomics]] — short-drama production context added by episode 266.
 - [[AnhuiXiaoMujiang]] and [[XiaoGuoGege]] — episode 267 production case.
 - [[Chouxiangzai]], [[Taitai]], [[AIDirectorCoreWorkflow]], and [[AIShortDramaOverseasLocalization]] — director-core and overseas short-drama branch added by What's Next.
+- [[LibTV]], [[Evoken]], [[AIStartupUnitEconomics]], and [[AISubscriptionEconomics]] — downstream application-pricing branch added by LateTalk.

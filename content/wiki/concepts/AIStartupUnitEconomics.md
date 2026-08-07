@@ -2,8 +2,8 @@
 title: "AI Startup Unit Economics"
 type: concept
 tags: [ai, startups, economics]
-sources: [kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f, zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
-last_updated: 2026-08-07
+sources: [duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1, kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f, zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
+last_updated: 2026-08-08
 ---
 
 # AI Startup Unit Economics
@@ -11,6 +11,8 @@ last_updated: 2026-08-07
 AI startup unit economics is [[Simon]]'s core frame in [[ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx]]: an AI product should be judged by whether its cost of satisfying demand can be covered by user payment, market size, and realistic funding or cash-flow timing. The episode applies this to [[MicoAILab]]'s decision to prefer AI game/social directions over pure [[CharacterAI]]-style companion chat.
 
 The concept extends [[AIInferenceCostStructure]] from a general infrastructure issue into a founder-operating checklist. An AI product can have clear user demand and still be a poor business if deeper usage requires longer prompts, more memory retrieval, more GPU time, and a user segment that will not pay enough.
+
+[[duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1]] adds the [[Evoken]] and [[LibTV]] version. [[ChenMian]] argues that an early AI application company can deliberately keep gross margin low but positive if the priority is user scale, while [[LibTV]] pricing depends on actual credit consumption, renewal, LTV, and abuse risk rather than the visible price of an upstream model API such as [[Seedance]].
 
 [[yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f]] adds [[Mengqi]]'s simpler commercial split: one AI product model serves a small number of high-ARPU users with heavy token consumption, while another looks like a subscription or "gym" business where many users pay but do not fully consume the expensive resource. The episode also warns that [[OnePersonCompany]] enthusiasm does not create a market if the target founders have little revenue and weak willingness to pay.
 
@@ -36,6 +38,7 @@ The concept extends [[AIInferenceCostStructure]] from a general infrastructure i
 - Founder-led small teams can stretch capital further when AI reduces operating layers, but revenue quality and customer value still decide whether the business works.
 - Real-time video products need per-minute economics because longer engagement also means longer GPU-backed generation.
 - A small AI application needs a customer and cost model before its demo matters; lower inference cost can change viability only when the user already values the workflow.
+- Low positive margin can be a deliberate survival tactic for an AI application company, but only if usage, renewal, and abuse assumptions are modeled honestly.
 
 ## Connections
 - [[AIInferenceCostStructure]] — underlying cost mechanics.
@@ -52,3 +55,4 @@ The concept extends [[AIInferenceCostStructure]] from a general infrastructure i
 - [[GarryTan]], [[YCombinator]], [[FounderMode]], and [[AIOrganizationDesign]] - YC offsite case where AI economics, small teams, and founder operating style connect.
 - [[ViduS1]], [[RealTimeInteractiveVideoGeneration]], [[AIInferenceCostStructure]], and [[InferenceAccelerationStack]] — live-video product economics added by the Shizilukou Crossing source.
 - [[WAIC]], [[AIDemoDeploymentGap]], [[SpeechToTextCostOptimization]], and [[AIApplicationLayerMoat]] — application-booth and transcription-cost discipline added by Keji Luandun.
+- [[Evoken]], [[ChenMian]], [[LibTV]], [[AISubscriptionEconomics]], and [[AIApplicationSurvivalStrategy]] — application-company pricing and runway case added by LateTalk.

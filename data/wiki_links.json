@@ -1259,6 +1259,10 @@
     "title": "AI Application Market Trough",
     "url": "/wiki/concepts/aiapplicationmarkettrough/"
   },
+  "AIApplicationSurvivalStrategy": {
+    "title": "AI Application Survival Strategy",
+    "url": "/wiki/concepts/aiapplicationsurvivalstrategy/"
+  },
   "AIAsBusinessOperator": {
     "title": "AI As Business Operator",
     "url": "/wiki/concepts/aiasbusinessoperator/"
@@ -6943,6 +6947,10 @@
     "title": "陈凯歌 / Chen Kaige",
     "url": "/wiki/entities/chenkaige/"
   },
+  "ChenMian": {
+    "title": "Chen Mian / 陈冕",
+    "url": "/wiki/entities/chenmian/"
+  },
   "ChenQiaoMutiny": {
     "title": "陈桥兵变 / Chenqiao Mutiny",
     "url": "/wiki/entities/chenqiaomutiny/"
@@ -11930,6 +11938,10 @@
   "EvilAsResponsibilityFailure": {
     "title": "Evil As Responsibility Failure",
     "url": "/wiki/concepts/evilasresponsibilityfailure/"
+  },
+  "Evoken": {
+    "title": "Evoken / 言语科技",
+    "url": "/wiki/entities/evoken/"
   },
   "EvolutionaryTraitInterpretation": {
     "title": "Evolutionary Trait Interpretation",
@@ -19927,6 +19939,10 @@
     "title": "劳丽·加勒特 / Laurie Garrett",
     "url": "/wiki/entities/lauriegarrett/"
   },
+  "Lavod": {
+    "title": "Lavod",
+    "url": "/wiki/entities/lavod/"
+  },
   "LawEnforcementCultureAccountability": {
     "title": "Law Enforcement Culture Accountability",
     "url": "/wiki/concepts/lawenforcementcultureaccountability/"
@@ -20371,6 +20387,10 @@
     "title": "LibLib",
     "url": "/wiki/entities/liblib/"
   },
+  "LibTV": {
+    "title": "Lib TV",
+    "url": "/wiki/entities/libtv/"
+  },
   "LiberalDemocraticPartyJapan": {
     "title": "Liberal Democratic Party (Japan)",
     "url": "/wiki/entities/liberaldemocraticpartyjapan/"
@@ -20386,6 +20406,10 @@
   "LibetExperimentInterpretation": {
     "title": "Libet Experiment Interpretation / 利比特实验解释",
     "url": "/wiki/concepts/libetexperimentinterpretation/"
+  },
+  "Liblib": {
+    "title": "Liblib",
+    "url": "/wiki/entities/liblib/"
   },
   "LibraryOfCongress": {
     "title": "Library of Congress",
@@ -38378,6 +38402,10 @@
   "dont-hate-the-replicator-hate-the-game": {
     "title": "Don't hate the replicator, hate the game",
     "url": "/wiki/sources/dont-hate-the-replicator-hate-the-game/"
+  },
+  "duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1": {
+    "title": "175: 对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻",
+    "url": "/wiki/sources/duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1/"
   },
   "duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe": {
     "title": "对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局",

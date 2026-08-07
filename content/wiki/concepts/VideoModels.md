@@ -2,13 +2,15 @@
 title: "Video Models"
 type: concept
 tags: [video, generative-ai, content]
-sources: [kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
-last_updated: 2026-08-07
+sources: [duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1, kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
+last_updated: 2026-08-08
 ---
 
 # Video Models
 
 Video models are discussed as an investment and content-production theme. The host argues that improvements in AI video generation could let ordinary people express creative ideas more easily, enable new narrative formats, and produce a content-side productivity revolution.
+
+[[duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1]] adds the downstream product-strategy layer through [[LibTV]]. In this source, the important question is not only whether video models improve, but whether a creative application can price generated video, package the workflow, survive API-cost comparisons, and build enough user value before model providers or copycats compress the category.
 
 [[kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13]] adds [[ViduS1]] as a real-time branch of the category. [[ZhangJintao]] distinguishes offline clip generation from [[StreamingVideoGeneration]]: the model must generate frames faster than playback, preserve long-session consistency, and respond to live user input through [[RealTimeInteractiveVideoGeneration]].
 
@@ -51,6 +53,7 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - The Marketplace Tech world-model episode adds that video prediction can remain a pixel-sequence method unless it learns stable physical structure and causal state.
 - The Vidu S1 source adds that video-model quality is not the only product metric; frame rate, latency, long-session coherence, video understanding, and per-minute serving cost matter when generated video becomes interactive.
 - The same source gives a China-video-model explanation based on visual-entertainment data quantity, data quality, preference alignment, and short-video/livestream-commerce ecosystems.
+- The LateTalk Lib TV source adds that video-model applications are judged by subscription economics, launch timing, workflow packaging, and margin assumptions, not only by model output quality.
 
 ## Connections
 - [[WorldModels]] — adjacent model direction for richer scene and environment representation.
@@ -67,3 +70,4 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - [[LuChuan]], [[IndustrialGradeFilmModels]], [[LiveActionFilmUnderAI]], and [[CreativeLaborAIBacklash]] — film-production and industry-backlash branch added by E234.
 - [[Chouxiangzai]], [[Taitai]], [[Seedance]], and [[AIDirectorCoreWorkflow]] — director-side model-comparison branch added by What's Next.
 - [[Vidu]], [[ViduS1]], [[StreamingVideoGeneration]], [[RealTimeInteractiveVideoGeneration]], and [[InferenceAccelerationStack]] — real-time interactive branch added by the Shizilukou Crossing source.
+- [[LibTV]], [[Evoken]], [[Seedance]], [[AISubscriptionEconomics]], and [[AIApplicationSurvivalStrategy]] — downstream video-creation application and pricing branch added by LateTalk.

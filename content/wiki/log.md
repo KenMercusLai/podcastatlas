@@ -7117,3 +7117,11 @@ Added source page for a 商业就是这样 episode on Rolls-Royce's aircraft-eng
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] ingest | 175: 对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻
+
+Added source page for a LateTalk episode with Chen Mian of Evoken on Liblib, Lavod, Lib TV, AI application survival, low-margin pricing, model-provider pressure, cash-flow claims, public controversy, and organization repair. Created pages for Chen Mian, Evoken, Liblib, Lavod, Lib TV, and AI Application Survival Strategy; updated overview, index, LateTalk, AI Startup Unit Economics, AI Subscription Economics, AI Application Layer Moat, AI Application Market Trough, Model Provider Tool Competition, AI Commercialization Pressure, AI Organization Design, Seedance, and Video Models. No direct contradiction found; the source qualifies the "models eat applications" thesis by arguing that applications still have room if they survive long enough to build cash flow, user scale, workflow value, and organizational capacity.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
