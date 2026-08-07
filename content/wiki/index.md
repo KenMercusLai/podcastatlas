@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Sand heists and property rights in the Caribbean (Summer School)](sources/sand-heists-and-property-rights-in-the-caribbean-summer-school.md) — Planet Money Summer School episode on Caribbean small-economy vulnerability, Barbuda communal land rights, property-title reform after Hurricane Irma, Jamaica's stolen beach, sand scarcity, tourism externalities, and free-trade lessons.
 - [E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”](sources/e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668.md) — 硅谷101 episode with Sheng Ying on SGLang, xAI inference work, Redix ARK, AI infrastructure as product, Radix Attention, LM-SYS, open source, and AI democratization.
 - [176.纽约一年：一个悲观主义者的活法｜725沙龙实录](sources/176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah.md) — 起朱楼宴宾客 live 725沙龙 episode with David Weng and Ouyang Bin on New York as a salad-like city, U.S./Japan/China time sense, globalization split, overseas Chinese opportunity, content creation, AI entry-level pressure, and uncertainty-era asset/life optionality.
 - [In arms’ way: Gaza-deal sticking points](sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74.md) — The Intelligence episode on Gaza deal sequencing, verification, technocratic governance, America's full-time self-employment boom, AI-enabled founders, and radio's resilience across Africa.
@@ -908,6 +909,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Barbuda](entities/Barbuda.md) — Caribbean island case where communal land tenure, Hurricane Irma recovery, title conversion, and development control collide.
+- [Antigua and Barbuda](entities/AntiguaAndBarbuda.md) — State context for Barbuda's post-Irma land-title dispute and small-island development pressure.
+- [Jamaica](entities/Jamaica.md) — Caribbean country case for Damian King's policy framing and the stolen-beach sand-scarcity story.
+- [Caribbean](entities/Caribbean.md) — Regional frame for small open economies exposed to hurricanes, oil prices, debt, tourism, and enforcement limits.
+- [Damian King](entities/DamianKing.md) — Caribbean Policy Research Institute economist explaining vulnerability, property rights, sand externalities, and free trade.
+- [Caribbean Policy Research Institute](entities/CaribbeanPolicyResearchInstitute.md) — Jamaica-based policy institution anchoring the episode's Caribbean economics analysis.
+- [Gaston Browne](entities/GastonBrowne.md) — Antigua and Barbuda prime minister whose post-Irma title proposal frames the Barbuda property-rights conflict.
+- [John Mussington](entities/JohnMussington.md) — Barbudan speaker defending collective land value, food security, and development control.
+- [Natalia John](entities/NataliaJohn.md) — Barbudan speaker supporting development while insisting Barbudans retain approval authority.
+- [Albert "Patty" Simon](entities/AlbertPattySimon.md) — Barbudan historical voice explaining the colonial and post-abolition roots of communal land tenure.
+- [Michael Hilton](entities/MichaelHilton.md) — Jamaican lawyer who investigated the 2008 stolen-beach case and its resort-sand evidence problem.
+- [Pascal Peduzzi](entities/PascalPeduzzi.md) — United Nations environmental official connecting Jamaica's stolen beach to global sand scarcity.
+- [Karen Duffin](entities/KarenDuffin.md) — Planet Money host named in the original 2018 stolen-sand story.
+- [Hurricane Irma](entities/HurricaneIrma.md) — 2017 disaster that made Barbuda's land-tenure conflict urgent.
 - [盛颖 / Sheng Ying](entities/ShengYing.md) — Redix ARK co-founder and SGLang researcher connecting formal verification, xAI inference work, open source, and AI infrastructure as product.
 - [SGLang](entities/SGLang.md) — Open-source production inference engine tied to Sheng Ying, LM-SYS, xAI infrastructure work, Radix Attention, and Redix ARK.
 - [LM-SYS](entities/LMSYS.md) — Open AI research/community institution linked to Sheng Ying, Lian Min, SGLang, LM Arena, and democratized access to AI projects.
@@ -6195,6 +6210,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Small Open Economy Vulnerability](concepts/SmallOpenEconomyVulnerability.md) — Caribbean frame where hurricanes, oil prices, debt, rates, and tourism exposure shape investment and state capacity.
+- [Communal Land Tenure](concepts/CommunalLandTenure.md) — Barbuda land institution where collective use and control operate as property rather than no-property.
+- [Barbuda Land Act](concepts/BarbudaLandAct.md) — 2007 law formalizing Barbuda's communal land ownership before later title-conversion conflict.
+- [Disaster Recovery Privatization](concepts/DisasterRecoveryPrivatization.md) — Pattern where rebuilding after disaster becomes a policy window for changing ownership and development rights.
+- [Property Rights As Investment Incentive](concepts/PropertyRightsAsInvestmentIncentive.md) — Institutional claim that secure claims encourage investment, qualified by bank access and community-control limits.
+- [Path Dependence](concepts/PathDependence.md) — Institution-shaping effect of historical starting points, made concrete through Barbuda's land history.
+- [Sand Scarcity](concepts/SandScarcity.md) — Resource-economics case where sand is valuable, finite, hard to monitor, and demanded by tourism, construction, and reclamation.
+- [Illegal Sand Mining](concepts/IllegalSandMining.md) — Extraction of sand outside lawful permission, illustrated by Jamaica's stolen beach and global enforcement problems.
+- [Sand Theft Externality](concepts/SandTheftExternality.md) — Hidden public cost when private sand use damages beaches, ecosystems, enforcement budgets, and community value.
+- [Tourism Resource Protection Funding](concepts/TourismResourceProtectionFunding.md) — Tourist or resort fee logic for funding protection of the environmental assets tourism consumes.
+- [Small-State Enforcement Capacity](concepts/SmallStateEnforcementCapacity.md) — Capacity problem of monitoring, proving, and prosecuting resource harms across large public-access spaces.
 - [AI Infrastructure As Product](concepts/AIInfrastructureAsProduct.md) — Sheng Ying's infra-first frame where serving engines, RL rollout, sandboxes, and tools are product surfaces, not only support layers.
 - [Radix Attention](concepts/RadixAttention.md) — SGLang prefix-reuse mechanism using a radix tree to reuse KV cache across shared dialogue and agent contexts.
 - [Day-Zero Model Support](concepts/DayZeroModelSupport.md) — Inference-infrastructure requirement that new model architectures be usable on launch day.

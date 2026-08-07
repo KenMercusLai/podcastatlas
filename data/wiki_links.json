@@ -2951,6 +2951,10 @@
     "title": "Albert Einstein / 阿尔伯特·爱因斯坦",
     "url": "/wiki/entities/alberteinstein/"
   },
+  "AlbertPattySimon": {
+    "title": "Albert \\\"Patty\\\" Simon",
+    "url": "/wiki/entities/albertpattysimon/"
+  },
   "AlbertPope": {
     "title": "Albert Pope / 阿尔伯特·波普",
     "url": "/wiki/entities/albertpope/"
@@ -3862,6 +3866,10 @@
   "Antifragility": {
     "title": "Antifragility",
     "url": "/wiki/concepts/antifragility/"
+  },
+  "AntiguaAndBarbuda": {
+    "title": "Antigua and Barbuda",
+    "url": "/wiki/entities/antiguaandbarbuda/"
   },
   "AntiheroMisreading": {
     "title": "Antihero Misreading",
@@ -4846,6 +4854,14 @@
   "BarbellStrategy": {
     "title": "Barbell Strategy",
     "url": "/wiki/concepts/barbellstrategy/"
+  },
+  "Barbuda": {
+    "title": "Barbuda",
+    "url": "/wiki/entities/barbuda/"
+  },
+  "BarbudaLandAct": {
+    "title": "Barbuda Land Act",
+    "url": "/wiki/concepts/barbudalandact/"
   },
   "Barcelos": {
     "title": "Barcelos",
@@ -6582,6 +6598,14 @@
   "CareerShoreMyth": {
     "title": "Career Shore Myth",
     "url": "/wiki/concepts/careershoremyth/"
+  },
+  "Caribbean": {
+    "title": "Caribbean",
+    "url": "/wiki/entities/caribbean/"
+  },
+  "CaribbeanPolicyResearchInstitute": {
+    "title": "Caribbean Policy Research Institute",
+    "url": "/wiki/entities/caribbeanpolicyresearchinstitute/"
   },
   "CarlJung": {
     "title": "Carl Jung / 荣格",
@@ -8359,6 +8383,10 @@
     "title": "Common Sense Media",
     "url": "/wiki/entities/commonsensemedia/"
   },
+  "CommunalLandTenure": {
+    "title": "Communal Land Tenure",
+    "url": "/wiki/concepts/communallandtenure/"
+  },
   "CommunicationAccessAndMisrecognition": {
     "title": "Communication Access And Misrecognition",
     "url": "/wiki/concepts/communicationaccessandmisrecognition/"
@@ -9491,6 +9519,10 @@
     "title": "Damai",
     "url": "/wiki/entities/damai/"
   },
+  "DamianKing": {
+    "title": "Damian King",
+    "url": "/wiki/entities/damianking/"
+  },
   "DanAckerman": {
     "title": "Dan Ackerman",
     "url": "/wiki/entities/danackerman/"
@@ -10498,6 +10530,10 @@
   "DisasterCleanupSacrificeAndFutility": {
     "title": "Disaster Cleanup Sacrifice And Futility",
     "url": "/wiki/concepts/disastercleanupsacrificeandfutility/"
+  },
+  "DisasterRecoveryPrivatization": {
+    "title": "Disaster Recovery Privatization",
+    "url": "/wiki/concepts/disasterrecoveryprivatization/"
   },
   "DisasterReliefMismatch": {
     "title": "Disaster Relief Mismatch",
@@ -14391,6 +14427,10 @@
     "title": "Gary Stark",
     "url": "/wiki/entities/garystark/"
   },
+  "GastonBrowne": {
+    "title": "Gaston Browne",
+    "url": "/wiki/entities/gastonbrowne/"
+  },
   "GauravSukhatme": {
     "title": "Gaurav Sukhatme",
     "url": "/wiki/entities/gauravsukhatme/"
@@ -16911,6 +16951,10 @@
     "title": "虎扑 / Hupu",
     "url": "/wiki/entities/hupu/"
   },
+  "HurricaneIrma": {
+    "title": "Hurricane Irma",
+    "url": "/wiki/entities/hurricaneirma/"
+  },
   "HuzuoHuyou": {
     "title": "忽左忽右 / Huzuo Huyou",
     "url": "/wiki/entities/huzuohuyou/"
@@ -17034,6 +17078,10 @@
   "IgnazSemmelweis": {
     "title": "Ignaz Semmelweis",
     "url": "/wiki/entities/ignazsemmelweis/"
+  },
+  "IllegalSandMining": {
+    "title": "Illegal Sand Mining",
+    "url": "/wiki/concepts/illegalsandmining/"
   },
   "Illinois": {
     "title": "Illinois",
@@ -18079,6 +18127,10 @@
     "title": "Jamaat-e-Islami Bangladesh",
     "url": "/wiki/entities/jamaateislamibangladesh/"
   },
+  "Jamaica": {
+    "title": "Jamaica",
+    "url": "/wiki/entities/jamaica/"
+  },
   "JamesAx": {
     "title": "James Ax",
     "url": "/wiki/entities/jamesax/"
@@ -18947,6 +18999,10 @@
     "title": "John Locke / 约翰·洛克",
     "url": "/wiki/entities/johnlocke/"
   },
+  "JohnMussington": {
+    "title": "John Mussington",
+    "url": "/wiki/entities/johnmussington/"
+  },
   "JohnPhillips": {
     "title": "John Phillips",
     "url": "/wiki/entities/johnphillips/"
@@ -19442,6 +19498,10 @@
   "KaraSwisher": {
     "title": "Kara Swisher",
     "url": "/wiki/entities/karaswisher/"
+  },
+  "KarenDuffin": {
+    "title": "Karen Duffin",
+    "url": "/wiki/entities/karenduffin/"
   },
   "Karhide": {
     "title": "卡海德 / Karhide",
@@ -23115,6 +23175,10 @@
     "title": "Michael Grandner",
     "url": "/wiki/entities/michaelgrandner/"
   },
+  "MichaelHilton": {
+    "title": "Michael Hilton",
+    "url": "/wiki/entities/michaelhilton/"
+  },
   "MichaelKremer": {
     "title": "Michael Kremer",
     "url": "/wiki/entities/michaelkremer/"
@@ -24266,6 +24330,10 @@
   "NatFriedman": {
     "title": "Nat Friedman",
     "url": "/wiki/entities/natfriedman/"
+  },
+  "NataliaJohn": {
+    "title": "Natalia John",
+    "url": "/wiki/entities/nataliajohn/"
   },
   "NataschaWodin": {
     "title": "Natascha Wodin / 纳塔莎·沃丁",
@@ -26187,6 +26255,10 @@
     "title": "Party Guitar",
     "url": "/wiki/entities/partyguitar/"
   },
+  "PascalPeduzzi": {
+    "title": "Pascal Peduzzi",
+    "url": "/wiki/entities/pascalpeduzzi/"
+  },
   "PascalineDupas": {
     "title": "Pascaline Dupas",
     "url": "/wiki/entities/pascalinedupas/"
@@ -26238,6 +26310,10 @@
   "PatentThicket": {
     "title": "Patent Thicket",
     "url": "/wiki/concepts/patentthicket/"
+  },
+  "PathDependence": {
+    "title": "Path Dependence",
+    "url": "/wiki/concepts/pathdependence/"
   },
   "PathJoy": {
     "title": "PathJoy",
@@ -27898,6 +27974,10 @@
   "PropagandaAesthetics": {
     "title": "Propaganda Aesthetics",
     "url": "/wiki/concepts/propagandaaesthetics/"
+  },
+  "PropertyRightsAsInvestmentIncentive": {
+    "title": "Property Rights As Investment Incentive",
+    "url": "/wiki/concepts/propertyrightsasinvestmentincentive/"
   },
   "PropertyRightsCommunityObligations": {
     "title": "Property Rights And Community Obligations",
@@ -30275,6 +30355,14 @@
     "title": "Sanctions Overcompliance",
     "url": "/wiki/concepts/sanctionsovercompliance/"
   },
+  "SandScarcity": {
+    "title": "Sand Scarcity",
+    "url": "/wiki/concepts/sandscarcity/"
+  },
+  "SandTheftExternality": {
+    "title": "Sand Theft Externality",
+    "url": "/wiki/concepts/sandtheftexternality/"
+  },
   "SandorStraus": {
     "title": "Sandor Straus",
     "url": "/wiki/entities/sandorstraus/"
@@ -31699,9 +31787,17 @@
     "title": "Small Nucleic Acid Drugs",
     "url": "/wiki/concepts/smallnucleicaciddrugs/"
   },
+  "SmallOpenEconomyVulnerability": {
+    "title": "Small Open Economy Vulnerability",
+    "url": "/wiki/concepts/smallopeneconomyvulnerability/"
+  },
   "SmallOrderQuickResponse": {
     "title": "Small-Order Quick Response / 小单快反",
     "url": "/wiki/concepts/smallorderquickresponse/"
+  },
+  "SmallStateEnforcementCapacity": {
+    "title": "Small-State Enforcement Capacity",
+    "url": "/wiki/concepts/smallstateenforcementcapacity/"
   },
   "SmallTownExamTakerDiscipline": {
     "title": "小镇做题家规训 / Small-Town Exam-Taker Discipline",
@@ -34738,6 +34834,10 @@
   "TourismDependentSmallEconomy": {
     "title": "Tourism-Dependent Small Economy",
     "url": "/wiki/concepts/tourismdependentsmalleconomy/"
+  },
+  "TourismResourceProtectionFunding": {
+    "title": "Tourism Resource Protection Funding",
+    "url": "/wiki/concepts/tourismresourceprotectionfunding/"
   },
   "TourismTrafficMismatch": {
     "title": "Tourism Traffic Mismatch",
@@ -40114,6 +40214,10 @@
   "ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0": {
     "title": "如何「兜住」一颗火箭？｜ S10E21",
     "url": "/wiki/sources/ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0/"
+  },
+  "sand-heists-and-property-rights-in-the-caribbean-summer-school": {
+    "title": "Sand heists and property rights in the Caribbean (Summer School)",
+    "url": "/wiki/sources/sand-heists-and-property-rights-in-the-caribbean-summer-school/"
   },
   "sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156": {
     "title": "三联串台｜神赐给人葡萄，世界微醺了",

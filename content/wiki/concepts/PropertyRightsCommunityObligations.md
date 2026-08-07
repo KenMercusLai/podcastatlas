@@ -2,8 +2,8 @@
 title: "Property Rights And Community Obligations"
 type: concept
 tags: [property-rights, local-government, policy]
-sources: [its-my-tree-why-cant-i-cut-it-down]
-last_updated: 2026-07-15
+sources: [its-my-tree-why-cant-i-cut-it-down, sand-heists-and-property-rights-in-the-caribbean-summer-school]
+last_updated: 2026-08-08
 ---
 
 # Property Rights And Community Obligations
@@ -12,12 +12,15 @@ Property rights and community obligations is the tension between an owner's cont
 
 The source does not resolve the tension by treating either side as absolute. [[SarahBond]]'s case foregrounds safety, liability, and the meaning of ownership when a city denies removal of a tree leaning toward a house. [[CantonMichigan]] foregrounds the municipal side: development and clear-cutting can remove public environmental benefits that no individual buyer fully prices.
 
+[[sand-heists-and-property-rights-in-the-caribbean-summer-school]] adds a communal-land version through [[Barbuda]]. Here the tension is not a homeowner versus city tree rule, but [[CommunalLandTenure]] versus national title conversion after [[HurricaneIrma]]. Barbudan speakers argue that land also carries food security, clean air, development approval, and collective future value, while [[GastonBrowne]] argues that private title could unlock rebuilding finance.
+
 ## Key Claims
 - Ownership usually includes control, but local land-use rules can treat some private decisions as public-impact decisions.
 - Community obligations become more legitimate when the public benefit is concrete and the burden is measured.
 - Property-rights claims become stronger when regulation creates private risk, delay, or cost without individualized justification.
 - [[TreeProtectionOrdinances]] show that environmental protection often becomes a question of burden allocation.
 - [[PermitProportionality]] is one legal mechanism for keeping community obligations from becoming arbitrary private costs.
+- In the Barbuda case, community obligation runs through collective ownership: the policy question is who can authorize development and capture the island's residual value.
 
 ## Connections
 - [[SarahBond]] and [[PortlandOregon]] - personal safety and ownership case.
@@ -25,3 +28,4 @@ The source does not resolve the tension by treating either side as absolute. [[S
 - [[TreeProtectionOrdinances]] and [[UrbanCanopyExternalities]] - policy and ecological basis for the conflict.
 - [[RegulatoryTakings]] and [[PermitProportionality]] - legal limits on how obligations are imposed.
 - [[EnvironmentalTradeoffAccounting]] - broader cost-location frame.
+- [[Barbuda]], [[CommunalLandTenure]], [[BarbudaLandAct]], [[PropertyRightsAsInvestmentIncentive]], and [[DisasterRecoveryPrivatization]] - communal-land extension.

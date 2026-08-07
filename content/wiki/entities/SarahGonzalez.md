@@ -2,8 +2,8 @@
 title: "Sarah Gonzalez"
 type: entity
 tags: [person, journalist, podcast-host]
-sources: [the-laws-of-the-office-revisited, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, why-the-us-has-no-guaranteed-paid-vacation]
-last_updated: 2026-07-24
+sources: [the-laws-of-the-office-revisited, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, why-the-us-has-no-guaranteed-paid-vacation, sand-heists-and-property-rights-in-the-caribbean-summer-school]
+last_updated: 2026-08-08
 ---
 
 # Sarah Gonzalez
@@ -18,6 +18,8 @@ Her role in the wiki is source framing rather than expert testimony. The episode
 
 [[why-the-us-has-no-guaranteed-paid-vacation]] adds Gonzalez as a personal workplace-guilt case. She says she once lost 200 unused vacation hours after maternity leave because taking more time off felt wrong, making [[PaidVacationAsLaborRight]] feel less like earned compensation and more like an indulgence.
 
+[[sand-heists-and-property-rights-in-the-caribbean-summer-school]] adds Gonzalez through the original 2018 [[PlanetMoney]] stolen-sand story, hosted with [[KarenDuffin]]. Her role is reporting context for the [[Jamaica]] beach-theft segment that later becomes a Summer School lesson on [[SandScarcity]], [[IllegalSandMining]], and [[SandTheftExternality]].
+
 ## Connections
 - [[PlanetMoney]] and [[NPR]] - show and network context.
 - [[GoodhartsLaw]], [[ParkinsonsLaw]], [[PeterPrinciple]], and [[TruthfulSocialProof]] - office-law branch added by the new episode.
@@ -26,3 +28,4 @@ Her role in the wiki is source framing rather than expert testimony. The episode
 - [[DietarySupplementRegulation]] - regulatory frame the episode builds toward.
 - [[DailyHarvest]], [[TaraFlour]], and [[SecretGRAS]] - food-additive case added by the later source.
 - [[PaidVacationAsLaborRight]] and [[EmployerBargainedBenefits]] - vacation-policy branch added by the later Planet Money episode.
+- [[KarenDuffin]], [[Jamaica]], [[MichaelHilton]], [[SandScarcity]], and [[SandTheftExternality]] - stolen-sand branch added by the Summer School source.

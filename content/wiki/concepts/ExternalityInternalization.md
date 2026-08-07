@@ -2,8 +2,8 @@
 title: "Externality Internalization"
 type: concept
 tags: [economics, markets, policy]
-sources: [jiufan-zhongting-mifeng-jingjixue-956460448, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down]
-last_updated: 2026-07-15
+sources: [jiufan-zhongting-mifeng-jingjixue-956460448, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down, sand-heists-and-property-rights-in-the-caribbean-summer-school]
+last_updated: 2026-08-08
 ---
 
 # Externality Internalization
@@ -16,6 +16,8 @@ The source's strongest point is that internalization does not have to come from 
 
 [[its-my-tree-why-cant-i-cut-it-down]] adds the urban-canopy version. [[TreeProtectionOrdinances]] and replacement fees try to internalize [[UrbanCanopyExternalities]] by making tree removal account for shade, cooling, stormwater absorption, and neighborhood character. The episode's [[CantonMichigan]] case shows the limit: a fee can be an internalization tool and still be legally defective if it lacks [[PermitProportionality]].
 
+[[sand-heists-and-property-rights-in-the-caribbean-summer-school]] adds a beach and tourism version through [[SandTheftExternality]]. If resorts, developers, and tourists benefit from white-sand beaches while a community pays the erosion, policing, and restoration costs, then sand removal is not fully priced. [[TourismResourceProtectionFunding]] is the proposed internalization route, but [[TourismDependentSmallEconomy]] makes that politically hard when tourism interests are powerful.
+
 ## Key Claims
 - A clean classroom externality can become messier once industry participants are already contracting around the spillover.
 - Markets can internalize some externalities through prices, quantities, location rules, and risk allocation, not only through explicit government correction.
@@ -25,6 +27,7 @@ The source's strongest point is that internalization does not have to come from 
 - Some environmental externalities may remain only partly internalized: the cost can shift to farmers, foreign habitats, future maintenance, or other species even when a policy has a valid conservation goal.
 - Internalizing a public ecological benefit through fees requires measurement; otherwise the policy can shift public costs to an individual owner without enough justification.
 - [[PermitProportionality]] disciplines externality pricing by asking whether the demanded mitigation fits the specific harm.
+- The sand case adds that internalization also depends on enforcement: a tax or fee cannot price hidden extraction if [[SmallStateEnforcementCapacity]] cannot identify origin, buyer, or harm.
 
 ## Connections
 - [[jiufan-zhongting-mifeng-jingjixue-956460448]] — source case.
@@ -36,3 +39,4 @@ The source's strongest point is that internalization does not have to come from 
 - [[EnvironmentalTradeoffAccounting]] - broader policy-accounting extension from the Clarkson farm source.
 - [[UrbanCanopyExternalities]] and [[TreeProtectionOrdinances]] - tree-law extension where public ecological benefits become permit conditions.
 - [[RegulatoryTakings]] and [[PermitProportionality]] - legal limits on how governments price spillovers.
+- [[SandScarcity]], [[IllegalSandMining]], [[SandTheftExternality]], and [[TourismResourceProtectionFunding]] - Caribbean sand and tourism extension.

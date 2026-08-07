@@ -7265,3 +7265,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 10,348 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL`, `ANTHROPIC_API_KEY`, `OPENAI_API_KEY`, and `LITELLM_API_KEY` are unset in the shell. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-08] ingest | Sand heists and property rights in the Caribbean (Summer School)
+
+Added source page for a Planet Money Summer School episode on Caribbean small-economy vulnerability, Barbuda's communal land system and post-Irma title dispute, Jamaica's stolen beach, global sand scarcity, illegal sand mining, tourism externalities, and free-trade lessons. Created pages for Barbuda, Antigua and Barbuda, Jamaica, Caribbean, Damian King, Caribbean Policy Research Institute, Gaston Browne, John Mussington, Natalia John, Albert "Patty" Simon, Michael Hilton, Pascal Peduzzi, Karen Duffin, Hurricane Irma, Small Open Economy Vulnerability, Communal Land Tenure, Barbuda Land Act, Disaster Recovery Privatization, Property Rights As Investment Incentive, Path Dependence, Sand Scarcity, Illegal Sand Mining, Sand Theft Externality, Tourism Resource Protection Funding, and Small-State Enforcement Capacity; updated overview, index, Planet Money, Sarah Gonzalez, Singapore, United Nations, Tourism-Dependent Small Economy, Externality Internalization, Property Rights And Community Obligations, and Tragedy of the Commons. No direct contradiction found; the source qualifies simple property-title optimism by separating collateral access from community control and qualifies externality-pricing optimism by showing that tourism dependence can make beach-protection taxes politically difficult.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
