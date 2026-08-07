@@ -2,8 +2,8 @@
 title: "AI Infrastructure Full-Stack Moat"
 type: concept
 tags: [ai, infrastructure, semiconductors, strategy]
-sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
-last_updated: 2026-08-07
+sources: [148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+last_updated: 2026-08-08
 ---
 # AI Infrastructure Full-Stack Moat
 
@@ -15,6 +15,8 @@ The concept qualifies simpler [[AIChipSpecialization]] stories. A rival chip may
 
 [[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] adds the domestic [[AIAcceleratorSupernode|supernode]] challenge to the moat. The source says [[HuaweiCM384]] can exceed [[NvidiaGB200NVL72|NVL72]] on cited aggregate compute, but true displacement still depends on [[CUDA]] migration, interconnect protocol coherence, software stability, power efficiency, model adaptation, and customers choosing the domestic stack.
 
+[[148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims]] adds an open inference-engine layer to the moat. [[VLLM|vLLM]] can reduce dependence on a single closed serving stack by making model support, scheduling, cache behavior, and hardware adaptation reusable across the open-model ecosystem, while [[Infract]] shows that this layer still needs company-level resources to mature.
+
 ## Key Claims
 - The moat is system-level: chips, networking, memory, software, developer habits, and data-center design reinforce each other.
 - Coding agents can help kernel optimization and chip design, but they do not automatically reproduce hardware know-how or operating history.
@@ -22,6 +24,7 @@ The concept qualifies simpler [[AIChipSpecialization]] stories. A rival chip may
 - Cloud and model-service layers can extend the moat by shaping where and how token workloads are deployed.
 - A challenger full-stack moat must transfer outside the parent company; if only internal teams can use the system well, external market pressure remains narrower.
 - A larger supernode can challenge raw system specs without yet challenging the full-stack moat if software, energy, operations, and customer choice remain weaker.
+- Open-source inference engines can weaken closed-stack dependence, but they become durable only when community governance, maintainer labor, and production resources line up.
 
 ## Connections
 - [[Nvidia]], [[JensenHuang]], [[NvidiaBlackwellPlatform]], and [[NvidiaVeraRubinPlatform]] - central source case.
@@ -29,3 +32,4 @@ The concept qualifies simpler [[AIChipSpecialization]] stories. A rival chip may
 - [[AdvancedPackaging]], [[HighBandwidthMemory]], [[MaaSInfrastructure]], and [[GPUCloudOperations]] - system components beneath the moat.
 - [[XLACompiler]], [[JAX]], [[TPUPodSystemOptimization]], [[Broadcom]], [[CUDA]], and [[ASICWorkloadPredictionRisk]] - E228's Google-versus-Nvidia full-stack comparison.
 - [[AIAcceleratorSupernode]], [[ScaleUpAIInterconnect]], [[ProprietaryAIInterconnectFragmentation]], and [[DomesticAIChipOrderValidation]] - WAIC source's domestic supernode extension.
+- [[VLLM|vLLM]], [[Infract]], [[OpenSourceAIInfrastructure]], and [[ModelInfraCoDesign]] - open inference-engine layer added by episode 148.

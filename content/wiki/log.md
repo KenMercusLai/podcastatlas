@@ -7050,9 +7050,17 @@ Added source page for a LateTalk episode with Yuan Xin of SAP on ERP, AI coding,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-08] ingest | 148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode with Yu Kaichao on vLLM, Infract, open-source inference infrastructure, PagedAttention, model-infra co-design, DeepSeek/Kimi, MoE, prefix caching, test-time scaling, and hardware lottery. Created pages for Yu Kaichao, Infract, vLLM, PyTorch Foundation, PagedAttention, Model-Infra Co-Design, Open Source AI Infrastructure, Continuous Batching, Prefix Caching, Test-Time Scaling, and Hardware Lottery; updated overview, index, 张小珺Jùn｜商业访谈录, DeepSeek, Kimi, PyTorch, Tsinghua University, UC Berkeley, AI Inference Cost Structure, Agent Harness, Mixture of Experts, Open Source AI Models, High-Throughput Inference Batching, Inference Acceleration Stack, AI Chip Specialization, AI Infrastructure Full-Stack Moat, Large Company Open Source Strategy, and Model Harness Co-Evolution. No direct contradiction found; the source strengthens the wiki's open-model and agent-harness branches by showing that inference engines, hardware fit, community governance, and prompt/cache stability now determine whether open AI capability becomes usable production infrastructure.
+
 ## [2026-08-08] ingest | China's soft power play in the global AI arms race
 
 Added source page for a Marketplace Tech episode with Adam Siegel of the Council on Foreign Relations on Chinese open-weight AI models, proprietary U.S. frontier-model competition, soft-power messaging, censorship/data/dependence risks, and the Hugging Face defensive-use example. Created pages for Adam Siegel, Council on Foreign Relations, and Chinese Open-Weight AI Strategy; updated overview, index, Marketplace Tech, Megan McCarty-Corino, China, United States, OpenAI, Anthropic, Microsoft, Hugging Face, Open Source AI Models, Open Weight Release Boundary, AI Model Censorship, Frontier Model Access Restrictions, AI Export Controls, Sovereign AI Models, AI Model Sandbox Escape, AI Cyber-Defense Utility, and AI Governance And Compliance. No direct contradiction found; the source qualifies open-weight enthusiasm by separating local-control advantages from unresolved censorship, provenance, dependence, and export-control concerns.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-08] lint | Wiki health check
 

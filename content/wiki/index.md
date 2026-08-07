@@ -19,6 +19,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to beat the resource curse in Norway (Summer School)](sources/how-to-beat-the-resource-curse-in-norway-summer-school.md) — Planet Money Summer School episode on Norway's oil governance, Farouk Al Qassem, slow extraction, the Norwegian oil fund, social trust, and salmon-sushi market creation in Japan.
 - [143. 「蔚小理」的高端探索](sources/143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1.md) — 疯投圈 episode on Li Auto, XPeng, and NIO's premium-EV positioning, family SUVs, MONA-driven volume, GX high-end push, NIO battery leasing, and battery-swap infrastructure.
 - [An "antacid" to fight climate change](sources/tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128.md) — Marketplace Tech episode on Vesta's olivine ocean-carbon-removal demonstration, ocean alkalinity enhancement, bicarbonate storage, marine-life tradeoffs, and the scale and verification questions around marine carbon removal.
+- [148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”](sources/148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims.md) — 张小珺Jùn｜商业访谈录 episode with Yu Kaichao on vLLM, Infract, PagedAttention, open-source inference infrastructure, model-infra co-design, DeepSeek/Kimi, MoE, prefix caching, and agent harness efficiency.
 - [11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿](sources/11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk.md) — Shizilukou Crossing episode with Wu Kai on Airwallex's global payment network, transaction-banking expansion, AI finance products Kai, Agent OS, T0, ARID, and the intelligent-finance thesis.
 - [所有净值曲线背后都是人，正态分布的普通人](sources/suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq.md) — 面基 episode on fixed-income-plus and multi-asset private-account design, client satisfaction as a distribution, risk budgets, rolling holding-period returns, convertibles, commodity ETFs, and MVP macro/valuation/policy framing.
 - [How AI nudify apps are proliferating on social media](sources/tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128.md) — Marketplace Tech episode with Sina Laubenstein of the Institute for Strategic Dialogue on AI nudify websites, YouTube/X traffic, Meta ads, app-store responses, payment rails, crypto intermediaries, and Take It Down Act enforcement.
@@ -881,6 +882,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [游凯超 / Kaichao Yu](entities/YuKaichao.md) — Infract co-founder and vLLM maintainer connecting open-source inference engines, systems research, and model-infra co-design.
+- [Infract](entities/Infract.md) — Company supporting vLLM through full-time maintainers, customer collaboration, cluster resources, endpoint/BYOC services, and open-source infrastructure work.
+- [vLLM](entities/VLLM.md) — Open-source large-model inference engine originating from PagedAttention and framed as Linux-like AI inference infrastructure.
+- [PyTorch Foundation](entities/PyTorchFoundation.md) — Foundation home for vLLM governance and trademark protection in the source.
 - [Adam Siegel](entities/AdamSiegel.md) — Council on Foreign Relations expert interviewed by Marketplace Tech on Chinese open-weight AI strategy, censorship, data access, dependence, coercion, and export-control tension.
 - [Council on Foreign Relations](entities/CouncilOnForeignRelations.md) — Foreign-policy think tank appearing through Adam Siegel's analysis of Chinese open-weight AI models and U.S. security concerns.
 - [Yuan Xin / 原欣](entities/YuanXin.md) — SAP guest in the LateTalk episode explaining ERP, autonomous enterprise, FDE, and enterprise AI deployment boundaries.
@@ -6011,6 +6016,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [PagedAttention](concepts/PagedAttention.md) — vLLM-origin inference-memory idea showing how attention state, memory layout, request scheduling, and serving needs become one systems problem.
+- [Model-Infra Co-Design](concepts/ModelInfraCoDesign.md) — Joint design of model architecture, inference engine, chip features, and agent workloads to improve serving efficiency.
+- [Open Source AI Infrastructure](concepts/OpenSourceAIInfrastructure.md) — Community-governed, company-supported AI infrastructure pattern illustrated by vLLM, Infract, and the PyTorch Foundation.
+- [Continuous Batching](concepts/ContinuousBatching.md) — Inference scheduling pattern for active generation requests under latency, memory, and variable sequence-length constraints.
+- [Prefix Caching](concepts/PrefixCaching.md) — Reuse of stable prompt prefixes in inference, especially important for coding-agent harnesses with repeated context.
+- [Test-Time Scaling](concepts/TestTimeScaling.md) — Spending more inference compute through repeated sampling, long thinking tokens, or agent-environment loops.
+- [Hardware Lottery](concepts/HardwareLottery.md) — Model-design risk that algorithms survive only when they fit available accelerators, memory, and communication systems.
 - [Chinese Open-Weight AI Strategy](concepts/ChineseOpenWeightAIStrategy.md) — Chinese model-release strategy using downloadable weights for cost, accessibility, local control, ecosystem influence, and geopolitical soft-power positioning.
 - [Enterprise Resource Planning](concepts/EnterpriseResourcePlanning.md) — ERP as the backend business-process system coordinating finance, people, materials, procurement, orders, suppliers, payments, and audit-critical data.
 - [ERP Trust Moat](concepts/ERPTrustMoat.md) — Defensibility of ERP systems rooted in governed processes, trusted data, compliance, localization, auditability, and industry know-how rather than code alone.

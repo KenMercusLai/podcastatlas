@@ -2,8 +2,8 @@
 title: "Kimi"
 type: entity
 tags: [ai, model, china]
-sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
-last_updated: 2026-08-07
+sources: [148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
+last_updated: 2026-08-08
 ---
 
 # Kimi
@@ -22,6 +22,8 @@ Kimi is a Chinese AI model/product reference that appears across several wiki so
 
 [[ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]] adds [[KimiK3|Kimi K3]] as a hands-on workflow-fit case. The host reports that K3 could build a podcast-host dialogue agent from requirements and surface a multi-topic outline design issue, but that the run took about three hours and roughly 250,000 tokens. The source therefore treats Kimi as useful in cost-aware and latency-tolerant roles, especially background documentation, analysis, and maintenance, while keeping [[ModelRoutingCostControl]] and [[OpenWeightReleaseBoundary]] central.
 
+[[148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims]] adds Kimi as one of the Chinese model users [[YuKaichao|游凯超]] visited while building the [[VLLM|vLLM]] Chinese community after the 2025 open-model wave.
+
 ## Connections
 - [[DeepSeek]], [[Qwen]], [[Doubao]], and [[MiniMax]] — domestic model and assistant comparison set.
 - [[ModelRoutingCostControl]] — cost-aware routing context where Kimi can be used for cheaper subtasks.
@@ -32,3 +34,4 @@ Kimi is a Chinese AI model/product reference that appears across several wiki so
 - [[KimiCLI]], [[RC]], [[AgentHarness]], and [[AgentOptimizedCLI]] — CLI-agent and agent-facing interface branch added by the Slock.ai source.
 - [[AIApplicationMarketTrough]], [[QuKai]], [[OpenAI]], [[Doubao]], and [[ClaudeCode]] — 42章经 stage-map comparison across chat and coding.
 - [[KimiK3]], [[WAIC]], [[OpenWeightReleaseBoundary]], [[TopModelBuildRuntimeSplit]], and [[SpeechToTextCostOptimization]] — K3 hands-on coding, release-boundary, and cost-optimization branch added by Keji Luandun.
+- [[VLLM|vLLM]], [[YuKaichao|游凯超]], and [[OpenSourceAIInfrastructure]] — Chinese open-model serving community branch added by episode 148.

@@ -435,6 +435,10 @@
     "title": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士",
     "url": "/wiki/sources/147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp/"
   },
+  "148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims": {
+    "title": "148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”",
+    "url": "/wiki/sources/148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims/"
+  },
   "148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934": {
     "title": "148. 王氏之死：断井颓垣上的历史妆镜",
     "url": "/wiki/sources/148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934/"
@@ -8435,6 +8439,10 @@
     "title": "Continual Learning",
     "url": "/wiki/concepts/continuallearning/"
   },
+  "ContinuousBatching": {
+    "title": "Continuous Batching",
+    "url": "/wiki/concepts/continuousbatching/"
+  },
   "ContinuousGlucoseMonitoring": {
     "title": "Continuous Glucose Monitoring",
     "url": "/wiki/concepts/continuousglucosemonitoring/"
@@ -15299,6 +15307,10 @@
     "title": "Hardware Inventory Risk",
     "url": "/wiki/concepts/hardwareinventoryrisk/"
   },
+  "HardwareLottery": {
+    "title": "Hardware Lottery",
+    "url": "/wiki/concepts/hardwarelottery/"
+  },
   "HardwareTalentSpillover": {
     "title": "Hardware Talent Spillover",
     "url": "/wiki/concepts/hardwaretalentspillover/"
@@ -16850,6 +16862,10 @@
   "InformedOptimism": {
     "title": "Informed Optimism",
     "url": "/wiki/concepts/informedoptimism/"
+  },
+  "Infract": {
+    "title": "Infract",
+    "url": "/wiki/entities/infract/"
   },
   "InfrastructureLaborBurden": {
     "title": "Infrastructure Labor Burden",
@@ -22835,6 +22851,10 @@
     "title": "Model Harness Co-Evolution",
     "url": "/wiki/concepts/modelharnesscoevolution/"
   },
+  "ModelInfraCoDesign": {
+    "title": "Model-Infra Co-Design",
+    "url": "/wiki/concepts/modelinfracodesign/"
+  },
   "ModelPostTrainingBottleneck": {
     "title": "Model Post-Training Bottleneck",
     "url": "/wiki/concepts/modelposttrainingbottleneck/"
@@ -24719,6 +24739,10 @@
     "title": "Open Shared Mythos",
     "url": "/wiki/concepts/opensharedmythos/"
   },
+  "OpenSourceAIInfrastructure": {
+    "title": "Open Source AI Infrastructure",
+    "url": "/wiki/concepts/opensourceaiinfrastructure/"
+  },
   "OpenSourceAIModels": {
     "title": "Open Source AI Models",
     "url": "/wiki/concepts/opensourceaimodels/"
@@ -25166,6 +25190,10 @@
   "PageRankSearchRelevance": {
     "title": "PageRank Search Relevance",
     "url": "/wiki/concepts/pageranksearchrelevance/"
+  },
+  "PagedAttention": {
+    "title": "PagedAttention",
+    "url": "/wiki/concepts/pagedattention/"
   },
   "PaidListeningServices": {
     "title": "Paid Listening Services / 付费树洞与倾听师",
@@ -26579,6 +26607,10 @@
     "title": "Prediction Market Trader Alpha",
     "url": "/wiki/concepts/predictionmarkettraderalpha/"
   },
+  "PrefixCaching": {
+    "title": "Prefix Caching",
+    "url": "/wiki/concepts/prefixcaching/"
+  },
   "PremarketFoodSafetyReview": {
     "title": "Premarket Food Safety Review",
     "url": "/wiki/concepts/premarketfoodsafetyreview/"
@@ -27246,6 +27278,10 @@
   "PyTorch": {
     "title": "PyTorch",
     "url": "/wiki/entities/pytorch/"
+  },
+  "PyTorchFoundation": {
+    "title": "PyTorch Foundation",
+    "url": "/wiki/entities/pytorchfoundation/"
   },
   "Pyramiding": {
     "title": "Pyramiding",
@@ -32887,6 +32923,10 @@
     "title": "Tesla",
     "url": "/wiki/entities/tesla/"
   },
+  "TestTimeScaling": {
+    "title": "Test-Time Scaling",
+    "url": "/wiki/concepts/testtimescaling/"
+  },
   "TeteFei": {
     "title": "特特飞",
     "url": "/wiki/entities/tetefei/"
@@ -34558,6 +34598,10 @@
   "UserPoweredContentPlatform": {
     "title": "User-Powered Content Platform",
     "url": "/wiki/concepts/userpoweredcontentplatform/"
+  },
+  "VLLM": {
+    "title": "vLLM",
+    "url": "/wiki/entities/vllm/"
   },
   "VMG": {
     "title": "VMG",
@@ -36954,6 +36998,10 @@
   "YuChengdong": {
     "title": "Yu Chengdong",
     "url": "/wiki/entities/yuchengdong/"
+  },
+  "YuKaichao": {
+    "title": "游凯超 / Kaichao Yu",
+    "url": "/wiki/entities/yukaichao/"
   },
   "YuQiRebellion": {
     "title": "于七之乱 / Yu Qi Rebellion",

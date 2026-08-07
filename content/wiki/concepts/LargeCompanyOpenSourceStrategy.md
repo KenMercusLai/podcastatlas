@@ -2,8 +2,8 @@
 title: "Large Company Open Source Strategy"
 type: concept
 tags: [open-source, strategy, organizations]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
-last_updated: 2026-07-07
+sources: [148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
+last_updated: 2026-08-08
 ---
 
 # Large Company Open Source Strategy
@@ -12,14 +12,18 @@ Large company open source strategy is the use of open releases to gain influence
 
 [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] adds a geopolitical timing case through [[ZhipuAI]] and [[GLM52]]. The hosts read the release as a fast, open-model response to [[AIExportControls]], showing how open source can be used to claim global accessibility and attract users when closed frontier access becomes politically uncertain.
 
+[[148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims]] adds a smaller company plus foundation-backed infrastructure case. [[VLLM|vLLM]] is not presented as a large-company release, but its sustainability problem is similar: open influence needs maintainers, governance, customer collaboration, and resources. [[Infract]] and the [[PyTorchFoundation|PyTorch Foundation]] split commercial support from community ownership.
+
 ## Strategic Tensions
 - Influence and reputation can grow faster than internal agreement on commercial value.
 - Key maintainers leaving can weaken or stall projects.
 - Open source can help a non-leading product redefine the competitive game, but success may trigger internal debates about who captures the value.
 - Open releases can also function as geopolitical messaging when restricted closed models create an opening for "available to everyone" positioning.
+- Open infrastructure may need a company for production support while still needing foundation or community governance to preserve trust.
 
 ## Connections
 - [[OpenSourceAIModels]] — model category where this strategy is currently important.
 - [[Qwen]] and [[Alibaba]] — central case in the source.
 - [[AICommercializationPressure]] — pressure that complicates the strategy.
 - [[ZhipuAI]], [[GLM52]], [[AIExportControls]], and [[SaaSReliabilityUnderPolicyRisk]] — policy-response release case added by the Keji Luandun export-control episode.
+- [[VLLM|vLLM]], [[Infract]], [[PyTorchFoundation|PyTorch Foundation]], and [[OpenSourceAIInfrastructure]] — company-supported open infrastructure case added by episode 148.

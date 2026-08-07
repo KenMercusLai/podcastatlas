@@ -2,13 +2,15 @@
 title: "Open Source AI Models"
 type: concept
 tags: [open-source, models, ai-ecosystem]
-sources: [tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
+sources: [148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
 last_updated: 2026-08-08
 ---
 
 # Open Source AI Models
 
 [[tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128]] adds the [[ChineseOpenWeightAIStrategy]] version. [[AdamSiegel]] argues that Chinese companies' open-weight releases began as a competitive response to proprietary U.S. frontier models and then became useful to [[China]]'s global accessibility messaging. The episode also stresses that local deployment can reduce some data-access and cutoff risks, even while [[AIModelCensorship]] and strategic dependence remain live concerns.
+
+[[148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims]] adds [[YuKaichao|游凯超]]'s stronger open-model thesis from the infrastructure side. He argues that Chinese open models such as [[DeepSeek]] have already changed the global field and that open models ultimately win when inference infrastructure, community learning, user data feedback, and deployment freedom compound.
 
 Open source AI models are model releases that enable broad downstream use, deployment, adaptation, and fine-tuning. In [[ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]], [[Qwen]] and [[DeepSeek]] are framed as major Chinese examples whose value extends beyond immediate revenue into developer adoption, ecosystem influence, and national AI competitiveness. [[wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb]] adds a downstream hardware case: [[YuebanDongli]] uses Qwen inside [[Xiaoban]]'s companion-robot stack.
 
@@ -39,6 +41,7 @@ Open source AI models are model releases that enable broad downstream use, deplo
 - Open-weight releases can change deployment and pricing competition without meeting the stronger transparency expectations of full open source.
 - Open releases may sacrifice direct user-data flywheels even while gaining reputation, research adoption, and ecosystem leverage.
 - Open-weight releases can become soft-power infrastructure when they are good enough, cheap enough, and portable enough for international users who cannot rely on expensive proprietary APIs.
+- Open models need open serving infrastructure too; model availability matters more when engines such as [[VLLM|vLLM]] make deployment, optimization, and hardware adaptation more reusable.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — how large companies use and struggle with open source.
@@ -53,3 +56,4 @@ Open source AI models are model releases that enable broad downstream use, deplo
 - [[OpenWeightReleaseBoundary]], [[KimiK3]], and [[ModelRoutingCostControl]] - open-weight versus open-source boundary and cost-routing branch added by Keji Luandun.
 - [[AIDataFlywheel]], [[ChaSheng]], and [[AmazonAGI]] - data-loop tradeoff added by the Qizhulou Yan Binke episode.
 - [[ChineseOpenWeightAIStrategy]], [[AdamSiegel]], [[CouncilOnForeignRelations|Council on Foreign Relations]], [[AIModelCensorship]], and [[SovereignAIModels]] - Marketplace Tech branch on Chinese open weights as competition, soft power, and dependency tradeoff.
+- [[VLLM|vLLM]], [[OpenSourceAIInfrastructure]], [[ModelInfraCoDesign]], and [[YuKaichao|游凯超]] - inference-infrastructure branch added by episode 148.

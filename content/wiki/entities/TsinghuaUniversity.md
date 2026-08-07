@@ -2,8 +2,8 @@
 title: "Tsinghua University / 清华大学"
 type: entity
 tags: [university, china, education]
-sources: [kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13, 173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437, 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]
-last_updated: 2026-08-07
+sources: [148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13, 173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437, 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]
+last_updated: 2026-08-08
 ---
 
 # Tsinghua University / 清华大学
@@ -20,6 +20,8 @@ In Alfred's account, Tsinghua's value is not only a curriculum label. It include
 
 [[kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13]] adds [[ZhangJintao]] as a Tsinghua doctoral student whose inference-acceleration work connects academic research to [[ShengshuTechnology]], [[SageAttention]], [[TurboDiffusion]], and [[StreamingVideoGeneration]].
 
+[[148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims]] adds [[YuKaichao|游凯超]] as another Tsinghua-trained AI systems figure. The episode uses his undergraduate and doctoral path to show a move from course learning and algorithm research toward open-source machine-learning systems and [[VLLM|vLLM]] maintenance.
+
 ## Connections
 - [[AlfredLinTongyu|Alfred 林童雨]] - Tsinghua-connected guest in the source.
 - [[UniversityOpportunityDensity]] - peer, teacher, and entrepreneurship density as university value.
@@ -30,3 +32,4 @@ In Alfred's account, Tsinghua's value is not only a curriculum label. It include
 - [[ShenYujun]], [[AntLingbo]], and [[EmbodiedNativeFoundationModels]] — robotics and embodied-AI branch added by episode 147.
 - [[YaoSong]], [[WangYu]], [[HanSong]], [[DeePhiTech]], and [[StridingAI]] — hard-tech startup and physical-AI branch added by the LateTalk Yao Song interview.
 - [[ZhangJintao]], [[SageAttention]], [[TurboDiffusion]], and [[ViduS1]] — AI-video inference-acceleration branch added by the Shizilukou Crossing source.
+- [[YuKaichao|游凯超]], [[VLLM|vLLM]], and [[ModelInfraCoDesign]] — AI inference-systems branch added by episode 148.
