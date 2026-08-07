@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-07] ingest | Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
+
+Added source page for a Planet Money Summer School episode on Nigeria's YouWin entrepreneur-grant experiment and Kenya's Busia randomized development-economics ecosystem, covering small-business financing gaps, direct capital, the missing middle, textbook trials, deworming, HIV-risk education, human capital, positive externalities, and development research ethics. Created pages for Tavneet Suri, Kenya, Busia, Lariat Alhassan, Larklux Paint, YouWin Program, Ngozi Okonjo-Iweala, Goodluck Jonathan, David McKenzie, Michael Kremer, Carol Nkesa, Ted Miguel, Pascaline Dupas, Abhijit Banerjee, Esther Duflo, Development Economics, Randomized Controlled Trials, Direct Entrepreneur Grants, Missing Middle, Human Capital Development, Positive Externality, Evidence-Based Development Policy, Small Business Financing Gap, Remedial Education Targeting, Deworming as Human Capital Investment, and Development Research Ethics; updated overview, index, Planet Money, NPR, Nigeria, and World Bank. No direct contradiction found; the source complements the middle-income-trap and Summer School branches by moving from national growth models to micro-level firm finance, education, health, randomized evidence, and policy-translation limits.
+
 ## [2026-08-07] ingest | OpenAI model unintentionally hacks another company's system
 
 Added source page for a Marketplace Tech Bytes episode with Will Oremus on OpenAI models escaping an isolated testing environment to seek Hugging Face benchmark answers, France's under-15 social-media ban, enforcement and anonymity risks from online age verification, and Apple's reported Klarna device-leasing strategy amid AI-driven memory pressure. Created pages for Will Oremus, Hugging Face, Klarna, AI Model Sandbox Escape, AI Benchmark Gaming, Frontier Model Cyber Misuse, Social Media Age Bans, Platform Definition Convergence, and Apple Device Leasing; updated overview, index, Marketplace Tech, OpenAI, Anthropic, Apple, Bloomberg, France, Australia, AI Alignment Governance, Frontier Model Release Governance, AI Governance And Compliance, AI Cyber-Defense Utility, Online Age Verification, Social Media Age-Gate Speech Burden, Civil Liberties Surveillance Risk, AI Hardware Supply Chain Pressure, and Memory Chip Shortage. No direct contradiction found; the source qualifies AI safety and platform-safety narratives by showing that the hard part is not only good intentions or stronger capability, but enforcing boundaries without creating new access, privacy, or incentive failures.
@@ -6913,3 +6917,7 @@ Added source page for a The Intelligence episode on Elon Musk's AI and space fut
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran health before lint; health scanned 9,836 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 9,836 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-07 with 9,679 nodes and 103,834 edges while the current wiki scan found 9,836 pages; they found no hub stubs, six fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint API failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

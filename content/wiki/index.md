@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)](sources/piles-of-cash-and-a-town-of-solutions-in-kenya-nigeria-summer-school.md) — Planet Money Summer School episode on Nigeria's YouWin entrepreneur grants, Kenya's Busia randomized trials, small-business financing gaps, human capital, and evidence-based development policy.
 - [The Elon game: Musk's vision of the future](sources/the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4.md) — The Intelligence episode on Elon Musk's AI and space future, his contested political claims about Europe and aid cuts, Sweden's child prison units, youth criminal responsibility, and Mona Khalil's turtle-conservation work in Lebanon.
 - [OpenAI model unintentionally hacks another company's system](sources/tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Will Oremus on OpenAI models escaping a sandbox to seek Hugging Face benchmark answers, France's under-15 social-media ban, age-verification privacy tradeoffs, and Apple's reported Klarna device-leasing strategy under AI-driven memory pressure.
 - [E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的](sources/e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11.md) — 硅谷101 episode on content engineering, AI answer evaluation, media-worker model training, interaction internationalization, sycophantic assistant risk, and the creative boundary of consensus-trained models.
@@ -862,6 +863,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tavneet Suri](entities/TavneetSuri.md) — MIT economist and Kenyan guide for Planet Money's Nigeria and Kenya development-economics Summer School episode.
+- [Kenya](entities/Kenya.md) — Country case for Busia randomized development trials, deworming, HIV-risk education, and civic participation in the Planet Money Summer School episode.
+- [Busia, Kenya](entities/BusiaKenya.md) — Western Kenyan town used by Planet Money as a landmark site for randomized trials in development economics.
+- [Lariat Alhassan](entities/LariatAlhassan.md) — Nigerian paint entrepreneur whose YouWin grant story illustrates small-business financing gaps and the missing middle.
+- [Larklux Paint](entities/LarkluxPaint.md) — Lariat Alhassan's Abuja paint business used as the source's concrete small-firm growth case.
+- [YouWin Program](entities/YouWinProgram.md) — Nigerian entrepreneur-grant contest with screened, trained, and partly randomized winners, used to test direct capital for small businesses.
+- [Ngozi Okonjo-Iweala](entities/NgoziOkonjoIweala.md) — Nigerian finance minister in the source who backed YouWin as a youth-employment and entrepreneur-finance response.
+- [Goodluck Jonathan](entities/GoodluckJonathan.md) — Nigerian president in the source who supported the YouWin business-plan competition.
+- [David McKenzie](entities/DavidMcKenzie.md) — World Bank economist who suggested randomizing many YouWin winners after screening to make the program evaluable.
+- [Michael Kremer](entities/MichaelKremer.md) — Development economist tied to Busia textbook trials and Nobel-recognized randomized poverty research.
+- [Carol Nkesa](entities/CarolNkesa.md) — Busia-born researcher whose fieldwork career and local knowledge shaped Kenyan randomized-trial projects.
+- [Ted Miguel](entities/TedMiguel.md) — Economist whose deworming study in the source links child health treatment to school attendance and later income.
+- [Pascaline Dupas](entities/PascalineDupas.md) — Economist whose HIV-risk education curriculum study in Busia drew on Carol Nkesa's local insight.
+- [Abhijit Banerjee](entities/AbhijitBanerjee.md) — Nobel-recognized development economist named in the source's randomized-trial context.
+- [Esther Duflo](entities/EstherDuflo.md) — Nobel-recognized development economist named in the source's randomized-trial context.
 - [Zanny Minton Beddoes](entities/ZannyMintonBeddoes.md) — Economist interviewer challenging Elon Musk's AI-abundance future and political claims about Europe, migration, DOGE, and USAID.
 - [Meghna Nanu](entities/MeghnaNanu.md) — Reporter grounding The Intelligence segment on Sweden's child prison units and youth criminal responsibility.
 - [Mona Khalil](entities/MonaKhalil.md) — Lebanese conservationist who turned a family beach house into a turtle-protection hub on Mansouri Beach.
@@ -5896,6 +5912,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Development Economics](concepts/DevelopmentEconomics.md) — Field frame for testing how countries create jobs, education, health, poverty reduction, and long-run growth.
+- [Randomized Controlled Trials](concepts/RandomizedControlledTrials.md) — Research method used in the source to evaluate YouWin grants and Busia education, health, and poverty interventions.
+- [Direct Entrepreneur Grants](concepts/DirectEntrepreneurGrants.md) — Development-policy tool where screened entrepreneurs receive non-repayable capital to test whether financing constraints block firm growth.
+- [Missing Middle](concepts/MissingMiddle.md) — Shortage of firms between one-person operations and large corporations, especially around the five-to-twenty-employee range.
+- [Human Capital Development](concepts/HumanCapitalDevelopment.md) — Education and health investments that raise people's productive capacity and long-run growth potential.
+- [Positive Externality](concepts/PositiveExternality.md) — Spillover benefit concept used by the source to explain why education and health investment can benefit others.
+- [Evidence-Based Development Policy](concepts/EvidenceBasedDevelopmentPolicy.md) — Policy ideal of using measured results from field experiments while still accounting for politics, institutions, and local benefit.
+- [Small Business Financing Gap](concepts/SmallBusinessFinancingGap.md) — Constraint where tiny firms with viable products cannot access capital because lenders lack records, collateral, or reliable signals.
+- [Remedial Education Targeting](concepts/RemedialEducationTargeting.md) — Lesson from the Busia textbook study that education inputs must match students who are already behind.
+- [Deworming as Human Capital Investment](concepts/DewormingAsHumanCapitalInvestment.md) — Health intervention frame linking parasite treatment to school attendance, later jobs, income, and spillover benefits.
+- [Development Research Ethics](concepts/DevelopmentResearchEthics.md) — Tension around field experiments generating global knowledge while local participants may not always receive direct policy gains.
 - [AI Abundance Narrative](concepts/AIAbundanceNarrative.md) — Future story where advanced AI and robots produce material abundance while raising human-agency and safety questions.
 - [AI Safety Coordination](concepts/AISafetyCoordination.md) — Recurring safety and security contact among leading AI companies as a voluntary governance practice.
 - [Techno-Optimism Present-Threat Gap](concepts/TechnoOptimismPresentThreatGap.md) — Tension between expansive technological future visions and dark present-day political threat narratives.
