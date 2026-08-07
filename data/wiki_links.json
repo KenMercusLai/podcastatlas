@@ -2279,6 +2279,10 @@
     "title": "Adam Smith / 亚当·斯密",
     "url": "/wiki/entities/adamsmith/"
   },
+  "AdamSubhas": {
+    "title": "Adam Subhas",
+    "url": "/wiki/entities/adamsubhas/"
+  },
   "AdamWilliamsGallery": {
     "title": "Adam Williams Gallery",
     "url": "/wiki/entities/adamwilliamsgallery/"
@@ -15855,6 +15859,10 @@
     "title": "侯超 / Hou Chao",
     "url": "/wiki/entities/houchao/"
   },
+  "HourglassClimate": {
+    "title": "Hourglass Climate",
+    "url": "/wiki/entities/hourglassclimate/"
+  },
   "HouseOfMedici": {
     "title": "House of Medici / 美第奇家族",
     "url": "/wiki/entities/houseofmedici/"
@@ -17278,6 +17286,10 @@
   "JacobusLentz": {
     "title": "Jacobus Lentz / 雅各布斯·伦次",
     "url": "/wiki/entities/jacobuslentz/"
+  },
+  "JacquelineSentiner": {
+    "title": "Jacqueline Sentiner",
+    "url": "/wiki/entities/jacquelinesentiner/"
   },
   "JacquelineSusann": {
     "title": "Jacqueline Susann",
@@ -21243,6 +21255,10 @@
     "title": "Marie-Louise von Franz / 玛丽-路易丝·冯·弗兰兹",
     "url": "/wiki/entities/marielouisevonfranz/"
   },
+  "MarineCarbonRemoval": {
+    "title": "Marine Carbon Removal",
+    "url": "/wiki/concepts/marinecarbonremoval/"
+  },
   "MarineLePen": {
     "title": "Marine Le Pen",
     "url": "/wiki/entities/marinelepen/"
@@ -24011,6 +24027,10 @@
     "title": "Ocean Acidification",
     "url": "/wiki/concepts/oceanacidification/"
   },
+  "OceanAlkalinityEnhancement": {
+    "title": "Ocean Alkalinity Enhancement",
+    "url": "/wiki/concepts/oceanalkalinityenhancement/"
+  },
   "OceanEngine": {
     "title": "Ocean Engine",
     "url": "/wiki/entities/oceanengine/"
@@ -24202,6 +24222,10 @@
   "OliviaValdez": {
     "title": "Olivia Valdez",
     "url": "/wiki/entities/oliviavaldez/"
+  },
+  "OlivineCarbonRemoval": {
+    "title": "Olivine Carbon Removal",
+    "url": "/wiki/concepts/olivinecarbonremoval/"
   },
   "Omega": {
     "title": "Omega",
@@ -34263,6 +34287,10 @@
     "title": "Vertical Workflow AI",
     "url": "/wiki/concepts/verticalworkflowai/"
   },
+  "Vesta": {
+    "title": "Vesta",
+    "url": "/wiki/entities/vesta/"
+  },
   "Viaweb": {
     "title": "Viaweb",
     "url": "/wiki/entities/viaweb/"
@@ -35374,6 +35402,10 @@
   "WonderlandLanguageGames": {
     "title": "Wonderland Language Games",
     "url": "/wiki/concepts/wonderlandlanguagegames/"
+  },
+  "WoodsHoleOceanographicInstitution": {
+    "title": "Woods Hole Oceanographic Institution",
+    "url": "/wiki/entities/woodsholeoceanographicinstitution/"
   },
   "WorkFromHomeEvidence": {
     "title": "Work From Home Evidence",
@@ -38870,6 +38902,10 @@
   "tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128": {
     "title": "How AI nudify apps are proliferating on social media",
     "url": "/wiki/sources/tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128/"
+  },
+  "tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128": {
+    "title": "An \\\"antacid\\\" to fight climate change",
+    "url": "/wiki/sources/tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

@@ -2,11 +2,13 @@
 title: "How We Survive"
 type: entity
 tags: [podcast, climate, marketplace]
-sources: [tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128, tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+sources: [tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128, tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128, tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
 last_updated: 2026-08-07
 ---
 
 # How We Survive
+
+[[tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128]] adds How We Survive as the deeper-reporting destination for [[AmyScott]]'s segment on [[MarineCarbonRemoval]] and other geoengineering solutions. The main [[MarketplaceTech]] contribution is the [[Vesta]] olivine field demonstration, but the promo places [[OceanAlkalinityEnhancement]] inside Marketplace's broader climate-solutions series.
 
 [[tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128]] adds another closing promo context after a [[MarketplaceTech]] episode on [[AIPsychosis]], [[ChatbotSafetyGuardrailDecay]], and long [[ChatGPT]] conversations. The promo points to the climate-solutions show, while the main source contribution remains AI user safety.
 
@@ -49,6 +51,7 @@ In this source, How We Survive functions as a bridge from a concise technology s
 - [[HumanAuthorshipPremium]] and [[AIContentProvenance]] - main episode context adjacent to the April 13 promo.
 - [[StateCryptoReserves]] and [[PublicCryptoInvestmentRisk]] - main April 14 episode context adjacent to the promo.
 - [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]], [[DirectAirCapture]], and [[CarbonRemoval]] - main topic promoted from the episode.
+- [[Vesta]], [[OceanAlkalinityEnhancement]], [[OlivineCarbonRemoval]], and [[MarineCarbonRemoval]] - ocean-carbon-removal branch added by the July 28, 2026 episode.
 - [[ClimateStartupCommercializationGap]] and [[CarbonRemovalMoralHazard]] - deeper questions the source points toward.
 - [[ElectricVehiclePriceParity]] and [[EconomicClimateTechAdoption]] - adjacent climate-economics branch in the EV episode.
 - [[EVTaxCreditCliff]], [[UsedEVAffordability]], and [[EVChargingInfrastructure]] - main December 31 EV episode context adjacent to the promo.

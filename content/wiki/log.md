@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-07] ingest | An "antacid" to fight climate change
+
+Added source page for a Marketplace Tech episode following Amy Scott to Duck, North Carolina, for Vesta's olivine-based ocean carbon-removal field demonstration, covering ocean alkalinity enhancement, bicarbonate storage, ocean acidification, marine-life tradeoffs, project monitoring, and Vesta's 5,000-ton net-removal estimate. Created pages for Vesta, Hourglass Climate, Jacqueline Sentiner, Woods Hole Oceanographic Institution, Adam Subhas, Ocean Alkalinity Enhancement, Olivine Carbon Removal, and Marine Carbon Removal; updated overview, index, Marketplace Tech, Amy Scott, How We Survive, Carbon Removal, Ocean Acidification, Carbon Storage Permanence, Carbon Removal Cost Curve, Climate Startup Commercialization Gap, and Economic Climate Tech Adoption. No direct contradiction found; the source complements direct air capture and bio-oil removal by adding an ocean-chemistry pathway while keeping verification, scale, timing, lifecycle accounting, and ecosystem effects unresolved.
+
 ## [2026-08-07] ingest | Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
 
 Added source page for a Planet Money Summer School episode on Nigeria's YouWin entrepreneur-grant experiment and Kenya's Busia randomized development-economics ecosystem, covering small-business financing gaps, direct capital, the missing middle, textbook trials, deworming, HIV-risk education, human capital, positive externalities, and development research ethics. Created pages for Tavneet Suri, Kenya, Busia, Lariat Alhassan, Larklux Paint, YouWin Program, Ngozi Okonjo-Iweala, Goodluck Jonathan, David McKenzie, Michael Kremer, Carol Nkesa, Ted Miguel, Pascaline Dupas, Abhijit Banerjee, Esther Duflo, Development Economics, Randomized Controlled Trials, Direct Entrepreneur Grants, Missing Middle, Human Capital Development, Positive Externality, Evidence-Based Development Policy, Small Business Financing Gap, Remedial Education Targeting, Deworming as Human Capital Investment, and Development Research Ethics; updated overview, index, Planet Money, NPR, Nigeria, and World Bank. No direct contradiction found; the source complements the middle-income-trap and Summer School branches by moving from national growth models to micro-level firm finance, education, health, randomized evidence, and policy-translation limits.
@@ -6949,6 +6953,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] ingest | 11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿
 
 Added source page for a Shizilukou Crossing episode with Wu Kai on Airwallex's global payment network, transaction-banking expansion, AI company billing needs, Kai, Agent OS, T0, ARID, intelligent finance, data-and-talent acquisition logic, and globalization playbook. Created pages for Airwallex, Wu Kai, Kai, Airwallex Agent OS, T0 Finance, ARID, Global Financial Network, and Intelligent Finance; updated overview, index, Shizilukou Crossing, Stripe, Money Movement Infrastructure, Payment Clearing Network, Agent Payment Infrastructure, Agent-Facing Interfaces, Financial AI Agents, Business-Led AI Transformation, and AI Native SaaS Threat. No direct contradiction found; the source reinforces payment-infrastructure and agent-payment branches while keeping Airwallex valuation, growth, retention, acquisition, and AI-product claims source-scoped.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 

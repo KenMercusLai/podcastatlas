@@ -2,11 +2,13 @@
 title: "Amy Scott"
 type: entity
 tags: [journalist, podcast, climate]
-sources: [tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # Amy Scott
+
+[[tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128]] adds Scott as the field reporter for an ocean-based [[CarbonRemoval]] segment from Duck, North Carolina. Her reporting follows [[Vesta]]'s olivine field demonstration and turns [[OceanAlkalinityEnhancement]] into a concrete chemistry, monitoring, scale, and marine-life-risk story rather than an abstract geoengineering proposal.
 
 [[tech-20260415-0415-mp-tech-pod-128-tech-20260415-0415-mp-tech-pod-128]] adds Scott through another closing [[HowWeSurvive]] promo. The main [[MarketplaceTech]] episode covers [[IoTBotnetRisk]], [[PiratedStreamingBoxMalware]], and [[DDoSAttackAmplification]], while the promo points to Scott's climate-solutions reporting.
 
@@ -42,6 +44,7 @@ Scott's reporting also links the technical demonstration to public funding and l
 - [[StateCryptoReserves]] and [[PublicCryptoInvestmentRisk]] - main April 14 Marketplace Tech context attached to the promo.
 - [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]], [[ChristianToya]], and [[LimestoneLoopCarbonCapture]] - interview and site-visit branch.
 - [[CarbonRemoval]], [[DirectAirCapture]], [[CarbonRemovalCostCurve]], and [[CarbonRemovalPoliticalDurability]] - concepts her reporting connects.
+- [[Vesta]], [[OceanAlkalinityEnhancement]], [[OlivineCarbonRemoval]], and [[MarineCarbonRemoval]] - ocean-based carbon-removal branch added by the July 28, 2026 episode.
 - [[ElectricVehiclePriceParity]] and [[EconomicClimateTechAdoption]] - adjacent climate-economics context from the EV episode promo.
 - [[EVTaxCreditCliff]] and [[UsedEVAffordability]] - main December 31 EV episode context attached to the promo.
 - [[AIClusterNetworking]] and [[AmazonWebServices|AWS]] - main January 26 episode context attached to the promo.
