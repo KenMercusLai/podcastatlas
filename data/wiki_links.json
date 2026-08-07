@@ -2047,6 +2047,10 @@
     "title": "API Product Design",
     "url": "/wiki/concepts/apiproductdesign/"
   },
+  "APOE4DementiaRisk": {
+    "title": "APOE4 Dementia Risk",
+    "url": "/wiki/concepts/apoe4dementiarisk/"
+  },
   "APlagueTale": {
     "title": "《瘟疫传说》 / A Plague Tale",
     "url": "/wiki/entities/aplaguetale/"
@@ -2590,6 +2594,10 @@
   "AgathaChristie": {
     "title": "Agatha Christie / 阿加莎·克里斯蒂",
     "url": "/wiki/entities/agathachristie/"
+  },
+  "AgeAdjustedDementiaDecline": {
+    "title": "Age-Adjusted Dementia Decline",
+    "url": "/wiki/concepts/ageadjusteddementiadecline/"
   },
   "AgeFriendlyInfrastructure": {
     "title": "Age-Friendly Infrastructure",
@@ -3247,6 +3255,10 @@
     "title": "Altos Computer",
     "url": "/wiki/entities/altoscomputer/"
   },
+  "AlzheimerDrugEfficacyGap": {
+    "title": "Alzheimer Drug Efficacy Gap",
+    "url": "/wiki/concepts/alzheimerdrugefficacygap/"
+  },
   "AmanNarang": {
     "title": "Aman Narang",
     "url": "/wiki/entities/amannarang/"
@@ -3406,6 +3418,10 @@
   "AmyWebb": {
     "title": "Amy Webb",
     "url": "/wiki/entities/amywebb/"
+  },
+  "AmyloidHypothesisUncertainty": {
+    "title": "Amyloid Hypothesis Uncertainty",
+    "url": "/wiki/concepts/amyloidhypothesisuncertainty/"
   },
   "AnQi": {
     "title": "安琪",
@@ -6399,6 +6415,10 @@
     "title": "Cardinal Tetra",
     "url": "/wiki/entities/cardinaltetra/"
   },
+  "CardiovascularBrainHealthLink": {
+    "title": "Cardiovascular-Brain Health Link",
+    "url": "/wiki/concepts/cardiovascularbrainhealthlink/"
+  },
   "CareCompanionProgram": {
     "title": "Care Companion Program",
     "url": "/wiki/entities/carecompanionprogram/"
@@ -6446,6 +6466,10 @@
   "CarlSchmitt": {
     "title": "Carl Schmitt",
     "url": "/wiki/entities/carlschmitt/"
+  },
+  "CarlaSugirana": {
+    "title": "Carla Sugirana",
+    "url": "/wiki/entities/carlasugirana/"
   },
   "CarloCollodi": {
     "title": "Carlo Collodi / 卡洛·科洛迪",
@@ -6678,6 +6702,10 @@
   "CentralBankIndependence": {
     "title": "Central Bank Independence",
     "url": "/wiki/concepts/centralbankindependence/"
+  },
+  "CentralBankOfBrazil": {
+    "title": "Central Bank of Brazil",
+    "url": "/wiki/entities/centralbankofbrazil/"
   },
   "CentralBankOfChina": {
     "title": "Central Bank of China",
@@ -11447,6 +11475,10 @@
     "title": "Emmett Shear",
     "url": "/wiki/entities/emmettshear/"
   },
+  "EmoRevivalIdentityCulture": {
+    "title": "Emo Revival Identity Culture",
+    "url": "/wiki/concepts/emorevivalidentityculture/"
+  },
   "EmolumentsClause": {
     "title": "Emoluments Clause",
     "url": "/wiki/concepts/emolumentsclause/"
@@ -14398,6 +14430,10 @@
   "Geppetto": {
     "title": "Geppetto / 杰佩托",
     "url": "/wiki/entities/geppetto/"
+  },
+  "GerardWay": {
+    "title": "Gerard Way",
+    "url": "/wiki/entities/gerardway/"
   },
   "Germany": {
     "title": "Germany",
@@ -18706,6 +18742,10 @@
   "JollofIndex": {
     "title": "Jollof Index",
     "url": "/wiki/concepts/jollofindex/"
+  },
+  "JonathanBousenthal": {
+    "title": "Jonathan Bousenthal",
+    "url": "/wiki/entities/jonathanbousenthal/"
   },
   "JonathanRoss": {
     "title": "Jonathan Ross",
@@ -23223,6 +23263,10 @@
     "title": "Modernization As Compound Growth / 复合增长式现代化",
     "url": "/wiki/concepts/modernizationascompoundgrowth/"
   },
+  "ModifiableDementiaRiskFactors": {
+    "title": "Modifiable Dementia Risk Factors",
+    "url": "/wiki/concepts/modifiabledementiariskfactors/"
+  },
   "ModularCustomization": {
     "title": "Modular Customization / 模块化定制",
     "url": "/wiki/concepts/modularcustomization/"
@@ -23602,6 +23646,10 @@
   "MwindoEpic": {
     "title": "Mwindo Epic",
     "url": "/wiki/entities/mwindoepic/"
+  },
+  "MyChemicalRomance": {
+    "title": "My Chemical Romance",
+    "url": "/wiki/entities/mychemicalromance/"
   },
   "MyNameIsRed": {
     "title": "《我的名字叫红》 / My Name Is Red",
@@ -25851,6 +25899,10 @@
     "title": "Payment-In-Kind Interest / PIK",
     "url": "/wiki/concepts/paymentinkindinterest/"
   },
+  "PaymentInfrastructureTradeDispute": {
+    "title": "Payment Infrastructure Trade Dispute",
+    "url": "/wiki/concepts/paymentinfrastructuretradedispute/"
+  },
   "PaymentLedMarketSelection": {
     "title": "Payment Led Market Selection",
     "url": "/wiki/concepts/paymentledmarketselection/"
@@ -26374,6 +26426,10 @@
   "PistoriusDemian": {
     "title": "Pistorius / 皮斯托留斯",
     "url": "/wiki/entities/pistoriusdemian/"
+  },
+  "Pix": {
+    "title": "Pix",
+    "url": "/wiki/entities/pix/"
   },
   "PlaceBasedAntiPovertyPolicy": {
     "title": "Place-Based Anti-Poverty Policy",
@@ -27502,6 +27558,10 @@
   "PublicIllnessWriting": {
     "title": "Public Illness Writing",
     "url": "/wiki/concepts/publicillnesswriting/"
+  },
+  "PublicInstantPaymentRail": {
+    "title": "Public Instant Payment Rail",
+    "url": "/wiki/concepts/publicinstantpaymentrail/"
   },
   "PublicInterestAI": {
     "title": "Public Interest AI",
@@ -30671,6 +30731,10 @@
     "title": "Shimazaki Toson / 岛崎藤村",
     "url": "/wiki/entities/shimazakitoson/"
   },
+  "ShinglesVaccineDementiaSignal": {
+    "title": "Shingles Vaccine Dementia Signal",
+    "url": "/wiki/concepts/shinglesvaccinedementiasignal/"
+  },
   "ShippingWeightEconomics": {
     "title": "Shipping Weight Economics",
     "url": "/wiki/concepts/shippingweighteconomics/"
@@ -33367,6 +33431,10 @@
     "title": "《人性中的善良天使》 / The Better Angels of Our Nature",
     "url": "/wiki/entities/thebetterangelsofournature/"
   },
+  "TheBlackParade": {
+    "title": "The Black Parade",
+    "url": "/wiki/entities/theblackparade/"
+  },
   "TheBloodyChamber": {
     "title": "《染血之室》 / The Bloody Chamber",
     "url": "/wiki/entities/thebloodychamber/"
@@ -35087,6 +35155,10 @@
     "title": "Vannette Ho",
     "url": "/wiki/entities/vannetteho/"
   },
+  "VansWarpedTour": {
+    "title": "Vans Warped Tour",
+    "url": "/wiki/entities/vanswarpedtour/"
+  },
   "Vanta": {
     "title": "Vanta",
     "url": "/wiki/entities/vanta/"
@@ -35923,6 +35995,10 @@
     "title": "Wellington Management",
     "url": "/wiki/entities/wellingtonmanagement/"
   },
+  "WembleyStadium": {
+    "title": "Wembley Stadium",
+    "url": "/wiki/entities/wembleystadium/"
+  },
   "WenQi": {
     "title": "文淇 / Wen Qi",
     "url": "/wiki/entities/wenqi/"
@@ -36014,6 +36090,10 @@
   "WheelerAndWilson": {
     "title": "Wheeler and Wilson",
     "url": "/wiki/entities/wheelerandwilson/"
+  },
+  "WhenWeWereYoungFestival": {
+    "title": "When We Were Young Festival",
+    "url": "/wiki/entities/whenwewereyoungfestival/"
   },
   "WhistleblowerEvidenceDiscipline": {
     "title": "Whistleblower Evidence Discipline",
@@ -40502,6 +40582,10 @@
   "women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv": {
     "title": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪",
     "url": "/wiki/sources/women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv/"
+  },
+  "working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b": {
+    "title": "Working memory: the surprising decline of dementia",
+    "url": "/wiki/sources/working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b/"
   },
   "would-you-trust-an-economist-with-your-economy": {
     "title": "Would you trust an economist with your economy?",

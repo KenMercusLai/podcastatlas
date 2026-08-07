@@ -2,8 +2,8 @@
 title: "Elder Care State Capacity"
 type: concept
 tags: [ageing, welfare, social-policy, care]
-sources: [147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp, vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt, vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
-last_updated: 2026-08-07
+sources: [147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp, vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt, vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]
+last_updated: 2026-08-08
 ---
 
 # Elder Care State Capacity
@@ -20,6 +20,8 @@ Elder care state capacity is the ability of governments, markets, families, and 
 
 [[ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]] adds the workforce-pipeline layer. [[LiXiaojie|李小杰]] shows that elder-care capacity depends on whether [[VocationalEducation|职业教育]] and [[SchoolEnterpriseCooperation|校企合作]] can produce students who have seen real care scenes and still want to stay in the field.
 
+[[working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]] adds a dementia-burden distinction. [[AgeAdjustedDementiaDecline]] suggests same-age risk has fallen in rich countries, but demographic ageing can still increase the absolute number of people needing diagnosis, care, and planning.
+
 The source's clearest capacity example is [[Malaysia]], which the episode says has 36 million people but only 18 licensed nursing homes. It also cites more than 2,000 Malaysian cases of elderly patients abandoned in hospitals between 2018 and 2022, using that gap to show why legal pressure on children can become a substitute for public provision.
 
 The concept links family law to infrastructure. Courts can order visits, payments, or penalties, but the episode argues that welfare systems, nursing homes, home care, hospital discharge pathways, and affordable support services determine whether families have practical options.
@@ -34,6 +36,7 @@ The concept links family law to infrastructure. Courts can order visits, payment
 - Hospital capacity and elder-care capacity are linked: [[SocialHospitalization]] can turn care-system gaps into medical-system congestion.
 - Episode 147 adds that capacity also means dignified care labor: low pay, overloaded staff, and family-only improvisation can transfer system failure onto vulnerable older or disabled people.
 - EP241 adds that capacity also depends on training pipelines, student retention, and whether elder care can become a recognized occupation rather than only a high-demand but avoided job.
+- The dementia-decline source adds that better prevention can reduce cohort risk without eliminating the care-system burden created by longer lives.
 
 ## Connections
 - [[FilialPietyLaws]] - legal response that reveals the capacity problem.
@@ -46,3 +49,4 @@ The concept links family law to infrastructure. Courts can order visits, payment
 - [[SocialHospitalization]], [[CommunityIntegratedCare]], and [[JapaneseHealthcareSystem]] - hospital and community-care extension added by vol.120.
 - [[CareSocialization]], [[PatientDignityInDailyCare]], [[MedicalSocialWorkDischargeCoordination]], and [[AIAndRoboticElderCareLimits]] - episode 147's care-labor, dignity, and technology-boundary extension.
 - [[ElderCareWorkforce]], [[MinzhengVocationalUniversity]], [[TaikangHome]], and [[SchoolEnterpriseCooperation]] - EP241's elder-care training and retention extension.
+- [[AgeAdjustedDementiaDecline]], [[ModifiableDementiaRiskFactors]], and [[CognitiveDeclineAdvancePlanning]] - dementia prevention and planning branch added by The Intelligence.

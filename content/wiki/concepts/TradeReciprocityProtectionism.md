@@ -2,8 +2,8 @@
 title: "Trade Reciprocity Protectionism"
 type: concept
 tags: [trade, tariffs, geopolitics, united-states]
-sources: [vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, why-economists-got-free-trade-with-china-so-wrong, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, why-are-we-so-obsessed-with-manufacturing]
-last_updated: 2026-08-06
+sources: [vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, why-economists-got-free-trade-with-china-so-wrong, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, why-are-we-so-obsessed-with-manufacturing, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]
+last_updated: 2026-08-08
 ---
 
 # Trade Reciprocity Protectionism
@@ -22,6 +22,8 @@ The concept reframes tariffs inside [[AmericanProtectionistTradition]]. If a tra
 
 [[the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]] adds a statutory-authority constraint. Even when tariff reciprocity is politically framed as fairness, the [[SupremeCourt]] ruling says the executive still needs a valid tariff statute; after [[IEPATariffAuthorityLimit]], the source follows [[DonaldTrump]] toward [[Section122TariffAuthority]] instead.
 
+[[working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]] adds a digital-infrastructure edge case through [[Pix]]. The episode says [[DonaldTrump]]'s tariff regime treated Brazil's payment system as potentially unfair to American firms, but [[CarlaSugirana]] argues the claim is weak because domestic and foreign licensed institutions can connect to Pix on the same terms.
+
 ## Key Claims
 - Reciprocity separates this frame from universal free-trade doctrine.
 - The episode says free trade and reciprocity looked aligned after World War II because the [[UnitedStates]] had broad industrial advantage, but deindustrialization made the two diverge.
@@ -32,6 +34,7 @@ The concept reframes tariffs inside [[AmericanProtectionistTradition]]. If a tra
 - The tariff-ruling source adds that reciprocal or emergency tariff rhetoric does not substitute for delegated statutory authority.
 - The Qizhulou vol.123 source adds that "reciprocal" rhetoric can mask a deficit-based formula that cannot be resolved by simple tariff matching.
 - The Qizhulou vol.128 source adds that reciprocal tariff pressure is constrained by political storytelling, not just trade-rate bargaining.
+- The Pix source adds that reciprocity rhetoric can be applied to digital public infrastructure even when the evidence of foreign-firm discrimination is thin.
 
 ## Connections
 - [[DonaldTrump]], [[AmericaFirstPolicyInstitute]], [[PeterNavarro]], and [[Project2025]] — policy actors and documents.
@@ -43,3 +46,4 @@ The concept reframes tariffs inside [[AmericanProtectionistTradition]]. If a tra
 - [[ChinaShock]], [[FreeTradeDistributionalCost]], [[RegionalLaborMarketScarring]], [[TradeAdjustmentAssistance]], [[BlanketTariffLimit]], and [[StrategicIndustrialPolicy]] - tariff-repair limits added by the China-shock episode.
 - [[IEPATariffAuthorityLimit]], [[Section122TariffAuthority]], and [[ExecutivePowerPrecedent]] - legal-authority limit added by the tariff-ruling episode.
 - [[TrumpVictoryNarrativeDealMaking]], [[ChinaAsTrumpNarrativeEnemy]], and [[TrumpSupporterInterpretiveLoop]] — May 2025 political-narrative branch added by Qizhulou Yan Binke.
+- [[Pix]], [[Brazil]], [[PaymentInfrastructureTradeDispute]], [[Visa]], and [[Mastercard]] - payment-infrastructure trade dispute added by The Intelligence.

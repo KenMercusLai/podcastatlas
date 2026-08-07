@@ -2,8 +2,8 @@
 title: "Payment Clearing Network / 支付清算网络"
 type: concept
 tags: [payments, money, banking, infrastructure]
-sources: [11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk, keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb]
-last_updated: 2026-08-07
+sources: [11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk, keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]
+last_updated: 2026-08-08
 ---
 
 # Payment Clearing Network / 支付清算网络
@@ -16,6 +16,8 @@ The episode uses cross-border remittance and correspondent-bank examples to show
 
 [[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] adds a consumer-protection angle through [[AgentPaymentInfrastructure]]. [[PatrickWu]] says [[Clink]] chose a fiat direction partly because card and bank payment systems already contain dispute and consumer-protection conventions. In this source, clearing infrastructure is valuable not only because it settles claims, but because it helps assign responsibility when an agent, user, merchant, or network disagrees about a transaction.
 
+[[working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]] adds the [[Pix]] case, where [[CentralBankOfBrazil]] creates a [[PublicInstantPaymentRail]] that makes instant, always-on transfers feel normal for households and merchants. The source shows clearing infrastructure as social inclusion, not only business operations or interbank settlement.
+
 ## Key Claims
 - A payment claim becomes money-like when it can be reliably transferred, cleared, settled, and accepted by the next counterparty.
 - Correspondent banking shows that cross-border money is often a chain of bank relationships and account claims rather than physical value traveling point to point.
@@ -24,6 +26,7 @@ The episode uses cross-border remittance and correspondent-bank examples to show
 - Payment infrastructure affects monetary trust: a slow, expensive, or uncertain settlement route weakens the practical usefulness of a currency or claim.
 - Operator-built global payment networks try to improve clearing experience by joining local settlement access, licensing, bank partnerships, and real-time status visibility.
 - Agent payment adds a new attribution problem to clearing: the network must know whether a transaction followed the user's mandate and which party owns the error.
+- Pix adds that public clearing rails can compete with cash and bring users into formal finance while creating governance and trade-policy questions.
 
 ## Connections
 - [[MoneyAsFlow]] and [[EndogenousMoneyCreation]] - conceptual and credit-creation layers.
@@ -33,3 +36,4 @@ The episode uses cross-border remittance and correspondent-bank examples to show
 - [[CurrencyRisk]] - cross-border transfer and settlement can expose users to exchange-rate and timing risk.
 - [[Airwallex]], [[GlobalFinancialNetwork]], and [[MoneyMovementInfrastructure]] — operator and infrastructure branch added by the Airwallex source.
 - [[AgentPaymentInfrastructure]], [[AgentSpendControls]], [[Clink]], and [[Visa]] — agent-payment and consumer-protection extension added by What's Next S10E22.
+- [[Pix]], [[CentralBankOfBrazil]], [[PublicInstantPaymentRail]], and [[PaymentInfrastructureTradeDispute]] - Brazilian instant-payment branch added by The Intelligence.

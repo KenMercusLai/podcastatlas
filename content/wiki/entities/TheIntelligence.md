@@ -8,6 +8,8 @@ last_updated: 2026-08-08
 
 # The Intelligence
 
+[[working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]] adds another three-segment sequence: [[JonathanBousenthal]] on [[AgeAdjustedDementiaDecline]], [[ModifiableDementiaRiskFactors]], [[ShinglesVaccineDementiaSignal]], and [[AlzheimerDrugEfficacyGap]]; [[CarlaSugirana]] on [[Pix]], [[PublicInstantPaymentRail]], and [[PaymentInfrastructureTradeDispute]] in [[Brazil]]; and [[MyChemicalRomance]], [[GerardWay]], [[TheBlackParade]], [[WhenWeWereYoungFestival]], and [[VansWarpedTour]] as an [[EmoRevivalIdentityCulture]] case.
+
 [[brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]] adds another three-segment sequence: [[OzgurOzel]], [[NewPartyTurkey]], [[RepublicanPeoplesParty|CHP]], [[EkremImamoglu]], and [[JudicializedOppositionSuppression]] in the Turkey segment; [[JensSpahn]], [[FriedrichMerz]], [[Germany]], and [[SurrogacyPolicyHypocrisy]] in the Germany segment; and [[AIGraduateCareerUncertainty]], [[CareerAdviceSurvivorshipBias]], [[PassionTrapCareerAdvice]], [[UsefulWorkCareerCompounding]], and [[EightyThousandHours|80,000 Hours]] in the career segment.
 
 [[an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c]] adds the full [[ZannyMintonBeddoes]] interview with [[ElonMusk]] that underlies the earlier Musk segment. It expands the show branch into [[FrontierModelPeerReview]], [[UniversalHighIncome]], [[AIWorkOptionality]], [[AIFatalisticAcceleration]], [[PrivateInfrastructureWarPower]], and a sharper DOGE/[[USAID]] accountability dispute.
@@ -79,6 +81,7 @@ The Putin's options source adds another three-segment sequence: [[AndreyMelniche
 The Roaring trades source adds another three-segment sequence: [[BP]], [[Shell]], [[TotalEnergies]], [[ExxonMobil]], [[ADNOC]], and [[EnergyTradingScaleAdvantage]] as an oil-major trading case; [[UnitedStates]], [[OpenAI]], [[Anthropic]], [[AIExportControls]], [[FrontierModelAccessRestrictions]], and [[FrontierModelReleaseGovernance]] as a frontier-model release-control case; and [[HarryStyles]] plus [[ConcertResidencyEconomics]] as a live-music concentration and cultural-tourism case.
 
 ## Connections
+- [[AgeAdjustedDementiaDecline]], [[PaymentInfrastructureTradeDispute]], and [[EmoRevivalIdentityCulture]] - branches added by the Working memory episode.
 - [[TurkishOppositionRealignment]], [[SurrogacyPolicyHypocrisy]], and [[AIGraduateCareerUncertainty]] - Brave New whirl episode on Turkey, Germany, and Gen Z careers.
 - [[ExtremeWildfire]], [[WomenWorkplaceProgressStall]], and [[NighttimeEconomyGovernance]] - Burning questions episode on fire risk, workplace gender reversal, and nightlife mayors.
 - [[CockroachMovement]], [[EducationAccountabilityProtest]], [[DissentSpaceCompression]], [[AdvanceNewsTradingExperiment]], [[MarketExpectationGap]], and [[StreetArtGameLayer]] - cockroach-protest, trading, and street-art-game branches added by the Modi protest episode.

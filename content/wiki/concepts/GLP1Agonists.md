@@ -2,8 +2,8 @@
 title: "GLP-1 Agonists"
 type: concept
 tags: [healthcare, drugs, metabolism, weight-loss]
-sources: [156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7]
-last_updated: 2026-08-06
+sources: [156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]
+last_updated: 2026-08-08
 ---
 
 # GLP-1 Agonists
@@ -16,6 +16,8 @@ The source distinguishes the category's public popularity from the safety status
 
 [[156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup]] adds the execution and discontinuation layer. The episode says [[NovoNordisk|Novo Nordisk]]'s semaglutide sales disappointed expectations and cautious capacity expansion gave [[EliLilly|Eli Lilly]] room to gain share; it also notes that weight rebound after stopping treatment makes lifestyle change and continuation behavior part of the category's real-world value.
 
+[[working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]] adds a dementia-boundary note. The source says early studies have not helped people who already have dementia, while leaving open whether much earlier use could matter indirectly through obesity and related [[ModifiableDementiaRiskFactors]].
+
 ## Key Claims
 - GLP-1 awareness helps explain why injectable peptides became legible to non-specialists.
 - Demand for cheaper GLP-1-like effects can spill into unapproved supply channels.
@@ -24,6 +26,7 @@ The source distinguishes the category's public popularity from the safety status
 - Vol.117 adds that GLP-1s combine drug and consumer-product dynamics, so awareness, brand trust, sales execution, and side-effect tradeoffs can matter alongside efficacy.
 - The source's next-generation watch item is fat loss without excessive muscle loss.
 - Episode 156 adds that capacity, sales guidance, persistence of use, and discontinuation rebound are central to GLP-1 market interpretation.
+- The dementia source adds that negative early treatment results in established dementia do not settle whether earlier metabolic prevention could affect later risk.
 
 ## Connections
 - [[Ozempic]] - named product reference point in the episode.
@@ -33,3 +36,4 @@ The source distinguishes the category's public popularity from the safety status
 - [[EliLilly]] and [[NovoNordisk]] - large-pharma competition context added by vol.117.
 - [[FiniteGameBiotechCompetition]] - mature but high-value category competition.
 - [[BiotechBDDataValidationPhase]] - broader 2026 pharma execution context.
+- [[AlzheimerDrugEfficacyGap]], [[ModifiableDementiaRiskFactors]], and [[CardiovascularBrainHealthLink]] - dementia-prevention and treatment-boundary context added by The Intelligence.

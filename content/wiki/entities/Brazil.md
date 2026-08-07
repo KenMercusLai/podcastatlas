@@ -1,12 +1,14 @@
 ---
 title: "Brazil"
 type: entity
-tags: [country, latin-america, mining, industry, coffee, development]
-sources: [139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, the-little-pet-fish-that-saved-a-town-in-the-amazon, how-to-get-what-greenland-has-with-permission, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, the-giant-factory-town-that-might-be-a-giant-mistake]
-last_updated: 2026-08-06
+tags: [country, latin-america, mining, industry, coffee, development, payments]
+sources: [139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, the-little-pet-fish-that-saved-a-town-in-the-amazon, how-to-get-what-greenland-has-with-permission, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, the-giant-factory-town-that-might-be-a-giant-mistake, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]
+last_updated: 2026-08-08
 ---
 
 # Brazil
+
+[[working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]] adds Brazil as a digital public-infrastructure case through [[Pix]]. The episode says the [[CentralBankOfBrazil]] payment rail became a national-pride symbol, brought about 70 million people into formal finance, and then became part of a [[DonaldTrump]] tariff dispute where the discrimination claim against Pix is presented as weak.
 
 [[139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf]] adds a literary-exile layer through [[StefanZweig|Stefan Zweig / 茨威格]]. The source says Zweig eventually moved to Brazil and died there with his wife, turning Brazil into the final place in the episode's account of European cosmopolitan collapse and exile.
 
@@ -33,3 +35,4 @@ The source uses Brazil to show why the regional boom is not only about headline 
 - [[Manaus]], [[ZonaFrancaDeManaus]], [[MiddleIncomeTrap]], and [[PrematureDeindustrialization]] - development-economics branch added by Planet Money.
 - [[AdvancedAgricultureInnovation]], [[Tutiplast]], and [[BiodegradableAmazonPlastics]] - local innovation and productivity branch.
 - [[Greenland]], [[GracelandBaskaran]], and [[RareEarthProcessingBottleneck]] - rare-earth partner branch added by the Greenland episode.
+- [[Pix]], [[CentralBankOfBrazil]], [[PublicInstantPaymentRail]], and [[PaymentInfrastructureTradeDispute]] - payment-inclusion and tariff-dispute branch added by The Intelligence.

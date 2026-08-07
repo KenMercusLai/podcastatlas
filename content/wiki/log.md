@@ -7046,6 +7046,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-08] ingest | Working memory: the surprising decline of dementia
+
+Added source page for a The Intelligence episode on falling age-adjusted dementia rates, modifiable dementia risk factors, Pix as Brazilian public instant-payment infrastructure under Trump-era tariff pressure, and emo's stadium-scale revival. Created pages for Jonathan Bousenthal, Carla Sugirana, Pix, Central Bank of Brazil, My Chemical Romance, Gerard Way, The Black Parade, When We Were Young Festival, Vans Warped Tour, Wembley Stadium, Age-Adjusted Dementia Decline, Modifiable Dementia Risk Factors, Cardiovascular-Brain Health Link, Shingles Vaccine Dementia Signal, APOE4 Dementia Risk, Amyloid Hypothesis Uncertainty, Alzheimer Drug Efficacy Gap, Public Instant Payment Rail, Payment Infrastructure Trade Dispute, and Emo Revival Identity Culture; updated overview, index, The Intelligence, Economist Podcasts, Jason Palmer, Brazil, Donald Trump, Visa, Mastercard, Cognitive Decline Advance Planning, Public Health Invisibility, GLP-1 Agonists, Payment Clearing Network, Money Movement Infrastructure, Trade Reciprocity Protectionism, Concert Residency Economics, and Elder Care State Capacity. No direct contradiction found; the source qualifies dementia fatalism by separating total burden from age-adjusted risk, and qualifies tariff reciprocity claims by showing that Pix may pressure card networks without obvious foreign-firm discrimination.
+
 ## [2026-08-08] ingest | No.212 曾经的精神角落：豆瓣、知乎、贴吧、虎扑 | 中国互联网故事25
 
 Added source page for a Banlatte China-internet-history episode on Douban, Zhihu, Baidu Tieba, and Hupu as PC-era Chinese communities. Created pages for Zhihu, Baidu Tieba, Hupu, Abei, Zhou Yuan, Cheng Hang, Yang Bing, Dewu, Chinese PC Internet Communities, Online Community Commercialization Friction, Community vs Content Platform, Keyword Community Architecture, Mobile Community Fragmentation Risk, Knowledge Community Creator Incentives, and Forum Subculture Memory; updated overview, index, Douban, Baidu, Banlatte, ByteDance, Zhang Yiming, Xiaoyuzhou, platform community governance, user-powered content platform, generational technology bridge, and feature-phone cultural memory. No direct contradiction found; the source mainly qualifies platform-growth and commercialization stories by showing that relationship-heavy communities can become culturally durable while resisting the monetization and algorithmic-distribution logic that works better for content platforms.
@@ -7129,6 +7133,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] ingest | Advice Line with Chris Riccobono of UNTUCKit
 
 Added source page for a How I Built This Advice Line episode with Chris Riccobono of UNTUCKit on AeroShorts, Snug Safety, and Hockey Ninja. Created pages for Chris Riccobono, UNTUCKit, Greatness Wins, Aaron Sanandres, AeroShorts, Adrian Alvarez, Snug Safety, Preet Anand, Life Alert, Hockey Ninja, Derek (Hockey Ninja), Core Tribe Positioning, Wholesale As Marketing, Trust-Based Distribution, and Safety Product Credibility; updated overview, index, How I Built This, Guy Raz, AI Discovery SEO, Measured Channel Testing, Channel Focus Experiments, Subculture Led Marketing, Athlete Sponsorship Strategy, Trust As Business Asset, and Relationship-Led Growth. No direct contradiction found; the source reinforces that channel strategy has to match the buyer's trust behavior rather than defaulting to paid social or broad awareness.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-08] lint | Wiki health check
 

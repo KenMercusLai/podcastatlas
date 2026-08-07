@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Working memory: the surprising decline of dementia](sources/working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b.md) — The Intelligence episode on falling age-adjusted dementia rates, modifiable dementia risks, Pix as Brazilian instant-payment infrastructure under tariff pressure, and emo's stadium-scale revival.
 - [Advice Line with Chris Riccobono of UNTUCKit](sources/advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c.md) — How I Built This Advice Line episode with Chris Riccobono on UNTUCKit, Greatness Wins, AeroShorts, Snug Safety, Hockey Ninja, core-tribe positioning, wholesale as marketing, trust-based distribution, and safety-product credibility.
 - [175: 对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻](sources/duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1.md) — LateTalk episode with Evoken/Liblib founder Chen Mian on AI application survival, Lib TV pricing, model-provider pressure, cash-flow claims, creative-tool moats, and organization repair.
 - [Vol.268 两个劳斯莱斯](sources/vol-268-liang-ge-lao-si-lai-si-1003563933.md) — 商业就是这样 episode on Rolls-Royce's split between aircraft engines and cars, RB211 fixed-price engineering risk, the Lockheed L-1011 TriStar, British nationalization, Lockheed's bailout pressure, and the bribery scandal that reached Japan and the FCPA.
@@ -891,6 +892,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jonathan Bousenthal](entities/JonathanBousenthal.md) — The Intelligence speaker explaining age-adjusted dementia decline, prevention evidence, genetic risk, vaccines, and drug-development limits.
+- [Carla Sugirana](entities/CarlaSugirana.md) — The Intelligence speaker explaining Brazil's Pix payment system, financial inclusion, and the weak trade-discrimination case against it.
+- [Pix](entities/Pix.md) — Brazil's central-bank instant payment rail, used as a financial-inclusion and trade-dispute case.
+- [Central Bank of Brazil](entities/CentralBankOfBrazil.md) — Public institution behind Pix, showing how central-bank trust and bank coordination can make instant payments broadly adopted.
+- [My Chemical Romance](entities/MyChemicalRomance.md) — Emo band whose Black Parade anniversary stadium shows ground the episode's emo revival segment.
+- [Gerard Way](entities/GerardWay.md) — My Chemical Romance frontman whose theatrical political-satire staging helps frame emo's revival as performance culture.
+- [The Black Parade](entities/TheBlackParade.md) — My Chemical Romance album/tour anchor used by the source to make the emo comeback concrete.
+- [When We Were Young Festival](entities/WhenWeWereYoungFestival.md) — Las Vegas festival used as evidence that emo revival demand extends beyond one band.
+- [Vans Warped Tour](entities/VansWarpedTour.md) — Returning touring festival used as revival infrastructure for emo and punk-adjacent live demand.
+- [Wembley Stadium](entities/WembleyStadium.md) — Large London venue used as the episode's demand signal for My Chemical Romance's comeback.
 - [Chris Riccobono](entities/ChrisRiccobono.md) — UNTUCKit co-founder and Advice Line guest emphasizing focus, cash, channel fit, wholesale discovery, trust channels, and professional proof.
 - [UNTUCKit](entities/UNTUCKit.md) — Apparel brand built around shirts designed to be worn untucked, now used as a case for mature DTC pressure and wholesale expansion.
 - [Greatness Wins](entities/GreatnessWins.md) — Chris Riccobono sportswear brand using green-grass golf shops as both revenue channel and discovery surface.
@@ -6087,6 +6098,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Age-Adjusted Dementia Decline](concepts/AgeAdjustedDementiaDecline.md) — Distinction between rising total dementia burden and falling same-age dementia risk in rich countries.
+- [Modifiable Dementia Risk Factors](concepts/ModifiableDementiaRiskFactors.md) — Prevention frame connecting dementia risk to cardiovascular health, smoking, obesity, hearing loss, depression, education, and other practical interventions.
+- [Cardiovascular-Brain Health Link](concepts/CardiovascularBrainHealthLink.md) — Finnish public-health pattern linking heart-disease prevention to lower dementia risk.
+- [Shingles Vaccine Dementia Signal](concepts/ShinglesVaccineDementiaSignal.md) — Natural-experiment signal that shingles vaccination may reduce later dementia risk, warranting more prevention research.
+- [APOE4 Dementia Risk](concepts/APOE4DementiaRisk.md) — Genetic-risk frame showing APOE4 raises dementia risk without determining individual outcome.
+- [Amyloid Hypothesis Uncertainty](concepts/AmyloidHypothesisUncertainty.md) — Dementia mechanism caution around whether amyloid/protein tangles are cause, symptom, or part of a more complex process.
+- [Alzheimer Drug Efficacy Gap](concepts/AlzheimerDrugEfficacyGap.md) — Source's contrast between expensive Alzheimer drug development, modest cognition gains, and safety risks.
+- [Public Instant Payment Rail](concepts/PublicInstantPaymentRail.md) — Public payment infrastructure pattern exemplified by Pix's instant, low-cost, central-bank coordinated transfers.
+- [Payment Infrastructure Trade Dispute](concepts/PaymentInfrastructureTradeDispute.md) — Trade-policy frame for disputes over public digital payment systems where competition is not necessarily discrimination.
+- [Emo Revival Identity Culture](concepts/EmoRevivalIdentityCulture.md) — Revival pattern where nostalgia, theatrical live performance, and belonging sustain emo beyond its mid-2000s peak.
 - [Core Tribe Positioning](concepts/CoreTribePositioning.md) — Practice of defining the first customer community that clearly understands and validates a product before mainstream expansion.
 - [Wholesale As Marketing](concepts/WholesaleAsMarketing.md) — Channel pattern where third-party retail placement drives discovery, trust, and later owned-channel purchasing, not only immediate wholesale revenue.
 - [Trust-Based Distribution](concepts/TrustBasedDistribution.md) — Distribution pattern where products reach buyers through people, media, institutions, or communities that already carry credibility.

@@ -2,8 +2,8 @@
 title: "Money Movement Infrastructure"
 type: concept
 tags: [fintech, payments, infrastructure]
-sources: [11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, socialradarsseason2-dimitri-final, socialradarss2-billclerico-final, socialradarss2-stripe-v2, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
-last_updated: 2026-08-07
+sources: [11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, socialradarsseason2-dimitri-final, socialradarss2-billclerico-final, socialradarss2-stripe-v2, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]
+last_updated: 2026-08-08
 ---
 
 # Money Movement Infrastructure
@@ -22,6 +22,8 @@ The concept matters because payment movement is not just a button in a product. 
 
 [[tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]] adds [[GoCardless]] as a direct-debit access case. [[TomBlomfield]] says customer interest in the bank-payment access behind a bill-splitting idea pushed the company toward B2B direct-debit infrastructure, placing GoCardless between consumer payment UX and deeper bank-rail coordination.
 
+[[working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]] adds [[Pix]] as the public, household-facing version of money movement infrastructure. Instead of a startup API or enterprise finance stack, Pix uses central-bank coordination, phone access, QR codes, and mandatory bank participation to make instant transfers broadly available in [[Brazil]].
+
 ## Key Claims
 - Payment infrastructure becomes visible when manual bank portals, spreadsheets, statements, and team handoffs stop keeping up with transaction volume.
 - The user-facing payment action depends on bank connectivity, payment instructions, reconciliation, exception handling, and operational visibility.
@@ -32,6 +34,7 @@ The concept matters because payment movement is not just a button in a product. 
 - Direct-debit infrastructure can emerge when customers value reliable access to bank-payment rails more than the original consumer-facing payment product.
 - Episode 129 adds that payment infrastructure also shapes currency trust because transfer speed, finality, correspondent paths, and settlement risk affect whether a claim can circulate as money.
 - The Airwallex source adds that global business finance requires simultaneous local rails and product breadth: a payment network becomes more valuable when it also supports accounts, FX, cards, acquiring, yield, credit, and financial workflow integration.
+- The Pix source adds that consumer money movement can be public infrastructure when a central bank makes low-cost instant transfers available to a cash-heavy population.
 
 ## Connections
 - [[ModernTreasury]], [[DimitriDadiomov]], and [[LendingHome]] - source company, founder, and origin pain.
@@ -43,3 +46,4 @@ The concept matters because payment movement is not just a button in a product. 
 - [[FinancialOperationsResilience]] and [[AcceleratedBankRuns]] - resilience concepts connected to banking operations.
 - [[FedNow]] - payment-rail future discussed in the source.
 - [[PaymentClearingNetwork]], [[MoneyAsFlow]], [[EndogenousMoneyCreation]], and [[CurrencyCredit]] - macro monetary extension added by episode 129.
+- [[Pix]], [[CentralBankOfBrazil]], and [[PublicInstantPaymentRail]] - public instant-payment branch added by The Intelligence.

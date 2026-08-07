@@ -8,6 +8,8 @@ last_updated: 2026-08-08
 
 # Economist Podcasts
 
+[[working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]] adds another [[TheIntelligence]] sequence, spanning [[AgeAdjustedDementiaDecline]] and [[ModifiableDementiaRiskFactors]] in the dementia segment, [[Pix]] and [[PaymentInfrastructureTradeDispute]] in the Brazil payments segment, and [[EmoRevivalIdentityCulture]] through [[MyChemicalRomance]] and festival demand.
+
 [[brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]] adds another [[TheIntelligence]] sequence, spanning [[TurkishOppositionRealignment]] and [[JudicializedOppositionSuppression]] in [[Turkey]], [[SurrogacyPolicyHypocrisy]] and [[PoliticalDoubleStandardBacklash]] in [[Germany]], and [[AIGraduateCareerUncertainty]] plus [[UsefulWorkCareerCompounding]] in the Gen Z career-advice segment.
 
 [[an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c]] adds a standalone long-form [[TheIntelligence]] interview source, extending the Economist audio branch around [[ElonMusk]], AI, robots, [[SpaceX]], [[Starlink]], [[DepartmentOfGovernmentEfficiency|DOGE]], [[USAID]], and European political influence.
@@ -61,6 +63,7 @@ Economist Podcasts is the show metadata context for [[trailer-tocqueville-road-t
 The page is adjacent to [[TheIntelligence]], another Economist podcast context already tracked in the wiki. The new trailer links that media branch to [[UnitedStates]], [[AmericanDemocraticResilience]], [[AlexisDeTocqueville]], and [[DemocracyInAmerica]] through a series that asks whether Tocqueville's America still exists.
 
 ## Connections
+- [[AgeAdjustedDementiaDecline]], [[Pix]], and [[EmoRevivalIdentityCulture]] - branches added by the Working memory episode.
 - [[TurkishOppositionRealignment]], [[SurrogacyPolicyHypocrisy]], and [[AIGraduateCareerUncertainty]] - branches added by the Brave New whirl episode.
 - [[ExtremeWildfire]], [[WomenWorkplaceProgressStall]], and [[NighttimeEconomyGovernance]] - branches added by the Burning questions episode.
 - [[CockroachMovement]], [[AdvanceNewsTradingExperiment]], and [[StreetArtGameLayer]] - branches added by the cockroach-protest episode.
