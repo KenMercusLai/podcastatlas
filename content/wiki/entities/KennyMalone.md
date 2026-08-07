@@ -2,11 +2,13 @@
 title: "Kenny Malone"
 type: entity
 tags: [podcast-host, journalism, economics]
-sources: [the-laws-of-the-office-revisited, betty-boop-excel-olympics-penny-isms-our-2026-valentines, indicators-of-2025-and-what-to-watch-in-2026, can-the-trump-administration-make-college-cheaper, can-world-cup-mania-grow-mls-in-the-us, the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]
+sources: [20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer-20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer, the-laws-of-the-office-revisited, betty-boop-excel-olympics-penny-isms-our-2026-valentines, indicators-of-2025-and-what-to-watch-in-2026, can-the-trump-administration-make-college-cheaper, can-world-cup-mania-grow-mls-in-the-us, the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]
 last_updated: 2026-08-07
 ---
 
 # Kenny Malone
+
+[[20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer-20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer]] adds Malone as the [[PlanetMoney]] host introducing [[NPR]] [[EmbeddedPodcast|Embedded]]'s [[WeKeepUsSafe]] trailer. His role is a handoff: he tells listeners about the new series and lets the trailer frame [[CapitolHillOrganizedProtest|CHOP]], [[AntonioMaysJr|Antonio Mays Jr.]], and the question of how a protection-oriented protest space became the site of a fatal shooting.
 
 [[the-laws-of-the-office-revisited]] adds Malone as the host whose teenage grocery-cashier story makes [[GoodhartsLaw]] concrete. His "items scanned per minute" example shows how a public workplace metric can turn into [[WorkplaceMetricGaming]] when employees protect the number rather than the underlying service.
 
@@ -24,6 +26,7 @@ The episode uses Malone's hosting context to connect concrete club stories to la
 
 ## Connections
 - [[NPR]] and [[PlanetMoney]] - network and show context.
+- [[EmbeddedPodcast]], [[WeKeepUsSafe]], [[CapitolHillOrganizedProtest]], and [[AntonioMaysJr]] - investigative-series trailer branch introduced by Malone.
 - [[GoodhartsLaw]], [[WorkplaceMetricGaming]], and [[WorkplaceIncentiveDesign]] - office-incentive branch added by the new episode.
 - [[JenniferJenkins]], [[BettyBoop]], [[PublicDomainReuse]], [[RFIDCheckout]], [[CoinRetirementEconomics]], and [[ProcurementRecordsJournalism]] - Valentine-episode branch.
 - [[BeckySullivan]] - reporter and closing co-host for the episode.

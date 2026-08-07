@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-07] ingest | New NPR Series: "We Keep Us Safe" from the Embedded podcast
+
+Added source page for a Planet Money trailer handoff where Kenny Malone introduces NPR Embedded's We Keep Us Safe investigation into CHOP, the death of 16-year-old Antonio Mays Jr., armed protest-zone security, rumor, witnesses, new evidence, and the unresolved question of how a space built to protect Black life ended with a Black teenager dead. Created pages for Embedded podcast, We Keep Us Safe, Capitol Hill Organized Protest (CHOP), Antonio Mays Jr., Will James, Sydney Brounstone, The Seattle Times, KUOW, Police-Free Protest Space, Armed Protest-Zone Security, and Safety Ideal Fatal Contradiction; updated overview, index, NPR, Planet Money, Kenny Malone, and Black Lives Matter. No direct contradiction found; the trailer is kept source-scoped because it frames the investigation and evidence questions without resolving responsibility.
+
 ## [2026-08-07] ingest | 可以给你的 Agent 发一点零花钱了｜ S10E22
 
 Added source page for a What's Next｜科技早知道 episode with Patrick Wu of Clink and 高宁 on agent payment infrastructure, agentic commerce, small-budget agent wallets, Visa's demo, stablecoins, domestic payment ecosystems, merchant readiness, and content monetization in agent-led interfaces. Created pages for Clink, Patrick Wu, 高宁 / Gao Ning, Visa, Mastercard, Agent Payment Infrastructure, and Agent Spend Controls; updated overview, index, What's Next｜科技早知道, Agentic Commerce, Agentic Economy, Agent Permission Boundaries, Agent Identity And Authentication, Stablecoins, Stripe, and Payment Clearing Network. No direct contradiction found; the source reinforces existing agent-commerce and permission-boundary pages while adding a clearer payment split between user-confirmed shopping and autonomous small-budget agent spending.
@@ -6753,3 +6757,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes while the wiki scan found 9,600 pages; they found no hub stubs, three fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; a bounded in-session semantic review of the orphan and fragile-bridge pages found no direct contradictions. No lint report file was saved.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

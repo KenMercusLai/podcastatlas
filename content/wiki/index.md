@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [Uncanny AI: Why AI bots remember random, sometimes useless information](sources/tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128.md) — Marketplace Tech episode with Janelle Shane on chatbot memory, Claude's awkward callbacks, persistent memory files, salience failures, sensitive-topic overreach, and privacy/security controls.
 - [AI debt is flooding the bond market](sources/tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128.md) — Marketplace Tech episode with Julie Osk of Osk Advisory on AI data-center capex, corporate bond issuance by Amazon/Alphabet/Meta/Oracle/Nvidia/SpaceX, free-cash-flow pressure, interest-rate risk, bond-supply risk, and ROI scrutiny.
+- [New NPR Series: "We Keep Us Safe" from the Embedded podcast](sources/20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer-20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer.md) — Planet Money trailer introducing Embedded's We Keep Us Safe investigation into CHOP, Antonio Mays Jr.'s death, armed protest-zone security, and the contradiction between a safety ideal and a fatal outcome.
 - [AI firms are going back on their safety promises](sources/tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128.md) — Marketplace Tech episode with Sabina Nong of the Future of Life Institute on slipping AI lab safety grades, voluntary pause commitments, recursive self-improvement risk, tool AI, and state-level safety-framework regulation.
 - [173: 对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后](sources/173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1.md) — LateTalk interview with Yao Song on DeePhi Tech, Xilinx acquisition, Orienspace, Gravity-1, Striding AI, physical-intelligence system stacks, VLA bottlenecks, robot demo authenticity, and hard-tech founder risk calibration.
 - [可以给你的 Agent 发一点零花钱了｜ S10E22](sources/keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311.md) — What's Next episode with Patrick Wu of Clink and Gao Ning on agent payment infrastructure, agentic commerce, small-budget agent wallets, Visa's demo, stablecoins, merchant readiness, and creator monetization in agent-led interfaces.
@@ -845,6 +846,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Embedded podcast](entities/EmbeddedPodcast.md) — NPR investigative podcast launching We Keep Us Safe through a Planet Money trailer handoff.
+- [We Keep Us Safe](entities/WeKeepUsSafe.md) — Embedded investigative true-crime series on CHOP and the unresolved killing of Antonio Mays Jr.
+- [Capitol Hill Organized Protest (CHOP)](entities/CapitolHillOrganizedProtest.md) — Seattle protest zone framed by the trailer as a police-free community experiment that became the site of Antonio Mays Jr.'s death.
+- [Antonio Mays Jr.](entities/AntonioMaysJr.md) — 16-year-old whose death in the CHOP Jeep shooting is the central unresolved case in We Keep Us Safe.
+- [Will James](entities/WillJames.md) — Reporter named in the trailer as spending more than a year investigating Antonio Mays Jr.'s death.
+- [Sydney Brounstone](entities/SydneyBrounstone.md) — Reporter named in the trailer as co-investigating the CHOP shooting and new evidence.
+- [The Seattle Times](entities/TheSeattleTimes.md) — Local journalism partner named in the We Keep Us Safe trailer.
+- [KUOW](entities/KUOW.md) — Seattle public-radio partner named in the We Keep Us Safe trailer.
 - [Janelle Shane](entities/JanelleShane.md) — AI author and explainer describing chatbot memory files, awkward remembered details, and privacy risk on Marketplace Tech.
 - [Julie Osk](entities/JulieOsk.md) — Osk Advisory technology analyst explaining AI infrastructure bond issuance, free-cash-flow pressure, and ROI risk on Marketplace Tech.
 - [Osk Advisory](entities/OskAdvisory.md) — Advisory firm context for Julie Osk's Marketplace Tech analysis of AI infrastructure debt financing.
@@ -5765,6 +5774,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Police-Free Protest Space](concepts/PoliceFreeProtestSpace.md) — Protest-zone model where community safety is attempted without ordinary policing, added through the CHOP trailer.
+- [Armed Protest-Zone Security](concepts/ArmedProtestZoneSecurity.md) — Informal armed security response that can emerge inside a protest space under perceived threat.
+- [Safety Ideal Fatal Contradiction](concepts/SafetyIdealFatalContradiction.md) — Pattern where a space organized around protection produces a fatal outcome against someone it claimed to protect.
 - [Chatbot Memory Salience Failure](concepts/ChatbotMemorySalienceFailure.md) — Failure mode where a chatbot remembers a fact but misjudges its importance, sensitivity, timing, or conversational relevance.
 - [AI Lab Safety Report Cards](concepts/AILabSafetyReportCards.md) — External scorecard approach for comparing frontier AI labs' model testing, whistleblower policies, current harms, military posture, and safety commitments.
 - [Voluntary AI Safety Commitments](concepts/VoluntaryAISafetyCommitments.md) — Nonbinding AI-company safety promises whose credibility depends on specificity, independence, accountability, and resistance to competitive pressure.
