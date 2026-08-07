@@ -2,8 +2,8 @@
 title: "Premarket Food Safety Review"
 type: concept
 tags: [food-law, regulation, safety, precaution]
-sources: [the-sneaky-way-companies-get-new-chemicals-into-our-food]
-last_updated: 2026-07-18
+sources: [big-lettuce-meets-small-intestine, the-sneaky-way-companies-get-new-chemicals-into-our-food]
+last_updated: 2026-08-07
 ---
 
 # Premarket Food Safety Review
@@ -14,8 +14,11 @@ The concept is not presented as costless. The episode notes that stronger premar
 
 In the [[TaraFlour]] case, premarket review is the counterfactual: a regulator would have asked for safety evidence before [[DailyHarvest]] customers ate the product.
 
+[[big-lettuce-meets-small-intestine]] adds a raw-produce version of the same prevention instinct. For lettuce, the preventive system is not ingredient approval before sale; it is [[FoodSafetyModernizationAct]] farm rules, inspections, water standards, import verification, and better pathogen science before contaminated produce reaches restaurants or stores.
+
 ## Connections
 - [[FoodAdditiveRegulation]] - system where the review question arises.
 - [[FoodAndDrugAdministration]] - agency whose role would become more active.
 - [[SecretGRAS]] and [[GRASSelfCertification]] - pathways premarket review would constrain.
 - [[PostHarmFoodRegulation]] - reactive alternative.
+- [[FreshProduceSafetyRegulation]], [[FarmSafetyInspectionCapacity]], and [[ImportedProduceVerification]] - raw-produce prevention branch added by the Big Lettuce source.

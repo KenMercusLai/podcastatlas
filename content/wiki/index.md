@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Big Lettuce meets Small Intestine](sources/big-lettuce-meets-small-intestine.md) — Planet Money episode on Taylor Farms, bagged lettuce, cyclospora, the Food Safety Modernization Act, farm inspections, imported produce, and why raw-produce safety remains hard at national scale.
 - [Vol.266 一次性搞懂ETF](sources/vol-266-yi-ci-xing-gao-dong-etf-1002344828.md) — 商业就是这样 episode explaining ETFs from index funds, passive investing, creation-redemption, tax and stock-lending economics, wrapper expansion, and the 7709.HK two-times long SK Hynix leveraged ETF risk case.
 - [No.211 徽商往事：从前世不修到最牛风投](sources/no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189.md) — Banlatte episode connecting Huizhou merchants, Lianghuai salt permits, Jiang Chun, and lineage capital to modern Hefei industrial investment in USTC, Chery, BOE, ChangXin Memory, NIO, and new-energy vehicles.
 - [百万个景观社会：听说你也想当主播？](sources/baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy.md) — 面基 episode with 田峰 and 中国社科院 students on talent group livestreaming, guild industrialization, real-time data labor, platform compliance, social production of beauty, and fieldwork in Chengdu and Changsha livestream guilds.
@@ -853,6 +854,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Taylor Farms](entities/TaylorFarms.md) — Large U.S. salad processor used by the Big Lettuce episode to explain bagged-salad industrialization and contamination amplification.
+- [Bruce Taylor](entities/BruceTaylor.md) — Taylor Farms founder named as the 1995 origin point for the company's value-added salad-processing model.
+- [Salinas Valley](entities/SalinasValley.md) — California lettuce-growing region framed as the "salad bowl of the world" and linked to modern produce safety.
+- [Cyclospora](entities/Cyclospora.md) — Parasite behind the July 2026 lettuce outbreak framing, used to show unresolved foodborne pathogen uncertainty.
 - [Nathan Most](entities/NathanMost.md) — ETF pioneer associated with State Street, SPY, and the Vanguard rejection story; Vol.266 carries a source-scoped Nelson/Nathan naming discrepancy.
 - [SPY / SPDR S&P 500 ETF Trust](entities/SPY.md) — First-U.S.-ETF milestone and State Street S&P 500 product used to explain the ETF wrapper.
 - [VOO / Vanguard S&P 500 ETF](entities/VOO.md) — Vanguard S&P 500 ETF used by Vol.266 as the low-fee broad-index ETF scale case.
@@ -5844,6 +5849,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Food Safety Modernization Act](concepts/FoodSafetyModernizationAct.md) — 2010 U.S. law giving the FDA farm-inspection and produce-safety authority after major outbreaks.
+- [Bagged Salad Industrialization](concepts/BaggedSaladIndustrialization.md) — Shift from whole-head lettuce to chopped, mixed, packaged, capital-intensive salad processing.
+- [Produce Contamination Amplification](concepts/ProduceContaminationAmplification.md) — Supply-chain pattern where mixing and national distribution can turn a small raw-produce contamination event into a large outbreak.
+- [Fresh Produce Safety Regulation](concepts/FreshProduceSafetyRegulation.md) — Farm and processing safety system for raw fruits and vegetables under FDA produce-safety rules.
+- [Farm Safety Inspection Capacity](concepts/FarmSafetyInspectionCapacity.md) — State-capacity constraint around funding, staffing, inspection schedules, and delayed water-rule compliance.
+- [Imported Produce Verification](concepts/ImportedProduceVerification.md) — Oversight problem created when imported produce depends on foreign inspections and importer verification.
+- [Foodborne Pathogen Uncertainty](concepts/FoodbornePathogenUncertainty.md) — Scientific limit where transmission routes, hiding places, and testing methods remain unclear for pathogens such as cyclospora.
 - [Exchange-Traded Fund / ETF](concepts/ExchangeTradedFund.md) — Fund wrapper traded on an exchange, combining basket exposure with stock-like intraday trading and creation-redemption plumbing.
 - [ETF Creation-Redemption / ETF 申赎机制](concepts/ETFCreationRedemption.md) — Institutional mechanism where baskets of securities and ETF shares are exchanged to support supply, liquidity, and NAV arbitrage.
 - [ETF In-Kind Tax Deferral / ETF 实物申赎税务递延](concepts/ETFInKindTaxDeferral.md) — Vol.266 tax-economics branch for in-kind ETF exchanges and capital-gains deferral advantages.

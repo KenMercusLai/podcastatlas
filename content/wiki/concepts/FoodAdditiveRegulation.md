@@ -2,8 +2,8 @@
 title: "Food Additive Regulation"
 type: concept
 tags: [food-law, regulation, safety, consumer-protection]
-sources: [the-sneaky-way-companies-get-new-chemicals-into-our-food]
-last_updated: 2026-07-18
+sources: [big-lettuce-meets-small-intestine, the-sneaky-way-companies-get-new-chemicals-into-our-food]
+last_updated: 2026-08-07
 ---
 
 # Food Additive Regulation
@@ -13,6 +13,8 @@ Food additive regulation is the U.S. safety system examined in [[the-sneaky-way-
 The source traces the system to the 1958 Food Additives Amendment. That law required safety proof for new food additives, but it also created the generally recognized as safe exemption that later became [[GRASSelfCertification]] and, in some cases, [[SecretGRAS]].
 
 The concept sits next to [[DietarySupplementRegulation]] but is not identical to it. The supplement branch focuses on weak efficacy claims and label trust, while this source focuses on an ingredient that reached ordinary food and allegedly caused acute organ harm.
+
+[[big-lettuce-meets-small-intestine]] clarifies the boundary with [[FreshProduceSafetyRegulation]]. The lettuce case is not about a new additive entering food through [[GRASSelfCertification]]; it is about raw agricultural products, farm practices, water, manure, animal feces, processing scale, imports, and [[FoodbornePathogenUncertainty]].
 
 ## Key Claims
 - "Food additive" is broad enough to include preservatives, emulsifiers, dough softeners, flavorings, and some packaging substances.
@@ -26,3 +28,4 @@ The concept sits next to [[DietarySupplementRegulation]] but is not identical to
 - [[GRASSelfCertification]] and [[SecretGRAS]] - key pathways in the source.
 - [[DailyHarvest]] and [[TaraFlour]] - case grounding the concept.
 - [[PremarketFoodSafetyReview]], [[PostHarmFoodRegulation]], and [[ChronicFoodAdditiveRisk]] - adjacent regulatory-risk concepts.
+- [[FreshProduceSafetyRegulation]], [[ProduceContaminationAmplification]], and [[FoodSafetyModernizationAct]] - adjacent raw-produce safety branch added by the Big Lettuce source.

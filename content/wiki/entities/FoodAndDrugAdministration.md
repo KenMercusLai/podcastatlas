@@ -2,8 +2,8 @@
 title: "Food and Drug Administration"
 type: entity
 tags: [organization, regulator, healthcare, food, drugs]
-sources: [reeses-heir-vs-chocolate-skimpflation, 130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh, tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, a-trip-to-the-magic-mushroom-megachurch, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
-last_updated: 2026-08-06
+sources: [big-lettuce-meets-small-intestine, reeses-heir-vs-chocolate-skimpflation, 130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh, tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, a-trip-to-the-magic-mushroom-megachurch, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # Food and Drug Administration
@@ -26,6 +26,8 @@ The episode also uses the FDA in the [[Prevagen]] story. According to the source
 
 [[the-sneaky-way-companies-get-new-chemicals-into-our-food]] adds the direct food-additive version of the problem. The source says [[TaraFlour]] entered food through [[SecretGRAS]], so the FDA did not know the ingredient was in use until consumers became sick; the agency later banned tara flour, but the episode says it did not publicly declare that the ingredient caused the reported gallbladder and liver injuries.
 
+[[big-lettuce-meets-small-intestine]] adds the fresh-produce and farm-safety branch. The episode says the [[FoodSafetyModernizationAct]] gave the FDA authority to inspect farms and enforce rules on hygiene, water, compost, manure, and animal feces in fields, but [[FarmSafetyInspectionCapacity]], [[ImportedProduceVerification]], and [[FoodbornePathogenUncertainty]] still limit prevention.
+
 [[tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3]] adds the diagnostic-lab version through [[Theranos]]. [[TylerShultz|Tyler Shultz]] says the FDA and [[CentersForMedicareAndMedicaidServices|CMS]] inspected Theranos after the [[WallStreetJournal|Wall Street Journal]] reporting, and that regulatory scrutiny validated concerns about quality controls, patient samples, and lab practices that had not been addressed internally.
 
 [[tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3]] adds the positive medical-device version through [[NVisionMedical|nVision Medical]]. [[SurbhiSarna]] says the company received FDA clearances in 2015 and 2016 after prototype, bench, animal-tissue, and clinical-study work, making the FDA pathway part of [[MedicalDeviceClinicalValidation]] rather than only a post-harm or enforcement story.
@@ -41,6 +43,7 @@ The episode also uses the FDA in the [[Prevagen]] story. According to the source
 - [[Prevagen]] and [[NeuroShake]] - source case where FDA concerns did not quickly remove the product from the market.
 - [[FederalTradeCommission]] - advertising-enforcement agency that acts on a different part of the problem.
 - [[FoodAdditiveRegulation]], [[SecretGRAS]], [[PremarketFoodSafetyReview]], and [[PostHarmFoodRegulation]] - food-additive branch added by the tara-flour source.
+- [[FoodSafetyModernizationAct]], [[FreshProduceSafetyRegulation]], [[FarmSafetyInspectionCapacity]], [[ImportedProduceVerification]], and [[FoodbornePathogenUncertainty]] - fresh-produce farm-safety branch added by the Big Lettuce source.
 - [[CARTCellTherapy]], [[ExVivoCARTManufacturing]], and [[CytokineReleaseSyndrome]] - drug-review and safety-labeling context added by E235.
 - [[Theranos]], [[TylerShultz|Tyler Shultz]], [[CentersForMedicareAndMedicaidServices|CMS]], and [[MedicalTestingValidationIntegrity]] - diagnostic-lab inspection context added by The Social Radars.
 - [[NVisionMedical|nVision Medical]], [[SurbhiSarna]], [[FallopianTubeAccessDiagnostics]], and [[MedicalDeviceClinicalValidation]] - medical-device clearance context added by The Social Radars.

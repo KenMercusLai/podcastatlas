@@ -6841,3 +6841,11 @@ Added source page for a 商业就是这样 ETF explainer covering index-fund his
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | Big Lettuce meets Small Intestine
+
+Added source page for a Planet Money episode on Taylor Farms, bagged lettuce, cyclospora, the Food Safety Modernization Act, farm inspections, imported produce, and pathogen uncertainty. Created pages for Taylor Farms, Bruce Taylor, Salinas Valley, Cyclospora, Food Safety Modernization Act, Bagged Salad Industrialization, Produce Contamination Amplification, Fresh Produce Safety Regulation, Farm Safety Inspection Capacity, Imported Produce Verification, and Foodborne Pathogen Uncertainty; updated overview, index, Planet Money, NPR, Food and Drug Administration, Taco Bell, Mexico, Food Additive Regulation, Premarket Food Safety Review, and Post-Harm Food Regulation. No direct contradiction found; the current cyclospora attribution remains source-scoped to the July 22, 2026 recording.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
