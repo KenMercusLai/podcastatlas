@@ -2,8 +2,8 @@
 title: "Food Animal Welfare"
 type: concept
 tags: [animal-welfare, agriculture, food, ethics, consumer-products]
-sources: [66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
-last_updated: 2026-07-18
+sources: [ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, 66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
+last_updated: 2026-08-07
 ---
 
 # Food Animal Welfare
@@ -14,6 +14,8 @@ The concept extends the wiki's animal branch from [[CompanionAnimalHealth]] and 
 
 [[66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536]] adds a cross-cultural appetite version through [[SharkFinAndSichuanPepper|《鱼翅与花椒》]]. The episode accepts that cuisines differ in [[CulinaryGrammar]], [[FoodTextureAesthetics|口感]], and [[MarketFreshnessCulture]], but argues that rare-animal consumption, waste, and animal exploitation should not be excused by cultural pride or used as one-sided civilizational scoring.
 
+[[ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j]] adds [[FoieGras|鹅肝]] as a high-value-food version. The source says improved force-feeding technology, lower mortality, and calmer handling may reduce some brutal practices, while [[FoieGrasWelfareTradeoff]] keeps the core ethical problem open because the production goal is still an enlarged liver.
+
 ## Key Claims
 - Eating meat does not logically require indifference to preventable animal pain.
 - Welfare improvement can start with minimum viable changes: less rough handling, lower-stress slaughter, more adequate movement space, safer euthanasia tools, and better product information.
@@ -21,6 +23,7 @@ The concept extends the wiki's animal branch from [[CompanionAnimalHealth]] and 
 - The source argues for staged standards: China should not ignore welfare, but also should not pretend that the strictest high-income-country rules can be copied without cost and affordability consequences.
 - Bad evidence hurts welfare advocacy. False or exaggerated claims may create consumer guilt while making industry communication easier to dismiss.
 - Cross-cultural food criticism should apply animal-ethics standards in both directions rather than singling out only another cuisine's uncomfortable practices.
+- Welfare improvement can be real without making a contested product ethically unproblematic.
 
 ## Connections
 - [[176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]] - source episode.
@@ -31,3 +34,4 @@ The concept extends the wiki's animal branch from [[CompanionAnimalHealth]] and 
 - [[LivestockCareEconomics]] and [[AgriculturalSystemsReality]] - farm-system and cost-context frames.
 - [[AnimalWelfareAsPublicHealth]], [[AnimalAbuseViolenceLink]], and [[EmpathyCircleExpansion]] - broader animal-welfare and empathy frames.
 - [[SharkFinAndSichuanPepper|《鱼翅与花椒》]], [[FoodCulturalBias]], and [[MarketFreshnessCulture]] - episode 66's food-culture and animal-ethics comparison.
+- [[FoieGras]], [[FoieGrasWelfareTradeoff]], [[Guangxi]], and [[Anhui]] - foie gras welfare and production-region branch added by EP260.

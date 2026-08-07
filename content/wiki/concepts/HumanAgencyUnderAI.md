@@ -2,8 +2,8 @@
 title: "Human Agency Under AI"
 type: concept
 tags: [ai, agency, life-design, work]
-sources: [154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 174-du-dikaer-shi-jian-dashi-966856702, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-08-06
+sources: [ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 174-du-dikaer-shi-jian-dashi-966856702, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
+last_updated: 2026-08-07
 ---
 
 # Human Agency Under AI
@@ -11,6 +11,8 @@ last_updated: 2026-08-06
 Human agency under AI is the E163 [[Mianji]] claim that stronger AI execution pushes people back toward questions of intention, taste, values, and choice. In [[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]], the host starts with AI FoMO and a blank chat window, but the conversation with [[PingGe]] turns that anxiety into a more basic problem: what do I want to create, why does it matter, and what kind of person is giving the agent instructions?
 
 The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result is right for the situation; agency asks what deserves to be delegated in the first place. The episode argues that as "how" becomes easier through [[VibeCoding]], [[AISkills]], and [[AgenticWorkflow]], the scarce layer moves toward why, what, what if, taste, and trust delivery.
+
+[[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]] adds a philosophical and biological foundation through [[FreeWill|自由意志]]. [[TuMotuo|土摩托]] widens AI-era agency from "what should I delegate?" to the older question of whether meaningful choice survives [[CausalDeterminism|causal determinism]], social constraint, neuroscience, and embodied life. The source's answer is not pure control; it locates agency in meaningful action, [[BiologicalAgency|biological agency]], and [[EmbodiedIntelligence|embodied intelligence]].
 
 [[154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x]] adds the personal-answer version. [[DavidWeng|大卫翁]] worries that he is becoming too accustomed to asking AI and treating the answer as complete, which turns agency into a timing question: the user may need to think before prompting so the model supports judgment rather than replacing the process that forms it.
 
@@ -51,9 +53,12 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 - AI-era agency also depends on distinguishing calculation from an owned act of thinking.
 - Episode 132 adds that agency may start below usefulness: a person can preserve value by not causing harm, protecting health, and clarifying real desires before optimizing output.
 - Episode 154 adds that agency can be lost at the moment of first recourse: asking AI too early may skip the user's own forming of judgment.
+- Episode 256 adds that agency under AI inherits the older free-will problem: choices are causally constrained, but still matter when they organize meaning, responsibility, body, and action.
+- Future AI agency becomes a governance risk if systems gain their own goals and meanings rather than remaining delegated tools.
 
 ## Connections
 
+- [[FreeWill]], [[CausalDeterminism]], [[BiologicalAgency]], [[MeaningAsEvolvedFunction]], [[EmbodiedIntelligence]], and [[AIFreeWillRisk]] - episode 256's philosophical and biological agency branch.
 - [[ReneDescartes]], [[MethodicDoubt]], [[CogitoErgoSum]], and [[ComputingVersusThinking]] - episode 174's philosophical foundation for AI-era agency.
 - [[AutonomyUnderInformationFlow]], [[AIUsePacing]], and [[FeedCuration]] - episode 154's phone, feed, and AI-answer autonomy branch.
 - [[AIUsePacing]] — agency becomes practical only when users resist unlimited optimization and token consumption.

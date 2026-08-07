@@ -2,11 +2,13 @@
 title: "Communication Boundary Setting"
 type: concept
 tags: [communication, workplace, social, boundaries, trauma]
-sources: [18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]
-last_updated: 2026-07-24
+sources: [ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d, 18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]
+last_updated: 2026-08-07
 ---
 
 # Communication Boundary Setting
+
+[[ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d]] adds a women's self-permission version. The episode treats "忍一忍" as a learned habit of putting others' comfort before one's own feeling, while also recognizing that saying no requires identifying the issue and bearing consequences.
 
 [[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] adds an argument boundary: decide whether the goal is public evidence, personal persuasion, emotional release, or silence. The episode treats speaking as valuable when one has information, experience, or a witness audience, but treats restraint as kinder when a person lacks knowledge or would only add noise.
 
@@ -35,8 +37,10 @@ Communication boundary setting is the practice of choosing what to say, decline,
 - Negotiation turns a boundary into a structured exchange when the person can name interests, alternatives, and acceptable terms without escalating the conflict.
 - Dissent turns a boundary into a social act: the speaker must decide how much to challenge, when to speak, and how to keep the other person human without hiding the issue.
 - In extractive relationships, a short repeated boundary can work better than extended persuasion because long emotional debate may become more [[EmotionalEnergyExtraction|fuel]] for the pattern.
+- Episode 254 adds everyday bodily examples: asking for a bathroom stop, refusing medical observation, and declining improper work credit are all boundary acts.
 
 ## Connections
+- [[SelfPermission]], [[FemaleFriendshipRecognition]], [[GynecologicalExamDignity]], [[WenQi|文淇]], [[YouXiaoying|游晓颖]], and [[DuSujuan|杜素娟]] - episode 254's self-permission and refusal branch.
 - [[SocialSignalInterpretation]] — boundaries depend partly on understanding what situation one is in.
 - [[WorkplaceCommunicationRisk]] — workplace settings raise the cost of ambiguous jokes, favors, and public comments.
 - [[WorkplaceHiddenRules]] — office etiquette often encodes implicit boundaries around messages, social media, favors, and hierarchy.

@@ -2,11 +2,13 @@
 title: "Benjamin Netanyahu"
 type: entity
 tags: [person, politics, israel]
-sources: [a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
-last_updated: 2026-07-24
+sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
+last_updated: 2026-08-07
 ---
 
 # Benjamin Netanyahu
+
+[[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]] adds Netanyahu as an opportunistic wartime actor in the renewed [[Israel]]-[[Iran]] conflict. [[LiuYiSanlian|刘仪]] argues that Netanyahu historically avoided large military risks, but after October 7, mainstream Israeli support for military retaliation made war a lower-risk route for delaying accountability and pursuing a long-term goal of destroying Iran's strategic threat.
 
 [[a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55]] adds Netanyahu through [[LindseyGraham]]'s Middle East posture. The episode says Graham remained a consistent supporter of [[Israel]] and Netanyahu despite growing American criticism of Israel's conduct in Gaza.
 
@@ -22,3 +24,4 @@ The source treats Netanyahu less as a biographical subject than as a coalition o
 - [[NaftaliBennett]], [[YairLapid]], and [[GadiEisenkot]] - opposition figures in the source.
 - [[DonaldTrump]] - U.S. political context around Israel and the World Cup segment.
 - [[LindseyGraham]] and [[RepublicanForeignPolicyAdaptation]] - U.S. Republican support branch added by The Intelligence.
+- [[Iran]], [[DonaldTrump]], [[IranHorizontalEscalation]], and [[IranNuclearMissileBargaining]] - EP251 conflict and bargaining branch.

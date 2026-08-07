@@ -20,6 +20,8 @@ Domain expert alignment is the practice of bringing real subject-matter experts 
 
 [[socialradarsseason1-tracyyoung-final-1]] adds the pre-AI vertical SaaS version through [[PlanGrid]]. [[TracyYoung]] knew construction drawings from job-site work, but [[PlanGrid]] still needed software engineers to turn that expertise into a product; this mirrors later AI cases where domain knowledge and technical implementation have to be aligned rather than substituted for each other.
 
+[[ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd]] adds the education-pipeline version. The source's medicine and basic-science examples show why AI tools need doctors, hospital cases, expert calibration, chemists, physicists, mathematicians, and experimental feedback. A student who only knows AI may struggle to enter these domains, while a domain student who can learn AI can become more valuable in [[MedicalAIEducation]] and [[AIForScienceTalent]].
+
 ## Key Claims
 - Model researchers and engineers are not enough for every domain.
 - Coding needs software engineers who understand code quality, editing, tests, and developer workflows.
@@ -47,3 +49,4 @@ Domain expert alignment is the practice of bringing real subject-matter experts 
 - [[YinglingdianAI]], [[HaotianOdin]], [[AllModalMolecularWorldModel]], and [[AIDrugDiscoveryPlatform]] — molecular-biology platform version added by the Shizilukou Crossing source.
 - [[IntelligenceDevaluation]], [[AIEngineeringThinking]], and [[ProductLedWillingnessToPay]] — source branch where field know-how becomes the scarce layer after AI lowers production cost.
 - [[TracyYoung]], [[PlanGrid]], [[ConstructionBlueprintVersionControl]], and [[VerticalSaaSDomainExpertise]] - construction-software case where domain expertise and engineering capacity had to align.
+- [[MedicalAIEducation]], [[AIForScienceTalent]], [[TShapedAITalent]], and [[AIEraMajorChoice]] - EP266's education and talent-pipeline extension.

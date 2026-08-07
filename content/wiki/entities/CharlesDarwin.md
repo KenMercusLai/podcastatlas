@@ -2,8 +2,8 @@
 title: "Charles Darwin / 查尔斯·达尔文"
 type: entity
 tags: [person, science, natural-history, evolution]
-sources: [37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]
-last_updated: 2026-08-06
+sources: [ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, 37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]
+last_updated: 2026-08-07
 ---
 
 # Charles Darwin / 查尔斯·达尔文
@@ -18,11 +18,14 @@ In the episode, Darwin's earthworms are a counterweight to the more horrific med
 
 [[37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679]] adds Darwin as the boundary figure behind [[FrancisGalton|Francis Galton / 弗朗西斯·高尔顿]]'s hereditarian turn. The source says Darwin's evolutionary theory deeply affected Galton, while also distinguishing Darwin's caution from later [[SocialDarwinism|social Darwinist]] uses of evolution to justify class, race, intelligence, and reproductive hierarchy.
 
+[[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]] adds Darwin as the biological turn in the wiki's free-will branch. [[TuMotuo|土摩托]] uses evolutionary life science to move beyond a purely physical determinism frame, asking how living organisms develop [[BiologicalAgency|agency]], [[MeaningAsEvolvedFunction|meaning]], and body-grounded orientation toward action.
+
 ## Connections
 - [[68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]] - source episode.
 - [[97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]] - hay-fever source where Darwin encourages Blackley's work.
 - [[116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021]] - disobedience source that uses Darwin as a strategic dissent case.
 - [[37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679]] - intelligence-testing source that distinguishes Darwin from later social-Darwinist policy.
+- [[FreeWill]], [[BiologicalAgency]], and [[MeaningAsEvolvedFunction]] - EP256's biology-of-agency branch.
 - [[CharlesHarrisonBlackley]] - pollen self-experimenter noticed by Darwin in the source.
 - [[FrancisGalton]] and [[SocialDarwinism]] - episode 37's heredity and social-policy branch.
 - [[ObservationBeforeInference]] - method value of testing a small question.

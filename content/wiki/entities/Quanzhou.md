@@ -1,12 +1,14 @@
 ---
 title: "Quanzhou / 泉州"
 type: entity
-tags: [place, fujian, maritime-trade, world-heritage, folklore]
-sources: [112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918]
-last_updated: 2026-07-23
+tags: [place, fujian, maritime-trade, world-heritage, folklore, ritual, lineage]
+sources: [ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, 112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918]
+last_updated: 2026-08-07
 ---
 
 # Quanzhou / 泉州
+
+[[ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww]] adds a contemporary ritual-society branch around [[YongningAncientCity|永宁古城]]. The [[TalkSanlian|Talk三联]] episode shifts Quanzhou-region religious density from maritime heritage into living practice: deity processions, ancestor worship, lineage halls, [[Chenghuang|城隍]] temple committees, and local territorial categories become part of [[MinnanRitualNetwork|闽南仪式网络]].
 
 [[112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095]] adds Quanzhou as a background node for [[ManichaeismInChina|明教 / 摩尼教在中国]]. The [[MihuanChishu|蜜獾吃书]] episode points to Fujian and Quanzhou-region religious survivals to explain why [[JinYong|金庸]]'s 明教 and 日月神教 are not pure fantasy labels but draw on older religious traces that could be locally reinterpreted.
 
@@ -18,6 +20,7 @@ The source links Quanzhou's rise to limited farmland, shipbuilding, water-tight 
 
 ## Source Position
 - Quanzhou is treated as a port city whose religious density follows from maritime trade rather than as an isolated cultural curiosity.
+- EP249 adds that Quanzhou-region religious density is also a living social network: lineage halls, temple committees, deity routes, and ritual labor still shape local belonging.
 - The 2021 world-heritage framing gives the episode a physical archive: temples, mosques, tombs, inscriptions, port ruins, and ship remains make the trade system visible.
 - The city anchors the episode's broader claim that [[MinnanMaritimeCommercialCulture]] emerged from geography, institutional trade, risk, and migration.
 - In the Qixi source, Quanzhou functions as a plausible maritime contact zone for festival-object and ritual transmission.
@@ -30,3 +33,4 @@ The source links Quanzhou's rise to limited farmland, shipbuilding, water-tight 
 - [[ZhengZhilong]] and [[ZhengChenggong]] — later Minnan maritime power figures connected to the region.
 - [[Jinjiang]] and [[DiasporaCapitalManufacturingClusters]] — modern manufacturing continuity around the Quanzhou region.
 - [[QixiFestival|七夕 / Qixi]], [[QixiCrossCulturalTransmission]], and [[MaterialHistoryNarrative]] — festival-object transmission layer added by episode 152.
+- [[YongningAncientCity|永宁古城]], [[MinnanRitualNetwork]], [[JitongSpiritMedium]], [[RitualTourismAuthenticityTension]], and [[RitualSuccessionCrisis]] — living ritual branch added by EP249.

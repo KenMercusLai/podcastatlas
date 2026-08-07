@@ -2,11 +2,13 @@
 title: "Hezbollah"
 type: entity
 tags: [organization, geopolitics, security]
-sources: [missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]
-last_updated: 2026-07-08
+sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]
+last_updated: 2026-08-07
 ---
 
 # Hezbollah
+
+[[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]] adds Hezbollah to [[ResistanceAxisBackfire]]. [[LiuYiSanlian|刘仪]] presents Iran-linked influence in Lebanon and Syria as shifting over time from revolutionary appeal toward instrumental security cooperation, smuggling, private benefit, and survival networks, making Hezbollah relevant to [[Iran]]'s strategic backfire rather than only to Israel-Lebanon ceasefire enforcement.
 
 Hezbollah appears in [[missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]] as the armed movement whose capacity in southern [[Lebanon]] makes a Lebanon ceasefire clause difficult to trust. The episode says [[Israel]] argues that Hezbollah retains serious military capacity and that the Lebanese government cannot currently disarm it.
 
@@ -17,3 +19,4 @@ The source also cites an Israeli display of a large tunnel allegedly used to ass
 - [[Lebanon]] - territorial and governmental context for the ceasefire problem.
 - [[Iran]] - wider diplomatic context affected by the Hezbollah-Israel conflict.
 - [[ProxyConflictSpoilerRisk]] - concept that captures the episode's main geopolitical risk.
+- [[ResistanceAxisBackfire]] - EP251 frame for how proxy and allied networks can become liabilities for Iran.

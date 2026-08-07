@@ -2,8 +2,8 @@
 title: "Kenny Malone"
 type: entity
 tags: [podcast-host, journalism, economics]
-sources: [the-laws-of-the-office-revisited, betty-boop-excel-olympics-penny-isms-our-2026-valentines, indicators-of-2025-and-what-to-watch-in-2026, can-the-trump-administration-make-college-cheaper, can-world-cup-mania-grow-mls-in-the-us]
-last_updated: 2026-07-24
+sources: [the-laws-of-the-office-revisited, betty-boop-excel-olympics-penny-isms-our-2026-valentines, indicators-of-2025-and-what-to-watch-in-2026, can-the-trump-administration-make-college-cheaper, can-world-cup-mania-grow-mls-in-the-us, the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]
+last_updated: 2026-08-07
 ---
 
 # Kenny Malone
@@ -20,6 +20,8 @@ The episode uses Malone's hosting context to connect concrete club stories to la
 
 [[indicators-of-2025-and-what-to-watch-in-2026]] adds Malone as the participant pitching [[ConsumerSentimentIndicator]] for 2025. He argues that weak sentiment captures the year's anxiety about prices, inflation, jobs, housing, and the future, extending the wiki's [[AggregateIndicatorsLivedExperienceGap]] branch from economist trust into a year-end macro indicator.
 
+[[the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]] adds Malone as co-host translating [[ArinDube|Arin Dube]]'s labor-economics vocabulary through [[AlienFilm|Alien]] scenes. The episode places his hosting role inside the show's broader pattern of turning unusual source material into [[EconomicWayOfThinking]].
+
 ## Connections
 - [[NPR]] and [[PlanetMoney]] - network and show context.
 - [[GoodhartsLaw]], [[WorkplaceMetricGaming]], and [[WorkplaceIncentiveDesign]] - office-incentive branch added by the new episode.
@@ -28,3 +30,4 @@ The episode uses Malone's hosting context to connect concrete club stories to la
 - [[MajorLeagueSoccer]], [[FIFAWorldCup]], and [[SportsEntertainmentFlywheel]] - sports-business question framed by the episode.
 - [[CoreyTurner]], [[FederalStudentLoanCaps]], [[BennettHypothesis]], and [[LoanCapAccessRisk]] - student-loan policy branch added by the new Planet Money episode.
 - [[ConsumerSentimentIndicator]], [[UniversityOfMichigan]], and [[AggregateIndicatorsLivedExperienceGap]] - 2025 indicator branch added by the crossover source.
+- [[AlienFilm|Alien]], [[WeylandYutani]], [[LaborMonopsony]], and [[CompensatingDifferentials]] - labor-economics-by-film branch added by the Alien episode.

@@ -2,8 +2,8 @@
 title: "Urban Ecology"
 type: concept
 tags: [ecology, cities, nature]
-sources: [85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down]
-last_updated: 2026-08-06
+sources: [ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, 85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down]
+last_updated: 2026-08-07
 ---
 
 # Urban Ecology
@@ -22,6 +22,8 @@ The source's key urban-ecology move is to treat birds as indicators rather than 
 
 [[97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]] adds airborne pollen and vacant-land ecology. [[HayFeverEnvironmentalHistory]] makes city nature bodily noticeable through seasonal exposure, while [[RagweedEcologicalFeedback]] shows that disturbed lots and bare ground can become allergen infrastructure even when they look like unmanaged leftover space.
 
+[[ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv]] adds a pollinator-corridor version. The episode suggests that city parks, connected green areas, less-mown flowers, and even balcony plants can function as small habitat supports for bees and other pollinators when urban management leaves enough food and movement space.
+
 ## Key Claims
 - Cities contain many small habitats that become visible only through repeated observation.
 - "Central Park effect" describes how limited green space can concentrate birds inside dense built environments.
@@ -35,6 +37,7 @@ The source's key urban-ecology move is to treat birds as indicators rather than 
 - The ecological value of urban trees is not enough by itself; policy also has to address owner safety, replacement costs, and [[PermitProportionality]].
 - Urban allergen exposure is an ecological signal too: plant choice, vacant land, disturbance, mowing, and air filtration shape how city residents experience seasonal disease.
 - City-edge ecology includes informal human uses and community infrastructure, not only planned parks or official green space.
+- Urban pollinator support depends on connected flowering habitat and management choices, not only on decorative planting.
 
 ## Connections
 - [[BirdwatchingAsAttention]] - method for seeing the urban habitat layer.
@@ -47,3 +50,4 @@ The source's key urban-ecology move is to treat birds as indicators rather than 
 - [[UrbanCanopyExternalities]], [[TreeProtectionOrdinances]], and [[PropertyRightsCommunityObligations]] - private-tree regulation layer added by Planet Money.
 - [[HayFeverEnvironmentalHistory]], [[RagweedEcologicalFeedback]], [[AllergySourceControl]], and [[AirPurifier]] - pollen-allergy and indoor-refuge extension from episode 97.
 - [[UrbanEdgeNature]], [[CommunityFireflyProtection]], [[ChedunTown|车墩镇]], and [[CheDundunYeShiji|《车墩墩野事记》]] - episode 85's suburban wildlife and lighting branch.
+- [[WildPollinatorCrisis]], [[ConservationIntervention]], and [[NativeBeeEcologicalPollination]] - pollinator-corridor extension from EP261.

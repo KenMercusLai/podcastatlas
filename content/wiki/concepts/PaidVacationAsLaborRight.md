@@ -2,8 +2,8 @@
 title: "Paid Vacation As Labor Right"
 type: concept
 tags: [labor, vacation, public-policy, workplace]
-sources: [why-the-us-has-no-guaranteed-paid-vacation]
-last_updated: 2026-07-18
+sources: [ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb, why-the-us-has-no-guaranteed-paid-vacation, the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]
+last_updated: 2026-08-07
 ---
 
 # Paid Vacation As Labor Right
@@ -12,6 +12,10 @@ Paid vacation as labor right is the idea that workers should receive paid time o
 
 The episode distinguishes the right from mere availability. Some U.S. workers receive vacation but do not use it because of workplace guilt, while many lower-wage workers receive none. That makes the issue both legal and cultural: a formal right changes the bargaining baseline, but [[LaborMoralAmbivalence]] can still shape whether people feel entitled to rest.
 
+[[ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb]] adds the use-side version through [[VacationShame|休假羞耻感]]. The source is not about U.S. law, but it shows why a vacation right or annual-leave baseline is incomplete unless coworkers, bosses, and the worker's own internalized pressure let the time become unavailable to work.
+
+[[the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]] adds a brief cross-country comparison through [[FedeAlvarez]]. His comments about [[Uruguay]]'s vacation, healthcare, and severance protections make paid vacation part of the broader contrast between baseline labor rights and [[EmployerBargainedBenefits]].
+
 ## Key Claims
 - A legal vacation guarantee changes paid time off from discretionary compensation into a baseline labor standard.
 - The [[UnitedStates]] is presented as an outlier because it guarantees no paid vacation or paid holidays by federal law.
@@ -19,9 +23,13 @@ The episode distinguishes the right from mere availability. Some U.S. workers re
 - Culture matters, but the episode argues it cannot explain the post-1979 divergence in annual work hours by itself.
 - If vacation is not guaranteed, it competes with wages, pensions, and health insurance inside [[EmployerBargainedBenefits]].
 - Public discussion and boss behavior can matter because workers may need permission signals before treating vacation as earned compensation.
+- EP265 adds that even available leave can fail as rest when the workplace treats vacation as contactable time or when the worker has internalized guilt around stopping.
+- The Alien episode adds that differences in national labor institutions can shape how filmmakers and workers perceive [[UnitedStates|U.S.]] workplace insecurity.
 
 ## Connections
 - [[AdewaleMaie]], [[GaryCross]], [[DanielHamermesh]], and [[TomCohen]] - observation, history, economic critique, and institutional explanation.
 - [[UnitedStates]], [[Spain]], [[PlanetMoney]], and [[NPR]] - comparison and source context.
 - [[EmployerBargainedBenefits]] - alternative institutional design that helps explain the U.S. gap.
 - [[LaborMoralAmbivalence]] - cultural discomfort with leisure and idleness.
+- [[VacationShame]], [[WorkRestBoundary]], and [[LongVacationRecovery]] - EP265's vacation-use and rest-practice extension.
+- [[FedeAlvarez]], [[Uruguay]], and [[LaborMarketCounterforces]] - labor-institution comparison added by the Alien episode.

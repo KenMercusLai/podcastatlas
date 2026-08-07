@@ -2,11 +2,13 @@
 title: "Chokepoint Shipping Confidence"
 type: concept
 tags: [geopolitics, shipping, energy, risk]
-sources: [how-to-get-through-the-strait-of-hormuz, the-secret-meeting-that-launched-opec, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
-last_updated: 2026-07-24
+sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, how-to-get-through-the-strait-of-hormuz, the-secret-meeting-that-launched-opec, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
+last_updated: 2026-08-07
 ---
 
 # Chokepoint Shipping Confidence
+
+[[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]] adds the insurance-premium transmission layer. In [[LiuYiSanlian|刘仪]]'s account, a threat to the [[StraitOfHormuz]] first scares insurers and shipowners: refusal to insure or severalfold premium increases can slow trade and raise energy costs even before a full closure occurs.
 
 [[how-to-get-through-the-strait-of-hormuz]] adds the cargo-owner and tolling layer. The [[PlanetMoney]] episode starts with [[ChristianStClair]] thinking [[FantagraphicsBooks]] cargo is stranded on [[OneMajesty]], then moves to [[HamidHosseini]]'s source-attributed account of permission checks and an alleged crypto-paid oil toll. The episode shows that confidence can fail through information uncertainty, payment uncertainty, insurance exposure, and fear that passage is becoming discretionary.
 
@@ -31,3 +33,4 @@ The concept matters because formal deal language can fail at the operational lay
 - [[GulfStabilityRisk]] - regional confidence effect of unresolved passage risk.
 - [[OPEC]], [[UnitedArabEmirates|United Arab Emirates]], [[KateDurian]], and [[OilProducerSupplyCoordination]] - oil-producer extension added by Planet Money.
 - [[ChristianStClair]], [[FantagraphicsBooks]], [[OneMajesty]], [[MaritimeChokepointTolling]], [[GeneralAverage]], and [[FreedomOfNavigationTradeOrder]] - Planet Money cargo-owner and free-navigation extension.
+- [[IranHorizontalEscalation]] - EP251 frame for using insurance and energy-market fear as war leverage.

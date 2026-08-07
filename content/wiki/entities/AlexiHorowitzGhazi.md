@@ -2,8 +2,8 @@
 title: "Alexi Horowitz-Ghazi"
 type: entity
 tags: [person, journalism, podcast]
-sources: [the-laws-of-the-office-revisited, betty-boop-excel-olympics-penny-isms-our-2026-valentines, theres-no-business-like-dough-business, bookstore-economics]
-last_updated: 2026-07-24
+sources: [our-book-vs-the-global-supply-chain, the-laws-of-the-office-revisited, betty-boop-excel-olympics-penny-isms-our-2026-valentines, theres-no-business-like-dough-business, bookstore-economics]
+last_updated: 2026-08-07
 ---
 
 # Alexi Horowitz-Ghazi
@@ -18,6 +18,8 @@ His role is to connect the abstract economics of impulse purchases with field re
 
 [[bookstore-economics]] adds Horowitz-Ghazi as the reporter following the [[PlanetMoneyBook]] from bookstore buying to launch day. His visit to [[CarmichaelsBookstore|Carmichael's Bookstore]] is not neutral in the story: [[FisherNash]] says the reporting visit itself increased expected local demand, making the episode a reflexive case in how media attention can affect [[BookstoreBuying]].
 
+[[our-book-vs-the-global-supply-chain]] adds Horowitz-Ghazi as the reporter following the same book into physical manufacturing. His visits and interviews connect [[WWNorton|W. W. Norton]] production decisions to the factory-floor process at [[LakesideBookCompany]], making [[BookManufacturingSupplyChain]] part of the Planet Money book arc.
+
 ## Connections
 - [[PlanetMoney]] - show context.
 - [[ParkinsonsLaw]] and [[WorkplaceIncentiveDesign]] - deadline and constraint branch added by the new episode.
@@ -27,3 +29,4 @@ His role is to connect the abstract economics of impulse purchases with field re
 - [[ImpulseRetailClustering]] and [[SharedKitchenSatelliteRetail]] - concepts surfaced by the reporting.
 - [[FisherNash]], [[CarmichaelsBookstore|Carmichael's Bookstore]], [[StephenPace]], [[WWNorton|W. W. Norton]], and [[PlanetMoneyBook]] - reporting subjects in the bookstore economics source.
 - [[BookstoreBuying]], [[BookReturnability]], [[BookPrintRunStrategy]], and [[RetailShelfPlacement]] - publishing and retail concepts surfaced by the reporting.
+- [[JuliaDruskin]], [[TomMayer]], [[AlexGoldmark]], [[AlexMaiassi]], [[MitoHabeEvans]], [[LakesideBookCompany]], [[BookManufacturingSupplyChain]], [[BookPrinterSelectionRisk]], and [[DomesticBookPrintingFlexibility]] - manufacturing subjects and concepts surfaced by the reporting.

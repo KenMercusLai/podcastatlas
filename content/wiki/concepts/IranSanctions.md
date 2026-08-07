@@ -2,8 +2,8 @@
 title: "Iran Sanctions"
 type: concept
 tags: [sanctions, iran, foreign-policy, economics]
-sources: [how-to-get-through-the-strait-of-hormuz, iran-protests-and-sanctions]
-last_updated: 2026-07-24
+sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, how-to-get-through-the-strait-of-hormuz, iran-protests-and-sanctions]
+last_updated: 2026-08-07
 ---
 
 # Iran Sanctions
@@ -13,6 +13,8 @@ Iran sanctions are the long-running U.S. and international restrictions on trade
 The source's main claim is double-edged. Sanctions helped bring [[Iran]] toward the 2015 nuclear deal inside [[USIranNuclearDiplomacy]], but they also produced inflation, currency collapse, reduced purchasing power, private-sector fear, and civilian hardship. Their effects were not evenly distributed: ordinary people faced broad economic pain while insiders such as the [[IslamicRevolutionaryGuardCorps]] could gain from reduced international competition.
 
 [[how-to-get-through-the-strait-of-hormuz]] adds a maritime-payment extension. [[HamidHosseini]] says a ship paid an alleged [[StraitOfHormuz]] toll in crypto, making [[SanctionsEvasionCryptoPayments]] a practical workaround pattern when [[DollarFinancialSanctions]] make ordinary payment rails risky.
+
+[[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]] adds the post-shock legitimacy layer. The source says sanctions, currency pressure, and fiscal collapse make it harder for [[Iran]]'s leadership to admit that nuclear investment and the [[ResistanceAxisBackfire|resistance-axis strategy]] failed, because doing so would weaken the remaining justification for decades of sacrifice.
 
 ## Key Claims
 - Sanctions work best when demands are clear, narrow, and credible, but Iran is a difficult case because the policy lasted across decades and changing administrations.
@@ -27,3 +29,4 @@ The source's main claim is double-edged. Sanctions helped bring [[Iran]] toward 
 - [[RevolutionaryEconomicSelfReliance]], [[DollarFinancialSanctions]], [[SanctionsOvercompliance]], [[EconomicSanctionsAsViolence]], and [[SanctionsInsiderConsolidation]] - sub-concepts created by the source.
 - [[USIranNuclearDiplomacy]], [[IranPostwarEconomicRelief]], and [[StablecoinSanctionsEvasion]] - adjacent wiki branches on Iran-related sanctions and bargaining.
 - [[SanctionsEvasionCryptoPayments]], [[MaritimeChokepointTolling]], and [[VirtualAssetAMLRisk]] - alleged crypto-paid toll branch added by Planet Money.
+- [[IranNuclearMissileBargaining]], [[ResistanceAxisBackfire]], and [[RegimeBasicBaseStabilization]] - EP251's sanctions-era legitimacy and regime-maintenance branch.

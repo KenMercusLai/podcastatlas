@@ -2,11 +2,13 @@
 title: "Anta Sports / 安踏"
 type: entity
 tags: [company, apparel, sportswear, consumer, china]
-sources: [vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
-last_updated: 2026-08-06
+sources: [ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
+last_updated: 2026-08-07
 ---
 
 # Anta Sports / 安踏
+
+[[ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw]] adds Anta as the successful Chinese footwear-brand comparison behind the [[WoteShoes|沃特鞋企]] case. [[WeiQianSanlian|魏茜]] uses the older Jinjiang-style advertising, celebrity endorsement, and listing path to explain why a Putian company that missed the same growth route now faces a different brand, e-commerce, and IP competition environment.
 
 Anta Sports / 安踏 appears in [[vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]] as a consumer-brand and operating-system case. [[DavidWeng|大卫翁]] contrasts it with the older image of a Jinjiang shoe company, emphasizing that Anta has become a multi-brand sportswear group with both franchise and direct-retail capabilities.
 
@@ -19,6 +21,7 @@ The source's Anta point is that consumer companies can build [[ConsumerBrandMoat
 - Anta sits between [[CompressedCorporateEvolution]] and [[ThreeLayerScaleEconomies]]: it grows through brand acquisition, channel learning, and domestic operating scale.
 
 ## Connections
+- [[WoteShoes]], [[Putian]], [[ManufacturingSalesShift]], and [[ConsumerBrandMoat]] - EP255 footwear-brand comparison.
 - [[ConsumerBrandMoat]] and [[BusinessMoat]] - brand durability and operating quality.
 - [[FranchiseLedConsumerChainExpansion]] - adjacent chain-expansion logic also relevant to [[MixueBingcheng]].
 - [[CompressedCorporateEvolution]] - rapid maturation of Chinese private companies.

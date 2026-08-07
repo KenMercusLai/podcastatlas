@@ -8,6 +8,8 @@ last_updated: 2026-08-07
 
 # Donald Trump
 
+[[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]] adds Trump as a renewed [[Iran]] war decision-maker in a [[TalkSanlian|Talk三联]] analysis. [[LiuYiSanlian|刘仪]] argues that [[BenjaminNetanyahu]]'s promise to reduce future direct U.S. military aid could make support for Israel look like a low-cost path to regime collapse in Iran and a reshaped Middle East. The source therefore extends Trump's Iran branch from sanctions reversal and ceasefire collapse into [[IranNuclearMissileBargaining]] and a possible short-war victory narrative.
+
 [[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] adds Trump through a source-scoped [[RichardWhitney]]-style silhouette around authority and private benefit. The episode groups the Trump family with other current-cycle watchlist examples to ask how political power, business upside, and reduced public challenge may look during a boom; it does not add a new settled allegation beyond the wiki's existing [[PoliticalInfluenceMonetization]] and [[OfficeLinkedProfitAccounting]] branches.
 
 [[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] adds Trump as an [[Iran]] war and market-policy variable. [[DavidWeng|大卫翁]] cites [[FrancisFukuyama|Francis Fukuyama]] to argue that Trump did not clearly define the strike objective, so a unilateral "historic victory" narrative might matter as much as a military endpoint. The same source also treats Trump-era [[FederalReserve]] succession and midterm politics as possible constraints on how markets price inflation, cuts, and liquidity.
@@ -218,4 +220,5 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 - [[LindseyGraham]], [[RepublicanForeignPolicyAdaptation]], [[Ukraine]], [[Iran]], and [[Israel]] - hawkish Republican adaptation branch added by The Intelligence.
 - [[ChinaShock]], [[TradeReciprocityProtectionism]], [[BlanketTariffLimit]], [[TradeAdjustmentAssistance]], and [[StrategicIndustrialPolicy]] - tariff-restoration and trade-adjustment branch added by Planet Money.
 - [[EffectiveTariffRateShock]], [[FederalFundsRateAsPolicySignal]], [[KShapedConsumerSpending]], [[Costco]], [[SupremeCourt]], and [[RBC]] - 2025-2026 economic-indicator branch added by the crossover source.
+- [[LiuYiSanlian]], [[IranNuclearMissileBargaining]], [[IranHorizontalEscalation]], and [[BenjaminNetanyahu]] - EP251's Iran-war and short-war-narrative branch.
 - [[KevinWarsh]], [[CentralBankIndependence]], [[GoldMonetaryAnchor]], [[CurrencyAnchorTransition]], and [[LiquidityDrivenVolatilityCascade]] - episode 155 Fed-succession and gold-market branch.

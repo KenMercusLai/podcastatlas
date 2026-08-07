@@ -22,6 +22,8 @@ This makes AI shortcut risk an education-specific version of [[AIUsePacing]], [[
 
 [[e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4]] complicates the risk with heavy-user testimony. The guests say AI helped them learn faster and earn better grades, but they also describe no-AI writing or coding as painful, and the host's younger-student anecdote rejects the AI-free premise altogether. The risk therefore shifts from simple "AI use equals shortcut" to whether students have enough foundation, verification, and [[HumanJudgmentUnderAI]] to remain active inside [[AIDefaultLearningEnvironment]].
 
+[[ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd]] adds the [[AIHollowingFoundationalTraining]] version. Fudan software teachers worry that students can use AI to finish early coding homework before they have built the basic skill those tasks were designed to form. The source's response is not tool prohibition but harder task design, process assessment, and assignments where students must expose AI mistakes, architecture decisions, and iteration history.
+
 ## Key Claims
 - Faster answer access is not the same as faster learning.
 - Students need enough friction to practice reasoning, but not so much repeated failure that they give up.
@@ -44,3 +46,4 @@ This makes AI shortcut risk an education-specific version of [[AIUsePacing]], [[
 - [[SteveShaw]], [[WhartonSchool]], [[CognitiveSurrender]], and [[ArtificialCognition]] - Marketplace Tech's lab-decision and system-three extension.
 - [[ChristyGerdhary]], [[AIWritingPedagogy]], [[TransparentAIUse]], and [[AIDetectorBias]] - Marketplace Tech's writing-class and detector-fairness extension.
 - [[AIDefaultLearningEnvironment]], [[AIUniversityAssessmentReform]], and [[DegreeAsTrustCredential]] - university assessment and credential stakes added by E236.
+- [[AIHollowingFoundationalTraining]], [[NewEngineeringEducation]], and [[MedicalAIEducation]] - EP266's foundation and process-assessment extension.

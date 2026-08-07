@@ -10,6 +10,8 @@ last_updated: 2026-08-06
 
 AI for Science is one of the episode's proposed ways to avoid direct competition with foundation-model bulldozers. The host lists areas such as chip design, material discovery, mining, mathematics, and quantum-computer design as examples of higher-complexity work with deeper industry know-how.
 
+[[ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd]] adds the higher-education and talent-pipeline version through [[AIForScienceTalent]]. [[LiXiaojie|李小杰]] argues that basic science may become more important, not less, when AI enters discovery: chemistry, physics, mathematics, theory, computation, and experimental understanding are the foundation that lets students use AI in semiconductors, batteries, pharma, materials, and research institutes.
+
 [[na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr]] adds [[HuangBiwei]]'s causal view: scientific domains such as biopharma, new materials, astronomy, and physical-world discovery are less forgiving than language and code because they require deeper causal understanding under changing conditions.
 
 [[ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh]] adds the concrete materials version through [[LuZiheng]] and [[Kaiwuji]]. It turns AI for Science into [[AIMaterialsDiscovery]]: AI-generated candidates still have to pass synthesizability, property, experiment, kilogram-scale, customer, and commercialization tests before they count as useful scientific progress.
@@ -51,3 +53,4 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 - [[YinglingdianAI]], [[HaotianOdin]], [[AllModalMolecularWorldModel]], [[AIDrugDiscoveryPlatform]], and [[ScientificDiscoveryAutomation]] — molecular-biology platform branch added by the Shizilukou Crossing source.
 - [[DemisHassabis]], [[DeepMind]], [[AlphaFold]], [[JohnJumper]], and [[ScientificIdealVsAIArmsRace]] — DeepMind founder-history and protein-structure proof point added by Silicon Valley 101.
 - [[XiaoPTeacher]], [[AIDrugDiscoveryPlatform]], and [[AIClinicalValidationInDrugDiscovery]] — biotech-industry validation check added by Qizhulou vol.117.
+- [[AIForScienceTalent]], [[TShapedAITalent]], [[TianjinUniversity]], and [[AIEraMajorChoice]] — EP266's education and basic-science talent branch.

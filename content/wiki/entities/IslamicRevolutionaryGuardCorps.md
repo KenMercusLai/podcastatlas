@@ -2,11 +2,13 @@
 title: "Islamic Revolutionary Guard Corps"
 type: entity
 tags: [organization, iran, sanctions, security]
-sources: [tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, how-to-get-through-the-strait-of-hormuz, iran-protests-and-sanctions, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, how-to-get-through-the-strait-of-hormuz, iran-protests-and-sanctions, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # Islamic Revolutionary Guard Corps
+
+[[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]] adds the IRGC as Iran's wartime continuity layer after high-level attacks. [[LiuYiSanlian|刘仪]] argues that after 2025 the alliance between IRGC leadership and technocratic officials had become the practical decision core, and that in the renewed war replacement commanders, prepared plans, and shorter command chains let smaller drone and missile actions continue despite leadership losses.
 
 [[how-to-get-through-the-strait-of-hormuz]] adds a maritime passage-control branch. [[HamidHosseini]] says an Indian ship owner contacted the [[SepahNavy]], identified by the source as part of the IRGC, to request [[StraitOfHormuz]] passage and later paid an alleged crypto toll. The claim remains tied to Hosseini's account because the episode does not independently verify the underlying contacts.
 
@@ -30,3 +32,4 @@ In the wiki, the organization connects the [[Iran]] branch to both [[StablecoinS
 - [[IranSanctions]], [[EconomicSanctionsAsViolence]], and [[SanctionsInsiderConsolidation]] - sanctions political-economy frame added by Planet Money.
 - [[SepahNavy]], [[StraitOfHormuz]], [[MaritimeChokepointTolling]], and [[SanctionsEvasionCryptoPayments]] - passage-control and alleged crypto-toll branch added by Planet Money.
 - [[DualUseTechInfrastructureTargeting]], [[DigitalInfrastructureWarRisk]], [[AmazonWebServices|AWS]], and [[Palantir]] - physical tech-infrastructure threat branch added by Marketplace Tech.
+- [[ResistanceAxisBackfire]], [[IranHorizontalEscalation]], and [[RegimeBasicBaseStabilization]] - EP251's proxy-network, command-continuity, and regime-base branch.

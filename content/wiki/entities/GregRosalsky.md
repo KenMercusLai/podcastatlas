@@ -2,8 +2,8 @@
 title: "Greg Rosalsky"
 type: entity
 tags: [person, journalist, economics, podcast]
-sources: [spirit-airlines-and-the-future-of-cheap-flights, indicators-of-2025-and-what-to-watch-in-2026, why-economists-got-free-trade-with-china-so-wrong]
-last_updated: 2026-07-24
+sources: [spirit-airlines-and-the-future-of-cheap-flights, indicators-of-2025-and-what-to-watch-in-2026, why-economists-got-free-trade-with-china-so-wrong, the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]
+last_updated: 2026-08-07
 ---
 
 # Greg Rosalsky
@@ -16,6 +16,8 @@ Rosalsky's role is to translate a technical labor-economics debate into a public
 
 [[spirit-airlines-and-the-future-of-cheap-flights]] adds Rosalsky as the analyst explaining the decline side of [[SpiritAirlines|Spirit Airlines]]. His "revenge of the legacy carriers" frame connects [[BasicEconomyCopycatStrategy]], [[AirlineLoyaltyProgramMoat]], and [[BudgetAirlineCostSqueeze]] into one account of why a once-disruptive low-fare model became fragile.
 
+[[the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]] adds Rosalsky as co-host of the [[AlienFilm|Alien]] labor-economics episode and as the newsletter writer whose earlier work helped inspire the show. The source connects his public-economics role to [[LaborMonopsony]], [[TheWageStandard]], and [[ArinDube|Arin Dube]]'s wage-power argument.
+
 ## Connections
 - [[PlanetMoney]] and [[NPR]] - show and network context.
 - [[DavidAutor]] - interview subject.
@@ -23,3 +25,4 @@ Rosalsky's role is to translate a technical labor-economics debate into a public
 - [[BlanketTariffLimit]] and [[StrategicIndustrialPolicy]] - later policy questions raised in the interview.
 - [[EffectiveTariffRateShock]], [[DonaldTrump]], [[Costco]], and [[SupremeCourt]] - year-end tariff indicator branch added by the crossover source.
 - [[SpiritAirlines|Spirit Airlines]], [[BasicEconomyCopycatStrategy]], [[AirlineLoyaltyProgramMoat]], and [[BudgetAirlineCostSqueeze]] - airline-competition branch added by the Spirit episode.
+- [[AlienFilm|Alien]], [[WeylandYutani]], [[ArinDube]], [[TheWageStandard]], and [[LaborMonopsony]] - labor-economics-by-pop-culture branch added by the Alien episode.

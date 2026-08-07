@@ -2,11 +2,13 @@
 title: "Thailand"
 type: entity
 tags: [country, food, tourism, culture, diplomacy, diaspora]
-sources: [bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d, no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046]
-last_updated: 2026-08-04
+sources: [ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk, bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d, no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046]
+last_updated: 2026-08-07
 ---
 
 # Thailand
+
+[[ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk]] adds Thailand to the [[MainlandSoutheastAsia|中南半岛]] geography branch. The source uses Thai people, the [[SukhothaiKingdom|苏可泰王朝]], and northern Thailand's dry-season burning haze to connect the country to [[MainlandSoutheastAsiaRiverValleyStateFormation]] and [[SeasonalBurningAgriculture]] rather than only tourism, food, or diaspora trade.
 
 [[bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu]] adds Thailand as a comparative political-bargaining case rather than a food or diaspora case. The hosts use recent Thai prime-minister turnover and tactical party support to illustrate [[PoliticalVetoPointBargaining]]: formal democratic procedures can coexist with court constraints, elite pressure, coalition deals, and time-limited election demands.
 
@@ -17,6 +19,7 @@ The source uses Thailand to show a state-backed version of [[CultureLedFoodAdopt
 [[no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046]] adds Thailand as Siam in the [[Chaoshan]] maritime and diaspora story. The episode ties Siam rice, [[RedHeadShips]], [[Taksin]], Bangkok merchant networks, [[ChenCihong]], and [[CPGroup]] to the long route from survival trade to overseas Chinese capital.
 
 ## Connections
+- [[MainlandSoutheastAsia]], [[SukhothaiKingdom]], [[MainlandSoutheastAsiaRiverValleyStateFormation]], and [[SeasonalBurningAgriculture]] - EP267 geography and state-formation branch.
 - [[PoliticalVetoPointBargaining]], [[Japan]], and [[Komeito]] - comparative political-bargaining branch added by 不熄灯 E02.
 - [[UnitedStates]] - market where Thai restaurant presence is discussed.
 - [[CultureLedFoodAdoption]] and [[RestaurantCulturalLegibility]] - food-culture concepts added by the source.

@@ -2,8 +2,8 @@
 title: "Low-Cost Drone Warfare"
 type: concept
 tags: [warfare, drones, defense, geopolitics]
-sources: [tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
-last_updated: 2026-07-17
+sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
+last_updated: 2026-08-07
 ---
 
 # Low-Cost Drone Warfare
@@ -13,6 +13,8 @@ Low-cost drone warfare is the military pattern where cheap, numerous, good-enoug
 The core idea is that sophistication is not the only path to military relevance. A drone that is cheaper, easier to rebuild, assembled from commercial components, and capable of reaching important targets can support coercion, exhaustion, and attrition even when each individual system is less advanced than high-end missiles or aircraft.
 
 [[putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]] adds Ukraine's summer mid-range drone campaign. The source describes drone operations between roughly 20 and 200 kilometres as the defining military trend of the period and says [[Starlink]]-enabled precision gives [[Ukraine]] an advantage after Russian access in occupied territories was removed.
+
+[[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]] adds the Gulf infrastructure version through [[IranHorizontalEscalation]]. [[LiuYiSanlian|刘仪]] argues that even low-probability drone or missile hits on energy infrastructure can force shutdowns, raise insurance costs, and create large fiscal consequences for Gulf states.
 
 ## Key Claims
 - Cheap drones can matter strategically when they are numerous, long-range, adaptable, and hard to remove from the battlefield.
@@ -29,3 +31,4 @@ The core idea is that sophistication is not the only path to military relevance.
 - [[DroneDecoyEconomics]] - decoy and false-target pressure.
 - [[AsymmetricInfrastructureAttack]] - broader low-cost/high-impact risk frame.
 - [[Starlink]], [[WarVisibilityStrategy]], and [[AirDefenseSaturation]] - later Economist source on Ukrainian precision and Russian combined air attacks.
+- [[IranHorizontalEscalation]], [[StraitOfHormuz]], [[GulfStabilityRisk]], and [[ChokepointShippingConfidence]] - EP251's energy-infrastructure and insurance-pressure branch.

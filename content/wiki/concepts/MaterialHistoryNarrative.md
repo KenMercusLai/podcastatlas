@@ -2,8 +2,8 @@
 title: "Material History Narrative"
 type: concept
 tags: [history, commodities, narrative, material-culture]
-sources: [134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, zhongqiu-kuaile-669967741, 66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, 71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
-last_updated: 2026-08-05
+sources: [ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv, ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, 134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, zhongqiu-kuaile-669967741, 66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, 71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
+last_updated: 2026-08-07
 ---
 
 # Material History Narrative
@@ -13,6 +13,10 @@ Material history narrative is a way of explaining civilization through objects, 
 The concept is useful because it keeps scale changes visible. A material object can begin as medicine, ritual drink, luxury, rumor object, or imported novelty, then become a mass habit, a taxable flow, a workplace tool, and a speculative commodity. The episode's limitation warning also matters: material history is incomplete when it follows taste and trade but underplays the labor regimes and coercion behind production.
 
 [[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]] adds a wine version through [[WineAsAgriculturalCulture]]. [[Wine|Wine / 葡萄酒]] becomes material history when grape varieties, soil, weather, fermentation, region labels, gift markets, restaurant pairing, natural-wine fashion, fraud risk, and personal memory all become visible in one bottle.
+
+[[ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j]] adds a high-value farmed-food version through [[RainbowTrout|虹鳟]], [[Eel|鳗鱼]], and [[FoieGras|鹅肝]]. These foods become material-history objects when cold water, wild seedlings, feed color, force-feeding, farmer income, processing lines, species labels, and ecommerce packs explain how a "luxury" ingredient becomes a Chinese specialty.
+
+[[ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv]] adds a fragrance-material version through [[Agarwood|沉香]], [[Qinan|奇楠]], and [[IncenseFormulaReconstruction|古方香复刻]]. A scent becomes material history when tree injury, resin, wild scarcity, grafting, planted proof, export legality, ancient recipes, drama memory, and home ritual all shape what consumers understand as [[ChineseFragrance|中式香气]].
 
 [[16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]] adds a toxic fashion version through [[FashionVictimsBook|《时尚受害者》]]. Clothing, cosmetics, dyes, hats, shoes, accessories, dry cleaning, artificial fibers, and animal-material substitutes become material history when their color, softness, sheen, cleanliness, flammability, and price reveal [[ToxicFashionMaterialRisk]], [[FashionSupplyChainExternality]], [[GenderedFashionSafetyBlame]], and [[FemaleBodyFreedom]].
 
@@ -55,6 +59,8 @@ The concept is useful because it keeps scale changes visible. A material object 
 - Books and gifts can anchor material history when their physical circulation reveals trust, scarcity, dignity, correspondence, and remembered place.
 - Fashion materials can anchor material history when beauty depends on chemistry, infection control, worker exposure, fire risk, gendered movement, animal extraction, or waste handling.
 - Wine can anchor material history when agriculture, terroir, fermentation, trade, prestige, authenticity, and sensory memory are all present in the same drink.
+- Farmed luxury foods can anchor material history when animal biology, regional production, processing, consumer trust, and moral discomfort all remain visible.
+- Fragrant materials can anchor material history when biology, craft, regulation, scarcity, poetic naming, and daily ritual all remain visible.
 
 ## Connections
 - [[Coffee|Coffee / 咖啡]] and [[QuanqiuShangyin|《全球上瘾》]] - source case for a commodity as protagonist.
@@ -73,3 +79,5 @@ The concept is useful because it keeps scale changes visible. A material object 
 - [[EightyFourCharingCrossRoad|《查令十字街84号》]], [[OldBookMateriality]], [[DignityThroughSmallGifts]], and [[BookstoreSerendipity]] - reading-culture material history added by episode 134.
 - [[FashionVictimsBook|《时尚受害者》]], [[ToxicFashionMaterialRisk]], [[FashionSupplyChainExternality]], and [[GenderedFashionSafetyBlame]] - toxic fashion material-history branch added by episode 16.
 - [[Wine|Wine / 葡萄酒]], [[WineAsAgriculturalCulture]], [[WineTerroir]], [[NaturalWine]], and [[TasteTraining]] - wine material-history branch added by the Sanlian crossover.
+- [[ChineseNewSpecialtyAquaculture]], [[RainbowTrout]], [[Eel]], [[FoieGras]], [[EelSeedPriceVolatility]], and [[FoieGrasWelfareTradeoff]] - farmed high-value food branch added by EP260.
+- [[Agarwood]], [[Qinan]], [[AgarwoodIndustrialization]], [[IncenseFormulaReconstruction]], and [[ChineseFragrance]] - fragrance-material branch added by EP263.

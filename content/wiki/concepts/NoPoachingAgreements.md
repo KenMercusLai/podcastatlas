@@ -2,8 +2,8 @@
 title: "No-Poaching Agreements"
 type: concept
 tags: [labor, antitrust, market-power, employment]
-sources: [how-we-got-free-agents-in-baseball]
-last_updated: 2026-07-24
+sources: [how-we-got-free-agents-in-baseball, the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]
+last_updated: 2026-08-07
 ---
 
 # No-Poaching Agreements
@@ -12,6 +12,9 @@ No-poaching agreements appear in [[how-we-got-free-agents-in-baseball]] as the o
 
 The comparison helps generalize [[LaborMonopsony|labor monopsony]] beyond sports. A worker does not need one formal employer to face restricted choice; coordinated employer behavior or league rules can also block outside offers and weaken wage bargaining.
 
+[[the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]] adds a neighboring mechanism through [[NonCompeteAgreements]]. No-poach agreements restrict employers from competing for workers; non-competes restrict workers from moving to competitors. Both can produce monopsony-like power by weakening credible outside offers.
+
 ## Connections
 - [[Google]], [[Apple]], [[LaborMonopsony]], and [[BaseballReserveClause]] - comparison made by the source.
 - [[SportsPlayerAutonomy]], [[SportsCollectiveBargaining]], and [[BaseballFreeAgency]] - adjacent labor-market power concepts.
+- [[NonCompeteAgreements]], [[MonopsonyByArtifice]], and [[LaborSearchFrictions]] - adjacent worker-mobility restrictions added by the Alien labor-economics episode.

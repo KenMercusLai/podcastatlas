@@ -2,8 +2,8 @@
 title: "AI Alignment Governance"
 type: concept
 tags: [ai, governance, alignment]
-sources: [tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, eric-ries-incorruptible-by-design-wrgromn5peq, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]
-last_updated: 2026-08-05
+sources: [ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, eric-ries-incorruptible-by-design-wrgromn5peq, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]
+last_updated: 2026-08-07
 ---
 
 # AI Alignment Governance
@@ -16,6 +16,8 @@ AI alignment governance is the claim from [[eric-ries-incorruptible-by-design-wr
 
 [[e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]] adds [[DeepMind]] as an early acquisition-governance case. The source says [[DemisHassabis]] wanted AI safety and ethics commitments when selling to [[Google]], but it also frames the later [[GoogleDeepMind]] race with [[OpenAI]] as evidence that scientific intent still needs durable institutional controls.
 
+[[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]] adds a conditional agency-risk frame through [[AIFreeWillRisk]]. [[TuMotuo|土摩托]] argues that current LLMs are not the relevant free-will case, but that alignment becomes more serious if future systems acquire their own goals, meaning, and wide freedom to act in the world.
+
 ## Key Claims
 - Replacing human responsibility with AI is described by Ries as both morally wrong and technologically premature.
 - AI companies are especially exposed to [[FinancialGravity]] because capital requirements, geopolitical pressure, and public-risk claims are unusually intense.
@@ -24,6 +26,7 @@ AI alignment governance is the claim from [[eric-ries-incorruptible-by-design-wr
 - It also extends [[HumanJudgmentUnderAI]] because human responsibility does not disappear when models become more capable.
 - The OpenAI crisis source shows that safety conviction still needs governance process, trust, and board design that can handle disagreement without collapsing the institution.
 - The Softmax source adds that aligned behavior may require agents to learn collective belonging, not only comply with external policies.
+- Episode 256 adds that AI alignment risk changes category when an artificial system is no longer just a delegated tool but may carry its own meaning and goals.
 
 ## Connections
 - [[Anthropic]], [[LongTermBenefitTrust]], and [[OpenAI]] - AI governance cases discussed in the source.
@@ -33,3 +36,4 @@ AI alignment governance is the claim from [[eric-ries-incorruptible-by-design-wr
 - [[OpenAIBoardCrisis]], [[SamAltman]], [[IlyaSutskever]], and [[LanguageModelScalingBet]] - OpenAI-specific crisis and strategy context added by The Social Radars.
 - [[Softmax]], [[EmmettShear]], [[AICollectiveAlignment]], [[LearningEnvironmentCenteredAITraining]], and [[AgentRL]] - agent-level alignment frame added by the Emmett Shear YC offsite source.
 - [[DeepMind]], [[DemisHassabis]], [[ScientificIdealVsAIArmsRace]], and [[DeepMindAcquisitionChoice]] — early AI-safety and acquisition-governance case added by Silicon Valley 101.
+- [[AIFreeWillRisk]], [[EmbodiedIntelligence]], [[BiologicalAgency]], and [[HumanAgencyUnderAI]] - EP256's conditional agency-risk branch.

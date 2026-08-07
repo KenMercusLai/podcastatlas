@@ -16,6 +16,8 @@ Entry-level AI career-ladder risk is [[146-meiguo-jingji-zheme-cha-meigu-hai-nen
 
 [[169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c]] adds a finance-specific version through [[FinanceEntryLevelAICompression]]. The exposed tasks are not abstract junior work: investment-banking execution materials, sell-side research assistance, asset-management junior research, market-news collection, report reproduction, factor screening, and fundamental-data lookup are all work that can be both automatable and training-rich.
 
+[[ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd]] adds the pre-career education version. The episode says AI pressure is strongest on deterministic, rule-execution tasks such as junior programming, junior legal, accounting, translation, and design work. It also connects the labor-market risk to [[AIHollowingFoundationalTraining]]: if AI removes the practice layer in school and the junior task layer at work, the route to senior judgment weakens from both sides.
+
 The risk is less about every junior worker being fired immediately than about future hiring plans. Firms may keep senior employees, ask them to supervise AI, and hire fewer beginners. If that continues, universities, professional programs, and companies face a pipeline problem: senior judgment still exists today, but the apprenticeship path that creates it can weaken.
 
 ## Key Claims
@@ -33,3 +35,4 @@ The risk is less about every junior worker being fired immediately than about fu
 - [[AutomationDisplacementEffect]] and [[AutomationReinstatementEffect]] - substitution and role-creation mechanisms.
 - [[USEconomicExperienceSplit]] - broader economic divergence this risk helps explain.
 - [[FinanceEntryLevelAICompression]], [[AIInvestmentResearch]], and [[IndustryToFinanceCareerPath]] — episode 169's finance-specific branch and possible response.
+- [[AIHollowingFoundationalTraining]], [[AIEraMajorChoice]], and [[CollegeCareerPreparation]] — EP266's school-to-work pipeline extension.

@@ -2,8 +2,8 @@
 title: "Book Publishing Economics"
 type: concept
 tags: [publishing, books, media, economics]
-sources: [158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29, 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, how-to-make-a-book-into-a-bestseller, inside-a-book-auction, bookstore-economics]
-last_updated: 2026-08-06
+sources: [158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29, 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, our-book-vs-the-global-supply-chain, how-to-make-a-book-into-a-bestseller, inside-a-book-auction, bookstore-economics]
+last_updated: 2026-08-07
 ---
 
 # Book Publishing Economics
@@ -15,6 +15,8 @@ Book publishing economics is the market machinery that turns a book idea into a 
 The source's central point is that cultural products are not acquired only because an editor likes them. Publishers evaluate audience, comparable titles, production costs, rights, marketing, platform, and [[AdvanceAgainstRoyalties|advance]] exposure before deciding how much to bid.
 
 [[bookstore-economics]] extends the concept after acquisition. The [[PlanetMoneyBook]] still has to move through [[BookstoreBuying]], [[RetailShelfPlacement]], [[BookReturnability]], and [[BookPrintRunStrategy]] before the market can test real reader demand.
+
+[[our-book-vs-the-global-supply-chain]] adds the manufacturing layer. The same book has to become a physical object through [[PhysicalBookDesignTradeoff]], [[PrintingSignatureConstraint]], [[BookPrinterSelectionRisk]], [[EuropeanDeforestationRegulationSupplyChain]], [[DomesticBookPrintingFlexibility]], and [[BookManufacturingSupplyChain]] before bookstore placement or bestseller status can matter.
 
 [[how-to-make-a-book-into-a-bestseller]] adds the ranking layer after retail launch. The source shows that first-week sales, [[PreOrderLaunchConcentration]], bestseller-list opacity, bulk-buying detection, and list-driven advertising can change a book's market trajectory after publication.
 
@@ -28,6 +30,7 @@ The source's central point is that cultural products are not acquired only becau
 - [[PublishingAuctionDesign]] can increase competitive urgency, but it also creates [[WinnerCurse|winner's curse]] risk.
 - Publisher fit can beat a higher advance when distribution strategy, format, mission, and long-term audience use are more compelling.
 - Retailer order estimates, returnability, print-run sizing, remaindering risk, and shelf placement are downstream publishing-economics problems, not separate from the book deal.
+- Physical design, printer selection, paper compliance, shipping time, and reprint speed are also publishing-economics problems because they change cost, schedule, availability, and inventory risk.
 - Bestseller-list placement can become an economic asset because it affects displays, ads, future sales conversations, rights value, and author status.
 - Ranking systems create gray-area incentives such as [[BulkBookBuying]] and [[BookLaundering]] when the value of status exceeds the value of ordinary book revenue.
 - Episode 79 adds that pricing itself is part of publishing economics: discount targets and platform pressure can distort the signal of book value and damage channel ecology.
@@ -36,10 +39,11 @@ The source's central point is that cultural products are not acquired only becau
 ## Connections
 - [[AssetAllocationActionGuide|《资产配置行动指南》]], [[CITICPress|中信出版社]], and [[PodcastToBookSystematization]] - episode 158's Chinese podcast-to-book publishing case.
 - [[inside-a-book-auction]] and [[bookstore-economics]] - source cases.
-- [[how-to-make-a-book-into-a-bestseller]], [[inside-a-book-auction]], and [[bookstore-economics]] - source cases.
+- [[how-to-make-a-book-into-a-bestseller]], [[our-book-vs-the-global-supply-chain]], [[inside-a-book-auction]], and [[bookstore-economics]] - source cases.
 - [[NPR]], [[PlanetMoney]], [[AlexGoldmark]], [[AlexMaiassi]], [[LauraNolan]], [[JaneVonMehren|Jane von Mehren]], [[TomMayer]], [[RachelSalzman]], and [[WWNorton|W. W. Norton]] - participants and institutions.
 - [[BookProposalAsSalesDocument]], [[LiteraryAgentMarketMaking]], [[AuthorPlatformRiskReduction]], [[AdvanceAgainstRoyalties]], [[PublishingPortfolioRisk]], [[PublishingAuctionDesign]], [[WinnerCurse]], and [[EducationalDistributionStrategy]] - component concepts.
 - [[FisherNash]], [[CarmichaelsBookstore|Carmichael's Bookstore]], [[StephenPace]], [[PlanetMoneyBook]], [[BookstoreBuying]], [[BookReturnability]], and [[BookPrintRunStrategy]] - downstream retail and sales mechanics added by the later source.
+- [[JuliaDruskin]], [[MitoHabeEvans]], [[LakesideBookCompany]], [[BookManufacturingSupplyChain]], [[PhysicalBookDesignTradeoff]], [[PrintingSignatureConstraint]], [[BookPrinterSelectionRisk]], [[EuropeanDeforestationRegulationSupplyChain]], and [[DomesticBookPrintingFlexibility]] - production and supply-chain mechanics added by the manufacturing source.
 - [[NewYorkTimesBestsellerList]], [[BestsellerStatusFeedbackLoop]], [[BestsellerListOpacity]], [[BulkBookBuying]], [[BookLaundering]], [[BestsellerSpeakerEconomy]], and [[PreOrderLaunchConcentration]] - ranking and launch mechanics added by the bestseller source.
 - [[BookCreatorWork]], [[LiteraryPublishingAsMaterialSupport]], and [[LiteraryAgentJudgment]] - adjacent book-world concepts.
 - [[BookPriceWarSignalTrap]], [[SignalDesign]], [[PrisonersDilemma]], and [[ChinaCorporateAntiInvolution]] - pricing and destructive-competition branch added by episode 79.

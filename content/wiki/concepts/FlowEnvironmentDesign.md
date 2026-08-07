@@ -2,8 +2,8 @@
 title: "Flow Environment Design"
 type: concept
 tags: [attention, practice, lifestyle]
-sources: [e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]
-last_updated: 2026-07-24
+sources: [ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo, e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]
+last_updated: 2026-08-07
 ---
 
 # Flow Environment Design
@@ -16,6 +16,8 @@ The episode positions this against short-video and feed addiction. Instead of re
 
 [[zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]] adds a health-maintenance version through [[EnvironmentOverWillpower]]. Walking while listening, placing a gym near the office, and arranging sleep inputs turn environment design from an attention concept into a way to protect muscle and sleep accounts.
 
+[[ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo]] adds [[OutdoorFlowState|户外心流]] as a more contingent natural-environment case. [[ZhangShi|张时]] and [[Amon|阿蒙]] show that mountains, real rock, downhill running, breath, weather, route mistakes, fear, and fatigue can prepare attention, but the episode rejects the idea that flow can be scheduled or chased apart from [[OutdoorSafetyPreparation|户外安全准备]].
+
 ## Key Claims
 - Flow is not only a rare reward; it can be made more probable through environment and routine.
 - Repetition, low-stakes movement, and moderate boredom can prepare attention better than constant stimulation.
@@ -25,6 +27,7 @@ The episode positions this against short-video and feed addiction. Instead of re
 - Physical fitness can support sustained cognitive attention because concentration has bodily costs.
 - Absorbed attention is not automatically healthy; [[MachineZone]] shows that environment-designed absorption can suspend judgment, body signals, and exit decisions.
 - Health routines become more repeatable when they are attached to existing paths, calls, media habits, and rooms rather than left as separate acts of motivation.
+- EP250 adds that natural settings can make flow more vivid, but also less controllable; preparation increases the odds of immersion without guaranteeing it.
 
 ## Connections
 - [[GuanYadi]] — source voice for walking, running, and endurance-based flow.
@@ -35,3 +38,4 @@ The episode positions this against short-video and feed addiction. Instead of re
 - [[ActionDefinesIdentity]] — repeated environments shape repeated choices.
 - [[MachineZone]] and [[AddictiveInteractionDesign]] — harmful counterpart where rhythm and friction removal trap attention.
 - [[EnvironmentOverWillpower]], [[MuscleAsLongevityInfrastructure]], and [[SleepAsDailyHealthAccount]] - midlife health-routine extension.
+- [[OutdoorFlowState]], [[OutdoorSafetyPreparation]], [[TrailRunningEntryRisk]], and [[RockClimbingFailurePractice]] - outdoor-sports flow and safety branch added by EP250.

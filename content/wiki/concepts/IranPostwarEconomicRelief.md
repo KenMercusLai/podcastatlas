@@ -2,11 +2,13 @@
 title: "Iran Postwar Economic Relief"
 type: concept
 tags: [geopolitics, economics, diplomacy, sanctions]
-sources: [coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
-last_updated: 2026-07-17
+sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
+last_updated: 2026-08-07
 ---
 
 # Iran Postwar Economic Relief
+
+[[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]] adds the pre-relief expectation through [[RegimeBasicBaseStabilization]]. [[LiuYiSanlian|刘仪]] argues that if [[Iran]] receives compensation, security guarantees, or fiscal relief, the likely first use is stabilizing public employees, religious institutions, [[IslamicRevolutionaryGuardCorps]]-linked interests, foundations, and public-service networks rather than launching broad reform and opening.
 
 Iran postwar economic relief is the economic package described in [[coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b]] after the U.S.-[[Iran]] memorandum of understanding. The source says the package may include lifting a U.S. naval blockade, sanctions relief, unfreezing Iranian assets, and possible American support for a proposed $300bn reconstruction fund.
 
@@ -30,3 +32,4 @@ The source is skeptical about delivery. A $300bn fund would be roughly the size 
 - [[StraitOfHormuz]] - chokepoint where fees, tolls, and blockade relief become bargaining tools.
 - [[GulfCooperationCouncil]] and [[GulfStabilityRisk]] - adjacent Gulf confidence and funding-risk context.
 - [[ChokepointShippingConfidence]] - later episode's operational test for whether relief and passage promises are commercially credible.
+- [[RegimeBasicBaseStabilization]] - EP251 warning that relief can maintain the state machine without producing rapid development.

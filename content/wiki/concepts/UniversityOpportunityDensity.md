@@ -14,6 +14,8 @@ University opportunity density is the practical value created by a university's 
 
 [[e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4]] adds a trust-and-depth version through [[TsinghuaUniversity|清华大学]], [[NYU]], and [[ColumbiaUniversity]]. [[AlfredLinTongyu|Alfred 林童雨]] says elite peers and teacher office hours were among the most valuable parts of Tsinghua, while [[KelentoHouTaiyu|Kelento 侯泰宇]] treats NYU's environment, social access, and [[YannLeCun]]-adjacent AI resources as part of why he chose the school. The source also narrows "university is social" into deep one-on-one relationships rather than generic socializing.
 
+[[ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd]] adds an AI-resource inequality version. [[ZhejiangUniversity|浙江大学]] and [[TianjinUniversity|天津大学]] are used as examples of schools that can provide medical cases, affiliated hospitals, model-development teams, learning spaces, innovation colleges, compute, and front-line AI talent. The source warns that students in less resourced institutions may need to build more self-directed learning, AI literacy, and external learning communities to compensate.
+
 ## Key Claims
 
 - City matters because large-company recruiting, internships, startup opportunities, talks, and industry events cluster unevenly across regions.
@@ -36,3 +38,4 @@ University opportunity density is the practical value created by a university's 
 - [[TsinghuaUniversity|清华大学]], [[NYU]], [[ColumbiaUniversity]], [[AlfredLinTongyu|Alfred 林童雨]], and [[KelentoHouTaiyu|Kelento 侯泰宇]] - E236's university examples.
 - [[DegreeAsTrustCredential]] and [[AIUniversityAssessmentReform]] - credential and assessment implications added by E236.
 - [[FinancePlatformSocialCapital]], [[InternshipAsCareerExploration]], and [[CollegeMajorChoice]] — episode 169's finance-school-city branch.
+- [[ZhejiangUniversity]], [[TianjinUniversity]], [[AIEraMajorChoice]], and [[AIForScienceTalent]] — EP266's AI-era resource concentration branch.

@@ -2,11 +2,13 @@
 title: "AI Journalism Trust"
 type: concept
 tags: [ai, journalism, trust]
-sources: [ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
+sources: [ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi, ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
 last_updated: 2026-08-07
 ---
 
 # AI Journalism Trust
+
+[[ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi]] adds a historical-cultural reporting version through [[HistoricalReportingAIHallucination|历史报道中的AI幻觉]]. The [[TalkSanlian|Talk三联]] reporters describe AI tools as useful for route planning, material sorting, and discussion, but unsafe as factual authorities when they invent classical phrasing, book titles, scholar names, or chronology.
 
 AI journalism trust is the reader-confidence problem created when AI becomes part of news production, especially published writing. [[tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128]] states the problem through [[WillaRemus]]'s question: if a publication did not bother to write an article, readers may wonder why they should bother to read it.
 
@@ -32,8 +34,10 @@ The concept connects [[AIContentProvenance]] to a deeper [[TrustAsBusinessAsset]
 - Trust also depends on durable public records; without archived pages, claims about what changed online can become harder to verify.
 - Human-authored creator media can still create journalism-trust problems when its sourcing and fact-checking are weak.
 - AI-era journalism trust also depends on upstream reporting labor: interviews, presence, perception, and accountable judgment, not only on whether the final prose is labeled or disclosed.
+- Historical-cultural reporting adds a specific risk: AI can produce plausible routes, citations, or classical-language details that collapse unless checked against texts, chronologies, sites, documents, and experts.
 
 ## Connections
+- [[HistoricalReportingAIHallucination]], [[TangPoetryRoad]], [[FieldworkAsKnowledgeMethod]], and [[ObservationBeforeInference]] - EP264 historical-cultural reporting extension.
 - [[AIWrittenJournalism]], [[AIRewriteDesk]], and [[NewsroomAIAdoption]] - production-side causes.
 - [[ThePlainDealer]], [[ChrisQuinn]], and [[WillaRemus]] - source case and perspectives.
 - [[AIContentProvenance]], [[AIContentDevaluation]], and [[TrustAsBusinessAsset]] - disclosure, attention, and credibility frames.

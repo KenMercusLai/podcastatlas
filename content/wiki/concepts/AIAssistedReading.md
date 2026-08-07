@@ -2,8 +2,8 @@
 title: "AI-Assisted Reading"
 type: concept
 tags: [ai, reading, learning]
-sources: [dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
-last_updated: 2026-07-09
+sources: [ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
+last_updated: 2026-08-07
 ---
 
 # AI-Assisted Reading
@@ -16,6 +16,8 @@ The source also marks limits. For new books without full text, AI may be relying
 
 [[e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]] adds [[LiJigang]]'s workflow version. He uses AI to read papers, thin books into core structures, thicken books through cross-domain extension, and feed useful conversations back into a local note system. The point is less to avoid reading than to turn reading into question generation and inspiration while AI handles more of the structural extraction.
 
+[[ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix]] adds a lighter everyday version. [[ZhangZhiqi|张芝琪]] says she may ask AI for book recommendations, but the point is still to go read; the source treats AI as an entry or orientation aid rather than a replacement for the slow encounter with a book.
+
 ## Key Claims
 
 - AI can generate different readings of the same book by changing prompts, frames, disciplines, and worldview assumptions.
@@ -25,10 +27,12 @@ The source also marks limits. For new books without full text, AI may be relying
 - The point is not to avoid human reading; it is to decide when AI structure helps and when the reader should use their own neurons.
 - Personalized blind-spot reading requires both book context and user context.
 - AI can make a book thin by extracting structure, or make it thick by extending the structure across fields and questions.
+- EP258 adds that AI recommendation can support reading desire, but AI summary should not be mistaken for the whole reading experience.
 
 ## Connections
 
 - [[XFFXFramework]] — AI can help identify the question, frame, and result structure of a book.
+- [[ReadingMediumPluralism]], [[ReadingAsLifeExperience]], and [[NonInstrumentalLiteraryReading]] — EP258's everyday reading qualification.
 - [[ReadingAsFrameTraining]] — AI assistance should still serve the training of the reader's own frame.
 - [[ContextEngineering]] — user's notes, conversations, and goals make AI reading more personal.
 - [[AIAsTutor]] and [[LearningHowToLearn]] — AI as individualized explanation and learning support.

@@ -2,13 +2,17 @@
 title: "Embodied AI"
 type: concept
 tags: [robotics, physical-ai, investment]
-sources: [tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, tsr-s2-trevorblackwell-v2]
-last_updated: 2026-08-05
+sources: [ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, tsr-s2-trevorblackwell-v2]
+last_updated: 2026-08-07
 ---
 
 # Embodied AI
 
 Embodied AI refers to physical AI, robotics, and systems that act in real-world environments. [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc]] treats the area as highly valued and bubbly, but also important enough that the host does not want to dismiss every participant as speculative. [[wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb]] adds a concrete consumer case through [[Xiaoban]], where the embodied AI problem is household companionship rather than industrial work or robot performance.
+
+[[ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4]] adds a lighter consumer-device layer: tennis robots, chess robots, robot vacuums with manipulation, robot bands, and AI toys show physical AI reaching users through narrow tasks and entertainment before general household robots. The source's strongest embodied-AI point is [[RobotFormFactorPragmatism]]: machines need not look human when a task-specific body works better.
+
+[[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]] adds a philosophical boundary condition through [[EmbodiedIntelligence]]. [[TuMotuo|土摩托]] distinguishes current LLMs from a stronger future AI-agency case: free-will risk would depend less on fluent chat than on systems that have embodied action, self-owned goals, meaning, and wide freedom to act in the world.
 
 [[tsr-s2-trevorblackwell-v2]] adds a historical robotics layer through [[TrevorBlackwell]] and [[Anybots]]. Before the wiki's recent sources on foundation models, VLA policies, and household robot data loops, Blackwell pursued [[DynamicBalancingRobotics]] because human-sized walking robots still did not exist in the way science fiction had implied. The source is a useful caution for modern embodied-AI optimism: ambitious locomotion and control can run ahead of clear use cases, production scenes, and commercial demand.
 
@@ -42,6 +46,7 @@ Embodied AI refers to physical AI, robotics, and systems that act in real-world 
 
 ## Commercialization Mentioned
 - Robot performances and rentals.
+- Sports robots, chess robots, robot vacuums, robot bands, and AI toys where value depends on narrow task feedback or entertainment rather than general-purpose intelligence.
 - Data collection.
 - Some industrial scenarios.
 - Sales to research institutions.
@@ -62,6 +67,8 @@ Embodied AI refers to physical AI, robotics, and systems that act in real-world 
 
 ## Connections
 - [[WorldModels]] — model direction tied to physical reasoning and robot capability.
+- [[ConsumerAIHardwareProductFit]], [[RobotFormFactorPragmatism]], [[AIToyCompanionship]], and [[AIPlusTerminals]] — consumer physical-AI branch added by EP253.
+- [[FreeWill]], [[EmbodiedIntelligence]], [[BiologicalAgency]], and [[AIFreeWillRisk]] — philosophical agency boundary added by EP256.
 - [[GaryMarcus]] and [[LLMWorldModelGap]] — public explainer tying entity/state/causality requirements to physical agents.
 - [[AmyWebb]], [[AIConvergence]], [[PhysicalAI]], [[BlueJ]], and [[Nvidia]] - Marketplace Tech forecast branch.
 - [[AIForScience]] — another moonshot investment path.

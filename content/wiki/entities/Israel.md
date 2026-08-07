@@ -2,11 +2,13 @@
 title: "Israel"
 type: entity
 tags: [country, geopolitics, security]
-sources: [a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
-last_updated: 2026-07-24
+sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
+last_updated: 2026-08-07
 ---
 
 # Israel
+
+[[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]] adds Israel as the actor betting that [[Iran]]'s damaged strategic position may allow a short, decisive war. The source ties that bet to [[BenjaminNetanyahu]]'s domestic incentives, Israel's lower direct exposure to [[StraitOfHormuz]] energy disruption, and its view that Iranian missiles and proxy networks are more urgent practical threats than the nuclear file alone.
 
 [[a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55]] adds Israel through [[LindseyGraham]]'s consistent support for the country and for [[BenjaminNetanyahu]]. The episode says Graham maintained that support despite growing American criticism of Israel's conduct in Gaza, making him part of the [[RepublicanForeignPolicyAdaptation]] branch as well as the existing Israel election and diplomacy branches.
 
@@ -28,3 +30,4 @@ The source frames Israel's behavior through security skepticism. Israeli forces 
 - [[BenjaminNetanyahu]], [[NaftaliBennett]], [[YairLapid]], and [[GadiEisenkot]] - election actors added by the Bibi source.
 - [[IsraeliElection2026]], [[HarediConscription]], and [[PalestinianQuestionInIsraeliPolitics]] - domestic politics concepts added by the Bibi source.
 - [[LindseyGraham]] and [[RepublicanForeignPolicyAdaptation]] - U.S. Republican support branch added by the later The Intelligence source.
+- [[IranNuclearMissileBargaining]], [[IranHorizontalEscalation]], and [[ResistanceAxisBackfire]] - EP251's threat and escalation branch.

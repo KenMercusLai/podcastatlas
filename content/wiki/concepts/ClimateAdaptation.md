@@ -2,8 +2,8 @@
 title: "Climate Adaptation"
 type: concept
 tags: [climate, resilience, governance]
-sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, socialradarss2-billclerico-final, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, indy-johar-civilizational-optioneering-tyeyt7r-zfu, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]
-last_updated: 2026-07-24
+sources: [ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, socialradarss2-billclerico-final, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, indy-johar-civilizational-optioneering-tyeyt7r-zfu, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]
+last_updated: 2026-08-07
 ---
 
 # Climate Adaptation
@@ -13,6 +13,8 @@ Climate adaptation is the practical adjustment to climate-driven instability dis
 The source's contribution is to connect climate adaptation to [[CivilizationalOptionality]]. Adaptation is not only surviving a hotter or more unstable world; it is protecting the social, ecological, and institutional capacity to keep multiple futures open.
 
 [[65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922]] adds a historical water-adaptation warning through [[WetlandAdaptation]] and the 1931 [[YangtzeRiver|Yangtze]] flood. The episode shows that adaptation can be lost when flexible wetland life gives way to fixed agriculture, dikes, dense cities, and infrastructure that need constant maintenance under changing water conditions.
+
+[[ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk]] adds a Mekong version through [[MonsoonSeasonalSocialOrder]] and [[MekongDeltaColonialCanalAgriculture]]. The source shows that seasonal water can create abundance through [[TonleSapLake|Tonle Sap]] and [[AngkorHydraulicEmpire|Angkor's hydraulic system]], while downstream canalized rice agriculture in the [[MekongDelta|Mekong Delta]] becomes vulnerable when freshwater flow weakens and saltwater intrudes.
 
 [[missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]] adds a near-term shock case through [[ElNinoClimateRisk]]. The episode frames a potentially strong [[ElNino]] as more dangerous because it arrives on top of global warming and existing food insecurity, making drought-tolerant seeds, fodder storage, and water supplies practical adaptation measures.
 
@@ -40,8 +42,10 @@ The source's contribution is to connect climate adaptation to [[CivilizationalOp
 - Water adaptation can include preserving wetland buffers and mobility, not only building stronger defenses.
 - Hard infrastructure can become maladaptive when it increases settlement density without maintaining ecological overflow capacity.
 - Fishery closures can be adaptation when they protect future stock, even though they intensify near-term supply and price pressure.
+- Delta adaptation has to account for upstream freshwater, saltwater intrusion, canal grids, mangroves, sediment, and the maintenance burden created by past reclamation.
 
 ## Connections
+- [[MekongRiver]], [[TonleSapLake]], [[MekongDelta]], [[MonsoonSeasonalSocialOrder]], [[AngkorHydraulicEmpire]], and [[MekongDeltaColonialCanalAgriculture]] - Mekong water-adaptation branch added by EP267.
 - [[SystemicDegenerativeVolatility]] — climate risk as part of a wider cascade.
 - [[FoundationalEconomies]] — baseline systems exposed by climate instability.
 - [[OutcomeAccelerators]] and [[Existutions]] — coordination forms for city cooling, glacier stability, and other shared outcomes.

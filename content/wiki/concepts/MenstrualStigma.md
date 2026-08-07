@@ -2,13 +2,15 @@
 title: "Menstrual Stigma"
 type: concept
 tags: [gender, body, stigma, public-health]
-sources: [110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, 117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552]
-last_updated: 2026-08-05
+sources: [ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, 117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552]
+last_updated: 2026-08-07
 ---
 
 # Menstrual Stigma
 
 Menstrual stigma is the pattern where menstruation is treated as dirty, dangerous, shameful, unlucky, or unspeakable. [[175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]] traces it from Chinese folk and pseudo-scriptural ideas such as blood pollution, through global religious and food-taboo examples, into Japanese menstrual huts, store embarrassment, family concealment, and contemporary arguments over selling sanitary pads on high-speed rail.
+
+[[ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d]] adds first-person menarche and school-life examples through [[WenQi|文淇]], [[YouXiaoying|游晓颖]], and [[DuSujuan|杜素娟]]. The episode shows stigma being learned through a mother's disgust, names like "倒霉了", sanitary pads hidden in sleeves, and black plastic bags at stores.
 
 The concept overlaps with [[ProtectionAsControl]] because claims about purity, safety, and embarrassment often restrict ordinary movement, speech, purchase, and bodily knowledge. It also explains why [[CommercialMenstrualEducation]] can matter: making a product visible and nameable can weaken shame even when the motive is also commercial.
 
@@ -26,8 +28,10 @@ The concept overlaps with [[ProtectionAsControl]] because claims about purity, s
 - Stigma can migrate across life stages: if menstruation and menopause are unspeakable, aging itself can also become hard to name directly.
 - Stigma produces ignorance in non-menstruating people and silence in menstruating people; both effects make pain and practical needs easier to miss.
 - Horror can expose stigma by refusing to keep waste, blood, disgust, reproduction, and aging politely offstage.
+- Episode 254 adds that stigma begins early when menarche is treated as disaster, dirt, or secrecy rather than health, growth, and body knowledge.
 
 ## Connections
+- [[SelfPermission]], [[WoXukeFilm|《我许可》]], [[WenQi|文淇]], [[YouXiaoying|游晓颖]], and [[DuSujuan|杜素娟]] - episode 254's menarche and self-permission branch.
 - [[MenstrualProductSocialHistory]] - broader material-history frame.
 - [[AnneSanitaryNapkin|安妮卫生巾]] and [[Kotex]] - brands that had to design around purchase embarrassment.
 - [[MenstrualPublicInfrastructure]] and [[PeriodPoverty]] - public access and affordability consequences.

@@ -2,11 +2,13 @@
 title: "Infectious Disease Public Literacy"
 type: concept
 tags: [medicine, public-health, infectious-disease, literacy]
-sources: [yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]
+sources: [ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]
 last_updated: 2026-08-06
 ---
 
 # Infectious Disease Public Literacy
+
+[[ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r]] adds infectious-disease literacy as a reason ordinary people need [[ScienceEducationAsCivicLiteracy|science education as civic literacy]]. The episode uses vaccines, diseases, rabies, medication, parenting, and AI information-seeking as examples of situations where school science should become adult evidence judgment rather than forgotten exam knowledge.
 
 Infectious disease public literacy is the ordinary-reader knowledge frame added by [[yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]]. The episode uses [[ZhangWenhongShuoChuanran|《张文宏说传染》]] as the simplest entry: people need usable concepts for pathogens, routes of transmission, daily prevention, symptoms, medical care, and the difference between personal experience and general disease rules.
 
@@ -23,3 +25,4 @@ The concept sits between individual self-care and public systems. A person can h
 - [[MedicalRiskManagement]] and [[MedicalDiagnosticReasoning]] - clinical uncertainty and safety frames.
 - [[MedicalPlatformTrustCrisis]] and [[DoctorPatientCommunication]] - trustworthy information and doctor-patient cooperation.
 - [[PublicHealthInvisibility]] - infrastructure and systems layer underneath individual literacy.
+- [[ScienceEducationAsCivicLiteracy]] - school science as preparation for public-health judgment.

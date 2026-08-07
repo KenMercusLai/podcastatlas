@@ -2,8 +2,8 @@
 title: "Consciousness Measurement"
 type: concept
 tags: [consciousness, neuroscience, ai]
-sources: [claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]
-last_updated: 2026-07-24
+sources: [ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]
+last_updated: 2026-08-07
 ---
 
 # Consciousness Measurement
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 Consciousness measurement is the open problem of finding empirical handles on conscious state without pretending that consciousness has a simple threshold. In [[claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk]], [[ClaireIsabelWebb]] frames the public AI debate around whether a system crosses a consciousness line, while [[NinaMiolane]] keeps the discussion grounded in measurable neural activity, geometry, and computation.
 
 [[104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]] adds a literary warning through [[UnderstandTedChiang|《领悟》 / Understand]]. The episode is less about measuring consciousness from outside than about whether a mind can fully understand itself or another superior mind without triggering destructive self-awareness.
+
+[[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]] adds a free-will caution through [[LibetExperimentInterpretation]]. The source treats neural readiness-potential results as important evidence about arbitrary button-press actions, but warns against turning them into a complete measurement of meaningful choice, personhood, or responsibility.
 
 ## Key Claims
 - Miolane separates intelligence from consciousness: intelligence is task-directed perception and action, while consciousness is another aspect of mind.
@@ -20,6 +22,7 @@ Consciousness measurement is the open problem of finding empirical handles on co
 - The source does not claim that AI consciousness can be generated or measured by the same tools yet.
 - Affect, social complexity, and multi-agent tasks remain underexplained relative to spatial navigation.
 - The Chiang episode keeps the AI analogy speculative: superintelligence sharpens the question of understanding minds, but it does not supply a direct consciousness test.
+- Episode 256 adds that neuroscience results about simple motor readiness should not be overread as a full assay of [[FreeWill|free will]] or meaningful agency.
 
 ## Connections
 - [[ClaireIsabelWebb]] - interviewer who keeps returning to consciousness, time, affect, and AI questions.
@@ -28,3 +31,4 @@ Consciousness measurement is the open problem of finding empirical handles on co
 - [[SpatialNavigationTorus]] - main geometric example that leads into sleep and replay.
 - [[AIInterpretabilityByAI]] and [[HumanJudgmentUnderAI]] - adjacent concerns about whether internal states are understandable and responsibly acted on.
 - [[UnderstandTedChiang|《领悟》 / Understand]], [[RationalWorldviewCollapse]], and [[PureRationalityTrap]] - literary extension into self-understanding as danger.
+- [[BenjaminLibet]], [[LibetExperimentInterpretation]], and [[MoralResponsibilityUnderDeterminism]] - EP256 branch on what neuroscience can and cannot settle.

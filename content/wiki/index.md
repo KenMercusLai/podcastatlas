@@ -6,6 +6,29 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The real horror of 'Alien' and how it explains why we're not paid enough](sources/the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough.md) — Planet Money episode using Alien and Alien: Romulus to explain labor monopsony, hidden job risks, search frictions, non-competes, company-town control, and labor-market counterforces.
+- [The skyscrapers that NIMBYs and zoning couldn't stop](sources/the-skyscrapers-that-nimbys-and-zoning-couldnt-stop.md) — Planet Money episode on the Squamish Nation's Vancouver high-rise housing project, sovereign land-use authority, zoning constraints, permitting delay costs, local veto politics, and Indigenous development visibility.
+- [Our BOOK vs. the global supply chain](sources/our-book-vs-the-global-supply-chain.md) — Planet Money episode following its own book through physical design, production tradeoffs, printer selection, EU forest-compliance rules, domestic printing, quality control, and reprint flexibility.
+- [EP267 踏访湄公河：雨季、婚飞蚁与水利帝国](sources/ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk.md) — Talk三联 episode with 高一丁 and 邢海洋 on the Mekong as a geographic route through Laos, Angkor, Tonle Sap, monsoon seasonality, hydraulic empire, and Mekong Delta climate vulnerability.
+- [EP266 当AI重构大学，我们该如何定义“好专业”？](sources/ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd.md) — Talk三联 episode with 黄子翊, 吴淑彬, and 李小杰 on AI-era major choice, hollowed foundational training, new engineering education, medical AI education, AI for Science talent, T-shaped capability, and university resource inequality.
+- [EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？](sources/ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb.md) — Talk三联 episode with 李菁, 颜飞, and 雷涛/无二旅人 on vacation shame, work-rest boundaries, long-holiday recovery, Canada travel, sensory restoration, and local-life travel.
+- [EP264 踏访“唐诗之路”：盛唐气象少年心](sources/ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi.md) — Talk三联 episode with 高一丁, 艾江涛, 薄静, and 张星云 on 唐诗之路, reading Wang Wei/Chang'an, Meng Haoran/Zhejiang, and Cen Shen/frontier poetry through cultural geography, field reporting, archaeology, and AI hallucination risk.
+- [EP263 线香崛起：发现中式香气的魅力](sources/ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv.md) — Talk三联 episode with 邱连, 薛鹏, and 吴立伟 on line incense becoming daily life, Chinese fragrance, ancient formula reconstruction, agarwood/qinan supply, scent storytelling, and fragrance as brand memory.
+- [EP262 高考过后，知识“归零”：我们需要怎样的科学教育？](sources/ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r.md) — Talk三联 episode with 高一丁, 魏茜, and 王依然 on science education after gaokao, scientific literacy for everyday judgment, big-concept teaching, project-based science learning, HPS, exam pressure, AI projects, and regional reform gaps.
+- [EP261 “蜜蜂危机”：如果失去蜜蜂，世界将会怎样？](sources/ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv.md) — Talk三联 episode with 高一丁, 苗千, 段农裕, and 刘畅 on managed honeybees, wild pollinators, migratory beekeepers, pesticide risk, Xishuangbanna native bees, pollination services, and ecological consequences if pollinators disappear.
+- [EP260 一口肥美脂肪，藏着中国养殖的新故事](sources/ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j.md) — Talk三联 "新特产" episode with 高一丁, 邱连, 黑麦, and 博靖 on salmon-trout labeling, Longyangxia rainbow trout, eel seedling volatility, Guangdong/Shunde grilled eel, foie gras welfare tradeoffs, and prepared high-value food formats.
+- [EP259 与苗师傅漫谈徐光启：四百年前如何让人变聪明？](sources/ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e.md) — Talk三联 episode with 高一丁 and 苗伟 on 徐光启, late-Ming Western learning, Euclidean proof, agricultural relief, calendar legitimacy, Jesuit science transmission, and intellectual life.
+- [EP258 我们如何重拾睡前读书？](sources/ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix.md) — Talk三联 episode with 魏茜, 冷建国, and 张芝琪 on bedtime reading, reading media, AI recommendation, bookstore encounter, attention fragmentation, bodily sleep limits, and reading as a non-KPI daily ritual.
+- [EP257 不上班：一场逃离与寻找的复杂冒险](sources/ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng.md) — Talk三联 episode with 高一丁, 吴树彬/吴淑彬, 阮佳宁, and Mia on not working as a complex post-employment condition involving burnout, free time, freelance risk, parent pressure, resume-gap stigma, and work self-worth boundaries.
+- [EP256 AI时代，“自由意志”还存在吗？](sources/ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx.md) — Talk三联 episode with 土摩托 on free will in the AI age, covering determinism, Libet experiments, Sapolsky, biological agency, meaning, embodied intelligence, and future AI free-will risk.
+- [EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？](sources/ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw.md) — Talk三联 episode with 高一丁, 李小杰, and 魏茜 on factory second-generation succession, Chinese private manufacturing, Fadior, Wote shoes, Malawangzi, personal IP, business-school training, and succession as continuous entrepreneurship.
+- [EP254 游晓颖x文淇x杜素娟：女性这一生，都在反复学习许可自己](sources/ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d.md) — Talk三联 episode with 文淇, 游晓颖, and 杜素娟 on 《我许可》, menstrual shame, gynecological dignity, saying no, female friendship, body confidence, and mother-daughter self-permission.
+- [EP253 爆火的AI好物，到底是“真香”还是智商税？](sources/ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4.md) — Talk三联 episode on consumer AI hardware, covering AI glasses, AI toys, Huaqiangbei solution providers, vertical sports and cleaning robots, AI appliances, and privacy tradeoffs.
+- [EP252 《太平年》之外的五代十国，什么样？](sources/ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh.md) — Talk三联 episode with 王洪杰 on 《太平年》, 五代十国概念形成, 唐宋转型, 十国关系类型, southern stability, social mobility, military/literati coexistence, succession, adoptive-son ties, and women.
+- [EP251 伊朗困局：四十年战略选择的代价与现实](sources/ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd.md) — Talk三联 episode with 程静 and 刘仪 on the renewed U.S.-Israel-Iran war, Iran nuclear/missile bargaining, horizontal escalation through energy, insurance, Hormuz, Gulf confidence, resistance-axis backfire, and regime-base fiscal stabilization.
+- [EP250 走进山野，顺流而上：寻找户外运动中的心流时刻](sources/ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo.md) — Talk三联 episode with 张时 and 阿蒙 on outdoor flow, trail running, rock climbing, hiking, skiing, mountain safety, women outdoor participants, and nature as body-mind reintegration.
+- [EP249 闽南古城游神记：传统仪式背后的乡土网络](sources/ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww.md) — Talk三联 episode with 吴淑冰, 张从志, and 蔡小川 on 永宁古城 ritual networks, deity processions, ancestor worship, 鸡童/乩童, lineage politics, ritual tourism, gendered participation, and succession pressure.
+- [EP248 在高原与地下，探寻中国“大科学项目”](sources/ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo.md) — Talk三联 episode with 高一丁 and 苗千 on Chinese big-science projects, covering Ali CMB/primordial gravitational waves, Jiangmen neutrinos, Dongguan spallation neutrons, FAST, weak-signal detection, extreme environments, international collaboration, and technology spillovers.
 - [EP247 重启人生：当农村中年女性开始“做主播”](sources/ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj.md) — Talk三联 episode with 魏茜 and 曾欣 on rural middle-aged women becoming livestreamers, covering visibility, family resistance, persona labor, platform feedback, compressed modernity, and county platform work.
 - [EP246 让女生安心的约会小酒馆，什么样？](sources/ep246-rang-nvsheng-anxin-de-yuehui-xiaojiuguan-shenme-yang-lpd5zw9ryd3kplmnaywsoqokvakm.md) — Talk三联 love-issue episode with 张星云 and Moku on spatial love studies, female-friendly bistros, coffee-shop first-date affordances, familiar-space dating, and how small venues make women feel safer.
 - [现场！现场！ | 2025年终特辑：三联女记者揭秘新闻背后的苦与光](sources/xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c.md) — Talk三联 year-end reporting special with 秦思, 程静, and 魏昭阳 on women reporters, fieldwork, remote interviews, source trust, emotional labor, and sustainable media work.
@@ -805,6 +828,145 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Arin Dube / Arindrajit Dube](entities/ArinDube.md) — Labor economist in the Alien labor-economics episode explaining monopsony, hidden job risks, and wage-setting power.
+- [The Wage Standard](entities/TheWageStandard.md) — Arin Dube labor-economics book used by Planet Money to frame monopsony and wage-power problems.
+- [University of Massachusetts Amherst](entities/UniversityOfMassachusettsAmherst.md) — UMass Amherst affiliation for Arin Dube in the Planet Money Alien labor-economics episode.
+- [Alien Franchise](entities/AlienFranchise.md) — Science-fiction film franchise read by Planet Money as corporate dystopia and labor-monopsony horror.
+- [Alien (film)](entities/AlienFilm.md) — Original Alien film used to explain negative job amenities, hidden contract clauses, and weak worker power.
+- [Weyland-Yutani](entities/WeylandYutani.md) — Fictional Alien corporation used as an extreme example of labor monopsony and company control.
+- [Fede Alvarez / Fede Álvarez](entities/FedeAlvarez.md) — Alien: Romulus co-writer/director linking the franchise's horror to powerlessness and labor institutions.
+- [Alien: Romulus](entities/AlienRomulus.md) — Alien film whose company-town colony setup makes leaving Weyland-Yutani administratively impossible.
+- [Rodo Sayagues](entities/RodoSayagues.md) — Alien: Romulus co-writer named in the source as part of the franchise's labor-themed creative branch.
+- [Squamish Nation](entities/SquamishNation.md) — Indigenous nation using returned Vancouver-area land for a large rental-housing project that links sovereignty, housing supply, revenue, and cultural return.
+- [Sinak Village Site and High-Rise Development](entities/SinakVillageSite.md) — Returned Squamish village site near Vancouver becoming an 11-tower, roughly 6,000-unit rental-housing development.
+- [Chief Gibby](entities/ChiefGibby.md) — Former Squamish leader in the Planet Money source connecting forced removal, recurring development revenue, and the claim that the Squamish footprint is back on the land.
+- [Wilson Williams](entities/WilsonWilliams.md) — Squamish council figure using a seven-generations standard to argue for a larger, more culturally visible development plan.
+- [Jacob Lewis III](entities/JacobLewisIII.md) — Squamish project overseer explaining the towers' design, construction status, cultural visibility, and response to neighborhood opposition.
+- [Princeton University](entities/PrincetonUniversity.md) — Research institution cited with MIT through a working paper on permitting delays and housing development costs.
+- [邢海洋 / Xing Haiyang](entities/XingHaiyang.md) — Sanlian senior writer using the Mekong journey to connect travel scenes, maps, monsoon climate, ritual life, Angkor, and water infrastructure.
+- [Mekong River / 湄公河](entities/MekongRiver.md) — EP267 river route linking China, Laos, Cambodia, Tonle Sap, Vietnam's delta, monsoon seasonality, and water-managed history.
+- [Mainland Southeast Asia / 中南半岛](entities/MainlandSoutheastAsia.md) — EP267 regional frame where north-south mountains and river valleys shape ethnic, state, and cultural variation.
+- [Laos / 老挝](entities/Laos.md) — EP267 travel setting for Luang Prabang, Vientiane, temples, almsgiving, engagement ritual, China-Laos Railway, and riverine culture.
+- [Cambodia / 柬埔寨](entities/Cambodia.md) — EP267 Angkor and Tonle Sap setting for hydraulic empire, wetland abundance, and later water-management fragility.
+- [Khmer Empire / 吴哥王朝](entities/KhmerEmpire.md) — Angkor-era polity in EP267 interpreted through temples, sacred kingship, water storage, rice agriculture, and Tonle Sap hydrology.
+- [Angkor / 吴哥](entities/Angkor.md) — EP267 monumental site where temples, inscriptions, water systems, and field presence make mainland Southeast Asian civilization legible.
+- [Tonle Sap Lake / 洞里萨湖](entities/TonleSapLake.md) — Cambodian flood-pulse lake in EP267 linking Mekong hydrology, fishery abundance, Angkor irrigation, and wetland adaptation.
+- [Mekong Delta / 湄公河三角洲](entities/MekongDelta.md) — Downstream Vietnam region in EP267 shaped by French colonial canals, rice production, saltwater intrusion, and climate vulnerability.
+- [China-Laos Railway / 中老铁路](entities/ChinaLaosRailway.md) — EP267 infrastructure case where faster rail travel still depends on local ticketing, transfers, agents, and service coordination.
+- [Lan Xang Kingdom / 澜沧王国](entities/LanXangKingdom.md) — Lao historical reference in EP267 linking place names, river memory, and mainland Southeast Asian state formation.
+- [Sukhothai Kingdom / 苏可泰王朝](entities/SukhothaiKingdom.md) — Thai historical polity in EP267 used to discuss southward pressure and river-valley state formation.
+- [周达观 / Zhou Daguan](entities/ZhouDaguan.md) — Yuan-era envoy whose Zhenla account helps EP267 interpret Angkor abundance and evidence limits.
+- [李菁 / Li Jing (Sanlian)](entities/LiJingSanlian.md) — Talk三联 host framing EP265 from the "请3休13" holiday prompt toward rest, travel, and work-life questions.
+- [颜飞 / Yan Fei (sociologist)](entities/YanFeiSociologist.md) — Tsinghua sociologist in EP265 explaining vacation shame, long-holiday recovery, sensory restoration, and the Walden/Odyssey metaphor.
+- [雷涛 / 无二旅人 / Lei Tao](entities/LeiTao.md) — Travel columnist and long-term traveler grounding EP265's Canada routes, local-life travel, and sensory vacation examples.
+- [British Columbia / 加拿大BC省](entities/BritishColumbia.md) — Canada travel region in EP265 connecting Vancouver, Whistler, ferries, parks, food routes, and mountain access.
+- [Vancouver / 温哥华](entities/Vancouver.md) — EP265 city case for nature-city proximity through parks, sea, food tours, ferry routes, and access to British Columbia travel.
+- [Banff National Park / 班夫](entities/BanffNationalPark.md) — EP265 mountain and forest destination used to show travel sensory recovery in Canada's Rockies.
+- [Whistler / 惠斯勒](entities/Whistler.md) — EP265 mountain-town route extension from Vancouver along the Sea to Sky corridor.
+- [Quebec City / 魁北克城](entities/QuebecCity.md) — EP265 Canada destination linking old-city texture, maple-syrup experience, nearby nature, and wartime historical traces.
+- [Halifax / 哈利法克斯](entities/Halifax.md) — EP265 Canada destination connecting Maud Lewis, maritime history, Titanic rescue memory, and place inquiry.
+- [Maud Lewis / 莫娣](entities/MaudLewis.md) — Canadian artist used in EP265 as a cultural entry point into Halifax and Canada travel.
+- [Leonard Cohen / 莱昂纳德·科恩](entities/LeonardCohen.md) — Canadian poet-musician used in EP265 as a cultural and emotional entry point into Canada.
+- [艾江涛 / Ai Jiangtao](entities/AiJiangtao.md) — Sanlian reporter explaining the Chang'an and Wang Wei branch of the Tang Poetry Road episode.
+- [薄静 / Bo Jing](entities/BoJingSanlianCulture.md) — Sanlian reporter explaining the eastern Zhejiang and Meng Haoran branch; kept separate from 博靖 / Bo Jing because the source uses different Chinese characters.
+- [王维 / Wang Wei](entities/WangWei.md) — Tang poet read through Chang'an social poetry, Buddhist public spaces, and Wangchuan landscape practice.
+- [孟浩然 / Meng Haoran](entities/MengHaoran.md) — Tang poet used to ground the eastern Zhejiang route while keeping his exact itinerary source-scoped and uncertain.
+- [岑参 / Cen Shen](entities/CenShen.md) — Tang frontier poet whose Anxi and Beiting service gives his border poems site and document evidence.
+- [唐代长安 / Tang Chang'an](entities/ChangAnTang.md) — Capital-space node for Tang poetry as court, monastery, reputation, and lost-city geography.
+- [辋川 / Wangchuan](entities/Wangchuan.md) — Lantian valley tied to Wang Wei and Pei Di's Wangchuan landscape poems, with relic loss and access limits.
+- [北庭故城 / Beiting Ancient City](entities/BeitingAncientCity.md) — Xinjiang site used to understand Cen Shen's Beiting service and frontier-poetry geography.
+- [交河故城 / Jiaohe Ancient City](entities/JiaoheAncientCity.md) — Turpan-area site used to read Tang western-region urban structure and frontier context.
+- [沉香 / Agarwood](entities/Agarwood.md) — Fragrant resinous material in EP263 linking tree injury response, wild scarcity, Hainan aroma reputation, beads, line incense, essential oil, and supply-chain trust.
+- [奇楠 / Qinan](entities/Qinan.md) — Premium agarwood category and grafting breakthrough in EP263, used to explain planted agarwood, 转韵, and the consumer upgrade path from blended incense to raw-material appreciation.
+- [观夏 / Guanxia](entities/Guanxia.md) — Chinese fragrance brand case in EP263 showing how contemporary scent products use mood naming, retail experience, packaging, and Chinese fragrance storytelling.
+- [桂花 / Osmanthus](entities/Osmanthus.md) — Fragrance and memory case in EP263 where season, food, hometown, and 满陇桂雨 associations make a floral note culturally legible.
+- [刘良佑 / Liu Liangyou](entities/LiuLiangyou.md) — Taiwan incense-revival figure in EP263 used to contrast formal 香席 practice with today's lower-threshold line incense use.
+- [吴清 / Wu Qing (incense)](entities/WuQingIncense.md) — Ancient-incense-formula reconstruction practitioner in EP263 grounding the 鹅梨帐中香 discussion.
+- [虹鳟 / Rainbow Trout](entities/RainbowTrout.md) — Salmonid food case in EP260 linking domestic cold-water farming, "三文鱼" labeling, freshness claims, feed color, and smoked/prepared trout formats.
+- [鳗鱼 / Eel](entities/Eel.md) — Aquaculture and processing case in EP260 where wild seedling dependence, Guangdong/Shunde production, and grilled-eel factories make eel look both biological and financial.
+- [鹅肝 / Foie Gras](entities/FoieGras.md) — Fatty luxury-food case in EP260 connecting Chinese production, restaurant and prepared formats, farmer income, force-feeding, disease, and animal-welfare tradeoffs.
+- [广东 / Guangdong](entities/Guangdong.md) — Province added through EP260 as a major eel-production and processing node, especially around Taishan and Shunde.
+- [龙羊峡 / Longyangxia](entities/Longyangxia.md) — Highland cold-water trout case in EP260 where reservoir conditions, parasite testing, feed, and fast logistics support domestic rainbow trout.
+- [安徽 / Anhui](entities/Anhui.md) — Foie gras production-region case in EP260, with Huoqiu showing dispersed goose raising, veterinary risk, and processing coordination.
+- [徐光启 / Xu Guangqi](entities/XuGuangqi.md) — Late-Ming official and learner who anchors EP259's geometry, agriculture, calendar reform, artillery, and intellectual-life branches.
+- [苗伟 / Miao Wei](entities/MiaoWeiSanlian.md) — Sanlian writer and EP259 guest explaining Xu Guangqi as a model of active intellectual life and science-history communication.
+- [利玛窦 / Matteo Ricci](entities/MatteoRicci.md) — Jesuit missionary whose maps, geometry teaching, and elite strategy make late-Ming Western learning concrete in EP259.
+- [李之藻 / Li Zhizao](entities/LiZhizao.md) — Late-Ming literatus used in EP259 as a second example of active learning from Western mathematical and technical knowledge.
+- [汤若望 / Johann Adam Schall von Bell](entities/JohannAdamSchallVonBell.md) — Jesuit calendar expert linking 崇祯历书, Ming-Qing transition, Qing astronomy, and later anti-foreign controversy.
+- [杨光先 / Yang Guangxian](entities/YangGuangxian.md) — Qing critic of Jesuit calendar authority used in EP259 to show science, foreignness, and cultural sovereignty in conflict.
+- [孙元化 / Sun Yuanhua](entities/SunYuanhua.md) — Xu Guangqi student connected in EP259 to artillery, fortification, and military use of late-Ming technical learning.
+- [《几何原本》 / Chinese Euclid's Elements](entities/EuclidsElementsChinese.md) — Translated geometry work anchoring EP259's proof-training and mathematical-language branch.
+- [《农政全书》 / Nongzheng Quanshu](entities/NongzhengQuanshu.md) — Xu Guangqi agricultural work used in EP259 to connect knowledge, crop survival, famine, and statecraft.
+- [《崇祯历书》 / Chongzhen Lishu](entities/ChongzhenLishu.md) — Late-Ming calendar-reform compilation connecting astronomy, imperial legitimacy, and Jesuit expertise in EP259.
+- [《坤舆万国全图》 / Kunyu Wanguo Quantu](entities/KunyuWanguoQuantu.md) — Ricci world map used in EP259 as the cartographic spark for Xu Guangqi's Western-learning curiosity.
+- [《同文算指》 / Tongwen Suanzhi](entities/TongwenSuanzhi.md) — Arithmetic text in EP259 used to imagine missed early-modern education reforms around calculation and mathematical learning.
+- [随机波动 / Random Fluctuations](entities/RandomFluctuations.md) — Podcast context for 冷建国 and 张芝琪 in EP258, grounding a non-moralized reading-life conversation.
+- [冷建国 / Leng Jianguo](entities/LengJianguo.md) — Random Fluctuations speaker in EP258 linking bedtime reading to unfinished books, private taste, long attention, and resisting every media wave.
+- [张芝琪 / Zhang Zhiqi](entities/ZhangZhiqi.md) — Random Fluctuations speaker in EP258 grounding reading in body, dry-eye constraints, medium pluralism, bookstores, AI recommendation, and attention practice.
+- [Mia / 自由职业营销从业者](entities/MiaFreelancer.md) — EP257 freelancer whose post-employment path grounds self-directed work, freelance market exposure, and work self-worth boundaries.
+- [土摩托 / Tu Motuo](entities/TuMotuo.md) — Talk三联 EP256 guest translating free will across philosophy, neuroscience, biology, and AI risk.
+- [Philip Ball](entities/PhilipBall.md) — Science writer whose How Life Works helps route EP256 from free will toward life, meaning, and biological agency.
+- [How Life Works](entities/HowLifeWorks.md) — Philip Ball book used in EP256 as a bridge from life science to meaning and agency.
+- [Kevin Mitchell](entities/KevinMitchell.md) — Biology and free-will author cited in EP256 for an organism-level account of agency.
+- [Robert Sapolsky / 萨波斯基](entities/RobertSapolsky.md) — No-free-will thinker used in EP256 to connect behavior, crime, biology, and social conditions.
+- [Benjamin Libet / 利比特](entities/BenjaminLibet.md) — Neuroscientist behind the button-press experiment EP256 treats as important but overinterpreted.
+- [Democritus / 德谟克利特](entities/Democritus.md) — Ancient atomist used in EP256 to introduce material determinism as a free-will challenge.
+- [Chrysippus / 克律西波斯](entities/Chrysippus.md) — Ancient causal-chain reference used in EP256 to frame action as traceable to prior causes.
+- [Pierre-Simon Laplace / 拉普拉斯](entities/PierreSimonLaplace.md) — Mathematician invoked through Laplace's demon as a maximum-predictability pressure on free will.
+- [Deep Blue / 深蓝](entities/DeepBlue.md) — Chess AI used in EP256 as a brute-force contrast with AlphaGo and embodied intelligence.
+- [法迪奥 / Fadior](entities/Fadior.md) — Shunde stainless-steel home-furnishing company used in EP255 to show staged factory-second-generation succession through after-sales, marketing, dealers, category education, and sibling division of labor.
+- [沃特鞋企 / Wote Shoes](entities/WoteShoes.md) — Putian shoe company in EP255 illustrating a harder succession path through failed brand scaling, inventory complexity, e-commerce, live-streaming, IP, and overseas sales.
+- [麻辣王子 / Malawangzi](entities/Malawangzi.md) — Consumer food brand referenced in EP255 as a factory-second-generation personal-IP and self-media operation case.
+- [沈真文 / Shen Zhenwen](entities/ShenZhenwen.md) — Fadior second-generation successor in EP255 whose path from after-sales to marketing grounds the episode's succession-apprenticeship frame.
+- [范鑫宇 / Fan Xinyu](entities/FanXinyu.md) — Changjiang Business School observer cited in EP255 for second-generation entry routes, tacit management knowledge, and founder-successor differences.
+- [长江商学院 / Cheung Kong Graduate School of Business](entities/ChangjiangBusinessSchool.md) — Business-school context in EP255 for family-business successor training and the 接力长江 program.
+- [接力长江 / Jieli Changjiang](entities/JieliChangjiang.md) — Changjiang Business School family-business successor program named in EP255 as institutional infrastructure for factory-second-generation succession.
+- [厂二代GoGoGo](entities/ChangerdaiGoGoGo.md) — Peer community in EP255 where factory second-generation successors compare return-to-family-business pain, public visibility, and learning needs.
+- [Putian / 莆田](entities/Putian.md) — Fujian footwear-manufacturing setting for EP255's Wote succession case.
+- [Foshan / 佛山](entities/Foshan.md) — Guangdong manufacturing-city setting for EP255's Fadior and Shunde family-business succession case.
+- [文淇 / Wen Qi](entities/WenQi.md) — Actor and EP254 host whose stories connect 《我许可》 to menarche, body confidence, people-pleasing, online women-to-women recognition, and self-permission.
+- [游晓颖 / You Xiaoying](entities/YouXiaoying.md) — Screenwriter of 《我许可》 in EP254, linking self-permission to body acceptance, gynecological dignity, driving, accounting, and authorship-credit boundaries.
+- [杜素娟 / Du Sujuan](entities/DuSujuan.md) — Literature teacher in EP254 reading 《我许可》 through three generations of women, menstrual shame, medical dignity, appearance anxiety, and mother-daughter mirroring.
+- [《我许可》 / Wo Xuke](entities/WoXukeFilm.md) — Film used by EP254 as a prompt for women learning self-permission through body experience, refusal, friendship, and mother-daughter recognition.
+- [Ropet](entities/Ropet.md) — AI companion toy in EP253 illustrating the nonverbal pet-like route for emotional hardware.
+- [福仔 / Fuzai AI Toy](entities/FuzaiAIToy.md) — Speech-centered AI toy in EP253 used to contrast talking and non-talking companion design.
+- [小智AI / Xiaozhi AI](entities/XiaozhiAI.md) — Open-source AI hardware project named as one trigger for Huaqiangbei AI-hardware experimentation.
+- [千问眼镜 / Qwen Smart Glasses](entities/QwenSmartGlasses.md) — AI glasses example in EP253 where location plus image context improves place recognition.
+- [AWE China / 中国家电及消费电子博览会](entities/AWEChina.md) — Appliance and consumer-electronics expo used in EP253 to discuss uneven AI home-appliance labeling.
+- [王洪杰 / Wang Hongjie](entities/WangHongjie.md) — Historian explaining 五代十国 through 唐宋转型, regime classification, people-centered narrative, and social history.
+- [《太平年》](entities/Taipingnian.md) — Historical TV drama used as Talk三联's entry point into 五代十国 and the 吴越 perspective.
+- [五代十国 / Five Dynasties and Ten Kingdoms](entities/FiveDynastiesTenKingdoms.md) — Transitional period between late Tang collapse and Northern Song consolidation, read as institutional, regional, and social recomposition.
+- [《新五代史》 / New History of the Five Dynasties](entities/NewFiveDynastiesHistory.md) — Ouyang Xiu history text central to the canonical "十国" category and later loyalty judgments.
+- [后梁 / Later Liang](entities/LaterLiang.md) — First Five Dynasties regime, used as part of the late Tang to Later Tang military-turnover sequence.
+- [后唐 / Later Tang](entities/LaterTang.md) — Five Dynasties regime tied to reunification attempts, Shatuo military networks, and adoptive-son politics.
+- [后晋 / Later Jin](entities/LaterJin.md) — Five Dynasties regime marking the Khitan factor and the route toward later Song unification.
+- [后汉 / Later Han](entities/LaterHan.md) — Brief Five Dynasties regime illustrating rapid northern succession and command instability.
+- [前蜀 / Former Shu](entities/FormerShu.md) — Sichuan regime used for southern parallel-power classification and Wang Jian's social-mobility case.
+- [后蜀 / Later Shu](entities/LaterShu.md) — Sichuan regime that links Ten Kingdoms politics to later Song southern-first unification.
+- [吴越 / Wuyue](entities/Wuyue.md) — Southern kingdom foregrounded by 《太平年》 and classified as investiture-accommodating yet locally controlled.
+- [南唐 / Southern Tang](entities/SouthernTang.md) — Major southern regime used as a parallel-power and cultural/material-remains case.
+- [南汉 / Southern Han](entities/SouthernHan.md) — Lingnan regime used as the distant/flexible type in 十国关系类型.
+- [荆南 / Jingnan](entities/Jingnan.md) — Small participatory regime used to show diplomacy and position as survival strategy.
+- [冯道 / Feng Dao](entities/FengDao.md) — Five Dynasties literati official whose multi-regime service becomes a test case for later Song loyalty judgment.
+- [黄巢 / Huang Chao](entities/HuangChao.md) — Late Tang rebel used to push the Five Dynasties story before 907 and frame disorder, trauma, and social disruption.
+- [王建 / Wang Jian (Former Shu)](entities/WangJianFormerShu.md) — Former Shu founder used to show low-status military rise and founder-to-heir anxiety.
+- [李克用 / Li Keyong](entities/LiKeyong.md) — Shatuo military leader used to explain adoptive-son networks and commander-centered power.
+- [李存勖 / Li Cunxu](entities/LiCunxu.md) — Later Tang figure tied to adoptive-son and military-kinship politics.
+- [李嗣源 / Li Siyuan](entities/LiSiyuan.md) — Later Tang figure used to show how adoptive names and loyalty ties became political tools.
+- [石敬瑭 / Shi Jingtang](entities/ShiJingtang.md) — Later Jin founder marking the Khitan factor and the source's route toward Song founding.
+- [刘仪 / Liu Yi](entities/LiuYiSanlian.md) — Talk三联 EP251 guest explaining Iran's nuclear/missile bargaining, horizontal escalation, resistance-axis backfire, and regime-base stabilization.
+- [张时 / Zhang Shi](entities/ZhangShi.md) — Talk三联 EP250 speaker using trail running, breath, wrong turns, equipment, and self-paced challenge to frame outdoor flow and safety judgment.
+- [阿蒙 / Amon](entities/Amon.md) — Outdoor-sports speaker in EP250 grounding climbing, skiing, breath control, fear, failure, women climbers, and controlled-risk practice.
+- [《顺流而上》 / Upstream Documentary](entities/ShunliuErshangDocumentary.md) — Outdoor-sports documentary referenced in EP250 to frame long-term inner direction, skiing practice, and women athlete visibility.
+- [杨小华 / Yang Xiaohua (Skier)](entities/YangXiaohuaSkier.md) — Skier discussed through 《顺流而上》 in EP250 as a case for long-term outdoor practice without forcing daily peak experience.
+- [始祖鸟山地课堂 / Arcteryx Mountain Classroom](entities/ArcteryxMountainClassroom.md) — Outdoor training context in EP250 for flow theory, mountain goals, women runners, layered clothing, and safety equipment details.
+- [蔡小川 / Cai Xiaochuan](entities/CaiXiaochuan.md) — Sanlian photographer and Talk三联 guest in EP249 whose field observations ground Yongning ritual scenes, sensory immersion, gendered ritual participation, and lineage belonging.
+- [永宁古城 / Yongning Ancient City](entities/YongningAncientCity.md) — Minnan ancient-city case in EP249, used to connect Ming guard-settlement history, multi-surname lineage density, temples, ancestral halls, 城隍 worship, and ritual succession.
+- [苗千 / Miao Qian](entities/MiaoQian.md) — Sanlian reporter and Talk三联 guest translating Chinese big-science facilities into field-reporting scenes across Ali, Jiangmen, Dongguan, Guizhou, and Wuhan.
+- [阿里原初引力波探测站 / Ali Primordial Gravitational Wave Observatory](entities/AliPrimordialGravitationalWaveObservatory.md) — high-altitude Tibet project searching cosmic microwave background polarization traces of primordial gravitational waves.
+- [江门中微子实验 / Jiangmen Underground Neutrino Observatory](entities/JiangmenUndergroundNeutrinoObservatory.md) — underground neutrino project using rock shielding, reactor-distance geometry, liquid scintillator, and high-purity water to study weak neutrino signals.
+- [中国散裂中子源 / China Spallation Neutron Source](entities/ChinaSpallationNeutronSource.md) — Dongguan neutron-scattering facility used in the episode to connect big science with nondestructive materials probing and detector-related instrumentation.
+- [贵州天眼 / FAST](entities/FAST.md) — radio-telescope project and public-facing big-science site where visitor access is shaped by radio-quiet research constraints.
 - [曾欣 / Zeng Xin](entities/ZengXin.md) — CASS journalism and communication scholar in EP247 whose fieldwork grounds rural women livestreaming, compressed modernity, family-based agency, and county platform labor.
 - [张星云 / Zhang Xingyun](entities/ZhangXingyun.md) — Sanlian speaker in EP246 framing the annual love issue through spatial love studies, nearby encounters, coffee shops, bistros, and city dating venues.
 - [Moku](entities/Moku.md) — Bistro operator interviewed in EP246, explaining how portions, seating, owner presence, and service discretion make a small venue comfortable for women and dates.
@@ -835,6 +997,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Project One论坛](entities/ProjectOneForum.md) — Later form of the 66RPG community in EP242, representing the forum-to-commercialization maker path.
 - [米画师 / Mihuashi](entities/Mihuashi.md) — Art-commission platform named in EP242's discussion of original-character and game-art service markets.
 - [李小杰 / Li Xiaojie](entities/LiXiaojie.md) — Sanlian reporter in EP241 grounding elder-care vocational training; EP244 adds her reflections on journalist authority erosion, social reporting, and staying in media.
+- [黄子翊 / Huang Ziyi](entities/HuangZiyiEducationReporter.md) — Sanlian reporter in EP266 explaining AI-era software, engineering education, foundational training risk, new engineering, and T-shaped talent.
 - [Bosch / 博世](entities/Bosch.md) — Manufacturing company in EP241 representing the heavy-investment dual-system vocational-education model.
 - [Li Auto / 理想汽车](entities/LiAuto.md) — New-energy-vehicle company in EP241 tied to the Changzhou industrial-college case and maintenance career ladder.
 - [常州工业职业技术学院 / Changzhou Industrial Vocational Technical College](entities/ChangzhouIndustrialVocationalTechnicalCollege.md) — Vocational school in EP241 hosting Li Auto's industrial college inside Changzhou's new-energy cluster.
@@ -918,7 +1081,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Li Lu / 李璐](entities/LiLu.md) — Investor-author whose modernization and value-investment worldview frames episode 150's civilizational account of China.
 - [《文明、现代化、价值投资与中国》](entities/CivilizationModernizationValueInvestmentChina.md) — Li Lu book used by episode 150 to link Malthusian escape, free-market/science loops, and long-term China judgment.
 - [宋铮 / Song Zheng](entities/SongZheng.md) — Economist cited by episode 150 as an example of the need for reality-oriented Chinese economic research.
-- [Fujian / 福建](entities/Fujian.md) — Coastal province used for informal investment-trust history in episode 150 and as a historical-baggage-plus-bistro cuisine case in EP245.
+- [Fujian / 福建](entities/Fujian.md) — Coastal province used for informal investment-trust history, cuisine innovation, and EP249's Minnan ritual network around Yongning.
 - [Zhejiang / 浙江](entities/Zhejiang.md) — Coastal province used by episode 150 to contrast early private-economy formation with later inland catch-up.
 - [杨一 / Yang Yi](entities/YangYi.md) — Early Chinese podcast practitioner and 忽左忽右 speaker explaining market education, brand-podcast services, and the Chinese-vs-U.S. podcast path.
 - [欧阳斌 / Ouyang Bin](entities/OuyangBin.md) — 去现场 and 725沙龙-side speaker framing the episode from listener, media-observer, and cultural-dialogue perspectives.
@@ -1153,6 +1316,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zhang Qi / 张奇](entities/ZhangQi.md) — Fudan professor and MOSS lead interpreting DeepSeek, LLM limits, post-training, scenario-specific AI, and 2025 agents.
 - [Fudan University / 复旦大学](entities/FudanUniversity.md) — Academic institution behind Zhang Qi and MOSS in the vol.114 AI annual-review episode.
 - [MOSS](entities/MOSS.md) — Fudan-associated large-model project named through Zhang Qi's role in the vol.114 DeepSeek discussion.
+- [Zhejiang University / 浙江大学](entities/ZhejiangUniversity.md) — EP266 university example for medical AI education, engineering resources, AI-chemistry transfer, and AI-era opportunity density.
+- [Tianjin University / 天津大学](entities/TianjinUniversity.md) — EP266 university example for chemistry-AI teaching, AI for Science talent, and AI-era resource concentration.
 - [NAURA / 北方华创](entities/NAURA.md) — Chinese semiconductor-equipment company used as a concrete example of equipment localization and divergent technology routes.
 - [赵匡胤 / Song Taizu](entities/ZhaoKuangyin.md) — Northern Song founder read through Later Zhou military networks, Chenqiao coup packaging, disarmament, and institutional redesign.
 - [赵光义 / Song Taizong](entities/ZhaoGuangyi.md) — Zhao Kuangyin's brother and later emperor whose Chenqiao role becomes a source-criticism and succession-legitimacy issue.
@@ -1908,10 +2073,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alex Maiassi](entities/AlexMaiassi.md) — Writer who helped convert the Planet Money book idea into sample writing, chapter structure, and a sellable proposal.
 - [Tom Mayer](entities/TomMayer.md) — W. W. Norton editor modeling sales, advance risk, and publisher fit for the Planet Money book auction.
 - [W. W. Norton & Company](entities/WWNorton.md) — Employee-owned publisher that won the Planet Money book through editorial fit, full-color plans, and educational distribution.
+- [Julia Druskin](entities/JuliaDruskin.md) — W. W. Norton trade production director whose decisions ground scratch-and-sniff feasibility, printer selection, EU paper compliance, and press quality control.
+- [Mito Habe Evans](entities/MitoHabeEvans.md) — NPR creative director helping the Planet Money book convert playful design ambition into manufacturable four-color illustration.
+- [Lakeside Book Company](entities/LakesideBookCompany.md) — Domestic printer used by the Planet Money book source to show plates, CMYK printing, signatures, binding, quality checks, and fast reprints.
 - [Fisher Nash](entities/FisherNash.md) — Carmichael's book buyer whose ordering workflow grounds bookstore buying, shelf visibility, returnability, and comparable-sales judgment.
 - [Carmichael's Bookstore](entities/CarmichaelsBookstore.md) — Louisville independent bookstore used by Planet Money to show how shelf space, display tables, and local readers shape book orders.
 - [Stephen Pace](entities/StephenPace.md) — W. W. Norton trade sales director modeling demand, first print runs, returns, remaindering, and broad channel distribution for the Planet Money book.
-- [Planet Money Book](entities/PlanetMoneyBook.md) — Planet Money's own book project, followed from auction and Norton acquisition into bookstore ordering, print-run strategy, and launch-day placement.
+- [Planet Money Book](entities/PlanetMoneyBook.md) — Planet Money's own book project, followed from auction and Norton acquisition into physical manufacturing, bookstore ordering, print-run strategy, and launch-day placement.
 - [McNally Jackson](entities/McNallyJackson.md) — New York independent bookstore used as the launch-day contrast for how category placement and window display shape book visibility.
 - [Barcelos](entities/Barcelos.md) — Remote Brazilian Rio Negro town whose ornamental-fish economy and Cardinal Tetra civic identity are giving way to sport-fishing tourism.
 - [Rio Negro](entities/RioNegro.md) — Amazon river setting whose dark acidic water created the Cardinal Tetra niche around Barcelos.
@@ -2139,7 +2307,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [民生证券 / Minsheng Securities](entities/MinshengSecurities.md) — Securities research institution associated with 牟一凌 in vol.112's China strategy discussion.
 - [毛冬 / Mao Dong](entities/MaoDong.md) — Podcast host and stand-up comedian whose high-entry gold holding example grounds EP268's gold drawdown psychology.
 - [唐涛 / 唐唐 / Tang Tao](entities/TangTao.md) — Ant Fortune community creator explaining gold position size, recurring buyers, family savers, and monthly reward buyers in EP268.
-- [吴淑冰 / Wu Shubing](entities/WuShubing.md) — Talk三联 host framing EP268's gold discussion through price swings, child savings, and household time horizons.
+- [吴淑冰 / Wu Shubing](entities/WuShubing.md) — Talk三联 host framing EP268's gold discussion and EP249's Minnan ritual conversation through Fujian hometown knowledge.
 - [莫晨 / Mo Chen](entities/MoChen.md) — EP268 participant adding family-memory and long-term-practice examples to the household gold discussion.
 - [蚂蚁财富 / Ant Fortune](entities/AntFortune.md) — Wealth-management platform context for EP268's online gold accumulation, recurring purchases, virtual grams, and redemption loop.
 - [《王氏之死》 / The Death of Woman Wang](entities/TheDeathOfWomanWang.md) — Jonathan Spence microhistory of 王氏's murder in early Qing 郯城.
@@ -3353,7 +3521,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [东岳大帝](entities/DongyueDadi.md) — Taishan-linked life-and-death ruler used by episode 136 as an older sacred-mountain branch of afterlife authority.
 - [阎罗王](entities/YanluoWang.md) — Localized Yama/Yanluo death judge connecting Buddhist afterlife material with Chinese clear-official moral judgment.
 - [十殿阎罗](entities/TenKingsOfHell.md) — Ten-court hell-judge system used by episode 136 to organize judgment, punishment, reports, and rebirth.
-- [城隍](entities/Chenghuang.md) — City-god office read by episode 136 as local divine administration, underworld mayoralty, and civic moral memory.
+- [城隍](entities/Chenghuang.md) — City-god office read as local divine administration, underworld mayoralty, civic memory, and EP249's Yongning temple-governance resource.
 - [土地](entities/Tudigong.md) — Intimate local land-god office in episode 136, handling neighborhood-scale protection, reporting, and death registration.
 - [孟婆](entities/MengPo.md) — Underworld figure whose soup of forgetting explains rebirth without previous-life memory in episode 136.
 - [钟馗](entities/ZhongKui.md) — Ghost-quelling figure in episode 136, shaped by image culture, Tang court legend, and possible tool etymology.
@@ -3581,7 +3749,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scotland Yard](entities/ScotlandYard.md) — London policing institution used by the episode to show how early investigative failures shaped later criminal-investigation discipline.
 - [何倩然 / He Qianran](entities/HeQianran.md) — Battery investor and materials/R&D-background guest explaining China's manufacturing edge and future sodium-ion, dry-electrode, recycling, and solid-state routes.
 - [杨璐 / Yang Lu](entities/YangLu.md) — Journalist contributing BYD factory-history, Changzhou cluster, and Yibin industrial-transition reporting to the battery episode.
-- [张从志 / Zhang Congzhi](entities/ZhangCongzhi.md) — Journalist emphasizing battery manufacturing consistency in E229 and semiconductor supply-chain, EDA, lithography, packaging, and compute-cost complexity in EP270.
+- [张从志 / Zhang Congzhi](entities/ZhangCongzhi.md) — Journalist covering battery manufacturing, vocational education, semiconductors, and EP249's Yongning/Minnan ritual network.
 - [CATL / 宁德时代](entities/CATL.md) — Chinese power-battery leader positioned as a beneficiary of demand creation, whitelist protection, manufacturing scale, and Yibin chain anchoring.
 - [ATL / Amperex Technology Limited](entities/ATL.md) — Early Chinese lithium-battery company used to show how licensed technology still required coating, process, and reliability know-how.
 - [Northvolt](entities/Northvolt.md) — European battery counterexample where capital, equipment, and orders did not substitute for deep manufacturing process capability.
@@ -4251,6 +4419,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [麦考林 / Mecox Lane](entities/MecoxLane.md) — Catalog-retail and fashion ecommerce company marking the mail-order-to-online transition.
 - [聚美优品 / Jumei Youpin](entities/JumeiYoupin.md) — Beauty ecommerce company whose celebrity-founder listing story later met counterfeit trust and diversification pressure.
 - [乐蜂网 / Lefeng](entities/Lefeng.md) — Content and celebrity-led beauty ecommerce platform later acquired by Vipshop.
+- [西双版纳 / Xishuangbanna](entities/Xishuangbanna.md) — Yunnan field setting for native bees, rainforest pollination, wild honey collection, and bee-biodiversity knowledge gaps.
+- [蒙阴 / Mengyin](entities/Mengyin.md) — Shandong mountain field site where migratory beekeepers follow locust blossoms while facing weather, market, and pesticide risk.
+- [西双版纳植物园 / Xishuangbanna Botanical Garden](entities/XishuangbannaBotanicalGarden.md) — Local research setting for beginning systematic bee investigation in a high-biodiversity area.
 - [蘑菇街 / Mogujie](entities/Mogujie.md) — Women's fashion discovery and social-commerce platform exposed to Taobao link-rule dependency.
 - [美丽说 / Meilishuo](entities/Meilishuo.md) — Fashion guide-community peer to Mogujie and later merger counterpart.
 - [寺库 / Secoo](entities/Secoo.md) — Luxury ecommerce case illustrating authentication, supply, discount, and low-frequency purchase constraints.
@@ -4291,7 +4462,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Thai Orient Airlines / 泰国东方航空](entities/ThaiOrientAirlines.md) — Overseas airline acquisition target tied to Lan Shili's later contract-fraud acquittal.
 - [Xiu Life / 秀生活](entities/XiuLife.md) — Unmanned convenience-store project used as a later capital-market relaunch case.
 - [Wuhan Erchang Soda / 武汉二厂汽水](entities/WuhanErchangSoda.md) — Revived local beverage brand tied to Lan Shili's later listed-company transaction story.
-- [Quanzhou / 泉州](entities/Quanzhou.md) — Minnan port city anchoring the episode's religious plurality, world-heritage, Song-Yuan maritime trade, and later diaspora/manufacturing story.
+- [Quanzhou / 泉州](entities/Quanzhou.md) — Minnan port and ritual-region node anchoring religious plurality, Song-Yuan maritime trade, diaspora/manufacturing history, and EP249's Yongning ritual network.
 - [Pu Shougeng / 蒲寿庚](entities/PuShougeng.md) — Quanzhou maritime merchant-official used to discuss foreign merchant power, port survival, and regime-change choices.
 - [Zheng Zhilong / 郑芝龙](entities/ZhengZhilong.md) — Minnan maritime trader, pirate, and official whose rise illustrates sea-ban-era gray trade, armed route control, and state incorporation.
 - [Zheng Chenggong / 郑成功](entities/ZhengChenggong.md) — Anti-Qing maritime leader whose Taiwan campaign is framed as both symbolic recovery and practical rear-base strategy.
@@ -5438,6 +5609,133 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Negative Job Amenities](concepts/NegativeJobAmenities.md) — Undesirable job attributes such as danger, isolation, and harsh conditions that should affect job quality and pay.
+- [Compensating Differentials](concepts/CompensatingDifferentials.md) — Wage premiums that should compensate workers for dangerous or unpleasant work when labor markets are competitive.
+- [Shrouded Job Attributes](concepts/ShroudedJobAttributes.md) — Hidden job risks or contract obligations that workers do not fully price before accepting work.
+- [Labor Search Frictions](concepts/LaborSearchFrictions.md) — Practical costs of finding, applying for, quitting, and taking jobs that make workers less mobile.
+- [Non-Compete Agreements](concepts/NonCompeteAgreements.md) — Employment restrictions that limit worker mobility and can strengthen employer labor-market power.
+- [Monopsony By Artifice](concepts/MonopsonyByArtifice.md) — Employer power created by contractual or institutional restrictions rather than natural scarcity.
+- [Company Town Labor Control](concepts/CompanyTownLaborControl.md) — Place-based employer control over work, housing, stores, debt, paperwork, and exit.
+- [Labor Market Counterforces](concepts/LaborMarketCounterforces.md) — Institutions such as minimum wages, antitrust enforcement, and unions that constrain employer power.
+- [Sovereign Housing Development](concepts/SovereignHousingDevelopment.md) — Housing-development pattern where sovereign land-use authority changes zoning constraints, project scale, revenue capture, and supply.
+- [Local Veto Housing Politics](concepts/LocalVetoHousingPolitics.md) — Housing political-economy pattern where nearby opposition can outweigh diffuse regional and future-resident benefits.
+- [Permitting Delay Cost](concepts/PermittingDelayCost.md) — Cost mechanism where slow or uncertain approval processes raise land values, financing risk, and project costs before construction begins.
+- [Indigenous Development Visibility](concepts/IndigenousDevelopmentVisibility.md) — Claim that contemporary, dense, revenue-generating development can express Indigenous presence rather than contradict it.
+- [Mekong River Geographic Writing / 湄公河地理写作](concepts/MekongRiverGeographicWriting.md) — EP267 method of using the Mekong as a narrative spine connecting travel friction, monsoon climate, ritual, Angkor, infrastructure, and delta vulnerability.
+- [Monsoon Seasonal Social Order / 季风季节性社会秩序](concepts/MonsoonSeasonalSocialOrder.md) — EP267 frame for dry and rainy seasons shaping agriculture, burning, Buddhist retreat, flood pulses, and water storage.
+- [Seasonal Burning Agriculture / 季节性烧山农业](concepts/SeasonalBurningAgriculture.md) — EP267 dry-season burning practice read through farm preparation, ash fertility, haze, PM2.5, and environmental tradeoffs.
+- [Mainland Southeast Asia River-Valley State Formation / 中南半岛河谷国家形成](concepts/MainlandSoutheastAsiaRiverValleyStateFormation.md) — EP267 concept for mountains and north-south river valleys shaping ethnic, linguistic, and political zones.
+- [Angkor Hydraulic Empire / 吴哥水利帝国](concepts/AngkorHydraulicEmpire.md) — EP267 synthesis of Tonle Sap flood pulses, reservoirs, dry-season irrigation, rice surplus, labor, temples, and sacred kingship.
+- [Mekong Delta Colonial Canal Agriculture / 湄公河三角洲殖民沟渠农业](concepts/MekongDeltaColonialCanalAgriculture.md) — EP267 downstream water-engineering case where French colonial canals made rice abundance while increasing climate and saltwater-intrusion exposure.
+- [AI-Era Major Choice / AI时代专业选择](concepts/AIEraMajorChoice.md) — EP266 frame for choosing majors by durable foundations, real problem contact, AI collaboration, and transferable judgment rather than current heat.
+- [AI Hollowing Foundational Training / AI导致基础训练空心化](concepts/AIHollowingFoundationalTraining.md) — EP266 risk that students use AI to skip early practice needed for later system judgment.
+- [New Engineering Education / 新工科教育](concepts/NewEngineeringEducation.md) — EP266 engineering-education reform branch around real problems, system design, industry collaboration, and AI-era innovation.
+- [Medical AI Education / 医学AI教育](concepts/MedicalAIEducation.md) — EP266 medical-teaching branch where AI supports case reasoning, simulation, process assessment, and error correction while doctors retain responsibility.
+- [AI For Science Talent / AI for Science人才](concepts/AIForScienceTalent.md) — EP266 basic-science talent pattern combining mathematics, chemistry, physics, computation, experiment, and AI-enabled discovery.
+- [T-Shaped AI Talent / AI时代T型人才](concepts/TShapedAITalent.md) — EP266 talent model combining deep domain grounding with cross-disciplinary AI and industry transfer.
+- [Vacation Shame / 休假羞耻感](concepts/VacationShame.md) — EP265 frame for guilt or unease around taking leave despite wanting rest.
+- [Work-Rest Boundary / 工作休假边界](concepts/WorkRestBoundary.md) — EP265 concept that vacation becomes rest only when workplace communication, handoff, and availability boundaries hold.
+- [Long Vacation Recovery / 长假恢复](concepts/LongVacationRecovery.md) — EP265 recovery-curve idea that longer holidays may be needed before the body and attention loosen from work mode.
+- [Travel Sensory Recovery / 旅行中的感受力恢复](concepts/TravelSensoryRecovery.md) — EP265 account of travel restoring direct perception through nature, food, art, walking, and local place contact.
+- [Local-Life Density Travel / 生活密度旅行](concepts/LocalLifeDensityTravel.md) — EP265 alternative to packed sightseeing, emphasizing markets, libraries, neighborhoods, food, conversation, and local rhythms.
+- [Nature-City Proximity / 城市自然邻近](concepts/NatureCityProximity.md) — EP265 travel-design pattern where city life and natural immersion are close enough to share one vacation rhythm.
+- [Walden Moment Against Odyssey Moment / 用瓦尔登湖时刻消解奥德赛时刻](concepts/WaldenMomentAgainstOdysseyMoment.md) — EP265 life-design metaphor for using protected pause and perception to interrupt accelerated searching.
+- [唐诗之路 / Tang Poetry Road](concepts/TangPoetryRoad.md) — Route frame for reading Tang poetry through Chang'an, eastern Zhejiang, and western-frontier spaces rather than only through isolated famous lines.
+- [唐诗文化地理 / Tang Poetry Cultural Geography](concepts/TangPoetryCulturalGeography.md) — Method for connecting Tang poems to sites, institutions, routes, ruins, documents, and uncertainty labels.
+- [京城诗社交性 / Capital Poetry Sociality](concepts/CapitalPoetrySociality.md) — Frame for poems produced through capital courts, princely mansions, banquets, send-offs, exams, and reputation exchange.
+- [浙东唐诗之路 / Eastern Zhejiang Tang Poetry Road](concepts/ZhedongTangPoetryRoad.md) — Southern route branch linking Meng Haoran, Zhejiang waterways, mountains, temples, and Six Dynasties cultural memory.
+- [边塞诗的实地经验 / Tang Frontier Poetry Field Experience](concepts/TangFrontierPoetryFieldExperience.md) — Distinction between inherited frontier imagery and poems grounded in Cen Shen's western-region service.
+- [文人漫游作为仕途策略 / Literary Travel As Career Strategy](concepts/LiteraryTravelAsCareerStrategy.md) — Claim that Tang literati roaming could combine scenery, pilgrimage, reputation, recommendation, reclusion, and career search.
+- [历史报道中的AI幻觉 / Historical Reporting AI Hallucination](concepts/HistoricalReportingAIHallucination.md) — AI-assisted history-reporting risk where plausible routes, citations, names, or classical phrasing require independent verification.
+- [Line Incense Daily Life / 线香日常化](concepts/LineIncenseDailyLife.md) — EP263 frame for line incense moving from formal 香席 and literati practice into home reading, meditation, sleep, decompression, and low-threshold scent ritual.
+- [Chinese Fragrance / 中式香气](concepts/ChineseFragrance.md) — EP263 concept for culturally legible Chinese scent built from osmanthus, green notes, agarwood, ancient formulas, understated projection, and shared memory.
+- [Incense Formula Reconstruction / 古方香复刻](concepts/IncenseFormulaReconstruction.md) — EP263 method for reconstructing ancient incense recipes through textual comparison, craft testing, and poetic-scene interpretation.
+- [Agarwood Industrialization / 沉香产业化](concepts/AgarwoodIndustrialization.md) — EP263 supply-chain frame connecting wild agarwood scarcity, planting, qinan grafting, artificial结香, standardization, and export compliance.
+- [Fragrance Product Storytelling / 香气产品叙事](concepts/FragranceProductStorytelling.md) — EP263 branding concept for making hard-to-sample scent legible through naming, packaging, shops, social content, gift language, and use scenes.
+- [Scent As Brand Memory / 气味作为品牌记忆](concepts/ScentAsBrandMemory.md) — EP263 concept for using ambient scent as repeatable brand memory in hotels, museums, retail, and cultural spaces.
+- [Science Education As Civic Literacy / 作为公民素养的科学教育](concepts/ScienceEducationAsCivicLiteracy.md) — EP262 frame for science education as ordinary judgment in health, AI information, parenting, environment, evidence, and everyday decision modeling.
+- [Big-Concept Science Teaching / 大概念科学教学](concepts/BigConceptScienceTeaching.md) — EP262 curriculum approach that connects facts such as teeth, magnets, force, digestion, and electromagnetism to larger scientific systems.
+- [Project-Based Science Learning / 项目式科学学习](concepts/ProjectBasedScienceLearning.md) — EP262 inquiry mode where projects such as cotton-candy machines, local stones, campus ecology, and shared equipment become science learning only when tied to evidence and concepts.
+- [Exam-Driven Science Education / 应试化科学教育](concepts/ExamDrivenScienceEducation.md) — EP262 failure mode where higher-status science classes become worksheets, memorization, and test pressure instead of inquiry and scientific literacy.
+- [HPS Science Education / 科学史哲社会科学教育](concepts/HPSScienceEducation.md) — EP262 approach that teaches science through history, philosophy, society, paradigm change, and the making of concepts rather than settled answer banks.
+- [Chinese New Specialty Aquaculture / 中国新特产养殖](concepts/ChineseNewSpecialtyAquaculture.md) — EP260 frame for high-value farmed foods becoming Chinese specialties through water, seedlings, feed, processing, restaurant trust, ecommerce, and local eating habits.
+- [Salmon-Trout Label Transparency / 鲑鳟商品名透明](concepts/SalmonTroutLabelTransparency.md) — Consumer-trust concept from EP260 arguing that "三文鱼" disputes should be resolved through clear species, origin, and production disclosure.
+- [Eel Seed Price Volatility / 鳗苗价格波动](concepts/EelSeedPriceVolatility.md) — EP260 risk mechanism where wild-caught eel seedlings, informal forward-like deals, and extreme price swings shape aquaculture decisions.
+- [Foie Gras Welfare Tradeoff / 鹅肝福利权衡](concepts/FoieGrasWelfareTradeoff.md) — EP260 animal-food ethics frame connecting force-feeding, lower-mortality technique, disease, farmer income, product quality, and unresolved welfare concerns.
+- [Prepared High-Value Food Formats / 高价值食材即食化](concepts/PreparedHighValueFoodFormats.md) — EP260 concept for smoked trout, grilled eel, small foie gras packs, baby-food products, and other formats that make skill-intensive foods more consumable.
+- [Late-Ming Western Learning / 晚明西学东渐](concepts/LateMingWesternLearning.md) — EP259 frame for Western knowledge entering China through maps, geometry, calendars, Jesuit strategy, translation, and state needs.
+- [Euclidean Proof Training / 欧几里得式证明训练](concepts/EuclideanProofTraining.md) — EP259 concept for geometry as training in definitions, postulates, proof, and knowing why a result follows.
+- [Calendar Reform Legitimacy / 历法改革与政治合法性](concepts/CalendarReformLegitimacy.md) — EP259 frame for calendar astronomy as imperial legitimacy infrastructure rather than neutral technical calculation.
+- [Intellectual Life As Practice / 智识生活作为实践](concepts/IntellectualLifeAsPractice.md) — EP259 answer to how people become smarter: curiosity, reality contact, hard tools, and disciplined reasoning.
+- [Science Value Transmission / 科学价值观传入](concepts/ScienceValueTransmission.md) — EP259 claim that science carries norms around evidence, communication, anti-authoritarianism, dignity, and institutional openness.
+- [Agricultural Relief Statecraft / 农政救荒](concepts/AgriculturalReliefStatecraft.md) — EP259 concept linking Xu Guangqi's agricultural writing to famine survival, crop promotion, and food-security responsibility.
+- [Bedtime Reading Ritual / 睡前阅读仪式](concepts/BedtimeReadingRitual.md) — EP258 frame for reading as a transition from daytime alertness into sleep and dream rather than a cultural KPI.
+- [Reading Medium Pluralism / 阅读媒介多元主义](concepts/ReadingMediumPluralism.md) — EP258 anti-purist reading frame covering paper books, phone reading, text-based video, and AI recommendation as possible reading routes.
+- [Attention Fragmentation / 注意力碎片化](concepts/AttentionFragmentation.md) — EP258 diagnosis that modern reading trouble comes from broken attention more than lack of clock time.
+- [Sleep As Resistance / 睡眠作为抵抗](concepts/SleepAsResistance.md) — EP258 frame for sleep as a bodily limit and private time that resists continuous productivity, platform capture, and high-tech stimulation.
+- [Not Working Ambivalence / 不上班的复杂性](concepts/NotWorkingAmbivalence.md) — EP257 frame for not working as relief, drift, recovery, freelance work, failed re-entry, and family negotiation rather than simple freedom.
+- [Freelance Market Exposure / 自由职业市场暴露](concepts/FreelanceMarketExposure.md) — Risk shift where leaving an organization increases control while exposing the individual to clients, cash flow, payment, reputation, and self-management burdens.
+- [Resume Gap Stigma / 简历空白污名](concepts/ResumeGapStigma.md) — Hiring suspicion attached to visible time away from employment, including health treatment, burnout recovery, exploration, and failed re-entry.
+- [Work Self-Worth Boundary / 工作与自我价值边界](concepts/WorkSelfWorthBoundary.md) — Practice of separating work outcomes, boss/customer judgment, and project failure from personal worth.
+- [Free Will / 自由意志](concepts/FreeWill.md) — Meaningful agency under causal, biological, social, and AI-era constraints.
+- [Causal Determinism / 因果决定论](concepts/CausalDeterminism.md) — Free-will challenge that action may be traceable through prior physical, biological, and social causes.
+- [Laplace's Demon / 拉普拉斯妖](concepts/LaplacesDemon.md) — Predictability thought experiment used in EP256 to pressure naive free-will intuitions.
+- [Libet Experiment Interpretation / 利比特实验解释](concepts/LibetExperimentInterpretation.md) — Caution that neural readiness-potential results should not be overextended from random button pressing to meaningful choice.
+- [Moral Responsibility Under Determinism / 决定论下的道德责任](concepts/MoralResponsibilityUnderDeterminism.md) — Justice and policy frame for taking causal constraints seriously without ignoring harm.
+- [Biological Agency / 生物能动性](concepts/BiologicalAgency.md) — EP256 concept that living systems initiate action toward continuation rather than behaving like passive matter.
+- [Meaning As Evolved Function / 意义作为进化功能](concepts/MeaningAsEvolvedFunction.md) — EP256 claim that meaning can be understood as a life function that guides action and communication.
+- [Embodied Intelligence / 具身智能](concepts/EmbodiedIntelligence.md) — Body, sensing, motion, emotion, and physical feedback as parts of intelligence rather than add-ons.
+- [AI Free-Will Risk / AI自由意志风险](concepts/AIFreeWillRisk.md) — Conditional AI-alignment risk if future systems develop their own goals, meaning, and freedom to act.
+- [Factory Second Generation / 厂二代](concepts/FactorySecondGeneration.md) — EP255 concept for children of Chinese family-business founders who inherit factories, brands, operating systems, and unfinished market transitions rather than only wealth.
+- [Chinese Family Business Succession / 中国家族企业接班](concepts/ChineseFamilyBusinessSuccession.md) — EP255 frame for reform-era private firms entering a concentrated founder-to-child handoff with limited domestic multigenerational precedent.
+- [Second-Generation Business Entry Routes / 二代接班切入路径](concepts/SecondGenerationBusinessEntryRoutes.md) — EP255 framework for successors entering through new business, digital/intelligent transformation, and foreign trade or overseas expansion.
+- [Manufacturing Sales Shift / 制造业销售重心转移](concepts/ManufacturingSalesShift.md) — EP255 diagnosis that many manufacturers now compete around sales, channel, brand, attention, inventory, and consumer trust as much as production.
+- [Tacit Management Knowledge / 默会知识](concepts/TacitManagementKnowledge.md) — EP255 concept for practice-based management judgment that successors cannot learn only from formal education.
+- [Succession as Continuous Entrepreneurship / 接班即持续创业](concepts/SuccessionAsContinuousEntrepreneurship.md) — EP255 reframing of inheritance as rebuilding a company for changed markets rather than passively receiving finished assets.
+- [Gendered Family-Business Roles / 性别化家族企业分工](concepts/GenderedFamilyBusinessRoles.md) — EP255 pattern where women successors are more often placed in finance, sales, brand, and influence while men more often hold production, technology, or central heir roles.
+- [Factory-Second-Generation Personal IP / 厂二代个人IP](concepts/FactorySecondGenerationPersonalIP.md) — EP255 concept for successors using public accounts, short video, and factory stories to make traditional manufacturers visible.
+- [Family-Business Work-Life Boundary / 家族企业工作生活边界](concepts/FamilyBusinessWorkLifeBoundary.md) — EP255 generational boundary between founder identity fusion and successors' desire for governable firms, personal choice, and less permanent physical presence.
+- [Self-Permission / 自我许可](concepts/SelfPermission.md) — EP254 frame for treating one's body, feeling, need, ambition, and refusal as legitimate before external permission fully arrives.
+- [Gynecological Exam Dignity / 妇科检查尊严](concepts/GynecologicalExamDignity.md) — EP254 concept for intimate medical care that preserves explanation, consent, privacy, and patient dignity.
+- [Female Friendship Recognition / 女性友谊的看见](concepts/FemaleFriendshipRecognition.md) — EP254 frame for women friends, film figures, and online commenters helping women name shared experience.
+- [Mother-Daughter Intergenerational Mirror / 母女代际镜像](concepts/MotherDaughterIntergenerationalMirror.md) — EP254 pattern where mothers and daughters reveal inherited scripts, interrupted desires, and the wish not to pass regret forward.
+- [Consumer AI Hardware Product Fit / 消费级AI硬件产品适配](concepts/ConsumerAIHardwareProductFit.md) — EP253 frame for separating useful consumer AI devices from gimmicks by task, feedback, form factor, and user value.
+- [AI Glasses Product Fit / AI眼镜产品适配](concepts/AIGlassesProductFit.md) — EP253 concept for judging AI glasses as translation, meeting, recording, prompting, and recognition wearables rather than full AR platforms.
+- [AI Toy Companionship / AI玩具陪伴](concepts/AIToyCompanionship.md) — EP253 branch of AI friend products focused on toys, memory, speech restraint, child companionship, and dependence risk.
+- [Huaqiangbei AI Solution Providers / 华强北AI方案商](concepts/HuaqiangbeiAISolutionProviders.md) — EP253 concept for Shenzhen solution providers that connect model software, boards, shells, founders, and market judgment.
+- [AI Hardware Privacy Exchange / AI硬件隐私交换](concepts/AIHardwarePrivacyExchange.md) — EP253 frame for privacy tradeoffs around AI glasses, smart beds, sports devices, cameras, microphones, edge processing, and cloud uploads.
+- [唐宋转型 / Tang-Song Transition](concepts/TangSongTransition.md) — Frame that treats 五代十国 as the transformation layer between Tang collapse and Song consolidation.
+- [五代十国概念形成 / Five Dynasties Ten Kingdoms Concept Formation](concepts/FiveDynastiesTenKingdomsConceptFormation.md) — How later Song historiography and political vision stabilized "十国" as a canonical category.
+- [十国关系类型 / Ten Kingdoms Relationship Types](concepts/TenKingdomsRelationshipTypes.md) — Wang Hongjie's classification of local regimes as parallel, investiture-accommodating, participatory, or distant/flexible.
+- [经济文化中心南移 / Economic-Cultural Center Southward Shift](concepts/EconomicCulturalCenterSouthwardShift.md) — Southern-regime stability and accumulation as a condition for later Song prosperity.
+- [五代南方政权相对稳定 / Southern Regime Stability in the Five Dynasties](concepts/WudaiSouthernRegimeStability.md) — Lower southern war intensity as a source of preserved administration, wealth, and culture.
+- [五代阶层流动 / Five Dynasties Social Mobility](concepts/WudaiSocialMobility.md) — War-damaged hierarchy that opened military and local-strongman mobility while destroying older security.
+- [五代文武共生 / Five Dynasties Military-Literati Coexistence](concepts/WudaiMilitaryLiteratiCoexistence.md) — "武夫当国" paired with continued dependence on literati administration, ritual, and documents.
+- [五代继承危机 / Five Dynasties Succession Crisis](concepts/WudaiSuccessionCrisis.md) — Recurring "王二代" problem of founder-to-heir fragility in military-founded regimes.
+- [五代义子假子制度 / Five Dynasties Adoptive-Son System](concepts/WudaiAdoptiveSonSystem.md) — Military pseudo-kinship, naming, and loyalty-binding under weak formal institutions.
+- [五代女性活跃 / Five Dynasties Women Agency](concepts/WudaiWomenAgency.md) — Women's public and household agency under Tang inheritance, frontier cultural influence, and wartime responsibility.
+- [Iran Horizontal Escalation / 伊朗横向升级](concepts/IranHorizontalEscalation.md) — EP251 frame for how Iran can widen war pressure from the battlefield into Hormuz, energy infrastructure, insurance, markets, and Gulf business confidence.
+- [Iran Nuclear-Missile Bargaining / 伊朗核导谈判分叉](concepts/IranNuclearMissileBargaining.md) — EP251 distinction between Iran's politically valuable nuclear file and harder-to-verify missile deterrent as bargaining assets.
+- [Resistance Axis Backfire / 抵抗之弧反噬](concepts/ResistanceAxisBackfire.md) — EP251 diagnosis that Iran's proxy and allied network became a costly, semi-autonomous, transactional strategic liability.
+- [Regime Basic-Base Stabilization / 政权基本盘稳定](concepts/RegimeBasicBaseStabilization.md) — EP251 political-economy frame for postwar money stabilizing Iran's state-dependent base rather than producing rapid reform.
+- [Outdoor Flow State / 户外心流](concepts/OutdoorFlowState.md) — EP250 concept for flow as contingent immersion where breath, terrain, weather, skill, fear, and surprise make outdoor sport more than performance success.
+- [Trail Running Entry Risk / 越野跑低入口高风险](concepts/TrailRunningEntryRisk.md) — EP250 warning that running seems easy to enter while mountain routes require navigation, light, warmth, water, signal, and conservative goals.
+- [Outdoor Safety Preparation / 户外安全准备](concepts/OutdoorSafetyPreparation.md) — EP250 safety frame for layered clothing, tested equipment, headlamps, GPS, helmet details, route judgment, and stopping before conditions deteriorate.
+- [Rock Climbing Failure Practice / 攀岩失败练习](concepts/RockClimbingFailurePractice.md) — EP250 concept for climbing as repeated controlled failure where breath, fear, falling, frustration, and route attempts train embodied judgment.
+- [Women Outdoor Visibility / 女性户外可见度](concepts/WomenOutdoorVisibility.md) — EP250 frame for women trail runners, climbers, and skiers as ordinary capable outdoor participants whose visibility and voice have often lagged presence.
+- [Outdoor Body-Mind Reintegration / 户外身心重新合场](concepts/OutdoorBodyMindReintegration.md) — EP250 account of mountains, breath, phone absence, sleep rhythm, fatigue, and natural limits repairing urban body-mind separation.
+- [Minnan Ritual Network / 闽南仪式网络](concepts/MinnanRitualNetwork.md) — EP249 model for deity processions, ancestor worship, lineage halls, temple committees, donations, routes, and local belonging as one working social system.
+- [Jitong Spirit Medium / 鸡童（乩童）](concepts/JitongSpiritMedium.md) — EP249 concept for the spirit-medium role that makes deity-human communication bodily, contested, and difficult to officialize as cultural tourism.
+- [Ritual Tourism Authenticity Tension / 仪式文旅真实性张力](concepts/RitualTourismAuthenticityTension.md) — EP249 tension between displaying folk ritual as heritage for outsiders and performing it as effective local deity/lineage practice.
+- [Gendered Lineage Ritual Order / 性别化宗族仪式秩序](concepts/GenderedLineageRitualOrder.md) — EP249 frame for women's necessary ritual labor and participation coexisting with male-dominated formal ancestor worship and core procession roles.
+- [Ritual Succession Crisis / 仪式传承危机](concepts/RitualSuccessionCrisis.md) — EP249 concept for the risk that young locals may consume, film, or commercialize tradition without taking on the physical and organizational work that sustains it.
+- [Big Science Infrastructure / 大科学基础设施](concepts/BigScienceInfrastructure.md) — framework for large facilities, long timelines, extreme environments, and project-scale organization in frontier physics.
+- [Weak Signal Detection / 微弱信号探测](concepts/WeakSignalDetection.md) — evidence regime where noise control, shielding, cooling, long data accumulation, and statistics make barely perceptible physical signals measurable.
+- [Extreme Environment Physics / 极端环境物理](concepts/ExtremeEnvironmentPhysics.md) — frame for high plateaus, underground labs, radio-quiet sites, and source-distance geometry as parts of scientific instruments.
+- [Big Science International Collaboration / 大科学国际合作](concepts/BigScienceInternationalCollaboration.md) — account of contemporary basic-physics projects as nationally led yet internationally staffed, open, competitive, and cooperative.
+- [Big Science Technology Spillover / 大科学技术外溢](concepts/BigScienceTechnologySpillover.md) — concept for material, detector, semiconductor, and data-system capabilities pulled forward by demanding basic-science projects.
+- [Scientist As Project Organizer / 科学家作为项目组织者](concepts/ScientistAsProjectOrganizer.md) — frame for chief scientists as researchers, engineering coordinators, budget advocates, and long-horizon project managers.
+- [Science Engineering Aesthetics / 科学工程美感](concepts/ScienceEngineeringAesthetics.md) — concept for the visual and bodily force of large scientific apparatuses as public science communication.
 - [Rural Women Livestreaming / 乡村女主播](concepts/RuralWomenLivestreaming.md) — EP247 concept for rural middle-aged women using livestreaming as phone-skill training, public visibility, flexible work, family negotiation, and uneven platform income.
 - [Livestream Persona Labor / 直播人设劳动](concepts/LivestreamPersonaLabor.md) — EP247 frame for streamers testing beauty, rural authenticity, field scenes, and wife-mother trust signals in response to traffic and buyers.
 - [Compressed Modernity Gender Transition / 压缩现代性中的女性转型](concepts/CompressedModernityGenderTransition.md) — EP247/Zeng Xin frame for inherited family roles and modern selfhood colliding inside rural women's midlife choices.
@@ -6392,7 +6690,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [General Average](concepts/GeneralAverage.md) — Maritime-law risk-sharing principle that can make cargo owners liable for ship or voyage-saving costs.
 - [Freedom of Navigation Trade Order](concepts/FreedomOfNavigationTradeOrder.md) — Trade-order assumption that commercial vessels can use key sea lanes without coercive ad hoc permission.
 - [Sanctions Evasion Crypto Payments](concepts/SanctionsEvasionCryptoPayments.md) — Use of crypto rails for payments that may be difficult inside ordinary bank and dollar-sanctions channels.
-- [Book Publishing Economics](concepts/BookPublishingEconomics.md) — Market machinery that turns a book idea into an acquired financial bet through agents, proposals, rights, advances, risk models, and distribution.
+- [Book Publishing Economics](concepts/BookPublishingEconomics.md) — Market machinery that turns a book idea into an acquired, manufactured, distributed, and ranked financial bet.
 - [Literary Agent Market Making](concepts/LiteraryAgentMarketMaking.md) — Agent work that packages a book project, creates publisher access, seeds demand, and runs a competitive sale.
 - [Book Proposal As Sales Document](concepts/BookProposalAsSalesDocument.md) — Nonfiction proposal as both creative blueprint and business case before a book exists.
 - [Publishing Auction Design](concepts/PublishingAuctionDesign.md) — Choice of bidding format, information flow, rounds, and qualitative fit criteria in a multi-publisher book sale.
@@ -6401,9 +6699,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Author Platform Risk Reduction](concepts/AuthorPlatformRiskReduction.md) — Publishing logic where a known audience and prior purchase behavior reduce acquisition uncertainty.
 - [Winner's Curse](concepts/WinnerCurse.md) — Auction risk that the winning bidder overpaid because valuation was uncertain and competitive pressure was high.
 - [Educational Distribution Strategy](concepts/EducationalDistributionStrategy.md) — Publisher plan to route a book through courseware, syllabi, and classroom use as part of its commercial fit.
+- [Book Manufacturing Supply Chain](concepts/BookManufacturingSupplyChain.md) — Physical and logistical system turning a manuscript and design file into printed, checked, bound, boxed, and replenishable books.
+- [Physical Book Design Tradeoff](concepts/PhysicalBookDesignTradeoff.md) — Constraint pattern where book format, retail price, reader experience, printer capability, and schedule shape one another.
+- [Printing Signature Constraint](concepts/PrintingSignatureConstraint.md) — Production rule where books are printed in multi-page sections, making special pages, inserts, and page counts less flexible than they appear.
+- [Book Printer Selection Risk](concepts/BookPrinterSelectionRisk.md) — Publisher decision problem balancing printer cost, schedule, quality, censorship risk, tariffs, compliance, shipping, and reprint speed.
+- [European Deforestation Regulation Supply Chain](concepts/EuropeanDeforestationRegulationSupplyChain.md) — Publishing compliance issue where paper origin and forest-linked commodity data can reshape book printer selection.
+- [Domestic Book Printing Flexibility](concepts/DomesticBookPrintingFlexibility.md) — Advantage of printing close to market through easier inspection, lower transit uncertainty, faster replenishment, and reduced overseas policy exposure.
 - [Bookstore Buying](concepts/BookstoreBuying.md) — Retail gatekeeping process that decides whether a new book enters a store, how many copies it gets, and where customers encounter it.
 - [Book Returnability](concepts/BookReturnability.md) — Publishing inventory model that lets bookstores return unsold books while pushing major downstream risk back to publishers.
-- [Book Print-Run Strategy](concepts/BookPrintRunStrategy.md) — Publisher decision about how many copies to manufacture before demand is known, balancing stockouts against returns, remainders, and waste.
+- [Book Print-Run Strategy](concepts/BookPrintRunStrategy.md) — Publisher decision about how many copies to manufacture and how fast to replenish before demand is known, balancing stockouts against returns, remainders, and waste.
 - [Piabero Economy](concepts/PiaberoEconomy.md) — Barcelos wild ornamental-fish livelihood system linking local fishers, brokers, exporters, civic identity, and global aquarium demand.
 - [Sustainable Wild Harvesting](concepts/SustainableWildHarvesting.md) — Conservation-economics frame where bounded wild harvest can protect habitat when local livelihood depends on intact ecosystems.
 - [Local Product Advantage Erosion](concepts/LocalProductAdvantageErosion.md) — Pattern where a place loses market control once outsiders reproduce a formerly local product elsewhere.
@@ -7465,10 +7769,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Professional Dignity Beyond Patient Identity](concepts/ProfessionalDignityBeyondPatientIdentity.md) — Boundary against evaluating a sick person only through sympathy rather than professional craft, expertise, and judgment.
 - [Overseas Identity Reset](concepts/OverseasIdentityReset.md) — Pattern where working abroad lets a person loosen domestic labels and names, while remaining tied to risk and loneliness.
 - [Unprotected Overseas Work](concepts/UnprotectedOverseasWork.md) — Overseas-work pattern where autonomy comes without the representative office, HR, colleagues, or emergency support of a large organization.
-- [Chinese Folk Religion Layering](concepts/ChineseFolkReligionLayering.md) — Multi-source folk-religion pattern where ritual, Daoist registers, Buddhist afterlife ideas, local cults, literature, and oral variants coexist without one standard doctrine.
+- [Chinese Folk Religion Layering](concepts/ChineseFolkReligionLayering.md) — Multi-source folk-religion pattern where ritual, Daoist registers, Buddhist afterlife ideas, local cults, literature, oral variants, and EP249's Minnan mediumship practice coexist without one standard doctrine.
 - [Underworld Bureaucracy](concepts/UnderworldBureaucracy.md) — Afterlife model of offices, seals, reports, judges, local gods, and procedures, developed through episode 136's Chinese ghost-and-deity map.
 - [Afterlife Moral Accounting](concepts/AfterlifeMoralAccounting.md) — Supernatural ledger of ordinary conduct, punishments, clean-official judgment, and social order in episode 136's hell stories.
-- [Local Deity Governance](concepts/LocalDeityGovernance.md) — Folk-religion pattern where city gods and land gods act as territorial administrators, neighborhood protectors, and moral record-keepers.
+- [Local Deity Governance](concepts/LocalDeityGovernance.md) — Folk-religion pattern where local gods act as territorial administrators, moral record-keepers, arbitration authorities, and sometimes temple-governance resource centers.
 - [Film Gossip As Context](concepts/FilmGossipAsContext.md) — Use of director anecdotes, scandals, rumors, and habits as source-scoped entry points into film history, production power, and memory.
 - [Director Myth Deflation](concepts/DirectorMythDeflation.md) — Practice of bringing celebrated directors down from pure-genius images without reducing film history to scandal alone.
 - [Film Set Power And Abuse](concepts/FilmSetPowerAndAbuse.md) — Production-side pattern where creative authority, scheduling pressure, money, and career control can turn into fear, coercion, or exploitation.
@@ -8040,7 +8344,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sycophantic AI Companion Risk](concepts/SycophanticAICompanionRisk.md) — Danger that emotionally fluent AI companions over-validate users when correction, friction, or human support is needed.
 - [Experience-Led Brand](concepts/ExperienceLedBrand.md) — Consumer-brand pattern where felt visit, mood, social time, ritual, and place attachment carry value beyond functional product attributes.
 - [Authentic Neighborhood Experience](concepts/AuthenticNeighborhoodExperience.md) — Place-quality frame where resident life, street texture, discovery, and commerce coexist without becoming only a check-in set.
-- [Long-Term Place Operation](concepts/LongTermPlaceOperation.md) — Capability to keep a physical destination or commercial space valuable through operations after the initial build and launch.
+- [Long-Term Place Operation](concepts/LongTermPlaceOperation.md) — Capability to keep a physical destination, heritage place, or ritual community valuable through operations after the initial build or attention spike.
 - [Image-First IP](concepts/ImageFirstIP.md) — Consumer-IP pattern where visual identity and emotional association carry more value than a deep story universe.
 - [Inbound Tourism Brand Discovery](concepts/InboundTourismBrandDiscovery.md) — Route where foreign visitors discover local consumer brands in person and carry attention outward through social media and word of mouth.
 - [Fan Economy](concepts/FanEconomy.md) — Marketing system where entertainment attention, celebrity attachment, fandom behavior, and branded goods reinforce each other.
@@ -8059,7 +8363,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frontier Trade Systems](concepts/FrontierTradeSystems.md) — Borderland trade arrangements linking military provisioning, salt permits, Mongolian trade, guarantees, routes, and branch networks.
 - [Jin Merchant Governance](concepts/JinMerchantGovernance.md) — Shanxi merchant-house incentive system using competence-based promotion, ownership discipline, and profit participation to manage distant operations.
 - [Long-Distance Trade Friction](concepts/LongDistanceTradeFriction.md) — Problem of moving goods, money, information, trust, and legal order across distance in frontier trade, piaohao finance, and supply chains.
-- [Heritage Tourism Commercialization](concepts/HeritageTourismCommercialization.md) — Conversion of preserved architecture and historical memory into tourism value, with risks from over-commercialized scenic-area management.
+- [Heritage Tourism Commercialization](concepts/HeritageTourismCommercialization.md) — Conversion of preserved architecture, historical memory, or ritual practice into tourism value, with risks from over-commercialized or decontextualized display.
 - [Shanxi Coal Economy](concepts/ShanxiCoalEconomy.md) — Modern Shanxi resource base tying national energy supply, coal wealth, safety risk, regulation, corruption exposure, and industrial concentration.
 - [Resource-Based Economic Transition](concepts/ResourceBasedEconomicTransition.md) — Development problem of diversifying a resource-dependent region while the old extractive base remains economically central.
 - [Zou Xikou Migration](concepts/ZouXikouMigration.md) — Northbound Shanxi migration beyond the pass that supplied labor, routes, apprenticeships, and commercial ties for frontier trade.
@@ -8487,6 +8791,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Assisted Dying Safeguards](concepts/AssistedDyingSafeguards.md) — Eligibility and procedure controls such as prognosis, physician review, mental competence, witnessed request, and self-administration.
 - [Skijoring](concepts/Skijoring.md) — Winter sport where a horse pulls a skier through a snowy course with gates, rings, and jumps.
 - [Externality Internalization](concepts/ExternalityInternalization.md) — Process of turning spillover costs or benefits into contracts, prices, norms, subsidies, or operating risks.
+- [Wild Pollinator Crisis / 野生传粉昆虫危机](concepts/WildPollinatorCrisis.md) — Ecological risk where wild bees and other pollinators decline despite visible managed honeybee activity.
+- [Native Bee Ecological Pollination / 本土蜂生态授粉](concepts/NativeBeeEcologicalPollination.md) — Local-bee frame that values pollination of surrounding plants and crops beyond commercial honey output.
+- [Pesticide Pollinator Risk / 农药传粉昆虫风险](concepts/PesticidePollinatorRisk.md) — Agricultural chemical and drone-spraying risk that links pest control, colony loss, field experiments, and crop pollination.
+- [Migratory Beekeeper Livelihood / 转场蜂农生计](concepts/MigratoryBeekeeperLivelihood.md) — Flower-following beekeeping livelihood shaped by bloom windows, transfer logistics, local relationships, prices, weather, and pesticide exposure.
 - [Pollination Service Market](concepts/PollinationServiceMarket.md) — Agricultural-service market where beekeepers are paid to move hives into farms and orchards for crop pollination.
 - [Honey Quality Standards](concepts/HoneyQualityStandards.md) — Food-standard and trust problem around mature honey, concentrated honey, fake honey, and beekeeper income.
 - [Bee Colony Collapse](concepts/BeeColonyCollapse.md) — Beekeeping risk where worker bees disappear or colonies fail, turning ecology into supply-chain and replacement-cost pressure.
@@ -8649,7 +8957,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [City Commercial Observation](concepts/CityCommercialObservation.md) — Practice of using ordinary city details, listener submissions, and local anomalies as evidence about commercial systems.
 - [Local-Life Platform Dependency](concepts/LocalLifePlatformDependency.md) — Small-merchant reliance on local-service platforms and intermediaries for demand, messaging, paid traffic, data, and fulfillment expectations.
 - [Platform Intermediation Tax](concepts/PlatformIntermediationTax.md) — Hidden margin and control cost when traffic-owning or order-intermediating layers pass local fulfillment work to small merchants.
-- [Tourism Traffic Mismatch](concepts/TourismTrafficMismatch.md) — Gap between platform-visible tourist flows and local repeat demand, resident knowledge, or durable neighborhood value.
+- [Tourism Traffic Mismatch](concepts/TourismTrafficMismatch.md) — Gap between platform-visible tourist flows and local repeat demand, resident knowledge, durable neighborhood value, or the social machinery behind "real" ritual.
 - [Online Travel Agency](concepts/OnlineTravelAgency.md) — Platform model aggregating travel inventory, booking, payment, support, invoices, and itinerary management.
 - [OTA Platform Concentration](concepts/OTAPlatformConcentration.md) — Tendency for online-travel booking power to concentrate when users, hotels, inventory, traffic, and systems all reward scale.
 - [Hotel PMS Inventory Control](concepts/HotelPMSInventoryControl.md) — Platform leverage created when booking channels influence hotel property-management and room-inventory systems.

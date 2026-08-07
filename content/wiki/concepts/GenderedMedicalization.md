@@ -2,13 +2,15 @@
 title: "Gendered Medicalization"
 type: concept
 tags: [gender, medicine, body, social-control]
-sources: [110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552]
-last_updated: 2026-08-05
+sources: [ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552]
+last_updated: 2026-08-07
 ---
 
 # Gendered Medicalization
 
 Gendered medicalization is the pattern where medical language improves bodily knowledge while also turning women's bodies into reasons for restriction, pathology, or social doubt. In [[175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]], Meiji-era doctors warn against unsafe inserted paper, cloth, and absorbent cotton, but they also describe menstruation as a period requiring bans on cycling, riding, dancing, coffee, standing, train travel, reading, bathing, or social activity.
+
+[[ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d]] adds [[GynecologicalExamDignity|gynecological exam dignity]] as the clinical side of the concept. The source's issue is not medical care itself, but the way routine exams can become shameful when fear is dismissed, intimate exposure is normalized without consent, or teaching observation overrides patient dignity.
 
 The concept is useful because it avoids a simple science-versus-superstition split. Medical hygiene can reduce infection and improve [[MenstrualProductSocialHistory]], yet the same authority can reinforce [[MenstrualStigma]] when it treats ordinary menstruation as incapacity or danger.
 
@@ -22,8 +24,10 @@ The concept is useful because it avoids a simple science-versus-superstition spl
 - The boundary between care and control depends on whether menstruating people gain safer choices or lose public participation.
 - In later life, medicalization can be both responsible monitoring and a source of bodily humiliation, especially around weight, chronic disease, and women's health checks.
 - Reproductive-aging claims require symmetry: menopause and surgery should not be inflated into social fear while pregnancy and birth are softened into inevitability.
+- Episode 254 adds that intimate exams require dignity and consent; otherwise medical authority can turn necessary care into future avoidance.
 
 ## Connections
+- [[GynecologicalExamDignity]], [[SelfPermission]], [[YouXiaoying|游晓颖]], and [[DuSujuan|杜素娟]] - episode 254's clinical-dignity extension.
 - [[MenstrualStigma]] - stigma can be restated in medical language.
 - [[ProtectionAsControl]] - safety framing can become restriction.
 - [[MenstrualProductSocialHistory]] - product improvement depends partly on medical knowledge but should not be governed only by medicalized suspicion.

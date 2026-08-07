@@ -2,13 +2,15 @@
 title: "Gulf Stability Risk"
 type: concept
 tags: [geopolitics, economy, risk]
-sources: [tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8]
-last_updated: 2026-07-25
+sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8]
+last_updated: 2026-08-07
 ---
 
 # Gulf Stability Risk
 
 Gulf stability risk is the danger that war, attacks, or unresolved diplomacy weaken the confidence that lets the [[GulfCooperationCouncil]] function as a finance, logistics, aviation, sovereign-wealth, and expatriate-business hub. In [[gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6]], [[GregCarlstrom]] argues that the Iran war's lasting damage may be uncertainty rather than only physical destruction.
+
+[[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]] adds the mechanism behind that uncertainty through [[IranHorizontalEscalation]]. The source argues that missile and drone threats to energy infrastructure, even if low probability, can make governments, insurers, factories, and foreign firms act defensively because a single successful strike can produce massive losses.
 
 The concept matters because the modern Gulf's value is reputation-sensitive. Investors, travelers, shippers, companies, expatriates, and sovereign-wealth strategies all price perceived security. If America and [[Iran]] do not reach a durable settlement, even successful absorption of attacks can still leave higher risk premiums and slower confidence rebuilding.
 
@@ -32,3 +34,4 @@ The source also makes the risk uneven. [[UnitedArabEmirates]] is presented as be
 - [[Dubai]], [[DubaiBusinessHubModel]], and [[DubaiRealEstateMarket]] - city-level safe-haven and property-demand branch added by vol.106.
 - [[OPEC]], [[ProductionQuotaDiscipline]], [[GreenParadox]], and [[OilProducerSupplyCoordination]] - oil-producer coordination branch added by Planet Money.
 - [[DualUseTechInfrastructureTargeting]], [[GulfStrategicDiversification]], [[AmazonWebServices|AWS]], and [[Nvidia]] - AI-hub and cloud-infrastructure exposure branch added by Marketplace Tech.
+- [[IranHorizontalEscalation]], [[LowCostDroneWarfare]], and [[ChokepointShippingConfidence]] - EP251's insurance, energy, and market-confidence mechanism.

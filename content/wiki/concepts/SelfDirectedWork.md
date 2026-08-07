@@ -2,8 +2,8 @@
 title: "Self-Directed Work"
 type: concept
 tags: [work, founder, motivation]
-sources: [132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd]
-last_updated: 2026-08-06
+sources: [ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd]
+last_updated: 2026-08-07
 ---
 
 # Self-Directed Work
@@ -20,6 +20,8 @@ The concept is not treated as simple romantic freedom. XiaoSun also says that if
 
 [[tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio]] adds a technical-skill version through [[ChristinaCacioppo]]. She wanted to start a software company but felt blocked because she could not build software, so she left [[UnionSquareVentures]], lived cheaply, treated learning to code as a daily job, and used that structured self-directed period before joining [[Dropbox]] and later founding [[Vanta]].
 
+[[ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng]] adds a freelance marketing version through [[MiaFreelancer|Mia]]. Leaving organizational employment gives her more voice over project ethics and execution, but the source insists that this is not a pure autonomy story: client sourcing, self-packaging, receivables, payment risk, and external clocks become part of the work through [[FreelanceMarketExposure]].
+
 ## Key Claims
 
 - Self-directed work can create unusually high effort when ownership, identity, and purpose are aligned.
@@ -30,6 +32,7 @@ The concept is not treated as simple romantic freedom. XiaoSun also says that if
 - Mobile work expands self-direction only when the worker can satisfy the physical setup needs behind the autonomy story.
 - Episode 132 adds that self-directed work can be a psychological boundary against workplace relationship pressure, but not an escape from economic and logistical constraint.
 - Self-directed learning becomes more credible when it has external structure: a schedule, workspace, projects, budget, and a clear missing capability tied to future work.
+- EP257 adds that self-directed freelance work can increase project control while intensifying direct exposure to clients, cash flow, reputation, and self-worth measurement.
 
 ## Connections
 
@@ -43,3 +46,4 @@ The concept is not treated as simple romantic freedom. XiaoSun also says that if
 - [[MobileWork]] and [[RVTravelLogistics]] — vehicle-bound autonomy case added by EP122.
 - [[RuleBoundOverthinking]], [[WorkplacePacing]], and [[YoumamaMaomao|尤妈妈 / 猫猫]] - episode 132's individual-business-owner and short-job extension.
 - [[ChristinaCacioppo]], [[UnionSquareVentures]], [[Dropbox]], and [[Vanta]] — founder skill-acquisition case added by The Social Radars.
+- [[MiaFreelancer|Mia]], [[FreelanceMarketExposure]], [[NotWorkingAmbivalence]], and [[WorkSelfWorthBoundary]] — EP257's freelance-after-exit extension.

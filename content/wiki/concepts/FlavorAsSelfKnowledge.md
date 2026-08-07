@@ -2,7 +2,7 @@
 title: "Flavor As Self-Knowledge"
 type: concept
 tags: [taste, food, wine, self-knowledge, everyday-life]
-sources: [ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
+sources: [ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv, ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
 last_updated: 2026-08-07
 ---
 
@@ -14,15 +14,19 @@ The concept is sharpened through [[SidewaysFilm|《杯酒人生》]]. The episod
 
 [[ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz]] adds that diners also learn themselves through restaurant scenes. The choice between polished fine dining, local bistro, rice-wine pairing, nonalcoholic tea drinks, and rough stir-fry is partly a preference about pace, body, mood, social occasion, and how much regional intensity one wants.
 
+[[ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv]] adds a scent version. A person's preference for [[LineIncenseDailyLife|line incense]], [[ChineseFragrance|中式香气]], green notes, [[Osmanthus|桂花]], or [[Agarwood|沉香]] can reveal whether they want calm, nostalgia, clarity, warmth, cultural association, or a non-intrusive atmosphere rather than only "a good smell."
+
 ## Key Claims
 - Sensory preference is not trivial; it can reveal habit, comfort, memory, identity, and change.
 - Expertise should make preference more articulate, not turn food and drink into a deservingness test.
 - Personal descriptions of taste can be odd but meaningful because they draw on local memory and individual comparison.
 - The concept complements [[TasteTraining]]: training gives more vocabulary, while self-knowledge decides what matters to the taster.
 - Food scenes can reveal preference as much as flavor notes do: diners may be choosing heat, speed, looseness, ceremony, locality, or comfort.
+- Scent preferences can reveal emotional scene and memory: the user may be choosing quiet, sleep, restraint, home, season, or cultural familiarity.
 
 ## Connections
 - [[Wine|Wine / 葡萄酒]], [[TasteTraining]], and [[CulinaryGrammar]] - source sensory-learning frame.
+- [[LineIncenseDailyLife]], [[ChineseFragrance]], [[Osmanthus]], and [[Agarwood]] - scent-preference branch added by EP263.
 - [[SidewaysFilm|《杯酒人生》]] - cultural-work case for self-projection through wine.
 - [[FoodWritingAsLifeExperience]] - writing practice that connects flavor to memory and life.
 - [[CulinaryIdentityTransformation]] - adjacent concept where repeated food contact changes self-understanding.

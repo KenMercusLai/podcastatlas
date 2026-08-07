@@ -2,8 +2,8 @@
 title: "Mother-Daughter Reconciliation"
 type: concept
 tags: [family, grief, care, life-design]
-sources: [ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552]
-last_updated: 2026-08-05
+sources: [ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552]
+last_updated: 2026-08-07
 ---
 
 # Mother-Daughter Reconciliation
@@ -14,6 +14,8 @@ QinZong's version is grief and missed goodbye. She recognizes that her early wis
 
 [[15-bijingji-gengnianqi-gei-wo-ziyou-557912552]] adds [[ItoHiromi|伊藤比吕美]]'s more jagged version through [[BijingJi|《闭经记》]]. Ito recognizes that she is becoming like the strong mother she once resisted, then tries not to repeat that pattern with her own daughter: she connects the daughter's pregnancy and breastfeeding to her own earlier body history, but she also avoids taking over the daughter's new household life.
 
+[[ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d]] adds [[MotherDaughterIntergenerationalMirror|mother-daughter mirroring]] through [[WoXukeFilm|《我许可》]]. [[DuSujuan|杜素娟]] sees herself between mother and daughter, [[YouXiaoying|游晓颖]] notices resemblance to her mother despite wanting a different life, and [[WenQi|文淇]] imagines her mother's interrupted education.
+
 ## Key Claims
 
 - Reconciliation can happen with memory, not only with direct repair; the missing parent can still shape later self-understanding.
@@ -21,9 +23,11 @@ QinZong's version is grief and missed goodbye. She recognizes that her early wis
 - Adult daughters may understand mothers differently after seeing the pressures, compromises, and historical context around their lives.
 - Repair can include deciding not to repeat the mother's form of care, especially when help would become control.
 - Family repair can include helping a parent accept a life choice that diverges from marriage or motherhood expectations.
+- Episode 254 adds that reconciliation can become forward-facing: a woman tries to live so a future daughter will not have to mourn her unspent self.
 
 ## Connections
 
+- [[MotherDaughterIntergenerationalMirror]], [[SelfPermission]], [[WoXukeFilm|《我许可》]], [[DuSujuan|杜素娟]], [[YouXiaoying|游晓颖]], and [[WenQi|文淇]] - episode 254's intergenerational mirror branch.
 - [[QinZong|秦总]] - mother-loss and missed-goodbye case.
 - [[YinJie|殷姐]] - ongoing repair with a living mother.
 - [[RegretIntegration]] - grief and conflict held inside the present self.

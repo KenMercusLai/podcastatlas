@@ -2,8 +2,8 @@
 title: "Housing Affordability Supply Mechanics"
 type: concept
 tags: [housing, economics, affordability, supply]
-sources: [live-anthropic-co-founder-on-ai-and-jobs, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, can-transforming-neighborhoods-help-kids-escape-poverty]
-last_updated: 2026-07-24
+sources: [the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, live-anthropic-co-founder-on-ai-and-jobs, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, can-transforming-neighborhoods-help-kids-escape-poverty]
+last_updated: 2026-08-07
 ---
 
 # Housing Affordability Supply Mechanics
@@ -20,6 +20,8 @@ The concept spans both halves of the episode. [[InstitutionalSingleFamilyRental]
 
 [[live-anthropic-co-founder-on-ai-and-jobs]] adds [[DarylFairweather]]'s zoning and future-resident version. She argues that eliminating single-family zoning is a major recent housing-policy shift and uses a musical-chairs metaphor to explain why even expensive new housing can still affect broader affordability when it creates more places for households to move.
 
+[[the-skyscrapers-that-nimbys-and-zoning-couldnt-stop]] adds the [[SquamishNation|Squamish Nation]] high-rise case. It shows how [[SovereignHousingDevelopment]], local opposition, and [[PermittingDelayCost]] can affect supply: when normal municipal zoning does not apply in the same way, a valuable urban site can be planned at roughly 6,000 units instead of a more modest mid-rise scale.
+
 ## Key Claims
 - Low construction and low interest rates are named as larger national price drivers than institutional home purchases.
 - Cheap housing forms matter; losing SROs removed a rung of the housing ladder.
@@ -29,6 +31,8 @@ The concept spans both halves of the episode. [[InstitutionalSingleFamilyRental]
 - Public-housing revitalization must count replacement depth and displaced families alongside any opportunity gains for children who remain.
 - Single-family zoning constrains supply by preventing denser housing on land where more households want to live.
 - Housing politics must count would-be residents and future generations, not only current homeowners already present in neighborhood decisions.
+- Sovereign land-use authority can change housing supply by reducing the number of local veto points, while still requiring infrastructure coordination.
+- Permitting delays can raise housing costs by making approved land more valuable before construction begins.
 
 ## Connections
 - [[CorporateLandlordTradeoffs]] - corporate-ownership branch.
@@ -39,3 +43,4 @@ The concept spans both halves of the episode. [[InstitutionalSingleFamilyRental]
 - [[CrossLaminatedTimber]], [[FireResilientConstruction]], and [[NateFoster]] - off-site mass-timber speed branch added by Marketplace Tech.
 - [[HOPEVIProgram]], [[PublicHousingDisplacement]], and [[NeighborhoodOpportunityRevitalization]] - public-housing replacement branch added by Planet Money.
 - [[DarylFairweather]], [[Redfin]], and [[FutureResidentHousingVoice]] - zoning and future-resident branch added by Planet Money.
+- [[SquamishNation]], [[SinakVillageSite]], [[SovereignHousingDevelopment]], [[LocalVetoHousingPolitics]], and [[PermittingDelayCost]] - Vancouver-area sovereign-development branch added by Planet Money.

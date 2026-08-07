@@ -2,8 +2,8 @@
 title: "Environmental Tradeoff Accounting"
 type: concept
 tags: [ecology, agriculture, policy, externalities]
-sources: [tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]
-last_updated: 2026-08-05
+sources: [ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]
+last_updated: 2026-08-07
 ---
 
 # Environmental Tradeoff Accounting
@@ -11,6 +11,10 @@ last_updated: 2026-08-05
 Environmental tradeoff accounting is the discipline of asking where the cost of an environmental choice actually lands. In [[62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260]], the host uses [[JeremyClarkson]]'s farm stories to argue that conservation-minded policies can still have farmer-facing costs, displaced imports, species tradeoffs, flood effects, or maintenance burdens.
 
 The concept does not reject environmental protection. It asks for a wider boundary around the decision: banning a pesticide may help bees but expose oilseed rape to pests; refusing local crop production may push demand toward palm oil and rainforest loss; importing trees may import disease; opposing tree cutting may misunderstand woodland management; hardening urban ground may worsen flooding.
+
+[[ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv]] adds a Chinese beekeeping and native-pollinator version. Crop growers use pesticides to protect harvests, but high-toxicity exposure can kill managed hives, ruin field experiments, weaken [[PollinationServiceMarket|pollination services]], and accelerate [[WildPollinatorCrisis|wild-pollinator decline]]; the accounting has to include crop protection, beekeeper loss, yield gains from pollination, and ecological damage together.
+
+[[ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk]] adds a Mekong water-engineering version. [[AngkorHydraulicEmpire]] shows water control creating rice abundance and state capacity, while [[MekongDeltaColonialCanalAgriculture]] shows that colonial canals and reclamation can also shift costs toward saltwater intrusion, lost buffers, maintenance dependence, and climate vulnerability.
 
 [[16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]] adds a fashion-material version through [[FashionVictimsBook|《时尚受害者》]]. Ivory and tortoiseshell fashion can drive animal killing, while substitutes such as celluloid can reduce one extraction pressure but introduce flammability and factory-fire risk. The same accounting applies to radioactive scrap, artificial silk, dry-cleaning solvents, and disposable clothing turnover: the safer or cheaper choice for one buyer may shift cost to workers, animals, waste handlers, or future exposure.
 
@@ -46,6 +50,8 @@ The concept does not reject environmental protection. It asks for a wider bounda
 - Building-material accounting should include emissions embedded before occupancy, not only the operating energy used after a building opens.
 - Packaging-material accounting should compare waste reduction against the operating constraints that made the incumbent material useful.
 - Fashion-material substitution should ask whether replacing one harmful material simply moves danger into factories, waste streams, flammable substitutes, or hidden worker exposure.
+- Pesticide decisions should be evaluated across crop-protection value, beekeeper losses, pollination yield gains, wild-insect decline, and the feasibility of lower-toxicity or better-timed application.
+- Hydraulic projects should be evaluated across abundance, state capacity, maintenance needs, saltwater intrusion, floodplain ecology, and displaced vulnerability.
 
 ## Connections
 - [[AgriculturalSystemsReality]] - farm-level operating context.
@@ -63,3 +69,5 @@ The concept does not reject environmental protection. It asks for a wider bounda
 - [[EmbodiedCarbonBuildingCode]], [[OperationalCarbon]], [[ConstructionCarbonCompliance]], and [[LowCarbonConstructionMaterials]] - building-material carbon accounting branch from Marketplace Tech.
 - [[MyceliumInsulation]], [[BiodegradableFoamPackaging]], [[SeafoodColdChainPackaging]], and [[ColdChainCPGConstraint]] - polystyrene-substitution branch from Marketplace Tech.
 - [[FashionVictimsBook|《时尚受害者》]], [[FashionSupplyChainExternality]], and [[ToxicFashionMaterialRisk]] - fashion-material and substitution-cost branch added by episode 16.
+- [[PesticidePollinatorRisk]], [[WildPollinatorCrisis]], [[MigratoryBeekeeperLivelihood]], and [[NativeBeeEcologicalPollination]] - EP261 pollinator-risk extension.
+- [[AngkorHydraulicEmpire]], [[MekongDeltaColonialCanalAgriculture]], [[MekongDelta]], and [[ClimateAdaptation]] - Mekong water-engineering extension from EP267.

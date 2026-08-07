@@ -2,8 +2,8 @@
 title: "AI Use Pacing"
 type: concept
 tags: [ai, pacing, productivity, life-design]
-sources: [154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128, tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-08-05
+sources: [ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128, tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
+last_updated: 2026-08-07
 ---
 
 # AI Use Pacing
@@ -34,6 +34,8 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 
 [[e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4]] adds the student dependency and productivity-placebo version. [[KelentoHouTaiyu|Kelento 侯泰宇]] says losing [[Claude]] can feel like losing both execution and insight, while [[AlfredLinTongyu|Alfred 林童雨]] describes AI as daily infrastructure for calendar, email, and coding. The same source warns that perceived productivity can diverge from measured speed when AI creates waiting, review, and fact-checking work.
 
+[[ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix]] adds a reading-culture version. The speakers are open to AI as a recommendation aid, but they resist the pressure to treat every new technology wave as urgent; pacing includes letting books and embodied routines decide what deserves attention now.
+
 ## Key Claims
 
 - AI can convert anxiety into activity: installing tools, trying models, and consuming tokens may feel like progress even without a clear purpose.
@@ -57,6 +59,7 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 - AI rollout pacing can become a retention issue when late-career workers decide that one more employer-driven technology transition is not worth the tradeoff.
 - Pacing can also mean not prompting yet: the user may need a no-AI interval to make AI support an inspected aid rather than the first source of judgment.
 - Episode 154 adds that AI pacing is part of autonomy because the order of thinking and prompting changes whether the answer is owned.
+- EP258 adds that AI pacing can mean using recommendation without surrendering reading pace, book choice, or the right to ignore a short-lived tech wave.
 
 ## Connections
 
@@ -77,3 +80,4 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 - [[KelentoHouTaiyu|Kelento 侯泰宇]], [[AlfredLinTongyu|Alfred 林童雨]], [[Claude]], and [[AIDefaultLearningEnvironment]] - dependency and default-infrastructure branch added by E236.
 - [[AIBrainFry]], [[MattKrop]], and [[BCG]] - Marketplace Tech branch on workplace AI exhaustion and recovery.
 - [[LaurenWeber]], [[OlderWorkerAIRetirement]], and [[InstitutionalKnowledgeTransfer]] - Marketplace Tech branch where rapid adoption can trigger retirement and knowledge loss.
+- [[ReadingMediumPluralism]], [[AttentionFragmentation]], and [[AIAssistedReading]] - EP258's reading and technology-wave extension.

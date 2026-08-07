@@ -3,6 +3,7 @@ title: "Global Product Localization"
 type: concept
 tags: [internationalization, localization, product, platform]
 sources:
+  - ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw
   - musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz
   - quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec
   - guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5
@@ -40,6 +41,8 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 
 [[165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo]] adds the industrial-company version through [[LocalizedGlobalCompany]]. The episode's localization problem is not only product, content, or marketing adaptation; it includes factories, local supplier clusters, customs and compliance, after-sales networks, clinical data, R&D teams, and whether a Chinese firm becomes part of local economic development.
 
+[[ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw]] adds a smaller family-manufacturing version through [[SecondGenerationBusinessEntryRoutes|second-generation entry routes]]. The source treats foreign trade, overseas expansion, and [[Amazon]] selling as areas where internationally educated [[FactorySecondGeneration|厂二代]] can use language and market familiarity, but only if overseas-channel work is connected to production, inventory, and brand proof.
+
 ## Key Claims
 - A global product should separate what must be globally consistent from what must adapt locally.
 - Local content and operations can vary without fragmenting the core product container.
@@ -58,6 +61,7 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - Media localization can require changing fantasy signals and story psychology: the same plot pattern may need different visual status markers, relationship dynamics, and payment assumptions across markets.
 - Short-drama localization also includes local actor participation and paid-traffic feedback, because campaign data can reveal fit problems that translation alone misses.
 - Episode 165 adds that industrial-company localization can require local manufacturing, supply-chain, and R&D reconstruction beyond the product interface.
+- EP255 adds that family-manufacturing localization may begin as a successor's entry path, but it still needs production readiness, fulfillment discipline, and a credible consumer story.
 
 ## Connections
 - [[TikTok]], [[Douyin]], and [[ByteDance]] — source product and company case.
@@ -74,3 +78,4 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - [[AIShortDramaOverseasLocalization]], [[WuGeGeGeDouChongWo]], [[YiWanFuWengHuiGui]], [[RodeoAI]], [[Chouxiangzai]], and [[Taitai]] - AI short-drama localization extension added by What's Next.
 - [[ShortDramaOverseasExpansion]], [[ShortDramaOverseasLocalization]], [[WomenOrientedMelodramaDemand]], [[WebFictionToShortDramaPipeline]], and [[DataDrivenEntertainmentProduct]] - broader short-drama export branch added by EP240.
 - [[LocalizedGlobalCompany]], [[SecurityFirstSupplyChainLogic]], [[SFHolding]], [[AnkerInnovations]], and [[BeiGene]] - industrial-company localization layer added by episode 165.
+- [[FactorySecondGeneration]], [[WoteShoes]], [[SecondGenerationBusinessEntryRoutes]], [[ManufacturingSalesShift]], and [[Amazon]] - family-manufacturing overseas-channel extension added by EP255.

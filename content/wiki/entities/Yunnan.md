@@ -8,6 +8,8 @@ last_updated: 2026-08-07
 
 # Yunnan / 云南
 
+[[ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv]] adds a pollinator-ecology layer through [[Xishuangbanna|西双版纳]]. The episode treats southern Yunnan as a high-biodiversity bee setting where [[NativeBeeEcologicalPollination|本土蜂生态授粉]], wild honey collection, cash-crop pesticide pressure, and weak species surveys all shape the difference between honey value and ecosystem value.
+
 [[ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz]] adds a restaurant-innovation layer through [[XuePeng|薛鹏]] and [[YaRestaurant|芽]]. The episode treats Yunnan cuisine as difficult to summarize because highland, tropical, minority, fermentation, and city-adapted food systems differ sharply, but that same complexity supports [[YunnanCuisineMenuNarrative|云南菜路线叙事]] in contemporary restaurants.
 
 [[144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt]] adds a rural-development case through [[Mapingguan|马坪关]], [[DuanSihe|段四合]], and [[ShaxiAncientTown|沙溪古镇]]. Yunnan here is not primarily food or scenery, but a setting where roads, electricity, [[MatsutakeCommonsManagement]], [[VillageSelfGovernance]], [[RuralWomenPublicParticipation]], and [[SlowRuralTourism]] meet in one mountain village.

@@ -2,8 +2,8 @@
 title: "Embodied Personhood"
 type: concept
 tags: [embodiment, personhood, science-fiction, ai]
-sources: [166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059, 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]
-last_updated: 2026-08-06
+sources: [ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, 166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059, 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]
+last_updated: 2026-08-07
 ---
 
 # Embodied Personhood
@@ -11,6 +11,8 @@ last_updated: 2026-08-06
 [[166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059]] adds a prosthetic-and-landscape version through [[AStretchOfHighwayTwoLanesWide|《一段双车道公路》]]. Andy's personhood is not reducible to flesh, device, or brain signal: the episode reads his road-arm experience as [[EmbodiedIdentityBoundary]], where a removed chip can be mourned because it carried sensation, place, and attachment.
 
 Embodied personhood is the idea that becoming or remaining a person depends on body, sensation, vulnerability, affect, and situated experience rather than only intelligence or information. [[sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]] develops this through [[RogerZelazny|Zelazny]]'s [[ForABreathITarry|《趁生命气息逗留》]], where Frost studies humanity but only approaches human status through bodily feeling and fear.
+
+[[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]] adds a nonfiction biology-and-AI version. [[TuMotuo|土摩托]] argues that human intelligence is inseparable from evolved body, emotion, sensation, and [[MeaningAsEvolvedFunction|meaning processing]], which makes [[EmbodiedIntelligence|embodied intelligence]] a personhood boundary as well as an AI capability problem.
 
 The source also uses the concept negatively. In [[TwentyFourViewsOfMountFujiByHokusai|《富岳二十四景》]], digital upload does not guarantee a higher form of life; the uploaded ex-husband can remain lonely, possessive, and coercive. In [[PermafrostZelazny|《永久冻土》]], Glenda's merger with mycelium shows another bodily transformation: not clean transcendence, but a shift into land, fungi, and nonhuman perception.
 
@@ -22,9 +24,11 @@ The source also uses the concept negatively. In [[TwentyFourViewsOfMountFujiByHo
 - Digital or artificial intelligence does not automatically escape human weakness.
 - Transformation can expand agency, but it can also erase or distort the feelings that make a life recognizable.
 - Bodily suffering can mark moral growth when it turns self-preservation into care for another person.
+- EP256 adds that meaningful human agency depends on embodied life, not only on cognitive output or language capability.
 
 ## Connections
 - [[RobotHumanBoundary]] - broader machine/person frame.
+- [[FreeWill]], [[BiologicalAgency]], [[MeaningAsEvolvedFunction]], and [[EmbodiedIntelligence]] - EP256's biological personhood extension.
 - [[Pinocchio]], [[Geppetto]], [[BlueFairy]], and [[GrowthAsProtectorRole]] - fairy-tale embodiment branch added by episode 122.
 - [[ForABreathITarry|《趁生命气息逗留》]], [[PermafrostZelazny|《永久冻土》]], and [[TwentyFourViewsOfMountFujiByHokusai|《富岳二十四景》]] - main source examples.
 - [[WetStateHumanAgency]], [[EmbodiedJudgment]], and [[TranscendenceAgainstHumanFeeling]] - adjacent wiki concepts.

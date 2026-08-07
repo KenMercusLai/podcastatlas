@@ -8,6 +8,22 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-07] ingest | The real horror of 'Alien' and how it explains why we're not paid enough
+
+Added source page for a Planet Money episode using Alien and Alien: Romulus to explain labor monopsony, negative job amenities, compensating differentials, shrouded job attributes, search frictions, non-competes, company-town labor control, and labor-market counterforces. Created pages for Arin Dube / Arindrajit Dube, The Wage Standard, University of Massachusetts Amherst, Alien Franchise, Alien (film), Weyland-Yutani, Fede Alvarez, Alien: Romulus, Rodo Sayagues, Negative Job Amenities, Compensating Differentials, Shrouded Job Attributes, Labor Search Frictions, Non-Compete Agreements, Monopsony By Artifice, Company Town Labor Control, and Labor Market Counterforces; updated overview, index, NPR, Planet Money, United States, Uruguay, Greg Rosalsky, Kenny Malone, Alex Goldmark, Labor Monopsony, No-Poaching Agreements, Paid Vacation As Labor Right, Employer-Bargained Benefits, Contract Theory, Incomplete Contract, and Information Asymmetry In Contracts. No direct contradiction found; source-name caveat recorded because the local Markdown says "Aaron Dube" while episode metadata identifies the guest as Arin Dube / Arindrajit Dube.
+
+## [2026-08-07] ingest | EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？
+
+Added source page for a Talk三联 episode with 李菁, 颜飞, and 雷涛/无二旅人 on "请3休13", vacation shame, work-rest boundaries, long-holiday recovery, Canada as a long-vacation case, nature-city proximity, travel sensory recovery, local-life travel, and the Walden/Odyssey rest metaphor. Created pages for 李菁, 颜飞 (sociologist), 雷涛/无二旅人, British Columbia, Vancouver, Banff National Park, Whistler, Quebec City, Halifax, Maud Lewis, Leonard Cohen, Vacation Shame, Work-Rest Boundary, Long Vacation Recovery, Travel Sensory Recovery, Local-Life Density Travel, Nature-City Proximity, and Walden Moment Against Odyssey Moment; updated overview, index, Talk三联, 三联生活周刊, Canada, Paid Vacation As Labor Right, Labor Moral Ambivalence, Good Work New Standard, Normal Work Baseline, Work Role Decentering, Not Working Ambivalence, Work Self-Worth Boundary, Workplace Pacing, Attention Fragmentation, Autonomy Under Information Flow, Screen Time Friction, Nature Contact And Self-Perception, Outdoor Body-Mind Reintegration, Travel Reading As Place Inquiry, Henry David Thoreau, and The Odyssey. No direct contradiction found; the source complements EP244 and EP257 by showing that workers need not only a tolerable job or possible exit, but also real temporary disconnection when they are officially on leave.
+
+## [2026-08-07] ingest | EP252 《太平年》之外的五代十国，什么样？
+
+Added source page for a Talk三联 episode with 王洪杰 on 《太平年》 as an entry point to 五代十国, covering 唐宋转型, "十国" category formation, southern-regime relationship types, economic-cultural southward shift, social mobility, military/literati coexistence, succession crises, adoptive-son ties, women, everyday life, and historical memory. Created pages for 王洪杰, 《太平年》, 五代十国, 《新五代史》, 后梁, 后唐, 后晋, 后汉, 前蜀, 后蜀, 吴越, 南唐, 南汉, 荆南, 冯道, 黄巢, 王建, 李克用, 李存勖, 李嗣源, 石敬瑭, Tang-Song Transition, Five Dynasties Ten Kingdoms Concept Formation, Ten Kingdoms Relationship Types, Economic-Cultural Center Southward Shift, Southern Regime Stability in the Five Dynasties, Five Dynasties Social Mobility, Five Dynasties Military-Literati Coexistence, Five Dynasties Succession Crisis, Five Dynasties Adoptive-Son System, and Five Dynasties Women Agency; updated overview, index, Talk三联, 三联生活周刊, 欧阳修, 柴荣, 后周, 北宋, 先南后北, and Historical Memory Contest. No direct contradiction found; the source complements the existing Song founding cluster by pushing the explanatory frame backward into late Tang fragmentation, Five Dynasties politics, and southern-regime accumulation.
+
+## [2026-08-07] ingest | EP251 伊朗困局：四十年战略选择的代价与现实
+
+Added source page for a Talk三联 episode with 程静 and 刘仪 on the renewed U.S.-Israel-Iran war, Iran nuclear/missile bargaining, horizontal escalation through energy, insurance, finance, Hormuz, and Gulf confidence, resistance-axis backfire, and regime-base fiscal stabilization. Created pages for 刘仪, Iran Horizontal Escalation, Iran Nuclear-Missile Bargaining, Resistance Axis Backfire, and Regime Basic-Base Stabilization; updated overview, index, Talk三联, 三联生活周刊, 程静, Iran, Israel, Donald Trump, Benjamin Netanyahu, Ali Khamenei, Ruhollah Khomeini, IRGC, Hezbollah, Strait of Hormuz, GCC, U.S.-Iran Nuclear Diplomacy, Gulf Stability Risk, Iran Postwar Economic Relief, Iran Sanctions, Chokepoint Shipping Confidence, Proxy Conflict Spoiler Risk, and Low-Cost Drone Warfare. No direct contradiction found; this source is earlier than the later Khamenei funeral and renewed-strikes pages and supplies the pre-memorandum bargaining logic behind those later updates.
+
 ## [2026-08-06] ingest | 161. 全球宏观和资本市场2026一季度复盘与展望
 
 Added source page for a 起朱楼宴宾客 live Beijing Q1 2026 macro and capital-market review with 大卫翁 and Ricky on the March 23 market selloff, Iran war risk, old-order breakdown, stagflation/recession/liquidity repricing, China January-February data, AI application and financing risk, private credit, gold, oil, A/H allocation, and cash discipline. Created pages for Stagflation Risk Repricing and Lindy Effect Asset Allocation; updated overview, index, 起朱楼宴宾客, 大卫翁, Ricky, Iran, Strait of Hormuz, BlackRock, KKR, Apollo, Federal Reserve, Donald Trump, and related macro, China, gold, AI, private-credit, convertible-bond, and allocation concepts. No direct contradiction found; the source qualifies the January 2026 outlook by showing how quickly the 2026 risk-asset frame shifted from optimism to war, inflation, liquidity, and policy-response uncertainty.
@@ -6304,7 +6320,11 @@ Added source page for a 起朱楼宴宾客 algorithm-series crossover with 独�
 
 ## [2026-08-07] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran health before lint; health scanned 9,200 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 9,200 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while the current wiki scan has 9,200 pages, so graph findings are advisory until `build graph` refreshes it; the graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because no provider-qualified `LLM_MODEL` or provider API key is configured in this shell. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-07] ingest | EP256 AI时代，“自由意志”还存在吗？
+
+Added source page for a Talk三联 episode with 土摩托 on free will in the AI age, covering ancient and Newtonian determinism, Laplace's demon, Libet experiments, Sapolsky's no-free-will argument, moral responsibility, biological agency, meaning, embodied intelligence, AlphaGo/Deep Blue, and conditional future AI free-will risk. Created pages for 土摩托, Philip Ball, How Life Works, Kevin Mitchell, Robert Sapolsky, Benjamin Libet, Democritus, Chrysippus, Pierre-Simon Laplace, Deep Blue, Free Will, Causal Determinism, Laplace's Demon, Libet Experiment Interpretation, Moral Responsibility Under Determinism, Biological Agency, Meaning As Evolved Function, Embodied Intelligence, and AI Free-Will Risk; updated overview, index, Talk三联, 三联生活周刊, Human Agency Under AI, Wet-State Human Agency, Embodied Personhood, Mind-Body Union, Embodied Judgment, Predestined Choice, Consciousness Measurement, AI Alignment Governance, Robot-Human Boundary, LLM Statistical Boundary, AlphaGo, Isaac Newton, Charles Darwin, Environment Over Willpower, and Embodied AI. No direct contradiction found; the source extends the wiki's AI-agency branch by arguing that meaningful choice is constrained but not made meaningless by causal, social, biological, and embodied conditions, while treating current LLMs as short of the stronger future AI-agency risk case.
 
 ## [2026-08-07] ingest | EP244 记者眼中的“好工作”，什么样？
 
@@ -6336,7 +6356,19 @@ Added source page for a 起朱楼宴宾客 gaokao-season finance-career episode 
 
 ## [2026-08-07] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities against `graph/graph.json` built on 2026-07-24. Semantic lint API failed because `LLM_MODEL` is providerless for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-07] ingest | EP266 当AI重构大学，我们该如何定义“好专业”？
+
+Added source page for a Talk三联 episode with 黄子翊, 吴淑彬, and 李小杰 on AI-era major choice after gaokao. Created pages for 黄子翊, Zhejiang University, Tianjin University, AI-Era Major Choice, AI Hollowing Foundational Training, New Engineering Education, Medical AI Education, AI For Science Talent, and T-Shaped AI Talent; updated overview, index, Talk三联, 三联生活周刊, 吴淑彬, 李小杰, Fudan University, College Major Choice, College Career Preparation, AI Default Learning Environment, AI University Assessment Reform, AI As Tutor, AI Shortcut Risk, Entry-Level AI Career-Ladder Risk, AI For Science, University Opportunity Density, Learning How To Learn, AI Engineering Thinking, Human Judgment Under AI, and Domain Expert Alignment. No direct contradiction found; the source qualifies hot-major advice and AI-learning optimism by showing that AI both expands learning tools and threatens foundation-building when students skip the practice that later judgment depends on.
+
+## [2026-08-07] ingest | EP260 一口肥美脂肪，藏着中国养殖的新故事
+
+Added source page for a Talk三联 "新特产" episode with 高一丁, 邱连, 黑麦, and 博靖 on rainbow trout, eel, and foie gras as high-value foods rebuilt through Chinese aquaculture, processing, labeling, welfare tradeoffs, and prepared product formats. Created pages for Rainbow Trout, Eel, Foie Gras, Guangdong, Longyangxia, Anhui, Chinese New Specialty Aquaculture, Salmon-Trout Label Transparency, Eel Seed Price Volatility, Foie Gras Welfare Tradeoff, and Prepared High-Value Food Formats; updated overview, index, Talk三联, 三联生活周刊, 高一丁, 邱连, 黑麦, 博靖, Shunde, Guangxi, Fujian, Aquaculture Feed Dependency, Food Animal Welfare, Livestock Care Economics, Animal Welfare Product Labeling, Restaurant Supply Chain Localization, Culinary Grammar, Material History Narrative, and Restaurant Cultural Legibility. No direct contradiction found; the source qualifies simple imported-versus-domestic and luxury-versus-substitute frames by making water, seedlings, feed, species labels, animal welfare, processing labor, and consumption format central to the food story.
+
+## [2026-08-07] ingest | EP259 与苗师傅漫谈徐光启：四百年前如何让人变聪明？
+
+Added source page for a Talk三联 episode with 高一丁 and 苗伟 on 徐光启 as a late-Ming official, learner, translator, agricultural reformer, military-modernization advocate, and calendar-reform organizer. Created pages for 徐光启, 苗伟, 利玛窦, 李之藻, 汤若望, 杨光先, 孙元化, 《几何原本》, 《农政全书》, 《崇祯历书》, 《坤舆万国全图》, 《同文算指》, Late-Ming Western Learning, Euclidean Proof Training, Calendar Reform Legitimacy, Intellectual Life As Practice, Science Value Transmission, and Agricultural Relief Statecraft; updated overview, index, Talk三联, 三联生活周刊, 高一丁, Jesuits, Humanistic Science Communication, Scientific Revolution Social Infrastructure, and Learning How To Learn. No direct contradiction found; the source qualifies simple science-versus-tradition narratives by treating Western learning as simultaneously mathematical, practical, religiously mediated, politically useful, and culturally vulnerable.
 
 ## [2026-08-07] lint | Wiki health check
 
@@ -6441,3 +6473,151 @@ Ran health before lint; health scanned 9,056 wiki pages and found no empty/stub 
 ## [2026-08-07] lint | Wiki health check
 
 Ran health before lint; health scanned 9,063 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 9,063 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 9,063 pages, so graph findings are advisory until `build graph` refreshes it; the graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`; configure a provider-qualified model and API key to enable contradiction, stale-content, data-gap, and concept-depth checks. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-07] ingest | EP248 在高原与地下，探寻中国“大科学项目”
+
+Added source page for a Talk三联 episode with 高一丁 and 苗千 on Chinese big-science projects, covering Ali primordial gravitational-wave/CMB observations, Jiangmen underground neutrino detection, Dongguan spallation neutron source and cleanroom instrumentation, FAST tourism and radio-quiet rules, extreme research environments, weak-signal detection, international collaboration, scientist project management, and technology spillovers. Created pages for 苗千 / Miao Qian, Ali Primordial Gravitational Wave Observatory, Jiangmen Underground Neutrino Observatory, China Spallation Neutron Source, FAST, Big Science Infrastructure, Weak Signal Detection, Extreme Environment Physics, Big Science International Collaboration, Big Science Technology Spillover, Scientist As Project Organizer, and Science Engineering Aesthetics; updated overview, index, Talk三联, 三联生活周刊, 高一丁, Humanistic Science Communication, Fieldwork As Knowledge Method, Scientific Revolution Social Infrastructure, and Semiconductor Supply Chain. No direct contradiction found; the source extends the wiki's science-history and science-communication branches from lone-genius and public-wonder frames into modern instrument-heavy, internationally networked, project-managed basic physics.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran health before lint; health scanned 9,076 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 9,076 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 9,076 pages, so graph findings are advisory until `build graph` refreshes it; the graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because no provider-qualified `LLM_MODEL` or provider API key is configured in this shell. A bounded fallback scan found no explicit contradiction-marker patterns, but did surface a likely casing duplicate (`wiki/entities/MidJourney.md` and `wiki/entities/Midjourney.md`) and one `+-` bullet artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-07] ingest | EP249 闽南古城游神记：传统仪式背后的乡土网络
+
+Added source page for a Talk三联 episode with 吴淑冰, 张从志, and 蔡小川 on 永宁古城's Minnan ritual network, covering deity processions, ancestor worship, temples, lineage halls, 鸡童/乩童 mediumship, 城隍 temple politics, ritual tourism, gendered ritual order, and youth succession pressure. Created pages for 蔡小川 / Cai Xiaochuan, 永宁古城 / Yongning Ancient City, Minnan Ritual Network, Jitong Spirit Medium, Ritual Tourism Authenticity Tension, Gendered Lineage Ritual Order, and Ritual Succession Crisis; updated overview, index, Talk三联, 三联生活周刊, 吴淑冰, 张从志, 福建, 泉州, 城隍, Chinese Folk Religion Layering, Local Deity Governance, Fieldwork As Knowledge Method, Minnan Maritime Commercial Culture, Heritage Tourism Commercialization, Tourism Traffic Mismatch, and Long-Term Place Operation. No direct contradiction found; the source reinforces the wiki's folk-religion and Minnan branches by showing ritual as local social infrastructure, while qualifying heritage-tourism optimism with the need for local efficacy and youth participation.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP250 走进山野，顺流而上：寻找户外运动中的心流时刻
+
+Added source page for a Talk三联 episode with 张时 and 阿蒙 on outdoor sport, flow, trail running, rock climbing, hiking, skiing, mountain safety, women outdoor visibility, and body-mind reintegration through nature. Created pages for 张时, 阿蒙, 《顺流而上》, 杨小华, 始祖鸟山地课堂, Outdoor Flow State, Trail Running Entry Risk, Outdoor Safety Preparation, Rock Climbing Failure Practice, Women Outdoor Visibility, and Outdoor Body-Mind Reintegration; updated overview, index, Talk三联, 三联生活周刊, Flow Environment Design, Embodied Judgment, Trained Intuition, Extreme Environment Risk Management, Sports Lifestyle Consumption, Urban Niche Sports, Nature Contact And Self-Perception, and Female Self-Possession. No direct contradiction found; the source extends the wiki's sports branch from city-access niche sports into mountain and wilderness practice while qualifying outdoor-flow enthusiasm with safety preparation, ability judgment, and non-forced immersion.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran health before lint; health scanned 9,134 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 9,134 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. The saved `graph/graph.json` snapshot is stale (built 2026-07-24 with 6,453 nodes while the wiki has 9,134 pages), so a read-only current wikilink-graph recompute was used as the stronger graph signal: 96,959 extracted edges, no zero-degree nodes, no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-07] ingest | EP253 爆火的AI好物，到底是“真香”还是智商税？
+
+Added source page for a Talk三联 episode with 黑麦, 刘畅, 王依然, and 魏昭阳 on consumer AI hardware, covering AI glasses, AI toys, Huaqiangbei solution providers, sports and chess robots, robot vacuums, AI appliances, privacy tradeoffs, and product-fit judgment. Created pages for Ropet, 福仔, 小智AI, 千问眼镜, AWE China, Consumer AI Hardware Product Fit, AI Glasses Product Fit, AI Toy Companionship, Huaqiangbei AI Solution Providers, and AI Hardware Privacy Exchange; updated overview, index, Talk三联, 三联生活周刊, 黑麦, 刘畅, 王依然, 魏昭阳, Huaqiangbei, Shenzhen, Qwen, Wearable AI Assistant, AI Plus Terminals, Smart Glasses Bystander Privacy, AI Friend Products, Companion Robots, Embodied AI, Robot Form-Factor Pragmatism, AI Product Fragmentation, and China Handset Supply Chain. No direct contradiction found; the source qualifies AI-terminal optimism by showing that useful consumer AI hardware depends on concrete scenes, form-factor constraints, data boundaries, and emotional safety rather than on adding chat to every object.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran health before lint; health scanned 9,145 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 9,145 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. A current read-only wikilink scan found a second likely orphan/duplicate issue at `wiki/entities/MidJourney.md` because `wiki/entities/MidJourney.md` and `wiki/entities/Midjourney.md` differ only by case. The saved `graph/graph.json` snapshot is stale (built 2026-07-24 with 6,453 nodes and 65,220 edges while current wiki scan has 9,145 pages and 145,017 extracted wikilink edges), so graph-aware findings are advisory until `build graph --no-infer --report` or equivalent is used. Cached graph-aware lint found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; bounded fallback review found no hard unresolved contradiction, but retained source-scoped follow-ups for `ProjectGlasswing`/`ProjectGlassfin`, FigureAI autonomy claims, and the `+-` formatting artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-07] ingest | EP254 游晓颖x文淇x杜素娟：女性这一生，都在反复学习许可自己
+
+Added source page for a Talk三联 episode with 文淇, 游晓颖, and 杜素娟 on 《我许可》 and women repeatedly learning to permit themselves, covering menarche, menstrual concealment, gynecological exam dignity, saying no, female friendship, body confidence, professional authorship boundaries, and mother-daughter intergenerational regret. Created pages for 文淇 / Wen Qi, 游晓颖 / You Xiaoying, 杜素娟 / Du Sujuan, 《我许可》 / Wo Xuke, Self-Permission, Gynecological Exam Dignity, Female Friendship Recognition, and Mother-Daughter Intergenerational Mirror; updated overview, index, Talk三联, 三联生活周刊, Female Self-Possession, Menstrual Stigma, Menstrual Product Social History, Female Body Freedom, Gendered Medicalization, Mother-Daughter Reconciliation, Communication Boundary Setting, and Self-Feeling Trust. No direct contradiction found; the source extends the wiki's women-and-body branch by treating self-permission as repeated practical learning rather than a one-time empowerment state.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？
+
+Added source page for a Talk三联 episode with 高一丁, 李小杰, and 魏茜 on factory second-generation succession, Chinese private manufacturing, family-business handoff, Fadior, Wote shoes, Malawangzi, personal IP, Changjiang Business School training, tacit management knowledge, and succession as continuous entrepreneurship. Created pages for 法迪奥, 沃特鞋企, 麻辣王子, 沈真文, 范鑫宇, 长江商学院, 接力长江, 厂二代GoGoGo, Putian, Foshan, Factory Second Generation, Chinese Family Business Succession, Second-Generation Business Entry Routes, Manufacturing Sales Shift, Tacit Management Knowledge, Succession as Continuous Entrepreneurship, Gendered Family-Business Roles, Factory-Second-Generation Personal IP, and Family-Business Work-Life Boundary; updated overview, index, Talk三联, 三联生活周刊, 高一丁, 李小杰, 魏茜, Shunde, Fujian, Anta Sports, Family Business Scaling, Family Business Succession Opacity, Founder Succession, Process Knowledge, Story Led Consumer Branding, Digital Commerce Literacy, Consumer Brand Moat, Founder Work Boundaries, and Global Product Localization. No direct contradiction found; the source extends the wiki's family-business and manufacturing branches by treating inheritance as an operating, market, and identity transition rather than passive asset transfer.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP257 不上班：一场逃离与寻找的复杂冒险
+
+Added source page for a Talk三联 episode with 高一丁, 吴树彬/吴淑彬, 阮佳宁, and Mia on not working as a complex post-employment condition. Created pages for Mia / 自由职业营销从业者, Not Working Ambivalence, Freelance Market Exposure, Resume Gap Stigma, and Work Self-Worth Boundary; updated overview, index, Talk三联, 三联生活周刊, 高一丁, 吴淑彬, 阮佳宁, Good Work New Standard, Work Role Decentering, Self-Directed Work, Career Self-Rescue, Unemployment Stigma, Long-Term Unemployment Penalty, and Workplace Pacing. No direct contradiction found; the source extends the existing good-work and unemployment-stigma branches by showing that leaving a job can be necessary without being a complete solution to income, time structure, family legitimacy, gap narratives, freelance market risk, or internalized work judgment.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP258 我们如何重拾睡前读书？
+
+Added source page for a Talk三联 episode with 魏茜, 冷建国, and 张芝琪 on bedtime reading as a bodily and attentional practice rather than a self-discipline KPI. Created pages for 随机波动 / Random Fluctuations, 冷建国 / Leng Jianguo, 张芝琪 / Zhang Zhiqi, Bedtime Reading Ritual, Reading Medium Pluralism, Attention Fragmentation, and Sleep As Resistance; updated overview, index, Talk三联, 三联生活周刊, 魏茜, Reading As Life Experience, Non-Instrumental Literary Reading, Reading As Cognitive Restoration, Bookstore Serendipity, AI-Assisted Reading, Attention Industrialization, AI Use Pacing, Screen Time Friction, Artisanal Attention, and Sleep As Daily Health Account. No direct contradiction found; the source qualifies paper-book purism and AI-summary optimism by arguing that reading survives through body, timing, medium choice, bookstore encounter, long-form complexity, and protected sleep.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint without saving a report file. Deterministic and graph-aware checks completed; semantic lint was unavailable because `LLM_MODEL` is not provider-qualified.
+
+## [2026-08-07] ingest | EP261 “蜜蜂危机”：如果失去蜜蜂，世界将会怎样？
+
+Added source page for a Talk三联 episode with 高一丁, 苗千, 段农裕, and 刘畅 on managed honeybees, wild and native pollinators, migratory beekeepers in 蒙阴, 西双版纳 local bees, pesticide and drone-spraying risk, low honey prices, pollination services, biodiversity knowledge gaps, and ecological consequences if pollinators decline. Created pages for Wild Pollinator Crisis, Native Bee Ecological Pollination, Pesticide Pollinator Risk, Migratory Beekeeper Livelihood, 西双版纳 / Xishuangbanna, 蒙阴 / Mengyin, and 西双版纳植物园 / Xishuangbanna Botanical Garden; updated overview, index, Talk三联, 三联生活周刊, 高一丁, 苗千, 段农裕, 刘畅, Yunnan, Pollination Service Market, Honey Quality Standards, Bee Colony Collapse, Commodity Price Exposure, Fieldwork As Knowledge Method, Foraging Ethics, Conservation Intervention, Environmental Tradeoff Accounting, Agricultural Systems Reality, and Urban Ecology. No direct contradiction found; the source qualifies the existing bee-economics branch by separating managed-hive markets from wild-pollinator decline and by showing that priced pollination cannot by itself solve pesticide, habitat, climate, and biodiversity-survey gaps.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP262 高考过后，知识“归零”：我们需要怎样的科学教育？
+
+Added source page for a Talk三联 episode with 高一丁, 魏茜, and 王依然 on science education after gaokao, scientific literacy, big-concept teaching, project-based science learning, HPS, exam-driven reform limits, AI youth projects, and regional implementation gaps. Created pages for Science Education As Civic Literacy, Big-Concept Science Teaching, Project-Based Science Learning, Exam-Driven Science Education, and HPS Science Education; updated overview, index, Talk三联, 三联生活周刊, 高一丁, 魏茜, 王依然, Learning How To Learn, Infectious Disease Public Literacy, AI Default Learning Environment, AI Hackathons, Educational Tracking By Testing, Project-Based Vocational Learning, Humanistic Science Communication, and Science Value Transmission. No direct contradiction found; the source qualifies science-education reform and AI-project optimism by showing that higher status, projects, and tools only matter when tied to evidence, concepts, teachers, assessment, and ordinary judgment.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities against the existing graph. Semantic lint API failed because `LLM_MODEL` is unset/providerless and no provider API key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-07] ingest | EP267 踏访湄公河：雨季、婚飞蚁与水利帝国
+
+Added source page for a Talk三联 episode with 高一丁 and 邢海洋 on the Mekong as a geographic route through Laos, travel friction, monsoon dry/rainy seasonality, local ritual, China-Laos Railway access, Angkor, Tonle Sap, hydraulic empire, Mekong Delta colonial canal agriculture, and modern saltwater-intrusion vulnerability. Created pages for 邢海洋, Mekong River, Mainland Southeast Asia, Laos, Cambodia, Khmer Empire, Angkor, Tonle Sap Lake, Mekong Delta, China-Laos Railway, Lan Xang Kingdom, Sukhothai Kingdom, Zhou Daguan, Mekong River Geographic Writing, Monsoon Seasonal Social Order, Seasonal Burning Agriculture, Mainland Southeast Asia River-Valley State Formation, Angkor Hydraulic Empire, and Mekong Delta Colonial Canal Agriculture; updated overview and index. No direct contradiction found; the source qualifies simple infrastructure and water-control optimism by showing that railways, irrigation, canals, and delta reclamation depend on local coordination, ecological knowledge, maintenance, and climate conditions.
+
+## [2026-08-07] ingest | EP263 线香崛起：发现中式香气的魅力
+
+Added source page for a Talk三联 episode with 邱连, 薛鹏, and 吴立伟 on line incense becoming daily life, Chinese fragrance, ancient formula reconstruction, agarwood/qinan supply, scent storytelling, and fragrance as brand memory. Created pages for 沉香 / Agarwood, 奇楠 / Qinan, 观夏 / Guanxia, 桂花 / Osmanthus, 刘良佑 / Liu Liangyou, 吴清 / Wu Qing (incense), Line Incense Daily Life, Chinese Fragrance, Incense Formula Reconstruction, Agarwood Industrialization, Fragrance Product Storytelling, and Scent As Brand Memory; updated overview, index, Talk三联, 三联生活周刊, 邱连, 薛鹏, 吴立伟, Taste Training, Flavor As Self-Knowledge, Emotion Economy, Immediate-Relief Wellness Consumption, Story Led Consumer Branding, Consumer Brand Moat, and Material History Narrative. No direct contradiction found; the source qualifies simple wellness and market-size claims by keeping health effects, price ranges, and industry scale source-scoped rather than treating them as validated general facts.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP264 踏访“唐诗之路”：盛唐气象少年心
+
+Added source page for a Talk三联 episode with 高一丁, 艾江涛, 薄静, and 张星云 on 三联生活周刊's "唐诗之路" cover report, reading 王维/长安, 孟浩然/浙东, and 岑参/边塞 through cultural geography, field reporting, archaeological/document evidence, and AI hallucination risk in historical reporting. Created pages for 艾江涛, 薄静, 王维, 孟浩然, 岑参, 唐代长安, 辋川, 北庭故城, 交河故城, 唐诗之路, 唐诗文化地理, 京城诗社交性, 浙东唐诗之路, 边塞诗的实地经验, 文人漫游作为仕途策略, and 历史报道中的AI幻觉; updated overview, index, Talk三联, 三联生活周刊, 高一丁, 张星云, Fieldwork As Knowledge Method, AI Journalism Trust, Creator Fact-Checking Responsibility, Situated Media Observation, and Reading As Life Experience. No direct contradiction found; the source qualifies AI-assisted cultural reporting by insisting on primary texts, chronologies, experts, field visits, ruins, inscriptions, and excavated documents before turning a route or poem-date claim into settled knowledge.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities against the existing graph. Semantic lint API failed because `LLM_MODEL` is unset/providerless and no provider API key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities against `graph/graph.json` built on 2026-07-24. Semantic lint API failed because `LLM_MODEL` is providerless for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities against the existing graph. Semantic lint API failed because `LLM_MODEL` is unset/providerless and no provider API key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | Our BOOK vs. the global supply chain
+
+Added source page for a Planet Money episode on how the Planet Money book became a physical manufactured object: manuscript scheduling, $30 price discipline, format choices, 16-page printing signatures, scratch-and-sniff rejection, four-color illustration, China/Malaysia/Turkey/U.S. printer selection, EU deforestation-regulation paper data, tariff uncertainty, domestic printing at Lakeside Book Company, quality control, and fast reprint capacity. Created pages for Julia Druskin, Mito Habe Evans, Lakeside Book Company, Book Manufacturing Supply Chain, Physical Book Design Tradeoff, Printing Signature Constraint, Book Printer Selection Risk, European Deforestation Regulation Supply Chain, and Domestic Book Printing Flexibility; updated overview, index, NPR, Planet Money, Planet Money Book, Alexi Horowitz-Ghazi, Alex Goldmark, Alex Maiassi, Tom Mayer, W. W. Norton, Book Publishing Economics, Book Print-Run Strategy, and Parkinson's Law. No direct contradiction found; the source qualifies simple overseas-cheaper and print-run narratives by showing that price, compliance, logistics, quality checks, and replenishment speed are part of the same publishing economics.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | The skyscrapers that NIMBYs and zoning couldn't stop
+
+Added source page for a Planet Money episode on the Squamish Nation's Vancouver-area high-rise housing project, sovereign land-use authority, zoning constraints, permitting delay costs, neighborhood opposition, federal financing, and Indigenous development visibility. Created pages for Squamish Nation, Sinak Village Site and High-Rise Development, Chief Gibby, Wilson Williams, Jacob Lewis III, Princeton University, Sovereign Housing Development, Local Veto Housing Politics, Permitting Delay Cost, and Indigenous Development Visibility; updated overview, index, NPR, Planet Money, Planet Money Book, Vancouver, British Columbia, Canada, MIT, Housing Affordability Supply Mechanics, Housing Restriction Backfire, and Future Resident Housing Voice. No direct contradiction found; the source qualifies housing-supply and zoning claims by showing how sovereignty, infrastructure coordination, local veto politics, and long-term Indigenous wealth creation interact in one development.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities against the existing graph. Semantic lint API failed because `LLM_MODEL` is unset/providerless and no provider API key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.

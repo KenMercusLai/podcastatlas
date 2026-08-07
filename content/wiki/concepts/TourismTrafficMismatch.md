@@ -2,11 +2,13 @@
 title: "Tourism Traffic Mismatch"
 type: concept
 tags: [tourism, retail, cities, platforms, restaurants]
-sources: [144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]
-last_updated: 2026-08-06
+sources: [ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, 144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]
+last_updated: 2026-08-07
 ---
 
 # Tourism Traffic Mismatch
+
+[[ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww]] adds a ritual-tourism version through [[YongningAncientCity|永宁古城]]. Short-video viewers and festival tourists may arrive for visible deity processions, fireworks, costumes, or dramatic scenes, while local value sits in less legible work: lineage committees, route obligations, offerings, [[JitongSpiritMedium|鸡童/乩童]], ancestor worship, and who is allowed to participate.
 
 [[144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt]] adds a pre-emptive rural version through [[Mapingguan|马坪关]]. Rather than waiting for platform traffic to distort local life, [[DuanSihe|段四合]] and the episode describe a desire to avoid fast online promotion until the village's people, rules, and hosting capacity can handle visitors.
 
@@ -20,6 +22,7 @@ The mismatch is not always bad. Tourist traffic can create real demand for resta
 
 ## Key Claims
 - Episode 144 adds that avoiding a traffic mismatch can be an intentional development choice: a village may defer online visibility until local capacity, ecology, and governance are stronger.
+- EP249 adds that visitor demand for "real ritual" can still miss the social machinery that makes ritual real for locals.
 - Social platforms can concentrate visitors on a small set of visible venues, even when local residents distribute demand differently.
 - Tourism demand can activate underused assets, such as gardens, museums, wetlands, animal parks, old streets, or festival sites, but the commercial spillover depends on route design, dwell time, and nearby supply.
 - Viral traffic may reward photogenic or queue-friendly businesses more than durable neighborhood utility.
@@ -30,6 +33,7 @@ The mismatch is not always bad. Tourist traffic can create real demand for resta
 
 ## Connections
 - [[Mapingguan|马坪关]], [[SlowRuralTourism]], [[LongTermPlaceOperation]], and [[MatsutakeCommonsManagement]] - episode 144's village-capacity and tourism-pacing branch.
+- [[YongningAncientCity|永宁古城]], [[MinnanRitualNetwork]], [[RitualTourismAuthenticityTension]], and [[RitualSuccessionCrisis]] - ritual-tourism branch added by EP249.
 - [[CityCommercialObservation]] — broader method that surfaced the mismatch.
 - [[Xiaohongshu]] and [[OpenWebTrafficDecline]] — discovery surfaces that can redirect travel and restaurant search away from general search.
 - [[RetailSiteSelection]] — tourism flow can make a location appear stronger or weaker than local repeat demand suggests.

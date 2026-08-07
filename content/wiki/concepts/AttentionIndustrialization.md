@@ -2,8 +2,8 @@
 title: "Attention Industrialization"
 type: concept
 tags: [attention, media, ai, platforms]
-sources: [167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708, 123-renxing-shiyan-dangxin-ni-ziji-779479569, tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
-last_updated: 2026-08-06
+sources: [ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, 167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708, 123-renxing-shiyan-dangxin-ni-ziji-779479569, tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
+last_updated: 2026-08-07
 ---
 
 # Attention Industrialization
@@ -34,6 +34,8 @@ The concept connects platform incentives to AI risk. The danger is not only that
 
 [[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] adds a political-philosophy extension: attention industrialization is also reality selection and public appearance. The source's [[AlgorithmicCaveAllegory]] and [[AlgorithmicPublicAppearance]] show how feeds shape what people see and how creators present themselves.
 
+[[ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix]] adds a reading-life version. [[LengJianguo|冷建国]] argues that the issue is less fragmented time than [[AttentionFragmentation|fragmented attention]]: short video, social feeds, and fast technology waves can make people feel they must keep up, while books can give a slower structure for not chasing every wave.
+
 ## Key Claims
 - "Free" algorithmic services often carry a hidden price in attention and behavioral shaping.
 - Industrialized mental food can be abundant while still being low quality.
@@ -51,9 +53,11 @@ The concept connects platform incentives to AI risk. The danger is not only that
 - Episode 159 adds that attention industrialization begins before the feed reaches the user: classification, prediction, ranking, and recognizability already shape what can be noticed.
 - Episode 164 adds that industrialized attention can redirect from news toward entertainment and make non-reaction an important user-side practice.
 - Episode 167 adds that industrialized attention becomes political when it decides which shadows look real and which public selves become visible.
+- EP258 adds that long-form reading can be a practical anti-FOMO structure when the reader chooses not to follow every new platform or AI wave immediately.
 
 ## Connections
 - [[AIUsePacing]] — individual discipline for limiting AI-created work and information consumption.
+- [[AttentionFragmentation]], [[BedtimeReadingRitual]], and [[ReadingAsCognitiveRestoration]] — EP258's reading-life and sleep extension.
 - [[AutonomyUnderInformationFlow]], [[ScreenTimeFriction]], and [[PodcastAsAsynchronousMedia]] - episode 154's phone, AI, and long-form counter-practice branch.
 - [[HumanAgencyUnderAI]] — attention choice is part of agency.
 - [[AttentionAsWeather]] — adjacent frame that attention is socially and materially patterned.

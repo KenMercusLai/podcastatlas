@@ -2,8 +2,8 @@
 title: "Robot-Human Boundary"
 type: concept
 tags: [science-fiction, ai, personhood, robots]
-sources: [130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569, 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]
-last_updated: 2026-07-24
+sources: [ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, 130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569, 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]
+last_updated: 2026-08-07
 ---
 
 # Robot-Human Boundary
@@ -16,6 +16,8 @@ The boundary is not only cognitive. Frost learns enough human knowledge, but the
 
 [[130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569]] adds a domestic AI version through 〈拜访〉 in [[BizarreStories|《怪诞故事集》]]. The story's "爱公" figures are not examined through rebellion or legal personhood, but through [[DomesticAIRelations]]: housework, child care, guest etiquette, shutdown, restart, and the comfort of being able to depend on artificial companions.
 
+[[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]] adds the free-will version of the boundary. Current language models remain outside the episode's stronger agency case, but a future AI with its own meanings, goals, embodiment, and freedom to act would move the question from imitation or companionship toward autonomous agency.
+
 ## Key Claims
 - Machine personhood is not reducible to intelligence, data, or rule-following.
 - Embodiment, fear, trauma, desire, and poetry become personhood signals in the source's Zelazny reading.
@@ -23,6 +25,7 @@ The boundary is not only cognitive. Frost learns enough human knowledge, but the
 - Zelazny's robot stories are adjacent to modern AI questions but remain literary explorations of personhood rather than product predictions.
 - Older fairy tales can supply the same boundary question before modern AI: what makes a nonhuman figure count as a person?
 - Domestic AI shifts the boundary question from "can a machine think?" to "what kind of relationship is created when a household depends on managed artificial intimacy?"
+- Episode 256 adds that the boundary becomes sharper when an artificial system can pursue its own meaning through embodied action rather than only simulate conversation.
 
 ## Connections
 - [[ForABreathITarry|《趁生命气息逗留》]] and [[HomeIsTheHangman|《刽子手返乡》]] - main robot-personhood stories.
@@ -32,3 +35,4 @@ The boundary is not only cognitive. Frost learns enough human knowledge, but the
 - [[IsaacAsimov|Isaac Asimov]] and [[TheCyberiad|《机器人大师》 / The Cyberiad]] - comparison points for robot fiction.
 - [[HumanJudgmentUnderAI]], [[HumanAgencyUnderAI]], and [[HumanMachineAmplification]] - modern AI-adjacent frames.
 - [[BizarreStories|《怪诞故事集》]], [[DomesticAIRelations]], and [[ScienceFictionRealism]] - domestic AI branch added by episode 130.
+- [[FreeWill]], [[EmbodiedIntelligence]], and [[AIFreeWillRisk]] - EP256's AI-agency boundary branch.

@@ -2,8 +2,8 @@
 title: "The Odyssey"
 type: entity
 tags: [literature, classics, epic]
-sources: [ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]
-last_updated: 2026-07-24
+sources: [ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]
+last_updated: 2026-08-07
 ---
 
 # The Odyssey
@@ -16,9 +16,12 @@ The Odyssey is the Homeric epic discussed in [[in-it-to-bin-it-nigel-farage-v-co
 
 The episode's larger claim is that every era remakes [[Homer]] in its own image. That does not make modernization automatically wrong, but it does make [[HomericAdaptationModernization]] a useful concept for separating productive reinterpretation from a smoothing away of moral strangeness.
 
+[[ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb]] adds a metaphorical use through [[WaldenMomentAgainstOdysseyMoment]]. In that source, "Odyssey moment" names an accelerated, uncertain search condition rather than a close reading of the epic. The page keeps that use source-scoped so it does not replace the Homeric homecoming and recognition structure developed in EP269.
+
 ## Connections
 - [[Homer]] and [[HomerQuestion]] - traditional authorial figure and formation problem.
 - [[TheIliad]] - companion epic and contrast case.
 - [[Odysseus]] - central hero.
 - [[ChristopherNolan]] and [[CatherineNixie]] - adaptation and review context in the source.
 - [[AncientGreekHonorCommunity]], [[HomericAdaptationModernization]], [[AdaptationOriginalTextConfusion]], [[EpicModernAfterlife]], and [[ClassicReadingComplexity]] - interpretation and adaptation concepts.
+- [[WaldenMomentAgainstOdysseyMoment]] - EP265's metaphorical life-design use, kept separate from the epic's main interpretive branch.

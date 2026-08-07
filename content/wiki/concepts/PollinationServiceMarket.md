@@ -2,8 +2,8 @@
 title: "Pollination Service Market"
 type: concept
 tags: [agriculture, services, markets, supply-chain]
-sources: [jiufan-zhongting-mifeng-jingjixue-956460448]
-last_updated: 2026-07-08
+sources: [ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, jiufan-zhongting-mifeng-jingjixue-956460448]
+last_updated: 2026-08-07
 ---
 
 # Pollination Service Market
@@ -14,6 +14,8 @@ The episode describes a mature U.S. market where hive rental prices vary by crop
 
 China appears as a less mature version. The source describes high honey production and low beekeeper income, while [[PengWenjun]] is cited to argue that pollination could generate far more crop value if growers, beekeepers, standards, and subsidies make the service easier to commercialize.
 
+[[ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv]] adds a field-reporting update from [[Mengyin|蒙阴]] and [[Xishuangbanna|西双版纳]]. The episode shows pollination service beginning to matter around high-value crops such as blueberries, coffee, macadamia nuts, mangoes, and pomelos, but it also stresses that many Chinese arrangements still work as loose honey-access reciprocity rather than mature fee-based service.
+
 ## Key Claims
 - Pollination can become a paid business service rather than an incidental byproduct of honey production.
 - Crop type matters because some plants need bees more than they reward bees with nectar.
@@ -21,6 +23,7 @@ China appears as a less mature version. The source describes high honey producti
 - Almond demand shows how one downstream crop can reshape the revenue structure of an entire beekeeping industry.
 - The same market that improves beekeeper revenue can intensify [[BeeColonyCollapse]] risk by concentrating hives, disrupting seasonal rhythms, and increasing disease exposure.
 - Pollination services can reduce dependence on commodity honey, but only if [[HoneyQualityStandards]] and grower-side willingness to pay also improve the broader beekeeping economy.
+- EP261 adds that pollination service can raise crop yield and beekeeper income while still leaving [[WildPollinatorCrisis|wild-pollinator decline]] and [[PesticidePollinatorRisk|pesticide exposure]] unresolved.
 
 ## Connections
 - [[jiufan-zhongting-mifeng-jingjixue-956460448]] — source case.
@@ -29,3 +32,4 @@ China appears as a less mature version. The source describes high honey producti
 - [[PengWenjun]] — Chinese pollination-value reference in the episode.
 - [[HoneyQualityStandards]] — adjacent bottleneck for Chinese beekeeper income.
 - [[BeeColonyCollapse]] — risk created or intensified by commercial pollination pressure.
+- [[MigratoryBeekeeperLivelihood]], [[NativeBeeEcologicalPollination]], and [[PesticidePollinatorRisk]] — EP261 extension from field beekeeping, native bees, and crop-chemical negotiation.

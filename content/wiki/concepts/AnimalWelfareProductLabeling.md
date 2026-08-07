@@ -2,8 +2,8 @@
 title: "Animal Welfare Product Labeling"
 type: concept
 tags: [animal-welfare, consumer-products, food, trust]
-sources: [176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
-last_updated: 2026-07-15
+sources: [ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
+last_updated: 2026-08-07
 ---
 
 # Animal Welfare Product Labeling
@@ -12,12 +12,15 @@ Animal welfare product labeling is the consumer-facing disclosure of welfare-rel
 
 The concept connects welfare to market feedback. A label is not proof by itself, but the episode treats visible information as a way to align consumers, brands, farms, and workers around better practices.
 
+[[ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j]] adds a foie gras and aquaculture-adjacent contrast. The episode does not propose a formal welfare label, but [[FoieGrasWelfareTradeoff]] shows why origin, feeding method, mortality, and producer practice would matter if consumers wanted to distinguish more responsible production from generic luxury marketing. The same source's [[SalmonTroutLabelTransparency]] shows that species and origin labels are a neighboring trust mechanism for animal foods.
+
 ## Key Claims
 - Welfare investments need consumer-legible signals if they are going to create market rewards.
 - Slaughter method labeling could let consumers choose lower-stress or less psychologically burdensome meat production.
 - Egg-size and breeding labels could help consumers understand that bigger eggs may impose more physical damage on hens.
 - Product labeling can also correct misleading surface cues, such as assuming brighter hot-fresh pork is always better or that all "black pig" marketing indicates the same breed and cost structure.
 - The source implies a trust problem: when the food industry does not explain its own practices, consumers fill the gap with suspicion, folklore, or misleading marketing.
+- Welfare labels and species/origin labels solve different problems, but both make hidden production choices available for consumer judgment.
 
 ## Connections
 - [[176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]] - source episode.
@@ -26,3 +29,4 @@ The concept connects welfare to market feedback. A label is not proof by itself,
 - [[ConsumerBrandMoat]], [[PackagingAsProductExperience]], and [[TrustAsBusinessAsset]] - adjacent product and trust frames.
 - [[LivestockCareEconomics]] - production-cost and welfare context.
 - [[Xiaohongshu]] - platform context for consumer education in the source.
+- [[FoieGrasWelfareTradeoff]], [[FoieGras]], and [[SalmonTroutLabelTransparency]] - EP260 extensions around welfare and species/origin disclosure.

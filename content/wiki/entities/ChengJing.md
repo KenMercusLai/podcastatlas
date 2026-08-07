@@ -2,7 +2,7 @@
 title: "程静 / Cheng Jing"
 type: entity
 tags: [person, journalist, international-news, media]
-sources: [xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c]
+sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c]
 last_updated: 2026-08-07
 ---
 
@@ -14,9 +14,12 @@ Her reporting examples include Nigeria's kidnapping and bandit problems, Myanmar
 
 The Gaza letters branch centers on [[AishaGaza|Aisha]], whom Cheng Jing met through Palestinian contacts in October 2023 and interviewed or chatted with for months amid repeated network disruption. That case makes the limits of empathy explicit: the reporter can build trust and maintain contact, but still cannot claim full equivalence with a person living through war, shortage, displacement, and family constraints.
 
+[[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]] adds Cheng Jing as the host of a [[TalkSanlian|Talk三联]] geopolitics explainer with [[LiuYiSanlian|刘仪]] on [[Iran]]. Her framing questions move from battlefield chronology toward why Iran cannot easily concede, why [[UnitedStates]] and [[Israel]] may believe a short war can reshape the region, and how war pressure reaches energy, insurance, finance, and Gulf confidence.
+
 ## Connections
 - [[XianchangXianchang|现场！现场！]], [[TalkSanlian|Talk三联]], and [[SanlianLifeWeekly|三联生活周刊]] — source media context.
 - [[QinSi]] and [[WeiZhaoyang]] — fellow reporters in the year-end discussion.
 - [[AishaGaza|Aisha]] — key long-running Gaza interview subject.
 - [[RemoteReportingPresence]], [[ReporterSourceTrustNetwork]], and [[DeepReportingEmotionalLabor]] — main reporting concepts developed through her examples.
 - [[Israel]], [[Russia]], [[Nigeria]], [[Philippines]], [[Mexico]], [[HongKong]], and [[USImmigrationAndCustomsEnforcement]] — international reporting contexts named in the episode.
+- [[LiuYiSanlian]], [[IranHorizontalEscalation]], [[ResistanceAxisBackfire]], and [[RegimeBasicBaseStabilization]] — geopolitics branch added by EP251.

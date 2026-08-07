@@ -10,6 +10,8 @@ last_updated: 2026-07-23
 
 AI university assessment reform is the shift proposed across [[e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4]]: universities should not only ask whether students used AI, but what they can responsibly do with AI. [[AlfredLinTongyu|Alfred 林童雨]] says old-school evaluation is increasingly out of sync when AI can handle large parts of information intake, processing, writing, and coding. [[JackRaoJiewu|Jack 饶街五]] adds the practical classroom version: professors increasingly allow students to consult LLMs but hold them responsible for final output.
 
+[[ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd]] adds concrete reform patterns. In software, assignments become more complex and iterative so students must show system architecture, module-boundary judgment, and correction beyond AI-generated code. In medicine, teachers can grade case discussion, image recognition, reasoning steps, operation process, and tracked AI error correction rather than only final recall. This makes assessment reform a response to [[AIHollowingFoundationalTraining]], not only academic-integrity anxiety.
+
 This reform does not mean abandoning integrity. It means assessment has to make process, judgment, verification, source use, tool choice, and problem value visible. That connects the source to [[TransparentAIUse]], [[AIWritingPedagogy]], [[FirstDraftThinking]], and [[AICodingVerification]] while extending them from writing classes and homework into elite-university coursework, projects, and career preparation.
 
 ## Key Claims
@@ -27,3 +29,4 @@ This reform does not mean abandoning integrity. It means assessment has to make 
 - [[AIShortcutRisk]] and [[AIAsTutor]] - tension between useful tutoring and bypassed learning.
 - [[HumanJudgmentUnderAI]] and [[AICodingVerification]] - output ownership and verification layer.
 - [[DegreeAsTrustCredential]] and [[CollegeCareerPreparation]] - why assessment reform matters beyond grades.
+- [[AIHollowingFoundationalTraining]], [[MedicalAIEducation]], and [[NewEngineeringEducation]] - EP266's classroom and discipline-specific assessment reform branch.

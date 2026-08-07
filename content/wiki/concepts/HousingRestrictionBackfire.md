@@ -2,8 +2,8 @@
 title: "Housing Restriction Backfire"
 type: concept
 tags: [housing, policy, regulation, unintended-consequences]
-sources: [live-anthropic-co-founder-on-ai-and-jobs, two-indicators-for-lowering-the-rent]
-last_updated: 2026-07-24
+sources: [the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, live-anthropic-co-founder-on-ai-and-jobs, two-indicators-for-lowering-the-rent]
+last_updated: 2026-08-07
 ---
 
 # Housing Restriction Backfire
@@ -14,6 +14,8 @@ The concept does not argue against all regulation. The SRO segment explicitly in
 
 [[live-anthropic-co-founder-on-ai-and-jobs]] adds the single-family zoning version through [[DarylFairweather]]. The episode presents single-family zoning as a rule that protects neighborhood form for current residents while limiting new housing supply for people who want or will need to live there later.
 
+[[the-skyscrapers-that-nimbys-and-zoning-couldnt-stop]] adds a case where the restriction is partly bypassed. The [[SquamishNation|Squamish Nation]] can build high-density rental housing on [[SinakVillageSite|sovereign land]] near [[Vancouver]], so the source shows what normal zoning and local-veto politics may prevent elsewhere.
+
 ## Key Claims
 - Restricting institutional owners can hit new rental construction if the law does not separate existing-home purchases from new supply.
 - Raising housing standards can become exclusionary when no substitute affordable units are built.
@@ -21,6 +23,7 @@ The concept does not argue against all regulation. The SRO segment explicitly in
 - Backfire analysis asks what happens to displaced residents after a housing form is restricted.
 - Single-family zoning can preserve current neighborhood expectations while making the broader affordability problem worse.
 - Backfire can also be political: the beneficiaries of new homes are often absent from the local meetings where restrictions are defended.
+- When a sovereign landholder can bypass ordinary zoning vetoes, the resulting project can reveal the scale of housing that local restrictions might otherwise suppress.
 
 ## Connections
 - [[HousingAffordabilitySupplyMechanics]] - broader affordability frame.
@@ -28,3 +31,4 @@ The concept does not argue against all regulation. The SRO segment explicitly in
 - [[SRORegulatoryErasure]] - historical shared-room version.
 - [[SROLossAndHomelessness]] - downstream harm when cheap rooms vanish.
 - [[FutureResidentHousingVoice]] - representation problem added by the Planet Money live source.
+- [[SovereignHousingDevelopment]], [[LocalVetoHousingPolitics]], and [[PermittingDelayCost]] - zoning-bypass and approval-cost branch added by the Squamish source.

@@ -2,13 +2,15 @@
 title: "AI Plus Terminals"
 type: concept
 tags: [ai, hardware, commercialization]
-sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # AI Plus Terminals
 
 AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan]]: foundation-model companies may need hardware or device carriers that connect models, software, users, physical data, and repeated usage. In the source, this is the strategic bridge between [[StepFun]] as a foundation-model company and [[QianliTechnology]] as an AI-and-car company.
+
+[[ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4]] adds the ordinary consumer-device version. AI glasses, toys, home appliances, sports robots, and Huaqiangbei gadgets all become possible AI terminals, but the source argues that the terminal thesis only works when the device gives the model a better scene, sensor, actuator, or emotional context than a generic phone app.
 
 [[132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]] adds the robot-company version through [[Xinghaitu]]. Instead of starting from a foundation-model company looking for terminals, [[GaoJiyang]] starts from the terminal itself: [[WheelBasedDualArmRobots]] are treated as product, data carrier, and deployment endpoint for [[VisionLanguageActionModels]] and post-training tools.
 
@@ -40,6 +42,7 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 
 ## Key Claims
 - Pure 2B and pure software 2C are treated as difficult standalone paths for foundation-model companies because model investment is large and business or data loops may be insufficient.
+- Consumer AI hardware can be a terminal only when the physical shell contributes context, actuation, companionship, or repeated use; otherwise it is just model access in a new casing.
 - Hardware, software, and models may become a three-part system as more agents gain device or physical carriers.
 - Terminal markets may be less winner-take-all than model markets, creating room for innovative companies across cars, phones, wearables, and eventually robots.
 - Cars are the first terminal in the source because cockpit assistants, intelligent driving, and Robotaxi can combine voice, multimodal interaction, physical-world data, and high-frequency use.
@@ -61,6 +64,7 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 
 ## Connections
 - [[YinQi]], [[StepFun]], and [[QianliTechnology]] — source speaker and company pair behind the thesis.
+- [[ConsumerAIHardwareProductFit]], [[AIGlassesProductFit]], [[AIToyCompanionship]], [[HuaqiangbeiAISolutionProviders]], and [[AIHardwarePrivacyExchange]] — EP253's consumer-device terminal branch.
 - [[AICommercializationPressure]] — reason the terminal strategy matters.
 - [[LongChainAICompetition]] — broader competitive frame for foundation-model companies.
 - [[VoiceInteraction]], [[WorldModels]], and [[EmbodiedAI]] — interaction and physical-intelligence directions the terminal path supports.

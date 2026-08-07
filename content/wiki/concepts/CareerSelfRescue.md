@@ -2,8 +2,8 @@
 title: "Career Self-Rescue"
 type: concept
 tags: [career, work, mental-health, life-design]
-sources: [154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
-last_updated: 2026-08-06
+sources: [ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+last_updated: 2026-08-07
 ---
 
 # Career Self-Rescue
@@ -26,6 +26,8 @@ The episode's version is physical and trackable: distance, danger, fatigue, rout
 
 [[161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202]] adds an unemployment-stigma version. Here self-rescue is not heroic exit from a bad job; it is preserving agency after job loss through a remembered interest, a credible transition story, [[WeakTieOpportunity|weak ties]], and refusal to turn [[UnemploymentStigma|unemployment stigma]] into self-condemnation. The source keeps the practical warning visible: entrepreneurship or lower-status work can restore agency only if the person understands the real operating costs.
 
+[[ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng]] adds the "不上班" version. Self-rescue can begin as leaving a workplace that damages health or ethics, but the source's point is that exit is only the first move: the person still has to rebuild time structure, money, family legitimacy, market access, and a [[WorkSelfWorthBoundary|self-worth boundary]].
+
 ## Key Claims
 
 - A career low point can involve not only job dissatisfaction but loss of deservedness, confidence, and felt agency.
@@ -39,6 +41,7 @@ The episode's version is physical and trackable: distance, danger, fatigue, rout
 - Career self-rescue can begin before exit, when a person stops treating one exam or institution as the only legitimate proof of value.
 - Episode 161 adds that self-rescue can also mean staying psychologically intact while unemployed: the person needs evidence, relationships, and narrative room before a new role appears.
 - Episode 154 adds that self-rescue may require repeated fit tests, not only one exit: institution, market, platform, and industry can each become a separate decision.
+- EP257 adds that self-rescue after quitting requires post-exit design; otherwise [[NotWorkingAmbivalence|not-working ambivalence]] and [[ResumeGapStigma|gap stigma]] can turn relief back into shame.
 
 ## Connections
 
@@ -54,3 +57,4 @@ The episode's version is physical and trackable: distance, danger, fatigue, rout
 - [[GenderedAgeAnxiety]], [[MidlifeAsGift]], and [[FemaleSelfPossession]] — episode 63's midlife and status-exit extension.
 - [[QianJing|钱静]], [[CareerShoreMyth]], [[ObjectiveSelfOwnership]], and [[ActionAgainstAnxiety]] - sp.02's exam, civil-service, and opportunity-cost diagnostic extension.
 - [[HighlyEducatedUnemployment]], [[UnemploymentStigma]], [[StatusDescentPressure]], and [[UnemployedMutualAid]] - episode 161's job-loss and stigma-resistance extension.
+- [[NotWorkingAmbivalence]], [[FreelanceMarketExposure]], [[ResumeGapStigma]], [[WorkSelfWorthBoundary]], and [[MiaFreelancer|Mia]] — EP257's quitting, gap, and freelance extension.

@@ -2,7 +2,7 @@
 title: "Restaurant Cultural Legibility"
 type: concept
 tags: [restaurants, localization, food, consumer, culture]
-sources: [ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
+sources: [ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
 last_updated: 2026-08-07
 ---
 
@@ -14,6 +14,8 @@ The concept does not mean erasing origin. The episode's preferred pattern is to 
 
 [[ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz]] extends the idea from overseas localization into domestic regional cuisine. [[GuangxiCuisineLegibility|广西菜可识别化]] shows that even inside China, a cuisine may need memory points, entry dishes, and explanation before diners can understand its variation beyond one famous product such as 螺蛳粉.
 
+[[ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j]] adds an ingredient-origin version. A diner may understand sashimi, grilled eel, or foie gras as restaurant foods, but still need [[SalmonTroutLabelTransparency]], origin cues, product-format explanation, and processing trust before they can judge domestic [[RainbowTrout|虹鳟]], [[Eel|鳗鱼]], or [[FoieGras|鹅肝]] on their own terms.
+
 ## Key Claims
 - Familiar form plus specific novelty can travel better than total unfamiliarity.
 - Localized SKUs work best when they add a bridge rather than replace the brand's core memory.
@@ -22,6 +24,7 @@ The concept does not mean erasing origin. The episode's preferred pattern is to 
 - Over-localization can make a brand forgettable if it abandons the thing that made it distinct.
 - Under-localization can trap a brand in diaspora or niche communities if mainstream consumers cannot imagine the meal.
 - Domestic regional cuisines can face the same legibility problem as exported restaurant formats when outsiders lack a clear memory point.
+- Ingredient origin, species, processing method, and prepared format can be as important to legibility as cuisine name or menu format.
 
 ## Connections
 - [[DinTaiFung]], [[GongCha]], [[FeiDaChu]], [[Bibigo]], [[Haidilao]], [[HeyTea]], [[WallaceFastFood]], and [[Jollibee]] - source cases.
@@ -30,3 +33,4 @@ The concept does not mean erasing origin. The episode's preferred pattern is to 
 - [[RestaurantExperienceDesign]] - experience layer that must make the food understandable, not only atmospheric.
 - [[ConsumerBrandMoat]] and [[ProductLedWillingnessToPay]] - demand outcomes when legibility turns into repeat choice.
 - [[GuangxiCuisineLegibility]], [[GuiXiaoChu|贵小厨]], [[CreativeChineseCuisine]], and [[RegionalFlavorTransfer]] - domestic regional-cuisine branch added by EP245.
+- [[SalmonTroutLabelTransparency]], [[PreparedHighValueFoodFormats]], [[ChineseNewSpecialtyAquaculture]], [[RainbowTrout]], [[Eel]], and [[FoieGras]] - ingredient-origin and product-format branch added by EP260.

@@ -2,8 +2,8 @@
 title: "Conservation Intervention"
 type: concept
 tags: [conservation, ecology, wildlife]
-sources: [163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179, the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260]
-last_updated: 2026-08-06
+sources: [ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, 163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179, the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260]
+last_updated: 2026-08-07
 ---
 
 # Conservation Intervention
@@ -17,6 +17,8 @@ The concept carries a built-in tension. The episode contrasts the worry that hum
 [[59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]] adds a visitor-facing version through [[Crete]] sea-turtle signs, harbor observation, and donation-ready conservation organizations. The episode keeps the intervention small but meaningful: a tourist's beach experience becomes a reminder that visible protection signs exist because human recreation and animal nesting share the same shoreline.
 
 [[62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260]] adds a working-land version through [[ClarksonsFarm|《克拉克森的农场》 / Clarkson's Farm]]. The source uses woodland thinning, hedgerow maintenance, wildflower planting, ponds, and pollinator protection to show why intervention has to be judged by habitat function and downstream effects rather than by a simple visual rule such as "cutting trees is bad."
+
+[[ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv]] adds a pollinator version. The episode's proposed interventions are modest but systemic: limit highly harmful pesticides, preserve or connect flowering habitats, leave some urban park vegetation less manicured, and treat balconies or small plantings as stepping stones for bees and other insects.
 
 [[186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210]] adds an endangered-species travel version through [[LastChanceToSee|《消逝世界漫游指南》]]. The episode's cases range from refuges for the [[AyeAye|aye-aye]] and anti-poaching/visit limits around [[MountainGorilla|mountain gorillas]] to the failed lateness of the [[Baiji|baiji]] search and the more hopeful [[Kakapo|kakapo]] recovery, where intensive island management helped a population rise after public attention and funding.
 
@@ -40,6 +42,7 @@ The concept carries a built-in tension. The episode contrasts the worry that hum
 - Emergency rescue can be an intervention too, but it should remain answerable to species-specific needs rather than to the rescuer's affection alone.
 - Market design can function as conservation intervention when traceability, handling quality, and buyer demand keep sustainable wild harvest economically viable.
 - Release work needs follow-up monitoring because movement, terrain, weather, prey, roads, livestock, and local human response decide whether an apparently successful release remains viable.
+- Pollinator intervention can be small-scale and distributed, but it still has to address pesticide exposure and habitat continuity rather than only adding isolated flowers.
 
 ## Connections
 - [[ChineseCrestedTern]] - source species case.
@@ -54,3 +57,4 @@ The concept carries a built-in tension. The episode contrasts the worry that hum
 - [[ThePenguinLessons|《企鹅课》 / The Penguin Lessons]], [[TomMichell|Tom Michell / 汤姆·米切尔]], [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]], [[WildAnimalRescueResponsibility]], and [[OilPollutionWildlifeHarm]] - improvised rescue extension from episode 138.
 - [[Barcelos]], [[CardinalTetra]], [[ProjectPiaba]], [[SustainableWildHarvesting]], and [[OriginTraceabilityMoat]] - market-based conservation extension from Planet Money.
 - [[TianxianBaobaoLynx|天线宝宝]], [[YuanZhang|袁掌]], [[XiningWildlifePark|西宁野生动物园]], [[WildReleaseHumanAvoidance]], and [[ConservationStoryMobilization]] - release, monitoring, and public-story extension from episode 163.
+- [[WildPollinatorCrisis]], [[NativeBeeEcologicalPollination]], [[PesticidePollinatorRisk]], and [[UrbanEcology]] - pollinator-protection extension from EP261.

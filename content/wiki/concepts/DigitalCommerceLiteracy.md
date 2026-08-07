@@ -2,7 +2,7 @@
 title: "Digital Commerce Literacy"
 type: concept
 tags: [commerce, education, marketing, digital-literacy]
-sources: [ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj, tech-20260310-0310-mp-tech-pod-128-tech-20260310-0310-mp-tech-pod-128]
+sources: [ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj, tech-20260310-0310-mp-tech-pod-128-tech-20260310-0310-mp-tech-pod-128]
 last_updated: 2026-08-07
 ---
 
@@ -14,6 +14,8 @@ The concept differs from generic digital literacy because it is tied to an actua
 
 [[ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj]] adds an adult rural version through [[RuralWomenLivestreaming|乡村女主播]]. Many women first attend training to learn phone use, video shooting, and online expression, then some move toward selling products, reading audience feedback, and organizing family help for packing or shipping. The source shows digital commerce literacy as midlife reskilling, not only youth entrepreneurship.
 
+[[ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw]] adds the family-manufacturing successor version. [[FactorySecondGeneration|厂二代]] may use live-streaming, e-commerce, short-video accounts, exhibitions, and [[Amazon]] as entry routes into a legacy factory, but the episode treats those tools as commercial workflow knowledge rather than a substitute for operations.
+
 ## Key Claims
 - Digital selling teaches more than online posting: sellers learn goal setting, channel selection, message revision, checkout friction, and customer follow-up.
 - A commerce workflow can turn abstract online-safety rules into concrete choices about who to contact and how to deliver.
@@ -21,6 +23,7 @@ The concept differs from generic digital literacy because it is tied to an actua
 - Digital commerce literacy is stronger when sellers can see whether outreach produced orders and adjust their approach.
 - For children, digital commerce literacy depends on [[ChildOnlineCommerceSafety]] and caregiver scaffolding.
 - For rural middle-aged women, digital commerce literacy can begin as phone confidence and public speech before becoming a mature sales workflow.
+- For family-business successors, digital commerce literacy has to connect platform attention to inventory, production, dealer relations, overseas fulfillment, and brand trust.
 
 ## Connections
 - [[GirlScoutsOfTheUSA|Girl Scouts of the USA]] and [[WendyLiu]] - source case.
@@ -29,3 +32,4 @@ The concept differs from generic digital literacy because it is tied to an actua
 - [[MissionDrivenCustomerEducation]] - adjacent customer-message concept.
 - [[DirectToConsumerBrandControl]] - adjacent owned-channel concept this source qualifies through a nonprofit youth case.
 - [[RuralWomenLivestreaming]], [[LivestreamPersonaLabor]], [[PlatformFeedbackLoop]], and [[FamilyLaborBoundaries]] - adult rural livestreaming branch added by EP247.
+- [[FactorySecondGeneration]], [[ManufacturingSalesShift]], [[FactorySecondGenerationPersonalIP]], [[WoteShoes]], [[Fadior]], [[Douyin]], and [[Amazon]] - family-manufacturing successor extension added by EP255.

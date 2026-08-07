@@ -2,11 +2,13 @@
 title: "AI Hackathons"
 type: concept
 tags: [ai, hackathon, creator-community, product]
-sources: [ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]
+sources: [ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]
 last_updated: 2026-07-07
 ---
 
 # AI Hackathons
+
+[[ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r]] adds a youth science-education caution. The episode mentions middle-school AI hackathon-style projects as a way for students to solve concrete problems quickly, but warns that the format can drift into "little Musk" or "little Jensen Huang" adult success narratives if it is treated as entrepreneurship branding rather than [[ProjectBasedScienceLearning|project-based science learning]].
 
 AI hackathons are live, time-boxed creation events reshaped by [[VibeCoding]], AI tools, hardware prototyping, public posting, and broader participation by non-coders. In [[ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex]], the [[XiaohongshuHackathonPeakCompetition]] is framed as a dense creator network rather than only a ranked technical contest.
 
@@ -24,6 +26,7 @@ The source suggests that the AI-era hackathon's main output may be people, relat
 - Hackathons can become [[CreationAsConsumption]] when building, watching, and participating are themselves part of the experience.
 - Competition wins can extend morale and runway, but they do not substitute for recurring customer behavior.
 - Internal hackathons can surface hidden workflow pain because the people closest to the work can prototype what they wish existed, even before they know formal software requirements.
+- Youth hackathons need an educational target; fast prototypes are weaker if they reward adult success performance before inquiry, evidence, or reflection.
 
 ## Connections
 - [[XiaohongshuHackathonPeakCompetition]] and [[Xiaohongshu]] — source event and platform.
@@ -33,3 +36,4 @@ The source suggests that the AI-era hackathon's main output may be people, relat
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] — demand signals that can surface during demos.
 - [[CreateWise]] and [[FounderCashFlowConstraint]] — EP119 case where competition momentum did not yet solve revenue timing.
 - [[ShengdongHuopo]], [[XuTao]], and [[BusinessLedAITransformation]] — internal media-company hackathon case where prototypes expose workflow opportunities.
+- [[ScienceEducationAsCivicLiteracy]], [[ProjectBasedScienceLearning]], and [[AIShortcutRisk]] — EP262's science-education caution.

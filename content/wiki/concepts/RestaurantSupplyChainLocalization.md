@@ -2,8 +2,8 @@
 title: "Restaurant Supply Chain Localization"
 type: concept
 tags: [restaurants, supply-chain, food, china, operations]
-sources: [vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]
-last_updated: 2026-07-24
+sources: [ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]
+last_updated: 2026-08-07
 ---
 
 # Restaurant Supply Chain Localization
@@ -14,6 +14,8 @@ The concept extends the wiki's food-operations branch beyond packaged-goods logi
 
 [[shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]] adds a deeper upstream constraint. Even when a restaurant chain localizes seafood sourcing and cold-chain routines, farmed seafood can still depend on [[FishmealSupplyChain|fishmeal]] and fish oil produced from [[PeruvianAnchoveta|anchoveta]], so [[ElNino]] and [[FisheriesResourceManagement]] can enter restaurant costs through feed rather than direct procurement.
 
+[[ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j]] adds a Chinese high-value-food version through [[RainbowTrout|虹鳟]], [[Eel|鳗鱼]], and [[FoieGras|鹅肝]]. The episode shows that restaurant and retail trust can depend on domestic cold-water farming, eel deodorizing and grilling, foie gras processing, and prepared product formats rather than only on imported prestige.
+
 ## Key Claims
 - Localized supply chains can turn regulatory shocks or import restrictions into a test of substitution capacity rather than a direct category collapse.
 - Restaurant chains can become process teachers for upstream suppliers by specifying feed, handling, water, deodorizing, preparation, and cooking requirements.
@@ -21,6 +23,7 @@ The concept extends the wiki's food-operations branch beyond packaged-goods logi
 - Supply localization works best when it is connected to [[ChainRestaurantStandardization]] inside stores; sourcing discipline alone cannot guarantee the customer experience.
 - The more a food format depends on freshness and safety perception, the more supplier process, cold chain, waste handling, and visible hygiene become part of the brand.
 - Local seafood supply can still be exposed to global feed inputs; localization reduces some procurement risks but cannot fully remove [[AquacultureFeedDependency]].
+- Localized supply can change the food's form, not only its cost, when processors create smoked fish, grilled eel, small foie gras packs, or other [[PreparedHighValueFoodFormats]].
 
 ## Connections
 - [[Sushiro]] - central source case.
@@ -30,3 +33,4 @@ The concept extends the wiki's food-operations branch beyond packaged-goods logi
 - [[CPGDistribution]] - broader physical-product distribution contrast.
 - [[ConsumerBrandMoat]] and [[ProductLedWillingnessToPay]] - trust and value perception created through reliable food supply.
 - [[FishmealSupplyChain]], [[AquacultureFeedDependency]], and [[ClimateFoodPriceTransmission]] - upstream feed and climate-price branch added by 商业小样45.
+- [[ChineseNewSpecialtyAquaculture]], [[SalmonTroutLabelTransparency]], [[EelSeedPriceVolatility]], [[FoieGrasWelfareTradeoff]], and [[PreparedHighValueFoodFormats]] - EP260 high-value food localization branch.

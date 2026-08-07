@@ -2,13 +2,15 @@
 title: "Chinese Folk Religion Layering"
 type: concept
 tags: [religion, folklore, china, mythology]
-sources: [06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 136-chunri-mingmei-liaoliao-guishen-827911486, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
+sources: [ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, 06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 136-chunri-mingmei-liaoliao-guishen-827911486, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
 last_updated: 2026-08-06
 ---
 
 # Chinese Folk Religion Layering
 
 Chinese folk religion layering is the way ritual practice, local cults, Daoist god registers, Buddhist afterlife ideas, Confucian restraint, literature, and oral variants coexist without becoming one fully standardized doctrine. [[136-chunri-mingmei-liaoliao-guishen-827911486]] develops the concept by refusing to make Chinese ghost-and-deity belief answer to a single "correct version."
+
+[[ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww]] adds a living Minnan ritual version through [[YongningAncientCity|永宁古城]]. In the episode, deity processions, ancestor worship, Daoist and folk-religion registers, [[Chenghuang|城隍]] worship, historical deities, overseas-introduced local gods, and [[JitongSpiritMedium|鸡童/乩童]] mediumship coexist inside [[MinnanRitualNetwork|闽南仪式网络]] without needing one clean theology.
 
 [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] adds the earlier fangshu prehistory version. [[OracleBoneDivination|甲骨占卜]], [[ZhouyiDivination|《周易》占卜]], [[AncientChineseSoulSummoning|招魂]], [[ChineseAstrologicalPolitics|星占]], dream interpretation, [[YinYangFivePhasesPoliticalTheory|阴阳五行]], immortal-island lore, [[ImmortalityQuestPolitics|求仙政治]], and [[WuguPoliticalPanic|巫蛊政治恐慌]] coexist before later Daoist or Buddhist institutional systems fully organize them.
 
@@ -44,8 +46,10 @@ The episode's death-ruler examples show the pattern clearly. [[FengduDadi|丰都
 - A zhiguai archive can preserve layered belief by storing omens, local cults, divine punishment, Buddhist/Daoist elements, and odd natural observations side by side.
 - A fangshu history can show layering before later popular religion stabilizes: techniques move across Confucian, Daoist, Buddhist, court, and folk settings.
 - The first fangshu episode shows an even earlier layer where divination, soul ritual, astrology, dreams, immortality, alchemy, and curse belief are not yet one doctrine but already share ritual and political space.
+- EP249 adds that layering can be observed as present-day public practice: the issue is not only variant story archives, but who carries the god, enters the ancestral hall, manages temple money, and recognizes a ritual as effective.
 
 ## Connections
+- [[YongningAncientCity|永宁古城]], [[MinnanRitualNetwork]], [[JitongSpiritMedium]], [[Chenghuang|城隍]], and [[RitualTourismAuthenticityTension]] - living Minnan ritual extension added by EP249.
 - [[YouyangZazu|《酉阳杂俎》]], [[DuanChengshi|段成式]], and [[TangMiscellanyArchiveValue]] - episode 90's archival miscellany extension.
 - [[ManichaeismInChina|明教 / 摩尼教在中国]], [[JinYong|金庸]], and [[Quanzhou|泉州]] - Jin Yong episode's Manichaean-survival extension.
 - [[XuanGuaiLu|《玄怪录》]], [[TangChuanqi]], and [[TangStrangeTaleRepaymentEthics]] - episode 76's Tang strange-tale extension.

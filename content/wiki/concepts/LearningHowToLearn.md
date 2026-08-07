@@ -2,13 +2,19 @@
 title: "Learning How To Learn"
 type: concept
 tags: [learning, education, ai]
-sources: [143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
-last_updated: 2026-07-24
+sources: [ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+last_updated: 2026-08-07
 ---
 
 # Learning How To Learn
 
+[[ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r]] adds a K12 science-education version. The episode's "knowledge reset" frame argues that students have not learned how to learn science if exam facts disappear after the gaokao; durable learning requires [[BigConceptScienceTeaching|big concepts]], [[ProjectBasedScienceLearning|projects grounded in inquiry]], and [[HPSScienceEducation|history/philosophy/society context]].
+
+[[ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e]] adds a historical adult-learning version through [[XuGuangqi|徐光启]]. The episode treats Xu's study of [[EuclidsElementsChinese|《几何原本》]] with [[MatteoRicci|利玛窦]] as a case of choosing difficult method over status performance: he learns terms, proof structure, astronomy, agriculture, and military technique because he wants to understand why things work.
+
 Learning how to learn is the source's core durable skill across majors, professions, and AI tools. In [[vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1]], the hosts argue that communication, self-study, expression, curiosity, and method improvement were already important before AI, and AI now makes differences in learning method more visible.
+
+[[ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd]] adds the resource-unequal university version. When strong schools can provide AI learning centers, hospitals, cases, compute, and elite peers, students elsewhere need stronger self-directed learning, AI literacy, and learning-community building. The episode also turns learning how to learn into a foundation-preserving discipline: AI can accelerate exploration, but students still need enough basic practice to judge and transfer what it gives them.
 
 [[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]] adds a reading-method version. Monthly thematic reading, weekly book reading, [[AIAssistedReading]], and blind-spot chapter recommendation are not presented as a universal schedule; they are examples of improving the learning loop by asking what frame a book or person can teach.
 
@@ -29,6 +35,7 @@ Learning how to learn is the source's core durable skill across majors, professi
 ## Key Claims
 
 - The important skill is not only repeating actions, but learning how to improve the way one trains, studies, asks, builds, and reflects.
+- EP262 adds that science learning fails when it produces test-ready recall but no durable concepts, inquiry habits, or life-useful judgment.
 - Using AI is itself something students must learn; repeated low-context chatting is weaker than giving the model goals, background, guesses, errors, and constraints.
 - Self-directed learning lets students compensate when university courses lag behind fast-changing industry practice.
 - Communication and expression matter because AI-era work still depends on making goals, assumptions, and evidence legible to people and tools.
@@ -42,9 +49,12 @@ Learning how to learn is the source's core durable skill across majors, professi
 - Learning how to learn also includes adult relocation, language, care, hospitality, and practical coordination after the original major or job no longer defines the path.
 - Learning how to learn can mean acquiring a discipline's way of seeing before mastering its formal apparatus.
 - Learning how to learn also means working with forgetting: review important material early, then let less important details compress or disappear.
+- EP259 adds that serious adult learning can require accepting temporary incompetence before a foreign, difficult, or unfamiliar reasoning system instead of defending prior cultural or official status.
 
 ## Connections
 
+- [[XuGuangqi]], [[MatteoRicci]], [[EuclidsElementsChinese]], [[EuclideanProofTraining]], and [[IntellectualLifeAsPractice]] - EP259's historical adult-learning extension.
+- [[ScienceEducationAsCivicLiteracy]], [[BigConceptScienceTeaching]], [[ProjectBasedScienceLearning]], and [[HPSScienceEducation]] - EP262's science-education extension.
 - [[AIAsTutor]] — AI can become a personalized explanation layer when used with context and active thought.
 - [[HumanJudgmentUnderAI]] — learners still need to decide whether AI's answer is useful, grounded, and sufficient.
 - [[ContextEngineering]] — giving AI better context is part of learning how to use it well.
@@ -58,3 +68,4 @@ Learning how to learn is the source's core durable skill across majors, professi
 - [[YinJie|殷姐]], [[FemaleSelfPossession]], and [[LifeRestartThoughtExperiment]] - adult-life and relocation case.
 - [[TheEconomicWayOfThinking|《经济学的思维方式》 / The Economic Way of Thinking]], [[EconomicWayOfThinking]], and [[OpportunityCost]] - ordinary-reader economics extension.
 - [[ForgettingAsCognitiveFunction]], [[MemoryConsolidationWindows]], and [[FocusedDiffuseThinkingBalance]] - episode 143's memory, review-timing, and rest-balance extension.
+- [[AIEraMajorChoice]], [[AIHollowingFoundationalTraining]], [[UniversityOpportunityDensity]], and [[TShapedAITalent]] - EP266's university resource and foundation-preserving learning branch.

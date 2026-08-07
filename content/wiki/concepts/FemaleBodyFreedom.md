@@ -2,11 +2,13 @@
 title: "Female Body Freedom"
 type: concept
 tags: [women, body, gender, aging, agency]
-sources: [88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]
-last_updated: 2026-08-06
+sources: [ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d, 88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]
+last_updated: 2026-08-07
 ---
 
 # Female Body Freedom
+
+[[ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d]] adds an embodied self-permission version. [[WenQi|文淇]] describes hiking until her body feels strong and light, [[YouXiaoying|游晓颖]] says she stopped hating her body in her forties, and [[DuSujuan|杜素娟]] argues that women should intentionally exercise rather than counting household labor as body care.
 
 [[88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803]] adds a combat-sport body case through [[KeikoBoxer|惠子]]. The episode's opening on women and boxing frames the female body not as something to keep protected from pain, embarrassment, or failure, but as a body that can train, absorb blows, learn defense, and meet fear under rules.
 
@@ -26,8 +28,10 @@ The concept is not only about clothing. The episode links bra freedom, menstruat
 - Late-life self-possession includes accepting bodily change without letting etiquette, beauty norms, or institutional dress codes define the self.
 - Fashion freedom can be literal safety: a garment can increase or reduce infection, poisoning, fire, fall, vehicle, or machine risk.
 - Episode 88 adds that body freedom can include training for contact, pain, and defense rather than only release from restrictive beauty or clothing norms.
+- Episode 254 adds that body freedom can be rebuilt through ordinary strength, warmth, movement, and comfort choices rather than only through ideological declaration.
 
 ## Connections
+- [[SelfPermission]], [[GynecologicalExamDignity]], [[WoXukeFilm|《我许可》]], [[WenQi|文淇]], [[YouXiaoying|游晓颖]], and [[DuSujuan|杜素娟]] - episode 254's body-confidence and medical-dignity branch.
 - [[FemaleSelfPossession]] - broader agency frame this concept extends.
 - [[MenstrualStigma]] and [[GenderedMedicalization]] - existing body-shame and medical-control frames.
 - [[MenopauseAsFreedom]] and [[BijingJi|《闭经记》]] - menopause-specific extension.

@@ -1443,6 +1443,10 @@
     "title": "AI Equity Valuation Risk",
     "url": "/wiki/concepts/aiequityvaluationrisk/"
   },
+  "AIEraMajorChoice": {
+    "title": "AI-Era Major Choice / AI时代专业选择",
+    "url": "/wiki/concepts/aieramajorchoice/"
+  },
   "AIExportControls": {
     "title": "AI Export Controls",
     "url": "/wiki/concepts/aiexportcontrols/"
@@ -1475,6 +1479,14 @@
     "title": "AI For Science",
     "url": "/wiki/concepts/aiforscience/"
   },
+  "AIForScienceTalent": {
+    "title": "AI For Science Talent / AI for Science人才",
+    "url": "/wiki/concepts/aiforsciencetalent/"
+  },
+  "AIFreeWillRisk": {
+    "title": "AI Free-Will Risk / AI自由意志风险",
+    "url": "/wiki/concepts/aifreewillrisk/"
+  },
   "AIFriendProducts": {
     "title": "AI Friend Products",
     "url": "/wiki/concepts/aifriendproducts/"
@@ -1495,6 +1507,10 @@
     "title": "AI-Generated Hoax Evidence",
     "url": "/wiki/concepts/aigeneratedhoaxevidence/"
   },
+  "AIGlassesProductFit": {
+    "title": "AI Glasses Product Fit / AI眼镜产品适配",
+    "url": "/wiki/concepts/aiglassesproductfit/"
+  },
   "AIGovernanceAndCompliance": {
     "title": "AI Governance And Compliance",
     "url": "/wiki/concepts/aigovernanceandcompliance/"
@@ -1511,6 +1527,10 @@
     "title": "AI Hallucination",
     "url": "/wiki/concepts/aihallucination/"
   },
+  "AIHardwarePrivacyExchange": {
+    "title": "AI Hardware Privacy Exchange / AI硬件隐私交换",
+    "url": "/wiki/concepts/aihardwareprivacyexchange/"
+  },
   "AIHardwareSupplyChainPressure": {
     "title": "AI Hardware Supply Chain Pressure",
     "url": "/wiki/concepts/aihardwaresupplychainpressure/"
@@ -1526,6 +1546,10 @@
   "AIHiringArmsRace": {
     "title": "AI Hiring Arms Race",
     "url": "/wiki/concepts/aihiringarmsrace/"
+  },
+  "AIHollowingFoundationalTraining": {
+    "title": "AI Hollowing Foundational Training / AI导致基础训练空心化",
+    "url": "/wiki/concepts/aihollowingfoundationaltraining/"
   },
   "AIIPOValuation": {
     "title": "AI IPO Valuation",
@@ -1807,6 +1831,10 @@
     "title": "AI Talent Competition",
     "url": "/wiki/concepts/aitalentcompetition/"
   },
+  "AIToyCompanionship": {
+    "title": "AI Toy Companionship / AI玩具陪伴",
+    "url": "/wiki/concepts/aitoycompanionship/"
+  },
   "AITrainingDataScarcity": {
     "title": "AI Training Data Scarcity",
     "url": "/wiki/concepts/aitrainingdatascarcity/"
@@ -1934,6 +1962,10 @@
   "AVRide": {
     "title": "AV Ride",
     "url": "/wiki/entities/avride/"
+  },
+  "AWEChina": {
+    "title": "AWE China / 中国家电及消费电子博览会",
+    "url": "/wiki/entities/awechina/"
   },
   "Aadhaar": {
     "title": "Aadhaar",
@@ -2347,6 +2379,14 @@
     "title": "Agan",
     "url": "/wiki/entities/agan/"
   },
+  "Agarwood": {
+    "title": "沉香 / Agarwood",
+    "url": "/wiki/entities/agarwood/"
+  },
+  "AgarwoodIndustrialization": {
+    "title": "Agarwood Industrialization / 沉香产业化",
+    "url": "/wiki/concepts/agarwoodindustrialization/"
+  },
   "AgathaChristie": {
     "title": "Agatha Christie / 阿加莎·克里斯蒂",
     "url": "/wiki/entities/agathachristie/"
@@ -2467,9 +2507,17 @@
     "title": "Aging Reality Estrangement",
     "url": "/wiki/concepts/agingrealityestrangement/"
   },
+  "AgriculturalReliefStatecraft": {
+    "title": "Agricultural Relief Statecraft / 农政救荒",
+    "url": "/wiki/concepts/agriculturalreliefstatecraft/"
+  },
   "AgriculturalSystemsReality": {
     "title": "Agricultural Systems Reality",
     "url": "/wiki/concepts/agriculturalsystemsreality/"
+  },
+  "AiJiangtao": {
+    "title": "艾江涛 / Ai Jiangtao",
+    "url": "/wiki/entities/aijiangtao/"
   },
   "AiWawaReadingGroup": {
     "title": "爱娃娃亲子阅读小组 / Ai Wawa Reading Group",
@@ -2815,6 +2863,10 @@
     "title": "Ali Khamenei",
     "url": "/wiki/entities/alikhamenei/"
   },
+  "AliPrimordialGravitationalWaveObservatory": {
+    "title": "阿里原初引力波探测站 / Ali Primordial Gravitational Wave Observatory",
+    "url": "/wiki/entities/aliprimordialgravitationalwaveobservatory/"
+  },
   "Alibaba": {
     "title": "Alibaba",
     "url": "/wiki/entities/alibaba/"
@@ -2850,6 +2902,18 @@
   "AlienAbductionNarrative": {
     "title": "Alien Abduction Narrative",
     "url": "/wiki/concepts/alienabductionnarrative/"
+  },
+  "AlienFilm": {
+    "title": "Alien (film)",
+    "url": "/wiki/entities/alienfilm/"
+  },
+  "AlienFranchise": {
+    "title": "Alien Franchise",
+    "url": "/wiki/entities/alienfranchise/"
+  },
+  "AlienRomulus": {
+    "title": "Alien: Romulus",
+    "url": "/wiki/entities/alienromulus/"
   },
   "AlienatedMaleViolence": {
     "title": "Alienated Male Violence",
@@ -3051,6 +3115,10 @@
     "title": "Amjad Masad",
     "url": "/wiki/entities/amjadmasad/"
   },
+  "Amon": {
+    "title": "阿蒙 / Amon",
+    "url": "/wiki/entities/amon/"
+  },
   "Amplitude": {
     "title": "Amplitude",
     "url": "/wiki/entities/amplitude/"
@@ -3222,6 +3290,18 @@
   "AngelaRayner": {
     "title": "Angela Rayner",
     "url": "/wiki/entities/angelarayner/"
+  },
+  "Angkor": {
+    "title": "Angkor / 吴哥",
+    "url": "/wiki/entities/angkor/"
+  },
+  "AngkorHydraulicEmpire": {
+    "title": "Angkor Hydraulic Empire / 吴哥水利帝国",
+    "url": "/wiki/concepts/angkorhydraulicempire/"
+  },
+  "Anhui": {
+    "title": "安徽 / Anhui",
+    "url": "/wiki/entities/anhui/"
   },
   "AnhuiXiaoMujiang": {
     "title": "安徽小木匠 / Anhui Xiao Mujiang",
@@ -3551,6 +3631,10 @@
     "title": "Archive Preservation Bias / 档案保存偏差",
     "url": "/wiki/concepts/archivepreservationbias/"
   },
+  "ArcteryxMountainClassroom": {
+    "title": "始祖鸟山地课堂 / Arcteryx Mountain Classroom",
+    "url": "/wiki/entities/arcteryxmountainclassroom/"
+  },
   "Area51": {
     "title": "Area 51 / 51区",
     "url": "/wiki/entities/area51/"
@@ -3570,6 +3654,10 @@
   "AriRedbord": {
     "title": "Ari Redbord",
     "url": "/wiki/entities/ariredbord/"
+  },
+  "ArinDube": {
+    "title": "Arin Dube / Arindrajit Dube",
+    "url": "/wiki/entities/arindube/"
   },
   "AristotlePoeticsBookTwo": {
     "title": "亚里士多德《诗学》第二卷 / Aristotle's Poetics Book II",
@@ -3818,6 +3906,10 @@
   "AttentionAsWeather": {
     "title": "Attention As Weather",
     "url": "/wiki/concepts/attentionasweather/"
+  },
+  "AttentionFragmentation": {
+    "title": "Attention Fragmentation / 注意力碎片化",
+    "url": "/wiki/concepts/attentionfragmentation/"
   },
   "AttentionIndustrialization": {
     "title": "Attention Industrialization",
@@ -4163,6 +4255,10 @@
     "title": "Band of Angels",
     "url": "/wiki/entities/bandofangels/"
   },
+  "BanffNationalPark": {
+    "title": "Banff National Park / 班夫",
+    "url": "/wiki/entities/banffnationalpark/"
+  },
   "Bangladesh": {
     "title": "Bangladesh",
     "url": "/wiki/entities/bangladesh/"
@@ -4375,6 +4471,10 @@
     "title": "Becky Sullivan",
     "url": "/wiki/entities/beckysullivan/"
   },
+  "BedtimeReadingRitual": {
+    "title": "Bedtime Reading Ritual / 睡前阅读仪式",
+    "url": "/wiki/concepts/bedtimereadingritual/"
+  },
   "BeeColonyCollapse": {
     "title": "Bee Colony Collapse",
     "url": "/wiki/concepts/beecolonycollapse/"
@@ -4430,6 +4530,10 @@
   "BeishangDeLiliang": {
     "title": "《悲伤的力量》 / Grief Works",
     "url": "/wiki/entities/beishangdeliliang/"
+  },
+  "BeitingAncientCity": {
+    "title": "北庭故城 / Beiting Ancient City",
+    "url": "/wiki/entities/beitingancientcity/"
   },
   "Belgium": {
     "title": "Belgium",
@@ -4514,6 +4618,10 @@
   "BengdiBanzhang": {
     "title": "蹦迪班长",
     "url": "/wiki/entities/bengdibanzhang/"
+  },
+  "BenjaminLibet": {
+    "title": "Benjamin Libet / 利比特",
+    "url": "/wiki/entities/benjaminlibet/"
   },
   "BenjaminNetanyahu": {
     "title": "Benjamin Netanyahu",
@@ -4655,6 +4763,22 @@
     "title": "Big Company Halo",
     "url": "/wiki/concepts/bigcompanyhalo/"
   },
+  "BigConceptScienceTeaching": {
+    "title": "Big-Concept Science Teaching / 大概念科学教学",
+    "url": "/wiki/concepts/bigconceptscienceteaching/"
+  },
+  "BigScienceInfrastructure": {
+    "title": "Big Science Infrastructure / 大科学基础设施",
+    "url": "/wiki/concepts/bigscienceinfrastructure/"
+  },
+  "BigScienceInternationalCollaboration": {
+    "title": "Big Science International Collaboration / 大科学国际合作",
+    "url": "/wiki/concepts/bigscienceinternationalcollaboration/"
+  },
+  "BigScienceTechnologySpillover": {
+    "title": "Big Science Technology Spillover / 大科学技术外溢",
+    "url": "/wiki/concepts/bigsciencetechnologyspillover/"
+  },
   "BigTobaccoPlatformAnalogy": {
     "title": "Big Tobacco Platform Analogy",
     "url": "/wiki/concepts/bigtobaccoplatformanalogy/"
@@ -4726,6 +4850,10 @@
   "BiodegradableFoamPackaging": {
     "title": "Biodegradable Foam Packaging",
     "url": "/wiki/concepts/biodegradablefoampackaging/"
+  },
+  "BiologicalAgency": {
+    "title": "Biological Agency / 生物能动性",
+    "url": "/wiki/concepts/biologicalagency/"
   },
   "BiophilicDesign": {
     "title": "Biophilic Design",
@@ -4891,6 +5019,10 @@
     "title": "博靖 / Bo Jing",
     "url": "/wiki/entities/bojing/"
   },
+  "BoJingSanlianCulture": {
+    "title": "薄静 / Bo Jing",
+    "url": "/wiki/entities/bojingsanlianculture/"
+  },
   "BoSo": {
     "title": "BoSo",
     "url": "/wiki/entities/boso/"
@@ -4947,6 +5079,10 @@
     "title": "Book Laundering",
     "url": "/wiki/concepts/booklaundering/"
   },
+  "BookManufacturingSupplyChain": {
+    "title": "Book Manufacturing Supply Chain",
+    "url": "/wiki/concepts/bookmanufacturingsupplychain/"
+  },
   "BookOfRevelation": {
     "title": "《启示录》 / Book of Revelation",
     "url": "/wiki/entities/bookofrevelation/"
@@ -4958,6 +5094,10 @@
   "BookPrintRunStrategy": {
     "title": "Book Print-Run Strategy",
     "url": "/wiki/concepts/bookprintrunstrategy/"
+  },
+  "BookPrinterSelectionRisk": {
+    "title": "Book Printer Selection Risk",
+    "url": "/wiki/concepts/bookprinterselectionrisk/"
   },
   "BookProposalAsSalesDocument": {
     "title": "Book Proposal As Sales Document",
@@ -5170,6 +5310,10 @@
   "BristolMyersSquibb": {
     "title": "Bristol Myers Squibb / BMS",
     "url": "/wiki/entities/bristolmyerssquibb/"
+  },
+  "BritishColumbia": {
+    "title": "British Columbia / 加拿大BC省",
+    "url": "/wiki/entities/britishcolumbia/"
   },
   "BrittYoung": {
     "title": "Britt Young",
@@ -5527,6 +5671,10 @@
     "title": "蔡姬",
     "url": "/wiki/entities/caiji/"
   },
+  "CaiXiaochuan": {
+    "title": "蔡小川 / Cai Xiaochuan",
+    "url": "/wiki/entities/caixiaochuan/"
+  },
   "CainMarkReinterpretation": {
     "title": "Cain Mark Reinterpretation / 该隐印记重释",
     "url": "/wiki/concepts/cainmarkreinterpretation/"
@@ -5547,6 +5695,10 @@
     "title": "Calculation Integrity Attack",
     "url": "/wiki/concepts/calculationintegrityattack/"
   },
+  "CalendarReformLegitimacy": {
+    "title": "Calendar Reform Legitimacy / 历法改革与政治合法性",
+    "url": "/wiki/concepts/calendarreformlegitimacy/"
+  },
   "California": {
     "title": "California",
     "url": "/wiki/entities/california/"
@@ -5562,6 +5714,10 @@
   "CalvinGoddard": {
     "title": "Calvin Goddard",
     "url": "/wiki/entities/calvingoddard/"
+  },
+  "Cambodia": {
+    "title": "Cambodia / 柬埔寨",
+    "url": "/wiki/entities/cambodia/"
   },
   "Cambricon": {
     "title": "Cambricon / 寒武纪",
@@ -5702,6 +5858,10 @@
   "CapitalMarketShellStory": {
     "title": "Capital Market Shell Story",
     "url": "/wiki/concepts/capitalmarketshellstory/"
+  },
+  "CapitalPoetrySociality": {
+    "title": "京城诗社交性 / Capital Poetry Sociality",
+    "url": "/wiki/concepts/capitalpoetrysociality/"
   },
   "CapitalPunishmentRetributionProblem": {
     "title": "Capital Punishment Retribution Problem",
@@ -5979,6 +6139,10 @@
     "title": "Causal AI",
     "url": "/wiki/concepts/causalai/"
   },
+  "CausalDeterminism": {
+    "title": "Causal Determinism / 因果决定论",
+    "url": "/wiki/concepts/causaldeterminism/"
+  },
   "CausalWorldModels": {
     "title": "Causal World Models",
     "url": "/wiki/concepts/causalworldmodels/"
@@ -6002,6 +6166,10 @@
   "CelticOtherworld": {
     "title": "Celtic Otherworld",
     "url": "/wiki/concepts/celticotherworld/"
+  },
+  "CenShen": {
+    "title": "岑参 / Cen Shen",
+    "url": "/wiki/entities/censhen/"
   },
   "CenterForAIStandardsAndInnovation": {
     "title": "Center for AI Standards and Innovation",
@@ -6071,6 +6239,10 @@
     "title": "Chanel",
     "url": "/wiki/entities/chanel/"
   },
+  "ChangAnTang": {
+    "title": "唐代长安 / Tang Chang'an",
+    "url": "/wiki/entities/changantang/"
+  },
   "ChangXinMemory": {
     "title": "ChangXin Memory / 长鑫存储",
     "url": "/wiki/entities/changxinmemory/"
@@ -6078,6 +6250,14 @@
   "ChangdehaokanNengDangFanChiMa": {
     "title": "《长得好看能当饭吃吗》",
     "url": "/wiki/entities/changdehaokannengdangfanchima/"
+  },
+  "ChangerdaiGoGoGo": {
+    "title": "厂二代GoGoGo",
+    "url": "/wiki/entities/changerdaigogogo/"
+  },
+  "ChangjiangBusinessSchool": {
+    "title": "长江商学院 / Cheung Kong Graduate School of Business",
+    "url": "/wiki/entities/changjiangbusinessschool/"
   },
   "ChangpengZhao": {
     "title": "Changpeng Zhao / 赵长鹏",
@@ -6355,6 +6535,10 @@
     "title": "Chicago Fire",
     "url": "/wiki/entities/chicagofire/"
   },
+  "ChiefGibby": {
+    "title": "Chief Gibby",
+    "url": "/wiki/entities/chiefgibby/"
+  },
   "ChildDeathEducation": {
     "title": "Child Death Education / 儿童死亡教育",
     "url": "/wiki/concepts/childdeatheducation/"
@@ -6511,6 +6695,10 @@
     "title": "China International Famine Relief Commission / 华洋义赈会",
     "url": "/wiki/entities/chinainternationalfaminereliefcommission/"
   },
+  "ChinaLaosRailway": {
+    "title": "China-Laos Railway / 中老铁路",
+    "url": "/wiki/entities/chinalaosrailway/"
+  },
   "ChinaLocalDebtResolution": {
     "title": "China Local Debt Resolution",
     "url": "/wiki/concepts/chinalocaldebtresolution/"
@@ -6578,6 +6766,10 @@
   "ChinaSouthernAirlines": {
     "title": "China Southern Airlines / 南方航空",
     "url": "/wiki/entities/chinasouthernairlines/"
+  },
+  "ChinaSpallationNeutronSource": {
+    "title": "中国散裂中子源 / China Spallation Neutron Source",
+    "url": "/wiki/entities/chinaspallationneutronsource/"
   },
   "ChinaSpecialEconomicZoneAsymmetry": {
     "title": "China Special Economic Zone Asymmetry",
@@ -6655,9 +6847,17 @@
     "title": "Chinese Ecommerce Platform History",
     "url": "/wiki/concepts/chineseecommerceplatformhistory/"
   },
+  "ChineseFamilyBusinessSuccession": {
+    "title": "Chinese Family Business Succession / 中国家族企业接班",
+    "url": "/wiki/concepts/chinesefamilybusinesssuccession/"
+  },
   "ChineseFolkReligionLayering": {
     "title": "Chinese Folk Religion Layering",
     "url": "/wiki/concepts/chinesefolkreligionlayering/"
+  },
+  "ChineseFragrance": {
+    "title": "Chinese Fragrance / 中式香气",
+    "url": "/wiki/concepts/chinesefragrance/"
   },
   "ChineseHardwareGlobalization": {
     "title": "Chinese Hardware Globalization",
@@ -6682,6 +6882,10 @@
   "ChineseMysteryPublishingEcology": {
     "title": "国产推理出版生态 / Chinese Mystery Publishing Ecology",
     "url": "/wiki/concepts/chinesemysterypublishingecology/"
+  },
+  "ChineseNewSpecialtyAquaculture": {
+    "title": "Chinese New Specialty Aquaculture / 中国新特产养殖",
+    "url": "/wiki/concepts/chinesenewspecialtyaquaculture/"
   },
   "ChineseOnlineGameCommercialization": {
     "title": "Chinese Online Game Commercialization",
@@ -6738,6 +6942,10 @@
   "ChokepointShippingConfidence": {
     "title": "Chokepoint Shipping Confidence",
     "url": "/wiki/concepts/chokepointshippingconfidence/"
+  },
+  "ChongzhenLishu": {
+    "title": "《崇祯历书》 / Chongzhen Lishu",
+    "url": "/wiki/entities/chongzhenlishu/"
   },
   "Chouxiangzai": {
     "title": "抽象仔 / Chouxiangzai",
@@ -6818,6 +7026,10 @@
   "ChronicFoodAdditiveRisk": {
     "title": "Chronic Food Additive Risk",
     "url": "/wiki/concepts/chronicfoodadditiverisk/"
+  },
+  "Chrysippus": {
+    "title": "Chrysippus / 克律西波斯",
+    "url": "/wiki/entities/chrysippus/"
   },
   "ChudongZahuopu": {
     "title": "触动杂货铺 / Chudong Zahuopu",
@@ -7375,9 +7587,17 @@
     "title": "Company Game Difficulty Strategy",
     "url": "/wiki/concepts/companygamedifficultystrategy/"
   },
+  "CompanyTownLaborControl": {
+    "title": "Company Town Labor Control",
+    "url": "/wiki/concepts/companytownlaborcontrol/"
+  },
   "ComparativeAdvantage": {
     "title": "Comparative Advantage",
     "url": "/wiki/concepts/comparativeadvantage/"
+  },
+  "CompensatingDifferentials": {
+    "title": "Compensating Differentials",
+    "url": "/wiki/concepts/compensatingdifferentials/"
   },
   "CompetitiveSpreadsheeting": {
     "title": "Competitive Spreadsheeting",
@@ -7570,6 +7790,10 @@
   "ConsueloDeSaintExupery": {
     "title": "Consuelo de Saint-Exupery / 康苏爱萝",
     "url": "/wiki/entities/consuelodesaintexupery/"
+  },
+  "ConsumerAIHardwareProductFit": {
+    "title": "Consumer AI Hardware Product Fit / 消费级AI硬件产品适配",
+    "url": "/wiki/concepts/consumeraihardwareproductfit/"
   },
   "ConsumerAMLExposure": {
     "title": "Consumer AML Exposure",
@@ -8783,6 +9007,10 @@
     "title": "Deco (Barcelos piabero)",
     "url": "/wiki/entities/decobarcelos/"
   },
+  "DeepBlue": {
+    "title": "Deep Blue / 深蓝",
+    "url": "/wiki/entities/deepblue/"
+  },
   "DeepCanvassing": {
     "title": "Deep Canvassing / 深度说服",
     "url": "/wiki/concepts/deepcanvassing/"
@@ -8934,6 +9162,10 @@
   "DemocraticTransitionElection": {
     "title": "Democratic Transition Election",
     "url": "/wiki/concepts/democratictransitionelection/"
+  },
+  "Democritus": {
+    "title": "Democritus / 德谟克利特",
+    "url": "/wiki/entities/democritus/"
   },
   "DengLaoban": {
     "title": "邓老板",
@@ -9399,6 +9631,10 @@
     "title": "Domestic AI Relations",
     "url": "/wiki/concepts/domesticairelations/"
   },
+  "DomesticBookPrintingFlexibility": {
+    "title": "Domestic Book Printing Flexibility",
+    "url": "/wiki/concepts/domesticbookprintingflexibility/"
+  },
   "DomesticNetworkSovereignty": {
     "title": "Domestic Network Sovereignty",
     "url": "/wiki/concepts/domesticnetworksovereignty/"
@@ -9683,6 +9919,10 @@
     "title": "杜少卿",
     "url": "/wiki/entities/dushaoqing/"
   },
+  "DuSujuan": {
+    "title": "杜素娟 / Du Sujuan",
+    "url": "/wiki/entities/dusujuan/"
+  },
   "DuTaihou": {
     "title": "杜太后 / Empress Dowager Du",
     "url": "/wiki/entities/dutaihou/"
@@ -9939,6 +10179,10 @@
     "title": "Economic Climate Tech Adoption",
     "url": "/wiki/concepts/economicclimatetechadoption/"
   },
+  "EconomicCulturalCenterSouthwardShift": {
+    "title": "经济文化中心南移 / Economic-Cultural Center Southward Shift",
+    "url": "/wiki/concepts/economicculturalcentersouthwardshift/"
+  },
   "EconomicForecastingLimits": {
     "title": "Economic Forecasting Limits",
     "url": "/wiki/concepts/economicforecastinglimits/"
@@ -10058,6 +10302,14 @@
   "EdwinVanDerSar": {
     "title": "Edwin van der Sar",
     "url": "/wiki/entities/edwinvandersar/"
+  },
+  "Eel": {
+    "title": "鳗鱼 / Eel",
+    "url": "/wiki/entities/eel/"
+  },
+  "EelSeedPriceVolatility": {
+    "title": "Eel Seed Price Volatility / 鳗苗价格波动",
+    "url": "/wiki/concepts/eelseedpricevolatility/"
   },
   "EffectiveTariffRateShock": {
     "title": "Effective Tariff Rate Shock",
@@ -10246,6 +10498,10 @@
   "EmbodiedIdentityBoundary": {
     "title": "Embodied Identity Boundary / 身体身份边界",
     "url": "/wiki/concepts/embodiedidentityboundary/"
+  },
+  "EmbodiedIntelligence": {
+    "title": "Embodied Intelligence / 具身智能",
+    "url": "/wiki/concepts/embodiedintelligence/"
   },
   "EmbodiedJudgment": {
     "title": "Embodied Judgment",
@@ -10631,6 +10887,14 @@
     "title": "Euclid Hall",
     "url": "/wiki/entities/euclidhall/"
   },
+  "EuclideanProofTraining": {
+    "title": "Euclidean Proof Training / 欧几里得式证明训练",
+    "url": "/wiki/concepts/euclideanprooftraining/"
+  },
+  "EuclidsElementsChinese": {
+    "title": "《几何原本》 / Chinese Euclid's Elements",
+    "url": "/wiki/entities/euclidselementschinese/"
+  },
   "EugeneFama": {
     "title": "Eugene Fama",
     "url": "/wiki/entities/eugenefama/"
@@ -10658,6 +10922,10 @@
   "EuropeanDefenseAutonomy": {
     "title": "European Defense Autonomy",
     "url": "/wiki/concepts/europeandefenseautonomy/"
+  },
+  "EuropeanDeforestationRegulationSupplyChain": {
+    "title": "European Deforestation Regulation Supply Chain",
+    "url": "/wiki/concepts/europeandeforestationregulationsupplychain/"
   },
   "EuropeanIdentityClassGradient": {
     "title": "European Identity Class Gradient",
@@ -10767,6 +11035,10 @@
     "title": "Ex Vivo CAR-T Manufacturing",
     "url": "/wiki/concepts/exvivocartmanufacturing/"
   },
+  "ExamDrivenScienceEducation": {
+    "title": "Exam-Driven Science Education / 应试化科学教育",
+    "url": "/wiki/concepts/examdrivenscienceeducation/"
+  },
   "ExcellentSheep": {
     "title": "《优秀的绵羊》 / Excellent Sheep",
     "url": "/wiki/entities/excellentsheep/"
@@ -10855,6 +11127,10 @@
     "title": "Extraction Promise Ethics / 撤离承诺伦理",
     "url": "/wiki/concepts/extractionpromiseethics/"
   },
+  "ExtremeEnvironmentPhysics": {
+    "title": "Extreme Environment Physics / 极端环境物理",
+    "url": "/wiki/concepts/extremeenvironmentphysics/"
+  },
   "ExtremeEnvironmentRiskManagement": {
     "title": "Extreme Environment Risk Management",
     "url": "/wiki/concepts/extremeenvironmentriskmanagement/"
@@ -10870,6 +11146,10 @@
   "FAIR": {
     "title": "FAIR",
     "url": "/wiki/entities/fair/"
+  },
+  "FAST": {
+    "title": "贵州天眼 / FAST",
+    "url": "/wiki/entities/fast/"
   },
   "FHN": {
     "title": "FHN",
@@ -10914,6 +11194,18 @@
   "FactFutureAssetPricing": {
     "title": "Fact/Future Asset Pricing",
     "url": "/wiki/concepts/factfutureassetpricing/"
+  },
+  "FactorySecondGeneration": {
+    "title": "Factory Second Generation / 厂二代",
+    "url": "/wiki/concepts/factorysecondgeneration/"
+  },
+  "FactorySecondGenerationPersonalIP": {
+    "title": "Factory-Second-Generation Personal IP / 厂二代个人IP",
+    "url": "/wiki/concepts/factorysecondgenerationpersonalip/"
+  },
+  "Fadior": {
+    "title": "法迪奥 / Fadior",
+    "url": "/wiki/entities/fadior/"
   },
   "FailureDesensitization": {
     "title": "Failure Desensitization",
@@ -10970,6 +11262,10 @@
   "FamilyBusinessSuccessionOpacity": {
     "title": "Family Business Succession Opacity",
     "url": "/wiki/concepts/familybusinesssuccessionopacity/"
+  },
+  "FamilyBusinessWorkLifeBoundary": {
+    "title": "Family-Business Work-Life Boundary / 家族企业工作生活边界",
+    "url": "/wiki/concepts/familybusinessworklifeboundary/"
   },
   "FamilyCaregiverTraining": {
     "title": "Family Caregiver Training",
@@ -11034,6 +11330,10 @@
   "FanMin": {
     "title": "Fan Min",
     "url": "/wiki/entities/fanmin/"
+  },
+  "FanXinyu": {
+    "title": "范鑫宇 / Fan Xinyu",
+    "url": "/wiki/entities/fanxinyu/"
   },
   "FanYiru": {
     "title": "樊一如 / Fan Yiru",
@@ -11130,6 +11430,10 @@
   "Fedco": {
     "title": "Fedco",
     "url": "/wiki/entities/fedco/"
+  },
+  "FedeAlvarez": {
+    "title": "Fede Alvarez / Fede Álvarez",
+    "url": "/wiki/entities/fedealvarez/"
   },
   "FederalAIPreemption": {
     "title": "Federal AI Preemption",
@@ -11247,6 +11551,10 @@
     "title": "Female-Friendly Bistro / 女性友好小酒馆",
     "url": "/wiki/concepts/femalefriendlybistro/"
   },
+  "FemaleFriendshipRecognition": {
+    "title": "Female Friendship Recognition / 女性友谊的看见",
+    "url": "/wiki/concepts/femalefriendshiprecognition/"
+  },
   "FemaleJournalistFieldwork": {
     "title": "Female Journalist Fieldwork / 女记者现场方法",
     "url": "/wiki/concepts/femalejournalistfieldwork/"
@@ -11274,6 +11582,10 @@
   "FenJingyuan": {
     "title": "焚景源",
     "url": "/wiki/entities/fenjingyuan/"
+  },
+  "FengDao": {
+    "title": "冯道 / Feng Dao",
+    "url": "/wiki/entities/fengdao/"
   },
   "FengShuiVitalEnergyTheory": {
     "title": "Feng Shui Vital-Energy Theory / 风水生气论",
@@ -11623,6 +11935,14 @@
     "title": "Fitbit AI Health Coach",
     "url": "/wiki/entities/fitbitaihealthcoach/"
   },
+  "FiveDynastiesTenKingdoms": {
+    "title": "五代十国 / Five Dynasties and Ten Kingdoms",
+    "url": "/wiki/entities/fivedynastiestenkingdoms/"
+  },
+  "FiveDynastiesTenKingdomsConceptFormation": {
+    "title": "五代十国概念形成 / Five Dynasties Ten Kingdoms Concept Formation",
+    "url": "/wiki/concepts/fivedynastiestenkingdomsconceptformation/"
+  },
   "FiveGRobotics": {
     "title": "5G Robotics",
     "url": "/wiki/entities/fivegrobotics/"
@@ -11714,6 +12034,14 @@
   "FocusedDiffuseThinkingBalance": {
     "title": "Focused-Diffuse Thinking Balance / 专注与发散思维均衡",
     "url": "/wiki/concepts/focuseddiffusethinkingbalance/"
+  },
+  "FoieGras": {
+    "title": "鹅肝 / Foie Gras",
+    "url": "/wiki/entities/foiegras/"
+  },
+  "FoieGrasWelfareTradeoff": {
+    "title": "Foie Gras Welfare Tradeoff / 鹅肝福利权衡",
+    "url": "/wiki/concepts/foiegraswelfaretradeoff/"
   },
   "FoldablePhoneProductivity": {
     "title": "Foldable Phone Productivity",
@@ -11883,6 +12211,10 @@
     "title": "Formal Verification",
     "url": "/wiki/concepts/formalverification/"
   },
+  "FormerShu": {
+    "title": "前蜀 / Former Shu",
+    "url": "/wiki/entities/formershu/"
+  },
   "FormulaOne": {
     "title": "Formula One",
     "url": "/wiki/entities/formulaone/"
@@ -11906,6 +12238,10 @@
   "ForwardDeployedProductManager": {
     "title": "Forward Deployed Product Manager",
     "url": "/wiki/concepts/forwarddeployedproductmanager/"
+  },
+  "Foshan": {
+    "title": "Foshan / 佛山",
+    "url": "/wiki/entities/foshan/"
   },
   "Fosun": {
     "title": "复星 / Fosun",
@@ -12131,6 +12467,10 @@
     "title": "Foxconn Industrial Internet / 工业富联",
     "url": "/wiki/entities/foxconnindustrialinternet/"
   },
+  "FragranceProductStorytelling": {
+    "title": "Fragrance Product Storytelling / 香气产品叙事",
+    "url": "/wiki/concepts/fragranceproductstorytelling/"
+  },
   "FrameworkLedSaaS": {
     "title": "Framework-Led SaaS",
     "url": "/wiki/concepts/frameworkledsaas/"
@@ -12235,6 +12575,10 @@
     "title": "Free Trade Distributional Cost",
     "url": "/wiki/concepts/freetradedistributionalcost/"
   },
+  "FreeWill": {
+    "title": "Free Will / 自由意志",
+    "url": "/wiki/concepts/freewill/"
+  },
   "FreedomAsDignity": {
     "title": "Freedom As Dignity / 自由作为尊严",
     "url": "/wiki/concepts/freedomasdignity/"
@@ -12242,6 +12586,10 @@
   "FreedomOfNavigationTradeOrder": {
     "title": "Freedom of Navigation Trade Order",
     "url": "/wiki/concepts/freedomofnavigationtradeorder/"
+  },
+  "FreelanceMarketExposure": {
+    "title": "Freelance Market Exposure / 自由职业市场暴露",
+    "url": "/wiki/concepts/freelancemarketexposure/"
   },
   "FreitBarefoot": {
     "title": "Freit Barefoot",
@@ -12454,6 +12802,10 @@
   "FuyouZhishang": {
     "title": "《蜉蝣直上》",
     "url": "/wiki/entities/fuyouzhishang/"
+  },
+  "FuzaiAIToy": {
+    "title": "福仔 / Fuzai AI Toy",
+    "url": "/wiki/entities/fuzaiaitoy/"
   },
   "GECAS": {
     "title": "GECAS",
@@ -12739,6 +13091,10 @@
     "title": "Gendered Fairy-Tale Punishment / 童话中的性别化惩罚",
     "url": "/wiki/concepts/genderedfairytalepunishment/"
   },
+  "GenderedFamilyBusinessRoles": {
+    "title": "Gendered Family-Business Roles / 性别化家族企业分工",
+    "url": "/wiki/concepts/genderedfamilybusinessroles/"
+  },
   "GenderedFashionSafetyBlame": {
     "title": "Gendered Fashion Safety Blame",
     "url": "/wiki/concepts/genderedfashionsafetyblame/"
@@ -12750,6 +13106,10 @@
   "GenderedHairRegulation": {
     "title": "Gendered Hair Regulation",
     "url": "/wiki/concepts/genderedhairregulation/"
+  },
+  "GenderedLineageRitualOrder": {
+    "title": "Gendered Lineage Ritual Order / 性别化宗族仪式秩序",
+    "url": "/wiki/concepts/genderedlineageritualorder/"
   },
   "GenderedMedicalization": {
     "title": "Gendered Medicalization",
@@ -13459,6 +13819,10 @@
     "title": "关亚迪 / Guan Yadi",
     "url": "/wiki/entities/guanyadiqizhulou/"
   },
+  "Guangdong": {
+    "title": "广东 / Guangdong",
+    "url": "/wiki/entities/guangdong/"
+  },
   "GuangfanTechnology": {
     "title": "Guangfan Technology / 光帆科技",
     "url": "/wiki/entities/guangfantechnology/"
@@ -13486,6 +13850,10 @@
   "GuantanamoBay": {
     "title": "Guantanamo Bay",
     "url": "/wiki/entities/guantanamobay/"
+  },
+  "Guanxia": {
+    "title": "观夏 / Guanxia",
+    "url": "/wiki/entities/guanxia/"
   },
   "Guanyin": {
     "title": "Guanyin / 观音",
@@ -13595,6 +13963,10 @@
     "title": "Guy Raz",
     "url": "/wiki/entities/guyraz/"
   },
+  "GynecologicalExamDignity": {
+    "title": "Gynecological Exam Dignity / 妇科检查尊严",
+    "url": "/wiki/concepts/gynecologicalexamdignity/"
+  },
   "H1BVisaCoalitionFaultLine": {
     "title": "H-1B Visa Coalition Fault Line",
     "url": "/wiki/concepts/h1bvisacoalitionfaultline/"
@@ -13638,6 +14010,10 @@
   "HPLovecraft": {
     "title": "H. P. Lovecraft / 洛夫克拉夫特",
     "url": "/wiki/entities/hplovecraft/"
+  },
+  "HPSScienceEducation": {
+    "title": "HPS Science Education / 科学史哲社会科学教育",
+    "url": "/wiki/concepts/hpsscienceeducation/"
   },
   "HSBC": {
     "title": "HSBC",
@@ -13734,6 +14110,10 @@
   "HaleySalmon": {
     "title": "Haley Salmon",
     "url": "/wiki/entities/haleysalmon/"
+  },
+  "Halifax": {
+    "title": "Halifax / 哈利法克斯",
+    "url": "/wiki/entities/halifax/"
   },
   "HaloProductStrategy": {
     "title": "Halo Product Strategy",
@@ -14371,6 +14751,10 @@
     "title": "Historical Memory Contest",
     "url": "/wiki/concepts/historicalmemorycontest/"
   },
+  "HistoricalReportingAIHallucination": {
+    "title": "历史报道中的AI幻觉 / Historical Reporting AI Hallucination",
+    "url": "/wiki/concepts/historicalreportingaihallucination/"
+  },
   "HistoricalRhymePoliticalReading": {
     "title": "Historical Rhyme Political Reading / 历史押韵式政治阅读",
     "url": "/wiki/concepts/historicalrhymepoliticalreading/"
@@ -14715,6 +15099,10 @@
     "title": "How I Built This",
     "url": "/wiki/entities/howibuiltthis/"
   },
+  "HowLifeWorks": {
+    "title": "How Life Works",
+    "url": "/wiki/entities/howlifeworks/"
+  },
   "HowToAI": {
     "title": "How to AI",
     "url": "/wiki/entities/howtoai/"
@@ -14763,6 +15151,10 @@
     "title": "Huang Bote",
     "url": "/wiki/entities/huangbote/"
   },
+  "HuangChao": {
+    "title": "黄巢 / Huang Chao",
+    "url": "/wiki/entities/huangchao/"
+  },
   "HuangLiuhong": {
     "title": "黄六鸿 / Huang Liuhong",
     "url": "/wiki/entities/huangliuhong/"
@@ -14791,6 +15183,10 @@
     "title": "黄峥 / Huang Zheng",
     "url": "/wiki/entities/huangzheng/"
   },
+  "HuangZiyiEducationReporter": {
+    "title": "黄子翊 / Huang Ziyi",
+    "url": "/wiki/entities/huangziyieducationreporter/"
+  },
   "HuangZiyiSanlian": {
     "title": "黄子逸 / Huang Ziyi",
     "url": "/wiki/entities/huangziyisanlian/"
@@ -14806,6 +15202,10 @@
   "Huaqiangbei": {
     "title": "Huaqiangbei",
     "url": "/wiki/entities/huaqiangbei/"
+  },
+  "HuaqiangbeiAISolutionProviders": {
+    "title": "Huaqiangbei AI Solution Providers / 华强北AI方案商",
+    "url": "/wiki/concepts/huaqiangbeiaisolutionproviders/"
   },
   "Huawei": {
     "title": "Huawei",
@@ -15171,6 +15571,10 @@
     "title": "Inbound Tourism Brand Discovery",
     "url": "/wiki/concepts/inboundtourismbranddiscovery/"
   },
+  "IncenseFormulaReconstruction": {
+    "title": "Incense Formula Reconstruction / 古方香复刻",
+    "url": "/wiki/concepts/incenseformulareconstruction/"
+  },
   "IncidentalExposure": {
     "title": "Incidental Exposure / 偶然暴露",
     "url": "/wiki/concepts/incidentalexposure/"
@@ -15234,6 +15638,10 @@
   "IndigenousAmericanMythology": {
     "title": "Indigenous American Mythology / 美洲原住民神话",
     "url": "/wiki/concepts/indigenousamericanmythology/"
+  },
+  "IndigenousDevelopmentVisibility": {
+    "title": "Indigenous Development Visibility",
+    "url": "/wiki/concepts/indigenousdevelopmentvisibility/"
   },
   "IndigenousResidentialSchoolTrauma": {
     "title": "Indigenous Residential School Trauma",
@@ -15482,6 +15890,10 @@
   "Intel": {
     "title": "Intel",
     "url": "/wiki/entities/intel/"
+  },
+  "IntellectualLifeAsPractice": {
+    "title": "Intellectual Life As Practice / 智识生活作为实践",
+    "url": "/wiki/concepts/intellectuallifeaspractice/"
   },
   "IntellectualResponsibilityUnderAuthoritarianism": {
     "title": "Intellectual Responsibility Under Authoritarianism",
@@ -15747,9 +16159,17 @@
     "title": "Iran",
     "url": "/wiki/entities/iran/"
   },
+  "IranHorizontalEscalation": {
+    "title": "Iran Horizontal Escalation / 伊朗横向升级",
+    "url": "/wiki/concepts/iranhorizontalescalation/"
+  },
   "IranLinkedCyberOperations": {
     "title": "Iran-Linked Cyber Operations",
     "url": "/wiki/concepts/iranlinkedcyberoperations/"
+  },
+  "IranNuclearMissileBargaining": {
+    "title": "Iran Nuclear-Missile Bargaining / 伊朗核导谈判分叉",
+    "url": "/wiki/concepts/irannuclearmissilebargaining/"
   },
   "IranPostwarEconomicRelief": {
     "title": "Iran Postwar Economic Relief",
@@ -15926,6 +16346,10 @@
   "JacobGoldstein": {
     "title": "Jacob Goldstein",
     "url": "/wiki/entities/jacobgoldstein/"
+  },
+  "JacobLewisIII": {
+    "title": "Jacob Lewis III",
+    "url": "/wiki/entities/jacoblewisiii/"
   },
   "JacobTierney": {
     "title": "Jacob Tierney",
@@ -16487,6 +16911,10 @@
     "title": "Jianghu Scam Craft",
     "url": "/wiki/concepts/jianghuscamcraft/"
   },
+  "JiangmenUndergroundNeutrinoObservatory": {
+    "title": "江门中微子实验 / Jiangmen Underground Neutrino Observatory",
+    "url": "/wiki/entities/jiangmenundergroundneutrinoobservatory/"
+  },
   "JiangningWeavingBureau": {
     "title": "江宁织造 / Jiangning Weaving Bureau",
     "url": "/wiki/entities/jiangningweavingbureau/"
@@ -16507,6 +16935,10 @@
     "title": "《教一只猞猁忘记动物园》",
     "url": "/wiki/entities/jiaoyizhisheliwangjidongwuyuan/"
   },
+  "JiaoheAncientCity": {
+    "title": "交河故城 / Jiaohe Ancient City",
+    "url": "/wiki/entities/jiaoheancientcity/"
+  },
   "JiaoshouYiXiaoxing": {
     "title": "叫兽易小星 / Jiaoshou Yi Xiaoxing",
     "url": "/wiki/entities/jiaoshouyixiaoxing/"
@@ -16518,6 +16950,10 @@
   "JieDechen": {
     "title": "Jie Dechen",
     "url": "/wiki/entities/jiedechen/"
+  },
+  "JieliChangjiang": {
+    "title": "接力长江 / Jieli Changjiang",
+    "url": "/wiki/entities/jielichangjiang/"
   },
   "Jieyang": {
     "title": "Jieyang / 揭阳",
@@ -16591,6 +17027,10 @@
     "title": "Beijing-Tianjin Intercity Railway / 京津城际铁路",
     "url": "/wiki/entities/jingjinintercityrailway/"
   },
+  "Jingnan": {
+    "title": "荆南 / Jingnan",
+    "url": "/wiki/entities/jingnan/"
+  },
   "JingshenXixueguiBook": {
     "title": "《精神吸血鬼》",
     "url": "/wiki/entities/jingshenxixueguibook/"
@@ -16610,6 +17050,10 @@
   "Jinzi": {
     "title": "金子 / Jinzi",
     "url": "/wiki/entities/jinzi/"
+  },
+  "JitongSpiritMedium": {
+    "title": "Jitong Spirit Medium / 鸡童（乩童）",
+    "url": "/wiki/concepts/jitongspiritmedium/"
   },
   "JiujiuwuDeDansheng": {
     "title": "《居酒屋的诞生》",
@@ -16674,6 +17118,10 @@
   "JoeyShamah": {
     "title": "Joey Shamah",
     "url": "/wiki/entities/joeyshamah/"
+  },
+  "JohannAdamSchallVonBell": {
+    "title": "汤若望 / Johann Adam Schall von Bell",
+    "url": "/wiki/entities/johannadamschallvonbell/"
   },
   "JohannConradDippel": {
     "title": "Johann Conrad Dippel / 约翰·康拉德·迪佩尔",
@@ -16974,6 +17422,10 @@
   "JulesJulesAndJim": {
     "title": "Jules / 祖",
     "url": "/wiki/entities/julesjulesandjim/"
+  },
+  "JuliaDruskin": {
+    "title": "Julia Druskin",
+    "url": "/wiki/entities/juliadruskin/"
   },
   "JuliaSamuel": {
     "title": "Julia Samuel / 朱利亚·萨米尔",
@@ -17387,6 +17839,10 @@
     "title": "Kevin Kelly",
     "url": "/wiki/entities/kevinkelly/"
   },
+  "KevinMitchell": {
+    "title": "Kevin Mitchell",
+    "url": "/wiki/entities/kevinmitchell/"
+  },
   "KevinWarsh": {
     "title": "Kevin Warsh",
     "url": "/wiki/entities/kevinwarsh/"
@@ -17394,6 +17850,10 @@
   "Keytruda": {
     "title": "Keytruda / K药",
     "url": "/wiki/entities/keytruda/"
+  },
+  "KhmerEmpire": {
+    "title": "Khmer Empire / 吴哥王朝",
+    "url": "/wiki/entities/khmerempire/"
   },
   "Kickstarter": {
     "title": "Kickstarter",
@@ -17603,6 +18063,10 @@
     "title": "Battle of Kunyang / 昆阳之战",
     "url": "/wiki/entities/kunyangbattle/"
   },
+  "KunyuWanguoQuantu": {
+    "title": "《坤舆万国全图》 / Kunyu Wanguo Quantu",
+    "url": "/wiki/entities/kunyuwanguoquantu/"
+  },
   "KurtStenn": {
     "title": "Kurt Stenn / 库尔特·斯坦",
     "url": "/wiki/entities/kurtstenn/"
@@ -17671,6 +18135,10 @@
     "title": "LTV-Based Growth Budgeting",
     "url": "/wiki/concepts/ltvbasedgrowthbudgeting/"
   },
+  "LaborMarketCounterforces": {
+    "title": "Labor Market Counterforces",
+    "url": "/wiki/concepts/labormarketcounterforces/"
+  },
   "LaborMonopsony": {
     "title": "Labor Monopsony",
     "url": "/wiki/concepts/labormonopsony/"
@@ -17678,6 +18146,10 @@
   "LaborMoralAmbivalence": {
     "title": "Labor Moral Ambivalence",
     "url": "/wiki/concepts/labormoralambivalence/"
+  },
+  "LaborSearchFrictions": {
+    "title": "Labor Search Frictions",
+    "url": "/wiki/concepts/laborsearchfrictions/"
   },
   "LaborShareConsumptionRebalancing": {
     "title": "Labor-Share Consumption Rebalancing",
@@ -17711,6 +18183,10 @@
     "title": "Lake Maracaibo",
     "url": "/wiki/entities/lakemaracaibo/"
   },
+  "LakesideBookCompany": {
+    "title": "Lakeside Book Company",
+    "url": "/wiki/entities/lakesidebookcompany/"
+  },
   "LamarHunt": {
     "title": "Lamar Hunt",
     "url": "/wiki/entities/lamarhunt/"
@@ -17718,6 +18194,10 @@
   "LanShili": {
     "title": "Lan Shili / 兰世立",
     "url": "/wiki/entities/lanshili/"
+  },
+  "LanXangKingdom": {
+    "title": "Lan Xang Kingdom / 澜沧王国",
+    "url": "/wiki/entities/lanxangkingdom/"
   },
   "LanXiaokang": {
     "title": "蓝小康 / Lan Xiaokang",
@@ -17803,6 +18283,14 @@
     "title": "Lao She Satirical Humanism",
     "url": "/wiki/concepts/laoshesatiricalhumanism/"
   },
+  "Laos": {
+    "title": "Laos / 老挝",
+    "url": "/wiki/entities/laos/"
+  },
+  "LaplacesDemon": {
+    "title": "Laplace's Demon / 拉普拉斯妖",
+    "url": "/wiki/concepts/laplacesdemon/"
+  },
   "LaputaFlyingIsland": {
     "title": "Laputa / 飞岛国",
     "url": "/wiki/entities/laputaflyingisland/"
@@ -17847,6 +18335,10 @@
     "title": "Late Bull Market Loss Risk / 牛市后期亏钱风险",
     "url": "/wiki/concepts/latebullmarketlossrisk/"
   },
+  "LateMingWesternLearning": {
+    "title": "Late-Ming Western Learning / 晚明西学东渐",
+    "url": "/wiki/concepts/latemingwesternlearning/"
+  },
   "LateRomanRepublicCrisis": {
     "title": "Late Roman Republic Crisis / 罗马共和国晚期危机",
     "url": "/wiki/concepts/lateromanrepubliccrisis/"
@@ -17858,6 +18350,26 @@
   "LateTangPoliticalPoetics": {
     "title": "Late Tang Political Poetics",
     "url": "/wiki/concepts/latetangpoliticalpoetics/"
+  },
+  "LaterHan": {
+    "title": "后汉 / Later Han",
+    "url": "/wiki/entities/laterhan/"
+  },
+  "LaterJin": {
+    "title": "后晋 / Later Jin",
+    "url": "/wiki/entities/laterjin/"
+  },
+  "LaterLiang": {
+    "title": "后梁 / Later Liang",
+    "url": "/wiki/entities/laterliang/"
+  },
+  "LaterShu": {
+    "title": "后蜀 / Later Shu",
+    "url": "/wiki/entities/latershu/"
+  },
+  "LaterTang": {
+    "title": "后唐 / Later Tang",
+    "url": "/wiki/entities/latertang/"
   },
   "LaterZhou": {
     "title": "后周 / Later Zhou",
@@ -18055,6 +18567,10 @@
     "title": "Lei Lutai / 雷履泰",
     "url": "/wiki/entities/leilutai/"
   },
+  "LeiTao": {
+    "title": "雷涛 / 无二旅人 / Lei Tao",
+    "url": "/wiki/entities/leitao/"
+  },
   "LeisureSailing": {
     "title": "Leisure Sailing / 休闲帆船",
     "url": "/wiki/concepts/leisuresailing/"
@@ -18074,6 +18590,10 @@
   "LengGanghua": {
     "title": "Leng Ganghua",
     "url": "/wiki/entities/lengganghua/"
+  },
+  "LengJianguo": {
+    "title": "冷建国 / Leng Jianguo",
+    "url": "/wiki/entities/lengjianguo/"
   },
   "LeniRiefenstahl": {
     "title": "Leni Riefenstahl / 莱妮·里芬斯塔尔",
@@ -18106,6 +18626,10 @@
   "LeonardBaum": {
     "title": "Leonard Baum",
     "url": "/wiki/entities/leonardbaum/"
+  },
+  "LeonardCohen": {
+    "title": "Leonard Cohen / 莱昂纳德·科恩",
+    "url": "/wiki/entities/leonardcohen/"
   },
   "LeverageDrivenBullMarket": {
     "title": "Leverage-Driven Bull Market",
@@ -18155,6 +18679,10 @@
     "title": "李重进 / Li Chongjin",
     "url": "/wiki/entities/lichongjin/"
   },
+  "LiCunxu": {
+    "title": "李存勖 / Li Cunxu",
+    "url": "/wiki/entities/licunxu/"
+  },
   "LiDan": {
     "title": "李诞",
     "url": "/wiki/entities/lidan/"
@@ -18175,9 +18703,17 @@
     "title": "Li Jigang / 李继刚",
     "url": "/wiki/entities/lijigang/"
   },
+  "LiJingSanlian": {
+    "title": "李菁 / Li Jing (Sanlian)",
+    "url": "/wiki/entities/lijingsanlian/"
+  },
   "LiKaShing": {
     "title": "Li Ka-shing / 李嘉诚",
     "url": "/wiki/entities/likashing/"
+  },
+  "LiKeyong": {
+    "title": "李克用 / Li Keyong",
+    "url": "/wiki/entities/likeyong/"
   },
   "LiLiang": {
     "title": "Li Liang",
@@ -18218,6 +18754,10 @@
   "LiShui": {
     "title": "《理水》",
     "url": "/wiki/entities/lishui/"
+  },
+  "LiSiyuan": {
+    "title": "李嗣源 / Li Siyuan",
+    "url": "/wiki/entities/lisiyuan/"
   },
   "LiTaitaiLihun": {
     "title": "李太太（《离婚》） / Mrs. Li",
@@ -18262,6 +18802,10 @@
   "LiYuWriter": {
     "title": "李渔 / Li Yu",
     "url": "/wiki/entities/liyuwriter/"
+  },
+  "LiZhizao": {
+    "title": "李之藻 / Li Zhizao",
+    "url": "/wiki/entities/lizhizao/"
   },
   "LiZongmin": {
     "title": "李宗闵",
@@ -18318,6 +18862,10 @@
   "LibertyMedia": {
     "title": "Liberty Media",
     "url": "/wiki/entities/libertymedia/"
+  },
+  "LibetExperimentInterpretation": {
+    "title": "Libet Experiment Interpretation / 利比特实验解释",
+    "url": "/wiki/concepts/libetexperimentinterpretation/"
   },
   "LibraryOfCongress": {
     "title": "Library of Congress",
@@ -18435,6 +18983,10 @@
     "title": "Lindy Effect Asset Allocation / 林迪效应资产配置",
     "url": "/wiki/concepts/lindyeffectassetallocation/"
   },
+  "LineIncenseDailyLife": {
+    "title": "Line Incense Daily Life / 线香日常化",
+    "url": "/wiki/concepts/lineincensedailylife/"
+  },
   "Lingguan": {
     "title": "龄官 / Lingguan",
     "url": "/wiki/entities/lingguan/"
@@ -18507,6 +19059,10 @@
     "title": "Literary Subculture Symbolization",
     "url": "/wiki/concepts/literarysubculturesymbolization/"
   },
+  "LiteraryTravelAsCareerStrategy": {
+    "title": "文人漫游作为仕途策略 / Literary Travel As Career Strategy",
+    "url": "/wiki/concepts/literarytravelascareerstrategy/"
+  },
   "LithiumIronPhosphateBatteries": {
     "title": "Lithium Iron Phosphate Batteries",
     "url": "/wiki/concepts/lithiumironphosphatebatteries/"
@@ -18559,6 +19115,10 @@
     "title": "Liu Kai",
     "url": "/wiki/entities/liukai/"
   },
+  "LiuLiangyou": {
+    "title": "刘良佑 / Liu Liangyou",
+    "url": "/wiki/entities/liuliangyou/"
+  },
   "LiuQing": {
     "title": "刘擎 / Liu Qing",
     "url": "/wiki/entities/liuqing/"
@@ -18574,6 +19134,10 @@
   "LiuYangyang": {
     "title": "刘洋洋 / Liu Yangyang",
     "url": "/wiki/entities/liuyangyang/"
+  },
+  "LiuYiSanlian": {
+    "title": "刘仪 / Liu Yi",
+    "url": "/wiki/entities/liuyisanlian/"
   },
   "LiuZhijun": {
     "title": "Liu Zhijun / 刘志军",
@@ -18679,6 +19243,10 @@
     "title": "Local Journalism",
     "url": "/wiki/concepts/localjournalism/"
   },
+  "LocalLifeDensityTravel": {
+    "title": "Local-Life Density Travel / 生活密度旅行",
+    "url": "/wiki/concepts/locallifedensitytravel/"
+  },
   "LocalLifePlatformDependency": {
     "title": "Local-Life Platform Dependency",
     "url": "/wiki/concepts/locallifeplatformdependency/"
@@ -18702,6 +19270,10 @@
   "LocalPsychedelicDecriminalization": {
     "title": "Local Psychedelic Decriminalization",
     "url": "/wiki/concepts/localpsychedelicdecriminalization/"
+  },
+  "LocalVetoHousingPolitics": {
+    "title": "Local Veto Housing Politics",
+    "url": "/wiki/concepts/localvetohousingpolitics/"
   },
   "LocalizedGlobalCompany": {
     "title": "Localized Global Company / 中国籍全球公司本地化",
@@ -18807,6 +19379,10 @@
     "title": "Long-Term Unemployment Penalty / 长期失业惩罚",
     "url": "/wiki/concepts/longtermunemploymentpenalty/"
   },
+  "LongVacationRecovery": {
+    "title": "Long Vacation Recovery / 长假恢复",
+    "url": "/wiki/concepts/longvacationrecovery/"
+  },
   "LongVideoNetworkEffects": {
     "title": "Long Video Network Effects",
     "url": "/wiki/concepts/longvideonetworkeffects/"
@@ -18826,6 +19402,10 @@
   "LongwaveRadio": {
     "title": "Longwave Radio",
     "url": "/wiki/concepts/longwaveradio/"
+  },
+  "Longyangxia": {
+    "title": "龙羊峡 / Longyangxia",
+    "url": "/wiki/entities/longyangxia/"
   },
   "LongyuanPower": {
     "title": "Longyuan Power / 龙源电力",
@@ -19323,6 +19903,14 @@
     "title": "Maine",
     "url": "/wiki/entities/maine/"
   },
+  "MainlandSoutheastAsia": {
+    "title": "Mainland Southeast Asia / 中南半岛",
+    "url": "/wiki/entities/mainlandsoutheastasia/"
+  },
+  "MainlandSoutheastAsiaRiverValleyStateFormation": {
+    "title": "Mainland Southeast Asia River-Valley State Formation / 中南半岛河谷国家形成",
+    "url": "/wiki/concepts/mainlandsoutheastasiarivervalleystateformation/"
+  },
   "MaiquerGroup": {
     "title": "Maiquer Group / 麦趣尔",
     "url": "/wiki/entities/maiquergroup/"
@@ -19362,6 +19950,10 @@
   "MakingFrankensteinBook": {
     "title": "《制造弗兰肯斯坦：玛丽·雪莱背后的科学》",
     "url": "/wiki/entities/makingfrankensteinbook/"
+  },
+  "Malawangzi": {
+    "title": "麻辣王子 / Malawangzi",
+    "url": "/wiki/entities/malawangzi/"
   },
   "Malaysia": {
     "title": "Malaysia",
@@ -19478,6 +20070,10 @@
   "ManufacturingRegionalMultiplier": {
     "title": "Manufacturing Regional Multiplier",
     "url": "/wiki/concepts/manufacturingregionalmultiplier/"
+  },
+  "ManufacturingSalesShift": {
+    "title": "Manufacturing Sales Shift / 制造业销售重心转移",
+    "url": "/wiki/concepts/manufacturingsalesshift/"
   },
   "ManufacturingWorkforcePipeline": {
     "title": "Manufacturing Workforce Pipeline",
@@ -19879,6 +20475,10 @@
     "title": "Matt Steger",
     "url": "/wiki/entities/mattsteger/"
   },
+  "MatteoRicci": {
+    "title": "利玛窦 / Matteo Ricci",
+    "url": "/wiki/entities/matteoricci/"
+  },
   "MatterGen": {
     "title": "MatterGen",
     "url": "/wiki/entities/mattergen/"
@@ -19898,6 +20498,10 @@
   "MatthewRoss": {
     "title": "Matthew Ross",
     "url": "/wiki/entities/matthewross/"
+  },
+  "MaudLewis": {
+    "title": "Maud Lewis / 莫娣",
+    "url": "/wiki/entities/maudlewis/"
   },
   "MaureenThorson": {
     "title": "Maureen Thorson",
@@ -19959,6 +20563,10 @@
     "title": "McNally Jackson",
     "url": "/wiki/entities/mcnallyjackson/"
   },
+  "MeaningAsEvolvedFunction": {
+    "title": "Meaning As Evolved Function / 意义作为进化功能",
+    "url": "/wiki/concepts/meaningasevolvedfunction/"
+  },
   "MeaningThroughExperience": {
     "title": "Meaning Through Experience",
     "url": "/wiki/concepts/meaningthroughexperience/"
@@ -20006,6 +20614,10 @@
   "MediaWorkAsLifestyle": {
     "title": "Media Work As Lifestyle / 媒体工作作为生活方式",
     "url": "/wiki/concepts/mediaworkaslifestyle/"
+  },
+  "MedicalAIEducation": {
+    "title": "Medical AI Education / 医学AI教育",
+    "url": "/wiki/concepts/medicalaieducation/"
   },
   "MedicalAIMarketingRisk": {
     "title": "Medical AI Marketing Risk",
@@ -20123,6 +20735,22 @@
     "title": "Meizu",
     "url": "/wiki/entities/meizu/"
   },
+  "MekongDelta": {
+    "title": "Mekong Delta / 湄公河三角洲",
+    "url": "/wiki/entities/mekongdelta/"
+  },
+  "MekongDeltaColonialCanalAgriculture": {
+    "title": "Mekong Delta Colonial Canal Agriculture / 湄公河三角洲殖民沟渠农业",
+    "url": "/wiki/concepts/mekongdeltacolonialcanalagriculture/"
+  },
+  "MekongRiver": {
+    "title": "Mekong River / 湄公河",
+    "url": "/wiki/entities/mekongriver/"
+  },
+  "MekongRiverGeographicWriting": {
+    "title": "Mekong River Geographic Writing / 湄公河地理写作",
+    "url": "/wiki/concepts/mekongrivergeographicwriting/"
+  },
   "MelaniaTrump": {
     "title": "Melania Trump",
     "url": "/wiki/entities/melaniatrump/"
@@ -20199,6 +20827,10 @@
     "title": "《孟子》 / Mencius",
     "url": "/wiki/entities/menciustext/"
   },
+  "MengHaoran": {
+    "title": "孟浩然 / Meng Haoran",
+    "url": "/wiki/entities/menghaoran/"
+  },
   "MengPo": {
     "title": "孟婆",
     "url": "/wiki/entities/mengpo/"
@@ -20222,6 +20854,10 @@
   "Mengqi": {
     "title": "梦琪 / Mengqi",
     "url": "/wiki/entities/mengqi/"
+  },
+  "Mengyin": {
+    "title": "蒙阴 / Mengyin",
+    "url": "/wiki/entities/mengyin/"
   },
   "Mengzi": {
     "title": "孟子 / Mencius",
@@ -20323,6 +20959,10 @@
     "title": "蜜芽 / Mia",
     "url": "/wiki/entities/miaecommerce/"
   },
+  "MiaFreelancer": {
+    "title": "Mia / 自由职业营销从业者",
+    "url": "/wiki/entities/miafreelancer/"
+  },
   "MiaLiponi": {
     "title": "Mia Liponi",
     "url": "/wiki/entities/mialiponi/"
@@ -20338,6 +20978,14 @@
   "Mianji": {
     "title": "面基",
     "url": "/wiki/entities/mianji/"
+  },
+  "MiaoQian": {
+    "title": "苗千 / Miao Qian",
+    "url": "/wiki/entities/miaoqian/"
+  },
+  "MiaoWeiSanlian": {
+    "title": "苗伟 / Miao Wei",
+    "url": "/wiki/entities/miaoweisanlian/"
   },
   "Miaoya": {
     "title": "妙鸭",
@@ -20479,6 +21127,10 @@
     "title": "Migrant Family Remittance Obligation / 移民家庭汇款义务",
     "url": "/wiki/concepts/migrantfamilyremittanceobligation/"
   },
+  "MigratoryBeekeeperLivelihood": {
+    "title": "Migratory Beekeeper Livelihood / 转场蜂农生计",
+    "url": "/wiki/concepts/migratorybeekeeperlivelihood/"
+  },
   "Migu": {
     "title": "咪咕 / Migu",
     "url": "/wiki/entities/migu/"
@@ -20615,6 +21267,10 @@
     "title": "Minnan Maritime Commercial Culture",
     "url": "/wiki/concepts/minnanmaritimecommercialculture/"
   },
+  "MinnanRitualNetwork": {
+    "title": "Minnan Ritual Network / 闽南仪式网络",
+    "url": "/wiki/concepts/minnanritualnetwork/"
+  },
   "MinoanCivilization": {
     "title": "Minoan Civilization",
     "url": "/wiki/entities/minoancivilization/"
@@ -20662,6 +21318,10 @@
   "MithrilCapital": {
     "title": "Mithril Capital",
     "url": "/wiki/entities/mithrilcapital/"
+  },
+  "MitoHabeEvans": {
+    "title": "Mito Habe Evans",
+    "url": "/wiki/entities/mitohabeevans/"
   },
   "MitsubishiCorporation": {
     "title": "Mitsubishi Corporation / 三菱商事",
@@ -20903,6 +21563,14 @@
     "title": "Monomyth / 单一神话",
     "url": "/wiki/concepts/monomyth/"
   },
+  "MonopsonyByArtifice": {
+    "title": "Monopsony By Artifice",
+    "url": "/wiki/concepts/monopsonybyartifice/"
+  },
+  "MonsoonSeasonalSocialOrder": {
+    "title": "Monsoon Seasonal Social Order / 季风季节性社会秩序",
+    "url": "/wiki/concepts/monsoonseasonalsocialorder/"
+  },
   "Montana": {
     "title": "Montana",
     "url": "/wiki/entities/montana/"
@@ -20939,6 +21607,10 @@
     "title": "Moral Reputation as Political Capital / 道德名望政治资本",
     "url": "/wiki/concepts/moralreputationpoliticalcapital/"
   },
+  "MoralResponsibilityUnderDeterminism": {
+    "title": "Moral Responsibility Under Determinism / 决定论下的道德责任",
+    "url": "/wiki/concepts/moralresponsibilityunderdeterminism/"
+  },
   "MoralSuspensionInArtReading": {
     "title": "Moral Suspension In Art Reading",
     "url": "/wiki/concepts/moralsuspensioninartreading/"
@@ -20970,6 +21642,10 @@
   "MotherComplex": {
     "title": "Mother Complex / 母亲情结",
     "url": "/wiki/concepts/mothercomplex/"
+  },
+  "MotherDaughterIntergenerationalMirror": {
+    "title": "Mother-Daughter Intergenerational Mirror / 母女代际镜像",
+    "url": "/wiki/concepts/motherdaughterintergenerationalmirror/"
   },
   "MotherDaughterReconciliation": {
     "title": "Mother-Daughter Reconciliation",
@@ -21423,6 +22099,10 @@
     "title": "Native American Oral Literature / 美洲原住民口头文学",
     "url": "/wiki/concepts/nativeamericanoralliterature/"
   },
+  "NativeBeeEcologicalPollination": {
+    "title": "Native Bee Ecological Pollination / 本土蜂生态授粉",
+    "url": "/wiki/concepts/nativebeeecologicalpollination/"
+  },
   "NatsumeSoseki": {
     "title": "Natsume Soseki / 夏目漱石",
     "url": "/wiki/entities/natsumesoseki/"
@@ -21442,6 +22122,10 @@
   "NaturalWine": {
     "title": "Natural Wine",
     "url": "/wiki/concepts/naturalwine/"
+  },
+  "NatureCityProximity": {
+    "title": "Nature-City Proximity / 城市自然邻近",
+    "url": "/wiki/concepts/naturecityproximity/"
   },
   "NatureContactSelfPerception": {
     "title": "Nature Contact And Self-Perception",
@@ -21474,6 +22158,10 @@
   "NegativeCashConversionCycle": {
     "title": "Negative Cash Conversion Cycle",
     "url": "/wiki/concepts/negativecashconversioncycle/"
+  },
+  "NegativeJobAmenities": {
+    "title": "Negative Job Amenities",
+    "url": "/wiki/concepts/negativejobamenities/"
   },
   "NegativeRealEstate": {
     "title": "Negative Real Estate / 负动产",
@@ -21579,9 +22267,17 @@
     "title": "New Balance",
     "url": "/wiki/entities/newbalance/"
   },
+  "NewEngineeringEducation": {
+    "title": "New Engineering Education / 新工科教育",
+    "url": "/wiki/concepts/newengineeringeducation/"
+  },
   "NewEnglandRevolution": {
     "title": "New England Revolution",
     "url": "/wiki/entities/newenglandrevolution/"
+  },
+  "NewFiveDynastiesHistory": {
+    "title": "《新五代史》 / New History of the Five Dynasties",
+    "url": "/wiki/entities/newfivedynastieshistory/"
   },
   "NewHampshire": {
     "title": "New Hampshire",
@@ -21839,6 +22535,10 @@
     "title": "Nola Agha",
     "url": "/wiki/entities/nolaagha/"
   },
+  "NonCompeteAgreements": {
+    "title": "Non-Compete Agreements",
+    "url": "/wiki/concepts/noncompeteagreements/"
+  },
   "NonConsensusInnovation": {
     "title": "Non-Consensus Innovation",
     "url": "/wiki/concepts/nonconsensusinnovation/"
@@ -21862,6 +22562,10 @@
   "NonfictionPublicness": {
     "title": "Nonfiction Publicness",
     "url": "/wiki/concepts/nonfictionpublicness/"
+  },
+  "NongzhengQuanshu": {
+    "title": "《农政全书》 / Nongzheng Quanshu",
+    "url": "/wiki/entities/nongzhengquanshu/"
   },
   "NonhumanBecomingHumanMotif": {
     "title": "Nonhuman Becoming Human Motif",
@@ -21930,6 +22634,10 @@
   "Northvolt": {
     "title": "Northvolt",
     "url": "/wiki/entities/northvolt/"
+  },
+  "NotWorkingAmbivalence": {
+    "title": "Not Working Ambivalence / 不上班的复杂性",
+    "url": "/wiki/concepts/notworkingambivalence/"
   },
   "NotebookLM": {
     "title": "NotebookLM",
@@ -22631,6 +23339,10 @@
     "title": "Oscar Wilde / 王尔德",
     "url": "/wiki/entities/oscarwilde/"
   },
+  "Osmanthus": {
+    "title": "桂花 / Osmanthus",
+    "url": "/wiki/entities/osmanthus/"
+  },
   "Ossian": {
     "title": "Oisin / Ossian / 鹅相",
     "url": "/wiki/entities/ossian/"
@@ -22670,6 +23382,18 @@
   "OutcomeBasedAIPricing": {
     "title": "Outcome-Based AI Pricing",
     "url": "/wiki/concepts/outcomebasedaipricing/"
+  },
+  "OutdoorBodyMindReintegration": {
+    "title": "Outdoor Body-Mind Reintegration / 户外身心重新合场",
+    "url": "/wiki/concepts/outdoorbodymindreintegration/"
+  },
+  "OutdoorFlowState": {
+    "title": "Outdoor Flow State / 户外心流",
+    "url": "/wiki/concepts/outdoorflowstate/"
+  },
+  "OutdoorSafetyPreparation": {
+    "title": "Outdoor Safety Preparation / 户外安全准备",
+    "url": "/wiki/concepts/outdoorsafetypreparation/"
   },
   "OutlierDrivenAngelInvesting": {
     "title": "Outlier-Driven Angel Investing",
@@ -23247,6 +23971,10 @@
     "title": "Permit Proportionality",
     "url": "/wiki/concepts/permitproportionality/"
   },
+  "PermittingDelayCost": {
+    "title": "Permitting Delay Cost",
+    "url": "/wiki/concepts/permittingdelaycost/"
+  },
   "Perplexity": {
     "title": "Perplexity",
     "url": "/wiki/entities/perplexity/"
@@ -23326,6 +24054,10 @@
   "PeruvianAnchoveta": {
     "title": "Peruvian Anchoveta / 鳀鱼",
     "url": "/wiki/entities/peruviananchoveta/"
+  },
+  "PesticidePollinatorRisk": {
+    "title": "Pesticide Pollinator Risk / 农药传粉昆虫风险",
+    "url": "/wiki/concepts/pesticidepollinatorrisk/"
   },
   "PetGriefAndCare": {
     "title": "Pet Grief And Care",
@@ -23451,6 +24183,10 @@
     "title": "Philadelphia Phillies",
     "url": "/wiki/entities/philadelphiaphillies/"
   },
+  "PhilipBall": {
+    "title": "Philip Ball",
+    "url": "/wiki/entities/philipball/"
+  },
   "PhilipZimbardo": {
     "title": "Philip Zimbardo / 菲利普·津巴多",
     "url": "/wiki/entities/philipzimbardo/"
@@ -23486,6 +24222,10 @@
   "PhysicalAI": {
     "title": "Physical AI",
     "url": "/wiki/concepts/physicalai/"
+  },
+  "PhysicalBookDesignTradeoff": {
+    "title": "Physical Book Design Tradeoff",
+    "url": "/wiki/concepts/physicalbookdesigntradeoff/"
   },
   "PhysicalBookPlatformBridge": {
     "title": "Physical Book Platform Bridge",
@@ -23554,6 +24294,10 @@
   "PierreMichaux": {
     "title": "Pierre Michaux / 皮埃尔·米肖",
     "url": "/wiki/entities/pierremichaux/"
+  },
+  "PierreSimonLaplace": {
+    "title": "Pierre-Simon Laplace / 拉普拉斯",
+    "url": "/wiki/entities/pierresimonlaplace/"
   },
   "PigButcheringScam": {
     "title": "Pig Butchering Scam",
@@ -24159,6 +24903,10 @@
     "title": "Premium-Everyday Brand Tension",
     "url": "/wiki/concepts/premiumeverydaybrandtension/"
   },
+  "PreparedHighValueFoodFormats": {
+    "title": "Prepared High-Value Food Formats / 高价值食材即食化",
+    "url": "/wiki/concepts/preparedhighvaluefoodformats/"
+  },
   "Preregistration": {
     "title": "Preregistration",
     "url": "/wiki/concepts/preregistration/"
@@ -24263,6 +25011,10 @@
     "title": "《幽灵公主》 / Princess Mononoke",
     "url": "/wiki/entities/princessmononoke/"
   },
+  "PrincetonUniversity": {
+    "title": "Princeton University",
+    "url": "/wiki/entities/princetonuniversity/"
+  },
   "PrincipleTech": {
     "title": "原则科技",
     "url": "/wiki/entities/principletech/"
@@ -24274,6 +25026,10 @@
   "PrinciplesOfPhilosophy": {
     "title": "Principles of Philosophy / 《哲学原理》",
     "url": "/wiki/entities/principlesofphilosophy/"
+  },
+  "PrintingSignatureConstraint": {
+    "title": "Printing Signature Constraint",
+    "url": "/wiki/concepts/printingsignatureconstraint/"
   },
   "Pripyat": {
     "title": "Pripyat",
@@ -24454,6 +25210,10 @@
   "ProjectAristotle": {
     "title": "Project Aristotle",
     "url": "/wiki/entities/projectaristotle/"
+  },
+  "ProjectBasedScienceLearning": {
+    "title": "Project-Based Science Learning / 项目式科学学习",
+    "url": "/wiki/concepts/projectbasedsciencelearning/"
   },
   "ProjectBasedVocationalLearning": {
     "title": "Project-Based Vocational Learning / 项目式职业学习",
@@ -24743,6 +25503,10 @@
     "title": "Purpose Driven Business",
     "url": "/wiki/concepts/purposedrivenbusiness/"
   },
+  "Putian": {
+    "title": "Putian / 莆田",
+    "url": "/wiki/entities/putian/"
+  },
   "PutnamCompetition": {
     "title": "Putnam Competition",
     "url": "/wiki/entities/putnamcompetition/"
@@ -24846,6 +25610,10 @@
   "QinZong": {
     "title": "秦总",
     "url": "/wiki/entities/qinzong/"
+  },
+  "Qinan": {
+    "title": "奇楠 / Qinan",
+    "url": "/wiki/entities/qinan/"
   },
   "QingDragonFlag": {
     "title": "Qing Dragon Flag / 大清龙旗",
@@ -24971,6 +25739,10 @@
     "title": "Quark",
     "url": "/wiki/entities/quark/"
   },
+  "QuebecCity": {
+    "title": "Quebec City / 魁北克城",
+    "url": "/wiki/entities/quebeccity/"
+  },
   "QueenChristinaOfSweden": {
     "title": "Queen Christina of Sweden / 瑞典女王克里斯蒂娜",
     "url": "/wiki/entities/queenchristinaofsweden/"
@@ -25002,6 +25774,10 @@
   "Qwen": {
     "title": "Qwen",
     "url": "/wiki/entities/qwen/"
+  },
+  "QwenSmartGlasses": {
+    "title": "千问眼镜 / Qwen Smart Glasses",
+    "url": "/wiki/entities/qwensmartglasses/"
   },
   "RAND": {
     "title": "RAND",
@@ -25079,6 +25855,10 @@
     "title": "Rahul Banerjee",
     "url": "/wiki/entities/rahulbanerjee/"
   },
+  "RainbowTrout": {
+    "title": "虹鳟 / Rainbow Trout",
+    "url": "/wiki/entities/rainbowtrout/"
+  },
   "RajChetty": {
     "title": "Raj Chetty",
     "url": "/wiki/entities/rajchetty/"
@@ -25098,6 +25878,10 @@
   "RamonSampedro": {
     "title": "Ramon Sampedro / 桑佩德罗",
     "url": "/wiki/entities/ramonsampedro/"
+  },
+  "RandomFluctuations": {
+    "title": "随机波动 / Random Fluctuations",
+    "url": "/wiki/entities/randomfluctuations/"
   },
   "RandomMarketNarratives": {
     "title": "Random Market Narratives",
@@ -25198,6 +25982,10 @@
   "ReadingListPointerEpisode": {
     "title": "Reading List Pointer Episode",
     "url": "/wiki/concepts/readinglistpointerepisode/"
+  },
+  "ReadingMediumPluralism": {
+    "title": "Reading Medium Pluralism / 阅读媒介多元主义",
+    "url": "/wiki/concepts/readingmediumpluralism/"
   },
   "RealEstateInvestmentTrust": {
     "title": "Real Estate Investment Trust",
@@ -25406,6 +26194,10 @@
   "Regeneron": {
     "title": "Regeneron / 再生元",
     "url": "/wiki/entities/regeneron/"
+  },
+  "RegimeBasicBaseStabilization": {
+    "title": "Regime Basic-Base Stabilization / 政权基本盘稳定",
+    "url": "/wiki/concepts/regimebasicbasestabilization/"
   },
   "RegionalAdministrativeFragmentation": {
     "title": "Regional Administrative Fragmentation",
@@ -25627,6 +26419,10 @@
     "title": "Reshoring Initiative",
     "url": "/wiki/entities/reshoringinitiative/"
   },
+  "ResistanceAxisBackfire": {
+    "title": "Resistance Axis Backfire / 抵抗之弧反噬",
+    "url": "/wiki/concepts/resistanceaxisbackfire/"
+  },
   "ResourceBasedEconomicTransition": {
     "title": "Resource-Based Economic Transition",
     "url": "/wiki/concepts/resourcebasedeconomictransition/"
@@ -25690,6 +26486,10 @@
   "ResultAsAService": {
     "title": "Result As A Service",
     "url": "/wiki/concepts/resultasaservice/"
+  },
+  "ResumeGapStigma": {
+    "title": "Resume Gap Stigma / 简历空白污名",
+    "url": "/wiki/concepts/resumegapstigma/"
   },
   "RetailBullMarketPsychology": {
     "title": "Retail Bull Market Psychology",
@@ -25935,6 +26735,14 @@
     "title": "Ritual Hope Consumption / 仪式性希望消费",
     "url": "/wiki/concepts/ritualhopeconsumption/"
   },
+  "RitualSuccessionCrisis": {
+    "title": "Ritual Succession Crisis / 仪式传承危机",
+    "url": "/wiki/concepts/ritualsuccessioncrisis/"
+  },
+  "RitualTourismAuthenticityTension": {
+    "title": "Ritual Tourism Authenticity Tension / 仪式文旅真实性张力",
+    "url": "/wiki/concepts/ritualtourismauthenticitytension/"
+  },
   "RixinYiy": {
     "title": "日新月异 / Rixin Yiy",
     "url": "/wiki/entities/rixinyiy/"
@@ -25998,6 +26806,10 @@
   "RobertPrice": {
     "title": "Robert Price",
     "url": "/wiki/entities/robertprice/"
+  },
+  "RobertSapolsky": {
+    "title": "Robert Sapolsky / 萨波斯基",
+    "url": "/wiki/entities/robertsapolsky/"
   },
   "RobertSmith": {
     "title": "Robert Smith",
@@ -26099,6 +26911,10 @@
     "title": "Roche / 罗氏",
     "url": "/wiki/entities/roche/"
   },
+  "RockClimbingFailurePractice": {
+    "title": "Rock Climbing Failure Practice / 攀岩失败练习",
+    "url": "/wiki/concepts/rockclimbingfailurepractice/"
+  },
   "RockbridgeNetwork": {
     "title": "Rockbridge Network",
     "url": "/wiki/entities/rockbridgenetwork/"
@@ -26118,6 +26934,10 @@
   "RodeoAI": {
     "title": "Rodeo.ai",
     "url": "/wiki/entities/rodeoai/"
+  },
+  "RodoSayagues": {
+    "title": "Rodo Sayagues",
+    "url": "/wiki/entities/rodosayagues/"
   },
   "RogerZelazny": {
     "title": "Roger Zelazny / 罗杰·泽拉兹尼",
@@ -26230,6 +27050,10 @@
   "RooneArledge": {
     "title": "Roone Arledge",
     "url": "/wiki/entities/roonearledge/"
+  },
+  "Ropet": {
+    "title": "Ropet",
+    "url": "/wiki/entities/ropet/"
   },
   "Rorschach": {
     "title": "罗夏 / Rorschach",
@@ -26547,6 +27371,10 @@
     "title": "Salim Ramji",
     "url": "/wiki/entities/salimramji/"
   },
+  "SalmonTroutLabelTransparency": {
+    "title": "Salmon-Trout Label Transparency / 鲑鳟商品名透明",
+    "url": "/wiki/concepts/salmontroutlabeltransparency/"
+  },
   "SamAltman": {
     "title": "Sam Altman",
     "url": "/wiki/entities/samaltman/"
@@ -26727,6 +27555,10 @@
     "title": "Scenario-Specific AI",
     "url": "/wiki/concepts/scenariospecificai/"
   },
+  "ScentAsBrandMemory": {
+    "title": "Scent As Brand Memory / 气味作为品牌记忆",
+    "url": "/wiki/concepts/scentasbrandmemory/"
+  },
   "SchadenfreudeAsComparisonEmotion": {
     "title": "Schadenfreude As Comparison Emotion / 比较中的幸灾乐祸",
     "url": "/wiki/concepts/schadenfreudeascomparisonemotion/"
@@ -26755,6 +27587,14 @@
     "title": "Science Communication Disadvantage",
     "url": "/wiki/concepts/sciencecommunicationdisadvantage/"
   },
+  "ScienceEducationAsCivicLiteracy": {
+    "title": "Science Education As Civic Literacy / 作为公民素养的科学教育",
+    "url": "/wiki/concepts/scienceeducationascivicliteracy/"
+  },
+  "ScienceEngineeringAesthetics": {
+    "title": "Science Engineering Aesthetics / 科学工程美感",
+    "url": "/wiki/concepts/scienceengineeringaesthetics/"
+  },
   "ScienceFictionContemporaryScienceIntegration": {
     "title": "Science Fiction As Contemporary Science Integration / 科幻作为当代科学整合",
     "url": "/wiki/concepts/sciencefictioncontemporaryscienceintegration/"
@@ -26778,6 +27618,10 @@
   "ScienceUnderRevolutionarySuspicion": {
     "title": "Science Under Revolutionary Suspicion / 革命怀疑下的科学",
     "url": "/wiki/concepts/scienceunderrevolutionarysuspicion/"
+  },
+  "ScienceValueTransmission": {
+    "title": "Science Value Transmission / 科学价值观传入",
+    "url": "/wiki/concepts/sciencevaluetransmission/"
   },
   "ScientificAnxietyLiteraryMaterial": {
     "title": "Scientific Anxiety As Literary Material / 科学焦虑作为文学材料",
@@ -26810,6 +27654,10 @@
   "ScientificSkepticism": {
     "title": "Scientific Skepticism",
     "url": "/wiki/concepts/scientificskepticism/"
+  },
+  "ScientistAsProjectOrganizer": {
+    "title": "Scientist As Project Organizer / 科学家作为项目组织者",
+    "url": "/wiki/concepts/scientistasprojectorganizer/"
   },
   "ScientistAsStateBureaucrat": {
     "title": "Scientist As State Bureaucrat",
@@ -26899,6 +27747,10 @@
     "title": "Search Quality Operating Cadence",
     "url": "/wiki/concepts/searchqualityoperatingcadence/"
   },
+  "SeasonalBurningAgriculture": {
+    "title": "Seasonal Burning Agriculture / 季节性烧山农业",
+    "url": "/wiki/concepts/seasonalburningagriculture/"
+  },
   "SeasonalInventoryFinancing": {
     "title": "Seasonal Inventory Financing",
     "url": "/wiki/concepts/seasonalinventoryfinancing/"
@@ -26918,6 +27770,10 @@
   "SebastianTheResidency": {
     "title": "Sebastian (The Residency)",
     "url": "/wiki/entities/sebastiantheresidency/"
+  },
+  "SecondGenerationBusinessEntryRoutes": {
+    "title": "Second-Generation Business Entry Routes / 二代接班切入路径",
+    "url": "/wiki/concepts/secondgenerationbusinessentryroutes/"
   },
   "SecondLifeEVBatteryStorage": {
     "title": "Second-Life EV Battery Storage",
@@ -27030,6 +27886,10 @@
   "SelfGeneratedEmotionalCapacity": {
     "title": "Self-Generated Emotional Capacity / 造血能力",
     "url": "/wiki/concepts/selfgeneratedemotionalcapacity/"
+  },
+  "SelfPermission": {
+    "title": "Self-Permission / 自我许可",
+    "url": "/wiki/concepts/selfpermission/"
   },
   "SelfRecognitionHorror": {
     "title": "Self-Recognition Horror",
@@ -27395,6 +28255,10 @@
     "title": "Shen Nanpeng",
     "url": "/wiki/entities/shennanpeng/"
   },
+  "ShenZhenwen": {
+    "title": "沈真文 / Shen Zhenwen",
+    "url": "/wiki/entities/shenzhenwen/"
+  },
   "ShengdongHuopo": {
     "title": "声动活泼",
     "url": "/wiki/entities/shengdonghuopo/"
@@ -27458,6 +28322,10 @@
   "ShiJianqiaoRevengeCase": {
     "title": "Shi Jianqiao Revenge Case",
     "url": "/wiki/concepts/shijianqiaorevengecase/"
+  },
+  "ShiJingtang": {
+    "title": "石敬瑭 / Shi Jingtang",
+    "url": "/wiki/entities/shijingtang/"
   },
   "ShiLei": {
     "title": "时雷 / Shi Lei",
@@ -27591,6 +28459,10 @@
     "title": "《小市民》系列",
     "url": "/wiki/entities/shoshiminseries/"
   },
+  "ShroudedJobAttributes": {
+    "title": "Shrouded Job Attributes",
+    "url": "/wiki/concepts/shroudedjobattributes/"
+  },
   "ShuCai": {
     "title": "树才",
     "url": "/wiki/entities/shucai/"
@@ -27622,6 +28494,10 @@
   "Shunde": {
     "title": "Shunde / 顺德",
     "url": "/wiki/entities/shunde/"
+  },
+  "ShunliuErshangDocumentary": {
+    "title": "《顺流而上》 / Upstream Documentary",
+    "url": "/wiki/entities/shunliuershangdocumentary/"
   },
   "ShuojieHanzi150Jiang": {
     "title": "《说解汉字150讲》",
@@ -27743,6 +28619,10 @@
     "title": "Sina / 新浪",
     "url": "/wiki/entities/sina/"
   },
+  "SinakVillageSite": {
+    "title": "Sinak Village Site and High-Rise Development",
+    "url": "/wiki/entities/sinakvillagesite/"
+  },
   "SincerityAgainstSocialHypocrisy": {
     "title": "Sincerity Against Social Hypocrisy / 以真诚抵抗社会虚伪",
     "url": "/wiki/concepts/sincerityagainstsocialhypocrisy/"
@@ -27842,6 +28722,10 @@
   "SleepAsDailyHealthAccount": {
     "title": "Sleep As Daily Health Account",
     "url": "/wiki/concepts/sleepasdailyhealthaccount/"
+  },
+  "SleepAsResistance": {
+    "title": "Sleep As Resistance / 睡眠作为抵抗",
+    "url": "/wiki/concepts/sleepasresistance/"
   },
   "SleepWellPortfolioTest": {
     "title": "Sleep-Well Portfolio Test / 睡眠理论",
@@ -28219,6 +29103,14 @@
     "title": "South Sea Company / 南海公司",
     "url": "/wiki/entities/southseacompany/"
   },
+  "SouthernHan": {
+    "title": "南汉 / Southern Han",
+    "url": "/wiki/entities/southernhan/"
+  },
+  "SouthernTang": {
+    "title": "南唐 / Southern Tang",
+    "url": "/wiki/entities/southerntang/"
+  },
   "SouthernTourPoliticalTheater": {
     "title": "南巡政治剧场 / Southern Tour Political Theater",
     "url": "/wiki/concepts/southerntourpoliticaltheater/"
@@ -28226,6 +29118,10 @@
   "SouthwestAssociatedUniversity": {
     "title": "西南联大",
     "url": "/wiki/entities/southwestassociateduniversity/"
+  },
+  "SovereignHousingDevelopment": {
+    "title": "Sovereign Housing Development",
+    "url": "/wiki/concepts/sovereignhousingdevelopment/"
   },
   "SovietUnion": {
     "title": "Soviet Union",
@@ -28450,6 +29346,10 @@
   "SpySourceProtection": {
     "title": "Spy Source Protection / 间谍线人保护",
     "url": "/wiki/concepts/spysourceprotection/"
+  },
+  "SquamishNation": {
+    "title": "Squamish Nation",
+    "url": "/wiki/entities/squamishnation/"
   },
   "Square": {
     "title": "Square",
@@ -29139,6 +30039,10 @@
     "title": "Suburban Delivery Strategy",
     "url": "/wiki/concepts/suburbandeliverystrategy/"
   },
+  "SuccessionAsContinuousEntrepreneurship": {
+    "title": "Succession as Continuous Entrepreneurship / 接班即持续创业",
+    "url": "/wiki/concepts/successionascontinuousentrepreneurship/"
+  },
   "SuduTechnology": {
     "title": "速度科技 / Sudu Technology",
     "url": "/wiki/entities/sudutechnology/"
@@ -29146,6 +30050,10 @@
   "SufiImageLegitimacy": {
     "title": "Sufi Image Legitimacy",
     "url": "/wiki/concepts/sufiimagelegitimacy/"
+  },
+  "SukhothaiKingdom": {
+    "title": "Sukhothai Kingdom / 苏可泰王朝",
+    "url": "/wiki/entities/sukhothaikingdom/"
   },
   "SumitomoCorporation": {
     "title": "Sumitomo Corporation / 住友商事",
@@ -29178,6 +30086,10 @@
   "SunWukong": {
     "title": "孙悟空",
     "url": "/wiki/entities/sunwukong/"
+  },
+  "SunYuanhua": {
+    "title": "孙元化 / Sun Yuanhua",
+    "url": "/wiki/entities/sunyuanhua/"
   },
   "SunZhonghuai": {
     "title": "孙忠怀 / Sun Zhonghuai",
@@ -29427,9 +30339,17 @@
     "title": "TSMC",
     "url": "/wiki/entities/tsmc/"
   },
+  "TShapedAITalent": {
+    "title": "T-Shaped AI Talent / AI时代T型人才",
+    "url": "/wiki/concepts/tshapedaitalent/"
+  },
   "TVMotionStutter": {
     "title": "TV Motion Stutter",
     "url": "/wiki/concepts/tvmotionstutter/"
+  },
+  "TacitManagementKnowledge": {
+    "title": "Tacit Management Knowledge / 默会知识",
+    "url": "/wiki/concepts/tacitmanagementknowledge/"
   },
   "TacoBell": {
     "title": "Taco Bell",
@@ -29458,6 +30378,10 @@
   "TailRiskHedging": {
     "title": "Tail-Risk Hedging",
     "url": "/wiki/concepts/tailriskhedging/"
+  },
+  "Taipingnian": {
+    "title": "《太平年》",
+    "url": "/wiki/entities/taipingnian/"
   },
   "Taitai": {
     "title": "台台 / Taitai",
@@ -29527,6 +30451,10 @@
     "title": "唐传奇 / Tang Chuanqi",
     "url": "/wiki/concepts/tangchuanqi/"
   },
+  "TangFrontierPoetryFieldExperience": {
+    "title": "边塞诗的实地经验 / Tang Frontier Poetry Field Experience",
+    "url": "/wiki/concepts/tangfrontierpoetryfieldexperience/"
+  },
   "TangHaocheng": {
     "title": "Tang Haocheng",
     "url": "/wiki/entities/tanghaocheng/"
@@ -29542,6 +30470,18 @@
   "TangMiscellanyArchiveValue": {
     "title": "Tang Miscellany Archive Value",
     "url": "/wiki/concepts/tangmiscellanyarchivevalue/"
+  },
+  "TangPoetryCulturalGeography": {
+    "title": "唐诗文化地理 / Tang Poetry Cultural Geography",
+    "url": "/wiki/concepts/tangpoetryculturalgeography/"
+  },
+  "TangPoetryRoad": {
+    "title": "唐诗之路 / Tang Poetry Road",
+    "url": "/wiki/concepts/tangpoetryroad/"
+  },
+  "TangSongTransition": {
+    "title": "唐宋转型 / Tang-Song Transition",
+    "url": "/wiki/concepts/tangsongtransition/"
   },
   "TangStrangeTaleRepaymentEthics": {
     "title": "Tang Strange-Tale Repayment Ethics",
@@ -29798,6 +30738,10 @@
   "TenCitiesThousandVehicles": {
     "title": "Ten Cities Thousand Vehicles",
     "url": "/wiki/concepts/tencitiesthousandvehicles/"
+  },
+  "TenKingdomsRelationshipTypes": {
+    "title": "十国关系类型 / Ten Kingdoms Relationship Types",
+    "url": "/wiki/concepts/tenkingdomsrelationshiptypes/"
   },
   "TenKingsOfHell": {
     "title": "十殿阎罗",
@@ -30163,6 +31107,10 @@
     "title": "《深谷住民》 / The Vaults of Yoh-Vombis",
     "url": "/wiki/entities/thevaultsofyohvombis/"
   },
+  "TheWageStandard": {
+    "title": "The Wage Standard",
+    "url": "/wiki/entities/thewagestandard/"
+  },
   "TheWaltDisneyCompany": {
     "title": "The Walt Disney Company",
     "url": "/wiki/entities/thewaltdisneycompany/"
@@ -30318,6 +31266,10 @@
   "TianjieJack": {
     "title": "Tianjie Jack",
     "url": "/wiki/entities/tianjiejack/"
+  },
+  "TianjinUniversity": {
+    "title": "Tianjin University / 天津大学",
+    "url": "/wiki/entities/tianjinuniversity/"
   },
   "TiantianKuaibao": {
     "title": "Tiantian Kuaibao",
@@ -30499,6 +31451,10 @@
     "title": "《童话大王》",
     "url": "/wiki/entities/tonghuadawang/"
   },
+  "TongwenSuanzhi": {
+    "title": "《同文算指》 / Tongwen Suanzhi",
+    "url": "/wiki/entities/tongwensuanzhi/"
+  },
   "TongxinSoftware": {
     "title": "Tongxin Software",
     "url": "/wiki/entities/tongxinsoftware/"
@@ -30506,6 +31462,10 @@
   "TongxinUOS": {
     "title": "Tongxin UOS",
     "url": "/wiki/entities/tongxinuos/"
+  },
+  "TonleSapLake": {
+    "title": "Tonle Sap Lake / 洞里萨湖",
+    "url": "/wiki/entities/tonlesaplake/"
   },
   "TonyGilroy": {
     "title": "Tony Gilroy",
@@ -30635,6 +31595,10 @@
     "title": "Tragic Modernity",
     "url": "/wiki/concepts/tragicmodernity/"
   },
+  "TrailRunningEntryRisk": {
+    "title": "Trail Running Entry Risk / 越野跑低入口高风险",
+    "url": "/wiki/concepts/trailrunningentryrisk/"
+  },
   "TrainedIntuition": {
     "title": "Trained Intuition",
     "url": "/wiki/concepts/trainedintuition/"
@@ -30678,6 +31642,10 @@
   "TravelReadingAsPlaceInquiry": {
     "title": "Travel Reading As Place Inquiry",
     "url": "/wiki/concepts/travelreadingasplaceinquiry/"
+  },
+  "TravelSensoryRecovery": {
+    "title": "Travel Sensory Recovery / 旅行中的感受力恢复",
+    "url": "/wiki/concepts/travelsensoryrecovery/"
   },
   "TravelSuperAppConvenience": {
     "title": "Travel Super App Convenience",
@@ -30854,6 +31822,10 @@
   "TuLiBuTuQi": {
     "title": "《土里不吐气》",
     "url": "/wiki/entities/tulibutuqi/"
+  },
+  "TuMotuo": {
+    "title": "土摩托 / Tu Motuo",
+    "url": "/wiki/entities/tumotuo/"
   },
   "TuanMacCairill": {
     "title": "Tuan mac Cairill / 图安",
@@ -31267,6 +32239,10 @@
     "title": "University of Maryland",
     "url": "/wiki/entities/universityofmaryland/"
   },
+  "UniversityOfMassachusettsAmherst": {
+    "title": "University of Massachusetts Amherst",
+    "url": "/wiki/entities/universityofmassachusettsamherst/"
+  },
   "UniversityOfMichigan": {
     "title": "University of Michigan",
     "url": "/wiki/entities/universityofmichigan/"
@@ -31383,6 +32359,10 @@
     "title": "VMG",
     "url": "/wiki/entities/vmg/"
   },
+  "VacationShame": {
+    "title": "Vacation Shame / 休假羞耻感",
+    "url": "/wiki/concepts/vacationshame/"
+  },
   "VacheronConstantin": {
     "title": "Vacheron Constantin",
     "url": "/wiki/entities/vacheronconstantin/"
@@ -31418,6 +32398,10 @@
   "Vancl": {
     "title": "凡客 / Vancl",
     "url": "/wiki/entities/vancl/"
+  },
+  "Vancouver": {
+    "title": "Vancouver / 温哥华",
+    "url": "/wiki/entities/vancouver/"
   },
   "VandaIlsonSiqueira": {
     "title": "Vanda Ilson Siqueira",
@@ -31751,6 +32735,10 @@
     "title": "Waitlist Invitation Growth",
     "url": "/wiki/concepts/waitlistinvitationgrowth/"
   },
+  "WaldenMomentAgainstOdysseyMoment": {
+    "title": "Walden Moment Against Odyssey Moment / 用瓦尔登湖时刻消解奥德赛时刻",
+    "url": "/wiki/concepts/waldenmomentagainstodysseymoment/"
+  },
   "Walgreens": {
     "title": "Walgreens",
     "url": "/wiki/entities/walgreens/"
@@ -31847,6 +32835,14 @@
     "title": "王航",
     "url": "/wiki/entities/wanghang/"
   },
+  "WangHongjie": {
+    "title": "王洪杰 / Wang Hongjie",
+    "url": "/wiki/entities/wanghongjie/"
+  },
+  "WangJianFormerShu": {
+    "title": "王建 / Wang Jian (Former Shu)",
+    "url": "/wiki/entities/wangjianformershu/"
+  },
   "WangJien": {
     "title": "王继恩 / Wang Jien",
     "url": "/wiki/entities/wangjien/"
@@ -31911,6 +32907,10 @@
     "title": "王婉 / Wang Wan",
     "url": "/wiki/entities/wangwan/"
   },
+  "WangWei": {
+    "title": "王维 / Wang Wei",
+    "url": "/wiki/entities/wangwei/"
+  },
   "WangWeiTudou": {
     "title": "王微 / Wang Wei (Tudou)",
     "url": "/wiki/entities/wangweitudou/"
@@ -31946,6 +32946,10 @@
   "WangZhengjun": {
     "title": "Wang Zhengjun / 王政君",
     "url": "/wiki/entities/wangzhengjun/"
+  },
+  "Wangchuan": {
+    "title": "辋川 / Wangchuan",
+    "url": "/wiki/entities/wangchuan/"
   },
   "WangdaoVsBadao": {
     "title": "王道 versus 霸道 / Kingly Way Over Hegemony",
@@ -32095,6 +33099,10 @@
     "title": "Weak Institutions Market Building / 弱制度启动市场",
     "url": "/wiki/concepts/weakinstitutionsmarketbuilding/"
   },
+  "WeakSignalDetection": {
+    "title": "Weak Signal Detection / 微弱信号探测",
+    "url": "/wiki/concepts/weaksignaldetection/"
+  },
   "WeakTieOpportunity": {
     "title": "Weak-Tie Opportunity",
     "url": "/wiki/concepts/weaktieopportunity/"
@@ -32191,6 +33199,10 @@
     "title": "Wellington Management",
     "url": "/wiki/entities/wellingtonmanagement/"
   },
+  "WenQi": {
+    "title": "文淇 / Wen Qi",
+    "url": "/wiki/entities/wenqi/"
+  },
   "WenYiduo": {
     "title": "闻一多 / Wen Yiduo",
     "url": "/wiki/entities/wenyiduo/"
@@ -32251,6 +33263,10 @@
     "title": "Wetzel's Pretzels",
     "url": "/wiki/entities/wetzelspretzels/"
   },
+  "WeylandYutani": {
+    "title": "Weyland-Yutani",
+    "url": "/wiki/entities/weylandyutani/"
+  },
   "WhartonSchool": {
     "title": "Wharton School",
     "url": "/wiki/entities/whartonschool/"
@@ -32278,6 +33294,10 @@
   "WhistleblowerLegalIntimidation": {
     "title": "Whistleblower Legal Intimidation",
     "url": "/wiki/concepts/whistleblowerlegalintimidation/"
+  },
+  "Whistler": {
+    "title": "Whistler / 惠斯勒",
+    "url": "/wiki/entities/whistler/"
   },
   "WhiteHouse": {
     "title": "White House",
@@ -32338,6 +33358,10 @@
   "WildMushroomFoodSafety": {
     "title": "Wild Mushroom Food Safety",
     "url": "/wiki/concepts/wildmushroomfoodsafety/"
+  },
+  "WildPollinatorCrisis": {
+    "title": "Wild Pollinator Crisis / 野生传粉昆虫危机",
+    "url": "/wiki/concepts/wildpollinatorcrisis/"
   },
   "WildReleaseHumanAvoidance": {
     "title": "Wild Release Human Avoidance / 野放前人类回避训练",
@@ -32435,6 +33459,10 @@
     "title": "Wilson Sonsini",
     "url": "/wiki/entities/wilsonsonsini/"
   },
+  "WilsonWilliams": {
+    "title": "Wilson Williams",
+    "url": "/wiki/entities/wilsonwilliams/"
+  },
   "Win": {
     "title": "Win",
     "url": "/wiki/entities/win/"
@@ -32499,6 +33527,10 @@
     "title": "《我还想看见》",
     "url": "/wiki/entities/wohaixiangkanjian/"
   },
+  "WoXukeFilm": {
+    "title": "《我许可》 / Wo Xuke",
+    "url": "/wiki/entities/woxukefilm/"
+  },
   "WoYouZijiDeYuzhou": {
     "title": "《我有自己的宇宙》",
     "url": "/wiki/entities/woyouzijideyuzhou/"
@@ -32514,6 +33546,10 @@
   "WomenOrientedMelodramaDemand": {
     "title": "Women-Oriented Melodrama Demand / 女性向通俗情节需求",
     "url": "/wiki/concepts/womenorientedmelodramademand/"
+  },
+  "WomenOutdoorVisibility": {
+    "title": "Women Outdoor Visibility / 女性户外可见度",
+    "url": "/wiki/concepts/womenoutdoorvisibility/"
   },
   "WomensHealthDiagnosticGap": {
     "title": "Women's Health Diagnostic Gap",
@@ -32535,9 +33571,17 @@
     "title": "Work-From-Home Scam",
     "url": "/wiki/concepts/workfromhomescam/"
   },
+  "WorkRestBoundary": {
+    "title": "Work-Rest Boundary / 工作休假边界",
+    "url": "/wiki/concepts/workrestboundary/"
+  },
   "WorkRoleDecentering": {
     "title": "Work Role Decentering / 工作角色去中心化",
     "url": "/wiki/concepts/workroledecentering/"
+  },
+  "WorkSelfWorthBoundary": {
+    "title": "Work Self-Worth Boundary / 工作与自我价值边界",
+    "url": "/wiki/concepts/workselfworthboundary/"
   },
   "WorkplaceAITransparency": {
     "title": "Workplace AI Transparency",
@@ -32615,6 +33659,10 @@
     "title": "World Values Survey",
     "url": "/wiki/entities/worldvaluessurvey/"
   },
+  "WoteShoes": {
+    "title": "沃特鞋企 / Wote Shoes",
+    "url": "/wiki/entities/woteshoes/"
+  },
   "WrightBrothers": {
     "title": "Wright Brothers / 莱特兄弟",
     "url": "/wiki/entities/wrightbrothers/"
@@ -32655,6 +33703,10 @@
     "title": "吴立伟 / Wu Liwei",
     "url": "/wiki/entities/wuliwei/"
   },
+  "WuQingIncense": {
+    "title": "吴清 / Wu Qing (incense)",
+    "url": "/wiki/entities/wuqingincense/"
+  },
   "WuQingyuan": {
     "title": "吴清源",
     "url": "/wiki/entities/wuqingyuan/"
@@ -32686,6 +33738,30 @@
   "WuZetian": {
     "title": "武则天 / Wu Zetian",
     "url": "/wiki/entities/wuzetian/"
+  },
+  "WudaiAdoptiveSonSystem": {
+    "title": "五代义子假子制度 / Five Dynasties Adoptive-Son System",
+    "url": "/wiki/concepts/wudaiadoptivesonsystem/"
+  },
+  "WudaiMilitaryLiteratiCoexistence": {
+    "title": "五代文武共生 / Five Dynasties Military-Literati Coexistence",
+    "url": "/wiki/concepts/wudaimilitaryliteraticoexistence/"
+  },
+  "WudaiSocialMobility": {
+    "title": "五代阶层流动 / Five Dynasties Social Mobility",
+    "url": "/wiki/concepts/wudaisocialmobility/"
+  },
+  "WudaiSouthernRegimeStability": {
+    "title": "五代南方政权相对稳定 / Southern Regime Stability in the Five Dynasties",
+    "url": "/wiki/concepts/wudaisouthernregimestability/"
+  },
+  "WudaiSuccessionCrisis": {
+    "title": "五代继承危机 / Five Dynasties Succession Crisis",
+    "url": "/wiki/concepts/wudaisuccessioncrisis/"
+  },
+  "WudaiWomenAgency": {
+    "title": "五代女性活跃 / Five Dynasties Women Agency",
+    "url": "/wiki/concepts/wudaiwomenagency/"
   },
   "WuguPoliticalPanic": {
     "title": "Wugu Political Panic / 巫蛊政治恐慌",
@@ -32722,6 +33798,10 @@
   "Wuxiaworld": {
     "title": "Wuxiaworld / 武侠世界",
     "url": "/wiki/entities/wuxiaworld/"
+  },
+  "Wuyue": {
+    "title": "吴越 / Wuyue",
+    "url": "/wiki/entities/wuyue/"
   },
   "Wuzhiqi": {
     "title": "无支祁",
@@ -32915,6 +33995,10 @@
     "title": "小宇宙",
     "url": "/wiki/entities/xiaoyuzhou/"
   },
+  "XiaozhiAI": {
+    "title": "小智AI / Xiaozhi AI",
+    "url": "/wiki/entities/xiaozhiai/"
+  },
   "XieChen": {
     "title": "谢晨",
     "url": "/wiki/entities/xiechen/"
@@ -32951,6 +34035,10 @@
     "title": "Xinchuang Operating Systems",
     "url": "/wiki/concepts/xinchuangoperatingsystems/"
   },
+  "XingHaiyang": {
+    "title": "邢海洋 / Xing Haiyang",
+    "url": "/wiki/entities/xinghaiyang/"
+  },
   "Xingbugudi": {
     "title": "Xingbugudi",
     "url": "/wiki/entities/xingbugudi/"
@@ -32975,6 +34063,14 @@
     "title": "袭人 / Xiren",
     "url": "/wiki/entities/xiren/"
   },
+  "Xishuangbanna": {
+    "title": "西双版纳 / Xishuangbanna",
+    "url": "/wiki/entities/xishuangbanna/"
+  },
+  "XishuangbannaBotanicalGarden": {
+    "title": "西双版纳植物园 / Xishuangbanna Botanical Garden",
+    "url": "/wiki/entities/xishuangbannabotanicalgarden/"
+  },
   "XiuLife": {
     "title": "Xiu Life / 秀生活",
     "url": "/wiki/entities/xiulife/"
@@ -32990,6 +34086,10 @@
   "XuFu": {
     "title": "Xu Fu / 徐福",
     "url": "/wiki/entities/xufu/"
+  },
+  "XuGuangqi": {
+    "title": "徐光启 / Xu Guangqi",
+    "url": "/wiki/entities/xuguangqi/"
   },
   "XuHongliang": {
     "title": "徐鸿亮 / Tom",
@@ -33127,6 +34227,10 @@
     "title": "严飞 / Yan Fei",
     "url": "/wiki/entities/yanfei/"
   },
+  "YanFeiSociologist": {
+    "title": "颜飞 / Yan Fei (sociologist)",
+    "url": "/wiki/entities/yanfeisociologist/"
+  },
   "YanJunjie": {
     "title": "Yan Junjie",
     "url": "/wiki/entities/yanjunjie/"
@@ -33138,6 +34242,10 @@
   "YangDa": {
     "title": "杨大",
     "url": "/wiki/entities/yangda/"
+  },
+  "YangGuangxian": {
+    "title": "杨光先 / Yang Guangxian",
+    "url": "/wiki/entities/yangguangxian/"
   },
   "YangLingfeng": {
     "title": "Yang Lingfeng / 杨凌峰",
@@ -33154,6 +34262,10 @@
   "YangShen": {
     "title": "杨慎",
     "url": "/wiki/entities/yangshen/"
+  },
+  "YangXiaohuaSkier": {
+    "title": "杨小华 / Yang Xiaohua (Skier)",
+    "url": "/wiki/entities/yangxiaohuaskier/"
   },
   "YangYi": {
     "title": "杨一 / Yang Yi",
@@ -33375,6 +34487,10 @@
     "title": "米泽穗信 / Yonezawa Honobu",
     "url": "/wiki/entities/yonezawahonobu/"
   },
+  "YongningAncientCity": {
+    "title": "永宁古城 / Yongning Ancient City",
+    "url": "/wiki/entities/yongningancientcity/"
+  },
   "YongzhengEmperor": {
     "title": "雍正 / Yongzheng Emperor",
     "url": "/wiki/entities/yongzhengemperor/"
@@ -33426,6 +34542,10 @@
   "YouWenTiYa": {
     "title": "有问题呀",
     "url": "/wiki/entities/youwentiya/"
+  },
+  "YouXiaoying": {
+    "title": "游晓颖 / You Xiaoying",
+    "url": "/wiki/entities/youxiaoying/"
   },
   "YouguangPublishing": {
     "title": "有光",
@@ -33743,6 +34863,10 @@
     "title": "Zhang Shaofeng",
     "url": "/wiki/entities/zhangshaofeng/"
   },
+  "ZhangShi": {
+    "title": "张时 / Zhang Shi",
+    "url": "/wiki/entities/zhangshi/"
+  },
   "ZhangShuguangRailway": {
     "title": "Zhang Shuguang / 张曙光",
     "url": "/wiki/entities/zhangshuguangrailway/"
@@ -33802,6 +34926,10 @@
   "ZhangZhihao": {
     "title": "张志浩",
     "url": "/wiki/entities/zhangzhihao/"
+  },
+  "ZhangZhiqi": {
+    "title": "张芝琪 / Zhang Zhiqi",
+    "url": "/wiki/entities/zhangzhiqi/"
   },
   "ZhangZhupo": {
     "title": "张竹坡 / Zhang Zhupo",
@@ -33863,9 +34991,17 @@
     "title": "赵元任",
     "url": "/wiki/entities/zhaoyuanren/"
   },
+  "ZhedongTangPoetryRoad": {
+    "title": "浙东唐诗之路 / Eastern Zhejiang Tang Poetry Road",
+    "url": "/wiki/concepts/zhedongtangpoetryroad/"
+  },
   "Zhejiang": {
     "title": "Zhejiang / 浙江",
     "url": "/wiki/entities/zhejiang/"
+  },
+  "ZhejiangUniversity": {
+    "title": "Zhejiang University / 浙江大学",
+    "url": "/wiki/entities/zhejianguniversity/"
   },
   "ZhenQianjinTaShiXueba": {
     "title": "甄千金他是学霸 / Zhen Qianjin Ta Shi Xueba",
@@ -33974,6 +35110,10 @@
   "ZhongzhiGroup": {
     "title": "中植集团",
     "url": "/wiki/entities/zhongzhigroup/"
+  },
+  "ZhouDaguan": {
+    "title": "周达观 / Zhou Daguan",
+    "url": "/wiki/entities/zhoudaguan/"
   },
   "ZhouJiangong": {
     "title": "周建功 / Zhou Jiangong",
@@ -34639,13 +35779,93 @@
     "title": "EP247 重启人生：当农村中年女性开始“做主播”",
     "url": "/wiki/sources/ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj/"
   },
+  "ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo": {
+    "title": "EP248 在高原与地下，探寻中国“大科学项目”",
+    "url": "/wiki/sources/ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo/"
+  },
+  "ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww": {
+    "title": "EP249 闽南古城游神记：传统仪式背后的乡土网络",
+    "url": "/wiki/sources/ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww/"
+  },
   "ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg": {
     "title": "EP25 中资外资哪家强：“一劳永逸”找“钱粮”（下）",
     "url": "/wiki/sources/ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg/"
   },
+  "ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo": {
+    "title": "EP250 走进山野，顺流而上：寻找户外运动中的心流时刻",
+    "url": "/wiki/sources/ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo/"
+  },
+  "ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd": {
+    "title": "EP251 伊朗困局：四十年战略选择的代价与现实",
+    "url": "/wiki/sources/ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd/"
+  },
+  "ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh": {
+    "title": "EP252 《太平年》之外的五代十国，什么样？",
+    "url": "/wiki/sources/ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh/"
+  },
+  "ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4": {
+    "title": "EP253 爆火的AI好物，到底是“真香”还是智商税？",
+    "url": "/wiki/sources/ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4/"
+  },
+  "ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d": {
+    "title": "EP254 游晓颖x文淇x杜素娟：女性这一生，都在反复学习许可自己",
+    "url": "/wiki/sources/ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d/"
+  },
+  "ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw": {
+    "title": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？",
+    "url": "/wiki/sources/ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw/"
+  },
+  "ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx": {
+    "title": "EP256 AI时代，“自由意志”还存在吗？",
+    "url": "/wiki/sources/ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx/"
+  },
+  "ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng": {
+    "title": "EP257 不上班：一场逃离与寻找的复杂冒险",
+    "url": "/wiki/sources/ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng/"
+  },
+  "ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix": {
+    "title": "EP258 我们如何重拾睡前读书？",
+    "url": "/wiki/sources/ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix/"
+  },
+  "ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e": {
+    "title": "EP259 与苗师傅漫谈徐光启：四百年前如何让人变聪明？",
+    "url": "/wiki/sources/ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e/"
+  },
   "ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t": {
     "title": "EP26 想做人上之人，却困在《城中之城》",
     "url": "/wiki/sources/ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t/"
+  },
+  "ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j": {
+    "title": "EP260 一口肥美脂肪，藏着中国养殖的新故事",
+    "url": "/wiki/sources/ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j/"
+  },
+  "ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv": {
+    "title": "EP261 “蜜蜂危机”：如果失去蜜蜂，世界将会怎样？",
+    "url": "/wiki/sources/ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv/"
+  },
+  "ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r": {
+    "title": "EP262 高考过后，知识“归零”：我们需要怎样的科学教育？",
+    "url": "/wiki/sources/ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r/"
+  },
+  "ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv": {
+    "title": "EP263 线香崛起：发现中式香气的魅力",
+    "url": "/wiki/sources/ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv/"
+  },
+  "ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi": {
+    "title": "EP264 踏访“唐诗之路”：盛唐气象少年心",
+    "url": "/wiki/sources/ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi/"
+  },
+  "ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb": {
+    "title": "EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？",
+    "url": "/wiki/sources/ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb/"
+  },
+  "ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd": {
+    "title": "EP266 当AI重构大学，我们该如何定义“好专业”？",
+    "url": "/wiki/sources/ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd/"
+  },
+  "ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk": {
+    "title": "EP267 踏访湄公河：雨季、婚飞蚁与水利帝国",
+    "url": "/wiki/sources/ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk/"
   },
   "ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv": {
     "title": "EP268 毛冬x唐唐：大黄，你到底咋了！上蹿下跳的黄金和那些绝不下车的人",
@@ -35038,6 +36258,10 @@
   "openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z": {
     "title": "OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋",
     "url": "/wiki/sources/openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z/"
+  },
+  "our-book-vs-the-global-supply-chain": {
+    "title": "Our BOOK vs. the global supply chain",
+    "url": "/wiki/sources/our-book-vs-the-global-supply-chain/"
   },
   "our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour": {
     "title": "Our mission: Find the world's best economic ideas (Summer School World Tour)",
@@ -35719,9 +36943,17 @@
     "title": "The NFL",
     "url": "/wiki/sources/the-nfl-1/"
   },
+  "the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough": {
+    "title": "The real horror of 'Alien' and how it explains why we're not paid enough",
+    "url": "/wiki/sources/the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough/"
+  },
   "the-secret-meeting-that-launched-opec": {
     "title": "The secret meeting that launched OPEC",
     "url": "/wiki/sources/the-secret-meeting-that-launched-opec/"
+  },
+  "the-skyscrapers-that-nimbys-and-zoning-couldnt-stop": {
+    "title": "The skyscrapers that NIMBYs and zoning couldn't stop",
+    "url": "/wiki/sources/the-skyscrapers-that-nimbys-and-zoning-couldnt-stop/"
   },
   "the-sneaky-way-companies-get-new-chemicals-into-our-food": {
     "title": "The sneaky way companies get new chemicals into our food",
