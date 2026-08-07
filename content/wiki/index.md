@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line with Curt Richardson of OtterBox](sources/advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773.md) — How I Built This Advice Line episode with Curt Richardson on OtterBox focus, Mr. Game Show Florida's host-dependent scaling, Gilded Coach Teas' retention-led restart, and Everloop's circular baby-gear buyback and measured channel tests.
 - [Big Lettuce meets Small Intestine](sources/big-lettuce-meets-small-intestine.md) — Planet Money episode on Taylor Farms, bagged lettuce, cyclospora, the Food Safety Modernization Act, farm inspections, imported produce, and why raw-produce safety remains hard at national scale.
 - [Vol.266 一次性搞懂ETF](sources/vol-266-yi-ci-xing-gao-dong-etf-1002344828.md) — 商业就是这样 episode explaining ETFs from index funds, passive investing, creation-redemption, tax and stock-lending economics, wrapper expansion, and the 7709.HK two-times long SK Hynix leveraged ETF risk case.
 - [No.211 徽商往事：从前世不修到最牛风投](sources/no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189.md) — Banlatte episode connecting Huizhou merchants, Lianghuai salt permits, Jiang Chun, and lineage capital to modern Hefei industrial investment in USTC, Chery, BOE, ChangXin Memory, NIO, and new-energy vehicles.
@@ -854,6 +855,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Curt Richardson](entities/CurtRichardson.md) — OtterBox founder and Advice Line guest emphasizing focus, business-model improvement, founder role fit, and test-before-scaling discipline.
+- [OtterBox](entities/OtterBox.md) — Protective phone-case and mobile-accessories company used by Curt Richardson to discuss bootstrapping, focus, commoditization, and profitable maturity.
+- [Blue Ocean](entities/BlueOcean.md) — Curt Richardson company context named alongside OtterBox in the Advice Line episode.
+- [Mr. Game Show Florida](entities/MrGameShowFlorida.md) — Live game-show events business whose scaling question turns on whether founder-led hosting can be replicated through training or certification.
+- [Andy Jeremiah](entities/AndyJeremiah.md) — Mr. Game Show Florida cofounder and caller asking how to scale a local live-event service nationally.
+- [Tracy Jeremiah](entities/TracyJeremiah.md) — Mr. Game Show Florida cofounder whose hosting style is part of the business's replication challenge.
+- [Gilded Coach Teas](entities/GildedCoachTeas.md) — Fairy-tale-inspired tea brand advised to restart through story, DTC consistency, existing-customer reactivation, and experience bundles.
+- [Marissa Valenzuela](entities/MarissaValenzuela.md) — Gilded Coach Teas founder and caller seeking momentum after a one-year hiatus.
+- [Everloop](entities/Everloop.md) — Sustainable baby-gear company using a 20% buyback promise, recycled/regenerative materials, registry-driven sales, and measured marketing tests.
+- [Vince Giudice](entities/VinceGiudice.md) — Everloop founder/caller asking how to choose marketing channels amid baby-registry attribution lag.
 - [Taylor Farms](entities/TaylorFarms.md) — Large U.S. salad processor used by the Big Lettuce episode to explain bagged-salad industrialization and contamination amplification.
 - [Bruce Taylor](entities/BruceTaylor.md) — Taylor Farms founder named as the 1995 origin point for the company's value-added salad-processing model.
 - [Salinas Valley](entities/SalinasValley.md) — California lettuce-growing region framed as the "salad bowl of the world" and linked to modern produce safety.
@@ -5849,6 +5860,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Founder-Led Service Replication](concepts/FounderLedServiceReplication.md) — Scaling problem where customers may be buying the founder's live performance, charisma, or judgment rather than a separable service.
+- [Customer Reactivation](concepts/CustomerReactivation.md) — Retention-led restart pattern that returns to prior customers for repeat purchase, feedback, referrals, and use-case learning before broad acquisition.
+- [Circular Product Takeback](concepts/CircularProductTakeback.md) — Consumer-product model where a brand accepts products back after use, making end-of-life handling part of the value proposition.
+- [Measured Channel Testing](concepts/MeasuredChannelTesting.md) — Bounded growth-testing pattern that raises marketing spend only when customer behavior and attribution are measurable enough to justify it.
 - [Food Safety Modernization Act](concepts/FoodSafetyModernizationAct.md) — 2010 U.S. law giving the FDA farm-inspection and produce-safety authority after major outbreaks.
 - [Bagged Salad Industrialization](concepts/BaggedSaladIndustrialization.md) — Shift from whole-head lettuce to chopped, mixed, packaged, capital-intensive salad processing.
 - [Produce Contamination Amplification](concepts/ProduceContaminationAmplification.md) — Supply-chain pattern where mixing and national distribution can turn a small raw-produce contamination event into a large outbreak.

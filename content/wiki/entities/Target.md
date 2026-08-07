@@ -2,8 +2,8 @@
 title: "Target"
 type: entity
 tags: [company, retail]
-sources: [e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, board-games-3-whats-in-a-name, costco-1]
-last_updated: 2026-08-04
+sources: [advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, board-games-3-whats-in-a-name, costco-1]
+last_updated: 2026-08-07
 ---
 
 # Target
@@ -18,9 +18,12 @@ The episode uses Target to show that [[LowPriceBrandPerception]] can evolve into
 
 [[costco-1]] adds Target as a revenue-per-square-foot comparison. The source uses Target and [[Walmart]] to show how unusual [[Costco]]'s warehouse productivity is under a low-SKU, membership-supported model.
 
+[[advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773]] adds Target as one of [[Everloop]]'s third-party e-commerce retailers in the source's baby-gear distribution context. The episode uses that channel list to show why retail access still leaves [[MeasuredChannelTesting]] and customer-call attribution unresolved.
+
 ## Connections
 - [[ELFCosmetics]] and [[JoeyShamah]] - brand and founder in the Target program.
 - [[JajuPierogi]], [[CaseyWhite]], [[JesseAndBens]], and [[JesseKoenig]] - food CPG cases from the Jeni Britton Advice Line source.
+- [[Everloop]], [[VinceGiudice]], and [[MeasuredChannelTesting]] - baby-gear channel context added by the Curt Richardson Advice Line source.
 - [[HEB]] - earlier retail proof point that strengthened the broader pitch.
 - [[RetailShelfPlacement]], [[SalesVelocity]], [[RetailIncrementality]], and [[CPGDistribution]] - concepts connected to end caps and retail performance.
 - [[SellMeASasquatch]], [[ExplodingKittens]], and [[RetailShelfAppeal]] - board-game retail branch added by Planet Money.

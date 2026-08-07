@@ -6849,3 +6849,11 @@ Added source page for a Planet Money episode on Taylor Farms, bagged lettuce, cy
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | Advice Line with Curt Richardson of OtterBox
+
+Added source page for a How I Built This Advice Line episode with Curt Richardson on OtterBox's founder role transition and focus discipline, Mr. Game Show Florida's host-dependent service scaling, Gilded Coach Teas' retention-led restart, and Everloop's circular baby-gear buyback and measured channel tests. Created pages for Curt Richardson, OtterBox, Blue Ocean, Mr. Game Show Florida, Andy Jeremiah, Tracy Jeremiah, Gilded Coach Teas, Marissa Valenzuela, Everloop, Vince Giudice, Founder-Led Service Replication, Customer Reactivation, Circular Product Takeback, and Measured Channel Testing; updated overview, index, How I Built This, Guy Raz, and related growth, distribution, service-standardization, and consumer-brand concepts. No direct contradiction found; revenue, peak-sales, retailer, and marketing-channel claims are recorded as source-scoped rather than independently verified current facts.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

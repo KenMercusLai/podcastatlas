@@ -2,8 +2,8 @@
 title: "CPG Distribution"
 type: concept
 tags: [cpg, retail, distribution, startup]
-sources: [tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943, ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939, 132-xuegao-jianghu-fengtouquan-1-132-1, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21]
-last_updated: 2026-08-05
+sources: [advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773, tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943, ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939, 132-xuegao-jianghu-fengtouquan-1-132-1, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21]
+last_updated: 2026-08-07
 ---
 
 # CPG Distribution
@@ -13,6 +13,8 @@ CPG distribution is the physical-product go-to-market problem of getting a packa
 [[sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21]] adds [[SunBum]] as a sunscreen case where distribution was also a brand theater problem. Surf shops, boutique stores, high-end hotels, [[RichardBranson]]'s Necker Island account, independent rep [[MichaelLaSara]], stickers, and full displays helped a small team look credible before [[SCJohnson]] supplied larger CPG scale.
 
 [[tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1]] adds [[Soylent]] and [[Lucy]] as startup CPG contrast cases through [[JohnCoogan]]. Soylent shows how online demand can push a heavy physical product toward manufacturing, fulfillment, and later retail distribution, while Lucy shows how a lighter regulated product can have better direct shipping economics even when the [[FoodAndDrugAdministration]] pathway slows growth.
+
+[[advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773]] adds [[GildedCoachTeas]] and [[Everloop]] as earlier-stage consumer-product cases. Gilded Coach has local store placement but is advised to rebuild direct-to-consumer story and [[CustomerReactivation]] first, while Everloop has third-party e-commerce access but still needs [[MeasuredChannelTesting]] and sharper [[CircularProductTakeback]] positioning before scaling marketing spend.
 
 ## Key Claims
 - CPG distribution begins before national scale: Justin needed equipment, kitchen time, labels, jars, food-safety-compatible production, and enough inventory to serve local accounts.
@@ -39,6 +41,7 @@ CPG distribution is the physical-product go-to-market problem of getting a packa
 - Frozen-food distribution still needs sensory proof: [[JesseAndBens]] can be in thousands of stores, but hot fry sampling and air-fryer demos make the quality claim easier for shoppers and buyers to believe.
 - Retail growth can become a control problem when a brand such as [[JajuPierogi]] needs inventory, production, and channel funding but does not want outside equity to become the default answer.
 - Early local-store presence can be too small to justify PR spend unless the company, as with [[UbeCo]], first clarifies the product story and repeatable customer language.
+- Retail or marketplace access does not eliminate the need to learn the product hook: [[Everloop]] may need to lead with buyback, while [[GildedCoachTeas]] may need to lead with story and customer reactivation before channel expansion.
 
 ## Connections
 - [[RedTruckOrchards]] and [[Petaluma]] - newer advice-line cases where sampling, DTC focus, and retail effort are weighed against early-stage capacity.
@@ -57,3 +60,4 @@ CPG distribution is the physical-product go-to-market problem of getting a packa
 - [[JesseAndBens]], [[JajuPierogi]], [[UbeCo]], [[RetailIncrementality]], and [[RepeatableCustomerLanguage]] - Jeni Britton Advice Line branch where distribution depends on taste proof, buyer logic, financing choices, and communications readiness.
 - [[SunBum]], [[TomRinks]], [[MichaelLaSara]], [[RetailDisplayAsBrandSurface]], [[VisualBrandSystem]], and [[SCJohnson]] - sunscreen branch where sales reps, displays, hospitality accounts, and acquirer capacity shaped distribution.
 - [[Soylent]], [[Lucy]], [[JohnCoogan]], [[ShippingWeightEconomics]], and [[RegulatedConsumerProductMoat]] - startup CPG contrast between heavy meal replacement and lightweight regulated nicotine gum.
+- [[GildedCoachTeas]], [[Everloop]], [[CustomerReactivation]], [[CircularProductTakeback]], and [[MeasuredChannelTesting]] - Curt Richardson Advice Line branch where channel access still needs a sharper customer-learning loop.

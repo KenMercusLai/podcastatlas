@@ -3351,6 +3351,10 @@
     "title": "Andy Grove",
     "url": "/wiki/entities/andygrove/"
   },
+  "AndyJeremiah": {
+    "title": "Andy Jeremiah",
+    "url": "/wiki/entities/andyjeremiah/"
+  },
   "AndyLapsa": {
     "title": "Andy Lapsa",
     "url": "/wiki/entities/andylapsa/"
@@ -5146,6 +5150,10 @@
   "BlueJ": {
     "title": "BlueJ",
     "url": "/wiki/entities/bluej/"
+  },
+  "BlueOcean": {
+    "title": "Blue Ocean",
+    "url": "/wiki/entities/blueocean/"
   },
   "BlueOwlCapital": {
     "title": "Blue Owl Capital",
@@ -7319,6 +7327,10 @@
     "title": "Circle Of Competence",
     "url": "/wiki/concepts/circleofcompetence/"
   },
+  "CircularProductTakeback": {
+    "title": "Circular Product Takeback",
+    "url": "/wiki/concepts/circularproducttakeback/"
+  },
   "Cisco": {
     "title": "Cisco",
     "url": "/wiki/entities/cisco/"
@@ -8683,6 +8695,10 @@
     "title": "Curt Flood",
     "url": "/wiki/entities/curtflood/"
   },
+  "CurtRichardson": {
+    "title": "Curt Richardson",
+    "url": "/wiki/entities/curtrichardson/"
+  },
   "CurtisLiu": {
     "title": "Curtis Liu",
     "url": "/wiki/entities/curtisliu/"
@@ -8710,6 +8726,10 @@
   "CustomerPull": {
     "title": "Customer Pull",
     "url": "/wiki/concepts/customerpull/"
+  },
+  "CustomerReactivation": {
+    "title": "Customer Reactivation",
+    "url": "/wiki/concepts/customerreactivation/"
   },
   "CustomerSuccessEngineer": {
     "title": "Customer Success Engineer",
@@ -11379,6 +11399,10 @@
     "title": "Evergrande",
     "url": "/wiki/entities/evergrande/"
   },
+  "Everloop": {
+    "title": "Everloop",
+    "url": "/wiki/entities/everloop/"
+  },
   "EverydayAutobiographicalComics": {
     "title": "Everyday Autobiographical Comics",
     "url": "/wiki/concepts/everydayautobiographicalcomics/"
@@ -12791,6 +12815,10 @@
     "title": "Founder-Led Sales",
     "url": "/wiki/concepts/founderledsales/"
   },
+  "FounderLedServiceReplication": {
+    "title": "Founder-Led Service Replication",
+    "url": "/wiki/concepts/founderledservicereplication/"
+  },
   "FounderLedSoftwareGlobalization": {
     "title": "Founder-Led Software Globalization",
     "url": "/wiki/concepts/founderledsoftwareglobalization/"
@@ -13806,6 +13834,10 @@
   "GilbertSpinozaHypothesis": {
     "title": "Gilbert-Spinoza Hypothesis / 吉尔伯特-斯宾诺莎假设",
     "url": "/wiki/concepts/gilbertspinozahypothesis/"
+  },
+  "GildedCoachTeas": {
+    "title": "Gilded Coach Teas",
+    "url": "/wiki/entities/gildedcoachteas/"
   },
   "GileadSciences": {
     "title": "Gilead Sciences / 吉利德",
@@ -20923,6 +20955,10 @@
     "title": "Marion Nestle",
     "url": "/wiki/entities/marionnestle/"
   },
+  "MarissaValenzuela": {
+    "title": "Marissa Valenzuela",
+    "url": "/wiki/entities/marissavalenzuela/"
+  },
   "MaritimeChokepointTolling": {
     "title": "Maritime Chokepoint Tolling",
     "url": "/wiki/concepts/maritimechokepointtolling/"
@@ -21318,6 +21354,10 @@
   "MeaningThroughExperience": {
     "title": "Meaning Through Experience",
     "url": "/wiki/concepts/meaningthroughexperience/"
+  },
+  "MeasuredChannelTesting": {
+    "title": "Measured Channel Testing",
+    "url": "/wiki/concepts/measuredchanneltesting/"
   },
   "MechanicalWatchRepositioning": {
     "title": "Mechanical Watch Repositioning",
@@ -22514,6 +22554,10 @@
   "Mozi": {
     "title": "墨子 / Mozi",
     "url": "/wiki/entities/mozi/"
+  },
+  "MrGameShowFlorida": {
+    "title": "Mr. Game Show Florida",
+    "url": "/wiki/entities/mrgameshowflorida/"
   },
   "MtGox": {
     "title": "Mt. Gox",
@@ -24250,6 +24294,10 @@
   "OtherworldPortalNarrative": {
     "title": "Otherworld Portal Narrative",
     "url": "/wiki/concepts/otherworldportalnarrative/"
+  },
+  "OtterBox": {
+    "title": "OtterBox",
+    "url": "/wiki/entities/otterbox/"
   },
   "OttomanEmpire": {
     "title": "Ottoman Empire / 奥斯曼帝国",
@@ -32783,6 +32831,10 @@
     "title": "Traction Tools",
     "url": "/wiki/entities/tractiontools/"
   },
+  "TracyJeremiah": {
+    "title": "Tracy Jeremiah",
+    "url": "/wiki/entities/tracyjeremiah/"
+  },
   "TracyYoung": {
     "title": "Tracy Young",
     "url": "/wiki/entities/tracyyoung/"
@@ -33858,6 +33910,10 @@
   "VillageSelfGovernance": {
     "title": "Village Self-Governance / 村庄自主治理",
     "url": "/wiki/concepts/villageselfgovernance/"
+  },
+  "VinceGiudice": {
+    "title": "Vince Giudice",
+    "url": "/wiki/entities/vincegiudice/"
   },
   "Vipshop": {
     "title": "唯品会 / Vipshop",
@@ -36626,6 +36682,10 @@
   "advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96": {
     "title": "Advice Line with Christina Tosi of Milk Bar",
     "url": "/wiki/sources/advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96/"
+  },
+  "advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773": {
+    "title": "Advice Line with Curt Richardson of OtterBox",
+    "url": "/wiki/sources/advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773/"
   },
   "advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714": {
     "title": "Advice Line with Jeffrey Hollender of Seventh Generation",
