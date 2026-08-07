@@ -3,10 +3,12 @@ title: "Illinois"
 type: entity
 tags: [state, government, ai-policy]
 sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]
-last_updated: 2026-08-05
+last_updated: 2026-08-07
 ---
 
 # Illinois
+
+[[tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128]] adds Illinois to the frontier-lab safety-framework branch of [[StateAIRegulationPatchwork]]. [[SabinaNong]] names Illinois alongside [[California]] and New York as a state where proposals may require AI companies to publish safety frameworks and be held accountable to them.
 
 Illinois appears in [[tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128]] as the state considering an [[IllinoisAILiabilityBill|AI liability bill]] that would limit large-model developer liability for critical harms under conditions such as no intentional or reckless conduct and publication of a safety protocol. The episode uses Illinois as a state-level AI governance battleground because federal AI legislation appears stalled.
 
@@ -22,3 +24,4 @@ The wiki had an earlier Illinois data-center-policy mention in [[tech-20251216-1
 - [[OpenAI]], [[Anthropic]], and [[Wired]] - companies and reporting context around the proposed bill.
 - [[DataCenterTaxIncentives]] - earlier Illinois-linked incentive-design branch.
 - [[StateAIRegulationPatchwork]], [[AIInterviewing]], and [[AIGovernanceAndCompliance]] - AI hiring and state-law branch added by Marketplace Tech.
+- [[FutureOfLifeInstitute|Future of Life Institute]], [[VoluntaryAISafetyCommitments]], [[AILabSafetyReportCards]], and [[California]] - broader state safety-framework branch added by Marketplace Tech.

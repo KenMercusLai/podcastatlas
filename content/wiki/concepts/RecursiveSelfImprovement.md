@@ -3,12 +3,14 @@ title: "Recursive Self-Improvement"
 type: concept
 tags: [ai, agents, training, safety]
 sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
-last_updated: 2026-07-08
+last_updated: 2026-08-07
 ---
 
 # Recursive Self-Improvement
 
 Recursive self-improvement is the episode's frame for AI systems that help improve future versions of themselves. In [[e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]], [[LiBeibin]] defines the recursive part as a loop where a model finds or creates tasks, solves them, trains on the result, verifies the improvement, and repeats.
+
+[[tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128]] adds the AI safety advocate interpretation. [[SabinaNong]] of the [[FutureOfLifeInstitute|Future of Life Institute]] treats RSI as one of the frontier techniques that makes weak [[VoluntaryAISafetyCommitments]] and conditional [[UnilateralAIPauseCommitments|pause commitments]] more dangerous, because companies may keep pushing self-improvement capability without credible enough strategies for keeping systems under human control.
 
 [[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]] adds the Q2 2026 market and product interpretation. [[HenryYin]] distinguishes [[AutoResearch]] from RSI: Auto Research lets AI perform researcher-like tasks, while RSI requires the research loop to improve the next round of AI capability. The source uses [[Anthropic]] internal code-generation examples and [[Recursive]] startup results as early signals, but still treats full self-improvement as unresolved.
 
@@ -24,6 +26,7 @@ The source is careful about the difference between one self-improvement loop and
 - [[AutoResearch]] is a precursor but not the same thing as RSI, because it may accelerate human researchers without improving the model loop itself.
 - Human experts still matter when the model needs to know which task, hypothesis, or scientific direction is worth optimizing.
 - Formal proof can make recursive loops safer in math-like domains because the verifier is stronger, but [[FormalSpecification]] and [[AutoFormalization]] remain failure points.
+- The Marketplace Tech safety source treats RSI governance as a control problem, not only a technical productivity loop: the more models help improve models, the more pause commitments and public accountability matter.
 
 ## Connections
 - [[Apodex]], [[LiBeibin]], and [[DuShaolei]] — source company and speakers.
@@ -32,3 +35,4 @@ The source is careful about the difference between one self-improvement loop and
 - [[ResearchTaste]], [[DiscoveryModel]], and [[AIForScience]] — scientific-discovery boundary where self-improvement needs expert standards.
 - [[Axiom]], [[AIForMath]], [[AxiomProver]], and [[FormalVerification]] — specialized self-verifying reasoning route added by episode 137.
 - [[AutoResearch]], [[Recursive]], [[Anthropic]], and [[MLCoding]] — Q2 2026 research-automation and startup-wave context added by LateTalk.
+- [[FutureOfLifeInstitute|Future of Life Institute]], [[VoluntaryAISafetyCommitments]], [[UnilateralAIPauseCommitments]], and [[ToolAIHumanControl]] - safety-governance branch added by Marketplace Tech.

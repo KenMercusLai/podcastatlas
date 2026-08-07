@@ -8,6 +8,8 @@ last_updated: 2026-08-07
 
 # OpenAI
 
+[[tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128]] adds OpenAI through the [[FutureOfLifeInstitute|Future of Life Institute]] [[AILabSafetyReportCards|AI lab safety report card]] discussed on [[MarketplaceTech]]. The episode says OpenAI receives a C grade and uses that result to question whether frontier labs' [[VoluntaryAISafetyCommitments]] remain credible when development toward stronger systems and [[RecursiveSelfImprovement]] is tied to competitive pressure.
+
 [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds OpenAI as a market-expectation signal rather than a product-release subject. [[DavidWeng|大卫翁]] argues that OpenAI's listing progress or disclosure could reshape the next one-to-two-year AI narrative because public investors would be able to inspect revenue, capex, customer concentration, and whether coding or office substitution has already been priced through [[AILaborSubstitutionValuationBoundary]] and [[AIIPOValuation]].
 
 [[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] adds OpenAI to two branches at once. In the [[SamAltman]] section, the source treats governance, disclosure, personal investments, and the [[OpenAIBoardCrisis]] as a source-scoped [[RichardWhitney]]-style trust question. In the [[SoftBank]] / [[MasayoshiSon]] section, OpenAI becomes part of a larger [[WilliamDurant]]-style AI infrastructure bet involving [[Oracle]] and [[StargateAIInfrastructure]].
@@ -145,3 +147,4 @@ OpenAI appears in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-t
 - [[JakeHeller]], [[Casetext]], [[GPT4|GPT-4]], [[CoCounsel|Co-Counsel]], and [[FrontierModelInflectionPivot]] - early-access legal AI case added by The Social Radars.
 - [[BehavioralAgeInference]], [[OnlineAgeVerification]], [[Google]], [[PlatformDataRegulation]], and [[CivilLibertiesSurveillanceRisk]] - age-assurance and behavioral-signal branch added by Marketplace Tech.
 - [[Sora]], [[AIContentProvenance]], [[DataCenterBacklash]], and [[DataCenterCommunityConsent]] - copyright, AI media, and local infrastructure branch added by the Qizhulou/美轮美换 crossover.
+- [[FutureOfLifeInstitute|Future of Life Institute]], [[AILabSafetyReportCards]], [[VoluntaryAISafetyCommitments]], and [[UnilateralAIPauseCommitments]] - Marketplace Tech source-scoped safety-grade and accountability branch.

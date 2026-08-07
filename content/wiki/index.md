@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI firms are going back on their safety promises](sources/tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128.md) — Marketplace Tech episode with Sabina Nong of the Future of Life Institute on slipping AI lab safety grades, voluntary pause commitments, recursive self-improvement risk, tool AI, and state-level safety-framework regulation.
 - [173: 对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后](sources/173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1.md) — LateTalk interview with Yao Song on DeePhi Tech, Xilinx acquisition, Orienspace, Gravity-1, Striding AI, physical-intelligence system stacks, VLA bottlenecks, robot demo authenticity, and hard-tech founder risk calibration.
 - [可以给你的 Agent 发一点零花钱了｜ S10E22](sources/keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311.md) — What's Next episode with Patrick Wu of Clink and Gao Ning on agent payment infrastructure, agentic commerce, small-budget agent wallets, Visa's demo, stablecoins, merchant readiness, and creator monetization in agent-led interfaces.
 - [Hard cedar: Lebanon seeks Trump's help](sources/hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5.md) — The Intelligence episode on Lebanon seeking Trump administration help against Hezbollah, Red Bull's asset-light sports-media brand model, and census evidence that wealthy men are no longer especially more likely to marry much younger women.
@@ -842,6 +843,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Future of Life Institute](entities/FutureOfLifeInstitute.md) — AI safety and policy organization whose semi-annual report card grades major AI labs on safety practices and commitments.
+- [Sabina Nong](entities/SabinaNong.md) — Future of Life Institute representative explaining AI lab safety report cards, pause commitments, and tool-AI governance on Marketplace Tech.
 - [Yao Song / 姚颂](entities/YaoSong.md) — Continuous hard-tech founder behind DeePhi Tech, Orienspace, and Striding AI in the LateTalk episode.
 - [DeePhi Tech / 深鉴科技](entities/DeePhiTech.md) — Tsinghua-origin AI-chip startup co-founded by Yao Song and later acquired by Xilinx.
 - [Orienspace / 东方空间](entities/Orienspace.md) — Chinese commercial-space company in Yao Song's second startup phase, tied to satellite-internet launch demand.
@@ -5757,6 +5760,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Lab Safety Report Cards](concepts/AILabSafetyReportCards.md) — External scorecard approach for comparing frontier AI labs' model testing, whistleblower policies, current harms, military posture, and safety commitments.
+- [Voluntary AI Safety Commitments](concepts/VoluntaryAISafetyCommitments.md) — Nonbinding AI-company safety promises whose credibility depends on specificity, independence, accountability, and resistance to competitive pressure.
+- [Unilateral AI Pause Commitments](concepts/UnilateralAIPauseCommitments.md) — Stronger pause pledges that should trigger at dangerous capability thresholds even if competitors keep developing.
+- [Tool AI Human Control](concepts/ToolAIHumanControl.md) — Safety-governance path where AI systems remain tools under human direction rather than treating superintelligence as necessary or inevitable.
 - [Physical Intelligence System Stack](concepts/PhysicalIntelligenceSystemStack.md) — Yao Song's definition of physical intelligence as data, compute, models, software, hardware, scenes, solutions, and remote systems working together.
 - [Milestone Commercialization](concepts/MilestoneCommercialization.md) — Discipline of making each technical milestone generate some commercial value rather than waiting for final general capability.
 - [Robot Demo Authenticity](concepts/RobotDemoAuthenticity.md) — Trust boundary requiring robot videos to label speed changes, teleoperation, remote takeover, and autonomy status.

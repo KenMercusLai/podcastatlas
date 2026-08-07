@@ -7,6 +7,8 @@ last_updated: 2026-08-07
 ---
 # Anthropic
 
+[[tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128]] adds Anthropic through the [[FutureOfLifeInstitute|Future of Life Institute]] [[AILabSafetyReportCards|AI lab safety report card]] discussed on [[MarketplaceTech]]. The episode says Anthropic receives the highest grade among assessed labs but only a C+, making it a relative leader while still part of the source's broader warning about weakening [[VoluntaryAISafetyCommitments]] and competitor-contingent [[UnilateralAIPauseCommitments|pause commitments]].
+
 [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds Anthropic as a paired public-market signal with [[OpenAI]]. The source treats Anthropic's possible listing, coding-agent monetization, and office/labor substitution evidence as part of the market's next AI valuation test, especially because current prices may already assume much of the coding and office-productivity opportunity.
 
 [[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] adds Anthropic to the private-market valuation and IPO-risk discussion. In the source, Anthropic is grouped with [[OpenAI]] and [[SpaceX]] as a large private technology company whose eventual public listing could make [[PrivateMarketBubbleOpacity]] relevant for public investors.
@@ -115,3 +117,4 @@ Anthropic is discussed in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touzire
 - [[CloudCowork]], [[ZhangKuo]], [[AgenticWorkflow]], and [[ComputerUseAgent]] — E231's agent-workbench and engineering-dependency branch.
 - [[HenryTPUEngineer]], [[TPU]], [[XLACompiler]], [[GoogleCloud]], and [[FullStackAIPlatform]] — E228's explanation of why Anthropic may be an unusually strong external TPU fit.
 - [[DavidKirsch]], [[ChatGPT]], [[Google]], [[TechBubbleConditions]], and [[AIEquityValuationRisk]] - Marketplace Tech's service-dependence and bubble-scoring branch.
+- [[FutureOfLifeInstitute|Future of Life Institute]], [[AILabSafetyReportCards]], [[VoluntaryAISafetyCommitments]], and [[ToolAIHumanControl]] - Marketplace Tech safety-grade and pause-commitment branch.

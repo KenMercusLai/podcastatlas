@@ -7,6 +7,8 @@ last_updated: 2026-08-07
 ---
 # Google
 
+[[tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128]] adds Google through the [[FutureOfLifeInstitute|Future of Life Institute]] [[AILabSafetyReportCards|AI lab safety report card]] discussed on [[MarketplaceTech]]. The episode says Google receives a C grade and places it with other major frontier labs inside the source's critique of [[VoluntaryAISafetyCommitments]], [[RecursiveSelfImprovement]] pressure, and the need for externally defined safety standards.
+
 [[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] adds Google as a historical case in [[PublicRelevanceAlgorithms]]. [[DavidWeng|大卫翁]] uses [[PageRankSearchRelevance]] to show how search ranking could look objective while embedding choices about authority, weighting, and what counts as relevant public knowledge.
 
 [[tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128]] adds Google as one of the frontier AI services [[DavidKirsch]] uses to separate technology dependence from investor certainty. The source says a simultaneous outage of [[ChatGPT]], Google, and [[Anthropic]] would likely be a crisis for systems already relying on frontier models, while still treating [[AIEquityValuationRisk]] and [[TechBubbleConditions]] as unresolved.
@@ -156,3 +158,4 @@ Google is the company context for [[Gemini]], [[GeminiCLI]], and [[GoogleDeepMin
 - [[DavidKirsch]], [[ChatGPT]], [[Anthropic]], [[TechBubbleConditions]], and [[AIEquityValuationRisk]] - AI service-dependence and bubble-score context added by Marketplace Tech.
 - [[OnlineAgeVerification]], [[BehavioralAgeInference]], [[AgeVerificationPatchwork]], [[Apple]], and [[PlatformDataRegulation]] - age-assurance responsibility and behavioral-inference branch added by Marketplace Tech.
 - [[HenryTPUEngineer]], [[XLACompiler]], [[JAX]], [[TPUPodSystemOptimization]], [[IronwoodTPU]], [[Broadcom]], and [[ASICWorkloadPredictionRisk]] - former-TPU-engineer account of Google's custom AI infrastructure stack.
+- [[FutureOfLifeInstitute|Future of Life Institute]], [[AILabSafetyReportCards]], [[VoluntaryAISafetyCommitments]], and [[ToolAIHumanControl]] - Marketplace Tech safety-grade branch.

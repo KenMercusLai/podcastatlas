@@ -3,10 +3,12 @@ title: "xAI"
 type: entity
 tags: [company, ai, musk]
 sources: [151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, kate-crawford-mapping-empires, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
-last_updated: 2026-08-06
+last_updated: 2026-08-07
 ---
 
 # xAI
+
+[[tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128]] adds xAI through the [[FutureOfLifeInstitute|Future of Life Institute]] [[AILabSafetyReportCards|AI lab safety report card]] discussed on [[MarketplaceTech]]. The episode says xAI receives an F, making it the weakest-scored company in the source's comparison of frontier lab testing, whistleblower protections, current harms, military-use posture, and [[VoluntaryAISafetyCommitments]].
 
 [[151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]] adds xAI as an [[AIDataCenterPrivateCreditFinancing]] case. The source discusses a Tennessee data-center financing structure in which a sponsor-related entity borrows through private-credit funds arranged by [[ApolloGlobalManagement|Apollo]] to buy chips and lease them to xAI, turning AI compute expansion into lease and debt exposure.
 
@@ -44,3 +46,4 @@ In the episode, xAI matters less as a standalone chatbot company and more as a p
 - [[AIIPOValuation]] — Marketplace Tech's warning that a future SpaceX IPO becomes harder to analyze if xAI is inside the company.
 - [[Twitter|X]], [[Starlink]], and [[SpaceBasedAIInfrastructure]] - bundled-public-market context reinforced by the April 3 Marketplace Tech source.
 - [[OrbitalDataCenterEconomics]] and [[OrbitalComputeGovernance]] - E239's detailed economic and governance branch for the xAI-SpaceX platform story.
+- [[FutureOfLifeInstitute|Future of Life Institute]], [[AILabSafetyReportCards]], [[VoluntaryAISafetyCommitments]], and [[XAI|xAI]] - Marketplace Tech safety-grade branch.

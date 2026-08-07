@@ -6729,3 +6729,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | AI firms are going back on their safety promises
+
+Added source page for a Marketplace Tech episode with Sabina Nong of the Future of Life Institute on declining AI lab safety report-card grades, weakening voluntary pause commitments, recursive self-improvement risk, military-use drift, tool AI under human control, and state-level safety-framework regulation. Created pages for Future of Life Institute, Sabina Nong, AI Lab Safety Report Cards, Voluntary AI Safety Commitments, Unilateral AI Pause Commitments, and Tool AI Human Control; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Anthropic, OpenAI, Google, Meta, xAI, Recursive Self-Improvement, AI Governance and Compliance, Frontier Model Release Governance, Frontier Model Use Policy Conflict, AI Alignment Governance, State AI Regulation Patchwork, California, and Illinois. No direct contradiction found; the source qualifies earlier AI alignment and state-liability pages by stressing that safety frameworks and governance structures matter only if they remain enforceable under competitive pressure.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

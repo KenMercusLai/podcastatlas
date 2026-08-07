@@ -1611,6 +1611,10 @@
     "title": "AI Journalism Trust",
     "url": "/wiki/concepts/aijournalismtrust/"
   },
+  "AILabSafetyReportCards": {
+    "title": "AI Lab Safety Report Cards",
+    "url": "/wiki/concepts/ailabsafetyreportcards/"
+  },
   "AILaborMarketConcentration": {
     "title": "AI Labor Market Concentration",
     "url": "/wiki/concepts/ailabormarketconcentration/"
@@ -13070,6 +13074,10 @@
   "FutuSecurities": {
     "title": "Futu Securities",
     "url": "/wiki/entities/futusecurities/"
+  },
+  "FutureOfLifeInstitute": {
+    "title": "Future of Life Institute",
+    "url": "/wiki/entities/futureoflifeinstitute/"
   },
   "FutureOrientedFundraisingPitch": {
     "title": "Future-Oriented Fundraising Pitch",
@@ -27955,6 +27963,10 @@
     "title": "Sabastian Sawe",
     "url": "/wiki/entities/sabastiansawe/"
   },
+  "SabinaNong": {
+    "title": "Sabina Nong",
+    "url": "/wiki/entities/sabinanong/"
+  },
   "SacramentDonationModel": {
     "title": "Sacrament Donation Model",
     "url": "/wiki/concepts/sacramentdonationmodel/"
@@ -32239,6 +32251,10 @@
     "title": "Tony Xu",
     "url": "/wiki/entities/tonyxu/"
   },
+  "ToolAIHumanControl": {
+    "title": "Tool AI Human Control",
+    "url": "/wiki/concepts/toolaihumancontrol/"
+  },
   "ToolRationalitySpillover": {
     "title": "Tool Rationality Spillover",
     "url": "/wiki/concepts/toolrationalityspillover/"
@@ -32923,6 +32939,10 @@
     "title": "Unified Robot Models",
     "url": "/wiki/concepts/unifiedrobotmodels/"
   },
+  "UnilateralAIPauseCommitments": {
+    "title": "Unilateral AI Pause Commitments",
+    "url": "/wiki/concepts/unilateralaipausecommitments/"
+  },
   "Unilever": {
     "title": "Unilever",
     "url": "/wiki/entities/unilever/"
@@ -33470,6 +33490,10 @@
   "Voltaire": {
     "title": "Voltaire / 伏尔泰",
     "url": "/wiki/entities/voltaire/"
+  },
+  "VoluntaryAISafetyCommitments": {
+    "title": "Voluntary AI Safety Commitments",
+    "url": "/wiki/concepts/voluntaryaisafetycommitments/"
   },
   "VolunteerCareReciprocity": {
     "title": "Volunteer Care Reciprocity",
@@ -37750,6 +37774,10 @@
   "tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128": {
     "title": "The Apple vs. OpenAI legal showdown",
     "url": "/wiki/sources/tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128/"
+  },
+  "tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128": {
+    "title": "AI firms are going back on their safety promises",
+    "url": "/wiki/sources/tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

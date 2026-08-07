@@ -3,12 +3,14 @@ title: "Frontier Model Release Governance"
 type: concept
 tags: [ai, policy, model-release, governance]
 sources: [tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
-last_updated: 2026-07-25
+last_updated: 2026-08-07
 ---
 
 # Frontier Model Release Governance
 
 Frontier model release governance is the process by which governments and model companies decide whether a powerful model can be widely released, restricted, or delayed. [[roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]] adds a U.S. case where the source says advanced cyber capability pushed the government toward review practices that look licensing-like even when described as voluntary.
+
+[[tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128]] adds a pre-release and pre-threshold safety layer. [[SabinaNong]] argues that frontier labs should honor earlier [[UnilateralAIPauseCommitments|unilateral pause commitments]] once dangerous capability thresholds are reached, instead of waiting for competitors to pause or treating government review as the only safety gate.
 
 [[tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128]] adds a company-led restricted-preview version. The episode says [[Anthropic]] did not release [[ClaudeMethosPreview|Claude-Methos Preview]] to the public, instead routing access through [[ProjectGlasswing]] to more than 40 companies and technology organizations because cyber vulnerability-discovery capability is defensive and offensive at the same time.
 
@@ -25,6 +27,7 @@ The concept sits between [[AIExportControls]] and [[FrontierModelAccessRestricti
 - A government body such as the [[CenterForAIStandardsAndInnovation]] can make release governance more institutional even if final thresholds remain opaque or classified.
 - Senior political involvement can make "voluntary" review feel mandatory without producing a clear public licensing rule.
 - Company-led staged access can perform some release-governance functions before direct government review appears, especially when a model's capability is obviously dual-use.
+- Release governance starts too late if labs have already ignored threshold-based pause commitments during model development.
 
 ## Connections
 - [[AIExportControls]] - broader strategic-control category.
@@ -34,3 +37,4 @@ The concept sits between [[AIExportControls]] and [[FrontierModelAccessRestricti
 - [[OpenSourceAIModels]] - substitution path when closed-model access is uncertain.
 - [[AIEquityValuationRisk]] and [[AICommercializationPressure]] - valuation and revenue consequences of delayed or restricted releases.
 - [[WhiteHouse]], [[CenterForAIStandardsAndInnovation]], [[HowardLutnick]], [[OpenAI]], [[GPT56|GPT-5.6]], and [[Anthropic]] - July 2026 Marketplace Tech model-review case.
+- [[FutureOfLifeInstitute|Future of Life Institute]], [[SabinaNong]], [[VoluntaryAISafetyCommitments]], [[UnilateralAIPauseCommitments]], and [[AILabSafetyReportCards]] - safety-threshold branch added by Marketplace Tech.
