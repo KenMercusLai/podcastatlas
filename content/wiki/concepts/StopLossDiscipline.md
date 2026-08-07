@@ -2,11 +2,13 @@
 title: "Stop-Loss Discipline"
 type: concept
 tags: [investing, trading, risk]
-sources: [171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]
+sources: [suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq, 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]
 last_updated: 2026-08-07
 ---
 
 # Stop-Loss Discipline
+
+[[suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq]] adds the fixed-income-plus stop-profit and stop-loss version. In the source, exits are judged against [[RiskBudgetedAbsoluteReturn|risk budget]] and client holdability: a stop may lower the eventual return if the asset rebounds, but it can keep the product inside the drawdown range that lets clients stay.
 
 [[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds the late-bull-market FOMO version. For positions bought from tips, unfamiliarity, or late-cycle fear of missing out, [[DavidWeng|大卫翁]] says a 20%-from-high exit rule remains a usable discipline, while a looser 30% threshold may be debated only if the investor still writes and follows a rule.
 
@@ -20,6 +22,7 @@ Stop-loss discipline is the rule-based loss-control practice emphasized in [[ep7
 
 ## Key Claims
 - A stop-loss is not only a price level; the episode also mentions time or behavior stops when a position fails to show expected strength after entry.
+- The fixed-income-plus source adds that take-profit can be as important as stop-loss because realized gains become budget for future risk-taking.
 - Technical stops should be tied to meaningful trend or key-point failure rather than moved repeatedly because the trader hopes to be right.
 - Trailing stops let a profitable trend run while still protecting much of the prior gain when trend evidence deteriorates.
 - Stop-loss discipline is the practical opposite of [[AveragingDown]] in an active trade.
@@ -32,6 +35,7 @@ Stop-loss discipline is the rule-based loss-control practice emphasized in [[ep7
 
 ## Connections
 - [[BullMarketProfitPreservation]], [[MarketPullbackVsTrendEnd]], and [[PaperWealthVsCashValue]] - episode 157's gain-protection extension.
+- [[RiskBudgetedAbsoluteReturn]], [[RollingHoldingPeriodExperience]], [[ConvertibleBond]], and [[CrossAssetRiskExpression]] - product-level exit discipline from the 面基 source.
 - [[JesseLivermore]] — central teaching case for both good and failed stop-loss behavior.
 - [[TrendFollowing]] — entry and holding framework that needs explicit exits.
 - [[Pyramiding]] — adding to winners only works if losing trades are cut.

@@ -2,11 +2,13 @@
 title: "Drawdown Psychology"
 type: concept
 tags: [investing, psychology, risk]
-sources: [171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
+sources: [suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq, 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
 last_updated: 2026-08-07
 ---
 
 # Drawdown Psychology
+
+[[suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq]] adds the low-risk product client version. The source says former deposit and bank-wealth clients form a satisfaction distribution: a 2%-plus drawdown can be acceptable to some holders and trust-breaking to others, so the manager's job is to keep the middle majority inside the product's psychological floor rather than maximize single-period return.
 
 [[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds the bull-market relative-loss version. The source says losing money or lagging badly inside a bull market can feel worse than ordinary drawdown because other people's gains make the investor's own result feel like both loss and missed status, increasing the urge to switch tracks late.
 
@@ -28,6 +30,7 @@ This concept connects market risk to life experience. A portfolio can look accep
 
 ## Key Claims
 - Maximum drawdown misses part of the problem because it records the worst point but not the duration of being underwater.
+- The fixed-income-plus source adds that different entry dates produce different drawdown psychology on the same net-value curve because newer clients lack earlier accumulated gains.
 - Long, slow losses can reduce attention, patience, family tolerance, and the willingness to add at better prices.
 - Floating profit can become psychologically owned before it is realized, making later drawdown feel like a real loss.
 - Holding defensive or dividend assets in a growth-led bull market can create regret even if the absolute return is positive.
@@ -43,6 +46,7 @@ This concept connects market risk to life experience. A portfolio can look accep
 
 ## Connections
 - [[BullMarketProfitPreservation]], [[MarketPullbackVsTrendEnd]], and [[PaperWealthVsCashValue]] - episode 157's profit-giveback branch.
+- [[RollingHoldingPeriodExperience]], [[RiskBudgetedAbsoluteReturn]], [[FixedIncomePlusProduct]], and [[FundLiabilityMatching]] - product-client drawdown extension from the 面基 source.
 - [[InvestmentRiskManagement]] — broader discipline for sizing, exits, hedging, and survival.
 - [[BehavioralInvestingBiases]] — loss aversion, regret, anchoring, and herding pressures that worsen drawdowns.
 - [[PaperWealthVsCashValue]] — floating gains become painful when treated as already-owned wealth.

@@ -2,11 +2,13 @@
 title: "Chinese Bank Wealth Management / 中国式银行理财"
 type: concept
 tags: [banking, investing, wealth-management, china]
-sources: [136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt]
-last_updated: 2026-08-06
+sources: [suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq, 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt]
+last_updated: 2026-08-07
 ---
 
 # Chinese Bank Wealth Management / 中国式银行理财
+
+[[suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq]] adds the demand-transfer version. The source describes how low deposit rates, maturing older deposits, real-estate trust risk, and net-value reform push historically conservative bank-channel clients toward substitute products such as [[FixedIncomePlusProduct|固收+]] and multi-asset private accounts.
 
 Chinese bank wealth management is the product category explained in [[136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt]]. The source treats it as a China-specific asset-management channel built from bank customer trust, expected-return presentation, off-balance-sheet credit expansion, and later regulatory transformation under [[AssetManagementNewRules|资管新规]].
 
@@ -21,6 +23,7 @@ After the regulatory shift, Chinese bank wealth management became more visibly a
 - Regulatory cleanup did not make all bank wealth products bad; it made their actual risk path more visible.
 - The product category is strongest when the investor needs cash-like or low-volatility fixed-income exposure and understands that principal and returns are not guaranteed.
 - More complex bank wealth products should be evaluated through [[BankWealthProductSuitability]], not through product shelf trust alone.
+- The 面基 source adds that replacement demand is real but fragile: the client may accept net-value products only if the holding-period return path does not violate their old deposit-like risk expectations too quickly.
 
 ## Connections
 - [[BankWealthManagementSubsidiary]] - institutional carrier after regulatory reform.
@@ -29,3 +32,4 @@ After the regulatory shift, Chinese bank wealth management became more visibly a
 - [[BankWealthProductSuitability]] - investor-facing buying boundary.
 - [[PortfolioSuitability]], [[InvestmentRiskManagement]], and [[InvestmentLiquidityTradeoff]] - broader ordinary-investor guardrails.
 - [[PublicMutualFundEcosystem]] and [[FinancialPlatformIncentives]] - adjacent product-channel and distribution-incentive contexts.
+- [[FixedIncomePlusProduct]], [[RiskBudgetedAbsoluteReturn]], and [[RollingHoldingPeriodExperience]] - post-bank-wealth substitution and client-experience layer.

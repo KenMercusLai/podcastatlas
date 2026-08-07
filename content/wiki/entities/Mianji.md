@@ -1,8 +1,9 @@
 ---
 title: "面基"
 type: entity
-tags: [podcast, investing, trading, embodied-judgment, macro, ai-workflow, career, nonfiction, reading, knowledge-management, platform-labor]
+tags: [podcast, investing, trading, embodied-judgment, macro, ai-workflow, career, nonfiction, reading, knowledge-management, platform-labor, fixed-income-plus, wealth-management]
 sources:
+  - suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq
   - baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy
   - e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e
   - e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0
@@ -17,10 +18,12 @@ sources:
   - da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf
   - dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1
   - zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae
-last_updated: 2026-07-24
+last_updated: 2026-08-07
 ---
 
 # 面基
+
+[[suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq]] adds a fixed-income-plus and private-account product-management branch. It connects [[FixedIncomePlusProduct|固收+产品]], [[RiskBudgetedAbsoluteReturn]], [[RollingHoldingPeriodExperience]], [[CrossAssetRiskExpression]], [[MVPInvestmentFramework]], and [[ConvertibleBondDoubleLowStrategy]] to the show's earlier allocation work by asking who is holding the net-value curve and what drawdown path the middle of the client distribution can tolerate.
 
 The E145 source adds an A-share bull-market psychology layer through [[ZhangYizhen]], [[AShareValuationIndicators]], [[MultiStrategyAllocation]], and [[DrawdownPsychology]]. Its distinctive contribution is to move from "is 4000 points high" toward a more practical question: how should an investor preserve realized gains, action capacity, and emotional stability when valuation repair has already happened and late-cycle sentiment can still push prices higher.
 
@@ -55,4 +58,5 @@ The [[DaChangXiaomin]] conversation adds a nonfiction career layer through [[Xia
 - [[XiaoMan]], [[DaChangXiaomin]], [[CareerShoreMyth]], and [[SystemHumanity]] — big-company, layoff, nonfiction, and system-agency layer.
 - [[MidlifeThreeAccounts]], [[PersonalCashFlowAccount]], [[MuscleAsLongevityInfrastructure]], and [[SleepAsDailyHealthAccount]] - midlife money/body/sleep layer.
 - [[TianFeng]], [[TalentGroupLivestreaming]], [[LivestreamGuildIndustrialization]], [[RealTimeLivestreamLabor]], [[PlatformModerationComplianceLabor]], and [[SocialProductionOfBeauty]] - platform-labor and fieldwork layer from the group-livestreaming episode.
+- [[FixedIncomePlusProduct]], [[RiskBudgetedAbsoluteReturn]], [[RollingHoldingPeriodExperience]], [[CrossAssetRiskExpression]], [[MVPInvestmentFramework]], and [[ConvertibleBondDoubleLowStrategy]] - low-risk client, fixed-income-plus, and multi-asset private-account layer.
 - [[YiLaoYongYi]] — adjacent Chinese investing podcast already represented in the wiki through episodes on [[JimSimons]], [[JesseLivermore]], finance careers, and market risk.

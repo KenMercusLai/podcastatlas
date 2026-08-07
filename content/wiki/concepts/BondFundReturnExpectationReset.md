@@ -2,11 +2,13 @@
 title: "Bond Fund Return Expectation Reset"
 type: concept
 tags: [bonds, investing, rates, china]
-sources: [vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
-last_updated: 2026-08-06
+sources: [suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+last_updated: 2026-08-07
 ---
 
 # Bond Fund Return Expectation Reset
+
+[[suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq]] adds a second-tier bond-fund calibration layer. The source uses the Wind second-tier bond-fund index as a practical market reference for [[FixedIncomePlusProduct|fixed income plus]] management, while warning that low yields leave less carry to absorb mistakes in equity, convertible-bond, and duration sleeves.
 
 Bond fund return expectation reset is the source's warning that 2025 fixed-income investors should not extrapolate 2024 bond-fund gains. In [[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]], [[DavidWeng|大卫翁]] and [[Ricky]] distinguish coupon income from capital gains created by falling rates; after long yields have already moved much lower, the same products have thinner carry and more visible volatility risk.
 
@@ -21,6 +23,7 @@ The concept extends [[TreasuryDurationRisk]] into a China domestic bond-fund set
 - The episode expects limited additional short-term room for China's 10-year yield from the 1.5%-1.6% area discussed in the source.
 - Investors should inspect duration, credit exposure, currency exposure, and expected holding period before treating fixed income as cash.
 - Episode 133 adds that the bond opportunity is path-sensitive: a lower long-run rate view does not remove tactical entry, FX, or volatility constraints.
+- The 面基 source adds that second-tier bond-fund style products need return expectations calibrated against drawdown budget and client path, not only index-like historical returns.
 
 ## Connections
 - [[TreasuryDurationRisk]], [[CurrencyRisk]], and [[QDIIAllocation]] — related overseas fixed-income risk branch.
@@ -29,3 +32,4 @@ The concept extends [[TreasuryDurationRisk]] into a China domestic bond-fund set
 - [[MarketRegimeShift]] — reason last year's bond experience may not transfer.
 - [[ChinaPolicyEasingPivot]] — domestic policy context for lower rates.
 - [[RMBExchangeRatePolicy]], [[PrivateCreditTailRisk]], and [[AssetAllocation]] — episode 133's rate, credit, and portfolio-role extension.
+- [[FixedIncomePlusProduct]], [[RiskBudgetedAbsoluteReturn]], [[ConvertibleBond]], and [[RollingHoldingPeriodExperience]] - fixed-income-plus calibration and client-path extension.

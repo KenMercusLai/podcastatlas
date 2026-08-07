@@ -2,8 +2,8 @@
 title: "Return On Equity Analysis"
 type: concept
 tags: [finance, accounting, investing, valuation]
-sources: [ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]
-last_updated: 2026-07-08
+sources: [suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]
+last_updated: 2026-08-07
 ---
 
 # Return On Equity Analysis
@@ -12,10 +12,13 @@ Return on equity analysis evaluates how much profit a company earns for each uni
 
 [[e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]] adds a bank and dividend-policy use case: ROE pressure can limit payout growth, but systemically important banks may still be investable when funding-cost advantage, capital constraints, policy support, and entry price create enough [[MarginOfSafety]].
 
+[[suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq]] adds the defensive-equity-core use case. The source describes screening for lower-volatility ROE, stable cash flow or receivables structure, and lower tail risk when equity exposure must fit a [[FixedIncomePlusProduct|fixed income plus]] drawdown budget.
+
 ## Key Claims
 - ROE is useful because it connects profit to the capital shareholders have committed.
 - High ROE is stronger when it comes from margins, asset turns, and durable advantages rather than excessive debt.
 - ROE should be checked against balance-sheet leverage, cash-flow conversion, and business stability.
+- The 面基 source adds that ROE is more useful inside a defensive equity core when its volatility and deterioration risk are low, not merely when the current number is high.
 - A single metric cannot replace [[FinancialStatementAnalysis]] because the same number can emerge from different business realities.
 - ROE analysis should include whether dividends can grow without violating capital needs, policy constraints, or realistic nominal-growth assumptions.
 - In banks, the same current profit can carry different risk depending on funding cost, risk control, and balance-sheet structure.
@@ -26,3 +29,4 @@ Return on equity analysis evaluates how much profit a company earns for each uni
 - [[NonGAAPEarnings]] and [[ProfitAndCashFlowQuality]] — reporting and cash checks around reported profitability.
 - [[InvestmentRiskManagement]] and [[InvestorEducation]] — practical use context.
 - [[DividendDiscountModel]], [[DefensiveDividendAssets]], and [[MarginOfSafety]] — E160's bank, dividend, and valuation connection.
+- [[FixedIncomePlusProduct]], [[RiskBudgetedAbsoluteReturn]], and [[FreeCashFlowIndexing]] - defensive-equity-core extension from the 面基 source.

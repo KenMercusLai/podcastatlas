@@ -2,11 +2,13 @@
 title: "Defensive Dividend Assets"
 type: concept
 tags: [investing, dividends, allocation, risk]
-sources: [171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust, 160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+sources: [suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq, 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust, 160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
 last_updated: 2026-08-07
 ---
 
 # Defensive Dividend Assets
+
+[[suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq]] adds a defensive-core rather than pure-dividend version. The source says the equity core inside a [[FixedIncomePlusProduct|fixed income plus]] account starts from stable ROE, cash-flow quality, mature industries, lower capital-expenditure pressure, and tail-risk avoidance, not from maximizing headline dividend yield.
 
 [[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds the dividend-reinvestment version. After dividend assets fell sharply in the second quarter, [[DavidWeng|大卫翁]] restarts a limited fixed-investment process by first reinvesting prior dividend fund and dividend-stock cash flows back into the corresponding holdings, while keeping total equity exposure below his target ceiling.
 
@@ -38,6 +40,7 @@ Defensive dividend assets are the episode's waiting-position category for invest
 
 ## Key Claims
 - Dividend assets should be judged by cash-flow stability, payout durability, leverage, and entry price, not by recent technology-stock returns.
+- The 面基 source adds that defensive equity can overlap with dividend logic while still beginning from ROE stability, cash-flow quality, industry maturity, and drawdown budget rather than dividend yield alone.
 - The episode warns that dividend and defensive assets will often underperform during aggressive risk-on rallies.
 - The speakers distinguish owning a dividend asset for income from chasing it after a large price move.
 - [[HSBC]] is treated as an example that can fit a dividend logic, but bank leverage makes it less "risk free" than the headline yield may imply.
@@ -58,6 +61,7 @@ Defensive dividend assets are the episode's waiting-position category for invest
 
 ## Connections
 - [[BullMarketProfitPreservation]] and [[GainConversionAssetForm]] - episode 157's gain-conversion branch.
+- [[FixedIncomePlusProduct]], [[RiskBudgetedAbsoluteReturn]], [[ReturnOnEquityAnalysis]], and [[ProfitAndCashFlowQuality]] - defensive-equity-core extension from the 面基 source.
 - [[IndexReentryDiscipline]] — dividend/cash-flow assets can be a bridge while waiting for index entry prices.
 - [[HSBC]] — Hong Kong bank example from the Q&A.
 - [[MarketRegimeShift]] and [[USRecessionRisk]] — environments where defensive cash flows may attract attention.

@@ -3,6 +3,7 @@ title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
 sources:
+  - suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq
   - 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2
   - 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk
   - 166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6
@@ -62,6 +63,8 @@ last_updated: 2026-08-07
 ---
 
 # Investment Risk Management
+
+[[suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq]] adds the product-level risk-budget version. In a low-rate [[FixedIncomePlusProduct|fixed income plus]] account, risk management is not only cutting a bad position; it is preserving a thin [[RiskBudgetedAbsoluteReturn|risk budget]] so the whole product can keep satisfying clients across different entry dates and drawdown paths.
 
 [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds the AI-led half-year allocation version. Risk management is framed as keeping cash high when volatility rises, maintaining some technology exposure without chasing overheated core AI and semiconductor names, watching liquidity and capex evidence, and separating ordinary-investor suitability from institution-level information advantages.
 
@@ -147,6 +150,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 
 ## Key Claims
 - Every trade has an informed or differently informed counterparty, so humility should be the starting point.
+- The 面基 fixed-income-plus source adds that product-level risk management must allocate one drawdown budget across credit, duration, equity, convertibles, commodities, and cash, rather than letting each sleeve optimize separately.
 - Even a high-probability bet can fail, which makes position sizing and diversification central.
 - A signal is not a forecast; it should be sized and reviewed as one repeat in a larger statistical process.
 - [[KellyCriterion]] is useful only after an investor has a real [[InvestmentEdge]] and enough evidence to estimate win rate and payoff ratio conservatively.
@@ -236,6 +240,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 
 ## Connections
 - [[InstitutionalInvestorProcessDiscipline]], [[InstitutionalInformationAdvantage]], [[TargetWeightDiscipline]], and [[PersonalCapitalDurationAdvantage]] - episode 166's institution-derived risk-management extension.
+- [[FixedIncomePlusProduct]], [[RiskBudgetedAbsoluteReturn]], [[RollingHoldingPeriodExperience]], and [[CrossAssetRiskExpression]] - product-level risk-budget and client-path extension from the 面基 source.
 - [[BullMarketProfitPreservation]], [[BullMarketBezzleTrap]], [[GainConversionAssetForm]], and [[OptionContractMechanics]] - episode 157's profit-preservation branch.
 - [[PublicCryptoInvestmentRisk]], [[StateCryptoReserves]], [[SeparateCryptoReserveFund]], [[SeizedDigitalAssetCustody]], and [[Bitcoin]] - state public-finance crypto branch added by Marketplace Tech.
 - [[JimSimons]] — source's voice for the principle.

@@ -7013,3 +7013,11 @@ Added source page for a Marketplace Tech Bytes episode on divergent AI capex rea
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | 所有净值曲线背后都是人，正态分布的普通人
+
+Added source page for a 面基 episode on fixed-income-plus and multi-asset private-account management, low-risk client satisfaction as a distribution, risk-budgeted absolute return, rolling holding-period experience, cross-asset risk expression, convertible-bond double-low strategy, commodity and gold sleeves, and the MVP macro/valuation/policy framework. Created pages for Fixed Income Plus Product, Risk-Budgeted Absolute Return, Rolling Holding-Period Experience, Cross-Asset Risk Expression, MVP Investment Framework, and Convertible Bond Double-Low Strategy; updated overview, index, 面基, Chinese bank wealth-management, bank wealth product suitability, bond-fund return expectation reset, asset allocation, portfolio suitability, investment risk management, fund liability matching, drawdown psychology, convertible bond, free cash flow indexing, ROE analysis, profit and cash-flow quality, defensive dividend assets, commodity horizon matching, strategic gold allocation, client-centered wealth management, investment behavior coaching, and stop-loss discipline. No direct contradiction found; the source mainly extends earlier bank-wealth and asset-allocation pages by showing why fixed-income-plus products must be managed around client holding experience rather than asset-side return stories alone.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
