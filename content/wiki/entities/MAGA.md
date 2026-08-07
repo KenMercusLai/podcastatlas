@@ -2,11 +2,13 @@
 title: "MAGA / Make America Great Again"
 type: entity
 tags: [movement, politics, populism, united-states]
-sources: [tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]
-last_updated: 2026-07-25
+sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]
+last_updated: 2026-08-07
 ---
 
 # MAGA / Make America Great Again
+
+[[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] adds a European echo branch. [[ZannyMintonBeddoes]] says [[ElonMusk]]'s commentary about Europe, migration, and Islam resembles MAGA-right talking points and can encourage not only populist-right politics but also far-right politics.
 
 MAGA / Make America Great Again appears in [[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]] as the [[DonaldTrump]]-aligned movement whose meaning is contested after the 2024 election. [[LinYao|林垚]] argues that Trump's victory should not be inflated into proof that MAGA has become an overwhelming national majority.
 
@@ -22,3 +24,4 @@ The source treats MAGA as a coalition rather than a single ideology. It includes
 - [[H1BVisaCoalitionFaultLine]] and [[TechGovernmentAccommodation]] - visa-specific and broader technology-alignment concepts added by Marketplace Tech.
 - [[IdentityPoliticsAsPoliticalSorting]] and [[ImmigrationBacklashCycle]] - identity and migration branches.
 - [[USConstitutionalCrisisRisk]] and [[AmericanDemocraticResilience]] - institutional risk created when movement politics collides with constitutional repair limits.
+- [[TechnoOptimismPresentThreatGap]] and [[FarRightNormalization]] - European political-influence branch added by The Intelligence.

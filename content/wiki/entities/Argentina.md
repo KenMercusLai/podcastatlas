@@ -2,11 +2,13 @@
 title: "Argentina"
 type: entity
 tags: [country, football, sports, history, politics]
-sources: [138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, can-world-cup-mania-grow-mls-in-the-us, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
-last_updated: 2026-07-24
+sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, can-world-cup-mania-grow-mls-in-the-us, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
+last_updated: 2026-08-07
 ---
 
 # Argentina
+
+[[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] adds Argentina as a comparative [[YouthCriminalResponsibility]] case. [[MeghnaNanu]] says the country lowered its age of criminal responsibility from 16 to 14 in February, placing Argentina alongside [[Sweden]], the [[Philippines]], and [[SouthKorea|South Korea]] in a broader punitive turn.
 
 Argentina appears in [[youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]] as the [[FIFAWorldCup]] finalist facing [[Spain]] at New York New Jersey Stadium. The segment says the final could show whether [[LionelMessi]] can bring Argentina a second straight title.
 
@@ -25,3 +27,4 @@ The source also notes accusations that Argentina benefited from favorable refere
 - [[MajorLeagueSoccer]], [[CamiloDurana]], and [[MajorEventAttentionConversion]] - MLS facility-showcase branch added by Planet Money.
 - [[ThePenguinLessons|《企鹅课》 / The Penguin Lessons]], [[TomMichell|Tom Michell / 汤姆·米切尔]], [[StGeorgesSchool|St. George's School / 圣乔治学校]], and [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]] - 1970s school and penguin-rescue branch added by episode 138.
 - [[Uruguay]], [[OilPollutionWildlifeHarm]], and [[WildAnimalRescueResponsibility]] - cross-border rescue context added by episode 138.
+- [[Sweden]], [[Philippines]], [[SouthKorea|South Korea]], and [[YouthCriminalResponsibility]] - comparative youth-criminal-justice branch added by The Intelligence.

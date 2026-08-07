@@ -2,11 +2,13 @@
 title: "Recursive Self-Improvement"
 type: concept
 tags: [ai, agents, training, safety]
-sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
+sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
 last_updated: 2026-08-07
 ---
 
 # Recursive Self-Improvement
+
+[[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] adds [[ElonMusk]]'s shift in attitude. [[ZannyMintonBeddoes]] says Musk used to be very worried about recursive self-improvement and catastrophic outcomes, but Musk now frames AI and robots as a momentum he sees no real way to stop.
 
 Recursive self-improvement is the episode's frame for AI systems that help improve future versions of themselves. In [[e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]], [[LiBeibin]] defines the recursive part as a loop where a model finds or creates tasks, solves them, trains on the result, verifies the improvement, and repeats.
 
@@ -36,3 +38,4 @@ The source is careful about the difference between one self-improvement loop and
 - [[Axiom]], [[AIForMath]], [[AxiomProver]], and [[FormalVerification]] — specialized self-verifying reasoning route added by episode 137.
 - [[AutoResearch]], [[Recursive]], [[Anthropic]], and [[MLCoding]] — Q2 2026 research-automation and startup-wave context added by LateTalk.
 - [[FutureOfLifeInstitute|Future of Life Institute]], [[VoluntaryAISafetyCommitments]], [[UnilateralAIPauseCommitments]], and [[ToolAIHumanControl]] - safety-governance branch added by Marketplace Tech.
+- [[ElonMusk]], [[AIAbundanceNarrative]], and [[AISafetyCoordination]] - source branch on fear shifting into acceptance and coordination.

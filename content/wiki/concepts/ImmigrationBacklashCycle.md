@@ -2,11 +2,13 @@
 title: "Immigration Backlash Cycle"
 type: concept
 tags: [immigration, politics, history]
-sources: [tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, the-ice-hiring-boom, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
-last_updated: 2026-07-25
+sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, the-ice-hiring-boom, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
+last_updated: 2026-08-07
 ---
 
 # Immigration Backlash Cycle
+
+[[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] adds a European elite-platform variant. [[ZannyMintonBeddoes]] challenges [[ElonMusk]]'s view that Europe is being overrun by Muslim migrants and treats his [[Twitter|X]] reach as a reason the claim matters beyond ordinary opinion.
 
 [[the-ice-hiring-boom]] adds the enforcement-capacity version of the cycle. The source says DHS presents the crackdown as targeting the "worst of the worst," while the episode reports many detainees had no criminal convictions, some had legal status, and some U.S. citizens were taken into custody. The result is a backlash dynamic where political demands for restriction turn into organizational scale, detention capacity, and public concern over overreach.
 
@@ -43,3 +45,4 @@ The episode treats the cycle as a reason for cautious optimism and a warning. Ea
 - [[MAGA]], [[ElonMusk]], and [[MAGACoalitionFracture]] - H-1B coalition split added by sp.05.
 - [[SteveBannon]], [[SuyashPasi]], [[H1BVisaCoalitionFaultLine]], and [[TechGovernmentAccommodation]] - Marketplace Tech's high-skill visa conflict branch.
 - [[USImmigrationAndCustomsEnforcement]], [[ICEWorkforceExpansion]], [[ImmigrationDetentionExpansion]], and [[CarceralEconomicDependency]] - enforcement-scale and detention-economy branch added by Planet Money.
+- [[ElonMusk]], [[ZannyMintonBeddoes]], [[Twitter|X]], [[FarRightNormalization]], and [[TechnoOptimismPresentThreatGap]] - European migration-claim branch added by The Intelligence.

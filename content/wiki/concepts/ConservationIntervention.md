@@ -2,11 +2,13 @@
 title: "Conservation Intervention"
 type: concept
 tags: [conservation, ecology, wildlife]
-sources: [ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, 163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179, the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260]
+sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, 163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179, the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260]
 last_updated: 2026-08-07
 ---
 
 # Conservation Intervention
+
+[[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] adds a beach-and-turtle version through [[MonaKhalil]] in southern [[Lebanon]]. Her interventions include collecting vulnerable hatchlings before release, challenging fishermen using dynamite and poison, pressing local mayors to make Mansouri Beach a reserve, and telling UN peacekeepers not to throw rubbish into the sea.
 
 Conservation intervention is active human work to improve conditions for threatened species or habitats. In [[ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779]], [[RenNing]] discusses an island breeding project for [[ChineseCrestedTern]] where researchers prepare habitat, reduce disturbance, play tern calls, and place decoys so migrating terns read the island as an existing colony site.
 
@@ -58,3 +60,4 @@ The concept carries a built-in tension. The episode contrasts the worry that hum
 - [[Barcelos]], [[CardinalTetra]], [[ProjectPiaba]], [[SustainableWildHarvesting]], and [[OriginTraceabilityMoat]] - market-based conservation extension from Planet Money.
 - [[TianxianBaobaoLynx|天线宝宝]], [[YuanZhang|袁掌]], [[XiningWildlifePark|西宁野生动物园]], [[WildReleaseHumanAvoidance]], and [[ConservationStoryMobilization]] - release, monitoring, and public-story extension from episode 163.
 - [[WildPollinatorCrisis]], [[NativeBeeEcologicalPollination]], [[PesticidePollinatorRisk]], and [[UrbanEcology]] - pollinator-protection extension from EP261.
+- [[MonaKhalil]], [[OrangeHouseLebanon]], [[HabibaFayed]], [[Lebanon]], and [[ConservationUnderWar]] - turtle-conservation branch added by The Intelligence.

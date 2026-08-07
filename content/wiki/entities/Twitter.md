@@ -2,11 +2,13 @@
 title: "Twitter / X"
 type: entity
 tags: [company, social-media, platform]
-sources: [167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarspod-paulb-final, socialradarspod-stevehuffman-final]
-last_updated: 2026-08-06
+sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, 167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarspod-paulb-final, socialradarspod-stevehuffman-final]
+last_updated: 2026-08-07
 ---
 
 # Twitter / X
+
+[[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] adds X as the reach layer for [[ElonMusk]]'s political commentary. The episode says Musk has close to 250 million followers and uses that scale to explain why [[ZannyMintonBeddoes]] challenges his posts about Britain, Europe, migration, and Islam as a public-influence problem rather than only a personal-opinion dispute.
 
 Twitter appears in the wiki as a social platform, distribution gatekeeper, and startup-context surface. In [[tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov]], [[ChrisBest]] treats Twitter as a major upstream discovery platform for [[Substack]] writers and as the platform controlled by [[ElonMusk]] during Substack's launch of [[SubstackNotes]].
 
@@ -25,3 +27,4 @@ Twitter also appears elsewhere as part of the social-web environment. In [[socia
 - [[FriendFeed]], [[Reddit]], and [[UserPoweredContentPlatform]] - adjacent social-platform context in earlier Social Radars sources.
 - [[Grok]], [[XAI|xAI]], [[AINonConsensualIntimateImageAbuse]], and [[ChatbotGeneratedContentLiability]] - January 2026 Marketplace Tech branch.
 - [[AlgorithmicPublicAppearance]], [[PlatformAffordance]], and [[AffectivePolarization]] - episode 167's public-space and platform-behavior extension.
+- [[ZannyMintonBeddoes]], [[TechnoOptimismPresentThreatGap]], [[ImmigrationBacklashCycle]], and [[FarRightNormalization]] - Musk political-amplification branch added by The Intelligence.

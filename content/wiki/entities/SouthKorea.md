@@ -2,11 +2,13 @@
 title: "South Korea / 韩国"
 type: entity
 tags: [country, consumer, culture, technology, asia]
-sources: [vol-266-yi-ci-xing-gao-dong-etf-1002344828, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
+sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, vol-266-yi-ci-xing-gao-dong-etf-1002344828, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
 last_updated: 2026-08-07
 ---
 
 # South Korea / 韩国
+
+[[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] adds South Korea as a comparison case in the [[YouthCriminalResponsibility]] debate. [[MeghnaNanu]] says politicians there are discussing changes similar to [[Sweden]]'s tougher approach to serious youth crime.
 
 [[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds South Korea as a 2025 asset-performance example. The episode notes that Korean equities strongly outperformed major country indexes, and the speakers connect that strength to AI, semiconductors, and corporate-governance improvement rather than to Korea as a broad consumer-market case alone.
 
@@ -34,3 +36,4 @@ The source connects Korea's consumer power to [[KoreanCultureLedConsumerMarketin
 - [[KoreanCultureLedConsumerMarketing]], [[AIResistantExperientialConsumption]], and [[ConsumerBrandMoat]] - main wiki concepts extended through the Korea observations.
 - [[FilialPietyLaws]] and [[ElderCareStateCapacity]] - elder-care law comparison branch added by The Intelligence.
 - [[OliveYoung]], [[BLACKPINK]], and [[FanEconomy]] - Korea-side marketing examples added by FengTouQuan episode 142.
+- [[Sweden]], [[Argentina]], [[Philippines]], and [[YouthCriminalResponsibility]] - child-criminal-justice comparison branch added by The Elon game.

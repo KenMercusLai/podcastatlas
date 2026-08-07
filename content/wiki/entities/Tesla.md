@@ -2,11 +2,13 @@
 title: "Tesla"
 type: entity
 tags: [company, ev, batteries, investing, technology, autonomous-driving]
-sources: [tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
-last_updated: 2026-08-05
+sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
+last_updated: 2026-08-07
 ---
 
 # Tesla
+
+[[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] places Tesla's Texas Gigafactory at the center of [[ZannyMintonBeddoes]]'s interview with [[ElonMusk]]. The source uses Tesla less as a car company than as part of Musk's broader [[AIAbundanceNarrative]]: humanoid robots, physical AI, and manufacturing capacity become pieces of a future where AI can do almost everything better than humans.
 
 Tesla is the episode's strongest single-stock example in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]]. The speakers describe how a Trump-election trade and mega-cap enthusiasm could lift Tesla sharply even while auto deliveries, revenue quality, and valuation did not justify unlimited confidence.
 
@@ -50,3 +52,4 @@ Tesla is the episode's strongest single-stock example in [[ep57-mei-gu-dong-dang
 - [[Momenta]], [[Huawei]], and [[AutonomousDrivingDataFlywheel]] — advanced-driving supplier and benchmark context added by LateTalk.
 - [[KirstenKorosek]], [[TechCrunch]], [[Waymo]], [[Zoox]], [[RobotaxiEconomics]], and [[AutonomousVehicleRegulatoryPatchwork]] - 2025 robotaxi deployment context added by Marketplace Tech.
 - [[UsedEVAffordability]], [[EVTaxCreditCliff]], and [[HenryEpp]] - used-EV market context added by the December 31 Marketplace Tech episode.
+- [[ZannyMintonBeddoes]], [[AIAbundanceNarrative]], and [[TechnoOptimismPresentThreatGap]] - Gigafactory interview context added by The Intelligence.

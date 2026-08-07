@@ -2,11 +2,13 @@
 title: "Philippines"
 type: entity
 tags: [country, law, social-policy, asia]
-sources: [peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
-last_updated: 2026-07-09
+sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
+last_updated: 2026-08-07
 ---
 
 # Philippines
+
+[[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] adds the Philippines as a country where politicians are discussing lower ages of criminal responsibility. In the source, the Philippines is a comparison case for [[Sweden]]'s move toward [[ChildPrisonUnits]] and the broader [[YouthCriminalResponsibility]] debate.
 
 The Philippines appears in [[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] as an Asian elder-care law case. The episode says one proposed bill would criminalise elder neglect and abuse, with punishment of up to ten years in prison.
 
@@ -17,3 +19,4 @@ In the wiki, the Philippines anchors the more punitive end of [[FilialPietyLaws]
 - [[ElderCareStateCapacity]] - care-system problem beneath criminal enforcement.
 - [[FarahChia]] and [[TheIntelligence]] - contributor and source context.
 - [[Malaysia]], [[Singapore]], [[India]], and [[China]] - comparison cases in the segment.
+- [[Sweden]], [[Argentina]], [[SouthKorea|South Korea]], and [[YouthCriminalResponsibility]] - child-criminal-justice comparison branch added by The Intelligence.

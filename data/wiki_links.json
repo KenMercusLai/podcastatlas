@@ -1191,6 +1191,10 @@
     "title": "AI 3D Prototyping",
     "url": "/wiki/concepts/ai3dprototyping/"
   },
+  "AIAbundanceNarrative": {
+    "title": "AI Abundance Narrative",
+    "url": "/wiki/concepts/aiabundancenarrative/"
+  },
   "AIAdvertisingTargeting": {
     "title": "AI Advertising Targeting",
     "url": "/wiki/concepts/aiadvertisingtargeting/"
@@ -1810,6 +1814,10 @@
   "AIRewriteDesk": {
     "title": "AI Rewrite Desk",
     "url": "/wiki/concepts/airewritedesk/"
+  },
+  "AISafetyCoordination": {
+    "title": "AI Safety Coordination",
+    "url": "/wiki/concepts/aisafetycoordination/"
   },
   "AISafetyNarrativeBackfire": {
     "title": "AI Safety Narrative Backfire",
@@ -6831,6 +6839,10 @@
     "title": "Child Poetic Expression",
     "url": "/wiki/concepts/childpoeticexpression/"
   },
+  "ChildPrisonUnits": {
+    "title": "Child Prison Units",
+    "url": "/wiki/concepts/childprisonunits/"
+  },
   "ChildThirdPartyLiabilityInsurance": {
     "title": "Child Third-Party Liability Insurance",
     "url": "/wiki/concepts/childthirdpartyliabilityinsurance/"
@@ -8094,6 +8106,10 @@
   "ConservationStoryMobilization": {
     "title": "Conservation Story Mobilization / 保护故事动员",
     "url": "/wiki/concepts/conservationstorymobilization/"
+  },
+  "ConservationUnderWar": {
+    "title": "Conservation Under War",
+    "url": "/wiki/concepts/conservationunderwar/"
   },
   "ConservativePartnershipInstitute": {
     "title": "Conservative Partnership Institute",
@@ -14682,6 +14698,10 @@
   "HaagenDazs": {
     "title": "Haagen-Dazs",
     "url": "/wiki/entities/haagendazs/"
+  },
+  "HabibaFayed": {
+    "title": "Habiba Fayed",
+    "url": "/wiki/entities/habibafayed/"
   },
   "HabitPositiveFeedback": {
     "title": "Habit Positive Feedback / 习惯正反馈",
@@ -21607,6 +21627,10 @@
     "title": "Megan McCarty-Corino",
     "url": "/wiki/entities/meganmccartycorino/"
   },
+  "MeghnaNanu": {
+    "title": "Meghna Nanu",
+    "url": "/wiki/entities/meghnananu/"
+  },
   "Megvii": {
     "title": "Megvii",
     "url": "/wiki/entities/megvii/"
@@ -22490,6 +22514,10 @@
   "MonMothma": {
     "title": "Mon Mothma",
     "url": "/wiki/entities/monmothma/"
+  },
+  "MonaKhalil": {
+    "title": "Mona Khalil",
+    "url": "/wiki/entities/monakhalil/"
   },
   "MondayCom": {
     "title": "monday.com",
@@ -24306,6 +24334,10 @@
   "OralMythMagicalRealismSource": {
     "title": "Oral Myth As Magical Realism Source",
     "url": "/wiki/concepts/oralmythmagicalrealismsource/"
+  },
+  "OrangeHouseLebanon": {
+    "title": "Orange House",
+    "url": "/wiki/entities/orangehouselebanon/"
   },
   "OrbitalComputeGovernance": {
     "title": "Orbital Compute Governance",
@@ -31595,6 +31627,10 @@
     "title": "Swan Maiden Motif",
     "url": "/wiki/concepts/swanmaidenmotif/"
   },
+  "Sweden": {
+    "title": "Sweden",
+    "url": "/wiki/entities/sweden/"
+  },
   "SwingProducerRole": {
     "title": "Swing Producer Role",
     "url": "/wiki/concepts/swingproducerrole/"
@@ -32078,6 +32114,10 @@
   "TechnicalResistanceFromWithin": {
     "title": "Technical Resistance From Within / 体制内技术抵抗",
     "url": "/wiki/concepts/technicalresistancefromwithin/"
+  },
+  "TechnoOptimismPresentThreatGap": {
+    "title": "Techno-Optimism Present-Threat Gap",
+    "url": "/wiki/concepts/technooptimismpresentthreatgap/"
   },
   "TechnocraticDominationSatire": {
     "title": "Technocratic Domination Satire",
@@ -33426,6 +33466,10 @@
   "US2025ExpectationGaps": {
     "title": "U.S. 2025 Expectation Gaps",
     "url": "/wiki/concepts/us2025expectationgaps/"
+  },
+  "USAID": {
+    "title": "USAID",
+    "url": "/wiki/entities/usaid/"
   },
   "USBorderPatrol": {
     "title": "U.S. Border Patrol",
@@ -36135,6 +36179,10 @@
     "title": "尤妈妈 / 猫猫",
     "url": "/wiki/entities/youmamamaomao/"
   },
+  "YouthCriminalResponsibility": {
+    "title": "Youth Criminal Responsibility",
+    "url": "/wiki/concepts/youthcriminalresponsibility/"
+  },
   "YouthEntrepreneurship": {
     "title": "Youth Entrepreneurship",
     "url": "/wiki/concepts/youthentrepreneurship/"
@@ -36318,6 +36366,10 @@
   "Zangshu": {
     "title": "Zangshu / 《葬书》",
     "url": "/wiki/entities/zangshu/"
+  },
+  "ZannyMintonBeddoes": {
+    "title": "Zanny Minton Beddoes",
+    "url": "/wiki/entities/zannymintonbeddoes/"
   },
   "Zed": {
     "title": "Zed",
@@ -38586,6 +38638,10 @@
   "the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f": {
     "title": "The case of the missing totem: Aung San Suu Kyi",
     "url": "/wiki/sources/the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f/"
+  },
+  "the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4": {
+    "title": "The Elon game: Musk's vision of the future",
+    "url": "/wiki/sources/the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4/"
   },
   "the-giant-factory-town-that-might-be-a-giant-mistake": {
     "title": "The giant factory town that might be a giant mistake",

@@ -2,11 +2,13 @@
 title: "Lebanon"
 type: entity
 tags: [country, geopolitics, security]
-sources: [hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]
+sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]
 last_updated: 2026-08-07
 ---
 
 # Lebanon
+
+[[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] adds a local environmental branch through [[MonaKhalil]] and the [[OrangeHouseLebanon|Orange House]] on Mansouri Beach. The source shows Lebanon not only as a state-capacity or militia-security case, but also as a place where beach conservation, fishing practices, coastal development, volunteer education, and war pressure collide.
 
 [[hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5]] adds the domestic state-capacity version of the Lebanon problem. [[GregCarlstrom]] says [[JosephAoun]] and [[NawafSalam]] have a chance to rebuild state authority after years of leadership vacuum, but their strategy depends on army funding, pressure on [[Israel]] to withdraw, reconstruction money, and an [[InternationalMonetaryFund|IMF]] deal.
 
@@ -24,3 +26,4 @@ That earlier source's Lebanon segment is about enforcement, not just territory. 
 - [[USIranNuclearDiplomacy]] - broader negotiation exposed to events in Lebanon.
 - [[ProxyConflictSpoilerRisk]] - concept for how local security facts can spoil a wider deal.
 - [[StateCredibilityAgainstMilitia]], [[BankingLossAllocationPolitics]], and [[PostwarReconstructionFinance]] - domestic state-rebuilding branch added by the later source.
+- [[MonaKhalil]], [[OrangeHouseLebanon]], [[HabibaFayed]], [[ConservationIntervention]], and [[ConservationUnderWar]] - Mansouri Beach turtle-conservation branch.

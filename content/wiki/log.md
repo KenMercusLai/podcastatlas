@@ -6905,3 +6905,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | The Elon game: Musk's vision of the future
+
+Added source page for a The Intelligence episode on Elon Musk's AI and space future, his contested political claims about Europe, DOGE, and USAID, Sweden's child prison units and youth criminal responsibility, and Mona Khalil's turtle-conservation work in Lebanon. Created pages for Zanny Minton Beddoes, Meghna Nanu, Mona Khalil, Sweden, USAID, Orange House, Habiba Fayed, AI Abundance Narrative, AI Safety Coordination, Techno-Optimism Present-Threat Gap, Youth Criminal Responsibility, Child Prison Units, and Conservation Under War; updated overview, index, and related Musk, AI safety, political-influence, youth-justice, and conservation pages. No direct contradiction found; the source's stronger phrasing around the OpenAI-Hugging Face sandbox incident is recorded as source-scoped and qualified against the existing Marketplace Tech account.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

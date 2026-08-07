@@ -2,11 +2,13 @@
 title: "Space Based AI Infrastructure"
 type: concept
 tags: [ai, infrastructure, space, data-centers]
-sources: [tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
-last_updated: 2026-08-05
+sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
+last_updated: 2026-08-07
 ---
 
 # Space Based AI Infrastructure
+
+[[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] adds Musk's direct interview framing for orbital compute. [[ZannyMintonBeddoes]] says [[ElonMusk]]'s practical future focus includes orbital data centers for future AI capacity, tying the space-compute scenario to [[AIAbundanceNarrative]] and interplanetary consciousness rather than only IPO financing or engineering feasibility.
 
 Space based AI infrastructure is the episode's scenario in which AI compute, data transport, energy, and possibly data centers move partly into orbit. In [[145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]], [[LouisHong]] argues that terrestrial AI data centers face constraints around site approval, grid connection, electricity supply, and aging infrastructure, while space offers solar energy, abundant room, and fewer ground-permit bottlenecks.
 
@@ -38,3 +40,4 @@ The source treats the idea as plausible but not easy. Launching compute is not t
 - [[AIIPOValuation]] - public-market financing and underwriting frame added by the April 3 Marketplace Tech source.
 - [[WallStreetJournal|Wall Street Journal]], [[PareshDave]], and [[PublicCompanyTransition]] - January 23 Marketplace Tech source context around IPO capital and maintenance uncertainty.
 - [[OrbitalDataCenterEconomics]], [[OrbitalDataCenterThermalManagement]], [[OrbitalComputeGovernance]], [[LiuBinyan]], and [[StarCloud]] - detailed orbital-compute branch added by E239.
+- [[ZannyMintonBeddoes]], [[AIAbundanceNarrative]], and [[TechnoOptimismPresentThreatGap]] - direct Musk interview branch added by The Intelligence.
