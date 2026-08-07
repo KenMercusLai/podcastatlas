@@ -2,11 +2,13 @@
 title: "ChangXin Memory / 长鑫存储"
 type: entity
 tags: [company, china, semiconductors, memory]
-sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189]
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189]
 last_updated: 2026-08-07
 ---
 
 # ChangXin Memory / 长鑫存储
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds a brief market-share and geopolitical update. [[AnitaRamaswamy]] names CXMT as a Chinese memory-chip maker with small but fast-growing share, making it part of the episode's "China as wild card" frame for AI hardware, memory supply, and the durability of U.S., Korean, and Japanese advantages.
 
 ChangXin Memory is the domestic Chinese DRAM company discussed in [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]]. The source positions it as China's better-known DRAM-side memory player and notes that public information about its technology and capacity is limited.
 

@@ -2,11 +2,13 @@
 title: "Storage Industry Cyclicality"
 type: concept
 tags: [semiconductors, storage, markets, supply-chain]
-sources: [tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
-last_updated: 2026-07-23
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
+last_updated: 2026-08-07
 ---
 
 # Storage Industry Cyclicality
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds a global market-volatility update through [[SKHynix|SK Hynix]] and [[Samsung]]. [[AnitaRamaswamy]] says bullish investors argue AI memory demand could exceed supply for several years, but the market remains skeptical because memory suppliers have historically overbuilt after demand surges, creating later supply gluts.
 
 Storage Industry Cyclicality is the boom-bust structure described in [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]]. The source says memory products are standardized, fabs require heavy upfront capital, and suppliers have strong incentives to run capacity hard once it exists, even when prices weaken.
 

@@ -2,11 +2,13 @@
 title: "Kimi K3"
 type: entity
 tags: [ai, model, china, coding]
-sources: [ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
 last_updated: 2026-08-07
 ---
 
 # Kimi K3
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds Kimi K3 as a U.S. market-anxiety signal rather than a hands-on workflow test. [[AnitaRamaswamy]] says a recent Chinese model release, Kimi K3, was described as cheaper and close to the standard of [[Anthropic]]'s strongest models, making it part of the episode's [[China]] wild-card frame around AI capability and cost pressure.
 
 Kimi K3 is the [[Kimi]] model/product case tested in [[ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]]. The host bought a K3 package and asked it to build a dialogue agent for podcast hosts: the intended agent would search news around a topic, generate background research, and then help produce an episode outline.
 

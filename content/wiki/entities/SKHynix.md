@@ -2,11 +2,13 @@
 title: "SK Hynix"
 type: entity
 tags: [company, semiconductors, memory, ai]
-sources: [vol-266-yi-ci-xing-gao-dong-etf-1002344828, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, vol-266-yi-ci-xing-gao-dong-etf-1002344828, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
 last_updated: 2026-08-07
 ---
 
 # SK Hynix
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds a market-volatility update. [[AnitaRamaswamy]] says SK Hynix and [[Samsung]] mainly manufacture memory chips that support AI model training and inference, but the discussion also emphasizes [[StorageIndustryCyclicality]]: strong AI demand can still collide with investor fear that capacity expansion will later create another supply glut.
 
 SK Hynix appears in [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] as one of the memory suppliers whose growth is described as strong during the AI memory cycle. The episode names it alongside [[MicronTechnology]] and [[Samsung]] while explaining how AI workloads increase demand for fast memory and storage.
 

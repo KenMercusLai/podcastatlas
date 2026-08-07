@@ -2,11 +2,13 @@
 title: "Alphabet"
 type: entity
 tags: [company, ai, investing]
-sources: [tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
 last_updated: 2026-08-07
 ---
 
 # Alphabet
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds an earnings-season free-cash-flow layer to Alphabet's AI capex story. [[AnitaRamaswamy]] says [[Google]] reported that free cash flow had dipped into negative territory because of heavy AI spending, making Alphabet a case where public markets can punish capex before the long-term AI revenue path becomes fully legible.
 
 [[tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128]] updates Alphabet from a single long-bond case into a broader AI capex pressure example. [[JulieOsk|Julie Osk]] says Alphabet's capital expenditure rose from about $32 billion in fiscal 2023 to about $91 billion in fiscal 2025, with spending expected to almost double this year, making [[AIInfrastructureDebtFinancing]], [[DataCenterDebtRisk]], and [[AICapexReturnWindow]] more concrete for the [[Google]] parent.
 

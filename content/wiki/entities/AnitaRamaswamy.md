@@ -2,11 +2,13 @@
 title: "Anita Ramaswamy"
 type: entity
 tags: [journalist, technology, ai, markets]
-sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # Anita Ramaswamy
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds another [[MarketplaceTech]] Bytes appearance where Ramaswamy connects AI market scrutiny, AI safety governance, and streaming distribution. She compares investor reactions to [[Microsoft]], [[Meta]], and [[Alphabet]]/[[Google]] capex, explains [[SKHynix|SK Hynix]] and [[Samsung]] memory-chip volatility, reads [[China]] and [[KimiK3|Kimi K3]] as competitive wild cards, and frames [[NBCUniversal]]'s [[PeacockStreaming|Peacock]] deal with [[YouTubePremium|YouTube Premium]] as platform-native media bundling.
 
 Anita Ramaswamy is a columnist at [[TheInformation]] and a recurring [[MarketplaceTech]] Bytes guest. In [[tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128]], she analyzes [[GeckoRobotics]]' [[USNavy|U.S. Navy]] contract, [[BuzzFeed]]'s AI pivot under business distress, and [[Amazon]]'s ultra-fast delivery push. In [[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]], she analyzes [[GoogleAIOverviews|Google AI Overviews]], [[Palantir]]'s move to [[Miami]], and [[RingSearchParty|Ring Search Party]]; in [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]], she discusses AI memory demand, [[Oracle]] data-center finance, and [[AISlop]].
 

@@ -2,11 +2,13 @@
 title: "The Information"
 type: entity
 tags: [publication, technology, business]
-sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # The Information
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] extends The Information's wiki role through [[AnitaRamaswamy]]'s analysis of AI earnings, memory-chip volatility, AI safety governance, and [[StreamingPlatformBundling]]. The publication remains source context rather than the subject, but this episode adds capital-spending discipline, [[GovernmentAIPaceSetting]], and [[YouTubePremium|YouTube Premium]] distribution to the set of topics Ramaswamy explains on [[MarketplaceTech]].
 
 The Information appears in [[tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128]], [[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]], [[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]], and [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] as the publication affiliation for [[AnitaRamaswamy]]. Across these [[MarketplaceTech]] Bytes episodes, that affiliation supplies technology-business analysis for defense startup procurement, media AI pivots, ultra-fast delivery, AI search, publisher traffic, headquarters geography, consumer surveillance, AI chip exports, data-center electricity politics, Apple/Google assistant strategy, AI memory demand, data-center finance, and [[AISlop]].
 

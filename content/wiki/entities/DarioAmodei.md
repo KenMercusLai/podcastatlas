@@ -2,11 +2,13 @@
 title: "Dario Amodei"
 type: entity
 tags: [person, ai, safety]
-sources: [tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
-last_updated: 2026-07-12
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
+last_updated: 2026-08-07
 ---
 
 # Dario Amodei
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds Amodei as one of the AI leaders named in a [[MarketplaceTech]] discussion of a worker-signed open letter calling for government involvement in AI development pace. The source keeps him in the same safety-policy branch as earlier defense-access and rhetoric debates, but this time the emphasis is [[GovernmentAIPaceSetting]] rather than military use policy alone.
 
 Dario Amodei appears in [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] as the [[Anthropic]] leader the hosts associate with strong warnings about frontier-model danger. The episode argues that his safety rhetoric may contribute to [[AISafetyNarrativeBackfire]] if governments take the "AI as nuclear weapon" frame literally and impose [[AIExportControls]] or [[FrontierModelAccessRestrictions]].
 

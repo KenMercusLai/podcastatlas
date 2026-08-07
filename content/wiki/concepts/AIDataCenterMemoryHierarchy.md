@@ -2,10 +2,12 @@
 title: "AI Data Center Memory Hierarchy"
 type: concept
 tags: [ai, data-centers, semiconductors, memory]
-sources: [tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]
 last_updated: 2026-08-07
 ---
 # AI Data Center Memory Hierarchy
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds a public-market reminder that memory remains an AI infrastructure layer, not only a consumer component. [[AnitaRamaswamy]] explains that [[SKHynix|SK Hynix]] and [[Samsung]] memory chips support AI training and inference, while the market reaction shows that investors still judge memory through capacity cycles and supply-glut risk.
 
 AI Data Center Memory Hierarchy is the five-layer storage frame from [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]]. The episode orders memory and storage by distance from the processor: on-chip SRAM, [[HighBandwidthMemory]], DRAM, NAND SSDs, and hard drives.
 

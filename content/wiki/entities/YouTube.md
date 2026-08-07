@@ -2,11 +2,13 @@
 title: "YouTube"
 type: entity
 tags: [company, video, platform, distribution]
-sources: [164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, the-nfl-1, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, the-nfl-1, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
 last_updated: 2026-08-07
 ---
 
 # YouTube
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds YouTube as the host platform for [[NBCUniversal]]'s [[PeacockStreaming|Peacock]] content inside [[YouTubePremium|YouTube Premium]]. [[AnitaRamaswamy]] distinguishes this from ordinary discount bundles because users can watch the content without leaving YouTube, strengthening the page's [[YouTubeMediaDominance]] branch and adding [[StreamingPlatformBundling]].
 
 [[tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128]] adds YouTube as a major discovery gateway for AI nudify websites in [[SinaLaubenstein]]'s [[InstituteForStrategicDialogue]] research. The [[MarketplaceTech]] episode treats YouTube traffic as part of [[NudifyAppEcosystem]] and [[AINonConsensualIntimateImageAbuse]], where mainstream search and recommendation surfaces can route users toward abusive tools even when the platform bans non-consensual intimate imagery.
 

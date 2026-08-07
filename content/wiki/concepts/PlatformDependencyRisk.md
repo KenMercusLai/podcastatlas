@@ -2,11 +2,13 @@
 title: "Platform Dependency Risk"
 type: concept
 tags: [platforms, ecommerce, distribution, risk]
-sources: [tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]
-last_updated: 2026-07-12
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]
+last_updated: 2026-08-07
 ---
 
 # Platform Dependency Risk
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds a legacy-streaming version. [[NBCUniversal]] gains reach by putting [[PeacockStreaming|Peacock]] content inside [[YouTubePremium|YouTube Premium]], but the same move can deepen dependency because [[YouTube]] owns the viewer interface, discovery surface, subscription relationship, and cross-format media context.
 
 Platform dependency risk is the vulnerability created when a company builds growth on another platform's traffic, rules, links, ranking, payment path, or creator ecosystem. In [[no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]], [[Mogujie]] and [[Meilishuo]] show the cleanest ecommerce version: their fashion communities generated value partly by sending users to [[Taobao]], but [[Alibaba]] rule changes forced them into harder self-operated platform competition.
 

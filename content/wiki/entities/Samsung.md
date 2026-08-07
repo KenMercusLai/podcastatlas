@@ -2,11 +2,13 @@
 title: "Samsung"
 type: entity
 tags: [company, smartphone, android, consumer-electronics, semiconductors, memory]
-sources: [vol-266-yi-ci-xing-gao-dong-etf-1002344828, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, vol-266-yi-ci-xing-gao-dong-etf-1002344828, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
 last_updated: 2026-08-07
 ---
 
 # Samsung
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds Samsung to a global memory-stock selloff discussion. [[AnitaRamaswamy]] groups Samsung with [[SKHynix|SK Hynix]] as a memory-chip supplier tied to AI training and inference demand, while preserving the cyclical warning that memory markets can overbuild after demand surges.
 
 Samsung appears in [[no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376]] as the Android-era handset company that captured much of the market opportunity after [[HTC]]'s early lead. The episode uses Samsung to show that once [[Android]] became the open non-Apple platform, the winning hardware maker still needed scale, supply chain, marketing, and product iteration.
 

@@ -2,11 +2,13 @@
 title: "Vertical Media Distribution"
 type: concept
 tags: [media, distribution, strategy, ip]
-sources: [the-business-of-heated-rivalry, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, the-walt-disney-company-1]
-last_updated: 2026-07-24
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, the-business-of-heated-rivalry, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, the-walt-disney-company-1]
+last_updated: 2026-08-07
 ---
 
 # Vertical Media Distribution
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds the platform-bundle contrast. [[NBCUniversal]] does not fully internalize distribution; instead, it places [[PeacockStreaming|Peacock]] content inside [[YouTubePremium|YouTube Premium]]. That makes [[StreamingPlatformBundling]] a partial substitute for owned distribution and a possible source of [[PlatformDependencyRisk]].
 
 Vertical media distribution is the strategy of controlling more of the routes through which media reaches audiences and earns money. In [[the-walt-disney-company-1]], Disney moves from dependency on outside customers and distributors toward a system that includes owned IP, merchandising, television promotion, [[Disneyland]], and [[BuenaVistaDistribution]].
 

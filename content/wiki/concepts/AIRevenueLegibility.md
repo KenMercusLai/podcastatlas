@@ -2,11 +2,13 @@
 title: "AI Revenue Legibility"
 type: concept
 tags: [ai, revenue, investing, metrics]
-sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]
 last_updated: 2026-08-07
 ---
 
 # AI Revenue Legibility
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds a weekly earnings comparison to the legibility frame. [[Microsoft]] looks more credible when capex discipline and cloud economics are visible, [[Google]] is penalized when free cash flow turns negative under AI spending, and [[Meta]] is harder to value because a possible compute-rental business is less established than the existing cloud businesses at Microsoft, Google, or [[Amazon]].
 
 [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds a labor-substitution boundary to the legibility problem. The source treats coding and office productivity as the most legible near-term AI revenue pools, while broader white-collar labor substitution remains much larger but less auditable in current business results.
 

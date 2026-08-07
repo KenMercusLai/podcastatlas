@@ -2,11 +2,13 @@
 title: "YouTube Media Dominance"
 type: concept
 tags: [media, platforms, advertising, creators]
-sources: [tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # YouTube Media Dominance
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds a legacy-media dependence signal. [[NBCUniversal]]'s [[PeacockStreaming|Peacock]] content is placed inside [[YouTubePremium|YouTube Premium]], showing that a traditional media company may treat [[YouTube]] as core viewing infrastructure rather than only a competitor for attention.
 
 YouTube media dominance is the platform position described in [[tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128]], where a [[MoffettNathanson]] report calls [[YouTube]] the world's largest media company and says it generated more than $62 billion in revenue last year. The episode frames that result as a media-company comparison, not only a creator-platform statistic.
 

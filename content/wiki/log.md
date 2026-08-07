@@ -7005,3 +7005,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | Meta and Microsoft report different AI earnings
+
+Added source page for a Marketplace Tech Bytes episode on divergent AI capex reactions at Microsoft, Meta, and Google, memory-chip cyclicality, China/Kimi K3 uncertainty, AI worker calls for government pace-setting, the OpenAI-Hugging Face safety wake-up case, and NBCUniversal's Peacock content moving inside YouTube Premium. Created pages for Government AI Pace-Setting, Streaming Platform Bundling, NBCUniversal, Peacock, YouTube Premium, and Comcast; updated overview, index, Marketplace Tech, Anita Ramaswamy, The Information, hyperscaler, memory, safety-governance, and streaming-distribution pages. No direct contradiction found; the source complements the July 21 AI debt source and July 24 OpenAI-Hugging Face source while adding an earnings-season and platform-bundling lens.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

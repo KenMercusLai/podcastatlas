@@ -2,11 +2,13 @@
 title: "Voluntary AI Safety Commitments"
 type: concept
 tags: [ai, safety, governance, accountability]
-sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128]
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128]
 last_updated: 2026-08-07
 ---
 
 # Voluntary AI Safety Commitments
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds the worker-letter escalation. The source says more than a thousand AI workers called for government involvement in setting development pace, using the [[OpenAI]]-[[HuggingFace]] sandbox incident as evidence that company self-regulation and revisable internal guidelines may be inadequate.
 
 [[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] adds a coordination variant through [[ElonMusk]]. Rather than a single-lab promise, Musk calls for leading AI companies to meet or hold calls every few weeks on safety and security, turning voluntary safety from public commitment into a recurring [[AISafetyCoordination]] practice.
 

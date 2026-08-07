@@ -2,11 +2,13 @@
 title: "Streaming Consolidation"
 type: concept
 tags: [streaming, media, consolidation, consumer]
-sources: [the-business-of-heated-rivalry, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]
-last_updated: 2026-07-24
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, the-business-of-heated-rivalry, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # Streaming Consolidation
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds a platform-native bundle rather than an ownership transaction. [[NBCUniversal]]'s [[PeacockStreaming|Peacock]] content moves inside [[YouTubePremium|YouTube Premium]], which the source distinguishes from a discount bundle because users can watch within [[YouTube]] instead of leaving for a separate streaming app.
 
 Streaming consolidation is the media-market pattern where studios, libraries, and streaming services combine or bundle in response to rising competition, fragmented content, and consumer search friction. In [[tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]], the pattern appears through competing [[Netflix]] and [[Paramount]] bids for [[WarnerBrosDiscovery]] assets.
 

@@ -2,11 +2,13 @@
 title: "Memory Chip Shortage"
 type: concept
 tags: [ai, memory, storage, supply-chain]
-sources: [tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
 last_updated: 2026-08-07
 ---
 
 # Memory Chip Shortage
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds the investor-volatility side of the same memory pressure. The source does not focus on consumer devices; it shows that AI demand for memory chips can still trigger skepticism when [[StorageIndustryCyclicality]] makes investors fear that today's shortage or tightness could become tomorrow's capacity glut.
 
 [[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] adds a consumer-device pricing link. The [[MarketplaceTech]] episode says expected iPhone price increases are tied to a global memory shortage as manufacturers divert resources toward AI data centers, connecting [[MemoryChipShortage]] to [[AppleDeviceLeasing]] and premium-device affordability.
 

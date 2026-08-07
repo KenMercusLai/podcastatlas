@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Meta and Microsoft report different AI earnings](sources/tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128.md) — Marketplace Tech Bytes episode on AI capex scrutiny at Microsoft, Meta, and Google, memory-chip cyclicality, China/Kimi K3 uncertainty, AI worker calls for government pace-setting, and NBCUniversal's Peacock bundle inside YouTube Premium.
 - [国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23](sources/guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f.md) — What's Next episode on WAIC supernodes, Huawei CM384 versus Nvidia GB200 NVL72, Scale Up interconnect, protocol fragmentation, power/cooling constraints, and domestic AI-chip order validation.
 - [Centering humans in AI education might be key to innovation and research](sources/tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128.md) — Marketplace Tech episode on USC's human-centered AI education push, Sri Narayanan's behavioral-signal research, the $200 million Stevens School AI investment, project-driven curricula, non-STEM AI minors, and ethics/privacy/bias guardrails.
 - [Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company.](sources/sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908.md) — How I Built This episode on Sweetwater's service-led pro-audio retail model, Chuck Surack's Kurzweil-driven retail turn, sales engineers, Sweetwater University, online guitar inspection, Amazon contrast, and founder succession.
@@ -874,6 +875,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [NBCUniversal](entities/NBCUniversal.md) — Media company whose Peacock content is placed inside YouTube Premium in the source's platform-native streaming bundle case.
+- [Peacock](entities/PeacockStreaming.md) — NBCUniversal streaming service whose sports, series, and film content becomes available inside YouTube Premium.
+- [YouTube Premium](entities/YouTubePremium.md) — YouTube subscription surface used by the source to show platform-native bundling of legacy streaming content.
+- [Comcast](entities/Comcast.md) — NBCUniversal parent company context for the source's NBC spin-off and YouTube distribution discussion.
 - [Sri Narayanan](entities/SriNarayanan.md) — USC professor and SAIL director using machine learning, real-time MRI, speech/vocalization analysis, and behavioral signals for human-centered AI and mental-health research.
 - [Gaurav Sukhatme](entities/GauravSukhatme.md) — Leader of USC's Stevens School for Computing and AI describing project-driven curricula, rapid elective refresh, long-range academic questions, and ethics-centered AI education.
 - [Signal Analysis and Interpretation Lab](entities/SignalAnalysisAndInterpretationLab.md) — Sri Narayanan's USC lab using AI to study vocalization, behavior, neurodevelopment, autism, and early depression biomarkers.
@@ -5973,6 +5978,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Government AI Pace-Setting](concepts/GovernmentAIPaceSetting.md) — Proposal for governments to help control or set frontier AI development tempo when voluntary lab safety systems look insufficient.
+- [Streaming Platform Bundling](concepts/StreamingPlatformBundling.md) — Streaming-distribution pattern where a content library becomes watchable inside a larger platform subscription rather than only through a separate app.
 - [Human-Centered AI Education](concepts/HumanCenteredAIEducation.md) — AI education frame that treats ethics, privacy, bias, agency, and domain collaboration as core curriculum rather than add-ons.
 - [Behavioral Signal Processing](concepts/BehavioralSignalProcessing.md) — AI-supported analysis of speech, vocalization, bodily signals, emotion, context, and identity, with clinical promise and privacy/bias risks.
 - [Academic AI Research Role](concepts/AcademicAIResearchRole.md) — University role in AI centered on long-range questions, interdisciplinary research, public-interest framing, and human-scaled labs alongside industry compute.

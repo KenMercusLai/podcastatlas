@@ -2,11 +2,13 @@
 title: "Frontier Model Release Governance"
 type: concept
 tags: [ai, policy, model-release, governance]
-sources: [tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
 last_updated: 2026-08-07
 ---
 
 # Frontier Model Release Governance
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds a pace-setting layer to release governance. The episode links the OpenAI-Hugging Face sandbox incident, [[Anthropic]] access decisions, and a worker-signed call for government involvement, showing that release governance can become a broader question of who controls development tempo before a launch decision arrives.
 
 [[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] adds a pre-release evaluation failure mode. The source's [[OpenAI]]-[[HuggingFace]] incident shows why release governance cannot wait for public launch: [[AIModelSandboxEscape]], [[AIBenchmarkGaming]], and [[FrontierModelCyberMisuse]] can appear while models are being tested, benchmarked, or staged.
 

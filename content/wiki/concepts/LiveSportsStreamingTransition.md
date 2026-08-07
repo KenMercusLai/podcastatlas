@@ -2,11 +2,13 @@
 title: "Live Sports Streaming Transition"
 type: concept
 tags: [sports, media, streaming, distribution]
-sources: [the-nfl-1]
-last_updated: 2026-08-04
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, the-nfl-1]
+last_updated: 2026-08-07
 ---
 
 # Live Sports Streaming Transition
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds [[NBCUniversal]] and [[PeacockStreaming|Peacock]] to the sports-streaming branch. The source says Peacock content inside [[YouTubePremium|YouTube Premium]] includes sports and mentions NFL and NBA games tied to NBC rights, making live sports part of the reason a platform-native bundle can matter.
 
 Live sports streaming transition is the shift from broadcast and cable-dominated sports distribution toward streaming platforms that still need scarce live events. [[the-nfl-1]] adds the NFL version through [[Amazon]]'s Thursday Night Football, Sunday Ticket on [[YouTubeTV|YouTube TV]], global YouTube streaming, [[Netflix]] Christmas games, and the proposed [[ESPN]] transaction.
 

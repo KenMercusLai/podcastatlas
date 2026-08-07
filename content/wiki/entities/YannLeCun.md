@@ -2,11 +2,13 @@
 title: "Yann LeCun"
 type: entity
 tags: [person, ai-researcher, founder]
-sources: [tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]
-last_updated: 2026-07-10
+sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]
+last_updated: 2026-08-07
 ---
 
 # Yann LeCun
+
+[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds LeCun as the [[Meta]] chief AI scientist named in a [[MarketplaceTech]] segment on an AI worker letter calling for government involvement in setting the pace of AI development. In this source, he is not discussed through [[WorldModels]] or JEPA; he is part of the cross-lab safety-governance signal around [[GovernmentAIPaceSetting]].
 
 Yann LeCun appears in [[133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]] as the senior AI researcher whose [[NYU]] presence helped attract [[XieSaining]] to New York and whose world-model direction later converged with Xie's startup interest. The source describes him as a Turing Award winner and as a long-time institution builder around NYU AI work.
 
