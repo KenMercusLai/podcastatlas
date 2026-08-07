@@ -5895,6 +5895,10 @@
     "title": "Capital Return Rate Decline",
     "url": "/wiki/concepts/capitalreturnratedecline/"
   },
+  "CapitalSafety": {
+    "title": "Capital Safety",
+    "url": "/wiki/entities/capitalsafety/"
+  },
   "CapricornInvestmentGroup": {
     "title": "Capricorn Investment Group",
     "url": "/wiki/entities/capricorninvestmentgroup/"
@@ -7090,6 +7094,10 @@
   "Cicero": {
     "title": "Cicero / 西塞罗",
     "url": "/wiki/entities/cicero/"
+  },
+  "CindyCordes": {
+    "title": "Cindy Cordes",
+    "url": "/wiki/entities/cindycordes/"
   },
   "CindyDAmicus": {
     "title": "Cindy D'Amicus",
@@ -12950,6 +12958,10 @@
   "GRASSelfCertification": {
     "title": "GRAS Self-Certification",
     "url": "/wiki/concepts/grasselfcertification/"
+  },
+  "GSI": {
+    "title": "GSI",
+    "url": "/wiki/entities/gsi/"
   },
   "GSK": {
     "title": "GSK / 葛兰素史克",
@@ -21311,6 +21323,10 @@
     "title": "Mike Moritz",
     "url": "/wiki/entities/mikemoritz/"
   },
+  "MikePavelko": {
+    "title": "Mike Pavelko",
+    "url": "/wiki/entities/mikepavelko/"
+  },
   "MikeSolana": {
     "title": "Mike Solana",
     "url": "/wiki/entities/mikesolana/"
@@ -24259,6 +24275,10 @@
     "title": "Pete Rozelle",
     "url": "/wiki/entities/peterozelle/"
   },
+  "PeteStavros": {
+    "title": "Pete Stavros",
+    "url": "/wiki/entities/petestavros/"
+  },
   "PeteWalker": {
     "title": "Pete Walker",
     "url": "/wiki/entities/petewalker/"
@@ -25246,6 +25266,10 @@
   "PrivateEquityInSportsOwnership": {
     "title": "Private Equity In Sports Ownership",
     "url": "/wiki/concepts/privateequityinsportsownership/"
+  },
+  "PrivateEquityWorkerOwnership": {
+    "title": "Private Equity Worker Ownership",
+    "url": "/wiki/concepts/privateequityworkerownership/"
   },
   "PrivateImmigrationDetention": {
     "title": "Private Immigration Detention",
@@ -31455,6 +31479,10 @@
     "title": "Three-Layer Scale Economies",
     "url": "/wiki/concepts/threelayerscaleeconomies/"
   },
+  "ThreeM": {
+    "title": "3M",
+    "url": "/wiki/entities/threem/"
+  },
   "ThreeMileIslandAccident": {
     "title": "Three Mile Island Accident",
     "url": "/wiki/entities/threemileislandaccident/"
@@ -35502,6 +35530,10 @@
   "a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07": {
     "title": "A Keir-death experience: Britain's PM clings on",
     "url": "/wiki/sources/a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07/"
+  },
+  "a-pro-worker-experiment-in-private-equity": {
+    "title": "A pro-worker experiment in private equity",
+    "url": "/wiki/sources/a-pro-worker-experiment-in-private-equity/"
   },
   "a-trip-to-the-magic-mushroom-megachurch": {
     "title": "A trip to the magic mushroom megachurch",

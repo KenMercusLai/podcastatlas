@@ -2,11 +2,13 @@
 title: "Blackstone"
 type: entity
 tags: [company, private-equity, finance, ai]
-sources: [170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, vanguard-1]
+sources: [a-pro-worker-experiment-in-private-equity, 170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, vanguard-1]
 last_updated: 2026-08-07
 ---
 
 # Blackstone
+
+[[a-pro-worker-experiment-in-private-equity]] mentions Blackstone as one of the private-equity firms rolling out employee-ownership programs similar to [[KKR]]'s [[PrivateEquityWorkerOwnership]] model. In this source, Blackstone's role is not a standalone case study but evidence that shared worker upside may spread among private-equity firms if it also supports returns, engagement, and retention.
 
 [[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] adds Blackstone through the episode's private-credit retailization watchlist. [[DavidWeng|大卫翁]] uses reported large redemption requests at a Blackstone private-credit product as a signal that household- or wealth-channel access can turn illiquid credit into [[FundRedemptionLiquidityPressure]], even when losses do not resemble a 1929-style bank run.
 
@@ -19,6 +21,7 @@ Blackstone appears in [[e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-gui
 [[vanguard-1]] adds Blackstone through [[Vanguard]]'s move toward private assets under [[SalimRamji]]. In that source, the alliance is a strategic test: Vanguard wants broader access and retirement/advisory relevance, but private-market products can carry higher fees and more complexity than the low-cost index model associated with [[JohnBogle]].
 
 ## Connections
+- [[PrivateEquityWorkerOwnership]], [[KKR]], [[AresManagement]], and [[TPG]] - worker-ownership spread mentioned by the Planet Money source.
 - [[PrivateMarketBubbleOpacity]], [[PrivateCreditTailRisk]], and [[AIEquityValuationRisk]] - episode 153 private-finance bubble-location context.
 - [[PrivateCreditMarket]], [[PrivateCreditTailRisk]], [[RatedNoteFeeders]], and [[AIDataCenterPrivateCreditFinancing]] - episode 151's private-credit concentration and funding-channel context.
 - [[Anthropic]] — model-company partnership context mentioned in the source.

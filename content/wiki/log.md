@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-07] ingest | A pro-worker experiment in private equity
+
+Added source page for a Planet Money episode on KKR's worker-ownership experiment led by Pete Stavros, contrasting Capital Safety's hidden equity grant and Cindy Cordes's surprise five-figure payout with GSI's better-communicated ownership model, Mike Pavelko's large payout, and lower quit rates. Created pages for Pete Stavros, Cindy Cordes, Capital Safety, GSI, Mike Pavelko, 3M, and Private Equity Worker Ownership; updated overview, index, NPR, Planet Money, KKR, Blackstone, Ares Management, TPG, Equity Compensation Upside, Equity Incentive Alignment, Employee Equity Communication, Employee Retention Economics, and Workplace Incentive Design. No direct contradiction found; the source qualifies equity-incentive and private-equity narratives by showing that broad worker ownership needs communication, trust, and leadership quality rather than only payout mechanics.
+
 ## [2026-08-07] ingest | Reese's heir vs. chocolate skimpflation
 
 Added source page for a Planet Money episode on Brad Reese's campaign over Reese's labels, chocolate compound, peanut butter cream, FDA milk-chocolate and peanut-butter standards, cocoa supply shocks in Ivory Coast and Ghana, skimpflation, and Hershey's announced return to classic milk and dark chocolate recipes by 2027. Created pages for Hershey, Reese's, Brad Reese, H.B. Reese, Milton Hershey, Judy Gaines, Kirk Tanner, Ivory Coast, Skimpflation, Chocolate Compound, Chocolate Label Standards, Cocoa Supply Shock, and Ingredient Reformulation Strategy; updated overview, index, NPR, Planet Money, Food and Drug Administration, Commodity Price Exposure, Food Inflation, Climate Food Price Transmission, Consumer Brand Moat, Packaging As Product Experience, Product Led Willingness To Pay, and Story Led Consumer Branding. No direct contradiction found; the source qualifies consumer-brand and commodity-exposure branches by showing that input shocks can produce formula and label changes, not only higher shelf prices.
@@ -6645,3 +6649,7 @@ Ran lint after health passed. Deterministic checks found one orphan page (`wiki/
 ## [2026-08-07] lint | Wiki health check
 
 Ran health before lint; health scanned 9,430 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 9,430 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-24 with 6,453 nodes and 65,220 edges while the current wiki scan found 9,430 pages, so graph findings are advisory until `build graph` refreshes it; the graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`; configure a provider-qualified model and API key to enable contradiction, stale-content, data-gap, and concept-depth checks. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

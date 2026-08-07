@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A pro-worker experiment in private equity](sources/a-pro-worker-experiment-in-private-equity.md) — Planet Money episode on KKR's broad worker-ownership experiment, contrasting Capital Safety's hidden equity payout with GSI's better-communicated employee ownership and retention case.
 - [We almost had a smartphone in the 90s. Why did it fail?](sources/we-almost-had-a-smartphone-in-the-90s-why-did-it-fail.md) — Planet Money episode on General Magic, the Sony Magic Link, Tony Fadell, and how excess resources, vague customers, feature creep, and weak constraints shaped an early smartphone failure.
 - [Reese's heir vs. chocolate skimpflation](sources/reeses-heir-vs-chocolate-skimpflation.md) — Planet Money episode on Reese's label changes, chocolate compound, peanut butter cream, skimpflation, cocoa supply shocks, FDA chocolate standards, and Hershey's announced return to classic chocolate recipes by 2027.
 - [The Invention Invention](sources/the-invention-invention.md) — Planet Money episode on MPEG, the Singer sewing-machine patent war, patent pools, FRAND licensing, essential patents, and the antitrust line between collaboration and collusion.
@@ -831,6 +832,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Pete Stavros](entities/PeteStavros.md) — KKR figure leading the worker-ownership experiment through Capital Safety, GSI, and the broader private-equity rollout.
+- [Cindy Cordes](entities/CindyCordes.md) — Capital Safety manufacturing lead whose surprise five-figure payout shows the limits of uncommunicated worker equity.
+- [Capital Safety](entities/CapitalSafety.md) — KKR's first broad worker-equity test case, later sold to 3M after a poorly communicated rollout.
+- [GSI](entities/GSI.md) — KKR-owned stabilization-work company where communicated worker ownership is linked to engagement, payouts, and lower turnover.
+- [Mike Pavelko](entities/MikePavelko.md) — GSI worker whose sale payout illustrates the stronger, visible version of KKR's employee-ownership model.
+- [3M](entities/ThreeM.md) — Industrial buyer whose 2015 Capital Safety acquisition triggered the surprise worker-equity payout.
 - [General Magic](entities/GeneralMagic.md) — Early smartphone-like mobile-computing company used as a case in overbroad vision, weak customer clarity, and constraint-free product failure.
 - [Tony Fadell](entities/TonyFadell.md) — General Magic employee and later Apple product builder whose iPod/iPhone work is framed as disciplined learning from that failure.
 - [David Epstein](entities/DavidEpstein.md) — Journalist and constraints analyst interpreting General Magic as a case of too much talent, time, money, freedom, and complexity.
@@ -5646,6 +5653,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Private Equity Worker Ownership](concepts/PrivateEquityWorkerOwnership.md) — Broad employee-equity model in private-equity-owned companies where communication, trust, leadership, and exit timing decide whether ownership changes behavior.
 - [Constraint-Driven Product Discipline](concepts/ConstraintDrivenProductDiscipline.md) — Product-building pattern where customer clarity, budgets, deadlines, reuse, and iteration sharpen ambitious technology.
 - [Clear Customer Definition](concepts/ClearCustomerDefinition.md) — Product discipline of knowing who the first customer is, what problem they have, and what need should force tradeoffs.
 - [Feature Creep](concepts/FeatureCreep.md) — Scope-expansion pattern where good ideas keep being added until the product loses first-customer coherence.
