@@ -6390,6 +6390,10 @@ Added source page for a Talk三联 episode with 高一丁 and 苗伟 on 徐光�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-07] ingest | Uncanny AI: Why AI bots remember random, sometimes useless information
+
+Added source page for a Marketplace Tech "Uncanny AI" episode with Janelle Shane on chatbot memory files, Claude's awkward remembered-detail callbacks, context-poor sensitive-topic surfacing, fragile safety tuning, and privacy/security controls around durable AI memory. Created pages for Janelle Shane and Chatbot Memory Salience Failure; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Anthropic, Claude, Grok, Personal AI Memory, Persistent Agent Memory, AI Companion Active Memory, and Chatbot Safety Guardrail Decay. No direct contradiction found; the source qualifies prior persistent-memory and companion-memory pages by showing that retained facts still need salience, social proportion, sensitivity, and deletion controls before they become useful recall.
+
 ## [2026-08-07] ingest | 173: 对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后
 
 Added source page for a LateTalk interview with Yao Song on DeePhi Tech, Xilinx acquisition, Orienspace, Gravity-1, and Striding AI. Created pages for Yao Song, DeePhi Tech, Orienspace, Gravity-1, Striding AI, Wang Yu, Han Song, Xilinx, Matrix Partners China, Physical Intelligence System Stack, Milestone Commercialization, Robot Demo Authenticity, Commercial Rocket Launch Priority, Strategic Acquirer Fit, and Hard-Tech Direction Selection; updated overview and index. No direct contradiction found; the source creates a productive tension between household-general Physical AGI routes and Yao's scene-grounded, full-stack, milestone-commercialization route.
@@ -6745,3 +6749,7 @@ Added source page for a Marketplace Tech episode with Julie Osk of Osk Advisory 
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes while the wiki scan found 9,600 pages; they found no hub stubs, three fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; a bounded in-session semantic review of the orphan and fragile-bridge pages found no direct contradictions. No lint report file was saved.

@@ -2,11 +2,13 @@
 title: "Claude"
 type: entity
 tags: [ai, model, anthropic]
-sources: [e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # Claude
+
+[[tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128]] adds Claude as a consumer-memory example rather than a defense, healthcare, or coding case. [[MeganMcCartyCorino|Megan McCarty-Corino]] says Claude repeatedly resurfaced her early work wake-up time, and the episode also discusses a source-scoped example where Claude kept connecting a short illness-related eating lapse to possible disordered eating. The source makes Claude a concrete case for [[ChatbotMemorySalienceFailure]], [[PersonalAIMemory]], and the risk that remembered sensitive context can interact awkwardly with safety behavior.
 
 [[e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67]] adds Claude's healthcare product path through [[ClaudeForHealthcare]]. The source frames healthcare Claude less as open-ended diagnosis and more as [[HealthcareAIInfrastructure]] for billing, coding, compliance, APIs, and institutional workflows.
 
@@ -22,6 +24,7 @@ The source turns Claude from a general frontier model into a procurement and gov
 
 ## Connections
 - [[ClaudeForHealthcare]], [[MedicalBillingAndCodingAutomation]], and [[HIPAAConstrainedMedicalAI]] - healthcare workflow branch added by E227.
+- [[MeganMcCartyCorino|Megan McCarty-Corino]], [[JanelleShane]], [[ChatbotMemorySalienceFailure]], and [[PersonalAIMemory]] - consumer memory-misfire branch added by Marketplace Tech.
 - [[Anthropic]] - model provider.
 - [[ClaudeMethosPreview|Claude-Methos Preview]] and [[ProjectGlasswing]] - restricted cybersecurity-model rollout added by Marketplace Tech.
 - [[JackClark]], [[AIAutomationRedistribution]], and [[AICyberDefenseUtility]] - live Planet Money branch on work capacity, redistribution, and cyber defense.
