@@ -8,6 +8,8 @@ last_updated: 2026-08-07
 
 # Marketplace Tech
 
+The July 30, 2026 episode adds a human-centered AI education branch through [[UniversityOfSouthernCalifornia|USC]]. It connects [[SriNarayanan]]'s [[SignalAnalysisAndInterpretationLab]] research on [[BehavioralSignalProcessing]] with [[GauravSukhatme]], the [[USCStevensSchoolForComputingAndArtificialIntelligence]], [[ProjectDrivenAICurriculum]], and [[AcademicAIResearchRole]], showing how universities can pair AI majors and non-STEM minors with ethics, privacy, bias, and human agency.
+
 The July 28, 2026 episode adds an ocean-based carbon-removal branch through [[AmyScott]]'s reporting near Duck, North Carolina. It connects [[Vesta]]'s more-than-8,000-metric-ton olivine field demonstration, [[HourglassClimate]], [[JacquelineSentiner]], [[WoodsHoleOceanographicInstitution]], and [[AdamSubhas]] to [[OceanAlkalinityEnhancement]], [[OlivineCarbonRemoval]], [[MarineCarbonRemoval]], [[OceanAcidification]], [[CarbonStoragePermanence]], and [[CarbonRemovalCostCurve]], showing that marine removal has to prove chemistry, verification, scale, timing, and ecosystem safety rather than only a plausible storage mechanism.
 
 The July 27, 2026 episode adds an AI intimate-image-abuse ecosystem branch through [[SinaLaubenstein]] of the [[InstituteForStrategicDialogue]]. It connects 181 AI nudify websites, [[YouTube]] and [[Twitter|X]] traffic, [[Facebook]] and [[Instagram]] ads, app-store search and removals, payment and crypto intermediaries, the [[TakeItDownAct|Take It Down Act]], and [[California]] cease-and-desist pressure on [[Apple]] and [[Google]] to [[NudifyAppEcosystem]] and [[AbusePaymentInfrastructure]].

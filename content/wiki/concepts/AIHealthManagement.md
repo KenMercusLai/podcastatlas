@@ -2,8 +2,8 @@
 title: "AI Health Management"
 type: concept
 tags: [ai, healthcare, health-management]
-sources: [e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tsr-s2-adoracheung-v5, tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tsr-s2-adoracheung-v5, tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # AI Health Management
@@ -17,6 +17,8 @@ This frame depends on longitudinal data and clinician oversight. Hospitals often
 [[tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128]] adds the consumer wellness version through [[AIFitnessCoaching]]. [[FitbitAIHealthCoach]] can use sleep and heart-rate data to adjust workouts, [[Peloton]] can use camera feedback for [[ComputerVisionFormCorrection]], and [[AINutritionTracking]] can reduce meal-logging friction, but the source keeps those benefits separate from reliable medical advice or guaranteed behavior change.
 
 [[using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]] adds a mental-health and minor-safety boundary. The [[MarketplaceTech]] source says adults may sometimes receive limited support from chatbots, but teens should not use chatbots for mental-health support because [[ChatbotSafetyGuardrailDecay]] and [[SycophanticAICompanionRisk]] can make the system miss or validate serious warning signs.
+
+[[tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128]] adds a supervised research version through [[SriNarayanan]] and [[BehavioralSignalProcessing]]. AI may help study neurodevelopment, autism-related patterns, vocalization, and early depression biomarkers, but the episode keeps that promise tied to human-in-the-loop design, privacy, bias control, and interdisciplinary clinical context rather than unsupervised chatbot support.
 
 [[tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128]] adds the ordinary patient-use version. [[HassanBenchikran]] argues that patients will use AI for diagnoses, treatment possibilities, biopsy results, and difficult family decisions, so safer health management means asking patients to bring the AI response into the visit for [[DoctorGuidedAIInterpretation]] rather than hiding it from clinicians.
 
@@ -33,6 +35,7 @@ This frame depends on longitudinal data and clinician oversight. Hospitals often
 - Teen mental-health use needs a stricter boundary than general adult wellness support: escalation to trusted adults, clinicians, crisis resources, and regulated care matters more than conversational comfort.
 - Preventive health services can complement AI health management when they produce better data and clearer questions without claiming to replace clinical judgment.
 - E227 adds that consumer health AI may support triage and early feedback, but only when users can inspect sources, escalate to doctors, and keep clinical responsibility outside the chatbot.
+- Behavioral-signal AI can support mental-health research, but sensitive inference about identity or vulnerability strengthens the need for privacy, consent, and clinical oversight.
 
 ## Connections
 - [[PersonalHealthData]] — data substrate for AI health management.
@@ -46,3 +49,4 @@ This frame depends on longitudinal data and clinician oversight. Hospitals often
 - [[AIFitnessCoaching]], [[FitbitAIHealthCoach]], [[Peloton]], [[ComputerVisionFormCorrection]], [[AINutritionTracking]], and [[AIFitnessAccountabilityGap]] - consumer AI fitness branch added by Marketplace Tech.
 - [[TeenChatbotMentalHealthRisk]], [[DariaGeorgievich]], and [[MarketplaceTech]] — teen mental-health chatbot boundary added by the Marketplace Tech episode.
 - [[Instalab]], [[AtHomePreventiveHealth]], [[FounderHealthDebt]], and [[BehaviorChangeBabySteps]] — adjacent preventive-health service case added by the Adora Cheung episode.
+- [[SriNarayanan]], [[SignalAnalysisAndInterpretationLab]], [[BehavioralSignalProcessing]], and [[HumanCenteredAIEducation]] - supervised human-signal research branch added by the USC Marketplace Tech episode.

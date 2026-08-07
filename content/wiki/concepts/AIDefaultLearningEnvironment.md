@@ -2,11 +2,13 @@
 title: "AI Default Learning Environment"
 type: concept
 tags: [ai, education, learning, work]
-sources: [ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4]
-last_updated: 2026-07-23
+sources: [tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128, ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4]
+last_updated: 2026-08-07
 ---
 
 # AI Default Learning Environment
+
+[[tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128]] adds the institution-design version through [[UniversityOfSouthernCalifornia|USC]]. The source treats AI as something universities now build into majors, minors, projects, and non-STEM fields, while [[HumanCenteredAIEducation]] keeps ethics, privacy, bias, and agency inside the default environment.
 
 [[ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd]] adds a curriculum and major-choice version. AI is no longer only a student tool; it becomes part of software assignments, medical case simulation, chemistry research training, auto-driving courses, and school resource competition. The source therefore shifts the question from whether students will use AI to whether the environment preserves [[AIHollowingFoundationalTraining|foundational training]], process evaluation, and [[HumanJudgmentUnderAI|human judgment]] while tools are present.
 
@@ -22,6 +24,7 @@ The source's closing anecdote makes the concept generational: a younger high-sch
 - AI-native students may build capability faster in coding, research, writing, and self-directed exploration, but may also have weaker fallback ability without tools.
 - A default AI environment raises the value of [[HumanJudgmentUnderAI]], [[AICodingVerification]], and [[AIUsePacing]] because students must decide when to trust, slow down, verify, or stop.
 - Universities should design assessment and practice assuming AI access, while still protecting specific activities where the cognitive struggle is the point.
+- Campus AI strategy now includes majors, minors, project courses, and ethics design, not only rules about whether students may use a chatbot.
 
 ## Connections
 - [[AIAsTutor]] - constructive learning mode inside the default environment.
@@ -32,3 +35,4 @@ The source's closing anecdote makes the concept generational: a younger high-sch
 - [[AIUsePacing]] - dependency, addiction, memory, and productivity-overhead boundary.
 - [[ScienceEducationAsCivicLiteracy]], [[ProjectBasedScienceLearning]], and [[AIHackathons]] - K12 science-education and youth-project extension.
 - [[AIEraMajorChoice]], [[MedicalAIEducation]], [[AIForScienceTalent]], and [[AIHollowingFoundationalTraining]] - EP266's university curriculum and major-choice extension.
+- [[HumanCenteredAIEducation]], [[ProjectDrivenAICurriculum]], [[USCStevensSchoolForComputingAndArtificialIntelligence]], and [[AcademicAIResearchRole]] - USC's institutional AI education branch.

@@ -2147,6 +2147,10 @@
     "title": "Abuse Payment Infrastructure",
     "url": "/wiki/concepts/abusepaymentinfrastructure/"
   },
+  "AcademicAIResearchRole": {
+    "title": "Academic AI Research Role",
+    "url": "/wiki/concepts/academicairesearchrole/"
+  },
   "AcademicBiotechTranslation": {
     "title": "Academic Biotech Translation",
     "url": "/wiki/concepts/academicbiotechtranslation/"
@@ -4762,6 +4766,10 @@
   "BehavioralInvestingBiases": {
     "title": "Behavioral Investing Biases",
     "url": "/wiki/concepts/behavioralinvestingbiases/"
+  },
+  "BehavioralSignalProcessing": {
+    "title": "Behavioral Signal Processing",
+    "url": "/wiki/concepts/behavioralsignalprocessing/"
   },
   "BeiGene": {
     "title": "BeiGene / 百济神州",
@@ -13815,6 +13823,10 @@
     "title": "Gary Stark",
     "url": "/wiki/entities/garystark/"
   },
+  "GauravSukhatme": {
+    "title": "Gaurav Sukhatme",
+    "url": "/wiki/entities/gauravsukhatme/"
+  },
   "GavinNewsom": {
     "title": "Gavin Newsom",
     "url": "/wiki/entities/gavinnewsom/"
@@ -16182,6 +16194,10 @@
   "HumanCapitalInflationHedge": {
     "title": "Human Capital Inflation Hedge",
     "url": "/wiki/concepts/humancapitalinflationhedge/"
+  },
+  "HumanCenteredAIEducation": {
+    "title": "Human-Centered AI Education",
+    "url": "/wiki/concepts/humancenteredaieducation/"
   },
   "HumanConnectionUnderAI": {
     "title": "Human Connection Under AI",
@@ -26715,6 +26731,10 @@
     "title": "Project-Based Vocational Learning / 项目式职业学习",
     "url": "/wiki/concepts/projectbasedvocationallearning/"
   },
+  "ProjectDrivenAICurriculum": {
+    "title": "Project-Driven AI Curriculum",
+    "url": "/wiki/concepts/projectdrivenaicurriculum/"
+  },
   "ProjectGlassfin": {
     "title": "Project Glassfin",
     "url": "/wiki/entities/projectglassfin/"
@@ -30195,6 +30215,10 @@
     "title": "Sigmund Freud / 西格蒙德·弗洛伊德",
     "url": "/wiki/entities/sigmundfreud/"
   },
+  "SignalAnalysisAndInterpretationLab": {
+    "title": "Signal Analysis and Interpretation Lab",
+    "url": "/wiki/entities/signalanalysisandinterpretationlab/"
+  },
   "SignalDesign": {
     "title": "Signal Design / 信号设计",
     "url": "/wiki/concepts/signaldesign/"
@@ -31074,6 +31098,10 @@
   "SquareOnline": {
     "title": "Square Online",
     "url": "/wiki/entities/squareonline/"
+  },
+  "SriNarayanan": {
+    "title": "Sri Narayanan",
+    "url": "/wiki/entities/srinarayanan/"
   },
   "StGeorgesSchool": {
     "title": "St. George's School / 圣乔治学校",
@@ -33858,6 +33886,10 @@
   "USBorderPatrol": {
     "title": "U.S. Border Patrol",
     "url": "/wiki/entities/usborderpatrol/"
+  },
+  "USCStevensSchoolForComputingAndArtificialIntelligence": {
+    "title": "USC Stevens School for Computing and Artificial Intelligence",
+    "url": "/wiki/entities/uscstevensschoolforcomputingandartificialintelligence/"
   },
   "USChinaAIMacroAsymmetry": {
     "title": "U.S.-China AI Macro Asymmetry / 中美AI宏观不对称",
@@ -39066,6 +39098,10 @@
   "tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128": {
     "title": "An \\\"antacid\\\" to fight climate change",
     "url": "/wiki/sources/tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128/"
+  },
+  "tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128": {
+    "title": "Centering humans in AI education might be key to innovation and research",
+    "url": "/wiki/sources/tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

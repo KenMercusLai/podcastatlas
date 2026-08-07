@@ -16,6 +16,8 @@ University opportunity density is the practical value created by a university's 
 
 [[ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd]] adds an AI-resource inequality version. [[ZhejiangUniversity|浙江大学]] and [[TianjinUniversity|天津大学]] are used as examples of schools that can provide medical cases, affiliated hospitals, model-development teams, learning spaces, innovation colleges, compute, and front-line AI talent. The source warns that students in less resourced institutions may need to build more self-directed learning, AI literacy, and external learning communities to compensate.
 
+[[tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128]] adds the USC version of AI opportunity density. A $200 million AI-school investment, new AI major, non-STEM minors, project-driven electives, and labs such as [[SignalAnalysisAndInterpretationLab]] make the university valuable as a concentrated environment for curriculum, research, ethics, and interdisciplinary practice.
+
 ## Key Claims
 
 - City matters because large-company recruiting, internships, startup opportunities, talks, and industry events cluster unevenly across regions.
@@ -25,6 +27,7 @@ University opportunity density is the practical value created by a university's 
 - School culture matters because universities, like companies, select for and cultivate different norms, ambitions, and styles.
 - Opportunity density does not guarantee outcomes, but it lowers the cost of trying more things before graduation.
 - In AI-era education, peer and teacher density can become more valuable because students need humans who can challenge, verify, and contextualize AI-mediated learning.
+- Dedicated AI schools, labs, and non-STEM minors can increase opportunity density when they connect technical tools to real disciplines and ethical review.
 - "Social" university value is strongest when it creates trust, mentorship, and serious peer learning, not just event attendance or casual networking.
 - Episode 169 adds that finance opportunity density is spatial: internships, firms, alumni, and informal recruiting access cluster in financial cities, making location part of the credential.
 
@@ -39,3 +42,4 @@ University opportunity density is the practical value created by a university's 
 - [[DegreeAsTrustCredential]] and [[AIUniversityAssessmentReform]] - credential and assessment implications added by E236.
 - [[FinancePlatformSocialCapital]], [[InternshipAsCareerExploration]], and [[CollegeMajorChoice]] — episode 169's finance-school-city branch.
 - [[ZhejiangUniversity]], [[TianjinUniversity]], [[AIEraMajorChoice]], and [[AIForScienceTalent]] — EP266's AI-era resource concentration branch.
+- [[UniversityOfSouthernCalifornia]], [[USCStevensSchoolForComputingAndArtificialIntelligence]], [[ProjectDrivenAICurriculum]], and [[HumanCenteredAIEducation]] - USC AI-school branch added by Marketplace Tech.

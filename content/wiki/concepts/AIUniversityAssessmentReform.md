@@ -2,8 +2,8 @@
 title: "AI University Assessment Reform"
 type: concept
 tags: [ai, higher-education, assessment, learning]
-sources: [e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4]
-last_updated: 2026-07-23
+sources: [tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4]
+last_updated: 2026-08-07
 ---
 
 # AI University Assessment Reform
@@ -14,6 +14,8 @@ AI university assessment reform is the shift proposed across [[e236-99-de-zuoye-
 
 This reform does not mean abandoning integrity. It means assessment has to make process, judgment, verification, source use, tool choice, and problem value visible. That connects the source to [[TransparentAIUse]], [[AIWritingPedagogy]], [[FirstDraftThinking]], and [[AICodingVerification]] while extending them from writing classes and homework into elite-university coursework, projects, and career preparation.
 
+[[tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128]] adds a curriculum-design complement through [[ProjectDrivenAICurriculum]]. [[GauravSukhatme]]'s USC example suggests that assessment reform is easier when courses are organized around projects, quickly refreshed electives, and non-STEM AI applications, because those formats can surface process, ethics, domain fit, and judgment rather than only final answers.
+
 ## Key Claims
 - AI bans become brittle when AI is already embedded in writing, coding, search, research, translation, and planning tools.
 - Assessment should test whether students understand enough to judge AI output, not only whether they can conceal or avoid AI use.
@@ -21,6 +23,7 @@ This reform does not mean abandoning integrity. It means assessment has to make 
 - Projects, presentations, oral defense, process evidence, and real-world problem solving may become stronger signals than routine take-home assignments.
 - [[DegreeAsTrustCredential]] depends on this reform: credentials remain useful only if institutions can say what their graduates are trusted to do under AI.
 - AI-era assessment should preserve some protected practice, because [[AIShortcutRisk]] and loss of foundational ability remain real.
+- Project-driven AI coursework can make process, ethics, and domain judgment more visible than routine answer submission.
 
 ## Connections
 - [[AlfredLinTongyu|Alfred 林童雨]] and [[JackRaoJiewu|Jack 饶街五]] - guests grounding the reform argument.
@@ -30,3 +33,4 @@ This reform does not mean abandoning integrity. It means assessment has to make 
 - [[HumanJudgmentUnderAI]] and [[AICodingVerification]] - output ownership and verification layer.
 - [[DegreeAsTrustCredential]] and [[CollegeCareerPreparation]] - why assessment reform matters beyond grades.
 - [[AIHollowingFoundationalTraining]], [[MedicalAIEducation]], and [[NewEngineeringEducation]] - EP266's classroom and discipline-specific assessment reform branch.
+- [[ProjectDrivenAICurriculum]], [[HumanCenteredAIEducation]], and [[USCStevensSchoolForComputingAndArtificialIntelligence]] - USC's curriculum-design extension.

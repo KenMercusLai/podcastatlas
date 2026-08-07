@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-07] ingest | Centering humans in AI education might be key to innovation and research
+
+Added source page for a Marketplace Tech episode on USC's human-centered AI education strategy, covering Sri Narayanan's behavioral-signal research with real-time MRI and machine learning, USC's $200 million Stevens School AI investment, a new AI major, non-STEM AI minors, project-driven curriculum, and the need to keep ethics, privacy, bias, and agency inside AI development. Created pages for Sri Narayanan, Gaurav Sukhatme, Signal Analysis and Interpretation Lab, USC Stevens School for Computing and Artificial Intelligence, Human-Centered AI Education, Behavioral Signal Processing, Academic AI Research Role, and Project-Driven AI Curriculum; updated overview, index, Marketplace Tech, University of Southern California, AI Default Learning Environment, AI University Assessment Reform, AI Health Management, Domain Expert Alignment, and University Opportunity Density. No direct contradiction found; the source qualifies AI education and mental-health AI branches by separating supervised interdisciplinary research and curriculum design from unsupervised chatbot substitution for clinicians or trusted adults.
+
 ## [2026-08-07] ingest | An "antacid" to fight climate change
 
 Added source page for a Marketplace Tech episode following Amy Scott to Duck, North Carolina, for Vesta's olivine-based ocean carbon-removal field demonstration, covering ocean alkalinity enhancement, bicarbonate storage, ocean acidification, marine-life tradeoffs, project monitoring, and Vesta's 5,000-ton net-removal estimate. Created pages for Vesta, Hourglass Climate, Jacqueline Sentiner, Woods Hole Oceanographic Institution, Adam Subhas, Ocean Alkalinity Enhancement, Olivine Carbon Removal, and Marine Carbon Removal; updated overview, index, Marketplace Tech, Amy Scott, How We Survive, Carbon Removal, Ocean Acidification, Carbon Storage Permanence, Carbon Removal Cost Curve, Climate Startup Commercialization Gap, and Economic Climate Tech Adoption. No direct contradiction found; the source complements direct air capture and bio-oil removal by adding an ocean-chemistry pathway while keeping verification, scale, timing, lifecycle accounting, and ecosystem effects unresolved.
@@ -6985,6 +6989,10 @@ Added source page for a 商业就是这样 crossover with 鹰眼时间 on 2026 W
 ## [2026-08-07] ingest | Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company.
 
 Added source page for a How I Built This episode on Chuck Surack building Sweetwater from mobile recording and Kurzweil K-250 sound disks into a service-led online pro-audio and music retail company. Created pages for Sweetwater, Chuck Surack, Sweetwater University, Kurzweil K-250, Service-Led Retail Moat, Sales Engineer Model, and Individual-Item Ecommerce; updated overview, index, How I Built This, Guy Raz, Amazon, Trust As Business Asset, Relationship-Led Sales, Customer Discovery By Doing Work, Unscalable Founder Work, Retail Counter-Positioning, Ecommerce Fulfillment Complexity, and Founder Succession. No direct contradiction found; the source qualifies customer-service sludge by showing the positive version of expert escalation, accountable support, training, and relationship memory as a retail moat.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 

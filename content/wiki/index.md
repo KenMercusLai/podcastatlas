@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Centering humans in AI education might be key to innovation and research](sources/tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128.md) — Marketplace Tech episode on USC's human-centered AI education push, Sri Narayanan's behavioral-signal research, the $200 million Stevens School AI investment, project-driven curricula, non-STEM AI minors, and ethics/privacy/bias guardrails.
 - [Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company.](sources/sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908.md) — How I Built This episode on Sweetwater's service-led pro-audio retail model, Chuck Surack's Kurzweil-driven retail turn, sales engineers, Sweetwater University, online guitar inspection, Amazon contrast, and founder succession.
 - [Vol.267 如何现场看世界杯并大亏一笔 feat.鹰眼时间](sources/vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145.md) — 商业就是这样 crossover with 鹰眼时间 on 2026 World Cup host-city costs, local sponsorship, fan festivals, high on-site prices, official resale fees, and a $900-plus ticket-loss case.
 - [How to beat the resource curse in Norway (Summer School)](sources/how-to-beat-the-resource-curse-in-norway-summer-school.md) — Planet Money Summer School episode on Norway's oil governance, Farouk Al Qassem, slow extraction, the Norwegian oil fund, social trust, and salmon-sushi market creation in Japan.
@@ -872,6 +873,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sri Narayanan](entities/SriNarayanan.md) — USC professor and SAIL director using machine learning, real-time MRI, speech/vocalization analysis, and behavioral signals for human-centered AI and mental-health research.
+- [Gaurav Sukhatme](entities/GauravSukhatme.md) — Leader of USC's Stevens School for Computing and AI describing project-driven curricula, rapid elective refresh, long-range academic questions, and ethics-centered AI education.
+- [Signal Analysis and Interpretation Lab](entities/SignalAnalysisAndInterpretationLab.md) — Sri Narayanan's USC lab using AI to study vocalization, behavior, neurodevelopment, autism, and early depression biomarkers.
+- [USC Stevens School for Computing and Artificial Intelligence](entities/USCStevensSchoolForComputingAndArtificialIntelligence.md) — USC AI school backed by a $200 million investment to add AI majors, non-STEM minors, campus-wide AI curriculum, and human-centered ethics.
 - [Sweetwater](entities/Sweetwater.md) — Fort Wayne-based musical-instrument and pro-audio retailer built around sales engineers, expert support, service promises, and item-level online guitar trust.
 - [Chuck Surack](entities/ChuckSurack.md) — Sweetwater founder whose path runs from touring saxophonist and mobile recording operator to service-led pro-audio retail builder and chairman.
 - [Sweetwater University](entities/SweetwaterUniversity.md) — Sweetwater's sales-engineer training system for making technical retail advice and customer conversations repeatable.
@@ -5956,6 +5961,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Human-Centered AI Education](concepts/HumanCenteredAIEducation.md) — AI education frame that treats ethics, privacy, bias, agency, and domain collaboration as core curriculum rather than add-ons.
+- [Behavioral Signal Processing](concepts/BehavioralSignalProcessing.md) — AI-supported analysis of speech, vocalization, bodily signals, emotion, context, and identity, with clinical promise and privacy/bias risks.
+- [Academic AI Research Role](concepts/AcademicAIResearchRole.md) — University role in AI centered on long-range questions, interdisciplinary research, public-interest framing, and human-scaled labs alongside industry compute.
+- [Project-Driven AI Curriculum](concepts/ProjectDrivenAICurriculum.md) — Curriculum model using projects and fast-refresh electives to keep AI teaching current while preserving student judgment and ethics.
 - [Service-Led Retail Moat](concepts/ServiceLedRetailMoat.md) — Retail strategy where expert advice, training, warranty, support authority, and fulfillment make service a durable advantage against price-only competition.
 - [Sales Engineer Model](concepts/SalesEngineerModel.md) — Dedicated, technically credible sales-advisor model that turns diagnosis, account memory, and support into retail trust.
 - [Individual-Item Ecommerce](concepts/IndividualItemEcommerce.md) — Online retail pattern where each physical unit is photographed, inspected, described, and matched because buyers care about item-level variation.
