@@ -2595,6 +2595,10 @@
     "title": "AeroShorts",
     "url": "/wiki/entities/aeroshorts/"
   },
+  "AerosolCoolingMasking": {
+    "title": "Aerosol Cooling Masking",
+    "url": "/wiki/concepts/aerosolcoolingmasking/"
+  },
   "Aestudio": {
     "title": "Aestudio",
     "url": "/wiki/entities/aestudio/"
@@ -2942,6 +2946,10 @@
   "Alaska": {
     "title": "Alaska / 阿拉斯加",
     "url": "/wiki/entities/alaska/"
+  },
+  "AlbedoFeedback": {
+    "title": "Albedo Feedback",
+    "url": "/wiki/concepts/albedofeedback/"
   },
   "Albert": {
     "title": "Albert",
@@ -4078,6 +4086,10 @@
   "Argentina": {
     "title": "Argentina",
     "url": "/wiki/entities/argentina/"
+  },
+  "ArgoFloats": {
+    "title": "Argo floats",
+    "url": "/wiki/entities/argofloats/"
   },
   "AriRedbord": {
     "title": "Ari Redbord",
@@ -8139,6 +8151,10 @@
     "title": "Coca-Cola",
     "url": "/wiki/entities/cocacola/"
   },
+  "CocaineRouteDisplacement": {
+    "title": "Cocaine Route Displacement",
+    "url": "/wiki/concepts/cocaineroutedisplacement/"
+  },
   "CockroachMovement": {
     "title": "Cockroach Movement",
     "url": "/wiki/concepts/cockroachmovement/"
@@ -10683,6 +10699,10 @@
     "title": "Domestic Book Printing Flexibility",
     "url": "/wiki/concepts/domesticbookprintingflexibility/"
   },
+  "DomesticLaborDoubleBurden": {
+    "title": "Domestic Labor Double Burden",
+    "url": "/wiki/concepts/domesticlabordoubleburden/"
+  },
   "DomesticNetworkSovereignty": {
     "title": "Domestic Network Sovereignty",
     "url": "/wiki/concepts/domesticnetworksovereignty/"
@@ -11226,6 +11246,10 @@
   "EarningsGrowthAcceleration": {
     "title": "Earnings Growth Acceleration",
     "url": "/wiki/concepts/earningsgrowthacceleration/"
+  },
+  "EarthEnergyImbalance": {
+    "title": "Earth Energy Imbalance",
+    "url": "/wiki/concepts/earthenergyimbalance/"
   },
   "EarthKit": {
     "title": "EarthKit",
@@ -12810,6 +12834,10 @@
   "FemaleBodyFreedom": {
     "title": "Female Body Freedom",
     "url": "/wiki/concepts/femalebodyfreedom/"
+  },
+  "FemaleBreadwinnerNorms": {
+    "title": "Female Breadwinner Norms",
+    "url": "/wiki/concepts/femalebreadwinnernorms/"
   },
   "FemaleCivilizingPower": {
     "title": "Female Civilizing Power",
@@ -15194,6 +15222,10 @@
   "GregRosalsky": {
     "title": "Greg Rosalsky",
     "url": "/wiki/entities/gregrosalsky/"
+  },
+  "GregoryColeman": {
+    "title": "Gregory Coleman",
+    "url": "/wiki/entities/gregorycoleman/"
   },
   "GreshamsLaw": {
     "title": "Gresham's Law / 劣币驱逐良币",
@@ -17650,6 +17682,10 @@
   "InternationalHotel": {
     "title": "International Hotel",
     "url": "/wiki/entities/internationalhotel/"
+  },
+  "InternationalMaritimeOrganization": {
+    "title": "International Maritime Organization",
+    "url": "/wiki/entities/internationalmaritimeorganization/"
   },
   "InternationalMonetaryFund": {
     "title": "International Monetary Fund",
@@ -20835,6 +20871,10 @@
     "title": "Liberalism-Paternalism Boundary",
     "url": "/wiki/concepts/liberalismpaternalismboundary/"
   },
+  "Liberia": {
+    "title": "Liberia",
+    "url": "/wiki/entities/liberia/"
+  },
   "LibertyMedia": {
     "title": "Liberty Media",
     "url": "/wiki/entities/libertymedia/"
@@ -22283,9 +22323,17 @@
     "title": "Marissa Valenzuela",
     "url": "/wiki/entities/marissavalenzuela/"
   },
+  "MaritimeAnalysisAndInformationCentre": {
+    "title": "Maritime Analysis and Information Centre",
+    "url": "/wiki/entities/maritimeanalysisandinformationcentre/"
+  },
   "MaritimeChokepointTolling": {
     "title": "Maritime Chokepoint Tolling",
     "url": "/wiki/concepts/maritimechokepointtolling/"
+  },
+  "MaritimeDrugInterdictionCapacity": {
+    "title": "Maritime Drug Interdiction Capacity",
+    "url": "/wiki/concepts/maritimedruginterdictioncapacity/"
   },
   "Mariupol": {
     "title": "Mariupol / 马里乌波尔",
@@ -23827,6 +23875,10 @@
     "title": "Monopsony By Artifice",
     "url": "/wiki/concepts/monopsonybyartifice/"
   },
+  "Monrovia": {
+    "title": "Monrovia",
+    "url": "/wiki/entities/monrovia/"
+  },
   "MonsoonSeasonalSocialOrder": {
     "title": "Monsoon Seasonal Social Order / 季风季节性社会秩序",
     "url": "/wiki/concepts/monsoonseasonalsocialorder/"
@@ -24302,6 +24354,10 @@
   "Napster": {
     "title": "Napster",
     "url": "/wiki/entities/napster/"
+  },
+  "NarcoStateRisk": {
+    "title": "Narco-State Risk",
+    "url": "/wiki/concepts/narcostaterisk/"
   },
   "NarendraModi": {
     "title": "Narendra Modi",
@@ -25215,6 +25271,10 @@
     "title": "Ocean Engine",
     "url": "/wiki/entities/oceanengine/"
   },
+  "OceanHeatMonitoring": {
+    "title": "Ocean Heat Monitoring",
+    "url": "/wiki/concepts/oceanheatmonitoring/"
+  },
   "OceanMemory": {
     "title": "Ocean Memory",
     "url": "/wiki/concepts/oceanmemory/"
@@ -25823,6 +25883,10 @@
     "title": "奥尔罕·帕慕克 / Orhan Pamuk",
     "url": "/wiki/entities/orhanpamuk/"
   },
+  "OriOgunbiyi": {
+    "title": "Ori Ogunbiyi",
+    "url": "/wiki/entities/oriogunbiyi/"
+  },
   "OrianaFallaci": {
     "title": "Oriana Fallaci / 奥利亚娜·法拉奇",
     "url": "/wiki/entities/orianafallaci/"
@@ -26387,6 +26451,10 @@
     "title": "Paul Buchheit",
     "url": "/wiki/entities/paulbuchheit/"
   },
+  "PaulCrutzen": {
+    "title": "Paul Crutzen",
+    "url": "/wiki/entities/paulcrutzen/"
+  },
   "PaulFreitag": {
     "title": "Paul Freitag",
     "url": "/wiki/entities/paulfreitag/"
@@ -26422,6 +26490,10 @@
   "PaulVixie": {
     "title": "Paul Vixie",
     "url": "/wiki/entities/paulvixie/"
+  },
+  "PauloSilva": {
+    "title": "Paulo Silva",
+    "url": "/wiki/entities/paulosilva/"
   },
   "PayPal": {
     "title": "PayPal",
@@ -29147,6 +29219,10 @@
     "title": "Replit",
     "url": "/wiki/entities/replit/"
   },
+  "ReportedIncomeGenderNorms": {
+    "title": "Reported Income Gender Norms",
+    "url": "/wiki/concepts/reportedincomegendernorms/"
+  },
   "ReporterSourceTrustNetwork": {
     "title": "Reporter-Source Trust Network / 记者与信任网络",
     "url": "/wiki/concepts/reportersourcetrustnetwork/"
@@ -31539,6 +31615,10 @@
     "title": "Siemens EDA / 西门子EDA",
     "url": "/wiki/entities/siemenseda/"
   },
+  "SierraLeone": {
+    "title": "Sierra Leone",
+    "url": "/wiki/entities/sierraleone/"
+  },
   "SigmundFreud": {
     "title": "Sigmund Freud / 西格蒙德·弗洛伊德",
     "url": "/wiki/entities/sigmundfreud/"
@@ -32026,6 +32106,10 @@
   "SolPrice": {
     "title": "Sol Price",
     "url": "/wiki/entities/solprice/"
+  },
+  "SolarGeoengineering": {
+    "title": "Solar Geoengineering",
+    "url": "/wiki/concepts/solargeoengineering/"
   },
   "Solaris": {
     "title": "《索拉里斯星》 / Solaris",
@@ -36751,6 +36835,14 @@
     "title": "Wes Streeting",
     "url": "/wiki/entities/wesstreeting/"
   },
+  "WestAfrica": {
+    "title": "West Africa",
+    "url": "/wiki/entities/westafrica/"
+  },
+  "WestAfricaCocaineTransit": {
+    "title": "West Africa Cocaine Transit",
+    "url": "/wiki/concepts/westafricacocainetransit/"
+  },
   "WestVirginia": {
     "title": "West Virginia",
     "url": "/wiki/entities/westvirginia/"
@@ -40402,6 +40494,10 @@
   "taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7": {
     "title": "Taken littorally: Spain’s sudden crisis in Ceuta",
     "url": "/wiki/sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7/"
+  },
+  "taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760": {
+    "title": "Taking the shine off: albedo and global temperatures",
+    "url": "/wiki/sources/taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760/"
   },
   "tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3": {
     "title": "探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐",

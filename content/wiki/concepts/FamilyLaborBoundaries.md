@@ -2,11 +2,13 @@
 title: "Family Labor Boundaries"
 type: concept
 tags: [family, labor, care, boundaries]
-sources: [ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj, 137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, socialradarsseason1-tracyyoung-final-1]
-last_updated: 2026-08-07
+sources: [taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj, 137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, socialradarsseason1-tracyyoung-final-1]
+last_updated: 2026-08-08
 ---
 
 # Family Labor Boundaries
+
+[[taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760]] adds a married-couple income version through [[DomesticLaborDoubleBurden]]. [[DougDawson]] says high-earning wives can still carry more housework and childcare, so [[FemaleBreadwinnerNorms]] expose whether earning power actually changes household labor boundaries.
 
 Family labor boundaries are the explicit arrangements that keep family help from being treated as free, invisible, or power-neutral care work. In [[da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]], [[XiaoMan]] explains that her parents live with her family in Shenzhen because separate housing is economically difficult, and that she pays her mother for childcare after her mother left cleaning work to help with the child.
 
@@ -28,10 +30,12 @@ The concept connects money, care, and power. Paying a parent does not remove emo
 - Founder availability can depend on explicit home equality, grandparents, and paid childcare; treating that support as invisible can distort the story of what company-building requires.
 - Public childcare and father leave can redraw family labor boundaries by making care a social and workplace responsibility rather than a mother-or-grandparent default.
 - EP247 adds that a woman's new income activity may fail to redraw labor boundaries if she must complete all domestic work first; visible revenue can shift family participation, but it does not automatically create equal authority.
+- The albedo source adds that even a wife becoming the higher earner may not redraw domestic labor boundaries if childcare and housework expectations remain gendered.
 
 ## Connections
 
 - [[RuralWomenLivestreaming]], [[FamilyBasedEmotionalMotivation]], [[CountyPlatformLabor]], and [[CompressedModernityGenderTransition]] - rural livestreaming and county platform-work extension added by EP247.
+- [[FemaleBreadwinnerNorms]], [[DomesticLaborDoubleBurden]], [[ReportedIncomeGenderNorms]], and [[GenderPowerAndUncertaintyCost]] - married-couple income and care-work branch added by The Intelligence.
 - [[XiaoMan]] — source case.
 - [[ToolRationalitySpillover]] — boundary warning around importing work logic into family.
 - [[FinancialFreedomVsLifestyleFreedom]] — adjacent autonomy and cost-of-life frame.

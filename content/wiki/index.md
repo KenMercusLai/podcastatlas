@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Taking the shine off: albedo and global temperatures](sources/taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760.md) — The Intelligence episode on falling planetary reflectivity, West Africa cocaine routing, and female-breadwinner norms in American couples.
 - [Sand heists and property rights in the Caribbean (Summer School)](sources/sand-heists-and-property-rights-in-the-caribbean-summer-school.md) — Planet Money Summer School episode on Caribbean small-economy vulnerability, Barbuda communal land rights, property-title reform after Hurricane Irma, Jamaica's stolen beach, sand scarcity, tourism externalities, and free-trade lessons.
 - [E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”](sources/e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668.md) — 硅谷101 episode with Sheng Ying on SGLang, xAI inference work, Redix ARK, AI infrastructure as product, Radix Attention, LM-SYS, open source, and AI democratization.
 - [176.纽约一年：一个悲观主义者的活法｜725沙龙实录](sources/176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah.md) — 起朱楼宴宾客 live 725沙龙 episode with David Weng and Ouyang Bin on New York as a salad-like city, U.S./Japan/China time sense, globalization split, overseas Chinese opportunity, content creation, AI entry-level pressure, and uncertainty-era asset/life optionality.
@@ -909,6 +910,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Paul Crutzen](entities/PaulCrutzen.md) — Scientist referenced for the 2006 sulphate-aerosol solar geoengineering proposal.
+- [International Maritime Organization](entities/InternationalMaritimeOrganization.md) — Shipping regulator whose 2020 sulphur rules are tied to reduced aerosol reflectivity in the source.
+- [Argo floats](entities/ArgoFloats.md) — Ocean-observation floats used as independent confirmation of satellite-measured Earth energy imbalance.
+- [West Africa](entities/WestAfrica.md) — Regional cocaine-transit corridor between South American production and European demand.
+- [Liberia](entities/Liberia.md) — West African transit-country case centered on a major cocaine seizure and law-enforcement credibility.
+- [Monrovia](entities/Monrovia.md) — Liberian capital used as the public-crackdown and seizure-geography anchor.
+- [Sierra Leone](entities/SierraLeone.md) — Earlier trafficking scrutiny case whose pressure displaced routes toward Liberia and Ghana.
+- [Ori Ogunbiyi](entities/OriOgunbiyi.md) — The Intelligence participant explaining West Africa cocaine routes and enforcement gaps.
+- [Paulo Silva](entities/PauloSilva.md) — Maritime enforcement speaker warning that cocaine transit can corrupt state systems.
+- [Maritime Analysis and Information Centre](entities/MaritimeAnalysisAndInformationCentre.md) — EU-linked maritime analysis body named in the cocaine-route segment.
+- [Gregory Coleman](entities/GregoryColeman.md) — Liberian police inspector-general discussing low public trust and cartel-network dismantling.
 - [Barbuda](entities/Barbuda.md) — Caribbean island case where communal land tenure, Hurricane Irma recovery, title conversion, and development control collide.
 - [Antigua and Barbuda](entities/AntiguaAndBarbuda.md) — State context for Barbuda's post-Irma land-title dispute and small-island development pressure.
 - [Jamaica](entities/Jamaica.md) — Caribbean country case for Damian King's policy framing and the stolen-beach sand-scarcity story.
@@ -6210,6 +6222,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Albedo Feedback](concepts/AlbedoFeedback.md) — Climate loop where reduced clouds, ice, or aerosols lower reflectivity and increase absorbed heat.
+- [Earth Energy Imbalance](concepts/EarthEnergyImbalance.md) — Planetary heat-budget measure of energy absorbed versus emitted, measured by satellites and ocean heat.
+- [Aerosol Cooling Masking](concepts/AerosolCoolingMasking.md) — Public-health and climate tension where sulphur pollution cools by reflecting sunlight but harms people.
+- [Ocean Heat Monitoring](concepts/OceanHeatMonitoring.md) — Ocean measurement layer that verifies the planetary energy imbalance because oceans store most excess heat.
+- [Solar Geoengineering](concepts/SolarGeoengineering.md) — Deliberate reflectivity intervention discussed through Paul Crutzen's sulphate-aerosol proposal.
+- [West Africa Cocaine Transit](concepts/WestAfricaCocaineTransit.md) — Cocaine logistics route using West Africa as a repackaging and maritime transfer hub toward Europe.
+- [Cocaine Route Displacement](concepts/CocaineRouteDisplacement.md) — Pattern where enforcement pressure shifts trafficking routes to new ports, countries, and departure points.
+- [Maritime Drug Interdiction Capacity](concepts/MaritimeDrugInterdictionCapacity.md) — State ability to detect and stop drug shipments across ports, borders, and fast-boat routes.
+- [Narco-State Risk](concepts/NarcoStateRisk.md) — Risk that repeated drug flows corrupt institutions enough for traffickers to shape state behavior.
+- [Female Breadwinner Norms](concepts/FemaleBreadwinnerNorms.md) — Social norms and relationship strains around wives out-earning husbands.
+- [Reported Income Gender Norms](concepts/ReportedIncomeGenderNorms.md) — Data-pattern concept where reported household income changes near the wife-earns-more threshold.
+- [Domestic Labor Double Burden](concepts/DomesticLaborDoubleBurden.md) — Strain when high-earning wives still carry disproportionate housework and childcare.
 - [Small Open Economy Vulnerability](concepts/SmallOpenEconomyVulnerability.md) — Caribbean frame where hurricanes, oil prices, debt, rates, and tourism exposure shape investment and state capacity.
 - [Communal Land Tenure](concepts/CommunalLandTenure.md) — Barbuda land institution where collective use and control operate as property rather than no-property.
 - [Barbuda Land Act](concepts/BarbudaLandAct.md) — 2007 law formalizing Barbuda's communal land ownership before later title-conversion conflict.
