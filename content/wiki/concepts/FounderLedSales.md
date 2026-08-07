@@ -2,8 +2,8 @@
 title: "Founder-Led Sales"
 type: concept
 tags: [startups, enterprise-sales, b2b]
-sources: [tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7]
-last_updated: 2026-07-25
+sources: [tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, stuck-at-50k-arr-for-5-years-now-1-5m-with-ai-agents]
+last_updated: 2026-08-07
 ---
 
 # Founder-Led Sales
@@ -24,6 +24,8 @@ The source connects the concept back to [[AeroFS]]. Sagalov closed large enterpr
 
 [[tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly]] adds a later-stage version through [[KashishGupta]] at [[Hightouch]]. Gupta says he managed sales directly while learning how to hire a chief revenue officer, then used frontline qualitative signals to double sales headcount before historical metrics fully proved the move. The case shows founder-led sales becoming a source of [[FounderRiskTaking]] after the company already has a larger team.
 
+[[stuck-at-50k-arr-for-5-years-now-1-5m-with-ai-agents]] adds [[GeorgeGeorgiadis]] at [[Happierleads]] as a solo-founder correction case. George says he spent too much time building and too little time selling, then later treated sales coaching as the best money he spent because it improved customer-pain discovery, offer design, website messaging, and [[OutboundEmailGrowthEngine|outbound email]] execution.
+
 ## Key Claims
 - Early B2B founders should learn sales directly before delegating the market conversation.
 - Founder-led sales turns objections, reference checks, procurement friction, and trust concerns into product evidence.
@@ -35,6 +37,7 @@ The source connects the concept back to [[AeroFS]]. Sagalov closed large enterpr
 - At scale, direct founder exposure to sales can reveal qualitative demand before lagging metrics fully capture it.
 - Coaching can make founder-led sales more effective when it turns technical demo habits into business-pain diagnosis.
 - Founder-led sales can change pricing confidence when customers value the operational job more highly than the founder values the code artifact.
+- Solo technical founders may need sales learning before more engineering because an AI-heavy operating stack still needs customers, positioning, and conversion.
 
 ## Connections
 - [[YuriSagalov]], [[WayfinderVentures]], and [[AeroFS]] - source case.
@@ -46,3 +49,4 @@ The source connects the concept back to [[AeroFS]]. Sagalov closed large enterpr
 - [[PeterReinhardt]], [[Segment]], [[ChrisSurdean]], [[RafaelParker]], [[NatFriedman]], and [[Xamarin]] - pricing and discovery case added by the Peter Reinhardt episode.
 - [[SahilLavingia]], [[Gumroad]], [[Patreon]], [[OnePersonCompany]], and [[TrustAsBusinessAsset]] — AI-era creator-tool case where sales and story remain scarce.
 - [[KashishGupta]], [[Hightouch]], [[CustomerEvidenceStrategy]], [[EnterpriseFirstProductFit]], and [[FounderRiskTaking]] - enterprise SaaS sales-capacity case added by the Kashish Gupta episode.
+- [[GeorgeGeorgiadis]], [[Happierleads]], [[OutboundEmailGrowthEngine]], and [[SalesAsLearnableSkill]] - solo-SaaS sales-learning case added by The SaaS Podcast.

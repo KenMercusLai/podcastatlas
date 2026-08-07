@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Stuck at $50K ARR for 5 Years. Now $1.5M With AI Agents.](sources/stuck-at-50k-arr-for-5-years-now-1-5m-with-ai-agents.md) — The SaaS Podcast episode with George Georgiadis on Happierleads' five-year $50K ARR plateau, AppSumo tradeoffs, outbound email growth, an internal AI operating system, and the limits of one-person AI-operated SaaS.
 - [A modern-day odyssey through AI chatbot hellscape](sources/tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128.md) — Marketplace Tech episode with Dylan Thompson on a missing $1,700 e-bike, chatbot-first customer service, automated claims loops, consumer preference for human help, and AI as a new face of service sludge.
 - [For bucks' sake: the rise of self-made billionaires](sources/for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95.md) — The Intelligence episode on competitive billionaire wealth, wealth-tax legitimacy, Cambodia's scam-compound crackdown, Chen Zhi sanctions, and Larry the Cat as political image satire.
 - [Advice Line with Curt Richardson of OtterBox](sources/advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773.md) — How I Built This Advice Line episode with Curt Richardson on OtterBox focus, Mr. Game Show Florida's host-dependent scaling, Gilded Coach Teas' retention-led restart, and Everloop's circular baby-gear buyback and measured channel tests.
@@ -857,6 +858,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [George Georgiadis](entities/GeorgeGeorgiadis.md) — Happierleads founder who moved from a long $50K ARR plateau to about $1.5M ARR with no employees, while later warning that solo AI operation remains founder-dependent.
+- [Happierleads](entities/Happierleads.md) — Bootstrapped visitor-identification SaaS that qualifies anonymous website visitors with AI and can move qualified accounts into email campaigns.
+- [AppSumo](entities/AppSumo.md) — Startup-deal marketplace used by Happierleads for early cash, feedback, and users, with lifetime-deal support obligations as the central tradeoff.
+- [Clearbit](entities/Clearbit.md) — B2B data and lead-identification company used in the Happierleads source as the expensive reference point that motivated a cheaper workflow-specific product.
 - [Dylan Thompson](entities/DylanThompson.md) — Wired writer whose missing e-bike case grounds Marketplace Tech's discussion of AI-enabled customer-service sludge.
 - [FedEx](entities/FedEx.md) — Delivery company named in the missing e-bike case, where automated claims handling illustrates customer-service sludge.
 - [Callum Williams](entities/CallumWilliams.md) — The Intelligence participant explaining the episode's competitive versus rent-linked billionaire-wealth taxonomy.
@@ -5872,6 +5877,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Anonymous Visitor Identification](concepts/AnonymousVisitorIdentification.md) — B2B SaaS workflow of identifying company visitors before form fill and turning that signal into qualified sales follow-up.
+- [AppSumo Lifetime Deal Tradeoff](concepts/AppSumoLifetimeDealTradeoff.md) — SaaS bootstrapping pattern where discounted permanent access brings early cash and feedback but can create long-tail support and hosting obligations.
+- [Outbound Email Growth Engine](concepts/OutboundEmailGrowthEngine.md) — Repeatable acquisition channel built from precise ICP targeting, deliverability, infrastructure warmup, concise copy, and conversion discipline.
+- [AI Internal Operating System](concepts/AIInternalOperatingSystem.md) — Company-specific AI layer connecting support, CRM, customer behavior, documentation, KPIs, logs, and code context for business operation.
+- [SaaS Product Scope Debt](concepts/SaaSProductScopeDebt.md) — Cost of building broad end-to-end SaaS scope before sales, support, and cash flow can sustain it, with possible delayed differentiation if the company survives.
 - [Customer Service Sludge](concepts/CustomerServiceSludge.md) — Customer-service friction pattern where chatbots, phone bots, and automated claims systems can delay or deter accountable human help.
 - [Competitive Billionaire Wealth](concepts/CompetitiveBillionaireWealth.md) — Distinction between billionaire fortunes built through competitive goods and services versus inheritance, restricted resources, or political favor.
 - [Wealth Tax Legitimacy](concepts/WealthTaxLegitimacy.md) — Framework separating political-power, justice, and economic-cost arguments for taxing large fortunes.

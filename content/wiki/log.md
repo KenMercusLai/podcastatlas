@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-07] ingest | Stuck at $50K ARR for 5 Years. Now $1.5M With AI Agents.
+
+Added source page for a The SaaS Podcast episode with George Georgiadis on Happierleads' move from a five-year $50K ARR plateau to about $1.5M ARR with no employees, using AppSumo early traction, deeper outbound email, sales coaching, and a founder-built AI internal operating system for support, CRM, behavior analysis, monitoring, and bug diagnosis. Created pages for George Georgiadis, Happierleads, AppSumo, Clearbit, Anonymous Visitor Identification, AppSumo Lifetime Deal Tradeoff, Outbound Email Growth Engine, AI Internal Operating System, and SaaS Product Scope Debt; updated overview, index, The SaaS Podcast, Omer Khan, One-Person Company, AI As Business Operator, Customer Support Automation, Founder-Led Sales, Sales As Learnable Skill, Founder Cash Flow Constraint, and Feature Creep. No direct contradiction found; the source qualifies one-person-company optimism by showing real solo AI leverage alongside sales, support, product-scope, cash-flow, hiring, and exitability limits.
+
 ## [2026-08-07] ingest | New NPR Series: "We Keep Us Safe" from the Embedded podcast
 
 Added source page for a Planet Money trailer handoff where Kenny Malone introduces NPR Embedded's We Keep Us Safe investigation into CHOP, the death of 16-year-old Antonio Mays Jr., armed protest-zone security, rumor, witnesses, new evidence, and the unresolved question of how a space built to protect Black life ended with a Black teenager dead. Created pages for Embedded podcast, We Keep Us Safe, Capitol Hill Organized Protest (CHOP), Antonio Mays Jr., Will James, Sydney Brounstone, The Seattle Times, KUOW, Police-Free Protest Space, Armed Protest-Zone Security, and Safety Ideal Fatal Contradiction; updated overview, index, NPR, Planet Money, Kenny Malone, and Black Lives Matter. No direct contradiction found; the trailer is kept source-scoped because it frames the investigation and evidence questions without resolving responsibility.
@@ -6865,6 +6869,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] ingest | For bucks' sake: the rise of self-made billionaires
 
 Added source page for a The Intelligence episode on competitive billionaire wealth, wealth-tax legitimacy, Cambodia's scam-compound crackdown, Chen Zhi sanctions and extradition pressure, and Larry the Cat as political image satire. Created pages for Callum Williams, Su-Lin Wong, Chen Zhi, Hun Sen, Hui Wan Group, Larry the Cat, 10 Downing Street, Amnesty International, Competitive Billionaire Wealth, Wealth Tax Legitimacy, Scam Compound Political Protection, and Political Image Maintenance; updated overview, index, The Intelligence, Economist Podcasts, Rosie Bloor, Cambodia, Pig Butchering Scam, and Social Engineering Fraud. No direct contradiction found; the episode's U.S. top-wealth effective-tax-rate claim is recorded as source-scoped and flagged as a tension, not a contradiction, with the existing Malta tax-loophole source.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 
