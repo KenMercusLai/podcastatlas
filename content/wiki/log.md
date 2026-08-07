@@ -6394,6 +6394,10 @@ Added source page for a Talk三联 episode with 高一丁 and 苗伟 on 徐光�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-07] ingest | No.211 徽商往事：从前世不修到最牛风投
+
+Added source page for a Banlatte episode connecting Huizhou merchants, Lianghuai salt permits, lineage capital, Jiang Chun, salt-commerce risk, USTC's Hefei relocation, Wuhu's Chery case, BOE, ChangXin Memory, NIO, and Hefei's production-investment model. Created pages for Huizhou Prefecture, Huizhou Merchants, Jiang Chun, Hefei, Wuhu, USTC, Chery, BOE Technology, NIO, Lianghuai Salt Monopoly, Salt Permit License Crisis, Lineage Commercial Capital, Hefei Industrial Investment Model, and Production Investment City; updated Banlatte, Anhui, ChangXin Memory, Merchant To Industrial City Upgrade, Strategic Industrial Policy, and Automobile City Path Dependence. No direct contradiction found; source-dated industrial output, IPO, and company-performance claims are recorded as episode claims rather than independently verified current market facts.
+
 ## [2026-08-07] lint | Current-graph lint report returned in session
 
 Reran lint after the graph refresh so graph-aware counts use the current generated graph. Lint scanned 9,679 wiki pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Current graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; bounded fallback review found no hard unresolved contradiction, while retaining follow-ups for `MidJourney.md` / `Midjourney.md` casing duplication, `ProjectGlasswing` / `ProjectGlassfin` naming ambiguity, source-scoped `FigureAI` autonomy claims, and the `+-` formatting artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. No `wiki/lint-report.md` file was saved.
@@ -6821,6 +6825,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Current-graph lint report returned in session
 
 Reran lint after the graph refresh so graph-aware counts use the current generated graph. Lint scanned 9,679 wiki pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Current graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; bounded fallback review found no hard unresolved contradiction, while retaining follow-ups for `MidJourney.md` / `Midjourney.md` casing duplication, `ProjectGlasswing` / `ProjectGlassfin` naming ambiguity, source-scoped `FigureAI` autonomy claims, and the `+-` formatting artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 

@@ -4295,6 +4295,10 @@
     "title": "BN Builders",
     "url": "/wiki/entities/bnbuilders/"
   },
+  "BOETechnology": {
+    "title": "BOE Technology / 京东方",
+    "url": "/wiki/entities/boetechnology/"
+  },
   "BP": {
     "title": "BP",
     "url": "/wiki/entities/bp/"
@@ -6706,6 +6710,10 @@
   "ChernobylNuclearPowerPlant": {
     "title": "Chernobyl Nuclear Power Plant",
     "url": "/wiki/entities/chernobylnuclearpowerplant/"
+  },
+  "Chery": {
+    "title": "Chery / 奇瑞",
+    "url": "/wiki/entities/chery/"
   },
   "CheshireCat": {
     "title": "Cheshire Cat / 柴郡猫",
@@ -14907,6 +14915,14 @@
     "title": "Hector",
     "url": "/wiki/entities/hector/"
   },
+  "Hefei": {
+    "title": "Hefei / 合肥",
+    "url": "/wiki/entities/hefei/"
+  },
+  "HefeiIndustrialInvestmentModel": {
+    "title": "Hefei Industrial Investment Model / 合肥模式",
+    "url": "/wiki/concepts/hefeiindustrialinvestmentmodel/"
+  },
   "HeidiLewis": {
     "title": "Heidi Lewis",
     "url": "/wiki/entities/heidilewis/"
@@ -15734,6 +15750,14 @@
   "Huizhou": {
     "title": "惠州 / Huizhou",
     "url": "/wiki/entities/huizhou/"
+  },
+  "HuizhouMerchants": {
+    "title": "Huizhou Merchants / 徽商",
+    "url": "/wiki/entities/huizhoumerchants/"
+  },
+  "HuizhouPrefecture": {
+    "title": "Huizhou Prefecture / 徽州",
+    "url": "/wiki/entities/huizhouprefecture/"
   },
   "HumanAgencyUnderAI": {
     "title": "Human Agency Under AI",
@@ -17430,6 +17454,10 @@
   "JiaguwenDeGushi": {
     "title": "《甲骨文的故事》",
     "url": "/wiki/entities/jiaguwendegushi/"
+  },
+  "JiangChun": {
+    "title": "Jiang Chun / 江春",
+    "url": "/wiki/entities/jiangchun/"
   },
   "JiangHuCongTan": {
     "title": "《江湖丛谈》 / Jianghu Congtan",
@@ -19455,6 +19483,10 @@
     "title": "梁羽生 / Liang Yusheng",
     "url": "/wiki/entities/liangyusheng/"
   },
+  "LianghuaiSaltMonopoly": {
+    "title": "Lianghuai Salt Monopoly / 两淮盐业专卖",
+    "url": "/wiki/concepts/lianghuaisaltmonopoly/"
+  },
   "LiaoJieyuan": {
     "title": "廖杰远",
     "url": "/wiki/entities/liaojieyuan/"
@@ -19602,6 +19634,10 @@
   "LineIncenseDailyLife": {
     "title": "Line Incense Daily Life / 线香日常化",
     "url": "/wiki/concepts/lineincensedailylife/"
+  },
+  "LineageCommercialCapital": {
+    "title": "Lineage Commercial Capital",
+    "url": "/wiki/concepts/lineagecommercialcapital/"
   },
   "Lingguan": {
     "title": "龄官 / Lingguan",
@@ -22630,6 +22666,10 @@
   "NHS": {
     "title": "NHS",
     "url": "/wiki/entities/nhs/"
+  },
+  "NIO": {
+    "title": "NIO / 蔚来",
+    "url": "/wiki/entities/nio/"
   },
   "NISA": {
     "title": "NISA",
@@ -26011,6 +26051,10 @@
     "title": "Product Vision Drift",
     "url": "/wiki/concepts/productvisiondrift/"
   },
+  "ProductionInvestmentCity": {
+    "title": "Production Investment City / 产投城市",
+    "url": "/wiki/concepts/productioninvestmentcity/"
+  },
   "ProductionQuotaDiscipline": {
     "title": "Production Quota Discipline",
     "url": "/wiki/concepts/productionquotadiscipline/"
@@ -28290,6 +28334,10 @@
   "SalmonTroutLabelTransparency": {
     "title": "Salmon-Trout Label Transparency / 鲑鳟商品名透明",
     "url": "/wiki/concepts/salmontroutlabeltransparency/"
+  },
+  "SaltPermitLicenseCrisis": {
+    "title": "Salt Permit License Crisis",
+    "url": "/wiki/concepts/saltpermitlicensecrisis/"
   },
   "SamAltman": {
     "title": "Sam Altman",
@@ -33379,6 +33427,10 @@
     "title": "University of San Francisco",
     "url": "/wiki/entities/universityofsanfrancisco/"
   },
+  "UniversityOfScienceAndTechnologyOfChina": {
+    "title": "University of Science and Technology of China / 中国科学技术大学",
+    "url": "/wiki/entities/universityofscienceandtechnologyofchina/"
+  },
   "UniversityOfSouthernCalifornia": {
     "title": "University of Southern California",
     "url": "/wiki/entities/universityofsoutherncalifornia/"
@@ -34950,6 +35002,10 @@
   "WuhanErchangSoda": {
     "title": "Wuhan Erchang Soda / 武汉二厂汽水",
     "url": "/wiki/entities/wuhanerchangsoda/"
+  },
+  "Wuhu": {
+    "title": "Wuhu / 芜湖",
+    "url": "/wiki/entities/wuhu/"
   },
   "WumingXianjing": {
     "title": "《污名陷阱》",
@@ -37474,6 +37530,10 @@
   "no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027": {
     "title": "No.210 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 | 中国互联网故事24",
     "url": "/wiki/sources/no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027/"
+  },
+  "no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189": {
+    "title": "No.211 徽商往事：从前世不修到最牛风投",
+    "url": "/wiki/sources/no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189/"
   },
   "opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1": {
     "title": "OPC 的真正难题，是 AI 还没学会替你把东西卖出去",

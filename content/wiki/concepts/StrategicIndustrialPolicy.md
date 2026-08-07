@@ -2,7 +2,7 @@
 title: "Strategic Industrial Policy"
 type: concept
 tags: [industrial-policy, manufacturing, technology, trade]
-sources: [vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, no-201-zhongguo-gaotie-jianshi-976314772, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong]
+sources: [vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, no-201-zhongguo-gaotie-jianshi-976314772, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189]
 last_updated: 2026-08-06
 ---
 
@@ -18,6 +18,8 @@ The concept is not simply protection. The episode allows that temporary barriers
 
 [[vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw]] adds a Japanese path-dependence caution. Postwar bureaucratic coordination and large-firm alliances helped known manufacturing sectors, but the episode argues that the same model can become rigid when software, internet, AI, and startups need faster experimentation and more failure tolerance.
 
+[[no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189]] adds a Chinese city-level investment case through [[Hefei]]. The source treats [[BOETechnology]], [[ChangXinMemory]], and [[NIO]] as examples of local public capital taking early risk in hard-tech sectors, while failed bets in plasma display, powertrain, solar, and EV projects keep [[HefeiIndustrialInvestmentModel]] inside the concept's risk boundary.
+
 ## Key Claims
 - Industrial policy should target future productive capacity, not only restore old labor-intensive work.
 - Temporary protection is weaker without domestic investment, skills, infrastructure, and firm capability.
@@ -27,6 +29,7 @@ The concept is not simply protection. The episode allows that temporary barriers
 - The rare-earth source shows why targeted industrial policy may need to protect entrants from both [[RareEarthExportLeverage]] and [[DominantProducerPriceDiscipline]], not only from import competition.
 - The high-speed-rail source shows that procurement can build capability only when transfer is followed by testing, component substitution, redesign, and standardization.
 - The vol.125 source adds that a historically successful industrial-policy style can become [[JapaneseIndustrialPolicyPathDependence]] when frontier industries require less centralized, more experimental organization.
+- The Hefei source adds that city-level industrial policy must be judged at the portfolio and cluster level, not only by whether one public investment quickly exits with a profit.
 
 ## Connections
 - [[UnitedStates]], [[China]], and [[ChinaShock]] - strategic and historical context.
@@ -36,3 +39,4 @@ The concept is not simply protection. The episode allows that temporary barriers
 - [[StateBackedRareEarthRebuilding]], [[MPMaterials]], [[NioCorp]], and [[MountainPassRareEarthMine]] - rare-earth industrial-policy branch added by Planet Money.
 - [[ChineseHighSpeedRail]], [[MinistryOfRailwaysChina]], [[ProcurementLedTechnologyTransfer]], [[HighSpeedRailSystemIntegration]], and [[ChineseStandardEMU]] - high-speed-rail industrial-policy branch added by Banlatte.
 - [[Japan]], [[JapaneseIndustrialPolicyPathDependence]], [[JapaneseInnovationRetreat]], and [[JapaneseGalapagosization]] - vol.125's industrial-policy constraint branch.
+- [[Hefei]], [[HefeiIndustrialInvestmentModel]], [[ProductionInvestmentCity]], [[BOETechnology]], [[ChangXinMemory]], and [[NIO]] - city-level industrial-investment branch added by Banlatte episode 211.

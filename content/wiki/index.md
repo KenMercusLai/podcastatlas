@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.211 徽商往事：从前世不修到最牛风投](sources/no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189.md) — Banlatte episode connecting Huizhou merchants, Lianghuai salt permits, Jiang Chun, and lineage capital to modern Hefei industrial investment in USTC, Chery, BOE, ChangXin Memory, NIO, and new-energy vehicles.
 - [百万个景观社会：听说你也想当主播？](sources/baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy.md) — 面基 episode with 田峰 and 中国社科院 students on talent group livestreaming, guild industrialization, real-time data labor, platform compliance, social production of beauty, and fieldwork in Chengdu and Changsha livestream guilds.
 - [Kyiv brawl: Ukraine's top general fired](sources/kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165.md) — The Intelligence episode on Ukraine's wartime command reshuffle, Fedorov-Syrskyi reform conflict, Albuquerque police killings, and Japan's stigmatized incident-property market.
 - [快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频](sources/kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13.md) — Shizilukou Crossing episode with Zhang Jintao of Shengshu Technology on Vidu S1, SAGE Attention, TurboDiffusion, streaming video generation, real-time interactive video, and the inference acceleration stack needed for live visual sessions.
@@ -851,6 +852,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Hefei / 合肥](entities/Hefei.md) — Anhui city framed as a production-investment center around USTC, BOE, ChangXin Memory, NIO, and new-energy-vehicle clustering.
+- [Wuhu / 芜湖](entities/Wuhu.md) — Anhui city whose Chery case shows local-government-backed carmaking before the later Hefei industrial-investment story.
+- [Huizhou Prefecture / 徽州](entities/HuizhouPrefecture.md) — Historical region behind the old Huizhou merchant identity, distinct from modern Guangdong Huizhou.
+- [Huizhou Merchants / 徽商](entities/HuizhouMerchants.md) — Historical merchant community built from Huizhou outmigration, lineage capital, Jiangnan markets, and the Lianghuai salt monopoly.
+- [Jiang Chun / 江春](entities/JiangChun.md) — Qing Huizhou salt merchant and total-merchant figure illustrating salt wealth, fiscal mediation, cultural patronage, and political exposure.
+- [University of Science and Technology of China / 中国科学技术大学](entities/UniversityOfScienceAndTechnologyOfChina.md) — Scientific and talent base that the episode treats as a long-run foundation for Hefei's hard-tech industrial strategy.
+- [Chery / 奇瑞](entities/Chery.md) — Wuhu-based automaker used as an early Anhui carmaking and local industrial-upgrading case.
+- [BOE Technology / 京东方](entities/BOETechnology.md) — Display-panel company whose Hefei 6th-generation LCD line anchors the classic Hefei industrial-investment case.
+- [NIO / 蔚来](entities/NIO.md) — Electric-vehicle company whose 2020 Hefei rescue-and-investment deal became a visible new-energy-vehicle cluster case.
 - [田峰 / Tian Feng](entities/TianFeng.md) — 中国社科院 researcher explaining talent group livestreaming as guild-backed labor, real-time data, compliance, aesthetic production, and fieldwork evidence.
 - [Chinese Academy of Social Sciences / 中国社会科学院](entities/ChineseAcademyOfSocialSciences.md) — Research-institution context for Tian Feng and student fieldwork on talent group livestreaming.
 - [Changsha / 长沙](entities/Changsha.md) — Fieldwork city and entertainment-labor setting for talent group livestreaming guilds in the 面基 episode.
@@ -1096,7 +1106,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [鹅肝 / Foie Gras](entities/FoieGras.md) — Fatty luxury-food case in EP260 connecting Chinese production, restaurant and prepared formats, farmer income, force-feeding, disease, and animal-welfare tradeoffs.
 - [广东 / Guangdong](entities/Guangdong.md) — Province added through EP260 as a major eel-production and processing node, especially around Taishan and Shunde.
 - [龙羊峡 / Longyangxia](entities/Longyangxia.md) — Highland cold-water trout case in EP260 where reservoir conditions, parasite testing, feed, and fast logistics support domestic rainbow trout.
-- [安徽 / Anhui](entities/Anhui.md) — Foie gras production-region case in EP260, with Huoqiu showing dispersed goose raising, veterinary risk, and processing coordination.
+- [安徽 / Anhui](entities/Anhui.md) — Province linked to both foie gras production networks and Banlatte's Huizhou-to-Hefei industrial-policy arc.
 - [徐光启 / Xu Guangqi](entities/XuGuangqi.md) — Late-Ming official and learner who anchors EP259's geometry, agriculture, calendar reform, artillery, and intellectual-life branches.
 - [苗伟 / Miao Wei](entities/MiaoWeiSanlian.md) — Sanlian writer and EP259 guest explaining Xu Guangqi as a model of active intellectual life and science-history communication.
 - [利玛窦 / Matteo Ricci](entities/MatteoRicci.md) — Jesuit missionary whose maps, geometry teaching, and elite strategy make late-Ming Western learning concrete in EP259.
@@ -4901,7 +4911,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mastercard](entities/Mastercard.md) — Payment-network company named as part of the broader industry move toward agent-enabled commerce and payment.
 - [SanDisk](entities/SanDisk.md) — Storage company tied in S10E13 to High Bandwidth Flash as a NAND-derived AI memory direction.
 - [Cerebras](entities/Cerebras.md) — AI-chip company discussed through wafer-scale, SRAM-rich inference hardware as a differentiated but limited GPU alternative.
-- [ChangXin Memory / 长鑫存储](entities/ChangXinMemory.md) — Chinese DRAM company discussed as a domestic memory-capacity and possible HBM supplier signal.
+- [ChangXin Memory / 长鑫存储](entities/ChangXinMemory.md) — Chinese DRAM company discussed as both a domestic memory-capacity signal and a Hefei industrial-investment case.
 - [Yangtze Memory Technologies / 长江存储](entities/YangtzeMemoryTechnologies.md) — Chinese NAND company discussed as the domestic NAND-side counterpart to ChangXin Memory.
 - [Yu Yi](entities/YuYi.md) — AI-first practitioner in S10E18 framing agents as partners while keeping red lines around money, deletion, protocol changes, and reputation.
 - [Amazon Web Services](entities/AmazonWebServices.md) — AWS cloud and startup-support context for the From Idea to Frontier OPC accelerator discussed in S10E18.
@@ -5828,6 +5838,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Hefei Industrial Investment Model / 合肥模式](concepts/HefeiIndustrialInvestmentModel.md) — Local-government industrial-capital model using equity, credit, land, infrastructure, and science talent to build hard-tech clusters.
+- [Production Investment City / 产投城市](concepts/ProductionInvestmentCity.md) — City-development frame that prioritizes production capacity, clusters, jobs, and strategic positioning over pure venture-capital return.
+- [Lianghuai Salt Monopoly / 两淮盐业专卖](concepts/LianghuaiSaltMonopoly.md) — Ming-Qing salt-license system that made Huizhou salt merchants wealthy while tying them to state fiscal risk.
+- [Salt Permit License Crisis](concepts/SaltPermitLicenseCrisis.md) — Pattern where overissued salt permits and later registry reform converted fiscal debt into scarce operating licenses.
+- [Lineage Commercial Capital](concepts/LineageCommercialCapital.md) — Kinship, hometown trust, apprenticeship, contracts, and pooled money as commercial infrastructure for long-distance trade.
 - [Talent Group Livestreaming / 才艺团播](concepts/TalentGroupLivestreaming.md) — 面基 concept for staged group livestreaming as performance, live chat, camera, host, operations, data, styling, and compliance work.
 - [Livestream Guild Industrialization / 直播公会工业化](concepts/LivestreamGuildIndustrialization.md) — Shift from individual livestreaming toward guild recruitment, training, styling, operations, staging, review, and organizational risk.
 - [Real-Time Livestream Labor / 实时数据直播劳动](concepts/RealTimeLivestreamLabor.md) — Live performance and operations shaped by second-level data, host decisions, fan recognition, camera awareness, and post-session review.
