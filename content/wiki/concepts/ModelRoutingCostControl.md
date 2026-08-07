@@ -2,8 +2,8 @@
 title: "Model Routing Cost Control"
 type: concept
 tags: [ai, economics, infrastructure]
-sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
-last_updated: 2026-07-07
+sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
+last_updated: 2026-08-07
 ---
 
 # Model Routing Cost Control
@@ -18,6 +18,8 @@ The concept is the user- and product-workflow version of the serving-side routin
 
 [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds a concrete [[OpenClaw]] operating case. The host reports that remote high-end model calls could become expensive very quickly, then moved some usage toward a [[Kimi]] Code-style monthly plan while keeping local models for lower-level tasks such as speech recognition or vectorization. The routing decision is therefore tied to both cost and task risk.
 
+[[ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]] adds the deployed-product version through [[TopModelBuildRuntimeSplit]]. The hosts argue that mature AI products should first classify intent and task complexity, then choose a model or tool path: a podcast agent may route outline writing, background research, fact checking, and simple intent recognition differently. The strongest model can still be worth using for tool creation, hard coding, and unknown problems, but the runtime service should not default every request to the most expensive model.
+
 ## Key Claims
 - High-end models can be necessary for hard tasks, but defaulting to them for every step wastes scarce token budget.
 - The useful router must consider task risk: brainstorming, summarization, execution, code review, release checks, and product judgment have different failure costs.
@@ -27,6 +29,7 @@ The concept is the user- and product-workflow version of the serving-side routin
 - The router can include non-model options: local scripts, conventional software, and cheaper infrastructure may be better than asking a model to regenerate stable operations.
 - Routing should account for model behavior style, not only price: a model that is cheaper or faster can still be expensive if it creates more review or repair work.
 - A local-agent stack may route across remote frontier models, domestic subscription models, local models, and deterministic tools in one workflow; the right split depends on which step needs reasoning, privacy, speed, or low cost.
+- Production routing should distinguish development-time model use from runtime model use; the model that builds a tool need not be the model that executes every later call.
 
 ## Connections
 - [[AIInferenceCostStructure]] and [[AISubscriptionEconomics]] — cost and quota pressure that makes routing necessary.
@@ -37,3 +40,4 @@ The concept is the user- and product-workflow version of the serving-side routin
 - [[ClaudeCode]], [[Cloudflare]], and [[AIInferenceCostStructure]] — heavy-use and infrastructure-substitution context added by Vol. 167.
 - [[ModelWorkflowFit]], [[Xcode]], and [[Gemini]] — behavior, interface, and model-version comparison added by Vol. 162.
 - [[OpenClaw]], [[Kimi]], and [[ProbabilisticSoftware]] — local-agent cost and safety case added by Keji Luandun.
+- [[KimiK3]], [[WAIC]], [[TopModelBuildRuntimeSplit]], and [[SpeechToTextCostOptimization]] — intent routing, build/runtime split, and audio-cost case added by the K3 episode.

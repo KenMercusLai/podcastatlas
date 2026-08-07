@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-07] ingest | AI 不只比智商，WAIC 和 Kimi K3 透露了什么新竞争
+
+Added source page for a Keji Luandun episode using WAIC, Kimi K3 hands-on coding, open-weight release discussion, embodied-intelligence demos, model routing, and speech-to-text cost optimization to argue that AI competition is moving from raw model intelligence toward deployment, stability, cost, workflow fit, and commercial closure. Created pages for WAIC, Kimi K3, AI Demo Deployment Gap, Open Weight Release Boundary, Top Model Build Runtime Split, and Speech To Text Cost Optimization; updated overview, index, Keji Luandun, Kimi, Open Source AI Models, Model Routing Cost Control, Model Workflow Fit, AI Programming Engine Shift, AI Engineering Thinking, AI Coding Verification, Persistent Agent Memory, AI Inference Cost Structure, AI Startup Unit Economics, AI Commercialization Pressure, AI Application Layer Moat, Embodied AI, Robot Teleoperation and Remote Takeover, and Robot Demo Authenticity. No direct contradiction found; the source qualifies AI application and embodied-AI optimism by separating demos and model tests from customer pull, autonomy, deployability, open-source transparency, and sustainable unit economics.
+
 ## [2026-08-07] ingest | Stuck at $50K ARR for 5 Years. Now $1.5M With AI Agents.
 
 Added source page for a The SaaS Podcast episode with George Georgiadis on Happierleads' move from a five-year $50K ARR plateau to about $1.5M ARR with no employees, using AppSumo early traction, deeper outbound email, sales coaching, and a founder-built AI internal operating system for support, CRM, behavior analysis, monitoring, and bug diagnosis. Created pages for George Georgiadis, Happierleads, AppSumo, Clearbit, Anonymous Visitor Identification, AppSumo Lifetime Deal Tradeoff, Outbound Email Growth Engine, AI Internal Operating System, and SaaS Product Scope Debt; updated overview, index, The SaaS Podcast, Omer Khan, One-Person Company, AI As Business Operator, Customer Support Automation, Founder-Led Sales, Sales As Learnable Skill, Founder Cash Flow Constraint, and Feature Creep. No direct contradiction found; the source qualifies one-person-company optimism by showing real solo AI leverage alongside sales, support, product-scope, cash-flow, hiring, and exitability limits.
@@ -6881,3 +6885,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 9,776 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 9,776 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-07 with 9,679 nodes and 103,834 edges; they found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

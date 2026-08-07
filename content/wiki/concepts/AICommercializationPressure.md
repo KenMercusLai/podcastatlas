@@ -33,12 +33,15 @@ sources:
   - tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128
   - dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi
   - ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx
+  - ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1
 last_updated: 2026-08-07
 ---
 
 # AI Commercialization Pressure
 
 [[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] adds the venture-market split between model heat and application coldness. [[QuKai]] argues that investors can currently see model-company value more easily than application-company value, especially after coding and reasoning progress, but application companies still have to prove commercialization through revenue, overseas execution, user value, and cash-flow survival rather than through AI labels.
+
+[[ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]] adds the [[WAIC]] exhibition version of the same pressure. The hosts argue that the industry's visible language has shifted toward landing, monetization, industrialization, and application, but that many booths still fail the buyer, stability, and cost tests. The source connects application commercialization to [[AIDemoDeploymentGap]], [[AIApplicationLayerMoat]], [[ModelRoutingCostControl]], and [[SpeechToTextCostOptimization]].
 
 [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds the stage-boundary version. [[Ricky]] argues that coding and office-productivity substitution have become commercial enough for markets to price, while broad labor substitution remains the larger but less certain commercialization problem; this makes [[AILaborSubstitutionValuationBoundary]] a valuation and business-model issue, not only a labor-market issue.
 
@@ -138,6 +141,7 @@ AI commercialization pressure is the tension between technical influence, user a
 - [[RobotActiveUseMetrics]] can discipline commercialization by asking whether robots remain useful after purchase rather than whether they were produced, sold, or shown once.
 - Hyperscaler AI capex adds a public-market clock: investors may believe in AI while still demanding visible revenue, agent adoption, consumer use, or third-party infrastructure demand within a few years.
 - Model-company momentum can worsen application commercialization pressure by raising the proof bar: application teams need revenue, customer pull, and market-specific payment evidence, not only a plausible wrapper around improving models.
+- Exhibition and demo settings can intensify commercialization pressure because visible capability must still be translated into buyer demand, deployment reliability, and a cost structure that works outside the booth.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — strategic context where the pressure appears.
@@ -172,3 +176,4 @@ AI commercialization pressure is the tension between technical influence, user a
 - [[Meta]], [[AIAdvertisingTargeting]], [[MetaAI|Meta AI]], [[PersonalSuperintelligence]], and [[RayBanSmartGlasses|Ray-Ban smart glasses]] — advertising payoff versus consumer-assistant adoption case added by Marketplace Tech.
 - [[PokeRobotics]], [[PhysicalAGI]], [[UnifiedRobotModels]], and [[RobotActiveUseMetrics]] — general household-robot commercialization route added by episode 166.
 - [[AICapexReturnWindow]], [[AIRevenueLegibility]], [[AICircularInfrastructureFinancing]], and [[ChinaUSAIValuationAsymmetry]] — public-market capex, revenue visibility, demand quality, and cross-market trust extension added by What's Next S10E12.
+- [[WAIC]], [[AIDemoDeploymentGap]], [[KimiK3]], [[TopModelBuildRuntimeSplit]], and [[SpeechToTextCostOptimization]] — exhibition, model-routing, and engineering-cost branch added by Keji Luandun.

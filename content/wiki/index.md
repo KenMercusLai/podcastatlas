@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI 不只比智商，WAIC 和 Kimi K3 透露了什么新竞争](sources/ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1.md) — Keji Luandun episode on WAIC's shift toward deployment, Kimi K3 coding workflow, open-weight boundaries, model routing, embodied-AI demo limits, and speech-to-text cost optimization.
 - [Stuck at $50K ARR for 5 Years. Now $1.5M With AI Agents.](sources/stuck-at-50k-arr-for-5-years-now-1-5m-with-ai-agents.md) — The SaaS Podcast episode with George Georgiadis on Happierleads' five-year $50K ARR plateau, AppSumo tradeoffs, outbound email growth, an internal AI operating system, and the limits of one-person AI-operated SaaS.
 - [A modern-day odyssey through AI chatbot hellscape](sources/tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128.md) — Marketplace Tech episode with Dylan Thompson on a missing $1,700 e-bike, chatbot-first customer service, automated claims loops, consumer preference for human help, and AI as a new face of service sludge.
 - [For bucks' sake: the rise of self-made billionaires](sources/for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95.md) — The Intelligence episode on competitive billionaire wealth, wealth-tax legitimacy, Cambodia's scam-compound crackdown, Chen Zhi sanctions, and Larry the Cat as political image satire.
@@ -858,6 +859,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [WAIC](entities/WAIC.md) — World Artificial Intelligence Conference context used by Keji Luandun to read the AI industry's shift from model spectacle toward landing, commercialization, and deployment.
+- [Kimi K3](entities/KimiK3.md) — Kimi model/product case tested for a podcast-host dialogue agent, adding latency, token-use, workflow-fit, and open-weight release-boundary material.
 - [George Georgiadis](entities/GeorgeGeorgiadis.md) — Happierleads founder who moved from a long $50K ARR plateau to about $1.5M ARR with no employees, while later warning that solo AI operation remains founder-dependent.
 - [Happierleads](entities/Happierleads.md) — Bootstrapped visitor-identification SaaS that qualifies anonymous website visitors with AI and can move qualified accounts into email campaigns.
 - [AppSumo](entities/AppSumo.md) — Startup-deal marketplace used by Happierleads for early cash, feedback, and users, with lifetime-deal support obligations as the central tradeoff.
@@ -5877,6 +5880,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Demo Deployment Gap](concepts/AIDemoDeploymentGap.md) — Gap between AI demonstrations and buyable, deployable, stable systems with customers, costs, routing, and workflow fit.
+- [Open Weight Release Boundary](concepts/OpenWeightReleaseBoundary.md) — Distinction between downloadable/self-hostable model weights and full open source including training code, data, and process.
+- [Top Model Build Runtime Split](concepts/TopModelBuildRuntimeSplit.md) — Practice of using frontier models for tool-building and unknown problems while routing runtime work to cheaper models or deterministic systems.
+- [Speech To Text Cost Optimization](concepts/SpeechToTextCostOptimization.md) — Audio AI cost case where engineering optimization and batching make transcription cheaper and more deployable than model quality alone.
 - [Anonymous Visitor Identification](concepts/AnonymousVisitorIdentification.md) — B2B SaaS workflow of identifying company visitors before form fill and turning that signal into qualified sales follow-up.
 - [AppSumo Lifetime Deal Tradeoff](concepts/AppSumoLifetimeDealTradeoff.md) — SaaS bootstrapping pattern where discounted permanent access brings early cash and feedback but can create long-tail support and hosting obligations.
 - [Outbound Email Growth Engine](concepts/OutboundEmailGrowthEngine.md) — Repeatable acquisition channel built from precise ICP targeting, deliverability, infrastructure warmup, concise copy, and conversion discipline.

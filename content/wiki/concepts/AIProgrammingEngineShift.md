@@ -2,8 +2,8 @@
 title: "AI Programming Engine Shift"
 type: concept
 tags: [ai-coding, software-engineering, labor, culture]
-sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]
-last_updated: 2026-08-05
+sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
+last_updated: 2026-08-07
 ---
 
 # AI Programming Engine Shift
@@ -28,6 +28,8 @@ AI programming engine shift is the episode's metaphor that AI changes programmin
 
 [[dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]] adds the abundance consequence. Albert's team building many internal tools shows the engine shift at company scale, while his [[SoftwareCreationBarbell]] claim asks what happens when software creation is so cheap that many outputs are personal, cultural, or community-discovered rather than formal SaaS products.
 
+[[ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]] adds a [[KimiK3|Kimi K3]] implementation case. The source says that when architecture, layers, modules, and constraints are explicit, many domestic and international models can build internet applications; differences show up in speed, reasoning length, frontend quality, bug count, and repair rounds. The programming-engine shift therefore makes planning and acceptance criteria more decisive, not less.
+
 ## Key Claims
 - AI coding can turn many small programming tasks into intent specification, review, and correction rather than line-by-line construction.
 - The value of programming skill may move from typing code toward problem framing, tool selection, decomposition, and [[AICodingVerification]].
@@ -46,6 +48,7 @@ AI programming engine shift is the episode's metaphor that AI changes programmin
 - The Jared Friedman source adds that institutions advising founders may need to build with AI themselves to understand the new programming and agent workflow surface.
 - The Albert source adds that specification-following improvements can let non-engineers write more of the requirement and implementation surface, while engineers move toward review, architecture, and quality control.
 - The later Albert source adds that the programming-engine shift can make software creation habitual, pushing scarcity toward taste, container design, discovery, and commercialization.
+- The Kimi K3 source adds that model differences increasingly appear as workflow-cost differences once the human has specified architecture, modules, and constraints well enough.
 
 ## Connections
 - [[JaredFriedman]], [[YCombinator]], [[YCInternalSoftware]], and [[AIOrganizationDesign]] - YC partner and internal-tooling branch added by The Social Radars.
@@ -63,3 +66,4 @@ AI programming engine shift is the episode's metaphor that AI changes programmin
 - [[KimiCLI]], [[RC]], [[SlockAI|Slock.ai]], and [[AgentOptimizedCLI]] - coding-agent and product-building extension from the Slock.ai source.
 - [[Albert]], [[CodingDemocratization]], [[Cursor]], [[Lovable]], and [[Replit]] - coding power distributed through different product containers.
 - [[SoftwareCreationBarbell]], [[SoftwareAsCulturalWork]], and [[MakerCommunity]] - product-structure consequences when the cost of creation falls.
+- [[KimiK3]], [[ModelWorkflowFit]], [[AIEngineeringThinking]], and [[TopModelBuildRuntimeSplit]] - planning, model fit, and build/runtime split added by the Kimi K3 episode.

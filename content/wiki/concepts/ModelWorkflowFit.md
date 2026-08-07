@@ -2,8 +2,8 @@
 title: "Model Workflow Fit"
 type: concept
 tags: [ai, models, workflow]
-sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]
-last_updated: 2026-07-23
+sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
+last_updated: 2026-08-07
 ---
 
 # Model Workflow Fit
@@ -20,6 +20,8 @@ The concept is adjacent to [[ModelRoutingCostControl]] but broader. Routing asks
 
 [[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] adds [[SlockAI|Slock.ai]]'s model-diversity case. [[RC]] contrasts model roles such as fast active execution and more rigorous review, and argues that a collaborative agent product should support multiple model providers rather than assume one best model fits every agent or task.
 
+[[ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]] adds [[KimiK3|Kimi K3]] as a slow-but-useful fit case. The host reports that K3 handled a complex podcast-agent build without misreading the task, but required about three hours and roughly 250,000 tokens. The source therefore treats a slow model as a poor fit for real-time interaction but a plausible fit for background cleanup, documentation, architecture analysis, and other maintenance work where latency is less important than adequate reasoning and lower cost.
+
 ## Key Claims
 - Model comparisons should include behavior under the user's own tasks, not only published rankings or viral release notes.
 - A slower model can still fit review, planning, or high-context work if it reduces drift and improves trust.
@@ -32,6 +34,7 @@ The concept is adjacent to [[ModelRoutingCostControl]] but broader. Routing asks
 - Product fit can matter as much as raw intelligence: voice speed, verbosity, tool behavior, and willingness to infer intent can change which model feels best.
 - Workflow fit can be created by post-training and harness design, not only selected after a model is released.
 - In multi-agent products, model workflow fit can be role-specific: one agent may need speed and initiative while another needs caution, review quality, or stronger tool judgment.
+- Slow models can still fit long-running background jobs if the user can tolerate latency and the task benefits from cheaper sustained reasoning.
 
 ## Connections
 - [[Codex]], [[ClaudeCode]], and [[Xcode]] — coding-agent cases in the source.
@@ -43,3 +46,4 @@ The concept is adjacent to [[ModelRoutingCostControl]] but broader. Routing asks
 - [[YaoShunyu]], [[Gemini]], [[ClaudeCode]], [[Codex]], [[Doubao]], and [[Seedance]] — benchmark-saturation and workflow-behavior comparison added by episode 140.
 - [[LuoFuli]], [[MemoVR]], [[AgentPostTraining]], [[OpenClaw]], and [[AgentOptimizedModelArchitecture]] — training-side workflow-fit view added by episode 138.
 - [[SlockAI|Slock.ai]], [[RC]], [[KimiCLI]], [[ClaudeCode]], and [[Codex]] — model-diversity and role-fit case added by the RC episode.
+- [[KimiK3]], [[TopModelBuildRuntimeSplit]], and [[SpeechToTextCostOptimization]] — slow-model, build/runtime, and cost-optimization fit case added by Keji Luandun.

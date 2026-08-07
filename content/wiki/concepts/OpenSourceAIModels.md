@@ -2,8 +2,8 @@
 title: "Open Source AI Models"
 type: concept
 tags: [open-source, models, ai-ecosystem]
-sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
-last_updated: 2026-07-17
+sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
+last_updated: 2026-08-07
 ---
 
 # Open Source AI Models
@@ -20,6 +20,8 @@ Open source AI models are model releases that enable broad downstream use, deplo
 
 [[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]] adds the government-substitution version. [[MariaCurie|Maria Curi]] says U.S. companies are increasingly using cheaper Chinese models, while the U.S. government wants to build a stronger open-source ecosystem so firms do not need to rely on Chinese providers such as [[ZhipuAI|ZAI]].
 
+[[ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]] adds the [[OpenWeightReleaseBoundary]] through [[KimiK3|Kimi K3]]. The source says open weights can make a model downloadable and self-deployable, but should not be conflated with fully open training code, data, or process. That distinction matters because open-weight models can pressure closed-model pricing and access while still leaving reproducibility and governance partly opaque.
+
 ## Key Points
 - Open models can run across different hardware and deployment constraints when released in multiple sizes.
 - They can become base models for startups and developers who fine-tune or adapt them.
@@ -30,6 +32,7 @@ Open source AI models are model releases that enable broad downstream use, deplo
 - Open models become more strategically valuable when post-training firms and vertical applications can turn them into domain-specific enterprise models.
 - Closed-model release uncertainty can make open models valuable as continuity assets, not only as cheaper or more customizable models.
 - Domestic open models can become strategic infrastructure when governments want firms to avoid dependence on rival-country API providers.
+- Open-weight releases can change deployment and pricing competition without meeting the stronger transparency expectations of full open source.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — how large companies use and struggle with open source.
@@ -41,3 +44,4 @@ Open source AI models are model releases that enable broad downstream use, deplo
 - [[EnterpriseOwnedModels]], [[Harvey]], and [[AppliedCompute]] — enterprise post-training and open-model substitution branch added by LateTalk.
 - [[FrontierModelReleaseGovernance]] — launch-review uncertainty that can increase open-model demand.
 - [[China]], [[AIExportControls]], and [[FrontierModelAccessRestrictions]] - geopolitical access pressure added by Marketplace Tech.
+- [[OpenWeightReleaseBoundary]], [[KimiK3]], and [[ModelRoutingCostControl]] - open-weight versus open-source boundary and cost-routing branch added by Keji Luandun.

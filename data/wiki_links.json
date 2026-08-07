@@ -1411,6 +1411,10 @@
     "title": "AI Default Learning Environment",
     "url": "/wiki/concepts/aidefaultlearningenvironment/"
   },
+  "AIDemoDeploymentGap": {
+    "title": "AI Demo Deployment Gap",
+    "url": "/wiki/concepts/aidemodeploymentgap/"
+  },
   "AIDetectorBias": {
     "title": "AI Detector Bias",
     "url": "/wiki/concepts/aidetectorbias/"
@@ -18683,6 +18687,10 @@
     "title": "Kimi CLI",
     "url": "/wiki/entities/kimicli/"
   },
+  "KimiK3": {
+    "title": "Kimi K3",
+    "url": "/wiki/entities/kimik3/"
+  },
   "KindaichiKyosuke": {
     "title": "Kindaichi Kyosuke / 金田一京助",
     "url": "/wiki/entities/kindaichikyosuke/"
@@ -24154,6 +24162,10 @@
   "OpenWebTrafficDecline": {
     "title": "Open Web Traffic Decline",
     "url": "/wiki/concepts/openwebtrafficdecline/"
+  },
+  "OpenWeightReleaseBoundary": {
+    "title": "Open Weight Release Boundary",
+    "url": "/wiki/concepts/openweightreleaseboundary/"
   },
   "OpenWorldRobotManipulation": {
     "title": "Open-World Robot Manipulation",
@@ -30427,6 +30439,10 @@
     "title": "Speculative Bubble Psychology",
     "url": "/wiki/concepts/speculativebubblepsychology/"
   },
+  "SpeechToTextCostOptimization": {
+    "title": "Speech To Text Cost Optimization",
+    "url": "/wiki/concepts/speechtotextcostoptimization/"
+  },
   "SpenserSkates": {
     "title": "Spenser Skates",
     "url": "/wiki/entities/spenserskates/"
@@ -32847,6 +32863,10 @@
     "title": "Top Gun: Maverick",
     "url": "/wiki/entities/topgunmaverick/"
   },
+  "TopModelBuildRuntimeSplit": {
+    "title": "Top Model Build Runtime Split",
+    "url": "/wiki/concepts/topmodelbuildruntimesplit/"
+  },
   "TopOfJapan": {
     "title": "Top of Japan",
     "url": "/wiki/entities/topofjapan/"
@@ -34118,6 +34138,10 @@
   "VoyagerGoldenRecord": {
     "title": "Voyager Golden Record",
     "url": "/wiki/entities/voyagergoldenrecord/"
+  },
+  "WAIC": {
+    "title": "WAIC",
+    "url": "/wiki/entities/waic/"
   },
   "WAMU": {
     "title": "WAMU",
@@ -36818,6 +36842,10 @@
   "agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq": {
     "title": "“AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人",
     "url": "/wiki/sources/agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq/"
+  },
+  "ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1": {
+    "title": "AI 不只比智商，WAIC 和 Kimi K3 透露了什么新竞争",
+    "url": "/wiki/sources/ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1/"
   },
   "ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx": {
     "title": "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘",

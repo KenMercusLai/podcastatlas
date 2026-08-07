@@ -2,7 +2,7 @@
 title: "AI Startup Unit Economics"
 type: concept
 tags: [ai, startups, economics]
-sources: [kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f, zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final]
+sources: [kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f, zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
 last_updated: 2026-08-07
 ---
 
@@ -20,6 +20,8 @@ The concept extends [[AIInferenceCostStructure]] from a general infrastructure i
 
 [[kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13]] adds a real-time video case through [[ViduS1]]. The source says web and app access were free at launch while API access cost roughly two to three yuan per minute, making [[InferenceAccelerationStack|acceleration]] part of whether [[RealTimeInteractiveVideoGeneration]] can support sustainable session economics.
 
+[[ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]] adds a [[WAIC]] application-booth and speech-to-text case. The hosts argue that many small AI applications lack a defensible business if they cannot answer who the customer is, why the workflow is hard to copy, and whether model cost can be made stable. [[SpeechToTextCostOptimization]] is the positive counterexample: reducing transcription cost from about 0.6 yuan per hour to under 0.1 yuan changes the service's viable price and margin more directly than a vague "better model" story.
+
 ## Key Claims
 - "Users want it" is weaker evidence than "users will pay enough to cover the incremental cost of giving it to them."
 - Companion-chat products can become more expensive as relationship history deepens because useful memory requires retrieval and context.
@@ -33,6 +35,7 @@ The concept extends [[AIInferenceCostStructure]] from a general infrastructure i
 - In AI-enabled startups, lower headcount can improve unit economics only if agents replace real process cost rather than creating hidden supervision, reliability, or accountability burden.
 - Founder-led small teams can stretch capital further when AI reduces operating layers, but revenue quality and customer value still decide whether the business works.
 - Real-time video products need per-minute economics because longer engagement also means longer GPU-backed generation.
+- A small AI application needs a customer and cost model before its demo matters; lower inference cost can change viability only when the user already values the workflow.
 
 ## Connections
 - [[AIInferenceCostStructure]] — underlying cost mechanics.
@@ -48,3 +51,4 @@ The concept extends [[AIInferenceCostStructure]] from a general infrastructure i
 - [[EVE]], [[NaturalSelection]], and [[AICompanionActiveMemory]] — companion-product case where better experience raises both costs and possible LTV.
 - [[GarryTan]], [[YCombinator]], [[FounderMode]], and [[AIOrganizationDesign]] - YC offsite case where AI economics, small teams, and founder operating style connect.
 - [[ViduS1]], [[RealTimeInteractiveVideoGeneration]], [[AIInferenceCostStructure]], and [[InferenceAccelerationStack]] — live-video product economics added by the Shizilukou Crossing source.
+- [[WAIC]], [[AIDemoDeploymentGap]], [[SpeechToTextCostOptimization]], and [[AIApplicationLayerMoat]] — application-booth and transcription-cost discipline added by Keji Luandun.
