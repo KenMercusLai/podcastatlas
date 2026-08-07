@@ -2,8 +2,8 @@
 title: "Low Price Brand Perception"
 type: concept
 tags: [cpg, pricing, brand, retail]
-sources: [spirit-airlines-and-the-future-of-cheap-flights, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]
-last_updated: 2026-07-24
+sources: [spirit-airlines-and-the-future-of-cheap-flights, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1]
+last_updated: 2026-08-07
 ---
 
 # Low Price Brand Perception
@@ -18,6 +18,8 @@ The concept extends [[ProductLedWillingnessToPay]] in the opposite direction fro
 
 [[spirit-airlines-and-the-future-of-cheap-flights]] adds a harsher version through [[SpiritAirlines|Spirit Airlines]]. [[BenBaldanza|Ben Baldanza]] made the low-price brand promise explicit: the airline was not pretending to be premium, and the product worked only if travelers understood that cheapness came with [[AirlineUnbundling]] and reduced comfort.
 
+[[143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1]] adds the EV sub-brand version through [[XPengMONA03]]. The source says MONA 03's low price, design, and [[SmartDrivingDemocratization]] helped [[XPeng]] reach new buyers, but also made [[HighEndEVBranding]] harder because a company's cheapest model can dominate public memory.
+
 ## Key Claims
 - A low price can increase trial only if the product and packaging do not signal unacceptable quality.
 - Revealing the one-dollar price after showing the product let editors first evaluate the product as beauty, not as a discount gimmick.
@@ -27,6 +29,7 @@ The concept extends [[ProductLedWillingnessToPay]] in the opposite direction fro
 - In lifestyle consumption, low price can be reinterpreted positively when the buyer no longer needs the brand or scene to prove professional identity.
 - In coffee and tea-drink chains, low price becomes more credible when the chain can prove convenience, product consistency, and enough volume to support the economics.
 - A low-price travel brand can be credible even when disliked if the customer understands the tradeoff and still prioritizes fare.
+- A low-price EV can be a successful access product and still create premium-brand drag if the flagship line is not clearly separated.
 
 ## Connections
 - [[ELFCosmetics]], [[JoeyShamah]], and [[ScottVincentBorba]] - source case.
@@ -36,3 +39,4 @@ The concept extends [[ProductLedWillingnessToPay]] in the opposite direction fro
 - [[LifestyleCostRationalization]], [[MiddleClassConsumptionPressure]], and [[Starbucks]] — EP35's coffee and middle-class spending examples.
 - [[LuckinCoffee]], [[MixueBingcheng]], [[Guming]], and [[BeverageCategoryConvergence]] - episode 141's chain-competition extension.
 - [[SpiritAirlines|Spirit Airlines]], [[BenBaldanza|Ben Baldanza]], [[UltraLowCostCarrierModel]], and [[AirlineUnbundling]] - airline cheapness case added by Planet Money.
+- [[XPeng]], [[XPengMONA03]], [[SmartDrivingDemocratization]], [[EVProductLineClarity]], and [[HighEndEVBranding]] - EV sub-brand case added by FengTouQuan.

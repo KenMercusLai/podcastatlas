@@ -6418,6 +6418,10 @@ Added source page for a Talk三联 episode with 高一丁 and 苗伟 on 徐光�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-07] ingest | 143. 「蔚小理」的高端探索
+
+Added source page for a FengTouQuan episode comparing Li Auto, XPeng, and NIO as Chinese premium-EV brands under price pressure. Created pages for High-End EV Branding, EV Battery Leasing, Battery Swap Infrastructure, EV Product Line Clarity, Automotive Media Influence, Smart Driving Democratization, Li Auto L9, XPeng MONA 03, and NIO ES8; updated overview, index, FengTouQuan, LiAuto, XPeng, NIO, HeXiaopeng, XPengGX, Quality Low Price And Reasoned Premium, Premium-Everyday Brand Tension, and Low Price Brand Perception. No direct contradiction found; the source qualifies EV affordability as a brand, financing, and product-line problem rather than only a battery-cost or sticker-price problem.
+
 ## [2026-08-07] ingest | How AI nudify apps are proliferating on social media
 
 Added source page for a Marketplace Tech episode with Sina Laubenstein of the Institute for Strategic Dialogue on AI nudify websites, YouTube and X traffic, Meta ads, app-store responses, payment rails, crypto intermediaries, and Take It Down Act / California enforcement. Created pages for Sina Laubenstein, Institute for Strategic Dialogue, Nudify App Ecosystem, and Abuse Payment Infrastructure; updated overview, index, Marketplace Tech, AI Non-Consensual Intimate Image Abuse, Take It Down Act, YouTube, Twitter/X, Facebook, Instagram, Meta, App Store, Apple, Google, California, PayPal, Mastercard, and Visa. No direct contradiction found; the source extends the earlier Grok-specific abuse branch into an ecosystem map of discovery, distribution, monetization, and legal pressure.
@@ -6953,6 +6957,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] ingest | 11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿
 
 Added source page for a Shizilukou Crossing episode with Wu Kai on Airwallex's global payment network, transaction-banking expansion, AI company billing needs, Kai, Agent OS, T0, ARID, intelligent finance, data-and-talent acquisition logic, and globalization playbook. Created pages for Airwallex, Wu Kai, Kai, Airwallex Agent OS, T0 Finance, ARID, Global Financial Network, and Intelligent Finance; updated overview, index, Shizilukou Crossing, Stripe, Money Movement Infrastructure, Payment Clearing Network, Agent Payment Infrastructure, Agent-Facing Interfaces, Financial AI Agents, Business-Led AI Transformation, and AI Native SaaS Threat. No direct contradiction found; the source reinforces payment-infrastructure and agent-payment branches while keeping Airwallex valuation, growth, retention, acquisition, and AI-product claims source-scoped.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 

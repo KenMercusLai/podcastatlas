@@ -379,6 +379,10 @@
     "title": "143.如何判断一段行情是回调还是结束？| 三季度投资账复盘",
     "url": "/wiki/sources/143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz/"
   },
+  "143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1": {
+    "title": "143. 「蔚小理」的高端探索",
+    "url": "/wiki/sources/143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1/"
+  },
   "143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634": {
     "title": "143.遗忘的脑力：记性不好可咋整啊？",
     "url": "/wiki/sources/143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634/"
@@ -4279,6 +4283,10 @@
     "title": "Automotive Collector Economics",
     "url": "/wiki/concepts/automotivecollectoreconomics/"
   },
+  "AutomotiveMediaInfluence": {
+    "title": "Automotive Media Influence / 汽车媒体影响力",
+    "url": "/wiki/concepts/automotivemediainfluence/"
+  },
   "AutonomousDrivingDataFlywheel": {
     "title": "Autonomous Driving Data Flywheel",
     "url": "/wiki/concepts/autonomousdrivingdataflywheel/"
@@ -4686,6 +4694,10 @@
   "BatteryRecyclingLoop": {
     "title": "Battery Recycling Loop",
     "url": "/wiki/concepts/batteryrecyclingloop/"
+  },
+  "BatterySwapInfrastructure": {
+    "title": "Battery Swap Infrastructure / 换电体系",
+    "url": "/wiki/concepts/batteryswapinfrastructure/"
   },
   "BattleOfCrete": {
     "title": "Battle of Crete",
@@ -10651,6 +10663,10 @@
     "title": "ETN Credit Risk",
     "url": "/wiki/concepts/etncreditrisk/"
   },
+  "EVBatteryLeasing": {
+    "title": "EV Battery Leasing / 电动车电池租赁",
+    "url": "/wiki/concepts/evbatteryleasing/"
+  },
   "EVChargingInfrastructure": {
     "title": "EV Charging Infrastructure",
     "url": "/wiki/concepts/evcharginginfrastructure/"
@@ -10662,6 +10678,10 @@
   "EVO2": {
     "title": "EVO2",
     "url": "/wiki/entities/evo2/"
+  },
+  "EVProductLineClarity": {
+    "title": "EV Product Line Clarity / 电动车产品线清晰度",
+    "url": "/wiki/concepts/evproductlineclarity/"
   },
   "EVTaxCreditCliff": {
     "title": "EV Tax Credit Cliff",
@@ -15471,6 +15491,10 @@
     "title": "High-Dose Psychedelic Practice",
     "url": "/wiki/concepts/highdosepsychedelicpractice/"
   },
+  "HighEndEVBranding": {
+    "title": "High-End EV Branding / 新能源车高端心智",
+    "url": "/wiki/concepts/highendevbranding/"
+  },
   "HighGeneralLowSpecificExpectations": {
     "title": "High General, Low Specific Expectations",
     "url": "/wiki/concepts/highgenerallowspecificexpectations/"
@@ -19715,6 +19739,10 @@
     "title": "Li Auto / 理想汽车",
     "url": "/wiki/entities/liauto/"
   },
+  "LiAutoL9": {
+    "title": "Li Auto L9 / 理想 L9",
+    "url": "/wiki/entities/liautol9/"
+  },
   "LiBeibin": {
     "title": "Li Beibin",
     "url": "/wiki/entities/libeibin/"
@@ -23118,6 +23146,10 @@
   "NIO": {
     "title": "NIO / 蔚来",
     "url": "/wiki/entities/nio/"
+  },
+  "NIOES8": {
+    "title": "NIO ES8 / 蔚来 ES8",
+    "url": "/wiki/entities/nioes8/"
   },
   "NISA": {
     "title": "NISA",
@@ -30323,6 +30355,10 @@
     "title": "小镇做题家规训 / Small-Town Exam-Taker Discipline",
     "url": "/wiki/concepts/smalltownexamtakerdiscipline/"
   },
+  "SmartDrivingDemocratization": {
+    "title": "Smart Driving Democratization / 智驾平权",
+    "url": "/wiki/concepts/smartdrivingdemocratization/"
+  },
   "SmartGlassesBystanderPrivacy": {
     "title": "Smart Glasses Bystander Privacy",
     "url": "/wiki/concepts/smartglassesbystanderprivacy/"
@@ -35702,6 +35738,10 @@
   "XPengIron": {
     "title": "XPeng Iron",
     "url": "/wiki/entities/xpengiron/"
+  },
+  "XPengMONA03": {
+    "title": "XPeng MONA 03 / 小鹏 MONA 03",
+    "url": "/wiki/entities/xpengmona03/"
   },
   "Xamarin": {
     "title": "Xamarin",

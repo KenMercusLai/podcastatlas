@@ -2,8 +2,8 @@
 title: "疯投圈"
 type: entity
 tags: [podcast, media, business, investing]
-sources: [132-xuegao-jianghu-fengtouquan-1-132-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
-last_updated: 2026-07-10
+sources: [132-xuegao-jianghu-fengtouquan-1-132-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, 143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1]
+last_updated: 2026-08-07
 ---
 
 # 疯投圈
@@ -22,6 +22,8 @@ last_updated: 2026-07-10
 
 [[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]] extends that experience-consumption branch through Japan and Korea comparison. The episode uses [[KiyosumiShirakawa]], [[BlueBottleCoffee]], [[Kyoto]], [[TokyoDisneyResort]], [[Sanrio]], [[PopMart]], [[SouthKorea]], [[OliveYoung]], and [[BLACKPINK]] to contrast Japan's [[ExperienceLedBrand]] and [[LongTermPlaceOperation]] strengths with Korea's [[KoreanCultureLedConsumerMarketing]] and [[FanEconomy]] strengths.
 
+[[143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1]] adds a Chinese electric-vehicle consumer-brand case through [[LiAuto]], [[XPeng]], and [[NIO]]. The episode extends the show's pricing and category lens into [[HighEndEVBranding]], [[AutomotiveMediaInfluence]], [[EVProductLineClarity]], [[SmartDrivingDemocratization]], [[EVBatteryLeasing]], and [[BatterySwapInfrastructure]], asking how automakers protect brand premium, gross margin, and user trust when good domestic EVs become crowded and comparable.
+
 ## Connections
 - [[132-xuegao-jianghu-fengtouquan-1-132-1]] - source episode.
 - [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]] - experience-consumption source episode.
@@ -37,3 +39,4 @@ last_updated: 2026-07-10
 - [[OnRunning]], [[SuperMonkey]], [[DirectToConsumerBrandControl]], [[PayPerClassFitnessModel]], and [[ServiceBrandStandardization]] - sports-consumption additions from episode 138.
 - [[AIResistantExperientialConsumption]], [[KoreanCultureLedConsumerMarketing]], and [[HousingExperienceInvestmentSplit]] - AI-era experience and housing distinction added from episode 137.
 - [[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]], [[ExperienceLedBrand]], [[AuthenticNeighborhoodExperience]], [[LongTermPlaceOperation]], [[ImageFirstIP]], [[InboundTourismBrandDiscovery]], and [[FanEconomy]] - Japan/Korea consumer comparison added from episode 142.
+- [[143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1]], [[HighEndEVBranding]], [[EVBatteryLeasing]], [[BatterySwapInfrastructure]], [[EVProductLineClarity]], and [[AutomotiveMediaInfluence]] - Chinese premium-EV branding branch added from episode 143.

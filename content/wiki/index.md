@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [143. 「蔚小理」的高端探索](sources/143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1.md) — 疯投圈 episode on Li Auto, XPeng, and NIO's premium-EV positioning, family SUVs, MONA-driven volume, GX high-end push, NIO battery leasing, and battery-swap infrastructure.
 - [An "antacid" to fight climate change](sources/tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128.md) — Marketplace Tech episode on Vesta's olivine ocean-carbon-removal demonstration, ocean alkalinity enhancement, bicarbonate storage, marine-life tradeoffs, and the scale and verification questions around marine carbon removal.
 - [11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿](sources/11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk.md) — Shizilukou Crossing episode with Wu Kai on Airwallex's global payment network, transaction-banking expansion, AI finance products Kai, Agent OS, T0, ARID, and the intelligent-finance thesis.
 - [How AI nudify apps are proliferating on social media](sources/tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128.md) — Marketplace Tech episode with Sina Laubenstein of the Institute for Strategic Dialogue on AI nudify websites, YouTube/X traffic, Meta ads, app-store responses, payment rails, crypto intermediaries, and Take It Down Act enforcement.
@@ -868,6 +869,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Li Auto L9 / 理想 L9](entities/LiAutoL9.md) — Flagship family SUV used by FengTouQuan to explain Li Auto's early high-end EV branding and later premium-renewal pressure.
+- [XPeng MONA 03 / 小鹏 MONA 03](entities/XPengMONA03.md) — Low-price XPeng volume vehicle tied to smart-driving democratization, younger buyers, and the risk that entry products define the brand.
+- [NIO ES8 / 蔚来 ES8](entities/NIOES8.md) — Premium NIO SUV used to show how battery leasing and battery swapping lower upfront purchase friction while preserving high-end positioning.
 - [Vesta](entities/Vesta.md) — Ocean-carbon-removal company case placing more than 8,000 metric tons of olivine near Duck, North Carolina, to test ocean alkalinity enhancement.
 - [Hourglass Climate](entities/HourglassClimate.md) — Climate organization represented by Jacqueline Sentiner in the Marketplace Tech olivine-carbon-removal explanation.
 - [Jacqueline Sentiner](entities/JacquelineSentiner.md) — Hourglass Climate speaker explaining how olivine can dissolve in seawater and convert CO2 into bicarbonate.
@@ -958,7 +962,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [University of Science and Technology of China / 中国科学技术大学](entities/UniversityOfScienceAndTechnologyOfChina.md) — Scientific and talent base that the episode treats as a long-run foundation for Hefei's hard-tech industrial strategy.
 - [Chery / 奇瑞](entities/Chery.md) — Wuhu-based automaker used as an early Anhui carmaking and local industrial-upgrading case.
 - [BOE Technology / 京东方](entities/BOETechnology.md) — Display-panel company whose Hefei 6th-generation LCD line anchors the classic Hefei industrial-investment case.
-- [NIO / 蔚来](entities/NIO.md) — Electric-vehicle company whose 2020 Hefei rescue-and-investment deal became a visible new-energy-vehicle cluster case.
+- [NIO / 蔚来](entities/NIO.md) — Electric-vehicle company tied to Hefei industrial investment and, in FengTouQuan, to premium EV branding through ES8, battery leasing, and battery-swap infrastructure.
 - [田峰 / Tian Feng](entities/TianFeng.md) — 中国社科院 researcher explaining talent group livestreaming as guild-backed labor, real-time data, compliance, aesthetic production, and fieldwork evidence.
 - [Chinese Academy of Social Sciences / 中国社会科学院](entities/ChineseAcademyOfSocialSciences.md) — Research-institution context for Tian Feng and student fieldwork on talent group livestreaming.
 - [Changsha / 长沙](entities/Changsha.md) — Fieldwork city and entertainment-labor setting for talent group livestreaming guilds in the 面基 episode.
@@ -1316,7 +1320,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李小杰 / Li Xiaojie](entities/LiXiaojie.md) — Sanlian reporter in EP241 grounding elder-care vocational training; EP244 adds her reflections on journalist authority erosion, social reporting, and staying in media.
 - [黄子翊 / Huang Ziyi](entities/HuangZiyiEducationReporter.md) — Sanlian reporter in EP266 explaining AI-era software, engineering education, foundational training risk, new engineering, and T-shaped talent.
 - [Bosch / 博世](entities/Bosch.md) — Manufacturing company in EP241 representing the heavy-investment dual-system vocational-education model.
-- [Li Auto / 理想汽车](entities/LiAuto.md) — New-energy-vehicle company in EP241 tied to the Changzhou industrial-college case and maintenance career ladder.
+- [Li Auto / 理想汽车](entities/LiAuto.md) — New-energy-vehicle company tied to Changzhou vocational training and FengTouQuan's family-SUV premium case through L9, volume protection, and margin pressure.
 - [常州工业职业技术学院 / Changzhou Industrial Vocational Technical College](entities/ChangzhouIndustrialVocationalTechnicalCollege.md) — Vocational school in EP241 hosting Li Auto's industrial college inside Changzhou's new-energy cluster.
 - [民政职业大学 / Minzheng Vocational University](entities/MinzhengVocationalUniversity.md) — Elder-care vocational university in EP241 illustrating real-scene practice, vocational undergraduate progression, and care-robotics input.
 - [太康之家 / Taikang Home](entities/TaikangHome.md) — Elder-care operator in EP241 used to discuss youth elder care, wages, training, and frontline-care retention.
@@ -5159,10 +5163,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anker Innovations / 安克创新](entities/AnkerInnovations.md) — Consumer-electronics company moving from Amazon-channel charging accessories toward multi-category deep technology, edge-side AI, smart home, security robots, and enterprise AI agents.
 - [Zhao Dongping / 赵东平](entities/ZhaoDongping.md) — Anker cofounder presented as the global-sales complement to Yang Meng's product and abstraction strengths.
 - [Anker 2023 Lab](entities/Anker2023Lab.md) — Anker internal deep-technology lab tied to in-memory edge AI chips and the company's move toward seven-series innovation.
-- [He Xiaopeng / 何小鹏](entities/HeXiaopeng.md) — XPeng founder, chair, and CEO framing the company around physical AI, humanoid robots, intelligent vehicles, and organization-level technical bets.
-- [XPeng / 小鹏汽车](entities/XPeng.md) — Automotive and robotics company repositioned in the source around physical AI, autonomous-driving architecture, Iron, GX, and global expansion.
+- [He Xiaopeng / 何小鹏](entities/HeXiaopeng.md) — XPeng founder, chair, and CEO framing the company around physical AI, intelligent vehicles, humanoid robots, and founder-led high-end marketing.
+- [XPeng / 小鹏汽车](entities/XPeng.md) — Automotive and robotics company spanning physical AI, Iron, GX, MONA 03 volume, product-line clarity, and the challenge of moving from low-price access to premium perception.
 - [XPeng Iron](entities/XPengIron.md) — XPeng humanoid robot used to explore human-like general robots, public demo credibility, consumer acceptance, and physical-AI commercialization.
-- [XPeng GX](entities/XPengGX.md) — Full-size six-seat flagship SUV presented as a physical-AI vehicle combining family-car positioning, redundancy, chassis control, and intelligent interaction.
+- [XPeng GX](entities/XPengGX.md) — Full-size six-seat flagship SUV presented as a physical-AI vehicle and later as XPeng's price-aggressive high-end branding test.
 - [Dai Yusen / 戴雨森](entities/DaiYusen.md) — Investor discussing AI return metrics, harness value, agent marketplaces, AI-native startups, and the need to revise views as coding agents improve.
 - [Stanley Druckenmiller](entities/StanleyDruckenmiller.md) — Investor reference point used by Dai Yusen to frame a trading-oriented public-market approach to AI exposure.
 - [Freda / Friday](entities/Freda.md) — Bay Area investor and Altimeter Capital partner discussing token economics, model-company competition, software revaluation, AI organization redesign, market risk, and human connection under AI.
@@ -5269,7 +5273,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [One Life](entities/OneLife.md) — RV brand or fit-out style associated with Guigui's secondhand B-type RV in EP122.
 - [Maxus V90](entities/MaxusV90.md) — Van platform used as the source's concrete B-type RV example.
 - [张一贞](entities/ZhangYizhen.md) — 面基 guest explaining A-share valuation indicators, trend rules, asset rotation, and drawdown-aware investor psychology.
-- [疯投圈](entities/FengTouQuan.md) — Podcast/show context for episodes on consumer categories, experience consumption, Pop Mart, coffee, DJI, Japan product experience, and Korea marketing.
+- [疯投圈](entities/FengTouQuan.md) — Podcast/show context for episodes on consumer categories, experience consumption, Pop Mart, coffee, DJI, Japan/Korea brand comparison, and Chinese premium EVs.
 - [Yeren Xiansheng](entities/YerenXiansheng.md) — Chinese store-made gelato/ice-cream chain used as the episode's core case for sampling, fresh-made positioning, and franchise expansion.
 - [Zhong Xuegao](entities/ZhongXuegao.md) — Chinese prepackaged premium ice-cream brand used as the cold-chain and high-price contrast case.
 - [Haagen-Dazs](entities/HaagenDazs.md) — Premium ice-cream incumbent used to discuss China store contraction, traffic decline, and weak fit with the current consumption environment.
@@ -5936,6 +5940,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [High-End EV Branding / 新能源车高端心智](concepts/HighEndEVBranding.md) — Premium electric-vehicle positioning problem where brands must justify higher prices despite feature convergence, price pressure, and crowded Chinese competition.
+- [EV Battery Leasing / 电动车电池租赁](concepts/EVBatteryLeasing.md) — Battery-as-recurring-payment structure that lowers upfront EV purchase friction while preserving sticker-price and brand-positioning signals.
+- [Battery Swap Infrastructure / 换电体系](concepts/BatterySwapInfrastructure.md) — Physical network and operating system for exchanging EV batteries, supporting NIO's battery-leasing and residual-value narrative.
+- [EV Product Line Clarity / 电动车产品线清晰度](concepts/EVProductLineClarity.md) — Product-strategy discipline of making EV model names, tiers, target users, and upgrade paths legible enough to support premium trust.
+- [Automotive Media Influence / 汽车媒体影响力](concepts/AutomotiveMediaInfluence.md) — Outsized role of reviewers, bloggers, self-media, and public debate in expensive, low-frequency car purchase decisions.
+- [Smart Driving Democratization / 智驾平权](concepts/SmartDrivingDemocratization.md) — Claim that intelligent-driving capability can move from flagship cars into lower-priced mass-market EVs, creating both volume and brand-positioning risk.
 - [Ocean Alkalinity Enhancement](concepts/OceanAlkalinityEnhancement.md) — Marine carbon-removal approach that uses alkaline materials such as olivine to shift seawater carbon toward bicarbonate storage.
 - [Olivine Carbon Removal](concepts/OlivineCarbonRemoval.md) — Mineral-specific ocean alkalinity enhancement pathway tested by Vesta through olivine placed on the sea floor.
 - [Marine Carbon Removal](concepts/MarineCarbonRemoval.md) — Ocean-based carbon-removal category whose verification depends on seawater chemistry, lifecycle accounting, and ecological monitoring.
@@ -9000,7 +9010,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI-Compressed Investment Research Advantage](concepts/AICompressedInvestmentResearchAdvantage.md) — Idea that AI reduces information and initial-analysis advantage while leaving judgment, behavior, data quality, and self-knowledge scarce.
 - [Coffee Chain Institutionalization](concepts/CoffeeChainInstitutionalization.md) — shift from coffee startup land-grab toward control deals, professional managers, and institutional ownership of proven chain assets.
 - [Coffee Chain Localization](concepts/CoffeeChainLocalization.md) — ownership and operating adaptation needed when global coffee brands face China's local price, product, and store-cadence pressure.
-- [Premium-Everyday Brand Tension](concepts/PremiumEverydayBrandTension.md) — conflict between premium scarcity/status and chain-store frequency, convenience, and value.
+- [Premium-Everyday Brand Tension](concepts/PremiumEverydayBrandTension.md) — Conflict between premium scarcity/status and mass convenience, frequency, volume, or value pricing across coffee chains and EV product lines.
 - [Beverage Category Convergence](concepts/BeverageCategoryConvergence.md) — tea-drink and coffee chains moving into each other's categories through shared beverage habits and store networks.
 - [Portable Creator Cameras](concepts/PortableCreatorCameras.md) — Action, gimbal, and 360-degree cameras that serve short-video and creator workflows beyond phone-only recording.
 - [Hardware Category Definition Power](concepts/HardwareCategoryDefinitionPower.md) — Advantage of teaching the market what a hardware category is, what quality looks like, and what price is acceptable.
@@ -9604,7 +9614,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cross-Cultural User Research](concepts/CrossCulturalUserResearch.md) — Product research practice for studying language, culture, identity, payment, and design-execution differences across markets.
 - [Middle East Social Game Growth](concepts/MiddleEastSocialGameGrowth.md) — Localized game-social growth pattern combining atmosphere supply, high-value users, anonymity, acquisition, and paid gifts.
 - [Lifestyle Cost Rationalization](concepts/LifestyleCostRationalization.md) — Practice of preserving comfort and purpose while replacing status-heavy purchases with lower-cost variants.
-- [Low Price Brand Perception](concepts/LowPriceBrandPerception.md) — Problem of making a very inexpensive product feel credible, attractive, and branded rather than cheap.
+- [Low Price Brand Perception](concepts/LowPriceBrandPerception.md) — Problem of making a very inexpensive product or entry vehicle feel credible, attractive, and branded rather than cheap.
 - [Quality Low Price And Reasoned Premium / 有品质的低价与有理由的溢价](concepts/QualityLowPriceReasonedPremium.md) — Consumer-demand frame where buyers pay for either credible value-for-money or a clear emotional, cultural, social, or product reason for premium pricing.
 - [Retail Incrementality](concepts/RetailIncrementality.md) — Proof that a product grows category sales or creates impulse demand instead of only cannibalizing existing shelf sales.
 - [Direct To Consumer Cash Flow](concepts/DirectToConsumerCashFlow.md) — Cash-flow and learning advantage from selling directly to customers before or alongside retail channels.
