@@ -5731,6 +5731,10 @@
     "title": "Caitlin Clark",
     "url": "/wiki/entities/caitlinclark/"
   },
+  "CaitlinGorback": {
+    "title": "Caitlin Gorback",
+    "url": "/wiki/entities/caitlingorback/"
+  },
   "CalculatedPublics": {
     "title": "Calculated Publics / 计算出的公众",
     "url": "/wiki/concepts/calculatedpublics/"
@@ -9235,6 +9239,10 @@
     "title": "Demand Shock Product-Market Fit",
     "url": "/wiki/concepts/demandshockproductmarketfit/"
   },
+  "DemandSideHousingAffordabilityPolicy": {
+    "title": "Demand-Side Housing Affordability Policy",
+    "url": "/wiki/concepts/demandsidehousingaffordabilitypolicy/"
+  },
   "DemianNovel": {
     "title": "《德米安》 / Demian",
     "url": "/wiki/entities/demiannovel/"
@@ -11479,6 +11487,10 @@
     "title": "《放学后的小巷》",
     "url": "/wiki/entities/fangxuehoudexiaoxiang/"
   },
+  "FannieMae": {
+    "title": "Fannie Mae",
+    "url": "/wiki/entities/fanniemae/"
+  },
   "FanqieNovel": {
     "title": "番茄小说 / Fanqie Novel",
     "url": "/wiki/entities/fanqienovel/"
@@ -12686,6 +12698,10 @@
   "Freda": {
     "title": "Freda / Friday",
     "url": "/wiki/entities/freda/"
+  },
+  "FreddieMac": {
+    "title": "Freddie Mac",
+    "url": "/wiki/entities/freddiemac/"
   },
   "FreeCashFlowIndexing": {
     "title": "Free Cash Flow Indexing",
@@ -15255,6 +15271,10 @@
     "title": "Housing Restriction Backfire",
     "url": "/wiki/concepts/housingrestrictionbackfire/"
   },
+  "HousingWealthAffordabilityTension": {
+    "title": "Housing Wealth Affordability Tension",
+    "url": "/wiki/concepts/housingwealthaffordabilitytension/"
+  },
   "HoustonRockets": {
     "title": "Houston Rockets",
     "url": "/wiki/entities/houstonrockets/"
@@ -16618,6 +16638,10 @@
   "JamesHacker": {
     "title": "James Hacker / Jim Hacker / 詹姆斯·哈克",
     "url": "/wiki/entities/jameshacker/"
+  },
+  "JamesLawrence": {
+    "title": "James Lawrence",
+    "url": "/wiki/entities/jameslawrence/"
   },
   "JamesLovelock": {
     "title": "James Lovelock",
@@ -21906,6 +21930,10 @@
   "MortgageApproval": {
     "title": "Mortgage Approval",
     "url": "/wiki/concepts/mortgageapproval/"
+  },
+  "MortgageBackedSecuritiesRatePolicy": {
+    "title": "Mortgage-Backed Securities Rate Policy",
+    "url": "/wiki/concepts/mortgagebackedsecuritiesratepolicy/"
   },
   "Mosuo": {
     "title": "Mosuo",
@@ -30595,6 +30623,10 @@
     "title": "Susan Griffin-Black",
     "url": "/wiki/entities/susangriffinblack/"
   },
+  "SusanWachter": {
+    "title": "Susan Wachter",
+    "url": "/wiki/entities/susanwachter/"
+  },
   "SusanWojcicki": {
     "title": "Susan Wojcicki",
     "url": "/wiki/entities/susanwojcicki/"
@@ -35866,6 +35898,10 @@
   "can-transforming-neighborhoods-help-kids-escape-poverty": {
     "title": "Can transforming neighborhoods help kids escape poverty?",
     "url": "/wiki/sources/can-transforming-neighborhoods-help-kids-escape-poverty/"
+  },
+  "can-trump-make-buying-a-home-more-affordable": {
+    "title": "Can Trump make buying a home more affordable?",
+    "url": "/wiki/sources/can-trump-make-buying-a-home-more-affordable/"
   },
   "can-world-cup-mania-grow-mls-in-the-us": {
     "title": "Can World Cup mania grow MLS in the U.S.?",

@@ -2,7 +2,7 @@
 title: "Housing Restriction Backfire"
 type: concept
 tags: [housing, policy, regulation, unintended-consequences]
-sources: [the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, live-anthropic-co-founder-on-ai-and-jobs, two-indicators-for-lowering-the-rent]
+sources: [the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, live-anthropic-co-founder-on-ai-and-jobs, two-indicators-for-lowering-the-rent, can-trump-make-buying-a-home-more-affordable]
 last_updated: 2026-08-07
 ---
 
@@ -16,6 +16,8 @@ The concept does not argue against all regulation. The SRO segment explicitly in
 
 [[the-skyscrapers-that-nimbys-and-zoning-couldnt-stop]] adds a case where the restriction is partly bypassed. The [[SquamishNation|Squamish Nation]] can build high-density rental housing on [[SinakVillageSite|sovereign land]] near [[Vancouver]], so the source shows what normal zoning and local-veto politics may prevent elsewhere.
 
+[[can-trump-make-buying-a-home-more-affordable]] adds a narrower investor-finance version. The source says Trump's executive order does not ban large institutional buyers, but it tries to deny mortgage-finance support and trigger antitrust scrutiny. The backfire risk is lower than a broad ban, yet the episode still treats the policy as limited because many large buyers use cash and the underlying supply shortage remains.
+
 ## Key Claims
 - Restricting institutional owners can hit new rental construction if the law does not separate existing-home purchases from new supply.
 - Raising housing standards can become exclusionary when no substitute affordable units are built.
@@ -24,6 +26,7 @@ The concept does not argue against all regulation. The SRO segment explicitly in
 - Single-family zoning can preserve current neighborhood expectations while making the broader affordability problem worse.
 - Backfire can also be political: the beneficiaries of new homes are often absent from the local meetings where restrictions are defended.
 - When a sovereign landholder can bypass ordinary zoning vetoes, the resulting project can reveal the scale of housing that local restrictions might otherwise suppress.
+- Narrow financing restrictions may avoid some build-to-rent backfire, but they may also fail to change behavior if targeted investors do not rely on the restricted financing channel.
 
 ## Connections
 - [[HousingAffordabilitySupplyMechanics]] - broader affordability frame.
@@ -32,3 +35,4 @@ The concept does not argue against all regulation. The SRO segment explicitly in
 - [[SROLossAndHomelessness]] - downstream harm when cheap rooms vanish.
 - [[FutureResidentHousingVoice]] - representation problem added by the Planet Money live source.
 - [[SovereignHousingDevelopment]], [[LocalVetoHousingPolitics]], and [[PermittingDelayCost]] - zoning-bypass and approval-cost branch added by the Squamish source.
+- [[DemandSideHousingAffordabilityPolicy]], [[InstitutionalSingleFamilyRental]], and [[CaitlinGorback]] - Trump investor-finance branch.

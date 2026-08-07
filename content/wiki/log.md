@@ -6677,3 +6677,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | Can Trump make buying a home more affordable?
+
+Added source page for a Planet Money episode on Trump housing-policy moves, James Lawrence's first-time-buyer strain, institutional home investor concentration, mortgage-backed-security purchases, and the continuing starter-home supply constraint. Created pages for James Lawrence, Caitlin Gorback, Susan Wachter, Fannie Mae, Freddie Mac, Demand-Side Housing Affordability Policy, Mortgage-Backed Securities Rate Policy, and Housing Wealth Affordability Tension; updated overview, index, Planet Money, Donald Trump, Housing Affordability Supply Mechanics, Institutional Single-Family Rental, Corporate Landlord Tradeoffs, Housing Restriction Backfire, Future Resident Housing Voice, Federal Trade Commission, and U.S. Department of Justice. No direct contradiction found, but the source qualifies the earlier institutional-landlord scale claim by using different denominators and showing stronger local concentration while preserving the national supply-side conclusion.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

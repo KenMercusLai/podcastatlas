@@ -2,13 +2,15 @@
 title: "Housing Affordability Supply Mechanics"
 type: concept
 tags: [housing, economics, affordability, supply]
-sources: [the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, live-anthropic-co-founder-on-ai-and-jobs, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, can-transforming-neighborhoods-help-kids-escape-poverty]
+sources: [the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, live-anthropic-co-founder-on-ai-and-jobs, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, can-transforming-neighborhoods-help-kids-escape-poverty, can-trump-make-buying-a-home-more-affordable]
 last_updated: 2026-08-07
 ---
 
 # Housing Affordability Supply Mechanics
 
 Housing affordability supply mechanics is the source's insistence that high rents and prices need to be explained through construction, interest rates, financing, available housing forms, and policy constraints rather than through one visible culprit. In [[two-indicators-for-lowering-the-rent]], corporate landlords are politically salient but not large enough nationally to explain housing-cost pressure on their own.
+
+[[can-trump-make-buying-a-home-more-affordable]] adds the first-time-buyer and federal demand-policy version. [[JamesLawrence]]'s down-payment struggle makes affordability personal, while [[CaitlinGorback]] and [[SusanWachter]] argue that investor restrictions and mortgage-backed-security purchases may provide targeted or marginal relief without resolving the need to build more homes.
 
 The concept spans both halves of the episode. [[InstitutionalSingleFamilyRental]] is treated as too small nationally but locally relevant, while [[SingleRoomOccupancyHousing]] shows what happens when a cheap housing form is regulated, converted, or socially rejected out of existence.
 
@@ -33,6 +35,7 @@ The concept spans both halves of the episode. [[InstitutionalSingleFamilyRental]
 - Housing politics must count would-be residents and future generations, not only current homeowners already present in neighborhood decisions.
 - Sovereign land-use authority can change housing supply by reducing the number of local veto points, while still requiring infrastructure coordination.
 - Permitting delays can raise housing costs by making approved land more valuable before construction begins.
+- Demand-side tools such as investor restrictions or mortgage-bond purchases may ease some buyer pressure, but the source treats starter-home supply as the deeper constraint.
 
 ## Connections
 - [[CorporateLandlordTradeoffs]] - corporate-ownership branch.
@@ -44,3 +47,4 @@ The concept spans both halves of the episode. [[InstitutionalSingleFamilyRental]
 - [[HOPEVIProgram]], [[PublicHousingDisplacement]], and [[NeighborhoodOpportunityRevitalization]] - public-housing replacement branch added by Planet Money.
 - [[DarylFairweather]], [[Redfin]], and [[FutureResidentHousingVoice]] - zoning and future-resident branch added by Planet Money.
 - [[SquamishNation]], [[SinakVillageSite]], [[SovereignHousingDevelopment]], [[LocalVetoHousingPolitics]], and [[PermittingDelayCost]] - Vancouver-area sovereign-development branch added by Planet Money.
+- [[JamesLawrence]], [[CaitlinGorback]], [[SusanWachter]], [[DemandSideHousingAffordabilityPolicy]], [[MortgageBackedSecuritiesRatePolicy]], and [[HousingWealthAffordabilityTension]] - first-time-buyer and Trump housing-policy branch.

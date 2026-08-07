@@ -2,7 +2,7 @@
 title: "Future Resident Housing Voice"
 type: concept
 tags: [housing, zoning, policy, economics]
-sources: [the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, live-anthropic-co-founder-on-ai-and-jobs]
+sources: [the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, live-anthropic-co-founder-on-ai-and-jobs, can-trump-make-buying-a-home-more-affordable]
 last_updated: 2026-08-07
 ---
 
@@ -14,12 +14,15 @@ The concept extends [[HousingAffordabilitySupplyMechanics]] by adding a represen
 
 [[the-skyscrapers-that-nimbys-and-zoning-couldnt-stop]] extends the frame through the [[SquamishNation|Squamish Nation]]'s seven-generations planning horizon. The future residents at stake are not only renters excluded from [[Vancouver]]'s housing market, but also future Squamish members whose land, wealth, and public visibility are shaped by today's project scale.
 
+[[can-trump-make-buying-a-home-more-affordable]] adds the young-buyer version through [[JamesLawrence]]. The episode's [[HousingWealthAffordabilityTension]] shows why would-be buyers can be politically weaker than current homeowners: cheaper homes help future residents enter the market, but they can also threaten the wealth expectations of people who already own.
+
 ## Key Claims
 - Current homeowners often have organized voice against neighborhood change, while future residents are politically invisible.
 - Eliminating single-family zoning is presented as one major supply reform, but new supply affects affordability slowly.
 - Even expensive new housing can matter if it frees up older or cheaper units through household movement.
 - The musical-chairs metaphor captures the source's central claim: without more chairs, excluded buyers cannot sit down.
 - Indigenous sovereignty adds another absent-party problem: future generations of the landholding nation may not be represented in ordinary neighborhood veto politics.
+- First-time buyers can be present in national rhetoric but still lose to existing-homeowner wealth politics when price declines are politically unacceptable.
 
 ## Connections
 - [[DarylFairweather]] and [[Redfin]] - source economist and housing-market context.
@@ -28,3 +31,4 @@ The concept extends [[HousingAffordabilitySupplyMechanics]] by adding a represen
 - [[SquamishNation]], [[WilsonWilliams]], [[SovereignHousingDevelopment]], and [[LocalVetoHousingPolitics]] - seven-generations and sovereign-development branch added by Planet Money.
 - [[NeighborhoodOpportunityAccess]] and [[NeighborhoodOpportunityRevitalization]] - broader opportunity and place policy branch.
 - [[RajChetty]] - book-tour guest mentioned in the source and existing housing-opportunity economist in the wiki.
+- [[JamesLawrence]], [[HousingWealthAffordabilityTension]], and [[DemandSideHousingAffordabilityPolicy]] - first-time-buyer branch added by the Trump housing episode.
