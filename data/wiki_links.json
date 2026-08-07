@@ -1215,6 +1215,10 @@
     "title": "AI And Robotic Elder-Care Limits / AI与机器人养老边界",
     "url": "/wiki/concepts/aiandroboticeldercarelimits/"
   },
+  "AIAnswerEvaluation": {
+    "title": "AI Answer Evaluation",
+    "url": "/wiki/concepts/aianswerevaluation/"
+  },
   "AIAnswerSourceAttribution": {
     "title": "AI Answer Source Attribution",
     "url": "/wiki/concepts/aianswersourceattribution/"
@@ -1599,6 +1603,10 @@
     "title": "AI Infrastructure Full-Stack Moat",
     "url": "/wiki/concepts/aiinfrastructurefullstackmoat/"
   },
+  "AIInteractionInternationalization": {
+    "title": "AI Interaction Internationalization",
+    "url": "/wiki/concepts/aiinteractioninternationalization/"
+  },
   "AIInteractiveContentPlatforms": {
     "title": "AI Interactive Content Platforms",
     "url": "/wiki/concepts/aiinteractivecontentplatforms/"
@@ -1870,6 +1878,10 @@
   "AIToyCompanionship": {
     "title": "AI Toy Companionship / AI玩具陪伴",
     "url": "/wiki/concepts/aitoycompanionship/"
+  },
+  "AITrainerLabor": {
+    "title": "AI Trainer Labor",
+    "url": "/wiki/concepts/aitrainerlabor/"
   },
   "AITrainingDataScarcity": {
     "title": "AI Training Data Scarcity",
@@ -4898,6 +4910,10 @@
   "BeverageCategoryConvergence": {
     "title": "Beverage Category Convergence",
     "url": "/wiki/concepts/beveragecategoryconvergence/"
+  },
+  "BiancaContentEngineer": {
+    "title": "Bianca (content engineer)",
+    "url": "/wiki/entities/biancacontentengineer/"
   },
   "Bianfeng": {
     "title": "Bianfeng / 边锋",
@@ -8047,6 +8063,10 @@
     "title": "Consciousness Measurement",
     "url": "/wiki/concepts/consciousnessmeasurement/"
   },
+  "ConsensusTrainedArtBoundary": {
+    "title": "Consensus-Trained Art Boundary",
+    "url": "/wiki/concepts/consensustrainedartboundary/"
+  },
   "ConsentBasedRecording": {
     "title": "Consent-Based Recording",
     "url": "/wiki/concepts/consentbasedrecording/"
@@ -8194,6 +8214,10 @@
   "ContentEcosystemGovernance": {
     "title": "Content Ecosystem Governance",
     "url": "/wiki/concepts/contentecosystemgovernance/"
+  },
+  "ContentEngineering": {
+    "title": "Content Engineering",
+    "url": "/wiki/concepts/contentengineering/"
   },
   "ContestedForensicAttribution": {
     "title": "Contested Forensic Attribution",
@@ -11666,6 +11690,10 @@
   "Fable5": {
     "title": "Fable 5",
     "url": "/wiki/entities/fable5/"
+  },
+  "FaceSiliconValley101": {
+    "title": "Face (硅谷101)",
+    "url": "/wiki/entities/facesiliconvalley101/"
   },
   "Facebook": {
     "title": "Facebook",
@@ -32835,6 +32863,10 @@
     "title": "Tonle Sap Lake / 洞里萨湖",
     "url": "/wiki/entities/tonlesaplake/"
   },
+  "TonyContentEngineer": {
+    "title": "东尼 / Tony (content engineer)",
+    "url": "/wiki/entities/tonycontentengineer/"
+  },
   "TonyFadell": {
     "title": "Tony Fadell",
     "url": "/wiki/entities/tonyfadell/"
@@ -37206,6 +37238,10 @@
   "e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e": {
     "title": "E244｜端到端vs上下分层：机器人路径之争，正在转向？",
     "url": "/wiki/sources/e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e/"
+  },
+  "e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11": {
+    "title": "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的",
+    "url": "/wiki/sources/e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11/"
   },
   "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0": {
     "title": "E42 孟岩对话韦青：沉默的主角",

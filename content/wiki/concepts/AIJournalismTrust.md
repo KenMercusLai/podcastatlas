@@ -2,11 +2,13 @@
 title: "AI Journalism Trust"
 type: concept
 tags: [ai, journalism, trust]
-sources: [ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi, ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
+sources: [e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11, ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi, ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
 last_updated: 2026-08-07
 ---
 
 # AI Journalism Trust
+
+[[e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11]] adds an upstream model-behavior layer. Instead of only asking whether AI-written journalism should be trusted, the [[SiliconValley101]] episode asks how journalistic skills such as sourcing, context, follow-up questions, uncertainty handling, and audience awareness are being converted into [[ContentEngineering]] and [[AIAnswerEvaluation]] for general-purpose assistants.
 
 [[ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi]] adds a historical-cultural reporting version through [[HistoricalReportingAIHallucination|历史报道中的AI幻觉]]. The [[TalkSanlian|Talk三联]] reporters describe AI tools as useful for route planning, material sorting, and discussion, but unsafe as factual authorities when they invent classical phrasing, book titles, scholar names, or chronology.
 
@@ -38,6 +40,7 @@ The concept connects [[AIContentProvenance]] to a deeper [[TrustAsBusinessAsset]
 
 ## Connections
 - [[HistoricalReportingAIHallucination]], [[TangPoetryRoad]], [[FieldworkAsKnowledgeMethod]], and [[ObservationBeforeInference]] - EP264 historical-cultural reporting extension.
+- [[ContentEngineering]], [[AIAnswerEvaluation]], [[AIInteractionInternationalization]], and [[AITrainerLabor]] - E245's conversion of journalism skills into model-behavior work.
 - [[AIWrittenJournalism]], [[AIRewriteDesk]], and [[NewsroomAIAdoption]] - production-side causes.
 - [[ThePlainDealer]], [[ChrisQuinn]], and [[WillaRemus]] - source case and perspectives.
 - [[AIContentProvenance]], [[AIContentDevaluation]], and [[TrustAsBusinessAsset]] - disclosure, attention, and credibility frames.

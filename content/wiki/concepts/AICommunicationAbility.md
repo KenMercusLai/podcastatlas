@@ -2,11 +2,13 @@
 title: "AI Communication Ability"
 type: concept
 tags: [ai, communication, work, learning]
-sources: [e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
-last_updated: 2026-07-09
+sources: [e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
+last_updated: 2026-08-07
 ---
 
 # AI Communication Ability
+
+[[e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11]] adds a voice-and-interviewing version. [[BiancaContentEngineer|Bianca]] argues that voice input can expose fuller thinking than edited text, while [[TonyContentEngineer|东尼 / Tony]] connects good AI prompting to journalistic context-setting and follow-up questions. The source therefore frames communication with AI as an extension of interviewing and editorial context work, not only prompt mechanics.
 
 AI communication ability is the Vol. 164 claim that clear expression, listening, task framing, and written prompts become core production skills when people work through agents. In [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]], the hosts argue that vague human instructions create vague AI work, while structured writing and hand-typed prompts can reduce ambiguity in complex tasks.
 
@@ -31,8 +33,10 @@ The concept connects ordinary communication to [[AIEngineeringThinking]]. A pers
 - Communication with AI includes expressing identity, taste, and rejection criteria, not only the initial task request.
 - In high-AI contexts, communicating a reusable frame can be more valuable than delivering a finished artifact.
 - Prompting can include documents, notes, and memory, so AI communication ability includes deciding what context should carry the user's intent.
+- Interviewing skills matter because good AI interaction may require background setup, live follow-up, and noticing what the user has not stated directly.
 
 ## Connections
+- [[ContentEngineering]], [[AIAnswerEvaluation]], [[VoiceInteraction]], and [[TonyContentEngineer|东尼 / Tony]] — E245's interviewing and voice-input extension.
 - [[ContextEngineering]] — communication turns tacit preferences and requirements into reusable context.
 - [[AIEngineeringThinking]] — engineering form of clear requirements, tests, logs, and acceptance criteria.
 - [[HumanJudgmentUnderAI]] — final decisions still require the human to understand the work.

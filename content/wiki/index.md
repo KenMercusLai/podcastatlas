@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的](sources/e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11.md) — 硅谷101 episode on content engineering, AI answer evaluation, media-worker model training, interaction internationalization, sycophantic assistant risk, and the creative boundary of consensus-trained models.
 - [AI 不只比智商，WAIC 和 Kimi K3 透露了什么新竞争](sources/ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1.md) — Keji Luandun episode on WAIC's shift toward deployment, Kimi K3 coding workflow, open-weight boundaries, model routing, embodied-AI demo limits, and speech-to-text cost optimization.
 - [Stuck at $50K ARR for 5 Years. Now $1.5M With AI Agents.](sources/stuck-at-50k-arr-for-5-years-now-1-5m-with-ai-agents.md) — The SaaS Podcast episode with George Georgiadis on Happierleads' five-year $50K ARR plateau, AppSumo tradeoffs, outbound email growth, an internal AI operating system, and the limits of one-person AI-operated SaaS.
 - [A modern-day odyssey through AI chatbot hellscape](sources/tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128.md) — Marketplace Tech episode with Dylan Thompson on a missing $1,700 e-bike, chatbot-first customer service, automated claims loops, consumer preference for human help, and AI as a new face of service sludge.
@@ -859,6 +860,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Face (硅谷101)](entities/FaceSiliconValley101.md) — 硅谷101 host/narrator using personal ChatGPT interaction, journalism labor, sycophantic AI, and verification concerns to frame E245.
+- [东尼 / Tony (content engineer)](entities/TonyContentEngineer.md) — Former media worker and AI model-content practitioner explaining content engineering, internationalization, and podcast-like voice-agent design.
+- [Bianca (content engineer)](entities/BiancaContentEngineer.md) — Content-engineering speaker grounding AI answer evaluation in product goals, intent reading, uncertainty handling, and consensus-trained art limits.
 - [WAIC](entities/WAIC.md) — World Artificial Intelligence Conference context used by Keji Luandun to read the AI industry's shift from model spectacle toward landing, commercialization, and deployment.
 - [Kimi K3](entities/KimiK3.md) — Kimi model/product case tested for a podcast-host dialogue agent, adding latency, token-use, workflow-fit, and open-weight release-boundary material.
 - [George Georgiadis](entities/GeorgeGeorgiadis.md) — Happierleads founder who moved from a long $50K ARR plateau to about $1.5M ARR with no employees, while later warning that solo AI operation remains founder-dependent.
@@ -5880,6 +5884,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Content Engineering](concepts/ContentEngineering.md) — AI model-behavior role that turns editorial taste, examples, rubrics, cultural context, and dialogue judgment into better answers.
+- [AI Trainer Labor](concepts/AITrainerLabor.md) — Media and creative-worker labor of grading, rewriting, and demonstrating outputs for model training, combining expert-data value with precarity.
+- [AI Answer Evaluation](concepts/AIAnswerEvaluation.md) — Product-specific method for judging whether an AI reply handles intent, tone, uncertainty, attribution, context, and follow-up well.
+- [AI Interaction Internationalization](concepts/AIInteractionInternationalization.md) — Cross-language AI behavior work that adapts examples, references, implied meaning, fandom context, and cultural fit rather than translating literally.
+- [Consensus-Trained Art Boundary](concepts/ConsensusTrainedArtBoundary.md) — Creative-AI limit where models optimized toward broad human consensus may support workflows while struggling with strange, non-consensus art.
 - [AI Demo Deployment Gap](concepts/AIDemoDeploymentGap.md) — Gap between AI demonstrations and buyable, deployable, stable systems with customers, costs, routing, and workflow fit.
 - [Open Weight Release Boundary](concepts/OpenWeightReleaseBoundary.md) — Distinction between downloadable/self-hostable model weights and full open source including training code, data, and process.
 - [Top Model Build Runtime Split](concepts/TopModelBuildRuntimeSplit.md) — Practice of using frontier models for tool-building and unknown problems while routing runtime work to cheaper models or deterministic systems.

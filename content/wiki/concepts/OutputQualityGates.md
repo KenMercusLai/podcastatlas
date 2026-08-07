@@ -2,13 +2,15 @@
 title: "Output Quality Gates"
 type: concept
 tags: [ai, quality, workflow, verification]
-sources: [e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]
-last_updated: 2026-07-08
+sources: [e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]
+last_updated: 2026-08-07
 ---
 
 # Output Quality Gates
 
 Output quality gates are explicit standards that decide whether AI work is accepted, revised, or rejected. In [[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]], [[PingGe]] argues that users need to define what counts as good output, what violates expectation, and which requirements must trigger a redo.
+
+[[e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11]] adds a content-quality version through [[AIAnswerEvaluation]]. [[BiancaContentEngineer|Bianca]] describes judging why an answer is a 7 instead of a 10 by decomposing tone, intent, factual uncertainty, attribution, cultural context, and product purpose.
 
 The concept generalizes [[AICodingVerification]] beyond code. In software, gates include compilation, tests, CI, deployment, and runtime checks. For writing, research, operations, design, or personal assistants, gates may include source grounding, tone, completeness, decision usefulness, privacy boundaries, or fit to the user's style and values.
 
@@ -21,10 +23,12 @@ The concept generalizes [[AICodingVerification]] beyond code. In software, gates
 - Gates are part of "raising AI": feedback becomes durable only if it changes future acceptance behavior.
 - Non-code tasks need gates because they often lack compiler-like signals; the human must specify what equivalent evidence or review looks like.
 - Gates also protect [[AIUsePacing]] by letting the user review at boundaries instead of continuously watching the agent.
+- Content gates include whether the answer understands the user's real intent, handles uncertainty honestly, and chooses a follow-up that fits the product goal.
 
 ## Connections
 
 - [[AICodingVerification]] — code-specific version of explicit quality gates.
+- [[AIAnswerEvaluation]] and [[ContentEngineering]] — content-specific evaluation and gate-setting branch added by E245.
 - [[AISkills]] — gates can be packaged into reusable procedures.
 - [[ContextEngineering]] and [[PersistentAgentMemory]] — gates become durable context and preference memory.
 - [[HumanJudgmentUnderAI]] — humans remain accountable for whether the gate is meaningful.

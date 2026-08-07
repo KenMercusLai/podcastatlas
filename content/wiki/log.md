@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-07] ingest | E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的
+
+Added source page for a 硅谷101 episode on content engineering and the media workers behind large-model replies, covering answer evaluation, voice and context, cross-cultural interaction design, AI trainer labor, sycophantic assistant risk, AI fact-checking, and the creative boundary of consensus-trained models. Created pages for Face (硅谷101), 东尼 / Tony (content engineer), Bianca (content engineer), Content Engineering, AI Trainer Labor, AI Answer Evaluation, AI Interaction Internationalization, and Consensus-Trained Art Boundary; updated overview, index, 硅谷101, ChatGPT, Meta, Google DeepMind, Gemini, Context Engineering, Human Judgment Under AI, Sycophantic AI Companion Risk, AI Journalism Trust, Data As Education, Agent Post-Training, Emotional Interaction Models, AI Communication Ability, and Output Quality Gates. No direct contradiction found; the source qualifies AI creativity and AI labor optimism by separating useful expert feedback and co-creation from the risk of precarious trainer work and consensus-flattened creative output.
+
 ## [2026-08-07] ingest | AI 不只比智商，WAIC 和 Kimi K3 透露了什么新竞争
 
 Added source page for a Keji Luandun episode using WAIC, Kimi K3 hands-on coding, open-weight release discussion, embodied-intelligence demos, model routing, and speech-to-text cost optimization to argue that AI competition is moving from raw model intelligence toward deployment, stability, cost, workflow fit, and commercial closure. Created pages for WAIC, Kimi K3, AI Demo Deployment Gap, Open Weight Release Boundary, Top Model Build Runtime Split, and Speech To Text Cost Optimization; updated overview, index, Keji Luandun, Kimi, Open Source AI Models, Model Routing Cost Control, Model Workflow Fit, AI Programming Engine Shift, AI Engineering Thinking, AI Coding Verification, Persistent Agent Memory, AI Inference Cost Structure, AI Startup Unit Economics, AI Commercialization Pressure, AI Application Layer Moat, Embodied AI, Robot Teleoperation and Remote Takeover, and Robot Demo Authenticity. No direct contradiction found; the source qualifies AI application and embodied-AI optimism by separating demos and model tests from customer pull, autonomy, deployability, open-source transparency, and sustainable unit economics.
@@ -6889,3 +6893,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint after health passed. Health scanned 9,776 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 9,776 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-07 with 9,679 nodes and 103,834 edges; they found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
