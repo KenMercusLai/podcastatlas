@@ -1943,6 +1943,10 @@
     "title": "AI Visual Merchandising",
     "url": "/wiki/concepts/aivisualmerchandising/"
   },
+  "AIVisualQualityInspection": {
+    "title": "AI Visual Quality Inspection / AI视觉质检",
+    "url": "/wiki/concepts/aivisualqualityinspection/"
+  },
   "AIVoiceCloningRights": {
     "title": "AI Voice Cloning Rights",
     "url": "/wiki/concepts/aivoicecloningrights/"
@@ -5855,6 +5859,10 @@
     "title": "COPPA",
     "url": "/wiki/concepts/coppa/"
   },
+  "COSMOPlat": {
+    "title": "COSMOPlat / 卡奥斯",
+    "url": "/wiki/entities/cosmoplat/"
+  },
   "COWZ": {
     "title": "COWZ",
     "url": "/wiki/entities/cowz/"
@@ -9583,6 +9591,10 @@
     "title": "Delete Request and Opt Out Platform",
     "url": "/wiki/entities/deleterequestandoptoutplatform/"
   },
+  "DeliGroup": {
+    "title": "得力 / Deli Group",
+    "url": "/wiki/entities/deligroup/"
+  },
   "Delicious": {
     "title": "Delicious",
     "url": "/wiki/entities/delicious/"
@@ -12610,6 +12622,10 @@
   "FlavorAsSelfKnowledge": {
     "title": "Flavor As Self-Knowledge",
     "url": "/wiki/concepts/flavorasselfknowledge/"
+  },
+  "FlexibleManufacturing": {
+    "title": "Flexible Manufacturing / 柔性制造",
+    "url": "/wiki/concepts/flexiblemanufacturing/"
   },
   "Flexport": {
     "title": "Flexport",
@@ -15974,6 +15990,10 @@
   "HuangZiyiEducationReporter": {
     "title": "黄子翊 / Huang Ziyi",
     "url": "/wiki/entities/huangziyieducationreporter/"
+  },
+  "HuangZiyiManufacturingReporter": {
+    "title": "黄子毅 / Huang Ziyi",
+    "url": "/wiki/entities/huangziyimanufacturingreporter/"
   },
   "HuangZiyiSanlian": {
     "title": "黄子逸 / Huang Ziyi",
@@ -21055,6 +21075,14 @@
     "title": "Manufactured Prisoner Dilemma",
     "url": "/wiki/concepts/manufacturedprisonerdilemma/"
   },
+  "ManufacturingDigitalThread": {
+    "title": "Manufacturing Digital Thread / 制造数字主线",
+    "url": "/wiki/concepts/manufacturingdigitalthread/"
+  },
+  "ManufacturingDigitalTwin": {
+    "title": "Manufacturing Digital Twin / 制造数字孪生",
+    "url": "/wiki/concepts/manufacturingdigitaltwin/"
+  },
   "ManufacturingInstitute": {
     "title": "Manufacturing Institute",
     "url": "/wiki/entities/manufacturinginstitute/"
@@ -22562,6 +22590,10 @@
   "ModernizationAsCompoundGrowth": {
     "title": "Modernization As Compound Growth / 复合增长式现代化",
     "url": "/wiki/concepts/modernizationascompoundgrowth/"
+  },
+  "ModularCustomization": {
+    "title": "Modular Customization / 模块化定制",
+    "url": "/wiki/concepts/modularcustomization/"
   },
   "MoekaIida": {
     "title": "Moeka Iida",
@@ -30215,6 +30247,10 @@
     "title": "Small Nucleic Acid Drugs",
     "url": "/wiki/concepts/smallnucleicaciddrugs/"
   },
+  "SmallOrderQuickResponse": {
+    "title": "Small-Order Quick Response / 小单快反",
+    "url": "/wiki/concepts/smallorderquickresponse/"
+  },
   "SmallTownExamTakerDiscipline": {
     "title": "小镇做题家规训 / Small-Town Exam-Taker Discipline",
     "url": "/wiki/concepts/smalltownexamtakerdiscipline/"
@@ -35955,6 +35991,10 @@
     "title": "芽 / Ya Restaurant",
     "url": "/wiki/entities/yarestaurant/"
   },
+  "YagorGroup": {
+    "title": "Yagor Group / 雅戈尔",
+    "url": "/wiki/entities/yagorgroup/"
+  },
   "Yahoo": {
     "title": "Yahoo",
     "url": "/wiki/entities/yahoo/"
@@ -37690,6 +37730,10 @@
   "ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci": {
     "title": "EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？",
     "url": "/wiki/sources/ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci/"
+  },
+  "ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v": {
+    "title": "EP271 探访“柔性制造”工厂：是谁让你“想要就能买到”？",
+    "url": "/wiki/sources/ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v/"
   },
   "ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj": {
     "title": "EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离",

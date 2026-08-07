@@ -1,12 +1,14 @@
 ---
 title: "高一丁 / Gao Yiding"
 type: entity
-tags: [person, host, podcast, technology, games, science, physics, education]
-sources: [ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi, ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e, ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
+tags: [person, host, podcast, technology, games, science, physics, education, manufacturing]
+sources: [ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v, ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi, ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e, ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
 last_updated: 2026-08-07
 ---
 
 # 高一丁 / Gao Yiding
+
+[[ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v]] adds Gao's host role in a [[TalkSanlian|Talk三联]] manufacturing episode on [[FlexibleManufacturing|柔性制造]]. He frames the discussion around why consumers increasingly feel they can buy what they want immediately, then draws out the links among [[DeliGroup|得力]] stationery, [[HaierGroup|海尔]] commercial air-conditioning, [[YagorGroup|雅戈尔]] apparel, demand sensing, product design, scheduling, and smart-factory systems.
 
 [[ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk]] adds Gao's host role in a [[TalkSanlian|Talk三联]] geography episode with [[XingHaiyang|邢海洋]] on the [[MekongRiver|湄公河]]. He frames the conversation around why [[MainlandSoutheastAsia|中南半岛]] can feel both familiar and unfamiliar to Chinese listeners, then draws out the links among travel friction, [[MonsoonSeasonalSocialOrder|monsoon seasonality]], [[AngkorHydraulicEmpire|Angkor's hydraulic empire]], and the [[MekongDelta|Mekong Delta]].
 
@@ -35,6 +37,7 @@ His role in the source is to keep a broad technical subject anchored in ordinary
 [[ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw]] adds Gao's summer-reading host role. He frames the discussion around why heroic epics remain active in present-day media, from [[TheOdyssey|《奥德赛》]] and "奥德赛时间" to the [[MarvelCinematicUniverse|漫威宇宙]], games, fantasy, and the reading difficulty of ancient oral texts.
 
 ## Connections
+- [[HuangZiyiManufacturingReporter]], [[QiuLian]], [[WuLiwei]], [[DeliGroup]], [[HaierGroup]], [[YagorGroup]], and [[FlexibleManufacturing]] — EP271 flexible-manufacturing branch.
 - [[XingHaiyang]], [[MekongRiver]], [[MainlandSoutheastAsia]], [[MekongRiverGeographicWriting]], [[AngkorHydraulicEmpire]], and [[MekongDeltaColonialCanalAgriculture]] — EP267 Mekong geography branch.
 - [[AiJiangtao]], [[BoJingSanlianCulture]], [[ZhangXingyun]], [[TangPoetryRoad]], [[TangPoetryCulturalGeography]], and [[HistoricalReportingAIHallucination]] — EP264 Tang-poetry cultural-geography branch.
 - [[WeiQianSanlian]], [[WangYiranSanlian]], [[ScienceEducationAsCivicLiteracy]], [[ProjectBasedScienceLearning]], and [[ExamDrivenScienceEducation]] — EP262 science-education branch.

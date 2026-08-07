@@ -1,12 +1,14 @@
 ---
 title: "邱连 / Qiu Lian"
 type: entity
-tags: [person, journalist, food, cuisine, media]
-sources: [ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv, ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz]
+tags: [person, journalist, food, cuisine, media, manufacturing, consumer-goods]
+sources: [ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v, ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv, ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz]
 last_updated: 2026-08-07
 ---
 
 # 邱连 / Qiu Lian
+
+[[ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v]] adds Qiu Lian's manufacturing-reporting role through [[DeliGroup|得力]]. She explains how stationery [[FlexibleManufacturing|柔性制造]] depends on C-side demand sensing, IP collaborations, order scheduling, line-side material checks, pen-tip precision, and [[AIVisualQualityInspection|AI visual inspection]] rather than only faster factory labor.
 
 [[ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv]] adds Qiu Lian's fragrance and incense-reporting role. She explains how [[LineIncenseDailyLife|线香日常化]] differs from earlier high-threshold 香席 practice, and how [[IncenseFormulaReconstruction|古方香复刻]] and named scents such as "鹅梨帐中香" help contemporary consumers imagine [[ChineseFragrance|中式香气]].
 
@@ -17,6 +19,7 @@ last_updated: 2026-08-07
 The episode uses her reporting on [[Guizhou|贵州]] to show why acid, chili, fermentation, 木姜子, red sour soup, rice wine, and restaurant cases such as [[OhaGuizhouBistro|欧哈]] can move through contemporary Chinese dining. She also links the bistro trend to [[LocalAlcoholPairing|地方酒饮餐配]], especially rice-wine tasting sets and dishes designed around local grain, microbes, and seasoning.
 
 ## Connections
+- [[DeliGroup]], [[FlexibleManufacturing]], [[ManufacturingDigitalThread]], [[SmallOrderQuickResponse]], and [[AIVisualQualityInspection]] - EP271 stationery manufacturing branch.
 - [[LineIncenseDailyLife]], [[ChineseFragrance]], and [[IncenseFormulaReconstruction]] - EP263 fragrance and ancient-formula branch.
 - [[GaoYiding]], [[Heimai]], and [[BoJing]] - EP260 co-speakers.
 - [[ChineseNewSpecialtyAquaculture]], [[PreparedHighValueFoodFormats]], and [[RestaurantSupplyChainLocalization]] - farmed-food and product-format branch added by EP260.

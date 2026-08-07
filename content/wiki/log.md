@@ -6929,3 +6929,11 @@ Added source page for a 起朱楼宴宾客 algorithm-series episode with Amazon 
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP271 探访“柔性制造”工厂：是谁让你“想要就能买到”？
+
+Added source page for a Talk三联 episode on flexible manufacturing across Deli stationery, Haier central air-conditioning, Yagor apparel, and Shenzhou sportswear surge response. Created pages for 黄子毅 / Huang Ziyi, Deli Group, Yagor Group, COSMOPlat, Flexible Manufacturing, Small-Order Quick Response, Manufacturing Digital Thread, Manufacturing Digital Twin, Modular Customization, and AI Visual Quality Inspection; updated overview, index, Talk三联, 三联生活周刊, 高一丁, 邱连, 吴立伟, Haier Group, and Shenzhou International. No direct contradiction found; the source mainly qualifies logistics-only and universal-digitization explanations of fast consumer availability.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

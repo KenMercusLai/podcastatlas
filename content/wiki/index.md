@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP271 探访“柔性制造”工厂：是谁让你“想要就能买到”？](sources/ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v.md) — Talk三联 episode with 高一丁, 黄子毅, 邱连, and 吴立伟 on flexible manufacturing across Deli stationery, Haier central air-conditioning, Yagor apparel, Shenzhou sportswear surge response, digital twins, modular customization, order scheduling, and AI visual inspection.
 - [174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟](sources/174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza.md) — 起朱楼宴宾客 episode with Amazon AGI's Cha Sheng on open-source model strategy, data flywheels, cognitive debt, AI knowledge collapse, model values, enterprise and sovereign models, and AGI limits.
 - [Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)](sources/piles-of-cash-and-a-town-of-solutions-in-kenya-nigeria-summer-school.md) — Planet Money Summer School episode on Nigeria's YouWin entrepreneur grants, Kenya's Busia randomized trials, small-business financing gaps, human capital, and evidence-based development policy.
 - [The Elon game: Musk's vision of the future](sources/the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4.md) — The Intelligence episode on Elon Musk's AI and space future, his contested political claims about Europe and aid cuts, Sweden's child prison units, youth criminal responsibility, and Mona Khalil's turtle-conservation work in Lebanon.
@@ -864,6 +865,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [黄子毅 / Huang Ziyi](entities/HuangZiyiManufacturingReporter.md) — Sanlian manufacturing reporter in EP271 defining flexible manufacturing and explaining Shenzhou and Haier cases; kept distinct from same-pinyin existing pages by source spelling.
+- [得力 / Deli Group](entities/DeliGroup.md) — Stationery and office-supply manufacturer used in EP271 to show C-side demand sensing, IP-linked products, order scheduling, pen precision, and AI inspection.
+- [Yagor Group / 雅戈尔](entities/YagorGroup.md) — Apparel and menswear manufacturer used in EP271 to explain vertical control, custom suits, functional fabrics, small-order quick response, and smart-factory cost limits.
+- [COSMOPlat / 卡奥斯](entities/COSMOPlat.md) — Haier industrial-internet platform used in EP271 as the digital base for factory data, digital twins, and modular customization.
 - [查晟 / Cha Sheng](entities/ChaSheng.md) — Amazon AGI research lead interviewed about foundation-model training, taste, data flywheels, model values, and AGI limits.
 - [Amazon AGI](entities/AmazonAGI.md) — Amazon foundation-model research-team context for Cha Sheng's discussion of large-model training and AGI.
 - [Tavneet Suri](entities/TavneetSuri.md) — MIT economist and Kenyan guide for Planet Money's Nigeria and Kenya development-economics Summer School episode.
@@ -5915,6 +5920,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Flexible Manufacturing / 柔性制造](concepts/FlexibleManufacturing.md) — Manufacturing capability that links demand sensing, product design, mass production, small orders, customization, and sudden demand response.
+- [Small-Order Quick Response / 小单快反](concepts/SmallOrderQuickResponse.md) — Production pattern for inserting small or volatile orders quickly without losing quality, material control, or delivery windows.
+- [Manufacturing Digital Thread / 制造数字主线](concepts/ManufacturingDigitalThread.md) — Operational data chain tying orders, materials, warehouses, workers, equipment, status, inspection, and delivery together.
+- [Manufacturing Digital Twin / 制造数字孪生](concepts/ManufacturingDigitalTwin.md) — Factory simulation layer that lets customized manufacturing logic run digitally before costly physical execution.
+- [Modular Customization / 模块化定制](concepts/ModularCustomization.md) — Product-architecture strategy that turns varied customer requirements into recombinable standardized modules.
+- [AI Visual Quality Inspection / AI视觉质检](concepts/AIVisualQualityInspection.md) — Computer-vision quality-control pattern for identifying defects, process state, safety issues, and product-mix errors in factories.
 - [Human Taste as AI Training Signal](concepts/HumanTasteAsAITrainingSignal.md) — Frame for human problem choice, standards, feedback, and evaluation becoming both a current AI bottleneck and future training material.
 - [AI Knowledge Collapse](concepts/AIKnowledgeCollapse.md) — Risk that model-mediated search and answers converge around compressed mainstream knowledge while rare or closed-source information becomes harder to surface.
 - [Model Value Embedding](concepts/ModelValueEmbedding.md) — Claim that model values enter through data, reward, post-training, product policy, and institutional choices before users see an apparently neutral answer.
