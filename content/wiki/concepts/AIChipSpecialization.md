@@ -2,7 +2,7 @@
 title: "AI Chip Specialization"
 type: concept
 tags: [ai, semiconductors, infrastructure, hardware]
-sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]
+sources: [kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]
 last_updated: 2026-08-07
 ---
 # AI Chip Specialization
@@ -17,6 +17,8 @@ The concept matters because AI infrastructure is not only a question of buying m
 
 [[e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]] adds the detailed TPU version of specialization. [[HenryTPUEngineer|Henry]] frames [[TPU]] as powerful when [[TransformerArchitecture|Transformer]]-like workloads are stable, request volume is large, and [[XLACompiler|XLA]] plus [[TPUPodSystemOptimization|pod-level]] design can optimize the whole system. The same source adds [[ASICWorkloadPredictionRisk]]: if model forms change faster than two-to-three-year chip cycles, [[GPU]] generality and [[CUDA]] can remain economically superior.
 
+[[kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13]] adds [[ZhangJintao]]'s inference-acceleration view. He expects single-operator optimization to converge and argues that future gains may come from more bottom-layer chips tuned to model families, plus upper-layer algorithms that reduce unnecessary computation. The source therefore reinforces hardware-algorithm co-design as part of [[InferenceAccelerationStack]], not only chip design.
+
 ## Key Claims
 - Specialization becomes economically attractive when a company has enough repeated workload volume to justify custom silicon.
 - Efficiency gains are most valuable when speed, power, and utilization affect [[AIInferenceCostStructure]] or [[MaaSInfrastructure]] economics.
@@ -26,6 +28,7 @@ The concept matters because AI infrastructure is not only a question of buying m
 - Domestic specialization still has to pass the usability test: applications need software tools, drivers, model adaptation, and stable supply before a specialized chip can become a practical [[Nvidia]] substitute.
 - Specialized chips are more credible when they map to stable workload bottlenecks, such as low-latency agent calls, repeated TPU-suited workloads, or interconnect-heavy inference.
 - TPU-style specialization is strongest when workload stability, compiler control, pod-scale networking, HBM supply, and customer engineering depth all line up.
+- Specialized inference hardware becomes more credible when paired with algorithms that reduce model work, request scheduling, and deployment constraints rather than treated as a standalone speed fix.
 
 ## Connections
 - [[GPU]] and [[TPU]] - central chip categories compared in the episode.
@@ -37,3 +40,4 @@ The concept matters because AI infrastructure is not only a question of buying m
 - [[DomesticAIChipCatchUp]], [[ElectronicDesignAutomation]], [[TapeOutRisk]], and [[ComputeFreedom]] — EP270's domestic accelerator and cost-availability branch.
 - [[LowLatencyInferenceChip]], [[Groq]], [[InferenceChipStartupNarrowing]], [[TokenPerWatt]], and [[AIInfrastructureFullStackMoat]] - E230's low-latency and system-moat extension.
 - [[XLACompiler]], [[TPUPodSystemOptimization]], [[ASICWorkloadPredictionRisk]], [[HighThroughputInferenceBatching]], and [[TransformerArchitecture]] - E228's TPU-specific specialization boundary.
+- [[ZhangJintao]], [[InferenceAccelerationStack]], [[SageAttention]], [[TurboDiffusion]], and [[StreamingVideoGeneration]] — video-inference co-design case added by the Shizilukou Crossing source.

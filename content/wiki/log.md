@@ -6777,3 +6777,11 @@ Added source page for a How I Built This episode on Aman Narang and Toast, traci
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | 快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频
+
+Added source page for a Shizilukou Crossing episode with Zhang Jintao of Shengshu Technology on Vidu S1, SAGE Attention, TurboDiffusion, streaming video generation, real-time interactive video, and the inference acceleration stack behind live visual sessions. Created pages for Zhang Jintao, Shengshu Technology, Vidu, Vidu S1, SAGE Attention, TurboDiffusion, Streaming Video Generation, Real-Time Interactive Video Generation, and Inference Acceleration Stack; updated overview, index, Shizilukou Crossing, Tsinghua University, UC Berkeley, Video Models, World Models, AI Inference Cost Structure, Multimodal Intelligence, AI Interactive Entertainment, AI Simulation Content, AI Startup Unit Economics, AI Chip Specialization, and MaaS Infrastructure. No direct contradiction found; S1 performance, pricing, and industry-adoption claims are recorded as source-scoped claims rather than independently verified current product facts.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint scanned 9,656 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` from 2026-07-24 and found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM. No lint report file was saved.

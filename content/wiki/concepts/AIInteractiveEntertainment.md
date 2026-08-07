@@ -2,7 +2,7 @@
 title: "AI Interactive Entertainment"
 type: concept
 tags: [ai, games, entertainment]
-sources: [ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, 130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]
+sources: [kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13, ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, 130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]
 last_updated: 2026-08-07
 ---
 
@@ -17,6 +17,8 @@ AI interactive entertainment is the broader frame [[Xiaoning]] uses instead of "
 [[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]] adds a sandbox and world-rule version through [[TokenDrivenSoftware]]. The hosts use Zelda-like combinatorial play, generated NPC branches, AI short dramas, and element-combination games to imagine entertainment where the player can try interactions the developer did not explicitly enumerate.
 
 [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds the generated-environment and video-model branch. Project Genie-style real-time 3D worlds and Seedance-style AI video make the entertainment opportunity more concrete, while the hosts still distinguish watchable generated media from stable interactive systems that retain users.
+
+[[kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13]] adds the live video-character branch through [[ViduS1]]. [[ZhangJintao]] frames online real-time visual entertainment as a large demand area: generated characters can talk with users, react to pets, accompany game play, or read the user's screen if [[StreamingVideoGeneration]] and multimodal response are fast enough.
 
 [[130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi]] adds [[ZhangYueguang]]'s [[AIOtomeGames]] case. He treats female-oriented AI companionship as one of the more credible near-term AI game landing points because dialogue, relationship maintenance, IP packaging, and daily reachable characters fit current model strengths better than broad open-ended worlds.
 
@@ -45,6 +47,7 @@ AI interactive entertainment is the broader frame [[Xiaoning]] uses instead of "
 - AI interactive dramas may benefit from cheaper video generation, but they still need scripts, interaction design, immersion, and game-system quality rather than only lower production cost.
 - Live-action short-drama companies may explore interactive film-games, but moving into games requires validated demos, player behavior, rule design, and talent allocation beyond their current production strengths.
 - Small indie teams may adopt AI first as workflow assistance, making AI's practical value depend on existing craft and the economics of the game's niche.
+- Real-time generated video can make interactive entertainment more embodied and visual, but it raises the threshold for latency, coherence, and inference-cost control.
 
 ## Connections
 - [[AIGameIndustrialization]] — production complexity that prevents "generate game" from being equivalent to "generate image."
@@ -61,3 +64,4 @@ AI interactive entertainment is the broader frame [[Xiaoning]] uses instead of "
 - [[AIShortDrama]], [[AIVideoProductionWorkflow]], and [[PlatformizedDramaProduction]] — scripted AI-video and interactive-drama boundary added by episode 266.
 - [[LiveActionShortDrama]], [[HouChao]], and [[ShortDramaIndustrialization]] — cautious live-action operator view added by episode 269.
 - [[WuJunIndieGameCreator]], [[IndieGameCommercialization]], [[Steam]], and [[ExpertiseAmplifiedAIUse]] — EP242 small-team AI-assistance branch.
+- [[ViduS1]], [[RealTimeInteractiveVideoGeneration]], [[StreamingVideoGeneration]], and [[AIInferenceCostStructure]] — live video-character branch added by the Shizilukou Crossing source.

@@ -2,7 +2,7 @@
 title: "MaaS Infrastructure"
 type: concept
 tags: [ai, infrastructure, maas]
-sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]
+sources: [kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]
 last_updated: 2026-08-07
 ---
 # MaaS Infrastructure
@@ -33,6 +33,8 @@ The concept extends [[AIInferenceCostStructure]]. Cost structure explains why to
 
 [[e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]] adds the [[GoogleCloud]] TPU operations layer. It argues that usable MaaS capacity can come from [[TPU]] as well as GPU fleets, but only when [[XLACompiler|XLA]], [[JAX]], [[PyTorch]] compatibility, [[TPUPodSystemOptimization|pod-level]] scheduling, [[HighBandwidthMemory]], [[AdvancedPackaging]], and customer support turn raw TPU racks into reliable tokens.
 
+[[kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13]] adds the streaming-video serving layer. [[ZhangJintao]] describes deployment acceleration through multi-card parallelism, communication-compute overlap, user-request scheduling, and large-cluster operation, making [[StreamingVideoGeneration]] a MaaS problem of frame latency and continuity rather than only token throughput.
+
 ## Key Claims
 
 - Token count is a weak standalone metric because embedding, small-model, and deep-reasoning tokens have different cost and value.
@@ -53,6 +55,7 @@ The concept extends [[AIInferenceCostStructure]]. Cost structure explains why to
 - MaaS infrastructure can become an onsite-power problem when speed to deployment depends on natural gas generators and industrial supply chains.
 - MaaS infrastructure can become a GPU-cloud operations problem when raw cards must be turned into stable clusters, model services, and optimized inference.
 - MaaS infrastructure can also become a TPU-cloud operations problem when compiler behavior, framework migration, pod topology, and customer tuning determine utilization.
+- Real-time video MaaS has to optimize frame generation, response latency, long-session stability, and per-minute serving cost alongside ordinary model API reliability.
 
 ## Connections
 
@@ -73,3 +76,4 @@ The concept extends [[AIInferenceCostStructure]]. Cost structure explains why to
 - [[GoogleCloud]], [[TPU]], [[Gemini]], and [[FullStackAIPlatform]] — cloud-chip-model integration added by the Google Cloud Next source.
 - [[NeoCloud]], [[GPUCloudOperations]], [[GMICloud]], [[DataCenterPowerBottleneck]], [[InferenceAsCashFlow]], and [[TokenPerWatt]] - E230's GPU-cloud and token-efficiency extension.
 - [[TPU]], [[XLACompiler]], [[JAX]], [[PyTorch]], [[TPUPodSystemOptimization]], and [[HighThroughputInferenceBatching]] - E228's TPU-cloud and utilization extension.
+- [[ViduS1]], [[StreamingVideoGeneration]], [[InferenceAccelerationStack]], [[SageAttention]], and [[TurboDiffusion]] — real-time video serving layer added by the Shizilukou Crossing source.

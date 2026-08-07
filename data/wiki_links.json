@@ -16147,6 +16147,10 @@
     "title": "Infectious Disease Public Literacy",
     "url": "/wiki/concepts/infectiousdiseasepublicliteracy/"
   },
+  "InferenceAccelerationStack": {
+    "title": "Inference Acceleration Stack",
+    "url": "/wiki/concepts/inferenceaccelerationstack/"
+  },
   "InferenceAsCashFlow": {
     "title": "Inference as Cash Flow",
     "url": "/wiki/concepts/inferenceascashflow/"
@@ -26767,6 +26771,10 @@
     "title": "Real Robot Data Strategy",
     "url": "/wiki/concepts/realrobotdatastrategy/"
   },
+  "RealTimeInteractiveVideoGeneration": {
+    "title": "Real-Time Interactive Video Generation",
+    "url": "/wiki/concepts/realtimeinteractivevideogeneration/"
+  },
   "RealWorldAssetTokenizationRisk": {
     "title": "Real World Asset Tokenization Risk",
     "url": "/wiki/concepts/realworldassettokenizationrisk/"
@@ -28135,6 +28143,10 @@
     "title": "Sagan Effect",
     "url": "/wiki/concepts/saganeffect/"
   },
+  "SageAttention": {
+    "title": "SAGE Attention",
+    "url": "/wiki/concepts/sageattention/"
+  },
   "SahaUllsvig": {
     "title": "Saha Ullsvig",
     "url": "/wiki/entities/sahaullsvig/"
@@ -29106,6 +29118,10 @@
   "ShengshiInvestmentAcademy": {
     "title": "盛世投资研习院",
     "url": "/wiki/entities/shengshiinvestmentacademy/"
+  },
+  "ShengshuTechnology": {
+    "title": "生数科技 / Shengshu Technology",
+    "url": "/wiki/entities/shengshutechnology/"
   },
   "ShenwanLingxinFund": {
     "title": "申万菱信基金 / Shenwan Lingxin Fund",
@@ -30770,6 +30786,10 @@
   "StreamingConsolidation": {
     "title": "Streaming Consolidation",
     "url": "/wiki/concepts/streamingconsolidation/"
+  },
+  "StreamingVideoGeneration": {
+    "title": "Streaming Video Generation",
+    "url": "/wiki/concepts/streamingvideogeneration/"
   },
   "StreetJianghuSociety": {
     "title": "Street Jianghu Society",
@@ -32819,6 +32839,10 @@
     "title": "Tuogu Reform Politics / 托古改制政治",
     "url": "/wiki/concepts/tuogureformpolitics/"
   },
+  "TurboDiffusion": {
+    "title": "TurboDiffusion",
+    "url": "/wiki/concepts/turbodiffusion/"
+  },
   "Turkey": {
     "title": "Turkey",
     "url": "/wiki/entities/turkey/"
@@ -33542,6 +33566,14 @@
   "Vidiots": {
     "title": "Vidiots",
     "url": "/wiki/entities/vidiots/"
+  },
+  "Vidu": {
+    "title": "Vidu",
+    "url": "/wiki/entities/vidu/"
+  },
+  "ViduS1": {
+    "title": "Vidu S1",
+    "url": "/wiki/entities/vidus1/"
   },
   "Vienna": {
     "title": "Vienna / 维也纳",
@@ -35855,6 +35887,10 @@
     "title": "Zhang Jiayuan",
     "url": "/wiki/entities/zhangjiayuan/"
   },
+  "ZhangJintao": {
+    "title": "张金涛 / Zhang Jintao",
+    "url": "/wiki/entities/zhangjintao/"
+  },
   "ZhangKuo": {
     "title": "张阔 / Zhang Kuo",
     "url": "/wiki/entities/zhangkuo/"
@@ -37214,6 +37250,10 @@
   "keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311": {
     "title": "可以给你的 Agent 发一点零花钱了｜ S10E22",
     "url": "/wiki/sources/keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311/"
+  },
+  "kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13": {
+    "title": "快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频",
+    "url": "/wiki/sources/kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13/"
   },
   "kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun": {
     "title": "困在系统里的酒店，你不知道的携程垄断练成史",

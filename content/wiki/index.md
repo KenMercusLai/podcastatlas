@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频](sources/kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13.md) — Shizilukou Crossing episode with Zhang Jintao of Shengshu Technology on Vidu S1, SAGE Attention, TurboDiffusion, streaming video generation, real-time interactive video, and the inference acceleration stack needed for live visual sessions.
 - [Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.](sources/toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97.md) — How I Built This episode on Toast's pivot from a slow-check payment app into a restaurant operating platform, covering POS complexity, early install failures, scaling discipline, COVID off-premise tools, IPO, and Aman Narang's CEO return.
 - [AI 发展了 4 年，把应用发展没了？｜AI 年中复盘](sources/ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx.md) — 42章经 mid-2026 AI recap by Qu Kai on the model/application rotation, the 2026 application-market trough, overseas execution, chat-to-coding transition, long-horizon agents, and founder discipline around users, revenue, and cash flow.
 - [Uncanny AI: Why AI bots remember random, sometimes useless information](sources/tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128.md) — Marketplace Tech episode with Janelle Shane on chatbot memory, Claude's awkward callbacks, persistent memory files, salience failures, sensitive-topic overreach, and privacy/security controls.
@@ -848,6 +849,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张金涛 / Zhang Jintao](entities/ZhangJintao.md) — Tsinghua doctoral student and Shengshu Technology researcher working on Vidu S1, SAGE Attention, TurboDiffusion, inference acceleration, and streaming video generation.
+- [生数科技 / Shengshu Technology](entities/ShengshuTechnology.md) — AI video company behind Vidu and Vidu S1 in the Shizilukou Crossing real-time interactive video episode.
+- [Vidu](entities/Vidu.md) — Shengshu Technology video model/product family represented in this source by the real-time Vidu S1 product.
+- [Vidu S1](entities/ViduS1.md) — Real-time interactive video product that generates a live character from image, voice, and user input in the source's account.
 - [Toast](entities/Toast.md) — restaurant technology company built from a failed slow-check payment app into a restaurant operating platform.
 - [Aman Narang](entities/AmanNarang.md) — Toast co-founder and CEO interviewed by How I Built This.
 - [Steve Fredette](entities/SteveFredette.md) — Toast co-founder from the Endeca founding-team network.
@@ -5804,6 +5809,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [SAGE Attention](concepts/SageAttention.md) — Faster Attention operator discussed by Zhang Jintao as especially relevant for compute-bound video and multimodal generation workloads.
+- [TurboDiffusion](concepts/TurboDiffusion.md) — Model-level diffusion acceleration work combining faster operators, distillation, and sparse attention to reduce video-generation complexity.
+- [Streaming Video Generation](concepts/StreamingVideoGeneration.md) — Continuous video generation pattern where frames must be produced faster than playback while preserving long-session coherence and live feedback.
+- [Real-Time Interactive Video Generation](concepts/RealTimeInteractiveVideoGeneration.md) — Live generated-video session category where characters respond to voice, video, screen input, and user intent.
+- [Inference Acceleration Stack](concepts/InferenceAccelerationStack.md) — Operator, model, and deployment layers that make model serving faster and cheaper, especially for real-time video generation.
 - [Restaurant Operating System](concepts/RestaurantOperatingSystem.md) — vertical SaaS pattern where restaurant POS expands into payments, ordering, staffing, inventory, and decision support.
 - [Mission-Critical Restaurant Software](concepts/MissionCriticalRestaurantSoftware.md) — restaurant software category where outages immediately disrupt live service, payments, kitchen flow, and trust.
 - [Off-Premise Restaurant Commerce](concepts/OffPremiseRestaurantCommerce.md) — ordering, menu, payment, pickup, delivery, and communication layer made urgent by COVID-era restaurant disruption.
