@@ -1147,6 +1147,10 @@
     "title": "A Brief History of Intelligence",
     "url": "/wiki/entities/abriefhistoryofintelligence/"
   },
+  "ACLUOfNewMexico": {
+    "title": "ACLU of New Mexico",
+    "url": "/wiki/entities/acluofnewmexico/"
+  },
   "ACuo": {
     "title": "阿错 / Acuo",
     "url": "/wiki/entities/acuo/"
@@ -2691,6 +2695,14 @@
     "title": "Albert Pope / 阿尔伯特·波普",
     "url": "/wiki/entities/albertpope/"
   },
+  "Albuquerque": {
+    "title": "Albuquerque",
+    "url": "/wiki/entities/albuquerque/"
+  },
+  "AlbuquerquePoliceDepartment": {
+    "title": "Albuquerque Police Department",
+    "url": "/wiki/entities/albuquerquepolicedepartment/"
+  },
   "AlchemyChemistryContinuity": {
     "title": "Alchemy-Chemistry Continuity / 炼金术与化学连续性",
     "url": "/wiki/concepts/alchemychemistrycontinuity/"
@@ -2834,6 +2846,10 @@
   "AlfredLinTongyu": {
     "title": "Alfred 林童雨",
     "url": "/wiki/entities/alfredlintongyu/"
+  },
+  "AlfredMathewson": {
+    "title": "Alfred Mathewson",
+    "url": "/wiki/entities/alfredmathewson/"
   },
   "AlgorithmAversion": {
     "title": "Algorithm Aversion",
@@ -8895,6 +8911,10 @@
     "title": "Daniel Newman",
     "url": "/wiki/entities/danielnewman/"
   },
+  "DanielWilliamsACLU": {
+    "title": "Daniel Williams / ACLU New Mexico",
+    "url": "/wiki/entities/danielwilliamsaclu/"
+  },
   "DanjiangkouReservoir": {
     "title": "Danjiangkou Reservoir / 丹江口水库",
     "url": "/wiki/entities/danjiangkoureservoir/"
@@ -10154,6 +10174,10 @@
   "DroneDefenseEconomics": {
     "title": "Drone Defense Economics",
     "url": "/wiki/concepts/dronedefenseeconomics/"
+  },
+  "DroneProcurementIncentives": {
+    "title": "Drone Procurement Incentives",
+    "url": "/wiki/concepts/droneprocurementincentives/"
   },
   "Dropbox": {
     "title": "Dropbox",
@@ -15535,6 +15559,10 @@
     "title": "Housing Restriction Backfire",
     "url": "/wiki/concepts/housingrestrictionbackfire/"
   },
+  "HousingStigmaDiscount": {
+    "title": "Housing Stigma Discount",
+    "url": "/wiki/concepts/housingstigmadiscount/"
+  },
   "HousingWealthAffordabilityTension": {
     "title": "Housing Wealth Affordability Tension",
     "url": "/wiki/concepts/housingwealthaffordabilitytension/"
@@ -17479,6 +17507,10 @@
     "title": "《极简法医鉴识手册》",
     "url": "/wiki/entities/jijianfayijianshishouce/"
   },
+  "JikobukkenIncidentProperty": {
+    "title": "Jikobukken Incident Property",
+    "url": "/wiki/concepts/jikobukkenincidentproperty/"
+  },
   "JimClark": {
     "title": "Jim Clark",
     "url": "/wiki/entities/jimclark/"
@@ -17835,6 +17867,10 @@
     "title": "豪尔赫 / Jorge of Burgos",
     "url": "/wiki/entities/jorgeofburgos/"
   },
+  "JoseArmas": {
+    "title": "Jose Armas",
+    "url": "/wiki/entities/josearmas/"
+  },
   "JoseiEiseiYouhinNoShakaishi": {
     "title": "《女性卫生用品的社会史》",
     "url": "/wiki/entities/joseieiseiyouhinnoshakaishi/"
@@ -18106,6 +18142,10 @@
   "KUOW": {
     "title": "KUOW",
     "url": "/wiki/entities/kuow/"
+  },
+  "Kachimodo": {
+    "title": "Kachimodo",
+    "url": "/wiki/entities/kachimodo/"
   },
   "KafunshoToJinrui": {
     "title": "《花粉症与人类》 / 花粉症と人類",
@@ -18954,6 +18994,10 @@
   "LaughterAgainstAuthority": {
     "title": "Laughter Against Authority",
     "url": "/wiki/concepts/laughteragainstauthority/"
+  },
+  "LauraIves": {
+    "title": "Laura Ives",
+    "url": "/wiki/entities/lauraives/"
   },
   "LauraMcGrath": {
     "title": "Laura McGrath",
@@ -20679,6 +20723,10 @@
     "title": "马坪关 / Mapingguan",
     "url": "/wiki/entities/mapingguan/"
   },
+  "MappingPoliceViolence": {
+    "title": "Mapping Police Violence",
+    "url": "/wiki/entities/mappingpoliceviolence/"
+  },
   "MarALago": {
     "title": "Mar-a-Lago",
     "url": "/wiki/entities/maralago/"
@@ -21022,6 +21070,10 @@
   "MatrixReporting": {
     "title": "Matrix Reporting",
     "url": "/wiki/concepts/matrixreporting/"
+  },
+  "MatsubaraTanishi": {
+    "title": "Matsubara Tanishi",
+    "url": "/wiki/entities/matsubaratanishi/"
   },
   "Matsutake": {
     "title": "Matsutake / 松茸",
@@ -21474,6 +21526,10 @@
   "MentalHealthCrisisInterventionBoundary": {
     "title": "Mental Health Crisis Intervention Boundary / 心理危机干预边界",
     "url": "/wiki/concepts/mentalhealthcrisisinterventionboundary/"
+  },
+  "MentalHealthCrisisPoliceResponse": {
+    "title": "Mental Health Crisis Police Response",
+    "url": "/wiki/concepts/mentalhealthcrisispoliceresponse/"
   },
   "MercedesF1": {
     "title": "Mercedes F1",
@@ -22494,6 +22550,14 @@
   "MyersTest": {
     "title": "Myers Test",
     "url": "/wiki/concepts/myerstest/"
+  },
+  "MykhailoDrapatyi": {
+    "title": "Mykhailo Drapatyi / Drapati",
+    "url": "/wiki/entities/mykhailodrapatyi/"
+  },
+  "MykhailoFedorov": {
+    "title": "Mykhailo Fedorov",
+    "url": "/wiki/entities/mykhailofedorov/"
   },
   "MythAsHistoricalEvidence": {
     "title": "Myth As Historical Evidence",
@@ -23598,6 +23662,10 @@
   "OlegGordievsky": {
     "title": "Oleg Gordievsky / 奥列格·戈尔杰夫斯基",
     "url": "/wiki/entities/oleggordievsky/"
+  },
+  "OleksandrSyrskyi": {
+    "title": "Oleksandr Syrskyi / Sersky",
+    "url": "/wiki/entities/oleksandrsyrskyi/"
   },
   "OlgaTokarczuk": {
     "title": "Olga Tokarczuk / 托卡尔丘克",
@@ -25307,9 +25375,17 @@
     "title": "Poke Robotics",
     "url": "/wiki/entities/pokerobotics/"
   },
+  "PoliceConsentDecreeCultureGap": {
+    "title": "Police Consent Decree Culture Gap",
+    "url": "/wiki/concepts/policeconsentdecreeculturegap/"
+  },
   "PoliceFreeProtestSpace": {
     "title": "Police-Free Protest Space",
     "url": "/wiki/concepts/policefreeprotestspace/"
+  },
+  "PoliceKillingRateDivergence": {
+    "title": "Police Killing Rate Divergence",
+    "url": "/wiki/concepts/policekillingratedivergence/"
   },
   "PolicyAnnouncementTradingRisk": {
     "title": "Policy Announcement Trading Risk",
@@ -29062,6 +29138,10 @@
   "SharonPriceJohn": {
     "title": "Sharon Price John",
     "url": "/wiki/entities/sharonpricejohn/"
+  },
+  "ShashankJoshi": {
+    "title": "Shashank Joshi",
+    "url": "/wiki/entities/shashankjoshi/"
   },
   "ShaxiAncientTown": {
     "title": "沙溪古镇 / Shaxi Ancient Town",
@@ -33079,6 +33159,10 @@
     "title": "Ukraine",
     "url": "/wiki/entities/ukraine/"
   },
+  "UkraineMilitaryCommandReform": {
+    "title": "Ukraine Military Command Reform",
+    "url": "/wiki/concepts/ukrainemilitarycommandreform/"
+  },
   "UltraFastDeliveryEconomics": {
     "title": "Ultra-Fast Delivery Economics",
     "url": "/wiki/concepts/ultrafastdeliveryeconomics/"
@@ -34050,6 +34134,10 @@
   "WarsOfTheRoses": {
     "title": "Wars of the Roses / 玫瑰战争",
     "url": "/wiki/entities/warsoftheroses/"
+  },
+  "WartimeLeadershipAccountability": {
+    "title": "Wartime Leadership Accountability",
+    "url": "/wiki/concepts/wartimeleadershipaccountability/"
   },
   "WashingtonPost": {
     "title": "Washington Post",
@@ -37258,6 +37346,10 @@
   "kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun": {
     "title": "困在系统里的酒店，你不知道的携程垄断练成史",
     "url": "/wiki/sources/kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun/"
+  },
+  "kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165": {
+    "title": "Kyiv brawl: Ukraine's top general fired",
+    "url": "/wiki/sources/kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165/"
   },
   "latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d": {
     "title": "Latin lessons: the Donroe-doctrine boost",

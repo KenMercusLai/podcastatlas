@@ -2,8 +2,8 @@
 title: "Drone Defense Economics"
 type: concept
 tags: [warfare, defense, drones, economics]
-sources: [tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
-last_updated: 2026-07-17
+sources: [tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165]
+last_updated: 2026-08-07
 ---
 
 # Drone Defense Economics
@@ -14,12 +14,15 @@ The key lesson is that the defender's problem is not simply whether a drone can 
 
 [[putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]] extends the concept from cheap drones into combined air attacks on [[Kyiv]]. [[OliverCarroll]] says [[Ukraine]] intercepts many drones, but concentrated Russian salvos that include ballistic and cruise missiles expose scarce anti-ballistic capacity, especially around the [[PatriotMissileSystem]]. That is why [[AirDefenseSaturation]] can persist even when drone interception rates look high.
 
+[[kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165]] adds the Ukrainian procurement side. [[MykhailoFedorov]]'s reform model is described as scaling drones and rewarding effective brigades with more drones and ammunition, turning [[DroneProcurementIncentives]] into the offensive and organizational counterpart to defensive cost mismatch.
+
 ## Key Claims
 - A defense can be tactically successful and still economically unfavorable if it spends high-cost interceptors against low-cost targets.
 - Expensive long-range systems such as Patriot or SM-3 missiles are poor default answers to cheap drones when lower-cost layers can handle them.
 - Defenders need classification and triage because some incoming objects may be decoys or lower-priority systems.
 - Attrition strategies exploit the defender's limited magazines, budgets, radar coverage, and decision time.
 - A defender can win the cheap-drone layer and still lose civilians, buildings, or confidence if ballistic interceptors are too scarce for combined salvos.
+- Procurement incentives can improve drone use on Ukraine's side, but they do not remove the defender's exposure to missiles and interceptor scarcity.
 
 ## Connections
 - [[LowCostDroneWarfare]], [[Shahed136]], and [[LucasDrone]] - source systems and warfare pattern.
@@ -27,3 +30,4 @@ The key lesson is that the defender's problem is not simply whether a drone can 
 - [[DroneDecoyEconomics]] - decoy pressure that worsens the economics.
 - [[AsymmetricInfrastructureAttack]] and [[WarAwareDisasterRecovery]] - adjacent risk patterns where cheap disruption imposes expensive response.
 - [[AirDefenseSaturation]], [[PatriotMissileSystem]], [[Kyiv]], and [[OliverCarroll]] - combined-attack and interceptor-scarcity extension added by the later Economist source.
+- [[MykhailoFedorov]], [[DroneProcurementIncentives]], and [[UkraineMilitaryCommandReform]] - procurement and command-reform extension added by the Kyiv brawl source.

@@ -6394,6 +6394,10 @@ Added source page for a Talk三联 episode with 高一丁 and 苗伟 on 徐光�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-07] lint | Current-graph lint report returned in session
+
+Reran lint after the graph refresh so graph-aware counts use the current generated graph. Lint scanned 9,679 wiki pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Current graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; bounded fallback review found no hard unresolved contradiction, while retaining follow-ups for `MidJourney.md` / `Midjourney.md` casing duplication, `ProjectGlasswing` / `ProjectGlassfin` naming ambiguity, source-scoped `FigureAI` autonomy claims, and the `+-` formatting artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. No `wiki/lint-report.md` file was saved.
+
 ## [2026-08-07] ingest | Uncanny AI: Why AI bots remember random, sometimes useless information
 
 Added source page for a Marketplace Tech "Uncanny AI" episode with Janelle Shane on chatbot memory files, Claude's awkward remembered-detail callbacks, context-poor sensitive-topic surfacing, fragile safety tuning, and privacy/security controls around durable AI memory. Created pages for Janelle Shane and Chatbot Memory Salience Failure; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Anthropic, Claude, Grok, Personal AI Memory, Persistent Agent Memory, AI Companion Active Memory, and Chatbot Safety Guardrail Decay. No direct contradiction found; the source qualifies prior persistent-memory and companion-memory pages by showing that retained facts still need salience, social proportion, sensitivity, and deletion controls before they become useful recall.
@@ -6785,3 +6789,31 @@ Added source page for a Shizilukou Crossing episode with Zhang Jintao of Shengsh
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint scanned 9,656 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` from 2026-07-24 and found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM. No lint report file was saved.
+
+## [2026-08-07] ingest | Kyiv brawl: Ukraine's top general fired
+
+Added source page for a The Intelligence episode on Ukraine's wartime command reshuffle, the Fedorov-Syrskyi-Drapatyi reform conflict, Albuquerque and New Mexico police killings, and Japan's jiko bukken incident-property market. Created pages for Mykhailo Fedorov, Oleksandr Syrskyi, Mykhailo Drapatyi, Shashank Joshi, Albuquerque, Albuquerque Police Department, Jose Armas, Laura Ives, Daniel Williams / ACLU New Mexico, ACLU of New Mexico, Alfred Mathewson, Mapping Police Violence, Matsubara Tanishi, Kachimodo, Ukraine Military Command Reform, Drone Procurement Incentives, Wartime Leadership Accountability, Police Killing Rate Divergence, Police Consent Decree Culture Gap, Mental Health Crisis Police Response, Jikobukken Incident Property, and Housing Stigma Discount; updated overview, index, The Intelligence, Economist Podcasts, Ukraine, Volodymyr Zelensky, Russia, Kyiv, Air Defense Saturation, Drone Defense Economics, New Mexico, United States, U.S. Department of Justice, Daniel Knowles, Mental Health Crisis Intervention Boundary, Japan, Moeka Iida, Japanese Housing Information Disclosure, and Solo Death Preparedness. No direct contradiction found; source spellings "Sersky" and "Drapati" were normalized to Syrskyi and Drapatyi while keeping the episode's claims source-scoped.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-07] graph | Knowledge graph rebuilt
+
+9679 nodes, 103834 edges (103834 extracted, 0 inferred).
+
+## [2026-08-07] report | Graph health report generated
+
+9679 nodes analyzed.
+
+## [2026-08-07] lint | Lint report returned in session
+
+Ran health before lint; health scanned 9,679 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 9,679 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware lint found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; a bounded fallback scan found no hard unresolved contradiction, while retaining follow-ups for `MidJourney.md` / `Midjourney.md` casing duplication, `ProjectGlasswing` / `ProjectGlassfin` naming ambiguity, source-scoped `FigureAI` autonomy claims, and the `+-` formatting artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-07] lint | Current-graph lint report returned in session
+
+Reran lint after the graph refresh so graph-aware counts use the current generated graph. Lint scanned 9,679 wiki pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Current graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; bounded fallback review found no hard unresolved contradiction, while retaining follow-ups for `MidJourney.md` / `Midjourney.md` casing duplication, `ProjectGlasswing` / `ProjectGlassfin` naming ambiguity, source-scoped `FigureAI` autonomy claims, and the `+-` formatting artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. No `wiki/lint-report.md` file was saved.

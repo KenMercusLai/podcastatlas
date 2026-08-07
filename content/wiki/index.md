@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Kyiv brawl: Ukraine's top general fired](sources/kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165.md) — The Intelligence episode on Ukraine's wartime command reshuffle, Fedorov-Syrskyi reform conflict, Albuquerque police killings, and Japan's stigmatized incident-property market.
 - [快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频](sources/kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13.md) — Shizilukou Crossing episode with Zhang Jintao of Shengshu Technology on Vidu S1, SAGE Attention, TurboDiffusion, streaming video generation, real-time interactive video, and the inference acceleration stack needed for live visual sessions.
 - [Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.](sources/toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97.md) — How I Built This episode on Toast's pivot from a slow-check payment app into a restaurant operating platform, covering POS complexity, early install failures, scaling discipline, COVID off-premise tools, IPO, and Aman Narang's CEO return.
 - [AI 发展了 4 年，把应用发展没了？｜AI 年中复盘](sources/ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx.md) — 42章经 mid-2026 AI recap by Qu Kai on the model/application rotation, the 2026 application-market trough, overseas execution, chat-to-coding transition, long-horizon agents, and founder discipline around users, revenue, and cash flow.
@@ -849,6 +850,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Mykhailo Fedorov](entities/MykhailoFedorov.md) — Ukrainian reformist official in the source's defence-ministry crisis, tied to drone scale-up, procurement incentives, and public protest after dismissal.
+- [Oleksandr Syrskyi / Sersky](entities/OleksandrSyrskyi.md) — Ukrainian commander normalized from the source spelling "Sersky," presented as the rigid command-culture rival to Fedorov.
+- [Mykhailo Drapatyi / Drapati](entities/MykhailoDrapatyi.md) — Ukrainian general normalized from the source spelling "Drapati," appointed after Syrskyi and framed as a new-generation command-reform test.
+- [Shashank Joshi](entities/ShashankJoshi.md) — The Intelligence analyst interpreting Ukraine's reshuffle as an ethos and command-culture dispute.
+- [Albuquerque](entities/Albuquerque.md) — New Mexico city used by the episode as a case study in high police-killing rates and mental-health crisis response failures.
+- [Albuquerque Police Department](entities/AlbuquerquePoliceDepartment.md) — Police department used as the source's consent-decree and culture-gap case.
+- [Jose Armas](entities/JoseArmas.md) — Albuquerque police-killing case used cautiously as the episode's mental-health crisis response example.
+- [Laura Ives](entities/LauraIves.md) — Lawyer in the police-killings segment emphasizing tactical patience and low-threat escalation.
+- [Daniel Williams / ACLU New Mexico](entities/DanielWilliamsACLU.md) — ACLU New Mexico policing-policy voice connecting Albuquerque to state-wide police-killing concerns.
+- [ACLU of New Mexico](entities/ACLUOfNewMexico.md) — Civil-rights organization represented in the episode's police-killings segment.
+- [Alfred Mathewson](entities/AlfredMathewson.md) — Legal reform voice arguing Albuquerque's consent decree did not achieve its central shooting-reduction purpose.
+- [Mapping Police Violence](entities/MappingPoliceViolence.md) — Data project cited for the episode's police-killings trend analysis.
+- [Matsubara Tanishi](entities/MatsubaraTanishi.md) — Japanese comedian whose long-term residence in jiko bukken makes stigmatized housing culturally visible.
+- [Kachimodo](entities/Kachimodo.md) — Japanese company issuing reassurance certificates after overnight checks of incident properties.
 - [张金涛 / Zhang Jintao](entities/ZhangJintao.md) — Tsinghua doctoral student and Shengshu Technology researcher working on Vidu S1, SAGE Attention, TurboDiffusion, inference acceleration, and streaming video generation.
 - [生数科技 / Shengshu Technology](entities/ShengshuTechnology.md) — AI video company behind Vidu and Vidu S1 in the Shizilukou Crossing real-time interactive video episode.
 - [Vidu](entities/Vidu.md) — Shengshu Technology video model/product family represented in this source by the real-time Vidu S1 product.
@@ -5809,6 +5824,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Ukraine Military Command Reform](concepts/UkraineMilitaryCommandReform.md) — Wartime command-culture and technology-adoption reform frame behind the Fedorov-Syrskyi-Drapatyi reshuffle.
+- [Drone Procurement Incentives](concepts/DroneProcurementIncentives.md) — Military adaptation mechanism linking battlefield effectiveness to drone and ammunition allocation.
+- [Wartime Leadership Accountability](concepts/WartimeLeadershipAccountability.md) — Pattern where wartime personnel decisions become public tests of political judgment and ally confidence.
+- [Police Killing Rate Divergence](concepts/PoliceKillingRateDivergence.md) — Pattern where police killings rise even as murder rates fall, requiring separate data and institutional explanation.
+- [Police Consent Decree Culture Gap](concepts/PoliceConsentDecreeCultureGap.md) — Gap between formal police-reform compliance and actual reductions in fatal force.
+- [Mental Health Crisis Police Response](concepts/MentalHealthCrisisPoliceResponse.md) — Emergency-response mismatch when mental-health crisis calls are handled primarily through armed policing.
+- [Jikobukken Incident Property](concepts/JikobukkenIncidentProperty.md) — Japanese death-associated housing category where abnormal death, ritual discomfort, and disclosure shape market behavior.
+- [Housing Stigma Discount](concepts/HousingStigmaDiscount.md) — Real-estate price reduction caused by social, emotional, ritual, or reputational stigma rather than physical defect.
 - [SAGE Attention](concepts/SageAttention.md) — Faster Attention operator discussed by Zhang Jintao as especially relevant for compute-bound video and multimodal generation workloads.
 - [TurboDiffusion](concepts/TurboDiffusion.md) — Model-level diffusion acceleration work combining faster operators, distillation, and sparse attention to reduce video-generation complexity.
 - [Streaming Video Generation](concepts/StreamingVideoGeneration.md) — Continuous video generation pattern where frames must be produced faster than playback while preserving long-session coherence and live feedback.
