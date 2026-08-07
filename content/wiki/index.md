@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [期权这张饼，为什么越来越难吃了？](sources/qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1.md) — Keji Luandun episode on employee stock options, RSUs, VIE entity mismatch, option-pool recapture incentives, private-company liquidity risk, and why equity compensation depends on trust and exit paths.
 - [Taken littorally: Spain’s sudden crisis in Ceuta](sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7.md) — The Intelligence episode on Ceuta migration surge, Morocco-Spain-Western Sahara diplomacy, India's falling-object public-safety failures, and AI writing detection.
 - [A股的春夏秋冬：种树、种粮、种菜](sources/a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx.md) — 面基 episode with Wu Weizhi on A-share market seasons, tree/grain/vegetable company taxonomy, strategy fit, AI-theme trading boundaries, MAPER research, and Zhongou Ruibo's investment process.
 - [Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It](sources/serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66.md) — How I Built This episode on Serena & Lily's premium nursery-to-home brand path, wholesale orders, DTC catalog growth, investor conflict, bad money, and liquidation-preference constraints.
@@ -6168,6 +6169,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Employee Stock Options / 员工期权](concepts/EmployeeStockOptions.md) — Employment-linked right to buy future company equity, whose value depends on vesting, exercise terms, liquidity, tax, and company trust.
+- [Employee Stock Option Liquidity Risk / 员工期权流动性风险](concepts/EmployeeStockOptionLiquidityRisk.md) — Gap between a valuable-looking employee option grant and a realistic cash exit through IPO, sale, buyback, or enforceable exercise.
+- [Variable Interest Entity / VIE 架构](concepts/VariableInterestEntity.md) — Offshore-control structure used by Chinese internet companies to connect listing vehicles, domestic businesses, investors, and licensing constraints.
+- [VIE Employee Equity Mismatch / VIE 员工股权主体错位](concepts/VIEEmployeeEquityMismatch.md) — Risk created when offshore option grants and domestic labor contracts sit in different entities.
+- [Option Pool Recapture Incentive / 期权池回收激励](concepts/OptionPoolRecaptureIncentive.md) — Management incentive to recover, renegotiate, or reallocate employee options once a pool becomes valuable.
+- [Restricted Stock Units / RSU](concepts/RestrictedStockUnits.md) — Equity-compensation units closer to stock-linked grants than exercise-price options, still constrained by vesting, lockup, tax, and liquidity.
 - [Migration Weaponization](concepts/MigrationWeaponization.md) — Use of cross-border migrant flows as diplomatic pressure, grounded in Morocco-Spain Ceuta tensions.
 - [Border Legal Signal](concepts/BorderLegalSignal.md) — Court ruling or enforcement interpretation that reshapes migrant behavior at a border.
 - [Falling Object Public Safety](concepts/FallingObjectPublicSafety.md) — India's lethal pattern of billboards, roofs, trees, structures, and other objects falling under weak safety governance.

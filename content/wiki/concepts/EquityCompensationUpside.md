@@ -2,8 +2,8 @@
 title: "Equity Compensation Upside"
 type: concept
 tags: [startups, compensation, silicon-valley, employee-ownership, private-equity]
-sources: [a-pro-worker-experiment-in-private-equity, 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final]
-last_updated: 2026-08-07
+sources: [a-pro-worker-experiment-in-private-equity, 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
+last_updated: 2026-08-08
 ---
 
 # Equity Compensation Upside
@@ -18,6 +18,8 @@ The concept is not presented as guaranteed wealth. Conway contrasts fast-growing
 
 [[a-pro-worker-experiment-in-private-equity]] extends the concept beyond startups into [[PrivateEquityWorkerOwnership]]. [[CindyCordes]]'s [[CapitalSafety]] payout shows that rank-and-file equity in a private-equity exit can be meaningful even when poorly communicated, while [[MikePavelko]]'s [[GSI]] payout shows a larger version where workers knew about ownership before the sale and could connect daily performance to possible upside.
 
+[[qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]] adds the late-private-company caution. The source argues that employee upside weakens when companies do not list, do not fail, keep grants illiquid, impose exercise or tax costs before sale, or use [[OptionPoolRecaptureIncentive]] and [[VIEEmployeeEquityMismatch]] to avoid paying what employees believed they had earned.
+
 ## Key Claims
 - Equity can make early employees economically aligned with company growth in a way salary alone cannot.
 - The upside depends on both entry timing and company trajectory; public-market success can be temporary if strategy stalls.
@@ -25,6 +27,7 @@ The concept is not presented as guaranteed wealth. Conway contrasts fast-growing
 - Equity upside must be communicated clearly enough that employees can compare cash, risk, ownership, and future value rather than treating equity as opaque paperwork.
 - Episode 79 adds that equity is an incentive contract as well as upside: it fits core contributors when long-term risk sharing is real, not when it merely disguises weak cash compensation.
 - The private-equity version can reach non-startup, rank-and-file workers, but the upside is still tied to company sale timing, retention terms, and whether the ownership stake is visible before exit.
+- Employee option upside should be discounted when the worker cannot identify an exit path, enforceable grantor relationship, tax plan, and company commitment to honoring the option pool.
 
 ## Connections
 - [[PrivateEquityWorkerOwnership]], [[KKR]], [[CapitalSafety]], [[CindyCordes]], [[GSI]], and [[MikePavelko]] - private-equity worker-ownership extension.
@@ -33,3 +36,4 @@ The concept is not presented as guaranteed wealth. Conway contrasts fast-growing
 - [[SelfDisruptionDiscipline]] and [[StartupTimingWindows]] - strategic risks that affect whether equity retains value.
 - [[FounderCashFlowConstraint]] and [[StartupHighBetaBet]] - adjacent risk and upside concepts.
 - [[EquityIncentiveAlignment]], [[MixedIncentiveContracts]], and [[Alibaba]] - contract-theory management branch added by episode 79.
+- [[EmployeeStockOptions]], [[RestrictedStockUnits]], [[EmployeeStockOptionLiquidityRisk]], and [[PaperWealthVsCashValue]] - compensation-risk branch added by Keji Luandun.

@@ -7229,3 +7229,11 @@ Added source page for a The Intelligence episode on Ceuta's migration surge, Mor
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 10,288 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or API key is configured in the shell. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-08] ingest | 期权这张饼，为什么越来越难吃了？
+
+Added source page for a Keji Luandun episode on employee stock options, RSUs, VIE entity mismatch, option-pool recapture incentives, private-company liquidity risk, and the trust conditions behind equity compensation. Created pages for Employee Stock Options, Employee Stock Option Liquidity Risk, Variable Interest Entity, VIE Employee Equity Mismatch, Option Pool Recapture Incentive, and Restricted Stock Units; updated overview, index, Keji Luandun, Option Contract Mechanics, Equity Incentive Alignment, Equity Compensation Upside, Employee Equity Communication, Paper Wealth Vs Cash Value, Workplace Incentive Design, Startup Governance, Trust As Business Asset, Tudou, Zynga, Uber, and Baidu. No direct contradiction found; the source qualifies equity-upside optimism by showing that employee options depend on liquidity, enforceability, tax, entity structure, and company trust rather than headline value alone.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 10,295 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` is configured. Report returned in-session; `wiki/lint-report.md` was not saved.

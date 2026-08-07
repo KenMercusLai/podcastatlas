@@ -2,8 +2,8 @@
 title: "Equity Incentive Alignment / 股权激励相容"
 type: concept
 tags: [compensation, startups, management, incentives, employee-ownership]
-sources: [a-pro-worker-experiment-in-private-equity, 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262]
-last_updated: 2026-08-07
+sources: [a-pro-worker-experiment-in-private-equity, 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
+last_updated: 2026-08-08
 ---
 
 # Equity Incentive Alignment / 股权激励相容
@@ -14,15 +14,19 @@ The source is cautious. Equity can reduce shirking by binding employee upside to
 
 [[a-pro-worker-experiment-in-private-equity]] qualifies this frame with a broad rank-and-file case. [[KKR]]'s [[PrivateEquityWorkerOwnership]] model is not limited to core startup contributors; it tries to make ordinary workers care about company outcomes through a sale-linked equity stake. The episode's [[CapitalSafety]] and [[GSI]] contrast shows that alignment depends on communication and trust, not only ownership math.
 
+[[qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]] adds a negative alignment boundary through [[EmployeeStockOptions]]. The source argues that equity stops aligning employees and companies when employees doubt liquidity, fear near-vesting recapture, or see the company use [[VIEEmployeeEquityMismatch]] to deny the employment meaning of a grant.
+
 ## Key Claims
 - Equity works best when the recipient is a core contributor rather than a short-term worker.
 - Employees may misread equity as compensation for underpayment if the risk and value are not clear.
 - Equity is weaker in businesses where outcomes are mostly luck rather than controllable effort.
 - Alignment requires more than issuing shares; the employee must understand the tradeoff between cash, risk, time, and upside.
 - In broad worker-ownership programs, alignment can exist without voting power, but it becomes fragile if employees see the program as extraction or learn about it only after the sale.
+- Employee options align poorly when the exit path is unclear, the option plan is opaque, or management can opportunistically recover grants through [[OptionPoolRecaptureIncentive]].
 
 ## Connections
 - [[PrivateEquityWorkerOwnership]], [[KKR]], [[PeteStavros]], [[CapitalSafety]], and [[GSI]] - broad private-equity worker-ownership case.
 - [[EquityCompensationUpside]] - existing startup-equity page this source qualifies.
+- [[EmployeeStockOptions]], [[EmployeeStockOptionLiquidityRisk]], [[VIEEmployeeEquityMismatch]], and [[OptionPoolRecaptureIncentive]] - employee-option risk boundary added by Keji Luandun.
 - [[MixedIncentiveContracts]], [[WorkplaceIncentiveDesign]], and [[ContractTheory]] - incentive-design context.
 - [[Alibaba]] and [[CEOPayLuckSkimming]] - company and executive-pay branches.

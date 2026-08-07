@@ -2,7 +2,7 @@
 title: "Baidu"
 type: entity
 tags: [company, search, ai, china-internet]
-sources: [omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f, no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]
+sources: [omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f, no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
 last_updated: 2026-08-08
 ---
 
@@ -26,6 +26,8 @@ The source describes Baidu as a company that built an effective PC-era traffic l
 
 [[omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb]] adds Baidu to the robotaxi export branch. [[DonWeinland]] says Baidu is involved in a [[Switzerland]] driverless-cab project expected to launch early next year, making Baidu relevant to [[RobotaxiEconomics]] and [[AIServiceExportStandardSetting]] rather than only search, cloud, and domestic AI infrastructure.
 
+[[qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]] adds a BAT-era compensation anecdote. The hosts use a Baidu work memory to explain why early Chinese internet employees treated options and listing-era exercise arrangements as plausible upside when growth and IPO expectations were stronger.
+
 ## Key Points
 - Baidu's online-marketing business is described as declining even while the broader internet advertising market still grows.
 - AI answers in search may weaken ad clicks by satisfying the user above traditional result and ad positions.
@@ -39,6 +41,7 @@ The source describes Baidu as a company that built an effective PC-era traffic l
 - The WAIC supernode source adds a cloud-infrastructure branch where Baidu AI Cloud's role is closer to deployment, model serving, and domestic-chip validation than search advertising.
 - Episode 212 adds the Tieba branch: Baidu's search traffic could create large communities, but commercial intervention and weak governance could also turn community territory into a trust problem.
 - The Intelligence adds the overseas robotaxi branch: Baidu's autonomous-driving technology may help Chinese AI services set foreign operating standards.
+- The Keji Luandun options episode adds Baidu as an early Chinese internet example where employee equity seemed more credible under stronger growth and listing expectations.
 
 ## Connections
 - [[LiYanhong]] — founder and management lens.
@@ -54,3 +57,4 @@ The source describes Baidu as a company that built an effective PC-era traffic l
 - [[BaiduAICloud]], [[AIAcceleratorSupernode]], [[ScaleUpAIInterconnect]], and [[DomesticAIChipOrderValidation]] — WAIC hardware-infrastructure branch.
 - [[BaiduTieba|百度贴吧]], [[KeywordCommunityArchitecture]], [[ForumSubcultureMemory]], and [[PlatformCommunityGovernance]] — PC-era community branch added by episode 212.
 - [[DonWeinland]], [[Switzerland]], [[RobotaxiEconomics]], [[ChinaAIExportLeverage]], and [[AIServiceExportStandardSetting]] - overseas driverless-taxi branch added by The Intelligence.
+- [[EmployeeStockOptions]], [[EquityCompensationUpside]], and [[EmployeeStockOptionLiquidityRisk]] - employee-equity context added by Keji Luandun.

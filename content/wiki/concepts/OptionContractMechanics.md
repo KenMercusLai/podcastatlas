@@ -2,8 +2,8 @@
 title: "Option Contract Mechanics"
 type: concept
 tags: [investing, options, derivatives]
-sources: [157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]
-last_updated: 2026-08-06
+sources: [157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
+last_updated: 2026-08-08
 ---
 
 # Option Contract Mechanics
@@ -13,6 +13,8 @@ last_updated: 2026-08-06
 Option contract mechanics are the basic rights-and-obligations structure behind calls and puts. [[ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p]] explains the idea through World Cup ticket rights: a call option resembles paying a premium for the right to buy later at an agreed price, while a put option resembles paying for protection against a later price drop.
 
 The key distinction is buyer versus seller. The buyer pays [[OptionPremiumPricing]] premium for a choice; the seller receives premium but accepts an obligation if the option is exercised. That asymmetry is why options can be used for hedging, speculation, income, or structured risk transfer.
+
+[[qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]] adds the employee-compensation boundary. [[EmployeeStockOptions]] borrow the same right-without-obligation logic, but their value is governed by vesting, exercise windows, tax, company plans, private liquidity, employment disputes, and entity structure rather than by exchange trading alone.
 
 [[e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]] adds a more technical tail-risk version through [[XuZhe]]. Options are not treated as simple insurance contracts but as volatility-sensitive instruments that can be combined, hedged, sold, or owned to create [[ConvexityExposure]] and [[AsymmetricPayoff]].
 
@@ -27,6 +29,7 @@ The key distinction is buyer versus seller. The buyer pays [[OptionPremiumPricin
 - E43 adds that option mechanics become materially harder when the goal is portfolio-level [[Antifragility]] rather than a single payoff diagram.
 - Vol.124 adds that expiration is not only a pricing variable; it can change behavior, sleep, and willingness to hold through uncertainty.
 - Episode 157 adds that bounded premium loss does not make options broadly suitable; sizing, expiry, and user competence decide whether the structure is risk management or speculation.
+- The Keji Luandun employee-options source adds that option mechanics become harder when the option is part of compensation rather than a liquid market contract.
 
 ## Connections
 - [[Gemini]], [[AIBubbleHedging]], [[AsymmetricPayoff]], and [[BullMarketProfitPreservation]] - episode 157's small-loss options example.
@@ -37,3 +40,4 @@ The key distinction is buyer versus seller. The buyer pays [[OptionPremiumPricin
 - [[InvestmentRiskManagement]] — risk-control frame for deciding whether the contract is a hedge or a leveraged bet.
 - [[ConvexityExposure]], [[AsymmetricPayoff]], and [[TailRiskHedging]] — E43's portfolio-structure extension.
 - [[PortfolioSuitability]], [[SleepWellPortfolioTest]], and [[ConvertibleBond]] — vol.124's instrument-fit contrast.
+- [[EmployeeStockOptions]], [[RestrictedStockUnits]], and [[EmployeeStockOptionLiquidityRisk]] - compensation-side extension added by the Keji Luandun options episode.

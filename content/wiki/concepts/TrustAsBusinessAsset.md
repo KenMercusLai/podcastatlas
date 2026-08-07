@@ -2,13 +2,15 @@
 title: "Trust As Business Asset"
 type: concept
 tags: [governance, trust, business-model]
-sources: [advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c, sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908, tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128, 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, would-you-trust-an-economist-with-your-economy, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, seven-allegedly-fake-chanel-bags-vs-the-realreal, costco-1, rolex-1, 142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq]
+sources: [advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c, sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908, tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128, 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, would-you-trust-an-economist-with-your-economy, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, seven-allegedly-fake-chanel-bags-vs-the-realreal, costco-1, rolex-1, 142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
 last_updated: 2026-08-08
 ---
 
 # Trust As Business Asset
 
 Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgromn5peq]] that trustworthiness can become one of a company's most valuable assets, but also one of the reasons it becomes a target for capture. [[EricRies]] argues that successful mission-driven companies create valuable trust, and that [[FinancialGravity]] can then pull investors, customers, boards, or acquirers toward extracting that value.
+
+[[qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]] adds the internal compensation version. The source argues that if employees see promised [[EmployeeStockOptions]] as avoidable, revocable, or hidden behind entity arguments, the company spends trust not only with former employees but also with current staff, future recruits, creators, investors, and regulators.
 
 [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] adds [[Apple]] as a consumer-platform example. The episode argues that [[TimCook]] turned privacy, accessibility, supply-chain responsibility, environmental commitments, and civil-rights positions into accumulated user and stakeholder trust.
 
@@ -76,6 +78,7 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - In chatbot-first customer service, accessible human escalation can be a trust asset because automation that closes or deflects hard cases may save costs while damaging confidence.
 - In specialty retail, trust can be accumulated through expert advice, inspection, warranty, and empowered service policies that reduce buyer risk before and after purchase.
 - Consumer-safety products need trust before the buyer can fully verify the outcome; credible messengers and visible professional use can become part of the product's commercial value.
+- Employee equity makes trust operational: workers accept lower cash or delayed upside only if they believe the company will honor grants, explain risks, and preserve a realistic liquidity path.
 
 ## Connections
 - [[FinancialGravity]] - pressure that can redirect trust.
@@ -102,3 +105,4 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - [[DylanThompson]], [[FedEx]], [[CustomerServiceSludge]], and [[CustomerSupportAutomation]] - chatbot-service branch where escalation quality determines customer trust.
 - [[Sweetwater]], [[ChuckSurack]], [[ServiceLedRetailMoat]], [[SalesEngineerModel]], [[SweetwaterUniversity]], and [[IndividualItemEcommerce]] - specialty-retail branch where advice and inspection become trust assets.
 - [[SnugSafety]], [[PreetAnand]], [[HockeyNinja]], [[DerekHockeyNinja|Derek]], [[TrustBasedDistribution]], and [[SafetyProductCredibility]] - consumer-safety branch added by the Chris Riccobono Advice Line episode.
+- [[EmployeeStockOptions]], [[EmployeeStockOptionLiquidityRisk]], [[VIEEmployeeEquityMismatch]], and [[OptionPoolRecaptureIncentive]] - employee-compensation trust branch added by Keji Luandun.

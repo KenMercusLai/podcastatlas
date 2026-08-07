@@ -2,8 +2,8 @@
 title: "Paper Wealth Vs Cash Value"
 type: concept
 tags: [finance, investing, valuation, liquidity]
-sources: [157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]
-last_updated: 2026-08-06
+sources: [157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
+last_updated: 2026-08-08
 ---
 
 # Paper Wealth Vs Cash Value
@@ -16,6 +16,8 @@ Paper wealth versus cash value is the distinction between headline asset value a
 
 [[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds the founder-collateral version through [[LarryEllison]]. The episode says a concentrated [[Oracle]] stake is not the same as cash, but pledged shares, trusts, and personal guarantees can turn paper wealth into liquidity, credit support, and influence for [[DavidEllison]]'s [[Skydance]], [[Paramount]], and [[WarnerBrosDiscovery]] expansion.
 
+[[qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]] adds the employee-option version. A private-company [[EmployeeStockOptions|option]] or [[RestrictedStockUnits|RSU]] grant may carry a valuation story, but the worker cannot treat it as cash until exercise, tax, lockup, sale, internal buyback, or public-market liquidity has actually been resolved.
+
 ## Key Claims
 - Public-market capitalization can create enormous apparent wealth even when the underlying business has little revenue or profit.
 - Tokens and warrants can add valuation layers before there is durable cash flow or broad liquidity.
@@ -24,6 +26,7 @@ Paper wealth versus cash value is the distinction between headline asset value a
 - E145 adds that even liquid public-market gains are not equivalent to life-improving cash until the investor has a plan for realizing, rebalancing, or protecting them.
 - Episode 157 adds that realized gains still need a new asset form; otherwise the investor may simply recycle them into the next high-volatility trade.
 - Concentrated founder equity can become strategic collateral, allowing the owner to support family vehicles, guarantees, or acquisitions without simply selling down the position.
+- Employee equity is especially exposed to paper-cash divergence when the company stays private, delays listing, changes grant terms, or disputes the entity behind the promise.
 
 ## Connections
 - [[PoliticalMemeStock]] — DJT-specific case where market value and realizable value diverge.
@@ -32,3 +35,4 @@ Paper wealth versus cash value is the distinction between headline asset value a
 - [[DrawdownPsychology]] and [[RetailBullMarketPsychology]] — E145's ordinary-investor extension around high-water marks and profit retention.
 - [[BullMarketProfitPreservation]] and [[GainConversionAssetForm]] - episode 157's conversion branch.
 - [[LarryEllison]], [[Oracle]], [[DavidEllison]], [[Skydance]], and [[FounderControl]] - founder-collateral branch added by 商业就是这样.
+- [[EmployeeStockOptions]], [[RestrictedStockUnits]], [[EmployeeStockOptionLiquidityRisk]], and [[HongKongIPOLiquidityPath]] - employee-compensation liquidity branch added by Keji Luandun.

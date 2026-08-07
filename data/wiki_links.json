@@ -11667,6 +11667,14 @@
     "title": "Employee Severance at Shutdown",
     "url": "/wiki/concepts/employeeseveranceatshutdown/"
   },
+  "EmployeeStockOptionLiquidityRisk": {
+    "title": "Employee Stock Option Liquidity Risk / 员工期权流动性风险",
+    "url": "/wiki/concepts/employeestockoptionliquidityrisk/"
+  },
+  "EmployeeStockOptions": {
+    "title": "Employee Stock Options / 员工期权",
+    "url": "/wiki/concepts/employeestockoptions/"
+  },
   "EmployerBargainedBenefits": {
     "title": "Employer-Bargained Benefits",
     "url": "/wiki/concepts/employerbargainedbenefits/"
@@ -25507,6 +25515,10 @@
     "title": "Option Contract Mechanics",
     "url": "/wiki/concepts/optioncontractmechanics/"
   },
+  "OptionPoolRecaptureIncentive": {
+    "title": "Option Pool Recapture Incentive / 期权池回收激励",
+    "url": "/wiki/concepts/optionpoolrecaptureincentive/"
+  },
   "OptionPremiumPricing": {
     "title": "Option Premium Pricing",
     "url": "/wiki/concepts/optionpremiumpricing/"
@@ -29034,6 +29046,10 @@
   "RestrainedEmotionInClassicalWriting": {
     "title": "Restrained Emotion In Classical Writing / 古典文本中的克制情感",
     "url": "/wiki/concepts/restrainedemotioninclassicalwriting/"
+  },
+  "RestrictedStockUnits": {
+    "title": "Restricted Stock Units / RSU",
+    "url": "/wiki/concepts/restrictedstockunits/"
   },
   "ResultAsAService": {
     "title": "Result As A Service",
@@ -35459,6 +35475,10 @@
     "title": "User-Powered Content Platform",
     "url": "/wiki/concepts/userpoweredcontentplatform/"
   },
+  "VIEEmployeeEquityMismatch": {
+    "title": "VIE Employee Equity Mismatch / VIE 员工股权主体错位",
+    "url": "/wiki/concepts/vieemployeeequitymismatch/"
+  },
   "VLLM": {
     "title": "vLLM",
     "url": "/wiki/entities/vllm/"
@@ -35542,6 +35562,10 @@
   "Vanta": {
     "title": "Vanta",
     "url": "/wiki/entities/vanta/"
+  },
+  "VariableInterestEntity": {
+    "title": "Variable Interest Entity / VIE 架构",
+    "url": "/wiki/concepts/variableinterestentity/"
   },
   "VashonIslandCoffeeDust": {
     "title": "Vashon Island Coffee Dust",
@@ -39838,6 +39862,10 @@
   "putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210": {
     "title": "Putin's options: an oligarch speaks out",
     "url": "/wiki/sources/putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210/"
+  },
+  "qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1": {
+    "title": "期权这张饼，为什么越来越难吃了？",
+    "url": "/wiki/sources/qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1/"
   },
   "quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec": {
     "title": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集",
