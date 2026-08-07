@@ -7289,3 +7289,11 @@ Added source page for a Marketplace Tech episode with Benjamin Alarie of the Uni
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] ingest | No.213 景德镇往事：千年“世界瓷都”的前世今生
+
+Added source page for a Banlatte episode on Jingdezhen as a long-running porcelain production system. Created pages for Jingdezhen, Jiangxi, Fuliang, Hutian Kiln Site, Gaoling Village, Changling Porcelain Stone Mine, Jingdezhen Imperial Kiln Factory, David Vases, Tang Ying, Tong Bin, Zhushan Eight Friends, Jingdezhen Ceramic University, Lotte Pottery Workshop, Taoxichuan, Jingdezhen Porcelain Production System, Qingbai Porcelain, Kaolin, Porcelain Stone-Clay Binary Formula, Yuan Blue-and-White Porcelain, Official Supervision Civilian Kilns, Distributed Ceramic Production, Imperial Kiln System, Imperial Kiln Waste Control, Export Porcelain Customization, Ceramic Industrialization Transition, State-Owned Ceramic Factory System, Jingpiao Creative Ceramic Ecology, Ceramic Livestream Commerce Risk, Advanced Ceramics Industrial Upgrade, and China-Changnan Etymology Myth. Updated overview, index, Banlatte, Material History Narrative, Process Knowledge, Heritage Tourism Commercialization, and Long-Term Place Operation. No direct contradiction found; the source qualifies romantic porcelain-origin stories by grounding Jingdezhen's status in materials, labor, institutions, markets, and adaptation across multiple production regimes.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 10,436 wiki pages. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-07 with 9,679 nodes while the wiki scan found 10,436 pages, so graph findings should be refreshed with `build graph` before treating them as final; the current graph pass found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.213 景德镇往事：千年“世界瓷都”的前世今生](sources/no-213-jingdezhen-wangshi-qiannian-shijie-cidu-de-qianshi-jinsheng-1004755625.md) — Banlatte episode on Jingdezhen as a long-running porcelain production system linking raw materials, water transport, kilns, court and export orders, state factories, creative markets, tourism, livestreaming, and advanced ceramics.
 - [AI-driven law could be an answer to accessible legal help](sources/tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128.md) — Marketplace Tech episode with Benjamin Alarie on Super Justice, AI access to legal help, personalized legal guidance, verification, auditability, surveillance risk, and professional accountability.
 - [Taking the shine off: albedo and global temperatures](sources/taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760.md) — The Intelligence episode on falling planetary reflectivity, West Africa cocaine routing, and female-breadwinner norms in American couples.
 - [Sand heists and property rights in the Caribbean (Summer School)](sources/sand-heists-and-property-rights-in-the-caribbean-summer-school.md) — Planet Money Summer School episode on Caribbean small-economy vulnerability, Barbuda communal land rights, property-title reform after Hurricane Irma, Jamaica's stolen beach, sand scarcity, tourism externalities, and free-trade lessons.
@@ -911,6 +912,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jingdezhen / 景德镇](entities/Jingdezhen.md) — Jiangxi porcelain city whose long-run advantage came from materials, water transport, specialized labor, official and export orders, factories, creator markets, tourism, and advanced ceramics.
+- [Jiangxi / 江西](entities/Jiangxi.md) — Province context for Jingdezhen, linking porcelain materials, waterway logistics, tourism visibility, and advanced ceramic industry.
+- [Fuliang / 浮梁](entities/Fuliang.md) — Older regional and administrative setting where the Yuan court created the Fuliang porcelain office and made official supervision over civilian kilns visible.
+- [Hutian Kiln Site / 湖田古瓷窑址](entities/HutianKilnSite.md) — Jingdezhen heritage kiln site anchoring the archaeological and production-landscape side of the porcelain system.
+- [Gaoling Village / 高岭村](entities/GaolingVillage.md) — Clay-source place near Jingdezhen whose name became the international material term kaolin.
+- [Changling Porcelain Stone Mine / 长岭瓷石矿遗址](entities/ChanglingPorcelainStoneMine.md) — Porcelain-stone raw-material site in the Jingdezhen production landscape.
+- [Jingdezhen Imperial Kiln Factory / 景德镇御窑厂](entities/JingdezhenImperialKilnFactory.md) — Court porcelain institution where imperial standards, workshops, reject control, outsourcing, and local craft knowledge met.
+- [David Vases / 大维德瓶](entities/DavidVases.md) — Dated 1351 blue-and-white porcelain pair that helped modern scholars identify Yuan blue-and-white wares.
+- [Tang Ying / 唐英](entities/TangYing.md) — Qing imperial-kiln manager who learned ceramic craft closely and documented Jingdezhen production processes.
+- [Tong Bin / 童宾](entities/TongBin.md) — Jingdezhen kiln-worker legend tied to dragon-jar firing, labor pressure, kiln danger, and the 风火仙师 memory.
+- [Zhushan Eight Friends / 珠山八友](entities/ZhushanEightFriends.md) — Loose Jingdezhen porcelain-painter group marking the rise of named artistic style in modern art porcelain.
+- [Jingdezhen Ceramic University / 景德镇陶瓷大学](entities/JingdezhenCeramicUniversity.md) — Ceramic education institution connecting late Qing industrialization efforts to modern material and design capacity.
+- [Lotte Pottery Workshop / 乐天陶社](entities/LottePotteryWorkshop.md) — Contemporary Jingdezhen ceramic-community node associated with residencies, markets, and the rise of 景漂 creators.
+- [Taoxichuan / 陶溪川](entities/Taoxichuan.md) — Former Jingdezhen factory-area cultural district combining museums, studios, shops, markets, tourism, and creative ceramic commerce.
 - [Benjamin Alarie](entities/BenjaminAlarie.md) — University of Toronto law professor arguing that AI could relieve legal scarcity if verification and accountability remain human-owned.
 - [University of Toronto](entities/UniversityOfToronto.md) — Academic affiliation for Benjamin Alarie's Marketplace Tech discussion of legal AI and Super Justice.
 - [Paul Crutzen](entities/PaulCrutzen.md) — Scientist referenced for the 2006 sulphate-aerosol solar geoengineering proposal.
@@ -6225,6 +6240,22 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Jingdezhen Porcelain Production System / 景德镇瓷业生产系统](concepts/JingdezhenPorcelainProductionSystem.md) — System-level frame for Jingdezhen's porcelain advantage across materials, transport, orders, labor division, kiln knowledge, institutions, markets, and education.
+- [Qingbai Porcelain / 青白瓷](concepts/QingbaiPorcelain.md) — Early Jingdezhen blue-white ware that helped the city rise before later blue-and-white and imperial porcelain fame.
+- [Kaolin / 高岭土](concepts/Kaolin.md) — Porcelain clay term derived from Gaoling and used to explain Jingdezhen's material contribution to global technical vocabulary.
+- [Porcelain Stone-Clay Binary Formula / 瓷石瓷土二元配方](concepts/PorcelainStoneClayBinaryFormula.md) — Jingdezhen ceramic-body recipe mixing porcelain stone and clay to reduce firing deformation and enable larger wares.
+- [Yuan Blue-and-White Porcelain / 元青花](concepts/YuanBlueAndWhitePorcelain.md) — Underglaze cobalt porcelain branch tying Jingdezhen to Yuan-era overseas demand and later art-historical reclassification.
+- [Official Supervision, Civilian Kilns / 官监民烧](concepts/OfficialSupervisionCivilianKilns.md) — Hybrid production arrangement where official orders supervised civilian kilns instead of replacing them with direct state production.
+- [Distributed Ceramic Production / 分布式瓷业生产](concepts/DistributedCeramicProduction.md) — Jingdezhen labor and process pattern splitting clay, forming, painting, firing, packing, fuel, transport, and sales across specialized actors.
+- [Imperial Kiln System / 御窑体系](concepts/ImperialKilnSystem.md) — Court-production framework where imperial standards relied on Jingdezhen's local workshops, workers, materials, and process knowledge.
+- [Imperial Kiln Waste Control / 御窑落选品控制](concepts/ImperialKilnWasteControl.md) — Quality and circulation-control problem around smashed rejects, scarce pigments, secrecy, and low-yield court orders.
+- [Export Porcelain Customization / 外销瓷定制](concepts/ExportPorcelainCustomization.md) — Adaptation of Jingdezhen porcelain forms, decoration, and painting workflows to overseas demand and buyer communication.
+- [Ceramic Industrialization Transition / 陶瓷工业化转型](concepts/CeramicIndustrializationTransition.md) — Shift from workshop and imperial systems toward modern ceramic industry through schools, factories, fuel, finance, war, and market pressure.
+- [State-Owned Ceramic Factory System / 国营瓷厂体系](concepts/StateOwnedCeramicFactorySystem.md) — Post-1949 Jingdezhen factory system of large state and collective ceramic plants, national orders, fuel reform, tunnel kilns, and later market-transition decline.
+- [Jingpiao Creative Ceramic Ecology / 景漂创意陶瓷生态](concepts/JingpiaoCreativeCeramicEcology.md) — Contemporary Jingdezhen creator ecosystem built on retained ceramic supply chains, old factory spaces, markets, studios, tourism, and low entry barriers.
+- [Ceramic Livestream Commerce Risk / 陶瓷直播电商风险](concepts/CeramicLivestreamCommerceRisk.md) — Trust problem where live-commerce scale can amplify fake certificates, inflated master claims, copycats, and hard-to-evaluate ceramic quality.
+- [Advanced Ceramics Industrial Upgrade / 先进陶瓷产业升级](concepts/AdvancedCeramicsIndustrialUpgrade.md) — Modern Jingdezhen branch converting ceramic material knowledge and industrial capacity into higher-value advanced ceramic output.
+- [China-Changnan Etymology Myth / China源于昌南说](concepts/ChinaChannanEtymologyMyth.md) — Evidence caution around the weak claim that "China" derives from Jingdezhen's old name Changnan, contrasted with the stronger kaolin etymology.
 - [Super Justice](concepts/SuperJustice.md) — Benjamin Alarie's frame for relieving legal scarcity through abundant but accountable AI-supported legal help.
 - [AI Access To Justice](concepts/AIAccessToJustice.md) — Claim that AI can reduce legal-help scarcity only when fairness, verification, privacy, and accountability are preserved.
 - [Personalized Legal Guidance](concepts/PersonalizedLegalGuidance.md) — Tailoring legal explanations and pathways without changing underlying rights or rules.

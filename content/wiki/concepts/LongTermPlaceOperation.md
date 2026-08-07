@@ -2,13 +2,15 @@
 title: "Long-Term Place Operation"
 type: concept
 tags: [retail, real-estate, operations, tourism, cities]
-sources: [ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, 144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt, 131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
-last_updated: 2026-08-07
+sources: [no-213-jingdezhen-wangshi-qiannian-shijie-cidu-de-qianshi-jinsheng-1004755625, ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, 144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt, 131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
+last_updated: 2026-08-08
 ---
 
 # Long-Term Place Operation
 
 [[ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww]] adds a ritual-place version through [[YongningAncientCity|永宁古城]]. The source shows that long-term place value depends on whether local people keep carrying rituals, lineage work, temple committees, and youth succession, not only whether the old city attracts visitors.
+
+[[no-213-jingdezhen-wangshi-qiannian-shijie-cidu-de-qianshi-jinsheng-1004755625]] adds a production-city version through [[Jingdezhen]] and [[Taoxichuan]]. The source shows that an old factory district becomes durable only if markets, studios, copyright enforcement, tourism flow, maker services, and the deeper [[JingdezhenPorcelainProductionSystem|ceramic supply chain]] keep reinforcing one another after the opening event.
 
 [[144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt]] adds a village-homestay version through [[SlowRuralTourism]] in [[Mapingguan|马坪关]]. The source argues that a place can have attractive resources and still need slower opening because residents must develop hosting routines, language confidence, commons rules, and cultural-memory display before visitor flow becomes durable.
 
@@ -21,6 +23,7 @@ Long-term place operation is the capability to keep a physical destination, comm
 ## Key Claims
 - Episode 144 adds that long-term place operation can require deliberately limiting promotion until the host community can absorb guests and keep control over its own rhythm.
 - EP249 adds that operating a heritage place can mean sustaining ritual labor, lineage participation, and temple governance, not only managing tourists or built assets.
+- Banlatte episode 213 adds that operating a craft city means maintaining production services, credible markets, creator inflow, visitor experience, IP enforcement, and industrial upgrading at the same time.
 - Construction quality and hardware are not enough; the place must be operated through crowd flow, product cadence, convenience, service, maintenance, and repeat novelty.
 - Small monetization details can be evidence of deep experience design when they solve real visitor problems.
 - Real-estate development can extract value quickly, but place operation creates value slowly by making people return.
@@ -29,6 +32,7 @@ Long-term place operation is the capability to keep a physical destination, comm
 ## Connections
 - [[Mapingguan|马坪关]], [[DuanSihe|段四合]], [[SlowRuralTourism]], [[HeritageTourismCommercialization]], and [[MatsutakeCommonsManagement]] - village tourism and place-operation extension.
 - [[YongningAncientCity|永宁古城]], [[MinnanRitualNetwork]], [[RitualSuccessionCrisis]], and [[RitualTourismAuthenticityTension]] - ritual-place continuity branch added by EP249.
+- [[Jingdezhen]], [[Taoxichuan]], [[LottePotteryWorkshop]], [[JingpiaoCreativeCeramicEcology]], and [[AdvancedCeramicsIndustrialUpgrade]] - production-city operation branch added by Banlatte episode 213.
 - [[TokyoDisneyResort]] and [[Anaya]] - source cases.
 - [[ThemeParkAsMediaPlatform]], [[ExperientialRetail]], and [[ExperienceLedBrand]] - adjacent experience and retail concepts.
 - [[AuthenticNeighborhoodExperience]] - neighborhood version of the same capability.
