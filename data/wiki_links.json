@@ -1927,6 +1927,10 @@
     "title": "ASICS",
     "url": "/wiki/entities/asics/"
   },
+  "ASICWorkloadPredictionRisk": {
+    "title": "ASIC Workload Prediction Risk",
+    "url": "/wiki/concepts/asicworkloadpredictionrisk/"
+  },
   "ASML": {
     "title": "ASML / 阿斯麦",
     "url": "/wiki/entities/asml/"
@@ -5347,6 +5351,10 @@
     "title": "Broadcast Infrastructure Sunset",
     "url": "/wiki/concepts/broadcastinfrastructuresunset/"
   },
+  "Broadcom": {
+    "title": "Broadcom",
+    "url": "/wiki/entities/broadcom/"
+  },
   "BrokerageResearchReports": {
     "title": "Brokerage Research Reports",
     "url": "/wiki/concepts/brokerageresearchreports/"
@@ -5658,6 +5666,10 @@
   "CTA102": {
     "title": "CTA-102",
     "url": "/wiki/entities/cta102/"
+  },
+  "CUDA": {
+    "title": "CUDA",
+    "url": "/wiki/entities/cuda/"
   },
   "CVCCapitalPartners": {
     "title": "CVC Capital Partners",
@@ -14663,6 +14675,10 @@
     "title": "Henry McMaster",
     "url": "/wiki/entities/henrymcmaster/"
   },
+  "HenryTPUEngineer": {
+    "title": "Henry (TPU engineer)",
+    "url": "/wiki/entities/henrytpuengineer/"
+  },
   "HenryYin": {
     "title": "Henry Yin",
     "url": "/wiki/entities/henryyin/"
@@ -14798,6 +14814,10 @@
   "HighTechLawInstitute": {
     "title": "High Tech Law Institute",
     "url": "/wiki/entities/hightechlawinstitute/"
+  },
+  "HighThroughputInferenceBatching": {
+    "title": "High-Throughput Inference Batching",
+    "url": "/wiki/concepts/highthroughputinferencebatching/"
   },
   "HighVolumeLuxuryOperator": {
     "title": "High-Volume Luxury Operator",
@@ -16307,6 +16327,10 @@
     "title": "Ireland",
     "url": "/wiki/entities/ireland/"
   },
+  "IronwoodTPU": {
+    "title": "Ironwood TPU",
+    "url": "/wiki/entities/ironwoodtpu/"
+  },
   "IrvingFisher": {
     "title": "Irving Fisher / 欧文·费雪",
     "url": "/wiki/entities/irvingfisher/"
@@ -16398,6 +16422,10 @@
   "IvyLeagueMeritocracy": {
     "title": "Ivy League Meritocracy",
     "url": "/wiki/concepts/ivyleaguemeritocracy/"
+  },
+  "JAX": {
+    "title": "JAX",
+    "url": "/wiki/entities/jax/"
   },
   "JCET": {
     "title": "JCET / 长电科技",
@@ -16822,6 +16850,10 @@
   "JeffBezos": {
     "title": "Jeff Bezos",
     "url": "/wiki/entities/jeffbezos/"
+  },
+  "JeffDean": {
+    "title": "Jeff Dean",
+    "url": "/wiki/entities/jeffdean/"
   },
   "JeffDenning": {
     "title": "Jeff Denning",
@@ -17410,6 +17442,10 @@
   "JollofIndex": {
     "title": "Jollof Index",
     "url": "/wiki/concepts/jollofindex/"
+  },
+  "JonathanRoss": {
+    "title": "Jonathan Ross",
+    "url": "/wiki/entities/jonathanross/"
   },
   "JonathanSpence": {
     "title": "史景迁 / Jonathan Spence",
@@ -21522,6 +21558,10 @@
   "Mixpanel": {
     "title": "Mixpanel",
     "url": "/wiki/entities/mixpanel/"
+  },
+  "MixtureOfExperts": {
+    "title": "Mixture of Experts",
+    "url": "/wiki/concepts/mixtureofexperts/"
   },
   "MixueBingcheng": {
     "title": "Mixue Bingcheng",
@@ -25718,6 +25758,10 @@
   "PwC": {
     "title": "PwC",
     "url": "/wiki/entities/pwc/"
+  },
+  "PyTorch": {
+    "title": "PyTorch",
+    "url": "/wiki/entities/pytorch/"
   },
   "Pyramiding": {
     "title": "Pyramiding",
@@ -30551,6 +30595,10 @@
     "title": "TPU",
     "url": "/wiki/entities/tpu/"
   },
+  "TPUPodSystemOptimization": {
+    "title": "TPU Pod System Optimization",
+    "url": "/wiki/concepts/tpupodsystemoptimization/"
+  },
   "TQQQ": {
     "title": "TQQQ",
     "url": "/wiki/entities/tqqq/"
@@ -31002,6 +31050,10 @@
   "TencentWeishi": {
     "title": "Tencent Weishi",
     "url": "/wiki/entities/tencentweishi/"
+  },
+  "TensorFlow": {
+    "title": "TensorFlow",
+    "url": "/wiki/entities/tensorflow/"
   },
   "TerryKarl": {
     "title": "Terry Karl",
@@ -31862,6 +31914,10 @@
   "TransformationAsExit": {
     "title": "Transformation As Exit",
     "url": "/wiki/concepts/transformationasexit/"
+  },
+  "TransformerArchitecture": {
+    "title": "Transformer Architecture",
+    "url": "/wiki/concepts/transformerarchitecture/"
   },
   "TranslationPublishingWorkflow": {
     "title": "Translation Publishing Workflow",
@@ -34079,6 +34135,10 @@
     "title": "vivo X Fold6",
     "url": "/wiki/entities/xfold6/"
   },
+  "XLACompiler": {
+    "title": "XLA Compiler",
+    "url": "/wiki/concepts/xlacompiler/"
+  },
   "XPeng": {
     "title": "XPeng / 小鹏汽车",
     "url": "/wiki/entities/xpeng/"
@@ -35850,6 +35910,10 @@
   "e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67": {
     "title": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？",
     "url": "/wiki/sources/e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67/"
+  },
+  "e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149": {
+    "title": "E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘",
+    "url": "/wiki/sources/e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149/"
   },
   "e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi": {
     "title": "E229｜从手工作坊到全球第一：中国动力电池逆袭史",

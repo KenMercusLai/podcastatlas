@@ -2,10 +2,9 @@
 title: "High Bandwidth Memory"
 type: concept
 tags: [ai, semiconductors, memory, infrastructure]
-sources: [tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
-last_updated: 2026-08-05
+sources: [tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]
+last_updated: 2026-08-07
 ---
-
 # High Bandwidth Memory
 
 [[tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128]] adds a concise public explanation of HBM's role in the AI boom. The episode says high-bandwidth memory is needed to train and run AI, is paired with [[Nvidia]] chips, and is made by only a small number of suppliers, so data-center demand can create shortages for other memory-using products.
@@ -22,6 +21,8 @@ The source's concrete comparison is scale: it describes Nvidia's GB200 as having
 
 [[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]] adds HBM as a binding assumption behind [[Nvidia]]'s 2027 platform volume. The guests discuss HBM4 production and HBM4e customization as necessary but uncertain parts of the [[NvidiaBlackwellPlatform|Blackwell]] and [[NvidiaVeraRubinPlatform|Vera Rubin]] supply chain, with packaging and allocation shaping what can ship.
 
+[[e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]] adds HBM as the ceiling for [[Google]] [[TPU]] expansion and inference efficiency. [[HenryTPUEngineer|Henry]] says HBM supply is concentrated among [[SKHynix]], [[Samsung]], and [[MicronTechnology]], while [[Nvidia]] has long been the largest HBM customer; that makes it harder for TPU to ramp external demand quickly unless [[Google]] can reserve capacity, packaging, and yield at scale.
+
 ## Key Claims
 - AI acceleration depends on fast memory as well as GPUs or model software.
 - HBM demand can lift memory suppliers such as [[MicronTechnology]], [[SKHynix]], and [[Samsung]] when AI data-center buildout accelerates.
@@ -33,6 +34,7 @@ The source's concrete comparison is scale: it describes Nvidia's GB200 as having
 - HBM roadmap confidence must be paired with packaging and data-center readiness before it translates into reliable inference capacity.
 - HBM supplier concentration and memory-fab capital intensity can make shortages hard to solve quickly.
 - HBM capacity expansion can become a local-governance issue when fabs require land, water, environmental review, and enforceable community commitments.
+- TPU competition makes HBM a multi-platform chokepoint: a custom accelerator can be well designed and still be constrained if it cannot secure enough memory bandwidth and package capacity.
 
 ## Connections
 - [[MicronTechnology]] - main company case in the source.
@@ -46,3 +48,4 @@ The source's concrete comparison is scale: it describes Nvidia's GB200 as having
 - [[AdvancedPackaging]], [[JCET]], [[DomesticAIChipCatchUp]], and [[ComputeFreedom]] — public semiconductor explainer branch added by EP270.
 - [[NvidiaBlackwellPlatform]], [[NvidiaVeraRubinPlatform]], [[TokenPerWatt]], and [[AIHardwareSupplyChainPressure]] - E230's platform-volume and efficiency context.
 - [[TomMinelli]], [[IDC]], [[MemoryChipShortage]], and [[AIPCMemoryDemand]] - Marketplace Tech's consumer-spillover branch.
+- [[TPU]], [[IronwoodTPU]], [[Broadcom]], [[TPUPodSystemOptimization]], and [[XLACompiler]] - E228's TPU memory-bandwidth and ramp branch.

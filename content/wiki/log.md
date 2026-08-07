@@ -6382,6 +6382,10 @@ Added source page for a Talk三联 episode with 高一丁 and 苗伟 on 徐光�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-07] ingest | E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘
+
+Added source page for a 硅谷101 episode with former Google TPU engineer Henry on TPU versus Nvidia GPU competition, covering TPU Pods, XLA/JAX, PyTorch compatibility, Ironwood V7, Gemini training, HBM and CoWoS packaging, Broadcom's connectivity role, Anthropic's TPU fit, MoE topology pressure, ASIC workload-prediction risk, and high-throughput versus low-latency inference. Created pages for Henry (TPU engineer), Broadcom, Ironwood TPU, Jonathan Ross, Jeff Dean, CUDA, JAX, PyTorch, TensorFlow, XLA Compiler, TPU Pod System Optimization, ASIC Workload Prediction Risk, High-Throughput Inference Batching, Mixture of Experts, and Transformer Architecture; updated overview, index, Silicon Valley 101, Google, Nvidia, TPU, GPU, Google Cloud, Gemini, Anthropic, Groq, TSMC, AI Chip Specialization, AI Hardware Supply Chain Pressure, AI Data Center Memory Hierarchy, Memory Wall, Advanced Packaging, High Bandwidth Memory, AI Cluster Networking, AI Inference Cost Structure, Low-Latency Inference Chip, Inference Chip Startup Narrowing, MaaS Infrastructure, Full-Stack AI Platform, and AI Infrastructure Full-Stack Moat. No direct contradiction found; the source qualifies TPU optimism by making its challenge to Nvidia conditional on workload stability, compiler access, HBM/packaging supply, customer engineering depth, and Google's ability to externalize an internally optimized stack.
+
 ## [2026-08-07] ingest | 171.为什么牛市后期更容易亏钱？｜半年度投资账复盘
 
 Added source page for a 起朱楼宴宾客 half-year 2026 investment-account review by 大卫翁 on late bull-market loss risk, market breadth narrowing, FOMO entry, overtrading, oversized bets, and 2014-2015 A-share wealth redistribution. Created pages for Late Bull Market Loss Risk, Market Breadth Narrowing, and Bubble Wealth Redistribution; updated overview, index, 起朱楼宴宾客, 大卫翁, Bull Market Profit Preservation, Retail Bull Market Psychology, Behavioral Investing Biases, Investment Cooldown Discipline, Investment Decision Logging, Stop-Loss Discipline, Market Pullback vs Trend End, Position Sizing, Investment Risk Management, Drawdown Psychology, Mega-Cap Concentration Risk, Speculative Bubble Psychology, A-Share Bull Market History, Retail Investor Crowding, Gold As Currency Spare Tire, Defensive Dividend Assets, and Investment Plan Execution Discipline. No direct contradiction found; the source extends prior bull-market profit-preservation and pullback-discipline pages by showing how investors can lose during the headline bull market through breadth, behavior, and account-size timing differences.
@@ -6649,6 +6653,10 @@ Ran lint after health passed. Deterministic checks found one orphan page (`wiki/
 ## [2026-08-07] lint | Wiki health check
 
 Ran health before lint; health scanned 9,430 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 9,430 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-24 with 6,453 nodes and 65,220 edges while the current wiki scan found 9,430 pages, so graph findings are advisory until `build graph` refreshes it; the graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to unqualified `claude-3-5-sonnet-latest`; configure a provider-qualified model and API key to enable contradiction, stale-content, data-gap, and concept-depth checks. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 

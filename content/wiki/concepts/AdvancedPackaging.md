@@ -2,10 +2,9 @@
 title: "Advanced Packaging"
 type: concept
 tags: [semiconductors, packaging, ai, hardware]
-sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5]
-last_updated: 2026-08-05
+sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]
+last_updated: 2026-08-07
 ---
-
 # Advanced Packaging
 
 Advanced packaging is the semiconductor route highlighted in [[ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]] as one of China's relatively stronger catch-up areas. Packaging protects chips, connects them electrically to the outside world, and increasingly affects system performance when AI workloads need fast data movement between processors and memory.
@@ -16,6 +15,8 @@ The episode links advanced packaging to [[HighBandwidthMemory|HBM]] and the [[Me
 
 [[huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5]] adds a Huawei-specific caveat: packaging is necessary for three-dimensional routes, but the most ambitious [[CellToCellLogicStacking]] version cannot be evaluated as a packaging claim alone. It would also require upstream [[ElectronicDesignAutomation|EDA]] changes and a design flow that can plan logic cells vertically before packaging.
 
+[[e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]] adds the [[TPU]] ramp version. [[HenryTPUEngineer|Henry]] says [[Google]] and [[Broadcom]] still rely on [[TSMC]] CoWoS-style packaging to combine [[HighBandwidthMemory]] and compute dies, so TPU external expansion faces the same back-end capacity and yield questions as other advanced AI accelerators.
+
 ## Key Claims
 - Packaging has moved from a lower-visibility back-end step toward a performance-critical AI infrastructure layer.
 - China's relative gap is described as smaller in packaging than in advanced lithography or leading-edge wafer fabrication.
@@ -23,6 +24,7 @@ The episode links advanced packaging to [[HighBandwidthMemory|HBM]] and the [[Me
 - Packaging helps only when matched with suitable chips and memory; applying advanced packaging to much older nodes may not create meaningful performance gain.
 - In high-end AI systems, packaging capacity can decide whether accelerators and HBM become deliverable systems rather than separate components.
 - For Tau Law, advanced packaging is only one layer of proof; the source also asks whether design tools, verification, power, yield, and cost can support cell-level logic folding.
+- TPU scaling shows that packaging capacity is not only a [[Nvidia]] issue; specialized accelerators also need advanced package integration before they become deployable pod-scale systems.
 
 ## Connections
 - [[JCET]] — packaging company and factory visit in the source.
@@ -31,3 +33,4 @@ The episode links advanced packaging to [[HighBandwidthMemory|HBM]] and the [[Me
 - [[DomesticAIChipCatchUp]] and [[SemiconductorSupplyChain]] — domestic strategy and chain context.
 - [[NvidiaBlackwellPlatform]], [[NvidiaVeraRubinPlatform]], [[Intel]], and [[Samsung]] - E230's platform-supply and packaging-alternative context.
 - [[TauLaw]], [[CellToCellLogicStacking]], and [[ElectronicDesignAutomation]] — Huawei bonus episode's distinction between packaging and design-flow readiness.
+- [[TPU]], [[Broadcom]], [[TPUPodSystemOptimization]], and [[AIHardwareSupplyChainPressure]] - E228's TPU packaging and supply-ramp branch.

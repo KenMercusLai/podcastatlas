@@ -2,10 +2,9 @@
 title: "AI Data Center Memory Hierarchy"
 type: concept
 tags: [ai, data-centers, semiconductors, memory]
-sources: [tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
-last_updated: 2026-07-23
+sources: [tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]
+last_updated: 2026-08-07
 ---
-
 # AI Data Center Memory Hierarchy
 
 AI Data Center Memory Hierarchy is the five-layer storage frame from [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]]. The episode orders memory and storage by distance from the processor: on-chip SRAM, [[HighBandwidthMemory]], DRAM, NAND SSDs, and hard drives.
@@ -14,12 +13,15 @@ The hierarchy explains why there is no single memory substitute. Layers nearer t
 
 [[tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128]] reinforces the hierarchy from the consumer side. It does not map all five layers, but it shows how data-center demand for high-value memory can pull supply away from ordinary RAM used in PCs, smartphones, gaming computers, tablets, wearables, and smart-home devices.
 
+[[e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]] adds the [[TPU]] utilization version. [[HenryTPUEngineer|Henry]] says large-model training and inference are shifting from pure compute bottlenecks toward memory and data-movement bottlenecks, so TPU performance depends on cache reuse, memory bandwidth, and keeping matrix units busy rather than only raising headline FLOPS.
+
 ## Key Claims
 - AI infrastructure depends on moving data through several memory layers, not only on buying more accelerators.
 - Faster and closer memory is more expensive, so system architecture decides which data belongs in SRAM, HBM, DRAM, NAND, or hard drives.
 - HBM, CXL memory pooling, NAND+DPU prefetching, and HBF solve different parts of the hierarchy rather than replacing one another.
 - The hierarchy makes [[AIHardwareSupplyChainPressure]] broader than GPUs: packaging, memory dies, NAND, hard drives, and interconnect all matter.
 - Consumer devices can feel the hierarchy indirectly when AI data centers bid aggressively for scarce memory capacity.
+- TPU and GPU competition increasingly depends on where model state, activations, and KV-like inference data sit in the memory hierarchy and how efficiently software can move them.
 
 ## Connections
 - [[MemoryWall]] - bottleneck that makes hierarchy design strategic.
@@ -27,3 +29,4 @@ The hierarchy explains why there is no single memory substitute. Layers nearer t
 - [[Nvidia]], [[Google]], [[Cerebras]], and [[TSMC]] - companies tied to different hierarchy strategies.
 - [[AIComputeContinuity]] - operational need for enough memory and storage across the stack.
 - [[AIPCMemoryDemand]] and [[ConsumerElectronicsLifecycle]] - downstream device-market pressure added by Marketplace Tech.
+- [[TPU]], [[XLACompiler]], [[TPUPodSystemOptimization]], and [[IronwoodTPU]] - E228's memory-bandwidth and utilization branch.

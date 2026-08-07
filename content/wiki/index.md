@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘](sources/e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149.md) — 硅谷101 episode with former TPU engineer Henry on Google TPUs versus Nvidia GPUs, XLA/JAX, TPU Pods, HBM/CoWoS/Broadcom constraints, Anthropic's TPU fit, and why TPU pressure is real but conditional.
 - [A pro-worker experiment in private equity](sources/a-pro-worker-experiment-in-private-equity.md) — Planet Money episode on KKR's broad worker-ownership experiment, contrasting Capital Safety's hidden equity payout with GSI's better-communicated employee ownership and retention case.
 - [We almost had a smartphone in the 90s. Why did it fail?](sources/we-almost-had-a-smartphone-in-the-90s-why-did-it-fail.md) — Planet Money episode on General Magic, the Sony Magic Link, Tony Fadell, and how excess resources, vague customers, feature creep, and weak constraints shaped an early smartphone failure.
 - [Reese's heir vs. chocolate skimpflation](sources/reeses-heir-vs-chocolate-skimpflation.md) — Planet Money episode on Reese's label changes, chocolate compound, peanut butter cream, skimpflation, cocoa supply shocks, FDA chocolate standards, and Hershey's announced return to classic chocolate recipes by 2027.
@@ -832,6 +833,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Henry (TPU engineer)](entities/HenryTPUEngineer.md) — Former Google TPU engineer in E228 explaining TPU architecture, XLA/JAX, Ironwood, pod-level scaling, HBM, Broadcom, and the limits of TPU/GPU comparison.
+- [Broadcom](entities/Broadcom.md) — TPU implementation partner in E228, tied to ICI, backend work, physical connectivity, mixed-signal expertise, and Google supplier-dependency risk.
+- [Ironwood TPU](entities/IronwoodTPU.md) — Google TPU generation discussed in E228 as a V7-era inference-oriented chip with improved FLOPS and memory bandwidth.
+- [Jonathan Ross](entities/JonathanRoss.md) — Google TPU origin-story figure in E228, linked to the cost pressure of serving deep-learning speech recognition at product scale.
+- [Jeff Dean](entities/JeffDean.md) — Google technical leader named in E228 as part of the high-level direction-setting context for future TPU workloads.
+- [CUDA](entities/CUDA.md) — Nvidia software ecosystem contrasted with Google's XLA/JAX route in E228 and central to GPU substitution difficulty.
+- [JAX](entities/JAX.md) — Google-oriented ML framework route that can expose TPU performance through XLA but raises migration and debugging requirements.
+- [PyTorch](entities/PyTorch.md) — External ML framework whose TPU/XLA compatibility shapes whether Google TPUs can expand beyond Google-native teams.
+- [TensorFlow](entities/TensorFlow.md) — Google ML framework named in E228 as one upper-layer path into XLA and TPU execution.
 - [Pete Stavros](entities/PeteStavros.md) — KKR figure leading the worker-ownership experiment through Capital Safety, GSI, and the broader private-equity rollout.
 - [Cindy Cordes](entities/CindyCordes.md) — Capital Safety manufacturing lead whose surprise five-figure payout shows the limits of uncommunicated worker equity.
 - [Capital Safety](entities/CapitalSafety.md) — KKR's first broad worker-equity test case, later sold to 3M after a poorly communicated rollout.
@@ -5653,6 +5663,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [XLA Compiler](concepts/XLACompiler.md) — Google compiler layer in E228 that optimizes TPU graphs through static compilation, fusion, memory planning, and system-aware scheduling while raising debugging barriers.
+- [TPU Pod System Optimization](concepts/TPUPodSystemOptimization.md) — E228 frame that TPU performance depends on pods, ICI/3D Torus-style communication, XLA, topology, and data-center deployment rather than a single chip.
+- [ASIC Workload Prediction Risk](concepts/ASICWorkloadPredictionRisk.md) — E228 risk that specialized accelerators gain from stable Transformer-like workloads but suffer when model architectures change faster than chip cycles.
+- [High-Throughput Inference Batching](concepts/HighThroughputInferenceBatching.md) — E228 inference pattern where large, stable, batched request volume favors TPU-style throughput and TCO optimization over single-user latency.
+- [Mixture of Experts](concepts/MixtureOfExperts.md) — Model-architecture pattern whose all-to-all expert routing makes TPU topology and AI cluster networking a first-order issue.
+- [Transformer Architecture](concepts/TransformerArchitecture.md) — Model family used in E228 to explain why Google could specialize TPUs around stable matrix-heavy AI workloads.
 - [Private Equity Worker Ownership](concepts/PrivateEquityWorkerOwnership.md) — Broad employee-equity model in private-equity-owned companies where communication, trust, leadership, and exit timing decide whether ownership changes behavior.
 - [Constraint-Driven Product Discipline](concepts/ConstraintDrivenProductDiscipline.md) — Product-building pattern where customer clarity, budgets, deadlines, reuse, and iteration sharpen ambitious technology.
 - [Clear Customer Definition](concepts/ClearCustomerDefinition.md) — Product discipline of knowing who the first customer is, what problem they have, and what need should force tradeoffs.
