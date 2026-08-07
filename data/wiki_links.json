@@ -7843,6 +7843,10 @@
     "title": "Classical Prose Reading / 古文阅读",
     "url": "/wiki/concepts/classicalprosereading/"
   },
+  "ClassroomMagazineCirculation": {
+    "title": "Classroom Magazine Circulation / 班级杂志传阅",
+    "url": "/wiki/concepts/classroommagazinecirculation/"
+  },
   "Claude": {
     "title": "Claude",
     "url": "/wiki/entities/claude/"
@@ -11386,6 +11390,10 @@
   "ElectronicFrontierFoundation": {
     "title": "Electronic Frontier Foundation",
     "url": "/wiki/entities/electronicfrontierfoundation/"
+  },
+  "ElectronicMagazineTransition": {
+    "title": "Electronic Magazine Transition / 电子杂志过渡",
+    "url": "/wiki/concepts/electronicmagazinetransition/"
   },
   "ElectronicPrivacyInformationCenter": {
     "title": "Electronic Privacy Information Center",
@@ -20995,6 +21003,10 @@
     "title": "Local Veto Housing Politics",
     "url": "/wiki/concepts/localvetohousingpolitics/"
   },
+  "LocalZineRevival": {
+    "title": "Local Zine Revival / 在地小杂志回潮",
+    "url": "/wiki/concepts/localzinerevival/"
+  },
   "LocalizedGlobalCompany": {
     "title": "Localized Global Company / 中国籍全球公司本地化",
     "url": "/wiki/concepts/localizedglobalcompany/"
@@ -21610,6 +21622,10 @@
   "MadeToOrderCommerce": {
     "title": "Made-To-Order Commerce",
     "url": "/wiki/concepts/madetoordercommerce/"
+  },
+  "MagazineReadingEcology": {
+    "title": "Magazine Reading Ecology / 杂志阅读生态",
+    "url": "/wiki/concepts/magazinereadingecology/"
   },
   "MagellanicPenguin": {
     "title": "Magellanic Penguin / 麦哲伦企鹅",
@@ -25802,6 +25818,10 @@
   "PaoWaimai": {
     "title": "《跑外卖：一个女骑手的世界》",
     "url": "/wiki/entities/paowaimai/"
+  },
+  "PaperMagazineSubscriptionRitual": {
+    "title": "Paper Magazine Subscription Ritual / 纸刊订阅仪式",
+    "url": "/wiki/concepts/papermagazinesubscriptionritual/"
   },
   "PaperMoneyRitualMateriality": {
     "title": "Paper Money Ritual Materiality",
@@ -36799,6 +36819,10 @@
     "title": "吴欣鸿",
     "url": "/wiki/entities/wuxinhong/"
   },
+  "WuYueSanlian": {
+    "title": "伍玥 / Wu Yue (Sanlian)",
+    "url": "/wiki/entities/wuyuesanlian/"
+  },
   "WuYueniang": {
     "title": "吴月娘 / Wu Yueniang",
     "url": "/wiki/entities/wuyueniang/"
@@ -39146,6 +39170,10 @@
   "ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v": {
     "title": "EP271 探访“柔性制造”工厂：是谁让你“想要就能买到”？",
     "url": "/wiki/sources/ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v/"
+  },
+  "ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu": {
+    "title": "EP272 谁的青春里，没有一本被传阅到卷边的杂志？",
+    "url": "/wiki/sources/ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu/"
   },
   "ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj": {
     "title": "EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离",

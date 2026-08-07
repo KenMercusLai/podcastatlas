@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-08] ingest | EP272 谁的青春里，没有一本被传阅到卷边的杂志？
+
+Added source page for a Talk三联 episode using 三联生活周刊's 1400th issue to discuss Chinese magazine-reading memory, covering family subscriptions, classroom circulation, confiscated youth magazines, science-fiction and fantasy reading, fashion and idol magazines, e-magazines, kiosk decline, older readers, paper subscription ritual, and local zines. Created pages for 伍玥 / Wu Yue (Sanlian), Magazine Reading Ecology, Classroom Magazine Circulation, Electronic Magazine Transition, Paper Magazine Subscription Ritual, and Local Zine Revival; updated overview, index, Talk三联, 三联生活周刊, 高一丁, 魏茜, 夏洁逸, Reading As Life Experience, Childhood Reading Ecology, Family Reading Ecology, Reading Medium Pluralism, Attention Fragmentation, and Analog Media Preservation. No direct contradiction found; the source qualifies paper nostalgia by showing that print, e-magazines, public accounts, short video, subscriptions, and local booklets all compete to satisfy curiosity, sociality, and attention needs.
+
 ## [2026-08-08] ingest | 270.大厂押注AI办公，飞书和钉钉却先成了配角
 
 Added source page for a 乱翻书 episode on Feishu/DingTalk as AI-office substrate, Doubao consumer monetization pressure, Tencent WorkBody, Alibaba Qwen office, enterprise data/workflow value, and coding-like office agents. Created pages for AI Office Agent, Tencent WorkBody, Doubao Enterprise Edition, Eric (Feishu source), and 雅兰/Yalan; updated overview, index, Luanfanshu, Zhuang Minghao, Feishu, DingTalk, Doubao, ByteDance, Alibaba, Tencent, Tencent WorkBuddy, Qwen, and related AI commercialization, inference-cost, enterprise-data, organization-design, and agent-workflow concepts. No direct contradiction found; product-name and reported-metric claims are kept source-scoped.
@@ -7173,6 +7177,10 @@ Ran lint after health passed. Deterministic checks scanned 10,208 pages and foun
 ## [2026-08-08] ingest | E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿
 
 Added source page for a 硅谷101 episode with Wang Tiezhen and Keith Zhai on Kimi K3, model distillation, Chinese open-weight model progress, Kimi K3 licensing, OpenRouter and neocloud ecosystem shifts, closed API moat pressure, model sovereignty, agent inference workloads, and open-model safety governance. Created pages for Wang Tiezhen, Keith Zhai, Moonshot AI, OpenRouter, Model Distillation, Model Identity Data Pollution, Scaling Efficiency, Open-Weight Commercial Licensing, Closed Model API Moat Pressure, Model Sovereignty, Open Model Safety Governance, and Agent Inference Workload; updated overview, index, 硅谷101, Kimi K3, Kimi, DeepSeek, Qwen, Thinking Machines Lab, OpenAI, Anthropic, Open Source AI Models, Open Weight Release Boundary, Chinese Open-Weight AI Strategy, AI Inference Cost Structure, Model Routing Cost Control, Neo Cloud, Sovereign AI Models, Frontier Model Access Restrictions, AI Model Sandbox Escape, and AI Cyber-Defense Utility. No direct contradiction found; the source qualifies broad distillation accusations by separating technical distillation, generated-output training, identity data pollution, licensing compliance, and actual capability provenance, while also qualifying open-model safety debates by comparing open weights against closed-model opacity and access-control risks.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-08] lint | Wiki health check
 

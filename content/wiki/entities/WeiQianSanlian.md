@@ -1,12 +1,14 @@
 ---
 title: "魏茜 / Wei Qian (Sanlian)"
 type: entity
-tags: [person, journalist, media, culture, mental-health, work, reading, science-education]
-sources: [ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj, ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]
-last_updated: 2026-08-07
+tags: [person, journalist, media, culture, mental-health, work, reading, science-education, magazines]
+sources: [ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu, ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj, ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]
+last_updated: 2026-08-08
 ---
 
 # 魏茜 / Wei Qian (Sanlian)
+
+[[ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu]] adds Wei Qian's magazine-memory and paper-afterlife role. She recalls family literary magazines, long-term 《科幻世界》 reading, social-investigation magazines, reader support for magazine editors, kiosk decline, older readers' paper access, and the possibility that subscribing to print can work as a [[PaperMagazineSubscriptionRitual|life-space ritual]].
 
 [[ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r]] adds Wei Qian's science-education reporting and synthesis branch. She distinguishes ordinary scientific literacy from traditional science-subject training, uses [[BigConceptScienceTeaching|大概念]] and [[HPSScienceEducation|HPS]] to connect facts with concepts and history, and ends with a life-modeling view of [[ScienceEducationAsCivicLiteracy|science education as civic literacy]].
 
@@ -24,6 +26,7 @@ Her contribution is strongest on the consumer and wellness side of the episode. 
 
 ## Connections
 - [[SanlianLifeWeekly|三联生活周刊]] and [[TalkSanlian|Talk三联]] - media and show context.
+- [[GaoYiding]], [[WuYueSanlian|伍玥]], [[XiaJieyi|夏洁逸]], [[MagazineReadingEcology]], [[ClassroomMagazineCirculation]], [[PaperMagazineSubscriptionRitual]], and [[LocalZineRevival]] - EP272 magazine-memory branch.
 - [[GaoYiding]], [[WangYiranSanlian]], [[ScienceEducationAsCivicLiteracy]], [[BigConceptScienceTeaching]], and [[HPSScienceEducation]] - EP262 science-education branch.
 - [[LengJianguo|冷建国]], [[ZhangZhiqi|张芝琪]], [[RandomFluctuations|随机波动]], [[BedtimeReadingRitual]], [[ReadingMediumPluralism]], [[AttentionFragmentation]], and [[SleepAsResistance]] - EP258 reading, sleep, body, and attention branch.
 - [[WoteShoes]], [[Putian]], [[Fujian]], [[ManufacturingSalesShift]], [[FactorySecondGeneration]], [[SuccessionAsContinuousEntrepreneurship]], and [[GlobalProductLocalization]] - EP255 shoe-manufacturing and succession branch.

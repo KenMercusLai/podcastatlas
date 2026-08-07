@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP272 谁的青春里，没有一本被传阅到卷边的杂志？](sources/ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu.md) — Talk三联 episode on magazine reading memory, family subscriptions, classroom circulation, youth magazines, e-magazines, mobile-internet decline, paper subscription ritual, and local zine revival.
 - [270.大厂押注AI办公，飞书和钉钉却先成了配角](sources/270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4.md) — 乱翻书 episode on Feishu/DingTalk becoming AI-office substrate, Doubao C-end monetization pressure, Tencent WorkBody, Alibaba Qwen office, enterprise data, and coding-like office agents.
 - [E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿](sources/e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41.md) — 硅谷101 episode with Wang Tiezhen and Keith Zhai on Kimi K3, model distillation, Chinese open-weight model progress, Kimi K3 licensing, OpenRouter/neocloud ecosystem shifts, closed API moat pressure, model sovereignty, and open-model safety governance.
 - [176: 姚顺宇，来到腾讯300天](sources/yao-shunyu-laidao-tengxun-300tian-1-176-1.md) — LateTalk episode on Yao Shunyu's first 300 days rebuilding Tencent Hunyuan, Hunyuan/WeChat VLM coexistence, Tencent CSIG product loops, and Tencent's federated AI organization tension.
@@ -897,6 +898,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [伍玥 / Wu Yue (Sanlian)](entities/WuYueSanlian.md) — Talk三联 speaker whose magazine memories connect family subscriptions, class circulation, youth literature, and Hallyu fan consumption.
 - [Tencent WorkBody](entities/TencentWorkBody.md) — Tencent AI office-agent product named by episode 270 as a non-programmer work-agent competitor.
 - [Doubao Enterprise Edition / 豆包企业版](entities/DoubaoEnterpriseEdition.md) — Source-scoped enterprise packaging where Doubao AI is sold through Feishu-like office workflows.
 - [Eric (Feishu source)](entities/EricFeishu.md) — Source speaker with Feishu commercialization/product background explaining Feishu, Volcano Engine, and Doubao enterprise sales overlap.
@@ -6137,6 +6139,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Magazine Reading Ecology / 杂志阅读生态](concepts/MagazineReadingEcology.md) — Environment of household, school, kiosk, subscription, library, toilet, and email access that made magazines formative reading objects.
+- [Classroom Magazine Circulation / 班级杂志传阅](concepts/ClassroomMagazineCirculation.md) — Pattern where one purchased magazine became shared class material, social currency, hidden autonomy, and sometimes confiscated contraband.
+- [Electronic Magazine Transition / 电子杂志过渡](concepts/ElectronicMagazineTransition.md) — Email and web magazine layer that preserved periodic issue-like delivery while pointing toward mobile internet and feed media.
+- [Paper Magazine Subscription Ritual / 纸刊订阅仪式](concepts/PaperMagazineSubscriptionRitual.md) — Post-fast-news value of print subscription as rhythm, attention protection, household habit, and physical arrival.
+- [Local Zine Revival / 在地小杂志回潮](concepts/LocalZineRevival.md) — Small place-based print revival using zines and city booklets to preserve local food, walking, taste, memory, and community identity.
 - [AI Office Agent](concepts/AIOfficeAgent.md) — Office/productivity agent category where models, coding-like execution, enterprise data, permissions, and workflows compete to become the work entry point.
 - [Model Distillation / 模型蒸馏](concepts/ModelDistillation.md) — Technique and controversy split that distinguishes classic distillation from generated-output training, terms violations, and unsupported copying accusations.
 - [Model Identity Data Pollution / 模型身份数据污染](concepts/ModelIdentityDataPollution.md) — Evidence-quality warning that model self-identification errors can come from mixed public AI-output data rather than proving systematic distillation.
