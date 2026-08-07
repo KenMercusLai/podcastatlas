@@ -2,11 +2,13 @@
 title: "Sam Altman"
 type: entity
 tags: [person, startups, venture-capital]
-sources: [170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77, tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-replit-v2-tsr-s3-replit-v2, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
-last_updated: 2026-08-07
+sources: [in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74, 170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77, tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-replit-v2-tsr-s3-replit-v2, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+last_updated: 2026-08-08
 ---
 
 # Sam Altman
+
+[[in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74]] adds Altman as a reference point in a broader U.S. self-employment segment. The source cites his discussion of a possible billion-dollar one-person firm, using it to ask whether [[AIEnabledSelfEmployment]] and [[OnePersonCompany]] could weaken the old assumption that successful firms must keep adding payroll.
 
 [[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] adds Altman as a source-scoped [[RichardWhitney]]-style silhouette, not as an accusation. [[DavidWeng|大卫翁]] links [[OpenAI]] governance, Altman's personal investment network, and the [[OpenAIBoardCrisis]] to a broader question about how much disclosure, board trust, and institutional authority matter when a market cycle is still rising.
 
@@ -34,6 +36,7 @@ In this source, Altman functions as part of the [[YCombinator]] and startup-inve
 
 ## Connections
 - [[TheResidency]], [[NickLink]], [[PeterDAmbrosio]], [[HackerHouseStartupInfrastructure]], and [[BuilderCenteredInstitutions]] - advisory context added by the What's Next hacker-house episode.
+- [[AIEnabledSelfEmployment]], [[FullTimeSelfEmploymentBoom]], and [[OnePersonCompany]] - source-scoped one-person-firm branch added by The Intelligence.
 - [[JaredFriedman]], [[Scribd]], [[YCombinator]], and [[YCInternalSoftware]] - Jared's partner path and later internal-software branch added by The Social Radars.
 - [[Reddit]], [[SteveHuffman]], and [[YCombinator]] - funding and return context.
 - [[SummerFoundersProgram]] and [[SequoiaCapital]] - first-batch validation context added by the Graham episode.

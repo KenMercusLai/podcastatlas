@@ -2,8 +2,8 @@
 title: "Entrepreneurship Infrastructure"
 type: concept
 tags: [startup, platform, saas, ecommerce]
-sources: [tsr-s4-gusto-v3-tsr-s4-gusto-v3, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, socialradarss2-stripe-v2]
-last_updated: 2026-07-23
+sources: [in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74, tsr-s4-gusto-v3-tsr-s4-gusto-v3, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, socialradarss2-stripe-v2]
+last_updated: 2026-08-08
 ---
 
 # Entrepreneurship Infrastructure
@@ -16,12 +16,15 @@ The concept differs from ordinary SaaS feature building because the product's jo
 
 [[tsr-s4-gusto-v3-tsr-s4-gusto-v3]] adds the employment and compliance layer through [[Gusto]]. [[JoshReeves]] frames the company's future as helping people start and run companies by handling payroll, benefits, time tracking, tax credits, international hiring, and other government complexity that would otherwise distract founders and small-business owners from their core work.
 
+[[in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74]] adds a macro-labor version through the U.S. [[FullTimeSelfEmploymentBoom]]. The source says remote work, online retail, health and social-care demand, and AI tools can lower the barrier to starting small businesses, but it also warns that many new firms may not hire staff, so entrepreneurship infrastructure can expand formation without immediately expanding payroll.
+
 ## Key Claims
 - Infrastructure products can create new businesses by reducing setup friction that would otherwise stop non-technical founders.
 - The first sale is a useful north-star event because it turns abstract setup work into proof that a real customer can buy.
 - A platform may deliberately keep its own brand quiet if the customer wants to look credible to their own buyers.
 - Operational trust matters because merchants depend on payments, checkout, shipping, and fulfillment working when demand arrives.
 - The same infrastructure can become more valuable during shocks when displaced people try businesses they had previously postponed.
+- Infrastructure can make self-employment easier without guaranteeing that new firms become employers.
 - Entrepreneurship infrastructure still needs [[ProductLedWillingnessToPay]]: lowering barriers is valuable only if merchants understand and pay for the value.
 - Payment acceptance can be entrepreneurship infrastructure when it shortens the path from software idea to paid product.
 - Payroll and benefits infrastructure can lower the operating burden of hiring by turning tax, payment, compliance, and employee-data obligations into usable workflows.
@@ -34,3 +37,4 @@ The concept differs from ordinary SaaS feature building because the product's jo
 - [[StartupGovernance]] and [[FinancialGravity]] - capital and company-shape pressures once infrastructure becomes venture scale.
 - [[Stripe]], [[PatrickCollison]], [[JohnCollison]], and [[DeveloperFirstPaymentInfrastructure]] - payment acceptance layer added by the Collison episode.
 - [[Gusto]], [[JoshReeves]], [[PayrollInfrastructureTrust]], and [[RegulatedWorkflowWedge]] - employment-compliance layer added by the Gusto episode.
+- [[FullTimeSelfEmploymentBoom]], [[AIEnabledSelfEmployment]], and [[AIAsBusinessOperator]] - self-employment and AI-tailwind branch added by The Intelligence.

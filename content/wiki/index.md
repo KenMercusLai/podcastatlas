@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [In arms’ way: Gaza-deal sticking points](sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74.md) — The Intelligence episode on Gaza deal sequencing, verification, technocratic governance, America's full-time self-employment boom, AI-enabled founders, and radio's resilience across Africa.
 - [177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？](sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1.md) — LateTalk technical episode with Zhao Chenyang and Zeng Zhiyuan on Kimi K3 architecture, KDA, Attention Residues, MoE routing, Per-Head Muon, MOPD, AgentIn, kernel agents, open-weight boundaries, and closed-lab valuation pressure.
 - [期权这张饼，为什么越来越难吃了？](sources/qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1.md) — Keji Luandun episode on employee stock options, RSUs, VIE entity mismatch, option-pool recapture incentives, private-company liquidity risk, and why equity compensation depends on trust and exit paths.
 - [Taken littorally: Spain’s sudden crisis in Ceuta](sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7.md) — The Intelligence episode on Ceuta migration surge, Morocco-Spain-Western Sahara diplomacy, India's falling-object public-safety failures, and AI writing detection.
@@ -905,6 +906,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Board of Peace](entities/BoardOfPeace.md) — Proposed Gaza-plan body whose timetable clarification still leaves sequencing, verification, and authority unresolved.
+- [National Committee for Administration of Gaza](entities/NationalCommitteeForAdministrationOfGaza.md) — Proposed Palestinian technocratic administration whose timing, territory, and powers remain unclear.
+- [International Stabilization Force](entities/InternationalStabilizationForce.md) — Proposed Gaza security force expected to start with a few hundred personnel from Morocco and Uganda.
+- [International Verification Committee](entities/InternationalVerificationCommittee.md) — Proposed body meant to verify Hamas disarmament, with membership and procedures still unspecified.
+- [Afrobarometer](entities/Afrobarometer.md) — Survey source used by the episode to quantify African radio listening in cities and countryside.
+- [Joy FM](entities/JoyFM.md) — Ghanaian radio station used as a concrete example of radio's continuing national-news role.
+- [Egypt](entities/Egypt.md) — Regional actor named as pressuring Hamas to cooperate with the Gaza plan.
+- [Uganda](entities/Uganda.md) — Country named as an expected early personnel contributor to the Gaza stabilization force.
+- [Senegal](entities/Senegal.md) — Country trialing DAB radio as part of African radio capacity expansion.
 - [Zhao Chenyang / 赵晨阳](entities/ZhaoChenyang.md) — Infrastructure-side LateTalk guest explaining Kimi K3 serving, KDA state, kernel agents, AgentIn, and open-weight release boundaries.
 - [Zeng Zhiyuan / 曾志远](entities/ZengZhiyuan.md) — Algorithm-side LateTalk guest explaining Kimi K3 architecture, NoPE, Attention Residues, quantile balancing, Per-Head Muon, MOPD, and distillation.
 - [Radix ARC / Ridix ARC](entities/RadixARC.md) — Source-scoped AI infrastructure/open-weight organization associated with Zhao Chenyang and the July 24 open-weights letter.
@@ -6175,6 +6185,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Gaza Deal Implementation Gap](concepts/GazaDealImplementationGap.md) — Distance between a headline Gaza breakthrough and unresolved sequencing, verification, territorial control, governance, and election constraints.
+- [Disarmament Withdrawal Sequencing](concepts/DisarmamentWithdrawalSequencing.md) — Trust and leverage problem where Hamas wants Israeli withdrawal before disarmament while Israel wants complete disarmament first.
+- [Gaza Technocratic Administration](concepts/GazaTechnocraticAdministration.md) — Proposed Palestinian technocratic governance model whose authority depends on territory, security, and real handover.
+- [AI-Enabled Self-Employment](concepts/AIEnabledSelfEmployment.md) — Use of chatbots and AI tools to lower the perceived barrier to starting and running a small solo business.
+- [Full-Time Self-Employment Boom](concepts/FullTimeSelfEmploymentBoom.md) — U.S. rise in full-time self-employment and new business applications, driven by pandemic shifts, labor-market friction, remote work, online retail, demographics, and AI tailwinds.
+- [African Radio Resilience](concepts/AfricanRadioResilience.md) — Persistence of radio across Africa because it is cheap, phone-compatible, culturally embedded, useful in traffic, and not dependent on mobile data.
+- [Low-Data Media Access](concepts/LowDataMediaAccess.md) — Access advantage of media channels that work when connectivity or mobile data is limited.
+- [DAB Radio Capacity Expansion](concepts/DABRadioCapacityExpansion.md) — Digital broadcast upgrade being trialed in Kenya, Ghana, and Senegal to relieve crowded radio spectrum.
 - [Kimi Delta Attention / KDA](concepts/KimiDeltaAttention.md) — Kimi K3 linear-attention mechanism that lowers long-context state cost while complicating prefix reuse, rollback, and serving implementation.
 - [Attention Residues](concepts/AttentionResidues.md) — Kimi K3 depth-direction attention mechanism for selectively reading shallower-layer representations instead of relying only on additive residual streams.
 - [NoPE / No Position Encoding](concepts/NoPositionEncoding.md) — Position-encoding-light architecture pattern where KDA recurrent state, gating, and decay carry order and recency information.

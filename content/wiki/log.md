@@ -7241,3 +7241,11 @@ Added source page for a Keji Luandun episode on employee stock options, RSUs, VI
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 10,295 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` is configured. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-08] ingest | In arms’ way: Gaza-deal sticking points
+
+Added source page for a The Intelligence episode on unresolved Gaza-deal implementation, America's full-time self-employment and small-business boom, and radio's resilience across Africa. Created pages for Board of Peace, National Committee for Administration of Gaza, International Stabilization Force, International Verification Committee, Afrobarometer, Joy FM, Egypt, Uganda, Senegal, Gaza Deal Implementation Gap, Disarmament Withdrawal Sequencing, Gaza Technocratic Administration, AI-Enabled Self-Employment, Full-Time Self-Employment Boom, African Radio Resilience, Low-Data Media Access, and DAB Radio Capacity Expansion; updated overview, index, The Intelligence, Economist Podcasts, Gaza, Hamas, Israel, Benjamin Netanyahu, Donald Trump, Morocco, Qatar, Turkey, Kenya, Ghana, Sam Altman, Thin Diplomatic Frameworks, Israeli Election 2026, Palestinian Question in Israeli Politics, Entrepreneurship Infrastructure, One-Person Company, AI As Business Operator, and Africa Connectivity Infrastructure. No direct contradiction found; the source extends earlier thin-diplomacy claims by turning Gaza into a detailed sequencing, verification, governance, and election-timing case.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

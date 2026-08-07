@@ -1511,6 +1511,10 @@
     "title": "AI-Enabled Scam Industrialization",
     "url": "/wiki/concepts/aienabledscamindustrialization/"
   },
+  "AIEnabledSelfEmployment": {
+    "title": "AI-Enabled Self-Employment",
+    "url": "/wiki/concepts/aienabledselfemployment/"
+  },
   "AIEnabledSpam": {
     "title": "AI-Enabled Spam",
     "url": "/wiki/concepts/aienabledspam/"
@@ -2619,9 +2623,17 @@
     "title": "African Oral Literature",
     "url": "/wiki/concepts/africanoralliterature/"
   },
+  "AfricanRadioResilience": {
+    "title": "African Radio Resilience",
+    "url": "/wiki/concepts/africanradioresilience/"
+  },
   "AfroSheen": {
     "title": "Afro Sheen",
     "url": "/wiki/entities/afrosheen/"
+  },
+  "Afrobarometer": {
+    "title": "Afrobarometer",
+    "url": "/wiki/entities/afrobarometer/"
   },
   "AfterlifeMoralAccounting": {
     "title": "Afterlife Moral Accounting",
@@ -5538,6 +5550,10 @@
   "BoSo": {
     "title": "BoSo",
     "url": "/wiki/entities/boso/"
+  },
+  "BoardOfPeace": {
+    "title": "Board of Peace",
+    "url": "/wiki/entities/boardofpeace/"
   },
   "BobBozeman": {
     "title": "Bob Bozeman",
@@ -9327,6 +9343,10 @@
     "title": "Czech Republic / 捷克",
     "url": "/wiki/entities/czechrepublic/"
   },
+  "DABRadioCapacityExpansion": {
+    "title": "DAB Radio Capacity Expansion",
+    "url": "/wiki/concepts/dabradiocapacityexpansion/"
+  },
   "DADavidson": {
     "title": "D.A. Davidson",
     "url": "/wiki/entities/dadavidson/"
@@ -10443,6 +10463,10 @@
     "title": "Disability Independent Living",
     "url": "/wiki/concepts/disabilityindependentliving/"
   },
+  "DisarmamentWithdrawalSequencing": {
+    "title": "Disarmament Withdrawal Sequencing",
+    "url": "/wiki/concepts/disarmamentwithdrawalsequencing/"
+  },
   "DisasterAestheticization": {
     "title": "Disaster Aestheticization",
     "url": "/wiki/concepts/disasteraestheticization/"
@@ -11350,6 +11374,10 @@
   "EffortNarrativeInterrogation": {
     "title": "努力叙事追问 / Effort Narrative Interrogation",
     "url": "/wiki/concepts/effortnarrativeinterrogation/"
+  },
+  "Egypt": {
+    "title": "Egypt",
+    "url": "/wiki/entities/egypt/"
   },
   "Eibon": {
     "title": "Eibon / 伊波恩",
@@ -13983,6 +14011,10 @@
     "title": "Full-Stack AI Platform",
     "url": "/wiki/concepts/fullstackaiplatform/"
   },
+  "FullTimeSelfEmploymentBoom": {
+    "title": "Full-Time Self-Employment Boom",
+    "url": "/wiki/concepts/fulltimeselfemploymentboom/"
+  },
   "FullgoalFund": {
     "title": "富国基金 / Fullgoal Fund",
     "url": "/wiki/entities/fullgoalfund/"
@@ -14346,6 +14378,14 @@
   "Gaza": {
     "title": "Gaza",
     "url": "/wiki/entities/gaza/"
+  },
+  "GazaDealImplementationGap": {
+    "title": "Gaza Deal Implementation Gap",
+    "url": "/wiki/concepts/gazadealimplementationgap/"
+  },
+  "GazaTechnocraticAdministration": {
+    "title": "Gaza Technocratic Administration",
+    "url": "/wiki/concepts/gazatechnocraticadministration/"
   },
   "GeHong": {
     "title": "Ge Hong / 葛洪",
@@ -17543,6 +17583,14 @@
     "title": "International Monetary Fund",
     "url": "/wiki/entities/internationalmonetaryfund/"
   },
+  "InternationalStabilizationForce": {
+    "title": "International Stabilization Force",
+    "url": "/wiki/entities/internationalstabilizationforce/"
+  },
+  "InternationalVerificationCommittee": {
+    "title": "International Verification Committee",
+    "url": "/wiki/entities/internationalverificationcommittee/"
+  },
   "InternetArchive": {
     "title": "Internet Archive",
     "url": "/wiki/entities/internetarchive/"
@@ -19054,6 +19102,10 @@
   "Jove": {
     "title": "Jove",
     "url": "/wiki/entities/jove/"
+  },
+  "JoyFM": {
+    "title": "Joy FM",
+    "url": "/wiki/entities/joyfm/"
   },
   "JoyWiebe": {
     "title": "Joy \\\"Joey\\\" Wiebe / Joey",
@@ -21386,6 +21438,10 @@
   "LowCostShortCycleValidation": {
     "title": "Low-Cost Short-Cycle Validation",
     "url": "/wiki/concepts/lowcostshortcyclevalidation/"
+  },
+  "LowDataMediaAccess": {
+    "title": "Low-Data Media Access",
+    "url": "/wiki/concepts/lowdatamediaaccess/"
   },
   "LowDesireDefensiveContraction": {
     "title": "Low Desire As Defensive Contraction / 低欲望防御性收缩",
@@ -24206,6 +24262,10 @@
   "NationalCityBank": {
     "title": "National City Bank / 国民城市银行",
     "url": "/wiki/entities/nationalcitybank/"
+  },
+  "NationalCommitteeForAdministrationOfGaza": {
+    "title": "National Committee for Administration of Gaza",
+    "url": "/wiki/entities/nationalcommitteeforadministrationofgaza/"
   },
   "NationalConferenceOfStateLegislatures": {
     "title": "National Conference of State Legislatures",
@@ -30659,6 +30719,10 @@
     "title": "Semiotic Detective Fiction",
     "url": "/wiki/concepts/semioticdetectivefiction/"
   },
+  "Senegal": {
+    "title": "Senegal",
+    "url": "/wiki/entities/senegal/"
+  },
   "SenryuAgingHumor": {
     "title": "Senryu Aging Humor / 银发川柳式老年幽默",
     "url": "/wiki/concepts/senryuaginghumor/"
@@ -35219,6 +35283,10 @@
     "title": "Ueno Chizuko / 上野千鹤子",
     "url": "/wiki/entities/uenochizuko/"
   },
+  "Uganda": {
+    "title": "Uganda",
+    "url": "/wiki/entities/uganda/"
+  },
   "UglyFrogGame": {
     "title": "丑蛙 / Ugly Frog game",
     "url": "/wiki/entities/uglyfroggame/"
@@ -39682,6 +39750,10 @@
   "huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5": {
     "title": "华为的「韬定律」，是创新还是噱头？｜ Bonus",
     "url": "/wiki/sources/huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5/"
+  },
+  "in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74": {
+    "title": "In arms’ way: Gaza-deal sticking points",
+    "url": "/wiki/sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74/"
   },
   "in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e": {
     "title": "In it to bin it: Nigel Farage v Count Binface",
