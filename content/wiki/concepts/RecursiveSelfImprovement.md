@@ -2,7 +2,7 @@
 title: "Recursive Self-Improvement"
 type: concept
 tags: [ai, agents, training, safety]
-sources: [an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
+sources: [an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza, 149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv]
 last_updated: 2026-08-08
 ---
 
@@ -20,6 +20,8 @@ Recursive self-improvement is the episode's frame for AI systems that help impro
 
 The source is careful about the difference between one self-improvement loop and stable recursion. A model may help build post-training data or diagnose a coding weakness before it can safely run many iterations without accumulating recursive drift. That makes [[AIVerification]], [[AICodingVerification]], [[MultiAgentCollaboration]], and human [[ResearchTaste]] part of the RSI mechanism rather than optional governance layers.
 
+[[149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv]] adds [[LiuZiming|Liu Ziming]]'s boundary around [[AIForAI]]. He sees AI for AI as necessary for AGI but not sufficient, and distinguishes a "diligent" coding-agent-heavy route from a "smarter" route that uses [[PhysicsOfAI]], [[OPHISResearchWorkflow]], and [[MetaModelTrainingCurvePrediction]] to understand why experiments work or fail before recursively improving future systems.
+
 [[137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]] adds [[HongLetong]]'s specialized route. She is less attached to the term AGI and imagines [[Axiom]] pushing from [[AIForMath]] toward specialized superintelligence at the edge of formal reasoning, then spreading into code verification and adjacent scientific domains. The key enabler is self-verifying reasoning: systems that can generate proofs or verification artifacts strong enough to improve the next loop.
 
 [[174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]] adds a model-team qualification through [[ChaSheng]]. He says today's self-improvement is still largely a human-designed loop across algorithms, engineering, and data pipelines; the scarce part is knowing which direction is better, which makes [[HumanTasteAsAITrainingSignal]] and [[ResearchTaste]] part of the mechanism.
@@ -35,6 +37,7 @@ The source is careful about the difference between one self-improvement loop and
 - The Marketplace Tech safety source treats RSI governance as a control problem, not only a technical productivity loop: the more models help improve models, the more pause commitments and public accountability matter.
 - Self-improvement can automate more research work while still relying on human taste for goals, evaluation, and direction selection.
 - The Musk interview shows a political consequence of RSI fear: a builder can move from warning about runaway improvement to racing inside the same system because they believe refusal would not stop the race.
+- Liu's source adds that AI-for-AI progress does not automatically solve abstraction or continual learning, so model-design automation should not be equated with full AGI.
 
 ## Connections
 - [[Apodex]], [[LiBeibin]], and [[DuShaolei]] — source company and speakers.
@@ -47,3 +50,4 @@ The source is careful about the difference between one self-improvement loop and
 - [[ElonMusk]], [[AIAbundanceNarrative]], and [[AISafetyCoordination]] - source branch on fear shifting into acceptance and coordination.
 - [[AIFatalisticAcceleration]] and [[FrontierModelPeerReview]] - full-interview governance extension.
 - [[ChaSheng]], [[AmazonAGI]], [[HumanTasteAsAITrainingSignal]], and [[AgentHarness]] - Qizhulou Yan Binke qualification of self-improvement as still harnessed by human direction.
+- [[LiuZiming|Liu Ziming]], [[AIForAI]], [[PhysicsOfAI]], [[OPHISResearchWorkflow]], and [[MetaModelTrainingCurvePrediction]] - episode 149's structure-first route from research automation toward possible self-improvement.

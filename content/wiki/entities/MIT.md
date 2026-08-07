@@ -2,8 +2,8 @@
 title: "MIT"
 type: entity
 tags: [university, research, startups]
-sources: [the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, chef-vs-robot, why-economists-got-free-trade-with-china-so-wrong, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, why-the-us-has-no-guaranteed-paid-vacation]
-last_updated: 2026-08-07
+sources: [149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv, the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, chef-vs-robot, why-economists-got-free-trade-with-china-so-wrong, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, why-the-us-has-no-guaranteed-paid-vacation]
+last_updated: 2026-08-08
 ---
 
 # MIT
@@ -22,6 +22,8 @@ The Benchling case makes MIT part of the wiki's [[VerticalSaaSDomainExpertise]] 
 
 [[why-economists-got-free-trade-with-china-so-wrong]] adds MIT through [[DavidAutor]]'s labor-economics work on the [[ChinaShock]]. The episode uses Autor's research with [[DavidDorn]] and [[GordonHansen|Gordon Hanson]] to connect regional labor-market data, import competition, and the policy debate over [[TradeAdjustmentAssistance]], [[BlanketTariffLimit]], and [[StrategicIndustrialPolicy]].
 
+[[149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv]] adds MIT as [[LiuZiming|Liu Ziming]]'s doctoral context under [[MaxTegmark]]. The episode uses MIT to connect AI for Physics, [[MechanisticInterpretability]], [[KolmogorovArnoldNetworks|KAN]], and Liu's later [[PhysicsOfAI]] route.
+
 ## Connections
 - [[PrincetonUniversity]], [[PermittingDelayCost]], and [[HousingAffordabilitySupplyMechanics]] - permitting-delay research branch added by Planet Money.
 - [[DaronAcemoglu]], [[RestaurantAutomation]], [[AutomationDisplacementEffect]], and [[AutomationReinstatementEffect]] - automation labor-economics branch added by Planet Money.
@@ -31,3 +33,4 @@ The Benchling case makes MIT part of the wiki's [[VerticalSaaSDomainExpertise]] 
 - [[TomCohen]], [[PaidVacationAsLaborRight]], and [[EmployerBargainedBenefits]] - labor-policy branch added by Planet Money.
 - [[SpenserSkates]], [[CurtisLiu]], [[Battlecode]], [[Sonalight]], and [[Amplitude]] - startup-formation branch added by The Social Radars.
 - [[DavidAutor]], [[DavidDorn]], [[GordonHansen|Gordon Hanson]], [[ChinaShock]], and [[RegionalLaborMarketScarring]] - labor-economics branch added by Planet Money.
+- [[LiuZiming|Liu Ziming]], [[MaxTegmark]], [[AIForScience]], [[MechanisticInterpretability]], and [[PhysicsOfAI]] - AI-and-physics branch added by episode 149.

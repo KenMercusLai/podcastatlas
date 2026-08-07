@@ -7141,3 +7141,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] ingest | 149. 亲历中美 New Labs 资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和 Max Tegmark
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode with Liu Ziming on the 2026 New Lab financing wave, AI for AI, Physics of AI, mechanistic interpretability, KAN, OPHIS, meta-model training-curve prediction, training copilot/autopilot, vibe training, and the difference between structure-first research automation and coding-agent-heavy RSI routes. Created pages for Liu Ziming, Max Tegmark, Yuanhuan Intelligence, Shanghai Qi Zhi Institute, AI For AI, Physics Of AI, Mechanistic Interpretability, Kolmogorov-Arnold Networks, OPHIS Research Workflow, Meta-Model Training Curve Prediction, Training Autopilot, Vibe Training, and New Lab Organization; updated overview, index, 张小珺Jùn｜商业访谈录, Tsinghua University, Peking University, MIT, Stanford University, Recursive, Auto Research, Recursive Self-Improvement, AI For Science, World Models, Transformer Architecture, Hardware Lottery, Research Taste, Academic AI Research Role, and AI Interpretability By AI. No direct contradiction found; the source qualifies Auto Research and RSI optimism by arguing that AI research automation needs structured research data, mechanism-level understanding, and abstraction before it can reliably discover better model architectures.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 10,180 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-07 with 9,679 nodes and 103,834 edges; they found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key is configured in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.

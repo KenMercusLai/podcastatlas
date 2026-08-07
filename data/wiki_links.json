@@ -447,6 +447,10 @@
     "title": "149.百五特辑：和两位老媒体人漫谈播客、媒介以及声音生态的未来",
     "url": "/wiki/sources/149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga/"
   },
+  "149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv": {
+    "title": "149. 亲历中美 New Labs 资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和 Max Tegmark",
+    "url": "/wiki/sources/149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv/"
+  },
   "15-bijingji-gengnianqi-gei-wo-ziyou-557912552": {
     "title": "15.闭经记：更年期给我自由！",
     "url": "/wiki/sources/15-bijingji-gengnianqi-gei-wo-ziyou-557912552/"
@@ -1542,6 +1546,10 @@
   "AIFitnessCoaching": {
     "title": "AI Fitness Coaching",
     "url": "/wiki/concepts/aifitnesscoaching/"
+  },
+  "AIForAI": {
+    "title": "AI For AI",
+    "url": "/wiki/concepts/aiforai/"
   },
   "AIForMath": {
     "title": "AI For Math",
@@ -19523,6 +19531,10 @@
     "title": "Koji",
     "url": "/wiki/entities/koji/"
   },
+  "KolmogorovArnoldNetworks": {
+    "title": "Kolmogorov-Arnold Networks",
+    "url": "/wiki/concepts/kolmogorovarnoldnetworks/"
+  },
   "Komeito": {
     "title": "Komeito / 公明党",
     "url": "/wiki/entities/komeito/"
@@ -20770,6 +20782,10 @@
   "LiuZhijun": {
     "title": "Liu Zhijun / 刘志军",
     "url": "/wiki/entities/liuzhijun/"
+  },
+  "LiuZiming": {
+    "title": "Liu Ziming / 刘子鸣",
+    "url": "/wiki/entities/liuziming/"
   },
   "LiuZongdi": {
     "title": "Liu Zongdi / 刘宗迪",
@@ -22223,6 +22239,10 @@
     "title": "Max Demian / 德米安",
     "url": "/wiki/entities/maxdemian/"
   },
+  "MaxTegmark": {
+    "title": "Max Tegmark",
+    "url": "/wiki/entities/maxtegmark/"
+  },
   "MaxWeber": {
     "title": "Max Weber",
     "url": "/wiki/entities/maxweber/"
@@ -22286,6 +22306,10 @@
   "MechanicalWatchRepositioning": {
     "title": "Mechanical Watch Repositioning",
     "url": "/wiki/concepts/mechanicalwatchrepositioning/"
+  },
+  "MechanisticInterpretability": {
+    "title": "Mechanistic Interpretability",
+    "url": "/wiki/concepts/mechanisticinterpretability/"
   },
   "MecoxLane": {
     "title": "麦考林 / Mecox Lane",
@@ -22662,6 +22686,10 @@
   "MetaAI": {
     "title": "Meta AI",
     "url": "/wiki/entities/metaai/"
+  },
+  "MetaModelTrainingCurvePrediction": {
+    "title": "Meta-Model Training Curve Prediction",
+    "url": "/wiki/concepts/metamodeltrainingcurveprediction/"
   },
   "MetaX": {
     "title": "MetaX / 沐曦",
@@ -24171,6 +24199,10 @@
     "title": "New Hampshire",
     "url": "/wiki/entities/newhampshire/"
   },
+  "NewLabOrganization": {
+    "title": "New Lab Organization",
+    "url": "/wiki/concepts/newlaborganization/"
+  },
   "NewMexico": {
     "title": "New Mexico",
     "url": "/wiki/entities/newmexico/"
@@ -24642,6 +24674,10 @@
   "OPEX": {
     "title": "OPEX",
     "url": "/wiki/entities/opex/"
+  },
+  "OPHISResearchWorkflow": {
+    "title": "OPHIS Research Workflow",
+    "url": "/wiki/concepts/ophisresearchworkflow/"
   },
   "OPPO": {
     "title": "OPPO",
@@ -26322,6 +26358,10 @@
   "PhysicianLedMedicalDeviceDesign": {
     "title": "Physician-Led Medical Device Design",
     "url": "/wiki/concepts/physicianledmedicaldevicedesign/"
+  },
+  "PhysicsOfAI": {
+    "title": "Physics Of AI",
+    "url": "/wiki/concepts/physicsofai/"
   },
   "PhysiognomyMoralAppearanceFallacy": {
     "title": "Physiognomy Moral Appearance Fallacy / 以貌定德谬误",
@@ -30491,6 +30531,10 @@
     "title": "Shanghai Pudong Development Bank / 浦发银行",
     "url": "/wiki/entities/shanghaipudongdevelopmentbank/"
   },
+  "ShanghaiQizhiInstitute": {
+    "title": "Shanghai Qi Zhi Institute / 上海期智研究院",
+    "url": "/wiki/entities/shanghaiqizhiinstitute/"
+  },
   "ShanghaiStockExchange": {
     "title": "Shanghai Stock Exchange",
     "url": "/wiki/entities/shanghaistockexchange/"
@@ -34255,6 +34299,10 @@
     "title": "Trained Intuition",
     "url": "/wiki/concepts/trainedintuition/"
   },
+  "TrainingAutopilot": {
+    "title": "Training Autopilot",
+    "url": "/wiki/concepts/trainingautopilot/"
+  },
   "TrainingComputeAllocation": {
     "title": "Training Compute Allocation",
     "url": "/wiki/concepts/trainingcomputeallocation/"
@@ -35266,6 +35314,10 @@
   "VibeSong": {
     "title": "Vibe Song",
     "url": "/wiki/entities/vibesong/"
+  },
+  "VibeTraining": {
+    "title": "Vibe Training",
+    "url": "/wiki/concepts/vibetraining/"
   },
   "VictimBlamingAsInstitutionalDefense": {
     "title": "Victim Blaming As Institutional Defense",
@@ -37566,6 +37618,10 @@
   "Yuanbao": {
     "title": "Yuanbao",
     "url": "/wiki/entities/yuanbao/"
+  },
+  "YuanhuanIntelligence": {
+    "title": "Yuanhuan Intelligence / 圆环智能",
+    "url": "/wiki/entities/yuanhuanintelligence/"
   },
   "YuanxingzheYuSuibingjiang": {
     "title": "远行者与碎冰匠 / Yuanxingzhe Yu Suibingjiang",

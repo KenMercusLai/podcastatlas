@@ -2,13 +2,15 @@
 title: "AI For Science"
 type: concept
 tags: [ai, science, investment]
-sources: [tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
-last_updated: 2026-08-06
+sources: [tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb, 149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv]
+last_updated: 2026-08-08
 ---
 
 # AI For Science
 
 AI for Science is one of the episode's proposed ways to avoid direct competition with foundation-model bulldozers. The host lists areas such as chip design, material discovery, mining, mathematics, and quantum-computer design as examples of higher-complexity work with deeper industry know-how.
+
+[[149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv]] adds [[LiuZiming|Liu Ziming]]'s distinction between AI for Science and [[PhysicsOfAI]]. He began with AI for Physics but later reversed the direction: scientific and physics-style methods became tools for understanding AI itself. The same episode also treats AI for Science as one of the hottest [[NewLabOrganization|New Lab]] financing themes alongside [[WorldModels]] and [[AIForAI]].
 
 [[ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd]] adds the higher-education and talent-pipeline version through [[AIForScienceTalent]]. [[LiXiaojie|李小杰]] argues that basic science may become more important, not less, when AI enters discovery: chemistry, physics, mathematics, theory, computation, and experimental understanding are the foundation that lets students use AI in semiconductors, batteries, pharma, materials, and research institutes.
 
@@ -40,6 +42,7 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 - [[AIForMath]] may be an unusually clean AI-for-science route because formal proof gives better verification signals than most empirical domains.
 - [[AllModalMolecularWorldModel]] adds a biological route where verification must pass molecular interaction, synthesis, wet-lab, and customer-use constraints.
 - [[AIClinicalValidationInDrugDiscovery]] adds the stricter drug-development version: human clinical data can reprice AI-for-biology claims faster than platform language can defend them.
+- Episode 149 adds a bidirectional boundary: AI can help science, but science-like structure may also be needed to make [[AIForAI]] credible.
 
 ## Connections
 - [[ZhengkeFund]] — investment context in which the theme is discussed.
@@ -54,3 +57,4 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 - [[DemisHassabis]], [[DeepMind]], [[AlphaFold]], [[JohnJumper]], and [[ScientificIdealVsAIArmsRace]] — DeepMind founder-history and protein-structure proof point added by Silicon Valley 101.
 - [[XiaoPTeacher]], [[AIDrugDiscoveryPlatform]], and [[AIClinicalValidationInDrugDiscovery]] — biotech-industry validation check added by Qizhulou vol.117.
 - [[AIForScienceTalent]], [[TShapedAITalent]], [[TianjinUniversity]], and [[AIEraMajorChoice]] — EP266's education and basic-science talent branch.
+- [[LiuZiming|Liu Ziming]], [[PhysicsOfAI]], [[AIForAI]], and [[NewLabOrganization]] — episode 149's reversal from AI for Physics toward science of AI and venture-backed research labs.

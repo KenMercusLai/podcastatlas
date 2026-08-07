@@ -2,8 +2,8 @@
 title: "Research Taste"
 type: concept
 tags: [research, ai, methodology]
-sources: [ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
-last_updated: 2026-08-07
+sources: [149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
+last_updated: 2026-08-08
 ---
 
 # Research Taste
@@ -20,6 +20,8 @@ Research taste is the interview's term for the judgment that lets a researcher c
 
 [[ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz]] adds [[HaotianOdin]]'s AI-for-biology version. He says model architecture matters, but should not become an object of attachment; the harder taste question is what scientific problem the company is solving and which architecture, experiment, or team structure helps solve it. This links research taste to [[AllModalMolecularWorldModel]] and [[PlatformPipelineBiotechStrategy]] rather than only paper selection.
 
+[[149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv]] adds [[LiuZiming|Liu Ziming]]'s self-training version. Liu describes predicting training curves before experiments for dozens of days until his judgment improved, then generalizes that practice into [[MetaModelTrainingCurvePrediction]]. He also argues that "aha moments" and intuition have traceable reasoning chains; if they cannot be explained, the researcher has not yet asked enough about how the idea arose.
+
 ## Key Claims
 - Good ideas rarely arrive from sitting still and thinking abstractly; they come from input, exploration, engineering, reading, and abstraction.
 - Predicting experiment results before running them makes surprises meaningful: a wrong prediction can be a better signal than a small expected gain.
@@ -33,6 +35,7 @@ Research taste is the interview's term for the judgment that lets a researcher c
 - In agent-accelerated research, taste includes compute triage: deciding which generated ideas deserve [[TrainingComputeAllocation]] and which should be discarded quickly.
 - In AI-for-biology startups, taste includes knowing when to pursue a broad cross-modal molecular bet and when to avoid architecture, pipeline, or fundraising narratives that distract from the scientific problem.
 - In self-improvement loops, taste can itself become a training target when human standards are captured as feedback, rubrics, examples, or reward data.
+- Episode 149 adds that research taste can be trained through explicit prediction, surprise tracking, and process capture before it becomes model data for [[AIForAI]].
 
 ## Connections
 - [[XieSaining]] and [[KaimingHe]] — source speaker and main exemplar.
@@ -45,3 +48,4 @@ Research taste is the interview's term for the judgment that lets a researcher c
 - [[LuoFuli]], [[AgentPostTraining]], [[TrainingComputeAllocation]], and [[AIOrganizationDesign]] — agent-accelerated research branch added by episode 138.
 - [[HaotianOdin]], [[YinglingdianAI]], [[AllModalMolecularWorldModel]], and [[FounderSignalDiscipline]] — AI-for-biology founder-research branch added by the Shizilukou Crossing source.
 - [[ChaSheng]], [[AmazonAGI]], [[HumanTasteAsAITrainingSignal]], and [[RecursiveSelfImprovement]] — source branch on taste as both bottleneck and trainable signal.
+- [[LiuZiming|Liu Ziming]], [[MetaModelTrainingCurvePrediction]], [[OPHISResearchWorkflow]], and [[AIForAI]] — source branch on training, capturing, and automating research intuition.

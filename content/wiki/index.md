@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [149. 亲历中美 New Labs 资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和 Max Tegmark](sources/149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv.md) — 张小珺Jùn｜商业访谈录 episode with Liu Ziming on AI for AI, Physics of AI, mechanistic interpretability, KAN, OPHIS, meta-model training-curve prediction, training autopilot, vibe training, and New Lab financing.
 - [Working memory: the surprising decline of dementia](sources/working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b.md) — The Intelligence episode on falling age-adjusted dementia rates, modifiable dementia risks, Pix as Brazilian instant-payment infrastructure under tariff pressure, and emo's stadium-scale revival.
 - [Advice Line with Chris Riccobono of UNTUCKit](sources/advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c.md) — How I Built This Advice Line episode with Chris Riccobono on UNTUCKit, Greatness Wins, AeroShorts, Snug Safety, Hockey Ninja, core-tribe positioning, wholesale as marketing, trust-based distribution, and safety-product credibility.
 - [175: 对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻](sources/duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1.md) — LateTalk episode with Evoken/Liblib founder Chen Mian on AI application survival, Lib TV pricing, model-provider pressure, cash-flow claims, creative-tool moats, and organization repair.
@@ -892,6 +893,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Liu Ziming / 刘子鸣](entities/LiuZiming.md) — Tsinghua AI assistant professor, Shanghai Qi Zhi Institute PI, and Yuanhuan Intelligence participant building a Physics-of-AI route to AI for AI.
+- [Max Tegmark](entities/MaxTegmark.md) — Liu Ziming's MIT advisor in episode 149, tied to AI for Physics, mechanistic interpretability, safety concern, and the KAN origin story.
+- [Yuanhuan Intelligence / 圆环智能](entities/YuanhuanIntelligence.md) — New Lab-style AI research company connected to Liu Ziming's AI for AI, Physics of AI, OPHIS, meta-model, and training autopilot thesis.
+- [Shanghai Qi Zhi Institute / 上海期智研究院](entities/ShanghaiQizhiInstitute.md) — Research-institute affiliation for Liu Ziming in episode 149, part of the Tsinghua/research/startup hybrid context.
 - [Jonathan Bousenthal](entities/JonathanBousenthal.md) — The Intelligence speaker explaining age-adjusted dementia decline, prevention evidence, genetic risk, vaccines, and drug-development limits.
 - [Carla Sugirana](entities/CarlaSugirana.md) — The Intelligence speaker explaining Brazil's Pix payment system, financial inclusion, and the weak trade-discrimination case against it.
 - [Pix](entities/Pix.md) — Brazil's central-bank instant payment rail, used as a financial-inclusion and trade-dispute case.
@@ -6098,6 +6103,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI For AI](concepts/AIForAI.md) — Umbrella for using AI to automate AI research, model design, training, and experimentation, distinguished from simple coding-agent or paper-agent loops.
+- [Physics Of AI](concepts/PhysicsOfAI.md) — Liu Ziming's science-for-AI frame using internal structure, training dynamics, controlled experiments, and theory-like compression to understand and design models.
+- [Mechanistic Interpretability](concepts/MechanisticInterpretability.md) — Model-internal explanation field tied in episode 149 to AI safety, visualization, brittleness across seeds, and Physics of AI.
+- [Kolmogorov-Arnold Networks](concepts/KolmogorovArnoldNetworks.md) — Liu Ziming's neural-symbolic architecture case used to discuss interpretability, formula-like structure, and model-architecture discovery.
+- [OPHIS Research Workflow](concepts/OPHISResearchWorkflow.md) — Research-structuring schema of Observation, Problem, Hypothesis, Intervention, and Speed up for training AI research systems.
+- [Meta-Model Training Curve Prediction](concepts/MetaModelTrainingCurvePrediction.md) — "Next curve" task that predicts model training curves from architecture, data, optimizer, and conditions to triage experiments.
+- [Training Autopilot](concepts/TrainingAutopilot.md) — Product horizon where a system designs, trains, deploys, and delivers models from user needs and budgets.
+- [Vibe Training](concepts/VibeTraining.md) — Intent-driven model-training analogy to vibe coding, dependent on AI for AI and constrained by compute cost and unclear demand.
+- [New Lab Organization](concepts/NewLabOrganization.md) — Hybrid AI research-company form for risky directions such as AI for AI, world models, and AI for Science before mature product proof.
 - [Age-Adjusted Dementia Decline](concepts/AgeAdjustedDementiaDecline.md) — Distinction between rising total dementia burden and falling same-age dementia risk in rich countries.
 - [Modifiable Dementia Risk Factors](concepts/ModifiableDementiaRiskFactors.md) — Prevention frame connecting dementia risk to cardiovascular health, smoking, obesity, hearing loss, depression, education, and other practical interventions.
 - [Cardiovascular-Brain Health Link](concepts/CardiovascularBrainHealthLink.md) — Finnish public-health pattern linking heart-disease prevention to lower dementia risk.
