@@ -419,6 +419,10 @@
     "title": "147. 非洲神话：腋毛创世, 土狼下蛋及哪吒的另一版本",
     "url": "/wiki/sources/147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004/"
   },
+  "147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga": {
+    "title": "147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥",
+    "url": "/wiki/sources/147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga/"
+  },
   "147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp": {
     "title": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士",
     "url": "/wiki/sources/147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp/"
@@ -3430,6 +3434,14 @@
   "AntFortune": {
     "title": "蚂蚁财富 / Ant Fortune",
     "url": "/wiki/entities/antfortune/"
+  },
+  "AntGroup": {
+    "title": "蚂蚁集团 / Ant Group",
+    "url": "/wiki/entities/antgroup/"
+  },
+  "AntLingbo": {
+    "title": "蚂蚁灵波 / Ant Lingbo",
+    "url": "/wiki/entities/antlingbo/"
   },
   "AntaSports": {
     "title": "Anta Sports / 安踏",
@@ -6978,6 +6990,10 @@
   "ChineseSuperLeague": {
     "title": "中国足球超级联赛 / Chinese Super League",
     "url": "/wiki/entities/chinesesuperleague/"
+  },
+  "ChineseUniversityOfHongKong": {
+    "title": "香港中文大学 / Chinese University of Hong Kong",
+    "url": "/wiki/entities/chineseuniversityofhongkong/"
   },
   "ChineseWebFictionMethodology": {
     "title": "Chinese Web Fiction Methodology / 中国网文方法论",
@@ -10654,6 +10670,10 @@
   "EmbodiedJudgment": {
     "title": "Embodied Judgment",
     "url": "/wiki/concepts/embodiedjudgment/"
+  },
+  "EmbodiedNativeFoundationModels": {
+    "title": "Embodied Native Foundation Models",
+    "url": "/wiki/concepts/embodiednativefoundationmodels/"
   },
   "EmbodiedPersonhood": {
     "title": "Embodied Personhood",
@@ -27263,6 +27283,10 @@
     "title": "Robot Chef Cost-Quality Tradeoff",
     "url": "/wiki/concepts/robotchefcostqualitytradeoff/"
   },
+  "RobotDataScaleUp": {
+    "title": "Robot Data Scale Up",
+    "url": "/wiki/concepts/robotdatascaleup/"
+  },
   "RobotDeliveryEconomics": {
     "title": "Robot Delivery Economics",
     "url": "/wiki/concepts/robotdeliveryeconomics/"
@@ -28686,6 +28710,10 @@
   "ShenNanpeng": {
     "title": "Shen Nanpeng",
     "url": "/wiki/entities/shennanpeng/"
+  },
+  "ShenYujun": {
+    "title": "沈宇军 / Shen Yujun",
+    "url": "/wiki/entities/shenyujun/"
   },
   "ShenZhenwen": {
     "title": "沈真文 / Shen Zhenwen",
@@ -30970,6 +30998,10 @@
   "TangTao": {
     "title": "唐涛 / 唐唐 / Tang Tao",
     "url": "/wiki/entities/tangtao/"
+  },
+  "TangXiaoou": {
+    "title": "汤晓鸥 / Tang Xiao'ou",
+    "url": "/wiki/entities/tangxiaoou/"
   },
   "TanizakiJunichiro": {
     "title": "谷崎润一郎 / Tanizaki Junichiro",

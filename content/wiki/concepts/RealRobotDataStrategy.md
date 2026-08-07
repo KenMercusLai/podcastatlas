@@ -2,8 +2,8 @@
 title: "Real Robot Data Strategy"
 type: concept
 tags: [robotics, data, models]
-sources: [e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, 146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv]
-last_updated: 2026-07-18
+sources: [e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, 146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv, 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]
+last_updated: 2026-08-07
 ---
 
 # Real Robot Data Strategy
@@ -22,6 +22,8 @@ Real robot data strategy is the approach to robot model training described by [[
 
 [[146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv]] adds [[KPhysicalIntelligence|K]]'s [[RobotExperienceData]] distinction. Human teleoperation data can start a policy, but π0.6* uses robot-owned attempts, failures, and correction traces so [[RobotReinforcementLearning]] can improve task throughput on real machines.
 
+[[147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]] adds [[ShenYujun|沈宇军]]'s [[AntLingbo|蚂蚁灵波]] version. Shen favors real-machine data for training because it contains real sensor noise, embodiment, and execution distribution, but he also says scale depends on task design, cross-body cleaning, first-person human data, and whether the resulting data is usable by [[EmbodiedNativeFoundationModels]].
+
 ## Key Claims
 - Traditional graphics simulation can have a large sim-to-real gap, so it should not be assumed to replace real robot operation data.
 - Data cost has to be counted together with training cost and engineer cost; low-quality data can waste the expensive parts of the stack.
@@ -32,6 +34,7 @@ Real robot data strategy is the approach to robot model training described by [[
 - Tactile data adds force, deformation, friction, and slip signals that visual data does not contain, but it must be processed quickly enough for real-time correction.
 - [[UnifiedRobotModels]] require data selection, not only data volume, because post-training can otherwise improve fixed tasks while shrinking generalization.
 - [[RobotExperienceData]] is valuable because it binds action, failure, correction, and embodiment in the robot's own hardware rather than only in human demonstrations.
+- [[RobotDataScaleUp]] is not raw recording volume: camera placement, body configuration, task coverage, data cleaning, and model usability decide whether additional hours improve generalization.
 
 ## Connections
 - [[PhysicalWorldDataFlywheel]] — larger loop that turns data into product improvement.
@@ -44,3 +47,4 @@ Real robot data strategy is the approach to robot model training described by [[
 - [[PokeRobotics]], [[XuHuazhe]], [[AINativeRobotics]], [[UnifiedRobotModels]], and [[RobotActiveUseMetrics]] — household-robot data route added by episode 166.
 - [[SuduTechnology]], [[Structured3DRobotData]], [[Sim2Real]], and [[OpenWorldRobotManipulation]] — E244's critique of real-data-only scaling.
 - [[PhysicalIntelligence]], [[PhysicalIntelligencePiSeries]], [[RobotExperienceData]], and [[RobotReinforcementLearning]] — experience-data and performance-improvement route added by episode 146.
+- [[AntLingbo]], [[ShenYujun]], [[RobotDataScaleUp]], and [[EmbodiedNativeFoundationModels]] — real-machine-heavy data-scaling route added by episode 147.

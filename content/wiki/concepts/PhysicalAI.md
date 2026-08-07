@@ -2,8 +2,8 @@
 title: "Physical AI"
 type: concept
 tags: [ai, robotics, automotive, physical-ai]
-sources: [tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, tsr-s2-trevorblackwell-v2, 146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv]
-last_updated: 2026-08-05
+sources: [tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, tsr-s2-trevorblackwell-v2, 146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv, 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]
+last_updated: 2026-08-07
 ---
 
 # Physical AI
@@ -26,6 +26,8 @@ The source contrasts physical AI with digital AI. Language and software tasks ca
 
 [[146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv]] adds [[PhysicalIntelligence]]'s research-lab version through [[KPhysicalIntelligence|K]]. The source makes physical AI a combined problem of robot brain, hardware stability, real-machine data, [[RobotExperienceData]], [[RobotEvaluationProblem]], task selection, and [[RobotFormFactorPragmatism]], while also noting [[China]]'s strength in hardware supply chains and manufacturing.
 
+[[147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]] adds [[AntLingbo|蚂蚁灵波]]'s physical-AI version through [[ShenYujun|沈宇军]]. The source is explicit that language models can remain the instruction entrance, but the robot needs a physical-world model trained for sensors, spatial relation, time, action, and embodiment. It therefore turns physical AI from a broad product category into a question of [[EmbodiedNativeFoundationModels]] and [[RobotDataScaleUp]].
+
 ## Key Claims
 - Physical AI depends on both high-ceiling model capability and low-bound reliability; a spectacular demo is not enough if rare scenes, safety, and cost fail.
 - Data and compute matter differently than in ordinary AI-tool adoption because training and evaluating physical behavior can have large direct data, fleet, and infrastructure costs.
@@ -38,6 +40,7 @@ The source contrasts physical AI with digital AI. Language and software tasks ca
 - [[PhysicalAGI]] raises the evaluation bar: the question becomes not only whether the system acts in the physical world, but whether its intelligence generalizes across tasks and scenes.
 - Earlier physical robot work such as [[Anybots]] shows that movement capability and hardware resilience can arrive before a durable market or general intelligence layer.
 - The Physical Intelligence source adds that even research-led robot-brain work cannot be separated from task hardware, real-machine evaluation, experience data, and form-factor choices.
+- The Ant Lingbo source adds that a brain-first route still depends on body and sensor co-evolution because stronger models change what cameras, tactile sensors, hands, latency, and data collection need to provide.
 
 ## Connections
 - [[XPeng]], [[HeXiaopeng]], [[XPengIron]], and [[XPengGX]] — source company, CEO, robot, and vehicle case.
@@ -54,3 +57,4 @@ The source contrasts physical AI with digital AI. Language and software tasks ca
 - [[AmyWebb]], [[GoogleDeepMind]], [[Amazon]], [[BlueJ]], and [[Nvidia]] - Marketplace Tech forecast linking contextual robotics to labor and infrastructure.
 - [[TrevorBlackwell]], [[Anybots]], and [[DynamicBalancingRobotics]] — historical physical-control route added by The Social Radars source.
 - [[PhysicalIntelligence]], [[KPhysicalIntelligence|K]], [[PhysicalIntelligencePiSeries]], [[RobotExperienceData]], [[RobotEvaluationProblem]], and [[RobotFormFactorPragmatism]] — research-led robot-brain route added by episode 146.
+- [[AntLingbo]], [[ShenYujun]], [[EmbodiedNativeFoundationModels]], [[RobotDataScaleUp]], and [[RealRobotDataStrategy]] — cross-embodiment robot-brain route added by episode 147.

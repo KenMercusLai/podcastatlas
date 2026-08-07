@@ -2,8 +2,8 @@
 title: "Tsinghua University / 清华大学"
 type: entity
 tags: [university, china, education]
-sources: [e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
-last_updated: 2026-07-23
+sources: [e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437, 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]
+last_updated: 2026-08-07
 ---
 
 # Tsinghua University / 清华大学
@@ -14,6 +14,8 @@ In Alfred's account, Tsinghua's value is not only a curriculum label. It include
 
 [[19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]] adds an earlier scholarly-institution layer through [[TsinghuaGuoxueInstitute|清华国学研究院]]. In this source, Tsinghua is not discussed as an AI-era elite credential but as a setting where [[WangGuowei|王国维]], [[LiangQichao|梁启超]], [[ChenYinke|陈寅恪]], and [[ZhaoYuanren|赵元任]] helped connect classical learning, modern method, and [[AcademicFreedom]].
 
+[[147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]] adds Tsinghua as [[ShenYujun|沈宇军]]'s undergraduate context before his later work at [[SenseTime]], [[ChineseUniversityOfHongKong]], [[ByteDance]], and [[AntLingbo]]. The source uses that path to connect computer-vision training and image-generation work to [[EmbodiedNativeFoundationModels]].
+
 ## Connections
 - [[AlfredLinTongyu|Alfred 林童雨]] - Tsinghua-connected guest in the source.
 - [[UniversityOpportunityDensity]] - peer, teacher, and entrepreneurship density as university value.
@@ -21,3 +23,4 @@ In Alfred's account, Tsinghua's value is not only a curriculum label. It include
 - [[AIAsTutor]] and [[AIDefaultLearningEnvironment]] - AI use that changes how students learn inside and outside formal courses.
 - [[TsinghuaGuoxueInstitute|清华国学研究院]] - episode 19's historical institution branch.
 - [[ModernChineseAcademicInstitutionBuilding]] and [[AcademicFreedom]] - concepts added through the 国学研究院 material.
+- [[ShenYujun]], [[AntLingbo]], and [[EmbodiedNativeFoundationModels]] — robotics and embodied-AI branch added by episode 147.
