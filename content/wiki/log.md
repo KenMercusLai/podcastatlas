@@ -6945,3 +6945,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | 11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿
+
+Added source page for a Shizilukou Crossing episode with Wu Kai on Airwallex's global payment network, transaction-banking expansion, AI company billing needs, Kai, Agent OS, T0, ARID, intelligent finance, data-and-talent acquisition logic, and globalization playbook. Created pages for Airwallex, Wu Kai, Kai, Airwallex Agent OS, T0 Finance, ARID, Global Financial Network, and Intelligent Finance; updated overview, index, Shizilukou Crossing, Stripe, Money Movement Infrastructure, Payment Clearing Network, Agent Payment Infrastructure, Agent-Facing Interfaces, Financial AI Agents, Business-Led AI Transformation, and AI Native SaaS Threat. No direct contradiction found; the source reinforces payment-infrastructure and agent-payment branches while keeping Airwallex valuation, growth, retention, acquisition, and AI-product claims source-scoped.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

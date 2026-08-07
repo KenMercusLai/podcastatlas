@@ -2,7 +2,7 @@
 title: "Stripe"
 type: entity
 tags: [company, fintech, payments, infrastructure, developer-tools]
-sources: [keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, socialradarss2-billclerico-final, socialradarss2-stripe-v2]
+sources: [11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk, keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, socialradarss2-billclerico-final, socialradarss2-stripe-v2]
 last_updated: 2026-08-07
 ---
 
@@ -20,6 +20,8 @@ At scale, the Collison episode adds [[VisionToRealityExecution]]. The brothers s
 
 [[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] adds Stripe to the [[AgentPaymentInfrastructure]] branch. The source names Stripe as an important early actor in agent payment and agent commerce, while [[PatrickWu]] argues from [[Clink]]'s perspective that a neutral connector may still be needed because many global merchants use local acquirers rather than Stripe.
 
+[[11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk]] adds Stripe as an adjacent benchmark for [[Airwallex]]. [[WuKai]] says Airwallex once had an opportunity to sell to Stripe but chose to keep building independently, and he treats Stripe as one of the players likely to pursue AI-era intelligent finance or payments infrastructure.
+
 ## Connections
 - [[PatrickCollison]] and [[JohnCollison]] - co-founders interviewed in the Stripe source.
 - [[DeveloperFirstPaymentInfrastructure]], [[APIProductDesign]], and [[EntrepreneurshipInfrastructure]] - direct product and developer-tool concepts added by the source.
@@ -28,3 +30,4 @@ At scale, the Collison episode adds [[VisionToRealityExecution]]. The brothers s
 - [[VisionToRealityExecution]] and [[RelentlesslyResourcefulFounder]] - founder and scaling themes added by the Collison episode.
 - [[CharmIndustrial|Charm Industrial]], [[FrontierCarbonRemoval|Frontier Carbon Removal]], [[AdvancedMarketCommitment]], and [[CarbonRemoval]] - carbon-removal demand-creation branch added by the Peter Reinhardt episode.
 - [[AgentPaymentInfrastructure]], [[AgenticCommerce]], [[Clink]], [[Visa]], and [[Mastercard]] — agent-payment market context added by What's Next S10E22.
+- [[Airwallex]], [[GlobalFinancialNetwork]], and [[IntelligentFinance]] — comparison and competition branch added by the Airwallex source.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿](sources/11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk.md) — Shizilukou Crossing episode with Wu Kai on Airwallex's global payment network, transaction-banking expansion, AI finance products Kai, Agent OS, T0, ARID, and the intelligent-finance thesis.
 - [How AI nudify apps are proliferating on social media](sources/tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128.md) — Marketplace Tech episode with Sina Laubenstein of the Institute for Strategic Dialogue on AI nudify websites, YouTube/X traffic, Meta ads, app-store responses, payment rails, crypto intermediaries, and Take It Down Act enforcement.
 - [EP271 探访“柔性制造”工厂：是谁让你“想要就能买到”？](sources/ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v.md) — Talk三联 episode with 高一丁, 黄子毅, 邱连, and 吴立伟 on flexible manufacturing across Deli stationery, Haier central air-conditioning, Yagor apparel, Shenzhou sportswear surge response, digital twins, modular customization, order scheduling, and AI visual inspection.
 - [174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟](sources/174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza.md) — 起朱楼宴宾客 episode with Amazon AGI's Cha Sheng on open-source model strategy, data flywheels, cognitive debt, AI knowledge collapse, model values, enterprise and sovereign models, and AGI limits.
@@ -866,6 +867,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Airwallex](entities/Airwallex.md) — Global fintech and payment platform case connecting cross-border rails, transaction banking, APIs, and AI finance products.
+- [Wu Kai / 吴恺](entities/WuKai.md) — Airwallex chief revenue officer explaining the company's global network, product expansion, AI strategy, and globalization playbook.
+- [Kai (Airwallex)](entities/KaiAirwallex.md) — Airwallex embedded AI finance assistant for policies, liquidity, expenses, workflow creation, payments, and error analysis.
+- [Airwallex Agent OS](entities/AirwallexAgentOS.md) — CLI and API/MCP-style access layer for customer agents to call Airwallex financial capabilities.
+- [T0 Finance](entities/T0Finance.md) — Airwallex AI-native finance platform framed as a mini CFO or finance-operations team from day zero.
+- [ARID](entities/ARID.md) — Airwallex one-click checkout product linked in the source to future wallet and agent-to-agent payment scenarios.
 - [Sina Laubenstein](entities/SinaLaubenstein.md) — Institute for Strategic Dialogue researcher explaining how AI nudify services spread through social platforms, app stores, and payment infrastructure.
 - [Institute for Strategic Dialogue](entities/InstituteForStrategicDialogue.md) — Research organization whose nudify-app report found 181 sites and mapped traffic, ads, app-store, and payment routes.
 - [黄子毅 / Huang Ziyi](entities/HuangZiyiManufacturingReporter.md) — Sanlian manufacturing reporter in EP271 defining flexible manufacturing and explaining Shenzhou and Haier cases; kept distinct from same-pinyin existing pages by source spelling.
@@ -5923,6 +5930,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Global Financial Network](concepts/GlobalFinancialNetwork.md) — Fintech strategy combining local licenses, bank partners, clearing access, APIs, and product breadth across markets.
+- [Intelligent Finance](concepts/IntelligentFinance.md) — AI finance thesis combining accounts, payments, policies, transaction data, workflow automation, and agent-callable financial actions.
 - [Nudify App Ecosystem](concepts/NudifyAppEcosystem.md) — Commercial and distribution stack around AI nudify tools, including social discovery, ads, app stores, payment rails, crypto routing, and legal response.
 - [Abuse Payment Infrastructure](concepts/AbusePaymentInfrastructure.md) — Payment, banking, and crypto-intermediary layer that can keep abusive online services monetizable despite platform or app-store enforcement.
 - [Flexible Manufacturing / 柔性制造](concepts/FlexibleManufacturing.md) — Manufacturing capability that links demand sensing, product design, mass production, small orders, customization, and sudden demand response.
