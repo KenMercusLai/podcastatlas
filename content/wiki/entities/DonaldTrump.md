@@ -141,6 +141,7 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 - The Starmergeddon source treats Trump as an external endorsement and anti-gang alignment point for Colombia's rightward security turn.
 - The Latin lessons source treats Trump as an investment-geopolitics catalyst whose pressure can drive capital attention toward Latin America without reducing political uncertainty.
 - The Fear-jerker source treats Trump as part of the symbolic political environment around AI elites, billionaire power, and public distrust.
+- The Firm Andy source treats Trump as [[AndyBurnham]]'s first foreign-policy test: Burnham says he will meet Trump "where he's at," while the episode expects a constructive but less close posture than [[KeirStarmer]]'s.
 - The Marketplace Tech April 3 source treats Trump as the federal preemption-pressure actor against whom California's AI procurement order is positioned.
 - The Marketplace Tech January 9 source treats Trump as the executive-order actor trying to organize litigation and grant pressure against state AI laws before a clear national framework exists.
 - The Marketplace Tech direct-air-capture source treats Trump as a selective climate-policy actor: broad climate cuts can coexist with protected carbon-removal hubs when political and industrial coalitions hold.

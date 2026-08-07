@@ -2,8 +2,8 @@
 title: "United Arab Emirates"
 type: entity
 tags: [country, geopolitics, economy, infrastructure]
-sources: [the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8]
-last_updated: 2026-07-18
+sources: [the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c]
+last_updated: 2026-08-07
 ---
 
 # United Arab Emirates
@@ -16,6 +16,8 @@ In the wiki, the UAE now anchors the positive side of [[GulfStabilityRisk]]. Its
 
 [[the-secret-meeting-that-launched-opec]] adds the oil-producer coordination angle. The [[PlanetMoney]] episode says the UAE left [[OPEC]] after years of quota friction with [[SaudiArabia]], arguing that older production-capacity baselines constrained its ability to monetize oil before long-run demand weakens under [[GreenParadox]] pressure. The source also says the exit is unlikely to lower pump prices quickly because [[StraitOfHormuz]] disruption and reserve rebuilding still constrain usable supply.
 
+[[a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c]] adds the UAE as a cautious participant in [[Syria]]'s reconstruction opening. The episode says the UAE was initially standoffish because of [[AhmadAlSharah]]'s jihadist background, but had begun engaging more with Damascus.
+
 ## Connections
 - [[GulfCooperationCouncil]] - regional context.
 - [[GulfStabilityRisk]] - risk frame where the UAE is presented as comparatively resilient.
@@ -23,3 +25,4 @@ In the wiki, the UAE now anchors the positive side of [[GulfStabilityRisk]]. Its
 - [[StraitOfHormuz]] and [[Iran]] - chokepoint and regional-security setting.
 - [[Dubai]], [[AbuDhabi|Abu Dhabi]], [[DubaiBusinessHubModel]], [[DubaiGoldenVisaResidency]], and [[DubaiRealEstateMarket]] - city-level business, residency, and property branch added by vol.106.
 - [[OPEC]], [[SaudiArabia]], [[ProductionQuotaDiscipline]], [[GreenParadox]], and [[OilProducerSupplyCoordination]] - oil-quota and producer-incentive branch added by Planet Money.
+- [[Syria]], [[AhmadAlSharah]], [[Qatar]], [[SaudiArabia]], and [[PostwarReconstructionFinance]] - Syrian reconstruction engagement branch added by The Intelligence.

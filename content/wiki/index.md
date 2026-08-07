@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A firm Andy: what are new British PM's plans?](sources/a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c.md) — The Intelligence episode on Andy Burnham's first plans as British prime minister, Syria's reconstruction finance problem, and Greenmarket's role in New York City food urbanism.
 - [城市就是这样21 | 十堰：一座因汽车而起、又不甘被汽车“抛下”的城市](sources/chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066.md) — 商业就是这样 city episode on Shiyan as an auto-built Hubei city, Dongfeng/Second Automobile Works, Third Front construction, the 2003 headquarters move to Wuhan, commercial-vehicle resilience, and diversification into batteries, water, and Wudang tourism.
 - [Can Trump make buying a home more affordable?](sources/can-trump-make-buying-a-home-more-affordable.md) — Planet Money episode testing Trump housing policies through institutional investor restrictions, mortgage-backed-security purchases, first-time-buyer strain, and the deeper starter-home supply constraint.
 - [Froggle, Goofstump and the fake AI companies winning hearts online](sources/tech-20260714-tech-pod-128-tech-20260714-tech-pod-128.md) — Marketplace Tech episode on Harris Alterman and Dave Ross's fake AI subway ads, vague AI marketing jargon, public transit legitimacy signals, and satire of AI hype language.
@@ -838,6 +839,27 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Rachel Reeves](entities/RachelReeves.md) — Chancellor tied to the Starmer-Reeves tax pledge that constrains Andy Burnham's first economic choices.
+- [Shabana Mahmood](entities/ShabanaMahmood.md) — Rumoured chancellor choice in Burnham's first cabinet, framed as a compromise inside Labour faction management.
+- [Hugo Jye](entities/HugoJye.md) — The Intelligence contributor explaining the uncertainty around Burnham's first governing programme.
+- [Gareth Brown](entities/GarethBrown.md) — The Intelligence contributor explaining Syria's reconstruction costs, security risks, and foreign-backing problem.
+- [Annie Crabill](entities/AnnieCrabill.md) — Reporter for The Intelligence segment on Greenmarket, Union Square, and New York food urbanism.
+- [Ron Benaghi](entities/RonBenaghi.md) — Farmer whose first-Greenmarket memory grounds the episode's case for direct city demand helping regional farms.
+- [Barry Benepe](entities/BarryBenepe.md) — Urban planner behind the original Greenmarket idea connecting New Yorkers directly with regional farmers.
+- [Bob Lewis](entities/BobLewis.md) — Planner whose French-style outdoor-market model helps explain Greenmarket's founding logic.
+- [Syria](entities/Syria.md) — Postwar reconstruction case where destroyed infrastructure, political fragility, and foreign backing interact.
+- [Bashar al-Assad](entities/BasharAlAssad.md) — Syrian ruler whose repression is part of the episode's explanation for Syria's reconstruction burden.
+- [ISIS](entities/ISIS.md) — Security actor named in the Syria segment as both war-history cause and continuing investor-confidence risk.
+- [Ahmad al-Sharah](entities/AhmadAlSharah.md) — Syrian leader presented by the episode as the default figure for holding reconstruction together.
+- [Qatar](entities/Qatar.md) — Gulf state already involved in Syria reconstruction work, including Damascus airport rebuilding.
+- [New York City](entities/NewYorkCity.md) — Urban setting for Greenmarket's five-borough farmers-market network and food-access role.
+- [Union Square](entities/UnionSquare.md) — Flagship Greenmarket site used as the public-space transformation case.
+- [Greenmarket](entities/Greenmarket.md) — New York farmers-market network that grew from a 12-vendor experiment into a 50-year institution.
+- [GrowNYC](entities/GrowNYC.md) — Organization managing Greenmarket through farm vetting, market expansion, and benefit-payment infrastructure.
+- [Number 10 North](entities/Number10North.md) — Burnham's proposed Manchester office for splitting the Downing Street operation.
+- [Manchester](entities/Manchester.md) — City named as the planned location of Number 10 North.
+- [Greater Manchester](entities/GreaterManchester.md) — Region where Burnham built his mayoral reputation before entering national leadership.
+- [NHS](entities/NHS.md) — UK public-service benchmark in the Burnham episode's political delivery-gap frame.
 - [Shiyan / 十堰](entities/Shiyan.md) — Hubei auto-built city whose Second Automobile Works and Dongfeng legacy leaves a commercial-vehicle base and diversification challenge.
 - [Dongfeng Motor / 东风汽车](entities/DongfengMotor.md) — Auto company successor to 二汽 whose headquarters move to Wuhan is the turning point in the Shiyan source.
 - [Second Automobile Works / 二汽](entities/SecondAutomobileWorks.md) — Third Front auto project that created Shiyan as an industrial city and later became Dongfeng Motor.
@@ -5709,6 +5731,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Devolution As Governing Project](concepts/DevolutionAsGoverningProject.md) — UK governance frame where moving power from Westminster has to change services and accountability, not only office location.
+- [Postwar Reconstruction Finance](concepts/PostwarReconstructionFinance.md) — Problem of rebuilding after war when destroyed assets, security risk, political survival, and foreign capital all interact.
+- [Farmers Market Urbanism](concepts/FarmersMarketUrbanism.md) — Recurring public-market model that links food access, regional farms, neighborhood life, and restaurant sourcing.
 - [Third Front Construction / 三线建设](concepts/ThirdFrontConstruction.md) — Strategic inland industrialization context that explains why 二汽 and Shiyan were built in a mountainous Hubei location.
 - [Automobile City Path Dependence](concepts/AutomobileCityPathDependence.md) — Pattern where auto manufacturing creates a city's identity, labor base, supplier system, and future constraints.
 - [Commercial Vehicle Industrial Base](concepts/CommercialVehicleIndustrialBase.md) — Truck, special-vehicle, supplier, and worker base that remained in Shiyan after Dongfeng's headquarters moved.

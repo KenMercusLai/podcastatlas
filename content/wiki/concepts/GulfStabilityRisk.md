@@ -2,7 +2,7 @@
 title: "Gulf Stability Risk"
 type: concept
 tags: [geopolitics, economy, risk]
-sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8]
+sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c]
 last_updated: 2026-08-07
 ---
 
@@ -24,6 +24,8 @@ The source also makes the risk uneven. [[UnitedArabEmirates]] is presented as be
 
 [[tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]] adds the tech-investment exposure. The same Gulf markets that attract U.S. cloud, AI, and chip companies because of capital and AI-hub ambitions can become more fragile when [[DualUseTechInfrastructureTargeting]] makes regional data centers and tech offices part of conflict planning.
 
+[[a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c]] adds a reconstruction-confidence version through [[Syria]]. [[SaudiArabia]], [[Qatar]], and the [[UnitedArabEmirates|UAE]] have reasons to support [[AhmadAlSharah]]'s state-building project because a failed Syria would export drugs, terrorism, refugee pressure, and investment risk into the wider region.
+
 ## Connections
 - [[GulfCooperationCouncil]] and [[GregCarlstrom]] - regional frame and analyst.
 - [[UnitedArabEmirates]] and [[Bahrain]] - contrasting resilience cases.
@@ -34,4 +36,5 @@ The source also makes the risk uneven. [[UnitedArabEmirates]] is presented as be
 - [[Dubai]], [[DubaiBusinessHubModel]], and [[DubaiRealEstateMarket]] - city-level safe-haven and property-demand branch added by vol.106.
 - [[OPEC]], [[ProductionQuotaDiscipline]], [[GreenParadox]], and [[OilProducerSupplyCoordination]] - oil-producer coordination branch added by Planet Money.
 - [[DualUseTechInfrastructureTargeting]], [[GulfStrategicDiversification]], [[AmazonWebServices|AWS]], and [[Nvidia]] - AI-hub and cloud-infrastructure exposure branch added by Marketplace Tech.
+- [[Syria]], [[AhmadAlSharah]], [[Qatar]], and [[PostwarReconstructionFinance]] - reconstruction-confidence branch added by The Intelligence.
 - [[IranHorizontalEscalation]], [[LowCostDroneWarfare]], and [[ChokepointShippingConfidence]] - EP251's insurance, energy, and market-confidence mechanism.

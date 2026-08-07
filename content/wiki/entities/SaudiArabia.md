@@ -2,8 +2,8 @@
 title: "Saudi Arabia"
 type: entity
 tags: [country, energy, geopolitics, economy]
-sources: [how-to-get-what-greenland-has-with-permission, the-secret-meeting-that-launched-opec]
-last_updated: 2026-07-24
+sources: [how-to-get-what-greenland-has-with-permission, the-secret-meeting-that-launched-opec, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c]
+last_updated: 2026-08-07
 ---
 
 # Saudi Arabia
@@ -16,6 +16,8 @@ The episode also treats Saudi Arabia as an enforcer of last resort. When members
 
 [[how-to-get-what-greenland-has-with-permission]] adds Saudi Arabia as both a resource-security analogy and a possible processing partner. The [[PlanetMoney]] episode cites U.S. protection for Saudi oil as an example of getting strategic supply through arrangements short of ownership, and names Saudi Arabia among countries that could help the [[UnitedStates]] with rare-earth processing technology.
 
+[[a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c]] adds a Syrian reconstruction branch. The episode says Saudi Arabia showed early interest in [[Syria]] business and rebuilding after [[AhmadAlSharah]] took power, but that Saudi efforts were more stuck in bureaucracy than [[Qatar]]'s airport work.
+
 ## Connections
 - [[OPEC]] - organization where Saudi Arabia is presented as founder, stabilizer, and enforcer.
 - [[SevenSistersOilMajors]] - company power structure that helped provoke producer coordination.
@@ -23,3 +25,4 @@ The episode also treats Saudi Arabia as an enforcer of last resort. When members
 - [[UnitedArabEmirates|United Arab Emirates]] and [[GreenParadox]] - later quota-dispute and pumping-incentive branch.
 - [[StraitOfHormuz]] and [[GulfStabilityRisk]] - regional setting where oil supply and security risk overlap.
 - [[RareEarthProcessingBottleneck]] and [[StrategicAccessWithoutAnnexation]] - mineral-security and access-arrangement branch added by the Greenland episode.
+- [[Syria]], [[AhmadAlSharah]], [[Qatar]], [[UnitedArabEmirates]], and [[PostwarReconstructionFinance]] - reconstruction branch added by The Intelligence.

@@ -8,6 +8,8 @@ last_updated: 2026-08-07
 
 # The Intelligence
 
+The Firm Andy source adds another three-segment sequence: [[AndyBurnham]], [[KeirStarmer]], [[LabourPartyUK]], [[RachelReeves]], [[ShabanaMahmood]], [[DevolutionAsGoverningProject]], and [[Number10North]] as a first-days British government case; [[Syria]], [[AhmadAlSharah]], [[PostwarReconstructionFinance]], [[SaudiArabia]], [[Qatar]], and [[UnitedArabEmirates]] as a postwar reconstruction case; and [[Greenmarket]], [[GrowNYC]], [[UnionSquare]], and [[FarmersMarketUrbanism]] as a New York food-urbanism case.
+
 The Aung San Suu Kyi source adds another three-segment sequence introduced by [[JasonPalmer]]: [[AungSanSuuKyi]], [[Myanmar]], [[MyanmarMilitaryJunta]], [[ProofOfLifeDiplomacy]], and [[OverPersonalizedCrisisDiplomacy]] in the politics segment; [[Turkey]], [[Istanbul]], [[StraitOfHormuz]], [[WarSpilloverHubOpportunity]], [[ChokepointLogisticsRerouting]], and [[FinancialHubCredibilityGap]] in the economics segment; and [[SleepDurationUShape]], [[OrganSpecificAgingClock]], [[PopulationLevelHealthAdvice]], and [[SleepAnxietyLoop]] in the science segment.
 
 The Lindsey Graham source adds another three-segment sequence: [[LindseyGraham]], [[DonaldTrump]], [[RepublicanParty]], and [[RepublicanForeignPolicyAdaptation]] as a U.S. politics and foreign-policy case; [[SondreSolstad]], [[WorldValuesSurvey]], [[AIModelValueSurveying]], [[AIModelCensorship]], [[LanguageDependentAIBias]], and [[AIAdviceMoralOutsourcing]] as an AI-values case; and [[OldMastersMarketRevival]] through [[Christies|Christie's]], [[Sothebys|Sotheby's]], [[AdamWilliamsGallery]], and [[PatrickWilliams]] as an art-market authenticity case.
@@ -101,6 +103,7 @@ The Roaring trades source adds another three-segment sequence: [[BP]], [[Shell]]
 - [[PoliticalFarceAccountability]], [[AfricaConnectivityInfrastructure]], and [[HomericAdaptationModernization]] — In it to bin it episode on Farage versus Count Binface, satellite internet in Africa, and Nolan's Odyssey.
 - [[RepublicanForeignPolicyAdaptation]], [[AIModelValueSurveying]], and [[OldMastersMarketRevival]] - Lindsey Graham episode on U.S. Republican politics, AI values, and Old Masters authenticity.
 - [[ProofOfLifeDiplomacy]], [[WarSpilloverHubOpportunity]], and [[SleepDurationUShape]] - Aung San Suu Kyi source on Myanmar, Turkey, and sleep science.
+- [[DevolutionAsGoverningProject]], [[PostwarReconstructionFinance]], and [[FarmersMarketUrbanism]] - Firm Andy source on Burnham's government, Syria, and Greenmarket.
 - [[NATOAllianceCredibility]], [[EuropeanDefenseAutonomy]], and [[RussianHybridPressure]] — alliance segment on NATO's public unity and private American-commitment doubts.
 - [[VibeLawyering]], [[LegalAIHallucination]], and [[HumanInTheLoopLegalAI]] — legal AI segment on AI filings, fabricated cases, and supervised legal AI.
 - [[GulfStabilityRisk]] and [[GulfStrategicDiversification]] — Gulf segment on post-Iran-war uncertainty, confidence, infrastructure, and investment priorities.

@@ -16,6 +16,8 @@ The concept extends the wiki's food-operations branch beyond packaged-goods logi
 
 [[ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j]] adds a Chinese high-value-food version through [[RainbowTrout|虹鳟]], [[Eel|鳗鱼]], and [[FoieGras|鹅肝]]. The episode shows that restaurant and retail trust can depend on domestic cold-water farming, eel deodorizing and grilling, foie gras processing, and prepared product formats rather than only on imported prestige.
 
+[[a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c]] adds a market-mediated version through [[Greenmarket]]. The episode says chefs build direct relationships with farmers at [[UnionSquare]], sometimes asking what to grow next year, making the market a practical sourcing interface rather than only a retail space.
+
 ## Key Claims
 - Localized supply chains can turn regulatory shocks or import restrictions into a test of substitution capacity rather than a direct category collapse.
 - Restaurant chains can become process teachers for upstream suppliers by specifying feed, handling, water, deodorizing, preparation, and cooking requirements.
@@ -24,6 +26,7 @@ The concept extends the wiki's food-operations branch beyond packaged-goods logi
 - The more a food format depends on freshness and safety perception, the more supplier process, cold chain, waste handling, and visible hygiene become part of the brand.
 - Local seafood supply can still be exposed to global feed inputs; localization reduces some procurement risks but cannot fully remove [[AquacultureFeedDependency]].
 - Localized supply can change the food's form, not only its cost, when processors create smoked fish, grilled eel, small foie gras packs, or other [[PreparedHighValueFoodFormats]].
+- Farmers-market relationships can localize restaurant supply by letting chefs and growers coordinate seasonal demand before planting decisions.
 
 ## Connections
 - [[Sushiro]] - central source case.
@@ -34,3 +37,4 @@ The concept extends the wiki's food-operations branch beyond packaged-goods logi
 - [[ConsumerBrandMoat]] and [[ProductLedWillingnessToPay]] - trust and value perception created through reliable food supply.
 - [[FishmealSupplyChain]], [[AquacultureFeedDependency]], and [[ClimateFoodPriceTransmission]] - upstream feed and climate-price branch added by 商业小样45.
 - [[ChineseNewSpecialtyAquaculture]], [[SalmonTroutLabelTransparency]], [[EelSeedPriceVolatility]], [[FoieGrasWelfareTradeoff]], and [[PreparedHighValueFoodFormats]] - EP260 high-value food localization branch.
+- [[Greenmarket]], [[UnionSquare]], [[GrowNYC]], and [[FarmersMarketUrbanism]] - market-mediated local sourcing branch added by The Intelligence.
