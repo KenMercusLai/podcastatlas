@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [百万个景观社会：听说你也想当主播？](sources/baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy.md) — 面基 episode with 田峰 and 中国社科院 students on talent group livestreaming, guild industrialization, real-time data labor, platform compliance, social production of beauty, and fieldwork in Chengdu and Changsha livestream guilds.
 - [Kyiv brawl: Ukraine's top general fired](sources/kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165.md) — The Intelligence episode on Ukraine's wartime command reshuffle, Fedorov-Syrskyi reform conflict, Albuquerque police killings, and Japan's stigmatized incident-property market.
 - [快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频](sources/kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13.md) — Shizilukou Crossing episode with Zhang Jintao of Shengshu Technology on Vidu S1, SAGE Attention, TurboDiffusion, streaming video generation, real-time interactive video, and the inference acceleration stack needed for live visual sessions.
 - [Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.](sources/toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97.md) — How I Built This episode on Toast's pivot from a slow-check payment app into a restaurant operating platform, covering POS complexity, early install failures, scaling discipline, COVID off-premise tools, IPO, and Aman Narang's CEO return.
@@ -850,6 +851,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [田峰 / Tian Feng](entities/TianFeng.md) — 中国社科院 researcher explaining talent group livestreaming as guild-backed labor, real-time data, compliance, aesthetic production, and fieldwork evidence.
+- [Chinese Academy of Social Sciences / 中国社会科学院](entities/ChineseAcademyOfSocialSciences.md) — Research-institution context for Tian Feng and student fieldwork on talent group livestreaming.
+- [Changsha / 长沙](entities/Changsha.md) — Fieldwork city and entertainment-labor setting for talent group livestreaming guilds in the 面基 episode.
 - [Mykhailo Fedorov](entities/MykhailoFedorov.md) — Ukrainian reformist official in the source's defence-ministry crisis, tied to drone scale-up, procurement incentives, and public protest after dismissal.
 - [Oleksandr Syrskyi / Sersky](entities/OleksandrSyrskyi.md) — Ukrainian commander normalized from the source spelling "Sersky," presented as the rigid command-culture rival to Fedorov.
 - [Mykhailo Drapatyi / Drapati](entities/MykhailoDrapatyi.md) — Ukrainian general normalized from the source spelling "Drapati," appointed after Syrskyi and framed as a new-generation command-reform test.
@@ -2015,7 +2019,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李诞](entities/LiDan.md) — Comedian and creator guest explaining podcast intimacy, AI-assisted adult learning, AI creation disclosure, and middle-age technology memory in the Banlatte special.
 - [肖磊](entities/XiaoLei.md) — Banlatte host whose radio-to-podcast path and preparation-heavy work describe Chinese podcast production from the media-worker side.
 - [刘飞](entities/LiuFei.md) — Banlatte host and former product manager connecting business storytelling, 三五环, podcast commerce, and ecosystem relationships.
-- [小宇宙](entities/Xiaoyuzhou.md) — Chinese podcast-platform context used in the Banlatte special for brand and institutional podcast experimentation.
+- [小宇宙](entities/Xiaoyuzhou.md) — Chinese podcast-platform context for podcast ecosystem discussion, platform-affordance examples, education projects, and the 面基 talent group livestreaming episode.
 - [三五环](entities/SanWuHuan.md) — Liu Fei's other podcast context, used to locate his product-to-podcast path around Banlatte.
 - [朱晓东 / Zhu Xiaodong](entities/ZhuXiaodongSportsRights.md) — Sports-rights specialist and Lizan Sports CEO explaining World Cup rights pricing, packaging, and buyer capacity in E237.
 - [张斌 / Zhang Bin](entities/ZhangBinSportsMedia.md) — Sports media figure explaining platform and China-market implications of CCTV-FIFA rights negotiation in E237.
@@ -3237,7 +3241,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fuchsia Dunlop / 胡霞](entities/FuchsiaDunlop.md) — British food writer whose 《鱼翅与花椒》 is read through Sichuan cuisine, appetite, cultural translation, and identity change.
 - [《鱼翅与花椒》 / Shark's Fin and Sichuan Pepper](entities/SharkFinAndSichuanPepper.md) — Food memoir used by the source to connect Chengdu, Sichuan cuisine, culinary grammar, texture, bias, and animal ethics.
 - [Sichuan / 四川](entities/Sichuan.md) — Regional setting for Sichuan food, Chengdu market, huajiao, culinary translation, and EP245's internal technical renewal of strong cuisine.
-- [Chengdu / 成都](entities/Chengdu.md) — City setting where Dunlop's 1990s study, street food, market encounters, and Sichuan cuisine learning are grounded.
+- [Chengdu / 成都](entities/Chengdu.md) — City setting for Dunlop's Sichuan cuisine learning and, in the 面基 source, a guild-fieldwork site for talent group livestreaming.
 - [Women's National Basketball Association](entities/WNBA.md) — Women's professional basketball league whose media-rights growth becomes the labor-revenue-share case in the Planet Money episode.
 - [WNBA Players Association](entities/WNBAPlayersAssociation.md) — Player-side bargaining organization that uses data, strike authorization, and member preparation to push for revenue sharing.
 - [Alicia Clark](entities/AliciaClark.md) — WNBA player-negotiator whose diary and career range anchor the episode's collective-bargaining narrative.
@@ -5319,7 +5323,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [运雷](entities/YunLei.md) — 面基 guest and fund manager explaining efficient-frontier asset allocation, correlation research, and FOF product design.
 - [南方全球](entities/NanfangQuanqiu.md) — QDII fund/product context used to discuss overseas ETF, bond, commodity, REIT, and active-fund allocation tooling.
 - [COWZ](entities/COWZ.md) — Free-cash-flow ETF/index example used as a possible S&P 500 substitute when expected return improves without losing correlation fit.
-- [面基](entities/Mianji.md) — Podcast/show context for investing, asset allocation, embodied judgment, long-cycle macro, AI workflow, big-company nonfiction, and reading-as-frame conversations.
+- [面基](entities/Mianji.md) — Podcast/show context for investing, asset allocation, embodied judgment, AI workflow, nonfiction, reading, midlife infrastructure, and talent group livestreaming fieldwork.
 - [43talks](entities/FortyThreeTalks.md) — Offline "AI + X" discussion format used as a frame-collision practice in the 面基 reading episode.
 - [关雅迪](entities/GuanYadi.md) — 面基 guest whose endurance running, ocean sailing, climbing, and life-design stories ground trained intuition and embodied judgment.
 - [青岛号](entities/QingdaoClipperYacht.md) — Ocean-racing boat used by E161 to explain team risk, weather uncertainty, captain judgment, and performance under physical stress.
@@ -5824,6 +5828,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Talent Group Livestreaming / 才艺团播](concepts/TalentGroupLivestreaming.md) — 面基 concept for staged group livestreaming as performance, live chat, camera, host, operations, data, styling, and compliance work.
+- [Livestream Guild Industrialization / 直播公会工业化](concepts/LivestreamGuildIndustrialization.md) — Shift from individual livestreaming toward guild recruitment, training, styling, operations, staging, review, and organizational risk.
+- [Real-Time Livestream Labor / 实时数据直播劳动](concepts/RealTimeLivestreamLabor.md) — Live performance and operations shaped by second-level data, host decisions, fan recognition, camera awareness, and post-session review.
+- [Platform Moderation Compliance Labor / 平台合规劳动](concepts/PlatformModerationComplianceLabor.md) — Hidden labor of keeping live bodies, costumes, lighting, angles, and AI moderation inside platform rules.
+- [Social Production Of Beauty / 美的社会生产](concepts/SocialProductionOfBeauty.md) — Tian Feng's frame for beauty as a livestream workflow produced by makeup, camera, lighting, rules, audience feedback, and data.
 - [Ukraine Military Command Reform](concepts/UkraineMilitaryCommandReform.md) — Wartime command-culture and technology-adoption reform frame behind the Fedorov-Syrskyi-Drapatyi reshuffle.
 - [Drone Procurement Incentives](concepts/DroneProcurementIncentives.md) — Military adaptation mechanism linking battlefield effectiveness to drone and ammunition allocation.
 - [Wartime Leadership Accountability](concepts/WartimeLeadershipAccountability.md) — Pattern where wartime personnel decisions become public tests of political judgment and ally confidence.

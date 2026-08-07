@@ -2,7 +2,7 @@
 title: "Platform Feedback Loop / 平台反馈循环"
 type: concept
 tags: [platforms, feedback, creators, algorithms]
-sources: [ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj, 167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq]
+sources: [baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy, ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj, 167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq]
 last_updated: 2026-08-07
 ---
 
@@ -16,6 +16,8 @@ The concept extends [[AlgorithmicEntanglement]] by making feedback visibility ce
 
 [[ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj]] adds a rural livestreaming version. [[ZengXin|曾欣]] describes women streamers changing appearance, setting, product stories, and family/mother personas as they learn what audience attention and orders reward, while also reacting to nearby relatives and villagers who may not like, support, or approve of the account.
 
+[[baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy]] adds a professional group-livestreaming version through [[TalentGroupLivestreaming|才艺团播]]. Here feedback is not only comments and orders; [[RealTimeLivestreamLabor|real-time dashboards]], host judgment, camera switching, fan-ID recognition, and post-session review can all reshape the performance while it is still happening.
+
 ## Key Claims
 - Visible feedback changes creator behavior faster than slow editorial or audience judgment.
 - User feedback is ambiguous: a comment can mean interest, anger, correction, ridicule, or support, but the platform may still treat it as engagement.
@@ -23,6 +25,7 @@ The concept extends [[AlgorithmicEntanglement]] by making feedback visibility ce
 - Deliberately withholding feedback from manipulative content is a form of [[AlgorithmicMediaLiteracy]] and [[FeedCuration]].
 - Episode 167 adds that feedback is not only a product signal; it is part of the public world and persona that platforms generate.
 - EP247 adds that feedback can come from two publics at once: online strangers may praise and buy, while offline family and village observers can still decide whether the work feels respectable.
+- The 面基 group-livestreaming source adds that feedback can be operationalized by a backstage team in real time, not only absorbed by the visible creator after publication.
 
 ## Connections
 - [[PlatformAffordance]] — interface conditions that make feedback possible and visible.
@@ -31,3 +34,4 @@ The concept extends [[AlgorithmicEntanglement]] by making feedback visibility ce
 - [[CreatorEvaluationPressure]] and [[BookCreatorWork]] — creator-side pressure from visible response.
 - [[AlgorithmicCaveAllegory]] and [[AlgorithmicPublicAppearance]] — episode 167's reality-selection and public-appearance extension.
 - [[RuralWomenLivestreaming]], [[LivestreamPersonaLabor]], [[ZengXin|曾欣]], and [[FamilyBasedEmotionalMotivation]] - rural livestreaming extension added by EP247.
+- [[TalentGroupLivestreaming]], [[RealTimeLivestreamLabor]], [[LivestreamGuildIndustrialization]], and [[TianFeng|田峰]] - professional group-livestreaming extension from the 面基 episode.

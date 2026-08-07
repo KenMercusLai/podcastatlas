@@ -1,8 +1,9 @@
 ---
 title: "面基"
 type: entity
-tags: [podcast, investing, trading, embodied-judgment, macro, ai-workflow, career, nonfiction, reading, knowledge-management]
+tags: [podcast, investing, trading, embodied-judgment, macro, ai-workflow, career, nonfiction, reading, knowledge-management, platform-labor]
 sources:
+  - baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy
   - e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e
   - e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0
   - e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc
@@ -35,6 +36,8 @@ The [[DaChangXiaomin]] conversation adds a nonfiction career layer through [[Xia
 
 [[zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]] adds a midlife health and household-finance layer through [[MidlifeThreeAccounts]], [[PersonalCashFlowAccount]], [[MuscleAsLongevityInfrastructure]], [[SleepAsDailyHealthAccount]], and [[EnvironmentOverWillpower]]. It connects the show's investing and embodied-judgment threads by treating cash flow, strength, and sleep as slow-feedback accounts that have to be maintained before middle-age pressure and later-life decline make them visible.
 
+[[baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy]] adds a platform-labor and fieldwork branch through [[TianFeng|田峰]]'s discussion of [[TalentGroupLivestreaming|才艺团播]]. It moves 面基 beyond investing, AI, and personal agency into a social-science account of livestream rooms as industrialized systems of guild training, real-time data, compliance, makeup, camera work, and backstage review.
+
 ## Connections
 - [[ZhangYizhen]], [[AShareValuationIndicators]], [[MultiStrategyAllocation]], and [[DrawdownPsychology]] — E145's A-share valuation, strategy-mix, and investor-psychology layer.
 - [[NoPredictionTrading]], [[DiversificationAlpha]], and [[RandomMarketNarratives]] — E144's trading-statistics and narrative-risk layer.
@@ -51,4 +54,5 @@ The [[DaChangXiaomin]] conversation adds a nonfiction career layer through [[Xia
 - [[XFFXFramework]], [[AIAssistedReading]], [[ReadingAsFrameTraining]], and [[PersonalKnowledgeEcology]] — reading and personal-context layer added by the "读书，就是在读一个人的 F" episode.
 - [[XiaoMan]], [[DaChangXiaomin]], [[CareerShoreMyth]], and [[SystemHumanity]] — big-company, layoff, nonfiction, and system-agency layer.
 - [[MidlifeThreeAccounts]], [[PersonalCashFlowAccount]], [[MuscleAsLongevityInfrastructure]], and [[SleepAsDailyHealthAccount]] - midlife money/body/sleep layer.
+- [[TianFeng]], [[TalentGroupLivestreaming]], [[LivestreamGuildIndustrialization]], [[RealTimeLivestreamLabor]], [[PlatformModerationComplianceLabor]], and [[SocialProductionOfBeauty]] - platform-labor and fieldwork layer from the group-livestreaming episode.
 - [[YiLaoYongYi]] — adjacent Chinese investing podcast already represented in the wiki through episodes on [[JimSimons]], [[JesseLivermore]], finance careers, and market risk.

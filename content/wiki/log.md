@@ -6398,6 +6398,10 @@ Ran lint. See lint-report.md for details.
 
 Reran lint after the graph refresh so graph-aware counts use the current generated graph. Lint scanned 9,679 wiki pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Current graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; bounded fallback review found no hard unresolved contradiction, while retaining follow-ups for `MidJourney.md` / `Midjourney.md` casing duplication, `ProjectGlasswing` / `ProjectGlassfin` naming ambiguity, source-scoped `FigureAI` autonomy claims, and the `+-` formatting artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. No `wiki/lint-report.md` file was saved.
 
+## [2026-08-07] ingest | 百万个景观社会：听说你也想当主播？
+
+Added source page for a 面基 episode with 田峰 and 中国社科院 student researchers on talent group livestreaming, based on fieldwork in Chengdu and Changsha guild backstages. Created pages for 田峰, Chinese Academy of Social Sciences, Changsha, Talent Group Livestreaming, Livestream Guild Industrialization, Real-Time Livestream Labor, Platform Moderation Compliance Labor, and Social Production Of Beauty; updated overview, index, 面基, 小宇宙, Chengdu, Fieldwork As Knowledge Method, Platform Feedback Loop, and Livestream Persona Labor. No direct contradiction found; the source qualifies simple creator-economy narratives by showing group livestreaming as a guild-backed, data-driven, compliance-constrained labor system rather than only individual self-expression.
+
 ## [2026-08-07] ingest | Uncanny AI: Why AI bots remember random, sometimes useless information
 
 Added source page for a Marketplace Tech "Uncanny AI" episode with Janelle Shane on chatbot memory files, Claude's awkward remembered-detail callbacks, context-poor sensitive-topic surfacing, fragile safety tuning, and privacy/security controls around durable AI memory. Created pages for Janelle Shane and Chatbot Memory Salience Failure; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Anthropic, Claude, Grok, Personal AI Memory, Persistent Agent Memory, AI Companion Active Memory, and Chatbot Safety Guardrail Decay. No direct contradiction found; the source qualifies prior persistent-memory and companion-memory pages by showing that retained facts still need salience, social proportion, sensitivity, and deletion controls before they become useful recall.
@@ -6817,3 +6821,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Current-graph lint report returned in session
 
 Reran lint after the graph refresh so graph-aware counts use the current generated graph. Lint scanned 9,679 wiki pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Current graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; bounded fallback review found no hard unresolved contradiction, while retaining follow-ups for `MidJourney.md` / `Midjourney.md` casing duplication, `ProjectGlasswing` / `ProjectGlassfin` naming ambiguity, source-scoped `FigureAI` autonomy claims, and the `+-` formatting artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

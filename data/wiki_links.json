@@ -6439,6 +6439,10 @@
     "title": "Changpeng Zhao / 赵长鹏",
     "url": "/wiki/entities/changpengzhao/"
   },
+  "Changsha": {
+    "title": "Changsha / 长沙",
+    "url": "/wiki/entities/changsha/"
+  },
   "ChangshengFund": {
     "title": "长盛基金 / Changsheng Fund",
     "url": "/wiki/entities/changshengfund/"
@@ -6974,6 +6978,10 @@
   "ChinaYouthUnemployment": {
     "title": "China Youth Unemployment",
     "url": "/wiki/concepts/chinayouthunemployment/"
+  },
+  "ChineseAcademyOfSocialSciences": {
+    "title": "Chinese Academy of Social Sciences / 中国社会科学院",
+    "url": "/wiki/entities/chineseacademyofsocialsciences/"
   },
   "ChineseAstrologicalPolitics": {
     "title": "Chinese Astrological Politics / 中国星占政治",
@@ -19791,6 +19799,10 @@
     "title": "Livestock Worker Moral Injury",
     "url": "/wiki/concepts/livestockworkermoralinjury/"
   },
+  "LivestreamGuildIndustrialization": {
+    "title": "Livestream Guild Industrialization / 直播公会工业化",
+    "url": "/wiki/concepts/livestreamguildindustrialization/"
+  },
   "LivestreamPersonaLabor": {
     "title": "Livestream Persona Labor / 直播人设劳动",
     "url": "/wiki/concepts/livestreampersonalabor/"
@@ -25263,6 +25275,10 @@
     "title": "Platform-Level Biotech BD",
     "url": "/wiki/concepts/platformlevelbiotechbd/"
   },
+  "PlatformModerationComplianceLabor": {
+    "title": "Platform Moderation Compliance Labor / 平台合规劳动",
+    "url": "/wiki/concepts/platformmoderationcompliancelabor/"
+  },
   "PlatformOwnershipTransition": {
     "title": "Platform Ownership Transition",
     "url": "/wiki/concepts/platformownershiptransition/"
@@ -26850,6 +26866,10 @@
   "RealTimeInteractiveVideoGeneration": {
     "title": "Real-Time Interactive Video Generation",
     "url": "/wiki/concepts/realtimeinteractivevideogeneration/"
+  },
+  "RealTimeLivestreamLabor": {
+    "title": "Real-Time Livestream Labor / 实时数据直播劳动",
+    "url": "/wiki/concepts/realtimelivestreamlabor/"
   },
   "RealWorldAssetTokenizationRisk": {
     "title": "Real World Asset Tokenization Risk",
@@ -29839,6 +29859,10 @@
     "title": "Social Media Product Liability",
     "url": "/wiki/concepts/socialmediaproductliability/"
   },
+  "SocialProductionOfBeauty": {
+    "title": "Social Production Of Beauty / 美的社会生产",
+    "url": "/wiki/concepts/socialproductionofbeauty/"
+  },
   "SocialPsychology": {
     "title": "Social Psychology / 社会心理学",
     "url": "/wiki/concepts/socialpsychology/"
@@ -31427,6 +31451,10 @@
     "title": "《石川啄木》 / Takuboku Biography",
     "url": "/wiki/entities/takubokubiography/"
   },
+  "TalentGroupLivestreaming": {
+    "title": "Talent Group Livestreaming / 才艺团播",
+    "url": "/wiki/concepts/talentgrouplivestreaming/"
+  },
   "Talich": {
     "title": "Talich",
     "url": "/wiki/entities/talich/"
@@ -32298,6 +32326,10 @@
   "TiDB": {
     "title": "TiDB",
     "url": "/wiki/entities/tidb/"
+  },
+  "TianFeng": {
+    "title": "田峰 / Tian Feng",
+    "url": "/wiki/entities/tianfeng/"
   },
   "TianLongBaBu": {
     "title": "《天龙八部》",
@@ -36526,6 +36558,10 @@
   "ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1": {
     "title": "把身体数据存起来，可能是普通人最划算的 AI 投资",
     "url": "/wiki/sources/ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1/"
+  },
+  "baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy": {
+    "title": "百万个景观社会：听说你也想当主播？",
+    "url": "/wiki/sources/baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy/"
   },
   "battlefield-rare-earths-how-the-us-lost-to-china": {
     "title": "Battlefield rare earths: How the U.S. lost to China",

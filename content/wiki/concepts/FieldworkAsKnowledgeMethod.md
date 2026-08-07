@@ -2,11 +2,13 @@
 title: "Fieldwork As Knowledge Method / 田野作为知识方法"
 type: concept
 tags: [method, fieldwork, evidence, scholarship, journalism, science-reporting, ritual]
-sources: [ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk, ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c, 36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
+sources: [baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy, ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk, ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c, 36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
 last_updated: 2026-08-07
 ---
 
 # Fieldwork As Knowledge Method / 田野作为知识方法
+
+[[baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy]] adds a contemporary platform-labor version through [[TianFeng|田峰]] and student researchers at [[ChineseAcademyOfSocialSciences|中国社科院]]. The source shows that [[TalentGroupLivestreaming|才艺团播]] cannot be understood from the public screen alone; fieldwork has to enter makeup rooms, guide tables, rehearsal rooms, guild reviews, and even the bodily experience of standing under the lights and learning dance.
 
 [[ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk]] adds a river-geography version through [[MekongRiverGeographicWriting|湄公河地理写作]]. The source shows that travel friction, temple atmosphere, local rituals, app and ticket systems, mating termites, dry-season haze, [[Angkor|吴哥]] ruins, [[TonleSapLake|洞里萨湖]] flood pulses, and the [[MekongDelta|湄公河三角洲]] all become evidence only when observed together with maps, history, hydrology, and local coordination.
 
@@ -39,9 +41,11 @@ The concept gathers several branches. [[DingWenjiang|丁文江]] walks geologica
 - Ecology and agriculture reporting add that pollinator decline must be observed through farms, hives, species surveys, weather, chemicals, and harvest practices as well as through global statistics.
 - Literary-geography reporting adds that poems, ruins, route claims, old maps, inscriptions, and excavated documents need to be read together before a travel route becomes evidence.
 - River-geography reporting adds that transport systems, seasonal climate, ritual life, water bodies, and engineered deltas have to be observed as one operating region before a river becomes an explanatory frame.
+- The group-livestreaming source adds that platform labor needs backstage and participant observation because the public screen hides operational, bodily, and compliance work.
 
 ## Connections
 - [[MekongRiver]], [[MainlandSoutheastAsia]], [[MekongRiverGeographicWriting]], [[MonsoonSeasonalSocialOrder]], [[AngkorHydraulicEmpire]], and [[MekongDeltaColonialCanalAgriculture]] - EP267 river-geography extension.
+- [[TalentGroupLivestreaming]], [[LivestreamGuildIndustrialization]], [[RealTimeLivestreamLabor]], [[PlatformModerationComplianceLabor]], [[TianFeng]], and [[ChineseAcademyOfSocialSciences]] - platform-labor fieldwork extension from the 面基 source.
 - [[TangPoetryRoad]], [[TangPoetryCulturalGeography]], [[AiJiangtao]], [[BoJingSanlianCulture]], [[ZhangXingyun]], [[Wangchuan]], [[BeitingAncientCity]], and [[JiaoheAncientCity]] - EP264 literary-geography extension.
 - [[YongningAncientCity|永宁古城]], [[ZhangCongzhi|张从志]], [[CaiXiaochuan|蔡小川]], [[MinnanRitualNetwork]], and [[JitongSpiritMedium]] - EP249 ritual-reporting extension.
 - [[DuanNongyu]], [[LiuChang]], [[Mengyin]], [[Xishuangbanna]], [[WildPollinatorCrisis]], and [[MigratoryBeekeeperLivelihood]] - EP261 bee-crisis fieldwork extension.
