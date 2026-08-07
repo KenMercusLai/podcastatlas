@@ -2,8 +2,8 @@
 title: "Daily Leverage Reset"
 type: concept
 tags: [investing, etf, leverage, derivatives]
-sources: [vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb]
-last_updated: 2026-08-06
+sources: [vol-266-yi-ci-xing-gao-dong-etf-1002344828, vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb]
+last_updated: 2026-08-07
 ---
 
 # Daily Leverage Reset
@@ -12,14 +12,18 @@ Daily leverage reset is the leveraged ETF mechanism described in [[vol-121-cong-
 
 The source frames daily reset as a tradeoff. It avoids the rising-leverage spiral that Chinese structured-fund B shares faced as NAV fell, but it creates path dependency: repeated ups and downs can reduce a fund even when the underlying ends near where it started.
 
+[[vol-266-yi-ci-xing-gao-dong-etf-1002344828]] adds a two-times [[SKHynix|SK Hynix]] example through [[ETF7709HK|7709.HK]]. The source uses simpler daily-return arithmetic to show that a leveraged ETF's result follows the sequence of daily gains and losses, then links that reset to dealer hedge adjustment around the underlying stock.
+
 ## Key Claims
 - Daily reset makes the stated leverage ratio a one-day target.
 - Holding-period returns depend on the sequence of daily returns, not only the start and end price of the underlying.
 - Resetting can be helpful in trends, but damaging in sideways or volatile markets.
 - Investor misunderstanding of the word "daily" is a central suitability risk.
+- Vol.266 adds that daily reset can force recurring hedge adjustment, not only investor-level compounding drag.
 
 ## Connections
 - [[LeveragedETF]] - product category using the mechanism.
 - [[VolatilityDecay]] - main holding-period cost created by repeated reset under volatility.
 - [[TQQQ]] and [[NVDL]] - examples used by the source.
+- [[ETF7709HK|7709.HK]] and [[LeveragedETFHedgingFeedback]] - Vol.266's single-stock hedge-adjustment case.
 - [[ChineseStructuredFund]] and [[StructuredFundDownwardConversion]] - contrast with non-resetting B-share leverage.

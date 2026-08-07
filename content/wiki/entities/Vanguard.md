@@ -2,8 +2,8 @@
 title: "Vanguard"
 type: entity
 tags: [company, finance, governance]
-sources: [145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, eric-ries-incorruptible-by-design-wrgromn5peq, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vanguard-1]
-last_updated: 2026-08-06
+sources: [vol-266-yi-ci-xing-gao-dong-etf-1002344828, 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, eric-ries-incorruptible-by-design-wrgromn5peq, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vanguard-1]
+last_updated: 2026-08-07
 ---
 
 # Vanguard
@@ -15,6 +15,8 @@ Vanguard appears in [[eric-ries-incorruptible-by-design-wrgromn5peq]] as an outl
 [[vanguard-1]] gives Vanguard its own business-history source. The episode argues that Vanguard's distinctive power came from combining [[FundholderMutualOwnership]] with the first retail index fund, direct distribution, and the [[CostMattersHypothesis]]. It treats Vanguard as a case where [[StrategyFollowsStructure]]: low fees were durable because the management company's economics were routed back to fund investors.
 
 The source also adds the modern strategic tension. Vanguard's customer-owned structure supports [[ScaleEconomiesShared]] and trust, but the episode says it can leave less surplus for customer service, technology, advisory, and platform investment. [[SalimRamji]]'s outside-CEO appointment and the [[Blackstone]] alliance test whether Vanguard can modernize and enter private-market or higher-fee categories without weakening the identity Bogle built.
+
+[[vol-266-yi-ci-xing-gao-dong-etf-1002344828]] adds Vanguard to the general [[ExchangeTradedFund|ETF]] explainer. The episode says [[JohnBogle]] helped create the retail index-fund base that made ETF demand legible, rejected [[NathanMost|Most]]'s early ETF idea, and later saw Vanguard enter ETFs anyway; [[VOO]] becomes the source's example of broad-index ETF scale and fee compression.
 
 [[145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi]] adds Vanguard as an investment-advisory evidence source and service reference. [[DavidWeng|大卫翁]] cites Vanguard research to argue that advisor value often comes from stopping clients from chasing rallies and panic-selling declines, and uses Vanguard's personal-advisor service as a comparison for [[GoalBasedClientProfiling]] and human consultation.
 
@@ -28,6 +30,7 @@ The source also adds the modern strategic tension. Vanguard's customer-owned str
 - ETFs, advisory, technology, and private assets create recurring tests of how far Vanguard can adapt while staying "Vanguardy."
 - Vanguard's scale creates [[PassiveInvestingGovernance]] questions around price discovery, common ownership, and voting power.
 - Episode 145 adds Vanguard's advisory research and personal-advisor tier as examples of [[InvestmentBehaviorCoaching]] and [[RoboAdvisorHybridService]].
+- Vol.266 adds [[VOO]] as the low-fee scale case showing Vanguard's eventual adoption of the ETF wrapper it first resisted.
 
 ## Connections
 - [[FinancialGravity]] - market pressure Vanguard is presented as resisting.
@@ -36,4 +39,5 @@ The source also adds the modern strategic tension. Vanguard's customer-owned str
 - [[JohnBogle]], [[FinancialPlatformIncentives]], and [[KnowingEnough]] - E44's finance-specific extension.
 - [[FundholderMutualOwnership]], [[CostMattersHypothesis]], [[ScaleEconomiesShared]], and [[StrategyFollowsStructure]] - Acquired source concepts centered on Vanguard.
 - [[WellingtonManagement]], [[Fidelity]], [[StateStreet]], [[BlackRock]], [[SalimRamji]], and [[Blackstone]] - origin, competitors, leadership, and strategic context from the source.
+- [[ExchangeTradedFund]], [[ETFCreationRedemption]], [[VOO]], [[SPY]], and [[NathanMost]] - ETF invention, rejection, and scale branch added by Vol.266.
 - [[InvestmentBehaviorCoaching]], [[GoalBasedClientProfiling]], [[RoboAdvisorHybridService]], and [[FundAdvisoryFeeTransparency]] - episode 145 advisory comparison.

@@ -2,8 +2,8 @@
 title: "BlackRock"
 type: entity
 tags: [company, finance, asset-management]
-sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, vanguard-1]
-last_updated: 2026-08-06
+sources: [vol-266-yi-ci-xing-gao-dong-etf-1002344828, 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, vanguard-1]
+last_updated: 2026-08-07
 ---
 
 # BlackRock
@@ -16,13 +16,16 @@ BlackRock appears in [[vanguard-1]] as the large asset manager that became the d
 
 BlackRock also matters through [[SalimRamji]], formerly head of iShares, becoming Vanguard's first outside CEO in 2024. That succession raises the source's central strategic question: whether Vanguard can improve technology, service, advisory, fixed income, retirement, and private-market access without weakening the ownership structure and fee discipline that made it distinctive.
 
+[[vol-266-yi-ci-xing-gao-dong-etf-1002344828]] adds BlackRock as an [[ETFWrapperExpansion|ETF wrapper expansion]] example through its spot Bitcoin ETF reference. The source uses BlackRock less as a governance comparison and more as evidence that the ETF structure now packages crypto exposure as well as traditional index beta.
+
 ## Key Claims
 - BlackRock is the main ETF-scale competitor in the episode's post-2009 market structure.
 - Its iShares business shows how ETFs became an industry center of gravity after Vanguard initially rejected the format.
 - The Ramji hire imports ETF and platform experience into Vanguard while testing [[StrategyFollowsStructure]].
+- Vol.266 adds BlackRock to the non-equity ETF expansion branch through a source-scoped Bitcoin ETF example.
 
 ## Connections
 - [[PrivateCreditMarket]], [[PrivateCreditTailRisk]], and [[InvestmentRiskManagement]] - episode 151's private-credit mainstreaming context.
 - [[Vanguard]], [[StateStreet]], and [[Fidelity]] - competing asset-management and distribution models.
 - [[SalimRamji]] - former iShares leader who became Vanguard CEO.
-- [[PassiveInvesting]], [[PassiveInvestingGovernance]], and [[FinancialPlatformIncentives]] - source concepts connected to BlackRock's scale.
+- [[ExchangeTradedFund]], [[ETFWrapperExpansion]], [[PassiveInvesting]], [[PassiveInvestingGovernance]], and [[FinancialPlatformIncentives]] - source concepts connected to BlackRock's scale.

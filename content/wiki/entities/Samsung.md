@@ -2,8 +2,8 @@
 title: "Samsung"
 type: entity
 tags: [company, smartphone, android, consumer-electronics, semiconductors, memory]
-sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
-last_updated: 2026-07-23
+sources: [vol-266-yi-ci-xing-gao-dong-etf-1002344828, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
+last_updated: 2026-08-07
 ---
 
 # Samsung
@@ -20,6 +20,8 @@ Samsung appears in [[no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-
 
 [[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]] adds Samsung as a potential foundry and packaging alternative inside the [[Nvidia]] supply discussion. The source does not present Samsung as an immediate replacement for [[TSMC]], but it includes Samsung in the set of companies whose technology, commercial cooperation, and capacity allocation could affect future AI infrastructure supply.
 
+[[vol-266-yi-ci-xing-gao-dong-etf-1002344828]] adds Samsung as part of the Korean memory-stock cluster affected by single-stock leveraged ETF enthusiasm. The source says South Korea approved multiple single-stock leveraged ETFs tied mainly to [[SKHynix|SK Hynix]] and Samsung Electronics, and uses subsequent weak performance to argue that retail-heavy leverage can spread volatility beyond one product.
+
 ## Source Position
 - Samsung is not a main character in the old "Motorola, Nokia, Ericsson" part of the episode, but it becomes important as the successor Android camp consolidates.
 - The source positions Samsung as a beneficiary of [[SmartphoneOperatingSystemEcosystems]]: Android gave many manufacturers a shared platform, but not equal results.
@@ -28,6 +30,7 @@ Samsung appears in [[no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-
 - Episode 210 uses Samsung as a reminder that global Android scale did not guarantee durable China-market power once product trust and local competitive rhythm broke.
 - EP270 uses Samsung as a leading-edge semiconductor manufacturing peer rather than as a handset-market case.
 - E230 uses Samsung as one of several capacity alternatives or complements around foundry and packaging, while leaving commercial fit and allocation constraints unresolved.
+- Vol.266 uses Samsung as the peer Korean memory-stock context for [[ETF7709HK|7709.HK]] and the post-approval wave of single-stock leveraged ETFs.
 
 ## Connections
 - [[Android]] and [[Google]] — platform context.
@@ -40,3 +43,4 @@ Samsung appears in [[no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-
 - [[HandsetMarketConcentration]] and [[SmartphoneBrandSupplyChainExecution]] — China-market retreat and consolidation frame added by episode 210.
 - [[Intel]], [[TSMC]], [[PhotolithographyBottleneck]], and [[MooreLaw]] — leading-edge process context added by EP270.
 - [[AdvancedPackaging]], [[AIHardwareSupplyChainPressure]], and [[NvidiaVeraRubinPlatform]] - E230's supply-chain alternative context.
+- [[ETF7709HK|7709.HK]], [[SingleStockLeveragedETF]], [[SouthKorea|South Korea / 韩国]], and [[LeveragedProductSuitability]] - Korean leveraged ETF branch added by Vol.266.

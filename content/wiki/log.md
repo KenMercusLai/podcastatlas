@@ -6833,3 +6833,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | Vol.266 一次性搞懂ETF
+
+Added source page for a 商业就是这样 ETF explainer covering index-fund history, passive investing, creation-redemption, in-kind tax deferral, ETF scale economics, wrapper expansion, and the 7709.HK two-times long SK Hynix leveraged ETF case. Created pages for Exchange-Traded Fund, ETF Creation-Redemption, ETF In-Kind Tax Deferral, ETF Wrapper Expansion, Leveraged ETF Hedging Feedback, Cross-Market Leveraged ETF Execution Risk, Nathan Most, SPY, VOO, 7709.HK, and CSOP Asset Management; updated overview, index, 商业就是这样, Vanguard, John Bogle, State Street, BlackRock, S&P 500, SK Hynix, Samsung, South Korea, Hong Kong Exchanges and Clearing, Hong Kong Market Structure, Passive Investing, Public Mutual Fund Ecosystem, Leveraged ETF, Daily Leverage Reset, Volatility Decay, Single-Stock Leveraged ETF, and Leveraged Product Suitability. Flagged the source's "Nelson Most" wording against the existing wiki's Nathan Most naming as a source-scoped discrepancy; market-size, tax-loss, launch-date, and regulatory claims remain source-scoped rather than independently verified current facts.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

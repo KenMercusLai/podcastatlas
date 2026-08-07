@@ -2,8 +2,8 @@
 title: "John Bogle"
 type: entity
 tags: [person, investing, finance, governance]
-sources: [e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vanguard-1]
-last_updated: 2026-07-23
+sources: [vol-266-yi-ci-xing-gao-dong-etf-1002344828, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vanguard-1]
+last_updated: 2026-08-07
 ---
 
 # John Bogle
@@ -16,6 +16,8 @@ The source connects Bogle to [[KnowingEnough]], [[PassiveInvesting]], and custom
 
 The episode also complicates Bogle's legacy. His hostility to ETFs preserved his anti-speculation principle but also caused Vanguard to miss the first ETF wave that [[StateStreet]] and later [[BlackRock]] helped define. His survival after a heart transplant created a real [[FounderSuccession]] problem because the company had already moved into a successor-led era.
 
+[[vol-266-yi-ci-xing-gao-dong-etf-1002344828]] adds the shorter ETF-explainer version. The source treats Bogle's retail S&P 500 index fund as the necessary prehistory for [[ExchangeTradedFund|ETFs]], then contrasts his refusal to work with [[NathanMost|Most]] against Vanguard's later success with products such as [[VOO]].
+
 ## Connections
 - [[Vanguard]] — company context for Bogle in the episode.
 - [[KnowingEnough]] — main character and governance frame attached to him.
@@ -23,4 +25,4 @@ The episode also complicates Bogle's legacy. His hostility to ETFs preserved his
 - [[PassiveInvesting]] and [[InvestmentForBetterLife]] — ordinary-investor outcomes supported by low-friction long-term investing.
 - [[WellingtonManagement]] — original institutional platform and conflict source.
 - [[FundholderMutualOwnership]], [[CostMattersHypothesis]], [[ScaleEconomiesShared]], and [[StrategyFollowsStructure]] — Acquired source concepts attached to his legacy.
-- [[FounderSuccession]], [[StateStreet]], and [[BlackRock]] — later ETF and leadership-transition tensions.
+- [[FounderSuccession]], [[StateStreet]], [[BlackRock]], [[NathanMost]], [[SPY]], and [[VOO]] — later ETF and leadership-transition tensions.

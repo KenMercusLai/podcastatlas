@@ -2,8 +2,8 @@
 title: "Public Mutual Fund Ecosystem / 公募基金生态"
 type: concept
 tags: [investing, funds, china, incentives]
-sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v]
-last_updated: 2026-08-06
+sources: [vol-266-yi-ci-xing-gao-dong-etf-1002344828, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt, vol-126-gongmu-jijin-hai-zhide-mai-ma-lojrz1qctaqzkc2rg0lqokos-o6v]
+last_updated: 2026-08-07
 ---
 
 # Public Mutual Fund Ecosystem / 公募基金生态
@@ -20,6 +20,8 @@ The China-specific diagnosis is a three-part paradox. [[FundDistributionIncentiv
 
 [[136-yinhang-licai-hai-neng-zenme-mai-llc7n0f3g2-jrz4xkoefz1nui5lt]] adds the bank wealth-management comparison. [[ChineseBankWealthManagement|Bank wealth products]] are regulated and built differently from public mutual funds, but the same ecosystem question applies: product buyability depends on channels, incentives, fees, disclosure, investor expectations, and whether the product's return path can actually be held.
 
+[[vol-266-yi-ci-xing-gao-dong-etf-1002344828]] adds the ETF contrast. Traditional mutual funds usually trade once per day at closing NAV, while [[ExchangeTradedFund|ETFs]] trade intraday and use [[ETFCreationRedemption|creation-redemption]] behind the scenes; that improves flexibility but also creates a new product ecosystem whose incentives include low headline fees, scale branding, securities lending, and tax-aware in-kind flows.
+
 ## Key Claims
 - Public funds should be evaluated through fund-company incentives, channel relationships, product mechanics, investor behavior, and regulation together.
 - Product quantity and total assets are not enough; average fund scale, holder duration, fee level, and advisory support determine whether the ecosystem serves long-term wealth building.
@@ -29,6 +31,7 @@ The China-specific diagnosis is a three-part paradox. [[FundDistributionIncentiv
 - The source's "can public funds still be bought" answer is conditional: buyability depends on whether a specific fund company or product avoids the ecosystem's sales, investment, and performance paradoxes.
 - Episode 145 adds that fund advisory is an ecosystem repair only when it provides [[BuySideInvestmentAdvisory|buy-side advice]], [[InvestmentBehaviorCoaching]], [[FundAdvisoryFeeTransparency]], and [[FundRecommendationConflictDisclosure]] rather than another fund-distribution surface.
 - Episode 136 adds that the same conditional logic applies outside public funds: bank wealth products can be buyable, but only when product mechanics and [[BankWealthProductSuitability]] line up with the investor's job for the money.
+- Vol.266 adds that ETFs solve one mutual-fund friction point, daily trading, while introducing a different ecosystem of exchange liquidity, issuer scale, in-kind mechanics, and wrapper expansion.
 
 ## Connections
 - [[QizhulouYanBinke|起朱楼宴宾客]] and [[DavidWeng|大卫翁]] - source context.
@@ -38,3 +41,4 @@ The China-specific diagnosis is a three-part paradox. [[FundDistributionIncentiv
 - [[PortfolioSuitability]], [[InvestmentRiskManagement]], [[PassiveInvesting]], and [[PersonalPensionAccount|个人养老金账户]] - investor-side implementation context.
 - [[FundInvestmentAdvisory]], [[BuySideInvestmentAdvisory]], [[InvestmentBehaviorCoaching]], and [[FundRecommendationConflictDisclosure]] - episode 145 advisory-extension branch.
 - [[ChineseBankWealthManagement]], [[BankWealthManagementSubsidiary]], and [[BankWealthProductSuitability]] - bank wealth-management comparison added by episode 136.
+- [[ExchangeTradedFund]], [[ETFCreationRedemption]], [[ETFInKindTaxDeferral]], and [[ETFWrapperExpansion]] - Vol.266's ETF contrast with traditional public funds.

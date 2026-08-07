@@ -2,7 +2,7 @@
 title: "商业就是这样"
 type: entity
 tags: [podcast, media, business]
-sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, jiufan-zhongting-mifeng-jingjixue-956460448, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]
+sources: [vol-266-yi-ci-xing-gao-dong-etf-1002344828, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, jiufan-zhongting-mifeng-jingjixue-956460448, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]
 last_updated: 2026-08-07
 ---
 
@@ -25,6 +25,8 @@ The episode's distinctive contribution to the wiki is its distributed method. In
 [[vol-264-ba-shijiebei-zuowei-fangfa-999416048]] adds the show's World Cup marketing lens. It treats the same 2026 tournament not as a governance or investment case, but as a way to read Chinese media-rights buyers, platform growth pressure, [[Adidas]] offline activation, multinational localization, Chinese sponsor globalization, and jersey-led lifestyle consumption.
 
 [[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds the show's U.S. technology-media-politics lens. The episode uses [[LarryEllison]], [[DavidEllison]], [[Oracle]], [[Skydance]], [[Paramount]], [[WarnerBrosDiscovery]], [[StargateAIInfrastructure]], and [[USTikTok|U.S. TikTok]] to ask how enterprise software wealth can become media ownership and [[PoliticalRegulatoryLeverage]].
+
+[[vol-266-yi-ci-xing-gao-dong-etf-1002344828]] adds the show's financial-product explainer side. The episode uses [[ExchangeTradedFund|ETFs]] to connect [[PassiveInvesting]], [[ETFCreationRedemption|creation-redemption]], institutional tax economics, low-fee scale, and the [[ETF7709HK|7709.HK]] [[SingleStockLeveragedETF|single-stock leveraged ETF]] case, showing how a useful liquidity invention can mutate into path-dependent risk.
 
 [[shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]] adds the show's hidden-food-commodity side. It uses [[PeruvianAnchoveta|anchoveta]], [[Peru]], [[FishmealSupplyChain|fishmeal]], [[ElNino]], and [[AquacultureFeedDependency]] to show how a small marine input can move through feed formulas, salmon and shrimp production, sushi-chain sourcing, and consumer seafood prices.
 
@@ -49,4 +51,5 @@ The episode's distinctive contribution to the wiki is its distributed method. In
 - [[LiXiang]], [[TangHui]], [[JumillaCF]], [[ChinesePlayerOverseasArbitrage]], [[FootballClubAsCommunityAsset]], and [[FootballClubControlRisk]] — lower-tier football investment case added by Vol.262.
 - [[ChinaCentralTelevision]], [[Migu]], [[Xiaohongshu]], [[Adidas]], [[Hisense]], [[Lenovo]], [[SportsRightsGrowthEngine]], [[OfflineBrandActivation]], [[GlobalSportsSponsorship]], and [[SportsLifestyleConsumption]] — World Cup marketing branch added by Vol.264.
 - [[LarryEllison]], [[DavidEllison]], [[Oracle]], [[Skydance]], [[PoliticalRegulatoryLeverage]], and [[MediaOwnershipIndependenceRisk]] - U.S. technology, media, and politics branch added by Vol.265.
+- [[ExchangeTradedFund]], [[ETFCreationRedemption]], [[ETF7709HK|7709.HK]], [[LeveragedETFHedgingFeedback]], and [[CrossMarketLeveragedETFExecutionRisk]] - ETF mechanics and risk branch added by Vol.266.
 - [[PodcastAsAsynchronousMedia]] — adjacent media concept; the anniversary format records listener memory across years.

@@ -5791,6 +5791,10 @@
     "title": "C. S. Lewis / C.S. 刘易斯",
     "url": "/wiki/entities/cslewis/"
   },
+  "CSOPAssetManagement": {
+    "title": "CSOP Asset Management / 南方东英",
+    "url": "/wiki/entities/csopassetmanagement/"
+  },
   "CTA102": {
     "title": "CTA-102",
     "url": "/wiki/entities/cta102/"
@@ -8543,6 +8547,10 @@
     "title": "Cross-Laminated Timber",
     "url": "/wiki/concepts/crosslaminatedtimber/"
   },
+  "CrossMarketLeveragedETFExecutionRisk": {
+    "title": "Cross-Market Leveraged ETF Execution Risk / 跨市场杠杆 ETF 执行风险",
+    "url": "/wiki/concepts/crossmarketleveragedetfexecutionrisk/"
+  },
   "CrossMarketNamingFriction": {
     "title": "Cross-Market Naming Friction",
     "url": "/wiki/concepts/crossmarketnamingfriction/"
@@ -10395,6 +10403,22 @@
     "title": "ESPN",
     "url": "/wiki/entities/espn/"
   },
+  "ETF7709HK": {
+    "title": "7709.HK / Two-Times Long SK Hynix ETF",
+    "url": "/wiki/entities/etf7709hk/"
+  },
+  "ETFCreationRedemption": {
+    "title": "ETF Creation-Redemption / ETF 申赎机制",
+    "url": "/wiki/concepts/etfcreationredemption/"
+  },
+  "ETFInKindTaxDeferral": {
+    "title": "ETF In-Kind Tax Deferral / ETF 实物申赎税务递延",
+    "url": "/wiki/concepts/etfinkindtaxdeferral/"
+  },
+  "ETFWrapperExpansion": {
+    "title": "ETF Wrapper Expansion / ETF 包装扩张",
+    "url": "/wiki/concepts/etfwrapperexpansion/"
+  },
   "ETFZhengjiuShijie": {
     "title": "ETF拯救世界 / ETF Zhengjiu Shijie",
     "url": "/wiki/entities/etfzhengjiushijie/"
@@ -11410,6 +11434,10 @@
   "ExceptionStateSurveillanceTechnology": {
     "title": "Exception-State Surveillance Technology",
     "url": "/wiki/concepts/exceptionstatesurveillancetechnology/"
+  },
+  "ExchangeTradedFund": {
+    "title": "Exchange-Traded Fund / ETF",
+    "url": "/wiki/concepts/exchangetradedfund/"
   },
   "Exec": {
     "title": "Exec",
@@ -19287,6 +19315,10 @@
     "title": "Leveraged ETF / 杠杆 ETF",
     "url": "/wiki/concepts/leveragedetf/"
   },
+  "LeveragedETFHedgingFeedback": {
+    "title": "Leveraged ETF Hedging Feedback / 杠杆 ETF 对冲反馈",
+    "url": "/wiki/concepts/leveragedetfhedgingfeedback/"
+  },
   "LeveragedETNFinancingCost": {
     "title": "Leveraged ETN Financing Cost",
     "url": "/wiki/concepts/leveragedetnfinancingcost/"
@@ -22782,6 +22814,10 @@
   "NateFoster": {
     "title": "Nate Foster",
     "url": "/wiki/entities/natefoster/"
+  },
+  "NathanMost": {
+    "title": "Nathan Most",
+    "url": "/wiki/entities/nathanmost/"
   },
   "NathanielBranden": {
     "title": "Nathaniel Branden / 纳撒尼尔·布兰登",
@@ -28223,6 +28259,10 @@
     "title": "S&P 500",
     "url": "/wiki/entities/sp500/"
   },
+  "SPY": {
+    "title": "SPY / SPDR S&P 500 ETF Trust",
+    "url": "/wiki/entities/spy/"
+  },
   "SROLossAndHomelessness": {
     "title": "SRO Loss And Homelessness",
     "url": "/wiki/concepts/srolossandhomelessness/"
@@ -33531,6 +33571,10 @@
     "title": "VMG",
     "url": "/wiki/entities/vmg/"
   },
+  "VOO": {
+    "title": "VOO / Vanguard S&P 500 ETF",
+    "url": "/wiki/entities/voo/"
+  },
   "VacationShame": {
     "title": "Vacation Shame / 休假羞耻感",
     "url": "/wiki/concepts/vacationshame/"
@@ -38690,6 +38734,10 @@
   "vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591": {
     "title": "Vol.265 跨越50年的美国版本之子",
     "url": "/wiki/sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591/"
+  },
+  "vol-266-yi-ci-xing-gao-dong-etf-1002344828": {
+    "title": "Vol.266 一次性搞懂ETF",
+    "url": "/wiki/sources/vol-266-yi-ci-xing-gao-dong-etf-1002344828/"
   },
   "we-almost-had-a-smartphone-in-the-90s-why-did-it-fail": {
     "title": "We almost had a smartphone in the 90s. Why did it fail?",

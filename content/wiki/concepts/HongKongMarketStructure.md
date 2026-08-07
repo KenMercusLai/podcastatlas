@@ -2,8 +2,8 @@
 title: "Hong Kong Market Structure"
 type: concept
 tags: [investing, hong-kong, market-structure, risk]
-sources: [e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
-last_updated: 2026-08-06
+sources: [vol-266-yi-ci-xing-gao-dong-etf-1002344828, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+last_updated: 2026-08-07
 ---
 
 # Hong Kong Market Structure
@@ -13,6 +13,8 @@ Hong Kong market structure is the frame added by [[e159-ganggu-de-teshu-zhichu-y
 [[vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]] adds the ordinary-investor survival version. It shows how the same structure appears in practice through [[HongKongPennyStockRisk]], [[HongKongLiquidityExitRisk]], management misalignment, sell-side incentives, [[AHShareDiscountRepricing]], and IPO liquidity paths.
 
 [[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] adds the mid-2025 leading-market version. [[Ricky]] and [[DavidWeng|大卫翁]] say Hong Kong, Chinese ADRs, and new-economy assets led China asset performance in the first half, while A-shares remained more muted; the source treats Hong Kong's offshore liquidity and institutional positioning as a reason it can move before domestic earnings confirmation.
+
+[[vol-266-yi-ci-xing-gao-dong-etf-1002344828]] adds the cross-market ETF version through [[ETF7709HK|7709.HK]]. Hong Kong can function as an access layer for assets listed elsewhere, but when the product is a leveraged single-stock ETF, local trading hours, foreign underlying liquidity, and dealer hedge execution become part of the risk.
 
 ## Key Claims
 - Hong Kong is not a required allocation for either southbound mainland capital or overseas capital; investors need a reason such as scarce growth, high dividends, diversification, or short-term elasticity.
@@ -26,6 +28,7 @@ Hong Kong market structure is the frame added by [[e159-ganggu-de-teshu-zhichu-y
 - Vol.104 adds that individual-stock investors need a stricter pre-entry exit plan because thin turnover can make a correct business thesis hard to monetize or abandon.
 - Vol.104 also frames [[HongKongIPOLiquidityPath]] and [[HongKongTripleRerating]] as opportunity patterns that depend on changing coverage, eligibility, and liquidity rather than valuation alone.
 - Episode 133 adds that Hong Kong can be the first market to express China repricing when foreign underweight positioning, new-economy concentration, and liquidity elasticity line up.
+- Vol.266 adds that Hong Kong's exchange access can package foreign single-stock exposure, but timing mismatch and hedge liquidity can turn convenience into [[CrossMarketLeveragedETFExecutionRisk]].
 
 ## Connections
 - [[HangSengTechIndex]] — index example treated as a high-elasticity asset rather than a simple long-term hold.
@@ -38,3 +41,4 @@ Hong Kong market structure is the frame added by [[e159-ganggu-de-teshu-zhichu-y
 - [[IndexReentryDiscipline]], [[PassiveInvesting]], and [[InvestmentRiskManagement]] — implementation and risk-control concepts sharpened by the source.
 - [[MarketEfficiency]] — liquidity and ETF coverage determine how quickly prices incorporate information.
 - [[ChinaMacroTemperatureGaps]], [[AHShare2025Barbell]], and [[HongKongTechRepricing]] — mid-year China asset repricing context added by episode 133.
+- [[ETF7709HK|7709.HK]], [[CSOPAssetManagement|CSOP Asset Management / 南方东英]], [[LeveragedETFHedgingFeedback]], and [[CrossMarketLeveragedETFExecutionRisk]] - Vol.266's cross-market leveraged ETF branch.

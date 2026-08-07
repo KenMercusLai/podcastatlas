@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.266 一次性搞懂ETF](sources/vol-266-yi-ci-xing-gao-dong-etf-1002344828.md) — 商业就是这样 episode explaining ETFs from index funds, passive investing, creation-redemption, tax and stock-lending economics, wrapper expansion, and the 7709.HK two-times long SK Hynix leveraged ETF risk case.
 - [No.211 徽商往事：从前世不修到最牛风投](sources/no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189.md) — Banlatte episode connecting Huizhou merchants, Lianghuai salt permits, Jiang Chun, and lineage capital to modern Hefei industrial investment in USTC, Chery, BOE, ChangXin Memory, NIO, and new-energy vehicles.
 - [百万个景观社会：听说你也想当主播？](sources/baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy.md) — 面基 episode with 田峰 and 中国社科院 students on talent group livestreaming, guild industrialization, real-time data labor, platform compliance, social production of beauty, and fieldwork in Chengdu and Changsha livestream guilds.
 - [Kyiv brawl: Ukraine's top general fired](sources/kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165.md) — The Intelligence episode on Ukraine's wartime command reshuffle, Fedorov-Syrskyi reform conflict, Albuquerque police killings, and Japan's stigmatized incident-property market.
@@ -852,6 +853,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Nathan Most](entities/NathanMost.md) — ETF pioneer associated with State Street, SPY, and the Vanguard rejection story; Vol.266 carries a source-scoped Nelson/Nathan naming discrepancy.
+- [SPY / SPDR S&P 500 ETF Trust](entities/SPY.md) — First-U.S.-ETF milestone and State Street S&P 500 product used to explain the ETF wrapper.
+- [VOO / Vanguard S&P 500 ETF](entities/VOO.md) — Vanguard S&P 500 ETF used by Vol.266 as the low-fee broad-index ETF scale case.
+- [7709.HK / Two-Times Long SK Hynix ETF](entities/ETF7709HK.md) — Hong Kong-listed single-stock leveraged ETF case tied to SK Hynix, daily reset, swap hedging, and cross-market execution risk.
+- [CSOP Asset Management / 南方东英](entities/CSOPAssetManagement.md) — Hong Kong asset manager/ETF issuer behind Vol.266's 7709.HK case.
 - [Hefei / 合肥](entities/Hefei.md) — Anhui city framed as a production-investment center around USTC, BOE, ChangXin Memory, NIO, and new-energy-vehicle clustering.
 - [Wuhu / 芜湖](entities/Wuhu.md) — Anhui city whose Chery case shows local-government-backed carmaking before the later Hefei industrial-investment story.
 - [Huizhou Prefecture / 徽州](entities/HuizhouPrefecture.md) — Historical region behind the old Huizhou merchant identity, distinct from modern Guangdong Huizhou.
@@ -5838,6 +5844,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Exchange-Traded Fund / ETF](concepts/ExchangeTradedFund.md) — Fund wrapper traded on an exchange, combining basket exposure with stock-like intraday trading and creation-redemption plumbing.
+- [ETF Creation-Redemption / ETF 申赎机制](concepts/ETFCreationRedemption.md) — Institutional mechanism where baskets of securities and ETF shares are exchanged to support supply, liquidity, and NAV arbitrage.
+- [ETF In-Kind Tax Deferral / ETF 实物申赎税务递延](concepts/ETFInKindTaxDeferral.md) — Vol.266 tax-economics branch for in-kind ETF exchanges and capital-gains deferral advantages.
+- [ETF Wrapper Expansion / ETF 包装扩张](concepts/ETFWrapperExpansion.md) — Expansion of the ETF form from broad index exposure into bonds, gold, Bitcoin, active, thematic, inverse, leveraged, and single-stock products.
+- [Leveraged ETF Hedging Feedback / 杠杆 ETF 对冲反馈](concepts/LeveragedETFHedgingFeedback.md) — Procyclical dealer-hedging mechanism where leveraged ETF flows can force underlying-stock buying or selling.
+- [Cross-Market Leveraged ETF Execution Risk / 跨市场杠杆 ETF 执行风险](concepts/CrossMarketLeveragedETFExecutionRisk.md) — Timing, liquidity, and derivatives-depth risk when a leveraged ETF trades in one market while its underlying trades in another.
 - [Hefei Industrial Investment Model / 合肥模式](concepts/HefeiIndustrialInvestmentModel.md) — Local-government industrial-capital model using equity, credit, land, infrastructure, and science talent to build hard-tech clusters.
 - [Production Investment City / 产投城市](concepts/ProductionInvestmentCity.md) — City-development frame that prioritizes production capacity, clusters, jobs, and strategic positioning over pure venture-capital return.
 - [Lianghuai Salt Monopoly / 两淮盐业专卖](concepts/LianghuaiSaltMonopoly.md) — Ming-Qing salt-license system that made Huizhou salt merchants wealthy while tying them to state fiscal risk.
