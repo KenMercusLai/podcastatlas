@@ -2,11 +2,13 @@
 title: "Research Taste"
 type: concept
 tags: [research, ai, methodology]
-sources: [149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
+sources: [e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668, 149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
 last_updated: 2026-08-08
 ---
 
 # Research Taste
+
+[[e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668]] adds [[ShengYing|盛颖]]'s interest-and-flow version. Her distinction between merely publishing, doing research as a profession, and truly expanding knowledge makes taste partly a problem of self-knowledge: knowing which problems can hold attention long enough to survive technical difficulty.
 
 Research taste is the interview's term for the judgment that lets a researcher choose problems, run useful experiments, read the field, pivot, and present work coherently. In [[133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]], [[XieSaining]] uses [[KaimingHe]] as the clearest example.
 
@@ -36,8 +38,10 @@ Research taste is the interview's term for the judgment that lets a researcher c
 - In AI-for-biology startups, taste includes knowing when to pursue a broad cross-modal molecular bet and when to avoid architecture, pipeline, or fundraising narratives that distract from the scientific problem.
 - In self-improvement loops, taste can itself become a training target when human standards are captured as feedback, rubrics, examples, or reward data.
 - Episode 149 adds that research taste can be trained through explicit prediction, surprise tracking, and process capture before it becomes model data for [[AIForAI]].
+- Sheng Ying's source adds that taste also includes refusing work that cannot produce genuine attention, while accepting that an intense problem fit can produce unusually strong execution.
 
 ## Connections
+- [[ShengYing|盛颖 / Sheng Ying]], [[SGLang]], [[FormalVerification]], [[SMTSolver|SMT solver]], and [[AIInfrastructureAsProduct]] - source-247 interest, rigor, and infrastructure path.
 - [[XieSaining]] and [[KaimingHe]] — source speaker and main exemplar.
 - [[RepresentationLearning]], [[SelfSupervisedLearning]], and [[DiffusionTransformers]] — research domains where the method is applied.
 - [[ProblemDefinitionInResearch]] — adjacent ability to define what is worth solving.

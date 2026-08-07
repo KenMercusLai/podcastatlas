@@ -2,11 +2,13 @@
 title: "Inference Acceleration Stack"
 type: concept
 tags: [ai, inference, infrastructure, optimization]
-sources: [148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13]
+sources: [e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668, 148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13]
 last_updated: 2026-08-08
 ---
 
 # Inference Acceleration Stack
+
+[[e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668]] adds [[SGLang]] as a production inference-engine case. The source's acceleration frame is not only faster kernels; it includes [[RadixAttention]], [[PrefixCaching]], request/state reuse for agents, and [[DayZeroModelSupport]] when new model architectures reach users.
 
 Inference acceleration stack is [[ZhangJintao]]'s three-layer explanation in [[kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13]]. The first layer speeds specific operators such as Attention and linear layers; the second reduces model computation through distillation, sparse attention, and lower sampling steps; the third optimizes deployment through multi-card parallelism, communication-compute overlap, request scheduling, and cluster operations.
 
@@ -21,8 +23,10 @@ The source matters because it ties [[AIInferenceCostStructure]] to product exper
 - Future gains may depend more on hardware-algorithm co-design as single-operator optimization converges.
 - A purely algorithmic speedup may have a weak moat if hardware, compiler, and deployment context are ignored.
 - Maintained inference engines can be part of the acceleration stack because they absorb changing model structures, hardware features, and agent workload patterns across many users.
+- SGLang adds prefix-reuse data structures and launch-day model adaptation as acceleration work that users experience as reliability and cost control.
 
 ## Connections
+- [[SGLang]], [[RadixAttention]], [[DayZeroModelSupport]], and [[AIInfrastructureAsProduct]] - source-247 production inference-engine branch.
 - [[SageAttention]], [[TurboDiffusion]], and [[StreamingVideoGeneration]] — source examples.
 - [[AIInferenceCostStructure]], [[MaaSInfrastructure]], and [[ModelRoutingCostControl]] — serving and economics context.
 - [[GPU]], [[AIChipSpecialization]], [[HighThroughputInferenceBatching]], and [[LowLatencyInferenceChip]] — hardware and workload context.

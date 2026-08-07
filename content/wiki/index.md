@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”](sources/e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668.md) — 硅谷101 episode with Sheng Ying on SGLang, xAI inference work, Redix ARK, AI infrastructure as product, Radix Attention, LM-SYS, open source, and AI democratization.
 - [176.纽约一年：一个悲观主义者的活法｜725沙龙实录](sources/176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah.md) — 起朱楼宴宾客 live 725沙龙 episode with David Weng and Ouyang Bin on New York as a salad-like city, U.S./Japan/China time sense, globalization split, overseas Chinese opportunity, content creation, AI entry-level pressure, and uncertainty-era asset/life optionality.
 - [In arms’ way: Gaza-deal sticking points](sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74.md) — The Intelligence episode on Gaza deal sequencing, verification, technocratic governance, America's full-time self-employment boom, AI-enabled founders, and radio's resilience across Africa.
 - [177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？](sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1.md) — LateTalk technical episode with Zhao Chenyang and Zeng Zhiyuan on Kimi K3 architecture, KDA, Attention Residues, MoE routing, Per-Head Muon, MOPD, AgentIn, kernel agents, open-weight boundaries, and closed-lab valuation pressure.
@@ -907,6 +908,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [盛颖 / Sheng Ying](entities/ShengYing.md) — Redix ARK co-founder and SGLang researcher connecting formal verification, xAI inference work, open source, and AI infrastructure as product.
+- [SGLang](entities/SGLang.md) — Open-source production inference engine tied to Sheng Ying, LM-SYS, xAI infrastructure work, Radix Attention, and Redix ARK.
+- [LM-SYS](entities/LMSYS.md) — Open AI research/community institution linked to Sheng Ying, Lian Min, SGLang, LM Arena, and democratized access to AI projects.
+- [LM Arena](entities/LMArena.md) — LM-SYS evaluation/community project that grew from an unexpected open project toward broader commercial-scale operation.
+- [连敏 / Lian Min](entities/LianMin.md) — Source-scoped Sheng Ying collaborator in LM-SYS and xAI support for SGLang/inference work.
+- [Clarke Barrett](entities/ClarkeBarrett.md) — Stanford formal-methods advisor in Sheng Ying's PhD path, linked to SMT solver work and supportive research mentoring.
+- [Two Sigma](entities/TwoSigma.md) — Finance and technology workplace in Sheng Ying's pre-PhD path, contrasted with her later open AI-infrastructure work.
 - [纽约漫谈录 / Niuyue Mantanlu](entities/NiuyueMantanlu.md) — New York-facing Chinese-language podcast/project context for Ouyang Bin's 725沙龙 live conversation with David Weng.
 - [Board of Peace](entities/BoardOfPeace.md) — Proposed Gaza-plan body whose timetable clarification still leaves sequencing, verification, and authority unresolved.
 - [National Committee for Administration of Gaza](entities/NationalCommitteeForAdministrationOfGaza.md) — Proposed Palestinian technocratic administration whose timing, territory, and powers remain unclear.
@@ -919,7 +927,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Senegal](entities/Senegal.md) — Country trialing DAB radio as part of African radio capacity expansion.
 - [Zhao Chenyang / 赵晨阳](entities/ZhaoChenyang.md) — Infrastructure-side LateTalk guest explaining Kimi K3 serving, KDA state, kernel agents, AgentIn, and open-weight release boundaries.
 - [Zeng Zhiyuan / 曾志远](entities/ZengZhiyuan.md) — Algorithm-side LateTalk guest explaining Kimi K3 architecture, NoPE, Attention Residues, quantile balancing, Per-Head Muon, MOPD, and distillation.
-- [Radix ARC / Ridix ARC](entities/RadixARC.md) — Source-scoped AI infrastructure/open-weight organization associated with Zhao Chenyang and the July 24 open-weights letter.
+- [Redix ARK / Radix ARC](entities/RadixARC.md) — AI infrastructure company/source-scoped organization tied to Sheng Ying, SGLang, and an earlier Radix/Ridix transcript spelling ambiguity.
 - [AgentIn](entities/AgentIn.md) — Kimi K3 open agent environment connecting sandbox isolation, partial rollout, Agent RL, and train/deploy consistency.
 - [Kimi Linear](entities/KimiLinear.md) — Smaller Kimi model/predecessor whose linear-attention and NoPE experiments informed Kimi K3's hybrid attention scale-up.
 - [Ceuta](entities/Ceuta.md) — Spanish enclave where a court ruling, Moroccan border pressure, and EU migration politics converged.
@@ -6187,6 +6195,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Infrastructure As Product](concepts/AIInfrastructureAsProduct.md) — Sheng Ying's infra-first frame where serving engines, RL rollout, sandboxes, and tools are product surfaces, not only support layers.
+- [Radix Attention](concepts/RadixAttention.md) — SGLang prefix-reuse mechanism using a radix tree to reuse KV cache across shared dialogue and agent contexts.
+- [Day-Zero Model Support](concepts/DayZeroModelSupport.md) — Inference-infrastructure requirement that new model architectures be usable on launch day.
+- [Open-Source AI Democratization](concepts/OpenSourceAIDemocratization.md) — Sheng Ying's view that open tools and communities should distribute strong AI capability beyond a few closed labs.
+- [SMT Solver](concepts/SMTSolver.md) — Formal-methods solver concept connecting Sheng Ying's Stanford verification work to later AI infrastructure rigor.
 - [New York Salad-Bowl Multiculturalism / 纽约沙拉式多元](concepts/NewYorkSaladBowlMulticulturalism.md) — New York city-diversity frame where groups coexist in one place without fully melting into one identity.
 - [Uncertain-Era Optionality / 乱纪元选择权](concepts/UncertainEraOptionality.md) — David Weng's answer to unpredictable macro conditions: preserve asset, mobility, skill, and life choices rather than relying on forecasts.
 - [Split Globalization / 分裂的全球化](concepts/SplitGlobalization.md) — Distinction between retreating production globalization and accelerating cultural circulation through social media, algorithms, and AI.

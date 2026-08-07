@@ -2,11 +2,13 @@
 title: "High Responsibility Density"
 type: concept
 tags: [organization, engineering, spacex, management]
-sources: [145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
+sources: [e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
 last_updated: 2026-07-08
 ---
 
 # High Responsibility Density
+
+[[e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668]] adds an [[XAI|xAI]] and founder-management version through [[ShengYing|盛颖]]. She says a lesson from xAI was that authority and responsibility have to match; after founding [[RadixARC|Redix ARK]], she could no longer avoid decisions because she also owned the results.
 
 High responsibility density is the source's organization pattern where a small number of capable people own large scopes across design, procurement, production, and outcomes. In [[145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]], [[LouisHong]] says early [[SpaceX]] had roughly a thousand people doing work that traditional aerospace organizations might assign to far larger teams.
 
@@ -17,8 +19,10 @@ The pattern is powerful but costly. The episode links it to fast learning, low h
 - The model favors learning speed, hands-on ability, and adaptability over credential seniority alone.
 - It pairs with [[FirstPrinciplesManufacturing]] because unconventional cost or process changes require tight feedback from idea to part.
 - It can create high human cost through intense work hours, pressure, and rapid turnover.
+- E247 adds the governance version: responsibility density works only if decision authority is explicit enough for the owner to act and be accountable.
 
 ## Connections
+- [[ShengYing|盛颖 / Sheng Ying]], [[XAI|xAI]], [[RadixARC|Redix ARK]], and [[AIOrganizationDesign]] - source-247 authority/responsibility branch.
 - [[SpaceX]], [[LouisHong]], and [[ElonMusk]] — source context for the pattern.
 - [[Falcon9]] and [[DragonSpacecraft]] — systems where the organization pattern appears.
 - [[FirstPrinciplesManufacturing]] and [[ReusableRocketEconomics]] — engineering and economic reasons the pattern matters.

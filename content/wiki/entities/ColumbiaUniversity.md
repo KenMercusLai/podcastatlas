@@ -2,11 +2,13 @@
 title: "Columbia University"
 type: entity
 tags: [university, medicine, mental-health, education, anthropology]
-sources: [141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]
-last_updated: 2026-08-07
+sources: [e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]
+last_updated: 2026-08-08
 ---
 
 # Columbia University
+
+[[e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668]] adds Columbia through [[ShengYing|盛颖]]'s master's-stage transition. The source says she first accepted a Hong Kong PhD offer, then chose Columbia to see the United States, where coursework and theory-oriented peers pulled her toward research before her later [[StanfordUniversity|Stanford]] PhD.
 
 [[141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]] adds Columbia through [[ColumbiaJournalismSchool|Columbia Journalism School]], where [[DavidWeng|大卫翁]] is invited as a visiting scholar after years of [[QizhulouYanBinke|起朱楼宴宾客]] podcast work. This extends Columbia from a clinical, student, and anthropology node into a journalism and media-research setting around [[CreatorDrivenFinancialNarrative]] and [[PodcastEnabledCareerPath]].
 
@@ -28,3 +30,4 @@ The Columbia link matters because the source is not only a technology-consumer s
 - [[JackRaoJiewu|Jack 饶街五]], [[NYU]], and [[CollegeCareerPreparation]] - E236 student and career-preparation context.
 - [[HenriettaSchmerler]], [[RuthBenedict]], [[MargaretMead]], and [[FranzBoas]] - anthropology fieldwork and institutional-response branch.
 - [[JunhaoWen]], [[UKBiobank]], [[OrganSpecificAgingClock]], and [[PopulationLevelHealthAdvice]] - sleep-duration research branch added by The Intelligence.
+- [[ShengYing|盛颖 / Sheng Ying]], [[TwoSigma]], [[StanfordUniversity|Stanford University]], and [[ResearchTaste]] - E247's graduate-school and research-entry branch.

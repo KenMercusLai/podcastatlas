@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-08] ingest | E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”
+
+Added source page for a 硅谷101 episode with 盛颖 on SGLang, xAI inference work, Redix ARK, Radix Attention, day-zero model support, AI infrastructure as product, LM-SYS, LM Arena, open-source trust, and democratized access to strong AI. Created pages for 盛颖 / Sheng Ying, SGLang, LM-SYS, LM Arena, 连敏 / Lian Min, Clarke Barrett, Two Sigma, AI Infrastructure As Product, Radix Attention, Day-Zero Model Support, Open-Source AI Democratization, and SMT Solver; updated overview, index, 硅谷101, xAI, Grok, Redix ARK / Radix ARC, Google, Stanford University, Columbia University, Model-Infra Co-Design, Open Source AI Infrastructure, Inference Acceleration Stack, Agent Inference Workload, Prefix Caching, Agent RL, Formal Verification, Research Taste, Open Source Community Commercialization, AI Infrastructure Full-Stack Moat, Open Source Infrastructure Trust, High Responsibility Density, and Gendered Creator Confidence. No direct contradiction found; the source qualifies existing xAI risk coverage with a first-person early-team account while extending open AI infrastructure from vLLM/Infract into the SGLang/Redix ARK path.
+
 ## [2026-08-08] ingest | 176.纽约一年：一个悲观主义者的活法｜725沙龙实录
 
 Added source page for a 起朱楼宴宾客 live 725沙龙 conversation hosted by 欧阳斌 of 纽约漫谈录 with 大卫翁 on one year in New York, U.S./Japan/China time sense, salad-bowl urban diversity, globalization splitting between production and culture, overseas Chinese opportunity, finance exit, creator feedback, AI entry-level pressure, China excess-savings reallocation, exchange-rate/base-currency thinking, and uncertainty-era optionality. Created pages for 纽约漫谈录, New York Salad-Bowl Multiculturalism, Uncertain-Era Optionality, Split Globalization, Base Currency Thinking, and Cycle Worldview; updated overview, index, 起朱楼宴宾客, 大卫翁, 欧阳斌, 725沙龙, New York City, United States, China, Japan, Asset Allocation, Structure Over Prediction, Life Antifragility, Investment Worldview Fit, Currency Risk, Entry-Level AI Career-Ladder Risk, Investment Cooldown Discipline, Podcast-Enabled Career Path, Output-Forced Input, and China Excess Savings Reallocation. No direct contradiction found; the source extends the wiki's random-world/asset-allocation branch by making mobility, base currency, and lived overseas observation part of the same risk posture.
@@ -7257,3 +7261,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 10,348 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL`, `ANTHROPIC_API_KEY`, `OPENAI_API_KEY`, and `LITELLM_API_KEY` are unset in the shell. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -2,11 +2,13 @@
 title: "Agent RL"
 type: concept
 tags: [agents, reinforcement-learning, infrastructure]
-sources: [xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, yao-shunyu-laidao-tengxun-300tian-1-176-1, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
+sources: [e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, yao-shunyu-laidao-tengxun-300tian-1-176-1, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
 last_updated: 2026-08-08
 ---
 
 # Agent RL
+
+[[e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668]] adds [[RadixARC|Redix ARK]]'s company focus on inference and RL. [[ShengYing|盛颖]] argues that RL rollout engines overlap heavily with inference engines, so a company building full AI infrastructure has reason to handle both serving and training-environment execution.
 
 [[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] adds [[AgentIn]] as a K3-specific agent-RL environment case. The source says K3 uses stronger sandbox isolation, partial rollout for long-running trajectories, and train/inference consistency ideas such as QAT alignment so the model sampled during RL better matches the model served in use.
 
@@ -30,8 +32,10 @@ The source treats Agent RL as harder and messier than ordinary post-training bec
 - B2B sourcing adds delayed but valuable reward signals because the platform can observe whether an idea became a transaction and whether the buyer kept purchasing.
 - Tencent's Hunyuan case adds that Agent RL can be an internal platform spanning multiple products, not only a lab experiment or startup framework.
 - K3's AgentIn case adds that isolation and partial-rollout scheduling can be training infrastructure, not only production sandboxing.
+- Redix ARK adds that inference and RL may be business-adjacent infrastructure layers because rollout, scheduling, sandboxing, and model serving reuse the same engineering foundation.
 
 ## Connections
+- [[RadixARC|Redix ARK]], [[ShengYing|盛颖 / Sheng Ying]], [[SGLang]], and [[AIInfrastructureAsProduct]] - source-247 inference/RL company branch.
 - [[AgentPostTraining]] — broader training frame that includes Agent RL.
 - [[OpenClaw]], [[OpenCloud]], and [[AgentHarness]] — framework and environment layer.
 - [[MemoVR]], [[Xiaomi]], and [[LuoFuli]] — source model-team context.

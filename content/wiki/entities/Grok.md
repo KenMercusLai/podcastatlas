@@ -2,11 +2,13 @@
 title: "Grok"
 type: entity
 tags: [ai, model, xai, musk]
-sources: [tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
-last_updated: 2026-08-07
+sources: [e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668, tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
+last_updated: 2026-08-08
 ---
 
 # Grok
+
+[[e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668]] adds Grok through its serving infrastructure rather than its chatbot behavior. [[ShengYing|盛颖]] says her xAI work involved inference systems for Grok, making Grok a downstream product whose user experience and cost depend on [[SGLang]], [[AgentInferenceWorkload]], and [[InferenceAccelerationStack]]-style serving concerns.
 
 [[tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128]] mentions Grok only briefly as a recent example of chatbot behavior problems while [[JanelleShane]] discusses fragile safety and behavior tuning. The source does not add a detailed Grok case, but it places Grok in the same broad product-risk frame as [[ChatbotMemorySalienceFailure]] and [[ChatbotSafetyGuardrailDecay]].
 
@@ -22,6 +24,7 @@ The source's Grok thesis is explicitly forward-looking. It suggests that Grok co
 
 ## Connections
 - [[XAI]] — company behind Grok in the source.
+- [[ShengYing|盛颖 / Sheng Ying]], [[SGLang]], [[AgentInferenceWorkload]], and [[InferenceAccelerationStack]] - E247's serving-infrastructure branch.
 - [[JanelleShane]], [[ChatbotMemorySalienceFailure]], and [[ChatbotSafetyGuardrailDecay]] - brief July 2026 Marketplace Tech mention in the context of chatbot behavior tuning.
 - [[Twitter|X]], [[AINonConsensualIntimateImageAbuse]], and [[ChatbotGeneratedContentLiability]] - January 2026 Marketplace Tech abuse and liability branch.
 - [[TakeItDownAct|Take It Down Act]], [[DefianceAct|Defiance Act]], and [[Section230]] - legal context added by the January 9, 2026 source.

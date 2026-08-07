@@ -1679,6 +1679,10 @@
     "title": "AI Infra Crypto Analogy",
     "url": "/wiki/concepts/aiinfracryptoanalogy/"
   },
+  "AIInfrastructureAsProduct": {
+    "title": "AI Infrastructure As Product",
+    "url": "/wiki/concepts/aiinfrastructureasproduct/"
+  },
   "AIInfrastructureDebtFinancing": {
     "title": "AI Infrastructure Debt Financing",
     "url": "/wiki/concepts/aiinfrastructuredebtfinancing/"
@@ -7915,6 +7919,10 @@
     "title": "Clark (Creo)",
     "url": "/wiki/entities/clarkcreo/"
   },
+  "ClarkeBarrett": {
+    "title": "Clarke Barrett",
+    "url": "/wiki/entities/clarkebarrett/"
+  },
   "ClarksonsFarm": {
     "title": "《克拉克森的农场》 / Clarkson's Farm",
     "url": "/wiki/entities/clarksonsfarm/"
@@ -9878,6 +9886,10 @@
   "Daxiong": {
     "title": "大雄",
     "url": "/wiki/entities/daxiong/"
+  },
+  "DayZeroModelSupport": {
+    "title": "Day-Zero Model Support",
+    "url": "/wiki/concepts/dayzeromodelsupport/"
   },
   "DazaiOsamu": {
     "title": "太宰治 / Osamu Dazai",
@@ -19967,6 +19979,14 @@
     "title": "LLM World Model Gap",
     "url": "/wiki/concepts/llmworldmodelgap/"
   },
+  "LMArena": {
+    "title": "LM Arena",
+    "url": "/wiki/entities/lmarena/"
+  },
+  "LMSYS": {
+    "title": "LM-SYS",
+    "url": "/wiki/entities/lmsys/"
+  },
   "LOVOT": {
     "title": "LOVOT",
     "url": "/wiki/entities/lovot/"
@@ -20698,6 +20718,10 @@
   "LianKuoru": {
     "title": "连阔如 / Lian Kuoru",
     "url": "/wiki/entities/liankuoru/"
+  },
+  "LianMin": {
+    "title": "连敏 / Lian Min",
+    "url": "/wiki/entities/lianmin/"
   },
   "LiangHuiWang": {
     "title": "梁惠王 / King Hui of Liang",
@@ -25527,6 +25551,10 @@
     "title": "Open Shared Mythos",
     "url": "/wiki/concepts/opensharedmythos/"
   },
+  "OpenSourceAIDemocratization": {
+    "title": "Open-Source AI Democratization",
+    "url": "/wiki/concepts/opensourceaidemocratization/"
+  },
   "OpenSourceAIInfrastructure": {
     "title": "Open Source AI Infrastructure",
     "url": "/wiki/concepts/opensourceaiinfrastructure/"
@@ -28480,8 +28508,12 @@
     "url": "/wiki/concepts/radiopharmaceuticaldrugconjugates/"
   },
   "RadixARC": {
-    "title": "Radix ARC / Ridix ARC",
+    "title": "Redix ARK / Radix ARC",
     "url": "/wiki/entities/radixarc/"
+  },
+  "RadixAttention": {
+    "title": "Radix Attention",
+    "url": "/wiki/concepts/radixattention/"
   },
   "RafaelParker": {
     "title": "Rafael Parker",
@@ -29995,6 +30027,10 @@
     "title": "SF Holding / 顺丰控股",
     "url": "/wiki/entities/sfholding/"
   },
+  "SGLang": {
+    "title": "SGLang",
+    "url": "/wiki/entities/sglang/"
+  },
   "SKHynix": {
     "title": "SK Hynix",
     "url": "/wiki/entities/skhynix/"
@@ -30006,6 +30042,10 @@
   "SMIC": {
     "title": "SMIC",
     "url": "/wiki/entities/smic/"
+  },
+  "SMTSolver": {
+    "title": "SMT Solver",
+    "url": "/wiki/concepts/smtsolver/"
   },
   "SOC2Audit": {
     "title": "SOC 2 Audit",
@@ -31102,6 +31142,10 @@
   "ShenZhenwen": {
     "title": "沈真文 / Shen Zhenwen",
     "url": "/wiki/entities/shenzhenwen/"
+  },
+  "ShengYing": {
+    "title": "盛颖 / Sheng Ying",
+    "url": "/wiki/entities/shengying/"
   },
   "ShengdongHuopo": {
     "title": "声动活泼",
@@ -35114,6 +35158,10 @@
   "TwoRoundPresidentialElection": {
     "title": "Two-Round Presidential Election",
     "url": "/wiki/concepts/tworoundpresidentialelection/"
+  },
+  "TwoSigma": {
+    "title": "Two Sigma",
+    "url": "/wiki/entities/twosigma/"
   },
   "TwoWorldsOfRedChamberDream": {
     "title": "《红楼梦的两个世界》 / Two Worlds of Dream of the Red Chamber",
@@ -39322,6 +39370,10 @@
   "e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41": {
     "title": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿",
     "url": "/wiki/sources/e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41/"
+  },
+  "e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668": {
+    "title": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
+    "url": "/wiki/sources/e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668/"
   },
   "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0": {
     "title": "E42 孟岩对话韦青：沉默的主角",
