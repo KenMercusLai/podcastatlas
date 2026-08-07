@@ -1923,6 +1923,10 @@
     "title": "AS Beauty",
     "url": "/wiki/entities/asbeauty/"
   },
+  "ASEAN": {
+    "title": "ASEAN",
+    "url": "/wiki/entities/asean/"
+  },
   "ASICS": {
     "title": "ASICS",
     "url": "/wiki/entities/asics/"
@@ -3950,6 +3954,10 @@
   "AugustDerleth": {
     "title": "August Derleth / 阿古斯特·德雷斯",
     "url": "/wiki/entities/augustderleth/"
+  },
+  "AungSanSuuKyi": {
+    "title": "Aung San Suu Kyi",
+    "url": "/wiki/entities/aungsansuukyi/"
   },
   "AuspiciousOmenPolitics": {
     "title": "Auspicious Omen Politics / 祥瑞政治",
@@ -6987,6 +6995,10 @@
     "title": "Choice-Triggered Attention Boundary",
     "url": "/wiki/concepts/choicetriggeredattentionboundary/"
   },
+  "ChokepointLogisticsRerouting": {
+    "title": "Chokepoint Logistics Rerouting",
+    "url": "/wiki/concepts/chokepointlogisticsrerouting/"
+  },
   "ChokepointShippingConfidence": {
     "title": "Chokepoint Shipping Confidence",
     "url": "/wiki/concepts/chokepointshippingconfidence/"
@@ -9230,6 +9242,10 @@
   "DemocracyInAmerica": {
     "title": "Democracy in America",
     "url": "/wiki/concepts/democracyinamerica/"
+  },
+  "DemocraticIconComplexLegacy": {
+    "title": "Democratic Icon Complex Legacy",
+    "url": "/wiki/concepts/democraticiconcomplexlegacy/"
   },
   "DemocraticParty": {
     "title": "Democratic Party",
@@ -11906,6 +11922,10 @@
   "FinancialGravity": {
     "title": "Financial Gravity",
     "url": "/wiki/concepts/financialgravity/"
+  },
+  "FinancialHubCredibilityGap": {
+    "title": "Financial Hub Credibility Gap",
+    "url": "/wiki/concepts/financialhubcredibilitygap/"
   },
   "FinancialInstitutionTrustTransmission": {
     "title": "Financial Institution Trust Transmission / 金融机构信任传导",
@@ -16395,6 +16415,10 @@
     "title": "Istanbul / 伊斯坦布尔",
     "url": "/wiki/entities/istanbul/"
   },
+  "IstanbulFinancialCenter": {
+    "title": "Istanbul Financial Center",
+    "url": "/wiki/entities/istanbulfinancialcenter/"
+  },
   "ItaiTaeko": {
     "title": "板井太子",
     "url": "/wiki/entities/itaitaeko/"
@@ -16810,6 +16834,10 @@
   "JasonFurman": {
     "title": "Jason Furman",
     "url": "/wiki/entities/jasonfurman/"
+  },
+  "JasonPalmer": {
+    "title": "Jason Palmer",
+    "url": "/wiki/entities/jasonpalmer/"
   },
   "JeanClaudeBiver": {
     "title": "Jean-Claude Biver",
@@ -17607,6 +17635,10 @@
     "title": "Julian Weber",
     "url": "/wiki/entities/julianweber/"
   },
+  "JulieBishop": {
+    "title": "Julie Bishop",
+    "url": "/wiki/entities/juliebishop/"
+  },
   "JulieDAubigny": {
     "title": "Julie d'Aubigny / Mademoiselle de Maupin / 莫庞小姐",
     "url": "/wiki/entities/juliedaubigny/"
@@ -17642,6 +17674,10 @@
   "JungianArchetypalReading": {
     "title": "Jungian Archetypal Reading / 荣格式原型阅读",
     "url": "/wiki/concepts/jungianarchetypalreading/"
+  },
+  "JunhaoWen": {
+    "title": "Junhao Wen",
+    "url": "/wiki/entities/junhaowen/"
   },
   "Junior": {
     "title": "Junior",
@@ -18046,6 +18082,10 @@
   "Kiko": {
     "title": "Kiko",
     "url": "/wiki/entities/kiko/"
+  },
+  "KimEris": {
+    "title": "Kim Eris",
+    "url": "/wiki/entities/kimeris/"
   },
   "KimPhilby": {
     "title": "Kim Philby / 金·菲尔比",
@@ -20887,6 +20927,10 @@
     "title": "Megvii",
     "url": "/wiki/entities/megvii/"
   },
+  "MehmetSimsek": {
+    "title": "Mehmet Simsek",
+    "url": "/wiki/entities/mehmetsimsek/"
+  },
   "MeijiIntellectualPrecarity": {
     "title": "Meiji Intellectual Precarity",
     "url": "/wiki/concepts/meijiintellectualprecarity/"
@@ -21203,6 +21247,10 @@
     "title": "Michael Foot / 迈克尔·富特",
     "url": "/wiki/entities/michaelfoot/"
   },
+  "MichaelGrandner": {
+    "title": "Michael Grandner",
+    "url": "/wiki/entities/michaelgrandner/"
+  },
   "MichaelLaSara": {
     "title": "Michael LaSara",
     "url": "/wiki/entities/michaellasara/"
@@ -21402,6 +21450,10 @@
   "MimeticCompetitionAvoidance": {
     "title": "Mimetic Competition Avoidance",
     "url": "/wiki/concepts/mimeticcompetitionavoidance/"
+  },
+  "MinAungHlaing": {
+    "title": "Min Aung Hlaing",
+    "url": "/wiki/entities/minaunghlaing/"
   },
   "MinamiIoto": {
     "title": "南硫磺岛 / Minami Ioto",
@@ -22047,6 +22099,14 @@
     "title": "《龙猫》 / My Neighbor Totoro",
     "url": "/wiki/entities/myneighbortotoro/"
   },
+  "Myanmar": {
+    "title": "Myanmar",
+    "url": "/wiki/entities/myanmar/"
+  },
+  "MyanmarMilitaryJunta": {
+    "title": "Myanmar Military Junta",
+    "url": "/wiki/entities/myanmarmilitaryjunta/"
+  },
   "MyceliumInsulation": {
     "title": "Mycelium Insulation",
     "url": "/wiki/concepts/myceliuminsulation/"
@@ -22183,6 +22243,10 @@
     "title": "Napster",
     "url": "/wiki/entities/napster/"
   },
+  "NarendraModi": {
+    "title": "Narendra Modi",
+    "url": "/wiki/entities/narendramodi/"
+  },
   "NarkinaFive": {
     "title": "Narkina Five",
     "url": "/wiki/entities/narkinafive/"
@@ -22266,6 +22330,10 @@
   "NationalInformationNetwork": {
     "title": "National Information Network",
     "url": "/wiki/entities/nationalinformationnetwork/"
+  },
+  "NationalLeagueForDemocracy": {
+    "title": "National League for Democracy",
+    "url": "/wiki/entities/nationalleaguefordemocracy/"
   },
   "NationalPopularVoteInterstateCompact": {
     "title": "National Popular Vote Interstate Compact",
@@ -22802,6 +22870,10 @@
   "NonsenseLogic": {
     "title": "Nonsense Logic",
     "url": "/wiki/concepts/nonsenselogic/"
+  },
+  "NonviolentSymbolicPower": {
+    "title": "Nonviolent Symbolic Power",
+    "url": "/wiki/concepts/nonviolentsymbolicpower/"
   },
   "NooraHealth": {
     "title": "Noora Health",
@@ -23499,6 +23571,10 @@
     "title": "Oren Cass",
     "url": "/wiki/entities/orencass/"
   },
+  "OrganSpecificAgingClock": {
+    "title": "Organ-Specific Aging Clock",
+    "url": "/wiki/concepts/organspecificagingclock/"
+  },
   "OrganizationalContext": {
     "title": "Organizational Context",
     "url": "/wiki/concepts/organizationalcontext/"
@@ -23646,6 +23722,10 @@
   "OvarianCancerDiagnostics": {
     "title": "Ovarian Cancer Diagnostics",
     "url": "/wiki/concepts/ovariancancerdiagnostics/"
+  },
+  "OverPersonalizedCrisisDiplomacy": {
+    "title": "Over-Personalized Crisis Diplomacy",
+    "url": "/wiki/concepts/overpersonalizedcrisisdiplomacy/"
   },
   "OverStory": {
     "title": "OverStory",
@@ -24931,6 +25011,10 @@
     "title": "Population Coding",
     "url": "/wiki/concepts/populationcoding/"
   },
+  "PopulationLevelHealthAdvice": {
+    "title": "Population-Level Health Advice",
+    "url": "/wiki/concepts/populationlevelhealthadvice/"
+  },
   "PopulistDemocraticEnergy": {
     "title": "Populist Democratic Energy",
     "url": "/wiki/concepts/populistdemocraticenergy/"
@@ -25490,6 +25574,10 @@
   "PromptAsIntentTransmission": {
     "title": "Prompt As Intent Transmission",
     "url": "/wiki/concepts/promptasintenttransmission/"
+  },
+  "ProofOfLifeDiplomacy": {
+    "title": "Proof of Life Diplomacy",
+    "url": "/wiki/concepts/proofoflifediplomacy/"
   },
   "ProofPointReuse": {
     "title": "Proof Point Reuse",
@@ -27194,6 +27282,10 @@
   "RogueOne": {
     "title": "《侠盗一号》 / Rogue One",
     "url": "/wiki/entities/rogueone/"
+  },
+  "Rohingya": {
+    "title": "Rohingya",
+    "url": "/wiki/entities/rohingya/"
   },
   "Roi": {
     "title": "Roi",
@@ -28983,6 +29075,10 @@
     "title": "Slaughter Welfare",
     "url": "/wiki/concepts/slaughterwelfare/"
   },
+  "SleepAnxietyLoop": {
+    "title": "Sleep Anxiety Loop",
+    "url": "/wiki/concepts/sleepanxietyloop/"
+  },
   "SleepAsDailyHealthAccount": {
     "title": "Sleep As Daily Health Account",
     "url": "/wiki/concepts/sleepasdailyhealthaccount/"
@@ -28990,6 +29086,10 @@
   "SleepAsResistance": {
     "title": "Sleep As Resistance / 睡眠作为抵抗",
     "url": "/wiki/concepts/sleepasresistance/"
+  },
+  "SleepDurationUShape": {
+    "title": "Sleep Duration U-Shape",
+    "url": "/wiki/concepts/sleepdurationushape/"
   },
   "SleepWellPortfolioTest": {
     "title": "Sleep-Well Portfolio Test / 睡眠理论",
@@ -32163,6 +32263,10 @@
     "title": "Tuogu Reform Politics / 托古改制政治",
     "url": "/wiki/concepts/tuogureformpolitics/"
   },
+  "Turkey": {
+    "title": "Turkey",
+    "url": "/wiki/entities/turkey/"
+  },
   "TurnkeyHandsetSolutions": {
     "title": "Turnkey Handset Solutions",
     "url": "/wiki/concepts/turnkeyhandsetsolutions/"
@@ -32254,6 +32358,10 @@
   "UGG": {
     "title": "UGG",
     "url": "/wiki/entities/ugg/"
+  },
+  "UKBiobank": {
+    "title": "UK Biobank",
+    "url": "/wiki/entities/ukbiobank/"
   },
   "UNFI": {
     "title": "UNFI",
@@ -32486,6 +32594,10 @@
   "UnitedKingdom": {
     "title": "United Kingdom",
     "url": "/wiki/entities/unitedkingdom/"
+  },
+  "UnitedNations": {
+    "title": "United Nations",
+    "url": "/wiki/entities/unitednations/"
   },
   "UnitedStates": {
     "title": "United States",
@@ -33294,6 +33406,10 @@
   "WarOfTheWorlds": {
     "title": "The War of the Worlds / 《世界大战》",
     "url": "/wiki/entities/waroftheworlds/"
+  },
+  "WarSpilloverHubOpportunity": {
+    "title": "War Spillover Hub Opportunity",
+    "url": "/wiki/concepts/warspilloverhubopportunity/"
   },
   "WarVisibilityStrategy": {
     "title": "War Visibility Strategy",
@@ -37230,6 +37346,10 @@
   "the-business-of-heated-rivalry": {
     "title": "The Business of Heated Rivalry",
     "url": "/wiki/sources/the-business-of-heated-rivalry/"
+  },
+  "the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f": {
+    "title": "The case of the missing totem: Aung San Suu Kyi",
+    "url": "/wiki/sources/the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f/"
   },
   "the-giant-factory-town-that-might-be-a-giant-mistake": {
     "title": "The giant factory town that might be a giant mistake",

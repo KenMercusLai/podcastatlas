@@ -2,7 +2,7 @@
 title: "Strait of Hormuz"
 type: entity
 tags: [place, geopolitics, shipping]
-sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, how-to-get-through-the-strait-of-hormuz, the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
+sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, how-to-get-through-the-strait-of-hormuz, the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]
 last_updated: 2026-08-07
 ---
 
@@ -30,6 +30,8 @@ In the source, the strait is not only an oil-market chokepoint. It is part of a 
 
 [[the-secret-meeting-that-launched-opec]] adds the oil-market transmission layer through [[KateDurian]]'s discussion of the [[UnitedArabEmirates|UAE]] leaving [[OPEC]]. The source says the UAE's ability to sell extra oil is still constrained if Hormuz disruption prevents Emirati barrels from leaving, and that prices would depend on reopening, reserve rebuilding, tankers, tanks, and refinery stocks rather than only on OPEC membership.
 
+[[the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]] adds the rerouting consequence outside the Gulf. The episode says the closure of the strait tripled volumes through Istanbul's biggest port and pushed more cargo, roads, pipelines, and overland logistics toward [[Turkey]]. That turns the strait into a [[ChokepointLogisticsRerouting]] case as well as a shipping-confidence and oil-market case.
+
 ## Connections
 - [[Iran]] - state actor discussed as controlling passage procedures.
 - [[USIranNuclearDiplomacy]] - deal frame where the strait becomes a bargaining term.
@@ -42,3 +44,4 @@ In the source, the strait is not only an oil-market chokepoint. It is part of a 
 - [[OPEC]], [[UnitedArabEmirates|United Arab Emirates]], [[KateDurian]], and [[OilProducerSupplyCoordination]] - oil-market branch where chokepoint disruption limits the effect of extra production.
 - [[HamidHosseini]], [[SepahNavy]], [[MaritimeChokepointTolling]], [[SanctionsEvasionCryptoPayments]], and [[FreedomOfNavigationTradeOrder]] - Planet Money branch on alleged permission, crypto tolling, and free-navigation risk.
 - [[IranHorizontalEscalation]] - EP251 frame for turning the waterway into insurance, energy, finance, and Gulf-confidence pressure.
+- [[Turkey]], [[Istanbul]], [[ChokepointLogisticsRerouting]], and [[WarSpilloverHubOpportunity]] - rerouting and nearby-hub branch added by the Aung San Suu Kyi episode.

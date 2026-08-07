@@ -2,7 +2,7 @@
 title: "Sleep As Daily Health Account"
 type: concept
 tags: [sleep, health, attention, recovery, midlife]
-sources: [ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]
+sources: [ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]
 last_updated: 2026-08-07
 ---
 
@@ -14,6 +14,8 @@ The episode treats sleep as active work by the body rather than passive shutdown
 
 [[ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix]] adds the cultural and political side of the same bodily limit. The Talk三联 conversation links sleep to [[BedtimeReadingRitual|bedtime reading]], attention repair, high-tech city life, and [[SleepAsResistance|sleep as time that cannot be fully captured by productivity systems]].
 
+[[the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]] adds the population-level sleep-duration branch. The episode connects too little and too much sleep through [[SleepDurationUShape]], uses [[OrganSpecificAgingClock|organ-specific aging clocks]] and [[UKBiobank]] data to estimate lower-seven-hour optima, and then warns through [[PopulationLevelHealthAdvice]] and [[SleepAnxietyLoop]] that exact-number anxiety can itself harm sleep.
+
 ## Key Claims
 - Sleep cannot be stockpiled like savings; the account is charged and spent daily.
 - Duration, regularity, and quality all matter in the source's frame.
@@ -21,6 +23,8 @@ The episode treats sleep as active work by the body rather than passive shutdown
 - The episode's input-control strategy emphasizes fixed wake time, morning light, earlier caffeine, limited weekend drift, darkness, reduced screens, cooler room temperature, and caution around alcohol.
 - Measurement tools can show patterns, but the source treats [[EightSleep|8Sleep]] as notable because it both monitors and changes temperature; that sponsor-linked claim should remain source-scoped.
 - EP258 adds that sleep is not only health recovery; it can also mark a private boundary against continuous stimulation, work, and platform attention.
+- The Intelligence source adds that both unusually short and unusually long sleep durations can correlate with worse health, but causality and individual prescription remain uncertain.
+- Sleep advice can backfire when people worry so much about the right number that they lose sleep.
 
 ## Connections
 - [[MidlifeThreeAccounts]] - parent framework.
@@ -31,3 +35,5 @@ The episode treats sleep as active work by the body rather than passive shutdown
 - [[EnvironmentOverWillpower]] - core method for sleep inputs.
 - [[MuscleAsLongevityInfrastructure]] - sleep supports muscle repair and training benefit.
 - [[TechCultureBiohacking]] - nearby health-optimization culture this source partly resists.
+- [[SleepDurationUShape]], [[OrganSpecificAgingClock]], [[PopulationLevelHealthAdvice]], and [[SleepAnxietyLoop]] - population-level sleep-science branch added by The Intelligence.
+- [[JunhaoWen]], [[MichaelGrandner]], and [[UKBiobank]] - sleep-study researcher, expert, and dataset context.

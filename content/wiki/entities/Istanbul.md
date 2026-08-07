@@ -1,9 +1,9 @@
 ---
 title: "Istanbul / 伊斯坦布尔"
 type: entity
-tags: [city, turkey, literature, borderland]
-sources: [153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296]
-last_updated: 2026-07-15
+tags: [city, turkey, literature, borderland, logistics, finance]
+sources: [153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]
+last_updated: 2026-08-07
 ---
 
 # Istanbul / 伊斯坦布尔
@@ -12,9 +12,12 @@ last_updated: 2026-07-15
 
 Inside the story, Istanbul is not only scenery. Black returns after twelve years and finds familiar streets, inflated prices, devalued money, religious preaching, coffeehouse performance, and family memory all changed. That makes the city a working case for [[BorderlandCulturalIdentity]]: cultural conflict appears through art, faith, money, travel, court patronage, and household desire at the same time.
 
+[[the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]] adds a contemporary logistics and finance branch. The episode presents Istanbul as a [[WarSpilloverHubOpportunity]] during disruption around [[Iran]], Gulf economies, and the [[StraitOfHormuz]]: port volumes, roads, pipelines, shoppers, tourists, and financial meetings can shift toward the city. The same source keeps the new-Dubai story bounded by [[FinancialHubCredibilityGap]] through inflation, investor distrust, infrastructure limits, and political-risk concerns around [[Turkey]].
+
 ## Connections
 - [[OrhanPamuk|奥尔罕·帕慕克]] - novelist whose work is framed through the city.
 - [[MyNameIsRed|《我的名字叫红》]] - novel whose 1590 Istanbul setting carries the episode's cultural conflict.
 - [[OttomanEmpire|Ottoman Empire / 奥斯曼帝国]] - imperial context for the court workshop and religious politics.
 - [[OttomanMiniaturePainting]] and [[FrankishPortraiturePressure]] - art-historical conflict staged in the city.
 - [[BorderlandCulturalIdentity]] - concept grounded by Istanbul's between-worlds role.
+- [[Turkey]], [[StraitOfHormuz]], [[WarSpilloverHubOpportunity]], [[ChokepointLogisticsRerouting]], [[IstanbulFinancialCenter]], and [[FinancialHubCredibilityGap]] - contemporary hub-opportunity branch added by The Intelligence.

@@ -6661,3 +6661,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | The case of the missing totem: Aung San Suu Kyi
+
+Added source page for a The Intelligence episode on Aung San Suu Kyi's unverified condition under Myanmar's junta, Turkey's attempt to turn Gulf and Strait of Hormuz disruption into Istanbul-based logistics and finance advantage, and population-level sleep-duration research. Created pages for Aung San Suu Kyi, Myanmar, Myanmar Military Junta, Min Aung Hlaing, Kim Eris, National League for Democracy, Rohingya, ASEAN, United Nations, Narendra Modi, Julie Bishop, Turkey, Mehmet Simsek, Istanbul Financial Center, Junhao Wen, Michael Grandner, Jason Palmer, UK Biobank, Proof of Life Diplomacy, Democratic Icon Complex Legacy, Nonviolent Symbolic Power, Over-Personalized Crisis Diplomacy, War Spillover Hub Opportunity, Chokepoint Logistics Rerouting, Financial Hub Credibility Gap, Sleep Duration U-Shape, Organ-Specific Aging Clock, Population-Level Health Advice, and Sleep Anxiety Loop; updated overview, index, The Intelligence, Istanbul, Recep Tayyip Erdogan, Columbia University, Strait of Hormuz, and Sleep As Daily Health Account. No direct contradiction found; the source qualifies simple narratives about democratic icons, wartime hub gains, and ideal sleep numbers by keeping each claim source-scoped and scale-aware.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

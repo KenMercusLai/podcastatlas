@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The case of the missing totem: Aung San Suu Kyi](sources/the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f.md) — The Intelligence episode on proof-of-life uncertainty around Aung San Suu Kyi, Turkey's wartime spillover opportunity through Istanbul, and population-level sleep duration guidance.
 - [E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘](sources/e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149.md) — 硅谷101 episode with former TPU engineer Henry on Google TPUs versus Nvidia GPUs, XLA/JAX, TPU Pods, HBM/CoWoS/Broadcom constraints, Anthropic's TPU fit, and why TPU pressure is real but conditional.
 - [A pro-worker experiment in private equity](sources/a-pro-worker-experiment-in-private-equity.md) — Planet Money episode on KKR's broad worker-ownership experiment, contrasting Capital Safety's hidden equity payout with GSI's better-communicated employee ownership and retention case.
 - [We almost had a smartphone in the 90s. Why did it fail?](sources/we-almost-had-a-smartphone-in-the-90s-why-did-it-fail.md) — Planet Money episode on General Magic, the Sony Magic Link, Tony Fadell, and how excess resources, vague customers, feature creep, and weak constraints shaped an early smartphone failure.
@@ -833,6 +834,24 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jason Palmer](entities/JasonPalmer.md) — The Intelligence host introducing the episode's Aung San Suu Kyi, Turkey, and sleep-science segments.
+- [Aung San Suu Kyi](entities/AungSanSuuKyi.md) — Detained Myanmar democratic icon whose unverified condition, flawed legacy, and symbolic power anchor the episode's opening segment.
+- [Myanmar](entities/Myanmar.md) — Country context for the post-2021 coup war, junta detention of Aung San Suu Kyi, and risk of over-personalizing the crisis.
+- [Myanmar Military Junta](entities/MyanmarMilitaryJunta.md) — Military government seeking ASEAN and UN legitimacy while withholding verifiable access to Aung San Suu Kyi.
+- [Min Aung Hlaing](entities/MinAungHlaing.md) — Myanmar junta leader whose response to welfare inquiries shows the political sensitivity of Aung San Suu Kyi's status.
+- [Kim Eris](entities/KimEris.md) — Aung San Suu Kyi's son pressing foreign leaders to demand proof of life from Myanmar's military government.
+- [National League for Democracy](entities/NationalLeagueForDemocracy.md) — Aung San Suu Kyi's party, used by the episode to explain both her democratic mandate and her complicated legacy.
+- [Rohingya](entities/Rohingya.md) — Persecuted Myanmar community central to the episode's critique of Aung San Suu Kyi's record.
+- [ASEAN](entities/ASEAN.md) — Regional diplomatic arena the Myanmar junta wants to re-enter and where access to Aung San Suu Kyi could matter.
+- [United Nations](entities/UnitedNations.md) — Recognition arena where Myanmar is represented by the civilian-government ambassador rather than the junta.
+- [Narendra Modi](entities/NarendraModi.md) — Foreign leader named as asking Min Aung Hlaing about Aung San Suu Kyi's welfare.
+- [Julie Bishop](entities/JulieBishop.md) — Outside diplomatic figure named as raising Aung San Suu Kyi's welfare in May.
+- [Turkey](entities/Turkey.md) — Country trying to turn Gulf and Iran disruption into logistics, tourism, and finance advantage through Istanbul.
+- [Mehmet Simsek](entities/MehmetSimsek.md) — Turkish finance minister whose orthodox-policy credibility is central to investor confidence in the episode.
+- [Istanbul Financial Center](entities/IstanbulFinancialCenter.md) — 2023 financial-services project used as evidence of Turkey's hub ambition and credibility gap.
+- [Junhao Wen](entities/JunhaoWen.md) — Columbia computational neuroscientist named as lead author of the sleep-duration biological-clock study.
+- [Michael Grandner](entities/MichaelGrandner.md) — Sleep expert warning that duration is only one dimension and that people should not obsess over a precise number.
+- [UK Biobank](entities/UKBiobank.md) — Population-scale health dataset used in the episode's sleep-duration and organ-aging-clock study.
 - [Henry (TPU engineer)](entities/HenryTPUEngineer.md) — Former Google TPU engineer in E228 explaining TPU architecture, XLA/JAX, Ironwood, pod-level scaling, HBM, Broadcom, and the limits of TPU/GPU comparison.
 - [Broadcom](entities/Broadcom.md) — TPU implementation partner in E228, tied to ICI, backend work, physical connectivity, mixed-signal expertise, and Google supplier-dependency risk.
 - [Ironwood TPU](entities/IronwoodTPU.md) — Google TPU generation discussed in E228 as a V7-era inference-oriented chip with improved FLOPS and memory bandwidth.
@@ -5663,6 +5682,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Proof of Life Diplomacy](concepts/ProofOfLifeDiplomacy.md) — Diplomatic use of credible access and welfare verification when a detained symbolic figure's condition is uncertain.
+- [Democratic Icon Complex Legacy](concepts/DemocraticIconComplexLegacy.md) — Holding Aung San Suu Kyi's democratic symbolism together with her failures around the Rohingya, debate, and press freedom.
+- [Nonviolent Symbolic Power](concepts/NonviolentSymbolicPower.md) — Political force a detained figure can retain through legitimacy and loyalty rather than armed command.
+- [Over-Personalized Crisis Diplomacy](concepts/OverPersonalizedCrisisDiplomacy.md) — Risk that international attention to one famous detainee displaces a broader country's suffering and accountability needs.
+- [War Spillover Hub Opportunity](concepts/WarSpilloverHubOpportunity.md) — Upside a nearby city can capture when conflict redirects cargo, tourism, meetings, and capital attention.
+- [Chokepoint Logistics Rerouting](concepts/ChokepointLogisticsRerouting.md) — Movement of cargo, roads, pipelines, and overland routes toward alternatives when a strategic passage becomes unreliable.
+- [Financial Hub Credibility Gap](concepts/FinancialHubCredibilityGap.md) — Distance between a city's hub ambition and the macro, legal, infrastructure, and political trust required for durable capital migration.
+- [Sleep Duration U-Shape](concepts/SleepDurationUShape.md) — Population-level pattern where both short and long sleep durations are associated with worse health outcomes.
+- [Organ-Specific Aging Clock](concepts/OrganSpecificAgingClock.md) — Biological-clock method estimating aging signals across body parts and used in the episode's sleep-duration study.
+- [Population-Level Health Advice](concepts/PopulationLevelHealthAdvice.md) — Using large-cohort health findings as guardrails without turning them into exact individual prescriptions.
+- [Sleep Anxiety Loop](concepts/SleepAnxietyLoop.md) — Pattern where worry about the right amount of sleep becomes a cause of lost sleep.
 - [XLA Compiler](concepts/XLACompiler.md) — Google compiler layer in E228 that optimizes TPU graphs through static compilation, fusion, memory planning, and system-aware scheduling while raising debugging barriers.
 - [TPU Pod System Optimization](concepts/TPUPodSystemOptimization.md) — E228 frame that TPU performance depends on pods, ICI/3D Torus-style communication, XLA, topology, and data-center deployment rather than a single chip.
 - [ASIC Workload Prediction Risk](concepts/ASICWorkloadPredictionRisk.md) — E228 risk that specialized accelerators gain from stable Transformer-like workloads but suffer when model architectures change faster than chip cycles.
