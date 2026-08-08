@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青](sources/cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi.md) — 42章经 episode with Meng Fanqing on post-training as data work, environment-based agent benchmarks, synthetic agent data, distillation as accelerator, RSI data, and Evolvent AI's bridge between model labs and applications.
 - [EP273 NPC还是NPD，都别想拿走我们人生的遥控器](sources/ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf.md) — Talk三联 episode with psychotherapist 龚学平 on NPD as popular relationship-pain language, narcissistic relational control, self-worth judgment transfer, childhood survival rules, therapy pacing, and taking action rights back.
 - [Older workers aren't retiring. Should they be forced to?](sources/older-workers-arent-retiring-should-they-be-forced-to.md) — Planet Money episode on older-worker delayed retirement, career mobility bottlenecks, mandatory retirement, lump-of-labor objections, and phased succession.
 - [Outsider chance: ending Sudan's proxy war](sources/outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132.md) — The Intelligence episode on Sudan's foreign-backed war and ceasefire obstacles, the Gordie Howe Bridge trade dispute, and Betye Saar's assemblage art.
@@ -922,6 +923,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Meng Fanqing / 孟繁青](entities/MengFanqing.md) — Evolvent AI co-founder and NUS PhD student connecting post-training, synthetic data, environment benchmarks, distillation, and RSI data.
+- [Evolvent AI](entities/EvolventAI.md) — RSI-focused startup positioned between model labs and application companies through synthetic data, benchmarks, and model-improvement traces.
+- [RSIbench-data](entities/RSIBenchData.md) — Evolvent AI benchmark/data project for exploring data-level recursive self-improvement.
 - [龚学平 / Gong Xueping](entities/GongXueping.md) — Beijing psychotherapist interviewed by Talk三联 on popular NPD language, relational control, therapy pacing, and recovering self-worth judgment.
 - [Samuel Moyn](entities/SamuelMoyn.md) — Yale historian and law professor arguing that older incumbency in powerful, comfortable roles can block younger workers' opportunity.
 - [Olivia S. Mitchell](entities/OliviaSMitchell.md) — Wharton retirement economist making the lump-of-labor and retirement-security counterargument to broad forced retirement.
@@ -6311,6 +6315,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Environment-Based Agent Benchmarks](concepts/EnvironmentBasedAgentBenchmarks.md) — Agent evaluations built as interactive environments with tool use, state, feedback, scoring, and trainable trajectories.
+- [Synthetic Agent Data](concepts/SyntheticAgentData.md) — Model- or agent-generated environment trajectories used for post-training, distillation-like learning, and verification-heavy data production.
+- [RSI Data](concepts/RSIData.md) — Long-running traces where a model or agent attempts to improve a model, training loop, data recipe, or future behavior.
 - [Popular NPD Discourse / 大众NPD话语](concepts/PopularNPDDiscourse.md) — EP273 frame for NPD as a public vocabulary for relationship harm that still requires diagnostic humility.
 - [Narcissistic Relational Control / 自恋式关系控制](concepts/NarcissisticRelationalControl.md) — Relationship pattern where fragile self-centering extracts attention, obedience, and value confirmation from others.
 - [Self-Worth Judgment Recovery / 价值判断权收回](concepts/SelfWorthJudgmentRecovery.md) — Taking back authority over one's own worth, judgment, and action through small defended choices.

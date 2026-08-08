@@ -7377,3 +7377,11 @@ Added source page for a Talk三联 episode with psychotherapist 龚学平 on NPD
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-09] ingest | 从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青
+
+Added source page for a 42章经 episode with Meng Fanqing of Evolvent AI on post-training as data work, environment-based agent benchmarks, synthetic agent data, distillation, and RSI. Created pages for Meng Fanqing, Evolvent AI, RSIbench-data, Environment-Based Agent Benchmarks, Synthetic Agent Data, and RSI Data; updated overview, index, 42章经, Recursive Self-Improvement, Auto Research, Model Distillation, Agent Post-Training, Model Post-Training Bottleneck, Agent Evaluation Benchmarks, Agent Data, AI Data Infrastructure, Data Pricing In AI, Kimi, and DeepSeek. No direct contradiction found; the source qualifies prior distillation coverage by treating distillation as an accelerator rather than the decisive cause of domestic model progress, and reinforces the RSI branch by grounding it in environments, verifiers, and model-improvement traces.
+
+## [2026-08-09] lint | Wiki health check
+
+Ran health before lint; health scanned 10,555 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 10,555 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-07 with 9,679 nodes and 103,834 edges; they found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`; a deterministic fallback scan found recorded source tensions/corrections but no new hard structural failure. Report returned in-session; `wiki/lint-report.md` was not saved.

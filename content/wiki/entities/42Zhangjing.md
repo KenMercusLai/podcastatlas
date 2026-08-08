@@ -14,7 +14,8 @@ sources:
   - youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2
   - dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi
   - ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx
-last_updated: 2026-08-07
+  - cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi
+last_updated: 2026-08-09
 ---
 
 # 42章经
@@ -43,6 +44,8 @@ The later Albert episode adds a software-future branch. It turns [[CodingDemocra
 
 [[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] adds [[QuKai]]'s mid-2026 AI recap as a show-level synthesis. The episode connects the show's founder and AI application interviews to a broader [[AIApplicationMarketTrough]] argument: models have regained investor heat, applications need stronger revenue and user proof, and founders should avoid reshaping product truth around capital's current preference for model stories.
 
+[[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] adds a model-training and data branch through [[MengFanqing|孟繁青]] of [[EvolventAI|Evolvent AI]]. The episode connects the show's agent and AI-startup coverage to [[RecursiveSelfImprovement]], [[SyntheticAgentData]], [[RSIData]], [[EnvironmentBasedAgentBenchmarks]], and [[ModelDistillation]], with the source-scoped thesis that future model competition may be fought through environments, data traces, verifiers, and organization speed as much as model scale.
+
 ## Connections
 - [[ZhuNing]] — guest economist in the episode.
 - [[BubbleNecessaryConditions]], [[BehavioralInvestingBiases]], and [[SpeculativeBubblePsychology]] — main behavioral-finance frame.
@@ -61,3 +64,4 @@ The later Albert episode adds a software-future branch. It turns [[CodingDemocra
 - [[Albert]], [[WinRateStartupStrategy]], [[CodingDemocratization]], and [[Hexfield]] — founder-method, AI coding, and image/video product branch added by the Albert source.
 - [[SoftwareCreationBarbell]], [[SoftwareAsCulturalWork]], [[MakerCommunity]], and [[OnePersonFund]] — software-future branch added by the later Albert conversation.
 - [[QuKai]], [[AIApplicationMarketTrough]], [[ZhipuAI]], [[Manus]], and [[Anbi]] — mid-2026 AI recap branch on model/application rotation and founder signal discipline.
+- [[MengFanqing]], [[EvolventAI]], [[RSIData]], [[SyntheticAgentData]], and [[EnvironmentBasedAgentBenchmarks]] — RSI data and post-training infrastructure branch.

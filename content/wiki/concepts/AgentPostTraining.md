@@ -2,11 +2,13 @@
 title: "Agent Post-Training"
 type: concept
 tags: [agents, model-training, post-training]
-sources: [e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11, vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
-last_updated: 2026-08-07
+sources: [cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi, e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11, vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
+last_updated: 2026-08-09
 ---
 
 # Agent Post-Training
+
+[[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] adds [[MengFanqing|孟繁青]]'s "post-training is data" interpretation. The source says that once internal model-lab training services stabilize, researcher leverage shifts toward [[EnvironmentBasedAgentBenchmarks]], [[SyntheticAgentData]], correctness checks, anti-cheating filters, difficulty control, and whether training on the data actually improves the model.
 
 Agent post-training is [[LuoFuli]]'s frame in [[138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]] for moving SFT, RL, evaluation, and model adaptation from chat behavior toward real agent workflows. The source says agent systems such as [[OpenClaw]] and [[OpenCloud]] expose different requirements: memory, tools, long context, active tasks, cost routing, skills, and multi-step recovery.
 
@@ -23,8 +25,10 @@ The concept extends [[ModelHarnessCoEvolution]]. A model trained only for chat m
 - Different frameworks may require different adaptation because memory shape, tool affordances, channel structure, and cost routing differ.
 - Agent post-training makes [[AICodingVerification]], [[LongHorizonAI]], and [[ModelWorkflowFit]] part of model training rather than only deployment evaluation.
 - Post-training can be the hidden reproduction barrier when a model's visible architecture or cost story is easier to discuss than its data recipes, expert labels, evaluation loops, and failure-recovery training.
+- The Evolvent AI source adds that agent post-training data may itself become an RSI surface when a model generates, filters, and uses data to improve another model or future behavior.
 
 ## Connections
+- [[MengFanqing]], [[EvolventAI]], [[EnvironmentBasedAgentBenchmarks]], [[SyntheticAgentData]], and [[RSIData]] — data and environment branch added by the Evolvent AI source.
 - [[LuoFuli]], [[MemoVR]], and [[Xiaomi]] — source speaker, model series, and team context.
 - [[ContentEngineering]], [[AIAnswerEvaluation]], and [[VoiceInteraction]] — E245's conversational-quality extension.
 - [[OpenClaw]], [[OpenCloud]], and [[AgentHarness]] — framework layer that changes post-training targets.

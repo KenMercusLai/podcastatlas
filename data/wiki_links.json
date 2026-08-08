@@ -12095,6 +12095,10 @@
     "title": "Envelope Expansion Deployment",
     "url": "/wiki/concepts/envelopeexpansiondeployment/"
   },
+  "EnvironmentBasedAgentBenchmarks": {
+    "title": "Environment-Based Agent Benchmarks",
+    "url": "/wiki/concepts/environmentbasedagentbenchmarks/"
+  },
   "EnvironmentOverWillpower": {
     "title": "Environment Over Willpower",
     "url": "/wiki/concepts/environmentoverwillpower/"
@@ -12414,6 +12418,10 @@
   "EvolutionaryTraitInterpretation": {
     "title": "Evolutionary Trait Interpretation",
     "url": "/wiki/concepts/evolutionarytraitinterpretation/"
+  },
+  "EvolventAI": {
+    "title": "Evolvent AI",
+    "url": "/wiki/entities/evolventai/"
   },
   "Evonik": {
     "title": "Evonik",
@@ -23359,6 +23367,10 @@
     "title": "《孟子》 / Mencius",
     "url": "/wiki/entities/menciustext/"
   },
+  "MengFanqing": {
+    "title": "Meng Fanqing / 孟繁青",
+    "url": "/wiki/entities/mengfanqing/"
+  },
   "MengHaoran": {
     "title": "孟浩然 / Meng Haoran",
     "url": "/wiki/entities/menghaoran/"
@@ -29035,6 +29047,14 @@
     "title": "RPG Maker",
     "url": "/wiki/entities/rpgmaker/"
   },
+  "RSIBenchData": {
+    "title": "RSIbench-data",
+    "url": "/wiki/entities/rsibenchdata/"
+  },
+  "RSIData": {
+    "title": "RSI Data",
+    "url": "/wiki/concepts/rsidata/"
+  },
   "RVOwnershipEconomics": {
     "title": "RV Ownership Economics",
     "url": "/wiki/concepts/rvownershipeconomics/"
@@ -33994,6 +34014,10 @@
   "SynthID": {
     "title": "SynthID",
     "url": "/wiki/entities/synthid/"
+  },
+  "SyntheticAgentData": {
+    "title": "Synthetic Agent Data",
+    "url": "/wiki/concepts/syntheticagentdata/"
   },
   "SyntheticRiskTransfer": {
     "title": "Synthetic Risk Transfer / SRT",
@@ -39910,6 +39934,10 @@
   "cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc": {
     "title": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11",
     "url": "/wiki/sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc/"
+  },
+  "cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi": {
+    "title": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青",
+    "url": "/wiki/sources/cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi/"
   },
   "congress-has-voted-to-eliminate-government-funding-for-public-media": {
     "title": "Congress has voted to eliminate government funding for public media",
