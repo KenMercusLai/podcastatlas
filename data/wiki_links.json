@@ -7375,6 +7375,10 @@
     "title": "Childhood Science Reading",
     "url": "/wiki/concepts/childhoodsciencereading/"
   },
+  "ChildhoodSurvivalRuleGeneralization": {
+    "title": "Childhood Survival Rule Generalization / 童年生存规则泛化",
+    "url": "/wiki/concepts/childhoodsurvivalrulegeneralization/"
+  },
   "ChildrensLiteratureComplexity": {
     "title": "Children's Literature Complexity",
     "url": "/wiki/concepts/childrensliteraturecomplexity/"
@@ -15151,6 +15155,10 @@
     "title": "Gong Cha / 共茶",
     "url": "/wiki/entities/gongcha/"
   },
+  "GongXueping": {
+    "title": "龚学平 / Gong Xueping",
+    "url": "/wiki/entities/gongxueping/"
+  },
   "GongYu": {
     "title": "龚宇",
     "url": "/wiki/entities/gongyu/"
@@ -17906,6 +17914,10 @@
   "InterestBasedNegotiation": {
     "title": "Interest-Based Negotiation / 利益导向谈判",
     "url": "/wiki/concepts/interestbasednegotiation/"
+  },
+  "IntergenerationalPatternPause": {
+    "title": "Intergenerational Pattern Pause / 代际模式暂停键",
+    "url": "/wiki/concepts/intergenerationalpatternpause/"
   },
   "InterleavedThinking": {
     "title": "Interleaved Thinking",
@@ -24695,6 +24707,10 @@
     "title": "Napster",
     "url": "/wiki/entities/napster/"
   },
+  "NarcissisticRelationalControl": {
+    "title": "Narcissistic Relational Control / 自恋式关系控制",
+    "url": "/wiki/concepts/narcissisticrelationalcontrol/"
+  },
   "NarcoStateRisk": {
     "title": "Narco-State Risk",
     "url": "/wiki/concepts/narcostaterisk/"
@@ -27790,6 +27806,10 @@
   "PopeManufacturingCompany": {
     "title": "Pope Manufacturing Company",
     "url": "/wiki/entities/popemanufacturingcompany/"
+  },
+  "PopularNPDDiscourse": {
+    "title": "Popular NPD Discourse / 大众NPD话语",
+    "url": "/wiki/concepts/popularnpddiscourse/"
   },
   "PopulationCoding": {
     "title": "Population Coding",
@@ -31334,6 +31354,10 @@
   "SelfSupervisedLearning": {
     "title": "Self-Supervised Learning",
     "url": "/wiki/concepts/selfsupervisedlearning/"
+  },
+  "SelfWorthJudgmentRecovery": {
+    "title": "Self-Worth Judgment Recovery / 价值判断权收回",
+    "url": "/wiki/concepts/selfworthjudgmentrecovery/"
   },
   "SellMeASasquatch": {
     "title": "Sell Me a Sasquatch",
@@ -40330,6 +40354,10 @@
   "ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu": {
     "title": "EP272 谁的青春里，没有一本被传阅到卷边的杂志？",
     "url": "/wiki/sources/ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu/"
+  },
+  "ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf": {
+    "title": "EP273 NPC还是NPD，都别想拿走我们人生的遥控器",
+    "url": "/wiki/sources/ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf/"
   },
   "ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj": {
     "title": "EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离",

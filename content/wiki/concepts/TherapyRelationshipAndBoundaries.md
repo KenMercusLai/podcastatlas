@@ -2,8 +2,8 @@
 title: "Therapy Relationship And Boundaries"
 type: concept
 tags: [psychology, therapy, ethics, trauma]
-sources: [ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, 13-beishang-de-liliang-tantan-sangqin-zhitong-551507792, 151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]
-last_updated: 2026-08-07
+sources: [ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, 13-beishang-de-liliang-tantan-sangqin-zhitong-551507792, 151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]
+last_updated: 2026-08-08
 ---
 
 # Therapy Relationship And Boundaries
@@ -16,6 +16,8 @@ The Madeline case is the clearest example. Gildiner accepts unusual conditions, 
 
 [[ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]] adds a nonclinical boundary case through [[PaidListeningServices|付费树洞 / 倾听师]]. Paid listeners can offer presence, feedback, and temporary comfort, but the source distinguishes that from psychotherapy because the industry lacks stable qualification standards, supervision, treatment setting, and crisis workflow.
 
+[[ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf]] adds a pacing and agency case through [[GongXueping|龚学平]]. Therapy is described as slowing a lived scene down until a client can notice the moment they were belittled, frightened, ashamed, or pressured, instead of jumping past the feeling. This makes the boundary less about advice-giving and more about restoring [[SelfWorthJudgmentRecovery|the client's own judgment]].
+
 ## Key Claims
 - A therapy relationship can make recovery possible because it gives the client a reliable witness and regulated emotional contact.
 - Boundaries are not coldness; they protect the pacing, setting, and role clarity that make difficult material tolerable.
@@ -24,6 +26,7 @@ The Madeline case is the clearest example. Gildiner accepts unusual conditions, 
 - Apology and repair matter when the therapist's mistake becomes part of the therapeutic history.
 - Grief care needs role clarity: nonjudgmental understanding, ritual support, and narrative work can be therapeutic, but acute danger and trauma symptoms require professional containment.
 - Paid listening can be emotionally useful without becoming therapy; availability and warmth do not substitute for training, role clarity, and [[MentalHealthCrisisInterventionBoundary|crisis intervention]].
+- Therapy can interrupt family or relationship repetition by pacing pain carefully enough that the client can feel it, understand it, and try a different action.
 
 ## Connections
 - [[CatherineGildiner]] and [[GoodMorningMonster|《早安，怪物》 / Good Morning, Monster]] - therapist-author and book.
@@ -33,3 +36,4 @@ The Madeline case is the clearest example. Gildiner accepts unusual conditions, 
 - [[CommunicationBoundarySetting]] - adjacent general boundary concept.
 - [[JuliaSamuel|Julia Samuel / 朱利亚·萨米尔]], [[BereavementGriefWork]], and [[TraumaNarrativeIntegration]] - grief-counseling branch added by episode 13.
 - [[PaidListeningServices]], [[ListeningTherapyBoundary]], [[EmotionalServicePlatformIncentives]], and [[MentalHealthCrisisInterventionBoundary]] - paid-listening boundary branch added by EP236.
+- [[GongXueping|龚学平]], [[IntergenerationalPatternPause]], [[ChildhoodSurvivalRuleGeneralization]], and [[SelfWorthJudgmentRecovery]] - EP273 therapy-pacing and agency branch.

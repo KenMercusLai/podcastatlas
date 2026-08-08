@@ -7369,3 +7369,11 @@ Added source page for a Planet Money episode on delayed retirement, career mobil
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] ingest | EP273 NPC还是NPD，都别想拿走我们人生的遥控器
+
+Added source page for a Talk三联 episode with psychotherapist 龚学平 on NPD as popular relationship-pain language rather than amateur diagnosis. Created pages for Gong Xueping, Popular NPD Discourse, Narcissistic Relational Control, Self-Worth Judgment Recovery, Childhood Survival Rule Generalization, and Intergenerational Pattern Pause; updated overview, index, Talk三联, Sanlian Life Weekly, Psychological Abuse Recognition, Therapy Relationship And Boundaries, Self-Feeling Trust, Protection As Control, Communication Boundary Setting, Psychic Vampire Personality, and Emotion Regulation Toolkit. No direct contradiction found; the source qualifies label-heavy self-help by keeping clinical diagnosis distinct while preserving the practical value of naming harm, trusting discomfort, and taking small agency-returning actions.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

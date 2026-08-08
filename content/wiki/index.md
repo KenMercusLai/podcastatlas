@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP273 NPC还是NPD，都别想拿走我们人生的遥控器](sources/ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf.md) — Talk三联 episode with psychotherapist 龚学平 on NPD as popular relationship-pain language, narcissistic relational control, self-worth judgment transfer, childhood survival rules, therapy pacing, and taking action rights back.
 - [Older workers aren't retiring. Should they be forced to?](sources/older-workers-arent-retiring-should-they-be-forced-to.md) — Planet Money episode on older-worker delayed retirement, career mobility bottlenecks, mandatory retirement, lump-of-labor objections, and phased succession.
 - [Outsider chance: ending Sudan's proxy war](sources/outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132.md) — The Intelligence episode on Sudan's foreign-backed war and ceasefire obstacles, the Gordie Howe Bridge trade dispute, and Betye Saar's assemblage art.
 - [Gig workers train humanoids on household chores](sources/tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Joanna Stern on SpaceX's public earnings and AI capex, gig workers filming chores for household-robot training data, and MySpace nostalgia as a reaction to algorithmic social feeds.
@@ -921,6 +922,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [龚学平 / Gong Xueping](entities/GongXueping.md) — Beijing psychotherapist interviewed by Talk三联 on popular NPD language, relational control, therapy pacing, and recovering self-worth judgment.
 - [Samuel Moyn](entities/SamuelMoyn.md) — Yale historian and law professor arguing that older incumbency in powerful, comfortable roles can block younger workers' opportunity.
 - [Olivia S. Mitchell](entities/OliviaSMitchell.md) — Wharton retirement economist making the lump-of-labor and retirement-security counterargument to broad forced retirement.
 - [Ryan Hendrickson](entities/RyanHendrickson.md) — NASA engineering worker whose blocked supervisor path anchors the source's career-mobility bottleneck case.
@@ -6309,6 +6311,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Popular NPD Discourse / 大众NPD话语](concepts/PopularNPDDiscourse.md) — EP273 frame for NPD as a public vocabulary for relationship harm that still requires diagnostic humility.
+- [Narcissistic Relational Control / 自恋式关系控制](concepts/NarcissisticRelationalControl.md) — Relationship pattern where fragile self-centering extracts attention, obedience, and value confirmation from others.
+- [Self-Worth Judgment Recovery / 价值判断权收回](concepts/SelfWorthJudgmentRecovery.md) — Taking back authority over one's own worth, judgment, and action through small defended choices.
+- [Childhood Survival Rule Generalization / 童年生存规则泛化](concepts/ChildhoodSurvivalRuleGeneralization.md) — Pattern where family survival rules are mistaken for how the whole world works.
+- [Intergenerational Pattern Pause / 代际模式暂停键](concepts/IntergenerationalPatternPause.md) — Therapy and self-action frame for interrupting inherited family-control and trauma patterns.
 - [Career Mobility Bottleneck](concepts/CareerMobilityBottleneck.md) — Scarce senior-role blockage where younger or mid-career workers see no path upward even if total employment is not fixed.
 - [Mandatory Retirement Policy](concepts/MandatoryRetirementPolicy.md) — Age-endpoint rule debated as a domain-specific response to powerful, scarce, or safety-sensitive roles.
 - [Lump of Labor Fallacy](concepts/LumpOfLaborFallacy.md) — Mistaken fixed-jobs assumption used to challenge broad claims that older workers take younger workers' jobs.

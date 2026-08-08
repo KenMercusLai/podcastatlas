@@ -2,8 +2,8 @@
 title: "Communication Boundary Setting"
 type: concept
 tags: [communication, workplace, social, boundaries, trauma]
-sources: [ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d, 18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]
-last_updated: 2026-08-07
+sources: [ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf, ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d, 18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]
+last_updated: 2026-08-08
 ---
 
 # Communication Boundary Setting
@@ -17,6 +17,8 @@ Communication boundary setting is the practice of choosing what to say, decline,
 [[181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261]] adds a trauma boundary case. When [[FawnResponse|fawning]] is active, boundary trouble is not just etiquette or timing; the person may experience refusal as danger, abandonment, or proof of selfishness. This is why the episode frames boundary recovery as [[UnfawningBoundaryPractice]] rather than a simple script.
 
 [[18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000]] adds an extractive-relationship boundary case. When immediate exit is impossible, the source recommends low-explanation repeated refusals, written clarification of work tasks, deadlines, and standards, and calm exposure of facts to outside witnesses rather than emotionally feeding the conflict.
+
+[[ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf]] adds a micro-refusal version inside [[NarcissisticRelationalControl|narcissistic relational control]]. 龚学平's examples are deliberately small: ride the bicycle, keep saying that a colleague is impressive after a partner belittles them, or ask why the compromise always falls on the same person. The boundary is communication plus action, not just private insight.
 
 [[xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770]] adds a public-expression boundary. [[QinZong|秦总]], [[LiWuya|李乌鸦]], and [[ChaoGe|超哥]] distinguish having bottom lines from being forced to speak on every event, and they frame some online invitations to "聊一聊" as position-demanding rather than conversation-seeking.
 
@@ -38,6 +40,7 @@ Communication boundary setting is the practice of choosing what to say, decline,
 - Dissent turns a boundary into a social act: the speaker must decide how much to challenge, when to speak, and how to keep the other person human without hiding the issue.
 - In extractive relationships, a short repeated boundary can work better than extended persuasion because long emotional debate may become more [[EmotionalEnergyExtraction|fuel]] for the pattern.
 - Episode 254 adds everyday bodily examples: asking for a bathroom stop, refusing medical observation, and declining improper work credit are all boundary acts.
+- Episode 273 adds that tiny defended actions can begin [[SelfWorthJudgmentRecovery|judgment recovery]] before a person can make a larger exit decision.
 
 ## Connections
 - [[SelfPermission]], [[FemaleFriendshipRecognition]], [[GynecologicalExamDignity]], [[WenQi|文淇]], [[YouXiaoying|游晓颖]], and [[DuSujuan|杜素娟]] - episode 254's self-permission and refusal branch.
@@ -47,6 +50,7 @@ Communication boundary setting is the practice of choosing what to say, decline,
 - [[UpwardManagement]] — a more formal workplace version where communication boundaries preserve decision authority and clarity.
 - [[UnfawningBoundaryPractice]], [[FawnResponse]], and [[TraumaticAttachment]] — trauma-boundary extension from episode 181.
 - [[PsychicVampirePersonality]], [[EmotionalEnergyExtraction]], and [[RelationalIsolationControl]] - episode 18's extractive-relationship boundary extension.
+- [[PopularNPDDiscourse]], [[NarcissisticRelationalControl]], and [[SelfWorthJudgmentRecovery]] - episode 273's NPD-discourse and micro-refusal branch.
 - [[InternetMoralTrial]], [[RecognitionAsHumiliation]], and [[LiveHumanFeeling]] - public-expression extension from the Zhao Lusi/Takuboku source.
 - [[SubjectLedCare]], [[VolunteerCareReciprocity]], and [[DisabilityIndependentLiving]] - care-request boundary extension from the disability independent-living episode.
 - [[NegotiationAsBargaining]], [[BATNA]], [[InterestBasedNegotiation]], and [[ConcessionSignaling]] - negotiation boundary extension from episode 106.
