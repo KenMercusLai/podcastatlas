@@ -2787,6 +2787,10 @@
     "title": "Agent RL",
     "url": "/wiki/concepts/agentrl/"
   },
+  "AgentReliabilityVerification": {
+    "title": "Agent Reliability Verification",
+    "url": "/wiki/concepts/agentreliabilityverification/"
+  },
   "AgentSelfEvolution": {
     "title": "Agent Self-Evolution",
     "url": "/wiki/concepts/agentselfevolution/"
@@ -6310,6 +6314,10 @@
   "CaesarAssassination": {
     "title": "Assassination of Julius Caesar / 恺撒遇刺",
     "url": "/wiki/entities/caesarassassination/"
+  },
+  "Caffe": {
+    "title": "Caffe",
+    "url": "/wiki/entities/caffe/"
   },
   "CaffeinatedModernity": {
     "title": "Caffeinated Modernity",
@@ -12547,6 +12555,10 @@
     "title": "Facebook",
     "url": "/wiki/entities/facebook/"
   },
+  "FacebookAIInfra": {
+    "title": "Facebook AI Infra",
+    "url": "/wiki/entities/facebookaiinfra/"
+  },
   "FactFutureAssetPricing": {
     "title": "Fact/Future Asset Pricing",
     "url": "/wiki/concepts/factfutureassetpricing/"
@@ -15142,6 +15154,10 @@
   "GoogleAnalytics": {
     "title": "Google Analytics",
     "url": "/wiki/entities/googleanalytics/"
+  },
+  "GoogleBrain": {
+    "title": "Google Brain",
+    "url": "/wiki/entities/googlebrain/"
   },
   "GoogleCalendar": {
     "title": "Google Calendar",
@@ -18835,6 +18851,10 @@
     "title": "贾蔷 / Jia Qiang",
     "url": "/wiki/entities/jiaqiang/"
   },
+  "JiaYangqing": {
+    "title": "Jia Yangqing / 贾扬清",
+    "url": "/wiki/entities/jiayangqing/"
+  },
   "JiaYuanchun": {
     "title": "贾元春 / Jia Yuanchun",
     "url": "/wiki/entities/jiayuanchun/"
@@ -20834,6 +20854,10 @@
   "LeonardoMPEG": {
     "title": "Leonardo (MPEG)",
     "url": "/wiki/entities/leonardompeg/"
+  },
+  "LeptonAI": {
+    "title": "Lepton AI",
+    "url": "/wiki/entities/leptonai/"
   },
   "LeverageDrivenBullMarket": {
     "title": "Leverage-Driven Bull Market",
@@ -37227,6 +37251,10 @@
     "title": "Wharton School",
     "url": "/wiki/entities/whartonschool/"
   },
+  "WhatOverHowWorkShift": {
+    "title": "What Over How Work Shift",
+    "url": "/wiki/concepts/whatoverhowworkshift/"
+  },
   "WhatsApp": {
     "title": "WhatsApp",
     "url": "/wiki/entities/whatsapp/"
@@ -40414,6 +40442,10 @@
   "jerome-powell-and-the-test-of-fed-independence": {
     "title": "Jerome Powell and the Test of Fed Independence",
     "url": "/wiki/sources/jerome-powell-and-the-test-of-fed-independence/"
+  },
+  "jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429": {
+    "title": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24",
+    "url": "/wiki/sources/jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429/"
   },
   "jiaqi-moyu-geng-jiankang-574391976": {
     "title": "假期摸鱼更健康",

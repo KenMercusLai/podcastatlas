@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24](sources/jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429.md) — What's Next｜科技早知道 and 声东击西 crossover with Jia Yangqing on AI's shift from unfashionable research label to infrastructure, cloud, startup, and agent-verification platform.
 - [Socialist mobility: a telling Michigan vote](sources/socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216.md) — The Intelligence episode on Abdul El-Sayed's Michigan primary win, Yangtze fishing-ban recovery, and postcards' intelligence and cultural history.
 - [AI chatbots have linguistic slips when they go off-script](sources/tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128.md) — Marketplace Tech Uncanny AI episode with Janelle Shane on chatbot code-switching, multilingual training data, domain bleed-through, unreliable self-explanations, and why fluent AI output can hide boundary failures.
 - [Advice Line: "Strategy Sessions"](sources/advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a.md) — How I Built This Advice Line mashup with Jeffrey Hollender, Sarah LaFleur, and Shazi Visram on Hearsay Brewing and Theater's equity-control question, Tress London's neighborhood word of mouth, and Brain Buffs' direct-teacher edtech pricing.
@@ -916,6 +917,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jia Yangqing / 贾扬清](entities/JiaYangqing.md) — AI infrastructure engineer and founder linking Caffe, Google Brain, Facebook AI Infra, Alibaba Cloud, Lepton AI, Nvidia, and agent reliability.
+- [Caffe](entities/Caffe.md) — Early deep-learning framework created by Jia Yangqing that made model experimentation and sharing easier after the ImageNet deep-learning turn.
+- [Google Brain](entities/GoogleBrain.md) — Google AI research and infrastructure organization tying deep learning, TensorFlow, TPUs, and product deployment together in Jia Yangqing's account.
+- [Facebook AI Infra](entities/FacebookAIInfra.md) — Meta/Facebook production AI infrastructure organization used by Jia Yangqing to explain regressions, compatibility, and platform-scale AI deployment.
+- [Lepton AI](entities/LeptonAI.md) — Jia Yangqing's AI infrastructure and neocloud startup, later acquired by Nvidia.
 - [Michigan](entities/Michigan.md) — Swing-state setting for the source's test of whether a left-wing Democratic primary win travels beyond liberal cities.
 - [Abdul El-Sayed](entities/AbdulElSayed.md) — Michigan Democratic Senate nominee whose left platform makes the primary a statewide electability test.
 - [Haley Stevens](entities/HaleyStevens.md) — Establishment-backed Michigan Democrat defeated by Abdul El-Sayed in the source's primary account.
@@ -6276,6 +6282,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Agent Reliability Verification](concepts/AgentReliabilityVerification.md) — Requirement that agent systems prove results through harnesses, external checks, and acceptance criteria rather than agent count alone.
+- [What Over How Work Shift](concepts/WhatOverHowWorkShift.md) — AI-era shift where humans define goals, constraints, and judgment while AI handles more execution detail.
 - [Statewide Left Primary Test](concepts/StatewideLeftPrimaryTest.md) — Frame for reading a left-wing primary win in a competitive state as stronger evidence than an urban progressive victory.
 - [Primary Electorate Distortion](concepts/PrimaryElectorateDistortion.md) — Risk that candidates mistake primary-voter preferences for the wider electorate's preferences.
 - [Yangtze Fishing Ban Recovery](concepts/YangtzeFishingBanRecovery.md) — Ecological rebound attributed to China's 10-year Yangtze commercial fishing ban and pollution controls.

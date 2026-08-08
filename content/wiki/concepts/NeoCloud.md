@@ -2,11 +2,13 @@
 title: "Neo Cloud"
 type: concept
 tags: [ai, cloud, infrastructure, gpu]
-sources: [e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]
+sources: [jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]
 last_updated: 2026-08-08
 ---
 
 # Neo Cloud
+
+[[jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429]] adds [[LeptonAI|Lepton AI]] as a founder-operator view of the neocloud category. [[JiaYangqing|Jia Yangqing]] distinguishes AI cloud from traditional cloud by the need for tightly connected [[GPU|GPU]] capacity, scheduling, model-serving layers, and hardware-software fit.
 
 [[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]] adds the open-model competition version. [[WangTiezhen|王铁镇]] argues that neoclouds can use strong open-weight models such as [[KimiK3|Kimi K3]] to compete against closed API providers, because the serving layer can focus on hardware efficiency, scheduling, model hosting, and lower token prices rather than owning a closed frontier model.
 

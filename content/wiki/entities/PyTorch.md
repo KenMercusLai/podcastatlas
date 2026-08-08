@@ -2,11 +2,13 @@
 title: "PyTorch"
 type: entity
 tags: [software, ai, developer-tools]
-sources: [148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]
+sources: [jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429, 148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]
 last_updated: 2026-08-08
 ---
 
 # PyTorch
+
+[[jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429]] adds PyTorch as part of the post-[[Caffe]] and [[FacebookAIInfra|Facebook AI Infra]] framework lineage. The source frames frameworks as infrastructure that changes iteration speed and production adoption, not just as developer preference.
 
 PyTorch appears in [[e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]] as the external model-engineering framework that [[Google]] must support better if [[TPU]] is to expand beyond Google-native teams. The episode says [[Meta]] uses PyTorch heavily and that historical PyTorch-TPU compatibility limits made TPU less convenient for many outside teams.
 

@@ -2,11 +2,13 @@
 title: "AI Infrastructure As Product"
 type: concept
 tags: [ai, infrastructure, product, engineering]
-sources: [e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668]
+sources: [jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429, e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668]
 last_updated: 2026-08-08
 ---
 
 # AI Infrastructure As Product
+
+[[jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429]] adds a long practitioner arc from [[Caffe]] and [[GoogleBrain|Google Brain]] to [[FacebookAIInfra|Facebook AI Infra]], [[AlibabaCloud|Alibaba Cloud]], and [[LeptonAI|Lepton AI]]. The source shows AI infrastructure becoming product when it shortens research loops, makes production deployment reliable, and packages accelerator-heavy workloads for customers.
 
 AI infrastructure as product is [[ShengYing|盛颖]]'s claim in [[e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668]] that infra should not be treated as a back-office support layer. The source uses [[SGLang]] and [[RadixARC|Redix ARK]] to argue that an inference engine, RL rollout system, sandbox, code library, or model-production tool can itself be the product surface.
 

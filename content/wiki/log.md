@@ -7329,3 +7329,11 @@ Added source page for a The Intelligence episode on Abdul El-Sayed's Michigan pr
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] ingest | 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24
+
+Added source page for a What's Next｜科技早知道 and 声东击西 crossover with Jia Yangqing on the AI path from research skepticism to industrial and organizational centrality. Created pages for Jia Yangqing, Caffe, Google Brain, Facebook AI Infra, Lepton AI, Agent Reliability Verification, and What Over How Work Shift; updated overview, index, What's Next｜科技早知道, 声东击西, 徐涛, TensorFlow, PyTorch, Alibaba Cloud, Nvidia, DeepSeek, AI Verification, AI Coding Verification, Agent Harness, Multi-Agent Collaboration, AI Programming Engine Shift, AI Infrastructure As Product, Neo Cloud, Human Judgment Under AI, AI Organization Design, and Large Company Organizational Inertia. No direct contradiction found; the source reinforces the wiki's existing thesis that AI progress depends on infrastructure, workflow, verification, and human problem definition rather than model intelligence alone.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
