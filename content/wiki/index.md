@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Socialist mobility: a telling Michigan vote](sources/socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216.md) — The Intelligence episode on Abdul El-Sayed's Michigan primary win, Yangtze fishing-ban recovery, and postcards' intelligence and cultural history.
 - [AI chatbots have linguistic slips when they go off-script](sources/tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128.md) — Marketplace Tech Uncanny AI episode with Janelle Shane on chatbot code-switching, multilingual training data, domain bleed-through, unreliable self-explanations, and why fluent AI output can hide boundary failures.
 - [Advice Line: "Strategy Sessions"](sources/advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a.md) — How I Built This Advice Line mashup with Jeffrey Hollender, Sarah LaFleur, and Shazi Visram on Hearsay Brewing and Theater's equity-control question, Tress London's neighborhood word of mouth, and Brain Buffs' direct-teacher edtech pricing.
 - [Vol.269 小历史 | “不要怕，是技术性调整”](sources/vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119.md) — 商业就是这样 episode on the 1972 Hongkong Land-Dairy Farm takeover, the 1973 Hong Kong stock-market crash, newspaper tender campaigns, stock split confusion, four-exchange fragmentation, and Hong Kong dollar hot-money flows.
@@ -915,6 +916,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Michigan](entities/Michigan.md) — Swing-state setting for the source's test of whether a left-wing Democratic primary win travels beyond liberal cities.
+- [Abdul El-Sayed](entities/AbdulElSayed.md) — Michigan Democratic Senate nominee whose left platform makes the primary a statewide electability test.
+- [Haley Stevens](entities/HaleyStevens.md) — Establishment-backed Michigan Democrat defeated by Abdul El-Sayed in the source's primary account.
+- [Mike Rogers](entities/MikeRogers.md) — Republican Senate nominee positioned as the general-election test for El-Sayed's Michigan primary win.
+- [Gabriel Crossley](entities/GabrielCrossley.md) — Source voice explaining the Yangtze River's fishing-ban recovery and its remaining ecological and social caveats.
+- [Democratic Socialists of America](entities/DemocraticSocialistsOfAmerica.md) — U.S. left organization used as context for comparing urban progressive wins with Michigan's statewide result.
+- [United Auto Workers / UAW](entities/UnitedAutoWorkers.md) — Labor base named in the source's explanation of why Michigan is a meaningful Democratic test state.
+- [Royal Mail](entities/RoyalMail.md) — British postal-service benchmark for the source's postcard and letter-volume decline frame.
+- [English Heritage](entities/EnglishHeritage.md) — Heritage organization cited for the source's statistic that few British adults now send postcards.
+- [John Godfrey](entities/JohnGodfrey.md) — British admiral whose 1942 BBC appeal turned public postcards and photos into D-Day planning material.
+- [Theodore Hook](entities/TheodoreHook.md) — British novelist credited in the source with sending the first postcard in 1840.
+- [D-Day](entities/DDay.md) — Military-history event whose preparations used postcards and photos gathered from the British public.
+- [Three Gorges Dam](entities/ThreeGorgesDam.md) — Yangtze infrastructure caveat in the source's river-recovery story because dams interrupt fish movement.
+- [Chinese paddlefish](entities/ChinesePaddlefish.md) — Extinct Yangtze species used by the source to limit optimism about fish biomass recovery.
 - [AI Weirdness Blog](entities/AIWeirdnessBlog.md) — Janelle Shane's AI science-communication project, entering the wiki through Marketplace Tech's episode on chatbot language slips.
 - [Sarah LaFleur](entities/SarahLaFleur.md) — M.M. LaFleur founder and Advice Line advisor reframing Tress London around lifestyle, trust, and neighborhood-first word of mouth.
 - [M.M. LaFleur](entities/MMLaFleur.md) — Apparel brand whose M-Dash content example anchors Sarah LaFleur's advice on editorial customer relationships.
@@ -6261,6 +6276,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Statewide Left Primary Test](concepts/StatewideLeftPrimaryTest.md) — Frame for reading a left-wing primary win in a competitive state as stronger evidence than an urban progressive victory.
+- [Primary Electorate Distortion](concepts/PrimaryElectorateDistortion.md) — Risk that candidates mistake primary-voter preferences for the wider electorate's preferences.
+- [Yangtze Fishing Ban Recovery](concepts/YangtzeFishingBanRecovery.md) — Ecological rebound attributed to China's 10-year Yangtze commercial fishing ban and pollution controls.
+- [Environmental Repair Social Cost](concepts/EnvironmentalRepairSocialCost.md) — Livelihood and compensation damage that can accompany fast ecological intervention.
+- [Postcard Intelligence Infrastructure](concepts/PostcardIntelligenceInfrastructure.md) — Pattern where ordinary postcards and photos become military knowledge when collected and sorted at scale.
+- [Postcard Media Decline](concepts/PostcardMediaDecline.md) — Decline of postcards as a cheap visual social medium, set against postal contraction and analog memory.
 - [Chatbot Domain Bleedthrough](concepts/ChatbotDomainBleedthrough.md) — Failure mode where a chatbot drifts across language, style, topic, or product-domain boundaries without a clear marker.
 - [Chatbot Code Switching](concepts/ChatbotCodeSwitching.md) — Visible chatbot language slip where a non-requested foreign-language word appears inside otherwise fluent monolingual output.
 - [Chatbot Self-Explanation Uncertainty](concepts/ChatbotSelfExplanationUncertainty.md) — Caution that a chatbot's plausible explanation for its own strange output is not evidence without independent diagnostics.

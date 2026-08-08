@@ -2,11 +2,13 @@
 title: "Conservation Intervention"
 type: concept
 tags: [conservation, ecology, wildlife]
-sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, 163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179, the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260]
-last_updated: 2026-08-07
+sources: [socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, 163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179, the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260]
+last_updated: 2026-08-08
 ---
 
 # Conservation Intervention
+
+[[socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216]] adds a state-enforced river version through the [[YangtzeRiver]]. The intervention is not a small sanctuary or species project: [[China]] bans commercial fishing for 10 years, moves pollution sources, and uses patrols, drones, and cameras, producing [[YangtzeFishingBanRecovery]] while leaving [[EnvironmentalRepairSocialCost]] unresolved.
 
 [[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] adds a beach-and-turtle version through [[MonaKhalil]] in southern [[Lebanon]]. Her interventions include collecting vulnerable hatchlings before release, challenging fishermen using dynamite and poison, pressing local mayors to make Mansouri Beach a reserve, and telling UN peacekeepers not to throw rubbish into the sea.
 
@@ -45,8 +47,10 @@ The concept carries a built-in tension. The episode contrasts the worry that hum
 - Market design can function as conservation intervention when traceability, handling quality, and buyer demand keep sustainable wild harvest economically viable.
 - Release work needs follow-up monitoring because movement, terrain, weather, prey, roads, livestock, and local human response decide whether an apparently successful release remains viable.
 - Pollinator intervention can be small-scale and distributed, but it still has to address pesticide exposure and habitat continuity rather than only adding isolated flowers.
+- State-scale river intervention can restore biomass when enforcement is strong, but it still needs social accounting and species-specific limits.
 
 ## Connections
+- [[YangtzeRiver]], [[YangtzeFishingBanRecovery]], [[EnvironmentalRepairSocialCost]], [[XiJinping]], and [[GabrielCrossley]] - state-enforced river-repair branch added by The Intelligence.
 - [[ChineseCrestedTern]] - source species case.
 - [[RenNing]] - source voice.
 - [[CitizenScience]] - monitoring and public observation layer.

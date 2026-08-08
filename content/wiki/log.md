@@ -7321,3 +7321,11 @@ Added source page for a Marketplace Tech Uncanny AI episode with Janelle Shane o
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] ingest | Socialist mobility: a telling Michigan vote
+
+Added source page for a The Intelligence episode on Abdul El-Sayed's Michigan primary win, the Yangtze River's fishing-ban recovery, and postcards as military and cultural media. Created pages for Michigan, Abdul El-Sayed, Haley Stevens, Mike Rogers, Gabriel Crossley, Democratic Socialists of America, United Auto Workers / UAW, Royal Mail, English Heritage, John Godfrey, Theodore Hook, D-Day, Three Gorges Dam, Chinese paddlefish, Statewide Left Primary Test, Primary Electorate Distortion, Yangtze Fishing Ban Recovery, Environmental Repair Social Cost, Postcard Intelligence Infrastructure, and Postcard Media Decline; updated overview, index, The Intelligence, Economist Podcasts, John Prideaux, Catherine Nixey, Democratic Party, Donald Trump, Israel, Xi Jinping, China, United States, Yangtze River, George Orwell, Baiji, Environmental Tradeoff Accounting, Conservation Intervention, Analog Media Preservation, Populist Democratic Energy, and American Democratic Resilience. No direct contradiction found; the source adds source-scoped tension around left primary strength versus general-election electability, ecological repair versus livelihood cost, and analog media decline versus historical intelligence value.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

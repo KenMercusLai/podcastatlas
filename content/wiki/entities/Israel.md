@@ -2,11 +2,13 @@
 title: "Israel"
 type: entity
 tags: [country, geopolitics, security]
-sources: [in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74, hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5, ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
+sources: [socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216, in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74, hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5, ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
 last_updated: 2026-08-08
 ---
 
 # Israel
+
+[[socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216]] adds Israel as a U.S. primary-politics issue rather than as the direct subject of a Middle East segment. The source says [[AbdulElSayed]] opposes aid to Israel and that [[MikeRogers]] is likely to attack him over Israel in the [[Michigan]] Senate race.
 
 [[hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5]] adds Israel through ceasefire implementation rather than only war-risk skepticism. The episode says [[Lebanon]] wants [[DonaldTrump]] to pressure Israel to withdraw further under a vague agreement, while Israel still conducts periodic airstrikes and doubts that the Lebanese state can manage [[Hezbollah]] in the south.
 
@@ -25,6 +27,7 @@ The source frames Israel's behavior through security skepticism. Israeli forces 
 [[in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74]] adds Israel as the actor insisting that [[Hamas]] disarm completely before Israeli withdrawal from areas it controls in [[Gaza]]. The episode also says Israeli attacks continued after the announcement and that little meaningful movement is likely before the Israeli election, tying the military map to Netanyahu's coalition and campaign incentives.
 
 ## Connections
+- [[AbdulElSayed]], [[MikeRogers]], and [[Michigan]] - U.S. electoral issue branch added by the later The Intelligence source.
 - [[Shahed136]], [[Iran]], [[LowCostDroneWarfare]], [[DroneDefenseEconomics]], and [[CounterDroneLayeredDefense]] - drone-defense pressure branch added by Marketplace Tech.
 - [[Hezbollah]] - armed movement Israel treats as the immediate military threat.
 - [[Lebanon]] - country where the ceasefire clause and tunnel claim are located.

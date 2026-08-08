@@ -2,11 +2,13 @@
 title: "American Democratic Resilience"
 type: concept
 tags: [politics, democracy, institutions]
-sources: [sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
-last_updated: 2026-07-24
+sources: [socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
+last_updated: 2026-08-08
 ---
 
 # American Democratic Resilience
+
+[[socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216]] adds a party-selection version of the resilience question. The source's [[Michigan]] primary segment does not claim a constitutional crisis; it shows a more ordinary democratic stress point, where [[DemocraticParty]] voters may demand disruption while [[PrimaryElectorateDistortion]] and general-election incentives test whether that demand can become governing power.
 
 [[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]] adds the sequel's pessimistic version of the resilience question. [[LinYao|林垚]] argues that [[DonaldTrump]]'s victory, [[MAGACoalitionFracture]], hard amendment thresholds, [[PresidentialSystem|presidentialism]], weaker state experimentation, and identity-sorted information environments make [[USConstitutionalCrisisRisk]] more plausible than a simple return to normal politics, even if civil war remains unlikely.
 
@@ -48,8 +50,10 @@ The concept is deliberately mixed. Resilience does not mean the system is health
 - Trump 2.0 preparation adds an organizational resilience test: institutions face not only charismatic pressure but also prebuilt policy and staffing systems.
 - Impeachment and the 25th Amendment add a repair-capacity test: institutions must remove or bypass a failed president only under standards strong enough to avoid routine factional use.
 - Fed independence adds a technocratic-governance test: the system has to preserve monetary-policy legitimacy without making central bankers unaccountable or removable at presidential convenience.
+- Party primaries add a selection test: democratic demand for disruption has to survive the move from activist electorate to general-election coalition.
 
 ## Connections
+- [[Michigan]], [[DemocraticParty]], [[StatewideLeftPrimaryTest]], and [[PrimaryElectorateDistortion]] - party-selection branch added by The Intelligence.
 - [[UnitedStates]], [[SupremeCourt]], [[RobertGuest]], [[DanielKnowles]], and [[RebeccaJackson]] - source actors and institutional frame.
 - [[AlexisDeTocqueville]], [[DemocracyInAmerica]], [[TocquevilleRoadTrip]], and [[AmericaAsIdea]] - Tocquevillean frame added by the trailer.
 - [[BarackObama]] and [[DonaldTrump]] - political sequence added by the Gulf-co-operation episode.

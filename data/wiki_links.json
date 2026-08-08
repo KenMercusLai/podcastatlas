@@ -2235,6 +2235,10 @@
     "title": "卡西诺修道院 / Abbey of Monte Cassino",
     "url": "/wiki/entities/abbeyofmontecassino/"
   },
+  "AbdulElSayed": {
+    "title": "Abdul El-Sayed",
+    "url": "/wiki/entities/abdulelsayed/"
+  },
   "AbeKinya": {
     "title": "阿布谨也 / Abe Kinya",
     "url": "/wiki/entities/abekinya/"
@@ -7687,6 +7691,10 @@
     "title": "Chinese PC Internet Communities / 中文 PC 互联网社区",
     "url": "/wiki/concepts/chinesepcinternetcommunities/"
   },
+  "ChinesePaddlefish": {
+    "title": "Chinese paddlefish",
+    "url": "/wiki/entities/chinesepaddlefish/"
+  },
   "ChinesePlayerOverseasArbitrage": {
     "title": "Chinese Player Overseas Arbitrage",
     "url": "/wiki/concepts/chineseplayeroverseasarbitrage/"
@@ -9483,6 +9491,10 @@
     "title": "DAZN",
     "url": "/wiki/entities/dazn/"
   },
+  "DDay": {
+    "title": "D-Day",
+    "url": "/wiki/entities/dday/"
+  },
   "DDoSAttackAmplification": {
     "title": "DDoS Attack Amplification",
     "url": "/wiki/concepts/ddosattackamplification/"
@@ -10234,6 +10246,10 @@
   "DemocraticRepublicOfCongo": {
     "title": "Democratic Republic of the Congo / 刚果民主共和国",
     "url": "/wiki/entities/democraticrepublicofcongo/"
+  },
+  "DemocraticSocialistsOfAmerica": {
+    "title": "Democratic Socialists of America",
+    "url": "/wiki/entities/democraticsocialistsofamerica/"
   },
   "DemocraticTransitionElection": {
     "title": "Democratic Transition Election",
@@ -11939,6 +11955,10 @@
     "title": "England National Football Team",
     "url": "/wiki/entities/englandnationalfootballteam/"
   },
+  "EnglishHeritage": {
+    "title": "English Heritage",
+    "url": "/wiki/entities/englishheritage/"
+  },
   "Enkidu": {
     "title": "Enkidu / 恩启都",
     "url": "/wiki/entities/enkidu/"
@@ -12022,6 +12042,10 @@
   "EnvironmentOverWillpower": {
     "title": "Environment Over Willpower",
     "url": "/wiki/concepts/environmentoverwillpower/"
+  },
+  "EnvironmentalRepairSocialCost": {
+    "title": "Environmental Repair Social Cost",
+    "url": "/wiki/concepts/environmentalrepairsocialcost/"
   },
   "EnvironmentalTradeoffAccounting": {
     "title": "Environmental Tradeoff Accounting",
@@ -14379,6 +14403,10 @@
     "title": "Gabriel Attal",
     "url": "/wiki/entities/gabrielattal/"
   },
+  "GabrielCrossley": {
+    "title": "Gabriel Crossley",
+    "url": "/wiki/entities/gabrielcrossley/"
+  },
   "GabrielGarciaMarquez": {
     "title": "Gabriel Garcia Marquez / 加西亚·马尔克斯",
     "url": "/wiki/entities/gabrielgarciamarquez/"
@@ -15738,6 +15766,10 @@
   "HaleySalmon": {
     "title": "Haley Salmon",
     "url": "/wiki/entities/haleysalmon/"
+  },
+  "HaleyStevens": {
+    "title": "Haley Stevens",
+    "url": "/wiki/entities/haleystevens/"
   },
   "Halifax": {
     "title": "Halifax / 哈利法克斯",
@@ -19162,6 +19194,10 @@
   "JohnGideonMillingen": {
     "title": "John Gideon Millingen / 约翰·基甸·米林根",
     "url": "/wiki/entities/johngideonmillingen/"
+  },
+  "JohnGodfrey": {
+    "title": "John Godfrey",
+    "url": "/wiki/entities/johngodfrey/"
   },
   "JohnGraham": {
     "title": "John Graham",
@@ -23455,6 +23491,10 @@
     "title": "Michele Folletti",
     "url": "/wiki/entities/michelefolletti/"
   },
+  "Michigan": {
+    "title": "Michigan",
+    "url": "/wiki/entities/michigan/"
+  },
   "MickeyMouse": {
     "title": "Mickey Mouse",
     "url": "/wiki/entities/mickeymouse/"
@@ -23586,6 +23626,10 @@
   "MikePavelko": {
     "title": "Mike Pavelko",
     "url": "/wiki/entities/mikepavelko/"
+  },
+  "MikeRogers": {
+    "title": "Mike Rogers",
+    "url": "/wiki/entities/mikerogers/"
   },
   "MikeSolana": {
     "title": "Mike Solana",
@@ -27743,6 +27787,14 @@
     "title": "Post-Victory Oppression Risk / 胜利后的压迫风险",
     "url": "/wiki/concepts/postvictoryoppressionrisk/"
   },
+  "PostcardIntelligenceInfrastructure": {
+    "title": "Postcard Intelligence Infrastructure",
+    "url": "/wiki/concepts/postcardintelligenceinfrastructure/"
+  },
+  "PostcardMediaDecline": {
+    "title": "Postcard Media Decline",
+    "url": "/wiki/concepts/postcardmediadecline/"
+  },
   "Posterous": {
     "title": "Posterous",
     "url": "/wiki/entities/posterous/"
@@ -27942,6 +27994,10 @@
   "Prim": {
     "title": "Prim",
     "url": "/wiki/entities/prim/"
+  },
+  "PrimaryElectorateDistortion": {
+    "title": "Primary Electorate Distortion",
+    "url": "/wiki/concepts/primaryelectoratedistortion/"
   },
   "PrimeBorrowerCreditRisk": {
     "title": "Prime Borrower Credit Risk",
@@ -30222,6 +30278,10 @@
   "RoyDisney": {
     "title": "Roy Disney",
     "url": "/wiki/entities/roydisney/"
+  },
+  "RoyalMail": {
+    "title": "Royal Mail",
+    "url": "/wiki/entities/royalmail/"
   },
   "RoyalMint": {
     "title": "Royal Mint / 皇家造币厂",
@@ -33039,6 +33099,10 @@
     "title": "Stateless Exile / 无国籍流亡",
     "url": "/wiki/concepts/statelessexile/"
   },
+  "StatewideLeftPrimaryTest": {
+    "title": "Statewide Left Primary Test",
+    "url": "/wiki/concepts/statewideleftprimarytest/"
+  },
   "StatisticalBubbleIndicators": {
     "title": "Statistical Bubble Indicators",
     "url": "/wiki/concepts/statisticalbubbleindicators/"
@@ -34731,6 +34795,10 @@
     "title": "Theme Park As Media Platform",
     "url": "/wiki/concepts/themeparkasmediaplatform/"
   },
+  "TheodoreHook": {
+    "title": "Theodore Hook",
+    "url": "/wiki/entities/theodorehook/"
+  },
   "TheodoreRoosevelt": {
     "title": "Theodore Roosevelt / 西奥多·罗斯福",
     "url": "/wiki/entities/theodoreroosevelt/"
@@ -34842,6 +34910,10 @@
   "ThreeGMobilePhones": {
     "title": "3G Mobile Phones",
     "url": "/wiki/entities/threegmobilephones/"
+  },
+  "ThreeGorgesDam": {
+    "title": "Three Gorges Dam",
+    "url": "/wiki/entities/threegorgesdam/"
   },
   "ThreeLayerScaleEconomies": {
     "title": "Three-Layer Scale Economies",
@@ -35914,6 +35986,10 @@
   "UnitedArabEmirates": {
     "title": "United Arab Emirates",
     "url": "/wiki/entities/unitedarabemirates/"
+  },
+  "UnitedAutoWorkers": {
+    "title": "United Auto Workers / UAW",
+    "url": "/wiki/entities/unitedautoworkers/"
   },
   "UnitedHealthcare": {
     "title": "UnitedHealthcare / 联合医保",
@@ -38287,6 +38363,10 @@
     "title": "洋码头 / Yangmatou",
     "url": "/wiki/entities/yangmatou/"
   },
+  "YangtzeFishingBanRecovery": {
+    "title": "Yangtze Fishing Ban Recovery",
+    "url": "/wiki/concepts/yangtzefishingbanrecovery/"
+  },
   "YangtzeMemoryTechnologies": {
     "title": "Yangtze Memory Technologies / 长江存储",
     "url": "/wiki/entities/yangtzememorytechnologies/"
@@ -40638,6 +40718,10 @@
   "so-are-we-in-an-ai-bubble-here-are-clues-to-look-for": {
     "title": "So are we in an AI bubble? Here are clues to look for.",
     "url": "/wiki/sources/so-are-we-in-an-ai-bubble-here-are-clues-to-look-for/"
+  },
+  "socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216": {
+    "title": "Socialist mobility: a telling Michigan vote",
+    "url": "/wiki/sources/socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216/"
   },
   "socialradars-edithelliot-v3": {
     "title": "Edith Elliott on Noora Health, Caregivers, and Trust-Based Philanthropy",

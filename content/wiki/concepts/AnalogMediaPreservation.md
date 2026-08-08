@@ -2,11 +2,13 @@
 title: "Analog Media Preservation"
 type: concept
 tags: [media, preservation, analog, culture, magazines, print]
-sources: [ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu, tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128, tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128]
+sources: [socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216, ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu, tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128, tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128]
 last_updated: 2026-08-08
 ---
 
 # Analog Media Preservation
+
+[[socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216]] adds postcards as an analog medium worth preserving beyond sentiment. The source links [[PostcardMediaDecline]] to [[RoyalMail]] letter decline and [[EnglishHeritage]] survey data, while [[PostcardIntelligenceInfrastructure]] shows that postcard images once had military value for [[DDay|D-Day]] planning.
 
 [[ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu]] adds a magazine and zine version. Print preservation here is not only archival storage; it includes keeping the social form of a magazine recognizable: issue rhythm, covers, inserts, kiosks, subscriptions, reader memory, and local booklets that can be kept after feed posts disappear.
 
@@ -23,8 +25,10 @@ The concept extends [[GamePreservation]] beyond playable software into video med
 - Physical media preserves more than audiovisual content; it can preserve format aesthetics, collector meaning, store memory, and subcultural circulation.
 - The analog approach does not reject streaming wholesale, but it answers gaps created by platform catalogs and [[SubscriptionFatigue]].
 - Digitizing analog media is not the end of preservation if the resulting digital files depend on undocumented backup systems or obsolete storage media.
+- Postcard preservation includes travel imagery, handwriting, postal marks, jokes, place-marketing conventions, and possible historical intelligence value.
 
 ## Connections
+- [[PostcardMediaDecline]], [[PostcardIntelligenceInfrastructure]], [[RoyalMail]], [[EnglishHeritage]], and [[DDay|D-Day]] - postcard-history branch added by The Intelligence.
 - [[MagazineReadingEcology]], [[PaperMagazineSubscriptionRitual]], and [[LocalZineRevival]] - EP272's print-periodical and local-booklet branch.
 - [[LunchMeetVHS]] and [[JoshSchaeffer]] - source case.
 - [[PhysicalVideoMediaRevival]] - market and cultural revival pattern.
