@@ -2,8 +2,8 @@
 title: "Stage-Appropriate Hiring"
 type: concept
 tags: [startups, hiring, management]
-sources: [toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, community-led-saas-growth-how-ninety-hit-44m-arr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud, socialradarsseason1-tracyyoung-final-1]
-last_updated: 2026-08-07
+sources: [advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a, toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, community-led-saas-growth-how-ninety-hit-44m-arr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud, socialradarsseason1-tracyyoung-final-1]
+last_updated: 2026-08-08
 ---
 
 # Stage-Appropriate Hiring
@@ -32,6 +32,8 @@ Stage-appropriate hiring is the principle that leaders and executives must fit t
 
 [[tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio]] adds the public-company-readiness version through [[SpenserSkates]] and [[Amplitude]]. Spenser says he should have changed some executives before the direct listing rather than avoiding disruption, making [[PublicCompanyTransition]] a stage-change test for whether the current leadership team fits the scrutiny and cadence ahead.
 
+[[advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a]] adds a local-business version through [[TonyDeRosa]] and [[HearsayBrewingAndTheater]]. [[JeffreyHollender]] advises Tony not to interview alone and to look more soberly at fit, because a charismatic candidate or partner prospect can distract from whether the person can actually run the required function.
+
 ## Key Claims
 - Capital can make a company move faster before its operating system is ready for the people it hires.
 - Executives from later-stage environments may bring useful experience but still misfit an earlier-stage company's ambiguity, pace, or culture.
@@ -50,8 +52,10 @@ Stage-appropriate hiring is the principle that leaders and executives must fit t
 - Founders may recognize executive misfit quickly, but delaying action can let inherited playbooks reshape the company.
 - Executive fit should be judged against the current company's customer contact, operating pace, and cultural standards rather than against resume quality alone.
 - Going public can make stage fit more urgent because management weaknesses become visible under investor scrutiny and employee stock-price volatility.
+- Small local businesses also need stage-appropriate hiring: before giving equity, the founder should test whether a leader fits the actual operating role.
 
 ## Connections
+- [[TonyDeRosa]], [[HearsayBrewingAndTheater]], and [[ControlPreservingIncentives]] - local-business hiring and delegation case.
 - [[Ninety]] and [[MarkAbbott]] — source case.
 - [[LargeCompanyOrganizationalInertia]] — adjacent concept about how organization size and rules change individual leverage.
 - [[CommunityLedSaaSGrowth]] — early channel strength that preceded later scaling and hiring complexity.

@@ -2,7 +2,7 @@
 title: "Workplace Incentive Design"
 type: concept
 tags: [workplace, incentives, management, economics]
-sources: [a-pro-worker-experiment-in-private-equity, 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, the-laws-of-the-office-revisited, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
+sources: [advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a, a-pro-worker-experiment-in-private-equity, 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262, the-laws-of-the-office-revisited, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
 last_updated: 2026-08-08
 ---
 
@@ -18,6 +18,8 @@ The source's main lesson is that management tools are never neutral descriptions
 
 [[qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]] adds the employee-option recapture version. If returned or forfeited [[EmployeeStockOptions]] become valuable inventory inside an option pool, management may have a rational but trust-damaging incentive to terminate, renegotiate, or repurchase near vesting unless governance constrains [[OptionPoolRecaptureIncentive]].
 
+[[advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a]] adds a small-business operator version through [[HearsayBrewingAndTheater]]. [[GuyRaz]] and [[JeffreyHollender]] suggest that Tony can create ownership-like motivation through [[ControlPreservingIncentives]], profit sharing, and earned responsibility before making someone an equity partner.
+
 ## Key Claims
 - Rules and measurements should be judged by the behavior they make rational, not only by their intended purpose.
 - Public metrics need outcome checks because workers can protect the metric while weakening the underlying service.
@@ -27,8 +29,10 @@ The source's main lesson is that management tools are never neutral descriptions
 - Episode 79 adds that employees may ration effort, flatter managers, bargain for equity, or resist internal competition because the workplace contract makes those behaviors rational.
 - Ownership incentives require communication and trust; hidden stakes or extractive leadership can weaken the behavior the incentive is supposed to create.
 - Equity plans should be judged by the behavior they create for managers as well as employees, especially when option-pool shares can be recycled.
+- Incentives can be staged: a founder can reward accountability and upside while delaying formal control until role fit is proven.
 
 ## Connections
+- [[HearsayBrewingAndTheater]], [[TonyDeRosa]], and [[ControlPreservingIncentives]] - small-business operator incentive case.
 - [[PrivateEquityWorkerOwnership]], [[KKR]], [[CapitalSafety]], [[GSI]], and [[EmployeeEquityCommunication]] - broad worker-ownership incentive branch.
 - [[GoodhartsLaw]] and [[WorkplaceMetricGaming]] - measurement branch.
 - [[ParkinsonsLaw]] - deadline and scope branch.

@@ -7305,3 +7305,11 @@ Added source page for a 商业就是这样 episode on the 1972 Hongkong Land-Dai
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] ingest | Advice Line: "Strategy Sessions"
+
+Added source page for a How I Built This Advice Line mashup with Guy Raz, Jeffrey Hollender, Sarah LaFleur, and Shazi Visram on Hearsay Brewing and Theater, Tress London, and Brain Buffs. Created pages for Sarah LaFleur, M.M. LaFleur, Tony DeRosa, Hearsay Brewing and Theater, Monica Stoney, Tress London, Sandy Dininger, Brain Buffs, Control-Preserving Incentives, Neighborhood-First Word of Mouth, Direct-Teacher Edtech Pilot, and Edtech Data Value; updated overview, index, How I Built This, Guy Raz, Jeffrey Hollender, Shazi Visram, Equity Incentive Alignment, Workplace Incentive Design, Stage-Appropriate Hiring, Startup Governance, Relationship-Led Growth, Direct-to-Consumer Brand Control, Fast Product Validation, and Product Led Willingness To Pay. No direct contradiction found; the source qualifies founder-control, consumer-brand, and edtech pricing branches by emphasizing staged tests before equity, broad marketing, or permanent pricing commitments.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 10,467 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-07 with 9,679 nodes and 103,834 edges while the current wiki scan found 10,467 pages, so graph findings are advisory until `build graph` refreshes it; the existing graph pass found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`. A bounded fallback scan found likely case-collision duplicate risks at `wiki/entities/LibLib.md` / `wiki/entities/Liblib.md` and `wiki/entities/MidJourney.md` / `wiki/entities/Midjourney.md`, plus documented source tensions around phone-versus-wearable AI assistant centrality and SpaceX IPO/profitability framing. Report returned in-session; `wiki/lint-report.md` was not saved.

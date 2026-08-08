@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line: "Strategy Sessions"](sources/advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a.md) — How I Built This Advice Line mashup with Jeffrey Hollender, Sarah LaFleur, and Shazi Visram on Hearsay Brewing and Theater's equity-control question, Tress London's neighborhood word of mouth, and Brain Buffs' direct-teacher edtech pricing.
 - [Vol.269 小历史 | “不要怕，是技术性调整”](sources/vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119.md) — 商业就是这样 episode on the 1972 Hongkong Land-Dairy Farm takeover, the 1973 Hong Kong stock-market crash, newspaper tender campaigns, stock split confusion, four-exchange fragmentation, and Hong Kong dollar hot-money flows.
 - [No.213 景德镇往事：千年“世界瓷都”的前世今生](sources/no-213-jingdezhen-wangshi-qiannian-shijie-cidu-de-qianshi-jinsheng-1004755625.md) — Banlatte episode on Jingdezhen as a long-running porcelain production system linking raw materials, water transport, kilns, court and export orders, state factories, creative markets, tourism, livestreaming, and advanced ceramics.
 - [AI-driven law could be an answer to accessible legal help](sources/tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128.md) — Marketplace Tech episode with Benjamin Alarie on Super Justice, AI access to legal help, personalized legal guidance, verification, auditability, surveillance risk, and professional accountability.
@@ -913,6 +914,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sarah LaFleur](entities/SarahLaFleur.md) — M.M. LaFleur founder and Advice Line advisor reframing Tress London around lifestyle, trust, and neighborhood-first word of mouth.
+- [M.M. LaFleur](entities/MMLaFleur.md) — Apparel brand whose M-Dash content example anchors Sarah LaFleur's advice on editorial customer relationships.
+- [Tony DeRosa](entities/TonyDeRosa.md) — Hearsay Brewing and Theater founder weighing equity partners against hired operators and control-preserving incentives.
+- [Hearsay Brewing and Theater](entities/HearsayBrewingAndTheater.md) — Ann Arbor brewery, theater, events, food, and improv-workshop business used as the mashup's hospitality control case.
+- [Monica Stoney](entities/MonicaStoney.md) — Tress London founder seeking low-budget word of mouth for premium British-made kidswear.
+- [Tress London](entities/TressLondon.md) — Premium kidswear brand whose conversion depends on tactile proof, garment longevity, and local parent trust.
+- [Sandy Dininger](entities/SandyDininger.md) — Brain Buffs founder asking how to price direct-to-teacher edtech access without undermining district sales.
+- [Brain Buffs](entities/BrainBuffs.md) — Adaptive learning platform framed around misconception diagnosis, teacher recommendations, and district-level data value.
 - [Dairy Farm International / 牛奶公司 / DFI](entities/DairyFarmInternational.md) — Hong Kong milk, cold-chain, food-retail, and later retail-platform company targeted in the 1972 Hongkong Land takeover.
 - [Hongkong Land / 香港置地](entities/HongkongLand.md) — Jardine-backed Hong Kong property company whose share-exchange bid for Dairy Farm anchors Vol.269's takeover and crash account.
 - [Jardine Matheson / 怡和](entities/JardineMatheson.md) — Conglomerate system behind Hongkong Land, used by Vol.269 to explain colonial Hong Kong control networks.
@@ -6250,6 +6259,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Control-Preserving Incentives](concepts/ControlPreservingIncentives.md) — Incentive structures that create operator commitment without immediately transferring founder control.
+- [Neighborhood-First Word of Mouth](concepts/NeighborhoodFirstWordOfMouth.md) — Growth pattern where a premium brand wins a small high-trust local social graph before seeking broad reach.
+- [Direct-Teacher Edtech Pilot](concepts/DirectTeacherEdtechPilot.md) — Low-friction teacher access used to collect proof and referrals before slower district procurement.
+- [Edtech Data Value](concepts/EdtechDataValue.md) — Education-product value that comes from diagnostic data changing teaching, curriculum, or district decisions.
 - [Hongkong Land-Dairy Farm Takeover / 置地饮牛奶](concepts/HongkongLandDairyFarmTakeover.md) — 1972 Hong Kong stock-for-stock takeover case linking corporate control, media persuasion, retail shareholders, and the later crash.
 - [1973 Hong Kong Stock Market Crash / 1973年香港股灾](concepts/HongKong1973StockMarketCrash.md) — Market break interpreted through the Dairy Farm takeover, stock split confusion, four-exchange fragmentation, retail chasing, and currency-flow reversal.
 - [Tender Offer Media Campaign / 收购要约媒体战](concepts/TenderOfferMediaCampaign.md) — Use of advertising, charts, management critique, and shareholder instructions to make a tender offer actionable.

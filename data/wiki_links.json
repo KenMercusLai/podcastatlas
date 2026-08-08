@@ -5815,6 +5815,10 @@
     "title": "Brahim Ghali",
     "url": "/wiki/entities/brahimghali/"
   },
+  "BrainBuffs": {
+    "title": "Brain Buffs",
+    "url": "/wiki/entities/brainbuffs/"
+  },
   "BrandControlledAuthentication": {
     "title": "Brand-Controlled Authentication",
     "url": "/wiki/concepts/brandcontrolledauthentication/"
@@ -8835,6 +8839,10 @@
     "title": "Contrarian Sentiment Indicators",
     "url": "/wiki/concepts/contrariansentimentindicators/"
   },
+  "ControlPreservingIncentives": {
+    "title": "Control-Preserving Incentives",
+    "url": "/wiki/concepts/controlpreservingincentives/"
+  },
   "ControllableLifeAnchors": {
     "title": "Controllable Life Anchors",
     "url": "/wiki/concepts/controllablelifeanchors/"
@@ -10551,6 +10559,10 @@
     "title": "Direct Listing Discipline",
     "url": "/wiki/concepts/directlistingdiscipline/"
   },
+  "DirectTeacherEdtechPilot": {
+    "title": "Direct-Teacher Edtech Pilot",
+    "url": "/wiki/concepts/directteacheredtechpilot/"
+  },
   "DirectToConsumerBrandControl": {
     "title": "Direct-to-Consumer Brand Control",
     "url": "/wiki/concepts/directtoconsumerbrandcontrol/"
@@ -11438,6 +11450,10 @@
   "EdouardPhilippe": {
     "title": "Edouard Philippe",
     "url": "/wiki/entities/edouardphilippe/"
+  },
+  "EdtechDataValue": {
+    "title": "Edtech Data Value",
+    "url": "/wiki/concepts/edtechdatavalue/"
   },
   "EducationAccountabilityProtest": {
     "title": "Education Accountability Protest",
@@ -16046,6 +16062,10 @@
   "HealthyBaby": {
     "title": "Healthy Baby",
     "url": "/wiki/entities/healthybaby/"
+  },
+  "HearsayBrewingAndTheater": {
+    "title": "Hearsay Brewing and Theater",
+    "url": "/wiki/entities/hearsaybrewingandtheater/"
   },
   "HeatedRivalry": {
     "title": "Heated Rivalry",
@@ -21983,6 +22003,10 @@
     "title": "ML Coding",
     "url": "/wiki/concepts/mlcoding/"
   },
+  "MMLaFleur": {
+    "title": "M.M. LaFleur",
+    "url": "/wiki/entities/mmlafleur/"
+  },
   "MOECapital": {
     "title": "MOE Capital",
     "url": "/wiki/entities/moecapital/"
@@ -24007,6 +24031,10 @@
     "title": "Money Movement Infrastructure",
     "url": "/wiki/concepts/moneymovementinfrastructure/"
   },
+  "MonicaStoney": {
+    "title": "Monica Stoney",
+    "url": "/wiki/entities/monicastoney/"
+  },
   "MonogamyAsStabilityStructure": {
     "title": "Monogamy As Stability Structure",
     "url": "/wiki/concepts/monogamyasstabilitystructure/"
@@ -24734,6 +24762,10 @@
   "NegotiationAsBargaining": {
     "title": "Negotiation As Bargaining / 谈判即商量",
     "url": "/wiki/concepts/negotiationasbargaining/"
+  },
+  "NeighborhoodFirstWordOfMouth": {
+    "title": "Neighborhood-First Word of Mouth",
+    "url": "/wiki/concepts/neighborhoodfirstwordofmouth/"
   },
   "NeighborhoodOpportunityAccess": {
     "title": "Neighborhood Opportunity Access",
@@ -30615,6 +30647,10 @@
     "title": "Sandunban / 三顿半",
     "url": "/wiki/entities/sandunban/"
   },
+  "SandyDininger": {
+    "title": "Sandy Dininger",
+    "url": "/wiki/entities/sandydininger/"
+  },
   "SangengBanyeJuranYaoChiXiangjiao": {
     "title": "《三更半夜居然要吃香蕉》",
     "url": "/wiki/entities/sangengbanyejuranyaochixiangjiao/"
@@ -30642,6 +30678,10 @@
   "SarahKunst": {
     "title": "Sarah Kunst",
     "url": "/wiki/entities/sarahkunst/"
+  },
+  "SarahLaFleur": {
+    "title": "Sarah LaFleur",
+    "url": "/wiki/entities/sarahlafleur/"
   },
   "SarahPinsker": {
     "title": "Sarah Pinsker / 莎拉·平斯克",
@@ -35047,6 +35087,10 @@
     "title": "东尼 / Tony (content engineer)",
     "url": "/wiki/entities/tonycontentengineer/"
   },
+  "TonyDeRosa": {
+    "title": "Tony DeRosa",
+    "url": "/wiki/entities/tonyderosa/"
+  },
   "TonyFadell": {
     "title": "Tony Fadell",
     "url": "/wiki/entities/tonyfadell/"
@@ -35298,6 +35342,10 @@
   "TrendFollowing": {
     "title": "Trend Following",
     "url": "/wiki/concepts/trendfollowing/"
+  },
+  "TressLondon": {
+    "title": "Tress London",
+    "url": "/wiki/entities/tresslondon/"
   },
   "TrevorBlackwell": {
     "title": "Trevor Blackwell",
@@ -39330,6 +39378,10 @@
   "a-trip-to-the-magic-mushroom-megachurch": {
     "title": "A trip to the magic mushroom megachurch",
     "url": "/wiki/sources/a-trip-to-the-magic-mushroom-megachurch/"
+  },
+  "advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a": {
+    "title": "Advice Line: \\\"Strategy Sessions\\\"",
+    "url": "/wiki/sources/advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a/"
   },
   "advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c": {
     "title": "Advice Line with Chris Riccobono of UNTUCKit",
