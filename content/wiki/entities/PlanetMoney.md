@@ -8,6 +8,8 @@ last_updated: 2026-08-08
 
 # Planet Money
 
+[[older-workers-arent-retiring-should-they-be-forced-to]] adds a labor and retirement-policy case about older workers remaining in senior roles. The episode connects [[RyanHendrickson]], [[BJSwami]], [[SamuelMoyn]], [[OliviaSMitchell]], and [[EdwardLazear]] to [[CareerMobilityBottleneck]], [[MandatoryRetirementPolicy]], [[LumpOfLaborFallacy]], [[RetirementSecurityTradeoff]], [[ImplicitContractRetirementTheory]], and [[PhasedRetirementSuccession]], narrowing the debate from total job scarcity to scarce senior-role turnover and retirement security.
+
 [[sand-heists-and-property-rights-in-the-caribbean-summer-school]] adds a Summer School episode on the [[Caribbean]] as a small-economy laboratory. The episode connects [[DamianKing]], [[CaribbeanPolicyResearchInstitute]], [[Barbuda]], [[AntiguaAndBarbuda]], [[Jamaica]], [[GastonBrowne]], [[JohnMussington]], [[NataliaJohn]], [[MichaelHilton]], and [[PascalPeduzzi]] to [[SmallOpenEconomyVulnerability]], [[CommunalLandTenure]], [[PropertyRightsAsInvestmentIncentive]], [[PathDependence]], [[SandScarcity]], [[IllegalSandMining]], [[SandTheftExternality]], and [[TourismResourceProtectionFunding]].
 
 [[what-makes-a-toy-go-viral]] adds a consumer-products and toy-retail case through [[SquishyDumplings]]. The episode connects [[ReallyMagicalStuff|RMS]], [[ZachBarber]], [[KristinMcLean]], [[FiveBelow]], [[Yiwu]], and [[TikTok]] to [[MysteryToyPackaging]], [[CollectibleDropScarcity]], [[IntermittentReinforcement]], [[SmallIInnovation]], and [[ViralToySupplyChain]], showing how a small company can convert social-video attention into sales while limiting inventory risk.
@@ -147,6 +149,7 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 [[so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]] adds an AI-market and macro-policy case. The episode uses [[RobinGreenwood]], [[EugeneFama]], [[GadiBarlevy|Gadi Barlevy]], and [[Nvidia]] to explain [[StatisticalBubbleIndicators]], [[MarketEfficiency]], [[LeanVersusCleanBubblePolicy]], and [[ProductiveBubbleSpillovers]].
 
 ## Connections
+- [[RyanHendrickson]], [[BJSwami]], [[SamuelMoyn]], [[OliviaSMitchell]], [[EdwardLazear]], [[CareerMobilityBottleneck]], [[MandatoryRetirementPolicy]], [[LumpOfLaborFallacy]], [[RetirementSecurityTradeoff]], [[ImplicitContractRetirementTheory]], and [[PhasedRetirementSuccession]] - older-worker retirement-policy branch added by the new episode.
 - [[Caribbean]], [[Barbuda]], [[AntiguaAndBarbuda]], [[Jamaica]], [[DamianKing]], [[CaribbeanPolicyResearchInstitute]], [[GastonBrowne]], [[JohnMussington]], [[NataliaJohn]], [[MichaelHilton]], and [[PascalPeduzzi]] - Caribbean property-rights and sand-economy Summer School branch.
 - [[SmallOpenEconomyVulnerability]], [[CommunalLandTenure]], [[PropertyRightsAsInvestmentIncentive]], [[PathDependence]], [[SandScarcity]], [[IllegalSandMining]], [[SandTheftExternality]], [[TourismResourceProtectionFunding]], and [[SmallStateEnforcementCapacity]] - concepts added by the Caribbean Summer School episode.
 - [[Norway]], [[HildeBjornland]], [[FaroukAlQassem]], [[EkofiskOilField]], [[NorwegianOilFund]], [[BjornAdekOlsen]], [[Japan]], and [[Nishire]] - Norway oil and salmon-market Summer School branch.

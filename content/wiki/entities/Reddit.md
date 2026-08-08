@@ -2,8 +2,8 @@
 title: "Reddit"
 type: entity
 tags: [company, social-media, online-community, startups]
-sources: [tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final]
-last_updated: 2026-07-23
+sources: [older-workers-arent-retiring-should-they-be-forced-to, tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final]
+last_updated: 2026-08-08
 ---
 
 # Reddit
@@ -22,6 +22,8 @@ The episode follows Reddit through its June 2005 start, competition with [[Digg]
 
 [[tsr-s5-jared-v3final-tsr-s5-jared-v3final]] adds Reddit as one of [[Scribd]]'s early launch-attention surfaces. In [[JaredFriedman]]'s account, Scribd's March 2007 launch quickly reached [[HackerNews]], TechCrunch, [[Slashdot]], [[Digg]], Reddit, and major news outlets, helping the company move from nearly broke to multiple Series A term sheets.
 
+[[older-workers-arent-retiring-should-they-be-forced-to]] adds Reddit as a workplace-frustration surface. [[BJSwami]]'s post about older workers not retiring helps [[PlanetMoney]] move from individual resentment into [[CareerMobilityBottleneck]], [[MandatoryRetirementPolicy]], and [[RetirementSecurityTradeoff]].
+
 ## Connections
 - [[Scribd]], [[JaredFriedman]], [[HackerNews]], [[Slashdot]], and [[Digg]] - launch-distribution context added by the Jared Friedman episode.
 - [[SteveHuffman]], [[AlexisOhanian]], [[YCombinator]], and [[PaulGraham]] - founding path.
@@ -32,3 +34,4 @@ The episode follows Reddit through its June 2005 start, competition with [[Digg]
 - [[AICollegeSearch]], [[ChatGPT]], and [[Instagram]] - campus-vibe use case added by Marketplace Tech.
 - [[AnswerEngineOptimization]], [[GenerativeEngineOptimization]], and [[TrustAsBusinessAsset]] - brand-reputation use case added by Marketplace Tech.
 - [[AIGeneratedHoaxEvidence]], [[AIRealityVerificationTax]], and [[OutrageTriggeredSkepticism]] - hoax-verification use case added by Marketplace Tech.
+- [[BJSwami]], [[CareerMobilityBottleneck]], and [[MandatoryRetirementPolicy]] - retirement-policy discussion surfaced through Reddit.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Older workers aren't retiring. Should they be forced to?](sources/older-workers-arent-retiring-should-they-be-forced-to.md) — Planet Money episode on older-worker delayed retirement, career mobility bottlenecks, mandatory retirement, lump-of-labor objections, and phased succession.
 - [Outsider chance: ending Sudan's proxy war](sources/outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132.md) — The Intelligence episode on Sudan's foreign-backed war and ceasefire obstacles, the Gordie Howe Bridge trade dispute, and Betye Saar's assemblage art.
 - [Gig workers train humanoids on household chores](sources/tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Joanna Stern on SpaceX's public earnings and AI capex, gig workers filming chores for household-robot training data, and MySpace nostalgia as a reaction to algorithmic social feeds.
 - [178: 与田渊栋聊 RSI：模型自进化如何到来？](sources/yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1.md) — LateTalk interview with Tian Yuandong on Recursive Superintelligence, RSI as AI-aided AI research rather than only coding agents, feedback compression, research taste, scaling plateaus, interpretability, and small hands-on model teams.
@@ -920,6 +921,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Samuel Moyn](entities/SamuelMoyn.md) — Yale historian and law professor arguing that older incumbency in powerful, comfortable roles can block younger workers' opportunity.
+- [Olivia S. Mitchell](entities/OliviaSMitchell.md) — Wharton retirement economist making the lump-of-labor and retirement-security counterargument to broad forced retirement.
+- [Ryan Hendrickson](entities/RyanHendrickson.md) — NASA engineering worker whose blocked supervisor path anchors the source's career-mobility bottleneck case.
+- [BJ Swami](entities/BJSwami.md) — Tech engineer whose Reddit complaint and later company exit illustrate delayed-retirement frustration.
+- [Gerontocracy in America](entities/GerontocracyInAmerica.md) — Samuel Moyn book used by the source to frame older Americans' hold on jobs, wealth, housing, and authority.
+- [Edward Lazear](entities/EdwardLazear.md) — Economist whose deferred-compensation model explains the implicit-contract argument for mandatory retirement endpoints.
 - [Tom Gardner](entities/TomGardner.md) — The Intelligence correspondent grounding the Sudan segment in Khartoum reporting, foreign sponsorship, drone warfare, and ceasefire enforcement risk.
 - [Sudan](entities/Sudan.md) — Country case for a foreign-backed civil war whose capital recapture has not ended humanitarian crisis, drone attacks, or fragmented ceasefire obstacles.
 - [Khartoum](entities/Khartoum.md) — Sudanese capital described after the army's return as devastated, empty, looted, and not yet evidence of national recovery.
@@ -6302,6 +6309,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Career Mobility Bottleneck](concepts/CareerMobilityBottleneck.md) — Scarce senior-role blockage where younger or mid-career workers see no path upward even if total employment is not fixed.
+- [Mandatory Retirement Policy](concepts/MandatoryRetirementPolicy.md) — Age-endpoint rule debated as a domain-specific response to powerful, scarce, or safety-sensitive roles.
+- [Lump of Labor Fallacy](concepts/LumpOfLaborFallacy.md) — Mistaken fixed-jobs assumption used to challenge broad claims that older workers take younger workers' jobs.
+- [Phased Retirement Succession](concepts/PhasedRetirementSuccession.md) — Late-career redesign through mentoring, consulting, reduced duties, and planned handoff rather than abrupt exclusion.
+- [Retirement Security Tradeoff](concepts/RetirementSecurityTradeoff.md) — Tension between making room for younger workers and protecting older workers who need income, identity, or benefits.
+- [Implicit Contract Retirement Theory](concepts/ImplicitContractRetirementTheory.md) — Deferred-compensation model where mandatory retirement bounds the late-career overpayment phase.
 - [Foreign-Backed Civil War](concepts/ForeignBackedCivilWar.md) — Pattern where domestic armed camps keep fighting partly because outside patrons provide weapons, money, cover, or political confidence.
 - [Fragmented Ceasefire Enforcement](concepts/FragmentedCeasefireEnforcement.md) — Problem of implementing a ceasefire when nominal parties are loose armed coalitions rather than tightly controlled organizations.
 - [Cross-Border Infrastructure Trade Tension](concepts/CrossBorderInfrastructureTradeTension.md) — Pattern where mutually useful infrastructure becomes a bargaining object in trade, ownership, or sovereignty politics.

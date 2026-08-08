@@ -2,7 +2,7 @@
 title: "Sarah Gonzalez"
 type: entity
 tags: [person, journalist, podcast-host]
-sources: [the-laws-of-the-office-revisited, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, why-the-us-has-no-guaranteed-paid-vacation, sand-heists-and-property-rights-in-the-caribbean-summer-school]
+sources: [older-workers-arent-retiring-should-they-be-forced-to, the-laws-of-the-office-revisited, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, why-the-us-has-no-guaranteed-paid-vacation, sand-heists-and-property-rights-in-the-caribbean-summer-school]
 last_updated: 2026-08-08
 ---
 
@@ -20,6 +20,8 @@ Her role in the wiki is source framing rather than expert testimony. The episode
 
 [[sand-heists-and-property-rights-in-the-caribbean-summer-school]] adds Gonzalez through the original 2018 [[PlanetMoney]] stolen-sand story, hosted with [[KarenDuffin]]. Her role is reporting context for the [[Jamaica]] beach-theft segment that later becomes a Summer School lesson on [[SandScarcity]], [[IllegalSandMining]], and [[SandTheftExternality]].
 
+[[older-workers-arent-retiring-should-they-be-forced-to]] adds Gonzalez as the host framing delayed retirement as one of the century's major labor-market shifts. Her setup moves the episode from [[RyanHendrickson]] and [[BJSwami]]'s workplace frustration into the policy debate around [[MandatoryRetirementPolicy]], [[LumpOfLaborFallacy]], and [[PhasedRetirementSuccession]].
+
 ## Connections
 - [[PlanetMoney]] and [[NPR]] - show and network context.
 - [[GoodhartsLaw]], [[ParkinsonsLaw]], [[PeterPrinciple]], and [[TruthfulSocialProof]] - office-law branch added by the new episode.
@@ -29,3 +31,4 @@ Her role in the wiki is source framing rather than expert testimony. The episode
 - [[DailyHarvest]], [[TaraFlour]], and [[SecretGRAS]] - food-additive case added by the later source.
 - [[PaidVacationAsLaborRight]] and [[EmployerBargainedBenefits]] - vacation-policy branch added by the later Planet Money episode.
 - [[KarenDuffin]], [[Jamaica]], [[MichaelHilton]], [[SandScarcity]], and [[SandTheftExternality]] - stolen-sand branch added by the Summer School source.
+- [[RyanHendrickson]], [[BJSwami]], [[SamuelMoyn]], [[OliviaSMitchell]], [[MandatoryRetirementPolicy]], and [[LumpOfLaborFallacy]] - older-worker retirement-policy branch added by Planet Money.

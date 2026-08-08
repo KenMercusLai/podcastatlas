@@ -2,13 +2,15 @@
 title: "NASA"
 type: entity
 tags: [space, government, aerospace]
-sources: [taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
+sources: [older-workers-arent-retiring-should-they-be-forced-to, taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
 last_updated: 2026-08-08
 ---
 
 # NASA
 
 [[taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760]] adds NASA as the satellite-measurement anchor for [[EarthEnergyImbalance]]. [[OliverMorton]] says satellite instruments, especially on NASA satellites, are the main way the imbalance is measured, while [[ArgoFloats]] and [[OceanHeatMonitoring]] provide an independent check because most excess heat enters the oceans.
+
+[[older-workers-arent-retiring-should-they-be-forced-to]] adds a workplace-career branch through [[RyanHendrickson]], who worked on NASA missions involving rovers and spacecraft before losing a supervisor opportunity to a much longer-tenured colleague. The source uses his experience as a [[CareerMobilityBottleneck]] case rather than as a technical assessment of NASA.
 
 [[sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074]] adds an earlier public-legitimacy branch through [[CarlSagan|Carl Sagan]] and [[CosmosBook|《宇宙》 / Cosmos]]. The source says Sagan's Cosmos documentary helped [[NASA]] show why space exploration mattered to ordinary people at a time when critics questioned the cost of space programs. This turns NASA into a case for [[HumanisticScienceCommunication]] before the later Artemis livestreaming branch.
 
@@ -28,6 +30,7 @@ The source frames NASA's shift from government-led building toward government-as
 
 ## Connections
 - [[SpaceX]] and [[Falcon9]] — commercial launch context in the source.
+- [[RyanHendrickson]], [[CareerMobilityBottleneck]], and [[MandatoryRetirementPolicy]] - Planet Money labor-policy branch using NASA as the workplace case.
 - [[EarthEnergyImbalance]], [[OceanHeatMonitoring]], [[ArgoFloats]], and [[AlbedoFeedback]] - satellite and ocean heat measurement branch added by The Intelligence.
 - [[Artemis2|Artemis 2]], [[YouTube]], and [[SpaceMissionLivestreaming]] - April 10 Marketplace Tech public-engagement update.
 - [[ReusableRocketEconomics]] — launch-cost shift that changed what NASA and commercial customers could buy.

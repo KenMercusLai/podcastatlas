@@ -4671,6 +4671,10 @@
     "title": "BJD Doll Makeup Commission / BJD妆面约稿",
     "url": "/wiki/concepts/bjddollmakeupcommission/"
   },
+  "BJSwami": {
+    "title": "BJ Swami",
+    "url": "/wiki/entities/bjswami/"
+  },
   "BLACKPINK": {
     "title": "BLACKPINK",
     "url": "/wiki/entities/blackpink/"
@@ -6650,6 +6654,10 @@
   "CareerExitFriction": {
     "title": "Career Exit Friction / 职业退出摩擦",
     "url": "/wiki/concepts/careerexitfriction/"
+  },
+  "CareerMobilityBottleneck": {
+    "title": "Career Mobility Bottleneck",
+    "url": "/wiki/concepts/careermobilitybottleneck/"
   },
   "CareerOptionality": {
     "title": "Career Optionality",
@@ -11555,6 +11563,10 @@
     "title": "Edward Jones / 爱德华·琼斯",
     "url": "/wiki/entities/edwardjonespsychologist/"
   },
+  "EdwardLazear": {
+    "title": "Edward Lazear",
+    "url": "/wiki/entities/edwardlazear/"
+  },
   "EdwardThorp": {
     "title": "Edward Thorp",
     "url": "/wiki/entities/edwardthorp/"
@@ -14915,6 +14927,10 @@
     "title": "Germany",
     "url": "/wiki/entities/germany/"
   },
+  "GerontocracyInAmerica": {
+    "title": "Gerontocracy in America",
+    "url": "/wiki/entities/gerontocracyinamerica/"
+  },
   "Gethen": {
     "title": "格森星 / Gethen",
     "url": "/wiki/entities/gethen/"
@@ -17442,6 +17458,10 @@
   "ImpermanenceAndNoSelf": {
     "title": "Impermanence And No-Self",
     "url": "/wiki/concepts/impermanenceandnoself/"
+  },
+  "ImplicitContractRetirementTheory": {
+    "title": "Implicit Contract Retirement Theory",
+    "url": "/wiki/concepts/implicitcontractretirementtheory/"
   },
   "ImportApprovalBottleneck": {
     "title": "Import Approval Bottleneck",
@@ -22007,6 +22027,10 @@
     "title": "Lululemon",
     "url": "/wiki/entities/lululemon/"
   },
+  "LumpOfLaborFallacy": {
+    "title": "Lump of Labor Fallacy",
+    "url": "/wiki/concepts/lumpoflaborfallacy/"
+  },
   "LunarNuclearPower": {
     "title": "Lunar Nuclear Power",
     "url": "/wiki/concepts/lunarnuclearpower/"
@@ -22426,6 +22450,10 @@
   "MandateOfHeavenLegitimacy": {
     "title": "Mandate of Heaven Legitimacy / 天命合法性",
     "url": "/wiki/concepts/mandateofheavenlegitimacy/"
+  },
+  "MandatoryRetirementPolicy": {
+    "title": "Mandatory Retirement Policy",
+    "url": "/wiki/concepts/mandatoryretirementpolicy/"
   },
   "MandySuzanneWong": {
     "title": "Mandy Suzanne Wong",
@@ -25783,6 +25811,10 @@
     "title": "Olivia Joan Golly",
     "url": "/wiki/entities/oliviajoangolly/"
   },
+  "OliviaSMitchell": {
+    "title": "Olivia S. Mitchell",
+    "url": "/wiki/entities/oliviasmitchell/"
+  },
   "OliviaValdez": {
     "title": "Olivia Valdez",
     "url": "/wiki/entities/oliviavaldez/"
@@ -27186,6 +27218,10 @@
   "PharmacistAsSecondDoctor": {
     "title": "Pharmacist As Second Doctor / 药剂师第二医生体系",
     "url": "/wiki/concepts/pharmacistasseconddoctor/"
+  },
+  "PhasedRetirementSuccession": {
+    "title": "Phased Retirement Succession",
+    "url": "/wiki/concepts/phasedretirementsuccession/"
   },
   "PhilHolstead": {
     "title": "Phil Holstead",
@@ -29783,6 +29819,10 @@
     "title": "Retirement Cash-Flow Security",
     "url": "/wiki/concepts/retirementcashflowsecurity/"
   },
+  "RetirementSecurityTradeoff": {
+    "title": "Retirement Security Tradeoff",
+    "url": "/wiki/concepts/retirementsecuritytradeoff/"
+  },
   "RetrievalAugmentedGeneration": {
     "title": "Retrieval-Augmented Generation",
     "url": "/wiki/concepts/retrievalaugmentedgeneration/"
@@ -30495,6 +30535,10 @@
     "title": "Ruth Porat",
     "url": "/wiki/entities/ruthporat/"
   },
+  "RyanHendrickson": {
+    "title": "Ryan Hendrickson",
+    "url": "/wiki/entities/ryanhendrickson/"
+  },
   "RyanPetersen": {
     "title": "Ryan Petersen",
     "url": "/wiki/entities/ryanpetersen/"
@@ -30762,6 +30806,10 @@
   "SamuelBretton": {
     "title": "Samuel Bretton",
     "url": "/wiki/entities/samuelbretton/"
+  },
+  "SamuelMoyn": {
+    "title": "Samuel Moyn",
+    "url": "/wiki/entities/samuelmoyn/"
   },
   "SamuraiWilliam": {
     "title": "《武士威廉》",
@@ -40698,6 +40746,10 @@
   "no-213-jingdezhen-wangshi-qiannian-shijie-cidu-de-qianshi-jinsheng-1004755625": {
     "title": "No.213 景德镇往事：千年“世界瓷都”的前世今生",
     "url": "/wiki/sources/no-213-jingdezhen-wangshi-qiannian-shijie-cidu-de-qianshi-jinsheng-1004755625/"
+  },
+  "older-workers-arent-retiring-should-they-be-forced-to": {
+    "title": "Older workers aren't retiring. Should they be forced to?",
+    "url": "/wiki/sources/older-workers-arent-retiring-should-they-be-forced-to/"
   },
   "omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb": {
     "title": "Omission accomplished: why the Iran-war cycle spins on",

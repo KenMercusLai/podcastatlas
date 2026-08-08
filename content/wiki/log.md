@@ -7361,3 +7361,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-08] ingest | Older workers aren't retiring. Should they be forced to?
+
+Added source page for a Planet Money episode on delayed retirement, career mobility bottlenecks, mandatory retirement, and the lump-of-labor counterargument. Created pages for Ryan Hendrickson, BJ Swami, Samuel Moyn, Olivia S. Mitchell, Gerontocracy in America, Edward Lazear, Career Mobility Bottleneck, Mandatory Retirement Policy, Lump of Labor Fallacy, Phased Retirement Succession, Retirement Security Tradeoff, and Implicit Contract Retirement Theory; updated overview, index, Planet Money, NPR, Sarah Gonzalez, NASA, Reddit, Wharton School, Older Worker AI Retirement, Institutional Knowledge Transfer, and Employer-Bargained Benefits. No direct contradiction found; the source adds a productive tension between preserving older workers' knowledge and security, rejecting fixed-jobs reasoning, and acknowledging real bottlenecks in scarce senior roles.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
