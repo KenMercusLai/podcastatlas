@@ -2,11 +2,13 @@
 title: "AI Verification"
 type: concept
 tags: [ai, verification, safety, agents]
-sources: [jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429, tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
+sources: [yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1, jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429, tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
 last_updated: 2026-08-08
 ---
 
 # AI Verification
+
+[[yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1]] adds [[TianYuandong|田渊栋]]'s low-level RSI examples. NanoChat speed runs and operator optimization matter because they provide relatively clear metrics; the source implies that [[RecursiveSelfImprovement]] will be much harder in domains where the verifier cannot tell whether a research direction is genuinely better.
 
 [[jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429]] adds the agent-reliability version through [[JiaYangqing|Jia Yangqing]]. The source argues that multi-agent systems still need external checks: writer and reviewer agents can agree on incomplete work unless a harness, task criterion, or human reviewer can verify the result.
 
@@ -31,6 +33,7 @@ The source separates easy-to-check domains from judgment-heavy domains. Code and
 - [[AIForMath]] is attractive because mathematics provides a cleaner digital sandbox for verification than many physical science domains.
 - Medical AI verification needs scenario-based review, source grounding, and clinician judgment because correct-looking prose can still fail in patient-specific context.
 - Legal AI verification needs auditability and professional review because plausible case law, tax analysis, or legal advice can create real liability when wrong.
+- Tian's source adds that low-order RSI is more credible when the task has cheap, strong, hard-to-game metrics; higher-order discovery still needs taste and interpretability as part of verification.
 
 ## Connections
 - [[AICodingVerification]] — software-specific verification branch already tracked in the wiki.
@@ -40,3 +43,4 @@ The source separates easy-to-check domains from judgment-heavy domains. Code and
 - [[HealthBench]], [[EvidenceGroundedMedicalRAG]], and [[HIPAAConstrainedMedicalAI]] — medical AI evaluation, evidence, and compliance branch added by E227.
 - [[AIForMath]], [[AxiomProver]], [[AutoFormalization]], and [[FormalSpecification]] — formal-math verifier branch added by episode 137.
 - [[LegalAIVerificationAuditability]], [[LegalAIHallucination]], and [[HumanInTheLoopLegalAI]] - legal and tax verification branch added by Marketplace Tech.
+- [[TianYuandong]], [[AIResearchFeedbackCompression]], [[MLCoding]], and [[ResearchTaste]] — LateTalk episode 178's research-loop verification branch.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [178: 与田渊栋聊 RSI：模型自进化如何到来？](sources/yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1.md) — LateTalk interview with Tian Yuandong on Recursive Superintelligence, RSI as AI-aided AI research rather than only coding agents, feedback compression, research taste, scaling plateaus, interpretability, and small hands-on model teams.
 - [贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24](sources/jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429.md) — What's Next｜科技早知道 and 声东击西 crossover with Jia Yangqing on AI's shift from unfashionable research label to infrastructure, cloud, startup, and agent-verification platform.
 - [Socialist mobility: a telling Michigan vote](sources/socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216.md) — The Intelligence episode on Abdul El-Sayed's Michigan primary win, Yangtze fishing-ban recovery, and postcards' intelligence and cultural history.
 - [AI chatbots have linguistic slips when they go off-script](sources/tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128.md) — Marketplace Tech Uncanny AI episode with Janelle Shane on chatbot code-switching, multilingual training data, domain bleed-through, unreliable self-explanations, and why fluent AI output can hide boundary failures.
@@ -917,6 +918,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tian Yuandong / 田渊栋](entities/TianYuandong.md) — AI researcher and Recursive Superintelligence co-founder interviewed by LateTalk on RSI, research taste, scaling limits, interpretability, and hands-on AI research teams.
 - [Jia Yangqing / 贾扬清](entities/JiaYangqing.md) — AI infrastructure engineer and founder linking Caffe, Google Brain, Facebook AI Infra, Alibaba Cloud, Lepton AI, Nvidia, and agent reliability.
 - [Caffe](entities/Caffe.md) — Early deep-learning framework created by Jia Yangqing that made model experimentation and sharing easier after the ImageNet deep-learning turn.
 - [Google Brain](entities/GoogleBrain.md) — Google AI research and infrastructure organization tying deep learning, TensorFlow, TPUs, and product deployment together in Jia Yangqing's account.
@@ -6282,6 +6284,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Research Feedback Compression](concepts/AIResearchFeedbackCompression.md) — how agents shorten idea-code-experiment-result loops while moving bottlenecks to verification, research taste, and compute triage.
 - [Agent Reliability Verification](concepts/AgentReliabilityVerification.md) — Requirement that agent systems prove results through harnesses, external checks, and acceptance criteria rather than agent count alone.
 - [What Over How Work Shift](concepts/WhatOverHowWorkShift.md) — AI-era shift where humans define goals, constraints, and judgment while AI handles more execution detail.
 - [Statewide Left Primary Test](concepts/StatewideLeftPrimaryTest.md) — Frame for reading a left-wing primary win in a competitive state as stronger evidence than an urban progressive victory.

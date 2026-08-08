@@ -2,11 +2,13 @@
 title: "Recursive Self-Improvement"
 type: concept
 tags: [ai, agents, training, safety]
-sources: [xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza, 149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv]
+sources: [yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza, 149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv]
 last_updated: 2026-08-08
 ---
 
 # Recursive Self-Improvement
+
+[[yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1]] adds [[TianYuandong|田渊栋]]'s founder/operator version through [[Recursive|Recursive Superintelligence]]. He treats coding and agentic behavior as necessary early supports, but not the whole RSI problem: stronger systems also need [[ResearchTaste]], abstraction, direction judgment, and the ability to identify useful model-design or training insights from sparse evidence.
 
 [[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] adds a local, verifiable RSI loop through [[KernelDevelopmentAgents]]. The source argues that kernel optimization has three favorable properties for self-improvement: it is cheap to run, correctness and speed are measurable, and cheating can be punished with targeted tests. K3's early checkpoints reportedly helping later checkpoints train faster is treated as a partial self-improvement loop, not as proof of open-ended autonomous recursion.
 
@@ -41,6 +43,8 @@ The source is careful about the difference between one self-improvement loop and
 - The Musk interview shows a political consequence of RSI fear: a builder can move from warning about runaway improvement to racing inside the same system because they believe refusal would not stop the race.
 - Liu's source adds that AI-for-AI progress does not automatically solve abstraction or continual learning, so model-design automation should not be equated with full AGI.
 - Kernel work shows why RSI may arrive unevenly: domains with cheap, strong verifiers can improve faster than domains where goals, rewards, or failure modes are ambiguous.
+- Tian's source adds that RSI may arrive before full automation: humans can remain in the loop while AI compresses experiment cycles and pushes people toward higher-level judgment.
+- The episode adds a scaling-dynamics caveat: if model progress follows S-curve plateaus and breakthroughs rather than one smooth scaling law, first-mover advantage may be less absolute than simple compounding stories imply.
 
 ## Connections
 - [[Apodex]], [[LiBeibin]], and [[DuShaolei]] — source company and speakers.
@@ -55,3 +59,4 @@ The source is careful about the difference between one self-improvement loop and
 - [[ChaSheng]], [[AmazonAGI]], [[HumanTasteAsAITrainingSignal]], and [[AgentHarness]] - Qizhulou Yan Binke qualification of self-improvement as still harnessed by human direction.
 - [[LiuZiming|Liu Ziming]], [[AIForAI]], [[PhysicsOfAI]], [[OPHISResearchWorkflow]], and [[MetaModelTrainingCurvePrediction]] - episode 149's structure-first route from research automation toward possible self-improvement.
 - [[KernelDevelopmentAgents]], [[KimiK3]], [[AICodingVerification]], and [[ModelInfraCoDesign]] - K3 local self-improvement loop added by LateTalk episode 177.
+- [[TianYuandong]], [[Recursive]], [[AIResearchFeedbackCompression]], [[MechanisticInterpretability]], and [[FrontierModelScaling]] - LateTalk episode 178's RSI company, research-loop, and scaling-dynamics branch.

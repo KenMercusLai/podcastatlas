@@ -2,11 +2,13 @@
 title: "ML Coding"
 type: concept
 tags: [ai-coding, ai-research, model-training]
-sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
-last_updated: 2026-07-08
+sources: [yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
+last_updated: 2026-08-08
 ---
 
 # ML Coding
+
+[[yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1]] adds [[TianYuandong|田渊栋]]'s caution that [[MLCoding]] is a support for [[RecursiveSelfImprovement]], not the whole thing. He argues that AI research problems differ from tasks like writing a compiler or an application because the path to a breakthrough is often unknown even to humans.
 
 ML Coding is [[YaoShunyu]]'s term in [[140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]] for AI systems helping with machine-learning research itself. It extends ordinary AI coding from application implementation into writing experiment code, running jobs, reading outputs, diagnosing failures, analyzing results, and proposing the next training or research hypothesis.
 
@@ -25,6 +27,7 @@ ML Coding is [[YaoShunyu]]'s term in [[140-dui-yao-shunyu-de-4-xiaoshi-fangtan-q
 - In an agent framework, ML Coding can involve multiple agents exploring variants and cross-checking results, which raises the importance of [[AgentRL]] and evaluation infrastructure.
 - Episode 136 treats ML Coding as the bridge from coding agents to automated AI researchers, not only as a productivity aid for existing researchers.
 - The LateTalk source adds that ML Coding is also a competitive weapon for frontier labs because better coding agents can accelerate model-company research itself.
+- Tian's source adds that ML Coding becomes more valuable when paired with research taste, verifier design, and the ability to abstract from results rather than only generate more experiments.
 
 ## Connections
 - [[YaoShunyu]] — source speaker and practitioner.
@@ -36,3 +39,4 @@ ML Coding is [[YaoShunyu]]'s term in [[140-dui-yao-shunyu-de-4-xiaoshi-fangtan-q
 - [[LuoFuli]], [[OpenClaw]], [[AgentPostTraining]], and [[TrainingComputeAllocation]] — agent-accelerated research loop added by episode 138.
 - [[AGIThreeActs]], [[ModelHarnessCoEvolution]], [[ClaudeCode]], and [[Codex]] — coding-to-research automation route added by episode 136.
 - [[AutoResearch]], [[RecursiveSelfImprovement]], [[Recursive]], and [[AIInvestmentMetrics]] — Q2 2026 coding-to-RSI update added by LateTalk.
+- [[TianYuandong]], [[AIResearchFeedbackCompression]], [[ResearchTaste]], and [[AIForAI]] — LateTalk episode 178's distinction between coding acceleration and open-ended AI research.

@@ -2,11 +2,13 @@
 title: "Frontier Model Scaling"
 type: concept
 tags: [models, scaling, infrastructure]
-sources: [tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
-last_updated: 2026-07-10
+sources: [yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
+last_updated: 2026-08-08
 ---
 
 # Frontier Model Scaling
+
+[[yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1]] adds [[TianYuandong|田渊栋]]'s plateau-and-breakthrough view. He does not reject scaling, but argues that compute, data, and energy make pure scaling increasingly expensive; if intelligence improves through S-curve phases rather than a smooth line, new methods and startup research can still matter even when large labs have more resources.
 
 Frontier model scaling is the attempt to improve AI capability by increasing model scale, training quality, data quality, data quantity, architecture quality, and training efficiency. In [[duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe]], [[YanJunjie]] frames scaling as an accumulation problem rather than a single hard blocker.
 
@@ -51,6 +53,7 @@ Frontier model scaling is the attempt to improve AI capability by increasing mod
 - Scaling-wall claims should be separated from failures caused by bugs, wrong data, narrow token horizons, weak environments, or ill-defined objectives.
 - In the agent era, base scale may be necessary but not sufficient: architecture, long-context efficiency, post-training, framework fit, and cost routing decide whether scale appears in real work.
 - Compute allocation must expand beyond pretraining because agent post-training and rollouts can consume substantial parallel research resources.
+- Tian's source adds that first-mover advantage depends on the shape of progress: smooth scaling favors incumbents, while plateau-and-breakthrough dynamics leave more room for new methods.
 
 ## Connections
 - [[MiniMax]] and [[YanJunjie]] — source of the scaling discussion.
@@ -68,3 +71,4 @@ Frontier model scaling is the attempt to improve AI capability by increasing mod
 - [[XieChen]], [[DataAsEducation]], [[DataRecipeCoCreation]], [[EmbodiedDataPyramid]], and [[RoboticsSimulationEvaluation]] — data-recipe and evaluation constraints added by episode 134.
 - [[YaoShunyu]], [[LongHorizonAI]], [[MLCoding]], and [[ProblemDefinitionInResearch]] — problem-definition and no-obvious-slowdown view added by episode 140.
 - [[LuoFuli]], [[MemoVR]], [[AgentPostTraining]], [[AgentRL]], and [[TrainingComputeAllocation]] — agent-era scaling and compute-allocation view added by episode 138.
+- [[TianYuandong]], [[Recursive]], [[RecursiveSelfImprovement]], [[AIResearchFeedbackCompression]], and [[MechanisticInterpretability]] — RSI and new-methods branch added by LateTalk episode 178.

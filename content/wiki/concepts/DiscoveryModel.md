@@ -2,11 +2,13 @@
 title: "Discovery Model"
 type: concept
 tags: [ai, science, research]
-sources: [ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]
-last_updated: 2026-07-24
+sources: [yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]
+last_updated: 2026-08-08
 ---
 
 # Discovery Model
+
+[[yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1]] adds [[TianYuandong|田渊栋]]'s stronger-discovery aspiration. In this source, low-level [[RecursiveSelfImprovement]] can optimize code or operators, but a higher-order discovery system would need to act more like an Einstein or Newton: extracting deep structure from sparse evidence, not merely running many benchmarked experiments.
 
 A discovery model is the source's name for an AI system that can propose new hypotheses and verify whether they hold. In [[e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]], [[Apodex]] uses this frame to distinguish itself from generative chat, image, or video products: the goal is not only to answer questions, but to solve hard scientific and technical problems.
 
@@ -20,6 +22,7 @@ The episode argues that the hard part is not producing a plausible hypothesis. A
 - [[DeepResearch]] is a stepping stone because search, planning, and synthesis are needed before a model can make scientific proposals.
 - Code, simulation, formal math, and agent-team critique are all possible verification surfaces.
 - Top-scientist feedback is treated as a scarce post-training signal for teaching problem choice and research taste.
+- Tian's source adds that scaling up from low-order optimization to deep discovery requires abstraction and principle-finding, not only faster experiment throughput.
 
 ## Connections
 - [[Apodex]], [[ChenTianqiao]], [[DuShaolei]], and [[LiBeibin]] — company and people attached to the concept in the source.
@@ -27,3 +30,4 @@ The episode argues that the hard part is not producing a plausible hypothesis. A
 - [[ResearchTaste]] and [[ProblemDefinitionInResearch]] — judgment about which scientific questions matter.
 - [[RecursiveSelfImprovement]], [[DeepResearch]], and [[AIVerification]] — technical loop needed for discovery rather than answer generation.
 - [[YinglingdianAI]], [[AllModalMolecularWorldModel]], [[AIDrugDiscoveryPlatform]], and [[ScientificDiscoveryAutomation]] — biological discovery branch added by the Shizilukou Crossing source.
+- [[TianYuandong]], [[AIResearchFeedbackCompression]], [[MechanisticInterpretability]], and [[AIForScience]] — LateTalk episode 178's route from AI-for-AI toward broader discovery systems.

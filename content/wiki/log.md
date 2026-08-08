@@ -7090,6 +7090,10 @@ Added source page for a LateTalk episode with Yuan Xin of SAP on ERP, AI coding,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-08] ingest | 178: 与田渊栋聊 RSI：模型自进化如何到来？
+
+Added source page for a LateTalk episode with Tian Yuandong on Recursive Superintelligence and recursive self-improvement. Created pages for Tian Yuandong / 田渊栋 and AI Research Feedback Compression; updated overview, index, LateTalk, Recursive, Recursive Self-Improvement, Auto Research, AI For AI, Research Taste, Mechanistic Interpretability, Frontier Model Scaling, ML Coding, AI Verification, AI Organization Design, AI For Science, Discovery Model, and Anthropic. No direct contradiction found; the source qualifies earlier RSI coverage by separating coding-agent acceleration and low-level verifiable optimization from full open-ended research self-improvement, while adding scaling-plateau, interpretability, and hands-on team-structure considerations.
+
 ## [2026-08-08] ingest | 「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】
 
 Added source page for a Shizilukou Crossing road-podcast episode with Will Wang Tianfan of B.A.I Capital on 15 years in VC, AI-era investment judgment, context machines, wisdom over intelligence, AI-native investing workflows, AI infra versus crypto infra, blockchain financial innovation, three-non venture theory, Lookie, Mashie, and AI for fun. Created pages for Wang Tianfan, B.A.I Capital, Lookie, Mashie, Yuan Ming, Wisdom Over Intelligence, AI Context Machine, AI-Native Investing Workflow, AI Cognitive Gym, Three-Non Venture Theory, AI Infra Crypto Analogy, Blockchain Financial Innovation, and AI For Fun; updated overview and index. No direct contradiction found; the source qualifies productivity-only AI and upstream-infrastructure hype by emphasizing context, feedback, founder vision, human agency, joy, and actual product use.
@@ -7333,6 +7337,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] ingest | 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24
 
 Added source page for a What's Next｜科技早知道 and 声东击西 crossover with Jia Yangqing on the AI path from research skepticism to industrial and organizational centrality. Created pages for Jia Yangqing, Caffe, Google Brain, Facebook AI Infra, Lepton AI, Agent Reliability Verification, and What Over How Work Shift; updated overview, index, What's Next｜科技早知道, 声东击西, 徐涛, TensorFlow, PyTorch, Alibaba Cloud, Nvidia, DeepSeek, AI Verification, AI Coding Verification, Agent Harness, Multi-Agent Collaboration, AI Programming Engine Shift, AI Infrastructure As Product, Neo Cloud, Human Judgment Under AI, AI Organization Design, and Large Company Organizational Inertia. No direct contradiction found; the source reinforces the wiki's existing thesis that AI progress depends on infrastructure, workflow, verification, and human problem definition rather than model intelligence alone.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-08] lint | Wiki health check
 
