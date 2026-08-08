@@ -2,13 +2,15 @@
 title: "Retail Bull Market Psychology"
 type: concept
 tags: [investing, psychology, markets, behavior]
-sources: [171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
-last_updated: 2026-08-07
+sources: [vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119, 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
+last_updated: 2026-08-08
 ---
 
 # Retail Bull Market Psychology
 
 [[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds the late-cycle loss version. The episode says visible winners and peer comparison can make skeptical investors capitulate near the end, then combine late entry, excessive trading, and oversized bets with [[MarketBreadthNarrowing]] and [[BubbleWealthRedistribution]].
+
+[[vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119]] adds a 1970s Hong Kong version. The episode argues that after the [[HongkongLandDairyFarmTakeover|置地饮牛奶]] success, ordinary investors chased shares amid rising turnover, [[BonusShareSplitMisreading|拆股送股误读]], and [[FourExchangeHongKongMarketFragmentation|four-exchange participation]], helping turn a takeover story into the [[HongKong1973StockMarketCrash|1973 Hong Kong crash]] setup.
 
 [[157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]] adds the experienced-investor failure mode. Beginners may lose by chasing highs, but older investors can also give back gains by treating the first bear-market decline as an obvious bargain and returning to the battlefield too soon.
 
@@ -35,6 +37,7 @@ The concept is narrower than [[RetailInvestorCrowding]]. Retail crowding describ
 - Vol.121 adds that leverage products can intensify bull-market psychology because amplified gains make ordinary market beta feel dull.
 - Episode 157 adds that experienced investors may give back gains by treating early bear-market falls as bargains too soon.
 - Episode 171 adds that the phrase "missing out is also a loss" can turn restraint into late-cycle chasing.
+- Vol.269 adds that retail bull-market psychology can form around corporate-action mechanics, not only around simple price charts or policy slogans.
 
 ## Connections
 - [[BullMarketProfitPreservation]] and [[BullMarketBezzleTrap]] - episode 157's profit-preservation and narrative-trap extension.
@@ -49,3 +52,4 @@ The concept is narrower than [[RetailInvestorCrowding]]. Retail crowding describ
 - [[ZhuNing]] and [[BubbleNecessaryConditions]] — 42章经 interview extension around crowd entry and late-cycle information arrival.
 - [[ChineseStructuredFund]], [[StructuredFundDownwardConversion]], and [[LeveragedProductSuitability]] — vol.121's structured-fund mania extension.
 - [[LateBullMarketLossRisk]], [[MarketBreadthNarrowing]], and [[BubbleWealthRedistribution]] - episode 171's late-cycle structure and redistribution extension.
+- [[HongKong1973StockMarketCrash]], [[HongkongLandDairyFarmTakeover]], [[RetailShareholderTenderMobilization]], and [[BonusShareSplitMisreading]] - Vol.269's Hong Kong retail-participation extension.

@@ -2,8 +2,8 @@
 title: "Hong Kong / 香港"
 type: entity
 tags: [city, real-estate, finance, housing, china]
-sources: [137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046]
-last_updated: 2026-08-04
+sources: [vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046]
+last_updated: 2026-08-08
 ---
 
 # Hong Kong / 香港
@@ -16,6 +16,8 @@ The source's main wiki contribution is [[HousingExperienceInvestmentSplit]]. Hon
 
 [[no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046]] adds Hong Kong as both a node in [[QiaopiRemittanceNetworks]] and the external-capital neighbor that made [[Shenzhen]] structurally different from [[ShantouSpecialEconomicZone]]. The episode uses Hong Kong proximity to explain why special-zone labels did not imply equal development conditions.
 
+[[vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119]] adds a financial-history layer through the [[HongkongLandDairyFarmTakeover|置地饮牛奶]] case and the [[HongKong1973StockMarketCrash|1973年香港股灾]]. The episode uses [[HongkongLand|香港置地]], [[DairyFarmInternational|牛奶公司]], [[JardineMatheson|怡和]], the [[HangSengIndex|恒生指数]], [[FourExchangeHongKongMarketFragmentation|四会并列]], and [[HongKongDollarHotMoneyCycle|港元热钱]] to show Hong Kong as a market where colonial conglomerate control, retail participation, exchange fragmentation, and currency shifts interacted.
+
 ## Source Position
 - The episode says Hong Kong's housing pressure is visible in high prices and small living spaces.
 - The hosts mention a reported split where only about a quarter of land is developed, while leaving the reasons unresolved.
@@ -23,6 +25,7 @@ The source's main wiki contribution is [[HousingExperienceInvestmentSplit]]. Hon
 - Vol.104 treats Hong Kong equities as part of the broader China asset map, alongside the [[ShanghaiStockExchange|Shanghai Stock Exchange]] and Shenzhen market, but with a distinct offshore liquidity and governance risk structure.
 - Banlatte episode 205 uses Hong Kong as the nearby industrial-transfer and capital channel that Shantou lacked.
 - The same episode also places Hong Kong in overseas Chaoshan merchant networks such as the [[ChenCihong]] family route.
+- Vol.269 uses Hong Kong as a historical securities-market setting where a takeover battle helped convert company-story excitement into wider speculative pressure.
 
 ## Connections
 - [[Shenzhen]] and [[Guangzhou]] - comparison cities in the source.
@@ -30,3 +33,4 @@ The source's main wiki contribution is [[HousingExperienceInvestmentSplit]]. Hon
 - [[HumanConnectionUnderAI]] - Hong Kong also appears through offline member activities.
 - [[HongKongMarketStructure]], [[HongKongStockConnect]], and [[HongKongRetailInvestorSurvival]] - finance-market context added by vol.104.
 - [[Shantou]], [[ShantouSpecialEconomicZone]], [[ChinaSpecialEconomicZoneAsymmetry]], and [[QiaopiRemittanceNetworks]] - Chaoshan comparison and diaspora-finance context.
+- [[HongKong1973StockMarketCrash]], [[HongkongLandDairyFarmTakeover]], [[FourExchangeHongKongMarketFragmentation]], and [[HongKongDollarHotMoneyCycle]] - financial-history branch added by Vol.269.

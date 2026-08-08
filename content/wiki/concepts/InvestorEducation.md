@@ -2,8 +2,8 @@
 title: "Investor Education"
 type: concept
 tags: [finance, investing, consumer-risk, trust]
-sources: [145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]
-last_updated: 2026-08-06
+sources: [vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119, 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]
+last_updated: 2026-08-08
 ---
 
 # Investor Education
@@ -13,6 +13,8 @@ Investor education is the work of making financial customers understand product 
 [[e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]] adds the asset-management version: communication is not marketing noise but a way to help holders understand which parts of past performance were repeatable, when the strategy may underperform, and whether their own capital duration fits the product.
 
 [[145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi]] adds the [[FundInvestmentAdvisory|fund advisory]] version. Education in advisory means explaining why a portfolio was matched to the client's goal, what fees are being charged, why rebalancing happened, what conflicts may exist, and how to interpret market declines without turning every drawdown into redemption.
+
+[[vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119]] adds a historical corporate-action version. The [[HongkongLandDairyFarmTakeover|置地饮牛奶]] case shows why investors need to understand stock-for-stock offers, paper-share tender procedures, bonus shares, stock splits, dividends, and ex-rights adjustments before treating a rising share count or lower nominal price as real wealth.
 
 ## Key Claims
 - A signed form or recorded risk disclosure does not prove that a customer truly understands a product.
@@ -37,6 +39,7 @@ Investor education is the work of making financial customers understand product 
 - Platform verification is part of investor education: a good-looking app, seminar room, certificate wall, or chat group does not prove regulated custody or real execution.
 - Identity verification must adapt to [[AIImpersonationFraudRisk]] by using slower independent confirmation rather than trusting a single urgent voice or video-like signal.
 - Fund-advisory education should make [[FundAdvisoryFeeTransparency]], [[FundRecommendationConflictDisclosure]], and [[InvestmentBehaviorCoaching]] legible so clients understand what they are paying for and whose interest the recommendation serves.
+- Corporate-action education should explain [[BonusShareSplitMisreading]], tender mechanics, and ex-rights adjustment because takeover battles can turn technical share changes into speculative signals.
 
 ## Connections
 - [[IndependentInvestmentConsulting]] — advisory model that depends on customers paying for understanding and decision support.
@@ -52,3 +55,4 @@ Investor education is the work of making financial customers understand product 
 - [[PonziScheme]], [[AdvanceFeeFraud]], [[SocialEngineeringFraud]], [[PennyStockBoilerRoomFraud]], [[PigButcheringScam]], [[LotteryGamblingPlatformFraud]], and [[AIImpersonationFraudRisk]] — EP28's fraud-history and modern verification additions.
 - [[FundLiabilityMatching]], [[ValueInvesting]], and [[InvestmentRiskManagement]] — E160's public-fund communication and holder-fit additions.
 - [[FundInvestmentAdvisory]], [[BuySideInvestmentAdvisory]], [[FundAdvisoryFeeTransparency]], [[FundRecommendationConflictDisclosure]], and [[InvestmentBehaviorCoaching]] — episode 145's advisory-education branch.
+- [[BonusShareSplitMisreading]], [[RetailShareholderTenderMobilization]], [[HongkongLandDairyFarmTakeover]], and [[HongKong1973StockMarketCrash]] - Vol.269's corporate-action and crash-history branch.

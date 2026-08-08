@@ -2,13 +2,15 @@
 title: "Speculative Bubble Psychology"
 type: concept
 tags: [investing, markets, psychology]
-sources: [171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
-last_updated: 2026-08-07
+sources: [vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119, 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
+last_updated: 2026-08-08
 ---
 
 # Speculative Bubble Psychology
 
 [[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds the late-participant redistribution layer. Bubble psychology is not only a story people believe; in the 2014-2015 A-share case it becomes a trading pattern where smaller accounts enter late, trade more, and hold after the break while larger accounts capture earlier upside and reduce exposure sooner.
+
+[[vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119]] adds the 1973 Hong Kong version through the [[HongkongLandDairyFarmTakeover|置地饮牛奶]] case. The episode shows how a concrete control fight, rising [[HangSengIndex|恒生指数]], [[BonusShareSplitMisreading|拆股送股误读]], [[FourExchangeHongKongMarketFragmentation|四会并列]], and [[HongKongDollarHotMoneyCycle|港元热钱]] made a corporate event feel like proof that the whole market could keep rising.
 
 [[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] adds the person-centered 1929 version through [[AndrewRossSorkin]]'s [[NineteenTwentyNineSorkin|《1929》]]. The episode turns bubble psychology into [[BubbleRoleAnalogy]]: [[RichardWhitney]] shows trusted gatekeeper fragility, [[WilliamDurant]] shows entrepreneur self-proof through speculation, and [[CharlesEMitchell]] shows institutional trust turning into risky distribution.
 
@@ -44,6 +46,7 @@ Speculative bubble psychology is the pattern in [[ep76-chuanyue-1940-wo-yu-gupia
 - New technologies are especially bubble-prone because genuine uncertainty makes extreme upside stories hard to falsify in real time.
 - Episode 157 adds that bezzle-like conditions do not require a fake industry thesis; a real theme can still support false certainty about company outcomes.
 - Episode 171 adds that bubble psychology can show up as "missing out is a loss," making late participation feel like rational repair instead of fresh risk.
+- Vol.269 adds that a successful takeover can become a market-wide proof story when investors treat share-exchange premiums, stock splits, and rising turnover as confirmation rather than as risk signals.
 
 ## Connections
 - [[BullMarketBezzleTrap]], [[JohnKennethGalbraith]], [[TheGreatCrash1929]], [[LeEco]], and [[BaofengYingyin]] - episode 157's bull-market dream-narrative extension.
@@ -59,3 +62,4 @@ Speculative bubble psychology is the pattern in [[ep76-chuanyue-1940-wo-yu-gupia
 - [[ZhuNing]], [[BubbleNecessaryConditions]], [[BehavioralInvestingBiases]], and [[PositionSizing]] — 42章经 interview extension around necessary-but-insufficient bubble signals.
 - [[RobinGreenwood]], [[StatisticalBubbleIndicators]], [[Nvidia]], and [[MarketEfficiency]] — Planet Money extension around uncertainty, indicators, and predictability limits.
 - [[LateBullMarketLossRisk]], [[BubbleWealthRedistribution]], and [[MarketBreadthNarrowing]] - episode 171's late-cycle and distributional extension.
+- [[HongKong1973StockMarketCrash]], [[HongkongLandDairyFarmTakeover]], [[BonusShareSplitMisreading]], and [[HongKongDollarHotMoneyCycle]] - Vol.269's Hong Kong crash extension.

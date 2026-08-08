@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.269 小历史 | “不要怕，是技术性调整”](sources/vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119.md) — 商业就是这样 episode on the 1972 Hongkong Land-Dairy Farm takeover, the 1973 Hong Kong stock-market crash, newspaper tender campaigns, stock split confusion, four-exchange fragmentation, and Hong Kong dollar hot-money flows.
 - [No.213 景德镇往事：千年“世界瓷都”的前世今生](sources/no-213-jingdezhen-wangshi-qiannian-shijie-cidu-de-qianshi-jinsheng-1004755625.md) — Banlatte episode on Jingdezhen as a long-running porcelain production system linking raw materials, water transport, kilns, court and export orders, state factories, creative markets, tourism, livestreaming, and advanced ceramics.
 - [AI-driven law could be an answer to accessible legal help](sources/tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128.md) — Marketplace Tech episode with Benjamin Alarie on Super Justice, AI access to legal help, personalized legal guidance, verification, auditability, surveillance risk, and professional accountability.
 - [Taking the shine off: albedo and global temperatures](sources/taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760.md) — The Intelligence episode on falling planetary reflectivity, West Africa cocaine routing, and female-breadwinner norms in American couples.
@@ -912,6 +913,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Dairy Farm International / 牛奶公司 / DFI](entities/DairyFarmInternational.md) — Hong Kong milk, cold-chain, food-retail, and later retail-platform company targeted in the 1972 Hongkong Land takeover.
+- [Hongkong Land / 香港置地](entities/HongkongLand.md) — Jardine-backed Hong Kong property company whose share-exchange bid for Dairy Farm anchors Vol.269's takeover and crash account.
+- [Jardine Matheson / 怡和](entities/JardineMatheson.md) — Conglomerate system behind Hongkong Land, used by Vol.269 to explain colonial Hong Kong control networks.
+- [Chinachem Group / 华懋](entities/ChinachemGroup.md) — Local real-estate group framed as Dairy Farm's late white-knight counterparty in the takeover fight.
+- [Henry Keswick / 亨利·凯瑟克](entities/HenryKeswick.md) — Jardine/Hongkong Land leader associated with the 1972 Dairy Farm takeover and its unified execution.
+- [Zhou Xinian / 周希年](entities/ZhouXinian.md) — Dairy Farm board chair during the Hongkong Land takeover defense.
+- [Phil Oram](entities/PhilOram.md) — Dairy Farm executive director whose rushed return illustrates the target company's timing disadvantage in Vol.269.
+- [Hang Seng Index / 恒生指数](entities/HangSengIndex.md) — Hong Kong equity index used by Vol.269 to track the 1972-1973 boom-and-crash path.
+- [South China Morning Post / 南华早报](entities/SouthChinaMorningPost.md) — Newspaper archive and advertising venue central to Vol.269's reconstruction of the takeover media war.
 - [Jingdezhen / 景德镇](entities/Jingdezhen.md) — Jiangxi porcelain city whose long-run advantage came from materials, water transport, specialized labor, official and export orders, factories, creator markets, tourism, and advanced ceramics.
 - [Jiangxi / 江西](entities/Jiangxi.md) — Province context for Jingdezhen, linking porcelain materials, waterway logistics, tourism visibility, and advanced ceramic industry.
 - [Fuliang / 浮梁](entities/Fuliang.md) — Older regional and administrative setting where the Yuan court created the Fuliang porcelain office and made official supervision over civilian kilns visible.
@@ -6240,6 +6250,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Hongkong Land-Dairy Farm Takeover / 置地饮牛奶](concepts/HongkongLandDairyFarmTakeover.md) — 1972 Hong Kong stock-for-stock takeover case linking corporate control, media persuasion, retail shareholders, and the later crash.
+- [1973 Hong Kong Stock Market Crash / 1973年香港股灾](concepts/HongKong1973StockMarketCrash.md) — Market break interpreted through the Dairy Farm takeover, stock split confusion, four-exchange fragmentation, retail chasing, and currency-flow reversal.
+- [Tender Offer Media Campaign / 收购要约媒体战](concepts/TenderOfferMediaCampaign.md) — Use of advertising, charts, management critique, and shareholder instructions to make a tender offer actionable.
+- [Bonus Share and Stock Split Misreading / 拆股送股误读](concepts/BonusShareSplitMisreading.md) — Investor-education failure where share-count changes and ex-rights adjustment are mistaken for free value.
+- [Four-Exchange Hong Kong Market Fragmentation / 香港四会并列市场碎片化](concepts/FourExchangeHongKongMarketFragmentation.md) — Early-1970s Hong Kong parallel-exchange structure that broadened participation while complicating price signals.
+- [Hong Kong Dollar Hot-Money Cycle / 港元热钱周期](concepts/HongKongDollarHotMoneyCycle.md) — 1972-1973 currency-anchor and liquidity-flow layer behind the Hong Kong equity boom and crash.
+- [Retail Shareholder Tender Mobilization / 散户要约动员](concepts/RetailShareholderTenderMobilization.md) — Takeover tactic of turning dispersed paper-share shareholders into individual tendering participants.
+- [Conglomerate Control in Colonial Hong Kong / 殖民期香港财团控制](concepts/ConglomerateControlInColonialHongKong.md) — Oligopolistic company-control pattern linking property, retail, finance, boards, and family/group authority.
 - [Jingdezhen Porcelain Production System / 景德镇瓷业生产系统](concepts/JingdezhenPorcelainProductionSystem.md) — System-level frame for Jingdezhen's porcelain advantage across materials, transport, orders, labor division, kiln knowledge, institutions, markets, and education.
 - [Qingbai Porcelain / 青白瓷](concepts/QingbaiPorcelain.md) — Early Jingdezhen blue-white ware that helped the city rise before later blue-and-white and imperial porcelain fame.
 - [Kaolin / 高岭土](concepts/Kaolin.md) — Porcelain clay term derived from Gaoling and used to explain Jingdezhen's material contribution to global technical vocabulary.

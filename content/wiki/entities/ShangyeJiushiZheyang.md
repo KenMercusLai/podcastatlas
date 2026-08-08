@@ -2,7 +2,7 @@
 title: "商业就是这样"
 type: entity
 tags: [podcast, media, business]
-sources: [vol-268-liang-ge-lao-si-lai-si-1003563933, vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, vol-266-yi-ci-xing-gao-dong-etf-1002344828, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, jiufan-zhongting-mifeng-jingjixue-956460448, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]
+sources: [vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119, vol-268-liang-ge-lao-si-lai-si-1003563933, vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, vol-266-yi-ci-xing-gao-dong-etf-1002344828, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, jiufan-zhongting-mifeng-jingjixue-956460448, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]
 last_updated: 2026-08-08
 ---
 
@@ -36,9 +36,12 @@ The episode's distinctive contribution to the wiki is its distributed method. In
 
 [[vol-268-liang-ge-lao-si-lai-si-1003563933]] adds the show's industrial-history and aviation-risk branch. It starts from the double-R logo on aircraft engines, then uses [[RollsRoyce|Rolls-Royce]], [[RollsRoyceRB211|RB211]], [[LockheedCorporation]], and the [[LockheedL1011TriStar|L-1011 TriStar]] to connect engineering ambition, fixed-price contracts, state rescue, luxury-brand separation, and overseas bribery into one business-history case.
 
+[[vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119]] adds the show's Hong Kong financial-history branch. It uses the [[HongkongLandDairyFarmTakeover|置地饮牛奶]] case to connect [[HongkongLand|香港置地]], [[DairyFarmInternational|牛奶公司]], [[JardineMatheson|怡和]], newspaper tender campaigning, stock split confusion, four-exchange fragmentation, the [[HangSengIndex|恒生指数]], and [[HongKongDollarHotMoneyCycle|港元热钱]] into a concrete account of the [[HongKong1973StockMarketCrash|1973年香港股灾]].
+
 ## Connections
 - [[vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]] — fifth-anniversary source page.
 - [[vol-268-liang-ge-lao-si-lai-si-1003563933]] - Rolls-Royce, RB211, Lockheed TriStar, nationalization, and bribery source page.
+- [[vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119]] - Hongkong Land, Dairy Farm, Jardine, and the 1973 Hong Kong crash source page.
 - [[jiufan-zhongting-mifeng-jingjixue-956460448]] — bee-economics source page.
 - [[shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969]] — FIFA World Cup expansion and football governance source page.
 - [[vol-263-lang-de-youhuo-998128018]] — Sushiro and conveyor-belt sushi source page.
@@ -59,4 +62,5 @@ The episode's distinctive contribution to the wiki is its distributed method. In
 - [[ExchangeTradedFund]], [[ETFCreationRedemption]], [[ETF7709HK|7709.HK]], [[LeveragedETFHedgingFeedback]], and [[CrossMarketLeveragedETFExecutionRisk]] - ETF mechanics and risk branch added by Vol.266.
 - [[YingyanShijian|鹰眼时间]], [[TeteFei|特特飞]], [[WorldCupHostCityEconomics]], [[HostCitySupporterSponsorship]], [[FanFestivalCommercialization]], and [[OfficialSportsTicketResale]] - World Cup host-city and fan-cost branch added by Vol.267.
 - [[RollsRoyce|Rolls-Royce]], [[RollsRoyceRB211|RB211]], [[LockheedL1011TriStar|L-1011 TriStar]], [[FixedPriceEngineeringRisk]], [[AirframeEngineLockIn]], [[IndustrialCapabilityBailout]], and [[LockheedBriberyScandal]] - aviation-engine crisis and corruption branch added by Vol.268.
+- [[HongkongLandDairyFarmTakeover]], [[HongKong1973StockMarketCrash]], [[TenderOfferMediaCampaign]], [[BonusShareSplitMisreading]], [[FourExchangeHongKongMarketFragmentation]], and [[HongKongDollarHotMoneyCycle]] - Hong Kong takeover and crash branch added by Vol.269.
 - [[PodcastAsAsynchronousMedia]] — adjacent media concept; the anniversary format records listener memory across years.

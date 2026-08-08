@@ -7297,3 +7297,11 @@ Added source page for a Banlatte episode on Jingdezhen as a long-running porcela
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 10,436 wiki pages. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-07 with 9,679 nodes while the wiki scan found 10,436 pages, so graph findings should be refreshed with `build graph` before treating them as final; the current graph pass found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-08] ingest | Vol.269 小历史 | “不要怕，是技术性调整”
+
+Added source page for a 商业就是这样 episode on the 1972 Hongkong Land-Dairy Farm takeover and the 1973 Hong Kong stock-market crash. Created pages for Dairy Farm International, Hongkong Land, Jardine Matheson, Chinachem Group, Henry Keswick, Zhou Xinian, Phil Oram, Hang Seng Index, South China Morning Post, Hongkong Land-Dairy Farm Takeover, 1973 Hong Kong Stock Market Crash, Tender Offer Media Campaign, Bonus Share and Stock Split Misreading, Four-Exchange Hong Kong Market Fragmentation, Hong Kong Dollar Hot-Money Cycle, Retail Shareholder Tender Mobilization, and Conglomerate Control in Colonial Hong Kong. Updated overview, index, 商业就是这样, Hong Kong, Hong Kong Market Structure, Retail Bull Market Psychology, Retail Investor Crowding, Speculative Bubble Psychology, Currency Anchor Transition, Investor Education, and Market Speculation. No direct contradiction found; the source complements existing Hong Kong market-structure and retail-investor-risk pages by giving a historical case where takeover mechanics, newspaper persuasion, share-action misunderstanding, exchange fragmentation, and currency liquidity amplified a bubble.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
