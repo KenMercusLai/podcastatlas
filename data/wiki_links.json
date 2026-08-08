@@ -2055,6 +2055,10 @@
     "title": "AI Voice Cloning Rights",
     "url": "/wiki/concepts/aivoicecloningrights/"
   },
+  "AIWeirdnessBlog": {
+    "title": "AI Weirdness Blog",
+    "url": "/wiki/entities/aiweirdnessblog/"
+  },
   "AIWorkOptionality": {
     "title": "AI Work Optionality",
     "url": "/wiki/concepts/aiworkoptionality/"
@@ -7115,6 +7119,14 @@
     "title": "ChatGPT Health",
     "url": "/wiki/entities/chatgpthealth/"
   },
+  "ChatbotCodeSwitching": {
+    "title": "Chatbot Code Switching",
+    "url": "/wiki/concepts/chatbotcodeswitching/"
+  },
+  "ChatbotDomainBleedthrough": {
+    "title": "Chatbot Domain Bleedthrough",
+    "url": "/wiki/concepts/chatbotdomainbleedthrough/"
+  },
   "ChatbotGeneratedContentLiability": {
     "title": "Chatbot-Generated Content Liability",
     "url": "/wiki/concepts/chatbotgeneratedcontentliability/"
@@ -7126,6 +7138,10 @@
   "ChatbotSafetyGuardrailDecay": {
     "title": "Chatbot Safety Guardrail Decay",
     "url": "/wiki/concepts/chatbotsafetyguardraildecay/"
+  },
+  "ChatbotSelfExplanationUncertainty": {
+    "title": "Chatbot Self-Explanation Uncertainty",
+    "url": "/wiki/concepts/chatbotselfexplanationuncertainty/"
   },
   "CheDundunYeShiji": {
     "title": "《车墩墩野事记》",
@@ -41230,6 +41246,10 @@
   "tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128": {
     "title": "AI-driven law could be an answer to accessible legal help",
     "url": "/wiki/sources/tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128/"
+  },
+  "tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128": {
+    "title": "AI chatbots have linguistic slips when they go off-script",
+    "url": "/wiki/sources/tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

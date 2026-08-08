@@ -2,11 +2,13 @@
 title: "Claude"
 type: entity
 tags: [ai, model, anthropic]
-sources: [tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
-last_updated: 2026-08-07
+sources: [tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128, tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
+last_updated: 2026-08-08
 ---
 
 # Claude
+
+[[tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128]] adds Claude as the chatbot in an ankle-pain example where a Chinese-sounding phrase appears inside a medical-style response. [[JanelleShane]] treats the exact cause as unverified, but uses the example to show how medical vocabulary, Chinese traditional medicine material, and pain-description language could bleed across model associations, making Claude part of [[ChatbotCodeSwitching]] and [[ChatbotDomainBleedthrough]].
 
 [[174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]] adds Claude as the public example in [[ChaSheng]]'s discussion of model personality, constitution, and values. The source uses [[Anthropic]]'s public framing of Claude to make [[ModelValueEmbedding]] visible: a model's apparent persona and value defaults are shaped by training and product choices, not only by raw capability.
 
@@ -25,6 +27,7 @@ Claude appears in [[tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tec
 The source turns Claude from a general frontier model into a procurement and governance case. Its value to defense users makes [[DefenseAIProcurement]] concrete, while Anthropic's red lines around mass surveillance and autonomous weapons turn Claude access into a [[FrontierModelUsePolicyConflict]] rather than only a technical capability question.
 
 ## Connections
+- [[JanelleShane]], [[ChatbotCodeSwitching]], [[ChatbotDomainBleedthrough]], and [[ChatbotSelfExplanationUncertainty]] - August 2026 Marketplace Tech branch on multilingual and domain slips.
 - [[ClaudeForHealthcare]], [[MedicalBillingAndCodingAutomation]], and [[HIPAAConstrainedMedicalAI]] - healthcare workflow branch added by E227.
 - [[MeganMcCartyCorino|Megan McCarty-Corino]], [[JanelleShane]], [[ChatbotMemorySalienceFailure]], and [[PersonalAIMemory]] - consumer memory-misfire branch added by Marketplace Tech.
 - [[Anthropic]] - model provider.

@@ -7313,3 +7313,11 @@ Added source page for a How I Built This Advice Line mashup with Guy Raz, Jeffre
 ## [2026-08-08] lint | Wiki health check
 
 Ran lint after health passed. Health scanned 10,467 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-07 with 9,679 nodes and 103,834 edges while the current wiki scan found 10,467 pages, so graph findings are advisory until `build graph` refreshes it; the existing graph pass found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`. A bounded fallback scan found likely case-collision duplicate risks at `wiki/entities/LibLib.md` / `wiki/entities/Liblib.md` and `wiki/entities/MidJourney.md` / `wiki/entities/Midjourney.md`, plus documented source tensions around phone-versus-wearable AI assistant centrality and SpaceX IPO/profitability framing. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-08] ingest | AI chatbots have linguistic slips when they go off-script
+
+Added source page for a Marketplace Tech Uncanny AI episode with Janelle Shane on chatbot language slips, multilingual training data, domain bleed-through, and the uncertainty of chatbot self-explanations. Created pages for AI Weirdness Blog, Chatbot Domain Bleedthrough, Chatbot Code Switching, and Chatbot Self-Explanation Uncertainty; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Janelle Shane, Claude, ChatGPT, AI Interaction Internationalization, LLM Statistical Boundary, and Customer Support Automation. No direct contradiction found; the source qualifies fluent AI output by showing that language and product-domain boundaries remain probabilistic and need independent diagnostics rather than trust in a model's post-hoc explanation.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
