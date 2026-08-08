@@ -3411,6 +3411,10 @@
     "title": "Amazon Web Services",
     "url": "/wiki/entities/amazonwebservices/"
   },
+  "AmbassadorBridge": {
+    "title": "Ambassador Bridge",
+    "url": "/wiki/entities/ambassadorbridge/"
+  },
   "AmberReeves": {
     "title": "Amber Reeves / 安伯·里夫斯",
     "url": "/wiki/entities/amberreeves/"
@@ -4254,6 +4258,10 @@
   "AskJeeves": {
     "title": "Ask Jeeves",
     "url": "/wiki/entities/askjeeves/"
+  },
+  "AssemblageArtMemoryWork": {
+    "title": "Assemblage Art Memory Work",
+    "url": "/wiki/concepts/assemblageartmemorywork/"
   },
   "AssetAllocation": {
     "title": "Asset Allocation",
@@ -5282,6 +5290,10 @@
   "BettyBoop": {
     "title": "Betty Boop",
     "url": "/wiki/entities/bettyboop/"
+  },
+  "BetyeSaar": {
+    "title": "Betye Saar",
+    "url": "/wiki/entities/betyesaar/"
   },
   "BeverageCategoryConvergence": {
     "title": "Beverage Category Convergence",
@@ -9227,6 +9239,10 @@
     "title": "Cross-Border Fund Transfer Risk",
     "url": "/wiki/concepts/crossborderfundtransferrisk/"
   },
+  "CrossBorderInfrastructureTradeTension": {
+    "title": "Cross-Border Infrastructure Trade Tension",
+    "url": "/wiki/concepts/crossborderinfrastructuretradetension/"
+  },
   "CrossBorderWealthManagementConnect": {
     "title": "Cross-Border Wealth Management Connect",
     "url": "/wiki/concepts/crossborderwealthmanagementconnect/"
@@ -9750,6 +9766,10 @@
   "Daqi": {
     "title": "大琪",
     "url": "/wiki/entities/daqi/"
+  },
+  "Darfur": {
+    "title": "Darfur",
+    "url": "/wiki/entities/darfur/"
   },
   "DariaGeorgievich": {
     "title": "Daria Georgievich",
@@ -10342,6 +10362,10 @@
   "DeterministicAuditData": {
     "title": "Deterministic Audit Data",
     "url": "/wiki/concepts/deterministicauditdata/"
+  },
+  "Detroit": {
+    "title": "Detroit",
+    "url": "/wiki/entities/detroit/"
   },
   "DeveloperFirstPaymentInfrastructure": {
     "title": "Developer-First Payment Infrastructure",
@@ -11614,6 +11638,10 @@
   "ElNinoClimateRisk": {
     "title": "El Nino Climate Risk",
     "url": "/wiki/concepts/elninoclimaterisk/"
+  },
+  "ElObeid": {
+    "title": "El Obeid",
+    "url": "/wiki/entities/elobeid/"
   },
   "ElaborationLikelihoodModel": {
     "title": "Elaboration Likelihood Model / 精细加工可能性模型",
@@ -13643,6 +13671,10 @@
     "title": "Ford Motor Company",
     "url": "/wiki/entities/fordmotorcompany/"
   },
+  "ForeignBackedCivilWar": {
+    "title": "Foreign-Backed Civil War",
+    "url": "/wiki/concepts/foreignbackedcivilwar/"
+  },
   "ForeignBankingInChina": {
     "title": "Foreign Banking In China",
     "url": "/wiki/concepts/foreignbankinginchina/"
@@ -13954,6 +13986,10 @@
   "FoxconnIndustrialInternet": {
     "title": "Foxconn Industrial Internet / 工业富联",
     "url": "/wiki/entities/foxconnindustrialinternet/"
+  },
+  "FragmentedCeasefireEnforcement": {
+    "title": "Fragmented Ceasefire Enforcement",
+    "url": "/wiki/concepts/fragmentedceasefireenforcement/"
   },
   "FragranceProductStorytelling": {
     "title": "Fragrance Product Storytelling / 香气产品叙事",
@@ -15190,6 +15226,10 @@
   "GooglePlus": {
     "title": "Google Plus",
     "url": "/wiki/entities/googleplus/"
+  },
+  "GordieHoweBridge": {
+    "title": "Gordie Howe Bridge",
+    "url": "/wiki/entities/gordiehowebridge/"
   },
   "GordonFoodService": {
     "title": "Gordon Food Service",
@@ -19990,6 +20030,10 @@
   "KeywordCommunityArchitecture": {
     "title": "Keyword Community Architecture / 关键词社区架构",
     "url": "/wiki/concepts/keywordcommunityarchitecture/"
+  },
+  "Khartoum": {
+    "title": "Khartoum",
+    "url": "/wiki/entities/khartoum/"
   },
   "KhmerEmpire": {
     "title": "Khmer Empire / 吴哥王朝",
@@ -29035,6 +29079,10 @@
     "title": "Ransomware Business Continuity",
     "url": "/wiki/concepts/ransomwarebusinesscontinuity/"
   },
+  "RapidSupportForces": {
+    "title": "Rapid Support Forces",
+    "url": "/wiki/entities/rapidsupportforces/"
+  },
   "RareEarthExportLeverage": {
     "title": "Rare Earth Export Leverage",
     "url": "/wiki/concepts/rareearthexportleverage/"
@@ -29306,6 +29354,10 @@
   "RedPenLogic": {
     "title": "Red Pen Logic",
     "url": "/wiki/concepts/redpenlogic/"
+  },
+  "RedSea": {
+    "title": "Red Sea",
+    "url": "/wiki/entities/redsea/"
   },
   "RedStarMacalline": {
     "title": "Red Star Macalline / 美凯龙",
@@ -33611,6 +33663,14 @@
     "title": "Succession as Continuous Entrepreneurship / 接班即持续创业",
     "url": "/wiki/concepts/successionascontinuousentrepreneurship/"
   },
+  "Sudan": {
+    "title": "Sudan",
+    "url": "/wiki/entities/sudan/"
+  },
+  "SudaneseArmedForces": {
+    "title": "Sudanese Armed Forces",
+    "url": "/wiki/entities/sudanesearmedforces/"
+  },
   "SuduTechnology": {
     "title": "速度科技 / Sudu Technology",
     "url": "/wiki/entities/sudutechnology/"
@@ -34671,6 +34731,10 @@
     "title": "《黑暗的左手》 / The Left Hand of Darkness",
     "url": "/wiki/entities/thelefthandofdarkness/"
   },
+  "TheLiberationOfAuntJemima": {
+    "title": "The Liberation of Aunt Jemima",
+    "url": "/wiki/entities/theliberationofauntjemima/"
+  },
   "TheLittleMermaid": {
     "title": "《海的女儿》 / The Little Mermaid",
     "url": "/wiki/entities/thelittlemermaid/"
@@ -35158,6 +35222,10 @@
   "TomCruise": {
     "title": "Tom Cruise",
     "url": "/wiki/entities/tomcruise/"
+  },
+  "TomGardner": {
+    "title": "Tom Gardner",
+    "url": "/wiki/entities/tomgardner/"
   },
   "TomMayer": {
     "title": "Tom Mayer",
@@ -37015,6 +37083,10 @@
     "title": "华生力 / Watson Power",
     "url": "/wiki/concepts/watsonpower/"
   },
+  "WattsTowers": {
+    "title": "Watts Towers",
+    "url": "/wiki/entities/wattstowers/"
+  },
   "WaybackMachine": {
     "title": "Wayback Machine",
     "url": "/wiki/entities/waybackmachine/"
@@ -37506,6 +37578,10 @@
   "WinRateStartupStrategy": {
     "title": "Win-Rate Startup Strategy / 优化胜率",
     "url": "/wiki/concepts/winratestartupstrategy/"
+  },
+  "WindsorOntario": {
+    "title": "Windsor, Ontario",
+    "url": "/wiki/entities/windsorontario/"
   },
   "Windsurf": {
     "title": "Windsurf",
@@ -40650,6 +40726,10 @@
   "our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour": {
     "title": "Our mission: Find the world's best economic ideas (Summer School World Tour)",
     "url": "/wiki/sources/our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour/"
+  },
+  "outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132": {
+    "title": "Outsider chance: ending Sudan's proxy war",
+    "url": "/wiki/sources/outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132/"
   },
   "overview": {
     "title": "Overview",

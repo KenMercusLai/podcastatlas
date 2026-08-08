@@ -2,11 +2,13 @@
 title: "Turkey"
 type: entity
 tags: [country, geopolitics, economy, logistics, politics]
-sources: [in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]
+sources: [outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132, in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]
 last_updated: 2026-08-08
 ---
 
 # Turkey
+
+[[outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132]] adds Turkey as a military backer in [[Sudan]]'s war. [[TomGardner]] links the [[SudaneseArmedForces|SAF]]'s recent battlefield successes especially to Turkish weapons supplies, including drones, making Turkey part of the source's [[ForeignBackedCivilWar]] and [[LowCostDroneWarfare]] branches.
 
 Turkey appears in [[the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]] as a country trying to turn regional instability into economic advantage. The episode says disruption around [[Iran]], the Gulf, and the [[StraitOfHormuz]] has increased attention on [[Istanbul]] as a cargo, tourism, shopping, and financial meeting point.
 
@@ -24,3 +26,4 @@ The source keeps that upside conditional. Turkey's geographic and diplomatic pos
 - [[WarSpilloverHubOpportunity]], [[ChokepointLogisticsRerouting]], and [[FinancialHubCredibilityGap]] - concepts added by the episode.
 - [[TurkishOppositionRealignment]], [[JudicializedOppositionSuppression]], and [[OppositionPartyHollowing]] - domestic politics branch added by the Brave New whirl source.
 - [[Hamas]], [[Egypt]], [[Qatar]], and [[GazaDealImplementationGap]] - Gaza-deal pressure channel added by the later source.
+- [[Sudan]], [[SudaneseArmedForces]], [[ForeignBackedCivilWar]], and [[LowCostDroneWarfare]] - Sudan army-support branch added by The Intelligence.

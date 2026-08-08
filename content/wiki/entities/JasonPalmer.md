@@ -2,11 +2,13 @@
 title: "Jason Palmer"
 type: entity
 tags: [person, host, media]
-sources: [taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]
+sources: [outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]
 last_updated: 2026-08-08
 ---
 
 # Jason Palmer
+
+[[outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132]] adds another Palmer-introduced sequence: [[Sudan]]'s foreign-backed war, the [[GordieHoweBridge]] dispute in U.S.-Canada trade, and [[BetyeSaar]]'s assemblage art.
 
 [[taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]] adds another Palmer-introduced sequence: the [[Ceuta]] migration surge, [[India]]'s falling-object deaths, and [[AIWritingDetection]].
 
@@ -22,3 +24,4 @@ His role in the wiki is show context rather than substantive analysis. The page 
 - [[ProofOfLifeDiplomacy]], [[WarSpilloverHubOpportunity]], and [[PopulationLevelHealthAdvice]] - major concepts added by the episode.
 - [[AgeAdjustedDementiaDecline]], [[PaymentInfrastructureTradeDispute]], and [[EmoRevivalIdentityCulture]] - segment themes added by the Working memory episode.
 - [[MigrationWeaponization]], [[FallingObjectPublicSafety]], and [[AIWritingDetection]] - segment themes added by the Taken littorally episode.
+- [[ForeignBackedCivilWar]], [[CrossBorderInfrastructureTradeTension]], and [[AssemblageArtMemoryWork]] - segment themes added by the Sudan proxy-war episode.

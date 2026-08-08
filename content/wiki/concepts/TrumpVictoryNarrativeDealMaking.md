@@ -2,8 +2,8 @@
 title: "Trump Victory-Narrative Deal-Making"
 type: concept
 tags: [politics, negotiation, trade, trump]
-sources: [vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb]
-last_updated: 2026-08-06
+sources: [outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb]
+last_updated: 2026-08-08
 ---
 
 # Trump Victory-Narrative Deal-Making
@@ -12,13 +12,17 @@ Trump victory-narrative deal-making is [[vol-128-guanshui-zhan-xiayibu-zouxiang-
 
 The source uses the [[Ukraine]] case as the favorable model: offer a plan that binds the [[UnitedStates]] more closely while still letting Trump claim benefit. [[Japan]] is presented as a harder case because automobiles are a real domestic bottom line. [[China]] is the hardest case because it is not only a trading partner but a central enemy in Trump's campaign narrative.
 
+[[outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132]] adds a [[Canada]] infrastructure example. The source says the [[GordieHoweBridge]] dispute ended with an agreement in principle that would send half of net profits into an American fund over 15 years, a structure [[AnnieCrabill]] treats as giving Trump a visible renegotiation story more than a clear material win.
+
 ## Key Claims
 - The bargaining problem is not only "what does the United States get"; it is also "what can Trump sell as victory."
 - Deals with allies can be softened or reframed more easily than deals with China because ally concessions do not contradict the core enemy story.
 - A counterparty can sometimes protect its own interests by proposing a package before Trump personally resets the target.
 - This concept complements [[TariffComplianceTest]]: the tariff creates pressure, while the victory narrative shapes what kind of concession counts.
+- Infrastructure profit-sharing can function as political packaging when a counterparty needs to preserve the project while giving Trump a claimable concession.
 
 ## Connections
 - [[DonaldTrump]], [[UnitedStates]], [[Ukraine]], [[Japan]], [[UnitedKingdom]], and [[China]] — actors used by the source to compare bargaining situations.
 - [[TariffComplianceTest]], [[TradeReciprocityProtectionism]], and [[PatrimonialGovernance]] — tariff and personal-bargaining frames.
 - [[ChinaAsTrumpNarrativeEnemy]] and [[TrumpSupporterInterpretiveLoop]] — political-story constraints that make some deals harder to package.
+- [[GordieHoweBridge]], [[Canada]], and [[CrossBorderInfrastructureTradeTension]] - bridge dispute added by The Intelligence.

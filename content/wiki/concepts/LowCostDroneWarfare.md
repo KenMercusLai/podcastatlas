@@ -2,8 +2,8 @@
 title: "Low-Cost Drone Warfare"
 type: concept
 tags: [warfare, drones, defense, geopolitics]
-sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
-last_updated: 2026-08-07
+sources: [outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132, ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
+last_updated: 2026-08-08
 ---
 
 # Low-Cost Drone Warfare
@@ -16,6 +16,8 @@ The core idea is that sophistication is not the only path to military relevance.
 
 [[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]] adds the Gulf infrastructure version through [[IranHorizontalEscalation]]. [[LiuYiSanlian|刘仪]] argues that even low-probability drone or missile hits on energy infrastructure can force shutdowns, raise insurance costs, and create large fiscal consequences for Gulf states.
 
+[[outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132]] adds the Sudanese civil-war version. [[TomGardner]] says no part of [[Sudan]] is entirely safe because both the [[RapidSupportForces|RSF]] and [[SudaneseArmedForces|SAF]] have significant drone arsenals; he also describes civilian infrastructure around [[ElObeid]] as vulnerable to drone attacks.
+
 ## Key Claims
 - Cheap drones can matter strategically when they are numerous, long-range, adaptable, and hard to remove from the battlefield.
 - [[CommercialOffTheShelfWeaponization]] makes supply-chain interdiction difficult because ordinary electronics, materials, and engine designs can become military inputs.
@@ -23,6 +25,7 @@ The core idea is that sophistication is not the only path to military relevance.
 - Drone users can adapt tactics and hardware after defenders introduce jamming, interception, or other countermeasures.
 - One-way attack drones and decoys can pressure infrastructure, air defenses, and decision speed without needing every platform to be sophisticated.
 - Mid-range drones can matter politically when they hit factories, fuel systems, or other assets that make war costs visible beyond the front.
+- In a fragmented civil war, drones can make civilian infrastructure unsafe far beyond the front line.
 
 ## Connections
 - [[Shahed136]], [[LucasDrone]], [[Iran]], [[Russia]], [[Ukraine]], [[Israel]], and [[UnitedStates]] - main actors and systems in the source.
@@ -32,3 +35,4 @@ The core idea is that sophistication is not the only path to military relevance.
 - [[AsymmetricInfrastructureAttack]] - broader low-cost/high-impact risk frame.
 - [[Starlink]], [[WarVisibilityStrategy]], and [[AirDefenseSaturation]] - later Economist source on Ukrainian precision and Russian combined air attacks.
 - [[IranHorizontalEscalation]], [[StraitOfHormuz]], [[GulfStabilityRisk]], and [[ChokepointShippingConfidence]] - EP251's energy-infrastructure and insurance-pressure branch.
+- [[Sudan]], [[ElObeid]], [[RapidSupportForces]], [[SudaneseArmedForces]], and [[ForeignBackedCivilWar]] - Sudan civil-war branch.

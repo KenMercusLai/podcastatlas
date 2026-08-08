@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Outsider chance: ending Sudan's proxy war](sources/outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132.md) — The Intelligence episode on Sudan's foreign-backed war and ceasefire obstacles, the Gordie Howe Bridge trade dispute, and Betye Saar's assemblage art.
 - [Gig workers train humanoids on household chores](sources/tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Joanna Stern on SpaceX's public earnings and AI capex, gig workers filming chores for household-robot training data, and MySpace nostalgia as a reaction to algorithmic social feeds.
 - [178: 与田渊栋聊 RSI：模型自进化如何到来？](sources/yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1.md) — LateTalk interview with Tian Yuandong on Recursive Superintelligence, RSI as AI-aided AI research rather than only coding agents, feedback compression, research taste, scaling plateaus, interpretability, and small hands-on model teams.
 - [贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24](sources/jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429.md) — What's Next｜科技早知道 and 声东击西 crossover with Jia Yangqing on AI's shift from unfashionable research label to infrastructure, cloud, startup, and agent-verification platform.
@@ -919,6 +920,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tom Gardner](entities/TomGardner.md) — The Intelligence correspondent grounding the Sudan segment in Khartoum reporting, foreign sponsorship, drone warfare, and ceasefire enforcement risk.
+- [Sudan](entities/Sudan.md) — Country case for a foreign-backed civil war whose capital recapture has not ended humanitarian crisis, drone attacks, or fragmented ceasefire obstacles.
+- [Khartoum](entities/Khartoum.md) — Sudanese capital described after the army's return as devastated, empty, looted, and not yet evidence of national recovery.
+- [Rapid Support Forces](entities/RapidSupportForces.md) — RSF armed camp controlling much of western Sudan, especially Darfur, and alleged in the source to receive UAE backing that the UAE denies.
+- [Sudanese Armed Forces](entities/SudaneseArmedForces.md) — SAF armed camp that retook Khartoum and is described as receiving support from Saudi Arabia, Egypt, and especially Turkey.
+- [Darfur](entities/Darfur.md) — Western Sudanese region central to the RSF's remaining territorial position in the source.
+- [El Obeid](entities/ElObeid.md) — North Kordofan hotspot where RSF drone and aerial pressure could reconnect western fronts and threaten Khartoum.
+- [Red Sea](entities/RedSea.md) — Strategic waterway whose Sudanese coastline helps explain outside interest in Sudan's political future.
+- [Gordie Howe Bridge](entities/GordieHoweBridge.md) — Detroit-Windsor bridge framed as useful trade infrastructure turned into a Trump-era ownership and tariff dispute.
+- [Ambassador Bridge](entities/AmbassadorBridge.md) — Older Detroit-Windsor crossing used as the comparison point for the Gordie Howe Bridge's logistics value.
+- [Detroit](entities/Detroit.md) — Michigan side of the Gordie Howe and Ambassador bridge crossings with Windsor, Ontario.
+- [Windsor, Ontario](entities/WindsorOntario.md) — Canadian side of the Detroit-Windsor trade crossing in the Gordie Howe Bridge segment.
+- [Betye Saar](entities/BetyeSaar.md) — Assemblage artist whose found-object work confronted slavery, race, stereotype, and liberation.
+- [Watts Towers](entities/WattsTowers.md) — Found-material art landmark that influenced Betye Saar's assemblage practice.
+- [The Liberation of Aunt Jemima](entities/TheLiberationOfAuntJemima.md) — Betye Saar's 1968 assemblage that reworked a racist commercial figure into an image of agency and resistance.
 - [Tian Yuandong / 田渊栋](entities/TianYuandong.md) — AI researcher and Recursive Superintelligence co-founder interviewed by LateTalk on RSI, research taste, scaling limits, interpretability, and hands-on AI research teams.
 - [Jia Yangqing / 贾扬清](entities/JiaYangqing.md) — AI infrastructure engineer and founder linking Caffe, Google Brain, Facebook AI Infra, Alibaba Cloud, Lepton AI, Nvidia, and agent reliability.
 - [Caffe](entities/Caffe.md) — Early deep-learning framework created by Jia Yangqing that made model experimentation and sharing easier after the ImageNet deep-learning turn.
@@ -6286,6 +6302,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Foreign-Backed Civil War](concepts/ForeignBackedCivilWar.md) — Pattern where domestic armed camps keep fighting partly because outside patrons provide weapons, money, cover, or political confidence.
+- [Fragmented Ceasefire Enforcement](concepts/FragmentedCeasefireEnforcement.md) — Problem of implementing a ceasefire when nominal parties are loose armed coalitions rather than tightly controlled organizations.
+- [Cross-Border Infrastructure Trade Tension](concepts/CrossBorderInfrastructureTradeTension.md) — Pattern where mutually useful infrastructure becomes a bargaining object in trade, ownership, or sovereignty politics.
+- [Assemblage Art Memory Work](concepts/AssemblageArtMemoryWork.md) — Use of found or discarded objects to make historical violence, identity, and liberation materially visible.
 - [AI Research Feedback Compression](concepts/AIResearchFeedbackCompression.md) — how agents shorten idea-code-experiment-result loops while moving bottlenecks to verification, research taste, and compute triage.
 - [Agent Reliability Verification](concepts/AgentReliabilityVerification.md) — Requirement that agent systems prove results through harnesses, external checks, and acceptance criteria rather than agent count alone.
 - [What Over How Work Shift](concepts/WhatOverHowWorkShift.md) — AI-era shift where humans define goals, constraints, and judgment while AI handles more execution detail.

@@ -2,11 +2,13 @@
 title: "Canada"
 type: entity
 tags: [country, media, television, public-policy, housing]
-sources: [the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb, the-business-of-heated-rivalry, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
+sources: [outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132, the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb, the-business-of-heated-rivalry, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
 last_updated: 2026-08-08
 ---
 
 # Canada
+
+[[outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132]] adds Canada through the [[GordieHoweBridge]] between [[WindsorOntario|Windsor, Ontario]] and [[Detroit]]. The source says Canada paid the C$6bn construction cost upfront and planned to recover costs through tolls, but [[DonaldTrump]]'s ownership and tariff pressure turned the bridge into [[CrossBorderInfrastructureTradeTension]].
 
 [[burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]] adds Canada as a major [[ExtremeWildfire]] example. [[OliverMorton]] says the 2023 Canadian fires released about four times as much CO2 as Canada emits from fossil-fuel burning in a year, making the country a case for [[WildfireClimateFeedback]] as well as [[WildfireSmokeHealthBurden]].
 
@@ -27,3 +29,4 @@ The source's Canada branch is about production structure, not national culture a
 - [[LiJingSanlian|李菁]], [[YanFeiSociologist|颜飞]], and [[LeiTao|雷涛 / 无二旅人]] - Talk三联 vacation source speakers.
 - [[VacationShame]], [[WorkRestBoundary]], [[TravelSensoryRecovery]], and [[WaldenMomentAgainstOdysseyMoment]] - vacation and life-design concepts added by EP265.
 - [[ExtremeWildfire]], [[WildfireClimateFeedback]], and [[WildfireSmokeHealthBurden]] - wildfire branch added by The Intelligence.
+- [[GordieHoweBridge]], [[WindsorOntario]], [[Detroit]], [[DonaldTrump]], and [[CrossBorderInfrastructureTradeTension]] - U.S.-Canada bridge dispute branch.

@@ -2,11 +2,13 @@
 title: "Michigan"
 type: entity
 tags: [state, united-states, politics]
-sources: [socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216]
+sources: [outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132, socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216]
 last_updated: 2026-08-08
 ---
 
 # Michigan
+
+[[outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132]] adds Michigan through [[Detroit]] and the [[GordieHoweBridge]] crossing to [[WindsorOntario|Windsor, Ontario]]. In this source, the state is a logistics and trade-infrastructure node rather than an electoral setting.
 
 Michigan is the swing-state setting for [[socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216]]. [[JohnPrideaux]] treats [[AbdulElSayed]]'s Democratic Senate primary win there as more significant than a left-wing victory in a deep-blue city because the state has recently moved between [[DonaldTrump]] and Joe Biden in presidential elections.
 
@@ -17,3 +19,4 @@ The source also uses Michigan to describe the traditional [[DemocraticParty]] ba
 - [[DemocraticParty]], [[DonaldTrump]], and [[UnitedStates]] - national political frame.
 - [[UnitedAutoWorkers]] - labor-base context named in the Michigan discussion.
 - [[StatewideLeftPrimaryTest]] and [[PrimaryElectorateDistortion]] - concepts grounded in the Michigan result.
+- [[Detroit]], [[GordieHoweBridge]], [[WindsorOntario]], and [[CrossBorderInfrastructureTradeTension]] - later trade-infrastructure branch.

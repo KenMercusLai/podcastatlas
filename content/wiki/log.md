@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-08] ingest | Outsider chance: ending Sudan's proxy war
+
+Added source page for a The Intelligence episode on Sudan's foreign-backed civil war after the army retook Khartoum, drone attacks and displacement around El Obeid, foreign sponsors and fragmented ceasefire enforcement, the Gordie Howe Bridge as a U.S.-Canada trade-infrastructure dispute, and Betye Saar's assemblage art. Created pages for Tom Gardner, Sudan, Khartoum, Rapid Support Forces, Sudanese Armed Forces, Darfur, El Obeid, Red Sea, Gordie Howe Bridge, Ambassador Bridge, Detroit, Windsor Ontario, Betye Saar, Watts Towers, The Liberation of Aunt Jemima, Foreign-Backed Civil War, Fragmented Ceasefire Enforcement, Cross-Border Infrastructure Trade Tension, and Assemblage Art Memory Work; updated overview, index, The Intelligence, Economist Podcasts, Jason Palmer, Annie Crabill, Anne Rowe, United Arab Emirates, Saudi Arabia, Turkey, Egypt, Canada, United States, Donald Trump, Michigan, Proxy Conflict Spoiler Risk, Low-Cost Drone Warfare, Trade Reciprocity Protectionism, and Trump Victory-Narrative Deal-Making. No direct contradiction found; the source extends the wiki's proxy-conflict branch by showing that outside powers can be required for settlement while also sustaining the war, and adds an infrastructure example where a mutually useful bridge becomes political bargaining material.
+
 ## [2026-08-08] ingest | E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”
 
 Added source page for a 硅谷101 episode with 盛颖 on SGLang, xAI inference work, Redix ARK, Radix Attention, day-zero model support, AI infrastructure as product, LM-SYS, LM Arena, open-source trust, and democratized access to strong AI. Created pages for 盛颖 / Sheng Ying, SGLang, LM-SYS, LM Arena, 连敏 / Lian Min, Clarke Barrett, Two Sigma, AI Infrastructure As Product, Radix Attention, Day-Zero Model Support, Open-Source AI Democratization, and SMT Solver; updated overview, index, 硅谷101, xAI, Grok, Redix ARK / Radix ARC, Google, Stanford University, Columbia University, Model-Infra Co-Design, Open Source AI Infrastructure, Inference Acceleration Stack, Agent Inference Workload, Prefix Caching, Agent RL, Formal Verification, Research Taste, Open Source Community Commercialization, AI Infrastructure Full-Stack Moat, Open Source Infrastructure Trust, High Responsibility Density, and Gendered Creator Confidence. No direct contradiction found; the source qualifies existing xAI risk coverage with a first-person early-team account while extending open AI infrastructure from vLLM/Infract into the SGLang/Redix ARK path.
@@ -7341,6 +7345,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] ingest | 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24
 
 Added source page for a What's Next｜科技早知道 and 声东击西 crossover with Jia Yangqing on the AI path from research skepticism to industrial and organizational centrality. Created pages for Jia Yangqing, Caffe, Google Brain, Facebook AI Infra, Lepton AI, Agent Reliability Verification, and What Over How Work Shift; updated overview, index, What's Next｜科技早知道, 声东击西, 徐涛, TensorFlow, PyTorch, Alibaba Cloud, Nvidia, DeepSeek, AI Verification, AI Coding Verification, Agent Harness, Multi-Agent Collaboration, AI Programming Engine Shift, AI Infrastructure As Product, Neo Cloud, Human Judgment Under AI, AI Organization Design, and Large Company Organizational Inertia. No direct contradiction found; the source reinforces the wiki's existing thesis that AI progress depends on infrastructure, workflow, verification, and human problem definition rather than model intelligence alone.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-08] lint | Wiki health check
 

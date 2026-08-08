@@ -2,11 +2,13 @@
 title: "Saudi Arabia"
 type: entity
 tags: [country, energy, geopolitics, economy]
-sources: [how-to-get-what-greenland-has-with-permission, the-secret-meeting-that-launched-opec, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c]
-last_updated: 2026-08-07
+sources: [outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132, how-to-get-what-greenland-has-with-permission, the-secret-meeting-that-launched-opec, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c]
+last_updated: 2026-08-08
 ---
 
 # Saudi Arabia
+
+[[outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132]] adds Saudi Arabia to [[Sudan]]'s [[ForeignBackedCivilWar]]. The episode describes Saudi Arabia as one of the outside backers of the [[SudaneseArmedForces|SAF]] and also names it as part of the Sudan "quad" with the [[UnitedStates]], [[Egypt]], and the [[UnitedArabEmirates]].
 
 Saudi Arabia appears in [[the-secret-meeting-that-launched-opec]] as a central oil-producing state in the [[OPEC]] story. The episode places Saudi officials in the 1959 secret meeting that followed price cuts by the [[SevenSistersOilMajors|Seven Sisters]], then uses later Saudi decisions to explain how OPEC learned and struggled to manage oil supply.
 
@@ -26,3 +28,4 @@ The episode also treats Saudi Arabia as an enforcer of last resort. When members
 - [[StraitOfHormuz]] and [[GulfStabilityRisk]] - regional setting where oil supply and security risk overlap.
 - [[RareEarthProcessingBottleneck]] and [[StrategicAccessWithoutAnnexation]] - mineral-security and access-arrangement branch added by the Greenland episode.
 - [[Syria]], [[AhmadAlSharah]], [[Qatar]], [[UnitedArabEmirates]], and [[PostwarReconstructionFinance]] - reconstruction branch added by The Intelligence.
+- [[Sudan]], [[SudaneseArmedForces]], [[Egypt]], [[UnitedArabEmirates]], and [[FragmentedCeasefireEnforcement]] - Sudan mediation and army-support branch.

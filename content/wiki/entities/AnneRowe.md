@@ -2,11 +2,13 @@
 title: "Anne Rowe"
 type: entity
 tags: [person, journalism, climate]
-sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
-last_updated: 2026-08-07
+sources: [outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
+last_updated: 2026-08-08
 ---
 
 # Anne Rowe
+
+[[outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132]] adds Rowe as the narrator of the final segment on [[BetyeSaar]]. Her account links Saar's found-object practice, [[WattsTowers]] influence, and [[TheLiberationOfAuntJemima]] to [[AssemblageArtMemoryWork]] around slavery, race, stereotype, and liberation.
 
 [[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] adds Rowe as the narrator of the final segment on [[MonaKhalil]] and the [[OrangeHouseLebanon|Orange House]] in southern [[Lebanon]]. Her account turns a turtle encounter on Mansouri Beach into a life story about local protection work, development pressure, and [[ConservationUnderWar]].
 
@@ -20,3 +22,4 @@ The episode uses Rowe's segment as an obituary-style environmental story. A23A i
 - [[IcebergClimateSymbolism]] - concept grounded by the segment.
 - [[ClimateAdaptation]] - adjacent wiki climate-resilience frame.
 - [[MonaKhalil]], [[OrangeHouseLebanon]], [[ConservationIntervention]], and [[ConservationUnderWar]] - turtle-conservation branch added by The Elon game.
+- [[BetyeSaar]], [[WattsTowers]], [[TheLiberationOfAuntJemima]], and [[AssemblageArtMemoryWork]] - art and memory branch added by the Sudan proxy-war episode.

@@ -2,11 +2,13 @@
 title: "United Arab Emirates"
 type: entity
 tags: [country, geopolitics, economy, infrastructure]
-sources: [the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c]
-last_updated: 2026-08-07
+sources: [outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132, the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c]
+last_updated: 2026-08-08
 ---
 
 # United Arab Emirates
+
+[[outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132]] adds the UAE to the [[Sudan]] war branch. [[TomGardner]] says evidence points to significant UAE backing for the [[RapidSupportForces|RSF]], while the source explicitly notes that the UAE denies this; the same episode also places the UAE in the Sudan "quad" with the [[UnitedStates]], [[Egypt]], and [[SaudiArabia]], making it both alleged sponsor and possible diplomatic pressure actor.
 
 The United Arab Emirates appears in [[gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6]] as the Gulf state the episode presents as relatively better placed after the Iran war. The source points to fiscal strength, expatriate confidence, and plans to bypass the [[StraitOfHormuz]] as reasons the UAE may be more resilient than some neighbors.
 
@@ -26,3 +28,4 @@ In the wiki, the UAE now anchors the positive side of [[GulfStabilityRisk]]. Its
 - [[Dubai]], [[AbuDhabi|Abu Dhabi]], [[DubaiBusinessHubModel]], [[DubaiGoldenVisaResidency]], and [[DubaiRealEstateMarket]] - city-level business, residency, and property branch added by vol.106.
 - [[OPEC]], [[SaudiArabia]], [[ProductionQuotaDiscipline]], [[GreenParadox]], and [[OilProducerSupplyCoordination]] - oil-quota and producer-incentive branch added by Planet Money.
 - [[Syria]], [[AhmadAlSharah]], [[Qatar]], [[SaudiArabia]], and [[PostwarReconstructionFinance]] - Syrian reconstruction engagement branch added by The Intelligence.
+- [[Sudan]], [[RapidSupportForces]], [[ForeignBackedCivilWar]], and [[FragmentedCeasefireEnforcement]] - Sudan branch added by The Intelligence.
