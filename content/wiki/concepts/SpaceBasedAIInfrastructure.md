@@ -2,7 +2,7 @@
 title: "Space Based AI Infrastructure"
 type: concept
 tags: [ai, infrastructure, space, data-centers]
-sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
+sources: [tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
 last_updated: 2026-08-07
 ---
 
@@ -22,6 +22,8 @@ The source treats the idea as plausible but not easy. Launching compute is not t
 
 [[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] adds the most detailed source so far. It decomposes a possible 1GW orbital-compute target into 100kW satellite units, Starship launch counts, launch-cost assumptions, GPU capital cost, heat rejection, radiation tolerance, inference-versus-training fit, satellite lifetime, and [[OrbitalComputeGovernance]]. The key update is that space-based AI infrastructure moves from a broad scenario into a set of testable constraints under [[OrbitalDataCenterEconomics]].
 
+[[tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128]] adds a public-finance and debris layer. [[JoannaStern]] says [[SpaceX]]'s second-quarter capital expenditures exceeded $18 billion, with most of the increase described as AI infrastructure spending, while the same discussion notes space-junk concerns around a discarded rocket collision with the [[Moon]].
+
 ## Key Claims
 - AI demand can expose physical infrastructure limits: power, grid, real estate, cooling, permitting, and regional resilience.
 - [[SpaceX]], [[Starlink]], and [[Starship]] could make orbital compute more plausible if launch cost, networking, and deployment cadence keep improving.
@@ -32,6 +34,7 @@ The source treats the idea as plausible but not easy. Launching compute is not t
 - A public-market SpaceX story may use space-based AI infrastructure as upside narrative, but the concept still needs engineering and economic proof before it can be treated as a working data-center alternative.
 - E239 adds that [[OrbitalDataCenterThermalManagement]] is a first-order design variable because vacuum shifts cooling from convection toward radiation, radiator area, and heat-transport systems.
 - Scaled orbital compute would also need governance around orbital traffic, data sovereignty, debris risk, and enforcement capacity.
+- The Marketplace Tech update makes debris risk more concrete: AI infrastructure spending and lunar/space industrial ambition can increase the importance of [[OrbitalDebrisGovernance]].
 
 ## Connections
 - [[SpaceX]], [[Starlink]], and [[Starship]] — enabling space platform context.
@@ -41,3 +44,4 @@ The source treats the idea as plausible but not easy. Launching compute is not t
 - [[WallStreetJournal|Wall Street Journal]], [[PareshDave]], and [[PublicCompanyTransition]] - January 23 Marketplace Tech source context around IPO capital and maintenance uncertainty.
 - [[OrbitalDataCenterEconomics]], [[OrbitalDataCenterThermalManagement]], [[OrbitalComputeGovernance]], [[LiuBinyan]], and [[StarCloud]] - detailed orbital-compute branch added by E239.
 - [[ZannyMintonBeddoes]], [[AIAbundanceNarrative]], and [[TechnoOptimismPresentThreatGap]] - direct Musk interview branch added by The Intelligence.
+- [[JoannaStern]], [[MarketplaceTech]], [[OrbitalDebrisGovernance]], and [[Moon]] - August 2026 capex and debris-governance branch.

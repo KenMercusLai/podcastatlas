@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Gig workers train humanoids on household chores](sources/tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Joanna Stern on SpaceX's public earnings and AI capex, gig workers filming chores for household-robot training data, and MySpace nostalgia as a reaction to algorithmic social feeds.
 - [178: 与田渊栋聊 RSI：模型自进化如何到来？](sources/yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1.md) — LateTalk interview with Tian Yuandong on Recursive Superintelligence, RSI as AI-aided AI research rather than only coding agents, feedback compression, research taste, scaling plateaus, interpretability, and small hands-on model teams.
 - [贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24](sources/jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429.md) — What's Next｜科技早知道 and 声东击西 crossover with Jia Yangqing on AI's shift from unfashionable research label to infrastructure, cloud, startup, and agent-verification platform.
 - [Socialist mobility: a telling Michigan vote](sources/socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216.md) — The Intelligence episode on Abdul El-Sayed's Michigan primary win, Yangtze fishing-ban recovery, and postcards' intelligence and cultural history.
@@ -4998,6 +4999,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Megan McCarty-Corino](entities/MeganMcCartyCorino.md) — Marketplace Tech host/reporter framing episodes on AI scam websites, patient AI use, tech hiring, world models, data-center tax incentives, prosthetic access, AI search advertising, data-center debt risk, and AI slop.
 - [Drew Harwell](entities/DrewHarwell.md) — Washington Post technology reporter explaining Marketplace Tech's online age-verification episode through state laws, contractors, privacy risk, and platform responsibility.
 - [Bluesky](entities/Bluesky.md) — Social platform used by Marketplace Tech as a state-patchwork access case after Mississippi age-verification legal exposure.
+- [MySpace](entities/MySpace.md) — Legacy social network used by Marketplace Tech as a nostalgia signal for chronological, friend-centered, less algorithmic social media.
 - [Mississippi](entities/Mississippi.md) — U.S. state in the Marketplace Tech age-verification episode where legal exposure affected Bluesky service availability.
 - [Aviv Ovadia](entities/AvivOvadia.md) — AI and Democracy Foundation founder warning that generative AI can push media distrust into information apocalypse and reality apathy.
 - [AI and Democracy Foundation](entities/AIAndDemocracyFoundation.md) — Organization represented by Aviv Ovadia in the Marketplace Tech infocalypse episode, focused on AI-resilient democratic governance.
@@ -6597,6 +6599,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Apple Device Leasing](concepts/AppleDeviceLeasing.md) — Reported lease-like Apple hardware financing strategy through Klarna, linked to premium-device growth and AI-driven component pressure.
 - [Content Engineering](concepts/ContentEngineering.md) — AI model-behavior role that turns editorial taste, examples, rubrics, cultural context, and dialogue judgment into better answers.
 - [AI Trainer Labor](concepts/AITrainerLabor.md) — Media and creative-worker labor of grading, rewriting, and demonstrating outputs for model training, combining expert-data value with precarity.
+- [Household Robot Training Data](concepts/HouseholdRobotTrainingData.md) — First-person chore and service-work footage used to train household robots, linking embodied data scarcity to gig labor and automation anxiety.
 - [AI Answer Evaluation](concepts/AIAnswerEvaluation.md) — Product-specific method for judging whether an AI reply handles intent, tone, uncertainty, attribution, context, and follow-up well.
 - [AI Interaction Internationalization](concepts/AIInteractionInternationalization.md) — Cross-language AI behavior work that adapts examples, references, implied meaning, fandom context, and cultural fit rather than translating literally.
 - [Consensus-Trained Art Boundary](concepts/ConsensusTrainedArtBoundary.md) — Creative-AI limit where models optimized toward broad human consensus may support workflows while struggling with strange, non-consensus art.
@@ -9973,6 +9976,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Orbital Data Center Economics](concepts/OrbitalDataCenterEconomics.md) — E239 cost model for whether orbital AI compute can beat terrestrial data centers after launch, satellites, GPUs, cooling, reliability, and demand are counted.
 - [Orbital Data Center Thermal Management](concepts/OrbitalDataCenterThermalManagement.md) — Vacuum heat-rejection problem for orbital compute, centered on radiation, radiator area, chip temperature, and heat transport.
 - [Orbital Compute Governance](concepts/OrbitalComputeGovernance.md) — Governance layer for scaled orbital compute covering traffic coordination, debris risk, data sovereignty, jurisdiction, and enforcement capacity.
+- [Orbital Debris Governance](concepts/OrbitalDebrisGovernance.md) — Management of abandoned space hardware, satellite debris, collision risk, disposal, and accountability as space infrastructure scales.
 - [Space Economy Infrastructure](concepts/SpaceEconomyInfrastructure.md) — Layered platform view of space spanning launch, satellites, operations, connectivity, manufacturing, AI infrastructure, and downstream applications.
 - [Moon-Mars Strategy Split](concepts/MoonMarsStrategySplit.md) — E239 contrast between the Moon as a nearer economic and industrial base and Mars as a civilization-scale destination.
 - [First Principles Manufacturing](concepts/FirstPrinciplesManufacturing.md) — Engineering pattern of attacking cost and production limits by reasoning from physical function rather than industry precedent.

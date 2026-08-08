@@ -2,8 +2,8 @@
 title: "Robot Data Scale Up"
 type: concept
 tags: [robotics, data, embodied-ai, scale]
-sources: [147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]
-last_updated: 2026-08-07
+sources: [tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]
+last_updated: 2026-08-08
 ---
 
 # Robot Data Scale Up
@@ -11,6 +11,8 @@ last_updated: 2026-08-07
 Robot data scale up is the bottleneck named by [[ShenYujun|沈宇军]] in [[147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]]. Shen says embodied intelligence has not yet reached a robot GPT-1 moment because the field lacks a data-scaling method comparable to internet-scale language data.
 
 In the source, scaling does not mean simply recording more robot hours. [[AntLingbo|蚂蚁灵波]] expands from about 20,000 to about 60,000 hours in its second generation, but Shen emphasizes that stricter cleaning, task choice, body coverage, camera positions, degrees of freedom, and data usability matter as much as volume.
+
+[[tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128]] adds a consumer-press example of this bottleneck through [[HouseholdRobotTrainingData]]. [[JoannaStern]] describes startups paying people to film ordinary chores with head-mounted cameras so robot models can capture hand movement, task sequencing, and physical interaction before robots can reliably gather enough experience on their own.
 
 ## Key Claims
 - Real-machine data is valuable because it contains actual sensor noise, body constraints, execution latency, and physical failures.
@@ -20,6 +22,7 @@ In the source, scaling does not mean simply recording more robot hours. [[AntLin
 - Task assignment is a data problem: a collection run has to cover head, waist, hands, base, wrist cameras, and scene changes rather than repeat one narrow behavior.
 - Data quality and data modality can beat raw hours when model teams need action-relevant, physically grounded signal.
 - The source's "data native" next step means collecting data in ways that match what embodied models can actually use.
+- Marketplace Tech adds that first-person human chore footage can help scale everyday household-task coverage, but it also raises labor, privacy, and task-quality questions.
 
 ## Connections
 - [[RealRobotDataStrategy]] — existing page on target-domain and real-machine data.
@@ -28,3 +31,4 @@ In the source, scaling does not mean simply recording more robot hours. [[AntLin
 - [[RoboticsSimulationEvaluation]] and [[Sim2Real]] — evaluation and simulation context that the source qualifies.
 - [[RobotExperienceData]] and [[RobotReinforcementLearning]] — Physical Intelligence route where robot-owned attempts and corrections become data.
 - [[EmbodiedNativeFoundationModels]] and [[VisionLanguageActionModels]] — model routes whose progress depends on scalable embodied data.
+- [[HouseholdRobotTrainingData]], [[AITrainerLabor]], and [[HumanoidRobotCommercialization]] — paid human demonstration branch added by Marketplace Tech.

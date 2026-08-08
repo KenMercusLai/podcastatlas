@@ -2,8 +2,8 @@
 title: "Household Robot Data Flywheel"
 type: concept
 tags: [robotics, data, embodied-ai]
-sources: [jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]
-last_updated: 2026-07-09
+sources: [tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]
+last_updated: 2026-08-08
 ---
 
 # Household Robot Data Flywheel
@@ -14,6 +14,8 @@ The source distinguishes household data from data-factory collection. Repeated l
 
 [[166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]] adds [[XuHuazhe]]'s more model-route-oriented version. He expects video data to matter heavily for household robots, while arguing that [[RobotActiveUseMetrics]] should decide whether a deployed robot is actually generating useful feedback rather than sitting idle after purchase.
 
+[[tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128]] clarifies a pre-deployment complement: [[HouseholdRobotTrainingData]] can be gathered from people wearing cameras while doing chores. That footage may help bootstrap manipulation policies, but it is not the same as a flywheel because the robot is not yet proving user value, encountering its own failures, or producing active-use signals in a real household.
+
 ## Key Claims
 - Data quantity alone is not enough; the flywheel depends on useful, high-quality, correctable, and representative household data.
 - Corner cases matter because the household robot has to generalize across messy homes, changing objects, and live human behavior.
@@ -21,6 +23,7 @@ The source distinguishes household data from data-factory collection. Repeated l
 - Early deployment scale may be subsidized if the data advantage is valuable enough, but sustainable commercialization still depends on retention, renewal, referral, and maintenance cost.
 - Selling or giving away high-quality robot data can weaken the flywheel if the data is the scarce asset that later defines the robot brain.
 - Household active use matters because inactive robots produce neither user value nor diverse corrective data.
+- Human-recorded chore footage can supplement early training, but it cannot substitute for robot-owned deployment feedback once products enter homes.
 
 ## Connections
 - [[F2HomeRobot]], [[WeilaiBuyuan]], and [[ZhangYi]] — deployment case behind the concept.
@@ -29,3 +32,4 @@ The source distinguishes household data from data-factory collection. Repeated l
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] — user behavior signals that determine whether the flywheel is economically useful.
 - [[AICommercializationPressure]] — commercialization pressure created by expensive data, hardware, and model work.
 - [[PokeRobotics]], [[PhysicalAGI]], and [[RobotActiveUseMetrics]] — Xu Huazhe's household robot route and usage standard.
+- [[HouseholdRobotTrainingData]], [[AITrainerLabor]], and [[RobotDataScaleUp]] — pre-deployment demonstration-data branch added by Marketplace Tech.

@@ -2,8 +2,8 @@
 title: "Mark Zuckerberg"
 type: entity
 tags: [person, founder, meta, social-networking]
-sources: [tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]
-last_updated: 2026-08-05
+sources: [tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]
+last_updated: 2026-08-08
 ---
 
 # Mark Zuckerberg
@@ -20,6 +20,8 @@ The same source later mentions Zuckerberg in a different operational context: Co
 
 [[e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]] adds Zuckerberg through [[DeepMindAcquisitionChoice]]. The source says he tried to acquire [[DeepMind]] and made attractive personal offers, but [[DemisHassabis]] was disappointed that Zuckerberg appeared to treat AI as one important technology among VR, AR, and 3D printing rather than as the central AGI mission.
 
+[[tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128]] adds Zuckerberg as the operator who kept [[Facebook]] adapting while [[MySpace]] faded. In [[JoannaStern]]'s comparison, product and business pivots were part of Facebook's durability, not only the original social-network idea.
+
 ## Connections
 - [[SeanParker]], [[RonConway]], and [[SVAngel]] - introduction and mentorship context.
 - [[Meta]] - company context for Facebook.
@@ -28,3 +30,4 @@ The same source later mentions Zuckerberg in a different operational context: Co
 - [[MuseImage|Muse Image]], [[Instagram]], [[WhatsApp]], and [[AIPublicLikenessGeneration]] - social AI content and privacy branch added by Marketplace Tech.
 - [[SarahKunst]], [[Snap]], [[PathToProfitability]], and [[ActivistInvestorPressure]] - April 22 Marketplace Tech comparison around investor patience.
 - [[DeepMind]], [[DemisHassabis]], [[Facebook]], and [[DeepMindAcquisitionChoice]] — acquisition-bid context added by Silicon Valley 101.
+- [[MySpace]], [[Bluesky]], and [[SocialGraphMoat]] - social-network durability comparison added by Marketplace Tech.

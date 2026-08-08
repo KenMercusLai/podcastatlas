@@ -2,7 +2,7 @@
 title: "Humanoid Robot Commercialization"
 type: concept
 tags: [robotics, commercialization, physical-ai]
-sources: [an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, tsr-s2-trevorblackwell-v2]
+sources: [tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, tsr-s2-trevorblackwell-v2]
 last_updated: 2026-08-08
 ---
 
@@ -18,6 +18,8 @@ The source is deliberately cautious: He says most general humanoid routes will f
 
 [[tsr-s2-trevorblackwell-v2]] adds a pre-current-wave case through [[TrevorBlackwell]]'s [[Anybots]]. Blackwell wanted human-sized walking robots because science fiction had promised them, but the source says he did not have a clear commercial use case. That makes Anybots a historical reminder that locomotion progress, impressive demos, and founder obsession do not by themselves solve customer pull.
 
+[[tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128]] adds a training-data realism check. [[JoannaStern]] says chore-capable household robots are still a long way off because the field still has to solve [[HouseholdRobotTrainingData]], safety, and dexterous hands. The source therefore treats paid chore footage as evidence of the commercialization gap, not as proof that home humanoids are ready.
+
 ## Key Claims
 - Humanoid robots combine difficult motion control, manipulation, safety, hardware durability, model training, cost, public acceptance, and use-case selection.
 - A humanoid form can be strategically attractive if the target is broad human environments, but it can also increase risk compared with wheeled or task-specific robots.
@@ -27,6 +29,7 @@ The source is deliberately cautious: He says most general humanoid routes will f
 - Industrial demos and competition results matter when they test capabilities that later transfer into paid scenarios, but they should not be confused with full product-market fit.
 - The Anybots story shows an earlier version of the same commercialization gap: a robot can be technically interesting and culturally memorable while still lacking a first market.
 - The Musk interview raises the stakes: if humanoids are the bridge from digital AI to physical abundance, commercialization failures delay the whole [[AIAbundanceNarrative]].
+- The Marketplace Tech source adds that paid human task footage can be a necessary input while also revealing how far the field remains from safe, reliable household autonomy.
 
 ## Connections
 - [[XPengIron]], [[XPeng]], and [[HeXiaopeng]] — source robot, company, and CEO case.
@@ -37,3 +40,4 @@ The source is deliberately cautious: He says most general humanoid routes will f
 - [[HumanoidRobotMarathon]], [[Honor]], [[FigureAI]], [[XingdongEra]], and [[RobotLogisticsSorting]] — Q2 2026 industrial and hardware proof layer added by the LateTalk source.
 - [[TrevorBlackwell]], [[Anybots]], [[DynamicBalancingRobotics]], and [[BostonDynamics]] — historical walking-robot route added by The Social Radars source.
 - [[ElonMusk]], [[Tesla]], [[PhysicalAI]], [[AIWorkOptionality]], and [[UniversalHighIncome]] - full-interview abundance branch.
+- [[JoannaStern]], [[HouseholdRobotTrainingData]], [[RobotDataScaleUp]], and [[AITrainerLabor]] - paid demonstration-data branch added by Marketplace Tech.

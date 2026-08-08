@@ -2,7 +2,7 @@
 title: "Bluesky"
 type: entity
 tags: [company, social-media, platform, regulation]
-sources: [tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128]
+sources: [tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128]
 last_updated: 2026-08-05
 ---
 
@@ -12,13 +12,17 @@ Bluesky appears in [[tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-te
 
 In the wiki, Bluesky is a concrete access-withdrawal case: compliance risk can make a platform change service availability by jurisdiction instead of simply adding a universal age gate. That connects the company to [[OnlineAgeVerification]], [[SocialMediaAgeGateSpeechBurden]], and [[PlatformDataRegulation]] rather than only to product competition among social networks.
 
+[[tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128]] adds Bluesky as the present-day comparison for [[MySpace]] nostalgia. [[JoannaStern]] describes Bluesky as trying to revive some earlier social-media values through more user control and distributed posting, contrasting it with centralized networks and algorithmic feeds.
+
 ## Key Claims
 - The source uses Bluesky to show how state-level age-verification laws can fragment platform access.
 - Withdrawal from a state can be a compliance response when fines or liability look too risky.
 - Smaller or newer platforms may face a sharper burden than large incumbents because legal review and contractor checks have fixed or per-scan costs.
+- Marketplace Tech's MySpace segment uses Bluesky as evidence that some users want more control and less centralized platform mediation.
 
 ## Connections
 - [[Mississippi]] - state access case named in the episode.
 - [[DrewHarwell]], [[MarketplaceTech]], and [[WashingtonPost|Washington Post]] - source context.
 - [[AgeVerificationPatchwork]], [[OnlineAgeVerification]], and [[SocialMediaAgeGateSpeechBurden]] - regulation and access concepts.
 - [[PlatformDataRegulation]] and [[CivilLibertiesSurveillanceRisk]] - adjacent privacy and compliance issues.
+- [[MySpace]], [[AlgorithmicAmplification]], and [[SocialGraphMoat]] - social-platform nostalgia and control branch added by Marketplace Tech.

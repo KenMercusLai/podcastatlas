@@ -7090,6 +7090,10 @@ Added source page for a LateTalk episode with Yuan Xin of SAP on ERP, AI coding,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-08] ingest | Gig workers train humanoids on household chores
+
+Added source page for a Marketplace Tech Bytes episode with Joanna Stern on SpaceX's first public earnings report, AI infrastructure capex, Starlink partnerships, gig workers filming chores for robot training data, and MySpace nostalgia as a reaction to algorithmic social feeds. Created pages for MySpace, Household Robot Training Data, and Orbital Debris Governance; updated overview, index, Marketplace Tech, Joanna Stern, SpaceX, Starlink, Moon, Embodied AI, Physical AI, Humanoid Robot Commercialization, AI Trainer Labor, Robot Data Scale Up, Household Robot Data Flywheel, AI Training Data Scarcity, Bluesky, Facebook, Mark Zuckerberg, Social Graph Moat, Algorithmic Amplification, Space Economy Infrastructure, and Space Based AI Infrastructure. No direct contradiction found; the source qualifies household robot optimism by separating paid human demonstration footage from deployment data flywheels, and qualifies space infrastructure optimism by adding debris accountability alongside lunar and AI infrastructure ambitions.
+
 ## [2026-08-08] ingest | 178: 与田渊栋聊 RSI：模型自进化如何到来？
 
 Added source page for a LateTalk episode with Tian Yuandong on Recursive Superintelligence and recursive self-improvement. Created pages for Tian Yuandong / 田渊栋 and AI Research Feedback Compression; updated overview, index, LateTalk, Recursive, Recursive Self-Improvement, Auto Research, AI For AI, Research Taste, Mechanistic Interpretability, Frontier Model Scaling, ML Coding, AI Verification, AI Organization Design, AI For Science, Discovery Model, and Anthropic. No direct contradiction found; the source qualifies earlier RSI coverage by separating coding-agent acceleration and low-level verifiable optimization from full open-ended research self-improvement, while adding scaling-plateau, interpretability, and hands-on team-structure considerations.
@@ -7337,6 +7341,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-08] ingest | 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24
 
 Added source page for a What's Next｜科技早知道 and 声东击西 crossover with Jia Yangqing on the AI path from research skepticism to industrial and organizational centrality. Created pages for Jia Yangqing, Caffe, Google Brain, Facebook AI Infra, Lepton AI, Agent Reliability Verification, and What Over How Work Shift; updated overview, index, What's Next｜科技早知道, 声东击西, 徐涛, TensorFlow, PyTorch, Alibaba Cloud, Nvidia, DeepSeek, AI Verification, AI Coding Verification, Agent Harness, Multi-Agent Collaboration, AI Programming Engine Shift, AI Infrastructure As Product, Neo Cloud, Human Judgment Under AI, AI Organization Design, and Large Company Organizational Inertia. No direct contradiction found; the source reinforces the wiki's existing thesis that AI progress depends on infrastructure, workflow, verification, and human problem definition rather than model intelligence alone.
+
+## [2026-08-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-08] lint | Wiki health check
 

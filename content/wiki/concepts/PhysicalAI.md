@@ -2,7 +2,7 @@
 title: "Physical AI"
 type: concept
 tags: [ai, robotics, automotive, physical-ai]
-sources: [an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, 173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, tsr-s2-trevorblackwell-v2, 146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv, 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]
+sources: [tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, 173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1, tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, tsr-s2-trevorblackwell-v2, 146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv, 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]
 last_updated: 2026-08-08
 ---
 
@@ -23,6 +23,8 @@ The source contrasts physical AI with digital AI. Language and software tasks ca
 [[momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]] adds [[Momenta]]'s autonomous-driving-first version. [[CaoXudong]] says Momenta is fundamentally an AI company, and more specifically a physical-AI company when the field is narrowed. The source treats cars as the first physical-AI curve: mass-production driving supplies real-world data, safety pressure, customer delivery, and a model stack that may later extend into Robo One, Robotruck, Robotaxi, and home robots.
 
 [[tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128]] adds a broad public-forecasting version through [[AmyWebb]]. The episode frames physical AI as one branch of [[AIConvergence]]: robots need contextual understanding of the physical world, [[GoogleDeepMind]]'s shoe-tying example shows how hard ordinary tasks can be, and [[Amazon]] plus [[Nvidia]] make the topic an operations and labor-market question.
+
+[[tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128]] adds the chore-data version through [[JoannaStern]]. Paid first-person footage of laundry, dishwashing, cleaning, mechanical work, and plumbing turns physical AI into a data and labor problem: the model needs examples of hands, objects, force, and sequence, while workers may be helping train systems that could later automate related work.
 
 [[tsr-s2-trevorblackwell-v2]] adds a historical control-and-hardware version through [[TrevorBlackwell]] and [[Anybots]]. It shows that physical AI problems existed long before the current model stack: balancing, compliant actuation, falls, terrain, server-like reliability, and commercial use-case discovery were already linked in Blackwell's walking-robot work.
 
@@ -47,6 +49,7 @@ The source contrasts physical AI with digital AI. Language and software tasks ca
 - The Ant Lingbo source adds that a brain-first route still depends on body and sensor co-evolution because stronger models change what cameras, tactile sensors, hands, latency, and data collection need to provide.
 - The Striding AI source adds that full-stack integration may be necessary before the field has standard interfaces, mature suppliers, and reliable scenario-to-data loops.
 - The Musk interview adds a post-scarcity version: physical AI is not only a robot market, but the bottleneck between digital superintelligence and material abundance.
+- Marketplace Tech adds that physical AI may require process-rich human demonstrations before deployed robots can produce enough useful real-world experience of their own.
 
 ## Connections
 - [[XPeng]], [[HeXiaopeng]], [[XPengIron]], and [[XPengGX]] — source company, CEO, robot, and vehicle case.
@@ -66,3 +69,4 @@ The source contrasts physical AI with digital AI. Language and software tasks ca
 - [[AntLingbo]], [[ShenYujun]], [[EmbodiedNativeFoundationModels]], [[RobotDataScaleUp]], and [[RealRobotDataStrategy]] — cross-embodiment robot-brain route added by episode 147.
 - [[YaoSong]], [[StridingAI]], [[PhysicalIntelligenceSystemStack]], [[MilestoneCommercialization]], and [[RobotDemoAuthenticity]] — system-stack and commercialization route added by episode 173.
 - [[ElonMusk]], [[Tesla]], [[AIAbundanceNarrative]], [[AIWorkOptionality]], and [[UniversalHighIncome]] - full-interview abundance route.
+- [[JoannaStern]], [[HouseholdRobotTrainingData]], [[AITrainerLabor]], and [[RobotDataScaleUp]] - human-recorded household-task data branch added by Marketplace Tech.

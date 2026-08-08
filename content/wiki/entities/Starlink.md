@@ -2,7 +2,7 @@
 title: "Starlink"
 type: entity
 tags: [company, satellite, spacex, connectivity]
-sources: [an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
+sources: [tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
 last_updated: 2026-08-08
 ---
 
@@ -24,6 +24,8 @@ The source gives Starlink two roles. First, it can generate commercial cash flow
 
 [[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] adds Starlink as operational precedent for orbital compute. The episode treats Starlink's scaled satellite manufacturing, low-earth-orbit telemetry, heat-pump experience, and collision-avoidance operations as possible advantages if [[SpaceX]] tries to build [[SpaceBasedAIInfrastructure]]. The source does not claim Starlink makes orbital data centers solved; it makes Starlink a partial learning base for [[OrbitalDataCenterThermalManagement]] and [[OrbitalComputeGovernance]].
 
+[[tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128]] adds a public-earnings view. [[JoannaStern]] says Starlink is performing well, including through partnerships with airlines, while the same [[SpaceX]] segment links large satellite and rocket activity to [[OrbitalDebrisGovernance]] concerns.
+
 ## Connections
 - [[SpaceX]] — Starlink's parent company in the source.
 - [[ReusableRocketEconomics]] — launch-cost precondition for building the constellation.
@@ -35,3 +37,4 @@ The source gives Starlink two roles. First, it can generate commercial cash flow
 - [[Ukraine]], [[LowCostDroneWarfare]], and [[WarVisibilityStrategy]] — battlefield precision branch added by the later Economist source.
 - [[PrivateInfrastructureWarPower]] — governance branch added by the full Musk interview.
 - [[UrbanLegend|都市传说]] and [[UFOConspiracyCulture]] — sky-sighting demystification branch added by episode 95.
+- [[JoannaStern]], [[MarketplaceTech]], and [[OrbitalDebrisGovernance]] - August 2026 earnings and space-junk branch.

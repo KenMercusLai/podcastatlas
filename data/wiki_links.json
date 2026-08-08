@@ -16831,6 +16831,10 @@
     "title": "Household Robot Data Flywheel",
     "url": "/wiki/concepts/householdrobotdataflywheel/"
   },
+  "HouseholdRobotTrainingData": {
+    "title": "Household Robot Training Data",
+    "url": "/wiki/concepts/householdrobottrainingdata/"
+  },
   "HouseholdSecurityRobots": {
     "title": "Household Security Robots",
     "url": "/wiki/concepts/householdsecurityrobots/"
@@ -24439,6 +24443,10 @@
     "title": "《龙猫》 / My Neighbor Totoro",
     "url": "/wiki/entities/myneighbortotoro/"
   },
+  "MySpace": {
+    "title": "MySpace",
+    "url": "/wiki/entities/myspace/"
+  },
   "Myanmar": {
     "title": "Myanmar",
     "url": "/wiki/entities/myanmar/"
@@ -26102,6 +26110,10 @@
   "OrbitalDataCenterThermalManagement": {
     "title": "Orbital Data Center Thermal Management",
     "url": "/wiki/concepts/orbitaldatacenterthermalmanagement/"
+  },
+  "OrbitalDebrisGovernance": {
+    "title": "Orbital Debris Governance",
+    "url": "/wiki/concepts/orbitaldebrisgovernance/"
   },
   "OrderClassVocationalEducation": {
     "title": "Order-Class Vocational Education / 订单班",
@@ -41374,6 +41386,10 @@
   "tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128": {
     "title": "AI chatbots have linguistic slips when they go off-script",
     "url": "/wiki/sources/tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128/"
+  },
+  "tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128": {
+    "title": "Gig workers train humanoids on household chores",
+    "url": "/wiki/sources/tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",
