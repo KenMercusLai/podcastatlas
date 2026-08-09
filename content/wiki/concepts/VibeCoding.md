@@ -2,8 +2,8 @@
 title: "Vibe Coding"
 type: concept
 tags: [ai-coding, software-engineering, learning]
-sources: [tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
-last_updated: 2026-07-12
+sources: [moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
+last_updated: 2026-08-10
 ---
 
 # Vibe Coding
@@ -42,6 +42,8 @@ Vibe coding is the AI-assisted practice of using coding tools such as [[Cursor]]
 
 [[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]] adds the confidence-confirmation version. The host says [[PingGe]] helped him confirm that even without programming, product, or project-management background, he could use natural language and AI agents to build software-like artifacts; the deeper lesson is that coding ability begins with intention, context, and acceptance criteria, not with identifying as a programmer.
 
+[[moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk]] adds the [[Runta]] internal-practice version. [[DaiGuanlan|戴冠兰]] says most implementation inside Runta is AI-assisted, while still reserving architecture, API design, module boundaries, and result responsibility for engineers. The source therefore treats vibe coding as a high-leverage workflow that raises the value of [[AIEngineeringThinking]] rather than replacing it.
+
 ## Key Claims
 - Vibe coding can reduce some coding, search, and debugging time, but conversation, waiting, review, and repair can make total work slower on familiar complex repositories.
 - Its value is strongest when it helps users learn by building real projects rather than studying a framework in isolation.
@@ -71,10 +73,12 @@ Vibe coding is the AI-assisted practice of using coding tools such as [[Cursor]]
 - Revenue from vibe-coded applications is a stronger maturity signal than demos alone, because it shows that generated software can satisfy real users or customers.
 - Treating English prompts as source code raises the importance of specifications, tests, acceptance criteria, and product intent.
 - A vibe-coded product can be acquisition-visible, but the source argues that domain expertise, market context, and creator judgment still matter.
+- The Runta source adds that high-percentage AI-written code is compatible with serious infrastructure work only when humans retain architecture judgment and ownership of final correctness.
 
 ## Connections
 - [[Cursor]], [[ClaudeCode]], [[GeminiCLI]], [[Windsurf]], and [[Devin]] — tools and products in the source's AI coding market map.
 - [[MoteBook]], [[Meta]], [[BenParr]], [[MattSchlicht]], and [[AITalentCompetition]] - acquisition-visible vibe-coding case added by Marketplace Tech Bytes.
+- [[Runta]], [[DaiGuanlan]], [[AIEngineeringThinking]], and [[AgentRuntimeExecutionLayer]] — infrastructure-startup vibe-coding boundary added by the Runta source.
 - [[AICodingVerification]] — verification burden created when generated code becomes cheap.
 - [[AIAssistedSoftwareDevelopmentRisk]] — production risk if speed outruns architecture and review.
 - [[ContextEngineering]] — practice of shaping the context that makes AI coding work.

@@ -2,8 +2,8 @@
 title: "Jeff Dean"
 type: entity
 tags: [person, ai, google, infrastructure]
-sources: [e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]
-last_updated: 2026-08-07
+sources: [e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk]
+last_updated: 2026-08-10
 ---
 
 # Jeff Dean
@@ -12,7 +12,10 @@ Jeff Dean appears in [[e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchen
 
 The source uses him to connect [[TPU]] roadmap choices to internal model and product demand. That matters because [[ASICWorkloadPredictionRisk]] depends on what senior technical leadership believes future [[TransformerArchitecture|Transformer]], [[MixtureOfExperts|MoE]], reinforcement learning, and inference workloads will need several years later.
 
+[[moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk]] adds Jeff Dean as an angel investor and as the person whose question frames [[DaiGuanlan|Dai Guanlan]]'s agent-infra thesis: what should infrastructure look like if the lowest execution unit is probabilistic? The source therefore links Dean not only to model and hardware roadmaps, but also to [[ProbabilisticSoftware]] and [[AgentRuntimeExecutionLayer|agent runtime infrastructure]].
+
 ## Connections
 - [[Google]], [[DeepMind]], [[GoogleDeepMind]], and [[Gemini]] — organizational and model context.
 - [[TPU]], [[AIChipSpecialization]], and [[ASICWorkloadPredictionRisk]] — hardware-roadmap context.
 - [[TrainingComputeAllocation]] and [[MaaSInfrastructure]] — strategic compute-allocation frame.
+- [[Runta]], [[DaiGuanlan]], [[ProbabilisticSoftware]], and [[AgentRuntimeExecutionLayer]] — agent runtime question added by the Runta episode.

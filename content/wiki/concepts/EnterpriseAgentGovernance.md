@@ -2,8 +2,8 @@
 title: "Enterprise Agent Governance"
 type: concept
 tags: [ai, agents, enterprise, governance, security]
-sources: [e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
-last_updated: 2026-08-08
+sources: [moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
+last_updated: 2026-08-10
 ---
 
 # Enterprise Agent Governance
@@ -24,6 +24,8 @@ The concept extends [[AgentHarness]] from a task-runtime problem into a manageme
 
 [[ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]] adds the [[EnterpriseResourcePlanning|ERP]] governance case through [[SAP]]. [[YuanXin]] describes agents entering finance, procurement, order, and compliance workflows where 99% accuracy can still be unacceptable, so governance has to include structured data, agent reflection/correction, permissions, audit trails, and human review for exceptions.
 
+[[moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk]] adds the [[Runta]] execution-layer version. [[DaiGuanlan|戴冠兰]] says enterprises cannot responsibly give agents production authority, customer data, credentials, or non-read-only actions unless the runtime can isolate work, scope permissions, log actions, recover failures, and explain what an agent touched.
+
 ## Key Claims
 - Scaled agent adoption turns identity, permissions, logs, and auditability into first-order product requirements.
 - Enterprises need to know which agent acted, under which authority, against which data, and with what human review.
@@ -36,6 +38,7 @@ The concept extends [[AgentHarness]] from a task-runtime problem into a manageme
 - In AI-first organizations, governance must cover internal operating loops too: agents may inspect metrics, assign bugs, open PRs, query customer behavior, and generate market output before a human review point appears.
 - High-permission AI employees need adversarial tests, human approval gates for risky actions, and auditability around both action and inaction.
 - ERP agents add a stricter acceptance boundary: a finance or tax workflow can be mostly automated yet still fail if the remaining exception is not reviewable, explainable, and attributable.
+- Agent runtime governance must include the execution environment itself: where the agent runs, how it scales, which secrets it can reach, and whether its actions can be audited or rolled back.
 
 ## Connections
 - [[DanielNewman]], [[AINativeSaaSThreat]], [[SaaSTrustMoat]], and [[OutcomeBasedAIPricing]] — Marketplace Tech's SaaS replacement and pricing boundary.
@@ -50,3 +53,4 @@ The concept extends [[AgentHarness]] from a task-runtime problem into a manageme
 - [[Creo]], [[ClarkCreo]], [[AIFirstOrganization]], and [[HarnessEngineering]] - internal AI-first governance and broad-access case added by E238.
 - [[Kuse]], [[Junior]], [[OpenClawForTeams]], [[AgentEvaluationBenchmarks]], and [[EnterpriseAgentMemory]] — high-authority AI employee case added by the Yuhao source.
 - [[SAP]], [[EnterpriseResourcePlanning]], [[AutonomousEnterprise]], and [[ERPTrustMoat]] — core-system governance case added by LateTalk.
+- [[Runta]], [[DaiGuanlan]], [[AgentRuntimeExecutionLayer]], and [[AgentApprovalFatigue]] — execution-layer governance and temporary permission context added by the Runta source.

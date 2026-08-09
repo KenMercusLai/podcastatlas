@@ -2723,6 +2723,10 @@
     "title": "Age Verification Patchwork",
     "url": "/wiki/concepts/ageverificationpatchwork/"
   },
+  "AgentApprovalFatigue": {
+    "title": "Agent Approval Fatigue",
+    "url": "/wiki/concepts/agentapprovalfatigue/"
+  },
   "AgentAsAService": {
     "title": "Agent as a Service",
     "url": "/wiki/concepts/agentasaservice/"
@@ -2806,6 +2810,10 @@
   "AgentReliabilityVerification": {
     "title": "Agent Reliability Verification",
     "url": "/wiki/concepts/agentreliabilityverification/"
+  },
+  "AgentRuntimeExecutionLayer": {
+    "title": "Agent Runtime Execution Layer",
+    "url": "/wiki/concepts/agentruntimeexecutionlayer/"
   },
   "AgentSelfEvolution": {
     "title": "Agent Self-Evolution",
@@ -9602,6 +9610,10 @@
   "Dafeixin": {
     "title": "达菲辛 / Dafeixin",
     "url": "/wiki/entities/dafeixin/"
+  },
+  "DaiGuanlan": {
+    "title": "戴冠兰 / Dai Guanlan",
+    "url": "/wiki/entities/daiguanlan/"
   },
   "DaiYiJueMiLu": {
     "title": "《大义觉迷录》",
@@ -30551,6 +30563,14 @@
     "title": "Running Shoe Technology",
     "url": "/wiki/concepts/runningshoetechnology/"
   },
+  "Runta": {
+    "title": "Runta",
+    "url": "/wiki/entities/runta/"
+  },
+  "RuntaCloudShell": {
+    "title": "Runta Cloud Shell",
+    "url": "/wiki/entities/runtacloudshell/"
+  },
   "RupertMurdoch": {
     "title": "Rupert Murdoch",
     "url": "/wiki/entities/rupertmurdoch/"
@@ -40766,6 +40786,10 @@
   "momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1": {
     "title": "Momenta IPO后再访曹旭东：就是想做没有尽头的AI",
     "url": "/wiki/sources/momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1/"
+  },
+  "moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk": {
+    "title": "「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人",
+    "url": "/wiki/sources/moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk/"
   },
   "musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz": {
     "title": "Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集",

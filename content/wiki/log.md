@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-10] ingest | 「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人
+
+Added source page for a Shizilukou Crossing interview with Runta founder Dai Guanlan on agent runtime infrastructure, probabilistic execution, production permissions, governance, token cost, and the shift from model capability to agent infra. Created pages for Dai Guanlan, Runta, Runta Cloud Shell, Agent Runtime Execution Layer, and Agent Approval Fatigue; updated overview and index. No direct contradiction found; the source reinforces the wiki's agent-harness and enterprise-governance branch while qualifying token maxxing as an early adoption tactic that later needs cost and value discipline.
+
 ## [2026-08-10] ingest | 算力狂想曲，我在AI工厂的奇遇
 
 Added source page for a 一劳永逸 satirical AI-factory dream about AI anxiety, GPU-centered infrastructure, agent over-delegation, symbolic human-in-the-loop compliance, physical AI, circular compute finance, digital companionship, and human value beyond efficiency. Created pages for AI Factory Allegory, Automated Life Delegation, Symbolic Human In The Loop, AI Companion Authenticity Boundary, and Human Value Beyond Efficiency; updated overview, index, 一劳永逸, Nvidia, Jensen Huang, GPU, OpenAI, Sam Altman, Elon Musk, Agentic Workflow, Human-Agent Collaboration, Human Judgment Under AI, AI Circular Infrastructure Financing, AI Companion Attention Risk, AI Grief Bots, Digital Memorialization, AI Friend Products, Human Agency Under AI, AI Use Pacing, Embodied AI, Physical AI, and AI Work Optionality. No direct contradiction found; the source is treated as allegory rather than factual reporting about the named executives or companies.
@@ -7401,3 +7405,7 @@ Ran health before lint; health scanned 10,560 wiki pages and found no empty/stub
 ## [2026-08-10] lint | Wiki health check
 
 Ran health before lint; health scanned 10,566 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 10,566 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-07 with 9,679 nodes and 103,834 edges; they found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

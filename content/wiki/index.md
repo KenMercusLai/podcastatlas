@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人](sources/moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk.md) — Shizilukou Crossing episode with Runta founder Dai Guanlan on agent runtime infrastructure, probabilistic execution, enterprise governance, token cost, and why production agents need infra beyond model capability.
 - [算力狂想曲，我在AI工厂的奇遇](sources/suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i.md) — 一劳永逸 satirical AI-factory dream about GPUs, agents, automated life, physical AI, digital companionship, circular compute finance, and human value beyond efficiency.
 - [144 ✪ 国货出海新趋势：山下有松、观夏、PANE](sources/144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1.md) — 疯投圈 episode on Chinese consumer-brand soft power through Shanxia Yousong, Guanxia, Sandunban, and PANE, covering inbound tourism, reverse daigou, aspirational premiums, brand podcasting, Chinese fragrance, and international-style brand export.
 - [从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青](sources/cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi.md) — 42章经 episode with Meng Fanqing on post-training as data work, environment-based agent benchmarks, synthetic agent data, distillation as accelerator, RSI data, and Evolvent AI's bridge between model labs and applications.
@@ -925,6 +926,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [戴冠兰 / Dai Guanlan](entities/DaiGuanlan.md) — Runta founder connecting Cloudflare/Kong infrastructure experience to agent runtime, probabilistic execution, and enterprise permission governance.
+- [Runta](entities/Runta.md) — AI-agent runtime and execution-layer company positioned around long-running agents, governance, token analysis, sandbox scheduling, and production permissions.
+- [Runta Cloud Shell](entities/RuntaCloudShell.md) — Runta open-source project mentioned as a local agent-support surface for email and permission-bound workflows.
 - [山下有松 / Shanxia Yousong](entities/ShanxiaYousong.md) — Chinese light-luxury bag brand used by FengTouQuan to explain rough Chinese aesthetics, inbound tourist demand, reverse daigou, and aspirational emotional premium.
 - [PANE](entities/PANE.md) — Chinese fashion-footwear brand used as an export-attention-before-domestic-fame case built around international retro aesthetics rather than explicit Chinese style.
 - [Meng Fanqing / 孟繁青](entities/MengFanqing.md) — Evolvent AI co-founder and NUS PhD student connecting post-training, synthetic data, environment benchmarks, distillation, and RSI data.
@@ -6319,6 +6323,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Agent Runtime Execution Layer](concepts/AgentRuntimeExecutionLayer.md) — Infrastructure layer for running, constraining, observing, and recovering long-running agents before enterprises grant production authority.
+- [Agent Approval Fatigue](concepts/AgentApprovalFatigue.md) — Failure mode where repeated permission prompts lead users to over-approve or grant broad standing access, requiring task-scoped scopes and audit trails.
 - [AI Factory Allegory](concepts/AIFactoryAllegory.md) — Satirical frame where compute, data centers, agents, capital, and human oversight become one AI production system.
 - [Automated Life Delegation](concepts/AutomatedLifeDelegation.md) — Failure mode where agents move from helping with work into pre-living relationships, emotions, decisions, and recovery for the user.
 - [Symbolic Human In The Loop](concepts/SymbolicHumanInTheLoop.md) — Hollow oversight pattern where human review satisfies compliance but lacks authority, information, or real judgment.

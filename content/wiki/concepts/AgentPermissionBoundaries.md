@@ -2,8 +2,8 @@
 title: "Agent Permission Boundaries"
 type: concept
 tags: [agents, security, governance]
-sources: [keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
-last_updated: 2026-08-07
+sources: [moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk, keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
+last_updated: 2026-08-10
 ---
 
 # Agent Permission Boundaries
@@ -34,6 +34,8 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 
 [[women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]] adds the [[Junior]] enterprise-employee version. [[Yuhao]] says an AI employee may need Gmail, a phone number, external web access, payment-like flows, and company authority, but those same tools expose phishing, prompt injection, malicious skills, account misuse, customer-data leakage, and reputational damage.
 
+[[moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk]] adds [[Runta]]'s temporary-permission pattern. [[DaiGuanlan|戴冠兰]] describes assigning an agent the authority required for a specific task, then withdrawing it immediately after completion. The source also adds [[AgentApprovalFatigue]]: repeated confirmations can push users toward broader trust than the workflow actually needs.
+
 [[tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3]] adds the bystander-recording version through [[Limitless]]. [[DanSiroker]] says the wearable pendant should use [[ConsentBasedRecording]] so a new voice is not recorded until that person has opted in. This extends permission boundaries beyond the user's own accounts and tools: a personal AI can affect other people who did not choose the product.
 
 [[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] adds the smart-glasses version. [[WillGottsagen]] describes AI glasses that can see, hear, translate, and identify context around the wearer. Even before the assistant takes an action, the device's sensing permissions affect bystanders, because other people may be seen, heard, recognized, or translated without operating the product themselves.
@@ -60,6 +62,7 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 - Enterprise AI employees require role-based and organization-aware boundaries because the same company data may be visible in systems but inappropriate to disclose to a given coworker or external party.
 - Agent spending needs its own boundary layer because payment mistakes create immediate financial loss, disputed liability, merchant fulfillment problems, and credential-exposure risk.
 - Small autonomous purchases can be safe only when the budget, source of spend, task reason, and responsible actor remain traceable.
+- Task-scoped permission grants can reduce approval fatigue without turning an agent's temporary need into standing access over email, credentials, customer data, or production systems.
 
 ## Connections
 - [[OpenClaw]], [[JustinYan]], and [[Zili]] — source context for personal-agent safety.
@@ -80,3 +83,4 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 - [[Creo]], [[ClarkCreo]], [[AIFirstOrganization]], and [[EnterpriseAgentGovernance]] — organization-wide agent access and guardrail case added by E238.
 - [[Kuse]], [[Junior]], [[AgentEvaluationBenchmarks]], and [[EnterpriseAgentMemory]] — enterprise AI employee permissions and safety-test case added by the Yuhao source.
 - [[AgentPaymentInfrastructure]], [[AgentSpendControls]], [[Clink]], and [[Visa]] — payment-mandate and bounded-spend branch added by What's Next S10E22.
+- [[Runta]], [[DaiGuanlan]], [[AgentRuntimeExecutionLayer]], and [[AgentApprovalFatigue]] — temporary permission and approval-fatigue pattern added by the Runta source.
