@@ -2,8 +2,8 @@
 title: "Pop Mart / 泡泡玛特"
 type: entity
 tags: [company, consumer, ip, collectibles]
-sources: [139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
-last_updated: 2026-08-06
+sources: [139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc, 144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]
+last_updated: 2026-08-09
 ---
 
 # Pop Mart / 泡泡玛特
@@ -20,6 +20,8 @@ The source's central Pop Mart tension is [[Labubu]] concentration. The hosts say
 
 [[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] uses Pop Mart as a mid-2025 new-consumption example inside [[QualityLowPriceReasonedPremium]]. In this source, Pop Mart is less a stock-specific case and more evidence that Chinese consumers may still pay for a premium when the emotional or cultural reason is legible.
 
+[[144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]] uses Pop Mart and [[Labubu]] as comparison cases for [[ChineseConsumerBrandSoftPower]]. The point is that Chinese brands do not have to rely on explicit Chinese-style symbols to gain foreign attention; IP emotion, visual recognizability, celebrity/fan circulation, and category timing can also travel.
+
 ## Connections
 - [[Labubu]] - blockbuster IP and concentration-risk case.
 - [[Sanrio]] and [[ImageFirstIP]] - episode 142 comparison around image-led character IP and business model.
@@ -28,4 +30,5 @@ The source's central Pop Mart tension is [[Labubu]] concentration. The hosts say
 - [[ConsumerBrandMoat]] and [[BusinessMoat]] - brand/IP durability questions behind Pop Mart's long-term value.
 - [[SFHolding]], [[GlobalResourceAllocationCompany]], and [[ChineseCorporateGladiatorCompetition]] - vol.127's consumer-globalization and competition context.
 - [[QualityLowPriceReasonedPremium]] and [[ChinaMacroTemperatureGaps]] - episode 133's new-consumption and macro-temperature context.
+- [[ChineseConsumerBrandSoftPower]] and [[FanEconomy]] - episode 144's comparison around Chinese brands traveling through IP emotion and fan circulation.
 - [[ValueInvesting]] and [[InvestmentRiskManagement]] - valuation, horizon, and position-discipline context.

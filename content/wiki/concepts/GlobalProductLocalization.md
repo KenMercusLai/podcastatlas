@@ -14,7 +14,8 @@ sources:
   - cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc
   - ep240-ba-zong-tian-chong-zai-haiwai-duanju-chuhai-de-chanye-mima-ltvxvfj5ko6djhsjatiphdy-dzek
   - 165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo
-last_updated: 2026-08-07
+  - 144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1
+last_updated: 2026-08-09
 ---
 
 # Global Product Localization
@@ -43,6 +44,8 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 
 [[ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw]] adds a smaller family-manufacturing version through [[SecondGenerationBusinessEntryRoutes|second-generation entry routes]]. The source treats foreign trade, overseas expansion, and [[Amazon]] selling as areas where internationally educated [[FactorySecondGeneration|厂二代]] can use language and market familiarity, but only if overseas-channel work is connected to production, inventory, and brand proof.
 
+[[144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]] adds a consumer-brand version where localization may begin before formal overseas channels. [[ShanxiaYousong]] and [[Guanxia]] travel by making Chinese aesthetics legible in stores and social media, while [[PANE]] and [[Sandunban]] show a different route: Chinese companies using international design or category positioning that foreign consumers can read without explicit Chinese cultural cues.
+
 ## Key Claims
 - A global product should separate what must be globally consistent from what must adapt locally.
 - Local content and operations can vary without fragmenting the core product container.
@@ -62,6 +65,7 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - Short-drama localization also includes local actor participation and paid-traffic feedback, because campaign data can reveal fit problems that translation alone misses.
 - Episode 165 adds that industrial-company localization can require local manufacturing, supply-chain, and R&D reconstruction beyond the product interface.
 - EP255 adds that family-manufacturing localization may begin as a successor's entry path, but it still needs production readiness, fulfillment discipline, and a credible consumer story.
+- Episode 144 adds that brand localization can start as attention localization: tourists, Instagram, daigou, and overseas creators may test foreign legibility before the company has built mature local operations.
 
 ## Connections
 - [[TikTok]], [[Douyin]], and [[ByteDance]] — source product and company case.
@@ -79,3 +83,4 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - [[ShortDramaOverseasExpansion]], [[ShortDramaOverseasLocalization]], [[WomenOrientedMelodramaDemand]], [[WebFictionToShortDramaPipeline]], and [[DataDrivenEntertainmentProduct]] - broader short-drama export branch added by EP240.
 - [[LocalizedGlobalCompany]], [[SecurityFirstSupplyChainLogic]], [[SFHolding]], [[AnkerInnovations]], and [[BeiGene]] - industrial-company localization layer added by episode 165.
 - [[FactorySecondGeneration]], [[WoteShoes]], [[SecondGenerationBusinessEntryRoutes]], [[ManufacturingSalesShift]], and [[Amazon]] - family-manufacturing overseas-channel extension added by EP255.
+- [[ChineseConsumerBrandSoftPower]], [[InboundTourismBrandDiscovery]], [[ShanxiaYousong]], [[Guanxia]], [[PANE]], and [[Sandunban]] - consumer-brand attention-localization branch added by episode 144.

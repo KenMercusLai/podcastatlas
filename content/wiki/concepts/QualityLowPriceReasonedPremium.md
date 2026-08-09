@@ -2,8 +2,8 @@
 title: "Quality Low Price And Reasoned Premium / 有品质的低价与有理由的溢价"
 type: concept
 tags: [consumer, pricing, china, brand]
-sources: [133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc, 142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq, 143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1]
-last_updated: 2026-08-06
+sources: [133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc, 142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq, 143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1, 144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]
+last_updated: 2026-08-09
 ---
 
 # Quality Low Price And Reasoned Premium / 有品质的低价与有理由的溢价
@@ -16,6 +16,8 @@ The frame helps reconcile weak traditional demand with pockets of visible spendi
 
 [[143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1]] adds the Chinese premium-EV version. [[LiAuto]], [[XPeng]], and [[NIO]] all need either visibly strong value for money or a clear premium reason: [[LiAutoL9]] must renew its family-SUV premium after competitors copy the formula, [[XPengGX]] tries to make a flagship technology story feel unusually well priced, and [[NIOES8]] uses [[EVBatteryLeasing]] to make premium access feel more rational without a direct discount.
 
+[[144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]] adds the fashion and fragrance version. [[ShanxiaYousong]], [[Guanxia]], and [[PANE]] may justify a premium through design, story, cultural expression, foreign-visitor demand, and [[AspirationalEmotionalPremium|向往感]], while [[Sandunban]] and PANE also show that an international-style Chinese brand can travel when the value point is clear enough.
+
 ## Key Claims
 - "Cheap" is not enough if quality, trust, or use experience collapses; low price has to feel competent.
 - Premium pricing needs a visible reason, such as IP emotion, live atmosphere, social identity, design, taste, service, or scarcity.
@@ -25,6 +27,7 @@ The frame helps reconcile weak traditional demand with pockets of visible spendi
 - The source keeps the aggregate caveat open: strong new-consumption cases may still be too small to offset weak housing-linked or durable-goods demand.
 - In Japan, a reasoned premium often has to compete against already-trusted low-price channels, so story, seasonality, craft, or technical proof must be unusually legible.
 - In premium EVs, a reasoned premium must survive both feature convergence and large-ticket affordability pressure; financing structure, family scenario fit, service, design, or technology narrative can become part of the reason.
+- In fashion and fragrance, a reasoned premium can come from aesthetic identity, cultural legibility, store experience, and scarcity even when functional comparison is weak.
 
 ## Connections
 - [[PopMart]], [[Labubu]], [[ImageFirstIP]], and [[ConsumerBrandMoat]] - consumer-IP and emotional-premium examples.
@@ -33,3 +36,4 @@ The frame helps reconcile weak traditional demand with pockets of visible spendi
 - [[DigitalEconomyMeasurementGap]] and [[ChinaMacroTemperatureGaps]] - macro-measurement and consumption-temperature context.
 - [[JapanMarketEntryTrust]], [[JapaneseSeasonalLimitedConsumption]], [[StoryLedConsumerBranding]], and [[TrustAsBusinessAsset]] - Japan-market branch added by episode 142.
 - [[HighEndEVBranding]], [[LiAutoL9]], [[XPengGX]], [[NIOES8]], and [[EVBatteryLeasing]] - premium-EV branch added by FengTouQuan.
+- [[AspirationalEmotionalPremium]], [[ChineseConsumerBrandSoftPower]], [[ShanxiaYousong]], [[Guanxia]], and [[PANE]] - fashion/fragrance branch added by FengTouQuan episode 144.

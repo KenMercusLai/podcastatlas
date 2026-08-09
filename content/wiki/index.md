@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [144 ✪ 国货出海新趋势：山下有松、观夏、PANE](sources/144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1.md) — 疯投圈 episode on Chinese consumer-brand soft power through Shanxia Yousong, Guanxia, Sandunban, and PANE, covering inbound tourism, reverse daigou, aspirational premiums, brand podcasting, Chinese fragrance, and international-style brand export.
 - [从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青](sources/cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi.md) — 42章经 episode with Meng Fanqing on post-training as data work, environment-based agent benchmarks, synthetic agent data, distillation as accelerator, RSI data, and Evolvent AI's bridge between model labs and applications.
 - [EP273 NPC还是NPD，都别想拿走我们人生的遥控器](sources/ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf.md) — Talk三联 episode with psychotherapist 龚学平 on NPD as popular relationship-pain language, narcissistic relational control, self-worth judgment transfer, childhood survival rules, therapy pacing, and taking action rights back.
 - [Older workers aren't retiring. Should they be forced to?](sources/older-workers-arent-retiring-should-they-be-forced-to.md) — Planet Money episode on older-worker delayed retirement, career mobility bottlenecks, mandatory retirement, lump-of-labor objections, and phased succession.
@@ -923,6 +924,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [山下有松 / Shanxia Yousong](entities/ShanxiaYousong.md) — Chinese light-luxury bag brand used by FengTouQuan to explain rough Chinese aesthetics, inbound tourist demand, reverse daigou, and aspirational emotional premium.
+- [PANE](entities/PANE.md) — Chinese fashion-footwear brand used as an export-attention-before-domestic-fame case built around international retro aesthetics rather than explicit Chinese style.
 - [Meng Fanqing / 孟繁青](entities/MengFanqing.md) — Evolvent AI co-founder and NUS PhD student connecting post-training, synthetic data, environment benchmarks, distillation, and RSI data.
 - [Evolvent AI](entities/EvolventAI.md) — RSI-focused startup positioned between model labs and application companies through synthetic data, benchmarks, and model-improvement traces.
 - [RSIbench-data](entities/RSIBenchData.md) — Evolvent AI benchmark/data project for exploring data-level recursive self-improvement.
@@ -6315,6 +6318,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese Consumer Brand Soft Power / 中国消费品牌软实力](concepts/ChineseConsumerBrandSoftPower.md) — Chinese consumer brands gaining global attention through design, story, aesthetic confidence, emotional resonance, stores, and social circulation rather than only function or low price.
+- [Aspirational Emotional Premium / 向往感溢价](concepts/AspirationalEmotionalPremium.md) — High-ticket consumer premium based on identity, taste, cultural legibility, and the feeling of moving closer to a desired self rather than functional superiority.
 - [Environment-Based Agent Benchmarks](concepts/EnvironmentBasedAgentBenchmarks.md) — Agent evaluations built as interactive environments with tool use, state, feedback, scoring, and trainable trajectories.
 - [Synthetic Agent Data](concepts/SyntheticAgentData.md) — Model- or agent-generated environment trajectories used for post-training, distillation-like learning, and verification-heavy data production.
 - [RSI Data](concepts/RSIData.md) — Long-running traces where a model or agent attempts to improve a model, training loop, data recipe, or future behavior.

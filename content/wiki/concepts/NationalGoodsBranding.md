@@ -2,8 +2,8 @@
 title: "National Goods Branding"
 type: concept
 tags: [branding, nationalism, consumer-products, china, industrialization]
-sources: [bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, 71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384]
-last_updated: 2026-07-14
+sources: [bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, 71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384, 144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]
+last_updated: 2026-08-09
 ---
 
 # National Goods Branding
@@ -14,6 +14,8 @@ The concept is useful because it keeps patriotic consumption from becoming eithe
 
 [[bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu]] adds the backfire version through [[WahahaGroup|娃哈哈]]. The episode says [[ZongQinghou|宗庆后]] and 娃哈哈 benefited from national-brand rhetoric in the older [[Danone]] dispute, but [[NationalBrandNarrativeBackfire]] can emerge when later succession, trademark, and asset-control questions make the same public judge insiders through national-asset and public-trust language.
 
+[[144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]] adds a less patriotic and more outward-facing version of "国货." Here national-goods value is not mainly anti-foreign purchasing; it is the possibility that Chinese consumer brands such as [[ShanxiaYousong]], [[Guanxia]], [[PANE]], and [[PopMart]] can be desired by foreign consumers on the basis of design, story, IP emotion, and [[ChineseConsumerBrandSoftPower]].
+
 ## Key Claims
 - National-goods claims can rest on several different bases: domestic ownership, domestic manufacturing, domestic raw materials, local design, cultural continuity, or anti-foreign purchasing sentiment.
 - A brand can use national-goods language sincerely and competitively at the same time.
@@ -21,6 +23,7 @@ The concept is useful because it keeps patriotic consumption from becoming eithe
 - National-goods branding often needs a story of local tradition, as when Chen used Chinese rouge history to defend modern cosmetics.
 - The same rhetoric that encourages shared industrial learning can clash with trademark control when domestic imitators threaten the flagship brand.
 - National-brand rhetoric can become a scrutiny standard when later ownership, trademark, or family-control disputes appear to conflict with the brand's public meaning.
+- "国货" can also become an export-confidence label when the product wins foreign desire without leaning on patriotic domestic sentiment.
 
 ## Connections
 - [[ButterflyBrand|蝴蝶牌]] and [[JiatingGongyeshe|家庭工业社]] - central brand and company case.
@@ -29,3 +32,4 @@ The concept is useful because it keeps patriotic consumption from becoming eithe
 - [[ConsumerBrandMoat]], [[StoryLedConsumerBranding]], and [[PackagingAsProductExperience]] - brand mechanisms that can carry national-goods identity.
 - [[China]] and [[Japan]] - national setting and knowledge-transfer tension in the episode.
 - [[WahahaGroup|娃哈哈]], [[ZongQinghou|宗庆后]], [[ZongFuli|宗馥莉]], [[Danone]], and [[NationalBrandNarrativeBackfire]] - national-brand backfire branch added by 不熄灯 E02.
+- [[ChineseConsumerBrandSoftPower]], [[NationalExportBranding]], [[ShanxiaYousong]], [[Guanxia]], [[PANE]], and [[PopMart]] - outward-facing national-goods branch added by episode 144.
