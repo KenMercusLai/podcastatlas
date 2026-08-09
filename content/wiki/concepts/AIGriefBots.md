@@ -2,11 +2,13 @@
 title: "AI Grief Bots"
 type: concept
 tags: [ai, grief, avatars, ethics]
-sources: [tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128]
+last_updated: 2026-08-10
 ---
 
 # AI Grief Bots
+
+[[suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]] adds a satirical but emotionally direct grief-bot scene. A simulated grandfather's voice is explicitly fake, yet the narrator's tears are real, making [[AICompanionAuthenticityBoundary]] the key addition to this page's consent and memorialization frame.
 
 AI grief bots are post-mortem avatars or conversational simulations of people who have died. In [[tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128]], [[TomasHoloneck]] explains that they may be built from materials a person prepared before death or from personal data uploaded later by surviving loved ones.
 

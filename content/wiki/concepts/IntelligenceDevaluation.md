@@ -2,11 +2,13 @@
 title: "Intelligence Devaluation"
 type: concept
 tags: [ai, labor, education, career, social-change]
-sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
-last_updated: 2026-07-08
+sources: [suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
+last_updated: 2026-08-10
 ---
 
 # Intelligence Devaluation
+
+[[suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]] adds an existential companion to the labor-market version. The episode says humans lose if value is measured only by speed, memory, coding, or output volume, then points toward [[HumanValueBeyondEfficiency]] as a way to describe value after generic cognitive performance becomes less scarce.
 
 Intelligence devaluation is the [[KejiLuandun]] episode's thesis that AI can reduce the market scarcity of education, coding ability, professional knowledge, and other cognitive skills that previously supported middle-class income and status. In [[zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]], the hosts do not argue that intelligence becomes useless; they argue that many once-premium capabilities may become cheaper to buy, automate, or approximate.
 

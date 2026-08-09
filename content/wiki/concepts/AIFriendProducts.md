@@ -2,11 +2,13 @@
 title: "AI Friend Products"
 type: concept
 tags: [ai, companions, agents]
-sources: [ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, 130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]
-last_updated: 2026-08-07
+sources: [suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, 130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]
+last_updated: 2026-08-10
 ---
 
 # AI Friend Products
+
+[[suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]] adds a high-emotion authenticity boundary to friend-like AI. The episode's digital companion is not only available and patient; it can simulate a family voice, making [[AICompanionAuthenticityBoundary]] central to judging whether an AI friend product supports connection or substitutes for it.
 
 AI friend products are [[ZhangYueguang]]'s frame for AI systems that are not only services or tools, but can become individual-like objects in the user's life. In [[130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi]], this starts from the idea of creating an "AI population" and later narrows into [[AIOtomeGames]] and [[Docky]].
 

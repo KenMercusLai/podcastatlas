@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [算力狂想曲，我在AI工厂的奇遇](sources/suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i.md) — 一劳永逸 satirical AI-factory dream about GPUs, agents, automated life, physical AI, digital companionship, circular compute finance, and human value beyond efficiency.
 - [144 ✪ 国货出海新趋势：山下有松、观夏、PANE](sources/144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1.md) — 疯投圈 episode on Chinese consumer-brand soft power through Shanxia Yousong, Guanxia, Sandunban, and PANE, covering inbound tourism, reverse daigou, aspirational premiums, brand podcasting, Chinese fragrance, and international-style brand export.
 - [从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青](sources/cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi.md) — 42章经 episode with Meng Fanqing on post-training as data work, environment-based agent benchmarks, synthetic agent data, distillation as accelerator, RSI data, and Evolvent AI's bridge between model labs and applications.
 - [EP273 NPC还是NPD，都别想拿走我们人生的遥控器](sources/ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf.md) — Talk三联 episode with psychotherapist 龚学平 on NPD as popular relationship-pain language, narcissistic relational control, self-worth judgment transfer, childhood survival rules, therapy pacing, and taking action rights back.
@@ -6318,6 +6319,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Factory Allegory](concepts/AIFactoryAllegory.md) — Satirical frame where compute, data centers, agents, capital, and human oversight become one AI production system.
+- [Automated Life Delegation](concepts/AutomatedLifeDelegation.md) — Failure mode where agents move from helping with work into pre-living relationships, emotions, decisions, and recovery for the user.
+- [Symbolic Human In The Loop](concepts/SymbolicHumanInTheLoop.md) — Hollow oversight pattern where human review satisfies compliance but lacks authority, information, or real judgment.
+- [AI Companion Authenticity Boundary](concepts/AICompanionAuthenticityBoundary.md) — Question of how to evaluate synthetic companions when the represented voice is fake but the user's emotional response is real.
+- [Human Value Beyond Efficiency](concepts/HumanValueBeyondEfficiency.md) — AI-era value frame locating human meaning in slow, chosen, emotional, and inefficient acts after machines handle more necessary work.
 - [Chinese Consumer Brand Soft Power / 中国消费品牌软实力](concepts/ChineseConsumerBrandSoftPower.md) — Chinese consumer brands gaining global attention through design, story, aesthetic confidence, emotional resonance, stores, and social circulation rather than only function or low price.
 - [Aspirational Emotional Premium / 向往感溢价](concepts/AspirationalEmotionalPremium.md) — High-ticket consumer premium based on identity, taste, cultural legibility, and the feeling of moving closer to a desired self rather than functional superiority.
 - [Environment-Based Agent Benchmarks](concepts/EnvironmentBasedAgentBenchmarks.md) — Agent evaluations built as interactive environments with tool use, state, feedback, scoring, and trainable trajectories.

@@ -2,11 +2,13 @@
 title: "Digital Memorialization"
 type: concept
 tags: [memory, archives, ai, culture]
-sources: [tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128]
+last_updated: 2026-08-10
 ---
 
 # Digital Memorialization
+
+[[suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]] adds a fictional family-memory case where an AI companion simulates a deceased grandfather from stored traces. The source does not add policy detail, but it sharpens [[AICompanionAuthenticityBoundary]]: a synthetic memorial presence can produce real grief or comfort even when the user knows it is generated.
 
 Digital memorialization is the preservation or representation of people, memories, and testimony through digital systems after death. In [[tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128]], [[TomasHoloneck]] discusses both the promise and risk of using AI to let family members or future generations interact with preserved memories.
 

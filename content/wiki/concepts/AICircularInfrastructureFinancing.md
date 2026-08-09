@@ -2,11 +2,13 @@
 title: "AI Circular Infrastructure Financing"
 type: concept
 tags: [ai, infrastructure, financing, bubbles]
-sources: [170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]
-last_updated: 2026-08-07
+sources: [suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, 170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]
+last_updated: 2026-08-10
 ---
 
 # AI Circular Infrastructure Financing
+
+[[suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]] adds a satirical version of the loop. The episode imagines AI actors buying [[GPU|GPUs]], training AI, using AI to produce financing promises, and then buying more GPUs, turning the circular-finance concern into an [[AIFactoryAllegory]] rather than a new empirical claim.
 
 [[170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j]] extends the circular-financing concern from vendor-customer loops into a role analogy. The source links [[SoftBank]], [[MasayoshiSon]], [[OpenAI]], [[Oracle]], and [[StargateAIInfrastructure]] to the question of whether AI infrastructure commitments are backed by durable outside demand or by a confidence loop that becomes fragile when collateral, credit ratings, or refinancing pressure change.
 

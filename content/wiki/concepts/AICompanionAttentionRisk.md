@@ -2,11 +2,13 @@
 title: "AI Companion Attention Risk"
 type: concept
 tags: [ai, companions, attention, mental-health]
-sources: [ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources: [suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx, tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]
+last_updated: 2026-08-10
 ---
 
 # AI Companion Attention Risk
+
+[[suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]] adds an authenticity-focused companion case. The fictional "Digital Companion" does not merely hold attention; it speaks in a deceased grandfather's style, making [[AICompanionAuthenticityBoundary]] a deeper version of attention risk because the emotional response can be real even when the representation is synthetic.
 
 AI companion attention risk is the danger that AI companions inherit the attention-economy incentives of social media while adding stronger emotional hooks. [[tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]] adds the concept through [[GaiaBernstein]]'s warning that AI companions can use anthropomorphism, memory, and sycophancy to feel humanlike, constantly available, affirming, and nonjudgmental.
 

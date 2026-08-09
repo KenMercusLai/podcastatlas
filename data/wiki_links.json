@@ -1411,6 +1411,10 @@
     "title": "AI Companion Attention Risk",
     "url": "/wiki/concepts/aicompanionattentionrisk/"
   },
+  "AICompanionAuthenticityBoundary": {
+    "title": "AI Companion Authenticity Boundary",
+    "url": "/wiki/concepts/aicompanionauthenticityboundary/"
+  },
   "AICompanyDeepWell": {
     "title": "AI Company Deep Well",
     "url": "/wiki/concepts/aicompanydeepwell/"
@@ -1550,6 +1554,10 @@
   "AIExportControls": {
     "title": "AI Export Controls",
     "url": "/wiki/concepts/aiexportcontrols/"
+  },
+  "AIFactoryAllegory": {
+    "title": "AI Factory Allegory",
+    "url": "/wiki/concepts/aifactoryallegory/"
   },
   "AIFarmDecisionSupport": {
     "title": "AI Farm Decision Support",
@@ -4526,6 +4534,10 @@
   "AutomatedBallStrikeChallengeSystem": {
     "title": "Automated Ball Strike Challenge System",
     "url": "/wiki/entities/automatedballstrikechallengesystem/"
+  },
+  "AutomatedLifeDelegation": {
+    "title": "Automated Life Delegation",
+    "url": "/wiki/concepts/automatedlifedelegation/"
   },
   "AutomatedPerformanceMarketing": {
     "title": "Automated Performance Marketing",
@@ -17214,6 +17226,10 @@
   "HumanTasteAsAITrainingSignal": {
     "title": "Human Taste as AI Training Signal / 人的品味作为AI训练信号",
     "url": "/wiki/concepts/humantasteasaitrainingsignal/"
+  },
+  "HumanValueBeyondEfficiency": {
+    "title": "Human Value Beyond Efficiency",
+    "url": "/wiki/concepts/humanvaluebeyondefficiency/"
   },
   "HumanWorldAsHell": {
     "title": "Human World As Hell / 人间如地狱",
@@ -34023,6 +34039,10 @@
     "title": "Symbian",
     "url": "/wiki/entities/symbian/"
   },
+  "SymbolicHumanInTheLoop": {
+    "title": "Symbolic Human In The Loop",
+    "url": "/wiki/concepts/symbolichumanintheloop/"
+  },
   "SyncReliabilityAsUX": {
     "title": "Sync Reliability As UX",
     "url": "/wiki/concepts/syncreliabilityasux/"
@@ -41102,6 +41122,10 @@
   "stuck-at-50k-arr-for-5-years-now-1-5m-with-ai-agents": {
     "title": "Stuck at $50K ARR for 5 Years. Now $1.5M With AI Agents.",
     "url": "/wiki/sources/stuck-at-50k-arr-for-5-years-now-1-5m-with-ai-agents/"
+  },
+  "suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i": {
+    "title": "算力狂想曲，我在AI工厂的奇遇",
+    "url": "/wiki/sources/suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i/"
   },
   "sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21": {
     "title": "Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)",

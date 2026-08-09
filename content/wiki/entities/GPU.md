@@ -2,10 +2,12 @@
 title: "GPU"
 type: entity
 tags: [ai, chip, semiconductors, infrastructure]
-sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
-last_updated: 2026-08-07
+sources: [suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+last_updated: 2026-08-10
 ---
 # GPU
+
+[[suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]] adds a satirical "GPU as universal toll" image. In the episode, every imagined AI route, from [[AgenticWorkflow]] to [[PhysicalAI]] and digital companionship, returns to buying more compute, making GPUs a cultural symbol of AI dependence as well as an accelerator category.
 
 GPU refers to graphics processing units, the chip category [[tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128]] describes as central to the AI boom. In the [[MarketplaceTech]] episode, [[ChristopherMiller]] contrasts [[Nvidia]] GPUs with [[Google]] [[TPU|TPUs]]: GPUs remain more general-purpose and broadly useful, while TPUs are more specialized for certain AI workloads.
 

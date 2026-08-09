@@ -2,11 +2,13 @@
 title: "AI Work Optionality"
 type: concept
 tags: [ai, labor, automation, economics]
-sources: [an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c]
-last_updated: 2026-08-08
+sources: [suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c]
+last_updated: 2026-08-10
 ---
 
 # AI Work Optionality
+
+[[suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]] adds a non-policy version of the same meaning problem. Instead of asking how abundance is funded, the episode asks what humans do when AI completes necessary tasks, and links the answer to [[HumanValueBeyondEfficiency]] rather than only to income or leisure.
 
 AI work optionality is the future claim in [[an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c]] that advanced AI will be able to do any job better than a person, making paid work optional rather than economically necessary. [[ElonMusk]] compares future human work to gardening: people may still do it for meaning, taste, status, or enjoyment, but not because production requires it.
 
