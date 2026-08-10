@@ -2,8 +2,8 @@
 title: "Price Elasticity / 价格弹性"
 type: concept
 tags: [economics, pricing, consumption, business-model]
-sources: [spirit-airlines-and-the-future-of-cheap-flights, 155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210]
-last_updated: 2026-07-24
+sources: [spirit-airlines-and-the-future-of-cheap-flights, 155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210, shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]
+last_updated: 2026-08-10
 ---
 
 # Price Elasticity / 价格弹性
@@ -14,12 +14,15 @@ The source uses elasticity to slow moralized price judgment. A high price may re
 
 [[spirit-airlines-and-the-future-of-cheap-flights]] adds an airline case. [[SpiritAirlines|Spirit Airlines]] reveals high price sensitivity among budget travelers: many customers disliked fees and discomfort but still bought the ticket when the fare was cheap enough, making [[StatedRevealedPreferenceGap]] visible.
 
+[[shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]] adds an all-in airfare case. Even when the base ticket looks cheap, a fixed [[CivilAviationDevelopmentFund|civil aviation development fund]] and a variable [[AviationFuelSurcharge|fuel surcharge]] can raise the checkout price; the episode argues that higher total travel cost can reduce passengers' willingness to fly and weaken airline revenue despite partial fuel-cost recovery.
+
 ## Key Claims
 - Demand response to price depends on category, alternatives, urgency, status, and monopoly conditions.
 - Brand premium can be real even when material input cost is low, because [[SubjectiveValue]] includes identity and story.
 - Understanding elasticity helps explain why some discounts are growth strategy and others are signs of weak demand or poor quality.
 - Elasticity connects consumer judgment to business-model judgment.
 - Price-sensitive demand can discipline an entire market if low-fare entrants force incumbents to respond.
+- For airfare, consumers respond to the total payable price, not only the base fare shown before regulated funds or surcharges are added.
 
 ## Connections
 - [[SubjectiveValue]] and [[ProductLedWillingnessToPay]] - willingness-to-pay frames.
@@ -27,3 +30,4 @@ The source uses elasticity to slow moralized price judgment. A high price may re
 - [[PlatformSubsidyScaleEconomics]] - subsidy and scale case.
 - [[CocaCola|Coca-Cola]] and [[McDonalds|McDonald's]] - source examples around refills and linked demand.
 - [[SpiritAirlines|Spirit Airlines]], [[StatedRevealedPreferenceGap]], and [[AirlineMarketPriceDiscipline]] - airline low-fare case added by Planet Money.
+- [[CivilAviationDevelopmentFund]], [[AviationFuelSurcharge]], and [[AviationFuelCostPassThrough]] - all-in airfare and fuel-surcharge case added by 商业小样46.

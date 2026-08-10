@@ -2,8 +2,8 @@
 title: "商业就是这样"
 type: entity
 tags: [podcast, media, business]
-sources: [vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119, vol-268-liang-ge-lao-si-lai-si-1003563933, vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, vol-266-yi-ci-xing-gao-dong-etf-1002344828, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, jiufan-zhongting-mifeng-jingjixue-956460448, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]
-last_updated: 2026-08-08
+sources: [shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014, vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119, vol-268-liang-ge-lao-si-lai-si-1003563933, vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, vol-266-yi-ci-xing-gao-dong-etf-1002344828, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, jiufan-zhongting-mifeng-jingjixue-956460448, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]
+last_updated: 2026-08-10
 ---
 
 # 商业就是这样
@@ -32,6 +32,8 @@ The episode's distinctive contribution to the wiki is its distributed method. In
 
 [[shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]] adds the show's hidden-food-commodity side. It uses [[PeruvianAnchoveta|anchoveta]], [[Peru]], [[FishmealSupplyChain|fishmeal]], [[ElNino]], and [[AquacultureFeedDependency]] to show how a small marine input can move through feed formulas, salmon and shrimp production, sushi-chain sourcing, and consumer seafood prices.
 
+[[shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]] adds the show's hidden-airfare-fee side. It uses the [[CivilAviationDevelopmentFund|civil aviation development fund]] and [[AviationFuelSurcharge|aviation fuel surcharge]] to separate government-fund aviation infrastructure finance from airline fuel-cost recovery, extending [[CommodityPriceExposure]], [[PriceElasticity]], and [[AirlineUnbundling]] with a China civil-aviation pricing case.
+
 [[chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]] adds the show's city-industrial branch through [[ChengshiJiushiZheyang|城市就是这样]]. The episode uses [[Shiyan]], [[SecondAutomobileWorks|二汽]], and [[DongfengMotor|东风汽车]] to move from ordinary [[CityCommercialObservation]] into [[AutomobileCityPathDependence]], [[ThirdFrontConstruction]], [[EnterpriseRunSociety]], and the survival of a [[CommercialVehicleIndustrialBase]] after headquarters and passenger-car attention moved toward [[Wuhan]].
 
 [[vol-268-liang-ge-lao-si-lai-si-1003563933]] adds the show's industrial-history and aviation-risk branch. It starts from the double-R logo on aircraft engines, then uses [[RollsRoyce|Rolls-Royce]], [[RollsRoyceRB211|RB211]], [[LockheedCorporation]], and the [[LockheedL1011TriStar|L-1011 TriStar]] to connect engineering ambition, fixed-price contracts, state rescue, luxury-brand separation, and overseas bribery into one business-history case.
@@ -47,6 +49,7 @@ The episode's distinctive contribution to the wiki is its distributed method. In
 - [[vol-263-lang-de-youhuo-998128018]] — Sushiro and conveyor-belt sushi source page.
 - [[shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]] — AI data-center cooling and thermal-management source page.
 - [[shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]] — fishmeal, El Nino, and aquaculture-feed source page.
+- [[shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]] - civil aviation development fund, aviation fuel surcharge, and airfare pass-through source page.
 - [[CityCommercialObservation]] — main method surfaced by the source.
 - [[TourismTrafficMismatch]] — one recurring city-commerce pattern in listener submissions.
 - [[LocalLifePlatformDependency]], [[RetailSiteSelection]], and [[ExperientialRetail]] — existing wiki concepts extended by the show.
@@ -55,6 +58,7 @@ The episode's distinctive contribution to the wiki is its distributed method. In
 - [[Sushiro]], [[ConveyorBeltSushi]], [[RestaurantSupplyChainLocalization]], and [[ChainRestaurantStandardization]] — restaurant-chain concepts added by the sushi episode.
 - [[DataCenterThermalManagement]], [[Grundfos]], and [[HenanSmartSupercomputingCenter]] — AI-infrastructure cooling concepts and cases added by the AI server episode.
 - [[FishmealSupplyChain]], [[AquacultureFeedDependency]], [[ClimateFoodPriceTransmission]], and [[FisheriesResourceManagement]] — hidden food-commodity and fisheries branch added by 商业小样45.
+- [[CivilAviationDevelopmentFund]], [[AviationFuelSurcharge]], [[AviationFuelCostPassThrough]], and [[CommodityPriceExposure]] - hidden airfare-fee and fuel-cost branch added by 商业小样46.
 - [[ChengshiJiushiZheyang]], [[Shiyan]], [[DongfengMotor]], [[AutomobileCityPathDependence]], [[CommercialVehicleIndustrialBase]], and [[EnterpriseRunSociety]] - city-industrial branch added by 城市就是这样21.
 - [[LiXiang]], [[TangHui]], [[JumillaCF]], [[ChinesePlayerOverseasArbitrage]], [[FootballClubAsCommunityAsset]], and [[FootballClubControlRisk]] — lower-tier football investment case added by Vol.262.
 - [[ChinaCentralTelevision]], [[Migu]], [[Xiaohongshu]], [[Adidas]], [[Hisense]], [[Lenovo]], [[SportsRightsGrowthEngine]], [[OfflineBrandActivation]], [[GlobalSportsSponsorship]], and [[SportsLifestyleConsumption]] — World Cup marketing branch added by Vol.264.

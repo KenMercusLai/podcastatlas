@@ -2,8 +2,8 @@
 title: "Airline Unbundling"
 type: concept
 tags: [aviation, pricing, consumer, business-model]
-sources: [spirit-airlines-and-the-future-of-cheap-flights]
-last_updated: 2026-07-24
+sources: [spirit-airlines-and-the-future-of-cheap-flights, shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]
+last_updated: 2026-08-10
 ---
 
 # Airline Unbundling
@@ -12,14 +12,18 @@ Airline unbundling is the pricing strategy highlighted in [[spirit-airlines-and-
 
 The episode presents unbundling as both economic logic and customer-friction machine. [[BenBaldanza|Ben Baldanza]] argues that bags are not truly free because airlines pay labor, airport, lost-bag, and insurance costs, so charging users directly can lower the base fare for everyone else. Passengers experience the same system as nickel-and-diming when they expected a traditional bundled ticket.
 
+[[shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]] adds a boundary case. China's [[CivilAviationDevelopmentFund|civil aviation development fund]] and [[AviationFuelSurcharge|aviation fuel surcharge]] can also make a cheap-looking ticket more expensive at checkout, but the episode frames them as public-fund and regulated cost-pass-through mechanisms rather than optional service unbundling.
+
 ## Key Claims
 - Unbundling can lower the visible entry price while increasing the number of paid decisions around the trip.
 - The strategy reduces cross-subsidies from light users to heavier service users.
 - Customer anger rises when the bundle boundary is unclear or violates category expectations.
 - Unbundling becomes more dangerous when incumbents copy only the headline low fare while keeping stronger networks and loyalty systems.
+- Not all airfare add-ons are unbundled services; some are regulatory, fiscal, or commodity-cost pass-through charges.
 
 ## Connections
 - [[SpiritAirlines|Spirit Airlines]] and [[BenBaldanza|Ben Baldanza]] - source case and executive rationale.
 - [[UltraLowCostCarrierModel]] - broader business model.
 - [[BasicEconomyCopycatStrategy]] - incumbent adaptation.
 - [[LowPriceBrandPerception]], [[PriceElasticity]], and [[AirlineServiceDifferentiation]] - related pricing and product-design concepts.
+- [[CivilAviationDevelopmentFund]], [[AviationFuelSurcharge]], and [[AviationFuelCostPassThrough]] - non-ancillary-fee boundary case added by 商业小样46.

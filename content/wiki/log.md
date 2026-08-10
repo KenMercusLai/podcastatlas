@@ -7409,3 +7409,11 @@ Ran health before lint; health scanned 10,566 wiki pages and found no empty/stub
 ## [2026-08-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-10] ingest | 商业小样46 | 买机票时，为什么总要多交两笔钱？
+
+Added source page for a 商业就是这样 short episode on China's civil aviation development fund, aviation fuel surcharge, jet-fuel formula inputs, and partial fuel-cost pass-through. Created pages for Civil Aviation Development Fund, Aviation Fuel Surcharge, Aviation Fuel Cost Pass-Through, National Development and Reform Commission, Ministry of Finance of China, and China National Aviation Fuel; updated overview, index, 商业就是这样, Civil Aviation Administration of China, Spring Airlines, Airline Unbundling, Budget Airline Cost Squeeze, Price Elasticity, and Commodity Price Exposure. No direct contradiction found; the source qualifies airfare add-ons by separating government-fund and regulated fuel-cost mechanisms from airline ancillary-fee unbundling.
+
+## [2026-08-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

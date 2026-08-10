@@ -2,8 +2,8 @@
 title: "Commodity Price Exposure"
 type: concept
 tags: [pricing, consumer-products, risk, operations]
-sources: [reeses-heir-vs-chocolate-skimpflation, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128, venezuelas-recent-economic-history-update, dark-times-for-cubas-economic-experiment, the-secret-meeting-that-launched-opec, advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, jiufan-zhongting-mifeng-jingjixue-956460448, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]
-last_updated: 2026-08-07
+sources: [reeses-heir-vs-chocolate-skimpflation, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128, venezuelas-recent-economic-history-update, dark-times-for-cubas-economic-experiment, the-secret-meeting-that-launched-opec, advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, jiufan-zhongting-mifeng-jingjixue-956460448, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]
+last_updated: 2026-08-10
 ---
 
 # Commodity Price Exposure
@@ -26,6 +26,8 @@ The concept is not only a margin problem. It can force a founder to decide wheth
 
 [[the-secret-meeting-that-launched-opec]] adds an oil-market version where exposure comes from producer coordination, chokepoint shipping, and geopolitical conflict rather than from a single firm's input purchase. The episode uses [[OPEC]], [[OilProducerSupplyCoordination]], and [[StraitOfHormuz]] disruption to explain why gasoline prices may not fall simply because one producer wants to pump more.
 
+[[shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]] adds an airline input-cost version through aviation fuel. The source says fuel is the largest cost item for Chinese airlines and explains how the [[AviationFuelSurcharge|fuel surcharge]] formula uses jet-fuel prices, exchange rates, distribution spreads, and fuel-burn rates, while [[AviationFuelCostPassThrough]] rules still leave airlines absorbing part of the shock.
+
 [[dark-times-for-cubas-economic-experiment]] adds a country-level oil-dependence version through [[Cuba]]. The source is less about global oil prices than about physical access to fuel: when favorable oil support from the [[SovietUnion]] and later [[Venezuela]] weakens or is blocked, electricity, transport, communication, tourism, and household routines all become exposed through [[OilDependencyBlackoutRisk]].
 
 [[venezuelas-recent-economic-history-update]] adds the exporter-side country version through [[Venezuela]]. The source says oil revenue funded state spending, imports, and cheap dollar access under [[HugoChavez]], then the 2014 oil-price collapse left [[NicolasMaduro]] with too few dollars to sustain imports or the official exchange-rate system. This turns commodity exposure into [[OilRevenueDependence]], [[CurrencyControlTrap]], and [[ImportApprovalBottleneck]] rather than only price volatility.
@@ -45,6 +47,7 @@ The concept is not only a margin problem. It can force a founder to decide wheth
 - Producer-side commodity exposure can trigger coordination, destruction of surplus, origin labeling, or standards as protective responses.
 - Farm-level commodity exposure can favor software and information leverage when low output prices and high input costs make new equipment hard to justify.
 - Oil-price exposure can depend on producer quotas, swing-producer behavior, shipping confidence, and reserve rebuilding rather than only on total geological supply.
+- Airline fuel exposure turns an oil-market input into regulated passenger surcharges, but surcharge formulas do not fully remove margin or demand risk.
 - Country-level oil exposure can appear as blackouts and service failure when the problem is access to fuel, not just price.
 - Exporter-side oil exposure can become a currency crisis when state budgets, imports, and official exchange rates all depend on oil dollars.
 - Vol.115 adds that commodity exposure should separate win rate from payoff: cyclical China-linked commodities may have poor current odds but large upside if policy transmission changes, while oil can face supply and demand pressure at the same time.
@@ -60,6 +63,7 @@ The concept is not only a margin problem. It can force a founder to decide wheth
 - [[Hershey]], [[Reeses|Reese's]], [[CocoaSupplyShock]], [[ChocolateCompound]], and [[Skimpflation]] - chocolate case where input shocks affect formula, labels, and brand trust.
 - [[Coffee]], [[Brazil]], and [[CoffeeCommodityPolitics]] - coffee speculation, overproduction, and producer-protection extension.
 - [[OPEC]], [[OilProducerSupplyCoordination]], [[SwingProducerRole]], [[GreenParadox]], and [[StraitOfHormuz]] - oil-market coordination and chokepoint extension.
+- [[AviationFuelSurcharge]], [[AviationFuelCostPassThrough]], [[ChinaNationalAviationFuel]], and [[BudgetAirlineCostSqueeze]] - airline fuel-cost extension.
 - [[Cuba]], [[Venezuela]], [[ExternalPatronDependence]], and [[OilDependencyBlackoutRisk]] - country-level oil access extension.
 - [[OilRevenueDependence]], [[CurrencyControlTrap]], and [[ImportApprovalBottleneck]] - Venezuela exporter-side extension.
 - [[ChinaFiscalExpansionChannels]], [[ChinaRealEstateDebtCycle]], [[AssetAllocation]], and [[GoldMonetaryAnchor]] - vol.115 commodities and cross-asset allocation extension.

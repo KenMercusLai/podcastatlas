@@ -4611,6 +4611,14 @@
     "title": "Aviation Finance Leasing",
     "url": "/wiki/concepts/aviationfinanceleasing/"
   },
+  "AviationFuelCostPassThrough": {
+    "title": "Aviation Fuel Cost Pass-Through",
+    "url": "/wiki/concepts/aviationfuelcostpassthrough/"
+  },
+  "AviationFuelSurcharge": {
+    "title": "Aviation Fuel Surcharge / 航空燃油附加费",
+    "url": "/wiki/concepts/aviationfuelsurcharge/"
+  },
   "AviationSafetyRules": {
     "title": "Aviation Safety Rules",
     "url": "/wiki/concepts/aviationsafetyrules/"
@@ -7575,6 +7583,10 @@
     "title": "China Narrative Split",
     "url": "/wiki/concepts/chinanarrativesplit/"
   },
+  "ChinaNationalAviationFuel": {
+    "title": "China National Aviation Fuel / 中国航油",
+    "url": "/wiki/entities/chinanationalaviationfuel/"
+  },
   "ChinaNationalAviationHolding": {
     "title": "China National Aviation Holding / 中航集团",
     "url": "/wiki/entities/chinanationalaviationholding/"
@@ -8034,6 +8046,10 @@
   "CivilAviationAdministrationOfChina": {
     "title": "Civil Aviation Administration of China / 中国民航总局",
     "url": "/wiki/entities/civilaviationadministrationofchina/"
+  },
+  "CivilAviationDevelopmentFund": {
+    "title": "Civil Aviation Development Fund / 民航发展基金",
+    "url": "/wiki/concepts/civilaviationdevelopmentfund/"
   },
   "CivilLibertiesSurveillanceRisk": {
     "title": "Civil Liberties Surveillance Risk",
@@ -23899,6 +23915,10 @@
     "title": "Minimalist Entrepreneurship",
     "url": "/wiki/concepts/minimalistentrepreneurship/"
   },
+  "MinistryOfFinanceChina": {
+    "title": "Ministry of Finance of China / 中国财政部",
+    "url": "/wiki/entities/ministryoffinancechina/"
+  },
   "MinistryOfHealthLabourAndWelfare": {
     "title": "Ministry of Health, Labour and Welfare / 厚生劳动省",
     "url": "/wiki/entities/ministryofhealthlabourandwelfare/"
@@ -24838,6 +24858,10 @@
   "NationalConferenceOfStateLegislatures": {
     "title": "National Conference of State Legislatures",
     "url": "/wiki/entities/nationalconferenceofstatelegislatures/"
+  },
+  "NationalDevelopmentAndReformCommission": {
+    "title": "National Development and Reform Commission / 国家发改委",
+    "url": "/wiki/entities/nationaldevelopmentandreformcommission/"
   },
   "NationalEligibilityCumEntranceTest": {
     "title": "National Eligibility cum Entrance Test",
@@ -41002,6 +41026,10 @@
   "shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352": {
     "title": "商业小样45 | 厄尔尼诺越大，鱼越贵",
     "url": "/wiki/sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352/"
+  },
+  "shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014": {
+    "title": "商业小样46 | 买机票时，为什么总要多交两笔钱？",
+    "url": "/wiki/sources/shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014/"
   },
   "shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud": {
     "title": "少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康",
