@@ -7425,3 +7425,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-10] ingest | Under strAIn: breaking the British state
+
+Added source page for a The Intelligence episode on AI-equipped citizens straining bureaucracy, mandatory child-abuse reporting versus Catholic confession privilege, and dating data around the short-king meme. Created pages for AI Bureaucracy Arms Race, Clergy Mandatory Reporting Conflict, Short-King Dating Data, Peter Eisley, Chris Schmitz, and Catholic Church; updated overview, index, The Intelligence, Economist Podcasts, United Kingdom, United States, United States Constitution, AI Access To Justice, Public Service Digitalization, and Doug Dawson. No direct contradiction found; the source qualifies AI access-to-justice optimism by showing that lower-cost claims can improve individual access while increasing collective administrative load.
+
+## [2026-08-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

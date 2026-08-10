@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Under strAIn: breaking the British state](sources/under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271.md) — The Intelligence episode on AI-assisted citizens straining bureaucracy, child-abuse reporting versus Catholic confession privilege, and dating data showing the short-king meme has not shifted height norms.
 - [MadeGood: Salma and Nima Fotovat Lost Their First Business. They Grew Their Next One Into a Snack Giant.](sources/madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d.md) — How I Built This episode on the Fotovat siblings rebuilding after losing Taste of Nature and scaling MadeGood through school-safe snack positioning, owned manufacturing, local proof, Loblaw, Whole Foods, Costco, and retailer-responsive operations.
 - [「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人](sources/moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk.md) — Shizilukou Crossing episode with Runta founder Dai Guanlan on agent runtime infrastructure, probabilistic execution, enterprise governance, token cost, and why production agents need infra beyond model capability.
 - [算力狂想曲，我在AI工厂的奇遇](sources/suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i.md) — 一劳永逸 satirical AI-factory dream about GPUs, agents, automated life, physical AI, digital companionship, circular compute finance, and human value beyond efficiency.
@@ -928,6 +929,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Catholic Church](entities/CatholicChurch.md) — Institution defending the seal of confession against mandatory child-abuse reporting rules in The Intelligence episode.
+- [Chris Schmitz](entities/ChrisSchmitz.md) — Academic cited for counting cross-country examples of AI pressure on bureaucratic systems.
+- [Peter Eisley](entities/PeterEisley.md) — Clergy-abuse survivor whose account grounds the episode's confession and mandatory-reporting debate.
 - [Cookie Pal](entities/CookiePal.md) — Human-grade pet treat brand from Riverside Natural Foods that worked as a more separated adjacent bet than Good To Go.
 - [Good To Go](entities/GoodToGo.md) — Discontinued keto-oriented Riverside Natural Foods brand that taught MadeGood a focus and opportunity-cost lesson.
 - [Loblaw](entities/Loblaw.md) — First major MadeGood retailer, where a buyer with a peanut-allergic child recognized the school-safe snack gap.
@@ -6337,6 +6341,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Bureaucracy Arms Race](concepts/AIBureaucracyArmsRace.md) — Pattern where citizens and governments both use AI around the same administrative systems, widening access while increasing claim and appeal volume.
+- [Clergy Mandatory Reporting Conflict](concepts/ClergyMandatoryReportingConflict.md) — U.S. legal and moral clash over whether clergy must report child abuse learned through confession or spiritual counseling.
+- [Short-King Dating Data](concepts/ShortKingDatingData.md) — Dating and marriage-data test showing the online short-king meme has not meaningfully changed heterosexual height preferences.
 - [Retailer-Responsive Manufacturing](concepts/RetailerResponsiveManufacturing.md) — CPG operating pattern where owned production, supply-chain trust, and packaging flexibility let a brand accept retailer-specific format and assortment requests.
 - [School-Safe CPG Positioning](concepts/SchoolSafeCPGPositioning.md) — Food-positioning pattern where allergy rules, school inclusion, parent trust, child taste, and broader family snacking become one retail opportunity.
 - [Agent Runtime Execution Layer](concepts/AgentRuntimeExecutionLayer.md) — Infrastructure layer for running, constraining, observing, and recovering long-running agents before enterprises grant production authority.

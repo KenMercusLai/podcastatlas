@@ -2,8 +2,8 @@
 title: "Doug Dawson"
 type: entity
 tags: [person, demography, data]
-sources: [taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5]
-last_updated: 2026-08-08
+sources: [taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5, under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271]
+last_updated: 2026-08-10
 ---
 
 # Doug Dawson
@@ -14,7 +14,10 @@ Doug Dawson appears in [[hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5
 
 His key contribution is [[AgeGapMarriageDecline]]. Dawson says that in 1980 top-earning men were more likely than typical earners to marry women at least a decade younger, but by 2024 the gap had closed. He offers higher education and age-peer socialization as one possible explanation.
 
+[[under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271]] adds Dawson in a lighter but related data segment on [[ShortKingDatingData]]. The source again spells the name "Doug Dowson"; the page keeps the existing spelling. Dawson tests whether the online "short king" trend changed dating and marriage outcomes for shorter men, and concludes that height still matters in heterosexual dating patterns.
+
 ## Connections
 - [[AgeGapMarriageDecline]] - main concept tied to his segment.
 - [[FemaleBreadwinnerNorms]], [[ReportedIncomeGenderNorms]], and [[DomesticLaborDoubleBurden]] - marriage-data concepts from the later source.
+- [[ShortKingDatingData]] - height, dating-app, and marriage-pattern segment from the later The Intelligence source.
 - [[UnitedStates]] - census-data setting.
