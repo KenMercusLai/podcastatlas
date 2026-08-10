@@ -2,8 +2,8 @@
 title: "AI Slop"
 type: concept
 tags: [ai, media, content, politics]
-sources: [tech-20260714-tech-pod-128-tech-20260714-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, kate-crawford-mapping-empires]
-last_updated: 2026-08-07
+sources: [tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, tech-20260714-tech-pod-128-tech-20260714-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, kate-crawford-mapping-empires]
+last_updated: 2026-08-10
 ---
 
 # AI Slop
@@ -20,6 +20,8 @@ The concept extends [[AIContentDevaluation]]. Earlier wiki sources focus on how 
 
 [[tech-20260714-tech-pod-128-tech-20260714-tech-pod-128]] adds the advertising-language version through [[DaveRoss]] and [[HarrisAlterman]]'s [[FakeAISubwayAds]]. Ross calls real AI ad language "slop voice," using the term for formulaic corporate phrasing rather than only AI-generated media. This extends slop into [[AIMarketingJargon]]: polished ads can feel interchangeable even when a human wrote them.
 
+[[tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128]] adds the professional-feed and creator-platform version through [[LinkedIn]] and [[Substack]]. [[ChrisBest]] says thoughtful AI users can be threatened by people producing large amounts of low-effort content, and the episode notes LinkedIn reporting around likely AI-generated posts and slop reporting.
+
 ## Key Claims
 - AI slop is hyperreal, uncanny, repetitive, and often optimized for engagement rather than truth or craft.
 - Low generation cost can flood platforms with synthetic media that competes with human creative work.
@@ -30,6 +32,7 @@ The concept extends [[AIContentDevaluation]]. Earlier wiki sources focus on how 
 - Slop can undermine an AI pivot when users read new products as derivative, low-effort, or attached to a struggling business model rather than as a distinctive creative direction.
 - Slop detection may focus on repetition, clickbait structure, misleading audiovisual mismatch, and human-rater judgment rather than only on proving that content is synthetic.
 - Slop can also describe a corporate or marketing voice when public AI ads recycle the same vague claims, even if the copy is not known to be model-generated.
+- Generated text slop can damage creator and professional platforms by making readers doubt whether posts reflect a person, expertise, or low-cost automation.
 
 ## Connections
 - [[KateCrawford]] - source speaker.
@@ -44,3 +47,4 @@ The concept extends [[AIContentDevaluation]]. Earlier wiki sources focus on how 
 - [[BuzzFeed]], [[QuizParty]], and [[MediaAIRescueStrategy]] - media AI rescue branch added by the March 2026 Marketplace Tech Bytes episode.
 - [[YouTube]], [[NeilMohan]], [[Kagi]], and [[AISlopDetection]] - platform enforcement and user-reporting branch added by the January 2026 Marketplace Tech Bytes episode.
 - [[AIMarketingJargon]], [[FakeAISubwayAds]], [[HarrisAlterman]], and [[DaveRoss]] - advertising-language branch added by the July 2026 Marketplace Tech episode.
+- [[Substack]], [[ChrisBest]], [[Pangram]], [[LinkedIn]], and [[AISlopDetection]] - writing-platform and professional-feed branch added by Marketplace Tech.

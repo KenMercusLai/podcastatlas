@@ -2,8 +2,8 @@
 title: "AI Writing Detection"
 type: concept
 tags: [ai, writing, detection, editing]
-sources: [taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]
-last_updated: 2026-08-08
+sources: [tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]
+last_updated: 2026-08-10
 ---
 
 # AI Writing Detection
@@ -12,9 +12,15 @@ AI writing detection is the attempt to identify machine-generated prose through 
 
 The source distinguishes detector scores from writing analysis. Tools such as [[Pangram]] can produce false positives and give little explanation, while The Economist's comparison of human and model-generated prose looks for patterns across word choice, punctuation, sentence structure, and formulaic rhetoric.
 
+[[tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128]] adds the platform-integrated detector version through [[Substack]]. [[ChrisBest]] says Substack's [[Pangram]]-powered feature gives users an estimate of human versus AI-written text and lets users report mistakes or remove clearly wrong detections.
+
+The source also adds a behavior risk. Public detector scores can push writers to revise for the detector rather than for readers, so detection can distort writing norms even when its goal is transparency.
+
 ## Key Claims
 - Detection is a moving target because models are trained on human writing and improved by human feedback.
 - A detector result should be treated as a signal for review, not as standalone proof of authorship.
+- Platform-integrated detectors can make AI authorship more legible to readers, but they also create product responsibilities around false positives, appeals, and correction.
+- Detector visibility can change writer incentives if authors start optimizing to avoid being publicly labeled as AI-generated.
 - The Economist's comparison found AI prose using more polysyllabic, rare, or scientific-sounding words.
 - AI prose in the source tends to use less varied punctuation and more long sentences joined by "and."
 - Repeated rhetorical shapes such as "not X but Y," "not only but also," and rules of three can make generated prose feel formulaic.
@@ -22,5 +28,6 @@ The source distinguishes detector scores from writing analysis. Tools such as [[
 
 ## Connections
 - [[CaitlinTalbot]], [[Pangram]], [[ChatGPT]], [[Claude]], [[Gemini]], and [[Grok]] - source speaker, detector, and model examples.
+- [[Substack]] and [[ChrisBest]] - publishing-platform detector and disclosure case.
 - [[AIWritingPedagogy]] and [[AIDetectorBias]] - education-policy and fairness context.
 - [[HumanAuthorshipPremium]], [[HumanJudgmentUnderAI]], and [[AIContentProvenance]] - adjacent trust and authorship concepts.

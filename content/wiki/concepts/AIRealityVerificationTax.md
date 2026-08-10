@@ -2,8 +2,8 @@
 title: "AI Reality Verification Tax"
 type: concept
 tags: [ai, verification, journalism, trust]
-sources: [tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
+last_updated: 2026-08-10
 ---
 
 # AI Reality Verification Tax
@@ -14,12 +14,15 @@ The tax falls unevenly. Ordinary users check comments, URLs, provenance clues, a
 
 [[tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128]] makes the tax concrete through [[CaseyNewton]]'s hoax investigation. A viral [[Reddit]] post, an employee-looking badge, and an 18-page document created enough surface plausibility that the reporter had to spend hours authenticating the material; [[SynthID]] reduced the uncertainty only after [[Gemini]] detected the suspect badge.
 
+[[tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128]] adds the ordinary-writing version through [[Substack]]. A [[Pangram]]-powered detector and writer process statements can shift some verification work from each reader to platform tooling and author disclosure, but false positives and appeals add a new review burden.
+
 ## Key Claims
 - AI changes the economics of trust by lowering fabrication costs faster than verification tools improve.
 - The burden is practical and psychological: users spend more time checking media and become more suspicious or exhausted.
 - Journalists and institutions need better tooling because individual media literacy alone cannot absorb the full load.
 - [[ContentCredentials]] can reduce part of the tax only when capture devices, platforms, and users preserve and understand the signals.
 - [[AIGeneratedHoaxEvidence]] adds verification work even when the final result is not a published story.
+- AI-writing detectors can reduce reader uncertainty, but only by creating platform duties around accuracy, correction, and context.
 
 ## Connections
 - [[InformationApocalypse]] and [[RealityApathy]] - wider trust-collapse frame.
@@ -27,3 +30,4 @@ The tax falls unevenly. Ordinary users check comments, URLs, provenance clues, a
 - [[AIJournalismTrust]], [[HumanJudgmentUnderAI]], and [[ScientificSkepticism]] - verification practices affected by the tax.
 - [[AvivOvadia]], [[MarketplaceTech]], and [[AIAndDemocracyFoundation|AI and Democracy Foundation]] - source context.
 - [[CaseyNewton]], [[Platformer]], [[SynthID]], and [[OutrageTriggeredSkepticism]] - concrete reporting and reader-verification branch.
+- [[Substack]], [[ChrisBest]], [[Pangram]], and [[AIWritingDetection]] - ordinary writing, detector, and process-disclosure branch.

@@ -2,8 +2,8 @@
 title: "AI Journalism Trust"
 type: concept
 tags: [ai, journalism, trust]
-sources: [e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11, ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi, ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources: [tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11, ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi, ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
+last_updated: 2026-08-10
 ---
 
 # AI Journalism Trust
@@ -15,6 +15,8 @@ last_updated: 2026-08-07
 AI journalism trust is the reader-confidence problem created when AI becomes part of news production, especially published writing. [[tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128]] states the problem through [[WillaRemus]]'s question: if a publication did not bother to write an article, readers may wonder why they should bother to read it.
 
 The concept connects [[AIContentProvenance]] to a deeper [[TrustAsBusinessAsset]] issue. A newsroom can label AI-written stories through something like [[AdvancedLocalExpressDesk]], but readers may still judge whether enough human reporting, editing, verification, and community accountability remain behind the article.
+
+[[tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128]] adds a newsletter and creator-media version through [[Substack]]. [[ChrisBest]] argues that readers subscribe for a human point of view, so AI disclosure matters even outside formal newsrooms: a personal essay, analysis, or newsletter can lose trust when readers expected an accountable person and instead encounter substantially machine-generated prose.
 
 [[tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]] adds the verification-cost side through [[AvivOvadia]]. Journalists face an [[AIRealityVerificationTax]] when problematic content becomes cheaper to produce and authentic evidence becomes easier to doubt. That makes newsroom trust depend not only on whether journalists disclose AI use, but also on whether they can authenticate external media under [[InformationApocalypse]] pressure.
 
@@ -37,6 +39,7 @@ The concept connects [[AIContentProvenance]] to a deeper [[TrustAsBusinessAsset]
 - Human-authored creator media can still create journalism-trust problems when its sourcing and fact-checking are weak.
 - AI-era journalism trust also depends on upstream reporting labor: interviews, presence, perception, and accountable judgment, not only on whether the final prose is labeled or disclosed.
 - Historical-cultural reporting adds a specific risk: AI can produce plausible routes, citations, or classical-language details that collapse unless checked against texts, chronologies, sites, documents, and experts.
+- Newsletter and creator-media trust can depend on the same authorship boundary as journalism when subscribers expect a person's point of view rather than machine-generated filler.
 
 ## Connections
 - [[HistoricalReportingAIHallucination]], [[TangPoetryRoad]], [[FieldworkAsKnowledgeMethod]], and [[ObservationBeforeInference]] - EP264 historical-cultural reporting extension.
@@ -50,3 +53,4 @@ The concept connects [[AIContentProvenance]] to a deeper [[TrustAsBusinessAsset]
 - [[InternetArchive]], [[WaybackMachine|Wayback Machine]], [[PublicWebArchiving]], and [[InternetHistoryFragility]] - web-archive verification branch added by Marketplace Tech.
 - [[ColumbiaJournalismSchool]], [[CreatorFactCheckingResponsibility]], and [[PodcastAuthenticityBoundary]] - creator-media trust bridge added by episode 141.
 - [[InterviewAsEmbodiedReporting]], [[JournalisticPublicness]], and [[WeiQianSanlian|魏茜]] - EP244's embodied-reporting and byline-responsibility extension.
+- [[Substack]], [[ChrisBest]], [[AIWritingDetection]], [[AIAuthorshipPresence]], and [[HumanAuthorshipPremium]] - creator-media authorship and AI disclosure branch.

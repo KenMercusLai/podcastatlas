@@ -2,13 +2,17 @@
 title: "AI Slop Detection"
 type: concept
 tags: [ai, moderation, media, platform]
-sources: [tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]
+last_updated: 2026-08-10
 ---
 
 # AI Slop Detection
 
 AI slop detection is the platform-quality problem added by [[tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]]. The episode says [[YouTube]] plans to use algorithmic filters similar to spam and clickbait detection to identify repetitive, low-quality AI-generated content, while [[Kagi]] is asking users to report slop examples to build a detection database.
+
+[[tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128]] adds a text-feed version. The episode says [[LinkedIn]] has rolled out a button to report content that seems like [[AISlop]], while [[Substack]]'s [[Pangram]]-powered detector addresses adjacent trust concerns around AI-generated writing.
+
+This extends slop detection beyond video-platform enforcement into professional and creator feeds. The operational problem is partly classification, but also social: platforms need user-reporting, correction paths, and disclosure norms that do not turn every detector score into public proof.
 
 The concept is narrower than [[AIContentProvenance]]. Provenance asks whether content is generated, edited, labeled, or traceable; slop detection asks whether content is repetitive, low-effort, misleading, or engagement-farmed enough that a platform should demote or limit it. The episode suggests detection may rely less on proving synthetic origin and more on visible quality problems, repetition, mismatched voiceovers, clickbait framing, and human-rater judgment.
 

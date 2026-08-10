@@ -7410,6 +7410,10 @@ Ran health before lint; health scanned 10,566 wiki pages and found no empty/stub
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-10] ingest | Substack CEO on the platform's new AI detector
+
+Added source page for a Marketplace Tech episode with Chris Best on Substack's Pangram-powered AI detector, "how I make this" creator statements, false-positive risks, detector-driven writing incentives, and AI slop reporting on LinkedIn. Updated overview, index, Marketplace Tech, Substack, Chris Best, Pangram, LinkedIn, AI Writing Detection, AI Detector Bias, AI Content Provenance, AI Authorship Presence, AI Information Pollution, AI Reality Verification Tax, AI Journalism Trust, AI Slop, and AI Slop Detection. No direct contradiction found; the source qualifies detector-trust pages by treating AI detection as a transparency aid with correction duties rather than standalone authorship proof.
+
 ## [2026-08-10] ingest | MadeGood: Salma and Nima Fotovat Lost Their First Business. They Grew Their Next One Into a Snack Giant.
 
 Added source page for a How I Built This episode on Nima, Salma, and Saba Fotovat rebuilding after the sudden 2012 Taste of Nature buyout and scaling MadeGood through school-safe snack positioning, owned manufacturing, local retail proof, Loblaw, Whole Foods, Costco, retailer-responsive packaging, and recall discipline. Created pages for MadeGood, Nima Fotovat, Salma Fotovat, Saba Fotovat, Riverside Natural Foods, Taste of Nature, Good To Go, Cookie Pal, Loblaw, School-Safe CPG Positioning, and Retailer-Responsive Manufacturing; updated overview and index. No direct contradiction found; the source extends the wiki's CPG branch by showing how operating memory and allergen-free manufacturing credibility can become a brand advantage after a family-business governance shock.
@@ -7433,3 +7437,7 @@ Added source page for a The Intelligence episode on AI-equipped citizens straini
 ## [2026-08-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-10] lint | Wiki health check
+
+Ran health before lint; health scanned 10,599 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 10,599 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`; contradiction, stale-content, data-gap, and concept-depth checks did not complete. Report returned in-session; `wiki/lint-report.md` was not saved.

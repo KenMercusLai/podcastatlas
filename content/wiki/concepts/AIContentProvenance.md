@@ -2,8 +2,8 @@
 title: "AI Content Provenance"
 type: concept
 tags: [ai, provenance, trust, compliance]
-sources: [tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
+last_updated: 2026-08-10
 ---
 
 # AI Content Provenance
@@ -32,6 +32,10 @@ AI content provenance is the practice of marking, disclosing, or tracing synthet
 
 [[fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]] adds the podcast-audio version. The speakers do not categorically reject AI-generated podcast voices or episodes, but they treat disclosure as the ethical line: listeners should know whether the host voice or content they are hearing was generated. This makes provenance part of [[PodcastAuthenticityBoundary]] and [[PodcastIntimacy]], not only image, news, or advertising compliance.
 
+[[tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128]] adds the newsletter-platform disclosure version through [[Substack]]. Instead of relying on embedded metadata or watermarking, Substack combines a [[Pangram]] detector estimate with a "how I make this" statement where writers can describe their process and AI assistance.
+
+This is weaker than cryptographic or model-side provenance, because detector output can be wrong and process statements depend on writer honesty. Its value is closer to expectation management: readers are told whether they are likely reading a human-led point of view, AI-assisted work, or substantially generated prose.
+
 ## Key Claims
 
 - Provenance matters because generated images, personas, voices, and promotional content can be commercially legitimate when disclosed, but deceptive when users believe they are interacting with a real person or unedited evidence.
@@ -49,6 +53,7 @@ AI content provenance is the practice of marking, disclosing, or tracing synthet
 - Content credentials can reduce the [[AIRealityVerificationTax]], but only if capture devices, editing tools, platforms, and users preserve and interpret the signal.
 - Watermark detection can be decisive in a reporting workflow when a source presents generated material as identity proof.
 - Material scarcity and expert attribution can become a parallel authenticity signal when AI makes generated images plentiful.
+- For writing platforms, detector estimates and author process statements can function as practical provenance signals, but they require correction paths and cannot substitute for stronger technical evidence.
 
 ## Connections
 
@@ -67,3 +72,4 @@ AI content provenance is the practice of marking, disclosing, or tracing synthet
 - [[SynthID]], [[Gemini]], [[CaseyNewton]], and [[AIGeneratedHoaxEvidence]] - watermark-based source authentication branch added by Marketplace Tech.
 - [[OldMastersMarketRevival]], [[Christies|Christie's]], and [[Sothebys|Sotheby's]] - art-market authenticity contrast added by The Intelligence.
 - [[Banlatte|半拿铁]], [[LiDan|李诞]], [[PodcastAuthenticityBoundary]], and [[AIVoiceCloningRights]] - podcast voice disclosure branch added by the Banlatte special.
+- [[Substack]], [[ChrisBest]], [[Pangram]], [[AIWritingDetection]], and [[AIAuthorshipPresence]] - publishing-platform detector and process-disclosure branch.

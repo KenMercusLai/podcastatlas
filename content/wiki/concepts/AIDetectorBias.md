@@ -2,13 +2,15 @@
 title: "AI Detector Bias"
 type: concept
 tags: [ai, education, fairness, assessment]
-sources: [taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]
-last_updated: 2026-08-08
+sources: [tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]
+last_updated: 2026-08-10
 ---
 
 # AI Detector Bias
 
 [[taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]] adds a journalism and editing version of the detector problem. [[CaitlinTalbot]] says tools such as [[Pangram]] can produce false positives and provide little explanation, reinforcing the wiki's warning that AI-detection outputs need human review and context.
+
+[[tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128]] adds a creator-platform version. [[ChrisBest]] says false positives are the more serious error for [[Substack]]'s [[Pangram]]-powered detector because a human-written piece could be labeled as AI-written, and the episode's Derek Thompson example shows how public scores can create reputational pressure even before any formal penalty.
 
 AI detector bias is the risk that tools meant to identify AI-written work produce uneven suspicion or false positives across student groups. In [[tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]], [[ChristyGerdhary]] says AI detectors tend to flag already marginalized students more often, making detector-first classroom policy an equity and discipline problem.
 
@@ -19,6 +21,7 @@ AI detector bias connects education to the broader [[HumanJudgmentUnderAI]] prob
 ## Key Claims
 - Detector output should not be treated as self-sufficient evidence of misconduct.
 - False positives can be especially harmful when they fall on students who already face institutional suspicion or language-based disadvantage.
+- False positives can also harm professional writers or creators when public detector labels create reputational pressure.
 - Fair AI classroom policy needs alternatives such as [[TransparentAIUse]], process evidence, oral explanation, revision history, or assignment redesign.
 - Detector bias does not imply that integrity no longer matters; it means integrity systems need care, documentation, and human judgment.
 - Educators should distinguish preventing shortcut behavior from punishing students through unreliable technical proxies.
