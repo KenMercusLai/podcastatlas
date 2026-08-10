@@ -2,8 +2,8 @@
 title: "Work Self-Worth Boundary / 工作与自我价值边界"
 type: concept
 tags: [work, mental-health, boundaries, identity]
-sources: [ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb, ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng]
-last_updated: 2026-08-07
+sources: [ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb, ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng, ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme]
+last_updated: 2026-08-10
 ---
 
 # Work Self-Worth Boundary / 工作与自我价值边界
@@ -14,6 +14,8 @@ The concept connects [[WorkRoleDecentering]] to daily action. A person may not b
 
 [[ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb]] adds the vacation case. [[VacationShame|休假羞耻感]] can mean the person still measures worth by availability and responsiveness even when officially on leave. A usable holiday therefore requires separating being valuable at work from being always reachable.
 
+[[ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme]] adds the factory-discipline version. [[ZhanTeacher|占老师]]'s "别放弃自我" does not mean ignoring material pressure; it means that even inside [[TayloristFactoryTime|factory time]], [[FactoryDisciplineAndSensoryNumbing|sensory numbing]], layoffs, and automation, the worker has to preserve perception, learning, and the question of what kind of person they are becoming.
+
 ## Key Claims
 - Work results are information about a task, process, market, or organization; they should not automatically become a verdict on personhood.
 - Leaving a boss does not remove internalized pressure if the person still measures self-worth by income, customer approval, or constant usefulness.
@@ -21,6 +23,7 @@ The concept connects [[WorkRoleDecentering]] to daily action. A person may not b
 - Lowering the expectation that every work task must be meaningful can reduce all-or-nothing disappointment.
 - Side projects or small shops can restore control and expression when the goal is not only income maximization.
 - EP265 adds that leave tests the boundary: a person who cannot stop answering may still be converting work availability into self-worth.
+- The 面基 source adds that self-worth boundary can be built while still employed, through learning, archive-making, and observing life beyond the role.
 
 ## Connections
 - [[NotWorkingAmbivalence]] — broader frame that makes this boundary necessary even after exit.
@@ -29,3 +32,4 @@ The concept connects [[WorkRoleDecentering]] to daily action. A person may not b
 - [[WorkplacePacing]], [[WorkplaceRelationshipBoundaries]], and [[CommunicationBoundarySetting]] — daily boundary and pacing practices.
 - [[AchievementPressureMentalHealth]], [[ShameBasedSelfConcept]], and [[StatusDescentPressure]] — psychological pressure patterns this boundary counters.
 - [[VacationShame]], [[WorkRestBoundary]], and [[LongVacationRecovery]] — vacation version of the boundary problem.
+- [[ZhanTeacher|占老师]], [[FactoryDisciplineAndSensoryNumbing]], [[WorkerPhotographicArchive]], and [[ContinuousLearningAgainstDisplacement]] - factory-discipline extension.

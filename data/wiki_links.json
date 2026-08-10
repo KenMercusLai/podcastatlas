@@ -7039,6 +7039,10 @@
     "title": "ChangXin Memory / 长鑫存储",
     "url": "/wiki/entities/changxinmemory/"
   },
+  "ChanganTown": {
+    "title": "Chang'an Town / 长安镇",
+    "url": "/wiki/entities/changantown/"
+  },
   "ChangdehaokanNengDangFanChiMa": {
     "title": "《长得好看能当饭吃吗》",
     "url": "/wiki/entities/changdehaokannengdangfanchima/"
@@ -8950,6 +8954,10 @@
   "ContinuousGlucoseMonitoring": {
     "title": "Continuous Glucose Monitoring",
     "url": "/wiki/concepts/continuousglucosemonitoring/"
+  },
+  "ContinuousLearningAgainstDisplacement": {
+    "title": "Continuous Learning Against Displacement / 以持续学习对抗替代",
+    "url": "/wiki/concepts/continuouslearningagainstdisplacement/"
   },
   "ContractTheory": {
     "title": "Contract Theory / 契约理论",
@@ -11007,6 +11015,10 @@
     "title": "Dongfeng Motor / 东风汽车",
     "url": "/wiki/entities/dongfengmotor/"
   },
+  "Dongguan": {
+    "title": "Dongguan / 东莞",
+    "url": "/wiki/entities/dongguan/"
+  },
   "Dongniao": {
     "title": "懂鸟 / Dongniao",
     "url": "/wiki/entities/dongniao/"
@@ -12690,6 +12702,10 @@
   "FactFutureAssetPricing": {
     "title": "Fact/Future Asset Pricing",
     "url": "/wiki/concepts/factfutureassetpricing/"
+  },
+  "FactoryDisciplineAndSensoryNumbing": {
+    "title": "Factory Discipline And Sensory Numbing / 工厂规训与感知麻木",
+    "url": "/wiki/concepts/factorydisciplineandsensorynumbing/"
   },
   "FactorySecondGeneration": {
     "title": "Factory Second Generation / 厂二代",
@@ -15738,6 +15754,10 @@
   "GuoWei": {
     "title": "郭威 / Guo Wei",
     "url": "/wiki/entities/guowei/"
+  },
+  "GuoYoulin": {
+    "title": "郭友霖 / Guo Youlin",
+    "url": "/wiki/entities/guoyoulin/"
   },
   "GuomaiCulture": {
     "title": "果麦文化 / Guomai Culture",
@@ -22619,6 +22639,10 @@
     "title": "Manufacturing Job Quality",
     "url": "/wiki/concepts/manufacturingjobquality/"
   },
+  "ManufacturingMicroFragmentation": {
+    "title": "Manufacturing Micro-Fragmentation / 制造业小微化",
+    "url": "/wiki/concepts/manufacturingmicrofragmentation/"
+  },
   "ManufacturingPayPremium": {
     "title": "Manufacturing Pay Premium",
     "url": "/wiki/concepts/manufacturingpaypremium/"
@@ -23798,6 +23822,10 @@
   "MigrantFamilyRemittanceObligation": {
     "title": "Migrant Family Remittance Obligation / 移民家庭汇款义务",
     "url": "/wiki/concepts/migrantfamilyremittanceobligation/"
+  },
+  "MigrantWorkerSocialInsuranceLegacy": {
+    "title": "Migrant Worker Social Insurance Legacy / 农民工社保遗留问题",
+    "url": "/wiki/concepts/migrantworkersocialinsurancelegacy/"
   },
   "MigrationWeaponization": {
     "title": "Migration Weaponization",
@@ -27034,6 +27062,10 @@
   "PeakAI": {
     "title": "Peak AI",
     "url": "/wiki/entities/peakai/"
+  },
+  "PearlRiverDeltaManufacturingTransformation": {
+    "title": "Pearl River Delta Manufacturing Transformation / 珠三角制造业变迁",
+    "url": "/wiki/concepts/pearlriverdeltamanufacturingtransformation/"
   },
   "Pebble": {
     "title": "Pebble",
@@ -30594,6 +30626,10 @@
   "RuchiGupta": {
     "title": "Ruchi Gupta",
     "url": "/wiki/entities/ruchigupta/"
+  },
+  "RuciDagong30Nian": {
+    "title": "《如此打工30年》 / Working Like This for 30 Years",
+    "url": "/wiki/entities/rucidagong30nian/"
   },
   "RudisOrganicBakery": {
     "title": "Rudi's Organic Bakery",
@@ -34575,6 +34611,10 @@
     "title": "Taylor Swift",
     "url": "/wiki/entities/taylorswift/"
   },
+  "TayloristFactoryTime": {
+    "title": "Taylorist Factory Time / 泰勒制工厂时间",
+    "url": "/wiki/concepts/tayloristfactorytime/"
+  },
   "TeaHorseRoad": {
     "title": "Tea Horse Road / 茶马古道",
     "url": "/wiki/entities/teahorseroad/"
@@ -37959,6 +37999,10 @@
     "title": "Workday",
     "url": "/wiki/entities/workday/"
   },
+  "WorkerPhotographicArchive": {
+    "title": "Worker Photographic Archive / 工人摄影档案",
+    "url": "/wiki/concepts/workerphotographicarchive/"
+  },
   "Workmagic": {
     "title": "Workmagic",
     "url": "/wiki/entities/workmagic/"
@@ -39294,6 +39338,10 @@
   "Zeying": {
     "title": "Zeying",
     "url": "/wiki/entities/zeying/"
+  },
+  "ZhanTeacher": {
+    "title": "占老师 / Zhan Teacher",
+    "url": "/wiki/entities/zhanteacher/"
   },
   "ZhangAiling": {
     "title": "张爱玲 / Eileen Chang",
@@ -41066,6 +41114,10 @@
   "rolex-1": {
     "title": "Rolex",
     "url": "/wiki/sources/rolex-1/"
+  },
+  "ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme": {
+    "title": "如此打工 30 年：流水线上的面孔与时间",
+    "url": "/wiki/sources/ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme/"
   },
   "ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0": {
     "title": "如何「兜住」一颗火箭？｜ S10E21",

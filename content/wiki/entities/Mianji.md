@@ -1,8 +1,9 @@
 ---
 title: "面基"
 type: entity
-tags: [podcast, investing, trading, embodied-judgment, macro, ai-workflow, career, nonfiction, reading, knowledge-management, platform-labor, fixed-income-plus, wealth-management]
+tags: [podcast, investing, trading, embodied-judgment, macro, ai-workflow, career, nonfiction, reading, knowledge-management, platform-labor, fixed-income-plus, wealth-management, labor, manufacturing]
 sources:
+  - ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme
   - a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx
   - suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq
   - baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy
@@ -19,10 +20,12 @@ sources:
   - da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf
   - dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1
   - zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae
-last_updated: 2026-08-08
+last_updated: 2026-08-10
 ---
 
 # 面基
+
+[[ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme]] adds a labor, manufacturing-memory, and worker-archive branch through [[ZhanTeacher|占老师]] and [[RuciDagong30Nian|《如此打工30年》]]. It connects [[Dongguan|东莞]], [[ChanganTown|长安镇]], [[WorkerPhotographicArchive|工人摄影档案]], [[PearlRiverDeltaManufacturingTransformation|珠三角制造业变迁]], [[TayloristFactoryTime|泰勒制工厂时间]], [[MigrantWorkerSocialInsuranceLegacy|农民工社保遗留问题]], [[ManufacturingMicroFragmentation|制造业小微化]], and [[ContinuousLearningAgainstDisplacement|以持续学习对抗替代]] to the show's existing agency and nonfiction themes.
 
 [[a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx]] adds an A-share institutional-investing branch through [[WuWeizhi|吴伟志]] of [[ZhongouRuibo|中欧瑞博]]. It connects [[AShareMarketSeasons|A 股四季框架]], [[ASharePlantingCompanyTaxonomy|种树种粮种菜]], [[InvestmentStrategyFit]], [[GrowthInvesting]], [[MAPERInvestmentResearchFramework]], and [[ResearchIndexPortfolioConstruction]] into the show's existing investing thread, with the distinctive claim that method, market season, company type, and organization process must fit before any slogan becomes actionable.
 
@@ -45,6 +48,7 @@ The [[DaChangXiaomin]] conversation adds a nonfiction career layer through [[Xia
 [[baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy]] adds a platform-labor and fieldwork branch through [[TianFeng|田峰]]'s discussion of [[TalentGroupLivestreaming|才艺团播]]. It moves 面基 beyond investing, AI, and personal agency into a social-science account of livestream rooms as industrialized systems of guild training, real-time data, compliance, makeup, camera work, and backstage review.
 
 ## Connections
+- [[ZhanTeacher|占老师]], [[RuciDagong30Nian|《如此打工30年》]], [[Dongguan|东莞]], [[WorkerPhotographicArchive]], [[TayloristFactoryTime]], and [[ContinuousLearningAgainstDisplacement]] - labor, manufacturing-memory, and worker-archive branch.
 - [[WuWeizhi]], [[ZhongouRuibo]], [[AShareMarketSeasons]], [[ASharePlantingCompanyTaxonomy]], [[InvestmentStrategyFit]], [[GrowthInvesting]], [[MAPERInvestmentResearchFramework]], and [[ResearchIndexPortfolioConstruction]] - A-share institutional-investing and research-process branch.
 - [[ZhangYizhen]], [[AShareValuationIndicators]], [[MultiStrategyAllocation]], and [[DrawdownPsychology]] — E145's A-share valuation, strategy-mix, and investor-psychology layer.
 - [[NoPredictionTrading]], [[DiversificationAlpha]], and [[RandomMarketNarratives]] — E144's trading-statistics and narrative-risk layer.

@@ -2,8 +2,8 @@
 title: "Fieldwork As Knowledge Method / 田野作为知识方法"
 type: concept
 tags: [method, fieldwork, evidence, scholarship, journalism, science-reporting, ritual]
-sources: [baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy, ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk, ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c, 36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
-last_updated: 2026-08-07
+sources: [baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy, ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk, ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c, ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme, 36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
+last_updated: 2026-08-10
 ---
 
 # Fieldwork As Knowledge Method / 田野作为知识方法
@@ -21,6 +21,8 @@ last_updated: 2026-08-07
 [[ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo]] adds a science-journalism extension through [[MiaoQian|苗千]]'s 14-day route across high plateau, underground laboratory, cleanroom, radio-telescope tourism, and conference interviews. Her reporting shows that [[BigScienceInfrastructure|大科学基础设施]] cannot be understood only from project descriptions; altitude sickness, oxygen support, underground water, detector cooling, visitor restrictions, and the scale of apparatuses all become evidence about how science is actually organized.
 
 [[xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c]] adds a journalism version through [[QinSi|秦思]] and [[ChengJing|程静]]. Qin Si connects social-science training to domestic reporting in villages, pollution sites, and difficult investigations; Cheng Jing shows how international news can use social investigation and [[RemoteReportingPresence|remote reporting presence]] when travel to the scene is impossible.
+
+[[ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme]] adds an insider worker-archive version through [[ZhanTeacher|占老师]]. The source's [[WorkerPhotographicArchive|工人摄影档案]] is not a short reporting trip: decades of work, blind shooting, theme folders, QQ posts, letters, surveys, factory access, and return visits make [[Dongguan|东莞]] manufacturing life into evidence from inside the worker world.
 
 [[36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522]] adds a fictional extension through [[UrsulaKLeGuin|Le Guin]]'s [[TheLeftHandOfDarkness|《黑暗的左手》]]. [[AnthropologicalScienceFictionWorldbuilding]] turns fieldwork method into narrative form: [[GenlyAi|金利·艾 / Genly Ai]] learns [[Gethen|格森星 / Gethen]] through travel, failed trust, local categories, myth, bodily danger, and dependence on [[Estraven|伊斯特拉凡 / Estraven]] rather than through clean exposition.
 
@@ -42,8 +44,10 @@ The concept gathers several branches. [[DingWenjiang|丁文江]] walks geologica
 - Literary-geography reporting adds that poems, ruins, route claims, old maps, inscriptions, and excavated documents need to be read together before a travel route becomes evidence.
 - River-geography reporting adds that transport systems, seasonal climate, ritual life, water bodies, and engineered deltas have to be observed as one operating region before a river becomes an explanatory frame.
 - The group-livestreaming source adds that platform labor needs backstage and participant observation because the public screen hides operational, bodily, and compliance work.
+- The worker-photography source adds that a participant's long archive can become field evidence when ordinary work, documents, routes, images, and later reclassification are kept together.
 
 ## Connections
+- [[ZhanTeacher|占老师]], [[RuciDagong30Nian|《如此打工30年》]], [[WorkerPhotographicArchive]], [[Dongguan|东莞]], and [[PersonalArchiveAsHistory]] - insider worker-archive extension from the 面基 source.
 - [[MekongRiver]], [[MainlandSoutheastAsia]], [[MekongRiverGeographicWriting]], [[MonsoonSeasonalSocialOrder]], [[AngkorHydraulicEmpire]], and [[MekongDeltaColonialCanalAgriculture]] - EP267 river-geography extension.
 - [[TalentGroupLivestreaming]], [[LivestreamGuildIndustrialization]], [[RealTimeLivestreamLabor]], [[PlatformModerationComplianceLabor]], [[TianFeng]], and [[ChineseAcademyOfSocialSciences]] - platform-labor fieldwork extension from the 面基 source.
 - [[TangPoetryRoad]], [[TangPoetryCulturalGeography]], [[AiJiangtao]], [[BoJingSanlianCulture]], [[ZhangXingyun]], [[Wangchuan]], [[BeitingAncientCity]], and [[JiaoheAncientCity]] - EP264 literary-geography extension.

@@ -2,8 +2,8 @@
 title: "Flexible Manufacturing / 柔性制造"
 type: concept
 tags: [manufacturing, supply-chain, consumer-goods, china, smart-factory]
-sources: [what-makes-a-toy-go-viral, ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v]
-last_updated: 2026-08-07
+sources: [what-makes-a-toy-go-viral, ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v, ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme]
+last_updated: 2026-08-10
 ---
 
 # Flexible Manufacturing / 柔性制造
@@ -14,6 +14,8 @@ The concept matters because it explains why "wanting and buying" can feel nearly
 
 [[what-makes-a-toy-go-viral]] adds a lighter toy-fad version through [[ReallyMagicalStuff|RMS]] and [[SquishyDumplings]]. The source does not describe the whole factory stack, but it shows the same customer-facing problem: viral demand from [[TikTok]] requires short orders, fast approvals, direct retailer delivery, and inventory restraint before a company can respond to a narrow trend window.
 
+[[ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme]] adds the worker-side historical baseline. In [[ZhanTeacher|占老师]]'s account, flexible manufacturing follows decades of [[TayloristFactoryTime|line discipline]], large-batch export orders, hierarchy, and overtime in [[Dongguan|东莞]]. The source therefore treats flexibility not only as a smart-factory capability, but also as a shift in order structure that can produce [[ManufacturingMicroFragmentation|small-factory fragmentation]] and continuous worker adaptation.
+
 ## Key Claims
 - The narrow definition is production flexibility: a plant can switch among standardized volume, small batches, custom requirements, and burst orders.
 - The broader definition includes demand and product definition: "for whom" and "what" come before "how to manufacture."
@@ -22,9 +24,11 @@ The concept matters because it explains why "wanting and buying" can feel nearly
 - Apparel flexibility depends heavily on [[SmallOrderQuickResponse|small-order quick response]], scheduling, cutting, and the ability to insert new orders without stopping the whole flow.
 - Flexible manufacturing is not automatically right for every firm; capital cost, market sensing, technical staff, and demand volatility decide whether the upgrade pays.
 - For viral toys, flexibility can be expressed as production timing and inventory discipline even when the source does not expose deeper factory digitization.
+- The 面基 labor-history source adds that flexible manufacturing should be read against the earlier assembly-line regime it modifies, including worker time, skill requirements, and risk distribution.
 
 ## Connections
 - [[DeliGroup]], [[HaierGroup]], [[YagorGroup]], and [[ShenzhouInternational]] - source cases.
 - [[ManufacturingDigitalThread]], [[ManufacturingDigitalTwin]], [[ModularCustomization]], [[SmallOrderQuickResponse]], and [[AIVisualQualityInspection]] - operating mechanisms.
 - [[ManufacturingSalesShift]], [[ConsumerBrandMoat]], and [[SupplyChainSovereignty]] - adjacent strategic frames already in the wiki.
 - [[ReallyMagicalStuff|RMS]], [[SquishyDumplings]], [[ViralToySupplyChain]], and [[SmallOrderQuickResponse]] - toy-fad extension.
+- [[ZhanTeacher|占老师]], [[PearlRiverDeltaManufacturingTransformation]], [[TayloristFactoryTime]], [[ManufacturingMicroFragmentation]], and [[ContinuousLearningAgainstDisplacement]] - worker-side historical extension from the 面基 source.

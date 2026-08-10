@@ -7441,3 +7441,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-10] lint | Wiki health check
 
 Ran health before lint; health scanned 10,599 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 10,599 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`; contradiction, stale-content, data-gap, and concept-depth checks did not complete. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-10] ingest | 如此打工 30 年：流水线上的面孔与时间
+
+Added source page for a 面基 episode with 占老师 on 30-plus years of work, photography, and manufacturing change in Dongguan and Chang'an Town. Created pages for 占老师, 《如此打工30年》, Dongguan, Chang'an Town, Guo Youlin, Worker Photographic Archive, Pearl River Delta Manufacturing Transformation, Taylorist Factory Time, Factory Discipline And Sensory Numbing, Migrant Worker Social Insurance Legacy, Manufacturing Micro-Fragmentation, and Continuous Learning Against Displacement; updated overview, index, 面基, Flexible Manufacturing, Manufacturing Job Quality, Automation Displacement Effect, Work Self-Worth Boundary, Fieldwork As Knowledge Method, Career Self-Rescue, and Migrant Family Remittance Obligation. No direct contradiction found; the source qualifies flexible-manufacturing and automation narratives by showing the worker-side costs, records, learning demands, and archival evidence behind production-system change.
+
+## [2026-08-10] lint | Wiki health check
+
+Ran health before lint; health scanned 10,612 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 10,612 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`; contradiction, stale-content, data-gap, and concept-depth checks did not complete. Report returned in-session; `wiki/lint-report.md` was not saved.
