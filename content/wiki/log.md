@@ -7410,9 +7410,17 @@ Ran health before lint; health scanned 10,566 wiki pages and found no empty/stub
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-10] ingest | MadeGood: Salma and Nima Fotovat Lost Their First Business. They Grew Their Next One Into a Snack Giant.
+
+Added source page for a How I Built This episode on Nima, Salma, and Saba Fotovat rebuilding after the sudden 2012 Taste of Nature buyout and scaling MadeGood through school-safe snack positioning, owned manufacturing, local retail proof, Loblaw, Whole Foods, Costco, retailer-responsive packaging, and recall discipline. Created pages for MadeGood, Nima Fotovat, Salma Fotovat, Saba Fotovat, Riverside Natural Foods, Taste of Nature, Good To Go, Cookie Pal, Loblaw, School-Safe CPG Positioning, and Retailer-Responsive Manufacturing; updated overview and index. No direct contradiction found; the source extends the wiki's CPG branch by showing how operating memory and allergen-free manufacturing credibility can become a brand advantage after a family-business governance shock.
+
 ## [2026-08-10] ingest | 商业小样46 | 买机票时，为什么总要多交两笔钱？
 
 Added source page for a 商业就是这样 short episode on China's civil aviation development fund, aviation fuel surcharge, jet-fuel formula inputs, and partial fuel-cost pass-through. Created pages for Civil Aviation Development Fund, Aviation Fuel Surcharge, Aviation Fuel Cost Pass-Through, National Development and Reform Commission, Ministry of Finance of China, and China National Aviation Fuel; updated overview, index, 商业就是这样, Civil Aviation Administration of China, Spring Airlines, Airline Unbundling, Budget Airline Cost Squeeze, Price Elasticity, and Commodity Price Exposure. No direct contradiction found; the source qualifies airfare add-ons by separating government-fund and regulated fuel-cost mechanisms from airline ancillary-fee unbundling.
+
+## [2026-08-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-10] lint | Wiki health check
 

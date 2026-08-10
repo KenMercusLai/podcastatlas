@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [MadeGood: Salma and Nima Fotovat Lost Their First Business. They Grew Their Next One Into a Snack Giant.](sources/madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d.md) — How I Built This episode on the Fotovat siblings rebuilding after losing Taste of Nature and scaling MadeGood through school-safe snack positioning, owned manufacturing, local proof, Loblaw, Whole Foods, Costco, and retailer-responsive operations.
 - [「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人](sources/moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk.md) — Shizilukou Crossing episode with Runta founder Dai Guanlan on agent runtime infrastructure, probabilistic execution, enterprise governance, token cost, and why production agents need infra beyond model capability.
 - [算力狂想曲，我在AI工厂的奇遇](sources/suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i.md) — 一劳永逸 satirical AI-factory dream about GPUs, agents, automated life, physical AI, digital companionship, circular compute finance, and human value beyond efficiency.
 - [144 ✪ 国货出海新趋势：山下有松、观夏、PANE](sources/144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1.md) — 疯投圈 episode on Chinese consumer-brand soft power through Shanxia Yousong, Guanxia, Sandunban, and PANE, covering inbound tourism, reverse daigou, aspirational premiums, brand podcasting, Chinese fragrance, and international-style brand export.
@@ -927,6 +928,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Cookie Pal](entities/CookiePal.md) — Human-grade pet treat brand from Riverside Natural Foods that worked as a more separated adjacent bet than Good To Go.
+- [Good To Go](entities/GoodToGo.md) — Discontinued keto-oriented Riverside Natural Foods brand that taught MadeGood a focus and opportunity-cost lesson.
+- [Loblaw](entities/Loblaw.md) — First major MadeGood retailer, where a buyer with a peanut-allergic child recognized the school-safe snack gap.
+- [MadeGood](entities/MadeGood.md) — Organic snack brand built by the Fotovat siblings through allergen-safe positioning, owned manufacturing, packaging, local proof, and national retail.
+- [Nima Fotovat](entities/NimaFotovat.md) — MadeGood and Riverside Natural Foods operator who identified the school-safe snack opportunity and drove retailer-responsive growth.
+- [Riverside Natural Foods](entities/RiversideNaturalFoods.md) — Fotovat family food-manufacturing company behind MadeGood, Good To Go, and Cookie Pal after the Taste of Nature reset.
+- [Saba Fotovat](entities/SabaFotovat.md) — Fotovat sibling operator included in the MadeGood rebuild after the family lost Taste of Nature.
+- [Salma Fotovat](entities/SalmaFotovat.md) — MadeGood and Riverside Natural Foods operator who rebuilt vendor relationships, managed supply chain, and framed the recall as a values test.
+- [Taste of Nature](entities/TasteOfNature.md) — Earlier Fotovat family snack business whose 2012 buyout forced the reset that led to MadeGood.
 - [戴冠兰 / Dai Guanlan](entities/DaiGuanlan.md) — Runta founder connecting Cloudflare/Kong infrastructure experience to agent runtime, probabilistic execution, and enterprise permission governance.
 - [Runta](entities/Runta.md) — AI-agent runtime and execution-layer company positioned around long-running agents, governance, token analysis, sandbox scheduling, and production permissions.
 - [Runta Cloud Shell](entities/RuntaCloudShell.md) — Runta open-source project mentioned as a local agent-support surface for email and permission-bound workflows.
@@ -6327,6 +6337,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Retailer-Responsive Manufacturing](concepts/RetailerResponsiveManufacturing.md) — CPG operating pattern where owned production, supply-chain trust, and packaging flexibility let a brand accept retailer-specific format and assortment requests.
+- [School-Safe CPG Positioning](concepts/SchoolSafeCPGPositioning.md) — Food-positioning pattern where allergy rules, school inclusion, parent trust, child taste, and broader family snacking become one retail opportunity.
 - [Agent Runtime Execution Layer](concepts/AgentRuntimeExecutionLayer.md) — Infrastructure layer for running, constraining, observing, and recovering long-running agents before enterprises grant production authority.
 - [Agent Approval Fatigue](concepts/AgentApprovalFatigue.md) — Failure mode where repeated permission prompts lead users to over-approve or grant broad standing access, requiring task-scoped scopes and audit trails.
 - [AI Factory Allegory](concepts/AIFactoryAllegory.md) — Satirical frame where compute, data centers, agents, capital, and human oversight become one AI production system.

@@ -2,8 +2,8 @@
 title: "Costco"
 type: entity
 tags: [company, retail, governance]
-sources: [the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026, eric-ries-incorruptible-by-design-wrgromn5peq, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, vanguard-1, costco-1]
-last_updated: 2026-08-04
+sources: [madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026, eric-ries-incorruptible-by-design-wrgromn5peq, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, vanguard-1, costco-1]
+last_updated: 2026-08-10
 ---
 
 # Costco
@@ -20,6 +20,8 @@ In [[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfa
 
 [[advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]] adds two CPG growth references: [[JajuPierogi]] expects Costco expansion to help lift sales toward $4 million, and [[JesseAndBens]] later lists Costco among chains reached after expanding beyond 400 stores.
 
+[[madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d]] adds [[MadeGood]] as a warehouse-club CPG case. Costco opportunities pushed [[RiversideNaturalFoods]] toward [[RetailerResponsiveManufacturing]] because buyers asked for pouches, value packs, six-flats, and multi-product variety boxes rather than only standard grocery packaging.
+
 [[vanguard-1]] adds Costco as the comparison point for [[ScaleEconomiesShared]]. The hosts compare Costco's low-markup, member-trust model with [[Vanguard]], while arguing that Vanguard is more structurally extreme because [[FundholderMutualOwnership]] routes asset-management scale economies directly back to fund investors.
 
 [[indicators-of-2025-and-what-to-watch-in-2026]] adds Costco as a tariff-litigation actor. The [[PlanetMoney]] / [[TheIndicator]] source says Costco sued the Trump administration, making the company part of [[EffectiveTariffRateShock]] and the question of whether [[DonaldTrump]] could impose broad tariffs without congressional approval.
@@ -32,6 +34,7 @@ In [[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfa
 - The Costco example connects [[TrustAsBusinessAsset]] to operations: trust is preserved through practices, not only messaging.
 - For Catalina Crunch, Costco functions as a scale marker inside [[CPGDistribution]] rather than as a governance example.
 - For Jaju Pierogi and Jesse and Ben's, Costco functions as a scale marker that increases the need for production funding, retail proof, and disciplined growth.
+- For MadeGood, Costco functions as a scale marker and an operating-pressure source: pack architecture, assortment, value perception, and manufacturing flexibility become part of the sale.
 - In the Vanguard episode, Costco helps explain why shared scale can be a durable trust mechanism when customers repeatedly see the economic benefit.
 - In the indicator source, Costco functions as a retailer exposed to tariff policy enough to contest executive tariff authority in court.
 - In the tariff-ruling source, Costco functions as a large-importer example of moving from authority litigation into refund recovery.
@@ -44,6 +47,7 @@ In [[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfa
 - [[HumanFlourishingProfit]] and [[TrustAsBusinessAsset]] - value frame attached to trustworthy operations.
 - [[CatalinaCrunch]], [[CPGDistribution]], and [[SalesVelocity]] - retail-scale context from the Catalina Crunch source.
 - [[JajuPierogi]], [[JesseAndBens]], [[StartupGovernance]], and [[SustainableGrowthPace]] - CPG growth context from the Jeni Britton Advice Line source.
+- [[MadeGood]], [[RiversideNaturalFoods]], [[CookiePal]], [[RetailerResponsiveManufacturing]], and [[PackagingAsProductExperience]] - CPG packaging and adjacent-brand context from the MadeGood episode.
 - [[Vanguard]], [[FundholderMutualOwnership]], and [[ScaleEconomiesShared]] - Acquired comparison case.
 - [[EffectiveTariffRateShock]], [[DonaldTrump]], [[SupremeCourt]], and [[BlanketTariffLimit]] - tariff-litigation branch added by Planet Money.
 - [[TariffRefundUncertainty]], [[Toyota]], and [[Goodyear]] - refund-lawsuit branch added by the later tariff source.

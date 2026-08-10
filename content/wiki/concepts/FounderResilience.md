@@ -2,8 +2,8 @@
 title: "Founder Resilience"
 type: concept
 tags: [startups, founder-psychology, resilience]
-sources: [tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]
-last_updated: 2026-07-23
+sources: [madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]
+last_updated: 2026-08-10
 ---
 
 # Founder Resilience
@@ -16,6 +16,8 @@ The source does not present resilience as vague toughness. Yin describes startup
 
 [[tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3]] adds [[SurbhiSarna]] as a medtech version. The source shows resilience through recurring ovarian-cyst fear, a grandmother's cancer death, repeated fundraising rejection, [[SoloFounderFundraisingBias]], clinical validation work, and the emotional choice to decline earlier acquisition interest until [[NVisionMedical|nVision Medical]] had patient cancer data.
 
+[[madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d]] adds the family-business restart version through [[NimaFotovat]], [[SalmaFotovat]], and [[SabaFotovat]]. Their resilience after losing [[TasteOfNature]] becomes useful because it carries forward manufacturing judgment, vendor trust, and clearer control preferences into [[RiversideNaturalFoods]] and [[MadeGood]].
+
 ## Key Claims
 - Resilience is practical when it produces better customer focus, clearer fundraising, and willingness to restart cleanly.
 - Founder resilience can come from urgency or desperation, but it must be connected to creating value rather than only surviving pain.
@@ -23,9 +25,12 @@ The source does not present resilience as vague toughness. Yin describes startup
 - Parenting and company-building can coexist in the source, but only as a concrete operating constraint rather than an abstract inspirational point.
 - Long-term resilience can require strategic narrowing and personal change, not only continued effort.
 - Resilience in medtech can mean staying with a slow evidence path long enough for patient data, regulatory progress, and commercialization trust to catch up with mission.
+- Restart resilience is strongest when the founder preserves transferable assets from the loss, such as operating knowledge, relationships, trust, or sharper governance judgment.
+- Resilience can require focus discipline after success; the [[GoodToGo]] distraction shows that surviving one reset does not make every adjacent opportunity wise.
 
 ## Connections
 - [[YinWu]], [[Prim]], [[EchoLocker]], and [[Pulley]] - source arc.
 - [[FounderUserObsession]], [[FutureOrientedFundraisingPitch]], [[FounderMotivationEvolution]], [[FounderProductFit]], and [[SecondTimeFounderOperatingJudgment]] - adjacent founder-psychology and operating concepts.
 - [[DrewHouston]], [[Dropbox]], [[IncumbentPlatformPressure]], [[StrategicFocusUnderIncumbentPressure]], and [[FounderPsychologyOperationalRisk]] - long-tenure resilience case added by the Drew Houston episode.
 - [[SurbhiSarna]], [[NVisionMedical|nVision Medical]], [[SoloFounderFundraisingBias]], [[MedicalDeviceClinicalValidation]], and [[MissionDrivenAcquisitionDecision]] - medtech resilience case added by The Social Radars.
+- [[MadeGood]], [[RiversideNaturalFoods]], [[TasteOfNature]], [[GoodToGo]], [[NimaFotovat]], [[SalmaFotovat]], and [[SabaFotovat]] - family-business restart case added by How I Built This.

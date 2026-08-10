@@ -2,8 +2,8 @@
 title: "Sales Velocity"
 type: concept
 tags: [retail, cpg, product, startup]
-sources: [justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, costco-1]
-last_updated: 2026-08-04
+sources: [madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, costco-1]
+last_updated: 2026-08-10
 ---
 
 # Sales Velocity
@@ -11,6 +11,8 @@ last_updated: 2026-08-04
 Sales velocity is the rate at which a product sells through a channel, especially important in retail where shelf space has opportunity cost. In [[justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b]], [[JustinGold]] realizes that nut-butter jars sell too slowly because customers buy them infrequently, which pushes [[JustinsNutButter]] toward squeeze packs and peanut butter cups. [[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2]] adds [[CatalinaCrunch]], where [[WholeFoodsMarket]] sell-through made the cereal a breakout retail SKU after the product claim moved to keto-friendly. [[advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714]] adds [[RedTruckOrchards]], where repeat purchase is treated as a core health signal for a premium cherry vinegar category. [[e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]] adds [[ELFCosmetics]], where one-dollar pricing made unit volume, replenishment, and retail dollars per foot central to the business model. [[advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86]] adds [[SprinkleBites]] and [[ThriveMarket]], where weekly movement of 88-pack boxes and a fast reorder are treated as meaningful early channel signals. [[advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]] adds [[JesseAndBens]] and [[JajuPierogi]], where store sellouts after demos and broader grocery expansion turn product appeal into buyer-facing velocity proof.
 
 [[costco-1]] adds the retailer-level version through [[Costco]]. Here the key metric is not whether one CPG item deserves shelf space, but whether a deliberately small SKU base produces enough volume to support [[RetailInventoryVelocity]], supplier leverage, and [[NegativeCashConversionCycle]].
+
+[[madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d]] adds [[MadeGood]], where clear school-safe positioning, bright packaging, demos, and retailer-specific formats helped the product move from [[Loblaw]] into [[WholeFoodsMarket]] and [[Costco]] channels.
 
 ## Key Claims
 - A product can have enthusiastic customers and still be hard to scale if repeat purchase frequency is low.
@@ -25,6 +27,7 @@ Sales velocity is the rate at which a product sells through a channel, especiall
 - Retail velocity can depend on whether the product claim gives buyers and shoppers the right frame; "keto-friendly" made Catalina Crunch more legible than generic low-sugar cereal in the source.
 - Velocity proof is stronger when demos produce both immediate sales and language a buyer can repeat internally.
 - At retailer scale, velocity can become a whole business-model advantage when low SKU count, high traffic, and logistics design reduce working-capital needs.
+- Velocity in school-safe CPG depends on multi-party acceptance: children must like the snack, parents must trust it, schools must allow it, and retailers must see repeat purchase.
 
 ## Connections
 - [[JustinsNutButter]] and [[JustinGold]] - source case.
@@ -36,3 +39,4 @@ Sales velocity is the rate at which a product sells through a channel, especiall
 - [[CatalinaCrunch]], [[WholeFoodsMarket]], [[DietaryConstraintProductInsight]], and [[PackagingAsProductExperience]] - cereal case where claim, packaging, and retail timing supported sell-through.
 - [[JesseAndBens]], [[JajuPierogi]], [[InStoreDemos]], and [[RetailIncrementality]] - Jeni Britton Advice Line cases where sell-through and category growth shape retail credibility.
 - [[Costco]], [[LimitedSKUOperatingModel]], [[RetailInventoryVelocity]], and [[NegativeCashConversionCycle]] - retailer-level velocity branch added by Acquired.
+- [[MadeGood]], [[Loblaw]], [[SchoolSafeCPGPositioning]], [[PackagingAsProductExperience]], and [[RetailerResponsiveManufacturing]] - snack branch where positioning and format supported sell-through.

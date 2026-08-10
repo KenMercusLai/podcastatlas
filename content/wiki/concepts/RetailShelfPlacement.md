@@ -2,8 +2,8 @@
 title: "Retail Shelf Placement"
 type: concept
 tags: [retail, cpg, product, distribution]
-sources: [how-to-make-a-book-into-a-bestseller, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, board-games-3-whats-in-a-name, bookstore-economics]
-last_updated: 2026-07-24
+sources: [madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d, how-to-make-a-book-into-a-bestseller, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, board-games-3-whats-in-a-name, bookstore-economics]
+last_updated: 2026-08-10
 ---
 
 # Retail Shelf Placement
@@ -16,6 +16,8 @@ Retail shelf placement is the CPG product-design and distribution issue where a 
 
 [[how-to-make-a-book-into-a-bestseller]] adds the bestseller-shelf version. Once the [[PlanetMoneyBook]] reaches the [[NewYorkTimesBestsellerList|New York Times bestseller list]], [[TomMayer]] explains that Norton can advertise the label, re-approach accounts, keep the book in stores longer, and place it where ranking status itself changes shopper attention.
 
+[[madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d]] adds [[MadeGood]], where bright packaging and a large logo helped the brand survive early natural-aisle placement at [[Loblaw]] and compete without a large media budget.
+
 ## Key Claims
 - Shelf context teaches shoppers what the product is, what alternatives it belongs beside, and what use case they should consider.
 - A product can look unsuccessful in one aisle while working in another because the buying frame changes.
@@ -27,6 +29,7 @@ Retail shelf placement is the CPG product-design and distribution issue where a 
 - For board games, the title and cover can perform the placement work by making the product legible in a crowded game aisle.
 - For books, copy count, display-table access, bestseller shelves, and category labels can determine whether a title becomes discoverable enough for demand to show up.
 - Bestseller-list labels can become placement tools because stores and publishers can treat ranking status as a reason to display a book again.
+- When a young CPG brand lacks advertising, packaging visibility can make poor or high shelf placement less fatal by helping shoppers notice and decode the product.
 
 ## Connections
 - [[JustinsNutButter]], [[JustinGold]], and [[WholeFoodsMarket]] - source case.
@@ -38,3 +41,4 @@ Retail shelf placement is the CPG product-design and distribution issue where a 
 - [[SellMeASasquatch]], [[RetailShelfAppeal]], and [[ProductNamingAsPositioning]] - board-game shelf-legibility branch added by Planet Money.
 - [[FisherNash]], [[CarmichaelsBookstore|Carmichael's Bookstore]], [[McNallyJackson]], [[PlanetMoneyBook]], [[NewYorkTimesBestsellerList]], and [[BookstoreBuying]] - bookstore placement and bestseller-shelf branch added by Planet Money.
 - [[BestsellerStatusFeedbackLoop]] and [[PreOrderLaunchConcentration]] - ranking and launch mechanisms that feed additional placement.
+- [[MadeGood]], [[Loblaw]], [[PackagingAsProductExperience]], and [[SchoolSafeCPGPositioning]] - snack-packaging branch added by How I Built This.
