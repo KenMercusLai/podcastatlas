@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Spring, then fall: a weakened Muslim Brotherhood](sources/spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354.md) — The Intelligence episode on the Muslim Brotherhood's post-Arab Spring weakness, Europe-America crime comparison limits, and padel's global participation boom and access problem.
 - [177.日本医保基金为何要支持免费的国民体检？](sources/177-riben-yibao-jijin-weihe-yao-zhichi-mianfei-de-guomin-tijian-lh06qonrzgjprqdwl8dygn4hoxpk.md) — 起朱楼宴宾客 episode with 大卫翁 on Yokohama free health checks, ningen dock history, Japan's specific health checkups, insurer prevention accountability, lifestyle-disease guidance, weak cost-savings evidence, and China's weight-management policy turn.
 - [AI subscriptions are rapidly taking over baby nurseries](sources/tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128.md) — Marketplace Tech episode with Sapna Maheshwari on AI baby monitors, Nanit and Hatch subscription features, sleep scores, parental judgment outsourcing, child-bedroom privacy, and hypervigilant parenting data.
 - [Disney: The Renaissance and the Empire](sources/disney-the-renaissance-and-the-empire-1.md) — Acquired episode on Disney from the 1984 crisis through the Eisner, Wells, Katzenberg, and Iger eras, covering the Disney Renaissance, Pixar, ESPN, Disney+, streaming pressure, and parks.
@@ -935,6 +936,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Muslim Brotherhood](entities/MuslimBrotherhood.md) — Political and social movement whose post-Arab Spring weakness anchors the episode's political-Islam segment.
+- [Sayyid Qutb / Sayed Qutb](entities/SayyidQutb.md) — Ideological reference point used by the episode to explain the Brotherhood's dignity, Islamic-values, and social-organization frame.
+- [Mohamed Morsi](entities/MohamedMorsi.md) — Brotherhood-linked Egyptian president whose election and overthrow mark the source's clearest rise-and-reversal case.
+- [Abdel Fattah al-Sisi](entities/AbdelFattahAlSisi.md) — Egyptian coup leader presented as the strongest example of authoritarian backlash against the Brotherhood.
+- [Matt Ashby](entities/MattAshby.md) — UCL researcher whose city-crime dataset grounds the episode's Europe-America crime comparison.
+- [University College London](entities/UniversityCollegeLondon.md) — Research institution linked to Matt Ashby's comparative city-crime dataset.
+- [Hamish Clayton](entities/HamishClayton.md) — The Intelligence correspondent reporting from Premier Padel's London tournament.
+- [Premier Padel](entities/PremierPadel.md) — Professional padel circuit used by the source to show the sport's early global-event ambitions.
+- [International Padel Federation](entities/InternationalPadelFederation.md) — Padel governing body pushing expansion in Asia, North America, and possible Olympic inclusion.
+- [Lawn Tennis Association](entities/LawnTennisAssociation.md) — British tennis body cited for padel court and player growth estimates.
 - [Hinohara Shigeaki / 日野原重明](entities/HinoharaShigeaki.md) — Japanese physician used by episode 177 as a symbolic founder figure for ningen dock, preventive medicine, and lifestyle-disease public health.
 - [National Health Commission of China / 国家卫健委](entities/NationalHealthCommissionChina.md) — Chinese public-health authority linked by episode 177 to obesity guidance, weight-management clinics, chronic-disease management, and active-health policy.
 - [Sapna Maheshwari](entities/SapnaMaheshwari.md) — New York Times reporter grounding Marketplace Tech's AI baby-monitor discussion through reporting and parent experience.
@@ -6375,6 +6386,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Post-Arab Spring Islamist Decline](concepts/PostArabSpringIslamistDecline.md) — Pattern where the Brotherhood's democratic opening gives way to repression, exile, fragmentation, and lost political space.
+- [Islamist Democratic Trust Problem](concepts/IslamistDemocraticTrustProblem.md) — Suspicion that an Islamist movement may use democracy tactically before narrowing pluralism once in power.
+- [Crime Statistics Comparability](concepts/CrimeStatisticsComparability.md) — Methodological problem of comparing crime across countries with different definitions, reporting behavior, and city boundaries.
+- [Long-Run Urban Safety Trend](concepts/LongRunUrbanSafetyTrend.md) — Preference for comparing a city's own safety trend over time rather than relying only on viral cross-city rankings.
+- [Padel Participation Boom](concepts/PadelParticipationBoom.md) — Rapid global growth of padel through easy rules, social doubles play, court expansion, and professional ambition.
+- [Padel Court Economics](concepts/PadelCourtEconomics.md) — Business and access tension created by small padel-court footprints, high booking demand, and expensive urban facilities.
 - [Ningen Dock / 人间 Dock](concepts/NingenDock.md) — Japanese comprehensive-checkup tradition that begins as high-end systematic examination and later feeds broader preventive-screening culture.
 - [Japanese Specific Health Checkups / 日本特定健诊](concepts/JapaneseSpecificHealthCheckups.md) — Post-2008 insurer-governed screening and guidance workflow for lifestyle-disease and metabolic-syndrome risk.
 - [Health Insurer Prevention Accountability / 保险者预防责任](concepts/HealthInsurerPreventionAccountability.md) — Policy mechanism turning insurers from post-illness payers into prevention executors through checkups, guidance, data, and incentives.

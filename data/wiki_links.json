@@ -2267,6 +2267,10 @@
     "title": "卡西诺修道院 / Abbey of Monte Cassino",
     "url": "/wiki/entities/abbeyofmontecassino/"
   },
+  "AbdelFattahAlSisi": {
+    "title": "Abdel Fattah al-Sisi",
+    "url": "/wiki/entities/abdelfattahalsisi/"
+  },
   "AbdulElSayed": {
     "title": "Abdul El-Sayed",
     "url": "/wiki/entities/abdulelsayed/"
@@ -9319,6 +9323,10 @@
     "title": "Crete",
     "url": "/wiki/entities/crete/"
   },
+  "CrimeStatisticsComparability": {
+    "title": "Crime Statistics Comparability",
+    "url": "/wiki/concepts/crimestatisticscomparability/"
+  },
   "Crimea": {
     "title": "Crimea",
     "url": "/wiki/entities/crimea/"
@@ -16055,6 +16063,10 @@
     "title": "Hamilton Helmer",
     "url": "/wiki/entities/hamiltonhelmer/"
   },
+  "HamishClayton": {
+    "title": "Hamish Clayton",
+    "url": "/wiki/entities/hamishclayton/"
+  },
   "HamishMcKenzie": {
     "title": "Hamish McKenzie",
     "url": "/wiki/entities/hamishmckenzie/"
@@ -18155,6 +18167,10 @@
     "title": "International Monetary Fund",
     "url": "/wiki/entities/internationalmonetaryfund/"
   },
+  "InternationalPadelFederation": {
+    "title": "International Padel Federation",
+    "url": "/wiki/entities/internationalpadelfederation/"
+  },
   "InternationalStabilizationForce": {
     "title": "International Stabilization Force",
     "url": "/wiki/entities/internationalstabilizationforce/"
@@ -18430,6 +18446,10 @@
   "IslamicRevolutionaryGuardCorps": {
     "title": "Islamic Revolutionary Guard Corps",
     "url": "/wiki/entities/islamicrevolutionaryguardcorps/"
+  },
+  "IslamistDemocraticTrustProblem": {
+    "title": "Islamist Democratic Trust Problem",
+    "url": "/wiki/concepts/islamistdemocratictrustproblem/"
   },
   "IslandBeeCompany": {
     "title": "Island Bee Company",
@@ -20939,6 +20959,10 @@
     "title": "Law-Morality Boundary",
     "url": "/wiki/concepts/lawmoralityboundary/"
   },
+  "LawnTennisAssociation": {
+    "title": "Lawn Tennis Association",
+    "url": "/wiki/entities/lawntennisassociation/"
+  },
   "LawrenceJPeter": {
     "title": "Lawrence J. Peter",
     "url": "/wiki/entities/lawrencejpeter/"
@@ -21958,6 +21982,10 @@
   "LongNow": {
     "title": "Long Now",
     "url": "/wiki/entities/longnow/"
+  },
+  "LongRunUrbanSafetyTrend": {
+    "title": "Long-Run Urban Safety Trend",
+    "url": "/wiki/concepts/longrunurbansafetytrend/"
   },
   "LongTermBenefitTrust": {
     "title": "Long-Term Benefit Trust",
@@ -23183,6 +23211,10 @@
     "title": "Matsutake Commons Management / 松茸山公共资源治理",
     "url": "/wiki/concepts/matsutakecommonsmanagement/"
   },
+  "MattAshby": {
+    "title": "Matt Ashby",
+    "url": "/wiki/entities/mattashby/"
+  },
   "MattJacobs": {
     "title": "Matt Jacobs",
     "url": "/wiki/entities/mattjacobs/"
@@ -24387,6 +24419,10 @@
     "title": "蘑菇街 / Mogujie",
     "url": "/wiki/entities/mogujie/"
   },
+  "MohamedMorsi": {
+    "title": "Mohamed Morsi",
+    "url": "/wiki/entities/mohamedmorsi/"
+  },
   "MohammadRezaPahlavi": {
     "title": "Mohammad Reza Pahlavi / 穆罕默德·礼萨·巴列维",
     "url": "/wiki/entities/mohammadrezapahlavi/"
@@ -24750,6 +24786,10 @@
   "MusicalLy": {
     "title": "Musical.ly",
     "url": "/wiki/entities/musically/"
+  },
+  "MuslimBrotherhood": {
+    "title": "Muslim Brotherhood",
+    "url": "/wiki/entities/muslimbrotherhood/"
   },
   "MustafaSuleyman": {
     "title": "Mustafa Suleyman",
@@ -26795,6 +26835,14 @@
     "title": "Padel / 板式网球",
     "url": "/wiki/concepts/padel/"
   },
+  "PadelCourtEconomics": {
+    "title": "Padel Court Economics",
+    "url": "/wiki/concepts/padelcourteconomics/"
+  },
+  "PadelParticipationBoom": {
+    "title": "Padel Participation Boom",
+    "url": "/wiki/concepts/padelparticipationboom/"
+  },
   "PageMatch": {
     "title": "PageMatch",
     "url": "/wiki/entities/pagematch/"
@@ -28187,6 +28235,10 @@
     "title": "Post-Apocalyptic Civilization Preservation",
     "url": "/wiki/concepts/postapocalypticcivilizationpreservation/"
   },
+  "PostArabSpringIslamistDecline": {
+    "title": "Post-Arab Spring Islamist Decline",
+    "url": "/wiki/concepts/postarabspringislamistdecline/"
+  },
   "PostBrexitImmigrationPolitics": {
     "title": "Post-Brexit Immigration Politics",
     "url": "/wiki/concepts/postbrexitimmigrationpolitics/"
@@ -28350,6 +28402,10 @@
   "PremierLeague": {
     "title": "Premier League",
     "url": "/wiki/entities/premierleague/"
+  },
+  "PremierPadel": {
+    "title": "Premier Padel",
+    "url": "/wiki/entities/premierpadel/"
   },
   "PremiumEverydayBrandTension": {
     "title": "Premium-Everyday Brand Tension",
@@ -31318,6 +31374,10 @@
   "SawGerrera": {
     "title": "Saw Gerrera",
     "url": "/wiki/entities/sawgerrera/"
+  },
+  "SayyidQutb": {
+    "title": "Sayyid Qutb / Sayed Qutb",
+    "url": "/wiki/entities/sayyidqutb/"
   },
   "ScaleAI": {
     "title": "Scale AI",
@@ -36615,6 +36675,10 @@
     "title": "Universal High Income",
     "url": "/wiki/concepts/universalhighincome/"
   },
+  "UniversityCollegeLondon": {
+    "title": "University College London",
+    "url": "/wiki/entities/universitycollegelondon/"
+  },
   "UniversityOfAlaska": {
     "title": "University of Alaska",
     "url": "/wiki/entities/universityofalaska/"
@@ -41454,6 +41518,10 @@
   "spirit-airlines-and-the-future-of-cheap-flights": {
     "title": "Spirit Airlines and the future of cheap flights",
     "url": "/wiki/sources/spirit-airlines-and-the-future-of-cheap-flights/"
+  },
+  "spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354": {
+    "title": "Spring, then fall: a weakened Muslim Brotherhood",
+    "url": "/wiki/sources/spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354/"
   },
   "starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1": {
     "title": "Starmergeddon: British PM resigns",

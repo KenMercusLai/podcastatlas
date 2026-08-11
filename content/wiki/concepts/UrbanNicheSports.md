@@ -2,8 +2,8 @@
 title: "Urban Niche Sports / 城市小众运动"
 type: concept
 tags: [sports, lifestyle, cities, community]
-sources: [ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg]
-last_updated: 2026-08-07
+sources: [ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo, ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg, spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354]
+last_updated: 2026-08-11
 ---
 
 # Urban Niche Sports / 城市小众运动
@@ -14,6 +14,8 @@ The concept links participation to [[SportsLifestyleConsumption]]. Instead of on
 
 [[ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo]] extends the branch from city-access sports back toward mountains and natural terrain. The episode's trail running, hiking, skiing, and outdoor climbing cases show why indoorization cannot fully replace weather, rock texture, forest sound, altitude, wrong turns, and [[OutdoorFlowState|户外心流]], while [[OutdoorSafetyPreparation|safety preparation]] becomes more important outside controlled venues.
 
+[[spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354]] adds a global padel follow-up. It shows how an urban-friendly niche sport can scale quickly once facilities, easy rules, doubles sociability, and club revenue incentives align, but [[PadelCourtEconomics]] can also turn venue scarcity into an access barrier.
+
 ## Key Claims
 - Olympic exposure and social media can move a sport from obscure to imaginable before ordinary people have local access.
 - Indoorization and simplification let city residents try fragments of sports once tied to mountains, oceans, open water, or specialized clubs.
@@ -21,9 +23,11 @@ The concept links participation to [[SportsLifestyleConsumption]]. Instead of on
 - Small communities can lower the social threshold even when the sport itself has high equipment or venue requirements.
 - The same urban conditions that make niche sports visible can also flatten them into check-in experiences if long-term practice, coaching, and safety norms do not develop.
 - EP250 adds that moving from urban venues into mountains increases sensory depth and risk at the same time.
+- The later padel segment shows that a niche sport can become globally legible while still remaining socially narrowed by court price and availability.
 
 ## Connections
 - [[TalkSanlian]], [[SanlianLifeWeekly]], [[Heimai]], [[SunRuoxi]], [[XuePeng]], and [[WuShubin]] - source and speaker context.
 - [[Padel]], [[MermaidFreediving]], [[ArmoredCombat]], [[LeisureSailing]], [[StandUpPaddleboarding]], and [[ArcheryFlow]] - episode cases.
 - [[SportsLifestyleConsumption]] and [[PreCommercialSportsCommunity]] - broader participation and community concepts.
 - [[OutdoorFlowState]], [[TrailRunningEntryRisk]], [[OutdoorSafetyPreparation]], [[RockClimbingFailurePractice]], and [[WomenOutdoorVisibility]] - EP250 outdoor extension.
+- [[PadelParticipationBoom]], [[PadelCourtEconomics]], [[PremierPadel]], and [[LawnTennisAssociation]] - global padel growth and venue-economics extension.

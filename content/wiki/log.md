@@ -7481,3 +7481,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-11] ingest | Spring, then fall: a weakened Muslim Brotherhood
+
+Added source page for a The Intelligence episode on the Muslim Brotherhood's post-Arab Spring decline, Europe-America crime comparison pitfalls, and padel's global growth. Created pages for Muslim Brotherhood, Sayyid Qutb, Mohamed Morsi, Abdel Fattah al-Sisi, Matt Ashby, University College London, Hamish Clayton, Premier Padel, International Padel Federation, Lawn Tennis Association, Post-Arab Spring Islamist Decline, Islamist Democratic Trust Problem, Crime Statistics Comparability, Long-Run Urban Safety Trend, Padel Participation Boom, and Padel Court Economics; updated overview, index, The Intelligence, Economist Podcasts, Gareth Brown, Rosie Bloor, Egypt, Turkey, New York City, Padel, Urban Niche Sports, and Pre-Commercial Sports Community. No direct contradiction found; the source qualifies earlier Musk/Economist crime-claim material with data-comparability limits and extends the wiki's padel branch from friendly niche sport toward global professionalization and access costs.
+
+## [2026-08-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

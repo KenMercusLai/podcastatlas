@@ -2,11 +2,13 @@
 title: "Rosie Bloor"
 type: entity
 tags: [host, media]
-sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c]
-last_updated: 2026-08-07
+sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c, spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354]
+last_updated: 2026-08-11
 ---
 
 # Rosie Bloor
+
+[[spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354]] adds another host context, with the transcript spelling her as Rosie Blore. She introduces the episode's sequence on the [[MuslimBrotherhood]]'s regional decline, [[CrimeStatisticsComparability]] in Europe-America safety claims, and [[PadelParticipationBoom]].
 
 [[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] adds another host context. Rosie Bloor introduces a three-part [[TheIntelligence]] episode on [[ElonMusk]]'s vision of the future, whether children can be treated as criminals, and [[MonaKhalil]]'s life protecting turtles in [[Lebanon]].
 
@@ -26,3 +28,4 @@ Rosie Bloor is the host voice for [[stock-options-how-to-hedge-an-ai-bubble-698e
 - [[MarineLePen]], [[CaptiveWhaleSanctuary]], and [[Route66NostalgiaTourism]] — later episode themes introduced by Bloor.
 - [[AndyBurnham]], [[PostwarReconstructionFinance]], and [[FarmersMarketUrbanism]] — themes introduced in the new source.
 - [[ElonMusk]], [[YouthCriminalResponsibility]], and [[MonaKhalil]] - themes introduced in The Elon game source.
+- [[MuslimBrotherhood]], [[CrimeStatisticsComparability]], and [[PadelParticipationBoom]] - themes introduced in the Brotherhood/crime/padel source.

@@ -2,8 +2,8 @@
 title: "Turkey"
 type: entity
 tags: [country, geopolitics, economy, logistics, politics]
-sources: [outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132, in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]
-last_updated: 2026-08-08
+sources: [outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132, in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f, spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354]
+last_updated: 2026-08-11
 ---
 
 # Turkey
@@ -18,6 +18,8 @@ The source keeps that upside conditional. Turkey's geographic and diplomatic pos
 
 [[in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74]] adds Turkey as one of the regional actors pressuring [[Hamas]] over the Gaza plan. The source groups Turkey with [[Egypt]] and [[Qatar]], emphasizing that outside pressure can affect Hamas's incentives even while [[DisarmamentWithdrawalSequencing]] remains unresolved.
 
+[[spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354]] adds Turkey as one of the exile and pressure settings for the [[MuslimBrotherhood]]. [[GarethBrown]] says leadership figures in Turkey and London have sent contradictory signals, showing how the movement's post-crackdown diaspora can become internally consumed rather than strategically coherent.
+
 ## Connections
 - [[Istanbul]] - city through which the episode reads Turkey's hub opportunity.
 - [[StraitOfHormuz]] and [[Iran]] - disruption context.
@@ -27,3 +29,4 @@ The source keeps that upside conditional. Turkey's geographic and diplomatic pos
 - [[TurkishOppositionRealignment]], [[JudicializedOppositionSuppression]], and [[OppositionPartyHollowing]] - domestic politics branch added by the Brave New whirl source.
 - [[Hamas]], [[Egypt]], [[Qatar]], and [[GazaDealImplementationGap]] - Gaza-deal pressure channel added by the later source.
 - [[Sudan]], [[SudaneseArmedForces]], [[ForeignBackedCivilWar]], and [[LowCostDroneWarfare]] - Sudan army-support branch added by The Intelligence.
+- [[MuslimBrotherhood]], [[PostArabSpringIslamistDecline]], and [[IslamistDemocraticTrustProblem]] - exile and fragmentation branch added by the Brotherhood source.
