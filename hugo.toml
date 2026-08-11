@@ -11,6 +11,8 @@ ignoreFiles = ['(^|/)(content/)?wiki/(index|log)\.md$']
 
 [outputs]
 page = ['html','markdown']
+taxonomy = ['html']
+term = ['html']
 
 [module]
   [[module.mounts]]
