@@ -2,11 +2,13 @@
 title: "Apple Watch"
 type: entity
 tags: [apple, hardware, wearables, health]
-sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, rolex-1]
-last_updated: 2026-08-04
+sources: [tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, rolex-1]
+last_updated: 2026-08-11
 ---
 
 # Apple Watch
+
+[[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] adds an endpoint role for Apple Watch in child monitoring. [[Nanit]]'s CEO is described as wanting the company to be part of children's bedrooms until they get a first Apple Watch, often around age 10, making the product a boundary marker between [[AIBabyMonitors]] and later wearable self-tracking.
 
 Apple Watch appears in [[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] as an example of a widely adopted wearable that did not begin as an AI device but can become AI-enabled as assistant functions spread across consumer hardware. The episode uses it to separate familiar wearables from newer AI-specific devices such as pins, pendants, bracelets, and smart glasses.
 

@@ -2,11 +2,13 @@
 title: "Comprehensive Consumer Data Privacy"
 type: concept
 tags: [privacy, regulation, social-media, consumer-protection, surveillance]
-sources: [tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]
+last_updated: 2026-08-11
 ---
 
 # Comprehensive Consumer Data Privacy
+
+[[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] adds a consumer baby-tech case through [[ChildBedroomDataPrivacy]]. The episode shows why comprehensive privacy cannot focus only on ad targeting or social-media feeds: subscription hardware can still collect intimate child data in bedrooms, interpret health or sleep signals, and extend monitoring as children get older.
 
 Comprehensive consumer data privacy is the regulatory approach favored by the [[ElectronicFrontierFoundation|Electronic Frontier Foundation]] in [[tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]]. [[AaronMackey]] argues that many social-media harms are tied to invasive privacy practices, opaque collection, and targeting by dominant platforms, so regulation should constrain the data business model rather than broadly ban minors from access.
 

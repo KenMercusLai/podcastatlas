@@ -2,11 +2,13 @@
 title: "AI Hardware Privacy Exchange / AI硬件隐私交换"
 type: concept
 tags: [ai, privacy, hardware, wearables, smart-home]
-sources: [ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4]
-last_updated: 2026-08-07
+sources: [tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4]
+last_updated: 2026-08-11
 ---
 
 # AI Hardware Privacy Exchange / AI硬件隐私交换
+
+[[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] adds a nursery version through [[AIBabyMonitors]] and [[Nanit]]. The privacy exchange is sharper here because the monitored person is a child in a bedroom, not only an adult choosing a wearable or a bystander near smart glasses. Hardware, app, and subscription revenue may reduce advertising pressure, but [[ChildBedroomDataPrivacy]] still depends on retention, access, interpretation, and future child consent.
 
 AI hardware privacy exchange is the EP253 pattern where users reassess how much camera, microphone, location, sleep, motion, or training data they will share in return for a concrete benefit. In [[ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4]], the speakers move from AI glasses recording lights to smart beds that detect snoring and sports devices that may process training feedback locally or through the cloud.
 

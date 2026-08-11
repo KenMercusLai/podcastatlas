@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI subscriptions are rapidly taking over baby nurseries](sources/tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128.md) — Marketplace Tech episode with Sapna Maheshwari on AI baby monitors, Nanit and Hatch subscription features, sleep scores, parental judgment outsourcing, child-bedroom privacy, and hypervigilant parenting data.
 - [Disney: The Renaissance and the Empire](sources/disney-the-renaissance-and-the-empire-1.md) — Acquired episode on Disney from the 1984 crisis through the Eisner, Wells, Katzenberg, and Iger eras, covering the Disney Renaissance, Pixar, ESPN, Disney+, streaming pressure, and parks.
 - [E248｜一个“催发货”AI要跑通260步，和阿里瓴羊彭新宇聊聊中国式FDE](sources/e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1.md) — 硅谷101 episode with Lingyang CEO Peng Xinyu on Chinese-style FDE, enterprise growth agents, the 260-step "催发货" workflow, data/process foundations, top-down ownership, and outcome-based enterprise AI deployment.
 - [如此打工 30 年：流水线上的面孔与时间](sources/ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme.md) — 面基 episode with 占老师 on 30 years in Dongguan manufacturing, factory discipline, worker photography, Pearl River Delta manufacturing transformation, automation, social-insurance gaps, and not giving up the self.
@@ -933,6 +934,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sapna Maheshwari](entities/SapnaMaheshwari.md) — New York Times reporter grounding Marketplace Tech's AI baby-monitor discussion through reporting and parent experience.
+- [Nanit](entities/Nanit.md) — Smart baby-monitor company used to examine sleep scores, AI parenting advice, subscription economics, and child-bedroom data privacy.
+- [Hatch (baby tech)](entities/HatchBaby.md) — Baby-tech product named as part of the paid sleep-tip, sleep-plan, and parent-chatbot upgrade layer.
+- [Whoop](entities/Whoop.md) — Adult wearable comparator used to show baby sleep scores borrowing quantified-self language.
 - [Roy E. Disney](entities/RoyEDisney.md) — Disney family governance figure who helped force the 1984 leadership change and later backed the Save Disney campaign.
 - [Michael Eisner](entities/MichaelEisner.md) — Disney CEO who rebuilt cash flow, parks, live action, and animation before later governance and succession strain.
 - [Frank Wells](entities/FrankWells.md) — Disney operating partner whose stabilizing role mattered during the Eisner-era turnaround and whose death preceded leadership rupture.
@@ -6367,6 +6372,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Baby Monitors](concepts/AIBabyMonitors.md) — Nursery systems combining cameras, sensors, and AI analysis, with clearer safety use cases and more contested advice/subscription layers.
+- [AI Parenting Advice](concepts/AIParentingAdvice.md) — App, monitor, and chatbot guidance for parental decisions such as infant sleep routines and plans.
+- [Quantified Parenting](concepts/QuantifiedParenting.md) — Score-driven child monitoring that imports adult wearable logic into parenting.
+- [Child Bedroom Data Privacy](concepts/ChildBedroomDataPrivacy.md) — Privacy problem created when sensors and health interpretation operate in a child's bedroom beyond infancy.
+- [Parental Judgment Outsourcing](concepts/ParentalJudgmentOutsourcing.md) — Risk that parents let apps, scores, or chatbots replace ordinary observation and family judgment.
+- [Parenting Data Hypervigilance](concepts/ParentingDataHypervigilance.md) — Pattern where continuous child metrics increase monitoring, anxiety, or intervention pressure.
 - [Disney Renaissance](concepts/DisneyRenaissance.md) — Animation revival arc where Disney repaired its creative flywheel through musical structure, process reform, home video, merchandise, and parks.
 - [Disney Vault Home Video Economics](concepts/DisneyVaultHomeVideoEconomics.md) — Scarcity-and-windowing strategy that turned Disney catalog films into major VHS-era repeat revenue.
 - [Creative Core Renewal](concepts/CreativeCoreRenewal.md) — Media-company need to replenish stories, talent systems, and production process before an IP flywheel can keep compounding.

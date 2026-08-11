@@ -2,11 +2,13 @@
 title: "Cognitive Surrender"
 type: concept
 tags: [ai, cognition, decision-making, education]
-sources: [tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128]
+last_updated: 2026-08-11
 ---
 
 # Cognitive Surrender
+
+[[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] adds a parenting version through [[ParentalJudgmentOutsourcing]]. The episode's concern is that parents may let [[Nanit]], [[ChatGPT]], [[Claude]], or app-generated sleep plans supply the first settled answer before they have practiced observing whether a child is tired, unsettled, or ready for a different routine.
 
 Cognitive surrender is [[SteveShaw]]'s term in [[tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128]] for the pattern where users defer to AI instead of doing their own reasoning. The risk is not only that [[ChatGPT]] or another model can be wrong; it is that the model's answer becomes the default path before the person has formed an independent judgment.
 

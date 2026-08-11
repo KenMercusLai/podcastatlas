@@ -1335,6 +1335,10 @@
     "title": "AI BPO Roll Up",
     "url": "/wiki/concepts/aibporollup/"
   },
+  "AIBabyMonitors": {
+    "title": "AI Baby Monitors",
+    "url": "/wiki/concepts/aibabymonitors/"
+  },
   "AIBacklashPolitics": {
     "title": "AI Backlash Politics",
     "url": "/wiki/concepts/aibacklashpolitics/"
@@ -1866,6 +1870,10 @@
   "AIPCMemoryDemand": {
     "title": "AI PC Memory Demand",
     "url": "/wiki/concepts/aipcmemorydemand/"
+  },
+  "AIParentingAdvice": {
+    "title": "AI Parenting Advice",
+    "url": "/wiki/concepts/aiparentingadvice/"
   },
   "AIPlusTerminals": {
     "title": "AI Plus Terminals",
@@ -7402,6 +7410,10 @@
   "ChiefGibby": {
     "title": "Chief Gibby",
     "url": "/wiki/entities/chiefgibby/"
+  },
+  "ChildBedroomDataPrivacy": {
+    "title": "Child Bedroom Data Privacy",
+    "url": "/wiki/concepts/childbedroomdataprivacy/"
   },
   "ChildDeathEducation": {
     "title": "Child Death Education / 儿童死亡教育",
@@ -16279,6 +16291,10 @@
     "title": "Hassan Benchikran",
     "url": "/wiki/entities/hassanbenchikran/"
   },
+  "HatchBaby": {
+    "title": "Hatch (baby tech)",
+    "url": "/wiki/entities/hatchbaby/"
+  },
   "Havana": {
     "title": "Havana",
     "url": "/wiki/entities/havana/"
@@ -24907,6 +24923,10 @@
     "title": "南宫长万",
     "url": "/wiki/entities/nangongchangwan/"
   },
+  "Nanit": {
+    "title": "Nanit",
+    "url": "/wiki/entities/nanit/"
+  },
   "NanjingNanjing": {
     "title": "《南京！南京！》 / Nanjing! Nanjing!",
     "url": "/wiki/entities/nanjingnanjing/"
@@ -26875,9 +26895,17 @@
     "title": "Parental Defense Conflict / 父母辩护冲突",
     "url": "/wiki/concepts/parentaldefenseconflict/"
   },
+  "ParentalJudgmentOutsourcing": {
+    "title": "Parental Judgment Outsourcing",
+    "url": "/wiki/concepts/parentaljudgmentoutsourcing/"
+  },
   "Parentification": {
     "title": "Parentification / 亲职化",
     "url": "/wiki/concepts/parentification/"
+  },
+  "ParentingDataHypervigilance": {
+    "title": "Parenting Data Hypervigilance",
+    "url": "/wiki/concepts/parentingdatahypervigilance/"
   },
   "PareshDave": {
     "title": "Paresh Dave",
@@ -29179,6 +29207,10 @@
     "title": "《全球上瘾》",
     "url": "/wiki/entities/quanqiushangyin/"
   },
+  "QuantifiedParenting": {
+    "title": "Quantified Parenting",
+    "url": "/wiki/concepts/quantifiedparenting/"
+  },
   "QuantileBalancing": {
     "title": "Quantile Balancing",
     "url": "/wiki/concepts/quantilebalancing/"
@@ -31182,6 +31214,10 @@
   "SantaClaraUniversity": {
     "title": "Santa Clara University",
     "url": "/wiki/entities/santaclarauniversity/"
+  },
+  "SapnaMaheshwari": {
+    "title": "Sapna Maheshwari",
+    "url": "/wiki/entities/sapnamaheshwari/"
   },
   "SarahBond": {
     "title": "Sarah Bond",
@@ -37811,6 +37847,10 @@
     "title": "Wholist",
     "url": "/wiki/entities/wholist/"
   },
+  "Whoop": {
+    "title": "Whoop",
+    "url": "/wiki/entities/whoop/"
+  },
   "WhyGreatnessCannotBePlanned": {
     "title": "《为什么伟大不能被计划》 / Why Greatness Cannot Be Planned",
     "url": "/wiki/entities/whygreatnesscannotbeplanned/"
@@ -41910,6 +41950,10 @@
   "tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128": {
     "title": "Substack CEO on the platform's new AI detector",
     "url": "/wiki/sources/tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128/"
+  },
+  "tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128": {
+    "title": "AI subscriptions are rapidly taking over baby nurseries",
+    "url": "/wiki/sources/tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

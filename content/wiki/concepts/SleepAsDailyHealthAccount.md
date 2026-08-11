@@ -2,11 +2,13 @@
 title: "Sleep As Daily Health Account"
 type: concept
 tags: [sleep, health, attention, recovery, midlife]
-sources: [ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]
-last_updated: 2026-08-07
+sources: [tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]
+last_updated: 2026-08-11
 ---
 
 # Sleep As Daily Health Account
+
+[[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] adds a child-monitoring contrast through [[Nanit]] sleep scores. Adult sleep tracking can be framed as a personal daily account, but a baby's score becomes part of [[QuantifiedParenting]] because parents interpret and act on another person's sleep data.
 
 Sleep as daily health account is [[zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]]'s most immediate account in [[MidlifeThreeAccounts]]. The source argues that cash flow may determine long-run autonomy and muscle may determine later-life capacity, but sleep shows its balance the next morning through attention, mood, decision quality, training recovery, and physical regulation.
 

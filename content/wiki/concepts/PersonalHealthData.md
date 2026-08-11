@@ -2,11 +2,13 @@
 title: "Personal Health Data"
 type: concept
 tags: [healthcare, data, ai, personal-infrastructure]
-sources: [e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tsr-s2-adoracheung-v5, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]
-last_updated: 2026-08-05
+sources: [tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tsr-s2-adoracheung-v5, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]
+last_updated: 2026-08-11
 ---
 
 # Personal Health Data
+
+[[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] adds the child-data boundary through [[Nanit]] sleep scores and planned child health interpretation. Unlike adult self-tracking, baby and child data is collected because parents choose a product, while the child is the person being measured. That makes [[ChildBedroomDataPrivacy]] and [[QuantifiedParenting]] necessary companions to the wiki's usual health-data ownership frame.
 
 Personal health data is the episode's frame for treating medical records, physical-exam reports, lab values, wearable-device signals, sleep, blood pressure, blood oxygen, glucose curves, medication history, and lifestyle context as a long-lived asset. In [[ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1]], [[JiangXun]] argues that ordinary people should preserve this data even when the immediate use case is unclear, because future AI systems may read it as context for trend discovery and doctor-facing risk review.
 

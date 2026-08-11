@@ -2,11 +2,13 @@
 title: "Helicopter Parenting"
 type: concept
 tags: [parenting, education, mental-health, children]
-sources: [137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
-last_updated: 2026-08-06
+sources: [tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, 137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
+last_updated: 2026-08-11
 ---
 
 # Helicopter Parenting
+
+[[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] adds a datafied monitoring version through [[AIBabyMonitors]] and [[ParentingDataHypervigilance]]. The episode does not equate all baby monitoring with helicopter parenting, but it shows how continuous sleep, breathing, heart, and bedroom data can make hovering easier and more emotionally compelling.
 
 Helicopter parenting is the episode's term for parents hovering over children through constant monitoring, intervention, reminders, planning, and performance pressure. In [[160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]], the hosts connect the term to Chinese middle-class education anxiety, "海淀妈妈" pressure, tiger-mother discipline, and a softer overprotective style that still treats the child as the parent's extended self.
 

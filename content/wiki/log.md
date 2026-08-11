@@ -7465,3 +7465,11 @@ Added source page for an Acquired episode on Disney from the 1984 crisis through
 ## [2026-08-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-11] ingest | AI subscriptions are rapidly taking over baby nurseries
+
+Added source page for a Marketplace Tech episode with New York Times reporter Sapna Maheshwari on AI baby monitors, Nanit and Hatch subscription features, sleep scores, parent chatbots, child-bedroom privacy, and hypervigilant parenting data. Created pages for Sapna Maheshwari, Nanit, Hatch (baby tech), Whoop, AI Baby Monitors, AI Parenting Advice, Quantified Parenting, Child Bedroom Data Privacy, Parental Judgment Outsourcing, and Parenting Data Hypervigilance; updated overview, index, Marketplace Tech, New York Times, ChatGPT, Claude, Apple Watch, Oura Ring, Wearable AI Assistant, Consumer AI Hardware Product Fit, AI Hardware Privacy Exchange, Personal Health Data, Sleep As Daily Health Account, Sleep Anxiety Loop, Helicopter Parenting, Cognitive Surrender, AI Advice Moral Outsourcing, and Comprehensive Consumer Data Privacy. No direct contradiction found; the source qualifies consumer AI hardware optimism by showing that baby-tech safety value, subscription advice, child data, and parental anxiety must be evaluated together.
+
+## [2026-08-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

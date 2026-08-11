@@ -2,11 +2,13 @@
 title: "New York Times"
 type: entity
 tags: [media, journalism]
-sources: [tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128, how-to-make-a-book-into-a-bestseller, would-you-trust-an-economist-with-your-economy, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128, how-to-make-a-book-into-a-bestseller, would-you-trust-an-economist-with-your-economy, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
+last_updated: 2026-08-11
 ---
 
 # New York Times
+
+[[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] adds the New York Times through [[SapnaMaheshwari]]'s reporting on AI baby monitors and parenting apps. In this source, the organization functions as the reporting context behind claims about [[Nanit]], [[HatchBaby|Hatch]], [[AIParentingAdvice]], [[ChildBedroomDataPrivacy]], and whether data-driven nursery products help parents or intensify vigilance.
 
 [[tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128]] adds the New York Times through [[KashmirHill]]'s reporting on [[AIPsychosis]] and long [[ChatGPT]] conversations. In this source, the organization functions as the reporting context for claims about chatbot validation loops, mental-health crises, OpenAI safety changes, and the caution needed around direct causation.
 

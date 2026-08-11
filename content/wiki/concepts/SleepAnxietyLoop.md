@@ -2,11 +2,13 @@
 title: "Sleep Anxiety Loop"
 type: concept
 tags: [sleep, anxiety, health, behavior]
-sources: [the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]
-last_updated: 2026-08-07
+sources: [tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]
+last_updated: 2026-08-11
 ---
 
 # Sleep Anxiety Loop
+
+[[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] adds the parent-side version through baby sleep scores, breathing bands, and heart monitors. The episode says monitoring can calm some parents while making others spiral, which turns [[QuantifiedParenting]] into a special case of sleep anxiety because the score belongs to the child but the worry is carried by the parent.
 
 Sleep anxiety loop is the pattern where worrying about sleep makes sleep worse. [[the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]] adds it through the episode's practical warning that people should not turn population sleep ranges into another source of insomnia.
 
