@@ -2,8 +2,8 @@
 title: "Health Insurance Planning"
 type: concept
 tags: [insurance, healthcare, family-finance]
-sources: [vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt, 86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw, 3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt, 159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201]
-last_updated: 2026-08-06
+sources: [177-riben-yibao-jijin-weihe-yao-zhichi-mianfei-de-guomin-tijian-lh06qonrzgjprqdwl8dygn4hoxpk, vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt, 86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw, 3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt, 159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201]
+last_updated: 2026-08-11
 ---
 
 # Health Insurance Planning
@@ -24,6 +24,8 @@ Health insurance planning is the episode's approach to critical illness, medical
 
 [[vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt]] adds a public-system contrast through [[Japan]]. [[HighCostMedicalExpenseBenefit|High-cost medical expense caps]] reduce the need to buy private coverage simply to prevent unlimited hospital bills, shifting supplemental insurance toward income loss, private rooms, advanced medical items outside ordinary reimbursement, and comfort or access gaps.
 
+[[177-riben-yibao-jijin-weihe-yao-zhichi-mianfei-de-guomin-tijian-lh06qonrzgjprqdwl8dygn4hoxpk]] adds a payer-behavior contrast. In [[Japan]], an insurer can be made responsible for [[PreventiveHealthScreening|screening]] and [[LifestyleDiseasePrevention|lifestyle-disease prevention]], not only reimbursement, so health-insurance planning at system level includes whether payers can organize checkups, guidance, and data feedback before illness becomes a claim.
+
 ## Key Claims
 - Critical illness insurance and medical insurance should not be treated as substitutes because one pays a defined sum while the other usually reimburses eligible expenses.
 - Policy terms must be read against medical reality; older critical illness policies may have claim triggers shaped by older treatment methods.
@@ -38,6 +40,7 @@ Health insurance planning is the episode's approach to critical illness, medical
 - Screening and underwriting can interact, so the order of coverage review and checkups may matter, especially when the source is explicitly discussing sponsor-linked insurance consultation.
 - Severe disease can create non-hospital cash needs, so reimbursement coverage and fixed critical-illness payouts answer different household problems.
 - Public systems with hard out-of-pocket caps can change private-insurance priorities; product fit depends on the surrounding [[JapaneseUniversalHealthCoverage|coverage system]], not only household risk tolerance.
+- Public payer design can also change prevention incentives: if an insurer must organize checkups and guidance, the insurance question includes upstream risk reduction as well as downstream bill payment.
 
 ## Connections
 - [[InsuranceRiskTransfer]] — broader frame for matching event, payout, and need.
@@ -52,3 +55,4 @@ Health insurance planning is the episode's approach to critical illness, medical
 - [[PreventiveHealthScreening]] and [[XiaoyusanInsurance|小雨伞]] - episode 70's sponsor-linked checkup and insurance-ordering context.
 - [[86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437]] - sponsor-linked critical-illness and medical-insurance distinction inside a cardiac-surgery episode.
 - [[HighCostMedicalExpenseBenefit]], [[JapaneseUniversalHealthCoverage]], and [[JapaneseHealthcareSystem]] - public insurance-cap contrast added by vol.120.
+- [[JapaneseSpecificHealthCheckups]], [[HealthInsurerPreventionAccountability]], and [[PreventiveCareCostSavingsUncertainty]] - episode 177's prevention-accountability and evidence caveat.

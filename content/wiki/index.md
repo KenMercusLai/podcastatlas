@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [177.日本医保基金为何要支持免费的国民体检？](sources/177-riben-yibao-jijin-weihe-yao-zhichi-mianfei-de-guomin-tijian-lh06qonrzgjprqdwl8dygn4hoxpk.md) — 起朱楼宴宾客 episode with 大卫翁 on Yokohama free health checks, ningen dock history, Japan's specific health checkups, insurer prevention accountability, lifestyle-disease guidance, weak cost-savings evidence, and China's weight-management policy turn.
 - [AI subscriptions are rapidly taking over baby nurseries](sources/tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128.md) — Marketplace Tech episode with Sapna Maheshwari on AI baby monitors, Nanit and Hatch subscription features, sleep scores, parental judgment outsourcing, child-bedroom privacy, and hypervigilant parenting data.
 - [Disney: The Renaissance and the Empire](sources/disney-the-renaissance-and-the-empire-1.md) — Acquired episode on Disney from the 1984 crisis through the Eisner, Wells, Katzenberg, and Iger eras, covering the Disney Renaissance, Pixar, ESPN, Disney+, streaming pressure, and parks.
 - [E248｜一个“催发货”AI要跑通260步，和阿里瓴羊彭新宇聊聊中国式FDE](sources/e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1.md) — 硅谷101 episode with Lingyang CEO Peng Xinyu on Chinese-style FDE, enterprise growth agents, the 260-step "催发货" workflow, data/process foundations, top-down ownership, and outcome-based enterprise AI deployment.
@@ -934,6 +935,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Hinohara Shigeaki / 日野原重明](entities/HinoharaShigeaki.md) — Japanese physician used by episode 177 as a symbolic founder figure for ningen dock, preventive medicine, and lifestyle-disease public health.
+- [National Health Commission of China / 国家卫健委](entities/NationalHealthCommissionChina.md) — Chinese public-health authority linked by episode 177 to obesity guidance, weight-management clinics, chronic-disease management, and active-health policy.
 - [Sapna Maheshwari](entities/SapnaMaheshwari.md) — New York Times reporter grounding Marketplace Tech's AI baby-monitor discussion through reporting and parent experience.
 - [Nanit](entities/Nanit.md) — Smart baby-monitor company used to examine sleep scores, AI parenting advice, subscription economics, and child-bedroom data privacy.
 - [Hatch (baby tech)](entities/HatchBaby.md) — Baby-tech product named as part of the paid sleep-tip, sleep-plan, and parent-chatbot upgrade layer.
@@ -6372,6 +6375,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Ningen Dock / 人间 Dock](concepts/NingenDock.md) — Japanese comprehensive-checkup tradition that begins as high-end systematic examination and later feeds broader preventive-screening culture.
+- [Japanese Specific Health Checkups / 日本特定健诊](concepts/JapaneseSpecificHealthCheckups.md) — Post-2008 insurer-governed screening and guidance workflow for lifestyle-disease and metabolic-syndrome risk.
+- [Health Insurer Prevention Accountability / 保险者预防责任](concepts/HealthInsurerPreventionAccountability.md) — Policy mechanism turning insurers from post-illness payers into prevention executors through checkups, guidance, data, and incentives.
+- [Preventive Care Cost-Savings Uncertainty / 预防医疗控费不确定性](concepts/PreventiveCareCostSavingsUncertainty.md) — Evidence caveat that prevention can improve health indicators without clearly reducing total medical spending.
+- [China Weight-Management Policy / 中国体重管理政策](concepts/ChinaWeightManagementPolicy.md) — China-facing chronic-disease and obesity-management policy turn read against Japan's more closed-loop checkup system.
 - [AI Baby Monitors](concepts/AIBabyMonitors.md) — Nursery systems combining cameras, sensors, and AI analysis, with clearer safety use cases and more contested advice/subscription layers.
 - [AI Parenting Advice](concepts/AIParentingAdvice.md) — App, monitor, and chatbot guidance for parental decisions such as infant sleep routines and plans.
 - [Quantified Parenting](concepts/QuantifiedParenting.md) — Score-driven child monitoring that imports adult wearable logic into parenting.

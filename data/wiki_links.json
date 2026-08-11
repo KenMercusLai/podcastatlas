@@ -695,6 +695,10 @@
     "title": "176.为什么越是吃肉，越要关注动物福利？",
     "url": "/wiki/sources/176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722/"
   },
+  "177-riben-yibao-jijin-weihe-yao-zhichi-mianfei-de-guomin-tijian-lh06qonrzgjprqdwl8dygn4hoxpk": {
+    "title": "177.日本医保基金为何要支持免费的国民体检？",
+    "url": "/wiki/sources/177-riben-yibao-jijin-weihe-yao-zhichi-mianfei-de-guomin-tijian-lh06qonrzgjprqdwl8dygn4hoxpk/"
+  },
   "177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036": {
     "title": "177.小时候的书，怎么就那么好看！",
     "url": "/wiki/sources/177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036/"
@@ -7686,6 +7690,10 @@
   "ChinaUnicom": {
     "title": "China Unicom",
     "url": "/wiki/entities/chinaunicom/"
+  },
+  "ChinaWeightManagementPolicy": {
+    "title": "China Weight-Management Policy / 中国体重管理政策",
+    "url": "/wiki/concepts/chinaweightmanagementpolicy/"
   },
   "ChinaYouthUnemployment": {
     "title": "China Youth Unemployment",
@@ -16351,6 +16359,10 @@
     "title": "Health Insurance Planning",
     "url": "/wiki/concepts/healthinsuranceplanning/"
   },
+  "HealthInsurerPreventionAccountability": {
+    "title": "Health Insurer Prevention Accountability / 保险者预防责任",
+    "url": "/wiki/concepts/healthinsurerpreventionaccountability/"
+  },
   "HealthcareAIInfrastructure": {
     "title": "Healthcare AI Infrastructure",
     "url": "/wiki/concepts/healthcareaiinfrastructure/"
@@ -16706,6 +16718,10 @@
   "HindsightBias": {
     "title": "Hindsight Bias / 后见之明偏差",
     "url": "/wiki/concepts/hindsightbias/"
+  },
+  "HinoharaShigeaki": {
+    "title": "Hinohara Shigeaki / 日野原重明",
+    "url": "/wiki/entities/hinoharashigeaki/"
   },
   "Hipmunk": {
     "title": "Hipmunk",
@@ -18846,6 +18862,10 @@
   "JapaneseSogoShosha": {
     "title": "Japanese Sogo Shosha / 日本综合商社",
     "url": "/wiki/concepts/japanesesogoshosha/"
+  },
+  "JapaneseSpecificHealthCheckups": {
+    "title": "Japanese Specific Health Checkups / 日本特定健诊",
+    "url": "/wiki/concepts/japanesespecifichealthcheckups/"
   },
   "JapaneseUniversalHealthCoverage": {
     "title": "Japanese Universal Health Coverage / 日本全民医保",
@@ -25043,6 +25063,10 @@
     "title": "National Goods Branding",
     "url": "/wiki/concepts/nationalgoodsbranding/"
   },
+  "NationalHealthCommissionChina": {
+    "title": "National Health Commission of China / 国家卫健委",
+    "url": "/wiki/entities/nationalhealthcommissionchina/"
+  },
   "NationalHealthcareSecurityAdministration": {
     "title": "National Healthcare Security Administration / 国家医保局",
     "url": "/wiki/entities/nationalhealthcaresecurityadministration/"
@@ -25526,6 +25550,10 @@
   "Ninety": {
     "title": "Ninety",
     "url": "/wiki/entities/ninety/"
+  },
+  "NingenDock": {
+    "title": "Ningen Dock / 人间 Dock",
+    "url": "/wiki/concepts/ningendock/"
   },
   "Nintendo": {
     "title": "Nintendo",
@@ -28374,6 +28402,10 @@
   "Prevagen": {
     "title": "Prevagen",
     "url": "/wiki/entities/prevagen/"
+  },
+  "PreventiveCareCostSavingsUncertainty": {
+    "title": "Preventive Care Cost-Savings Uncertainty / 预防医疗控费不确定性",
+    "url": "/wiki/concepts/preventivecarecostsavingsuncertainty/"
   },
   "PreventiveHealthScreening": {
     "title": "Preventive Health Screening",

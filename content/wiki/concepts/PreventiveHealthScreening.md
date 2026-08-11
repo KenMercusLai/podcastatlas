@@ -2,8 +2,8 @@
 title: "Preventive Health Screening"
 type: concept
 tags: [healthcare, preventive-health, screening, medical-literacy]
-sources: [vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]
-last_updated: 2026-07-23
+sources: [177-riben-yibao-jijin-weihe-yao-zhichi-mianfei-de-guomin-tijian-lh06qonrzgjprqdwl8dygn4hoxpk, vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]
+last_updated: 2026-08-11
 ---
 
 # Preventive Health Screening
@@ -16,6 +16,8 @@ The source also stresses the limits of self-detection. The body can compensate s
 
 [[vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt]] adds the [[Japan]] system-design version. Ningen dock-style checks and later metabolic guidance become part of [[LifestyleDiseasePrevention]]: screening is not only personal reassurance, but a way to move chronic-disease demand earlier in an aging public-insurance system.
 
+[[177-riben-yibao-jijin-weihe-yao-zhichi-mianfei-de-guomin-tijian-lh06qonrzgjprqdwl8dygn4hoxpk]] makes that Japanese branch more concrete through [[Yokohama|Yokohama]]'s municipal voucher and neighborhood-clinic workflow. It separates [[NingenDock|ningen dock]] history from [[JapaneseSpecificHealthCheckups|specific health checkups]]: the public-insurance version is narrower, insurer-governed, and useful only when checkup findings lead to risk stratification and follow-up guidance.
+
 ## Key Claims
 - Routine screening is useful because symptoms can arrive late, especially when compensation hides early damage.
 - More detected disease can reflect better diagnostic tools and longer life, not simply a worsening world.
@@ -24,6 +26,7 @@ The source also stresses the limits of self-detection. The body can compensate s
 - The episode's insurance-before-checkup reminder is sponsor-adjacent and should be treated as [[HealthInsurancePlanning]] context rather than universal financial advice.
 - Early detection goals can expose a product gap when the body location is hard to sample safely and existing tests lack accuracy.
 - In an aging system, screening can be a demand-management tool when it connects to follow-up, behavior change, and chronic-disease support.
+- Japan's specific health-checkup case shows that free screening is not enough; participation, guidance, insurer accountability, and evidence on outcomes decide whether the system becomes prevention or only report production.
 
 ## Connections
 - [[AtHomePreventiveHealth]] - adjacent service model for lower-friction testing and repeat measurement.
@@ -33,3 +36,4 @@ The source also stresses the limits of self-detection. The body can compensate s
 - [[OnlineSymptomSearchAnxiety]] - screening is a better outlet for concern than repeated search-based self-diagnosis.
 - [[OvarianCancerDiagnostics]], [[FallopianTubeAccessDiagnostics]], [[WomensHealthDiagnosticGap]], and [[MedicalDeviceClinicalValidation]] - women-health diagnostics branch added by The Social Radars.
 - [[LifestyleDiseasePrevention]], [[JapaneseHealthcareSystem]], and [[CommunityIntegratedCare]] - Japan healthcare demand-management branch added by vol.120.
+- [[NingenDock]], [[JapaneseSpecificHealthCheckups]], [[HealthInsurerPreventionAccountability]], and [[PreventiveCareCostSavingsUncertainty]] - Japan checkup-system branch added by episode 177.

@@ -2,8 +2,8 @@
 title: "Japanese Healthcare System / 日本医疗体系"
 type: concept
 tags: [healthcare, japan, insurance, hospitals, pharma]
-sources: [147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp, 137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7, vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt]
-last_updated: 2026-08-06
+sources: [177-riben-yibao-jijin-weihe-yao-zhichi-mianfei-de-guomin-tijian-lh06qonrzgjprqdwl8dygn4hoxpk, 147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp, 137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7, vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt]
+last_updated: 2026-08-11
 ---
 
 # Japanese Healthcare System / 日本医疗体系
@@ -16,6 +16,8 @@ The source's core value is comparative. [[DavidWeng|大卫翁]] reads [[Japan]] 
 
 [[147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp]] adds the ward-level and care-ethics version of the system. [[QiongQiong|琼琼]]'s Hokkaido nursing experience shows how [[JapaneseNoFamilyAttendantCare]], [[MultidisciplinaryHospitalCare]], [[MedicalSocialWorkDischargeCoordination]], nutrition support, bathing equipment, and function-based hospital roles make the insurance-and-policy system tangible in daily care.
 
+[[177-riben-yibao-jijin-weihe-yao-zhichi-mianfei-de-guomin-tijian-lh06qonrzgjprqdwl8dygn4hoxpk]] adds the checkup-and-insurer branch. Starting from a free [[Yokohama|Yokohama]] health exam, it shows how [[NingenDock|ningen dock]] history, [[JapaneseSpecificHealthCheckups]], [[HealthInsurerPreventionAccountability]], and data health plans make prevention part of the insurance system rather than a purely personal wellness habit.
+
 ## Key Claims
 - Healthcare supply has to include service capacity, drug supply, and insurance financing at the same time.
 - Demand management is not only rationing; prevention, screening, chronic-disease support, and out-of-pocket caps also shape patient behavior.
@@ -23,6 +25,7 @@ The source's core value is comparative. [[DavidWeng|大卫翁]] reads [[Japan]] 
 - The system trades away some direct access and emergency convenience in exchange for lower prices and more efficient ordinary care.
 - Episode 137 adds that healthcare protection can also function as fertility support when it reduces parents' fear of unpredictable child illness costs.
 - Episode 147 adds that the system's floor is visible in everyday ward labor: when family attendants are not the default, nursing, support work, social work, and discharge coordination have to be organized as system capacity.
+- Episode 177 adds that prevention becomes system capacity only when insurers, clinics, data infrastructure, employers, and guidance workflows are responsible for what happens after a health check.
 
 ## Connections
 - [[Japan]] and [[China]] - country comparison frame.
@@ -32,3 +35,4 @@ The source's core value is comparative. [[DavidWeng|大卫翁]] reads [[Japan]] 
 - [[DPCDRGPaymentReform]], [[JapaneseDrugPricingReform]], [[GenericDrugTrustRebuilding]], and [[PharmacistAsSecondDoctor]] - payment, drug, and professional-role branch.
 - [[JapaneseChildMedicalCostCoverage]], [[JapaneseChildbirthCostSupport]], and [[JapaneseFertilitySupportSystem]] - child and childbirth support branch added by episode 137.
 - [[JapaneseNoFamilyAttendantCare]], [[MultidisciplinaryHospitalCare]], [[MedicalSocialWorkDischargeCoordination]], [[CareSocialization]], and [[PatientDignityInDailyCare]] - ward-level and care-ethics branch added by episode 147.
+- [[NingenDock]], [[JapaneseSpecificHealthCheckups]], [[HealthInsurerPreventionAccountability]], and [[PreventiveCareCostSavingsUncertainty]] - preventive-checkup branch added by episode 177.

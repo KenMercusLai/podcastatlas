@@ -7466,9 +7466,17 @@ Added source page for an Acquired episode on Disney from the 1984 crisis through
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-11] ingest | 177.日本医保基金为何要支持免费的国民体检？
+
+Added source page for a 起朱楼宴宾客 episode by 大卫翁 on Yokohama's free health-check voucher, ningen dock history, Japan's post-2008 specific health checkups, insurer prevention accountability, lifestyle-disease and metabolic-syndrome guidance, data health plans, mixed participation and outcome evidence, and China's weight-management policy turn. Created pages for Hinohara Shigeaki / 日野原重明, National Health Commission of China / 国家卫健委, Ningen Dock, Japanese Specific Health Checkups, Health Insurer Prevention Accountability, Preventive Care Cost-Savings Uncertainty, and China Weight-Management Policy; updated overview, index, Japan, China, Yokohama, 起朱楼宴宾客, 大卫翁, Japanese Healthcare System, Japanese Universal Health Coverage, Preventive Health Screening, Lifestyle-Disease Prevention, Ministry of Health Labour and Welfare, and Health Insurance Planning. No direct contradiction found; the source reinforces Japan's preventive-health branch while qualifying claims that checkups and guidance reliably reduce total medical spending.
+
 ## [2026-08-11] ingest | AI subscriptions are rapidly taking over baby nurseries
 
 Added source page for a Marketplace Tech episode with New York Times reporter Sapna Maheshwari on AI baby monitors, Nanit and Hatch subscription features, sleep scores, parent chatbots, child-bedroom privacy, and hypervigilant parenting data. Created pages for Sapna Maheshwari, Nanit, Hatch (baby tech), Whoop, AI Baby Monitors, AI Parenting Advice, Quantified Parenting, Child Bedroom Data Privacy, Parental Judgment Outsourcing, and Parenting Data Hypervigilance; updated overview, index, Marketplace Tech, New York Times, ChatGPT, Claude, Apple Watch, Oura Ring, Wearable AI Assistant, Consumer AI Hardware Product Fit, AI Hardware Privacy Exchange, Personal Health Data, Sleep As Daily Health Account, Sleep Anxiety Loop, Helicopter Parenting, Cognitive Surrender, AI Advice Moral Outsourcing, and Comprehensive Consumer Data Privacy. No direct contradiction found; the source qualifies consumer AI hardware optimism by showing that baby-tech safety value, subscription advice, child data, and parental anxiety must be evaluated together.
+
+## [2026-08-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-11] lint | Wiki health check
 
