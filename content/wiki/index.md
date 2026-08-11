@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E248｜一个“催发货”AI要跑通260步，和阿里瓴羊彭新宇聊聊中国式FDE](sources/e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1.md) — 硅谷101 episode with Lingyang CEO Peng Xinyu on Chinese-style FDE, enterprise growth agents, the 260-step "催发货" workflow, data/process foundations, top-down ownership, and outcome-based enterprise AI deployment.
 - [如此打工 30 年：流水线上的面孔与时间](sources/ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme.md) — 面基 episode with 占老师 on 30 years in Dongguan manufacturing, factory discipline, worker photography, Pearl River Delta manufacturing transformation, automation, social-insurance gaps, and not giving up the self.
 - [Substack CEO on the platform's new AI detector](sources/tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128.md) — Marketplace Tech episode with Substack CEO Chris Best on Pangram-powered AI detection, creator process disclosure, false-positive risks, detector-driven writing incentives, and AI slop on LinkedIn.
 - [Under strAIn: breaking the British state](sources/under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271.md) — The Intelligence episode on AI-assisted citizens straining bureaucracy, child-abuse reporting versus Catholic confession privilege, and dating data showing the short-king meme has not shifted height norms.
@@ -931,6 +932,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [彭新宇 / Peng Xinyu](entities/PengXinyu.md) — Alibaba and Lingyang executive explaining Chinese-style FDE, enterprise growth agents, business-result delivery, and the AI/industry/data capability stack.
+- [瓴羊 / Lingyang](entities/Lingyang.md) — Alibaba-linked enterprise AI/data company used to ground Chinese-style FDE, growth-agent deployment, and outcome-based enterprise AI services.
 - [占老师 / Zhan Teacher](entities/ZhanTeacher.md) — Worker-photographer in Dongguan whose 30-year factory life and archive ground the 面基 episode.
 - [《如此打工30年》 / Working Like This for 30 Years](entities/RuciDagong30Nian.md) — Book/archive project built from worker photography, QQ posts, letters, surveys, and factory-life records.
 - [Dongguan / 东莞](entities/Dongguan.md) — Pearl River Delta manufacturing city used as the source setting for worker life, factory discipline, and industrial transformation.
@@ -6348,6 +6351,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese-Style FDE / 中国式 FDE](concepts/ChineseStyleFDE.md) — China-side FDE pattern where enterprise AI deployment often has to rebuild data, workflow, permission, and organizational foundations before agents can work.
+- [Enterprise Growth Agent / 企业级增长 Agent](concepts/EnterpriseGrowthAgent.md) — Lingyang frame for marketing, sales, customer-service, and operations agents evaluated by measurable growth, efficiency, and ROI outcomes.
 - [Worker Photographic Archive / 工人摄影档案](concepts/WorkerPhotographicArchive.md) — Insider archive method that turns ordinary factory life, images, documents, and routes into labor evidence.
 - [Pearl River Delta Manufacturing Transformation / 珠三角制造业变迁](concepts/PearlRiverDeltaManufacturingTransformation.md) — Worker-side history of Dongguan manufacturing from export assembly and global shocks to flexible production, automation, and small-factory fragmentation.
 - [Taylorist Factory Time / 泰勒制工厂时间](concepts/TayloristFactoryTime.md) — Factory time discipline that replaces seasonal autonomy with shifts, process decomposition, tracking, and bodily control.

@@ -2,8 +2,8 @@
 title: "Digital Employees"
 type: concept
 tags: [ai, enterprise-ai, workforce]
-sources: [tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
-last_updated: 2026-08-05
+sources: [tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv, e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1]
+last_updated: 2026-08-11
 ---
 
 # Digital Employees
@@ -30,6 +30,8 @@ Digital employees are the episode's frame for enterprise AI systems that behave 
 
 [[tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]] adds an OpenAI platform version through [[OpenAIFrontier]]. The episode uses "AI coworkers" language rather than "digital employees," but the underlying adoption issue is similar: companies have to define work, governance, human buy-in, compliance, liability, and risk before agents can be treated as workplace capacity.
 
+[[e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1]] adds [[Lingyang|瓴羊]]'s hiring analogy through [[PengXinyu|彭新宇]]. The source says AI implementation is less like installing software and more like hiring an employee who needs permissions, goals, company data,裁量权, and expert teachers before work can be trusted. Lingyang's "4+X" pattern treats marketing, sales, customer-service, and operations agents as preset roles that must absorb each enterprise's own context.
+
 ## Key Claims
 - Enterprise AI needs company context, workflow knowledge, data access, and workbench integration before it can create practical value.
 - AI workers need "teachers" inside the business, such as excellent store managers, salespeople, nutrition coaches, or property managers.
@@ -48,6 +50,7 @@ Digital employees are the episode's frame for enterprise AI systems that behave 
 - The OpenAI Frontier segment adds that model companies may need consulting partners to turn AI labor metaphors into governed workplace deployment.
 - Marketplace Tech's workplace digital-twin case adds that some AI "workers" are not generic labor units but context-bearing proxies for specific people, making consent, transparency, and escalation boundaries central.
 - The Kuse source adds that digital employees may need their own identity, tools, salary-like pricing, enterprise memory, and security tests before they can safely replace or absorb parts of human job scope.
+- Lingyang adds that preset agents should be benchmarked and coached by the company's best human workers before production rollout.
 
 ## Connections
 - [[JoshBersin]], [[WorkplaceDigitalTwins]], [[RecordedMeetingAnalysis]], and [[WorkplaceAITransparency]] — person-specific workplace-agent boundary added by Marketplace Tech.
@@ -66,3 +69,4 @@ Digital employees are the episode's frame for enterprise AI systems that behave 
 - [[YuYi]], [[CangShifu]], [[OnePersonCompany]], and [[HumanAgentCollaboration]] — S10E18's solo-company and partner-versus-tool contrast.
 - [[OpenAIFrontier]], [[AICoworkers]], [[BusinessLedAITransformation]], and [[EnterpriseAgentGovernance]] — Marketplace Tech's AI coworker rollout branch.
 - [[Kuse]], [[Junior]], [[OpenClawForTeams]], [[EnterpriseAgentMemory]], and [[AgentEvaluationBenchmarks]] — AI employee product case added by the Yuhao source.
+- [[Lingyang|瓴羊]], [[PengXinyu|彭新宇]], [[EnterpriseGrowthAgent]], [[ChineseStyleFDE]], and [[EnterpriseOperationalMemory]] — enterprise-growth agent and employee-onboarding branch added by Silicon Valley 101 E248.

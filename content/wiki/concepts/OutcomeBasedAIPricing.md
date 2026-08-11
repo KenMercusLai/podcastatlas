@@ -2,8 +2,8 @@
 title: "Outcome-Based AI Pricing"
 type: concept
 tags: [ai, pricing, enterprise-ai]
-sources: [tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
-last_updated: 2026-08-08
+sources: [tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1, e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1]
+last_updated: 2026-08-11
 ---
 
 # Outcome-Based AI Pricing
@@ -26,6 +26,8 @@ Outcome-based AI pricing is the commercial pattern where AI work is sold around 
 
 [[ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]] adds the ERP incumbent version through [[SAP]]. [[YuanXin]] says AI agents can weaken seat-based SaaS logic because fewer human users may touch the software directly, pushing enterprise software vendors toward consumption-based pricing, result-linked pricing, or other value measures.
 
+[[e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1]] adds [[Lingyang|瓴羊]]'s customer-service and growth-agent version. [[PengXinyu|彭新宇]] says support scenarios can be priced against labor substitution or workload, while marketing and投手 scenarios can share the uplift over human conversion or ROI baselines. The source also emphasizes MVP/minimum-value validation over POC when the buyer needs total-ledger results.
+
 [[e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70]] adds [[Axio]]'s hybrid pricing case. [[ZhangKuo]] says agent tools and partner subagents can be token or usage based, while the marketplace side can still earn from performance advertising, services, payment, guarantees, logistics, and small take rates when the agent drives real transactions.
 
 [[women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]] adds the salary-like [[Junior]] case. [[Kuse]] considered charging per AI employee, such as $2,000 or $5,000 per month plus excess token credits, because the buyer reference shifts from software access to the labor budget for a role-bearing worker.
@@ -44,6 +46,7 @@ Outcome-based AI pricing is the commercial pattern where AI work is sold around 
 - Responna adds that outcome pricing can reveal budget that was invisible when the product was framed as software access.
 - Marketplace Tech adds that agent-heavy workplaces can break per-seat SaaS math even when the buyer still relies on enterprise software.
 - SAP adds that the pricing shift can coexist with [[ERPTrustMoat]]: business-critical software may retain trust/data/process leverage while still losing old per-seat pricing logic.
+- The Lingyang source adds that customers may tolerate high token bills if the total business ledger works, but will resist AI projects that cannot prove measurable value.
 - E231 adds that token consumption is a weak success metric by itself; B2B agents should be judged by useful designs, accepted tasks, completed transactions, retention, and value per token.
 - Junior adds that "salary" pricing can make sense when the AI unit has role identity, work accounts, responsibilities, and ongoing company context, but the vendor still has to manage variable token exposure.
 
@@ -64,3 +67,4 @@ Outcome-based AI pricing is the commercial pattern where AI work is sold around 
 - [[Axio]], [[B2BToA2A]], [[AgenticB2BSourcing]], [[AgenticCommerce]], and [[AIInferenceCostStructure]] — hybrid usage, marketplace, and value-per-token case added by E231.
 - [[Kuse]], [[Junior]], [[DigitalEmployees]], and [[AIInferenceCostStructure]] — salary-like AI employee pricing case added by the Yuhao source.
 - [[SAP]], [[EnterpriseResourcePlanning]], [[ERPTrustMoat]], and [[ResultAsAService]] — ERP incumbent pricing pressure added by LateTalk.
+- [[Lingyang|瓴羊]], [[PengXinyu|彭新宇]], [[EnterpriseGrowthAgent]], [[ContactCenterAI]], and [[BusinessLedAITransformation]] — labor-substitution and growth-uplift pricing branch added by Silicon Valley 101 E248.

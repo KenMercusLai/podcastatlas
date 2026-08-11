@@ -7449,3 +7449,11 @@ Added source page for a 面基 episode with 占老师 on 30-plus years of work, 
 ## [2026-08-10] lint | Wiki health check
 
 Ran health before lint; health scanned 10,612 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 10,612 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`; contradiction, stale-content, data-gap, and concept-depth checks did not complete. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-11] ingest | E248｜一个“催发货”AI要跑通260步，和阿里瓴羊彭新宇聊聊中国式FDE
+
+Added source page for a 硅谷101 episode with Lingyang CEO 彭新宇 on Chinese-style FDE and enterprise growth agents. Created pages for 彭新宇, 瓴羊, Chinese-style FDE, and Enterprise Growth Agent; updated overview, index, Silicon Valley 101, Alibaba, Forward Deployed Engineer, Business-Led AI Transformation, Enterprise Data Activation, Enterprise Operational Memory, China Enterprise AI System Debt, Contact Center AI, Outcome-Based AI Pricing, and Digital Employees. No direct contradiction found; the source reinforces prior FDE realism while adding a China-specific qualification: enterprise agents often require data/process foundation work, expert coaching, permission design, and top-down business ownership before model capability creates measurable results.
+
+## [2026-08-11] lint | Wiki health check
+
+Ran health before lint; health scanned 10,617 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 10,617 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`; contradiction, stale-content, data-gap, and concept-depth checks did not complete. Report returned in-session; `wiki/lint-report.md` was not saved.

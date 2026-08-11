@@ -7807,6 +7807,10 @@
     "title": "Chinese Structured Fund / 中国分级基金",
     "url": "/wiki/concepts/chinesestructuredfund/"
   },
+  "ChineseStyleFDE": {
+    "title": "Chinese-Style FDE / 中国式 FDE",
+    "url": "/wiki/concepts/chinesestylefde/"
+  },
   "ChineseSuperLeague": {
     "title": "中国足球超级联赛 / Chinese Super League",
     "url": "/wiki/entities/chinesesuperleague/"
@@ -12138,6 +12142,10 @@
   "EnterpriseFirstProductFit": {
     "title": "Enterprise-First Product Fit",
     "url": "/wiki/concepts/enterprisefirstproductfit/"
+  },
+  "EnterpriseGrowthAgent": {
+    "title": "Enterprise Growth Agent / 企业级增长 Agent",
+    "url": "/wiki/concepts/enterprisegrowthagent/"
   },
   "EnterpriseOperationalMemory": {
     "title": "Enterprise Operational Memory",
@@ -21459,6 +21467,10 @@
     "title": "Linguistic Relativity",
     "url": "/wiki/concepts/linguisticrelativity/"
   },
+  "Lingyang": {
+    "title": "瓴羊 / Lingyang",
+    "url": "/wiki/entities/lingyang/"
+  },
   "LinkedIn": {
     "title": "LinkedIn",
     "url": "/wiki/entities/linkedin/"
@@ -27118,6 +27130,10 @@
   "PengWenjun": {
     "title": "彭文君",
     "url": "/wiki/entities/pengwenjun/"
+  },
+  "PengXinyu": {
+    "title": "彭新宇 / Peng Xinyu",
+    "url": "/wiki/entities/pengxinyu/"
   },
   "PennState": {
     "title": "Penn State",
@@ -40350,6 +40366,10 @@
   "e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668": {
     "title": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
     "url": "/wiki/sources/e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668/"
+  },
+  "e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1": {
+    "title": "E248｜一个“催发货”AI要跑通260步，和阿里瓴羊彭新宇聊聊中国式FDE",
+    "url": "/wiki/sources/e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1/"
   },
   "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0": {
     "title": "E42 孟岩对话韦青：沉默的主角",
