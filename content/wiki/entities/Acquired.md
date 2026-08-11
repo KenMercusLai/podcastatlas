@@ -2,8 +2,8 @@
 title: "Acquired"
 type: entity
 tags: [podcast, business-history, media]
-sources: [the-walt-disney-company-1, formula-1-1, vanguard-1, costco-1, rolex-1, the-nfl-1, ferrari-1]
-last_updated: 2026-08-04
+sources: [disney-the-renaissance-and-the-empire-1, the-walt-disney-company-1, formula-1-1, vanguard-1, costco-1, rolex-1, the-nfl-1, ferrari-1]
+last_updated: 2026-08-11
 ---
 
 # Acquired
@@ -11,6 +11,8 @@ last_updated: 2026-08-04
 Acquired is the business-history podcast/source context for [[the-walt-disney-company-1]], [[formula-1-1]], [[vanguard-1]], [[costco-1]], [[rolex-1]], [[the-nfl-1]], and [[ferrari-1]]. Across these ingested episodes, the show treats companies, leagues, financial institutions, retailers, and luxury brands as systems where rights, distribution, financing, operating control, governance, and demand reinforce one another.
 
 The Disney episode adds a media-strategy branch to the wiki. Its main frame is that [[WaltDisney]] and [[RoyDisney]] built durable value by linking characters, features, merchandise, records, television, parks, rereleases, and distribution into an [[EntertainmentIPFlywheel]].
+
+The Disney Renaissance and Empire episode extends that branch into the [[MichaelEisner]] and [[BobIger]] eras. Its main frame is that the same flywheel can break, recover, and be disrupted again: [[DisneyRenaissance]] and [[Pixar]] repaired the creative core, [[ESPNAffiliateFeeModel|ESPN affiliate fees]] funded expansion, and [[DisneyPlus|Disney+]] forced Disney into a less forgiving streaming model.
 
 The Formula One episode adds a sports-media branch. Its main frame is that [[BernieEcclestone]] centralized a fragmented [[FormulaOne]] business through team commitments, promoter economics, and [[BroadcastCentralization]], while [[LibertyMedia]] later improved [[LeagueStakeholderAlignment]], [[DriveToSurvive]] storytelling, U.S. growth, and [[CostCapEconomics]].
 
@@ -26,6 +28,7 @@ The Ferrari episode adds a luxury-motorsport branch. Its main frame is that [[Fe
 
 ## Connections
 - [[the-walt-disney-company-1]] - ingested episode.
+- [[disney-the-renaissance-and-the-empire-1]] - ingested Disney sequel episode.
 - [[formula-1-1]] - ingested episode.
 - [[vanguard-1]] - ingested episode.
 - [[costco-1]] - ingested episode.
@@ -33,6 +36,7 @@ The Ferrari episode adds a luxury-motorsport branch. Its main frame is that [[Fe
 - [[the-nfl-1]] - ingested episode.
 - [[ferrari-1]] - ingested episode.
 - [[TheWaltDisneyCompany]], [[WaltDisney]], and [[RoyDisney]] - main company and founder pair.
+- [[RoyEDisney]], [[MichaelEisner]], [[FrankWells]], [[JeffreyKatzenberg]], [[BobIger]], [[Pixar]], and [[DisneyPlus]] - Disney sequel leadership, animation, and streaming branch.
 - [[FormulaOne]], [[LibertyMedia]], [[BernieEcclestone]], and [[FormulaOneGroup]] - sports-media business case.
 - [[Vanguard]], [[JohnBogle]], [[WellingtonManagement]], [[Fidelity]], [[StateStreet]], and [[BlackRock]] - finance and asset-management case.
 - [[EntertainmentIPFlywheel]], [[IPOwnership]], and [[ArtCommerceIntegration]] - primary analysis themes.
@@ -46,3 +50,4 @@ The Ferrari episode adds a luxury-motorsport branch. Its main frame is that [[Fe
 - [[Ferrari]], [[EnzoFerrari]], [[ScuderiaFerrari]], [[LucaDiMontezemolo]], [[SergioMarchionne]], [[BenedettoVigna]], and [[Tifosi]] - Ferrari company, founder, racing, leadership, and fan-community branch.
 - [[LuxuryBrandAsSportsTeam]], [[RacingHeritageBrandMoat]], [[MakeToOrderLuxuryManufacturing]], [[AutomotiveCollectorEconomics]], [[HaloProductStrategy]], [[LuxuryCommunityPyramid]], [[PublicMarketLuxuryGrowthTension]], and [[FunctionalAlibi]] - Ferrari analysis themes.
 - [[DistributionLedProductBuilding]] and [[ProductLedWillingnessToPay]] - broader wiki concepts reinforced by the episode.
+- [[DisneyRenaissance]], [[CreativeCoreRenewal]], [[ESPNAffiliateFeeModel]], [[StreamingContentTreadmill]], and [[ThemeParkResortEconomics]] - Disney sequel analysis themes.

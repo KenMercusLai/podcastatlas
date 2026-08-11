@@ -2,8 +2,8 @@
 title: "ABC"
 type: entity
 tags: [television, media, distribution]
-sources: [the-walt-disney-company-1, the-nfl-1]
-last_updated: 2026-08-04
+sources: [disney-the-renaissance-and-the-empire-1, the-walt-disney-company-1, the-nfl-1]
+last_updated: 2026-08-11
 ---
 
 # ABC
@@ -14,8 +14,11 @@ The Disneyland television show promoted the coming park and Disney's film catalo
 
 [[the-nfl-1]] adds ABC as a sports-media node. The episode says the [[AmericanFootballLeague|AFL]] signed a league-wide ABC deal before playing a game, and later credits [[RooneArledge]] and [[PeteRozelle]] with turning [[MondayNightFootball]] on ABC into a prime-time football event.
 
+[[disney-the-renaissance-and-the-empire-1]] adds ABC's later return to Disney through the [[CapitalCitiesABC]] acquisition. In this second Disney arc, the important asset is not only the broadcast network but [[ESPN]], whose cable affiliate fees help finance the modern Disney empire.
+
 ## Connections
 - [[WaltDisney]] and [[TheWaltDisneyCompany]] - creative partner and company.
 - [[Disneyland]] - project financed and promoted through ABC.
 - [[RooneArledge]], [[PeteRozelle]], [[AmericanFootballLeague|AFL]], and [[MondayNightFootball]] - sports-media branch added by Acquired.
 - [[EntertainmentIPFlywheel]], [[ThemeParkAsMediaPlatform]], [[SportsMediaRights]], [[LiveSportsStreamingTransition]], and [[VerticalMediaDistribution]] - strategic concepts illustrated by the deals.
+- [[CapitalCitiesABC]], [[ESPN]], [[ESPNAffiliateFeeModel]], and [[StreamingContentTreadmill]] - cable-bundle economics and later streaming pressure.

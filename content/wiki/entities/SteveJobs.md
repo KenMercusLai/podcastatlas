@@ -2,8 +2,8 @@
 title: "Steve Jobs"
 type: entity
 tags: [person, founder, apple, product]
-sources: [we-almost-had-a-smartphone-in-the-90s-why-did-it-fail, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
-last_updated: 2026-08-07
+sources: [disney-the-renaissance-and-the-empire-1, we-almost-had-a-smartphone-in-the-90s-why-did-it-fail, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
+last_updated: 2026-08-11
 ---
 
 # Steve Jobs
@@ -22,11 +22,14 @@ The source does not dispute Jobs's centrality to [[Apple]] or [[IPhone]]. Instea
 
 [[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds Jobs as a mentor figure for [[DavidEllison]]. The episode says Jobs challenged Ellison to think less about acting or buying screen time and more about whether he could build a [[Skydance|Skydance]]-like company that might reach Pixar-level seriousness inside Hollywood.
 
+[[disney-the-renaissance-and-the-empire-1]] adds Jobs as the owner and negotiator who turns [[Pixar]] from a computer graphics group into a public company with leverage over [[TheWaltDisneyCompany]]. The source makes him central to the Disney-Pixar deal: he buys the group from [[GeorgeLucas]], funds Pixar through its hard years, takes it public after Toy Story, and later sells to [[BobIger]] for Disney stock while becoming Disney's largest shareholder.
+
 ## Source Position
 - Jobs represents the Apple of product myth, founder charisma, and "Think Different" symbolism.
 - The episode uses Jobs mainly to explain why Cook is often judged unfairly by the wrong metric.
 - Cook's contribution is framed as less spectacular but more systematic: values embedded into product, supplier, legal, and policy systems.
 - The Dropbox source uses Jobs as the strategic voice of platform ownership: a great product may still be exposed if the OS owner can absorb the category.
+- The Disney sequel source uses Jobs as Pixar's capital and negotiating force: Pixar's creative culture mattered, but Jobs gave it independence, leverage, and a post-founder home inside Disney.
 
 ## Connections
 - [[Apple]] — company shaped first by Jobs's product era and then Cook's institutional era.
@@ -38,3 +41,4 @@ The source does not dispute Jobs's centrality to [[Apple]] or [[IPhone]]. Instea
 - [[Dropbox]], [[DrewHouston]], [[IncumbentPlatformPressure]], and [[PlatformDependencyRisk]] - file-sync platform warning added by The Social Radars.
 - [[JonyIve]], [[FounderMode]], and [[FounderProximity]] - collaboration-versus-micromanagement example added by the YC offsite source.
 - [[DavidEllison]], [[Skydance]], and [[EntertainmentIPFlywheel]] - media-company-building prompt added by 商业就是这样.
+- [[Pixar]], [[JohnLasseter]], [[EdCatmull]], [[GeorgeLucas]], [[BobIger]], and [[CreativeCoreRenewal]] - Disney-Pixar branch added by Acquired.

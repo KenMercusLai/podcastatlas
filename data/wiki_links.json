@@ -4683,6 +4683,10 @@
     "title": "B.A.I Capital",
     "url": "/wiki/entities/baicapital/"
   },
+  "BAMTech": {
+    "title": "BAMTech",
+    "url": "/wiki/entities/bamtech/"
+  },
   "BASES": {
     "title": "BASES",
     "url": "/wiki/entities/bases/"
@@ -5683,6 +5687,14 @@
     "title": "Bob Bozeman",
     "url": "/wiki/entities/bobbozeman/"
   },
+  "BobChapek": {
+    "title": "Bob Chapek",
+    "url": "/wiki/entities/bobchapek/"
+  },
+  "BobIger": {
+    "title": "Bob Iger",
+    "url": "/wiki/entities/bobiger/"
+  },
   "BobLewis": {
     "title": "Bob Lewis",
     "url": "/wiki/entities/boblewis/"
@@ -6570,6 +6582,10 @@
   "CapitalAccountInvestmentRestrictions": {
     "title": "Capital Account Investment Restrictions",
     "url": "/wiki/concepts/capitalaccountinvestmentrestrictions/"
+  },
+  "CapitalCitiesABC": {
+    "title": "Capital Cities/ABC",
+    "url": "/wiki/entities/capitalcitiesabc/"
   },
   "CapitalConversionLoop": {
     "title": "Capital Conversion Loop / 资本转换循环",
@@ -9207,6 +9223,10 @@
     "title": "Creative Chinese Cuisine / 创意中餐",
     "url": "/wiki/concepts/creativechinesecuisine/"
   },
+  "CreativeCoreRenewal": {
+    "title": "Creative Core Renewal",
+    "url": "/wiki/concepts/creativecorerenewal/"
+  },
   "CreativeLaborAIBacklash": {
     "title": "Creative Labor AI Backlash",
     "url": "/wiki/concepts/creativelaboraibacklash/"
@@ -10811,6 +10831,18 @@
     "title": "Discretionary Insurance Payment",
     "url": "/wiki/concepts/discretionaryinsurancepayment/"
   },
+  "DisneyPlus": {
+    "title": "Disney+",
+    "url": "/wiki/entities/disneyplus/"
+  },
+  "DisneyRenaissance": {
+    "title": "Disney Renaissance",
+    "url": "/wiki/concepts/disneyrenaissance/"
+  },
+  "DisneyVaultHomeVideoEconomics": {
+    "title": "Disney Vault Home Video Economics",
+    "url": "/wiki/concepts/disneyvaulthomevideoeconomics/"
+  },
   "Disneyland": {
     "title": "Disneyland",
     "url": "/wiki/entities/disneyland/"
@@ -11395,6 +11427,10 @@
     "title": "ESPN",
     "url": "/wiki/entities/espn/"
   },
+  "ESPNAffiliateFeeModel": {
+    "title": "ESPN Affiliate Fee Model",
+    "url": "/wiki/concepts/espnaffiliatefeemodel/"
+  },
   "ETF7709HK": {
     "title": "7709.HK / Two-Times Long SK Hynix ETF",
     "url": "/wiki/entities/etf7709hk/"
@@ -11574,6 +11610,10 @@
   "Ecuador": {
     "title": "Ecuador",
     "url": "/wiki/entities/ecuador/"
+  },
+  "EdCatmull": {
+    "title": "Ed Catmull",
+    "url": "/wiki/entities/edcatmull/"
   },
   "EdMiliband": {
     "title": "Ed Miliband",
@@ -14158,6 +14198,10 @@
   "FrankDoel": {
     "title": "Frank Doel / 弗兰克·多尔",
     "url": "/wiki/entities/frankdoel/"
+  },
+  "FrankWells": {
+    "title": "Frank Wells",
+    "url": "/wiki/entities/frankwells/"
   },
   "Frankenstein": {
     "title": "Frankenstein / 《弗兰肯斯坦》",
@@ -17235,6 +17279,10 @@
     "title": "Huizhou Prefecture / 徽州",
     "url": "/wiki/entities/huizhouprefecture/"
   },
+  "Hulu": {
+    "title": "Hulu",
+    "url": "/wiki/entities/hulu/"
+  },
   "HumanAgencyUnderAI": {
     "title": "Human Agency Under AI",
     "url": "/wiki/concepts/humanagencyunderai/"
@@ -18899,6 +18947,10 @@
     "title": "Jeffrey Hollender",
     "url": "/wiki/entities/jeffreyhollender/"
   },
+  "JeffreyKatzenberg": {
+    "title": "Jeffrey Katzenberg",
+    "url": "/wiki/entities/jeffreykatzenberg/"
+  },
   "JeffreyWang": {
     "title": "Jeffrey Wang",
     "url": "/wiki/entities/jeffreywang/"
@@ -19450,6 +19502,10 @@
   "JohnKennethGalbraith": {
     "title": "John Kenneth Galbraith",
     "url": "/wiki/entities/johnkennethgalbraith/"
+  },
+  "JohnLasseter": {
+    "title": "John Lasseter",
+    "url": "/wiki/entities/johnlasseter/"
   },
   "JohnLocke": {
     "title": "John Locke / 约翰·洛克",
@@ -22115,6 +22171,10 @@
     "title": "Lucas Drone",
     "url": "/wiki/entities/lucasdrone/"
   },
+  "Lucasfilm": {
+    "title": "Lucasfilm",
+    "url": "/wiki/entities/lucasfilm/"
+  },
   "LuciusCorneliusSulla": {
     "title": "Lucius Cornelius Sulla / 苏拉",
     "url": "/wiki/entities/luciuscorneliussulla/"
@@ -22983,6 +23043,10 @@
     "title": "Marvel Cinematic Universe / 漫威宇宙",
     "url": "/wiki/entities/marvelcinematicuniverse/"
   },
+  "MarvelEntertainment": {
+    "title": "Marvel Entertainment / Marvel Studios",
+    "url": "/wiki/entities/marvelentertainment/"
+  },
   "MaryAnnNichols": {
     "title": "Mary Ann Nichols",
     "url": "/wiki/entities/maryannnichols/"
@@ -23686,6 +23750,10 @@
   "MichaelCoppenheifer": {
     "title": "Michael Coppenheifer",
     "url": "/wiki/entities/michaelcoppenheifer/"
+  },
+  "MichaelEisner": {
+    "title": "Michael Eisner",
+    "url": "/wiki/entities/michaeleisner/"
   },
   "MichaelFoot": {
     "title": "Michael Foot / 迈克尔·富特",
@@ -27611,6 +27679,10 @@
     "title": "Pix",
     "url": "/wiki/entities/pix/"
   },
+  "Pixar": {
+    "title": "Pixar",
+    "url": "/wiki/entities/pixar/"
+  },
   "PlaceBasedAntiPovertyPolicy": {
     "title": "Place-Based Anti-Poverty Policy",
     "url": "/wiki/concepts/placebasedantipovertypolicy/"
@@ -30614,6 +30686,10 @@
   "RoyDisney": {
     "title": "Roy Disney",
     "url": "/wiki/entities/roydisney/"
+  },
+  "RoyEDisney": {
+    "title": "Roy E. Disney",
+    "url": "/wiki/entities/royedisney/"
   },
   "RoyalMail": {
     "title": "Royal Mail",
@@ -33771,6 +33847,10 @@
     "title": "Streaming Consolidation",
     "url": "/wiki/concepts/streamingconsolidation/"
   },
+  "StreamingContentTreadmill": {
+    "title": "Streaming Content Treadmill",
+    "url": "/wiki/concepts/streamingcontenttreadmill/"
+  },
   "StreamingPlatformBundling": {
     "title": "Streaming Platform Bundling",
     "url": "/wiki/concepts/streamingplatformbundling/"
@@ -35202,6 +35282,10 @@
   "ThemeParkAsMediaPlatform": {
     "title": "Theme Park As Media Platform",
     "url": "/wiki/concepts/themeparkasmediaplatform/"
+  },
+  "ThemeParkResortEconomics": {
+    "title": "Theme Park Resort Economics",
+    "url": "/wiki/concepts/themeparkresorteconomics/"
   },
   "TheodoreHook": {
     "title": "Theodore Hook",
@@ -40210,6 +40294,10 @@
   "diary-of-a-wnba-negotiator": {
     "title": "Diary of a WNBA negotiator",
     "url": "/wiki/sources/diary-of-a-wnba-negotiator/"
+  },
+  "disney-the-renaissance-and-the-empire-1": {
+    "title": "Disney: The Renaissance and the Empire",
+    "url": "/wiki/sources/disney-the-renaissance-and-the-empire-1/"
   },
   "do-prediction-market-bettors-make-anything-better": {
     "title": "Do prediction market bettors make anything better?",

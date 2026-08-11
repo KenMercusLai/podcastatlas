@@ -2,8 +2,8 @@
 title: "Theme Park As Media Platform"
 type: concept
 tags: [media, retail, theme-parks, distribution]
-sources: [the-walt-disney-company-1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
-last_updated: 2026-07-10
+sources: [disney-the-renaissance-and-the-empire-1, the-walt-disney-company-1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
+last_updated: 2026-08-11
 ---
 
 # Theme Park As Media Platform
@@ -14,12 +14,15 @@ The concept extends [[ExperientialRetail]]. Build-A-Bear makes the store visit p
 
 [[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]] adds [[TokyoDisneyResort]] as the long-term operation version. The episode's locker example shows that a theme park can monetize small convenience details when merchandise, crowd flow, and guest behavior have been designed deeply enough.
 
+[[disney-the-renaissance-and-the-empire-1]] adds the resort-scale version through [[ThemeParkResortEconomics]]. Under [[MichaelEisner]], Walt Disney World becomes a broader vacation system of hotels, added parks, vacation ownership, restaurants, shopping, and longer stays, making physical experience a larger profit pool as media distribution becomes more volatile.
+
 ## Key Claims
 - A park can be a distribution channel for films, characters, music, merchandise, and future media demand.
 - Longer guest time can increase per-capita spending when the experience remains emotionally rewarding.
 - Physical immersion strengthens [[ProductLedWillingnessToPay]] by making the customer feel inside the product world.
 - Park economics still require operational discipline: financing, site selection, staffing, safety, capacity, maintenance, and repeat novelty.
 - Secondary revenue can be an outcome of experience quality when visitors willingly stay, shop, carry goods, eat, and solve small practical problems inside the park.
+- Resort economics extend the media-platform idea by capturing more of the family trip: lodging, multi-day attendance, food, merchandise, cruises, and higher profit per guest.
 
 ## Connections
 - [[Disneyland]] and [[WaltDisneyWorld]] - source cases.
@@ -27,3 +30,4 @@ The concept extends [[ExperientialRetail]]. Build-A-Bear makes the store visit p
 - [[WaltDisney]], [[RoyDisney]], and [[WEDEnterprises]] - creative, financial, and design context.
 - [[EntertainmentIPFlywheel]], [[ExperientialRetail]], and [[DistributionLedProductBuilding]] - adjacent concepts.
 - [[ABC]] and [[VerticalMediaDistribution]] - television and promotion context.
+- [[ThemeParkResortEconomics]], [[MichaelEisner]], [[DisneyPlus]], and [[StreamingContentTreadmill]] - resort-profit branch added by the Disney sequel.

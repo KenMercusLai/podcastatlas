@@ -2,8 +2,8 @@
 title: "Live Sports Streaming Transition"
 type: concept
 tags: [sports, media, streaming, distribution]
-sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, the-nfl-1]
-last_updated: 2026-08-07
+sources: [disney-the-renaissance-and-the-empire-1, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, the-nfl-1]
+last_updated: 2026-08-11
 ---
 
 # Live Sports Streaming Transition
@@ -14,12 +14,16 @@ Live sports streaming transition is the shift from broadcast and cable-dominated
 
 The source argues that the [[NationalFootballLeague|NFL]] benefits because live football remains scarce mass-audience programming. Streaming does not weaken the league if digital distributors compete for the same attention and the league can keep production and distribution burden mostly outside its own organization.
 
+[[disney-the-renaissance-and-the-empire-1]] adds the ESPN-side pressure. [[ESPN]] remains strong at sports programming, but the source argues that cord-cutting, rising rights costs, and tech-company bidding make the old [[ESPNAffiliateFeeModel]] less automatic. Direct ESPN streaming and bundles with [[DisneyPlus|Disney+]] and [[Hulu]] become a way to preserve sports demand after the cable bundle weakens.
+
 ## Key Claims
 - Live sports can help streaming platforms acquire, retain, and habituate subscribers.
 - The rights owner can use old and new distributors against one another when the live inventory remains scarce.
 - Streaming success depends on the sport already having reliable demand, clear scheduling, and a strong [[SportsEntertainmentFlywheel]].
 - A league can avoid becoming a full media company if distributors keep paying to package and deliver its games.
+- A sports network can still own valuable live attention while losing the cable economics that once let non-viewers subsidize rights costs.
 
 ## Connections
 - [[NationalFootballLeague|NFL]], [[Amazon]], [[YouTube]], [[YouTubeTV|YouTube TV]], [[Netflix]], [[ESPN]], and [[MondayNightFootball]] - source cases.
 - [[SportsMediaRights]], [[BroadcastCentralization]], [[SportsEntertainmentFlywheel]], [[VerticalMediaDistribution]], and [[LeagueFirstOperatingModel]] - related concepts.
+- [[ESPNAffiliateFeeModel]], [[DisneyPlus]], [[Hulu]], [[StreamingPlatformBundling]], and [[StreamingContentTreadmill]] - Disney sequel distribution branch.

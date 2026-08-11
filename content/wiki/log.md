@@ -7457,3 +7457,11 @@ Added source page for a 硅谷101 episode with Lingyang CEO 彭新宇 on Chinese
 ## [2026-08-11] lint | Wiki health check
 
 Ran health before lint; health scanned 10,617 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 10,617 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`; contradiction, stale-content, data-gap, and concept-depth checks did not complete. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-11] ingest | Disney: The Renaissance and the Empire
+
+Added source page for an Acquired episode on Disney from the 1984 crisis through the Eisner, Wells, Katzenberg, Iger, Pixar, ESPN, Disney+, and parks eras. Created pages for Roy E. Disney, Michael Eisner, Frank Wells, Jeffrey Katzenberg, Bob Iger, Bob Chapek, Pixar, John Lasseter, Ed Catmull, Disney+, Hulu, Marvel Entertainment / Marvel Studios, Lucasfilm, Capital Cities/ABC, BAMTech, Disney Renaissance, Disney Vault Home Video Economics, Creative Core Renewal, ESPN Affiliate Fee Model, Streaming Content Treadmill, and Theme Park Resort Economics; updated overview, index, Acquired, The Walt Disney Company, Entertainment IP Flywheel, ESPN, ABC, Steve Jobs, George Lucas, Theme Park As Media Platform, Live Sports Streaming Transition, Streaming Consolidation, and Streaming Platform Bundling. No direct contradiction found; the source extends Walt's-era Disney by showing that the flywheel later broke, was revived by animation and Pixar, was funded by ESPN's cable model, and now faces less favorable streaming economics.
+
+## [2026-08-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
