@@ -2,8 +2,8 @@
 title: "National Export Branding"
 type: concept
 tags: [branding, trade, exports, market-creation, consumer-perception]
-sources: [how-to-beat-the-resource-curse-in-norway-summer-school, 144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]
-last_updated: 2026-08-09
+sources: [pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66, how-to-beat-the-resource-curse-in-norway-summer-school, 144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]
+last_updated: 2026-08-12
 ---
 
 # National Export Branding
@@ -13,6 +13,8 @@ National export branding is the shared origin-story strategy in [[how-to-beat-th
 The concept matters because some quality claims are hard to state directly without making the underlying fear more salient. The source suggests that imagery and national association helped communicate safety and freshness without centering the parasite concern that made raw salmon culturally risky in [[Japan]].
 
 [[144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]] adds a consumer-brand soft-power version through [[China]]. Here the origin story is less a coordinated export campaign and more a set of brands making Chinese aesthetics or Chinese company capability globally desirable through [[ShanxiaYousong]], [[Guanxia]], [[PANE]], [[PopMart]], and [[Sandunban]].
+
+[[pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66]] adds the small-economy national-product version through [[BeerLao]]. The source presents Beer Lao as a product whose taste, local jasmine rice, widespread branding, and export growth make [[Laos]] more legible to consumers abroad, while also warning that national-brand success can become [[SingleProductNationalChampionDependence]] when few other industries scale.
 
 ## Key Claims
 - A country image can become part of an exported product's perceived quality.
@@ -25,3 +27,4 @@ The concept matters because some quality claims are hard to state directly witho
 - [[ExportMarketCoordination]] and [[FreeRiderProblem]] - coordination mechanisms.
 - [[CultureLedFoodAdoption]] - adjacent concept where food demand depends on cultural legibility.
 - [[ChineseConsumerBrandSoftPower]], [[InboundTourismBrandDiscovery]], [[ShanxiaYousong]], [[Guanxia]], and [[PANE]] - Chinese consumer-brand extension added by episode 144.
+- [[BeerLao]], [[Laos]], [[LaoBreweryCompany]], and [[SingleProductNationalChampionDependence]] - small-economy consumer-brand extension added by The Intelligence.

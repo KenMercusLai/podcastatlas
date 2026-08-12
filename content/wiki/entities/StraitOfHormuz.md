@@ -2,11 +2,13 @@
 title: "Strait of Hormuz"
 type: entity
 tags: [place, geopolitics, shipping]
-sources: [omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb, ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, how-to-get-through-the-strait-of-hormuz, the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]
-last_updated: 2026-08-08
+sources: [pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66, omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb, ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, how-to-get-through-the-strait-of-hormuz, the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]
+last_updated: 2026-08-12
 ---
 
 # Strait of Hormuz
+
+[[pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66]] adds the consumer-resilience side of the Hormuz shock. The source says closure trapped roughly 14 million barrels of crude per day inside the Gulf, but the price shock was muted because [[China]] cut imports sharply and used stockpiles, refining controls, and fuel-demand adaptation. This turns the strait into a test not only of [[ChokepointShippingConfidence]], but also of [[DemandSideOilMarketPower]].
 
 [[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]] adds the strait as the central lever inside [[IranHorizontalEscalation]]. The episode argues that Iran does not need to defeat [[UnitedStates]] or [[Israel]] directly if it can make the [[StraitOfHormuz]] uncertain enough to move marine insurance, halt plants, raise energy prices, and threaten Gulf business confidence.
 
@@ -48,3 +50,4 @@ In the source, the strait is not only an oil-market chokepoint. It is part of a 
 - [[HamidHosseini]], [[SepahNavy]], [[MaritimeChokepointTolling]], [[SanctionsEvasionCryptoPayments]], and [[FreedomOfNavigationTradeOrder]] - Planet Money branch on alleged permission, crypto tolling, and free-navigation risk.
 - [[IranHorizontalEscalation]] - EP251 frame for turning the waterway into insurance, energy, finance, and Gulf-confidence pressure.
 - [[Turkey]], [[Istanbul]], [[ChokepointLogisticsRerouting]], and [[WarSpilloverHubOpportunity]] - rerouting and nearby-hub branch added by the Aung San Suu Kyi episode.
+- [[China]], [[MathieuFavasse]], and [[DemandSideOilMarketPower]] - consumer-side oil-demand response added by the Pump and circumstance episode.

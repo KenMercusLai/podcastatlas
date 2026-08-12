@@ -7505,3 +7505,11 @@ Ran lint after health passed. Deterministic checks found one orphan page (`wiki/
 ## [2026-08-12] lint | Wiki health check
 
 Ran lint after refreshing the graph. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, twelve fragile bridges, and no isolated communities against the refreshed graph. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present in the environment; a bounded fallback scan of explicit contradiction sections found existing source-scoped naming and dated-claim tensions but no new hard contradiction. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-12] ingest | Pump and circumstance: is China the new OPEC?
+
+Added source page for a The Intelligence episode on China's demand-side oil-market response to the Hormuz shock, Brazil's racist-speech criminalization tradeoff, and Beer Lao's outsized economic role in Laos. Created pages for Mathieu Favasse, Ana Lankas, Leonardo Lins, Beer Lao, Lao Brewery Company, Carlsberg, Demand-Side Oil Market Power, Hate-Speech Criminalization Tradeoff, and Single-Product National Champion Dependence; updated overview, index, The Intelligence, Economist Podcasts, China, OPEC, Strait of Hormuz, Brazil, Laos, Oil Producer Supply Coordination, and National Export Branding. No direct contradiction found; the source qualifies the wiki's OPEC and oil-price branch by showing how a large consumer can stabilize markets through demand flexibility rather than producer quotas.
+
+## [2026-08-12] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

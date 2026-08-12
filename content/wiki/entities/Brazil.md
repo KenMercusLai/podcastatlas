@@ -2,11 +2,13 @@
 title: "Brazil"
 type: entity
 tags: [country, latin-america, mining, industry, coffee, development, payments]
-sources: [taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, 139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, the-little-pet-fish-that-saved-a-town-in-the-amazon, how-to-get-what-greenland-has-with-permission, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, the-giant-factory-town-that-might-be-a-giant-mistake, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]
-last_updated: 2026-08-08
+sources: [pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66, taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, 139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, the-little-pet-fish-that-saved-a-town-in-the-amazon, how-to-get-what-greenland-has-with-permission, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, the-giant-factory-town-that-might-be-a-giant-mistake, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]
+last_updated: 2026-08-12
 ---
 
 # Brazil
+
+[[pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66]] adds Brazil as a racist-speech law case. The episode says constitutional racism carries unusually severe treatment, and that a 2021 Supreme Court ruling followed by 2023 legislation made racist slurs equivalent to racism. [[AnaLankas]] frames the result as a [[HateSpeechCriminalizationTradeoff]]: prosecution can raise awareness of abuse, but it may not repair unequal education, earnings, and policing, while cases such as [[LeonardoLins]] raise proportionality and free-speech concerns.
 
 [[taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760]] adds Brazil as a scrutinized departure point in the [[WestAfricaCocaineTransit]] segment. [[PauloSilva]] says cargo from places such as Brazil and Suriname has come under more scrutiny, creating more departure points and making [[CocaineRouteDisplacement]] harder to police.
 
@@ -39,3 +41,4 @@ The source uses Brazil to show why the regional boom is not only about headline 
 - [[Greenland]], [[GracelandBaskaran]], and [[RareEarthProcessingBottleneck]] - rare-earth partner branch added by the Greenland episode.
 - [[Pix]], [[CentralBankOfBrazil]], [[PublicInstantPaymentRail]], and [[PaymentInfrastructureTradeDispute]] - payment-inclusion and tariff-dispute branch added by The Intelligence.
 - [[WestAfricaCocaineTransit]], [[CocaineRouteDisplacement]], [[PauloSilva]], and [[MaritimeDrugInterdictionCapacity]] - drug-route scrutiny branch added by the later source.
+- [[AnaLankas]], [[LeonardoLins]], and [[HateSpeechCriminalizationTradeoff]] - racist-speech criminalization and structural-inequality branch added by the Pump and circumstance episode.

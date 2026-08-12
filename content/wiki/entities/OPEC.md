@@ -2,11 +2,13 @@
 title: "OPEC"
 type: entity
 tags: [organization, energy, oil, geopolitics]
-sources: [chevron-venezuela-and-the-paradox-of-plenty, venezuelas-recent-economic-history-update, the-secret-meeting-that-launched-opec]
-last_updated: 2026-07-24
+sources: [pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66, chevron-venezuela-and-the-paradox-of-plenty, venezuelas-recent-economic-history-update, the-secret-meeting-that-launched-opec]
+last_updated: 2026-08-12
 ---
 
 # OPEC
+
+[[pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66]] adds a demand-side contrast to OPEC's producer-side market power. The episode argues that [[China]] helped stabilize prices after the [[StraitOfHormuz]] shock by cutting crude imports, drawing on stockpiles, limiting refined-product exports, and reducing fuel use. That makes the title's "new OPEC" framing deliberately nonliteral: China is compared with OPEC because it moved oil prices, but its mechanism is [[DemandSideOilMarketPower]] rather than [[OilProducerSupplyCoordination]].
 
 [[chevron-venezuela-and-the-paradox-of-plenty]] adds the Venezuela-centered prehistory behind OPEC. The episode says [[JuanPabloPerezAlfonso]] helped move [[Venezuela]] from bilateral [[OilConcessionBargaining]] toward producer-country coordination, joining Iran, Iraq, Saudi Arabia, and Kuwait to form OPEC so oil states would not simply compete against one another.
 
@@ -28,3 +30,4 @@ The source also makes OPEC structurally fragile. [[ProductionQuotaDiscipline]] i
 - [[NicolasMaduro]], [[OilRevenueDependence]], and [[CurrencyControlTrap]] - Venezuela collapse branch added by Planet Money.
 - [[GreenParadox]] - long-term demand-collapse incentive that the source uses to explain UAE pressure to pump more.
 - [[StraitOfHormuz]] and [[ChokepointShippingConfidence]] - shipping layer that can overwhelm formal supply decisions.
+- [[China]], [[MathieuFavasse]], and [[DemandSideOilMarketPower]] - consumer-side oil-market influence added by the Pump and circumstance episode.

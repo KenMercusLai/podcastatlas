@@ -3599,6 +3599,10 @@
     "title": "安琪",
     "url": "/wiki/entities/anqi/"
   },
+  "AnaLankas": {
+    "title": "Ana Lankas",
+    "url": "/wiki/entities/analankas/"
+  },
   "AnalogMediaPreservation": {
     "title": "Analog Media Preservation",
     "url": "/wiki/concepts/analogmediapreservation/"
@@ -5110,6 +5114,10 @@
   "Beeper": {
     "title": "Beeper",
     "url": "/wiki/entities/beeper/"
+  },
+  "BeerLao": {
+    "title": "Beer Lao",
+    "url": "/wiki/entities/beerlao/"
   },
   "BehaviorAsCommunication": {
     "title": "Behavior As Communication",
@@ -6786,6 +6794,10 @@
   "CarlotaPerez": {
     "title": "Carlota Perez",
     "url": "/wiki/entities/carlotaperez/"
+  },
+  "Carlsberg": {
+    "title": "Carlsberg",
+    "url": "/wiki/entities/carlsberg/"
   },
   "CarlyMarriott": {
     "title": "Carly Marriott",
@@ -10406,6 +10418,10 @@
   "DemandSideHousingAffordabilityPolicy": {
     "title": "Demand-Side Housing Affordability Policy",
     "url": "/wiki/concepts/demandsidehousingaffordabilitypolicy/"
+  },
+  "DemandSideOilMarketPower": {
+    "title": "Demand-Side Oil Market Power",
+    "url": "/wiki/concepts/demandsideoilmarketpower/"
   },
   "DemianNovel": {
     "title": "《德米安》 / Demian",
@@ -16331,6 +16347,10 @@
     "title": "Hatch (baby tech)",
     "url": "/wiki/entities/hatchbaby/"
   },
+  "HateSpeechCriminalizationTradeoff": {
+    "title": "Hate-Speech Criminalization Tradeoff",
+    "url": "/wiki/concepts/hatespeechcriminalizationtradeoff/"
+  },
   "Havana": {
     "title": "Havana",
     "url": "/wiki/entities/havana/"
@@ -20791,6 +20811,10 @@
     "title": "Lanny Davis",
     "url": "/wiki/entities/lannydavis/"
   },
+  "LaoBreweryCompany": {
+    "title": "Lao Brewery Company",
+    "url": "/wiki/entities/laobrewerycompany/"
+  },
   "LaoGao": {
     "title": "Lao Gao",
     "url": "/wiki/entities/laogao/"
@@ -21194,6 +21218,10 @@
   "LeonardCohen": {
     "title": "Leonard Cohen / 莱昂纳德·科恩",
     "url": "/wiki/entities/leonardcohen/"
+  },
+  "LeonardoLins": {
+    "title": "Leonardo Lins",
+    "url": "/wiki/entities/leonardolins/"
   },
   "LeonardoMPEG": {
     "title": "Leonardo (MPEG)",
@@ -23206,6 +23234,10 @@
   "MathematicalTheoryOfIntelligence": {
     "title": "Mathematical Theory Of Intelligence",
     "url": "/wiki/concepts/mathematicaltheoryofintelligence/"
+  },
+  "MathieuFavasse": {
+    "title": "Mathieu Favasse",
+    "url": "/wiki/entities/mathieufavasse/"
   },
   "MathildeDeLaMole": {
     "title": "Mathilde de La Mole / 马蒂尔德·德·拉莫尔",
@@ -32651,6 +32683,10 @@
     "title": "Singer Sewing Machine",
     "url": "/wiki/entities/singersewingmachine/"
   },
+  "SingleProductNationalChampionDependence": {
+    "title": "Single-Product National Champion Dependence",
+    "url": "/wiki/concepts/singleproductnationalchampiondependence/"
+  },
   "SingleRoomOccupancyHousing": {
     "title": "Single-Room Occupancy Housing",
     "url": "/wiki/concepts/singleroomoccupancyhousing/"
@@ -41374,6 +41410,10 @@
   "planet-money-vs-the-nbas-tanking-problem": {
     "title": "Planet Money vs. the NBA's tanking problem",
     "url": "/wiki/sources/planet-money-vs-the-nbas-tanking-problem/"
+  },
+  "pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66": {
+    "title": "Pump and circumstance: is China the new OPEC?",
+    "url": "/wiki/sources/pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66/"
   },
   "putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210": {
     "title": "Putin's options: an oligarch speaks out",

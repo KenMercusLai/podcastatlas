@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Pump and circumstance: is China the new OPEC?](sources/pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66.md) — The Intelligence episode on China's demand-side oil shock absorption, Brazil's racist-speech law tradeoffs, and Beer Lao's outsized role in Laos's economy.
 - [Currency Chaos in Argentina (Summer School)](sources/currency-chaos-in-argentina-summer-school.md) — Planet Money Summer School episode on Argentina's inflation, capital controls, blue-dollar markets, menu costs, Milei austerity, and exchange-rate flexibility.
 - [Spring, then fall: a weakened Muslim Brotherhood](sources/spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354.md) — The Intelligence episode on the Muslim Brotherhood's post-Arab Spring weakness, Europe-America crime comparison limits, and padel's global participation boom and access problem.
 - [177.日本医保基金为何要支持免费的国民体检？](sources/177-riben-yibao-jijin-weihe-yao-zhichi-mianfei-de-guomin-tijian-lh06qonrzgjprqdwl8dygn4hoxpk.md) — 起朱楼宴宾客 episode with 大卫翁 on Yokohama free health checks, ningen dock history, Japan's specific health checkups, insurer prevention accountability, lifestyle-disease guidance, weak cost-savings evidence, and China's weight-management policy turn.
@@ -937,6 +938,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Mathieu Favasse](entities/MathieuFavasse.md) — Oil-market analyst in the Pump and circumstance episode on China's demand-side response to the Hormuz oil shock.
+- [Ana Lankas](entities/AnaLankas.md) — Analyst in the Brazil segment on racist-speech prosecution, structural inequality, and free-speech risk.
+- [Leonardo Lins](entities/LeonardoLins.md) — Brazilian comedian whose conviction and later reversal illustrate the hate-speech criminalization tradeoff.
+- [Beer Lao](entities/BeerLao.md) — Lao national lager used as an economic lens on branding, exports, taxes, and diversification.
+- [Lao Brewery Company](entities/LaoBreweryCompany.md) — Beer Lao producer and major Lao taxpayer in the episode's beer-economy segment.
+- [Carlsberg](entities/Carlsberg.md) — Danish beer company named as Lao Brewery Company's foreign joint-venture partner.
 - [Javier Milei](entities/JavierMilei.md) — Argentine president whose early stabilization program is presented through austerity, deficit cuts, slower inflation, and dollarization tradeoffs.
 - [Sebastian Galiani](entities/SebastianGaliani.md) — Economist explaining Argentina's capital controls, currency volatility, menu costs, austerity, and exchange-rate flexibility.
 - [Jasmine Garsd](entities/JasmineGarsd.md) — NPR reporter whose memory of Argentina's 2001 collapse grounds the source's institutional-breakdown frame.
@@ -6395,6 +6402,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Demand-Side Oil Market Power](concepts/DemandSideOilMarketPower.md) — Large-consumer ability to move oil markets through imports, stockpiles, refining controls, and fuel substitution.
+- [Hate-Speech Criminalization Tradeoff](concepts/HateSpeechCriminalizationTradeoff.md) — Policy tension between punishing racist expression, protecting speech, and repairing structural inequality.
+- [Single-Product National Champion Dependence](concepts/SingleProductNationalChampionDependence.md) — Small-economy reliance on one unusually successful branded product for identity, exports, taxes, or GDP weight.
 - [Monetary Volatility](concepts/MonetaryVolatility.md) — Condition where unstable money forces households, workers, and businesses to spend attention defending against inflation and currency swings.
 - [Capital Controls](concepts/CapitalControls.md) — Restrictions on foreign-currency access or capital movement that can preserve reserves while creating rationing, black markets, and discretion.
 - [Multiple Exchange Rate Regime](concepts/MultipleExchangeRateRegime.md) — System where different transactions receive different exchange rates, turning currency scarcity into allocation politics.
