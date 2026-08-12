@@ -16,6 +16,7 @@ class PagesWorkflowTest(unittest.TestCase):
         self.assertIn("workflow_dispatch:", workflow)
         self.assertIn("submodules: recursive", workflow)
         self.assertIn("fetch-depth: 0", workflow)
+        self.assertIn("persist-credentials: false", workflow)
         self.assertEqual(1, workflow.count("./build.sh"))
         self.assertIn("scripts/verify-pages-output.py public", workflow)
         self.assertIn("path: public", workflow)

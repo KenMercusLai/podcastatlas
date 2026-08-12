@@ -24,6 +24,7 @@ jobs:
         with:
           fetch-depth: 0
           submodules: recursive
+          persist-credentials: false
 
       - name: Run regression tests
         run: python3 -m unittest discover -s tests -v
