@@ -7466,6 +7466,10 @@ Added source page for an Acquired episode on Disney from the 1984 crisis through
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-12] ingest | Currency Chaos in Argentina (Summer School)
+
+Added source page for a Planet Money Summer School episode on Argentina's monetary volatility, 2001 collapse memory, 2022 household dollar hoarding, blue-dollar and special exchange rates, 2023 business repricing, menu costs, and Javier Milei's early austerity and exchange-rate-flexibility tradeoff. Created pages for Javier Milei, Sebastian Galiani, Jasmine Garsd, Amanda Aronczyk, Lucas Babic, Saya Date, Juan Pablo Gospino-Gomez, Neo Tango, Monetary Volatility, Capital Controls, Multiple Exchange Rate Regime, Menu Costs, Austerity, and Exchange-Rate Flexibility; updated overview, index, Argentina, Planet Money, NPR, Robert Smith, Erika Beras, Currency Risk, Currency Control Trap, Dollarized Stabilization, and Inflation Targeting. No direct contradiction found; the source extends the Venezuela currency-control branch while distinguishing informal dollar use from formal dollarization and separating useful exchange-rate flexibility from destructive volatility.
+
 ## [2026-08-11] ingest | 177.日本医保基金为何要支持免费的国民体检？
 
 Added source page for a 起朱楼宴宾客 episode by 大卫翁 on Yokohama's free health-check voucher, ningen dock history, Japan's post-2008 specific health checkups, insurer prevention accountability, lifestyle-disease and metabolic-syndrome guidance, data health plans, mixed participation and outcome evidence, and China's weight-management policy turn. Created pages for Hinohara Shigeaki / 日野原重明, National Health Commission of China / 国家卫健委, Ningen Dock, Japanese Specific Health Checkups, Health Insurer Prevention Accountability, Preventive Care Cost-Savings Uncertainty, and China Weight-Management Policy; updated overview, index, Japan, China, Yokohama, 起朱楼宴宾客, 大卫翁, Japanese Healthcare System, Japanese Universal Health Coverage, Preventive Health Screening, Lifestyle-Disease Prevention, Ministry of Health Labour and Welfare, and Health Insurance Planning. No direct contradiction found; the source reinforces Japan's preventive-health branch while qualifying claims that checkups and guidance reliably reduce total medical spending.
@@ -7489,3 +7493,15 @@ Added source page for a The Intelligence episode on the Muslim Brotherhood's pos
 ## [2026-08-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-12] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-12] graph | Knowledge graph rebuilt
+
+10690 nodes, 116995 edges (116995 extracted, 0 inferred).
+
+## [2026-08-12] lint | Wiki health check
+
+Ran lint after refreshing the graph. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, twelve fragile bridges, and no isolated communities against the refreshed graph. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present in the environment; a bounded fallback scan of explicit contradiction sections found existing source-scoped naming and dated-claim tensions but no new hard contradiction. Report returned in-session; `wiki/lint-report.md` was not saved.

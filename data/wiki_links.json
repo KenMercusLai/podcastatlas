@@ -3431,6 +3431,10 @@
     "title": "Aman Resorts",
     "url": "/wiki/entities/amanresorts/"
   },
+  "AmandaAronczyk": {
+    "title": "Amanda Aronczyk",
+    "url": "/wiki/entities/amandaaronczyk/"
+  },
   "AmandaCantrell": {
     "title": "Amanda Cantrell",
     "url": "/wiki/entities/amandacantrell/"
@@ -4474,6 +4478,10 @@
   "AuspiciousOmenPolitics": {
     "title": "Auspicious Omen Politics / 祥瑞政治",
     "url": "/wiki/concepts/auspiciousomenpolitics/"
+  },
+  "Austerity": {
+    "title": "Austerity",
+    "url": "/wiki/concepts/austerity/"
   },
   "Australia": {
     "title": "Australia",
@@ -6602,6 +6610,10 @@
   "CapitalCitiesABC": {
     "title": "Capital Cities/ABC",
     "url": "/wiki/entities/capitalcitiesabc/"
+  },
+  "CapitalControls": {
+    "title": "Capital Controls",
+    "url": "/wiki/concepts/capitalcontrols/"
   },
   "CapitalConversionLoop": {
     "title": "Capital Conversion Loop / 资本转换循环",
@@ -12602,6 +12614,10 @@
   "ExceptionStateSurveillanceTechnology": {
     "title": "Exception-State Surveillance Technology",
     "url": "/wiki/concepts/exceptionstatesurveillancetechnology/"
+  },
+  "ExchangeRateFlexibility": {
+    "title": "Exchange-Rate Flexibility",
+    "url": "/wiki/concepts/exchangerateflexibility/"
   },
   "ExchangeTradedFund": {
     "title": "Exchange-Traded Fund / ETF",
@@ -18915,6 +18931,10 @@
     "title": "Jargon Boundary Making",
     "url": "/wiki/concepts/jargonboundarymaking/"
   },
+  "JasmineGarsd": {
+    "title": "Jasmine Garsd",
+    "url": "/wiki/entities/jasminegarsd/"
+  },
   "JasmineSun": {
     "title": "Jasmine Sun",
     "url": "/wiki/entities/jasminesun/"
@@ -18930,6 +18950,10 @@
   "JasonPalmer": {
     "title": "Jason Palmer",
     "url": "/wiki/entities/jasonpalmer/"
+  },
+  "JavierMilei": {
+    "title": "Javier Milei",
+    "url": "/wiki/entities/javiermilei/"
   },
   "JeanClaudeBiver": {
     "title": "Jean-Claude Biver",
@@ -19766,6 +19790,10 @@
   "JuanAndresGuerreroSaade": {
     "title": "Juan Andres Guerrero Saade",
     "url": "/wiki/entities/juanandresguerrerosaade/"
+  },
+  "JuanPabloGospinoGomez": {
+    "title": "Juan Pablo Gospino-Gomez",
+    "url": "/wiki/entities/juanpablogospinogomez/"
   },
   "JuanPabloPerezAlfonso": {
     "title": "Juan Pablo Perez Alfonso",
@@ -22231,6 +22259,10 @@
     "title": "Luca di Montezemolo",
     "url": "/wiki/entities/lucadimontezemolo/"
   },
+  "LucasBabic": {
+    "title": "Lucas Babic",
+    "url": "/wiki/entities/lucasbabic/"
+  },
   "LucasDrone": {
     "title": "Lucas Drone",
     "url": "/wiki/entities/lucasdrone/"
@@ -23691,6 +23723,10 @@
     "title": "Mental Health Crisis Police Response",
     "url": "/wiki/concepts/mentalhealthcrisispoliceresponse/"
   },
+  "MenuCosts": {
+    "title": "Menu Costs",
+    "url": "/wiki/concepts/menucosts/"
+  },
   "MercedesF1": {
     "title": "Mercedes F1",
     "url": "/wiki/entities/mercedesf1/"
@@ -24475,6 +24511,10 @@
     "title": "Monetary Policy Lag",
     "url": "/wiki/concepts/monetarypolicylag/"
   },
+  "MonetaryVolatility": {
+    "title": "Monetary Volatility",
+    "url": "/wiki/concepts/monetaryvolatility/"
+  },
   "MoneyAsFlow": {
     "title": "Money As Flow / 货币是流量",
     "url": "/wiki/concepts/moneyasflow/"
@@ -24742,6 +24782,10 @@
   "MultipleEquilibria": {
     "title": "Multiple Equilibria",
     "url": "/wiki/concepts/multipleequilibria/"
+  },
+  "MultipleExchangeRateRegime": {
+    "title": "Multiple Exchange Rate Regime",
+    "url": "/wiki/concepts/multipleexchangerateregime/"
   },
   "MultispeciesArchives": {
     "title": "Multispecies Archives",
@@ -25282,6 +25326,10 @@
   "NeoCognition": {
     "title": "Neo Cognition",
     "url": "/wiki/entities/neocognition/"
+  },
+  "NeoTango": {
+    "title": "Neo Tango",
+    "url": "/wiki/entities/neotango/"
   },
   "NestThermostat": {
     "title": "Nest Thermostat",
@@ -31375,6 +31423,10 @@
     "title": "Saw Gerrera",
     "url": "/wiki/entities/sawgerrera/"
   },
+  "SayaDate": {
+    "title": "Saya Date",
+    "url": "/wiki/entities/sayadate/"
+  },
   "SayyidQutb": {
     "title": "Sayyid Qutb / Sayed Qutb",
     "url": "/wiki/entities/sayyidqutb/"
@@ -31622,6 +31674,10 @@
   "SeattleSounders": {
     "title": "Seattle Sounders",
     "url": "/wiki/entities/seattlesounders/"
+  },
+  "SebastianGaliani": {
+    "title": "Sebastian Galiani",
+    "url": "/wiki/entities/sebastiangaliani/"
   },
   "SebastianMallaby": {
     "title": "Sebastian Mallaby",
@@ -40390,6 +40446,10 @@
   "cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1": {
     "title": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13",
     "url": "/wiki/sources/cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1/"
+  },
+  "currency-chaos-in-argentina-summer-school": {
+    "title": "Currency Chaos in Argentina (Summer School)",
+    "url": "/wiki/sources/currency-chaos-in-argentina-summer-school/"
   },
   "da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf": {
     "title": "《大厂小民》：我们必须克制对系统与上岸的期待",

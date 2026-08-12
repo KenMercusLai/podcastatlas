@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Currency Chaos in Argentina (Summer School)](sources/currency-chaos-in-argentina-summer-school.md) — Planet Money Summer School episode on Argentina's inflation, capital controls, blue-dollar markets, menu costs, Milei austerity, and exchange-rate flexibility.
 - [Spring, then fall: a weakened Muslim Brotherhood](sources/spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354.md) — The Intelligence episode on the Muslim Brotherhood's post-Arab Spring weakness, Europe-America crime comparison limits, and padel's global participation boom and access problem.
 - [177.日本医保基金为何要支持免费的国民体检？](sources/177-riben-yibao-jijin-weihe-yao-zhichi-mianfei-de-guomin-tijian-lh06qonrzgjprqdwl8dygn4hoxpk.md) — 起朱楼宴宾客 episode with 大卫翁 on Yokohama free health checks, ningen dock history, Japan's specific health checkups, insurer prevention accountability, lifestyle-disease guidance, weak cost-savings evidence, and China's weight-management policy turn.
 - [AI subscriptions are rapidly taking over baby nurseries](sources/tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128.md) — Marketplace Tech episode with Sapna Maheshwari on AI baby monitors, Nanit and Hatch subscription features, sleep scores, parental judgment outsourcing, child-bedroom privacy, and hypervigilant parenting data.
@@ -936,6 +937,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Javier Milei](entities/JavierMilei.md) — Argentine president whose early stabilization program is presented through austerity, deficit cuts, slower inflation, and dollarization tradeoffs.
+- [Sebastian Galiani](entities/SebastianGaliani.md) — Economist explaining Argentina's capital controls, currency volatility, menu costs, austerity, and exchange-rate flexibility.
+- [Jasmine Garsd](entities/JasmineGarsd.md) — NPR reporter whose memory of Argentina's 2001 collapse grounds the source's institutional-breakdown frame.
+- [Amanda Aronczyk](entities/AmandaAronczyk.md) — Planet Money reporter following Argentina's 2023 inflation routines through tango travel, shopping timing, wages, and store repricing.
+- [Lucas Babic](entities/LucasBabic.md) — Argentina-based freelance video editor whose shoebox dollars illustrate household distrust of the peso.
+- [Saya Date](entities/SayaDate.md) — India-based tango traveler whose delayed shopping illustrates exchange-rate timing under peso depreciation.
+- [Juan Pablo Gospino-Gomez](entities/JuanPabloGospinoGomez.md) — Argentina worker whose multiple jobs and repeated raises show inflation's labor-market routines.
+- [Neo Tango](entities/NeoTango.md) — Argentina tango shoe store used to show imported-cost pressure, multi-currency cash sales, and repeated menu costs.
 - [Muslim Brotherhood](entities/MuslimBrotherhood.md) — Political and social movement whose post-Arab Spring weakness anchors the episode's political-Islam segment.
 - [Sayyid Qutb / Sayed Qutb](entities/SayyidQutb.md) — Ideological reference point used by the episode to explain the Brotherhood's dignity, Islamic-values, and social-organization frame.
 - [Mohamed Morsi](entities/MohamedMorsi.md) — Brotherhood-linked Egyptian president whose election and overthrow mark the source's clearest rise-and-reversal case.
@@ -6386,6 +6395,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Monetary Volatility](concepts/MonetaryVolatility.md) — Condition where unstable money forces households, workers, and businesses to spend attention defending against inflation and currency swings.
+- [Capital Controls](concepts/CapitalControls.md) — Restrictions on foreign-currency access or capital movement that can preserve reserves while creating rationing, black markets, and discretion.
+- [Multiple Exchange Rate Regime](concepts/MultipleExchangeRateRegime.md) — System where different transactions receive different exchange rates, turning currency scarcity into allocation politics.
+- [Menu Costs](concepts/MenuCosts.md) — Repricing frictions that become economy-wide market damage when inflation forces constant price changes.
+- [Austerity](concepts/Austerity.md) — Fiscal contraction through spending, employment, pay, or subsidy cuts, presented as a painful anti-inflation tool in Argentina.
+- [Exchange-Rate Flexibility](concepts/ExchangeRateFlexibility.md) — Capacity for a currency to adjust to real shocks without becoming chaotic volatility.
 - [Post-Arab Spring Islamist Decline](concepts/PostArabSpringIslamistDecline.md) — Pattern where the Brotherhood's democratic opening gives way to repression, exile, fragmentation, and lost political space.
 - [Islamist Democratic Trust Problem](concepts/IslamistDemocraticTrustProblem.md) — Suspicion that an Islamist movement may use democracy tactically before narrowing pluralism once in power.
 - [Crime Statistics Comparability](concepts/CrimeStatisticsComparability.md) — Methodological problem of comparing crime across countries with different definitions, reporting behavior, and city boundaries.
