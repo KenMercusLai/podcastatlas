@@ -1,9 +1,9 @@
 {{ define "head_extra" }}
-  <link rel="canonical" href="{{ "/episodes/" | absURL }}">
-  <meta http-equiv="refresh" content="0; url={{ "/episodes/" | relURL }}">
+  <link rel="canonical" href="{{ "episodes/" | absURL }}">
+  <meta http-equiv="refresh" content="0; url={{ "episodes/" | relURL }}">
 {{ end }}
 
 {{ define "main" }}
   <h1>{{ .Site.Title }}</h1>
-  <p class="lede">Redirecting to <a href="{{ "/episodes/" | relURL }}">Episodes</a>.</p>
+  <p class="lede">Redirecting to <a href="{{ "episodes/" | relURL }}">Episodes</a>.</p>
 {{ end }}

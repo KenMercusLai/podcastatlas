@@ -103,7 +103,7 @@ main() {
 
   # Build the project
   echo "Building the project..."
-  hugo build --gc --minify --cleanDestinationDir
+  hugo build --gc --minify --cleanDestinationDir "$@"
 }
 
 main "$@"
