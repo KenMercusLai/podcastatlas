@@ -7513,3 +7513,11 @@ Added source page for a The Intelligence episode on China's demand-side oil-mark
 ## [2026-08-12] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-12] ingest | 用 AI 让我们变笨了吗？｜S10E25
+
+Added source page for a What's Next｜科技早知道 episode with 雅贤 on AI cognitive offloading, cognitive debt, desirable difficulty, guided AI tutoring, neuroplasticity, sleep-based memory consolidation, and basic brain-health routines. Created pages for Yaxian / 雅贤, Cognitive Offloading, AI Guided Learning Guardrails, and Neuroplasticity; updated overview, index, What's Next｜科技早知道, AI As Tutor, AI Shortcut Risk, Cognitive Debt, Desirable Difficulty, Memory Consolidation Windows, Sleep As Daily Health Account, Cognitive Surrender, Learning Experience Design, AI Brain Fry, Learning How To Learn, AI Use Pacing, MIT, and Wharton School. No direct contradiction found; the source qualifies AI-learning optimism by separating task completion from ability formation and keeps the MIT writing-study and sleep-hardware claims source-scoped.
+
+## [2026-08-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,11 +2,13 @@
 title: "Sleep As Daily Health Account"
 type: concept
 tags: [sleep, health, attention, recovery, midlife]
-sources: [tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]
-last_updated: 2026-08-11
+sources: [yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254, tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae, the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]
+last_updated: 2026-08-12
 ---
 
 # Sleep As Daily Health Account
+
+[[yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254]] adds the learning-and-memory version. The episode links slow-wave sleep to transferring hippocampal memory traces toward the cortex and REM sleep to synaptic reinforcement, making sleep part of [[MemoryConsolidationWindows]] and [[Neuroplasticity]] rather than only next-day energy. It also source-scopes smart-bed temperature control and sleep-metric claims as product experience, not universal medical advice.
 
 [[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] adds a child-monitoring contrast through [[Nanit]] sleep scores. Adult sleep tracking can be framed as a personal daily account, but a baby's score becomes part of [[QuantifiedParenting]] because parents interpret and act on another person's sleep data.
 
@@ -27,6 +29,8 @@ The episode treats sleep as active work by the body rather than passive shutdown
 - EP258 adds that sleep is not only health recovery; it can also mark a private boundary against continuous stimulation, work, and platform attention.
 - The Intelligence source adds that both unusually short and unusually long sleep durations can correlate with worse health, but causality and individual prescription remain uncertain.
 - Sleep advice can backfire when people worry so much about the right number that they lose sleep.
+- S10E25 adds that alcohol can make sleep feel easier while disrupting REM and slow-wave rhythm, so subjective sleepiness and memory-supportive sleep quality can diverge.
+- S10E25 also adds an individual-temperature point: average room advice needs adjustment for body temperature changes, partner differences, sex hormones, pregnancy, or menopause-related temperature sensitivity.
 
 ## Connections
 - [[MidlifeThreeAccounts]] - parent framework.
@@ -39,3 +43,4 @@ The episode treats sleep as active work by the body rather than passive shutdown
 - [[TechCultureBiohacking]] - nearby health-optimization culture this source partly resists.
 - [[SleepDurationUShape]], [[OrganSpecificAgingClock]], [[PopulationLevelHealthAdvice]], and [[SleepAnxietyLoop]] - population-level sleep-science branch added by The Intelligence.
 - [[JunhaoWen]], [[MichaelGrandner]], and [[UKBiobank]] - sleep-study researcher, expert, and dataset context.
+- [[Neuroplasticity]], [[MemoryConsolidationWindows]], and [[Yaxian]] - S10E25's learning, sleep-cycle, and source-speaker branch.

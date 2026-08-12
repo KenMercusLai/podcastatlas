@@ -1655,6 +1655,10 @@
     "title": "AI Grief Bots",
     "url": "/wiki/concepts/aigriefbots/"
   },
+  "AIGuidedLearningGuardrails": {
+    "title": "AI Guided Learning Guardrails / AI引导式学习护栏",
+    "url": "/wiki/concepts/aiguidedlearningguardrails/"
+  },
   "AIHackathons": {
     "title": "AI Hackathons",
     "url": "/wiki/concepts/aihackathons/"
@@ -8482,6 +8486,10 @@
   "CognitiveInertia": {
     "title": "Cognitive Inertia / 认知惰性",
     "url": "/wiki/concepts/cognitiveinertia/"
+  },
+  "CognitiveOffloading": {
+    "title": "Cognitive Offloading / 认知卸载",
+    "url": "/wiki/concepts/cognitiveoffloading/"
   },
   "CognitiveSurrender": {
     "title": "Cognitive Surrender",
@@ -25419,6 +25427,10 @@
     "title": "NeuroShake",
     "url": "/wiki/entities/neuroshake/"
   },
+  "Neuroplasticity": {
+    "title": "Neuroplasticity / 神经可塑性",
+    "url": "/wiki/concepts/neuroplasticity/"
+  },
   "NeutralInternetExchange": {
     "title": "Neutral Internet Exchange",
     "url": "/wiki/concepts/neutralinternetexchange/"
@@ -39147,6 +39159,10 @@
     "title": "Yash Mishra",
     "url": "/wiki/entities/yashmishra/"
   },
+  "Yaxian": {
+    "title": "Yaxian / 雅贤",
+    "url": "/wiki/entities/yaxian/"
+  },
   "YeBowen": {
     "title": "Ye Bowen",
     "url": "/wiki/entities/yebowen/"
@@ -42758,6 +42774,10 @@
   "yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy": {
     "title": "用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC",
     "url": "/wiki/sources/yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy/"
+  },
+  "yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254": {
+    "title": "用 AI 让我们变笨了吗？｜S10E25",
+    "url": "/wiki/sources/yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254/"
   },
   "youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2": {
     "title": "优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert",

@@ -2,11 +2,13 @@
 title: "AI Shortcut Risk"
 type: concept
 tags: [ai, education, learning, agency]
-sources: [tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-08-05
+sources: [yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254, tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
+last_updated: 2026-08-12
 ---
 
 # AI Shortcut Risk
+
+[[yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254]] adds a memory-and-neuroscience explanation for the shortcut risk. The source argues that if AI removes searching, comparison, recall, organization, and expression, it may also remove the practice that strengthens memory and judgment. It therefore links shortcut risk to [[CognitiveOffloading]], [[CognitiveDebt]], [[DesirableDifficulty]], and [[Neuroplasticity]], not only to cheating or homework integrity.
 
 AI shortcut risk is the source's warning that AI can manufacture easier paths that bypass the thinking practice students most need. In [[167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]], [[YangLingfeng]] argues that if AI only follows the learner's system-one desire for less effort and faster answers, it can kill real learning rather than support it.
 
@@ -35,6 +37,7 @@ This makes AI shortcut risk an education-specific version of [[AIUsePacing]], [[
 - Heavy AI use can be both learning support and shortcut risk; the separating factor is whether the student can explain, verify, and transfer the result beyond the model output.
 - AI-native students may need explicit fallback and foundation-building practice because they may never have developed pre-AI habits for writing, coding, search, or debugging.
 - Shortcut risk can show up as answer adoption under time pressure: the student or worker follows AI because it is available, not because they have judged it.
+- S10E25 adds that shortcut risk is also a memory-formation problem: fluent AI output can create a feeling of learning while bypassing the struggle that makes later recall possible.
 
 ## Connections
 - [[YangLingfeng]] and [[YangcongXueyuan]] — source speaker and company.
@@ -47,3 +50,4 @@ This makes AI shortcut risk an education-specific version of [[AIUsePacing]], [[
 - [[ChristyGerdhary]], [[AIWritingPedagogy]], [[TransparentAIUse]], and [[AIDetectorBias]] - Marketplace Tech's writing-class and detector-fairness extension.
 - [[AIDefaultLearningEnvironment]], [[AIUniversityAssessmentReform]], and [[DegreeAsTrustCredential]] - university assessment and credential stakes added by E236.
 - [[AIHollowingFoundationalTraining]], [[NewEngineeringEducation]], and [[MedicalAIEducation]] - EP266's foundation and process-assessment extension.
+- [[CognitiveOffloading]], [[CognitiveDebt]], [[AIGuidedLearningGuardrails]], and [[Neuroplasticity]] - S10E25's memory, practice, and guided-tutor extension.

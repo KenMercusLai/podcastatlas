@@ -2,8 +2,8 @@
 title: "AI Brain Fry"
 type: concept
 tags: [ai, workplace, agents, burnout, cognition]
-sources: [tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254, tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128]
+last_updated: 2026-08-12
 ---
 
 # AI Brain Fry
@@ -14,6 +14,8 @@ The mechanism is a human attention bottleneck. AI agents can run in parallel and
 
 The source does not reject workplace AI. Its practical distinction is that AI tends to help morale when it removes repetitive toil, but can drain workers when it is aimed at high-cognitive tasks without redesigning review, pacing, and recovery. That makes AI brain fry a concrete limit case for [[AIManagingAI]], [[AIUsePacing]], and [[BusinessLedAITransformation]].
 
+[[yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254]] adds a personal heavy-user version. The episode describes people opening multiple AI conversations and feeling cognitively full because AI increases available material while the human still has to judge, review, correct, and integrate the outputs.
+
 ## Key Claims
 - AI brain fry is cognitive exhaustion from supervising AI tools rather than from AI use in the abstract.
 - Parallel agents can increase human switching costs because humans still focus on one thing at a time.
@@ -21,6 +23,7 @@ The source does not reject workplace AI. Its practical distinction is that AI te
 - Workplace AI can reduce morale and engagement when it leaves people in constant high-cognitive oversight.
 - AI deployment should prioritize mundane repetitive toil before adding AI to work people find joyful or cognitively demanding.
 - Recovery strategies such as breaks, leaving the computer, and going outside are part of sustainable AI-heavy work.
+- S10E25 adds that information abundance itself can fry attention: AI can surface more relevant papers, examples, or code than the user can productively inspect.
 
 ## Connections
 - [[MattKrop]] and [[BCG]] - source speaker and study context.
@@ -30,3 +33,4 @@ The source does not reject workplace AI. Its practical distinction is that AI te
 - [[AIUsePacing]] and [[WorkplacePacing]] - pacing disciplines that mitigate constant AI supervision.
 - [[AIWorkflowTriage]] and [[BusinessLedAITransformation]] - work-redesign concepts that decide where AI should be applied.
 - [[HumanJudgmentUnderAI]] - review and responsibility boundary exposed by the source.
+- [[CognitiveDebt]], [[AIUsePacing]], and [[AttentionFragmentation]] - S10E25's heavy-use and review-burden extension.

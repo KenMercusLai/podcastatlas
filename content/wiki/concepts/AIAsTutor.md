@@ -2,11 +2,13 @@
 title: "AI As Tutor"
 type: concept
 tags: [ai, education, learning]
-sources: [fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
-last_updated: 2026-08-07
+sources: [yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
+last_updated: 2026-08-12
 ---
 
 # AI As Tutor
+
+[[yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254]] adds the guided-tutor boundary. The episode argues that AI helps learning when it behaves more like a teacher who asks for the student's current reasoning and gives hints, and less like an answer key. Its [[AIGuidedLearningGuardrails]] example makes tutoring a product-design question: the same model can strengthen practice or deepen [[AIShortcutRisk]] depending on whether it preserves the learner's own thinking.
 
 AI as tutor is the use of tools such as [[ChatGPT]] to personalize explanations, fill missing reasoning steps, adapt examples to the learner's background, and support cross-disciplinary exploration. In [[vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1]], the hosts treat this as one of the most useful student-facing AI roles, but they keep a clear boundary: AI can guide and explain, not replace the student's own understanding.
 
@@ -43,6 +45,7 @@ AI as tutor is the use of tools such as [[ChatGPT]] to personalize explanations,
 - The useful distinction is whether the learner can verify, question, and internalize the result; heavy AI tutoring can still become [[AIShortcutRisk]] if it removes the learner's own confusion and judgment practice.
 - Adult AI learning can work when the learner has enough self-knowledge to ask for explanations in a usable frame and enough humility to verify with people or sources outside the model.
 - In vocational learning, AI tutoring is most useful when it helps students complete and understand real projects rather than only bypassing the practice that builds skill.
+- S10E25 adds that tutoring design should often ask the learner to explain first, because immediate answers can improve short practice performance while weakening later recall or transfer.
 
 ## Connections
 
@@ -60,3 +63,4 @@ AI as tutor is the use of tools such as [[ChatGPT]] to personalize explanations,
 - [[AIDefaultLearningEnvironment]] and [[AIUniversityAssessmentReform]] - default access and assessment implications added by E236.
 - [[VocationalEducation]], [[ProjectBasedVocationalLearning]], [[AIProgramAdjustment]], and [[CareerCognitionEducation]] - EP241's vocational-learning extension.
 - [[MedicalAIEducation]], [[AIForScienceTalent]], [[AIEraMajorChoice]], and [[AIHollowingFoundationalTraining]] - EP266's domain-specific AI tutoring and simulation boundary.
+- [[AIGuidedLearningGuardrails]], [[CognitiveDebt]], and [[DesirableDifficulty]] - S10E25's guided-learning and memory-practice boundary.

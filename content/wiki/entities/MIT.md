@@ -2,11 +2,13 @@
 title: "MIT"
 type: entity
 tags: [university, research, startups]
-sources: [149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv, the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, chef-vs-robot, why-economists-got-free-trade-with-china-so-wrong, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, why-the-us-has-no-guaranteed-paid-vacation]
-last_updated: 2026-08-08
+sources: [yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254, 149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv, the-skyscrapers-that-nimbys-and-zoning-couldnt-stop, chef-vs-robot, why-economists-got-free-trade-with-china-so-wrong, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, why-the-us-has-no-guaranteed-paid-vacation]
+last_updated: 2026-08-12
 ---
 
 # MIT
+
+[[yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254]] adds MIT through an MIT Media Lab writing experiment described by the source as arXiv-stage and not yet formally published. The episode uses the study to discuss lower neural coupling, weaker essay recall, and reduced authorship feeling among LLM-assisted writers, while keeping the small-sample and publication-status caveat attached to the claim.
 
 [[the-skyscrapers-that-nimbys-and-zoning-couldnt-stop]] adds MIT through a working paper, cited with [[PrincetonUniversity|Princeton University]], on Los Angeles permitting delays. The [[PlanetMoney]] episode uses that research to make [[PermittingDelayCost]] part of [[HousingAffordabilitySupplyMechanics]].
 
@@ -34,3 +36,4 @@ The Benchling case makes MIT part of the wiki's [[VerticalSaaSDomainExpertise]] 
 - [[SpenserSkates]], [[CurtisLiu]], [[Battlecode]], [[Sonalight]], and [[Amplitude]] - startup-formation branch added by The Social Radars.
 - [[DavidAutor]], [[DavidDorn]], [[GordonHansen|Gordon Hanson]], [[ChinaShock]], and [[RegionalLaborMarketScarring]] - labor-economics branch added by Planet Money.
 - [[LiuZiming|Liu Ziming]], [[MaxTegmark]], [[AIForScience]], [[MechanisticInterpretability]], and [[PhysicsOfAI]] - AI-and-physics branch added by episode 149.
+- [[CognitiveDebt]], [[AIShortcutRisk]], and [[HumanJudgmentUnderAI]] - AI writing and learning-process branch added by S10E25.

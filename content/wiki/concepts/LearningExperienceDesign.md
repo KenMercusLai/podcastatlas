@@ -2,11 +2,13 @@
 title: "Learning Experience Design"
 type: concept
 tags: [education, product-design, learning, ai]
-sources: [tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-07-23
+sources: [yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254, tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
+last_updated: 2026-08-12
 ---
 
 # Learning Experience Design
+
+[[yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254]] adds a guardrailed-AI pattern. The source's tutoring example makes learning experience design a question of when to withhold the answer: an AI product can ask for the learner's reasoning, provide hints, and require explanation before final output, preserving [[DesirableDifficulty]] while still making help available.
 
 Learning experience design is the product-and-pedagogy discipline [[YangcongXueyuan]] uses to make difficult school knowledge approachable without reducing it to shortcuts. In [[167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]], [[YangLingfeng]] describes lesson design as an engineered learning journey rather than a recorded classroom.
 
@@ -26,6 +28,7 @@ This concept explains why Yangcong did not simply pursue photo-solution search, 
 - Data should improve the lesson itself, not only personalize recommendations after the lesson has failed.
 - The learning environment may need protected no-AI intervals so students practice the first draft before receiving machine explanations.
 - AI writing assignments can make process, authorship, and final judgment visible instead of relying only on hidden compliance or detector scores.
+- S10E25 adds that answer withholding can be a positive feature when the goal is learning transfer rather than task completion.
 
 ## Connections
 - [[SelfDirectedLearning]] — goal the design is meant to train.
@@ -35,3 +38,4 @@ This concept explains why Yangcong did not simply pursue photo-solution search, 
 - [[EducationTechnologyFairness]] — scalable design route that avoids depending entirely on expensive human service.
 - [[FirstDraftThinking]], [[HeatherSchwartz]], and [[RAND]] - Marketplace Tech's AI-free classroom timing extension.
 - [[ChristyGerdhary]], [[AIWritingPedagogy]], [[TransparentAIUse]], and [[AIDetectorBias]] - Marketplace Tech's remediation-assignment and detector-fairness extension.
+- [[AIGuidedLearningGuardrails]], [[CognitiveDebt]], and [[Neuroplasticity]] - S10E25's guided-tutor and memory-practice extension.

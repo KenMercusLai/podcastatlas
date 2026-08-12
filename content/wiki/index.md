@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [用 AI 让我们变笨了吗？｜S10E25](sources/yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254.md) — What's Next｜科技早知道 episode on AI cognitive offloading, cognitive debt, guided AI tutoring, desirable difficulty, neuroplasticity, sleep-based memory consolidation, and brain-health basics.
 - [Pump and circumstance: is China the new OPEC?](sources/pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66.md) — The Intelligence episode on China's demand-side oil shock absorption, Brazil's racist-speech law tradeoffs, and Beer Lao's outsized role in Laos's economy.
 - [Currency Chaos in Argentina (Summer School)](sources/currency-chaos-in-argentina-summer-school.md) — Planet Money Summer School episode on Argentina's inflation, capital controls, blue-dollar markets, menu costs, Milei austerity, and exchange-rate flexibility.
 - [Spring, then fall: a weakened Muslim Brotherhood](sources/spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354.md) — The Intelligence episode on the Muslim Brotherhood's post-Arab Spring weakness, Europe-America crime comparison limits, and padel's global participation boom and access problem.
@@ -938,6 +939,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Yaxian / 雅贤](entities/Yaxian.md) — Neuroscience-informed discussion partner in the What's Next S10E25 episode on AI, memory, learning, sleep, and brain plasticity.
 - [Mathieu Favasse](entities/MathieuFavasse.md) — Oil-market analyst in the Pump and circumstance episode on China's demand-side response to the Hormuz oil shock.
 - [Ana Lankas](entities/AnaLankas.md) — Analyst in the Brazil segment on racist-speech prosecution, structural inequality, and free-speech risk.
 - [Leonardo Lins](entities/LeonardoLins.md) — Brazilian comedian whose conviction and later reversal illustrate the hate-speech criminalization tradeoff.
@@ -6402,6 +6404,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Cognitive Offloading / 认知卸载](concepts/CognitiveOffloading.md) — Externalizing memory or answer production to people, search tools, or AI, useful when judged actively and risky when it replaces learning practice.
+- [AI Guided Learning Guardrails / AI引导式学习护栏](concepts/AIGuidedLearningGuardrails.md) — AI tutoring design that withholds direct answers, asks learners for their reasoning, and preserves transfer-building effort.
+- [Neuroplasticity / 神经可塑性](concepts/Neuroplasticity.md) — Learning and memory frame where repeated, sufficiently challenging stimulation strengthens neural connections, supported by sleep, recovery, and movement.
 - [Demand-Side Oil Market Power](concepts/DemandSideOilMarketPower.md) — Large-consumer ability to move oil markets through imports, stockpiles, refining controls, and fuel substitution.
 - [Hate-Speech Criminalization Tradeoff](concepts/HateSpeechCriminalizationTradeoff.md) — Policy tension between punishing racist expression, protecting speech, and repairing structural inequality.
 - [Single-Product National Champion Dependence](concepts/SingleProductNationalChampionDependence.md) — Small-economy reliance on one unusually successful branded product for identity, exports, taxes, or GDP weight.

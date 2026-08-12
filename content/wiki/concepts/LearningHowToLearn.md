@@ -2,11 +2,13 @@
 title: "Learning How To Learn"
 type: concept
 tags: [learning, education, ai]
-sources: [ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
-last_updated: 2026-08-07
+sources: [yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254, ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+last_updated: 2026-08-12
 ---
 
 # Learning How To Learn
+
+[[yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254]] adds the AI-efficiency versus ability-formation distinction. The source argues that learning how to learn now includes knowing which steps should not be skipped: searching, comparing, recalling, organizing, explaining, and sleeping after study are part of the training loop, not overhead to eliminate. This connects the page to [[CognitiveOffloading]], [[CognitiveDebt]], [[DesirableDifficulty]], and [[Neuroplasticity]].
 
 [[ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r]] adds a K12 science-education version. The episode's "knowledge reset" frame argues that students have not learned how to learn science if exam facts disappear after the gaokao; durable learning requires [[BigConceptScienceTeaching|big concepts]], [[ProjectBasedScienceLearning|projects grounded in inquiry]], and [[HPSScienceEducation|history/philosophy/society context]].
 
@@ -50,9 +52,11 @@ Learning how to learn is the source's core durable skill across majors, professi
 - Learning how to learn can mean acquiring a discipline's way of seeing before mastering its formal apparatus.
 - Learning how to learn also means working with forgetting: review important material early, then let less important details compress or disappear.
 - EP259 adds that serious adult learning can require accepting temporary incompetence before a foreign, difficult, or unfamiliar reasoning system instead of defending prior cultural or official status.
+- S10E25 adds that using AI well can mean preserving effort on purpose: ask AI to guide or test the learner after a first attempt, not always to replace the hard part.
 
 ## Connections
 
+- [[CognitiveOffloading]], [[CognitiveDebt]], [[DesirableDifficulty]], [[Neuroplasticity]], and [[AIGuidedLearningGuardrails]] - S10E25's AI-learning and memory-practice extension.
 - [[XuGuangqi]], [[MatteoRicci]], [[EuclidsElementsChinese]], [[EuclideanProofTraining]], and [[IntellectualLifeAsPractice]] - EP259's historical adult-learning extension.
 - [[ScienceEducationAsCivicLiteracy]], [[BigConceptScienceTeaching]], [[ProjectBasedScienceLearning]], and [[HPSScienceEducation]] - EP262's science-education extension.
 - [[AIAsTutor]] — AI can become a personalized explanation layer when used with context and active thought.
