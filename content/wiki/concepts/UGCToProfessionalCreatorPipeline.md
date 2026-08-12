@@ -2,8 +2,8 @@
 title: "UGC To Professional Creator Pipeline"
 type: concept
 tags: [media, creators, entertainment, platforms, china]
-sources: [no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
-last_updated: 2026-07-09
+sources: [no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
+last_updated: 2026-08-12
 ---
 
 # UGC To Professional Creator Pipeline
@@ -12,14 +12,18 @@ UGC to professional creator pipeline describes how early Chinese video platforms
 
 This concept is the source's main counterweight to a pure copyright-spending story. [[HousheNansheng]], [[HuGe]], [[JiaoshouYiXiaoxing]], [[LuZhengyu]], and [[YangYuJiaozi]] show that early UGC culture created talent discovery and taste formation even when the later industry moved toward licensed dramas and expensive self-production.
 
+[[no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305]] adds the [[Bilibili]] and [[AcFun]] branch. The pipeline here is less about web-film creators entering professional film and more about anime, remix, meme, knowledge, and UP creator culture becoming a durable platform identity.
+
 ## Key Claims
 - Upload platforms gave early creators distribution before professional gatekeepers recognized them.
 - Spoof culture, lip-sync videos, short films, and animation experiments became a training ground.
 - The pipeline connects community platforms to later [[EntertainmentIPFlywheel]] and [[PlatformizedDramaProduction]] questions.
 - Losing UGC culture can make a long-video platform more dependent on purchased content.
+- [[Bilibili]] shows a community-preserving version where creator culture, audience rituals, and monetization have to remain aligned for the pipeline to keep producing value.
 
 ## Connections
 - [[Tudou]] and [[WangWeiTudou]] — platform and founder context.
 - [[HousheNansheng]], [[HuGe]], [[JiaoshouYiXiaoxing]], [[LuZhengyu]], and [[YangYuJiaozi]] — creator cases.
 - [[ZhuiguangAnimation]] — post-Tudou animation company founded by Wang Wei.
 - [[ContentEcosystemGovernance]] and [[RecommendationDistributionAdvantage]] — platform mechanisms that shape creator supply.
+- [[Bilibili]], [[AcFun]], [[BulletCommentCommunity]], and [[CreatorTrustAdvertising]] - mobile/video-community extension added by episode 214.

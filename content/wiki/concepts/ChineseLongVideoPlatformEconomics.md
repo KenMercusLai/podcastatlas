@@ -2,8 +2,8 @@
 title: "Chinese Long-Video Platform Economics"
 type: concept
 tags: [media, streaming, platforms, china, economics]
-sources: [no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
-last_updated: 2026-07-09
+sources: [no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
+last_updated: 2026-08-12
 ---
 
 # Chinese Long-Video Platform Economics
@@ -12,15 +12,19 @@ Chinese long-video platform economics is the cost-and-revenue structure describe
 
 The concept explains why scale did not make [[Youku]], [[Tudou]], [[IQIYI]], [[TencentVideo]], or [[MangoTV]] easy businesses. Content costs rise with competition, users resist large price increases, bit-rate reductions damage trust, and the product has weaker [[LongVideoNetworkEffects]] than community platforms or UGC feeds.
 
+[[no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305]] adds [[Bilibili]] as an adjacent but distinct video economics case. Bilibili faces video-platform revenue pressure, but its [[BulletCommentCommunity]], UP creator trust, membership culture, and no-forced-pre-roll identity make it less directly comparable to long-video platforms built around copyright libraries and memberships.
+
 ## Key Claims
 - Early product quality mattered, but later competition centered on content rights and production budgets.
 - [[OnlineVideoCopyrightRegime]] turned legal content supply into a high fixed-cost commitment.
 - [[VideoMembershipModel]] improved revenue but did not remove the need for constant hit content.
 - Large-company backing from [[Baidu]], [[Alibaba]], [[Tencent]], and broadcast systems became a survival condition.
 - [[Douyin]], [[Hongguo]], and [[ShortDramaEconomics]] pressure long-video platforms by changing attention, cost, and feedback speed.
+- [[Bilibili]] shows that community identity can make standard ad inventory and pure video-platform economics harder to apply.
 
 ## Connections
 - [[Youku]], [[Tudou]], [[IQIYI]], [[TencentVideo]], and [[MangoTV]] — platform cases.
 - [[OnlineVideoCopyrightRegime]] and [[VideoMembershipModel]] — core economic mechanisms.
 - [[LongVideoNetworkEffects]] — reason scale remains less defensible than in social or creator communities.
 - [[PlatformizedDramaProduction]] — later organizational response to cost and supply pressure.
+- [[Bilibili]], [[BulletCommentCommunity]], and [[CreatorTrustAdvertising]] - adjacent community-video economics branch added by episode 214.

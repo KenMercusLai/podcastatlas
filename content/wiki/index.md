@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 | 中国互联网故事 26](sources/no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305.md) — Banlatte episode on Xiaohongshu, Bilibili, AcFun, Neihan Duanzi, TapTap, Keep, LOFTER, Maimai, Jike, and Xiaoyuzhou as mobile-era Chinese communities balancing usefulness, belonging, governance, and monetization.
 - [TikTok excluded millions from crucial safety guardrails](sources/tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128.md) — Marketplace Tech episode with Olivia Carville on TikTok withholding a 2021 filter-bubble safety update from about 15 million U.S. users, Chase Nasca's account, Section 230 dismissal, and product-design liability.
 - [用 AI 让我们变笨了吗？｜S10E25](sources/yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254.md) — What's Next｜科技早知道 episode on AI cognitive offloading, cognitive debt, guided AI tutoring, desirable difficulty, neuroplasticity, sleep-based memory consolidation, and brain-health basics.
 - [Pump and circumstance: is China the new OPEC?](sources/pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66.md) — The Intelligence episode on China's demand-side oil shock absorption, Brazil's racist-speech law tradeoffs, and Beer Lao's outsized role in Laos's economy.
@@ -940,6 +941,24 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Bilibili / 哔哩哔哩](entities/Bilibili.md) — Chinese video and bullet-comment community grown from MikuFans into a creator, anime, game, and youth-culture platform.
+- [AcFun / A站](entities/AcFun.md) — Early Chinese bullet-comment video community that influenced Bilibili and carried many early remix and anime subculture practices.
+- [Niconico](entities/Niconico.md) — Japanese video platform whose time-axis comment interface influenced AcFun and Bilibili's bullet-comment community.
+- [毛文超 / Mao Wenchao](entities/MaoWenchao.md) — Xiaohongshu cofounder tied to the platform's outbound-shopping guide, note-sharing, ecommerce, and community-first strategic turn.
+- [曲芳 / Qu Fang](entities/QuFang.md) — Xiaohongshu cofounder associated with the overseas-shopping need and the platform's content/community orientation.
+- [徐逸 / Xu Yi](entities/XuYiBilibili.md) — Bilibili founder who built MikuFans and anchored its hobbyist community origin.
+- [陈睿 / Chen Rui](entities/ChenRuiBilibili.md) — Bilibili executive who professionalized the platform while defending its no-forced-pre-roll community identity.
+- [李旎 / Li Ni](entities/LiNi.md) — Bilibili executive linked to the platform's ad-format and creator-community monetization tradeoff.
+- [TapTap](entities/TapTap.md) — Game discovery and community platform built around player reviews, editor recommendations, and lower-friction distribution trust.
+- [黄一孟 / Huang Yimeng](entities/HuangYimeng.md) — Founder associated with TapTap's game distribution and game-community route.
+- [Keep / Keep Fitness](entities/KeepFitness.md) — Fitness app/community case where training plans, check-ins, medals, and lifestyle commerce turn a tool into a community loop.
+- [王宁 / Wang Ning](entities/WangNingKeep.md) — Keep founder used by episode 214 to illustrate utility-product-to-community development.
+- [LOFTER](entities/LOFTER.md) — NetEase light-blog product that became a fan creation and tagging community.
+- [脉脉 / Maimai](entities/Maimai.md) — Workplace networking and anonymous-discussion community with professional identity, disclosure value, and governance risk.
+- [林凡 / Lin Fan](entities/LinFanMaimai.md) — Maimai founder linked to professional networking and anonymous workplace community design.
+- [即刻 / Jike](entities/Jike.md) — Interest-alert product that evolved community features and later connects to Xiaoyuzhou's podcast-platform lineage.
+- [糗事百科 / Qiushi Baike](entities/QiushiBaike.md) — PC-era humor community used as a predecessor to later mobile comedy/comment communities.
+- [皮皮虾 / PipiXia](entities/PipiXia.md) — ByteDance humor successor product that did not reproduce Neihan Duanzi's community influence in the source account.
 - [Olivia Carville](entities/OliviaCarville.md) — Bloomberg Businessweek reporter whose TikTok safety-guardrail reporting grounds the Marketplace Tech episode.
 - [Chase Nasca](entities/ChaseNasca.md) — Teen TikTok user whose account and wrongful-death lawsuit anchor the source's Section 230 and product-liability discussion.
 - [Bloomberg Businessweek](entities/BloombergBusinessweek.md) — Business-news publication whose TikTok internal-document reporting is discussed by Marketplace Tech.
@@ -6408,6 +6427,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese Mobile Internet Communities / 中文移动互联网社区](concepts/ChineseMobileInternetCommunities.md) — Episode 214 umbrella for app-era communities built through search, bullet comments, creator rituals, vertical identity, and timestamped comments.
+- [Bullet Comment Community / 弹幕共同体](concepts/BulletCommentCommunity.md) — Time-coded video-comment affordance that makes asynchronous viewing feel socially shared.
+- [Lifestyle Search Community / 生活方式搜索社区](concepts/LifestyleSearchCommunity.md) — Xiaohongshu-style community where useful notes, collections, search intent, and authenticity governance create decision trust.
+- [Creator Trust Advertising / 创作者信任广告](concepts/CreatorTrustAdvertising.md) — Bilibili ad-format tradeoff between standardized platform inventory and UP creator-viewer trust.
+- [Timestamped Comment Community / 时间戳评论共同体](concepts/TimestampedCommentCommunity.md) — Xiaoyuzhou-style audio comment layer that attaches listener reaction to specific moments.
 - [Platform Safety A/B Testing](concepts/PlatformSafetyABTesting.md) — Governance problem of measuring safety features while avoiding avoidable harm to users excluded from protections.
 - [Internal Safety Research Exposure](concepts/InternalSafetyResearchExposure.md) — Litigation and accountability risk created when company safety documents, tests, and reviews become evidence.
 - [Cognitive Offloading / 认知卸载](concepts/CognitiveOffloading.md) — Externalizing memory or answer production to people, search tools, or AI, useful when judged actively and risky when it replaces learning practice.

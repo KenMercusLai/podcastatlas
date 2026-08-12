@@ -2,8 +2,8 @@
 title: "小宇宙"
 type: entity
 tags: [podcast-platform, media, china]
-sources: [baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy, 169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]
-last_updated: 2026-08-08
+sources: [no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305, baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy, 169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]
+last_updated: 2026-08-12
 ---
 
 # 小宇宙
@@ -24,6 +24,8 @@ last_updated: 2026-08-08
 
 [[no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]] adds 小宇宙 through listener comments on Banlatte's phone-history episodes. The source treats the comment area as a small community layer: listeners add memories of [[Motorola]], [[Nokia]], [[Meizu]], [[Xiaomi]], [[Smartisan]], Android flashing, factory work, shanzhai phones, and early mobile experimentation, turning product history into [[GenerationalTechnologyBridge|shared lived history]].
 
+[[no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305]] adds 小宇宙 as a product lineage from [[Jike|即刻]] and as a direct community-design case. The episode argues that [[TimestampedCommentCommunity|timestamped comments]] matter to podcasting in a way similar to [[BulletCommentCommunity|bullet comments]] for video: they let listeners gather around a specific moment in an otherwise asynchronous medium.
+
 ## Connections
 - [[AlgorithmicPublicAppearance]] and [[PlatformAffordance]] - episode 167's platform-regime comparison branch.
 - [[PodcastAsAsynchronousMedia]] - broader media form the platform distributes.
@@ -36,3 +38,4 @@ last_updated: 2026-08-08
 - [[CollegeMajorChoice]], [[CollegeCareerPreparation]], and [[QizhulouYanBinke|起朱楼宴宾客]] - episode 169's gaokao planning and finance-career context.
 - [[Mianji|面基]], [[TianFeng]], and [[TalentGroupLivestreaming]] - publication context for the group-livestreaming fieldwork episode.
 - [[FeaturePhoneCulturalMemory]], [[GenerationalTechnologyBridge]], and [[ForumSubcultureMemory]] - episode 212's listener-comment memory branch.
+- [[Jike|即刻]], [[TimestampedCommentCommunity]], [[BulletCommentCommunity]], and [[ChineseMobileInternetCommunities]] - episode 214's app-lineage and timestamped-comment branch.

@@ -2,8 +2,8 @@
 title: "User-Powered Content Platform"
 type: concept
 tags: [platforms, online-community, social-media]
-sources: [socialradarspod-stevehuffman-final, no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]
-last_updated: 2026-08-08
+sources: [no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305, socialradarspod-stevehuffman-final, no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]
+last_updated: 2026-08-12
 ---
 
 # User-Powered Content Platform
@@ -14,6 +14,8 @@ The Reddit case shows both the product strength and the governance cost. Removin
 
 [[no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]] adds a Chinese PC-era variation. [[Douban|豆瓣]], [[Zhihu|知乎]], [[BaiduTieba|百度贴吧]], and [[Hupu|虎扑]] were user-powered, but not identical: taste libraries, Q&A, keyword forums, and sports communities each turned user contribution into a different relationship structure. The source therefore distinguishes user-powered communities from pure content platforms whose main job is distribution and consumption.
 
+[[no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305]] adds mobile variants. User contributions become useful notes on [[Xiaohongshu]], bullet comments and UP creator videos on [[Bilibili]], player reviews on [[TapTap]], check-ins on [[KeepFitness|Keep]], fan tags on [[LOFTER]], workplace posts on [[Maimai]], and timestamped audio comments on [[Xiaoyuzhou|小宇宙]].
+
 ## Key Claims
 - User-powered ranking can expose demand faster than editorial publishing, but the signal depends on what user actions actually mean.
 - Comment communities are not a decorative layer; they can be the reason a link platform becomes a social home rather than only a discovery feed.
@@ -21,9 +23,11 @@ The Reddit case shows both the product strength and the governance cost. Removin
 - Larger competitors can become learning surfaces when they reveal platform failure modes before a smaller rival faces the same scale.
 - User-powered does not guarantee community: repeated relationships, shared rules, and local memory matter as much as content supply.
 - Different contribution formats create different monetization and governance constraints.
+- Mobile contribution formats create different social signals: collecting a note, sending a bullet comment, reviewing a game, checking in, or timestamp-commenting a podcast do not mean the same thing.
 
 ## Connections
 - [[Reddit]], [[SteveHuffman]], [[Delicious]], [[Slashdot]], and [[Digg]] - source case and influences.
 - [[PlatformCommunityGovernance]] - governance layer that emerges once users shape the platform.
 - [[FounderIdeaPivot]] - concept explaining how the product direction emerged.
 - [[ChinesePCInternetCommunities]], [[CommunityVsContentPlatform]], and [[OnlineCommunityCommercializationFriction]] - episode 212's Chinese community extension.
+- [[ChineseMobileInternetCommunities]], [[LifestyleSearchCommunity]], [[BulletCommentCommunity]], and [[TimestampedCommentCommunity]] - mobile-era extension from episode 214.

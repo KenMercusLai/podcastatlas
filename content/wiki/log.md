@@ -7522,6 +7522,10 @@ Added source page for a What's Next｜科技早知道 episode with 雅贤 on AI 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-12] ingest | No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 | 中国互联网故事 26
+
+Added source page for a 半拿铁 China-internet-history episode on Xiaohongshu, Bilibili, AcFun, Neihan Duanzi, TapTap, Keep, LOFTER, Maimai, Jike, Xiaoyuzhou, and other community products. Created pages for Bilibili, AcFun, Niconico, 毛文超, 曲芳, 徐逸, 陈睿, 李旎, TapTap, 黄一孟, Keep, 王宁, LOFTER, 脉脉, 林凡, 即刻, 糗事百科, 皮皮虾, Chinese Mobile Internet Communities, Bullet Comment Community, Lifestyle Search Community, Creator Trust Advertising, and Timestamped Comment Community; updated overview, index, Banlatte, Xiaohongshu, ByteDance, Douyin, Neihan Duanzi, Xiaoyuzhou, Kuaishou, Chinese PC Internet Communities, Community vs Content Platform, Online Community Commercialization Friction, Platform Community Governance, User-Powered Content Platform, Product Container, Search-Driven Content Growth, UGC To Professional Creator Pipeline, Chinese Long-Video Platform Economics, and Content Ecosystem Governance. No direct contradiction found; the source extends episode 212's PC-community branch into mobile-era communities where search, comments, bullet comments, vertical identity, creator trust, and governance shape whether users can find similar people.
+
 ## [2026-08-12] ingest | TikTok excluded millions from crucial safety guardrails
 
 Added source page for a Marketplace Tech episode drawing on Olivia Carville's Bloomberg Businessweek reporting about TikTok withholding a 2021 filter-bubble safety safeguard from about 15 million U.S. users, Chase Nasca's account, Section 230 dismissal, and product-design liability. Created pages for Olivia Carville, Chase Nasca, Bloomberg Businessweek, Platform Safety A/B Testing, and Internal Safety Research Exposure; updated overview, index, Marketplace Tech, TikTok, Section 230, Section 230 Design Workaround, Social Media Product Liability, Filter Bubble, Addictive Interaction Design, Platform Legal Causation, and Social Media Causation Science Wars. No direct contradiction found; the source qualifies the wiki's filter-bubble and platform-liability branches by showing how a withheld safety feature can turn experimentation, internal documents, and causation into one design-accountability dispute.
@@ -7529,3 +7533,7 @@ Added source page for a Marketplace Tech episode drawing on Olivia Carville's Bl
 ## [2026-08-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-12] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no common provider API-key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
