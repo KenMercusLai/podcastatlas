@@ -1,0 +1,83 @@
+#!/usr/bin/env python3
+
+from pathlib import Path
+import argparse
+import json
+import sys
+import xml.etree.ElementTree as ET
+
+
+REQUIRED_FILES = (
+    "index.xml",
+    "episodes/index.xml",
+    "sitemap.xml",
+    "episodes/index.html",
+    "tags/index.html",
+    "shows/index.html",
+    "wiki/index.html",
+)
+
+
+def validate(public_dir: Path) -> dict:
+    public_dir = public_dir.resolve()
+    files = [path for path in public_dir.rglob("*") if path.is_file()]
+    errors = []
+
+    for path in public_dir.rglob("*"):
+        if path.is_symlink():
+            relative = path.relative_to(public_dir).as_posix()
+            errors.append(f"symbolic link not allowed: {relative}")
+
+    for relative in REQUIRED_FILES:
+        if not (public_dir / relative).is_file():
+            errors.append(f"missing required file: {relative}")
+
+    for section in ("tags", "shows", "categories"):
+        section_dir = public_dir / section
+        if section_dir.is_dir():
+            for path in section_dir.rglob("index.xml"):
+                relative = path.relative_to(public_dir).as_posix()
+                errors.append(f"forbidden taxonomy RSS: {relative}")
+
+    episode_html = list((public_dir / "episodes").glob("*/index.html"))
+    if not episode_html:
+        errors.append("no episode detail HTML found")
+    elif not any(path.with_suffix(".md").is_file() for path in episode_html):
+        errors.append("no episode detail Markdown found")
+
+    for relative in ("index.xml", "episodes/index.xml", "sitemap.xml"):
+        path = public_dir / relative
+        if path.is_file():
+            try:
+                ET.parse(path)
+            except ET.ParseError as error:
+                errors.append(f"invalid XML: {relative}: {error}")
+
+    total_bytes = sum(path.stat().st_size for path in files)
+    if total_bytes > 1024 ** 3:
+        errors.append("artifact exceeds the GitHub Pages 1 GiB supported limit")
+
+    return {
+        "public_dir": str(public_dir),
+        "file_count": len(files),
+        "total_bytes": total_bytes,
+        "errors": errors,
+    }
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description="Validate a GitHub Pages artifact before upload.")
+    parser.add_argument("public_dir", type=Path)
+    args = parser.parse_args()
+
+    if not args.public_dir.is_dir():
+        print(json.dumps({"errors": [f"not a directory: {args.public_dir}"]}, indent=2))
+        return 1
+
+    report = validate(args.public_dir)
+    print(json.dumps(report, indent=2))
+    return 1 if report["errors"] else 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

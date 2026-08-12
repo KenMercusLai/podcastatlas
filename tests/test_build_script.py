@@ -17,6 +17,16 @@ class BuildScriptTest(unittest.TestCase):
 
         self.assertIn("--cleanDestinationDir", shlex.split(hugo_command))
 
+    def test_hugo_build_forwards_cli_arguments(self):
+        build_script = (ROOT / "build.sh").read_text()
+        hugo_command = next(
+            line.strip()
+            for line in build_script.splitlines()
+            if line.strip().startswith("hugo build ")
+        )
+
+        self.assertTrue(hugo_command.endswith('"$@"'))
+
 
 if __name__ == "__main__":
     unittest.main()
