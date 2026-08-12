@@ -7537,3 +7537,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-12] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no common provider API-key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-12] ingest | 没有方向盘的出行，走到哪一步了？ NVIDIA × 小马智行一次聊透智能驾驶
+
+Added source page for a 科技乱炖 episode with NVIDIA and Pony.ai on Robotaxi, L2/L3/L4 responsibility boundaries, car-grade compute, simulation/world models, passenger trust, fleet operations, and commercialization. Created pages for 卓瑞 / Zhuo Rui, 张宁 / Zhang Ning (Pony.ai), Autonomous Driving Responsibility Boundary, Robotaxi Fleet Operations, Car-Grade Autonomous Compute, and Autonomous Driving Simulation; updated overview, index, Keji Luandun, Nvidia, CUDA, Pony.ai, Robotaxi Economics, Autonomous Vehicle Safety Benchmark, Autonomous Vehicle Regulatory Patchwork, Robotaxi Local Acceptance, Envelope Expansion Deployment, Robotics Simulation Evaluation, AI Infrastructure Full-Stack Moat, World Models, and Physical AI. No direct contradiction found; the source reinforces existing robotaxi economics and safety pages while adding the responsibility, operations, and automotive-platform layer.
+
+## [2026-08-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

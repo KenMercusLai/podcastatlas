@@ -2,8 +2,8 @@
 title: "CUDA"
 type: entity
 tags: [software, ai, semiconductors, nvidia]
-sources: [e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
-last_updated: 2026-08-07
+sources: [acc532947b65-acc532947b65, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+last_updated: 2026-08-12
 ---
 
 # CUDA
@@ -14,8 +14,11 @@ In this source, CUDA is not only a programming interface. It is part of [[AIInfr
 
 [[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] adds the domestic [[AIAcceleratorSupernode|supernode]] version of the same moat. Even if [[HuaweiCM384]] or other domestic systems can exceed [[NvidiaGB200NVL72|NVL72]] on aggregate hardware parameters, the source says CUDA, engineering habits, tooling, and model adaptation still make [[Nvidia]] hard to displace.
 
+[[acc532947b65-acc532947b65]] adds the automotive version through [[ZhuoRui]]. He explains CUDA as the base software layer for accessing GPU capability and CUDA-X as a set of vertical SDKs and solution packages. In Robotaxi deployment, CUDA compatibility matters because teams have to move algorithms from x86-plus-GPU development systems onto constrained [[CarGradeAutonomousCompute|car-grade SoC]] platforms without rewriting the whole stack.
+
 ## Connections
 - [[Nvidia]] and [[GPU]] — platform owner and hardware category.
 - [[TPU]], [[XLACompiler]], [[JAX]], and [[PyTorch]] — competing or bridge software paths.
 - [[AIChipSpecialization]], [[DomesticAIChipCatchUp]], and [[AIInfrastructureFullStackMoat]] — ecosystem and substitution context.
 - [[ProprietaryAIInterconnectFragmentation]] and [[DomesticAIChipOrderValidation]] — WAIC source's software migration and market-proof extension.
+- [[ZhuoRui]], [[CarGradeAutonomousCompute]], and [[RobotaxiFleetOperations]] - automotive deployment extension added by the 科技乱炖 episode.

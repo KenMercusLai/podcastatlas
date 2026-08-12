@@ -2,8 +2,8 @@
 title: "Robotics Simulation Evaluation"
 type: concept
 tags: [robotics, simulation, evaluation]
-sources: [e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
-last_updated: 2026-07-16
+sources: [acc532947b65-acc532947b65, e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
+last_updated: 2026-08-12
 ---
 
 # Robotics Simulation Evaluation
@@ -14,6 +14,8 @@ Robotics simulation evaluation is the source's claim that simulation is not just
 
 [[e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e]] adds [[HanZheng]]'s [[Sim2Real]] version. The source says new robot simulators should favor GPU-parallel environments and physical consistency over cinematic realism, while also modeling hardware-specific noise and transfer details that ordinary research simplifications can miss.
 
+[[acc532947b65-acc532947b65]] adds an autonomous-driving-specific version through [[PonyAI|Pony.ai]] and [[Nvidia]]. The source says simulation should not be just replay of a fixed road scene; it should support counterfactual vehicle actions, generate varied corner cases from seed scenarios, and shrink the Sim2Real gap as the data loop improves. This creates [[AutonomousDrivingSimulation]] as a narrower branch inside the broader robotics evaluation problem.
+
 ## Key Claims
 - Simulation is useful only if it is physically actionable, reproducible, correctable, and able to test counterfactual actions, not merely visually plausible.
 - Robot evaluation needs many scenes, many tasks, and explicit success definitions; this is difficult to achieve through real homes or factories alone.
@@ -22,6 +24,7 @@ Robotics simulation evaluation is the source's claim that simulation is not just
 - The concept sits inside [[EmbodiedDataPyramid]] and [[DataEngineLearningLoop]] because evaluation, data generation, and feedback should reinforce each other.
 - Tactile simulation has to reproduce contact deformation, force, friction, texture, and slip, not only the appearance of a robot touching an object.
 - Simulation has to be co-designed with the target robot body because grippers, motors, response latency, and boot-time variation affect transfer.
+- Autonomous-driving simulation adds interactive road-user behavior: the simulator must respond plausibly when the ego vehicle waits, yields, turns, or reroutes.
 
 ## Connections
 - [[GuanglunIntelligence]] and [[XieChen]] — source company and guest.
@@ -30,3 +33,4 @@ Robotics simulation evaluation is the source's claim that simulation is not just
 - [[RealRobotDataStrategy]] — adjacent strategy that the source qualifies by emphasizing simulation as the scalable layer.
 - [[YimuTechnology]], [[OpticalTactileSensing]], [[TactileSensing]], and [[TouchNet]] — tactile-simulation and dataset context added by the What's Next source.
 - [[SuduTechnology]], [[Sim2Real]], [[Structured3DRobotData]], and [[ManiSkill]] — manipulation simulation route added by E244.
+- [[AutonomousDrivingSimulation]], [[PonyAI|Pony.ai]], [[Nvidia]], [[WorldModels]], and [[CarGradeAutonomousCompute]] - Robotaxi simulation branch added by the 科技乱炖 episode.
