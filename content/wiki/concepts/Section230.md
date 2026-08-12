@@ -2,13 +2,15 @@
 title: "Section 230"
 type: concept
 tags: [law, internet, platforms, speech]
-sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128]
+last_updated: 2026-08-12
 ---
 
 # Section 230
 
 Section 230 is the U.S. internet-law protection described in [[tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128]] as shielding platforms from being held legally responsible for information shared by third parties. In this episode, [[EricGoldman]] says Section 230 is not part of the jury trial because the judge already accepted some defense arguments and rejected others, but he expects it to return on appeal.
+
+[[tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128]] adds the [[TikTok]] and [[ChaseNasca]] version. The source says Chase Nasca's parents filed a wrongful-death lawsuit after his death, but TikTok successfully argued that Section 230 protected it from liability over user-posted videos. That dismissal becomes the setup for the episode's larger point: plaintiffs are increasingly trying to move from content claims to [[Section230DesignWorkaround|design-workaround]] and [[SocialMediaProductLiability]] claims.
 
 The source makes Section 230 strategically important even when it is procedurally absent. If a case is framed around platform design rather than third-party content, plaintiffs may try to route around the doctrine; defendants may still preserve the issue for appellate review. That places Section 230 directly beside [[SocialMediaProductLiability]], [[PlatformLegalCausation]], and [[InternetLiabilitySpillover]].
 
@@ -23,9 +25,11 @@ The source makes Section 230 strategically important even when it is procedurall
 - The doctrine is user-facing as well as company-facing: changes in liability protection can change online communication costs, feature availability, and market concentration.
 - The design-versus-content distinction may decide whether a child-safety verdict survives appeal or is thrown out.
 - Chatbot-generated output can test whether the platform is merely hosting third-party speech or operating a product that creates the challenged material.
+- The TikTok/Nasca source shows that Section 230 can still defeat a specific lawsuit even while the same fact pattern fuels broader product-design litigation.
 
 ## Connections
 - [[EricGoldman]] - expert explaining why the issue is deferred rather than gone.
+- [[TikTok]], [[ChaseNasca]], [[OliviaCarville]], and [[BloombergBusinessweek]] - source case added by Marketplace Tech.
 - [[Section230DesignWorkaround]] - design-framing strategy added by the April 2026 episode.
 - [[PlatformFirstAmendmentDefense]] - related appellate argument when delivery is treated as editorial activity.
 - [[SocialMediaProductLiability]] - litigation branch testing design claims against platform immunity.

@@ -7521,3 +7521,11 @@ Added source page for a What's Next｜科技早知道 episode with 雅贤 on AI 
 ## [2026-08-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-12] ingest | TikTok excluded millions from crucial safety guardrails
+
+Added source page for a Marketplace Tech episode drawing on Olivia Carville's Bloomberg Businessweek reporting about TikTok withholding a 2021 filter-bubble safety safeguard from about 15 million U.S. users, Chase Nasca's account, Section 230 dismissal, and product-design liability. Created pages for Olivia Carville, Chase Nasca, Bloomberg Businessweek, Platform Safety A/B Testing, and Internal Safety Research Exposure; updated overview, index, Marketplace Tech, TikTok, Section 230, Section 230 Design Workaround, Social Media Product Liability, Filter Bubble, Addictive Interaction Design, Platform Legal Causation, and Social Media Causation Science Wars. No direct contradiction found; the source qualifies the wiki's filter-bubble and platform-liability branches by showing how a withheld safety feature can turn experimentation, internal documents, and causation into one design-accountability dispute.
+
+## [2026-08-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,13 +2,15 @@
 title: "Addictive Interaction Design"
 type: concept
 tags: [design, addiction, behavior, platforms]
-sources: [tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
-last_updated: 2026-07-23
+sources: [tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
+last_updated: 2026-08-12
 ---
 
 # Addictive Interaction Design
 
 Addictive interaction design is the use of interface, pacing, feedback, friction removal, reward uncertainty, and environment to keep a person engaged beyond their reflective intention. [[44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]] adds the concept through machine gambling, then extends the pattern to digital products such as mobile-game loot boxes, small-payment systems, and simple puzzle games.
+
+[[tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128]] adds a safety-withholding variant through [[TikTok]]. The episode's key design issue is not only that recommendation feeds can keep users scrolling, but that a safeguard intended to interrupt harmful loops was reportedly withheld from about 15 million U.S. users. That ties addictive-design allegations to [[PlatformSafetyABTesting]], [[FilterBubble]], and [[InternalSafetyResearchExposure]].
 
 The episode's point is not that every engaging product is equivalent to gambling. It is that casinos make visible a toolkit that other products can borrow: convert money into points, reduce exit moments, create near misses, vary rewards, hide long-term loss inside short sessions, and turn a user action into an immediate sensory response.
 
@@ -28,8 +30,10 @@ The episode's point is not that every engaging product is equivalent to gambling
 - The same accountability frame can apply when social platforms or AI companions convert emotional responsiveness into extended time spent.
 - Digital detox products can respond to addictive design by reintroducing pauses, effort, or inconvenience, but they may also borrow the same engagement mechanics they are trying to counter.
 - Addiction allegations become legally consequential only if plaintiffs connect design mechanics to recognized harms and responsibility.
+- Safety controls can be part of the design analysis when a platform knows how to reduce a harmful engagement pattern but does not apply the control to all users.
 
 ## Connections
+- [[TikTok]], [[ChaseNasca]], [[PlatformSafetyABTesting]], and [[InternalSafetyResearchExposure]] - withheld-safeguard branch added by Marketplace Tech.
 - [[MachineGamblingAddiction]] - source case where the design pattern is most explicit.
 - [[DesignedAgencyInGames]] - adjacent positive design concept, qualified by this episode's warning that agency-like interaction can be manipulative.
 - [[FlowEnvironmentDesign]] - adjacent attention concept, qualified by the difference between self-chosen deep engagement and commercially trapped attention.

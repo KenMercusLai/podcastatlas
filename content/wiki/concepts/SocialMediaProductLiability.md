@@ -2,13 +2,15 @@
 title: "Social Media Product Liability"
 type: concept
 tags: [social-media, law, child-safety, platforms]
-sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
+last_updated: 2026-08-12
 ---
 
 # Social Media Product Liability
 
 Social media product liability is the legal frame in which platform features are treated as potentially harmful product design rather than only protected speech or neutral hosting.
+
+[[tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128]] adds a TikTok-specific fact pattern through [[OliviaCarville]]'s [[BloombergBusinessweek]] reporting. The episode says [[TikTok]] withheld a 2021 filter-bubble safety update from about 15 million U.S. users, including [[ChaseNasca]], and that an internal document described the safeguard's absence from Chase's account as occurring "by design." This gives the product-liability branch a concrete safety-feature decision rather than only a general addictive-design allegation.
 
 [[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] adds a generative-AI variant through [[Grok]] on [[Twitter|X]]. The source asks whether [[Section230]] applies cleanly when a company chatbot creates the harmful image rather than merely hosting a user's uploaded post, connecting platform design liability to [[ChatbotGeneratedContentLiability]] and [[AINonConsensualIntimateImageAbuse]].
 
@@ -38,8 +40,10 @@ The episode's important shift is not the $6 million damages figure by itself. [[
 - Civil-liberties advocates may prefer privacy legislation to liability-by-verdict when product changes could restrict ordinary online speech access.
 - Game and creator platforms can face similar child-safety product pressure when user communication, age estimation, and predatory-contact prevention become part of the design case.
 - Platform-integrated generative AI can create a separate design-liability question because the challenged output may be produced by the company's own model.
+- Withheld safety features can become especially important evidence because they show the platform knew a design could reduce harm but did not apply it to every user.
 
 ## Connections
+- [[TikTok]], [[ChaseNasca]], [[OliviaCarville]], [[BloombergBusinessweek]], [[PlatformSafetyABTesting]], and [[InternalSafetyResearchExposure]] - withheld-safeguard branch added by the August 12, 2026 Marketplace Tech episode.
 - [[BellwetherPlatformTrials]], [[Section230DesignWorkaround]], [[PlatformFirstAmendmentDefense]], [[NewMexico]], [[SantaClaraUniversity]], and [[HighTechLawInstitute|High Tech Law Institute]] - post-verdict appellate branch added by the April 2026 episode.
 - [[GaiaBernstein]], [[StateAGPlatformLitigation]], [[COPPA]], [[PlatformDamagesAndDisgorgement]], [[BigTobaccoPlatformAnalogy]], and [[SocialMediaCausationScienceWars]] - state-AG and public-health litigation branch added by the July 2026 episode.
 - [[EricGoldman]], [[PlatformLegalCausation]], [[Section230]], and [[InternetLiabilitySpillover]] - pre-verdict Los Angeles trial framing added by the February 2026 episode.

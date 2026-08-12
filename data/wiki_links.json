@@ -5659,6 +5659,10 @@
     "title": "Bloomberg",
     "url": "/wiki/entities/bloomberg/"
   },
+  "BloombergBusinessweek": {
+    "title": "Bloomberg Businessweek",
+    "url": "/wiki/entities/bloombergbusinessweek/"
+  },
   "BloombergNEF": {
     "title": "BloombergNEF",
     "url": "/wiki/entities/bloombergnef/"
@@ -7250,6 +7254,10 @@
   "CharmIndustrial": {
     "title": "Charm Industrial",
     "url": "/wiki/entities/charmindustrial/"
+  },
+  "ChaseNasca": {
+    "title": "Chase Nasca",
+    "url": "/wiki/entities/chasenasca/"
   },
   "ChatGPT": {
     "title": "ChatGPT",
@@ -18187,6 +18195,10 @@
     "title": "Internal Revenue Service",
     "url": "/wiki/entities/internalrevenueservice/"
   },
+  "InternalSafetyResearchExposure": {
+    "title": "Internal Safety Research Exposure",
+    "url": "/wiki/concepts/internalsafetyresearchexposure/"
+  },
   "InternalStabilityConfidenceRepair": {
     "title": "Internal Stability Confidence Repair",
     "url": "/wiki/concepts/internalstabilityconfidencerepair/"
@@ -26223,6 +26235,10 @@
     "title": "Oliver Morton",
     "url": "/wiki/entities/olivermorton/"
   },
+  "OliviaCarville": {
+    "title": "Olivia Carville",
+    "url": "/wiki/entities/oliviacarville/"
+  },
   "OliviaJoanGolly": {
     "title": "Olivia Joan Golly",
     "url": "/wiki/entities/oliviajoangolly/"
@@ -27994,6 +28010,10 @@
   "PlatformPipelineBiotechStrategy": {
     "title": "Platform-Pipeline Biotech Strategy",
     "url": "/wiki/concepts/platformpipelinebiotechstrategy/"
+  },
+  "PlatformSafetyABTesting": {
+    "title": "Platform Safety A/B Testing",
+    "url": "/wiki/concepts/platformsafetyabtesting/"
   },
   "PlatformSubsidyScaleEconomics": {
     "title": "Platform Subsidy Scale Economics / 平台补贴规模经济",
@@ -42170,6 +42190,10 @@
   "tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128": {
     "title": "AI subscriptions are rapidly taking over baby nurseries",
     "url": "/wiki/sources/tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128/"
+  },
+  "tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128": {
+    "title": "TikTok excluded millions from crucial safety guardrails",
+    "url": "/wiki/sources/tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

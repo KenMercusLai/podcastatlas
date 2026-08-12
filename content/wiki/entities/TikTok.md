@@ -2,11 +2,13 @@
 title: "TikTok"
 type: entity
 tags: [company, social-platform, internationalization]
-sources: [what-makes-a-toy-go-viral, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
-last_updated: 2026-08-07
+sources: [tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128, what-makes-a-toy-go-viral, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
+last_updated: 2026-08-12
 ---
 
 # TikTok
+
+[[tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128]] adds a direct child-safety and product-liability branch. The Marketplace Tech episode, drawing on [[OliviaCarville]]'s [[BloombergBusinessweek]] reporting, says TikTok withheld a 2021 filter-bubble safeguard from about 10% of U.S. users, roughly 15 million people, including [[ChaseNasca]]. This connects TikTok's recommendation system to [[PlatformSafetyABTesting]], [[FilterBubble]], [[AddictiveInteractionDesign]], [[InternalSafetyResearchExposure]], and the legal shift from [[Section230]] dismissal toward [[SocialMediaProductLiability]] claims.
 
 [[what-makes-a-toy-go-viral]] adds a retail-demand case rather than a platform-history case. [[SquishyDumplings]] became valuable on TikTok because unboxing, surprise variants, rare finds, and visible reactions made [[MysteryToyPackaging]] and [[CollectibleDropScarcity]] shareable. The source therefore connects TikTok to [[AccidentalVirality]] and [[ViralToySupplyChain]]: attention can be unpaid distribution, but only companies with operational readiness can convert it before the trend moves on.
 
@@ -38,6 +40,7 @@ For the wiki, TikTok extends [[CrossCulturalProductDesign]] from Southeast Asian
 
 - [[Filterworld]], [[KyleChayka]], [[AlgorithmicDiversityDividend]], and [[AlgorithmicRelevanceAssessment]] - episode 159's taste-standardization and platform-comparison branch.
 - [[MusicalLy]], [[ByteDance]], [[Vanessa]], [[AlexZhu]], and [[ZhangNan]] — product-formation and organization context added by the Luanfanshu source.
+- [[OliviaCarville]], [[BloombergBusinessweek]], [[ChaseNasca]], [[PlatformSafetyABTesting]], and [[InternalSafetyResearchExposure]] - safety-document and product-liability branch added by Marketplace Tech.
 - [[SocialMediaProductLiability]], [[PlatformLegalCausation]], [[Meta]], [[YouTube]], and [[Snapchat]] - U.S. youth-safety litigation context added by Marketplace Tech.
 - [[ShortVideoCreationTools]], [[RecommendationSystemProductization]], [[ContentEcosystemGovernance]], [[DataDrivenProductCulture]], [[GlobalProductLocalization]], and [[ProductContainer]] — main product concepts attached to TikTok by the new source.
 - [[Daqi]] — designer whose career path includes TikTok Singapore.

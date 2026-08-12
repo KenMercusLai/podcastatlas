@@ -2,13 +2,15 @@
 title: "Platform Legal Causation"
 type: concept
 tags: [law, platforms, causation, liability]
-sources: [tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128]
+last_updated: 2026-08-12
 ---
 
 # Platform Legal Causation
 
 Platform legal causation is the proof problem in which plaintiffs must show that a platform's design or service legally caused a user's harm, rather than merely contributing to a broad social or psychological environment. [[tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128]] adds the concept through [[EricGoldman]]'s explanation of a Los Angeles social-media addiction trial.
+
+[[tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128]] adds a TikTok-specific causation fact pattern. The source says TikTok teams reviewed 7,563 videos watched by [[ChaseNasca]] before his death, and [[OliviaCarville]] says an internal document described the filter-bubble safeguard's absence from his account as occurring "by design." That does not by itself settle legal causation, but it gives plaintiffs a more concrete chain connecting product state, internal knowledge, and user exposure.
 
 The source's core distinction is between factual influence and legally recognized responsibility. Many factors can contribute to youth mental-health outcomes, but the case asks whether alleged addictive design by [[Meta]] and [[YouTube]] counts as a cause the law should assign to defendants. That makes the concept a bridge between [[SocialMediaCausationScienceWars]] and [[SocialMediaProductLiability]].
 
@@ -20,9 +22,11 @@ The source's core distinction is between factual influence and legally recognize
 - Expert testimony matters because jurors are being asked to evaluate addiction, mental-health harm, and responsibility together.
 - The concept can shape remedies and product design if courts accept that engagement mechanics are not just speech distribution but actionable product choices.
 - Jury acceptance can increase settlement and product-design pressure, but appellate review can still undo the causal pathway if [[Section230]] or [[PlatformFirstAmendmentDefense|First Amendment]] arguments prevail.
+- Internal exposure records and withheld safety controls can make the causation argument more specific, even when a defendant still argues that third-party content or other life factors break legal responsibility.
 
 ## Connections
 - [[EricGoldman]] - expert explaining the legal proof problem.
+- [[TikTok]], [[ChaseNasca]], [[OliviaCarville]], [[PlatformSafetyABTesting]], and [[InternalSafetyResearchExposure]] - concrete causation-evidence branch added by Marketplace Tech.
 - [[SocialMediaProductLiability]] - legal theory that depends on causation being accepted.
 - [[SocialMediaCausationScienceWars]] - evidence dispute over whether social media causes youth harms.
 - [[AddictiveInteractionDesign]] - design pattern plaintiffs point to when arguing causation.
