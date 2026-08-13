@@ -2,8 +2,8 @@
 title: "Story Led Consumer Branding"
 type: concept
 tags: [consumer-products, brand, storytelling, founder-led]
-sources: [advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773, reeses-heir-vs-chocolate-skimpflation, ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, 142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq, 144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]
-last_updated: 2026-08-09
+sources: [advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a, advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773, reeses-heir-vs-chocolate-skimpflation, ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, 142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq, 144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]
+last_updated: 2026-08-13
 ---
 
 # Story Led Consumer Branding
@@ -28,6 +28,8 @@ The concept is useful because story can create memory, trust, and willingness to
 
 [[144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1]] adds a Chinese consumer-brand soft-power version. [[ShanxiaYousong]] turns Shanxi, loess-land, oldness, handwork, women-centered interviews, and a [[WenQi|文淇]] Nepal short film into a brand world; [[Guanxia]] turns Chinese scent materials and poetic naming into fragrance; [[PANE]] shows that a story can also be international-aesthetic and "export-first" rather than explicitly Chinese.
 
+[[advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a]] adds two consumer-advice refinements. [[CabbageLabs]] has a physician-and-patient origin story that needs to travel through samples and trusted channels, while [[TannenOralCare]] has a coffee-origin story that should remain memorable without making the entire brand seem coffee-only.
+
 ## Key Claims
 - A consumer brand story works when it makes the product easier to understand, remember, gift, or justify.
 - Founder and family stories can create authenticity, but they need operating systems that can scale beyond the founder retelling the story one customer at a time.
@@ -42,6 +44,7 @@ The concept is useful because story can create memory, trust, and willingness to
 - In fragrance, story is partly a sampling bridge: it helps users imagine a scent, but it still has to survive the actual smelling experience.
 - A family-origin story can become consumer advocacy when a later product formula appears to violate what the origin story taught buyers to expect.
 - A consumer-brand story can become soft power when it makes a local aesthetic understandable and desirable to outsiders without reducing it to national slogans.
+- A niche origin story can help discovery but still need repositioning if it excludes customers with the broader use case.
 
 ## Connections
 - [[YearlyCo]], [[IslandBeeCompany]], and [[WanderingSoulBeer]] - source cases.
@@ -56,3 +59,4 @@ The concept is useful because story can create memory, trust, and willingness to
 - [[FragranceProductStorytelling]], [[ChineseFragrance]], [[Guanxia]], and [[ScentAsBrandMemory]] - fragrance-brand branch added by EP263.
 - [[BradReese]], [[HBReese|H.B. Reese]], [[Reeses|Reese's]], [[Hershey]], and [[ChocolateLabelStandards]] - family-legacy label campaign added by Planet Money.
 - [[ShanxiaYousong]], [[Guanxia]], [[PANE]], [[AspirationalEmotionalPremium]], and [[ChineseConsumerBrandSoftPower]] - Chinese consumer-brand soft-power extension added by episode 144.
+- [[CabbageLabs]], [[CabDab]], [[TannenOralCare]], [[BobbiBrown]], and [[NicheOriginStoryRepositioning]] - origin-story and repositioning cases added by the Bobbi Brown Advice Line episode.

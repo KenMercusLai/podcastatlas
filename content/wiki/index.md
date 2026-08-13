@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line with Bobbi Brown of Jones Road Beauty (September 2025)](sources/advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a.md) — How I Built This Advice Line episode with Bobbi Brown on Jones Road Beauty, Cab Dab, Abby Rose, Tannen Oral Care, scrappy testing, product-led longevity, live-selling founder dependency, and niche repositioning.
 - [150. 对英伟达研究副总裁刘洺堉的4小时访谈：Cosmos 3、世界模型、武术、黄仁勋影响我的，和你不需要击败所有对手](sources/150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y.md) — 张小珺Jùn｜商业访谈录 episode with Nvidia research VP Liu Ming-Yu on Cosmos 3, world foundation models, Physical AI generalization, egocentric data, open model strategy, and Jensen Huang's operating influence.
 - [Vol.270 大食代留在了它的时代](sources/vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835.md) — 商业就是这样 episode on 大食代/Food Republic, Singapore hawker-centre origins, food-court second-landlord economics, shopping-center restaurantization, supermarket and platform canteens, scene-led food markets, and why the old mall food-court model lost fit.
 - [没有方向盘的出行，走到哪一步了？ NVIDIA × 小马智行一次聊透智能驾驶](sources/acc532947b65-acc532947b65.md) — 科技乱炖 episode with NVIDIA and Pony.ai on Robotaxi, L2/L3/L4 responsibility boundaries, car-grade compute, simulation/world models, fleet operations, and commercialization.
@@ -944,6 +945,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Bobbi Brown](entities/BobbiBrown.md) — Beauty founder and Advice Line guest connecting Bobbi Brown Cosmetics, Jones Road Beauty, product quality, testing discipline, and consumer-brand advice.
+- [Bobbi Brown Cosmetics](entities/BobbiBrownCosmetics.md) — Bobbi Brown's earlier beauty company context, used in the source as a contrast for second-time founder judgment.
+- [Jones Road Beauty](entities/JonesRoadBeauty.md) — Bobbi Brown's clean-makeup company launched after her non-compete expired, grounding the episode's beauty-brand advice.
+- [Mark Sokolowski](entities/MarkSokolowski.md) — Orthopedic surgeon and Cabbage Labs founder seeking to scale Cab Dab beyond personal patient sampling.
+- [Cabbage Labs](entities/CabbageLabs.md) — Physician-led company behind Cab Dab, trying to convert doctor trust into repeatable samples and trusted channels.
+- [Cab Dab](entities/CabDab.md) — Cabbage-leaf-extract muscle and joint rub used as the episode's trial-size and trusted-distribution case.
+- [Abby Rosalier](entities/AbbyRosalier.md) — Founder of Abby Rose, a custom phone-case business built through live social selling and family operations.
+- [Abby Rose](entities/AbbyRose.md) — Custom phone-case brand whose live-selling channel creates both community and founder-dependency risk.
+- [Henry Davis](entities/HenryDavis.md) — Tannen Oral Care founder working through the shift from coffee-specific mouth rinse to broader wellness oral care.
+- [Tannen Oral Care](entities/TannenOralCare.md) — Natural mouth-rinse brand advised to keep coffee as an origin story while broadening oral-care positioning.
 - [Liu Ming-Yu / 刘洺堉](entities/LiuMingyu.md) — Nvidia research VP and Cosmos Lab lead explaining Cosmos 3 as a world foundation model for Physical AI developers.
 - [Cosmos Lab](entities/CosmosLab.md) — Nvidia team led by Liu Ming-Yu, building Cosmos world foundation models and ecosystem infrastructure for Physical AI.
 - [大食代 / Food Republic](entities/FoodRepublic.md) — Food-court operator whose China mall model is presented as a second-landlord solution that later lost fit.
@@ -6441,6 +6452,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Product-Led Brand Longevity](concepts/ProductLedBrandLongevity.md) — Consumer-brand durability pattern where product quality, repeat purchase, word of mouth, and disciplined extensions make a trend last.
+- [Founder-Led Live Selling](concepts/FounderLedLiveSelling.md) — Social-commerce pattern where customers buy through real-time founder presence, creating both intimacy and founder bottlenecks.
+- [Niche Origin Story Repositioning](concepts/NicheOriginStoryRepositioning.md) — Branding move from a narrow founding use case into a broader category promise while preserving the original story as proof.
 - [World Foundation Models](concepts/WorldFoundationModels.md) — Physical-world foundation-model frame from the Cosmos 3 interview, emphasizing better data, starting points, and environments for Physical AI.
 - [Hawker Centre / 食阁](concepts/HawkerCentre.md) — Singapore-origin shared foodservice infrastructure behind the episode's food-court history.
 - [Food-Court Second Landlord / 美食广场二房东](concepts/FoodCourtSecondLandlord.md) — Model where an operator leases mall space, subdivides stalls, controls shared operations, and charges vendors through take rates and fees.

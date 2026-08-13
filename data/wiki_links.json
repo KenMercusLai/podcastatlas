@@ -2275,6 +2275,14 @@
     "title": "卡西诺修道院 / Abbey of Monte Cassino",
     "url": "/wiki/entities/abbeyofmontecassino/"
   },
+  "AbbyRosalier": {
+    "title": "Abby Rosalier",
+    "url": "/wiki/entities/abbyrosalier/"
+  },
+  "AbbyRose": {
+    "title": "Abby Rose",
+    "url": "/wiki/entities/abbyrose/"
+  },
   "AbdelFattahAlSisi": {
     "title": "Abdel Fattah al-Sisi",
     "url": "/wiki/entities/abdelfattahalsisi/"
@@ -5767,6 +5775,14 @@
     "title": "Bob Swan",
     "url": "/wiki/entities/bobswan/"
   },
+  "BobbiBrown": {
+    "title": "Bobbi Brown",
+    "url": "/wiki/entities/bobbibrown/"
+  },
+  "BobbiBrownCosmetics": {
+    "title": "Bobbi Brown Cosmetics",
+    "url": "/wiki/entities/bobbibrowncosmetics/"
+  },
   "BobbyAllen": {
     "title": "Bobby Allen",
     "url": "/wiki/entities/bobbyallen/"
@@ -6438,6 +6454,14 @@
   "CXLMemoryPooling": {
     "title": "CXL Memory Pooling",
     "url": "/wiki/concepts/cxlmemorypooling/"
+  },
+  "CabDab": {
+    "title": "Cab Dab",
+    "url": "/wiki/entities/cabdab/"
+  },
+  "CabbageLabs": {
+    "title": "Cabbage Labs",
+    "url": "/wiki/entities/cabbagelabs/"
   },
   "CabinCrewWork": {
     "title": "Cabin Crew Work",
@@ -14159,6 +14183,10 @@
     "title": "Founder-Led Functional Organization",
     "url": "/wiki/concepts/founderledfunctionalorganization/"
   },
+  "FounderLedLiveSelling": {
+    "title": "Founder-Led Live Selling",
+    "url": "/wiki/concepts/founderledliveselling/"
+  },
   "FounderLedSales": {
     "title": "Founder-Led Sales",
     "url": "/wiki/concepts/founderledsales/"
@@ -16634,6 +16662,10 @@
   "HenryDavidThoreau": {
     "title": "Henry David Thoreau / 梭罗",
     "url": "/wiki/entities/henrydavidthoreau/"
+  },
+  "HenryDavis": {
+    "title": "Henry Davis",
+    "url": "/wiki/entities/henrydavis/"
   },
   "HenryEpp": {
     "title": "Henry Epp",
@@ -19810,6 +19842,10 @@
   "JonathanSwift": {
     "title": "Jonathan Swift / 乔纳森·斯威夫特",
     "url": "/wiki/entities/jonathanswift/"
+  },
+  "JonesRoadBeauty": {
+    "title": "Jones Road Beauty",
+    "url": "/wiki/entities/jonesroadbeauty/"
   },
   "JontayPorter": {
     "title": "Jontay Porter",
@@ -23195,6 +23231,10 @@
     "title": "Mark Smith",
     "url": "/wiki/entities/marksmith/"
   },
+  "MarkSokolowski": {
+    "title": "Mark Sokolowski",
+    "url": "/wiki/entities/marksokolowski/"
+  },
   "MarkSpitznagel": {
     "title": "Mark Spitznagel",
     "url": "/wiki/entities/markspitznagel/"
@@ -25718,6 +25758,10 @@
   "NiccoloMachiavelli": {
     "title": "Niccolo Machiavelli / 马基雅维利",
     "url": "/wiki/entities/niccolomachiavelli/"
+  },
+  "NicheOriginStoryRepositioning": {
+    "title": "Niche Origin Story Repositioning",
+    "url": "/wiki/concepts/nicheoriginstoryrepositioning/"
   },
   "NicholasMiller": {
     "title": "Nicholas Miller",
@@ -28938,6 +28982,10 @@
   "ProductLaunchUnderConstraint": {
     "title": "Product Launch Under Constraint",
     "url": "/wiki/concepts/productlaunchunderconstraint/"
+  },
+  "ProductLedBrandLongevity": {
+    "title": "Product-Led Brand Longevity",
+    "url": "/wiki/concepts/productledbrandlongevity/"
   },
   "ProductLedWillingnessToPay": {
     "title": "Product Led Willingness To Pay",
@@ -34991,6 +35039,10 @@
     "title": "Tanka As Everyday Expression",
     "url": "/wiki/concepts/tankaeverydayexpression/"
   },
+  "TannenOralCare": {
+    "title": "Tannen Oral Care",
+    "url": "/wiki/entities/tannenoralcare/"
+  },
   "TanyaSujohn": {
     "title": "Tanya Sujohn",
     "url": "/wiki/entities/tanyasujohn/"
@@ -40466,6 +40518,10 @@
   "advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a": {
     "title": "Advice Line: \\\"Strategy Sessions\\\"",
     "url": "/wiki/sources/advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a/"
+  },
+  "advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a": {
+    "title": "Advice Line with Bobbi Brown of Jones Road Beauty (September 2025)",
+    "url": "/wiki/sources/advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a/"
   },
   "advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c": {
     "title": "Advice Line with Chris Riccobono of UNTUCKit",

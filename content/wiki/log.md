@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-13] ingest | Advice Line with Bobbi Brown of Jones Road Beauty (September 2025)
+
+Added source page for a How I Built This Advice Line episode with Bobbi Brown advising Cabbage Labs/Cab Dab, Abby Rose, and Tannen Oral Care on scrappy growth, small tests, sampling, live social selling, and category repositioning. Created pages for Bobbi Brown, Bobbi Brown Cosmetics, Jones Road Beauty, Mark Sokolowski, Cabbage Labs, Cab Dab, Abby Rosalier, Abby Rose, Henry Davis, Tannen Oral Care, Product-Led Brand Longevity, Founder-Led Live Selling, and Niche Origin Story Repositioning; updated overview, index, How I Built This, Guy Raz, Measured Channel Testing, Trial Size Product, Relationship-Led Growth, Category Focus Before Expansion, Product Naming As Positioning, Second-Time Founder Operating Judgment, Story-Led Consumer Branding, Consumer Brand Moat, and Mission-Driven Customer Education. No direct contradiction found; the source reinforces the wiki's Advice Line pattern that early consumer-brand scaling should protect trust, product clarity, and bounded experimentation before committing to expensive channels.
+
 ## [2026-08-10] ingest | 「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人
 
 Added source page for a Shizilukou Crossing interview with Runta founder Dai Guanlan on agent runtime infrastructure, probabilistic execution, production permissions, governance, token cost, and the shift from model capability to agent infra. Created pages for Dai Guanlan, Runta, Runta Cloud Shell, Agent Runtime Execution Layer, and Agent Approval Fatigue; updated overview and index. No direct contradiction found; the source reinforces the wiki's agent-harness and enterprise-governance branch while qualifying token maxxing as an early adoption tactic that later needs cost and value discipline.
@@ -7561,3 +7565,7 @@ Added source page for a 张小珺Jùn｜商业访谈录 episode with Nvidia rese
 ## [2026-08-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-13] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 10,778 wiki pages. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-12 with 10,690 nodes and 116,995 edges while the wiki scan found 10,778 pages; they found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
