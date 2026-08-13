@@ -2,8 +2,8 @@
 title: "GLP-1 Agonists"
 type: concept
 tags: [healthcare, drugs, metabolism, weight-loss]
-sources: [156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]
-last_updated: 2026-08-08
+sources: [156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]
+last_updated: 2026-08-13
 ---
 
 # GLP-1 Agonists
@@ -18,6 +18,8 @@ The source distinguishes the category's public popularity from the safety status
 
 [[working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]] adds a dementia-boundary note. The source says early studies have not helped people who already have dementia, while leaving open whether much earlier use could matter indirectly through obesity and related [[ModifiableDementiaRiskFactors]].
 
+[[caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]] adds a consumer-demand spillover note. The fast-food segment treats GLP-1 drugs as one possible pressure on old fast-food habits, alongside inflation, health concerns, food-safety fear, and grocery competition in the broader [[FastFoodDemandReset]].
+
 ## Key Claims
 - GLP-1 awareness helps explain why injectable peptides became legible to non-specialists.
 - Demand for cheaper GLP-1-like effects can spill into unapproved supply channels.
@@ -27,6 +29,7 @@ The source distinguishes the category's public popularity from the safety status
 - The source's next-generation watch item is fat loss without excessive muscle loss.
 - Episode 156 adds that capacity, sales guidance, persistence of use, and discontinuation rebound are central to GLP-1 market interpretation.
 - The dementia source adds that negative early treatment results in established dementia do not settle whether earlier metabolic prevention could affect later risk.
+- The fast-food source adds that GLP-1 adoption may affect restaurant demand, but only as one factor among price, safety, and health pressures.
 
 ## Connections
 - [[Ozempic]] - named product reference point in the episode.
@@ -37,3 +40,4 @@ The source distinguishes the category's public popularity from the safety status
 - [[FiniteGameBiotechCompetition]] - mature but high-value category competition.
 - [[BiotechBDDataValidationPhase]] - broader 2026 pharma execution context.
 - [[AlzheimerDrugEfficacyGap]], [[ModifiableDementiaRiskFactors]], and [[CardiovascularBrainHealthLink]] - dementia-prevention and treatment-boundary context added by The Intelligence.
+- [[FastFoodDemandReset]], [[McDonalds|McDonald's]], [[TacoBell]], and [[BurgerKing]] - consumer-demand branch added by the Caracas episode.

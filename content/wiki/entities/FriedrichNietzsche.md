@@ -2,8 +2,8 @@
 title: "Friedrich Nietzsche / 尼采"
 type: entity
 tags: [person, philosophy]
-sources: [20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]
-last_updated: 2026-07-25
+sources: [20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]
+last_updated: 2026-08-13
 ---
 
 # Friedrich Nietzsche / 尼采
@@ -16,8 +16,11 @@ In the wiki, this places Nietzsche inside the episode's broader [[MunchausenSelf
 
 [[20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734]] adds Nietzsche as one of the philosophical neighbors used to frame [[HermannHesse|Hesse]]'s [[DemianNovel|《德米安》]]. The source does not develop a full Nietzsche reading, but it places Hesse's [[SelfDiscoveryAgainstMassConformity|self-discovery against conformity]] near anti-orthodox, anti-herd, and existential questions rather than near simple self-help.
 
+[[caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]] adds Nietzsche as an early critic of [[RichardWagner]]. The source says Nietzsche recoiled from Wagner's antisemitism, placing Nietzsche inside the wiki's [[IdeologicallyCompromisedArt]] branch around how later audiences evaluate powerful work by politically compromised artists.
+
 ## Connections
 - [[MunchausenSelfBootstrapping]] - philosophical motif discussed by the source.
 - [[PhilosophyWorkplaceSatire]] and [[PureRationalityTrap]] - workplace-satire concepts added by episode 92.
 - [[ArthurSchopenhauer]], [[LudwigWittgenstein]], and [[KarlPopper]] - other thinkers linked by the episode.
 - [[AdventuresOfBaronMunchausen|《吹牛大王历险记》]] - literary source of the motif.
+- [[RichardWagner]], [[DerRingDesNibelungen]], and [[IdeologicallyCompromisedArt]] - Wagner reception branch added by The Intelligence.

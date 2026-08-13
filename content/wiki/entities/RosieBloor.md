@@ -2,8 +2,8 @@
 title: "Rosie Bloor"
 type: entity
 tags: [host, media]
-sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c, spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354]
-last_updated: 2026-08-11
+sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c, spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]
+last_updated: 2026-08-13
 ---
 
 # Rosie Bloor
@@ -20,6 +20,8 @@ Rosie Bloor is the host voice for [[stock-options-how-to-hedge-an-ai-bubble-698e
 
 [[for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95]] adds another host context, again with the transcript spelling her as Rosie Blore. She introduces the episode's sequence on [[CompetitiveBillionaireWealth]], [[Cambodia]] scam compounds, and [[LarryTheCat]].
 
+[[caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]] adds another host context, again with the transcript spelling her as Rosie Blore. She introduces the episode's sequence on [[Venezuela]]'s transition talks, the U.S. [[FastFoodDemandReset]], and [[RichardWagner]]'s [[DerRingDesNibelungen|Ring cycle]].
+
 ## Connections
 - [[TheIntelligence]] — show context.
 - [[CompetitiveBillionaireWealth]], [[ScamCompoundPoliticalProtection]], and [[PoliticalImageMaintenance]] — themes introduced in the For bucks' sake source.
@@ -29,3 +31,4 @@ Rosie Bloor is the host voice for [[stock-options-how-to-hedge-an-ai-bubble-698e
 - [[AndyBurnham]], [[PostwarReconstructionFinance]], and [[FarmersMarketUrbanism]] — themes introduced in the new source.
 - [[ElonMusk]], [[YouthCriminalResponsibility]], and [[MonaKhalil]] - themes introduced in The Elon game source.
 - [[MuslimBrotherhood]], [[CrimeStatisticsComparability]], and [[PadelParticipationBoom]] - themes introduced in the Brotherhood/crime/padel source.
+- [[DemocraticTransitionElection]], [[FastFoodDemandReset]], and [[Gesamtkunstwerk]] - themes introduced in the Caracas/Wagner source.

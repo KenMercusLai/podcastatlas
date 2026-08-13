@@ -1,9 +1,9 @@
 ---
 title: "Venezuela"
 type: entity
-tags: [country, politics, economics, oil, currency, disaster-response, crypto]
-sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, chevron-venezuela-and-the-paradox-of-plenty, venezuelas-recent-economic-history-update, dark-times-for-cubas-economic-experiment, the-secret-meeting-that-launched-opec, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]
-last_updated: 2026-08-06
+tags: [country, politics, economics, oil, currency, disaster-response, crypto, democratic-transition]
+sources: [153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, chevron-venezuela-and-the-paradox-of-plenty, venezuelas-recent-economic-history-update, dark-times-for-cubas-economic-experiment, the-secret-meeting-that-launched-opec, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]
+last_updated: 2026-08-13
 ---
 
 # Venezuela
@@ -22,6 +22,8 @@ Venezuela is the country at the center of [[fault-lines-venezuelas-paltry-earthq
 
 In the source, shortages of machinery, fuel, medical capacity, trained personnel, and organized aid turn rescue delays into a [[DisasterResponseStateCapacity]] case. The [[UnitedStates]] response and earlier political intervention make recovery inseparable from questions about stabilization, reconstruction, and the timetable for a [[DemocraticTransitionElection]].
 
+[[caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]] adds the negotiation phase after the earthquake and intervention sequence. The source says talks between the [[DelcyRodriguez]] regime and opposition figures are discussing aid, political rights, the [[VenezuelanElectoralCouncil]], and the [[VenezuelanSupremeCourt]], with [[MarcoRubio]] and the [[USDepartmentOfState|U.S. Department of State]] using oil-revenue permissions as [[OilRevenueSanctionsLeverage]]. The episode treats [[MariaCorinaMachado]]'s absence as an [[OppositionLegitimacyGap]] rather than proof that talks are meaningless.
+
 [[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]] adds a separate stablecoin-adoption angle. [[AriRedbord]] cites Venezuela as one place where U.S. dollar-backed [[Stablecoins]] can support financial access, while the same episode warns that stablecoins can also be used by bad actors outside the traditional financial system.
 
 [[the-secret-meeting-that-launched-opec]] adds Venezuela to the oil-institution branch. The [[PlanetMoney]] episode says Venezuelan officials were part of the secret 1959 meeting that led to [[OPEC]], making Venezuela one of the producer-state actors reacting to [[SevenSistersOilMajors|Seven Sisters]] pricing power.
@@ -38,6 +40,8 @@ In the source, shortages of machinery, fuel, medical capacity, trained personnel
 - [[HaleySalmon]] — correspondent explaining the rescue failure and public anger.
 - [[UnitedStates]] — external actor whose political involvement creates recovery responsibility in the source's framing.
 - [[DisasterResponseStateCapacity]] and [[DemocraticTransitionElection]] — core concepts attached to the Venezuela segment.
+- [[KinleySalmon]], [[MarcoRubio]], [[DinoraFigueroa]], and [[JorgeRodriguez]] - negotiation participants and explainer in the Caracas talks source.
+- [[VenezuelanElectoralCouncil]], [[VenezuelanSupremeCourt]], [[OilRevenueSanctionsLeverage]], and [[OppositionLegitimacyGap]] - institutional and leverage branch added by the new source.
 - [[Stablecoins]] and [[StablecoinSanctionsEvasion]] — financial-access and dual-use crypto branch added by Marketplace Tech.
 - [[OPEC]], [[SevenSistersOilMajors]], and [[OilProducerSupplyCoordination]] — oil-market coordination branch added by Planet Money.
 - [[Cuba]], [[ExternalPatronDependence]], and [[OilDependencyBlackoutRisk]] — Cuba oil-lifeline branch added by the new Planet Money episode.
