@@ -2,11 +2,15 @@
 title: "Jensen Huang"
 type: entity
 tags: [person, ai, semiconductors, investing]
-sources: [suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]
-last_updated: 2026-08-10
+sources: [150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y, suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1]
+last_updated: 2026-08-13
 ---
 
 # Jensen Huang
+
+[[150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y]] adds Huang through [[LiuMingyu|Liu Ming-Yu / 刘洺堉]]'s internal account at [[Nvidia]]. Liu says Huang sends papers, asks for summaries, reasons from first principles, and pushes prioritization around what matters rather than around external noise. The episode also links Huang's long-term commitment to [[CUDA]] and deep learning with his instruction to keep Cosmos going toward "Cosmos 97."
+
+The source presents Huang's criticism style as demanding rather than purely motivational: Liu recalls Huang challenging him with "Are you a crying baby?" during a proposal comparison. In the wiki, this extends Huang from public narrator of Nvidia's platform strategy into an operating-culture figure tied to [[AIOrganizationDesign]], low ego, mission-first collaboration, and ecosystem success.
 
 [[suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]] adds Huang as an allegorical figure inside a dream about [[AIFactoryAllegory]]. The episode's "老黄炒 GPU" scene treats him as the comic face of compute scarcity and [[Nvidia]]'s leverage, not as a factual statement about Huang's conduct or strategy.
 
@@ -35,6 +39,7 @@ Jensen Huang appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-
 - The What's Next source uses Huang as a signal that AI competition is partly fought through packaging and memory supply commitments, not only chip design.
 - E230 uses Huang as the public narrator of Nvidia's platform shift from GPU supplier to AI infrastructure company, while keeping the $1 trillion figure contingent on supply-chain and data-center execution.
 - S10E16 uses Huang as a management counterexample to [[Intel]]'s missed GPU-era transition, not as a valuation claim.
+- Episode 150 uses Huang as an internal operating-culture influence on [[LiuMingyu|Liu Ming-Yu / 刘洺堉]] and [[CosmosLab]], not as an independent technical evaluator of [[Cosmos3]].
 
 ## Connections
 - [[Nvidia]] — company context.
@@ -46,3 +51,4 @@ Jensen Huang appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-
 - [[TSMC]], [[HighBandwidthMemory]], [[MemoryCapacityLockIn]], and [[AIStorageSupercycle]] — capacity-locking context added by What's Next.
 - [[NvidiaBlackwellPlatform]], [[NvidiaVeraRubinPlatform]], [[TokenPerWatt]], [[InferenceAsCashFlow]], and [[DataCenterPowerBottleneck]] - E230's GTC order and infrastructure-execution frame.
 - [[DisruptiveInnovation]], [[LargeCompanyOrganizationalInertia]], [[Intel]], and [[AndrewGrove]] - S10E16's self-disruption and management branch.
+- [[LiuMingyu|Liu Ming-Yu / 刘洺堉]], [[CosmosLab]], [[Cosmos3]], [[ResearchTaste]], and [[AIOrganizationDesign]] - internal culture and Physical AI branch added by episode 150.

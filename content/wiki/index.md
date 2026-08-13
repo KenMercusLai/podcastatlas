@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [150. 对英伟达研究副总裁刘洺堉的4小时访谈：Cosmos 3、世界模型、武术、黄仁勋影响我的，和你不需要击败所有对手](sources/150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y.md) — 张小珺Jùn｜商业访谈录 episode with Nvidia research VP Liu Ming-Yu on Cosmos 3, world foundation models, Physical AI generalization, egocentric data, open model strategy, and Jensen Huang's operating influence.
 - [Vol.270 大食代留在了它的时代](sources/vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835.md) — 商业就是这样 episode on 大食代/Food Republic, Singapore hawker-centre origins, food-court second-landlord economics, shopping-center restaurantization, supermarket and platform canteens, scene-led food markets, and why the old mall food-court model lost fit.
 - [没有方向盘的出行，走到哪一步了？ NVIDIA × 小马智行一次聊透智能驾驶](sources/acc532947b65-acc532947b65.md) — 科技乱炖 episode with NVIDIA and Pony.ai on Robotaxi, L2/L3/L4 responsibility boundaries, car-grade compute, simulation/world models, fleet operations, and commercialization.
 - [No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 | 中国互联网故事 26](sources/no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305.md) — Banlatte episode on Xiaohongshu, Bilibili, AcFun, Neihan Duanzi, TapTap, Keep, LOFTER, Maimai, Jike, and Xiaoyuzhou as mobile-era Chinese communities balancing usefulness, belonging, governance, and monetization.
@@ -943,6 +944,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Liu Ming-Yu / 刘洺堉](entities/LiuMingyu.md) — Nvidia research VP and Cosmos Lab lead explaining Cosmos 3 as a world foundation model for Physical AI developers.
+- [Cosmos Lab](entities/CosmosLab.md) — Nvidia team led by Liu Ming-Yu, building Cosmos world foundation models and ecosystem infrastructure for Physical AI.
 - [大食代 / Food Republic](entities/FoodRepublic.md) — Food-court operator whose China mall model is presented as a second-landlord solution that later lost fit.
 - [Food Junction](entities/FoodJunction.md) — Singapore food-court company in the episode's lineage from hawker centres to Food Republic.
 - [郭明忠 / Guo Mingzhong](entities/GuoMingzhong.md) — Singapore foodservice founder linked to Food Junction, Food Republic, and BreadTalk.
@@ -6438,6 +6441,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [World Foundation Models](concepts/WorldFoundationModels.md) — Physical-world foundation-model frame from the Cosmos 3 interview, emphasizing better data, starting points, and environments for Physical AI.
 - [Hawker Centre / 食阁](concepts/HawkerCentre.md) — Singapore-origin shared foodservice infrastructure behind the episode's food-court history.
 - [Food-Court Second Landlord / 美食广场二房东](concepts/FoodCourtSecondLandlord.md) — Model where an operator leases mall space, subdivides stalls, controls shared operations, and charges vendors through take rates and fees.
 - [Commercial Real-Estate Foodservice Gap / 商业地产餐饮空缺](concepts/CommercialRealEstateFoodserviceGap.md) — Early mall condition where weak foodservice and awkward spaces created room for food-court operators.

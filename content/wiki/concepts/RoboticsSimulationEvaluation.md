@@ -2,11 +2,13 @@
 title: "Robotics Simulation Evaluation"
 type: concept
 tags: [robotics, simulation, evaluation]
-sources: [acc532947b65-acc532947b65, e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
-last_updated: 2026-08-12
+sources: [150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y, acc532947b65-acc532947b65, e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
+last_updated: 2026-08-13
 ---
 
 # Robotics Simulation Evaluation
+
+[[150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y]] adds the [[Cosmos3]] "better environments" frame. [[LiuMingyu|Liu Ming-Yu / 刘洺堉]] says the goal is to give robots a Matrix-like learning environment for [[PhysicalAI]], but he also divides evaluation into benchmarks, arena-style comparisons, and customer-pain tests. That keeps simulation tied to actual deployment gaps rather than only visual realism.
 
 Robotics simulation evaluation is the source's claim that simulation is not just a training accelerator but a necessary evaluation and feedback infrastructure for [[EmbodiedAI]]. [[XieChen]] argues in [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]] that robots cannot yet rely on a massive real-world shadow mode the way autonomous driving could, so repeated, scalable, physically meaningful simulation becomes central.
 
@@ -25,6 +27,7 @@ Robotics simulation evaluation is the source's claim that simulation is not just
 - Tactile simulation has to reproduce contact deformation, force, friction, texture, and slip, not only the appearance of a robot touching an object.
 - Simulation has to be co-designed with the target robot body because grippers, motors, response latency, and boot-time variation affect transfer.
 - Autonomous-driving simulation adds interactive road-user behavior: the simulator must respond plausibly when the ego vehicle waits, yields, turns, or reroutes.
+- Cosmos adds that generated learning environments should improve [[RobotGeneralizationPerformanceTradeoff|robot generalization]], but still have to be judged against real customer problems.
 
 ## Connections
 - [[GuanglunIntelligence]] and [[XieChen]] — source company and guest.
@@ -34,3 +37,4 @@ Robotics simulation evaluation is the source's claim that simulation is not just
 - [[YimuTechnology]], [[OpticalTactileSensing]], [[TactileSensing]], and [[TouchNet]] — tactile-simulation and dataset context added by the What's Next source.
 - [[SuduTechnology]], [[Sim2Real]], [[Structured3DRobotData]], and [[ManiSkill]] — manipulation simulation route added by E244.
 - [[AutonomousDrivingSimulation]], [[PonyAI|Pony.ai]], [[Nvidia]], [[WorldModels]], and [[CarGradeAutonomousCompute]] - Robotaxi simulation branch added by the 科技乱炖 episode.
+- [[CosmosLab]], [[Cosmos3]], [[WorldFoundationModels]], and [[RobotGeneralizationPerformanceTradeoff]] - Nvidia world-foundation-model branch added by episode 150.

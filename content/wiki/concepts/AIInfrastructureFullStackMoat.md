@@ -2,10 +2,12 @@
 title: "AI Infrastructure Full-Stack Moat"
 type: concept
 tags: [ai, infrastructure, semiconductors, strategy]
-sources: [acc532947b65-acc532947b65, e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668, 148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
-last_updated: 2026-08-12
+sources: [150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y, acc532947b65-acc532947b65, e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668, 148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+last_updated: 2026-08-13
 ---
 # AI Infrastructure Full-Stack Moat
+
+[[150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y]] adds the [[Cosmos3]] software/model branch of [[Nvidia]]'s moat. [[LiuMingyu|Liu Ming-Yu / 刘洺堉]] says a single model is not the next [[CUDA]] by itself; the platform effect comes from model, serving, infrastructure, hardware feedback, developer tools, and ecosystem adoption together. The source also explains why Nvidia does model research before demand is fully legible: chip and infrastructure design cycles are too long to wait until developers already know exactly what they need.
 
 [[e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668]] adds [[RadixARC|Redix ARK]]'s infra-first definition. [[ShengYing|盛颖]] treats the stack as broader than serving kernels: inference, RL rollout, code libraries, toolboxes, sandbox environments, and model checkpoints all belong to the capability-production system.
 
@@ -31,6 +33,7 @@ The concept qualifies simpler [[AIChipSpecialization]] stories. A rival chip may
 - Open-source inference engines can weaken closed-stack dependence, but they become durable only when community governance, maintainer labor, and production resources line up.
 - Redix ARK adds that full-stack infrastructure also includes the workbenches and environments where AI capability is produced, not only the hardware and serving layer where it is deployed.
 - In automotive AI, the full stack has to cross from training and simulation into certified vehicle hardware, long lifecycle support, and field operations.
+- In Physical AI, the full stack can also include open world-foundation models, simulation environments, post-training support, and customer feedback from robot or vehicle developers.
 
 ## Connections
 - [[RadixARC|Redix ARK]], [[SGLang]], [[AIInfrastructureAsProduct]], [[AgentRL]], and [[DayZeroModelSupport]] - source-247 infra-first extension.
@@ -41,3 +44,4 @@ The concept qualifies simpler [[AIChipSpecialization]] stories. A rival chip may
 - [[AIAcceleratorSupernode]], [[ScaleUpAIInterconnect]], [[ProprietaryAIInterconnectFragmentation]], and [[DomesticAIChipOrderValidation]] - WAIC source's domestic supernode extension.
 - [[VLLM|vLLM]], [[Infract]], [[OpenSourceAIInfrastructure]], and [[ModelInfraCoDesign]] - open inference-engine layer added by episode 148.
 - [[ZhuoRui]], [[CarGradeAutonomousCompute]], [[AutonomousDrivingSimulation]], [[CUDA]], and [[RobotaxiFleetOperations]] - automotive edge-compute extension added by the 科技乱炖 episode.
+- [[LiuMingyu|Liu Ming-Yu / 刘洺堉]], [[CosmosLab]], [[Cosmos3]], [[WorldFoundationModels]], and [[LargeCompanyOpenSourceStrategy]] - Physical AI model/platform extension added by episode 150.

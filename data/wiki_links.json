@@ -463,6 +463,10 @@
     "title": "150.吃菌！和阿错聊云南的鸡枞、松茸、见手青",
     "url": "/wiki/sources/150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165/"
   },
+  "150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y": {
+    "title": "150. 对英伟达研究副总裁刘洺堉的4小时访谈：Cosmos 3、世界模型、武术、黄仁勋影响我的，和你不需要击败所有对手",
+    "url": "/wiki/sources/150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y/"
+  },
   "150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g": {
     "title": "150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方",
     "url": "/wiki/sources/150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g/"
@@ -9230,6 +9234,10 @@
   "CosmosBook": {
     "title": "《宇宙》 / Cosmos",
     "url": "/wiki/entities/cosmosbook/"
+  },
+  "CosmosLab": {
+    "title": "Cosmos Lab",
+    "url": "/wiki/entities/cosmoslab/"
   },
   "CostBenefitThinking": {
     "title": "Cost-Benefit Thinking",
@@ -21902,6 +21910,10 @@
   "LiuLiangyou": {
     "title": "刘良佑 / Liu Liangyou",
     "url": "/wiki/entities/liuliangyou/"
+  },
+  "LiuMingyu": {
+    "title": "Liu Ming-Yu / 刘洺堉",
+    "url": "/wiki/entities/liumingyu/"
   },
   "LiuQing": {
     "title": "刘擎 / Liu Qing",
@@ -38602,6 +38614,10 @@
   "WorldCupHostCityEconomics": {
     "title": "World Cup Host-City Economics",
     "url": "/wiki/concepts/worldcuphostcityeconomics/"
+  },
+  "WorldFoundationModels": {
+    "title": "World Foundation Models",
+    "url": "/wiki/concepts/worldfoundationmodels/"
   },
   "WorldGoldCouncil": {
     "title": "World Gold Council / 世界黄金协会",

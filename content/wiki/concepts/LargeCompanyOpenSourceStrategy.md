@@ -2,11 +2,13 @@
 title: "Large Company Open Source Strategy"
 type: concept
 tags: [open-source, strategy, organizations]
-sources: [148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
-last_updated: 2026-08-08
+sources: [150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y, 148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
+last_updated: 2026-08-13
 ---
 
 # Large Company Open Source Strategy
+
+[[150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y]] adds [[Nvidia]]'s [[Cosmos3]] version through [[LiuMingyu|Liu Ming-Yu / 刘洺堉]]. Liu says open [[WorldFoundationModels|world foundation model]] releases are not mainly about beating customers; they reduce the base-model burden on [[PhysicalAI]] developers, help the ecosystem move faster, and teach Nvidia what future hardware, serving, data, and simulation infrastructure should support.
 
 Large company open source strategy is the use of open releases to gain influence, developers, ecosystem leverage, and market attention. [[ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]] argues that this is especially awkward inside big Chinese internet companies because open-source projects can be driven by individual champions, executive marketing goals, weak projects trying to change the rules, or smaller companies whose business model directly depends on openness.
 
@@ -20,6 +22,7 @@ Large company open source strategy is the use of open releases to gain influence
 - Open source can help a non-leading product redefine the competitive game, but success may trigger internal debates about who captures the value.
 - Open releases can also function as geopolitical messaging when restricted closed models create an opening for "available to everyone" positioning.
 - Open infrastructure may need a company for production support while still needing foundation or community governance to preserve trust.
+- Infrastructure-company open models can function as market creation when customer success increases demand for the broader platform.
 
 ## Connections
 - [[OpenSourceAIModels]] — model category where this strategy is currently important.
@@ -27,3 +30,4 @@ Large company open source strategy is the use of open releases to gain influence
 - [[AICommercializationPressure]] — pressure that complicates the strategy.
 - [[ZhipuAI]], [[GLM52]], [[AIExportControls]], and [[SaaSReliabilityUnderPolicyRisk]] — policy-response release case added by the Keji Luandun export-control episode.
 - [[VLLM|vLLM]], [[Infract]], [[PyTorchFoundation|PyTorch Foundation]], and [[OpenSourceAIInfrastructure]] — company-supported open infrastructure case added by episode 148.
+- [[Nvidia]], [[Cosmos3]], [[CosmosLab]], [[WorldFoundationModels]], and [[PhysicalAI]] — open world-model release strategy added by episode 150.

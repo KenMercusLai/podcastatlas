@@ -7553,3 +7553,11 @@ Added source page for a 商业就是这样 episode on 大食代/Food Republic, S
 ## [2026-08-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-13] ingest | 150. 对英伟达研究副总裁刘洺堉的4小时访谈：Cosmos 3、世界模型、武术、黄仁勋影响我的，和你不需要击败所有对手
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode with Nvidia research VP Liu Ming-Yu on Cosmos 3, world foundation models, Physical AI generalization, egocentric data, open model strategy, and Jensen Huang's operating influence. Created pages for Liu Ming-Yu / 刘洺堉, Cosmos Lab, and World Foundation Models; updated overview, index, 张小珺Jùn｜商业访谈录, Nvidia, Jensen Huang, Cosmos 3, World Models, Physical AI, World Model VLA Fusion, Robotics Simulation Evaluation, Robot Generalization Performance Tradeoff, Robot Data Scale Up, Embodied Native Foundation Models, Large Company Open Source Strategy, AI Infrastructure Full-Stack Moat, AI Organization Design, Research Taste, and Problem Definition In Research. No direct contradiction found; the source-internal 刘洺堉/劉明玉 name rendering mismatch is preserved as a note while treating both forms as the same guest.
+
+## [2026-08-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,11 +2,13 @@
 title: "Embodied Native Foundation Models"
 type: concept
 tags: [robotics, embodied-ai, foundation-models, physical-ai]
-sources: [147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]
-last_updated: 2026-08-07
+sources: [150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y, 147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]
+last_updated: 2026-08-13
 ---
 
 # Embodied Native Foundation Models
+
+[[150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y]] adds a complementary infrastructure-company route. [[LiuMingyu|Liu Ming-Yu / 刘洺堉]] does not argue that [[Cosmos3]] replaces robot-native data or body-specific post-training; he frames it as a [[WorldFoundationModels|world foundation model]] starting point that [[PhysicalAI]] developers can adapt with their own data, tasks, and embodiments.
 
 Embodied native foundation models are [[ShenYujun|沈宇军]]'s core thesis in [[147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga]]. The idea is that robot intelligence should not be treated as a language model or digital video model with a mechanical arm attached. It needs a model stack native to sensors, spatial perception, video time, action, embodiment, and real-time physical execution.
 
@@ -20,6 +22,7 @@ The source makes this a practical strategy for [[AntLingbo|蚂蚁灵波]]. The c
 - [[VisionLanguageActionModels]], [[WorldModels]], [[WorldActionModels]], and VA-style work may converge when the system has to connect perception, future state, and action.
 - [[RobotDataScaleUp]] is the limiting condition: embodied-native architecture is not enough without data that scales and remains useful to the model.
 - Better robot brains will reshape sensor and body requirements, so "brain first" still implies body and sensor co-evolution.
+- Nvidia's Cosmos source adds a platform-starting-point route: open base models can help, but useful embodied performance still depends on post-training, data fit, and task-specific evaluation.
 
 ## Connections
 - [[AntLingbo|蚂蚁灵波]] and [[ShenYujun|沈宇军]] — company and source speaker.
@@ -27,3 +30,4 @@ The source makes this a practical strategy for [[AntLingbo|蚂蚁灵波]]. The c
 - [[VisionLanguageActionModels]], [[WorldModels]], [[WorldActionModels]], and [[WorldModelVLAFusion]] — model families this source links together.
 - [[RobotDataScaleUp]], [[RealRobotDataStrategy]], and [[EmbodiedRobotDataParadigms]] — data bottlenecks behind the concept.
 - [[TactileSensing]], [[DexterousManipulation]], and [[RobotFormFactorPragmatism]] — sensor, hand, and body questions the source expects to change with model progress.
+- [[Cosmos3]], [[CosmosLab]], [[WorldFoundationModels]], and [[LargeCompanyOpenSourceStrategy]] — ecosystem foundation-model route added by episode 150.

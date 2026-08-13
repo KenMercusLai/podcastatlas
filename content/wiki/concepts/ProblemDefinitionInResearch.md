@@ -2,11 +2,13 @@
 title: "Problem Definition In Research"
 type: concept
 tags: [research, ai, methodology]
-sources: [ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
-last_updated: 2026-07-24
+sources: [150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
+last_updated: 2026-08-13
 ---
 
 # Problem Definition In Research
+
+[[150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y]] adds [[LiuMingyu|Liu Ming-Yu / 刘洺堉]]'s practical version. Liu says the core of research is asking the right question; his own path from image generation to [[Cosmos3]] shows problem definition changing when scale, customer use, and [[PhysicalAI]] impact become more important than a clean paper problem.
 
 Problem definition in research is the ability to make a question precise, tractable, and consequential enough for a field to move. [[133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]] treats this as one of the core research abilities.
 
@@ -17,6 +19,8 @@ Problem definition in research is the ability to make a question precise, tracta
 
 [[ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz]] adds [[HaotianOdin]]'s biological-startup version. His [[AllModalMolecularWorldModel]] claim is a problem-definition move before it is a proven architecture: if the real biological problem crosses small molecules, proteins, RNA, and DNA, then separate single-modality tools may define the problem too narrowly.
 
+[[150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y]] adds the infrastructure-company version. [[LiuMingyu|Liu Ming-Yu / 刘洺堉]] defines the problem not as "make the strongest video model," but as helping [[PhysicalAI]] developers through better data, better starting points, and better environments; that problem definition makes [[WorldFoundationModels]] more precise than the broader [[WorldModels]] label.
+
 ## Connections
 - [[FeiFeiLi]] and [[ImageNet]] — core example in the source.
 - [[XieSaining]] — speaker who draws the methodological lesson.
@@ -25,3 +29,4 @@ Problem definition in research is the ability to make a question precise, tracta
 - [[WorldModels]] — field where definition remains contested between video generation, prediction, causality, action, and product interface.
 - [[YaoShunyu]], [[FrontierModelScaling]], [[LongHorizonAI]], and [[MLCoding]] — frontier-model training version added by episode 140.
 - [[HaotianOdin]], [[YinglingdianAI]], [[AllModalMolecularWorldModel]], and [[AIDrugDiscoveryPlatform]] — molecular-biology problem-definition branch added by the Shizilukou Crossing source.
+- [[LiuMingyu|Liu Ming-Yu / 刘洺堉]], [[Cosmos3]], [[WorldFoundationModels]], and [[PhysicalAI]] — infrastructure and world-model problem-definition branch added by episode 150.
