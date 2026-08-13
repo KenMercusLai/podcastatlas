@@ -7545,3 +7545,11 @@ Added source page for a 科技乱炖 episode with NVIDIA and Pony.ai on Robotaxi
 ## [2026-08-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-13] ingest | Vol.270 大食代留在了它的时代
+
+Added source page for a 商业就是这样 episode on 大食代/Food Republic, Singapore hawker-centre origins, 郭明忠, Food Junction, BreadTalk, food-court second-landlord economics, early Chinese mall foodservice gaps, shopping-center restaurantization, chain-restaurant competition, supermarket canteens, platform canteens, scene-led food markets, and enterprise or education canteen directions. Created pages for 大食代 / Food Republic, Food Junction, 郭明忠 / Guo Mingzhong, 面包新语 / BreadTalk, 北京东方新天地 / Beijing Oriental Plaza, 美团浣熊食堂 / Meituan Huanxiong Shitang, 城市集市 / City Mart, Hawker Centre, Food-Court Second Landlord, Commercial Real-Estate Foodservice Gap, Shopping-Center Restaurantization, Mall Food-Court Decline, Food-Court Brand Incubation, Supermarket Canteen, Platform Canteen, Scene-Led Food Market, and Internal Canteen Food-Court Operation; updated overview, index, 商业就是这样, Hema, Meituan, JD.com, Wanda Group, Singapore, Mall Based Retail Expansion, Retail Site Selection, Chain Restaurant Standardization, Restaurant Supply Chain Localization, Restaurant Experience Design, Experiential Retail, and Instant Retail. No direct contradiction found; the source qualifies the wiki's restaurant and mall-retail branches by separating the old second-landlord food-court model from newer supermarket, platform, landlord-run, and scene-led foodservice forms.
+
+## [2026-08-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

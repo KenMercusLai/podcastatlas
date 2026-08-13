@@ -2,8 +2,8 @@
 title: "商业就是这样"
 type: entity
 tags: [podcast, media, business]
-sources: [shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014, vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119, vol-268-liang-ge-lao-si-lai-si-1003563933, vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, vol-266-yi-ci-xing-gao-dong-etf-1002344828, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, jiufan-zhongting-mifeng-jingjixue-956460448, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]
-last_updated: 2026-08-10
+sources: [vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014, vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119, vol-268-liang-ge-lao-si-lai-si-1003563933, vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, vol-266-yi-ci-xing-gao-dong-etf-1002344828, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, jiufan-zhongting-mifeng-jingjixue-956460448, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]
+last_updated: 2026-08-13
 ---
 
 # 商业就是这样
@@ -40,8 +40,11 @@ The episode's distinctive contribution to the wiki is its distributed method. In
 
 [[vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119]] adds the show's Hong Kong financial-history branch. It uses the [[HongkongLandDairyFarmTakeover|置地饮牛奶]] case to connect [[HongkongLand|香港置地]], [[DairyFarmInternational|牛奶公司]], [[JardineMatheson|怡和]], newspaper tender campaigning, stock split confusion, four-exchange fragmentation, the [[HangSengIndex|恒生指数]], and [[HongKongDollarHotMoneyCycle|港元热钱]] into a concrete account of the [[HongKong1973StockMarketCrash|1973年香港股灾]].
 
+[[vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835]] adds the show's mall-foodservice and commercial-real-estate branch. It uses [[FoodRepublic|大食代]], [[HawkerCentre|Singapore hawker centres]], [[GuoMingzhong|郭明忠]], [[FoodJunction]], and [[BreadTalk]] to show how a food-court operator once solved China's [[CommercialRealEstateFoodserviceGap|mall foodservice gap]] as a [[FoodCourtSecondLandlord|second landlord]], then lost fit as [[ShoppingCenterRestaurantization|shopping centers became more restaurantized]], chain brands improved, and supermarkets, platforms, and scene-led markets took over parts of the same demand.
+
 ## Connections
 - [[vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]] — fifth-anniversary source page.
+- [[vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835]] - 大食代, food-court second-landlord economics, and mall-foodservice transition source page.
 - [[vol-268-liang-ge-lao-si-lai-si-1003563933]] - Rolls-Royce, RB211, Lockheed TriStar, nationalization, and bribery source page.
 - [[vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119]] - Hongkong Land, Dairy Farm, Jardine, and the 1973 Hong Kong crash source page.
 - [[jiufan-zhongting-mifeng-jingjixue-956460448]] — bee-economics source page.

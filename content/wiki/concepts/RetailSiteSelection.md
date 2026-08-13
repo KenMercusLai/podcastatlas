@@ -2,8 +2,8 @@
 title: "Retail Site Selection"
 type: concept
 tags: [retail, location, distribution, operations, restaurants]
-sources: [serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, 132-xuegao-jianghu-fengtouquan-1-132-1, vol-263-lang-de-youhuo-998128018, theres-no-business-like-dough-business, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
-last_updated: 2026-08-08
+sources: [vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, 132-xuegao-jianghu-fengtouquan-1-132-1, vol-263-lang-de-youhuo-998128018, theres-no-business-like-dough-business, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
+last_updated: 2026-08-13
 ---
 
 # Retail Site Selection
@@ -26,6 +26,8 @@ The concept matters because [[ExperientialRetail]] depends on context. A make-yo
 
 [[serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66]] adds a brand-signaling version through [[SerenaAndLily|Serena & Lily]]'s first Hamptons store. [[SerenaDugan]] says the founders chose the location because they wanted the store to have the greatest chance of success; the store then attracted major New York media and helped the team see the product line together outside warehouse and catalog contexts.
 
+[[vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835]] adds a food-court operator version through [[FoodRepublic|大食代]]. The source shows that site selection can happen at the zone level rather than only at the storefront level: basements, top floors, and awkward mall areas became viable when a [[FoodCourtSecondLandlord|second landlord]] could aggregate stalls, seating, and licensing, but later became contestable once mall circulation and restaurant leasing improved.
+
 ## Key Claims
 - Traffic volume is not the same as qualified customer intent.
 - Tourist, outlet, and prestige locations can produce different behavior than family-oriented malls.
@@ -39,6 +41,7 @@ The concept matters because [[ExperientialRetail]] depends on context. A make-yo
 - For impulse products, multiple nearby storefronts can be rational when each one faces a distinct path and creates a purchase that would not have happened at the other location.
 - U.S. restaurant site selection also includes permitting time, existing kitchen infrastructure, fire and health approvals, lease length, and landlord confidence in the local operator.
 - For a premium home brand, the first store can be chosen less as a pure unit-economics test than as a high-probability brand proof point for customers, media, investors, and the internal team.
+- Food-court site selection depends on whether the operator is solving a landlord's weak-space problem or merely occupying space the landlord can now lease more profitably itself.
 
 ## Connections
 - [[BuildABear]] and [[MaxineClark]] - source case.
@@ -53,3 +56,4 @@ The concept matters because [[ExperientialRetail]] depends on context. A make-yo
 - [[WetzelsPretzels]], [[RickyAlam]], [[AtlanticAvenueBarclaysCenter]], [[ImpulseRetailClustering]], and [[SharedKitchenSatelliteRetail]] - pretzel-chain case where route-specific foot traffic and shared production make nearby sites complementary.
 - [[DinTaiFung]], [[GongCha]], [[USRestaurantRealEstateConstraint]], and [[LocalMarketProof]] - U.S. foodservice site-selection branch added by E232.
 - [[SerenaAndLily|Serena & Lily]], [[LilyKanter]], [[SerenaDugan]], [[ExperientialRetail]], and [[DirectToConsumerBrandControl]] - home-brand branch where the first store was chosen to maximize proof and visibility.
+- [[FoodRepublic]], [[BeijingOrientalPlaza]], [[FoodCourtSecondLandlord]], [[CommercialRealEstateFoodserviceGap]], and [[ShoppingCenterRestaurantization]] - food-court site-selection branch added by the 大食代 source.

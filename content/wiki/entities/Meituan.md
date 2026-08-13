@@ -2,8 +2,8 @@
 title: "Meituan"
 type: entity
 tags: [company, local-services, travel, platform, china]
-sources: [kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]
-last_updated: 2026-07-09
+sources: [vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]
+last_updated: 2026-08-13
 ---
 
 # Meituan
@@ -22,6 +22,8 @@ The episode does not analyze Meituan's full business. Its role is to show that [
 
 [[no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]] adds Meituan to the grocery and instant-retail branch. [[MeituanYouxuan]] appears as a large-platform community-group-buying entrant, and the episode treats [[InstantRetail]] as a new local-services frontier where Meituan's delivery density, merchant relationships, and order-routing experience matter.
 
+[[vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835]] adds Meituan to the [[PlatformCanteen|platform canteen]] branch through [[MeituanHuanxiongShitang|浣熊食堂]]. The source presents this as a food-court-like format where platform traffic, branded restaurant selection, app systems, and renovation standards can replace or pressure older office-park and mall food-city operators.
+
 ## Connections
 - [[Ctrip]] — travel platform whose position Meituan may pressure.
 - [[Fliggy]], [[Douyin]], and [[JDTravel]] — other later potential competitors named by the source.
@@ -31,3 +33,4 @@ The episode does not analyze Meituan's full business. Its role is to show that [
 - [[PharmaceuticalEcommerce]], [[HealthcareO2O]], and [[InternetHealthcare]] — medicine instant-retail context added by episode 206.
 - [[CouponLedTransactionGrowth]], [[Doushenshen]], and [[LocalLifePlatformDependency]] — coupon and local-life competition context added by the Luanfanshu episode 8 source.
 - [[MeituanYouxuan]], [[CommunityGroupBuying]], [[InstantRetail]], [[FreshGroceryEcommerceEconomics]], and [[EcommerceFulfillmentComplexity]] — grocery and fulfillment context added by Banlatte episode 200.
+- [[MeituanHuanxiongShitang]], [[PlatformCanteen]], [[FoodRepublic]], and [[MallFoodCourtDecline]] - platform-led foodservice space added by the 大食代 source.

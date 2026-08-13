@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.270 大食代留在了它的时代](sources/vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835.md) — 商业就是这样 episode on 大食代/Food Republic, Singapore hawker-centre origins, food-court second-landlord economics, shopping-center restaurantization, supermarket and platform canteens, scene-led food markets, and why the old mall food-court model lost fit.
 - [没有方向盘的出行，走到哪一步了？ NVIDIA × 小马智行一次聊透智能驾驶](sources/acc532947b65-acc532947b65.md) — 科技乱炖 episode with NVIDIA and Pony.ai on Robotaxi, L2/L3/L4 responsibility boundaries, car-grade compute, simulation/world models, fleet operations, and commercialization.
 - [No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 | 中国互联网故事 26](sources/no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305.md) — Banlatte episode on Xiaohongshu, Bilibili, AcFun, Neihan Duanzi, TapTap, Keep, LOFTER, Maimai, Jike, and Xiaoyuzhou as mobile-era Chinese communities balancing usefulness, belonging, governance, and monetization.
 - [TikTok excluded millions from crucial safety guardrails](sources/tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128.md) — Marketplace Tech episode with Olivia Carville on TikTok withholding a 2021 filter-bubble safety update from about 15 million U.S. users, Chase Nasca's account, Section 230 dismissal, and product-design liability.
@@ -942,6 +943,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [大食代 / Food Republic](entities/FoodRepublic.md) — Food-court operator whose China mall model is presented as a second-landlord solution that later lost fit.
+- [Food Junction](entities/FoodJunction.md) — Singapore food-court company in the episode's lineage from hawker centres to Food Republic.
+- [郭明忠 / Guo Mingzhong](entities/GuoMingzhong.md) — Singapore foodservice founder linked to Food Junction, Food Republic, and BreadTalk.
+- [面包新语 / BreadTalk](entities/BreadTalk.md) — Bakery brand used by the source to show the same design-led food-retail logic beyond food courts.
+- [北京东方新天地 / Beijing Oriental Plaza](entities/BeijingOrientalPlaza.md) — Wangfujing mall setting for the episode's Beijing Food Republic closure case.
+- [美团浣熊食堂 / Meituan Huanxiong Shitang](entities/MeituanHuanxiongShitang.md) — Meituan platform-led canteen-like foodservice space discussed as a successor pressure on older food courts.
+- [城市集市 / City Mart](entities/CityMart.md) — Shanghai scene-led food-market operator contrasted with the older 大食代 model.
 - [卓瑞 / Zhuo Rui](entities/ZhuoRui.md) — NVIDIA autonomous-driving, robotics, and smart-city product speaker explaining the automotive AI platform stack.
 - [张宁 / Zhang Ning (Pony.ai)](entities/ZhangNingPonyAI.md) — Pony.ai speaker explaining L4 Robotaxi responsibility, fleet operations, simulation, and commercialization.
 - [Bilibili / 哔哩哔哩](entities/Bilibili.md) — Chinese video and bullet-comment community grown from MikuFans into a creator, anime, game, and youth-culture platform.
@@ -6430,6 +6438,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Hawker Centre / 食阁](concepts/HawkerCentre.md) — Singapore-origin shared foodservice infrastructure behind the episode's food-court history.
+- [Food-Court Second Landlord / 美食广场二房东](concepts/FoodCourtSecondLandlord.md) — Model where an operator leases mall space, subdivides stalls, controls shared operations, and charges vendors through take rates and fees.
+- [Commercial Real-Estate Foodservice Gap / 商业地产餐饮空缺](concepts/CommercialRealEstateFoodserviceGap.md) — Early mall condition where weak foodservice and awkward spaces created room for food-court operators.
+- [Shopping-Center Restaurantization / 购物中心餐饮化](concepts/ShoppingCenterRestaurantization.md) — Shift where malls treat restaurants as traffic anchors and build direct leasing capability.
+- [Mall Food-Court Decline / 商场美食广场衰落](concepts/MallFoodCourtDecline.md) — Decline of the old food-court model as chains, landlords, supermarkets, platforms, and scene-led markets change the fit.
+- [Food-Court Brand Incubation / 美食广场品牌孵化](concepts/FoodCourtBrandIncubation.md) — Pattern where food courts can trial brands but successful tenants may leave for independent stores.
+- [Supermarket Canteen / 超市食堂](concepts/SupermarketCanteen.md) — Grocery-led prepared-meal format using supply chain, store traffic, and ingredient turnover rather than pure restaurant margin.
+- [Platform Canteen / 平台食堂](concepts/PlatformCanteen.md) — App/platform-led foodservice space that combines branded food supply, offline stalls, and platform traffic.
+- [Scene-Led Food Market / 场景化美食市集](concepts/SceneLedFoodMarket.md) — Food-market format that competes through theme, decor, browsing, mixed retail, and social circulation.
+- [Internal Canteen Food-Court Operation / 内部食堂美食广场化](concepts/InternalCanteenFoodCourtOperation.md) — Enterprise or education canteen direction that reuses food-court management capability outside malls.
 - [Autonomous Driving Responsibility Boundary](concepts/AutonomousDrivingResponsibilityBoundary.md) — L2/L3/L4 distinction based on who owns driving responsibility and fallback duties.
 - [Robotaxi Fleet Operations](concepts/RobotaxiFleetOperations.md) — Operations layer covering dispatch, charging, maintenance, incidents, passenger handling, and vehicle lifecycle economics for driverless fleets.
 - [Car-Grade Autonomous Compute](concepts/CarGradeAutonomousCompute.md) — Vehicle-side compute stack for production autonomy, combining SoCs, software, sensors, redundancy, safety, and OTA support.

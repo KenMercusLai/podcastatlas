@@ -2,8 +2,8 @@
 title: "Restaurant Supply Chain Localization"
 type: concept
 tags: [restaurants, supply-chain, food, china, operations]
-sources: [ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]
-last_updated: 2026-08-07
+sources: [vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]
+last_updated: 2026-08-13
 ---
 
 # Restaurant Supply Chain Localization
@@ -18,6 +18,8 @@ The concept extends the wiki's food-operations branch beyond packaged-goods logi
 
 [[a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c]] adds a market-mediated version through [[Greenmarket]]. The episode says chefs build direct relationships with farmers at [[UnionSquare]], sometimes asking what to grow next year, making the market a practical sourcing interface rather than only a retail space.
 
+[[vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835]] adds a competitive mall-dining layer. The source says branded chain restaurants can pressure anonymous food-court stalls because central kitchens, centralized purchasing, and scale economies raise gross margin enough that the chain can pay mall rent directly without losing price competitiveness. In that sense, supply-chain localization and standardization can reduce the need for a [[FoodCourtSecondLandlord|food-court intermediary]].
+
 ## Key Claims
 - Localized supply chains can turn regulatory shocks or import restrictions into a test of substitution capacity rather than a direct category collapse.
 - Restaurant chains can become process teachers for upstream suppliers by specifying feed, handling, water, deodorizing, preparation, and cooking requirements.
@@ -27,6 +29,7 @@ The concept extends the wiki's food-operations branch beyond packaged-goods logi
 - Local seafood supply can still be exposed to global feed inputs; localization reduces some procurement risks but cannot fully remove [[AquacultureFeedDependency]].
 - Localized supply can change the food's form, not only its cost, when processors create smoked fish, grilled eel, small foie gras packs, or other [[PreparedHighValueFoodFormats]].
 - Farmers-market relationships can localize restaurant supply by letting chefs and growers coordinate seasonal demand before planting decisions.
+- Chain supply systems can turn malls from food-court aggregators into direct restaurant channels when brands can control cost, quality, and throughput across stores.
 
 ## Connections
 - [[Sushiro]] - central source case.
@@ -38,3 +41,4 @@ The concept extends the wiki's food-operations branch beyond packaged-goods logi
 - [[FishmealSupplyChain]], [[AquacultureFeedDependency]], and [[ClimateFoodPriceTransmission]] - upstream feed and climate-price branch added by 商业小样45.
 - [[ChineseNewSpecialtyAquaculture]], [[SalmonTroutLabelTransparency]], [[EelSeedPriceVolatility]], [[FoieGrasWelfareTradeoff]], and [[PreparedHighValueFoodFormats]] - EP260 high-value food localization branch.
 - [[Greenmarket]], [[UnionSquare]], [[GrowNYC]], and [[FarmersMarketUrbanism]] - market-mediated local sourcing branch added by The Intelligence.
+- [[FoodRepublic]], [[ChainRestaurantStandardization]], [[MallFoodCourtDecline]], and [[ShoppingCenterRestaurantization]] - food-court competition branch added by the 大食代 source.

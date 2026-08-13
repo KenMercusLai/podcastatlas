@@ -5167,6 +5167,10 @@
     "title": "Beijing Enterprises / 北京控股",
     "url": "/wiki/entities/beijingenterprises/"
   },
+  "BeijingOrientalPlaza": {
+    "title": "北京东方新天地 / Beijing Oriental Plaza",
+    "url": "/wiki/entities/beijingorientalplaza/"
+  },
   "Beimin": {
     "title": "北明 / 北民",
     "url": "/wiki/entities/beimin/"
@@ -5982,6 +5986,10 @@
   "Brazil": {
     "title": "Brazil",
     "url": "/wiki/entities/brazil/"
+  },
+  "BreadTalk": {
+    "title": "面包新语 / BreadTalk",
+    "url": "/wiki/entities/breadtalk/"
   },
   "Breakneck": {
     "title": "Breakneck",
@@ -8163,6 +8171,10 @@
     "title": "城中之城",
     "url": "/wiki/entities/cityinthecity/"
   },
+  "CityMart": {
+    "title": "城市集市 / City Mart",
+    "url": "/wiki/entities/citymart/"
+  },
   "CivicAudienceEtiquette": {
     "title": "Civic Audience Etiquette",
     "url": "/wiki/concepts/civicaudienceetiquette/"
@@ -8654,6 +8666,10 @@
   "CommercialOffTheShelfWeaponization": {
     "title": "Commercial Off-The-Shelf Weaponization",
     "url": "/wiki/concepts/commercialofftheshelfweaponization/"
+  },
+  "CommercialRealEstateFoodserviceGap": {
+    "title": "Commercial Real-Estate Foodservice Gap / 商业地产餐饮空缺",
+    "url": "/wiki/concepts/commercialrealestatefoodservicegap/"
   },
   "CommercialRocketLaunchPriority": {
     "title": "Commercial Rocket Launch Priority",
@@ -13851,6 +13867,14 @@
     "title": "Food Animal Welfare",
     "url": "/wiki/concepts/foodanimalwelfare/"
   },
+  "FoodCourtBrandIncubation": {
+    "title": "Food-Court Brand Incubation / 美食广场品牌孵化",
+    "url": "/wiki/concepts/foodcourtbrandincubation/"
+  },
+  "FoodCourtSecondLandlord": {
+    "title": "Food-Court Second Landlord / 美食广场二房东",
+    "url": "/wiki/concepts/foodcourtsecondlandlord/"
+  },
   "FoodCulturalBias": {
     "title": "Food Cultural Bias",
     "url": "/wiki/concepts/foodculturalbias/"
@@ -13858,6 +13882,14 @@
   "FoodInflation": {
     "title": "Food Inflation",
     "url": "/wiki/concepts/foodinflation/"
+  },
+  "FoodJunction": {
+    "title": "Food Junction",
+    "url": "/wiki/entities/foodjunction/"
+  },
+  "FoodRepublic": {
+    "title": "大食代 / Food Republic",
+    "url": "/wiki/entities/foodrepublic/"
   },
   "FoodSafetyLitigationDiscovery": {
     "title": "Food Safety Litigation Discovery",
@@ -15907,6 +15939,10 @@
     "title": "郭静龙",
     "url": "/wiki/entities/guojinglong/"
   },
+  "GuoMingzhong": {
+    "title": "郭明忠 / Guo Mingzhong",
+    "url": "/wiki/entities/guomingzhong/"
+  },
   "GuoMoruo": {
     "title": "郭沫若",
     "url": "/wiki/entities/guomoruo/"
@@ -16410,6 +16446,10 @@
   "Hawaii": {
     "title": "Hawaii / 夏威夷",
     "url": "/wiki/entities/hawaii/"
+  },
+  "HawkerCentre": {
+    "title": "Hawker Centre / 食阁",
+    "url": "/wiki/concepts/hawkercentre/"
   },
   "Hawkeye": {
     "title": "Hawkeye",
@@ -18226,6 +18266,10 @@
   "IntermittentReinforcement": {
     "title": "Intermittent Reinforcement",
     "url": "/wiki/concepts/intermittentreinforcement/"
+  },
+  "InternalCanteenFoodCourtOperation": {
+    "title": "Internal Canteen Food-Court Operation / 内部食堂美食广场化",
+    "url": "/wiki/concepts/internalcanteenfoodcourtoperation/"
   },
   "InternalMarketizationLimit": {
     "title": "Internal Marketization Limit / 企业内部市场化边界",
@@ -22811,6 +22855,10 @@
     "title": "Mall Based Retail Expansion",
     "url": "/wiki/concepts/mallbasedretailexpansion/"
   },
+  "MallFoodCourtDecline": {
+    "title": "Mall Food-Court Decline / 商场美食广场衰落",
+    "url": "/wiki/concepts/mallfoodcourtdecline/"
+  },
   "Malta": {
     "title": "Malta",
     "url": "/wiki/entities/malta/"
@@ -23678,6 +23726,10 @@
   "Meituan": {
     "title": "Meituan",
     "url": "/wiki/entities/meituan/"
+  },
+  "MeituanHuanxiongShitang": {
+    "title": "美团浣熊食堂 / Meituan Huanxiong Shitang",
+    "url": "/wiki/entities/meituanhuanxiongshitang/"
   },
   "MeituanYouxuan": {
     "title": "美团优选 / Meituan Youxuan",
@@ -28031,6 +28083,10 @@
     "title": "Platform Antitrust",
     "url": "/wiki/concepts/platformantitrust/"
   },
+  "PlatformCanteen": {
+    "title": "Platform Canteen / 平台食堂",
+    "url": "/wiki/concepts/platformcanteen/"
+  },
   "PlatformCommunityGovernance": {
     "title": "Platform Community Governance",
     "url": "/wiki/concepts/platformcommunitygovernance/"
@@ -31619,6 +31675,10 @@
     "title": "Scenario-Specific AI",
     "url": "/wiki/concepts/scenariospecificai/"
   },
+  "SceneLedFoodMarket": {
+    "title": "Scene-Led Food Market / 场景化美食市集",
+    "url": "/wiki/concepts/sceneledfoodmarket/"
+  },
   "ScentAsBrandMemory": {
     "title": "Scent As Brand Memory / 气味作为品牌记忆",
     "url": "/wiki/concepts/scentasbrandmemory/"
@@ -32558,6 +32618,10 @@
   "Shopify": {
     "title": "Shopify",
     "url": "/wiki/entities/shopify/"
+  },
+  "ShoppingCenterRestaurantization": {
+    "title": "Shopping-Center Restaurantization / 购物中心餐饮化",
+    "url": "/wiki/concepts/shoppingcenterrestaurantization/"
   },
   "ShortDramaEconomics": {
     "title": "Short Drama Economics",
@@ -34482,6 +34546,10 @@
   "SuperheroTallTaleContinuity": {
     "title": "Superhero Tall-Tale Continuity",
     "url": "/wiki/concepts/superherotalltalecontinuity/"
+  },
+  "SupermarketCanteen": {
+    "title": "Supermarket Canteen / 超市食堂",
+    "url": "/wiki/concepts/supermarketcanteen/"
   },
   "Superpowers": {
     "title": "Superpowers",
@@ -42822,6 +42890,10 @@
   "vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119": {
     "title": "Vol.269 小历史 | “不要怕，是技术性调整”",
     "url": "/wiki/sources/vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119/"
+  },
+  "vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835": {
+    "title": "Vol.270 大食代留在了它的时代",
+    "url": "/wiki/sources/vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835/"
   },
   "we-almost-had-a-smartphone-in-the-90s-why-did-it-fail": {
     "title": "We almost had a smartphone in the 90s. Why did it fail?",

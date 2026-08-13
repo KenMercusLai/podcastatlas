@@ -2,8 +2,8 @@
 title: "Singapore"
 type: entity
 tags: [country, law, social-policy, asia, diaspora]
-sources: [peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046, sand-heists-and-property-rights-in-the-caribbean-summer-school]
-last_updated: 2026-08-08
+sources: [vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046, sand-heists-and-property-rights-in-the-caribbean-summer-school]
+last_updated: 2026-08-13
 ---
 
 # Singapore
@@ -16,6 +16,8 @@ The source uses Singapore to show that legally enforcing adult children's obliga
 
 [[sand-heists-and-property-rights-in-the-caribbean-summer-school]] adds Singapore as the demand-side land-reclamation example in the global [[SandScarcity]] story. The source says Singapore imported hundreds of millions of tons of sand to expand territory, making the country a case where construction and reclamation demand can shift environmental costs to exporting locations.
 
+[[vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835]] adds Singapore as the origin setting for [[HawkerCentre|hawker centres]] and the commercial food-court lineage behind [[FoodJunction]], [[GuoMingzhong|郭明忠]], [[BreadTalk]], and [[FoodRepublic|大食代]]. The episode treats Singapore's street-hawker relocation and shared food infrastructure as the public-governance base later turned into a mall-food-court business model.
+
 ## Connections
 - [[FilialPietyLaws]] - main legal concept.
 - [[ElderCareStateCapacity]] - care-capacity problem the law responds to.
@@ -23,3 +25,4 @@ The source uses Singapore to show that legally enforcing adult children's obliga
 - [[China]], [[India]], [[Malaysia]], and [[Philippines]] - comparison cases in the same segment.
 - [[Chaoshan]], [[OverseasChineseMutualAidNetworks]], and [[QiaopiRemittanceNetworks]] - diaspora-remittance branch added by Banlatte episode 205.
 - [[SandScarcity]], [[IllegalSandMining]], [[SandTheftExternality]], [[PascalPeduzzi]], and [[UnitedNations]] - land-reclamation and global sand-demand branch.
+- [[HawkerCentre]], [[FoodJunction]], [[FoodRepublic]], [[GuoMingzhong]], and [[BreadTalk]] - food-court and foodservice-brand branch added by the 大食代 source.
