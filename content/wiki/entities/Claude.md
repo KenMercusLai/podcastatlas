@@ -2,11 +2,13 @@
 title: "Claude"
 type: entity
 tags: [ai, model, anthropic]
-sources: [tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128, tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
-last_updated: 2026-08-11
+sources: [tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128, tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128, tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
+last_updated: 2026-08-13
 ---
 
 # Claude
+
+[[tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128]] adds Claude as a preference-language example in a [[MarketplaceTech]] discussion of [[AITasteSimulation]]. [[MeganMcCartyCorino|Megan McCarty Carino]] says Claude answered a favorite-tree prompt by disclaiming human-like preference while choosing the coast redwood, making Claude a case where model output can imitate preference without settling whether the system has [[EmbodiedTaste]].
 
 [[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] adds Claude as a general chatbot parents may use for baby sleep plans. The source connects Claude to [[AIParentingAdvice]] and [[ParentalJudgmentOutsourcing]], where the concern is less hallucination alone than whether a plausible plan starts replacing parent observation and judgment.
 

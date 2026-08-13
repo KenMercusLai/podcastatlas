@@ -7585,3 +7585,11 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-08-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-13] ingest | Can Silicon Valley give AI good taste?
+
+Added source page for a Marketplace Tech episode with Sophie Hagney on AI slop, Taste Labs, human-curated taste data, embodied taste, Corporate Memphis, algorithmic taste flattening, and Claude's preference-like language. Created pages for Sophie Hagney, Taste Labs, AI Taste Simulation, Embodied Taste, and Corporate Memphis; updated overview, index, Marketplace Tech, Megan McCarty-Corino, AI Slop, Human Taste as AI Training Signal, Algorithmic Cultural Flattening, Claude, AI Content Devaluation, AI-Generated Content Quality Gap, Human Judgment Under AI, and Research Taste. No direct contradiction found; the source qualifies existing taste and AI-judgment pages by distinguishing more tasteful model outputs from AI having independent taste.
+
+## [2026-08-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

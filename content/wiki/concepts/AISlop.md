@@ -2,11 +2,13 @@
 title: "AI Slop"
 type: concept
 tags: [ai, media, content, politics]
-sources: [tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, tech-20260714-tech-pod-128-tech-20260714-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, kate-crawford-mapping-empires]
-last_updated: 2026-08-10
+sources: [tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128, tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, tech-20260714-tech-pod-128-tech-20260714-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, kate-crawford-mapping-empires]
+last_updated: 2026-08-13
 ---
 
 # AI Slop
+
+[[tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128]] adds the taste-bottleneck version through [[SophieHagney]] and [[TasteLabs]]. The episode treats slop as generic AI output that lacks human judgment, then asks whether curated tastemaker data can reduce it without giving the system independent [[EmbodiedTaste]].
 
 AI slop is [[KateCrawford]]'s label in [[kate-crawford-mapping-empires]] for low-effort synthetic media produced at scale by generative AI systems. The source treats slop as more than bad taste: it is a visual, commercial, and political language shaped by platform incentives, cheap generation, attention farming, and the recycling of human culture into model output.
 
@@ -33,6 +35,7 @@ The concept extends [[AIContentDevaluation]]. Earlier wiki sources focus on how 
 - Slop detection may focus on repetition, clickbait structure, misleading audiovisual mismatch, and human-rater judgment rather than only on proving that content is synthetic.
 - Slop can also describe a corporate or marketing voice when public AI ads recycle the same vague claims, even if the copy is not known to be model-generated.
 - Generated text slop can damage creator and professional platforms by making readers doubt whether posts reflect a person, expertise, or low-cost automation.
+- AI slop can also be framed as a taste failure: output may become technically competent but generic when it lacks embodied attention, discovery, timing, or distinctive judgment.
 
 ## Connections
 - [[KateCrawford]] - source speaker.
@@ -48,3 +51,4 @@ The concept extends [[AIContentDevaluation]]. Earlier wiki sources focus on how 
 - [[YouTube]], [[NeilMohan]], [[Kagi]], and [[AISlopDetection]] - platform enforcement and user-reporting branch added by the January 2026 Marketplace Tech Bytes episode.
 - [[AIMarketingJargon]], [[FakeAISubwayAds]], [[HarrisAlterman]], and [[DaveRoss]] - advertising-language branch added by the July 2026 Marketplace Tech episode.
 - [[Substack]], [[ChrisBest]], [[Pangram]], [[LinkedIn]], and [[AISlopDetection]] - writing-platform and professional-feed branch added by Marketplace Tech.
+- [[SophieHagney]], [[TasteLabs]], [[AITasteSimulation]], and [[EmbodiedTaste]] - taste-bottleneck branch added by Marketplace Tech.

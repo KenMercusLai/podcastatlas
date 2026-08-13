@@ -2,11 +2,13 @@
 title: "AI Content Devaluation"
 type: concept
 tags: [ai, content, writing, media]
-sources: [tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, kate-crawford-mapping-empires, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112]
-last_updated: 2026-08-05
+sources: [tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, kate-crawford-mapping-empires, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112]
+last_updated: 2026-08-13
 ---
 
 # AI Content Devaluation
+
+[[tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128]] adds the taste and style-saturation version. [[SophieHagney]] argues that AI can produce large amounts of competent-looking text, image, and video, but taste depends on embodied attention, timing, scarcity, and discovery; once a style such as [[CorporateMemphis]] becomes easy to mass-produce, it can read as generic or low effort.
 
 AI content devaluation is the Vol. 164 concern that when software, articles, social posts, images, reports, and songs become cheap to generate, audiences may treat many outputs as less worth attention. In [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]], the hosts describe losing curiosity when tools or texts feel obviously AI-generated, and use "AI did not read" as a shorthand for ignoring content whose author did not appear to communicate seriously.
 
@@ -53,6 +55,7 @@ The concept is not simply anti-AI. The episode separates low-value generated fil
 - In journalism, content devaluation can appear even with useful facts when readers infer that human reporting, voice, and care have been stripped from the article.
 - In media-product pivots, content devaluation can appear when AI interactivity is treated as a replacement for a weak business model rather than a clearly valuable new product.
 - Lem's electronic poet shows that machine creativity threatens value not only by producing low-quality filler, but also by producing competent abundance that changes status, supply, and editorial incentives.
+- Taste can be devalued by saturation: a once-recognizable aesthetic can lose value when AI or platform repetition makes it feel effortless and generic.
 
 ## Connections
 - [[AIContentProvenance]] — disclosure and traceability side of generated media.
@@ -71,3 +74,4 @@ The concept is not simply anti-AI. The episode separates low-value generated fil
 - [[AIWrittenJournalism]], [[AIRewriteDesk]], [[AIJournalismTrust]], and [[LocalNewsAutomationTradeoff]] - local-news case where generated copy may add coverage while weakening perceived authorship.
 - [[BuzzFeed]], [[QuizParty]], [[MediaAIRescueStrategy]], and [[AISlop]] - distressed media AI pivot branch added by Marketplace Tech.
 - [[StanislawLem|斯坦尼斯拉夫·莱姆]], [[TheCyberiad|《机器人大师》 / The Cyberiad]], [[MachineCreativityThreat]], and [[ChatGPT]] - literary prehistory for machine-authorship abundance added by episode 45.
+- [[SophieHagney]], [[AITasteSimulation]], [[EmbodiedTaste]], and [[CorporateMemphis]] - Marketplace Tech branch on taste, saturation, and generated-media sameness.

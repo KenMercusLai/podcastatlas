@@ -2043,6 +2043,10 @@
     "title": "AI Talent Competition",
     "url": "/wiki/concepts/aitalentcompetition/"
   },
+  "AITasteSimulation": {
+    "title": "AI Taste Simulation",
+    "url": "/wiki/concepts/aitastesimulation/"
+  },
   "AIToyCompanionship": {
     "title": "AI Toy Companionship / AI玩具陪伴",
     "url": "/wiki/concepts/aitoycompanionship/"
@@ -9235,6 +9239,10 @@
     "title": "Corporate Landlord Tradeoffs",
     "url": "/wiki/concepts/corporatelandlordtradeoffs/"
   },
+  "CorporateMemphis": {
+    "title": "Corporate Memphis",
+    "url": "/wiki/concepts/corporatememphis/"
+  },
   "CorporateOwnedStartupConstraints": {
     "title": "Corporate-Owned Startup Constraints",
     "url": "/wiki/concepts/corporateownedstartupconstraints/"
@@ -12138,6 +12146,10 @@
   "EmbodiedRobotDataParadigms": {
     "title": "Embodied Robot Data Paradigms",
     "url": "/wiki/concepts/embodiedrobotdataparadigms/"
+  },
+  "EmbodiedTaste": {
+    "title": "Embodied Taste",
+    "url": "/wiki/concepts/embodiedtaste/"
   },
   "EmilSinclair": {
     "title": "Emil Sinclair / 辛克莱尔",
@@ -33523,6 +33535,10 @@
     "title": "Sophia Tolstaya / 索菲亚",
     "url": "/wiki/entities/sophiatolstaya/"
   },
+  "SophieHagney": {
+    "title": "Sophie Hagney",
+    "url": "/wiki/entities/sophiehagney/"
+  },
   "SophiePedder": {
     "title": "Sophie Pedder",
     "url": "/wiki/entities/sophiepedder/"
@@ -35226,6 +35242,10 @@
   "TaskAsAService": {
     "title": "Task As A Service",
     "url": "/wiki/concepts/taskasaservice/"
+  },
+  "TasteLabs": {
+    "title": "Taste Labs",
+    "url": "/wiki/entities/tastelabs/"
   },
   "TasteOfNature": {
     "title": "Taste of Nature",
@@ -42574,6 +42594,10 @@
   "tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128": {
     "title": "TikTok excluded millions from crucial safety guardrails",
     "url": "/wiki/sources/tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128/"
+  },
+  "tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128": {
+    "title": "Can Silicon Valley give AI good taste?",
+    "url": "/wiki/sources/tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",
