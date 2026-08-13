@@ -10987,6 +10987,10 @@
     "title": "Disciplinary Self-Protection After Harm",
     "url": "/wiki/concepts/disciplinaryselfprotectionafterharm/"
   },
+  "Discord": {
+    "title": "Discord",
+    "url": "/wiki/entities/discord/"
+  },
   "DiscourseOnMethod": {
     "title": "Discourse on Method / 《谈谈方法》",
     "url": "/wiki/entities/discourseonmethod/"
@@ -12579,6 +12583,10 @@
     "title": "《几何原本》 / Chinese Euclid's Elements",
     "url": "/wiki/entities/euclidselementschinese/"
   },
+  "EugeneChia": {
+    "title": "Eugene Chia",
+    "url": "/wiki/entities/eugenechia/"
+  },
   "EugeneFama": {
     "title": "Eugene Fama",
     "url": "/wiki/entities/eugenefama/"
@@ -13187,6 +13195,10 @@
     "title": "《讨好反应》 / Fawning",
     "url": "/wiki/entities/fawning/"
   },
+  "FeatherlessAI": {
+    "title": "Featherless AI",
+    "url": "/wiki/entities/featherlessai/"
+  },
   "FeatureCreep": {
     "title": "Feature Creep",
     "url": "/wiki/concepts/featurecreep/"
@@ -13782,6 +13794,10 @@
   "FlashInvaders": {
     "title": "Flash Invaders",
     "url": "/wiki/entities/flashinvaders/"
+  },
+  "FlatRateAIInferencePricing": {
+    "title": "Flat-Rate AI Inference Pricing",
+    "url": "/wiki/concepts/flatrateaiinferencepricing/"
   },
   "Flatland": {
     "title": "《平面国》 / Flatland",
@@ -14794,6 +14810,10 @@
   "GPUCloudOperations": {
     "title": "GPU Cloud Operations",
     "url": "/wiki/concepts/gpucloudoperations/"
+  },
+  "GPUHotSwapping": {
+    "title": "GPU Hot Swapping",
+    "url": "/wiki/concepts/gpuhotswapping/"
   },
   "GRASSelfCertification": {
     "title": "GRAS Self-Certification",
@@ -22079,6 +22099,10 @@
     "title": "力赞体育 / Lizan Sports",
     "url": "/wiki/entities/lizansports/"
   },
+  "Llama": {
+    "title": "Llama",
+    "url": "/wiki/entities/llama/"
+  },
   "LoanCapAccessRisk": {
     "title": "Loan Cap Access Risk",
     "url": "/wiki/concepts/loancapaccessrisk/"
@@ -22258,6 +22282,10 @@
   "LongRunUrbanSafetyTrend": {
     "title": "Long-Run Urban Safety Trend",
     "url": "/wiki/concepts/longrunurbansafetytrend/"
+  },
+  "LongTailModelHosting": {
+    "title": "Long-Tail Model Hosting",
+    "url": "/wiki/concepts/longtailmodelhosting/"
   },
   "LongTermBenefitTrust": {
     "title": "Long-Term Benefit Trust",
@@ -24506,6 +24534,10 @@
   "Mississippi": {
     "title": "Mississippi",
     "url": "/wiki/entities/mississippi/"
+  },
+  "MistralAI": {
+    "title": "Mistral AI",
+    "url": "/wiki/entities/mistralai/"
   },
   "MitchMorando": {
     "title": "Mitch Morando",
@@ -29779,6 +29811,10 @@
     "title": "RV Travel Logistics",
     "url": "/wiki/concepts/rvtravellogistics/"
   },
+  "RWKV": {
+    "title": "RWKV",
+    "url": "/wiki/entities/rwkv/"
+  },
   "RacePromotionFees": {
     "title": "Race Promotion Fees",
     "url": "/wiki/concepts/racepromotionfees/"
@@ -30090,6 +30126,10 @@
   "RecursiveSelfImprovement": {
     "title": "Recursive Self-Improvement",
     "url": "/wiki/concepts/recursiveselfimprovement/"
+  },
+  "Recursor": {
+    "title": "Recursor",
+    "url": "/wiki/entities/recursor/"
   },
   "RedAndBlackNovel": {
     "title": "《红与黑》 / The Red and the Black",
@@ -41418,6 +41458,10 @@
   "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd": {
     "title": "Fear-jerker: America's AI backlash",
     "url": "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"
+  },
+  "featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup": {
+    "title": "Featherless AI: When Your Weekend Experiment Makes More Than Your Startup",
+    "url": "/wiki/sources/featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup/"
   },
   "ferrari-1": {
     "title": "Ferrari",

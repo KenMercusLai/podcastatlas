@@ -7462,6 +7462,10 @@ Ran health before lint; health scanned 10,612 wiki pages and found no empty/stub
 
 Added source page for a 硅谷101 episode with Lingyang CEO 彭新宇 on Chinese-style FDE and enterprise growth agents. Created pages for 彭新宇, 瓴羊, Chinese-style FDE, and Enterprise Growth Agent; updated overview, index, Silicon Valley 101, Alibaba, Forward Deployed Engineer, Business-Led AI Transformation, Enterprise Data Activation, Enterprise Operational Memory, China Enterprise AI System Debt, Contact Center AI, Outcome-Based AI Pricing, and Digital Employees. No direct contradiction found; the source reinforces prior FDE realism while adding a China-specific qualification: enterprise agents often require data/process foundation work, expert coaching, permission design, and top-down business ownership before model capability creates measurable results.
 
+## [2026-08-13] ingest | Featherless AI: When Your Weekend Experiment Makes More Than Your Startup
+
+Added source page for a The SaaS Podcast episode with Eugene Chia on Featherless AI's pivot from Recursor/RWKV fine-tuning to broad open-source model inference. Created pages for Featherless AI, Eugene Chia, Recursor, RWKV, Llama, Mistral AI, Discord, GPU Hot Swapping, Long-Tail Model Hosting, and Flat-Rate AI Inference Pricing; updated overview, index, The SaaS Podcast, Omer Khan, Hugging Face, OpenRouter, Open Source AI Models, AI Inference Cost Structure, AI Infrastructure As Product, and Open-Source AI Democratization. No direct contradiction found; the source qualifies open-model democratization by showing that model availability still needs hosted capacity, fast activation, discoverability, and pricing clarity.
+
 ## [2026-08-11] lint | Wiki health check
 
 Ran health before lint; health scanned 10,617 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 10,617 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, six fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`; contradiction, stale-content, data-gap, and concept-depth checks did not complete. Report returned in-session; `wiki/lint-report.md` was not saved.
@@ -7577,3 +7581,7 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-08-13] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 10,796 wiki pages. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified and no provider API-key environment variable is configured. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

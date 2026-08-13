@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Featherless AI: When Your Weekend Experiment Makes More Than Your Startup](sources/featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup.md) — The SaaS Podcast episode with Eugene Chia on Featherless AI's pivot from RWKV/Recursor to long-tail open-source model inference, GPU hot swapping, flat-rate pricing, and Hugging Face distribution.
 - [Caracas under pressure: democracy in Venezuela](sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822.md) — The Intelligence episode on Venezuela transition talks, U.S. oil-revenue leverage, fast-food demand pressure, and Wagner's Ring cycle.
 - [Advice Line with Bobbi Brown of Jones Road Beauty (September 2025)](sources/advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a.md) — How I Built This Advice Line episode with Bobbi Brown on Jones Road Beauty, Cab Dab, Abby Rose, Tannen Oral Care, scrappy testing, product-led longevity, live-selling founder dependency, and niche repositioning.
 - [150. 对英伟达研究副总裁刘洺堉的4小时访谈：Cosmos 3、世界模型、武术、黄仁勋影响我的，和你不需要击败所有对手](sources/150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y.md) — 张小珺Jùn｜商业访谈录 episode with Nvidia research VP Liu Ming-Yu on Cosmos 3, world foundation models, Physical AI generalization, egocentric data, open model strategy, and Jensen Huang's operating influence.
@@ -946,6 +947,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Featherless AI](entities/FeatherlessAI.md) — Open-source model inference platform built around instant access to many hosted models, GPU hot swapping, flat-rate pricing, and long-tail catalog coverage.
+- [Eugene Chia](entities/EugeneChia.md) — Featherless AI founder explaining the Recursor/RWKV origin, weekend validation pivot, and mission of broad AI access.
+- [Recursor](entities/Recursor.md) — Earlier company/product direction behind Featherless AI, built around RWKV fine-tuning before the pivot to broader open-model hosting.
+- [RWKV](entities/RWKV.md) — Open-source model project that anchored Recursor before Featherless AI moved toward serving many open model families.
+- [Llama](entities/Llama.md) — Open model family used in the Featherless AI source as a mainstream demand signal for hosted open-model inference.
+- [Mistral AI](entities/MistralAI.md) — AI company/model family mentioned as part of Featherless AI's pivot from RWKV-specific tooling to mainstream open-model hosting.
+- [Discord](entities/Discord.md) — Community surface where Featherless AI found early technical users alongside Reddit.
 - [Kinley Salmon](entities/KinleySalmon.md) — The Intelligence correspondent explaining Venezuela's transition talks, U.S. leverage, and Machado's absence.
 - [Marco Rubio](entities/MarcoRubio.md) — U.S. secretary of state in the source's Venezuela transition account, tied to oil-revenue leverage and election reform.
 - [Dinora Figueroa](entities/DinoraFigueroa.md) — Opposition-side leader in the Caracas negotiations, connected to the 2015 National Assembly and Machado legitimacy gap.
@@ -6464,6 +6472,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [GPU Hot Swapping](concepts/GPUHotSwapping.md) — Dynamic inference-serving pattern where a requested model can be brought online quickly instead of reserving one GPU per model.
+- [Long-Tail Model Hosting](concepts/LongTailModelHosting.md) — Strategy of serving niche, language-specific, and company-specific AI models whose individual demand may not justify dedicated standby GPUs.
+- [Flat-Rate AI Inference Pricing](concepts/FlatRateAIInferencePricing.md) — Pricing approach that makes many hosted AI models easier to buy by reducing usage-bill uncertainty and per-model price-table complexity.
 - [Oil Revenue Sanctions Leverage](concepts/OilRevenueSanctionsLeverage.md) — Pressure pattern where control over oil revenue flows becomes bargaining power in political-transition negotiations.
 - [Opposition Legitimacy Gap](concepts/OppositionLegitimacyGap.md) — Transition risk when negotiations exclude the opposition actor with the strongest popular mandate.
 - [Fast-Food Demand Reset](concepts/FastFoodDemandReset.md) — Demand-pressure pattern where price, health, safety, and household stress weaken fast-food traffic.
