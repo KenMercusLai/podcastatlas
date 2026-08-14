@@ -2,11 +2,13 @@
 title: "California"
 type: entity
 tags: [place, state, privacy, legislation, wildfire, climate, construction]
-sources: [tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, a-trip-to-the-magic-mushroom-megachurch, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
-last_updated: 2026-08-08
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, a-trip-to-the-magic-mushroom-megachurch, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
+last_updated: 2026-08-14
 ---
 
 # California
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds California to the [[PoliticalDeepfakeRegulation]] branch. [[MariaCurie|Maria Curi]] says an attempt to pass a specific AI political-content law in California was struck down as unconstitutional, making the state a First Amendment caution inside the broader state deepfake-law patchwork.
 
 [[tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128]] adds California as the state-law setting for app-store pressure around AI nudify apps. The [[MarketplaceTech]] episode says San Francisco's city attorney sent cease-and-desist letters to [[Apple]] and [[Google]], using California law to argue that app stores should stop profiting from nudify apps and improve their response to [[NudifyAppEcosystem]] abuse.
 
@@ -54,3 +56,4 @@ The California case complements [[Montana]]'s role in [[tech-20260302-0302-mp-te
 - [[FutureOfLifeInstitute|Future of Life Institute]], [[VoluntaryAISafetyCommitments]], [[AILabSafetyReportCards]], and [[StateAIRegulationPatchwork]] - frontier-lab safety-framework branch added by Marketplace Tech.
 - [[Apple]], [[Google]], [[NudifyAppEcosystem]], [[AINonConsensualIntimateImageAbuse]], and [[TakeItDownAct|Take It Down Act]] - app-store enforcement branch added by the July 27, 2026 Marketplace Tech source.
 - [[ExtremeWildfire]], [[WildfireSmokeHealthBurden]], and [[FireTechClimateResilience]] - Los Angeles fire-damage branch added by The Intelligence.
+- [[PoliticalDeepfakeRegulation]], [[AIPoliticalAdDisclosurePatchwork]], and [[UnitedStatesConstitution]] - AI political-content First Amendment branch added by Marketplace Tech.

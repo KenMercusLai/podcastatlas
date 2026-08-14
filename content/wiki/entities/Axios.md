@@ -2,11 +2,13 @@
 title: "Axios"
 type: entity
 tags: [media, journalism, technology]
-sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
+last_updated: 2026-08-14
 ---
 
 # Axios
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] extends Axios's Marketplace Tech role through another [[MariaCurie|Maria Curi]] policy segment. The episode uses Axios analysis to connect [[AITextWatermarking]], [[PoliticalDeepfakeRegulation]], and [[PredictionMarketFederalism]] rather than treating Claude provenance, election deepfakes, and prediction markets as unrelated stories.
 
 Axios appears in [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] as [[MariaCurie|Maria Curi]]'s news organization. In this [[MarketplaceTech]] Bytes episode, Axios functions as the reporting and analysis context for three technology-policy stories: social media liability, public AI literacy, and prediction-market guardrails.
 
@@ -17,3 +19,4 @@ Axios appears in [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech
 - [[MarketplaceTech]] - show context for the interview.
 - [[SocialMediaProductLiability]], [[AIWorkerLiteracy]], and [[PredictionMarketSelfRegulation]] - policy areas Curi explains in the episode.
 - [[AINonConsensualIntimateImageAbuse]], [[StateAIRegulationPatchwork]], and [[SmartGlassesBystanderPrivacy]] - January 9, 2026 policy areas explained by Curi.
+- [[AITextWatermarking]], [[PoliticalDeepfakeRegulation]], and [[PredictionMarketFederalism]] - August 14, 2026 policy areas explained by Curi.

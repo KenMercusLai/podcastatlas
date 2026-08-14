@@ -2,11 +2,13 @@
 title: "Prediction Market Ethics"
 type: concept
 tags: [markets, regulation, ethics, risk]
-sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, do-prediction-market-bettors-make-anything-better, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
-last_updated: 2026-07-24
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, do-prediction-market-bettors-make-anything-better, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
+last_updated: 2026-08-14
 ---
 
 # Prediction Market Ethics
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds the state-tax and public-benefit version of the ethics problem. [[MariaCurie|Maria Curi]] says [[NewYorkState|New York State]] argues that treating prediction markets as gambling would subject them to taxes that can support gambling-addiction programs, after-school sports, and other public uses. This does not settle whether the markets should exist, but it adds a public-finance question to [[PredictionMarketFederalism]].
 
 Prediction market ethics is the problem of deciding which real-world events should be tradable even if markets can aggregate useful information about probabilities. [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] adds the concept through [[Kalshi]] markets tied to [[AliKhamenei]] and [[Polymarket]] markets tied to nuclear-weapons detonation.
 
@@ -33,6 +35,7 @@ The episode's tension is that prediction prices can reveal distributed expectati
 - A market can be informative for traders and profitable for platforms without making the public better informed.
 - Speech-word bets, sports markets, and pop-culture markets test the gap between probability aggregation and civic usefulness.
 - The legal claim that an event contract is a derivative does not resolve whether the user experience functions like gambling.
+- State gambling classification can also be an ethical funding argument if public harms are offset through gambling taxes and treatment programs.
 
 ## Connections
 - [[Kalshi]], [[Polymarket]], and [[CommodityFuturesTradingCommission|CFTC]] - source platforms and regulator.
@@ -44,3 +47,4 @@ The episode's tension is that prediction prices can reveal distributed expectati
 - [[PredictionMarketIntegrityOversight]], [[PredictionMarketSelfRegulation]], [[SportsbookIntegrityMonitoring]], and [[EventContractManipulationRisk]] - integrity concepts added by later Marketplace Tech episodes.
 - [[JontayPorter]], [[NationalBasketballAssociation|NBA]], [[DraftKings]], [[BenSchifrin]], and [[JohnHolden]] - sports case and expert context for the oversight extension.
 - [[IowaElectronicMarkets]], [[PredictionMarketHistory]], [[ElectionBettingMarkets]], and [[AcademicPredictionMarketSandbox]] - historical branch added by Planet Money.
+- [[PredictionMarketFederalism]], [[LetitiaJames]], and [[NewYorkState|New York State]] - public-benefit and gambling-tax branch added by Marketplace Tech.

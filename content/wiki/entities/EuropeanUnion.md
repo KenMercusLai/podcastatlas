@@ -2,11 +2,13 @@
 title: "European Union"
 type: entity
 tags: [institution, europe, politics]
-sources: [taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, 139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
-last_updated: 2026-08-08
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, 139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
+last_updated: 2026-08-14
 ---
 
 # European Union
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds the EU through the [[EuropeanUnionAIAct|European Union AI Act]] as a driver of AI-content disclosure. [[MariaCurie|Maria Curi]] says the act requires AI labs to tell users when content is AI-generated, and the episode uses that requirement to explain [[Anthropic]]'s global [[Claude]] text-watermark rollout.
 
 [[taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760]] adds the EU as the demand and enforcement side of [[WestAfricaCocaineTransit]]. [[PauloSilva]] of the [[MaritimeAnalysisAndInformationCentre]] warns that cocaine flows through West Africa corrupt systems there and could become a European security problem if they create [[NarcoStateRisk]].
 
@@ -42,6 +44,7 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 - The Fear-jerker source treats Europe as an uneven but improving energy system where cooling access can become a health adaptation rather than only a moralized consumption choice.
 - The Taken littorally source uses the EU as a border-solidarity forum where Spain asks for support while other governments pressure it to tighten immigration policy.
 - The albedo source uses the EU-linked maritime-enforcement perspective to show why West African cocaine transit is also a European demand and security problem.
+- The August 14 Marketplace Tech source uses EU AI disclosure requirements as the compliance driver for [[AITextWatermarking]].
 
 ## Connections
 - [[SchengenArea]], [[ErasmusProgramme]], [[Airbus]], [[EuropeanIntegrationWarPrevention]], [[EuropeanIdentityClassGradient]], [[EuropeanLanguageFriction]], [[DigitalNomadHousingPressure]], and [[EurozoneInternalImbalance]] - integration and fragmentation branch added by episode 139.
@@ -58,3 +61,4 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 - [[CoolingAsPublicHealth]] and [[ClimateAdaptation]] - heat, electricity, and public-health branch added by The Intelligence.
 - [[Ceuta]], [[Spain]], [[Morocco]], [[SchengenArea]], [[GiorgiaMeloni]], [[MigrationWeaponization]], [[BorderLegalSignal]], and [[ImmigrationBacklashCycle]] - migration and border-solidarity branch added by The Intelligence.
 - [[WestAfricaCocaineTransit]], [[MaritimeAnalysisAndInformationCentre]], [[PauloSilva]], [[MaritimeDrugInterdictionCapacity]], and [[NarcoStateRisk]] - cocaine-route and enforcement branch added by the later source.
+- [[EuropeanUnionAIAct]], [[Anthropic]], [[Claude]], [[AITextWatermarking]], and [[AIContentProvenance]] - AI-generated text disclosure branch added by Marketplace Tech.

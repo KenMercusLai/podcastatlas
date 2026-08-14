@@ -2,11 +2,13 @@
 title: "Prediction Market Legal Boundary"
 type: concept
 tags: [prediction-markets, law, regulation, gambling, derivatives]
-sources: [do-prediction-market-bettors-make-anything-better]
-last_updated: 2026-07-24
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, do-prediction-market-bettors-make-anything-better]
+last_updated: 2026-08-14
 ---
 
 # Prediction Market Legal Boundary
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] sharpens the boundary into [[PredictionMarketFederalism]]. [[MariaCurie|Maria Curi]] says the [[CommodityFuturesTradingCommission|CFTC]] invoked emergency powers to keep the platform transcribed as CalSheet/Kelsey, apparently [[Kalshi]], operating in [[NewYorkState|New York State]], while New York and [[Michigan]] argue that the platform should be treated as gambling under state law.
 
 Prediction market legal boundary is the source's frame for whether yes-or-no event contracts should be treated as federally regulated derivatives or as gambling products subject to state gambling law. [[do-prediction-market-bettors-make-anything-better]] develops the concept through [[Kalshi]], [[TarekMansour]], several state challenges, and the [[CommodityFuturesTradingCommission|CFTC]].
 
@@ -18,8 +20,10 @@ The boundary matters because legal classification changes the whole operating mo
 - State lawsuits and bans show that federal derivatives approval does not settle the public-law meaning of sports, politics, and pop-culture betting.
 - [[AmandaFisher]] frames the strategy as legal-risk taking through a regulatory gap rather than straightforward innovation.
 - The legal boundary overlaps with [[PredictionMarketEthics]] and [[PredictionMarketIntegrityOversight]] because legality, trader behavior, and public harm are hard to separate at commercial scale.
+- State tax and licensing claims matter because classifying prediction markets as gambling can fund addiction programs, after-school sports, and other public uses.
 
 ## Connections
 - [[Kalshi]], [[TarekMansour]], [[AmandaFisher]], and [[BetterMarkets]] - company, defender, and critic in the source.
 - [[CommodityFuturesTradingCommission|CFTC]] - regulator whose approval gives the derivatives-law path.
 - [[SportsbookIntegrityMonitoring]], [[PredictionMarketEthics]], and [[EventContractManipulationRisk]] - adjacent gambling, ethics, and manipulation concepts.
+- [[PredictionMarketFederalism]], [[NewYorkState|New York State]], [[LetitiaJames]], and [[Michigan]] - August 14, 2026 state-versus-federal authority branch.

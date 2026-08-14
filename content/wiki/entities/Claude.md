@@ -2,11 +2,13 @@
 title: "Claude"
 type: entity
 tags: [ai, model, anthropic]
-sources: [tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128, tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128, tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
-last_updated: 2026-08-13
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128, tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128, tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
+last_updated: 2026-08-14
 ---
 
 # Claude
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds Claude as the model Anthropic is watermarking for generated text. The episode says the watermark can appear through copy-paste metadata and through an encoded word-output pattern that Anthropic's decoder can identify. This makes Claude part of [[AITextWatermarking]], while the source also cautions that human work edited by Claude may still become ambiguous evidence for [[AIWritingDetection]] and [[AIAuthorshipPresence]].
 
 [[tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128]] adds Claude as a preference-language example in a [[MarketplaceTech]] discussion of [[AITasteSimulation]]. [[MeganMcCartyCorino|Megan McCarty Carino]] says Claude answered a favorite-tree prompt by disclaiming human-like preference while choosing the coast redwood, making Claude a case where model output can imitate preference without settling whether the system has [[EmbodiedTaste]].
 
@@ -43,3 +45,4 @@ The source turns Claude from a general frontier model into a procurement and gov
 - [[DefenseAIProcurement]] and [[FrontierModelUsePolicyConflict]] - concepts added by the Marketplace Tech Bytes episode.
 - [[FrontierModelAccessRestrictions]] and [[AIGovernanceAndCompliance]] - broader governance frame.
 - [[ModelValueEmbedding]] and [[AIModelValueSurveying]] - model-personality and value-default branch added by Qizhulou Yan Binke.
+- [[AITextWatermarking]], [[EuropeanUnionAIAct]], [[AIContentProvenance]], [[AIWritingDetection]], and [[AIAuthorshipPresence]] - August 14, 2026 Marketplace Tech branch on watermarking Claude-generated text.

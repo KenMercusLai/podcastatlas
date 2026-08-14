@@ -2,11 +2,13 @@
 title: "State AI Regulation Patchwork"
 type: concept
 tags: [ai, regulation, federalism, states]
-sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]
+last_updated: 2026-08-14
 ---
 
 # State AI Regulation Patchwork
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds the political-deepfake version. [[MariaCurie|Maria Curi]] says 29 states have some form of political-deepfake regulation, with disclosure rules, timing bans, and year-round restrictions varying across jurisdictions. This extends the patchwork from general AI laws into [[PoliticalDeepfakeRegulation]] and election-specific speech disputes.
 
 State AI regulation patchwork is the governance environment where many U.S. states adopt AI laws before a uniform federal framework exists. [[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] says a majority of U.S. states have adopted some form of AI regulation and then uses [[California]], [[Texas]], and [[Illinois]] as examples of state action continuing despite federal pressure.
 
@@ -22,6 +24,7 @@ The concept differs from [[StateAIProcurementGuardrails]] because it covers broa
 - Texas is cited for disclosure when consumers interact with AI.
 - A national framework may reduce compliance fragmentation, but it can also weaken local experiments in privacy, child safety, employment, and consumer disclosure.
 - State safety-framework laws can turn company-defined AI safety into a public-accountability question, but they still need concrete standards and enforcement.
+- Political-deepfake laws add election timing, disclaimer design, campaign penalties, and [[UnitedStatesConstitution|First Amendment]] review to the state patchwork.
 
 ## Connections
 - [[FederalAIPreemption]], [[DonaldTrump]], [[WhiteHouse]], and [[USDepartmentOfJustice|U.S. Department of Justice]] - federal pressure and litigation-task-force branch.
@@ -29,3 +32,4 @@ The concept differs from [[StateAIProcurementGuardrails]] because it covers broa
 - [[AIGovernanceAndCompliance]], [[PlatformDataRegulation]], and [[TeenChatbotMentalHealthRisk]] - affected governance areas.
 - [[StateAIProcurementGuardrails]] - adjacent state AI oversight route through public purchasing.
 - [[FutureOfLifeInstitute|Future of Life Institute]], [[VoluntaryAISafetyCommitments]], [[AILabSafetyReportCards]], [[California]], and [[Illinois]] - frontier-lab safety-framework branch added by Marketplace Tech.
+- [[PoliticalDeepfakeRegulation]], [[AIPoliticalAdDisclosurePatchwork]], [[AIElectionMisinformationRisk]], [[Texas]], and [[California]] - political-deepfake branch added by Marketplace Tech.

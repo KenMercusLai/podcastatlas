@@ -2,11 +2,13 @@
 title: "AI Writing Detection"
 type: concept
 tags: [ai, writing, detection, editing]
-sources: [tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]
-last_updated: 2026-08-10
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]
+last_updated: 2026-08-14
 ---
 
 # AI Writing Detection
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds the watermarking version through [[Anthropic]] and [[Claude]]. Instead of inferring authorship from style or detector scores, [[AITextWatermarking]] embeds a signal in generated or copied text. The source still keeps detection uncertain in practice because human writing edited through Claude may receive a watermark.
 
 AI writing detection is the attempt to identify machine-generated prose through detectors, stylistic traces, source comparison, or editorial judgment. [[taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]] adds the concept through [[CaitlinTalbot]]'s segment on why AI writing is becoming harder to identify.
 
@@ -25,9 +27,11 @@ The source also adds a behavior risk. Public detector scores can push writers to
 - AI prose in the source tends to use less varied punctuation and more long sentences joined by "and."
 - Repeated rhetorical shapes such as "not X but Y," "not only but also," and rules of three can make generated prose feel formulaic.
 - The strongest practical response is not only better detection; it is better editing, audience awareness, detail, and distinctive style.
+- Watermarks can identify model involvement more directly than style detectors, but they cannot by themselves distinguish AI authorship from AI-assisted editing.
 
 ## Connections
 - [[CaitlinTalbot]], [[Pangram]], [[ChatGPT]], [[Claude]], [[Gemini]], and [[Grok]] - source speaker, detector, and model examples.
 - [[Substack]] and [[ChrisBest]] - publishing-platform detector and disclosure case.
 - [[AIWritingPedagogy]] and [[AIDetectorBias]] - education-policy and fairness context.
 - [[HumanAuthorshipPremium]], [[HumanJudgmentUnderAI]], and [[AIContentProvenance]] - adjacent trust and authorship concepts.
+- [[AITextWatermarking]], [[Anthropic]], [[Claude]], and [[EuropeanUnionAIAct]] - model-side detection branch added by Marketplace Tech.

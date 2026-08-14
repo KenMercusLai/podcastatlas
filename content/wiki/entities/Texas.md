@@ -2,11 +2,13 @@
 title: "Texas"
 type: entity
 tags: [place, state, energy, climate, carbon-removal, ai-policy, crypto]
-sources: [tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+last_updated: 2026-08-14
 ---
 
 # Texas
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds Texas as one of the states Curi names in [[PoliticalDeepfakeRegulation]]. The source says Texas, like Minnesota, prohibits some AI-generated political content shortly before an election, making the state part of the timing-ban side of the election deepfake patchwork rather than only consumer AI disclosure.
 
 [[tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128]] adds Texas as a lighter-touch autonomous-vehicle testing and deployment hub compared with [[California]]. The same episode places Texas in the robotaxi field through Austin, where [[Tesla]] is said to have launched a limited CyberCab service, and through Texas-based [[AVRide|AV Ride]].
 
@@ -29,3 +31,4 @@ The source uses Texas as the fossil-fuel-backed contrast case. Support from an o
 - [[StateCryptoReserves]], [[SeparateCryptoReserveFund]], [[PublicCryptoInvestmentRisk]], [[Bitcoin]], [[LizFarmer]], and [[PewCharitableTrusts]] - state crypto reserve branch added by Marketplace Tech.
 - [[OnlineAgeVerification]], [[AgeVerificationPatchwork]], [[SupremeCourt]], and [[DrewHarwell]] - explicit-content age-verification branch added by Marketplace Tech.
 - [[Tesla]], [[AVRide|AV Ride]], [[KirstenKorosek]], and [[AutonomousVehicleRegulatoryPatchwork]] - robotaxi testing and deployment context added by Marketplace Tech.
+- [[PoliticalDeepfakeRegulation]], [[AIPoliticalAdDisclosurePatchwork]], and [[AIElectionMisinformationRisk]] - election deepfake timing-ban branch added by Marketplace Tech.

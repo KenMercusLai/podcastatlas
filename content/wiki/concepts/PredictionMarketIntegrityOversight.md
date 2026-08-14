@@ -2,11 +2,13 @@
 title: "Prediction Market Integrity Oversight"
 type: concept
 tags: [prediction-markets, regulation, integrity, gambling]
-sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, do-prediction-market-bettors-make-anything-better, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]
-last_updated: 2026-07-24
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, do-prediction-market-bettors-make-anything-better, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]
+last_updated: 2026-08-14
 ---
 
 # Prediction Market Integrity Oversight
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds a jurisdictional pressure point. If the [[CommodityFuturesTradingCommission|CFTC]] can order [[Kalshi]] to keep operating in [[NewYorkState|New York State]], then integrity oversight remains tied to federal futures-market authority; if states succeed in treating the same activity as gambling, oversight may shift toward licensing, taxes, and gambling-specific public-interest duties under [[PredictionMarketFederalism]].
 
 Prediction market integrity oversight is the control problem that emerges when event markets look like useful probability tools, gambling products, derivatives contracts, and insider-information markets at the same time. [[tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]] adds the concept by comparing prediction markets with licensed sports betting after the [[JontayPorter]] scandal.
 
@@ -27,6 +29,7 @@ The source argues that prediction markets cannot rely only on being regulated as
 - Academic sandboxes can make prediction-market research possible while leaving larger commercial-platform oversight unresolved.
 - Oversight capacity matters as much as legal category when event markets scale into sports, politics, culture, and war.
 - A platform's claim that it avoids perverse-incentive markets is hard to evaluate when the platform largely decides the limits itself.
+- The authority question matters because federal exchange oversight and state gambling oversight imply different tools, taxes, and public-benefit obligations.
 
 ## Connections
 - [[PredictionMarketLegalBoundary]], [[PredictionMarketPublicGoodClaim]], and [[PredictionMarketTraderAlpha]] - April 2026 Planet Money concepts that add legal, public-value, and trader-culture pressure.
@@ -37,3 +40,4 @@ The source argues that prediction markets cannot rely only on being regulated as
 - [[CommodityFuturesTradingCommission|CFTC]], [[BenSchifrin]], [[JohnHolden]], [[BetterMarkets]], and [[IndianaUniversity]] - regulator and expert context.
 - [[Polymarket]], [[JontayPorter]], [[NationalBasketballAssociation|NBA]], and [[DraftKings]] - platform and sports-integrity examples.
 - [[IowaElectronicMarkets]] and [[AcademicPredictionMarketSandbox]] - earlier CFTC-limited research-market model.
+- [[PredictionMarketFederalism]], [[NewYorkState|New York State]], [[LetitiaJames]], and [[Michigan]] - August 14 Marketplace Tech branch on who gets to supervise prediction markets.

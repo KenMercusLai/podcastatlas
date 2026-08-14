@@ -2,11 +2,13 @@
 title: "AI Authorship Presence"
 type: concept
 tags: [ai, authorship, trust, content]
-sources: [tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]
-last_updated: 2026-08-10
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]
+last_updated: 2026-08-14
 ---
 
 # AI Authorship Presence
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds a watermarking wrinkle through [[Claude]]. The source says original human writing run through Claude for editing could still receive a watermark, which means the trust problem is not only whether content is technically marked as AI-touched. Readers, teachers, and publishers still have to decide whether the human author was meaningfully present in the work.
 
 AI authorship presence is the source's trust problem around whether the author is felt to be present in a text when AI has helped produce it. In [[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]], the hosts discuss a reader losing trust after sensing AI involvement in a book, then regaining some trust after seeing the author's real bookshelf and sources behind the work.
 
@@ -29,6 +31,7 @@ The source does not reduce the issue to rejecting AI. When content has value but
 - Authorship order matters: human-led work with AI assistance can feel different from AI-led work with human editing.
 - Product categories tied to identity and self-expression make authorship presence commercially relevant, not only aesthetically relevant.
 - Subscription writing adds an audience-expectation version: readers may tolerate AI assistance when the human point of view remains visible, but object when AI substitutes for the voice they thought they were paying attention to.
+- Watermarks can show AI involvement while still leaving the authorial-presence question unresolved when a human draft was only edited by AI.
 
 ## Connections
 
@@ -40,3 +43,4 @@ The source does not reduce the issue to rejecting AI. When content has value but
 - [[PersonalKnowledgeEcology]] — personal context can reprocess generic content into something usable.
 - [[ColleenKirk]], [[HumanAuthorshipPremium]], [[AlgorithmAversion]], and [[AIGeneratedAdvertising]] — Marketplace Tech's consumer-product and marketing extension.
 - [[Substack]], [[ChrisBest]], [[Pangram]], and [[AIWritingDetection]] - Marketplace Tech's publishing-platform detection and disclosure extension.
+- [[AITextWatermarking]], [[Claude]], [[AIContentProvenance]], and [[HumanJudgmentUnderAI]] - August 14, 2026 branch on AI editing versus AI authorship.

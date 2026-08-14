@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [States rush to police AI deepfakes ahead of midterm elections](sources/tech-20260814-tech-pod-128-tech-20260814-tech-pod-128.md) — Marketplace Tech episode with Maria Curi on Claude text watermarks, state political-deepfake laws, First Amendment limits, AI-tool liability, and the CFTC-New York fight over Kalshi prediction markets.
 - [Afghanistan, five years on: our correspondent visits](sources/afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9.md) — The Intelligence episode on Afghanistan under Taliban hardline rule, Colombia's unequal earthquake response, and Nirmal Purja's high-altitude climbing legacy.
 - [Can Silicon Valley give AI good taste?](sources/tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128.md) — Marketplace Tech episode with Sophie Hagney on AI slop, taste as embodied cultural judgment, Taste Labs, Corporate Memphis, algorithmic taste flattening, and Claude's preference-like language.
 - [Featherless AI: When Your Weekend Experiment Makes More Than Your Startup](sources/featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup.md) — The SaaS Podcast episode with Eugene Chia on Featherless AI's pivot from RWKV/Recursor to long-tail open-source model inference, GPU hot swapping, flat-rate pricing, and Hugging Face distribution.
@@ -949,6 +950,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Letitia James](entities/LetitiaJames.md) — New York attorney general arguing that Kalshi violated state gambling law by operating without a gambling license.
+- [New York State](entities/NewYorkState.md) — State jurisdiction at the center of the CFTC-Kalshi prediction-market federalism dispute.
 - [Tom Sass](entities/TomSass.md) — The Intelligence correspondent reporting from Afghanistan on Taliban control, poverty, women's restrictions, aid cuts, and Western engagement.
 - [Taliban](entities/Taliban.md) — Afghan governing movement whose hardline rule is described as combining lower visible violence with ideological policing and gender exclusion.
 - [Hibatullah Akhundzada](entities/HibatullahAkhundzada.md) — Taliban amir whose Kandahar-based hardline consolidation anchors the Afghanistan segment.
@@ -6482,6 +6485,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Text Watermarking](concepts/AITextWatermarking.md) — Model-side marking of generated prose through metadata or output patterns, useful for provenance but ambiguous when AI edits human writing.
+- [European Union AI Act](concepts/EuropeanUnionAIAct.md) — EU AI disclosure rule used in the episode as the compliance driver for Anthropic's global Claude text-watermark rollout.
+- [Political Deepfake Regulation](concepts/PoliticalDeepfakeRegulation.md) — State election-law approach to AI-generated campaign media through disclosure, bans, penalties, and First Amendment limits.
+- [Prediction Market Federalism](concepts/PredictionMarketFederalism.md) — Conflict over whether prediction markets are federally regulated event contracts or state-regulated gambling products.
 - [Taliban Hardline Rule](concepts/TalibanHardlineRule.md) — Afghanistan pattern where reduced visible violence coexists with centralized ideological policing, gender exclusion, and fear.
 - [Humanitarian Isolation](concepts/HumanitarianIsolation.md) — Pattern where non-recognition, aid cuts, sanctions, frozen reserves, and compliance fear deepen civilian hardship without moderating a regime.
 - [Girls Education Workaround](concepts/GirlsEducationWorkaround.md) — Partial schooling workaround for girls under restrictive education bans, valuable but not equivalent to restored opportunity.

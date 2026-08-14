@@ -2,11 +2,13 @@
 title: "Kalshi"
 type: entity
 tags: [company, prediction-market, finance]
-sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, do-prediction-market-bettors-make-anything-better, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
-last_updated: 2026-07-24
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, do-prediction-market-bettors-make-anything-better, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
+last_updated: 2026-08-14
 ---
 
 # Kalshi
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds Kalshi to a direct [[PredictionMarketFederalism]] fight. The transcript renders the platform name as CalSheet/Kelsey, but the surrounding description appears to refer to Kalshi: the [[CommodityFuturesTradingCommission|CFTC]] is said to have invoked emergency powers to keep the platform operating in [[NewYorkState|New York State]] despite a state lawsuit, while New York and [[Michigan]] argue the business should be treated as gambling.
 
 [[do-prediction-market-bettors-make-anything-better]] adds Kalshi's boom-era platform story through [[BobbyAllen]]'s reporting and [[TarekMansour]]'s defense. The episode says Kalshi's central claim is that yes-or-no event contracts are financial-market instruments rather than gambling, making the company a concrete case for [[PredictionMarketLegalBoundary]].
 
@@ -44,3 +46,4 @@ The source uses Kalshi to make [[PredictionMarketEthics]] concrete. Event market
 - [[AliKhamenei]] and [[Iran]] - event context for the disputed market.
 - [[NoPredictionTrading]] - related trading-probability frame that this source qualifies ethically.
 - [[IowaElectronicMarkets]], [[PredictionMarketHistory]], and [[AcademicPredictionMarketSandbox]] - historical branch added by Planet Money.
+- [[PredictionMarketFederalism]], [[NewYorkState|New York State]], [[LetitiaJames]], and [[Michigan]] - state-versus-federal jurisdiction branch added by Marketplace Tech.

@@ -2,11 +2,13 @@
 title: "AI Non-Consensual Intimate Image Abuse"
 type: concept
 tags: [ai, abuse, harassment, law, platforms]
-sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128]
+last_updated: 2026-08-14
 ---
 
 # AI Non-Consensual Intimate Image Abuse
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds a political-advertising overlap. [[MariaCurie|Maria Curi]] says non-consensual imagery issues can intersect with political ads when sexualized AI imagery is used against a political figure. That makes the harm harder to categorize as only harassment, only campaign speech, or only election misinformation.
 
 AI non-consensual intimate image abuse is the harm pattern where generative tools create or help distribute intimate images without the subject's consent. [[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] grounds the concept through the reported use of [[Grok]] on [[Twitter|X]] to generate non-consensual intimate images of women and sometimes minors.
 
@@ -21,6 +23,7 @@ The episode makes the abuse different from older image-sharing cases because the
 - Abuse involving minors raises child-safety and criminal-enforcement stakes beyond ordinary platform moderation.
 - [[AIContentProvenance]] can help identify generated material, but provenance alone does not repair the privacy and dignity harm of creating or soliciting the image.
 - The July 27 source adds that abuse can remain durable when mainstream traffic, app distribution, and payment routing make third-party nudify services easy to discover and monetize.
+- Political-ad usage can make takedown enforcement uneven because campaign speech, synthetic sexualization, platform publication, and election timing can all matter at once.
 
 ## Connections
 - [[Grok]], [[XAI|xAI]], [[Twitter|X]], and [[ElonMusk]] - platform and company context in the source.
@@ -28,3 +31,4 @@ The episode makes the abuse different from older image-sharing cases because the
 - [[TakeItDownAct|Take It Down Act]] and [[DefianceAct|Defiance Act]] - legal-response branch.
 - [[ChatbotGeneratedContentLiability]], [[Section230]], and [[InternetLiabilitySpillover]] - liability branch.
 - [[AIInformationPollution]], [[AIContentProvenance]], and [[HumanJudgmentUnderAI]] - synthetic-media trust and responsibility context.
+- [[PoliticalDeepfakeRegulation]], [[TakeItDownAct|Take It Down Act]], and [[ChatbotGeneratedContentLiability]] - election-ad overlap added by Marketplace Tech.

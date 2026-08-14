@@ -2,11 +2,13 @@
 title: "United States Constitution"
 type: entity
 tags: [document, law, constitution, politics]
-sources: [tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271]
-last_updated: 2026-08-10
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271]
+last_updated: 2026-08-14
 ---
 
 # United States Constitution
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds a First Amendment political-deepfake branch. [[MariaCurie|Maria Curi]] says attempts to regulate AI-generated political content often face constitutional concerns, and the episode describes a [[California]] AI political-content law as having been struck down as unconstitutional. The source links the Constitution to [[PoliticalDeepfakeRegulation]] by showing that election-integrity rules still have to respect speech limits.
 
 [[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]] adds the Constitution as a constraint on reform as well as a source of repair mechanisms. [[LinYao|林垚]] emphasizes Article V's two-thirds congressional threshold and three-fourths state-ratification threshold, linking them to slavery-era compromise and to the present difficulty of changing Electoral College, Senate, federalism, or [[PresidentialSystem|presidential-system]] structures.
 
@@ -26,6 +28,7 @@ In the source, the Constitution is not treated as flawless text. It is treated a
 - The sequel stresses that Article V amendment design can protect stability while also producing [[USConstitutionalReformConstraint]].
 - The Marketplace Tech source adds that constitutional speech protections constrain state child-safety technology laws when those laws restrict lawful online communication by age.
 - The Intelligence source adds a religious-freedom conflict where mandatory child-abuse reporting may collide with confession privilege.
+- The August 14 Marketplace Tech source adds that AI political-content regulation can be limited by First Amendment political-speech protections.
 
 ## Connections
 - [[UnitedStates]] - political system and country governed by the document.
@@ -35,3 +38,4 @@ In the source, the Constitution is not treated as flawless text. It is treated a
 - [[USConstitutionalReformConstraint]], [[NationalPopularVoteInterstateCompact]], and [[USConstitutionalCrisisRisk]] - sequel reform-limit branch.
 - [[CaliforniaAB1709]], [[AaronMackey]], [[YouthOnlineSpeechRights]], and [[SocialMediaAgeGateSpeechBurden]] - First Amendment branch added by Marketplace Tech.
 - [[CatholicChurch]], [[PeterEisley]], and [[ClergyMandatoryReportingConflict]] - First Amendment religious-liberty branch added by The Intelligence.
+- [[PoliticalDeepfakeRegulation]], [[AIPoliticalAdDisclosurePatchwork]], and [[California]] - political-deepfake speech branch added by Marketplace Tech.

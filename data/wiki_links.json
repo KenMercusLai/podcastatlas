@@ -2047,6 +2047,10 @@
     "title": "AI Taste Simulation",
     "url": "/wiki/concepts/aitastesimulation/"
   },
+  "AITextWatermarking": {
+    "title": "AI Text Watermarking",
+    "url": "/wiki/concepts/aitextwatermarking/"
+  },
   "AIToyCompanionship": {
     "title": "AI Toy Companionship / AI玩具陪伴",
     "url": "/wiki/concepts/aitoycompanionship/"
@@ -12651,6 +12655,10 @@
     "title": "European Union",
     "url": "/wiki/entities/europeanunion/"
   },
+  "EuropeanUnionAIAct": {
+    "title": "European Union AI Act",
+    "url": "/wiki/concepts/europeanunionaiact/"
+  },
   "EurozoneInternalImbalance": {
     "title": "Eurozone Internal Imbalance",
     "url": "/wiki/concepts/eurozoneinternalimbalance/"
@@ -21487,6 +21495,10 @@
     "title": "Lepton AI",
     "url": "/wiki/entities/leptonai/"
   },
+  "LetitiaJames": {
+    "title": "Letitia James",
+    "url": "/wiki/entities/letitiajames/"
+  },
   "LeverageDrivenBullMarket": {
     "title": "Leverage-Driven Bull Market",
     "url": "/wiki/concepts/leveragedrivenbullmarket/"
@@ -25811,6 +25823,10 @@
     "title": "New York Salad-Bowl Multiculturalism / 纽约沙拉式多元",
     "url": "/wiki/concepts/newyorksaladbowlmulticulturalism/"
   },
+  "NewYorkState": {
+    "title": "New York State",
+    "url": "/wiki/entities/newyorkstate/"
+  },
   "NewYorkStockExchange": {
     "title": "New York Stock Exchange / 纽约证券交易所",
     "url": "/wiki/entities/newyorkstockexchange/"
@@ -28483,6 +28499,10 @@
     "title": "Political Condition As Human Experiment / 政治条件作为人性实验",
     "url": "/wiki/concepts/politicalconditionashumanexperiment/"
   },
+  "PoliticalDeepfakeRegulation": {
+    "title": "Political Deepfake Regulation",
+    "url": "/wiki/concepts/politicaldeepfakeregulation/"
+  },
   "PoliticalDeliveryGap": {
     "title": "Political Delivery Gap",
     "url": "/wiki/concepts/politicaldeliverygap/"
@@ -28786,6 +28806,10 @@
   "PredictionMarketEthics": {
     "title": "Prediction Market Ethics",
     "url": "/wiki/concepts/predictionmarketethics/"
+  },
+  "PredictionMarketFederalism": {
+    "title": "Prediction Market Federalism",
+    "url": "/wiki/concepts/predictionmarketfederalism/"
   },
   "PredictionMarketHistory": {
     "title": "Prediction Market History",
@@ -42650,6 +42674,10 @@
   "tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128": {
     "title": "Can Silicon Valley give AI good taste?",
     "url": "/wiki/sources/tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128/"
+  },
+  "tech-20260814-tech-pod-128-tech-20260814-tech-pod-128": {
+    "title": "States rush to police AI deepfakes ahead of midterm elections",
+    "url": "/wiki/sources/tech-20260814-tech-pod-128-tech-20260814-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

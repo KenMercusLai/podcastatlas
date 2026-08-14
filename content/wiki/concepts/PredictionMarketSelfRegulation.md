@@ -2,11 +2,13 @@
 title: "Prediction Market Self-Regulation"
 type: concept
 tags: [prediction-markets, regulation, integrity, self-regulation]
-sources: [do-prediction-market-bettors-make-anything-better, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
-last_updated: 2026-07-24
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, do-prediction-market-bettors-make-anything-better, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
+last_updated: 2026-08-14
 ---
 
 # Prediction Market Self-Regulation
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds a limit case for platform-led guardrails. The CFTC-New York dispute over [[Kalshi]] suggests that even if a platform adopts its own trader and market rules, state officials may still insist on gambling licenses, taxes, and public-benefit obligations under [[PredictionMarketFederalism]].
 
 Prediction market self-regulation is the platform-led attempt to preserve market legitimacy by blocking prohibited traders, sensitive contracts, or insider-informed bets before external regulators impose stricter rules. [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds the concept through [[Kalshi]]'s announced guardrails for candidates, athletes, coaches, and referees.
 
@@ -22,6 +24,7 @@ The source frames self-regulation as both a business incentive and a weak point.
 - Self-regulation complements but does not replace [[PredictionMarketIntegrityOversight]] when insider information or manipulation can shape the traded event.
 - A platform's market-selection judgment becomes part of governance when regulators have not yet drawn clear boundaries.
 - Avoiding perverse incentives requires more than settlement rules; it requires anticipating how traders may try to affect the underlying event.
+- Self-regulation does not answer the threshold legal question of whether a state can treat the whole activity as gambling.
 
 ## Connections
 - [[Kalshi]] - platform announcing the new guardrails.
@@ -30,3 +33,4 @@ The source frames self-regulation as both a business incentive and a weak point.
 - [[PredictionMarketEthics]] - adjacent question of which events should be tradable.
 - [[EventContractManipulationRisk]] - specific risk self-regulation tries to reduce.
 - [[CommodityFuturesTradingCommission|CFTC]] and [[SportsbookIntegrityMonitoring]] - regulator and comparison model for integrity controls.
+- [[PredictionMarketFederalism]], [[NewYorkState|New York State]], [[LetitiaJames]], and [[Michigan]] - state-law limit on self-regulation added by Marketplace Tech.

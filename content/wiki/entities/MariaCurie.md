@@ -2,11 +2,13 @@
 title: "Maria Curi"
 type: entity
 tags: [person, journalism, technology]
-sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]
+last_updated: 2026-08-14
 ---
 
 # Maria Curi
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds Curi as the analyst connecting [[Anthropic]]'s [[Claude]] watermark rollout, state political-deepfake laws, and [[Kalshi]]'s prediction-market jurisdiction fight. Her comments make [[AITextWatermarking]], [[PoliticalDeepfakeRegulation]], and [[PredictionMarketFederalism]] part of the same policy pattern: technical systems move first, while disclosure, liability, speech law, and state-federal authority catch up unevenly.
 
 [[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] spells her name as Maria Curie while using the same [[Axios]] technology-policy analyst role. Her comments connect [[Grok]] misuse on [[Twitter|X]] to [[AINonConsensualIntimateImageAbuse]] and [[ChatbotGeneratedContentLiability]], then connect [[DonaldTrump]]'s executive order to [[FederalAIPreemption]] and [[StateAIRegulationPatchwork]]. She also uses [[Meta]]'s [[RayBanSmartGlasses|Ray-Ban smart glasses]] demand to explain how wearable adoption and [[SmartGlassesBystanderPrivacy]] can rise together.
 
@@ -31,3 +33,4 @@ In [[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]], Curi explains fron
 - [[Apple]], [[MacMini]], and [[TechManufacturingReshoring]] - manufacturing-policy analysis.
 - [[OpenAI]], [[GPT56|GPT-5.6]], [[WhiteHouse]], and [[CenterForAIStandardsAndInnovation]] - frontier-model release governance analysis.
 - [[Meta]], [[MuseImage|Muse Image]], [[Instagram]], [[WhatsApp]], and [[AIPublicLikenessGeneration]] - public likeness and social AI content analysis.
+- [[Anthropic]], [[Claude]], [[AITextWatermarking]], [[PoliticalDeepfakeRegulation]], [[Kalshi]], [[LetitiaJames]], and [[PredictionMarketFederalism]] - August 14, 2026 policy analysis.

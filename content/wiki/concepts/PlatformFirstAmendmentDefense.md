@@ -2,11 +2,13 @@
 title: "Platform First Amendment Defense"
 type: concept
 tags: [law, platforms, speech, constitutional-law]
-sources: [tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128]
+last_updated: 2026-08-14
 ---
 
 # Platform First Amendment Defense
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds a related political-speech branch through [[PoliticalDeepfakeRegulation]]. [[MariaCurie|Maria Curi]] says attempts to regulate AI-generated political content often run into First Amendment concerns, and the episode describes a [[California]] AI political-content law as having been struck down as unconstitutional. This is not exactly the same as a platform editorial-rights defense, but it sits beside it as another constitutional limit on technology regulation.
 
 Platform First Amendment defense is the argument that social-media services have constitutional speech or editorial rights when deciding what content to publish, rank, present, or deliver to users. [[tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128]] adds the concept through [[EricGoldman]]'s warning that appeals in youth social-media liability cases may raise First Amendment issues because platforms can be understood as publishers of content.
 
@@ -20,6 +22,7 @@ The concept sits next to [[Section230DesignWorkaround]]. Plaintiffs argue they a
 - Appeals may shift the dispute from jury reaction to broader limits on platform regulation and publisher autonomy.
 - The defense can shape [[InternetLiabilitySpillover]] because other interactive services also organize and present user or model-generated outputs.
 - First Amendment objections can also come from users' access rights, especially when age gates or bans restrict lawful online speech by minors and adults.
+- AI political-content bans can raise candidate, campaign, and speaker-rights questions even when the content is synthetic or misleading.
 
 ## Connections
 - [[EricGoldman]] - source expert raising the First Amendment issue.
@@ -28,3 +31,4 @@ The concept sits next to [[Section230DesignWorkaround]]. Plaintiffs argue they a
 - [[SocialMediaProductLiability]], [[PlatformLegalCausation]], and [[BellwetherPlatformTrials]] - litigation frames affected by constitutional limits.
 - [[Meta]] and [[YouTube]] - defendants in the source's Los Angeles verdict discussion.
 - [[AaronMackey]], [[ElectronicFrontierFoundation|Electronic Frontier Foundation]], [[YouthOnlineSpeechRights]], and [[SocialMediaAgeGateSpeechBurden]] - user-speech branch added by the April 6, 2026 source.
+- [[PoliticalDeepfakeRegulation]], [[AIPoliticalAdDisclosurePatchwork]], and [[California]] - political-speech branch added by Marketplace Tech.

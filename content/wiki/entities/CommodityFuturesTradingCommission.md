@@ -2,11 +2,13 @@
 title: "Commodity Futures Trading Commission"
 type: entity
 tags: [government, regulator, markets]
-sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, do-prediction-market-bettors-make-anything-better, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
-last_updated: 2026-07-24
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, do-prediction-market-bettors-make-anything-better, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
+last_updated: 2026-08-14
 ---
 
 # Commodity Futures Trading Commission
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds a more direct federalism posture for the CFTC. [[MariaCurie|Maria Curi]] says the agency invoked emergency powers to tell the platform transcribed as CalSheet/Kelsey, apparently [[Kalshi]], to keep operating in [[NewYorkState|New York State]] despite a state lawsuit. The episode frames the CFTC's position as interstate-commerce and federally regulated market authority, directly sharpening [[PredictionMarketFederalism]].
 
 [[do-prediction-market-bettors-make-anything-better]] adds Kalshi's regulatory arc. The episode says the CFTC approved [[Kalshi]] as a marketplace in November 2020 with safeguards against manipulation and insider trading, but that individual markets still faced approval limits before Kalshi sued over an election market in 2023.
 
@@ -30,3 +32,4 @@ The source uses the CFTC to separate prediction markets from ordinary opinion po
 - [[PredictionMarketIntegrityOversight]], [[SportsbookIntegrityMonitoring]], [[PredictionMarketSelfRegulation]], and [[EventContractManipulationRisk]] - integrity, self-regulation, and manipulation concepts added by later episodes.
 - [[BenSchifrin]], [[BetterMarkets]], [[JohnHolden]], and [[IndianaUniversity]] - expert and institutional context for the rulemaking pressure.
 - [[IowaElectronicMarkets]] and [[AcademicPredictionMarketSandbox]] - earlier small-stakes research-market branch.
+- [[PredictionMarketFederalism]], [[NewYorkState|New York State]], [[LetitiaJames]], and [[Michigan]] - August 14 Marketplace Tech branch on federal market authority versus state gambling law.

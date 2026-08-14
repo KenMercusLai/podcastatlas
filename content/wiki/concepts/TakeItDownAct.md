@@ -2,11 +2,13 @@
 title: "Take It Down Act"
 type: concept
 tags: [law, ai, intimate-image-abuse, united-states]
-sources: [tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260727-0727-mp-tech-pod-128-tech-20260727-0727-mp-tech-pod-128]
+last_updated: 2026-08-14
 ---
 
 # Take It Down Act
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] clarifies the act's boundary in the political-deepfake context. [[MariaCurie|Maria Curi]] says there is no federal law specifically regulating political deepfakes and notes that the Take It Down Act addresses non-consensual intimate imagery rather than political content as such. The same episode says intimate-image issues can still overlap with political advertising when a sexualized AI image is used in a campaign context.
 
 The Take It Down Act is the U.S. law discussed in [[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] as a response to non-consensual intimate image publication, including AI-generated material. [[MariaCurie|Maria Curi]] says the law comes into effect in May 2026 and prohibits publication of these kinds of images.
 
@@ -20,6 +22,7 @@ In the source, the law is important but not complete. It gives authorities a pub
 - The law matters for [[AINonConsensualIntimateImageAbuse]] because AI systems can produce harmful intimate images even when no real photo was leaked.
 - The episode connects enforcement interest to the [[USDepartmentOfJustice|U.S. Department of Justice]] and to lawmakers pressing for action.
 - The July 27 source adds an ecosystem caveat: emerging AI companions, AI girlfriends, wearable devices, and smart devices may create adjacent abuse surfaces faster than statutory coverage can adapt.
+- Political-ad use can create category overlap: a sexualized AI image may be both campaign speech and non-consensual intimate-image abuse, making enforcement harder to route.
 
 ## Connections
 - [[AINonConsensualIntimateImageAbuse]] - core harm addressed by the law.
@@ -27,3 +30,4 @@ In the source, the law is important but not complete. It gives authorities a pub
 - [[DefianceAct|Defiance Act]] - adjacent and potentially broader remedy in the source.
 - [[USDepartmentOfJustice|U.S. Department of Justice]] - enforcement context.
 - [[Grok]], [[Twitter|X]], and [[ChatbotGeneratedContentLiability]] - platform-AI case that raises the enforcement question.
+- [[PoliticalDeepfakeRegulation]] and [[AIElectionMisinformationRisk]] - election-law boundary clarified by the August 14, 2026 source.

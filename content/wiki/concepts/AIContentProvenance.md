@@ -2,11 +2,15 @@
 title: "AI Content Provenance"
 type: concept
 tags: [ai, provenance, trust, compliance]
-sources: [tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
-last_updated: 2026-08-10
+sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
+last_updated: 2026-08-14
 ---
 
 # AI Content Provenance
+
+[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds the model-side text watermarking version through [[Anthropic]] and [[Claude]]. [[MariaCurie|Maria Curi]] says the rollout is linked to [[EuropeanUnionAIAct|European Union AI Act]] disclosure requirements and describes both copy-paste metadata and an encoded output pattern detectable by Anthropic.
+
+This branch strengthens provenance evidence for generated text, but it also exposes an authorship problem: if a human draft is edited in Claude, the watermark may show AI involvement without proving that the ideas or full text originated from AI. That makes [[AITextWatermarking]] adjacent to [[AIWritingDetection]], [[AIAuthorshipPresence]], and [[HumanJudgmentUnderAI]].
 
 [[a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55]] adds an art-market contrast through [[OldMastersMarketRevival]]. The episode says older works can feel more authentic in an AI age, which places material art objects beside technical provenance systems: trust can come from metadata and disclosure, but also from scarcity, physical history, expert attribution, and visible age.
 
@@ -54,6 +58,7 @@ This is weaker than cryptographic or model-side provenance, because detector out
 - Watermark detection can be decisive in a reporting workflow when a source presents generated material as identity proof.
 - Material scarcity and expert attribution can become a parallel authenticity signal when AI makes generated images plentiful.
 - For writing platforms, detector estimates and author process statements can function as practical provenance signals, but they require correction paths and cannot substitute for stronger technical evidence.
+- Model-side text watermarks can be stronger than public detector estimates, but they still need context because AI editing and AI authorship are not the same thing.
 
 ## Connections
 
@@ -73,3 +78,4 @@ This is weaker than cryptographic or model-side provenance, because detector out
 - [[OldMastersMarketRevival]], [[Christies|Christie's]], and [[Sothebys|Sotheby's]] - art-market authenticity contrast added by The Intelligence.
 - [[Banlatte|半拿铁]], [[LiDan|李诞]], [[PodcastAuthenticityBoundary]], and [[AIVoiceCloningRights]] - podcast voice disclosure branch added by the Banlatte special.
 - [[Substack]], [[ChrisBest]], [[Pangram]], [[AIWritingDetection]], and [[AIAuthorshipPresence]] - publishing-platform detector and process-disclosure branch.
+- [[Anthropic]], [[Claude]], [[EuropeanUnionAIAct]], and [[AITextWatermarking]] - model-side text watermarking branch added by Marketplace Tech.

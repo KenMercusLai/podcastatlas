@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-14] ingest | States rush to police AI deepfakes ahead of midterm elections
+
+Added source page for a Marketplace Tech episode with Maria Curi of Axios on Anthropic's Claude text watermarks, state political-deepfake laws before the midterms, and the CFTC-New York fight over Kalshi prediction markets. Created pages for AI Text Watermarking, European Union AI Act, Political Deepfake Regulation, Prediction Market Federalism, Letitia James, and New York State; updated overview, index, Marketplace Tech, Maria Curi, Axios, Anthropic, Claude, European Union, AI Content Provenance, AI Writing Detection, AI Authorship Presence, State AI Regulation Patchwork, AI Political Ad Disclosure Patchwork, AI Election Misinformation Risk, Take It Down Act, Platform First Amendment Defense, United States Constitution, Chatbot-Generated Content Liability, AI Non-Consensual Intimate Image Abuse, Texas, California, Michigan, Kalshi, Commodity Futures Trading Commission, Prediction Market Legal Boundary, Prediction Market Integrity Oversight, Prediction Market Ethics, and Prediction Market Self-Regulation. No direct contradiction found; the source qualifies provenance and regulation by showing that watermarks, disclosure rules, and federal authorization all require legal and social interpretation before they produce trust.
+
 ## [2026-08-14] ingest | Afghanistan, five years on: our correspondent visits
 
 Added source page for a The Intelligence episode on Afghanistan five years after the Taliban returned to power, Colombia after a major earthquake, and Nirmal Purja's mountaineering legacy. Created pages for Tom Sass, Taliban, Hibatullah Akhundzada, Nirmal Purja, Project Possible, Nepal, Taliban Hardline Rule, Humanitarian Isolation, Girls Education Workaround, Forced Refugee Return, Disaster Inequality, and High-Altitude Climbing Ethics; updated overview, index, Afghanistan, Colombia, Abelardo de la Espriella, Anne Rowe, The Intelligence, Economist Podcasts, Pakistan, United States, Afghan Women First-Person Writing, Disaster Response State Capacity, Natural Hazard As Social Disaster, Disaster Relief Mismatch, Economic Sanctions As Violence, and Sanctions Overcompliance. No direct contradiction found; the source extends existing Afghan women, sanctions, Colombia security, and disaster-capacity branches with a current source-scoped reporting case.
@@ -7593,6 +7597,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-13] ingest | Can Silicon Valley give AI good taste?
 
 Added source page for a Marketplace Tech episode with Sophie Hagney on AI slop, Taste Labs, human-curated taste data, embodied taste, Corporate Memphis, algorithmic taste flattening, and Claude's preference-like language. Created pages for Sophie Hagney, Taste Labs, AI Taste Simulation, Embodied Taste, and Corporate Memphis; updated overview, index, Marketplace Tech, Megan McCarty-Corino, AI Slop, Human Taste as AI Training Signal, Algorithmic Cultural Flattening, Claude, AI Content Devaluation, AI-Generated Content Quality Gap, Human Judgment Under AI, and Research Taste. No direct contradiction found; the source qualifies existing taste and AI-judgment pages by distinguishing more tasteful model outputs from AI having independent taste.
+
+## [2026-08-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-14] lint | Wiki health check
 
