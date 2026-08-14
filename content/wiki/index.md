@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Afghanistan, five years on: our correspondent visits](sources/afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9.md) — The Intelligence episode on Afghanistan under Taliban hardline rule, Colombia's unequal earthquake response, and Nirmal Purja's high-altitude climbing legacy.
 - [Can Silicon Valley give AI good taste?](sources/tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128.md) — Marketplace Tech episode with Sophie Hagney on AI slop, taste as embodied cultural judgment, Taste Labs, Corporate Memphis, algorithmic taste flattening, and Claude's preference-like language.
 - [Featherless AI: When Your Weekend Experiment Makes More Than Your Startup](sources/featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup.md) — The SaaS Podcast episode with Eugene Chia on Featherless AI's pivot from RWKV/Recursor to long-tail open-source model inference, GPU hot swapping, flat-rate pricing, and Hugging Face distribution.
 - [Caracas under pressure: democracy in Venezuela](sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822.md) — The Intelligence episode on Venezuela transition talks, U.S. oil-revenue leverage, fast-food demand pressure, and Wagner's Ring cycle.
@@ -948,6 +949,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tom Sass](entities/TomSass.md) — The Intelligence correspondent reporting from Afghanistan on Taliban control, poverty, women's restrictions, aid cuts, and Western engagement.
+- [Taliban](entities/Taliban.md) — Afghan governing movement whose hardline rule is described as combining lower visible violence with ideological policing and gender exclusion.
+- [Hibatullah Akhundzada](entities/HibatullahAkhundzada.md) — Taliban amir whose Kandahar-based hardline consolidation anchors the Afghanistan segment.
+- [Nirmal Purja](entities/NirmalPurja.md) — Nepali mountaineer remembered for Project Possible, rescue claims, and contested high-altitude methods.
+- [Project Possible](entities/ProjectPossible.md) — Nirmal Purja's project to climb all fourteen 8,000-metre peaks as quickly as possible.
+- [Nepal](entities/Nepal.md) — Country context for Nirmal Purja, Project Possible, Sherpa recognition, and Himalayan mountaineering.
 - [Sophie Hagney](entities/SophieHagney.md) — Critic and journalist explaining taste as embodied, social, attention-based judgment rather than only AI preference data.
 - [Taste Labs](entities/TasteLabs.md) — AI startup using vetted human tastemakers to curate training data for more tasteful generated output.
 - [Featherless AI](entities/FeatherlessAI.md) — Open-source model inference platform built around instant access to many hosted models, GPU hot swapping, flat-rate pricing, and long-tail catalog coverage.
@@ -6475,6 +6482,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Taliban Hardline Rule](concepts/TalibanHardlineRule.md) — Afghanistan pattern where reduced visible violence coexists with centralized ideological policing, gender exclusion, and fear.
+- [Humanitarian Isolation](concepts/HumanitarianIsolation.md) — Pattern where non-recognition, aid cuts, sanctions, frozen reserves, and compliance fear deepen civilian hardship without moderating a regime.
+- [Girls Education Workaround](concepts/GirlsEducationWorkaround.md) — Partial schooling workaround for girls under restrictive education bans, valuable but not equivalent to restored opportunity.
+- [Forced Refugee Return](concepts/ForcedRefugeeReturn.md) — Humanitarian pressure created when refugees are pushed back into a country with weak jobs, health care, housing, and rights protection.
+- [Disaster Inequality](concepts/DisasterInequality.md) — Disaster-response pattern where poorer, remote, or insecure regions experience slower rescue and weaker recovery than richer connected areas.
+- [High-Altitude Climbing Ethics](concepts/HighAltitudeClimbingEthics.md) — Mountaineering debate over oxygen, fixed ropes, transport, rescue obligations, record style, and Sherpa recognition.
 - [AI Taste Simulation](concepts/AITasteSimulation.md) — Distinction between AI producing tasteful-looking outputs and having independent taste shaped by embodied experience.
 - [Embodied Taste](concepts/EmbodiedTaste.md) — Taste as lived, bodily, social, scarcity-sensitive attention to the world rather than only preference ranking.
 - [Corporate Memphis](concepts/CorporateMemphis.md) — Repeated corporate illustration style used as a case of aesthetic exhaustion and AI-era style devaluation.

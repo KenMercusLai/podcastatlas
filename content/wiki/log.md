@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-14] ingest | Afghanistan, five years on: our correspondent visits
+
+Added source page for a The Intelligence episode on Afghanistan five years after the Taliban returned to power, Colombia after a major earthquake, and Nirmal Purja's mountaineering legacy. Created pages for Tom Sass, Taliban, Hibatullah Akhundzada, Nirmal Purja, Project Possible, Nepal, Taliban Hardline Rule, Humanitarian Isolation, Girls Education Workaround, Forced Refugee Return, Disaster Inequality, and High-Altitude Climbing Ethics; updated overview, index, Afghanistan, Colombia, Abelardo de la Espriella, Anne Rowe, The Intelligence, Economist Podcasts, Pakistan, United States, Afghan Women First-Person Writing, Disaster Response State Capacity, Natural Hazard As Social Disaster, Disaster Relief Mismatch, Economic Sanctions As Violence, and Sanctions Overcompliance. No direct contradiction found; the source extends existing Afghan women, sanctions, Colombia security, and disaster-capacity branches with a current source-scoped reporting case.
+
 ## [2026-08-13] ingest | Caracas under pressure: democracy in Venezuela
 
 Added source page for a The Intelligence episode on Venezuela's transition talks after the source-scoped Maduro seizure account, including Delcy Rodriguez's interim leadership, Marco Rubio's three-phase transition plan, U.S. oil-revenue leverage, Machado's exclusion, and institutional reforms to the electoral council, Supreme Court, and party rights. Created pages for Kinley Salmon, Marco Rubio, Dinora Figueroa, Jorge Rodriguez, U.S. Department of State, Venezuelan Electoral Council, Venezuelan Supreme Court, Burger King, Richard Wagner, Der Ring des Nibelungen / The Ring Cycle, Bayreuth Festival, Oil Revenue Sanctions Leverage, Opposition Legitimacy Gap, Fast-Food Demand Reset, Gesamtkunstwerk, Leitmotif, and Ideologically Compromised Art; updated overview, index, The Intelligence, Economist Podcasts, Rosie Bloor, Venezuela, Nicolas Maduro, Delcy Rodriguez, Maria Corina Machado, United States, Donald Trump, Democratic Transition Election, Oil Revenue Dependence, Economic Sanctions As Violence, McDonald's, Taco Bell, GLP-1 Agonists, Friedrich Nietzsche, and Star Wars. No direct contradiction found; the source extends the existing Venezuela crisis branch while keeping odd intervention claims source-scoped, and it adds fast-food demand pressure plus Wagner reception as separate business and culture branches.
@@ -7589,6 +7593,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-13] ingest | Can Silicon Valley give AI good taste?
 
 Added source page for a Marketplace Tech episode with Sophie Hagney on AI slop, Taste Labs, human-curated taste data, embodied taste, Corporate Memphis, algorithmic taste flattening, and Claude's preference-like language. Created pages for Sophie Hagney, Taste Labs, AI Taste Simulation, Embodied Taste, and Corporate Memphis; updated overview, index, Marketplace Tech, Megan McCarty-Corino, AI Slop, Human Taste as AI Training Signal, Algorithmic Cultural Flattening, Claude, AI Content Devaluation, AI-Generated Content Quality Gap, Human Judgment Under AI, and Research Taste. No direct contradiction found; the source qualifies existing taste and AI-judgment pages by distinguishing more tasteful model outputs from AI having independent taste.
+
+## [2026-08-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-14] lint | Wiki health check
 

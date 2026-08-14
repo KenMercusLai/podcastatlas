@@ -2,8 +2,8 @@
 title: "Economic Sanctions As Violence"
 type: concept
 tags: [sanctions, ethics, civilians, foreign-policy]
-sources: [venezuelas-recent-economic-history-update, dark-times-for-cubas-economic-experiment, iran-protests-and-sanctions, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]
-last_updated: 2026-08-13
+sources: [venezuelas-recent-economic-history-update, dark-times-for-cubas-economic-experiment, iran-protests-and-sanctions, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822, afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9]
+last_updated: 2026-08-14
 ---
 
 # Economic Sanctions As Violence
@@ -18,6 +18,8 @@ The concept does not say sanctions are identical to war. It says their moral app
 
 [[caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]] adds the bargaining version of the same pressure. The source says State Department approval over Venezuelan oil royalties and taxes gives [[MarcoRubio]] leverage in democratic-transition talks. That leverage may push institutional reform, but it also keeps the moral question live because cash access, sanctions relief, aid, and political concessions are connected.
 
+[[afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9]] adds the Afghanistan version through [[HumanitarianIsolation]]. The source says Western policy withheld recognition, cut aid, kept sanctions and froze Afghan central-bank reserves, but did not moderate [[TalibanHardlineRule]]; the civilian effects appear through poverty, health-care collapse, investment deterrence and refugee return pressure.
+
 ## Key Claims
 - Sanctions often work through broad civilian economic pain rather than only elite pressure.
 - Humanitarian exemptions may fail in practice when [[SanctionsOvercompliance]] makes banks and suppliers avoid even legal transactions.
@@ -26,6 +28,7 @@ The concept does not say sanctions are identical to war. It says their moral app
 - Energy sanctions or oil-pressure campaigns can create civilian harm through blackouts, transport failure, food-storage risk, and business collapse.
 - Sanctions can intensify a preexisting currency crisis when export dollars are already scarce and the official money system has lost credibility.
 - Sanctions leverage can be politically targeted at reform while still affecting who receives state resources and relief.
+- Sanctions can become morally weaker when the target regime does not moderate but civilians still lose aid, banking access, health care and investment.
 
 ## Connections
 - [[IranSanctions]] - central source case.
@@ -36,3 +39,4 @@ The concept does not say sanctions are identical to war. It says their moral app
 - [[Cuba]], [[Venezuela]], [[TourismDependentSmallEconomy]], and [[OilDependencyBlackoutRisk]] - Cuba crisis extension added by Planet Money.
 - [[Venezuela]], [[NicolasMaduro]], [[OilRevenueDependence]], [[CurrencyControlTrap]], and [[DollarizedStabilization]] - Venezuela crisis extension added by Planet Money.
 - [[OilRevenueSanctionsLeverage]], [[MarcoRubio]], and [[USDepartmentOfState|U.S. Department of State]] - oil-revenue bargaining branch added by The Intelligence.
+- [[Afghanistan]], [[TalibanHardlineRule]], [[HumanitarianIsolation]], and [[SanctionsOvercompliance]] - Afghanistan branch added by The Intelligence.

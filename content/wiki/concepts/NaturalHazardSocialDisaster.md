@@ -2,8 +2,8 @@
 title: "Natural Hazard As Social Disaster"
 type: concept
 tags: [disaster-history, governance, environment]
-sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
-last_updated: 2026-08-08
+sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b, afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9]
+last_updated: 2026-08-14
 ---
 
 # Natural Hazard As Social Disaster
@@ -14,12 +14,15 @@ The point is not that weather is irrelevant. The source describes severe snow, r
 
 [[burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]] adds a wildfire version through [[ExtremeWildfire]]. [[OliverMorton]] describes fires that are exceptional by intensity, size, speed, or damage, but the social-disaster layer appears through smoke exposure, settlement, insurance damage, ageing populations, agricultural burning incentives, and the long-term maintenance burden behind [[LandscapeFirePrevention]].
 
+[[afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9]] adds a [[Colombia]] earthquake version. The source says a 7.4-magnitude quake became a different experience across regions: geography, blocked roads, hospital weakness, armed-group pressure and regional neglect turned one seismic event into a [[DisasterInequality]] case.
+
 ## Key Claims
 - Natural triggers become disasters through exposure, vulnerability, maintenance burdens, and institutional response.
 - Disaster history has to connect hydrology to settlement, production, infrastructure, markets, war, belief, and memory.
 - Statistics such as deaths and affected population are necessary but insufficient; survivor experience and local adaptation also matter.
 - State and expert relief can mitigate harm while introducing new forms of coercion, debt, or misrecognition.
 - Wildfire can become a social disaster through smoke exposure, housing location, land-use incentives, insurance systems, and prevention capacity, not only through flame contact.
+- Earthquakes also become social disasters when road access, hospital readiness, rescue equipment, political attention and armed-group control vary sharply by region.
 
 ## Connections
 - [[LongwangZhinu1931ChangjiangShuizai]], [[YangtzeRiver]], [[Wuhan]], and [[Hankou]] - source case.
@@ -27,3 +30,4 @@ The point is not that weather is irrelevant. The source describes severe snow, r
 - [[DisasterResponseStateCapacity]], [[WarDisasterCompounding]], and [[DisasterReliefMismatch]] - institutional and political response layer.
 - [[ClimateAdaptation]] - adjacent modern problem of preparing social systems for environmental instability.
 - [[ExtremeWildfire]], [[WildfireSmokeHealthBurden]], and [[LandscapeFirePrevention]] - wildfire extension added by The Intelligence.
+- [[Colombia]], [[DisasterResponseStateCapacity]], and [[DisasterInequality]] - earthquake extension added by The Intelligence.
