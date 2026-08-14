@@ -2,8 +2,8 @@
 title: "Savings-Style Insurance"
 type: concept
 tags: [insurance, saving, personal-finance]
-sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg]
-last_updated: 2026-08-06
+sources: [you-bet-your-life-insurance, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg]
+last_updated: 2026-08-15
 ---
 
 # Savings-Style Insurance
@@ -14,6 +14,8 @@ Savings-style insurance covers long-term insurance products such as annuities, p
 
 [[vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg]] adds savings-style insurance to the [[InvestmentLiquidityTradeoff]] branch. The source treats annuity-like or increasing-life products as one way to reduce liquidity deliberately so long-term money is harder to raid, while preserving the warning that the same lockup can be harmful if the household later needs cash.
 
+[[you-bet-your-life-insurance]] adds a contrast case: some life insurance policies become valuable not because they are designed as savings products, but because the future death benefit can be sold through a [[LifeSettlement|life settlement]]. That makes surrender value, secondary-market value, commission cost, and family-protection value different numbers that should not be collapsed into one "return" story.
+
 ## Key Claims
 - Households should first check cash flow; a person struggling with monthly credit-card repayment should not lock money into long-duration products.
 - Forced saving can be useful for people who otherwise cannot keep money for retirement, education, or other long-term goals.
@@ -22,6 +24,7 @@ Savings-style insurance covers long-term insurance products such as annuities, p
 - Dividend and savings narratives should not be confused with guaranteed investment return unless the contract actually guarantees them.
 - Falling-rate sales arguments deserve caution because rate cycles can change and current product illustrations may not describe future opportunity cost.
 - The point of saving and investing is a life goal such as retirement, education, family support, or safety, not a bigger account number by itself.
+- A policy's secondary-market value is distinct from savings-style insurance design; [[LifeSettlement|life settlement]] proceeds depend on mortality pricing and buyer demand rather than ordinary accumulated cash value alone.
 
 ## Connections
 - [[InsuranceRiskTransfer]] — broader frame that keeps the product tied to a need rather than pure return chasing.
@@ -30,3 +33,4 @@ Savings-style insurance covers long-term insurance products such as annuities, p
 - [[OverseasInsuranceRisk]] — overseas versions can add foreign-currency and dividend uncertainty.
 - [[InvestmentRiskManagement]] — adjacent discipline for judging certainty, liquidity, volatility, and opportunity cost.
 - [[InvestmentLiquidityTradeoff]] and [[FundLiabilityMatching]] — capital-duration frame added by vol.101.
+- [[LifeSettlement]], [[MortalityRiskPricing]], and [[LifeSettlementPricingOpacity]] - secondary-market contrast added by the Planet Money source.

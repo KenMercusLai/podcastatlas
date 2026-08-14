@@ -9339,6 +9339,10 @@
     "title": "Coupon-Led Transaction Growth",
     "url": "/wiki/concepts/couponledtransactiongrowth/"
   },
+  "CoventryLifeSettlements": {
+    "title": "Coventry (life settlements)",
+    "url": "/wiki/entities/coventrylifesettlements/"
+  },
   "CowardlySacrificeWitness": {
     "title": "胆小鬼的献祭 / Cowardly Sacrifice As Witness",
     "url": "/wiki/concepts/cowardlysacrificewitness/"
@@ -10362,6 +10366,10 @@
   "DeafEducationBelonging": {
     "title": "Deaf Education And Belonging",
     "url": "/wiki/concepts/deafeducationbelonging/"
+  },
+  "DeathBenefitPortfolio": {
+    "title": "Death-Benefit Portfolio",
+    "url": "/wiki/concepts/deathbenefitportfolio/"
   },
   "DeathOfMaratPainting": {
     "title": "The Death of Marat / 《马拉之死》",
@@ -12695,6 +12703,10 @@
     "title": "Evergrande",
     "url": "/wiki/entities/evergrande/"
   },
+  "EvergreenSettlements": {
+    "title": "Evergreen Settlements",
+    "url": "/wiki/entities/evergreensettlements/"
+  },
   "Everloop": {
     "title": "Everloop",
     "url": "/wiki/entities/everloop/"
@@ -14443,6 +14455,10 @@
     "title": "Frank Doel / 弗兰克·多尔",
     "url": "/wiki/entities/frankdoel/"
   },
+  "FrankLifeSettlementSeller": {
+    "title": "Frank (life-settlement seller)",
+    "url": "/wiki/entities/franklifesettlementseller/"
+  },
   "FrankWells": {
     "title": "Frank Wells",
     "url": "/wiki/entities/frankwells/"
@@ -15842,6 +15858,10 @@
   "GregRosalsky": {
     "title": "Greg Rosalsky",
     "url": "/wiki/entities/gregrosalsky/"
+  },
+  "GregScottPagePartner": {
+    "title": "Greg (Scott Page's partner)",
+    "url": "/wiki/entities/gregscottpagepartner/"
   },
   "GregoryColeman": {
     "title": "Gregory Coleman",
@@ -18307,6 +18327,10 @@
     "title": "Instrumental Belief Critique",
     "url": "/wiki/concepts/instrumentalbeliefcritique/"
   },
+  "InsurableInterestBoundary": {
+    "title": "Insurable Interest Boundary",
+    "url": "/wiki/concepts/insurableinterestboundary/"
+  },
   "InsuranceClaimsAssistancePlatforms": {
     "title": "Insurance Claims Assistance Platforms",
     "url": "/wiki/concepts/insuranceclaimsassistanceplatforms/"
@@ -19918,6 +19942,10 @@
   "JollofIndex": {
     "title": "Jollof Index",
     "url": "/wiki/concepts/jollofindex/"
+  },
+  "JonahConn": {
+    "title": "Jonah Conn",
+    "url": "/wiki/entities/jonahconn/"
   },
   "JonathanBousenthal": {
     "title": "Jonathan Bousenthal",
@@ -21791,6 +21819,10 @@
     "title": "Life Imitates Art / 生活模仿艺术",
     "url": "/wiki/concepts/lifeimitatesart/"
   },
+  "LifeInsuranceSecondaryMarket": {
+    "title": "Life Insurance Secondary Market",
+    "url": "/wiki/concepts/lifeinsurancesecondarymarket/"
+  },
   "LifeReprogrammingVision": {
     "title": "Life Reprogramming Vision",
     "url": "/wiki/concepts/lifereprogrammingvision/"
@@ -21802,6 +21834,14 @@
   "LifeSciencesWorkflowSoftware": {
     "title": "Life Sciences Workflow Software",
     "url": "/wiki/concepts/lifesciencesworkflowsoftware/"
+  },
+  "LifeSettlement": {
+    "title": "Life Settlement",
+    "url": "/wiki/concepts/lifesettlement/"
+  },
+  "LifeSettlementPricingOpacity": {
+    "title": "Life Settlement Pricing Opacity",
+    "url": "/wiki/concepts/lifesettlementpricingopacity/"
   },
   "LifestyleCostRationalization": {
     "title": "Lifestyle Cost Rationalization",
@@ -24978,6 +25018,10 @@
   "Morocco": {
     "title": "Morocco",
     "url": "/wiki/entities/morocco/"
+  },
+  "MortalityRiskPricing": {
+    "title": "Mortality Risk Pricing",
+    "url": "/wiki/concepts/mortalityriskpricing/"
   },
   "MortgageApproval": {
     "title": "Mortgage Approval",
@@ -32031,6 +32075,10 @@
     "title": "Scott Lake",
     "url": "/wiki/entities/scottlake/"
   },
+  "ScottPage": {
+    "title": "Scott Page",
+    "url": "/wiki/entities/scottpage/"
+  },
   "ScottVincentBorba": {
     "title": "Scott Vincent Borba",
     "url": "/wiki/entities/scottvincentborba/"
@@ -37558,6 +37606,10 @@
   "Vesta": {
     "title": "Vesta",
     "url": "/wiki/entities/vesta/"
+  },
+  "ViaticalSettlement": {
+    "title": "Viatical Settlement",
+    "url": "/wiki/concepts/viaticalsettlement/"
   },
   "Viaweb": {
     "title": "Viaweb",
@@ -43290,6 +43342,10 @@
   "yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254": {
     "title": "用 AI 让我们变笨了吗？｜S10E25",
     "url": "/wiki/sources/yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254/"
+  },
+  "you-bet-your-life-insurance": {
+    "title": "You bet your life insurance",
+    "url": "/wiki/sources/you-bet-your-life-insurance/"
   },
   "youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2": {
     "title": "优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert",

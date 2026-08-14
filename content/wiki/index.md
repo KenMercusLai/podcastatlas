@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [You bet your life insurance](sources/you-bet-your-life-insurance.md) — Planet Money episode on life settlements, viatical-settlement origins during the AIDS crisis, mortality risk pricing, death-benefit portfolios, and the tradeoff in selling a family-protection policy for cash.
 - [States rush to police AI deepfakes ahead of midterm elections](sources/tech-20260814-tech-pod-128-tech-20260814-tech-pod-128.md) — Marketplace Tech episode with Maria Curi on Claude text watermarks, state political-deepfake laws, First Amendment limits, AI-tool liability, and the CFTC-New York fight over Kalshi prediction markets.
 - [Afghanistan, five years on: our correspondent visits](sources/afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9.md) — The Intelligence episode on Afghanistan under Taliban hardline rule, Colombia's unequal earthquake response, and Nirmal Purja's high-altitude climbing legacy.
 - [Can Silicon Valley give AI good taste?](sources/tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128.md) — Marketplace Tech episode with Sophie Hagney on AI slop, taste as embodied cultural judgment, Taste Labs, Corporate Memphis, algorithmic taste flattening, and Claude's preference-like language.
@@ -950,6 +951,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Scott Page](entities/ScottPage.md) — Early viatical-settlement market builder whose AIDS-crisis financing arrangement became a repeatable policy-sale model.
+- [Greg (Scott Page's partner)](entities/GregScottPagePartner.md) — AIDS-crisis origin-story figure whose life insurance policy was kept active through the first rescue arrangement.
+- [Frank (life-settlement seller)](entities/FrankLifeSettlementSeller.md) — Modern policy seller weighing $430,000 in cash against a $1.5 million future death benefit.
+- [Coventry (life settlements)](entities/CoventryLifeSettlements.md) — Institutional buyer in the modern life-settlement market and highest bidder for Frank's policies.
+- [Jonah Conn](entities/JonahConn.md) — Former Coventry employee and seller-side broker voice explaining life-settlement pricing opacity.
+- [Evergreen Settlements](entities/EvergreenSettlements.md) — Brokerage Frank hires to solicit bids for his policies.
 - [Letitia James](entities/LetitiaJames.md) — New York attorney general arguing that Kalshi violated state gambling law by operating without a gambling license.
 - [New York State](entities/NewYorkState.md) — State jurisdiction at the center of the CFTC-Kalshi prediction-market federalism dispute.
 - [Tom Sass](entities/TomSass.md) — The Intelligence correspondent reporting from Afghanistan on Taliban control, poverty, women's restrictions, aid cuts, and Western engagement.
@@ -6485,6 +6492,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Life Settlement](concepts/LifeSettlement.md) — Transaction where a policyholder sells a life insurance policy while alive for cash, transferring premiums and the future death benefit to a buyer.
+- [Viatical Settlement](concepts/ViaticalSettlement.md) — Terminal-illness version of policy resale that grew during the AIDS crisis as emergency liquidity for people with life insurance.
+- [Life Insurance Secondary Market](concepts/LifeInsuranceSecondaryMarket.md) — Market where existing life insurance policies are bought, brokered, priced, and bundled after issuance.
+- [Mortality Risk Pricing](concepts/MortalityRiskPricing.md) — Valuing life-insurance policies by estimating survival time, premium burden, and eventual death-benefit timing.
+- [Death-Benefit Portfolio](concepts/DeathBenefitPortfolio.md) — Portfolio of purchased life insurance policies whose returns depend on aggregated mortality outcomes.
+- [Life Settlement Pricing Opacity](concepts/LifeSettlementPricingOpacity.md) — Seller-side information gap when policyholders do not know the market value of policies they may sell.
+- [Insurable Interest Boundary](concepts/InsurableInterestBoundary.md) — Legal distinction between needing an insurable interest to originate a policy and being able to sell a valid policy later.
 - [AI Text Watermarking](concepts/AITextWatermarking.md) — Model-side marking of generated prose through metadata or output patterns, useful for provenance but ambiguous when AI edits human writing.
 - [European Union AI Act](concepts/EuropeanUnionAIAct.md) — EU AI disclosure rule used in the episode as the compliance driver for Anthropic's global Claude text-watermark rollout.
 - [Political Deepfake Regulation](concepts/PoliticalDeepfakeRegulation.md) — State election-law approach to AI-generated campaign media through disclosure, bans, penalties, and First Amendment limits.

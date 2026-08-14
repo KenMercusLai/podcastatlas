@@ -7609,3 +7609,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-15] ingest | You bet your life insurance
+
+Added source page for a Planet Money episode on life settlements, viatical-settlement origins during the AIDS crisis, mortality risk pricing, Coventry's modern buyer role, Evergreen Settlements as seller-side broker, and Frank's decision to sell $1.5 million in death benefits for roughly $430,000 net cash. Created pages for Scott Page, Greg (Scott Page's partner), Frank (life-settlement seller), Coventry (life settlements), Jonah Conn, Evergreen Settlements, Life Settlement, Viatical Settlement, Life Insurance Secondary Market, Mortality Risk Pricing, Death-Benefit Portfolio, Life Settlement Pricing Opacity, and Insurable Interest Boundary; updated overview, index, NPR, Planet Money, Insurance Risk Transfer, Family Protection Insurance Planning, Savings-Style Insurance, Asymmetric Information, and Portfolio Suitability. No direct contradiction found; the source extends existing insurance-planning pages by showing how a death-benefit policy can shift from family protection into present liquidity and investor return.
+
+## [2026-08-15] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 10,847 wiki pages. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.

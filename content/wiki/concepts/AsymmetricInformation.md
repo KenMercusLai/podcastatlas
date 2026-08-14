@@ -2,8 +2,8 @@
 title: "Asymmetric Information"
 type: concept
 tags: [economics, marketplaces, trust]
-sources: [dont-hate-the-replicator-hate-the-game, seven-allegedly-fake-chanel-bags-vs-the-realreal, board-games-3-whats-in-a-name]
-last_updated: 2026-07-24
+sources: [you-bet-your-life-insurance, dont-hate-the-replicator-hate-the-game, seven-allegedly-fake-chanel-bags-vs-the-realreal, board-games-3-whats-in-a-name]
+last_updated: 2026-08-15
 ---
 
 # Asymmetric Information
@@ -16,6 +16,8 @@ The episode uses [[TheRealReal]] to show one marketplace response: move the hard
 
 [[dont-hate-the-replicator-hate-the-game]] adds a research-methods version. Paper authors know far more than readers about the messy path from raw data to published result, so [[ReplicationPackage|replication packages]], [[ReplicationGames]], and [[RobustnessChecks]] reduce the gap by making hidden analytical choices inspectable.
 
+[[you-bet-your-life-insurance]] adds a life-insurance version through [[LifeSettlementPricingOpacity]]. Policyholders may know the face value and premium burden of a policy without knowing what buyers would pay in the [[LifeInsuranceSecondaryMarket|secondary market]], so brokers, bids, medical records, and commissions become part of price discovery.
+
 ## Key Claims
 - Information gaps can block otherwise valuable trades because buyers discount or avoid goods they cannot verify.
 - A platform can reduce asymmetric information by standardizing inspection, warranties, dispute handling, and presentation.
@@ -23,6 +25,7 @@ The episode uses [[TheRealReal]] to show one marketplace response: move the hard
 - Incumbent brands may have superior internal data, but giving them exclusive authority can create competition and access problems.
 - Asymmetric information can also become an experiential teaching device when [[GameMechanicToRetailProduct]] turns theory into structured play.
 - Published research has an information asymmetry when readers see the polished paper but not the discarded analyses, cleaning choices, or fragile specifications behind it.
+- Life settlements create seller-side information asymmetry because policyholders may not know how health history, premiums, commissions, and competing buyer bids affect market value.
 
 ## Connections
 - [[TheRealReal]] and [[Chanel]] - source case.
@@ -30,3 +33,4 @@ The episode uses [[TheRealReal]] to show one marketplace response: move the hard
 - [[AuthenticationLedMarketplaceTrust]], [[PeerToPeerMarketplaceTrust]], and [[MarketplaceFrictionReduction]] - broader marketplace design concepts.
 - [[MarketForLemons]], [[SellMeASasquatch]], and [[GameMechanicToRetailProduct]] - game adaptation branch added by Planet Money.
 - [[ReplicationPackage]], [[ReplicationGames]], [[RobustnessChecks]], and [[ResearchIntegrityIncentives]] - research-transparency branch added by Planet Money.
+- [[LifeSettlement]], [[LifeInsuranceSecondaryMarket]], [[JonahConn]], and [[EvergreenSettlements]] - life-settlement pricing branch added by Planet Money.
