@@ -2,8 +2,8 @@
 title: "Medical Knowledge Boundary"
 type: concept
 tags: [medicine, uncertainty, diagnosis, public-health]
-sources: [86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437, 162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270, yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]
-last_updated: 2026-08-06
+sources: [ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh, 86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437, 162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270, yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093]
+last_updated: 2026-08-15
 ---
 
 # Medical Knowledge Boundary
@@ -16,6 +16,8 @@ The concept does not reject medical care. It pairs humility with responsibility:
 
 [[162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270]] adds a daily-body-sign version through [[FlatulenceAsHealthSignal]]. The source encourages noticing persistent abnormal frequency, pain, bloating, difficulty passing gas, and alarming stool changes, but it also refuses one-sign certainty: smell and frequency are clues that need context, not proof of a diagnosis.
 
+[[ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh]] adds a menopause version. The source says hormone checks are like snapshots, not full biographies; symptoms and trends matter, and some thyroid or other problems can resemble menopause. The boundary therefore supports [[MenopauseClinicalSharedDecision|shared decision-making]] rather than either self-diagnosis or blanket dismissal.
+
 ## Key Claims
 - A new disease can make expert advice change as evidence accumulates; that is a knowledge-boundary problem, not automatic incompetence.
 - Some conditions remain unidentified even after hospital testing and treatment, so uncertainty should be named rather than hidden.
@@ -23,6 +25,7 @@ The concept does not reject medical care. It pairs humility with responsibility:
 - Medical humility should not become medical cynicism: disciplined clinical practice and public-health systems still save lives.
 - Ordinary body signals should be observed over time and interpreted with symptoms, duration, and clinical context rather than converted into instant certainty.
 - High-risk surgery makes medicine's limits visible without making action meaningless; the hardest cases require bounded courage, not certainty.
+- EP274 adds that a life-stage label should not swallow every symptom; differential diagnosis and trend history still matter.
 
 ## Connections
 - [[MedicalDiagnosticReasoning]] and [[MedicalRiskManagement]] - existing clinical uncertainty and safety frames.
@@ -31,3 +34,4 @@ The concept does not reject medical care. It pairs humility with responsibility:
 - [[HistoricalBodyConcept]] - historical reminder that medical categories change.
 - [[DakayiKexin|《打开一颗心》 / Open Heart]] - closing surgical memoir recommendation.
 - [[DoctorPatientCommunication]] and [[PublicIllnessWriting]] - adjacent communication and illness-language frames.
+- [[MenopauseClinicalSharedDecision]], [[MenopauseInformationTriage]], and [[GenderedMedicalization]] - menopause-care and information-boundary extension.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP274 如何找到适合自己的“更年期答案”？](sources/ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh.md) — Talk三联 episode with 萧楚舟, 孙若曦, and 南希 on menopause clinical shared decision-making, information triage, life reconstruction, male menopause visibility, family support, and workplace policy.
 - [You bet your life insurance](sources/you-bet-your-life-insurance.md) — Planet Money episode on life settlements, viatical-settlement origins during the AIDS crisis, mortality risk pricing, death-benefit portfolios, and the tradeoff in selling a family-protection policy for cash.
 - [States rush to police AI deepfakes ahead of midterm elections](sources/tech-20260814-tech-pod-128-tech-20260814-tech-pod-128.md) — Marketplace Tech episode with Maria Curi on Claude text watermarks, state political-deepfake laws, First Amendment limits, AI-tool liability, and the CFTC-New York fight over Kalshi prediction markets.
 - [Afghanistan, five years on: our correspondent visits](sources/afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9.md) — The Intelligence episode on Afghanistan under Taliban hardline rule, Colombia's unequal earthquake response, and Nirmal Purja's high-altitude climbing legacy.
@@ -951,6 +952,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [南希 / Nanxi](entities/NanxiWanxiang.md) — 万象更新 host whose EP274 discussion connects menopause symptoms, clinic preparation, information triage, family support, and workplace realities.
+- [万象更新](entities/WanxiangGengxin.md) — Podcast and listener-community context that brings menopause and women's-health stories into the EP274 Talk三联 discussion.
+- [李洪军 / Li Hongjun](entities/LiHongjun.md) — Xiehe urology director referenced in EP274 for survey evidence around severe male menopause-like conditions.
 - [Scott Page](entities/ScottPage.md) — Early viatical-settlement market builder whose AIDS-crisis financing arrangement became a repeatable policy-sale model.
 - [Greg (Scott Page's partner)](entities/GregScottPagePartner.md) — AIDS-crisis origin-story figure whose life insurance policy was kept active through the first rescue arrangement.
 - [Frank (life-settlement seller)](entities/FrankLifeSettlementSeller.md) — Modern policy seller weighing $430,000 in cash against a $1.5 million future death benefit.
@@ -6492,6 +6496,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Menopause Clinical Shared Decision-Making / 更年期临床共同决策](concepts/MenopauseClinicalSharedDecision.md) — Menopause-care frame where patients prepare symptoms, priorities, constraints, and goals for risk-benefit discussion with clinicians.
+- [Menopause Information Triage / 更年期信息辨别](concepts/MenopauseInformationTriage.md) — Health-literacy practice for filtering menopause books, social-media claims, products, and treatment messages against evidence and clinical context.
+- [Menopause Life Reconstruction / 更年期生活重构](concepts/MenopauseLifeReconstruction.md) — Frame where menopause becomes a coordinated life transition across medicine, habits, family, work, aging, and self-priority.
+- [Menopause Family Support / 更年期家庭支持](concepts/MenopauseFamilySupport.md) — Relationship and household-support frame for naming needs, redistributing labor, and treating menopause as more than a private symptom burden.
+- [Male Menopause Visibility / 男性更年期可见性](concepts/MaleMenopauseVisibility.md) — Male midlife-health frame that names gradual symptoms while resisting testosterone and virility marketing shortcuts.
+- [Workplace Menopause Support / 职场更年期支持](concepts/WorkplaceMenopauseSupport.md) — Workplace accommodation and retention frame for menopause education, small environmental supports, anti-discrimination norms, and experienced women's participation.
 - [Life Settlement](concepts/LifeSettlement.md) — Transaction where a policyholder sells a life insurance policy while alive for cash, transferring premiums and the future death benefit to a buyer.
 - [Viatical Settlement](concepts/ViaticalSettlement.md) — Terminal-illness version of policy resale that grew during the AIDS crisis as emergency liquidity for people with life insurance.
 - [Life Insurance Secondary Market](concepts/LifeInsuranceSecondaryMarket.md) — Market where existing life insurance policies are bought, brokered, priced, and bundled after issuance.

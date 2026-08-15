@@ -2,8 +2,8 @@
 title: "Female Body Freedom"
 type: concept
 tags: [women, body, gender, aging, agency]
-sources: [ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d, 88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]
-last_updated: 2026-08-07
+sources: [ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh, ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d, 88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]
+last_updated: 2026-08-15
 ---
 
 # Female Body Freedom
@@ -18,6 +18,8 @@ The concept is not only about clothing. The episode links bra freedom, menstruat
 
 [[15-bijingji-gengnianqi-gei-wo-ziyou-557912552]] adds the menopause-centered version through [[BijingJi|《闭经记》]]. Here body freedom can mean no longer being organized by menstruation, fertility, youth, and reproductive availability, while still admitting hot flashes, hormone-therapy ambivalence, fear of lost youth, and the awkwardness of bodily change.
 
+[[ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh]] adds a care-navigation version. Body freedom here includes having language for symptoms, refusing shame around menopause, and being able to discuss treatment, exercise, sleep, and daily constraints through [[MenopauseClinicalSharedDecision]] rather than being pushed into either silence or one-size-fits-all products.
+
 [[16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]] adds a fashion-safety version through [[FashionVictimsBook|《时尚受害者》]]. Here body freedom includes the ability to move, work, ride, wash, and dress without being trapped by floor-length skirts, hobble skirts, flammable fabrics, toxic dyes, high-maintenance cleaning, or legal and social rules against trousers. The source keeps the point practical: less restrictive clothing can be a safety technology as much as a style preference.
 
 ## Key Claims
@@ -29,12 +31,14 @@ The concept is not only about clothing. The episode links bra freedom, menstruat
 - Fashion freedom can be literal safety: a garment can increase or reduce infection, poisoning, fire, fall, vehicle, or machine risk.
 - Episode 88 adds that body freedom can include training for contact, pain, and defense rather than only release from restrictive beauty or clothing norms.
 - Episode 254 adds that body freedom can be rebuilt through ordinary strength, warmth, movement, and comfort choices rather than only through ideological declaration.
+- EP274 adds that body freedom also requires usable symptom language, professional discussion, and support around the real life in which body advice must be practiced.
 
 ## Connections
 - [[SelfPermission]], [[GynecologicalExamDignity]], [[WoXukeFilm|《我许可》]], [[WenQi|文淇]], [[YouXiaoying|游晓颖]], and [[DuSujuan|杜素娟]] - episode 254's body-confidence and medical-dignity branch.
 - [[FemaleSelfPossession]] - broader agency frame this concept extends.
 - [[MenstrualStigma]] and [[GenderedMedicalization]] - existing body-shame and medical-control frames.
 - [[MenopauseAsFreedom]] and [[BijingJi|《闭经记》]] - menopause-specific extension.
+- [[MenopauseClinicalSharedDecision]], [[MenopauseInformationTriage]], and [[MenopauseFamilySupport]] - EP274's practical menopause-care extension.
 - [[EmbodiedAging]] - age and physical-decline context.
 - [[ItoHiromi|伊藤比吕美]] and [[ChurouNoOnna|《初老的女人》]] - source author and book.
 - [[HealthInsurancePlanning]] - health-risk monitoring and sponsored discussion context.

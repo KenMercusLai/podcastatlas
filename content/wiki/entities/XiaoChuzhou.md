@@ -1,9 +1,9 @@
 ---
 title: "萧楚舟 / Xiao Chuzhou"
 type: entity
-tags: [person, podcast, mythology, literature]
-sources: [ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw]
-last_updated: 2026-07-24
+tags: [person, podcast, mythology, literature, menopause, health]
+sources: [ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw]
+last_updated: 2026-08-15
 ---
 
 # 萧楚舟 / Xiao Chuzhou
@@ -12,8 +12,11 @@ Xiao Chuzhou is a [[TalkSanlian|Talk三联]] speaker in [[ep269-cong-manwei-yuzh
 
 His strongest contribution is explaining how [[Odin|奥丁]], [[Thor|托尔]], [[Loki|洛基]], [[Valhalla|瓦尔哈拉]], and [[Ragnarok|诸神的黄昏]] change across old Edda material, [[JRRTolkien|Tolkien]]-shaped fantasy, games, and the [[MarvelCinematicUniverse|漫威宇宙]]. He also connects northern landscapes, harsh environmental conditions, and fixed-end fate to [[NorthernCourage]] and [[MythicEnvironmentalImagination]].
 
+[[ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh]] adds his menopause-reporting role. Xiao Chuzhou frames the episode around moving from "seeing" menopause toward practical answers, asking how patients can sort information, prepare for care, and negotiate medical advice around family and work realities.
+
 ## Connections
 - [[TalkSanlian]] and [[GaoYiding]] - show and host context.
 - [[PoeticEdda]], [[ProseEdda]], [[NorseMythology]], and [[Ragnarok]] - main material he explains.
 - [[Odin]], [[Thor]], [[Loki]], and [[Valhalla]] - key mythic figures and places.
 - [[EpicModernAfterlife]], [[NorthernCourage]], and [[MythicEnvironmentalImagination]] - concepts his discussion opens.
+- [[MenopauseInformationTriage]], [[MenopauseClinicalSharedDecision]], and [[MenopauseLifeReconstruction]] - EP274 menopause-action branch.

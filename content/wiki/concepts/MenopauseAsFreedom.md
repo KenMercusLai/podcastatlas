@@ -2,8 +2,8 @@
 title: "Menopause As Freedom / 更年期作为自由"
 type: concept
 tags: [women, menopause, aging, body, agency]
-sources: [15-bijingji-gengnianqi-gei-wo-ziyou-557912552, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278]
-last_updated: 2026-08-05
+sources: [ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278]
+last_updated: 2026-08-15
 ---
 
 # Menopause As Freedom / 更年期作为自由
@@ -14,12 +14,15 @@ The concept extends [[FemaleBodyFreedom]] by shifting bodily agency from clothin
 
 [[110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278]] gives the later-life continuation through [[ChurouNoOnna|《初老的女人》]]. There, post-menopausal life is not abstract freedom but [[EmbodiedAging]]: stairs, heat, pain, checkups, food, pets, solitude, widowhood, and death planning.
 
+[[ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh]] adds a practical-action qualifier. The [[TalkSanlian|Talk三联]] episode keeps the "freedom" branch from becoming a slogan by showing that menopause also needs [[MenopauseClinicalSharedDecision|clinical shared decision-making]], [[MenopauseInformationTriage|information triage]], [[MenopauseFamilySupport|family support]], and [[WorkplaceMenopauseSupport|workplace support]].
+
 ## Key Claims
 - Menopause can be read as a social transition, not only a medical state.
 - The freedom is partial: it may reduce fertility-centered evaluation while increasing anxiety around aging, decline, and medical monitoring.
 - Menstrual shame and menopause shame are linked; both become easier to contest when the body can be named directly.
 - Hormone therapy, missed periods, and hysterectomy stories show that women may both resent menstruation and rely on it as a familiar sign that the body is still "normal."
 - Menopause-as-freedom should not become a forced-positive narrative. The source's strength is holding relief, grief, discomfort, humor, and uncertainty together.
+- EP274 adds that menopause answers are plural and negotiated: bodily freedom depends partly on medical communication, family support, workplace norms, and life constraints.
 
 ## Connections
 - [[BijingJi|《闭经记》]] - central book for the concept.
@@ -28,3 +31,4 @@ The concept extends [[FemaleBodyFreedom]] by shifting bodily agency from clothin
 - [[MenstrualStigma]] - stigma branch that makes both menstruation and menopause hard to discuss.
 - [[GenderedMedicalization]] - medical and social narratives around reproductive decline.
 - [[EmbodiedAging]] and [[ChurouNoOnna|《初老的女人》]] - later-life continuation.
+- [[MenopauseClinicalSharedDecision]], [[MenopauseInformationTriage]], [[MenopauseLifeReconstruction]], and [[WorkplaceMenopauseSupport]] - EP274's practical-action qualifier.
