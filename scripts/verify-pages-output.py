@@ -3,6 +3,7 @@
 from pathlib import Path
 import argparse
 import json
+import re
 import sys
 import xml.etree.ElementTree as ET
 
@@ -16,6 +17,7 @@ REQUIRED_FILES = (
     "shows/index.html",
     "wiki/index.html",
 )
+WIKI_LINK_RE = re.compile(r"\[\[[^\]\n]+\]\]")
 
 
 def validate(public_dir: Path) -> dict:
@@ -38,6 +40,17 @@ def validate(public_dir: Path) -> dict:
             for path in section_dir.rglob("index.xml"):
                 relative = path.relative_to(public_dir).as_posix()
                 errors.append(f"forbidden taxonomy RSS: {relative}")
+
+    wiki_dir = public_dir / "wiki"
+    if wiki_dir.is_dir():
+        for path in sorted(wiki_dir.rglob("*.html")):
+            match = WIKI_LINK_RE.search(path.read_text(encoding="utf-8"))
+            if match:
+                relative = path.relative_to(public_dir).as_posix()
+                errors.append(
+                    f"unresolved wiki link in generated HTML: {relative}: {match.group(0)}"
+                )
+                break
 
     episode_html = list((public_dir / "episodes").glob("*/index.html"))
     if not episode_html:

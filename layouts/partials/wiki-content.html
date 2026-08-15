@@ -3,9 +3,15 @@
 
 {{- range uniq (findRE `\[\[[^\]\n]+\]\]` $content) -}}
   {{- $link := . -}}
-  {{- $key := replaceRE `^\[\[([^\]\n]+)\]\]$` "$1" $link -}}
+  {{- $value := replaceRE `^\[\[([^\]\n]+)\]\]$` "$1" $link -}}
+  {{- $parts := split $value "|" -}}
+  {{- $key := strings.TrimSpace (index $parts 0) -}}
   {{- with index $pagesByKey $key -}}
-    {{- $title := replace .title `[` `\[` -}}
+    {{- $label := .title -}}
+    {{- if gt (len $parts) 1 -}}
+      {{- $label = delimit (after 1 $parts) "|" -}}
+    {{- end -}}
+    {{- $title := replace $label `[` `\[` -}}
     {{- $title = replace $title `]` `\]` -}}
     {{- $content = replace $content $link (printf "[%s](%s)" $title .url) -}}
   {{- end -}}
