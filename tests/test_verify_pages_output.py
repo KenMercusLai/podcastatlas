@@ -56,6 +56,23 @@ class VerifyPagesOutputTest(unittest.TestCase):
             report["errors"],
         )
 
+    def test_rejects_unresolved_wiki_links(self):
+        verifier = load_verifier()
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            write(
+                public / "wiki" / "overview" / "index.html",
+                "<p>Episode on [[LifeSettlement|life settlements]].</p>",
+            )
+
+            report = verifier.validate(public)
+
+        self.assertIn(
+            "unresolved wiki link in generated HTML: "
+            "wiki/overview/index.html: [[LifeSettlement|life settlements]]",
+            report["errors"],
+        )
+
     def test_rejects_symbolic_links(self):
         verifier = load_verifier()
         with tempfile.TemporaryDirectory() as directory:
