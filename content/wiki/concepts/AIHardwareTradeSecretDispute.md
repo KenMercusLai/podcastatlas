@@ -2,11 +2,13 @@
 title: "AI Hardware Trade Secret Dispute"
 type: concept
 tags: [ai, hardware, litigation, trade-secrets]
-sources: [tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
-last_updated: 2026-07-17
+sources: [fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
+last_updated: 2026-08-16
 ---
 
 # AI Hardware Trade Secret Dispute
+
+[[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] adds OpenAI's response layer. The episode says [[OpenAI]] responded that it did not possess or need [[Apple]]'s commercial secrets, and it presents screenshots of employee chats as part of OpenAI's argument that former Apple colleagues kept asking work-related questions after an employee left Apple.
 
 AI hardware trade secret dispute is the legal and operational conflict that can arise when AI companies move from software and model services into device design. [[tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]] adds the concept through [[Apple]]'s allegations against [[OpenAI]], including claims that former Apple employees brought proprietary hardware information into OpenAI's hiring and device-development orbit.
 
@@ -18,6 +20,7 @@ The concept extends [[AIPlusTerminals]]. If frontier AI labs try to build new te
 - The practical value of alleged information matters: a legal claim is stronger if the material is secret, specific, protected, and useful to the new product.
 - Trade-secret disputes can slow product development through discovery, legal holds, executive attention, and supplier caution even before a court reaches the merits.
 - The dispute layer makes standalone AI devices harder than a pure product-form-factor question.
+- Public responses can become part of the strategic dispute: the legal case is fought in court, but both sides also shape supplier, employee, and investor interpretations.
 
 ## Connections
 - [[Apple]] and [[OpenAI]] - companies in the source dispute.

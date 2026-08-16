@@ -2,11 +2,13 @@
 title: "声动早咖啡"
 type: entity
 tags: [podcast, media, business, technology, china]
-sources: [aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
+sources: [fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
 last_updated: 2026-08-16
 ---
 
 # 声动早咖啡
+
+[[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] adds another multi-item business-news scan. It links [[AbercrombieFitch|A&F]]'s China partner search, [[BainCapital]]'s [[GongCha]] acquisition, [[TruthAPI]]'s paid political-data speed, [[OpenAI]] and [[Apple]]'s hardware dispute, [[SpaceX]] AI capex, [[ChangXinMemory]] DRAM adoption by PC vendors, [[BYD]] localization in [[Brazil]] and [[Japan]], [[McDonalds|McDonald's]] traffic pressure, [[ProcterGamble]] buying [[Thorne]], and [[AvignonFestival]] as a cultural recommendation.
 
 [[trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439]] introduces 声动早咖啡 as a [[ShengdongHuopo|声动活泼]] workday-morning audio show hosted by [[MengYi|孟依]]. The trailer positions the show as a concentrated, under-15-minute business-and-technology news companion for listeners before work or on the way out the door.
 
@@ -33,5 +35,6 @@ The show's launch frame is deliberately ritualized. Instead of advertising only 
 - [[Kao]], [[SemiconductorPrecisionCleaning]], [[InterfaceScience]], and [[SurfactantTechnology]] - full-episode business-history branch added by the Kao source.
 - [[Apple]], [[Qwen]], [[Seedance]], [[Aldi]], [[YumChina]], and [[Netflix]] - cross-industry news branches added by the August 2026 roundup.
 - [[LuckinCoffee]], [[Amazon]], [[DinTaiFung]], [[MarriottInternational]], and [[CustomMoviePopcornBuckets]] - business-update and entertainment-retail branches added by the popcorn-bucket episode.
+- [[AbercrombieFitch]], [[TruthAPI]], [[ChangXinMemory]], [[BYD]], [[McDonalds]], [[ProcterGamble]], and [[Thorne]] - cross-industry branches added by the August 2026 A&F/Truth API roundup.
 - [[MorningAudioRitual]], [[ShortFormBusinessTechAudio]], and [[PodcastReleaseCadence]] - format and habit concepts.
 - [[Coffee|Coffee / 咖啡]] and [[CaffeinatedModernity]] - metaphor and wakefulness branch.

@@ -2,11 +2,13 @@
 title: "Gong Cha / 共茶"
 type: entity
 tags: [company, tea-drinks, beverage, korea, taiwan, united-states, franchising]
-sources: [137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
-last_updated: 2026-07-23
+sources: [fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
+last_updated: 2026-08-16
 ---
 
 # Gong Cha / 共茶
+
+[[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] adds the ownership and financing layer. The episode cites Nikkei reporting that [[BainCapital]] would acquire Gong Cha for more than $635 million, with the chain operating more than 2,000 stores in about 30 countries and regions and possibly using Bain's restaurant experience to expand further in [[Japan]] and [[SouthKorea|South Korea]].
 
 Gong Cha is the Taiwan-origin milk-tea brand discussed in [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]]. The episode says it is the most prominent milk-tea brand in Korea, with Korea as a major market within its global store network.
 
@@ -20,8 +22,10 @@ The source uses Gong Cha to compare beverage categories. Korea's coffee market i
 - The case extends [[BeverageCategoryConvergence]] by showing that category strength depends heavily on local competitor density.
 - E232 adds that U.S. mainstream taste may upgrade more slowly than China's tea-drink market, making "older" milk tea still commercially legible.
 - Gong Cha is also a [[FranchiseLedConsumerChainExpansion]] case where local operators and early leases matter as much as home-market heat.
+- The Bain Capital source adds that mature beverage-chain scale can attract private-equity ownership once global store footprint and operating profit are legible.
 
 ## Connections
 - [[SouthKorea]], [[MannerCoffee]], and [[Sandunban]] - Korean beverage comparison cases.
 - [[DinTaiFung]], [[MoliNaiBai]], [[HeyTea]], and [[Chagee]] - U.S. food and tea-drink comparison cases added by E232.
+- [[BainCapital]] - buyer in the source's acquisition report.
 - [[BeverageCategoryConvergence]], [[KoreanCultureLedConsumerMarketing]], [[RestaurantCulturalLegibility]], [[USRestaurantRealEstateConstraint]], and [[ConsumerBrandMoat]] - adjacent concepts.

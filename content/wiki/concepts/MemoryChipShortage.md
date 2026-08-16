@@ -2,11 +2,13 @@
 title: "Memory Chip Shortage"
 type: concept
 tags: [ai, memory, storage, supply-chain]
-sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
-last_updated: 2026-08-07
+sources: [fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
+last_updated: 2026-08-16
 ---
 
 # Memory Chip Shortage
+
+[[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] adds the supplier-substitution angle. The episode says [[HPInc|HP]], [[Asus|ASUS]], and [[Acer]] have started using [[ChangXinMemory|长鑫存储]] DRAM in limited entry-level laptops, while broader adoption remains constrained by qualification, scale, and relationships with dominant suppliers such as [[Samsung]], [[SKHynix|SK Hynix]], and [[MicronTechnology|Micron]].
 
 [[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds the investor-volatility side of the same memory pressure. The source does not focus on consumer devices; it shows that AI demand for memory chips can still trigger skepticism when [[StorageIndustryCyclicality]] makes investors fear that today's shortage or tightness could become tomorrow's capacity glut.
 
@@ -31,6 +33,7 @@ The concept is a concrete instance of [[AIHardwareSupplyChainPressure]]. [[IDC]]
 - Large PC vendors can have an allocation advantage over smaller sellers when memory supply tightens.
 - [[AIPCMemoryDemand]] can worsen the timing problem because AI PCs raise baseline RAM needs during the shortage.
 - Premium smartphone pricing can become another visible consumer spillover when AI data centers draw memory capacity away from ordinary devices.
+- Shortage conditions can create trial openings for alternative suppliers, but small-volume adoption does not immediately displace the incumbent DRAM oligopoly.
 
 ## Connections
 - [[AIHardwareSupplyChainPressure]] - broader supply-chain pattern.

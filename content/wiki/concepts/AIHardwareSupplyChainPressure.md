@@ -2,10 +2,12 @@
 title: "AI Hardware Supply Chain Pressure"
 type: concept
 tags: [ai, semiconductors, supply-chain, infrastructure]
-sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
-last_updated: 2026-08-07
+sources: [fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+last_updated: 2026-08-16
 ---
 # AI Hardware Supply Chain Pressure
+
+[[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] adds a downstream substitution case. The episode says PC vendors are testing [[ChangXinMemory|ChangXin Memory]] DRAM in limited low-end laptops as global memory tightness and AI demand make supply relationships more valuable, while established suppliers [[Samsung]], [[SKHynix|SK Hynix]], and [[MicronTechnology|Micron]] still dominate the market.
 
 [[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds a market-structure layer to the hardware-pressure branch. The episode links AI training and inference demand to [[SKHynix|SK Hynix]], [[Samsung]], and [[ChangXinMemory|CXMT / ChangXin Memory]], while also showing that investor confidence depends on whether memory suppliers avoid the overbuild pattern embedded in [[StorageIndustryCyclicality]].
 
@@ -47,6 +49,7 @@ The episode makes the consumer spillover visible. It says demand for AI memory a
 - Specialized-chip challengers face the same component pressure as GPU incumbents: HBM, packaging, yield, interconnect, and deployment consistency can decide whether a promising accelerator becomes available capacity.
 - Consumer-device makers can respond to AI-driven component inflation not only by raising prices but also by changing financing, leasing, and upgrade-cycle design.
 - Supernode supply pressure includes switching chips, interconnect protocols, liquid-cooling equipment, power modules, and large-system assembly, not only AI accelerator chips.
+- Memory tightness can create limited openings for alternative suppliers in entry-level products before those suppliers become broad replacements.
 
 ## Connections
 - [[HighBandwidthMemory]] - memory category that anchors the source.
@@ -63,4 +66,5 @@ The episode makes the consumer spillover visible. It says demand for AI memory a
 - [[TomMinelli]], [[AIPCMemoryDemand]], [[HPInc|HP]], [[DellTechnologies|Dell]], [[Lenovo]], and [[Apple]] - consumer PC allocation branch added by Marketplace Tech.
 - [[Google]], [[TPU]], [[Broadcom]], [[TPUPodSystemOptimization]], and [[IronwoodTPU]] - E228's TPU ramp and supply-chain branch.
 - [[Apple]], [[Klarna]], [[AppleDeviceLeasing]], and [[MemoryChipShortage]] - Apple hardware pricing and leasing branch added by Marketplace Tech.
+- [[ChangXinMemory]], [[HPInc]], [[Asus]], and [[Acer]] - limited PC DRAM adoption branch added by 声动早咖啡.
 - [[AIAcceleratorSupernode]], [[HuaweiCM384]], [[Sugon]], [[ZTE]], [[H3C]], and [[XizhiTechnology]] - supernode supply-chain branch added by S10E23.

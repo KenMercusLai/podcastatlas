@@ -2319,6 +2319,10 @@
     "title": "Abelardo de la Espriella",
     "url": "/wiki/entities/abelardodelaespriella/"
   },
+  "AbercrombieFitch": {
+    "title": "Abercrombie & Fitch / A&F",
+    "url": "/wiki/entities/abercrombiefitch/"
+  },
   "AbhijitBanerjee": {
     "title": "Abhijit Banerjee",
     "url": "/wiki/entities/abhijitbanerjee/"
@@ -2406,6 +2410,10 @@
   "AccretiveTextFormation": {
     "title": "Accretive Text Formation",
     "url": "/wiki/concepts/accretivetextformation/"
+  },
+  "Acer": {
+    "title": "Acer",
+    "url": "/wiki/entities/acer/"
   },
   "AchievementPressureMentalHealth": {
     "title": "Achievement Pressure Mental Health",
@@ -4419,6 +4427,10 @@
     "title": "AstraZeneca / 阿斯利康",
     "url": "/wiki/entities/astrazeneca/"
   },
+  "Asus": {
+    "title": "ASUS",
+    "url": "/wiki/entities/asus/"
+  },
   "AsymmetricInformation": {
     "title": "Asymmetric Information",
     "url": "/wiki/concepts/asymmetricinformation/"
@@ -4699,6 +4711,10 @@
     "title": "Aviation Safety Rules",
     "url": "/wiki/concepts/aviationsafetyrules/"
   },
+  "AvignonFestival": {
+    "title": "Avignon Festival",
+    "url": "/wiki/entities/avignonfestival/"
+  },
   "AvignonPapacy": {
     "title": "阿维尼翁教廷 / Avignon Papacy",
     "url": "/wiki/entities/avignonpapacy/"
@@ -4874,6 +4890,10 @@
   "BaillieCollege": {
     "title": "Baillie College / 贝利学院",
     "url": "/wiki/entities/bailliecollege/"
+  },
+  "BainCapital": {
+    "title": "Bain Capital",
+    "url": "/wiki/entities/baincapital/"
   },
   "BairongIntelligence": {
     "title": "Bairong Intelligence",
@@ -22315,6 +22335,10 @@
     "title": "Local News Automation Tradeoff",
     "url": "/wiki/concepts/localnewsautomationtradeoff/"
   },
+  "LocalPartnerMarketEntry": {
+    "title": "Local Partner Market Entry",
+    "url": "/wiki/concepts/localpartnermarketentry/"
+  },
   "LocalProductAdvantageErosion": {
     "title": "Local Product Advantage Erosion",
     "url": "/wiki/concepts/localproductadvantageerosion/"
@@ -28679,6 +28703,10 @@
     "title": "Political Influence Monetization",
     "url": "/wiki/concepts/politicalinfluencemonetization/"
   },
+  "PoliticalInformationLatency": {
+    "title": "Political Information Latency",
+    "url": "/wiki/concepts/politicalinformationlatency/"
+  },
   "PoliticalMemeStock": {
     "title": "Political Meme Stock",
     "url": "/wiki/concepts/politicalmemestock/"
@@ -29250,6 +29278,10 @@
   "ProcessKnowledge": {
     "title": "Process Knowledge / 过程知识",
     "url": "/wiki/concepts/processknowledge/"
+  },
+  "ProcterGamble": {
+    "title": "Procter & Gamble",
+    "url": "/wiki/entities/proctergamble/"
   },
   "ProcurementLedTechnologyTransfer": {
     "title": "Procurement-Led Technology Transfer",
@@ -34967,6 +34999,10 @@
     "title": "Superstar Cities",
     "url": "/wiki/concepts/superstarcities/"
   },
+  "SupplementBrandConsolidation": {
+    "title": "Supplement Brand Consolidation",
+    "url": "/wiki/concepts/supplementbrandconsolidation/"
+  },
   "SupplementLabelAccuracy": {
     "title": "Supplement Label Accuracy",
     "url": "/wiki/concepts/supplementlabelaccuracy/"
@@ -36223,6 +36259,10 @@
     "title": "Thor / 托尔",
     "url": "/wiki/entities/thor/"
   },
+  "Thorne": {
+    "title": "Thorne",
+    "url": "/wiki/entities/thorne/"
+  },
   "ThreatLocker": {
     "title": "ThreatLocker",
     "url": "/wiki/entities/threatlocker/"
@@ -36890,6 +36930,10 @@
   "TrustSensitiveSaaSSwitching": {
     "title": "Trust-Sensitive SaaS Switching",
     "url": "/wiki/concepts/trustsensitivesaasswitching/"
+  },
+  "TruthAPI": {
+    "title": "Truth API",
+    "url": "/wiki/entities/truthapi/"
   },
   "TruthAgainstAbsurdPower": {
     "title": "Truth Against Absurd Power",
@@ -41782,6 +41826,10 @@
   "fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1": {
     "title": "付费片花：平台的暴力抵抗与互联网大厂的隐形税收",
     "url": "/wiki/sources/fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1/"
+  },
+  "fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677": {
+    "title": "服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线",
+    "url": "/wiki/sources/fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677/"
   },
   "ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779": {
     "title": "Episode 18: 感官放大世界：和任宁聊观鸟、自然与自由",

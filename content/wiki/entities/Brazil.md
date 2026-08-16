@@ -2,11 +2,13 @@
 title: "Brazil"
 type: entity
 tags: [country, latin-america, mining, industry, coffee, development, payments]
-sources: [pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66, taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, 139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, the-little-pet-fish-that-saved-a-town-in-the-amazon, how-to-get-what-greenland-has-with-permission, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, the-giant-factory-town-that-might-be-a-giant-mistake, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]
-last_updated: 2026-08-12
+sources: [fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66, taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, 139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, the-little-pet-fish-that-saved-a-town-in-the-amazon, how-to-get-what-greenland-has-with-permission, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, the-giant-factory-town-that-might-be-a-giant-mistake, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b]
+last_updated: 2026-08-16
 ---
 
 # Brazil
+
+[[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] adds Brazil as a vehicle-localization case. The episode says [[BYD]] launched a locally produced flex-fuel plug-in hybrid co-developed by China and Brazil teams, using Brazil's ethanol fuel habits as the reason that [[GlobalProductLocalization]] requires R&D, manufacturing, and local parts targets rather than only sales.
 
 [[pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66]] adds Brazil as a racist-speech law case. The episode says constitutional racism carries unusually severe treatment, and that a 2021 Supreme Court ruling followed by 2023 legislation made racist slurs equivalent to racism. [[AnaLankas]] frames the result as a [[HateSpeechCriminalizationTradeoff]]: prosecution can raise awareness of abuse, but it may not repair unequal education, earnings, and policing, while cases such as [[LeonardoLins]] raise proportionality and free-speech concerns.
 
@@ -35,6 +37,7 @@ The source uses Brazil to show why the regional boom is not only about headline 
 - [[CriticalMineralsGeopolitics]] - rare-earth and mining frame.
 - [[UnitedStates]] - backer of the rare-earth mine mentioned in the source.
 - [[China]] and [[BYD]] - industrial-response branch through BYD's Brazil factory.
+- [[GlobalProductLocalization]] and [[ChineseHardwareGlobalization]] - BYD flex-fuel vehicle localization branch added by 声动早咖啡.
 - [[Coffee]], [[CoffeeCommodityPolitics]], and [[CommodityPriceExposure]] - coffee production and producer-protection branch.
 - [[Manaus]], [[ZonaFrancaDeManaus]], [[MiddleIncomeTrap]], and [[PrematureDeindustrialization]] - development-economics branch added by Planet Money.
 - [[AdvancedAgricultureInnovation]], [[Tutiplast]], and [[BiodegradableAmazonPlastics]] - local innovation and productivity branch.

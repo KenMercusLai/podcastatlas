@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线](sources/fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677.md) — 声动早咖啡 episode linking A&F China partner talks, Bain Capital's Gong Cha acquisition, Truth Social's paid Truth API, OpenAI-Apple hardware dispute, SpaceX AI capex, ChangXin DRAM trials, BYD Brazil/Japan localization, McDonald's demand pressure, P&G's Thorne acquisition, and Avignon Festival.
 - [《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？](sources/aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628.md) — 声动早咖啡 episode on custom movie popcorn buckets as theatrical merchandise, linking theme-park souvenir logic, licensed design vendors, AMC/IMAX sales, social-media virality, fan collecting, China examples, and inventory risk, with short business updates on Luckin, Amazon, Din Tai Fung, and Marriott.
 - [「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战](sources/zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588.md) — 声动早咖啡 episode linking Apple component pressure, Spider-Man box-office concentration, AI model price cuts, C-DANCE/MiniMax video models, mini-program game monetization, Adidas marketing spend, hard-discount retail, Yum China store-within-store foodservice, and Netflix's YouTube-creator negotiations.
 - [卖香皂起家的百年花王，为什么成了半导体制造的关键企业？](sources/mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131.md) — 声动早咖啡 episode on Kao's migration from soap, detergents, surfactants, and interface science into semiconductor precision cleaning, with side items on Tesla China rumors, Xiaomi range-extended EVs, Mammut, and aviation fuel surcharges.
@@ -956,6 +957,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Abercrombie & Fitch / A&F](entities/AbercrombieFitch.md) — Apparel brand considering a China local-partner route in the episode.
+- [Bain Capital](entities/BainCapital.md) — Private-equity buyer in Gong Cha acquisition report.
+- [Truth API](entities/TruthAPI.md) — Truth Social paid low-latency data service for political posts and platform information.
+- [ASUS](entities/Asus.md) — PC vendor in limited ChangXin DRAM adoption report.
+- [Acer](entities/Acer.md) — PC vendor in limited ChangXin DRAM adoption report.
+- [Procter & Gamble](entities/ProcterGamble.md) — CPG buyer expanding premium supplement portfolio through Thorne.
+- [Thorne](entities/Thorne.md) — Premium supplement brand in P&G acquisition report.
+- [Avignon Festival](entities/AvignonFestival.md) — French theater festival mentioned as cultural recommendation.
 - [Zinc (popcorn-bucket design)](entities/ZincPopcornBuckets.md) — Australian popcorn-bucket design company whose Star Wars R2-D2 bucket helped validate high-priced theater collectibles.
 - [Snap Creative](entities/SnapCreative.md) — U.S. novelty movie-merchandise vendor named as part of the custom popcorn-bucket design layer.
 - [Golden Link](entities/GoldenLink.md) — Movie-popcorn-bucket vendor grouped with Zinc and Snap Creative as a specialist behind theatrical collectible containers.
@@ -6515,6 +6524,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Political Information Latency](concepts/PoliticalInformationLatency.md) — Speed advantage from earlier or cleaner access to market-moving political information.
+- [Local Partner Market Entry](concepts/LocalPartnerMarketEntry.md) — Entering a target market through local capital or operator partnership.
+- [Supplement Brand Consolidation](concepts/SupplementBrandConsolidation.md) — Large CPG acquisition of supplement brands for recurring wellness demand.
 - [Custom Movie Popcorn Buckets / 电影定制爆米花桶](concepts/CustomMoviePopcornBuckets.md) — Limited theatrical concession-merchandise objects that turn film IP, snack packaging, fandom scarcity, social sharing, and theater inventory risk into one release-window business.
 - [Semiconductor Precision Cleaning](concepts/SemiconductorPrecisionCleaning.md) — Wafer and electronics-cleaning process where removing particles and residues without damaging substrates becomes a yield constraint.
 - [Interface Science / 界面科学](concepts/InterfaceScience.md) — Control of interactions among liquids, contaminants, and solid surfaces, used to connect Kao's consumer cleaning to chip cleaning.

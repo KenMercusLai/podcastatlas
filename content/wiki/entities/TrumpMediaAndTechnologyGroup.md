@@ -2,11 +2,13 @@
 title: "Trump Media And Technology Group"
 type: entity
 tags: [company, social-media, public-markets, politics]
-sources: [how-much-money-president-trump-and-his-family-have-made, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]
-last_updated: 2026-07-16
+sources: [fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, how-much-money-president-trump-and-his-family-have-made, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]
+last_updated: 2026-08-16
 ---
 
 # Trump Media And Technology Group
+
+[[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] adds a data-revenue path through [[TruthAPI]]. The episode's frame is that [[TruthSocial]] can monetize [[DonaldTrump]]'s market-moving posts by selling faster structured access to institutions, which adds [[PoliticalInformationLatency]] to the company's earlier meme-stock and office-linked profit branches.
 
 Trump Media And Technology Group is the public company around [[TruthSocial]] discussed in [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]]. The episode describes its SPAC path, DJT ticker, and [[DonaldTrump]]'s large ownership stake as the largest paper-wealth mechanism in the source.
 
@@ -18,9 +20,11 @@ Trump Media And Technology Group is the public company around [[TruthSocial]] di
 - The episode's Trump post and tariff-pause sequence makes DJT the key example of [[PolicyAnnouncementTradingRisk]].
 - Trump can theoretically sell shares, but the source argues that disclosure, market impact, and supporter trust make [[PaperWealthVsCashValue]] a serious constraint.
 - Planet Money treats Trump Media not only as a social-platform valuation case but also as a Bitcoin-holding vehicle inside [[PresidentialCryptoPolicyConflict]].
+- The Truth API source adds a different monetization route: charging institutions for low-latency access to platform information.
 
 ## Connections
 - [[TruthSocial]] — operating platform.
 - [[DonaldTrump]] — controlling political brand and shareholder in the source's account.
 - [[PoliticalMemeStock]], [[PaperWealthVsCashValue]], and [[SpeculativeBubblePsychology]] — concepts used to interpret DJT.
 - [[Bitcoin]] and [[PresidentialCryptoPolicyConflict]] — crypto-balance-sheet branch added by Planet Money.
+- [[TruthAPI]] and [[PoliticalInformationLatency]] - paid data-feed branch added by 声动早咖啡.

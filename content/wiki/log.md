@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-16] ingest | 服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线
+
+Added source page for a 声动早咖啡 business-news roundup on A&F's China partner search, Bain Capital's Gong Cha acquisition, Truth Social's Truth API, OpenAI's response to Apple trade-secret allegations, SpaceX AI capex, ChangXin DRAM adoption by PC vendors, BYD localization in Brazil and Japan, McDonald's U.S. demand pressure, P&G's Thorne acquisition, and Avignon Festival. Created pages for Abercrombie & Fitch, Bain Capital, Truth API, ASUS, Acer, Procter & Gamble, Thorne, Avignon Festival, Political Information Latency, Local Partner Market Entry, and Supplement Brand Consolidation; updated overview, index, 声动早咖啡, Gong Cha, Truth Social, Donald Trump, Trump Media and Technology Group, Policy Announcement Trading Risk, OpenAI, Apple, AI Hardware Trade Secret Dispute, SpaceX, ChangXin Memory, Memory Chip Shortage, AI Hardware Supply Chain Pressure, HP Inc., BYD, Brazil, Japan, Global Product Localization, Chinese Hardware Globalization, McDonald's, Fast-Food Demand Reset, Recurring Supplement Commerce, Local Market Proof, and Franchise-Led Consumer Chain Expansion. No direct contradiction found; current figures and reported transactions are kept source-scoped.
+
 ## [2026-08-16] ingest | Trailer ｜叮！下周一早晨，来杯「声动早咖啡」吧！
 
 Added source page for a 2021 声动早咖啡 launch trailer from 声动活泼, hosted by 孟依, positioning the show as a sub-15-minute Monday/Wednesday/Friday morning business-and-technology briefing. Created pages for 声动早咖啡, 孟依, Morning Audio Ritual, and Short-Form Business-Tech Audio; updated overview, index, 声动活泼, 徐涛, Coffee, Caffeinated Modernity, Chinese Podcast Ecosystem, Podcast As Asynchronous Media, and Podcast Release Cadence. No direct contradiction found; because the source is a trailer, claims about editorial depth and future daily cadence are kept as launch intent rather than proven performance.
@@ -7653,3 +7657,7 @@ Added source page for a 声动早咖啡 episode on custom movie popcorn buckets 
 ## [2026-08-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-16] lint | Wiki lint check
+
+Ran health before lint; health scanned 10,900 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 10,900 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-12 with 10,690 nodes and 116,995 edges; they found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolves to providerless `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
