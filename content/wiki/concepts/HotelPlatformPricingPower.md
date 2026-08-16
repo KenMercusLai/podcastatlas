@@ -2,8 +2,8 @@
 title: "Hotel Platform Pricing Power"
 type: concept
 tags: [hotels, platform, pricing, antitrust]
-sources: [kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, 140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew, ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw]
-last_updated: 2026-08-07
+sources: [xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, 140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew, ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw]
+last_updated: 2026-08-16
 ---
 
 # Hotel Platform Pricing Power
@@ -16,6 +16,8 @@ The source treats some specific allegations as operator reports rather than prov
 
 [[ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw]] adds the penalty mechanics. The episode says "特牌" status could tie exposure to [[TravelPlatformMerchantExclusivity]], while "金牌" status could impose [[TravelPriceParityEnforcement]] through cross-platform monitoring and automatic price adjustment tools.
 
+[[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]] adds a channel-fee variant through [[Doubao]] and [[Douyin]]. Merchant reports about a 12% comprehensive fee and separate Doubao attribution show that hotel-platform power can be felt through new entry channels, not only through classic OTA search rankings or parity tools.
+
 ## Key Claims
 - Pricing power can appear through forced promotions, commission structures, search ranking, default discounts, and supplier-system rules.
 - It is sharper for individual hotels and homestays than for large groups such as [[HuazhuGroup]] with direct-booking channels.
@@ -23,7 +25,9 @@ The source treats some specific allegations as operator reports rather than prov
 - Regulatory evaluation requires [[PlatformDataRegulation]] because public app screens alone may not reveal order splits, commissions, and price-control mechanisms.
 - Loyalty economics creates a rough ceiling for direct-booking benefits: member rewards must be cheaper than the OTA dependence they replace.
 - Price power can operate through status ladders and tools, not only through headline commission rates.
+- AI entry channels add a disclosure problem: merchants and regulators need to know whether recommendation neutrality, channel fees, and booking attribution are separable.
 
 ## Connections
 - [[Ctrip]], [[YunnanHomestayAssociation]], and [[HuazhuGroup]] — source cases.
+- [[Doubao]], [[Douyin]], [[AITravelCommerceTrust]], and [[PlatformIntermediationTax]] — AI hotel-order channel branch added by 声动早咖啡.
 - [[TravelPlatformMerchantExclusivity]], [[TravelPriceParityEnforcement]], [[HotelPMSInventoryControl]], [[OTAPlatformConcentration]], [[HomestayDifferentiation]], [[HotelLoyaltyPrograms]], and [[PlatformAntitrust]] — related concepts.

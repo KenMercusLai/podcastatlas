@@ -2,11 +2,13 @@
 title: "声动早咖啡"
 type: entity
 tags: [podcast, media, business, technology, china]
-sources: [meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109, zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
+sources: [xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109, zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
 last_updated: 2026-08-16
 ---
 
 # 声动早咖啡
+
+[[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]] adds another compact multi-industry roundup. It links [[Starbucks]] and [[LiNing|Li-Ning]] rumor denials, [[Meta]] open-weight model releases, data-center buildout pressure, packaged-beverage weakness, China auto demand pressure, the [[Sony]]-[[TSMC]] image-sensor venture, [[Spotify]] AI persona labels, and [[Doubao]] hotel-order fees.
 
 [[meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109]] adds another roundup-and-explainer example. It opens with short updates on [[Pinduoduo]] next-day fulfillment, [[Walmart]] community stores, [[SHEIN]] Vietnam warehouse retrenchment, and U.S. investor interest in European football clubs, then uses [[LOreal|L'Oreal / 欧莱雅]]'s hair-care growth to explain [[HaircareSkincareization]], [[PremiumHaircareMarket]], [[SalonChannelTrust]], and [[BeautyProblemNaming]].
 
@@ -48,5 +50,6 @@ The show's launch frame is deliberately ritualized. Instead of advertising only 
 - [[Nestle]], [[Perrier]], [[SanPellegrino]], [[PlatinumEquity]], [[AloYoga]], [[DeepSeek]], [[Qwen]], and [[PizzaHutChina]] - water-portfolio and business-news branches added by the August 2026 water episode.
 - [[RalphLauren]], [[ChinaEasternAirlines]], [[GermanLuxuryCarChinaPressure]], [[WearableFormFactorPressure]], [[AIProductDevelopmentAcceleration]], [[WorldCupHydrationPauseAdInventory]], and [[AIModelDistillationGovernance]] - business-news branches added by the August 2026 Ralph Lauren / China Eastern episode.
 - [[LOreal|L'Oreal / 欧莱雅]], [[Kerastase|Kérastase / 卡诗]], [[HaircareSkincareization]], [[PremiumHaircareMarket]], [[SalonChannelTrust]], and [[BeautyProblemNaming]] - hair-care market branch added by the August 2026 hair-care episode.
+- [[Starbucks]], [[LiNing|Li-Ning]], [[MetaMuseModels]], [[BottledBeverageDemandPressure]], [[SonyTSMCImageSensorJV]], [[AIPersonaLabeling]], and [[AITravelCommerceTrust]] - rumor-response, AI, beverage, semiconductor, music, and travel-commerce branches added by the 2026-08-13 roundup.
 - [[MorningAudioRitual]], [[ShortFormBusinessTechAudio]], and [[PodcastReleaseCadence]] - format and habit concepts.
 - [[Coffee|Coffee / 咖啡]] and [[CaffeinatedModernity]] - metaphor and wakefulness branch.

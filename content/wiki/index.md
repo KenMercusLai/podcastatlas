@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约](sources/xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195.md) — 声动早咖啡 episode linking Starbucks and Li-Ning rumor denials, AI data-center buildout, Meta Muse open weights, bottled-beverage pressure, China auto demand weakness, Sony-TSMC image sensors, Spotify AI persona labels, and Doubao hotel-order fees.
 - [美妆巨头集体盯上头发，洗护生意为何又热起来？](sources/meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109.md) — 声动早咖啡 episode linking Pinduoduo next-day fulfillment, Walmart community stores, SHEIN Vietnam warehouse retrenchment, and a main explainer on hair-care skincare-ization, premium haircare, salon trust, and social-media beauty problem naming.
 - [中国消费者带动拉夫劳伦增长，东航优化机票退改签政策](sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805.md) — 声动早咖啡 episode linking Ralph Lauren's China-led growth and channel tightening, China Eastern's refund/change-policy optimization, German luxury-car China pressure, Apple Watch form-factor experiments, Airbnb internal AI productivity, Paramount theatrical-window bargaining, World Cup ad inventory, and ByteDance distillation governance.
 - [巴黎水和圣培露还能赚钱，雀巢为何要剥离水业务？](sources/bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453.md) — 声动早咖啡 episode on Nestle moving Perrier, San Pellegrino, Acqua Panna, and other water/premium-beverage brands into a Platinum Equity joint venture, linking bottled-water margins, source risk, packaging/logistics cost, CPG portfolio focus, and side updates on Alo Yoga/Tmall, OpenAI hardware, DeepSeek/Qwen pricing, and Yum China/Pizza Hut China.
@@ -961,6 +962,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张青 / Zhang Qing](entities/ZhangQing.md) — Former Sam's Club China procurement executive named in source-scoped reporting around Starbucks China's supply-chain rumor and denial.
+- [Kylian Mbappe / 姆巴佩](entities/KylianMbappe.md) — Football star at the center of a denied Li-Ning sponsorship rumor in the 2026-08-13 声动早咖啡 source.
+- [Meta Muse Glimmer / Muse Spark](entities/MetaMuseModels.md) — Meta open-weight model releases used by the source to show a renewed open-model posture after Llama 4 disappointment.
+- [Master Kong / 康师傅](entities/MasterKong.md) — Packaged-beverage incumbent whose first-half 2026 beverage results illustrate bottled beverage demand pressure.
+- [Uni-President Enterprises / 统一集团](entities/UniPresidentEnterprises.md) — Packaged-beverage incumbent paired with Master Kong in the source's bottled-beverage slowdown segment.
+- [Tipsy](entities/Tipsy.md) — Source-scoped technology company example tied to IDC data-center hiring and AI compute infrastructure buildout.
+- [Sony-TSMC Image Sensor Joint Venture](entities/SonyTSMCImageSensorJV.md) — Roughly $4.7 billion image-sensor manufacturing venture expected by the source to begin mass production in 2029.
 - [SHEIN](entities/SHEIN.md) — Cross-border fashion ecommerce company whose Vietnam warehouse retrenchment shows supply-chain relocation depends on efficiency and total cost, not only tariff pressure.
 - [Kérastase / 卡诗](entities/Kerastase.md) — L'Oreal professional hair-care brand used to explain premium haircare, salon trust, and category growth beyond basic shampoo.
 - [Vichy / 薇姿](entities/Vichy.md) — L'Oreal dermatology-adjacent beauty brand used in the source's hair-care growth and scalp/ingredient credibility discussion.
@@ -4919,7 +4927,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Collab Capital](entities/CollabCapital.md) — Investment firm affiliation for Jewel Burke Solomon in the Marketplace Tech Bytes episode.
 - [MoteBook](entities/MoteBook.md) — AI-agent-only social platform discussed as a Reddit-like agent internet experiment with security and identity risks.
 - [Wiz](entities/Wiz.md) — Cloud security platform whose reported MoteBook review raised sensitive-information exposure concerns.
-- [Spotify](entities/Spotify.md) — Audio-streaming platform discussed through fourth-quarter user growth, Wrapped engagement, and AI-assisted playlist curation.
+- [Spotify](entities/Spotify.md) — Audio-streaming platform discussed through user growth, Wrapped engagement, AI-assisted playlist curation, and AI persona labeling.
 - [Spotify Wrapped](entities/SpotifyWrapped.md) — Spotify's year-end listening recap feature, treated as a personalization and social-sharing growth engine.
 - [Ari Redbord](entities/AriRedbord.md) — TRM Labs expert interviewed by Marketplace Tech about crypto crime, stablecoin sanctions evasion, scam networks, and AI-enabled fraud.
 - [TRM Labs](entities/TRMLabs.md) — Crypto-compliance and blockchain-intelligence company whose report grounds the Marketplace Tech episode on illicit crypto activity.
@@ -5601,7 +5609,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Relevant Sports](entities/RelevantSports.md) — U.S.-background sports company framed as displacing Team Marketing in UEFA club-competition commercial development.
 - [Team Marketing](entities/TeamMarketing.md) — Incumbent UEFA club-competition commercial partner used as contrast for newer American rights intermediaries.
 - [旧世代](entities/Jiushidai.md) — Podcast/show context for the episode on PlayStation physical-disc decline, digital ownership anxiety, and post-ownership.
-- [Sony](entities/Sony.md) — Company discussed through the source-reported move away from new PlayStation physical discs and toward digital store control.
+- [Sony](entities/Sony.md) — Company discussed through PlayStation digital control, early mobile devices, and the Sony-TSMC image-sensor manufacturing venture.
 - [PlayStation](entities/PlayStation.md) — Sony console platform used to analyze physical-media decline, secondhand circulation, and digital ownership anxiety.
 - [Steam](entities/Steam.md) — Digital game platform used as the episode's example of all-digital distribution with strong service quality.
 - [GOG](entities/GOG.md) — DRM-free digital game store used as the episode's ownership-friendlier digital distribution ideal.
@@ -5745,7 +5753,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [HOKA](entities/HOKA.md) — Performance and lifestyle running-footwear brand discussed through thick cushioning, rolling geometry, and retail growth.
 - [On Running](entities/OnRunning.md) — Footwear brand discussed through commute/lifestyle positioning and robotic upper-production experimentation.
 - [Xtep](entities/Xtep.md) — Chinese running-shoe brand discussed through lab infrastructure, gait testing, and domestic performance-footwear catch-up.
-- [Li-Ning](entities/LiNing.md) — Chinese sportswear brand discussed as an ultra-light racing-shoe experimenter in the domestic super-shoe race.
+- [Li-Ning](entities/LiNing.md) — Chinese sportswear brand discussed through domestic super-shoe experimentation and its denial of a rumored Kylian Mbappe signing.
 - [Qiaodan Sports](entities/QiaodanSports.md) — Chinese sportswear brand discussed as part of domestic sub-100-gram racing-shoe experimentation.
 - [361 Degrees](entities/361Degrees.md) — Chinese sportswear brand discussed as part of domestic ultra-light racing-shoe experimentation.
 - [BASF](entities/BASF.md) — Chemical and materials supplier referenced as part of the upstream running-shoe midsole ecosystem.
@@ -5894,7 +5902,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zhong Xuegao](entities/ZhongXuegao.md) — Chinese prepackaged premium ice-cream brand used as the cold-chain and high-price contrast case.
 - [Haagen-Dazs](entities/HaagenDazs.md) — Premium ice-cream incumbent used to discuss China store contraction, traffic decline, and weak fit with the current consumption environment.
 - [Dairy Queen](entities/DairyQueen.md) — Mid-price ice-cream chain used as the steadier small-store comparison to Haagen-Dazs and Yeren Xiansheng.
-- [Mixue Bingcheng](entities/MixueBingcheng.md) — Tea-drink chain whose low-price soft serve makes it a large ice-cream-volume comparison point.
+- [Mixue Bingcheng](entities/MixueBingcheng.md) — Tea-drink chain used for ice-cream, coffee-category convergence, supply-chain globalization, and a source-scoped Starbucks rumor context.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
 - [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce, bee economics, FIFA, Sushiro, AI data-center cooling, fishmeal, ETFs, World Cup costs, and the Rolls-Royce RB211 aviation-history case.
 - [Grundfos / 格兰富](entities/Grundfos.md) — Pump, water, and cooling-infrastructure company case used to explain AI data-center thermal management.
@@ -6087,7 +6095,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [PGP](entities/PGP.md) — Cryptography software used as a historical analogy for why intangible software export controls can fail.
 - [Fable 5](entities/Fable5.md) — AI model/product discussed through one-shot coding, planning, review triage, quota pressure, and token-driven product imagination.
 - [GrillMe Skills](entities/GrillMeSkills.md) — Matpaco skill workflow contrasted with Superpowers as a lighter manual path for requirement questioning, specs, ADRs, PRDs, and issue decomposition.
-- [Meta](entities/Meta.md) — Platform company discussed through child-safety product-liability verdicts, AI capex, social AI content, Muse Image, public-likeness defaults, and application-layer bets.
+- [Meta](entities/Meta.md) — Platform company discussed through AI capex, platform liability, social AI content, application-layer bets, and Muse open-weight model releases.
 - [OpenManus](entities/OpenManus.md) — Agent project referenced as evidence that Manus-like task execution, local browser operation, and workflow automation were becoming easier to reproduce.
 - [Tongxin Software](entities/TongxinSoftware.md) — Domestic operating-system company used by the episode to connect Deepin's community lineage with Xinchuang government-enterprise delivery and management culture.
 - [Tongxin UOS](entities/TongxinUOS.md) — Commercial operating-system product connected to Deepin and the Xinchuang market.
@@ -6158,7 +6166,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Phillips](entities/JohnPhillips.md) — Angel investor and mentor who backed Shopify during its 2007 cash-pressure period.
 - [Bessemer Venture Partners](entities/BessemerVenturePartners.md) — Venture investor tied to Shopify's post-Series-A acceleration after repeatable growth payback became visible.
 - [SMIC](entities/SMIC.md) — Heavy-asset Chinese wafer foundry used to explain depreciation, capital expenditure, financing needs, and industrial catch-up pressure in financial statements.
-- [TSMC](entities/TSMC.md) — Dominant wafer-foundry benchmark used to explain the strategic pressure facing SMIC and heavy-asset semiconductor manufacturing.
+- [TSMC](entities/TSMC.md) — Dominant foundry and manufacturing partner discussed through SMIC pressure, AI packaging, Kao precision cleaning, and Sony image sensors.
 - [Best Buy](entities/BestBuy.md) — Electronics retailer used as an inventory-risk example where showroom behavior and channel shift can weaken sell-through and margins.
 - [Zhangzidao](entities/Zhangzidao.md) — Chinese seafood company used as a hard-to-verify inventory and audit-risk case.
 - [Toshiba](entities/Toshiba.md) — Company used as a profit-pressure and accounting-misstatement case.
@@ -6312,7 +6320,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Deerflow](entities/Deerflow.md) — Open-source deep-research and desktop-workflow project discussed through AI coding, Chinese models, community governance, and multimodal work.
 - [Devin](entities/Devin.md) — Cognition coding-agent product discussed through the Windsurf acquisition context.
 - [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as a market-policy variable, Venezuela oil-reopening actor, political-influence monetization case, alliance shock, executive-power precedent test, and Fed-independence pressure actor.
-- [Doubao](entities/Doubao.md) — ByteDance AI assistant and model context used for Chinese consumer AI subscriptions, voice fit, and Doubao Seed's AI-for-math signal.
+- [Doubao](entities/Doubao.md) — ByteDance AI assistant discussed through subscriptions, voice fit, AI shopping, enterprise-office paths, and hotel-order monetization.
 - [EOS Worldwide](entities/EOSWorldwide.md) — Methodology and coaching organization behind the EOS ecosystem that shaped Ninety's early product and channel.
 - [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
 - [Edward](entities/Edward.md) — Designer and hackathon contestant behind Atoom, emphasizing taste and idea quality after vibe coding accelerates implementation.
@@ -6483,7 +6491,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sprinto](entities/Sprinto.md) — Compliance and trust SaaS company built through deliberate validation, real audit learning, and AI-aware automation.
 - [SpaceX](entities/SpaceX.md) — Private space company now covered through IPO valuation risk, reusable rockets, Starlink, Starship, manufacturing culture, and AI infrastructure scenarios.
 - [S&P 500](entities/SP500.md) — Broad U.S. equity benchmark used in EP57 for long-term index investing, current valuation, and staged reentry discipline.
-- [Starbucks](entities/Starbucks.md) — Coffee retailer used as both a national channel for Justin's Nut Butter and a workplace/status reference point in middle-class coffee spending.
+- [Starbucks](entities/Starbucks.md) — Coffee retailer discussed through CPG distribution, China premium-everyday tension, and source-scoped China supply-chain rumor denial.
 - [StayPit](entities/StayPit.md) — Developer associated with OpenClaw in the Fengyan Fengyu source.
 - [StepFun](entities/StepFun.md) — Foundation-model company chaired by Yin Qi and discussed through model R&D, terminal commercialization, and AI organization design.
 - [Superpowers](entities/Superpowers.md) — Agent-orchestration tool discussed through planning, subagents, Codex, Claude Code, and skill-selection friction.
@@ -6558,6 +6566,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Coffee Supply Chain Localization](concepts/CoffeeSupplyChainLocalization.md) — Cost and supplier side of adapting a global coffee chain to China's local procurement, vendor, and operating-pressure context.
+- [Bottled Beverage Demand Pressure](concepts/BottledBeverageDemandPressure.md) — Weakening of packaged water, juice, and carbonated drinks as fresh-made tea, coffee, and differentiated RTD categories absorb occasions.
+- [China Passenger Vehicle Demand Pressure](concepts/ChinaPassengerVehicleDemandPressure.md) — Domestic auto-sales weakness that pushes Chinese carmakers toward export growth and overseas localization.
+- [Image Sensor Asset-Light Manufacturing](concepts/ImageSensorAssetLightManufacturing.md) — Sony-TSMC-style split where sensor design and planning stay closer to the brand while production scale relies on a manufacturing partner.
+- [AI Persona Labeling](concepts/AIPersonaLabeling.md) — Platform practice of labeling AI-presented artist identities and using the label to govern recommendation eligibility.
+- [AI Travel Commerce Trust](concepts/AITravelCommerceTrust.md) — Trust problem for AI assistants entering hotel and travel booking, where inventory accuracy, fees, ranking, and after-sales responsibility must be legible.
 - [Haircare Skincare-ization / 护发护肤化](concepts/HaircareSkincareization.md) — Hair-care category shift toward skincare-like ingredients, scalp management, multi-step routines, and higher-value product claims.
 - [Premium Haircare Market / 高端洗护市场](concepts/PremiumHaircareMarket.md) — Hair-care growth pattern where anti-loss, scalp care, oils, repair, scent, and salon-backed products create higher willingness to pay than basic shampoo.
 - [Salon Channel Trust / 沙龙渠道信任](concepts/SalonChannelTrust.md) — Professional stylist and salon distribution trust that helps high-end hair-care brands justify price and escape mass shampoo competition.
@@ -8847,7 +8861,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Inference Chip Startup Narrowing](concepts/InferenceChipStartupNarrowing.md) — E230 caution that standalone inference-chip startups face narrowing opportunity as models, software ecosystems, and system integration absorb value.
 - [GPU Cloud Operations](concepts/GPUCloudOperations.md) — E230 operations layer for turning GPUs into reliable service through supply support, firmware, scheduling, DevOps, model serving, and SLA.
 - [Neo Cloud](concepts/NeoCloud.md) — AI-native GPU-cloud model in E230, contrasted with hyperscaler VM clouds through k8s, bare-metal efficiency, model services, and kernel optimization.
-- [Data Center Power Bottleneck](concepts/DataCenterPowerBottleneck.md) — E230 deployment constraint covering land, grid interconnection, behind-the-meter generation, onsite gas power, and modular data-center energization.
+- [Data Center Power Bottleneck](concepts/DataCenterPowerBottleneck.md) — Deployment constraint covering land, grid interconnection, onsite generation, cooling, fiber routes, climate, and modular data-center energization.
 - [AI Cluster Networking](concepts/AIClusterNetworking.md) — Network layer that lets AI clusters exchange data fast enough, making fiber, connectors, transponders, deployment speed, and reliability part of AI infrastructure.
 - [Fiber Connector Deployment](concepts/FiberConnectorDeployment.md) — Physical-networking bottleneck where dense fiber connectors can reduce AI infrastructure deployment friction and reliability risk.
 - [Optical Transponders](concepts/OpticalTransponders.md) — Fiber-networking components that convert electrical data signals into light waves for AI cluster and cloud-network transmission.
@@ -9902,7 +9916,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI-Generated Advertising](concepts/AIGeneratedAdvertising.md) — Use of generative models for public-facing brand campaigns, where disclosure, trust, labor expectations, and IP rights shape acceptance.
 - [Creative Labor AI Backlash](concepts/CreativeLaborAIBacklash.md) — Objection that arises when generative AI appears to replace, exploit, or devalue creative workers in media and marketing.
 - [Public Utility Commissions](concepts/PublicUtilityCommissions.md) — State utility regulators that can shape AI data-center buildout through rates, grid-upgrade approvals, long contracts, upfront-payment requirements, and coordination with broader state tax policy.
-- [Data Center Cost Shifting](concepts/DataCenterCostShifting.md) — Risk that grid infrastructure built for data centers is paid partly by ordinary electricity ratepayers unless rate design assigns costs to the data-center customer.
+- [Data Center Cost Shifting](concepts/DataCenterCostShifting.md) — Risk that data-center grid, power, water, and tax burdens fall partly on ordinary ratepayers or communities unless cost allocation is explicit.
 - [AI Energy Bottleneck](concepts/AIEnergyBottleneck.md) — Constraint where AI growth depends on electricity supply, grid connection capacity, utility approvals, and politically acceptable infrastructure finance.
 - [TV Motion Stutter](concepts/TVMotionStutter.md) — Film-motion problem where low-frame-rate movies can look jumpy on modern OLED and LED televisions.
 - [Motion Smoothing](concepts/MotionSmoothing.md) — TV frame-interpolation setting that can reduce stutter while changing the intended look of films.
@@ -10069,7 +10083,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Investment Catalyst](concepts/InvestmentCatalyst.md) — Event, business change, or capital-return action that can make price converge toward estimated value.
 - [AI-Compressed Investment Research Advantage](concepts/AICompressedInvestmentResearchAdvantage.md) — Idea that AI reduces information and initial-analysis advantage while leaving judgment, behavior, data quality, and self-knowledge scarce.
 - [Coffee Chain Institutionalization](concepts/CoffeeChainInstitutionalization.md) — shift from coffee startup land-grab toward control deals, professional managers, and institutional ownership of proven chain assets.
-- [Coffee Chain Localization](concepts/CoffeeChainLocalization.md) — ownership and operating adaptation needed when global coffee brands face China's local price, product, and store-cadence pressure.
+- [Coffee Chain Localization](concepts/CoffeeChainLocalization.md) — Ownership, operating, and supplier-cost adaptation needed when global coffee brands face China's local price, product, and store-cadence pressure.
 - [Premium-Everyday Brand Tension](concepts/PremiumEverydayBrandTension.md) — Conflict between premium scarcity/status and mass convenience, frequency, volume, or value pricing across coffee chains and EV product lines.
 - [Beverage Category Convergence](concepts/BeverageCategoryConvergence.md) — tea-drink and coffee chains moving into each other's categories through shared beverage habits and store networks.
 - [Portable Creator Cameras](concepts/PortableCreatorCameras.md) — Action, gimbal, and 360-degree cameras that serve short-video and creator workflows beyond phone-only recording.
@@ -10231,7 +10245,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Carbon Plate Racing Shoes](concepts/CarbonPlateRacingShoes.md) — Road-racing shoe category where carbon structures, super foam, geometry, weight, and fit work as one performance system.
 - [Marathon Performance Ecosystem](concepts/MarathonPerformanceEcosystem.md) — Combined system of athlete talent, training, monitoring, recovery, footwear, sponsorship, and race attention behind marathon records.
 - [Performance Footwear Market](concepts/PerformanceFootwearMarket.md) — Market where running shoes sell through race proof, comfort, fit, materials, lifestyle adoption, channels, and price-performance.
-- [Athlete Sponsorship Strategy](concepts/AthleteSponsorshipStrategy.md) — Brand strategy for identifying and backing athletes whose race performance validates products and creates consumer attention.
+- [Athlete Sponsorship Strategy](concepts/AthleteSponsorshipStrategy.md) — Brand strategy for backing athletes whose performance validates products, while managing rumor and incumbent-sponsor uncertainty.
 - [Forward Deployed Product Manager](concepts/ForwardDeployedProductManager.md) — Product/customer counterpart to FDE, responsible for agent behavior, quality expectations, requirements, and trust during deployment.
 - [AI Workflow Triage](concepts/AIWorkflowTriage.md) — Workflow decomposition discipline that separates deterministic, AI-suitable, and human-review steps before enterprise AI implementation.
 - [Private Equity AI Transformation](concepts/PrivateEquityAITransformation.md) — PE-led AI adoption pattern where owners use portfolio influence, fund workflows, and signaling needs to push AI deployment.
@@ -10533,13 +10547,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Operational Data Capture](concepts/OperationalDataCapture.md) — Extracting business data from existing screens, printers, photos, receipts, or other work surfaces when clean APIs are unavailable.
 - [City Commercial Observation](concepts/CityCommercialObservation.md) — Practice of using ordinary city details, listener submissions, and local anomalies as evidence about commercial systems.
 - [Local-Life Platform Dependency](concepts/LocalLifePlatformDependency.md) — Small-merchant reliance on local-service platforms and intermediaries for demand, messaging, paid traffic, data, and fulfillment expectations.
-- [Platform Intermediation Tax](concepts/PlatformIntermediationTax.md) — Hidden margin and control cost when traffic-owning or order-intermediating layers pass local fulfillment work to small merchants.
+- [Platform Intermediation Tax](concepts/PlatformIntermediationTax.md) — Hidden margin and control cost when traffic-owning, AI-assistant, or order-intermediating layers pass local fulfillment work to merchants.
 - [Tourism Traffic Mismatch](concepts/TourismTrafficMismatch.md) — Gap between platform-visible tourist flows and local repeat demand, resident knowledge, durable neighborhood value, or the social machinery behind "real" ritual.
 - [Ctrip Antitrust Penalty](concepts/CtripAntitrustPenalty.md) — Penalty-centered frame for Ctrip's alleged abuse of online-travel market dominance through merchant restrictions and price-parity enforcement.
 - [Online Travel Agency](concepts/OnlineTravelAgency.md) — Platform model aggregating travel inventory, booking, payment, support, invoices, and itinerary management.
-- [OTA Platform Concentration](concepts/OTAPlatformConcentration.md) — Tendency for online-travel booking power to concentrate when users, hotels, inventory, traffic, and systems all reward scale.
+- [OTA Platform Concentration](concepts/OTAPlatformConcentration.md) — Tendency for online-travel booking power to concentrate when users, hotels, inventory, traffic, trust, and systems all reward scale.
 - [Hotel PMS Inventory Control](concepts/HotelPMSInventoryControl.md) — Platform leverage created when booking channels influence hotel property-management and room-inventory systems.
-- [Hotel Platform Pricing Power](concepts/HotelPlatformPricingPower.md) — Ability of a booking platform to influence lodging prices, promotions, display, and merchant participation.
+- [Hotel Platform Pricing Power](concepts/HotelPlatformPricingPower.md) — Ability of a booking platform or AI entry channel to influence lodging prices, fees, promotion, display, and merchant participation.
 - [Travel Platform Merchant Exclusivity](concepts/TravelPlatformMerchantExclusivity.md) — OTA version of "二选一" where merchant exposure or ranking is tied to limiting supply on rival platforms.
 - [Travel Price Parity Enforcement](concepts/TravelPriceParityEnforcement.md) — Full-network-lowest-price practice backed by cross-platform monitoring, repricing tools, and merchant status pressure.
 - [Travel Super App Convenience](concepts/TravelSuperAppConvenience.md) — User value created when flights, hotels, tickets, invoices, itinerary changes, and support sit in one interface.
@@ -10633,7 +10647,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Entrepreneurship Infrastructure](concepts/EntrepreneurshipInfrastructure.md) — Platform/software infrastructure that lowers technical and operational barriers to starting and running a business.
 - [Financial Statement Analysis](concepts/FinancialStatementAnalysis.md) — Three-statement method for testing a company story through profit, balance sheet, and cash flow.
 - [Profit And Cash Flow Quality](concepts/ProfitAndCashFlowQuality.md) — Distinction between reported earnings and money actually collected or generated.
-- [Asset-Light Vs Heavy-Asset Models](concepts/AssetLightVsHeavyAssetModels.md) — Business-model contrast explaining why companies in the same value chain can show very different margins, assets, and cash needs.
+- [Asset-Light Vs Heavy-Asset Models](concepts/AssetLightVsHeavyAssetModels.md) — Business-model contrast explaining why companies in the same value chain can show different margins, assets, cash needs, and manufacturing dependencies.
 - [Non-GAAP Earnings](concepts/NonGAAPEarnings.md) — Adjusted profit figures and reporting-context caveats around GAAP, CAS, stock compensation, and non-recurring gains.
 - [Return On Equity Analysis](concepts/ReturnOnEquityAnalysis.md) — ROE as a shareholder-capital productivity metric that must be checked against leverage and cash quality.
 - [Accounting Red Flags](concepts/AccountingRedFlags.md) — Financial-report warning signs such as poor cash conversion, receivables, inventory, audit issues, and profit-pressure misstatement.
@@ -10870,7 +10884,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Monetary Policy Lag](concepts/MonetaryPolicyLag.md) — Delay between interest-rate decisions and their effects on employment, housing, corporate investment, and markets.
 - [MSP Channel Distribution](concepts/MSPChannelDistribution.md) — Go-to-market pattern for reaching SMBs through managed service providers that operate customer IT environments.
 - [Multi-Agent Collaboration](concepts/MultiAgentCollaboration.md) — Use of multiple agents for context exchange, cross-checking, parallel exploration, and drift correction.
-- [Open Source AI Models](concepts/OpenSourceAIModels.md) — AI models released openly enough to support downstream adoption, fine-tuning, ecosystem influence, and strategic substitution under access controls.
+- [Open Source AI Models](concepts/OpenSourceAIModels.md) — AI models or open weights released widely enough to support downstream adoption, fine-tuning, ecosystem influence, and strategic substitution.
 - [Open Web Traffic Decline](concepts/OpenWebTrafficDecline.md) — Shift of content, user intent, and discovery from crawlable web pages into closed or semi-closed app ecosystems.
 - [On Device Fast Slow Brain](concepts/OnDeviceFastSlowBrain.md) — Edge AI architecture separating immediate behavior decisions from slower reasoning for low-latency embodied response.
 - [On-Demand Apps](concepts/OnDemandApps.md) — Agent-assembled or generated app capabilities created when the user needs them instead of fully prebuilt feature menus.

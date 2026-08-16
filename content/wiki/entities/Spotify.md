@@ -2,8 +2,8 @@
 title: "Spotify"
 type: entity
 tags: [company, music, streaming, consumer-platform]
-sources: [159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]
-last_updated: 2026-08-06
+sources: [xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]
+last_updated: 2026-08-16
 ---
 
 # Spotify
@@ -20,6 +20,8 @@ The episode uses Spotify as a consumer-platform case where growth comes partly f
 
 [[tsr-s5-catchup2-v1-tsr-s5-catchup2-v1]] adds Spotify as a podcast review surface for [[TheSocialRadars]]. The Season Five update asks listeners to rate and review the show there, making Spotify part of the show's audience-feedback loop rather than a new music-streaming product case.
 
+[[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]] adds Spotify's AI-artist governance move. The source says Spotify will start labeling AI artist personas in September and will exclude those artists from platform editorial and algorithmic recommendations, making [[AIPersonaLabeling]] a recommendation-allocation tool rather than only disclosure metadata.
+
 ## Connections
 - [[AlgorithmicEntanglement]], [[PersonalizationAsSocialIdentity]], and [[FeedCuration]] - episode 159's music-recommendation and creator-practice branch.
 - [[BookshopOrg|Bookshop.org]], [[PageMatch]], [[Android]], [[PhysicalBookPlatformBridge]], [[BookstoreBuying]], and [[ReadingAsLifeExperience]] - physical-book and audiobook bridge added by Marketplace Tech.
@@ -30,3 +32,4 @@ The episode uses Spotify as a consumer-platform case where growth comes partly f
 - [[FeedCuration]] - adjacent user-side practice of shaping media and information inputs.
 - [[Hightouch]] and [[EnterpriseDataActivation]] - enterprise marketing-data context added by the Kashish Gupta episode.
 - [[TheSocialRadars]] and [[PodcastAsAsynchronousMedia]] - podcast review and archive context added by the Season Five update.
+- [[AIPersonaLabeling]], [[AIContentProvenance]], and [[AIPromptedPlaylistCuration]] - AI music governance and product-feature branch added by 声动早咖啡.

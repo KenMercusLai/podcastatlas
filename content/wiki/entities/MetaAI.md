@@ -2,8 +2,8 @@
 title: "Meta AI"
 type: entity
 tags: [ai, assistant, meta]
-sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128]
+last_updated: 2026-08-16
 ---
 
 # Meta AI
@@ -16,6 +16,8 @@ The episode frames Meta AI as a product that needs differentiation beyond generi
 
 [[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]] adds [[MuseImage|Muse Image]] as a social AI content branch of Meta's broader AI push. The episode treats image generation inside [[Instagram]] and [[WhatsApp]] as a natural platform advantage, but also ties it to [[AIPublicLikenessGeneration]] and privacy-default trust problems.
 
+[[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]] adds a model-release rather than assistant-product update. The source says [[Meta]] released [[MetaMuseModels|Muse Glimmer]] weights and planned Muse Spark 1.2 weights, making open-weight distribution part of the broader Meta AI story even when it is not a consumer-assistant feature.
+
 ## Connections
 - [[Meta]] and [[MarkZuckerberg]] - company and strategic sponsor.
 - [[ChatGPT]] and [[OpenAI]] - consumer-assistant benchmark in the episode.
@@ -25,3 +27,4 @@ The episode frames Meta AI as a product that needs differentiation beyond generi
 - [[WearableAIAssistant]], [[VoiceInteraction]], [[EdgeCloudAIBoundary]], and [[ConsumerCameraSurveillance]] - smart-glasses constraints added by the year-end wearable source.
 - [[AICommercializationPressure]] - product adoption and ROI question around Meta's AI spending.
 - [[MuseImage|Muse Image]], [[Instagram]], [[WhatsApp]], and [[AIPublicLikenessGeneration]] - image-generation and public-likeness branch added by Marketplace Tech.
+- [[MetaMuseModels]] and [[OpenSourceAIModels]] - open-weight release branch added by 声动早咖啡.

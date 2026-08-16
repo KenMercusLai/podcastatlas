@@ -1891,6 +1891,10 @@
     "title": "AI Parenting Advice",
     "url": "/wiki/concepts/aiparentingadvice/"
   },
+  "AIPersonaLabeling": {
+    "title": "AI Persona Labeling",
+    "url": "/wiki/concepts/aipersonalabeling/"
+  },
   "AIPlusTerminals": {
     "title": "AI Plus Terminals",
     "url": "/wiki/concepts/aiplusterminals/"
@@ -2074,6 +2078,10 @@
   "AITranslation": {
     "title": "AI Translation",
     "url": "/wiki/concepts/aitranslation/"
+  },
+  "AITravelCommerceTrust": {
+    "title": "AI Travel Commerce Trust",
+    "url": "/wiki/concepts/aitravelcommercetrust/"
   },
   "AITravelPlanning": {
     "title": "AI Travel Planning",
@@ -6011,6 +6019,10 @@
     "title": "Boston University",
     "url": "/wiki/entities/bostonuniversity/"
   },
+  "BottledBeverageDemandPressure": {
+    "title": "Bottled Beverage Demand Pressure",
+    "url": "/wiki/concepts/bottledbeveragedemandpressure/"
+  },
   "BottledWaterPortfolioSpinout": {
     "title": "Bottled Water Portfolio Spinout",
     "url": "/wiki/concepts/bottledwaterportfoliospinout/"
@@ -7855,6 +7867,10 @@
     "title": "China Outbound Profit Loop / 中国出海收益环流",
     "url": "/wiki/concepts/chinaoutboundprofitloop/"
   },
+  "ChinaPassengerVehicleDemandPressure": {
+    "title": "China Passenger Vehicle Demand Pressure",
+    "url": "/wiki/concepts/chinapassengervehicledemandpressure/"
+  },
   "ChinaPolicyEasingPivot": {
     "title": "China Policy Easing Pivot",
     "url": "/wiki/concepts/chinapolicyeasingpivot/"
@@ -8654,6 +8670,10 @@
   "CoffeeDateAffordance": {
     "title": "Coffee Date Affordance / 咖啡馆约会可退可进性",
     "url": "/wiki/concepts/coffeedateaffordance/"
+  },
+  "CoffeeSupplyChainLocalization": {
+    "title": "Coffee Supply Chain Localization",
+    "url": "/wiki/concepts/coffeesupplychainlocalization/"
   },
   "CoffeehousePublicSphere": {
     "title": "Coffeehouse Public Sphere",
@@ -18011,6 +18031,10 @@
     "title": "ImageNet",
     "url": "/wiki/entities/imagenet/"
   },
+  "ImageSensorAssetLightManufacturing": {
+    "title": "Image Sensor Asset-Light Manufacturing",
+    "url": "/wiki/concepts/imagesensorassetlightmanufacturing/"
+  },
   "ImagineK12": {
     "title": "Imagine K-12",
     "url": "/wiki/entities/imaginek12/"
@@ -21079,6 +21103,10 @@
     "title": "Kyle Vogt",
     "url": "/wiki/entities/kylevogt/"
   },
+  "KylianMbappe": {
+    "title": "Kylian Mbappe / 姆巴佩",
+    "url": "/wiki/entities/kylianmbappe/"
+  },
   "KylinOS": {
     "title": "Kylin OS",
     "url": "/wiki/entities/kylinos/"
@@ -23747,6 +23775,10 @@
     "title": "Massachusetts Investors Trust",
     "url": "/wiki/entities/massachusettsinvestorstrust/"
   },
+  "MasterKong": {
+    "title": "Master Kong / 康师傅",
+    "url": "/wiki/entities/masterkong/"
+  },
   "Mastercard": {
     "title": "Mastercard",
     "url": "/wiki/entities/mastercard/"
@@ -24374,6 +24406,10 @@
   "MetaModelTrainingCurvePrediction": {
     "title": "Meta-Model Training Curve Prediction",
     "url": "/wiki/concepts/metamodeltrainingcurveprediction/"
+  },
+  "MetaMuseModels": {
+    "title": "Meta Muse Glimmer / Muse Spark",
+    "url": "/wiki/entities/metamusemodels/"
   },
   "MetaX": {
     "title": "MetaX / 沐曦",
@@ -33943,6 +33979,10 @@
     "title": "Sony Pictures",
     "url": "/wiki/entities/sonypictures/"
   },
+  "SonyTSMCImageSensorJV": {
+    "title": "Sony-TSMC Image Sensor Joint Venture",
+    "url": "/wiki/entities/sonytsmcimagesensorjv/"
+  },
   "SoongAiLing": {
     "title": "宋爱玲",
     "url": "/wiki/entities/soongailing/"
@@ -36571,6 +36611,10 @@
     "title": "Ting Wong",
     "url": "/wiki/entities/tingwong/"
   },
+  "Tipsy": {
+    "title": "Tipsy",
+    "url": "/wiki/entities/tipsy/"
+  },
   "TitForTatCooperation": {
     "title": "Tit-For-Tat Cooperation / 一报还一报合作",
     "url": "/wiki/concepts/titfortatcooperation/"
@@ -37510,6 +37554,10 @@
   "UnfawningBoundaryPractice": {
     "title": "Unfawning Boundary Practice",
     "url": "/wiki/concepts/unfawningboundarypractice/"
+  },
+  "UniPresidentEnterprises": {
+    "title": "Uni-President Enterprises / 统一集团",
+    "url": "/wiki/entities/unipresidententerprises/"
   },
   "Unicharm": {
     "title": "尤妮佳 / Unicharm",
@@ -40663,6 +40711,10 @@
     "title": "Zhang Qi / 张奇",
     "url": "/wiki/entities/zhangqi/"
   },
+  "ZhangQing": {
+    "title": "张青 / Zhang Qing",
+    "url": "/wiki/entities/zhangqing/"
+  },
   "ZhangQuan": {
     "title": "张泉",
     "url": "/wiki/entities/zhangquan/"
@@ -43734,6 +43786,10 @@
   "xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770": {
     "title": "【闲聊】想送赵露思一本短歌集--编辑推书,无所不用其极！",
     "url": "/wiki/sources/xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770/"
+  },
+  "xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195": {
+    "title": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约",
+    "url": "/wiki/sources/xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195/"
   },
   "yao-shunyu-laidao-tengxun-300tian-1-176-1": {
     "title": "176: 姚顺宇，来到腾讯300天",

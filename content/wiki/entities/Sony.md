@@ -2,8 +2,8 @@
 title: "Sony"
 type: entity
 tags: [company, games, consumer-electronics]
-sources: [we-almost-had-a-smartphone-in-the-90s-why-did-it-fail, jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652]
-last_updated: 2026-08-07
+sources: [xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, we-almost-had-a-smartphone-in-the-90s-why-did-it-fail, jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652]
+last_updated: 2026-08-16
 ---
 
 # Sony
@@ -14,6 +14,8 @@ Sony appears in [[jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-bur
 
 The episode treats Sony less as an isolated villain than as a platform holder under economic pressure. Physical discs impose manufacturing, logistics, inventory, retail-channel, resale, leak, and forecasting costs, while digital distribution lets Sony centralize sales through its store and keep tighter control over the platform economy.
 
+[[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]] adds Sony's image-sensor business. The episode says Sony and [[TSMC]] announced a roughly $4.7 billion [[SonyTSMCImageSensorJV|image-sensor joint venture]] for next-generation smartphone sensors, with Sony keeping technology R&D, product planning, and design while using TSMC manufacturing capability.
+
 ## Connections
 - [[GeneralMagic]], [[SonyMagicLink]], [[TonyFadell]], [[Apple]], and [[IPod]] - early mobile-device and later audio-product constraint branch added by Planet Money.
 - [[PlayStation]] — Sony's game platform and the episode's central platform case.
@@ -21,3 +23,4 @@ The episode treats Sony less as an isolated villain than as a platform holder un
 - [[PhysicalGameEraDecline]] — broader transition Sony is presented as accelerating.
 - [[DigitalGameOwnershipAnxiety]] — player backlash caused by the shift from object ownership toward licensed access.
 - [[SecondhandGameEconomy]] — player-friendly market that platform holders cannot easily monetize.
+- [[TSMC]], [[SonyTSMCImageSensorJV]], and [[ImageSensorAssetLightManufacturing]] - image-sensor manufacturing branch added by 声动早咖啡.

@@ -2,8 +2,8 @@
 title: "Starbucks"
 type: entity
 tags: [company, retail, food]
-sources: [justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]
-last_updated: 2026-07-09
+sources: [xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]
+last_updated: 2026-08-16
 ---
 
 # Starbucks
@@ -14,9 +14,12 @@ Starbucks appears in [[justins-nut-butter-justin-gold-he-was-waiting-tables-then
 
 [[141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]] makes Starbucks the central case for [[CoffeeChainLocalization]]. The episode says a control shift toward [[BoyuCapital]] would let Starbucks China respond faster to local taste, pricing, product cadence, and chain operations while the global brand retains value. It also sharpens [[PremiumEverydayBrandTension]]: a near-10,000-store China business needs everyday frequency and value, but Starbucks' premium identity still depends on brand feeling and some scarcity.
 
+[[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]] adds the rumor-response version of the China localization problem. The episode summarizes reporting that [[ZhangQing|张青]] was working on Starbucks China's supplier and cost structure, then records Starbucks China's 2026-08-12 response that the online information was seriously inaccurate. The source therefore extends [[CoffeeSupplyChainLocalization]] without treating the rumored supplier changes as verified.
+
 ## Connections
 - [[JustinsNutButter]], [[JustinGold]], and [[LanceGentry]] - brand and operators tied to the placement.
 - [[CPGDistribution]] - national retail/food-service expansion path.
 - [[ProductLedWillingnessToPay]] and [[SalesVelocity]] - concepts connected to the squeeze-pack format.
 - [[LowPriceBrandPerception]], [[LifestyleCostRationalization]], and [[MiddleClassConsumptionPressure]] - coffee-price and consumption-pressure concepts added by EP35.
 - [[BoyuCapital]], [[CoffeeChainInstitutionalization]], [[CoffeeChainLocalization]], and [[PremiumEverydayBrandTension]] - China coffee-market strategy concepts added by episode 141.
+- [[ZhangQing]], [[MixueBingcheng]], and [[CoffeeSupplyChainLocalization]] - source-scoped supply-chain rumor and denial branch added by 声动早咖啡.

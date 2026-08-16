@@ -2,7 +2,7 @@
 title: "TSMC"
 type: entity
 tags: [company, semiconductors, manufacturing, taiwan]
-sources: [vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
+sources: [xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
 last_updated: 2026-08-16
 ---
 # TSMC
@@ -21,6 +21,8 @@ TSMC appears in [[ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnl
 
 [[mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]] adds TSMC as a customer-proximity anchor for [[Kao|花王]]'s [[SemiconductorPrecisionCleaning|semiconductor precision cleaning]] business. The source says Kao engineers work close to leading fabs and use [[KaoHsinchuPrecisionCleaningCenter|Kao's Hsinchu precision cleaning center]] to simulate customer production environments, tune formulas, and solve yield-affecting residue or particle problems.
 
+[[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]] adds TSMC as Sony's manufacturing partner in a roughly $4.7 billion [[SonyTSMCImageSensorJV|image-sensor joint venture]]. The source says the venture will make next-generation smartphone image sensors and is expected to begin mass production in 2029.
+
 ## Source Position
 - TSMC is not the main financial-statement case; it is a benchmark for the manufacturing side of the semiconductor value chain.
 - The episode uses TSMC to distinguish chip design from wafer fabrication and to show why capacity, process technology, and equipment investment matter.
@@ -31,6 +33,7 @@ TSMC appears in [[ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnl
 - Vol.125 treats TSMC as a regional development catalyst in Japan's geopolitical supply-chain dividend.
 - E228 extends TSMC's AI role from Nvidia systems into Google's TPU ramp, where HBM integration, CoWoS-style packaging, yield, and pod consistency all affect deliverable capacity.
 - The Kao source treats TSMC as the leading-customer environment where validated cleaning chemistry can become embedded in process flow.
+- The Sony source treats TSMC as a specialist manufacturing-capacity partner beyond AI chips, extending the page into image sensors and [[ImageSensorAssetLightManufacturing]].
 
 ## Connections
 - [[SMIC]] — heavy-asset foundry comparison and catch-up case.
@@ -43,3 +46,4 @@ TSMC appears in [[ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnl
 - [[Kumamoto]], [[Japan]], and [[JapanGeopoliticalSupplyChainDividend]] - Japan regional-spillover branch added by vol.125.
 - [[Google]], [[TPU]], [[TPUPodSystemOptimization]], and [[Broadcom]] - E228's TPU packaging and system-capacity branch.
 - [[Kao]], [[KaoHsinchuPrecisionCleaningCenter]], [[SemiconductorPrecisionCleaning]], and [[ChemicalControlAsManufacturingCapability]] - precision-cleaning supplier branch added by 声动早咖啡.
+- [[Sony]], [[SonyTSMCImageSensorJV]], and [[ImageSensorAssetLightManufacturing]] - image-sensor joint-venture branch added by 声动早咖啡.
