@@ -2,8 +2,8 @@
 title: "Free-to-Play Game Monetization"
 type: concept
 tags: [online-games, monetization, business-models]
-sources: [ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, no-202-shengdade-shengda-chuanqide-chuanqi-zhongguo-hulianwang-gushi-20-977833518]
-last_updated: 2026-08-07
+sources: [zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, no-202-shengdade-shengda-chuanqide-chuanqi-zhongguo-hulianwang-gushi-20-977833518]
+last_updated: 2026-08-16
 ---
 
 # Free-to-Play Game Monetization
@@ -14,8 +14,11 @@ In the source, Shanda's move is both adaptive and destabilizing. It responds to 
 
 [[ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu]] adds a contrast case. [[WuJunIndieGameCreator|巫君]] distinguishes mobile-game in-app purchase, draw-card, and advertising models from [[Steam]] independent games, which in his case are closer to buyout products with discounts and long-tail sales.
 
+[[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] adds [[MiniProgramGameMonetization|mini-program game monetization]] as a contemporary mobile variant. The source says China's game revenue grew much faster than user count and that mini-program mobile games continued to lead growth, with in-app purchases becoming a much larger share of revenue than the earlier advertising-heavy model.
+
 ## Connections
 - [[ShandaGames|盛大游戏]], [[Shanda|盛大]], and [[LegendOfMir|《传奇》]] — source case.
 - [[ChineseOnlineGameCommercialization]] and [[InternetCafePointCardDistribution]] — older commercialization model.
 - [[IndieGameCommercialization]], [[Steam]], and [[DigitalGameDistribution]] — buyout-style indie contrast added by EP242.
 - [[GameIPLongTail]] and [[OnlineGamePrivateServerEcosystem]] — later variants and monetization context.
+- [[MiniProgramGameMonetization]], [[WeChat]], and [[Tencent]] - platform-embedded mobile-game branch added by 声动早咖啡.

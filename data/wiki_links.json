@@ -3075,6 +3075,10 @@
     "title": "Aldhani",
     "url": "/wiki/entities/aldhani/"
   },
+  "Aldi": {
+    "title": "Aldi / 奥乐齐",
+    "url": "/wiki/entities/aldi/"
+  },
   "AldrichAmes": {
     "title": "Aldrich Ames / 奥德里奇·艾姆斯",
     "url": "/wiki/entities/aldrichames/"
@@ -7698,6 +7702,10 @@
   "ChinaFarmersBank": {
     "title": "China Farmers Bank",
     "url": "/wiki/entities/chinafarmersbank/"
+  },
+  "ChinaFilmSchedulingRisk": {
+    "title": "China Film Scheduling Risk / 中国电影档期风险",
+    "url": "/wiki/concepts/chinafilmschedulingrisk/"
   },
   "ChinaFiscalExpansionChannels": {
     "title": "China Fiscal Expansion Channels",
@@ -16483,6 +16491,10 @@
     "title": "Hard AI Infrastructure / 硬AI基础设施",
     "url": "/wiki/concepts/hardaiinfrastructure/"
   },
+  "HardDiscountRetail": {
+    "title": "Hard-Discount Retail / 硬折扣零售",
+    "url": "/wiki/concepts/harddiscountretail/"
+  },
   "HardNegativeMining": {
     "title": "Hard Negative Mining",
     "url": "/wiki/concepts/hardnegativemining/"
@@ -24594,6 +24606,10 @@
   "MiniMaxM3": {
     "title": "MiniMax M3",
     "url": "/wiki/entities/minimaxm3/"
+  },
+  "MiniProgramGameMonetization": {
+    "title": "Mini-Program Game Monetization / 小程序游戏变现",
+    "url": "/wiki/concepts/miniprogramgamemonetization/"
   },
   "MiniatureStyleSignatureTension": {
     "title": "Miniature Style-Signature Tension",
@@ -34507,6 +34523,10 @@
     "title": "Storage Industry Cyclicality",
     "url": "/wiki/concepts/storageindustrycyclicality/"
   },
+  "StoreWithinStoreFoodservice": {
+    "title": "Store-Within-Store Foodservice / 餐饮店中店",
+    "url": "/wiki/concepts/storewithinstorefoodservice/"
+  },
   "StoriesToldAMillionTimes": {
     "title": "《讲了一百万次的故事》 / Stories Told a Million Times",
     "url": "/wiki/entities/storiestoldamilliontimes/"
@@ -40183,6 +40203,10 @@
     "title": "三岛由纪夫 / Yukio Mishima",
     "url": "/wiki/entities/yukiomishima/"
   },
+  "YumChina": {
+    "title": "Yum China / 百胜中国",
+    "url": "/wiki/entities/yumchina/"
+  },
   "YunLei": {
     "title": "运雷",
     "url": "/wiki/entities/yunlei/"
@@ -43482,6 +43506,10 @@
   "zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1": {
     "title": "智力贬值的春节见闻录，与那场正在酝酿的优贷危机",
     "url": "/wiki/sources/zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1/"
+  },
+  "zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588": {
+    "title": "「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战",
+    "url": "/wiki/sources/zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588/"
   },
   "zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae": {
     "title": "中年三账户：现金流、肌肉、睡眠",

@@ -2,7 +2,7 @@
 title: "声动早咖啡"
 type: entity
 tags: [podcast, media, business, technology, china]
-sources: [trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
+sources: [zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
 last_updated: 2026-08-16
 ---
 
@@ -14,9 +14,12 @@ The show's launch frame is deliberately ritualized. Instead of advertising only 
 
 [[mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]] adds a full episode example of the show's format. The source opens with short business-tech updates on [[Tesla]], [[Xiaomi]], [[Mammut]], and [[AviationFuelSurcharge|aviation fuel surcharges]], then spends the main segment on [[Kao|花王]] and how consumer-cleaning chemistry became [[SemiconductorPrecisionCleaning|semiconductor precision cleaning]] capability.
 
+[[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] adds a broader daily roundup example. The episode moves across [[Apple]] component pressure, a Spider-Man box-office surge, [[Qwen]] and [[OpenAI]] price cuts, [[Seedance]]-style video models, mini-program games, [[Adidas]], [[Aldi]], [[YumChina|百胜中国]], [[Netflix]], and [[YouTube]], showing the show's high-density scan format rather than a single-company business-history explainer.
+
 ## Source Position
 - 声动早咖啡 is a show-launch case for [[ShortFormBusinessTechAudio]].
 - The Kao episode shows the format's mix of quick daily business updates and one deeper business-history explanation.
+- The Spider-Man/AI-price-war episode shows the show's compact multi-industry roundup mode.
 - It extends [[MorningAudioRitual]] by making news listening part of waking, coffee, commuting, and planning the day.
 - Its coffee metaphor links the show to [[Coffee|coffee / 咖啡]] and [[CaffeinatedModernity]], but the trailer uses coffee as a media-positioning device rather than a food or retail topic.
 
@@ -25,5 +28,6 @@ The show's launch frame is deliberately ritualized. Instead of advertising only 
 - [[MengYi|孟依]] - host and producer voice in the trailer.
 - [[XuTao|徐涛]] - team member quoted on morning podcast listening.
 - [[Kao]], [[SemiconductorPrecisionCleaning]], [[InterfaceScience]], and [[SurfactantTechnology]] - full-episode business-history branch added by the Kao source.
+- [[Apple]], [[Qwen]], [[Seedance]], [[Aldi]], [[YumChina]], and [[Netflix]] - cross-industry news branches added by the August 2026 roundup.
 - [[MorningAudioRitual]], [[ShortFormBusinessTechAudio]], and [[PodcastReleaseCadence]] - format and habit concepts.
 - [[Coffee|Coffee / 咖啡]] and [[CaffeinatedModernity]] - metaphor and wakefulness branch.

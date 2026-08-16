@@ -2,11 +2,13 @@
 title: "Chain Restaurant Standardization"
 type: concept
 tags: [restaurants, operations, standardization, food-safety, localization]
-sources: [vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, chef-vs-robot, vol-263-lang-de-youhuo-998128018, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
-last_updated: 2026-08-13
+sources: [zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, chef-vs-robot, vol-263-lang-de-youhuo-998128018, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
+last_updated: 2026-08-16
 ---
 
 # Chain Restaurant Standardization
+
+[[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] adds [[YumChina]] as a modular expansion case. The source says Pizza Hut China used existing stores to test cafe formats before broader rollout, while KFC stores can add categories such as milk tea or soy milk through a "store-within-store" approach; this makes [[StoreWithinStoreFoodservice]] a standardization pattern that reuses kitchens, labor, rent, and traffic instead of opening a separate format first.
 
 [[chef-vs-robot]] adds an automation layer through [[RobbyWokbot]]. The robot's touchscreen prompts, repeated timing, sauce control, and self-washing show one way standardization can move from written process and training routines into the cooking machine itself, while [[WokHei]] keeps the quality limit visible.
 
@@ -28,6 +30,7 @@ The episode's key distinction is that standardization is not the same as blindly
 - Cross-border standardization can also make unfamiliar food easier to trust when visible craft and repeatable service teach the category.
 - Cooking robots can standardize timing, heating, saucing, and cleaning, but they do not automatically standardize flavor at the level of a skilled chef.
 - Chain standardization can weaken food-court intermediaries when branded restaurants can use scale and operating systems to deal directly with mall landlords.
+- Store-within-store foodservice treats a restaurant's existing operating base as a test surface for adjacent categories, lowering the cost and risk of category expansion.
 
 ## Connections
 - [[Sushiro]] - central source case.
@@ -39,3 +42,4 @@ The episode's key distinction is that standardization is not the same as blindly
 - [[LocalMarketProof]], [[RetailSiteSelection]], and [[USRestaurantRealEstateConstraint]] - rollout disciplines that test whether the standardized model travels.
 - [[RobbyWokbot]], [[RestaurantAutomation]], and [[RobotChefCostQualityTradeoff]] - machine-standardization branch added by Planet Money.
 - [[FoodRepublic]], [[MallFoodCourtDecline]], [[ShoppingCenterRestaurantization]], and [[FoodCourtBrandIncubation]] - food-court competition branch added by the 大食代 source.
+- [[YumChina]] and [[StoreWithinStoreFoodservice]] - modular foodservice expansion branch added by 声动早咖啡.

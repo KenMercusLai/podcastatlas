@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战](sources/zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588.md) — 声动早咖啡 episode linking Apple component pressure, Spider-Man box-office concentration, AI model price cuts, C-DANCE/MiniMax video models, mini-program game monetization, Adidas marketing spend, hard-discount retail, Yum China store-within-store foodservice, and Netflix's YouTube-creator negotiations.
 - [卖香皂起家的百年花王，为什么成了半导体制造的关键企业？](sources/mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131.md) — 声动早咖啡 episode on Kao's migration from soap, detergents, surfactants, and interface science into semiconductor precision cleaning, with side items on Tesla China rumors, Xiaomi range-extended EVs, Mammut, and aviation fuel surcharges.
 - [Trailer ｜叮！下周一早晨，来杯「声动早咖啡」吧！](sources/trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439.md) — 声动早咖啡 trailer positioning a sub-15-minute Monday/Wednesday/Friday business-tech audio show as a workday morning ritual built around coffee, wakefulness, and lightweight information routines.
 - [EP274 如何找到适合自己的“更年期答案”？](sources/ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh.md) — Talk三联 episode with 萧楚舟, 孙若曦, and 南希 on menopause clinical shared decision-making, information triage, life reconstruction, male menopause visibility, family support, and workplace policy.
@@ -961,6 +962,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mammut / 猛犸象](entities/Mammut.md) — Swiss outdoor brand acquired by CPE 源峰 in the episode's China-market brand side item.
 - [CPE 源峰](entities/CPEYuanfeng.md) — Chinese private-equity investor acquiring Mammut and facing brand/channel execution questions.
 - [声动早咖啡](entities/ShengdongZaokafei.md) — 声动活泼 workday-morning podcast positioned as short, fresh, concentrated business-and-technology audio.
+- [Aldi / 奥乐齐](entities/Aldi.md) — Hard-discount grocery retailer used by 声动早咖啡 as a China expansion and low-price supermarket competition case.
+- [Yum China / 百胜中国](entities/YumChina.md) — China restaurant-chain operator used by 声动早咖啡 to explain store-within-store foodservice and lower-ticket incremental orders.
 - [孟依](entities/MengYi.md) — 声动活泼 producer and host voice introducing 声动早咖啡 through morning routines and coffee metaphor.
 - [南希 / Nanxi](entities/NanxiWanxiang.md) — 万象更新 host whose EP274 discussion connects menopause symptoms, clinic preparation, information triage, family support, and workplace realities.
 - [万象更新](entities/WanxiangGengxin.md) — Podcast and listener-community context that brings menopause and women's-health stories into the EP274 Talk三联 discussion.
@@ -6511,6 +6514,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Surfactant Technology / 表面活性剂技术](concepts/SurfactantTechnology.md) — Cleaning-chemistry capability for detaching and dispersing contaminants, extended from detergents into semiconductor cleaning.
 - [Chemical Control As Manufacturing Capability](concepts/ChemicalControlAsManufacturingCapability.md) — Pattern where validated chemical formulations become process-embedded manufacturing know-how.
 - [Range-Extended EV / 增程式电动车](concepts/RangeExtendedEV.md) — Vehicle route where a large battery carries most use cases and gasoline backup handles edge cases.
+- [Hard-Discount Retail / 硬折扣零售](concepts/HardDiscountRetail.md) — Grocery retail format that tries to make low prices structural through sourcing, private labels, assortment, and operations.
+- [Mini-Program Game Monetization / 小程序游戏变现](concepts/MiniProgramGameMonetization.md) — Platform-embedded game revenue pattern shifting from ads toward in-app purchases as user growth slows.
+- [China Film Scheduling Risk / 中国电影档期风险](concepts/ChinaFilmSchedulingRisk.md) — Release-window and screen-allocation risk highlighted by Spider-Man box-office concentration and summer-film withdrawals.
+- [Store-Within-Store Foodservice / 餐饮店中店](concepts/StoreWithinStoreFoodservice.md) — Restaurant-chain format that tests new categories inside existing kitchens, labor, rent, and traffic flows.
 - [Morning Audio Ritual / 早间音频仪式](concepts/MorningAudioRitual.md) — Use of short, repeatable listening to help move from waking into the workday through information, mood, wakefulness, and planning.
 - [Short-Form Business-Tech Audio / 短时长商业科技音频](concepts/ShortFormBusinessTechAudio.md) — Compressed business-and-technology news format designed for narrow morning listening windows and fixed release cadence.
 - [Menopause Clinical Shared Decision-Making / 更年期临床共同决策](concepts/MenopauseClinicalSharedDecision.md) — Menopause-care frame where patients prepare symptoms, priorities, constraints, and goals for risk-benefit discussion with clinicians.

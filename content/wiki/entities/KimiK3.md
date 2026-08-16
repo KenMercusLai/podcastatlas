@@ -2,11 +2,13 @@
 title: "Kimi K3"
 type: entity
 tags: [ai, model, china, coding]
-sources: [xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, yao-shunyu-laidao-tengxun-300tian-1-176-1, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
-last_updated: 2026-08-08
+sources: [zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, yao-shunyu-laidao-tengxun-300tian-1-176-1, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+last_updated: 2026-08-16
 ---
 
 # Kimi K3
+
+[[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] adds Kimi K3 as a price comparison point in the daily AI-model roundup. The source says Alibaba's new Qwen flagship is priced below Kimi K3, placing Kimi inside the same [[AIInferenceCostStructure]] and [[ClosedModelAPIMoatPressure]] frame as other Chinese and U.S. model providers.
 
 [[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] adds Kimi K3's architecture and training-infrastructure layer through [[ZhaoChenyang|赵晨阳]] and [[ZengZhiyuan|曾志远]]. The source frames K3 as a hybrid system built from [[KimiDeltaAttention|KDA]], Gated MLA, [[AttentionResidues]], [[NoPositionEncoding|NoPE]], [[QuantileBalancing]], [[PerHeadMuon]], [[MOPDPostTraining|MOPD]], [[OnPolicyDistillation]], [[KernelDevelopmentAgents]], and [[AgentIn]], not as a plain scaling run. It also sharpens the open-weight boundary: K3 can release weights and some infrastructure while still withholding the repeatable environment, verifier, data, RL, and expert-checkpoint pipeline that could produce the next model.
 
@@ -34,3 +36,4 @@ The episode-dated release-governance claim is that K3 would open weights on 2026
 - [[AIAcceleratorSupernode]] and [[DomesticAIChipCatchUp]] - hardware branch added by the WAIC supernode source.
 - [[TencentHunyuan]], [[DeepSeek]], [[MixtureOfExperts]], and [[LongChainAICompetition]] - Chinese model-competition context added by LateTalk episode 176.
 - [[ZhaoChenyang]], [[ZengZhiyuan]], [[KimiDeltaAttention]], [[AttentionResidues]], [[NoPositionEncoding]], [[QuantileBalancing]], [[PerHeadMuon]], [[KernelDevelopmentAgents]], [[AgentIn]], [[MOPDPostTraining]], and [[OnPolicyDistillation]] - LateTalk episode 177's technical report and training-infrastructure branch.
+- [[Qwen]], [[AIInferenceCostStructure]], [[ModelRoutingCostControl]], and [[ClosedModelAPIMoatPressure]] - price-comparison branch added by 声动早咖啡.

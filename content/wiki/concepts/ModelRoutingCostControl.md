@@ -2,11 +2,13 @@
 title: "Model Routing Cost Control"
 type: concept
 tags: [ai, economics, infrastructure]
-sources: [e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
-last_updated: 2026-08-08
+sources: [zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1]
+last_updated: 2026-08-16
 ---
 
 # Model Routing Cost Control
+
+[[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] adds a news-roundup version of the routing thesis. The source argues that when top model capability gaps narrow, users can choose different providers for different jobs, and that price, precision, and task fit become more salient than vendor loyalty.
 
 [[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]] adds [[OpenRouter]] as the market-layer example. [[KeithZhai]] argues that routers and model marketplaces benefit when strong open and closed models coexist, because customers have more incentive to route across price, latency, policy, context length, and task fit rather than defaulting to one closed frontier provider.
 
@@ -33,6 +35,7 @@ The concept is the user- and product-workflow version of the serving-side routin
 - A local-agent stack may route across remote frontier models, domestic subscription models, local models, and deterministic tools in one workflow; the right split depends on which step needs reasoning, privacy, speed, or low cost.
 - Production routing should distinguish development-time model use from runtime model use; the model that builds a tool need not be the model that executes every later call.
 - Routing platforms become more valuable when open weights create many viable models with different license, latency, sovereignty, and safety profiles.
+- Price cuts by multiple providers make routing less theoretical: model choice can become a live product and procurement decision even for ordinary users.
 
 ## Connections
 - [[AIInferenceCostStructure]] and [[AISubscriptionEconomics]] — cost and quota pressure that makes routing necessary.
@@ -45,3 +48,4 @@ The concept is the user- and product-workflow version of the serving-side routin
 - [[OpenClaw]], [[Kimi]], and [[ProbabilisticSoftware]] — local-agent cost and safety case added by Keji Luandun.
 - [[KimiK3]], [[WAIC]], [[TopModelBuildRuntimeSplit]], and [[SpeechToTextCostOptimization]] — intent routing, build/runtime split, and audio-cost case added by the K3 episode.
 - [[OpenRouter]], [[ModelSovereignty]], [[AgentInferenceWorkload]], and [[ClosedModelAPIMoatPressure]] - E246's routing-market and agent-serving extension.
+- [[Qwen]], [[KimiK3]], [[OpenAI]], and [[Anthropic]] - model-provider set added by the 声动早咖啡 price-war source.

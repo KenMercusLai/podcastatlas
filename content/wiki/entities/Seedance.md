@@ -2,13 +2,15 @@
 title: "Seedance"
 type: entity
 tags: [ai, video, model, bytedance]
-sources: [duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
-last_updated: 2026-08-08
+sources: [zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
+last_updated: 2026-08-16
 ---
 
 # Seedance
 
 Seedance is the [[ByteDance]] video-model product referenced in the wiki's AI-video sources. [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] treats Seedance 2.0 as a strong [[VideoModels]] signal because of clearer images, more cinematic movement, stronger camera behavior, and visible international demand.
+
+[[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] adds C-DANCE 2.5 as a current product-update point in the same ByteDance video branch. The source says single-generation duration doubled to 30 seconds and that the model improved long narrative ability, multimodal reference handling, and editing; it also says C-DANCE had been used at scale in China's short-drama industry and had taken some overseas market left open after [[Sora]].
 
 [[zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]] adds an earlier practical interpretation: hosts discuss ByteDance video generation as moving from mockups and sample production toward content that can replace parts of filming, advertising, and customer-facing presentation.
 
@@ -32,6 +34,7 @@ Seedance is the [[ByteDance]] video-model product referenced in the wiki's AI-vi
 - Episode 267 adds the low-budget AI short-drama case where improved video generation made a 19-day production cycle plausible, while editing still remained the bottleneck.
 - The What's Next source adds that C-DANCE 2.0-style multi-reference generation can shift labor away from raw image selection and toward director intent, assets, storyboards, and performance judgment.
 - The LateTalk source adds Seedance as an upstream API reference point in [[LibTV]] pricing debates, not as the full explanation for the application business.
+- The 声动早咖啡 source adds C-DANCE 2.5's longer generation duration and commercialized short-drama usage as a fresh video-model competition signal.
 
 ## Connections
 - [[ByteDance]] — company context.
@@ -44,3 +47,4 @@ Seedance is the [[ByteDance]] video-model product referenced in the wiki's AI-vi
 - [[AnhuiXiaoMujiang]] and [[XiaoGuoGege]] — episode 267 production case.
 - [[Chouxiangzai]], [[Taitai]], [[AIDirectorCoreWorkflow]], and [[AIShortDramaOverseasLocalization]] — director-core and overseas short-drama branch added by What's Next.
 - [[LibTV]], [[Evoken]], [[AIStartupUnitEconomics]], and [[AISubscriptionEconomics]] — downstream application-pricing branch added by LateTalk.
+- [[MiniMax]], [[Sora]], [[VideoModels]], and [[AIVideoProductionWorkflow]] - C-DANCE 2.5 comparison and commercialization branch added by 声动早咖啡.

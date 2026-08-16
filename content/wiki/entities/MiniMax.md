@@ -2,8 +2,8 @@
 title: "MiniMax"
 type: entity
 tags: [company, ai, models]
-sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]
-last_updated: 2026-08-07
+sources: [zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]
+last_updated: 2026-08-16
 ---
 
 # MiniMax
@@ -18,6 +18,8 @@ MiniMax is the AI model company hosting the Developer Meetup captured in [[duihu
 
 [[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] adds MiniMax as part of the 2026 model-side market heat. [[QuKai]] says Zhipu and MiniMax listings were read by some observers as a sign of peaking, but the broader episode treats model momentum as stronger than application momentum at that point.
 
+[[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] adds MiniMax through the source-named H3 multimodal model. The episode says H3 is open and can generate 15-second stereo video at roughly half the price of comparable products, placing MiniMax inside both [[VideoModels]] and [[AIInferenceCostStructure]] price competition.
+
 ## Source Position
 - MiniMax is presented as trying to make developer-facing meetups a continuing activity rather than a one-off event.
 - Its M2/M2.7 work is described as focused on coding and editing rather than balanced coverage of every general chat scenario.
@@ -30,6 +32,7 @@ MiniMax is the AI model company hosting the Developer Meetup captured in [[duihu
 - The Keji Luandun OpenClaw episode uses MiniMax less as a model-company case and more as an example of low-threshold AI deployment where platform safety layers can change generated code.
 - Episode 136 treats MiniMax as part of a domestic model-company shift toward coding, agents, and high-value work.
 - The 42章经 recap uses MiniMax as part of the model-market heat that contrasts with the application-market trough.
+- The 声动早咖啡 source treats MiniMax H3 as an open multimodal video model competing on generated-video duration, audio, and price.
 
 ## Connections
 - [[YanJunjie]] — founder and CEO speaking for the company in the roundtable.
@@ -44,3 +47,4 @@ MiniMax is the AI model company hosting the Developer Meetup captured in [[duihu
 - [[AICodingVerification]] and [[ProbabilisticSoftware]] — deployment and platform-safety boundary added by Keji Luandun.
 - [[Kimi]], [[ZhipuAI]], [[Doubao]], [[AGIThreeActs]], and [[ModelAsOperatingSystem]] — domestic-model strategy frame added by episode 136.
 - [[AIApplicationMarketTrough]], [[ZhipuAI]], and [[AICommercializationPressure]] — mid-2026 model/application market split added by 42章经.
+- [[VideoModels]], [[Seedance]], [[AIVideoProductionWorkflow]], and [[AIInferenceCostStructure]] - H3 video-model and pricing branch added by 声动早咖啡.

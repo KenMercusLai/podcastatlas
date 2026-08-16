@@ -2,11 +2,13 @@
 title: "Restaurant Supply Chain Localization"
 type: concept
 tags: [restaurants, supply-chain, food, china, operations]
-sources: [vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]
-last_updated: 2026-08-13
+sources: [zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]
+last_updated: 2026-08-16
 ---
 
 # Restaurant Supply Chain Localization
+
+[[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] adds a [[YumChina]] example where localized supply and store operations support adjacent-category expansion. The source frames lower-ticket cafe and beverage modules as a way to reuse existing KFC and Pizza Hut assets, making supply chain readiness part of [[StoreWithinStoreFoodservice]] rather than only a new-store rollout constraint.
 
 Restaurant supply chain localization is the process by which a chain restaurant adapts sourcing, processing, logistics, and supplier standards to the local market while preserving a repeatable product promise. In [[vol-263-lang-de-youhuo-998128018]], [[Sushiro]] uses global procurement, local cold-chain capability, domestic seafood alternatives, and detailed supplier requirements to make [[ConveyorBeltSushi]] scalable in China.
 
@@ -30,6 +32,7 @@ The concept extends the wiki's food-operations branch beyond packaged-goods logi
 - Localized supply can change the food's form, not only its cost, when processors create smoked fish, grilled eel, small foie gras packs, or other [[PreparedHighValueFoodFormats]].
 - Farmers-market relationships can localize restaurant supply by letting chefs and growers coordinate seasonal demand before planting decisions.
 - Chain supply systems can turn malls from food-court aggregators into direct restaurant channels when brands can control cost, quality, and throughput across stores.
+- Shared supply and store systems can make adjacent categories viable inside existing restaurant footprints before they justify independent stores.
 
 ## Connections
 - [[Sushiro]] - central source case.
@@ -42,3 +45,4 @@ The concept extends the wiki's food-operations branch beyond packaged-goods logi
 - [[ChineseNewSpecialtyAquaculture]], [[SalmonTroutLabelTransparency]], [[EelSeedPriceVolatility]], [[FoieGrasWelfareTradeoff]], and [[PreparedHighValueFoodFormats]] - EP260 high-value food localization branch.
 - [[Greenmarket]], [[UnionSquare]], [[GrowNYC]], and [[FarmersMarketUrbanism]] - market-mediated local sourcing branch added by The Intelligence.
 - [[FoodRepublic]], [[ChainRestaurantStandardization]], [[MallFoodCourtDecline]], and [[ShoppingCenterRestaurantization]] - food-court competition branch added by the 大食代 source.
+- [[YumChina]] and [[StoreWithinStoreFoodservice]] - adjacent-category reuse branch added by 声动早咖啡.

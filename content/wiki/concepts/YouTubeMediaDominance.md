@@ -2,11 +2,13 @@
 title: "YouTube Media Dominance"
 type: concept
 tags: [media, platforms, advertising, creators]
-sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources: [zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128]
+last_updated: 2026-08-16
 ---
 
 # YouTube Media Dominance
+
+[[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] adds a creator-format acquisition signal. The source says [[Netflix]] sought talks with Hot Ones producer First We Feast, which suggests YouTube-native franchises can become strategic content supply for subscription streamers rather than only competing for ad-supported attention.
 
 [[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds a legacy-media dependence signal. [[NBCUniversal]]'s [[PeacockStreaming|Peacock]] content is placed inside [[YouTubePremium|YouTube Premium]], showing that a traditional media company may treat [[YouTube]] as core viewing infrastructure rather than only a competitor for attention.
 
@@ -20,6 +22,7 @@ YouTube media dominance is the platform position described in [[tech-20260313-03
 - Alphabet's broader data, product, and AI ecosystem can help YouTube improve audience targeting and creator tools.
 - AI can help creators make more polished, targeted, and efficient content, but the episode treats that as an extension of the existing platform flywheel rather than a standalone media strategy.
 - Legacy streamers and Hollywood companies can learn from YouTube's willingness to combine content, technology, targeting, and creator services.
+- Streamers seeking YouTube-native creator formats signal that YouTube's advantage includes repeatable show formats and audience proof, not only distribution scale.
 
 ## Connections
 - [[YouTube]], [[MoffettNathanson]], [[Alphabet]], and [[Google]] - source platform, report source, and parent-company context.
@@ -27,3 +30,4 @@ YouTube media dominance is the platform position described in [[tech-20260313-03
 - [[MediaInternetConvergence]] - older thesis that internet distribution and media economics merge.
 - [[UserPoweredContentPlatform]] and [[CreatorCulture]] - adjacent creator/user-supply concepts.
 - [[AIContentDevaluation]] - adjacent risk when AI makes content cheaper and more abundant.
+- [[Netflix]] and [[StreamingPlatformBundling]] - creator-format branch added by 声动早咖啡.
