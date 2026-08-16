@@ -2,8 +2,8 @@
 title: "GLP-1 Agonists"
 type: concept
 tags: [healthcare, drugs, metabolism, weight-loss]
-sources: [156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]
-last_updated: 2026-08-13
+sources: [meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109, 156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7, working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]
+last_updated: 2026-08-16
 ---
 
 # GLP-1 Agonists
@@ -20,6 +20,8 @@ The source distinguishes the category's public popularity from the safety status
 
 [[caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]] adds a consumer-demand spillover note. The fast-food segment treats GLP-1 drugs as one possible pressure on old fast-food habits, alongside inflation, health concerns, food-safety fear, and grocery competition in the broader [[FastFoodDemandReset]].
 
+[[meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109]] adds a hair-care demand spillover note. The source says [[LOreal|L'Oreal / 欧莱雅]]'s CEO linked the current hair-care boom partly to GLP-1 popularity and related hair-loss concerns. The wiki should keep this as a consumer-demand and marketing context for [[PremiumHaircareMarket]], not as a clinical claim about any one drug or user.
+
 ## Key Claims
 - GLP-1 awareness helps explain why injectable peptides became legible to non-specialists.
 - Demand for cheaper GLP-1-like effects can spill into unapproved supply channels.
@@ -30,6 +32,7 @@ The source distinguishes the category's public popularity from the safety status
 - Episode 156 adds that capacity, sales guidance, persistence of use, and discontinuation rebound are central to GLP-1 market interpretation.
 - The dementia source adds that negative early treatment results in established dementia do not settle whether earlier metabolic prevention could affect later risk.
 - The fast-food source adds that GLP-1 adoption may affect restaurant demand, but only as one factor among price, safety, and health pressures.
+- The hair-care source adds that GLP-1 popularity can spill into beauty demand when users or marketers connect weight-loss treatment to hair-loss anxiety.
 
 ## Connections
 - [[Ozempic]] - named product reference point in the episode.
@@ -41,3 +44,4 @@ The source distinguishes the category's public popularity from the safety status
 - [[BiotechBDDataValidationPhase]] - broader 2026 pharma execution context.
 - [[AlzheimerDrugEfficacyGap]], [[ModifiableDementiaRiskFactors]], and [[CardiovascularBrainHealthLink]] - dementia-prevention and treatment-boundary context added by The Intelligence.
 - [[FastFoodDemandReset]], [[McDonalds|McDonald's]], [[TacoBell]], and [[BurgerKing]] - consumer-demand branch added by the Caracas episode.
+- [[HairLossFollicleCycle]], [[PremiumHaircareMarket]], and [[HaircareSkincareization]] - hair-care demand branch added by the 声动早咖啡 source.

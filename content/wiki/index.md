@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [美妆巨头集体盯上头发，洗护生意为何又热起来？](sources/meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109.md) — 声动早咖啡 episode linking Pinduoduo next-day fulfillment, Walmart community stores, SHEIN Vietnam warehouse retrenchment, and a main explainer on hair-care skincare-ization, premium haircare, salon trust, and social-media beauty problem naming.
 - [中国消费者带动拉夫劳伦增长，东航优化机票退改签政策](sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805.md) — 声动早咖啡 episode linking Ralph Lauren's China-led growth and channel tightening, China Eastern's refund/change-policy optimization, German luxury-car China pressure, Apple Watch form-factor experiments, Airbnb internal AI productivity, Paramount theatrical-window bargaining, World Cup ad inventory, and ByteDance distillation governance.
 - [巴黎水和圣培露还能赚钱，雀巢为何要剥离水业务？](sources/bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453.md) — 声动早咖啡 episode on Nestle moving Perrier, San Pellegrino, Acqua Panna, and other water/premium-beverage brands into a Platinum Equity joint venture, linking bottled-water margins, source risk, packaging/logistics cost, CPG portfolio focus, and side updates on Alo Yoga/Tmall, OpenAI hardware, DeepSeek/Qwen pricing, and Yum China/Pizza Hut China.
 - [咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？](sources/kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054.md) — 声动早咖啡 episode linking Google DeepMind, Douyin ecommerce, Disney streaming, World Cup beer consumption, and a main explainer on wagyu buffet economics, grading, regional branding, and premium food storytelling.
@@ -960,6 +961,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [SHEIN](entities/SHEIN.md) — Cross-border fashion ecommerce company whose Vietnam warehouse retrenchment shows supply-chain relocation depends on efficiency and total cost, not only tariff pressure.
+- [Kérastase / 卡诗](entities/Kerastase.md) — L'Oreal professional hair-care brand used to explain premium haircare, salon trust, and category growth beyond basic shampoo.
+- [Vichy / 薇姿](entities/Vichy.md) — L'Oreal dermatology-adjacent beauty brand used in the source's hair-care growth and scalp/ingredient credibility discussion.
+- [CeraVe / 适乐肤](entities/CeraVe.md) — L'Oreal skincare brand whose hair-care growth example illustrates skincare-style trust moving into hair care.
+- [Moroccanoil / 摩洛哥油](entities/Moroccanoil.md) — Salon-origin hair-care brand used to show how professional credibility can move into everyday consumer routines.
+- [Head & Shoulders / 海飞丝](entities/HeadAndShoulders.md) — Mass hair-care brand used as a contrast to premium, functional, and salon-backed growth in the 2026 hair-care source.
+- [Bee & Flower / 蜂花](entities/BeeAndFlower.md) — Legacy low-priced Chinese hair-care brand used as a mass-market contrast to premium and function-led hair-care growth.
 - [Ralph Lauren](entities/RalphLauren.md) — Fashion and lifestyle brand whose China-led growth and planned channel tightening illustrate multi-price-band luxury branding.
 - [China Eastern Airlines / 东方航空](entities/ChinaEasternAirlines.md) — Chinese airline using a looser 14-day free refund/change cutoff to reduce early-booking hesitation and appeal to business travelers.
 - [Mercedes-Benz](entities/MercedesBenz.md) — German luxury automaker used in the source's China margin and sales-pressure comparison.
@@ -6550,6 +6558,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Haircare Skincare-ization / 护发护肤化](concepts/HaircareSkincareization.md) — Hair-care category shift toward skincare-like ingredients, scalp management, multi-step routines, and higher-value product claims.
+- [Premium Haircare Market / 高端洗护市场](concepts/PremiumHaircareMarket.md) — Hair-care growth pattern where anti-loss, scalp care, oils, repair, scent, and salon-backed products create higher willingness to pay than basic shampoo.
+- [Salon Channel Trust / 沙龙渠道信任](concepts/SalonChannelTrust.md) — Professional stylist and salon distribution trust that helps high-end hair-care brands justify price and escape mass shampoo competition.
+- [Beauty Problem Naming / 审美问题命名](concepts/BeautyProblemNaming.md) — Social-media mechanism where ordinary appearance features become named, searchable, comparable, and productized beauty problems.
 - [German Luxury Car China Pressure / 德系豪华车中国压力](concepts/GermanLuxuryCarChinaPressure.md) — Margin and sales squeeze on German luxury automakers as Chinese new-energy brands enter premium price bands.
 - [Wearable Form-Factor Pressure](concepts/WearableFormFactorPressure.md) — Product-strategy pressure on established wearables when bands, rings, screens, tiers, and AI assistant roles shift.
 - [AI Product Development Acceleration](concepts/AIProductDevelopmentAcceleration.md) — Internal AI use that shortens product-feature cycles and raises release cadence before consumer-facing AI becomes prominent.

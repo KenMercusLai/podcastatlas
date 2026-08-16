@@ -2,11 +2,13 @@
 title: "Walmart"
 type: entity
 tags: [company, retail, commerce]
-sources: [tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, board-games-3-whats-in-a-name, costco-1]
-last_updated: 2026-08-05
+sources: [meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109, tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, board-games-3-whats-in-a-name, costco-1]
+last_updated: 2026-08-16
 ---
 
 # Walmart
+
+[[meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109]] adds Walmart's China community-store expansion. The source says Walmart opened its 20th community store in Shenzhen Futian, with stores of roughly 500-1000 square meters focused on fewer high-frequency daily goods. The episode treats the format as a route to more frequent neighborhood demand, but also as a test of localized supply-chain and small-store operations.
 
 [[tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128]] adds Walmart as the concrete retail example in a [[SurveillancePricing]] discussion. [[KristinSchwab]] compares a signed-in and anonymous Walmart.com session for the same Colgate toothpaste and shipping address and sees different prices, while Walmart says price differences can reflect market variation and real-time price matching or repricing. The source makes Walmart a case of retail price opacity, not proven individualized pricing.
 
@@ -31,3 +33,4 @@ The page also connects to the existing [[Yihaodian]] branch, where Walmart appea
 - [[SellMeASasquatch]], [[ExplodingKittens]], and [[RetailShelfAppeal]] - board-game retail branch added by Planet Money.
 - [[SamWalton]], [[SamsClub|Sam's Club]], [[PriceClub]], [[Costco]], [[WarehouseClubModel]], and [[EmployeeRetentionEconomics]] - warehouse-club comparison added by Acquired.
 - [[EVChargingInfrastructure]] and [[EVTaxCreditCliff]] - charging-network context added by the December 2025 Marketplace Tech episode.
+- [[RetailSiteSelection]], [[InstantRetail]], and [[EcommerceFulfillmentComplexity]] - community-store and high-frequency local-demand branch added by the 声动早咖啡 source.
