@@ -2,8 +2,8 @@
 title: "Fable 5"
 type: entity
 tags: [ai-model, coding, agents]
-sources: [xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
-last_updated: 2026-08-08
+sources: [vol-171-jiaru-women-you-wuxian-token-1-6682-1, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
+last_updated: 2026-08-16
 ---
 
 # Fable 5
@@ -16,12 +16,15 @@ The source repeatedly separates model capability from workflow wrapper. Some of 
 
 [[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] mentions Fable 5 as the frontier model comparison point for K3's perceived long-agent and coding ability. The source does not re-evaluate Fable 5 directly; it uses the comparison to show why a strong open-weight [[KimiK3|Kimi K3]] can pressure closed-model pricing, workflow choice, and [[Anthropic]] valuation narratives.
 
+[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds Fable 5 as part of the host's everyday [[UnlimitedTokenWorkflow]] experiments. The episode frames high-end subscription access as a way to experience what longer, richer AI work loops make possible, while also showing that more capability increases the number of plans, reviews, and artifacts waiting for human acceptance.
+
 ## Source Position
 - Fable 5 is framed as a high-end coding and reasoning model whose strongest value appears in [[OneShotAICoding]], planning, review triage, and product-quality judgment.
 - The hosts suspect the reopened version may not be the earliest "full-power" variant, but still describe it as a step change in day-to-day coding work.
 - Its practical bottleneck is not only intelligence; Fable-specific limits, subscription constraints, and API spending make [[AIInferenceCostStructure]] central to whether users can rely on it.
 - The preferred workflow is to use Fable 5 for discussion, PRD/spec/issue planning, and acceptance review, while delegating implementation or code review to [[Codex]] when appropriate.
 - The LateTalk source adds that model quality can be undermined by access limits or hidden routing behavior when the user depends on a frontier model for research or coding.
+- Vol. 171 adds that high-end model access can change the user's horizon: the point is not only faster code, but the ability to try longer loops, multiple agents, and lower-certainty work that would otherwise feel too expensive.
 
 ## Connections
 - [[Codex]] — execution and review counterpart in the described workflow.
@@ -30,3 +33,4 @@ The source repeatedly separates model capability from workflow wrapper. Some of 
 - [[TokenDrivenSoftware]] and [[ModelRoutingCostControl]] — downstream product and cost-control ideas prompted by the model's capability jump.
 - [[Anthropic]], [[GPT56]], and [[FrontierModelAccessRestrictions]] — Q2 2026 frontier-model comparison added by the LateTalk source.
 - [[KimiK3]], [[ClosedModelAPIMoatPressure]], and [[OpenWeightReleaseBoundary]] — K3 comparison branch added by LateTalk episode 177.
+- [[UnlimitedTokenWorkflow]], [[AIUsePacing]], and [[HumanJudgmentUnderAI]] — Vol. 171's abundant-token and review-bottleneck branch.

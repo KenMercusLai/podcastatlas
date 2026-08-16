@@ -2,8 +2,8 @@
 title: "One-Person Company"
 type: concept
 tags: [ai, entrepreneurship, company-formation, sales]
-sources: [in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74, ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx, openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi, stuck-at-50k-arr-for-5-years-now-1-5m-with-ai-agents]
-last_updated: 2026-08-08
+sources: [vol-171-jiaru-women-you-wuxian-token-1-6682-1, in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74, ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx, openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi, stuck-at-50k-arr-for-5-years-now-1-5m-with-ai-agents]
+last_updated: 2026-08-16
 ---
 
 # One-Person Company
@@ -36,6 +36,8 @@ The legal discussion matters because "one person" does not make company obligati
 
 [[in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74]] adds a public-economy version through the U.S. self-employment boom. The episode cites [[SamAltman]]'s billion-dollar one-person-firm idea but keeps it inside a broader question: if [[AIEnabledSelfEmployment]] lets more people start firms that do not initially hire anyone, employment and payroll may become weaker measures of business formation.
 
+[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds an outsourcing-price-compression version. The hosts argue that if AI can cover more product, design, development, testing, marketing, and support work, low- and mid-complexity outsourcing may be repriced from team-sized quotes toward solo-operator or tiny-team economics. The source keeps the same boundary as this page: execution leverage does not remove customer demand, delivery responsibility, or physical-world constraints.
+
 ## Key Claims
 - AI-era OPC should not be reduced to company registration; it is a claim about whether one person can run the business loop.
 - A one-person legal structure may still need careful account separation, tax handling, and documentation to preserve the intended liability boundary.
@@ -58,6 +60,7 @@ The legal discussion matters because "one person" does not make company obligati
 - The Liu Kefan source adds that OPC also needs psychological process design: low-friction starts, falsifiable experiments, and fixed shutdown boundaries can be as important as AI leverage.
 - The Intelligence self-employment source adds a measurement caveat: AI-enabled solo businesses may matter economically even when they do not show up as employer-firm job growth.
 - [[OnePersonFund]] is a separate OPF speculation: it asks whether one person can turn AI-assisted information work into trading returns, not whether they can operate a customer-facing company.
+- Vol. 171 adds that AI may collapse some outsourcing prices by lowering implementation cost, but it does not eliminate product judgment, sales, QA, support, compliance, hardware execution, or customer trust.
 
 ## Connections
 - [[WhatsNextKejiZaozhidao]], [[YuYi]], [[CangShifu]], [[AmazonWebServices]], and [[FromIdeaToFrontier]] — S10E18's show, guest, and accelerator context.
@@ -81,3 +84,4 @@ The legal discussion matters because "one person" does not make company obligati
 - [[GeorgeGeorgiadis]], [[Happierleads]], [[AIInternalOperatingSystem]], and [[OutboundEmailGrowthEngine]] — solo-SaaS operating case added by The SaaS Podcast.
 - [[LiuKefan]], [[TryCatchFinallySelfManagement]], [[FalsifiableProductHypothesis]], and [[FounderWorkBoundaries]] — solo-builder self-management case added by Hard Hacker.
 - [[SamAltman]], [[FullTimeSelfEmploymentBoom]], [[AIEnabledSelfEmployment]], and [[EntrepreneurshipInfrastructure]] - U.S. self-employment and one-person-firm measurement branch added by The Intelligence.
+- [[UnlimitedTokenWorkflow]], [[VibeCoding]], [[TokenDrivenSoftware]], and [[ConsumerHardwareStartupRisk]] - Vol. 171's outsourcing and solo-operator branch.

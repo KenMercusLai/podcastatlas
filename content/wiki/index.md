@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol. 171 假如我们有无限 Token](sources/vol-171-jiaru-women-you-wuxian-token-1-6682-1.md) — 枫言枫语 episode on heavy AI-coding use, near-unlimited token access, long-running agents, loop design, disposable software, personalized app variants, hardware constraints, translation, education, and safety boundaries.
 - [咖啡豆｜两次遭遇苹果冲击，运动手表佳明为何还能增长？](sources/kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684.md) — 声动早咖啡 episode linking Dipsig V4 Pro, Tencent WorkBody investment, Lakers valuation, Claude watermarking, and a main Garmin explainer on GPS roots, phone navigation commoditization, professional wearable moats, and vertical integration.
 - [星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约](sources/xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195.md) — 声动早咖啡 episode linking Starbucks and Li-Ning rumor denials, AI data-center buildout, Meta Muse open weights, bottled-beverage pressure, China auto demand weakness, Sony-TSMC image sensors, Spotify AI persona labels, and Doubao hotel-order fees.
 - [美妆巨头集体盯上头发，洗护生意为何又热起来？](sources/meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109.md) — 声动早咖啡 episode linking Pinduoduo next-day fulfillment, Walmart community stores, SHEIN Vietnam warehouse retrenchment, and a main explainer on hair-care skincare-ization, premium haircare, salon trust, and social-media beauty problem naming.
@@ -10962,6 +10963,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Turnkey Handset Solutions](concepts/TurnkeyHandsetSolutions.md) — Integrated chipset and phone-design packages that lowered the barrier to building feature phones.
 - [U.S. Recession Risk](concepts/USRecessionRisk.md) — Macro-risk frame using labor, manufacturing, consumption, leverage, policy, and market valuation signals.
 - [Underground Money Transfer Risk](concepts/UndergroundMoneyTransferRisk.md) — Risk from overseas trading or investment platforms that route RMB and withdrawals through unrelated domestic accounts or informal exchange chains.
+- [Unlimited Token Workflow](concepts/UnlimitedTokenWorkflow.md) — Agent workflow frame where abundant token access makes long-running, multi-agent, and low-certainty tasks thinkable while shifting scarcity to review, judgment, and pacing.
 - [University Opportunity Density](concepts/UniversityOpportunityDensity.md) — Value created by a university's city, labs, peers, events, recruiting access, school culture, and practice surfaces.
 - [Upward Management](concepts/UpwardManagement.md) — Influencing bosses and higher-power stakeholders through demand clarification, decision support, and expectation setting.
 - [Validated Learning](concepts/ValidatedLearning.md) — Lean Startup principle that startups progress by testing assumptions against real customer behavior.

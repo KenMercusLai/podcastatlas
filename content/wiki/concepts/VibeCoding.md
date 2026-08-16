@@ -2,8 +2,8 @@
 title: "Vibe Coding"
 type: concept
 tags: [ai-coding, software-engineering, learning]
-sources: [moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
-last_updated: 2026-08-10
+sources: [vol-171-jiaru-women-you-wuxian-token-1-6682-1, moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
+last_updated: 2026-08-16
 ---
 
 # Vibe Coding
@@ -44,6 +44,8 @@ Vibe coding is the AI-assisted practice of using coding tools such as [[Cursor]]
 
 [[moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk]] adds the [[Runta]] internal-practice version. [[DaiGuanlan|戴冠兰]] says most implementation inside Runta is AI-assisted, while still reserving architecture, API design, module boundaries, and result responsibility for engineers. The source therefore treats vibe coding as a high-leverage workflow that raises the value of [[AIEngineeringThinking]] rather than replacing it.
 
+[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds the output-congestion version. The hosts describe using vibe coding across old projects, new ideas, market research, code review, one-page tools, generated demo sites, and migrations, then finding that "made" is not the same as published, read, accepted, or productized.
+
 ## Key Claims
 - Vibe coding can reduce some coding, search, and debugging time, but conversation, waiting, review, and repair can make total work slower on familiar complex repositories.
 - Its value is strongest when it helps users learn by building real projects rather than studying a framework in isolation.
@@ -74,6 +76,7 @@ Vibe coding is the AI-assisted practice of using coding tools such as [[Cursor]]
 - Treating English prompts as source code raises the importance of specifications, tests, acceptance criteria, and product intent.
 - A vibe-coded product can be acquisition-visible, but the source argues that domain expertise, market context, and creator judgment still matter.
 - The Runta source adds that high-percentage AI-written code is compatible with serious infrastructure work only when humans retain architecture judgment and ownership of final correctness.
+- Vol. 171 adds that abundant-token vibe coding can create more unfinished artifacts than the user can review, so the bottleneck shifts toward task choice, release judgment, and pacing rather than code generation alone.
 
 ## Connections
 - [[Cursor]], [[ClaudeCode]], [[GeminiCLI]], [[Windsurf]], and [[Devin]] — tools and products in the source's AI coding market map.
@@ -99,3 +102,4 @@ Vibe coding is the AI-assisted practice of using coding tools such as [[Cursor]]
 - [[ProbabilisticSoftware]], [[HumanJudgmentUnderAI]], and [[AICodingVerification]] — Keji Luandun's temporary-tool and context-loss boundary.
 - [[PingGe]], [[AICommunicationAbility]], [[OutputQualityGates]], and [[AIUsePacing]] — E163's non-programmer confidence and pacing boundary.
 - [[PaulGraham]], [[Replit]], and [[AmjadMasad]] — YC offsite source for the revenue signal and source-code/object-code framing.
+- [[UnlimitedTokenWorkflow]], [[AIUsePacing]], [[TokenDrivenSoftware]], and [[OutputQualityGates]] — Vol. 171's output-backlog and disposable-software branch.

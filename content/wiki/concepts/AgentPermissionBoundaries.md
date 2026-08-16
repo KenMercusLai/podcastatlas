@@ -2,8 +2,8 @@
 title: "Agent Permission Boundaries"
 type: concept
 tags: [agents, security, governance]
-sources: [moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk, keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
-last_updated: 2026-08-10
+sources: [vol-171-jiaru-women-you-wuxian-token-1-6682-1, moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk, keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
+last_updated: 2026-08-16
 ---
 
 # Agent Permission Boundaries
@@ -36,6 +36,8 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 
 [[moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk]] adds [[Runta]]'s temporary-permission pattern. [[DaiGuanlan|戴冠兰]] describes assigning an agent the authority required for a specific task, then withdrawing it immediately after completion. The source also adds [[AgentApprovalFatigue]]: repeated confirmations can push users toward broader trust than the workflow actually needs.
 
+[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds two boundaries. First, household robots and home agents may see photos, objects, routines, and private spaces, so useful automation needs privacy norms before it becomes ordinary. Second, the hosts treat high-risk weapon manufacturing as a case where model refusal is appropriate rather than an annoying guardrail.
+
 [[tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3]] adds the bystander-recording version through [[Limitless]]. [[DanSiroker]] says the wearable pendant should use [[ConsentBasedRecording]] so a new voice is not recorded until that person has opted in. This extends permission boundaries beyond the user's own accounts and tools: a personal AI can affect other people who did not choose the product.
 
 [[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] adds the smart-glasses version. [[WillGottsagen]] describes AI glasses that can see, hear, translate, and identify context around the wearer. Even before the assistant takes an action, the device's sensing permissions affect bystanders, because other people may be seen, heard, recognized, or translated without operating the product themselves.
@@ -63,6 +65,7 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 - Agent spending needs its own boundary layer because payment mistakes create immediate financial loss, disputed liability, merchant fulfillment problems, and credential-exposure risk.
 - Small autonomous purchases can be safe only when the budget, source of spend, task reason, and responsible actor remain traceable.
 - Task-scoped permission grants can reduce approval fatigue without turning an agent's temporary need into standing access over email, credentials, customer data, or production systems.
+- Vol. 171 adds that physical-world agents expand permission boundaries beyond files and accounts into homes, bystanders, household inventory, and dangerous fabrication knowledge.
 
 ## Connections
 - [[OpenClaw]], [[JustinYan]], and [[Zili]] — source context for personal-agent safety.
@@ -84,3 +87,4 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 - [[Kuse]], [[Junior]], [[AgentEvaluationBenchmarks]], and [[EnterpriseAgentMemory]] — enterprise AI employee permissions and safety-test case added by the Yuhao source.
 - [[AgentPaymentInfrastructure]], [[AgentSpendControls]], [[Clink]], and [[Visa]] — payment-mandate and bounded-spend branch added by What's Next S10E22.
 - [[Runta]], [[DaiGuanlan]], [[AgentRuntimeExecutionLayer]], and [[AgentApprovalFatigue]] — temporary permission and approval-fatigue pattern added by the Runta source.
+- [[UnlimitedTokenWorkflow]], [[AIHardwarePrivacyExchange]], [[AIGovernanceAndCompliance]], and [[HumanJudgmentUnderAI]] — household privacy and high-risk safety boundaries added by Vol. 171.

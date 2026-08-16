@@ -2,8 +2,8 @@
 title: "Token Maxxing"
 type: concept
 tags: [ai, tokens, economics, investing]
-sources: [moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk, openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]
-last_updated: 2026-08-10
+sources: [vol-171-jiaru-women-you-wuxian-token-1-6682-1, moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk, openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]
+last_updated: 2026-08-16
 ---
 
 # Token Maxxing
@@ -20,6 +20,8 @@ The concept extends [[AIInferenceCostStructure]] and [[AIInvestmentMetrics]]. To
 
 [[moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk]] adds the company-policy version through [[Runta]]. [[DaiGuanlan|戴冠兰]] says the team initially encouraged broad AI use, then added light friction when usage exceeded plan limits so people had to explain what extra tokens were for. The source reframes token maxxing as an adoption-stage tactic that should eventually become token-minimizing discipline tied to value, budget, and [[AgentRuntimeExecutionLayer|runtime]] visibility.
 
+[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds the [[UnlimitedTokenWorkflow]] version. The hosts distinguish ordinary quota chasing, multiple subscriptions, API/OpenRouter use, and a real abundant-token horizon. The point is that a user who stops treating every run as scarce attempts longer coding, testing, research, translation, and one-off software tasks, which makes review capacity and task selection more important than raw token volume.
+
 ## Key Claims
 - Total token use can rise because more users and workflows adopt AI even while individual tasks become more token-efficient.
 - A strong model can sometimes complete a coding task with less output and less repair work than a weaker model that generates many more tokens.
@@ -31,6 +33,7 @@ The concept extends [[AIInferenceCostStructure]] and [[AIInvestmentMetrics]]. To
 - Token budget can also become a customer-segmentation axis: an individual founder or tiny team spending like a software department may look more like an enterprise customer than a consumer account.
 - The OPF source adds that token value can be tested through market feedback, but that also exposes the user to overfitting, crowded trades, and ordinary investing risk.
 - The Runta source adds a lifecycle rule: high usage can build AI-native habits early, but production teams still need token analysis, waste detection, and cost-aware harness design once ROI matters.
+- Vol. 171 adds that token maxxing can become an imagination shift before it becomes an accounting result: abundant access encourages long-running and low-certainty tasks, but only accepted output, learning, revenue, or saved labor make the token spend meaningful.
 
 ## Connections
 - [[AIInferenceCostStructure]] — serving-cost and workflow-cost base.
@@ -42,3 +45,4 @@ The concept extends [[AIInferenceCostStructure]] and [[AIInvestmentMetrics]]. To
 - [[Sheet0]], [[WangWenfeng]], [[AIInferenceCostStructure]], and [[OnePersonCompany]] — operator-budget and high-output small-team case added by the 42章经 source.
 - [[OnePersonFund]], [[PredictionMarketTraderAlpha]], [[AIInvestmentResearch]], and [[InvestmentRiskManagement]] — market-feedback branch added by the later Albert source.
 - [[Runta]], [[DaiGuanlan]], [[AIInferenceCostStructure]], and [[AgentRuntimeExecutionLayer]] — adoption-to-cost-discipline branch added by the Runta source.
+- [[UnlimitedTokenWorkflow]], [[FengyanFengyu]], [[Codex]], [[ClaudeCode]], and [[AIUsePacing]] — abundant-token workflow and review-bottleneck branch added by Vol. 171.

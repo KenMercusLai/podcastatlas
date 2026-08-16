@@ -2,8 +2,8 @@
 title: "AI Use Pacing"
 type: concept
 tags: [ai, pacing, productivity, life-design]
-sources: [yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254, suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx, ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128, tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-08-12
+sources: [vol-171-jiaru-women-you-wuxian-token-1-6682-1, yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254, suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx, ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128, tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
+last_updated: 2026-08-16
 ---
 
 # AI Use Pacing
@@ -42,6 +42,8 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 
 [[ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx]] adds a builder-focused boundary through [[LiuKefan]]. AI is useful for decomposing concrete tasks, but it should not become the first authority on life direction or business interest. His `finally` rule also applies to AI-heavy work: stop the agent-assisted optimization loop before it turns into another form of internal friction.
 
+[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds the abundant-token review-debt version. The hosts describe AI tasks that can run while the user sleeps, multiple concurrent projects, and the physical/mental load of checking AI work. Pacing becomes the discipline of limiting how much work gets launched before there is capacity to read, test, accept, reject, or publish it.
+
 ## Key Claims
 
 - AI can convert anxiety into activity: installing tools, trying models, and consuming tokens may feel like progress even without a clear purpose.
@@ -68,6 +70,7 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 - EP258 adds that AI pacing can mean using recommendation without surrendering reading pace, book choice, or the right to ignore a short-lived tech wave.
 - The Liu Kefan source adds that AI pacing includes both task selection and shutdown: use AI to reduce execution resistance, then stop before tool-driven optimization takes over the day.
 - S10E25 adds that learning tasks may need slower AI timing than work tasks, because immediately smoothing away confusion can create [[CognitiveDebt]].
+- Vol. 171 adds that unlimited or near-unlimited token access can worsen pacing by making every idle hour feel usable for more agent work, even when the human review queue is already full.
 
 ## Connections
 
@@ -91,3 +94,4 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 - [[ReadingMediumPluralism]], [[AttentionFragmentation]], and [[AIAssistedReading]] - EP258's reading and technology-wave extension.
 - [[LiuKefan]], [[TryCatchFinallySelfManagement]], [[HumanAgencyUnderAI]], and [[FounderWorkBoundaries]] - independent-builder AI boundary added by Hard Hacker.
 - [[CognitiveOffloading]], [[CognitiveDebt]], [[AIBrainFry]], and [[AIGuidedLearningGuardrails]] - S10E25's heavy-use and learning-timing extension.
+- [[UnlimitedTokenWorkflow]], [[AgenticWorkflow]], [[VibeCoding]], [[ComputerUseAgent]], and [[OutputQualityGates]] - Vol. 171's review-debt and loop-shutdown branch.

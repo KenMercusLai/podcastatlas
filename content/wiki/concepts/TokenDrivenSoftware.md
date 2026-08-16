@@ -2,8 +2,8 @@
 title: "Token-Driven Software"
 type: concept
 tags: [ai, software-design, interfaces]
-sources: [vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]
-last_updated: 2026-07-07
+sources: [vol-171-jiaru-women-you-wuxian-token-1-6682-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]
+last_updated: 2026-08-16
 ---
 
 # Token-Driven Software
@@ -16,6 +16,8 @@ This extends [[OnDemandApps]] and [[GeneratedWorkInterfaces]] from work tools in
 
 [[dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]] adds a maker-culture version. Albert argues that software works can combine video, interaction, and multimodal output so they are consumed for mood, taste, and experience as well as utility, making [[SoftwareAsCulturalWork]] a nearby branch of token-driven interfaces.
 
+[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds the disposable-software version. The hosts imagine software becoming "day-use" or "month-use" when generation cost falls enough that a user, shop, or independent developer can create a temporary tool, variant, or workflow-specific build without treating it as a durable SaaS product.
+
 ## Key Claims
 - The shift is from fixed screens and predefined branches toward model-generated interaction surfaces and local context-sensitive behavior.
 - AI-native operating systems may be a more natural carrier than ordinary app wrappers if the system needs device state, permissions, and continuous context.
@@ -25,6 +27,7 @@ This extends [[OnDemandApps]] and [[GeneratedWorkInterfaces]] from work tools in
 - Token-driven software can make copying surface UI easier, pushing defensibility toward workflow depth, data, taste, distribution, and proprietary execution.
 - Earlier agentic-software speculation points in the same direction: dynamic software needs capability atoms, context, and review surfaces, not only generated UI.
 - The later Albert source adds that dynamic software may be valuable as a small cultural artifact even when it does not become a high-frequency productivity product.
+- Vol. 171 adds that short-lived and personalized software can be useful even when it is not worth maintaining forever, but it still inherits token cost, product judgment, privacy, and platform-review constraints.
 
 ## Connections
 - [[OnDemandApps]] and [[AgentNativeSoftware]] — adjacent software forms where agents assemble capabilities at need time.
@@ -34,3 +37,4 @@ This extends [[OnDemandApps]] and [[GeneratedWorkInterfaces]] from work tools in
 - [[AIInferenceCostStructure]], [[AISubscriptionEconomics]], and [[ModelRoutingCostControl]] — cost constraints on dynamic generation.
 - [[AgenticSoftware]], [[AtomicCapabilityServices]], and [[AICommunicationAbility]] — Vol. 164 foundations for dynamic software behavior.
 - [[SoftwareAsCulturalWork]], [[MakerCommunity]], and [[ProductContainer]] — later Albert branch around small software works as consumable experiences.
+- [[UnlimitedTokenWorkflow]], [[OnDemandApps]], [[OnePersonCompany]], and [[AIUsePacing]] — Vol. 171's disposable-software and review-burden branch.

@@ -2,8 +2,8 @@
 title: "Harness Engineering"
 type: concept
 tags: [agents, infrastructure, software-engineering]
-sources: [e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923]
-last_updated: 2026-07-23
+sources: [vol-171-jiaru-women-you-wuxian-token-1-6682-1, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923]
+last_updated: 2026-08-16
 ---
 
 # Harness Engineering
@@ -12,6 +12,8 @@ Harness engineering is the discipline of designing the model-external system tha
 
 The concept extends [[AgentHarness]] from a product/runtime layer into an engineering practice. [[Creo]]'s version is dynamic rather than static: the harness should absorb marketing, product, user, and infrastructure signals; observe failures; feed corrections back into agents; and gradually turn successful behavior into a more reliable system.
 
+[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds the abundant-token loop version. If agents can run for hours or days across coding, testing, migration, screenshots, research, and device simulators, harness engineering has to provide task status, review evidence, cost visibility, safe stopping rules, and coordination surfaces so humans are not forced to inspect every window manually.
+
 ## Key Claims
 - Harness engineering matters most once agents run for longer tasks, call more tools, use more context, and operate inside real workflows.
 - The harness includes execution environment, tool access, sandbox and host-service boundaries, startup time, latency, cost, authentication, and observability.
@@ -19,6 +21,7 @@ The concept extends [[AgentHarness]] from a product/runtime layer into an engine
 - Verification tools, rollout/fallback logic, and bug triage can be part of the harness when AI-generated implementation outruns manual QA.
 - Harness engineering still needs human architecture judgment because AI-generated solutions can hide security, latency, permission, or maintainability risks.
 - When the harness works, AI can become production infrastructure inside an [[AIFirstOrganization]] rather than a per-person productivity accessory.
+- Vol. 171 adds that harness engineering must manage human review capacity as a system constraint, not only tool access or model performance.
 
 ## Connections
 - [[AgentHarness]] - broader concept for the model-external runtime and governance layer.
@@ -28,3 +31,4 @@ The concept extends [[AgentHarness]] from a product/runtime layer into an engine
 - [[AgentPermissionBoundaries]], [[AgentIdentityAndAuthentication]], and [[EnterpriseAgentGovernance]] - safety and accountability layer.
 - [[AIOrganizationDesign]] and [[AIFirstOrganization]] - organizational consequences when harnesses become production systems.
 - [[ModelHarnessCoEvolution]] - adjacent model-training view where real harness traces and failures improve future agents.
+- [[UnlimitedTokenWorkflow]], [[AgenticWorkflow]], [[ComputerUseAgent]], and [[AIUsePacing]] - abundant-token loop and review-control branch added by Vol. 171.

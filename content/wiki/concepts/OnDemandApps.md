@@ -2,8 +2,8 @@
 title: "On-Demand Apps"
 type: concept
 tags: [agents, software-design, personalization]
-sources: [vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
-last_updated: 2026-07-07
+sources: [vol-171-jiaru-women-you-wuxian-token-1-6682-1, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
+last_updated: 2026-08-16
 ---
 
 # On-Demand Apps
@@ -16,6 +16,8 @@ On-demand apps are the source's "现炒 App" idea: software capabilities are ass
 
 [[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] adds a practical user-demand boundary. [[WangJunyu]] imagines simple base interfaces that adapt to different user habits, while [[JustinYan]] and [[XuTao]] note that most people may not want to continuously customize or improve software themselves. The concept therefore depends on making customization feel like the default experience, not a chore.
 
+[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds the personal-variant version. The source describes narrow user requests turning into custom TestFlight-style builds and asks whether future apps might let users "wish" for a feature that AI generates as a private variant instead of forcing every edge case into the main product.
+
 ## Key Claims
 - [[AgentNativeSoftware]] can make app behavior more dynamic because the agent can choose tools and skills based on the user's immediate goal.
 - The concept depends on [[AgentHarness]] quality: the agent needs tools, channel access, memory, and permissions before it can assemble useful capabilities.
@@ -25,6 +27,7 @@ On-demand apps are the source's "现炒 App" idea: software capabilities are ass
 - The concept pressures traditional SaaS when generic workflows can be generated on demand, while secure, financial, and high-accountability workflows still need strong [[AgentPermissionBoundaries]].
 - Dynamic generation increases the need for [[ModelRoutingCostControl]] because always using the strongest model for every generated surface can make the product uneconomical.
 - User appetite matters: on-demand apps may work best when they hide customization effort and give people useful defaults rather than asking everyone to become a product designer.
+- Vol. 171 adds a boundary: personalization should adapt a product to a real user need, not let the user transform the app into an unrelated product or bypass safety, payment, or platform constraints.
 
 ## Connections
 - [[OpenClaw]] and [[JustinYan]] — source example and builder context.
@@ -34,3 +37,4 @@ On-demand apps are the source's "现炒 App" idea: software capabilities are ass
 - [[TokenDrivenSoftware]], [[GeneratedWorkInterfaces]], and [[Fable5]] — Vol. 170's stronger-model extension from app assembly to generated interaction.
 - [[WangJunyu]], [[XuTao]], and [[HumanJudgmentUnderAI]] — Vol. 165's caution that adaptive software still needs defaults, taste, and user willingness.
 - [[AgenticSoftware]], [[AppStore]], and [[AICommunicationAbility]] — Vol. 164's dynamic-app and review-boundary case.
+- [[UnlimitedTokenWorkflow]], [[TokenDrivenSoftware]], [[HumanJudgmentUnderAI]], and [[ProductLedWillingnessToPay]] — Vol. 171's generated personal-variant branch.

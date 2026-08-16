@@ -2,8 +2,8 @@
 title: "AI Translation"
 type: concept
 tags: [ai, translation, language, interfaces]
-sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]
-last_updated: 2026-07-25
+sources: [vol-171-jiaru-women-you-wuxian-token-1-6682-1, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]
+last_updated: 2026-08-16
 ---
 
 # AI Translation
@@ -11,6 +11,8 @@ last_updated: 2026-07-25
 AI translation is the source's frame for large-model and multimodal translation that uses context, OCR, document structure, subtitle timing, and image understanding rather than only phrase-level lookup. In [[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]], [[ImmersiveTranslate]] is the main concrete tool, and the hosts compare the result to a "Babel fish" experience where foreign-language material becomes much closer to directly understandable.
 
 [[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] adds a wearable translation branch. The episode mentions live translation on [[AppleAirPods|Apple AirPods]] and imagined subtitle-like translation through [[Meta]] glasses, making translation one of the clearer job-specific reasons an AI wearable might be useful beyond a phone chatbot.
+
+[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds a long-form publishing and knowledge-management branch. The hosts discuss faster AI-assisted book translation, including chunking, context, and whole-book consistency, and connect translation to personal knowledge bases that summarize, translate, transcribe, and turn interviews or talks into mind maps.
 
 ## Key Claims
 - AI translation lowers the cost of reading foreign webpages, PDF textbooks, subtitles, and manga.
@@ -20,6 +22,7 @@ AI translation is the source's frame for large-model and multimodal translation 
 - Wearables can make translation feel more immediate when audio output or visual subtitles are available at the moment of conversation.
 - The source does not treat translation as a full replacement for language learning; [[WuTao]] argues that language still carries mental models, culture, and patterns of thought.
 - Better translation can change markets and politics by reducing cross-language friction, but it does not automatically solve institutional coordination problems such as those around the [[EuropeanUnion]].
+- Long-form AI translation needs document-level context, consistency checks, and human review because fast chapter-by-chapter output can still lose tone, terminology, or cross-book coherence.
 
 ## Connections
 - [[ImmersiveTranslate]] - practical tool case in the source.
@@ -29,3 +32,4 @@ AI translation is the source's frame for large-model and multimodal translation 
 - [[HumanJudgmentUnderAI]] - users still judge tone, meaning, and cultural fit.
 - [[EuropeanAIIndustrialConstraints]] - language fragmentation and localization costs in Europe.
 - [[SecondRenaissance]] - source's broader claim that AI can change learning while leaving personal practice meaningful.
+- [[UnlimitedTokenWorkflow]], [[ContextEngineering]], [[AIAssistedReading]], and [[HumanJudgmentUnderAI]] - Vol. 171's book-translation and knowledge-base branch.

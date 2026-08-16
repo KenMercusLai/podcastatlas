@@ -2,8 +2,8 @@
 title: "Elon Musk"
 type: entity
 tags: [person, founder, spacex, tesla]
-sources: [suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73, vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g]
-last_updated: 2026-08-10
+sources: [vol-171-jiaru-women-you-wuxian-token-1-6682-1, suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73, vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g]
+last_updated: 2026-08-16
 ---
 
 # Elon Musk
@@ -38,7 +38,10 @@ The source emphasizes Musk's use of extreme targets. In the episode, 10% or 30% 
 
 [[e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73]] adds Musk as a financing and discovery path for [[DeepMind]]. The source says Musk promised investment and mentioned the company to [[LarryPage]], indirectly helping [[Google]] notice [[DemisHassabis]]'s AGI lab.
 
+[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds Musk only as a comparative belief and execution reference. The hosts mention him alongside [[SamAltman]] as an example of a founder whose extreme conviction can make improbable technical futures investable; in this source, that comparison supports the [[AIAbundanceNarrative]] around long-running agents rather than adding a new Musk-company claim.
+
 ## Connections
+- [[SamAltman]], [[AIAbundanceNarrative]], [[UnlimitedTokenWorkflow]], and [[OpenAI]] — Vol. 171's brief founder-conviction comparison.
 - [[SpaceX]], [[Falcon9]], [[Starship]], and [[Starlink]] — primary company and platform context in this source.
 - [[FirstPrinciplesManufacturing]] and [[HighResponsibilityDensity]] — management and engineering style associated with the source's Musk stories.
 - [[Tesla]], [[XAI]], and [[Grok]] — broader Musk ecosystem invoked in the episode's speculation.

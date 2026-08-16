@@ -2,8 +2,8 @@
 title: "Sam Altman"
 type: entity
 tags: [person, startups, venture-capital]
-sources: [suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74, 170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77, tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-replit-v2-tsr-s3-replit-v2, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
-last_updated: 2026-08-10
+sources: [vol-171-jiaru-women-you-wuxian-token-1-6682-1, suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74, 170-1929-de-paomo-zhixia-sange-daibiao-renwu-he-tamen-zai-dangxia-zhouqi-de-yingzi-lo7uv7umozr0jrqfjzyhdbzicx1j, tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77, tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-replit-v2-tsr-s3-replit-v2, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+last_updated: 2026-08-16
 ---
 
 # Sam Altman
@@ -36,7 +36,10 @@ In this source, Altman functions as part of the [[YCombinator]] and startup-inve
 
 [[tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio]] adds [[PaulGraham]] and the hosts' account of Altman's YC leadership transition. Graham says Altman was the obvious successor because he was already a first-batch class-president-like fundraising node, but later thinks he should have required Altman to focus only on [[YCombinator]]. The source's key correction is that YC did not fire Altman in this account; it wanted him to choose between YC and [[OpenAI]], and Altman chose OpenAI.
 
+[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds Altman as a belief-driven reference point in the hosts' OpenAI discussion. The episode uses him less for biography than for the claim that frontier AI work depends on people willing to believe in a high-variance future before the market fully validates it, tying his narrative to [[OpenAI]], [[Codex]], and [[AIAbundanceNarrative]].
+
 ## Connections
+- [[OpenAI]], [[Codex]], [[AIAbundanceNarrative]], and [[UnlimitedTokenWorkflow]] - belief-driven frontier-lab context added by Vol. 171.
 - [[TheResidency]], [[NickLink]], [[PeterDAmbrosio]], [[HackerHouseStartupInfrastructure]], and [[BuilderCenteredInstitutions]] - advisory context added by the What's Next hacker-house episode.
 - [[AIEnabledSelfEmployment]], [[FullTimeSelfEmploymentBoom]], and [[OnePersonCompany]] - source-scoped one-person-firm branch added by The Intelligence.
 - [[JaredFriedman]], [[Scribd]], [[YCombinator]], and [[YCInternalSoftware]] - Jared's partner path and later internal-software branch added by The Social Radars.
