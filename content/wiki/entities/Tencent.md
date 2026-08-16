@@ -2,8 +2,8 @@
 title: "Tencent"
 type: entity
 tags: [company, internet, ai]
-sources: [270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, yao-shunyu-laidao-tengxun-300tian-1-176-1, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]
-last_updated: 2026-08-08
+sources: [270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, yao-shunyu-laidao-tengxun-300tian-1-176-1, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]
+last_updated: 2026-08-16
 ---
 
 # Tencent
@@ -30,6 +30,8 @@ Tencent appears in [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zon
 
 [[270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4]] adds Tencent through [[TencentWorkBody]], an office-agent product the source frames as an attempt to become the "AI-era Office." The episode contrasts Tencent's route with [[Feishu]] and [[DingTalk]]: WorkBody may be strong as a personal or local-data work agent for non-programmers, but Tencent may lack the same enterprise collaboration data substrate.
 
+[[kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]] adds a quarterly AI-spending update. The source says Tencent's second-quarter revenue growth stayed steady while profit growth narrowed because AI investment increased, and it links that spending specifically to [[TencentWorkBody]] inference demand and training a larger next-generation model planned within the year.
+
 ## Key Points
 - QQ membership shows that Chinese consumer internet users have accepted paid tiers when core network effects and benefits were clear.
 - Yuanbao is discussed as a domestic AI assistant that can remain an alternative if Doubao's paid tiers feel weak or too expensive.
@@ -47,6 +49,7 @@ Tencent appears in [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zon
 - Episode 176 adds Tencent's Hunyuan/WeChat split as a [[FederatedAIOrganization]] case: central model capability is attractive under scarce compute, but product units may defend their own data, culture, and reliability requirements.
 - The same source says [[MartinLau]]'s sponsorship gave [[YaoShunyu]] unusual room to hire, change key leaders, and rebuild [[TencentHunyuan]] before definitive top-tier model proof.
 - Episode 270 adds WorkBody as Tencent's office-agent contender for non-programmer work, with source-scoped million-level DAU claims and product-identity uncertainty relative to [[TencentWorkBuddy]].
+- The later 声动早咖啡 source adds that WorkBody became a resource-prioritization signal inside Tencent's broader AI spending, not only a product-market comparison.
 
 ## Connections
 - [[QQ]] — early paid membership comparison.
@@ -65,3 +68,4 @@ Tencent appears in [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zon
 - [[DXY]], [[WeDoctor]], [[Haodf]], [[InternetHealthcare]], and [[MedicalAIWorkflowIntegration]] — healthcare investment and AI-workflow context added by episode 206.
 - [[TencentHunyuan]], [[WeChatVLM]], [[TencentCSIG]], [[TencentTEG]], [[YaoShunyu]], [[MartinLau]], [[ZhangXiaolong]], and [[FederatedAIOrganization]] — large-model organization branch added by episode 176.
 - [[TencentWorkBody]], [[TencentWorkBuddy]], [[AIOfficeAgent]], [[AgenticWorkflow]], and [[ModelProviderToolCompetition]] - office-agent competition branch added by Luanfanshu episode 270.
+- [[AIInferenceCostStructure]] and [[AICommercializationPressure]] - AI-spending and compute-demand branch added by the 声动早咖啡 source.

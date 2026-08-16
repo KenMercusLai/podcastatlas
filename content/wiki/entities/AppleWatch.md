@@ -2,13 +2,15 @@
 title: "Apple Watch"
 type: entity
 tags: [apple, hardware, wearables, health]
-sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, rolex-1]
+sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, rolex-1]
 last_updated: 2026-08-16
 ---
 
 # Apple Watch
 
 [[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds a product-form exploration branch. The source says [[Apple]] designers had studied a screenless band, different screen sizes, a round face, and possible tiers above Ultra or below SE, even though the next Apple Watch and Apple Watch Ultra generation remained focused on health features and appearance upgrades. This makes Apple Watch a case in [[WearableFormFactorPressure]] as well as [[WearableAIAssistant]].
+
+[[kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]] adds a direct competitor frame through [[Garmin]]. The episode says Apple Watch created Garmin's second major Apple shock after the iPhone-era navigation shock, but that Garmin survived by holding high-end sport and outdoor users. Apple Watch Ultra is described as a more direct challenge because improved GPS and battery life target parts of Garmin's [[ProfessionalWearableMoat]].
 
 [[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] adds an endpoint role for Apple Watch in child monitoring. [[Nanit]]'s CEO is described as wanting the company to be part of children's bedrooms until they get a first Apple Watch, often around age 10, making the product a boundary marker between [[AIBabyMonitors]] and later wearable self-tracking.
 
@@ -25,3 +27,4 @@ The product is relevant to [[WearableAIAssistant]] because watches already have 
 - [[AppleAccessibility]] - adjacent Apple wearable/interface branch in the wiki.
 - [[AppleAirPods|Apple AirPods]] and [[OuraRing|Oura Ring]] - other familiar wearable examples named in the source.
 - [[WearableFormFactorPressure]] and [[ConsumerElectronicsLifecycle]] - form and category-renewal pressure added by the 声动早咖啡 source.
+- [[Garmin]], [[ProfessionalWearableMoat]], and [[GlobalPositioningSystem|GPS]] - high-end sport/outdoor competition branch added by the later 声动早咖啡 source.

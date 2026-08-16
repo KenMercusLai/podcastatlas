@@ -2,13 +2,15 @@
 title: "Personal Health Data"
 type: concept
 tags: [healthcare, data, ai, personal-infrastructure]
-sources: [tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tsr-s2-adoracheung-v5, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]
-last_updated: 2026-08-11
+sources: [tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tsr-s2-adoracheung-v5, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]
+last_updated: 2026-08-16
 ---
 
 # Personal Health Data
 
 [[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] adds the child-data boundary through [[Nanit]] sleep scores and planned child health interpretation. Unlike adult self-tracking, baby and child data is collected because parents choose a product, while the child is the person being measured. That makes [[ChildBedroomDataPrivacy]] and [[QuantifiedParenting]] necessary companions to the wiki's usual health-data ownership frame.
+
+[[kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]] adds the competitive wearable-hardware layer through [[Garmin]], [[Whoop]], and smart rings. Here personal health data becomes a product-positioning battleground: watches, screenless bands, and rings divide the jobs of passive tracking, sport performance, battery life, comfort, and on-device feedback differently.
 
 Personal health data is the episode's frame for treating medical records, physical-exam reports, lab values, wearable-device signals, sleep, blood pressure, blood oxygen, glucose curves, medication history, and lifestyle context as a long-lived asset. In [[ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1]], [[JiangXun]] argues that ordinary people should preserve this data even when the immediate use case is unclear, because future AI systems may read it as context for trend discovery and doctor-facing risk review.
 
@@ -32,6 +34,7 @@ The key distinction is longitudinal context. A single normal-range report may no
 - The same longitudinal and intimate qualities that make personal health data useful also make it high-impact if stolen, leaked, wiped, or held unavailable.
 - Sleep data is most useful when it changes controllable inputs such as schedule, light, temperature, caffeine, screens, or alcohol rather than becoming another anxious score.
 - E227 adds that wearable-fed health data creates a 2C AI opportunity only if privacy, escalation, and clinical responsibility remain clear.
+- Wearable hardware form matters because the same health-data job can be served by a watch, screenless band, smart ring, phone, or clinical device with different burdens and feedback loops.
 
 ## Connections
 - [[AIHealthManagement]] — main use case for reading personal health data over time.
@@ -44,3 +47,4 @@ The key distinction is longitudinal context. A single normal-range report may no
 - [[Instalab]], [[AtHomePreventiveHealth]], [[FounderHealthDebt]], and [[BehaviorChangeBabySteps]] — preventive-health service case added by the Adora Cheung episode.
 - [[IranLinkedCyberOperations]], [[CyberDataTheftAndLeakOperations]], and [[OfflineBackupRecoveryDrills]] — cybersecurity branch where health records become sensitive targets.
 - [[SleepAsDailyHealthAccount]], [[EightSleep|8Sleep]], and [[EnvironmentOverWillpower]] - sleep-data and intervention extension from the 面基 episode.
+- [[Garmin]], [[Whoop]], [[OuraRing|Oura Ring]], [[WearableFormFactorPressure]], and [[ProfessionalWearableMoat]] - wearable-hardware competition branch added by 声动早咖啡.

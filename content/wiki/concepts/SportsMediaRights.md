@@ -2,13 +2,15 @@
 title: "Sports Media Rights"
 type: concept
 tags: [sports, media, rights, distribution]
-sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-264-ba-shijiebei-zuowei-fangfa-999416048, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6, the-nfl-1]
+sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-264-ba-shijiebei-zuowei-fangfa-999416048, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6, the-nfl-1]
 last_updated: 2026-08-16
 ---
 
 # Sports Media Rights
 
 [[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds a rule-as-inventory example through the [[FIFAWorldCup|World Cup]]. The source says [[FIFA]] is considering keeping mandatory hydration pauses while packaging U.S. rights for 2030 and 2034, because fixed pauses can create predictable ad breaks for broadcasters such as [[FoxSports|Fox Sports]]. This links [[WorldCupHydrationPauseAdInventory]] to rights pricing, not only to player welfare.
+
+[[kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]] adds a franchise-valuation extension through the [[LosAngelesLakers|Los Angeles Lakers]]. The source says the team's reported $12.5 billion valuation was linked partly to expectations for new [[NationalBasketballAssociation|NBA]] media-rights revenue, showing how rights growth can flow into team-asset pricing as well as league and player bargaining.
 
 Sports media rights are the rights to broadcast or stream live sports and related coverage. In [[formula-1-1]], [[FormulaOne]] becomes more valuable when [[BernieEcclestone]] turns a fragmented set of race broadcasts into a more coherent rights product and when [[LibertyMedia]] later improves fan access, storytelling, and U.S. market development.
 
@@ -39,9 +41,11 @@ The concept connects to [[VerticalMediaDistribution]] but differs from owned ent
 - A rights seller's growth target does not settle the price; the buyer still has to model advertising, sublicensing, membership, user lifetime value, and operating costs.
 - Country-level sports-rights bubbles should be judged by monetization capacity rather than by whether an absolute price is lower than a richer global benchmark.
 - Competition rules can change rights value when they create predictable ad inventory, as hydration pauses may do for World Cup broadcasts.
+- Rights expectations can raise team valuations when investors believe media revenue will continue compounding.
 
 ## Connections
 - [[FormulaOne]], [[FormulaOneGroup]], [[BernieEcclestone]], [[LibertyMedia]], [[NationalFootballLeague|NFL]], [[PeteRozelle]], [[CBS]], [[ABC]], [[NBC]], [[Amazon]], [[YouTubeTV|YouTube TV]], [[Netflix]], [[ESPN]], [[Apple]], [[FIFA]], [[FIFAWorldCup]], [[ChinaCentralTelevision]], [[Migu]], [[Xiaohongshu]], [[UEFA]], [[CAA]], [[RelevantSports]], and [[TeamMarketing]] - source cases and rights-market actors.
 - [[BroadcastCentralization]], [[SportsBroadcastingAct]], [[LiveSportsStreamingTransition]], [[SportsEntertainmentFlywheel]], [[WorldCupExpansion]], [[SportsRightsGrowthEngine]], [[SportsRightsBusinessModel]], [[SportsRightsSublicensing]], [[SportsBroadcastPublicAccess]], [[SportsRightsBubble]], [[VerticalMediaDistribution]], [[ProductLedWillingnessToPay]], [[AmericanSportsCapitalInEuropeanFootball]], and [[DeFactoSuperLeagueLogic]] - related concepts.
 - [[WNBA]], [[WNBAPlayersAssociation]], [[WomensSportsBusinessGrowth]], and [[SportsLaborRevenueSharing]] - player-labor extension added by the WNBA episode.
 - [[WorldCupHydrationPauseAdInventory]], [[FoxSports]], and [[SportsRightsBusinessModel]] - hydration-pause monetization branch added by 声动早咖啡.
+- [[LosAngelesLakers]], [[NationalBasketballAssociation|NBA]], and [[SportsEntertainmentFlywheel]] - team-valuation branch added by the Garmin episode's business-news segment.

@@ -2,11 +2,13 @@
 title: "声动早咖啡"
 type: entity
 tags: [podcast, media, business, technology, china]
-sources: [xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109, zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
+sources: [kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109, zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
 last_updated: 2026-08-16
 ---
 
 # 声动早咖啡
+
+[[kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]] adds a Friday "coffee bean" explainer format. It opens with short updates on [[Dipsig]], [[TencentWorkBody]], the [[LosAngelesLakers|Los Angeles Lakers]], and [[Claude]] watermarking, then uses [[Garmin]] to explain how a hardware company can survive platform shocks by moving from car navigation into professional sport and outdoor wearables.
 
 [[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]] adds another compact multi-industry roundup. It links [[Starbucks]] and [[LiNing|Li-Ning]] rumor denials, [[Meta]] open-weight model releases, data-center buildout pressure, packaged-beverage weakness, China auto demand pressure, the [[Sony]]-[[TSMC]] image-sensor venture, [[Spotify]] AI persona labels, and [[Doubao]] hotel-order fees.
 
@@ -32,6 +34,7 @@ The show's launch frame is deliberately ritualized. Instead of advertising only 
 
 ## Source Position
 - 声动早咖啡 is a show-launch case for [[ShortFormBusinessTechAudio]].
+- The Garmin episode shows the format's Friday question-answer mode: listener curiosity becomes a compact business-history explainer after a short news scan.
 - The Kao episode shows the format's mix of quick daily business updates and one deeper business-history explanation.
 - The Spider-Man/AI-price-war episode shows the show's compact multi-industry roundup mode.
 - The popcorn-bucket episode shows how a playful consumer object can become an entry point into media economics, licensing, retail margin, and fandom behavior.
@@ -51,5 +54,6 @@ The show's launch frame is deliberately ritualized. Instead of advertising only 
 - [[RalphLauren]], [[ChinaEasternAirlines]], [[GermanLuxuryCarChinaPressure]], [[WearableFormFactorPressure]], [[AIProductDevelopmentAcceleration]], [[WorldCupHydrationPauseAdInventory]], and [[AIModelDistillationGovernance]] - business-news branches added by the August 2026 Ralph Lauren / China Eastern episode.
 - [[LOreal|L'Oreal / 欧莱雅]], [[Kerastase|Kérastase / 卡诗]], [[HaircareSkincareization]], [[PremiumHaircareMarket]], [[SalonChannelTrust]], and [[BeautyProblemNaming]] - hair-care market branch added by the August 2026 hair-care episode.
 - [[Starbucks]], [[LiNing|Li-Ning]], [[MetaMuseModels]], [[BottledBeverageDemandPressure]], [[SonyTSMCImageSensorJV]], [[AIPersonaLabeling]], and [[AITravelCommerceTrust]] - rumor-response, AI, beverage, semiconductor, music, and travel-commerce branches added by the 2026-08-13 roundup.
+- [[Garmin]], [[ProfessionalWearableMoat]], [[SpecializedHardwareVerticalIntegration]], [[NavigationDeviceCommoditization]], [[Dipsig]], [[TencentWorkBody]], and [[LosAngelesLakers]] - Garmin explainer and business-news branches added by the 2026-08-14 coffee-bean episode.
 - [[MorningAudioRitual]], [[ShortFormBusinessTechAudio]], and [[PodcastReleaseCadence]] - format and habit concepts.
 - [[Coffee|Coffee / 咖啡]] and [[CaffeinatedModernity]] - metaphor and wakefulness branch.

@@ -2,8 +2,8 @@
 title: "National Basketball Association"
 type: entity
 tags: [sports, basketball, league]
-sources: [how-we-got-free-agents-in-baseball, planet-money-vs-the-nbas-tanking-problem, diary-of-a-wnba-negotiator, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]
-last_updated: 2026-08-04
+sources: [how-we-got-free-agents-in-baseball, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, planet-money-vs-the-nbas-tanking-problem, diary-of-a-wnba-negotiator, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]
+last_updated: 2026-08-16
 ---
 
 # National Basketball Association
@@ -20,6 +20,8 @@ The NBA page's wiki role is not league history; it is sports-integrity context. 
 
 [[e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]] adds the NBA as both a China-rights and U.S.-rights benchmark. The episode says [[Tencent]]'s China NBA rights rose sharply across cycles, while the newest U.S. NBA rights cycle is used with the [[NationalFootballLeague|NFL]] and [[UFC]] to illustrate why top American sports rights can keep inflating under streaming competition.
 
+[[kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]] adds a team-valuation signal through the [[LosAngelesLakers|Los Angeles Lakers]]. The source says the Lakers' reported $12.5 billion valuation was helped by expectations for the NBA's new media-rights income, making the league relevant to asset valuation as well as rights pricing, labor bargaining, betting integrity, and draft design.
+
 ## Connections
 - [[MajorLeagueBaseball]], [[NationalFootballLeague|NFL]], [[BaseballFreeAgency]], [[SportsCollectiveBargaining]], [[SportsLaborRevenueSharing]], and [[SportsCompetitiveBalance]] - free-agency and salary-cap comparison branch added by Planet Money.
 - [[JontayPorter]] - player whose underperformance case grounds the episode.
@@ -29,3 +31,4 @@ The NBA page's wiki role is not league history; it is sports-integrity context. 
 - [[WNBA]], [[WNBAPlayersAssociation]], [[ClaudiaGoldin]], and [[SportsLaborRevenueSharing]] - labor-revenue comparison branch added by the WNBA negotiation source.
 - [[AdamSilver]], [[ZachLowe]], [[HoustonRockets]], [[SportsDraftIncentiveDesign]], [[SportsTanking]], [[DraftLotteryTradeoff]], [[DraftWheel]], [[GoldPlan]], and [[NoDraftPlayerMarket]] - tanking and draft-design branch added by the new Planet Money source.
 - [[Tencent]], [[SportsMediaRights]], [[SportsRightsBusinessModel]], [[SportsRightsBubble]], and [[UFC]] - rights-market branch added by E237.
+- [[LosAngelesLakers]], [[SportsEntertainmentFlywheel]], and [[AIResistantExperientialConsumption]] - premium team valuation branch added by 声动早咖啡.

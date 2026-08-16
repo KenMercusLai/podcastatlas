@@ -2,8 +2,8 @@
 title: "AI Resistant Experiential Consumption"
 type: concept
 tags: [ai, consumer, travel, hospitality, community]
-sources: [137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
-last_updated: 2026-07-10
+sources: [137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]
+last_updated: 2026-08-16
 ---
 
 # AI Resistant Experiential Consumption
@@ -14,6 +14,8 @@ The concept extends [[ExperientialRetail]] and [[HumanConnectionUnderAI]]. AI ca
 
 [[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]] adds a Japan-centered version. [[KiyosumiShirakawa]], [[TokyoDisneyResort]], [[Kyoto]], and [[Sanrio]] show that experience resistance can come from slow neighborhood discovery, long-term theme-park operation, cultural atmosphere, and small emotional goods, not only from restaurants or Korean retail districts.
 
+[[kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]] adds the live-sports capital-market version through the [[LosAngelesLakers|Los Angeles Lakers]]. The source says some investors view sports teams as assets that can hedge AI disruption because live offline entertainment is difficult for AI to substitute and may benefit if automation gives people more leisure time.
+
 ## Key Claims
 - AI can reduce the scarcity of information while increasing the relative scarcity of embodied, social, and place-based experience.
 - Experience consumption scales with time and money more than with physical stomach capacity; travel and entertainment can expand beyond functional need.
@@ -22,6 +24,7 @@ The concept extends [[ExperientialRetail]] and [[HumanConnectionUnderAI]]. AI ca
 - The more a consumer product depends on mood, crowd, design, service, local context, and identity, the less it can be evaluated as a pure information good.
 - AI resistance does not mean immunity from operations: queues, leases, staff, rent, location, supply chain, and service consistency still determine whether the experience holds up.
 - Experience can be weakened by over-marketing when the consumer's main job becomes producing social-media content rather than inhabiting the place.
+- Live sports can become an AI-resistant asset class when scarcity, place, fandom, and media rights compound around physical events.
 
 ## Connections
 - [[ExperientialRetail]] - broader store and service-experience frame.
@@ -31,3 +34,4 @@ The concept extends [[ExperientialRetail]] and [[HumanConnectionUnderAI]]. AI ca
 - [[Shunde]], [[Zhuroupo]], [[SeongsuDong]], [[GentleMonster]], and [[HongKong]] - source cases.
 - [[HousingExperienceInvestmentSplit]] - boundary case where lived experience should not be confused with asset return.
 - [[ExperienceLedBrand]], [[AuthenticNeighborhoodExperience]], [[LongTermPlaceOperation]], [[KiyosumiShirakawa]], and [[TokyoDisneyResort]] - Japan-centered extension added by episode 142.
+- [[LosAngelesLakers]], [[NationalBasketballAssociation|NBA]], [[SportsEntertainmentFlywheel]], and [[SportsMediaRights]] - sports-team valuation branch added by 声动早咖啡.

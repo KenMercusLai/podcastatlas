@@ -11043,6 +11043,10 @@
     "title": "Dionysus / 狄俄尼索斯",
     "url": "/wiki/entities/dionysus/"
   },
+  "Dipsig": {
+    "title": "Dipsig",
+    "url": "/wiki/entities/dipsig/"
+  },
   "DirectAirCapture": {
     "title": "Direct Air Capture",
     "url": "/wiki/concepts/directaircapture/"
@@ -15171,6 +15175,10 @@
     "title": "迦楼罗 / 大鹏鸟 / Garuda",
     "url": "/wiki/entities/garuda/"
   },
+  "GaryBurrell": {
+    "title": "Gary Burrell",
+    "url": "/wiki/entities/garyburrell/"
+  },
   "GaryCross": {
     "title": "Gary Cross",
     "url": "/wiki/entities/garycross/"
@@ -15606,6 +15614,10 @@
   "GlobalPharmaCommercialization": {
     "title": "Global Pharma Commercialization",
     "url": "/wiki/concepts/globalpharmacommercialization/"
+  },
+  "GlobalPositioningSystem": {
+    "title": "Global Positioning System / GPS",
+    "url": "/wiki/concepts/globalpositioningsystem/"
   },
   "GlobalProductLocalization": {
     "title": "Global Product Localization",
@@ -22659,6 +22671,10 @@
     "title": "Los Angeles Dodgers",
     "url": "/wiki/entities/losangelesdodgers/"
   },
+  "LosAngelesLakers": {
+    "title": "Los Angeles Lakers",
+    "url": "/wiki/entities/losangeleslakers/"
+  },
   "LossAversion": {
     "title": "Loss Aversion / 损失厌恶",
     "url": "/wiki/concepts/lossaversion/"
@@ -24739,6 +24755,10 @@
     "title": "Min Aung Hlaing",
     "url": "/wiki/entities/minaunghlaing/"
   },
+  "MinKao": {
+    "title": "Min Kao / 高明环",
+    "url": "/wiki/entities/minkao/"
+  },
   "MinamiIoto": {
     "title": "南硫磺岛 / Minami Ioto",
     "url": "/wiki/entities/minamiioto/"
@@ -25914,6 +25934,10 @@
   "NausicaaOfTheValleyOfTheWind": {
     "title": "《风之谷》 / Nausicaa of the Valley of the Wind",
     "url": "/wiki/entities/nausicaaofthevalleyofthewind/"
+  },
+  "NavigationDeviceCommoditization": {
+    "title": "Navigation Device Commoditization",
+    "url": "/wiki/concepts/navigationdevicecommoditization/"
   },
   "NawafSalam": {
     "title": "Nawaf Salam",
@@ -29522,6 +29546,10 @@
   "ProfessionalToolBranding": {
     "title": "Professional Tool Branding",
     "url": "/wiki/concepts/professionaltoolbranding/"
+  },
+  "ProfessionalWearableMoat": {
+    "title": "Professional Wearable Moat",
+    "url": "/wiki/concepts/professionalwearablemoat/"
   },
   "ProfessionalWomensHockeyLeague": {
     "title": "Professional Women's Hockey League",
@@ -34122,6 +34150,10 @@
   "SpecializedBuffetFormat": {
     "title": "Specialized Buffet Format / 细分自助餐",
     "url": "/wiki/concepts/specializedbuffetformat/"
+  },
+  "SpecializedHardwareVerticalIntegration": {
+    "title": "Specialized Hardware Vertical Integration",
+    "url": "/wiki/concepts/specializedhardwareverticalintegration/"
   },
   "SpecializedIntelligence": {
     "title": "Specialized Intelligence",
@@ -42230,6 +42262,10 @@
   "kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054": {
     "title": "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？",
     "url": "/wiki/sources/kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054/"
+  },
+  "kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684": {
+    "title": "咖啡豆｜两次遭遇苹果冲击，运动手表佳明为何还能增长？",
+    "url": "/wiki/sources/kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684/"
   },
   "kaitianchuang-moyu-ganxie-chui-dali-553650149": {
     "title": "开天窗：摸鱼+感谢+吹大理",

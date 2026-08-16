@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [咖啡豆｜两次遭遇苹果冲击，运动手表佳明为何还能增长？](sources/kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684.md) — 声动早咖啡 episode linking Dipsig V4 Pro, Tencent WorkBody investment, Lakers valuation, Claude watermarking, and a main Garmin explainer on GPS roots, phone navigation commoditization, professional wearable moats, and vertical integration.
 - [星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约](sources/xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195.md) — 声动早咖啡 episode linking Starbucks and Li-Ning rumor denials, AI data-center buildout, Meta Muse open weights, bottled-beverage pressure, China auto demand weakness, Sony-TSMC image sensors, Spotify AI persona labels, and Doubao hotel-order fees.
 - [美妆巨头集体盯上头发，洗护生意为何又热起来？](sources/meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109.md) — 声动早咖啡 episode linking Pinduoduo next-day fulfillment, Walmart community stores, SHEIN Vietnam warehouse retrenchment, and a main explainer on hair-care skincare-ization, premium haircare, salon trust, and social-media beauty problem naming.
 - [中国消费者带动拉夫劳伦增长，东航优化机票退改签政策](sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805.md) — 声动早咖啡 episode linking Ralph Lauren's China-led growth and channel tightening, China Eastern's refund/change-policy optimization, German luxury-car China pressure, Apple Watch form-factor experiments, Airbnb internal AI productivity, Paramount theatrical-window bargaining, World Cup ad inventory, and ByteDance distillation governance.
@@ -962,6 +963,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Dipsig](entities/Dipsig.md) — Source-scoped AI model/product line whose V4 Pro launch is tied to agent capability, pricing below Kimi K3, and a Harness execution framework.
+- [Gary Burrell](entities/GaryBurrell.md) — Garmin co-founder whose navigation background anchors the source's GPS-origin account.
+- [Min Kao / 高明环](entities/MinKao.md) — Garmin co-founder whose name forms the second half of Garmin and whose navigation background anchors the source's GPS-origin account.
+- [Los Angeles Lakers](entities/LosAngelesLakers.md) — NBA franchise whose reported $12.5 billion valuation is used as a live-sports media-rights and AI-resistant asset signal.
 - [张青 / Zhang Qing](entities/ZhangQing.md) — Former Sam's Club China procurement executive named in source-scoped reporting around Starbucks China's supply-chain rumor and denial.
 - [Kylian Mbappe / 姆巴佩](entities/KylianMbappe.md) — Football star at the center of a denied Li-Ning sponsorship rumor in the 2026-08-13 声动早咖啡 source.
 - [Meta Muse Glimmer / Muse Spark](entities/MetaMuseModels.md) — Meta open-weight model releases used by the source to show a renewed open-model posture after Llama 4 disappointment.
@@ -4990,7 +4995,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kickstarter](entities/Kickstarter.md) — Crowdfunding platform that turned Pebble's investor-rejected smartwatch into a $10 million preorder campaign and manufacturing obligation.
 - [BlackBerry](entities/BlackBerry.md) — Mobile platform whose Bluetooth accessory APIs made Eric Migicovsky's early watch possible before the market shifted toward iPhone.
 - [Fitbit](entities/Fitbit.md) — Wearables company that competed with Pebble in health and fitness and later acquired pieces of the company.
-- [Garmin](entities/Garmin.md) — Wearables and fitness company named as part of the competitive pressure that pulled Pebble toward health features.
+- [Garmin](entities/Garmin.md) — GPS and wearables company whose source history links car-navigation commoditization, professional sport/outdoor watch moats, and vertical integration.
 - [Tim Draper](entities/TimDraper.md) — Investor in Eric Migicovsky's early post-Demo-Day hardware company before Pebble's Kickstarter breakout.
 - [CRV](entities/CRV.md) — Venture firm whose Pebble investment marks the shift from crowdfunding breakout to venture-backed hardware scaling.
 - [Alexandr Wang](entities/AlexandrWang.md) — Scale AI founder and CEO whose Social Radars episode links YC, early manual labeling, autonomous-vehicle data, defense work, generative AI data, and agent data.
@@ -6566,6 +6571,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Global Positioning System / GPS](concepts/GlobalPositioningSystem.md) — Satellite-navigation capability that moves from professional Garmin devices into commodity phone navigation and specialized sport/outdoor wearables.
+- [Navigation Device Commoditization](concepts/NavigationDeviceCommoditization.md) — Pattern where standalone navigation hardware loses willingness to pay once phones bundle maps and voice navigation as default services.
+- [Professional Wearable Moat](concepts/ProfessionalWearableMoat.md) — Specialized sport and outdoor wearable advantage built from GPS accuracy, battery, maps, metrics, reliability, and high-end user workflows.
+- [Specialized Hardware Vertical Integration](concepts/SpecializedHardwareVerticalIntegration.md) — Hardware operating model where owned manufacturing, warehouses, and service support product breadth, quality, and inventory control.
 - [Coffee Supply Chain Localization](concepts/CoffeeSupplyChainLocalization.md) — Cost and supplier side of adapting a global coffee chain to China's local procurement, vendor, and operating-pressure context.
 - [Bottled Beverage Demand Pressure](concepts/BottledBeverageDemandPressure.md) — Weakening of packaged water, juice, and carbonated drinks as fresh-made tea, coffee, and differentiated RTD categories absorb occasions.
 - [China Passenger Vehicle Demand Pressure](concepts/ChinaPassengerVehicleDemandPressure.md) — Domestic auto-sales weakness that pushes Chinese carmakers toward export growth and overseas localization.

@@ -2,8 +2,8 @@
 title: "Sports Entertainment Flywheel"
 type: concept
 tags: [sports, media, entertainment, strategy]
-sources: [vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, planet-money-vs-the-nbas-tanking-problem, can-world-cup-mania-grow-mls-in-the-us, diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427, the-nfl-1, ferrari-1]
-last_updated: 2026-08-07
+sources: [vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, planet-money-vs-the-nbas-tanking-problem, can-world-cup-mania-grow-mls-in-the-us, diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427, the-nfl-1, ferrari-1]
+last_updated: 2026-08-16
 ---
 
 # Sports Entertainment Flywheel
@@ -30,6 +30,8 @@ The 2026 [[FIFAWorldCup]] source adds a tournament version of the flywheel. [[FI
 
 [[diary-of-a-wnba-negotiator]] adds the women's basketball labor version. Attention around [[CaitlinClark]], [[AngelReese]], attendance, television coverage, and a new [[WNBA]] media-rights deal strengthened the flywheel, but the episode shows that player labor can demand [[SportsLaborRevenueSharing]] when athletes are central to the growth loop.
 
+[[kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]] adds the premium-franchise valuation version through the [[LosAngelesLakers|Los Angeles Lakers]]. The source connects a reported $12.5 billion transaction value to [[NationalBasketballAssociation|NBA]] media-rights expectations and to investor belief that live sports remain valuable under AI-era entertainment substitution.
+
 [[planet-money-vs-the-nbas-tanking-problem]] adds the competitive-integrity constraint. The [[NationalBasketballAssociation|NBA]] may have valuable media rights, teams, stars, and fan identity, but [[SportsTanking]] can still weaken the flywheel if late-season games become visibly misaligned with winning.
 
 [[22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]] adds the welfare and rhythm layer through football. The episode argues that clubs and mega-events can create happiness, identity, weekly structure, and shared attention even when ordinary financial accounts look weak, but [[SportsMegaEventWelfareAccounting]] also asks who receives that happiness and who bears hidden risks.
@@ -50,9 +52,11 @@ The 2026 [[FIFAWorldCup]] source adds a tournament version of the flywheel. [[FI
 - The Soccernomics source adds that the flywheel's value can be social and psychological as well as commercial, especially when fandom creates durable rhythm and belonging.
 - The NFL source adds that centralized revenue sharing can strengthen the flywheel when it increases the number of teams and markets that remain narratively alive.
 - Ferrari adds that a sports flywheel can spill into luxury-product pricing when the team is also the product brand.
+- Premium franchise valuations can rise when media rights, live-event scarcity, global fandom, and AI-resistant leisure expectations reinforce each other.
 
 ## Connections
 - [[FormulaOne]], [[FormulaOneGroup]], [[LibertyMedia]], [[DriveToSurvive]], [[Netflix]], [[Ferrari]], [[ScuderiaFerrari]], [[Tifosi]], [[NationalFootballLeague|NFL]], [[NFLFilms]], [[SuperBowl]], [[MondayNightFootball]], [[TaylorSwift]], [[TravisKelce]], [[FIFA]], [[FIFAWorldCup]], [[MajorLeagueSoccer]], [[SeattleSounders]], [[NewEnglandRevolution]], [[ChicagoFire]], [[JumillaCF]], [[Adidas]], [[Hisense]], [[Lenovo]], [[PremierLeague]], [[ManchesterUnited]], [[ArsenalFC]], [[LiverpoolFC]], [[ChelseaFC]], and [[NationalBasketballAssociation]] - source cases.
 - [[SportsMediaRights]], [[LeagueStakeholderAlignment]], [[LeagueFirstOperatingModel]], [[LiveSportsStreamingTransition]], [[SportsBettingEngagement]], [[WorldCupExpansion]], [[WorldCupHostCityEconomics]], [[FanFestivalCommercialization]], [[OfficialSportsTicketResale]], [[MajorEventAttentionConversion]], [[SportsFandomNetworkEffects]], [[SportsMegaEventWelfareAccounting]], [[SportsRightsGrowthEngine]], [[GlobalSportsSponsorship]], [[OfflineBrandActivation]], [[SportsLifestyleConsumption]], [[CostCapEconomics]], [[CorporateHospitalityPlatform]], [[FootballClubAsCommunityAsset]], [[AmericanSportsCapitalInEuropeanFootball]], [[FootballCommercializationFanConflict]], [[SportsDraftIncentiveDesign]], [[SportsTanking]], [[SportsCompetitiveBalance]], and [[EntertainmentIPFlywheel]] - related concepts.
 - [[LuxuryBrandAsSportsTeam]], [[LuxuryCommunityPyramid]], and [[RacingHeritageBrandMoat]] - Ferrari luxury-sports branch added by Acquired.
 - [[WNBA]], [[WNBAPlayersAssociation]], [[WomensSportsBusinessGrowth]], and [[SportsLaborRevenueSharing]] - women's basketball labor branch added by the WNBA negotiation source.
+- [[LosAngelesLakers]], [[NationalBasketballAssociation|NBA]], [[SportsMediaRights]], and [[AIResistantExperientialConsumption]] - premium team-valuation branch added by 声动早咖啡.
