@@ -2,13 +2,15 @@
 title: "FIFA World Cup"
 type: entity
 tags: [sports, football, event]
-sources: [vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, how-to-win-a-penalty-shootout-with-game-theory, can-world-cup-mania-grow-mls-in-the-us, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-264-ba-shijiebei-zuowei-fangfa-999416048, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]
-last_updated: 2026-08-07
+sources: [kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, how-to-win-a-penalty-shootout-with-game-theory, can-world-cup-mania-grow-mls-in-the-us, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-264-ba-shijiebei-zuowei-fangfa-999416048, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]
+last_updated: 2026-08-16
 ---
 
 # FIFA World Cup
 
 The FIFA World Cup appears in [[shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969]] as [[FIFA]]'s core commercial and political asset. The episode focuses on the 2026 edition, where the tournament expands from 32 to 48 teams and from 64 to 104 matches.
+
+[[kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054]] adds a consumption-spillover caveat from China. The source says the World Cup did not obviously lift domestic beer consumption because many matches started after 2 a.m. and rainy weather weakened outdoor night-economy scenes, showing that media attention does not automatically transfer into adjacent food-and-beverage demand.
 
 The source frames the 2026 tournament as a case where host-market infrastructure amplifies expansion economics. Existing stadiums in the [[UnitedStates]], a sponsor-rich North American market, dynamic ticketing norms, official resale fees, and hospitality inventory all make more matches more valuable than a simple count of extra games would suggest.
 
@@ -38,6 +40,7 @@ The source frames the 2026 tournament as a case where host-market infrastructure
 - The Soccernomics source adds that major-event value should be counted through welfare and distribution, not only through revenue or GDP claims.
 - E237 adds that World Cup rights can function as a national public-access event, a sublicensed platform-growth asset, and a sponsor-exposure constraint at the same time.
 - Vol.267 adds that the same tournament's commercial success can depend on cities and fans absorbing costs that do not show up in FIFA's core rights revenue.
+- 声动早咖啡 adds that tournament attention may fail to lift adjacent consumption when match timing, weather, and viewing occasions do not fit the product.
 
 ## Connections
 - [[FIFA]], [[GianniInfantino]], [[UEFA]], [[SeppBlatter]], and [[JoaoHavelange]] - governing and historical context.

@@ -2,11 +2,13 @@
 title: "Chain Restaurant Standardization"
 type: concept
 tags: [restaurants, operations, standardization, food-safety, localization]
-sources: [zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, chef-vs-robot, vol-263-lang-de-youhuo-998128018, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
+sources: [kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, chef-vs-robot, vol-263-lang-de-youhuo-998128018, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
 last_updated: 2026-08-16
 ---
 
 # Chain Restaurant Standardization
+
+[[kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054]] adds [[NiuniuSukiyaki]] as a [[SpecializedBuffetFormat|specialized buffet]] case. The source says narrowing the buffet around sukiyaki and [[Wagyu|wagyu]] can simplify SKUs and focus cost on core ingredients, but tiered all-you-can-eat menus still require repeatable sourcing, refill, freshness, and waste-control routines.
 
 [[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] adds [[YumChina]] as a modular expansion case. The source says Pizza Hut China used existing stores to test cafe formats before broader rollout, while KFC stores can add categories such as milk tea or soy milk through a "store-within-store" approach; this makes [[StoreWithinStoreFoodservice]] a standardization pattern that reuses kitchens, labor, rent, and traffic instead of opening a separate format first.
 
@@ -31,6 +33,7 @@ The episode's key distinction is that standardization is not the same as blindly
 - Cooking robots can standardize timing, heating, saucing, and cleaning, but they do not automatically standardize flavor at the level of a skilled chef.
 - Chain standardization can weaken food-court intermediaries when branded restaurants can use scale and operating systems to deal directly with mall landlords.
 - Store-within-store foodservice treats a restaurant's existing operating base as a test surface for adjacent categories, lowering the cost and risk of category expansion.
+- Specialized buffet standardization can reduce menu complexity, but it also makes the core ingredient's quality, refill rhythm, and perceived abundance more exposed.
 
 ## Connections
 - [[Sushiro]] - central source case.
@@ -43,3 +46,4 @@ The episode's key distinction is that standardization is not the same as blindly
 - [[RobbyWokbot]], [[RestaurantAutomation]], and [[RobotChefCostQualityTradeoff]] - machine-standardization branch added by Planet Money.
 - [[FoodRepublic]], [[MallFoodCourtDecline]], [[ShoppingCenterRestaurantization]], and [[FoodCourtBrandIncubation]] - food-court competition branch added by the 大食代 source.
 - [[YumChina]] and [[StoreWithinStoreFoodservice]] - modular foodservice expansion branch added by 声动早咖啡.
+- [[NiuniuSukiyaki]], [[Wagyu]], [[SpecializedBuffetFormat]], and [[BuffetBudgetLockIn]] - tiered wagyu buffet branch added by 声动早咖啡.

@@ -2,11 +2,13 @@
 title: "Restaurant Supply Chain Localization"
 type: concept
 tags: [restaurants, supply-chain, food, china, operations]
-sources: [zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]
+sources: [kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]
 last_updated: 2026-08-16
 ---
 
 # Restaurant Supply Chain Localization
+
+[[kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054]] adds a wagyu self-service expansion case through [[NiuniuSukiyaki]]. The source says the brand's supply chain has long been rooted in the Yangtze River Delta, so expansion into Beijing can raise cold-chain and long-haul transport costs even when consumer demand is strong.
 
 [[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] adds a [[YumChina]] example where localized supply and store operations support adjacent-category expansion. The source frames lower-ticket cafe and beverage modules as a way to reuse existing KFC and Pizza Hut assets, making supply chain readiness part of [[StoreWithinStoreFoodservice]] rather than only a new-store rollout constraint.
 
@@ -33,6 +35,7 @@ The concept extends the wiki's food-operations branch beyond packaged-goods logi
 - Farmers-market relationships can localize restaurant supply by letting chefs and growers coordinate seasonal demand before planting decisions.
 - Chain supply systems can turn malls from food-court aggregators into direct restaurant channels when brands can control cost, quality, and throughput across stores.
 - Shared supply and store systems can make adjacent categories viable inside existing restaurant footprints before they justify independent stores.
+- Premium self-service restaurants can create demand before supply has fully localized; expansion then tests cold-chain cost, product consistency, and whether the premium promise survives farther from the original supplier base.
 
 ## Connections
 - [[Sushiro]] - central source case.
@@ -46,3 +49,4 @@ The concept extends the wiki's food-operations branch beyond packaged-goods logi
 - [[Greenmarket]], [[UnionSquare]], [[GrowNYC]], and [[FarmersMarketUrbanism]] - market-mediated local sourcing branch added by The Intelligence.
 - [[FoodRepublic]], [[ChainRestaurantStandardization]], [[MallFoodCourtDecline]], and [[ShoppingCenterRestaurantization]] - food-court competition branch added by the 大食代 source.
 - [[YumChina]] and [[StoreWithinStoreFoodservice]] - adjacent-category reuse branch added by 声动早咖啡.
+- [[NiuniuSukiyaki]], [[Wagyu]], [[SpecializedBuffetFormat]], and [[BuffetBudgetLockIn]] - wagyu buffet expansion branch added by 声动早咖啡.

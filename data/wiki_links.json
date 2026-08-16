@@ -5175,6 +5175,10 @@
     "title": "Bee Colony Collapse",
     "url": "/wiki/concepts/beecolonycollapse/"
   },
+  "BeefGradingAsMarketInfrastructure": {
+    "title": "Beef Grading As Market Infrastructure / 牛肉分级作为交易基础设施",
+    "url": "/wiki/concepts/beefgradingasmarketinfrastructure/"
+  },
   "BeefSeries": {
     "title": "Beef",
     "url": "/wiki/entities/beefseries/"
@@ -6238,6 +6242,10 @@
   "BuenaVistaDistribution": {
     "title": "Buena Vista Distribution",
     "url": "/wiki/entities/buenavistadistribution/"
+  },
+  "BuffetBudgetLockIn": {
+    "title": "Buffet Budget Lock-In / 自助餐预算锁定",
+    "url": "/wiki/concepts/buffetbudgetlockin/"
   },
   "BuildABear": {
     "title": "Build-A-Bear",
@@ -20839,6 +20847,10 @@
     "title": "小林亮一 / Kobayashi Ryoichi",
     "url": "/wiki/entities/kobayashiryoichi/"
   },
+  "KobeBeef": {
+    "title": "Kobe Beef / 神户牛肉",
+    "url": "/wiki/entities/kobebeef/"
+  },
   "KodamaYoshio": {
     "title": "Kodama Yoshio / 儿玉誉士夫",
     "url": "/wiki/entities/kodamayoshio/"
@@ -26214,6 +26226,10 @@
   "NiuSengru": {
     "title": "牛僧儒",
     "url": "/wiki/entities/niusengru/"
+  },
+  "NiuniuSukiyaki": {
+    "title": "Niuniu Sukiyaki / 牛牛寿喜烧",
+    "url": "/wiki/entities/niuniusukiyaki/"
   },
   "NiuyueMantanlu": {
     "title": "纽约漫谈录 / Niuyue Mantanlu",
@@ -33515,6 +33531,10 @@
     "title": "Snake Renewal And Secret Knowledge",
     "url": "/wiki/concepts/snakerenewalandsecretknowledge/"
   },
+  "SnakeRiverFarms": {
+    "title": "Snake River Farms",
+    "url": "/wiki/entities/snakeriverfarms/"
+  },
   "Snap": {
     "title": "Snap",
     "url": "/wiki/entities/snap/"
@@ -33922,6 +33942,10 @@
   "SpatialNavigationTorus": {
     "title": "Spatial Navigation Torus",
     "url": "/wiki/concepts/spatialnavigationtorus/"
+  },
+  "SpecializedBuffetFormat": {
+    "title": "Specialized Buffet Format / 细分自助餐",
+    "url": "/wiki/concepts/specializedbuffetformat/"
   },
   "SpecializedIntelligence": {
     "title": "Specialized Intelligence",
@@ -38035,6 +38059,14 @@
     "title": "和田幸子 / Wada Sachiko",
     "url": "/wiki/entities/wadasachiko/"
   },
+  "Wagyu": {
+    "title": "Wagyu / 和牛",
+    "url": "/wiki/entities/wagyu/"
+  },
+  "WagyuPremiumBranding": {
+    "title": "Wagyu Premium Branding / 和牛贵价光环",
+    "url": "/wiki/concepts/wagyupremiumbranding/"
+  },
   "WahahaGroup": {
     "title": "娃哈哈 / Wahaha Group",
     "url": "/wiki/entities/wahahagroup/"
@@ -41970,6 +42002,10 @@
   "justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b": {
     "title": "Justin's Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.",
     "url": "/wiki/sources/justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b/"
+  },
+  "kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054": {
+    "title": "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？",
+    "url": "/wiki/sources/kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054/"
   },
   "kaitianchuang-moyu-ganxie-chui-dali-553650149": {
     "title": "开天窗：摸鱼+感谢+吹大理",

@@ -2,8 +2,8 @@
 title: "Zhang Yiming"
 type: entity
 tags: [person, founder, bytedance]
-sources: [touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2, no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]
-last_updated: 2026-08-08
+sources: [kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2, no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]
+last_updated: 2026-08-16
 ---
 
 # Zhang Yiming
@@ -20,6 +20,8 @@ For the wiki, Zhang matters less as a biography than as the founder lens on Byte
 
 [[no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]] adds Zhang through the Wukong Q&A conflict with [[Zhihu|知乎]]. The source cites his public criticism of Zhihu cofounder comments as part of a creator-respect dispute, but the larger wiki point is a boundary on ByteDance-style competition: subsidies and distribution can expose [[KnowledgeCommunityCreatorIncentives]] weakness without proving that a stable community has been built.
 
+[[kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054]] adds Zhang through a source-reported July meeting about [[ByteDance]] AI. The episode says Zhang argued that the company should not rely on distillation even if its AI capability lagged domestic competitors, because model-source disputes could increase scrutiny and create risk for [[TikTok]]'s global business.
+
 ## Connections
 - [[ByteDance]], [[Douyin]], and [[TikTok]] — company and product context.
 - [[PonyMa]], [[Tencent]], and [[WeChat]] — counterpart in the public conflict.
@@ -28,3 +30,4 @@ For the wiki, Zhang matters less as a biography than as the founder lens on Byte
 - [[Doushenshen]], [[CouponLedTransactionGrowth]], and [[GrowthROILayers]] — local-life ROI and opportunity-cost context added by episode 8.
 - [[WinRateStartupStrategy]], [[Albert]], and [[Douyin]] — founder-method example added by the 42章经 source.
 - [[Zhihu|知乎]], [[KnowledgeCommunityCreatorIncentives]], and [[CommunityVsContentPlatform]] — Wukong Q&A community-boundary branch added by episode 212.
+- [[Doubao]], [[TheInformation]], [[TikTok]], and [[AICommercializationPressure]] - distillation-governance caution added by 声动早咖啡.

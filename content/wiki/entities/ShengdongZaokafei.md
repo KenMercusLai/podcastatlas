@@ -2,11 +2,13 @@
 title: "声动早咖啡"
 type: entity
 tags: [podcast, media, business, technology, china]
-sources: [fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
+sources: [kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
 last_updated: 2026-08-16
 ---
 
 # 声动早咖啡
+
+[[kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054]] adds another roundup-and-explainer example. It opens with short updates on [[GoogleDeepMind]], [[ByteDance]], [[DisneyPlus|Disney+]], and the [[FIFAWorldCup|World Cup]], then uses [[NiuniuSukiyaki|牛牛寿喜烧]] and [[Wagyu|和牛]] to connect restaurant self-service economics, premium food branding, grading standards, and consumer budget control.
 
 [[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] adds another multi-item business-news scan. It links [[AbercrombieFitch|A&F]]'s China partner search, [[BainCapital]]'s [[GongCha]] acquisition, [[TruthAPI]]'s paid political-data speed, [[OpenAI]] and [[Apple]]'s hardware dispute, [[SpaceX]] AI capex, [[ChangXinMemory]] DRAM adoption by PC vendors, [[BYD]] localization in [[Brazil]] and [[Japan]], [[McDonalds|McDonald's]] traffic pressure, [[ProcterGamble]] buying [[Thorne]], and [[AvignonFestival]] as a cultural recommendation.
 
@@ -36,5 +38,6 @@ The show's launch frame is deliberately ritualized. Instead of advertising only 
 - [[Apple]], [[Qwen]], [[Seedance]], [[Aldi]], [[YumChina]], and [[Netflix]] - cross-industry news branches added by the August 2026 roundup.
 - [[LuckinCoffee]], [[Amazon]], [[DinTaiFung]], [[MarriottInternational]], and [[CustomMoviePopcornBuckets]] - business-update and entertainment-retail branches added by the popcorn-bucket episode.
 - [[AbercrombieFitch]], [[TruthAPI]], [[ChangXinMemory]], [[BYD]], [[McDonalds]], [[ProcterGamble]], and [[Thorne]] - cross-industry branches added by the August 2026 A&F/Truth API roundup.
+- [[NiuniuSukiyaki]], [[Wagyu]], [[SpecializedBuffetFormat]], [[BuffetBudgetLockIn]], and [[WagyuPremiumBranding]] - restaurant and premium-food branch added by the wagyu self-service episode.
 - [[MorningAudioRitual]], [[ShortFormBusinessTechAudio]], and [[PodcastReleaseCadence]] - format and habit concepts.
 - [[Coffee|Coffee / 咖啡]] and [[CaffeinatedModernity]] - metaphor and wakefulness branch.

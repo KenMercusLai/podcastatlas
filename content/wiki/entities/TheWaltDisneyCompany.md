@@ -2,8 +2,8 @@
 title: "The Walt Disney Company"
 type: entity
 tags: [company, media, entertainment, ip, theme-parks]
-sources: [disney-the-renaissance-and-the-empire-1, betty-boop-excel-olympics-penny-isms-our-2026-valentines, 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, the-walt-disney-company-1, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
-last_updated: 2026-08-11
+sources: [kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, disney-the-renaissance-and-the-empire-1, betty-boop-excel-olympics-penny-isms-our-2026-valentines, 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, the-walt-disney-company-1, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
+last_updated: 2026-08-16
 ---
 
 # The Walt Disney Company
@@ -13,6 +13,8 @@ The Walt Disney Company is the media and entertainment company examined in [[the
 In the wiki, Disney is the clearest case so far of an [[EntertainmentIPFlywheel]]. The company turned [[IPOwnership]] into a compounding system: [[MickeyMouse]], [[SnowWhiteAndTheSevenDwarfs]], and later park experiences could be reused across film, comics, clubs, merchandise, soundtracks, television, [[StrategicRerelease]], [[Disneyland]], [[WaltDisneyWorld]], and [[BuenaVistaDistribution]].
 
 [[disney-the-renaissance-and-the-empire-1]] adds the post-Walt second arc. The episode starts from the 1984 crisis and follows [[RoyEDisney]], [[MichaelEisner]], [[FrankWells]], [[JeffreyKatzenberg]], [[BobIger]], [[Pixar]], [[ESPN]], [[DisneyPlus|Disney+]], [[Hulu]], [[MarvelEntertainment|Marvel]], and [[Lucasfilm]] to show that Disney's flywheel repeatedly needed [[CreativeCoreRenewal]]. It also qualifies Disney's old distribution advantage: home video and cable helped fund the modern empire, while cord-cutting and streaming made the economics less favorable.
+
+[[kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054]] adds a current streaming-price experiment. The source says Disney is considering a free ad-supported streaming product after reporting streaming and experience-business growth, making the company a case where the [[EntertainmentIPFlywheel]] has to meet price-sensitive users, ad inventory, and a possible funnel into paid [[DisneyPlus|Disney+]].
 
 [[betty-boop-excel-olympics-penny-isms-our-2026-valentines]] adds Disney as a copyright-term lobbying reference rather than as the main subject. [[JenniferJenkins]] uses the long public-domain freeze to explain why the 1930 [[BettyBoop]] entering the public domain matters, making Disney part of the [[PublicDomainReuse]] and [[IPOwnership]] policy boundary.
 
@@ -45,6 +47,7 @@ In the wiki, Disney is the clearest case so far of an [[EntertainmentIPFlywheel]
 - The Disney Renaissance and Pixar acquisition show two different repair paths: internal animation reform and acquisition of an external creative system.
 - ESPN's cable affiliate fees made Disney's expansion look easier for years, but cord-cutting exposed that a distribution profit pool can decay even when the IP remains strong.
 - Disney+ may be strategically necessary for family reach and customer control, but streaming weakens the older scarcity, windowing, and cable economics that once made Disney unusually profitable.
+- A free ad-supported streaming product could widen Disney's funnel, but it also pushes the company further toward advertising, aggregation, and lower-price audience segments.
 
 ## Connections
 - [[WaltDisney]] and [[RoyDisney]] - founding and operating partnership.
@@ -61,3 +64,4 @@ In the wiki, Disney is the clearest case so far of an [[EntertainmentIPFlywheel]
 - [[RoyEDisney]], [[MichaelEisner]], [[FrankWells]], [[JeffreyKatzenberg]], [[BobIger]], and [[BobChapek]] - post-Walt leadership and governance arc added by Acquired.
 - [[DisneyRenaissance]], [[Pixar]], [[JohnLasseter]], [[EdCatmull]], [[SteveJobs]], [[MarvelEntertainment]], and [[Lucasfilm]] - creative renewal and IP-acquisition branch.
 - [[CapitalCitiesABC]], [[ESPN]], [[ESPNAffiliateFeeModel]], [[DisneyPlus]], [[Hulu]], [[BAMTech]], and [[StreamingContentTreadmill]] - cable-to-streaming distribution branch.
+- [[ShengdongZaokafei]], [[StreamingPlatformBundling]], and [[StreamingContentTreadmill]] - free ad-supported streaming funnel update added by 声动早咖啡.

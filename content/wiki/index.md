@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？](sources/kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054.md) — 声动早咖啡 episode linking Google DeepMind, Douyin ecommerce, Disney streaming, World Cup beer consumption, and a main explainer on wagyu buffet economics, grading, regional branding, and premium food storytelling.
 - [服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线](sources/fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677.md) — 声动早咖啡 episode linking A&F China partner talks, Bain Capital's Gong Cha acquisition, Truth Social's paid Truth API, OpenAI-Apple hardware dispute, SpaceX AI capex, ChangXin DRAM trials, BYD Brazil/Japan localization, McDonald's demand pressure, P&G's Thorne acquisition, and Avignon Festival.
 - [《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？](sources/aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628.md) — 声动早咖啡 episode on custom movie popcorn buckets as theatrical merchandise, linking theme-park souvenir logic, licensed design vendors, AMC/IMAX sales, social-media virality, fan collecting, China examples, and inventory risk, with short business updates on Luckin, Amazon, Din Tai Fung, and Marriott.
 - [「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战](sources/zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588.md) — 声动早咖啡 episode linking Apple component pressure, Spider-Man box-office concentration, AI model price cuts, C-DANCE/MiniMax video models, mini-program game monetization, Adidas marketing spend, hard-discount retail, Yum China store-within-store foodservice, and Netflix's YouTube-creator negotiations.
@@ -957,6 +958,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Niuniu Sukiyaki / 牛牛寿喜烧](entities/NiuniuSukiyaki.md) — Wagyu sukiyaki buffet chain used to explain fixed-budget premium dining and specialized buffet operations.
+- [Wagyu / 和牛](entities/Wagyu.md) — Japanese premium beef category whose status is built through breed definition, grading, origin branding, and restaurant translation.
+- [Kobe Beef / 神户牛肉](entities/KobeBeef.md) — Regional wagyu brand used as the best-known example of origin-based premium beef branding.
+- [Snake River Farms](entities/SnakeRiverFarms.md) — U.S. wagyu producer used to show chef-led and restaurant-led adoption of fatty Japanese-style beef.
 - [Abercrombie & Fitch / A&F](entities/AbercrombieFitch.md) — Apparel brand considering a China local-partner route in the episode.
 - [Bain Capital](entities/BainCapital.md) — Private-equity buyer in Gong Cha acquisition report.
 - [Truth API](entities/TruthAPI.md) — Truth Social paid low-latency data service for political posts and platform information.
@@ -6524,6 +6529,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Specialized Buffet Format / 细分自助餐](concepts/SpecializedBuffetFormat.md) — Buffet model narrowed around a single category or premium ingredient to simplify operations and sharpen customer value.
+- [Buffet Budget Lock-In / 自助餐预算锁定](concepts/BuffetBudgetLockIn.md) — Consumer-pricing pattern where fixed self-service prices make premium dining feel controlled.
+- [Wagyu Premium Branding / 和牛贵价光环](concepts/WagyuPremiumBranding.md) — Construction of wagyu's premium image through history, grades, origin stories, import competition, and chef translation.
+- [Beef Grading As Market Infrastructure / 牛肉分级作为交易基础设施](concepts/BeefGradingAsMarketInfrastructure.md) — Standard-setting pattern that turns yield, marbling, and meat quality into tradable signals without fully deciding taste.
 - [Political Information Latency](concepts/PoliticalInformationLatency.md) — Speed advantage from earlier or cleaner access to market-moving political information.
 - [Local Partner Market Entry](concepts/LocalPartnerMarketEntry.md) — Entering a target market through local capital or operator partnership.
 - [Supplement Brand Consolidation](concepts/SupplementBrandConsolidation.md) — Large CPG acquisition of supplement brands for recurring wellness demand.
