@@ -2,8 +2,8 @@
 title: "Caffeinated Modernity"
 type: concept
 tags: [coffee, modernity, work, public-space, consumption]
-sources: [74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]
-last_updated: 2026-07-15
+sources: [trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]
+last_updated: 2026-08-16
 ---
 
 # Caffeinated Modernity
@@ -12,12 +12,15 @@ Caffeinated modernity is the source's frame for [[Coffee|coffee]] as a drink ass
 
 The episode does not claim coffee alone caused the Enlightenment, modern literature, or industrial discipline. Its more defensible claim is that coffee became a practical and symbolic support for those worlds: it kept people awake, gave public talk a ritual object, offered an anti-alcohol reform image, and later helped factories and armies treat alertness as an operational input.
 
+[[trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439]] adds a contemporary media-routine variant. [[ShengdongZaokafei|声动早咖啡]] borrows the espresso image to promise a concentrated business-and-technology briefing that can wake the listener and organize the start of the workday.
+
 The concept also connects the historical branch to later consumer branches. In modern coffee-chain sources, coffee is still treated as routine, social pause, workplace signal, and daily convenience, but the emphasis shifts from Enlightenment sociability to store density, price tiers, brand experience, and local operating fit.
 
 ## Key Claims
 - Coffee's social meaning comes from both chemistry and setting: caffeine matters, but so do coffeehouses, offices, theaters, salons, armies, and factories.
 - The coffee-versus-alcohol contrast made coffee legible as a sober and orderly stimulant, even when rulers still feared the talk it enabled.
 - Modern work turns wakefulness into infrastructure; coffee can become a low-cost endurance technology.
+- A media product can borrow coffee's wakefulness symbolism when it is short, regular, and designed for the workday threshold.
 - The frame should stay source-scoped because modernity has many causes beyond one drink.
 
 ## Connections
@@ -26,3 +29,4 @@ The concept also connects the historical branch to later consumer branches. In m
 - [[CoffeeCommodityPolitics]] - trade, taxation, and state-control side.
 - [[LifestyleCostRationalization]] and [[MiddleClassConsumptionPressure]] - later everyday-coffee spending branch.
 - [[CoffeeChainInstitutionalization]] and [[PremiumEverydayBrandTension]] - modern chain-market continuation of coffee as daily habit.
+- [[ShengdongZaokafei|声动早咖啡]], [[MorningAudioRitual]], and [[ShortFormBusinessTechAudio]] - contemporary audio-habit use of the coffee metaphor.

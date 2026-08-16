@@ -2,8 +2,8 @@
 title: "Coffee / 咖啡"
 type: entity
 tags: [commodity, drink, coffee, global-history, retail]
-sources: [74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
-last_updated: 2026-08-05
+sources: [trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
+last_updated: 2026-08-16
 ---
 
 # Coffee / 咖啡
@@ -16,6 +16,8 @@ Other sources treat coffee as habit, channel, or product use case. [[ep35-jiangx
 
 [[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]] adds coffee as a sensory comparison point beside [[Wine|wine / 葡萄酒]] and tea. The episode is not mainly about the coffee market; it uses specialty coffee, Japanese hand-brew influence, acidity, roast preference, and personally odd flavor descriptions to support [[TasteTraining]] and [[FlavorAsSelfKnowledge]].
 
+[[trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439]] adds coffee as a media-positioning metaphor. [[ShengdongZaokafei|声动早咖啡]] uses the espresso image to make a short business-and-technology news show feel fresh, concentrated, energizing, and suited to a [[MorningAudioRitual]].
+
 ## Connections
 - [[QuanqiuShangyin|《全球上瘾》]] - historical book that makes coffee the protagonist of a material history.
 - [[CaffeinatedModernity]] - wakefulness, anti-alcohol contrast, work discipline, and rational-public symbolism.
@@ -24,3 +26,4 @@ Other sources treat coffee as habit, channel, or product use case. [[ep35-jiangx
 - [[CoffeeChainInstitutionalization]], [[CoffeeChainLocalization]], [[PremiumEverydayBrandTension]], and [[BeverageCategoryConvergence]] - modern chain-coffee market concepts.
 - [[VashonIslandCoffeeDust]], [[CaneDogCoffee]], [[Starbucks]], [[LuckinCoffee]], [[BlueBottleCoffee]], [[MannerCoffee]], and [[Sandunban]] - coffee-related entities already tracked by the wiki.
 - [[Wine|Wine / 葡萄酒]], [[TasteTraining]], and [[FlavorAsSelfKnowledge]] - sensory-comparison branch added by the wine crossover episode.
+- [[ShengdongZaokafei|声动早咖啡]] and [[MorningAudioRitual]] - coffee as a wakefulness and audio-habit metaphor.

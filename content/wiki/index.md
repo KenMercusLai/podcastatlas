@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Trailer ｜叮！下周一早晨，来杯「声动早咖啡」吧！](sources/trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439.md) — 声动早咖啡 trailer positioning a sub-15-minute Monday/Wednesday/Friday business-tech audio show as a workday morning ritual built around coffee, wakefulness, and lightweight information routines.
 - [EP274 如何找到适合自己的“更年期答案”？](sources/ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh.md) — Talk三联 episode with 萧楚舟, 孙若曦, and 南希 on menopause clinical shared decision-making, information triage, life reconstruction, male menopause visibility, family support, and workplace policy.
 - [You bet your life insurance](sources/you-bet-your-life-insurance.md) — Planet Money episode on life settlements, viatical-settlement origins during the AIDS crisis, mortality risk pricing, death-benefit portfolios, and the tradeoff in selling a family-protection policy for cash.
 - [States rush to police AI deepfakes ahead of midterm elections](sources/tech-20260814-tech-pod-128-tech-20260814-tech-pod-128.md) — Marketplace Tech episode with Maria Curi on Claude text watermarks, state political-deepfake laws, First Amendment limits, AI-tool liability, and the CFTC-New York fight over Kalshi prediction markets.
@@ -952,6 +953,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [声动早咖啡](entities/ShengdongZaokafei.md) — 声动活泼 workday-morning podcast positioned as short, fresh, concentrated business-and-technology audio.
+- [孟依](entities/MengYi.md) — 声动活泼 producer and host voice introducing 声动早咖啡 through morning routines and coffee metaphor.
 - [南希 / Nanxi](entities/NanxiWanxiang.md) — 万象更新 host whose EP274 discussion connects menopause symptoms, clinic preparation, information triage, family support, and workplace realities.
 - [万象更新](entities/WanxiangGengxin.md) — Podcast and listener-community context that brings menopause and women's-health stories into the EP274 Talk三联 discussion.
 - [李洪军 / Li Hongjun](entities/LiHongjun.md) — Xiehe urology director referenced in EP274 for survey evidence around severe male menopause-like conditions.
@@ -6496,6 +6499,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Morning Audio Ritual / 早间音频仪式](concepts/MorningAudioRitual.md) — Use of short, repeatable listening to help move from waking into the workday through information, mood, wakefulness, and planning.
+- [Short-Form Business-Tech Audio / 短时长商业科技音频](concepts/ShortFormBusinessTechAudio.md) — Compressed business-and-technology news format designed for narrow morning listening windows and fixed release cadence.
 - [Menopause Clinical Shared Decision-Making / 更年期临床共同决策](concepts/MenopauseClinicalSharedDecision.md) — Menopause-care frame where patients prepare symptoms, priorities, constraints, and goals for risk-benefit discussion with clinicians.
 - [Menopause Information Triage / 更年期信息辨别](concepts/MenopauseInformationTriage.md) — Health-literacy practice for filtering menopause books, social-media claims, products, and treatment messages against evidence and clinical context.
 - [Menopause Life Reconstruction / 更年期生活重构](concepts/MenopauseLifeReconstruction.md) — Frame where menopause becomes a coordinated life transition across medicine, habits, family, work, aging, and self-priority.

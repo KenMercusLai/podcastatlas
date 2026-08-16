@@ -2,8 +2,8 @@
 title: "Podcast Release Cadence"
 type: concept
 tags: [podcast, media, scheduling, audience]
-sources: [149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga, yi-tiao-jiemu-shuoming-xiwang-gewei-tingzhong-nenggou-tingwan-578621335, kaitianchuang-moyu-ganxie-chui-dali-553650149, gengxin-shijian-biandong-tongzhi-644387724]
-last_updated: 2026-08-06
+sources: [trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, 149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga, yi-tiao-jiemu-shuoming-xiwang-gewei-tingzhong-nenggou-tingwan-578621335, kaitianchuang-moyu-ganxie-chui-dali-553650149, gengxin-shijian-biandong-tongzhi-644387724]
+last_updated: 2026-08-16
 ---
 
 # Podcast Release Cadence
@@ -13,6 +13,8 @@ Podcast release cadence is the scheduling layer of a show: when listeners expect
 [[kaitianchuang-moyu-ganxie-chui-dali-553650149]] adds the disruption side of cadence. The hosts do not change the regular release time in this source; instead, they preserve the update slot with a short explanation, thank listeners, and warn that moving may still affect future preparation. Cadence here is maintained by transparency rather than by normal content volume.
 
 [[yi-tiao-jiemu-shuoming-xiwang-gewei-tingzhong-nenggou-tingwan-578621335]] adds a platform-review disruption. The host says a prepared episode failed review on some platforms while passing elsewhere, then tells listeners that a missing Wednesday update may mean the episode was blocked. Cadence here depends not only on production capacity but also on platform approval.
+
+[[trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439]] adds a launch-cadence case. [[ShengdongZaokafei|声动早咖啡]] starts with Monday, Wednesday, and Friday morning updates, while presenting daily release as a future goal after production mechanisms mature.
 
 The concept sits next to [[PodcastAsAsynchronousMedia]]. Podcasts are consumed asynchronously, but release timing still matters because listeners form routines, apps surface new episodes in time-based feeds, and shows compete for attention with other audio drops. A schedule change therefore affects both audience expectation and production rhythm.
 
@@ -26,6 +28,7 @@ The concept sits next to [[PodcastAsAsynchronousMedia]]. Podcasts are consumed a
 - Keeping a short update in the feed can maintain cadence while openly admitting that ordinary production capacity is temporarily constrained.
 - Platform review can make a scheduled update fail on one surface while remaining available elsewhere.
 - Episode 149 adds that weekly cadence can embed a show in listener routine, but algorithmic and information-flow platforms may reduce the felt importance of exact publish time.
+- A new show may deliberately start below daily cadence when production reliability is not yet mature enough for a daily promise.
 
 ## Connections
 - [[ChinesePodcastEcosystem]], [[SubscriptionVsAlgorithmPodcastDistribution]], [[YangYi|杨一]], and [[DavidWeng|大卫翁]] - episode 149 weekly-rhythm and algorithmic-feed qualification.
@@ -34,3 +37,4 @@ The concept sits next to [[PodcastAsAsynchronousMedia]]. Podcasts are consumed a
 - [[yi-tiao-jiemu-shuoming-xiwang-gewei-tingzhong-nenggou-tingwan-578621335]] - source that shows cadence disruption from platform review.
 - [[MihuanChishu|蜜獾吃书]] - show whose notice provides the case.
 - [[PodcastAsAsynchronousMedia]] - broader media-form frame that cadence qualifies rather than replaces.
+- [[ShengdongZaokafei|声动早咖啡]], [[MorningAudioRitual]], and [[ShortFormBusinessTechAudio]] - morning launch-cadence branch.
