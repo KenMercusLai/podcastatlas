@@ -2,8 +2,8 @@
 title: "Star Wars"
 type: entity
 tags: [franchise, science-fiction, film, television]
-sources: [29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]
-last_updated: 2026-08-13
+sources: [aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628, 29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]
+last_updated: 2026-08-16
 ---
 
 # Star Wars
@@ -16,6 +16,8 @@ The source argues that [[Andor|《安多》 / Andor]] is special inside this set
 
 [[caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]] adds Star Wars as a film-scoring influence example. The episode says recurring musical themes in films such as Star Wars inherit part of [[RichardWagner]]'s [[Leitmotif]] logic from [[DerRingDesNibelungen]], where music helps carry character, symbol, and narrative memory.
 
+[[aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628]] adds a merchandise-economics example through a 2019 R2-D2 popcorn bucket. In the source, [[ZincPopcornBuckets|Zinc]] and [[AMCTheatres|AMC Theatres]] use Star Wars recognition to prove that [[CustomMoviePopcornBuckets|custom movie popcorn buckets]] can sell as collectibles rather than ordinary concessions.
+
 ## Connections
 - [[GeorgeLucas]], [[JosephCampbell]], [[TheHeroWithAThousandFaces|《千面英雄》]], [[Monomyth]], and [[HeroJourneyNarrative]] - episode 29's mythology-and-story-structure branch.
 - [[Andor|《安多》 / Andor]] and [[RogueOne|《侠盗一号》 / Rogue One]] - works discussed by the source.
@@ -23,3 +25,4 @@ The source argues that [[Andor|《安多》 / Andor]] is special inside this set
 - [[CassianAndor]], [[MonMothma]], [[LuthenRael]], and [[SawGerrera]] - figures used to connect franchise story to resistance politics.
 - [[AntiHeroicResistanceNarrative]] and [[OrdinaryPeopleResistance]] - concepts the episode derives from the franchise contrast.
 - [[Leitmotif]], [[RichardWagner]], and [[DerRingDesNibelungen]] - music-influence branch added by The Intelligence.
+- [[ZincPopcornBuckets]], [[AMCTheatres]], and [[CustomMoviePopcornBuckets]] - theatrical merchandise branch added by 声动早咖啡.

@@ -7645,3 +7645,11 @@ Added source page for a 声动早咖啡 business-news roundup on Apple component
 ## [2026-08-16] lint | Wiki health check
 
 Ran health before lint; health scanned 10,881 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 10,881 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolves to providerless `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-16] ingest | 《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？
+
+Added source page for a 声动早咖啡 episode on custom movie popcorn buckets as theatrical merchandise, with short business updates on Luckin, Amazon, Din Tai Fung, and Marriott. Created pages for Custom Movie Popcorn Buckets, Zinc (popcorn-bucket design), Snap Creative, Golden Link, AMC Theatres, and IMAX; updated overview, index, 声动早咖啡, Luckin Coffee, Amazon, Whole Foods Market, Din Tai Fung, Marriott International, The Odyssey, Star Wars, Lucasfilm, Collectible Drop Scarcity, Theme Park As Media Platform, Entertainment IP Flywheel, Retail Inventory Velocity, and Inventory Write-Down Risk. No direct contradiction found; market-cap, store-count, and performance figures are kept source-scoped to the episode.
+
+## [2026-08-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

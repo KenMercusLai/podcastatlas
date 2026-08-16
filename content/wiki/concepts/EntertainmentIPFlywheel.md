@@ -2,8 +2,8 @@
 title: "Entertainment IP Flywheel"
 type: concept
 tags: [media, ip, strategy, distribution]
-sources: [disney-the-renaissance-and-the-empire-1, the-business-of-heated-rivalry, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, the-walt-disney-company-1, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
-last_updated: 2026-08-11
+sources: [aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628, disney-the-renaissance-and-the-empire-1, the-business-of-heated-rivalry, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, the-walt-disney-company-1, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
+last_updated: 2026-08-16
 ---
 
 # Entertainment IP Flywheel
@@ -13,6 +13,8 @@ An entertainment IP flywheel is a media strategy where owned characters and stor
 [[disney-the-renaissance-and-the-empire-1]] adds the lifecycle risk. Disney's flywheel can be harvested after the founder era, but the episode argues it breaks when new creative fuel weakens. [[DisneyRenaissance]] restores the loop through animated musicals, home video, Broadway, stores, and parks; [[Pixar]] repairs it again; [[DisneyPlus|Disney+]] then tests whether the flywheel can survive an always-on streaming environment.
 
 The concept extends the wiki's [[DistributionLedProductBuilding]] branch. Disney's product was not just a film or a character; it was a coordinated system for making audience affection reappear as tickets, merchandise, music, repeat viewing, television attention, park visits, and long-term brand trust.
+
+[[aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628]] adds a narrow theatrical-merchandise node through [[CustomMoviePopcornBuckets|custom movie popcorn buckets]]. The source shows IP value reappearing not only as sequels, streaming, or parks, but as a release-window object sold in cinemas and designed for fan display, jokes, resale, and social sharing.
 
 [[starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1]] adds a later-cycle example through [[ToyStory5]]. The episode treats the film not only as franchise continuation, but as a way to turn a current family problem - tablets, distracted parents, and lonely children - into [[ScreenTimeParenting]] drama inside a known IP world.
 
@@ -33,6 +35,7 @@ The concept extends the wiki's [[DistributionLedProductBuilding]] branch. Disney
 - Image-first IP can be commercially powerful without a deep story universe, but it faces different cycle and business-model risks from a narrative flywheel.
 - Franchise IP can also serve as credibility collateral for a media entrant, especially when the company uses known properties to prove execution before pursuing studio control.
 - In a smaller television case, fan merchandise can be the first visible flywheel node before future seasons or broader licensing are known.
+- Custom movie popcorn buckets are a micro-flywheel node: a film release creates attention, the bucket turns that attention into physical merchandise, and the object can feed more online discussion.
 - The flywheel is not self-renewing; it requires periodic [[CreativeCoreRenewal]] through talent, process, or carefully integrated acquisitions.
 - Distribution windows matter: [[DisneyVaultHomeVideoEconomics]] and cable can make IP extremely profitable, while the [[StreamingContentTreadmill]] can demand more output than premium IP systems naturally produce.
 
@@ -45,4 +48,5 @@ The concept extends the wiki's [[DistributionLedProductBuilding]] branch. Disney
 - [[Sanrio]], [[PopMart]], [[Labubu]], and [[ImageFirstIP]] - consumer-IP contrast added by FengTouQuan episode 142.
 - [[Skydance]], [[TopGunMaverick]], [[Paramount]], and [[DavidEllison]] - franchise-financing branch added by 商业就是这样.
 - [[HeatedRivalry|Heated Rivalry]], [[ProducerOwnedIPUpside]], and [[UnderservedRomanceAudience]] - smaller streaming-series branch added by Planet Money.
+- [[CustomMoviePopcornBuckets]], [[TheOdyssey]], [[StarWars]], [[AMCTheatres]], and [[IMAX]] - theater-merchandise branch added by 声动早咖啡.
 - [[DisneyRenaissance]], [[Pixar]], [[MarvelEntertainment]], [[Lucasfilm]], [[DisneyPlus]], and [[StreamingContentTreadmill]] - second Disney arc added by Acquired.

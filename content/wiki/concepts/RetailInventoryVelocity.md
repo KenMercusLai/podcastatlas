@@ -2,8 +2,8 @@
 title: "Retail Inventory Velocity"
 type: concept
 tags: [retail, operations, finance]
-sources: [what-makes-a-toy-go-viral, costco-1]
-last_updated: 2026-08-07
+sources: [aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628, what-makes-a-toy-go-viral, costco-1]
+last_updated: 2026-08-16
 ---
 
 # Retail Inventory Velocity
@@ -14,14 +14,18 @@ The concept is related to [[SalesVelocity]], but the unit is retailer-level work
 
 [[what-makes-a-toy-go-viral]] adds a supplier-side toy case through [[ReallyMagicalStuff|RMS]] and [[SquishyDumplings]]. RMS's direct-to-retailer shipment and refusal to warehouse large U.S. orders made velocity a shared retailer-supplier problem: viral demand was valuable only if product could reach channels such as [[FiveBelow]] before the trend cooled.
 
+[[aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628]] adds a cinema-merchandise case through [[CustomMoviePopcornBuckets|custom movie popcorn buckets]]. The source says theaters must choose order quantities months before a release, then sell through during a short film-attention window, so velocity depends on box office, word of mouth, character choice, and fan urgency.
+
 ## Key Claims
 - High item volume and low assortment make inventory velocity easier to achieve.
 - Fast turnover reduces the amount of capital trapped in stock.
 - Velocity supports supplier bargaining power because suppliers can move large volume through fewer SKUs.
 - Retailers with slow-moving or custom inventory face more [[InventoryWriteDownRisk]] if demand weakens.
 - In viral toy retail, speed also protects the supplier by reducing the amount of speculative stock held after a short social-media trend.
+- In film merchandise, release-window velocity is especially unforgiving because demand may disappear once the film leaves the cultural conversation.
 
 ## Connections
 - [[Costco]], [[PriceClub]], [[Walmart]], and [[HomeDepot|Home Depot]] - source comparison.
 - [[LimitedSKUOperatingModel]], [[NegativeCashConversionCycle]], [[CrossDockingRetail]], [[WarehouseClubModel]], [[SalesVelocity]], and [[InventoryWriteDownRisk]] - adjacent concepts.
 - [[ReallyMagicalStuff|RMS]], [[SquishyDumplings]], [[FiveBelow]], and [[ViralToySupplyChain]] - toy-retail extension.
+- [[CustomMoviePopcornBuckets]], [[AMCTheatres]], and [[CollectibleDropScarcity]] - movie-theater extension added by 声动早咖啡.

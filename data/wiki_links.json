@@ -2139,6 +2139,10 @@
     "title": "阿健",
     "url": "/wiki/entities/ajianinsurancewriter/"
   },
+  "AMCTheatres": {
+    "title": "AMC Theatres",
+    "url": "/wiki/entities/amctheatres/"
+  },
   "AMILabs": {
     "title": "AMI Labs",
     "url": "/wiki/entities/amilabs/"
@@ -9739,6 +9743,10 @@
     "title": "Curtis Liu",
     "url": "/wiki/entities/curtisliu/"
   },
+  "CustomMoviePopcornBuckets": {
+    "title": "Custom Movie Popcorn Buckets / 电影定制爆米花桶",
+    "url": "/wiki/concepts/custommoviepopcornbuckets/"
+  },
   "CustomerCoCreation": {
     "title": "Customer Co-Creation",
     "url": "/wiki/concepts/customercocreation/"
@@ -15579,6 +15587,10 @@
     "title": "Golden Fleece / 金羊毛",
     "url": "/wiki/entities/goldenfleece/"
   },
+  "GoldenLink": {
+    "title": "Golden Link",
+    "url": "/wiki/entities/goldenlink/"
+  },
   "GoldmanSachs": {
     "title": "Goldman Sachs",
     "url": "/wiki/entities/goldmansachs/"
@@ -17794,6 +17806,10 @@
   "ILibertine": {
     "title": "I, Libertine",
     "url": "/wiki/entities/ilibertine/"
+  },
+  "IMAX": {
+    "title": "IMAX",
+    "url": "/wiki/entities/imax/"
   },
   "IMAgentInterfaces": {
     "title": "IM Agent Interfaces",
@@ -33471,6 +33487,10 @@
     "title": "Snap",
     "url": "/wiki/entities/snap/"
   },
+  "SnapCreative": {
+    "title": "Snap Creative",
+    "url": "/wiki/entities/snapcreative/"
+  },
   "Snapchat": {
     "title": "Snapchat",
     "url": "/wiki/entities/snapchat/"
@@ -40807,6 +40827,10 @@
     "title": "自立",
     "url": "/wiki/entities/zili/"
   },
+  "ZincPopcornBuckets": {
+    "title": "Zinc (popcorn-bucket design)",
+    "url": "/wiki/entities/zincpopcornbuckets/"
+  },
   "ZoeChase": {
     "title": "Zoe Chase",
     "url": "/wiki/entities/zoechase/"
@@ -40986,6 +41010,10 @@
   "an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c": {
     "title": "An interview with Elon Musk",
     "url": "/wiki/sources/an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c/"
+  },
+  "aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628": {
+    "title": "《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？",
+    "url": "/wiki/sources/aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628/"
   },
   "ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex": {
     "title": "把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家",
