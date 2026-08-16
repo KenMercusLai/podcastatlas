@@ -2,11 +2,13 @@
 title: "Franchise-Led Consumer Chain Expansion"
 type: concept
 tags: [franchising, retail, consumer, operations, china, united-states]
-sources: [fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, 132-xuegao-jianghu-fengtouquan-1-132-1, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, theres-no-business-like-dough-business, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
+sources: [bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, 132-xuegao-jianghu-fengtouquan-1-132-1, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, theres-no-business-like-dough-business, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
 last_updated: 2026-08-16
 ---
 
 # Franchise-Led Consumer Chain Expansion
+
+[[bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453]] adds a brand-royalty recapture version through [[YumChina]] and [[PizzaHutChina]]. The source says Yum China completed its purchase of Pizza Hut brand ownership in mainland China, removing franchise fees to Yum Brands and potentially improving margins and franchisee expansion appetite.
 
 [[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] adds the private-equity ownership layer through [[BainCapital]]'s reported acquisition of [[GongCha]]. The case suggests that once a chain has a broad franchise footprint and legible operating profit, expansion capital and restaurant operating experience can become part of the next scaling stage.
 
@@ -30,6 +32,7 @@ The episode argues that China's tea-drink and coffee wars created a pool of more
 - Same-franchisee clustering can reduce channel conflict when nearby units are evaluated as one local operating system rather than rival stores.
 - Cross-border franchising works only when local operators can handle leases, labor, marketing, and consumer explanation; otherwise franchise speed can amplify misunderstanding.
 - Private-equity ownership can sit above franchise-led chains as a capital and operating-knowledge layer, but it still depends on local store economics and operator quality.
+- Recapturing brand royalties can change unit economics; the brand may not change, but the fee structure can make future stores more attractive.
 
 ## Connections
 - [[YerenXiansheng]] and [[MixueBingcheng]] - source cases connected to franchise-heavy Chinese consumer chains.
@@ -40,3 +43,4 @@ The episode argues that China's tea-drink and coffee wars created a pool of more
 - [[WetzelsPretzels]], [[RickyAlam]], [[ImpulseRetailClustering]], and [[SharedKitchenSatelliteRetail]] - U.S. pretzel-chain case where franchising and close-location economics overlap.
 - [[GongCha]], [[MoliNaiBai]], [[Chagee]], [[USRestaurantRealEstateConstraint]], and [[RestaurantCulturalLegibility]] - U.S. tea-drink and foodservice localization branch added by E232.
 - [[BainCapital]] - ownership and expansion-capital branch added by 声动早咖啡.
+- [[YumChina]] and [[PizzaHutChina]] - brand-ownership and franchise-fee branch added by the later 声动早咖啡 source.

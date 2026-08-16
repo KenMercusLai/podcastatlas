@@ -2,11 +2,13 @@
 title: "Qwen"
 type: entity
 tags: [model, open-source, ai]
-sources: [zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, 270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
+sources: [bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, 270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
 last_updated: 2026-08-16
 ---
 
 # Qwen
+
+[[bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453]] adds a commercialization-policy update. The source says Reuters reported that Alibaba's next-generation Qwen would remain open source, but that Alibaba planned to share in revenue when large customers use the model to earn money. This keeps Qwen inside [[AICommercializationPressure]]: open ecosystem reach still has to be reconciled with direct business capture.
 
 [[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] adds Qwen through the source-named "千问 3.8 Max" price-war segment. The episode presents the model as a flagship Alibaba release whose performance can be compared with top [[Anthropic]] models, while placing its price between [[KimiK3|Kimi K3]] and a cheaper source-named competing model. The wiki relevance is [[ModelRoutingCostControl]]: Qwen is part of the set of viable models users can route across by price, accuracy, and task fit.
 
@@ -47,6 +49,7 @@ Qwen is Alibaba's model family and the technical focus of [[ali-qianwen-lizhi-yu
 - In the SAP source, treated as a local model component for enterprise AI integration rather than only a consumer assistant or open-source base model.
 - In episode 270, treated as the model brand leading Alibaba's AI-office stack over DingTalk and adjacent work-agent products.
 - In the 声动早咖啡 source, treated as a flagship model participating in cross-provider price competition and task-fit routing.
+- In the later 声动早咖啡 source, treated as an open model family whose commercial boundary may include revenue sharing from large customer monetization.
 
 ## Connections
 - [[KimiK3]], [[OpenWeightCommercialLicensing]], and [[LargeCompanyOpenSourceStrategy]] - E246's comparison between open ecosystem influence and model-company monetization.
@@ -64,3 +67,4 @@ Qwen is Alibaba's model family and the technical focus of [[ali-qianwen-lizhi-yu
 - [[SAP]], [[AlibabaCloud]], [[DingTalk]], and [[BusinessLedAITransformation]] — enterprise software integration branch added by LateTalk.
 - [[AIOfficeAgent]], [[DingTalk]], [[Alibaba]], [[TencentWorkBody]], and [[Doubao]] - AI-office competition branch added by Luanfanshu episode 270.
 - [[KimiK3]], [[Anthropic]], [[OpenAI]], [[ModelRoutingCostControl]], and [[ClosedModelAPIMoatPressure]] - price-war and model-choice branch added by 声动早咖啡.
+- [[DeepSeek]], [[Alibaba]], [[AICommercializationPressure]], and [[LargeCompanyOpenSourceStrategy]] - commercialization-boundary branch added by the later 声动早咖啡 source.

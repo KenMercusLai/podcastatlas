@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [巴黎水和圣培露还能赚钱，雀巢为何要剥离水业务？](sources/bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453.md) — 声动早咖啡 episode on Nestle moving Perrier, San Pellegrino, Acqua Panna, and other water/premium-beverage brands into a Platinum Equity joint venture, linking bottled-water margins, source risk, packaging/logistics cost, CPG portfolio focus, and side updates on Alo Yoga/Tmall, OpenAI hardware, DeepSeek/Qwen pricing, and Yum China/Pizza Hut China.
 - [咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？](sources/kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054.md) — 声动早咖啡 episode linking Google DeepMind, Douyin ecommerce, Disney streaming, World Cup beer consumption, and a main explainer on wagyu buffet economics, grading, regional branding, and premium food storytelling.
 - [服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线](sources/fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677.md) — 声动早咖啡 episode linking A&F China partner talks, Bain Capital's Gong Cha acquisition, Truth Social's paid Truth API, OpenAI-Apple hardware dispute, SpaceX AI capex, ChangXin DRAM trials, BYD Brazil/Japan localization, McDonald's demand pressure, P&G's Thorne acquisition, and Avignon Festival.
 - [《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？](sources/aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628.md) — 声动早咖啡 episode on custom movie popcorn buckets as theatrical merchandise, linking theme-park souvenir logic, licensed design vendors, AMC/IMAX sales, social-media virality, fan collecting, China examples, and inventory risk, with short business updates on Luckin, Amazon, Din Tai Fung, and Marriott.
@@ -958,6 +959,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Perrier / 巴黎水](entities/Perrier.md) — Premium sparkling mineral-water brand used to show how lifestyle value and source-authenticity risk can coexist inside Nestle's water portfolio.
+- [S.Pellegrino / San Pellegrino / 圣培露](entities/SanPellegrino.md) — Premium Italian mineral-water brand whose fine-dining marketing illustrates high-end bottled-water economics.
+- [Platinum Equity](entities/PlatinumEquity.md) — U.S. private-equity firm buying 50% of Nestle's water and premium-beverage business in the source's joint-venture account.
+- [Laurent Freixe / 菲奈瑞](entities/LaurentFreixe.md) — Nestle CEO figure tied by the source to renewed portfolio focus on higher-margin core CPG categories.
+- [Vittel](entities/Vittel.md) — French mineral-water brand marking Nestle's 1969 entry into the bottled-water business.
+- [Nestle Pure Life / 雀巢优活](entities/NestlePureLife.md) — Mass-market Nestle bottled-water line used as the contrast to premium water brands and the China water-business sale.
+- [Tsingtao Brewery Group / 青岛啤酒集团](entities/TsingtaoBreweryGroup.md) — Buyer of Nestle's China mainland water business in the source's staged-withdrawal history.
+- [Acqua Panna / 普纳](entities/AcquaPanna.md) — Premium water brand included in the Nestle-Platinum Equity joint-venture portfolio.
+- [Tmall / 天猫](entities/Tmall.md) — Alibaba ecommerce platform used by Alo Yoga as an official mainland China market-entry test.
+- [Pizza Hut China / 必胜客中国](entities/PizzaHutChina.md) — Yum China brand-ownership case where recaptured franchise fees can improve restaurant expansion economics.
 - [Niuniu Sukiyaki / 牛牛寿喜烧](entities/NiuniuSukiyaki.md) — Wagyu sukiyaki buffet chain used to explain fixed-budget premium dining and specialized buffet operations.
 - [Wagyu / 和牛](entities/Wagyu.md) — Japanese premium beef category whose status is built through breed definition, grading, origin branding, and restaurant translation.
 - [Kobe Beef / 神户牛肉](entities/KobeBeef.md) — Regional wagyu brand used as the best-known example of origin-based premium beef branding.
@@ -6529,6 +6540,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Bottled Water Portfolio Spinout](concepts/BottledWaterPortfolioSpinout.md) — Strategy pattern where a CPG owner separates a still-growing bottled-water business because margin, cost structure, and risk fit poorly with core categories.
+- [Premium Bottled Water Economics](concepts/PremiumBottledWaterEconomics.md) — Category logic where source story and lifestyle branding support price but packaging, logistics, and site-bound operations weigh on margins.
+- [Water Source Authenticity Risk](concepts/WaterSourceAuthenticityRisk.md) — Trust and regulatory risk when a premium water brand's value depends on natural source, mineral identity, and treatment claims.
+- [CPG Portfolio Focus](concepts/CPGPortfolioFocus.md) — Consumer-goods strategy pattern where management trims business sprawl to concentrate resources on stronger-margin, higher-synergy categories.
 - [Specialized Buffet Format / 细分自助餐](concepts/SpecializedBuffetFormat.md) — Buffet model narrowed around a single category or premium ingredient to simplify operations and sharpen customer value.
 - [Buffet Budget Lock-In / 自助餐预算锁定](concepts/BuffetBudgetLockIn.md) — Consumer-pricing pattern where fixed self-service prices make premium dining feel controlled.
 - [Wagyu Premium Branding / 和牛贵价光环](concepts/WagyuPremiumBranding.md) — Construction of wagyu's premium image through history, grades, origin stories, import competition, and chef translation.

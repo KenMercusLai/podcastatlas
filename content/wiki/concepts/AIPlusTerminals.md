@@ -2,11 +2,13 @@
 title: "AI Plus Terminals"
 type: concept
 tags: [ai, hardware, commercialization]
-sources: [ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources: [bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
+last_updated: 2026-08-16
 ---
 
 # AI Plus Terminals
+
+[[bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453]] adds a fresh OpenAI hardware-rumor version. The source says Bloomberg reported a planned 2027 screenless, smart-speaker-like OpenAI device with battery, microphones, speakers, camera, and environmental sensors, priced in internal discussion around $300-$400. The episode frames the product-fit problem clearly: turning [[ChatGPT]] into a movable physical assistant still has to prove everyday user value and a viable business model.
 
 AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan]]: foundation-model companies may need hardware or device carriers that connect models, software, users, physical data, and repeated usage. In the source, this is the strategic bridge between [[StepFun]] as a foundation-model company and [[QianliTechnology]] as an AI-and-car company.
 
@@ -61,6 +63,7 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 - Wearable assistants can justify a separate terminal when the job is body-proximate context, private audio, no-hand interaction, and proactive reminders rather than another screen.
 - AI terminal attempts can inherit hardware-industry legal risk when product design depends on talent, suppliers, or manufacturing knowledge from incumbent device makers.
 - Incumbent hardware companies face the opposite pressure: even strong platform control may not be enough if the post-phone terminal is still unclear to consumers.
+- The OpenAI hardware rumor adds that a screenless home/mobility device must justify itself against cheap smart speakers, phones, and existing assistant habits, not only against model capability.
 
 ## Connections
 - [[YinQi]], [[StepFun]], and [[QianliTechnology]] — source speaker and company pair behind the thesis.
@@ -83,3 +86,4 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 - [[Apple]], [[AIHardwareTradeSecretDispute]], and [[Bloomberg]] — legal and reported-device-detail branch added by the July 2026 Marketplace Tech Bytes source.
 - [[Apple]], [[TimCook]], [[JohnTernus]], [[AppleIntelligence]], [[VisionPro]], and [[SmartphoneAIHub]] - Apple succession and next-device branch added by Marketplace Tech Bytes.
 - [[DongHongguang]], [[GuangfanTechnology]], and [[WearableAIAssistant]] — earbuds/watch assistant route added by S10E15.
+- [[OpenAI]], [[ChatGPT]], [[JonyIve]], and [[AIHardwareTradeSecretDispute]] - OpenAI screenless-device and legal-risk branch extended by 声动早咖啡.

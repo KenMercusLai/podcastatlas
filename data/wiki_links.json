@@ -2423,6 +2423,10 @@
     "title": "Achilles",
     "url": "/wiki/entities/achilles/"
   },
+  "AcquaPanna": {
+    "title": "Acqua Panna / 普纳",
+    "url": "/wiki/entities/acquapanna/"
+  },
   "Acquired": {
     "title": "Acquired",
     "url": "/wiki/entities/acquired/"
@@ -5979,6 +5983,10 @@
     "title": "Boston University",
     "url": "/wiki/entities/bostonuniversity/"
   },
+  "BottledWaterPortfolioSpinout": {
+    "title": "Bottled Water Portfolio Spinout",
+    "url": "/wiki/concepts/bottledwaterportfoliospinout/"
+  },
   "BottomUpEnterpriseDistribution": {
     "title": "Bottom-Up Enterprise Distribution",
     "url": "/wiki/concepts/bottomupenterprisedistribution/"
@@ -6466,6 +6474,10 @@
   "CPGManufacturingScaleUp": {
     "title": "CPG Manufacturing Scale-Up",
     "url": "/wiki/concepts/cpgmanufacturingscaleup/"
+  },
+  "CPGPortfolioFocus": {
+    "title": "CPG Portfolio Focus",
+    "url": "/wiki/concepts/cpgportfoliofocus/"
   },
   "CPGroup": {
     "title": "CP Group / 正大集团",
@@ -21363,6 +21375,10 @@
     "title": "Lauren Weber",
     "url": "/wiki/entities/laurenweber/"
   },
+  "LaurentFreixe": {
+    "title": "Laurent Freixe / 菲奈瑞",
+    "url": "/wiki/entities/laurentfreixe/"
+  },
   "LaurieBarber": {
     "title": "Laurie Barber",
     "url": "/wiki/entities/lauriebarber/"
@@ -25875,6 +25891,10 @@
     "title": "Nestle",
     "url": "/wiki/entities/nestle/"
   },
+  "NestlePureLife": {
+    "title": "Nestle Pure Life / 雀巢优活",
+    "url": "/wiki/entities/nestlepurelife/"
+  },
   "NetEase": {
     "title": "NetEase",
     "url": "/wiki/entities/netease/"
@@ -27987,6 +28007,10 @@
     "title": "Perplexity",
     "url": "/wiki/entities/perplexity/"
   },
+  "Perrier": {
+    "title": "Perrier / 巴黎水",
+    "url": "/wiki/entities/perrier/"
+  },
   "PersianMiniaturePainting": {
     "title": "Persian Miniature Painting",
     "url": "/wiki/concepts/persianminiaturepainting/"
@@ -28411,6 +28435,10 @@
     "title": "Pixar",
     "url": "/wiki/entities/pixar/"
   },
+  "PizzaHutChina": {
+    "title": "Pizza Hut China / 必胜客中国",
+    "url": "/wiki/entities/pizzahutchina/"
+  },
   "PlaceBasedAntiPovertyPolicy": {
     "title": "Place-Based Anti-Poverty Policy",
     "url": "/wiki/concepts/placebasedantipovertypolicy/"
@@ -28546,6 +28574,10 @@
   "PlatformizedDramaProduction": {
     "title": "Platformized Drama Production",
     "url": "/wiki/concepts/platformizeddramaproduction/"
+  },
+  "PlatinumEquity": {
+    "title": "Platinum Equity",
+    "url": "/wiki/entities/platinumequity/"
   },
   "Plato": {
     "title": "Plato / 柏拉图",
@@ -29050,6 +29082,10 @@
   "PremierPadel": {
     "title": "Premier Padel",
     "url": "/wiki/entities/premierpadel/"
+  },
+  "PremiumBottledWaterEconomics": {
+    "title": "Premium Bottled Water Economics",
+    "url": "/wiki/concepts/premiumbottledwatereconomics/"
   },
   "PremiumEverydayBrandTension": {
     "title": "Premium-Everyday Brand Tension",
@@ -31930,6 +31966,10 @@
   "SanFranciscoBayArea": {
     "title": "San Francisco Bay Area",
     "url": "/wiki/entities/sanfranciscobayarea/"
+  },
+  "SanPellegrino": {
+    "title": "S.Pellegrino / San Pellegrino / 圣培露",
+    "url": "/wiki/entities/sanpellegrino/"
   },
   "SanShengPharma": {
     "title": "SanSheng Pharma / 三生制药",
@@ -36439,6 +36479,10 @@
     "title": "Tlatelolco Massacre / 三文化广场枪击",
     "url": "/wiki/entities/tlatelolcomassacre/"
   },
+  "Tmall": {
+    "title": "Tmall / 天猫",
+    "url": "/wiki/entities/tmall/"
+  },
   "ToAgentDistribution": {
     "title": "To-Agent Distribution",
     "url": "/wiki/concepts/toagentdistribution/"
@@ -36990,6 +37034,10 @@
   "TsinghuaUniversity": {
     "title": "Tsinghua University / 清华大学",
     "url": "/wiki/entities/tsinghuauniversity/"
+  },
+  "TsingtaoBreweryGroup": {
+    "title": "Tsingtao Brewery Group / 青岛啤酒集团",
+    "url": "/wiki/entities/tsingtaobrewerygroup/"
   },
   "TsunekoNoLongerHuman": {
     "title": "常子 / Tsuneko",
@@ -37971,6 +38019,10 @@
     "title": "Vitaly Kamluk",
     "url": "/wiki/entities/vitalykamluk/"
   },
+  "Vittel": {
+    "title": "Vittel",
+    "url": "/wiki/entities/vittel/"
+  },
   "VitusBering": {
     "title": "Vitus Bering / 维图斯·白令",
     "url": "/wiki/entities/vitusbering/"
@@ -38418,6 +38470,10 @@
   "WaterRightsTrading": {
     "title": "Water Rights Trading",
     "url": "/wiki/concepts/waterrightstrading/"
+  },
+  "WaterSourceAuthenticityRisk": {
+    "title": "Water Source Authenticity Risk",
+    "url": "/wiki/concepts/watersourceauthenticityrisk/"
   },
   "WatsonPower": {
     "title": "华生力 / Watson Power",
@@ -41106,6 +41162,10 @@
   "baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy": {
     "title": "百万个景观社会：听说你也想当主播？",
     "url": "/wiki/sources/baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy/"
+  },
+  "bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453": {
+    "title": "巴黎水和圣培露还能赚钱，雀巢为何要剥离水业务？",
+    "url": "/wiki/sources/bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453/"
   },
   "battlefield-rare-earths-how-the-us-lost-to-china": {
     "title": "Battlefield rare earths: How the U.S. lost to China",

@@ -3,6 +3,7 @@ title: "AI Commercialization Pressure"
 type: concept
 tags: [ai, commercialization, strategy]
 sources:
+  - bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453
   - 270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4
   - duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1
   - 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2
@@ -36,10 +37,12 @@ sources:
   - dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi
   - ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx
   - ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1
-last_updated: 2026-08-08
+last_updated: 2026-08-16
 ---
 
 # AI Commercialization Pressure
+
+[[bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453]] adds the API-pricing and open-model monetization version. The source says [[DeepSeek]] planned to raise API prices substantially, while [[Qwen]] may remain open source but seek revenue sharing from large customers who monetize the model. This frames commercialization pressure as a boundary-setting problem: low-cost access and open ecosystems can build adoption, but providers still need a durable way to pay for compute and capture value.
 
 [[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] adds the venture-market split between model heat and application coldness. [[QuKai]] argues that investors can currently see model-company value more easily than application-company value, especially after coding and reasoning progress, but application companies still have to prove commercialization through revenue, overseas execution, user value, and cash-flow survival rather than through AI labels.
 
