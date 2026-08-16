@@ -6419,6 +6419,10 @@
     "title": "COWZ",
     "url": "/wiki/entities/cowz/"
   },
+  "CPEYuanfeng": {
+    "title": "CPE 源峰",
+    "url": "/wiki/entities/cpeyuanfeng/"
+  },
   "CPGDistribution": {
     "title": "CPG Distribution",
     "url": "/wiki/concepts/cpgdistribution/"
@@ -7386,6 +7390,10 @@
   "ChelseaFC": {
     "title": "Chelsea FC",
     "url": "/wiki/entities/chelseafc/"
+  },
+  "ChemicalControlAsManufacturingCapability": {
+    "title": "Chemical Control As Manufacturing Capability",
+    "url": "/wiki/concepts/chemicalcontrolasmanufacturingcapability/"
   },
   "Chemosensation": {
     "title": "Chemosensation",
@@ -8362,6 +8370,10 @@
   "CleanEditionClassicReading": {
     "title": "Clean Edition Classic Reading",
     "url": "/wiki/concepts/cleaneditionclassicreading/"
+  },
+  "CleanThrough": {
+    "title": "Clean Through",
+    "url": "/wiki/entities/cleanthrough/"
   },
   "ClearCustomerDefinition": {
     "title": "Clear Customer Definition",
@@ -18411,6 +18423,10 @@
     "title": "Interest-Based Negotiation / 利益导向谈判",
     "url": "/wiki/concepts/interestbasednegotiation/"
   },
+  "InterfaceScience": {
+    "title": "Interface Science / 界面科学",
+    "url": "/wiki/concepts/interfacescience/"
+  },
   "IntergenerationalPatternPause": {
     "title": "Intergenerational Pattern Pause / 代际模式暂停键",
     "url": "/wiki/concepts/intergenerationalpatternpause/"
@@ -20374,6 +20390,14 @@
   "KangxiLaile": {
     "title": "《康熙来了》 / Kangxi Coming",
     "url": "/wiki/entities/kangxilaile/"
+  },
+  "Kao": {
+    "title": "Kao / 花王",
+    "url": "/wiki/entities/kao/"
+  },
+  "KaoHsinchuPrecisionCleaningCenter": {
+    "title": "Kao Hsinchu Precision Cleaning Center / 花王新竹精密洗净中心",
+    "url": "/wiki/entities/kaohsinchuprecisioncleaningcenter/"
   },
   "Kaolin": {
     "title": "Kaolin / 高岭土",
@@ -23087,6 +23111,10 @@
     "title": "妈妈会 / Mama Hui",
     "url": "/wiki/concepts/mamahui/"
   },
+  "Mammut": {
+    "title": "Mammut / 猛犸象",
+    "url": "/wiki/entities/mammut/"
+  },
   "MamoonHamid": {
     "title": "Mamoon Hamid",
     "url": "/wiki/entities/mamoonhamid/"
@@ -25430,6 +25458,10 @@
   "NaftaliBennett": {
     "title": "Naftali Bennett",
     "url": "/wiki/entities/naftalibennett/"
+  },
+  "NagaseTomiro": {
+    "title": "Nagase Tomiro / 长濑富郎",
+    "url": "/wiki/entities/nagasetomiro/"
   },
   "NakagawaMasashichiShoten": {
     "title": "Nakagawa Masashichi Shoten / 中川政七商店",
@@ -30055,6 +30087,10 @@
     "title": "Randomized Controlled Trials",
     "url": "/wiki/concepts/randomizedcontrolledtrials/"
   },
+  "RangeExtendedEV": {
+    "title": "Range-Extended EV / 增程式电动车",
+    "url": "/wiki/concepts/rangeextendedev/"
+  },
   "RansomwareBusinessContinuity": {
     "title": "Ransomware Business Continuity",
     "url": "/wiki/concepts/ransomwarebusinesscontinuity/"
@@ -32374,6 +32410,10 @@
   "Semiconductor3DStacking": {
     "title": "Semiconductor 3D Stacking",
     "url": "/wiki/concepts/semiconductor3dstacking/"
+  },
+  "SemiconductorPrecisionCleaning": {
+    "title": "Semiconductor Precision Cleaning",
+    "url": "/wiki/concepts/semiconductorprecisioncleaning/"
   },
   "SemiconductorSupplyChain": {
     "title": "Semiconductor Supply Chain",
@@ -34914,6 +34954,10 @@
   "SurbhiSarna": {
     "title": "Surbhi Sarna",
     "url": "/wiki/entities/surbhisarna/"
+  },
+  "SurfactantTechnology": {
+    "title": "Surfactant Technology / 表面活性剂技术",
+    "url": "/wiki/concepts/surfactanttechnology/"
   },
   "SurgicalOutcomeMetricDistortion": {
     "title": "Surgical Outcome Metric Distortion",
@@ -41870,6 +41914,10 @@
   "madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d": {
     "title": "MadeGood: Salma and Nima Fotovat Lost Their First Business. They Grew Their Next One Into a Snack Giant.",
     "url": "/wiki/sources/madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d/"
+  },
+  "mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131": {
+    "title": "卖香皂起家的百年花王，为什么成了半导体制造的关键企业？",
+    "url": "/wiki/sources/mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131/"
   },
   "marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c": {
     "title": "Marine warfare: Le Pen runs for president",

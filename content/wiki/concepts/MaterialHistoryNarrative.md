@@ -2,8 +2,8 @@
 title: "Material History Narrative"
 type: concept
 tags: [history, commodities, narrative, material-culture]
-sources: [no-213-jingdezhen-wangshi-qiannian-shijie-cidu-de-qianshi-jinsheng-1004755625, ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv, ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, 134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, zhongqiu-kuaile-669967741, 66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, 71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
-last_updated: 2026-08-08
+sources: [no-213-jingdezhen-wangshi-qiannian-shijie-cidu-de-qianshi-jinsheng-1004755625, ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv, ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, 134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, zhongqiu-kuaile-669967741, 66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, 71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
+last_updated: 2026-08-16
 ---
 
 # Material History Narrative
@@ -25,6 +25,8 @@ The concept is useful because it keeps scale changes visible. A material object 
 [[175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]] adds a gendered bodily-infrastructure version through [[JoseiEiseiYouhinNoShakaishi|《女性卫生用品的社会史》]]. Sanitary pads, menstrual belts, absorbent cotton, tampons, wrappers, school pamphlets, and public transit retail reveal how [[MenstrualStigma]], [[GenderedMedicalization]], war resource allocation, [[CommercialMenstrualEducation]], and [[MenstrualPublicInfrastructure]] shape everyday freedom.
 
 [[71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384]] gives a smaller industrial version through [[ButterflyBrand|蝴蝶牌]] and [[VernacularIndustrialism]]. Household chemistry, recipes, advertising, local materials, and national-goods branding show that everyday products can carry modernization without looking like heavy industry.
+
+[[mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]] adds a soap-to-semiconductor version through [[Kao|花王]]. Soap, detergent, facial cleanser, [[CleanThrough]], and wafer-cleaning chemicals become one material-history chain when cleaning problems move from consumer surfaces into [[SemiconductorPrecisionCleaning|semiconductor precision cleaning]].
 
 [[150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165]] adds a seasonal food-ecology version through [[YunnanWildMushroomCulture]]. [[Jizong|鸡枞]], [[Matsutake|松茸]], [[Jianshouqing|见手青]], and [[GanbaMushroom|干巴菌]] reveal how taste, local names, storage, restaurant markup, export demand, household safety rules, and habitat limits make a food material historically and socially legible.
 
@@ -64,6 +66,7 @@ The concept is useful because it keeps scale changes visible. A material object 
 - Farmed luxury foods can anchor material history when animal biology, regional production, processing, consumer trust, and moral discomfort all remain visible.
 - Fragrant materials can anchor material history when biology, craft, regulation, scarcity, poetic naming, and daily ritual all remain visible.
 - Porcelain can anchor material history when geology, formulas, kiln labor, transport, court demand, export adaptation, factory organization, and modern tourism remain visible in one object category.
+- Cleaning products can anchor material history when soapmaking, detergents, industrial solvents, environmental regulation, interface chemistry, and chip yield become one technical lineage.
 
 ## Connections
 - [[Coffee|Coffee / 咖啡]] and [[QuanqiuShangyin|《全球上瘾》]] - source case for a commodity as protagonist.
@@ -85,3 +88,4 @@ The concept is useful because it keeps scale changes visible. A material object 
 - [[ChineseNewSpecialtyAquaculture]], [[RainbowTrout]], [[Eel]], [[FoieGras]], [[EelSeedPriceVolatility]], and [[FoieGrasWelfareTradeoff]] - farmed high-value food branch added by EP260.
 - [[Agarwood]], [[Qinan]], [[AgarwoodIndustrialization]], [[IncenseFormulaReconstruction]], and [[ChineseFragrance]] - fragrance-material branch added by EP263.
 - [[Jingdezhen]], [[JingdezhenPorcelainProductionSystem]], [[QingbaiPorcelain]], [[Kaolin]], [[YuanBlueAndWhitePorcelain]], and [[ExportPorcelainCustomization]] - porcelain material-history branch added by Banlatte episode 213.
+- [[Kao]], [[CleanThrough]], [[InterfaceScience]], [[SurfactantTechnology]], and [[SemiconductorPrecisionCleaning]] - cleaning-chemistry material-history branch added by 声动早咖啡.

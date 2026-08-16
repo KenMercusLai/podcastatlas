@@ -2,8 +2,8 @@
 title: "Process Knowledge / 过程知识"
 type: concept
 tags: [manufacturing, engineering, tacit-knowledge, china]
-sources: [no-213-jingdezhen-wangshi-qiannian-shijie-cidu-de-qianshi-jinsheng-1004755625, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, 150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g]
-last_updated: 2026-08-08
+sources: [no-213-jingdezhen-wangshi-qiannian-shijie-cidu-de-qianshi-jinsheng-1004755625, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, 150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
+last_updated: 2026-08-16
 ---
 
 # Process Knowledge / 过程知识
@@ -16,6 +16,8 @@ The source uses [[Shenzhen]], construction craft, aircraft, chips, and nuclear s
 
 [[no-213-jingdezhen-wangshi-qiannian-shijie-cidu-de-qianshi-jinsheng-1004755625]] adds a craft-material version through [[Jingdezhen]]. [[DistributedCeramicProduction]], [[PorcelainStoneClayBinaryFormula]], kiln loading, saggar use, atmosphere control, fuel selection, and the judgment of firing masters show process knowledge stored in a city-scale craft community rather than only in modern factories.
 
+[[mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]] adds a chemical-process version through [[Kao|花王]]. The source shows [[InterfaceScience|interface science]] and [[SurfactantTechnology|surfactant technology]] becoming [[SemiconductorPrecisionCleaning|semiconductor precision cleaning]] only when formulas are tuned, tested, and validated against customer production conditions.
+
 ## Key Claims
 - Technical capability includes tacit routines that are difficult to write down completely.
 - Manufacturing and infrastructure ecosystems preserve knowledge through repeated practice and dense interaction.
@@ -23,6 +25,7 @@ The source uses [[Shenzhen]], construction craft, aircraft, chips, and nuclear s
 - Process knowledge is an advantage for [[China]] but not sufficient without service, culture, and feedback institutions.
 - Family-business succession shows a managerial version of process knowledge: authority depends on repeated situated judgment, not only strategy language or credentials.
 - Ceramic production shows that process knowledge can be distributed across many small workshops and roles while still adding up to city-level industrial capability.
+- Chemical process knowledge can be embedded in validated customer workflows, making a cleaning formula part of manufacturing capability rather than a simple consumable.
 
 ## Connections
 - [[DanWang]], [[Breakneck]], and [[EngineeringState]] - source frame.
@@ -32,3 +35,4 @@ The source uses [[Shenzhen]], construction craft, aircraft, chips, and nuclear s
 - [[LawyerState]] - contrast with procedure-heavy systems that may block practice accumulation.
 - [[TacitManagementKnowledge]], [[FactorySecondGeneration]], [[ChineseFamilyBusinessSuccession]], and [[ManufacturingSalesShift]] - management and channel-judgment extension added by EP255.
 - [[Jingdezhen]], [[JingdezhenPorcelainProductionSystem]], [[DistributedCeramicProduction]], [[TangYing]], and [[StateOwnedCeramicFactorySystem]] - porcelain craft and factory extension added by Banlatte episode 213.
+- [[Kao]], [[SemiconductorPrecisionCleaning]], [[KaoHsinchuPrecisionCleaningCenter]], and [[ChemicalControlAsManufacturingCapability]] - chemical-process extension added by 声动早咖啡.
