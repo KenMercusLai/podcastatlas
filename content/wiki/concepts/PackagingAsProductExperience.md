@@ -2,13 +2,15 @@
 title: "Packaging As Product Experience"
 type: concept
 tags: [cpg, packaging, product, retail]
-sources: [madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d, what-makes-a-toy-go-viral, reeses-heir-vs-chocolate-skimpflation, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, board-games-3-whats-in-a-name]
-last_updated: 2026-08-10
+sources: [lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937, madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d, what-makes-a-toy-go-viral, reeses-heir-vs-chocolate-skimpflation, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, board-games-3-whats-in-a-name]
+last_updated: 2026-08-17
 ---
 
 # Packaging As Product Experience
 
 Packaging as product experience is the CPG pattern where the container, format, closure, instructions, and portability shape how customers understand and use the product. In [[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2]], [[KrishnaKaliannan]] insists that [[CatalinaCrunch]] use stand-up pouches because they are resealable, portable, and avoid cereal-box inner-bag staleness. [[justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b]] adds the squeeze-pack version through [[JustinsNutButter]], while [[advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96]] adds the gifting and daily-use version through [[VashonIslandCoffeeDust]].
+
+[[lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937]] adds a beauty-refill version through [[LOreal|L'Oreal / 欧莱雅]]. In that source, packaging protects formula from air, light, contamination, transport shock, and drops while also shaping luxury feel through opening, pressing, rotating, and display. [[RefillableBeautyPackaging]] makes this experience repeat over time, so the package must become durable enough for multiple refill cycles rather than only attractive at first purchase.
 
 [[madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d]] adds [[MadeGood]], where packaging did two jobs at once. Bright colors, a large logo, and a design firm outside food-category conventions made the brand visible on shelf, while later [[Costco]] requests for pouches, value packs, and variety formats turned package design into [[RetailerResponsiveManufacturing]].
 
@@ -24,6 +26,7 @@ Packaging as product experience is the CPG pattern where the container, format, 
 
 ## Key Claims
 - Packaging can change the use occasion: a stand-up pouch or squeeze pack can make the product easier to carry, reseal, sample, or repeat.
+- Refillable beauty products add a time dimension: the package has to preserve function, seal, and feel across repeated use, not only communicate value once.
 - Packaging can be a manufacturing constraint if partners cannot fill, seal, label, or handle the chosen format.
 - Packaging can affect [[RetailShelfPlacement]] because the format teaches customers whether the item is cereal, snack, trial size, gift, or pantry staple.
 - Packaging connects to [[ProductLedWillingnessToPay]] when it makes freshness, premium positioning, convenience, or ritual visible.
@@ -47,3 +50,4 @@ Packaging as product experience is the CPG pattern where the container, format, 
 - [[SellMeASasquatch]], [[RetailShelfAppeal]], and [[ProductNamingAsPositioning]] - boxed-game extension added by Planet Money.
 - [[SquishyDumplings]], [[MysteryToyPackaging]], and [[CollectibleDropScarcity]] - mystery-toy extension added by Planet Money.
 - [[Reeses|Reese's]], [[ChocolateLabelStandards]], [[ChocolateCompound]], and [[Skimpflation]] - label-transparency extension added by Planet Money.
+- [[LOreal|L'Oreal / 欧莱雅]], [[RefillableBeautyPackaging]], [[RefillAdoptionFriction]], and [[ReusablePackagingDurability]] - beauty-refill extension added by 商业就是这样.

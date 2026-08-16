@@ -7717,3 +7717,11 @@ Added source page for a 枫言枫语 episode on heavy vibe coding, near-unlimite
 ## [2026-08-16] lint | Wiki health check
 
 Ran health before lint; health scanned 10,979 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 10,979 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-08-12 with 10,690 nodes and 116,995 edges while the wiki scan found 10,979 pages; they found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolves to providerless `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-17] ingest | 绿点小样 | 要推广替换芯，得把美妆重做一遍
+
+Added source page for a 商业就是这样 episode on L'Oreal's refillable beauty packaging and why beauty refills require more than a new SKU. Created pages for Lancôme / 兰蔻, YSL Beauty / 圣罗兰美妆, Paris L'Oreal / 巴黎欧莱雅, L'Oreal for the Future / 欧莱雅为明天, Refillable Beauty Packaging, Refill Adoption Friction, Reusable Packaging Durability, and Sustainable Packaging Marketing; updated overview, index, 商业就是这样, L'Oreal, Kérastase, Packaging As Product Experience, Environmental Tradeoff Accounting, Product Led Willingness To Pay, Retail Shelf Placement, and Mission Driven Customer Education. No direct contradiction found; the source qualifies existing packaging and sustainability pages by showing that refills work only when durability, price, channel visibility, operation, and light-touch marketing make the lower-waste option easier to repeat.
+
+## [2026-08-17] lint | Wiki health check
+
+Ran health before lint; health scanned 10,988 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 10,988 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no API key or provider-qualified `LLM_MODEL` is configured in this shell. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [绿点小样 | 要推广替换芯，得把美妆重做一遍](sources/lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937.md) — 商业就是这样 episode on L'Oreal's refillable beauty packaging, showing how refills depend on durable package design, price discounts, channel visibility, replacement UX, and light sustainability marketing.
 - [Vol. 171 假如我们有无限 Token](sources/vol-171-jiaru-women-you-wuxian-token-1-6682-1.md) — 枫言枫语 episode on heavy AI-coding use, near-unlimited token access, long-running agents, loop design, disposable software, personalized app variants, hardware constraints, translation, education, and safety boundaries.
 - [咖啡豆｜两次遭遇苹果冲击，运动手表佳明为何还能增长？](sources/kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684.md) — 声动早咖啡 episode linking Dipsig V4 Pro, Tencent WorkBody investment, Lakers valuation, Claude watermarking, and a main Garmin explainer on GPS roots, phone navigation commoditization, professional wearable moats, and vertical integration.
 - [星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约](sources/xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195.md) — 声动早咖啡 episode linking Starbucks and Li-Ning rumor denials, AI data-center buildout, Meta Muse open weights, bottled-beverage pressure, China auto demand weakness, Sony-TSMC image sensors, Spotify AI persona labels, and Doubao hotel-order fees.
@@ -964,6 +965,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Lancôme / 兰蔻](entities/Lancome.md) — L'Oreal prestige-beauty brand used by the refill episode to show why high-material beauty packaging can become a reusable asset.
+- [YSL Beauty / 圣罗兰美妆](entities/YSLBeauty.md) — L'Oreal beauty brand whose cushion refill example broadens refillable beauty packaging beyond jars and bottles.
+- [Paris L'Oreal / 巴黎欧莱雅](entities/ParisLOreal.md) — L'Oreal mass beauty and haircare brand used as a shampoo refill example closer to familiar daily-chemical refill habits.
+- [L'Oreal for the Future / 欧莱雅为明天](entities/LOrealForTheFuture.md) — L'Oreal sustainability vision used as the strategic backdrop for refillable beauty packaging and packaging reduction.
 - [Dipsig](entities/Dipsig.md) — Source-scoped AI model/product line whose V4 Pro launch is tied to agent capability, pricing below Kimi K3, and a Harness execution framework.
 - [Gary Burrell](entities/GaryBurrell.md) — Garmin co-founder whose navigation background anchors the source's GPS-origin account.
 - [Min Kao / 高明环](entities/MinKao.md) — Garmin co-founder whose name forms the second half of Garmin and whose navigation background anchors the source's GPS-origin account.
@@ -976,7 +981,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tipsy](entities/Tipsy.md) — Source-scoped technology company example tied to IDC data-center hiring and AI compute infrastructure buildout.
 - [Sony-TSMC Image Sensor Joint Venture](entities/SonyTSMCImageSensorJV.md) — Roughly $4.7 billion image-sensor manufacturing venture expected by the source to begin mass production in 2029.
 - [SHEIN](entities/SHEIN.md) — Cross-border fashion ecommerce company whose Vietnam warehouse retrenchment shows supply-chain relocation depends on efficiency and total cost, not only tariff pressure.
-- [Kérastase / 卡诗](entities/Kerastase.md) — L'Oreal professional hair-care brand used to explain premium haircare, salon trust, and category growth beyond basic shampoo.
+- [Kérastase / 卡诗](entities/Kerastase.md) — L'Oreal professional hair-care brand used for premium haircare, salon trust, and the later refillable beauty portfolio.
 - [Vichy / 薇姿](entities/Vichy.md) — L'Oreal dermatology-adjacent beauty brand used in the source's hair-care growth and scalp/ingredient credibility discussion.
 - [CeraVe / 适乐肤](entities/CeraVe.md) — L'Oreal skincare brand whose hair-care growth example illustrates skincare-style trust moving into hair care.
 - [Moroccanoil / 摩洛哥油](entities/Moroccanoil.md) — Salon-origin hair-care brand used to show how professional credibility can move into everyday consumer routines.
@@ -5910,7 +5915,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dairy Queen](entities/DairyQueen.md) — Mid-price ice-cream chain used as the steadier small-store comparison to Haagen-Dazs and Yeren Xiansheng.
 - [Mixue Bingcheng](entities/MixueBingcheng.md) — Tea-drink chain used for ice-cream, coffee-category convergence, supply-chain globalization, and a source-scoped Starbucks rumor context.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
-- [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce, bee economics, FIFA, Sushiro, AI data-center cooling, fishmeal, ETFs, World Cup costs, and the Rolls-Royce RB211 aviation-history case.
+- [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for grounded business explainers across city commerce, food, sports, AI infrastructure, aviation history, ETFs, and refillable beauty packaging.
 - [Grundfos / 格兰富](entities/Grundfos.md) — Pump, water, and cooling-infrastructure company case used to explain AI data-center thermal management.
 - [河南智能超算中心 / Henan Smart Supercomputing Center](entities/HenanSmartSupercomputingCenter.md) — Supercomputing-center case for prefabricated, container-style integrated cooling deployment.
 - [Polymarket](entities/Polymarket.md) — Prediction-market platform used for price-as-probability thinking, ethics and integrity cases, and AI-era one-person fund speculation.
@@ -6269,7 +6274,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tarang Amin](entities/TarangAmin.md) — CEO brought into e.l.f. Cosmetics after TPG's majority investment and later public-company transition.
 - [Financo](entities/Financo.md) — Investment bank connected to the sale process that led to TSG Consumer Partners' minority investment in e.l.f.
 - [Vannette Ho](entities/VannetteHo.md) — Financo investment banker who initiated the e.l.f. sale process with Joey Shamah.
-- [L'Oreal](entities/LOreal.md) — Strategic beauty buyer whose proposed acquisition of e.l.f. collapsed before the later TPG transaction.
+- [L'Oreal](entities/LOreal.md) — Beauty group connected to hair-care category growth, refillable packaging strategy, and the earlier failed e.l.f. Cosmetics acquisition process.
 - [Revlon](entities/Revlon.md) — Incumbent beauty company referenced as both competitor context and an initial strategic-buyer approach.
 - [Urban Decay](entities/UrbanDecay.md) — Beauty brand whose L'Oreal acquisition is contrasted with the collapsed e.l.f. deal.
 - [Fit For Life](entities/FitForLife.md) — Joey Shamah's post-e.l.f. fitness-products licensing company.
@@ -6572,6 +6577,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Refillable Beauty Packaging / 美妆替换芯包装](concepts/RefillableBeautyPackaging.md) — Beauty packaging model where a durable outer container is kept and lower-material refills are bought for repeat use.
+- [Refill Adoption Friction / 替换芯采用摩擦](concepts/RefillAdoptionFriction.md) — Gap between refill awareness and repeat purchase, driven by visibility, price, operation, sealing, and channel access.
+- [Reusable Packaging Durability / 可复用包装耐久性](concepts/ReusablePackagingDurability.md) — Engineering requirement for packages, pump heads, seals, and refill interfaces to survive multiple product cycles.
+- [Sustainable Packaging Marketing / 可持续包装营销](concepts/SustainablePackagingMarketing.md) — Communication problem of making lower-waste packaging choices feel easy, worthwhile, visible, and repeatable.
 - [Global Positioning System / GPS](concepts/GlobalPositioningSystem.md) — Satellite-navigation capability that moves from professional Garmin devices into commodity phone navigation and specialized sport/outdoor wearables.
 - [Navigation Device Commoditization](concepts/NavigationDeviceCommoditization.md) — Pattern where standalone navigation hardware loses willingness to pay once phones bundle maps and voice navigation as default services.
 - [Professional Wearable Moat](concepts/ProfessionalWearableMoat.md) — Specialized sport and outdoor wearable advantage built from GPS accuracy, battery, maps, metrics, reliability, and high-end user workflows.

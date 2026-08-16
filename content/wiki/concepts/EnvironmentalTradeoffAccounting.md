@@ -2,8 +2,8 @@
 title: "Environmental Tradeoff Accounting"
 type: concept
 tags: [ecology, agriculture, policy, externalities]
-sources: [socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216, ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]
-last_updated: 2026-08-08
+sources: [lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937, socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216, ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]
+last_updated: 2026-08-17
 ---
 
 # Environmental Tradeoff Accounting
@@ -36,6 +36,8 @@ The concept does not reject environmental protection. It asks for a wider bounda
 
 [[tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128]] adds a packaging-material version through [[BiodegradableFoamPackaging]]. The tradeoff is not "plastic bad, fungus good" in isolation: a mycelium cooler must reduce persistent polystyrene waste while still meeting [[SeafoodColdChainPackaging]] requirements for insulation, weight, durability, and cost.
 
+[[lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937]] adds a beauty-packaging reuse version through [[RefillableBeautyPackaging]]. The tradeoff is not "beautiful package bad, refill good" in isolation: refills can reduce glass, metal, plastic, and paper use only if the reusable shell remains durable, the refill is easy and clean, the price gap is visible, and consumers can actually find the refill option.
+
 ## Key Claims
 - Environmental choices should be evaluated across the whole system, including farmers, imports, substitute products, other species, and long-run maintenance.
 - A local "green" decision can export damage to another country, habitat, or supply chain.
@@ -51,6 +53,7 @@ The concept does not reject environmental protection. It asks for a wider bounda
 - Wild-harvest accounting should ask whether stopping or losing a trade removes the local income that made habitat protection practical.
 - Building-material accounting should include emissions embedded before occupancy, not only the operating energy used after a building opens.
 - Packaging-material accounting should compare waste reduction against the operating constraints that made the incumbent material useful.
+- Reusable-package accounting should include consumer adoption, price, durability, sealing, and channel visibility, because material savings do not happen if buyers do not repeat the refill behavior.
 - Fashion-material substitution should ask whether replacing one harmful material simply moves danger into factories, waste streams, flammable substitutes, or hidden worker exposure.
 - Pesticide decisions should be evaluated across crop-protection value, beekeeper losses, pollination yield gains, wild-insect decline, and the feasibility of lower-toxicity or better-timed application.
 - Hydraulic projects should be evaluated across abundance, state capacity, maintenance needs, saltwater intrusion, floodplain ecology, and displaced vulnerability.
@@ -72,6 +75,7 @@ The concept does not reject environmental protection. It asks for a wider bounda
 - [[Barcelos]], [[CardinalTetra]], [[SustainableWildHarvesting]], [[PiaberoEconomy]], and [[LocalProductAdvantageErosion]] - wild-harvest and farmed-competition extension from Planet Money.
 - [[EmbodiedCarbonBuildingCode]], [[OperationalCarbon]], [[ConstructionCarbonCompliance]], and [[LowCarbonConstructionMaterials]] - building-material carbon accounting branch from Marketplace Tech.
 - [[MyceliumInsulation]], [[BiodegradableFoamPackaging]], [[SeafoodColdChainPackaging]], and [[ColdChainCPGConstraint]] - polystyrene-substitution branch from Marketplace Tech.
+- [[LOreal|L'Oreal / 欧莱雅]], [[RefillableBeautyPackaging]], [[ReusablePackagingDurability]], and [[RefillAdoptionFriction]] - beauty-refill reuse branch from 商业就是这样.
 - [[FashionVictimsBook|《时尚受害者》]], [[FashionSupplyChainExternality]], and [[ToxicFashionMaterialRisk]] - fashion-material and substitution-cost branch added by episode 16.
 - [[PesticidePollinatorRisk]], [[WildPollinatorCrisis]], [[MigratoryBeekeeperLivelihood]], and [[NativeBeeEcologicalPollination]] - EP261 pollinator-risk extension.
 - [[AngkorHydraulicEmpire]], [[MekongDeltaColonialCanalAgriculture]], [[MekongDelta]], and [[ClimateAdaptation]] - Mekong water-engineering extension from EP267.

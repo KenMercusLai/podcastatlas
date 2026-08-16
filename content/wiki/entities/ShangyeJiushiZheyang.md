@@ -2,11 +2,13 @@
 title: "商业就是这样"
 type: entity
 tags: [podcast, media, business]
-sources: [vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014, vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119, vol-268-liang-ge-lao-si-lai-si-1003563933, vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, vol-266-yi-ci-xing-gao-dong-etf-1002344828, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, jiufan-zhongting-mifeng-jingjixue-956460448, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]
-last_updated: 2026-08-13
+sources: [lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937, vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014, vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119, vol-268-liang-ge-lao-si-lai-si-1003563933, vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, vol-266-yi-ci-xing-gao-dong-etf-1002344828, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, jiufan-zhongting-mifeng-jingjixue-956460448, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]
+last_updated: 2026-08-17
 ---
 
 # 商业就是这样
+
+[[lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937]] adds the show's beauty-packaging and sustainability branch. The episode uses [[LOreal|L'Oreal / 欧莱雅]]'s refillable products to show that a seemingly simple consumer-goods improvement depends on package engineering, repeat-use durability, channel display, online search, price incentives, and non-heavy sustainability communication.
 
 商业就是这样 is the podcast context for [[vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]], a fifth-anniversary listener-submission episode about local commercial phenomena and five-year personal changes. In this source, the show is less a single-company analysis program than a collector of grounded business observations: shops, transit rules, restaurant queues, platform rules, tourism flows, local brands, overseas services, and listener life changes become material for understanding commerce.
 
@@ -44,6 +46,7 @@ The episode's distinctive contribution to the wiki is its distributed method. In
 
 ## Connections
 - [[vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]] — fifth-anniversary source page.
+- [[lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937]] - refillable beauty packaging, channel visibility, and sustainability-marketing source page.
 - [[vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835]] - 大食代, food-court second-landlord economics, and mall-foodservice transition source page.
 - [[vol-268-liang-ge-lao-si-lai-si-1003563933]] - Rolls-Royce, RB211, Lockheed TriStar, nationalization, and bribery source page.
 - [[vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119]] - Hongkong Land, Dairy Farm, Jardine, and the 1973 Hong Kong crash source page.
@@ -70,4 +73,5 @@ The episode's distinctive contribution to the wiki is its distributed method. In
 - [[YingyanShijian|鹰眼时间]], [[TeteFei|特特飞]], [[WorldCupHostCityEconomics]], [[HostCitySupporterSponsorship]], [[FanFestivalCommercialization]], and [[OfficialSportsTicketResale]] - World Cup host-city and fan-cost branch added by Vol.267.
 - [[RollsRoyce|Rolls-Royce]], [[RollsRoyceRB211|RB211]], [[LockheedL1011TriStar|L-1011 TriStar]], [[FixedPriceEngineeringRisk]], [[AirframeEngineLockIn]], [[IndustrialCapabilityBailout]], and [[LockheedBriberyScandal]] - aviation-engine crisis and corruption branch added by Vol.268.
 - [[HongkongLandDairyFarmTakeover]], [[HongKong1973StockMarketCrash]], [[TenderOfferMediaCampaign]], [[BonusShareSplitMisreading]], [[FourExchangeHongKongMarketFragmentation]], and [[HongKongDollarHotMoneyCycle]] - Hong Kong takeover and crash branch added by Vol.269.
+- [[RefillableBeautyPackaging]], [[RefillAdoptionFriction]], [[ReusablePackagingDurability]], and [[SustainablePackagingMarketing]] - beauty-packaging branch added by 绿点小样.
 - [[PodcastAsAsynchronousMedia]] — adjacent media concept; the anniversary format records listener memory across years.
