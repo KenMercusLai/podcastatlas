@@ -2,11 +2,13 @@
 title: "Streaming Consolidation"
 type: concept
 tags: [streaming, media, consolidation, consumer]
-sources: [disney-the-renaissance-and-the-empire-1, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, the-business-of-heated-rivalry, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]
-last_updated: 2026-08-11
+sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, disney-the-renaissance-and-the-empire-1, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, the-business-of-heated-rivalry, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]
+last_updated: 2026-08-16
 ---
 
 # Streaming Consolidation
+
+[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds an exhibitor-facing bargaining layer. The source says [[Paramount]] reportedly promised [[AMCTheatres|AMC]] and [[RegalCinemas|Regal]] stronger theatrical output and windows if it completed a [[WarnerBrosDiscovery|Warner Bros. Discovery]] acquisition, showing that consolidation can trigger [[TheatricalWindowBargaining]] before content ever reaches streaming.
 
 [[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds a platform-native bundle rather than an ownership transaction. [[NBCUniversal]]'s [[PeacockStreaming|Peacock]] content moves inside [[YouTubePremium|YouTube Premium]], which the source distinguishes from a discount bundle because users can watch within [[YouTube]] instead of leaving for a separate streaming app.
 
@@ -31,6 +33,7 @@ The source frames consolidation ambivalently. More content in one place can redu
 - When news assets are inside the same transaction, streaming consolidation becomes a journalism-governance question as well as a catalog and pricing question.
 - For independent or mid-budget shows, consolidation can matter before consumer prices: fewer buyers can weaken project financing, distribution leverage, and creative bargaining power.
 - Library scale is less valuable when it does not also repair creative output, customer demand, or the economics of direct-to-consumer streaming.
+- Exhibitors can become part of consolidation politics when a buyer must promise enough theatrical releases and windows to reduce cinema-chain opposition.
 
 ## Connections
 - [[WarnerBrosDiscovery]], [[Netflix]], [[Paramount]], and [[DavidEllison]] - source deal context.
@@ -41,3 +44,4 @@ The source frames consolidation ambivalently. More content in one place can redu
 - [[Skydance]], [[LarryEllison]], [[CBS]], [[CNN]], [[HBO]], and [[MediaOwnershipIndependenceRisk]] - media-control branch added by 商业就是这样.
 - [[HeatedRivalry|Heated Rivalry]], [[Crave]], [[BellMedia]], and [[ProducerOwnedIPUpside]] - independent distribution branch added by Planet Money.
 - [[TheWaltDisneyCompany]], [[DisneyPlus]], [[Hulu]], [[ESPN]], [[StreamingPlatformBundling]], and [[StreamingContentTreadmill]] - Disney streaming branch added by Acquired.
+- [[TheatricalWindowBargaining]], [[AMCTheatres]], and [[RegalCinemas]] - theater-window branch added by 声动早咖啡.

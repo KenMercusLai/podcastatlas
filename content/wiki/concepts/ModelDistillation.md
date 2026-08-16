@@ -2,11 +2,13 @@
 title: "Model Distillation / 模型蒸馏"
 type: concept
 tags: [ai, machine-learning, models]
-sources: [cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]
-last_updated: 2026-08-09
+sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]
+last_updated: 2026-08-16
 ---
 
 # Model Distillation / 模型蒸馏
+
+[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds a governance-first refusal case through [[ByteDance]]. The source says [[ZhangYiming|Zhang Yiming]] argued that ByteDance should not rely on distillation to improve model capability because U.S.-model provenance disputes could create scrutiny for [[TikTok]] and because shortcut learning could harm team and technology development. This turns the technique into [[AIModelDistillationGovernance]], not only a model-compression or post-training method.
 
 [[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] adds [[MengFanqing|孟繁青]]'s stronger qualification: distillation is useful, especially when a weaker model has large learning margin, but it is not the decisive reason domestic models have become strong. The source says Chinese model progress should also be attributed to pretraining, architecture and efficiency work, data, and organization.
 
@@ -26,6 +28,7 @@ The concept matters because the episode treats "distillation" as several differe
 - In agent post-training, distillation may be used to merge domain specialists into one model, but it still needs reliable teacher scoring and external supervision.
 - In environment-based [[SyntheticAgentData]], using an outside model such as [[Claude]] to explore and save traces may be called distillation, but the environment, task, verifier, and scoring system can be the harder part of the data product.
 - Distillation can be a shortcut that risks weakening a team's own insight if it becomes a substitute for understanding the main training path.
+- A company with global regulatory exposure may reject distillation even when the technique is useful, because provenance, compliance, and platform spillover risks can dominate speed.
 
 ## Connections
 - [[SyntheticAgentData]], [[EnvironmentBasedAgentBenchmarks]], [[RSIData]], and [[EvolventAI]] — Evolvent AI source branch where distillation overlaps with synthetic trajectory generation.
@@ -34,3 +37,4 @@ The concept matters because the episode treats "distillation" as several differe
 - [[ScalingEfficiency]], [[ModelPostTrainingBottleneck]], and [[AgentPostTraining]] - adjacent model-improvement mechanisms.
 - [[OpenModelSafetyGovernance]] and [[AIGovernanceAndCompliance]] - compliance and transparency layer when model-generated data is used.
 - [[OnPolicyDistillation]], [[MOPDPostTraining]], [[KimiK3]], and [[AIVerification]] - K3 post-training branch added by LateTalk episode 177.
+- [[ByteDance]], [[ZhangYiming]], [[TikTok]], and [[AIModelDistillationGovernance]] - governance-first refusal case added by 声动早咖啡.

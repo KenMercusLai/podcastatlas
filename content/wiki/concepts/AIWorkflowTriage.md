@@ -2,11 +2,13 @@
 title: "AI Workflow Triage"
 type: concept
 tags: [ai, workflow, enterprise-ai, operations]
-sources: [tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128, tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128, tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]
-last_updated: 2026-08-07
+sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128, tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128, tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]
+last_updated: 2026-08-16
 ---
 
 # AI Workflow Triage
+
+[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds a product-development version through [[Airbnb]]. The source says Airbnb reported large cycle-time and release-count improvements from internal AI use, while consumer-facing AI features remained modest. That makes [[AIProductDevelopmentAcceleration]] a triage case: the valuable workflow may be internal feature development before visible user-facing automation.
 
 AI workflow triage is the implementation discipline of decomposing a business process before deciding where AI belongs. In [[e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]], [[Oliver]] describes [[InvisibleTechnologies]] breaking workflows into steps and deciding which should be deterministic, which can use AI, and which require human review. The concept keeps [[AgenticWorkflow]] grounded in operating reality: not every step benefits from probabilistic generation or agent judgment.
 
@@ -37,6 +39,7 @@ AI workflow triage is the implementation discipline of decomposing a business pr
 - Homebuilding triage separates routine sales and warranty communication from high-trust buyer conversations, urgent customer issues, and escalation ownership.
 - Triage should include cognitive load: a task may be technically automatable but still unsuitable if AI turns the worker into a constant high-stakes reviewer.
 - Customer-service triage should define escalation triggers before deployment; otherwise automation can become [[CustomerServiceSludge]] rather than support.
+- Internal product-development triage can create business value before a company ships a visibly AI-first consumer interface.
 
 ## Connections
 - [[InvisibleTechnologies]] and [[Oliver]] — source company and speaker.
@@ -50,3 +53,4 @@ AI workflow triage is the implementation discipline of decomposing a business pr
 - [[DylanThompson]], [[FedEx]], and [[CustomerServiceSludge]] - customer-support escalation failure case.
 - [[ChristopherMims]], [[Clorox]], [[HiddenValleyRanch]], [[MicrosoftCopilot|Microsoft Copilot]], and [[AIGeneratedAdvertising]] - bounded workplace and CPG-marketing examples.
 - [[MattKrop]], [[BCG]], and [[AIBrainFry]] - cognitive-exhaustion criterion added by Marketplace Tech.
+- [[Airbnb]] and [[AIProductDevelopmentAcceleration]] - internal product-release acceleration branch added by 声动早咖啡.

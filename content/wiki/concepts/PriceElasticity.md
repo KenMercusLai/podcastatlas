@@ -2,11 +2,13 @@
 title: "Price Elasticity / 价格弹性"
 type: concept
 tags: [economics, pricing, consumption, business-model]
-sources: [spirit-airlines-and-the-future-of-cheap-flights, 155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210, shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]
-last_updated: 2026-08-10
+sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, spirit-airlines-and-the-future-of-cheap-flights, 155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210, shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]
+last_updated: 2026-08-16
 ---
 
 # Price Elasticity / 价格弹性
+
+[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds an airline-flexibility version through [[ChinaEasternAirlines|China Eastern Airlines]]. The source argues that loosening refund/change rules can reduce early-booking hesitation, showing that demand responds not only to the ticket price but also to the expected cost of plans changing.
 
 Price elasticity is the episode's way to explain why a price change can produce very different demand changes across products. In [[155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210]], elastic products may need lower prices to increase total revenue, while necessities, scarce goods, or monopolized goods may keep demand even at higher prices.
 
@@ -23,6 +25,7 @@ The source uses elasticity to slow moralized price judgment. A high price may re
 - Elasticity connects consumer judgment to business-model judgment.
 - Price-sensitive demand can discipline an entire market if low-fare entrants force incumbents to respond.
 - For airfare, consumers respond to the total payable price, not only the base fare shown before regulated funds or surcharges are added.
+- For airfare flexibility, consumers also respond to expected penalty cost if plans change before departure.
 
 ## Connections
 - [[SubjectiveValue]] and [[ProductLedWillingnessToPay]] - willingness-to-pay frames.
@@ -31,3 +34,4 @@ The source uses elasticity to slow moralized price judgment. A high price may re
 - [[CocaCola|Coca-Cola]] and [[McDonalds|McDonald's]] - source examples around refills and linked demand.
 - [[SpiritAirlines|Spirit Airlines]], [[StatedRevealedPreferenceGap]], and [[AirlineMarketPriceDiscipline]] - airline low-fare case added by Planet Money.
 - [[CivilAviationDevelopmentFund]], [[AviationFuelSurcharge]], and [[AviationFuelCostPassThrough]] - all-in airfare and fuel-surcharge case added by 商业小样46.
+- [[AirlineTicketFlexibility]], [[ChinaEasternAirlines]], [[AirChina]], and [[ChinaSouthernAirlines]] - refund/change policy branch added by 声动早咖啡.

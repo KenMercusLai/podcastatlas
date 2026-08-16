@@ -2,11 +2,13 @@
 title: "Warner Bros. Discovery"
 type: entity
 tags: [company, media, streaming, entertainment]
-sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]
-last_updated: 2026-07-17
+sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]
+last_updated: 2026-08-16
 ---
 
 # Warner Bros. Discovery
+
+[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds an exhibitor-stakeholder update to the [[Paramount]] acquisition thread. The source says Paramount's reported offer to [[AMCTheatres|AMC]] and [[RegalCinemas|Regal]] would commit a merged company to 30 annual theatrical releases, a minimum 45-day theatrical window, and streaming availability after 90 days, making [[TheatricalWindowBargaining]] part of the merger story.
 
 Warner Bros. Discovery is the media company at the center of the streaming-deal segment in [[tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]]. The episode says its studio and streaming assets, including HBO-related assets, drew competing bids from [[Netflix]] and [[Paramount]].
 
@@ -20,3 +22,4 @@ The source uses Warner Bros. Discovery less as a balance-sheet case and more as 
 - [[StreamingConsolidation]] and [[SubscriptionFatigue]] - consumer-friction and market-structure concepts.
 - [[VerticalMediaDistribution]] and [[EntertainmentIPFlywheel]] - adjacent media strategy concepts already in the wiki.
 - [[Skydance]], [[LarryEllison]], [[CNN]], [[HBO]], [[USDepartmentOfJustice]], and [[MediaOwnershipIndependenceRisk]] - later acquisition and approval branch added by 商业就是这样.
+- [[AMCTheatres]], [[RegalCinemas]], and [[TheatricalWindowBargaining]] - exhibitor-support branch added by 声动早咖啡.

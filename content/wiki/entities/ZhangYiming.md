@@ -2,11 +2,13 @@
 title: "Zhang Yiming"
 type: entity
 tags: [person, founder, bytedance]
-sources: [kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2, no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]
+sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2, no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980]
 last_updated: 2026-08-16
 ---
 
 # Zhang Yiming
+
+[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds a stronger [[AIModelDistillationGovernance]] version of Zhang's AI stance. The source says Zhang recently made clear that [[ByteDance]] should not improve model capability through [[ModelDistillation|distillation]], because distilling U.S. models could invite scrutiny that harms [[TikTok]]'s global business and may also weaken team and technology development.
 
 Zhang Yiming appears in [[touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d]] as the [[ByteDance]] founder whose 2018 WeChat Moments exchange with [[PonyMa]] helped turn the [[ToutengWar]] into a public platform conflict. The episode says Zhang celebrated [[TikTok]] reaching the top of an app ranking while mentioning WeChat blocking and Weishi copying/moving content, after which Pony Ma replied that the claim could be read as defamation.
 
@@ -31,3 +33,4 @@ For the wiki, Zhang matters less as a biography than as the founder lens on Byte
 - [[WinRateStartupStrategy]], [[Albert]], and [[Douyin]] — founder-method example added by the 42章经 source.
 - [[Zhihu|知乎]], [[KnowledgeCommunityCreatorIncentives]], and [[CommunityVsContentPlatform]] — Wukong Q&A community-boundary branch added by episode 212.
 - [[Doubao]], [[TheInformation]], [[TikTok]], and [[AICommercializationPressure]] - distillation-governance caution added by 声动早咖啡.
+- [[AIModelDistillationGovernance]] and [[ModelDistillation]] - later source's explicit governance framing around the no-distillation stance.

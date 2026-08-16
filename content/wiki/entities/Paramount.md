@@ -2,11 +2,13 @@
 title: "Paramount"
 type: entity
 tags: [company, media, streaming, entertainment]
-sources: [e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]
+last_updated: 2026-08-16
 ---
 
 # Paramount
+
+[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds a theatrical-window bargaining update. The source says Paramount reportedly offered [[AMCTheatres|AMC]] and [[RegalCinemas|Regal]] a three-year agreement if it completed a [[WarnerBrosDiscovery|Warner Bros. Discovery]] acquisition, promising 30 theatrical releases per year, at least 45 days of theatrical exclusivity, and streaming availability only after 90 days.
 
 Paramount appears in [[tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]] as the [[DavidEllison]]-led bidder making a hostile offer for [[WarnerBrosDiscovery]] after [[Netflix]] had agreed to buy much of Warner Bros. Discovery's studio and streaming assets.
 
@@ -23,3 +25,4 @@ In the wiki, Paramount is part of the [[StreamingConsolidation]] branch. The epi
 - [[VerticalMediaDistribution]] - adjacent media-control concept.
 - [[Skydance]], [[LarryEllison]], [[CBS]], [[FederalCommunicationsCommission]], and [[MediaOwnershipIndependenceRisk]] - ownership and approval branch added by 商业就是这样.
 - [[ByteDance]], [[TheWaltDisneyCompany]], [[MotionPictureAssociation]], [[VideoModels]], and [[CreativeLaborAIBacklash]] - AI-video rights-conflict branch added by E234.
+- [[AMCTheatres]], [[RegalCinemas]], [[TheatricalWindowBargaining]], and [[StreamingConsolidation]] - theater-release commitment branch added by 声动早咖啡.

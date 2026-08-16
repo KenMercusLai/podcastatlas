@@ -2,11 +2,13 @@
 title: "FIFA World Cup"
 type: entity
 tags: [sports, football, event]
-sources: [kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, how-to-win-a-penalty-shootout-with-game-theory, can-world-cup-mania-grow-mls-in-the-us, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-264-ba-shijiebei-zuowei-fangfa-999416048, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]
+sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, how-to-win-a-penalty-shootout-with-game-theory, can-world-cup-mania-grow-mls-in-the-us, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-264-ba-shijiebei-zuowei-fangfa-999416048, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]
 last_updated: 2026-08-16
 ---
 
 # FIFA World Cup
+
+[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds a U.S. broadcast-advertising extension. The source says [[FIFA]] is studying bundled U.S. rights sales for the 2030 and 2034 tournaments and considering retaining mandatory hydration pauses because fixed breaks can create extra advertising inventory for broadcasters such as [[FoxSports|Fox Sports]]. This turns the tournament's commercial logic toward [[WorldCupHydrationPauseAdInventory]] as well as match-count expansion.
 
 The FIFA World Cup appears in [[shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969]] as [[FIFA]]'s core commercial and political asset. The episode focuses on the 2026 edition, where the tournament expands from 32 to 48 teams and from 64 to 104 matches.
 
@@ -41,6 +43,7 @@ The source frames the 2026 tournament as a case where host-market infrastructure
 - E237 adds that World Cup rights can function as a national public-access event, a sublicensed platform-growth asset, and a sponsor-exposure constraint at the same time.
 - Vol.267 adds that the same tournament's commercial success can depend on cities and fans absorbing costs that do not show up in FIFA's core rights revenue.
 - 声动早咖啡 adds that tournament attention may fail to lift adjacent consumption when match timing, weather, and viewing occasions do not fit the product.
+- The Ralph Lauren / China Eastern 声动早咖啡 source adds the ad-slot version: hydration pauses can make soccer more monetizable for U.S. broadcasters while creating tension with viewing flow.
 
 ## Connections
 - [[FIFA]], [[GianniInfantino]], [[UEFA]], [[SeppBlatter]], and [[JoaoHavelange]] - governing and historical context.
@@ -53,3 +56,4 @@ The source frames the 2026 tournament as a case where host-market infrastructure
 - [[Soccernomics]], [[SportsMegaEventWelfareAccounting]], [[FootballAsEconomicLaboratory]], and [[SportsFandomNetworkEffects]] - welfare and social-rhythm branch added by 蜜獾吃书.
 - [[ChinaCentralTelevision]], [[Lenovo]], [[Migu]], [[Douyin]], [[SportsRightsBusinessModel]], [[SportsRightsSublicensing]], [[SportsBroadcastPublicAccess]], and [[SportsRightsBubble]] - Chinese rights-negotiation branch added by E237.
 - [[YingyanShijian|鹰眼时间]], [[TeteFei|特特飞]], [[WorldCupHostCityEconomics]], [[HostCitySupporterSponsorship]], [[FanFestivalCommercialization]], and [[OfficialSportsTicketResale]] - host-city finance and live-fan-cost branch added by Vol.267.
+- [[FoxSports]], [[WorldCupHydrationPauseAdInventory]], [[SportsMediaRights]], and [[SportsRightsBusinessModel]] - hydration-pause advertising branch added by 声动早咖啡.

@@ -1819,6 +1819,10 @@
     "title": "AI Model Censorship",
     "url": "/wiki/concepts/aimodelcensorship/"
   },
+  "AIModelDistillationGovernance": {
+    "title": "AI Model Distillation Governance",
+    "url": "/wiki/concepts/aimodeldistillationgovernance/"
+  },
   "AIModelSandboxEscape": {
     "title": "AI Model Sandbox Escape",
     "url": "/wiki/concepts/aimodelsandboxescape/"
@@ -1898,6 +1902,10 @@
   "AIPoliticalCampaignOperations": {
     "title": "AI Political Campaign Operations",
     "url": "/wiki/concepts/aipoliticalcampaignoperations/"
+  },
+  "AIProductDevelopmentAcceleration": {
+    "title": "AI Product Development Acceleration",
+    "url": "/wiki/concepts/aiproductdevelopmentacceleration/"
   },
   "AIProductFragmentation": {
     "title": "AI Product Fragmentation",
@@ -2990,6 +2998,10 @@
   "AirlineServiceDifferentiation": {
     "title": "Airline Service Differentiation",
     "url": "/wiki/concepts/airlineservicedifferentiation/"
+  },
+  "AirlineTicketFlexibility": {
+    "title": "Airline Ticket Flexibility / 机票退改签灵活性",
+    "url": "/wiki/concepts/airlineticketflexibility/"
   },
   "AirlineUnbundling": {
     "title": "Airline Unbundling",
@@ -4515,6 +4527,10 @@
     "title": "Audemars Piguet",
     "url": "/wiki/entities/audemarspiguet/"
   },
+  "Audi": {
+    "title": "Audi",
+    "url": "/wiki/entities/audi/"
+  },
   "AuditOpinionRisk": {
     "title": "Audit Opinion Risk",
     "url": "/wiki/concepts/auditopinionrisk/"
@@ -4814,6 +4830,10 @@
   "BLACKPINK": {
     "title": "BLACKPINK",
     "url": "/wiki/entities/blackpink/"
+  },
+  "BMW": {
+    "title": "BMW",
+    "url": "/wiki/entities/bmw/"
   },
   "BNBuilders": {
     "title": "BN Builders",
@@ -7722,6 +7742,10 @@
   "ChinaDivorceRestrictions": {
     "title": "China Divorce Restrictions",
     "url": "/wiki/concepts/chinadivorcerestrictions/"
+  },
+  "ChinaEasternAirlines": {
+    "title": "China Eastern Airlines / 东方航空",
+    "url": "/wiki/entities/chinaeasternairlines/"
   },
   "ChinaEnterpriseAISystemDebt": {
     "title": "China Enterprise AI System Debt",
@@ -14467,6 +14491,10 @@
     "title": "Fourth-Person Narrative",
     "url": "/wiki/concepts/fourthpersonnarrative/"
   },
+  "FoxSports": {
+    "title": "Fox Sports",
+    "url": "/wiki/entities/foxsports/"
+  },
   "FoxconnIndustrialInternet": {
     "title": "Foxconn Industrial Internet / 工业富联",
     "url": "/wiki/entities/foxconnindustrialinternet/"
@@ -15406,6 +15434,10 @@
   "GerardWay": {
     "title": "Gerard Way",
     "url": "/wiki/entities/gerardway/"
+  },
+  "GermanLuxuryCarChinaPressure": {
+    "title": "German Luxury Car China Pressure / 德系豪华车中国压力",
+    "url": "/wiki/concepts/germanluxurycarchinapressure/"
   },
   "Germany": {
     "title": "Germany",
@@ -20895,6 +20927,10 @@
     "title": "Kondratiev Cycle",
     "url": "/wiki/concepts/kondratievcycle/"
   },
+  "KongTao": {
+    "title": "Kong Tao / 孔涛",
+    "url": "/wiki/entities/kongtao/"
+  },
   "KongXiangxi": {
     "title": "孔祥熙",
     "url": "/wiki/entities/kongxiangxi/"
@@ -22975,6 +23011,10 @@
     "title": "Maarva Andor",
     "url": "/wiki/entities/maarvaandor/"
   },
+  "MacBook": {
+    "title": "MacBook",
+    "url": "/wiki/entities/macbook/"
+  },
   "MacGuffin": {
     "title": "MacGuffin / 麦格芬",
     "url": "/wiki/concepts/macguffin/"
@@ -24251,6 +24291,10 @@
     "title": "Menu Costs",
     "url": "/wiki/concepts/menucosts/"
   },
+  "MercedesBenz": {
+    "title": "Mercedes-Benz",
+    "url": "/wiki/entities/mercedesbenz/"
+  },
   "MercedesF1": {
     "title": "Mercedes F1",
     "url": "/wiki/entities/mercedesf1/"
@@ -25298,6 +25342,10 @@
   "MultiPerspectiveMurderNarration": {
     "title": "Multi-Perspective Murder Narration",
     "url": "/wiki/concepts/multiperspectivemurdernarration/"
+  },
+  "MultiPriceBandLuxuryBranding": {
+    "title": "Multi-Price-Band Luxury Branding",
+    "url": "/wiki/concepts/multipricebandluxurybranding/"
   },
   "MultiStrategyAllocation": {
     "title": "Multi-Strategy Allocation",
@@ -30183,6 +30231,10 @@
     "title": "Ralph Goody",
     "url": "/wiki/entities/ralphgoody/"
   },
+  "RalphLauren": {
+    "title": "Ralph Lauren",
+    "url": "/wiki/entities/ralphlauren/"
+  },
   "RamShriram": {
     "title": "Ram Shriram",
     "url": "/wiki/entities/ramshriram/"
@@ -30542,6 +30594,10 @@
   "ReformUK": {
     "title": "Reform UK",
     "url": "/wiki/entities/reformuk/"
+  },
+  "RegalCinemas": {
+    "title": "Regal Cinemas",
+    "url": "/wiki/entities/regalcinemas/"
   },
   "Regeneron": {
     "title": "Regeneron / 再生元",
@@ -36215,6 +36271,10 @@
     "title": "The X-Files / X档案",
     "url": "/wiki/entities/thexfiles/"
   },
+  "TheatricalWindowBargaining": {
+    "title": "Theatrical Window Bargaining",
+    "url": "/wiki/concepts/theatricalwindowbargaining/"
+  },
   "ThedaSkocpol": {
     "title": "Theda Skocpol",
     "url": "/wiki/entities/thedaskocpol/"
@@ -38579,6 +38639,10 @@
     "title": "Wearable AI Assistant",
     "url": "/wiki/concepts/wearableaiassistant/"
   },
+  "WearableFormFactorPressure": {
+    "title": "Wearable Form-Factor Pressure",
+    "url": "/wiki/concepts/wearableformfactorpressure/"
+  },
   "WebBasedSoftware": {
     "title": "Web-Based Software",
     "url": "/wiki/concepts/webbasedsoftware/"
@@ -39186,6 +39250,10 @@
   "WorldCupHostCityEconomics": {
     "title": "World Cup Host-City Economics",
     "url": "/wiki/concepts/worldcuphostcityeconomics/"
+  },
+  "WorldCupHydrationPauseAdInventory": {
+    "title": "World Cup Hydration Pause Ad Inventory",
+    "url": "/wiki/concepts/worldcuphydrationpauseadinventory/"
   },
   "WorldFoundationModels": {
     "title": "World Foundation Models",
@@ -43682,6 +43750,10 @@
   "zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588": {
     "title": "「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战",
     "url": "/wiki/sources/zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588/"
+  },
+  "zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805": {
+    "title": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策",
+    "url": "/wiki/sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805/"
   },
   "zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae": {
     "title": "中年三账户：现金流、肌肉、睡眠",

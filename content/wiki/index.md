@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [中国消费者带动拉夫劳伦增长，东航优化机票退改签政策](sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805.md) — 声动早咖啡 episode linking Ralph Lauren's China-led growth and channel tightening, China Eastern's refund/change-policy optimization, German luxury-car China pressure, Apple Watch form-factor experiments, Airbnb internal AI productivity, Paramount theatrical-window bargaining, World Cup ad inventory, and ByteDance distillation governance.
 - [巴黎水和圣培露还能赚钱，雀巢为何要剥离水业务？](sources/bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453.md) — 声动早咖啡 episode on Nestle moving Perrier, San Pellegrino, Acqua Panna, and other water/premium-beverage brands into a Platinum Equity joint venture, linking bottled-water margins, source risk, packaging/logistics cost, CPG portfolio focus, and side updates on Alo Yoga/Tmall, OpenAI hardware, DeepSeek/Qwen pricing, and Yum China/Pizza Hut China.
 - [咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？](sources/kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054.md) — 声动早咖啡 episode linking Google DeepMind, Douyin ecommerce, Disney streaming, World Cup beer consumption, and a main explainer on wagyu buffet economics, grading, regional branding, and premium food storytelling.
 - [服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线](sources/fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677.md) — 声动早咖啡 episode linking A&F China partner talks, Bain Capital's Gong Cha acquisition, Truth Social's paid Truth API, OpenAI-Apple hardware dispute, SpaceX AI capex, ChangXin DRAM trials, BYD Brazil/Japan localization, McDonald's demand pressure, P&G's Thorne acquisition, and Avignon Festival.
@@ -959,6 +960,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ralph Lauren](entities/RalphLauren.md) — Fashion and lifestyle brand whose China-led growth and planned channel tightening illustrate multi-price-band luxury branding.
+- [China Eastern Airlines / 东方航空](entities/ChinaEasternAirlines.md) — Chinese airline using a looser 14-day free refund/change cutoff to reduce early-booking hesitation and appeal to business travelers.
+- [Mercedes-Benz](entities/MercedesBenz.md) — German luxury automaker used in the source's China margin and sales-pressure comparison.
+- [BMW](entities/BMW.md) — German luxury automaker whose low automotive margin is a sharp example of German luxury-car pressure in China.
+- [Audi](entities/Audi.md) — German luxury automaker used with Mercedes-Benz and BMW to show China demand pressure from local new-energy brands.
+- [Regal Cinemas](entities/RegalCinemas.md) — U.S. cinema chain named in Paramount's reported theatrical-release commitment.
+- [Fox Sports](entities/FoxSports.md) — U.S. World Cup broadcaster tied to the source's hydration-pause advertising-inventory discussion.
+- [Kong Tao / 孔涛](entities/KongTao.md) — Former ByteDance robotics lead who joined Xiaomi to work on robotics foundation models.
+- [MacBook](entities/MacBook.md) — Apple laptop product line linked to ChangXin Memory chip testing and local AI workflow hardware reuse.
 - [Perrier / 巴黎水](entities/Perrier.md) — Premium sparkling mineral-water brand used to show how lifestyle value and source-authenticity risk can coexist inside Nestle's water portfolio.
 - [S.Pellegrino / San Pellegrino / 圣培露](entities/SanPellegrino.md) — Premium Italian mineral-water brand whose fine-dining marketing illustrates high-end bottled-water economics.
 - [Platinum Equity](entities/PlatinumEquity.md) — U.S. private-equity firm buying 50% of Nestle's water and premium-beverage business in the source's joint-venture account.
@@ -6540,6 +6550,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [German Luxury Car China Pressure / 德系豪华车中国压力](concepts/GermanLuxuryCarChinaPressure.md) — Margin and sales squeeze on German luxury automakers as Chinese new-energy brands enter premium price bands.
+- [Wearable Form-Factor Pressure](concepts/WearableFormFactorPressure.md) — Product-strategy pressure on established wearables when bands, rings, screens, tiers, and AI assistant roles shift.
+- [AI Product Development Acceleration](concepts/AIProductDevelopmentAcceleration.md) — Internal AI use that shortens product-feature cycles and raises release cadence before consumer-facing AI becomes prominent.
+- [Multi-Price-Band Luxury Branding](concepts/MultiPriceBandLuxuryBranding.md) — Premium-brand strategy that spans accessible and aspirational price levels while managing channel and discount risk.
+- [Airline Ticket Flexibility / 机票退改签灵活性](concepts/AirlineTicketFlexibility.md) — Refund/change-policy flexibility as a demand lever that reduces early-booking penalty risk.
+- [Theatrical Window Bargaining](concepts/TheatricalWindowBargaining.md) — Use of cinema release volume and exclusivity windows to bargain with exhibitors during streaming-era media consolidation.
+- [World Cup Hydration Pause Ad Inventory](concepts/WorldCupHydrationPauseAdInventory.md) — Rule-created live-sports advertising inventory from fixed World Cup hydration breaks.
+- [AI Model Distillation Governance](concepts/AIModelDistillationGovernance.md) — Legal, geopolitical, provenance, and organizational controls around whether a model team should use distillation.
 - [Bottled Water Portfolio Spinout](concepts/BottledWaterPortfolioSpinout.md) — Strategy pattern where a CPG owner separates a still-growing bottled-water business because margin, cost structure, and risk fit poorly with core categories.
 - [Premium Bottled Water Economics](concepts/PremiumBottledWaterEconomics.md) — Category logic where source story and lifestyle branding support price but packaging, logistics, and site-bound operations weigh on margins.
 - [Water Source Authenticity Risk](concepts/WaterSourceAuthenticityRisk.md) — Trust and regulatory risk when a premium water brand's value depends on natural source, mineral identity, and treatment claims.

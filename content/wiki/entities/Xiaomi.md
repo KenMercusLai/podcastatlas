@@ -2,11 +2,13 @@
 title: "Xiaomi"
 type: entity
 tags: [company, china, technology, investing, ai]
-sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
+sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
 last_updated: 2026-08-16
 ---
 
 # Xiaomi
+
+[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds a robotics-model talent update. The source says former [[ByteDance]] robotics-business lead [[KongTao|Kong Tao]] joined Xiaomi in 2025 to work on robotics foundation models and brought some former ByteDance colleagues, connecting Xiaomi to [[PhysicalAI]], [[EmbodiedAI]], and [[VisionLanguageActionModels]] beyond its existing handset, EV, and large-model branches.
 
 Xiaomi appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]] as one of the Chinese technology names foreign investors may examine when reallocating toward Hong Kong and China technology assets. The episode groups Xiaomi with [[Alibaba]] and [[Tencent]] as more likely early targets than smaller or policy-sensitive sectors when outside capital moves from underweight to a more neutral China-tech allocation.
 
@@ -35,3 +37,4 @@ Xiaomi appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-sh
 - [[ChangXinMemory]], [[MemoryChipShortage]], and [[AIHardwareSupplyChainPressure]] — memory-allocation context added by What's Next.
 - [[LeiJun]], [[MIUI]], [[Redmi]], [[InternetPhoneModel]], and [[SmartphoneBrandSupplyChainExecution]] — Xiaomi's phone-history branch added by episode 210.
 - [[RangeExtendedEV]] - EV route side item added by 声动早咖啡.
+- [[KongTao]], [[PhysicalAI]], [[EmbodiedAI]], and [[VisionLanguageActionModels]] - robotics foundation-model branch added by the later 声动早咖啡 source.

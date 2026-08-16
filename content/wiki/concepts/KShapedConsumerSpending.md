@@ -2,11 +2,13 @@
 title: "K-Shaped Consumer Spending"
 type: concept
 tags: [economics, households, inequality, consumption]
-sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, indicators-of-2025-and-what-to-watch-in-2026]
-last_updated: 2026-08-07
+sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, indicators-of-2025-and-what-to-watch-in-2026]
+last_updated: 2026-08-16
 ---
 
 # K-Shaped Consumer Spending
+
+[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds a brand-level case through [[RalphLauren|Ralph Lauren]]. The source says Ralph Lauren's broad price coverage and China growth helped it perform even as consumers were cutting some non-essential spending, suggesting that premium brands with accessible tiers can ride uneven demand differently from narrow luxury houses.
 
 [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds the AI wealth-effect version. The source argues that U.S. AI equity gains can support consumption because high-income households own more stock and account for a large share of spending, while China lacks the same stock-wealth transmission because household wealth remains more property-linked.
 
@@ -23,6 +25,7 @@ The concept matters because aggregate demand can look healthy while stress build
 - Tax cuts that mainly benefit upper-income households can reinforce the top-heavy spending pattern in the source's account.
 - The concept links [[CAPERatioValuationSignal]] to the real economy through household wealth exposure, not only through market valuation.
 - Episode 146 adds that retirement-account and Big Tech exposure can make some households market-sensitive even when labor and prices feel weak.
+- A multi-price-band premium brand can show demand resilience even when discretionary spending is uneven, because it can serve customers who trade down without leaving the brand.
 
 ## Connections
 - [[CooperKatzMcKim]] and [[RBC]] - source participant and cited data source.
@@ -30,3 +33,4 @@ The concept matters because aggregate demand can look healthy while stress build
 - [[CAPERatioValuationSignal]], [[AIEquityValuationRisk]], and [[SP500]] - asset-market branch affecting high-income spending confidence.
 - [[CarAffordabilityStress]], [[SubprimeAutoLending]], and [[CreditCardDebtMechanics]] - household-debt stress branch below the top income slice.
 - [[USEconomicExperienceSplit]] and [[EquityRetirementAssetBinding]] - sector-split and retirement-asset branch added by the Qizhulou/美轮美换 crossover.
+- [[RalphLauren]], [[MultiPriceBandLuxuryBranding]], and [[LuxuryRetailChannelControl]] - consumer-brand case added by 声动早咖啡.

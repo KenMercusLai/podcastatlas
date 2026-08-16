@@ -2,11 +2,13 @@
 title: "Apple Watch"
 type: entity
 tags: [apple, hardware, wearables, health]
-sources: [tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, rolex-1]
-last_updated: 2026-08-11
+sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, rolex-1]
+last_updated: 2026-08-16
 ---
 
 # Apple Watch
+
+[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds a product-form exploration branch. The source says [[Apple]] designers had studied a screenless band, different screen sizes, a round face, and possible tiers above Ultra or below SE, even though the next Apple Watch and Apple Watch Ultra generation remained focused on health features and appearance upgrades. This makes Apple Watch a case in [[WearableFormFactorPressure]] as well as [[WearableAIAssistant]].
 
 [[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] adds an endpoint role for Apple Watch in child monitoring. [[Nanit]]'s CEO is described as wanting the company to be part of children's bedrooms until they get a first Apple Watch, often around age 10, making the product a boundary marker between [[AIBabyMonitors]] and later wearable self-tracking.
 
@@ -22,3 +24,4 @@ The product is relevant to [[WearableAIAssistant]] because watches already have 
 - [[Rolex]], [[MechanicalWatchRepositioning]], and [[ConsumerBrandMoat]] - mechanical-watch contrast added by Acquired.
 - [[AppleAccessibility]] - adjacent Apple wearable/interface branch in the wiki.
 - [[AppleAirPods|Apple AirPods]] and [[OuraRing|Oura Ring]] - other familiar wearable examples named in the source.
+- [[WearableFormFactorPressure]] and [[ConsumerElectronicsLifecycle]] - form and category-renewal pressure added by the 声动早咖啡 source.

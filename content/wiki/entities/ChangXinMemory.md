@@ -2,11 +2,13 @@
 title: "ChangXin Memory / 长鑫存储"
 type: entity
 tags: [company, china, semiconductors, memory]
-sources: [fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189]
+sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189]
 last_updated: 2026-08-16
 ---
 
 # ChangXin Memory / 长鑫存储
+
+[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds an [[Apple]] testing update. The source says Apple was testing ChangXin chips for products such as iPhone and MacBook, but that ChangXin's 2026 capacity was already full, limiting its ability to cover Apple's near-term supply gap.
 
 [[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] adds a concrete PC supply-chain insertion. The episode cites Nikkei reporting that [[HPInc|HP]], [[Asus|ASUS]], and [[Acer]] had begun using ChangXin DRAM in small numbers of entry-level notebooks, while vendors remained cautious because [[Samsung]], [[SKHynix|SK Hynix]], and [[MicronTechnology|Micron]] still dominate global DRAM supply.
 
@@ -23,6 +25,7 @@ The episode links ChangXin to two demand pressures. On the AI side, domestic acc
 - [[HighBandwidthMemory]], [[AIStorageSupercycle]], and [[MemoryCapacityLockIn]] - AI memory demand and capacity-control context.
 - [[Huawei]] and [[Xiaomi]] - domestic system and handset contexts connected to memory capacity.
 - [[HPInc]], [[Asus]], and [[Acer]] - PC vendors named in the source's limited DRAM adoption report.
+- [[Apple]], [[IPhone]], [[MacBook]], and [[AIHardwareSupplyChainPressure]] - testing and capacity-constraint branch added by the Ralph Lauren / China Eastern episode.
 - [[StorageIndustryCyclicality]] - industry structure ChangXin is entering or navigating.
 - [[Hefei]], [[HefeiIndustrialInvestmentModel]], and [[ProductionInvestmentCity]] - local industrial-investment context added by Banlatte episode 211.
 - [[SemiconductorSupplyChain]] and [[StrategicIndustrialPolicy]] - broader hard-tech capacity-building frame.

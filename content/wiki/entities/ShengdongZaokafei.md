@@ -2,11 +2,13 @@
 title: "声动早咖啡"
 type: entity
 tags: [podcast, media, business, technology, china]
-sources: [bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
+sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
 last_updated: 2026-08-16
 ---
 
 # 声动早咖啡
+
+[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds another high-density business-news scan. It links [[MercedesBenz]], [[BMW]], and [[Audi]] margin pressure in China, [[AppleWatch|Apple Watch]] form-factor exploration, [[ChangXinMemory]] testing by [[Apple]], [[Nintendo]] tariff refunds, [[Airbnb]] internal AI productivity, [[RalphLauren]]'s China-led growth, [[Paramount]] theatrical-window bargaining, [[FIFAWorldCup|World Cup]] hydration-pause ad inventory, [[ByteDance]] distillation governance, and [[ChinaEasternAirlines|China Eastern Airlines]] ticket flexibility.
 
 [[bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453]] adds another roundup-and-explainer example. It opens with short updates on [[AloYoga]], [[OpenAI]], [[DeepSeek]], [[Qwen]], and [[YumChina]], then uses [[Nestle]]'s water-business joint venture to explain why [[Perrier]] and [[SanPellegrino]] can still grow while being less core than higher-margin categories. The episode adds a bottled-water strategy cluster around [[BottledWaterPortfolioSpinout]], [[PremiumBottledWaterEconomics]], [[WaterSourceAuthenticityRisk]], and [[CPGPortfolioFocus]].
 
@@ -42,5 +44,6 @@ The show's launch frame is deliberately ritualized. Instead of advertising only 
 - [[AbercrombieFitch]], [[TruthAPI]], [[ChangXinMemory]], [[BYD]], [[McDonalds]], [[ProcterGamble]], and [[Thorne]] - cross-industry branches added by the August 2026 A&F/Truth API roundup.
 - [[NiuniuSukiyaki]], [[Wagyu]], [[SpecializedBuffetFormat]], [[BuffetBudgetLockIn]], and [[WagyuPremiumBranding]] - restaurant and premium-food branch added by the wagyu self-service episode.
 - [[Nestle]], [[Perrier]], [[SanPellegrino]], [[PlatinumEquity]], [[AloYoga]], [[DeepSeek]], [[Qwen]], and [[PizzaHutChina]] - water-portfolio and business-news branches added by the August 2026 water episode.
+- [[RalphLauren]], [[ChinaEasternAirlines]], [[GermanLuxuryCarChinaPressure]], [[WearableFormFactorPressure]], [[AIProductDevelopmentAcceleration]], [[WorldCupHydrationPauseAdInventory]], and [[AIModelDistillationGovernance]] - business-news branches added by the August 2026 Ralph Lauren / China Eastern episode.
 - [[MorningAudioRitual]], [[ShortFormBusinessTechAudio]], and [[PodcastReleaseCadence]] - format and habit concepts.
 - [[Coffee|Coffee / 咖啡]] and [[CaffeinatedModernity]] - metaphor and wakefulness branch.
