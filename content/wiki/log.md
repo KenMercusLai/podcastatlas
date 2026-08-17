@@ -7797,3 +7797,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-18] ingest | EP 4: A.I. talk with a Rocket Scientist from NASA
+
+Added source page for a Data Science With Sam episode with Kofi Browning on NASA career pathways, mission-driven government engineering, risk management, AI in space research, dataset scarcity, ISS imagery review, EVA glove inspection, model bias, and human oversight. Created pages for Kofi Browning, International Space Station, NASA Career Pathways, Mission-Driven Government Engineering, Spaceflight AI Dataset Scarcity, Space Imagery AI, EVA Glove Inspection AI, and AI Model Bias Governance; updated overview, index, Data Science With Sam, Sam, NASA, AI For Science, Human-Driven Scientific AI, Domain Expert Alignment, and AI Verification. No direct contradiction found; the source qualifies space-AI optimism by showing that imagery-heavy tasks can support human reviewers while one-off mission events, safety stakes, and bias risks keep expert oversight central.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

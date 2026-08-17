@@ -2,11 +2,13 @@
 title: "NASA"
 type: entity
 tags: [space, government, aerospace]
-sources: [older-workers-arent-retiring-should-they-be-forced-to, taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
-last_updated: 2026-08-08
+sources: [ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, older-workers-arent-retiring-should-they-be-forced-to, taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]
+last_updated: 2026-08-18
 ---
 
 # NASA
+
+[[ep-4-a-i-talk-with-a-rocket-scientist-from-nasa]] adds an internal-career and practical-AI view through [[KofiBrowning]], introduced as a rocket scientist and deputy chief information officer. The source connects [[NASACareerPathways]], [[MissionDrivenGovernmentEngineering]], engineering risk management, [[SpaceflightAIDatasetScarcity]], [[SpaceImageryAI]], [[InternationalSpaceStation]] footage, [[EVAGloveInspectionAI]], and [[AIModelBiasGovernance]]. It qualifies broad space-AI optimism by showing that NASA's AI opportunities depend on data volume, visual task fit, human review, and bias governance.
 
 [[taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760]] adds NASA as the satellite-measurement anchor for [[EarthEnergyImbalance]]. [[OliverMorton]] says satellite instruments, especially on NASA satellites, are the main way the imbalance is measured, while [[ArgoFloats]] and [[OceanHeatMonitoring]] provide an independent check because most excess heat enters the oceans.
 
@@ -29,6 +31,7 @@ The source frames NASA's shift from government-led building toward government-as
 [[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] mentions NASA in the renewed lunar-program context. The source uses that lunar push to frame [[MoonMarsStrategySplit]]: lunar work can be politically driven, but it can also become a nearby test field for long-duration operations before deeper space ambitions.
 
 ## Connections
+- [[KofiBrowning]], [[DataScienceWithSam]], [[NASACareerPathways]], [[MissionDrivenGovernmentEngineering]], [[SpaceflightAIDatasetScarcity]], [[SpaceImageryAI]], and [[EVAGloveInspectionAI]] - Data Science With Sam branch on NASA careers and practical space AI.
 - [[SpaceX]] and [[Falcon9]] — commercial launch context in the source.
 - [[RyanHendrickson]], [[CareerMobilityBottleneck]], and [[MandatoryRetirementPolicy]] - Planet Money labor-policy branch using NASA as the workplace case.
 - [[EarthEnergyImbalance]], [[OceanHeatMonitoring]], [[ArgoFloats]], and [[AlbedoFeedback]] - satellite and ocean heat measurement branch added by The Intelligence.

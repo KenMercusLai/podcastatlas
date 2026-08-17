@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 4: A.I. talk with a Rocket Scientist from NASA](sources/ep-4-a-i-talk-with-a-rocket-scientist-from-nasa.md) — Data Science With Sam episode with Kofi Browning on NASA career pathways, mission-driven engineering, spaceflight AI dataset scarcity, space imagery AI, EVA glove inspection, model bias, and human oversight.
 - [EP 3: Demystifying the Imposter Syndrome](sources/ep-3-demystifying-the-imposter-syndrome.md) — Data Science With Sam episode with Stephen Mathis on impostor syndrome, comparison, feedback, capability gaps, progress tracking, Dunning-Kruger overconfidence, and team confidence calibration.
 - [Data, Risk, and Actuarial Science in Insurance](sources/data-risk-and-actuarial-science-in-insurance.md) — Data Science With Sam episode with Mary Pat Campbell on actuarial science, mortality tables, insurance data quality, ASOPs, underwriting selection risk, and AI/ML under insurance regulation.
 - [Data, AI, and Scientific Research: A Coffee Chat](sources/data-ai-and-scientific-research-a-coffee-chat.md) — Data Science With Sam Coffee Chat with Effie and Mossam on AI in biology, chemistry, radiochemistry, data quality, negative results, experiment documentation, retrosynthesis, and human-driven scientific AI.
@@ -974,13 +975,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Kofi Browning](entities/KofiBrowning.md) — NASA engineer and Data Science With Sam guest connecting NASA career pathways, mission-driven engineering, risk management, and practical AI use in space research.
+- [International Space Station](entities/InternationalSpaceStation.md) — NASA visual-data source used in the episode to explain why space imagery can fit AI better than many low-count spaceflight events.
 - [Stephen Mathis](entities/StephenMathis.md) — Speaker, author, and Society of Actuaries Fellow discussing impostor syndrome, confidence calibration, feedback, and fair comparison on Data Science With Sam.
 - [Mary Pat Campbell](entities/MaryPatCampbell.md) — Life actuary and Data Science With Sam guest explaining actuarial science, insurance data quality, professional standards, and regulatory constraints.
 - [Society of Actuaries](entities/SocietyOfActuaries.md) — Professional actuarial organization used as fellowship context for Mary Pat Campbell and Stephen Mathis and as an industry mortality-data aggregation point.
 - [American Academy of Actuaries](entities/AmericanAcademyOfActuaries.md) — Mary Pat Campbell affiliation and source-scoped context for U.S. actuarial professional expectations.
 - [Casualty Actuarial Society](entities/CasualtyActuarialSociety.md) — Property-and-casualty actuarial organization referenced as part of the historical overlap between actuarial work and statistics.
-- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for Data Science With Sam episodes on impostor syndrome, experimental-science AI, and actuarial insurance data practice.
-- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of Data Science With Sam conversations on professional confidence, scientific AI, and actuarial insurance data.
+- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for Data Science With Sam episodes on NASA space AI, impostor syndrome, experimental-science AI, and actuarial insurance data practice.
+- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of Data Science With Sam conversations on NASA space AI, professional confidence, scientific AI, and actuarial insurance data.
 - [Effie (Data Science With Sam)](entities/EffieDataScienceWithSam.md) — Biology-focused guest emphasizing experimental records, bioinformatics collaboration, quality control, and AI lab documentation.
 - [Mossam (Data Science With Sam)](entities/MossamDataScienceWithSam.md) — Stanford research scientist guest explaining retrosynthesis AI, radiochemistry tracers, blood-brain-barrier prediction, negative chemistry data, and radioactive-safety oversight.
 - [Recursion Pharma](entities/RecursionPharma.md) — AI drug-discovery company cited as a source-scoped example of commercial small-molecule prediction.
@@ -6048,7 +6051,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dragon Spacecraft](entities/DragonSpacecraft.md) — SpaceX spacecraft whose interior work illustrates human-facing hard-tech design and manufacturing constraints.
 - [xAI](entities/XAI.md) — Musk AI company discussed as a possible participant in physical AI and space-based AI infrastructure.
 - [Grok](entities/Grok.md) — xAI model/product discussed as a possible physical-world and Musk-ecosystem AI participant.
-- [NASA](entities/NASA.md) — U.S. space agency framed as SpaceX's knowledge, standards, and commercial-procurement foundation.
+- [NASA](entities/NASA.md) — U.S. space agency framed through public mission, commercial procurement, Artemis, satellite measurement, career pathways, and practical space AI.
 - [Mars](entities/Mars.md) — Planet that E239 frames as SpaceX's civilization-scale destination in contrast with the Moon's nearer-term industrial logic.
 - [谢晨](entities/XieChen.md) — Guanglun Intelligence founder and CEO framing AI data as education and robotics simulation as core embodied-AI infrastructure.
 - [光轮智能](entities/GuanglunIntelligence.md) — Robotics simulation and data-engine company building environments, evaluation, and recipe loops for embodied AI.
@@ -6641,6 +6644,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [NASA Career Pathways](concepts/NASACareerPathways.md) — Career-entry frame for NASA internships, Pathways-style student routes, experienced hires, and non-aerospace roles.
+- [Mission-Driven Government Engineering](concepts/MissionDrivenGovernmentEngineering.md) — Career and governance tradeoff where ordinary engineering work is tied to public mission, risk management, and lower get-rich expectations.
+- [Spaceflight AI Dataset Scarcity](concepts/SpaceflightAIDatasetScarcity.md) — Constraint that rare, one-off, or low-count spaceflight events often lack the repeated data that machine learning needs.
+- [Space Imagery AI](concepts/SpaceImageryAI.md) — Computer-vision use of ISS footage, lunar imagery, and other visual space data for triage and classification under human review.
+- [EVA Glove Inspection AI](concepts/EVAGloveInspectionAI.md) — Safety-specific computer-vision use case where ML can support but not replace human review of astronaut glove images before EVA.
+- [AI Model Bias Governance](concepts/AIModelBiasGovernance.md) — Governance frame for finding and correcting model bias from data, labels, missing variables, programmer assumptions, and deployment context.
 - [Capability Gap Self-Diagnosis](concepts/CapabilityGapSelfDiagnosis.md) — Practice of separating distorted impostor feelings from real skill, time, or emotional-capacity gaps that require different remedies.
 - [External Feedback Self-Calibration](concepts/ExternalFeedbackSelfCalibration.md) — Use of trusted, concrete outside feedback to correct distorted self-assessment without treating all praise as automatically true.
 - [Fair Comparison Frames](concepts/FairComparisonFrames.md) — Method for making comparison more useful by matching peer group, timing, field, and metric instead of benchmarking against outliers.
@@ -6660,7 +6669,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Blood-Brain Barrier Prediction](concepts/BloodBrainBarrierPrediction.md) — ML use case for estimating whether candidate molecules can penetrate the brain based on molecular properties and validated experimental data.
 - [Negative Results As Scientific Data](concepts/NegativeResultsAsScientificData.md) — Claim that failed, null, and non-working experiments become useful scientific and model-training data only when recorded with enough context.
 - [AI Experiment Documentation](concepts/AIExperimentDocumentation.md) — Future lab-assistant role where AI and cameras could record experiment steps, deviations, inputs, and outputs as an audit trail.
-- [Human-Driven Scientific AI](concepts/HumanDrivenScientificAI.md) — Source stance that AI should support scientific pattern recognition, planning, and documentation while human creativity, judgment, and safety oversight remain responsible.
+- [Human-Driven Scientific AI](concepts/HumanDrivenScientificAI.md) — Source stance that AI should support scientific pattern recognition, planning, documentation, imagery triage, and inspection while human judgment and safety oversight remain responsible.
 - [Eco-Populism](concepts/EcoPopulism.md) — Green political style that keeps environmental identity while foregrounding economic grievance, redistribution, anti-elite rhetoric, and youth-facing material frustration.
 - [Youth Precarity Politics](concepts/YouthPrecarityPolitics.md) — Pattern where insecure work, high rents, weaker graduate routes, and centrist disillusionment make young voters receptive to anti-establishment politics.
 - [Synthetic Spud Cells](concepts/SyntheticSpudCells.md) — Lab-built cell-like systems that reproduce for limited generations and expose the engineering boundary around life.
@@ -10555,7 +10564,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Literary Agent Judgment](concepts/LiteraryAgentJudgment.md) — Taste and persistence needed to represent difficult writing before publishers or readers recognize its value.
 - [Recursive Self-Improvement](concepts/RecursiveSelfImprovement.md) — AI self-improvement loop where models help create tasks, data, code, training recipes, verification, and subsequent iterations.
 - [Discovery Model](concepts/DiscoveryModel.md) — AI system aimed at proposing and validating new scientific hypotheses rather than only generating fluent answers.
-- [AI Verification](concepts/AIVerification.md) — Broader verification problem for AI answers, hypotheses, training data, self-improvement loops, and agent actions.
+- [AI Verification](concepts/AIVerification.md) — Broader verification problem for AI answers, hypotheses, training data, self-improvement loops, agent actions, and safety-critical image review.
 - [Deep Research](concepts/DeepResearch.md) — Agentic search, planning, evidence gathering, synthesis, and tool-use capability for long research tasks.
 - [Option Contract Mechanics](concepts/OptionContractMechanics.md) — Basic options structure where calls, puts, premiums, strikes, expiration, and contract size define rights and obligations.
 - [Option Premium Pricing](concepts/OptionPremiumPricing.md) — Pricing intuition for option premiums through time value, implied volatility, market-maker hedging, and event uncertainty.
@@ -10844,7 +10853,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Discovery SEO](concepts/AIDiscoverySEO.md) — Distribution idea that AI-mediated discovery still depends on public web signals, search results, posts, and mentions.
 - [AI Engineering Thinking](concepts/AIEngineeringThinking.md) — Practice of turning goals into requirements, architecture maps, tests, logs, docs, review, audit rules, and business handoffs before asking AI to execute.
 - [AI Equity Valuation Risk](concepts/AIEquityValuationRisk.md) — Public-market risk that real AI company quality is already priced too aggressively.
-- [AI For Science](concepts/AIForScience.md) — Investment direction focused on using AI for high-complexity scientific and industrial knowledge work.
+- [AI For Science](concepts/AIForScience.md) — Theme focused on using AI for high-complexity scientific, industrial, and space-research work under domain, data, and verification constraints.
 - [AI Convergence](concepts/AIConvergence.md) — Forecast frame where AI's impact comes through cross-domain combinations with the internet, robotics, materials, energy, computation, and biology.
 - [Post-Search Internet](concepts/PostSearchInternet.md) — User-habit shift from browsing search results toward asking AI answer systems directly, with consequences for traffic, ads, SEO, and trust.
 - [Programmable Matter](concepts/ProgrammableMatter.md) — Materials branch of AI convergence covering metamaterials, zero-resistance conductors, self-powered implants, adaptive buildings, and cold-chain packaging.
@@ -10943,7 +10952,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Digital Employees](concepts/DigitalEmployees.md) — Enterprise AI systems treated as labor that must be onboarded, trained, connected, and managed.
 - [Dirty Work](concepts/DirtyWork.md) — Low-status or repetitive work that can still reveal workflow logic, responsibility boundaries, and improvement opportunities.
 - [Distribution Led Product Building](concepts/DistributionLedProductBuilding.md) — Company-building pattern where product selection and growth are shaped by channels, marketplaces, stores, acquisition systems, and conversion surfaces.
-- [Domain Expert Alignment](concepts/DomainExpertAlignment.md) — AI development pattern where researchers and engineers work with real field experts in domains such as coding, finance, safety, and law.
+- [Domain Expert Alignment](concepts/DomainExpertAlignment.md) — AI development pattern where model builders work with real field experts in domains such as coding, finance, safety, law, lab science, and space operations.
 - [Embodied AI](concepts/EmbodiedAI.md) — Robotics and physical AI direction discussed as both bubbly and strategically important.
 - [Emotional Interaction Models](concepts/EmotionalInteractionModels.md) — AI systems that decide social and emotional responses across speech, movement, memory, and relationship state.
 - [Enterprise Agent Store](concepts/EnterpriseAgentStore.md) — Marketplace pattern for enterprise agents that need workflow, permission, billing, integration, evaluation, and result-delivery infrastructure.

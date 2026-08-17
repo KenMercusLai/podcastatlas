@@ -1827,6 +1827,10 @@
     "title": "AI Metabolic Infrastructure",
     "url": "/wiki/concepts/aimetabolicinfrastructure/"
   },
+  "AIModelBiasGovernance": {
+    "title": "AI Model Bias Governance",
+    "url": "/wiki/concepts/aimodelbiasgovernance/"
+  },
   "AIModelCensorship": {
     "title": "AI Model Censorship",
     "url": "/wiki/concepts/aimodelcensorship/"
@@ -11919,6 +11923,10 @@
     "title": "ETN Credit Risk",
     "url": "/wiki/concepts/etncreditrisk/"
   },
+  "EVAGloveInspectionAI": {
+    "title": "EVA Glove Inspection AI",
+    "url": "/wiki/concepts/evagloveinspectionai/"
+  },
   "EVBatteryLeasing": {
     "title": "EV Battery Leasing / 电动车电池租赁",
     "url": "/wiki/concepts/evbatteryleasing/"
@@ -18855,6 +18863,10 @@
     "title": "International Padel Federation",
     "url": "/wiki/entities/internationalpadelfederation/"
   },
+  "InternationalSpaceStation": {
+    "title": "International Space Station",
+    "url": "/wiki/entities/internationalspacestation/"
+  },
   "InternationalStabilizationForce": {
     "title": "International Stabilization Force",
     "url": "/wiki/entities/internationalstabilizationforce/"
@@ -21186,6 +21198,10 @@
   "KodiakHarbour": {
     "title": "Kodiak Harbour",
     "url": "/wiki/entities/kodiakharbour/"
+  },
+  "KofiBrowning": {
+    "title": "Kofi Browning",
+    "url": "/wiki/entities/kofibrowning/"
   },
   "Koji": {
     "title": "Koji",
@@ -25131,6 +25147,10 @@
     "title": "Mission Driven Customer Education",
     "url": "/wiki/concepts/missiondrivencustomereducation/"
   },
+  "MissionDrivenGovernmentEngineering": {
+    "title": "Mission-Driven Government Engineering",
+    "url": "/wiki/concepts/missiondrivengovernmentengineering/"
+  },
   "MissionFocusedCompany": {
     "title": "Mission-Focused Company",
     "url": "/wiki/concepts/missionfocusedcompany/"
@@ -25862,6 +25882,10 @@
   "NASA": {
     "title": "NASA",
     "url": "/wiki/entities/nasa/"
+  },
+  "NASACareerPathways": {
+    "title": "NASA Career Pathways",
+    "url": "/wiki/concepts/nasacareerpathways/"
   },
   "NATO": {
     "title": "NATO",
@@ -34483,6 +34507,10 @@
     "title": "Space Economy Infrastructure",
     "url": "/wiki/concepts/spaceeconomyinfrastructure/"
   },
+  "SpaceImageryAI": {
+    "title": "Space Imagery AI",
+    "url": "/wiki/concepts/spaceimageryai/"
+  },
   "SpaceMissionLivestreaming": {
     "title": "Space Mission Livestreaming",
     "url": "/wiki/concepts/spacemissionlivestreaming/"
@@ -34498,6 +34526,10 @@
   "SpaceXMafia": {
     "title": "SpaceX Mafia",
     "url": "/wiki/concepts/spacexmafia/"
+  },
+  "SpaceflightAIDatasetScarcity": {
+    "title": "Spaceflight AI Dataset Scarcity",
+    "url": "/wiki/concepts/spaceflightaidatasetscarcity/"
   },
   "Spain": {
     "title": "Spain",
@@ -42218,6 +42250,10 @@
   "ep-3-demystifying-the-imposter-syndrome": {
     "title": "EP 3: Demystifying the Imposter Syndrome",
     "url": "/wiki/sources/ep-3-demystifying-the-imposter-syndrome/"
+  },
+  "ep-4-a-i-talk-with-a-rocket-scientist-from-nasa": {
+    "title": "EP 4: A.I. talk with a Rocket Scientist from NASA",
+    "url": "/wiki/sources/ep-4-a-i-talk-with-a-rocket-scientist-from-nasa/"
   },
   "ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx": {
     "title": "EP101 对话 Simon：AI 创业者的第一项基本功是把账算明白",
