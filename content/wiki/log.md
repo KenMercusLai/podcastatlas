@@ -7733,3 +7733,11 @@ Added source page for a LateTalk episode on model distillation as a technical, d
 ## [2026-08-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-17] ingest | Vans、匡威风光不再，经典帆布鞋为什么卖不动了？
+
+Added source page for a 声动早咖啡 episode on Vans and Converse decline, classic canvas-shoe demand pressure, comfort-led footwear demand, subculture mainstreaming dilution, vulcanized flat-sole tradeoffs, and heritage product innovation debt, with short updates on JD.com, Didi, Apple China AI, and DeepSeek Harness. Created pages for Vans, Converse / 匡威, VF Corporation / 威富集团, Chuck Taylor, Sun Choe, Salomon, Birkenstock, Crocs, DeepSeek Harness, Classic Canvas Shoe Decline, Comfort-Led Footwear Demand, Subculture Mainstreaming Dilution, Heritage Product Innovation Debt, and Vulcanized Sole Tradeoff; updated overview, index, 声动早咖啡, Nike, HOKA, JD.com, Didi, Apple, Apple Intelligence, Alibaba, Baidu, DeepSeek, Agent Harness, Vans Warped Tour, Consumer Brand Moat, Subculture Led Marketing, Performance Footwear Market, and Sports Lifestyle Consumption. No direct contradiction found; revenue, survey, and release figures are kept source-scoped.
+
+## [2026-08-17] lint | Wiki health check
+
+Ran health before lint; health scanned 11,007 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,007 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-08-12 with 10,690 nodes and 116,995 edges while the wiki scan found 11,007 pages; they found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` and provider API key variables are unset in this shell. Report returned in-session; `wiki/lint-report.md` was not saved.

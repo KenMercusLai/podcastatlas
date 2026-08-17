@@ -5691,6 +5691,10 @@
     "title": "Biren Technology / 壁仞科技",
     "url": "/wiki/entities/birentechnology/"
   },
+  "Birkenstock": {
+    "title": "Birkenstock",
+    "url": "/wiki/entities/birkenstock/"
+  },
   "BirthRitualMedicalConflict": {
     "title": "Birth Ritual Medical Conflict",
     "url": "/wiki/concepts/birthritualmedicalconflict/"
@@ -8247,6 +8251,10 @@
     "title": "Chuck Surack",
     "url": "/wiki/entities/chucksurack/"
   },
+  "ChuckTaylor": {
+    "title": "Chuck Taylor",
+    "url": "/wiki/entities/chucktaylor/"
+  },
   "ChudongZahuopu": {
     "title": "触动杂货铺 / Chudong Zahuopu",
     "url": "/wiki/entities/chudongzahuopu/"
@@ -8418,6 +8426,10 @@
   "ClassMobilityPerformance": {
     "title": "Class Mobility Performance / 阶级上升表演",
     "url": "/wiki/concepts/classmobilityperformance/"
+  },
+  "ClassicCanvasShoeDecline": {
+    "title": "Classic Canvas Shoe Decline",
+    "url": "/wiki/concepts/classiccanvasshoedecline/"
   },
   "ClassicReadingComplexity": {
     "title": "Classic Reading Complexity",
@@ -8814,6 +8826,10 @@
   "Comcast": {
     "title": "Comcast",
     "url": "/wiki/entities/comcast/"
+  },
+  "ComfortLedFootwearDemand": {
+    "title": "Comfort-Led Footwear Demand",
+    "url": "/wiki/concepts/comfortledfootweardemand/"
   },
   "ComicMaskSurvival": {
     "title": "搞笑面具式生存 / Comic Mask Survival",
@@ -9299,6 +9315,10 @@
     "title": "Conversational Search Interface",
     "url": "/wiki/concepts/conversationalsearchinterface/"
   },
+  "Converse": {
+    "title": "Converse / 匡威",
+    "url": "/wiki/entities/converse/"
+  },
   "ConvertibleBond": {
     "title": "Convertible Bond / 可转债",
     "url": "/wiki/concepts/convertiblebond/"
@@ -9626,6 +9646,10 @@
   "CriticalMineralsGeopolitics": {
     "title": "Critical Minerals Geopolitics",
     "url": "/wiki/concepts/criticalmineralsgeopolitics/"
+  },
+  "Crocs": {
+    "title": "Crocs",
+    "url": "/wiki/entities/crocs/"
   },
   "CropCircleDebunking": {
     "title": "Crop Circle Debunking",
@@ -10562,6 +10586,10 @@
   "DeepSeek": {
     "title": "DeepSeek",
     "url": "/wiki/entities/deepseek/"
+  },
+  "DeepSeekHarness": {
+    "title": "DeepSeek Harness",
+    "url": "/wiki/entities/deepseekharness/"
   },
   "DeepTechProductFocus": {
     "title": "Deep-Tech Product Focus",
@@ -16994,6 +17022,10 @@
   "HeritageFoundation": {
     "title": "Heritage Foundation",
     "url": "/wiki/entities/heritagefoundation/"
+  },
+  "HeritageProductInnovationDebt": {
+    "title": "Heritage Product Innovation Debt",
+    "url": "/wiki/concepts/heritageproductinnovationdebt/"
   },
   "HeritageTourismCommercialization": {
     "title": "Heritage Tourism Commercialization",
@@ -32099,6 +32131,10 @@
     "title": "Salmon-Trout Label Transparency / 鲑鳟商品名透明",
     "url": "/wiki/concepts/salmontroutlabeltransparency/"
   },
+  "Salomon": {
+    "title": "Salomon",
+    "url": "/wiki/entities/salomon/"
+  },
   "SalonChannelTrust": {
     "title": "Salon Channel Trust / 沙龙渠道信任",
     "url": "/wiki/concepts/salonchanneltrust/"
@@ -35075,6 +35111,10 @@
     "title": "Subculture Led Marketing",
     "url": "/wiki/concepts/subcultureledmarketing/"
   },
+  "SubcultureMainstreamingDilution": {
+    "title": "Subculture Mainstreaming Dilution",
+    "url": "/wiki/concepts/subculturemainstreamingdilution/"
+  },
   "SubjectLedCare": {
     "title": "Subject-Led Care",
     "url": "/wiki/concepts/subjectledcare/"
@@ -35182,6 +35222,10 @@
   "SunBum": {
     "title": "Sun Bum",
     "url": "/wiki/entities/sunbum/"
+  },
+  "SunChoe": {
+    "title": "Sun Choe",
+    "url": "/wiki/entities/sunchoe/"
   },
   "SunChuanfang": {
     "title": "Sun Chuanfang / 孙传芳",
@@ -37887,6 +37931,10 @@
     "title": "User-Powered Content Platform",
     "url": "/wiki/concepts/userpoweredcontentplatform/"
   },
+  "VFCorporation": {
+    "title": "VF Corporation / 威富集团",
+    "url": "/wiki/entities/vfcorporation/"
+  },
   "VIEEmployeeEquityMismatch": {
     "title": "VIE Employee Equity Mismatch / VIE 员工股权主体错位",
     "url": "/wiki/concepts/vieemployeeequitymismatch/"
@@ -37966,6 +38014,10 @@
   "VannetteHo": {
     "title": "Vannette Ho",
     "url": "/wiki/entities/vannetteho/"
+  },
+  "Vans": {
+    "title": "Vans",
+    "url": "/wiki/entities/vans/"
   },
   "VansWarpedTour": {
     "title": "Vans Warped Tour",
@@ -38302,6 +38354,10 @@
   "VoyagerGoldenRecord": {
     "title": "Voyager Golden Record",
     "url": "/wiki/entities/voyagergoldenrecord/"
+  },
+  "VulcanizedSoleTradeoff": {
+    "title": "Vulcanized Sole Tradeoff",
+    "url": "/wiki/concepts/vulcanizedsoletradeoff/"
   },
   "WAIC": {
     "title": "WAIC",
@@ -43614,6 +43670,10 @@
   "vanguard-1": {
     "title": "Vanguard",
     "url": "/wiki/sources/vanguard-1/"
+  },
+  "vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982": {
+    "title": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？",
+    "url": "/wiki/sources/vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982/"
   },
   "venezuelas-recent-economic-history-update": {
     "title": "Venezuela's recent economic history (Update)",

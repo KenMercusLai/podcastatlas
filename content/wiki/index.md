@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vans、匡威风光不再，经典帆布鞋为什么卖不动了？](sources/vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982.md) — 声动早咖啡 episode on Vans and Converse decline, comfort-led footwear demand, subculture mainstreaming dilution, heritage-product innovation debt, and short updates on JD.com, Didi, Apple China AI, and DeepSeek Harness.
 - [179: 蒸馏风暴：一场无人公开谈论的技术竞赛](sources/zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1.md) — LateTalk episode explaining model distillation as a technical, data-pipeline, ToS, organization, and business-model issue, with ByteDance's no-distillation stance, U.S. closed-lab accusations, and evidence standards for judging provenance.
 - [绿点小样 | 要推广替换芯，得把美妆重做一遍](sources/lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937.md) — 商业就是这样 episode on L'Oreal's refillable beauty packaging, showing how refills depend on durable package design, price discounts, channel visibility, replacement UX, and light sustainability marketing.
 - [Vol. 171 假如我们有无限 Token](sources/vol-171-jiaru-women-you-wuxian-token-1-6682-1.md) — 枫言枫语 episode on heavy AI-coding use, near-unlimited token access, long-running agents, loop design, disposable software, personalized app variants, hardware constraints, translation, education, and safety boundaries.
@@ -966,6 +967,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Vans](entities/Vans.md) — Classic skate and canvas-footwear brand used as a current decline case around comfort demand, subculture dilution, and product innovation debt.
+- [Converse / 匡威](entities/Converse.md) — Nike-owned classic canvas-footwear brand whose All Star and Chuck Taylor heritage is used as a parallel decline case to Vans.
+- [VF Corporation / 威富集团](entities/VFCorporation.md) — Apparel and footwear group that acquired Vans and is used to show how corporate scale can slow culture-led product renewal.
+- [Chuck Taylor](entities/ChuckTaylor.md) — Converse figure whose basketball-camp feedback and signature helped make the All Star shoe family a named cultural product.
+- [Sun Choe](entities/SunChoe.md) — Former Lululemon product leader brought in to lead Vans' product, store, marketing, and Warped Tour recovery work.
+- [Salomon](entities/Salomon.md) — Outdoor and trail-linked footwear brand used as a comfort/function contrast to classic canvas shoes.
+- [Birkenstock](entities/Birkenstock.md) — Comfort-forward footwear brand used as evidence that relaxed fit and support have become style-compatible demand.
+- [Crocs](entities/Crocs.md) — Comfort-first clog brand used as a contrast to flat canvas shoes in the source's footwear-demand shift.
+- [DeepSeek Harness](entities/DeepSeekHarness.md) — DeepSeek developer-preview agent scheduling system described as a plugin-oriented harness layer.
 - [Lancôme / 兰蔻](entities/Lancome.md) — L'Oreal prestige-beauty brand used by the refill episode to show why high-material beauty packaging can become a reusable asset.
 - [YSL Beauty / 圣罗兰美妆](entities/YSLBeauty.md) — L'Oreal beauty brand whose cushion refill example broadens refillable beauty packaging beyond jars and bottles.
 - [Paris L'Oreal / 巴黎欧莱雅](entities/ParisLOreal.md) — L'Oreal mass beauty and haircare brand used as a shampoo refill example closer to familiar daily-chemical refill habits.
@@ -6579,6 +6589,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Classic Canvas Shoe Decline](concepts/ClassicCanvasShoeDecline.md) — Pattern where famous canvas-shoe brands lose momentum as comfort demand, identity dilution, and product innovation debt compound.
+- [Comfort-Led Footwear Demand](concepts/ComfortLedFootwearDemand.md) — Consumer shift toward daily shoes that combine comfort, function, and style, pressuring flat canvas classics.
+- [Subculture Mainstreaming Dilution](concepts/SubcultureMainstreamingDilution.md) — Brand failure mode where a once-subcultural product loses identity premium after broad mainstream distribution.
+- [Heritage Product Innovation Debt](concepts/HeritageProductInnovationDebt.md) — Product-strategy risk where old hero products remain recognizable but stop supplying enough fresh reasons to buy.
+- [Vulcanized Sole Tradeoff](concepts/VulcanizedSoleTradeoff.md) — Footwear design tension where durable flat soles give sport feel but weaker everyday cushioning and support.
 - [Refillable Beauty Packaging / 美妆替换芯包装](concepts/RefillableBeautyPackaging.md) — Beauty packaging model where a durable outer container is kept and lower-material refills are bought for repeat use.
 - [Refill Adoption Friction / 替换芯采用摩擦](concepts/RefillAdoptionFriction.md) — Gap between refill awareness and repeat purchase, driven by visibility, price, operation, sealing, and channel access.
 - [Reusable Packaging Durability / 可复用包装耐久性](concepts/ReusablePackagingDurability.md) — Engineering requirement for packages, pump heads, seals, and refill interfaces to survive multiple product cycles.

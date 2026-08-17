@@ -2,8 +2,8 @@
 title: "Baidu"
 type: entity
 tags: [company, search, ai, china-internet]
-sources: [omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f, no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
-last_updated: 2026-08-08
+sources: [vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982, omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f, no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980, qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]
+last_updated: 2026-08-17
 ---
 
 # Baidu
@@ -28,6 +28,8 @@ The source describes Baidu as a company that built an effective PC-era traffic l
 
 [[qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1]] adds a BAT-era compensation anecdote. The hosts use a Baidu work memory to explain why early Chinese internet employees treated options and listing-era exercise arrangements as plausible upside when growth and IPO expectations were stronger.
 
+[[vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982]] adds Baidu as part of Apple's China AI integration context. The source says previous reporting had mainland [[AppleIntelligence]] integrating [[Alibaba]] [[Qwen]] and Baidu technology, while newer reporting suggested Apple was also working with Alibaba on a self-controlled China-market model.
+
 ## Key Points
 - Baidu's online-marketing business is described as declining even while the broader internet advertising market still grows.
 - AI answers in search may weaken ad clicks by satisfying the user above traditional result and ad positions.
@@ -42,8 +44,10 @@ The source describes Baidu as a company that built an effective PC-era traffic l
 - Episode 212 adds the Tieba branch: Baidu's search traffic could create large communities, but commercial intervention and weak governance could also turn community territory into a trust problem.
 - The Intelligence adds the overseas robotaxi branch: Baidu's autonomous-driving technology may help Chinese AI services set foreign operating standards.
 - The Keji Luandun options episode adds Baidu as an early Chinese internet example where employee equity seemed more credible under stronger growth and listing expectations.
+- The Vans/Converse source adds a partner-layer role for Baidu: even when Baidu is not the center of consumer AI attention, its technology can appear in localized platform integrations.
 
 ## Connections
+- [[Apple]], [[AppleIntelligence]], [[Alibaba]], and [[Qwen]] - China-market AI integration branch added by 声动早咖啡.
 - [[LiYanhong]] — founder and management lens.
 - [[Wenxin]] — AI product family whose market presence is questioned by the hosts.
 - [[LuQi]] — former executive whose tenure is framed as a missed transformation window.

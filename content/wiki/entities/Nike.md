@@ -2,8 +2,8 @@
 title: "Nike"
 type: entity
 tags: [company, footwear, sports, consumer-brand]
-sources: [xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]
-last_updated: 2026-08-16
+sources: [vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982, xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282]
+last_updated: 2026-08-17
 ---
 
 # Nike
@@ -16,6 +16,8 @@ Nike is a global sportswear company discussed in [[e241-paoxie-jishu-diedaishi-m
 
 [[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]] adds Nike as the incumbent sponsorship context for [[KylianMbappe|Kylian Mbappe / 姆巴佩]]. The source says Mbappe had cooperated with Nike for years and that reports about that relationship changing made the denied [[LiNing|Li-Ning]] rumor more plausible.
 
+[[vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982]] adds Nike as the parent-company context for [[Converse|匡威 / Converse]]. The source says Nike acquired Converse in 2003, that Converse later benefited from Chuck 70 demand, and that Nike management acknowledged the brand's heavy dependence on Chuck Taylor All-Star while current sales declined across regions.
+
 ## Key Claims
 - The episode says Nike's breakthrough was not merely adding a carbon plate, but combining plate structure with lightweight, soft, high-rebound foam.
 - [[NikeVaporfly]] and Alphafly gave Nike a period of elite-race and mass-consumer influence that competitors challenged as "spring shoe" style advantage.
@@ -23,6 +25,7 @@ Nike is a global sportswear company discussed in [[e241-paoxie-jishu-diedaishi-m
 - The FengTouQuan source adds that DTC can become overextended when it weakens channel coverage and lets competitors occupy wholesale shelf space.
 - Episode 16 adds that footwear innovation also has an exposure history when glues, solvents, and prototyping work are included.
 - The 声动早咖啡 source adds that athlete-sponsorship uncertainty can create public rumor even before a new brand deal exists.
+- The Vans/Converse source adds a legacy-brand risk: owning a famous heritage shoe line does not remove the need for comfort, product renewal, and cultural relevance.
 
 ## Connections
 - [[NikeVaporfly]] — core product case.
@@ -30,5 +33,6 @@ Nike is a global sportswear company discussed in [[e241-paoxie-jishu-diedaishi-m
 - [[KelvinKiptum]] and [[EliudKipchoge]] — elite runner context in the source.
 - [[Adidas]], [[AdidasAdiosProEvo3]], and [[AthleteSponsorshipStrategy]] — competitive comparison.
 - [[KylianMbappe]] and [[LiNing|Li-Ning]] — sponsorship-rumor context added by 声动早咖啡.
+- [[Converse]], [[ChuckTaylor]], [[ClassicCanvasShoeDecline]], and [[HeritageProductInnovationDebt]] — Converse ownership and heritage-product risk added by the Vans/Converse episode.
 - [[DirectToConsumerBrandControl]], [[HOKA]], and [[OnRunning]] — channel-strategy comparison from FengTouQuan episode 138.
 - [[BillBowerman|Bill Bowerman / 鲍尔曼]], [[ToxicFashionMaterialRisk]], and [[FashionSupplyChainExternality]] — safety-history branch from episode 16.
