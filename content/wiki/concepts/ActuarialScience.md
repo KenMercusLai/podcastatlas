@@ -1,0 +1,27 @@
+---
+title: "Actuarial Science"
+type: concept
+tags: [insurance, risk, statistics]
+sources: [data-risk-and-actuarial-science-in-insurance]
+last_updated: 2026-08-18
+---
+
+# Actuarial Science
+
+Actuarial science is the practice of quantifying risk for insurance, pensions, annuities, and other promises whose costs unfold under uncertainty. [[data-risk-and-actuarial-science-in-insurance]] defines it through [[MaryPatCampbell]]'s account of mortality tables, life insurance, annuities, property-and-casualty policies, reinsurance, underwriting, and the need to project future risk from imperfect historical data.
+
+The source presents actuarial science as applied quantitative work rather than pure mathematics. Actuaries need statistics, modeling, and software, but they also need [[ActuarialDataQuality]], [[ActuarialStandardsOfPractice]], business-process knowledge, and awareness of [[InsuranceModelRegulatoryConstraint]].
+
+## Key Claims
+- Actuarial work prices and manages uncertain promises, not just financial instruments.
+- Life insurance and annuity work depends heavily on mortality and morbidity assumptions over long horizons.
+- Property-and-casualty insurance can often use shorter renewal cycles and faster claims feedback, but still depends on claims timing, coding, and operational context.
+- Past data must be interpreted before it is projected; an extreme shock such as COVID mortality should not automatically become a permanent future assumption.
+- Reinsurance and retrocession are part of the risk-transfer stack for unusually bad mortality or claims years.
+- Actuarial practice needs collaboration with statisticians, data scientists, IT teams, regulators, and business operators.
+
+## Connections
+- [[MaryPatCampbell]], [[SocietyOfActuaries]], [[AmericanAcademyOfActuaries]], and [[CasualtyActuarialSociety]] - source voice and professional context.
+- [[InsuranceRiskTransfer]] and [[MortalityRiskPricing]] - insurance functions actuarial science supports.
+- [[ActuarialDataQuality]] and [[ActuarialStandardsOfPractice]] - professional data and modeling discipline.
+- [[InsuranceModelRegulatoryConstraint]], [[DomainExpertAlignment]], and [[HumanJudgmentUnderAI]] - AI and data-science boundary.

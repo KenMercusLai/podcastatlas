@@ -2,8 +2,8 @@
 title: "Asymmetric Information"
 type: concept
 tags: [economics, marketplaces, trust]
-sources: [you-bet-your-life-insurance, dont-hate-the-replicator-hate-the-game, seven-allegedly-fake-chanel-bags-vs-the-realreal, board-games-3-whats-in-a-name]
-last_updated: 2026-08-15
+sources: [data-risk-and-actuarial-science-in-insurance, you-bet-your-life-insurance, dont-hate-the-replicator-hate-the-game, seven-allegedly-fake-chanel-bags-vs-the-realreal, board-games-3-whats-in-a-name]
+last_updated: 2026-08-18
 ---
 
 # Asymmetric Information
@@ -18,6 +18,8 @@ The episode uses [[TheRealReal]] to show one marketplace response: move the hard
 
 [[you-bet-your-life-insurance]] adds a life-insurance version through [[LifeSettlementPricingOpacity]]. Policyholders may know the face value and premium burden of a policy without knowing what buyers would pay in the [[LifeInsuranceSecondaryMarket|secondary market]], so brokers, bids, medical records, and commissions become part of price discovery.
 
+[[data-risk-and-actuarial-science-in-insurance]] adds the underwriting version. [[MaryPatCampbell]] describes selection risk in life insurance: an applicant may know health or behavioral information that the insurer has not captured, so underwriting, [[ActuarialDataQuality]], and [[InsuranceModelRegulatoryConstraint]] become tools for narrowing the gap without ignoring regulation or fairness.
+
 ## Key Claims
 - Information gaps can block otherwise valuable trades because buyers discount or avoid goods they cannot verify.
 - A platform can reduce asymmetric information by standardizing inspection, warranties, dispute handling, and presentation.
@@ -26,6 +28,7 @@ The episode uses [[TheRealReal]] to show one marketplace response: move the hard
 - Asymmetric information can also become an experiential teaching device when [[GameMechanicToRetailProduct]] turns theory into structured play.
 - Published research has an information asymmetry when readers see the polished paper but not the discarded analyses, cleaning choices, or fragile specifications behind it.
 - Life settlements create seller-side information asymmetry because policyholders may not know how health history, premiums, commissions, and competing buyer bids affect market value.
+- Insurance underwriting faces buyer-side information asymmetry because applicants may know more about their own risk than the insurer can observe.
 
 ## Connections
 - [[TheRealReal]] and [[Chanel]] - source case.
@@ -34,3 +37,4 @@ The episode uses [[TheRealReal]] to show one marketplace response: move the hard
 - [[MarketForLemons]], [[SellMeASasquatch]], and [[GameMechanicToRetailProduct]] - game adaptation branch added by Planet Money.
 - [[ReplicationPackage]], [[ReplicationGames]], [[RobustnessChecks]], and [[ResearchIntegrityIncentives]] - research-transparency branch added by Planet Money.
 - [[LifeSettlement]], [[LifeInsuranceSecondaryMarket]], [[JonahConn]], and [[EvergreenSettlements]] - life-settlement pricing branch added by Planet Money.
+- [[ActuarialScience]], [[ActuarialDataQuality]], [[InsuranceModelRegulatoryConstraint]], and [[MaryPatCampbell]] - underwriting-selection branch added by Data Science With Sam.

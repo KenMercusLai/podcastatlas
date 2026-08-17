@@ -2,8 +2,8 @@
 title: "Insurance Risk Transfer"
 type: concept
 tags: [insurance, finance, risk]
-sources: [you-bet-your-life-insurance, 131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz, 86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437, ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, 159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201]
-last_updated: 2026-08-15
+sources: [data-risk-and-actuarial-science-in-insurance, you-bet-your-life-insurance, 131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz, 86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437, ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, 159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201]
+last_updated: 2026-08-18
 ---
 
 # Insurance Risk Transfer
@@ -20,6 +20,8 @@ Insurance risk transfer is the episode's functional definition of insurance: whe
 
 [[you-bet-your-life-insurance]] adds the secondary-market boundary through [[LifeSettlement|life settlements]]. The insured event is still death, but the policy can shift from family protection to present liquidity when ownership, premium obligations, and the death-benefit beneficiary move to a buyer in the [[LifeInsuranceSecondaryMarket|life insurance secondary market]].
 
+[[data-risk-and-actuarial-science-in-insurance]] adds the actuarial-pricing layer. [[MaryPatCampbell]] explains that insurance risk transfer depends on [[ActuarialScience]]: mortality tables, underwriting, claims timing, reinsurance, and [[ActuarialDataQuality]] all shape whether an insurer can price a promise and hold enough capital for future claims.
+
 ## Key Claims
 - Insurance analysis should start from the risk event and payout need, not from product brand, advertisement, or commission suspicion alone.
 - A product designed to pay while the insured person is alive should not be expected to solve a death-benefit problem, and a death-benefit product should not be treated as medical reimbursement.
@@ -29,6 +31,7 @@ Insurance risk transfer is the episode's functional definition of insurance: whe
 - Claims handling tests whether the promised risk transfer can be proven and executed under messy facts, stress, and institutional incentives.
 - Major illness can create multiple simultaneous money needs, so the product's payout trigger and use of funds matter as much as the disease label.
 - A valid life insurance policy can later become a financial asset if the policyholder sells it, meaning the original risk-transfer product and the later investment owner can have different purposes.
+- Risk transfer requires credible data and assumptions; a policy promise is only durable if the insurer understands the event probability, reporting process, selection risk, and regulatory constraints behind the price.
 
 ## Connections
 - [[Xiaodai]] — guest who explains the concept.
@@ -40,3 +43,4 @@ Insurance risk transfer is the episode's functional definition of insurance: whe
 - [[InsuranceClaimsHandling]], [[DiscretionaryInsurancePayment]], and [[ChildThirdPartyLiabilityInsurance]] — claims-side extensions added by the 蜜獾吃书 insurance episode.
 - [[XiaoyusanInsurance|小雨伞]] and [[HealthInsurancePlanning]] - sponsor-linked major-illness extension from episode 86.
 - [[LifeSettlement]], [[ViaticalSettlement]], [[LifeInsuranceSecondaryMarket]], and [[InsurableInterestBoundary]] - policy-resale boundary added by the Planet Money life-settlement episode.
+- [[ActuarialScience]], [[ActuarialDataQuality]], [[ActuarialStandardsOfPractice]], and [[InsuranceModelRegulatoryConstraint]] - actuarial pricing and modeling layer added by Data Science With Sam.

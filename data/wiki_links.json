@@ -2499,6 +2499,18 @@
     "title": "Actozsoft",
     "url": "/wiki/entities/actozsoft/"
   },
+  "ActuarialDataQuality": {
+    "title": "Actuarial Data Quality",
+    "url": "/wiki/concepts/actuarialdataquality/"
+  },
+  "ActuarialScience": {
+    "title": "Actuarial Science",
+    "url": "/wiki/concepts/actuarialscience/"
+  },
+  "ActuarialStandardsOfPractice": {
+    "title": "Actuarial Standards of Practice",
+    "url": "/wiki/concepts/actuarialstandardsofpractice/"
+  },
   "AdWords": {
     "title": "AdWords",
     "url": "/wiki/entities/adwords/"
@@ -3574,6 +3586,10 @@
   "AmericaFirstPolicyInstitute": {
     "title": "America First Policy Institute",
     "url": "/wiki/entities/americafirstpolicyinstitute/"
+  },
+  "AmericanAcademyOfActuaries": {
+    "title": "American Academy of Actuaries",
+    "url": "/wiki/entities/americanacademyofactuaries/"
   },
   "AmericanAirlines": {
     "title": "American Airlines",
@@ -7138,6 +7154,10 @@
   "CassianAndor": {
     "title": "Cassian Andor",
     "url": "/wiki/entities/cassianandor/"
+  },
+  "CasualtyActuarialSociety": {
+    "title": "Casualty Actuarial Society",
+    "url": "/wiki/entities/casualtyactuarialsociety/"
   },
   "Cat": {
     "title": "Cat / 猫",
@@ -18691,6 +18711,10 @@
     "title": "Insurance Complaint Pressure",
     "url": "/wiki/concepts/insurancecomplaintpressure/"
   },
+  "InsuranceModelRegulatoryConstraint": {
+    "title": "Insurance Model Regulatory Constraint",
+    "url": "/wiki/concepts/insurancemodelregulatoryconstraint/"
+  },
   "InsurancePolicyLoanFraud": {
     "title": "Insurance Policy Loan Fraud",
     "url": "/wiki/concepts/insurancepolicyloanfraud/"
@@ -23954,6 +23978,10 @@
   "MaryChilds": {
     "title": "Mary Childs",
     "url": "/wiki/entities/marychilds/"
+  },
+  "MaryPatCampbell": {
+    "title": "Mary Pat Campbell",
+    "url": "/wiki/entities/marypatcampbell/"
   },
   "MaryShelley": {
     "title": "Mary Shelley / 玛丽·雪莱",
@@ -34155,6 +34183,10 @@
     "title": "中国营造学社",
     "url": "/wiki/entities/societyforresearchinchinesearchitecture/"
   },
+  "SocietyOfActuaries": {
+    "title": "Society of Actuaries",
+    "url": "/wiki/entities/societyofactuaries/"
+  },
   "Socrates": {
     "title": "Socrates / 苏格拉底",
     "url": "/wiki/entities/socrates/"
@@ -41954,6 +41986,10 @@
   "data-ai-and-scientific-research-a-coffee-chat": {
     "title": "Data, AI, and Scientific Research: A Coffee Chat",
     "url": "/wiki/sources/data-ai-and-scientific-research-a-coffee-chat/"
+  },
+  "data-risk-and-actuarial-science-in-insurance": {
+    "title": "Data, Risk, and Actuarial Science in Insurance",
+    "url": "/wiki/sources/data-risk-and-actuarial-science-in-insurance/"
   },
   "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d": {
     "title": "Dhaka matters: an election for Bangladesh",

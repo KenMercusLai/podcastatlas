@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Data, Risk, and Actuarial Science in Insurance](sources/data-risk-and-actuarial-science-in-insurance.md) — Data Science With Sam episode with Mary Pat Campbell on actuarial science, mortality tables, insurance data quality, ASOPs, underwriting selection risk, and AI/ML under insurance regulation.
 - [Data, AI, and Scientific Research: A Coffee Chat](sources/data-ai-and-scientific-research-a-coffee-chat.md) — Data Science With Sam Coffee Chat with Effie and Mossam on AI in biology, chemistry, radiochemistry, data quality, negative results, experiment documentation, retrosynthesis, and human-driven scientific AI.
 - [It’s not easy being Green: Zack Polanski](sources/its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0.md) — The Intelligence episode on Zack Polanski's Green Party, eco-populism, youth precarity politics, synthetic spud cells, life-definition boundaries, and why human travel agents still persist alongside AI planning.
 - [激发动物精神，创造更多机会](sources/jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe.md) — 面基 episode with 周洛华 on the revised 《比特本位》, Bitcoin as monetary-history problem, risk-cost separation, decentralization as opportunity creation, animal spirits, fiat-era capital markets, AI human value, and speculative decentralized agent identity.
@@ -972,8 +973,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for a first Coffee Chat grounding data science and AI in experimental biology, chemistry, and scientific research practice.
-- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of the Data Science With Sam Coffee Chat on AI, data, and scientific research.
+- [Mary Pat Campbell](entities/MaryPatCampbell.md) — Life actuary and Data Science With Sam guest explaining actuarial science, insurance data quality, professional standards, and regulatory constraints.
+- [Society of Actuaries](entities/SocietyOfActuaries.md) — Professional actuarial organization used in the source as fellowship context and as an industry mortality-data aggregation point.
+- [American Academy of Actuaries](entities/AmericanAcademyOfActuaries.md) — Mary Pat Campbell affiliation and source-scoped context for U.S. actuarial professional expectations.
+- [Casualty Actuarial Society](entities/CasualtyActuarialSociety.md) — Property-and-casualty actuarial organization referenced as part of the historical overlap between actuarial work and statistics.
+- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for Data Science With Sam episodes on experimental-science AI and actuarial insurance data practice.
+- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of Data Science With Sam conversations on scientific AI and actuarial insurance data.
 - [Effie (Data Science With Sam)](entities/EffieDataScienceWithSam.md) — Biology-focused guest emphasizing experimental records, bioinformatics collaboration, quality control, and AI lab documentation.
 - [Mossam (Data Science With Sam)](entities/MossamDataScienceWithSam.md) — Stanford research scientist guest explaining retrosynthesis AI, radiochemistry tracers, blood-brain-barrier prediction, negative chemistry data, and radioactive-safety oversight.
 - [Recursion Pharma](entities/RecursionPharma.md) — AI drug-discovery company cited as a source-scoped example of commercial small-molecule prediction.
@@ -6634,6 +6639,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Actuarial Science](concepts/ActuarialScience.md) — Insurance and pension risk-quantification practice combining mortality tables, claims data, underwriting, modeling, business process knowledge, and professional judgment.
+- [Actuarial Data Quality](concepts/ActuarialDataQuality.md) — Insurance data-quality discipline around field meaning, reporting lag, missing versus true-zero values, medical codes, reasonability checks, units, and currency.
+- [Actuarial Standards of Practice](concepts/ActuarialStandardsOfPractice.md) — Professional standards frame for actuarial data quality, communications, modeling, and reasonability checks.
+- [Insurance Model Regulatory Constraint](concepts/InsuranceModelRegulatoryConstraint.md) — Constraint that predictive insurance models must satisfy law, regulation, fairness, business use, and actionability, not only statistical lift.
 - [Experimental Science Data Quality](concepts/ExperimentalScienceDataQuality.md) — Research-method frame where useful scientific AI depends on careful experimental records, provenance, quality control, protocol deviations, and reproducibility.
 - [Bioinformatics Domain Gap](concepts/BioinformaticsDomainGap.md) — Collaboration gap between biological context and computational analysis skill that can limit AI and big-data use in biology.
 - [Retrosynthesis AI](concepts/RetrosynthesisAI.md) — AI-assisted backward planning for chemical synthesis, constrained by published reaction data, negative results, feasibility, and human chemistry judgment.

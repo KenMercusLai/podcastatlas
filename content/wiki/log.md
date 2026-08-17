@@ -7781,3 +7781,11 @@ Added source page for a Data Science With Sam Coffee Chat with Sam, Effie, and M
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-18] ingest | Data, Risk, and Actuarial Science in Insurance
+
+Added source page for a Data Science With Sam episode with Mary Pat Campbell on actuarial science, mortality tables, life insurance and annuity data, P&C feedback loops, underwriting selection risk, ASOPs, reporting lag, data-field meaning, medical and financial record errors, and AI/ML under insurance regulation. Created pages for Mary Pat Campbell, Society of Actuaries, American Academy of Actuaries, Casualty Actuarial Society, Actuarial Science, Actuarial Data Quality, Actuarial Standards of Practice, and Insurance Model Regulatory Constraint; updated overview, index, Data Science With Sam, Sam, Insurance Risk Transfer, Mortality Risk Pricing, and Asymmetric Information. No direct contradiction found; the source qualifies AI/data-science optimism by showing that regulated insurance models need domain data quality, professional standards, and actionability before predictive power is useful.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
