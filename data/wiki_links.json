@@ -5247,6 +5247,10 @@
     "title": "Battlecode",
     "url": "/wiki/entities/battlecode/"
   },
+  "BaylorCollegeOfMedicine": {
+    "title": "Baylor College of Medicine",
+    "url": "/wiki/entities/baylorcollegeofmedicine/"
+  },
   "BayoAkomolafe": {
     "title": "Bayo Akomolafe",
     "url": "/wiki/entities/bayoakomolafe/"
@@ -5711,6 +5715,10 @@
     "title": "Biodegradable Foam Packaging",
     "url": "/wiki/concepts/biodegradablefoampackaging/"
   },
+  "Bioinformatics": {
+    "title": "Bioinformatics",
+    "url": "/wiki/concepts/bioinformatics/"
+  },
   "BioinformaticsDomainGap": {
     "title": "Bioinformatics Domain Gap",
     "url": "/wiki/concepts/bioinformaticsdomaingap/"
@@ -5718,6 +5726,10 @@
   "BiologicalAgency": {
     "title": "Biological Agency / 生物能动性",
     "url": "/wiki/concepts/biologicalagency/"
+  },
+  "BiomedicalDeepLearning": {
+    "title": "Biomedical Deep Learning",
+    "url": "/wiki/concepts/biomedicaldeeplearning/"
   },
   "BiophilicDesign": {
     "title": "Biophilic Design",
@@ -9094,6 +9106,10 @@
   "CompressedModernityGenderTransition": {
     "title": "Compressed Modernity Gender Transition / 压缩现代性中的女性转型",
     "url": "/wiki/concepts/compressedmodernitygendertransition/"
+  },
+  "ComputationalBiology": {
+    "title": "Computational Biology",
+    "url": "/wiki/concepts/computationalbiology/"
   },
   "ComputeFreedom": {
     "title": "Compute Freedom / 算力自由",
@@ -15535,6 +15551,10 @@
     "title": "Gendered Patronage Inversion",
     "url": "/wiki/concepts/genderedpatronageinversion/"
   },
+  "GeneExpressionMatrix": {
+    "title": "Gene Expression Matrix",
+    "url": "/wiki/concepts/geneexpressionmatrix/"
+  },
   "GeneShepard": {
     "title": "Gene Shepard",
     "url": "/wiki/entities/geneshepard/"
@@ -21059,6 +21079,10 @@
     "title": "Kenya",
     "url": "/wiki/entities/kenya/"
   },
+  "Keras": {
+    "title": "Keras",
+    "url": "/wiki/entities/keras/"
+  },
   "Kerastase": {
     "title": "Kérastase / 卡诗",
     "url": "/wiki/entities/kerastase/"
@@ -23154,6 +23178,10 @@
   "LucasDrone": {
     "title": "Lucas Drone",
     "url": "/wiki/entities/lucasdrone/"
+  },
+  "LucasSimon": {
+    "title": "Lucas Simon",
+    "url": "/wiki/entities/lucassimon/"
   },
   "Lucasfilm": {
     "title": "Lucasfilm",
@@ -25470,6 +25498,10 @@
   "Moku": {
     "title": "Moku",
     "url": "/wiki/entities/moku/"
+  },
+  "MolecularFeatureEngineering": {
+    "title": "Molecular Feature Engineering",
+    "url": "/wiki/concepts/molecularfeatureengineering/"
   },
   "MoliNaiBai": {
     "title": "Moli Nai Bai / 茉莉奶白",
@@ -33219,6 +33251,10 @@
     "title": "September Massacres / 九月屠杀",
     "url": "/wiki/entities/septembermassacres/"
   },
+  "SequencingDataPipeline": {
+    "title": "Sequencing Data Pipeline",
+    "url": "/wiki/concepts/sequencingdatapipeline/"
+  },
   "SequoiaCapital": {
     "title": "Sequoia Capital",
     "url": "/wiki/entities/sequoiacapital/"
@@ -33974,6 +34010,14 @@
   "SingerSewingMachine": {
     "title": "Singer Sewing Machine",
     "url": "/wiki/entities/singersewingmachine/"
+  },
+  "SingleCellAutoencoderRepresentation": {
+    "title": "Single-Cell Autoencoder Representation",
+    "url": "/wiki/concepts/singlecellautoencoderrepresentation/"
+  },
+  "SingleCellRNASequencing": {
+    "title": "Single-Cell RNA Sequencing",
+    "url": "/wiki/concepts/singlecellrnasequencing/"
   },
   "SingleProductNationalChampionDependence": {
     "title": "Single-Product National Champion Dependence",
@@ -36934,6 +36978,10 @@
   "Theranos": {
     "title": "Theranos",
     "url": "/wiki/entities/theranos/"
+  },
+  "TherapeuticInnovationCenter": {
+    "title": "Therapeutic Innovation Center",
+    "url": "/wiki/entities/therapeuticinnovationcenter/"
   },
   "TherapyRelationshipAndBoundaries": {
     "title": "Therapy Relationship And Boundaries",
@@ -42362,6 +42410,10 @@
   "ep-7-data-science-mlops": {
     "title": "EP 7: Data Science & MLOps",
     "url": "/wiki/sources/ep-7-data-science-mlops/"
+  },
+  "ep-8-implementation-of-ai-in-scientific-research": {
+    "title": "EP 8: Implementation of AI in scientific research",
+    "url": "/wiki/sources/ep-8-implementation-of-ai-in-scientific-research/"
   },
   "ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx": {
     "title": "EP101 对话 Simon：AI 创业者的第一项基本功是把账算明白",

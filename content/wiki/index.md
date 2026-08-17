@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 8: Implementation of AI in scientific research](sources/ep-8-implementation-of-ai-in-scientific-research.md) — Data Science With Sam episode with Lucas Simon on biomedical AI, computational biology, sequencing pipelines, gene-expression matrices, single-cell RNA sequencing, autoencoders, Keras, and TensorFlow.
 - [EP 7: Data Science & MLOps](sources/ep-7-data-science-mlops.md) — Data Science With Sam episode with Aaron Blythe on MLOps, ML engineering, data engineering, DevOps principles, CI/CD, production feedback loops, and integrated ML teams.
 - [EP 6: Data Science & AI Talk](sources/ep-6-data-science-ai-talk.md) — Data Science With Sam episode with Paulina Nemkova on moving from economics into AI PhD research, academic AI work, literature tracking, EEG brain-signal classification, replication, and crypto time-series research.
 - [EP 5: Implementation of Data Science in Cybersecurity](sources/ep-5-implementation-of-data-science-in-cybersecurity.md) — Data Science With Sam episode with Benjamin Larson on Verizon consumer cybersecurity, threat simulation, call-transcript NLP, authentication risk modeling, sensitive data access, AI impersonation risk, and personal account hygiene.
@@ -978,6 +979,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Lucas Simon](entities/LucasSimon.md) — Baylor College of Medicine computational-biology researcher and Data Science With Sam guest explaining sequencing pipelines, single-cell RNA-seq, and biomedical deep learning.
+- [Baylor College of Medicine](entities/BaylorCollegeOfMedicine.md) — Institution context for Lucas Simon's biomedical data-science group and early cancer therapeutics work.
+- [Therapeutic Innovation Center](entities/TherapeuticInnovationCenter.md) — Baylor research center context for molecular-data science, computational biology, and early cancer therapeutics.
+- [Keras](entities/Keras.md) — TensorFlow-based deep-learning tool used in Lucas Simon's biomedical modeling workflow.
 - [Aaron Blythe](entities/AaronBlythe.md) — Google Cloud customer engineer and Data Science With Sam guest explaining MLOps, ML engineering, data engineering, CI/CD, and production ML collaboration.
 - [Paulina Nemkova](entities/PaulinaNemkova.md) — University of North Texas AI/ML PhD student connecting nontraditional AI research paths, EEG brain reading, replication, and cryptocurrency time-series analysis.
 - [University of North Texas](entities/UniversityOfNorthTexas.md) — Institution context for Paulina Nemkova's AI/ML PhD work, EEG brain-reading research, coursework, and CS/business startup-club bridge.
@@ -990,8 +995,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Society of Actuaries](entities/SocietyOfActuaries.md) — Professional actuarial organization used as fellowship context for Mary Pat Campbell and Stephen Mathis and as an industry mortality-data aggregation point.
 - [American Academy of Actuaries](entities/AmericanAcademyOfActuaries.md) — Mary Pat Campbell affiliation and source-scoped context for U.S. actuarial professional expectations.
 - [Casualty Actuarial Society](entities/CasualtyActuarialSociety.md) — Property-and-casualty actuarial organization referenced as part of the historical overlap between actuarial work and statistics.
-- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for Data Science With Sam episodes on production ML/MLOps, academic AI research paths, cybersecurity, NASA space AI, impostor syndrome, experimental-science AI, and actuarial insurance data practice.
-- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of Data Science With Sam conversations on production ML/MLOps, academic AI research, cybersecurity, NASA space AI, professional confidence, scientific AI, and actuarial insurance data.
+- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for Data Science With Sam episodes on biomedical computational biology, production ML/MLOps, academic AI research paths, cybersecurity, NASA space AI, impostor syndrome, experimental-science AI, and actuarial insurance data practice.
+- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of Data Science With Sam conversations on biomedical AI, production ML/MLOps, academic AI research, cybersecurity, NASA space AI, professional confidence, scientific AI, and actuarial insurance data.
 - [Effie (Data Science With Sam)](entities/EffieDataScienceWithSam.md) — Biology-focused guest emphasizing experimental records, bioinformatics collaboration, quality control, and AI lab documentation.
 - [Mossam (Data Science With Sam)](entities/MossamDataScienceWithSam.md) — Stanford research scientist guest explaining retrosynthesis AI, radiochemistry tracers, blood-brain-barrier prediction, negative chemistry data, and radioactive-safety oversight.
 - [Recursion Pharma](entities/RecursionPharma.md) — AI drug-discovery company cited as a source-scoped example of commercial small-molecule prediction.
@@ -6652,6 +6657,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Bioinformatics](concepts/Bioinformatics.md) — Source-scoped preparation layer that turns raw sequencing reads into analysis-ready gene-expression matrices.
+- [Computational Biology](concepts/ComputationalBiology.md) — Downstream analysis of molecular data matrices through statistics, modeling, visualization, and biological interpretation.
+- [Gene Expression Matrix](concepts/GeneExpressionMatrix.md) — High-dimensional molecular data object linking sequencing pipelines to computational biology and single-cell analysis.
+- [Sequencing Data Pipeline](concepts/SequencingDataPipeline.md) — Workflow for converting raw sequencing reads into structured matrices under storage, compute, and HPC constraints.
+- [Molecular Feature Engineering](concepts/MolecularFeatureEngineering.md) — Discovery-oriented representation work that summarizes molecular signals in nontraditional ways before modeling.
+- [Single-Cell RNA Sequencing](concepts/SingleCellRNASequencing.md) — Cell-level gene-expression measurement that changes the data shape for biomedical deep learning.
+- [Biomedical Deep Learning](concepts/BiomedicalDeepLearning.md) — Neural-network use in biomedical research where data scale, representation, and biological interpretation decide usefulness.
+- [Single-Cell Autoencoder Representation](concepts/SingleCellAutoencoderRepresentation.md) — Autoencoder approach where compressed single-cell gene-expression representations can reveal cell-type clusters.
 - [MLOps](concepts/MLOps.md) — Operating discipline for deploying, measuring, improving, and governing machine-learning models in production systems.
 - [Machine Learning Engineering](concepts/MachineLearningEngineering.md) — Practice of turning trained models into usable production capabilities, often through APIs, deployment pipelines, and feedback paths.
 - [Data Engineering For Data Science](concepts/DataEngineeringForDataScience.md) — Workflow foundation that puts data where data scientists can analyze and model without repeated local file handoffs.

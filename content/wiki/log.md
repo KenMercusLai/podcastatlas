@@ -7782,6 +7782,10 @@ Added source page for a Data Science With Sam Coffee Chat with Sam, Effie, and M
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-18] ingest | EP 8: Implementation of AI in scientific research
+
+Added source page for a Data Science With Sam episode with Lucas Simon on AI and machine learning in biomedical research, computational biology, sequencing pipelines, gene-expression matrices, single-cell RNA sequencing, autoencoders, Keras, TensorFlow, and molecular data for early cancer therapeutics. Created pages for Lucas Simon, Baylor College of Medicine, Therapeutic Innovation Center, Keras, Bioinformatics, Computational Biology, Gene Expression Matrix, Sequencing Data Pipeline, Molecular Feature Engineering, Single-Cell RNA Sequencing, Biomedical Deep Learning, and Single-Cell Autoencoder Representation; updated overview, index, Data Science With Sam, Sam, AI For Science, Human-Driven Scientific AI, Bioinformatics Domain Gap, TensorFlow, and Machine Learning Engineering. No direct contradiction found; the source extends the existing scientific-AI branch by showing that biomedical AI depends on raw-read processing, matrix construction, representation choices, data scale, high-performance computing, and biological interpretation before model outputs become scientific insight.
+
 ## [2026-08-18] ingest | EP 6: Data Science & AI Talk
 
 Added source page for a Data Science With Sam episode with Paulina Nemkova on moving from economics into AI and machine-learning PhD research, academic versus industry mindsets, professor outreach, literature currency, EEG-based brain reading, replication, locked-in syndrome communication, and cryptocurrency time-series research. Created pages for Paulina Nemkova, University of North Texas, Nontraditional AI Research Path, AI Research Literature Currency, EEG Brain Reading, Locked-In Syndrome Assistive Communication, Research Replication Integrity, and Crypto Time Series Analysis; updated overview, index, Data Science With Sam, Sam, Academic AI Research Role, AI For Science, Human-Driven Scientific AI, AI Verification, Assistive AI, Research Integrity Incentives, Stanford University, and Cryptocurrency Market Structure. No direct contradiction found; the source qualifies AI-research optimism by showing that nontraditional entry is possible when grounded in quantitative preparation, project work, current literature, replication, and careful boundaries around speculative brain-reading applications.
@@ -7825,6 +7829,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] ingest | EP 7: Data Science & MLOps
 
 Added source page for a Data Science With Sam episode with Aaron Blythe on MLOps, ML engineering, data engineering, DevOps principles, CI/CD, model feedback loops, and integrated ML teams. Created pages for Aaron Blythe, MLOps, Machine Learning Engineering, Data Engineering For Data Science, Production ML Feedback Loops, DevOps CALMS, ML CI/CD, Integrated ML Teams, and Data Scientist MLOps Fluency; updated overview, index, Data Science With Sam, Sam, Google Cloud, and Data Engineering Demand. No direct contradiction found; the source qualifies data-science career optimism by showing that useful production ML requires data infrastructure, deployment, APIs, feedback, measurement, CI/CD practice, and cross-role collaboration rather than model-building skill alone.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-18] lint | Wiki health check
 
