@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 5: Implementation of Data Science in Cybersecurity](sources/ep-5-implementation-of-data-science-in-cybersecurity.md) — Data Science With Sam episode with Benjamin Larson on Verizon consumer cybersecurity, threat simulation, call-transcript NLP, authentication risk modeling, sensitive data access, AI impersonation risk, and personal account hygiene.
 - [EP 4: A.I. talk with a Rocket Scientist from NASA](sources/ep-4-a-i-talk-with-a-rocket-scientist-from-nasa.md) — Data Science With Sam episode with Kofi Browning on NASA career pathways, mission-driven engineering, spaceflight AI dataset scarcity, space imagery AI, EVA glove inspection, model bias, and human oversight.
 - [EP 3: Demystifying the Imposter Syndrome](sources/ep-3-demystifying-the-imposter-syndrome.md) — Data Science With Sam episode with Stephen Mathis on impostor syndrome, comparison, feedback, capability gaps, progress tracking, Dunning-Kruger overconfidence, and team confidence calibration.
 - [Data, Risk, and Actuarial Science in Insurance](sources/data-risk-and-actuarial-science-in-insurance.md) — Data Science With Sam episode with Mary Pat Campbell on actuarial science, mortality tables, insurance data quality, ASOPs, underwriting selection risk, and AI/ML under insurance regulation.
@@ -975,6 +976,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Benjamin Larson](entities/BenjaminLarson.md) — Verizon data science manager explaining cybersecurity data science, simulation modeling, social-engineering NLP, authentication risk, and security data-access constraints.
+- [Verizon](entities/Verizon.md) — Telecom company context for the source's consumer-side cybersecurity examples around account access, call analysis, fake domains, and sensitive data access.
 - [Kofi Browning](entities/KofiBrowning.md) — NASA engineer and Data Science With Sam guest connecting NASA career pathways, mission-driven engineering, risk management, and practical AI use in space research.
 - [International Space Station](entities/InternationalSpaceStation.md) — NASA visual-data source used in the episode to explain why space imagery can fit AI better than many low-count spaceflight events.
 - [Stephen Mathis](entities/StephenMathis.md) — Speaker, author, and Society of Actuaries Fellow discussing impostor syndrome, confidence calibration, feedback, and fair comparison on Data Science With Sam.
@@ -982,8 +985,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Society of Actuaries](entities/SocietyOfActuaries.md) — Professional actuarial organization used as fellowship context for Mary Pat Campbell and Stephen Mathis and as an industry mortality-data aggregation point.
 - [American Academy of Actuaries](entities/AmericanAcademyOfActuaries.md) — Mary Pat Campbell affiliation and source-scoped context for U.S. actuarial professional expectations.
 - [Casualty Actuarial Society](entities/CasualtyActuarialSociety.md) — Property-and-casualty actuarial organization referenced as part of the historical overlap between actuarial work and statistics.
-- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for Data Science With Sam episodes on NASA space AI, impostor syndrome, experimental-science AI, and actuarial insurance data practice.
-- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of Data Science With Sam conversations on NASA space AI, professional confidence, scientific AI, and actuarial insurance data.
+- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for Data Science With Sam episodes on cybersecurity, NASA space AI, impostor syndrome, experimental-science AI, and actuarial insurance data practice.
+- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of Data Science With Sam conversations on cybersecurity, NASA space AI, professional confidence, scientific AI, and actuarial insurance data.
 - [Effie (Data Science With Sam)](entities/EffieDataScienceWithSam.md) — Biology-focused guest emphasizing experimental records, bioinformatics collaboration, quality control, and AI lab documentation.
 - [Mossam (Data Science With Sam)](entities/MossamDataScienceWithSam.md) — Stanford research scientist guest explaining retrosynthesis AI, radiochemistry tracers, blood-brain-barrier prediction, negative chemistry data, and radioactive-safety oversight.
 - [Recursion Pharma](entities/RecursionPharma.md) — AI drug-discovery company cited as a source-scoped example of commercial small-molecule prediction.
@@ -6644,6 +6647,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Cybersecurity Data Science](concepts/CybersecurityDataScience.md) — Applied data-science workflow for threat scoring, simulation, NLP, authentication defense, and adversarial model lifecycle in security work.
+- [Cybersecurity Simulation Modeling](concepts/CybersecuritySimulationModeling.md) — Simulated attack and bot-testing practice for prioritizing vulnerabilities, estimating damage, and closing defensive gaps.
+- [Social Engineering NLP](concepts/SocialEngineeringNLP.md) — Use of speech-to-text, clustering, and language analysis to detect repeated scripts or suspicious patterns in support interactions.
+- [Authentication Risk Modeling](concepts/AuthenticationRiskModeling.md) — Modeling whether account access, identity claims, support requests, or product orders are legitimate under adversarial pressure.
+- [Security Data Access Constraint](concepts/SecurityDataAccessConstraint.md) — Cybersecurity data-governance rule that sensitive logs and account data require scoped use cases and controlled access.
 - [NASA Career Pathways](concepts/NASACareerPathways.md) — Career-entry frame for NASA internships, Pathways-style student routes, experienced hires, and non-aerospace roles.
 - [Mission-Driven Government Engineering](concepts/MissionDrivenGovernmentEngineering.md) — Career and governance tradeoff where ordinary engineering work is tied to public mission, risk management, and lower get-rich expectations.
 - [Spaceflight AI Dataset Scarcity](concepts/SpaceflightAIDatasetScarcity.md) — Constraint that rare, one-off, or low-count spaceflight events often lack the repeated data that machine learning needs.

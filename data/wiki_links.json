@@ -4643,6 +4643,10 @@
     "title": "Authentication-Led Marketplace Trust",
     "url": "/wiki/concepts/authenticationledmarketplacetrust/"
   },
+  "AuthenticationRiskModeling": {
+    "title": "Authentication Risk Modeling",
+    "url": "/wiki/concepts/authenticationriskmodeling/"
+  },
   "AuthorAsPoliticalSymbol": {
     "title": "Author As Political Symbol / 作者作为政治符号",
     "url": "/wiki/concepts/authoraspoliticalsymbol/"
@@ -5438,6 +5442,10 @@
   "BenjaminAlarie": {
     "title": "Benjamin Alarie",
     "url": "/wiki/entities/benjaminalarie/"
+  },
+  "BenjaminLarson": {
+    "title": "Benjamin Larson",
+    "url": "/wiki/entities/benjaminlarson/"
   },
   "BenjaminLibet": {
     "title": "Benjamin Libet / 利比特",
@@ -10026,6 +10034,14 @@
   "CybersecurityAISupervision": {
     "title": "Cybersecurity AI Supervision",
     "url": "/wiki/concepts/cybersecurityaisupervision/"
+  },
+  "CybersecurityDataScience": {
+    "title": "Cybersecurity Data Science",
+    "url": "/wiki/concepts/cybersecuritydatascience/"
+  },
+  "CybersecuritySimulationModeling": {
+    "title": "Cybersecurity Simulation Modeling",
+    "url": "/wiki/concepts/cybersecuritysimulationmodeling/"
   },
   "CycleWorldview": {
     "title": "Cycle Worldview / 周期世界观",
@@ -32967,6 +32983,10 @@
     "title": "Security Backlash Politics",
     "url": "/wiki/concepts/securitybacklashpolitics/"
   },
+  "SecurityDataAccessConstraint": {
+    "title": "Security Data Access Constraint",
+    "url": "/wiki/concepts/securitydataaccessconstraint/"
+  },
   "SecurityFirstSupplyChainLogic": {
     "title": "Security-First Supply Chain Logic / 安全优先供应链逻辑",
     "url": "/wiki/concepts/securityfirstsupplychainlogic/"
@@ -34166,6 +34186,10 @@
   "SocialEngineeringFraud": {
     "title": "Social Engineering Fraud",
     "url": "/wiki/concepts/socialengineeringfraud/"
+  },
+  "SocialEngineeringNLP": {
+    "title": "Social Engineering NLP",
+    "url": "/wiki/concepts/socialengineeringnlp/"
   },
   "SocialGraphMoat": {
     "title": "Social Graph Moat",
@@ -38435,6 +38459,10 @@
     "title": "Vera Kundera / 薇拉·昆德拉",
     "url": "/wiki/entities/verakundera/"
   },
+  "Verizon": {
+    "title": "Verizon",
+    "url": "/wiki/entities/verizon/"
+  },
   "VernacularIndustrialism": {
     "title": "Vernacular Industrialism",
     "url": "/wiki/concepts/vernacularindustrialism/"
@@ -42254,6 +42282,10 @@
   "ep-4-a-i-talk-with-a-rocket-scientist-from-nasa": {
     "title": "EP 4: A.I. talk with a Rocket Scientist from NASA",
     "url": "/wiki/sources/ep-4-a-i-talk-with-a-rocket-scientist-from-nasa/"
+  },
+  "ep-5-implementation-of-data-science-in-cybersecurity": {
+    "title": "EP 5: Implementation of Data Science in Cybersecurity",
+    "url": "/wiki/sources/ep-5-implementation-of-data-science-in-cybersecurity/"
   },
   "ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx": {
     "title": "EP101 对话 Simon：AI 创业者的第一项基本功是把账算明白",

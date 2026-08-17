@@ -7805,3 +7805,11 @@ Added source page for a Data Science With Sam episode with Kofi Browning on NASA
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-18] ingest | EP 5: Implementation of Data Science in Cybersecurity
+
+Added source page for a Data Science With Sam episode with Benjamin Larson on Verizon consumer cybersecurity data science, known bad-actor data, threat simulation, call-transcript NLP, authentication risk modeling, short-lived security models, sensitive data access, domain expert trust, deepfake identity risk, fake Verizon-like domains, and personal two-factor-authentication advice. Created pages for Benjamin Larson, Verizon, Cybersecurity Data Science, Cybersecurity Simulation Modeling, Social Engineering NLP, Authentication Risk Modeling, and Security Data Access Constraint; updated overview, index, Data Science With Sam, Sam, Social Engineering Fraud, AI Impersonation Fraud Risk, Brand Impersonation Monitoring, Contact Center AI, and Personal Security Tiering. No direct contradiction found; the source qualifies AI-cybersecurity optimism by showing that operational security often depends on strong data, simple models, simulation, controlled access, and expert remediation before advanced AI architecture.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
