@@ -2283,6 +2283,10 @@
     "title": "Aadhaar",
     "url": "/wiki/entities/aadhaar/"
   },
+  "AaronBlythe": {
+    "title": "Aaron Blythe",
+    "url": "/wiki/entities/aaronblythe/"
+  },
   "AaronBraun": {
     "title": "Aaron Braun",
     "url": "/wiki/entities/aaronbraun/"
@@ -10447,6 +10451,10 @@
     "title": "Data Engineering Demand",
     "url": "/wiki/concepts/dataengineeringdemand/"
   },
+  "DataEngineeringForDataScience": {
+    "title": "Data Engineering For Data Science",
+    "url": "/wiki/concepts/dataengineeringfordatascience/"
+  },
   "DataPortabilityAndSustainableTools": {
     "title": "Data Portability And Sustainable Tools",
     "url": "/wiki/concepts/dataportabilityandsustainabletools/"
@@ -10462,6 +10470,10 @@
   "DataScienceWithSam": {
     "title": "Data Science With Sam",
     "url": "/wiki/entities/datasciencewithsam/"
+  },
+  "DataScientistMLOpsFluency": {
+    "title": "Data Scientist MLOps Fluency",
+    "url": "/wiki/concepts/datascientistmlopsfluency/"
   },
   "DataToMemoryTransformation": {
     "title": "Data-to-Memory Transformation",
@@ -10954,6 +10966,10 @@
   "Detroit": {
     "title": "Detroit",
     "url": "/wiki/entities/detroit/"
+  },
+  "DevOpsCALMS": {
+    "title": "DevOps CALMS",
+    "url": "/wiki/concepts/devopscalms/"
   },
   "DeveloperFirstPaymentInfrastructure": {
     "title": "Developer-First Payment Infrastructure",
@@ -18783,6 +18799,10 @@
     "title": "Insurance Sales Trust",
     "url": "/wiki/concepts/insurancesalestrust/"
   },
+  "IntegratedMLTeams": {
+    "title": "Integrated ML Teams",
+    "url": "/wiki/concepts/integratedmlteams/"
+  },
   "Intel": {
     "title": "Intel",
     "url": "/wiki/entities/intel/"
@@ -23315,9 +23335,17 @@
     "title": "MIUI",
     "url": "/wiki/entities/miui/"
   },
+  "MLCICD": {
+    "title": "ML CI/CD",
+    "url": "/wiki/concepts/mlcicd/"
+  },
   "MLCoding": {
     "title": "ML Coding",
     "url": "/wiki/concepts/mlcoding/"
+  },
+  "MLOps": {
+    "title": "MLOps",
+    "url": "/wiki/concepts/mlops/"
   },
   "MMLaFleur": {
     "title": "M.M. LaFleur",
@@ -23406,6 +23434,10 @@
   "MachineGamblingAddiction": {
     "title": "Machine Gambling Addiction",
     "url": "/wiki/concepts/machinegamblingaddiction/"
+  },
+  "MachineLearningEngineering": {
+    "title": "Machine Learning Engineering",
+    "url": "/wiki/concepts/machinelearningengineering/"
   },
   "MachineZone": {
     "title": "Machine Zone",
@@ -29886,6 +29918,10 @@
   "ProductionInvestmentCity": {
     "title": "Production Investment City / 产投城市",
     "url": "/wiki/concepts/productioninvestmentcity/"
+  },
+  "ProductionMLFeedbackLoops": {
+    "title": "Production ML Feedback Loops",
+    "url": "/wiki/concepts/productionmlfeedbackloops/"
   },
   "ProductionQuotaDiscipline": {
     "title": "Production Quota Discipline",
@@ -42322,6 +42358,10 @@
   "ep-6-data-science-ai-talk": {
     "title": "EP 6: Data Science & AI Talk",
     "url": "/wiki/sources/ep-6-data-science-ai-talk/"
+  },
+  "ep-7-data-science-mlops": {
+    "title": "EP 7: Data Science & MLOps",
+    "url": "/wiki/sources/ep-7-data-science-mlops/"
   },
   "ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx": {
     "title": "EP101 对话 Simon：AI 创业者的第一项基本功是把账算明白",

@@ -7821,3 +7821,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-18] ingest | EP 7: Data Science & MLOps
+
+Added source page for a Data Science With Sam episode with Aaron Blythe on MLOps, ML engineering, data engineering, DevOps principles, CI/CD, model feedback loops, and integrated ML teams. Created pages for Aaron Blythe, MLOps, Machine Learning Engineering, Data Engineering For Data Science, Production ML Feedback Loops, DevOps CALMS, ML CI/CD, Integrated ML Teams, and Data Scientist MLOps Fluency; updated overview, index, Data Science With Sam, Sam, Google Cloud, and Data Engineering Demand. No direct contradiction found; the source qualifies data-science career optimism by showing that useful production ML requires data infrastructure, deployment, APIs, feedback, measurement, CI/CD practice, and cross-role collaboration rather than model-building skill alone.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

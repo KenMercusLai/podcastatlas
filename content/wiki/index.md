@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 7: Data Science & MLOps](sources/ep-7-data-science-mlops.md) — Data Science With Sam episode with Aaron Blythe on MLOps, ML engineering, data engineering, DevOps principles, CI/CD, production feedback loops, and integrated ML teams.
 - [EP 6: Data Science & AI Talk](sources/ep-6-data-science-ai-talk.md) — Data Science With Sam episode with Paulina Nemkova on moving from economics into AI PhD research, academic AI work, literature tracking, EEG brain-signal classification, replication, and crypto time-series research.
 - [EP 5: Implementation of Data Science in Cybersecurity](sources/ep-5-implementation-of-data-science-in-cybersecurity.md) — Data Science With Sam episode with Benjamin Larson on Verizon consumer cybersecurity, threat simulation, call-transcript NLP, authentication risk modeling, sensitive data access, AI impersonation risk, and personal account hygiene.
 - [EP 4: A.I. talk with a Rocket Scientist from NASA](sources/ep-4-a-i-talk-with-a-rocket-scientist-from-nasa.md) — Data Science With Sam episode with Kofi Browning on NASA career pathways, mission-driven engineering, spaceflight AI dataset scarcity, space imagery AI, EVA glove inspection, model bias, and human oversight.
@@ -977,6 +978,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Aaron Blythe](entities/AaronBlythe.md) — Google Cloud customer engineer and Data Science With Sam guest explaining MLOps, ML engineering, data engineering, CI/CD, and production ML collaboration.
 - [Paulina Nemkova](entities/PaulinaNemkova.md) — University of North Texas AI/ML PhD student connecting nontraditional AI research paths, EEG brain reading, replication, and cryptocurrency time-series analysis.
 - [University of North Texas](entities/UniversityOfNorthTexas.md) — Institution context for Paulina Nemkova's AI/ML PhD work, EEG brain-reading research, coursework, and CS/business startup-club bridge.
 - [Benjamin Larson](entities/BenjaminLarson.md) — Verizon data science manager explaining cybersecurity data science, simulation modeling, social-engineering NLP, authentication risk, and security data-access constraints.
@@ -988,8 +990,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Society of Actuaries](entities/SocietyOfActuaries.md) — Professional actuarial organization used as fellowship context for Mary Pat Campbell and Stephen Mathis and as an industry mortality-data aggregation point.
 - [American Academy of Actuaries](entities/AmericanAcademyOfActuaries.md) — Mary Pat Campbell affiliation and source-scoped context for U.S. actuarial professional expectations.
 - [Casualty Actuarial Society](entities/CasualtyActuarialSociety.md) — Property-and-casualty actuarial organization referenced as part of the historical overlap between actuarial work and statistics.
-- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for Data Science With Sam episodes on academic AI research paths, cybersecurity, NASA space AI, impostor syndrome, experimental-science AI, and actuarial insurance data practice.
-- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of Data Science With Sam conversations on academic AI research, cybersecurity, NASA space AI, professional confidence, scientific AI, and actuarial insurance data.
+- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for Data Science With Sam episodes on production ML/MLOps, academic AI research paths, cybersecurity, NASA space AI, impostor syndrome, experimental-science AI, and actuarial insurance data practice.
+- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of Data Science With Sam conversations on production ML/MLOps, academic AI research, cybersecurity, NASA space AI, professional confidence, scientific AI, and actuarial insurance data.
 - [Effie (Data Science With Sam)](entities/EffieDataScienceWithSam.md) — Biology-focused guest emphasizing experimental records, bioinformatics collaboration, quality control, and AI lab documentation.
 - [Mossam (Data Science With Sam)](entities/MossamDataScienceWithSam.md) — Stanford research scientist guest explaining retrosynthesis AI, radiochemistry tracers, blood-brain-barrier prediction, negative chemistry data, and radioactive-safety oversight.
 - [Recursion Pharma](entities/RecursionPharma.md) — AI drug-discovery company cited as a source-scoped example of commercial small-molecule prediction.
@@ -6650,6 +6652,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [MLOps](concepts/MLOps.md) — Operating discipline for deploying, measuring, improving, and governing machine-learning models in production systems.
+- [Machine Learning Engineering](concepts/MachineLearningEngineering.md) — Practice of turning trained models into usable production capabilities, often through APIs, deployment pipelines, and feedback paths.
+- [Data Engineering For Data Science](concepts/DataEngineeringForDataScience.md) — Workflow foundation that puts data where data scientists can analyze and model without repeated local file handoffs.
+- [Production ML Feedback Loops](concepts/ProductionMLFeedbackLoops.md) — Flow of deployed model behavior, user actions, missing features, and new data back into model improvement.
+- [DevOps CALMS](concepts/DevOpsCALMS.md) — DevOps frame of culture, automation, lean or learning, measurement, and sharing that the source applies to MLOps.
+- [ML CI/CD](concepts/MLCICD.md) — Continuous integration, delivery, and deployment practices adapted to machine-learning artifacts, data, evaluation, and production behavior.
+- [Integrated ML Teams](concepts/IntegratedMLTeams.md) — Cross-functional team pattern combining data engineers, data scientists, and ML engineers around a business function or product outcome.
+- [Data Scientist MLOps Fluency](concepts/DataScientistMLOpsFluency.md) — Practical skill boundary where data scientists understand MLOps language and value without owning every operations task.
 - [Nontraditional AI Research Path](concepts/NontraditionalAIResearchPath.md) — Route into AI research from another discipline through quantitative foundations, programming, professor outreach, coursework, and early research exposure.
 - [AI Research Literature Currency](concepts/AIResearchLiteratureCurrency.md) — Need for AI researchers to stay current with recent papers, lab work, and field news so research questions remain novel and grounded.
 - [EEG Brain Reading](concepts/EEGBrainReading.md) — Machine-learning classification of EEG brain-signal data to infer object categories while avoiding overclaiming full thought prediction.
