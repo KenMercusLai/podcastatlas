@@ -7765,3 +7765,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-17] lint | Wiki health check
 
 Ran health before lint; health scanned 11,056 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-17] ingest | It’s not easy being Green: Zack Polanski
+
+Added source page for a The Intelligence episode on Zack Polanski and the Green Party of England and Wales, Polanski-era eco-populism, youth precarity politics, Gaza controversy, and the Greens' radical policy platform. Created pages for Zack Polanski, Green Party of England and Wales, Andrew Miller, Kate Adamalla, University of Minnesota, ABTA, American Society of Travel Advisers, Fora, Eco-Populism, Youth Precarity Politics, Synthetic Spud Cells, Life Definition Spectrum, and Travel Agent Resilience; updated overview, index, The Intelligence, Economist Podcasts, Rosie Bloor, Oliver Morton, Caitlin Talbot, United Kingdom, Labour Party (UK), Andy Burnham, Nigel Farage, Reform UK, Human Judgment Under AI, AI Travel Planning, and AI Travel Commerce Trust. No direct contradiction found; the source's Green coalition and polling claims are kept as an August 17, 2026 source-scoped snapshot inside the wiki's volatile British-politics timeline.
+
+## [2026-08-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

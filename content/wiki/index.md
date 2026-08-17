@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [It’s not easy being Green: Zack Polanski](sources/its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0.md) — The Intelligence episode on Zack Polanski's Green Party, eco-populism, youth precarity politics, synthetic spud cells, life-definition boundaries, and why human travel agents still persist alongside AI planning.
 - [激发动物精神，创造更多机会](sources/jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe.md) — 面基 episode with 周洛华 on the revised 《比特本位》, Bitcoin as monetary-history problem, risk-cost separation, decentralization as opportunity creation, animal spirits, fiat-era capital markets, AI human value, and speculative decentralized agent identity.
 - [Can an AI music company make nice with human artists?](sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128.md) — Marketplace Tech episode with Tatiana Cirasano on Suno Spark, AI music tools, artist development, copyright lawsuits, label settlements, and the music industry's simultaneous litigation-and-dealmaking response to generative AI.
 - [Bobbie: Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants](sources/bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69.md) — How I Built This episode on Bobbie, Laura Modi, infant formula stigma, FDA compliance, concentrated incumbents, DTC launch constraints, WIC access, and manufacturing control.
@@ -970,6 +971,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Zack Polanski](entities/ZackPolanski.md) — Green Party leader profiled as an eco-populist figure using biography, performance, Gaza politics, and economic grievance to reach younger voters.
+- [Green Party of England and Wales](entities/GreenPartyOfEnglandAndWales.md) — British Green Party branch framed through Zack Polanski as shifting from environmental identity toward eco-populist economic grievance.
+- [Andrew Miller](entities/AndrewMiller.md) — The Intelligence reporter whose Zack Polanski profile links biography, performance, controversy, and anti-centrist voter movement.
+- [Kate Adamalla](entities/KateAdamalla.md) — University of Minnesota lab leader credited in the source with creating synthetic spud cells.
+- [University of Minnesota](entities/UniversityOfMinnesota.md) — Institution attached to Kate Adamalla's synthetic-cell lab in the episode.
+- [ABTA](entities/ABTA.md) — British travel-industry association cited as evidence that many UK travellers still book through human agents.
+- [American Society of Travel Advisers](entities/AmericanSocietyOfTravelAdvisers.md) — U.S. travel-adviser association cited for membership growth despite AI planning tools.
+- [Fora](entities/Fora.md) — AI-powered travel-agency platform framed as adviser infrastructure rather than a simple replacement for human agents.
 - [Zhou Luohua / 周洛华](entities/ZhouLuohua.md) — Finance and monetary-history thinker using the revised 《比特本位》 to connect Bitcoin, risk, opportunity, AI, and human value.
 - [《比特本位》 / The Bit Standard](entities/BitStandardBook.md) — Zhou Luohua book discussed as a Bitcoin, monetary-history, proof-of-work, and production-relations frame.
 - [《货币起源》 / The Origin of Money](entities/CurrencyOriginBook.md) — Zhou Luohua book reference linking his broader monetary project to money flow and currency-anchor questions.
@@ -6619,6 +6628,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Eco-Populism](concepts/EcoPopulism.md) — Green political style that keeps environmental identity while foregrounding economic grievance, redistribution, anti-elite rhetoric, and youth-facing material frustration.
+- [Youth Precarity Politics](concepts/YouthPrecarityPolitics.md) — Pattern where insecure work, high rents, weaker graduate routes, and centrist disillusionment make young voters receptive to anti-establishment politics.
+- [Synthetic Spud Cells](concepts/SyntheticSpudCells.md) — Lab-built cell-like systems that reproduce for limited generations and expose the engineering boundary around life.
+- [Life Definition Spectrum](concepts/LifeDefinitionSpectrum.md) — Biology-lab idea that living and non-living can be a spectrum rather than a binary when synthetic cell-like systems are engineered.
+- [Travel Agent Resilience](concepts/TravelAgentResilience.md) — Persistence of human travel advisers where taste, curation, supplier relationships, uncertainty, and trip recovery still matter despite AI planning.
 - [Risk-Cost Separation / 风险与成本分离](concepts/RiskCostSeparation.md) — Source frame distinguishing cost reduction from risk reduction across debt, investing, health care, and industrial policy.
 - [Opportunity-Generating Decentralization / 创造机会的去中心化](concepts/OpportunityGeneratingDecentralization.md) — Claim that decentralization creates entry, selection, and renewal while centralization lowers consensus cost and creates order.
 - [Animal Spirits Opportunity Activation / 动物精神与机会激活](concepts/AnimalSpiritsOpportunityActivation.md) — Macro-confidence frame where believable opportunity restarts investment, consumption, and action.

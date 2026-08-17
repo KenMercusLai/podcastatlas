@@ -1179,6 +1179,10 @@
     "title": "ABC",
     "url": "/wiki/entities/abc/"
   },
+  "ABTA": {
+    "title": "ABTA",
+    "url": "/wiki/entities/abta/"
+  },
   "ABTestingForMarketers": {
     "title": "A/B Testing For Marketers",
     "url": "/wiki/concepts/abtestingformarketers/"
@@ -3631,6 +3635,10 @@
     "title": "American Public Media",
     "url": "/wiki/entities/americanpublicmedia/"
   },
+  "AmericanSocietyOfTravelAdvisers": {
+    "title": "American Society of Travel Advisers",
+    "url": "/wiki/entities/americansocietyoftraveladvisers/"
+  },
   "AmericanSportsCapitalInEuropeanFootball": {
     "title": "American Sports Capital In European Football",
     "url": "/wiki/concepts/americansportscapitalineuropeanfootball/"
@@ -3774,6 +3782,10 @@
   "AndrewJohnson": {
     "title": "Andrew Johnson",
     "url": "/wiki/entities/andrewjohnson/"
+  },
+  "AndrewMiller": {
+    "title": "Andrew Miller",
+    "url": "/wiki/entities/andrewmiller/"
   },
   "AndrewNelson": {
     "title": "Andrew Nelson",
@@ -11959,6 +11971,10 @@
     "title": "EcoFlow / 正浩",
     "url": "/wiki/entities/ecoflow/"
   },
+  "EcoPopulism": {
+    "title": "Eco-Populism",
+    "url": "/wiki/concepts/ecopopulism/"
+  },
   "EcologicalMemory": {
     "title": "Ecological Memory",
     "url": "/wiki/concepts/ecologicalmemory/"
@@ -14279,6 +14295,10 @@
     "title": "For-Cause Removal Standard",
     "url": "/wiki/concepts/forcauseremovalstandard/"
   },
+  "Fora": {
+    "title": "Fora",
+    "url": "/wiki/entities/fora/"
+  },
   "ForagingEthics": {
     "title": "Foraging Ethics",
     "url": "/wiki/concepts/foragingethics/"
@@ -16074,6 +16094,10 @@
   "GreenParadox": {
     "title": "Green Paradox",
     "url": "/wiki/concepts/greenparadox/"
+  },
+  "GreenPartyOfEnglandAndWales": {
+    "title": "Green Party of England and Wales",
+    "url": "/wiki/entities/greenpartyofenglandandwales/"
   },
   "Greenland": {
     "title": "Greenland",
@@ -20735,6 +20759,10 @@
     "title": "Kashmir Hill",
     "url": "/wiki/entities/kashmirhill/"
   },
+  "KateAdamalla": {
+    "title": "Kate Adamalla",
+    "url": "/wiki/entities/kateadamalla/"
+  },
   "KateCrawford": {
     "title": "Kate Crawford",
     "url": "/wiki/entities/katecrawford/"
@@ -22154,6 +22182,10 @@
   "LifeCircle": {
     "title": "Life Circle",
     "url": "/wiki/entities/lifecircle/"
+  },
+  "LifeDefinitionSpectrum": {
+    "title": "Life Definition Spectrum",
+    "url": "/wiki/concepts/lifedefinitionspectrum/"
   },
   "LifeImitatesArt": {
     "title": "Life Imitates Art / 生活模仿艺术",
@@ -35627,6 +35659,10 @@
     "title": "Synthetic Risk Transfer / SRT",
     "url": "/wiki/concepts/syntheticrisktransfer/"
   },
+  "SyntheticSpudCells": {
+    "title": "Synthetic Spud Cells",
+    "url": "/wiki/concepts/syntheticspudcells/"
+  },
   "Syria": {
     "title": "Syria",
     "url": "/wiki/entities/syria/"
@@ -37247,6 +37283,10 @@
     "title": "Traumatic Attachment",
     "url": "/wiki/concepts/traumaticattachment/"
   },
+  "TravelAgentResilience": {
+    "title": "Travel Agent Resilience",
+    "url": "/wiki/concepts/travelagentresilience/"
+  },
   "TravelBookingHiddenFees": {
     "title": "Travel Booking Hidden Fees",
     "url": "/wiki/concepts/travelbookinghiddenfees/"
@@ -37970,6 +38010,10 @@
   "UniversityOfMichigan": {
     "title": "University of Michigan",
     "url": "/wiki/entities/universityofmichigan/"
+  },
+  "UniversityOfMinnesota": {
+    "title": "University of Minnesota",
+    "url": "/wiki/entities/universityofminnesota/"
   },
   "UniversityOfOttawa": {
     "title": "University Of Ottawa",
@@ -40703,6 +40747,10 @@
     "title": "Youth Online Speech Rights",
     "url": "/wiki/concepts/youthonlinespeechrights/"
   },
+  "YouthPrecarityPolitics": {
+    "title": "Youth Precarity Politics",
+    "url": "/wiki/concepts/youthprecaritypolitics/"
+  },
   "YouyangZazu": {
     "title": "《酉阳杂俎》 / Youyang Zazu",
     "url": "/wiki/entities/youyangzazu/"
@@ -40894,6 +40942,10 @@
   "ZachLowe": {
     "title": "Zach Lowe",
     "url": "/wiki/entities/zachlowe/"
+  },
+  "ZackPolanski": {
+    "title": "Zack Polanski",
+    "url": "/wiki/entities/zackpolanski/"
   },
   "Zangshu": {
     "title": "Zangshu / 《葬书》",
@@ -42518,6 +42570,10 @@
   "its-my-tree-why-cant-i-cut-it-down": {
     "title": "It's my tree. Why can't I cut it down?",
     "url": "/wiki/sources/its-my-tree-why-cant-i-cut-it-down/"
+  },
+  "its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0": {
+    "title": "It’s not easy being Green: Zack Polanski",
+    "url": "/wiki/sources/its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0/"
   },
   "jerome-powell-and-the-test-of-fed-independence": {
     "title": "Jerome Powell and the Test of Fed Independence",

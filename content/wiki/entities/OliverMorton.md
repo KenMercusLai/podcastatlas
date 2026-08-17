@@ -2,11 +2,13 @@
 title: "Oliver Morton"
 type: entity
 tags: [person, journalism, space]
-sources: [taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
-last_updated: 2026-08-08
+sources: [its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0, taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
+last_updated: 2026-08-17
 ---
 
 # Oliver Morton
+
+[[its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0]] adds Morton in a synthetic-biology role. He explains [[KateAdamalla]]'s [[UniversityOfMinnesota]] work on [[SyntheticSpudCells]], using limited reproduction, weak metabolism, and bottom-up design to clarify the [[LifeDefinitionSpectrum]].
 
 [[taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760]] adds Morton in a planetary-energy role. He explains record ocean heat through [[EarthEnergyImbalance]], [[AlbedoFeedback]], [[AerosolCoolingMasking]], [[OceanHeatMonitoring]], and the controversial response category of [[SolarGeoengineering]].
 
@@ -18,6 +20,7 @@ The source uses his segment to connect biology with [[SpaceEconomyInfrastructure
 
 ## Connections
 - [[TheIntelligence]] — show context.
+- [[KateAdamalla]], [[UniversityOfMinnesota]], [[SyntheticSpudCells]], and [[LifeDefinitionSpectrum]] - synthetic-biology segment in the Polanski episode.
 - [[AppliedAstrobiology]] — concept he explains.
 - [[AlbedoFeedback]], [[EarthEnergyImbalance]], [[AerosolCoolingMasking]], [[OceanHeatMonitoring]], and [[SolarGeoengineering]] - climate concepts he explains in the albedo source.
 - [[ExtremeWildfire]], [[WildfireSmokeHealthBurden]], [[WildfireClimateFeedback]], and [[LandscapeFirePrevention]] - wildfire concepts he explains.

@@ -2,11 +2,13 @@
 title: "Andy Burnham"
 type: entity
 tags: [politics, uk]
-sources: [a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]
-last_updated: 2026-08-07
+sources: [its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0, a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]
+last_updated: 2026-08-17
 ---
 
 # Andy Burnham
+
+[[its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0]] adds Burnham as a comparison point for [[ZackPolanski]]'s Green pressure. Polanski says Burnham's current positioning would not exist if the [[GreenPartyOfEnglandAndWales]] were not doing well, making Burnham part of the episode's [[EcoPopulism]] and [[YouthPrecarityPolitics]] reading even though he is not the main subject.
 
 Andy Burnham is one of the possible [[LabourPartyUK]] successors discussed in [[a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07]], the central route-to-power figure in [[coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b]], and then the likely successor in [[starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1]]. The earlier episode treats him as a recognizable alternative to [[KeirStarmer]] but says he lacks a current route into the premiership.
 
@@ -19,6 +21,7 @@ Andy Burnham is one of the possible [[LabourPartyUK]] successors discussed in [[
 [[in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]] treats Burnham's replacement of [[KeirStarmer]] as part of the background to [[NigelFarage]]'s risk calculation. The source says [[LabourPartyUK]] expects a popularity bounce from Burnham as prime minister, while [[ReformUK]] still remains strong nationally and especially in [[Clacton]].
 
 ## Connections
+- [[ZackPolanski]], [[GreenPartyOfEnglandAndWales]], and [[EcoPopulism]] - later source's claim that Green pressure shapes Burnham's positioning.
 - [[KeirStarmer]] — incumbent whose vulnerability becomes a succession opening.
 - [[LabourLeadershipCrisis]] — context for Burnham's route into Parliament and leadership claim.
 - [[ReformUK]] — defeated by Burnham in Makerfield in the route-to-power source.

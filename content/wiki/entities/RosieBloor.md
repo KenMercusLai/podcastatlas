@@ -2,11 +2,13 @@
 title: "Rosie Bloor"
 type: entity
 tags: [host, media]
-sources: [the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c, spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]
-last_updated: 2026-08-13
+sources: [its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c, spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354, caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]
+last_updated: 2026-08-17
 ---
 
 # Rosie Bloor
+
+[[its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0]] adds another host context, with the source summary spelling her as Rosie Blore. She introduces the episode's sequence on [[ZackPolanski]] and the [[GreenPartyOfEnglandAndWales]], [[SyntheticSpudCells]] from [[KateAdamalla]]'s lab, and [[TravelAgentResilience]] amid [[AITravelPlanning]].
 
 [[spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354]] adds another host context, with the transcript spelling her as Rosie Blore. She introduces the episode's sequence on the [[MuslimBrotherhood]]'s regional decline, [[CrimeStatisticsComparability]] in Europe-America safety claims, and [[PadelParticipationBoom]].
 
@@ -23,6 +25,7 @@ Rosie Bloor is the host voice for [[stock-options-how-to-hedge-an-ai-bubble-698e
 [[caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822]] adds another host context, again with the transcript spelling her as Rosie Blore. She introduces the episode's sequence on [[Venezuela]]'s transition talks, the U.S. [[FastFoodDemandReset]], and [[RichardWagner]]'s [[DerRingDesNibelungen|Ring cycle]].
 
 ## Connections
+- [[ZackPolanski]], [[SyntheticSpudCells]], and [[TravelAgentResilience]] - themes introduced in the Polanski episode.
 - [[TheIntelligence]] — show context.
 - [[CompetitiveBillionaireWealth]], [[ScamCompoundPoliticalProtection]], and [[PoliticalImageMaintenance]] — themes introduced in the For bucks' sake source.
 - [[AIBubbleHedging]], [[AutocraticSuccession]], and [[LiteraryAgentJudgment]] — segment themes introduced in the episode.
