@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 3: Demystifying the Imposter Syndrome](sources/ep-3-demystifying-the-imposter-syndrome.md) — Data Science With Sam episode with Stephen Mathis on impostor syndrome, comparison, feedback, capability gaps, progress tracking, Dunning-Kruger overconfidence, and team confidence calibration.
 - [Data, Risk, and Actuarial Science in Insurance](sources/data-risk-and-actuarial-science-in-insurance.md) — Data Science With Sam episode with Mary Pat Campbell on actuarial science, mortality tables, insurance data quality, ASOPs, underwriting selection risk, and AI/ML under insurance regulation.
 - [Data, AI, and Scientific Research: A Coffee Chat](sources/data-ai-and-scientific-research-a-coffee-chat.md) — Data Science With Sam Coffee Chat with Effie and Mossam on AI in biology, chemistry, radiochemistry, data quality, negative results, experiment documentation, retrosynthesis, and human-driven scientific AI.
 - [It’s not easy being Green: Zack Polanski](sources/its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0.md) — The Intelligence episode on Zack Polanski's Green Party, eco-populism, youth precarity politics, synthetic spud cells, life-definition boundaries, and why human travel agents still persist alongside AI planning.
@@ -973,12 +974,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Stephen Mathis](entities/StephenMathis.md) — Speaker, author, and Society of Actuaries Fellow discussing impostor syndrome, confidence calibration, feedback, and fair comparison on Data Science With Sam.
 - [Mary Pat Campbell](entities/MaryPatCampbell.md) — Life actuary and Data Science With Sam guest explaining actuarial science, insurance data quality, professional standards, and regulatory constraints.
-- [Society of Actuaries](entities/SocietyOfActuaries.md) — Professional actuarial organization used in the source as fellowship context and as an industry mortality-data aggregation point.
+- [Society of Actuaries](entities/SocietyOfActuaries.md) — Professional actuarial organization used as fellowship context for Mary Pat Campbell and Stephen Mathis and as an industry mortality-data aggregation point.
 - [American Academy of Actuaries](entities/AmericanAcademyOfActuaries.md) — Mary Pat Campbell affiliation and source-scoped context for U.S. actuarial professional expectations.
 - [Casualty Actuarial Society](entities/CasualtyActuarialSociety.md) — Property-and-casualty actuarial organization referenced as part of the historical overlap between actuarial work and statistics.
-- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for Data Science With Sam episodes on experimental-science AI and actuarial insurance data practice.
-- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of Data Science With Sam conversations on scientific AI and actuarial insurance data.
+- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for Data Science With Sam episodes on impostor syndrome, experimental-science AI, and actuarial insurance data practice.
+- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of Data Science With Sam conversations on professional confidence, scientific AI, and actuarial insurance data.
 - [Effie (Data Science With Sam)](entities/EffieDataScienceWithSam.md) — Biology-focused guest emphasizing experimental records, bioinformatics collaboration, quality control, and AI lab documentation.
 - [Mossam (Data Science With Sam)](entities/MossamDataScienceWithSam.md) — Stanford research scientist guest explaining retrosynthesis AI, radiochemistry tracers, blood-brain-barrier prediction, negative chemistry data, and radioactive-safety oversight.
 - [Recursion Pharma](entities/RecursionPharma.md) — AI drug-discovery company cited as a source-scoped example of commercial small-molecule prediction.
@@ -6639,6 +6641,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Capability Gap Self-Diagnosis](concepts/CapabilityGapSelfDiagnosis.md) — Practice of separating distorted impostor feelings from real skill, time, or emotional-capacity gaps that require different remedies.
+- [External Feedback Self-Calibration](concepts/ExternalFeedbackSelfCalibration.md) — Use of trusted, concrete outside feedback to correct distorted self-assessment without treating all praise as automatically true.
+- [Fair Comparison Frames](concepts/FairComparisonFrames.md) — Method for making comparison more useful by matching peer group, timing, field, and metric instead of benchmarking against outliers.
+- [Progress Tracking Self-Assessment](concepts/ProgressTrackingSelfAssessment.md) — Habit of recording plans, actions, completions, and year-over-year change so self-assessment is grounded in evidence.
+- [Dunning-Kruger Effect](concepts/DunningKrugerEffect.md) — Overconfidence counter-pattern to impostor syndrome, useful in the wiki as a confidence-calibration and team-risk concept.
+- [Confidence Profile Team Management](concepts/ConfidenceProfileTeamManagement.md) — Managerial practice of identifying underconfidence and overconfidence patterns and using feedback, evidence, and role design to calibrate them.
+- [Learning Ahead of Readiness](concepts/LearningAheadOfReadiness.md) — Starting work before total readiness when the missing knowledge can be learned just ahead of need inside manageable risk.
+- [Learnable Emotional Intelligence](concepts/LearnableEmotionalIntelligence.md) — Claim that confidence habits and interpersonal self-awareness can change through feedback, effort, and time.
 - [Actuarial Science](concepts/ActuarialScience.md) — Insurance and pension risk-quantification practice combining mortality tables, claims data, underwriting, modeling, business process knowledge, and professional judgment.
 - [Actuarial Data Quality](concepts/ActuarialDataQuality.md) — Insurance data-quality discipline around field meaning, reporting lag, missing versus true-zero values, medical codes, reasonability checks, units, and currency.
 - [Actuarial Standards of Practice](concepts/ActuarialStandardsOfPractice.md) — Professional standards frame for actuarial data quality, communications, modeling, and reasonability checks.
@@ -8569,7 +8579,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Captive Animal Care Labor / 圈养动物照护劳动](concepts/CaptiveAnimalCareLabor.md) — Zoo/sanctuary care work where affection must become cleaning, feeding, observation, veterinary response, enclosure maintenance, and welfare tradeoffs.
 - [Bird-Dinosaur Continuity / 鸟类-恐龙连续性](concepts/BirdDinosaurContinuity.md) — Evolutionary frame that living birds belong to the dinosaur lineage and can help popular audiences understand dinosaurs as animals.
 - [Envy-Contempt Comparison / 嫉妒-鄙视比较](concepts/EnvyContemptComparison.md) — Paired emotional dynamic where upward comparison produces envy and downward comparison produces contempt, with adaptive signal value and dehumanization risk.
-- [Social Comparison Pressure / 社会比较压力](concepts/SocialComparisonPressure.md) — Status-sorting condition across school, work, class, aesthetics, consumption, and online life that makes envy and contempt frequent.
+- [Social Comparison Pressure / 社会比较压力](concepts/SocialComparisonPressure.md) — Status-sorting condition across school, work, creators, class, aesthetics, consumption, and online life that makes envy, contempt, or impostor feelings frequent.
 - [Low-Status Syndrome / 低地位综合症](concepts/LowStatusSyndrome.md) — Chronic vigilance, anxiety, resentment, and health burden produced by felt lower social position.
 - [Warmth-Competence Stereotype / 热情-能力刻板印象](concepts/WarmthCompetenceStereotype.md) — Two-axis stereotype frame where missing warmth or competence makes envy, contempt, pity, or suspicion easier.
 - [Schadenfreude As Comparison Emotion / 比较中的幸灾乐祸](concepts/SchadenfreudeAsComparisonEmotion.md) — Mixed envy/contempt response where another person's fall feels rewarding because comparison or group identity is restored.
@@ -8689,8 +8699,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Binary Action Thinking](concepts/BinaryActionThinking.md) — Episode 129 habit of counting action as 0 or 1 before grading quality, useful against perfectionist over-scoring.
 - [Failure Desensitization](concepts/FailureDesensitization.md) — Episode 129 practice of safely experiencing small embarrassment, rejection, or imperfection to update imagined risk.
 - [High General, Low Specific Expectations](concepts/HighGeneralLowSpecificExpectations.md) — Episode 129 expectation model: keep broad life optimism while lowering concrete task thresholds enough to act.
-- [Concrete Self-Praise](concepts/ConcreteSelfPraise.md) — Episode 129 practice of naming specific completed actions and small strengths instead of relying on abstract confidence slogans.
-- [Impostor Syndrome](concepts/ImpostorSyndrome.md) — Episode 129 concept for achievement that cannot be internalized, closely tied to perfectionist self-judgment.
+- [Concrete Self-Praise](concepts/ConcreteSelfPraise.md) — Practice of naming specific completed actions, small strengths, and valid recognition instead of relying on abstract confidence slogans.
+- [Impostor Syndrome](concepts/ImpostorSyndrome.md) — Achievement and competence self-doubt pattern linked to perfectionism, comparison, capability-gap diagnosis, and praise acceptance.
 - [Snake Cultural Symbolism](concepts/SnakeCulturalSymbolism.md) — Episode 128 frame for why snake imagery carries fear, beauty, sacredness, danger, fertility, secrecy, wisdom, and freedom at once.
 - [Snake Religious Mythology](concepts/SnakeReligiousMythology.md) — Cross-cultural serpent-myth frame covering world snakes, naga, Apep, Kukulkan, Fuxi-Nuwa, and threshold power without overclaiming one origin.
 - [Snake Renewal And Secret Knowledge](concepts/SnakeRenewalAndSecretKnowledge.md) — Episode 128 concept linking shedding, winter return, immortal herbs, bird language, treasure, beauty, and dangerous wisdom.

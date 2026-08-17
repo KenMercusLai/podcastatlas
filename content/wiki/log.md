@@ -7782,9 +7782,17 @@ Added source page for a Data Science With Sam Coffee Chat with Sam, Effie, and M
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-18] ingest | EP 3: Demystifying the Imposter Syndrome
+
+Added source page for a Data Science With Sam episode with Stephen Mathis on imposter syndrome, comparison, self-validation, external feedback, real-versus-false capability gaps, progress tracking, Dunning-Kruger overconfidence, and team confidence management. Created pages for Stephen Mathis, Capability Gap Self-Diagnosis, External Feedback Self-Calibration, Fair Comparison Frames, Progress Tracking Self-Assessment, Dunning-Kruger Effect, Confidence Profile Team Management, Learning Ahead of Readiness, and Learnable Emotional Intelligence; updated overview, index, Data Science With Sam, Sam, Society of Actuaries, Impostor Syndrome, Social Comparison Pressure, Concrete Self-Praise, and Achievement Pressure Mental Health. No direct contradiction found; the source extends the wiki's anti-perfectionism and achievement-pressure branch by making confidence calibration practical: separate false inadequacy from real gaps, compare fairly, track evidence, and accept grounded recognition.
+
 ## [2026-08-18] ingest | Data, Risk, and Actuarial Science in Insurance
 
 Added source page for a Data Science With Sam episode with Mary Pat Campbell on actuarial science, mortality tables, life insurance and annuity data, P&C feedback loops, underwriting selection risk, ASOPs, reporting lag, data-field meaning, medical and financial record errors, and AI/ML under insurance regulation. Created pages for Mary Pat Campbell, Society of Actuaries, American Academy of Actuaries, Casualty Actuarial Society, Actuarial Science, Actuarial Data Quality, Actuarial Standards of Practice, and Insurance Model Regulatory Constraint; updated overview, index, Data Science With Sam, Sam, Insurance Risk Transfer, Mortality Risk Pricing, and Asymmetric Information. No direct contradiction found; the source qualifies AI/data-science optimism by showing that regulated insurance models need domain data quality, professional standards, and actionability before predictive power is useful.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-18] lint | Wiki health check
 

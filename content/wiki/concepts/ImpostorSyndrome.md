@@ -2,11 +2,13 @@
 title: "Impostor Syndrome"
 type: concept
 tags: [psychology, achievement, self-trust]
-sources: [129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151]
-last_updated: 2026-07-24
+sources: [ep-3-demystifying-the-imposter-syndrome, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151]
+last_updated: 2026-08-18
 ---
 
 # Impostor Syndrome
+
+[[ep-3-demystifying-the-imposter-syndrome]] adds a professional-learning version through [[DataScienceWithSam]], [[SamDataScienceWithSam|Sam]], and [[StephenMathis|Stephen Mathis]]. The episode frames impostor feelings as the gap between external recognition and internal inadequacy, especially in fast-changing fields where learning more also exposes more unknowns.
 
 Impostor syndrome is the source's term for the feeling that one's achievements are false, accidental, or not really deserved. In [[129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151]], the hosts describe it as closely related to [[PerfectionismAsAvoidance]]: both can make actual success feel insufficient because the person keeps measuring themselves against an imagined perfect standard.
 
@@ -17,6 +19,9 @@ The episode uses [[AlbertEinstein]] as a source-scoped example of someone who co
 - Impostor feelings can persist when a person discounts evidence, luck, help, or imperfection as proof that success "does not count."
 - Perfectionism can intensify impostor syndrome by making only flawless achievement feel legitimate.
 - Specific records of completed actions and strengths can counter the pattern better than generic encouragement.
+- Episode 3 adds that impostor feelings should be separated from real gaps in skill, time, or emotional capacity through [[CapabilityGapSelfDiagnosis]].
+- Fast social comparison can worsen impostor feelings when visible outliers are treated as fair benchmarks.
+- Trusted feedback and sincere praise can correct distorted self-assessment when they are tied to concrete evidence.
 
 ## Connections
 - [[PerfectionismAsAvoidance]] - adjacent pattern in the source.
@@ -24,3 +29,5 @@ The episode uses [[AlbertEinstein]] as a source-scoped example of someone who co
 - [[AchievementPressureMentalHealth]] - broader branch where achievement can hide distress.
 - [[RedPenLogic]] - internal scoring habit that can make every success feel provisional.
 - [[AlbertEinstein]] - source-scoped example used in the episode.
+- [[CapabilityGapSelfDiagnosis]], [[ExternalFeedbackSelfCalibration]], [[FairComparisonFrames]], and [[ProgressTrackingSelfAssessment]] - episode-3 professional self-assessment extension.
+- [[DunningKrugerEffect]] and [[ConfidenceProfileTeamManagement]] - counter-pattern and team-management branch.

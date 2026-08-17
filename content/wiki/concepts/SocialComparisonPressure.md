@@ -2,11 +2,13 @@
 title: "Social Comparison Pressure / 社会比较压力"
 type: concept
 tags: [psychology, society, status, education, internet-culture]
-sources: [163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta, 162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust, 37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647]
-last_updated: 2026-08-06
+sources: [ep-3-demystifying-the-imposter-syndrome, 163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta, 162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust, 37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647]
+last_updated: 2026-08-18
 ---
 
 # Social Comparison Pressure / 社会比较压力
+
+[[ep-3-demystifying-the-imposter-syndrome]] adds a professional and creator-confidence version. [[SamDataScienceWithSam|Sam]] describes seeing younger students post advanced computer-vision work and comparing his YouTube subscriber count with longer-running creators, while [[StephenMathis|Stephen Mathis]] uses actuarial exam speed as an example of a narrow metric that can create either inferiority or inflated ego. The source's repair path is [[FairComparisonFrames]] and [[ProgressTrackingSelfAssessment]].
 
 [[163-dang-guzhuyizhi-de-nianqingren-yushang-zhege-caotaibanzi-de-shijie-chuantai-qingdao-kuaima-lvxfvtz-wgwdl8mmtzyehwgwtbta]] adds the FOMO and investment-nihilism version. [[FuYu|傅宇]] and [[DavidWeng|大卫翁]] argue that social media makes visible winners feel like the norm, so young people can mistake "others caught the AI, crypto, meme-stock, or generational opportunity" for evidence that their own normal path has already failed.
 
@@ -28,8 +30,10 @@ The source argues that modern life is especially tense because it combines equal
 - Replacing horizontal comparison with longitudinal self-comparison can turn envy into development rather than attack.
 - Episode 162 adds that comparison inflates wants and can shrink [[WealthDesireGap|felt wealth]] even when absolute living conditions improve.
 - Episode 163 adds that comparison can become [[FinancialNihilism]] when visible winners make ordinary saving, work, and gradual improvement feel futile.
+- Episode 3 adds that comparison becomes fairer when the benchmark matches experience, timing, field, and the specific metric being evaluated.
 
 ## Connections
+- [[FairComparisonFrames]], [[ProgressTrackingSelfAssessment]], and [[ImpostorSyndrome]] - episode-3 professional comparison branch.
 - [[EnvyContemptComparison]] - emotional pattern produced by comparison.
 - [[AchievementPressureMentalHealth]], [[RedPenLogic]], and [[AntiAuthoritarianEducation]] - education-pressure branch where comparison becomes self-worth scoring.
 - [[LowStatusSyndrome]] - chronic bodily and attentional cost of low-position comparison.

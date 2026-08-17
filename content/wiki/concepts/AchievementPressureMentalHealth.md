@@ -2,13 +2,15 @@
 title: "Achievement Pressure Mental Health"
 type: concept
 tags: [education, mental-health, youth, parenting]
-sources: [132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202, 37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, 140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
-last_updated: 2026-08-06
+sources: [ep-3-demystifying-the-imposter-syndrome, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 161-zuanzhe-wenping-shiye-wo-zenme-pa-chu-zhege-xianjing-933696202, 37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, 140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
+last_updated: 2026-08-18
 ---
 
 # Achievement Pressure Mental Health
 
 Achievement pressure mental health is the episode's frame for the psychological cost of turning school, family, and status competition into a narrow success-or-shame system. In [[160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]], the hosts move from individual stories of high-performing students in crisis to a broader account of anxiety, depression, loneliness, self-harm, and suicidal ideation among young people.
+
+[[ep-3-demystifying-the-imposter-syndrome]] adds the professional impostor-syndrome version. The source shows that degrees, credentials, coworker comparisons, public posts, and creator metrics can keep achievement pressure active after school: a person may be externally competent while still reading ordinary unknowns as proof of inadequacy. Its repair path runs through [[CapabilityGapSelfDiagnosis]], [[FairComparisonFrames]], [[ProgressTrackingSelfAssessment]], [[ExternalFeedbackSelfCalibration]], and [[ConcreteSelfPraise]].
 
 The source focuses on "good students" because their distress is often hidden by credentials and family status. The episode's "Stanford Duck Syndrome" image captures the contradiction: a student can appear calm and elite on the surface while working frantically and suffering underneath.
 
@@ -52,6 +54,7 @@ The source focuses on "good students" because their distress is often hidden by 
 - Episode 143 adds that achievement pressure is also a memory problem: children may retain fear, reward, and bodily stress as non-declarative patterns even when the explicit lesson is forgotten.
 - Episode 37 adds that measured intelligence can become a prestige and anxiety machine when families and schools read test performance as destiny rather than bounded information.
 - Episode 161 adds that achievement pressure does not end at graduation; joblessness can reactivate the same honor/shame system under harsher labor-market conditions.
+- Episode 3 adds that achievement pressure can persist inside professional learning when people compare against unfair benchmarks or cannot internalize valid external recognition.
 
 ## Connections
 - [[ExcellentSheep|《优秀的绵羊》 / Excellent Sheep]] and [[WilliamDeresiewicz]] - book and author grounding the elite-student diagnosis.
@@ -71,3 +74,4 @@ The source focuses on "good students" because their distress is often hidden by 
 - [[ForgettingAsCognitiveFunction]], [[PainfulMemoryRehearsalRisk]], and [[FocusedDiffuseThinkingBalance]] - episode 143's memory, painful-rehearsal, and balanced-brain-use extension.
 - [[IntelligenceTesting]], [[EducationalTrackingByTesting]], and [[MeritocraticArrogance]] - episode 37's score, placement, and status extension.
 - [[HighlyEducatedUnemployment]], [[LongTermUnemploymentPenalty]], [[UnemploymentStigma]], and [[StatusDescentPressure]] - episode 161's unemployment and broken-effort-narrative extension.
+- [[ImpostorSyndrome]], [[CapabilityGapSelfDiagnosis]], [[FairComparisonFrames]], [[ProgressTrackingSelfAssessment]], and [[ExternalFeedbackSelfCalibration]] - episode-3 professional self-assessment extension.

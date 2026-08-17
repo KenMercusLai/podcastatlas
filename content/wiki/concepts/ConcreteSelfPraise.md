@@ -2,13 +2,15 @@
 title: "Concrete Self-Praise"
 type: concept
 tags: [psychology, habits, self-trust]
-sources: [129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151]
-last_updated: 2026-07-24
+sources: [ep-3-demystifying-the-imposter-syndrome, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151]
+last_updated: 2026-08-18
 ---
 
 # Concrete Self-Praise
 
 Concrete self-praise is the episode's alternative to abstract self-confidence slogans. In [[129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151]], [[QinZong|秦总]] argues that praise works better when it names a specific completed action, small strength, or visible detail rather than saying "believe in yourself" in general.
+
+[[ep-3-demystifying-the-imposter-syndrome]] adds a workplace and self-assessment version. [[SamDataScienceWithSam|Sam]] argues for appreciating small achievements, while [[StephenMathis|Stephen Mathis]] connects pride to tracking concrete writing actions and giving sincere recognition a fair chance.
 
 The practice is especially important after [[ImperfectActionPractice]]. If the person immediately moves from one task to a harder one, the completed action never becomes evidence. Concrete self-praise lets a small "1" become part of memory, which can support [[HighGeneralLowSpecificExpectations]] and weaken [[ImpostorSyndrome]].
 
@@ -17,6 +19,8 @@ The practice is especially important after [[ImperfectActionPractice]]. If the p
 - Small completed actions should be noticed before the next harder demand replaces them.
 - Recording strengths and achievements can help internalize evidence that perfectionism discounts.
 - The practice should describe real behavior, not invent a fantasy self.
+- Episode 3 adds that small celebrations can happen along the way, not only after major annual goals are complete.
+- Sincere external praise becomes easier to accept when it is linked to actual behavior and recorded progress.
 
 ## Connections
 - [[BinaryActionThinking]] - completed binary actions create material for specific praise.
@@ -24,3 +28,4 @@ The practice is especially important after [[ImperfectActionPractice]]. If the p
 - [[HighGeneralLowSpecificExpectations]] - expectation model supported by accumulated small wins.
 - [[ImpostorSyndrome]] - pattern concrete achievement records can counter.
 - [[PositiveExpectationTraining]] - adjacent practice of recording good events and their effects.
+- [[ProgressTrackingSelfAssessment]] and [[ExternalFeedbackSelfCalibration]] - episode-3 progress and feedback extension.

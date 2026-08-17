@@ -6863,6 +6863,10 @@
     "title": "Cap Table Literacy",
     "url": "/wiki/concepts/captableliteracy/"
   },
+  "CapabilityGapSelfDiagnosis": {
+    "title": "Capability Gap Self-Diagnosis",
+    "url": "/wiki/concepts/capabilitygapselfdiagnosis/"
+  },
   "CapabilityOverhang": {
     "title": "Capability Overhang",
     "url": "/wiki/concepts/capabilityoverhang/"
@@ -9126,6 +9130,10 @@
   "ConfessionalTradeConflict": {
     "title": "Confessional Trade Conflict",
     "url": "/wiki/concepts/confessionaltradeconflict/"
+  },
+  "ConfidenceProfileTeamManagement": {
+    "title": "Confidence Profile Team Management",
+    "url": "/wiki/concepts/confidenceprofileteammanagement/"
   },
   "ConfiscationAndFemaleFate": {
     "title": "抄家籍没与女性命运 / Confiscation And Female Fate",
@@ -11803,6 +11811,10 @@
     "title": "Dunlop Pneumatic Tyre Company",
     "url": "/wiki/entities/dunloppneumatictyrecompany/"
   },
+  "DunningKrugerEffect": {
+    "title": "Dunning-Kruger Effect",
+    "url": "/wiki/concepts/dunningkrugereffect/"
+  },
   "DuoduoMaicai": {
     "title": "多多买菜 / Duoduo Maicai",
     "url": "/wiki/entities/duoduomaicai/"
@@ -13143,6 +13155,10 @@
     "title": "Exposure-Dosage Causality",
     "url": "/wiki/concepts/exposuredosagecausality/"
   },
+  "ExternalFeedbackSelfCalibration": {
+    "title": "External Feedback Self-Calibration",
+    "url": "/wiki/concepts/externalfeedbackselfcalibration/"
+  },
   "ExternalPatronDependence": {
     "title": "External Patron Dependence",
     "url": "/wiki/concepts/externalpatrondependence/"
@@ -13258,6 +13274,10 @@
   "FailureDesensitization": {
     "title": "Failure Desensitization",
     "url": "/wiki/concepts/failuredesensitization/"
+  },
+  "FairComparisonFrames": {
+    "title": "Fair Comparison Frames",
+    "url": "/wiki/concepts/faircomparisonframes/"
   },
   "FairchildSemiconductor": {
     "title": "Fairchild Semiconductor",
@@ -21779,6 +21799,14 @@
     "title": "Learn Claude Code",
     "url": "/wiki/entities/learnclaudecode/"
   },
+  "LearnableEmotionalIntelligence": {
+    "title": "Learnable Emotional Intelligence",
+    "url": "/wiki/concepts/learnableemotionalintelligence/"
+  },
+  "LearningAheadOfReadiness": {
+    "title": "Learning Ahead of Readiness",
+    "url": "/wiki/concepts/learningaheadofreadiness/"
+  },
   "LearningEnvironmentCenteredAITraining": {
     "title": "Learning Environment Centered AI Training",
     "url": "/wiki/concepts/learningenvironmentcenteredaitraining/"
@@ -29835,6 +29863,10 @@
     "title": "Progress Data Visualization",
     "url": "/wiki/concepts/progressdatavisualization/"
   },
+  "ProgressTrackingSelfAssessment": {
+    "title": "Progress Tracking Self-Assessment",
+    "url": "/wiki/concepts/progresstrackingselfassessment/"
+  },
   "ProgressionFreeVsOverallSurvival": {
     "title": "Progression-Free vs Overall Survival",
     "url": "/wiki/concepts/progressionfreevsoverallsurvival/"
@@ -35042,6 +35074,10 @@
   "StephenCohen": {
     "title": "Stephen Cohen",
     "url": "/wiki/entities/stephencohen/"
+  },
+  "StephenMathis": {
+    "title": "Stephen Mathis",
+    "url": "/wiki/entities/stephenmathis/"
   },
   "StephenMiran": {
     "title": "Stephen Miran",
@@ -42178,6 +42214,10 @@
   "e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask": {
     "title": "E45 孟岩对话李继刚：人何以自处",
     "url": "/wiki/sources/e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask/"
+  },
+  "ep-3-demystifying-the-imposter-syndrome": {
+    "title": "EP 3: Demystifying the Imposter Syndrome",
+    "url": "/wiki/sources/ep-3-demystifying-the-imposter-syndrome/"
   },
   "ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx": {
     "title": "EP101 对话 Simon：AI 创业者的第一项基本功是把账算明白",
