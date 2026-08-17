@@ -7749,3 +7749,11 @@ Added source page for a How I Built This episode on Laura Modi founding Bobbie i
 ## [2026-08-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-17] ingest | Can an AI music company make nice with human artists?
+
+Added source page for a Marketplace Tech episode on Suno Spark, Suno's attempt to build artist partnerships while facing training-copyright lawsuits, generative AI music's creation/discovery tradeoff, and the music industry's simultaneous litigation-and-dealmaking response. Created pages for Suno, Suno Spark, Tatiana Cirasano, MIDiA Research, Universal Music Group, Sony Music, Warner Music Group, Generative AI Music, AI Training Copyright Dispute, AI Artist Development, Music Industry AI Response, and Artist Discovery Fragmentation; updated overview, index, Marketplace Tech, Creative Labor AI Backlash, Digital Music Licensing, Copyright Platform Conflict, AI Content Licensing, and AI Content Devaluation. No direct contradiction found; the source qualifies existing AI licensing and copyright-platform pages by showing that music AI can combine artist-support programs, active lawsuits, settlements, and discovery pressure in the same market moment.
+
+## [2026-08-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

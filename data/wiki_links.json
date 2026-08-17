@@ -1291,6 +1291,10 @@
     "title": "AI Application Survival Strategy",
     "url": "/wiki/concepts/aiapplicationsurvivalstrategy/"
   },
+  "AIArtistDevelopment": {
+    "title": "AI Artist Development",
+    "url": "/wiki/concepts/aiartistdevelopment/"
+  },
   "AIAsBusinessOperator": {
     "title": "AI As Business Operator",
     "url": "/wiki/concepts/aiasbusinessoperator/"
@@ -2070,6 +2074,10 @@
   "AITrainerLabor": {
     "title": "AI Trainer Labor",
     "url": "/wiki/concepts/aitrainerlabor/"
+  },
+  "AITrainingCopyrightDispute": {
+    "title": "AI Training Copyright Dispute",
+    "url": "/wiki/concepts/aitrainingcopyrightdispute/"
   },
   "AITrainingDataScarcity": {
     "title": "AI Training Data Scarcity",
@@ -4362,6 +4370,10 @@
   "ArtisanalAttention": {
     "title": "Artisanal Attention",
     "url": "/wiki/concepts/artisanalattention/"
+  },
+  "ArtistDiscoveryFragmentation": {
+    "title": "Artist Discovery Fragmentation",
+    "url": "/wiki/concepts/artistdiscoveryfragmentation/"
   },
   "ArtisticAchievementMoralAccountability": {
     "title": "Artistic Achievement Moral Accountability",
@@ -15399,6 +15411,10 @@
     "title": "Generational Technology Bridge",
     "url": "/wiki/concepts/generationaltechnologybridge/"
   },
+  "GenerativeAIMusic": {
+    "title": "Generative AI Music",
+    "url": "/wiki/concepts/generativeaimusic/"
+  },
   "GenerativeBiology": {
     "title": "Generative Biology",
     "url": "/wiki/concepts/generativebiology/"
@@ -23099,6 +23115,10 @@
     "title": "MI6 / British Secret Intelligence Service / 军情六处",
     "url": "/wiki/entities/mi6/"
   },
+  "MIDiAResearch": {
+    "title": "MIDiA Research",
+    "url": "/wiki/entities/midiaresearch/"
+  },
   "MIT": {
     "title": "MIT",
     "url": "/wiki/entities/mit/"
@@ -25594,6 +25614,10 @@
   "MuseImage": {
     "title": "Muse Image",
     "url": "/wiki/entities/museimage/"
+  },
+  "MusicIndustryAIResponse": {
+    "title": "Music Industry AI Response",
+    "url": "/wiki/concepts/musicindustryairesponse/"
   },
   "MusicalLy": {
     "title": "Musical.ly",
@@ -34147,6 +34171,10 @@
     "title": "Sony Magic Link",
     "url": "/wiki/entities/sonymagiclink/"
   },
+  "SonyMusic": {
+    "title": "Sony Music",
+    "url": "/wiki/entities/sonymusic/"
+  },
   "SonyPictures": {
     "title": "Sony Pictures",
     "url": "/wiki/entities/sonypictures/"
@@ -35339,6 +35367,14 @@
     "title": "Sunny / Sun Bum Mascot",
     "url": "/wiki/entities/sunnysunbummascot/"
   },
+  "Suno": {
+    "title": "Suno",
+    "url": "/wiki/entities/suno/"
+  },
+  "SunoSpark": {
+    "title": "Suno Spark",
+    "url": "/wiki/entities/sunospark/"
+  },
   "SuoYinReading": {
     "title": "索隐式阅读 / Suo Yin Reading",
     "url": "/wiki/concepts/suoyinreading/"
@@ -35926,6 +35962,10 @@
   "TataraKatsugoro": {
     "title": "多多良胜五郎 / Tatara Katsugoro",
     "url": "/wiki/entities/tatarakatsugoro/"
+  },
+  "TatianaCirasano": {
+    "title": "Tatiana Cirasano",
+    "url": "/wiki/entities/tatianacirasano/"
   },
   "TauLaw": {
     "title": "Tau Law",
@@ -37855,6 +37895,10 @@
     "title": "Universal High Income",
     "url": "/wiki/concepts/universalhighincome/"
   },
+  "UniversalMusicGroup": {
+    "title": "Universal Music Group",
+    "url": "/wiki/entities/universalmusicgroup/"
+  },
   "UniversityCollegeLondon": {
     "title": "University College London",
     "url": "/wiki/entities/universitycollegelondon/"
@@ -38798,6 +38842,10 @@
   "WarnerBrosDiscovery": {
     "title": "Warner Bros. Discovery",
     "url": "/wiki/entities/warnerbrosdiscovery/"
+  },
+  "WarnerMusicGroup": {
+    "title": "Warner Music Group",
+    "url": "/wiki/entities/warnermusicgroup/"
   },
   "WarrenBuffett": {
     "title": "Warren Buffett",
@@ -43430,6 +43478,10 @@
   "tech-20260814-tech-pod-128-tech-20260814-tech-pod-128": {
     "title": "States rush to police AI deepfakes ahead of midterm elections",
     "url": "/wiki/sources/tech-20260814-tech-pod-128-tech-20260814-tech-pod-128/"
+  },
+  "tech-20260817-tech-pod-128-tech-20260817-tech-pod-128": {
+    "title": "Can an AI music company make nice with human artists?",
+    "url": "/wiki/sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

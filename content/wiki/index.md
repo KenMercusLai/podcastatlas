@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Can an AI music company make nice with human artists?](sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128.md) — Marketplace Tech episode with Tatiana Cirasano on Suno Spark, AI music tools, artist development, copyright lawsuits, label settlements, and the music industry's simultaneous litigation-and-dealmaking response to generative AI.
 - [Bobbie: Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants](sources/bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69.md) — How I Built This episode on Bobbie, Laura Modi, infant formula stigma, FDA compliance, concentrated incumbents, DTC launch constraints, WIC access, and manufacturing control.
 - [Vans、匡威风光不再，经典帆布鞋为什么卖不动了？](sources/vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982.md) — 声动早咖啡 episode on Vans and Converse decline, comfort-led footwear demand, subculture mainstreaming dilution, heritage-product innovation debt, and short updates on JD.com, Didi, Apple China AI, and DeepSeek Harness.
 - [179: 蒸馏风暴：一场无人公开谈论的技术竞赛](sources/zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1.md) — LateTalk episode explaining model distillation as a technical, data-pipeline, ToS, organization, and business-model issue, with ByteDance's no-distillation stance, U.S. closed-lab accusations, and evidence standards for judging provenance.
@@ -968,6 +969,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Suno](entities/Suno.md) — Generative AI music company trying to reposition itself as artist-support infrastructure through Suno Spark while facing source-scoped training-copyright litigation.
+- [Suno Spark](entities/SunoSpark.md) — Suno artist-incubator program for unsigned musicians, combining grants, marketing support, artist development, and AI tools.
+- [Tatiana Cirasano](entities/TatianaCirasano.md) — MIDiA Research analyst explaining Suno Spark, AI music's discovery bottleneck, and the music industry's dual-track AI response.
+- [MIDiA Research](entities/MIDiAResearch.md) — Music and media research firm represented by Tatiana Cirasano in the Marketplace Tech AI music episode.
+- [Universal Music Group](entities/UniversalMusicGroup.md) — Music rights holder named in the source-scoped active litigation branch around Suno and AI training data.
+- [Sony Music](entities/SonyMusic.md) — Sony's music-rights-holder branch named in the source-scoped active litigation context around Suno.
+- [Warner Music Group](entities/WarnerMusicGroup.md) — Music rights holder that the source says settled with Suno and is working with the company.
 - [Bobbie](entities/Bobbie.md) — Infant formula startup built around European-style formula, feeding-stigma reduction, FDA compliance, DTC subscribers, and owned-manufacturing strategy.
 - [Laura Modi](entities/LauraModi.md) — Bobbie founder whose Google, Airbnb, motherhood, fundraising, recall, and supply-chain experiences anchor the source's founder story.
 - [Sarah Hardy](entities/SarahHardy.md) — Bobbie co-founder and COO chosen by Laura Modi as a culture-first operating partner from Airbnb.
@@ -6604,6 +6612,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Generative AI Music](concepts/GenerativeAIMusic.md) — AI-assisted music creation category where lower creation barriers collide with discovery, copyright, labor, and monetization bottlenecks.
+- [AI Training Copyright Dispute](concepts/AITrainingCopyrightDispute.md) — Legal and legitimacy conflict over using copyrighted works to train AI models, with Suno as the music-source case.
+- [AI Artist Development](concepts/AIArtistDevelopment.md) — Shift from AI music generation tools into artist funding, marketing, promotion, and career-support programs.
+- [Music Industry AI Response](concepts/MusicIndustryAIResponse.md) — Simultaneous litigation, licensing, partnership, and monetization strategy as the music industry responds to generative AI.
+- [Artist Discovery Fragmentation](concepts/ArtistDiscoveryFragmentation.md) — Bottleneck where easier music creation and release make being heard, followed, and paid harder in a crowded market.
 - [Infant Formula](concepts/InfantFormula.md) — Regulated baby-food category combining parental trust, FDA standards, manufacturing reliability, stigma, and public-benefit access.
 - [Formula Feeding Stigma](concepts/FormulaFeedingStigma.md) — Shame around using infant formula when breastfeeding is treated as the only acceptable feeding path.
 - [Infant Formula Regulatory Moat](concepts/InfantFormulaRegulatoryMoat.md) — Defensibility and burden created by FDA compliance, recall risk, manufacturing standards, and safety trust in formula.

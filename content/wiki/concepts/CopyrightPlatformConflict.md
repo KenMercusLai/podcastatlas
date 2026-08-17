@@ -2,11 +2,13 @@
 title: "Copyright Platform Conflict"
 type: concept
 tags: [copyright, platforms, media, legal-risk]
-sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2]
-last_updated: 2026-07-23
+sources: [tech-20260817-tech-pod-128-tech-20260817-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2]
+last_updated: 2026-08-17
 ---
 
 # Copyright Platform Conflict
+
+[[tech-20260817-tech-pod-128-tech-20260817-tech-pod-128]] adds the AI music-training version through [[Suno]]. The source's contrast between active lawsuits by [[UniversalMusicGroup]] and [[SonyMusic]] and settlement/work with [[WarnerMusicGroup]] shows a platform-rights conflict where the contested behavior is model training and AI-generated music, not only user distribution of copyrighted files.
 
 Copyright platform conflict is the collision between a platform that unlocks new user behavior and rights holders whose legal and economic control depends on restricting that behavior. In [[tsr-ronconway-part4-v2-tsr-ronconway-part4-v2]], [[Napster]] made music downloading mainstream before [[DigitalMusicLicensing]] and industry settlement caught up, while the [[RIAA]] lawsuit and injunction shut the service down.
 
@@ -20,9 +22,11 @@ The concept does not claim rights holders were irrelevant or that infringement w
 - Early settlement failure can destroy startup value and still leave the market to be rebuilt later by different services.
 - Legal exposure changes financing, governance, management, and acquisition options.
 - User-generated content platforms can face copyright conflict before their moderation, takedown, licensing, and business systems are mature.
+- Generative AI can shift the conflict from distribution access to training-data permission, output competition, artist consent, and model-company legitimacy.
 
 ## Connections
 - [[Scribd]], [[JaredFriedman]], [[BrianMendoza]], [[WilsonSonsini|Wilson Sonsini]], and [[UserGeneratedContentCopyrightRisk]] - document-platform copyright branch added by the Jared Friedman episode.
 - [[Napster]], [[RIAA]], [[SeanFanning]], and [[RonConway]] - source case.
 - [[Snowcap]] and [[DigitalMusicLicensing]] - post-conflict repair attempt.
 - [[YouTube]] and [[LegalRiskAcquirerFit]] - later media-platform contrast.
+- [[Suno]], [[AITrainingCopyrightDispute]], [[AIContentLicensing]], and [[MusicIndustryAIResponse]] - AI music branch added by Marketplace Tech.
