@@ -1575,6 +1575,10 @@
     "title": "AI-Era Major Choice / AI时代专业选择",
     "url": "/wiki/concepts/aieramajorchoice/"
   },
+  "AIExperimentDocumentation": {
+    "title": "AI Experiment Documentation",
+    "url": "/wiki/concepts/aiexperimentdocumentation/"
+  },
   "AIExportControls": {
     "title": "AI Export Controls",
     "url": "/wiki/concepts/aiexportcontrols/"
@@ -5671,6 +5675,10 @@
     "title": "Biodegradable Foam Packaging",
     "url": "/wiki/concepts/biodegradablefoampackaging/"
   },
+  "BioinformaticsDomainGap": {
+    "title": "Bioinformatics Domain Gap",
+    "url": "/wiki/concepts/bioinformaticsdomaingap/"
+  },
   "BiologicalAgency": {
     "title": "Biological Agency / 生物能动性",
     "url": "/wiki/concepts/biologicalagency/"
@@ -5814,6 +5822,10 @@
   "BlockchainFinancialInnovation": {
     "title": "Blockchain Financial Innovation",
     "url": "/wiki/concepts/blockchainfinancialinnovation/"
+  },
+  "BloodBrainBarrierPrediction": {
+    "title": "Blood-Brain Barrier Prediction",
+    "url": "/wiki/concepts/bloodbrainbarrierprediction/"
   },
   "BloodstainPatternAnalysis": {
     "title": "Bloodstain Pattern Analysis",
@@ -10391,6 +10403,10 @@
     "title": "Data Recipe Co-Creation",
     "url": "/wiki/concepts/datarecipecocreation/"
   },
+  "DataScienceWithSam": {
+    "title": "Data Science With Sam",
+    "url": "/wiki/entities/datasciencewithsam/"
+  },
   "DataToMemoryTransformation": {
     "title": "Data-to-Memory Transformation",
     "url": "/wiki/concepts/datatomemorytransformation/"
@@ -12155,6 +12171,10 @@
     "title": "Efficient Frontier",
     "url": "/wiki/concepts/efficientfrontier/"
   },
+  "EffieDataScienceWithSam": {
+    "title": "Effie (Data Science With Sam)",
+    "url": "/wiki/entities/effiedatasciencewithsam/"
+  },
   "EffortNarrativeInterrogation": {
     "title": "努力叙事追问 / Effort Narrative Interrogation",
     "url": "/wiki/concepts/effortnarrativeinterrogation/"
@@ -13062,6 +13082,10 @@
   "ExperimentalFailureAsKnowledge": {
     "title": "Experimental Failure As Knowledge",
     "url": "/wiki/concepts/experimentalfailureasknowledge/"
+  },
+  "ExperimentalScienceDataQuality": {
+    "title": "Experimental Science Data Quality",
+    "url": "/wiki/concepts/experimentalsciencedataquality/"
   },
   "ExperimentalScienceEthics": {
     "title": "Experimental Science Ethics",
@@ -17930,6 +17954,10 @@
   "HumanDependentSafetySystem": {
     "title": "Human-Dependent Safety System",
     "url": "/wiki/concepts/humandependentsafetysystem/"
+  },
+  "HumanDrivenScientificAI": {
+    "title": "Human-Driven Scientific AI",
+    "url": "/wiki/concepts/humandrivenscientificai/"
   },
   "HumanFlourishingProfit": {
     "title": "Human Flourishing Profit",
@@ -25479,6 +25507,10 @@
     "title": "Mortgage-Backed Securities Rate Policy",
     "url": "/wiki/concepts/mortgagebackedsecuritiesratepolicy/"
   },
+  "MossamDataScienceWithSam": {
+    "title": "Mossam (Data Science With Sam)",
+    "url": "/wiki/entities/mossamdatasciencewithsam/"
+  },
   "Mosuo": {
     "title": "Mosuo",
     "url": "/wiki/entities/mosuo/"
@@ -26154,6 +26186,10 @@
   "NegativeRealEstate": {
     "title": "Negative Real Estate / 负动产",
     "url": "/wiki/concepts/negativerealestate/"
+  },
+  "NegativeResultsAsScientificData": {
+    "title": "Negative Results As Scientific Data",
+    "url": "/wiki/concepts/negativeresultsasscientificdata/"
   },
   "NegotiationAsBargaining": {
     "title": "Negotiation As Bargaining / 谈判即商量",
@@ -30487,6 +30523,10 @@
     "title": "Racing Heritage Brand Moat",
     "url": "/wiki/concepts/racingheritagebrandmoat/"
   },
+  "RadiochemistryImagingTracers": {
+    "title": "Radiochemistry Imaging Tracers",
+    "url": "/wiki/concepts/radiochemistryimagingtracers/"
+  },
   "RadiopharmaceuticalDrugConjugates": {
     "title": "Radiopharmaceutical Drug Conjugates / RDC",
     "url": "/wiki/concepts/radiopharmaceuticaldrugconjugates/"
@@ -30774,6 +30814,10 @@
   "RecurringSupplementCommerce": {
     "title": "Recurring Supplement Commerce",
     "url": "/wiki/concepts/recurringsupplementcommerce/"
+  },
+  "RecursionPharma": {
+    "title": "Recursion Pharma",
+    "url": "/wiki/entities/recursionpharma/"
   },
   "Recursive": {
     "title": "Recursive",
@@ -31302,6 +31346,10 @@
   "RetrievalAugmentedGeneration": {
     "title": "Retrieval-Augmented Generation",
     "url": "/wiki/concepts/retrievalaugmentedgeneration/"
+  },
+  "RetrosynthesisAI": {
+    "title": "Retrosynthesis AI",
+    "url": "/wiki/concepts/retrosynthesisai/"
   },
   "ReturnOnEquityAnalysis": {
     "title": "Return On Equity Analysis",
@@ -32314,6 +32362,10 @@
   "SamBankmanFried": {
     "title": "Sam Bankman-Fried",
     "url": "/wiki/entities/sambankmanfried/"
+  },
+  "SamDataScienceWithSam": {
+    "title": "Sam (Data Science With Sam)",
+    "url": "/wiki/entities/samdatasciencewithsam/"
   },
   "SamUys": {
     "title": "Sam Uys",
@@ -41898,6 +41950,10 @@
   "dark-times-for-cubas-economic-experiment": {
     "title": "Dark times for Cuba's economic experiment",
     "url": "/wiki/sources/dark-times-for-cubas-economic-experiment/"
+  },
+  "data-ai-and-scientific-research-a-coffee-chat": {
+    "title": "Data, AI, and Scientific Research: A Coffee Chat",
+    "url": "/wiki/sources/data-ai-and-scientific-research-a-coffee-chat/"
   },
   "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d": {
     "title": "Dhaka matters: an election for Bangladesh",

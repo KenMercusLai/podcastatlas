@@ -2,8 +2,8 @@
 title: "Domain Expert Alignment"
 type: concept
 tags: [ai, expertise, product-development]
-sources: [ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, socialradarsseason1-tracyyoung-final-1]
-last_updated: 2026-08-07
+sources: [data-ai-and-scientific-research-a-coffee-chat, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, socialradarsseason1-tracyyoung-final-1]
+last_updated: 2026-08-18
 ---
 
 # Domain Expert Alignment
@@ -24,6 +24,8 @@ Domain expert alignment is the practice of bringing real subject-matter experts 
 
 [[tech-20260730-0730-mp-tech-pod-128-tech-20260730-0730-mp-tech-pod-128]] adds the human-centered research version. [[SriNarayanan]] argues that behavioral and mental-health AI cannot be addressed only by computer scientists; neuroscientists, clinicians, social-implication researchers, philosophers, and affected people all shape whether [[BehavioralSignalProcessing]] is useful, safe, and agency-preserving.
 
+[[data-ai-and-scientific-research-a-coffee-chat]] adds the bench-science version. [[EffieDataScienceWithSam|Effie]] describes a [[BioinformaticsDomainGap]] where computational analysts may miss biological context and biologists may lack coding depth, while [[MossamDataScienceWithSam|Mossam]] shows the same issue in chemistry and radiochemistry: AI-generated routes or predictions still need chemists who understand feasibility, safety, and experimental verification.
+
 ## Key Claims
 - Model researchers and engineers are not enough for every domain.
 - Coding needs software engineers who understand code quality, editing, tests, and developer workflows.
@@ -39,6 +41,7 @@ Domain expert alignment is the practice of bringing real subject-matter experts 
 - Lived workflow knowledge can be a defensible input when generic AI makes implementation and generic analysis cheap.
 - Non-AI vertical SaaS shows the same grounding problem: industry knowledge identifies real pain, while technical builders decide whether the product can actually serve the workflow.
 - Human-centered behavioral AI needs domain and ethics expertise because the signal being analyzed may reveal identity, vulnerability, or clinical context.
+- In laboratory science, domain alignment includes experimental design, biological interpretation, chemistry feasibility, failed-result context, and radioactive-safety oversight.
 
 ## Connections
 - [[MiniMax]] and [[YanJunjie]] — company and speaker context.
@@ -54,3 +57,4 @@ Domain expert alignment is the practice of bringing real subject-matter experts 
 - [[TracyYoung]], [[PlanGrid]], [[ConstructionBlueprintVersionControl]], and [[VerticalSaaSDomainExpertise]] - construction-software case where domain expertise and engineering capacity had to align.
 - [[MedicalAIEducation]], [[AIForScienceTalent]], [[TShapedAITalent]], and [[AIEraMajorChoice]] - EP266's education and talent-pipeline extension.
 - [[SriNarayanan]], [[BehavioralSignalProcessing]], [[HumanCenteredAIEducation]], and [[AIHealthManagement]] - USC source branch on interdisciplinary behavioral and mental-health AI research.
+- [[EffieDataScienceWithSam]], [[MossamDataScienceWithSam]], [[BioinformaticsDomainGap]], [[RetrosynthesisAI]], and [[RadiochemistryImagingTracers]] - experimental-science branch added by Data Science With Sam.

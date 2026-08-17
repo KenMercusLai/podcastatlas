@@ -7773,3 +7773,11 @@ Added source page for a The Intelligence episode on Zack Polanski and the Green 
 ## [2026-08-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-18] ingest | Data, AI, and Scientific Research: A Coffee Chat
+
+Added source page for a Data Science With Sam Coffee Chat with Sam, Effie, and Mossam on AI in experimental science. Created pages for Data Science With Sam, Sam, Effie, Mossam, Recursion Pharma, Experimental Science Data Quality, Bioinformatics Domain Gap, Retrosynthesis AI, Radiochemistry Imaging Tracers, Blood-Brain Barrier Prediction, Negative Results As Scientific Data, AI Experiment Documentation, and Human-Driven Scientific AI; updated overview, index, AI For Science, Scientific Discovery Automation, AI Drug Discovery Platform, Domain Expert Alignment, AI Verification, AlphaFold, Publication Bias, Experimental Failure As Knowledge, Stanford University, and University of Michigan. No direct contradiction found; the source qualifies scientific-AI optimism by tying useful model output to reliable experimental records, failed-result visibility, domain collaboration, reproducibility, and human safety oversight.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

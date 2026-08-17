@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Data, AI, and Scientific Research: A Coffee Chat](sources/data-ai-and-scientific-research-a-coffee-chat.md) — Data Science With Sam Coffee Chat with Effie and Mossam on AI in biology, chemistry, radiochemistry, data quality, negative results, experiment documentation, retrosynthesis, and human-driven scientific AI.
 - [It’s not easy being Green: Zack Polanski](sources/its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0.md) — The Intelligence episode on Zack Polanski's Green Party, eco-populism, youth precarity politics, synthetic spud cells, life-definition boundaries, and why human travel agents still persist alongside AI planning.
 - [激发动物精神，创造更多机会](sources/jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe.md) — 面基 episode with 周洛华 on the revised 《比特本位》, Bitcoin as monetary-history problem, risk-cost separation, decentralization as opportunity creation, animal spirits, fiat-era capital markets, AI human value, and speculative decentralized agent identity.
 - [Can an AI music company make nice with human artists?](sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128.md) — Marketplace Tech episode with Tatiana Cirasano on Suno Spark, AI music tools, artist development, copyright lawsuits, label settlements, and the music industry's simultaneous litigation-and-dealmaking response to generative AI.
@@ -971,6 +972,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for a first Coffee Chat grounding data science and AI in experimental biology, chemistry, and scientific research practice.
+- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of the Data Science With Sam Coffee Chat on AI, data, and scientific research.
+- [Effie (Data Science With Sam)](entities/EffieDataScienceWithSam.md) — Biology-focused guest emphasizing experimental records, bioinformatics collaboration, quality control, and AI lab documentation.
+- [Mossam (Data Science With Sam)](entities/MossamDataScienceWithSam.md) — Stanford research scientist guest explaining retrosynthesis AI, radiochemistry tracers, blood-brain-barrier prediction, negative chemistry data, and radioactive-safety oversight.
+- [Recursion Pharma](entities/RecursionPharma.md) — AI drug-discovery company cited as a source-scoped example of commercial small-molecule prediction.
+- [Stanford University](entities/StanfordUniversity.md) — University context for Google research/sourcing, DoorDash, Garry Tan, Noora Health, Modern Treasury, teen chatbot safety, and Mossam's radiochemistry/imaging research.
 - [Zack Polanski](entities/ZackPolanski.md) — Green Party leader profiled as an eco-populist figure using biography, performance, Gaza politics, and economic grievance to reach younger voters.
 - [Green Party of England and Wales](entities/GreenPartyOfEnglandAndWales.md) — British Green Party branch framed through Zack Polanski as shifting from environmental identity toward eco-populist economic grievance.
 - [Andrew Miller](entities/AndrewMiller.md) — The Intelligence reporter whose Zack Polanski profile links biography, performance, controversy, and anti-centrist voter movement.
@@ -5345,7 +5352,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UC Berkeley](entities/UCBerkeley.md) — Institutional affiliation for Britt Young in the Marketplace Tech prosthetics episode.
 - [Open Bionics](entities/OpenBionics.md) — British 3D-printed prosthetics firm discussed as an availability option that still faces insurance-coverage barriers.
 - [Daria Georgievich](entities/DariaGeorgievich.md) — Psychiatrist explaining why consumer chatbots are unsafe mental-health supports for teens, especially in longer conversations.
-- [Stanford University](entities/StanfordUniversity.md) — University context for Google research/sourcing, DoorDash, Garry Tan, Noora Health, Modern Treasury, and teen chatbot safety.
 - [Common Sense Media](entities/CommonSenseMedia.md) — Co-cited report source anchoring the child- and teen-safety side of the chatbot mental-health discussion.
 - [Columbia University](entities/ColumbiaUniversity.md) — Institutional context for Daria Georgievich's teen-chatbot-risk expertise and for Jack Rao's graduate study in E236.
 - [Kiyosumi-Shirakawa / 清澄白河](entities/KiyosumiShirakawa.md) — Tokyo neighborhood used to explain authentic, low-pressure coffee and street experience through Blue Bottle's Asia first store.
@@ -6628,6 +6634,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Experimental Science Data Quality](concepts/ExperimentalScienceDataQuality.md) — Research-method frame where useful scientific AI depends on careful experimental records, provenance, quality control, protocol deviations, and reproducibility.
+- [Bioinformatics Domain Gap](concepts/BioinformaticsDomainGap.md) — Collaboration gap between biological context and computational analysis skill that can limit AI and big-data use in biology.
+- [Retrosynthesis AI](concepts/RetrosynthesisAI.md) — AI-assisted backward planning for chemical synthesis, constrained by published reaction data, negative results, feasibility, and human chemistry judgment.
+- [Radiochemistry Imaging Tracers](concepts/RadiochemistryImagingTracers.md) — Radioactively labeled molecules for biomedical imaging, where AI synthesis planning must account for late-stage labeling, timing, reproducibility, and safety.
+- [Blood-Brain Barrier Prediction](concepts/BloodBrainBarrierPrediction.md) — ML use case for estimating whether candidate molecules can penetrate the brain based on molecular properties and validated experimental data.
+- [Negative Results As Scientific Data](concepts/NegativeResultsAsScientificData.md) — Claim that failed, null, and non-working experiments become useful scientific and model-training data only when recorded with enough context.
+- [AI Experiment Documentation](concepts/AIExperimentDocumentation.md) — Future lab-assistant role where AI and cameras could record experiment steps, deviations, inputs, and outputs as an audit trail.
+- [Human-Driven Scientific AI](concepts/HumanDrivenScientificAI.md) — Source stance that AI should support scientific pattern recognition, planning, and documentation while human creativity, judgment, and safety oversight remain responsible.
 - [Eco-Populism](concepts/EcoPopulism.md) — Green political style that keeps environmental identity while foregrounding economic grievance, redistribution, anti-elite rhetoric, and youth-facing material frustration.
 - [Youth Precarity Politics](concepts/YouthPrecarityPolitics.md) — Pattern where insecure work, high rents, weaker graduate routes, and centrist disillusionment make young voters receptive to anti-establishment politics.
 - [Synthetic Spud Cells](concepts/SyntheticSpudCells.md) — Lab-built cell-like systems that reproduce for limited generations and expose the engineering boundary around life.
