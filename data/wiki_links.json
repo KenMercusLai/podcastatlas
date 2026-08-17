@@ -3891,6 +3891,10 @@
     "title": "Animal Reproductive Strategies",
     "url": "/wiki/concepts/animalreproductivestrategies/"
   },
+  "AnimalSpiritsOpportunityActivation": {
+    "title": "Animal Spirits Opportunity Activation / 动物精神与机会激活",
+    "url": "/wiki/concepts/animalspiritsopportunityactivation/"
+  },
   "AnimalWelfareAsPublicHealth": {
     "title": "Animal Welfare As Public Health",
     "url": "/wiki/concepts/animalwelfareaspublichealth/"
@@ -5718,6 +5722,10 @@
   "BirthRitualMedicalConflict": {
     "title": "Birth Ritual Medical Conflict",
     "url": "/wiki/concepts/birthritualmedicalconflict/"
+  },
+  "BitStandardBook": {
+    "title": "《比特本位》 / The Bit Standard",
+    "url": "/wiki/entities/bitstandardbook/"
   },
   "Bitcoin": {
     "title": "Bitcoin",
@@ -9871,6 +9879,10 @@
     "title": "Currency Credit",
     "url": "/wiki/concepts/currencycredit/"
   },
+  "CurrencyOriginBook": {
+    "title": "《货币起源》 / The Origin of Money",
+    "url": "/wiki/entities/currencyoriginbook/"
+  },
   "CurrencyRisk": {
     "title": "Currency Risk",
     "url": "/wiki/concepts/currencyrisk/"
@@ -10566,6 +10578,10 @@
   "DecentLifeAsControl": {
     "title": "Decent Life As Control",
     "url": "/wiki/concepts/decentlifeascontrol/"
+  },
+  "DecentralizedAgentIdentity": {
+    "title": "Decentralized Agent Identity / 去中心化智能体身份",
+    "url": "/wiki/concepts/decentralizedagentidentity/"
   },
   "DecentralizedWorldModelStrategy": {
     "title": "Decentralized World Model Strategy",
@@ -13710,6 +13726,10 @@
   "Fiat": {
     "title": "Fiat",
     "url": "/wiki/entities/fiat/"
+  },
+  "FiatCapitalMarketDecentralization": {
+    "title": "Fiat Capital-Market Decentralization / 纸币时代的资本市场去中心化",
+    "url": "/wiki/concepts/fiatcapitalmarketdecentralization/"
   },
   "FiatChryslerAutomobiles": {
     "title": "Fiat Chrysler Automobiles",
@@ -17919,6 +17939,10 @@
     "title": "Human Taste as AI Training Signal / 人的品味作为AI训练信号",
     "url": "/wiki/concepts/humantasteasaitrainingsignal/"
   },
+  "HumanValueAIDeployment": {
+    "title": "Human-Value AI Deployment / 提高人的价值以部署 AI",
+    "url": "/wiki/concepts/humanvalueaideployment/"
+  },
   "HumanValueBeyondEfficiency": {
     "title": "Human Value Beyond Efficiency",
     "url": "/wiki/concepts/humanvaluebeyondefficiency/"
@@ -20142,6 +20166,10 @@
   "JohnLocke": {
     "title": "John Locke / 约翰·洛克",
     "url": "/wiki/entities/johnlocke/"
+  },
+  "JohnMaynardKeynes": {
+    "title": "John Maynard Keynes / 凯恩斯",
+    "url": "/wiki/entities/johnmaynardkeynes/"
   },
   "JohnMussington": {
     "title": "John Mussington",
@@ -26215,6 +26243,10 @@
     "title": "Nevada",
     "url": "/wiki/entities/nevada/"
   },
+  "NevilleChamberlain": {
+    "title": "Neville Chamberlain / 张伯伦",
+    "url": "/wiki/entities/nevillechamberlain/"
+  },
   "NewBalance": {
     "title": "New Balance",
     "url": "/wiki/entities/newbalance/"
@@ -27334,6 +27366,10 @@
   "OpportunityCost": {
     "title": "Opportunity Cost",
     "url": "/wiki/concepts/opportunitycost/"
+  },
+  "OpportunityGeneratingDecentralization": {
+    "title": "Opportunity-Generating Decentralization / 创造机会的去中心化",
+    "url": "/wiki/concepts/opportunitygeneratingdecentralization/"
   },
   "OppositionLegitimacyGap": {
     "title": "Opposition Legitimacy Gap",
@@ -29771,6 +29807,10 @@
     "title": "Proof of Life Diplomacy",
     "url": "/wiki/concepts/proofoflifediplomacy/"
   },
+  "ProofOfWorkMonetaryValidation": {
+    "title": "Proof-of-Work Monetary Validation / 工作量证明的货币验证",
+    "url": "/wiki/concepts/proofofworkmonetaryvalidation/"
+  },
   "ProofPointReuse": {
     "title": "Proof Point Reuse",
     "url": "/wiki/concepts/proofpointreuse/"
@@ -31422,6 +31462,10 @@
   "RiskBudgetedAbsoluteReturn": {
     "title": "Risk-Budgeted Absolute Return / 风险预算绝对收益",
     "url": "/wiki/concepts/riskbudgetedabsolutereturn/"
+  },
+  "RiskCostSeparation": {
+    "title": "Risk-Cost Separation / 风险与成本分离",
+    "url": "/wiki/concepts/riskcostseparation/"
   },
   "RiskParity": {
     "title": "Risk Parity",
@@ -38427,6 +38471,10 @@
     "title": "Vitus Bering / 维图斯·白令",
     "url": "/wiki/entities/vitusbering/"
   },
+  "VivianaZelizer": {
+    "title": "Viviana Zelizer / 泽利泽",
+    "url": "/wiki/entities/vivianazelizer/"
+  },
   "Vivo": {
     "title": "vivo",
     "url": "/wiki/entities/vivo/"
@@ -41287,6 +41335,10 @@
     "title": "周开亚 / Zhou Kaiya",
     "url": "/wiki/entities/zhoukaiya/"
   },
+  "ZhouLuohua": {
+    "title": "Zhou Luohua / 周洛华",
+    "url": "/wiki/entities/zhouluohua/"
+  },
   "ZhouMing": {
     "title": "周明",
     "url": "/wiki/entities/zhouming/"
@@ -42478,6 +42530,10 @@
   "jiaqi-moyu-geng-jiankang-574391976": {
     "title": "假期摸鱼更健康",
     "url": "/wiki/sources/jiaqi-moyu-geng-jiankang-574391976/"
+  },
+  "jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe": {
+    "title": "激发动物精神，创造更多机会",
+    "url": "/wiki/sources/jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe/"
   },
   "jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652": {
     "title": "旧世代电台28 | 实体游戏的时代终结之际，不如重新定义拥有",

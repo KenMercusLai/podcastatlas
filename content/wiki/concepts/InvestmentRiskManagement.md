@@ -3,6 +3,7 @@ title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
 sources:
+  - jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe
   - a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx
   - cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8
   - suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq
@@ -61,10 +62,12 @@ sources:
   - vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb
   - ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv
   - 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc
-last_updated: 2026-08-08
+last_updated: 2026-08-17
 ---
 
 # Investment Risk Management
+
+[[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]] adds [[ZhouLuohua|周洛华]]'s risk-versus-cost and governance version. The source says honest investing starts by refusing guru worship, then asks investors to inspect the left side of the balance sheet, business opportunity, and [[ManagementShareholderAlignmentRisk|company governance]] rather than treating price, debt, or celebrity confidence as enough. It also treats capital-market reform through [[FiatCapitalMarketDecentralization]] as a risk-management problem for public shareholders.
 
 [[cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8]] adds the advance-information version. In the source's [[AdvanceNewsTradingExperiment]], tomorrow's headlines improve neither human nor AI trading enough unless the trader also reads the [[MarketExpectationGap]], sizes positions according to confidence, limits leverage, and is willing not to trade.
 
@@ -191,6 +194,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 - Insurance planning should distinguish [[InsuranceRiskTransfer]] from investment return seeking; [[SavingsStyleInsurance]] may fit long-term goals only when cash flow, liquidity, guarantees, and household obligations are understood.
 - In an A-share bull market, account readiness, trading permissions, bank-securities transfer, leverage rules, and product eligibility are part of risk management rather than administrative details.
 - A positive [[PolicyDrivenMarketRally]] still requires entry-price, sizing, exit, and no-leverage discipline because policy can ignite prices faster than fundamentals improve.
+- The 面基 source adds that risk should not be confused with cost: a cheap market can still be uninvestable if governance, legal, or business risk is high, while higher-cost environments can still create opportunity if risk is controlled.
 - Cross-border investing adds route risk: platform convenience, offshore account access, and trade sharing do not solve [[CapitalAccountInvestmentRestrictions]] or [[CrossBorderBrokerageRegulation]].
 - Compliant access channels such as [[HongKongStockConnect]], [[QDIIAllocation]], and [[CrossBorderWealthManagementConnect]] still require product, quota, market, valuation, and [[CurrencyRisk]] judgment.
 - Company-level risk management should include [[FinancialStatementAnalysis]]: profit, balance-sheet assets, liabilities, and cash flow must tell a coherent story before a thesis deserves serious capital.
@@ -289,6 +293,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[HousingExperienceInvestmentSplit]], [[HongKong]], [[Shenzhen]], and [[Guangzhou]] — FengTouQuan episode 137's housing-as-experience versus housing-as-investment extension.
 - [[HumanRiskOverride]], [[ShortTermStatisticalArbitrage]], [[QuantitativeDataMoat]], [[AlphaDecay]], [[RenaissanceTechnologies]], and [[MedallionFund]] — vol.103's professional-quant survival extension.
 - [[HongKongRetailInvestorSurvival]], [[HongKongPennyStockRisk]], [[HongKongLiquidityExitRisk]], [[ManagementShareholderAlignmentRisk]], [[SellSideResearchIncentives]], [[AHShareDiscountRepricing]], [[HongKongIPOLiquidityPath]], and [[HongKongTripleRerating]] — vol.104's Hong Kong retail-stock-picking survival cluster.
+- [[RiskCostSeparation]], [[FiatCapitalMarketDecentralization]], and [[AnimalSpiritsOpportunityActivation]] - 面基 source branch connecting investment risk to opportunity and governance.
 - [[PortfolioSuitability]], [[AdaptivePortfolioDesign]], [[InvestmentCooldownDiscipline]], and [[CircleOfCompetence]] — vol.105's portfolio-fit, liquidity, and behavioral-process cluster.
 - [[PersonalPensionAccount|个人养老金账户]], [[TargetDateFund|目标日期基金]], [[FOFProductDesign]], and [[PassiveInvesting]] — vol.109's pension-account risk and product-choice cluster.
 - [[InvestmentWorldviewFit]], [[RiskPerception]], [[HumanCapitalInflationHedge]], and [[TheCenturyTrilogy]] — vol.110's worldview, psychology, and historical-uncertainty extension.

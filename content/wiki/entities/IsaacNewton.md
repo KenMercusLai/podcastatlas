@@ -2,11 +2,13 @@
 title: "Isaac Newton / 牛顿"
 type: entity
 tags: [person, science-history, mathematics, physics, monetary-history]
-sources: [ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317]
-last_updated: 2026-08-07
+sources: [jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe, ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317]
+last_updated: 2026-08-17
 ---
 
 # Isaac Newton / 牛顿
+
+[[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]] adds Newton to [[ProofOfWorkMonetaryValidation|proof-of-work monetary validation]]. [[ZhouLuohua|周洛华]] praises Newton's role in removing silver coins' legal-tender privilege, reading it as a monetary fairness move that prevented more powerful actors from using bimetallic loopholes against ordinary creditors.
 
 [[26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317]] presents Isaac Newton as a figure whose scientific genius was inseparable from personal severity, religious seriousness, experimental risk, institutional networks, and later state service. The episode moves from his unhappy childhood and Cambridge isolation into mathematics, optics, mechanics, and the publication of the Principia after [[EdmondHalley|Edmond Halley]] pushed him to write and circulate his results.
 
@@ -19,6 +21,7 @@ The source's distinctive contribution is Newton's late career at the [[RoyalMint
 - His optical research included extreme [[SelfExperimentation]], making curiosity and bodily risk part of the episode's Newton portrait.
 - His secret alchemy is read through [[NewtonianAlchemyTheology]], not as a simple contradiction of science.
 - His Royal Mint work connected monetary theory, factory administration, law, and intelligence-gathering.
+- The 面基 source adds a fairness reading of Newton's silver-coin action: monetary rules should close privileged routes that let some actors exploit ordinary creditors.
 - The [[SeverusSnape|Snape]] comparison is a character analogy about isolation and bitterness, not a demonstrated literary genealogy.
 - Episode 256 uses Newtonian mechanics as an intellectual ancestor of modern determinist pressure on free-will intuitions.
 
@@ -26,6 +29,7 @@ The source's distinctive contribution is Newton's late career at the [[RoyalMint
 - [[NewtonAndTheCounterfeiter|《牛顿与伪币制造者》]] - source book discussed by the episode.
 - [[FreeWill]], [[CausalDeterminism]], [[PierreSimonLaplace]], and [[LaplacesDemon]] - EP256 determinism branch.
 - [[RoyalMint|Royal Mint / 皇家造币厂]], [[GreatRecoinage]], [[GreshamsLaw]], and [[CurrencyCredit]] - monetary branch.
+- [[ProofOfWorkMonetaryValidation]], [[BitStandardBook]], and [[OpportunityGeneratingDecentralization]] - 面基 monetary fairness branch.
 - [[WilliamChaloner|William Chaloner / 查罗纳]] - counterfeiter pursued by Newton.
 - [[EdmondHalley]], [[JohnLocke]], [[RobertHooke]], [[RobertBoyle]], and [[ChristiaanHuygens]] - scientific and philosophical network.
 - [[SouthSeaCompany|South Sea Company / 南海公司]] - later investment mania that punctures the pure-genius image.

@@ -2,11 +2,13 @@
 title: "Currency Anchor Transition / 货币锚转换"
 type: concept
 tags: [money, macro, currency, investing]
-sources: [vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119, 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
-last_updated: 2026-08-08
+sources: [jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe, vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119, 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+last_updated: 2026-08-17
 ---
 
 # Currency Anchor Transition / 货币锚转换
+
+[[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]] adds a [[BitStandardBook|《比特本位》]] version through [[ZhouLuohua|周洛华]]. The source treats [[Bitcoin]] as more than a possible portfolio hedge: it becomes a candidate for decentralized validation, future agent identity, and a pre-next-production-relation monetary form. The page keeps that projection source-scoped because existing sources still qualify Bitcoin's payment practicality and crisis safe-haven behavior.
 
 [[155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi]] adds an ultra-long gold-pricing version. The source reads gold's rally as a partial sign that the dollar and [[USTreasury|Treasury]] anchor is being questioned, citing the comparison between the value of global above-ground gold and U.S. Treasury debt as a way to make the anchor problem visible. It still keeps the claim probabilistic: the dollar system is fragile but not near-term dead, because global finance remains built on it.
 
@@ -29,6 +31,7 @@ The concept links macro uncertainty to asset allocation. When a dominant anchor 
 - Vol.269 adds that a local anchor change can feed equity speculation when investors treat currency strength and inflows as validation of a rising market.
 
 ## Connections
+- [[ProofOfWorkMonetaryValidation]], [[FiatCapitalMarketDecentralization]], and [[DecentralizedAgentIdentity]] - 面基 extension from anchor transition into validation, capital markets, and AI-agent identity.
 - [[GoldAsCurrencySpareTire]], [[GoldMonetaryAnchor]], and [[CurrencyRisk]] - main portfolio and hedge implications.
 - [[USTreasury]], [[FederalReserve]], [[PeoplesBankOfChina]], [[China]], and [[UnitedStates]] - dollar, Treasury, RMB, and real-economy network contexts.
 - [[Bitcoin]], [[DigitalGold]], and [[BitcoinSafeHavenBehavior]] - digital-network candidate and its qualifications.

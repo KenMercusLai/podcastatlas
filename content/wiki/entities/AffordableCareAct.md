@@ -2,11 +2,13 @@
 title: "Affordable Care Act / 奥巴马医改"
 type: entity
 tags: [law, healthcare, insurance, united-states]
-sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209]
-last_updated: 2026-08-06
+sources: [jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209]
+last_updated: 2026-08-17
 ---
 
 # Affordable Care Act / 奥巴马医改
+
+[[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]] adds [[ZhouLuohua|周洛华]]'s risk-versus-cost critique. The source treats [[BarackObama|Obama]]'s health reform as an effort that lowered insurance purchase cost more than it lowered the underlying legal, operating, insurance, and medical-business risks inside the U.S. health-care system. This complements the wiki's prior view of the ACA as meaningful but structurally partial.
 
 [[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds the ACA as the immediate subsidy-conflict issue in a U.S. government shutdown discussion. The source says expiring Obamacare subsidies became a Democratic bargaining demand and a Republican messaging target, turning health-insurance affordability into [[PoliticalVetoPointBargaining]].
 
@@ -20,6 +22,7 @@ The episode also uses the Affordable Care Act to discuss freedom and public inte
 
 ## Connections
 - [[BarackObama]] - administration and reform association.
+- [[RiskCostSeparation]], [[MedicalRiskManagement]], and [[HumanValueAIDeployment]] - 面基 critique that purchase-cost relief did not fully lower medical-system risk.
 - [[UnitedStates]] and [[USFederalismVetoPoints]] - institutional context for why reform was difficult and partial.
 - [[UnitedHealthcare]] and [[USHealthInsuranceDenialPolitics]] - private-insurance structure that persisted after reform.
 - [[HealthInsurancePlanning]] - adjacent wiki page about household coverage, distinct from this source's system-level U.S. reform problem.

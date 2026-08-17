@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [激发动物精神，创造更多机会](sources/jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe.md) — 面基 episode with 周洛华 on the revised 《比特本位》, Bitcoin as monetary-history problem, risk-cost separation, decentralization as opportunity creation, animal spirits, fiat-era capital markets, AI human value, and speculative decentralized agent identity.
 - [Can an AI music company make nice with human artists?](sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128.md) — Marketplace Tech episode with Tatiana Cirasano on Suno Spark, AI music tools, artist development, copyright lawsuits, label settlements, and the music industry's simultaneous litigation-and-dealmaking response to generative AI.
 - [Bobbie: Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants](sources/bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69.md) — How I Built This episode on Bobbie, Laura Modi, infant formula stigma, FDA compliance, concentrated incumbents, DTC launch constraints, WIC access, and manufacturing control.
 - [Vans、匡威风光不再，经典帆布鞋为什么卖不动了？](sources/vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982.md) — 声动早咖啡 episode on Vans and Converse decline, comfort-led footwear demand, subculture mainstreaming dilution, heritage-product innovation debt, and short updates on JD.com, Didi, Apple China AI, and DeepSeek Harness.
@@ -969,6 +970,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Zhou Luohua / 周洛华](entities/ZhouLuohua.md) — Finance and monetary-history thinker using the revised 《比特本位》 to connect Bitcoin, risk, opportunity, AI, and human value.
+- [《比特本位》 / The Bit Standard](entities/BitStandardBook.md) — Zhou Luohua book discussed as a Bitcoin, monetary-history, proof-of-work, and production-relations frame.
+- [《货币起源》 / The Origin of Money](entities/CurrencyOriginBook.md) — Zhou Luohua book reference linking his broader monetary project to money flow and currency-anchor questions.
+- [John Maynard Keynes / 凯恩斯](entities/JohnMaynardKeynes.md) — Economist used in the 面基 source to frame animal spirits as opportunity-activated investment, consumption, and action.
+- [Neville Chamberlain / 张伯伦](entities/NevilleChamberlain.md) — Historical policy example used by the source for equipment replacement, industrial upgrading, and opportunity-based selection.
+- [Viviana Zelizer / 泽利泽](entities/VivianaZelizer.md) — Sociologist cited in the source's argument that courts and institutions can raise the priced value of human life.
 - [Suno](entities/Suno.md) — Generative AI music company trying to reposition itself as artist-support infrastructure through Suno Spark while facing source-scoped training-copyright litigation.
 - [Suno Spark](entities/SunoSpark.md) — Suno artist-incubator program for unsigned musicians, combining grants, marketing support, artist development, and AI tools.
 - [Tatiana Cirasano](entities/TatianaCirasano.md) — MIDiA Research analyst explaining Suno Spark, AI music's discovery bottleneck, and the music industry's dual-track AI response.
@@ -6612,6 +6619,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Risk-Cost Separation / 风险与成本分离](concepts/RiskCostSeparation.md) — Source frame distinguishing cost reduction from risk reduction across debt, investing, health care, and industrial policy.
+- [Opportunity-Generating Decentralization / 创造机会的去中心化](concepts/OpportunityGeneratingDecentralization.md) — Claim that decentralization creates entry, selection, and renewal while centralization lowers consensus cost and creates order.
+- [Animal Spirits Opportunity Activation / 动物精神与机会激活](concepts/AnimalSpiritsOpportunityActivation.md) — Macro-confidence frame where believable opportunity restarts investment, consumption, and action.
+- [Proof-of-Work Monetary Validation / 工作量证明的货币验证](concepts/ProofOfWorkMonetaryValidation.md) — Monetary-history bridge from gold coinage and Royal Mint rules to Bitcoin mining and AI-era human work proof.
+- [Fiat Capital-Market Decentralization / 纸币时代的资本市场去中心化](concepts/FiatCapitalMarketDecentralization.md) — Argument that capital markets can provide decentralized opportunity inside a centrally issued fiat-money system if governance is trustworthy.
+- [Human-Value AI Deployment / 提高人的价值以部署 AI](concepts/HumanValueAIDeployment.md) — Claim that AI deployment needs law, medicine, insurance, and incentives to make human care, explanation, and safety valuable.
+- [Decentralized Agent Identity / 去中心化智能体身份](concepts/DecentralizedAgentIdentity.md) — Speculative Bitcoin-and-AI idea that future agents may need decentralized identity, accounts, and reward infrastructure.
 - [Generative AI Music](concepts/GenerativeAIMusic.md) — AI-assisted music creation category where lower creation barriers collide with discovery, copyright, labor, and monetization bottlenecks.
 - [AI Training Copyright Dispute](concepts/AITrainingCopyrightDispute.md) — Legal and legitimacy conflict over using copyrighted works to train AI models, with Suno as the music-source case.
 - [AI Artist Development](concepts/AIArtistDevelopment.md) — Shift from AI music generation tools into artist funding, marketing, promotion, and career-support programs.

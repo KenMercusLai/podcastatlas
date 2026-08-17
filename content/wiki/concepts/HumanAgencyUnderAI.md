@@ -2,11 +2,13 @@
 title: "Human Agency Under AI"
 type: concept
 tags: [ai, agency, life-design, work]
-sources: [suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx, ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 174-du-dikaer-shi-jian-dashi-966856702, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
-last_updated: 2026-08-10
+sources: [jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe, suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i, ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx, ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, 132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo, 174-du-dikaer-shi-jian-dashi-966856702, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
+last_updated: 2026-08-17
 ---
 
 # Human Agency Under AI
+
+[[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]] adds a machine-motivation boundary. [[ZhouLuohua|周洛华]] describes current large language models as closer to probability and imitation than to full motivated intelligence, then argues that future action-capable systems would need identity, accounts, reward, and conflict-management layers such as [[DecentralizedAgentIdentity]]. This keeps human agency tied not only to personal choice, but also to whether machine agency is institutionally constrained.
 
 [[suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]] adds an existential version of the agency problem. The episode asks what people should do with life if machines handle the required tasks, and answers through [[HumanValueBeyondEfficiency]]: agency may sit in choosing slow, inefficient, emotionally meaningful actions rather than optimizing every available process.
 
@@ -61,6 +63,7 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 - Episode 154 adds that agency can be lost at the moment of first recourse: asking AI too early may skip the user's own forming of judgment.
 - Episode 256 adds that agency under AI inherits the older free-will problem: choices are causally constrained, but still matter when they organize meaning, responsibility, body, and action.
 - Future AI agency becomes a governance risk if systems gain their own goals and meanings rather than remaining delegated tools.
+- The 面基 source adds that agent identity, accounts, reward functions, and decentralized constraints become part of the agency problem once machines move from language output toward motivated action.
 - The Qizhulou source adds a second-order agency problem: humans are currently the taste and value source for AI, but their expressed taste can become training data that reduces future demand for ordinary human judgment.
 - The Liu Kefan source adds that agency includes deciding what AI should not decide: life direction, business interest, and locally grounded tradeoffs remain the user's responsibility.
 
@@ -82,5 +85,6 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 - [[LiJigang]], [[WetStateHumanAgency]], [[FeedCuration]], and [[WaterFireEducation]] — E45's AI-era self-disposition and education branch.
 - [[YangLingfeng]], [[SelfDirectedLearning]], [[LearningExperienceDesign]], and [[AIShortcutRisk]] — K12 learning-agency branch.
 - [[ChaSheng]], [[HumanTasteAsAITrainingSignal]], [[CognitiveDebt]], [[ModelValueEmbedding]], and [[HumanConnectionUnderAI]] - Qizhulou Yan Binke branch on human value after AI absorbs more production.
+- [[DecentralizedAgentIdentity]], [[AgentPaymentInfrastructure]], [[AIAlignmentGovernance]], and [[HumanValueAIDeployment]] - 面基 branch on agent motivation and human value.
 - [[LowDesireDefensiveContraction]], [[SocialTemplateDesire]], [[ControllableLifeAnchors]], and [[RuleBoundOverthinking]] - episode 132's usefulness-anxiety and life-design extension.
 - [[LiuKefan]], [[TryCatchFinallySelfManagement]], [[AIEngineeringThinking]], and [[HumanAsAgentTool]] - Hard Hacker branch on independent-builder agency and task delegation.

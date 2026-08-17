@@ -2,11 +2,13 @@
 title: "Barack Obama"
 type: entity
 tags: [person, politics, publishing, media]
-sources: [tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, why-economists-got-free-trade-with-china-so-wrong, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, dark-times-for-cubas-economic-experiment, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]
-last_updated: 2026-07-25
+sources: [jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe, tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, why-economists-got-free-trade-with-china-so-wrong, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, dark-times-for-cubas-economic-experiment, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]
+last_updated: 2026-08-17
 ---
 
 # Barack Obama
+
+[[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]] adds Obama through [[ZhouLuohua|周洛华]]'s critique of the [[AffordableCareAct|Affordable Care Act]]. The source says the reform lowered the cost of buying insurance more than it lowered the underlying legal, medical, operating, and insurance risks, making Obama part of the episode's broader [[RiskCostSeparation]] frame.
 
 [[sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209]] adds Obama through [[AffordableCareAct|Obamacare]] as health-care reform rather than personal biography. The source treats the Affordable Care Act as a real improvement against practices such as preexisting-condition denial, but also as a compromise that left the private-insurer and employer-insurance structure central to [[USHealthInsuranceDenialPolitics]].
 
@@ -37,6 +39,7 @@ Barack Obama appears in [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-
 - The Cuba source treats Obama as the policy-opening actor whose travel loosening made [[TourismDependentSmallEconomy]] opportunity more visible.
 - The China-shock source treats Obama as a worker-adjustment actor through wage-replacement-style support rather than as a free-trade architect.
 - The Social Radars source treats Obama as a former president applying crisis memory and policy framing rather than as a formal decision maker.
+- The 面基 source treats Obama as the reform symbol for a cost-focused health-care intervention that left deeper risk structure unresolved.
 
 ## Connections
 - [[PoliticalIdentityPremium]] — post-office media and publishing premium.
@@ -48,3 +51,4 @@ Barack Obama appears in [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-
 - [[Cuba]], [[Havana]], [[CityCleta]], and [[TourismDependentSmallEconomy]] - Cuba travel-opening branch added by Planet Money.
 - [[ChinaShock]], [[PeopleVersusPlacesRecovery]], and [[TradeAdjustmentAssistance]] - trade-adjustment and wage-support branch added by Planet Money.
 - [[NancyPelosi]], [[RonConway]], [[SiliconValleyBank]], [[MoralHazardContagionTradeoff]], and [[DepositGuaranteeCrisisResponse]] - SVB weekend advisory branch added by The Social Radars.
+- [[AffordableCareAct]], [[RiskCostSeparation]], and [[MedicalRiskManagement]] - 面基 health-care risk branch.

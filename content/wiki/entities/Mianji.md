@@ -1,8 +1,9 @@
 ---
 title: "面基"
 type: entity
-tags: [podcast, investing, trading, embodied-judgment, macro, ai-workflow, career, nonfiction, reading, knowledge-management, platform-labor, fixed-income-plus, wealth-management, labor, manufacturing]
+tags: [podcast, investing, trading, embodied-judgment, macro, ai-workflow, career, nonfiction, reading, knowledge-management, platform-labor, fixed-income-plus, wealth-management, labor, manufacturing, bitcoin, money]
 sources:
+  - jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe
   - ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme
   - a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx
   - suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq
@@ -20,10 +21,12 @@ sources:
   - da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf
   - dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1
   - zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae
-last_updated: 2026-08-10
+last_updated: 2026-08-17
 ---
 
 # 面基
+
+[[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]] adds a money, Bitcoin, AI, and opportunity branch through [[ZhouLuohua|周洛华]] and the revised [[BitStandardBook|《比特本位》]]. It connects [[RiskCostSeparation|风险与成本分离]], [[OpportunityGeneratingDecentralization|创造机会的去中心化]], [[AnimalSpiritsOpportunityActivation|动物精神与机会激活]], [[ProofOfWorkMonetaryValidation|工作量证明的货币验证]], [[FiatCapitalMarketDecentralization|纸币时代的资本市场去中心化]], [[HumanValueAIDeployment|提高人的价值以部署 AI]], and [[DecentralizedAgentIdentity|去中心化智能体身份]] to the show's existing investing, macro, and AI-agency themes.
 
 [[ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme]] adds a labor, manufacturing-memory, and worker-archive branch through [[ZhanTeacher|占老师]] and [[RuciDagong30Nian|《如此打工30年》]]. It connects [[Dongguan|东莞]], [[ChanganTown|长安镇]], [[WorkerPhotographicArchive|工人摄影档案]], [[PearlRiverDeltaManufacturingTransformation|珠三角制造业变迁]], [[TayloristFactoryTime|泰勒制工厂时间]], [[MigrantWorkerSocialInsuranceLegacy|农民工社保遗留问题]], [[ManufacturingMicroFragmentation|制造业小微化]], and [[ContinuousLearningAgainstDisplacement|以持续学习对抗替代]] to the show's existing agency and nonfiction themes.
 
@@ -48,6 +51,7 @@ The [[DaChangXiaomin]] conversation adds a nonfiction career layer through [[Xia
 [[baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy]] adds a platform-labor and fieldwork branch through [[TianFeng|田峰]]'s discussion of [[TalentGroupLivestreaming|才艺团播]]. It moves 面基 beyond investing, AI, and personal agency into a social-science account of livestream rooms as industrialized systems of guild training, real-time data, compliance, makeup, camera work, and backstage review.
 
 ## Connections
+- [[ZhouLuohua|周洛华]], [[BitStandardBook|《比特本位》]], [[RiskCostSeparation]], [[OpportunityGeneratingDecentralization]], [[AnimalSpiritsOpportunityActivation]], [[FiatCapitalMarketDecentralization]], [[HumanValueAIDeployment]], and [[DecentralizedAgentIdentity]] - money, Bitcoin, opportunity, and AI-human-value branch.
 - [[ZhanTeacher|占老师]], [[RuciDagong30Nian|《如此打工30年》]], [[Dongguan|东莞]], [[WorkerPhotographicArchive]], [[TayloristFactoryTime]], and [[ContinuousLearningAgainstDisplacement]] - labor, manufacturing-memory, and worker-archive branch.
 - [[WuWeizhi]], [[ZhongouRuibo]], [[AShareMarketSeasons]], [[ASharePlantingCompanyTaxonomy]], [[InvestmentStrategyFit]], [[GrowthInvesting]], [[MAPERInvestmentResearchFramework]], and [[ResearchIndexPortfolioConstruction]] - A-share institutional-investing and research-process branch.
 - [[ZhangYizhen]], [[AShareValuationIndicators]], [[MultiStrategyAllocation]], and [[DrawdownPsychology]] — E145's A-share valuation, strategy-mix, and investor-psychology layer.

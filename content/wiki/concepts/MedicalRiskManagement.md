@@ -2,11 +2,13 @@
 title: "Medical Risk Management"
 type: concept
 tags: [healthcare, risk, clinical-systems]
-sources: [vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt, 86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437, yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
-last_updated: 2026-08-06
+sources: [jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe, vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt, 86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437, yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
+last_updated: 2026-08-17
 ---
 
 # Medical Risk Management
+
+[[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]] adds [[ZhouLuohua|周洛华]]'s insurance-and-human-value version. The source argues that medical accidents should not be handled only by directly punishing doctors or hospitals, because that can raise professional risk and defensive behavior; it imagines liability insurance, claim pricing, and data-based premiums as a way to make good doctors lower-risk and bad practice more expensive. The AI branch also links medical risk to [[HumanValueAIDeployment]]: patients still need human explanation and respect even when AI improves diagnosis.
 
 Medical risk management is the episode's frame for why doctors often sound cautious, procedural, or even unhelpfully conservative. In [[70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]], a doctor answering remotely cannot assume the harmless case when a rare fishbone, airway, bleeding, surgical, or neurological complication could be catastrophic.
 
@@ -33,8 +35,10 @@ The episode also treats modern medicine as a system built around fallible people
 - Ordinary self-care can reduce avoidable stress during infection, but it should stay bounded as experience sharing rather than universal diagnosis or treatment.
 - In extreme surgery, avoiding the risky intervention may also be a risk decision, especially when the patient has few remaining options.
 - Institutional risk control can become counterproductive when it punishes clinicians without fixing payment incentives, patient routing, care capacity, or evidence standards.
+- The 面基 source adds that medical liability should lower patient harm risk without making doctors' practice risk so high that useful care becomes harder to provide.
 
 ## Connections
+- [[HumanValueAIDeployment]], [[RiskCostSeparation]], and [[AffordableCareAct]] - 面基 branch on AI, insurance, liability, and health-care risk.
 - [[OnlineMedicalConsultation]] - online advice category whose limits the episode illustrates from the doctor's side.
 - [[OnlineHealthcareRegulatoryBoundary]] - regulatory version of keeping diagnosis, prescription, and responsibility inside qualified care.
 - [[MedicalDiagnosticReasoning]] - risk management shapes diagnostic and treatment choices.

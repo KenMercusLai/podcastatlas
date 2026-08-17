@@ -2,11 +2,13 @@
 title: "Money As Flow / 货币是流量"
 type: concept
 tags: [money, macro, payments, finance]
-sources: [162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb]
-last_updated: 2026-08-06
+sources: [jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe, 162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb]
+last_updated: 2026-08-17
 ---
 
 # Money As Flow / 货币是流量
+
+[[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]] extends the money-flow frame through [[ZhouLuohua|周洛华]]'s [[BitStandardBook|《比特本位》]] discussion. The source separates centralized base-money order from decentralized opportunity channels: gold and [[Bitcoin]] supply can be validated through [[ProofOfWorkMonetaryValidation|proof of work]], while fiat money needs capital markets and productive enterprises to keep monetary flow connected to opportunity.
 
 Money as flow / 货币是流量 is the core concept added by [[129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb]]. [[ShiLei|时雷]] and [[DavidWeng|大卫翁]] argue that money should be understood less as a stored object and more as a process of payment, clearing, credit creation, debt settlement, and network acceptance.
 
@@ -23,6 +25,7 @@ The source uses cowries, feiqian, jiaozi, goldsmith receipts, central-bank money
 - Episode 162 adds the boundary that money is a bridge and measurement tool, not wealth's final form.
 
 ## Connections
+- [[ProofOfWorkMonetaryValidation]], [[FiatCapitalMarketDecentralization]], and [[OpportunityGeneratingDecentralization]] - 面基 source extension from monetary flow to validation and opportunity.
 - [[EndogenousMoneyCreation]] and [[PaymentClearingNetwork]] - creation and settlement mechanics behind the flow view.
 - [[CurrencyCredit]] - trust layer that lets money circulate.
 - [[MoneyMovementInfrastructure]] - existing fintech infrastructure page extended from operational payments into monetary theory.
