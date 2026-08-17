@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 6: Data Science & AI Talk](sources/ep-6-data-science-ai-talk.md) — Data Science With Sam episode with Paulina Nemkova on moving from economics into AI PhD research, academic AI work, literature tracking, EEG brain-signal classification, replication, and crypto time-series research.
 - [EP 5: Implementation of Data Science in Cybersecurity](sources/ep-5-implementation-of-data-science-in-cybersecurity.md) — Data Science With Sam episode with Benjamin Larson on Verizon consumer cybersecurity, threat simulation, call-transcript NLP, authentication risk modeling, sensitive data access, AI impersonation risk, and personal account hygiene.
 - [EP 4: A.I. talk with a Rocket Scientist from NASA](sources/ep-4-a-i-talk-with-a-rocket-scientist-from-nasa.md) — Data Science With Sam episode with Kofi Browning on NASA career pathways, mission-driven engineering, spaceflight AI dataset scarcity, space imagery AI, EVA glove inspection, model bias, and human oversight.
 - [EP 3: Demystifying the Imposter Syndrome](sources/ep-3-demystifying-the-imposter-syndrome.md) — Data Science With Sam episode with Stephen Mathis on impostor syndrome, comparison, feedback, capability gaps, progress tracking, Dunning-Kruger overconfidence, and team confidence calibration.
@@ -976,6 +977,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Paulina Nemkova](entities/PaulinaNemkova.md) — University of North Texas AI/ML PhD student connecting nontraditional AI research paths, EEG brain reading, replication, and cryptocurrency time-series analysis.
+- [University of North Texas](entities/UniversityOfNorthTexas.md) — Institution context for Paulina Nemkova's AI/ML PhD work, EEG brain-reading research, coursework, and CS/business startup-club bridge.
 - [Benjamin Larson](entities/BenjaminLarson.md) — Verizon data science manager explaining cybersecurity data science, simulation modeling, social-engineering NLP, authentication risk, and security data-access constraints.
 - [Verizon](entities/Verizon.md) — Telecom company context for the source's consumer-side cybersecurity examples around account access, call analysis, fake domains, and sensitive data access.
 - [Kofi Browning](entities/KofiBrowning.md) — NASA engineer and Data Science With Sam guest connecting NASA career pathways, mission-driven engineering, risk management, and practical AI use in space research.
@@ -985,12 +988,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Society of Actuaries](entities/SocietyOfActuaries.md) — Professional actuarial organization used as fellowship context for Mary Pat Campbell and Stephen Mathis and as an industry mortality-data aggregation point.
 - [American Academy of Actuaries](entities/AmericanAcademyOfActuaries.md) — Mary Pat Campbell affiliation and source-scoped context for U.S. actuarial professional expectations.
 - [Casualty Actuarial Society](entities/CasualtyActuarialSociety.md) — Property-and-casualty actuarial organization referenced as part of the historical overlap between actuarial work and statistics.
-- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for Data Science With Sam episodes on cybersecurity, NASA space AI, impostor syndrome, experimental-science AI, and actuarial insurance data practice.
-- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of Data Science With Sam conversations on cybersecurity, NASA space AI, professional confidence, scientific AI, and actuarial insurance data.
+- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for Data Science With Sam episodes on academic AI research paths, cybersecurity, NASA space AI, impostor syndrome, experimental-science AI, and actuarial insurance data practice.
+- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of Data Science With Sam conversations on academic AI research, cybersecurity, NASA space AI, professional confidence, scientific AI, and actuarial insurance data.
 - [Effie (Data Science With Sam)](entities/EffieDataScienceWithSam.md) — Biology-focused guest emphasizing experimental records, bioinformatics collaboration, quality control, and AI lab documentation.
 - [Mossam (Data Science With Sam)](entities/MossamDataScienceWithSam.md) — Stanford research scientist guest explaining retrosynthesis AI, radiochemistry tracers, blood-brain-barrier prediction, negative chemistry data, and radioactive-safety oversight.
 - [Recursion Pharma](entities/RecursionPharma.md) — AI drug-discovery company cited as a source-scoped example of commercial small-molecule prediction.
-- [Stanford University](entities/StanfordUniversity.md) — University context for Google research/sourcing, DoorDash, Garry Tan, Noora Health, Modern Treasury, teen chatbot safety, and Mossam's radiochemistry/imaging research.
+- [Stanford University](entities/StanfordUniversity.md) — University context for Google research/sourcing, DoorDash, Garry Tan, Noora Health, Modern Treasury, teen chatbot safety, Mossam's radiochemistry/imaging research, and Paulina Nemkova's EEG replication branch.
 - [Zack Polanski](entities/ZackPolanski.md) — Green Party leader profiled as an eco-populist figure using biography, performance, Gaza politics, and economic grievance to reach younger voters.
 - [Green Party of England and Wales](entities/GreenPartyOfEnglandAndWales.md) — British Green Party branch framed through Zack Polanski as shifting from environmental identity toward eco-populist economic grievance.
 - [Andrew Miller](entities/AndrewMiller.md) — The Intelligence reporter whose Zack Polanski profile links biography, performance, controversy, and anti-centrist voter movement.
@@ -6647,6 +6650,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Nontraditional AI Research Path](concepts/NontraditionalAIResearchPath.md) — Route into AI research from another discipline through quantitative foundations, programming, professor outreach, coursework, and early research exposure.
+- [AI Research Literature Currency](concepts/AIResearchLiteratureCurrency.md) — Need for AI researchers to stay current with recent papers, lab work, and field news so research questions remain novel and grounded.
+- [EEG Brain Reading](concepts/EEGBrainReading.md) — Machine-learning classification of EEG brain-signal data to infer object categories while avoiding overclaiming full thought prediction.
+- [Locked-In Syndrome Assistive Communication](concepts/LockedInSyndromeAssistiveCommunication.md) — Assistive brain-signal communication use case for people who can think but cannot express themselves because of paralysis.
+- [Research Replication Integrity](concepts/ResearchReplicationIntegrity.md) — Research-method frame where replication, statistical caution, and source-grounded extension precede stronger scientific claims.
+- [Crypto Time Series Analysis](concepts/CryptoTimeSeriesAnalysis.md) — Data-science bridge from economics into cryptocurrency price time series without inferring model performance or trading usefulness from the source.
 - [Cybersecurity Data Science](concepts/CybersecurityDataScience.md) — Applied data-science workflow for threat scoring, simulation, NLP, authentication defense, and adversarial model lifecycle in security work.
 - [Cybersecurity Simulation Modeling](concepts/CybersecuritySimulationModeling.md) — Simulated attack and bot-testing practice for prioritizing vulnerabilities, estimating damage, and closing defensive gaps.
 - [Social Engineering NLP](concepts/SocialEngineeringNLP.md) — Use of speech-to-text, clustering, and language analysis to detect repeated scripts or suspicious patterns in support interactions.
@@ -6677,7 +6686,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Blood-Brain Barrier Prediction](concepts/BloodBrainBarrierPrediction.md) — ML use case for estimating whether candidate molecules can penetrate the brain based on molecular properties and validated experimental data.
 - [Negative Results As Scientific Data](concepts/NegativeResultsAsScientificData.md) — Claim that failed, null, and non-working experiments become useful scientific and model-training data only when recorded with enough context.
 - [AI Experiment Documentation](concepts/AIExperimentDocumentation.md) — Future lab-assistant role where AI and cameras could record experiment steps, deviations, inputs, and outputs as an audit trail.
-- [Human-Driven Scientific AI](concepts/HumanDrivenScientificAI.md) — Source stance that AI should support scientific pattern recognition, planning, documentation, imagery triage, and inspection while human judgment and safety oversight remain responsible.
+- [Human-Driven Scientific AI](concepts/HumanDrivenScientificAI.md) — Source stance that AI should support scientific pattern recognition, planning, documentation, brain-signal classification, imagery triage, and inspection while human judgment and safety oversight remain responsible.
 - [Eco-Populism](concepts/EcoPopulism.md) — Green political style that keeps environmental identity while foregrounding economic grievance, redistribution, anti-elite rhetoric, and youth-facing material frustration.
 - [Youth Precarity Politics](concepts/YouthPrecarityPolitics.md) — Pattern where insecure work, high rents, weaker graduate routes, and centrist disillusionment make young voters receptive to anti-establishment politics.
 - [Synthetic Spud Cells](concepts/SyntheticSpudCells.md) — Lab-built cell-like systems that reproduce for limited generations and expose the engineering boundary around life.
@@ -7135,7 +7144,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Streaming Platform Bundling](concepts/StreamingPlatformBundling.md) — Streaming-distribution pattern where a content library becomes watchable inside a larger platform subscription rather than only through a separate app.
 - [Human-Centered AI Education](concepts/HumanCenteredAIEducation.md) — AI education frame that treats ethics, privacy, bias, agency, and domain collaboration as core curriculum rather than add-ons.
 - [Behavioral Signal Processing](concepts/BehavioralSignalProcessing.md) — AI-supported analysis of speech, vocalization, bodily signals, emotion, context, and identity, with clinical promise and privacy/bias risks.
-- [Academic AI Research Role](concepts/AcademicAIResearchRole.md) — University role in AI centered on long-range questions, interdisciplinary research, public-interest framing, and human-scaled labs alongside industry compute.
+- [Academic AI Research Role](concepts/AcademicAIResearchRole.md) — University role in AI centered on novelty, literature currency, early PhD practice, long-range questions, interdisciplinary research, and human-scaled labs alongside industry compute.
 - [Project-Driven AI Curriculum](concepts/ProjectDrivenAICurriculum.md) — Curriculum model using projects and fast-refresh electives to keep AI teaching current while preserving student judgment and ethics.
 - [Service-Led Retail Moat](concepts/ServiceLedRetailMoat.md) — Retail strategy where expert advice, training, warranty, support authority, and fulfillment make service a durable advantage against price-only competition.
 - [Sales Engineer Model](concepts/SalesEngineerModel.md) — Dedicated, technically credible sales-advisor model that turns diagnosis, account memory, and support into retail trust.
@@ -8473,7 +8482,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Preregistration](concepts/Preregistration.md) — Recording hypotheses and analysis plans before seeing results to reduce after-the-fact tuning.
 - [Robustness Checks](concepts/RobustnessChecks.md) — Alternative analyses that test whether a result survives reasonable specification changes.
 - [Crowdsourced Academic Auditing](concepts/CrowdsourcedAcademicAuditing.md) — Shared replication model that checks many papers while lowering individual conflict and cost.
-- [Research Integrity Incentives](concepts/ResearchIntegrityIncentives.md) — Incentive frame where credible inspection odds shape reproducible behavior before publication.
+- [Research Integrity Incentives](concepts/ResearchIntegrityIncentives.md) — Incentive and practice frame where credible inspection, replication, and statistical caution shape reproducible behavior before and after publication.
 - [ICE Workforce Expansion](concepts/ICEWorkforceExpansion.md) — Rapid scaling of ICE personnel as an organizational, training, and accountability problem.
 - [Federal Law Enforcement Training](concepts/FederalLawEnforcementTraining.md) — Formal preparation of federal officers, including disputed ICE training hours and scenario-based restraint instruction.
 - [Field Training Officer Effects](concepts/FieldTrainingOfficerEffects.md) — Durable behavioral influence of field mentors on later officer conduct and use-of-force risk.
@@ -10572,7 +10581,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Literary Agent Judgment](concepts/LiteraryAgentJudgment.md) — Taste and persistence needed to represent difficult writing before publishers or readers recognize its value.
 - [Recursive Self-Improvement](concepts/RecursiveSelfImprovement.md) — AI self-improvement loop where models help create tasks, data, code, training recipes, verification, and subsequent iterations.
 - [Discovery Model](concepts/DiscoveryModel.md) — AI system aimed at proposing and validating new scientific hypotheses rather than only generating fluent answers.
-- [AI Verification](concepts/AIVerification.md) — Broader verification problem for AI answers, hypotheses, training data, self-improvement loops, agent actions, and safety-critical image review.
+- [AI Verification](concepts/AIVerification.md) — Broader verification problem for AI answers, hypotheses, training data, self-improvement loops, agent actions, brain-signal claims, and safety-critical image review.
 - [Deep Research](concepts/DeepResearch.md) — Agentic search, planning, evidence gathering, synthesis, and tool-use capability for long research tasks.
 - [Option Contract Mechanics](concepts/OptionContractMechanics.md) — Basic options structure where calls, puts, premiums, strikes, expiration, and contract size define rights and obligations.
 - [Option Premium Pricing](concepts/OptionPremiumPricing.md) — Pricing intuition for option premiums through time value, implied volatility, market-maker hedging, and event uncertainty.
@@ -10861,7 +10870,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Discovery SEO](concepts/AIDiscoverySEO.md) — Distribution idea that AI-mediated discovery still depends on public web signals, search results, posts, and mentions.
 - [AI Engineering Thinking](concepts/AIEngineeringThinking.md) — Practice of turning goals into requirements, architecture maps, tests, logs, docs, review, audit rules, and business handoffs before asking AI to execute.
 - [AI Equity Valuation Risk](concepts/AIEquityValuationRisk.md) — Public-market risk that real AI company quality is already priced too aggressively.
-- [AI For Science](concepts/AIForScience.md) — Theme focused on using AI for high-complexity scientific, industrial, and space-research work under domain, data, and verification constraints.
+- [AI For Science](concepts/AIForScience.md) — Theme focused on using AI for high-complexity scientific, neuroscience, industrial, and space-research work under domain, data, replication, and verification constraints.
 - [AI Convergence](concepts/AIConvergence.md) — Forecast frame where AI's impact comes through cross-domain combinations with the internet, robotics, materials, energy, computation, and biology.
 - [Post-Search Internet](concepts/PostSearchInternet.md) — User-habit shift from browsing search results toward asking AI answer systems directly, with consequences for traffic, ads, SEO, and trust.
 - [Programmable Matter](concepts/ProgrammableMatter.md) — Materials branch of AI convergence covering metamaterials, zero-resistance conductors, self-powered implants, adaptive buildings, and cold-chain packaging.
@@ -10903,7 +10912,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [App Store Optimization](concepts/AppStoreOptimization.md) — Mobile app-store growth discipline covering search visibility, product-page conversion, ratings, reviews, and paid search.
 - [App Store Product Page Conversion](concepts/AppStoreProductPageConversion.md) — ASO conversion layer where screenshots, icon, title, description, and trust convert store exposure into downloads.
 - [App Store Ratings And Reviews](concepts/AppStoreRatingsAndReviews.md) — App Store trust and feedback layer that affects user confidence, conversion, and possibly visibility.
-- [Assistive AI](concepts/AssistiveAI.md) — AI systems that reduce communication, accessibility, or ability barriers, grounded here by an unclear-speech repair prototype.
+- [Assistive AI](concepts/AssistiveAI.md) — AI systems that reduce communication, accessibility, or ability barriers, grounded here by unclear-speech repair and locked-in syndrome brain-signal communication examples.
 - [Aviation Safety Rules](concepts/AviationSafetyRules.md) — Passenger-facing flight rules whose rationale lies in security, fire, evacuation, impact, turbulence, and decompression risk.
 - [Averaging Down](concepts/AveragingDown.md) — Adding to a losing active trade, framed as a risk-amplifying behavior distinct from diversified dollar-cost averaging.
 - [ATM Operations](concepts/ATMOperations.md) — Bank routines for clearing, balancing, replenishing, repairing, and monitoring automated teller machines.
@@ -10944,7 +10953,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Creation As Consumption](concepts/CreationAsConsumption.md) — Product-design idea that making with AI can itself be an entertainment experience.
 - [Customer Concentration Risk](concepts/CustomerConcentrationRisk.md) — SaaS risk where one large customer can distort roadmap, mission, or validation signals.
 - [Customer Pull](concepts/CustomerPull.md) — Demand signal where users return, follow up, refer, pay, sign LOIs, tolerate migration work, or otherwise act beyond polite interest.
-- [Cryptocurrency Market Structure](concepts/CryptocurrencyMarketStructure.md) — Crypto-market features such as 24-hour trading, retail flows, exchange fragmentation, and payment-acceptance patterns that create opportunity and risk.
+- [Cryptocurrency Market Structure](concepts/CryptocurrencyMarketStructure.md) — Crypto-market features such as 24-hour trading, retail flows, exchange fragmentation, price time series, and payment-acceptance patterns that create opportunity and risk.
 - [Currency Risk](concepts/CurrencyRisk.md) — Risk that exchange-rate moves change an investor's final return after converting back to their home currency.
 - [Data Portability And Sustainable Tools](concepts/DataPortabilityAndSustainableTools.md) — Product trust pattern based on exportability, local data, maintained tools, and durable personal knowledge assets.
 - [Dark Office](concepts/DarkOffice.md) — Office-work automation analogy where agents perform defined white-collar and gray-collar workflows like a dark factory.

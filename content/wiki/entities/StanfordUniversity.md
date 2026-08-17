@@ -2,7 +2,7 @@
 title: "Stanford University"
 type: entity
 tags: [university, research, ai, startups]
-sources: [data-ai-and-scientific-research-a-coffee-chat, e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668, 149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv, would-you-trust-an-economist-with-your-economy, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-garrytan-final, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, socialradarspod-tonyxu-final, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]
+sources: [ep-6-data-science-ai-talk, data-ai-and-scientific-research-a-coffee-chat, e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668, 149-qinli-zhongmei-new-labs-ziben-kuangchao-he-qinghua-liuziming-liao-ai-for-ai-jizhi-kejieshixing-he-max-tegmark-lm33q4n6w8tzcd2fxdbuk9unc2xv, would-you-trust-an-economist-with-your-economy, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-garrytan-final, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, socialradarspod-tonyxu-final, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]
 last_updated: 2026-08-18
 ---
 
@@ -42,6 +42,8 @@ In this wiki branch, Stanford's first role was institutional rather than biograp
 
 [[data-ai-and-scientific-research-a-coffee-chat]] adds Stanford through [[MossamDataScienceWithSam|Mossam]], introduced as a research scientist working across organic chemistry, radiochemistry, and biomedical imaging. In this branch, Stanford is a source-scoped research environment for [[RetrosynthesisAI]], [[RadiochemistryImagingTracers]], [[BloodBrainBarrierPrediction]], and [[ExperimentalScienceDataQuality]] rather than a startup or policy context.
 
+[[ep-6-data-science-ai-talk]] adds Stanford as the prior-work reference for [[PaulinaNemkova|Paulina Nemkova]]'s [[EEGBrainReading]] project. The source says her team began by replicating related Stanford work and stayed in touch with Stanford professors, making Stanford part of the episode's [[ResearchReplicationIntegrity]] branch.
+
 ## Connections
 - [[CommonSenseMedia]] - co-cited report source in the episode.
 - [[DariaGeorgievich]] - expert interviewed about chatbot testing.
@@ -61,3 +63,4 @@ In this wiki branch, Stanford's first role was institutional rather than biograp
 - [[LiuZiming|Liu Ziming]], [[NewLabOrganization]], [[AIForAI]], and [[YuanhuanIntelligence|Yuanhuan Intelligence]] - AI research-startup branch added by episode 149.
 - [[ShengYing|盛颖 / Sheng Ying]], [[ClarkeBarrett]], [[FormalVerification]], [[SMTSolver|SMT solver]], [[LMSYS|LM-SYS]], and [[SGLang]] - E247's formal-methods to AI-infra path.
 - [[MossamDataScienceWithSam]], [[RadiochemistryImagingTracers]], [[RetrosynthesisAI]], [[BloodBrainBarrierPrediction]], and [[ExperimentalScienceDataQuality]] - Data Science With Sam research branch.
+- [[PaulinaNemkova]], [[EEGBrainReading]], and [[ResearchReplicationIntegrity]] - Data Science With Sam EP6 replication branch.

@@ -1979,6 +1979,10 @@
     "title": "AI Research Feedback Compression",
     "url": "/wiki/concepts/airesearchfeedbackcompression/"
   },
+  "AIResearchLiteratureCurrency": {
+    "title": "AI Research Literature Currency",
+    "url": "/wiki/concepts/airesearchliteraturecurrency/"
+  },
   "AIResistantExperientialConsumption": {
     "title": "AI Resistant Experiential Consumption",
     "url": "/wiki/concepts/airesistantexperientialconsumption/"
@@ -9871,6 +9875,10 @@
     "title": "Crypto Public Legitimacy",
     "url": "/wiki/concepts/cryptopubliclegitimacy/"
   },
+  "CryptoTimeSeriesAnalysis": {
+    "title": "Crypto Time Series Analysis",
+    "url": "/wiki/concepts/cryptotimeseriesanalysis/"
+  },
   "CryptocurrencyMarketStructure": {
     "title": "Cryptocurrency Market Structure",
     "url": "/wiki/concepts/cryptocurrencymarketstructure/"
@@ -11890,6 +11898,10 @@
   "EBird": {
     "title": "eBird",
     "url": "/wiki/entities/ebird/"
+  },
+  "EEGBrainReading": {
+    "title": "EEG Brain Reading",
+    "url": "/wiki/concepts/eegbrainreading/"
   },
   "ELFCosmetics": {
     "title": "e.l.f. Cosmetics",
@@ -22775,6 +22787,10 @@
     "title": "Locard's Exchange Principle",
     "url": "/wiki/concepts/locardsexchangeprinciple/"
   },
+  "LockedInSyndromeAssistiveCommunication": {
+    "title": "Locked-In Syndrome Assistive Communication",
+    "url": "/wiki/concepts/lockedinsyndromeassistivecommunication/"
+  },
   "LockheedBriberyScandal": {
     "title": "Lockheed Bribery Scandal",
     "url": "/wiki/entities/lockheedbriberyscandal/"
@@ -26807,6 +26823,10 @@
     "title": "Nonsense Logic",
     "url": "/wiki/concepts/nonsenselogic/"
   },
+  "NontraditionalAIResearchPath": {
+    "title": "Nontraditional AI Research Path",
+    "url": "/wiki/concepts/nontraditionalairesearchpath/"
+  },
   "NonviolentSymbolicPower": {
     "title": "Nonviolent Symbolic Power",
     "url": "/wiki/concepts/nonviolentsymbolicpower/"
@@ -28298,6 +28318,10 @@
   "PaulVixie": {
     "title": "Paul Vixie",
     "url": "/wiki/entities/paulvixie/"
+  },
+  "PaulinaNemkova": {
+    "title": "Paulina Nemkova",
+    "url": "/wiki/entities/paulinanemkova/"
   },
   "PauloSilva": {
     "title": "Paulo Silva",
@@ -31282,6 +31306,10 @@
   "ResearchIntegrityIncentives": {
     "title": "Research Integrity Incentives",
     "url": "/wiki/concepts/researchintegrityincentives/"
+  },
+  "ResearchReplicationIntegrity": {
+    "title": "Research Replication Integrity",
+    "url": "/wiki/concepts/researchreplicationintegrity/"
   },
   "ResearchReportReadingDiscipline": {
     "title": "Research Report Reading Discipline",
@@ -38191,6 +38219,10 @@
     "title": "University of Minnesota",
     "url": "/wiki/entities/universityofminnesota/"
   },
+  "UniversityOfNorthTexas": {
+    "title": "University of North Texas",
+    "url": "/wiki/entities/universityofnorthtexas/"
+  },
   "UniversityOfOttawa": {
     "title": "University Of Ottawa",
     "url": "/wiki/entities/universityofottawa/"
@@ -42286,6 +42318,10 @@
   "ep-5-implementation-of-data-science-in-cybersecurity": {
     "title": "EP 5: Implementation of Data Science in Cybersecurity",
     "url": "/wiki/sources/ep-5-implementation-of-data-science-in-cybersecurity/"
+  },
+  "ep-6-data-science-ai-talk": {
+    "title": "EP 6: Data Science & AI Talk",
+    "url": "/wiki/sources/ep-6-data-science-ai-talk/"
   },
   "ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx": {
     "title": "EP101 对话 Simon：AI 创业者的第一项基本功是把账算明白",

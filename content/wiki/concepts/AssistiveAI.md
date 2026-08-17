@@ -2,13 +2,15 @@
 title: "Assistive AI"
 type: concept
 tags: [ai, accessibility, assistive-technology, voice]
-sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex]
-last_updated: 2026-07-25
+sources: [ep-6-data-science-ai-talk, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex]
+last_updated: 2026-08-18
 ---
 
 # Assistive AI
 
 Assistive AI is the use of AI systems to reduce communication, accessibility, or ability barriers for users who cannot rely on default interfaces or bodily capabilities. In [[ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex]], [[KenanVoiceChanger]] is the source's main example: [[LiPengcheng]] wants AI to repair unclear speech so people can communicate during rehabilitation rather than waiting years for perfect speech.
+
+[[ep-6-data-science-ai-talk]] adds the brain-signal version through [[PaulinaNemkova|Paulina Nemkova]]'s [[EEGBrainReading]] work. The use case is [[LockedInSyndromeAssistiveCommunication]]: helping people who can think but cannot express themselves because of paralysis. The source keeps the current capability narrow because classifying an object category from EEG is not the same as reading complete thoughts.
 
 The source's important distinction is that assistive AI should support life while recovery or training continues. The goal is not only technical accuracy, but whether the system reduces daily friction, preserves agency, and works in the physical and social settings where communication breaks down.
 
@@ -20,6 +22,7 @@ The source's important distinction is that assistive AI should support life whil
 - Hardware, latency, audio quality, and interaction design matter as much as model capability.
 - Hackathon demos can surface the need, but useful assistive tools require careful follow-up beyond the event.
 - Wearable AI may help accessibility if it creates alternative input and output channels, but accessibility value needs user-specific grounding rather than generic novelty.
+- Brain-signal assistive AI needs careful verification because mistaken interpretation could directly affect agency and dignity.
 
 ## Connections
 - [[KenanVoiceChanger]] and [[LiPengcheng]] — product and builder grounding the concept.
@@ -28,3 +31,4 @@ The source's important distinction is that assistive AI should support life whil
 - [[ProductLedWillingnessToPay]] — value depends on actual communication improvement.
 - [[AIHackathons]] — source context where the prototype appeared.
 - [[WillGottsagen]], [[WearableAIAssistant]], [[VoiceInteraction]], and [[AppleAccessibility]] - wearable accessibility possibility added by Marketplace Tech.
+- [[PaulinaNemkova]], [[EEGBrainReading]], [[LockedInSyndromeAssistiveCommunication]], and [[ResearchReplicationIntegrity]] - brain-signal communication branch added by Data Science With Sam EP6.

@@ -7782,6 +7782,10 @@ Added source page for a Data Science With Sam Coffee Chat with Sam, Effie, and M
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-18] ingest | EP 6: Data Science & AI Talk
+
+Added source page for a Data Science With Sam episode with Paulina Nemkova on moving from economics into AI and machine-learning PhD research, academic versus industry mindsets, professor outreach, literature currency, EEG-based brain reading, replication, locked-in syndrome communication, and cryptocurrency time-series research. Created pages for Paulina Nemkova, University of North Texas, Nontraditional AI Research Path, AI Research Literature Currency, EEG Brain Reading, Locked-In Syndrome Assistive Communication, Research Replication Integrity, and Crypto Time Series Analysis; updated overview, index, Data Science With Sam, Sam, Academic AI Research Role, AI For Science, Human-Driven Scientific AI, AI Verification, Assistive AI, Research Integrity Incentives, Stanford University, and Cryptocurrency Market Structure. No direct contradiction found; the source qualifies AI-research optimism by showing that nontraditional entry is possible when grounded in quantitative preparation, project work, current literature, replication, and careful boundaries around speculative brain-reading applications.
+
 ## [2026-08-18] ingest | EP 3: Demystifying the Imposter Syndrome
 
 Added source page for a Data Science With Sam episode with Stephen Mathis on imposter syndrome, comparison, self-validation, external feedback, real-versus-false capability gaps, progress tracking, Dunning-Kruger overconfidence, and team confidence management. Created pages for Stephen Mathis, Capability Gap Self-Diagnosis, External Feedback Self-Calibration, Fair Comparison Frames, Progress Tracking Self-Assessment, Dunning-Kruger Effect, Confidence Profile Team Management, Learning Ahead of Readiness, and Learnable Emotional Intelligence; updated overview, index, Data Science With Sam, Sam, Society of Actuaries, Impostor Syndrome, Social Comparison Pressure, Concrete Self-Praise, and Achievement Pressure Mental Health. No direct contradiction found; the source extends the wiki's anti-perfectionism and achievement-pressure branch by making confidence calibration practical: separate false inadequacy from real gaps, compare fairly, track evidence, and accept grounded recognition.
@@ -7809,6 +7813,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] ingest | EP 5: Implementation of Data Science in Cybersecurity
 
 Added source page for a Data Science With Sam episode with Benjamin Larson on Verizon consumer cybersecurity data science, known bad-actor data, threat simulation, call-transcript NLP, authentication risk modeling, short-lived security models, sensitive data access, domain expert trust, deepfake identity risk, fake Verizon-like domains, and personal two-factor-authentication advice. Created pages for Benjamin Larson, Verizon, Cybersecurity Data Science, Cybersecurity Simulation Modeling, Social Engineering NLP, Authentication Risk Modeling, and Security Data Access Constraint; updated overview, index, Data Science With Sam, Sam, Social Engineering Fraud, AI Impersonation Fraud Risk, Brand Impersonation Monitoring, Contact Center AI, and Personal Security Tiering. No direct contradiction found; the source qualifies AI-cybersecurity optimism by showing that operational security often depends on strong data, simple models, simulation, controlled access, and expert remediation before advanced AI architecture.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-18] lint | Wiki health check
 

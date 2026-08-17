@@ -2,13 +2,15 @@
 title: "Cryptocurrency Market Structure"
 type: concept
 tags: [crypto, investing, markets, compliance]
-sources: [bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128, tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, socialradarspod-brianarmstrong-final]
-last_updated: 2026-08-05
+sources: [ep-6-data-science-ai-talk, bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128, tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128, tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, socialradarspod-brianarmstrong-final]
+last_updated: 2026-08-18
 ---
 
 # Cryptocurrency Market Structure
 
 Cryptocurrency market structure is the wiki's frame for how crypto trading rails, exchanges, assets, and user flows create both market opportunity and operational risk. [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] highlights 24-hour trading, retail-heavy participation, emotional flows, and price gaps across exchanges as sources of possible arbitrage. [[ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr]] adds a [[VirtualAssetAMLRisk]] lens: the same fragmentation, cross-border liquidity, and identity opacity can complicate anti-money-laundering review. [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]] adds a family and political-brand monetization lens through [[WorldLibertyFinancial]], where token sales, stablecoin value, warrants, and unlocks create both cash proceeds and headline valuation.
+
+[[ep-6-data-science-ai-talk]] adds a small academic data-science note through [[CryptoTimeSeriesAnalysis]]. [[PaulinaNemkova|Paulina Nemkova]] says she published a time-series paper on cryptocurrency prices, showing how economics training can become useful in AI and data-science research without implying that the source proves a tradable signal.
 
 [[tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128]] adds the public-balance-sheet version. [[LizFarmer]] says state officials interested in crypto view it as a high-risk, high-reward alternative asset and possible diversification tool, but the episode's [[StateCryptoReserves]] and [[PublicCryptoInvestmentRisk]] frames show that market structure becomes a public-fund problem when states hold or buy digital assets.
 
@@ -38,6 +40,7 @@ Cryptocurrency market structure is the wiki's frame for how crypto trading rails
 - Municipal acceptance can make crypto payments locally practical without eliminating volatility, service-coverage gaps, or public skepticism.
 - State reserve laws can move crypto market-structure risk onto public balance sheets, where custody, liquidity, volatility, and taxpayer exposure matter.
 - Political headlines can matter differently in crypto when continuous trading, leverage, exchange fragmentation, and market-maker capacity combine into [[CryptoLeverageLiquidityCascade]].
+- Crypto price series can be useful research data while still being too volatile and market-structure-dependent to treat as simple predictive proof.
 
 ## Connections
 - [[StateCryptoReserves]], [[PublicCryptoInvestmentRisk]], [[SeparateCryptoReserveFund]], and [[SeizedDigitalAssetCustody]] - state public-finance branch added by the April 14 Marketplace Tech episode.
@@ -53,3 +56,4 @@ Cryptocurrency market structure is the wiki's frame for how crypto trading rails
 - [[Coinbase]], [[BrianArmstrong]], [[RegulatedCryptoTrustStrategy]], [[EarlyFintechFraudControls]], [[FTX]], and [[SamBankmanFried]] — Armstrong episode's exchange trust and reputational-risk branch.
 - [[TRMLabs]], [[AriRedbord]], [[A7A5]], [[StablecoinSanctionsEvasion]], and [[AIEnabledScamIndustrialization]] — Marketplace Tech crypto-crime and scam-scale branch.
 - [[CryptoLeverageLiquidityCascade]], [[DonaldTrump]], [[EffectiveTariffRateShock]], [[H1BVisaCoalitionFaultLine]], [[ChangpengZhao]], and [[HongKong]] - 不熄灯 E02 flash-crash and talent-capital signal branch.
+- [[CryptoTimeSeriesAnalysis]], [[PaulinaNemkova]], and [[NontraditionalAIResearchPath]] - academic data-science branch added by Data Science With Sam EP6.
