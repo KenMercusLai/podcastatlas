@@ -2907,6 +2907,10 @@
     "title": "Agent Task Claiming",
     "url": "/wiki/concepts/agenttaskclaiming/"
   },
+  "AgentTrajectoryDistillation": {
+    "title": "Agent Trajectory Distillation",
+    "url": "/wiki/concepts/agenttrajectorydistillation/"
+  },
   "AgenticB2BSourcing": {
     "title": "Agentic B2B Sourcing",
     "url": "/wiki/concepts/agenticb2bsourcing/"
@@ -25011,6 +25015,10 @@
     "title": "Model Distillation / 模型蒸馏",
     "url": "/wiki/concepts/modeldistillation/"
   },
+  "ModelDistillationEvidence": {
+    "title": "Model Distillation Evidence",
+    "url": "/wiki/concepts/modeldistillationevidence/"
+  },
   "ModelHarnessCoEvolution": {
     "title": "Model Harness Co-Evolution",
     "url": "/wiki/concepts/modelharnesscoevolution/"
@@ -26622,6 +26630,10 @@
   "NvidiaVeraRubinPlatform": {
     "title": "Nvidia Vera Rubin Platform",
     "url": "/wiki/entities/nvidiaverarubinplatform/"
+  },
+  "O1": {
+    "title": "O1",
+    "url": "/wiki/entities/o1/"
   },
   "ODesign": {
     "title": "O-Design / Odyssey",
@@ -43922,6 +43934,10 @@
   "zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew": {
     "title": "这可能才是 AI 陪伴真正该有的样子｜对谈刷屏产品 EVE 创始人 Tristan",
     "url": "/wiki/sources/zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew/"
+  },
+  "zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1": {
+    "title": "179: 蒸馏风暴：一场无人公开谈论的技术竞赛",
+    "url": "/wiki/sources/zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1/"
   },
   "zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1": {
     "title": "真正改变世界的技术，为什么一开始都不被看好？| S10E16",

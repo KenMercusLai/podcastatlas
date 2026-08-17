@@ -7725,3 +7725,11 @@ Added source page for a 商业就是这样 episode on L'Oreal's refillable beaut
 ## [2026-08-17] lint | Wiki health check
 
 Ran health before lint; health scanned 10,988 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 10,988 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no API key or provider-qualified `LLM_MODEL` is configured in this shell. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-17] ingest | 179: 蒸馏风暴：一场无人公开谈论的技术竞赛
+
+Added source page for a LateTalk episode on model distillation as a technical, data-pipeline, legal/ToS, organization, and business-model issue. Created pages for O1, Agent Trajectory Distillation, and Model Distillation Evidence; updated overview, index, LateTalk, Model Distillation, AI Model Distillation Governance, Model Identity Data Pollution, Synthetic Agent Data, Environment-Based Agent Benchmarks, Agent Post-Training, Closed Model API Moat Pressure, Chinese Open-Weight AI Strategy, Open Model Safety Governance, Frontier Model Access Restrictions, ByteDance, Zhang Yiming, Anthropic, OpenAI, Google DeepMind, DeepSeek, Kimi K3, Qwen, MiniMax, and Zhipu AI. No direct contradiction found; the source sharpens existing distillation pages by separating technical distillation, terms-of-service breach, legal liability, evidence quality, and long-term capability-building risk.
+
+## [2026-08-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

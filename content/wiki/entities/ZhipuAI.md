@@ -2,11 +2,13 @@
 title: "Zhipu AI"
 type: entity
 tags: [company, ai, open-source-ai, china]
-sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]
-last_updated: 2026-08-07
+sources: [zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]
+last_updated: 2026-08-17
 ---
 
 # Zhipu AI
+
+[[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds a useful negative signal: the episode says Zhipu AI was not among the companies it described as publicly named by U.S. closed-model companies in the distillation dispute. The page keeps that as a source-scoped non-accusation, relevant because [[ModelDistillationEvidence]] should distinguish silence, suspicion, and proven provenance.
 
 Zhipu AI is discussed in [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] through the release of [[GLM52]]. The hosts frame the release as a response to U.S. model-access restrictions and as part of the Chinese [[OpenSourceAIModels]] ecosystem that may benefit when closed frontier models become politically unreliable.
 
@@ -39,3 +41,4 @@ Zhipu AI is discussed in [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinleng
 - [[Harvey]], [[AppliedCompute]], and [[EnterpriseOwnedModels]] — Q2 2026 domain post-training route added by LateTalk.
 - [[AIExportControls]], [[FrontierModelAccessRestrictions]], and [[UnitedStates]] - policy and dependence-risk branch added by Marketplace Tech.
 - [[TangJie]], [[AIApplicationMarketTrough]], [[MiniMax]], [[DeepSeek]], and [[ModelProviderToolCompetition]] — mid-2026 market-cycle and coding-stage frame added by 42章经.
+- [[ModelDistillationEvidence]], [[Anthropic]], [[OpenAI]], and [[ChineseOpenWeightAIStrategy]] - source-scoped non-accusation context added by LateTalk episode 179.

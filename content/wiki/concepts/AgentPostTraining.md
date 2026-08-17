@@ -2,11 +2,13 @@
 title: "Agent Post-Training"
 type: concept
 tags: [agents, model-training, post-training]
-sources: [cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi, e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11, vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
-last_updated: 2026-08-09
+sources: [zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi, e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11, vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
+last_updated: 2026-08-17
 ---
 
 # Agent Post-Training
+
+[[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds [[AgentTrajectoryDistillation]] to the post-training map. The source says post-training data can now include full agent task traces, not just prompts and answers, but it distinguishes teacher-behavior imitation from using a stronger model only as an evaluator in reinforcement learning.
 
 [[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] adds [[MengFanqing|孟繁青]]'s "post-training is data" interpretation. The source says that once internal model-lab training services stabilize, researcher leverage shifts toward [[EnvironmentBasedAgentBenchmarks]], [[SyntheticAgentData]], correctness checks, anti-cheating filters, difficulty control, and whether training on the data actually improves the model.
 
@@ -26,6 +28,7 @@ The concept extends [[ModelHarnessCoEvolution]]. A model trained only for chat m
 - Agent post-training makes [[AICodingVerification]], [[LongHorizonAI]], and [[ModelWorkflowFit]] part of model training rather than only deployment evaluation.
 - Post-training can be the hidden reproduction barrier when a model's visible architecture or cost story is easier to discuss than its data recipes, expert labels, evaluation loops, and failure-recovery training.
 - The Evolvent AI source adds that agent post-training data may itself become an RSI surface when a model generates, filters, and uses data to improve another model or future behavior.
+- LateTalk episode 179 adds that agent post-training can become commercially and legally sensitive when the most useful trajectories come from restricted closed frontier models.
 
 ## Connections
 - [[MengFanqing]], [[EvolventAI]], [[EnvironmentBasedAgentBenchmarks]], [[SyntheticAgentData]], and [[RSIData]] — data and environment branch added by the Evolvent AI source.
@@ -36,3 +39,4 @@ The concept extends [[ModelHarnessCoEvolution]]. A model trained only for chat m
 - [[AISkills]], [[PersistentAgentMemory]], and [[AgentSelfEvolution]] — reusable workflow and memory signals for training.
 - [[MLCoding]], [[ResearchTaste]], and [[ModelHarnessCoEvolution]] — research-loop and co-evolution context.
 - [[ZhangQi|张奇]], [[DeepSeek]], and [[ModelPostTrainingBottleneck]] — vol.114's broader post-training bottleneck and DeepSeek-cost qualification.
+- [[AgentTrajectoryDistillation]], [[ModelDistillationEvidence]], and [[AIModelDistillationGovernance]] — distillation boundary added by LateTalk episode 179.

@@ -2,11 +2,13 @@
 title: "MiniMax"
 type: entity
 tags: [company, ai, models]
-sources: [zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]
-last_updated: 2026-08-16
+sources: [zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]
+last_updated: 2026-08-17
 ---
 
 # MiniMax
+
+[[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds MiniMax through the public accusation side of the distillation debate. The source says [[Anthropic]] named MiniMax alongside [[DeepSeek]] and [[KimiK3|Kimi/Kimi K3]] in February, while emphasizing that public naming without full evidence should not be treated as proof of [[ModelDistillation]].
 
 MiniMax is the AI model company hosting the Developer Meetup captured in [[duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe]]. [[YanJunjie]], its founder and CEO, describes the company through model iteration from M1 to M2/M2.7 and [[MiniMaxM3]], with AI coding, editing, token usage, and real engineering feedback serving as practical signals for model usefulness.
 
@@ -48,3 +50,4 @@ MiniMax is the AI model company hosting the Developer Meetup captured in [[duihu
 - [[Kimi]], [[ZhipuAI]], [[Doubao]], [[AGIThreeActs]], and [[ModelAsOperatingSystem]] — domestic-model strategy frame added by episode 136.
 - [[AIApplicationMarketTrough]], [[ZhipuAI]], and [[AICommercializationPressure]] — mid-2026 model/application market split added by 42章经.
 - [[VideoModels]], [[Seedance]], [[AIVideoProductionWorkflow]], and [[AIInferenceCostStructure]] - H3 video-model and pricing branch added by 声动早咖啡.
+- [[ModelDistillationEvidence]], [[Anthropic]], [[DeepSeek]], and [[ChineseOpenWeightAIStrategy]] - LateTalk episode 179's source-scoped accusation branch.

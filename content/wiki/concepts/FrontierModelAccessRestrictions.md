@@ -2,11 +2,13 @@
 title: "Frontier Model Access Restrictions"
 type: concept
 tags: [ai, models, policy, access-control]
-sources: [e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
-last_updated: 2026-08-08
+sources: [zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
+last_updated: 2026-08-17
 ---
 
 # Frontier Model Access Restrictions
+
+[[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds anti-distillation enforcement as an access-control reason. The source says closed labs can restrict or verify accounts, classify suspicious traffic, and look for behavior fingerprints such as repeated prompts, cross-account coordination, or chain-of-thought extraction attempts when users appear to be optimizing a competing model from closed-model outputs.
 
 [[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]] adds the enterprise-risk version. [[KeithZhai]] argues that when a company depends on a closed model API, provider policy shifts, regional restrictions, or sudden service changes become part of the product's security risk. This is why the source treats [[ModelSovereignty]] and self-hostable open weights as continuity tools, not only cheaper substitutes.
 
@@ -40,6 +42,7 @@ The source connects model-access restrictions to simpler regional product limita
 - Access restrictions can also be organized as a trusted-user preview when a model is useful for defense but could improve attacker capability if released broadly.
 - Downloadable weights make access restrictions less server-like: after release, the policy problem shifts from API cutoff to distribution, reuse, modification, and downstream dependence.
 - Enterprise buyers may treat closed API access volatility as a security and continuity risk even when the model itself is technically strong.
+- Anti-distillation policy can turn ordinary heavy API use into identity, provenance, and purpose verification, especially for research, education, startup, or model-development accounts.
 
 ## Connections
 - [[AIExportControls]] — broader policy category.
@@ -54,3 +57,4 @@ The source connects model-access restrictions to simpler regional product limita
 - [[China]], [[Alibaba]], [[ByteDance]], [[ZhipuAI|ZAI]], and [[OpenSourceAIModels]] - Chinese model-access and U.S. substitution branch added by the July 2026 Marketplace Tech episode.
 - [[ChineseOpenWeightAIStrategy]], [[AdamSiegel]], [[CouncilOnForeignRelations|Council on Foreign Relations]], and [[OpenWeightReleaseBoundary]] - open-weight access-control tension added by Marketplace Tech.
 - [[ModelSovereignty]], [[KimiK3]], and [[OpenModelSafetyGovernance]] - enterprise continuity and self-hosted governance branch added by E246.
+- [[AIModelDistillationGovernance]], [[ModelDistillationEvidence]], [[Anthropic]], [[OpenAI]], and [[GoogleDeepMind]] - anti-distillation and account-verification branch added by LateTalk episode 179.

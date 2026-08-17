@@ -2,11 +2,13 @@
 title: "Kimi K3"
 type: entity
 tags: [ai, model, china, coding]
-sources: [zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, yao-shunyu-laidao-tengxun-300tian-1-176-1, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
-last_updated: 2026-08-16
+sources: [zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, yao-shunyu-laidao-tengxun-300tian-1-176-1, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+last_updated: 2026-08-17
 ---
 
 # Kimi K3
+
+[[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds Kimi K3 as a milestone in the geopolitical distillation debate. The source says Chinese open models approaching U.S. closed frontier quality made distillation more sensitive, and treats K3 as one reason U.S. companies reacted more visibly; at the same time, it keeps accusations source-scoped by saying public evidence from [[Anthropic]] and others is incomplete.
 
 [[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] adds Kimi K3 as a price comparison point in the daily AI-model roundup. The source says Alibaba's new Qwen flagship is priced below Kimi K3, placing Kimi inside the same [[AIInferenceCostStructure]] and [[ClosedModelAPIMoatPressure]] frame as other Chinese and U.S. model providers.
 
@@ -37,3 +39,4 @@ The episode-dated release-governance claim is that K3 would open weights on 2026
 - [[TencentHunyuan]], [[DeepSeek]], [[MixtureOfExperts]], and [[LongChainAICompetition]] - Chinese model-competition context added by LateTalk episode 176.
 - [[ZhaoChenyang]], [[ZengZhiyuan]], [[KimiDeltaAttention]], [[AttentionResidues]], [[NoPositionEncoding]], [[QuantileBalancing]], [[PerHeadMuon]], [[KernelDevelopmentAgents]], [[AgentIn]], [[MOPDPostTraining]], and [[OnPolicyDistillation]] - LateTalk episode 177's technical report and training-infrastructure branch.
 - [[Qwen]], [[AIInferenceCostStructure]], [[ModelRoutingCostControl]], and [[ClosedModelAPIMoatPressure]] - price-comparison branch added by 声动早咖啡.
+- [[ModelDistillation]], [[ModelDistillationEvidence]], [[Anthropic]], [[DeepSeek]], and [[ChineseOpenWeightAIStrategy]] - LateTalk episode 179's accusation and open-model competition branch.

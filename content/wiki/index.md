@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [179: 蒸馏风暴：一场无人公开谈论的技术竞赛](sources/zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1.md) — LateTalk episode explaining model distillation as a technical, data-pipeline, ToS, organization, and business-model issue, with ByteDance's no-distillation stance, U.S. closed-lab accusations, and evidence standards for judging provenance.
 - [绿点小样 | 要推广替换芯，得把美妆重做一遍](sources/lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937.md) — 商业就是这样 episode on L'Oreal's refillable beauty packaging, showing how refills depend on durable package design, price discounts, channel visibility, replacement UX, and light sustainability marketing.
 - [Vol. 171 假如我们有无限 Token](sources/vol-171-jiaru-women-you-wuxian-token-1-6682-1.md) — 枫言枫语 episode on heavy AI-coding use, near-unlimited token access, long-running agents, loop design, disposable software, personalized app variants, hardware constraints, translation, education, and safety boundaries.
 - [咖啡豆｜两次遭遇苹果冲击，运动手表佳明为何还能增长？](sources/kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684.md) — 声动早咖啡 episode linking Dipsig V4 Pro, Tencent WorkBody investment, Lakers valuation, Claude watermarking, and a main Garmin explainer on GPS roots, phone navigation commoditization, professional wearable moats, and vertical integration.
@@ -5657,6 +5658,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Henry Yin](entities/HenryYin.md) — MOE Capital founding partner and LateTalk Q2 2026 AI-review guest connecting coding, RSI, enterprise models, open models, and AI commercialization.
 - [MOE Capital](entities/MOECapital.md) — Investment-firm context for Henry Yin's Q2 2026 AI review on model-company competition and RSI.
 - [GPT-5.6](entities/GPT56.md) — OpenAI frontier model tied to Q2 model competition and later Marketplace Tech release-governance concerns.
+- [O1](entities/O1.md) — OpenAI reasoning model used by the LateTalk distillation episode as the post-training and test-time reasoning catalyst for richer teacher data.
 - [Recursive](entities/Recursive.md) — RSI and Auto Research startup discussed through source-reported NanoChat, NanoGPT speed, and GPU-kernel benchmark results.
 - [Harvey](entities/Harvey.md) — Legal-AI company used as the enterprise-owned-model case with Applied Compute and the GLM model family.
 - [Applied Compute](entities/AppliedCompute.md) — Post-training company in the Harvey legal-domain model case.
@@ -6603,6 +6605,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Theatrical Window Bargaining](concepts/TheatricalWindowBargaining.md) — Use of cinema release volume and exclusivity windows to bargain with exhibitors during streaming-era media consolidation.
 - [World Cup Hydration Pause Ad Inventory](concepts/WorldCupHydrationPauseAdInventory.md) — Rule-created live-sports advertising inventory from fixed World Cup hydration breaks.
 - [AI Model Distillation Governance](concepts/AIModelDistillationGovernance.md) — Legal, geopolitical, provenance, and organizational controls around whether a model team should use distillation.
+- [Agent Trajectory Distillation](concepts/AgentTrajectoryDistillation.md) — Agent-era distillation where a stronger model produces or scores task traces inside executable environments, not only static answers.
 - [Bottled Water Portfolio Spinout](concepts/BottledWaterPortfolioSpinout.md) — Strategy pattern where a CPG owner separates a still-growing bottled-water business because margin, cost structure, and risk fit poorly with core categories.
 - [Premium Bottled Water Economics](concepts/PremiumBottledWaterEconomics.md) — Category logic where source story and lifestyle branding support price but packaging, logistics, and site-bound operations weigh on margins.
 - [Water Source Authenticity Risk](concepts/WaterSourceAuthenticityRisk.md) — Trust and regulatory risk when a premium water brand's value depends on natural source, mineral identity, and treatment claims.
@@ -6894,6 +6897,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Local Zine Revival / 在地小杂志回潮](concepts/LocalZineRevival.md) — Small place-based print revival using zines and city booklets to preserve local food, walking, taste, memory, and community identity.
 - [AI Office Agent](concepts/AIOfficeAgent.md) — Office/productivity agent category where models, coding-like execution, enterprise data, permissions, and workflows compete to become the work entry point.
 - [Model Distillation / 模型蒸馏](concepts/ModelDistillation.md) — Technique and controversy split that distinguishes classic distillation from generated-output training, terms violations, and unsupported copying accusations.
+- [Model Distillation Evidence](concepts/ModelDistillationEvidence.md) — Evidence standard for judging distillation claims through behavior, provenance, and traffic signals rather than model self-identification.
 - [Model Identity Data Pollution / 模型身份数据污染](concepts/ModelIdentityDataPollution.md) — Evidence-quality warning that model self-identification errors can come from mixed public AI-output data rather than proving systematic distillation.
 - [Scaling Efficiency](concepts/ScalingEfficiency.md) — Model-development pressure to improve capability per unit of compute, latency, and cost under constrained resources.
 - [Open-Weight Commercial Licensing](concepts/OpenWeightCommercialLicensing.md) — Business model where open weights remain broadly usable while high-revenue hosted model services owe commercial terms or certification.
