@@ -2,7 +2,7 @@
 title: "Mission Driven Customer Education"
 type: concept
 tags: [marketing, consumer-products, cpg, startups]
-sources: [lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937, advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a, advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714, advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]
+sources: [bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69, lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937, advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a, advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714, advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]
 last_updated: 2026-08-17
 ---
 
@@ -13,6 +13,8 @@ Mission driven customer education is the go-to-market work of explaining why a v
 [[advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a]] adds [[CabDab]] and [[TannenOralCare]]. Cab Dab needs to explain a cabbage-based pain-relief origin through samples and trusted professional channels, while Tannen needs to teach oral microbiome, ingredients, taste, and non-coffee use cases without losing the simple coffee-origin hook.
 
 [[lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937]] adds the sustainability-behavior version through [[RefillableBeautyPackaging]]. The source argues that consumers may approve of lower-waste packaging but still need a practical reason and an easy path: lower price, clear location, advisor explanation, online co-display, and a replacement experience that does not feel like a chore.
+
+[[bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69]] adds the infant-feeding version through [[Bobbie]]. The education job is delicate: the brand has to reduce [[FormulaFeedingStigma]] and explain a European-style [[InfantFormula]] while avoiding claims that would make the product sound like an unapproved substitute for breast milk or a guaranteed medical outcome.
 
 ## Key Claims
 - Short social videos may create attention, but newsletters, websites, samples, demos, and direct storytelling often carry the fuller explanation.
@@ -27,8 +29,10 @@ Mission driven customer education is the go-to-market work of explaining why a v
 - Education can also affect AI-mediated discovery when public proof helps answer engines describe a product accurately.
 - Repositioning education has to explain both why the founder noticed the problem and why the broader product promise is not limited to that first use case.
 - Sustainability education works better when it turns values into low-friction behavior, such as a cheaper and easier refill, rather than asking customers to act from guilt alone.
+- In infant feeding, education has to make parents feel supported without converting emotional reassurance into overclaimed nutritional or medical superiority.
 
 ## Connections
+- [[Bobbie]], [[LauraModi]], [[FormulaFeedingStigma]], [[InfantFormula]], and [[RegulatedCPGMessaging]] - infant-feeding education branch added by How I Built This.
 - [[25AndPine]], [[RedTruckOrchards]], and [[Petaluma]] - three call examples.
 - [[Yobi]], [[CultureWineCompany]], and [[CaneDogCoffee]] - added call examples where expertise, place, and category education shape growth.
 - [[HealthyBaby]], [[FreitBarefoot]], [[SprinkleBites]], and [[Plantamica]] - added cases where education has to connect mission or novelty to practical buying proof.

@@ -2,11 +2,13 @@
 title: "Food and Drug Administration"
 type: entity
 tags: [organization, regulator, healthcare, food, drugs]
-sources: [big-lettuce-meets-small-intestine, reeses-heir-vs-chocolate-skimpflation, 130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh, tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, a-trip-to-the-magic-mushroom-megachurch, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources: [bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69, big-lettuce-meets-small-intestine, reeses-heir-vs-chocolate-skimpflation, 130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh, tsr-s5-johncoogan-audiofile-1-tsr-s5-johncoogan-audiofile-1, a-trip-to-the-magic-mushroom-megachurch, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
+last_updated: 2026-08-17
 ---
 
 # Food and Drug Administration
+
+[[bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69]] adds the FDA's infant formula branch through [[Bobbie]]. The source says Bobbie's German-made pilot was recalled because the agency viewed the "companion formula" as [[InfantFormula|infant formula]], then later gave Bobbie the green-light letter needed for its January 2021 launch. This makes the FDA part of [[InfantFormulaRegulatoryMoat]], where compliance, manufacturing, suppliers, labeling, and claims have to be solved together.
 
 [[reeses-heir-vs-chocolate-skimpflation]] adds an ordinary candy-label version of FDA relevance. The episode uses milk-chocolate and peanut-butter standards to show why [[ChocolateLabelStandards]] are not just marketing words: a product labeled [[ChocolateCompound|chocolate compound]], chocolate candy, or peanut butter cream may sit outside the legal terms consumers associate with classic [[Reeses|Reese's]].
 
@@ -34,6 +36,7 @@ The episode also uses the FDA in the [[Prevagen]] story. According to the source
 
 ## Connections
 - [[ChocolateLabelStandards]], [[ChocolateCompound]], [[Skimpflation]], [[Hershey]], and [[Reeses|Reese's]] - candy-labeling branch added by Planet Money.
+- [[Bobbie]], [[LauraModi]], [[InfantFormula]], [[InfantFormulaRegulatoryMoat]], [[RegulatedCPGMessaging]], and [[FormulaSupplyChainResilience]] - infant formula compliance branch added by How I Built This.
 - [[DietarySupplementHealthAndEducationAct]] - legal frame limiting FDA supplement oversight.
 - [[Lucy]], [[JohnCoogan]], [[RegulatedConsumerProductMoat]], and [[ShippingWeightEconomics]] - nicotine-gum regulation and consumer-product strategy added by The Social Radars.
 - [[GrayMarketPeptides]], [[ResearchChemicalLoophole]], and [[GLP1Agonists]] - peptide and research-chemical boundary added by Marketplace Tech.

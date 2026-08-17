@@ -7741,3 +7741,11 @@ Added source page for a 声动早咖啡 episode on Vans and Converse decline, cl
 ## [2026-08-17] lint | Wiki health check
 
 Ran health before lint; health scanned 11,007 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,007 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-08-12 with 10,690 nodes and 116,995 edges while the wiki scan found 11,007 pages; they found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` and provider API key variables are unset in this shell. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-17] ingest | Bobbie: Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants
+
+Added source page for a How I Built This episode on Laura Modi founding Bobbie in the concentrated U.S. infant formula market. Created pages for Bobbie, Laura Modi, Sarah Hardy, Perrigo, Nature's One, Baby's Only, Enfamil, Similac, Abbott Nutrition, WIC, U.S. Department of Health and Human Services, Robert F. Kennedy Jr., Bobbie for Change, Google Finance, Infant Formula, Formula Feeding Stigma, Infant Formula Regulatory Moat, Regulated CPG Messaging, Formula Supply Chain Resilience, WIC Formula Contracting, and Infant Formula Market Concentration. Updated overview, index, How I Built This, Guy Raz, Food and Drug Administration, Regulated Consumer Product Moat, Consumer Brand Moat, CPG Manufacturing Scale-Up, Vertical Integration For Quality Control, Mission Driven Customer Education, and Direct-to-Consumer Brand Control. No direct contradiction found; the source sharpens existing CPG and regulated-product pages by showing that formula startups need emotional permission, FDA compliance, claim discipline, manufacturing capacity, subscriber trust, and government-program access before demand can safely scale.
+
+## [2026-08-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

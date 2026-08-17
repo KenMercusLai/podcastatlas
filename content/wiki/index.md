@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bobbie: Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants](sources/bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69.md) — How I Built This episode on Bobbie, Laura Modi, infant formula stigma, FDA compliance, concentrated incumbents, DTC launch constraints, WIC access, and manufacturing control.
 - [Vans、匡威风光不再，经典帆布鞋为什么卖不动了？](sources/vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982.md) — 声动早咖啡 episode on Vans and Converse decline, comfort-led footwear demand, subculture mainstreaming dilution, heritage-product innovation debt, and short updates on JD.com, Didi, Apple China AI, and DeepSeek Harness.
 - [179: 蒸馏风暴：一场无人公开谈论的技术竞赛](sources/zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1.md) — LateTalk episode explaining model distillation as a technical, data-pipeline, ToS, organization, and business-model issue, with ByteDance's no-distillation stance, U.S. closed-lab accusations, and evidence standards for judging provenance.
 - [绿点小样 | 要推广替换芯，得把美妆重做一遍](sources/lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937.md) — 商业就是这样 episode on L'Oreal's refillable beauty packaging, showing how refills depend on durable package design, price discounts, channel visibility, replacement UX, and light sustainability marketing.
@@ -967,6 +968,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Bobbie](entities/Bobbie.md) — Infant formula startup built around European-style formula, feeding-stigma reduction, FDA compliance, DTC subscribers, and owned-manufacturing strategy.
+- [Laura Modi](entities/LauraModi.md) — Bobbie founder whose Google, Airbnb, motherhood, fundraising, recall, and supply-chain experiences anchor the source's founder story.
+- [Sarah Hardy](entities/SarahHardy.md) — Bobbie co-founder and COO chosen by Laura Modi as a culture-first operating partner from Airbnb.
+- [Perrigo](entities/Perrigo.md) — Infant formula contract manufacturer that became Bobbie's production partner after the company's FDA recall response.
+- [Nature's One](entities/NaturesOne.md) — Infant formula company and Ohio facility acquired by Bobbie to reduce dependence on one outside manufacturer.
+- [Baby's Only](entities/BabysOnly.md) — Toddler-formula brand retained by Bobbie after the Nature's One acquisition.
+- [Enfamil](entities/Enfamil.md) — Incumbent infant formula brand used as one side of the concentrated U.S. formula-market backdrop.
+- [Similac](entities/Similac.md) — Incumbent infant formula brand tied in the source to Abbott's 2022 recall and the national formula shortage.
+- [Abbott Nutrition](entities/AbbottNutrition.md) — Similac company context whose 2022 recall and facility shutdown illustrate concentrated formula-supply risk.
+- [WIC](entities/WIC.md) — U.S. nutrition program whose formula contracts shape brand access for many eligible families.
+- [U.S. Department of Health and Human Services](entities/USDepartmentOfHealthAndHumanServices.md) — Federal department context for Bobbie's formula-policy engagement.
+- [Robert F. Kennedy Jr.](entities/RobertFKennedyJr.md) — HHS secretary named in the source-scoped 2025 Bobbie policy-meeting section.
+- [Bobbie for Change](entities/BobbieForChange.md) — Bobbie-linked advocacy group working on infant-feeding policy, including formula coverage after breast cancer.
+- [Google Finance](entities/GoogleFinance.md) — Google product area where Laura Modi worked in product operations before Airbnb and Bobbie.
 - [Vans](entities/Vans.md) — Classic skate and canvas-footwear brand used as a current decline case around comfort demand, subculture dilution, and product innovation debt.
 - [Converse / 匡威](entities/Converse.md) — Nike-owned classic canvas-footwear brand whose All Star and Chuck Taylor heritage is used as a parallel decline case to Vans.
 - [VF Corporation / 威富集团](entities/VFCorporation.md) — Apparel and footwear group that acquired Vans and is used to show how corporate scale can slow culture-led product renewal.
@@ -6589,6 +6604,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Infant Formula](concepts/InfantFormula.md) — Regulated baby-food category combining parental trust, FDA standards, manufacturing reliability, stigma, and public-benefit access.
+- [Formula Feeding Stigma](concepts/FormulaFeedingStigma.md) — Shame around using infant formula when breastfeeding is treated as the only acceptable feeding path.
+- [Infant Formula Regulatory Moat](concepts/InfantFormulaRegulatoryMoat.md) — Defensibility and burden created by FDA compliance, recall risk, manufacturing standards, and safety trust in formula.
+- [Regulated CPG Messaging](concepts/RegulatedCPGMessaging.md) — Communication discipline for consumer products whose health, nutrition, or safety claims are legally constrained.
+- [Formula Supply Chain Resilience](concepts/FormulaSupplyChainResilience.md) — Manufacturing and inventory capacity needed to keep serving parents despite long lead times, recalls, and concentrated supply.
+- [WIC Formula Contracting](concepts/WICFormulaContracting.md) — Public-benefit contracting structure that can shape formula choice and reinforce incumbent scale.
+- [Infant Formula Market Concentration](concepts/InfantFormulaMarketConcentration.md) — Market-structure pattern where a few formula brands dominate a regulated, supply-sensitive category.
 - [Classic Canvas Shoe Decline](concepts/ClassicCanvasShoeDecline.md) — Pattern where famous canvas-shoe brands lose momentum as comfort demand, identity dilution, and product innovation debt compound.
 - [Comfort-Led Footwear Demand](concepts/ComfortLedFootwearDemand.md) — Consumer shift toward daily shoes that combine comfort, function, and style, pressuring flat canvas classics.
 - [Subculture Mainstreaming Dilution](concepts/SubcultureMainstreamingDilution.md) — Brand failure mode where a once-subcultural product loses identity premium after broad mainstream distribution.
