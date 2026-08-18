@@ -2,7 +2,7 @@
 title: "田和 / Tian He"
 type: entity
 tags: [person, ruler, pre-qin, warring-states, qi-state]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
+sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
 last_updated: 2026-08-19
 ---
 
@@ -16,6 +16,8 @@ The same source frames Tian He as the beneficiary of a precedent. After [[ThreeJ
 
 The page is source-scoped. It anchors the episode's claim that annalistic recognition can matter even when the practical power shift and the actor's life no longer line up neatly.
 
+[[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb]] returns to the immediate succession problem after Tian He. The episode says the received line is easy to misread: Tian He's son [[TianYan|田衍]] should come before [[TianQiHuanGong|田氏齐桓公 / 田武]], and Tian Wu reaches power through killing Tian Yan, installing [[GongziXiQi|公子喜]], then killing Gongzi Xi. This makes Tian He a hinge between formal recognition and the still-violent consolidation of Tian-family rule.
+
 [[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] continues the result of that transition. With [[QiKangGong|齐康公]]'s death, the source treats Jiang-line Qi as ended, while the Tian line continues through [[TianQiHuanGong|Tian-family Qi Huan Gong]] and [[TianYingqi|田英齐]].
 
 ## Connections
@@ -24,4 +26,4 @@ The page is source-scoped. It anchors the episode's claim that annalistic recogn
 - [[QiKangGong|齐康公]], [[TianFamilyReplacementOfQi|田氏代齐]], and [[ThreeJinVassalRecognition|三晋受封]] - displacement and precedent branch added by Zhouji 07 part 3.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle source whose purpose in recording the notice is discussed.
 - [[WarringStatesPeriod|战国时期]] - period setting.
-- [[QiKangGong|齐康公]], [[TianQiHuanGong|Tian-family Qi Huan Gong]], and [[TianYingqi|田英齐]] - Zhouji 09 continuation of the Qi transition branch.
+- [[TianYan|田衍]], [[TianQiHuanGong|Tian-family Qi Huan Gong]], [[GongziXiQi|公子喜]], and [[TianYingqi|田英齐]] - continuation and disputed succession branch.

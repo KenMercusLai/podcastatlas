@@ -8167,6 +8167,10 @@ Added source page for a 芮淇讲透资治通鉴 episode opening Zhouji 11 and Z
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》08丨一代名将吴起惨死（3）
+
+Added source page for a 芮淇讲透资治通鉴 episode completing the Wu Qi death arc and covering Qin Xian Gong's coup, Tian-family Qi succession disorder, Jixia Academy, Bian Que's warning story, sparse Wei-Zhao/Han-Zheng/Qi-Lu/Song conflict notices, solar-eclipse omen skepticism, and Chu Su Wang's punishment of nobles after Wu Qi is killed against Chu Dao Wang's corpse. Created pages for Qin Ling Gong, Tian Yan, Gongzi Xi, and Bian Que; updated overview, index, Wu Qi, Qin/Qi/Chu/Zhou An Wang state and ruler pages, Jixia/Linzi, Tian-family Qi pages, omen/source-gap/chronology-drift concepts, Early Warring States Interstate War, Warring States Reform Backlash, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, and variant-source pages for Lushi Chunqiu, Han Fei, Mozi, and Huainanzi. No direct contradiction found; the Tian-family succession issue is recorded as chronology/naming drift rather than silently reconciling earlier Tian Qi pages.
+
 
 ## [2026-08-19] ingest | 《资治通鉴·周纪》29丨苏秦励志爽文：知识改变命运
 
@@ -8335,3 +8339,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran health before lint; health scanned 11,782 pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,782 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key is configured in this shell. Report returned in-session; `wiki/lint-report.md` was not saved.

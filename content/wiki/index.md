@@ -37,6 +37,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（2）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi.md) — 芮淇讲透资治通鉴 episode on Han court assassination, Wei succession disorder, Qi Wei Wang's contested chronology and official audits, and Chu/Song succession notices under Zhou Lie Wang.
 - [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（1）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d.md) — 芮淇讲透资治通鉴 episode on Han destroying Zheng through multi-generation family strategy and capital relocation, Taishi Dan's Qin visit, Qin's origin from Feizi to recognized statehood, and early Zhou Lie Wang war/succession notices.
 - [《资治通鉴·周纪》09丨战国时代的世界大战](sources/zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl.md) — 芮淇讲透资治通鉴 episode on early Warring States coalition war, Jiang-line Qi and Jin's endings, Zhongshan revival, Zhou An Wang's death, and Zisi's advice on flawed talent and court flattery.
+- [《资治通鉴·周纪》08丨一代名将吴起惨死（3）](sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb.md) — 芮淇讲透资治通鉴 episode on Qin Xian Gong's coup, Tian-family Qi succession disorder, Jixia Academy, Wei-Zhao conflict, eclipse omen skepticism, and Wu Qi's death after Chu Dao Wang's protection disappears.
 - [《资治通鉴·周纪》08丨一代名将吴起惨死（2）](sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm.md) — 芮淇讲透资治通鉴 episode on Wu Qi fleeing Wei for Chu, Chu Dao Wang's reform backing, noble backlash against Wu Qi's centralizing measures, Qin/Zhao/Han/Qi succession and recognition notices, and Han Fei's ruler-technique reading of Zhao Jinghou.
 - [《资治通鉴·周纪》08丨一代名将吴起惨死（1）](sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll.md) — 芮淇讲透资治通鉴 episode on Wu Qi under Wei Wuhou, virtue over terrain, Tian Wen's transition-stability argument, and Gongshu's marriage-trap maneuver.
 - [《资治通鉴·周纪》07丨两起刺杀（2）](sources/zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm.md) — 芮淇讲透资治通鉴 episode on Zhou An Wang years 5-8, solar-eclipse political responsibility, Nie Zheng's assassination of Xia Lei, Nie Ying's honor death, Wei/Song/Zheng successions, Song's Shang lineage, source gaps, and Fushu's repeated transfer.
@@ -1175,6 +1176,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵成侯 / Marquis Cheng of Zhao](entities/ZhaoChenghou.md) — Zhao Zhong, successor to Zhao Jinghou in Zhou Lie Wang's first-year notice.
 - [太史旦 / Taishi Dan](entities/TaishiDan.md) — Zhou grand historian whose Shiji visit to Qin Xian Gong becomes Zhouji 10's source-switching and Qin-diplomacy case.
 - [秦献公 / Duke Xian of Qin](entities/QinXianGong.md) — Qin ruler addressed by Taishi Dan's Zhou-Qin common-origin and future-hegemon speech.
+- [秦灵公 / Duke Ling of Qin](entities/QinLingGong.md) — Qin Xian Gong's father, used by Zhouji 08 part 3 to explain Qin Xian Gong's plausible claim during the coup against Qin Chugong.
 - [非子 / Qin Feizi](entities/QinFeizi.md) — Qin origin figure rewarded by Zhou Xiao Wang for horse-raising skill before Qin became a recognized state.
 - [秦襄公 / Duke Xiang of Qin](entities/QinXiangGong.md) — Qin leader whose service to Zhou Ping Wang leads to Qin's formal recognition in the source's origin story.
 - [周孝王 / King Xiao of Zhou](entities/ZhouXiaowang.md) — Zhou ruler who grants Feizi land at Qin in the episode's Qin-origin digression.
@@ -1193,6 +1195,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [燕简公 / Duke Jian of Yan](entities/YanJiangong.md) — Elderly Yan ruler whose state is attacked by Qi and rescued by Han, Zhao, and Wei in Zhouji 09.
 - [齐康公 / Duke Kang of Qi](entities/QiKangGong.md) — Last Jiang-line Qi ruler, displaced by Tian He in Zhouji 07 part 3 before Zhouji 09 marks his death as the old Qi lineage's end.
 - [田氏齐桓公 / Tian-family Qi Huan Gong](entities/TianQiHuanGong.md) — Tian-family Qi ruler named in Zhouji 09, kept separate from the older Spring-Autumn Qi Huan Gong.
+- [田衍 / Tian Yan](entities/TianYan.md) — Tian He's son whose killing by Tian Wu anchors Zhouji 08 part 3's source-critical Tian-family Qi succession branch.
+- [公子喜 / Gongzi Xi](entities/GongziXiQi.md) — Tian Yan's son, installed as a puppet by Tian Wu before being killed in the Tian-family Qi succession story.
 - [田英齐 / Tian Yingqi](entities/TianYingqi.md) — Tian-family Qi successor named by Zhouji 09 after the Tian-family Qi Huan Gong.
 - [楚肃王 / King Su of Chu](entities/ChuSuwang.md) — Chu ruler who turns Zhao's request for help into opportunistic pressure on Wei.
 - [晋烈公 / Duke Lie of Jin](entities/JinLiegong.md) — Jin ruler whose 393 BCE death introduces the hollow Jin succession notice in Zhouji 07 part 3.
@@ -1224,6 +1228,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《诗经》 / Shijing](entities/Shijing.md) — Classic cited through "日有蚀之" to ground eclipse political responsibility.
 - [鲁国 / Lu State](entities/LuState.md) — State attacked by Qi in the source's 394 BCE notice.
 - [负黍 / Fushu](entities/FushuCity.md) — City whose repeated transfer among Han, Zheng, and Chu illustrates territorial churn.
+- [扁鹊 / Bian Que](entities/BianQue.md) — Physician whose warning to Tian-family Qi Huan Gong is used by Zhouji 08 part 3 as a ruler-judgment caution about rejecting expertise.
 - [芮淇讲透资治通鉴 / Ruiqi Jiangtou Zizhi Tongjian](entities/RuiqiJiangtouZizhiTongjian.md) — Podcast series reading Zizhi Tongjian through explanatory, management, and historiographical frames.
 - [《资治通鉴》 / Zizhi Tongjian](entities/ZizhiTongjian.md) — Chinese chronicle text used by the Ruiqi episode to read Zhou-annals succession, military leadership, and political attribution.
 - [司马穰苴 / Sima Rangju](entities/SimaRangju.md) — Qi military figure introduced as a low-born commander whose discipline and morale method precedes the episode's Wu Qi discussion.

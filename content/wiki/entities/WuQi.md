@@ -2,7 +2,7 @@
 title: "吴起 / Wu Qi"
 type: entity
 tags: [person, general, strategist, reformer, warring-states, military-history]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
 last_updated: 2026-08-19
 ---
 
@@ -24,6 +24,8 @@ The same source then complicates Wu Qi's suitability for high office. He can cre
 
 [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]] carries that vulnerability into exile. Wu Qi fears [[WeiWuhou|魏武侯]] may kill him and flees to [[ChuState|楚国]], where [[ChuDaoWang|楚悼王]] appoints him to high office. In Chu he becomes a reformer: he clarifies law, redirects noble and royal privileges toward soldiers, removes idle officials, trains the army, and opposes peace with [[QinState|秦国]]. The episode frames this as [[WarringStatesReformBacklash]]: the same measures that strengthen Chu also make nobles, royal kin, and old officeholders hate him.
 
+[[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb]] completes Wu Qi's death arc. When [[ChuDaoWang|楚悼王]] dies, the nobles who had been injured by Wu Qi's reforms immediately attack; in the [[ZizhiTongjian|《资治通鉴》]] account, Wu Qi clings to the dead ruler's body and is shot along with it. [[ChuSuwang|楚肃王]] later exterminates more than seventy noble households for damaging the corpse, while [[LushiChunqiu|《吕氏春秋》]] makes Wu Qi's final move more deliberate by saying he used the ruler's corpse to trigger punishment against his enemies. The episode's final judgment is double-sided: Wu Qi is treated as one of the age's highest-capacity generals and reformers, but also as a ruthless figure who never built enough trust or legitimacy to survive without a ruler's protection.
+
 ## Connections
 - [[SimaRangju|司马穰苴]] - earlier commander the episode treats as Wu Qi's precursor.
 - [[LiKe|李克]], [[LuState|鲁国]], [[QiState|齐国]], [[UseStrengthsOverFaults]], and [[TalentVirtueDistinction]] - part 1 reputation and flawed-talent branch.
@@ -32,4 +34,4 @@ The same source then complicates Wu Qi's suitability for high office. He can cre
 - [[MilitaryMoraleThroughSharedHardship]] - main concept built from his soldier-facing conduct.
 - [[WarringStatesPeriod|战国时期]] and [[MilitaryPersonalization]] - broader military-political setting and adjacent loyalty risk.
 - [[WeiWuhou|魏武侯]], [[TianWenWeiChancellor|田文]], [[GongshuWeiChancellor|公叔]], [[VirtueOverNaturalBarriers]], and [[TransitionFitOverMerit]] - court-politics branch added by Zhouji 08.
-- [[ChuDaoWang|楚悼王]], [[ChuState|楚国]], and [[WarringStatesReformBacklash]] - reform-and-backlash branch added by Zhouji 08 part 2.
+- [[ChuDaoWang|楚悼王]], [[ChuSuwang|楚肃王]], [[ChuState|楚国]], [[LushiChunqiu|《吕氏春秋》]], and [[WarringStatesReformBacklash]] - reform, death, source-variant, and backlash branch added by Zhouji 08.

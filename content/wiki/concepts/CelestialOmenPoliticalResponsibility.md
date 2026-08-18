@@ -2,8 +2,8 @@
 title: "Celestial Omen Political Responsibility / 天象政治责任"
 type: concept
 tags: [historiography, omens, legitimacy, chinese-history]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+last_updated: 2026-08-19
 ---
 
 # Celestial Omen Political Responsibility / 天象政治责任
@@ -14,15 +14,19 @@ The concept is adjacent to [[NaturalDisasterPoliticalOmen]], but it deals with s
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] adds another solar-eclipse notice at the start of [[ZhouLiewang|周烈王]]'s reign. The episode does not analyze it as deeply as the earlier Shijing branch, but it keeps eclipses visible as recurring political-chronicle markers.
 
+[[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb]] adds a more skeptical eclipse case under [[ZhouAnWang|周安王]]'s twentieth year. The episode explains the solar eclipse as an omen that ancient astrology could associate with a ruler's death, but notes that the prediction does not fit [[QinXianGong|秦献公]]'s actual survival. This keeps the concept focused on historical political reasoning rather than endorsing the omen as a successful forecast.
+
 ## Key Claims
 - Solar eclipses could be recorded as politically meaningful events.
 - Responsibility for a major omen could be directed toward ruler and chief minister, especially in more centralized later political imagination.
 - A self-critical edict can function as ritualized accountability when literal punishment of every ruler or minister is impossible.
 - Studying the omen system explains historical political reasoning without endorsing celestial causation.
 - A repeated eclipse notice can function as continuity in the annalistic frame even when the episode's main analysis moves elsewhere.
+- A failed or mismatched prediction is useful evidence for how omen reasoning worked and where its literal causal claim breaks down.
 
 ## Connections
 - [[Shijing|《诗经》]] - source cited for an earlier eclipse notice.
 - [[ZizhiTongjian|《资治通鉴》]] and [[ZhouAnWang|周安王]] - chronicle and annalistic frame.
 - [[MandateOfHeavenLegitimacy]], [[NaturalDisasterPoliticalOmen]], and [[AuspiciousOmenPolitics]] - adjacent sign-reading concepts.
 - [[ZhouLiewang|周烈王]] and [[GenerationalFamilyStrategy]] - Zhouji 10 reign-opening context where the eclipse precedes the Han-Zheng focus.
+- [[QinXianGong|秦献公]] and [[HistoricalDetectiveReasoning]] - Zhouji 08 part 3 failed-prediction caution.

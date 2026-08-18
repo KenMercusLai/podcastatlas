@@ -2,8 +2,8 @@
 title: "墨子 / Mozi"
 type: entity
 tags: [person, philosopher, chinese-classics, pre-qin]
-sources: [150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
-last_updated: 2026-08-06
+sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, 150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+last_updated: 2026-08-19
 ---
 
 # 墨子 / Mozi
@@ -14,9 +14,12 @@ last_updated: 2026-08-06
 
 This page is source-scoped. It records Mozi as part of the [[WarringStatesPeriod|Warring States]] thought market rather than summarizing Mohism as a full system. In the episode, Mozi mainly helps explain why [[RighteousnessOverProfit]] and Mencius's defense of [[Confucius|孔子]]'s path had polemical stakes.
 
+[[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb]] adds a different, text-reference role: the episode names Mozi among sources that preserve a tradition of [[WuQi|吴起]] being torn apart. The wiki keeps this as a variant-source notice around Wu Qi's death, separate from Mozi's broader philosophical branch.
+
 ## Connections
 - [[Mengzi|孟子 / Mencius]] - rival intellectual context.
 - [[LiLu|李璐]], [[StrangerTrustSixthRelation]], and [[ChineseModernizationCulturalGap]] - episode 150's modern trust and cultural-renewal branch.
 - [[YangZhu|杨朱]] - paired rival teaching in the source.
 - [[WarringStatesPeriod|战国时期]] and [[JixiaAcademy|稷下学宫]] - broader thought-market setting.
+- [[WuQi|吴起]] and [[WarringStatesReformBacklash]] - Zhouji 08 part 3 death-variant branch.
 - [[RighteousnessOverProfit]] and [[EarlyConfucianResistancePolitics]] - concepts clarified by Mencius's rivalry with non-Confucian alternatives.
