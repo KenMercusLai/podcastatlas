@@ -16471,6 +16471,10 @@
     "title": "龚宇",
     "url": "/wiki/entities/gongyu/"
   },
+  "GongshuWeiChancellor": {
+    "title": "公叔 / Gongshu (Wei chancellor)",
+    "url": "/wiki/entities/gongshuweichancellor/"
+  },
   "GongziPengsheng": {
     "title": "公子彭生",
     "url": "/wiki/entities/gongzipengsheng/"
@@ -38167,6 +38171,10 @@
     "title": "《天龙八部》",
     "url": "/wiki/entities/tianlongbabu/"
   },
+  "TianWenWeiChancellor": {
+    "title": "田文 / Tian Wen (Wei chancellor)",
+    "url": "/wiki/entities/tianwenweichancellor/"
+  },
   "TianYuandong": {
     "title": "Tian Yuandong / 田渊栋",
     "url": "/wiki/entities/tianyuandong/"
@@ -38602,6 +38610,10 @@
   "TransformerArchitecture": {
     "title": "Transformer Architecture",
     "url": "/wiki/concepts/transformerarchitecture/"
+  },
+  "TransitionFitOverMerit": {
+    "title": "Transition Fit Over Merit / 过渡期适任优先于功劳",
+    "url": "/wiki/concepts/transitionfitovermerit/"
   },
   "TransitionalAIHardware": {
     "title": "Transitional AI Hardware",
@@ -39862,6 +39874,10 @@
   "VirtualAssetAMLRisk": {
     "title": "Virtual Asset AML Risk",
     "url": "/wiki/concepts/virtualassetamlrisk/"
+  },
+  "VirtueOverNaturalBarriers": {
+    "title": "Virtue Over Natural Barriers / 德胜地险",
+    "url": "/wiki/concepts/virtueovernaturalbarriers/"
   },
   "Visa": {
     "title": "Visa",
@@ -45950,5 +45966,9 @@
   "zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm": {
     "title": "《资治通鉴·周纪》07丨两起刺杀（2）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm/"
+  },
+  "zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll": {
+    "title": "《资治通鉴·周纪》08丨一代名将吴起惨死（1）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll/"
   }
 }

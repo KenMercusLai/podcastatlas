@@ -2,7 +2,7 @@
 title: "魏国 / Wei State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
+sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll]
 last_updated: 2026-08-18
 ---
 
@@ -16,6 +16,8 @@ In this page, Wei is not yet a full institutional history. Its wiki role is to h
 
 [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] adds the death of [[WeiWenhou|魏文侯]] and accession of [[WeiWuhou|魏武侯]], turning Wei from a military-rise case into a succession case as well.
 
+[[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll]] turns that succession into an internal-governance problem. [[WeiWuhou|魏武侯]] praises West River terrain, but [[WuQi|吴起]] argues for [[VirtueOverNaturalBarriers]]. The chancellor dispute between Wu Qi and [[TianWenWeiChancellor|田文]], followed by [[GongshuWeiChancellor|公叔]]'s trap, makes Wei a case where state strength depends on ruler-minister trust and transition management, not only on armies.
+
 ## Connections
 - [[WeiWenhou|魏文侯]] - ruler named in the episode title.
 - [[WuQi|吴起]] and [[Wuzi|《吴子》]] - military branch.
@@ -24,3 +26,4 @@ In this page, Wei is not yet a full institutional history. Its wiki role is to h
 - [[QinState|秦国]] - early military opponent in episode 07.
 - [[NaturalDisasterPoliticalOmen]] and [[WangYinglin|王应麟]] - Guo mountain omen branch.
 - [[WeiWuhou|魏武侯]] - successor added by part 2.
+- [[TianWenWeiChancellor|田文]], [[GongshuWeiChancellor|公叔]], [[VirtueOverNaturalBarriers]], and [[TransitionFitOverMerit]] - succession court-politics branch added by Zhouji 08.

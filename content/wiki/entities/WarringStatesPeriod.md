@@ -2,7 +2,7 @@
 title: "战国时期 / Warring States Period"
 type: entity
 tags: [history, china, pre-qin, political-theory, warfare]
-sources: [30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
+sources: [30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll]
 last_updated: 2026-08-18
 ---
 
@@ -18,6 +18,8 @@ This page is source-scoped. Its role is to explain why [[Mengzi|孟子 / Mencius
 
 [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] extends that transition through [[NieZheng|聂政]]'s assassination, [[ZhengXugong|郑繻公]]'s killing, [[WeiWuhou|魏武侯]]'s accession, and [[FushuCity|负黍]]'s repeated transfer. The source's strongest period claim is that war tempo and political violence are both accelerating.
 
+[[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll]] adds an internal Wei branch. [[WuQi|吴起]]'s West River warning shows Warring States rulers balancing geography against legitimacy through [[VirtueOverNaturalBarriers]], while the chancellor dispute with [[TianWenWeiChancellor|田文]] shows [[TransitionFitOverMerit]] inside a fragile succession.
+
 ## Connections
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode.
 - [[SpringAndAutumnPeriod|春秋时期]] and [[SpringAutumnWarfareRitual]] - adjacent earlier pre-Qin history branch.
@@ -28,3 +30,4 @@ This page is source-scoped. Its role is to explain why [[Mengzi|孟子 / Mencius
 - [[PosthumousNamePolitics]] and [[BanditAssassinationAttribution]] - chronicle-reading concepts added by the Ruiqi episode.
 - [[ZhengState|郑国]], [[SmallStateBufferDiplomacy]], and [[SpringAutumnToWarringStatesPoliticalViolence]] - political-order transition branch added by episode 07.
 - [[NieZheng|聂政]], [[AristocraticHonorOverLife]], [[FushuCity|负黍]], and [[TerritorialControlChurn]] - part 2 assassination and territorial-churn branch.
+- [[WeiWuhou|魏武侯]], [[TianWenWeiChancellor|田文]], [[GongshuWeiChancellor|公叔]], [[VirtueOverNaturalBarriers]], and [[TransitionFitOverMerit]] - Zhouji 08 internal-governance branch.

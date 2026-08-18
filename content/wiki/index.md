@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》08丨一代名将吴起惨死（1）](sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll.md) — 芮淇讲透资治通鉴 episode on Wu Qi under Wei Wuhou, virtue over terrain, Tian Wen's transition-stability argument, and Gongshu's marriage-trap maneuver.
 - [《资治通鉴·周纪》07丨两起刺杀（2）](sources/zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm.md) — 芮淇讲透资治通鉴 episode on Zhou An Wang years 5-8, solar-eclipse political responsibility, Nie Zheng's assassination of Xia Lei, Nie Ying's honor death, Wei/Song/Zheng successions, Song's Shang lineage, source gaps, and Fushu's repeated transfer.
 - [《资治通鉴·周纪》07丨两起刺杀（1）](sources/zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx.md) — 芮淇讲透资治通鉴 episode on Zhou An Wang's first four years, Qin-Wei fighting, Han/Zhao/Qin successions, Wangzi Ding's flight, disaster-omen interpretation, Zheng's Jin-Chu buffer dilemma, and factional assassination politics.
 - [《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（2）](sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei.md) — 芮淇讲透资治通鉴 episode on Sima Rangju, Wu Qi's shared-hardship military leadership, Wei military discipline, Zhou/Yan/Chu chronology, posthumous names, and "bandit" assassinations as possible political cover.
@@ -1007,12 +1008,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [田文 / Tian Wen (Wei chancellor)](entities/TianWenWeiChancellor.md) — Wei chancellor whose answer to Wu Qi makes transition fit more important than raw achievement.
+- [公叔 / Gongshu (Wei chancellor)](entities/GongshuWeiChancellor.md) — Wei chancellor who fears Wu Qi and uses a marriage proposal trap to undermine ruler-minister trust.
 - [聂政 / Nie Zheng](entities/NieZheng.md) — Assassin hired by Yan Zhongzi to kill Han chancellor Xia Lei, then self-destroying to protect family identity.
 - [聂英 / Nie Ying](entities/NieYing.md) — Nie Zheng's sister who identifies his body and dies so his name will not be lost.
 - [严仲子 / Yan Zhongzi](entities/YanZhongzi.md) — Puyang feud-holder who recruits Nie Zheng to kill Xia Lei.
 - [侠累 / Xia Lei](entities/XiaLei.md) — Han chancellor killed by Nie Zheng, with a Zhanguo Ce variant linking the event to Han Aihou.
 - [韩哀侯 / Marquis Ai of Han](entities/HanAihou.md) — Han ruler appearing in the episode's Zhanguo Ce variant of the Nie Zheng assassination story.
-- [魏武侯 / Marquis Wu of Wei](entities/WeiWuhou.md) — Wei Wenhou's son and successor in the Zhouji 07 part 2 succession notice.
+- [魏武侯 / Marquis Wu of Wei](entities/WeiWuhou.md) — Wei Wenhou's son and successor whose early reign frames Wu Qi's West River warning and chancellor-transition politics.
 - [郑繻公 / Duke Xu of Zheng](entities/ZhengXugong.md) — Zheng ruler killed by Ziyang's remaining faction before Zheng Kang Gong's installation.
 - [宋国 / Song State](entities/SongState.md) — Pre-Qin state presented as a Shang-remnant polity preserved under Zhou ritual order.
 - [宋悼公 / Duke Dao of Song](entities/SongDaogong.md) — Song ruler whose death leads to Song Xiugong's accession in the source.
@@ -6849,6 +6852,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Virtue Over Natural Barriers / 德胜地险](concepts/VirtueOverNaturalBarriers.md) — Wu Qi's warning that terrain helps only when political virtue, legitimacy, and internal alignment hold.
+- [Transition Fit Over Merit / 过渡期适任优先于功劳](concepts/TransitionFitOverMerit.md) — Leadership-selection frame where a fragile succession needs stabilizing fit more than the strongest resume.
 - [Military Morale Through Shared Hardship / 同甘共苦式士气](concepts/MilitaryMoraleThroughSharedHardship.md) — Leadership mechanism linking commander credibility, shared burden, care, discipline, and soldiers' willingness to fight.
 - [Posthumous Name Politics / 谥号政治](concepts/PosthumousNamePolitics.md) — Chronicle-reading concept for how posthumous ruler labels encode retrospective judgment rather than ordinary names.
 - [Bandit Assassination Attribution / 盗贼行刺归因](concepts/BanditAssassinationAttribution.md) — Historiographical caution that "bandits killed the ruler" may identify physical killers while obscuring political authorship.
