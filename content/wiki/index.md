@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 10: A thought-provoking chat with an actuary and TEDx speaker](sources/ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker.md) — Data Science With Sam episode with Charles Johnson on actuarial career formation, actuarial exams, data scientist-actuary collaboration, automated underwriting, insurance regulatory accountability, and ChatGPT as professional augmentation.
 - [EP 12: Insightful Conversation with a Football Analytics Professional](sources/ep-12-insightful-conversation-with-a-football-analytics-professional.md) — Data Science With Sam episode with Anna D'Souza on soccer analytics, stakeholder communication, data-driven scouting, athlete data privacy, event/tracking data, AI/ML, and predictive modeling.
 - [EP 9: ChatGPT and Education Systems](sources/ep-9-chatgpt-and-education-systems.md) — Data Science With Sam episode with Joseph Strader on ChatGPT in schools, academic integrity, teacher AI augmentation, teacher AI literacy, K-12 computer science access, and human-driven AI education.
 - [EP 8: Implementation of AI in scientific research](sources/ep-8-implementation-of-ai-in-scientific-research.md) — Data Science With Sam episode with Lucas Simon on biomedical AI, computational biology, sequencing pipelines, gene-expression matrices, single-cell RNA sequencing, autoencoders, Keras, and TensorFlow.
@@ -981,6 +982,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Charles Johnson](entities/CharlesJohnson.md) — Seasoned actuary and Data Science With Sam guest explaining actuarial exams, self-study, data scientist-actuary collaboration, insurance domain judgment, and AI augmentation.
+- [Actuarial Development](entities/ActuarialDevelopment.md) — Source-scoped actuarial professional-development organization/site tied to Charles Johnson's student community, event, and career-path advice.
 - [Anna D'Souza](entities/AnnaDSouza.md) — Football analytics professional connecting playing, coaching, economics, Python, NWSL game data, Jamaican national-team scouting, communication, privacy, and predictive modeling.
 - [Jamaican Women's National Team](entities/JamaicanWomensNationalTeam.md) — National-team context for diaspora recruitment, game-model scouting, and soccer analytics in Anna D'Souza's Data Science With Sam episode.
 - [Electronic Arts](entities/ElectronicArts.md) — Game company appearing through Anna D'Souza's EA data reviewer and producer work connected to the NWSL side of the game.
@@ -1003,8 +1006,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Society of Actuaries](entities/SocietyOfActuaries.md) — Professional actuarial organization used as fellowship context for Mary Pat Campbell and Stephen Mathis and as an industry mortality-data aggregation point.
 - [American Academy of Actuaries](entities/AmericanAcademyOfActuaries.md) — Mary Pat Campbell affiliation and source-scoped context for U.S. actuarial professional expectations.
 - [Casualty Actuarial Society](entities/CasualtyActuarialSociety.md) — Property-and-casualty actuarial organization referenced as part of the historical overlap between actuarial work and statistics.
-- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for Data Science With Sam episodes on soccer analytics, ChatGPT in education, biomedical computational biology, production ML/MLOps, academic AI research paths, cybersecurity, NASA space AI, impostor syndrome, experimental-science AI, and actuarial insurance data practice.
-- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of Data Science With Sam conversations on soccer analytics, ChatGPT in education, biomedical AI, production ML/MLOps, academic AI research, cybersecurity, NASA space AI, professional confidence, scientific AI, and actuarial insurance data.
+- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for Data Science With Sam episodes on actuarial career/team design, soccer analytics, ChatGPT in education, biomedical computational biology, production ML/MLOps, academic AI research paths, cybersecurity, NASA space AI, impostor syndrome, experimental-science AI, and actuarial insurance data practice.
+- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of Data Science With Sam conversations on actuarial career/team design, soccer analytics, ChatGPT in education, biomedical AI, production ML/MLOps, academic AI research, cybersecurity, NASA space AI, professional confidence, scientific AI, and actuarial insurance data.
 - [Effie (Data Science With Sam)](entities/EffieDataScienceWithSam.md) — Biology-focused guest emphasizing experimental records, bioinformatics collaboration, quality control, and AI lab documentation.
 - [Mossam (Data Science With Sam)](entities/MossamDataScienceWithSam.md) — Stanford research scientist guest explaining retrosynthesis AI, radiochemistry tracers, blood-brain-barrier prediction, negative chemistry data, and radioactive-safety oversight.
 - [Recursion Pharma](entities/RecursionPharma.md) — AI drug-discovery company cited as a source-scoped example of commercial small-molecule prediction.
@@ -6665,6 +6668,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Actuary Data Scientist Partnership](concepts/ActuaryDataScientistPartnership.md) — Insurance analytics team pattern combining data-science modeling and automation with actuarial domain accountability, pricing judgment, valuation, underwriting support, and regulatory sign-off.
+- [Actuarial Self-Study Career Path](concepts/ActuarialSelfStudyCareerPath.md) — Actuarial career-formation pattern built around exams, daily self-study, changing curricula, community support, and continuous technical learning.
+- [Actuarial AI Augmentation](concepts/ActuarialAIAugmentation.md) — Use of ChatGPT and related AI tools to accelerate actuarial and data-science work while preserving validation, citation, traceability, and professional-accountability boundaries.
 - [Sports Analytics](concepts/SportsAnalytics.md) — Applied data-science field where sport knowledge, stakeholder communication, scouting, privacy, event/tracking data, and predictive modeling shape decisions.
 - [Sports Analytics Stakeholder Communication](concepts/SportsAnalyticsStakeholderCommunication.md) — Translating technical sports analysis into coach-, player-, scout-, and executive-facing decision cues.
 - [Data-Driven Football Scouting](concepts/DataDrivenFootballScouting.md) — Use of metrics, KPIs, platforms, and analyst judgment to identify players who fit a club or national-team game model.
@@ -6716,10 +6722,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Confidence Profile Team Management](concepts/ConfidenceProfileTeamManagement.md) — Managerial practice of identifying underconfidence and overconfidence patterns and using feedback, evidence, and role design to calibrate them.
 - [Learning Ahead of Readiness](concepts/LearningAheadOfReadiness.md) — Starting work before total readiness when the missing knowledge can be learned just ahead of need inside manageable risk.
 - [Learnable Emotional Intelligence](concepts/LearnableEmotionalIntelligence.md) — Claim that confidence habits and interpersonal self-awareness can change through feedback, effort, and time.
-- [Actuarial Science](concepts/ActuarialScience.md) — Insurance and pension risk-quantification practice combining mortality tables, claims data, underwriting, modeling, business process knowledge, and professional judgment.
+- [Actuarial Science](concepts/ActuarialScience.md) — Insurance and pension risk-quantification practice combining mortality tables, claims data, underwriting, modeling, exams, business process knowledge, and professional judgment.
 - [Actuarial Data Quality](concepts/ActuarialDataQuality.md) — Insurance data-quality discipline around field meaning, reporting lag, missing versus true-zero values, medical codes, reasonability checks, units, and currency.
 - [Actuarial Standards of Practice](concepts/ActuarialStandardsOfPractice.md) — Professional standards frame for actuarial data quality, communications, modeling, and reasonability checks.
-- [Insurance Model Regulatory Constraint](concepts/InsuranceModelRegulatoryConstraint.md) — Constraint that predictive insurance models must satisfy law, regulation, fairness, business use, and actionability, not only statistical lift.
+- [Insurance Model Regulatory Constraint](concepts/InsuranceModelRegulatoryConstraint.md) — Constraint that predictive insurance models and AI-assisted outputs must satisfy law, regulation, fairness, actuarial sign-off, business use, and actionability, not only statistical lift.
 - [Experimental Science Data Quality](concepts/ExperimentalScienceDataQuality.md) — Research-method frame where useful scientific AI depends on careful experimental records, provenance, quality control, protocol deviations, and reproducibility.
 - [Bioinformatics Domain Gap](concepts/BioinformaticsDomainGap.md) — Collaboration gap between biological context and computational analysis skill that can limit AI and big-data use in biology.
 - [Retrosynthesis AI](concepts/RetrosynthesisAI.md) — AI-assisted backward planning for chemical synthesis, constrained by published reaction data, negative results, feasibility, and human chemistry judgment.

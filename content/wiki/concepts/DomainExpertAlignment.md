@@ -2,7 +2,7 @@
 title: "Domain Expert Alignment"
 type: concept
 tags: [ai, expertise, product-development]
-sources: [ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, data-ai-and-scientific-research-a-coffee-chat, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, socialradarsseason1-tracyyoung-final-1]
+sources: [ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, data-ai-and-scientific-research-a-coffee-chat, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, socialradarsseason1-tracyyoung-final-1]
 last_updated: 2026-08-18
 ---
 
@@ -28,6 +28,8 @@ Domain expert alignment is the practice of bringing real subject-matter experts 
 
 [[ep-4-a-i-talk-with-a-rocket-scientist-from-nasa]] adds the space-engineering version through [[KofiBrowning]] and [[NASA]]. Space AI needs people who understand mission risk, flight history, imagery provenance, EVA safety, and what a small or one-off dataset can and cannot support; this is why [[SpaceflightAIDatasetScarcity]], [[SpaceImageryAI]], and [[EVAGloveInspectionAI]] stay tied to human review.
 
+[[ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker]] adds the insurance analytics version through [[CharlesJohnson]]. In [[ActuaryDataScientistPartnership]], data scientists can build lapse, mortality, underwriting, or automation models, but actuaries provide the domain assumptions, financial interpretation, regulatory sign-off, and business context that make model outputs usable.
+
 ## Key Claims
 - Model researchers and engineers are not enough for every domain.
 - Coding needs software engineers who understand code quality, editing, tests, and developer workflows.
@@ -45,6 +47,7 @@ Domain expert alignment is the practice of bringing real subject-matter experts 
 - Human-centered behavioral AI needs domain and ethics expertise because the signal being analyzed may reveal identity, vulnerability, or clinical context.
 - In laboratory science, domain alignment includes experimental design, biological interpretation, chemistry feasibility, failed-result context, and radioactive-safety oversight.
 - In space research, domain alignment includes mission-risk reasoning, operational history, imagery interpretation, EVA safety, and knowing when sparse data makes an ML claim weak.
+- In insurance analytics, domain alignment includes actuarial predictors, profitability lags, financial accounting, asset-liability context, automated-underwriting judgment, and professional sign-off.
 
 ## Connections
 - [[MiniMax]] and [[YanJunjie]] — company and speaker context.
@@ -62,3 +65,4 @@ Domain expert alignment is the practice of bringing real subject-matter experts 
 - [[SriNarayanan]], [[BehavioralSignalProcessing]], [[HumanCenteredAIEducation]], and [[AIHealthManagement]] - USC source branch on interdisciplinary behavioral and mental-health AI research.
 - [[EffieDataScienceWithSam]], [[MossamDataScienceWithSam]], [[BioinformaticsDomainGap]], [[RetrosynthesisAI]], and [[RadiochemistryImagingTracers]] - experimental-science branch added by Data Science With Sam.
 - [[KofiBrowning]], [[NASA]], [[SpaceflightAIDatasetScarcity]], [[SpaceImageryAI]], [[EVAGloveInspectionAI]], and [[AIModelBiasGovernance]] - space-engineering branch added by Data Science With Sam.
+- [[CharlesJohnson]], [[ActuarialScience]], [[ActuaryDataScientistPartnership]], and [[InsuranceModelRegulatoryConstraint]] - insurance analytics branch added by Data Science With Sam EP10.

@@ -7853,3 +7853,11 @@ Added source page for a Data Science With Sam episode with Anna D'Souza on socce
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-18] ingest | EP 10: A thought-provoking chat with an actuary and TEDx speaker
+
+Added source page for a Data Science With Sam episode with Charles Johnson on actuarial career formation, exam self-study, data scientist-actuary collaboration, automated underwriting, insurance regulatory accountability, and ChatGPT as professional augmentation. Created pages for Charles Johnson, Actuarial Development, Actuary Data Scientist Partnership, Actuarial Self-Study Career Path, and Actuarial AI Augmentation; updated overview, index, Data Science With Sam, Sam, Actuarial Science, Insurance Model Regulatory Constraint, Domain Expert Alignment, AI Worker Literacy, and ChatGPT. No direct contradiction found; the source extends the existing actuarial-insurance branch by shifting from data quality and professional standards toward workforce formation, team design, and validation-bound AI productivity.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

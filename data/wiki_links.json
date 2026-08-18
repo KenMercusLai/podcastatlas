@@ -2515,17 +2515,33 @@
     "title": "Actozsoft",
     "url": "/wiki/entities/actozsoft/"
   },
+  "ActuarialAIAugmentation": {
+    "title": "Actuarial AI Augmentation",
+    "url": "/wiki/concepts/actuarialaiaugmentation/"
+  },
   "ActuarialDataQuality": {
     "title": "Actuarial Data Quality",
     "url": "/wiki/concepts/actuarialdataquality/"
+  },
+  "ActuarialDevelopment": {
+    "title": "Actuarial Development",
+    "url": "/wiki/entities/actuarialdevelopment/"
   },
   "ActuarialScience": {
     "title": "Actuarial Science",
     "url": "/wiki/concepts/actuarialscience/"
   },
+  "ActuarialSelfStudyCareerPath": {
+    "title": "Actuarial Self-Study Career Path",
+    "url": "/wiki/concepts/actuarialselfstudycareerpath/"
+  },
   "ActuarialStandardsOfPractice": {
     "title": "Actuarial Standards of Practice",
     "url": "/wiki/concepts/actuarialstandardsofpractice/"
+  },
+  "ActuaryDataScientistPartnership": {
+    "title": "Actuary Data Scientist Partnership",
+    "url": "/wiki/concepts/actuarydatascientistpartnership/"
   },
   "AdWords": {
     "title": "AdWords",
@@ -7514,6 +7530,10 @@
   "CharlesHenderson": {
     "title": "Charles Henderson",
     "url": "/wiki/entities/charleshenderson/"
+  },
+  "CharlesJohnson": {
+    "title": "Charles Johnson",
+    "url": "/wiki/entities/charlesjohnson/"
   },
   "CharlesNicolle": {
     "title": "Charles Nicolle / 尼科勒",
@@ -42454,6 +42474,10 @@
   "e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask": {
     "title": "E45 孟岩对话李继刚：人何以自处",
     "url": "/wiki/sources/e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask/"
+  },
+  "ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker": {
+    "title": "EP 10: A thought-provoking chat with an actuary and TEDx speaker",
+    "url": "/wiki/sources/ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker/"
   },
   "ep-12-insightful-conversation-with-a-football-analytics-professional": {
     "title": "EP 12: Insightful Conversation with a Football Analytics Professional",

@@ -2,7 +2,7 @@
 title: "Insurance Model Regulatory Constraint"
 type: concept
 tags: [insurance, regulation, data-science, ai]
-sources: [data-risk-and-actuarial-science-in-insurance]
+sources: [ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker, data-risk-and-actuarial-science-in-insurance]
 last_updated: 2026-08-18
 ---
 
@@ -12,6 +12,8 @@ Insurance model regulatory constraint is the source's claim that predictive stre
 
 The episode's credit-scoring example makes the problem concrete. A variable can correlate strongly with personal-auto losses and still face regulatory objection, so data scientists entering insurance need [[DomainExpertAlignment]] with actuaries, compliance teams, and business operators rather than optimizing only for statistical lift.
 
+[[ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker]] adds the sign-off and team-design version through [[CharlesJohnson]]. The source says actuaries remain tied to insurance because pricing, assumptions, valuation, underwriting support, and policy work carry regulatory and professional accountability that cannot be treated as generic data-science output.
+
 ## Key Claims
 - Insurance models are constrained by more than prediction accuracy.
 - A/B testing freedoms in marketing do not map cleanly onto pricing, reserving, underwriting, or claims decisions.
@@ -19,9 +21,12 @@ The episode's credit-scoring example makes the problem concrete. A variable can 
 - Model recommendations need actionability: a result is weak if the company cannot legally, ethically, or operationally act on it.
 - Data scientists can add value by designing models and features that respect constraints from the start.
 - Actuaries also need enough model literacy to understand vendor tools, machine-learning methods, and failure modes.
+- [[ActuaryDataScientistPartnership]] works only when model-building authority is separated from actuarial approval where professional sign-off is required.
+- [[ActuarialAIAugmentation]] can make actuarial work faster, but AI does not remove accountability for assumptions, citations, traceability, and model interpretation.
 
 ## Connections
 - [[ActuarialScience]], [[ActuarialDataQuality]], and [[ActuarialStandardsOfPractice]] - actuarial discipline behind constrained modeling.
-- [[MaryPatCampbell]], [[SocietyOfActuaries]], and [[CasualtyActuarialSociety]] - source and professional context.
+- [[MaryPatCampbell]], [[CharlesJohnson]], [[SocietyOfActuaries]], and [[CasualtyActuarialSociety]] - source and professional context.
 - [[AIGovernanceAndCompliance]], [[DomainExpertAlignment]], and [[HumanJudgmentUnderAI]] - broader AI governance and judgment context.
+- [[ActuaryDataScientistPartnership]] and [[ActuarialAIAugmentation]] - EP10's collaboration and AI-productivity extension.
 - [[AsymmetricInformation]], [[InsuranceRiskTransfer]], and [[InsuranceClaimsHandling]] - insurance contexts where model use changes responsibility.
