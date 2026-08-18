@@ -2,7 +2,7 @@
 title: "徐州相王 / Xuzhou Mutual Kingship"
 type: concept
 tags: [diplomacy, pre-qin-history, warring-states, legitimacy]
-sources: [zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]
+sources: [zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]
 last_updated: 2026-08-19
 ---
 
@@ -16,6 +16,8 @@ The concept therefore marks a double bargain. Qi gains status recognition; Wei a
 
 [[zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]] adds the backlash side of the event. [[ZhangChou|张丑]] warns [[TianYing|田婴]] that accepting Wei's "crown" will anger strong states, and the later [[ChuWeiwang|楚威王]] attack on Qi, Zhao-Yan pressure, and siege of [[Xuzhou|徐州]] make the ceremony a case of [[StatusOrderBacklash|名分秩序反弹]].
 
+[[zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz]] shows the later precedent effect. When [[YingSi|秦惠文王]] claims kingly title in 324 BCE, the episode says the reaction is calmer partly because Qi and Wei have already broken the old status boundary. Xuzhou mutual kingship therefore matters not only for its immediate backlash, but also because it lowers the shock value of later royal-title claims by stronger states.
+
 ## Key Claims
 - Mutual recognition is treated as a strategic result, not just ceremonial language.
 - The event depends on post-Maling re-ranking: Qi has the leverage, while Wei needs strategic relief.
@@ -23,6 +25,7 @@ The concept therefore marks a double bargain. Qi gains status recognition; Wei a
 - The meeting lets Wei bend without formally admitting permanent inferiority.
 - The event connects battlefield outcome to title legitimacy and interstate hierarchy.
 - The aftermath shows that third-party rulers can treat a bilateral title exchange as an insult to the wider status order.
+- The precedent effect later makes Qin's royal-title claim less surprising even as weaker states such as [[WeyState|卫国]] continue losing title weight.
 
 ## Connections
 - [[QiWeiwang|齐威王]], [[QiState|齐国]], and [[TianYing|田婴]] - Qi-side ruler, polity, and promoter.
@@ -32,3 +35,4 @@ The concept therefore marks a double bargain. Qi gains status recognition; Wei a
 - [[LowPostureStatecraft|低姿态权宜]] - strategy pattern through which Wei approaches the event.
 - [[ChuState|楚国]] - external power Hui Shi hopes to pull into pressure against Qi.
 - [[ZhangChou|张丑]], [[ChuWeiwang|楚威王]], and [[StatusOrderBacklash|名分秩序反弹]] - Zhouji 28 warning and backlash extension.
+- [[YingSi|秦惠文王]], [[QinState|秦国]], and [[WeakStateStatusDemotion|弱国名分降格]] - Zhouji 36 title-precedent and weak-state contrast.

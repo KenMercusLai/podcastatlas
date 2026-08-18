@@ -8324,6 +8324,14 @@ Ran lint. See lint-report.md for details.
 
 Added source page for a 芮淇讲透资治通鉴 episode on Qin's partial victory over Yiqu, Yiqu's non-final submission, Qin's returned Jiaoyi/Quwo diplomacy toward Wei, Zhang Yi's contrast with Shang Yang, Zhao Suhou's death, and Zhao Wuling Wang's accession gestures through advisory and fault-correction posts plus honoring Fei Yi. Created pages for Yiqu, Zhao Wuling Wang, Fei Yi, Qin Frontier Buffer Management, and New Ruler Reform Signaling; updated overview, index, Qin, Wei, Zhao, Zhao Suhou, Zhou Xian Wang, Ying Si, Zhang Yi, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Qin Eastward Pressure, Lianheng Strategy, Strategic Concession Diplomacy, and Warring States Military Transformation. No direct contradiction found; the episode resolves Zhouji 34's returned-land puzzle and keeps the cavalry title as foreshadow rather than a full cavalry-reform account.
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》36丨卫嗣君的帝王之术
+
+Added source page for a 芮淇讲透资治通鉴 episode on Qin Huiwen Wang's quieter royal-title claim, Wey Pinghou's death and Wey Sijun's accession, Wey Sijun's "治无小，乱无大" escaped-prisoner case, and the Zhanguo Ce supplement where Wu Xia reframes a neglected Wey envoy through Wei's Qin-priority concerns. Created pages for Wey Sijun, Wey Pinghou, Wu Xia, No Small Matters in Governance, and Weak-State Status Demotion; updated overview, index, Ying Si, Liang Hui Wang, Qin, Wei, Wey, Zhou Xian Wang, Zizhi Tongjian, Zhanguo Ce, Ruiqi Jiangtou Zizhi Tongjian, Legalist Ruler Technique, Xuzhou Mutual Kingship, and Status Order Backlash. No direct contradiction found; the ingest disambiguates Wey/卫 Pinghou from the existing Wei/魏 Pinghou page.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-08-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

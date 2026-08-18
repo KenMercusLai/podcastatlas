@@ -27971,6 +27971,10 @@
     "title": "No-Prediction Trading",
     "url": "/wiki/concepts/nopredictiontrading/"
   },
+  "NoSmallMattersInGovernance": {
+    "title": "No Small Matters in Governance / 治无小乱无大",
+    "url": "/wiki/concepts/nosmallmattersingovernance/"
+  },
   "NoelHSymington": {
     "title": "Noel H. Symington / 诺埃尔·H.赛明顿",
     "url": "/wiki/entities/noelhsymington/"
@@ -41219,6 +41223,10 @@
     "title": "Weak Signal Detection / 微弱信号探测",
     "url": "/wiki/concepts/weaksignaldetection/"
   },
+  "WeakStateStatusDemotion": {
+    "title": "Weak-State Status Demotion / 弱国名分降格",
+    "url": "/wiki/concepts/weakstatestatusdemotion/"
+  },
   "WeakTieOpportunity": {
     "title": "Weak-Tie Opportunity",
     "url": "/wiki/concepts/weaktieopportunity/"
@@ -41451,9 +41459,17 @@
     "title": "卫成公 / Duke Cheng of Wey",
     "url": "/wiki/entities/weychenggong/"
   },
+  "WeyPinghou": {
+    "title": "卫平侯 / Marquis Ping of Wey",
+    "url": "/wiki/entities/weypinghou/"
+  },
   "WeyShenggong": {
     "title": "卫声公 / Duke Sheng of Wey",
     "url": "/wiki/entities/weyshenggong/"
+  },
+  "WeySijun": {
+    "title": "卫嗣君 / Wey Sijun",
+    "url": "/wiki/entities/weysijun/"
   },
   "WeyState": {
     "title": "卫国 / Wey State",
@@ -42114,6 +42130,10 @@
   "WuxiaIntertextualCraft": {
     "title": "Wuxia Intertextual Craft",
     "url": "/wiki/concepts/wuxiaintertextualcraft/"
+  },
+  "WuxiaWarringStates": {
+    "title": "武夏 / Wu Xia",
+    "url": "/wiki/entities/wuxiawarringstates/"
   },
   "Wuxiaworld": {
     "title": "Wuxiaworld / 武侠世界",
@@ -47082,5 +47102,9 @@
   "zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk": {
     "title": "《资治通鉴·周纪》35丨历史上第一骑兵教父是他？",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk/"
+  },
+  "zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz": {
+    "title": "《资治通鉴·周纪》36丨卫嗣君的帝王之术",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz/"
   }
 }
