@@ -2,7 +2,7 @@
 title: "秦孝公 / Duke Xiao of Qin"
 type: entity
 tags: [person, ruler, pre-qin, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
 last_updated: 2026-08-19
 ---
 
@@ -18,6 +18,8 @@ The source also shows Qin Xiao Gong choosing between incompatible reform theorie
 
 [[zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi]] gives Qin Xiao Gong the decision point for the 340 BCE attack on Wei. [[ShangYang|公孙鞅 / 商鞅]] presents [[WeiState|魏国]] as both Qin's strategic danger and current opportunity after recent defeats, and Qin Xiao Gong authorizes the campaign that ends with [[GongziAng|公子卬 / 公子昂]] captured.
 
+[[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] closes his reign. The episode says Qin Xiao Gong dies in 338 BCE after twenty-four years, with Qin strengthened, Hexi recovered, and Wei forced to yield. His death also removes Shang Yang's protection, making Qin Xiao Gong the necessary shield behind [[ShangYangReforms|商鞅变法]] as well as the ruler who benefits from them.
+
 ## Connections
 - [[QinState|秦国]] - polity he rules in the episode.
 - [[ShangYang|公孙鞅 / 商鞅]] - reformer he empowers.
@@ -26,4 +28,4 @@ The source also shows Qin Xiao Gong choosing between incompatible reform theorie
 - [[ShangYangReforms]], [[ReformWithoutPopularDeliberation]], [[MilitaryMeritRankSystem]], and [[XimuLixin]] - institutional branch enabled by his support.
 - [[Xianyang|咸阳]], [[HouseholdSeparationLaw]], and [[QinAdministrativeStandardization]] - Zhouji 17 second-reform branch under his ruling frame.
 - [[PollTax|人头税]], [[ZhouHegemonRecognition]], [[GongziShaoguan|公子少官]], and [[Fengze|逢泽]] - Zhouji 18 fiscal and hegemon-recognition branch.
-- [[QinEastwardPressure]], [[FarmingWarStatecraft|耕战逻辑]], [[PeaceParleyEntrapment|和谈诱捕]], and [[GongziAng|公子卬 / 公子昂]] - Zhouji 22 attack-Wei decision and outcome branch.
+- [[QinEastwardPressure]], [[FarmingWarStatecraft|耕战逻辑]], [[PeaceParleyEntrapment|和谈诱捕]], [[GongziAng|公子卬 / 公子昂]], [[YingSi|嬴驷]], [[GongziQian|公子虔]], and [[WarringStatesReformBacklash]] - Zhouji 22-23 attack-Wei decision, death, succession, and backlash branch.

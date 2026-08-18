@@ -2,8 +2,8 @@
 title: "公叔 / Gongshu (Wei chancellor)"
 type: entity
 tags: [person, official, pre-qin, warring-states, wei-state, court-politics]
-sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
+last_updated: 2026-08-19
 ---
 
 # 公叔 / Gongshu (Wei chancellor)
@@ -16,6 +16,8 @@ The episode uses Gongshu to shift from open argument over merit to hidden court 
 
 [[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] names 公叔痤 as the person to whom [[Zisi|子思]] privately criticizes Wei court habits. This ingest keeps that under the existing Wei chancellor page, while recording the new role as a listener in the [[CourtFeedbackCollapse]] branch rather than as the earlier Wu Qi intrigue case.
 
+[[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] brings back Gongshu as the absent advice behind [[LiangHuiWang|魏惠王]]'s regret. After [[ShangYang|公孙鞅 / 商鞅]] defeats Wei and forces the Hexi cession, Liang Hui Wang says he regrets not following Gongshu's earlier warning about Shang Yang. The page keeps this as the same Gongshu / 公叔痤 branch already used by the wiki.
+
 ## Connections
 - [[WeiState|魏国]] and [[WeiWuhou|魏武侯]] - court setting and ruler being influenced.
 - [[WuQi|吴起]] - rival whose position Gongshu tries to undermine.
@@ -23,3 +25,4 @@ The episode uses Gongshu to shift from open argument over merit to hidden court 
 - [[TransitionFitOverMerit]] - adjacent chancellor-selection concept.
 - [[SpringAutumnToWarringStatesPoliticalViolence]] and [[PoliticalAssassinationEthics]] - broader elite-conflict branch, though this source uses intrigue rather than direct killing.
 - [[Zisi|子思]] and [[CourtFeedbackCollapse]] - Zhouji 09 remonstrance branch.
+- [[LiangHuiWang|魏惠王]], [[ShangYang|公孙鞅 / 商鞅]], and [[QinEastwardPressure]] - Zhouji 23 regret branch.

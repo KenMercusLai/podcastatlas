@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》23丨魏惠王 悔不用公叔之言
+
+Added source page for a 芮淇讲透资治通鉴 episode on Qin breaking Wei after Gongzi Ang's capture, Wei ceding Hexi and moving from Anyi to Daliang, the comparison between Sun Bin's reusable deception and Shang Yang's credibility-damaging parley trap, Shang Yang's Shangyu fief, Qin Xiao Gong's death, Gongzi Qian's accusation, and the Shiji-style 作法自毙 lodging anecdote. Created pages for Lushi Chunqiu, Gongzi Qian, Chu Wei Wang, Shangyu, Tactical Credibility Cost, and Legalist Self-Binding Backfire; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou Xian Wang, Warring States Period, Shang Yang, Qin State, Wei State, Qin Xiao Gong, Liang Hui Wang, Gongzi Ang, Ying Si, Gongshu, Chu State, Chu Xuan Wang, Sun Bin, Battle of Maling, Anyi, Daliang, Shiji, Peace-Parley Entrapment, Decreasing Stoves Deception, Warring States Reform Backlash, Shang Yang Reforms, Farming-War Statecraft, Qin Eastward Pressure, Military Merit Rank System, and Collateral Punishment And Guilt By Association. No direct contradiction found; the source qualifies episode 22's "兵以诈立" frame by separating immediate tactical success from long-term credibility cost and reformer self-trap.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》07丨两起刺杀（3）
 
 Added source page for a 芮淇讲透资治通鉴 episode on Zhou An Wang years 9-15, Jin's hollow ruler status after the Three Jin, Qin attacks on Han/Wei read through Chu and Hexi pressure, Tian He's displacement of Qi Kang Gong, Wei Wenhou's support for Tian He seeking Zhou recognition, Tian-family succession, and the chronologically suspect Wei Wenhou / Wei Wuhou notice that sets up Wu Qi's West River dialogue. Created Jin Lie Gong and Tian Family Replacement of Qi; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zhou An Wang, Jin State, Jin Xiao Gong, Qi State, Qi Kang Gong, Tian He, Tian-family Qi Huan Gong, Three Jin Vassal Recognition, Chronicle Chronology Drift, Early Warring States Interstate War, and Warring States Period. No direct contradiction found; the source qualifies earlier recognition pages by separating practical displacement, political sponsorship, formal Zhou recognition, and later annalistic chronology.
@@ -8222,3 +8226,7 @@ Ran health before lint; health scanned 11,678 wiki pages and found no empty/stub
 ## [2026-08-19] lint | Wiki health check
 
 Ran health before lint; health scanned 11,681 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,681 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

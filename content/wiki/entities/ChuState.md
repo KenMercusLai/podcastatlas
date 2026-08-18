@@ -2,7 +2,7 @@
 title: "楚国 / Chu State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -28,6 +28,8 @@ The episode says Chu Sheng Wang was killed by "bandits," then treats that wordin
 
 [[zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]] makes Chu the refuge for [[TianJi|田忌]] after the [[MalingBattle|马陵之战]] aftermath. The episode does not develop Chu's reception of him; it uses Tian Ji's flight to show how valuable displaced military talent could move between Warring States courts.
 
+[[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] adds a compact succession notice: [[ChuXuanwang|楚宣王]] dies and [[ChuWeiwang|楚威王]] succeeds. The source does not make Chu part of the main causal chain, but the notice keeps Chu in the same crowded 340 BCE annalistic field.
+
 ## Connections
 - [[ChuShengWang|楚声王]] and [[ChuDaoWang|楚悼王]] - ruler pair in the source.
 - [[BanditAssassinationAttribution]] - concept attached to Chu Sheng Wang's death.
@@ -40,3 +42,4 @@ The episode says Chu Sheng Wang was killed by "bandits," then treats that wordin
 - [[ZhaoXixu|昭奚恤]], [[JiangYi|江乙]], [[ChancellorCenteredGovernance]], and [[PoliticalParableWeaponization]] - Zhouji 16 chancellor and parable-politics branch.
 - [[Jingshe|景舍]], [[QiWeiwang|齐威王]], [[WeiState|魏国]], and [[XianglingWarringStates|襄陵]] - Zhouji 17 third-party peace channel.
 - [[TianJi|田忌]], [[SunBin|孙膑]], [[QiState|齐国]], and [[TreasonAccusationTrap]] - Zhouji 21 exile and talent-mobility branch.
+- [[ChuXuanwang|楚宣王]] and [[ChuWeiwang|楚威王]] - Zhouji 23 succession notice.

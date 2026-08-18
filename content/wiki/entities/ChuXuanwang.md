@@ -2,7 +2,7 @@
 title: "楚宣王 / King Xuan of Chu"
 type: entity
 tags: [person, ruler, pre-qin, warring-states, chu-state]
-sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -14,9 +14,12 @@ The page is source-scoped. Chu Xuan Wang matters here because the succession mov
 
 [[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] adds him as the likely groom behind [[YouyinHei|右尹黑]]'s mission to [[QinState|秦国]] to receive a bride. The episode uses this to explain marriage protocol and the limits of [[WarringStatesMarriageDiplomacy|战国联姻外交]].
 
+[[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] records his death in the compact 340 BCE annalistic notice and says his son [[ChuWeiwang|楚威王]] succeeds him. The episode does not develop Chu policy; the notice mainly preserves the broader [[ZhouXianwang|周显王]] chronology around the Qin-Wei story.
+
 ## Connections
 - [[ChuState|楚国]] - polity he rules.
 - [[ChuSuwang|楚肃王]] - predecessor and elder brother in the source.
 - [[ZhouLiewang|周烈王]] and [[ZizhiTongjian|《资治通鉴》]] - annalistic frame.
 - [[WarringStatesPeriod|战国时期]] - competitive setting.
 - [[YouyinHei|右尹黑]], [[QinState|秦国]], and [[WarringStatesMarriageDiplomacy]] - Zhouji 14 marriage-diplomacy branch.
+- [[ChuWeiwang|楚威王]] - successor in the Zhouji 23 notice.

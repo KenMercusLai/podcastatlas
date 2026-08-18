@@ -2,7 +2,7 @@
 title: "Warring States Reform Backlash / 战国变法反噬"
 type: concept
 tags: [statecraft, reform, pre-qin-history, warring-states, political-economy]
-sources: [zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
 last_updated: 2026-08-19
 ---
 
@@ -18,6 +18,8 @@ This differs from a generic "reform is hard" claim. The source emphasizes concen
 
 [[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] does not narrate Shang Yang's death yet, but it keeps the danger visible by noting that the Qin-Wei meeting site [[TongWarringStates|同地]] will become the place where he dies twelve years later. The same source also shows the reforms deepening through [[HouseholdSeparationLaw|household separation]] and [[QinAdministrativeStandardization|administrative standardization]], raising the scale of interests touched by reform.
 
+[[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] narrates the backlash outcome. Once [[QinXiaogong|秦孝公]] dies, [[ShangYang|公孙鞅 / 商鞅]] loses the ruler protection that had held elite hostility in check; [[GongziQian|公子虔]]'s faction accuses him of rebellion, his flight fails, and his own harsh legal order becomes part of the source's [[LegalistSelfBindingBackfire|作法自毙]] lesson.
+
 ## Key Claims
 - Military-fiscal strengthening often requires breaking older status arrangements.
 - Reform success can intensify backlash by making the threatened interests clearer.
@@ -25,6 +27,7 @@ This differs from a generic "reform is hard" claim. The source emphasizes concen
 - Wu Qi's Chu career turns his earlier leadership skill into a high-stakes state-building risk.
 - Shang Yang's Qin career adds a case where law, surveillance, and military merit strengthen the state while threatening nobles, commoners, and the prince.
 - A later death-site notice can be preserved as foreshadowing without treating the full backlash outcome as already narrated.
+- A reformer's personal safety can depend on ruler protection even when the reform itself has strengthened the state.
 
 ## Connections
 - [[WuQi|吴起]], [[ChuDaoWang|楚悼王]], and [[ChuState|楚国]] - source case.
@@ -32,4 +35,4 @@ This differs from a generic "reform is hard" claim. The source emphasizes concen
 - [[TransitionFitOverMerit]] - adjacent idea showing why high-capability reformers can be politically risky in fragile moments.
 - [[SpringAutumnToWarringStatesPoliticalViolence]] - broader move toward harsher elite conflict.
 - [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[YingSi|太子嬴驷]], [[ShangYangReforms]], and [[MilitaryMeritRankSystem]] - Qin reform-backlash branch added by Zhouji 13.
-- [[TongWarringStates|同地]], [[HouseholdSeparationLaw]], and [[QinAdministrativeStandardization]] - Zhouji 17 foreshadowing and deeper reform branch.
+- [[TongWarringStates|同地]], [[HouseholdSeparationLaw]], [[QinAdministrativeStandardization]], [[GongziQian|公子虔]], and [[LegalistSelfBindingBackfire|作法自毙]] - Zhouji 17 foreshadowing, deeper reform, and Zhouji 23 backlash outcome.

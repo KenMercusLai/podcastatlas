@@ -2,7 +2,7 @@
 title: "大梁 / Daliang"
 type: entity
 tags: [city, pre-qin, wei-state, warring-states]
-sources: [zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
+sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
 last_updated: 2026-08-19
 ---
 
@@ -14,8 +14,11 @@ The page is source-scoped. Daliang matters here because it makes [[EncirclingWei
 
 [[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]] reuses Daliang in the [[MalingBattle|马陵之战]] setup. This time the ally under pressure is [[HanState|韩国]], but the logic is similar: Qi's army points at Wei's capital area so [[PangJuan|庞涓]] must leave the Han front and return.
 
+[[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] gives Daliang a different role: after Qin's victory and the Hexi cession, [[LiangHuiWang|魏惠王]] moves there from [[Anyi|安邑]]. The episode links the move to Wei's western vulnerability under [[QinEastwardPressure|秦国东进压力]].
+
 ## Connections
 - [[WeiState|魏国]] - state whose vital place is threatened in the source.
 - [[SunBin|孙膑]], [[TianJi|田忌]], and [[QiState|齐国]] - planners and attacker.
 - [[Handan|邯郸]], [[ZhaoState|赵国]], and [[HanState|韩国]] - original siege or rescue-target settings.
 - [[GuilingBattle|桂陵之战]], [[MalingBattle|马陵之战]], and [[EncirclingWeiToRescueZhao]] - campaign and strategy branch.
+- [[Anyi|安邑]], [[LiangHuiWang|魏惠王]], and [[QinEastwardPressure]] - Zhouji 23 capital-move branch.

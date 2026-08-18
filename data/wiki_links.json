@@ -8671,6 +8671,10 @@
     "title": "楚肃王 / King Su of Chu",
     "url": "/wiki/entities/chusuwang/"
   },
+  "ChuWeiwang": {
+    "title": "楚威王 / King Wei of Chu",
+    "url": "/wiki/entities/chuweiwang/"
+  },
   "ChuXuanwang": {
     "title": "楚宣王 / King Xuan of Chu",
     "url": "/wiki/entities/chuxuanwang/"
@@ -16611,6 +16615,10 @@
     "title": "公子彭生",
     "url": "/wiki/entities/gongzipengsheng/"
   },
+  "GongziQian": {
+    "title": "公子虔 / Gongzi Qian",
+    "url": "/wiki/entities/gongziqian/"
+  },
   "GongziShaoguan": {
     "title": "公子少官 / Gongzi Shaoguan",
     "url": "/wiki/entities/gongzishaoguan/"
@@ -22815,6 +22823,10 @@
     "title": "Legalist Ruler Technique / 法家君术",
     "url": "/wiki/concepts/legalistrulertechnique/"
   },
+  "LegalistSelfBindingBackfire": {
+    "title": "Legalist Self-Binding Backfire / 作法自毙",
+    "url": "/wiki/concepts/legalistselfbindingbackfire/"
+  },
   "LegendAsSocialHistory": {
     "title": "Legend As Social History",
     "url": "/wiki/concepts/legendassocialhistory/"
@@ -24194,6 +24206,10 @@
   "LureEnemyOutOfPosition": {
     "title": "Lure Enemy Out of Position / 诱敌离位",
     "url": "/wiki/concepts/lureenemyoutofposition/"
+  },
+  "LushiChunqiu": {
+    "title": "《吕氏春秋》 / Lushi Chunqiu",
+    "url": "/wiki/entities/lushichunqiu/"
   },
   "LusunTeleprompter": {
     "title": "芦笋提词器",
@@ -34775,6 +34791,10 @@
     "title": "商业就是这样",
     "url": "/wiki/entities/shangyejiushizheyang/"
   },
+  "Shangyu": {
+    "title": "商於 / Shangyu",
+    "url": "/wiki/entities/shangyu/"
+  },
   "Shangzhixing": {
     "title": "Shangzhixing",
     "url": "/wiki/entities/shangzhixing/"
@@ -37494,6 +37514,10 @@
   "TacoBell": {
     "title": "Taco Bell",
     "url": "/wiki/entities/tacobell/"
+  },
+  "TacticalCredibilityCost": {
+    "title": "Tactical Credibility Cost / 战术信用成本",
+    "url": "/wiki/concepts/tacticalcredibilitycost/"
   },
   "TactileComfortConsumption": {
     "title": "Tactile Comfort Consumption / 触感安慰消费",
@@ -46722,5 +46746,9 @@
   "zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi": {
     "title": "《资治通鉴·周纪》22丨公孙鞅诈魏公子卬",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi/"
+  },
+  "zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf": {
+    "title": "《资治通鉴·周纪》23丨魏惠王 悔不用公叔之言",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf/"
   }
 }

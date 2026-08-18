@@ -2,7 +2,7 @@
 title: "Decreasing Stoves Deception / 减灶诱敌"
 type: concept
 tags: [warfare, strategy, deception, logistics, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4]
+sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4]
 last_updated: 2026-08-19
 ---
 
@@ -14,16 +14,19 @@ The deception works because a stove count is a plausible battlefield signal. A p
 
 The tactic also converts perception into movement. Once Pang Juan believes the Qi army is dissolving, he stops thinking primarily about how to win a battle and starts rushing to catch the enemy before it disappears. That decision pulls him into [[ForcedMarchOperationalRisk|forced-march risk]] and gives Sun Bin the conditions for a prepared night ambush.
 
+[[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] uses reduced stoves as the positive comparison case against [[ShangYang|公孙鞅 / 商鞅]]'s parley trap. The episode argues that Sun Bin's method is more reusable because it manipulates repeatable battlefield signals rather than spending the strategist's personal trust.
+
 ## Key Claims
 - Logistics traces can become intelligence signals.
 - A repeated false signal can be more convincing than a single staged sign.
 - Deception works best when it confirms the target's prior belief.
 - False weakness is valuable only if it draws the enemy toward a prepared strike.
 - At Maling, the reduced-stove signal links [[LureEnemyOutOfPosition|诱敌离位]] with exhaustion, formation loss, and ambush timing.
+- In the later Shang Yang comparison, reduced stoves illustrate lower [[TacticalCredibilityCost|tactical credibility cost]] than an old-friend peace trap.
 
 ## Connections
 - [[SunBin|孙膑]] and [[PangJuan|庞涓]] - strategist and target.
 - [[QiState|齐国]], [[WeiState|魏国]], and [[MalingBattle|马陵之战]] - campaign setting.
 - [[ForcedMarchOperationalRisk]] and [[LureEnemyOutOfPosition]] - adjacent tactical effects.
 - [[SunBinBingfa|《孙膑兵法》]] - military-text branch connected to the episode's ambush detail.
-- [[EarlyWarringStatesInterstateWar]] - broader conflict field where deception, movement, and coalition rescue interact.
+- [[EarlyWarringStatesInterstateWar]] and [[TacticalCredibilityCost|战术信用成本]] - broader conflict field and later comparison frame.

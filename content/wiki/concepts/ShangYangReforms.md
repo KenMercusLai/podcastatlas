@@ -2,7 +2,7 @@
 title: "Shang Yang Reforms / 商鞅变法"
 type: concept
 tags: [statecraft, reform, legalism, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
 last_updated: 2026-08-19
 ---
 
@@ -18,6 +18,8 @@ The reform's political logic is severe. Shang Yang argues that a ruler seeking g
 
 [[zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi]] adds the external-war version of the same reform logic. The episode explains Shang Yang's personal command against [[WeiState|魏国]] through [[FarmingWarStatecraft|耕战逻辑]]: farming and war are Qin's privileged contribution channels, but war offers the higher ceiling for rank and reward. That also makes his fake peace proposal to [[GongziAng|公子卬 / 公子昂]] easier to diagnose as a trap, because empty withdrawal would contradict the reward system.
 
+[[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] adds the reformer's death as an institutional afterlife. Shang Yang's victory earns him [[Shangyu|商於]], but after Qin Xiao Gong dies, the same harsh legal and liability system is used to explain why he cannot easily flee: the innkeeper anecdote turns reform into [[LegalistSelfBindingBackfire|作法自毙]].
+
 ## Key Claims
 - Reform authority depends first on ruler backing, not on broad consensus.
 - Household grouping and mutual liability pull ordinary families into state enforcement.
@@ -28,6 +30,7 @@ The reform's political logic is severe. Shang Yang argues that a ruler seeking g
 - The second reform round extends state-building into capital location, domestic living arrangements, counties, land allocation, and standardized measures.
 - The fiscal reform extends the same state-building logic into person-based taxation, though the "first poll tax" reading remains source-scoped.
 - The reform package also shapes elite behavior in war: a minister can need battlefield achievement because military merit has more political upside than routine administration or farming.
+- The reform package can later bind the reformer himself if documentation, liability, and low-discretion compliance block escape.
 
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[GanLong|甘龙]], and [[YingSi|太子嬴驷]] - source actors.
@@ -36,5 +39,5 @@ The reform's political logic is severe. Shang Yang argues that a ruler seeking g
 - [[CollateralPunishmentAndGuiltByAssociation]], [[MilitaryMeritRankSystem]], and [[XimuLixin]] - concrete institutional mechanisms.
 - [[Xianyang|咸阳]], [[StrategicCapitalRelocation]], [[HouseholdSeparationLaw]], and [[QinAdministrativeStandardization]] - Zhouji 17 second-reform extension.
 - [[PollTax|人头税]] - Zhouji 18 fiscal extension.
-- [[FarmingWarStatecraft|耕战逻辑]], [[QinEastwardPressure]], and [[PeaceParleyEntrapment|和谈诱捕]] - Zhouji 22 external-war and incentive extension.
+- [[FarmingWarStatecraft|耕战逻辑]], [[QinEastwardPressure]], [[PeaceParleyEntrapment|和谈诱捕]], [[Shangyu|商於]], and [[LegalistSelfBindingBackfire|作法自毙]] - Zhouji 22-23 external-war, incentive, reward, and self-trap extension.
 - [[WangYangming|王阳明]] and [[WangAnshi|王安石]] - later analogy and reception branch in the episode.

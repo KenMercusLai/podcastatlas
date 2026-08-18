@@ -2,7 +2,7 @@
 title: "孙膑 / Sun Bin"
 type: entity
 tags: [person, strategist, pre-qin, qi-state, warring-states]
-sources: [zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
+sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
 last_updated: 2026-08-19
 ---
 
@@ -20,10 +20,12 @@ In the military branch, [[QiWeiwang|齐威王]] first wants him to command the r
 
 [[zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]] moves Sun Bin from battlefield adviser to political-crisis adviser. When [[ZouJi|成侯邹忌]]'s [[TreasonAccusationTrap|treason accusation trap]] reaches [[TianJi|田忌]], Sun Bin proposes rushing Yongmen before it closes and turning the accusation into a sudden counterattack. Tian Ji refuses and flees to [[ChuState|楚国]], so Sun Bin's final role in this arc is as a strategist whose high-risk political counterstroke is not adopted.
 
+[[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] uses Sun Bin as a comparison point for [[ShangYang|公孙鞅 / 商鞅]]. The episode argues that Sun Bin's tricks, especially [[DecreasingStovesDeception|减灶诱敌]], have greater military-method value because they are structurally reusable and do not destroy personal credibility in the same way as Shang Yang's parley trap.
+
 ## Connections
 - [[PangJuan|庞涓]] and [[Guiguzi|鬼谷子]] - fellow student and teacher branch in the source.
 - [[TianJi|田忌]], [[QiWeiwang|齐威王]], and [[QiState|齐国]] - Qi patronage and command setting.
-- [[TianJiHorseRacing]], [[LureEnemyOutOfPosition]], [[EncirclingWeiToRescueZhao]], [[DelayedRescueStatecraft]], [[ForcedMarchOperationalRisk]], and [[DecreasingStovesDeception]] - strategic patterns attributed to him in the episodes.
+- [[TianJiHorseRacing]], [[LureEnemyOutOfPosition]], [[EncirclingWeiToRescueZhao]], [[DelayedRescueStatecraft]], [[ForcedMarchOperationalRisk]], [[DecreasingStovesDeception]], and [[TacticalCredibilityCost|战术信用成本]] - strategic patterns and later comparison attributed to him in the episodes.
 - [[GuilingBattle|桂陵之战]], [[MalingBattle|马陵之战]], [[WeiState|魏国]], [[ZhaoState|赵国]], [[HanState|韩国]], [[Daliang|大梁]], and [[Handan|邯郸]] - campaign setting.
 - [[SunBinBingfa|《孙膑兵法》]], [[SunziBingfa|《孙子兵法》]], and [[HistoricalDetectiveReasoning]] - military-text and textual-evidence branch.
 - [[ZouJi|成侯邹忌]], [[TreasonAccusationTrap]], and [[ChuState|楚国]] - post-Maling court crisis and exile branch.

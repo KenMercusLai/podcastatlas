@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》23丨魏惠王 悔不用公叔之言](sources/zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf.md) — 芮淇讲透资治通鉴 episode on Qin breaking Wei after Gongzi Ang's capture, Wei ceding Hexi and moving to Daliang, Shang Yang's tactical credibility cost, Qin Xiao Gong's death, and Shang Yang's 作法自毙 downfall.
 - [《资治通鉴·周纪》22丨公孙鞅诈魏公子卬](sources/zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi.md) — 芮淇讲透资治通鉴 episode on Shang Yang persuading Qin Xiao Gong to attack weakened Wei in 340 BCE, Qin's 耕战 and military-merit incentives, Gongzi Ang's old-friend peace-parley misread, and his capture by hidden Qin soldiers.
 - [《资治通鉴·周纪》21丨邹忌下阴招 田忌国外避难](sources/zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij.md) — 芮淇讲透资治通鉴 episode on Zou Ji framing Tian Ji with a staged divination and treason implication after Maling, Sun Bin's risky Yongmen counterattack advice, and Tian Ji's flight to Chu.
 - [《资治通鉴·周纪》20丨庞涓死此树下](sources/zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4.md) — 芮淇讲透资治通鉴 episode completing the Maling battle: Sun Bin uses reduced stoves to fake Qi desertion, Pang Juan rushes into a night ambush and dies, Wei collapses, Prince Shen is captured, and Tian Ji's victory creates court risk.
@@ -1027,6 +1028,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《吕氏春秋》 / Lushi Chunqiu](entities/LushiChunqiu.md) — Pre-Qin text cited for criticizing Shang Yang's non-repeatable parley deception and damaged personal credibility.
+- [公子虔 / Gongzi Qian](entities/GongziQian.md) — Qin figure whose faction accuses Shang Yang after Qin Xiao Gong's death, turning reform backlash into Shang Yang's flight.
+- [楚威王 / King Wei of Chu](entities/ChuWeiwang.md) — Chu Xuan Wang's son and successor in the compact 340 BCE Zizhi Tongjian notice.
+- [商於 / Shangyu](entities/Shangyu.md) — Qin fief of fifteen cities awarded to Shang Yang after the victory over Wei, later tied to his final armed resistance.
 - [公子卬 / Gongzi Ang](entities/GongziAng.md) — Wei royal-family commander captured by Shang Yang after trusting an old-friend peace parley in the 340 BCE Qin attack.
 - [成侯邹忌 / Chenghou Zou Ji](entities/ZouJi.md) — Qi minister who opposes rescuing Han and later frames Tian Ji through a staged divination and treason implication.
 - [田婴 / Tian Ying](entities/TianYing.md) — Qi royal-family commander named in the delayed rescue of Han before the Maling campaign.
@@ -6984,6 +6989,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Tactical Credibility Cost / 战术信用成本](concepts/TacticalCredibilityCost.md) — Strategy concept distinguishing reusable deception from one-shot tricks that spend down the deceiver's personal trust.
+- [Legalist Self-Binding Backfire / 作法自毙](concepts/LegalistSelfBindingBackfire.md) — Legalist irony where harsh, low-discretion rules later trap the reformer who designed them.
 - [Peace-Parley Entrapment / 和谈诱捕](concepts/PeaceParleyEntrapment.md) — Battlefield-deception pattern where friendship, oath, banquet, and peace language isolate a commander for capture.
 - [Farming-War Statecraft / 耕战逻辑](concepts/FarmingWarStatecraft.md) — Qin reform logic routing state capacity and elite advancement through agriculture and war, with battlefield merit as the higher-reward channel.
 - [Decreasing Stoves Deception / 减灶诱敌](concepts/DecreasingStovesDeception.md) — Sun Bin's Maling tactic of reducing visible camp stoves so Pang Juan reads staged false weakness as Qi desertion.
