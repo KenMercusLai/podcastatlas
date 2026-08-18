@@ -2,7 +2,7 @@
 title: "Shang Yang Reforms / 商鞅变法"
 type: concept
 tags: [statecraft, reform, legalism, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+sources: [zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
 last_updated: 2026-08-19
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-19
 Shang Yang reforms / 商鞅变法 is the reform package [[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]] attributes to [[ShangYang|公孙鞅 / 商鞅]] under [[QinXiaogong|秦孝公]]. The episode presents it as a state-strengthening project built from social registration, mutual surveillance, informant rewards, harsh punishment, agricultural production incentives, suppression of idleness, and status allocation through [[MilitaryMeritRankSystem|military merit]].
 
 [[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf]] supplies the pre-reform demand side. Before [[ShangYang|公孙鞅 / 商鞅]] arrives, [[QinXiaogong|秦孝公]] inherits a pressured and diplomatically excluded [[QinState|秦国]], then begins with "布德修政" and [[Shiji|《史记》]]'s expanded program of repairing government, aiding vulnerable people, recruiting warriors, and clarifying merit rewards. The reforms therefore answer a prior ruler agenda rather than beginning from Shang Yang alone.
+
+[[zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil]] supplies the personnel bridge from demand to reform. Qin Xiao Gong turns that agenda into a recruitment edict, [[GongshuWeiChancellor|公叔痤]] fails to get [[LiangHuiWang|魏惠王 / 梁惠王]] to use or kill Shang Yang, and [[JingJian|景监]] becomes the [[PrivateAccessTalentChannel|private-access channel]] through which Shang Yang reaches Qin's ruler. The reforms therefore begin as a match between a ruler's restoration problem and an outsider's need for access.
 
 The reform's political logic is severe. Shang Yang argues that a ruler seeking great results does not need prior mass deliberation; [[GanLong|甘龙]] objects that custom and existing law carry social stability. The episode therefore treats the reforms as both effective institutional design and a source of danger, because they mobilize [[QinState|秦国]] while attacking older privileges and everyday habits.
 
@@ -31,6 +33,7 @@ The same episode keeps the reforms' historical weight visible. The host says Sha
 ## Key Claims
 - Reform authority depends first on ruler backing, not on broad consensus.
 - That ruler backing emerges from a preexisting Qin restoration problem: military pressure, diplomatic exclusion, and the need for credible reward.
+- Before the formal reforms begin, the personnel path already matters: Qin's edict creates demand, but Jing Jian's private access makes Shang Yang's audition possible.
 - Household grouping and mutual liability pull ordinary families into state enforcement.
 - Agricultural output and military service become privileged contributions to state strength.
 - [[MilitaryMeritRankSystem|军功爵制]] replaces hereditary comfort with battlefield achievement as the status ladder.
@@ -47,6 +50,7 @@ The same episode keeps the reforms' historical weight visible. The host says Sha
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[GanLong|甘龙]], and [[YingSi|太子嬴驷]] - source actors.
 - [[QinDiplomaticExclusion|秦国外交排斥]] and [[QinEastwardPressure|秦国东进压力]] - pre-reform pressure context added by Zhouji 11 part 2.
+- [[GongshuWeiChancellor|公叔痤]], [[LiangHuiWang|魏惠王 / 梁惠王]], [[JingJian|景监]], and [[PrivateAccessTalentChannel|私人进身通道]] - Zhouji 12 missed recognition and Qin entry bridge.
 - [[QinState|秦国]] and [[WarringStatesPeriod|战国时期]] - state and competitive setting.
 - [[ReformWithoutPopularDeliberation]], [[LegalistRulerTechnique]], and [[WarringStatesReformBacklash]] - political logic and danger.
 - [[CollateralPunishmentAndGuiltByAssociation]], [[MilitaryMeritRankSystem]], and [[XimuLixin]] - concrete institutional mechanisms.

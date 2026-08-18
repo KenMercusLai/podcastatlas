@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》12丨 公孙鞅求职路上的拉关系 走后门](sources/zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil.md) — 芮淇讲透资治通鉴 episode on Qin Xiao Gong's 361 BCE recruitment edict, Gongshu's failed use-or-kill warning about Shang Yang, and Shang Yang reaching Qin through Jing Jian's private access channel before reform begins.
 - [《资治通鉴·周纪》11丨 世界风起云涌（2）](sources/zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf.md) — 芮淇讲透资治通鉴 episode on 362 BCE, Wei defeating Han-Zhao then losing to Qin at Shaoliang, Wey/Yan/Qin successions, and Qin Xiao Gong's pressured, diplomatically excluded pre-reform Qin.
 - [《资治通鉴·周纪》38丨搞兼职的张仪不一般](sources/zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn.md) — 芮淇讲透资治通鉴 episode on Zhang Yi's ambiguous move from Qin to Wei, the Qi-Wei provocation and withdrawal, Qin's renewed pressure on Quwo/Pingzhou, and Warring States persuaders as mobile career actors.
 - [《资治通鉴·周纪》37丨苏秦：六国集团CEO的不堪情史](sources/zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo.md) — 芮淇讲透资治通鉴 episode on Zhang Yi taking Shancheng, Su Qin's scandal-triggered move from Yan to Qi, induced luxury as anti-Qi strategy, Zhao Wuling Wang's title restraint, and Gongsun Yan's more practical hezong turn.
@@ -1153,6 +1154,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [右尹黑 / Youyin Hei](entities/YouyinHei.md) — Chu high official sent to Qin to receive a bride, likely for Chu Xuan Wang, in a marriage-diplomacy notice.
 - [韩昭侯 / Marquis Zhao of Han](entities/HanZhaohou.md) — Han ruler likely involved in the 357 BCE Wei-Han meeting under Qin pressure.
 - [秦孝公 / Duke Xiao of Qin](entities/QinXiaogong.md) — Qin ruler whose pressured 362 BCE accession leads into the recruitment of Shang Yang and the first reform push.
+- [景监 / Jing Jian](entities/JingJian.md) — Qin Xiao Gong favorite who introduces Shang Yang and makes private access central to the episode 12 talent story.
 - [甘龙 / Gan Long](entities/GanLong.md) — Qin official whose opposition to Shang Yang frames the conflict between inherited custom and disruptive state-strengthening reform.
 - [嬴驷 / Ying Si](entities/YingSi.md) — Qin crown prince turned Qin Huiwen Wang, whose branch now covers the Shang Yang law test, accession backlash, and Su Qin's failed Qin lobbying.
 - [王阳明 / Wang Yangming](entities/WangYangming.md) — Later analogy for collective-responsibility governance through 十家牌法.
@@ -7124,6 +7126,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eastern-Western Zhou Split / 东周西周分裂](concepts/EasternWesternZhouSplit.md) — Political-fragmentation frame distinguishing the small East/West Zhou polities from broad dynasty-period labels.
 - [Situational Character Tests / 五观识人法](concepts/SituationalCharacterTests.md) — Li Ke's five-condition framework for judging people by relationships, referrals, and refusals under pressure.
 - [Talent Referral Quality / 荐才层级质量](concepts/TalentReferralQuality.md) — Chancellor-selection lesson that the level and effect of referred talent matter more than referral count alone.
+- [Private Access Talent Channel / 私人进身通道](concepts/PrivateAccessTalentChannel.md) — Court personnel mechanism where open recruitment still depends on favored intermediaries who make outsider talent actionable.
 - [Qi Wei Wang Chronology Dispute / 齐威王编年争议](concepts/QiChronologyDispute.md) — Source-critical case arguing Qi Wei Wang's received annalistic placement is probably too early.
 - [Allusive Remonstrance / 隐语进谏](concepts/AllusiveRemonstrance.md) — Indirect criticism pattern in which Chunyu Kun uses a silent-bird riddle to reach Qi Wei Wang.
 - [Poetry As Elite Political Language / 诗经作为贵族政治语言](concepts/PoetryAsElitePoliticalLanguage.md) — Pre-Qin elite communication pattern where Shijing fluency lets sensitive political messages move through shared poetic code.

@@ -2,11 +2,13 @@
 title: "秦穆公 / Duke Mu of Qin"
 type: entity
 tags: [person, ruler, spring-and-autumn, qin-state]
-sources: [zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+sources: [zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
 last_updated: 2026-08-19
 ---
 
 # 秦穆公 / Duke Mu of Qin
+
+[[zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil]] adds Qin Mu Gong as the explicit prestige ancestor in [[QinXiaogong|秦孝公]]'s recruitment edict. Qin Xiao Gong invokes his hegemonic past to frame Qin's present humiliation as recoverable, turning ancestral memory into a tool for attracting state-strengthening talent.
 
 秦穆公 / Duke Mu of Qin appears in [[zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]] through the [[BailiXi|百里奚]] comparison. The episode says he hears of Baili Xi's reputation, avoids making Chu suspicious with an extravagant ransom, and redeems him at the ordinary slave price of five black ram skins.
 
@@ -21,4 +23,4 @@ That precedent matters because [[QinXiaogong|秦孝公]]'s political ideal is fr
 - [[QinState|秦国]] - state he strengthens in the episode's retrospective frame.
 - [[QinXiaogong|秦孝公]] - later Qin ruler said to want restoration of Qin Mu Gong's greatness.
 - [[ShangYang|公孙鞅 / 商鞅]] - later minister compared against the Baili Xi precedent.
-- [[TalentAttractionThroughRespect]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], and [[PowerExitTrap|权力退场困境]] - recognition, support, and contrast frames.
+- [[TalentAttractionThroughRespect]], [[PrivateAccessTalentChannel|私人进身通道]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], and [[PowerExitTrap|权力退场困境]] - recognition, access, support, and contrast frames.

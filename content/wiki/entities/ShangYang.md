@@ -2,11 +2,15 @@
 title: "Shang Yang / 商鞅"
 type: entity
 tags: [person, philosophy, chinese-history, legalism, political-theory]
-sources: [zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
+sources: [zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
 last_updated: 2026-08-19
 ---
 
 # Shang Yang / 商鞅
+
+[[zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil]] moves Shang Yang's page earlier than his reform authority. Under the name 公孙鞅, he is presented as a young Legalist-oriented figure inside [[WeiState|魏国]] who has ability but not the status or ruler familiarity needed for [[LiangHuiWang|魏惠王 / 梁惠王]] to entrust him with government.
+
+The same episode makes his move to [[QinState|秦国]] a personnel-access story as much as an ideological one. [[GongshuWeiChancellor|公叔痤]] tells Wei Hui Wang to use or kill him, but Shang Yang correctly judges that a ruler who ignores the recommendation will also ignore the warning. He then reaches [[QinXiaogong|秦孝公]] through [[JingJian|景监]], so his rise begins through a [[PrivateAccessTalentChannel|private-access talent channel]] before it becomes the public statecraft of [[ShangYangReforms|商鞅变法]].
 
 [[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]] adds Shang Yang under his 公孙鞅 name as the central reformer of [[QinState|秦国]]. Backed by [[QinXiaogong|秦孝公]], he argues against [[GanLong|甘龙]] that state-strengthening reforms need not begin with popular deliberation or inherited custom. The episode uses [[ShangYangReforms|商鞅变法]] to connect [[ReformWithoutPopularDeliberation|不与民虑始]], [[CollateralPunishmentAndGuiltByAssociation|什伍连坐]], [[MilitaryMeritRankSystem|军功爵制]], and [[XimuLixin|徙木立信]] into one severe state-building package.
 
@@ -34,6 +38,7 @@ The episode distinguishes them by saying [[ThePrince|《君主论》]] is not si
 
 ## Connections
 - [[HanFei|Han Fei / 韩非]] - paired Legalist figure in the source.
+- [[GongshuWeiChancellor|公叔痤]], [[LiangHuiWang|魏惠王 / 梁惠王]], [[JingJian|景监]], and [[PrivateAccessTalentChannel|私人进身通道]] - Zhouji 12 pre-Qin recognition failure and access channel.
 - [[QinXiaogong|秦孝公]], [[GanLong|甘龙]], and [[YingSi|太子嬴驷]] - Qin reform actors added by Zhouji 13.
 - [[ShangYangReforms]], [[ReformWithoutPopularDeliberation]], [[MilitaryMeritRankSystem]], and [[XimuLixin]] - direct reform branch from Zhouji 13.
 - [[Xianyang|咸阳]], [[HouseholdSeparationLaw]], [[QinAdministrativeStandardization]], [[Anyi|安邑]], and [[Guyang|固阳]] - Zhouji 17 second-reform and Qin pressure branch.

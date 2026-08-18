@@ -8367,3 +8367,11 @@ Added source page for a 芮淇讲透资治通鉴 episode on Zhang Yi's move from
 ## [2026-08-19] ingest | 《资治通鉴·周纪》11丨 世界风起云涌（2）
 
 Added source page for a 芮淇讲透资治通鉴 episode on 362 BCE: Wei defeats Han and Zhao despite recent anti-Qin coordination, Qin defeats Wei at Shaoliang and captures a figure rendered as 公孙措/公孙痤/公叔痤, Wey/Yan/Qin successions move the annals from war to ruler handoff, and Qin Xiao Gong inherits a pressured, diplomatically excluded Qin before the Shang Yang reform branch opens. Created Qin Diplomatic Exclusion; updated overview, index, Qin Xiao Gong, Qin Xian Gong, Qin State, Wei/Han/Zhao/Wey/Yan state pages, Wey Sheng Gong, Wey Cheng Gong, Yan Huan Gong, Yan Wen Gong, Shaoliang, Gongshu, Zizhi Tongjian, Shiji, Ruiqi Jiangtou Zizhi Tongjian, Qin Eastward Pressure, Early Warring States Interstate War, Weak-State Status Demotion, Low-Posture Statecraft, Shang Yang Reforms, and Warring States Period. Flagged a Wey chronology/title tension: earlier wiki pages place Wey Sheng Gong's death and Wey Cheng Gong's accession in 373 BCE, while this source places a 卫声公 death and 成侯 title/accession issue in 362 BCE.
+
+## [2026-08-19] ingest | 《资治通鉴·周纪》12丨 公孙鞅求职路上的拉关系 走后门
+
+Added source page for a 芮淇讲透资治通鉴 episode on Qin Xiao Gong's 361 BCE recruitment edict, Qin Mu Gong restoration rhetoric, Gongshu's failed recommendation that Wei should use or kill Shang Yang, and Shang Yang reaching Qin Xiao Gong through Jing Jian before winning trust with rich-state, strong-army proposals. Created Jing Jian and Private Access Talent Channel; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou Xian Wang, Qin State, Wei State, Qin Xiao Gong, Qin Mu Gong, Liang Hui Wang, Gongshu, Shang Yang, Shang Yang Reforms, Talent Referral Quality, Legalist Ruler Technique, and Warring States Careerist Mobility. No direct contradiction found; the source closes the gap between Zhouji 11's Qin restoration setup and Zhouji 13's reform opening while keeping the raw summary's origin wording source-scoped.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

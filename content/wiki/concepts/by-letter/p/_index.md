@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 4739
+wiki_total_pages: 4740
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "PrivacyUnderPublicGaze"
     title: "Privacy Under Public Gaze / 公共凝视下的隐私"
     url: "/wiki/concepts/privacyunderpublicgaze/"
+  - key: "PrivateAccessTalentChannel"
+    title: "Private Access Talent Channel / 私人进身通道"
+    url: "/wiki/concepts/privateaccesstalentchannel/"
   - key: "PrivateActuarialism"
     title: "Private Actuarialism"
     url: "/wiki/concepts/privateactuarialism/"
