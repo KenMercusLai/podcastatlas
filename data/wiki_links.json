@@ -8675,6 +8675,10 @@
     "title": "楚悼王 / King Dao of Chu",
     "url": "/wiki/entities/chudaowang/"
   },
+  "ChuHuaiwang": {
+    "title": "楚怀王 / King Huai of Chu",
+    "url": "/wiki/entities/chuhuaiwang/"
+  },
   "ChuShengWang": {
     "title": "楚声王 / King Sheng of Chu",
     "url": "/wiki/entities/chushengwang/"
@@ -16639,6 +16643,10 @@
     "title": "公孙齐 / Gongsun Qi",
     "url": "/wiki/entities/gongsunqi/"
   },
+  "GongsunYan": {
+    "title": "犀首公孙衍 / Gongsun Yan",
+    "url": "/wiki/entities/gongsunyan/"
+  },
   "GongzhongHuan": {
     "title": "公中缓 / Gongzhong Huan",
     "url": "/wiki/entities/gongzhonghuan/"
@@ -18070,6 +18078,10 @@
   "Hexfield": {
     "title": "Hexfield",
     "url": "/wiki/entities/hexfield/"
+  },
+  "HexiWarringStates": {
+    "title": "河西 / Hexi (Warring States)",
+    "url": "/wiki/entities/hexiwarringstates/"
   },
   "Hexiehao": {
     "title": "Hexiehao / 和谐号",
@@ -20874,6 +20886,10 @@
   "JiaoshouYiXiaoxing": {
     "title": "叫兽易小星 / Jiaoshou Yi Xiaoxing",
     "url": "/wiki/entities/jiaoshouyixiaoxing/"
+  },
+  "Jiaoyi": {
+    "title": "焦邑 / Jiaoyi",
+    "url": "/wiki/entities/jiaoyi/"
   },
   "JiatingGongyeshe": {
     "title": "家庭工业社",
@@ -31595,6 +31611,10 @@
     "title": "Putnam Competition",
     "url": "/wiki/entities/putnamcompetition/"
   },
+  "PuyangWarringStates": {
+    "title": "蒲阳 / Puyang (Warring States)",
+    "url": "/wiki/entities/puyangwarringstates/"
+  },
   "PuzzleSnackMystery": {
     "title": "推理薯片 / Puzzle-Snack Mystery",
     "url": "/wiki/concepts/puzzlesnackmystery/"
@@ -31982,6 +32002,10 @@
   "Quora": {
     "title": "Quora",
     "url": "/wiki/entities/quora/"
+  },
+  "QuwoWarringStates": {
+    "title": "曲沃 / Quwo (Warring States)",
+    "url": "/wiki/entities/quwowarringstates/"
   },
   "Qwen": {
     "title": "Qwen",
@@ -34887,6 +34911,10 @@
     "title": "Shanghai Stock Exchange",
     "url": "/wiki/entities/shanghaistockexchange/"
   },
+  "Shangjun": {
+    "title": "上郡 / Shangjun",
+    "url": "/wiki/entities/shangjun/"
+  },
   "ShangyeJiushiZheyang": {
     "title": "商业就是这样",
     "url": "/wiki/entities/shangyejiushizheyang/"
@@ -34938,6 +34966,10 @@
   "ShaoQianBook": {
     "title": "《烧钱》",
     "url": "/wiki/entities/shaoqianbook/"
+  },
+  "Shaoliang": {
+    "title": "少梁 / Shaoliang",
+    "url": "/wiki/entities/shaoliang/"
   },
   "ShapeNet": {
     "title": "ShapeNet",
@@ -35967,6 +35999,10 @@
     "title": "宋初建国合法性表演 / Song Founding Legitimacy Performance",
     "url": "/wiki/concepts/songfoundinglegitimacyperformance/"
   },
+  "SongJunYan": {
+    "title": "宋君偃 / Lord Yan of Song",
+    "url": "/wiki/entities/songjunyan/"
+  },
   "SongMilitaryCentralization": {
     "title": "宋初军事集权 / Song Military Centralization",
     "url": "/wiki/concepts/songmilitarycentralization/"
@@ -36954,6 +36990,10 @@
   "StrategicCapitalRelocation": {
     "title": "Strategic Capital Relocation / 战略性迁都",
     "url": "/wiki/concepts/strategiccapitalrelocation/"
+  },
+  "StrategicConcessionDiplomacy": {
+    "title": "Strategic Concession Diplomacy / 欲擒故纵式让利外交",
+    "url": "/wiki/concepts/strategicconcessiondiplomacy/"
   },
   "StrategicFocusUnderIncumbentPressure": {
     "title": "Strategic Focus Under Incumbent Pressure",
@@ -42859,6 +42899,10 @@
     "title": "银华基金 / Yinhua Fund",
     "url": "/wiki/entities/yinhuafund/"
   },
+  "Yinjin": {
+    "title": "殷晋 / Yinjin",
+    "url": "/wiki/entities/yinjin/"
+  },
   "Yinxu": {
     "title": "殷墟",
     "url": "/wiki/entities/yinxu/"
@@ -47010,5 +47054,9 @@
   "zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0": {
     "title": "《资治通鉴·周纪》33丨历史第一爽文男主角苏秦",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0/"
+  },
+  "zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq": {
+    "title": "《资治通鉴·周纪》34丨秦国总理如何玩转六国",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq/"
   }
 }

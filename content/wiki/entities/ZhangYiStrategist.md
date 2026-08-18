@@ -2,7 +2,7 @@
 title: "张仪 / Zhang Yi (Warring States strategist)"
 type: entity
 tags: [person, strategist, diplomat, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
+sources: [zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
 last_updated: 2026-08-19
 ---
 
@@ -15,6 +15,8 @@ last_updated: 2026-08-19
 The episode previews their later strategic contrast: Su Qin works the [[HezongAlliance|合纵]] line, while Zhang Yi becomes the opposing counterpart in [[ZonghengjiaDiplomacy|纵横家外交]]. It also says Su Qin later uses provocation to push Zhang Yi toward [[QinState|秦国]], making their rivalry both competitive and mutually enabling.
 
 [[zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih]] narrates that provocation. Zhang Yi is still frustrated in [[ChuState|楚国]] when Su Qin draws him to Zhao, humiliates him, and lets his anger point him toward Qin as the only power strong enough to strike Zhao. Su Qin then secretly funds the journey, and Zhang Yi wins [[YingSi|秦惠文王]]'s trust. Once he learns the truth, Zhang Yi accepts that Su Qin has used him to stabilize Qin while he builds [[HezongAlliance|合纵]], and he promises not to trouble Su Qin while Su Qin lives.
+
+[[zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]] turns Zhang Yi from a placed court figure into an active Qin strategist. After [[QinState|秦国]] captures [[PuyangWarringStates|蒲阳]] from [[WeiState|魏国]], Zhang Yi advises [[YingSi|秦惠文王]] to return the city and send a Qin prince as hostage, then uses that apparent generosity to push [[LiangHuiWang|魏惠王]] into yielding [[Shangjun|上郡]]'s fifteen counties. The episode reads this as [[StrategicConcessionDiplomacy|欲擒故纵式让利外交]] and makes Zhang Yi's reward the Qin chief-minister post.
 
 ## Connections
 - [[SuQin|苏秦]] - fellow student, rival, and figure whose hezong success makes Zhang Yi's later path meaningful.

@@ -2,7 +2,7 @@
 title: "合纵 / Hezong Alliance"
 type: concept
 tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]
+sources: [zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]
 last_updated: 2026-08-19
 ---
 
@@ -17,6 +17,8 @@ last_updated: 2026-08-19
 [[zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]] narrates the alliance's completion. Su Qin moves through [[HanXuanhuiwang|韩宣惠王]], Wei, [[QiState|齐国]], and [[ChuWeiwang|楚威王]], converting the anti-Qin design into acceptance by all six eastern states. The episode emphasizes not only institution design but [[DignityBasedPersuasion|dignity-based persuasion]]: each ruler has to be made to see Qin accommodation as both strategically losing and humiliating.
 
 [[zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0]] follows hezong into reception and source criticism. In [[Shiji|《史记》]]'s dramatic framing, Su Qin's success is so large that Qin troops do not dare leave [[HanguPass|函谷关]] for fifteen years. The episode flags that claim as unstable because the coming [[ZizhiTongjian|《资治通鉴》]] sequence soon records renewed Qin military action and the collapse of the six-state alliance.
+
+[[zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]] narrates that collapse. [[GongsunYan|犀首公孙衍]] helps draw [[QiState|齐国]] and [[WeiState|魏国]] into pressure against [[ZhaoState|赵国]], [[ZhaoSuhou|赵肃侯]] blames [[SuQin|苏秦]], and Su Qin leaves for [[YanState|燕国]]. The episode therefore turns hezong from a completed ideal into a coordination problem that Qin can disrupt before or while using direct pressure on Wei.
 
 The concept is therefore both diplomatic and historiographical. It names the kind of coalition Su Qin is famous for, while also recording this episode's caution that the chronicle's dating may compress or misplace a more complicated process.
 

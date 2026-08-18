@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》34丨秦国总理如何玩转六国](sources/zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq.md) — 芮淇讲透资治通鉴 episode on Qin disrupting hezong, repeatedly extracting Wei territory, and Zhang Yi's Puyang-for-Shangjun maneuver that turns apparent generosity into a larger Qin gain.
 - [《资治通鉴·周纪》33丨历史第一爽文男主角苏秦](sources/zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0.md) — 芮淇讲透资治通鉴 episode on Su Qin's Luoyang homecoming, the 前倨后恭 status reversal, old-help repayment, idiom reception, and the Shiji/Zizhi Tongjian tension around Qin staying inside Hangu Pass for fifteen years.
 - [《资治通鉴·周纪》32丨“史上首位联合国秘书长”苏秦](sources/zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3.md) — 芮淇讲透资治通鉴 episode completing Su Qin's hezong circuit through Han, Wei, Qi, and Chu, with dignity-based persuasion, Wei military transformation, Linzi urban prosperity, and the Shiji homecoming sequel.
 - [《资治通鉴·周纪》31丨合纵连横 围殴秦](sources/zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih.md) — 芮淇讲透资治通鉴 episode on hezong as anti-Qin coalition design, Su Qin's Zhao Suhou pitch, Qin's attack on Wei, and Su Qin's manipulation of Zhang Yi into Qin as the lianheng counterpart.
@@ -1038,6 +1039,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [犀首公孙衍 / Gongsun Yan](entities/GongsunYan.md) — Wei-born strategist/title-holder whom Qin uses to disrupt the Qi-Wei-Zhao side of hezong, later previewed as Zhang Yi's rival.
+- [楚怀王 / King Huai of Chu](entities/ChuHuaiwang.md) — Chu Wei Wang's son and successor in the 329 BCE notice, previewing the later dramatic Chu branch.
+- [宋君偃 / Lord Yan of Song](entities/SongJunYan.md) — Song Ticheng's younger brother who overthrows him and makes Song a more active small-state problem.
+- [殷晋 / Yinjin](entities/Yinjin.md) — Wei place tied to Gongsun Yan's origin and ceded to Qin during the 332 BCE peace settlement.
+- [蒲阳 / Puyang (Warring States)](entities/PuyangWarringStates.md) — Wei place Qin captures and then returns as the visible concession in Zhang Yi's Shangjun maneuver.
+- [上郡 / Shangjun](entities/Shangjun.md) — Fifteen-county Wei territory yielded to Qin after Zhang Yi frames the return of Puyang as Qin generosity.
+- [焦邑 / Jiaoyi](entities/Jiaoyi.md) — Wei stronghold pressed, captured, and later returned by Qin in the episode's Qin-Wei pressure sequence.
+- [曲沃 / Quwo (Warring States)](entities/QuwoWarringStates.md) — Wei stronghold paired with Jiaoyi in Qin's offensive and later return.
+- [少梁 / Shaoliang](entities/Shaoliang.md) — Wei place yielded to Qin after pressure around Jiaoyi and Quwo.
+- [河西 / Hexi (Warring States)](entities/HexiWarringStates.md) — Contested western Wei region whose cession to Qin appears as a continuing frontier-loss branch.
 - [函谷关 / Hangu Pass](entities/HanguPass.md) — Qin pass used by Zhouji 33 as the test point for Shiji's fifteen-year hezong efficacy claim against the coming Zizhi Tongjian sequel.
 - [临淄 / Linzi](entities/Linzi.md) — Qi capital whose population, entertainment, density, and public confidence become evidence in Su Qin's anti-Qin persuasion.
 - [《阴符》 / Yinfu Jing](entities/YinfuJing.md) — Text Su Qin studies after failure, with Zhouji 30 distinguishing Shiji's 《周书阴符》 from Zhanguo Ce's 《太公阴符之谋》.
@@ -7034,6 +7045,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Strategic Concession Diplomacy / 欲擒故纵式让利外交](concepts/StrategicConcessionDiplomacy.md) — Zhang Yi's pattern of returning a smaller captured asset and signaling goodwill to extract a larger concession from Wei.
 - [前倨后恭 / Qianju Hougong Reversal](concepts/QianjuHougongReversal.md) — Status-reversal pattern from Su Qin's homecoming, where rank and money transform family behavior from neglect into fearful deference.
 - [Dignity-Based Persuasion / 尊严激将式说服](concepts/DignityBasedPersuasion.md) — Su Qin's pattern of turning anti-Qin strategy into a face-and-dignity choice for rulers.
 - [Warring States Military Transformation / 战国军事形态转变](concepts/WarringStatesMilitaryTransformation.md) — Military-history inference from Wei's army list showing infantry growth, chariot decline, and still-auxiliary cavalry.
