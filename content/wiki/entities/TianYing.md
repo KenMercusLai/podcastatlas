@@ -2,7 +2,7 @@
 title: "田婴 / Tian Ying"
 type: entity
 tags: [person, general, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
+sources: [zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
 last_updated: 2026-08-19
 ---
 
@@ -12,7 +12,12 @@ last_updated: 2026-08-19
 
 In this source, Tian Ying is less developed than [[TianJi|田忌]] or [[SunBin|孙膑]]. His wiki role is to mark that Qi's intervention is a formal state campaign with multiple commanders, while Sun Bin remains the military adviser shaping the plan.
 
+[[zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]] makes Tian Ying a diplomatic promoter after [[MalingBattle|马陵之战]]. The episode says he replaces [[ZouJi|成侯邹忌]] as Qi's chief minister and tries to turn Qi's victory prestige into a new order in which [[WeiState|魏国]] and [[HanState|韩国]] defer to [[QiState|齐国]].
+
+The same source preserves a genealogy caution. It follows [[Shiji|《史记》]] in calling Tian Ying [[QiWeiwang|齐威王]]'s younger son, but notes Yang Kuan's suspicion that he may have been Qi Wei Wang's younger brother instead.
+
 ## Connections
 - [[QiState|齐国]] and [[QiWeiwang|齐威王]] - state and royal-family context.
 - [[TianJi|田忌]] and [[SunBin|孙膑]] - fellow commander and adviser in the rescue campaign.
 - [[HanState|韩国]], [[WeiState|魏国]], and [[MalingBattle|马陵之战]] - crisis and campaign setting.
+- [[XuzhouMutualKingship|徐州相王]], [[HuiShi|惠施]], and [[LowPostureStatecraft|低姿态权宜]] - post-Maling diplomatic branch in Zhouji 27.

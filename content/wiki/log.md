@@ -8151,6 +8151,10 @@ Added source page for a 芮淇讲透资治通鉴 episode opening Zhouji 11 and Z
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》27丨围观魏惠王和齐威王是咋商业互捧
+
+Added source page for a 芮淇讲透资治通鉴 episode on Qin taking Yiyang, Qi Wei Wang and Wei Hui Wang's Xuzhou mutual recognition, Tian Ying and Hui Shi's different post-Maling diplomatic calculations, and the risk boundary around low-posture strategy. Created Hui Shi, Yiyang (Warring States), Xuzhou Mutual Kingship, and Low-Posture Statecraft pages; updated overview, index, log, and related Qi/Wei/Han/Qin, Qi Wei Wang, Liang Hui Wang, Tian Ying, Shen Buhai, Han Zhaohou, Xuzhou, Maling Battle, Qin Eastward Pressure, Early Warring States Interstate War, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, and Zhou Xian Wang pages. No direct contradiction found; Tian Ying's genealogy question is kept source-scoped as a qualification.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》26丨孟子来了！
 
 Added source page for a 芮淇讲透资治通鉴 episode on Shen Buhai's quiet death, Zhang Kaidi and Zhang Ping as the Han family line behind Zhang Liang's later restoration motive, Song's unresolved Taiqiu She omen, and Mencius's arrival before Wei Hui Wang. Created pages for Zhang Kaidi, Zhang Ping, Taiqiu She, Yi Meng, Analects, Zhu Xi, Renyi-Benefit Ordering, and Mencius Song Reception; updated overview, index, Mencius, Mencius Text, Liang Hui Wang, Zisi, Sima Guang, Shen Buhai, Han State, Song State, Zhang Liang, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Wang Anshi, Righteousness Over Profit, Confucian Ideal Governance, and Song/Wang Anshi reform-context pages. No direct contradiction found; the source refines "义利之辨" by distinguishing anti-profit-first rhetoric from anti-benefit politics and keeps the Taiqiu She omen unresolved.
@@ -8238,6 +8242,10 @@ Ran health before lint; health scanned 11,678 wiki pages and found no empty/stub
 ## [2026-08-19] lint | Wiki health check
 
 Ran health before lint; health scanned 11,681 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,681 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-19] lint | Wiki health check
 

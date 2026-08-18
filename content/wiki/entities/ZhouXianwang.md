@@ -2,7 +2,7 @@
 title: "周显王 / King Xian of Zhou"
 type: entity
 tags: [person, ruler, zhou-dynasty, pre-qin]
-sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -34,6 +34,8 @@ In the Zhouji 11 source, he also performs a symbolic action: after [[QinXianGong
 
 [[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] carries that frame through 340-338 BCE. The episode completes the Qin-Wei outcome, notes 339 BCE as blank, and uses 338 BCE for [[QinXiaogong|秦孝公]]'s death, [[YingSi|嬴驷]]'s succession, and Shang Yang's fall.
 
+[[zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]] continues the frame into Zhou Xian Wang's thirty-fourth and thirty-fifth years, 335-334 BCE. The episode records [[QinState|秦国]] taking [[YiyangWarringStates|宜阳]] from [[HanState|韩国]], then centers [[XuzhouMutualKingship|徐州相王]] between [[QiWeiwang|齐威王]] and [[LiangHuiWang|魏惠王 / 梁惠王]] as a post-Maling diplomatic reordering.
+
 ## Connections
 - [[ZhouRoyalHouse|周王室]] - dynastic setting.
 - [[ZhouLiewang|周烈王]] - predecessor and brother in the source.
@@ -49,3 +51,4 @@ In the Zhouji 11 source, he also performs a symbolic action: after [[QinXianGong
 - [[PollTax|人头税]], [[ZhaoFan|赵范]], [[Luoyi|洛邑]], [[Fengze|逢泽]], [[AudienceVsMeetingDiplomacy]], and [[ZhouHegemonRecognition]] - Zhouji 18 fiscal, succession, meeting, and recognition branch.
 - [[MalingBattle|马陵之战]], [[DelayedRescueStatecraft]], [[PrinceShenWei|太子申]], [[ForcedMarchOperationalRisk]], and [[DecreasingStovesDeception]] - Zhouji 19-20 rescue-Han and Maling outcome branch.
 - [[ShangYang|公孙鞅 / 商鞅]], [[GongziAng|公子卬 / 公子昂]], [[QinEastwardPressure]], [[PeaceParleyEntrapment|和谈诱捕]], [[YingSi|嬴驷]], and [[LegalistSelfBindingBackfire|作法自毙]] - Zhouji 22-23 Qin-Wei attack, blank year, and succession branch.
+- [[YiyangWarringStates|宜阳]], [[XuzhouMutualKingship|徐州相王]], [[HuiShi|惠施]], and [[LowPostureStatecraft|低姿态权宜]] - Zhouji 27 Qin-Han notice and Qi-Wei recognition branch.

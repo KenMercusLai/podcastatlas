@@ -1,8 +1,8 @@
 ---
 title: "徐州 / Xuzhou"
 type: entity
-tags: [city, china, song-dynasty, flood-control, governance]
-sources: [105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
+tags: [city, china, song-dynasty, flood-control, governance, pre-qin, warring-states, diplomacy]
+sources: [zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
 last_updated: 2026-07-24
 ---
 
@@ -12,8 +12,11 @@ Xuzhou appears in [[105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072
 
 The source uses Xuzhou to balance the popular Su Dongpo image of food, poetry, and leisurely scenery. Su Shi's public value also lies in emergency coordination, practical rule adjustment, and local responsibility, which connects the episode to [[LocalGovernanceAsCare]] and the wiki's broader [[DisasterResponseStateCapacity]] frame.
 
+[[zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]] adds a much earlier Warring States use of the place-name through [[XuzhouMutualKingship|徐州相王]]. In that source, [[QiWeiwang|齐威王]] and [[LiangHuiWang|魏惠王 / 梁惠王]] meet at Xuzhou and mutually recognize kingly titles after [[MalingBattle|马陵之战]], making the page connect local-governance Xuzhou to a distinct pre-Qin diplomacy node.
+
 ## Connections
 - [[SuShi|苏轼 / 苏东坡]] - official whose Xuzhou service anchors the page.
 - [[LocalGovernanceAsCare]] and [[ScholarOfficialPublicDuty]] - source concepts.
 - [[DisasterResponseStateCapacity]] - adjacent wiki frame for state capacity under shock.
 - [[NorthernSong|北宋]] - historical setting.
+- [[XuzhouMutualKingship|徐州相王]], [[QiWeiwang|齐威王]], [[LiangHuiWang|魏惠王 / 梁惠王]], and [[MalingBattle|马陵之战]] - Warring States diplomacy branch.

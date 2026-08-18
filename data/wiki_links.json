@@ -18767,6 +18767,10 @@
     "title": "Hugo Mann",
     "url": "/wiki/entities/hugomann/"
   },
+  "HuiShi": {
+    "title": "惠施 / Hui Shi",
+    "url": "/wiki/entities/huishi/"
+  },
   "HuiWanGroup": {
     "title": "Hui Wan Group",
     "url": "/wiki/entities/huiwangroup/"
@@ -24038,6 +24042,10 @@
   "LowMarkupTrust": {
     "title": "Low Markup Trust",
     "url": "/wiki/concepts/lowmarkuptrust/"
+  },
+  "LowPostureStatecraft": {
+    "title": "Low-Posture Statecraft / 低姿态权宜",
+    "url": "/wiki/concepts/lowposturestatecraft/"
   },
   "LowPriceBrandPerception": {
     "title": "Low Price Brand Perception",
@@ -42399,6 +42407,10 @@
     "title": "徐州 / Xuzhou",
     "url": "/wiki/entities/xuzhou/"
   },
+  "XuzhouMutualKingship": {
+    "title": "徐州相王 / Xuzhou Mutual Kingship",
+    "url": "/wiki/concepts/xuzhoumutualkingship/"
+  },
   "YCGrowthFlywheel": {
     "title": "YC Growth Flywheel",
     "url": "/wiki/concepts/ycgrowthflywheel/"
@@ -42758,6 +42770,10 @@
   "Yiwu": {
     "title": "Yiwu",
     "url": "/wiki/entities/yiwu/"
+  },
+  "YiyangWarringStates": {
+    "title": "宜阳 / Yiyang (Warring States)",
+    "url": "/wiki/entities/yiyangwarringstates/"
   },
   "Yobi": {
     "title": "Yobi",
@@ -46834,5 +46850,9 @@
   "zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn": {
     "title": "《资治通鉴·周纪》26丨孟子来了！",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn/"
+  },
+  "zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb": {
+    "title": "《资治通鉴·周纪》27丨围观魏惠王和齐威王是咋商业互捧",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb/"
   }
 }

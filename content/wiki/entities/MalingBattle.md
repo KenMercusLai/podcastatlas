@@ -2,7 +2,7 @@
 title: "马陵之战 / Battle of Maling"
 type: entity
 tags: [battle, warfare, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]
+sources: [zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]
 last_updated: 2026-08-19
 ---
 
@@ -22,10 +22,13 @@ The same source makes Maling a turning point rather than only a famous trick. Pa
 
 [[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] gives Maling a methodological afterlife. The episode compares Sun Bin's reduced-stove deception with Shang Yang's capture of Gongzi Ang, arguing that Maling's tactic is more reusable and less personally trust-destroying even though Shang Yang's immediate payoff is larger.
 
+[[zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]] gives Maling a diplomatic afterlife. Qi's victory prestige makes [[TianYing|田婴]] push for a Qi-centered order, while Wei's defeat makes [[HuiShi|惠施]] advise [[LiangHuiWang|魏惠王 / 梁惠王]] to accept [[LowPostureStatecraft|low-posture]] diplomacy. The result is [[XuzhouMutualKingship|徐州相王]], where the battle's power shift becomes title recognition rather than another immediate campaign.
+
 ## Connections
 - [[QiState|齐国]], [[WeiState|魏国]], and [[HanState|韩国]] - states in the campaign.
 - [[SunBin|孙膑]], [[PangJuan|庞涓]], [[TianJi|田忌]], [[QiWeiwang|齐威王]], [[ZouJi|成侯邹忌]], [[TianYing|田婴]], and [[PrinceShenWei|太子申]] - personnel and command branch.
 - [[Daliang|大梁]], [[GuilingBattle|桂陵之战]], and [[EncirclingWeiToRescueZhao]] - strategic-continuity branch from rescue Zhao to rescue Han.
 - [[DelayedRescueStatecraft]], [[CrownPrinceCommandRisk]], [[ForcedMarchOperationalRisk]], [[LureEnemyOutOfPosition]], [[DecreasingStovesDeception]], [[TacticalCredibilityCost|战术信用成本]], and [[SunziBingfa|《孙子兵法》]] - concepts added by the Zhouji 19 setup, Zhouji 20 outcome, and Zhouji 23 comparison.
 - [[TreasonAccusationTrap]] and [[ChuState|楚国]] - Zhouji 21 aftermath in which victory becomes court danger and exile.
+- [[XuzhouMutualKingship|徐州相王]], [[HuiShi|惠施]], and [[LowPostureStatecraft|低姿态权宜]] - Zhouji 27 diplomatic afterlife.
 - [[EarlyWarringStatesInterstateWar]] and [[WarringStatesPeriod|战国时期]] - broader conflict setting.

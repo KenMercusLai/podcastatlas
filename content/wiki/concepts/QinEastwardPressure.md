@@ -2,7 +2,7 @@
 title: "Qin Eastward Pressure / 秦国东进压力"
 type: concept
 tags: [warfare, diplomacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]
+sources: [zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]
 last_updated: 2026-08-19
 ---
 
@@ -24,6 +24,8 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 
 [[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] gives the territorial result. After Qin breaks Wei, [[LiangHuiWang|魏惠王]] cedes Hexi and moves from [[Anyi|安邑]] to [[Daliang|大梁]], making the pressure no longer only a border threat but a capital-geography change for Wei.
 
+[[zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]] extends the same pressure onto [[HanState|韩国]] in 335 BCE. [[QinState|秦国]] takes [[YiyangWarringStates|宜阳]], which the episode describes as a long-targeted strategic place comparable to Wei's Hexi. The notice shows Qin pressure continuing while the eastern states are also managing the post-[[MalingBattle|马陵之战]] diplomatic order.
+
 ## Key Claims
 - Qin's eastern expansion pushes Wei, Han, and Zhao to respond across older rivalries.
 - A coalition does not prove strategic coherence; Wei and Han can cooperate and still lose.
@@ -33,6 +35,7 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 - Qin pressure can also become status: the weakened Zhou court may formally recognize the rising power after its military and administrative strength has become visible.
 - The 340 BCE attack shows Qin choosing timing after Wei's eastern defeat and treating western terrain as the bridge from border war to future hegemony.
 - The Hexi cession and capital move show Qin pressure reshaping Wei's strategic geography, not just winning one campaign.
+- The 335 BCE Yiyang notice shows Qin pressure also cutting into Han while Qi and Wei are rearranging the eastern title hierarchy.
 
 ## Connections
 - [[QinState|秦国]] and [[QinXianGong|秦献公]] - rising western power and ruler.
@@ -44,3 +47,4 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 - [[ShangYang|公孙鞅 / 商鞅]], [[Anyi|安邑]], [[Guyang|固阳]], [[Handan|邯郸]], [[ZhangshuiAlliance|漳水之盟]], and [[XianglingWarringStates|襄陵]] - Zhouji 17 pressure and reconciliation extension.
 - [[QinXiaogong|秦孝公]], [[ZhouHegemonRecognition]], [[GongziShaoguan|公子少官]], and [[Fengze|逢泽]] - Zhouji 18 status-recognition extension.
 - [[GongziAng|公子卬 / 公子昂]], [[FarmingWarStatecraft|耕战逻辑]], [[PeaceParleyEntrapment|和谈诱捕]], [[Anyi|安邑]], [[Daliang|大梁]], and [[Shangyu|商於]] - Zhouji 22-23 attack timing, capture, cession, and reward extension.
+- [[YiyangWarringStates|宜阳]], [[HanState|韩国]], [[MalingBattle|马陵之战]], and [[XuzhouMutualKingship|徐州相王]] - Zhouji 27 Qin-Han pressure inside post-Maling diplomacy.
