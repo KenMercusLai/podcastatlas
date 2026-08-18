@@ -2,7 +2,7 @@
 title: "MLOps"
 type: concept
 tags: [mlops, machine-learning, operations]
-sources: [ep-7-data-science-mlops]
+sources: [ep-14-what-is-observability, ep-7-data-science-mlops]
 last_updated: 2026-08-18
 ---
 
@@ -12,6 +12,8 @@ MLOps is the operating discipline for taking machine-learning models from data-s
 
 The source treats MLOps as broader than deployment. A model may need to be placed behind a REST API, wired into application behavior, measured in production, retrained or improved when user behavior reveals missing features, and connected back to the data scientist who understands the model's assumptions. That makes [[ProductionMLFeedbackLoops]] and [[MLCICD]] central rather than optional process garnish.
 
+[[ep-14-what-is-observability]] adds the adjacent [[Observability]] layer. Where MLOps tracks whether production models remain deployable, measured, and improvable, observability broadens the operating picture to whole applications, business transactions, customer impact, security signals, and real-time cost or scaling decisions.
+
 MLOps also clarifies role boundaries. [[DataScientistMLOpsFluency]] says data scientists should understand what MLOps is for, but [[MachineLearningEngineering]] and operations specialists may own much of the hands-on deployment work inside [[IntegratedMLTeams]].
 
 ## Key Claims
@@ -20,6 +22,7 @@ MLOps also clarifies role boundaries. [[DataScientistMLOpsFluency]] says data sc
 - Putting a model behind an API is only the beginning; behavior and model quality need to keep flowing back into improvement work.
 - MLOps is still partly experimental because organizations have not fully standardized best practice.
 - Data scientists benefit from understanding MLOps even when they do not perform all MLOps tasks.
+- Observability complements MLOps by making application-level and business-level effects visible after deployment.
 
 ## Connections
 - [[AaronBlythe]], [[DataScienceWithSam]], and [[SamDataScienceWithSam]] - source context.
@@ -28,3 +31,4 @@ MLOps also clarifies role boundaries. [[DataScientistMLOpsFluency]] says data sc
 - [[DevOpsCALMS]] and [[MLCICD]] - DevOps-derived practice base.
 - [[ProductionMLFeedbackLoops]] and [[FastFeedbackLoops]] - measurement and learning loops after deployment.
 - [[IntegratedMLTeams]] and [[DataScientistMLOpsFluency]] - team design and role-boundary frame.
+- [[Observability]], [[BusinessTransactionObservability]], [[AIEnabledObservability]], and [[RealTimeOperationalAnalytics]] - EP14's broader application-operations layer.

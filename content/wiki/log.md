@@ -7879,3 +7879,11 @@ Added source page for a Data Science With Sam episode with Bruno on coaching-int
 Ran lint. See lint-report.md for details.
 
 Health passed with no empty/stub files, index drift, or source-log coverage gaps across 11,196 linted wiki pages. Lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-08-12 with 10,690 nodes and 116,995 edges while lint scanned 11,196 pages; they found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-18] ingest | EP 14: What is Observability?
+
+Added source page for a Data Science With Sam episode with Ed Ferron of Exigent Solutions on observability, application performance monitoring, full-stack telemetry, business transaction monitoring, OpenTelemetry, AI-assisted anomaly detection, security telemetry, proactive alerts, and real-time operational analytics. Created pages for Ed Ferron, Exigent Solutions, OpenTelemetry, Observability, Full Stack Observability, Business Transaction Observability, Application Performance Monitoring, Proactive Observability, Observability Security Telemetry, AI-Enabled Observability, and Real-Time Operational Analytics; updated overview, index, Data Science With Sam, Sam, MLOps, Production ML Feedback Loops, Data Engineering For Data Science, Cybersecurity Data Science, and Security Data Access Constraint. No direct contradiction found; the source extends the production-ML branch by showing that telemetry becomes more useful when connected to end-to-end application behavior, business impact, security risk, and cost-aware live operations.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

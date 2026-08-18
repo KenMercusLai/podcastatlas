@@ -2,7 +2,7 @@
 title: "Data Engineering For Data Science"
 type: concept
 tags: [data-engineering, data-science, mlops]
-sources: [ep-7-data-science-mlops]
+sources: [ep-14-what-is-observability, ep-7-data-science-mlops]
 last_updated: 2026-08-18
 ---
 
@@ -14,12 +14,15 @@ The source frames data engineering as a foundation rather than a separate back-o
 
 This concept complements [[DataEngineeringDemand]]. That page tracks labor-market demand for data engineering; this page tracks the workflow reason data engineering matters inside production ML.
 
+[[ep-14-what-is-observability]] adds a live telemetry variant of the same access problem. Data scientists can use metrics, events, traces, logs, and spans for [[RealTimeOperationalAnalytics]], but only if observability data is ingested and organized well enough to query, model, alert on, and relate to business activity.
+
 ## Key Claims
 - Data scientists often lose time moving, cleaning, and locally manipulating requested files.
 - A strong data engineering practice puts data where analysis and model work can happen reliably.
 - Data warehouses can reduce copying and handoff friction by letting analysis run near the data.
 - Data engineering is upstream of MLOps because model deployment and feedback loops depend on stable data access.
 - Better data engineering improves collaboration by letting data scientists focus less on plumbing and more on modeling and interpretation.
+- Observability data creates a real-time data-engineering surface for operations, alerting, and business-transaction analysis.
 
 ## Connections
 - [[MLOps]] and [[MachineLearningEngineering]] - downstream production ML practices.
@@ -27,3 +30,4 @@ This concept complements [[DataEngineeringDemand]]. That page tracks labor-marke
 - [[ProductionMLFeedbackLoops]] - feedback loops need data returned in usable form.
 - [[IntegratedMLTeams]] - team structure where data engineers work with data scientists and ML engineers.
 - [[GoogleCloud]] and [[AaronBlythe]] - source context for the BigQuery/data-warehouse example.
+- [[OpenTelemetry]], [[Observability]], and [[RealTimeOperationalAnalytics]] - telemetry-ingestion and live analysis branch added by EP14.

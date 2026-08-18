@@ -2,7 +2,7 @@
 title: "Production ML Feedback Loops"
 type: concept
 tags: [machine-learning, mlops, feedback-loops]
-sources: [ep-7-data-science-mlops]
+sources: [ep-14-what-is-observability, ep-7-data-science-mlops]
 last_updated: 2026-08-18
 ---
 
@@ -12,6 +12,8 @@ Production ML feedback loops are the paths by which deployed model behavior, use
 
 The source connects this to [[FastFeedbackLoops]] but gives it a specific ML form. The loop is not just customer feedback or product analytics; it is model-relevant evidence about whether the model is still useful, what data is missing, and how production behavior should alter the next training or feature work.
 
+[[ep-14-what-is-observability]] extends the feedback idea from production ML into application operations. [[Observability]] data can show whether a deployed model or adjacent service path is affecting real business transactions, customer experience, security posture, capacity, or cost before quarterly reports or customer complaints reveal the damage.
+
 Sam also ties this loop to concept drift and data drift. The episode does not provide a detailed drift-monitoring framework, but it does make continuous improvement part of production ML rather than a one-time deployment event.
 
 ## Key Claims
@@ -20,6 +22,7 @@ Sam also ties this loop to concept drift and data drift. The episode does not pr
 - Feedback should reach data scientists, not only application engineers.
 - A/B testing is one way mature pipelines can test model or product changes.
 - Concept drift and data drift make ongoing feedback necessary because model quality can decay.
+- Observability can make feedback faster by connecting telemetry to business transactions and customer-visible failures.
 
 ## Connections
 - [[MLOps]] and [[MachineLearningEngineering]] - operating and role context.
@@ -27,3 +30,4 @@ Sam also ties this loop to concept drift and data drift. The episode does not pr
 - [[DataEngineeringForDataScience]] - data foundation needed to capture and reuse feedback.
 - [[FastFeedbackLoops]] - broader product-learning concept that this ML-specific page extends.
 - [[IntegratedMLTeams]] and [[DataScientistMLOpsFluency]] - team and role-boundary context.
+- [[Observability]], [[BusinessTransactionObservability]], [[ProactiveObservability]], and [[RealTimeOperationalAnalytics]] - EP14's application-telemetry extension of feedback loops.

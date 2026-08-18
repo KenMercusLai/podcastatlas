@@ -1551,6 +1551,10 @@
     "title": "AI Employment Multiplier Compression / AI就业乘数压缩",
     "url": "/wiki/concepts/aiemploymentmultipliercompression/"
   },
+  "AIEnabledObservability": {
+    "title": "AI-Enabled Observability",
+    "url": "/wiki/concepts/aienabledobservability/"
+  },
   "AIEnabledScamIndustrialization": {
     "title": "AI-Enabled Scam Industrialization",
     "url": "/wiki/concepts/aienabledscamindustrialization/"
@@ -4255,6 +4259,10 @@
     "title": "Apple Workout Buddy",
     "url": "/wiki/entities/appleworkoutbuddy/"
   },
+  "ApplicationPerformanceMonitoring": {
+    "title": "Application Performance Monitoring",
+    "url": "/wiki/concepts/applicationperformancemonitoring/"
+  },
   "AppliedAstrobiology": {
     "title": "Applied Astrobiology",
     "url": "/wiki/concepts/appliedastrobiology/"
@@ -6554,6 +6562,10 @@
   "BusinessRoundtable": {
     "title": "Business Roundtable",
     "url": "/wiki/entities/businessroundtable/"
+  },
+  "BusinessTransactionObservability": {
+    "title": "Business Transaction Observability",
+    "url": "/wiki/concepts/businesstransactionobservability/"
   },
   "ButterflyBrand": {
     "title": "蝴蝶牌",
@@ -12207,6 +12219,10 @@
     "title": "Ed Catmull",
     "url": "/wiki/entities/edcatmull/"
   },
+  "EdFerron": {
+    "title": "Ed Ferron",
+    "url": "/wiki/entities/edferron/"
+  },
   "EdMiliband": {
     "title": "Ed Miliband",
     "url": "/wiki/entities/edmiliband/"
@@ -13210,6 +13226,10 @@
   "ExecutivePowerPrecedent": {
     "title": "Executive Power Precedent",
     "url": "/wiki/concepts/executivepowerprecedent/"
+  },
+  "ExigentSolutions": {
+    "title": "Exigent Solutions",
+    "url": "/wiki/entities/exigentsolutions/"
   },
   "Existentialism": {
     "title": "Existentialism / 存在主义",
@@ -15138,6 +15158,10 @@
   "FullStackAIPlatform": {
     "title": "Full-Stack AI Platform",
     "url": "/wiki/concepts/fullstackaiplatform/"
+  },
+  "FullStackObservability": {
+    "title": "Full Stack Observability",
+    "url": "/wiki/concepts/fullstackobservability/"
   },
   "FullTimeSelfEmploymentBoom": {
     "title": "Full-Time Self-Employment Boom",
@@ -27187,6 +27211,14 @@
     "title": "Objectivism / 客观主义",
     "url": "/wiki/concepts/objectivism/"
   },
+  "Observability": {
+    "title": "Observability",
+    "url": "/wiki/concepts/observability/"
+  },
+  "ObservabilitySecurityTelemetry": {
+    "title": "Observability Security Telemetry",
+    "url": "/wiki/concepts/observabilitysecuritytelemetry/"
+  },
   "ObservationBeforeInference": {
     "title": "Observation Before Inference",
     "url": "/wiki/concepts/observationbeforeinference/"
@@ -27666,6 +27698,10 @@
   "OpenSourceWedge": {
     "title": "Open Source Wedge",
     "url": "/wiki/concepts/opensourcewedge/"
+  },
+  "OpenTelemetry": {
+    "title": "OpenTelemetry",
+    "url": "/wiki/entities/opentelemetry/"
   },
   "OpenWebSocialContractErosion": {
     "title": "Open Web Social Contract Erosion",
@@ -29983,6 +30019,10 @@
     "title": "Proactive Agents",
     "url": "/wiki/concepts/proactiveagents/"
   },
+  "ProactiveObservability": {
+    "title": "Proactive Observability",
+    "url": "/wiki/concepts/proactiveobservability/"
+  },
   "ProbabilisticSoftware": {
     "title": "Probabilistic Software",
     "url": "/wiki/concepts/probabilisticsoftware/"
@@ -31022,6 +31062,10 @@
   "RealTimeLivestreamLabor": {
     "title": "Real-Time Livestream Labor / 实时数据直播劳动",
     "url": "/wiki/concepts/realtimelivestreamlabor/"
+  },
+  "RealTimeOperationalAnalytics": {
+    "title": "Real-Time Operational Analytics",
+    "url": "/wiki/concepts/realtimeoperationalanalytics/"
   },
   "RealWorldAssetTokenizationRisk": {
     "title": "Real World Asset Tokenization Risk",
@@ -42562,6 +42606,10 @@
   "ep-13-soccer-analytics-through-the-lens-of-coaching": {
     "title": "EP 13: Soccer Analytics Through the Lens of Coaching",
     "url": "/wiki/sources/ep-13-soccer-analytics-through-the-lens-of-coaching/"
+  },
+  "ep-14-what-is-observability": {
+    "title": "EP 14: What is Observability?",
+    "url": "/wiki/sources/ep-14-what-is-observability/"
   },
   "ep-3-demystifying-the-imposter-syndrome": {
     "title": "EP 3: Demystifying the Imposter Syndrome",
