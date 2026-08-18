@@ -20875,6 +20875,10 @@
     "title": "晋静公 / Duke Jing of Jin",
     "url": "/wiki/entities/jinjinggong/"
   },
+  "JinLiegong": {
+    "title": "晋烈公 / Duke Lie of Jin",
+    "url": "/wiki/entities/jinliegong/"
+  },
   "JinMerchantGovernance": {
     "title": "Jin Merchant Governance",
     "url": "/wiki/concepts/jinmerchantgovernance/"
@@ -38615,6 +38619,10 @@
     "title": "TiDB",
     "url": "/wiki/entities/tidb/"
   },
+  "TianFamilyReplacementOfQi": {
+    "title": "Tian Family Replacement of Qi / 田氏代齐",
+    "url": "/wiki/concepts/tianfamilyreplacementofqi/"
+  },
   "TianFeng": {
     "title": "田峰 / Tian Feng",
     "url": "/wiki/entities/tianfeng/"
@@ -46646,6 +46654,10 @@
   "zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm": {
     "title": "《资治通鉴·周纪》07丨两起刺杀（2）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm/"
+  },
+  "zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn": {
+    "title": "《资治通鉴·周纪》07丨两起刺杀（3）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn/"
   },
   "zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll": {
     "title": "《资治通鉴·周纪》08丨一代名将吴起惨死（1）",

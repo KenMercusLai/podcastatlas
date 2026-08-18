@@ -24,6 +24,8 @@ This page is source-scoped. Its role is to explain why [[Mengzi|孟子 / Mencius
 
 [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] extends that transition through [[NieZheng|聂政]]'s assassination, [[ZhengXugong|郑繻公]]'s killing, [[WeiWuhou|魏武侯]]'s accession, and [[FushuCity|负黍]]'s repeated transfer. The source's strongest period claim is that war tempo and political violence are both accelerating.
 
+[[zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn]] adds the legitimacy lag behind that violence. [[JinState|晋国]] still has a ruler but little independent meaning, [[TianHe|田和]] can displace [[QiKangGong|齐康公]] before formal recognition catches up, and old labels such as "Jin" can remain in war notices even when the political actor may be [[WeiState|魏国]]. The episode therefore links [[TianFamilyReplacementOfQi|田氏代齐]], [[ThreeJinVassalRecognition|三晋受封]], and [[ChronicleChronologyDrift|编年错位]] as part of the same transition from inherited titles to power-backed legitimacy.
+
 [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll]] adds an internal Wei branch. [[WuQi|吴起]]'s West River warning shows Warring States rulers balancing geography against legitimacy through [[VirtueOverNaturalBarriers]], while the chancellor dispute with [[TianWenWeiChancellor|田文]] shows [[TransitionFitOverMerit]] inside a fragile succession.
 
 [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]] adds the reform-politics sequel. Wu Qi's move to [[ChuState|楚国]] turns military and administrative talent into [[WarringStatesReformBacklash]], while [[HanFei|韩非]]'s use of [[ZhaoJinghou|赵靖侯]] adds [[LegalistRulerTechnique]]. The same source also reinforces the period's compressed chronology through Qin, Zhao, Han, and Qi succession or recognition notices.
@@ -62,7 +64,7 @@ This page is source-scoped. Its role is to explain why [[Mengzi|孟子 / Mencius
 - [[WuQi|吴起]], [[WeiState|魏国]], and [[MilitaryMoraleThroughSharedHardship]] - military-leadership branch added by the Ruiqi episode.
 - [[PosthumousNamePolitics]] and [[BanditAssassinationAttribution]] - chronicle-reading concepts added by the Ruiqi episode.
 - [[ZhengState|郑国]], [[SmallStateBufferDiplomacy]], and [[SpringAutumnToWarringStatesPoliticalViolence]] - political-order transition branch added by episode 07.
-- [[NieZheng|聂政]], [[AristocraticHonorOverLife]], [[FushuCity|负黍]], and [[TerritorialControlChurn]] - part 2 assassination and territorial-churn branch.
+- [[NieZheng|聂政]], [[AristocraticHonorOverLife]], [[FushuCity|负黍]], [[TianFamilyReplacementOfQi|田氏代齐]], [[ChronicleChronologyDrift]], and [[TerritorialControlChurn]] - episode 07 assassination, legitimacy, source, and territorial-churn branch.
 - [[WeiWuhou|魏武侯]], [[TianWenWeiChancellor|田文]], [[GongshuWeiChancellor|公叔]], [[VirtueOverNaturalBarriers]], and [[TransitionFitOverMerit]] - Zhouji 08 internal-governance branch.
 - [[WarringStatesReformBacklash]], [[LegalistRulerTechnique]], [[QinChugong|秦出公]], [[ZhaoJinghou|赵靖侯]], [[HanWenhou|韩文侯]], and [[TianHe|田和]] - Zhouji 08 part 2 reform and chronology branch.
 - [[EarlyWarringStatesInterstateWar]], [[QiKangGong|齐康公]], [[JinJinggong|晋静公]], [[Zisi|子思]], [[UseStrengthsOverFaults]], and [[CourtFeedbackCollapse]] - Zhouji 09 war, old-order, and governance branch.

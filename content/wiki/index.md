@@ -26,6 +26,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·周纪》08丨一代名将吴起惨死（2）](sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm.md) — 芮淇讲透资治通鉴 episode on Wu Qi fleeing Wei for Chu, Chu Dao Wang's reform backing, noble backlash against Wu Qi's centralizing measures, Qin/Zhao/Han/Qi succession and recognition notices, and Han Fei's ruler-technique reading of Zhao Jinghou.
 - [《资治通鉴·周纪》08丨一代名将吴起惨死（1）](sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll.md) — 芮淇讲透资治通鉴 episode on Wu Qi under Wei Wuhou, virtue over terrain, Tian Wen's transition-stability argument, and Gongshu's marriage-trap maneuver.
 - [《资治通鉴·周纪》07丨两起刺杀（2）](sources/zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm.md) — 芮淇讲透资治通鉴 episode on Zhou An Wang years 5-8, solar-eclipse political responsibility, Nie Zheng's assassination of Xia Lei, Nie Ying's honor death, Wei/Song/Zheng successions, Song's Shang lineage, source gaps, and Fushu's repeated transfer.
+- [《资治通鉴·周纪》07丨两起刺杀（3）](sources/zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn.md) — 芮淇讲透资治通鉴 episode on Zhou An Wang years 9-15, hollow Jin rulership, Tian He's displacement of Qi Kang Gong, Three Jin recognition as precedent, Qin-Han/Wei pressure, and the disputed Wei Wenhou/Wu Qi chronology setup.
 - [《资治通鉴·周纪》07丨两起刺杀（1）](sources/zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx.md) — 芮淇讲透资治通鉴 episode on Zhou An Wang's first four years, Qin-Wei fighting, Han/Zhao/Qin successions, Wangzi Ding's flight, disaster-omen interpretation, Zheng's Jin-Chu buffer dilemma, and factional assassination politics.
 - [《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（2）](sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei.md) — 芮淇讲透资治通鉴 episode on Sima Rangju, Wu Qi's shared-hardship military leadership, Wei military discipline, Zhou/Yan/Chu chronology, posthumous names, and "bandit" assassinations as possible political cover.
 - [GameStop CEO Ryan Cohen's $56B Plan to Take Over eBay](sources/all-in-with-chamath-jason-sacks-friedberg-gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay-41752370.md) — All-In interview with Ryan Cohen on Chewy's low-margin retail execution, GameStop's cost-cutting and collectibles turnaround, and a contested GameStop bid for eBay built around resale, authentication, live commerce, store infrastructure, and in-game assets.
@@ -1121,11 +1122,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苟变 / Gou Bian](entities/GouBian.md) — Military talent whom Zisi says Wei should not discard over the "two eggs" blemish.
 - [周烈王 / King Lie of Zhou](entities/ZhouLiewang.md) — Zhou An Wang's son and successor in the 376 BCE transition closing Zhouji 09.
 - [燕简公 / Duke Jian of Yan](entities/YanJiangong.md) — Elderly Yan ruler whose state is attacked by Qi and rescued by Han, Zhao, and Wei in Zhouji 09.
-- [齐康公 / Duke Kang of Qi](entities/QiKangGong.md) — Last Jiang-line Qi ruler in Zhouji 09, whose death marks the old Qi lineage's end.
+- [齐康公 / Duke Kang of Qi](entities/QiKangGong.md) — Last Jiang-line Qi ruler, displaced by Tian He in Zhouji 07 part 3 before Zhouji 09 marks his death as the old Qi lineage's end.
 - [田氏齐桓公 / Tian-family Qi Huan Gong](entities/TianQiHuanGong.md) — Tian-family Qi ruler named in Zhouji 09, kept separate from the older Spring-Autumn Qi Huan Gong.
 - [田英齐 / Tian Yingqi](entities/TianYingqi.md) — Tian-family Qi successor named by Zhouji 09 after the Tian-family Qi Huan Gong.
 - [楚肃王 / King Su of Chu](entities/ChuSuwang.md) — Chu ruler who turns Zhao's request for help into opportunistic pressure on Wei.
-- [晋孝公 / Duke Xiao of Jin](entities/JinXiaogong.md) — Jin ruler whose death leads to Jin Jing Gong's final succession notice.
+- [晋烈公 / Duke Lie of Jin](entities/JinLiegong.md) — Jin ruler whose 393 BCE death introduces the hollow Jin succession notice in Zhouji 07 part 3.
+- [晋孝公 / Duke Xiao of Jin](entities/JinXiaogong.md) — Jin ruler whose accession in Zhouji 07 part 3 and death in Zhouji 09 frame old Jin's hollow final stage.
 - [晋静公 / Duke Jing of Jin](entities/JinJinggong.md) — Final Jin ruler deposed by Han, Zhao, and Wei in Zhouji 09.
 - [中山国 / Zhongshan State](entities/ZhongshanState.md) — Revived state after Di forces drive out Wei Zhi from Wei's detached holding.
 - [魏挚 / Wei Zhi](entities/WeiZhi.md) — Wei Wuhou's brother stationed in Zhongshan before its revival.
@@ -1134,7 +1136,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [秦出公 / Qin Chugong](entities/QinChugong.md) — Qin Hui Gong's successor in the Zhouji 08 part 2 succession notice, later framed by the episode as a coup victim.
 - [赵靖侯 / Marquis Jing of Zhao](entities/ZhaoJinghou.md) — Zhao Zhang, installed after Zhao Wuhou and used through Han Fei to illustrate ruler technique despite personal vice.
 - [韩文侯 / Marquis Wen of Han](entities/HanWenhou.md) — Han Lie Hou's son and successor in the Zhouji 08 part 2 succession cluster.
-- [田和 / Tian He](entities/TianHe.md) — Qi grandee whose formal Zhou recognition in 386 BCE shows annalistic recognition after practical power had already shifted.
+- [田和 / Tian He](entities/TianHe.md) — Qi grandee who displaces Qi Kang Gong and seeks Zhou-backed recognition, showing formal legitimacy after practical power has shifted.
 - [田文 / Tian Wen (Wei chancellor)](entities/TianWenWeiChancellor.md) — Wei chancellor whose answer to Wu Qi makes transition fit more important than raw achievement.
 - [公叔 / Gongshu (Wei chancellor)](entities/GongshuWeiChancellor.md) — Wei chancellor who fears Wu Qi and uses a marriage proposal trap to undermine ruler-minister trust.
 - [聂政 / Nie Zheng](entities/NieZheng.md) — Assassin hired by Yan Zhongzi to kill Han chancellor Xia Lei, then self-destroying to protect family identity.
@@ -7026,6 +7028,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Retainer Reciprocity Ethic / 士为知己者死](concepts/RetainerReciprocityEthic.md) — Yu Rang honor logic where exceptional patron recognition creates exceptional repayment obligation.
 - [Partition of Jin / 三家分晋](concepts/PartitionOfJin.md) — Staggered Jin-to-Three-Jin transition with 453 BCE, 403 BCE, and 376 BCE treated as distinct thresholds.
 - [Three Jin Vassal Recognition / 三晋受封](concepts/ThreeJinVassalRecognition.md) — Zhou Weilie Wang's formal recognition of Wei, Zhao, and Han as vassal rulers.
+- [Tian Family Replacement of Qi / 田氏代齐](concepts/TianFamilyReplacementOfQi.md) — Tian He's displacement of Qi Kang Gong and pursuit of Zhou recognition after Three Jin precedent has lowered the cost of formalizing power shifts.
 - [Succession Non-Designation Risk / 未定继承人风险](concepts/SuccessionNonDesignationRisk.md) — Zhouji 10 part 2 frame for the disorder created when Wei Wuhou dies without a clearly designated heir.
 - [Independent Official Audit / 独立考核地方官](concepts/IndependentOfficialAudit.md) — Qi Wei Wang's method of testing local official performance against independent evidence rather than court reputation.
 - [Chronicle Chronology Drift / 编年错位](concepts/ChronicleChronologyDrift.md) — Historiographical caution for preserved early Warring States events that may be placed in the wrong year.

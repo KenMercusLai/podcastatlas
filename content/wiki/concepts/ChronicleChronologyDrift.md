@@ -2,7 +2,7 @@
 title: "Chronicle Chronology Drift / 编年错位"
 type: concept
 tags: [historiography, source-criticism, chinese-history, chronology]
-sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn]
 last_updated: 2026-08-19
 ---
 
@@ -16,6 +16,8 @@ The concept also protects the wiki from overcorrecting. When a source itself fla
 
 [[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] turns the same case into a named [[QiChronologyDispute|齐威王编年争议]]. The host argues that Qi Wei Wang's accession was probably placed twenty-one years too early, with 357 BCE as the more plausible accession year and 356 BCE as his first year, and says a 370 BCE visit to [[ZhouLiewang|周烈王]] cannot be literal because Zhou Lie Wang had already died.
 
+[[zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn]] adds an earlier Wei case. Under [[ZhouAnWang|周安王]]'s fifteenth year, the source records a [[WeiWenhou|魏文侯]] death and [[WeiWuhou|魏武侯]] accession notice, but the host says the chronology is wrong because Wei Wenhou had already died and Wei Wuhou had already succeeded. The episode still uses the notice as a bridge to [[WuQi|吴起]] and [[VirtueOverNaturalBarriers|德胜地险]], illustrating how a chronicle can preserve an important statecraft passage inside a doubtful dating frame.
+
 ## Key Claims
 - A chronicle can preserve a real story while placing it in a doubtful year.
 - Later compilers can inherit errors when their available base sources are already unstable.
@@ -25,5 +27,5 @@ The concept also protects the wiki from overcorrecting. When a source itself fla
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]], [[SimaGuang|司马光]], and [[Shiji|《史记》]] - chronicle, compiler, and inherited-source frame.
 - [[QiWeiwang|齐威王]] and [[ZhouLiewang|周烈王]] - source case.
-- [[QiChronologyDispute]], [[ZhouXianwang|周显王]], [[ChronicleSourceGaps]], and [[HistoricalDetectiveReasoning]] - adjacent source-reading guardrails and later correction branch.
+- [[QiChronologyDispute]], [[ZhouXianwang|周显王]], [[WeiWenhou|魏文侯]], [[WeiWuhou|魏武侯]], [[WuQi|吴起]], [[ChronicleSourceGaps]], and [[HistoricalDetectiveReasoning]] - adjacent source-reading guardrails and later correction branch.
 - [[WarringStatesPeriod|战国时期]] - period whose record instability motivates the concept.

@@ -18,7 +18,9 @@ last_updated: 2026-08-19
 
 [[zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]] extends the same reading style into [[ZhouAnWang|周安王]]'s early reign. The episode connects compact annals to [[ZhengState|郑国]]'s buffer-state dilemma, [[WangziDing|王子定]]'s exile, disaster-omen interpretation, and the move from aristocratic rules toward factional assassination.
 
-[[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] completes the "two assassinations" episode arc by moving from [[CelestialOmenPoliticalResponsibility]] into [[NieZheng|聂政]], [[NieYing|聂英]], [[Zhanguoce|《战国策》]] variants, [[SongState|宋国]]'s lineage status, and [[FushuCity|负黍]] as a territorial-churn case.
+[[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] continues the "two assassinations" arc by moving from [[CelestialOmenPoliticalResponsibility]] into [[NieZheng|聂政]], [[NieYing|聂英]], [[Zhanguoce|《战国策》]] variants, [[SongState|宋国]]'s lineage status, and [[FushuCity|负黍]] as a territorial-churn case.
+
+[[zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn]] turns the same title into a bridge episode rather than another assassination story. It carries [[ZhouAnWang|周安王]]'s chronology through years 9-15, using hollow [[JinState|晋国]] rulership, [[TianFamilyReplacementOfQi|田氏代齐]], Qin pressure on Han/Wei, and a doubtful [[WeiWenhou|魏文侯]] / [[WeiWuhou|魏武侯]] notice to prepare the later [[WuQi|吴起]] and [[VirtueOverNaturalBarriers|德胜地险]] discussion.
 
 [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll]] returns to [[WuQi|吴起]] and reads his [[WeiState|魏国]] career as organization politics. The episode moves from [[VirtueOverNaturalBarriers]] in the West River dialogue to [[TransitionFitOverMerit]] in the chancellor dispute with [[TianWenWeiChancellor|田文]], then to [[GongshuWeiChancellor|公叔]]'s court trap.
 
@@ -61,7 +63,7 @@ The episode's wiki role is to add a pre-Qin classics-reading branch that is more
 - [[LiKe|李克]], [[WeiCheng|魏成]], [[DiHuang|翟黄]], [[SituationalCharacterTests]], and [[TalentReferralQuality]] - Zhouji 06 part 1 chancellor-selection branch.
 - [[SimaRangju|司马穰苴]] and [[WuQi|吴起]] - leadership cases in the episode.
 - [[MilitaryMoraleThroughSharedHardship]], [[PosthumousNamePolitics]], and [[BanditAssassinationAttribution]] - concepts contributed by the source.
-- [[ZhengState|郑国]], [[SmallStateBufferDiplomacy]], [[NaturalDisasterPoliticalOmen]], [[CelestialOmenPoliticalResponsibility]], and [[SpringAutumnToWarringStatesPoliticalViolence]] - episode 07 extension.
+- [[ZhengState|郑国]], [[SmallStateBufferDiplomacy]], [[NaturalDisasterPoliticalOmen]], [[CelestialOmenPoliticalResponsibility]], [[SpringAutumnToWarringStatesPoliticalViolence]], and [[TianFamilyReplacementOfQi|田氏代齐]] - episode 07 extension.
 - [[VirtueOverNaturalBarriers]], [[TransitionFitOverMerit]], [[TianWenWeiChancellor|田文]], and [[GongshuWeiChancellor|公叔]] - Zhouji 08 organization-politics extension.
 - [[WarringStatesReformBacklash]], [[LegalistRulerTechnique]], [[QinChugong|秦出公]], [[ZhaoJinghou|赵靖侯]], [[HanWenhou|韩文侯]], and [[TianHe|田和]] - Zhouji 08 part 2 reform and chronology extension.
 - [[EarlyWarringStatesInterstateWar]], [[Zisi|子思]], [[GouBian|苟变]], [[UseStrengthsOverFaults]], and [[CourtFeedbackCollapse]] - Zhouji 09 war and governance extension.
