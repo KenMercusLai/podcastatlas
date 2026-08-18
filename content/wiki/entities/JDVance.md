@@ -2,11 +2,13 @@
 title: "JD Vance"
 type: entity
 tags: [person, politics, geopolitics]
-sources: [all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
+sources: [all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
 last_updated: 2026-08-18
 ---
 
 # JD Vance
+
+[[all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360]] adds Vance as part of [[AdamCarolla|Adam Carolla]]'s 2028 outlook. Carolla says voters may choose a JD Vance or Trump 2.0 style continuation if cheaper gas, lower rates, employment, border control, and fewer foreign conflicts make the Trump economic program feel successful in daily life.
 
 [[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] adds Vance as Jason Calacanis's strong runner-up political winner for 2026. The source treats him as a right-side political figure to watch alongside the episode's discussion of Trump-era growth, Democratic-left momentum, and 2026 midterm politics.
 
@@ -24,3 +26,4 @@ JD Vance appears in [[missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e
 - [[AmericanMoment]], [[ConservativePartnershipInstitute]], and [[TrumpismInstitutionalization]] - new-right staffing and movement-continuity branch added by Qizhulou Yan Binke.
 - [[PeterThiel]], [[PoliticalTalentPipeline]], [[StraussianKingmakerPolitics]], and [[RockbridgeNetwork]] - Thiel-network branch added by Silicon Valley 101.
 - [[AllIn|All-In]], [[JasonCalacanis|Jason Calacanis]], and [[PopulistDemocraticEnergy]] - 2026 political-winner comparison context.
+- [[AdamCarolla|Adam Carolla]], [[DonaldTrump]], and [[EverydayGovernmentIntrusionPolitics]] - 2028 continuation frame added by the Carolla interview.

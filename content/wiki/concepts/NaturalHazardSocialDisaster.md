@@ -2,7 +2,7 @@
 title: "Natural Hazard As Social Disaster"
 type: concept
 tags: [disaster-history, governance, environment]
-sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b, afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9]
+sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b, afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9, all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360]
 last_updated: 2026-08-14
 ---
 
@@ -14,6 +14,8 @@ The point is not that weather is irrelevant. The source describes severe snow, r
 
 [[burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]] adds a wildfire version through [[ExtremeWildfire]]. [[OliverMorton]] describes fires that are exceptional by intensity, size, speed, or damage, but the social-disaster layer appears through smoke exposure, settlement, insurance damage, ageing populations, agricultural burning incentives, and the long-term maintenance burden behind [[LandscapeFirePrevention]].
 
+[[all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360]] adds the rebuilding-delay version. The Palisades fire is not only a flame event in the source; it becomes a social disaster if [[California]], [[LosAngeles|Los Angeles]], insurers, permit systems, and skilled-trades capacity cannot let residents rebuild in time to preserve community continuity.
+
 [[afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9]] adds a [[Colombia]] earthquake version. The source says a 7.4-magnitude quake became a different experience across regions: geography, blocked roads, hospital weakness, armed-group pressure and regional neglect turned one seismic event into a [[DisasterInequality]] case.
 
 ## Key Claims
@@ -23,6 +25,7 @@ The point is not that weather is irrelevant. The source describes severe snow, r
 - State and expert relief can mitigate harm while introducing new forms of coercion, debt, or misrecognition.
 - Wildfire can become a social disaster through smoke exposure, housing location, land-use incentives, insurance systems, and prevention capacity, not only through flame contact.
 - Earthquakes also become social disasters when road access, hospital readiness, rescue equipment, political attention and armed-group control vary sharply by region.
+- Post-fire delay can become social disaster when rebuilding rules and capacity failures turn temporary loss into permanent displacement.
 
 ## Connections
 - [[LongwangZhinu1931ChangjiangShuizai]], [[YangtzeRiver]], [[Wuhan]], and [[Hankou]] - source case.
@@ -31,3 +34,4 @@ The point is not that weather is irrelevant. The source describes severe snow, r
 - [[ClimateAdaptation]] - adjacent modern problem of preparing social systems for environmental instability.
 - [[ExtremeWildfire]], [[WildfireSmokeHealthBurden]], and [[LandscapeFirePrevention]] - wildfire extension added by The Intelligence.
 - [[Colombia]], [[DisasterResponseStateCapacity]], and [[DisasterInequality]] - earthquake extension added by The Intelligence.
+- [[CaliforniaPostFireRebuildingDelay]], [[PermittingDelayCost]], [[FireResilientConstruction]], and [[SafetyTradeoffBlindness]] - rebuilding-delay extension added by All-In.

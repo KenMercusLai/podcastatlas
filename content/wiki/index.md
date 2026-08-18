@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Adam Carolla on California's Collapse: Fires, Failed Leadership, and Gyno-Fascism](sources/all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360.md) — All-In episode with Adam Carolla on Palisades fire rebuilding delays, Los Angeles permitting, safety tradeoffs, DEI/media trust, California migration, wealth taxes, anti-tech politics, and skilled trades.
 - [All-In's 2026 Predictions](sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260.md) — All-In forecast round on California wealth-tax flight, Democratic-left momentum, Trump-era growth, Huawei, Polymarket, Amazon, AI jobs, Jevons demand, IPOs, SpaceX/Tesla, critical metals, and citizen journalism.
 - [Howard Lutnick: How America Can Hit 6% GDP Growth in 2026](sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255.md) — All-In episode with Howard Lutnick on tariffs, trade-deficit ownership, Japan deal financing, MFN drug pricing, immigration filters, fraud matching, GDP-growth claims, CHIPS Act leverage, Nvidia export licenses, and Intel taxpayer-return policy.
 - [Why AI will dwarf every tech revolution before it: robots, manufacturing, AR glasses from CES 2026](sources/all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790.md) — All-In live CES 2026 episode with Bob Sternfels and Hemant Taneja on compressed AI value creation, enterprise pilot purgatory, agent workforce redesign, physical AI, manufacturing, self-driving, and smart-glasses hardware.
@@ -989,6 +990,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Adam Carolla](entities/AdamCarolla.md) — Malibu and Los Angeles-based guest using construction, permitting, evacuation, and media experience to criticize California governance.
+- [Los Angeles](entities/LosAngeles.md) — City node for the episode's post-fire rebuilding, permitting, public-safety, school-closure, homelessness, and leadership critique.
+- [Malibu](entities/Malibu.md) — California coastal city tied to Carolla's evacuation account, rebuilding delay, Coastal Commission friction, and fire-resilient construction context.
+- [Pacific Palisades](entities/PacificPalisades.md) — Los Angeles neighborhood whose fire anniversary anchors the All-In rebuilding-delay discussion.
+- [Altadena](entities/Altadena.md) — L.A. wildfire rebuilding setting linked to fire-resilient construction and the skilled-trades labor branch.
+- [Orange County](entities/OrangeCounty.md) — Intra-California contrast Carolla uses against Los Angeles in the safe-spaces-vs-octagons frame.
+- [Karen Bass](entities/KarenBass.md) — Los Angeles mayor criticized in the Carolla source around fire preparedness, disorder, and recovery leadership.
+- [Eric Garcetti](entities/EricGarcetti.md) — Former Los Angeles mayor named in the episode's critique of safety-focused local leadership.
+- [Barbara Ferrer](entities/BarbaraFerrer.md) — Los Angeles public-health figure named in the source's COVID school-closure and safety-tradeoff critique.
+- [California Coastal Commission](entities/CaliforniaCoastalCommission.md) — California land-use agency used by Carolla as a symbol of post-fire rebuilding approval friction.
+- [Steve Hilton](entities/SteveHilton.md) — California political figure Carolla names positively as a possible alternative to business-as-usual governance.
+- [Larry Elder](entities/LarryElder.md) — California political figure Carolla names positively in the episode's alternative-governance discussion.
+- [Rick Caruso](entities/RickCaruso.md) — Business-minded Los Angeles political figure Carolla names positively while criticizing local leadership.
+- [Tennessee](entities/Tennessee.md) — State used in Carolla's migration frame as an "octagon" contrast to high-procedure California cities.
 - [U.S. Department of Commerce](entities/USDepartmentOfCommerce.md) — Howard Lutnick's cabinet department context for tariffs, export licenses, GDP data, patents, CHIPS Act leverage, AI chip controls, and industrial policy.
 - [CHIPS Act](entities/CHIPSAct.md) — U.S. semiconductor policy program used by Lutnick to contrast grants with tariff-and-contract leverage around TSMC and taxpayer returns.
 - [Nvidia H20](entities/NvidiaH20.md) — Nvidia China-oriented AI chip scrutinized in Lutnick's export-license account because lower compute but higher memory still affected control risk.
@@ -6704,6 +6719,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [California Post-Fire Rebuilding Delay](concepts/CaliforniaPostFireRebuildingDelay.md) — Recovery bottleneck where permitting, appeals, insurance, skilled labor, and leadership incentives can prevent burned homes from returning quickly.
+- [Safety Tradeoff Blindness](concepts/SafetyTradeoffBlindness.md) — Governance pattern where visible safety goals crowd out cost, delay, affordability, learning loss, and other second-order harms.
+- [Safe Spaces vs Octagons](concepts/SafeSpacesVsOctagons.md) — Carolla's source-scoped cultural geography contrasting high-protection cities with lower-regulation, consequence-oriented migration destinations.
+- [Everyday Government Intrusion Politics](concepts/EverydayGovernmentIntrusionPolitics.md) — Frame for politicization caused by rules touching property, schools, energy, taxes, speech, technology, and ordinary work.
 - [California Wealth-Tax Capital Flight](concepts/CaliforniaWealthTaxCapitalFlight.md) — All-In frame where a proposed California wealth tax can push mobile founder wealth, residence, and company formation toward other states before the policy passes.
 - [Software Maintenance Revenue Compression](concepts/SoftwareMaintenanceRevenueCompression.md) — AI-agent pressure on the maintenance, migration, customization, and implementation revenue around enterprise software systems.
 - [IP Deal-Structure Substitution](concepts/IPDealStructureSubstitution.md) — Dealmaking pattern where licensing, distribution, cloud, or IP arrangements substitute for conventional M&A under antitrust and geopolitical constraints.
