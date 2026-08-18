@@ -15855,6 +15855,10 @@
     "title": "干宝 / Gan Bao",
     "url": "/wiki/entities/ganbao/"
   },
+  "GanLong": {
+    "title": "甘龙 / Gan Long",
+    "url": "/wiki/entities/ganlong/"
+  },
   "GanbaMushroom": {
     "title": "干巴菌 / Ganba Mushroom",
     "url": "/wiki/entities/ganbamushroom/"
@@ -25911,6 +25915,10 @@
     "title": "Military Base Sovereignty",
     "url": "/wiki/concepts/militarybasesovereignty/"
   },
+  "MilitaryMeritRankSystem": {
+    "title": "Military Merit Rank System / 军功爵制",
+    "url": "/wiki/concepts/militarymeritranksystem/"
+  },
   "MilitaryMoraleThroughSharedHardship": {
     "title": "Military Morale Through Shared Hardship / 同甘共苦式士气",
     "url": "/wiki/concepts/militarymoralethroughsharedhardship/"
@@ -31471,6 +31479,10 @@
     "title": "秦襄公 / Duke Xiang of Qin",
     "url": "/wiki/entities/qinxianggong/"
   },
+  "QinXiaogong": {
+    "title": "秦孝公 / Duke Xiao of Qin",
+    "url": "/wiki/entities/qinxiaogong/"
+  },
   "QinYing": {
     "title": "秦嬴 / Qin Ying",
     "url": "/wiki/entities/qinying/"
@@ -32174,6 +32186,10 @@
   "ReformUK": {
     "title": "Reform UK",
     "url": "/wiki/entities/reformuk/"
+  },
+  "ReformWithoutPopularDeliberation": {
+    "title": "Reform Without Popular Deliberation / 不与民虑始",
+    "url": "/wiki/concepts/reformwithoutpopulardeliberation/"
   },
   "RegalCinemas": {
     "title": "Regal Cinemas",
@@ -34534,6 +34550,10 @@
   "ShangYang": {
     "title": "Shang Yang / 商鞅",
     "url": "/wiki/entities/shangyang/"
+  },
+  "ShangYangReforms": {
+    "title": "Shang Yang Reforms / 商鞅变法",
+    "url": "/wiki/concepts/shangyangreforms/"
   },
   "ShanghaiForeignBanks": {
     "title": "Shanghai Foreign Banks",
@@ -40507,6 +40527,10 @@
     "title": "王兴医生 / Wang Xing",
     "url": "/wiki/entities/wangxingdoctor/"
   },
+  "WangYangming": {
+    "title": "王阳明 / Wang Yangming",
+    "url": "/wiki/entities/wangyangming/"
+  },
   "WangYinglin": {
     "title": "王应麟 / Wang Yinglin",
     "url": "/wiki/entities/wangyinglin/"
@@ -41859,6 +41883,10 @@
     "title": "西门庆 / Ximen Qing",
     "url": "/wiki/entities/ximenqing/"
   },
+  "XimuLixin": {
+    "title": "徙木立信 / Moving the Log to Build Trust",
+    "url": "/wiki/concepts/ximulixin/"
+  },
   "XinDynasty": {
     "title": "Xin dynasty / 新朝",
     "url": "/wiki/entities/xindynasty/"
@@ -42338,6 +42366,10 @@
   "YinfaChuanliu": {
     "title": "《银发川柳》 / Silver Senryu",
     "url": "/wiki/entities/yinfachuanliu/"
+  },
+  "YingSi": {
+    "title": "嬴驷 / Ying Si",
+    "url": "/wiki/entities/yingsi/"
   },
   "YingdiHaike": {
     "title": "硬地骇客",
@@ -46350,5 +46382,9 @@
   "zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5": {
     "title": "《资治通鉴·周纪》11丨 世界风起云涌（1）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5/"
+  },
+  "zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga": {
+    "title": "《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（1）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga/"
   }
 }

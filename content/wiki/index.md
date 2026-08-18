@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（1）](sources/zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga.md) — 芮淇讲透资治通鉴 episode on Shang Yang's first Qin reform push, the Gan Long debate over custom and change, 什伍连坐, agricultural incentives, military-merit rank, 徙木立信, and the crown prince's lawbreaking cliffhanger.
 - [《资治通鉴·周纪》11丨 世界风起云涌（1）](sources/zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5.md) — 芮淇讲透资治通鉴 episode opening Zhouji 11 under Zhou Xian Wang, with Qi/Zhao/Wei opportunistic war, Wei-Han coordination against Qin, Qin Xian Gong's Shimen victory, and Zhou ritual recognition through 黻服.
 - [《资治通鉴·周纪》05｜光彩夺目的魏文侯（1）](sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl.md) — 芮淇讲透资治通鉴 episode on Wei Wenhou's respect for scholars, promise-keeping, symmetric diplomacy with Han and Zhao, and Sima Guang's "small trust builds large trust" statecraft lesson.
 - [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（3）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf.md) — 芮淇讲透资治通鉴 episode on Wei Ying and Gongzhong Huan's succession war, Han-Zhao intervention at Zhuoze, the failed partition-vs-puppet settlement, and Wei Ying's rise as Liang Hui Wang.
@@ -1016,9 +1017,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [秦孝公 / Duke Xiao of Qin](entities/QinXiaogong.md) — Qin ruler who backs Shang Yang, rejects Gan Long's custom-based objection, and authorizes the first reform push.
+- [甘龙 / Gan Long](entities/GanLong.md) — Qin official whose opposition to Shang Yang frames the conflict between inherited custom and disruptive state-strengthening reform.
+- [嬴驷 / Ying Si](entities/YingSi.md) — Qin crown prince whose violation of the new law becomes the episode's cliffhanger test of reform authority.
+- [王阳明 / Wang Yangming](entities/WangYangming.md) — Later analogy for collective-responsibility governance through 十家牌法.
 - [石门之战 / Battle of Shimen](entities/ShimenBattle.md) — 364 BCE Qin victory over the Three Jin coalition that leads Zhou Xian Wang to grant Qin Xian Gong a ritual robe.
 - [黻服 / Fu Robe](entities/FufuRobe.md) — Ritual garment granted by Zhou Xian Wang to Qin Xian Gong after Shimen, used to connect court dress to political recognition.
-- [周显王 / King Xian of Zhou](entities/ZhouXianwang.md) — Zhou Lie Wang's younger brother and successor in the 369 BCE Zhouji 10 part 3 notice.
+- [周显王 / King Xian of Zhou](entities/ZhouXianwang.md) — Zhou Lie Wang's successor and annalistic frame for Qin's Shimen recognition and Shang Yang's 359 BCE reform opening.
 - [王绰 / Wang Chuo](entities/WangChuo.md) — Wei official whose flight to Han helps reveal Wei's succession vulnerability.
 - [公孙齐 / Gongsun Qi](entities/GongsunQi.md) — Han official who advises Han Yihou to attack Wei during its succession crisis.
 - [浊泽之战 / Battle of Zhuoze](entities/ZhuozeBattle.md) — Han-Zhao victory over Wei that turns into a failed settlement after the victors disagree.
@@ -1118,7 +1123,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周安王 / King An of Zhou](entities/ZhouAnWang.md) — Zhou ruler succeeding King Weilie in the source's chronology.
 - [晋国 / Jin State](entities/JinState.md) — Pre-Qin state node for the Jin You Gong, Qin Ying, and Qin-Jin marriage-alliance comparison.
 - [晋幽公 / Duke You of Jin](entities/JinYouGong.md) — Jin ruler whose Bamboo Annals death account is used to illustrate political direction behind "bandits."
-- [秦国 / Qin State](entities/QinState.md) — Qin polity introduced through Qin Ying and the Qin-Jin marriage-alliance explanation.
+- [秦国 / Qin State](entities/QinState.md) — Qin polity moving from kinship diplomacy and eastward pressure into Shang Yang's internal reform machinery.
 - [秦简公 / Duke Jian of Qin](entities/QinJianGong.md) — Qin ruler whose death leads to Qin Hui Gong's accession in the Zhouji 07 chronology.
 - [秦惠公 / Duke Hui of Qin](entities/QinHuiGong.md) — Qin Jian Gong's son and successor in the Zhouji 07 succession sequence.
 - [秦嬴 / Qin Ying](entities/QinYing.md) — Qin princess named in the Bamboo Annals account of Jin You Gong's assassination.
@@ -4799,7 +4804,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Girolamo Savonarola / 萨沃纳罗拉](entities/GirolamoSavonarola.md) — Religious-political ruler of Florence used by episode 72 to show moral zeal, popular belief, and unstable political authority.
 - [Cesare Borgia / 凯撒·波吉亚](entities/CesareBorgia.md) — Renaissance power-seeker used by episode 72 as Machiavelli's vivid case for political capacity and controlled cruelty.
 - [Han Fei / 韩非](entities/HanFei.md) — Legalist comparison figure used by episode 72 to test but limit the "Western Han Fei" reading of Machiavelli.
-- [Shang Yang / 商鞅](entities/ShangYang.md) — Legalist comparison figure used by episode 72 to distinguish Machiavelli from ruler-technique and weak-people doctrines.
+- [Shang Yang / 商鞅](entities/ShangYang.md) — Qin reformer whose 公孙鞅 branch links popular-deliberation bypass, 什伍连坐, military merit, and legalist state-building risk.
 - [陈迭仙](entities/ChenDiexian.md) — Republican-era writer, publisher, amateur chemist, advertiser, and entrepreneur behind 蝴蝶牌 and 家庭工业社.
 - [林玉沁](entities/LinYuqin.md) — Scholar whose research links Chen Diexian, cosmetics formulas, mass media, emotion history, and Chinese light-industrial modernity.
 - [蝴蝶牌](entities/ButterflyBrand.md) — Chen Diexian's tooth-powder and cosmetics brand, combining beauty imagery, trademark strategy, national-goods rhetoric, and consumer trust.
@@ -6923,11 +6928,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Shang Yang Reforms / 商鞅变法](concepts/ShangYangReforms.md) — Qin state-strengthening package built around household grouping, mutual surveillance, harsh law, agricultural incentives, and military-merit rank.
+- [Reform Without Popular Deliberation / 不与民虑始](concepts/ReformWithoutPopularDeliberation.md) — Shang Yang's claim that transformative reform can begin before ordinary people understand or consent to it.
+- [Military Merit Rank System / 军功爵制](concepts/MilitaryMeritRankSystem.md) — Status mechanism that converts battlefield achievement into rank, privilege, and social mobility while weakening hereditary privilege.
+- [徙木立信 / Moving the Log to Build Trust](concepts/XimuLixin.md) — Shang Yang's public reward demonstration for making Qin's future legal rewards and punishments believable.
 - [Qin Eastward Pressure / 秦国东进压力](concepts/QinEastwardPressure.md) — Zhouji 11 pattern in which Qin's eastern expansion forces Wei, Han, and Zhao to react despite their own rivalry.
 - [Ritual Recognition of Military Power / 礼制承认军事权力](concepts/RitualRecognitionOfMilitaryPower.md) — Interpretation of Zhou Xian Wang's 黻服 gift as symbolic ratification of Qin Xian Gong's military status.
 - [十二华章政治象征 / Twelve Insignia Political Symbolism](concepts/TwelveInsigniaPoliticalSymbolism.md) — Pre-Qin garment-symbol vocabulary used in Zhouji 11 to explain why 黻服 could carry political meaning.
 - [Talent Attraction Through Respect / 礼贤下士式人才吸附](concepts/TalentAttractionThroughRespect.md) — Wei Wenhou's ruler-image mechanism where respect for scholars and recluses attracts capable people without coercion.
-- [Small Trust Builds Large Trust / 小信诚则大信立](concepts/SmallTrustBuildsLargeTrust.md) — Sima Guang's statecraft principle that minor kept promises make larger political credibility possible.
+- [Small Trust Builds Large Trust / 小信诚则大信立](concepts/SmallTrustBuildsLargeTrust.md) — Statecraft principle where minor kept promises build credibility, now contrasted with Shang Yang's coercive 徙木立信 use.
 - [Symmetric Interstate Credibility / 对称外交信用](concepts/SymmetricInterstateCredibility.md) — Diplomatic trust produced when Wei refuses both Han's anti-Zhao request and Zhao's anti-Han request on the same brother-state grounds.
 - [Renhe Political Power / 人和政治力量](concepts/RenhePoliticalPower.md) — Source synthesis that talent respect, promise-keeping, and diplomatic consistency turn human alignment into political strength.
 - [Succession-Crisis Intervention / 继承危机外部干预](concepts/SuccessionCrisisIntervention.md) — Pattern where unresolved succession invites outside powers to back claimants, seize leverage, or redesign a target state.
@@ -6945,8 +6954,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Early Warring States Interstate War / 战国早期诸侯混战](concepts/EarlyWarringStatesInterstateWar.md) — Zhouji 09 frame for the tangled Qi-Yan-Han-Zhao-Wei-Chu conflict around 380-379 BCE.
 - [Use Strengths Over Faults / 用人取长弃短](concepts/UseStrengthsOverFaults.md) — Zisi's talent-selection lesson that wartime rulers should not waste scarce ability over lesser blemishes.
 - [Court Feedback Collapse / 君臣反馈失灵](concepts/CourtFeedbackCollapse.md) — Governance failure where rulers and ministers reinforce each other's self-certainty instead of correcting errors.
-- [Warring States Reform Backlash / 战国变法反噬](concepts/WarringStatesReformBacklash.md) — Pattern where centralizing military-fiscal reform strengthens a state while creating concentrated elite enemies.
-- [Legalist Ruler Technique / 法家君术](concepts/LegalistRulerTechnique.md) — Han Fei-style frame where ruler effectiveness turns on using people and reading ministerial speech, even apart from personal virtue.
+- [Warring States Reform Backlash / 战国变法反噬](concepts/WarringStatesReformBacklash.md) — Pattern where centralizing reform strengthens a state while creating concentrated enemies, now covering Wu Qi in Chu and Shang Yang in Qin.
+- [Legalist Ruler Technique / 法家君术](concepts/LegalistRulerTechnique.md) — Legalist governance frame extending from ruler control of ministers to Shang Yang's enforceable social redesign.
 - [Virtue Over Natural Barriers / 德胜地险](concepts/VirtueOverNaturalBarriers.md) — Wu Qi's warning that terrain helps only when political virtue, legitimacy, and internal alignment hold.
 - [Transition Fit Over Merit / 过渡期适任优先于功劳](concepts/TransitionFitOverMerit.md) — Leadership-selection frame where a fragile succession needs stabilizing fit more than the strongest resume.
 - [Military Morale Through Shared Hardship / 同甘共苦式士气](concepts/MilitaryMoraleThroughSharedHardship.md) — Leadership mechanism linking commander credibility, shared burden, care, discipline, and soldiers' willingness to fight.
@@ -9344,7 +9353,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law-Morality Boundary](concepts/LawMoralityBoundary.md) — Criminal-law boundary between moral context that can prevent cruelty and moralism that turns law into arbitrary coercion.
 - [Criminal Law As Power Limitation](concepts/CriminalLawAsPowerLimitation.md) — Frame treating criminal law as a restraint on state punishment power as well as a mechanism for responding to crime.
 - [Punishment Theory Tradeoff](concepts/PunishmentTheoryTradeoff.md) — Contrast among retribution, utilitarian deterrence, and constrained mixed theories of punishment.
-- [Collateral Punishment And Guilt By Association](concepts/CollateralPunishmentAndGuiltByAssociation.md) — Critique of punishment that extends beyond the sentence through records, administrative exclusion, or family-member consequences.
+- [Collateral Punishment And Guilt By Association](concepts/CollateralPunishmentAndGuiltByAssociation.md) — Punishment and liability beyond the individual, now including Shang Yang's 什伍连坐 as deliberate state-control infrastructure.
 - [Veil Of Ignorance](concepts/VeilOfIgnorance.md) — Rawlsian thought experiment used to test legal and social rules from positions the rule-maker may unexpectedly occupy.
 - [Liberalism-Paternalism Boundary](concepts/LiberalismPaternalismBoundary.md) — Problem of when law may restrict self-regarding conduct without turning freedom into permanent tutelage.
 - [Legal Interest Individual Reduction](concepts/LegalInterestIndividualReduction.md) — Criminal-law safeguard requiring collective legal interests to be reducible to concrete individual harms.

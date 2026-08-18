@@ -2,7 +2,7 @@
 title: "周显王 / King Xian of Zhou"
 type: entity
 tags: [person, ruler, zhou-dynasty, pre-qin]
-sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -16,6 +16,8 @@ The page is source-scoped. Zhou Xian Wang matters here as the annalistic frame f
 
 In the Zhouji 11 source, he also performs a symbolic action: after [[QinXianGong|秦献公]] wins the [[ShimenBattle|Battle of Shimen]], Zhou Xian Wang grants [[FufuRobe|黻服]], which the host reads as [[RitualRecognitionOfMilitaryPower|ritual recognition of military power]].
 
+[[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]] keeps him as the annalistic frame for the next Qin turn. The episode notes that 360 BCE has no chronicle entry, then moves to 359 BCE as [[QinXiaogong|秦孝公]] backs [[ShangYang|公孙鞅 / 商鞅]] and [[ShangYangReforms|商鞅变法]] begins to reshape Qin.
+
 ## Connections
 - [[ZhouRoyalHouse|周王室]] - dynastic setting.
 - [[ZhouLiewang|周烈王]] - predecessor and brother in the source.
@@ -24,3 +26,4 @@ In the Zhouji 11 source, he also performs a symbolic action: after [[QinXianGong
 - [[WeiState|魏国]], [[HanState|韩国]], and [[ZhaoState|赵国]] - states driving the episode's substantive conflict.
 - [[QinXianGong|秦献公]], [[ShimenBattle|石门之战]], [[FufuRobe|黻服]], and [[RitualRecognitionOfMilitaryPower]] - Zhouji 11 recognition branch.
 - [[QinEastwardPressure]] and [[EarlyWarringStatesInterstateWar]] - military setting in his opening reign years.
+- [[QinXiaogong|秦孝公]], [[ShangYang|公孙鞅 / 商鞅]], and [[ShangYangReforms]] - Zhouji 13 Qin reform branch under his reign frame.

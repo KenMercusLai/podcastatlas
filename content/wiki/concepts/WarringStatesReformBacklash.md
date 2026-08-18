@@ -2,8 +2,8 @@
 title: "Warring States Reform Backlash / 战国变法反噬"
 type: concept
 tags: [statecraft, reform, pre-qin-history, warring-states, political-economy]
-sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+last_updated: 2026-08-19
 ---
 
 # Warring States Reform Backlash / 战国变法反噬
@@ -14,14 +14,18 @@ The concept holds two claims together. First, reforms aimed at enriching the sta
 
 This differs from a generic "reform is hard" claim. The source emphasizes concentrated losers: nobles, royal kin, and old officeholders can experience state-building as confiscation, demotion, or exile to frontier zones. Wu Qi's fate is therefore framed as a political backlash to successful centralization, not simply as personal bad luck.
 
+[[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]] adds the Qin version through [[ShangYang|公孙鞅 / 商鞅]]. [[ShangYangReforms|商鞅变法]] strengthens [[QinState|秦国]] by reorganizing households, punishment, labor, and rank, but the same package angers nobles and ordinary people. [[YingSi|太子嬴驷]]'s lawbreaking then makes backlash politically explosive because reform enforcement touches the ruler's own heir.
+
 ## Key Claims
 - Military-fiscal strengthening often requires breaking older status arrangements.
 - Reform success can intensify backlash by making the threatened interests clearer.
 - Concentrated elite losses can be more politically dangerous than diffuse state gains are protective.
 - Wu Qi's Chu career turns his earlier leadership skill into a high-stakes state-building risk.
+- Shang Yang's Qin career adds a case where law, surveillance, and military merit strengthen the state while threatening nobles, commoners, and the prince.
 
 ## Connections
 - [[WuQi|吴起]], [[ChuDaoWang|楚悼王]], and [[ChuState|楚国]] - source case.
 - [[WarringStatesPeriod|战国时期]] - competitive setting where reform and military power are linked.
 - [[TransitionFitOverMerit]] - adjacent idea showing why high-capability reformers can be politically risky in fragile moments.
 - [[SpringAutumnToWarringStatesPoliticalViolence]] - broader move toward harsher elite conflict.
+- [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[YingSi|太子嬴驷]], [[ShangYangReforms]], and [[MilitaryMeritRankSystem]] - Qin reform-backlash branch added by Zhouji 13.

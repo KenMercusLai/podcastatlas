@@ -8130,3 +8130,11 @@ Added source page for a 芮淇讲透资治通鉴 episode opening Zhouji 11 and Z
 ## [2026-08-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-19] ingest | 《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（1）
+
+Added source page for a 芮淇讲透资治通鉴 episode on Shang Yang's first Qin reform push under Qin Xiao Gong, the debate with Gan Long over custom and disruptive reform, 什伍连坐, agricultural and textile incentives, military-merit rank, 徙木立信, popular complaints, and the crown prince Ying Si's lawbreaking cliffhanger. Created pages for Qin Xiao Gong, Gan Long, Ying Si, Wang Yangming, Shang Yang Reforms, Reform Without Popular Deliberation, Military Merit Rank System, and Ximu Lixin; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Shang Yang, Qin State, Zhou Xian Wang, Legalist Ruler Technique, Collateral Punishment And Guilt By Association, Small Trust Builds Large Trust, and Warring States Reform Backlash. No direct contradiction found; the source extends the existing reform-backlash pattern from Wu Qi in Chu to Shang Yang in Qin while keeping the prince-lawbreaking outcome unresolved because the transcript stops at that cliffhanger.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

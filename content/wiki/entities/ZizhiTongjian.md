@@ -2,7 +2,7 @@
 title: "《资治通鉴》 / Zizhi Tongjian"
 type: entity
 tags: [book, history, chinese-history, historiography]
-sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -32,6 +32,8 @@ last_updated: 2026-08-19
 
 [[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] opens the second Zhou-annals volume under [[ZhouXianwang|周显王]]. The episode reads the chronicle's short notices on Qi attacking Wei, Zhao attacking Qi, Wei-Han coordination against Qin, Wei attacking Song, Qin's [[ShimenBattle|石门之战]] victory, and blank years as evidence of accelerating [[EarlyWarringStatesInterstateWar]], [[QinEastwardPressure]], and continuing [[ChronicleSourceGaps]].
 
+[[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]] continues Zhou Xian Wang's chronology into 360-359 BCE. The episode marks another blank year, then uses [[ShangYang|公孙鞅 / 商鞅]]'s debate with [[GanLong|甘龙]] and [[QinXiaogong|秦孝公]]'s backing to show how the chronicle can compress a major institutional turn into a reform notice with long-term consequences.
+
 The work's wiki role here is historiographical. Its compact chronology gives the episode a reason to ask what a phrase records plainly, what it leaves out, and when later readers should move from received statement to cautious inference.
 
 ## Connections
@@ -49,3 +51,4 @@ The work's wiki role here is historiographical. Its compact chronology gives the
 - [[ChronicleChronologyDrift]], [[SuccessionNonDesignationRisk]], [[IndependentOfficialAudit]], [[HanGui|韩廆]], and [[QiWeiwang|齐威王]] - Zhouji 10 part 2 source-error, succession, and official-evaluation extension.
 - [[ZhouXianwang|周显王]], [[ZhuozeBattle|浊泽之战]], [[SuccessionCrisisIntervention]], and [[CoalitionSettlementFailure]] - Zhouji 10 part 3 annalistic and statecraft extension.
 - [[QinEastwardPressure]], [[ShimenBattle|石门之战]], [[FufuRobe|黻服]], [[TwelveInsigniaPoliticalSymbolism|十二华章政治象征]], and [[RitualRecognitionOfMilitaryPower]] - Zhouji 11 war and ritual-recognition extension.
+- [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[GanLong|甘龙]], [[ShangYangReforms]], [[ReformWithoutPopularDeliberation]], [[MilitaryMeritRankSystem]], and [[XimuLixin]] - Zhouji 13 Qin reform extension.
