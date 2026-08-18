@@ -6535,6 +6535,10 @@
     "title": "Business-Led AI Transformation",
     "url": "/wiki/concepts/businessledaitransformation/"
   },
+  "BusinessLogicAPIs": {
+    "title": "Business Logic APIs",
+    "url": "/wiki/concepts/businesslogicapis/"
+  },
   "BusinessMoat": {
     "title": "Business Moat",
     "url": "/wiki/concepts/businessmoat/"
@@ -8874,6 +8878,14 @@
   "CognitiveSurrender": {
     "title": "Cognitive Surrender",
     "url": "/wiki/concepts/cognitivesurrender/"
+  },
+  "Coherent": {
+    "title": "Coherent",
+    "url": "/wiki/entities/coherent/"
+  },
+  "CoherentSpark": {
+    "title": "Coherent Spark",
+    "url": "/wiki/entities/coherentspark/"
   },
   "CoinRetirementEconomics": {
     "title": "Coin Retirement Economics",
@@ -18867,6 +18879,14 @@
     "title": "Insurance Sales Trust",
     "url": "/wiki/concepts/insurancesalestrust/"
   },
+  "InsuranceTechnicalLiteracy": {
+    "title": "Insurance Technical Literacy",
+    "url": "/wiki/concepts/insurancetechnicalliteracy/"
+  },
+  "InsuranceTechnologyModernization": {
+    "title": "Insurance Technology Modernization",
+    "url": "/wiki/concepts/insurancetechnologymodernization/"
+  },
   "IntegratedMLTeams": {
     "title": "Integrated ML Teams",
     "url": "/wiki/concepts/integratedmlteams/"
@@ -26702,6 +26722,10 @@
   "NicholasPelham": {
     "title": "Nicholas Pelham",
     "url": "/wiki/entities/nicholaspelham/"
+  },
+  "NickBlamer": {
+    "title": "Nick Blamer",
+    "url": "/wiki/entities/nickblamer/"
   },
   "NickBloom": {
     "title": "Nick Bloom",
@@ -34915,6 +34939,10 @@
     "title": "Spreadly",
     "url": "/wiki/entities/spreadly/"
   },
+  "SpreadsheetToAPIGovernance": {
+    "title": "Spreadsheet to API Governance",
+    "url": "/wiki/concepts/spreadsheettoapigovernance/"
+  },
   "SpringAirlines": {
     "title": "Spring Airlines / 春秋航空",
     "url": "/wiki/entities/springairlines/"
@@ -42478,6 +42506,10 @@
   "ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker": {
     "title": "EP 10: A thought-provoking chat with an actuary and TEDx speaker",
     "url": "/wiki/sources/ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker/"
+  },
+  "ep-11-growing-technology-footprints-in-insurance-sector": {
+    "title": "EP 11: Growing Technology Footprints in Insurance Sector",
+    "url": "/wiki/sources/ep-11-growing-technology-footprints-in-insurance-sector/"
   },
   "ep-12-insightful-conversation-with-a-football-analytics-professional": {
     "title": "EP 12: Insightful Conversation with a Football Analytics Professional",

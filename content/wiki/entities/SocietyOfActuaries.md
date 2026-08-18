@@ -2,7 +2,7 @@
 title: "Society of Actuaries"
 type: entity
 tags: [insurance, actuarial-science, professional-organization]
-sources: [ep-3-demystifying-the-imposter-syndrome, data-risk-and-actuarial-science-in-insurance]
+sources: [ep-3-demystifying-the-imposter-syndrome, ep-11-growing-technology-footprints-in-insurance-sector, data-risk-and-actuarial-science-in-insurance]
 last_updated: 2026-08-18
 ---
 
@@ -14,9 +14,12 @@ The Society of Actuaries appears in [[data-risk-and-actuarial-science-in-insuran
 
 In the wiki, the Society of Actuaries anchors the institutional side of [[ActuarialScience]]. It connects individual actuarial judgment to pooled mortality data, professional modeling work, and the practical difficulty of [[MortalityRiskPricing]] when future insurance promises depend on sparse historical experience.
 
+[[ep-11-growing-technology-footprints-in-insurance-sector]] adds the Society of Actuaries as a career-navigation reference. [[NickBlamer]] advises new technology graduates interested in insurance to explore actuarial exams and notes that technology-related tracks exist on the life side, making the organization relevant to [[InsuranceTechnicalLiteracy]] as well as traditional actuarial credentialing.
+
 ## Connections
-- [[MaryPatCampbell]] and [[StephenMathis]] - fellows of the organization in the sources.
+- [[MaryPatCampbell]], [[StephenMathis]], and [[NickBlamer]] - source voices connected to the organization.
 - [[ActuarialScience]] - profession and practice context.
 - [[MortalityRiskPricing]] and [[InsuranceRiskTransfer]] - life-insurance and annuity data use.
 - [[ActuarialDataQuality]] and [[ActuarialStandardsOfPractice]] - standards-adjacent professional practice.
+- [[InsuranceTechnicalLiteracy]] and [[ActuarialSelfStudyCareerPath]] - career and technical-learning context added by EP11.
 - [[ImpostorSyndrome]] and [[CapabilityGapSelfDiagnosis]] - professional-confidence branch connected through Stephen Mathis.

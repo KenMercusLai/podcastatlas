@@ -7782,6 +7782,10 @@ Added source page for a Data Science With Sam Coffee Chat with Sam, Effie, and M
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-18] ingest | EP 11: Growing Technology Footprints in Insurance Sector
+
+Added source page for a Data Science With Sam episode with Nick Blamer on insurance technology modernization, Excel-to-API workflows, Coherent Spark, cloud, reusable business logic, technical literacy for insurance professionals, and AI governance. Created pages for Nick Blamer, Coherent, Coherent Spark, Insurance Technology Modernization, Spreadsheet to API Governance, Business Logic APIs, and Insurance Technical Literacy; updated overview, index, Data Science With Sam, Sam, Actuarial Science, Actuary Data Scientist Partnership, Actuarial Self-Study Career Path, Actuarial AI Augmentation, Insurance Model Regulatory Constraint, AI Model Bias Governance, Microsoft Excel, Microsoft, Society of Actuaries, API Product Design, and AI Governance And Compliance. No direct contradiction found; the source extends the actuarial-insurance branch by adding the infrastructure layer where spreadsheet logic, APIs, cloud deployment, business-user ownership, and model-bias controls determine whether modernization is usable in regulated insurance work.
+
 ## [2026-08-18] ingest | EP 8: Implementation of AI in scientific research
 
 Added source page for a Data Science With Sam episode with Lucas Simon on AI and machine learning in biomedical research, computational biology, sequencing pipelines, gene-expression matrices, single-cell RNA sequencing, autoencoders, Keras, TensorFlow, and molecular data for early cancer therapeutics. Created pages for Lucas Simon, Baylor College of Medicine, Therapeutic Innovation Center, Keras, Bioinformatics, Computational Biology, Gene Expression Matrix, Sequencing Data Pipeline, Molecular Feature Engineering, Single-Cell RNA Sequencing, Biomedical Deep Learning, and Single-Cell Autoencoder Representation; updated overview, index, Data Science With Sam, Sam, AI For Science, Human-Driven Scientific AI, Bioinformatics Domain Gap, TensorFlow, and Machine Learning Engineering. No direct contradiction found; the source extends the existing scientific-AI branch by showing that biomedical AI depends on raw-read processing, matrix construction, representation choices, data scale, high-performance computing, and biological interpretation before model outputs become scientific insight.
@@ -7857,6 +7861,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] ingest | EP 10: A thought-provoking chat with an actuary and TEDx speaker
 
 Added source page for a Data Science With Sam episode with Charles Johnson on actuarial career formation, exam self-study, data scientist-actuary collaboration, automated underwriting, insurance regulatory accountability, and ChatGPT as professional augmentation. Created pages for Charles Johnson, Actuarial Development, Actuary Data Scientist Partnership, Actuarial Self-Study Career Path, and Actuarial AI Augmentation; updated overview, index, Data Science With Sam, Sam, Actuarial Science, Insurance Model Regulatory Constraint, Domain Expert Alignment, AI Worker Literacy, and ChatGPT. No direct contradiction found; the source extends the existing actuarial-insurance branch by shifting from data quality and professional standards toward workforce formation, team design, and validation-bound AI productivity.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-18] lint | Wiki health check
 
