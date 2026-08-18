@@ -8151,6 +8151,10 @@ Added source page for a 芮淇讲透资治通鉴 episode opening Zhouji 11 and Z
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》29丨苏秦励志爽文：知识改变命运
+
+Added source page for a 芮淇讲透资治通鉴 episode on Zhang Chou saving Tian Ying after Chu's post-Xuzhou pressure, the 333 BCE succession cluster, the disputed chronology around Qi Wei Wang / Qi Xuan Wang and Su Qin's hezong success, and Su Qin's failure-driven self-study story as later inspirational reception. Created pages for Han Xuanhui Wang, Yan Wen Gong, Yan Yi Wang, Wei Cheng Hou, Wei Ping Hou, Su Dai, Su Li, Tian Ban, Zhufu Yan, Wu Zhicai, Hezong Alliance, Failure-Driven Self-Study, and Inspirational Narrative Commercialization; updated overview, index, Su Qin, Zhang Yi (Warring States strategist), Guiguzi, Zhang Chou, Tian Ying, Qi Wei Wang, Qi Xuan Wang, Han Zhaohou, Sima Qian, Shiji, Sima Guang, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Zhou Xian Wang, Han/Qi/Chu/Wei/Yan state pages, Chu Wei Wang, Zonghengjia Diplomacy, Chronicle Chronology Drift, and Qi Chronology Dispute. No direct contradiction found inside the wiki; the source extends the existing chronology-drift warning by rejecting a literal 333 BCE placement for Qi's succession and Su Qin's six-state hezong triumph.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》27丨围观魏惠王和齐威王是咋商业互捧
 
 Added source page for a 芮淇讲透资治通鉴 episode on Qin taking Yiyang, Qi Wei Wang and Wei Hui Wang's Xuzhou mutual recognition, Tian Ying and Hui Shi's different post-Maling diplomatic calculations, and the risk boundary around low-posture strategy. Created Hui Shi, Yiyang (Warring States), Xuzhou Mutual Kingship, and Low-Posture Statecraft pages; updated overview, index, log, and related Qi/Wei/Han/Qin, Qi Wei Wang, Liang Hui Wang, Tian Ying, Shen Buhai, Han Zhaohou, Xuzhou, Maling Battle, Qin Eastward Pressure, Early Warring States Interstate War, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, and Zhou Xian Wang pages. No direct contradiction found; Tian Ying's genealogy question is kept source-scoped as a qualification.
@@ -8266,6 +8270,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] ingest | 《资治通鉴·周纪》28丨韩昭侯的快乐你想象不到
 
 Added source page for a 芮淇讲透资治通鉴 episode on Han Zhaohou's high gate as 时绌举赢 after Qin took Yiyang and Han suffered drought, Yue Wang Wujiang's failed anti-Qi move and the distinction between Yue's defeat and final extinction, Chu Wei Wang's attack on Qi after Xuzhou mutual kingship, Zhang Chou's ignored warning to Tian Ying, and the narrative turn toward Su Qin and Zhang Yi. Created pages for Qu Yijiu, Yue State, Yue Wang Wujiang, Zhang Chou, Su Qin, Zhang Yi (Warring States strategist), Untimely Extravagance, Status Order Backlash, and Zonghengjia Diplomacy; updated overview, index, Han Zhaohou, Xuzhou Mutual Kingship, Tian Ying, Hui Shi, Chu Wei Wang, Xuzhou, Qi/Han/Wei/Chu state pages, Qi Wei Wang, Liang Hui Wang, Low-Posture Statecraft, Early Warring States Interstate War, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Zhou Xian Wang, and Yiyang. No direct contradiction found; the source qualifies prior Xuzhou material by showing its backlash and clarifies that Yue's 334 BCE defeat is not the same as immediate extinction.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-19] lint | Wiki health check
 

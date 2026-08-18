@@ -2,7 +2,7 @@
 title: "燕国 / Yan State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+sources: [zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-19
 ---
 
@@ -18,6 +18,8 @@ The page is currently source-scoped. Its role is to anchor the annalistic chrono
 
 [[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] adds Yan to the 356 BCE diplomatic meeting cluster: [[ZhaoState|赵国]] and Yan meet at Ajuan while Zhao, Qi, and Song meet at Pinglu in the same year.
 
+[[zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]] adds the 333 BCE Yan succession notice. [[YanWengong|燕文公]] dies, and [[YanYiwang|燕易王]] succeeds in the same cluster that later turns toward [[SuQin|苏秦]] and [[ZonghengjiaDiplomacy|纵横家外交]].
+
 ## Connections
 - [[YanMinGong|燕闵公]] and [[YanXiGong|燕僖公]] - succession pair in the source.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame.
@@ -25,3 +27,4 @@ The page is currently source-scoped. Its role is to anchor the annalistic chrono
 - [[YanJiangong|燕简公]], [[QiState|齐国]], and [[EarlyWarringStatesInterstateWar]] - Zhouji 09 attack and rescue branch.
 - [[YanHuanGong|燕桓公]], [[ZhouLiewang|周烈王]], and [[WeyState|卫国]] - Zhouji 10 war and succession notices.
 - [[ZhaoState|赵国]] and [[EarlyWarringStatesInterstateWar]] - Zhouji 14 Ajuan meeting notice.
+- [[YanWengong|燕文公]] and [[YanYiwang|燕易王]] - Zhouji 29 succession notice.

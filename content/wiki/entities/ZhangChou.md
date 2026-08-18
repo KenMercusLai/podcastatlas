@@ -2,7 +2,7 @@
 title: "张丑 / Zhang Chou"
 type: entity
 tags: [person, adviser, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
+sources: [zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
 last_updated: 2026-08-19
 ---
 
@@ -12,8 +12,10 @@ last_updated: 2026-08-19
 
 His warning is that title elevation does not only affect Qi and Wei. If Qi accepts the status gift too eagerly, it appears to rely on Qi strength while slighting powers such as [[QinState|秦国]] and [[ChuState|楚国]]. The later attack by [[ChuWeiwang|楚威王]], pressure from Zhao and Yan, and siege of [[Xuzhou|徐州]] make Zhang Chou the episode's anticipatory voice for [[StatusOrderBacklash|名分秩序反弹]].
 
+[[zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]] gives Zhang Chou a second rescue role. When Chu Wei Wang demands that Qi expel Tian Ying after the anti-Qi attack, Zhang Chou argues to Chu that removing Tian Ying may empower [[TianBan|田斑]] or another stronger organizer who could repair Qi's military position. The source presents his persuasion as interest translation: he does not defend Tian Ying morally, but shows Chu why leaving Tian Ying in place better serves Chu.
+
 ## Connections
 - [[TianYing|田婴]] - Qi decision-maker he advises.
 - [[QiState|齐国]], [[WeiState|魏国]], and [[XuzhouMutualKingship|徐州相王]] - diplomatic scene he warns against.
-- [[ChuWeiwang|楚威王]], [[ChuState|楚国]], and [[QinState|秦国]] - strong powers named as status-risk context.
+- [[ChuWeiwang|楚威王]], [[ChuState|楚国]], [[QinState|秦国]], and [[TianBan|田斑]] - strong-power context and Zhouji 29 persuasion branch.
 - [[StatusOrderBacklash|名分秩序反弹]] - concept his warning helps define.

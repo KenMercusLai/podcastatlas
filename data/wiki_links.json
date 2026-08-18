@@ -13899,6 +13899,10 @@
     "title": "Failure Desensitization",
     "url": "/wiki/concepts/failuredesensitization/"
   },
+  "FailureDrivenSelfStudy": {
+    "title": "Failure-Driven Self-Study / 失败后的自学翻身",
+    "url": "/wiki/concepts/failuredrivenselfstudy/"
+  },
   "FairComparisonFrames": {
     "title": "Fair Comparison Frames",
     "url": "/wiki/concepts/faircomparisonframes/"
@@ -17511,6 +17515,10 @@
     "title": "韩武子 / Han Wuzi",
     "url": "/wiki/entities/hanwuzi/"
   },
+  "HanXuanhuiwang": {
+    "title": "韩宣惠王 / King Xuanhui of Han",
+    "url": "/wiki/entities/hanxuanhuiwang/"
+  },
   "HanYang": {
     "title": "汉洋 / Han Yang",
     "url": "/wiki/entities/hanyang/"
@@ -18058,6 +18066,10 @@
   "Hezbollah": {
     "title": "Hezbollah",
     "url": "/wiki/entities/hezbollah/"
+  },
+  "HezongAlliance": {
+    "title": "合纵 / Hezong Alliance",
+    "url": "/wiki/concepts/hezongalliance/"
   },
   "HiSilicon": {
     "title": "HiSilicon",
@@ -19494,6 +19506,10 @@
   "InsiderDissentStrategy": {
     "title": "Insider Dissent Strategy / 局内人异议策略",
     "url": "/wiki/concepts/insiderdissentstrategy/"
+  },
+  "InspirationalNarrativeCommercialization": {
+    "title": "Inspirational Narrative Commercialization / 励志叙事商业化",
+    "url": "/wiki/concepts/inspirationalnarrativecommercialization/"
   },
   "Insta360": {
     "title": "Insta360 / 影石",
@@ -37039,9 +37055,17 @@
     "title": "苏堤 / Su Causeway",
     "url": "/wiki/entities/sucauseway/"
   },
+  "SuDai": {
+    "title": "苏代 / Su Dai",
+    "url": "/wiki/entities/sudai/"
+  },
   "SuHao": {
     "title": "Su Hao / 苏浩",
     "url": "/wiki/entities/suhao/"
+  },
+  "SuLi": {
+    "title": "苏厉 / Su Li",
+    "url": "/wiki/entities/suli/"
   },
   "SuLinWong": {
     "title": "Su-Lin Wong",
@@ -38714,6 +38738,10 @@
   "TiDB": {
     "title": "TiDB",
     "url": "/wiki/entities/tidb/"
+  },
+  "TianBan": {
+    "title": "田斑 / Tian Ban",
+    "url": "/wiki/entities/tianban/"
   },
   "TianFamilyReplacementOfQi": {
     "title": "Tian Family Replacement of Qi / 田氏代齐",
@@ -41159,6 +41187,10 @@
     "title": "魏成 / Wei Cheng",
     "url": "/wiki/entities/weicheng/"
   },
+  "WeiChenghou": {
+    "title": "魏成侯 / Marquis Cheng of Wei",
+    "url": "/wiki/entities/weichenghou/"
+  },
   "WeiChou": {
     "title": "魏犨 / Wei Wuzi",
     "url": "/wiki/entities/weichou/"
@@ -41166,6 +41198,10 @@
   "WeiGreatWallAntiQinDefense": {
     "title": "Wei Great Wall Anti-Qin Defense / 魏长城防秦",
     "url": "/wiki/concepts/weigreatwallantiqindefense/"
+  },
+  "WeiPinghou": {
+    "title": "魏平侯 / Marquis Ping of Wei",
+    "url": "/wiki/entities/weipinghou/"
   },
   "WeiQianSanlian": {
     "title": "魏茜 / Wei Qian (Sanlian)",
@@ -41919,6 +41955,10 @@
     "title": "武则天 / Wu Zetian",
     "url": "/wiki/entities/wuzetian/"
   },
+  "WuZhicai": {
+    "title": "吾之才 / Wu Zhicai",
+    "url": "/wiki/entities/wuzhicai/"
+  },
   "WudaiAdoptiveSonSystem": {
     "title": "五代义子假子制度 / Five Dynasties Adoptive-Son System",
     "url": "/wiki/concepts/wudaiadoptivesonsystem/"
@@ -42511,6 +42551,10 @@
     "title": "燕国 / Yan State",
     "url": "/wiki/entities/yanstate/"
   },
+  "YanWengong": {
+    "title": "燕文公 / Duke Wen of Yan",
+    "url": "/wiki/entities/yanwengong/"
+  },
   "YanXiGong": {
     "title": "燕僖公 / Duke Xi of Yan",
     "url": "/wiki/entities/yanxigong/"
@@ -42518,6 +42562,10 @@
   "YanYing": {
     "title": "晏婴 / Yan Ying",
     "url": "/wiki/entities/yanying/"
+  },
+  "YanYiwang": {
+    "title": "燕易王 / King Yi of Yan",
+    "url": "/wiki/entities/yanyiwang/"
   },
   "YanZhongzi": {
     "title": "严仲子 / Yan Zhongzi",
@@ -43762,6 +43810,10 @@
   "ZhuBajie": {
     "title": "猪八戒",
     "url": "/wiki/entities/zhubajie/"
+  },
+  "ZhuFuYan": {
+    "title": "主父偃 / Zhufu Yan",
+    "url": "/wiki/entities/zhufuyan/"
   },
   "ZhuGe": {
     "title": "猪哥 / 猪场严选",
@@ -46894,5 +46946,9 @@
   "zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8": {
     "title": "《资治通鉴·周纪》28丨韩昭侯的快乐你想象不到",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8/"
+  },
+  "zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv": {
+    "title": "《资治通鉴·周纪》29丨苏秦励志爽文：知识改变命运",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv/"
   }
 }

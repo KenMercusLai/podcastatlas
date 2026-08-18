@@ -2,7 +2,7 @@
 title: "楚国 / Chu State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -32,6 +32,8 @@ The episode says Chu Sheng Wang was killed by "bandits," then treats that wordin
 
 [[zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]] develops Chu Wei Wang's active role. Chu defeats [[YueState|越国]] in the 334 BCE cluster without immediately destroying it, then [[ChuWeiwang|楚威王]] attacks [[QiState|齐国]] at [[Xuzhou|徐州]] after [[XuzhouMutualKingship|徐州相王]]. The episode makes Chu the leading power enforcing [[StatusOrderBacklash|名分秩序反弹]] against Qi's elevated title posture.
 
+[[zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]] continues Chu's leverage after the attack. Chu Wei Wang demands that [[TianYing|田婴]] be removed from Qi, but [[ZhangChou|张丑]] redirects him by arguing that an expulsion could let [[TianBan|田斑]] or another stronger Qi figure rebuild resistance.
+
 ## Connections
 - [[ChuShengWang|楚声王]] and [[ChuDaoWang|楚悼王]] - ruler pair in the source.
 - [[BanditAssassinationAttribution]] - concept attached to Chu Sheng Wang's death.
@@ -46,3 +48,4 @@ The episode says Chu Sheng Wang was killed by "bandits," then treats that wordin
 - [[TianJi|田忌]], [[SunBin|孙膑]], [[QiState|齐国]], and [[TreasonAccusationTrap]] - Zhouji 21 exile and talent-mobility branch.
 - [[ChuXuanwang|楚宣王]] and [[ChuWeiwang|楚威王]] - Zhouji 23 succession notice.
 - [[YueState|越国]], [[YueWangWujiang|越王无疆]], [[Xuzhou|徐州]], [[XuzhouMutualKingship|徐州相王]], and [[StatusOrderBacklash|名分秩序反弹]] - Zhouji 28 Yue defeat and anti-Qi backlash branch.
+- [[TianYing|田婴]], [[ZhangChou|张丑]], and [[TianBan|田斑]] - Zhouji 29 post-victory expulsion-demand branch.

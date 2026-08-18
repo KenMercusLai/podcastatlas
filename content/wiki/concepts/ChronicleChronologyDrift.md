@@ -2,7 +2,7 @@
 title: "Chronicle Chronology Drift / 编年错位"
 type: concept
 tags: [historiography, source-criticism, chinese-history, chronology]
-sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn]
+sources: [zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn]
 last_updated: 2026-08-19
 ---
 
@@ -18,6 +18,8 @@ The concept also protects the wiki from overcorrecting. When a source itself fla
 
 [[zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn]] adds an earlier Wei case. Under [[ZhouAnWang|周安王]]'s fifteenth year, the source records a [[WeiWenhou|魏文侯]] death and [[WeiWuhou|魏武侯]] accession notice, but the host says the chronology is wrong because Wei Wenhou had already died and Wei Wuhou had already succeeded. The episode still uses the notice as a bridge to [[WuQi|吴起]] and [[VirtueOverNaturalBarriers|德胜地险]], illustrating how a chronicle can preserve an important statecraft passage inside a doubtful dating frame.
 
+[[zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]] adds the 333 BCE Su Qin and Qi-succession case. The episode says the chronicle places [[QiWeiwang|齐威王]]'s death, [[QiXuanWang|齐宣王]]'s accession, and [[SuQin|苏秦]]'s sudden six-state [[HezongAlliance|合纵]] triumph together, but the host rejects the timing: Qi Wei Wang has not yet died, Qi Xuan Wang's first year should be 319 BCE, and the six-state alliance story is unlikely to fit the chronicle's year.
+
 ## Key Claims
 - A chronicle can preserve a real story while placing it in a doubtful year.
 - Later compilers can inherit errors when their available base sources are already unstable.
@@ -27,5 +29,5 @@ The concept also protects the wiki from overcorrecting. When a source itself fla
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]], [[SimaGuang|司马光]], and [[Shiji|《史记》]] - chronicle, compiler, and inherited-source frame.
 - [[QiWeiwang|齐威王]] and [[ZhouLiewang|周烈王]] - source case.
-- [[QiChronologyDispute]], [[ZhouXianwang|周显王]], [[WeiWenhou|魏文侯]], [[WeiWuhou|魏武侯]], [[WuQi|吴起]], [[ChronicleSourceGaps]], and [[HistoricalDetectiveReasoning]] - adjacent source-reading guardrails and later correction branch.
+- [[QiChronologyDispute]], [[ZhouXianwang|周显王]], [[QiXuanWang|齐宣王]], [[SuQin|苏秦]], [[HezongAlliance|合纵]], [[WeiWenhou|魏文侯]], [[WeiWuhou|魏武侯]], [[WuQi|吴起]], [[ChronicleSourceGaps]], and [[HistoricalDetectiveReasoning]] - adjacent source-reading guardrails and later correction branch.
 - [[WarringStatesPeriod|战国时期]] - period whose record instability motivates the concept.

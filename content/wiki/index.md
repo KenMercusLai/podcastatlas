@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》29丨苏秦励志爽文：知识改变命运](sources/zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv.md) — 芮淇讲透资治通鉴 episode on Zhang Chou saving Tian Ying after Chu's anti-Qi pressure, disputed Qi/Su Qin chronology, and Su Qin's failure-driven self-study becoming a durable inspirational narrative.
 - [《资治通鉴·周纪》28丨韩昭侯的快乐你想象不到](sources/zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8.md) — 芮淇讲透资治通鉴 episode on Han Zhaohou's high gate as untimely extravagance, Yue Wang Wujiang's failed anti-Qi move, Chu Wei Wang's attack on Qi after Xuzhou mutual kingship, Zhang Chou's ignored warning, and the coming Su Qin/Zhang Yi zongheng turn.
 - [《资治通鉴·周纪》27丨围观魏惠王和齐威王是咋商业互捧](sources/zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb.md) — 芮淇讲透资治通鉴 episode on Qin taking Yiyang, the post-Maling Xuzhou mutual recognition between Qi Wei Wang and Wei Hui Wang, Tian Ying and Hui Shi's different diplomatic calculations, and low-posture strategy as bounded expedient rather than permanent weakness.
 - [《资治通鉴·周纪》26丨孟子来了！](sources/zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn.md) — 芮淇讲透资治通鉴 episode moving from Shen Buhai's death and the Han Zhang-family line to Song's unresolved Taiqiu She omen and Mencius's opening exchange with Wei Hui Wang over renyi, benefit, and Sima Guang's Song-era interpretation.
@@ -1033,11 +1034,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [田斑 / Tian Ban](entities/TianBan.md) — Qi replacement figure invoked by Zhang Chou to persuade Chu Wei Wang that expelling Tian Ying could strengthen Qi.
+- [韩宣惠王 / King Xuanhui of Han](entities/HanXuanhuiwang.md) — Han successor after Han Zhaohou's death in the Zhouji 29 succession cluster.
+- [燕文公 / Duke Wen of Yan](entities/YanWengong.md) — Yan ruler whose death opens the Zhouji 29 Yan succession notice.
+- [燕易王 / King Yi of Yan](entities/YanYiwang.md) — Yan successor after Yan Wen Gong in the Zhouji 29 succession notice.
+- [魏成侯 / Marquis Cheng of Wei](entities/WeiChenghou.md) — Wei ruler whose death opens the Zhouji 29 Wei succession notice.
+- [魏平侯 / Marquis Ping of Wei](entities/WeiPinghou.md) — Wei successor after Wei Cheng Hou in the Zhouji 29 succession notice.
+- [苏代 / Su Dai](entities/SuDai.md) — Su Qin's brother, used by Zhouji 29 to frame diplomacy as a family field.
+- [苏厉 / Su Li](entities/SuLi.md) — Su Qin's brother, named with Su Dai in the strategist-family branch.
+- [主父偃 / Zhufu Yan](entities/ZhuFuYan.md) — Figure paired with Su Qin in Sima Guang's consolation poem to Wu Zhicai.
+- [吾之才 / Wu Zhicai](entities/WuZhicai.md) — Addressee of Sima Guang's poem using Su Qin as encouragement for frustration and disregard.
 - [屈宜臼 / Qu Yijiu](entities/QuYijiu.md) — Chu critic of Han Zhaohou's high-gate project who defines timing as political circumstance.
 - [越国 / Yue State](entities/YueState.md) — Warring States state whose failed anti-Qi move and later Chu defeat are kept distinct from final extinction.
 - [越王无疆 / Yue Wang Wujiang](entities/YueWangWujiang.md) — Yue ruler whose failed attack on Qi begins a decline branch rather than an immediate collapse.
 - [张丑 / Zhang Chou](entities/ZhangChou.md) — Qi minister who warns Tian Ying that accepting Wei's title gift will trigger strong-state backlash.
-- [苏秦 / Su Qin](entities/SuQin.md) — Warring States persuader previewed as the coming narrative turn toward zongheng diplomacy.
+- [苏秦 / Su Qin](entities/SuQin.md) — Warring States persuader developed as both doubtful hezong chronology and a failure-driven self-study/reception figure.
 - [张仪 / Zhang Yi (Warring States strategist)](entities/ZhangYiStrategist.md) — Warring States strategist page kept distinct from the existing modern Zhang Yi entity.
 - [惠施 / Hui Shi](entities/HuiShi.md) — Wei adviser who uses low-posture diplomacy after Maling to turn Wei's deference to Qi into strategic breathing room.
 - [宜阳 / Yiyang (Warring States)](entities/YiyangWarringStates.md) — Han place seized by Qin in 335 BCE and treated as a long-coveted strategic target.
@@ -7015,6 +7026,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [合纵 / Hezong Alliance](concepts/HezongAlliance.md) — Anti-Qin coalition policy attached to Su Qin, with Zhouji 29 caution about the chronicle's sudden six-state placement.
+- [Failure-Driven Self-Study / 失败后的自学翻身](concepts/FailureDrivenSelfStudy.md) — Pattern where failed formal preparation, shame, and status pressure drive a second self-study project.
+- [Inspirational Narrative Commercialization / 励志叙事商业化](concepts/InspirationalNarrativeCommercialization.md) — Pattern where complex historical failure-and-rise stories become packaged motivational scripts.
 - [时绌举赢 / Untimely Extravagance](concepts/UntimelyExtravagance.md) — Ruler-ethics pattern where visible prestige spending becomes wrong because war, drought, or public burden makes the timing politically unfit.
 - [Status Order Backlash / 名分秩序反弹](concepts/StatusOrderBacklash.md) — Diplomatic-status pattern where a title elevation provokes third-party rulers by changing perceived rank.
 - [纵横家外交 / Zonghengjia Diplomacy](concepts/ZonghengjiaDiplomacy.md) — Warring States mode where persuaders, alliance design, and rhetoric become central instruments of interstate power.
