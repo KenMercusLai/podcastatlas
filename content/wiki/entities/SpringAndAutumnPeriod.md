@@ -2,8 +2,8 @@
 title: "春秋时期 / Spring and Autumn Period"
 type: entity
 tags: [history, china, pre-qin, warfare]
-sources: [109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]
-last_updated: 2026-07-17
+sources: [109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
+last_updated: 2026-08-18
 ---
 
 # 春秋时期 / Spring and Autumn Period
@@ -12,9 +12,12 @@ The Spring and Autumn Period is the historical world behind [[109-xianliao-zuozh
 
 This page is source-scoped rather than a full period history. Its wiki role is to collect the episode's reusable claim that Spring-Autumn stories can feel closer to game, duel, or performance than later total-war narratives, even though people are still killed, displaced, and politically used. That tension is tracked by [[SpringAutumnWarfareRitual]] and made accessible through [[SportsAsHistoricalReadingFrame]].
 
+[[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] adds a Qi military-command branch through [[SimaRangju|司马穰苴]], [[YanYing|晏婴]], and [[QiJinggong|齐景公]]. The episode uses Sima Rangju as a precursor to [[WuQi|吴起]], shifting attention from aristocratic display toward discipline, morale, and execution.
+
 ## Connections
 - [[ZuoZhuan|《左传》]] - main text used by the episode.
 - [[SpringAutumnWarfareRitual]] - concept for the episode's account of war rules and aristocratic battle culture.
 - [[SportsAsHistoricalReadingFrame]] - playful modern frame used to enter the period.
 - [[QiHuanGong|齐桓公]], [[JinWenGong|晋文公]], and [[SongXiangGong|宋襄公]] - ruler cases named by the source.
 - [[HorseAsCivilizationalInfrastructure]] - adjacent chariot and mobility background.
+- [[SimaRangju|司马穰苴]], [[YanYing|晏婴]], [[QiJinggong|齐景公]], and [[QiState|齐国]] - Qi command branch added by the Ruiqi episode.

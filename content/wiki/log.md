@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-18] ingest | 《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（2）
+
+Added source page for a 芮淇讲透资治通鉴 episode on Sima Rangju, Wu Qi's shared-hardship military leadership, Wei military discipline, Zhou/Yan/Chu chronology, posthumous names, and politically ambiguous "bandit" assassinations. Created pages for the show, Zizhi Tongjian, Sima Rangju, Yan Ying, Qi Jinggong, Wu Qi, Wuzi, Wei/Qi/Yan/Chu/Zhou/Jin/Qin state and ruler nodes, Bamboo Annals, Military Morale Through Shared Hardship, Posthumous Name Politics, and Bandit Assassination Attribution; updated overview, index, log, Sima Guang, Spring and Autumn Period, Warring States Period, and Historical Detective Reasoning. No direct contradiction found; the source extends the pre-Qin branch while keeping the episode title's incomplete Wei Wenhou chancellor question source-scoped.
+
 ## [2026-08-18] ingest | World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal
 
 Added source page for an All-In episode on SpaceX's source-scoped IPO and Cursor acquisition claims, Elon Musk paper wealth, retail investor access, employee equity upside, Anthropic's Fable 5 shutdown, AI export-control escalation, hyperscaler gatekeeping, AI model self-certification, and the tentative U.S.-Iran peace memorandum. Created Hyperscaler AI Gatekeeping; updated overview, index, All-In, the four host pages, SpaceX, Cursor, Elon Musk, Anthropic, Fable 5, Dario Amodei, Iran, paper wealth, retail private-market access, equity compensation, AI IPO valuation, late-stage private-company valuation risk, property rights, wealth-tax legitimacy, AI export controls, frontier model access/release governance, AI safety narrative backfire, U.S.-Iran nuclear diplomacy, Iran postwar relief, and Iran nuclear-missile bargaining. No direct contradiction found; later Iran sources qualify this episode's June optimism, and the SpaceX/Cursor/Fable facts are kept source-scoped.
@@ -8026,6 +8030,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] ingest | Dan Dreyfus: America's Critical Minerals Crisis is Here
 
 Added source page for an All-In episode with Dan Dreyfus on critical minerals, copper, rare-earth processing, Chinese export leverage, grid modernization, AI data-center power, craft labor, industrial policy, and hard assets as a debasement hedge. Created pages for Dan Dreyfus, Capital-Intensive AI Cycle, Copper Supply Bottleneck, Electric Grid Modernization Bottleneck, Critical Mineral Offtake Industrial Policy, Craft Labor Bottleneck, and Hard Assets Debasement Hedge; updated overview, index, All-In, critical-minerals, rare-earth, data-center power, manufacturing workforce, reshoring, supply-chain sovereignty, strategic industrial policy, commodity time-horizon, Ford Motor Company, US Department of Defense, and U.S. Department of Energy pages. No direct contradiction found; numerical commodity, power, and return claims are kept source-attributed pending independent verification.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-18] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（2）](sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei.md) — 芮淇讲透资治通鉴 episode on Sima Rangju, Wu Qi's shared-hardship military leadership, Wei military discipline, Zhou/Yan/Chu chronology, posthumous names, and "bandit" assassinations as possible political cover.
 - [GameStop CEO Ryan Cohen's $56B Plan to Take Over eBay](sources/all-in-with-chamath-jason-sacks-friedberg-gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay-41752370.md) — All-In interview with Ryan Cohen on Chewy's low-margin retail execution, GameStop's cost-cutting and collectibles turnaround, and a contested GameStop bid for eBay built around resale, authentication, live commerce, store infrastructure, and in-game assets.
 - [World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal](sources/all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545.md) — All-In episode on SpaceX's IPO and paper wealth, retail investor access, Anthropic's Fable shutdown, AI export-control pressure, hyperscaler gatekeeping, and the tentative U.S.-Iran peace memorandum.
 - [Dan Dreyfus: America's Critical Minerals Crisis is Here](sources/all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225.md) — All-In episode with Dan Dreyfus on critical minerals, copper, rare-earth processing, Chinese export leverage, grid modernization, AI data-center power, craft labor, industrial policy, and hard assets as a debasement hedge.
@@ -1004,6 +1005,31 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [芮淇讲透资治通鉴 / Ruiqi Jiangtou Zizhi Tongjian](entities/RuiqiJiangtouZizhiTongjian.md) — Podcast series reading Zizhi Tongjian through explanatory, management, and historiographical frames.
+- [《资治通鉴》 / Zizhi Tongjian](entities/ZizhiTongjian.md) — Chinese chronicle text used by the Ruiqi episode to read Zhou-annals succession, military leadership, and political attribution.
+- [司马穰苴 / Sima Rangju](entities/SimaRangju.md) — Qi military figure introduced as a low-born commander whose discipline and morale method precedes the episode's Wu Qi discussion.
+- [晏婴 / Yan Ying](entities/YanYing.md) — Qi official who recommends Sima Rangju to Qi Jinggong in the Ruiqi episode.
+- [齐景公 / Duke Jing of Qi](entities/QiJinggong.md) — Qi ruler who employs Sima Rangju after Yan Ying's recommendation.
+- [吴起 / Wu Qi](entities/WuQi.md) — Warring States commander used to show how shared hardship, care, discipline, and battlefield loyalty can become military power.
+- [《吴子》 / Wuzi](entities/Wuzi.md) — Military text associated with Wu Qi and the episode's "励士" morale branch.
+- [魏国 / Wei State](entities/WeiState.md) — Early Warring States power linked in the source to Wu Qi's training, discipline, morale, and execution.
+- [魏文侯 / Marquis Wen of Wei](entities/WeiWenhou.md) — Episode title-frame ruler; the short source does not fully develop the chancellor-selection question.
+- [齐国 / Qi State](entities/QiState.md) — Pre-Qin state setting for Sima Rangju, Yan Ying, and Qi Jinggong in the Ruiqi episode.
+- [燕国 / Yan State](entities/YanState.md) — Pre-Qin state appearing through the Yan Min Gong to Yan Xi Gong succession notice.
+- [燕闵公 / Duke Min of Yan](entities/YanMinGong.md) — Yan ruler whose death leads to Yan Xi Gong's succession in the source.
+- [燕僖公 / Duke Xi of Yan](entities/YanXiGong.md) — Yan ruler succeeding Yan Min Gong in the source's chronology.
+- [楚国 / Chu State](entities/ChuState.md) — State whose Chu Sheng Wang death notice anchors the source's "bandit" assassination-attribution discussion.
+- [楚声王 / King Sheng of Chu](entities/ChuShengWang.md) — Chu ruler recorded as killed by "bandits," used as the source's main attribution-ambiguity case.
+- [楚悼王 / King Dao of Chu](entities/ChuDaoWang.md) — Chu Sheng Wang's son and successor in the source.
+- [周王室 / Zhou Royal House](entities/ZhouRoyalHouse.md) — Zhou dynastic frame for the King Weilie to King An transition in the episode.
+- [周威烈王 / King Weilie of Zhou](entities/ZhouWeilieWang.md) — Zhou ruler whose death marks the transition to King An in the source.
+- [周安王 / King An of Zhou](entities/ZhouAnWang.md) — Zhou ruler succeeding King Weilie in the source's chronology.
+- [晋国 / Jin State](entities/JinState.md) — Pre-Qin state node for the Jin You Gong, Qin Ying, and Qin-Jin marriage-alliance comparison.
+- [晋幽公 / Duke You of Jin](entities/JinYouGong.md) — Jin ruler whose Bamboo Annals death account is used to illustrate political direction behind "bandits."
+- [秦国 / Qin State](entities/QinState.md) — Qin polity introduced through Qin Ying and the Qin-Jin marriage-alliance explanation.
+- [秦嬴 / Qin Ying](entities/QinYing.md) — Qin princess named in the Bamboo Annals account of Jin You Gong's assassination.
+- [郑文公 / Duke Wen of Zheng](entities/ZhengWenGong.md) — Ruler cited as a comparison case for using bandits as political killers.
+- [《竹书纪年》 / Bamboo Annals](entities/ZhushuJinian.md) — Text cited for the Jin You Gong and Qin Ying assassination-attribution example.
 - [Ryan Cohen](entities/RyanCohen.md) — Chewy founder and GameStop CEO whose All-In interview links low-margin retail execution, GameStop's turnaround, and a contested eBay acquisition proposal.
 - [Chewy](entities/Chewy.md) — Online pet retailer Ryan Cohen uses as a case in recurring-category ecommerce, supply-chain discipline, and service-led customer loyalty.
 - [Dan Dreyfus](entities/DanDreyfus.md) — All-In guest arguing that AI, reshoring, electrification, defense, and grid rebuilding are colliding with critical-mineral, power, and skilled-labor constraints.
@@ -6791,6 +6817,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Military Morale Through Shared Hardship / 同甘共苦式士气](concepts/MilitaryMoraleThroughSharedHardship.md) — Leadership mechanism linking commander credibility, shared burden, care, discipline, and soldiers' willingness to fight.
+- [Posthumous Name Politics / 谥号政治](concepts/PosthumousNamePolitics.md) — Chronicle-reading concept for how posthumous ruler labels encode retrospective judgment rather than ordinary names.
+- [Bandit Assassination Attribution / 盗贼行刺归因](concepts/BanditAssassinationAttribution.md) — Historiographical caution that "bandits killed the ruler" may identify physical killers while obscuring political authorship.
 - [Low-Margin Retail Execution](concepts/LowMarginRetailExecution.md) — Retail operating discipline where supplier terms, fulfillment, labor, shipping, inventory, and retention pennies decide whether scale becomes profit.
 - [Store-Network Marketplace Infrastructure](concepts/StoreNetworkMarketplaceInfrastructure.md) — Strategy of turning a physical store footprint into marketplace studios, seller support, fulfillment, photography, inspection, and authentication nodes.
 - [Marketplace Live Commerce](concepts/MarketplaceLiveCommerce.md) — Platform live-selling model where a marketplace supplies discovery, seller tooling, checkout, fulfillment support, and trust for many live sellers.

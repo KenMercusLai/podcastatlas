@@ -5175,6 +5175,10 @@
     "title": "Band of Angels",
     "url": "/wiki/entities/bandofangels/"
   },
+  "BanditAssassinationAttribution": {
+    "title": "Bandit Assassination Attribution / 盗贼行刺归因",
+    "url": "/wiki/concepts/banditassassinationattribution/"
+  },
   "BanffNationalPark": {
     "title": "Banff National Park / 班夫",
     "url": "/wiki/entities/banffnationalpark/"
@@ -8606,6 +8610,18 @@
   "Chrysippus": {
     "title": "Chrysippus / 克律西波斯",
     "url": "/wiki/entities/chrysippus/"
+  },
+  "ChuDaoWang": {
+    "title": "楚悼王 / King Dao of Chu",
+    "url": "/wiki/entities/chudaowang/"
+  },
+  "ChuShengWang": {
+    "title": "楚声王 / King Sheng of Chu",
+    "url": "/wiki/entities/chushengwang/"
+  },
+  "ChuState": {
+    "title": "楚国 / Chu State",
+    "url": "/wiki/entities/chustate/"
   },
   "ChuckSurack": {
     "title": "Chuck Surack",
@@ -20623,6 +20639,10 @@
     "title": "《金瓶梅》 / Jin Ping Mei",
     "url": "/wiki/entities/jinpingmei/"
   },
+  "JinState": {
+    "title": "晋国 / Jin State",
+    "url": "/wiki/entities/jinstate/"
+  },
   "JinWenGong": {
     "title": "晋文公",
     "url": "/wiki/entities/jinwengong/"
@@ -20634,6 +20654,10 @@
   "JinYongPoliticalReading": {
     "title": "Jin Yong Political Reading",
     "url": "/wiki/concepts/jinyongpoliticalreading/"
+  },
+  "JinYouGong": {
+    "title": "晋幽公 / Duke You of Jin",
+    "url": "/wiki/entities/jinyougong/"
   },
   "JinZicai": {
     "title": "金子才 / Jin Zicai",
@@ -25719,6 +25743,10 @@
     "title": "Military Base Sovereignty",
     "url": "/wiki/concepts/militarybasesovereignty/"
   },
+  "MilitaryMoraleThroughSharedHardship": {
+    "title": "Military Morale Through Shared Hardship / 同甘共苦式士气",
+    "url": "/wiki/concepts/militarymoralethroughsharedhardship/"
+  },
   "MilitaryPersonalization": {
     "title": "Military Personalization / 军队私人化",
     "url": "/wiki/concepts/militarypersonalization/"
@@ -30243,6 +30271,10 @@
     "title": "Posterous",
     "url": "/wiki/entities/posterous/"
   },
+  "PosthumousNamePolitics": {
+    "title": "Posthumous Name Politics / 谥号政治",
+    "url": "/wiki/concepts/posthumousnamepolitics/"
+  },
   "PostwarReconstructionFinance": {
     "title": "Postwar Reconstruction Finance",
     "url": "/wiki/concepts/postwarreconstructionfinance/"
@@ -31131,9 +31163,17 @@
     "title": "齐桓公",
     "url": "/wiki/entities/qihuangong/"
   },
+  "QiJinggong": {
+    "title": "齐景公 / Duke Jing of Qi",
+    "url": "/wiki/entities/qijinggong/"
+  },
   "QiSi": {
     "title": "《起死》",
     "url": "/wiki/entities/qisi/"
+  },
+  "QiState": {
+    "title": "齐国 / Qi State",
+    "url": "/wiki/entities/qistate/"
   },
   "QiWuLun": {
     "title": "《齐物论》",
@@ -31202,6 +31242,14 @@
   "QinSi": {
     "title": "秦思 / Qin Si",
     "url": "/wiki/entities/qinsi/"
+  },
+  "QinState": {
+    "title": "秦国 / Qin State",
+    "url": "/wiki/entities/qinstate/"
+  },
+  "QinYing": {
+    "title": "秦嬴 / Qin Ying",
+    "url": "/wiki/entities/qinying/"
   },
   "QinZong": {
     "title": "秦总",
@@ -32986,6 +33034,10 @@
   "RuhollahKhomeini": {
     "title": "Ruhollah Khomeini",
     "url": "/wiki/entities/ruhollahkhomeini/"
+  },
+  "RuiqiJiangtouZizhiTongjian": {
+    "title": "芮淇讲透资治通鉴 / Ruiqi Jiangtou Zizhi Tongjian",
+    "url": "/wiki/entities/ruiqijiangtouzizhitongjian/"
   },
   "RuleBoundOverthinking": {
     "title": "Rule-Bound Overthinking / 规则化过度思考",
@@ -34774,6 +34826,10 @@
   "SimaQian": {
     "title": "司马迁 / Sima Qian",
     "url": "/wiki/entities/simaqian/"
+  },
+  "SimaRangju": {
+    "title": "司马穰苴 / Sima Rangju",
+    "url": "/wiki/entities/simarangju/"
   },
   "Similac": {
     "title": "Similac",
@@ -40367,6 +40423,14 @@
     "title": "Wei Qing / 韦青",
     "url": "/wiki/entities/weiqing/"
   },
+  "WeiState": {
+    "title": "魏国 / Wei State",
+    "url": "/wiki/entities/weistate/"
+  },
+  "WeiWenhou": {
+    "title": "魏文侯 / Marquis Wen of Wei",
+    "url": "/wiki/entities/weiwenhou/"
+  },
   "WeiXi": {
     "title": "魏熙",
     "url": "/wiki/entities/weixi/"
@@ -41027,6 +41091,10 @@
     "title": "吴立伟 / Wu Liwei",
     "url": "/wiki/entities/wuliwei/"
   },
+  "WuQi": {
+    "title": "吴起 / Wu Qi",
+    "url": "/wiki/entities/wuqi/"
+  },
   "WuQingIncense": {
     "title": "吴清 / Wu Qing (incense)",
     "url": "/wiki/entities/wuqingincense/"
@@ -41146,6 +41214,10 @@
   "Wuzhiqi": {
     "title": "无支祁",
     "url": "/wiki/entities/wuzhiqi/"
+  },
+  "Wuzi": {
+    "title": "《吴子》 / Wuzi",
+    "url": "/wiki/entities/wuzi/"
   },
   "Wyscout": {
     "title": "Wyscout",
@@ -41618,6 +41690,22 @@
   "YanLiangFangxuehou": {
     "title": "严良（《放学后的小巷》）",
     "url": "/wiki/entities/yanliangfangxuehou/"
+  },
+  "YanMinGong": {
+    "title": "燕闵公 / Duke Min of Yan",
+    "url": "/wiki/entities/yanmingong/"
+  },
+  "YanState": {
+    "title": "燕国 / Yan State",
+    "url": "/wiki/entities/yanstate/"
+  },
+  "YanXiGong": {
+    "title": "燕僖公 / Duke Xi of Yan",
+    "url": "/wiki/entities/yanxigong/"
+  },
+  "YanYing": {
+    "title": "晏婴 / Yan Ying",
+    "url": "/wiki/entities/yanying/"
   },
   "YangBing": {
     "title": "杨冰 / Yang Bing",
@@ -42515,6 +42603,10 @@
     "title": "Zheng Chenggong / 郑成功",
     "url": "/wiki/entities/zhengchenggong/"
   },
+  "ZhengWenGong": {
+    "title": "郑文公 / Duke Wen of Zheng",
+    "url": "/wiki/entities/zhengwengong/"
+  },
   "ZhengYou": {
     "title": "郑游",
     "url": "/wiki/entities/zhengyou/"
@@ -42619,6 +42711,10 @@
     "title": "中植集团",
     "url": "/wiki/entities/zhongzhigroup/"
   },
+  "ZhouAnWang": {
+    "title": "周安王 / King An of Zhou",
+    "url": "/wiki/entities/zhouanwang/"
+  },
   "ZhouDaguan": {
     "title": "周达观 / Zhou Daguan",
     "url": "/wiki/entities/zhoudaguan/"
@@ -42662,6 +42758,14 @@
   "ZhouQunfei": {
     "title": "Zhou Qunfei",
     "url": "/wiki/entities/zhouqunfei/"
+  },
+  "ZhouRoyalHouse": {
+    "title": "周王室 / Zhou Royal House",
+    "url": "/wiki/entities/zhouroyalhouse/"
+  },
+  "ZhouWeilieWang": {
+    "title": "周威烈王 / King Weilie of Zhou",
+    "url": "/wiki/entities/zhouweiliewang/"
   },
   "ZhouXinian": {
     "title": "Zhou Xinian / 周希年",
@@ -42739,6 +42843,10 @@
     "title": "Zhushan Eight Friends / 珠山八友",
     "url": "/wiki/entities/zhushaneightfriends/"
   },
+  "ZhushuJinian": {
+    "title": "《竹书纪年》 / Bamboo Annals",
+    "url": "/wiki/entities/zhushujinian/"
+  },
   "Zhuzhu": {
     "title": "助助",
     "url": "/wiki/entities/zhuzhu/"
@@ -42758,6 +42866,10 @@
   "ZincPopcornBuckets": {
     "title": "Zinc (popcorn-bucket design)",
     "url": "/wiki/entities/zincpopcornbuckets/"
+  },
+  "ZizhiTongjian": {
+    "title": "《资治通鉴》 / Zizhi Tongjian",
+    "url": "/wiki/entities/zizhitongjian/"
   },
   "ZoeChase": {
     "title": "Zoe Chase",
@@ -45670,5 +45782,9 @@
   "zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1": {
     "title": "72. 中文播客活化石与真OG",
     "url": "/wiki/sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1/"
+  },
+  "zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei": {
+    "title": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（2）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei/"
   }
 }

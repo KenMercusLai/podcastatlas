@@ -2,8 +2,8 @@
 title: "司马光 / Sima Guang"
 type: entity
 tags: [official, historian, song-dynasty, china]
-sources: [105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
-last_updated: 2026-07-24
+sources: [105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
+last_updated: 2026-08-18
 ---
 
 # 司马光 / Sima Guang
@@ -12,8 +12,11 @@ Sima Guang appears in [[105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-74
 
 When Sima Guang and the old party returned to power, Su Shi objected to indiscriminate suppression of new-party measures and people. That makes Sima Guang important to the source's [[ConscienceOverFaction]] frame: Su Shi's standard is not whether "his side" wins, but whether policy and punishment remain answerable to public need and conscience.
 
+[[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] adds Sima Guang's signature historical work indirectly through [[ZizhiTongjian|《资治通鉴》]]. The episode does not discuss Sima Guang's Song politics; instead, it shows how the work's compact chronology can be read for military leadership, succession, posthumous names, and politically ambiguous assassination records.
+
 ## Connections
 - [[SuShi|苏轼 / 苏东坡]] - old-party-associated official who still criticizes old-party retaliation.
 - [[WangAnshi|王安石]], [[WangAnshiReforms|王安石变法]], and [[SongFactionalPolitics|宋代党争]] - conflict field.
 - [[NorthernSong|北宋]] - historical setting.
 - [[ConscienceOverFaction]] - main interpretive use in the source.
+- [[ZizhiTongjian|《资治通鉴》]] - historical work added through the Ruiqi episode.

@@ -2,8 +2,8 @@
 title: "战国时期 / Warring States Period"
 type: entity
 tags: [history, china, pre-qin, political-theory, warfare]
-sources: [30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
-last_updated: 2026-08-06
+sources: [30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
+last_updated: 2026-08-18
 ---
 
 # 战国时期 / Warring States Period
@@ -12,9 +12,13 @@ The Warring States Period is the historical setting for [[30-mengzi-zhanguo-fenq
 
 This page is source-scoped. Its role is to explain why [[Mengzi|孟子 / Mencius]] can be read as both idealistic and realistic: if people, scholars, and merchants can move, then [[MencianBenevolentGovernment|benevolent government]] can attract resources; if rulers chase only advantage, then [[RighteousnessOverProfit|righteousness over profit]] becomes a political critique, not only a moral slogan.
 
+[[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] adds an earlier military and chronicle branch. [[WuQi|吴起]] and [[WeiState|魏国]] show Warring States competition as a problem of training load, morale, and execution, while [[ZhouWeilieWang|周威烈王]], [[ZhouAnWang|周安王]], [[YanState|燕国]], and [[ChuState|楚国]] keep the episode anchored in annalistic succession notices.
+
 ## Connections
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode.
 - [[SpringAndAutumnPeriod|春秋时期]] and [[SpringAutumnWarfareRitual]] - adjacent earlier pre-Qin history branch.
 - [[Mengzi|孟子 / Mencius]], [[JixiaAcademy|稷下学宫]], [[Mozi|墨子]], and [[YangZhu|杨朱]] - intellectual actors and settings named by the source.
 - [[LiangHuiWang|梁惠王]] and [[QiXuanWang|齐宣王]] - ruler cases.
 - [[WangdaoVsBadao]], [[MencianBenevolentGovernment]], and [[MencianIdealismLimits]] - political concepts whose stakes depend on the period's competition.
+- [[WuQi|吴起]], [[WeiState|魏国]], and [[MilitaryMoraleThroughSharedHardship]] - military-leadership branch added by the Ruiqi episode.
+- [[PosthumousNamePolitics]] and [[BanditAssassinationAttribution]] - chronicle-reading concepts added by the Ruiqi episode.
