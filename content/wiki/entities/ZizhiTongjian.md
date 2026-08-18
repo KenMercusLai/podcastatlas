@@ -2,7 +2,7 @@
 title: "《资治通鉴》 / Zizhi Tongjian"
 type: entity
 tags: [book, history, chinese-history, historiography]
-sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-18
 ---
 
@@ -26,6 +26,8 @@ last_updated: 2026-08-18
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] adds a more explicit error-checking layer. The episode accepts the chronicle as the working frame for [[ZhouLiewang|周烈王]]'s fifth and sixth years, but flags [[QiWeiwang|齐威王]]'s visit and [[WeiWuhou|魏武侯]]'s succession disorder as likely cases of [[ChronicleChronologyDrift|chronology drift]] inherited from thin early Warring States records.
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] continues into Zhou Lie Wang's seventh year and death, then follows the Wei succession conflict into Han-Zhao intervention. The chronicle frame here supports a statecraft reading: a civil succession conflict can become an interstate settlement problem once neighboring states win the battle but disagree about what should replace the defeated order.
+
 The work's wiki role here is historiographical. Its compact chronology gives the episode a reason to ask what a phrase records plainly, what it leaves out, and when later readers should move from received statement to cautious inference.
 
 ## Connections
@@ -40,3 +42,4 @@ The work's wiki role here is historiographical. Its compact chronology gives the
 - [[EarlyWarringStatesInterstateWar]], [[Zisi|子思]], [[UseStrengthsOverFaults]], and [[CourtFeedbackCollapse]] - Zhouji 09 war and governance extension.
 - [[Shiji|《史记》]], [[TaishiDan|太史旦]], [[GenerationalFamilyStrategy]], [[StrategicCapitalRelocation]], and [[KinshipLegitimacyDiplomacy]] - Zhouji 10 source supplement, Han strategy, and Qin diplomacy extension.
 - [[ChronicleChronologyDrift]], [[SuccessionNonDesignationRisk]], [[IndependentOfficialAudit]], [[HanGui|韩廆]], and [[QiWeiwang|齐威王]] - Zhouji 10 part 2 source-error, succession, and official-evaluation extension.
+- [[ZhouXianwang|周显王]], [[ZhuozeBattle|浊泽之战]], [[SuccessionCrisisIntervention]], and [[CoalitionSettlementFailure]] - Zhouji 10 part 3 annalistic and statecraft extension.

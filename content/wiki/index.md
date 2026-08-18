@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（3）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf.md) — 芮淇讲透资治通鉴 episode on Wei Ying and Gongzhong Huan's succession war, Han-Zhao intervention at Zhuoze, the failed partition-vs-puppet settlement, and Wei Ying's rise as Liang Hui Wang.
 - [《资治通鉴·周纪》04｜豫让 为智瑶复仇](sources/zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik.md) — 芮淇讲透资治通鉴 episode on Zhi Yao's talent-without-virtue failure, Yu Rang's revenge and retainer honor, Zhao Xiangzi's conquest and succession decisions, and Zhou Weilie Wang's formal recognition of Han, Zhao, and Wei.
 - [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（2）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi.md) — 芮淇讲透资治通鉴 episode on Han court assassination, Wei succession disorder, Qi Wei Wang's contested chronology and official audits, and Chu/Song succession notices under Zhou Lie Wang.
 - [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（1）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d.md) — 芮淇讲透资治通鉴 episode on Han destroying Zheng through multi-generation family strategy and capital relocation, Taishi Dan's Qin visit, Qin's origin from Feizi to recognized statehood, and early Zhou Lie Wang war/succession notices.
@@ -1013,6 +1014,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [周显王 / King Xian of Zhou](entities/ZhouXianwang.md) — Zhou Lie Wang's younger brother and successor in the 369 BCE Zhouji 10 part 3 notice.
+- [王绰 / Wang Chuo](entities/WangChuo.md) — Wei official whose flight to Han helps reveal Wei's succession vulnerability.
+- [公孙齐 / Gongsun Qi](entities/GongsunQi.md) — Han official who advises Han Yihou to attack Wei during its succession crisis.
+- [浊泽之战 / Battle of Zhuoze](entities/ZhuozeBattle.md) — Han-Zhao victory over Wei that turns into a failed settlement after the victors disagree.
+- [安邑 / Anyi](entities/Anyi.md) — Wei capital besieged by Han and Zhao after Zhuoze before the coalition splits.
 - [智瑶 / Zhi Yao](entities/ZhiYao.md) — Defeated Jin power-holder used by Zhouji 04 for the talent-without-virtue lesson and Yu Rang revenge setup.
 - [豫让 / Yu Rang](entities/YuRang.md) — Zhi Yao's retainer whose self-destructive revenge against Zhao Xiangzi anchors the "士为知己者死" ethic.
 - [赵襄子 / Zhao Xiangzi](entities/ZhaoXiangzi.md) — Zhao Wuxu, conqueror of Dai and target of Yu Rang, whose succession decisions shape the Zhao branch.
@@ -6910,6 +6916,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Succession-Crisis Intervention / 继承危机外部干预](concepts/SuccessionCrisisIntervention.md) — Pattern where unresolved succession invites outside powers to back claimants, seize leverage, or redesign a target state.
+- [Coalition Settlement Failure / 联军战后安排失败](concepts/CoalitionSettlementFailure.md) — Pattern where a victorious coalition cannot convert battlefield success into political settlement because members want different outcomes.
 - [Talent-Virtue Distinction / 才德之分](concepts/TalentVirtueDistinction.md) — Sima Guang personnel-judgment frame where talent without virtue can be more dangerous than incompetence.
 - [Retainer Reciprocity Ethic / 士为知己者死](concepts/RetainerReciprocityEthic.md) — Yu Rang honor logic where exceptional patron recognition creates exceptional repayment obligation.
 - [Partition of Jin / 三家分晋](concepts/PartitionOfJin.md) — Staggered Jin-to-Three-Jin transition with 453 BCE, 403 BCE, and 376 BCE treated as distinct thresholds.

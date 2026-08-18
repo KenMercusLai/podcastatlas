@@ -2,7 +2,7 @@
 title: "赵成侯 / Marquis Cheng of Zhao"
 type: entity
 tags: [person, ruler, pre-qin, zhao-state]
-sources: [zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+sources: [zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-18
 ---
 
@@ -12,9 +12,11 @@ last_updated: 2026-08-18
 
 The page is source-scoped. Zhao Chenghou matters here because the following fourth-year notice shows [[ZhaoState|赵国]] taking an energetic posture against [[WeiState|魏国]] soon after the succession.
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] adds a later decision during the Wei succession crisis. Zhao Chenghou joins [[HanYihou|韩懿侯]] against [[WeiState|魏国]] and supports a settlement that would kill [[LiangHuiWang|魏罃]], install [[GongzhongHuan|公中缓]], and take land. The plan fails when Han prefers partition and withdraws.
+
 ## Connections
 - [[ZhaoState|赵国]] - polity he rules.
 - [[ZhaoJinghou|赵靖侯]] - predecessor in the source notice.
 - [[ZhouLiewang|周烈王]] and [[ZizhiTongjian|《资治通鉴》]] - annalistic frame.
 - [[WeiState|魏国]] and [[TerritorialControlChurn]] - later conflict context in the same episode.
-
+- [[HanYihou|韩懿侯]], [[GongzhongHuan|公中缓]], [[ZhuozeBattle|浊泽之战]], [[SuccessionCrisisIntervention]], and [[CoalitionSettlementFailure]] - part 3 intervention and failed settlement.

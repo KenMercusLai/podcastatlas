@@ -2,7 +2,7 @@
 title: "周烈王 / King Lie of Zhou"
 type: entity
 tags: [person, ruler, zhou-dynasty, pre-qin]
-sources: [zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-18
 ---
 
@@ -16,6 +16,8 @@ The page is source-scoped. Zhou Lie Wang matters here as a chronological hinge: 
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] continues years five and six. The source covers [[WeiState|魏国]] attacking [[ChuState|楚国]], [[HanAihou|韩哀侯]]'s death in the [[HanGui|韩廆]] / [[YanZhongzi|严遂]] assassination crisis, [[WeiWuhou|魏武侯]]'s succession disorder, [[QiWeiwang|齐威王]]'s disputed chronology and official audits, Zhao and Wei military notices, and the successions of [[ChuXuanwang|楚宣王]] and [[SongTicheng|宋剔成]].
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] records Zhou Lie Wang's seventh year and death. His younger brother [[ZhouXianwang|周显王]] succeeds, while the episode's main action follows [[HanState|韩国]] and [[ZhaoState|赵国]] intervening in Wei's unresolved succession war.
+
 ## Connections
 - [[ZhouRoyalHouse|周王室]] - dynastic setting.
 - [[ZhouAnWang|周安王]] - predecessor and father in the source.
@@ -23,3 +25,4 @@ The page is source-scoped. Zhou Lie Wang matters here as a chronological hinge: 
 - [[WarringStatesPeriod|战国时期]] - period in which the Zhou king remains a chronology marker while power shifts elsewhere.
 - [[HanState|韩国]], [[ZhengState|郑国]], [[TaishiDan|太史旦]], [[QinState|秦国]], [[ZhaoChenghou|赵成侯]], and [[WeyState|卫国]] - Zhouji 10 reign-year events.
 - [[HanGui|韩廆]], [[SuccessionNonDesignationRisk]], [[ChronicleChronologyDrift]], [[IndependentOfficialAudit]], [[ChuXuanwang|楚宣王]], and [[SongTicheng|宋剔成]] - Zhouji 10 part 2 reign-year events.
+- [[ZhouXianwang|周显王]], [[ZhuozeBattle|浊泽之战]], [[SuccessionCrisisIntervention]], and [[CoalitionSettlementFailure]] - Zhouji 10 part 3 death, accession, and Wei-crisis events.

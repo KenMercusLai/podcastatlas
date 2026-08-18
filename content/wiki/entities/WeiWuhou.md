@@ -2,7 +2,7 @@
 title: "魏武侯 / Marquis Wu of Wei"
 type: entity
 tags: [person, ruler, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-18
 ---
 
@@ -22,6 +22,8 @@ The same source also makes Wei Wuhou vulnerable to court manipulation. [[Gongshu
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] closes Wei Wuhou's reign with [[SuccessionNonDesignationRisk]]. The source says he dies without clearly designating an heir, leaving [[LiangHuiWang|魏罃]] and [[GongzhongHuan|公中缓]] to fight and throwing [[WeiState|魏国]] into disorder; the host says this event is probably misplaced in the annalistic sequence.
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] shows the posthumous cost of that non-designation. The succession conflict gives [[HanState|韩国]] and [[ZhaoState|赵国]] an opening to defeat Wei, besiege [[Anyi|安邑]], and nearly redesign the state.
+
 ## Connections
 - [[WeiState|魏国]] - polity he rules.
 - [[WeiWenhou|魏文侯]] - predecessor and father in the source.
@@ -31,3 +33,4 @@ The same source also makes Wei Wuhou vulnerable to court manipulation. [[Gongshu
 - [[ChuState|楚国]] and [[WarringStatesReformBacklash]] - downstream branch after Wu Qi's flight.
 - [[EarlyWarringStatesInterstateWar]], [[ZhongshanState|中山国]], and [[WeiZhi|魏挚]] - Zhouji 09 interstate-war and frontier-control branch.
 - [[LiangHuiWang|魏罃 / 梁惠王]], [[GongzhongHuan|公中缓]], [[SuccessionNonDesignationRisk]], and [[ChronicleChronologyDrift]] - Zhouji 10 part 2 succession-disorder branch.
+- [[ZhuozeBattle|浊泽之战]], [[Anyi|安邑]], [[SuccessionCrisisIntervention]], and [[CoalitionSettlementFailure]] - Zhouji 10 part 3 consequences of unresolved succession.

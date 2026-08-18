@@ -2,7 +2,7 @@
 title: "赵国 / Zhao State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-18
 ---
 
@@ -22,6 +22,8 @@ The page is source-scoped. Zhao's wiki role here is to anchor the episode's clai
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] continues Zhao's aggressive role in the next year cluster. The source says Zhao attacks [[QiState|齐国]] as far as Juan, while [[WeiState|魏国]] defeats Zhao at Huai.
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] makes Zhao a direct outside patron in Wei's succession fight. [[GongzhongHuan|公中缓]] seeks Zhao help, and [[ZhaoChenghou|赵成侯]] joins [[HanYihou|韩懿侯]] to defeat Wei at [[ZhuozeBattle|浊泽之战]]. Zhao's preferred settlement would install Gongzhong Huan and take land, but Han's partition plan prevents agreement.
+
 ## Connections
 - [[ZhaoLiehou|赵烈侯]] and [[ZhaoWuhou|赵武侯]] - succession pair in the source.
 - [[ZhaoXiangzi|赵襄子]], [[YuRang|豫让]], [[DaiState|代国]], [[ZhaoHuanzi|赵桓子]], and [[ZhaoXianzi|赵献子]] - Zhouji 04 pre-recognition and succession branch.
@@ -32,3 +34,4 @@ The page is source-scoped. Zhao's wiki role here is to anchor the episode's clai
 - [[EarlyWarringStatesInterstateWar]], [[ChuSuwang|楚肃王]], and [[JinJinggong|晋静公]] - Zhouji 09 war and Jin-ending branch.
 - [[ZhaoChenghou|赵成侯]], [[ZhouLiewang|周烈王]], [[WeiState|魏国]], and [[TerritorialControlChurn]] - Zhouji 10 succession and conflict branch.
 - [[QiState|齐国]], [[WeiState|魏国]], and [[QiWeiwang|齐威王]] - Zhouji 10 part 2 military-pressure context.
+- [[GongzhongHuan|公中缓]], [[HanYihou|韩懿侯]], [[ZhuozeBattle|浊泽之战]], [[SuccessionCrisisIntervention]], and [[CoalitionSettlementFailure]] - Zhouji 10 part 3 intervention and failed settlement.

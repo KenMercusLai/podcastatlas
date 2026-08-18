@@ -4255,6 +4255,10 @@
     "title": "Anybots",
     "url": "/wiki/entities/anybots/"
   },
+  "Anyi": {
+    "title": "安邑 / Anyi",
+    "url": "/wiki/entities/anyi/"
+  },
   "AoyagiAito": {
     "title": "青柳碧人 / Aoyagi Aito",
     "url": "/wiki/entities/aoyagiaito/"
@@ -9038,6 +9042,10 @@
   "Coalfire": {
     "title": "Coalfire",
     "url": "/wiki/entities/coalfire/"
+  },
+  "CoalitionSettlementFailure": {
+    "title": "Coalition Settlement Failure / 联军战后安排失败",
+    "url": "/wiki/concepts/coalitionsettlementfailure/"
   },
   "CoastAirService": {
     "title": "Coast Air Service",
@@ -16510,6 +16518,10 @@
   "GongshuWeiChancellor": {
     "title": "公叔 / Gongshu (Wei chancellor)",
     "url": "/wiki/entities/gongshuweichancellor/"
+  },
+  "GongsunQi": {
+    "title": "公孙齐 / Gongsun Qi",
+    "url": "/wiki/entities/gongsunqi/"
   },
   "GongzhongHuan": {
     "title": "公中缓 / Gongzhong Huan",
@@ -36807,6 +36819,10 @@
     "title": "Succession as Continuous Entrepreneurship / 接班即持续创业",
     "url": "/wiki/concepts/successionascontinuousentrepreneurship/"
   },
+  "SuccessionCrisisIntervention": {
+    "title": "Succession-Crisis Intervention / 继承危机外部干预",
+    "url": "/wiki/concepts/successioncrisisintervention/"
+  },
   "SuccessionNonDesignationRisk": {
     "title": "Succession Non-Designation Risk / 未定继承人风险",
     "url": "/wiki/concepts/successionnondesignationrisk/"
@@ -40315,6 +40331,10 @@
     "title": "王朝云 / Wang Chaoyun",
     "url": "/wiki/entities/wangchaoyun/"
   },
+  "WangChuo": {
+    "title": "王绰 / Wang Chuo",
+    "url": "/wiki/entities/wangchuo/"
+  },
   "WangDafu": {
     "title": "Wang Dafu",
     "url": "/wiki/entities/wangdafu/"
@@ -43195,6 +43215,10 @@
     "title": "周威烈王 / King Weilie of Zhou",
     "url": "/wiki/entities/zhouweiliewang/"
   },
+  "ZhouXianwang": {
+    "title": "周显王 / King Xian of Zhou",
+    "url": "/wiki/entities/zhouxianwang/"
+  },
   "ZhouXiaowang": {
     "title": "周孝王 / King Xiao of Zhou",
     "url": "/wiki/entities/zhouxiaowang/"
@@ -43266,6 +43290,10 @@
   "ZhuoRui": {
     "title": "卓瑞 / Zhuo Rui",
     "url": "/wiki/entities/zhuorui/"
+  },
+  "ZhuozeBattle": {
+    "title": "浊泽之战 / Battle of Zhuoze",
+    "url": "/wiki/entities/zhuozebattle/"
   },
   "Zhuque3": {
     "title": "Zhuque-3 / 朱雀三号",
@@ -46262,5 +46290,9 @@
   "zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi": {
     "title": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（2）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi/"
+  },
+  "zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf": {
+    "title": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（3）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf/"
   }
 }

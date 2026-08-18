@@ -2,8 +2,8 @@
 title: "司马迁 / Sima Qian"
 type: entity
 tags: [historian, chinese-history, writing]
-sources: [164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
-last_updated: 2026-08-06
+sources: [164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+last_updated: 2026-08-18
 ---
 
 # 司马迁 / Sima Qian
@@ -12,8 +12,11 @@ Sima Qian appears in [[164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-b
 
 The most important source claim is historiographical. QinZong notes that Sima Qian still places [[XiangYu|项羽]] in the imperial annals despite his brutality and ultimate defeat, because Xiang Yu changed history and retained a kind of moral face that a purely success-based account would miss.
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] adds Sima Qian as a Warring States commentator through the [[Shiji|《史记》]] tradition. The episode cites his explanation that [[LiangHuiWang|魏罃]] survives and [[WeiState|魏国]] avoids division because [[HanState|韩国]] and [[ZhaoState|赵国]] cannot align their plans after victory.
+
 ## Connections
 - [[HongmenYan|《鸿门宴》]] - narrative scene discussed in the episode.
 - [[XiangYu|项羽]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], [[FanZeng|范增]], and [[FanKuai|樊哙]] - figures in the source reading.
 - [[ShangShumiHanTaiweiShu|《上枢密韩太尉书》]] and [[SuZhe|苏辙]] - "养气" and experience branch.
 - [[MoralFaceUnderPowerCompetition]], [[HistoricalDetectiveReasoning]], and [[ClassicalProseReading]] - interpretive frames.
+- [[Shiji|《史记》]], [[WeiState|魏国]], [[LiangHuiWang|魏罃 / 梁惠王]], and [[CoalitionSettlementFailure]] - Warring States judgment added by Zhouji 10 part 3.
