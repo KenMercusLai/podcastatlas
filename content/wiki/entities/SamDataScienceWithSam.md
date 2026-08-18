@@ -2,17 +2,19 @@
 title: "Sam (Data Science With Sam)"
 type: entity
 tags: [podcast-host, data-science, ai]
-sources: [ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker, ep-11-growing-technology-footprints-in-insurance-sector, ep-12-insightful-conversation-with-a-football-analytics-professional, ep-9-chatgpt-and-education-systems, ep-8-implementation-of-ai-in-scientific-research, ep-7-data-science-mlops, ep-6-data-science-ai-talk, ep-5-implementation-of-data-science-in-cybersecurity, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, ep-3-demystifying-the-imposter-syndrome, data-risk-and-actuarial-science-in-insurance, data-ai-and-scientific-research-a-coffee-chat]
+sources: [ep-13-soccer-analytics-through-the-lens-of-coaching, ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker, ep-11-growing-technology-footprints-in-insurance-sector, ep-12-insightful-conversation-with-a-football-analytics-professional, ep-9-chatgpt-and-education-systems, ep-8-implementation-of-ai-in-scientific-research, ep-7-data-science-mlops, ep-6-data-science-ai-talk, ep-5-implementation-of-data-science-in-cybersecurity, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, ep-3-demystifying-the-imposter-syndrome, data-risk-and-actuarial-science-in-insurance, data-ai-and-scientific-research-a-coffee-chat]
 last_updated: 2026-08-18
 ---
 
 # Sam (Data Science With Sam)
 
+In [[ep-13-soccer-analytics-through-the-lens-of-coaching]], Sam frames [[SportsAnalytics]] as a coaching, scouting, and player-development practice. His questions move [[BrunoSoccerCoach|Bruno]] from Portuguese soccer background and mentoring into [[ExpectedGoalsProcessMetric]], [[LiveMatchAnalytics]], [[PlayerDevelopmentAnalytics]], [[SoccerScoutingDueDiligence]], and [[YouthSoccerAccessInequality]].
+
 In [[ep-11-growing-technology-footprints-in-insurance-sector]], Sam frames [[InsuranceTechnologyModernization]] as a practical business-user issue inside insurance. His questions move [[NickBlamer|Nick Blamer]] from mainframes, cloud, and APIs into [[MicrosoftExcel|Excel]] as a persistent work surface, [[CoherentSpark]], [[SpreadsheetToAPIGovernance]], technical literacy for insurance professionals, and generative AI governance around privacy, regulation, and model bias.
 
 In [[ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker]], Sam frames [[ActuarialScience]] as both a data-science-adjacent career and a domain-accountability profession. His questions move [[CharlesJohnson|Charles Johnson]] from exam preparation and continuous learning into [[ActuaryDataScientistPartnership]], automated underwriting, [[ActuarialAIAugmentation]], [[ChatGPT]], and why data scientists in insurance still need actuarial subject-matter expertise.
 
-Sam is the [[DataScienceWithSam]] host in [[ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker]], [[ep-12-insightful-conversation-with-a-football-analytics-professional]], [[ep-9-chatgpt-and-education-systems]], [[ep-8-implementation-of-ai-in-scientific-research]], [[ep-7-data-science-mlops]], [[ep-6-data-science-ai-talk]], [[ep-5-implementation-of-data-science-in-cybersecurity]], [[ep-4-a-i-talk-with-a-rocket-scientist-from-nasa]], [[data-risk-and-actuarial-science-in-insurance]], and [[data-ai-and-scientific-research-a-coffee-chat]]. The sources identify him by first name only, so this page keeps his role source-scoped rather than inferring a full identity.
+Sam is the [[DataScienceWithSam]] host in [[ep-13-soccer-analytics-through-the-lens-of-coaching]], [[ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker]], [[ep-12-insightful-conversation-with-a-football-analytics-professional]], [[ep-9-chatgpt-and-education-systems]], [[ep-8-implementation-of-ai-in-scientific-research]], [[ep-7-data-science-mlops]], [[ep-6-data-science-ai-talk]], [[ep-5-implementation-of-data-science-in-cybersecurity]], [[ep-4-a-i-talk-with-a-rocket-scientist-from-nasa]], [[data-risk-and-actuarial-science-in-insurance]], and [[data-ai-and-scientific-research-a-coffee-chat]]. The sources identify him by first name only, so this page keeps his role source-scoped rather than inferring a full identity.
 
 In [[ep-12-insightful-conversation-with-a-football-analytics-professional]], Sam frames [[SportsAnalytics]] as a data-science field already spreading across sports such as soccer, baseball, cricket, and basketball. His questions move [[AnnaDSouza|Anna D'Souza]] from career path and football domain knowledge into [[DataDrivenFootballScouting]], [[AthleteDataPrivacyGovernance]], [[FootballEventTrackingData]], [[SportsPredictiveModeling]], and AI/machine-learning adoption in sport.
 
@@ -36,7 +38,7 @@ In the actuarial episode, Sam frames the conversation around how [[ActuarialScie
 
 ## Connections
 - [[DataScienceWithSam]] - show context.
-- [[NickBlamer]], [[CharlesJohnson]], [[AnnaDSouza]], [[JosephStrader]], [[LucasSimon]], [[AaronBlythe]], [[PaulinaNemkova]], [[BenjaminLarson]], [[KofiBrowning]], [[StephenMathis]], [[MaryPatCampbell]], [[EffieDataScienceWithSam]], and [[MossamDataScienceWithSam]] - guests in the Data Science With Sam sources.
+- [[BrunoSoccerCoach]], [[NickBlamer]], [[CharlesJohnson]], [[AnnaDSouza]], [[JosephStrader]], [[LucasSimon]], [[AaronBlythe]], [[PaulinaNemkova]], [[BenjaminLarson]], [[KofiBrowning]], [[StephenMathis]], [[MaryPatCampbell]], [[EffieDataScienceWithSam]], and [[MossamDataScienceWithSam]] - guests in the Data Science With Sam sources.
 - [[AIForScience]], [[DomainExpertAlignment]], and [[HumanDrivenScientificAI]] - themes Sam explicitly frames.
 - [[NontraditionalAIResearchPath]], [[AcademicAIResearchRole]], [[AIResearchLiteratureCurrency]], and [[EEGBrainReading]] - academic AI research branch Sam frames through Paulina's examples.
 - [[NASA]], [[SpaceImageryAI]], [[SpaceflightAIDatasetScarcity]], and [[EVAGloveInspectionAI]] - space-AI branch Sam frames through Kofi's examples.
@@ -49,3 +51,4 @@ In the actuarial episode, Sam frames the conversation around how [[ActuarialScie
 - [[Bioinformatics]], [[ComputationalBiology]], [[SingleCellRNASequencing]], and [[BiomedicalDeepLearning]] - biomedical-research AI theme Sam introduces in EP8.
 - [[ChatGPT]], [[AIAcademicIntegrity]], [[TeacherAILiteracy]], and [[K12ComputerScienceAccess]] - education-systems AI theme Sam introduces in EP9.
 - [[SportsAnalytics]], [[SportsAnalyticsStakeholderCommunication]], [[DataDrivenFootballScouting]], [[AthleteDataPrivacyGovernance]], [[FootballEventTrackingData]], and [[SportsPredictiveModeling]] - sports analytics theme Sam introduces in EP12.
+- [[CoachingIntegratedSoccerAnalytics]], [[ExpectedGoalsProcessMetric]], [[LiveMatchAnalytics]], [[PlayerDevelopmentAnalytics]], [[SoccerScoutingDueDiligence]], and [[YouthSoccerAccessInequality]] - coaching-centered soccer analytics theme Sam introduces in EP13.

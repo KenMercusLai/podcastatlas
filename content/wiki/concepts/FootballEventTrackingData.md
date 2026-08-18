@@ -2,7 +2,7 @@
 title: "Football Event and Tracking Data"
 type: concept
 tags: [football, data, computer-vision, analytics]
-sources: [ep-12-insightful-conversation-with-a-football-analytics-professional]
+sources: [ep-13-soccer-analytics-through-the-lens-of-coaching, ep-12-insightful-conversation-with-a-football-analytics-professional]
 last_updated: 2026-08-18
 ---
 
@@ -14,15 +14,19 @@ The source distinguishes on-ball and off-ball information. On-ball events may be
 
 The concept links applied football analytics to both scouting and modeling. It can support [[DataDrivenFootballScouting]] by making player actions comparable, while also supporting [[SportsPredictiveModeling]] through richer variables for match, possession, counterattack, or penalty analysis.
 
+[[ep-13-soccer-analytics-through-the-lens-of-coaching]] adds the coaching-facing version through [[BrunoSoccerCoach|Bruno]]. GPS tracking, distance covered, heat maps, passing direction, passing volume, passing patterns, and high-angle match video become useful when they reveal overused space, opponent overloads, inefficient running, or cues for halftime adjustment in [[LiveMatchAnalytics]].
+
 ## Key Claims
 - Football analytics depends on event and tracking data that are often messy before analysis.
 - On-ball and off-ball information require different collection and synchronization methods.
 - Computer vision can help capture off-ball movement that ordinary event data misses.
 - Data formats such as JSON, text files, event feeds, and video-derived records become part of the analyst's everyday work.
 - Synchronization work can be as important as the downstream model because mismatched data can distort the football question.
+- Coaching use often starts with simpler event, tracking, and video summaries that can be explained quickly enough to affect training or a match.
 
 ## Connections
 - [[AnnaDSouza]], [[SportsAnalytics]], and [[FootballAnalyticsModernization]] - source and domain context.
 - [[StatsBomb]] and [[FIFA]] - organizations named in the source around data and ML examples.
 - [[SportsOfficiatingAutomation]] - adjacent technology branch through referee and tracking systems.
 - [[DataDrivenFootballScouting]], [[SportsPredictiveModeling]], and [[AthleteDataPrivacyGovernance]] - scouting, modeling, and governance uses.
+- [[BrunoSoccerCoach]], [[LiveMatchAnalytics]], [[CoachingIntegratedSoccerAnalytics]], and [[PlayerDevelopmentAnalytics]] - coaching-facing uses added by EP13.

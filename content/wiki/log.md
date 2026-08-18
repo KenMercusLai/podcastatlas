@@ -7869,3 +7869,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-18] ingest | EP 13: Soccer Analytics Through the Lens of Coaching
+
+Added source page for a Data Science With Sam episode with Bruno on coaching-integrated soccer analytics, expected goals as a process metric, live match analysis, player development, scouting due diligence, and youth soccer access inequality. Created pages for Bruno (Soccer Coach), Sporting Lisbon, Houston Dynamo, Wyscout, Ruben Amorim, Coaching-Integrated Soccer Analytics, Expected Goals as Process Metric, Live Match Analytics, Player Development Analytics, Soccer Scouting Due Diligence, and Youth Soccer Access Inequality; updated overview, index, Data Science With Sam, Sam (Data Science With Sam), Sports Analytics, Sports Analytics Stakeholder Communication, Football Analytics Modernization, Data-Driven Football Scouting, Football Event and Tracking Data, Sports Predictive Modeling, and Open Football Talent Markets. No direct contradiction found; the source extends the existing football analytics branch by showing that metrics and scouting platforms only become useful when coaches translate them into training, in-game adaptation, player trust, and human due diligence.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+Health passed with no empty/stub files, index drift, or source-log coverage gaps across 11,196 linted wiki pages. Lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-08-12 with 10,690 nodes and 116,995 edges while lint scanned 11,196 pages; they found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -6379,6 +6379,10 @@
     "title": "Bruce Taylor",
     "url": "/wiki/entities/brucetaylor/"
   },
+  "BrunoSoccerCoach": {
+    "title": "Bruno (Soccer Coach)",
+    "url": "/wiki/entities/brunosoccercoach/"
+  },
   "BrushUpLife": {
     "title": "重启人生 / Brush Up Life",
     "url": "/wiki/entities/brushuplife/"
@@ -8758,6 +8762,10 @@
   "CoFounderRelationshipMaintenance": {
     "title": "Co-Founder Relationship Maintenance",
     "url": "/wiki/concepts/cofounderrelationshipmaintenance/"
+  },
+  "CoachingIntegratedSoccerAnalytics": {
+    "title": "Coaching-Integrated Soccer Analytics",
+    "url": "/wiki/concepts/coachingintegratedsocceranalytics/"
   },
   "Coalfire": {
     "title": "Coalfire",
@@ -13214,6 +13222,10 @@
   "Exor": {
     "title": "Exor",
     "url": "/wiki/entities/exor/"
+  },
+  "ExpectedGoalsProcessMetric": {
+    "title": "Expected Goals as Process Metric",
+    "url": "/wiki/concepts/expectedgoalsprocessmetric/"
   },
   "ExpediaGroup": {
     "title": "Expedia Group",
@@ -17890,6 +17902,10 @@
   "HousingWealthAffordabilityTension": {
     "title": "Housing Wealth Affordability Tension",
     "url": "/wiki/concepts/housingwealthaffordabilitytension/"
+  },
+  "HoustonDynamo": {
+    "title": "Houston Dynamo",
+    "url": "/wiki/entities/houstondynamo/"
   },
   "HoustonRockets": {
     "title": "Houston Rockets",
@@ -22770,6 +22786,10 @@
   "LiveHumanFeeling": {
     "title": "活人感 / Live Human Feeling",
     "url": "/wiki/concepts/livehumanfeeling/"
+  },
+  "LiveMatchAnalytics": {
+    "title": "Live Match Analytics",
+    "url": "/wiki/concepts/livematchanalytics/"
   },
   "LiveSportsStreamingTransition": {
     "title": "Live Sports Streaming Transition",
@@ -29239,6 +29259,10 @@
     "title": "PlayStation",
     "url": "/wiki/entities/playstation/"
   },
+  "PlayerDevelopmentAnalytics": {
+    "title": "Player Development Analytics",
+    "url": "/wiki/concepts/playerdevelopmentanalytics/"
+  },
   "PlayerHousingAsLaborBenefit": {
     "title": "Player Housing as Labor Benefit",
     "url": "/wiki/concepts/playerhousingaslaborbenefit/"
@@ -32267,6 +32291,10 @@
     "title": "Ruan Yisan / 阮仪三",
     "url": "/wiki/entities/ruanyisan/"
   },
+  "RubenAmorim": {
+    "title": "Ruben Amorim",
+    "url": "/wiki/entities/rubenamorim/"
+  },
   "RuchiGupta": {
     "title": "Ruchi Gupta",
     "url": "/wiki/entities/ruchigupta/"
@@ -34363,6 +34391,10 @@
     "title": "Soap Opera Effect",
     "url": "/wiki/concepts/soapoperaeffect/"
   },
+  "SoccerScoutingDueDiligence": {
+    "title": "Soccer Scouting Due Diligence",
+    "url": "/wiki/concepts/soccerscoutingduediligence/"
+  },
   "Soccernomics": {
     "title": "Soccernomics / 《足球经济学》",
     "url": "/wiki/entities/soccernomics/"
@@ -34818,6 +34850,10 @@
   "SpontaneousGenerationLifeOrigin": {
     "title": "Spontaneous Generation As Life-Origin Frame / 自然发生论作为生命起源框架",
     "url": "/wiki/concepts/spontaneousgenerationlifeorigin/"
+  },
+  "SportingLisbon": {
+    "title": "Sporting Lisbon",
+    "url": "/wiki/entities/sportinglisbon/"
   },
   "SportsAnalytics": {
     "title": "Sports Analytics",
@@ -40303,6 +40339,10 @@
     "title": "无支祁",
     "url": "/wiki/entities/wuzhiqi/"
   },
+  "Wyscout": {
+    "title": "Wyscout",
+    "url": "/wiki/entities/wyscout/"
+  },
   "XACT": {
     "title": "XACT",
     "url": "/wiki/entities/xact/"
@@ -41158,6 +41198,10 @@
   "YouthPrecarityPolitics": {
     "title": "Youth Precarity Politics",
     "url": "/wiki/concepts/youthprecaritypolitics/"
+  },
+  "YouthSoccerAccessInequality": {
+    "title": "Youth Soccer Access Inequality",
+    "url": "/wiki/concepts/youthsocceraccessinequality/"
   },
   "YouyangZazu": {
     "title": "《酉阳杂俎》 / Youyang Zazu",
@@ -42514,6 +42558,10 @@
   "ep-12-insightful-conversation-with-a-football-analytics-professional": {
     "title": "EP 12: Insightful Conversation with a Football Analytics Professional",
     "url": "/wiki/sources/ep-12-insightful-conversation-with-a-football-analytics-professional/"
+  },
+  "ep-13-soccer-analytics-through-the-lens-of-coaching": {
+    "title": "EP 13: Soccer Analytics Through the Lens of Coaching",
+    "url": "/wiki/sources/ep-13-soccer-analytics-through-the-lens-of-coaching/"
   },
   "ep-3-demystifying-the-imposter-syndrome": {
     "title": "EP 3: Demystifying the Imposter Syndrome",
