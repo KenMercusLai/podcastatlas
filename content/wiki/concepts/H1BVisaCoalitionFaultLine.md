@@ -2,8 +2,8 @@
 title: "H-1B Visa Coalition Fault Line"
 type: concept
 tags: [immigration, labor, technology, politics]
-sources: [bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128]
-last_updated: 2026-07-25
+sources: [bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+last_updated: 2026-08-18
 ---
 
 # H-1B Visa Coalition Fault Line
@@ -14,6 +14,8 @@ The source says technology leaders remain incentivized to push for more skilled-
 
 [[bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu]] adds a crypto-worker version of the same fault line. The hosts say some crypto-sector employees and technical workers are H-1B holders or future green-card applicants, so abrupt new-fee rhetoric can damage trust even when later clarification says current holders are not directly hit. The episode contrasts that unpredictability with [[HongKong]]'s crypto-friendly signal to Chinese-speaking capital and talent.
 
+[[all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]] adds Lutnick's wage-threshold version. He says H-1B makes sense for a $500,000 engineer but not for a $60,000 college graduate, making pay level a proxy for whether imported labor is seen as exceptional talent or domestic-worker displacement.
+
 ## Key Claims
 - High-skill immigration can divide a political coalition even when both sides support the same president or party.
 - Technology employers read H-1B access as labor supply and competitiveness; restrictionist factions read it as displacement or betrayal.
@@ -21,6 +23,7 @@ The source says technology leaders remain incentivized to push for more skilled-
 - The fault line extends [[MAGACoalitionFracture]] by making the conflict specifically about skilled labor, not only immigration in general.
 - Visa politics can coexist with [[TechGovernmentAccommodation]]: tech leaders may placate the administration while still pushing against its restrictionist wing.
 - The same policy shock can be read differently by crypto capital and crypto labor: pro-crypto regulation does not automatically mean skilled-immigration predictability.
+- Lutnick's source adds that the coalition split can be managed by narrowing the acceptable H-1B case to very high-paid, clearly scarce labor.
 
 ## Connections
 - [[MAGA]], [[DonaldTrump]], [[ElonMusk]], and [[SteveBannon]] - actors and factional context.
@@ -29,3 +32,4 @@ The source says technology leaders remain incentivized to push for more skilled-
 - [[TechGovernmentAccommodation]] - broader alignment pattern that the visa dispute complicates.
 - [[SuyashPasi]] and [[MarketplaceTech]] - source context.
 - [[Buxideng|不熄灯]], [[CryptocurrencyMarketStructure]], [[ChangpengZhao]], and [[HongKong]] - crypto-worker and talent-location branch added by 不熄灯 E02.
+- [[HowardLutnick|Howard Lutnick]], [[MeritBasedImmigrationFilter]], and [[GoodJobsForNonCollegeWorkers]] - wage-threshold immigration branch added by All-In.

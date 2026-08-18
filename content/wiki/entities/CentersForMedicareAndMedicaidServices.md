@@ -2,11 +2,13 @@
 title: "Centers for Medicare & Medicaid Services"
 type: entity
 tags: [government, regulator, healthcare, diagnostics]
-sources: [tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3]
-last_updated: 2026-07-23
+sources: [tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+last_updated: 2026-08-18
 ---
 
 # Centers for Medicare & Medicaid Services
+
+[[all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]] adds CMS-adjacent program context through [[Medicare]] and [[Medicaid]]. [[HowardLutnick|Howard Lutnick]] says [[Ozempic]] and [[Mounjaro]] would be available through those programs at $149 under [[MostFavoredNationDrugPricing]], and later names benefit-program checks as part of [[GovernmentBenefitFraudMatching]].
 
 [[CentersForMedicareAndMedicaidServices|Centers for Medicare & Medicaid Services]] appears in [[tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3]] as one of the regulators that inspected [[Theranos]] after the [[WallStreetJournal|Wall Street Journal]] reporting. The episode refers to the agency as CMS and says its inspections helped validate concerns [[TylerShultz|Tyler Shultz]] had been unable to make the company accept internally.
 
@@ -17,3 +19,4 @@ In Tyler's account, CMS found lab practices that put patient health in immediate
 - [[FoodAndDrugAdministration|Food and Drug Administration]] - co-regulator named in the episode's fallout section.
 - [[WallStreetJournal|Wall Street Journal]] and [[JohnCarreyrou|John Carreyrou]] - reporting path that preceded inspections.
 - [[MedicalTestingValidationIntegrity]], [[StartupGovernance]], and [[PublicServiceJournalism]] - patient-risk, oversight, and accountability concepts.
+- [[Medicare]], [[Medicaid]], [[MostFavoredNationDrugPricing]], [[Ozempic]], [[Mounjaro]], and [[GovernmentBenefitFraudMatching]] - public-program branch added by All-In.

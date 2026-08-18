@@ -2,11 +2,13 @@
 title: "Ozempic"
 type: entity
 tags: [drug, healthcare, weight-loss]
-sources: [tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+last_updated: 2026-08-18
 ---
 
 # Ozempic
+
+[[all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]] adds Ozempic to [[MostFavoredNationDrugPricing]]. [[HowardLutnick|Howard Lutnick]] says Ozempic and [[Mounjaro]] would be available through [[Medicaid]] and [[Medicare]] at $149 under the administration's drug-pricing deals.
 
 Ozempic appears in [[tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]] as the familiar reference point for [[GLP1Agonists]] and the starting demand signal behind some [[GrayMarketPeptides]] use. [[JasmineSun]] says some users first wondered whether they could obtain cheaper Ozempic-like compounds directly from Chinese manufacturers, then expanded into other injectable substances marketed around weight loss, skin, muscle, sleep, tanning, and productivity.
 
@@ -17,3 +19,4 @@ The source does not evaluate Ozempic's clinical use. It uses the product as a co
 - [[GrayMarketPeptides]] - cheaper and less controlled alternative channel discussed in the episode.
 - [[FoodAndDrugAdministration|FDA]] - regulatory distinction between approved drugs and unapproved compounds.
 - [[TechCultureBiohacking]] - cultural context that moves demand beyond weight loss alone.
+- [[MostFavoredNationDrugPricing]], [[Mounjaro]], [[Medicare]], and [[Medicaid]] - public-program pricing branch added by All-In.

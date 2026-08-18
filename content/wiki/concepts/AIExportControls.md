@@ -2,8 +2,8 @@
 title: "AI Export Controls"
 type: concept
 tags: [ai, policy, export-controls, geopolitics]
-sources: [tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-08-08
+sources: [tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+last_updated: 2026-08-18
 ---
 
 # AI Export Controls
@@ -13,6 +13,8 @@ AI export controls are state attempts to limit who can access advanced model cap
 The source contrasts AI controls with chip restrictions around [[Nvidia]] hardware. Hardware can be tracked through manufacturing, shipping, resale, and after-sales channels, while model access can be mediated by accounts, regions, contractors, proxies, and open-source releases. This makes [[FrontierModelAccessRestrictions]] a business and governance problem as much as a national-security problem.
 
 [[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] adds a more transactional chip-control case through [[NvidiaH200|Nvidia H200]] exports to [[China]]. The episode says H200 sales can resume under new security rules while giving the U.S. government a 25% sales cut, making export controls simultaneously a security, industrial-policy, and revenue mechanism.
+
+[[all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]] adds [[HowardLutnick|Howard Lutnick]]'s version of the same logic from inside [[USDepartmentOfCommerce|Commerce]]. He says [[NvidiaH20|Nvidia H20]] chips were tested before export licenses because their lower compute but higher memory profile still required scrutiny, and he frames controlled [[NvidiaH200|H200]] access as part of [[TaxpayerReturnIndustrialPolicy]].
 
 [[roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]] adds a U.S. government-review mechanism. The episode says frontier models' cyber capabilities pushed the Trump administration toward a process that is formally voluntary but can resemble a licensing regime if companies need government clearance before broad release.
 
@@ -29,6 +31,7 @@ The source contrasts AI controls with chip restrictions around [[Nvidia]] hardwa
 - Model-release review can become a control mechanism even when policy avoids the language of formal licensing.
 - Model restrictions can be inbound as well as outbound: a country may worry about foreign access to its own model capability and domestic dependence on a rival country's cheaper models.
 - Open-weight releases can make controls more difficult because the strategic object is no longer only a cloud API or a hardware shipment; it is a model artifact that users can copy, self-host, and adapt.
+- The Lutnick source adds that chip controls can be paired with testing, licenses, and revenue sharing rather than only denial.
 
 ## Connections
 - [[FrontierModelAccessRestrictions]] — implementation layer for limiting model access.
@@ -40,3 +43,4 @@ The source contrasts AI controls with chip restrictions around [[Nvidia]] hardwa
 - [[Nvidia]] and [[JensenHuang]] — hardware-control comparison.
 - [[China]], [[Alibaba]], [[ByteDance]], and [[ZhipuAI|ZAI]] - Chinese model-access branch added by Marketplace Tech.
 - [[ChineseOpenWeightAIStrategy]], [[OpenWeightReleaseBoundary]], [[AdamSiegel]], and [[CouncilOnForeignRelations|Council on Foreign Relations]] - open-weight export-control dilemma added by Marketplace Tech.
+- [[NvidiaH20|Nvidia H20]], [[NvidiaH200|Nvidia H200]], [[USDepartmentOfCommerce|U.S. Department of Commerce]], and [[TaxpayerReturnIndustrialPolicy]] - chip-license and revenue-sharing branch added by All-In.

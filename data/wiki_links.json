@@ -6567,6 +6567,10 @@
     "title": "Business-Led AI Transformation",
     "url": "/wiki/concepts/businessledaitransformation/"
   },
+  "BusinessLedGovernmentManagement": {
+    "title": "Business-Led Government Management",
+    "url": "/wiki/concepts/businessledgovernmentmanagement/"
+  },
   "BusinessLogicAPIs": {
     "title": "Business Logic APIs",
     "url": "/wiki/concepts/businesslogicapis/"
@@ -6650,6 +6654,10 @@
   "CES": {
     "title": "CES",
     "url": "/wiki/entities/ces/"
+  },
+  "CHIPSAct": {
+    "title": "CHIPS Act",
+    "url": "/wiki/entities/chipsact/"
   },
   "CIA": {
     "title": "CIA / Central Intelligence Agency / 中情局",
@@ -16251,6 +16259,10 @@
     "title": "Government AI Pace-Setting",
     "url": "/wiki/concepts/governmentaipacesetting/"
   },
+  "GovernmentBenefitFraudMatching": {
+    "title": "Government Benefit Fraud Matching",
+    "url": "/wiki/concepts/governmentbenefitfraudmatching/"
+  },
   "GovernmentDataAccountability": {
     "title": "Government Data Accountability",
     "url": "/wiki/concepts/governmentdataaccountability/"
@@ -24599,6 +24611,10 @@
     "title": "Media Work As Lifestyle / 媒体工作作为生活方式",
     "url": "/wiki/concepts/mediaworkaslifestyle/"
   },
+  "Medicaid": {
+    "title": "Medicaid",
+    "url": "/wiki/entities/medicaid/"
+  },
   "MedicalAIEducation": {
     "title": "Medical AI Education / 医学AI教育",
     "url": "/wiki/concepts/medicalaieducation/"
@@ -24654,6 +24670,10 @@
   "MedicalVisualHistory": {
     "title": "Medical Visual History",
     "url": "/wiki/concepts/medicalvisualhistory/"
+  },
+  "Medicare": {
+    "title": "Medicare",
+    "url": "/wiki/entities/medicare/"
   },
   "MedicationInteractionRisk": {
     "title": "Medication Interaction Risk",
@@ -25871,6 +25891,10 @@
     "title": "Mossam (Data Science With Sam)",
     "url": "/wiki/entities/mossamdatasciencewithsam/"
   },
+  "MostFavoredNationDrugPricing": {
+    "title": "Most-Favored-Nation Drug Pricing",
+    "url": "/wiki/concepts/mostfavorednationdrugpricing/"
+  },
   "Mosuo": {
     "title": "Mosuo",
     "url": "/wiki/entities/mosuo/"
@@ -25930,6 +25954,10 @@
   "MouYiling": {
     "title": "牟一凌 / Mou Yiling",
     "url": "/wiki/entities/mouyiling/"
+  },
+  "Mounjaro": {
+    "title": "Mounjaro",
+    "url": "/wiki/entities/mounjaro/"
   },
   "MountainGorilla": {
     "title": "Mountain Gorilla / 山地大猩猩",
@@ -27202,6 +27230,10 @@
   "NvidiaGB200NVL72": {
     "title": "Nvidia GB200 NVL72",
     "url": "/wiki/entities/nvidiagb200nvl72/"
+  },
+  "NvidiaH20": {
+    "title": "Nvidia H20",
+    "url": "/wiki/entities/nvidiah20/"
   },
   "NvidiaH200": {
     "title": "Nvidia H200",
@@ -33295,6 +33327,10 @@
     "title": "Section 230 Design Workaround",
     "url": "/wiki/concepts/section230designworkaround/"
   },
+  "Section232TariffAuthority": {
+    "title": "Section 232 Tariff Authority",
+    "url": "/wiki/concepts/section232tariffauthority/"
+  },
   "SecularHappinessAgainstIdeology": {
     "title": "Secular Happiness Against Ideology",
     "url": "/wiki/concepts/secularhappinessagainstideology/"
@@ -36551,6 +36587,10 @@
     "title": "Tariff Refund Uncertainty",
     "url": "/wiki/concepts/tariffrefunduncertainty/"
   },
+  "TariffRevenueFiscalSubstitution": {
+    "title": "Tariff Revenue Fiscal Substitution",
+    "url": "/wiki/concepts/tariffrevenuefiscalsubstitution/"
+  },
   "TariqRahman": {
     "title": "Tariq Rahman",
     "url": "/wiki/entities/tariqrahman/"
@@ -36618,6 +36658,10 @@
   "TaxiDriver": {
     "title": "Taxi Driver",
     "url": "/wiki/entities/taxidriver/"
+  },
+  "TaxpayerReturnIndustrialPolicy": {
+    "title": "Taxpayer-Return Industrial Policy",
+    "url": "/wiki/concepts/taxpayerreturnindustrialpolicy/"
   },
   "TaylorFarms": {
     "title": "Taylor Farms",
@@ -37767,6 +37811,14 @@
     "title": "Trade Adjustment Assistance",
     "url": "/wiki/concepts/tradeadjustmentassistance/"
   },
+  "TradeDealCapitalStructure": {
+    "title": "Trade Deal Capital Structure",
+    "url": "/wiki/concepts/tradedealcapitalstructure/"
+  },
+  "TradeDeficitOwnershipFrame": {
+    "title": "Trade Deficit Ownership Frame",
+    "url": "/wiki/concepts/tradedeficitownershipframe/"
+  },
   "TradeReciprocityProtectionism": {
     "title": "Trade Reciprocity Protectionism",
     "url": "/wiki/concepts/tradereciprocityprotectionism/"
@@ -38254,6 +38306,10 @@
   "USD1": {
     "title": "USD1",
     "url": "/wiki/entities/usd1/"
+  },
+  "USDepartmentOfCommerce": {
+    "title": "U.S. Department of Commerce",
+    "url": "/wiki/entities/usdepartmentofcommerce/"
   },
   "USDepartmentOfDefense": {
     "title": "US Department of Defense",
@@ -42250,6 +42306,10 @@
   "ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun": {
     "title": "阿里千问离职余震，在几万人的铁球里如何体面生存",
     "url": "/wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255": {
+    "title": "Howard Lutnick: How America Can Hit 6% GDP Growth in 2026",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790": {
     "title": "Why AI will dwarf every tech revolution before it: robots, manufacturing, AR glasses from CES 2026",

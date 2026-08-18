@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Howard Lutnick: How America Can Hit 6% GDP Growth in 2026](sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255.md) — All-In episode with Howard Lutnick on tariffs, trade-deficit ownership, Japan deal financing, MFN drug pricing, immigration filters, fraud matching, GDP-growth claims, CHIPS Act leverage, Nvidia export licenses, and Intel taxpayer-return policy.
 - [Why AI will dwarf every tech revolution before it: robots, manufacturing, AR glasses from CES 2026](sources/all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790.md) — All-In live CES 2026 episode with Bob Sternfels and Hemant Taneja on compressed AI value creation, enterprise pilot purgatory, agent workforce redesign, physical AI, manufacturing, self-driving, and smart-glasses hardware.
 - [EP 15: Unveiling Data Scientist's Role in the Generative AI Era](sources/ep-15-unveiling-data-scientists-role-in-the-generative-ai-era.md) — Data Science With Sam episode with Marina of Bellups Consulting on data scientists' generative-AI fluency, prompt and API skills, lightweight prototypes, domain judgment, hallucination and bias review, privacy, and use-case triage.
 - [EP 14: What is Observability?](sources/ep-14-what-is-observability.md) — Data Science With Sam episode with Ed Ferron on observability, APM, full-stack telemetry, business transaction monitoring, OpenTelemetry, AI-assisted anomaly detection, security telemetry, proactive alerts, and real-time operational analytics.
@@ -987,10 +988,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [All-In](entities/AllIn.md) — Podcast context for the live CES 2026 discussion with Chamath Palihapitiya, Jason Calacanis, David Sacks, David Friedberg, Bob Sternfels, and Hemant Taneja.
-- [Chamath Palihapitiya](entities/ChamathPalihapitiya.md) — All-In host context for the CES 2026 AI, enterprise, robotics, manufacturing, and hardware discussion.
-- [Jason Calacanis](entities/JasonCalacanis.md) — All-In host introducing the CES 2026 guests and framing the Tesla Optimus and old-gadget comparison segments.
-- [David Friedberg](entities/DavidFriedberg.md) — All-In host context for the CES 2026 AI transformation discussion.
+- [U.S. Department of Commerce](entities/USDepartmentOfCommerce.md) — Howard Lutnick's cabinet department context for tariffs, export licenses, GDP data, patents, CHIPS Act leverage, AI chip controls, and industrial policy.
+- [CHIPS Act](entities/CHIPSAct.md) — U.S. semiconductor policy program used by Lutnick to contrast grants with tariff-and-contract leverage around TSMC and taxpayer returns.
+- [Nvidia H20](entities/NvidiaH20.md) — Nvidia China-oriented AI chip scrutinized in Lutnick's export-license account because lower compute but higher memory still affected control risk.
+- [Mounjaro](entities/Mounjaro.md) — GLP-1 drug named with Ozempic in Lutnick's MFN drug-pricing claim for Medicare and Medicaid.
+- [Medicare](entities/Medicare.md) — U.S. public health program tied in the Lutnick source to MFN drug pricing and benefit-fraud matching.
+- [Medicaid](entities/Medicaid.md) — U.S. public health program tied in the Lutnick source to MFN drug pricing, welfare-state fiscal pressure, and benefit-fraud matching.
+- [All-In](entities/AllIn.md) — Podcast context for the CES 2026 AI discussion and the Howard Lutnick policy interview on tariffs, drug pricing, immigration, GDP growth, and chip controls.
+- [Chamath Palihapitiya](entities/ChamathPalihapitiya.md) — All-In host context for the CES 2026 AI discussion and Lutnick interview, including the skilled-trades wage anecdote.
+- [Jason Calacanis](entities/JasonCalacanis.md) — All-In host context for the CES AI episode and the Lutnick policy interview.
+- [David Friedberg](entities/DavidFriedberg.md) — All-In host context for the CES AI transformation discussion and Lutnick policy interview.
 - [General Catalyst](entities/GeneralCatalyst.md) — Venture firm discussed through Hemant Taneja's AI transformation-asset and incumbent-deployment strategy.
 - [Hemant Taneja](entities/HemantTaneja.md) — General Catalyst guest connecting Anthropic-style compressed value creation to enterprise transformation and physical-AI deployment limits.
 - [Bob Sternfels](entities/BobSternfels.md) — McKinsey guest describing organizational speed, agent workforce redesign, and entry-level pathway risk in AI adoption.
@@ -6696,6 +6703,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Business-Led Government Management](concepts/BusinessLedGovernmentManagement.md) — Lutnick's operating style for Commerce: outcome-driven cabinet management, specialists coordinated through deals, tariffs, licenses, statistics, and direct presidential alignment.
+- [Trade Deficit Ownership Frame](concepts/TradeDeficitOwnershipFrame.md) — Lutnick's argument that persistent trade deficits become foreign ownership claims on American assets.
+- [Tariff Revenue Fiscal Substitution](concepts/TariffRevenueFiscalSubstitution.md) — Lutnick's claim that tariff revenue can fund tax relief, deficit reduction, and benefit support.
+- [Trade Deal Capital Structure](concepts/TradeDealCapitalStructure.md) — Trade-deal frame where tariff settlements become project-finance structures, especially the claimed Japan $550 billion arrangement.
+- [Section 232 Tariff Authority](concepts/Section232TariffAuthority.md) — Commerce tariff tool Lutnick presents as leverage for pharmaceuticals and other strategic sectors.
+- [Most-Favored-Nation Drug Pricing](concepts/MostFavoredNationDrugPricing.md) — Drug-pricing policy frame tying HHS negotiation to Commerce tariff threats, Ozempic, Mounjaro, Medicare, and Medicaid.
+- [Taxpayer-Return Industrial Policy](concepts/TaxpayerReturnIndustrialPolicy.md) — Policy frame where government support, licenses, tariff relief, or presidential access should produce public upside through revenue sharing or equity-like claims.
+- [Government Benefit Fraud Matching](concepts/GovernmentBenefitFraudMatching.md) — Proposed federal data-matching approach to compare benefits, income, and program data across Medicare, Medicaid, and related systems.
 - [AI Compressed Value Creation](concepts/AICompressedValueCreation.md) — Claim that frontier AI companies can compress revenue, valuation, and platform formation timelines compared with earlier software infrastructure eras.
 - [Enterprise AI Pilot Purgatory](concepts/EnterpriseAIPilotPurgatory.md) — Gap between broad enterprise AI experimentation and scaled operating value under CEO speed, CFO ROI, and CIO disruption pressures.
 - [Venture Transformation Assets](concepts/VentureTransformationAssets.md) — Venture strategy of buying or controlling incumbent operating assets so AI startups can deploy into real workflows, customers, data, and compliance settings.

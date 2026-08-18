@@ -7902,3 +7902,11 @@ Added source page for an All-In live CES 2026 episode with Bob Sternfels and Hem
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-18] ingest | Howard Lutnick: How America Can Hit 6% GDP Growth in 2026
+
+Added source page for an All-In episode with Howard Lutnick on Commerce Department scope, tariffs, trade-deficit ownership, Japan deal financing, tariff revenue, MFN drug pricing, immigration filters, benefit-fraud matching, GDP growth claims, skilled-trades labor, CHIPS Act leverage, Nvidia H20/H200 export licensing, TSMC investment renegotiation, and Intel taxpayer-return policy. Created pages for U.S. Department of Commerce, CHIPS Act, Nvidia H20, Mounjaro, Medicare, Medicaid, Trade Deficit Ownership Frame, Tariff Revenue Fiscal Substitution, Trade Deal Capital Structure, Section 232 Tariff Authority, Most-Favored-Nation Drug Pricing, Taxpayer-Return Industrial Policy, Government Benefit Fraud Matching, and Business-Led Government Management; updated overview, index, All-In, Howard Lutnick, Chamath Palihapitiya, Jason Calacanis, David Sacks, David Friedberg, Donald Trump, U.S. Treasury, HHS, CMS, Ozempic, Nvidia, Nvidia H200, Jensen Huang, Intel, TSMC, Trade Reciprocity Protectionism, Strategic Industrial Policy, Supply Chain Sovereignty, Tech Manufacturing Reshoring, AI Export Controls, Merit-Based Immigration Filter, H-1B Visa Coalition Fault Line, Official Statistics Credibility, Government Shutdown Data Blindness, Manufacturing Workforce Pipeline, Good Jobs For Non-College Workers, Effective Tariff Rate Shock, and Trump Victory-Narrative Deal-Making. No direct contradiction found; the source is in tension with tariff-skeptical and tariff-authority pages, so quantitative claims about revenue, savings, fraud, investment commitments, and 2026 GDP growth are kept source-attributed rather than treated as settled facts.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,8 +2,8 @@
 title: "Good Jobs For Non-College Workers"
 type: concept
 tags: [labor, wages, public-policy, manufacturing]
-sources: [chef-vs-robot, the-ice-hiring-boom, why-economists-got-free-trade-with-china-so-wrong, why-are-we-so-obsessed-with-manufacturing]
-last_updated: 2026-07-24
+sources: [chef-vs-robot, the-ice-hiring-boom, why-economists-got-free-trade-with-china-so-wrong, why-are-we-so-obsessed-with-manufacturing, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+last_updated: 2026-08-18
 ---
 
 # Good Jobs For Non-College Workers
@@ -16,6 +16,8 @@ The concept lets the wiki avoid turning manufacturing into a symbolic shortcut. 
 
 [[why-economists-got-free-trade-with-china-so-wrong]] adds the damage case behind that frame. The [[ChinaShock]] destroyed a major route to good non-college work in some regions, and [[PeopleVersusPlacesRecovery]] shows why later local recovery does not necessarily repair the original workers' lost earnings, health, family stability, or labor-force attachment.
 
+[[all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]] adds the administration-optimist skilled-trades version. [[HowardLutnick|Howard Lutnick]] and the hosts point to electricians, pipe fitters, data centers, and [[TSMC]] technicians as evidence that industrial buildout can produce very high-wage non-college work if the training pipeline exists.
+
 [[the-ice-hiring-boom]] adds a morally fraught counterexample through [[DetentionAsLocalEconomicDevelopment]]. In [[FolkstonGeorgia]], detention-center jobs can offer wages and insurance that residents need, but the source shows why job quality cannot be separated from the public purpose and human cost of the institution supplying the work.
 
 ## Key Claims
@@ -26,6 +28,7 @@ The concept lets the wiki avoid turning manufacturing into a symbolic shortcut. 
 - Trade adjustment has to support workers directly, because a recovered region can still leave displaced workers outside the labor market or in worse jobs.
 - Public or contract-backed jobs can meet household needs while still creating ethical and policy-dependence problems when the work is tied to detention.
 - Service-sector automation can lower consumer prices and owner staffing stress while weakening skill premiums if the replacement roles are lower paid or less career-building.
+- The Lutnick source adds that the political promise of reshoring depends on whether new industrial jobs are accessible without four-year degrees and durable enough to justify training.
 
 ## Connections
 - [[GordonHansen|Gordon Hanson]] - source economist who supplies the frame.
@@ -35,3 +38,4 @@ The concept lets the wiki avoid turning manufacturing into a symbolic shortcut. 
 - [[ChinaShock]], [[RegionalLaborMarketScarring]], [[PeopleVersusPlacesRecovery]], and [[TradeAdjustmentAssistance]] - worker-damage and recovery branch added by the China-shock episode.
 - [[FolkstonGeorgia]], [[DetentionAsLocalEconomicDevelopment]], [[CarceralEconomicDependency]], and [[PolicyDependentLocalDevelopment]] - detention-town job-quality complication added by Planet Money.
 - [[DaronAcemoglu]], [[AutomationDisplacementEffect]], [[AutomationReinstatementEffect]], [[RestaurantAutomation]], and [[RobotChefCostQualityTradeoff]] - restaurant automation branch added by Planet Money.
+- [[HowardLutnick|Howard Lutnick]], [[TSMC]], [[ManufacturingWorkforcePipeline]], [[TechManufacturingReshoring]], and [[StrategicIndustrialPolicy]] - skilled-trades branch added by All-In.
