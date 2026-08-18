@@ -2,11 +2,13 @@
 title: "Rare Earth Processing Bottleneck"
 type: concept
 tags: [critical-minerals, supply-chains, geopolitics, defense]
-sources: [battlefield-rare-earths-how-the-us-lost-to-china, how-to-get-what-greenland-has-with-permission]
-last_updated: 2026-07-24
+sources: [all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225, battlefield-rare-earths-how-the-us-lost-to-china, how-to-get-what-greenland-has-with-permission]
+last_updated: 2026-08-18
 ---
 
 # Rare Earth Processing Bottleneck
+
+[[all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225]] adds the investor-and-industrial-operations version. [[DanDreyfus|Dan Dreyfus]] says rare earths are broadly present geologically, but [[China]]'s advantage is processing know-how: converting mined material into usable inputs for magnets, industrial systems, defense, and energy infrastructure.
 
 Rare earth processing bottleneck is the supply-chain problem emphasized in [[how-to-get-what-greenland-has-with-permission]]. The episode argues that mineral security is not just a question of owning deposits: rare earths must be mined, separated, refined, and turned into usable inputs for weapons, vehicles, electronics, and industrial production.
 
@@ -23,6 +25,7 @@ The bottleneck is geopolitical because the episode says [[China]] processes roug
 - [[Brazil]], [[Australia]], [[SaudiArabia|Saudi Arabia]], and [[India]] are named as more plausible near-term sources or processing-technology partners.
 - [[battlefield-rare-earths-how-the-us-lost-to-china]] shows the bottleneck historically: the [[UnitedStates]] once had major Mountain Pass capacity but lost the processing and market structure needed to withstand cheaper Chinese supply.
 - The source adds that rebuilding rare-earth security may require [[StateBackedRareEarthRebuilding]], including loans, grants, equity stakes, and price-floor coordination.
+- The Dreyfus source adds that extraction technology could make more resources available, but processing expertise remains the harder strategic constraint.
 
 ## Connections
 - [[CriticalMineralsGeopolitics]] - broader resource-security frame.
@@ -31,3 +34,4 @@ The bottleneck is geopolitical because the episode says [[China]] processes roug
 - [[StrategicAccessWithoutAnnexation]] - governance alternative when ownership does not solve the bottleneck.
 - [[Molycorp]], [[MountainPassRareEarthMine]], [[ProjectPhoenix]], [[MPMaterials]], and [[NioCorp]] - U.S. industry cases added by the later Planet Money source.
 - [[RareEarthExportLeverage]], [[DominantProducerPriceDiscipline]], and [[StateBackedRareEarthRebuilding]] - market-structure and policy concepts added by the new source.
+- [[DanDreyfus|Dan Dreyfus]] and [[CriticalMineralOfftakeIndustrialPolicy]] - All-In branch on processing know-how and financing new supply.

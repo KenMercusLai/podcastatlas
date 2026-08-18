@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Dan Dreyfus: America's Critical Minerals Crisis is Here](sources/all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225.md) — All-In episode with Dan Dreyfus on critical minerals, copper, rare-earth processing, Chinese export leverage, grid modernization, AI data-center power, craft labor, industrial policy, and hard assets as a debasement hedge.
 - [Bill Maris: How Google Could Crush AI Competitors, Why Small Funds Win, and AI's Atari Stage](sources/all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010.md) — All-In interview with Bill Maris on Google Ventures, Section 32, small-fund venture math, computer-science-driven investing, Google token-price leverage against AI rivals, AI's primitive Atari-stage interface, and computational biology constraints.
 - [Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company](sources/all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435.md) — All-In interview with Palo Alto Networks CEO Nikesh Arora on AI-enabled vulnerability discovery, analytical SaaS compression, infrastructure software revaluation, agent-managed systems of work, model-weight portability, false positives, Waymo, and Google's long-term position.
 - [Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries](sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170.md) — All-In liquidity-summit episode on private-company secondaries, employee liquidity, VC DPI pressure, Forge/Schwab access infrastructure, retail private-market risk, and late-stage AI/space valuation discipline.
@@ -1001,6 +1002,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Dan Dreyfus](entities/DanDreyfus.md) — All-In guest arguing that AI, reshoring, electrification, defense, and grid rebuilding are colliding with critical-mineral, power, and skilled-labor constraints.
 - [Bill Maris](entities/BillMaris.md) — Founding Google Ventures CEO and Section 32 founder whose All-In interview links computer-science-driven venture investing, small-fund discipline, Google AI pricing leverage, and computational biology.
 - [Google Ventures](entities/GoogleVentures.md) — Google venture fund Maris says he built with Rich Miner using machine learning, simulation, and portfolio-construction backtesting.
 - [Section 32](entities/Section32.md) — Bill Maris venture firm presented as a deliberately smaller fund platform investing across AI, deep technology, and life sciences.
@@ -6785,6 +6787,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Capital-Intensive AI Cycle](concepts/CapitalIntensiveAICycle.md) — Dreyfus's frame that AI and reindustrialization move the bottleneck from capital-light software toward mines, grids, power, fabs, data centers, and labor.
+- [Copper Supply Bottleneck](concepts/CopperSupplyBottleneck.md) — Source-scoped thesis that copper demand from AI factories, grids, electrification, defense, and renewables can outpace slow mine supply.
+- [Electric Grid Modernization Bottleneck](concepts/ElectricGridModernizationBottleneck.md) — Constraint where aging transmission, distribution, interconnection, and grid hardening limit power growth before and during AI demand expansion.
+- [Critical Mineral Offtake Industrial Policy](concepts/CriticalMineralOfftakeIndustrialPolicy.md) — Policy mechanism using equity, permits, offtake agreements, take-or-pay contracts, and price floors to finance strategic mineral supply.
+- [Craft Labor Bottleneck](concepts/CraftLaborBottleneck.md) — Skilled-trades constraint across grid rebuilding, solar, mining, data centers, fabs, and other capital-intensive infrastructure projects.
+- [Hard Assets Debasement Hedge](concepts/HardAssetsDebasementHedge.md) — Dreyfus's source-scoped macro thesis that commodities, infrastructure, and other hard assets can hedge fiat purchasing-power erosion.
 - [Venture Computer-Science Edge](concepts/VentureComputerScienceEdge.md) — Maris's claim that venture portfolio construction, fund size, and investment assumptions can benefit from machine learning, simulation, and backtesting.
 - [Venture Fund Size Discipline](concepts/VentureFundSizeDiscipline.md) — Venture-fund math frame where smaller funds preserve plausible exit requirements, attention, and DPI outcomes while very large funds can reward asset gathering.
 - [Google AI Token Price Leverage](concepts/GoogleAITokenPriceLeverage.md) — Source-scoped thesis that Google could cut Gemini token prices to pressure OpenAI and Anthropic business models.

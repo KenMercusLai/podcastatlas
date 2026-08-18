@@ -2,11 +2,13 @@
 title: "Data Center Power Bottleneck"
 type: concept
 tags: [ai, data-centers, energy, infrastructure]
-sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, indicators-of-2025-and-what-to-watch-in-2026, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+sources: [all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, indicators-of-2025-and-what-to-watch-in-2026, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
 last_updated: 2026-08-18
 ---
 
 # Data Center Power Bottleneck
+
+[[all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225]] adds the materials-and-grid version. [[DanDreyfus|Dan Dreyfus]] says AI factories need not only electricity but copper, transmission and distribution upgrades, land, solar capacity, and [[CraftLaborBottleneck|craft labor]], making [[CopperSupplyBottleneck]] and [[ElectricGridModernizationBottleneck]] part of the same deployment constraint.
 
 [[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds the [[Crusoe]] operator version. Crusoe's Abilene project is described through abundant wind and solar, transmission constraints, a 1.2 gigawatt substation, a 350 megawatt onsite gas plant, gas-turbine supply bottlenecks, battery buffering, skilled-labor constraints, and future hydro, geothermal, and SMR routes.
 
@@ -40,6 +42,7 @@ The concept extends [[AIEnergyBottleneck]], [[DataCenterOnsitePower]], and [[AIC
 - Site geography can combine climate, electricity, fiber routes, land, GPU supply, and cooling into one deployment constraint.
 - The All-In source adds that power bottlenecks are a geopolitical competitiveness issue when data-center delay weakens U.S. AI deployment relative to [[China]].
 - The Crusoe source adds that power bottlenecks can become the neocloud product itself: site selection, power generation, rack density, and customer leases all determine whether AI capacity can be delivered.
+- The Dreyfus source adds a one-gigawatt AI-factory scale example, arguing that solar-only supply would require large land area and that copper and grid construction can bind before software demand does.
 
 ## Connections
 - [[AlexGMICloud|Alex]], [[GMICloud]], and [[GPUCloudOperations]] - source case and operating context.
@@ -52,3 +55,4 @@ The concept extends [[AIEnergyBottleneck]], [[DataCenterOnsitePower]], and [[AIC
 - [[Tipsy]], [[ColocationDataCenter]], and [[DataCenterCostShifting]] - Chinese data-center hiring and site-selection branch added by 声动早咖啡.
 - [[AmericanAIStackStrategy]], [[MichaelKratsios|Michael Kratsios]], and [[DataCenterOnsitePower]] - national power-race branch added by All-In.
 - [[Crusoe]], [[EnergyFirstNeocloud]], [[AIInfrastructureDebtFinancing]], [[Oracle]], [[SecondLifeEVBatteryStorage]], and [[NvidiaVeraRubinPlatform]] - operator and density branch added by the January 25 All-In episode.
+- [[DanDreyfus|Dan Dreyfus]], [[CopperSupplyBottleneck]], [[ElectricGridModernizationBottleneck]], and [[CraftLaborBottleneck]] - materials, grid, and labor branch added by the critical-minerals All-In episode.

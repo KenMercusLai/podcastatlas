@@ -2,11 +2,13 @@
 title: "Strategic Industrial Policy"
 type: concept
 tags: [industrial-policy, manufacturing, technology, trade]
-sources: [vol-268-liang-ge-lao-si-lai-si-1003563933, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, no-201-zhongguo-gaotie-jianshi-976314772, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+sources: [all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225, vol-268-liang-ge-lao-si-lai-si-1003563933, vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, no-201-zhongguo-gaotie-jianshi-976314772, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
 last_updated: 2026-08-18
 ---
 
 # Strategic Industrial Policy
+
+[[all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225]] adds a critical-mineral offtake case. [[DanDreyfus|Dan Dreyfus]] says the administration is using equity, permits, and take-or-pay offtake contracts with minimum floor prices to make U.S. and Canadian resource projects financeable against [[China]]'s mineral-processing advantage.
 
 Strategic industrial policy is the source's preferred alternative to blanket tariff restoration. [[why-economists-got-free-trade-with-china-so-wrong]] says the [[UnitedStates]] may want to strengthen frontier sectors such as EVs, semiconductors, solar, wind turbines, networking equipment, telecommunications, aviation, and other high-tech areas because participation in those industries affects innovation, productivity, profits, and economic leadership.
 
@@ -36,6 +38,7 @@ The concept is not simply protection. The episode allows that temporary barriers
 - The Hefei source adds that city-level industrial policy must be judged at the portfolio and cluster level, not only by whether one public investment quickly exits with a profit.
 - The Rolls-Royce source adds that industrial policy sometimes appears as rescue after contract risk has already exceeded private capacity; preserving capability does not erase the bad risk pricing that made the rescue necessary.
 - The Lutnick source adds that industrial policy can be presented as a public-investment return problem: if taxpayers provide leverage, licenses, or protection, the public should receive a claim on the resulting upside.
+- The Dreyfus source adds that industrial policy can work through bankable demand commitments before mines or processing capacity exist, not only through grants or tariffs after a shortage appears.
 
 ## Connections
 - [[UnitedStates]], [[China]], and [[ChinaShock]] - strategic and historical context.
@@ -48,3 +51,4 @@ The concept is not simply protection. The episode allows that temporary barriers
 - [[Hefei]], [[HefeiIndustrialInvestmentModel]], [[ProductionInvestmentCity]], [[BOETechnology]], [[ChangXinMemory]], and [[NIO]] - city-level industrial-investment branch added by Banlatte episode 211.
 - [[RollsRoyce|Rolls-Royce]], [[RollsRoyceRB211|RB211]], [[IndustrialCapabilityBailout]], and [[UnitedKingdom]] - strategic aero-engine rescue branch added by 商业就是这样.
 - [[CHIPSAct|CHIPS Act]], [[TaxpayerReturnIndustrialPolicy]], [[TSMC]], [[Intel]], [[Nvidia]], and [[USDepartmentOfCommerce|U.S. Department of Commerce]] - taxpayer-return semiconductor branch added by All-In.
+- [[DanDreyfus|Dan Dreyfus]], [[CriticalMineralOfftakeIndustrialPolicy]], [[CopperSupplyBottleneck]], [[RareEarthProcessingBottleneck]], and [[SupplyChainSovereignty]] - critical-minerals offtake branch added by All-In.

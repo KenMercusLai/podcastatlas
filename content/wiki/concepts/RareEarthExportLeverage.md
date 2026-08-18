@@ -2,11 +2,13 @@
 title: "Rare Earth Export Leverage"
 type: concept
 tags: [rare-earths, geopolitics, supply-chains, trade]
-sources: [battlefield-rare-earths-how-the-us-lost-to-china]
-last_updated: 2026-07-24
+sources: [all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225, battlefield-rare-earths-how-the-us-lost-to-china]
+last_updated: 2026-08-18
 ---
 
 # Rare Earth Export Leverage
+
+[[all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225]] adds the immediate-production-shutdown version. [[DanDreyfus|Dan Dreyfus]] says Chinese cutoffs of critical materials such as samarium, gadolinium, terbium, dysprosium, scandium, yttrium, erbium, and silver put [[FordMotorCompany|Ford Motor Company]] within days of shutting down production and caused alarm in defense and energy agencies.
 
 Rare earth export leverage is the strategic power that comes from controlling inputs other countries need for vehicles, electronics, magnets, weapons, and industrial production. [[battlefield-rare-earths-how-the-us-lost-to-china]] adds the concept through two shocks: [[Japan]] in 2010 and the [[UnitedStates]] after the April 2025 tariff confrontation.
 
@@ -19,9 +21,11 @@ The 2010 case is the clearer historical warning. After a Chinese fishing-boat ca
 - The effect can be informal or hard to litigate, but still disrupt manufacturing and defense planning.
 - Rebuilding capacity requires alternatives before the next restriction, not after the shortage appears.
 - Export leverage links trade conflict to [[SupplyChainSovereignty]] and [[StrategicIndustrialPolicy]] because the vulnerable input may sit several tiers upstream.
+- The Dreyfus source adds that export leverage can become visible as a near-term factory shutdown risk, not only as a defense-planning or commodity-price problem.
 
 ## Connections
 - [[China]], [[Japan]], [[UnitedStates]], and [[DonaldTrump]] - main actors in the source.
 - [[RareEarthProcessingBottleneck]] - enabling constraint.
 - [[StateBackedRareEarthRebuilding]] - policy response.
 - [[EffectiveTariffRateShock]] and [[TradeReciprocityProtectionism]] - tariff context around the 2025 U.S. case.
+- [[FordMotorCompany|Ford Motor Company]], [[USDepartmentOfDefense]], and [[USDepartmentOfEnergy]] - industrial and agency vulnerability branch added by All-In.

@@ -8014,3 +8014,11 @@ Added source page for an All-In interview with Bill Maris on Google Ventures, Se
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-18] ingest | Dan Dreyfus: America's Critical Minerals Crisis is Here
+
+Added source page for an All-In episode with Dan Dreyfus on critical minerals, copper, rare-earth processing, Chinese export leverage, grid modernization, AI data-center power, craft labor, industrial policy, and hard assets as a debasement hedge. Created pages for Dan Dreyfus, Capital-Intensive AI Cycle, Copper Supply Bottleneck, Electric Grid Modernization Bottleneck, Critical Mineral Offtake Industrial Policy, Craft Labor Bottleneck, and Hard Assets Debasement Hedge; updated overview, index, All-In, critical-minerals, rare-earth, data-center power, manufacturing workforce, reshoring, supply-chain sovereignty, strategic industrial policy, commodity time-horizon, Ford Motor Company, US Department of Defense, and U.S. Department of Energy pages. No direct contradiction found; numerical commodity, power, and return claims are kept source-attributed pending independent verification.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

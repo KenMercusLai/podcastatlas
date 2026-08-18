@@ -2,11 +2,13 @@
 title: "US Department of Defense"
 type: entity
 tags: [government, defense, ai]
-sources: [battlefield-rare-earths-how-the-us-lost-to-china, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3]
-last_updated: 2026-07-24
+sources: [all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225, battlefield-rare-earths-how-the-us-lost-to-china, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3]
+last_updated: 2026-08-18
 ---
 
 # US Department of Defense
+
+[[all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225]] adds another rare-earth and critical-materials vulnerability case. [[DanDreyfus|Dan Dreyfus]] says Chinese cutoffs of several critical inputs caused alarm in defense planning because magnets and processed materials can sit several tiers upstream from weapons systems and industrial production.
 
 The US Department of Defense appears in [[tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3]] as a major customer and operating context for [[ScaleAI]]. [[AlexandrWang]] says Scale began focusing heavily on government, defense, and national-security AI around 2020 and closed a $90 million DOD contract that year.
 
@@ -25,3 +27,4 @@ The episode also connects the defense work to [[Ukraine]] satellite-imagery dama
 - [[Anthropic]], [[Claude]], [[PeteHegseth]], and [[DarioAmodei]] - Marketplace Tech Bytes access dispute.
 - [[DefenseAIProcurement]], [[DefenseAISupplyChainRisk]], and [[FrontierModelUsePolicyConflict]] - procurement, contractor-exclusion, and use-policy concepts added by the Marketplace Tech episodes.
 - [[MPMaterials]], [[MountainPassRareEarthMine]], [[RareEarthProcessingBottleneck]], [[RareEarthExportLeverage]], and [[StateBackedRareEarthRebuilding]] - rare-earth defense-supply branch added by Planet Money.
+- [[DanDreyfus|Dan Dreyfus]], [[CriticalMineralsGeopolitics]], [[CopperSupplyBottleneck]], and [[CriticalMineralOfftakeIndustrialPolicy]] - broader critical-materials branch added by All-In.

@@ -2,11 +2,13 @@
 title: "Tech Manufacturing Reshoring"
 type: concept
 tags: [manufacturing, supply-chain, policy, hardware]
-sources: [battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, building-things-and-breaking-things-in-china-summer-school-world-tour, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, why-are-we-so-obsessed-with-manufacturing, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+sources: [all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225, battlefield-rare-earths-how-the-us-lost-to-china, why-economists-got-free-trade-with-china-so-wrong, building-things-and-breaking-things-in-china-summer-school-world-tour, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, why-are-we-so-obsessed-with-manufacturing, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
 last_updated: 2026-08-18
 ---
 
 # Tech Manufacturing Reshoring
+
+[[all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225]] adds the upstream-infrastructure version. [[DanDreyfus|Dan Dreyfus]] argues that reshoring and reindustrialization depend on critical minerals, copper, grid capacity, power generation, processing know-how, and [[CraftLaborBottleneck|craft labor]], not only factory announcements.
 
 [[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds the [[PhysicalAIManufacturingGap]] version of reshoring. [[HemantTaneja|Hemant Taneja]] argues that U.S. self-driving and AI strength is not enough if Chinese companies such as [[BYD]] can manufacture low-cost, feature-rich vehicles globally; the source therefore ties reshoring to robot deployment, automotive cost, and physical-AI competitiveness rather than only jobs or chip supply.
 
@@ -36,6 +38,7 @@ The episode treats the move as meaningful but limited. It links the announcement
 - The rare-earth episode adds that reshoring can fail at the input layer when processing capacity, customers, and price stability are not rebuilt alongside production sites.
 - The Micron case adds that reshoring can fail politically if communities receive broad promises but not enforceable commitments around jobs and environmental burdens.
 - The Lutnick source adds that reshoring can be negotiated with tariff and licensing threats, not only subsidized through grants.
+- The Dreyfus source adds that reshoring can fail upstream if mines, processing, grid capacity, and skilled trades do not scale alongside factories.
 
 ## Connections
 - [[Apple]] and [[MacMini]] - source case.
@@ -49,3 +52,4 @@ The episode treats the move as meaningful but limited. It links the announcement
 - [[MicronTechnology]], [[MicronClayMegaFab]], [[ClayNewYork|Clay, New York]], [[HighBandwidthMemory]], and [[EnforceableCommunityBenefits]] - semiconductor community-benefit branch added by Marketplace Tech.
 - [[PhysicalAIManufacturingGap]], [[BYD]], [[PhysicalAI]], and [[HumanoidRobotCommercialization]] - AI manufacturing-competitiveness branch added by All-In.
 - [[HowardLutnick|Howard Lutnick]], [[USDepartmentOfCommerce|U.S. Department of Commerce]], [[CHIPSAct|CHIPS Act]], [[TSMC]], [[Intel]], and [[TaxpayerReturnIndustrialPolicy]] - Commerce-negotiated semiconductor branch added by the Lutnick source.
+- [[DanDreyfus|Dan Dreyfus]], [[CriticalMineralsGeopolitics]], [[CopperSupplyBottleneck]], [[ElectricGridModernizationBottleneck]], and [[CraftLaborBottleneck]] - upstream infrastructure branch added by All-In.
