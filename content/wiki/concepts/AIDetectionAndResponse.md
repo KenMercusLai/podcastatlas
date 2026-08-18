@@ -2,11 +2,13 @@
 title: "AI Detection And Response"
 type: concept
 tags: [ai, cybersecurity, agents, enterprise-security]
-sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]
+sources: [all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]
 last_updated: 2026-08-18
 ---
 
 # AI Detection And Response
+
+[[all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435]] extends the category from browser and identity defense into code and telemetry defense. [[NikeshArora|Nikesh Arora]] argues that AI-enabled attackers force enterprises to inspect code, patch faster, and collect much more security data, making [[EnterpriseSecurityDataExpansion]] and [[AIEnabledVulnerabilityDiscovery]] part of the same detection-and-response surface.
 
 AI detection and response is the security category named by [[GeorgeKurtz|George Kurtz]] in [[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]]. In the source, it covers defense against AI-enabled attackers, AI-generated employee fraud, browser-layer risk, session-token theft, and AI agents that can route around guardrails by asking other agents for help.
 

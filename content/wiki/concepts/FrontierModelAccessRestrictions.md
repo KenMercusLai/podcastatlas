@@ -2,11 +2,13 @@
 title: "Frontier Model Access Restrictions"
 type: concept
 tags: [ai, models, policy, access-control]
-sources: [zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
-last_updated: 2026-08-17
+sources: [all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435, zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
+last_updated: 2026-08-18
 ---
 
 # Frontier Model Access Restrictions
+
+[[all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435]] adds [[ModelWeightPortabilityRisk]] as a practical access-control limit. [[NikeshArora|Nikesh Arora]] says model weights can be physically small and that distillation can happen quickly, so delaying U.S. models for a few months may not prevent comparable capability from circulating through open or foreign releases.
 
 [[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds anti-distillation enforcement as an access-control reason. The source says closed labs can restrict or verify accounts, classify suspicious traffic, and look for behavior fingerprints such as repeated prompts, cross-account coordination, or chain-of-thought extraction attempts when users appear to be optimizing a competing model from closed-model outputs.
 

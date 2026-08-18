@@ -2,11 +2,13 @@
 title: "AI Data Infrastructure"
 type: concept
 tags: [ai, data, infrastructure]
-sources: [cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
-last_updated: 2026-08-09
+sources: [all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435, cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
+last_updated: 2026-08-18
 ---
 
 # AI Data Infrastructure
+
+[[all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435]] adds the enterprise-operating-data version through [[NikeshArora|Nikesh Arora]]. Instead of only data for model training, the source emphasizes operational data that models need to defend software, analyze cross-product business state, and support [[AgentManagedAuditTrails]] inside enterprise workflows.
 
 [[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] adds [[EvolventAI|Evolvent AI]] as a small-company version of the infrastructure layer. Instead of broad labeling infrastructure, the source emphasizes [[EnvironmentBasedAgentBenchmarks]], [[SyntheticAgentData]], [[RSIData]], and hands-on researchers who can run training and validation loops as model-lab data demand changes.
 

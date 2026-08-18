@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-18] ingest | Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company
+
+Added source page for an All-In interview with Nikesh Arora of Palo Alto Networks on AI-enabled vulnerability discovery, Mythos, analytical SaaS compression, infrastructure software revaluation, enterprise security data expansion, agent-managed audit trails, model-weight portability, false positives, application profit pools, Waymo, Google, hardware latency, and AI-driven technical hiring. Created pages for Nikesh Arora, Palo Alto Networks, Mythos AI Security Test, Change Healthcare, AI-Enabled Vulnerability Discovery, Analytical SaaS Compression, Infrastructure Software Revaluation, Enterprise Security Data Expansion, Agent-Managed Audit Trails, Model Weight Portability Risk, Enterprise AI False Positive Risk, and Application Profit Pool Capture; updated overview, index, All-In, Google, Alphabet, Waymo, OpenAI, Anthropic, AI cybersecurity, enterprise agent, SaaS, application-layer, model-access, and AI data infrastructure pages. No direct contradiction found; the source sharpens existing tensions around cyber dual use, SaaS defensibility, model access, and application-layer moats while keeping the Mythos/Methos/Glasswing naming unresolved and source-scoped.
+
 ## [2026-08-18] ingest | The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026
 
 Added source page for an All-In Davos CEO sequence on regulated stablecoins, AI cyber defense, eVTOL certification, defense aviation, and energy-first AI infrastructure. Created pages for Circle, USDC, GENIUS Act, CrowdStrike, George Kurtz, Seraphic Security, Archer Aviation, Adam Goldstein (Archer Aviation), Project Nix, Crusoe, Prompt-Only Autonomous Malware, AI Detection And Response, eVTOL Certification Ramp, and Energy-First Neocloud; updated overview, index, All-In, the hosts, Stablecoins, AI cyber/security concepts, eVTOL/defense pages, neocloud/data-center power and financing pages, Oracle, CoreWeave, Redwood Materials, Stargate AI Infrastructure, and Nvidia Blackwell/Vera Rubin pages. No direct contradiction found; the source mainly qualifies existing optimism by showing that regulation, trust, certification, identity, power, labor, and financing are the bottlenecks behind 2026 technology deployment.
@@ -7994,6 +7998,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] ingest | Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries
 
 Added source page for an All-In liquidity-summit episode with Brad Gerstner, Gavin Baker, and Kelly Rodriques on private-company secondaries, employee liquidity, VC DPI pressure, public versus private market discipline, Forge/Schwab access infrastructure, retail private-market risk, and late-stage AI/space valuation discipline. Created pages for Brad Gerstner, Gavin Baker, Atreides Management, Kelly Rodriques, Forge Global, Private-Company Secondaries, Regulated SPV Private-Market Access, Retail Private-Market Access, Venture DPI Liquidity Pressure, Public-Private Market Discipline, and Late-Stage Private-Company Valuation Risk; updated overview, index, All-In, Altimeter Capital, Charles Schwab, SpaceX, Anthropic, OpenAI, Anduril, AI IPO Valuation, Employee Stock Option Liquidity Risk, Paper Wealth Vs Cash Value, Equity Compensation Upside, Public Company Transition, Private-Market Bubble Opacity, Tech Bubble Conditions, Investment Liquidity Tradeoff, and Fund Redemption Liquidity Pressure. No direct contradiction found; the source qualifies earlier AI IPO and employee-equity pages by showing that liquidity and valuation risk can transfer through secondaries before public listing, and that democratized access only works when fees, lockups, valuation marks, and insider exit incentives are explicit.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-18] lint | Wiki health check
 

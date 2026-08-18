@@ -2,11 +2,13 @@
 title: "Frontier Model Cyber Misuse"
 type: concept
 tags: [ai, cybersecurity, misuse, governance]
-sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]
+sources: [all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]
 last_updated: 2026-08-18
 ---
 
 # Frontier Model Cyber Misuse
+
+[[all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435]] adds the [[PaloAltoNetworks|Palo Alto Networks]] operator version through [[NikeshArora|Nikesh Arora]]. Arora says [[MythosAISecurityTest|Mythos]] found vulnerabilities quickly inside Palo Alto's own code and warns that similar [[AIEnabledVulnerabilityDiscovery]] capability could soon be broadly available, making weak ordinary systems and older industrial software attractive attacker targets.
 
 [[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds the enterprise-security operator version through [[CrowdStrike]] and [[GeorgeKurtz|George Kurtz]]. Kurtz says AI compresses attack timelines, helps less sophisticated attackers behave more sophisticatedly, and enables [[PromptOnlyAutonomousMalware|prompt-only autonomous malware]] with changing fingerprints.
 

@@ -2,11 +2,13 @@
 title: "Waymo"
 type: entity
 tags: [company, autonomous-driving, robotics]
-sources: [omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
+sources: [all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435, omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
 last_updated: 2026-08-18
 ---
 
 # Waymo
+
+[[all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435]] adds [[NikeshArora|Nikesh Arora]]'s operator view that Waymo "works" and should expand into many more cities faster. The source does not settle [[RobotaxiEconomics]] or [[RobotaxiLocalAcceptance]], but it reinforces the wiki's existing deployment-momentum branch by making Waymo part of Arora's broader bullish [[Google]] thesis.
 
 [[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds Waymo to a live [[CES]] 2026 self-driving wave. The source names Waymo alongside [[Tesla]], [[Zoox]], [[Baidu]], [[WeRide]], and [[PonyAI|Pony.ai]] as evidence that physical AI is moving from software demo toward city-scale autonomous-driving deployment and manufacturing competition.
 

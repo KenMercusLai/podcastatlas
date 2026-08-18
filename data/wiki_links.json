@@ -1595,6 +1595,10 @@
     "title": "AI-Enabled Spam",
     "url": "/wiki/concepts/aienabledspam/"
   },
+  "AIEnabledVulnerabilityDiscovery": {
+    "title": "AI-Enabled Vulnerability Discovery",
+    "url": "/wiki/concepts/aienabledvulnerabilitydiscovery/"
+  },
   "AIEnergyBottleneck": {
     "title": "AI Energy Bottleneck",
     "url": "/wiki/concepts/aienergybottleneck/"
@@ -2979,6 +2983,10 @@
     "title": "Agent Inference Workload",
     "url": "/wiki/concepts/agentinferenceworkload/"
   },
+  "AgentManagedAuditTrails": {
+    "title": "Agent-Managed Audit Trails",
+    "url": "/wiki/concepts/agentmanagedaudittrails/"
+  },
   "AgentMarketplace": {
     "title": "Agent Marketplace",
     "url": "/wiki/concepts/agentmarketplace/"
@@ -3831,6 +3839,10 @@
     "title": "Analog Media Preservation",
     "url": "/wiki/concepts/analogmediapreservation/"
   },
+  "AnalyticalSaaSCompression": {
+    "title": "Analytical SaaS Compression",
+    "url": "/wiki/concepts/analyticalsaascompression/"
+  },
   "AnalyticsJS": {
     "title": "analytics.js",
     "url": "/wiki/entities/analyticsjs/"
@@ -4342,6 +4354,10 @@
   "ApplicationPerformanceMonitoring": {
     "title": "Application Performance Monitoring",
     "url": "/wiki/concepts/applicationperformancemonitoring/"
+  },
+  "ApplicationProfitPoolCapture": {
+    "title": "Application Profit Pool Capture",
+    "url": "/wiki/concepts/applicationprofitpoolcapture/"
   },
   "AppliedAstrobiology": {
     "title": "Applied Astrobiology",
@@ -7606,6 +7622,10 @@
   "ChangdehaokanNengDangFanChiMa": {
     "title": "《长得好看能当饭吃吗》",
     "url": "/wiki/entities/changdehaokannengdangfanchima/"
+  },
+  "ChangeHealthcare": {
+    "title": "Change Healthcare",
+    "url": "/wiki/entities/changehealthcare/"
   },
   "ChangerdaiGoGoGo": {
     "title": "厂二代GoGoGo",
@@ -12999,6 +13019,10 @@
     "title": "Enrico Moretti",
     "url": "/wiki/entities/enricomoretti/"
   },
+  "EnterpriseAIFalsePositiveRisk": {
+    "title": "Enterprise AI False Positive Risk",
+    "url": "/wiki/concepts/enterpriseaifalsepositiverisk/"
+  },
   "EnterpriseAIPilotPurgatory": {
     "title": "Enterprise AI Pilot Purgatory",
     "url": "/wiki/concepts/enterpriseaipilotpurgatory/"
@@ -13058,6 +13082,10 @@
   "EnterpriseRunSociety": {
     "title": "Enterprise-Run Society / 企业办社会",
     "url": "/wiki/concepts/enterpriserunsociety/"
+  },
+  "EnterpriseSecurityDataExpansion": {
+    "title": "Enterprise Security Data Expansion",
+    "url": "/wiki/concepts/enterprisesecuritydataexpansion/"
   },
   "EntertainmentIPFlywheel": {
     "title": "Entertainment IP Flywheel",
@@ -19078,6 +19106,10 @@
   "InfrastructureMalinvestment": {
     "title": "Infrastructure Malinvestment",
     "url": "/wiki/concepts/infrastructuremalinvestment/"
+  },
+  "InfrastructureSoftwareRevaluation": {
+    "title": "Infrastructure Software Revaluation",
+    "url": "/wiki/concepts/infrastructuresoftwarerevaluation/"
   },
   "IngredientReformulationStrategy": {
     "title": "Ingredient Reformulation Strategy",
@@ -25931,6 +25963,10 @@
     "title": "Model Value Embedding / 模型价值观嵌入",
     "url": "/wiki/concepts/modelvalueembedding/"
   },
+  "ModelWeightPortabilityRisk": {
+    "title": "Model Weight Portability Risk",
+    "url": "/wiki/concepts/modelweightportabilityrisk/"
+  },
   "ModelWorkflowFit": {
     "title": "Model Workflow Fit",
     "url": "/wiki/concepts/modelworkflowfit/"
@@ -26502,6 +26538,10 @@
   "MythicSourceLayering": {
     "title": "Mythic Source Layering",
     "url": "/wiki/concepts/mythicsourcelayering/"
+  },
+  "MythosAISecurityTest": {
+    "title": "Mythos AI Security Test",
+    "url": "/wiki/entities/mythosaisecuritytest/"
   },
   "NASA": {
     "title": "NASA",
@@ -27266,6 +27306,10 @@
   "NikeVaporfly": {
     "title": "Nike Vaporfly",
     "url": "/wiki/entities/nikevaporfly/"
+  },
+  "NikeshArora": {
+    "title": "Nikesh Arora",
+    "url": "/wiki/entities/nikesharora/"
   },
   "NikiLauda": {
     "title": "Niki Lauda",
@@ -28654,6 +28698,10 @@
   "PaloAltoInternetExchange": {
     "title": "Palo Alto Internet Exchange",
     "url": "/wiki/entities/paloaltointernetexchange/"
+  },
+  "PaloAltoNetworks": {
+    "title": "Palo Alto Networks",
+    "url": "/wiki/entities/paloaltonetworks/"
   },
   "PalynologyAsEvidence": {
     "title": "Palynology As Evidence",
@@ -42806,6 +42854,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140": {
     "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435": {
+    "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050": {
     "title": "Supercharging a New FDA: Marty Makary on Science, Power & Patients",

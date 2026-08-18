@@ -2,11 +2,13 @@
 title: "Language User Interface"
 type: concept
 tags: [ai, software-design, interfaces]
-sources: [ep-16-data-decoded-navigating-the-ai-revolution, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
+sources: [all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435, ep-16-data-decoded-navigating-the-ai-revolution, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
 last_updated: 2026-08-18
 ---
 
 # Language User Interface
+
+[[all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435]] adds [[NikeshArora|Nikesh Arora]]'s no-UI pressure on enterprise software. The source's SaaS-bill example routes data into [[Slack]] and [[Claude]] so users can ask questions in language, while Arora's systems-of-work example imagines agents updating [[Salesforce]] or [[Oracle]] after calls rather than making humans operate the GUI.
 
 Language user interface is the E155 frame that natural language can become the primary way users operate software. The episode contrasts GUI-driven workflows, where users learn buttons and menus, with agent-mediated workflows where a user asks for an outcome such as submitting travel approval or reimbursing an expense.
 

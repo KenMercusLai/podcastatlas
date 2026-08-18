@@ -2,11 +2,13 @@
 title: "AI Data Memory Infrastructure"
 type: concept
 tags: [ai, data, memory, infrastructure, agents]
-sources: [guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5, weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]
-last_updated: 2026-07-09
+sources: [all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435, guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5, weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]
+last_updated: 2026-08-18
 ---
 
 # AI Data Memory Infrastructure
+
+[[all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435]] adds a cybersecurity and SaaS-pressure version through [[NikeshArora|Nikesh Arora]]. The source says enterprises need much more security data to defend against AI-enabled attackers and more consolidated business data to replace thin analytics dashboards, making [[EnterpriseSecurityDataExpansion]] and [[InfrastructureSoftwareRevaluation]] part of the same agent-era memory problem.
 
 AI data memory infrastructure is the agent-era opportunity [[Dongxu]] identifies in [[guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5]]. From a database-company perspective, the important AI question is how LLMs and agents get the right enterprise or personal context, remember useful information, and access data safely enough to act.
 

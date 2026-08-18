@@ -2,11 +2,13 @@
 title: "Alphabet"
 type: entity
 tags: [company, ai, investing]
-sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
+last_updated: 2026-08-18
 ---
 
 # Alphabet
+
+[[all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435]] adds a positive valuation counterweight to the page's AI-capex risk branch. [[NikeshArora|Nikesh Arora]] does not analyze Alphabet's capital spending in detail; he argues from the [[Google]] side that the parent has enough assets, infrastructure, distribution, and enterprise reach to plausibly compound into a much larger company.
 
 [[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds an earnings-season free-cash-flow layer to Alphabet's AI capex story. [[AnitaRamaswamy]] says [[Google]] reported that free cash flow had dipped into negative territory because of heavy AI spending, making Alphabet a case where public markets can punish capex before the long-term AI revenue path becomes fully legible.
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company](sources/all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435.md) — All-In interview with Palo Alto Networks CEO Nikesh Arora on AI-enabled vulnerability discovery, analytical SaaS compression, infrastructure software revaluation, agent-managed systems of work, model-weight portability, false positives, Waymo, and Google's long-term position.
 - [Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries](sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170.md) — All-In liquidity-summit episode on private-company secondaries, employee liquidity, VC DPI pressure, Forge/Schwab access infrastructure, retail private-market risk, and late-stage AI/space valuation discipline.
 - [The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026](sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920.md) — All-In Davos CEO sequence on Circle/USDC stablecoins, CrowdStrike AI cyber defense, Archer eVTOL certification and defense aviation, and Crusoe energy-first AI infrastructure.
 - [Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition](sources/all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955.md) — All-In discussion with David Sacks and Michael Kratsios, moderated by Maria Bartiromo, on U.S. AI strategy across infrastructure, power, federal/state regulation, AI for science, China competition, exports, and political-bias risk.
@@ -999,6 +1000,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Nikesh Arora](entities/NikeshArora.md) — Palo Alto Networks CEO in the All-In source, linking AI-enabled vulnerability discovery, analytical SaaS pressure, infrastructure software, Google, and enterprise AI transformation.
+- [Palo Alto Networks](entities/PaloAltoNetworks.md) — Cybersecurity company used by Nikesh Arora to ground Mythos testing, AI vulnerability discovery, security data expansion, and agent-era identity needs.
+- [Mythos AI Security Test](entities/MythosAISecurityTest.md) — Source-scoped Palo Alto Networks test of AI-assisted vulnerability discovery, kept separate from earlier Methos/Glasswing/Glassfin naming until reconciled.
+- [Change Healthcare](entities/ChangeHealthcare.md) — Healthcare cyber-disruption example used by Nikesh Arora to show how weak ordinary systems can create broad economic impact.
 - [Brad Gerstner](entities/BradGerstner.md) — Altimeter Capital investor voice in the All-In secondaries episode, arguing for private-market sell discipline, DPI, and retail FOMO caution.
 - [Gavin Baker](entities/GavinBaker.md) — Atreides Management investor voice in the All-In secondaries episode, contrasting public-market discipline with access-driven private-market incentives.
 - [Atreides Management](entities/AtreidesManagement.md) — Investment-firm context for Gavin Baker's public/private-market discipline comments in the All-In secondaries episode.
@@ -6772,6 +6777,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI-Enabled Vulnerability Discovery](concepts/AIEnabledVulnerabilityDiscovery.md) — Dual-use AI security capability for rapidly finding and chaining software weaknesses, useful for defenders but risky if attackers gain similar access.
+- [Analytical SaaS Compression](concepts/AnalyticalSaaSCompression.md) — Nikesh Arora's thesis that AI and customer-owned data pressure SaaS products whose value is mainly data collection and analysis.
+- [Infrastructure Software Revaluation](concepts/InfrastructureSoftwareRevaluation.md) — Counter-thesis that databases, storage, and data infrastructure gain value as AI increases enterprise context, memory, and security data needs.
+- [Enterprise Security Data Expansion](concepts/EnterpriseSecurityDataExpansion.md) — Need for much broader cybersecurity telemetry, history, and context as AI-enabled attackers compress discovery and exploitation timelines.
+- [Agent-Managed Audit Trails](concepts/AgentManagedAuditTrails.md) — Enterprise pattern where agents capture and write workflow records directly, improving auditability only if provenance and permissions are governed.
+- [Model Weight Portability Risk](concepts/ModelWeightPortabilityRisk.md) — Governance risk that valuable model weights or distilled capability can move more easily than cloud infrastructure or training clusters.
+- [Enterprise AI False Positive Risk](concepts/EnterpriseAIFalsePositiveRisk.md) — Cost of AI systems flagging invalid vulnerabilities or business issues, especially where defenders must verify every finding.
+- [Application Profit Pool Capture](concepts/ApplicationProfitPoolCapture.md) — View that models may become utility layers while applications and model providers compete to own coding, cyber, and enterprise workflow profit pools.
 - [Private-Company Secondaries](concepts/PrivateCompanySecondaries.md) — Private-share and fund-interest resale market treated by All-In as a third exit channel beside IPOs and M&A.
 - [Regulated SPV Private-Market Access](concepts/RegulatedSPVPrivateMarketAccess.md) — Productized access route where SPVs, platform controls, and large broker distribution make private shares more investable but not public-stock-like.
 - [Retail Private-Market Access](concepts/RetailPrivateMarketAccess.md) — Democratization frame for ordinary investors buying private-company exposure, bounded by fee, lockup, valuation, and FOMO risk.

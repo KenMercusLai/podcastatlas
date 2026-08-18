@@ -2,11 +2,13 @@
 title: "AI Cyber-Defense Utility"
 type: concept
 tags: [ai, cybersecurity, governance, public-good]
-sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs]
+sources: [all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs]
 last_updated: 2026-08-18
 ---
 
 # AI Cyber-Defense Utility
+
+[[all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435]] adds the commercial vulnerability-discovery version through [[PaloAltoNetworks|Palo Alto Networks]]. [[NikeshArora|Nikesh Arora]] treats [[MythosAISecurityTest|Mythos]] as evidence that AI can help defenders find vulnerabilities much faster, but also stresses [[EnterpriseAIFalsePositiveRisk]], patching capacity, and [[EnterpriseSecurityDataExpansion]] as necessary controls before the capability becomes safely useful.
 
 [[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds the commercial-defense version through [[CrowdStrike]]. [[GeorgeKurtz|George Kurtz]] argues that defenders need AI models trained on large attack datasets because attackers now use AI to compress timelines, vary malware, generate fake identities, and exploit browser or help-desk workflows.
 
