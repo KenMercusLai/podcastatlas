@@ -2,7 +2,7 @@
 title: "Early Warring States Interstate War / 战国早期诸侯混战"
 type: concept
 tags: [warfare, diplomacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -32,6 +32,8 @@ The point is not a single clean campaign. The episode explicitly says the dates 
 
 [[zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]] adds the diplomatic re-ranking after that shock. [[QiState|齐国]] uses Maling prestige to seek a higher place in the order, [[WeiState|魏国]] accepts [[LowPostureStatecraft|low-posture]] diplomacy through [[HuiShi|惠施]], and [[XuzhouMutualKingship|徐州相王]] converts the battle's consequences into mutual title recognition rather than immediate new war.
 
+[[zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]] adds the coercive aftermath of that re-ranking. [[ChuWeiwang|楚威王]] attacks [[QiState|齐国]] at [[Xuzhou|徐州]], Zhao and Yan also pressure Qi, and Lu nearly joins the anti-Qi side. The episode treats this as [[StatusOrderBacklash|名分秩序反弹]]: a title ceremony can become a multi-state conflict trigger when it rearranges perceived rank.
+
 ## Key Claims
 - Early Warring States war is multi-actor and opportunistic rather than a simple two-sided conflict.
 - An intervention can be both assistance and predation.
@@ -48,6 +50,7 @@ The point is not a single clean campaign. The episode explicitly says the dates 
 - The Maling setup shows that rescue can be deliberately delayed so the rescuer enters with political leverage and better military conditions.
 - The Maling outcome shows that a single battle can convert tactical deception into interstate re-ranking when a leading general dies and a crown prince is captured.
 - Postwar diplomacy can formalize a new hierarchy while still hiding counter-calculations by the weaker side.
+- Status offense can widen interstate war even when the immediate issue is ceremonial title recognition rather than territory.
 
 ## Connections
 - [[QiState|齐国]], [[YanState|燕国]], [[HanState|韩国]], [[ZhaoState|赵国]], [[WeiState|魏国]], [[ChuState|楚国]], [[QinState|秦国]], and [[LuState|鲁国]] - major participants in the source's account.
@@ -63,3 +66,4 @@ The point is not a single clean campaign. The episode explicitly says the dates 
 - [[ZhaoFan|赵范]], [[Handan|邯郸]], [[MilitaryActionTerminology]], [[WeyState|卫国]], and [[MalingBattle|马陵之战]] - Zhouji 18 surprise attack, status decline, and battle-preview branch.
 - [[DelayedRescueStatecraft]], [[PrinceShenWei|太子申]], [[CrownPrinceCommandRisk]], [[ForcedMarchOperationalRisk]], [[DecreasingStovesDeception]], and [[SunziBingfa|《孙子兵法》]] - Zhouji 19-20 rescue-Han and Maling operational branch.
 - [[XuzhouMutualKingship|徐州相王]], [[HuiShi|惠施]], [[TianYing|田婴]], and [[LowPostureStatecraft|低姿态权宜]] - Zhouji 27 post-Maling diplomatic re-ranking.
+- [[ChuWeiwang|楚威王]], [[ZhangChou|张丑]], [[Xuzhou|徐州]], and [[StatusOrderBacklash|名分秩序反弹]] - Zhouji 28 status-triggered military pressure.

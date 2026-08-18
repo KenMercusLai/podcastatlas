@@ -2,7 +2,7 @@
 title: "田婴 / Tian Ying"
 type: entity
 tags: [person, general, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
+sources: [zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
 last_updated: 2026-08-19
 ---
 
@@ -16,8 +16,11 @@ In this source, Tian Ying is less developed than [[TianJi|田忌]] or [[SunBin|�
 
 The same source preserves a genealogy caution. It follows [[Shiji|《史记》]] in calling Tian Ying [[QiWeiwang|齐威王]]'s younger son, but notes Yang Kuan's suspicion that he may have been Qi Wei Wang's younger brother instead.
 
+[[zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]] shows the risk in Tian Ying's title strategy. [[ZhangChou|张丑]] warns him not to accept [[WeiState|魏国]]'s royal recognition because it will make Qi look arrogant before powers such as Qin and Chu. Tian Ying ignores the warning, and the later attack on Qi and siege of [[Xuzhou|徐州]] become the source's proof of [[StatusOrderBacklash|名分秩序反弹]].
+
 ## Connections
 - [[QiState|齐国]] and [[QiWeiwang|齐威王]] - state and royal-family context.
 - [[TianJi|田忌]] and [[SunBin|孙膑]] - fellow commander and adviser in the rescue campaign.
 - [[HanState|韩国]], [[WeiState|魏国]], and [[MalingBattle|马陵之战]] - crisis and campaign setting.
 - [[XuzhouMutualKingship|徐州相王]], [[HuiShi|惠施]], and [[LowPostureStatecraft|低姿态权宜]] - post-Maling diplomatic branch in Zhouji 27.
+- [[ZhangChou|张丑]] and [[StatusOrderBacklash|名分秩序反弹]] - Zhouji 28 warning against accepting the title bargain.

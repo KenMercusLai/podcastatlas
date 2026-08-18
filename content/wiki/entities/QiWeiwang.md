@@ -2,7 +2,7 @@
 title: "齐威王 / King Wei of Qi"
 type: entity
 tags: [person, ruler, pre-qin, qi-state, warring-states]
-sources: [zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -28,6 +28,8 @@ The same source retells the "一鸣惊人" narrative. Qi Wei Wang neglects gover
 
 [[zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]] moves Qi Wei Wang from post-Maling victory and court risk into title diplomacy. [[TianYing|田婴]] uses Qi's victory prestige to push a Qi-centered order, and [[XuzhouMutualKingship|徐州相王]] lets Qi receive explicit recognition from [[LiangHuiWang|魏惠王 / 梁惠王]] while returning enough respect for Wei to save face. The episode also records Yang Kuan's doubt about whether Tian Ying is Qi Wei Wang's younger son or younger brother, so the wiki keeps the genealogy source-scoped.
 
+[[zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]] shows the cost of that title diplomacy. [[ZhangChou|张丑]] warns [[TianYing|田婴]] against accepting the royal-status gift, and [[ChuWeiwang|楚威王]] later attacks Qi at [[Xuzhou|徐州]]. The episode treats Qi Wei Wang's new title recognition as a status success that also provokes [[StatusOrderBacklash|名分秩序反弹]].
+
 This page is deliberately source-scoped. It keeps the episode's "齐威王" story visible while marking its own [[ChronicleChronologyDrift|chronology drift]] warning and connecting it to the earlier [[TianYingqi|田英齐]] Tian-family succession branch without forcing a clean timeline.
 
 ## Connections
@@ -42,3 +44,4 @@ This page is deliberately source-scoped. It keeps the episode's "齐威王" stor
 - [[ZouJi|成侯邹忌]], [[HanState|韩国]], [[MalingBattle|马陵之战]], [[DelayedRescueStatecraft]], and [[DecreasingStovesDeception]] - Zhouji 19-20 rescue-timing and victory branch.
 - [[TreasonAccusationTrap]], [[TianJi|田忌]], [[SunBin|孙膑]], and [[ChuState|楚国]] - Zhouji 21 accusation and exile branch.
 - [[XuzhouMutualKingship|徐州相王]], [[TianYing|田婴]], [[HuiShi|惠施]], and [[LowPostureStatecraft|低姿态权宜]] - Zhouji 27 title-recognition and diplomatic-posture branch.
+- [[ZhangChou|张丑]], [[ChuWeiwang|楚威王]], [[Xuzhou|徐州]], and [[StatusOrderBacklash|名分秩序反弹]] - Zhouji 28 backlash against Qi's accepted title elevation.

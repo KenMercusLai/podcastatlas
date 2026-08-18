@@ -2,7 +2,7 @@
 title: "梁惠王 / King Hui of Liang"
 type: entity
 tags: [person, ruler, china, warring-states]
-sources: [zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -34,6 +34,8 @@ In the source, Liang Hui Wang is not treated as a cartoon villain. He undertakes
 
 [[zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]] returns him to post-Maling diplomacy. The episode says Wei Hui Wang hates [[QiState|齐国]] after the defeat and wants revenge, but [[HuiShi|惠施]] argues that another all-out attack would expose [[WeiState|魏国]] again. Hui Shi's alternative is [[LowPostureStatecraft|low-posture statecraft]]: Wei proposes honoring [[QiWeiwang|齐威王]] as king at [[XuzhouMutualKingship|徐州相王]], gaining time and face rather than immediate revenge.
 
+[[zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]] supplies the sequel to that tactic. The Chu attack on Qi shows that Hui Shi's expected pressure materializes, while Wei itself does not rescue Qi at [[Xuzhou|徐州]]. The source makes Liang Hui Wang's posture part of a broader [[StatusOrderBacklash|status-order backlash]] rather than only a personal revenge problem.
+
 ## Connections
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode.
 - [[Mengzi|孟子 / Mencius]] and [[MenciusText|《孟子》]] - dialogue context.
@@ -49,3 +51,4 @@ In the source, Liang Hui Wang is not treated as a cartoon villain. He undertakes
 - [[GongziAng|公子卬 / 公子昂]], [[PeaceParleyEntrapment|和谈诱捕]], [[GongshuWeiChancellor|公叔痤]], [[TacticalCredibilityCost|战术信用成本]], and [[QinEastwardPressure]] - Zhouji 22-23 post-Maling Qin attack, regret, and capital-shift branch.
 - [[Zisi|子思]], [[SimaGuang|司马光]], and [[RenyiBenefitOrdering|仁义优先的利益秩序]] - Zhouji 26 reading of the opening Mencius exchange.
 - [[HuiShi|惠施]], [[QiWeiwang|齐威王]], [[XuzhouMutualKingship|徐州相王]], and [[LowPostureStatecraft|低姿态权宜]] - Zhouji 27 post-Maling deference and title-recognition branch.
+- [[ChuWeiwang|楚威王]], [[Xuzhou|徐州]], and [[StatusOrderBacklash|名分秩序反弹]] - Zhouji 28 consequence of the title-recognition tactic.

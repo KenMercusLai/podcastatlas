@@ -2,7 +2,7 @@
 title: "Low-Posture Statecraft / 低姿态权宜"
 type: concept
 tags: [diplomacy, strategy, governance, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]
+sources: [zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]
 last_updated: 2026-08-19
 ---
 
@@ -14,12 +14,15 @@ The source distinguishes two versions. Hui Shi's version is tactical: after [[Ma
 
 The episode's warning is that low posture only works as a bounded expedient. In a high-pressure [[WarringStatesPeriod|战国时期]] environment, people and states tend to align with visible strength; if showing weakness becomes a permanent identity, the performed weakness can harden into real strategic weakness.
 
+[[zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]] tests Hui Shi's version through its consequence. Wei's deference does draw [[ChuState|楚国]] pressure toward [[QiState|齐国]], but that pressure expands into broader [[StatusOrderBacklash|名分秩序反弹]]. The source therefore shows that a low-posture tactic can work by making someone else absorb status and military risk.
+
 ## Key Claims
 - Deliberate deference can be useful when direct confrontation would be more dangerous.
 - A low posture can reduce external demands or invite external help.
 - Tactical yielding differs from a long-term survival doctrine.
 - In competitive interstate conditions, permanent self-weakening risks becoming actual weakness.
 - The same surface behavior can serve very different purposes for Hui Shi and Shen Buhai.
+- Low posture can redirect danger onto another state when status offense triggers third-party backlash.
 
 ## Connections
 - [[HuiShi|惠施]], [[LiangHuiWang|魏惠王 / 梁惠王]], and [[WeiState|魏国]] - tactical low-posture branch after Maling.
@@ -28,3 +31,4 @@ The episode's warning is that low posture only works as a bounded expedient. In 
 - [[MalingBattle|马陵之战]] - defeat context that makes low posture plausible for Wei.
 - [[LegalistRulerTechnique]] and [[MeritBasedRewardPunishment]] - adjacent Shen Buhai governance concepts already in the wiki.
 - [[WarringStatesPeriod|战国时期]] - competitive environment limiting the strategy's safety.
+- [[ChuWeiwang|楚威王]], [[ZhangChou|张丑]], and [[StatusOrderBacklash|名分秩序反弹]] - Zhouji 28 consequence of Hui Shi's tactic.

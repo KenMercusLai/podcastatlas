@@ -2,7 +2,7 @@
 title: "韩昭侯 / Marquis Zhao of Han"
 type: entity
 tags: [person, ruler, pre-qin, han-state, warring-states]
-sources: [zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]
+sources: [zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]
 last_updated: 2026-08-19
 ---
 
@@ -14,6 +14,8 @@ last_updated: 2026-08-19
 
 [[zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]] explains his absence from [[XuzhouMutualKingship|徐州相王]] by pointing backward. The episode says Han had already performed a low-posture move under Shen Buhai's guidance, with Han Zhaohou visiting [[LiangHuiWang|魏惠王 / 梁惠王]] and behaving as a deferential subordinate. That earlier move becomes the Han-side example for [[LowPostureStatecraft|低姿态权宜]].
 
+[[zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]] turns him from a disciplined reward-and-punishment ruler into a cautionary timing case. After [[QinState|秦国]] has attacked Han at [[YiyangWarringStates|宜阳]] and after Han has suffered drought, he builds a high gate. [[QuYijiu|屈宜臼]] criticizes the project as [[UntimelyExtravagance|时绌举赢]], arguing that the political meaning of a ruler's action depends on the state's condition.
+
 This page is source-scoped and distinct from [[HanZhao|韩钊]], the modern translator page already in the wiki. Here "昭侯" is a Warring States ruler title, not the personal-name string used by the unrelated modern entity.
 
 ## Connections
@@ -22,3 +24,4 @@ This page is source-scoped and distinct from [[HanZhao|韩钊]], the modern tran
 - [[QinState|秦国]], [[QinEastwardPressure]], and [[EarlyWarringStatesInterstateWar]] - strategic background for the meeting.
 - [[ShenBuhai|申不害]], [[MeritBasedRewardPunishment]], and [[LegalistRulerTechnique]] - Zhouji 17 ministerial and reward-discipline branch.
 - [[LowPostureStatecraft|低姿态权宜]] and [[XuzhouMutualKingship|徐州相王]] - Zhouji 27 retrospective on Han's earlier deferential posture.
+- [[QuYijiu|屈宜臼]], [[YiyangWarringStates|宜阳]], and [[UntimelyExtravagance|时绌举赢]] - Zhouji 28 high-gate timing warning.

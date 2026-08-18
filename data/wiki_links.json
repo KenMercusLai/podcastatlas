@@ -31847,6 +31847,10 @@
     "title": "去现场 / Qu Xianchang",
     "url": "/wiki/entities/quxianchang/"
   },
+  "QuYijiu": {
+    "title": "屈宜臼 / Qu Yijiu",
+    "url": "/wiki/entities/quyijiu/"
+  },
   "QualityLowPriceReasonedPremium": {
     "title": "Quality Low Price And Reasoned Premium / 有品质的低价与有理由的溢价",
     "url": "/wiki/concepts/qualitylowpricereasonedpremium/"
@@ -36659,6 +36663,10 @@
     "title": "Status Descent Pressure / 身份落差压力",
     "url": "/wiki/concepts/statusdescentpressure/"
   },
+  "StatusOrderBacklash": {
+    "title": "Status Order Backlash / 名分秩序反弹",
+    "url": "/wiki/concepts/statusorderbacklash/"
+  },
   "StatusQuoRationalization": {
     "title": "Status-Quo Rationalization / 现状合理化",
     "url": "/wiki/concepts/statusquorationalization/"
@@ -37038,6 +37046,10 @@
   "SuLinWong": {
     "title": "Su-Lin Wong",
     "url": "/wiki/entities/sulinwong/"
+  },
+  "SuQin": {
+    "title": "苏秦 / Su Qin",
+    "url": "/wiki/entities/suqin/"
   },
   "SuShi": {
     "title": "苏轼 / Su Shi / Su Dongpo",
@@ -40039,6 +40051,10 @@
     "title": "说不出口的心事 / Unspoken Feeling As Mystery",
     "url": "/wiki/concepts/unspokenfeelingasmystery/"
   },
+  "UntimelyExtravagance": {
+    "title": "时绌举赢 / Untimely Extravagance",
+    "url": "/wiki/concepts/untimelyextravagance/"
+  },
   "UpwardManagement": {
     "title": "Upward Management",
     "url": "/wiki/concepts/upwardmanagement/"
@@ -43019,6 +43035,14 @@
     "title": "《越女剑》",
     "url": "/wiki/entities/yuenvjian/"
   },
+  "YueState": {
+    "title": "越国 / Yue State",
+    "url": "/wiki/entities/yuestate/"
+  },
+  "YueWangWujiang": {
+    "title": "越王无疆 / Yue Wang Wujiang",
+    "url": "/wiki/entities/yuewangwujiang/"
+  },
   "YueZhongqi": {
     "title": "岳钟琪 / Yue Zhongqi",
     "url": "/wiki/entities/yuezhongqi/"
@@ -43183,6 +43207,10 @@
     "title": "张伯后 / Jerry",
     "url": "/wiki/entities/zhangbohoujerry/"
   },
+  "ZhangChou": {
+    "title": "张丑 / Zhang Chou",
+    "url": "/wiki/entities/zhangchou/"
+  },
   "ZhangCongzhi": {
     "title": "张从志 / Zhang Congzhi",
     "url": "/wiki/entities/zhangcongzhi/"
@@ -43318,6 +43346,10 @@
   "ZhangYi": {
     "title": "Zhang Yi",
     "url": "/wiki/entities/zhangyi/"
+  },
+  "ZhangYiStrategist": {
+    "title": "张仪 / Zhang Yi (Warring States strategist)",
+    "url": "/wiki/entities/zhangyistrategist/"
   },
   "ZhangYiming": {
     "title": "Zhang Yiming",
@@ -43846,6 +43878,10 @@
   "ZongQinghou": {
     "title": "宗庆后 / Zong Qinghou",
     "url": "/wiki/entities/zongqinghou/"
+  },
+  "ZonghengjiaDiplomacy": {
+    "title": "纵横家外交 / Zonghengjia Diplomacy",
+    "url": "/wiki/concepts/zonghengjiadiplomacy/"
   },
   "Zoox": {
     "title": "Zoox",
@@ -46854,5 +46890,9 @@
   "zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb": {
     "title": "《资治通鉴·周纪》27丨围观魏惠王和齐威王是咋商业互捧",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb/"
+  },
+  "zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8": {
+    "title": "《资治通鉴·周纪》28丨韩昭侯的快乐你想象不到",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8/"
   }
 }
