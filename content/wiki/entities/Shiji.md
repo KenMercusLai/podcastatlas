@@ -2,8 +2,8 @@
 title: "《史记》 / Shiji"
 type: entity
 tags: [book, history, chinese-history, historiography]
-sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+last_updated: 2026-08-19
 ---
 
 # 《史记》 / Shiji
@@ -18,6 +18,8 @@ The page's role is historiographical rather than encyclopedic. It marks a source
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] uses [[SimaQian|司马迁]]'s judgment on Wei's survival after [[ZhuozeBattle|浊泽之战]]. In the episode's reading, the key point is not only that [[LiangHuiWang|魏罃]] wins, but that Han and Zhao's incompatible plans prevent Wei from being partitioned or controlled.
 
+[[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] again uses Shiji as a supplement to the terse chronicle. The host cites it for [[LiangHuiWang|魏罃 / 梁惠王]] seeking peace with [[QiState|齐国]] after Qi attacks [[WeiState|魏国]], and for Wei's successful attack on [[SongState|宋国]] in 365 BCE.
+
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle being supplemented in the episode.
 - [[YuRang|豫让]], [[ZhiYao|智瑶]], and [[RetainerReciprocityEthic]] - assassins-tradition branch added by Zhouji 04.
@@ -26,3 +28,4 @@ The page's role is historiographical rather than encyclopedic. It marks a source
 - [[QinState|秦国]] and [[ZhouRoyalHouse|周王室]] - political setting of the Shiji passage.
 - [[Zhanguoce|《战国策》]], [[HanAihou|韩哀侯]], and [[YanZhongzi|严遂]] - later source-variant branch around the Han assassination.
 - [[SimaQian|司马迁]], [[LiangHuiWang|魏罃 / 梁惠王]], [[ZhuozeBattle|浊泽之战]], and [[CoalitionSettlementFailure]] - part 3 judgment on Wei's survival.
+- [[QiState|齐国]], [[WeiState|魏国]], [[SongState|宋国]], and [[TerritorialControlChurn]] - Zhouji 11 supplemental war notices.

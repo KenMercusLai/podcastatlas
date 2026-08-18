@@ -2,8 +2,8 @@
 title: "齐国 / Qi State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+last_updated: 2026-08-19
 ---
 
 # 齐国 / Qi State
@@ -22,6 +22,8 @@ The page also gives a home to existing Qi-related pre-Qin nodes such as [[QiHuan
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] adds a contested [[QiWeiwang|齐威王]] branch. The source says [[ZizhiTongjian|《资治通鉴》]] places Qi Wei Wang's Zhou-court visit and the [[JimoDafu|即墨大夫]] / [[AyiDafu|阿邑大夫]] official-audit story under [[ZhouLiewang|周烈王]]'s sixth year, but the host argues the date is probably wrong because the surrounding Qi chronology is not yet ready for Qi Wei Wang. The administrative lesson remains important as [[IndependentOfficialAudit]].
 
+[[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] begins [[ZhouXianwang|周显王]]'s reign with Qi attacking [[WeiState|魏国]] and occupying Guanjing in 368 BCE. The episode then has [[ZhaoState|赵国]] attack Qi and seize a Qi-built wall or fortification line, turning Qi from opportunistic attacker into target within the same year cluster.
+
 ## Connections
 - [[SimaRangju|司马穰苴]], [[YanYing|晏婴]], and [[QiJinggong|齐景公]] - source-specific Qi branch.
 - [[QiHuanGong|齐桓公]] and [[QiXuanWang|齐宣王]] - existing Qi-related wiki pages.
@@ -31,3 +33,4 @@ The page also gives a home to existing Qi-related pre-Qin nodes such as [[QiHuan
 - [[EarlyWarringStatesInterstateWar]], [[YanState|燕国]], [[QiKangGong|齐康公]], [[TianQiHuanGong|Tian-family Qi Huan Gong]], and [[TianYingqi|田英齐]] - Zhouji 09 war and Qi-transition branch.
 - [[LuState|鲁国]], [[WeyState|卫国]], [[YanHuanGong|燕桓公]], and [[ZhouLiewang|周烈王]] - Zhouji 10 attack cluster.
 - [[QiWeiwang|齐威王]], [[JimoDafu|即墨大夫]], [[AyiDafu|阿邑大夫]], [[IndependentOfficialAudit]], and [[ChronicleChronologyDrift]] - Zhouji 10 part 2 contested chronology and official-audit branch.
+- [[WeiState|魏国]], [[ZhaoState|赵国]], [[ZhouXianwang|周显王]], [[EarlyWarringStatesInterstateWar]], and [[TerritorialControlChurn]] - Zhouji 11 opportunistic attack and counterattack branch.

@@ -2,8 +2,8 @@
 title: "韩国 / Han State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+last_updated: 2026-08-19
 ---
 
 # 韩国 / Han State
@@ -28,6 +28,8 @@ The source uses Han less as a full institutional history than as a succession an
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] returns Han to strategic expansion. [[WangChuo|王绰]]'s flight from Wei and [[GongsunQi|公孙齐]]'s advice lead [[HanYihou|韩懿侯]] to join [[ZhaoChenghou|赵成侯]] against Wei. Han then favors partitioning Wei into smaller states, but withdraws when Zhao prefers installing [[GongzhongHuan|公中缓]] and taking territory.
 
+[[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] shifts Han from attacking Wei to coordinating with it under [[QinEastwardPressure|Qin eastward pressure]]. In 366 BCE, Han and [[WeiState|魏国]] meet at Zaiyang, but [[QinState|秦国]] defeats their joint force at Luoyang Jinjiao.
+
 ## Connections
 - [[HanJinghou|韩景侯]] and [[HanLiehou|韩烈侯]] - succession pair in the source.
 - [[ZhiYao|智瑶]], [[PartitionOfJin]], and [[ThreeJinVassalRecognition]] - Zhouji 04 Jin-partition and formal-recognition branch.
@@ -42,3 +44,4 @@ The source uses Han less as a full institutional history than as a succession an
 - [[HanKangzi|韩康子]], [[HanWuzi|韩武子]], [[GenerationalFamilyStrategy]], and [[StrategicCapitalRelocation]] - Zhouji 10 long conquest of Zheng.
 - [[YanZhongzi|严遂]], [[HanGui|韩廆]], [[HanYihou|韩懿侯]], [[Zhanguoce|《战国策》]], and [[Shiji|《史记》]] - Zhouji 10 part 2 assassination and source-variant branch.
 - [[WangChuo|王绰]], [[GongsunQi|公孙齐]], [[ZhaoChenghou|赵成侯]], [[ZhuozeBattle|浊泽之战]], [[SuccessionCrisisIntervention]], and [[CoalitionSettlementFailure]] - Zhouji 10 part 3 intervention and settlement branch.
+- [[QinState|秦国]], [[QinEastwardPressure]], and [[EarlyWarringStatesInterstateWar]] - Zhouji 11 Wei-Han coordination under Qin pressure.

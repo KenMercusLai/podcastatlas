@@ -2,8 +2,8 @@
 title: "周王室 / Zhou Royal House"
 type: entity
 tags: [polity, pre-qin, zhou-dynasty, china]
-sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+last_updated: 2026-08-19
 ---
 
 # 周王室 / Zhou Royal House
@@ -22,6 +22,8 @@ The page's role is chronological and legitimating: even as the episode moves thr
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] adds a more active Zhou diplomatic role through [[TaishiDan|太史旦]]. The host reads Taishi Dan's visit to [[QinXianGong|秦献公]] as an attempt to stress old Zhou-Qin ties and pull [[QinState|秦国]] toward respect for Zhou legitimacy through [[KinshipLegitimacyDiplomacy|kinship legitimacy diplomacy]].
 
+[[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] adds the ritual-recognition side of that Qin branch. After [[QinXianGong|秦献公]] defeats the Three Jin coalition at [[ShimenBattle|石门之战]], [[ZhouXianwang|周显王]] grants [[FufuRobe|黻服]], letting Zhou ritual language recognize Qin's battlefield status even while substantive power has shifted away from the royal house.
+
 ## Connections
 - [[ZhouWeilieWang|周威烈王]] and [[ZhouAnWang|周安王]] - succession pair in the source.
 - [[ThreeJinVassalRecognition|三晋受封]], [[PartitionOfJin]], [[WeiWenhou|魏文侯]], [[ZhaoLiehou|赵烈侯]], and [[HanJinghou|韩景侯]] - Zhouji 04 formal-recognition branch.
@@ -32,3 +34,4 @@ The page's role is chronological and legitimating: even as the episode moves thr
 - [[SongState|宋国]], [[WeiziQi|微子启]], and [[ShangRemnantStateLegitimacy]] - episode 07 part 2 incorporation branch.
 - [[ZhouLiewang|周烈王]], [[EarlyWarringStatesInterstateWar]], and [[JinJinggong|晋静公]] - Zhouji 09 reign transition and old-order ending.
 - [[TaishiDan|太史旦]], [[Shiji|《史记》]], [[QinState|秦国]], [[QinXianGong|秦献公]], and [[KinshipLegitimacyDiplomacy]] - Zhouji 10 Qin outreach branch.
+- [[ZhouXianwang|周显王]], [[ShimenBattle|石门之战]], [[FufuRobe|黻服]], [[TwelveInsigniaPoliticalSymbolism|十二华章政治象征]], and [[RitualRecognitionOfMilitaryPower]] - Zhouji 11 ritual-recognition branch.

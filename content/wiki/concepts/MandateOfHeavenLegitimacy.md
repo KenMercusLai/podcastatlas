@@ -2,8 +2,8 @@
 title: "Mandate of Heaven Legitimacy / 天命合法性"
 type: concept
 tags: [history, politics, china, legitimacy]
-sources: [126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+last_updated: 2026-08-19
 ---
 
 # Mandate of Heaven Legitimacy / 天命合法性
@@ -22,6 +22,8 @@ The concept is important because it separates sacred legitimacy from simple prop
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] adds a diplomatic-hegemon version. [[TaishiDan|太史旦]] tells [[QinXianGong|秦献公]] that Zhou and Qin have a shared past and that a hegemon will appear after their reunion; the host reads this as an appeal to Qin's possible heavenly role in support of [[ZhouRoyalHouse|周王室]] authority.
 
+[[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] adds a ritual-material counterpart. [[ZhouXianwang|周显王]] gives [[FufuRobe|黻服]] to [[QinXianGong|秦献公]] after [[ShimenBattle|石门之战]], and the host reads the gift as an acknowledgment of Qin's conquering status. This is not a mandate-transfer claim, but it belongs near mandate language because Zhou ritual recognition helps narrate legitimate power.
+
 ## Key Claims
 - A mandate narrative strengthens a dynasty by making rule more than military success.
 - The same narrative can imply that Heaven may withdraw approval.
@@ -32,6 +34,7 @@ The concept is important because it separates sacred legitimacy from simple prop
 - Episode 07 adds that destructive natural signs could be read as warnings about a state's fate, not only as favorable omens.
 - Episode 07 part 2 adds that celestial signs such as eclipses could similarly be read as political responsibility signals.
 - Mandate language can flatter a rising power while trying to bind it to older legitimate authority.
+- Ritual recognition can acknowledge a rising power without claiming that Heaven has fully transferred rule to it.
 
 ## Connections
 - [[WesternHanDynasty]], [[LiuBang]], [[WangMang]], and [[XinDynasty]] - source case.
@@ -42,3 +45,4 @@ The concept is important because it separates sacred legitimacy from simple prop
 - [[NaturalDisasterPoliticalOmen]], [[WangYinglin|王应麟]], and [[WeiState|魏国]] - episode 07 disaster-omen branch.
 - [[CelestialOmenPoliticalResponsibility]] and [[Shijing|《诗经》]] - episode 07 part 2 eclipse branch.
 - [[TaishiDan|太史旦]], [[QinXianGong|秦献公]], [[ZhouRoyalHouse|周王室]], and [[KinshipLegitimacyDiplomacy]] - Zhouji 10 Qin-hegemon appeal.
+- [[ZhouXianwang|周显王]], [[ShimenBattle|石门之战]], [[FufuRobe|黻服]], and [[RitualRecognitionOfMilitaryPower]] - Zhouji 11 ritual-material legitimacy branch.

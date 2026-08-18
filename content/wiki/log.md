@@ -8122,3 +8122,11 @@ Added source page for a 芮淇讲透资治通鉴 episode on Wei Wenhou's respect
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-19] ingest | 《资治通鉴·周纪》11丨 世界风起云涌（1）
+
+Added source page for a 芮淇讲透资治通鉴 episode opening Zhouji 11 and Zhou Xian Wang's reign, covering Qi's attack on Wei, Zhao's attack on Qi, Wei-Han coordination and defeat against Qin, Wei's attack on Song, Qin Xian Gong's Shimen victory, Zhou Xian Wang's 黻服 gift, and source-gap notices around blank years. Created pages for Shimen Battle, Fufu Robe, Qin Eastward Pressure, Ritual Recognition of Military Power, and Twelve Insignia Political Symbolism; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou Xian Wang, Zhou Royal House, Qin Xian Gong, Qin State, Wei State, Han State, Zhao State, Qi State, Song State, Liang Hui Wang, Shiji, Sima Guang, Warring States Period, Early Warring States Interstate War, Territorial Control Churn, Chronicle Source Gaps, Kinship Legitimacy Diplomacy, and Mandate of Heaven Legitimacy. No direct contradiction found; the source extends the previous Wei succession aftermath while keeping brief place names and battle figures source-scoped.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

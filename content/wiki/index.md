@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》11丨 世界风起云涌（1）](sources/zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5.md) — 芮淇讲透资治通鉴 episode opening Zhouji 11 under Zhou Xian Wang, with Qi/Zhao/Wei opportunistic war, Wei-Han coordination against Qin, Qin Xian Gong's Shimen victory, and Zhou ritual recognition through 黻服.
 - [《资治通鉴·周纪》05｜光彩夺目的魏文侯（1）](sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl.md) — 芮淇讲透资治通鉴 episode on Wei Wenhou's respect for scholars, promise-keeping, symmetric diplomacy with Han and Zhao, and Sima Guang's "small trust builds large trust" statecraft lesson.
 - [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（3）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf.md) — 芮淇讲透资治通鉴 episode on Wei Ying and Gongzhong Huan's succession war, Han-Zhao intervention at Zhuoze, the failed partition-vs-puppet settlement, and Wei Ying's rise as Liang Hui Wang.
 - [《资治通鉴·周纪》04｜豫让 为智瑶复仇](sources/zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik.md) — 芮淇讲透资治通鉴 episode on Zhi Yao's talent-without-virtue failure, Yu Rang's revenge and retainer honor, Zhao Xiangzi's conquest and succession decisions, and Zhou Weilie Wang's formal recognition of Han, Zhao, and Wei.
@@ -1015,6 +1016,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [石门之战 / Battle of Shimen](entities/ShimenBattle.md) — 364 BCE Qin victory over the Three Jin coalition that leads Zhou Xian Wang to grant Qin Xian Gong a ritual robe.
+- [黻服 / Fu Robe](entities/FufuRobe.md) — Ritual garment granted by Zhou Xian Wang to Qin Xian Gong after Shimen, used to connect court dress to political recognition.
 - [周显王 / King Xian of Zhou](entities/ZhouXianwang.md) — Zhou Lie Wang's younger brother and successor in the 369 BCE Zhouji 10 part 3 notice.
 - [王绰 / Wang Chuo](entities/WangChuo.md) — Wei official whose flight to Han helps reveal Wei's succession vulnerability.
 - [公孙齐 / Gongsun Qi](entities/GongsunQi.md) — Han official who advises Han Yihou to attack Wei during its succession crisis.
@@ -6920,6 +6923,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Qin Eastward Pressure / 秦国东进压力](concepts/QinEastwardPressure.md) — Zhouji 11 pattern in which Qin's eastern expansion forces Wei, Han, and Zhao to react despite their own rivalry.
+- [Ritual Recognition of Military Power / 礼制承认军事权力](concepts/RitualRecognitionOfMilitaryPower.md) — Interpretation of Zhou Xian Wang's 黻服 gift as symbolic ratification of Qin Xian Gong's military status.
+- [十二华章政治象征 / Twelve Insignia Political Symbolism](concepts/TwelveInsigniaPoliticalSymbolism.md) — Pre-Qin garment-symbol vocabulary used in Zhouji 11 to explain why 黻服 could carry political meaning.
 - [Talent Attraction Through Respect / 礼贤下士式人才吸附](concepts/TalentAttractionThroughRespect.md) — Wei Wenhou's ruler-image mechanism where respect for scholars and recluses attracts capable people without coercion.
 - [Small Trust Builds Large Trust / 小信诚则大信立](concepts/SmallTrustBuildsLargeTrust.md) — Sima Guang's statecraft principle that minor kept promises make larger political credibility possible.
 - [Symmetric Interstate Credibility / 对称外交信用](concepts/SymmetricInterstateCredibility.md) — Diplomatic trust produced when Wei refuses both Han's anti-Zhao request and Zhao's anti-Han request on the same brother-state grounds.

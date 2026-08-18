@@ -2,8 +2,8 @@
 title: "战国时期 / Warring States Period"
 type: entity
 tags: [history, china, pre-qin, political-theory, warfare]
-sources: [30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+last_updated: 2026-08-19
 ---
 
 # 战国时期 / Warring States Period
@@ -32,6 +32,8 @@ This page is source-scoped. Its role is to explain why [[Mengzi|孟子 / Mencius
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] adds the institutional fragility behind that conflict tempo. Han court violence, Wei succession disorder, Qi reputation auditing, and explicit source dating doubts show early Warring States politics as a problem of records, heirs, information channels, and interstate pressure at the same time.
 
+[[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] opens [[ZhouXianwang|周显王]]'s long reign as a still more crowded conflict field. Qi, Zhao, Wei, Han, Song, and Qin all appear in terse war notices, while [[QinEastwardPressure]] and [[ShimenBattle|石门之战]] show Qin's military advantage becoming visible to the Three Jin states. The source also adds a ritual layer: [[FufuRobe|黻服]] and [[TwelveInsigniaPoliticalSymbolism|十二华章政治象征]] show that warfare and legitimacy are being narrated through material symbols as well as armies.
+
 ## Connections
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode.
 - [[SpringAndAutumnPeriod|春秋时期]] and [[SpringAutumnWarfareRitual]] - adjacent earlier pre-Qin history branch.
@@ -49,3 +51,4 @@ This page is source-scoped. Its role is to explain why [[Mengzi|孟子 / Mencius
 - [[EarlyWarringStatesInterstateWar]], [[QiKangGong|齐康公]], [[JinJinggong|晋静公]], [[Zisi|子思]], [[UseStrengthsOverFaults]], and [[CourtFeedbackCollapse]] - Zhouji 09 war, old-order, and governance branch.
 - [[GenerationalFamilyStrategy]], [[StrategicCapitalRelocation]], [[KinshipLegitimacyDiplomacy]], [[TaishiDan|太史旦]], [[ZhaoChenghou|赵成侯]], and [[WeyState|卫国]] - Zhouji 10 long strategy, Qin diplomacy, and compact conflict notices.
 - [[SuccessionNonDesignationRisk]], [[IndependentOfficialAudit]], [[ChronicleChronologyDrift]], [[QiWeiwang|齐威王]], [[HanGui|韩廆]], and [[GongzhongHuan|公中缓]] - Zhouji 10 part 2 succession, audit, and historiography branch.
+- [[ZhouXianwang|周显王]], [[QinEastwardPressure]], [[ShimenBattle|石门之战]], [[FufuRobe|黻服]], [[TwelveInsigniaPoliticalSymbolism|十二华章政治象征]], and [[RitualRecognitionOfMilitaryPower]] - Zhouji 11 Qin pressure and ritual-recognition branch.

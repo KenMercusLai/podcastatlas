@@ -2,8 +2,8 @@
 title: "魏国 / Wei State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+last_updated: 2026-08-19
 ---
 
 # 魏国 / Wei State
@@ -32,6 +32,8 @@ In this page, Wei is not yet a full institutional history. Its wiki role is to h
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] shows that the succession disorder nearly destroys Wei. [[HanState|韩国]] and [[ZhaoState|赵国]] defeat Wei at [[ZhuozeBattle|浊泽之战]] and besiege [[Anyi|安邑]], but Wei survives because the victors split over whether to partition the state or install [[GongzhongHuan|公中缓]] under land concessions. [[LiangHuiWang|魏罃]] then kills Gongzhong Huan and consolidates rule.
 
+[[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] shows the immediate aftermath of that survival. [[QiState|齐国]] attacks Wei in 368 BCE, and [[LiangHuiWang|魏罃 / 梁惠王]] seeks peace to stabilize internal rule. Wei then joins [[HanState|韩国]] against [[QinState|秦国]] but loses at Luoyang Jinjiao, attacks [[SongState|宋国]] in 365 BCE, and faces continued Qin attack at Shaoliang in 363 BCE.
+
 ## Connections
 - [[WeiWenhou|魏文侯]] - ruler named in the episode title.
 - [[TalentAttractionThroughRespect]], [[SmallTrustBuildsLargeTrust]], [[SymmetricInterstateCredibility]], and [[RenhePoliticalPower]] - Zhouji 05 explanation of Wei Wenhou's early prestige.
@@ -49,3 +51,4 @@ In this page, Wei is not yet a full institutional history. Its wiki role is to h
 - [[ZhaoState|赵国]], [[ZhaoChenghou|赵成侯]], [[ZhouLiewang|周烈王]], and [[TerritorialControlChurn]] - Zhouji 10 conflict and settlement-scale branch.
 - [[GongzhongHuan|公中缓]], [[LiangHuiWang|魏罃 / 梁惠王]], [[SuccessionNonDesignationRisk]], [[ChuState|楚国]], and [[ChronicleChronologyDrift]] - Zhouji 10 part 2 succession and conflict branch.
 - [[WangChuo|王绰]], [[GongsunQi|公孙齐]], [[ZhuozeBattle|浊泽之战]], [[Anyi|安邑]], [[SuccessionCrisisIntervention]], and [[CoalitionSettlementFailure]] - Zhouji 10 part 3 intervention and survival branch.
+- [[QiState|齐国]], [[QinState|秦国]], [[HanState|韩国]], [[SongState|宋国]], [[QinEastwardPressure]], [[EarlyWarringStatesInterstateWar]], and [[TerritorialControlChurn]] - Zhouji 11 post-succession pressure branch.

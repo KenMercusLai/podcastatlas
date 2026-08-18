@@ -2,8 +2,8 @@
 title: "Chronicle Source Gaps / 编年史料空缺"
 type: concept
 tags: [historiography, source-criticism, chinese-history]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+last_updated: 2026-08-19
 ---
 
 # Chronicle Source Gaps / 编年史料空缺
@@ -18,6 +18,8 @@ This concept extends [[HistoricalDetectiveReasoning]]. A gap can be informative,
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] distinguishes gaps from [[ChronicleChronologyDrift|chronology drift]]. The problem is not only blank years; preserved notices such as [[QiWeiwang|齐威王]]'s visit may also sit in doubtful positions when the underlying Warring States record is thin and later sources have already transmitted errors.
 
+[[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] adds two early [[ZhouXianwang|周显王]] blank-year cases. The host says 367 BCE has no chronicle entry, and that 363 BCE is skipped in [[ZizhiTongjian|《资治通鉴》]] even though other material suggests [[QinState|秦国]] attacked [[WeiState|魏国]] at Shaoliang and [[ZhaoState|赵国]] sent aid.
+
 ## Key Claims
 - Sparse annals may reflect source survival, not the absence of events.
 - A responsible reader separates preserved chronology from reconstructed motive.
@@ -25,6 +27,7 @@ This concept extends [[HistoricalDetectiveReasoning]]. A gap can be informative,
 - Explicitly marking a blank year protects the wiki from smoothing a jagged historical record into a false continuous story.
 - A blank year can justify consulting another source, but the borrowed episode still needs its own evidentiary label.
 - Source instability can also appear as a wrong date, not only as an absent entry.
+- Repeated blank years in a short reign-opening sequence should be marked as source texture rather than smoothed into a continuous campaign narrative.
 
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]] and [[SimaGuang|司马光]] - chronicle and compiler frame.
@@ -34,3 +37,4 @@ This concept extends [[HistoricalDetectiveReasoning]]. A gap can be informative,
 - [[EarlyWarringStatesInterstateWar]] - Zhouji 09 uncertain-war-boundary case.
 - [[Shiji|《史记》]], [[TaishiDan|太史旦]], [[QinXianGong|秦献公]], and [[KinshipLegitimacyDiplomacy]] - Zhouji 10 source-switching case.
 - [[ChronicleChronologyDrift]], [[QiWeiwang|齐威王]], [[SimaGuang|司马光]], and [[WarringStatesPeriod|战国时期]] - Zhouji 10 part 2 chronology-drift case.
+- [[ZhouXianwang|周显王]], [[QinState|秦国]], [[WeiState|魏国]], [[ZhaoState|赵国]], and [[QinEastwardPressure]] - Zhouji 11 blank-year and supplemental-notice case.

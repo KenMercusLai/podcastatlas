@@ -2,8 +2,8 @@
 title: "芮淇讲透资治通鉴 / Ruiqi Jiangtou Zizhi Tongjian"
 type: entity
 tags: [podcast, chinese-history, classics, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+last_updated: 2026-08-19
 ---
 
 # 芮淇讲透资治通鉴 / Ruiqi Jiangtou Zizhi Tongjian
@@ -30,6 +30,8 @@ last_updated: 2026-08-18
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] completes that Wei succession arc. The episode turns [[GongzhongHuan|公中缓]]'s appeal to Zhao, Han-Zhao victory at [[ZhuozeBattle|浊泽之战]], and the coalition's failed settlement into [[SuccessionCrisisIntervention]] and [[CoalitionSettlementFailure]].
 
+[[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] opens the show's Zhouji 11 and [[ZhouXianwang|周显王]] branch. It reads Qi, Zhao, Wei, Han, Song, and Qin war notices through [[EarlyWarringStatesInterstateWar]], then turns [[QinXianGong|秦献公]]'s [[ShimenBattle|石门]] victory and [[FufuRobe|黻服]] gift into [[QinEastwardPressure]] and [[RitualRecognitionOfMilitaryPower]].
+
 The episode's wiki role is to add a pre-Qin classics-reading branch that is more managerial and historiographical than literary. It cares about how commanders create morale, how annals encode succession, and how a terse phrase such as "盗贼杀君" can invite cautious political inference.
 
 ## Connections
@@ -45,3 +47,4 @@ The episode's wiki role is to add a pre-Qin classics-reading branch that is more
 - [[GenerationalFamilyStrategy]], [[StrategicCapitalRelocation]], [[TaishiDan|太史旦]], [[QinXianGong|秦献公]], and [[KinshipLegitimacyDiplomacy]] - Zhouji 10 long strategy and Qin diplomacy extension.
 - [[SuccessionNonDesignationRisk]], [[IndependentOfficialAudit]], [[ChronicleChronologyDrift]], [[QiWeiwang|齐威王]], and [[GongzhongHuan|公中缓]] - Zhouji 10 part 2 succession, audit, and chronology extension.
 - [[ZhuozeBattle|浊泽之战]], [[Anyi|安邑]], [[SuccessionCrisisIntervention]], and [[CoalitionSettlementFailure]] - Zhouji 10 part 3 intervention and settlement extension.
+- [[QinEastwardPressure]], [[ShimenBattle|石门之战]], [[FufuRobe|黻服]], [[TwelveInsigniaPoliticalSymbolism|十二华章政治象征]], and [[RitualRecognitionOfMilitaryPower]] - Zhouji 11 Qin pressure and ritual-recognition extension.
