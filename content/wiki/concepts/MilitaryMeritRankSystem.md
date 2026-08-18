@@ -2,7 +2,7 @@
 title: "Military Merit Rank System / 军功爵制"
 type: concept
 tags: [warfare, statecraft, legalism, hierarchy, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+sources: [zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
 last_updated: 2026-08-19
 ---
 
@@ -12,15 +12,19 @@ Military merit rank system / 军功爵制 is the status mechanism [[zizhi-tongji
 
 The system matters because it converts war performance into social hierarchy. Old aristocrats and royal kin can no longer rely only on lineage if they do not fight; common soldiers can gain a path upward if they deliver military results. In the source's reading, this is both an engine of [[QinState|秦国]] strength and a reason reforms create dangerous losers.
 
+[[zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi]] adds the command-incentive side. The episode argues that [[ShangYang|公孙鞅 / 商鞅]] personally attacks [[WeiState|魏国]] because Qin's broader [[FarmingWarStatecraft|耕战逻辑]] makes battlefield success the route to major reward. It also says this system makes a no-gain retreat implausible: an invading commander who withdraws after a friendly drink would face the army's expectation that war should produce credit.
+
 ## Key Claims
 - Military achievement becomes a measurable basis for rank and privilege.
 - Hereditary status is weakened when kinship without battle merit stops guaranteeing honor.
 - The state channels ambition toward war by making battlefield success socially convertible.
 - Meritocratic mobility and elite dispossession are two sides of the same reform mechanism.
+- The same reward structure can pressure high officials into personal command and make peace offers suspicious when they would produce no credit.
 
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]] and [[QinXiaogong|秦孝公]] - reformer and ruler.
 - [[ShangYangReforms]] - broader policy package containing the system.
+- [[FarmingWarStatecraft|耕战逻辑]], [[QinEastwardPressure]], and [[PeaceParleyEntrapment|和谈诱捕]] - Zhouji 22 extension into campaign incentives and fake withdrawal.
 - [[QinState|秦国]] and [[WarringStatesPeriod|战国时期]] - state and military-competition setting.
 - [[WarringStatesReformBacklash]] - backlash risk from converting old privilege into state capacity.
 - [[LegalistRulerTechnique]] - adjacent logic of rule through incentive design and enforceable standards.

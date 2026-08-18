@@ -2,7 +2,7 @@
 title: "梁惠王 / King Hui of Liang"
 type: entity
 tags: [person, ruler, china, warring-states]
-sources: [zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -26,6 +26,8 @@ In the source, Liang Hui Wang is not treated as a cartoon villain. He undertakes
 
 [[zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4]] gives the outcome that the Mencius branch remembers as post-Maling humiliation. [[PangJuan|庞涓]] dies, [[WeiState|魏国]]'s army is broken, and [[PrinceShenWei|太子申]] is captured. The source frames this as the point after which Wei can no longer contend with the other lords as before.
 
+[[zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi]] continues that post-Maling vulnerability. When [[QinState|秦国]] attacks under [[ShangYang|公孙鞅 / 商鞅]], Liang Hui Wang sends [[GongziAng|公子卬 / 公子昂]] to meet the threat. The source presents this as another painful royal-family exposure after Prince Shen: Wei can still send commanders, but its strategic room has narrowed and Qin can exploit the moment.
+
 ## Connections
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode.
 - [[Mengzi|孟子 / Mencius]] and [[MenciusText|《孟子》]] - dialogue context.
@@ -38,3 +40,4 @@ In the source, Liang Hui Wang is not treated as a cartoon villain. He undertakes
 - [[LongJia|龙甲]], [[HanZhaohou|韩昭侯]], [[WeiGreatWallAntiQinDefense]], and [[QinEastwardPressure]] - Zhouji 14 defensive and diplomatic response branch.
 - [[ShangYang|公孙鞅 / 商鞅]], [[Anyi|安邑]], [[Guyang|固阳]], [[Handan|邯郸]], [[ZhangshuiAlliance|漳水之盟]], [[XianglingWarringStates|襄陵]], and [[Jingshe|景舍]] - Zhouji 17 pressure and reconciliation branch.
 - [[PrinceShenWei|太子申]], [[MalingBattle|马陵之战]], [[Daliang|大梁]], [[CrownPrinceCommandRisk]], and [[DecreasingStovesDeception]] - Zhouji 19-20 crown-prince command and Maling defeat branch.
+- [[GongziAng|公子卬 / 公子昂]], [[PeaceParleyEntrapment|和谈诱捕]], and [[QinEastwardPressure]] - Zhouji 22 post-Maling Qin attack branch.

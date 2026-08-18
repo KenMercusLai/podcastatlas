@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》22丨公孙鞅诈魏公子卬
+
+Added source page for a 芮淇讲透资治通鉴 episode on Shang Yang's 340 BCE attack on Wei, Qin-Wei strategic rivalry, Qin's 耕战 and military-merit incentive logic, Gongzi Ang's trust in an old-friend peace parley, and Shang Yang's capture of him through hidden armed men after the oath and drinking. Created pages for Gongzi Ang, Farming-War Statecraft, and Peace-Parley Entrapment; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Shang Yang, Qin State, Wei State, Qin Xiao Gong, Liang Hui Wang, Zhou Xian Wang, Warring States Period, Sunzi Bingfa, Qin Eastward Pressure, Shang Yang Reforms, Military Merit Rank System, and Motivated Bias. No direct contradiction found; the source extends the post-Maling Wei decline and Qin reform branches while normalizing transcript variants 公孙央/公孙鞅 and 公子昂/公子卬 as name variants.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》21丨邹忌下阴招 田忌国外避难
 
 Added source page for a 芮淇讲透资治通鉴 episode on the post-Maling court struggle between Zou Ji and Tian Ji, including the staged divination and treason implication, source wording differences among Zizhi Tongjian, Shiji, and Zhanguo Ce, Sun Bin's Yongmen counterattack advice, and Tian Ji's flight to Chu. Created Treason Accusation Trap; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Shiji, Zhanguo Ce, Qi State, Chu State, Qi Wei Wang, Tian Ji, Sun Bin, Zou Ji, and Battle of Maling. No direct contradiction found; the source qualifies the Maling victory as a political liability for Tian Ji once military prestige becomes usable evidence in a court accusation.
@@ -8206,3 +8210,7 @@ Ran health and lint checks. Health passed. Deterministic lint found one orphan p
 ## [2026-08-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran health before lint; health scanned 11,678 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,678 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is unset and no provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -2,7 +2,7 @@
 title: "Shang Yang / 商鞅"
 type: entity
 tags: [person, philosophy, chinese-history, legalism, political-theory]
-sources: [zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
+sources: [zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
 last_updated: 2026-08-19
 ---
 
@@ -16,6 +16,8 @@ The same source makes his danger visible before the later outcome arrives. After
 
 [[zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]] extends the same reform branch into fiscal extraction. The host says Shang Yang's 348 BCE tax change, following the abolition of older field boundaries and opening of qianmo, likely produced China's first [[PollTax|人头税]].
 
+[[zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi]] turns Shang Yang from reformer into battlefield operator. In 340 BCE he persuades [[QinXiaogong|秦孝公]] that Wei's post-Maling weakness gives Qin an opening, then personally commands against [[WeiState|魏国]] because Qin's [[FarmingWarStatecraft|耕战逻辑]] and [[MilitaryMeritRankSystem|军功爵制]] make war the highest path to merit. The same source makes his tactical coldness concrete: he uses old acquaintance and peace language to lure [[GongziAng|公子卬 / 公子昂]] into [[PeaceParleyEntrapment|和谈诱捕]].
+
 Shang Yang / 商鞅 appears in [[72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]] as another Chinese Legalist comparison point for [[NiccoloMachiavelli|Machiavelli]]. The episode notes that Shang Yang, [[HanFei|Han Fei]], and Machiavelli all become intelligible in periods of fractured order and intense political competition.
 
 The episode distinguishes them by saying [[ThePrince|《君主论》]] is not simply a doctrine of weakening the people or compressing all possibilities into ruler technique. Machiavelli is read as more exploratory about political forms, order, people, and contingency.
@@ -28,6 +30,7 @@ The episode distinguishes them by saying [[ThePrince|《君主论》]] is not si
 - [[ShangYangReforms]], [[ReformWithoutPopularDeliberation]], [[MilitaryMeritRankSystem]], and [[XimuLixin]] - direct reform branch from Zhouji 13.
 - [[Xianyang|咸阳]], [[HouseholdSeparationLaw]], [[QinAdministrativeStandardization]], [[Anyi|安邑]], and [[Guyang|固阳]] - Zhouji 17 second-reform and Qin pressure branch.
 - [[PollTax|人头税]] - Zhouji 18 fiscal reform extension.
+- [[GongziAng|公子卬 / 公子昂]], [[FarmingWarStatecraft|耕战逻辑]], and [[PeaceParleyEntrapment|和谈诱捕]] - Zhouji 22 campaign and deception extension.
 - [[NiccoloMachiavelli|Niccolo Machiavelli / 马基雅维利]] - comparison target.
 - [[LegalistMachiavelliComparison]] - concept capturing the source's differentiation.
 - [[MachiavellianRealism]] - broader political-realist frame that the source keeps distinct from Legalist rulership technique.

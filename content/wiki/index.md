@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》22丨公孙鞅诈魏公子卬](sources/zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi.md) — 芮淇讲透资治通鉴 episode on Shang Yang persuading Qin Xiao Gong to attack weakened Wei in 340 BCE, Qin's 耕战 and military-merit incentives, Gongzi Ang's old-friend peace-parley misread, and his capture by hidden Qin soldiers.
 - [《资治通鉴·周纪》21丨邹忌下阴招 田忌国外避难](sources/zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij.md) — 芮淇讲透资治通鉴 episode on Zou Ji framing Tian Ji with a staged divination and treason implication after Maling, Sun Bin's risky Yongmen counterattack advice, and Tian Ji's flight to Chu.
 - [《资治通鉴·周纪》20丨庞涓死此树下](sources/zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4.md) — 芮淇讲透资治通鉴 episode completing the Maling battle: Sun Bin uses reduced stoves to fake Qi desertion, Pang Juan rushes into a night ambush and dies, Wei collapses, Prince Shen is captured, and Tian Ji's victory creates court risk.
 - [《资治通鉴·周纪》19丨马陵之战](sources/zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada.md) — 芮淇讲透资治通鉴 episode on the 341 BCE Maling campaign setup: Wei attacks Han, Qi delays rescue for leverage, Sun Bin targets Daliang again, Wei appoints Prince Shen, and forced-march risk becomes the next tactical hinge.
@@ -1025,6 +1026,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [公子卬 / Gongzi Ang](entities/GongziAng.md) — Wei royal-family commander captured by Shang Yang after trusting an old-friend peace parley in the 340 BCE Qin attack.
 - [成侯邹忌 / Chenghou Zou Ji](entities/ZouJi.md) — Qi minister who opposes rescuing Han and later frames Tian Ji through a staged divination and treason implication.
 - [田婴 / Tian Ying](entities/TianYing.md) — Qi royal-family commander named in the delayed rescue of Han before the Maling campaign.
 - [太子申 / Prince Shen of Wei](entities/PrinceShenWei.md) — Wei crown prince appointed to command during the Maling setup and captured after Pang Juan's ambush defeat.
@@ -6980,6 +6982,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Peace-Parley Entrapment / 和谈诱捕](concepts/PeaceParleyEntrapment.md) — Battlefield-deception pattern where friendship, oath, banquet, and peace language isolate a commander for capture.
+- [Farming-War Statecraft / 耕战逻辑](concepts/FarmingWarStatecraft.md) — Qin reform logic routing state capacity and elite advancement through agriculture and war, with battlefield merit as the higher-reward channel.
 - [Decreasing Stoves Deception / 减灶诱敌](concepts/DecreasingStovesDeception.md) — Sun Bin's Maling tactic of reducing visible camp stoves so Pang Juan reads staged false weakness as Qi desertion.
 - [Delayed Rescue Statecraft / 晚救权谋](concepts/DelayedRescueStatecraft.md) — Sun Bin's intervention-timing strategy: reassure an ally privately, let enemy and ally exhaust each other, then rescue with greater leverage.
 - [Crown-Prince Command Risk / 太子挂帅风险](concepts/CrownPrinceCommandRisk.md) — Succession and military-command risk created when an heir gains battlefield authority, officer networks, or combat exposure.

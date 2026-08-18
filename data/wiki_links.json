@@ -14071,6 +14071,10 @@
     "title": "Farmers Market Urbanism",
     "url": "/wiki/concepts/farmersmarketurbanism/"
   },
+  "FarmingWarStatecraft": {
+    "title": "Farming-War Statecraft / 耕战逻辑",
+    "url": "/wiki/concepts/farmingwarstatecraft/"
+  },
   "FaroukAlQassem": {
     "title": "Farouk Al Qassem",
     "url": "/wiki/entities/faroukalqassem/"
@@ -16598,6 +16602,10 @@
   "GongzhongHuan": {
     "title": "公中缓 / Gongzhong Huan",
     "url": "/wiki/entities/gongzhonghuan/"
+  },
+  "GongziAng": {
+    "title": "公子卬 / Gongzi Ang",
+    "url": "/wiki/entities/gongziang/"
   },
   "GongziPengsheng": {
     "title": "公子彭生",
@@ -29490,6 +29498,10 @@
   "PayrollInfrastructureTrust": {
     "title": "Payroll Infrastructure Trust",
     "url": "/wiki/concepts/payrollinfrastructuretrust/"
+  },
+  "PeaceParleyEntrapment": {
+    "title": "Peace-Parley Entrapment / 和谈诱捕",
+    "url": "/wiki/concepts/peaceparleyentrapment/"
   },
   "PeachBlossomSpring": {
     "title": "《桃花源记》 / Peach Blossom Spring",
@@ -46694,5 +46706,9 @@
   "zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij": {
     "title": "《资治通鉴·周纪》21丨邹忌下阴招 田忌国外避难",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij/"
+  },
+  "zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi": {
+    "title": "《资治通鉴·周纪》22丨公孙鞅诈魏公子卬",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi/"
   }
 }
