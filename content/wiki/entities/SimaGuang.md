@@ -2,7 +2,7 @@
 title: "司马光 / Sima Guang"
 type: entity
 tags: [official, historian, song-dynasty, china]
-sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -15,6 +15,8 @@ When Sima Guang and the old party returned to power, Su Shi objected to indiscri
 [[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]] adds Sima Guang's explicit personnel lesson through [[ZhiYao|智瑶]]. The host presents Sima Guang's [[TalentVirtueDistinction|才德之分]] as one of [[ZizhiTongjian|《资治通鉴》]]'s opening principles: talent without virtue can be worse than stupidity because it gives harmful intent more force.
 
 [[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]] adds Sima Guang's trust lesson through [[WeiWenhou|魏文侯]]. The episode presents "小信诚则大信立" as a governing principle and pairs it with a Song court reward case to show that state promises must remain credible after people act on them.
+
+[[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v]] uses Sima Guang more indirectly. The host suggests that [[LiKe|李克]]'s legalist-reform importance may be understated in [[ZizhiTongjian|《资治通鉴》]], and contrasts Sima Guang's severe [[TalentVirtueDistinction|talent-virtue]] instinct with Li Ke's willingness to recommend [[WuQi|吴起]] for a role where military skill mattered.
 
 [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] adds Sima Guang's signature historical work indirectly through [[ZizhiTongjian|《资治通鉴》]]. The episode does not discuss Sima Guang's Song politics; instead, it shows how the work's compact chronology can be read for military leadership, succession, posthumous names, and politically ambiguous assassination records.
 
@@ -40,6 +42,7 @@ When Sima Guang and the old party returned to power, Su Shi objected to indiscri
 - [[ZizhiTongjian|《资治通鉴》]] - historical work added through the Ruiqi episode.
 - [[ZhiYao|智瑶]] and [[TalentVirtueDistinction]] - Zhouji 04 personnel-judgment branch.
 - [[WeiWenhou|魏文侯]] and [[SmallTrustBuildsLargeTrust]] - Zhouji 05 trust and state-credibility branch.
+- [[LiKe|李克]], [[WuQi|吴起]], and [[UseStrengthsOverFaults]] - Zhouji 06 part 1 contrast with the severe talent-virtue frame.
 - [[QinghuaJianXinian|清华简《系年》]], [[ChronicleSourceGaps]], and [[HistoricalDetectiveReasoning]] - episode 07 supplement to terse chronicle gaps.
 - [[Zisi|子思]], [[UseStrengthsOverFaults]], and [[CourtFeedbackCollapse]] - Zhouji 09 source-selection and governance branch.
 - [[Shiji|《史记》]], [[TaishiDan|太史旦]], [[QinXianGong|秦献公]], and [[ChronicleSourceGaps]] - Zhouji 10 omitted-story and supplemental-source branch.

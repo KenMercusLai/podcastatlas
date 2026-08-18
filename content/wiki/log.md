@@ -8131,6 +8131,10 @@ Added source page for a 芮淇讲透资治通鉴 episode opening Zhouji 11 and Z
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1）
+
+Added source page for a 芮淇讲透资治通鉴 episode on Li Ke's five situational tests for judging people, Wei Wenhou's choice between Wei Cheng and Di Huang as chancellor, the difference between referral count and referral quality, and Wu Qi as a flawed but militarily valuable talent. Created pages for Li Ke, Wei Cheng, Di Huang, Qu Houfu, Ximen Bao, Le Yang, Situational Character Tests, and Talent Referral Quality; updated overview, index, Wei Wenhou, Wu Qi, Wei State, Zi Xia, Tian Zifang, Duan Ganmu, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Warring States Period, Sima Guang, Talent Attraction Through Respect, Talent-Virtue Distinction, Use Strengths Over Faults, and Legalist Ruler Technique. No direct contradiction found; the source fills in part 1 of the chancellor-selection story that the existing part 2 page had kept as bridge/title material.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》14丨齐威王 不鸣则已一鸣惊人
 
 Added source page for a 芮淇讲透资治通鉴 episode on Qi Wei Wang's contested chronology, Qin-Han-West Mountain pressure, Wei wall-building, Qin-Chu marriage diplomacy, Wei-Han and Zhao/Yan/Qi/Song meetings, Chunyu Kun's hidden remonstrance, the "一鸣惊人" idiom, Jimo/Ayi official audits, and Qi's military recovery. Created pages for Chunyu Kun, Chen Liao, Long Jia, Youyin Hei, Han Zhaohou, Qi Wei Wang Chronology Dispute, Allusive Remonstrance, Qi Wei Wang Political Turnaround, Wei Great Wall Anti-Qin Defense, and Warring States Marriage Diplomacy; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Shiji, Sima Guang, Qi Wei Wang, Qi State, Zhou Xian Wang, Qin State, Wei State, Han State, Zhao State, Yan State, Song State, Chu State, Chu Xuan Wang, Liang Hui Wang, Jimo Dafu, Ayi Dafu, Warring States Period, Chronicle Chronology Drift, Independent Official Audit, Court Feedback Collapse, Qin Eastward Pressure, Early Warring States Interstate War, and Historical Detective Reasoning. No direct contradiction found with existing wiki synthesis; the source explicitly challenges the received Qi Wei Wang dating and keeps the possible "strategic feigning" reading source-scoped.
@@ -8146,3 +8150,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran health before lint; health scanned 11,617 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,617 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-12 with 10,690 nodes while the current wiki has 11,617 pages; treat graph findings as advisory until `build graph` refreshes it. The graph pass found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` resolves to providerless `claude-3-5-sonnet-latest`; supplemental local checks found likely case-only duplicate entity pairs (`Liblib`/`LibLib`, `MidJourney`/`Midjourney`) and one `+-` markdown artifact. Report returned in-session; `wiki/lint-report.md` was not saved.

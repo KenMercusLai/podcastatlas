@@ -2,11 +2,15 @@
 title: "吴起 / Wu Qi"
 type: entity
 tags: [person, general, strategist, reformer, warring-states, military-history]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+last_updated: 2026-08-19
 ---
 
 # 吴起 / Wu Qi
+
+[[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v]] introduces Wu Qi through the darker reputation problem behind his later military success. The episode recounts the story that Wu Qi killed his Qi wife to prove loyalty to [[LuState|鲁国]] during a [[QiState|齐国]] attack, then follows the attacks on his character, ambition, and filial conduct that made him politically suspect even after victory.
+
+The same source brings Wu Qi to [[WeiState|魏国]] through [[WeiWenhou|魏文侯]] asking [[LiKe|李克]] whether he can be used. Li Ke acknowledges Wu Qi's defects but says his military ability surpasses [[SimaRangju|司马穰苴]], making him an early case where [[UseStrengthsOverFaults]] qualifies, but does not erase, [[TalentVirtueDistinction]].
 
 吴起 / Wu Qi is the main military figure in [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]]. The source frames him as an upgraded version of [[SimaRangju|司马穰苴]]: he does not only enforce discipline from above, but visibly shares the lowest soldiers' food, lodging, marching, load, and danger.
 
@@ -22,6 +26,7 @@ The same source then complicates Wu Qi's suitability for high office. He can cre
 
 ## Connections
 - [[SimaRangju|司马穰苴]] - earlier commander the episode treats as Wu Qi's precursor.
+- [[LiKe|李克]], [[LuState|鲁国]], [[QiState|齐国]], [[UseStrengthsOverFaults]], and [[TalentVirtueDistinction]] - part 1 reputation and flawed-talent branch.
 - [[Wuzi|《吴子》]] - military text associated with Wu Qi in the source.
 - [[WeiState|魏国]] and [[WeiWenhou|魏文侯]] - state and title-frame context.
 - [[MilitaryMoraleThroughSharedHardship]] - main concept built from his soldier-facing conduct.

@@ -2,8 +2,8 @@
 title: "段干木 / Duan Ganmu"
 type: entity
 tags: [person, recluse, pre-qin, scholar]
-sources: [zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
+last_updated: 2026-08-19
 ---
 
 # 段干木 / Duan Ganmu
@@ -12,8 +12,11 @@ last_updated: 2026-08-18
 
 That avoidance is the point of the episode's political image. Wei Wenhou still salutes when passing Duan Ganmu's residence, so the ruler's respect does not depend on successful recruitment, public display, or forcing the recluse into service. Duan Ganmu therefore anchors the non-coercive side of [[TalentAttractionThroughRespect|礼贤下士式人才吸附]].
 
+[[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v]] reuses Duan Ganmu in the [[WeiCheng|魏成]] and [[DiHuang|翟黄]] comparison. [[LiKe|李克]] treats Wei Cheng's link to Duan Ganmu, [[ZiXia|子夏]], and [[TianZifang|田子方]] as evidence of higher-level talent attraction, making Duan Ganmu part of the wiki's [[TalentReferralQuality]] branch.
+
 ## Connections
 - [[WeiWenhou|魏文侯]] and [[WeiState|魏国]] - ruler and state context.
 - [[ZiXia|子夏]] and [[TianZifang|田子方]] - companion worthy figures in the source.
+- [[LiKe|李克]], [[WeiCheng|魏成]], [[DiHuang|翟黄]], and [[TalentReferralQuality]] - Zhouji 06 part 1 comparison.
 - [[TalentAttractionThroughRespect]] - main concept illuminated by the story.
 - [[RenhePoliticalPower]] - broader synthesis of respect, trust, and relationship order.

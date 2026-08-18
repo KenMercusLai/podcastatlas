@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1）](sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v.md) — 芮淇讲透资治通鉴 episode on Li Ke's five tests for judging people, Wei Wenhou's chancellor choice between Wei Cheng and Di Huang, referral quality, and Wu Qi as a flawed but useful military talent.
 - [《资治通鉴·周纪》14丨齐威王 不鸣则已一鸣惊人](sources/zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv.md) — 芮淇讲透资治通鉴 episode on Qi Wei Wang's contested chronology, Chunyu Kun's allusive remonstrance, the "一鸣惊人" turnaround, Jimo/Ayi official audits, Qin pressure, Wei wall-building, Qin-Chu marriage diplomacy, and 356 BCE meeting notices.
 - [《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（1）](sources/zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga.md) — 芮淇讲透资治通鉴 episode on Shang Yang's first Qin reform push, the Gan Long debate over custom and change, 什伍连坐, agricultural incentives, military-merit rank, 徙木立信, and the crown prince's lawbreaking cliffhanger.
 - [《资治通鉴·周纪》11丨 世界风起云涌（1）](sources/zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5.md) — 芮淇讲透资治通鉴 episode opening Zhouji 11 under Zhou Xian Wang, with Qi/Zhao/Wei opportunistic war, Wei-Han coordination against Qin, Qin Xian Gong's Shimen victory, and Zhou ritual recognition through 黻服.
@@ -1018,6 +1019,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [李克 / Li Ke (Li Kui)](entities/LiKe.md) — Wei Wenhou adviser who gives five situational character tests and recommends using Wu Qi for military ability despite defects.
+- [魏成 / Wei Cheng](entities/WeiCheng.md) — Wei chancellor candidate whose attraction of teacher-level talent explains his advantage over Di Huang.
+- [翟黄 / Di Huang](entities/DiHuang.md) — Wei chancellor candidate who argues from his recommendations of Wu Qi, Ximen Bao, Le Yang, Li Ke, and Qu Houfu.
+- [屈侯鲋 / Qu Houfu](entities/QuHoufu.md) — Teacher recommended by Di Huang for Wei Wenhou's son in the chancellor-selection episode.
+- [西门豹 / Ximen Bao](entities/XimenBao.md) — Official recommended by Di Huang for Ye, used as part of the referral-quality comparison.
+- [乐羊 / Le Yang](entities/LeYang.md) — General recommended by Di Huang for the Zhongshan campaign.
 - [淳于髡 / Chunyu Kun](entities/ChunyuKun.md) — Qi speaker whose allusive remonstrance reaches Qi Wei Wang through the silent-bird riddle.
 - [陈聊 / Chen Liao](entities/ChenLiao.md) — Qi official who receives delegated affairs while Qi Wei Wang neglects government in the episode's crisis setup.
 - [龙甲 / Long Jia](entities/LongJia.md) — Wei general sent by Liang Hui Wang to build western defenses after Qin defeats Han at West Mountain.
@@ -6934,6 +6941,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Situational Character Tests / 五观识人法](concepts/SituationalCharacterTests.md) — Li Ke's five-condition framework for judging people by relationships, referrals, and refusals under pressure.
+- [Talent Referral Quality / 荐才层级质量](concepts/TalentReferralQuality.md) — Chancellor-selection lesson that the level and effect of referred talent matter more than referral count alone.
 - [Qi Wei Wang Chronology Dispute / 齐威王编年争议](concepts/QiChronologyDispute.md) — Source-critical case arguing Qi Wei Wang's received annalistic placement is probably too early.
 - [Allusive Remonstrance / 隐语进谏](concepts/AllusiveRemonstrance.md) — Indirect criticism pattern in which Chunyu Kun uses a silent-bird riddle to reach Qi Wei Wang.
 - [Qi Wei Wang Political Turnaround / 齐威王一鸣惊人式转向](concepts/QiWeiwangPoliticalTurnaround.md) — Governance pattern linking the "一鸣惊人" answer to audits, military recovery, and possible strategic feigning.

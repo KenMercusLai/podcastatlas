@@ -2,7 +2,7 @@
 title: "魏国 / Wei State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-08-19
 [[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]] adds Wei's pre-rise legitimacy branch. Wei participates with Han and Zhao in dividing [[ZhiYao|智瑶]]'s territory, and [[WeiWenhou|魏斯 / 魏文侯]] is later named as one of the three Jin leaders formally recognized by [[ZhouWeilieWang|周威烈王]]. The episode also previews Wei Wenhou as the strongest and most prestigious of the three recognized leaders.
 
 [[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]] explains that prestige through ruler conduct. Under [[WeiWenhou|魏文侯]], Wei becomes attractive to scholars and worthy people through [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], builds credibility through [[SmallTrustBuildsLargeTrust|小信诚则大信立]], and gains Han-Zhao trust through [[SymmetricInterstateCredibility|对称外交信用]].
+
+[[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v]] adds Wei's internal personnel-selection branch. [[WeiWenhou|魏文侯]] asks [[LiKe|李克]] to help choose between [[WeiCheng|魏成]] and [[DiHuang|翟黄]], making Wei a case where early state strength depends on [[SituationalCharacterTests|character testing]] and [[TalentReferralQuality|referral quality]] as well as battlefield command.
 
 魏国 / Wei State appears in [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] through the episode title's [[WeiWenhou|魏文侯]] frame and through [[WuQi|吴起]]'s military effectiveness. The source says Wei became one of the fastest-rising strong states in the early [[WarringStatesPeriod|战国时期]] because of Wu Qi's command.
 
@@ -40,6 +42,7 @@ In this page, Wei is not yet a full institutional history. Its wiki role is to h
 - [[WeiWenhou|魏文侯]] - ruler named in the episode title.
 - [[TalentAttractionThroughRespect]], [[SmallTrustBuildsLargeTrust]], [[SymmetricInterstateCredibility]], and [[RenhePoliticalPower]] - Zhouji 05 explanation of Wei Wenhou's early prestige.
 - [[ZiXia|子夏]], [[TianZifang|田子方]], and [[DuanGanmu|段干木]] - worthy figures tied to Wei's talent ecology.
+- [[LiKe|李克]], [[WeiCheng|魏成]], [[DiHuang|翟黄]], [[SituationalCharacterTests]], and [[TalentReferralQuality]] - Zhouji 06 part 1 chancellor-selection branch.
 - [[ZhiYao|智瑶]], [[PartitionOfJin]], and [[ThreeJinVassalRecognition]] - Zhouji 04 Jin-partition and formal-recognition branch.
 - [[WuQi|吴起]] and [[Wuzi|《吴子》]] - military branch.
 - [[WarringStatesPeriod|战国时期]] - period setting.
