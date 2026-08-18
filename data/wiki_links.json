@@ -5991,6 +5991,10 @@
     "title": "Birth Ritual Medical Conflict",
     "url": "/wiki/concepts/birthritualmedicalconflict/"
   },
+  "BirthTabooSuccessionExclusion": {
+    "title": "Birth Taboo Succession Exclusion / 出生日禁忌与继承排斥",
+    "url": "/wiki/concepts/birthtaboosuccessionexclusion/"
+  },
   "BitStandardBook": {
     "title": "《比特本位》 / The Bit Standard",
     "url": "/wiki/entities/bitstandardbook/"
@@ -14510,6 +14514,10 @@
   "Fidelity": {
     "title": "Fidelity",
     "url": "/wiki/entities/fidelity/"
+  },
+  "FiefSecurityIllusion": {
+    "title": "Fief Security Illusion / 封地筑城安全幻觉",
+    "url": "/wiki/concepts/fiefsecurityillusion/"
   },
   "FieldFirstVerticalSaaS": {
     "title": "Field-First Vertical SaaS",
@@ -25770,6 +25778,10 @@
   "MengZhu": {
     "title": "Meng Zhu",
     "url": "/wiki/entities/mengzhu/"
+  },
+  "Mengchangjun": {
+    "title": "孟尝君 / Tian Wen",
+    "url": "/wiki/entities/mengchangjun/"
   },
   "Mengniu": {
     "title": "蒙牛 / Mengniu",
@@ -42647,6 +42659,10 @@
     "title": "薛鹏 / Xue Peng",
     "url": "/wiki/entities/xuepeng/"
   },
+  "XueWarringStates": {
+    "title": "薛地 / Xue",
+    "url": "/wiki/entities/xuewarringstates/"
+  },
   "Xueqiu": {
     "title": "雪球 / Xueqiu",
     "url": "/wiki/entities/xueqiu/"
@@ -42758,6 +42774,10 @@
   "YanState": {
     "title": "燕国 / Yan State",
     "url": "/wiki/entities/yanstate/"
+  },
+  "YanWangKuai": {
+    "title": "燕王哙 / King Kuai of Yan",
+    "url": "/wiki/entities/yanwangkuai/"
   },
   "YanWengong": {
     "title": "燕文公 / Duke Wen of Yan",
@@ -43998,6 +44018,10 @@
   "ZhouRoyalHouse": {
     "title": "周王室 / Zhou Royal House",
     "url": "/wiki/entities/zhouroyalhouse/"
+  },
+  "ZhouShenliangwang": {
+    "title": "周慎靓王 / Zhou Shenliang Wang",
+    "url": "/wiki/entities/zhoushenliangwang/"
   },
   "ZhouWeilieWang": {
     "title": "周威烈王 / King Weilie of Zhou",
@@ -47250,5 +47274,9 @@
   "zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x": {
     "title": "《资治通鉴·周纪》39丨历史上张仪是怎样怒怼强敌的",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x/"
+  },
+  "zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t": {
+    "title": "《资治通鉴·周纪》40丨5月出生的孩子惹谁啦？",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t/"
   }
 }

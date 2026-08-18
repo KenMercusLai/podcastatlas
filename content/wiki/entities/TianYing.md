@@ -2,7 +2,7 @@
 title: "田婴 / Tian Ying"
 type: entity
 tags: [person, general, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
+sources: [zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
 last_updated: 2026-08-19
 ---
 
@@ -20,6 +20,10 @@ The same source preserves a genealogy caution. It follows [[Shiji|《史记》]]
 
 [[zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]] gives the sequel to that risk. After [[ChuWeiwang|楚威王]] defeats Qi, he demands that [[QiWeiwang|齐威王]] expel Tian Ying because Tian Ying had been a major Qi-side mover in the Xuzhou title affair. Zhang Chou then saves him by arguing that replacing Tian Ying could let [[TianBan|田斑]] or another stronger figure reorganize Qi's forces against Chu.
 
+[[zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]] returns to Tian Ying near the end of [[ZhouXianwang|周显王]]'s reign. The episode says he is enfeoffed at [[XueWarringStates|薛地]], called Jingguo Jun, and becomes powerful in [[QiState|齐国]] after the Qi ruler delegates affairs to him. His plan to fortify Xue is stopped by a retainer's large-fish analogy: Qi is the sea that protects him, so Xue's walls become a [[FiefSecurityIllusion|fief security illusion]] if he loses the state platform.
+
+The same source introduces Tian Ying as the father of [[Mengchangjun|孟尝君 / 田文]]. It says he has more than forty sons, but tries to exclude Tian Wen because the child's mother has low concubine status and because Tian Wen is born on the fifth day of the fifth lunar month. This makes Tian Ying a household gatekeeper as well as a Qi power-holder.
+
 ## Connections
 - [[QiState|齐国]] and [[QiWeiwang|齐威王]] - state and royal-family context.
 - [[TianJi|田忌]] and [[SunBin|孙膑]] - fellow commander and adviser in the rescue campaign.
@@ -27,3 +31,4 @@ The same source preserves a genealogy caution. It follows [[Shiji|《史记》]]
 - [[XuzhouMutualKingship|徐州相王]], [[HuiShi|惠施]], and [[LowPostureStatecraft|低姿态权宜]] - post-Maling diplomatic branch in Zhouji 27.
 - [[ZhangChou|张丑]] and [[StatusOrderBacklash|名分秩序反弹]] - Zhouji 28 warning against accepting the title bargain.
 - [[ChuWeiwang|楚威王]] and [[TianBan|田斑]] - Zhouji 29 expulsion demand and replacement-risk argument.
+- [[XueWarringStates|薛地]], [[FiefSecurityIllusion|封地筑城安全幻觉]], [[Mengchangjun|孟尝君 / 田文]], and [[BirthTabooSuccessionExclusion|出生日禁忌与继承排斥]] - Zhouji 40 fief-security and household-exclusion branch.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 4744
+wiki_total_pages: 4746
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "FictionalHistoriography"
     title: "Fictional Historiography"
     url: "/wiki/concepts/fictionalhistoriography/"
+  - key: "FiefSecurityIllusion"
+    title: "Fief Security Illusion / 封地筑城安全幻觉"
+    url: "/wiki/concepts/fiefsecurityillusion/"
   - key: "FieldTrainingOfficerEffects"
     title: "Field Training Officer Effects"
     url: "/wiki/concepts/fieldtrainingofficereffects/"

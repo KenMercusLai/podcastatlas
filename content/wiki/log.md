@@ -8312,6 +8312,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》40丨5月出生的孩子惹谁啦？
+
+Added source page for a 芮淇讲透资治通鉴 episode closing Zhou Xian Wang's final year in 321 BCE: Zhou Xian Wang dies and Zhou Shenliang Wang succeeds, Yan Yi Wang dies and Yan Wang Kuai succeeds, Tian Ying is warned that Xue's walls cannot replace Qi as his larger security platform, and Mengchangjun Tian Wen is introduced through low maternal status and the May-fifth birth taboo. Created pages for Mengchangjun, Zhou Shenliang Wang, Yan Wang Kuai, Xue, Fief Security Illusion, and Birth Taboo Succession Exclusion; updated overview, index, Tian Ying, Zhou Xian Wang, Yan Yi Wang, Yan State, Qi State, Qi Wei Wang, Zhou Royal House, Warring States Period, Ruiqi Jiangtou Zizhi Tongjian, and Zizhi Tongjian. No direct contradiction found; the 321 BCE Qi frame reinforces the existing Qi Wei Wang chronology-dispute guardrail.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》30丨苏秦的“开挂”人生
 
 Added source page for a 芮淇讲透资治通鉴 episode continuing Su Qin after family humiliation: broad reading gives way to deep study of 《阴符》, the breakthrough is framed as 揣摩, and renewed attempts still fail at Zhou, Qin, and Zhao before Yan Wen Gong supplies funding and diplomatic status. Created pages for 《阴符》, 《六韬》, 揣摩, and common-enemy alliance logic; updated overview, index, Su Qin, Yan Wen Gong, Ying Si/Qin Huiwen Wang, Yan/Qin/Zhao state pages, Zhou Xian Wang, Guiguzi, Shiji, Zhanguo Ce, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Hezong Alliance, Zonghengjia Diplomacy, and Failure-Driven Self-Study. No direct contradiction found; Yan Wen Gong's active role is kept source-scoped beside the prior Zhouji 29 succession notice.
@@ -8391,3 +8395,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 and found no hub stubs, three fragile bridges, and no isolated communities. Semantic API lint failed because no provider-qualified `LLM_MODEL` or provider API key is set; a bounded in-session sample review found no direct contradictions and flagged source-breadth gaps for broad AI-politics, innovation-scale, open-source-strategy, and fisheries-management claims. Report returned in-session; `wiki/lint-report.md` was not saved.

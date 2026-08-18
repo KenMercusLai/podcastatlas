@@ -2,7 +2,7 @@
 title: "齐威王 / King Wei of Qi"
 type: entity
 tags: [person, ruler, pre-qin, qi-state, warring-states]
-sources: [zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -32,6 +32,8 @@ The same source retells the "一鸣惊人" narrative. Qi Wei Wang neglects gover
 
 [[zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]] tightens the chronology warning around his death. The episode says [[ZizhiTongjian|《资治通鉴》]] places Qi Wei Wang's death and [[QiXuanWang|齐宣王]]'s succession in the same 333 BCE cluster as [[SuQin|苏秦]]'s [[HezongAlliance|合纵]] success, but the host rejects that placement. In the source's correction, Qi Wei Wang is still alive, and Qi Xuan Wang's first year belongs at 319 BCE.
 
+[[zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]] is consistent with that correction by keeping a long-reigning Qi ruler in the 321 BCE background. The episode uses the ruler's fatigue with administration to explain how [[TianYing|田婴]] comes to handle Qi affairs; the political focus is Tian Ying's dependence on [[QiState|齐国]] rather than a new Qi Wei Wang biography.
+
 This page is deliberately source-scoped. It keeps the episode's "齐威王" story visible while marking its own [[ChronicleChronologyDrift|chronology drift]] warning and connecting it to the earlier [[TianYingqi|田英齐]] Tian-family succession branch without forcing a clean timeline.
 
 ## Connections
@@ -48,3 +50,4 @@ This page is deliberately source-scoped. It keeps the episode's "齐威王" stor
 - [[XuzhouMutualKingship|徐州相王]], [[TianYing|田婴]], [[HuiShi|惠施]], and [[LowPostureStatecraft|低姿态权宜]] - Zhouji 27 title-recognition and diplomatic-posture branch.
 - [[ZhangChou|张丑]], [[ChuWeiwang|楚威王]], [[Xuzhou|徐州]], and [[StatusOrderBacklash|名分秩序反弹]] - Zhouji 28 backlash against Qi's accepted title elevation.
 - [[QiXuanWang|齐宣王]], [[SuQin|苏秦]], [[HezongAlliance|合纵]], and [[ChronicleChronologyDrift|编年错位]] - Zhouji 29 death and alliance-placement correction.
+- [[TianYing|田婴]], [[XueWarringStates|薛地]], and [[FiefSecurityIllusion|封地筑城安全幻觉]] - Zhouji 40 late-reign delegation and Tian Ying security warning.

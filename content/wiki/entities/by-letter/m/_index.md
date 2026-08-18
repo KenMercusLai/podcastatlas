@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 6027
+wiki_total_pages: 6031
 wiki_pages:
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
@@ -1118,6 +1118,9 @@ wiki_pages:
   - key: "Mengzi"
     title: "孟子 / Mencius"
     url: "/wiki/entities/mengzi/"
+  - key: "Mengchangjun"
+    title: "孟尝君 / Tian Wen"
+    url: "/wiki/entities/mengchangjun/"
   - key: "MengHaoran"
     title: "孟浩然 / Meng Haoran"
     url: "/wiki/entities/menghaoran/"
