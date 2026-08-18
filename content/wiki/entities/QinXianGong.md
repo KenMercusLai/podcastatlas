@@ -2,7 +2,7 @@
 title: "秦献公 / Duke Xian of Qin"
 type: entity
 tags: [person, ruler, pre-qin, qin-state]
-sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-19
 ---
 
@@ -16,6 +16,8 @@ The host's reading makes Qin Xian Gong less a biography subject than a strategic
 
 [[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] gives Qin Xian Gong the military sequel to that diplomatic branch. In 364 BCE he defeats the Three Jin coalition at [[ShimenBattle|石门之战]], after which [[ZhouXianwang|周显王]] grants him [[FufuRobe|黻服]] as [[RitualRecognitionOfMilitaryPower|ritual recognition of military power]].
 
+[[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf]] closes his reign in 362 BCE. The episode places Qin's victory over [[WeiState|魏国]] at [[Shaoliang|少梁]] in the same annalistic cluster as Qin Xian Gong's death and [[QinXiaogong|秦孝公]]'s accession, turning his late reign into the immediate military and status-pressure setup for the reform branch.
+
 ## Connections
 - [[QinState|秦国]] - polity he rules.
 - [[QinChugong|秦出公]] and [[WeyState|卫国]] - coup victim and exile setting in Zhouji 08 part 3.
@@ -23,3 +25,4 @@ The host's reading makes Qin Xian Gong less a biography subject than a strategic
 - [[ZhouRoyalHouse|周王室]] and [[KinshipLegitimacyDiplomacy]] - political interpretation in the episode.
 - [[YinYangFivePhasesPoliticalTheory]] - adjacent legitimacy language around the number five.
 - [[ShimenBattle|石门之战]], [[QinEastwardPressure]], [[FufuRobe|黻服]], and [[RitualRecognitionOfMilitaryPower]] - Zhouji 11 military and recognition branch.
+- [[Shaoliang|少梁]], [[GongshuWeiChancellor|公孙措 / 公叔痤]], and [[QinXiaogong|秦孝公]] - Zhouji 11 part 2 final victory and succession branch.

@@ -2,7 +2,7 @@
 title: "Qin Eastward Pressure / 秦国东进压力"
 type: concept
 tags: [warfare, diplomacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]
+sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]
 last_updated: 2026-08-19
 ---
 
@@ -13,6 +13,8 @@ Qin eastward pressure / 秦国东进压力 is the pattern [[zizhi-tongjian-zhouj
 The concept marks a change in pressure direction. Earlier Zhouji episodes show the Three Jin states fighting each other, dividing older orders, and exploiting succession crises. This source adds a western pressure that can force those rivals into tactical coordination while still exposing their military vulnerability.
 
 The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiState|魏国]] again, [[ZhaoState|赵国]] sends aid, and the conflict appears to continue beyond the episode's endpoint.
+
+[[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf]] extends the Shaoliang branch into 362 BCE. [[WeiState|魏国]] first defeats [[HanState|韩国]] and [[ZhaoState|赵国]] at Hui, then Qin defeats Wei at [[Shaoliang|少梁]] and captures [[GongshuWeiChancellor|公孙措 / 公叔痤]]. The sequence sharpens the concept: Qin pressure is real, but it does not automatically make the Three Jin states strategically coherent.
 
 [[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] extends the pressure into 358 BCE. Qin defeats [[HanState|韩国]] at West Mountain, and [[LiangHuiWang|魏惠王]] responds by sending [[LongJia|龙甲]] to build western defenses, making [[WeiGreatWallAntiQinDefense|魏长城防秦]] a material expression of the same pattern.
 
@@ -36,6 +38,7 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 
 ## Key Claims
 - Qin's eastern expansion pushes Wei, Han, and Zhao to respond across older rivalries.
+- Qin pressure can coexist with Three Jin infighting; shared danger does not guarantee stable alignment.
 - A coalition does not prove strategic coherence; Wei and Han can cooperate and still lose.
 - Qin's advantage is presented as already visible before later Qin institutional and territorial expansion becomes dominant.
 - The pattern connects battlefield pressure to legitimacy because Qin's victory at Shimen receives Zhou ritual recognition.
@@ -50,8 +53,9 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 - Zhouji 38 shows pressure continuing through Zhang Yi's ambiguous Wei role: Qin can attack Wei directly while also treating Qi-Wei disorder as an opening.
 
 ## Connections
-- [[QinState|秦国]] and [[QinXianGong|秦献公]] - rising western power and ruler.
+- [[QinState|秦国]], [[QinXianGong|秦献公]], and [[QinXiaogong|秦孝公]] - rising western power and ruler transition.
 - [[WeiState|魏国]], [[HanState|韩国]], and [[ZhaoState|赵国]] - states under pressure.
+- [[Shaoliang|少梁]] and [[GongshuWeiChancellor|公孙措 / 公叔痤]] - Zhouji 11 part 2 battle and capture notice.
 - [[ShimenBattle|石门之战]] - strongest battle case in the source.
 - [[EarlyWarringStatesInterstateWar]] and [[TerritorialControlChurn]] - broader conflict and control patterns.
 - [[RitualRecognitionOfMilitaryPower]] - legitimacy consequence after Qin's victory.

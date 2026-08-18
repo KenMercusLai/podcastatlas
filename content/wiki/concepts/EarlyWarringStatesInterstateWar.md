@@ -2,7 +2,7 @@
 title: "Early Warring States Interstate War / 战国早期诸侯混战"
 type: concept
 tags: [warfare, diplomacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -19,6 +19,8 @@ The point is not a single clean campaign. The episode explicitly says the dates 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] adds a narrower but sharper case through [[ZhuozeBattle|浊泽之战]]. [[HanState|韩国]] and [[ZhaoState|赵国]] intervene in [[WeiState|魏国]]'s succession crisis, win militarily, then fail politically because their desired settlement differs.
 
 [[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] adds the opening [[ZhouXianwang|周显王]] cluster: [[QiState|齐国]] attacks Wei, [[ZhaoState|赵国]] attacks Qi, Wei and [[HanState|韩国]] coordinate against [[QinState|秦国]] but lose, Wei attacks [[SongState|宋国]], and Qin defeats the Three Jin coalition at [[ShimenBattle|石门之战]]. The pattern is opportunistic and multi-directional rather than a single stable alliance structure.
+
+[[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf]] makes that instability more pointed in 362 BCE. [[WeiState|魏国]] defeats [[HanState|韩国]] and [[ZhaoState|赵国]] at Hui even though Qin pressure has not disappeared, then [[QinState|秦国]] defeats Wei at [[Shaoliang|少梁]]. The episode treats the quick switch from anti-Qin coordination to Three Jin infighting as difficult to explain, which is exactly why the war field should be preserved as fluid rather than simplified into durable alliances.
 
 [[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] adds the meeting layer around 357-356 BCE. Wei and Han meet under Qin pressure; Zhao meets Yan at Ajuan; Zhao, Qi, and Song meet at Pinglu. These are diplomatic contact points inside conflict churn, not proof of durable blocs.
 
@@ -45,6 +47,7 @@ The point is not a single clean campaign. The episode explicitly says the dates 
 - Old polity labels can persist after power shifts, so war notices involving "Jin" may require checking whether a Three Jin successor state is meant.
 - Dense war notices can matter even when the chronicle gives no motive or final settlement.
 - Early Zhou Xian Wang notices show opportunism and anti-Qin coordination happening in the same short period.
+- The 362 BCE branch shows the same actors can coordinate against Qin, attack one another, and then suffer Qin attack again within a narrow window.
 - Qin's rise changes the conflict field by pressuring Three Jin states that are still competing with one another.
 - Meeting notices are part of the war pattern because states coordinate, test, and rebalance while fighting continues.
 - Indirect rescue can be a war-shaping intervention: helping an ally may depend on threatening the aggressor's must-save point rather than meeting the battlefield head-on.
@@ -62,7 +65,7 @@ The point is not a single clean campaign. The episode explicitly says the dates 
 - [[TerritorialControlChurn]] and [[SmallStateBufferDiplomacy]] - adjacent patterns of unstable control and alignment.
 - [[WarringStatesPeriod|战国时期]] - broader historical setting.
 - [[ZhuozeBattle|浊泽之战]], [[SuccessionCrisisIntervention]], and [[CoalitionSettlementFailure]] - Zhouji 10 part 3 intervention and settlement case.
-- [[ZhouXianwang|周显王]], [[QinState|秦国]], [[QinEastwardPressure]], [[ShimenBattle|石门之战]], and [[SongState|宋国]] - Zhouji 11 early reign war cluster.
+- [[ZhouXianwang|周显王]], [[QinState|秦国]], [[QinEastwardPressure]], [[ShimenBattle|石门之战]], [[Shaoliang|少梁]], and [[SongState|宋国]] - Zhouji 11 early reign war cluster.
 - [[HanZhaohou|韩昭侯]], [[YanState|燕国]], [[SongState|宋国]], and [[QiWeiwang|齐威王]] - Zhouji 14 meeting and Qi-recovery branch.
 - [[SunBin|孙膑]], [[TianJi|田忌]], [[GuilingBattle|桂陵之战]], [[EncirclingWeiToRescueZhao]], [[Daliang|大梁]], [[Handan|邯郸]], and [[EasternZhouPolity|东周国]] - Zhouji 16 indirect rescue and royal-fragment pressure branch.
 - [[Anyi|安邑]], [[Guyang|固阳]], [[ZhangshuiAlliance|漳水之盟]], [[XianglingWarringStates|襄陵]], and [[Jingshe|景舍]] - Zhouji 17 pressure, reconciliation, and peace-seeking branch.

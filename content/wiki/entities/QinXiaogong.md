@@ -2,11 +2,13 @@
 title: "秦孝公 / Duke Xiao of Qin"
 type: entity
 tags: [person, ruler, pre-qin, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
 last_updated: 2026-08-19
 ---
 
 # 秦孝公 / Duke Xiao of Qin
+
+[[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf]] moves Qin Xiao Gong's page back to his accession in 362 BCE. The episode says he is twenty-one when [[QinXianGong|秦献公]] dies and he inherits a [[QinState|秦国]] pressed by [[WeiState|魏国]] from Hexi/Shangjun, by [[ChuState|楚国]] from Hanzhong-Ba-Qianzhong, and by the eastern states' habit of treating Qin as an excluded peripheral power. That makes "布德修政" and [[Shiji|《史记》]]'s expanded program of repairing government, aiding the vulnerable, recruiting warriors, and clarifying merit rewards the prelude to later [[ShangYangReforms|商鞅变法]].
 
 秦孝公 / Duke Xiao of Qin appears in [[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]] as the [[QinState|秦国]] ruler who gives [[ShangYang|公孙鞅 / 商鞅]] decisive trust before the first major reform push. The episode presents his role as political authorization: without the ruler's backing, Shang Yang's attack on noble privilege, household structure, and inherited status could not become state law.
 
@@ -26,6 +28,7 @@ The source also shows Qin Xiao Gong choosing between incompatible reform theorie
 
 ## Connections
 - [[QinState|秦国]] - polity he rules in the episode.
+- [[QinXianGong|秦献公]], [[Shiji|《史记》]], [[QinDiplomaticExclusion|秦国外交排斥]], and [[QinEastwardPressure|秦国东进压力]] - accession, source supplement, exclusion, and pressure context in Zhouji 11 part 2.
 - [[ShangYang|公孙鞅 / 商鞅]] - reformer he empowers.
 - [[GanLong|甘龙]] - conservative opponent whose argument Qin Xiao Gong rejects.
 - [[YingSi|太子嬴驷]] - crown prince whose later violation of the new law tests reform authority.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 4738
+wiki_total_pages: 4739
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "QinAdministrativeStandardization"
     title: "Qin Administrative Standardization / 秦国行政标准化"
     url: "/wiki/concepts/qinadministrativestandardization/"
+  - key: "QinDiplomaticExclusion"
+    title: "Qin Diplomatic Exclusion / 秦国外交排斥"
+    url: "/wiki/concepts/qindiplomaticexclusion/"
   - key: "QinEastwardPressure"
     title: "Qin Eastward Pressure / 秦国东进压力"
     url: "/wiki/concepts/qineastwardpressure/"

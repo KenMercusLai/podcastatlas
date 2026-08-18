@@ -528,7 +528,7 @@ wiki_pages:
     title: "卫平侯 / Marquis Ping of Wey"
     url: "/wiki/entities/weypinghou/"
   - key: "WeyChenggong"
-    title: "卫成公 / Duke Cheng of Wey"
+    title: "卫成公 / 卫成侯 / Duke-Marquis Cheng of Wey"
     url: "/wiki/entities/weychenggong/"
   - key: "WuWeizhi"
     title: "吴伟志 / Wu Weizhi"

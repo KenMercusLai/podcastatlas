@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》11丨 世界风起云涌（2）](sources/zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf.md) — 芮淇讲透资治通鉴 episode on 362 BCE, Wei defeating Han-Zhao then losing to Qin at Shaoliang, Wey/Yan/Qin successions, and Qin Xiao Gong's pressured, diplomatically excluded pre-reform Qin.
 - [《资治通鉴·周纪》38丨搞兼职的张仪不一般](sources/zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn.md) — 芮淇讲透资治通鉴 episode on Zhang Yi's ambiguous move from Qin to Wei, the Qi-Wei provocation and withdrawal, Qin's renewed pressure on Quwo/Pingzhou, and Warring States persuaders as mobile career actors.
 - [《资治通鉴·周纪》37丨苏秦：六国集团CEO的不堪情史](sources/zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo.md) — 芮淇讲透资治通鉴 episode on Zhang Yi taking Shancheng, Su Qin's scandal-triggered move from Yan to Qi, induced luxury as anti-Qi strategy, Zhao Wuling Wang's title restraint, and Gongsun Yan's more practical hezong turn.
 - [《资治通鉴·周纪》36丨卫嗣君的帝王之术](sources/zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz.md) — 芮淇讲透资治通鉴 episode on Qin Huiwen Wang's quieter royal-title claim, Wey Sijun's strict "治无小，乱无大" prisoner-return case, and a Zhanguo Ce supplement about Wu Xia getting a neglected Wey envoy received by Wei Hui Wang.
@@ -1065,7 +1066,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [上郡 / Shangjun](entities/Shangjun.md) — Fifteen-county Wei territory yielded to Qin after Zhang Yi frames the return of Puyang as Qin generosity.
 - [焦邑 / Jiaoyi](entities/Jiaoyi.md) — Wei stronghold pressed, captured, and later returned by Qin in the episode's Qin-Wei pressure sequence.
 - [曲沃 / Quwo (Warring States)](entities/QuwoWarringStates.md) — Wei stronghold paired with Jiaoyi in Qin's offensive and later return.
-- [少梁 / Shaoliang](entities/Shaoliang.md) — Wei place yielded to Qin after pressure around Jiaoyi and Quwo.
+- [少梁 / Shaoliang](entities/Shaoliang.md) — Wei-Qin battlefield where Qin captures a Wei figure rendered as 公孙措/公孙痤 before later Qin control notices.
 - [河西 / Hexi (Warring States)](entities/HexiWarringStates.md) — Contested western Wei region whose cession to Qin appears as a continuing frontier-loss branch.
 - [函谷关 / Hangu Pass](entities/HanguPass.md) — Qin pass used by Zhouji 33 as the test point for Shiji's fifteen-year hezong efficacy claim against the coming Zizhi Tongjian sequel.
 - [临淄 / Linzi](entities/Linzi.md) — Qi capital whose population, entertainment, density, and public confidence become evidence in Su Qin's anti-Qin persuasion.
@@ -1073,7 +1074,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《六韬》 / Six Secret Teachings](entities/Liutao.md) — Military text used as one possible but less persuasive identification for the 《阴符》 material in Su Qin's breakthrough story.
 - [田斑 / Tian Ban](entities/TianBan.md) — Qi replacement figure invoked by Zhang Chou to persuade Chu Wei Wang that expelling Tian Ying could strengthen Qi.
 - [韩宣惠王 / King Xuanhui of Han](entities/HanXuanhuiwang.md) — Han successor after Han Zhaohou's death in the Zhouji 29 succession cluster.
-- [燕文公 / Duke Wen of Yan](entities/YanWengong.md) — Yan ruler whose Zhouji 29 succession notice is extended by Zhouji 30, where he funds Su Qin after hearing the Zhao-as-shield argument.
+- [燕文公 / Duke Wen of Yan](entities/YanWengong.md) — Yan ruler who succeeds Yan Huan Gong in 362 BCE and later funds Su Qin after hearing the Zhao-as-shield argument.
 - [燕易王 / King Yi of Yan](entities/YanYiwang.md) — Yan successor after Yan Wen Gong in the Zhouji 29 succession notice.
 - [魏成侯 / Marquis Cheng of Wei](entities/WeiChenghou.md) — Wei ruler whose death opens the Zhouji 29 Wei succession notice.
 - [魏平侯 / Marquis Ping of Wei](entities/WeiPinghou.md) — Wei successor after Wei Cheng Hou in the Zhouji 29 succession notice.
@@ -1151,13 +1152,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [龙甲 / Long Jia](entities/LongJia.md) — Wei general sent by Liang Hui Wang to build western defenses after Qin defeats Han at West Mountain.
 - [右尹黑 / Youyin Hei](entities/YouyinHei.md) — Chu high official sent to Qin to receive a bride, likely for Chu Xuan Wang, in a marriage-diplomacy notice.
 - [韩昭侯 / Marquis Zhao of Han](entities/HanZhaohou.md) — Han ruler likely involved in the 357 BCE Wei-Han meeting under Qin pressure.
-- [秦孝公 / Duke Xiao of Qin](entities/QinXiaogong.md) — Qin ruler who backs Shang Yang, rejects Gan Long's custom-based objection, and authorizes the first reform push.
+- [秦孝公 / Duke Xiao of Qin](entities/QinXiaogong.md) — Qin ruler whose pressured 362 BCE accession leads into the recruitment of Shang Yang and the first reform push.
 - [甘龙 / Gan Long](entities/GanLong.md) — Qin official whose opposition to Shang Yang frames the conflict between inherited custom and disruptive state-strengthening reform.
 - [嬴驷 / Ying Si](entities/YingSi.md) — Qin crown prince turned Qin Huiwen Wang, whose branch now covers the Shang Yang law test, accession backlash, and Su Qin's failed Qin lobbying.
 - [王阳明 / Wang Yangming](entities/WangYangming.md) — Later analogy for collective-responsibility governance through 十家牌法.
 - [石门之战 / Battle of Shimen](entities/ShimenBattle.md) — 364 BCE Qin victory over the Three Jin coalition that leads Zhou Xian Wang to grant Qin Xian Gong a ritual robe.
 - [黻服 / Fu Robe](entities/FufuRobe.md) — Ritual garment granted by Zhou Xian Wang to Qin Xian Gong after Shimen, used to connect court dress to political recognition.
-- [周显王 / King Xian of Zhou](entities/ZhouXianwang.md) — Zhou Lie Wang's successor and annalistic frame for Qin's Shimen recognition and Shang Yang's 359 BCE reform opening.
+- [周显王 / King Xian of Zhou](entities/ZhouXianwang.md) — Zhou Lie Wang's successor and annalistic frame for 362 BCE interstate war, Qin's Shimen recognition, and Shang Yang's 359 BCE reform opening.
 - [王绰 / Wang Chuo](entities/WangChuo.md) — Wei official whose flight to Han helps reveal Wei's succession vulnerability.
 - [公孙齐 / Gongsun Qi](entities/GongsunQi.md) — Han official who advises Han Yihou to attack Wei during its succession crisis.
 - [浊泽之战 / Battle of Zhuoze](entities/ZhuozeBattle.md) — Han-Zhao victory over Wei that turns into a failed settlement after the victors disagree.
@@ -1186,7 +1187,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [韩武子 / Han Wuzi](entities/HanWuzi.md) — Han ruler who attacks Zheng and moves the capital toward it in Zhouji 10's generational-strategy sequence.
 - [赵成侯 / Marquis Cheng of Zhao](entities/ZhaoChenghou.md) — Zhao Zhong, successor to Zhao Jinghou in Zhou Lie Wang's first-year notice.
 - [太史旦 / Taishi Dan](entities/TaishiDan.md) — Zhou grand historian whose Shiji visit to Qin Xian Gong becomes Zhouji 10's source-switching and Qin-diplomacy case.
-- [秦献公 / Duke Xian of Qin](entities/QinXianGong.md) — Qin ruler addressed by Taishi Dan's Zhou-Qin common-origin and future-hegemon speech.
+- [秦献公 / Duke Xian of Qin](entities/QinXianGong.md) — Qin ruler addressed by Taishi Dan's future-hegemon speech and succeeded by Qin Xiao Gong after the Shaoliang victory cycle.
 - [秦灵公 / Duke Ling of Qin](entities/QinLingGong.md) — Qin Xian Gong's father, used by Zhouji 08 part 3 to explain Qin Xian Gong's plausible claim during the coup against Qin Chugong.
 - [非子 / Qin Feizi](entities/QinFeizi.md) — Qin origin figure rewarded by Zhou Xiao Wang for horse-raising skill before Qin became a recognized state.
 - [秦襄公 / Duke Xiang of Qin](entities/QinXiangGong.md) — Qin leader whose service to Zhou Ping Wang leads to Qin's formal recognition in the source's origin story.
@@ -1195,11 +1196,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周平王 / King Ping of Zhou](entities/ZhouPingwang.md) — Zhou ruler who recognizes Qin Xiang Gong and grants Qin western land claims after the eastward move.
 - [秦文公 / Duke Wen of Qin](entities/QinWengong.md) — Qin ruler by whose generation the source says Qin drove out the Quanrong from its granted land.
 - [老子 / Laozi](entities/Laozi.md) — Thinker tentatively associated with Taishi Dan by the source, kept as a speculative comparison.
-- [燕桓公 / Duke Huan of Yan](entities/YanHuanGong.md) — Yan ruler succeeding Yan Xi Gong in the 373 BCE notice.
+- [燕桓公 / Duke Huan of Yan](entities/YanHuanGong.md) — Yan ruler who succeeds Yan Xi Gong in 373 BCE and whose death opens Yan Wen Gong's 362 BCE accession.
 - [宋辟公 / Duke Pi of Song](entities/SongPigong.md) — Song ruler succeeding Song Xiugong in the 373 BCE notice.
 - [卫国 / Wey State](entities/WeyState.md) — Pre-Qin Wey polity added from Zhouji 10's 373 BCE attack on Qi and succession notice, disambiguated from Wei State.
-- [卫声公 / Duke Sheng of Wey](entities/WeyShenggong.md) — Wey ruler whose death precedes Wey Cheng Gong's accession in Zhouji 10.
-- [卫成公 / Duke Cheng of Wey](entities/WeyChenggong.md) — Wei Xun, successor to Wey Sheng Gong in Zhouji 10.
+- [卫声公 / Duke Sheng of Wey](entities/WeyShenggong.md) — Wey ruler whose death/acession notices create a 373/362 BCE chronology and title tension around Wey Cheng Gong/Cheng Hou.
+- [卫成公 / 卫成侯 / Duke-Marquis Cheng of Wey](entities/WeyChenggong.md) — Wei Xun, successor to Wey Sheng Gong whose title demotion is read as weak-state status signaling.
 - [子思 / Zisi](entities/Zisi.md) — Confucius's grandson in Zhouji 09, used for advice on flawed talent, remonstrance, and court feedback failure.
 - [苟变 / Gou Bian](entities/GouBian.md) — Military talent whom Zisi says Wei should not discard over the "two eggs" blemish.
 - [周烈王 / King Lie of Zhou](entities/ZhouLiewang.md) — Zhou An Wang's son and successor in the 376 BCE transition closing Zhouji 09.
@@ -1222,7 +1223,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [韩文侯 / Marquis Wen of Han](entities/HanWenhou.md) — Han Lie Hou's son and successor in the Zhouji 08 part 2 succession cluster.
 - [田和 / Tian He](entities/TianHe.md) — Qi grandee who displaces Qi Kang Gong and seeks Zhou-backed recognition, showing formal legitimacy after practical power has shifted.
 - [田文 / Tian Wen (Wei chancellor)](entities/TianWenWeiChancellor.md) — Wei chancellor whose answer to Wu Qi makes transition fit more important than raw achievement.
-- [公叔 / Gongshu (Wei chancellor)](entities/GongshuWeiChancellor.md) — Wei chancellor who fears Wu Qi and uses a marriage proposal trap to undermine ruler-minister trust.
+- [公叔 / Gongshu (Wei chancellor)](entities/GongshuWeiChancellor.md) — Wei chancellor tied to Wu Qi's exit and likely variant notices around the 362 BCE Shaoliang capture.
 - [聂政 / Nie Zheng](entities/NieZheng.md) — Assassin hired by Yan Zhongzi to kill Han chancellor Xia Lei, then self-destroying to protect family identity.
 - [聂英 / Nie Ying](entities/NieYing.md) — Nie Zheng's sister who identifies his body and dies so his name will not be lost.
 - [严仲子 / Yan Zhongzi](entities/YanZhongzi.md) — Puyang feud-holder who recruits Nie Zheng to kill Xia Lei.
@@ -1247,13 +1248,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [齐景公 / Duke Jing of Qi](entities/QiJinggong.md) — Qi ruler who employs Sima Rangju after Yan Ying's recommendation.
 - [吴起 / Wu Qi](entities/WuQi.md) — Warring States commander and reformer whose Wei military success, court vulnerability, and Chu state-building backlash drive the Ruiqi branch.
 - [《吴子》 / Wuzi](entities/Wuzi.md) — Military text associated with Wu Qi and the episode's "励士" morale branch.
-- [魏国 / Wei State](entities/WeiState.md) — Early Warring States power linked in the source to Wu Qi's training, discipline, morale, and execution.
+- [魏国 / Wei State](entities/WeiState.md) — Early Warring States power moving between Wu Qi's reforms, Three Jin wars, Shaoliang losses, and later Shang Yang-era rivalry.
 - [魏文侯 / Marquis Wen of Wei](entities/WeiWenhou.md) — Early Wei ruler developed through formal Three Jin recognition, respect for scholars, promise-keeping, Han-Zhao diplomatic restraint, and later death/succession notices.
 - [子夏 / Zi Xia](entities/ZiXia.md) — Confucius disciple honored by Wei Wenhou as a teacher, making Confucian learning part of Wei's talent-attraction image.
 - [田子方 / Tian Zifang](entities/TianZifang.md) — Scholar associated by the source with Qi's Tian world and with Wei Wenhou's respectful treatment of mobile talent.
 - [段干木 / Duan Ganmu](entities/DuanGanmu.md) — Recluse whose avoidance of Wei Wenhou sharpens the source's portrait of non-coercive respect for worthy people.
 - [齐国 / Qi State](entities/QiState.md) — Pre-Qin state whose Ruiqi branch spans Sima Rangju, Tian-family transition, Qi Wei Wang, Sun Bin's campaigns, and Tian Ji's post-Maling court crisis.
-- [燕国 / Yan State](entities/YanState.md) — Pre-Qin state that becomes Su Qin's first successful patronage base through Yan Wen Gong's Zhao-as-shield calculation.
+- [燕国 / Yan State](entities/YanState.md) — Pre-Qin state whose Yan Huan Gong-to-Yan Wen Gong succession later becomes Su Qin's first successful patronage base.
 - [燕闵公 / Duke Min of Yan](entities/YanMinGong.md) — Yan ruler whose death leads to Yan Xi Gong's succession in the source.
 - [燕僖公 / Duke Xi of Yan](entities/YanXiGong.md) — Yan ruler succeeding Yan Min Gong in the source's chronology.
 - [楚国 / Chu State](entities/ChuState.md) — State whose branch runs from Chu Sheng Wang's opaque death notice to Wu Qi's strengthening reforms under Chu Dao Wang.
@@ -1264,14 +1265,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周安王 / King An of Zhou](entities/ZhouAnWang.md) — Zhou ruler succeeding King Weilie in the source's chronology.
 - [晋国 / Jin State](entities/JinState.md) — Pre-Qin state node for the Jin You Gong, Qin Ying, and Qin-Jin marriage-alliance comparison.
 - [晋幽公 / Duke You of Jin](entities/JinYouGong.md) — Jin ruler whose Bamboo Annals death account is used to illustrate political direction behind "bandits."
-- [秦国 / Qin State](entities/QinState.md) — Qin polity moving from kinship diplomacy and eastward pressure into Shang Yang reform, then becoming Su Qin's failed stop, the threat behind hezong, and the Hangu Pass restraint test.
+- [秦国 / Qin State](entities/QinState.md) — Qin polity moving from kinship diplomacy, eastward pressure, and diplomatic exclusion into Shang Yang reform and later Hangu Pass restraint.
 - [秦简公 / Duke Jian of Qin](entities/QinJianGong.md) — Qin ruler whose death leads to Qin Hui Gong's accession in the Zhouji 07 chronology.
 - [秦惠公 / Duke Hui of Qin](entities/QinHuiGong.md) — Qin Jian Gong's son and successor in the Zhouji 07 succession sequence.
 - [秦嬴 / Qin Ying](entities/QinYing.md) — Qin princess named in the Bamboo Annals account of Jin You Gong's assassination.
-- [韩国 / Han State](entities/HanState.md) — Early Warring States polity attacked by Zheng during Han Jinghou's mourning and succession window.
+- [韩国 / Han State](entities/HanState.md) — Early Warring States polity attacked during succession windows and defeated with Zhao by Wei at Hui in 362 BCE.
 - [韩景侯 / Marquis Jing of Han](entities/HanJinghou.md) — Han ruler whose death creates the vulnerability the episode links to Zheng's Yangdi attack.
 - [韩烈侯 / Marquis Lie of Han](entities/HanLiehou.md) — Han Jinghou's son and successor in the Zhouji 07 chronology.
-- [赵国 / Zhao State](entities/ZhaoState.md) — Early Warring States polity that becomes both Su Qin's failed early stop and Yan's necessary shield against Qin in Zhouji 30.
+- [赵国 / Zhao State](entities/ZhaoState.md) — Early Warring States polity that defeats Qin with Wei, later loses with Han to Wei, and becomes Yan's necessary shield in Su Qin's pitch.
 - [赵烈侯 / Marquis Lie of Zhao](entities/ZhaoLiehou.md) — Zhao ruler whose death leads to Zhao Wuhou's installation.
 - [赵武侯 / Marquis Wu of Zhao](entities/ZhaoWuhou.md) — Zhao Liehou's younger brother and successor in the source.
 - [郑国 / Zheng State](entities/ZhengState.md) — Buffer state between Jin and Chu whose internal assassinations anchor Zhouji 07's political-violence thread.
@@ -7069,6 +7070,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Qin Diplomatic Exclusion / 秦国外交排斥](concepts/QinDiplomaticExclusion.md) — Qin Xiao Gong accession frame where Qin's pre-reform pressure is military, cultural, and diplomatic because eastern states treat Qin as an excluded peripheral power.
 - [阴谋阳谋转换 / Yinmou-Yangmou Conversion](concepts/YinmouYangmouConversion.md) — Zhang Yi's tactic of revealing a hidden plan so the disclosure itself changes Qi's incentives.
 - [Warring States Careerist Mobility / 乱世职业经理人式流动](concepts/WarringStatesCareeristMobility.md) — Frame for reading persuaders like Zhang Yi and Gongsun Yan as mobile political professionals pursuing office, survival, and功名 across courts.
 - [Strategic Luxury Sabotage / 奢侈诱导式削弱](concepts/StrategicLuxurySabotage.md) — Su Qin's Qi-court tactic of encouraging palace and garden expansion to drain Qi resources for Yan's benefit.
