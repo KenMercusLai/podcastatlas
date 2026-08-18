@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》21丨邹忌下阴招 田忌国外避难](sources/zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij.md) — 芮淇讲透资治通鉴 episode on Zou Ji framing Tian Ji with a staged divination and treason implication after Maling, Sun Bin's risky Yongmen counterattack advice, and Tian Ji's flight to Chu.
 - [《资治通鉴·周纪》20丨庞涓死此树下](sources/zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4.md) — 芮淇讲透资治通鉴 episode completing the Maling battle: Sun Bin uses reduced stoves to fake Qi desertion, Pang Juan rushes into a night ambush and dies, Wei collapses, Prince Shen is captured, and Tian Ji's victory creates court risk.
 - [《资治通鉴·周纪》19丨马陵之战](sources/zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada.md) — 芮淇讲透资治通鉴 episode on the 341 BCE Maling campaign setup: Wei attacks Han, Qi delays rescue for leverage, Sun Bin targets Daliang again, Wei appoints Prince Shen, and forced-march risk becomes the next tactical hinge.
 - [《资治通鉴·周纪》18丨中国历史上第一例人头税](sources/zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq.md) — 芮淇讲透资治通鉴 episode on Shang Yang's likely poll-tax reform, Zhao Fan's failed surprise attack on Handan, the 伐/侵/袭 wording distinction, Wey's demotion, lords meeting at Luoyi without true royal audience, and Zhou recognition of Qin Xiao Gong's hegemon status.
@@ -1024,7 +1025,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [成侯邹忌 / Chenghou Zou Ji](entities/ZouJi.md) — Qi minister whose no-rescue position anchors one pole of the Maling rescue-Han debate.
+- [成侯邹忌 / Chenghou Zou Ji](entities/ZouJi.md) — Qi minister who opposes rescuing Han and later frames Tian Ji through a staged divination and treason implication.
 - [田婴 / Tian Ying](entities/TianYing.md) — Qi royal-family commander named in the delayed rescue of Han before the Maling campaign.
 - [太子申 / Prince Shen of Wei](entities/PrinceShenWei.md) — Wei crown prince appointed to command during the Maling setup and captured after Pang Juan's ambush defeat.
 - [《孙子兵法》 / The Art of War](entities/SunziBingfa.md) — Military text whose "军争" warning about long pursuit frames Sun Bin's forced-march plan at Maling.
@@ -1035,7 +1036,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [逢泽 / Fengze](entities/Fengze.md) — Meeting site for Gongzi Shaoguan, the lords, and the Zhou audience after Qin's hegemon recognition.
 - [公子少官 / Gongzi Shaoguan](entities/GongziShaoguan.md) — Qin prince sent by Qin Xiao Gong with troops to meet the lords at Fengze.
 - [洛邑 / Luoyi](entities/Luoyi.md) — Zhou royal capital whose "会于京师" wording marks a meeting not centered on royal audience.
-- [马陵之战 / Battle of Maling](entities/MalingBattle.md) — Qi-Wei battle moving from delayed rescue and Daliang pressure into Sun Bin's reduced-stove deception, Pang Juan's death, Wei defeat, and Prince Shen's capture.
+- [马陵之战 / Battle of Maling](entities/MalingBattle.md) — Qi-Wei battle whose delayed rescue, reduced-stove deception, and Wei defeat create the court-risk afterlife that drives Tian Ji into exile.
 - [申不害 / Shen Buhai](entities/ShenBuhai.md) — Han chief minister whose Huang-Lao and xingming learning become a ruler-technique and merit-based reward case under Han Zhaohou.
 - [咸阳 / Xianyang](entities/Xianyang.md) — Qin capital selected in Shang Yang's second reform round and used by the source as durable reform geography.
 - [固阳 / Guyang](entities/Guyang.md) — Wei place surrounded by Qin under Shang Yang in 351 BCE, marking Qin eastward pressure.
@@ -1045,9 +1046,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [景舍 / Jing She](entities/Jingshe.md) — Chu-associated figure used as Qi Wei Wang's peace channel to Wei after the Xiangling fighting.
 - [襄陵 / Xiangling](entities/XianglingWarringStates.md) — Warring States Wei place under coalition pressure, disambiguated from the Hongloumeng character 香菱.
 - [漳水之盟 / Zhangshui Alliance](entities/ZhangshuiAlliance.md) — 351 BCE Wei-Zhao reconciliation made possible by Wei returning Handan under Qin pressure.
-- [孙膑 / Sun Bin](entities/SunBin.md) — Qi strategist whose horse-racing, encircling-Wei, delayed-rescue, and reduced-stove tactics culminate in Guiling and Maling.
+- [孙膑 / Sun Bin](entities/SunBin.md) — Qi strategist whose horse-racing, encircling-Wei, delayed-rescue, and reduced-stove tactics culminate in Maling before his unused Yongmen counterattack advice.
 - [庞涓 / Pang Juan](entities/PangJuan.md) — Wei general and Sun Bin's former fellow student whose betrayal arc ends when he misreads reduced stoves, rushes into Maling, and dies.
-- [田忌 / Tian Ji](entities/TianJi.md) — Qi general who shelters Sun Bin, commands rescue campaigns, benefits from Maling victory, and faces rising court-risk with Zou Ji.
+- [田忌 / Tian Ji](entities/TianJi.md) — Qi general who shelters Sun Bin, commands rescue campaigns, benefits from Maling victory, and flees to Chu after Zou Ji's accusation trap.
 - [鬼谷子 / Guiguzi](entities/Guiguzi.md) — Teacher named as the shared source of Sun Bin and Pang Juan's military learning.
 - [《孙膑兵法》 / Sun Bin's Art of War](entities/SunBinBingfa.md) — Military text whose 1972 Yinqueshan excavation supports distinguishing Sun Bin from Sunzi.
 - [桂陵之战 / Battle of Guiling](entities/GuilingBattle.md) — Qi victory produced by threatening Daliang, forcing Wei to leave Handan, and ambushing the returning army.
@@ -1091,7 +1092,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [韩廆 / Han Gui](entities/HanGui.md) — Han chancellor targeted by Yan Sui's hired assassin in the Zhouji 10 part 2 Han court-killing variant.
 - [韩懿侯 / Marquis Yi of Han](entities/HanYihou.md) — Han Aihou's son and successor after the Han Gui/Yan Sui assassination crisis.
 - [公中缓 / Gongzhong Huan](entities/GongzhongHuan.md) — Rival claimant against Wei Ying after Wei Wuhou dies without a clear successor.
-- [齐威王 / King Wei of Qi](entities/QiWeiwang.md) — Qi ruler used in Zhouji 10 part 2 for both a contested chronology notice and the Jimo/Ayi official-audit story.
+- [齐威王 / King Wei of Qi](entities/QiWeiwang.md) — Qi ruler whose branch runs from contested chronology and official audits to Sun Bin's rescue strategies and Tian Ji's post-Maling accusation crisis.
 - [即墨大夫 / Jimo Dafu](entities/JimoDafu.md) — Qi local official with bad court gossip but strong local performance in Qi Wei Wang's secret audit.
 - [阿邑大夫 / Ayi Dafu](entities/AyiDafu.md) — Qi local official with good court reputation but poor local performance in Qi Wei Wang's secret audit.
 - [楚宣王 / King Xuan of Chu](entities/ChuXuanwang.md) — Xiong Liangfu, brother and successor of Chu Su Wang in the Zhou Lie Wang sixth-year notice.
@@ -1162,7 +1163,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [子夏 / Zi Xia](entities/ZiXia.md) — Confucius disciple honored by Wei Wenhou as a teacher, making Confucian learning part of Wei's talent-attraction image.
 - [田子方 / Tian Zifang](entities/TianZifang.md) — Scholar associated by the source with Qi's Tian world and with Wei Wenhou's respectful treatment of mobile talent.
 - [段干木 / Duan Ganmu](entities/DuanGanmu.md) — Recluse whose avoidance of Wei Wenhou sharpens the source's portrait of non-coercive respect for worthy people.
-- [齐国 / Qi State](entities/QiState.md) — Pre-Qin state setting for Sima Rangju, Yan Ying, and Qi Jinggong in the Ruiqi episode.
+- [齐国 / Qi State](entities/QiState.md) — Pre-Qin state whose Ruiqi branch spans Sima Rangju, Tian-family transition, Qi Wei Wang, Sun Bin's campaigns, and Tian Ji's post-Maling court crisis.
 - [燕国 / Yan State](entities/YanState.md) — Pre-Qin state appearing through the Yan Min Gong to Yan Xi Gong succession notice.
 - [燕闵公 / Duke Min of Yan](entities/YanMinGong.md) — Yan ruler whose death leads to Yan Xi Gong's succession in the source.
 - [燕僖公 / Duke Xi of Yan](entities/YanXiGong.md) — Yan ruler succeeding Yan Min Gong in the source's chronology.
@@ -6993,6 +6994,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Encircling Wei to Rescue Zhao / 围魏救赵](concepts/EncirclingWeiToRescueZhao.md) — Strategy of relieving an ally by threatening what the aggressor must save instead of fighting at the obvious pressure point.
 - [Tian Ji Horse Racing / 田忌赛马](concepts/TianJiHorseRacing.md) — Resource-allocation pattern where one planned loss creates two decisive wins across the larger contest.
 - [Lure Enemy Out of Position / 诱敌离位](concepts/LureEnemyOutOfPosition.md) — Tactic of drawing a formed enemy out of its strong position through exposed targets, false weakness, or prepared pursuit bait.
+- [Treason Accusation Trap / 谋反指控陷阱](concepts/TreasonAccusationTrap.md) — Court-politics pattern where a planted suspicious event turns a rival's prestige into operational treason suspicion.
 - [Political Parable Weaponization / 寓言式政治挑拨](concepts/PoliticalParableWeaponization.md) — Court-rhetoric pattern where a true-sounding lesson is used to attack a rival.
 - [Chancellor-Centered Governance / 宰相中心治理](concepts/ChancellorCenteredGovernance.md) — Historiographical frame for treating chancellor notices as crucial state-operation evidence.
 - [Eastern-Western Zhou Split / 东周西周分裂](concepts/EasternWesternZhouSplit.md) — Political-fragmentation frame distinguishing the small East/West Zhou polities from broad dynasty-period labels.

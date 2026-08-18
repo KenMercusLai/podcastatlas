@@ -2,7 +2,7 @@
 title: "齐国 / Qi State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -36,6 +36,8 @@ The page also gives a home to existing Qi-related pre-Qin nodes such as [[QiHuan
 
 [[zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4]] completes Qi's campaign success. Sun Bin's [[DecreasingStovesDeception|reduced-stove deception]] pulls [[PangJuan|庞涓]] into rapid pursuit, the Maling ambush kills him and disorders Wei's army, and Qi follows by breaking Wei and capturing [[PrinceShenWei|太子申]]. The same victory creates an internal Qi problem because [[TianJi|田忌]]'s military standing may threaten [[ZouJi|成侯邹忌]].
 
+[[zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]] follows that victory's domestic cost. Zou Ji frames Tian Ji through a staged market divination and possible rebellion accusation, Sun Bin proposes a sudden counterattack at Yongmen, and Tian Ji instead escapes to [[ChuState|楚国]]. The source makes Qi a case where external victory against Wei does not settle internal court alignment.
+
 ## Connections
 - [[SimaRangju|司马穰苴]], [[YanYing|晏婴]], and [[QiJinggong|齐景公]] - source-specific Qi branch.
 - [[QiHuanGong|齐桓公]] and [[QiXuanWang|齐宣王]] - existing Qi-related wiki pages.
@@ -51,3 +53,4 @@ The page also gives a home to existing Qi-related pre-Qin nodes such as [[QiHuan
 - [[QiWeiwang|齐威王]], [[Jingshe|景舍]], [[XianglingWarringStates|襄陵]], [[WeiState|魏国]], and [[QinEastwardPressure]] - Zhouji 17 peace-seeking and pressure branch.
 - [[MouXin|牟辛]], [[MalingBattle|马陵之战]], [[SunBin|孙膑]], and [[PangJuan|庞涓]] - Zhouji 18 compact internal notice and next-war preview.
 - [[ZouJi|成侯邹忌]], [[HanState|韩国]], [[TianYing|田婴]], [[PrinceShenWei|太子申]], [[DelayedRescueStatecraft]], [[ForcedMarchOperationalRisk]], and [[DecreasingStovesDeception]] - Zhouji 19-20 rescue-Han timing, Maling setup, and outcome.
+- [[TreasonAccusationTrap]], [[SunBin|孙膑]], [[TianJi|田忌]], [[ChuState|楚国]], [[Shiji|《史记》]], and [[Zhanguoce|《战国策》]] - Zhouji 21 accusation, source-variant, and exile branch.

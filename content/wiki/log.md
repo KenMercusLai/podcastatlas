@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》21丨邹忌下阴招 田忌国外避难
+
+Added source page for a 芮淇讲透资治通鉴 episode on the post-Maling court struggle between Zou Ji and Tian Ji, including the staged divination and treason implication, source wording differences among Zizhi Tongjian, Shiji, and Zhanguo Ce, Sun Bin's Yongmen counterattack advice, and Tian Ji's flight to Chu. Created Treason Accusation Trap; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Shiji, Zhanguo Ce, Qi State, Chu State, Qi Wei Wang, Tian Ji, Sun Bin, Zou Ji, and Battle of Maling. No direct contradiction found; the source qualifies the Maling victory as a political liability for Tian Ji once military prestige becomes usable evidence in a court accusation.
+
 ## [2026-08-18] ingest | 《资治通鉴·周纪》08丨一代名将吴起惨死（2）
 
 Added source page for a 芮淇讲透资治通鉴 episode on Wu Qi fleeing Wei for Chu, Chu Dao Wang's backing of Wu Qi's reform program, noble and royal backlash against centralizing military-fiscal reform, Qin/Zhao/Han succession notices in 387 BCE, Zhou recognition of Tian He in 386 BCE, and Han Fei's ruler-technique reading of Zhao Jinghou. Created pages for Qin Chugong, Zhao Jinghou, Han Wenhou, Tian He, Warring States Reform Backlash, and Legalist Ruler Technique; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou An Wang, Wu Qi, Wei State, Wei Wuhou, Chu State, Chu Dao Wang, Qin State, Qin Hui Gong, Zhao State, Zhao Wuhou, Han State, Han Lie Hou, Qi State, Han Fei, and Warring States Period. No direct contradiction found; the source extends the prior Wu Qi branch by showing how successful reform itself creates the interests that will later destroy him.
@@ -8198,3 +8202,7 @@ Added source page for a 芮淇讲透资治通鉴 episode completing the Battle o
 ## [2026-08-19] lint | Wiki health check
 
 Ran health and lint checks. Health passed. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

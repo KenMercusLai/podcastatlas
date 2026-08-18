@@ -2,7 +2,7 @@
 title: "《史记》 / Shiji"
 type: entity
 tags: [book, history, chinese-history, historiography]
-sources: [zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -24,6 +24,8 @@ The page's role is historiographical rather than encyclopedic. It marks a source
 
 [[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] uses Shiji again as a targeted supplement. The episode says [[ZizhiTongjian|《资治通鉴》]] does not record Qin's same-year attack on Zhao's Lin area, but [[Shiji|《史记》]]'s Zhao material does; the point is to support the source's reading that [[QinEastwardPressure|Qin pressure]] was shared by Wei and Zhao.
 
+[[zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]] adds Shiji as part of a wording comparison around [[TianJi|田忌]]'s political fall. The episode says Shiji and [[Zhanguoce|《战国策》]] use "欲为大事," while Zizhi Tongjian uses "欲行事," making the planted divination question read more clearly as a treason-coded signal.
+
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle being supplemented in the episode.
 - [[YuRang|豫让]], [[ZhiYao|智瑶]], and [[RetainerReciprocityEthic]] - assassins-tradition branch added by Zhouji 04.
@@ -35,3 +37,4 @@ The page's role is historiographical rather than encyclopedic. It marks a source
 - [[QiState|齐国]], [[WeiState|魏国]], [[SongState|宋国]], and [[TerritorialControlChurn]] - Zhouji 11 supplemental war notices.
 - [[QiWeiwang|齐威王]], [[QiChronologyDispute]], [[ChronicleChronologyDrift]], and [[HistoricalDetectiveReasoning]] - Zhouji 14 Qi chronology caution.
 - [[ZhaoState|赵国]], [[QinState|秦国]], and [[QinEastwardPressure]] - Zhouji 17 supplemental Zhao attack notice.
+- [[TianJi|田忌]], [[ZouJi|成侯邹忌]], [[Zhanguoce|《战国策》]], and [[TreasonAccusationTrap]] - Zhouji 21 wording comparison around the accusation.
