@@ -1515,6 +1515,10 @@
     "title": "AI Data Memory Infrastructure",
     "url": "/wiki/concepts/aidatamemoryinfrastructure/"
   },
+  "AIDataReadiness": {
+    "title": "AI Data Readiness",
+    "url": "/wiki/concepts/aidatareadiness/"
+  },
   "AIDefaultLearningEnvironment": {
     "title": "AI Default Learning Environment",
     "url": "/wiki/concepts/aidefaultlearningenvironment/"
@@ -10135,6 +10139,10 @@
     "title": "Custom Movie Popcorn Buckets / 电影定制爆米花桶",
     "url": "/wiki/concepts/custommoviepopcornbuckets/"
   },
+  "CustomerChurnPrediction": {
+    "title": "Customer Churn Prediction",
+    "url": "/wiki/concepts/customerchurnprediction/"
+  },
   "CustomerCoCreation": {
     "title": "Customer Co-Creation",
     "url": "/wiki/concepts/customercocreation/"
@@ -10618,6 +10626,10 @@
   "DataRecipeCoCreation": {
     "title": "Data Recipe Co-Creation",
     "url": "/wiki/concepts/datarecipecocreation/"
+  },
+  "DataScienceStorytelling": {
+    "title": "Data Science Storytelling",
+    "url": "/wiki/concepts/datasciencestorytelling/"
   },
   "DataScienceWithSam": {
     "title": "Data Science With Sam",
@@ -13370,6 +13382,10 @@
   "ExpertiseAmplifiedAIUse": {
     "title": "Expertise-Amplified AI Use",
     "url": "/wiki/concepts/expertiseamplifiedaiuse/"
+  },
+  "ExplainableAIBusinessDecisions": {
+    "title": "Explainable AI for Business Decisions",
+    "url": "/wiki/concepts/explainableaibusinessdecisions/"
   },
   "ExplodingKittens": {
     "title": "Exploding Kittens",
@@ -26571,6 +26587,10 @@
     "title": "Natural Hazard As Social Disaster",
     "url": "/wiki/concepts/naturalhazardsocialdisaster/"
   },
+  "NaturalLanguageAnalytics": {
+    "title": "Natural Language Analytics",
+    "url": "/wiki/concepts/naturallanguageanalytics/"
+  },
   "NaturalLanguageIncorporated": {
     "title": "Natural Language Incorporated",
     "url": "/wiki/entities/naturallanguageincorporated/"
@@ -29926,6 +29946,10 @@
   "PredictionMarketTraderAlpha": {
     "title": "Prediction Market Trader Alpha",
     "url": "/wiki/concepts/predictionmarkettraderalpha/"
+  },
+  "PredictiveModelValidation": {
+    "title": "Predictive Model Validation",
+    "url": "/wiki/concepts/predictivemodelvalidation/"
   },
   "PreetAnand": {
     "title": "Preet Anand",
@@ -39187,6 +39211,10 @@
     "title": "Visa",
     "url": "/wiki/entities/visa/"
   },
+  "VishalDataScienceWithSam": {
+    "title": "Vishal (Data Science With Sam)",
+    "url": "/wiki/entities/vishaldatasciencewithsam/"
+  },
   "VisionLanguageActionModels": {
     "title": "Vision Language Action Models",
     "url": "/wiki/concepts/visionlanguageactionmodels/"
@@ -42858,6 +42886,10 @@
   "ep-15-unveiling-data-scientists-role-in-the-generative-ai-era": {
     "title": "EP 15: Unveiling Data Scientist's Role in the Generative AI Era",
     "url": "/wiki/sources/ep-15-unveiling-data-scientists-role-in-the-generative-ai-era/"
+  },
+  "ep-16-data-decoded-navigating-the-ai-revolution": {
+    "title": "EP 16: Data Decoded: Navigating the AI Revolution",
+    "url": "/wiki/sources/ep-16-data-decoded-navigating-the-ai-revolution/"
   },
   "ep-3-demystifying-the-imposter-syndrome": {
     "title": "EP 3: Demystifying the Imposter Syndrome",

@@ -2,7 +2,7 @@
 title: "AI Worker Literacy"
 type: concept
 tags: [ai, labor, education, workforce]
-sources: [ep-15-unveiling-data-scientists-role-in-the-generative-ai-era, ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker, ep-9-chatgpt-and-education-systems, tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128, tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
+sources: [ep-16-data-decoded-navigating-the-ai-revolution, ep-15-unveiling-data-scientists-role-in-the-generative-ai-era, ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker, ep-9-chatgpt-and-education-systems, tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128, tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
 last_updated: 2026-08-18
 ---
 
@@ -13,6 +13,8 @@ last_updated: 2026-08-18
 [[ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker]] adds a professional-certification version through [[CharlesJohnson]]. He encourages actuarial students and employees to use AI tools for business problems, while [[SamDataScienceWithSam|Sam]] frames [[ChatGPT]] fluency as a likely future hiring and productivity signal in [[ActuarialScience]] and data science.
 
 [[ep-15-unveiling-data-scientists-role-in-the-generative-ai-era]] adds a data-scientist specialization through [[MarinaDataScienceWithSam|Marina]]. For data scientists, literacy includes [[PromptAsIntentTransmission|prompting]], API use, lightweight web demos, resource management, privacy boundaries, [[AIVerification]], and knowing when [[GenerativeAIUseCaseTriage]] should limit or redirect a generative-AI workflow.
+
+[[ep-16-data-decoded-navigating-the-ai-revolution]] adds [[VishalDataScienceWithSam|Vishal]]'s data-professional version. Literacy includes using GPT-like tools, but also preserving statistics, SQL, Python, [[AIDataReadiness]], [[PredictiveModelValidation]], business problem solving, and [[DataScienceStorytelling]] as automation changes basic cleaning, reporting, and coding work.
 
 AI worker literacy is the baseline understanding workers need to use, question, and contextualize AI tools in a labor market where employers and policymakers are pushing "AI readiness." [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds the concept through the [[USDepartmentOfLabor|U.S. Department of Labor]]'s text-message AI course, which covers basics such as generative AI, prompting, and large language models.
 
@@ -34,12 +36,14 @@ The source treats literacy as useful but limited. [[MariaCurie|Maria Curi]] says
 - EP9 adds that worker literacy starts before employment when K-12 students get enough computer science, AI vocabulary, and project experience to see technical careers as reachable.
 - EP10 adds that AI literacy can become part of professional actuarial formation, but it must be paired with validation, source checking, and domain accountability through [[ActuarialAIAugmentation]].
 - EP15 adds that specialist AI literacy can be role-specific: data scientists need prompt, API, prototype, resource, verification, and governance fluency around LLM workflows.
+- EP16 adds that data professionals need literacy across AI tools, statistical validation, data engineering, business interpretation, and communication rather than only prompt use.
 
 ## Connections
 - [[USDepartmentOfLabor|U.S. Department of Labor]] - agency introducing the text-message course.
 - [[JosephStrader]], [[GoCyberAcademy]], and [[K12ComputerScienceAccess]] - upstream student-access branch added by Data Science With Sam EP9.
 - [[CharlesJohnson]], [[ActuarialSelfStudyCareerPath]], and [[ActuarialAIAugmentation]] - actuarial professional-literacy branch added by Data Science With Sam EP10.
 - [[MarinaDataScienceWithSam]], [[DataScientistGenerativeAIFluency]], and [[GenerativeAIUseCaseTriage]] - data-scientist generative-AI literacy branch added by EP15.
+- [[VishalDataScienceWithSam]], [[AIDataReadiness]], [[PredictiveModelValidation]], and [[DataScienceStorytelling]] - data-professional AI literacy branch added by EP16.
 - [[AILiteracyAgainstWorship]] - broader literacy frame that emphasizes limits, agency, incentives, and public understanding.
 - [[CollegeCareerPreparation]] - upstream preparation for AI-shaped careers.
 - [[HumanJudgmentUnderAI]] - worker capability still depends on judgment, verification, and context.

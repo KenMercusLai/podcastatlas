@@ -1116,6 +1116,10 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-18] ingest | EP 16: Data Decoded: Navigating the AI Revolution
+
+Added source page for a Data Science With Sam episode with Vishal on GPT-like natural-language analytics, AI data readiness, business-led AI pilots, explainable churn prediction in Salesforce, privacy, bias, model validation, and data-science storytelling. Created pages for Vishal, Natural Language Analytics, AI Data Readiness, Explainable AI for Business Decisions, Customer Churn Prediction, Data Science Storytelling, and Predictive Model Validation; updated overview, index, Data Science With Sam, Sam, Salesforce, ChatGPT, Data Scientist Generative AI Fluency, Data Engineering For Data Science, AI Model Bias Governance, Business-Led AI Transformation, Language User Interface, AI Verification, Human Judgment Under AI, AI Worker Literacy, Domain Expert Alignment, Machine Learning Engineering, and Real-Time Operational Analytics. No direct contradiction found; the source reinforces the wiki's existing boundary that AI analytics becomes useful only when ready data, business context, statistical validation, explainability, governance, and human communication connect model output to action.
+
 ## [2026-07-24] ingest | BOARD GAMES 3: What's in a name?
 
 Added source page for a Planet Money episode on turning an asymmetric-information card-game prototype into Sell Me a Sasquatch with Exploding Kittens. Created pages for Exploding Kittens, Sell Me a Sasquatch, Elan Lee, Jamie Wolanski, Stephanie Pesta, Yuri Hosta, The Market For Lemons, Game Mechanic To Retail Product, Product Naming As Positioning, Retail Shelf Appeal, Cross-Market Naming Friction, and Cryptid Theme Legibility; updated overview, index, NPR, Planet Money, Asymmetric Information, Retail Shelf Placement, Packaging As Product Experience, Target, and Walmart. No direct contradiction found; the source extends the wiki's marketplace and retail branches by showing that a theory-driven mechanic still needs naming, theme, box-level attention, giftability, and localization discipline before it becomes a mass-market product.
@@ -7922,6 +7926,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] ingest | Adam Carolla on California's Collapse: Fires, Failed Leadership, and Gyno-Fascism
 
 Added source page for an All-In episode with Adam Carolla on Palisades fire rebuilding delays, Los Angeles and Malibu permitting, California leadership, safety tradeoff blindness, DEI and media trust claims, safe-spaces-vs-octagons migration, wealth-tax pressure, anti-tech politics, and skilled trades. Created pages for Adam Carolla, Los Angeles, Malibu, Pacific Palisades, Altadena, Orange County, Karen Bass, Eric Garcetti, Barbara Ferrer, the California Coastal Commission, Steve Hilton, Larry Elder, Rick Caruso, Tennessee, California Post-Fire Rebuilding Delay, Safety Tradeoff Blindness, Safe Spaces vs Octagons, and Everyday Government Intrusion Politics; updated overview, index, All-In, California, Gavin Newsom, Kamala Harris, JD Vance, Permitting Delay Cost, Safety As Control, Disaster Response State Capacity, Natural Hazard As Social Disaster, Fire-Resilient Construction, California Wealth-Tax Capital Flight, AI Backlash Politics, and Good Jobs For Non-College Workers. No direct contradiction found; the source is kept as an opinionated, source-scoped critique whose gender, DEI, fiscal, and political-motive claims should not be treated as independently verified.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-18] lint | Wiki health check
 

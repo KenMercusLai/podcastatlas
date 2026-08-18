@@ -2,13 +2,15 @@
 title: "AI Verification"
 type: concept
 tags: [ai, verification, safety, agents]
-sources: [ep-15-unveiling-data-scientists-role-in-the-generative-ai-era, ep-6-data-science-ai-talk, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, data-ai-and-scientific-research-a-coffee-chat, yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1, jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429, tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
+sources: [ep-16-data-decoded-navigating-the-ai-revolution, ep-15-unveiling-data-scientists-role-in-the-generative-ai-era, ep-6-data-science-ai-talk, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, data-ai-and-scientific-research-a-coffee-chat, yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1, jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429, tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128, e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
 last_updated: 2026-08-18
 ---
 
 # AI Verification
 
 [[ep-15-unveiling-data-scientists-role-in-the-generative-ai-era]] adds the data-scientist LLM workflow version through [[MarinaDataScienceWithSam|Marina]]. In this source, verification covers prompt testing, generated-code review, generated-data privacy checks, bias and hallucination review, and deciding whether high-stakes outputs need automatic checks, human checks, or a non-generative model.
+
+[[ep-16-data-decoded-navigating-the-ai-revolution]] adds the predictive-analytics version through [[VishalDataScienceWithSam|Vishal]]. In the churn case, verification means checking for overfitting or underfitting, using precision and recall, and making sure [[ExplainableAIBusinessDecisions|explanations]] and [[PredictiveModelValidation]] support the customer-success workflow.
 
 [[yu-tian-yuandong-liao-rsi-moxing-zi-jinhua-ruhe-daolai-1-178-1]] adds [[TianYuandong|田渊栋]]'s low-level RSI examples. NanoChat speed runs and operator optimization matter because they provide relatively clear metrics; the source implies that [[RecursiveSelfImprovement]] will be much harder in domains where the verifier cannot tell whether a research direction is genuinely better.
 
@@ -46,6 +48,7 @@ The source separates easy-to-check domains from judgment-heavy domains. Code and
 - Data Science With Sam EP6 adds that brain-signal classification needs replication and scope discipline because public interpretations can outrun what the model actually predicts.
 - The NASA episode adds that spaceflight verification may be data-scarce, visually bounded, and safety-critical, making human review necessary even when the model is useful.
 - Data Science With Sam EP15 adds that LLM verification includes code review, data-privacy review, prompt-result testing, bias checks, hallucination checks, and use-case triage before deployment.
+- Data Science With Sam EP16 adds that ordinary statistics still verify AI-era predictive work: overfitting, underfitting, precision, recall, and explanation quality shape whether a churn model should guide action.
 
 ## Connections
 - [[AICodingVerification]] — software-specific verification branch already tracked in the wiki.
@@ -60,3 +63,4 @@ The source separates easy-to-check domains from judgment-heavy domains. Code and
 - [[PaulinaNemkova]], [[EEGBrainReading]], [[ResearchReplicationIntegrity]], [[AIResearchLiteratureCurrency]], and [[LockedInSyndromeAssistiveCommunication]] - AI-for-neuroscience verification branch added by EP6.
 - [[KofiBrowning]], [[SpaceflightAIDatasetScarcity]], [[SpaceImageryAI]], [[EVAGloveInspectionAI]], and [[AIModelBiasGovernance]] - spaceflight verification branch added by Data Science With Sam.
 - [[MarinaDataScienceWithSam]], [[DataScientistGenerativeAIFluency]], [[GenerativeAIUseCaseTriage]], and [[PromptAsIntentTransmission]] - data-scientist LLM verification branch added by EP15.
+- [[VishalDataScienceWithSam]], [[CustomerChurnPrediction]], [[PredictiveModelValidation]], [[ExplainableAIBusinessDecisions]], and [[AIDataReadiness]] - predictive analytics verification branch added by EP16.

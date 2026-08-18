@@ -2,7 +2,7 @@
 title: "Machine Learning Engineering"
 type: concept
 tags: [machine-learning, engineering, mlops]
-sources: [ep-7-data-science-mlops, ep-8-implementation-of-ai-in-scientific-research]
+sources: [ep-16-data-decoded-navigating-the-ai-revolution, ep-7-data-science-mlops, ep-8-implementation-of-ai-in-scientific-research]
 last_updated: 2026-08-18
 ---
 
@@ -16,6 +16,8 @@ Machine learning engineering sits between [[DataEngineeringForDataScience]] and 
 
 [[ep-8-implementation-of-ai-in-scientific-research]] adds an academic biomedical variant. [[LucasSimon|Lucas Simon]] does not frame his lab as a production-ML team, but the same engineering boundary appears in [[SequencingDataPipeline|sequencing pipelines]], high-performance computing queues, storage, tool installation, and the need to make [[BiomedicalDeepLearning]] outputs analyzable rather than only trainable.
 
+[[ep-16-data-decoded-navigating-the-ai-revolution]] adds a business analytics deployment variant. [[VishalDataScienceWithSam|Vishal]] describes a churn model whose value came from pushing risk scores and explanations into [[Salesforce]], making the model part of an account-management workflow rather than a standalone analysis.
+
 ## Key Claims
 - ML engineering makes a model usable by other systems, often through APIs.
 - ML engineers need some understanding of statistics, model evaluation, confusion matrices, sensitivity, and specificity.
@@ -23,6 +25,7 @@ Machine learning engineering sits between [[DataEngineeringForDataScience]] and 
 - Cross-training is useful because deployment choices affect model behavior and model assumptions affect production risk.
 - The work is continuous when model behavior changes with new data or user behavior.
 - In research settings, engineering can mean making large molecular datasets, pipelines, and model outputs usable enough for scientists to interpret.
+- In business analytics, engineering value appears when model output reaches the system where sales, marketing, or customer-success teams can act.
 
 ## Connections
 - [[MLOps]] - operating discipline around deployed models.
@@ -32,3 +35,4 @@ Machine learning engineering sits between [[DataEngineeringForDataScience]] and 
 - [[IntegratedMLTeams]] - team structure combining data engineers, data scientists, and ML engineers.
 - [[AaronBlythe]] and [[DataScienceWithSam]] - source context.
 - [[LucasSimon]], [[SequencingDataPipeline]], [[GeneExpressionMatrix]], and [[BiomedicalDeepLearning]] - academic biomedical engineering variant added by EP8.
+- [[VishalDataScienceWithSam]], [[CustomerChurnPrediction]], [[Salesforce]], and [[PredictiveModelValidation]] - business analytics deployment variant added by EP16.

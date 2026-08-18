@@ -2,11 +2,13 @@
 title: "Data Science With Sam"
 type: entity
 tags: [podcast, data-science, ai]
-sources: [ep-15-unveiling-data-scientists-role-in-the-generative-ai-era, ep-14-what-is-observability, ep-13-soccer-analytics-through-the-lens-of-coaching, ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker, ep-11-growing-technology-footprints-in-insurance-sector, ep-12-insightful-conversation-with-a-football-analytics-professional, ep-9-chatgpt-and-education-systems, ep-8-implementation-of-ai-in-scientific-research, ep-7-data-science-mlops, ep-6-data-science-ai-talk, ep-5-implementation-of-data-science-in-cybersecurity, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, ep-3-demystifying-the-imposter-syndrome, data-risk-and-actuarial-science-in-insurance, data-ai-and-scientific-research-a-coffee-chat]
+sources: [ep-16-data-decoded-navigating-the-ai-revolution, ep-15-unveiling-data-scientists-role-in-the-generative-ai-era, ep-14-what-is-observability, ep-13-soccer-analytics-through-the-lens-of-coaching, ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker, ep-11-growing-technology-footprints-in-insurance-sector, ep-12-insightful-conversation-with-a-football-analytics-professional, ep-9-chatgpt-and-education-systems, ep-8-implementation-of-ai-in-scientific-research, ep-7-data-science-mlops, ep-6-data-science-ai-talk, ep-5-implementation-of-data-science-in-cybersecurity, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, ep-3-demystifying-the-imposter-syndrome, data-risk-and-actuarial-science-in-insurance, data-ai-and-scientific-research-a-coffee-chat]
 last_updated: 2026-08-18
 ---
 
 # Data Science With Sam
+
+[[ep-16-data-decoded-navigating-the-ai-revolution]] adds a business analytics and AI adoption branch, with [[SamDataScienceWithSam|Sam]] interviewing [[VishalDataScienceWithSam|Vishal]] on [[NaturalLanguageAnalytics]], [[AIDataReadiness]], [[CustomerChurnPrediction]], [[ExplainableAIBusinessDecisions]], [[PredictiveModelValidation]], and [[DataScienceStorytelling]].
 
 [[ep-15-unveiling-data-scientists-role-in-the-generative-ai-era]] adds a generative-AI-era role branch, with [[SamDataScienceWithSam|Sam]] interviewing [[MarinaDataScienceWithSam|Marina]] of [[BellupsConsulting]] on [[DataScientistGenerativeAIFluency]], [[GenerativeAIUseCaseTriage]], [[PromptAsIntentTransmission]], [[DomainExpertAlignment]], [[AIVerification]], and [[AIModelBiasGovernance]].
 
@@ -43,7 +45,8 @@ The show page's role in the wiki is source-scoped: it marks practical data-scien
 EP15 adds a generative-AI role layer where data scientists translate between business needs, LLM behavior, prototype interfaces, resource constraints, hallucination risk, bias review, and domain-specific deployment judgment.
 
 ## Connections
-- [[SamDataScienceWithSam]], [[MarinaDataScienceWithSam]], [[EdFerron]], [[BrunoSoccerCoach]], [[NickBlamer]], [[CharlesJohnson]], [[AnnaDSouza]], [[JosephStrader]], [[LucasSimon]], [[AaronBlythe]], [[PaulinaNemkova]], [[BenjaminLarson]], [[KofiBrowning]], [[StephenMathis]], [[MaryPatCampbell]], [[EffieDataScienceWithSam]], and [[MossamDataScienceWithSam]] - host and guests in the sources.
+- [[SamDataScienceWithSam]], [[VishalDataScienceWithSam]], [[MarinaDataScienceWithSam]], [[EdFerron]], [[BrunoSoccerCoach]], [[NickBlamer]], [[CharlesJohnson]], [[AnnaDSouza]], [[JosephStrader]], [[LucasSimon]], [[AaronBlythe]], [[PaulinaNemkova]], [[BenjaminLarson]], [[KofiBrowning]], [[StephenMathis]], [[MaryPatCampbell]], [[EffieDataScienceWithSam]], and [[MossamDataScienceWithSam]] - host and guests in the sources.
+- [[NaturalLanguageAnalytics]], [[AIDataReadiness]], [[CustomerChurnPrediction]], [[ExplainableAIBusinessDecisions]], [[PredictiveModelValidation]], and [[DataScienceStorytelling]] - AI analytics and business-decision branch added by EP16.
 - [[BellupsConsulting]] - consulting affiliation added by EP15.
 - [[DataScientistGenerativeAIFluency]], [[GenerativeAIUseCaseTriage]], [[PromptAsIntentTransmission]], [[AIVerification]], and [[AIModelBiasGovernance]] - generative-AI-era data scientist role branch added by EP15.
 - [[AIForScience]], [[ScientificDiscoveryAutomation]], and [[DomainExpertAlignment]] - broader AI-in-research context.
