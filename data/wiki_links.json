@@ -17575,6 +17575,10 @@
     "title": "Hang Seng Tech Index",
     "url": "/wiki/entities/hangsengtechindex/"
   },
+  "HanguPass": {
+    "title": "函谷关 / Hangu Pass",
+    "url": "/wiki/entities/hangupass/"
+  },
   "Hangzhou": {
     "title": "杭州 / Hangzhou",
     "url": "/wiki/entities/hangzhou/"
@@ -31682,6 +31686,10 @@
   "QianglieTan": {
     "title": "强烈谈 / Qianglie Tan",
     "url": "/wiki/entities/qianglietan/"
+  },
+  "QianjuHougongReversal": {
+    "title": "前倨后恭 / Qianju Hougong Reversal",
+    "url": "/wiki/concepts/qianjuhougongreversal/"
   },
   "QianliTechnology": {
     "title": "Qianli Technology",
@@ -46998,5 +47006,9 @@
   "zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3": {
     "title": "《资治通鉴·周纪》32丨“史上首位联合国秘书长”苏秦",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3/"
+  },
+  "zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0": {
+    "title": "《资治通鉴·周纪》33丨历史第一爽文男主角苏秦",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0/"
   }
 }

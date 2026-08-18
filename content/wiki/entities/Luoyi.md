@@ -2,7 +2,7 @@
 title: "洛邑 / Luoyi"
 type: entity
 tags: [city, zhou-dynasty, pre-qin, diplomacy]
-sources: [zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]
+sources: [zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]
 last_updated: 2026-08-19
 ---
 
@@ -14,9 +14,11 @@ The place also matters for the following year's [[Fengze|逢泽]] geography. The
 
 [[zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]] adds a Luoyang / Luoyi homecoming scene from [[Shiji|《史记》]]. When [[SuQin|苏秦]] passes through his hometown after becoming leader of the six-state [[HezongAlliance|合纵]], [[ZhouXianwang|周显王]] sends people to clear the road and receive him ceremonially. The episode uses the scene to reverse Su Qin's earlier family humiliation through public recognition.
 
+[[zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0]] develops Luoyang as the home-ground where status becomes visible. The episode stresses that Su Qin is the same person who had earlier returned poor, but the public procession and royal reception now make his family treat him with fear and deference, producing the [[QianjuHougongReversal|前倨后恭]] lesson.
+
 ## Connections
 - [[ZhouRoyalHouse|周王室]] and [[ZhouXianwang|周显王]] - royal institution and reign frame.
 - [[AudienceVsMeetingDiplomacy]] - source concept attached to "会于京师."
 - [[Fengze|逢泽]], [[QinState|秦国]], and [[ZhouHegemonRecognition]] - route and recognition branch.
-- [[SuQin|苏秦]], [[HezongAlliance|合纵]], and [[Shiji|《史记》]] - Zhouji 32 homecoming and reception branch.
+- [[SuQin|苏秦]], [[HezongAlliance|合纵]], [[Shiji|《史记》]], and [[QianjuHougongReversal|前倨后恭]] - Zhouji 32-33 homecoming and reception branch.
 - [[WarringStatesPeriod|战国时期]] - broader setting.

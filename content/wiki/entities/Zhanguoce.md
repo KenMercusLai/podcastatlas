@@ -2,7 +2,7 @@
 title: "《战国策》 / Zhanguo Ce"
 type: entity
 tags: [book, chinese-history, pre-qin, historiography]
-sources: [zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -20,6 +20,8 @@ The page's role is historiographical. It helps keep source variants visible inst
 
 [[zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]] cites Zhanguo Ce for the label 《太公阴符之谋》 in [[SuQin|苏秦]]'s study story. The episode compares that label with [[Shiji|《史记》]]'s 《周书阴符》 and says the possible [[Liutao|《六韬》]] connection is less convincing for explaining Su Qin's [[ChuaimoTechnique|揣摩]].
 
+[[zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0]] uses Zhanguo Ce for the detailed low-point before Su Qin's return. In the episode's summary, Su Qin fails repeatedly with [[YingSi|秦惠文王]], spends his money, wears out his fine clothing, returns poor and ashamed, and is ignored by his wife, sister-in-law, and parents. This provides the underside of the later [[Shiji|《史记》]] homecoming and grounds [[QianjuHougongReversal|前倨后恭]] in a before/after contrast.
+
 ## Connections
 - [[NieZheng|聂政]], [[XiaLei|侠累]], and [[HanAihou|韩哀侯]] - variant story branch.
 - [[YuRang|豫让]] and [[RetainerReciprocityEthic]] - Zhouji 04 "士为知己者死" branch.
@@ -28,3 +30,4 @@ The page's role is historiographical. It helps keep source variants visible inst
 - [[YanZhongzi|严遂]], [[HanGui|韩廆]], and [[Shiji|《史记》]] - later variant-comparison branch.
 - [[TianJi|田忌]], [[ZouJi|成侯邹忌]], [[QiWeiwang|齐威王]], and [[TreasonAccusationTrap]] - Zhouji 21 accusation wording and confrontation-variant branch.
 - [[SuQin|苏秦]], [[YinfuJing|《阴符》]], [[Liutao|《六韬》]], and [[ChuaimoTechnique|揣摩]] - Zhouji 30 text-version branch.
+- [[QianjuHougongReversal|前倨后恭]], [[YingSi|秦惠文王]], and [[FailureDrivenSelfStudy|失败后的自学翻身]] - Zhouji 33 failed-lobbying and family-humiliation branch.

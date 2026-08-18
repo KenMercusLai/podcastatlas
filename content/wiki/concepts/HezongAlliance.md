@@ -2,7 +2,7 @@
 title: "合纵 / Hezong Alliance"
 type: concept
 tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]
+sources: [zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]
 last_updated: 2026-08-19
 ---
 
@@ -16,6 +16,8 @@ last_updated: 2026-08-19
 
 [[zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]] narrates the alliance's completion. Su Qin moves through [[HanXuanhuiwang|韩宣惠王]], Wei, [[QiState|齐国]], and [[ChuWeiwang|楚威王]], converting the anti-Qin design into acceptance by all six eastern states. The episode emphasizes not only institution design but [[DignityBasedPersuasion|dignity-based persuasion]]: each ruler has to be made to see Qin accommodation as both strategically losing and humiliating.
 
+[[zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0]] follows hezong into reception and source criticism. In [[Shiji|《史记》]]'s dramatic framing, Su Qin's success is so large that Qin troops do not dare leave [[HanguPass|函谷关]] for fifteen years. The episode flags that claim as unstable because the coming [[ZizhiTongjian|《资治通鉴》]] sequence soon records renewed Qin military action and the collapse of the six-state alliance.
+
 The concept is therefore both diplomatic and historiographical. It names the kind of coalition Su Qin is famous for, while also recording this episode's caution that the chronicle's dating may compress or misplace a more complicated process.
 
 ## Key Claims
@@ -26,6 +28,7 @@ The concept is therefore both diplomatic and historiographical. It names the kin
 - Hezong is not presented as pacifism; it is a weak-states coalition against the strongest state.
 - Its plausibility depends on internal stability and aligned incentives across several states, not only on one persuader's rhetoric.
 - In this source, the dramatic "six-state minister" image is important as reception, but its precise annalistic placement remains doubtful.
+- Zhouji 33 adds a second caution: even if the alliance is narratively successful, Shiji's long Qin-containment claim has to be tested against the shorter annalistic sequel.
 
 ## Connections
 - [[SuQin|苏秦]], [[ZhaoSuhou|赵肃侯]], [[HanXuanhuiwang|韩宣惠王]], and [[ChuWeiwang|楚威王]] - strategist and rulers attached to the policy in the source sequence.
@@ -33,4 +36,4 @@ The concept is therefore both diplomatic and historiographical. It names the kin
 - [[DignityBasedPersuasion|尊严激将式说服]], [[WarringStatesMilitaryTransformation|战国军事形态转变]], [[Linzi|临淄]], and [[WarringStatesUrbanProsperity|战国城市繁荣]] - Zhouji 32 rhetoric, military, and city-capacity extension.
 - [[QinState|秦国]], [[QiState|齐国]], [[ChuState|楚国]], [[WeiState|魏国]], [[HanState|韩国]], [[ZhaoState|赵国]], and [[YanState|燕国]] - states implicated by anti-Qin coalition logic.
 - [[LianhengStrategy|连横]] and [[ZonghengjiaDiplomacy|纵横家外交]] - rival diplomatic logic and broader persuader-diplomacy field.
-- [[ChronicleChronologyDrift|编年错位]] - dating caution attached to this source's hezong notice.
+- [[HanguPass|函谷关]] and [[ChronicleChronologyDrift|编年错位]] - claimed Qin-containment marker and dating/effectiveness caution attached to this source's hezong notice.

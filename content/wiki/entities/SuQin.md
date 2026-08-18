@@ -2,7 +2,7 @@
 title: "苏秦 / Su Qin"
 type: entity
 tags: [person, strategist, diplomat, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
+sources: [zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
 last_updated: 2026-08-19
 ---
 
@@ -24,7 +24,9 @@ The same source makes Su Qin's handling of [[ZhangYiStrategist|张仪]] part of 
 
 [[zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]] completes that hezong circuit. Su Qin persuades [[HanXuanhuiwang|韩宣惠王]], [[WeiState|魏国]], [[QiState|齐国]], and [[ChuWeiwang|楚威王]] by tailoring the same basic case to each ruler: Qin accommodation means cumulative loss, while resistance preserves dignity. The episode makes him "从约长" and simultaneous minister of the six eastern states, then follows [[Shiji|《史记》]] into his [[Luoyi|洛阳 / 洛邑]] homecoming, where public honor and family submission reverse his earlier humiliation.
 
-That makes Su Qin the source's main case for [[FailureDrivenSelfStudy|失败后的自学翻身]]. His story keeps the appeal of "knowledge changes fate," but the episode emphasizes the pressure behind it: close-family humiliation, rank anxiety, and the desire to prove oneself before people who saw the failure. Later reception then packages him through [[InspirationalNarrativeCommercialization|励志叙事商业化]], including the familiar "头悬梁、锥刺股" tag and [[SimaGuang|司马光]]'s poem to [[WuZhicai|吾之才]].
+[[zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0]] expands that homecoming rather than adding a new diplomatic stop. It contrasts the earlier [[Zhanguoce|《战国策》]] scene where his wife keeps weaving, his sister-in-law refuses food, and his parents ignore him with the later [[Shiji|《史记》]] scene where relatives are deferential after rank and wealth arrive. The episode treats [[QianjuHougongReversal|前倨后恭]] as the social meaning of the comeback: even close kin respond to visible status and money.
+
+That makes Su Qin the source's main case for [[FailureDrivenSelfStudy|失败后的自学翻身]]. His story keeps the appeal of "knowledge changes fate," but the episode emphasizes the pressure behind it: close-family humiliation, rank anxiety, and the desire to prove oneself before people who saw the failure. Zhouji 33 sharpens the same branch by adding his reflection that a small estate near Luoyang might have made him settle, and by preserving the "hundred cash / hundred gold" repayment story as gratitude after success rather than only revenge. Later reception then packages him through [[InspirationalNarrativeCommercialization|励志叙事商业化]], including the familiar "头悬梁、锥刺股" tag, [[SimaGuang|司马光]]'s poem to [[WuZhicai|吾之才]], and idioms such as "侧目而视," "前倨后恭," and "不可同日而语."
 
 The episode also places Su Qin inside a strategist family and rivalry network. [[SuDai|苏代]] and [[SuLi|苏厉]] are named as famous brothers, while [[ZhangYiStrategist|张仪]] is treated as his fellow [[Guiguzi|鬼谷子]] student and eventual counterpart in [[ZonghengjiaDiplomacy|纵横家外交]].
 
@@ -34,6 +36,6 @@ The episode also places Su Qin inside a strategist family and rivalry network. [
 - [[Guiguzi|鬼谷子]], [[SuDai|苏代]], and [[SuLi|苏厉]] - teacher tradition and family branch.
 - [[HezongAlliance|合纵]] and [[ZonghengjiaDiplomacy|纵横家外交]] - policy and diplomatic field attached to him.
 - [[DignityBasedPersuasion|尊严激将式说服]], [[WarringStatesMilitaryTransformation|战国军事形态转变]], [[Linzi|临淄]], and [[WarringStatesUrbanProsperity|战国城市繁荣]] - Zhouji 32 audience-specific persuasion, military, and Qi-capital branches.
-- [[FailureDrivenSelfStudy|失败后的自学翻身]], [[InspirationalNarrativeCommercialization|励志叙事商业化]], [[ClassMobilityPerformance|阶层上升表演]], and [[SubjectivityThroughFailure|失败中的主体性]] - life-story and reception frames.
+- [[QianjuHougongReversal|前倨后恭]], [[FailureDrivenSelfStudy|失败后的自学翻身]], [[InspirationalNarrativeCommercialization|励志叙事商业化]], [[ClassMobilityPerformance|阶层上升表演]], and [[SubjectivityThroughFailure|失败中的主体性]] - life-story, status-reversal, and reception frames.
 - [[Shiji|《史记》]], [[SimaQian|司马迁]], [[SimaGuang|司马光]], [[WuZhicai|吾之才]], and [[ZhuFuYan|主父偃]] - classical biography and later consolation branch.
-- [[ChronicleChronologyDrift|编年错位]], [[QiChronologyDispute|齐威王编年争议]], [[ZizhiTongjian|《资治通鉴》]], [[ZhouXianwang|周显王]], and [[WarringStatesPeriod|战国时期]] - source and dating frame.
+- [[HanguPass|函谷关]], [[ChronicleChronologyDrift|编年错位]], [[QiChronologyDispute|齐威王编年争议]], [[ZizhiTongjian|《资治通鉴》]], [[ZhouXianwang|周显王]], and [[WarringStatesPeriod|战国时期]] - source, dating, and hezong-efficacy frame.

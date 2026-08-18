@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》33丨历史第一爽文男主角苏秦](sources/zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0.md) — 芮淇讲透资治通鉴 episode on Su Qin's Luoyang homecoming, the 前倨后恭 status reversal, old-help repayment, idiom reception, and the Shiji/Zizhi Tongjian tension around Qin staying inside Hangu Pass for fifteen years.
 - [《资治通鉴·周纪》32丨“史上首位联合国秘书长”苏秦](sources/zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3.md) — 芮淇讲透资治通鉴 episode completing Su Qin's hezong circuit through Han, Wei, Qi, and Chu, with dignity-based persuasion, Wei military transformation, Linzi urban prosperity, and the Shiji homecoming sequel.
 - [《资治通鉴·周纪》31丨合纵连横 围殴秦](sources/zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih.md) — 芮淇讲透资治通鉴 episode on hezong as anti-Qin coalition design, Su Qin's Zhao Suhou pitch, Qin's attack on Wei, and Su Qin's manipulation of Zhang Yi into Qin as the lianheng counterpart.
 - [《资治通鉴·周纪》30丨苏秦的“开挂”人生](sources/zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw.md) — 芮淇讲透资治通鉴 episode on Su Qin's turn from broad reading to deep study of 《阴符》, his grasp of 揣摩, repeated failed lobbying, and first Yan backing as the opening toward hezong alliance work.
@@ -1037,6 +1038,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [函谷关 / Hangu Pass](entities/HanguPass.md) — Qin pass used by Zhouji 33 as the test point for Shiji's fifteen-year hezong efficacy claim against the coming Zizhi Tongjian sequel.
 - [临淄 / Linzi](entities/Linzi.md) — Qi capital whose population, entertainment, density, and public confidence become evidence in Su Qin's anti-Qin persuasion.
 - [《阴符》 / Yinfu Jing](entities/YinfuJing.md) — Text Su Qin studies after failure, with Zhouji 30 distinguishing Shiji's 《周书阴符》 from Zhanguo Ce's 《太公阴符之谋》.
 - [《六韬》 / Six Secret Teachings](entities/Liutao.md) — Military text used as one possible but less persuasive identification for the 《阴符》 material in Su Qin's breakthrough story.
@@ -1054,7 +1056,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [越国 / Yue State](entities/YueState.md) — Warring States state whose failed anti-Qi move and later Chu defeat are kept distinct from final extinction.
 - [越王无疆 / Yue Wang Wujiang](entities/YueWangWujiang.md) — Yue ruler whose failed attack on Qi begins a decline branch rather than an immediate collapse.
 - [张丑 / Zhang Chou](entities/ZhangChou.md) — Qi minister who warns Tian Ying that accepting Wei's title gift will trigger strong-state backlash.
-- [苏秦 / Su Qin](entities/SuQin.md) — Warring States persuader whose branch now covers doubtful hezong chronology, failure-driven self-study, 揣摩, first Yan patronage, and the completed six-state coalition tour.
+- [苏秦 / Su Qin](entities/SuQin.md) — Warring States persuader whose branch now covers doubtful hezong chronology, failure-driven self-study, 揣摩, first Yan patronage, the completed six-state coalition tour, and the 前倨后恭 homecoming.
 - [张仪 / Zhang Yi (Warring States strategist)](entities/ZhangYiStrategist.md) — Warring States strategist page kept distinct from the existing modern Zhang Yi entity.
 - [惠施 / Hui Shi](entities/HuiShi.md) — Wei adviser who uses low-posture diplomacy after Maling to turn Wei's deference to Qi into strategic breathing room.
 - [宜阳 / Yiyang (Warring States)](entities/YiyangWarringStates.md) — Han place seized by Qin in 335 BCE and treated as a long-coveted strategic target.
@@ -1086,7 +1088,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [鲁景公 / Duke Jing of Lu](entities/LuJinggong.md) — Lu Kang Gong's son and successor in the 346 BCE notice.
 - [逢泽 / Fengze](entities/Fengze.md) — Meeting site for Gongzi Shaoguan, the lords, and the Zhou audience after Qin's hegemon recognition.
 - [公子少官 / Gongzi Shaoguan](entities/GongziShaoguan.md) — Qin prince sent by Qin Xiao Gong with troops to meet the lords at Fengze.
-- [洛邑 / Luoyi](entities/Luoyi.md) — Zhou royal capital whose "会于京师" wording marks a meeting not centered on royal audience.
+- [洛邑 / Luoyi](entities/Luoyi.md) — Zhou royal capital whose branch now includes both "会于京师" wording and Su Qin's public homecoming reception.
 - [马陵之战 / Battle of Maling](entities/MalingBattle.md) — Qi-Wei battle whose delayed rescue, reduced-stove deception, and Wei defeat create the court-risk afterlife that drives Tian Ji into exile.
 - [申不害 / Shen Buhai](entities/ShenBuhai.md) — Han chief minister whose Huang-Lao and xingming learning become a ruler-technique and merit-based reward case under Han Zhaohou.
 - [咸阳 / Xianyang](entities/Xianyang.md) — Qin capital selected in Shang Yang's second reform round and used by the source as durable reform geography.
@@ -1148,7 +1150,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [阿邑大夫 / Ayi Dafu](entities/AyiDafu.md) — Qi local official with good court reputation but poor local performance in Qi Wei Wang's secret audit.
 - [楚宣王 / King Xuan of Chu](entities/ChuXuanwang.md) — Xiong Liangfu, brother and successor of Chu Su Wang in the Zhou Lie Wang sixth-year notice.
 - [宋剔成 / Song Ticheng](entities/SongTicheng.md) — Song Pi Gong's son and successor in the Zhou Lie Wang sixth-year notice.
-- [《史记》 / Shiji](entities/Shiji.md) — Classical history used in Zhouji 10 to supplement a blank Zizhi Tongjian year with Taishi Dan's Qin visit.
+- [《史记》 / Shiji](entities/Shiji.md) — Classical history used across the Zhouji branch for supplementary biography, source contrast, Su Qin's homecoming, and the contested Hangu Pass fifteen-year claim.
 - [韩康子 / Han Kangzi](entities/HanKangzi.md) — Early Han lineage point from which Zhouji 10 begins Han's long strategy against Zheng.
 - [韩武子 / Han Wuzi](entities/HanWuzi.md) — Han ruler who attacks Zheng and moves the capital toward it in Zhouji 10's generational-strategy sequence.
 - [赵成侯 / Marquis Cheng of Zhao](entities/ZhaoChenghou.md) — Zhao Zhong, successor to Zhao Jinghou in Zhou Lie Wang's first-year notice.
@@ -1199,7 +1201,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宋休公 / Duke Xiu of Song](entities/SongXiugong.md) — Song Daogong's son and successor in the source's Song notice.
 - [微子启 / Weizi Qi](entities/WeiziQi.md) — Shang royal-lineage figure through whom the episode explains Song's special status.
 - [孔父嘉 / Kongfu Jia](entities/KongfuJia.md) — Song noble ancestor used to connect Confucius's genealogy to Weizi Qi.
-- [《战国策》 / Zhanguo Ce](entities/Zhanguoce.md) — Pre-Qin text cited for the variant where Nie Zheng kills both Xia Lei and Han Aihou.
+- [《战国策》 / Zhanguo Ce](entities/Zhanguoce.md) — Pre-Qin text cited for source variants, Su Qin's text/version branch, and the detailed family-humiliation setup behind 前倨后恭.
 - [《诗经》 / Shijing](entities/Shijing.md) — Classic cited through "日有蚀之" to ground eclipse political responsibility.
 - [鲁国 / Lu State](entities/LuState.md) — State attacked by Qi in the source's 394 BCE notice.
 - [负黍 / Fushu](entities/FushuCity.md) — City whose repeated transfer among Han, Zheng, and Chu illustrates territorial churn.
@@ -1227,7 +1229,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周安王 / King An of Zhou](entities/ZhouAnWang.md) — Zhou ruler succeeding King Weilie in the source's chronology.
 - [晋国 / Jin State](entities/JinState.md) — Pre-Qin state node for the Jin You Gong, Qin Ying, and Qin-Jin marriage-alliance comparison.
 - [晋幽公 / Duke You of Jin](entities/JinYouGong.md) — Jin ruler whose Bamboo Annals death account is used to illustrate political direction behind "bandits."
-- [秦国 / Qin State](entities/QinState.md) — Qin polity moving from kinship diplomacy and eastward pressure into Shang Yang reform, then becoming both Su Qin's failed stop and the threat behind Yan-Zhao alignment.
+- [秦国 / Qin State](entities/QinState.md) — Qin polity moving from kinship diplomacy and eastward pressure into Shang Yang reform, then becoming Su Qin's failed stop, the threat behind hezong, and the Hangu Pass restraint test.
 - [秦简公 / Duke Jian of Qin](entities/QinJianGong.md) — Qin ruler whose death leads to Qin Hui Gong's accession in the Zhouji 07 chronology.
 - [秦惠公 / Duke Hui of Qin](entities/QinHuiGong.md) — Qin Jian Gong's son and successor in the Zhouji 07 succession sequence.
 - [秦嬴 / Qin Ying](entities/QinYing.md) — Qin princess named in the Bamboo Annals account of Jin You Gong's assassination.
@@ -7032,15 +7034,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [前倨后恭 / Qianju Hougong Reversal](concepts/QianjuHougongReversal.md) — Status-reversal pattern from Su Qin's homecoming, where rank and money transform family behavior from neglect into fearful deference.
 - [Dignity-Based Persuasion / 尊严激将式说服](concepts/DignityBasedPersuasion.md) — Su Qin's pattern of turning anti-Qin strategy into a face-and-dignity choice for rulers.
 - [Warring States Military Transformation / 战国军事形态转变](concepts/WarringStatesMilitaryTransformation.md) — Military-history inference from Wei's army list showing infantry growth, chariot decline, and still-auxiliary cavalry.
 - [Warring States Urban Prosperity / 战国城市繁荣](concepts/WarringStatesUrbanProsperity.md) — Linzi-based concept connecting population, entertainment, urban density, and civic confidence to state capacity.
 - [揣摩 / Chuaimo Technique](concepts/ChuaimoTechnique.md) — Su Qin's persuader method combining situation reading with insight into the listener's motives and fears, extended by audience-specific dignity appeals.
 - [Common-Enemy Alliance / 共同敌人联盟](concepts/CommonEnemyAlliance.md) — Alliance-building pattern where a shared threat can bind states more effectively than broad shared interest.
-- [合纵 / Hezong Alliance](concepts/HezongAlliance.md) — Anti-Qin coalition policy attached to Su Qin, now grounded in first patronage, Zhao authorization, and the completed six-state persuasion circuit.
+- [合纵 / Hezong Alliance](concepts/HezongAlliance.md) — Anti-Qin coalition policy attached to Su Qin, now grounded in first patronage, Zhao authorization, the completed six-state persuasion circuit, and the Hangu Pass efficacy tension.
 - [连横 / Lianheng Strategy](concepts/LianhengStrategy.md) — Qin-facing diplomatic strategy contrasted with hezong, introduced through Su Qin's critique and Zhang Yi's entry into Qin.
-- [Failure-Driven Self-Study / 失败后的自学翻身](concepts/FailureDrivenSelfStudy.md) — Pattern where failed formal preparation, shame, and status pressure drive focused self-study that still needs access and patronage.
-- [Inspirational Narrative Commercialization / 励志叙事商业化](concepts/InspirationalNarrativeCommercialization.md) — Pattern where complex historical failure-and-rise stories become packaged motivational scripts.
+- [Failure-Driven Self-Study / 失败后的自学翻身](concepts/FailureDrivenSelfStudy.md) — Pattern where failed formal preparation, intimate shame, status pressure, and discomfort drive focused self-study that still needs access and patronage.
+- [Inspirational Narrative Commercialization / 励志叙事商业化](concepts/InspirationalNarrativeCommercialization.md) — Pattern where complex historical failure-and-rise stories become packaged motivational scripts and portable idioms.
 - [时绌举赢 / Untimely Extravagance](concepts/UntimelyExtravagance.md) — Ruler-ethics pattern where visible prestige spending becomes wrong because war, drought, or public burden makes the timing politically unfit.
 - [Status Order Backlash / 名分秩序反弹](concepts/StatusOrderBacklash.md) — Diplomatic-status pattern where a title elevation provokes third-party rulers by changing perceived rank.
 - [纵横家外交 / Zonghengjia Diplomacy](concepts/ZonghengjiaDiplomacy.md) — Warring States mode where persuaders use rhetoric, threat maps, audience reading, dignity appeals, and alliance design as instruments of interstate power.
@@ -8894,7 +8897,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Soft-Budget Football Clubs](concepts/SoftBudgetFootballClubs.md) — Club-finance pattern where community identity, owner status, political access, and rescue expectations soften ordinary budget discipline.
 - [Sports Mega-Event Welfare Accounting](concepts/SportsMegaEventWelfareAccounting.md) — Distinction between weak GDP-stimulus claims and broader welfare effects such as happiness, public rhythm, image, and uneven household risks.
 - [Psychological Realism / 心理现实主义](concepts/PsychologicalRealism.md) — Literary method where inner movement, motive, shame, desire, and contradiction drive plot rather than merely decorating it.
-- [Class Mobility Performance / 阶级上升表演](concepts/ClassMobilityPerformance.md) — Pattern where upward movement requires performing the codes, beliefs, humility, or manners expected by a higher-status world.
+- [Class Mobility Performance / 阶级上升表演](concepts/ClassMobilityPerformance.md) — Pattern where upward movement requires higher-status codes or, in Su Qin's adjacent case, becomes visible through public rank and wealth.
 - [Sincerity Against Social Hypocrisy / 以真诚抵抗社会虚伪](concepts/SincerityAgainstSocialHypocrisy.md) — Tension where a false social order makes masks rational but a character's need for real recognition breaks through them.
 - [Passion Against Self-Control / 激情与自我控制](concepts/PassionAgainstSelfControl.md) — Conflict between strategic restraint and emotional force, added through the episode's reading of Julien and Maugham's criticism.
 - [Female Subjectivity In Classic Reading / 经典阅读中的女性主体性](concepts/FemaleSubjectivityInClassicReading.md) — Reading practice that restores women characters' motives, choices, constraints, and contradictions inside canonical works.

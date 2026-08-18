@@ -2,7 +2,7 @@
 title: "纵横家外交 / Zonghengjia Diplomacy"
 type: concept
 tags: [diplomacy, rhetoric, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
+sources: [zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
 last_updated: 2026-08-19
 ---
 
@@ -20,6 +20,8 @@ The same episode begins the Su Qin / Zhang Yi pairing. Su Qin and Zhang Yi are p
 
 [[zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]] adds the repeated speechcraft version. Su Qin persuades Han, Wei, Qi, and Chu by combining strategic threat, state-specific evidence, and [[DignityBasedPersuasion|dignity pressure]]. Wei's army list and [[Linzi|临淄]]'s urban prosperity show that zonghengjia rhetoric uses concrete military and social facts, not abstract eloquence alone.
 
+[[zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0]] adds the afterlife of that diplomacy. Su Qin's speeches become idioms, his alliance success becomes a [[QianjuHougongReversal|前倨后恭]] social-mobility scene, and the claimed fifteen-year Qin pause at [[HanguPass|函谷关]] becomes a source-critical test. Zonghengjia diplomacy therefore travels into language and reputation, not only treaties.
+
 ## Key Claims
 - Diplomatic rhetoric becomes a direct instrument of power in the Warring States field.
 - Persuasion is situational craft: the same speaker can fail or succeed depending on court mood, local reputation, and whether the argument fits the ruler's fear.
@@ -29,12 +31,14 @@ The same episode begins the Su Qin / Zhang Yi pairing. Su Qin and Zhang Yi are p
 - Persuader rivalry can be mutually enabling: one strategist's success creates the conditions or provocation for another's rise.
 - Personnel placement can be diplomatic strategy: Su Qin uses Zhang Yi's ambition to influence Qin's timing while the hezong coalition is still forming.
 - Repetition does not mean generic speech: Zhouji 32 shows Su Qin varying the same anti-Qin argument through Han's land limits, Wei's army, Qi's capital wealth, and Chu's role as final coalition member.
+- The social afterlife of zonghengjia success matters: Zhouji 33 shows diplomatic achievement being converted into household submission, idioms, and contested claims about Qin restraint.
 
 ## Connections
 - [[SuQin|苏秦]] and [[ZhangYiStrategist|张仪]] - figures previewed by the source.
 - [[ChuaimoTechnique|揣摩]], [[YinfuJing|《阴符》]], [[YanWengong|燕文公]], and [[CommonEnemyAlliance|共同敌人联盟]] - Zhouji 30 craft, text, first patron, and alliance-formation branch.
 - [[HezongAlliance|合纵]], [[LianhengStrategy|连横]], [[QinState|秦国]], and [[Guiguzi|鬼谷子]] - policy pair, pressure target, and teacher tradition developed by the Su Qin/Zhang Yi branch.
 - [[DignityBasedPersuasion|尊严激将式说服]], [[WarringStatesMilitaryTransformation|战国军事形态转变]], [[Linzi|临淄]], and [[WarringStatesUrbanProsperity|战国城市繁荣]] - Zhouji 32 rhetoric, military, and city-capacity branch.
+- [[QianjuHougongReversal|前倨后恭]] and [[HanguPass|函谷关]] - Zhouji 33 homecoming reception and source-critical efficacy marker.
 - [[StatusOrderBacklash|名分秩序反弹]] and [[XuzhouMutualKingship|徐州相王]] - immediate diplomatic-status context before the narrative shift.
 - [[ChronicleChronologyDrift|编年错位]] - caution around the chronicle's dating of Su Qin's success.
 - [[ZizhiTongjian|《资治通鉴》]], [[ZhouXianwang|周显王]], and [[WarringStatesPeriod|战国时期]] - source and historical frame.

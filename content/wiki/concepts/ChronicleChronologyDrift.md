@@ -2,7 +2,7 @@
 title: "Chronicle Chronology Drift / 编年错位"
 type: concept
 tags: [historiography, source-criticism, chinese-history, chronology]
-sources: [zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn]
+sources: [zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn]
 last_updated: 2026-08-19
 ---
 
@@ -20,14 +20,17 @@ The concept also protects the wiki from overcorrecting. When a source itself fla
 
 [[zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]] adds the 333 BCE Su Qin and Qi-succession case. The episode says the chronicle places [[QiWeiwang|齐威王]]'s death, [[QiXuanWang|齐宣王]]'s accession, and [[SuQin|苏秦]]'s sudden six-state [[HezongAlliance|合纵]] triumph together, but the host rejects the timing: Qi Wei Wang has not yet died, Qi Xuan Wang's first year should be 319 BCE, and the six-state alliance story is unlikely to fit the chronicle's year.
 
+[[zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0]] adds a related effectiveness-dating tension. [[Shiji|《史记》]] says Qin troops did not dare leave [[HanguPass|函谷关]] for fifteen years after Su Qin's hezong success, but the episode notes that [[ZizhiTongjian|《资治通鉴》]] soon records renewed Qin military action and the alliance's collapse. This is not only a wrong-year problem; it is a warning that biographical drama can stretch the apparent duration and success of a political arrangement.
+
 ## Key Claims
 - A chronicle can preserve a real story while placing it in a doubtful year.
 - Later compilers can inherit errors when their available base sources are already unstable.
 - Chronology doubt should be explicit because moving an event without evidence can create a new false certainty.
 - Early Warring States material needs special caution because source survival is uneven and later political destruction may have biased the archive.
+- When a later biography gives a clean long-duration success claim, it should be checked against the annalistic sequel instead of accepted as a settled timespan.
 
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]], [[SimaGuang|司马光]], and [[Shiji|《史记》]] - chronicle, compiler, and inherited-source frame.
 - [[QiWeiwang|齐威王]] and [[ZhouLiewang|周烈王]] - source case.
-- [[QiChronologyDispute]], [[ZhouXianwang|周显王]], [[QiXuanWang|齐宣王]], [[SuQin|苏秦]], [[HezongAlliance|合纵]], [[WeiWenhou|魏文侯]], [[WeiWuhou|魏武侯]], [[WuQi|吴起]], [[ChronicleSourceGaps]], and [[HistoricalDetectiveReasoning]] - adjacent source-reading guardrails and later correction branch.
+- [[QiChronologyDispute]], [[ZhouXianwang|周显王]], [[QiXuanWang|齐宣王]], [[SuQin|苏秦]], [[HezongAlliance|合纵]], [[HanguPass|函谷关]], [[WeiWenhou|魏文侯]], [[WeiWuhou|魏武侯]], [[WuQi|吴起]], [[ChronicleSourceGaps]], and [[HistoricalDetectiveReasoning]] - adjacent source-reading guardrails and later correction branch.
 - [[WarringStatesPeriod|战国时期]] - period whose record instability motivates the concept.
