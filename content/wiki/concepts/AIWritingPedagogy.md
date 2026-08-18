@@ -2,11 +2,13 @@
 title: "AI Writing Pedagogy"
 type: concept
 tags: [ai, writing, education, pedagogy]
-sources: [taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]
-last_updated: 2026-08-08
+sources: [ep-9-chatgpt-and-education-systems, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]
+last_updated: 2026-08-18
 ---
 
 # AI Writing Pedagogy
+
+[[ep-9-chatgpt-and-education-systems]] adds an early ChatGPT-era pressure point for writing instruction. The source starts from plagiarism anxiety but moves toward [[TeacherAILiteracy]]: educators need to understand the tool well enough to decide when generated drafts, templates, tone changes, or edits support learning and when they bypass it.
 
 [[taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]] adds a media-editing extension through [[CaitlinTalbot]]'s [[AIWritingDetection]] segment. The source reinforces the pedagogical point that detector scores are weak proof by themselves; useful AI-writing literacy depends on reading style, audience, punctuation, word choice, structure, and revision quality.
 
@@ -22,10 +24,12 @@ The concept extends [[FirstDraftThinking]] without duplicating it. First draft t
 - Assignments should ask whether a final artifact carries personal memory, embodied making, local language, or material form that AI cannot supply alone.
 - Writing instruction may need to move beyond narrow school essay forms toward communication formats students meet outside the classroom.
 - AI writing pedagogy works poorly if paired only with surveillance or suspicion; it needs care, transparency, and [[AIDetectorBias]] awareness.
+- EP9 adds that writing pedagogy has to be understood by ordinary teachers, not only writing specialists or computer-science teachers.
 - The Economist source extends the idea beyond classrooms: good writing requires editing judgment and distinctive style, not only avoiding detectable AI traces.
 
 ## Connections
 - [[ChristyGerdhary]], [[BabsonCollege]], and [[TheGenerator]] - source speaker and institutional setting.
+- [[JosephStrader]], [[TeacherAILiteracy]], and [[AIAcademicIntegrity]] - early school-policy branch added by Data Science With Sam EP9.
 - [[TransparentAIUse]] - disclosure and process pattern inside AI-assisted writing.
 - [[AIDetectorBias]] - fairness risk when AI writing is policed only through detectors.
 - [[FirstDraftThinking]], [[AIShortcutRisk]], [[AIAsTutor]], and [[LearningExperienceDesign]] - adjacent education concepts.

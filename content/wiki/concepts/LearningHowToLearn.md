@@ -2,11 +2,13 @@
 title: "Learning How To Learn"
 type: concept
 tags: [learning, education, ai]
-sources: [yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254, ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
-last_updated: 2026-08-12
+sources: [ep-9-chatgpt-and-education-systems, yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254, ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+last_updated: 2026-08-18
 ---
 
 # Learning How To Learn
+
+[[ep-9-chatgpt-and-education-systems]] adds an early AI-literacy classroom version. [[JosephStrader]] argues that students need critical thinking, inventive mindsets, computer literacy, and balanced use of traditional skills and AI tools, because [[ChatGPT]] can either support learning or bypass the work that builds it.
 
 [[yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254]] adds the AI-efficiency versus ability-formation distinction. The source argues that learning how to learn now includes knowing which steps should not be skipped: searching, comparing, recalling, organizing, explaining, and sleeping after study are part of the training loop, not overhead to eliminate. This connects the page to [[CognitiveOffloading]], [[CognitiveDebt]], [[DesirableDifficulty]], and [[Neuroplasticity]].
 
@@ -42,6 +44,7 @@ Learning how to learn is the source's core durable skill across majors, professi
 - Self-directed learning lets students compensate when university courses lag behind fast-changing industry practice.
 - Communication and expression matter because AI-era work still depends on making goals, assumptions, and evidence legible to people and tools.
 - The skill is portable across programming, design, research, experiments, exams, internships, and creative work.
+- EP9 adds that learning how to learn includes AI literacy for both students and teachers: people need enough understanding to guide the tool rather than react to it with fear.
 - AI can widen exploration, but it does not remove the need for sustained attention, practice, and revision.
 - Reading well means noticing the author's [[XFFXFramework]], not only memorizing cases or extracting ready-made conclusions.
 - AI-era learning includes using compact maps, indexes, and prompts as starting points for deeper exploration rather than waiting for a curriculum to be complete.
@@ -57,6 +60,7 @@ Learning how to learn is the source's core durable skill across majors, professi
 ## Connections
 
 - [[CognitiveOffloading]], [[CognitiveDebt]], [[DesirableDifficulty]], [[Neuroplasticity]], and [[AIGuidedLearningGuardrails]] - S10E25's AI-learning and memory-practice extension.
+- [[JosephStrader]], [[TeacherAILiteracy]], [[K12ComputerScienceAccess]], and [[AIAcademicIntegrity]] - Data Science With Sam EP9's classroom AI literacy extension.
 - [[XuGuangqi]], [[MatteoRicci]], [[EuclidsElementsChinese]], [[EuclideanProofTraining]], and [[IntellectualLifeAsPractice]] - EP259's historical adult-learning extension.
 - [[ScienceEducationAsCivicLiteracy]], [[BigConceptScienceTeaching]], [[ProjectBasedScienceLearning]], and [[HPSScienceEducation]] - EP262's science-education extension.
 - [[AIAsTutor]] — AI can become a personalized explanation layer when used with context and active thought.

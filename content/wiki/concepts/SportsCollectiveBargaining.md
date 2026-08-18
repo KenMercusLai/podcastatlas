@@ -2,8 +2,8 @@
 title: "Sports Collective Bargaining"
 type: concept
 tags: [sports, labor, unions, negotiation]
-sources: [how-we-got-free-agents-in-baseball, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, diary-of-a-wnba-negotiator]
-last_updated: 2026-07-24
+sources: [how-we-got-free-agents-in-baseball, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, diary-of-a-wnba-negotiator, ep-12-insightful-conversation-with-a-football-analytics-professional]
+last_updated: 2026-08-18
 ---
 
 # Sports Collective Bargaining
@@ -16,6 +16,8 @@ The episode makes the collective part concrete. [[AliciaClark]]'s diary supplies
 
 [[106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645]] adds a negative comparison through the 2004 [[NationalHockeyLeague|NHL]] dispute with the [[NHLPlayersAssociation|NHLPA]]. In that case, [[ZeroSumBias]], [[FramingEffect]], and [[EscalationOfCommitment]] turned salary-cap bargaining into a cancelled-season loss before a worse settlement became acceptable.
 
+[[ep-12-insightful-conversation-with-a-football-analytics-professional]] adds athlete data as a bargaining issue. [[AnnaDSouza|Anna D'Souza]] says collective bargaining agreements may define how player data is owned, shared, or released, especially when [[FootballEventTrackingData|tracking data]], wearable data, and other performance records are tied to human athletes.
+
 ## Key Claims
 - CBA design can determine how a league's growth is distributed across current stars, minimum-salary players, traded players, retired players, and future cohorts.
 - A large maximum salary can still be a weak offer if the rest of the roster or future revenue growth is poorly protected.
@@ -23,6 +25,7 @@ The episode makes the collective part concrete. [[AliciaClark]]'s diary supplies
 - [[StrikeThreatAsBATNA]] becomes more credible when the union has prepared members financially and politically.
 - Sports bargaining can destroy shared value when the dispute is framed as pure loss and no exit mechanism prevents escalation.
 - Court losses can still improve bargaining conditions when they change public opinion, clarify contract language, or make existing restrictions harder to defend.
+- Athlete data rights can become part of sports bargaining because performance, tracking, and wearable records affect privacy, labor power, and commercial use.
 
 ## Connections
 - [[CurtFlood]], [[MajorLeagueBaseball]], [[MajorLeagueBaseballPlayersAssociation]], [[BaseballReserveClause]], [[BaseballFreeAgency]], and [[PublicOpinionLitigationStrategy]] - baseball bargaining branch added by Planet Money.
@@ -30,3 +33,4 @@ The episode makes the collective part concrete. [[AliciaClark]]'s diary supplies
 - [[SportsLaborRevenueSharing]], [[DataBackedLaborBargaining]], [[StrikeThreatAsBATNA]], and [[PlayerHousingAsLaborBenefit]] - bargaining mechanisms.
 - [[LeagueStakeholderAlignment]] and [[SportsEntertainmentFlywheel]] - sports-business context affected by the CBA.
 - [[NationalHockeyLeague]], [[NHLPlayersAssociation]], [[ZeroSumBias]], [[FramingEffect]], and [[EscalationOfCommitment]] - negative bargaining comparison from the negotiation episode.
+- [[AthleteDataPrivacyGovernance]], [[FootballEventTrackingData]], [[SportsAnalytics]], and [[MajorLeagueSoccer]] - data-ownership branch added by EP12.

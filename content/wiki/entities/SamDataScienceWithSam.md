@@ -2,13 +2,17 @@
 title: "Sam (Data Science With Sam)"
 type: entity
 tags: [podcast-host, data-science, ai]
-sources: [ep-8-implementation-of-ai-in-scientific-research, ep-7-data-science-mlops, ep-6-data-science-ai-talk, ep-5-implementation-of-data-science-in-cybersecurity, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, ep-3-demystifying-the-imposter-syndrome, data-risk-and-actuarial-science-in-insurance, data-ai-and-scientific-research-a-coffee-chat]
+sources: [ep-12-insightful-conversation-with-a-football-analytics-professional, ep-9-chatgpt-and-education-systems, ep-8-implementation-of-ai-in-scientific-research, ep-7-data-science-mlops, ep-6-data-science-ai-talk, ep-5-implementation-of-data-science-in-cybersecurity, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, ep-3-demystifying-the-imposter-syndrome, data-risk-and-actuarial-science-in-insurance, data-ai-and-scientific-research-a-coffee-chat]
 last_updated: 2026-08-18
 ---
 
 # Sam (Data Science With Sam)
 
-Sam is the [[DataScienceWithSam]] host in [[ep-8-implementation-of-ai-in-scientific-research]], [[ep-7-data-science-mlops]], [[ep-6-data-science-ai-talk]], [[ep-5-implementation-of-data-science-in-cybersecurity]], [[ep-4-a-i-talk-with-a-rocket-scientist-from-nasa]], [[data-risk-and-actuarial-science-in-insurance]], and [[data-ai-and-scientific-research-a-coffee-chat]]. The sources identify him by first name only, so this page keeps his role source-scoped rather than inferring a full identity.
+Sam is the [[DataScienceWithSam]] host in [[ep-12-insightful-conversation-with-a-football-analytics-professional]], [[ep-9-chatgpt-and-education-systems]], [[ep-8-implementation-of-ai-in-scientific-research]], [[ep-7-data-science-mlops]], [[ep-6-data-science-ai-talk]], [[ep-5-implementation-of-data-science-in-cybersecurity]], [[ep-4-a-i-talk-with-a-rocket-scientist-from-nasa]], [[data-risk-and-actuarial-science-in-insurance]], and [[data-ai-and-scientific-research-a-coffee-chat]]. The sources identify him by first name only, so this page keeps his role source-scoped rather than inferring a full identity.
+
+In [[ep-12-insightful-conversation-with-a-football-analytics-professional]], Sam frames [[SportsAnalytics]] as a data-science field already spreading across sports such as soccer, baseball, cricket, and basketball. His questions move [[AnnaDSouza|Anna D'Souza]] from career path and football domain knowledge into [[DataDrivenFootballScouting]], [[AthleteDataPrivacyGovernance]], [[FootballEventTrackingData]], [[SportsPredictiveModeling]], and AI/machine-learning adoption in sport.
+
+In [[ep-9-chatgpt-and-education-systems]], Sam frames [[ChatGPT]] as a school-system issue rather than only a model novelty. His questions move [[JosephStrader|Joseph Strader]] from plagiarism and online exams into [[TeacherAIAugmentation]], [[TeacherAILiteracy]], [[AIAcademicIntegrity]], and [[K12ComputerScienceAccess]], ending with a "human-driven AI" boundary around education.
 
 In [[ep-8-implementation-of-ai-in-scientific-research]], Sam frames the conversation around applying AI and machine learning in biomedical research. His questions move [[LucasSimon|Lucas Simon]] from molecular-data collection into [[Bioinformatics]], [[ComputationalBiology]], [[SequencingDataPipeline|sequencing pipelines]], [[SingleCellRNASequencing]], [[BiomedicalDeepLearning]], [[Keras]], and [[TensorFlow]].
 
@@ -28,7 +32,7 @@ In the actuarial episode, Sam frames the conversation around how [[ActuarialScie
 
 ## Connections
 - [[DataScienceWithSam]] - show context.
-- [[LucasSimon]], [[AaronBlythe]], [[PaulinaNemkova]], [[BenjaminLarson]], [[KofiBrowning]], [[StephenMathis]], [[MaryPatCampbell]], [[EffieDataScienceWithSam]], and [[MossamDataScienceWithSam]] - guests in the Data Science With Sam sources.
+- [[AnnaDSouza]], [[JosephStrader]], [[LucasSimon]], [[AaronBlythe]], [[PaulinaNemkova]], [[BenjaminLarson]], [[KofiBrowning]], [[StephenMathis]], [[MaryPatCampbell]], [[EffieDataScienceWithSam]], and [[MossamDataScienceWithSam]] - guests in the Data Science With Sam sources.
 - [[AIForScience]], [[DomainExpertAlignment]], and [[HumanDrivenScientificAI]] - themes Sam explicitly frames.
 - [[NontraditionalAIResearchPath]], [[AcademicAIResearchRole]], [[AIResearchLiteratureCurrency]], and [[EEGBrainReading]] - academic AI research branch Sam frames through Paulina's examples.
 - [[NASA]], [[SpaceImageryAI]], [[SpaceflightAIDatasetScarcity]], and [[EVAGloveInspectionAI]] - space-AI branch Sam frames through Kofi's examples.
@@ -38,3 +42,5 @@ In the actuarial episode, Sam frames the conversation around how [[ActuarialScie
 - [[CybersecurityDataScience]], [[SocialEngineeringNLP]], and [[AuthenticationRiskModeling]] - cybersecurity data-science theme Sam introduces.
 - [[MLOps]], [[MachineLearningEngineering]], [[ProductionMLFeedbackLoops]], and [[IntegratedMLTeams]] - production-ML theme Sam introduces in EP7.
 - [[Bioinformatics]], [[ComputationalBiology]], [[SingleCellRNASequencing]], and [[BiomedicalDeepLearning]] - biomedical-research AI theme Sam introduces in EP8.
+- [[ChatGPT]], [[AIAcademicIntegrity]], [[TeacherAILiteracy]], and [[K12ComputerScienceAccess]] - education-systems AI theme Sam introduces in EP9.
+- [[SportsAnalytics]], [[SportsAnalyticsStakeholderCommunication]], [[DataDrivenFootballScouting]], [[AthleteDataPrivacyGovernance]], [[FootballEventTrackingData]], and [[SportsPredictiveModeling]] - sports analytics theme Sam introduces in EP12.

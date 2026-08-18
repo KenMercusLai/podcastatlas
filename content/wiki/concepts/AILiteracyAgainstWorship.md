@@ -2,11 +2,13 @@
 title: "AI Literacy Against Worship"
 type: concept
 tags: [ai, education, governance, agency]
-sources: [tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, kate-crawford-mapping-empires]
-last_updated: 2026-07-23
+sources: [ep-9-chatgpt-and-education-systems, tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, kate-crawford-mapping-empires]
+last_updated: 2026-08-18
 ---
 
 # AI Literacy Against Worship
+
+[[ep-9-chatgpt-and-education-systems]] adds the teacher-and-student classroom version. [[JosephStrader]] and [[SamDataScienceWithSam|Sam]] argue that teachers across subjects need enough AI literacy to explain [[ChatGPT]], use it for bounded assistance, and distinguish responsible learning from [[AIShortcutRisk]] rather than answering the technology only with bans.
 
 AI literacy against worship is the episode's argument that public AI education should begin with orientation, limits, and self-command before tool training. In [[e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]], [[WeiQing]] warns that people can move from AI admiration into sensory capture and surrender if they learn tools without learning how tools shape attention and desire.
 
@@ -30,9 +32,11 @@ The concept supports public basic AI education and services, but treats commerci
 - Public AI literacy includes understanding material costs, data extraction, media manipulation, and infrastructure power before accepting claims of progress or inevitability.
 - Worker-facing AI literacy should not collapse into tool optimism; it also needs labor, governance, and displacement context.
 - Classroom AI literacy includes transparent authorship, output evaluation, and detector-bias awareness, not only cheating rules.
+- EP9 adds that teacher literacy is an access issue: students and parents need educators who can translate AI into practical classroom language instead of treating it as distant expert jargon.
 
 ## Connections
 - [[AIWorkerLiteracy]] and [[USDepartmentOfLabor|U.S. Department of Labor]] - worker-training branch added by Marketplace Tech.
+- [[TeacherAILiteracy]], [[TeacherAIAugmentation]], [[AIAcademicIntegrity]], and [[JosephStrader]] - K-12 education branch added by Data Science With Sam EP9.
 - [[WeiQing]] — source speaker.
 - [[HumanAgencyUnderAI]] and [[HumanMachineAmplification]] — literacy starts from the user's state and purpose.
 - [[AttentionIndustrialization]] and [[AIUsePacing]] — practical risks literacy must cover.

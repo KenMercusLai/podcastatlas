@@ -2,11 +2,13 @@
 title: "AI As Tutor"
 type: concept
 tags: [ai, education, learning]
-sources: [vol-171-jiaru-women-you-wuxian-token-1-6682-1, yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
-last_updated: 2026-08-16
+sources: [ep-9-chatgpt-and-education-systems, vol-171-jiaru-women-you-wuxian-token-1-6682-1, yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254, fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
+last_updated: 2026-08-18
 ---
 
 # AI As Tutor
+
+[[ep-9-chatgpt-and-education-systems]] adds an early K-12 classroom version through [[JosephStrader]]. [[ChatGPT]] can explain math answers or generate alternative explanations, but the source keeps tutoring subordinate to [[TeacherAIAugmentation]] and teacher judgment: the model is useful as an assistant when educators preserve the human element and student reasoning.
 
 [[yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254]] adds the guided-tutor boundary. The episode argues that AI helps learning when it behaves more like a teacher who asks for the student's current reasoning and gives hints, and less like an answer key. Its [[AIGuidedLearningGuardrails]] example makes tutoring a product-design question: the same model can strengthen practice or deepen [[AIShortcutRisk]] depending on whether it preserves the learner's own thinking.
 
@@ -43,6 +45,7 @@ AI as tutor is the use of tools such as [[ChatGPT]] to personalize explanations,
 - The answer-machine pattern is a failure mode because it can remove the practice that builds understanding.
 - AI support is more defensible after a student has produced a first draft, partial solution, hypothesis, or explicit confusion.
 - AI tutoring can also support adult learning when it turns documents, obscure topics, or commute time into a conversation the learner can question and verify.
+- EP9 adds that tutor-like explanations in school should remain subordinate to teacher judgment and classroom relationship, especially when the same tool can also answer homework or exam questions directly.
 - In AI-native university settings, tutoring may include curriculum planning, simulated exam questions, paper explanation, project review, coding help, and workflow selection.
 - The useful distinction is whether the learner can verify, question, and internalize the result; heavy AI tutoring can still become [[AIShortcutRisk]] if it removes the learner's own confusion and judgment practice.
 - Adult AI learning can work when the learner has enough self-knowledge to ask for explanations in a usable frame and enough humility to verify with people or sources outside the model.
@@ -53,6 +56,7 @@ AI as tutor is the use of tools such as [[ChatGPT]] to personalize explanations,
 ## Connections
 
 - [[LiDan|李诞]] - adult self-learning and expert-verification case from the Banlatte special.
+- [[JosephStrader]], [[TeacherAIAugmentation]], and [[TeacherAILiteracy]] - K-12 teacher-assistant framing added by Data Science With Sam EP9.
 - [[LearningHowToLearn]] — meta-skill that decides whether AI tutoring deepens understanding or only produces answers.
 - [[HumanJudgmentUnderAI]] — students still judge and own the final understanding.
 - [[ContextEngineering]] — better background and task framing improve AI's tutoring value.

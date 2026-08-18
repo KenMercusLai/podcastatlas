@@ -1243,6 +1243,10 @@
     "title": "AI Abundance Narrative",
     "url": "/wiki/concepts/aiabundancenarrative/"
   },
+  "AIAcademicIntegrity": {
+    "title": "AI Academic Integrity",
+    "url": "/wiki/concepts/aiacademicintegrity/"
+  },
   "AIAcceleratorSupernode": {
     "title": "AI Accelerator Supernode",
     "url": "/wiki/concepts/aiacceleratorsupernode/"
@@ -3971,6 +3975,10 @@
     "title": "Ann Wroe",
     "url": "/wiki/entities/annwroe/"
   },
+  "AnnaDSouza": {
+    "title": "Anna D'Souza",
+    "url": "/wiki/entities/annadsouza/"
+  },
   "AnnaHolligan": {
     "title": "Anna Holligan",
     "url": "/wiki/entities/annaholligan/"
@@ -4542,6 +4550,10 @@
   "AtheneHolding": {
     "title": "Athene Holding / 雅典娜保险",
     "url": "/wiki/entities/atheneholding/"
+  },
+  "AthleteDataPrivacyGovernance": {
+    "title": "Athlete Data Privacy Governance",
+    "url": "/wiki/concepts/athletedataprivacygovernance/"
   },
   "AthleteSponsorshipStrategy": {
     "title": "Athlete Sponsorship Strategy",
@@ -10447,6 +10459,10 @@
     "title": "Data-Driven Entertainment Product / 数据驱动娱乐产品",
     "url": "/wiki/concepts/datadrivenentertainmentproduct/"
   },
+  "DataDrivenFootballScouting": {
+    "title": "Data-Driven Football Scouting",
+    "url": "/wiki/concepts/datadrivenfootballscouting/"
+  },
   "DataDrivenPenaltyPreparation": {
     "title": "Data-Driven Penalty Preparation",
     "url": "/wiki/concepts/datadrivenpenaltypreparation/"
@@ -12390,6 +12406,10 @@
   "ElectroHydrostaticRocketServo": {
     "title": "Electro-Hydrostatic Rocket Servo",
     "url": "/wiki/concepts/electrohydrostaticrocketservo/"
+  },
+  "ElectronicArts": {
+    "title": "Electronic Arts",
+    "url": "/wiki/entities/electronicarts/"
   },
   "ElectronicDesignAutomation": {
     "title": "Electronic Design Automation",
@@ -14403,6 +14423,10 @@
     "title": "Football Contract Enforcement Risk",
     "url": "/wiki/concepts/footballcontractenforcementrisk/"
   },
+  "FootballEventTrackingData": {
+    "title": "Football Event and Tracking Data",
+    "url": "/wiki/concepts/footballeventtrackingdata/"
+  },
   "FootballLaborMarketDiscrimination": {
     "title": "Football Labor-Market Discrimination",
     "url": "/wiki/concepts/footballlabormarketdiscrimination/"
@@ -15906,6 +15930,10 @@
   "GoCardless": {
     "title": "GoCardless",
     "url": "/wiki/entities/gocardless/"
+  },
+  "GoCyberAcademy": {
+    "title": "GoCyber Academy",
+    "url": "/wiki/entities/gocyberacademy/"
   },
   "GoFundMe": {
     "title": "GoFundMe",
@@ -19415,6 +19443,10 @@
     "title": "Jamaica",
     "url": "/wiki/entities/jamaica/"
   },
+  "JamaicanWomensNationalTeam": {
+    "title": "Jamaican Women's National Team",
+    "url": "/wiki/entities/jamaicanwomensnationalteam/"
+  },
   "JamesAx": {
     "title": "James Ax",
     "url": "/wiki/entities/jamesax/"
@@ -20487,6 +20519,10 @@
     "title": "Joseph Schumpeter",
     "url": "/wiki/entities/josephschumpeter/"
   },
+  "JosephStrader": {
+    "title": "Joseph Strader",
+    "url": "/wiki/entities/josephstrader/"
+  },
   "JosephTurow": {
     "title": "Joseph Turow",
     "url": "/wiki/entities/josephturow/"
@@ -20706,6 +20742,10 @@
   "Juxian": {
     "title": "菊仙 / Juxian",
     "url": "/wiki/entities/juxian/"
+  },
+  "K12ComputerScienceAccess": {
+    "title": "K-12 Computer Science Access",
+    "url": "/wiki/concepts/k12computerscienceaccess/"
   },
   "KBeautyGlobalTrust": {
     "title": "K-Beauty Global Trust",
@@ -34735,6 +34775,14 @@
     "title": "Spontaneous Generation As Life-Origin Frame / 自然发生论作为生命起源框架",
     "url": "/wiki/concepts/spontaneousgenerationlifeorigin/"
   },
+  "SportsAnalytics": {
+    "title": "Sports Analytics",
+    "url": "/wiki/concepts/sportsanalytics/"
+  },
+  "SportsAnalyticsStakeholderCommunication": {
+    "title": "Sports Analytics Stakeholder Communication",
+    "url": "/wiki/concepts/sportsanalyticsstakeholdercommunication/"
+  },
   "SportsAsHistoricalReadingFrame": {
     "title": "Sports As Historical Reading Frame",
     "url": "/wiki/concepts/sportsashistoricalreadingframe/"
@@ -34802,6 +34850,10 @@
   "SportsPoliticalInterference": {
     "title": "Sports Political Interference",
     "url": "/wiki/concepts/sportspoliticalinterference/"
+  },
+  "SportsPredictiveModeling": {
+    "title": "Sports Predictive Modeling",
+    "url": "/wiki/concepts/sportspredictivemodeling/"
   },
   "SportsRightsBubble": {
     "title": "Sports Rights Bubble",
@@ -35170,6 +35222,10 @@
   "StatisticalSignificanceThreshold": {
     "title": "Statistical Significance Threshold",
     "url": "/wiki/concepts/statisticalsignificancethreshold/"
+  },
+  "StatsBomb": {
+    "title": "StatsBomb",
+    "url": "/wiki/entities/statsbomb/"
   },
   "StatusDescentPressure": {
     "title": "Status Descent Pressure / 身份落差压力",
@@ -36386,6 +36442,14 @@
   "TeaMaker": {
     "title": "Tea Maker",
     "url": "/wiki/entities/teamaker/"
+  },
+  "TeacherAIAugmentation": {
+    "title": "Teacher AI Augmentation",
+    "url": "/wiki/concepts/teacheraiaugmentation/"
+  },
+  "TeacherAILiteracy": {
+    "title": "Teacher AI Literacy",
+    "url": "/wiki/concepts/teacherailiteracy/"
   },
   "TeamMarketing": {
     "title": "Team Marketing",
@@ -42391,6 +42455,10 @@
     "title": "E45 孟岩对话李继刚：人何以自处",
     "url": "/wiki/sources/e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask/"
   },
+  "ep-12-insightful-conversation-with-a-football-analytics-professional": {
+    "title": "EP 12: Insightful Conversation with a Football Analytics Professional",
+    "url": "/wiki/sources/ep-12-insightful-conversation-with-a-football-analytics-professional/"
+  },
   "ep-3-demystifying-the-imposter-syndrome": {
     "title": "EP 3: Demystifying the Imposter Syndrome",
     "url": "/wiki/sources/ep-3-demystifying-the-imposter-syndrome/"
@@ -42414,6 +42482,10 @@
   "ep-8-implementation-of-ai-in-scientific-research": {
     "title": "EP 8: Implementation of AI in scientific research",
     "url": "/wiki/sources/ep-8-implementation-of-ai-in-scientific-research/"
+  },
+  "ep-9-chatgpt-and-education-systems": {
+    "title": "EP 9: ChatGPT and Education Systems",
+    "url": "/wiki/sources/ep-9-chatgpt-and-education-systems/"
   },
   "ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx": {
     "title": "EP101 对话 Simon：AI 创业者的第一项基本功是把账算明白",

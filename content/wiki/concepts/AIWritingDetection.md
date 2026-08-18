@@ -2,11 +2,13 @@
 title: "AI Writing Detection"
 type: concept
 tags: [ai, writing, detection, editing]
-sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]
-last_updated: 2026-08-14
+sources: [ep-9-chatgpt-and-education-systems, tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]
+last_updated: 2026-08-18
 ---
 
 # AI Writing Detection
+
+[[ep-9-chatgpt-and-education-systems]] adds an early school-response example. [[JosephStrader]] mentions a Princeton student's "Chat Zero" detector as a way to check whether text came from [[ChatGPT]], but the episode's broader frame treats detection as only one part of [[AIAcademicIntegrity]].
 
 [[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds the watermarking version through [[Anthropic]] and [[Claude]]. Instead of inferring authorship from style or detector scores, [[AITextWatermarking]] embeds a signal in generated or copied text. The source still keeps detection uncertain in practice because human writing edited through Claude may receive a watermark.
 
@@ -20,6 +22,7 @@ The source also adds a behavior risk. Public detector scores can push writers to
 
 ## Key Claims
 - Detection is a moving target because models are trained on human writing and improved by human feedback.
+- EP9 shows that detector hopes appeared immediately in school contexts, but the integrity problem also required teacher literacy and assignment redesign.
 - A detector result should be treated as a signal for review, not as standalone proof of authorship.
 - Platform-integrated detectors can make AI authorship more legible to readers, but they also create product responsibilities around false positives, appeals, and correction.
 - Detector visibility can change writer incentives if authors start optimizing to avoid being publicly labeled as AI-generated.
@@ -31,6 +34,7 @@ The source also adds a behavior risk. Public detector scores can push writers to
 
 ## Connections
 - [[CaitlinTalbot]], [[Pangram]], [[ChatGPT]], [[Claude]], [[Gemini]], and [[Grok]] - source speaker, detector, and model examples.
+- [[JosephStrader]], [[AIAcademicIntegrity]], and [[TeacherAILiteracy]] - school-detection context added by Data Science With Sam EP9.
 - [[Substack]] and [[ChrisBest]] - publishing-platform detector and disclosure case.
 - [[AIWritingPedagogy]] and [[AIDetectorBias]] - education-policy and fairness context.
 - [[HumanAuthorshipPremium]], [[HumanJudgmentUnderAI]], and [[AIContentProvenance]] - adjacent trust and authorship concepts.

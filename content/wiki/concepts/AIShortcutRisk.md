@@ -2,11 +2,13 @@
 title: "AI Shortcut Risk"
 type: concept
 tags: [ai, education, learning, agency]
-sources: [yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254, tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-08-12
+sources: [ep-9-chatgpt-and-education-systems, yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254, tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
+last_updated: 2026-08-18
 ---
 
 # AI Shortcut Risk
+
+[[ep-9-chatgpt-and-education-systems]] adds the early ChatGPT school-integrity version. [[JosephStrader]] says students can paste exam questions, writing tasks, or math problems into [[ChatGPT]] and receive fast answers with reasoning, making the shortcut risk a speed-and-scale problem as well as a learning problem.
 
 [[yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254]] adds a memory-and-neuroscience explanation for the shortcut risk. The source argues that if AI removes searching, comparison, recall, organization, and expression, it may also remove the practice that strengthens memory and judgment. It therefore links shortcut risk to [[CognitiveOffloading]], [[CognitiveDebt]], [[DesirableDifficulty]], and [[Neuroplasticity]], not only to cheating or homework integrity.
 
@@ -28,6 +30,7 @@ This makes AI shortcut risk an education-specific version of [[AIUsePacing]], [[
 
 ## Key Claims
 - Faster answer access is not the same as faster learning.
+- EP9 adds that faster answer access also changes academic integrity because AI compresses essay, math, and online-exam shortcuts into seconds.
 - Students need enough friction to practice reasoning, but not so much repeated failure that they give up.
 - AI support should identify and scaffold the blocked step rather than always reveal the finished solution.
 - Shortcut-heavy learning may widen the gap between active learners and passive learners.
@@ -41,6 +44,7 @@ This makes AI shortcut risk an education-specific version of [[AIUsePacing]], [[
 
 ## Connections
 - [[YangLingfeng]] and [[YangcongXueyuan]] — source speaker and company.
+- [[JosephStrader]], [[AIAcademicIntegrity]], and [[TeacherAILiteracy]] - early ChatGPT school-integrity branch added by Data Science With Sam EP9.
 - [[SelfDirectedLearning]] and [[LearningHowToLearn]] — capacities at risk if AI replaces the thinking process.
 - [[AIAsTutor]] and [[LearningExperienceDesign]] — constructive uses of AI that avoid the shortcut failure mode.
 - [[AIUsePacing]], [[AILiteracyAgainstWorship]], and [[HumanAgencyUnderAI]] — broader agency and attention risks.

@@ -6,6 +6,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 12: Insightful Conversation with a Football Analytics Professional](sources/ep-12-insightful-conversation-with-a-football-analytics-professional.md) — Data Science With Sam episode with Anna D'Souza on soccer analytics, stakeholder communication, data-driven scouting, athlete data privacy, event/tracking data, AI/ML, and predictive modeling.
+- [EP 9: ChatGPT and Education Systems](sources/ep-9-chatgpt-and-education-systems.md) — Data Science With Sam episode with Joseph Strader on ChatGPT in schools, academic integrity, teacher AI augmentation, teacher AI literacy, K-12 computer science access, and human-driven AI education.
 - [EP 8: Implementation of AI in scientific research](sources/ep-8-implementation-of-ai-in-scientific-research.md) — Data Science With Sam episode with Lucas Simon on biomedical AI, computational biology, sequencing pipelines, gene-expression matrices, single-cell RNA sequencing, autoencoders, Keras, and TensorFlow.
 - [EP 7: Data Science & MLOps](sources/ep-7-data-science-mlops.md) — Data Science With Sam episode with Aaron Blythe on MLOps, ML engineering, data engineering, DevOps principles, CI/CD, production feedback loops, and integrated ML teams.
 - [EP 6: Data Science & AI Talk](sources/ep-6-data-science-ai-talk.md) — Data Science With Sam episode with Paulina Nemkova on moving from economics into AI PhD research, academic AI work, literature tracking, EEG brain-signal classification, replication, and crypto time-series research.
@@ -979,6 +981,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Anna D'Souza](entities/AnnaDSouza.md) — Football analytics professional connecting playing, coaching, economics, Python, NWSL game data, Jamaican national-team scouting, communication, privacy, and predictive modeling.
+- [Jamaican Women's National Team](entities/JamaicanWomensNationalTeam.md) — National-team context for diaspora recruitment, game-model scouting, and soccer analytics in Anna D'Souza's Data Science With Sam episode.
+- [Electronic Arts](entities/ElectronicArts.md) — Game company appearing through Anna D'Souza's EA data reviewer and producer work connected to the NWSL side of the game.
+- [StatsBomb](entities/StatsBomb.md) — Football data and analytics organization named in the episode around event/tracking data synchronization and sports predictive modeling.
+- [Joseph Strader](entities/JosephStrader.md) — Educator and GoCyber Academy founder explaining ChatGPT, teacher AI literacy, academic integrity, and K-12 computer science access on Data Science With Sam.
+- [GoCyber Academy](entities/GoCyberAcademy.md) — K-12 computer-science education venture teaching block coding, typing, computer literacy, and project-based technology exposure.
 - [Lucas Simon](entities/LucasSimon.md) — Baylor College of Medicine computational-biology researcher and Data Science With Sam guest explaining sequencing pipelines, single-cell RNA-seq, and biomedical deep learning.
 - [Baylor College of Medicine](entities/BaylorCollegeOfMedicine.md) — Institution context for Lucas Simon's biomedical data-science group and early cancer therapeutics work.
 - [Therapeutic Innovation Center](entities/TherapeuticInnovationCenter.md) — Baylor research center context for molecular-data science, computational biology, and early cancer therapeutics.
@@ -995,8 +1003,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Society of Actuaries](entities/SocietyOfActuaries.md) — Professional actuarial organization used as fellowship context for Mary Pat Campbell and Stephen Mathis and as an industry mortality-data aggregation point.
 - [American Academy of Actuaries](entities/AmericanAcademyOfActuaries.md) — Mary Pat Campbell affiliation and source-scoped context for U.S. actuarial professional expectations.
 - [Casualty Actuarial Society](entities/CasualtyActuarialSociety.md) — Property-and-casualty actuarial organization referenced as part of the historical overlap between actuarial work and statistics.
-- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for Data Science With Sam episodes on biomedical computational biology, production ML/MLOps, academic AI research paths, cybersecurity, NASA space AI, impostor syndrome, experimental-science AI, and actuarial insurance data practice.
-- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of Data Science With Sam conversations on biomedical AI, production ML/MLOps, academic AI research, cybersecurity, NASA space AI, professional confidence, scientific AI, and actuarial insurance data.
+- [Data Science With Sam](entities/DataScienceWithSam.md) — Podcast/show context for Data Science With Sam episodes on soccer analytics, ChatGPT in education, biomedical computational biology, production ML/MLOps, academic AI research paths, cybersecurity, NASA space AI, impostor syndrome, experimental-science AI, and actuarial insurance data practice.
+- [Sam (Data Science With Sam)](entities/SamDataScienceWithSam.md) — Source-scoped host of Data Science With Sam conversations on soccer analytics, ChatGPT in education, biomedical AI, production ML/MLOps, academic AI research, cybersecurity, NASA space AI, professional confidence, scientific AI, and actuarial insurance data.
 - [Effie (Data Science With Sam)](entities/EffieDataScienceWithSam.md) — Biology-focused guest emphasizing experimental records, bioinformatics collaboration, quality control, and AI lab documentation.
 - [Mossam (Data Science With Sam)](entities/MossamDataScienceWithSam.md) — Stanford research scientist guest explaining retrosynthesis AI, radiochemistry tracers, blood-brain-barrier prediction, negative chemistry data, and radioactive-safety oversight.
 - [Recursion Pharma](entities/RecursionPharma.md) — AI drug-discovery company cited as a source-scoped example of commercial small-molecule prediction.
@@ -6395,7 +6403,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Caroline Buck](entities/CarolineBuck.md) — Petaluma founder asking how to explain plant-based dog food without triggering backlash.
 - [Character AI](entities/CharacterAI.md) — Character-chat product referenced as an AI-as-interaction-object example, companion-chat commercialization caution, and EVE contrast case.
 - [China Securities Regulatory Commission](entities/ChinaSecuritiesRegulatoryCommission.md) — Chinese securities regulator discussed through A-share supervision, market warnings, price limits, and off-market financing cleanup.
-- [ChatGPT](entities/ChatGPT.md) — AI assistant/search surface discussed through search, memory, mobile use, design work, remote-agent control, and post-mortem simulation risk.
+- [ChatGPT](entities/ChatGPT.md) — AI assistant/search surface discussed through education, search, memory, mobile use, design work, remote-agent control, and post-mortem simulation risk.
 - [Chen Jingchu](entities/ChenJingchu.md) — Serial builder and hackathon contestant arguing that building public is an AI-era product and distribution lever.
 - [Christina Molinaro](entities/ChristinaMolinaro.md) — 25 & Pine founder discussing viral social growth and repeatable customer acquisition.
 - [Claude Code](entities/ClaudeCode.md) — Agentic coding tool used for workflow-oriented AI use, implementation, review loops, and external Skills.
@@ -6657,6 +6665,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Sports Analytics](concepts/SportsAnalytics.md) — Applied data-science field where sport knowledge, stakeholder communication, scouting, privacy, event/tracking data, and predictive modeling shape decisions.
+- [Sports Analytics Stakeholder Communication](concepts/SportsAnalyticsStakeholderCommunication.md) — Translating technical sports analysis into coach-, player-, scout-, and executive-facing decision cues.
+- [Data-Driven Football Scouting](concepts/DataDrivenFootballScouting.md) — Use of metrics, KPIs, platforms, and analyst judgment to identify players who fit a club or national-team game model.
+- [Athlete Data Privacy Governance](concepts/AthleteDataPrivacyGovernance.md) — Privacy, ownership, release, security, and labor rules around event, tracking, wearable, and performance data tied to athletes.
+- [Football Event and Tracking Data](concepts/FootballEventTrackingData.md) — Structured and semi-structured football data from event feeds, tracking systems, video, computer vision, and synchronization work.
+- [Sports Predictive Modeling](concepts/SportsPredictiveModeling.md) — Machine-learning and statistical modeling of sports outcomes, player actions, match events, betting variables, and tactical probabilities.
+- [Teacher AI Augmentation](concepts/TeacherAIAugmentation.md) — Classroom workflow frame where AI supports lesson planning, differentiation, and explanations while teachers keep judgment and relationships central.
+- [Teacher AI Literacy](concepts/TeacherAILiteracy.md) — Baseline AI understanding teachers need to use, explain, limit, and evaluate tools such as ChatGPT across subjects.
+- [AI Academic Integrity](concepts/AIAcademicIntegrity.md) — School assessment and authorship problem created when AI can generate essays, math explanations, and exam answers quickly.
+- [K-12 Computer Science Access](concepts/K12ComputerScienceAccess.md) — Early computing, typing, coding, AI-literacy, cybersecurity, and data-analysis access as student opportunity infrastructure.
 - [Bioinformatics](concepts/Bioinformatics.md) — Source-scoped preparation layer that turns raw sequencing reads into analysis-ready gene-expression matrices.
 - [Computational Biology](concepts/ComputationalBiology.md) — Downstream analysis of molecular data matrices through statistics, modeling, visualization, and biological interpretation.
 - [Gene Expression Matrix](concepts/GeneExpressionMatrix.md) — High-dimensional molecular data object linking sequencing pipelines to computational biology and single-cell analysis.
