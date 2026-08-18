@@ -2,7 +2,7 @@
 title: "郑康公 / Duke Kang of Zheng"
 type: entity
 tags: [person, ruler, pre-qin, political-violence]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]
+sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
 last_updated: 2026-08-18
 ---
 
@@ -12,7 +12,10 @@ last_updated: 2026-08-18
 
 The page is source-scoped. It records the episode's political use of Zheng Kang Gong rather than attempting a complete biography.
 
+[[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] gives the specific continuation: the killed ruler is [[ZhengXugong|郑繻公]], and Zheng Kang Gong is his younger brother.
+
 ## Connections
 - [[ZhengState|郑国]] - polity he comes to rule.
 - [[ZiyangZheng|子阳]] - factional link in the source.
+- [[ZhengXugong|郑繻公]] - predecessor killed by Ziyang's faction.
 - [[SpringAutumnToWarringStatesPoliticalViolence]] - concept illustrated by his installation.

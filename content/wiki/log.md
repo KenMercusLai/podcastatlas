@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-18] ingest | 《资治通鉴·周纪》07丨两起刺杀（2）
+
+Added source page for a 芮淇讲透资治通鉴 episode on Zhou An Wang years 5-8, solar-eclipse political responsibility, Nie Zheng's assassination of Xia Lei, Nie Ying's honor death, the Zhanguo Ce variant involving Han Aihou, Wei/Song/Zheng successions, Song's Shang-remnant lineage, chronicle source gaps, and Fushu's repeated transfer among Han, Zheng, and Chu. Created pages for Nie Zheng, Nie Ying, Yan Zhongzi, Xia Lei, Han Aihou, Wei Wuhou, Zheng Xu Gong, Song State, Song Dao Gong, Song Xiu Gong, Weizi Qi, Kongfu Jia, Zhanguo Ce, Shijing, Lu State, Fushu, Celestial Omen Political Responsibility, Aristocratic Honor Over Life, Chronicle Source Gaps, Territorial Control Churn, and Shang-Remnant State Legitimacy; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou An Wang, Han/Wei/Zheng/Qi state pages, Wei Wenhou, Zheng Kang Gong, Warring States Period, Confucius, Sima Guang, Zhou Royal House, political-violence, assassination-ethics, mandate, historical-reasoning, and buffer-diplomacy pages. No direct contradiction found; the Zhanguo Ce version is recorded as a variant rather than reconciled with the base chronicle notice.
+
 ## [2026-08-18] ingest | 《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（2）
 
 Added source page for a 芮淇讲透资治通鉴 episode on Sima Rangju, Wu Qi's shared-hardship military leadership, Wei military discipline, Zhou/Yan/Chu chronology, posthumous names, and politically ambiguous "bandit" assassinations. Created pages for the show, Zizhi Tongjian, Sima Rangju, Yan Ying, Qi Jinggong, Wu Qi, Wuzi, Wei/Qi/Yan/Chu/Zhou/Jin/Qin state and ruler nodes, Bamboo Annals, Military Morale Through Shared Hardship, Posthumous Name Politics, and Bandit Assassination Attribution; updated overview, index, log, Sima Guang, Spring and Autumn Period, Warring States Period, and Historical Detective Reasoning. No direct contradiction found; the source extends the pre-Qin branch while keeping the episode title's incomplete Wei Wenhou chancellor question source-scoped.
@@ -8034,6 +8038,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] ingest | Dan Dreyfus: America's Critical Minerals Crisis is Here
 
 Added source page for an All-In episode with Dan Dreyfus on critical minerals, copper, rare-earth processing, Chinese export leverage, grid modernization, AI data-center power, craft labor, industrial policy, and hard assets as a debasement hedge. Created pages for Dan Dreyfus, Capital-Intensive AI Cycle, Copper Supply Bottleneck, Electric Grid Modernization Bottleneck, Critical Mineral Offtake Industrial Policy, Craft Labor Bottleneck, and Hard Assets Debasement Hedge; updated overview, index, All-In, critical-minerals, rare-earth, data-center power, manufacturing workforce, reshoring, supply-chain sovereignty, strategic industrial policy, commodity time-horizon, Ford Motor Company, US Department of Defense, and U.S. Department of Energy pages. No direct contradiction found; numerical commodity, power, and return claims are kept source-attributed pending independent verification.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-18] lint | Wiki health check
 

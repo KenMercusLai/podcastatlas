@@ -2,7 +2,7 @@
 title: "孔子 / Confucius"
 type: entity
 tags: [person, philosopher, chinese-classics, spring-and-autumn]
-sources: [165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+sources: [165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
 last_updated: 2026-08-06
 ---
 
@@ -16,6 +16,8 @@ The source's point is not to replace Confucius's intellectual image with a sport
 
 [[165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646]] adds Confucius to the [[RespectForEldersTradition]] branch through the cited ideal "老者安之，朋友信之，少者怀之." The episode reads that line as a humane social state where elders can settle, friends can trust, and children can be cared for, not only as an obedience formula.
 
+[[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] adds a genealogy note: the episode traces Confucius's ancestry through [[KongfuJia|孔父嘉]] and [[SongState|宋国]] nobility back toward [[WeiziQi|微子启]], making him part of the source's [[ShangRemnantStateLegitimacy]] branch.
+
 ## Connections
 - [[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]] - source episode.
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode's Mencian extension.
@@ -25,3 +27,4 @@ The source's point is not to replace Confucius's intellectual image with a sport
 - [[SpringAutumnWarfareRitual]] and [[HorseAsCivilizationalInfrastructure]] - chariot, elite education, and battle-skill context.
 - [[Mengzi|孟子 / Mencius]], [[MenciusText|《孟子》]], and [[EarlyConfucianResistancePolitics]] - later Confucian-political extension.
 - [[RespectForEldersTradition]] - elder-care and social-peace extension added by episode 165.
+- [[SongState|宋国]], [[KongfuJia|孔父嘉]], [[WeiziQi|微子启]], and [[ShangRemnantStateLegitimacy]] - genealogy extension added by the Ruiqi episode.

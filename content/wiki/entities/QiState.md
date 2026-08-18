@@ -2,7 +2,7 @@
 title: "齐国 / Qi State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
+sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
 last_updated: 2026-08-18
 ---
 
@@ -12,7 +12,10 @@ last_updated: 2026-08-18
 
 The page also gives a home to existing Qi-related pre-Qin nodes such as [[QiHuanGong|齐桓公]] and [[QiXuanWang|齐宣王]], without claiming that this episode discusses those rulers directly.
 
+[[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] adds a later annalistic notice: Qi attacks [[LuState|鲁国]] in 394 BCE and occupies Zui, contributing to the episode's picture of quickening interstate conflict.
+
 ## Connections
 - [[SimaRangju|司马穰苴]], [[YanYing|晏婴]], and [[QiJinggong|齐景公]] - source-specific Qi branch.
 - [[QiHuanGong|齐桓公]] and [[QiXuanWang|齐宣王]] - existing Qi-related wiki pages.
+- [[LuState|鲁国]] and [[TerritorialControlChurn]] - part 2 attack notice and territorial-war branch.
 - [[SpringAndAutumnPeriod|春秋时期]] and [[WarringStatesPeriod|战国时期]] - broader pre-Qin settings.

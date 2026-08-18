@@ -2,7 +2,7 @@
 title: "魏国 / Wei State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]
+sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
 last_updated: 2026-08-18
 ---
 
@@ -14,6 +14,8 @@ In this page, Wei is not yet a full institutional history. Its wiki role is to h
 
 [[zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]] adds Wei to two new early [[ZhouAnWang|周安王]] threads: [[QinState|秦国]] attacks Wei in 401 BCE, and [[WangYinglin|王应麟]] later reads the Guo mountain landslide as a [[NaturalDisasterPoliticalOmen]] for Wei's eventual disaster.
 
+[[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] adds the death of [[WeiWenhou|魏文侯]] and accession of [[WeiWuhou|魏武侯]], turning Wei from a military-rise case into a succession case as well.
+
 ## Connections
 - [[WeiWenhou|魏文侯]] - ruler named in the episode title.
 - [[WuQi|吴起]] and [[Wuzi|《吴子》]] - military branch.
@@ -21,3 +23,4 @@ In this page, Wei is not yet a full institutional history. Its wiki role is to h
 - [[MilitaryMoraleThroughSharedHardship]] - source concept tied to Wei's military rise.
 - [[QinState|秦国]] - early military opponent in episode 07.
 - [[NaturalDisasterPoliticalOmen]] and [[WangYinglin|王应麟]] - Guo mountain omen branch.
+- [[WeiWuhou|魏武侯]] - successor added by part 2.

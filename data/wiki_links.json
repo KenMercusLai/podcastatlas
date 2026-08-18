@@ -4443,6 +4443,10 @@
     "title": "Arin Dube / Arindrajit Dube",
     "url": "/wiki/entities/arindube/"
   },
+  "AristocraticHonorOverLife": {
+    "title": "Aristocratic Honor Over Life / 贵族名誉高于生命",
+    "url": "/wiki/concepts/aristocratichonoroverlife/"
+  },
   "AristocraticPoliticalAsylum": {
     "title": "Aristocratic Political Asylum / 贵族政治避难",
     "url": "/wiki/concepts/aristocraticpoliticalasylum/"
@@ -7499,6 +7503,10 @@
     "title": "Cecily Farr / 西西莉·法尔",
     "url": "/wiki/entities/cecilyfarr/"
   },
+  "CelestialOmenPoliticalResponsibility": {
+    "title": "Celestial Omen Political Responsibility / 天象政治责任",
+    "url": "/wiki/concepts/celestialomenpoliticalresponsibility/"
+  },
   "CellToCellLogicStacking": {
     "title": "Cell-to-Cell Logic Stacking",
     "url": "/wiki/concepts/celltocelllogicstacking/"
@@ -8610,6 +8618,10 @@
   "ChronicFoodAdditiveRisk": {
     "title": "Chronic Food Additive Risk",
     "url": "/wiki/concepts/chronicfoodadditiverisk/"
+  },
+  "ChronicleSourceGaps": {
+    "title": "Chronicle Source Gaps / 编年史料空缺",
+    "url": "/wiki/concepts/chroniclesourcegaps/"
   },
   "Chrysippus": {
     "title": "Chrysippus / 克律西波斯",
@@ -15567,6 +15579,10 @@
     "title": "Fundraising Scenario Modeling",
     "url": "/wiki/concepts/fundraisingscenariomodeling/"
   },
+  "FushuCity": {
+    "title": "负黍 / Fushu",
+    "url": "/wiki/entities/fushucity/"
+  },
   "FusionEnergyRecovery": {
     "title": "Fusion Energy Recovery",
     "url": "/wiki/concepts/fusionenergyrecovery/"
@@ -17234,6 +17250,10 @@
   "HanAidi": {
     "title": "Emperor Ai of Han / 汉哀帝",
     "url": "/wiki/entities/hanaidi/"
+  },
+  "HanAihou": {
+    "title": "韩哀侯 / Marquis Ai of Han",
+    "url": "/wiki/entities/hanaihou/"
   },
   "HanBoxiao": {
     "title": "Han Boxiao",
@@ -21903,6 +21923,10 @@
     "title": "孔祥熙",
     "url": "/wiki/entities/kongxiangxi/"
   },
+  "KongfuJia": {
+    "title": "孔父嘉 / Kongfu Jia",
+    "url": "/wiki/entities/kongfujia/"
+  },
   "KonishiYukinaga": {
     "title": "Konishi Yukinaga / 小西行长",
     "url": "/wiki/entities/konishiyukinaga/"
@@ -23770,6 +23794,10 @@
   "LuShanTencent": {
     "title": "Lu Shan / 卢山",
     "url": "/wiki/entities/lushantencent/"
+  },
+  "LuState": {
+    "title": "鲁国 / Lu State",
+    "url": "/wiki/entities/lustate/"
   },
   "LuWeiScreenwriter": {
     "title": "芦苇 / Lu Wei",
@@ -27394,6 +27422,14 @@
   "NieHuihua": {
     "title": "聂辉华",
     "url": "/wiki/entities/niehuihua/"
+  },
+  "NieYing": {
+    "title": "聂英 / Nie Ying",
+    "url": "/wiki/entities/nieying/"
+  },
+  "NieZheng": {
+    "title": "聂政 / Nie Zheng",
+    "url": "/wiki/entities/niezheng/"
   },
   "NiemanLab": {
     "title": "Nieman Lab",
@@ -34315,6 +34351,10 @@
     "title": "Shane Legg",
     "url": "/wiki/entities/shanelegg/"
   },
+  "ShangRemnantStateLegitimacy": {
+    "title": "Shang-Remnant State Legitimacy / 商裔封国合法性",
+    "url": "/wiki/concepts/shangremnantstatelegitimacy/"
+  },
   "ShangShumiHanTaiweiShu": {
     "title": "《上枢密韩太尉书》",
     "url": "/wiki/entities/shangshumihantaiweishu/"
@@ -34582,6 +34622,10 @@
   "ShifgrethorPoliticalFace": {
     "title": "Shifgrethor Political Face / 西弗格雷瑟式政治面子",
     "url": "/wiki/concepts/shifgrethorpoliticalface/"
+  },
+  "Shijing": {
+    "title": "《诗经》 / Shijing",
+    "url": "/wiki/entities/shijing/"
   },
   "ShikanoYasuaki": {
     "title": "鹿野靖明",
@@ -35379,6 +35423,10 @@
     "title": "Sondre Solstad",
     "url": "/wiki/entities/sondresolstad/"
   },
+  "SongDaogong": {
+    "title": "宋悼公 / Duke Dao of Song",
+    "url": "/wiki/entities/songdaogong/"
+  },
   "SongEmpress": {
     "title": "宋皇后 / Empress Song",
     "url": "/wiki/entities/songempress/"
@@ -35403,6 +35451,10 @@
     "title": "宋神宗 / Emperor Shenzong of Song",
     "url": "/wiki/entities/songshenzong/"
   },
+  "SongState": {
+    "title": "宋国 / Song State",
+    "url": "/wiki/entities/songstate/"
+  },
   "SongSuccessionLegitimacyCrisis": {
     "title": "宋初继承合法性危机 / Song Succession Legitimacy Crisis",
     "url": "/wiki/concepts/songsuccessionlegitimacycrisis/"
@@ -35414,6 +35466,10 @@
   "SongXiangGong": {
     "title": "宋襄公",
     "url": "/wiki/entities/songxianggong/"
+  },
+  "SongXiugong": {
+    "title": "宋休公 / Duke Xiu of Song",
+    "url": "/wiki/entities/songxiugong/"
   },
   "SongYuanMaritimeTradeCenter": {
     "title": "Song-Yuan Maritime Trade Center",
@@ -37538,6 +37594,10 @@
   "TensorFlow": {
     "title": "TensorFlow",
     "url": "/wiki/entities/tensorflow/"
+  },
+  "TerritorialControlChurn": {
+    "title": "Territorial Control Churn / 城池反复易手",
+    "url": "/wiki/concepts/territorialcontrolchurn/"
   },
   "TerryKarl": {
     "title": "Terry Karl",
@@ -40479,6 +40539,10 @@
     "title": "魏文侯 / Marquis Wen of Wei",
     "url": "/wiki/entities/weiwenhou/"
   },
+  "WeiWuhou": {
+    "title": "魏武侯 / Marquis Wu of Wei",
+    "url": "/wiki/entities/weiwuhou/"
+  },
   "WeiXi": {
     "title": "魏熙",
     "url": "/wiki/entities/weixi/"
@@ -40510,6 +40574,10 @@
   "WeissinaWilliams": {
     "title": "Weissina Williams",
     "url": "/wiki/entities/weissinawilliams/"
+  },
+  "WeiziQi": {
+    "title": "微子启 / Weizi Qi",
+    "url": "/wiki/entities/weiziqi/"
   },
   "WellingtonManagement": {
     "title": "Wellington Management",
@@ -41335,6 +41403,10 @@
     "title": "夏洁逸 / Xia Jieyi",
     "url": "/wiki/entities/xiajieyi/"
   },
+  "XiaLei": {
+    "title": "侠累 / Xia Lei",
+    "url": "/wiki/entities/xialei/"
+  },
   "Xiamen": {
     "title": "Xiamen / 厦门",
     "url": "/wiki/entities/xiamen/"
@@ -41754,6 +41826,10 @@
   "YanYing": {
     "title": "晏婴 / Yan Ying",
     "url": "/wiki/entities/yanying/"
+  },
+  "YanZhongzi": {
+    "title": "严仲子 / Yan Zhongzi",
+    "url": "/wiki/entities/yanzhongzi/"
   },
   "YangBing": {
     "title": "杨冰 / Yang Bing",
@@ -42575,6 +42651,10 @@
     "title": "Zhangmen One-on-One",
     "url": "/wiki/entities/zhangmenoneonone/"
   },
+  "Zhanguoce": {
+    "title": "《战国策》 / Zhanguo Ce",
+    "url": "/wiki/entities/zhanguoce/"
+  },
   "Zhangzidao": {
     "title": "Zhangzidao",
     "url": "/wiki/entities/zhangzidao/"
@@ -42674,6 +42754,10 @@
   "ZhengWenGong": {
     "title": "郑文公 / Duke Wen of Zheng",
     "url": "/wiki/entities/zhengwengong/"
+  },
+  "ZhengXugong": {
+    "title": "郑繻公 / Duke Xu of Zheng",
+    "url": "/wiki/entities/zhengxugong/"
   },
   "ZhengYou": {
     "title": "郑游",
@@ -45862,5 +45946,9 @@
   "zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx": {
     "title": "《资治通鉴·周纪》07丨两起刺杀（1）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx/"
+  },
+  "zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm": {
+    "title": "《资治通鉴·周纪》07丨两起刺杀（2）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm/"
   }
 }

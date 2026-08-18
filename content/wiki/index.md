@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》07丨两起刺杀（2）](sources/zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm.md) — 芮淇讲透资治通鉴 episode on Zhou An Wang years 5-8, solar-eclipse political responsibility, Nie Zheng's assassination of Xia Lei, Nie Ying's honor death, Wei/Song/Zheng successions, Song's Shang lineage, source gaps, and Fushu's repeated transfer.
 - [《资治通鉴·周纪》07丨两起刺杀（1）](sources/zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx.md) — 芮淇讲透资治通鉴 episode on Zhou An Wang's first four years, Qin-Wei fighting, Han/Zhao/Qin successions, Wangzi Ding's flight, disaster-omen interpretation, Zheng's Jin-Chu buffer dilemma, and factional assassination politics.
 - [《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（2）](sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei.md) — 芮淇讲透资治通鉴 episode on Sima Rangju, Wu Qi's shared-hardship military leadership, Wei military discipline, Zhou/Yan/Chu chronology, posthumous names, and "bandit" assassinations as possible political cover.
 - [GameStop CEO Ryan Cohen's $56B Plan to Take Over eBay](sources/all-in-with-chamath-jason-sacks-friedberg-gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay-41752370.md) — All-In interview with Ryan Cohen on Chewy's low-margin retail execution, GameStop's cost-cutting and collectibles turnaround, and a contested GameStop bid for eBay built around resale, authentication, live commerce, store infrastructure, and in-game assets.
@@ -1006,6 +1007,22 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [聂政 / Nie Zheng](entities/NieZheng.md) — Assassin hired by Yan Zhongzi to kill Han chancellor Xia Lei, then self-destroying to protect family identity.
+- [聂英 / Nie Ying](entities/NieYing.md) — Nie Zheng's sister who identifies his body and dies so his name will not be lost.
+- [严仲子 / Yan Zhongzi](entities/YanZhongzi.md) — Puyang feud-holder who recruits Nie Zheng to kill Xia Lei.
+- [侠累 / Xia Lei](entities/XiaLei.md) — Han chancellor killed by Nie Zheng, with a Zhanguo Ce variant linking the event to Han Aihou.
+- [韩哀侯 / Marquis Ai of Han](entities/HanAihou.md) — Han ruler appearing in the episode's Zhanguo Ce variant of the Nie Zheng assassination story.
+- [魏武侯 / Marquis Wu of Wei](entities/WeiWuhou.md) — Wei Wenhou's son and successor in the Zhouji 07 part 2 succession notice.
+- [郑繻公 / Duke Xu of Zheng](entities/ZhengXugong.md) — Zheng ruler killed by Ziyang's remaining faction before Zheng Kang Gong's installation.
+- [宋国 / Song State](entities/SongState.md) — Pre-Qin state presented as a Shang-remnant polity preserved under Zhou ritual order.
+- [宋悼公 / Duke Dao of Song](entities/SongDaogong.md) — Song ruler whose death leads to Song Xiugong's accession in the source.
+- [宋休公 / Duke Xiu of Song](entities/SongXiugong.md) — Song Daogong's son and successor in the source's Song notice.
+- [微子启 / Weizi Qi](entities/WeiziQi.md) — Shang royal-lineage figure through whom the episode explains Song's special status.
+- [孔父嘉 / Kongfu Jia](entities/KongfuJia.md) — Song noble ancestor used to connect Confucius's genealogy to Weizi Qi.
+- [《战国策》 / Zhanguo Ce](entities/Zhanguoce.md) — Pre-Qin text cited for the variant where Nie Zheng kills both Xia Lei and Han Aihou.
+- [《诗经》 / Shijing](entities/Shijing.md) — Classic cited through "日有蚀之" to ground eclipse political responsibility.
+- [鲁国 / Lu State](entities/LuState.md) — State attacked by Qi in the source's 394 BCE notice.
+- [负黍 / Fushu](entities/FushuCity.md) — City whose repeated transfer among Han, Zheng, and Chu illustrates territorial churn.
 - [芮淇讲透资治通鉴 / Ruiqi Jiangtou Zizhi Tongjian](entities/RuiqiJiangtouZizhiTongjian.md) — Podcast series reading Zizhi Tongjian through explanatory, management, and historiographical frames.
 - [《资治通鉴》 / Zizhi Tongjian](entities/ZizhiTongjian.md) — Chinese chronicle text used by the Ruiqi episode to read Zhou-annals succession, military leadership, and political attribution.
 - [司马穰苴 / Sima Rangju](entities/SimaRangju.md) — Qi military figure introduced as a low-born commander whose discipline and morale method precedes the episode's Wu Qi discussion.
@@ -6839,6 +6856,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Aristocratic Political Asylum / 贵族政治避难](concepts/AristocraticPoliticalAsylum.md) — Elite exile mechanism where royal or princely fugitives use kinship, status, retainers, and restoration value across state borders.
 - [Natural Disaster Political Omen / 自然灾害政治征兆](concepts/NaturalDisasterPoliticalOmen.md) — Historiographical frame for reading destructive landscape events as warnings about state fate.
 - [Spring-Autumn to Warring States Political Violence / 春秋战国政治暴力转型](concepts/SpringAutumnToWarringStatesPoliticalViolence.md) — Transition from constrained aristocratic conflict toward factional killing and assassination as state-capture technique.
+- [Celestial Omen Political Responsibility / 天象政治责任](concepts/CelestialOmenPoliticalResponsibility.md) — Frame for reading solar eclipses and other sky signs as warnings about political failure.
+- [Aristocratic Honor Over Life / 贵族名誉高于生命](concepts/AristocraticHonorOverLife.md) — Honor logic where public name, family reputation, and noble-style obligation can outweigh survival.
+- [Chronicle Source Gaps / 编年史料空缺](concepts/ChronicleSourceGaps.md) — Source-reading caution for blank annalistic years and thin early Warring States records.
+- [Territorial Control Churn / 城池反复易手](concepts/TerritorialControlChurn.md) — Pattern where cities are seized, defect back, or quickly change hands under accelerating interstate conflict.
+- [Shang-Remnant State Legitimacy / 商裔封国合法性](concepts/ShangRemnantStateLegitimacy.md) — Legitimacy mechanism where a conquered dynasty's lineage survives as a ritually honored state.
 - [Low-Margin Retail Execution](concepts/LowMarginRetailExecution.md) — Retail operating discipline where supplier terms, fulfillment, labor, shipping, inventory, and retention pennies decide whether scale becomes profit.
 - [Store-Network Marketplace Infrastructure](concepts/StoreNetworkMarketplaceInfrastructure.md) — Strategy of turning a physical store footprint into marketplace studios, seller support, fulfillment, photography, inspection, and authentication nodes.
 - [Marketplace Live Commerce](concepts/MarketplaceLiveCommerce.md) — Platform live-selling model where a marketplace supplies discovery, seller tooling, checkout, fulfillment support, and trust for many live sellers.
