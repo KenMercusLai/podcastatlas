@@ -2,7 +2,7 @@
 title: "宋国 / Song State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -22,6 +22,8 @@ The episode also uses Song to connect later classical authority back to lineage:
 
 [[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] adds Song to the 356 BCE Pinglu meeting with [[ZhaoState|赵国]] and [[QiState|齐国]], another compact notice in the early [[ZhouXianwang|周显王]] diplomatic field.
 
+[[zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn]] adds the 336 BCE notice that [[TaiqiuShe|宋太丘社]] disappeared. The episode treats the event as an unresolved ritual or omen problem rather than a settled mandate-transfer claim.
+
 ## Connections
 - [[SongDaogong|宋悼公]] and [[SongXiugong|宋休公]] - succession pair in the source.
 - [[WeiziQi|微子启]] - founding lineage figure in the episode.
@@ -32,3 +34,4 @@ The episode also uses Song to connect later classical authority back to lineage:
 - [[SongTicheng|宋剔成]] - Zhouji 10 part 2 successor after Song Pi Gong.
 - [[WeiState|魏国]], [[Shiji|《史记》]], [[ZhouXianwang|周显王]], and [[TerritorialControlChurn]] - Zhouji 11 Wei attack and territorial-loss branch.
 - [[ZhaoState|赵国]], [[QiState|齐国]], and [[EarlyWarringStatesInterstateWar]] - Zhouji 14 Pinglu meeting notice.
+- [[TaiqiuShe|宋太丘社]], [[MandateOfHeavenLegitimacy|天命合法性]], and [[NaturalDisasterPoliticalOmen]] - Zhouji 26 unresolved omen branch.

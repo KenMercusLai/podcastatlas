@@ -8151,6 +8151,10 @@ Added source page for a 芮淇讲透资治通鉴 episode opening Zhouji 11 and Z
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》26丨孟子来了！
+
+Added source page for a 芮淇讲透资治通鉴 episode on Shen Buhai's quiet death, Zhang Kaidi and Zhang Ping as the Han family line behind Zhang Liang's later restoration motive, Song's unresolved Taiqiu She omen, and Mencius's arrival before Wei Hui Wang. Created pages for Zhang Kaidi, Zhang Ping, Taiqiu She, Yi Meng, Analects, Zhu Xi, Renyi-Benefit Ordering, and Mencius Song Reception; updated overview, index, Mencius, Mencius Text, Liang Hui Wang, Zisi, Sima Guang, Shen Buhai, Han State, Song State, Zhang Liang, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Wang Anshi, Righteousness Over Profit, Confucian Ideal Governance, and Song/Wang Anshi reform-context pages. No direct contradiction found; the source refines "义利之辨" by distinguishing anti-profit-first rhetoric from anti-benefit politics and keeps the Taiqiu She omen unresolved.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》24丨商鞅曰：我咋裂了
 
 Added source page for a 芮淇讲透资治通鉴 episode reframing Shang Yang's death as a no-safe-exit problem: outsider talent plus radical reform creates success, enemies, and dependence on Qin Xiao Gong's protection. Created Zhao Liang, Baili Xi, Qin Mu Gong, Cao Cao, Cao Pi, Emperor Xian of Han, Power Exit Trap, and Textual Variant Political Stakes; updated overview, index, Shang Yang, Qin State, Qin Xiao Gong, Shang Yang Reforms, Warring States Reform Backlash, Legalist Self-Binding Backfire, Zizhi Tongjian, Shiji, Sima Guang, Wang Anshi, and Wang Anshi Reforms. No direct contradiction found; the Shiji versus Zizhi Tongjian resentment wording is recorded as a source-variant tension.
@@ -8234,6 +8238,10 @@ Ran health before lint; health scanned 11,678 wiki pages and found no empty/stub
 ## [2026-08-19] lint | Wiki health check
 
 Ran health before lint; health scanned 11,681 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,681 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-19] lint | Wiki health check
 

@@ -3843,6 +3843,10 @@
     "title": "Ana Lankas",
     "url": "/wiki/entities/analankas/"
   },
+  "Analects": {
+    "title": "《论语》 / Analects",
+    "url": "/wiki/entities/analects/"
+  },
   "AnalogMediaPreservation": {
     "title": "Analog Media Preservation",
     "url": "/wiki/concepts/analogmediapreservation/"
@@ -25623,6 +25627,10 @@
     "title": "Mencian People-Based Legitimacy / 孟子的民本合法性",
     "url": "/wiki/concepts/mencianpeoplebasedlegitimacy/"
   },
+  "MenciusSongReception": {
+    "title": "Mencius Song Reception / 宋代孟子接受史",
+    "url": "/wiki/concepts/menciussongreception/"
+  },
   "MenciusText": {
     "title": "《孟子》 / Mencius",
     "url": "/wiki/entities/menciustext/"
@@ -32595,6 +32603,10 @@
     "title": "Renqing Order",
     "url": "/wiki/concepts/renqingorder/"
   },
+  "RenyiBenefitOrdering": {
+    "title": "Renyi-Benefit Ordering / 仁义优先的利益秩序",
+    "url": "/wiki/concepts/renyibenefitordering/"
+  },
   "RepeatableCustomerLanguage": {
     "title": "Repeatable Customer Language",
     "url": "/wiki/concepts/repeatablecustomerlanguage/"
@@ -37578,6 +37590,10 @@
   "Taipingnian": {
     "title": "《太平年》",
     "url": "/wiki/entities/taipingnian/"
+  },
+  "TaiqiuShe": {
+    "title": "宋太丘社 / Taiqiu She",
+    "url": "/wiki/entities/taiqiushe/"
   },
   "TaishiDan": {
     "title": "太史旦 / Taishi Dan",
@@ -42635,6 +42651,10 @@
     "title": "一劳永逸",
     "url": "/wiki/entities/yilaoyongyi/"
   },
+  "YiMeng": {
+    "title": "《疑孟》 / Yi Meng",
+    "url": "/wiki/entities/yimeng/"
+  },
   "YiQieJieQiyue": {
     "title": "《一切皆契约》",
     "url": "/wiki/entities/yiqiejieqiyue/"
@@ -43175,6 +43195,10 @@
     "title": "张金涛 / Zhang Jintao",
     "url": "/wiki/entities/zhangjintao/"
   },
+  "ZhangKaidi": {
+    "title": "张开地 / Zhang Kaidi",
+    "url": "/wiki/entities/zhangkaidi/"
+  },
   "ZhangKun": {
     "title": "张坤 / Zhang Kun",
     "url": "/wiki/entities/zhangkun/"
@@ -43206,6 +43230,10 @@
   "ZhangNingPonyAI": {
     "title": "张宁 / Zhang Ning (Pony.ai)",
     "url": "/wiki/entities/zhangningponyai/"
+  },
+  "ZhangPingHan": {
+    "title": "张平 / Zhang Ping",
+    "url": "/wiki/entities/zhangpinghan/"
   },
   "ZhangQi": {
     "title": "Zhang Qi / 张奇",
@@ -43694,6 +43722,10 @@
   "ZhuNing": {
     "title": "朱宁 / Zhu Ning",
     "url": "/wiki/entities/zhuning/"
+  },
+  "ZhuXi": {
+    "title": "朱熹 / Zhu Xi",
+    "url": "/wiki/entities/zhuxi/"
   },
   "ZhuXiaodongSportsRights": {
     "title": "朱晓东 / Zhu Xiaodong",
@@ -46798,5 +46830,9 @@
   "zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p": {
     "title": "《资治通鉴·周纪》25丨赵良对商鞅说：你不配",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p/"
+  },
+  "zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn": {
+    "title": "《资治通鉴·周纪》26丨孟子来了！",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn/"
   }
 }

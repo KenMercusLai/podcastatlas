@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》26丨孟子来了！](sources/zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn.md) — 芮淇讲透资治通鉴 episode moving from Shen Buhai's death and the Han Zhang-family line to Song's unresolved Taiqiu She omen and Mencius's opening exchange with Wei Hui Wang over renyi, benefit, and Sima Guang's Song-era interpretation.
 - [《资治通鉴·周纪》25丨赵良对商鞅说：你不配](sources/zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p.md) — 芮淇讲透资治通鉴 episode completing Zhao Liang's rebuke of Shang Yang through the Baili Xi comparison, direct-remonstrance etiquette, popular support as political security, the 危若朝露 warning, and Shiji's doubtful retirement route.
 - [《资治通鉴·周纪》24丨商鞅曰：我咋裂了](sources/zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut.md) — 芮淇讲透资治通鉴 episode on Shang Yang's death as a no-safe-exit problem, Zhao Liang's warning, the Baili Xi comparison, Cao Cao as analogy, and the political stakes of Shiji versus Zizhi Tongjian wording.
 - [《资治通鉴·周纪》23丨魏惠王 悔不用公叔之言](sources/zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf.md) — 芮淇讲透资治通鉴 episode on Qin breaking Wei after Gongzi Ang's capture, Wei ceding Hexi and moving to Daliang, Shang Yang's tactical credibility cost, Qin Xiao Gong's death, and Shang Yang's 作法自毙 downfall.
@@ -1030,6 +1031,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张开地 / Zhang Kaidi](entities/ZhangKaidi.md) — Han chief minister after Shen Buhai and Zhang Liang's grandfather, used to explain Zhang-family political memory.
+- [张平 / Zhang Ping](entities/ZhangPingHan.md) — Han chief minister and Zhang Liang's father, recorded as continuing the family service line to Han.
+- [宋太丘社 / Taiqiu She](entities/TaiqiuShe.md) — unresolved Song ritual-omen notice in the 336 BCE Zizhi Tongjian chronology.
+- [《疑孟》 / Yi Meng](entities/YiMeng.md) — Sima Guang's text questioning Mencius, used by Zhouji 26 to frame Song-era Mencius reception.
+- [《论语》 / Analects](entities/Analects.md) — Confucian classic used by Zhouji 26 as a comparison for the more continuous argument style of Mencius.
+- [朱熹 / Zhu Xi](entities/ZhuXi.md) — Song scholar cited by Zhouji 26 for the authorial coherence of Mencius.
 - [尸佼 / Shi Jiao](entities/ShiJiao.md) — Shang Yang adviser who withdraws toward Chengdu after Shang Yang's death and carries the aftermath into the Shizi branch.
 - [赵良 / Zhao Liang](entities/ZhaoLiang.md) — Figure whose pre-death advice to Shang Yang is framed as a missed warning after Zizhi Tongjian's flashback.
 - [百里奚 / Baili Xi](entities/BailiXi.md) — Outsider Qin minister redeemed by Qin Mu Gong with five black ram skins and used as Shang Yang's hoped-for comparison.
@@ -6998,6 +7005,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Renyi-Benefit Ordering / 仁义优先的利益秩序](concepts/RenyiBenefitOrdering.md) — Zhouji 26 refinement that Mencius rejects profit-first ordering rather than public benefit itself.
+- [Mencius Song Reception / 宋代孟子接受史](concepts/MenciusSongReception.md) — Song intellectual-political context around Sima Guang's skepticism of Mencius and Wang Anshi's elevation of him.
 - [People-Based Political Security / 民心型政治安全](concepts/PeopleBasedPoliticalSecurity.md) — Zhao Liang's warning that popular regard and elite acceptance can become practical safety infrastructure for powerful ministers.
 - [Power Exit Trap / 权力退场困境](concepts/PowerExitTrap.md) — Pattern where disruptive success and accumulated enemies make leaving power more dangerous than staying.
 - [Textual Variant Political Stakes / 史书异文政治重量](concepts/TextualVariantPoliticalStakes.md) — Source-critical concept for wording differences that alter the political diagnosis of resentment, legitimacy, or harm.

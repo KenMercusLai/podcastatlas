@@ -2,8 +2,8 @@
 title: "孟子 / Mencius"
 type: entity
 tags: [person, philosopher, chinese-classics, pre-qin, confucianism]
-sources: [165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
-last_updated: 2026-08-06
+sources: [zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+last_updated: 2026-08-19
 ---
 
 # 孟子 / Mencius
@@ -14,6 +14,8 @@ The source places Mencius in the [[WarringStatesPeriod|战国时期]], with [[Zo
 
 [[165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646]] adds Mencius as a reference point in the show's [[RespectForEldersTradition]] branch. The episode uses "老吾老以及人之老" and the idea that 70-year-olds should be able to eat meat to connect Mencian care to elder dignity, social provision, and concern for people beyond one's own household.
 
+[[zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn]] adds Mencius's first appearance inside the [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] Zhouji sequence. The episode narrows in on his meeting with [[LiangHuiWang|魏惠王 / 梁惠王]] and argues that "何必曰利" should be read through [[RenyiBenefitOrdering|仁义优先的利益秩序]]: Mencius resists profit-first language, not the idea that renyi should benefit the people.
+
 ## Connections
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode.
 - [[MenciusText|《孟子》]] - text preserving the dialogue material used by the episode.
@@ -22,3 +24,4 @@ The source places Mencius in the [[WarringStatesPeriod|战国时期]], with [[Zo
 - [[LiangHuiWang|梁惠王]] and [[QiXuanWang|齐宣王]] - central ruler interlocutors.
 - [[EarlyConfucianResistancePolitics]], [[RighteousnessOverProfit]], [[MencianBenevolentGovernment]], [[WangdaoVsBadao]], [[ConstantPropertyConstantHeart]], and [[MencianPeopleBasedLegitimacy]] - main concept cluster.
 - [[RespectForEldersTradition]] and [[ElderCareStateCapacity]] - elder-care extension added by episode 165.
+- [[Zisi|子思]], [[SimaGuang|司马光]], [[RenyiBenefitOrdering|仁义优先的利益秩序]], and [[MenciusSongReception|宋代孟子接受史]] - Zhouji 26's renyi-benefit and Song-reception extension.

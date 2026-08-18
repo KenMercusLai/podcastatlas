@@ -2,8 +2,8 @@
 title: "《孟子》 / Mencius"
 type: entity
 tags: [book, chinese-classics, pre-qin, confucianism, political-theory]
-sources: [30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+last_updated: 2026-08-19
 ---
 
 # 《孟子》 / Mencius
@@ -16,6 +16,8 @@ The source uses the text's opening with [[LiangHuiWang|梁惠王]] to frame [[Ri
 
 [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] reaches the text from the opposite direction. It identifies the earlier Wei succession winner [[LiangHuiWang|魏罃]] as the later Liang Hui Wang whom [[Mengzi|孟子 / Mencius]] meets at the opening of the book.
 
+[[zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn]] returns to that opening as the main event in the [[ZizhiTongjian|《资治通鉴》]] chronology for 336 BCE. The episode contrasts the book's longer, more continuous argument style with [[Analects|《论语》]], cites [[ZhuXi|朱熹]] for the claim that the text's coherence suggests Mencius's own review, and uses the "梁惠王" opening to refine [[RighteousnessOverProfit|义利之辨]] into [[RenyiBenefitOrdering|仁义优先的利益秩序]].
+
 ## Connections
 - [[Mengzi|孟子 / Mencius]] - central speaker and thinker.
 - [[LiangHuiWang|梁惠王]] and [[QiXuanWang|齐宣王]] - major interlocutors emphasized by the source.
@@ -24,3 +26,4 @@ The source uses the text's opening with [[LiangHuiWang|梁惠王]] to frame [[Ri
 - [[ClassicReadingComplexity]] - broader wiki frame for rereading canonical texts beyond school labels.
 - [[WeiWenhou|魏文侯]] and [[RenhePoliticalPower]] - Zhouji 05 use of the "人和" formula.
 - [[ZhuozeBattle|浊泽之战]] and [[CoalitionSettlementFailure]] - earlier political path by which Wei Ying becomes the later Liang Hui Wang.
+- [[Analects|《论语》]], [[ZhuXi|朱熹]], [[Zisi|子思]], and [[RenyiBenefitOrdering|仁义优先的利益秩序]] - Zhouji 26 textual-comparison and renyi-benefit extension.
