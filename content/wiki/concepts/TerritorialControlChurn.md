@@ -2,7 +2,7 @@
 title: "Territorial Control Churn / 城池反复易手"
 type: concept
 tags: [warfare, state-formation, pre-qin-history, territorial-control]
-sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+sources: [zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-19
 ---
 
@@ -18,6 +18,8 @@ The concept supports the episode's broader claim that early [[WarringStatesPerio
 
 [[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] adds another compact cluster under [[ZhouXianwang|周显王]]. [[QiState|齐国]] occupies Guanjing from Wei, [[ZhaoState|赵国]] takes a Qi-built wall or fortification line, [[WeiState|魏国]] takes territory from [[SongState|宋国]], and [[QinState|秦国]] fails to take Shaoliang after Zhao sends aid. The point is repeated pressure on places, not settled control.
 
+[[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] adds another place-pressure cluster. [[Anyi|安邑]] and [[Guyang|固阳]] mark Qin's pressure on Wei, [[Handan|邯郸]] shifts from occupied Zhao capital to returned bargaining chip, and [[XianglingWarringStates|襄陵]] becomes the place where coalition pressure and Wei-Han counteraction are read through [[ZhushuJinian|《竹书纪年》]].
+
 ## Key Claims
 - City control in a high-conflict interstate system can be provisional.
 - Defection matters alongside formal conquest; local allegiance can change the map.
@@ -25,6 +27,7 @@ The concept supports the episode's broader claim that early [[WarringStatesPerio
 - A single city can become a diagnostic case for larger war tempo and state capacity.
 - Chronicle wording about captured places needs scale-reading; "many settlements" does not always mean "many major cities."
 - Short annalistic place notices can show unstable control even when the source does not provide full campaign detail.
+- A restored capital can matter as much as a seized one when territorial control becomes the currency of reconciliation.
 
 ## Connections
 - [[FushuCity|负黍]] - central source case.
@@ -34,3 +37,4 @@ The concept supports the episode's broader claim that early [[WarringStatesPerio
 - [[ZhongshanState|中山国]], [[WeiZhi|魏挚]], and [[WeiState|魏国]] - Zhouji 09 detached-territory revival case.
 - [[ZhaoState|赵国]], [[ZhaoChenghou|赵成侯]], [[WeiState|魏国]], and [[ZhouLiewang|周烈王]] - Zhouji 10 Zhao-Wei settlement-scale case.
 - [[QiState|齐国]], [[SongState|宋国]], [[QinState|秦国]], [[ZhouXianwang|周显王]], and [[EarlyWarringStatesInterstateWar]] - Zhouji 11 compact territorial notices.
+- [[Anyi|安邑]], [[Guyang|固阳]], [[Handan|邯郸]], [[XianglingWarringStates|襄陵]], and [[ZhangshuiAlliance|漳水之盟]] - Zhouji 17 pressure and restoration notices.

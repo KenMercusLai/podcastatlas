@@ -8158,3 +8158,19 @@ Ran health before lint; health scanned 11,617 wiki pages and found no empty/stub
 ## [2026-08-19] ingest | 《资治通鉴·周纪》16丨孙膑庞涓恩怨纠葛 桂陵之战
 
 Added source page for a 芮淇讲透资治通鉴 episode on Sun Bin and Pang Juan, Tian Ji horse racing, Qi's encircling-Wei rescue of Zhao at the Battle of Guiling, Han's attack on the eastern Zhou polity, and Jiang Yi's parable attacks on Zhao Xixu. Created pages for Sun Bin, Pang Juan, Tian Ji, Guiguzi, Sun Bin's Art of War, Battle of Guiling, Daliang, Handan, Eastern Zhou Polity, Western Zhou Polity, Zhao Xixu, Jiang Yi, Encircling Wei to Rescue Zhao, Tian Ji Horse Racing, Lure Enemy Out of Position, Political Parable Weaponization, Chancellor-Centered Governance, and Eastern-Western Zhou Split; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Sima Guang, Zhou Xian Wang, Zhou Royal House, Warring States Period, Qi/Wei/Zhao/Han/Chu state pages, Qi Wei Wang, Early Warring States Interstate War, Court Feedback Collapse, Allusive Remonstrance, and Historical Detective Reasoning. No direct contradiction found; the source extends the early Zhou Xian Wang branch by connecting strategic indirect pressure with royal-domain fragmentation and court-rhetoric risk.
+
+## [2026-08-19] ingest | 《资治通鉴·周纪》17丨韩昭侯和申不害
+
+Added source page for a 芮淇讲透资治通鉴 episode on Qin's attacks on Wei at Anyi and Guyang, Wei's reconciliation with Zhao and Qi under Qin pressure, Shen Buhai's service under Han Zhaohou, merit-based reward-and-punishment stories, Shang Yang's second reform round, the Qin-Wei meeting at Tong, and Zhao succession after Zhao Chenghou. Created pages for Shen Buhai, Xianyang, Guyang, Tong, Zhao Suhou, Gongzi Xie, Jing She, Warring States Xiangling, Zhangshui Alliance, Merit-Based Reward and Punishment, Household Separation Law, and Qin Administrative Standardization; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Sima Guang, Shiji, Bamboo Annals, Qin/Han/Wei/Zhao/Qi/Chu state pages, Zhou Xian Wang, Han Zhaohou, Shang Yang, Qin Xiao Gong, Liang Hui Wang, Zhao Chenghou, Qi Wei Wang, Anyi, Handan, Warring States Period, Qin Eastward Pressure, Early Warring States Interstate War, Territorial Control Churn, Shang Yang Reforms, Legalist Ruler Technique, Strategic Capital Relocation, and Warring States Reform Backlash. No direct contradiction found; the source extends the Shang Yang branch into second-round reforms and marks the Qin-Wei peace and household-separation reading as source-scoped inference.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-19] graph | Knowledge graph rebuilt
+
+11649 nodes, 129324 edges (129324 extracted, 0 inferred).
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,7 +2,7 @@
 title: "秦孝公 / Duke Xiao of Qin"
 type: entity
 tags: [person, ruler, pre-qin, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+sources: [zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
 last_updated: 2026-08-19
 ---
 
@@ -12,9 +12,12 @@ last_updated: 2026-08-19
 
 The source also shows Qin Xiao Gong choosing between incompatible reform theories. [[GanLong|甘龙]] warns that governing through old custom avoids popular alarm, while Shang Yang argues for [[ReformWithoutPopularDeliberation|reform without popular deliberation]] in pursuit of state strength. Qin Xiao Gong decides for Shang Yang and appoints him 左庶长, making the appointment a threshold in [[ShangYangReforms|商鞅变法]].
 
+[[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] keeps Qin Xiao Gong as the ruling frame for Shang Yang's second reform round. The episode focuses on [[ShangYang|公孙鞅 / 商鞅]], but the move to [[Xianyang|咸阳]], [[HouseholdSeparationLaw|分居令]], and [[QinAdministrativeStandardization|administrative standardization]] all continue the state project Qin Xiao Gong enabled.
+
 ## Connections
 - [[QinState|秦国]] - polity he rules in the episode.
 - [[ShangYang|公孙鞅 / 商鞅]] - reformer he empowers.
 - [[GanLong|甘龙]] - conservative opponent whose argument Qin Xiao Gong rejects.
 - [[YingSi|太子嬴驷]] - crown prince whose later violation of the new law tests reform authority.
 - [[ShangYangReforms]], [[ReformWithoutPopularDeliberation]], [[MilitaryMeritRankSystem]], and [[XimuLixin]] - institutional branch enabled by his support.
+- [[Xianyang|咸阳]], [[HouseholdSeparationLaw]], and [[QinAdministrativeStandardization]] - Zhouji 17 second-reform branch under his ruling frame.

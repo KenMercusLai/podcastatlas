@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》17丨韩昭侯和申不害](sources/zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof.md) — 芮淇讲透资治通鉴 episode on Qin's attacks on Anyi and Guyang, Wei's reconciliation with Zhao and Qi under Qin pressure, Shen Buhai and Han Zhaohou's merit-based reward-and-punishment stories, and Shang Yang's second reform round around Xianyang, household separation, counties, land, and measurements.
 - [《资治通鉴·周纪》16丨孙膑庞涓恩怨纠葛 桂陵之战](sources/zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr.md) — 芮淇讲透资治通鉴 episode on Sun Bin and Pang Juan, Tian Ji horse racing, encircling Wei to rescue Zhao at Guiling, Han's attack on Eastern Zhou, and Jiang Yi's parable attacks on Zhao Xixu.
 - [《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1）](sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v.md) — 芮淇讲透资治通鉴 episode on Li Ke's five tests for judging people, Wei Wenhou's chancellor choice between Wei Cheng and Di Huang, referral quality, and Wu Qi as a flawed but useful military talent.
 - [《资治通鉴·周纪》14丨齐威王 不鸣则已一鸣惊人](sources/zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv.md) — 芮淇讲透资治通鉴 episode on Qi Wei Wang's contested chronology, Chunyu Kun's allusive remonstrance, the "一鸣惊人" turnaround, Jimo/Ayi official audits, Qin pressure, Wei wall-building, Qin-Chu marriage diplomacy, and 356 BCE meeting notices.
@@ -1020,6 +1021,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [申不害 / Shen Buhai](entities/ShenBuhai.md) — Han chief minister whose Huang-Lao and xingming learning become a ruler-technique and merit-based reward case under Han Zhaohou.
+- [咸阳 / Xianyang](entities/Xianyang.md) — Qin capital selected in Shang Yang's second reform round and used by the source as durable reform geography.
+- [固阳 / Guyang](entities/Guyang.md) — Wei place surrounded by Qin under Shang Yang in 351 BCE, marking Qin eastward pressure.
+- [同地 / Tong](entities/TongWarringStates.md) — Qin-Wei meeting site in 350 BCE and future death-site marker for Shang Yang.
+- [赵肃侯 / Marquis Su of Zhao](entities/ZhaoSuhou.md) — Zhao crown prince who succeeds after Zhao Chenghou's death and Gongzi Xie's failed challenge.
+- [公子泄 / Gongzi Xie](entities/GongziXie.md) — Zhao prince who contests the 350 BCE succession, loses to Zhao Suhou, and flees to Han.
+- [景舍 / Jing She](entities/Jingshe.md) — Chu-associated figure used as Qi Wei Wang's peace channel to Wei after the Xiangling fighting.
+- [襄陵 / Xiangling](entities/XianglingWarringStates.md) — Warring States Wei place under coalition pressure, disambiguated from the Hongloumeng character 香菱.
+- [漳水之盟 / Zhangshui Alliance](entities/ZhangshuiAlliance.md) — 351 BCE Wei-Zhao reconciliation made possible by Wei returning Handan under Qin pressure.
 - [孙膑 / Sun Bin](entities/SunBin.md) — Qi strategist whose punished exile, Tian Ji horse-racing advice, and encircling-Wei plan culminate in the Battle of Guiling.
 - [庞涓 / Pang Juan](entities/PangJuan.md) — Wei general and Sun Bin's former fellow student, presented as the betrayer whose trap mutilates Sun Bin.
 - [田忌 / Tian Ji](entities/TianJi.md) — Qi general who shelters Sun Bin, wins through the horse-racing arrangement, and commands the Zhao rescue campaign.
@@ -6954,6 +6964,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Merit-Based Reward and Punishment / 因功赏罚](concepts/MeritBasedRewardPunishment.md) — Han Zhaohou and Shen Buhai governance rule that offices and even small rewards must follow visible merit rather than private favor or ruler mood.
+- [Household Separation Law / 分居令](concepts/HouseholdSeparationLaw.md) — Shang Yang second-reform rule extending Qin state order into household room-sharing and gender/in-law separation.
+- [Qin Administrative Standardization / 秦国行政标准化](concepts/QinAdministrativeStandardization.md) — Shang Yang second-reform package consolidating counties, land boundaries, land allocation, and measurement standards.
 - [Encircling Wei to Rescue Zhao / 围魏救赵](concepts/EncirclingWeiToRescueZhao.md) — Strategy of relieving an ally by threatening what the aggressor must save instead of fighting at the obvious pressure point.
 - [Tian Ji Horse Racing / 田忌赛马](concepts/TianJiHorseRacing.md) — Resource-allocation pattern where one planned loss creates two decisive wins across the larger contest.
 - [Lure Enemy Out of Position / 诱敌离位](concepts/LureEnemyOutOfPosition.md) — Tactic of drawing a formed enemy out of its strong position before striking from a prepared side.

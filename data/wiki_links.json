@@ -16579,6 +16579,10 @@
     "title": "公子彭生",
     "url": "/wiki/entities/gongzipengsheng/"
   },
+  "GongziXie": {
+    "title": "公子泄 / Gongzi Xie",
+    "url": "/wiki/entities/gongzixie/"
+  },
   "GoodCompanyGoodStock": {
     "title": "Good Company Vs Good Stock",
     "url": "/wiki/concepts/goodcompanygoodstock/"
@@ -17162,6 +17166,10 @@
   "GuyRaz": {
     "title": "Guy Raz",
     "url": "/wiki/entities/guyraz/"
+  },
+  "Guyang": {
+    "title": "固阳 / Guyang",
+    "url": "/wiki/entities/guyang/"
   },
   "GynecologicalExamDignity": {
     "title": "Gynecological Exam Dignity / 妇科检查尊严",
@@ -18478,6 +18486,10 @@
   "HouseholdSecurityRobots": {
     "title": "Household Security Robots",
     "url": "/wiki/concepts/householdsecurityrobots/"
+  },
+  "HouseholdSeparationLaw": {
+    "title": "Household Separation Law / 分居令",
+    "url": "/wiki/concepts/householdseparationlaw/"
   },
   "HouseholdTroupeStatusBoundary": {
     "title": "家班身份边界 / Household Troupe Status Boundary",
@@ -20902,6 +20914,10 @@
   "JingpiaoCreativeCeramicEcology": {
     "title": "Jingpiao Creative Ceramic Ecology / 景漂创意陶瓷生态",
     "url": "/wiki/concepts/jingpiaocreativeceramicecology/"
+  },
+  "Jingshe": {
+    "title": "景舍 / Jing She",
+    "url": "/wiki/entities/jingshe/"
   },
   "JingshenXixueguiBook": {
     "title": "《精神吸血鬼》",
@@ -25646,6 +25662,10 @@
   "MeritBasedImmigrationFilter": {
     "title": "Merit-Based Immigration Filter",
     "url": "/wiki/concepts/meritbasedimmigrationfilter/"
+  },
+  "MeritBasedRewardPunishment": {
+    "title": "Merit-Based Reward and Punishment / 因功赏罚",
+    "url": "/wiki/concepts/meritbasedrewardpunishment/"
   },
   "MeritExcellenceIntelligence": {
     "title": "Merit, Excellence, and Intelligence",
@@ -31523,6 +31543,10 @@
     "title": "Qilin Ransomware Group",
     "url": "/wiki/entities/qilinransomwaregroup/"
   },
+  "QinAdministrativeStandardization": {
+    "title": "Qin Administrative Standardization / 秦国行政标准化",
+    "url": "/wiki/concepts/qinadministrativestandardization/"
+  },
   "QinChugong": {
     "title": "秦出公 / Qin Chugong",
     "url": "/wiki/entities/qinchugong/"
@@ -34782,6 +34806,10 @@
   "Shell": {
     "title": "Shell",
     "url": "/wiki/entities/shell/"
+  },
+  "ShenBuhai": {
+    "title": "申不害 / Shen Buhai",
+    "url": "/wiki/entities/shenbuhai/"
   },
   "ShenNanpeng": {
     "title": "Shen Nanpeng",
@@ -38767,6 +38795,10 @@
     "title": "Tong Bin / 童宾",
     "url": "/wiki/entities/tongbin/"
   },
+  "TongWarringStates": {
+    "title": "同地 / Tong",
+    "url": "/wiki/entities/tongwarringstates/"
+  },
   "TongchengTravel": {
     "title": "Tongcheng Travel",
     "url": "/wiki/entities/tongchengtravel/"
@@ -41867,9 +41899,17 @@
     "title": "香菱 / Xiangling",
     "url": "/wiki/entities/xiangling/"
   },
+  "XianglingWarringStates": {
+    "title": "襄陵 / Xiangling",
+    "url": "/wiki/entities/xianglingwarringstates/"
+  },
   "XiangruiBook": {
     "title": "《祥瑞》",
     "url": "/wiki/entities/xiangruibook/"
+  },
+  "Xianyang": {
+    "title": "咸阳 / Xianyang",
+    "url": "/wiki/entities/xianyang/"
   },
   "XiaoAoJiangHu": {
     "title": "《笑傲江湖》",
@@ -43119,6 +43159,10 @@
     "title": "Zhangmen One-on-One",
     "url": "/wiki/entities/zhangmenoneonone/"
   },
+  "ZhangshuiAlliance": {
+    "title": "漳水之盟 / Zhangshui Alliance",
+    "url": "/wiki/entities/zhangshuialliance/"
+  },
   "Zhanguoce": {
     "title": "《战国策》 / Zhanguo Ce",
     "url": "/wiki/entities/zhanguoce/"
@@ -43194,6 +43238,10 @@
   "ZhaoState": {
     "title": "赵国 / Zhao State",
     "url": "/wiki/entities/zhaostate/"
+  },
+  "ZhaoSuhou": {
+    "title": "赵肃侯 / Marquis Su of Zhao",
+    "url": "/wiki/entities/zhaosuhou/"
   },
   "ZhaoTingmei": {
     "title": "赵廷美 / Zhao Tingmei",
@@ -46542,5 +46590,9 @@
   "zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr": {
     "title": "《资治通鉴·周纪》16丨孙膑庞涓恩怨纠葛 桂陵之战",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr/"
+  },
+  "zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof": {
+    "title": "《资治通鉴·周纪》17丨韩昭侯和申不害",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof/"
   }
 }

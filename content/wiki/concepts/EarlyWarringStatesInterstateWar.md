@@ -2,7 +2,7 @@
 title: "Early Warring States Interstate War / 战国早期诸侯混战"
 type: concept
 tags: [warfare, diplomacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -20,6 +20,8 @@ The point is not a single clean campaign. The episode explicitly says the dates 
 
 [[zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]] adds the 353 BCE rescue-intervention pattern through [[GuilingBattle|桂陵之战]]. [[QiState|齐国]] assists [[ZhaoState|赵国]] against [[WeiState|魏国]] by attacking [[Daliang|大梁]] rather than rushing to [[Handan|邯郸]], while [[HanState|韩国]]'s attack on [[EasternZhouPolity|东周国]] shows opportunistic pressure reaching the fragmented Zhou royal domain.
 
+[[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] adds the reconciliation side of the same war field. Qin's pressure on [[Anyi|安邑]] and [[Guyang|固阳]] pushes [[WeiState|魏国]] to return [[Handan|邯郸]] and ally with [[ZhaoState|赵国]] at [[ZhangshuiAlliance|漳水]], while the [[XianglingWarringStates|襄陵]] fighting and Qi peace-seeking through [[Jingshe|景舍]] show that battlefield outcomes quickly become diplomatic adjustments.
+
 ## Key Claims
 - Early Warring States war is multi-actor and opportunistic rather than a simple two-sided conflict.
 - An intervention can be both assistance and predation.
@@ -30,6 +32,7 @@ The point is not a single clean campaign. The episode explicitly says the dates 
 - Qin's rise changes the conflict field by pressuring Three Jin states that are still competing with one another.
 - Meeting notices are part of the war pattern because states coordinate, test, and rebalance while fighting continues.
 - Indirect rescue can be a war-shaping intervention: helping an ally may depend on threatening the aggressor's must-save point rather than meeting the battlefield head-on.
+- Reconciliation can be part of interstate war: a pressured state may reduce enemies on one front because another front has become more dangerous.
 
 ## Connections
 - [[QiState|齐国]], [[YanState|燕国]], [[HanState|韩国]], [[ZhaoState|赵国]], [[WeiState|魏国]], and [[ChuState|楚国]] - major participants in the source's account.
@@ -41,3 +44,4 @@ The point is not a single clean campaign. The episode explicitly says the dates 
 - [[ZhouXianwang|周显王]], [[QinState|秦国]], [[QinEastwardPressure]], [[ShimenBattle|石门之战]], and [[SongState|宋国]] - Zhouji 11 early reign war cluster.
 - [[HanZhaohou|韩昭侯]], [[YanState|燕国]], [[SongState|宋国]], and [[QiWeiwang|齐威王]] - Zhouji 14 meeting and Qi-recovery branch.
 - [[SunBin|孙膑]], [[TianJi|田忌]], [[GuilingBattle|桂陵之战]], [[EncirclingWeiToRescueZhao]], [[Daliang|大梁]], [[Handan|邯郸]], and [[EasternZhouPolity|东周国]] - Zhouji 16 indirect rescue and royal-fragment pressure branch.
+- [[Anyi|安邑]], [[Guyang|固阳]], [[ZhangshuiAlliance|漳水之盟]], [[XianglingWarringStates|襄陵]], and [[Jingshe|景舍]] - Zhouji 17 pressure, reconciliation, and peace-seeking branch.

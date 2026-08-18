@@ -2,13 +2,15 @@
 title: "秦国 / Qin State"
 type: entity
 tags: [state, pre-qin, china]
-sources: [zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+sources: [zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-19
 ---
 
 # 秦国 / Qin State
 
 [[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]] adds Qin's institutional reform branch under [[QinXiaogong|秦孝公]]. [[ShangYang|公孙鞅 / 商鞅]] receives the ruler's backing, defeats [[GanLong|甘龙]]'s custom-based objection, and begins [[ShangYangReforms|商鞅变法]] through household registration, mutual surveillance, agricultural incentives, severe punishment, [[MilitaryMeritRankSystem|军功爵制]], and [[XimuLixin|徙木立信]]. The episode turns Qin from a rising military pressure into a state remaking its social order for war and control.
+
+[[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] gives Qin the next paired military and administrative turn. Qin under [[ShangYang|公孙鞅 / 商鞅]] presses Wei at [[Anyi|安邑]] and [[Guyang|固阳]], pushing Wei toward the [[ZhangshuiAlliance|漳水之盟]] with Zhao and accommodation with Qi. In 350 BCE the same reform branch moves Qin's capital to [[Xianyang|咸阳]], enforces [[HouseholdSeparationLaw|分居令]], and expands [[QinAdministrativeStandardization|county, land, and measurement standardization]].
 
 秦国 / Qin State appears in [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] through [[QinYing|秦嬴]], whom the episode explains as a Qin princess by name pattern rather than as someone surnamed Qin. The source also uses Qin-Jin intermarriage to explain the idiom "秦晋之好."
 
@@ -28,6 +30,7 @@ This page is source-scoped and mainly supports the episode's kinship and assassi
 - [[QinYing|秦嬴]] - Qin princess in the source's explanation.
 - [[QinXiaogong|秦孝公]], [[ShangYang|公孙鞅 / 商鞅]], [[GanLong|甘龙]], and [[YingSi|太子嬴驷]] - Zhouji 13 reform actors.
 - [[ShangYangReforms]], [[ReformWithoutPopularDeliberation]], [[MilitaryMeritRankSystem]], [[XimuLixin]], and [[CollateralPunishmentAndGuiltByAssociation]] - Qin reform mechanisms.
+- [[Anyi|安邑]], [[Guyang|固阳]], [[Xianyang|咸阳]], [[HouseholdSeparationLaw]], [[QinAdministrativeStandardization]], and [[ZhangshuiAlliance|漳水之盟]] - Zhouji 17 Qin pressure and second reform branch.
 - [[JinState|晋国]] - marriage-alliance counterpart.
 - [[QinShiHuang|秦始皇]] - existing later Qin page in the wiki.
 - [[QinJianGong|秦简公]], [[QinHuiGong|秦惠公]], and [[WeiState|魏国]] - episode 07 succession and war branch.

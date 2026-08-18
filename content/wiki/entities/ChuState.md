@@ -2,7 +2,7 @@
 title: "楚国 / Chu State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -24,6 +24,8 @@ The episode says Chu Sheng Wang was killed by "bandits," then treats that wordin
 
 [[zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]] adds Chu's chancellor branch. The ruler appoints [[ZhaoXixu|昭奚恤]] as chancellor, and [[JiangYi|江乙]] then uses stories against him, making Chu a court-rhetoric case through [[ChancellorCenteredGovernance]] and [[PoliticalParableWeaponization]].
 
+[[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] adds [[Jingshe|景舍]] as a Chu-associated channel in a Wei-Qi peace notice from [[ZhushuJinian|《竹书纪年》]]. The episode does not develop Chu policy here; it uses Jing She to show how diplomacy around [[XianglingWarringStates|襄陵]] can route through a third-party figure.
+
 ## Connections
 - [[ChuShengWang|楚声王]] and [[ChuDaoWang|楚悼王]] - ruler pair in the source.
 - [[BanditAssassinationAttribution]] - concept attached to Chu Sheng Wang's death.
@@ -34,3 +36,4 @@ The episode says Chu Sheng Wang was killed by "bandits," then treats that wordin
 - [[ChuXuanwang|楚宣王]], [[ZhouLiewang|周烈王]], and [[WeiState|魏国]] - Zhouji 10 part 2 attack and succession notice.
 - [[YouyinHei|右尹黑]], [[QinState|秦国]], [[ChuXuanwang|楚宣王]], and [[WarringStatesMarriageDiplomacy]] - Zhouji 14 Qin-Chu marriage notice.
 - [[ZhaoXixu|昭奚恤]], [[JiangYi|江乙]], [[ChancellorCenteredGovernance]], and [[PoliticalParableWeaponization]] - Zhouji 16 chancellor and parable-politics branch.
+- [[Jingshe|景舍]], [[QiWeiwang|齐威王]], [[WeiState|魏国]], and [[XianglingWarringStates|襄陵]] - Zhouji 17 third-party peace channel.

@@ -2,7 +2,7 @@
 title: "齐国 / Qi State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -28,6 +28,8 @@ The page also gives a home to existing Qi-related pre-Qin nodes such as [[QiHuan
 
 [[zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]] adds Qi's Sun Bin branch. A Qi envoy secretly brings [[SunBin|孙膑]] out of [[WeiState|魏国]], [[TianJi|田忌]] shelters him, and [[QiWeiwang|齐威王]] uses Tian Ji and Sun Bin to rescue [[ZhaoState|赵国]] through [[EncirclingWeiToRescueZhao|围魏救赵]] and [[GuilingBattle|桂陵之战]].
 
+[[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] adds a post-Guiling peace-seeking layer through [[ZhushuJinian|《竹书纪年》]]. After [[LiangHuiWang|魏惠王]] uses Han forces to defeat a coalition at [[XianglingWarringStates|襄陵]], [[QiWeiwang|齐威王]] seeks peace with Wei through [[Jingshe|景舍]]. The episode treats the move as part of a wider rebalancing under [[QinEastwardPressure|Qin pressure]].
+
 ## Connections
 - [[SimaRangju|司马穰苴]], [[YanYing|晏婴]], and [[QiJinggong|齐景公]] - source-specific Qi branch.
 - [[QiHuanGong|齐桓公]] and [[QiXuanWang|齐宣王]] - existing Qi-related wiki pages.
@@ -40,3 +42,4 @@ The page also gives a home to existing Qi-related pre-Qin nodes such as [[QiHuan
 - [[WeiState|魏国]], [[ZhaoState|赵国]], [[ZhouXianwang|周显王]], [[EarlyWarringStatesInterstateWar]], and [[TerritorialControlChurn]] - Zhouji 11 opportunistic attack and counterattack branch.
 - [[ChunyuKun|淳于髡]], [[ChenLiao|陈聊]], [[AllusiveRemonstrance]], [[QiChronologyDispute]], and [[QiWeiwangPoliticalTurnaround]] - Zhouji 14 chronology, remonstrance, and recovery branch.
 - [[SunBin|孙膑]], [[TianJi|田忌]], [[TianJiHorseRacing]], [[EncirclingWeiToRescueZhao]], and [[GuilingBattle|桂陵之战]] - Zhouji 16 Sun Bin and rescue-Zhao branch.
+- [[QiWeiwang|齐威王]], [[Jingshe|景舍]], [[XianglingWarringStates|襄陵]], [[WeiState|魏国]], and [[QinEastwardPressure]] - Zhouji 17 peace-seeking and pressure branch.

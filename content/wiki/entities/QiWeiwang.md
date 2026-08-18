@@ -2,7 +2,7 @@
 title: "齐威王 / King Wei of Qi"
 type: entity
 tags: [person, ruler, pre-qin, qi-state, warring-states]
-sources: [zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -18,6 +18,8 @@ The same source retells the "一鸣惊人" narrative. Qi Wei Wang neglects gover
 
 [[zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]] adds his role as a user of strategic talent. Qi Wei Wang asks [[SunBin|孙膑]] how to break a battlefield stalemate, initially considers making him commander for the Zhao rescue, and then accepts the arrangement in which [[TianJi|田忌]] commands while Sun Bin advises the [[EncirclingWeiToRescueZhao|围魏救赵]] campaign.
 
+[[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] adds a diplomatic aftermath through [[ZhushuJinian|《竹书纪年》]]. After [[LiangHuiWang|魏惠王]] uses Han forces to defeat a coalition at [[XianglingWarringStates|襄陵]], Qi Wei Wang seeks peace with Wei through [[Jingshe|景舍]].
+
 This page is deliberately source-scoped. It keeps the episode's "齐威王" story visible while marking its own [[ChronicleChronologyDrift|chronology drift]] warning and connecting it to the earlier [[TianYingqi|田英齐]] Tian-family succession branch without forcing a clean timeline.
 
 ## Connections
@@ -28,3 +30,4 @@ This page is deliberately source-scoped. It keeps the episode's "齐威王" stor
 - [[ChunyuKun|淳于髡]], [[ChenLiao|陈聊]], [[AllusiveRemonstrance]], and [[QiWeiwangPoliticalTurnaround]] - Zhouji 14 remonstrance and turnaround branch.
 - [[QiChronologyDispute]], [[ChronicleChronologyDrift]], and [[ChronicleSourceGaps]] - historiographical caution around the date.
 - [[SunBin|孙膑]], [[TianJi|田忌]], [[LureEnemyOutOfPosition]], [[EncirclingWeiToRescueZhao]], and [[GuilingBattle|桂陵之战]] - Zhouji 16 military-talent and rescue campaign branch.
+- [[LiangHuiWang|魏惠王]], [[XianglingWarringStates|襄陵]], [[Jingshe|景舍]], and [[ZhushuJinian|《竹书纪年》]] - Zhouji 17 peace-seeking branch.
