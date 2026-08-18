@@ -2,7 +2,7 @@
 title: "秦孝公 / Duke Xiao of Qin"
 type: entity
 tags: [person, ruler, pre-qin, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+sources: [zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
 last_updated: 2026-08-19
 ---
 
@@ -14,6 +14,8 @@ The source also shows Qin Xiao Gong choosing between incompatible reform theorie
 
 [[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] keeps Qin Xiao Gong as the ruling frame for Shang Yang's second reform round. The episode focuses on [[ShangYang|公孙鞅 / 商鞅]], but the move to [[Xianyang|咸阳]], [[HouseholdSeparationLaw|分居令]], and [[QinAdministrativeStandardization|administrative standardization]] all continue the state project Qin Xiao Gong enabled.
 
+[[zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]] gives Qin Xiao Gong a formal-status turn. The source reads "王致伯于秦" as [[ZhouHegemonRecognition|Zhou recognition]] that makes him senior among the lords, while noting that he sends [[GongziShaoguan|公子少官]] with troops to [[Fengze|逢泽]] rather than attending the ceremony himself.
+
 ## Connections
 - [[QinState|秦国]] - polity he rules in the episode.
 - [[ShangYang|公孙鞅 / 商鞅]] - reformer he empowers.
@@ -21,3 +23,4 @@ The source also shows Qin Xiao Gong choosing between incompatible reform theorie
 - [[YingSi|太子嬴驷]] - crown prince whose later violation of the new law tests reform authority.
 - [[ShangYangReforms]], [[ReformWithoutPopularDeliberation]], [[MilitaryMeritRankSystem]], and [[XimuLixin]] - institutional branch enabled by his support.
 - [[Xianyang|咸阳]], [[HouseholdSeparationLaw]], and [[QinAdministrativeStandardization]] - Zhouji 17 second-reform branch under his ruling frame.
+- [[PollTax|人头税]], [[ZhouHegemonRecognition]], [[GongziShaoguan|公子少官]], and [[Fengze|逢泽]] - Zhouji 18 fiscal and hegemon-recognition branch.

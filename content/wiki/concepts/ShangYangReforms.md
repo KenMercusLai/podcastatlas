@@ -2,7 +2,7 @@
 title: "Shang Yang Reforms / 商鞅变法"
 type: concept
 tags: [statecraft, reform, legalism, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+sources: [zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
 last_updated: 2026-08-19
 ---
 
@@ -14,6 +14,8 @@ The reform's political logic is severe. Shang Yang argues that a ruler seeking g
 
 [[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] adds the second reform round in 350 BCE. The reforms now move from initial coercive credibility and rank design into capital geography, household space, county administration, land boundaries, and standard measures: Qin moves to [[Xianyang|咸阳]], enforces [[HouseholdSeparationLaw|分居令]], and consolidates [[QinAdministrativeStandardization|county, land, and measurement standards]].
 
+[[zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]] adds a fiscal sequel in 348 BCE. Because the previous land reforms made the older one-tenth tax unsuitable, [[ShangYang|公孙鞅 / 商鞅]] changes the tax system; the host reads this as likely creating [[PollTax|人头税]], bringing Qin's reform logic from fields and households down to the individual person.
+
 ## Key Claims
 - Reform authority depends first on ruler backing, not on broad consensus.
 - Household grouping and mutual liability pull ordinary families into state enforcement.
@@ -22,6 +24,7 @@ The reform's political logic is severe. Shang Yang argues that a ruler seeking g
 - [[XimuLixin|徙木立信]] shows that credibility can be engineered through a public reward before coercive rules are enforced.
 - [[YingSi|太子嬴驷]]'s lawbreaking turns the reforms into a test of whether law reaches high-status insiders.
 - The second reform round extends state-building into capital location, domestic living arrangements, counties, land allocation, and standardized measures.
+- The fiscal reform extends the same state-building logic into person-based taxation, though the "first poll tax" reading remains source-scoped.
 
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[GanLong|甘龙]], and [[YingSi|太子嬴驷]] - source actors.
@@ -29,4 +32,5 @@ The reform's political logic is severe. Shang Yang argues that a ruler seeking g
 - [[ReformWithoutPopularDeliberation]], [[LegalistRulerTechnique]], and [[WarringStatesReformBacklash]] - political logic and danger.
 - [[CollateralPunishmentAndGuiltByAssociation]], [[MilitaryMeritRankSystem]], and [[XimuLixin]] - concrete institutional mechanisms.
 - [[Xianyang|咸阳]], [[StrategicCapitalRelocation]], [[HouseholdSeparationLaw]], and [[QinAdministrativeStandardization]] - Zhouji 17 second-reform extension.
+- [[PollTax|人头税]] - Zhouji 18 fiscal extension.
 - [[WangYangming|王阳明]] and [[WangAnshi|王安石]] - later analogy and reception branch in the episode.

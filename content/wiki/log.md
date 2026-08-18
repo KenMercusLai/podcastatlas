@@ -8131,6 +8131,10 @@ Added source page for a 芮淇讲透资治通鉴 episode opening Zhouji 11 and Z
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》18丨中国历史上第一例人头税
+
+Added source page for a 芮淇讲透资治通鉴 episode on 349-343 BCE under Zhou Xian Wang, covering Shang Yang's likely poll-tax reform, Zhao Fan's failed surprise attack on Handan, the 伐/侵/袭 terminology distinction, Qi/Lu/Wey compact notices, "诸侯会于京师" as a sign of Zhou royal marginalization, and Zhou recognition of Qin Xiao Gong's hegemon status through the Fengze meeting. Created pages for Poll Tax, Military Action Terminology, Audience-Versus-Meeting Diplomacy, Zhou Hegemon Recognition, Zhao Fan, Mou Xin, Lu Kang Gong, Lu Jing Gong, Fengze, Gongzi Shaoguan, Luoyi, and the Battle of Maling preview; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou Xian Wang, Zhou Royal House, Qin/Qin Xiao Gong/Shang Yang/Shang Yang Reforms, Zhao/Zhao Suhou/Handan, Qi/Lu/Wey state pages, Warring States Period, Qin Eastward Pressure, Early Warring States Interstate War, Ritual Recognition of Military Power, and related legitimacy/fiscal branches. No direct contradiction found; the poll-tax and Fengze-location claims remain source-scoped inferences.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（1）
 
 Added source page for a 芮淇讲透资治通鉴 episode on Li Ke's five situational tests for judging people, Wei Wenhou's choice between Wei Cheng and Di Huang as chancellor, the difference between referral count and referral quality, and Wu Qi as a flawed but militarily valuable talent. Created pages for Li Ke, Wei Cheng, Di Huang, Qu Houfu, Ximen Bao, Le Yang, Situational Character Tests, and Talent Referral Quality; updated overview, index, Wei Wenhou, Wu Qi, Wei State, Zi Xia, Tian Zifang, Duan Ganmu, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Warring States Period, Sima Guang, Talent Attraction Through Respect, Talent-Virtue Distinction, Use Strengths Over Faults, and Legalist Ruler Technique. No direct contradiction found; the source fills in part 1 of the chancellor-selection story that the existing part 2 page had kept as bridge/title material.
@@ -8170,6 +8174,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] graph | Knowledge graph rebuilt
 
 11649 nodes, 129324 edges (129324 extracted, 0 inferred).
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-19] lint | Wiki health check
 

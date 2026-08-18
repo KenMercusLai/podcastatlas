@@ -2,7 +2,7 @@
 title: "周王室 / Zhou Royal House"
 type: entity
 tags: [polity, pre-qin, zhou-dynasty, china]
-sources: [zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+sources: [zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-19
 ---
 
@@ -26,6 +26,8 @@ The page's role is chronological and legitimating: even as the episode moves thr
 
 [[zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]] adds the royal house's internal contraction. The episode explains [[HanState|韩国]]'s attack on [[EasternZhouPolity|东周国]] by saying the old Zhou domain had shrunk to a few towns and split into [[EasternWesternZhouSplit|east and west Zhou polities]].
 
+[[zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]] adds a paired decline-and-recognition case. In 344 BCE the lords gather at [[Luoyi|洛邑]] but the source reads the wording as [[AudienceVsMeetingDiplomacy|meeting rather than true royal audience]]; in 343 BCE the king still performs [[ZhouHegemonRecognition|hegemon recognition]] by elevating [[QinXiaogong|秦孝公]] through the [[Fengze|逢泽]] meeting sequence.
+
 ## Connections
 - [[ZhouWeilieWang|周威烈王]] and [[ZhouAnWang|周安王]] - succession pair in the source.
 - [[ThreeJinVassalRecognition|三晋受封]], [[PartitionOfJin]], [[WeiWenhou|魏文侯]], [[ZhaoLiehou|赵烈侯]], and [[HanJinghou|韩景侯]] - Zhouji 04 formal-recognition branch.
@@ -38,3 +40,4 @@ The page's role is chronological and legitimating: even as the episode moves thr
 - [[TaishiDan|太史旦]], [[Shiji|《史记》]], [[QinState|秦国]], [[QinXianGong|秦献公]], and [[KinshipLegitimacyDiplomacy]] - Zhouji 10 Qin outreach branch.
 - [[ZhouXianwang|周显王]], [[ShimenBattle|石门之战]], [[FufuRobe|黻服]], [[TwelveInsigniaPoliticalSymbolism|十二华章政治象征]], and [[RitualRecognitionOfMilitaryPower]] - Zhouji 11 ritual-recognition branch.
 - [[EasternZhouPolity|东周国]], [[WesternZhouPolity|西周国]], [[EasternWesternZhouSplit]], and [[HanState|韩国]] - Zhouji 16 royal-domain split and attack branch.
+- [[Luoyi|洛邑]], [[AudienceVsMeetingDiplomacy]], [[QinXiaogong|秦孝公]], [[Fengze|逢泽]], and [[ZhouHegemonRecognition]] - Zhouji 18 royal meeting and recognition branch.

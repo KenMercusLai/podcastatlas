@@ -2,7 +2,7 @@
 title: "赵国 / Zhao State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -34,6 +34,8 @@ The page is source-scoped. Zhao's wiki role here is to anchor the episode's clai
 
 [[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] adds Zhao's post-Handan repair and next succession problem. [[WeiState|魏国]] returns [[Handan|邯郸]] and joins Zhao in the [[ZhangshuiAlliance|漳水之盟]] because [[QinState|秦国]] has become the stronger shared threat. The source then records [[ZhaoChenghou|赵成侯]]'s death, [[GongziXie|公子泄]]'s failed challenge, and the crown prince's accession as [[ZhaoSuhou|赵肃侯]].
 
+[[zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]] adds the next aftershock of Zhao's succession disorder. In 347 BCE [[ZhaoFan|赵范]] attacks [[Handan|邯郸]] by surprise, fails, and is killed. The source treats the "袭" wording as [[MilitaryActionTerminology|evidence of a surprise attack]] aimed at the newly established [[ZhaoSuhou|赵肃侯]].
+
 ## Connections
 - [[ZhaoLiehou|赵烈侯]] and [[ZhaoWuhou|赵武侯]] - succession pair in the source.
 - [[ZhaoXiangzi|赵襄子]], [[YuRang|豫让]], [[DaiState|代国]], [[ZhaoHuanzi|赵桓子]], and [[ZhaoXianzi|赵献子]] - Zhouji 04 pre-recognition and succession branch.
@@ -50,3 +52,4 @@ The page is source-scoped. Zhao's wiki role here is to anchor the episode's clai
 - [[YanState|燕国]], [[SongState|宋国]], [[QiState|齐国]], and [[EarlyWarringStatesInterstateWar]] - Zhouji 14 meeting cluster.
 - [[Handan|邯郸]], [[SunBin|孙膑]], [[TianJi|田忌]], [[GuilingBattle|桂陵之战]], and [[EncirclingWeiToRescueZhao]] - Zhouji 16 Wei siege and Qi rescue branch.
 - [[ZhangshuiAlliance|漳水之盟]], [[QinEastwardPressure]], [[ZhaoChenghou|赵成侯]], [[ZhaoSuhou|赵肃侯]], and [[GongziXie|公子泄]] - Zhouji 17 reconciliation and succession branch.
+- [[ZhaoFan|赵范]], [[Handan|邯郸]], and [[MilitaryActionTerminology]] - Zhouji 18 failed surprise-attack branch.

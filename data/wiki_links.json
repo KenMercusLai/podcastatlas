@@ -4767,6 +4767,10 @@
     "title": "Audi",
     "url": "/wiki/entities/audi/"
   },
+  "AudienceVsMeetingDiplomacy": {
+    "title": "Audience-Versus-Meeting Diplomacy / 朝会之别",
+    "url": "/wiki/concepts/audiencevsmeetingdiplomacy/"
+  },
   "AuditOpinionRisk": {
     "title": "Audit Opinion Risk",
     "url": "/wiki/concepts/auditopinionrisk/"
@@ -14331,6 +14335,10 @@
     "title": "丰业娱乐 / Fengye Entertainment",
     "url": "/wiki/entities/fengyeentertainment/"
   },
+  "Fengze": {
+    "title": "逢泽 / Fengze",
+    "url": "/wiki/entities/fengze/"
+  },
   "FenwaySportsGroup": {
     "title": "Fenway Sports Group",
     "url": "/wiki/entities/fenwaysportsgroup/"
@@ -16578,6 +16586,10 @@
   "GongziPengsheng": {
     "title": "公子彭生",
     "url": "/wiki/entities/gongzipengsheng/"
+  },
+  "GongziShaoguan": {
+    "title": "公子少官 / Gongzi Shaoguan",
+    "url": "/wiki/entities/gongzishaoguan/"
   },
   "GongziXie": {
     "title": "公子泄 / Gongzi Xie",
@@ -23991,6 +24003,14 @@
     "title": "鲁共公 / Duke Gong of Lu",
     "url": "/wiki/entities/lugonggong/"
   },
+  "LuJinggong": {
+    "title": "鲁景公 / Duke Jing of Lu",
+    "url": "/wiki/entities/lujinggong/"
+  },
+  "LuKanggong": {
+    "title": "鲁康公 / Duke Kang of Lu",
+    "url": "/wiki/entities/lukanggong/"
+  },
   "LuLiuliang": {
     "title": "吕留良 / Lu Liuliang",
     "url": "/wiki/entities/luliuliang/"
@@ -24138,6 +24158,10 @@
   "LuojiSiwei": {
     "title": "罗辑思维",
     "url": "/wiki/entities/luojisiwei/"
+  },
+  "Luoyi": {
+    "title": "洛邑 / Luoyi",
+    "url": "/wiki/entities/luoyi/"
   },
   "LureEnemyOutOfPosition": {
     "title": "Lure Enemy Out of Position / 诱敌离位",
@@ -24506,6 +24530,10 @@
   "MaliciousProxyNetworks": {
     "title": "Malicious Proxy Networks",
     "url": "/wiki/concepts/maliciousproxynetworks/"
+  },
+  "MalingBattle": {
+    "title": "马陵之战 / Battle of Maling",
+    "url": "/wiki/entities/malingbattle/"
   },
   "MallBasedRetailExpansion": {
     "title": "Mall Based Retail Expansion",
@@ -26003,6 +26031,10 @@
     "title": "Milieu-Specific Analysis",
     "url": "/wiki/concepts/milieuspecificanalysis/"
   },
+  "MilitaryActionTerminology": {
+    "title": "Military Action Terminology / 伐侵袭用语",
+    "url": "/wiki/concepts/militaryactionterminology/"
+  },
   "MilitaryBaseSovereignty": {
     "title": "Military Base Sovereignty",
     "url": "/wiki/concepts/militarybasesovereignty/"
@@ -26670,6 +26702,10 @@
   "Motorola": {
     "title": "Motorola",
     "url": "/wiki/entities/motorola/"
+  },
+  "MouXin": {
+    "title": "牟辛 / Mou Xin",
+    "url": "/wiki/entities/mouxin/"
   },
   "MouYiling": {
     "title": "牟一凌 / Mou Yiling",
@@ -30386,6 +30422,10 @@
   "PoliticalVetoPointBargaining": {
     "title": "Political Veto-Point Bargaining",
     "url": "/wiki/concepts/politicalvetopointbargaining/"
+  },
+  "PollTax": {
+    "title": "Poll Tax / 人头税",
+    "url": "/wiki/concepts/polltax/"
   },
   "PollenAsHistoricalObject": {
     "title": "Pollen As Historical Object",
@@ -43195,6 +43235,10 @@
     "title": "Zhao Dongping / 赵东平",
     "url": "/wiki/entities/zhaodongping/"
   },
+  "ZhaoFan": {
+    "title": "赵范 / Zhao Fan",
+    "url": "/wiki/entities/zhaofan/"
+  },
   "ZhaoGuangyi": {
     "title": "赵光义 / Song Taizong",
     "url": "/wiki/entities/zhaoguangyi/"
@@ -43430,6 +43474,10 @@
   "ZhouHaoTencent": {
     "title": "Zhou Hao / 周颢",
     "url": "/wiki/entities/zhouhaotencent/"
+  },
+  "ZhouHegemonRecognition": {
+    "title": "Zhou Hegemon Recognition / 周室霸权承认",
+    "url": "/wiki/concepts/zhouhegemonrecognition/"
   },
   "ZhouJiangong": {
     "title": "周建功 / Zhou Jiangong",
@@ -46594,5 +46642,9 @@
   "zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof": {
     "title": "《资治通鉴·周纪》17丨韩昭侯和申不害",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof/"
+  },
+  "zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq": {
+    "title": "《资治通鉴·周纪》18丨中国历史上第一例人头税",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq/"
   }
 }
