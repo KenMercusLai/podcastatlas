@@ -1527,6 +1527,10 @@
     "title": "AI Data Readiness",
     "url": "/wiki/concepts/aidatareadiness/"
   },
+  "AIDeepfakeParodyBoundary": {
+    "title": "AI Deepfake Parody Boundary",
+    "url": "/wiki/concepts/aideepfakeparodyboundary/"
+  },
   "AIDefaultLearningEnvironment": {
     "title": "AI Default Learning Environment",
     "url": "/wiki/concepts/aidefaultlearningenvironment/"
@@ -7447,9 +7451,17 @@
     "title": "岑参 / Cen Shen",
     "url": "/wiki/entities/censhen/"
   },
+  "CensorshipIndustrialComplex": {
+    "title": "Censorship Industrial Complex",
+    "url": "/wiki/concepts/censorshipindustrialcomplex/"
+  },
   "CenterForAIStandardsAndInnovation": {
     "title": "Center for AI Standards and Innovation",
     "url": "/wiki/entities/centerforaistandardsandinnovation/"
+  },
+  "CenterForCounteringDigitalHate": {
+    "title": "Center for Countering Digital Hate",
+    "url": "/wiki/entities/centerforcounteringdigitalhate/"
   },
   "CenterForDemocracyAndTechnology": {
     "title": "Center for Democracy and Technology",
@@ -9215,6 +9227,10 @@
     "title": "Community-Led SaaS Growth",
     "url": "/wiki/concepts/communityledsaasgrowth/"
   },
+  "CommunityNotes": {
+    "title": "Community Notes",
+    "url": "/wiki/entities/communitynotes/"
+  },
   "CommunityVsContentPlatform": {
     "title": "Community vs Content Platform / 社区与内容平台区别",
     "url": "/wiki/concepts/communityvscontentplatform/"
@@ -9986,6 +10002,10 @@
   "CrossBorderInfrastructureTradeTension": {
     "title": "Cross-Border Infrastructure Trade Tension",
     "url": "/wiki/concepts/crossborderinfrastructuretradetension/"
+  },
+  "CrossBorderPlatformSpeechRegulation": {
+    "title": "Cross-Border Platform Speech Regulation",
+    "url": "/wiki/concepts/crossborderplatformspeechregulation/"
   },
   "CrossBorderWealthManagementConnect": {
     "title": "Cross-Border Wealth Management Connect",
@@ -13234,6 +13254,10 @@
   "EuropeanUnionAIAct": {
     "title": "European Union AI Act",
     "url": "/wiki/concepts/europeanunionaiact/"
+  },
+  "EuropeanUnionDigitalServicesAct": {
+    "title": "European Union Digital Services Act",
+    "url": "/wiki/entities/europeanuniondigitalservicesact/"
   },
   "EurozoneInternalImbalance": {
     "title": "Eurozone Internal Imbalance",
@@ -18823,6 +18847,10 @@
     "title": "Indigenous Residential School Trauma",
     "url": "/wiki/concepts/indigenousresidentialschooltrauma/"
   },
+  "IndirectRegulatoryCoercion": {
+    "title": "Indirect Regulatory Coercion",
+    "url": "/wiki/concepts/indirectregulatorycoercion/"
+  },
   "IndividualItemEcommerce": {
     "title": "Individual-Item Ecommerce",
     "url": "/wiki/concepts/individualitemecommerce/"
@@ -19186,6 +19214,10 @@
   "InterleavedThinking": {
     "title": "Interleaved Thinking",
     "url": "/wiki/concepts/interleavedthinking/"
+  },
+  "IntermediarySpeechPressure": {
+    "title": "Intermediary Speech Pressure",
+    "url": "/wiki/concepts/intermediaryspeechpressure/"
   },
   "IntermittentReinforcement": {
     "title": "Intermittent Reinforcement",
@@ -26423,6 +26455,10 @@
     "title": "NPR",
     "url": "/wiki/entities/npr/"
   },
+  "NRAVullo": {
+    "title": "NRA v. Vullo",
+    "url": "/wiki/entities/nravullo/"
+  },
   "NSFInternational": {
     "title": "NSF International",
     "url": "/wiki/entities/nsfinternational/"
@@ -33151,6 +33187,10 @@
     "title": "Sapna Maheshwari",
     "url": "/wiki/entities/sapnamaheshwari/"
   },
+  "SarahBRogers": {
+    "title": "Sarah B. Rogers",
+    "url": "/wiki/entities/sarahbrogers/"
+  },
   "SarahBond": {
     "title": "Sarah Bond",
     "url": "/wiki/entities/sarahbond/"
@@ -38307,6 +38347,10 @@
     "title": "Trust-Sensitive SaaS Switching",
     "url": "/wiki/concepts/trustsensitivesaasswitching/"
   },
+  "TrustedFlaggerSystem": {
+    "title": "Trusted Flagger System",
+    "url": "/wiki/concepts/trustedflaggersystem/"
+  },
   "TruthAPI": {
     "title": "Truth API",
     "url": "/wiki/entities/truthapi/"
@@ -38502,6 +38546,10 @@
   "UKBiobank": {
     "title": "UK Biobank",
     "url": "/wiki/entities/ukbiobank/"
+  },
+  "UKOnlineSafetyAct": {
+    "title": "UK Online Safety Act",
+    "url": "/wiki/entities/ukonlinesafetyact/"
   },
   "UNFI": {
     "title": "UNFI",
@@ -39286,6 +39334,10 @@
   "Vietnam": {
     "title": "Vietnam",
     "url": "/wiki/entities/vietnam/"
+  },
+  "ViewpointDebanking": {
+    "title": "Viewpoint Debanking",
+    "url": "/wiki/concepts/viewpointdebanking/"
   },
   "VigilanteJusticeUniversalizationRisk": {
     "title": "Vigilante Justice Universalization Risk",
@@ -42582,6 +42634,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050": {
     "title": "Supercharging a New FDA: Marty Makary on Science, Power & Patients",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360": {
+    "title": "Under Secretary of State Sarah B. Rogers on dismantling the Censorship Industrial Complex",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790": {
     "title": "Why AI will dwarf every tech revolution before it: robots, manufacturing, AR glasses from CES 2026",

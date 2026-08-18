@@ -2,11 +2,13 @@
 title: "Political Deepfake Regulation"
 type: concept
 tags: [ai, elections, deepfakes, law, regulation]
-sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]
-last_updated: 2026-08-14
+sources: [all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]
+last_updated: 2026-08-18
 ---
 
 # Political Deepfake Regulation
+
+[[all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360]] adds a skeptical free-speech branch through [[AIDeepfakeParodyBoundary]]. [[SarahBRogers|Sarah B. Rogers]] argues that fraud, defamation, child-protection, and cybercrime laws already cover many harmful AI uses, while disclosure or watermarking rules should be narrow enough not to suppress recognizable parody or lawful political speech.
 
 Political deepfake regulation is the use of election law, disclosure rules, timing bans, penalties, and constitutional limits to govern AI-generated campaign media. [[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds the concept through [[MariaCurie|Maria Curi]]'s report that 29 U.S. states have laws regulating political deepfakes in some way.
 
@@ -31,3 +33,4 @@ The source extends [[AIPoliticalAdDisclosurePatchwork]] by showing that states a
 - [[TakeItDownAct|Take It Down Act]] and [[AINonConsensualIntimateImageAbuse]] - intimate-image legal overlap.
 - [[UnitedStatesConstitution]] and [[PlatformFirstAmendmentDefense]] - constitutional speech constraints around content regulation.
 - [[ChatbotGeneratedContentLiability]] and [[Section230]] - unresolved AI-tool and platform-liability branch.
+- [[SarahBRogers|Sarah B. Rogers]], [[AIDeepfakeParodyBoundary]], [[AIContentProvenance]], and [[HumanJudgmentUnderAI]] - All-In branch on existing law, parody, and narrow disclosure.

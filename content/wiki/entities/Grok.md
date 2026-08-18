@@ -2,11 +2,13 @@
 title: "Grok"
 type: entity
 tags: [ai, model, xai, musk]
-sources: [e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668, tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
-last_updated: 2026-08-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668, tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
+last_updated: 2026-08-18
 ---
 
 # Grok
+
+[[all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360]] adds a fact-checking use case for Grok inside [[Twitter|X]]. The hosts describe users asking Grok what is true, placing it beside [[CommunityNotes|Community Notes]] as a user-facing alternative to regulator-imposed labels, while still acknowledging that AI answers are imperfect.
 
 [[e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668]] adds Grok through its serving infrastructure rather than its chatbot behavior. [[ShengYing|盛颖]] says her xAI work involved inference systems for Grok, making Grok a downstream product whose user experience and cost depend on [[SGLang]], [[AgentInferenceWorkload]], and [[InferenceAccelerationStack]]-style serving concerns.
 
@@ -33,3 +35,4 @@ The source's Grok thesis is explicitly forward-looking. It suggests that Grok co
 - [[SpaceX]] and [[Tesla]] — physical-world companies named as possible sources of data, use cases, and infrastructure.
 - [[WorldModels]], [[EmbodiedAI]], and [[SpaceBasedAIInfrastructure]] — future technical directions associated with the source's Grok discussion.
 - [[AIIPOValuation]] — valuation frame raised when Grok and xAI become part of SpaceX's potential public-market story.
+- [[CommunityNotes|Community Notes]], [[HumanJudgmentUnderAI]], and [[CensorshipIndustrialComplex]] - fact-checking and counterspeech context added by the Rogers episode.

@@ -2,11 +2,13 @@
 title: "United Kingdom"
 type: entity
 tags: [country, politics, europe]
-sources: [its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0, under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, 139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, 81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209, 80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]
-last_updated: 2026-08-17
+sources: [all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0, under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, 139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, 81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209, 80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]
+last_updated: 2026-08-18
 ---
 
 # United Kingdom
+
+[[all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360]] adds the UK as a free-speech and platform-regulation case through the [[UKOnlineSafetyAct|UK Online Safety Act]]. [[SarahBRogers|Sarah B. Rogers]] says the act creates age-gating and risk-assessment obligations, while also stressing that many UK speech arrests discussed in the episode come from older statutes applied online rather than directly from the act.
 
 [[its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0]] adds a British left-populist pressure point through [[ZackPolanski]] and the [[GreenPartyOfEnglandAndWales]]. The episode treats [[EcoPopulism]] and [[YouthPrecarityPolitics]] as symptoms of voter movement away from centrist parties, while keeping the Greens' possible future [[LabourPartyUK]] coalition role as a source-scoped polling projection.
 
@@ -50,3 +52,4 @@ The source's central claim is that Britain was not instantly broken by Brexit, b
 - [[MI6]], [[OlegGordievsky]], [[OperationSunbeam]], [[OperationPimlico]], [[SpySourceProtection]], [[MargaretThatcher]], and [[ExtractionPromiseEthics]] - Cold War intelligence branch added by 蜜獾吃书 episodes 80 and 81.
 - [[ElonMusk]], [[ZannyMintonBeddoes]], [[Twitter|X]], and [[TechnoOptimismPresentThreatGap]] - contested civil-war claim added by The Intelligence.
 - [[AIBureaucracyArmsRace]], [[AIAccessToJustice]], [[PublicServiceDigitalization]], and [[ChrisSchmitz]] - AI-assisted administrative pressure branch added by the later The Intelligence source.
+- [[UKOnlineSafetyAct|UK Online Safety Act]], [[SarahBRogers|Sarah B. Rogers]], [[SocialMediaAgeGateSpeechBurden]], [[CrossBorderPlatformSpeechRegulation]], and [[PlatformFirstAmendmentDefense]] - speech-regulation branch added by All-In.

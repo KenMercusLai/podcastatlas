@@ -2,11 +2,13 @@
 title: "Social Media Age-Gate Speech Burden"
 type: concept
 tags: [social-media, age-verification, speech, privacy, child-safety]
-sources: [tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]
+last_updated: 2026-08-18
 ---
 
 # Social Media Age-Gate Speech Burden
+
+[[all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360]] adds the [[UnitedKingdom]] version through the [[UKOnlineSafetyAct|UK Online Safety Act]]. [[SarahBRogers|Sarah B. Rogers]] says the law's age-gating and risk-assessment obligations can push platforms toward restrictive access and over-removal, especially when American platforms try to serve multiple jurisdictions at once.
 
 [[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] adds an international age-ban case. [[France]]'s under-15 social-media ban and the [[Australia]] comparison show how [[SocialMediaAgeBans]] can create the same speech and privacy burden even outside the U.S. constitutional setting: users may evade the ban, while platforms may respond with identity checks that affect lawful participation and anonymity.
 
@@ -36,3 +38,4 @@ The burden is two-sided. Minors may be cut off from large communication platform
 - [[Roblox]], [[MattKaufman]], and [[PlatformAgeEstimation]] - narrower age-estimation mechanism added by Marketplace Tech Bytes.
 - [[OnlineAgeVerification]], [[AgeVerificationPatchwork]], [[DrewHarwell]], and [[Bluesky]] - adult-content, state-patchwork, and platform-access branch added by Marketplace Tech.
 - [[SocialMediaAgeBans]], [[France]], [[Australia]], and [[PlatformDefinitionConvergence]] - July 2026 international age-ban branch.
+- [[UKOnlineSafetyAct|UK Online Safety Act]], [[CrossBorderPlatformSpeechRegulation]], and [[PlatformFirstAmendmentDefense]] - UK/EU platform-regulation branch added by All-In.

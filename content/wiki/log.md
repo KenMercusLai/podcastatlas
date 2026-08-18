@@ -7786,6 +7786,10 @@ Ran lint. See lint-report.md for details.
 
 Added source page for a Data Science With Sam Coffee Chat with Sam, Effie, and Mossam on AI in experimental science. Created pages for Data Science With Sam, Sam, Effie, Mossam, Recursion Pharma, Experimental Science Data Quality, Bioinformatics Domain Gap, Retrosynthesis AI, Radiochemistry Imaging Tracers, Blood-Brain Barrier Prediction, Negative Results As Scientific Data, AI Experiment Documentation, and Human-Driven Scientific AI; updated overview, index, AI For Science, Scientific Discovery Automation, AI Drug Discovery Platform, Domain Expert Alignment, AI Verification, AlphaFold, Publication Bias, Experimental Failure As Knowledge, Stanford University, and University of Michigan. No direct contradiction found; the source qualifies scientific-AI optimism by tying useful model output to reliable experimental records, failed-result visibility, domain collaboration, reproducibility, and human safety oversight.
 
+## [2026-08-18] ingest | Under Secretary of State Sarah B. Rogers on dismantling the Censorship Industrial Complex
+
+Added source page for an All-In episode with Sarah B. Rogers on State Department public diplomacy, the UK Online Safety Act, the EU Digital Services Act, cross-border platform speech regulation, disinformation NGOs, trusted flaggers, debanking, demonetization, AI deepfakes, Community Notes, and Grok. Created pages for Sarah B. Rogers, UK Online Safety Act, European Union Digital Services Act, Center for Countering Digital Hate, Community Notes, NRA v. Vullo, Cross-Border Platform Speech Regulation, Censorship Industrial Complex, Trusted Flagger System, Indirect Regulatory Coercion, Intermediary Speech Pressure, Viewpoint Debanking, and AI Deepfake Parody Boundary; updated overview, index, All-In, David Sacks, Jason Calacanis, U.S. Department of State, European Union, United Kingdom, Twitter/X, Grok, Platform First Amendment Defense, Political Deepfake Regulation, AI Content Provenance, and Social Media Age-Gate Speech Burden. No direct contradiction found; the source is an opinionated, source-scoped critique that qualifies existing AI provenance and political-deepfake regulation pages by distinguishing narrow disclosure tools from broad speech-control regimes.
+
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -7962,3 +7966,7 @@ Ran health before lint; health scanned 11,315 wiki pages and found no empty/stub
 ## [2026-08-18] lint | Wiki health check
 
 Ran health before lint; health passed with no structural pre-flight issues. Lint scanned 11,315 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran health before lint; health scanned 11,329 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,329 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-12 with 10,690 nodes and 116,995 edges; they found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.

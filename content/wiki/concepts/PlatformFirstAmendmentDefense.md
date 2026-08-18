@@ -2,11 +2,13 @@
 title: "Platform First Amendment Defense"
 type: concept
 tags: [law, platforms, speech, constitutional-law]
-sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128]
-last_updated: 2026-08-14
+sources: [all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128]
+last_updated: 2026-08-18
 ---
 
 # Platform First Amendment Defense
+
+[[all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360]] adds the foreign-pressure branch. [[SarahBRogers|Sarah B. Rogers]] argues that when the [[UKOnlineSafetyAct|UK Online Safety Act]] or [[EuropeanUnionDigitalServicesAct|EU Digital Services Act]] threatens American platforms for speech that fits U.S. norms, platform speech rights become a diplomatic and cross-border regulatory issue, not only a domestic litigation defense.
 
 [[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds a related political-speech branch through [[PoliticalDeepfakeRegulation]]. [[MariaCurie|Maria Curi]] says attempts to regulate AI-generated political content often run into First Amendment concerns, and the episode describes a [[California]] AI political-content law as having been struck down as unconstitutional. This is not exactly the same as a platform editorial-rights defense, but it sits beside it as another constitutional limit on technology regulation.
 
@@ -32,3 +34,4 @@ The concept sits next to [[Section230DesignWorkaround]]. Plaintiffs argue they a
 - [[Meta]] and [[YouTube]] - defendants in the source's Los Angeles verdict discussion.
 - [[AaronMackey]], [[ElectronicFrontierFoundation|Electronic Frontier Foundation]], [[YouthOnlineSpeechRights]], and [[SocialMediaAgeGateSpeechBurden]] - user-speech branch added by the April 6, 2026 source.
 - [[PoliticalDeepfakeRegulation]], [[AIPoliticalAdDisclosurePatchwork]], and [[California]] - political-speech branch added by Marketplace Tech.
+- [[SarahBRogers|Sarah B. Rogers]], [[CrossBorderPlatformSpeechRegulation]], [[UKOnlineSafetyAct|UK Online Safety Act]], and [[EuropeanUnionDigitalServicesAct|EU Digital Services Act]] - foreign platform-regulation branch added by All-In.

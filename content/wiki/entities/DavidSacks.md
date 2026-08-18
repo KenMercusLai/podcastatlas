@@ -2,11 +2,13 @@
 title: "David Sacks"
 type: entity
 tags: [person, startups, management]
-sources: [all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+sources: [all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
 last_updated: 2026-08-18
 ---
 
 # David Sacks
+
+[[all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360]] adds Sacks as the host voice most focused on censorship mechanisms. He frames government censorship as a way for officials to avoid policy feedback, describes EU digital fines as a possible "censorship tariff," connects Biden-era platform pressure to the [[CensorshipIndustrialComplex]], and praises [[CommunityNotes|Community Notes]] as a more transparent correction mechanism.
 
 [[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds Sacks as the interviewer for [[SatyaNadella|Satya Nadella]] at Davos. His questions focus the conversation on [[MicrosoftCopilot|Copilot]], agent work, [[Agent365|Agent 365]], AI diffusion, global market share, [[OpenAI]] dependence, model commoditization, local AI, enterprise adoption, and early-career hiring.
 
@@ -35,3 +37,4 @@ The source presents Sacks only through Conrad's first-person account. Conrad arg
 - [[HowardLutnick|Howard Lutnick]], [[TradeReciprocityProtectionism]], [[AIExportControls]], and [[TaxpayerReturnIndustrialPolicy]] - policy-interview context added by the Lutnick source.
 - [[CaliforniaWealthTaxCapitalFlight]], [[JevonsParadoxInAI]], [[AIIPOValuation]], [[AcceleratedDepreciationCapexPullForward]], and [[CitizenJournalismAccountability]] - 2026 prediction branches.
 - [[SatyaNadella|Satya Nadella]], [[Microsoft]], [[OpenAI]], [[AIEconomicDiffusion]], and [[AINativeSaaSThreat]] - Davos interview themes added by the Microsoft episode.
+- [[SarahBRogers|Sarah B. Rogers]], [[CrossBorderPlatformSpeechRegulation]], [[CensorshipIndustrialComplex]], [[IntermediarySpeechPressure]], and [[CommunityNotes|Community Notes]] - free-speech diplomacy branch added by the Rogers episode.

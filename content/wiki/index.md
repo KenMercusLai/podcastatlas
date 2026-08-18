@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Under Secretary of State Sarah B. Rogers on dismantling the Censorship Industrial Complex](sources/all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360.md) — All-In interview with Sarah B. Rogers on State Department public diplomacy, UK/EU platform regulation, cross-border speech enforcement, disinformation NGOs, trusted flaggers, debanking, AI deepfakes, Community Notes, and Grok.
 - [Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos](sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140.md) — All-In live Davos interview with Satya Nadella on Copilot, agents, Agent 365, AI diffusion, Azure as token infrastructure, Microsoft Foundry, model orchestration, SaaS pressure, local AI on Windows, and early-career apprenticeship.
 - [Supercharging a New FDA: Marty Makary on Science, Power & Patients](sources/all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050.md) — All-In interview with Marty Makary on FDA review modernization, clinical-trial reform, public-health trust, vaccines, nutrition, drug pricing, AI health tools, and GRAS reform.
 - [EP 17: AI's Impact on Creativity: A Consumer's Perspective](sources/ep-17-ais-impact-on-creativity-a-consumers-perspective.md) — Data Science With Sam episode with Mark on ChatGPT as a creative collaborator for Toastmasters speeches, alumni imagery, Suno songs, professional research data-security boundaries, Google Apps Script snippets, prompt iteration, hallucination review, and multimodal AI expectations.
@@ -994,6 +995,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sarah B. Rogers](entities/SarahBRogers.md) — State Department public-diplomacy official used by All-In to frame free speech, UK/EU platform regulation, and anti-censorship diplomacy.
+- [UK Online Safety Act](entities/UKOnlineSafetyAct.md) — UK platform-regulation law discussed as an age-gating, risk-assessment, and speech-removal pressure point.
+- [European Union Digital Services Act](entities/EuropeanUnionDigitalServicesAct.md) — EU platform-regulation regime discussed through content obligations, trusted flaggers, and foreign fines on U.S. platforms.
+- [Center for Countering Digital Hate](entities/CenterForCounteringDigitalHate.md) — NGO example used in the All-In Rogers episode to illustrate disinformation NGO pressure on platforms and regulators.
+- [Community Notes](entities/CommunityNotes.md) — X fact-checking feature praised in the Rogers episode as transparent counterspeech rather than regulator-controlled labeling.
+- [NRA v. Vullo](entities/NRAVullo.md) — Supreme Court case used by Rogers to explain viewpoint-based debanking and indirect regulatory coercion.
 - [Satya Nadella](entities/SatyaNadella.md) — Microsoft CEO explaining AI strategy across Copilot, Agent 365, Azure, Foundry, Windows, OpenAI, model orchestration, diffusion, and workforce redesign.
 - [Azure](entities/Azure.md) — Microsoft cloud platform framed by Nadella as token-factory infrastructure for heterogeneous AI model and agent workloads.
 - [GitHub Copilot](entities/GitHubCopilot.md) — Microsoft/GitHub coding assistant used by Nadella as the clearest path from next-edit suggestions to chat, actions, agents, and work-context integration.
@@ -6740,6 +6747,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Cross-Border Platform Speech Regulation](concepts/CrossBorderPlatformSpeechRegulation.md) — Conflict where one jurisdiction's platform speech rules affect foreign users, companies, or speech norms.
+- [Censorship Industrial Complex](concepts/CensorshipIndustrialComplex.md) — Episode term for government, regulator, NGO, platform, advertiser, and payment-channel systems that can suppress speech indirectly.
+- [Trusted Flagger System](concepts/TrustedFlaggerSystem.md) — Privileged content-reporting channel for selected organizations inside platform-regulation regimes.
+- [Indirect Regulatory Coercion](concepts/IndirectRegulatoryCoercion.md) — Government pressure on private intermediaries through supervisory power, approvals, or informal signals.
+- [Intermediary Speech Pressure](concepts/IntermediarySpeechPressure.md) — Use of hosting, payment, advertising, platform, or monetization chokepoints to penalize speech operationally.
+- [Viewpoint Debanking](concepts/ViewpointDebanking.md) — Loss or threatened loss of financial services because of political, ideological, or associational position.
+- [AI Deepfake Parody Boundary](concepts/AIDeepfakeParodyBoundary.md) — Boundary between synthetic satire viewers recognize as parody and realistic AI depictions they may believe are true.
 - [Token Factory AI Infrastructure](concepts/TokenFactoryAIInfrastructure.md) — Cloud AI infrastructure frame where heterogeneous compute, utilization, TCO, routing, and reliability turn model demand into tokens at scale.
 - [AI Model Orchestration](concepts/AIModelOrchestration.md) — Composing multiple closed, open, firm-specific, and role-specialized models with agents, evals, and workflow context.
 - [Firm-Specific Model Knowledge](concepts/FirmSpecificModelKnowledge.md) — Enterprise AI pattern where a company's tacit knowledge becomes embedded in controlled model behavior rather than only retrieved from documents.

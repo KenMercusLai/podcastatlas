@@ -2,11 +2,13 @@
 title: "Twitter / X"
 type: entity
 tags: [company, social-media, platform]
-sources: [an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, 167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarspod-paulb-final, socialradarspod-stevehuffman-final]
-last_updated: 2026-08-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4, 167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarspod-paulb-final, socialradarspod-stevehuffman-final]
+last_updated: 2026-08-18
 ---
 
 # Twitter / X
+
+[[all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360]] adds X as the platform case at the center of foreign speech-regulation conflict. [[SarahBRogers|Sarah B. Rogers]] and the hosts discuss EU digital fines, claimed political targeting of [[ElonMusk]], [[CommunityNotes|Community Notes]], and [[Grok]] as part of a broader argument about [[CrossBorderPlatformSpeechRegulation]] and the [[CensorshipIndustrialComplex]].
 
 [[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] adds X as the reach layer for [[ElonMusk]]'s political commentary. The episode says Musk has close to 250 million followers and uses that scale to explain why [[ZannyMintonBeddoes]] challenges his posts about Britain, Europe, migration, and Islam as a public-influence problem rather than only a personal-opinion dispute.
 
@@ -33,3 +35,4 @@ Twitter also appears elsewhere as part of the social-web environment. In [[socia
 - [[SinaLaubenstein]], [[InstituteForStrategicDialogue]], and [[NudifyAppEcosystem]] - July 2026 Marketplace Tech branch on traffic to third-party nudify services.
 - [[AlgorithmicPublicAppearance]], [[PlatformAffordance]], and [[AffectivePolarization]] - episode 167's public-space and platform-behavior extension.
 - [[ZannyMintonBeddoes]], [[TechnoOptimismPresentThreatGap]], [[ImmigrationBacklashCycle]], [[FarRightNormalization]], and [[USAID]] - Musk political-amplification branch added by The Intelligence.
+- [[SarahBRogers|Sarah B. Rogers]], [[EuropeanUnionDigitalServicesAct|EU Digital Services Act]], [[CommunityNotes|Community Notes]], [[Grok]], and [[CensorshipIndustrialComplex]] - free-speech regulation branch added by All-In.

@@ -2,11 +2,13 @@
 title: "Jason Calacanis"
 type: entity
 tags: [person, investor, podcast-host]
-sources: [all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+sources: [all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
 last_updated: 2026-08-18
 ---
 
 # Jason Calacanis
+
+[[all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360]] adds Jason's questioner role around AI deepfakes and intermediary pressure. He asks how AI-generated depictions differ from satire or cartoons when viewers cannot tell what is real, and he broadens the speech-control discussion to advertisers, [[Cloudflare]], [[Amazon]], [[PayPal]], [[Stripe]], [[YouTube]], and monetization channels.
 
 [[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] adds Jason's 2026 forecast role. He frames left-populist momentum as the "Mamdani moment," warns that young white-collar workers may lose entry-level rungs to AI, predicts [[Amazon]] strength through robots, [[Zoox]], delivery, and [[AmazonWebServices|AWS]], expects at least one major AI-company deal, and names mega IPOs and creator-native media as key trends.
 
@@ -21,3 +23,4 @@ In this episode, Jason's role is to move the discussion from AI as a general the
 - [[HowardLutnick|Howard Lutnick]], [[TradeReciprocityProtectionism]], [[TariffRevenueFiscalSubstitution]], and [[AIExportControls]] - policy-interview context added by the Lutnick source.
 - [[BobSternfels|Bob Sternfels]], [[HemantTaneja|Hemant Taneja]], [[TeslaOptimus|Tesla Optimus]], and [[TransitionalAIHardware]] - source-specific discussion nodes.
 - [[PopulistDemocraticEnergy]], [[EntryLevelAICareerLadderRisk]], [[AIIPOValuation]], [[IPDealStructureSubstitution]], and [[CitizenJournalismAccountability]] - 2026 prediction branches.
+- [[SarahBRogers|Sarah B. Rogers]], [[AIDeepfakeParodyBoundary]], [[IntermediarySpeechPressure]], and [[ViewpointDebanking]] - Rogers episode branches.

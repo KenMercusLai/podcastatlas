@@ -2,11 +2,13 @@
 title: "European Union"
 type: entity
 tags: [institution, europe, politics]
-sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, 139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
-last_updated: 2026-08-14
+sources: [all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, 139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
+last_updated: 2026-08-18
 ---
 
 # European Union
+
+[[all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360]] adds the EU through the [[EuropeanUnionDigitalServicesAct|European Union Digital Services Act]] as a cross-border speech-regulation case. [[SarahBRogers|Sarah B. Rogers]] argues that EU content rules, hate-speech standards, [[TrustedFlaggerSystem|trusted flaggers]], and large digital fines can pressure American platforms such as [[Twitter|X]] to follow European speech norms outside Europe.
 
 [[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds the EU through the [[EuropeanUnionAIAct|European Union AI Act]] as a driver of AI-content disclosure. [[MariaCurie|Maria Curi]] says the act requires AI labs to tell users when content is AI-generated, and the episode uses that requirement to explain [[Anthropic]]'s global [[Claude]] text-watermark rollout.
 
@@ -45,6 +47,7 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 - The Taken littorally source uses the EU as a border-solidarity forum where Spain asks for support while other governments pressure it to tighten immigration policy.
 - The albedo source uses the EU-linked maritime-enforcement perspective to show why West African cocaine transit is also a European demand and security problem.
 - The August 14 Marketplace Tech source uses EU AI disclosure requirements as the compliance driver for [[AITextWatermarking]].
+- The All-In Rogers source uses the [[EuropeanUnionDigitalServicesAct|EU Digital Services Act]] to show how platform regulation can become [[CrossBorderPlatformSpeechRegulation]] when fines or trusted flaggers affect American technology companies and U.S. free-speech norms.
 
 ## Connections
 - [[SchengenArea]], [[ErasmusProgramme]], [[Airbus]], [[EuropeanIntegrationWarPrevention]], [[EuropeanIdentityClassGradient]], [[EuropeanLanguageFriction]], [[DigitalNomadHousingPressure]], and [[EurozoneInternalImbalance]] - integration and fragmentation branch added by episode 139.
@@ -62,3 +65,4 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 - [[Ceuta]], [[Spain]], [[Morocco]], [[SchengenArea]], [[GiorgiaMeloni]], [[MigrationWeaponization]], [[BorderLegalSignal]], and [[ImmigrationBacklashCycle]] - migration and border-solidarity branch added by The Intelligence.
 - [[WestAfricaCocaineTransit]], [[MaritimeAnalysisAndInformationCentre]], [[PauloSilva]], [[MaritimeDrugInterdictionCapacity]], and [[NarcoStateRisk]] - cocaine-route and enforcement branch added by the later source.
 - [[EuropeanUnionAIAct]], [[Anthropic]], [[Claude]], [[AITextWatermarking]], and [[AIContentProvenance]] - AI-generated text disclosure branch added by Marketplace Tech.
+- [[EuropeanUnionDigitalServicesAct|EU Digital Services Act]], [[TrustedFlaggerSystem]], [[CrossBorderPlatformSpeechRegulation]], [[CensorshipIndustrialComplex]], and [[SarahBRogers|Sarah B. Rogers]] - platform-speech regulation branch added by All-In.
