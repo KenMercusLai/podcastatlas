@@ -2,7 +2,7 @@
 title: "百里奚 / Baili Xi"
 type: entity
 tags: [person, minister, spring-and-autumn, qin-state]
-sources: [zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+sources: [zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
 last_updated: 2026-08-19
 ---
 
@@ -14,10 +14,14 @@ The source summarizes Baili Xi's long failed career before Qin: he wanders among
 
 The episode uses Baili Xi to sharpen Shang Yang's self-image. Qin Mu Gong's recognition of Baili Xi becomes an earlier success story for outsider talent, while [[QinXiaogong|秦孝公]]'s later ambition to revive Qin greatness makes Shang Yang want to see himself as a greater version of that precedent.
 
+[[zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p]] turns Baili Xi from a setup into the positive half of [[ZhaoLiang|赵良]]'s rebuke. Zhao Liang says Baili Xi held power without generating Qin resentment, helped Qin act eastward against Zheng, repeatedly assisted Jin ruler-making, and helped Chu avoid calamity. His personal conduct is also part of the argument: he is remembered as traveling without grand vehicles, entourage, or guards, and his death produces public grief across Qin society.
+
+That remembered mourning matters because the episode contrasts it with [[ShangYang|公孙鞅 / 商鞅]]'s security-heavy life. Baili Xi becomes an example of [[PeopleBasedPoliticalSecurity|民心型政治安全]]: achievement joined to social trust can lower personal danger, while achievement joined to fear can make power depend on coercion and ruler protection.
+
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]] - later Qin minister who invites the comparison.
 - [[ZhaoLiang|赵良]] - interlocutor asked to judge the comparison.
 - [[QinMugong|秦穆公]] - ruler who redeems and appoints him.
 - [[QinState|秦国]] - state whose earlier rise is associated with his service.
-- [[PowerExitTrap|权力退场困境]] - contrast case for Shang Yang's harsher and less survivable path.
+- [[PeopleBasedPoliticalSecurity|民心型政治安全]] and [[PowerExitTrap|权力退场困境]] - contrast case for Shang Yang's harsher and less survivable path.
 - [[TalentAttractionThroughRespect]] - adjacent wiki frame for ruler recognition of unusual talent.

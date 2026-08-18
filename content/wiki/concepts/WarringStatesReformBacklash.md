@@ -2,7 +2,7 @@
 title: "Warring States Reform Backlash / 战国变法反噬"
 type: concept
 tags: [statecraft, reform, pre-qin-history, warring-states, political-economy]
-sources: [zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+sources: [zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
 last_updated: 2026-08-19
 ---
 
@@ -22,6 +22,8 @@ This differs from a generic "reform is hard" claim. The source emphasizes concen
 
 [[zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]] abstracts the same outcome into a [[PowerExitTrap|权力退场困境]]. The episode argues that Shang Yang's outsider status made radical methods almost necessary for success, but those methods created too many enemies for a safe retreat. It also adds the [[TextualVariantPoliticalStakes|source-wording]] problem of whether resentment should be read as broad popular hatred or as elite resistance from royal kin and nobles.
 
+[[zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p]] adds the lived texture of that backlash through [[ZhaoLiang|赵良]]'s completed rebuke. Reform backlash is not only an abstract distributional reaction: it appears as named punished people, frightened commoners, armed personal security, and the loss of [[PeopleBasedPoliticalSecurity|民心型政治安全]]. [[BailiXi|百里奚]] becomes the counterfactual image of service that creates achievement without requiring a minister to live behind guards.
+
 ## Key Claims
 - Military-fiscal strengthening often requires breaking older status arrangements.
 - Reform success can intensify backlash by making the threatened interests clearer.
@@ -31,6 +33,7 @@ This differs from a generic "reform is hard" claim. The source emphasizes concen
 - A later death-site notice can be preserved as foreshadowing without treating the full backlash outcome as already narrated.
 - A reformer's personal safety can depend on ruler protection even when the reform itself has strengthened the state.
 - The same reform career can become a no-safe-exit trap when the reformer lacks independent legitimacy beyond ruler backing.
+- Backlash becomes more dangerous when it combines elite vengeance, common resentment, and dependence on one ruler's protection.
 
 ## Connections
 - [[WuQi|吴起]], [[ChuDaoWang|楚悼王]], and [[ChuState|楚国]] - source case.
@@ -39,4 +42,4 @@ This differs from a generic "reform is hard" claim. The source emphasizes concen
 - [[SpringAutumnToWarringStatesPoliticalViolence]] - broader move toward harsher elite conflict.
 - [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[YingSi|太子嬴驷]], [[ShangYangReforms]], and [[MilitaryMeritRankSystem]] - Qin reform-backlash branch added by Zhouji 13.
 - [[TongWarringStates|同地]], [[HouseholdSeparationLaw]], [[QinAdministrativeStandardization]], [[GongziQian|公子虔]], and [[LegalistSelfBindingBackfire|作法自毙]] - Zhouji 17 foreshadowing, deeper reform, and Zhouji 23 backlash outcome.
-- [[PowerExitTrap|权力退场困境]], [[ZhaoLiang|赵良]], and [[TextualVariantPoliticalStakes|史书异文政治重量]] - Zhouji 24 no-retreat and source-wording extension.
+- [[PowerExitTrap|权力退场困境]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[ZhaoLiang|赵良]], and [[TextualVariantPoliticalStakes|史书异文政治重量]] - Zhouji 24-25 no-retreat, social-support, and source-wording extension.

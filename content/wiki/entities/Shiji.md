@@ -2,7 +2,7 @@
 title: "《史记》 / Shiji"
 type: entity
 tags: [book, history, chinese-history, historiography]
-sources: [zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -30,6 +30,8 @@ The page's role is historiographical rather than encyclopedic. It marks a source
 
 [[zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]] uses Shiji as the contrast text for resentment against Shang Yang. The episode says Shiji's "宗室贵戚多怨望者" points mainly to royal kin and nobles, while [[ZizhiTongjian|《资治通鉴》]]'s "人多怨之" makes resentment sound broader. That difference becomes the source's main [[TextualVariantPoliticalStakes|textual-variant political stakes]] case.
 
+[[zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p]] uses Shiji for the fuller version of [[ZhaoLiang|赵良]]'s advice. Beyond the Zizhi Tongjian warning, Shiji has Zhao Liang propose that [[ShangYang|公孙鞅 / 商鞅]] return [[Shangyu|商於]], retire from office, and sponsor benevolent measures such as recruiting worthy people, supporting elders and orphans, honoring elders and fathers, raising meritorious officials, and respecting virtuous people. The episode records this as a richer off-ramp but doubts it would have saved Shang Yang after resentment had already accumulated.
+
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle being supplemented in the episode.
 - [[YuRang|豫让]], [[ZhiYao|智瑶]], and [[RetainerReciprocityEthic]] - assassins-tradition branch added by Zhouji 04.
@@ -43,4 +45,4 @@ The page's role is historiographical rather than encyclopedic. It marks a source
 - [[ZhaoState|赵国]], [[QinState|秦国]], and [[QinEastwardPressure]] - Zhouji 17 supplemental Zhao attack notice.
 - [[TianJi|田忌]], [[ZouJi|成侯邹忌]], [[Zhanguoce|《战国策》]], and [[TreasonAccusationTrap]] - Zhouji 21 wording comparison around the accusation.
 - [[ShangYang|公孙鞅 / 商鞅]], [[ShangYangReforms]], and [[LegalistSelfBindingBackfire|作法自毙]] - Zhouji 23 lodging anecdote and legal self-trap branch.
-- [[TextualVariantPoliticalStakes|史书异文政治重量]], [[ZhaoLiang|赵良]], and [[BailiXi|百里奚]] - Zhouji 24 resentment wording and remonstrance-comparison branch.
+- [[TextualVariantPoliticalStakes|史书异文政治重量]], [[ZhaoLiang|赵良]], [[BailiXi|百里奚]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], and [[PowerExitTrap|权力退场困境]] - Zhouji 24-25 resentment wording, remonstrance-comparison, and retreat-plan branch.

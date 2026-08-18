@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》25丨赵良对商鞅说：你不配
+
+Added source page for a 芮淇讲透资治通鉴 episode completing Zhao Liang's warning to Shang Yang: Zhao Liang secures permission for frank speech, rejects Shang Yang's comparison to Baili Xi, contrasts Baili Xi's public regard with Shang Yang's guard-dependent insecurity, names Shang Yang's position 危若朝露, and preserves Shiji's richer but doubtful retirement route through returning Shangyu and sponsoring benevolent policies. Created pages for People-Based Political Security and Shi Jiao; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Shiji, Qin State, Shang Yang, Zhao Liang, Baili Xi, Qin Mu Gong, Qin Xiao Gong, Gongzi Qian, Chengdu, Power Exit Trap, Warring States Reform Backlash, Shang Yang Reforms, Legalist Self-Binding Backfire, and Power Etiquette Reading. No direct contradiction found; the source extends Zhouji 24 by filling in the substance of Zhao Liang's rebuke and by qualifying the exit-trap argument with a theoretical but likely too-late off-ramp.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》23丨魏惠王 悔不用公叔之言
 
 Added source page for a 芮淇讲透资治通鉴 episode on Qin breaking Wei after Gongzi Ang's capture, Wei ceding Hexi and moving from Anyi to Daliang, the comparison between Sun Bin's reusable deception and Shang Yang's credibility-damaging parley trap, Shang Yang's Shangyu fief, Qin Xiao Gong's death, Gongzi Qian's accusation, and the Shiji-style 作法自毙 lodging anecdote. Created pages for Lushi Chunqiu, Gongzi Qian, Chu Wei Wang, Shangyu, Tactical Credibility Cost, and Legalist Self-Binding Backfire; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou Xian Wang, Warring States Period, Shang Yang, Qin State, Wei State, Qin Xiao Gong, Liang Hui Wang, Gongzi Ang, Ying Si, Gongshu, Chu State, Chu Xuan Wang, Sun Bin, Battle of Maling, Anyi, Daliang, Shiji, Peace-Parley Entrapment, Decreasing Stoves Deception, Warring States Reform Backlash, Shang Yang Reforms, Farming-War Statecraft, Qin Eastward Pressure, Military Merit Rank System, and Collateral Punishment And Guilt By Association. No direct contradiction found; the source qualifies episode 22's "兵以诈立" frame by separating immediate tactical success from long-term credibility cost and reformer self-trap.
@@ -8230,6 +8234,10 @@ Ran health before lint; health scanned 11,678 wiki pages and found no empty/stub
 ## [2026-08-19] lint | Wiki health check
 
 Ran health before lint; health scanned 11,681 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,681 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-19] lint | Wiki health check
 
