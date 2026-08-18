@@ -2,7 +2,7 @@
 title: "韩烈侯 / Marquis Lie of Han"
 type: entity
 tags: [person, ruler, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-18
 ---
 
@@ -12,9 +12,12 @@ last_updated: 2026-08-18
 
 [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]] records Han Lie Hou's death in 387 BCE and the accession of his son [[HanWenhou|韩文侯]], continuing Han's role as a compact succession node.
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] places Han Liehou inside the longer line that eventually destroys [[ZhengState|郑国]]. The source does not add a separate anecdote for him, but treats his reign as part of the continuous pressure linking [[HanJinghou|韩景侯]] to [[HanWenhou|韩文侯]] and [[HanAihou|韩哀侯]].
+
 ## Connections
 - [[HanState|韩国]] - polity he succeeds to.
 - [[HanJinghou|韩景侯]] - predecessor.
 - [[HanWenhou|韩文侯]] - son and successor in Zhouji 08 part 2.
 - [[ZhengState|郑国]] - rival using the mourning period as an opening.
 - [[WarringStatesPeriod|战国时期]] - period setting.
+- [[GenerationalFamilyStrategy]] and [[StrategicCapitalRelocation]] - Zhouji 10 frame for his place in Han's line.

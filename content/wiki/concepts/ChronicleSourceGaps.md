@@ -2,7 +2,7 @@
 title: "Chronicle Source Gaps / 编年史料空缺"
 type: concept
 tags: [historiography, source-criticism, chinese-history]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
+sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-18
 ---
 
@@ -14,11 +14,14 @@ This concept extends [[HistoricalDetectiveReasoning]]. A gap can be informative,
 
 [[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] adds a less absolute version of the same problem. The host says the broad early Warring States melee is hard to date cleanly, so [[EarlyWarringStatesInterstateWar]] should be handled as a tangled conflict frame rather than a neatly bounded campaign.
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] adds a source-switching version. Because [[ZizhiTongjian|《资治通鉴》]] gives no entry for [[ZhouLiewang|周烈王]]'s second year, the host turns to [[Shiji|《史记》]] for [[TaishiDan|太史旦]]'s visit to Qin while keeping the prophecy-like story source-bounded.
+
 ## Key Claims
 - Sparse annals may reflect source survival, not the absence of events.
 - A responsible reader separates preserved chronology from reconstructed motive.
 - Source gaps can invite supplementary evidence, but they do not authorize free invention.
 - Explicitly marking a blank year protects the wiki from smoothing a jagged historical record into a false continuous story.
+- A blank year can justify consulting another source, but the borrowed episode still needs its own evidentiary label.
 
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]] and [[SimaGuang|司马光]] - chronicle and compiler frame.
@@ -26,3 +29,4 @@ This concept extends [[HistoricalDetectiveReasoning]]. A gap can be informative,
 - [[Zhanguoce|《战国策》]] - variant-source branch in the same episode.
 - [[ClassicReadingComplexity]] - broader discipline of preserving old-text difficulty.
 - [[EarlyWarringStatesInterstateWar]] - Zhouji 09 uncertain-war-boundary case.
+- [[Shiji|《史记》]], [[TaishiDan|太史旦]], [[QinXianGong|秦献公]], and [[KinshipLegitimacyDiplomacy]] - Zhouji 10 source-switching case.

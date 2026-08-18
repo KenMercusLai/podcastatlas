@@ -2,7 +2,7 @@
 title: "Mandate of Heaven Legitimacy / 天命合法性"
 type: concept
 tags: [history, politics, china, legitimacy]
-sources: [126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
+sources: [126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-18
 ---
 
@@ -20,6 +20,8 @@ The concept is important because it separates sacred legitimacy from simple prop
 
 [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] adds the sky-sign counterpart through [[CelestialOmenPoliticalResponsibility]]. A solar eclipse is framed as a warning about political failure, linking astronomy, moral responsibility, and later forms of ritual self-criticism.
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] adds a diplomatic-hegemon version. [[TaishiDan|太史旦]] tells [[QinXianGong|秦献公]] that Zhou and Qin have a shared past and that a hegemon will appear after their reunion; the host reads this as an appeal to Qin's possible heavenly role in support of [[ZhouRoyalHouse|周王室]] authority.
+
 ## Key Claims
 - A mandate narrative strengthens a dynasty by making rule more than military success.
 - The same narrative can imply that Heaven may withdraw approval.
@@ -29,6 +31,7 @@ The concept is important because it separates sacred legitimacy from simple prop
 - Episode 87 adds the fangshu infrastructure that made Heaven-readable politics practical.
 - Episode 07 adds that destructive natural signs could be read as warnings about a state's fate, not only as favorable omens.
 - Episode 07 part 2 adds that celestial signs such as eclipses could similarly be read as political responsibility signals.
+- Mandate language can flatter a rising power while trying to bind it to older legitimate authority.
 
 ## Connections
 - [[WesternHanDynasty]], [[LiuBang]], [[WangMang]], and [[XinDynasty]] - source case.
@@ -38,3 +41,4 @@ The concept is important because it separates sacred legitimacy from simple prop
 - [[FangshuSystematization]], [[ChineseAstrologicalPolitics]], and [[DaoistRitualTechnology]] - technique environment around Heaven-linked signs.
 - [[NaturalDisasterPoliticalOmen]], [[WangYinglin|王应麟]], and [[WeiState|魏国]] - episode 07 disaster-omen branch.
 - [[CelestialOmenPoliticalResponsibility]] and [[Shijing|《诗经》]] - episode 07 part 2 eclipse branch.
+- [[TaishiDan|太史旦]], [[QinXianGong|秦献公]], [[ZhouRoyalHouse|周王室]], and [[KinshipLegitimacyDiplomacy]] - Zhouji 10 Qin-hegemon appeal.

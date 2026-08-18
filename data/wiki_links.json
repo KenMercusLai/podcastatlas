@@ -16063,6 +16063,10 @@
     "title": "Generated Work Interfaces",
     "url": "/wiki/concepts/generatedworkinterfaces/"
   },
+  "GenerationalFamilyStrategy": {
+    "title": "Generational Family Strategy / 家族代际战略",
+    "url": "/wiki/concepts/generationalfamilystrategy/"
+  },
   "GenerationalTechnologyBridge": {
     "title": "Generational Technology Bridge",
     "url": "/wiki/concepts/generationaltechnologybridge/"
@@ -17291,6 +17295,10 @@
     "title": "韩江 / Han Kang",
     "url": "/wiki/entities/hankang/"
   },
+  "HanKangzi": {
+    "title": "韩康子 / Han Kangzi",
+    "url": "/wiki/entities/hankangzi/"
+  },
   "HanLiehou": {
     "title": "韩烈侯 / Marquis Lie of Han",
     "url": "/wiki/entities/hanliehou/"
@@ -17330,6 +17338,10 @@
   "HanWudi": {
     "title": "Emperor Wu of Han / 汉武帝",
     "url": "/wiki/entities/hanwudi/"
+  },
+  "HanWuzi": {
+    "title": "韩武子 / Han Wuzi",
+    "url": "/wiki/entities/hanwuzi/"
   },
   "HanYang": {
     "title": "汉洋 / Han Yang",
@@ -21839,6 +21851,10 @@
     "title": "Kino Loy",
     "url": "/wiki/entities/kinoloy/"
   },
+  "KinshipLegitimacyDiplomacy": {
+    "title": "Kinship Legitimacy Diplomacy / 同源合法性外交",
+    "url": "/wiki/concepts/kinshiplegitimacydiplomacy/"
+  },
   "KinshipPowerDistinction": {
     "title": "Kinship Power Distinction",
     "url": "/wiki/concepts/kinshippowerdistinction/"
@@ -22302,6 +22318,10 @@
   "Laos": {
     "title": "Laos / 老挝",
     "url": "/wiki/entities/laos/"
+  },
+  "Laozi": {
+    "title": "老子 / Laozi",
+    "url": "/wiki/entities/laozi/"
   },
   "LaplacesDemon": {
     "title": "Laplace's Demon / 拉普拉斯妖",
@@ -31343,6 +31363,10 @@
     "title": "秦出公 / Qin Chugong",
     "url": "/wiki/entities/qinchugong/"
   },
+  "QinFeizi": {
+    "title": "非子 / Qin Feizi",
+    "url": "/wiki/entities/qinfeizi/"
+  },
   "QinHuiGong": {
     "title": "秦惠公 / Duke Hui of Qin",
     "url": "/wiki/entities/qinhuigong/"
@@ -31362,6 +31386,18 @@
   "QinState": {
     "title": "秦国 / Qin State",
     "url": "/wiki/entities/qinstate/"
+  },
+  "QinWengong": {
+    "title": "秦文公 / Duke Wen of Qin",
+    "url": "/wiki/entities/qinwengong/"
+  },
+  "QinXianGong": {
+    "title": "秦献公 / Duke Xian of Qin",
+    "url": "/wiki/entities/qinxiangong/"
+  },
+  "QinXiangGong": {
+    "title": "秦襄公 / Duke Xiang of Qin",
+    "url": "/wiki/entities/qinxianggong/"
   },
   "QinYing": {
     "title": "秦嬴 / Qin Ying",
@@ -34675,6 +34711,10 @@
     "title": "Shifgrethor Political Face / 西弗格雷瑟式政治面子",
     "url": "/wiki/concepts/shifgrethorpoliticalface/"
   },
+  "Shiji": {
+    "title": "《史记》 / Shiji",
+    "url": "/wiki/entities/shiji/"
+  },
   "Shijing": {
     "title": "《诗经》 / Shijing",
     "url": "/wiki/entities/shijing/"
@@ -35494,6 +35534,10 @@
   "SongMilitaryCentralization": {
     "title": "宋初军事集权 / Song Military Centralization",
     "url": "/wiki/concepts/songmilitarycentralization/"
+  },
+  "SongPigong": {
+    "title": "宋辟公 / Duke Pi of Song",
+    "url": "/wiki/entities/songpigong/"
   },
   "SongRenzong": {
     "title": "宋仁宗 / Song Renzong",
@@ -36463,6 +36507,10 @@
     "title": "Strategic Acquirer Fit",
     "url": "/wiki/concepts/strategicacquirerfit/"
   },
+  "StrategicCapitalRelocation": {
+    "title": "Strategic Capital Relocation / 战略性迁都",
+    "url": "/wiki/concepts/strategiccapitalrelocation/"
+  },
   "StrategicFocusUnderIncumbentPressure": {
     "title": "Strategic Focus Under Incumbent Pressure",
     "url": "/wiki/concepts/strategicfocusunderincumbentpressure/"
@@ -37134,6 +37182,10 @@
   "Taipingnian": {
     "title": "《太平年》",
     "url": "/wiki/entities/taipingnian/"
+  },
+  "TaishiDan": {
+    "title": "太史旦 / Taishi Dan",
+    "url": "/wiki/entities/taishidan/"
   },
   "Taitai": {
     "title": "台台 / Taitai",
@@ -40755,6 +40807,18 @@
     "title": "Wetzel's Pretzels",
     "url": "/wiki/entities/wetzelspretzels/"
   },
+  "WeyChenggong": {
+    "title": "卫成公 / Duke Cheng of Wey",
+    "url": "/wiki/entities/weychenggong/"
+  },
+  "WeyShenggong": {
+    "title": "卫声公 / Duke Sheng of Wey",
+    "url": "/wiki/entities/weyshenggong/"
+  },
+  "WeyState": {
+    "title": "卫国 / Wey State",
+    "url": "/wiki/entities/weystate/"
+  },
   "WeylandYutani": {
     "title": "Weyland-Yutani",
     "url": "/wiki/entities/weylandyutani/"
@@ -41891,6 +41955,10 @@
     "title": "颜飞 / Yan Fei (sociologist)",
     "url": "/wiki/entities/yanfeisociologist/"
   },
+  "YanHuanGong": {
+    "title": "燕桓公 / Duke Huan of Yan",
+    "url": "/wiki/entities/yanhuangong/"
+  },
   "YanJiangong": {
     "title": "燕简公 / Duke Jian of Yan",
     "url": "/wiki/entities/yanjiangong/"
@@ -42751,6 +42819,10 @@
     "title": "Zhangzidao",
     "url": "/wiki/entities/zhangzidao/"
   },
+  "ZhaoChenghou": {
+    "title": "赵成侯 / Marquis Cheng of Zhao",
+    "url": "/wiki/entities/zhaochenghou/"
+  },
   "ZhaoChenyang": {
     "title": "Zhao Chenyang / 赵晨阳",
     "url": "/wiki/entities/zhaochenyang/"
@@ -43007,6 +43079,10 @@
     "title": "周明",
     "url": "/wiki/entities/zhouming/"
   },
+  "ZhouPingwang": {
+    "title": "周平王 / King Ping of Zhou",
+    "url": "/wiki/entities/zhoupingwang/"
+  },
   "ZhouQinXingJi": {
     "title": "《周秦行纪》",
     "url": "/wiki/entities/zhouqinxingji/"
@@ -43023,6 +43099,10 @@
     "title": "周威烈王 / King Weilie of Zhou",
     "url": "/wiki/entities/zhouweiliewang/"
   },
+  "ZhouXiaowang": {
+    "title": "周孝王 / King Xiao of Zhou",
+    "url": "/wiki/entities/zhouxiaowang/"
+  },
   "ZhouXinian": {
     "title": "Zhou Xinian / 周希年",
     "url": "/wiki/entities/zhouxinian/"
@@ -43030,6 +43110,10 @@
   "ZhouYebing": {
     "title": "周叶冰 / Zhou Yebing",
     "url": "/wiki/entities/zhouyebing/"
+  },
+  "ZhouYouwang": {
+    "title": "周幽王 / King You of Zhou",
+    "url": "/wiki/entities/zhouyouwang/"
   },
   "ZhouYuan": {
     "title": "周源 / Zhou Yuan",
@@ -46070,5 +46154,9 @@
   "zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl": {
     "title": "《资治通鉴·周纪》09丨战国时代的世界大战",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl/"
+  },
+  "zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d": {
+    "title": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（1）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d/"
   }
 }

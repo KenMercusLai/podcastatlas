@@ -2,7 +2,7 @@
 title: "Celestial Omen Political Responsibility / 天象政治责任"
 type: concept
 tags: [historiography, omens, legitimacy, chinese-history]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
+sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-18
 ---
 
@@ -12,13 +12,17 @@ Celestial omen political responsibility / 天象政治责任 is the frame [[zizh
 
 The concept is adjacent to [[NaturalDisasterPoliticalOmen]], but it deals with sky signs rather than landslides, floods, and other terrestrial disasters. It also connects to [[MandateOfHeavenLegitimacy]] because both assume that political order can be judged through signs beyond ordinary court debate.
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] adds another solar-eclipse notice at the start of [[ZhouLiewang|周烈王]]'s reign. The episode does not analyze it as deeply as the earlier Shijing branch, but it keeps eclipses visible as recurring political-chronicle markers.
+
 ## Key Claims
 - Solar eclipses could be recorded as politically meaningful events.
 - Responsibility for a major omen could be directed toward ruler and chief minister, especially in more centralized later political imagination.
 - A self-critical edict can function as ritualized accountability when literal punishment of every ruler or minister is impossible.
 - Studying the omen system explains historical political reasoning without endorsing celestial causation.
+- A repeated eclipse notice can function as continuity in the annalistic frame even when the episode's main analysis moves elsewhere.
 
 ## Connections
 - [[Shijing|《诗经》]] - source cited for an earlier eclipse notice.
 - [[ZizhiTongjian|《资治通鉴》]] and [[ZhouAnWang|周安王]] - chronicle and annalistic frame.
 - [[MandateOfHeavenLegitimacy]], [[NaturalDisasterPoliticalOmen]], and [[AuspiciousOmenPolitics]] - adjacent sign-reading concepts.
+- [[ZhouLiewang|周烈王]] and [[GenerationalFamilyStrategy]] - Zhouji 10 reign-opening context where the eclipse precedes the Han-Zheng focus.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（1）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d.md) — 芮淇讲透资治通鉴 episode on Han destroying Zheng through multi-generation family strategy and capital relocation, Taishi Dan's Qin visit, Qin's origin from Feizi to recognized statehood, and early Zhou Lie Wang war/succession notices.
 - [《资治通鉴·周纪》09丨战国时代的世界大战](sources/zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl.md) — 芮淇讲透资治通鉴 episode on early Warring States coalition war, Jiang-line Qi and Jin's endings, Zhongshan revival, Zhou An Wang's death, and Zisi's advice on flawed talent and court flattery.
 - [《资治通鉴·周纪》08丨一代名将吴起惨死（2）](sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm.md) — 芮淇讲透资治通鉴 episode on Wu Qi fleeing Wei for Chu, Chu Dao Wang's reform backing, noble backlash against Wu Qi's centralizing measures, Qin/Zhao/Han/Qi succession and recognition notices, and Han Fei's ruler-technique reading of Zhao Jinghou.
 - [《资治通鉴·周纪》08丨一代名将吴起惨死（1）](sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll.md) — 芮淇讲透资治通鉴 episode on Wu Qi under Wei Wuhou, virtue over terrain, Tian Wen's transition-stability argument, and Gongshu's marriage-trap maneuver.
@@ -1010,6 +1011,24 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《史记》 / Shiji](entities/Shiji.md) — Classical history used in Zhouji 10 to supplement a blank Zizhi Tongjian year with Taishi Dan's Qin visit.
+- [韩康子 / Han Kangzi](entities/HanKangzi.md) — Early Han lineage point from which Zhouji 10 begins Han's long strategy against Zheng.
+- [韩武子 / Han Wuzi](entities/HanWuzi.md) — Han ruler who attacks Zheng and moves the capital toward it in Zhouji 10's generational-strategy sequence.
+- [赵成侯 / Marquis Cheng of Zhao](entities/ZhaoChenghou.md) — Zhao Zhong, successor to Zhao Jinghou in Zhou Lie Wang's first-year notice.
+- [太史旦 / Taishi Dan](entities/TaishiDan.md) — Zhou grand historian whose Shiji visit to Qin Xian Gong becomes Zhouji 10's source-switching and Qin-diplomacy case.
+- [秦献公 / Duke Xian of Qin](entities/QinXianGong.md) — Qin ruler addressed by Taishi Dan's Zhou-Qin common-origin and future-hegemon speech.
+- [非子 / Qin Feizi](entities/QinFeizi.md) — Qin origin figure rewarded by Zhou Xiao Wang for horse-raising skill before Qin became a recognized state.
+- [秦襄公 / Duke Xiang of Qin](entities/QinXiangGong.md) — Qin leader whose service to Zhou Ping Wang leads to Qin's formal recognition in the source's origin story.
+- [周孝王 / King Xiao of Zhou](entities/ZhouXiaowang.md) — Zhou ruler who grants Feizi land at Qin in the episode's Qin-origin digression.
+- [周幽王 / King You of Zhou](entities/ZhouYouwang.md) — Western Zhou crisis ruler whose fall frames Qin Xiang Gong's service to Zhou.
+- [周平王 / King Ping of Zhou](entities/ZhouPingwang.md) — Zhou ruler who recognizes Qin Xiang Gong and grants Qin western land claims after the eastward move.
+- [秦文公 / Duke Wen of Qin](entities/QinWengong.md) — Qin ruler by whose generation the source says Qin drove out the Quanrong from its granted land.
+- [老子 / Laozi](entities/Laozi.md) — Thinker tentatively associated with Taishi Dan by the source, kept as a speculative comparison.
+- [燕桓公 / Duke Huan of Yan](entities/YanHuanGong.md) — Yan ruler succeeding Yan Xi Gong in the 373 BCE notice.
+- [宋辟公 / Duke Pi of Song](entities/SongPigong.md) — Song ruler succeeding Song Xiugong in the 373 BCE notice.
+- [卫国 / Wey State](entities/WeyState.md) — Pre-Qin Wey polity added from Zhouji 10's 373 BCE attack on Qi and succession notice, disambiguated from Wei State.
+- [卫声公 / Duke Sheng of Wey](entities/WeyShenggong.md) — Wey ruler whose death precedes Wey Cheng Gong's accession in Zhouji 10.
+- [卫成公 / Duke Cheng of Wey](entities/WeyChenggong.md) — Wei Xun, successor to Wey Sheng Gong in Zhouji 10.
 - [子思 / Zisi](entities/Zisi.md) — Confucius's grandson in Zhouji 09, used for advice on flawed talent, remonstrance, and court feedback failure.
 - [苟变 / Gou Bian](entities/GouBian.md) — Military talent whom Zisi says Wei should not discard over the "two eggs" blemish.
 - [周烈王 / King Lie of Zhou](entities/ZhouLiewang.md) — Zhou An Wang's son and successor in the 376 BCE transition closing Zhouji 09.
@@ -6872,6 +6891,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Generational Family Strategy / 家族代际战略](concepts/GenerationalFamilyStrategy.md) — Zhouji 10 frame for reading Han's destruction of Zheng as a lineage-level, multi-generation project.
+- [Strategic Capital Relocation / 战略性迁都](concepts/StrategicCapitalRelocation.md) — Mechanism by which Han's repeated capital moves show sustained pressure toward Zheng.
+- [Kinship Legitimacy Diplomacy / 同源合法性外交](concepts/KinshipLegitimacyDiplomacy.md) — Taishi Dan's Zhou-Qin common-origin appeal read as diplomatic legitimacy work rather than pure prophecy.
 - [Early Warring States Interstate War / 战国早期诸侯混战](concepts/EarlyWarringStatesInterstateWar.md) — Zhouji 09 frame for the tangled Qi-Yan-Han-Zhao-Wei-Chu conflict around 380-379 BCE.
 - [Use Strengths Over Faults / 用人取长弃短](concepts/UseStrengthsOverFaults.md) — Zisi's talent-selection lesson that wartime rulers should not waste scarce ability over lesser blemishes.
 - [Court Feedback Collapse / 君臣反馈失灵](concepts/CourtFeedbackCollapse.md) — Governance failure where rulers and ministers reinforce each other's self-certainty instead of correcting errors.

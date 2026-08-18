@@ -2,7 +2,7 @@
 title: "郑国 / Zheng State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
+sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-18
 ---
 
@@ -14,9 +14,12 @@ In the episode, Zheng besieges [[HanState|韩国]]'s Yangdi soon after [[HanJing
 
 [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] completes that Zheng thread: [[ZiyangZheng|子阳]]'s remaining faction kills [[ZhengXugong|郑繻公]] and installs [[ZhengKangGong|郑康公]]. The same source later treats [[FushuCity|负黍]]'s return from Zheng to Han as evidence that Zheng's territorial control is weakening.
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] closes this branch from the other side. [[HanState|韩国]] destroys Zheng in 375 BCE and moves its capital to Xinzheng; the episode reads this as the endpoint of several Han generations pressing toward Zheng through war and [[StrategicCapitalRelocation|capital relocation]].
+
 ## Connections
 - [[SmallStateBufferDiplomacy]] - main geopolitical frame.
 - [[SpringAutumnToWarringStatesPoliticalViolence]] - internal violence frame.
 - [[ZiyangZheng|子阳]], [[ZhengXugong|郑繻公]], and [[ZhengKangGong|郑康公]] - Zheng factional-assassination branch.
 - [[HanState|韩国]], [[JinState|晋国]], and [[ChuState|楚国]] - pressure field around Zheng.
 - [[FushuCity|负黍]] and [[TerritorialControlChurn]] - territorial-control branch.
+- [[GenerationalFamilyStrategy]], [[StrategicCapitalRelocation]], [[HanKangzi|韩康子]], [[HanWuzi|韩武子]], and [[HanAihou|韩哀侯]] - Zhouji 10 absorption by Han.

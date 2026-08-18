@@ -2,7 +2,7 @@
 title: "赵国 / Zhao State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
+sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-18
 ---
 
@@ -16,6 +16,8 @@ The page is source-scoped. Zhao's wiki role here is to anchor the episode's clai
 
 [[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] makes Zhao a main actor in [[EarlyWarringStatesInterstateWar]]. Zhao first joins Han and Wei against Qi, then attacks [[WeiState|魏国]], is pressed by Wei and Qi together, seeks help from [[ChuState|楚国]], and later joins Han and Wei in ending [[JinState|晋国]]. Because the transcript's ruler name is unstable in the war narration, this page keeps the added role state-level.
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] adds [[ZhaoJinghou|赵靖侯]]'s death in 375 BCE and [[ZhaoChenghou|赵成侯]]'s accession. It then shows Zhao acting aggressively early in the new reign by attacking [[WeiState|魏国]] and taking seventy-three "du-bi" settlements before Wei wins at Beiling.
+
 ## Connections
 - [[ZhaoLiehou|赵烈侯]] and [[ZhaoWuhou|赵武侯]] - succession pair in the source.
 - [[ZhaoJinghou|赵靖侯]] and [[LegalistRulerTechnique]] - Zhouji 08 part 2 succession and Han Fei branch.
@@ -23,3 +25,4 @@ The page is source-scoped. Zhao's wiki role here is to anchor the episode's clai
 - [[JinState|晋国]] - older Jin context around the post-Jin state system.
 - [[WarringStatesPeriod|战国时期]] - period setting.
 - [[EarlyWarringStatesInterstateWar]], [[ChuSuwang|楚肃王]], and [[JinJinggong|晋静公]] - Zhouji 09 war and Jin-ending branch.
+- [[ZhaoChenghou|赵成侯]], [[ZhouLiewang|周烈王]], [[WeiState|魏国]], and [[TerritorialControlChurn]] - Zhouji 10 succession and conflict branch.

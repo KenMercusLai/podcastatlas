@@ -2,7 +2,7 @@
 title: "韩国 / Han State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
+sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-18
 ---
 
@@ -18,6 +18,8 @@ The source uses Han less as a full institutional history than as a succession an
 
 [[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] keeps Han in both war and succession roles. Han joins Zhao and Wei to attack Qi in support of Yan, later joins Zhao and Wei again against Qi at Lingqiu, sees [[HanWenhou|韩文侯]] die and [[HanAihou|韩哀侯]] succeed, and participates in the final deposition of [[JinJinggong|晋静公]].
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] turns Han from one actor in interstate churn into the episode's main long-strategy case. It traces Han from [[HanKangzi|韩康子]] and [[HanWuzi|韩武子]] through [[HanJinghou|韩景侯]], [[HanLiehou|韩烈侯]], [[HanWenhou|韩文侯]], and [[HanAihou|韩哀侯]], arguing that the absorption of [[ZhengState|郑国]] in 375 BCE was built through [[GenerationalFamilyStrategy|generational family strategy]] and [[StrategicCapitalRelocation|strategic capital relocation]].
+
 ## Connections
 - [[HanJinghou|韩景侯]] and [[HanLiehou|韩烈侯]] - succession pair in the source.
 - [[ZhaoState|赵国]] and [[WeiState|魏国]] - allied attack on Chu.
@@ -27,3 +29,4 @@ The source uses Han less as a full institutional history than as a succession an
 - [[HanWenhou|韩文侯]] - successor added by Zhouji 08 part 2.
 - [[WarringStatesPeriod|战国时期]] - broad period context.
 - [[EarlyWarringStatesInterstateWar]], [[JinJinggong|晋静公]], and [[HanAihou|韩哀侯]] - Zhouji 09 war, Jin-ending, and succession branch.
+- [[HanKangzi|韩康子]], [[HanWuzi|韩武子]], [[GenerationalFamilyStrategy]], and [[StrategicCapitalRelocation]] - Zhouji 10 long conquest of Zheng.

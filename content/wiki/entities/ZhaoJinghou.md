@@ -2,7 +2,7 @@
 title: "赵靖侯 / Marquis Jing of Zhao"
 type: entity
 tags: [person, ruler, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
+sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-18
 ---
 
@@ -14,6 +14,8 @@ The host brings him back through [[HanFei|韩非]]. In that reading, Zhao Jingho
 
 [[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] names Zhao Jinghou in the new-generation ruler setting around the early Warring States melee. Because the transcript later varies Zhao's ruler name in the war narrative, the war events are recorded mainly on [[ZhaoState|赵国]] rather than treated as new Zhao Jinghou biography.
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] gives the end of Zhao Jinghou's reign: he dies in 375 BCE, and Zhao Zhong succeeds as [[ZhaoChenghou|赵成侯]].
+
 ## Connections
 - [[ZhaoState|赵国]] - polity he rules.
 - [[ZhaoLiehou|赵烈侯]] - father and predecessor line.
@@ -21,3 +23,4 @@ The host brings him back through [[HanFei|韩非]]. In that reading, Zhao Jingho
 - [[HanFei|韩非]] and [[LegalistRulerTechnique]] - interpretive branch attached to his rule.
 - [[WarringStatesPeriod|战国时期]] - period setting.
 - [[EarlyWarringStatesInterstateWar]] - state-level war branch in Zhouji 09.
+- [[ZhaoChenghou|赵成侯]] and [[ZhouLiewang|周烈王]] - Zhouji 10 death and succession notice.

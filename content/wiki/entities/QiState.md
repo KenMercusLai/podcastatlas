@@ -2,7 +2,7 @@
 title: "齐国 / Qi State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
+sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-18
 ---
 
@@ -18,6 +18,8 @@ The page also gives a home to existing Qi-related pre-Qin nodes such as [[QiHuan
 
 [[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] makes Qi central to both war and dynastic transition. Qi attacks [[YanState|燕国]], is counterattacked by Han, Zhao, and Wei, later joins Wei against Zhao, and is attacked again by the three Jin states at Lingqiu. The same source says [[QiKangGong|齐康公]] dies without an heir, ending Jiang-line Qi, while Tian-family succession continues through [[TianQiHuanGong|Tian-family Qi Huan Gong]] and [[TianYingqi|田英齐]].
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] keeps Qi as the target of several 373 BCE attacks. [[YanState|燕国]] defeats Qi at Linghu, while [[LuState|鲁国]] and [[WeyState|卫国]] also attack Qi.
+
 ## Connections
 - [[SimaRangju|司马穰苴]], [[YanYing|晏婴]], and [[QiJinggong|齐景公]] - source-specific Qi branch.
 - [[QiHuanGong|齐桓公]] and [[QiXuanWang|齐宣王]] - existing Qi-related wiki pages.
@@ -25,3 +27,4 @@ The page also gives a home to existing Qi-related pre-Qin nodes such as [[QiHuan
 - [[TianHe|田和]], [[ZhouRoyalHouse|周王室]], and [[ZhouAnWang|周安王]] - formal recognition branch added by Zhouji 08 part 2.
 - [[SpringAndAutumnPeriod|春秋时期]] and [[WarringStatesPeriod|战国时期]] - broader pre-Qin settings.
 - [[EarlyWarringStatesInterstateWar]], [[YanState|燕国]], [[QiKangGong|齐康公]], [[TianQiHuanGong|Tian-family Qi Huan Gong]], and [[TianYingqi|田英齐]] - Zhouji 09 war and Qi-transition branch.
+- [[LuState|鲁国]], [[WeyState|卫国]], [[YanHuanGong|燕桓公]], and [[ZhouLiewang|周烈王]] - Zhouji 10 attack cluster.

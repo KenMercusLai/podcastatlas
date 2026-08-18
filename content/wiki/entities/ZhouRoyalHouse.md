@@ -2,7 +2,7 @@
 title: "周王室 / Zhou Royal House"
 type: entity
 tags: [polity, pre-qin, zhou-dynasty, china]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
+sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-18
 ---
 
@@ -18,6 +18,8 @@ The page's role is chronological and legitimating: even as the episode moves thr
 
 [[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] adds the transition from [[ZhouAnWang|周安王]] to [[ZhouLiewang|周烈王]] in 376 BCE. The same source shows how the Zhou chronology still frames events even as the substantive power shifts to Han, Zhao, Wei, Qi, Chu, and the final partition of [[JinState|晋国]].
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] adds a more active Zhou diplomatic role through [[TaishiDan|太史旦]]. The host reads Taishi Dan's visit to [[QinXianGong|秦献公]] as an attempt to stress old Zhou-Qin ties and pull [[QinState|秦国]] toward respect for Zhou legitimacy through [[KinshipLegitimacyDiplomacy|kinship legitimacy diplomacy]].
+
 ## Connections
 - [[ZhouWeilieWang|周威烈王]] and [[ZhouAnWang|周安王]] - succession pair in the source.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame.
@@ -26,3 +28,4 @@ The page's role is chronological and legitimating: even as the episode moves thr
 - [[WangziDing|王子定]] and [[AristocraticPoliticalAsylum]] - episode 07 exile branch.
 - [[SongState|宋国]], [[WeiziQi|微子启]], and [[ShangRemnantStateLegitimacy]] - episode 07 part 2 incorporation branch.
 - [[ZhouLiewang|周烈王]], [[EarlyWarringStatesInterstateWar]], and [[JinJinggong|晋静公]] - Zhouji 09 reign transition and old-order ending.
+- [[TaishiDan|太史旦]], [[Shiji|《史记》]], [[QinState|秦国]], [[QinXianGong|秦献公]], and [[KinshipLegitimacyDiplomacy]] - Zhouji 10 Qin outreach branch.

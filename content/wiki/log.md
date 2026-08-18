@@ -7826,6 +7826,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on Zhou An Wang's first
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-18] ingest | 《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（1）
+
+Added source page for a 芮淇讲透资治通鉴 episode on Zhou Lie Wang years 1-4, Han destroying Zheng through multi-generation family strategy and strategic capital relocation, Taishi Dan's Shiji visit to Qin Xian Gong, Qin's origin from Feizi to recognized statehood, and compact Yan/Qi/Lu/Wey/Song/Zhao/Wei war and succession notices. Created pages for Shiji, Han Kangzi, Han Wuzi, Zhao Chenghou, Taishi Dan, Qin Xian Gong, Qin Feizi, Qin Xiang Gong, Zhou Xiao Wang, Zhou You Wang, Zhou Ping Wang, Qin Wen Gong, Laozi, Yan Huan Gong, Song Pi Gong, Wey State, Wey Sheng Gong, Wey Cheng Gong, Generational Family Strategy, Strategic Capital Relocation, and Kinship Legitimacy Diplomacy; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Sima Guang, Zhou Lie Wang, Zhou Royal House, Warring States Period, Han State, Zheng State, Qin State, Zhao State, Zhao Jinghou, Han Jinghou, Han Lie Hou, Han Wen Hou, Han Ai Hou, Yan State, Yan Xi Gong, Qi State, Lu State, Song State, Song Xiu Gong, Wei State, Small-State Buffer Diplomacy, Chronicle Source Gaps, Territorial Control Churn, Celestial Omen Political Responsibility, Yin-Yang Five-Phases Political Theory, Historical Detective Reasoning, and Mandate of Heaven Legitimacy. No direct contradiction found; Taishi Dan's possible identification with Laozi is kept speculative, and Wey State is disambiguated from Wei State.
+
 ## [2026-08-18] ingest | GameStop CEO Ryan Cohen's $56B Plan to Take Over eBay
 
 Added source page for an All-In interview with Ryan Cohen on founding Chewy, applying and then unlearning the Chewy/Amazon ecommerce playbook at GameStop, cutting costs, expanding pre-owned and collectibles, and pursuing a contested GameStop acquisition of eBay. Created pages for Ryan Cohen, Chewy, Low-Margin Retail Execution, Store-Network Marketplace Infrastructure, Marketplace Live Commerce, and In-Game Asset Marketplace; updated overview, index, All-In, GameStop, eBay, Activist Investor Pressure, Management Shareholder Alignment Risk, Marketplace Friction Reduction, Authentication-Led Marketplace Trust, Service-Led Retail Moat, Ecommerce Fulfillment Complexity, Founder Proximity, and Secondhand Game Economy. No direct contradiction found; claims about eBay metrics, seller sentiment, management incentives, financing certainty, shareholder support, and deal upside are kept source-scoped because they come from Cohen's side of a contested transaction.
@@ -8078,6 +8082,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] ingest | 《资治通鉴·周纪》09丨战国时代的世界大战
 
 Added source page for a 芮淇讲透资治通鉴 episode on the broad early Warring States melee among Qi, Yan, Han, Zhao, Wei, and Chu; Jiang-line Qi's end; Jin's final extinction; Zhongshan's revival; Zhou An Wang's death and Zhou Lie Wang's accession; and Zisi's advice on Gou Bian, flawed talent, remonstrance, and court flattery. Created pages for Zisi, Gou Bian, Zhou Lie Wang, Yan Jian Gong, Qi Kang Gong, Tian-family Qi Huan Gong, Tian Yingqi, Chu Su Wang, Jin Xiao Gong, Jin Jing Gong, Zhongshan State, Wei Zhi, Lu Mu Gong, Lu Gong Gong, Early Warring States Interstate War, Use Strengths Over Faults, and Court Feedback Collapse; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou An Wang, Zhou Royal House, Warring States Period, Wei State, Wei Wuhou, Zhao State, Zhao Jinghou, Han State, Han Wenhou, Han Aihou, Qi State, Yan State, Chu State, Jin State, Lu State, Tian He, Gongshu, Shijing, Sima Guang, Confucius, Chronicle Source Gaps, and Territorial Control Churn. No direct contradiction found; the Tian-family Qi Huan Gong title is kept separate from the older Spring-Autumn Qi Huan Gong, and the unstable Zhao ruler wording in the transcript is kept state-level rather than turned into a new page.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-18] lint | Wiki health check
 
