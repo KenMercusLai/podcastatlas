@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》32丨“史上首位联合国秘书长”苏秦](sources/zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3.md) — 芮淇讲透资治通鉴 episode completing Su Qin's hezong circuit through Han, Wei, Qi, and Chu, with dignity-based persuasion, Wei military transformation, Linzi urban prosperity, and the Shiji homecoming sequel.
 - [《资治通鉴·周纪》31丨合纵连横 围殴秦](sources/zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih.md) — 芮淇讲透资治通鉴 episode on hezong as anti-Qin coalition design, Su Qin's Zhao Suhou pitch, Qin's attack on Wei, and Su Qin's manipulation of Zhang Yi into Qin as the lianheng counterpart.
 - [《资治通鉴·周纪》30丨苏秦的“开挂”人生](sources/zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw.md) — 芮淇讲透资治通鉴 episode on Su Qin's turn from broad reading to deep study of 《阴符》, his grasp of 揣摩, repeated failed lobbying, and first Yan backing as the opening toward hezong alliance work.
 - [《资治通鉴·周纪》29丨苏秦励志爽文：知识改变命运](sources/zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv.md) — 芮淇讲透资治通鉴 episode on Zhang Chou saving Tian Ying after Chu's anti-Qi pressure, disputed Qi/Su Qin chronology, and Su Qin's failure-driven self-study becoming a durable inspirational narrative.
@@ -1036,6 +1037,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [临淄 / Linzi](entities/Linzi.md) — Qi capital whose population, entertainment, density, and public confidence become evidence in Su Qin's anti-Qin persuasion.
 - [《阴符》 / Yinfu Jing](entities/YinfuJing.md) — Text Su Qin studies after failure, with Zhouji 30 distinguishing Shiji's 《周书阴符》 from Zhanguo Ce's 《太公阴符之谋》.
 - [《六韬》 / Six Secret Teachings](entities/Liutao.md) — Military text used as one possible but less persuasive identification for the 《阴符》 material in Su Qin's breakthrough story.
 - [田斑 / Tian Ban](entities/TianBan.md) — Qi replacement figure invoked by Zhang Chou to persuade Chu Wei Wang that expelling Tian Ying could strengthen Qi.
@@ -1052,7 +1054,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [越国 / Yue State](entities/YueState.md) — Warring States state whose failed anti-Qi move and later Chu defeat are kept distinct from final extinction.
 - [越王无疆 / Yue Wang Wujiang](entities/YueWangWujiang.md) — Yue ruler whose failed attack on Qi begins a decline branch rather than an immediate collapse.
 - [张丑 / Zhang Chou](entities/ZhangChou.md) — Qi minister who warns Tian Ying that accepting Wei's title gift will trigger strong-state backlash.
-- [苏秦 / Su Qin](entities/SuQin.md) — Warring States persuader whose branch now covers doubtful hezong chronology, failure-driven self-study, 揣摩, and first Yan patronage.
+- [苏秦 / Su Qin](entities/SuQin.md) — Warring States persuader whose branch now covers doubtful hezong chronology, failure-driven self-study, 揣摩, first Yan patronage, and the completed six-state coalition tour.
 - [张仪 / Zhang Yi (Warring States strategist)](entities/ZhangYiStrategist.md) — Warring States strategist page kept distinct from the existing modern Zhang Yi entity.
 - [惠施 / Hui Shi](entities/HuiShi.md) — Wei adviser who uses low-posture diplomacy after Maling to turn Wei's deference to Qi into strategic breathing room.
 - [宜阳 / Yiyang (Warring States)](entities/YiyangWarringStates.md) — Han place seized by Qin in 335 BCE and treated as a long-coveted strategic target.
@@ -7030,15 +7032,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
-- [揣摩 / Chuaimo Technique](concepts/ChuaimoTechnique.md) — Su Qin's persuader method combining situation reading with insight into the listener's motives and fears.
+- [Dignity-Based Persuasion / 尊严激将式说服](concepts/DignityBasedPersuasion.md) — Su Qin's pattern of turning anti-Qin strategy into a face-and-dignity choice for rulers.
+- [Warring States Military Transformation / 战国军事形态转变](concepts/WarringStatesMilitaryTransformation.md) — Military-history inference from Wei's army list showing infantry growth, chariot decline, and still-auxiliary cavalry.
+- [Warring States Urban Prosperity / 战国城市繁荣](concepts/WarringStatesUrbanProsperity.md) — Linzi-based concept connecting population, entertainment, urban density, and civic confidence to state capacity.
+- [揣摩 / Chuaimo Technique](concepts/ChuaimoTechnique.md) — Su Qin's persuader method combining situation reading with insight into the listener's motives and fears, extended by audience-specific dignity appeals.
 - [Common-Enemy Alliance / 共同敌人联盟](concepts/CommonEnemyAlliance.md) — Alliance-building pattern where a shared threat can bind states more effectively than broad shared interest.
-- [合纵 / Hezong Alliance](concepts/HezongAlliance.md) — Anti-Qin coalition policy attached to Su Qin, now grounded in Zhouji 30's first Yan-Zhao step as well as Zhouji 29's chronology caution.
+- [合纵 / Hezong Alliance](concepts/HezongAlliance.md) — Anti-Qin coalition policy attached to Su Qin, now grounded in first patronage, Zhao authorization, and the completed six-state persuasion circuit.
 - [连横 / Lianheng Strategy](concepts/LianhengStrategy.md) — Qin-facing diplomatic strategy contrasted with hezong, introduced through Su Qin's critique and Zhang Yi's entry into Qin.
 - [Failure-Driven Self-Study / 失败后的自学翻身](concepts/FailureDrivenSelfStudy.md) — Pattern where failed formal preparation, shame, and status pressure drive focused self-study that still needs access and patronage.
 - [Inspirational Narrative Commercialization / 励志叙事商业化](concepts/InspirationalNarrativeCommercialization.md) — Pattern where complex historical failure-and-rise stories become packaged motivational scripts.
 - [时绌举赢 / Untimely Extravagance](concepts/UntimelyExtravagance.md) — Ruler-ethics pattern where visible prestige spending becomes wrong because war, drought, or public burden makes the timing politically unfit.
 - [Status Order Backlash / 名分秩序反弹](concepts/StatusOrderBacklash.md) — Diplomatic-status pattern where a title elevation provokes third-party rulers by changing perceived rank.
-- [纵横家外交 / Zonghengjia Diplomacy](concepts/ZonghengjiaDiplomacy.md) — Warring States mode where persuaders use rhetoric, threat maps, audience reading, and alliance design as instruments of interstate power.
+- [纵横家外交 / Zonghengjia Diplomacy](concepts/ZonghengjiaDiplomacy.md) — Warring States mode where persuaders use rhetoric, threat maps, audience reading, dignity appeals, and alliance design as instruments of interstate power.
 - [徐州相王 / Xuzhou Mutual Kingship](concepts/XuzhouMutualKingship.md) — Post-Maling Qi-Wei mutual recognition that converts battlefield re-ranking into face-saving title diplomacy.
 - [Low-Posture Statecraft / 低姿态权宜](concepts/LowPostureStatecraft.md) — Strategy of deliberate deference or displayed insufficiency, useful as expedient but risky as permanent survival doctrine.
 - [Renyi-Benefit Ordering / 仁义优先的利益秩序](concepts/RenyiBenefitOrdering.md) — Zhouji 26 refinement that Mencius rejects profit-first ordering rather than public benefit itself.

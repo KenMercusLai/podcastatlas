@@ -2,7 +2,7 @@
 title: "苏秦 / Su Qin"
 type: entity
 tags: [person, strategist, diplomat, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
+sources: [zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
 last_updated: 2026-08-19
 ---
 
@@ -22,6 +22,8 @@ The Yan success gives Su Qin his first practical backing. He persuades [[YanWeng
 
 The same source makes Su Qin's handling of [[ZhangYiStrategist|张仪]] part of his strategist craft. When [[QinState|秦国]] attacks Wei and threatens to disrupt the hezong timetable, Su Qin humiliates Zhang Yi, secretly funds his trip to Qin, and relies on his resentment and ambition to place him near [[YingSi|秦惠文王]]. The episode therefore treats Su Qin as manipulating both state incentives and personal psychology.
 
+[[zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]] completes that hezong circuit. Su Qin persuades [[HanXuanhuiwang|韩宣惠王]], [[WeiState|魏国]], [[QiState|齐国]], and [[ChuWeiwang|楚威王]] by tailoring the same basic case to each ruler: Qin accommodation means cumulative loss, while resistance preserves dignity. The episode makes him "从约长" and simultaneous minister of the six eastern states, then follows [[Shiji|《史记》]] into his [[Luoyi|洛阳 / 洛邑]] homecoming, where public honor and family submission reverse his earlier humiliation.
+
 That makes Su Qin the source's main case for [[FailureDrivenSelfStudy|失败后的自学翻身]]. His story keeps the appeal of "knowledge changes fate," but the episode emphasizes the pressure behind it: close-family humiliation, rank anxiety, and the desire to prove oneself before people who saw the failure. Later reception then packages him through [[InspirationalNarrativeCommercialization|励志叙事商业化]], including the familiar "头悬梁、锥刺股" tag and [[SimaGuang|司马光]]'s poem to [[WuZhicai|吾之才]].
 
 The episode also places Su Qin inside a strategist family and rivalry network. [[SuDai|苏代]] and [[SuLi|苏厉]] are named as famous brothers, while [[ZhangYiStrategist|张仪]] is treated as his fellow [[Guiguzi|鬼谷子]] student and eventual counterpart in [[ZonghengjiaDiplomacy|纵横家外交]].
@@ -31,6 +33,7 @@ The episode also places Su Qin inside a strategist family and rivalry network. [
 - [[ZhangYiStrategist|张仪]] and [[LianhengStrategy|连横]] - paired Warring States strategist, fellow student, later rival, and Qin-side path Su Qin helps trigger.
 - [[Guiguzi|鬼谷子]], [[SuDai|苏代]], and [[SuLi|苏厉]] - teacher tradition and family branch.
 - [[HezongAlliance|合纵]] and [[ZonghengjiaDiplomacy|纵横家外交]] - policy and diplomatic field attached to him.
+- [[DignityBasedPersuasion|尊严激将式说服]], [[WarringStatesMilitaryTransformation|战国军事形态转变]], [[Linzi|临淄]], and [[WarringStatesUrbanProsperity|战国城市繁荣]] - Zhouji 32 audience-specific persuasion, military, and Qi-capital branches.
 - [[FailureDrivenSelfStudy|失败后的自学翻身]], [[InspirationalNarrativeCommercialization|励志叙事商业化]], [[ClassMobilityPerformance|阶层上升表演]], and [[SubjectivityThroughFailure|失败中的主体性]] - life-story and reception frames.
 - [[Shiji|《史记》]], [[SimaQian|司马迁]], [[SimaGuang|司马光]], [[WuZhicai|吾之才]], and [[ZhuFuYan|主父偃]] - classical biography and later consolation branch.
 - [[ChronicleChronologyDrift|编年错位]], [[QiChronologyDispute|齐威王编年争议]], [[ZizhiTongjian|《资治通鉴》]], [[ZhouXianwang|周显王]], and [[WarringStatesPeriod|战国时期]] - source and dating frame.

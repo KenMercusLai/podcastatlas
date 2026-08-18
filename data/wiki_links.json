@@ -11631,6 +11631,10 @@
     "title": "Dignitas",
     "url": "/wiki/entities/dignitas/"
   },
+  "DignityBasedPersuasion": {
+    "title": "Dignity-Based Persuasion / 尊严激将式说服",
+    "url": "/wiki/concepts/dignitybasedpersuasion/"
+  },
   "DignityProtectingDeduction": {
     "title": "体面保护式推理 / Dignity-Protecting Deduction",
     "url": "/wiki/concepts/dignityprotectingdeduction/"
@@ -23438,6 +23442,10 @@
   "LinkedIn": {
     "title": "LinkedIn",
     "url": "/wiki/entities/linkedin/"
+  },
+  "Linzi": {
+    "title": "临淄 / Linzi",
+    "url": "/wiki/entities/linzi/"
   },
   "LionelMessi": {
     "title": "Lionel Messi",
@@ -41027,6 +41035,10 @@
     "title": "Warring States Marriage Diplomacy / 战国联姻外交",
     "url": "/wiki/concepts/warringstatesmarriagediplomacy/"
   },
+  "WarringStatesMilitaryTransformation": {
+    "title": "Warring States Military Transformation / 战国军事形态转变",
+    "url": "/wiki/concepts/warringstatesmilitarytransformation/"
+  },
   "WarringStatesPeriod": {
     "title": "战国时期 / Warring States Period",
     "url": "/wiki/entities/warringstatesperiod/"
@@ -41034,6 +41046,10 @@
   "WarringStatesReformBacklash": {
     "title": "Warring States Reform Backlash / 战国变法反噬",
     "url": "/wiki/concepts/warringstatesreformbacklash/"
+  },
+  "WarringStatesUrbanProsperity": {
+    "title": "Warring States Urban Prosperity / 战国城市繁荣",
+    "url": "/wiki/concepts/warringstatesurbanprosperity/"
   },
   "WarsOfTheRoses": {
     "title": "Wars of the Roses / 玫瑰战争",
@@ -46978,5 +46994,9 @@
   "zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih": {
     "title": "《资治通鉴·周纪》31丨合纵连横 围殴秦",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih/"
+  },
+  "zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3": {
+    "title": "《资治通鉴·周纪》32丨“史上首位联合国秘书长”苏秦",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3/"
   }
 }

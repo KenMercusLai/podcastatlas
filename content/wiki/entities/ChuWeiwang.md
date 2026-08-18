@@ -2,7 +2,7 @@
 title: "楚威王 / King Wei of Chu"
 type: entity
 tags: [person, ruler, pre-qin, warring-states, chu-state]
-sources: [zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi]
+sources: [zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi]
 last_updated: 2026-08-19
 ---
 
@@ -14,7 +14,9 @@ last_updated: 2026-08-19
 
 [[zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]] continues that active role. After defeating Qi, Chu Wei Wang demands that [[QiWeiwang|齐威王]] expel [[TianYing|田婴]]. [[ZhangChou|张丑]] persuades him that expelling Tian Ying might let [[TianBan|田斑]] or another stronger figure reorganize Qi's army, so Chu's interest is better served by leaving Tian Ying in place.
 
-The page remains source-scoped. The earlier episodes only use the succession notice to keep [[ZhouXianwang|周显王]]'s annalistic year intact, while Zhouji 28 develops his role in the post-Xuzhou backlash.
+[[zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]] gives him the final ruler role in [[SuQin|苏秦]]'s hezong tour. After Su Qin has persuaded Han, Wei, and Qi, Chu Wei Wang's agreement completes the six-state anti-Qin line and lets Su Qin become "从约长."
+
+The page remains source-scoped. The earlier episodes only use the succession notice to keep [[ZhouXianwang|周显王]]'s annalistic year intact, while Zhouji 28 develops his role in the post-Xuzhou backlash and Zhouji 32 places him inside the completed hezong legend.
 
 ## Connections
 - [[ChuState|楚国]] - polity he rules.
@@ -23,3 +25,4 @@ The page remains source-scoped. The earlier episodes only use the succession not
 - [[WarringStatesPeriod|战国时期]] - broader period setting.
 - [[QiState|齐国]], [[Xuzhou|徐州]], [[XuzhouMutualKingship|徐州相王]], and [[StatusOrderBacklash|名分秩序反弹]] - Zhouji 28 attack and status-politics branch.
 - [[TianYing|田婴]], [[ZhangChou|张丑]], and [[TianBan|田斑]] - Zhouji 29 expulsion-demand and persuasion branch.
+- [[SuQin|苏秦]] and [[HezongAlliance|合纵]] - Zhouji 32 final acceptance in the six-state alliance circuit.

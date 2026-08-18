@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》32丨“史上首位联合国秘书长”苏秦
+
+Added source page for a 芮淇讲透资治通鉴 episode completing Su Qin's hezong circuit through Han, Wei, Qi, and Chu: the episode shows Su Qin repeatedly praising state strength, making service to Qin look like endless land loss, and then using dignity pressure to secure agreement. Created Linzi, Dignity-Based Persuasion, Warring States Military Transformation, and Warring States Urban Prosperity; updated overview, index, Su Qin, Han Xuanhui Wang, Han/Wei/Qi/Chu state pages, Chu Wei Wang, Zhao Suhou, Zhou Xian Wang, Luoyi, Zizhi Tongjian, Shiji, Ruiqi Jiangtou Zizhi Tongjian, Hezong Alliance, Zonghengjia Diplomacy, Chuaimo Technique, Common-Enemy Alliance, and Warring States Period. No direct contradiction found; the episode's 333 BCE six-state success is kept source-scoped beside the existing Zhouji 29 chronology caution.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》31丨合纵连横 围殴秦
 
 Added source page for a 芮淇讲透资治通鉴 episode continuing Su Qin from Yan-backed diplomacy into Zhao authorization for hezong: the episode defines hezong against lianheng, frames it as anti-Qin coalition design rather than peace rhetoric, has Su Qin persuade Zhao Suhou through Qin-Han-Wei threat analysis, and uses Qin's attack on Wei plus Long Jia's capture to explain why Su Qin pushes Zhang Yi into Qin. Created Lianheng Strategy; updated overview, index, Su Qin, Zhang Yi, Zhao Suhou, Ying Si/Qin Huiwen Wang, Long Jia, Guiguzi, Qin/Wei/Zhao/Yan state pages, Zhou Xian Wang, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Hezong Alliance, Common-Enemy Alliance, Chuaimo Technique, Qin Eastward Pressure, and Zonghengjia Diplomacy. No direct contradiction found; Zhang Yi's temporary cooperation is kept source-scoped as part of this episode's Su Qin strategy branch.
@@ -8286,6 +8290,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] ingest | 《资治通鉴·周纪》30丨苏秦的“开挂”人生
 
 Added source page for a 芮淇讲透资治通鉴 episode continuing Su Qin after family humiliation: broad reading gives way to deep study of 《阴符》, the breakthrough is framed as 揣摩, and renewed attempts still fail at Zhou, Qin, and Zhao before Yan Wen Gong supplies funding and diplomatic status. Created pages for 《阴符》, 《六韬》, 揣摩, and common-enemy alliance logic; updated overview, index, Su Qin, Yan Wen Gong, Ying Si/Qin Huiwen Wang, Yan/Qin/Zhao state pages, Zhou Xian Wang, Guiguzi, Shiji, Zhanguo Ce, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Hezong Alliance, Zonghengjia Diplomacy, and Failure-Driven Self-Study. No direct contradiction found; Yan Wen Gong's active role is kept source-scoped beside the prior Zhouji 29 succession notice.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-19] lint | Wiki health check
 
