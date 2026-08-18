@@ -2,7 +2,7 @@
 title: "纵横家外交 / Zonghengjia Diplomacy"
 type: concept
 tags: [diplomacy, rhetoric, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
+sources: [zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
 last_updated: 2026-08-19
 ---
 
@@ -14,8 +14,11 @@ last_updated: 2026-08-19
 
 The same episode begins the Su Qin / Zhang Yi pairing. Su Qin and Zhang Yi are presented as [[Guiguzi|鬼谷子]] students who later stand on opposed lines: Su Qin through hezong, Zhang Yi through the rival path associated with Qin-facing persuasion. Their story shows that zonghengjia diplomacy is not only policy theory; it is a competitive profession built from rhetoric, humiliation, status desire, and court access.
 
+[[zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]] gives that profession a craft vocabulary. Su Qin's [[ChuaimoTechnique|揣摩]] comes from deep reading [[YinfuJing|《阴符》]] and is tested by failure at Zhou, Qin, and Zhao before it succeeds with [[YanWengong|燕文公]]. The episode makes zonghengjia work depend on matching argument to audience, threat map, and usable patronage.
+
 ## Key Claims
 - Diplomatic rhetoric becomes a direct instrument of power in the Warring States field.
+- Persuasion is situational craft: the same speaker can fail or succeed depending on court mood, local reputation, and whether the argument fits the ruler's fear.
 - The chronicle's narrative allocation matters: brief annals give way to fuller persuader stories.
 - Zonghengjia activity grows out of a world where title status, coalition pressure, and multi-state fear already shape decisions.
 - Hezong-style alliance depends on cross-state coordination; the Su Qin legend should not be read as proof that such coordination appeared instantly.
@@ -23,6 +26,7 @@ The same episode begins the Su Qin / Zhang Yi pairing. Su Qin and Zhang Yi are p
 
 ## Connections
 - [[SuQin|苏秦]] and [[ZhangYiStrategist|张仪]] - figures previewed by the source.
+- [[ChuaimoTechnique|揣摩]], [[YinfuJing|《阴符》]], [[YanWengong|燕文公]], and [[CommonEnemyAlliance|共同敌人联盟]] - Zhouji 30 craft, text, first patron, and alliance-formation branch.
 - [[HezongAlliance|合纵]], [[QinState|秦国]], and [[Guiguzi|鬼谷子]] - policy, pressure target, and teacher tradition developed by Zhouji 29.
 - [[StatusOrderBacklash|名分秩序反弹]] and [[XuzhouMutualKingship|徐州相王]] - immediate diplomatic-status context before the narrative shift.
 - [[ChronicleChronologyDrift|编年错位]] - caution around the chronicle's dating of Su Qin's success.

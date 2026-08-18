@@ -2,7 +2,7 @@
 title: "《史记》 / Shiji"
 type: entity
 tags: [book, history, chinese-history, historiography]
-sources: [zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -34,6 +34,8 @@ The page's role is historiographical rather than encyclopedic. It marks a source
 
 [[zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]] uses Shiji as the developed biography source for [[SuQin|苏秦]]. The episode turns from [[ZizhiTongjian|《资治通鉴》]]'s doubtful annalistic placement to [[SimaQian|司马迁]]'s narrative of Su Qin studying under [[Guiguzi|鬼谷子]], failing after formal study, being mocked by family, and rebuilding through closed-door self-study.
 
+[[zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]] uses Shiji for the text name 《周书阴符》 in Su Qin's second study phase. The episode contrasts that label with [[Zhanguoce|《战国策》]]'s 《太公阴符之谋》 and treats the Shiji-linked [[YinfuJing|《阴符》]] line as more fitting for Su Qin's later [[ChuaimoTechnique|揣摩]] than the [[Liutao|《六韬》]] identification.
+
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle being supplemented in the episode.
 - [[YuRang|豫让]], [[ZhiYao|智瑶]], and [[RetainerReciprocityEthic]] - assassins-tradition branch added by Zhouji 04.
@@ -49,3 +51,4 @@ The page's role is historiographical rather than encyclopedic. It marks a source
 - [[ShangYang|公孙鞅 / 商鞅]], [[ShangYangReforms]], and [[LegalistSelfBindingBackfire|作法自毙]] - Zhouji 23 lodging anecdote and legal self-trap branch.
 - [[TextualVariantPoliticalStakes|史书异文政治重量]], [[ZhaoLiang|赵良]], [[BailiXi|百里奚]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], and [[PowerExitTrap|权力退场困境]] - Zhouji 24-25 resentment wording, remonstrance-comparison, and retreat-plan branch.
 - [[SuQin|苏秦]], [[Guiguzi|鬼谷子]], [[FailureDrivenSelfStudy|失败后的自学翻身]], and [[InspirationalNarrativeCommercialization|励志叙事商业化]] - Zhouji 29 Su Qin biography branch.
+- [[YinfuJing|《阴符》]], [[Liutao|《六韬》]], [[Zhanguoce|《战国策》]], and [[ChuaimoTechnique|揣摩]] - Zhouji 30 Su Qin text-version and technique branch.

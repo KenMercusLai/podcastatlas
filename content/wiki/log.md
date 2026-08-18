@@ -8278,3 +8278,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-19] ingest | 《资治通鉴·周纪》30丨苏秦的“开挂”人生
+
+Added source page for a 芮淇讲透资治通鉴 episode continuing Su Qin after family humiliation: broad reading gives way to deep study of 《阴符》, the breakthrough is framed as 揣摩, and renewed attempts still fail at Zhou, Qin, and Zhao before Yan Wen Gong supplies funding and diplomatic status. Created pages for 《阴符》, 《六韬》, 揣摩, and common-enemy alliance logic; updated overview, index, Su Qin, Yan Wen Gong, Ying Si/Qin Huiwen Wang, Yan/Qin/Zhao state pages, Zhou Xian Wang, Guiguzi, Shiji, Zhanguo Ce, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Hezong Alliance, Zonghengjia Diplomacy, and Failure-Driven Self-Study. No direct contradiction found; Yan Wen Gong's active role is kept source-scoped beside the prior Zhouji 29 succession notice.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》30丨苏秦的“开挂”人生](sources/zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw.md) — 芮淇讲透资治通鉴 episode on Su Qin's turn from broad reading to deep study of 《阴符》, his grasp of 揣摩, repeated failed lobbying, and first Yan backing as the opening toward hezong alliance work.
 - [《资治通鉴·周纪》29丨苏秦励志爽文：知识改变命运](sources/zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv.md) — 芮淇讲透资治通鉴 episode on Zhang Chou saving Tian Ying after Chu's anti-Qi pressure, disputed Qi/Su Qin chronology, and Su Qin's failure-driven self-study becoming a durable inspirational narrative.
 - [《资治通鉴·周纪》28丨韩昭侯的快乐你想象不到](sources/zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8.md) — 芮淇讲透资治通鉴 episode on Han Zhaohou's high gate as untimely extravagance, Yue Wang Wujiang's failed anti-Qi move, Chu Wei Wang's attack on Qi after Xuzhou mutual kingship, Zhang Chou's ignored warning, and the coming Su Qin/Zhang Yi zongheng turn.
 - [《资治通鉴·周纪》27丨围观魏惠王和齐威王是咋商业互捧](sources/zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb.md) — 芮淇讲透资治通鉴 episode on Qin taking Yiyang, the post-Maling Xuzhou mutual recognition between Qi Wei Wang and Wei Hui Wang, Tian Ying and Hui Shi's different diplomatic calculations, and low-posture strategy as bounded expedient rather than permanent weakness.
@@ -1034,9 +1035,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《阴符》 / Yinfu Jing](entities/YinfuJing.md) — Text Su Qin studies after failure, with Zhouji 30 distinguishing Shiji's 《周书阴符》 from Zhanguo Ce's 《太公阴符之谋》.
+- [《六韬》 / Six Secret Teachings](entities/Liutao.md) — Military text used as one possible but less persuasive identification for the 《阴符》 material in Su Qin's breakthrough story.
 - [田斑 / Tian Ban](entities/TianBan.md) — Qi replacement figure invoked by Zhang Chou to persuade Chu Wei Wang that expelling Tian Ying could strengthen Qi.
 - [韩宣惠王 / King Xuanhui of Han](entities/HanXuanhuiwang.md) — Han successor after Han Zhaohou's death in the Zhouji 29 succession cluster.
-- [燕文公 / Duke Wen of Yan](entities/YanWengong.md) — Yan ruler whose death opens the Zhouji 29 Yan succession notice.
+- [燕文公 / Duke Wen of Yan](entities/YanWengong.md) — Yan ruler whose Zhouji 29 succession notice is extended by Zhouji 30, where he funds Su Qin after hearing the Zhao-as-shield argument.
 - [燕易王 / King Yi of Yan](entities/YanYiwang.md) — Yan successor after Yan Wen Gong in the Zhouji 29 succession notice.
 - [魏成侯 / Marquis Cheng of Wei](entities/WeiChenghou.md) — Wei ruler whose death opens the Zhouji 29 Wei succession notice.
 - [魏平侯 / Marquis Ping of Wei](entities/WeiPinghou.md) — Wei successor after Wei Cheng Hou in the Zhouji 29 succession notice.
@@ -1048,7 +1051,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [越国 / Yue State](entities/YueState.md) — Warring States state whose failed anti-Qi move and later Chu defeat are kept distinct from final extinction.
 - [越王无疆 / Yue Wang Wujiang](entities/YueWangWujiang.md) — Yue ruler whose failed attack on Qi begins a decline branch rather than an immediate collapse.
 - [张丑 / Zhang Chou](entities/ZhangChou.md) — Qi minister who warns Tian Ying that accepting Wei's title gift will trigger strong-state backlash.
-- [苏秦 / Su Qin](entities/SuQin.md) — Warring States persuader developed as both doubtful hezong chronology and a failure-driven self-study/reception figure.
+- [苏秦 / Su Qin](entities/SuQin.md) — Warring States persuader whose branch now covers doubtful hezong chronology, failure-driven self-study, 揣摩, and first Yan patronage.
 - [张仪 / Zhang Yi (Warring States strategist)](entities/ZhangYiStrategist.md) — Warring States strategist page kept distinct from the existing modern Zhang Yi entity.
 - [惠施 / Hui Shi](entities/HuiShi.md) — Wei adviser who uses low-posture diplomacy after Maling to turn Wei's deference to Qi into strategic breathing room.
 - [宜阳 / Yiyang (Warring States)](entities/YiyangWarringStates.md) — Han place seized by Qin in 335 BCE and treated as a long-coveted strategic target.
@@ -1116,7 +1119,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [韩昭侯 / Marquis Zhao of Han](entities/HanZhaohou.md) — Han ruler likely involved in the 357 BCE Wei-Han meeting under Qin pressure.
 - [秦孝公 / Duke Xiao of Qin](entities/QinXiaogong.md) — Qin ruler who backs Shang Yang, rejects Gan Long's custom-based objection, and authorizes the first reform push.
 - [甘龙 / Gan Long](entities/GanLong.md) — Qin official whose opposition to Shang Yang frames the conflict between inherited custom and disruptive state-strengthening reform.
-- [嬴驷 / Ying Si](entities/YingSi.md) — Qin crown prince whose violation of the new law becomes the episode's cliffhanger test of reform authority.
+- [嬴驷 / Ying Si](entities/YingSi.md) — Qin crown prince turned Qin Huiwen Wang, whose branch now covers the Shang Yang law test, accession backlash, and Su Qin's failed Qin lobbying.
 - [王阳明 / Wang Yangming](entities/WangYangming.md) — Later analogy for collective-responsibility governance through 十家牌法.
 - [石门之战 / Battle of Shimen](entities/ShimenBattle.md) — 364 BCE Qin victory over the Three Jin coalition that leads Zhou Xian Wang to grant Qin Xian Gong a ritual robe.
 - [黻服 / Fu Robe](entities/FufuRobe.md) — Ritual garment granted by Zhou Xian Wang to Qin Xian Gong after Shimen, used to connect court dress to political recognition.
@@ -1210,7 +1213,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [田子方 / Tian Zifang](entities/TianZifang.md) — Scholar associated by the source with Qi's Tian world and with Wei Wenhou's respectful treatment of mobile talent.
 - [段干木 / Duan Ganmu](entities/DuanGanmu.md) — Recluse whose avoidance of Wei Wenhou sharpens the source's portrait of non-coercive respect for worthy people.
 - [齐国 / Qi State](entities/QiState.md) — Pre-Qin state whose Ruiqi branch spans Sima Rangju, Tian-family transition, Qi Wei Wang, Sun Bin's campaigns, and Tian Ji's post-Maling court crisis.
-- [燕国 / Yan State](entities/YanState.md) — Pre-Qin state appearing through the Yan Min Gong to Yan Xi Gong succession notice.
+- [燕国 / Yan State](entities/YanState.md) — Pre-Qin state that becomes Su Qin's first successful patronage base through Yan Wen Gong's Zhao-as-shield calculation.
 - [燕闵公 / Duke Min of Yan](entities/YanMinGong.md) — Yan ruler whose death leads to Yan Xi Gong's succession in the source.
 - [燕僖公 / Duke Xi of Yan](entities/YanXiGong.md) — Yan ruler succeeding Yan Min Gong in the source's chronology.
 - [楚国 / Chu State](entities/ChuState.md) — State whose branch runs from Chu Sheng Wang's opaque death notice to Wu Qi's strengthening reforms under Chu Dao Wang.
@@ -1221,14 +1224,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周安王 / King An of Zhou](entities/ZhouAnWang.md) — Zhou ruler succeeding King Weilie in the source's chronology.
 - [晋国 / Jin State](entities/JinState.md) — Pre-Qin state node for the Jin You Gong, Qin Ying, and Qin-Jin marriage-alliance comparison.
 - [晋幽公 / Duke You of Jin](entities/JinYouGong.md) — Jin ruler whose Bamboo Annals death account is used to illustrate political direction behind "bandits."
-- [秦国 / Qin State](entities/QinState.md) — Qin polity moving from kinship diplomacy and eastward pressure into Shang Yang's internal reform machinery.
+- [秦国 / Qin State](entities/QinState.md) — Qin polity moving from kinship diplomacy and eastward pressure into Shang Yang reform, then becoming both Su Qin's failed stop and the threat behind Yan-Zhao alignment.
 - [秦简公 / Duke Jian of Qin](entities/QinJianGong.md) — Qin ruler whose death leads to Qin Hui Gong's accession in the Zhouji 07 chronology.
 - [秦惠公 / Duke Hui of Qin](entities/QinHuiGong.md) — Qin Jian Gong's son and successor in the Zhouji 07 succession sequence.
 - [秦嬴 / Qin Ying](entities/QinYing.md) — Qin princess named in the Bamboo Annals account of Jin You Gong's assassination.
 - [韩国 / Han State](entities/HanState.md) — Early Warring States polity attacked by Zheng during Han Jinghou's mourning and succession window.
 - [韩景侯 / Marquis Jing of Han](entities/HanJinghou.md) — Han ruler whose death creates the vulnerability the episode links to Zheng's Yangdi attack.
 - [韩烈侯 / Marquis Lie of Han](entities/HanLiehou.md) — Han Jinghou's son and successor in the Zhouji 07 chronology.
-- [赵国 / Zhao State](entities/ZhaoState.md) — Early Warring States polity appearing through the Han-Zhao-Wei attack on Chu and Zhao succession notice.
+- [赵国 / Zhao State](entities/ZhaoState.md) — Early Warring States polity that becomes both Su Qin's failed early stop and Yan's necessary shield against Qin in Zhouji 30.
 - [赵烈侯 / Marquis Lie of Zhao](entities/ZhaoLiehou.md) — Zhao ruler whose death leads to Zhao Wuhou's installation.
 - [赵武侯 / Marquis Wu of Zhao](entities/ZhaoWuhou.md) — Zhao Liehou's younger brother and successor in the source.
 - [郑国 / Zheng State](entities/ZhengState.md) — Buffer state between Jin and Chu whose internal assassinations anchor Zhouji 07's political-violence thread.
@@ -7026,12 +7029,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
-- [合纵 / Hezong Alliance](concepts/HezongAlliance.md) — Anti-Qin coalition policy attached to Su Qin, with Zhouji 29 caution about the chronicle's sudden six-state placement.
-- [Failure-Driven Self-Study / 失败后的自学翻身](concepts/FailureDrivenSelfStudy.md) — Pattern where failed formal preparation, shame, and status pressure drive a second self-study project.
+- [揣摩 / Chuaimo Technique](concepts/ChuaimoTechnique.md) — Su Qin's persuader method combining situation reading with insight into the listener's motives and fears.
+- [Common-Enemy Alliance / 共同敌人联盟](concepts/CommonEnemyAlliance.md) — Alliance-building pattern where a shared threat can bind states more effectively than broad shared interest.
+- [合纵 / Hezong Alliance](concepts/HezongAlliance.md) — Anti-Qin coalition policy attached to Su Qin, now grounded in Zhouji 30's first Yan-Zhao step as well as Zhouji 29's chronology caution.
+- [Failure-Driven Self-Study / 失败后的自学翻身](concepts/FailureDrivenSelfStudy.md) — Pattern where failed formal preparation, shame, and status pressure drive focused self-study that still needs access and patronage.
 - [Inspirational Narrative Commercialization / 励志叙事商业化](concepts/InspirationalNarrativeCommercialization.md) — Pattern where complex historical failure-and-rise stories become packaged motivational scripts.
 - [时绌举赢 / Untimely Extravagance](concepts/UntimelyExtravagance.md) — Ruler-ethics pattern where visible prestige spending becomes wrong because war, drought, or public burden makes the timing politically unfit.
 - [Status Order Backlash / 名分秩序反弹](concepts/StatusOrderBacklash.md) — Diplomatic-status pattern where a title elevation provokes third-party rulers by changing perceived rank.
-- [纵横家外交 / Zonghengjia Diplomacy](concepts/ZonghengjiaDiplomacy.md) — Warring States mode where persuaders, alliance design, and rhetoric become central instruments of interstate power.
+- [纵横家外交 / Zonghengjia Diplomacy](concepts/ZonghengjiaDiplomacy.md) — Warring States mode where persuaders use rhetoric, threat maps, audience reading, and alliance design as instruments of interstate power.
 - [徐州相王 / Xuzhou Mutual Kingship](concepts/XuzhouMutualKingship.md) — Post-Maling Qi-Wei mutual recognition that converts battlefield re-ranking into face-saving title diplomacy.
 - [Low-Posture Statecraft / 低姿态权宜](concepts/LowPostureStatecraft.md) — Strategy of deliberate deference or displayed insufficiency, useful as expedient but risky as permanent survival doctrine.
 - [Renyi-Benefit Ordering / 仁义优先的利益秩序](concepts/RenyiBenefitOrdering.md) — Zhouji 26 refinement that Mencius rejects profit-first ordering rather than public benefit itself.

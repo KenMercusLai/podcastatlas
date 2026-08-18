@@ -1,0 +1,25 @@
+---
+title: "Common-Enemy Alliance / 共同敌人联盟"
+type: concept
+tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
+sources: [zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]
+last_updated: 2026-08-19
+---
+
+# Common-Enemy Alliance / 共同敌人联盟
+
+Common-enemy alliance / 共同敌人联盟 is the alliance-building pattern [[zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]] draws from [[SuQin|苏秦]]'s first successful diplomatic task. After [[YanWengong|燕文公]] funds him, Su Qin's job is to make [[YanState|燕国]] and [[ZhaoState|赵国]] align; the episode closes by saying that a shared enemy can matter more than shared interest.
+
+In the source case, the enemy pressure is [[QinState|秦国]]. Su Qin persuades Yan Wen Gong that Yan has remained safe because Zhao functions as a geographic shield, making Zhao's survival and friendliness part of Yan's own security. The concept therefore turns alliance from abstract friendship into threat geometry.
+
+## Key Claims
+- Shared interest can be too vague to bind actors; shared threat can clarify urgency and direction.
+- A buffer state can become valuable not because it is loved, but because it absorbs or redirects a stronger enemy's pressure.
+- The pattern helps explain how [[HezongAlliance|合纵]] can begin from bilateral security logic before becoming a broader anti-Qin coalition claim.
+- The source keeps the lesson practical rather than moral: fear and survival can produce cooperation where goodwill cannot.
+
+## Connections
+- [[SuQin|苏秦]], [[YanWengong|燕文公]], [[YanState|燕国]], and [[ZhaoState|赵国]] - source case.
+- [[QinState|秦国]] and [[QinEastwardPressure|秦国东进压力]] - shared threat and broader pressure frame.
+- [[HezongAlliance|合纵]] and [[ZonghengjiaDiplomacy|纵横家外交]] - larger coalition and persuader-diplomacy setting.
+- [[ChuaimoTechnique|揣摩]] - audience-and-situation reading needed to identify the usable common enemy.
