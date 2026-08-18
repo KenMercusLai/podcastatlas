@@ -170,6 +170,34 @@
       gap: 0 10px;
     }
 
+    .wiki-letter-tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 24px 0 18px;
+    }
+
+    .wiki-letter-tab {
+      min-width: 2.25rem;
+      padding: 5px 9px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      color: var(--muted);
+      text-align: center;
+      text-decoration: none;
+    }
+
+    .wiki-letter-tab:hover,
+    .wiki-letter-tab.is-active {
+      border-color: var(--link);
+      color: var(--link);
+    }
+
+    .wiki-letter-tab.is-active {
+      background: var(--panel);
+      font-weight: 700;
+    }
+
     .content {
       margin-top: 30px;
     }
