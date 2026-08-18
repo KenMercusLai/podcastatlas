@@ -2,7 +2,7 @@
 title: "AI Model Bias Governance"
 type: concept
 tags: [ai, governance, bias, verification]
-sources: [ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, ep-11-growing-technology-footprints-in-insurance-sector]
+sources: [ep-15-unveiling-data-scientists-role-in-the-generative-ai-era, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, ep-11-growing-technology-footprints-in-insurance-sector]
 last_updated: 2026-08-18
 ---
 
@@ -14,6 +14,8 @@ The source treats bias as partly unintentional. Teams may only discover after th
 
 [[ep-11-growing-technology-footprints-in-insurance-sector]] adds a regulated-insurance version through [[NickBlamer]] and [[SamDataScienceWithSam|Sam]]. The episode warns that AI risk scoring can recreate prohibited demographic effects through proxy data, making bias governance part of [[InsuranceModelRegulatoryConstraint]] rather than only a general technical ethics concern.
 
+[[ep-15-unveiling-data-scientists-role-in-the-generative-ai-era]] adds a generative-AI data-scientist version through [[MarinaDataScienceWithSam|Marina]]. She treats bias and hallucination as risks data scientists must actively mitigate, especially when use cases affect groups differently or when an LLM answer may need rules, automatic checks, human checks, or replacement by simpler machine-learning techniques.
+
 ## Key Claims
 - Bias can enter AI systems through data, labels, programmer assumptions, missing variables, and deployment context.
 - Unintentional bias still matters because harm does not require malicious intent.
@@ -21,10 +23,12 @@ The source treats bias as partly unintentional. Teams may only discover after th
 - High-stakes domains such as space, medicine, law, finance, and hiring require review of who is affected by model errors.
 - In insurance, bias governance must check whether model features or correlated inputs reintroduce legally prohibited rating factors.
 - Human oversight must include authority to change or reject a model workflow when bias or missing context becomes visible.
+- In generative-AI workflows, data scientists may act as quality assurance by checking demographic coverage, sample size, dataset dispersion, and discrimination risk.
 
 ## Connections
 - [[KofiBrowning]], [[NASA]], [[NickBlamer]], [[DataScienceWithSam]], and [[SamDataScienceWithSam]] - source and speaker context.
 - [[AIGovernanceAndCompliance]], [[HumanJudgmentUnderAI]], [[AIVerification]], and [[DomainExpertAlignment]] - governance and review concepts.
 - [[InsuranceModelRegulatoryConstraint]], [[ActuarialAIAugmentation]], and [[InsuranceTechnicalLiteracy]] - regulated-insurance bias branch added by EP11.
+- [[DataScientistGenerativeAIFluency]], [[GenerativeAIUseCaseTriage]], and [[MarinaDataScienceWithSam]] - generative-AI data-scientist branch added by EP15.
 - [[LanguageDependentAIBias]], [[AIModelCensorship]], and [[AIAdviceMoralOutsourcing]] - adjacent model-value and answer-shaping pages.
 - [[HumanDrivenScientificAI]], [[SpaceImageryAI]], and [[EVAGloveInspectionAI]] - source branch where bias concerns sit inside practical technical systems.

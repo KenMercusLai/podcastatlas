@@ -5419,6 +5419,10 @@
     "title": "Belle Epoque / 美好年代",
     "url": "/wiki/concepts/belleepoque/"
   },
+  "BellupsConsulting": {
+    "title": "Bellups Consulting",
+    "url": "/wiki/entities/bellupsconsulting/"
+  },
   "BellwetherPlatformTrials": {
     "title": "Bellwether Platform Trials",
     "url": "/wiki/concepts/bellwetherplatformtrials/"
@@ -10555,6 +10559,10 @@
     "title": "Data Science With Sam",
     "url": "/wiki/entities/datasciencewithsam/"
   },
+  "DataScientistGenerativeAIFluency": {
+    "title": "Data Scientist Generative AI Fluency",
+    "url": "/wiki/concepts/datascientistgenerativeaifluency/"
+  },
   "DataScientistMLOpsFluency": {
     "title": "Data Scientist MLOps Fluency",
     "url": "/wiki/concepts/datascientistmlopsfluency/"
@@ -15682,6 +15690,10 @@
   "GenerativeAIMusic": {
     "title": "Generative AI Music",
     "url": "/wiki/concepts/generativeaimusic/"
+  },
+  "GenerativeAIUseCaseTriage": {
+    "title": "Generative AI Use-Case Triage",
+    "url": "/wiki/concepts/generativeaiusecasetriage/"
   },
   "GenerativeBiology": {
     "title": "Generative Biology",
@@ -24010,6 +24022,10 @@
   "MarieLouiseVonFranz": {
     "title": "Marie-Louise von Franz / 玛丽-路易丝·冯·弗兰兹",
     "url": "/wiki/entities/marielouisevonfranz/"
+  },
+  "MarinaDataScienceWithSam": {
+    "title": "Marina (Data Science With Sam)",
+    "url": "/wiki/entities/marinadatasciencewithsam/"
   },
   "MarineCarbonRemoval": {
     "title": "Marine Carbon Removal",
@@ -42610,6 +42626,10 @@
   "ep-14-what-is-observability": {
     "title": "EP 14: What is Observability?",
     "url": "/wiki/sources/ep-14-what-is-observability/"
+  },
+  "ep-15-unveiling-data-scientists-role-in-the-generative-ai-era": {
+    "title": "EP 15: Unveiling Data Scientist's Role in the Generative AI Era",
+    "url": "/wiki/sources/ep-15-unveiling-data-scientists-role-in-the-generative-ai-era/"
   },
   "ep-3-demystifying-the-imposter-syndrome": {
     "title": "EP 3: Demystifying the Imposter Syndrome",

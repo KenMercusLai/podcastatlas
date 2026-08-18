@@ -2,13 +2,15 @@
 title: "Domain Expert Alignment"
 type: concept
 tags: [ai, expertise, product-development]
-sources: [ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, data-ai-and-scientific-research-a-coffee-chat, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, socialradarsseason1-tracyyoung-final-1]
+sources: [ep-15-unveiling-data-scientists-role-in-the-generative-ai-era, ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker, ep-4-a-i-talk-with-a-rocket-scientist-from-nasa, data-ai-and-scientific-research-a-coffee-chat, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, socialradarsseason1-tracyyoung-final-1]
 last_updated: 2026-08-18
 ---
 
 # Domain Expert Alignment
 
 Domain expert alignment is the practice of bringing real subject-matter experts into AI development so model work is grounded in the standards, risks, and tacit judgment of the target field. In [[duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe]], [[YanJunjie]] says coding already shows this pattern because software engineers understand good coding better than model researchers alone. [[openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6]] adds an enterprise operations version: strong store managers, salespeople, nutrition coaches, and property managers become teachers for [[DigitalEmployees]] because their frontline judgment cannot be inferred from generic model knowledge alone.
+
+[[ep-15-unveiling-data-scientists-role-in-the-generative-ai-era]] adds the generative-AI data-scientist version through [[MarinaDataScienceWithSam|Marina]]. She argues that text-based LLM outputs can be harder to validate with ordinary KPIs than numeric outputs, so data scientists need enough domain understanding to decide whether a generated response actually meets the business requirement.
 
 [[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]] adds a practical user-side version: AI can only automate workflows that the user already understands well enough to specify, test, audit, and correct. The source applies this to podcast production, data analysis, internal compliance review, flower-shop delivery operations, old-code modernization, and operations scripts.
 
@@ -48,6 +50,7 @@ Domain expert alignment is the practice of bringing real subject-matter experts 
 - In laboratory science, domain alignment includes experimental design, biological interpretation, chemistry feasibility, failed-result context, and radioactive-safety oversight.
 - In space research, domain alignment includes mission-risk reasoning, operational history, imagery interpretation, EVA safety, and knowing when sparse data makes an ML claim weak.
 - In insurance analytics, domain alignment includes actuarial predictors, profitability lags, financial accounting, asset-liability context, automated-underwriting judgment, and professional sign-off.
+- In generative-AI data-science work, domain alignment includes defining success criteria for text output, checking hallucination and bias, and deciding whether a use case should use generative AI at all.
 
 ## Connections
 - [[MiniMax]] and [[YanJunjie]] — company and speaker context.
@@ -66,3 +69,4 @@ Domain expert alignment is the practice of bringing real subject-matter experts 
 - [[EffieDataScienceWithSam]], [[MossamDataScienceWithSam]], [[BioinformaticsDomainGap]], [[RetrosynthesisAI]], and [[RadiochemistryImagingTracers]] - experimental-science branch added by Data Science With Sam.
 - [[KofiBrowning]], [[NASA]], [[SpaceflightAIDatasetScarcity]], [[SpaceImageryAI]], [[EVAGloveInspectionAI]], and [[AIModelBiasGovernance]] - space-engineering branch added by Data Science With Sam.
 - [[CharlesJohnson]], [[ActuarialScience]], [[ActuaryDataScientistPartnership]], and [[InsuranceModelRegulatoryConstraint]] - insurance analytics branch added by Data Science With Sam EP10.
+- [[MarinaDataScienceWithSam]], [[DataScientistGenerativeAIFluency]], and [[GenerativeAIUseCaseTriage]] - generative-AI data-scientist branch added by Data Science With Sam EP15.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-18] ingest | EP 15: Unveiling Data Scientist's Role in the Generative AI Era
+
+Added source page for a Data Science With Sam episode with Marina of Bellups Consulting on the data scientist role in the generative AI era. Created pages for Marina, Bellups Consulting, Data Scientist Generative AI Fluency, and Generative AI Use-Case Triage; updated overview, index, Data Science With Sam, Sam, Data Scientist MLOps Fluency, Prompt As Intent Transmission, Domain Expert Alignment, AI Worker Literacy, AI Verification, AI Model Bias Governance, and ChatGPT. No direct contradiction found; the source extends the wiki's production-ML and AI-augmentation branch by arguing that data scientists still need ML fundamentals and domain judgment while adding prompt, API, prototype, resource, verification, bias, privacy, and use-case-triage responsibilities.
+
 ## [2026-08-16] ingest | 美妆巨头集体盯上头发，洗护生意为何又热起来？
 
 Added source page for a 声动早咖啡 episode on Pinduoduo's "fastest tomorrow" fulfillment entry, Walmart's community-store expansion, SHEIN's Vietnam warehouse retrenchment, U.S. investor interest in European football clubs, and the main hair-care explainer around L'Oreal growth, anti-hair-loss demand, hair oils, skincare-style routines, social-media appearance naming, and salon-channel trust. Created pages for SHEIN, Kérastase, Vichy, CeraVe, Moroccanoil, Head & Shoulders, Bee & Flower, Haircare Skincare-ization, Premium Haircare Market, Salon Channel Trust, and Beauty Problem Naming; updated overview, index, 声动早咖啡, L'Oreal, Unilever, Pinduoduo, Walmart, Xiaohongshu, GLP-1 Agonists, Hair As Biosocial Signal, Hair Loss And Follicle Cycle, Consumer Brand Moat, Product-Led Willingness To Pay, Female Beauty Self-Surveillance, Instant Retail, and Ecommerce Fulfillment Complexity. No direct contradiction found; market figures, growth rates, and reported company moves are kept source-scoped.
@@ -7883,6 +7887,10 @@ Health passed with no empty/stub files, index drift, or source-log coverage gaps
 ## [2026-08-18] ingest | EP 14: What is Observability?
 
 Added source page for a Data Science With Sam episode with Ed Ferron of Exigent Solutions on observability, application performance monitoring, full-stack telemetry, business transaction monitoring, OpenTelemetry, AI-assisted anomaly detection, security telemetry, proactive alerts, and real-time operational analytics. Created pages for Ed Ferron, Exigent Solutions, OpenTelemetry, Observability, Full Stack Observability, Business Transaction Observability, Application Performance Monitoring, Proactive Observability, Observability Security Telemetry, AI-Enabled Observability, and Real-Time Operational Analytics; updated overview, index, Data Science With Sam, Sam, MLOps, Production ML Feedback Loops, Data Engineering For Data Science, Cybersecurity Data Science, and Security Data Access Constraint. No direct contradiction found; the source extends the production-ML branch by showing that telemetry becomes more useful when connected to end-to-end application behavior, business impact, security risk, and cost-aware live operations.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-18] lint | Wiki health check
 
