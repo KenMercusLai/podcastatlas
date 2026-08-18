@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 6023
+wiki_total_pages: 6026
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1268,6 +1268,9 @@ wiki_pages:
   - key: "ChenYinke"
     title: "陈寅恪"
     url: "/wiki/entities/chenyinke/"
+  - key: "ChenZhenWarringStates"
+    title: "陈枕 / Chen Zhen (Warring States strategist)"
+    url: "/wiki/entities/chenzhenwarringstates/"
   - key: "ChenQiaoMutiny"
     title: "陈桥兵变 / Chenqiao Mutiny"
     url: "/wiki/entities/chenqiaomutiny/"

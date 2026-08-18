@@ -2,7 +2,7 @@
 title: "连横 / Lianheng Strategy"
 type: concept
 tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih]
+sources: [zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih]
 last_updated: 2026-08-19
 ---
 
@@ -20,6 +20,8 @@ The concept is not yet developed as [[ZhangYiStrategist|张仪]]'s mature policy
 
 [[zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]] makes that portability explicit. Zhang Yi's first goal in Wei is to make [[WeiState|魏国]] lead the lords in serving [[QinState|秦国]], a classic Qin-facing outcome. When Wei refuses, Qin attacks, while Zhang Yi's [[Zhanguoce|《战国策》]] plan turns his own presence in Wei into a way to trigger [[QiState|齐国]] and preserve Qin's advantage. Lianheng here is not only a policy slogan but a career-portable operating method.
 
+[[zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x]] turns that operating method into a Wei court fight. Zhang Yi's lianheng branch becomes a proposed Wei-Qin-Han line against [[QiState|齐国]] and [[ChuState|楚国]], while [[HuiShi|惠施 / 惠师]] argues for the opposite alignment and inaction. Because Zhang Yi wins the ministerial struggle and remains tied to Qin through [[GraceDebtLoyaltyPressure|恩赏负债式忠诚压力]], lianheng now appears as both a foreign-policy program and an internal personnel weapon.
+
 ## Key Claims
 - Lianheng is defined against hezong: where hezong tries to bind the eastern states together against Qin, lianheng turns Qin pressure into separate bargains.
 - Su Qin's critique treats lianheng persuaders as misaligned agents because the land they recommend ceding to Qin belongs to rulers and states, not to the persuaders themselves.
@@ -29,6 +31,7 @@ The concept is not yet developed as [[ZhangYiStrategist|张仪]]'s mature policy
 - Zhouji 35 emphasizes Zhang Yi's portable diplomatic identity: lianheng works through flexible interest calculation rather than local loyalty alone.
 - Zhouji 37 extends that portability: Zhang Yi can pressure Wei for Qin, meet Qi and Chu, and then move into Wei government as the anti-Qin field reorganizes.
 - Zhouji 38 makes Zhang Yi's Wei post a lianheng ambiguity: he serves as Wei chief minister while still using his position and reputation in ways that benefit Qin.
+- Zhouji 39 shows that lianheng can become court factional politics: Zhang Yi's Qin-facing line defeats Hui Shi's Qi-Chu restraint line before it becomes stable policy.
 
 ## Connections
 - [[ZhangYiStrategist|张仪]], [[YingSi|秦惠文王]], and [[QinState|秦国]] - strategist, ruler, and state setting for the coming lianheng branch.
@@ -37,3 +40,4 @@ The concept is not yet developed as [[ZhangYiStrategist|张仪]]'s mature policy
 - [[Jiaoyi|焦邑]], [[QuwoWarringStates|曲沃]], [[StrategicConcessionDiplomacy|欲擒故纵式让利外交]], and [[TacticalCredibilityCost|战术信用成本]] - returned-land extension and contrast with Shang Yang's damaged trust.
 - [[ShanchengWarringStates|陕城]], [[Niesang|啮桑]], [[QiState|齐国]], [[ChuState|楚国]], and [[GongsunYan|犀首公孙衍]] - Zhouji 37 territorial pressure, meeting diplomacy, and rival-field extension.
 - [[QinWuwang|秦武王]], [[QiMinWang|齐湣王]], [[FengXiWarringStates|冯喜]], [[YinmouYangmouConversion|阴谋阳谋转换]], and [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - Zhouji 38 Qin-facing effect through Zhang Yi's ambiguous Wei role.
+- [[HuiShi|惠施 / 惠师]], [[ChenZhenWarringStates|陈枕]], [[GraceDebtLoyaltyPressure|恩赏负债式忠诚压力]], and [[SituationalPoliticalPivot|因事立道式政治转身]] - Zhouji 39 court-faction extension.

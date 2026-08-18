@@ -1,0 +1,25 @@
+---
+title: "恩赏负债式忠诚压力 / Grace-Debt Loyalty Pressure"
+type: concept
+tags: [leadership, statecraft, political-psychology, warring-states]
+sources: [zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x]
+last_updated: 2026-08-19
+---
+
+# 恩赏负债式忠诚压力 / Grace-Debt Loyalty Pressure
+
+恩赏负债式忠诚压力 / grace-debt loyalty pressure is the mechanism [[zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x]] uses to explain [[YingSi|秦惠文王]]'s treatment of [[ZhangYiStrategist|张仪]]. Zhang Yi has not succeeded in making [[WeiState|魏国]] accept his [[LianhengStrategy|连横]] plan, yet the Qin ruler still secretly gives him more favor.
+
+The episode reads this not as simple generosity but as pressure through obligation. A subordinate who receives benefit without matching achievement may feel shame, anxiety, and a need to repay the ruler later. In Zhang Yi's case, that emotional debt helps explain why a man formally serving Wei can remain oriented toward [[QinState|秦国]].
+
+## Key Claims
+- Favor can bind more tightly when it exceeds visible merit because it creates an unsettled debt.
+- The mechanism works through the recipient's fear of not deserving the reward, not through explicit punishment.
+- In this source, the pressure converts Zhang Yi's ambiguous Wei post into a stronger Qin-facing alignment.
+- The concept helps separate personal loyalty pressure from institutional office: Zhang Yi's title is in Wei, but his obligation points toward Qin.
+
+## Connections
+- [[YingSi|秦惠文王]] - ruler using the favor pattern in the episode.
+- [[ZhangYiStrategist|张仪]] - recipient whose loyalty is affected.
+- [[QinState|秦国]] and [[WeiState|魏国]] - patron state and formal posting state.
+- [[LianhengStrategy|连横]], [[WarringStatesCareeristMobility|乱世职业经理人式流动]], and [[ZonghengjiaDiplomacy|纵横家外交]] - surrounding strategic and career-mobility context.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 4740
+wiki_total_pages: 4742
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1367,6 +1367,9 @@ wiki_pages:
   - key: "SouthernTourPoliticalTheater"
     title: "南巡政治剧场 / Southern Tour Political Theater"
     url: "/wiki/concepts/southerntourpoliticaltheater/"
+  - key: "SituationalPoliticalPivot"
+    title: "因事立道式政治转身 / Situational Political Pivot"
+    url: "/wiki/concepts/situationalpoliticalpivot/"
   - key: "SongFactionalPolitics"
     title: "宋代党争 / Song Factional Politics"
     url: "/wiki/concepts/songfactionalpolitics/"

@@ -2,7 +2,7 @@
 title: "Qin Eastward Pressure / 秦国东进压力"
 type: concept
 tags: [warfare, diplomacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]
+sources: [zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]
 last_updated: 2026-08-19
 ---
 
@@ -36,6 +36,8 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 
 [[zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]] renews the pressure after [[ZhangYiStrategist|张仪]] enters Wei. When [[WeiState|魏国]] does not accept Zhang Yi's plan to model service to Qin for the other lords, [[QinState|秦国]] attacks and takes [[QuwoWarringStates|曲沃]] and [[PingzhouWarringStates|平州]]. The episode also adds a strategic-use-of-disorder version: Zhang Yi tells [[QinWuwang|秦武王]] that Qi-Wei conflict can give Qin a window against [[HanState|韩国]] and the Zhou royal domain.
 
+[[zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x]] adds the personnel-pressure version. [[YingSi|秦惠文王]] keeps [[ZhangYiStrategist|张仪]] bound through [[GraceDebtLoyaltyPressure|恩赏负债式忠诚压力]], and Zhang Yi's Wei-court position then becomes a way to keep Qin's pressure active through factional struggle and secret alignment as well as direct attack.
+
 ## Key Claims
 - Qin's eastern expansion pushes Wei, Han, and Zhao to respond across older rivalries.
 - Qin pressure can coexist with Three Jin infighting; shared danger does not guarantee stable alignment.
@@ -51,6 +53,7 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 - The Zhouji 34 sequence shows Qin pressure compounding across years: repeated smaller gains and a calculated concession can reshape Wei's territory without one decisive conquest.
 - Zhouji 35 shows that eastward pressure depends on rear-frontier stability: Yiqu can be contained or partially absorbed, but not ignored.
 - Zhouji 38 shows pressure continuing through Zhang Yi's ambiguous Wei role: Qin can attack Wei directly while also treating Qi-Wei disorder as an opening.
+- Zhouji 39 shows pressure working through office and obligation: Qin's influence can persist inside Wei through Zhang Yi's debt to Qin Huiwen Wang.
 
 ## Connections
 - [[QinState|秦国]], [[QinXianGong|秦献公]], and [[QinXiaogong|秦孝公]] - rising western power and ruler transition.
@@ -67,3 +70,4 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 - [[SuQin|苏秦]], [[ZhangYiStrategist|张仪]], [[HezongAlliance|合纵]], and [[LianhengStrategy|连横]] - Zhouji 31 pressure that forces personnel and alliance strategy.
 - [[YiquState|义渠]], [[QinFrontierBufferManagement|秦国后方边患管理]], [[Jiaoyi|焦邑]], and [[QuwoWarringStates|曲沃]] - Zhouji 35 rear-frontier and returned-land extension.
 - [[PingzhouWarringStates|平州]], [[QinWuwang|秦武王]], [[QiMinWang|齐湣王]], [[YinmouYangmouConversion|阴谋阳谋转换]], and [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - Zhouji 38 renewed territorial pressure and conflict-opening branch.
+- [[YingSi|秦惠文王]], [[HuiShi|惠施 / 惠师]], [[GraceDebtLoyaltyPressure|恩赏负债式忠诚压力]], and [[LianhengStrategy|连横]] - Zhouji 39 personnel-pressure extension.

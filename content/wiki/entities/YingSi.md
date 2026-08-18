@@ -2,7 +2,7 @@
 title: "嬴驷 / Ying Si"
 type: entity
 tags: [person, prince, ruler, pre-qin, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+sources: [zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
 last_updated: 2026-08-19
 ---
 
@@ -24,6 +24,8 @@ The source uses Ying Si as a suspense point rather than a full biography. His vi
 
 [[zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz]] gives the title claim itself. In 324 BCE Ying Si becomes Qin Huiwen Wang in a fuller status sense by claiming kingly title; the episode says the move is calmer than [[XuzhouMutualKingship|徐州相王]] because Qi and Wei have already set a precedent and because [[QinState|秦国]] is strong enough that other rulers do not respond as sharply.
 
+[[zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x]] keeps Ying Si active behind [[ZhangYiStrategist|张仪]]'s Wei posting. The episode says Zhang Yi has not yet delivered the desired Wei submission to Qin, but Qin Huiwen Wang secretly treats him better instead of punishing him. The source reads this as [[GraceDebtLoyaltyPressure|恩赏负债式忠诚压力]]: favor creates shame and repayment pressure, helping explain why Zhang Yi remains Qin-oriented while serving in [[WeiState|魏国]]. This should be kept source-scoped alongside [[zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn|Zhouji 38]]'s different [[QinWuwang|秦武王]] supplement.
+
 ## Connections
 - [[QinXiaogong|秦孝公]] - his father and Qin ruler in the episode.
 - [[ShangYang|公孙鞅 / 商鞅]] - reformer whose law he violates.
@@ -32,4 +34,5 @@ The source uses Ying Si as a suspense point rather than a full biography. His vi
 - [[ZhangYiStrategist|张仪]], [[HezongAlliance|合纵]], and [[LianhengStrategy|连横]] - Zhouji 31 Qin court and strategist-placement branch.
 - [[YiquState|义渠]], [[QinFrontierBufferManagement|秦国后方边患管理]], [[Jiaoyi|焦邑]], [[QuwoWarringStates|曲沃]], and [[StrategicConcessionDiplomacy|欲擒故纵式让利外交]] - Zhouji 35 two-front and title-preparation branch.
 - [[XuzhouMutualKingship|徐州相王]], [[StatusOrderBacklash|名分秩序反弹]], and [[WeakStateStatusDemotion|弱国名分降格]] - title-normalization contrast in Zhouji 36.
+- [[WeiState|魏国]], [[GraceDebtLoyaltyPressure|恩赏负债式忠诚压力]], and [[ChronicleChronologyDrift|编年错位]] - Zhouji 39 Zhang Yi reward-pressure branch and source-layer contrast.
 - [[ShangYangReforms]], [[LegalistRulerTechnique]], [[WarringStatesReformBacklash]], and [[LegalistSelfBindingBackfire|作法自毙]] - concepts made concrete by the prince's case and later succession.

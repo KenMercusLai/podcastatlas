@@ -2,7 +2,7 @@
 title: "惠施 / Hui Shi"
 type: entity
 tags: [person, adviser, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]
+sources: [zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]
 last_updated: 2026-08-19
 ---
 
@@ -14,6 +14,8 @@ His proposed move is [[LowPostureStatecraft|low-posture statecraft]] as a tactic
 
 [[zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]] gives the sequel to his forecast. [[ChuWeiwang|楚威王]] does attack Qi after the title exchange, but the reaction is wider than Hui Shi's immediate Chu lever: Zhao and Yan also pressure Qi, making the episode's broader point about [[StatusOrderBacklash|名分秩序反弹]].
 
+[[zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x]] gives Hui Shi a harsher Wei-court sequel. The source transcript renders him as "惠师," but the role matches the existing Hui Shi branch: he opposes [[ZhangYiStrategist|张仪]]'s plan for Wei, Qin, and Han to attack Qi and Chu, instead favoring alignment with [[QiState|齐国]] and [[ChuState|楚国]] plus restraint. Zhang Yi wins more court support, Hui Shi flees to Chu under threat, and [[FengHaoWarringStates|冯浩]] advises [[ChuHuaiwang|楚怀王]] to move him onward to [[SongState|宋国]] rather than offend Zhang Yi.
+
 This page is source-scoped. It records Hui Shi's role in the Xuzhou diplomacy episode without trying to summarize his wider intellectual biography.
 
 ## Connections
@@ -24,3 +26,4 @@ This page is source-scoped. It records Hui Shi's role in the Xuzhou diplomacy ep
 - [[ChuState|楚国]] - third party he hopes will pressure Qi.
 - [[Zhanguoce|《战国策》]] - source tradition the episode uses for Wei Hui Wang's anger and Hui Shi's advice.
 - [[ChuWeiwang|楚威王]] and [[StatusOrderBacklash|名分秩序反弹]] - Zhouji 28 sequel to the tactic.
+- [[ZhangYiStrategist|张仪]], [[FengHaoWarringStates|冯浩]], [[ChuHuaiwang|楚怀王]], and [[SongState|宋国]] - Zhouji 39 court defeat, flight, and onward-transfer advice.

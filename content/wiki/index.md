@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》39丨历史上张仪是怎样怒怼强敌的](sources/zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x.md) — 芮淇讲透资治通鉴 episode on Zhang Yi's Wei-court struggle with Hui Shi, Qin Huiwen Wang's reward-pressure tactic, Chen Zhen's blocked Wei job search, and Zuo Shuang's pivot that restores Chen's Chu connection.
 - [《资治通鉴·周纪》12丨 公孙鞅求职路上的拉关系 走后门](sources/zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil.md) — 芮淇讲透资治通鉴 episode on Qin Xiao Gong's 361 BCE recruitment edict, Gongshu's failed use-or-kill warning about Shang Yang, and Shang Yang reaching Qin through Jing Jian's private access channel before reform begins.
 - [《资治通鉴·周纪》11丨 世界风起云涌（2）](sources/zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf.md) — 芮淇讲透资治通鉴 episode on 362 BCE, Wei defeating Han-Zhao then losing to Qin at Shaoliang, Wey/Yan/Qin successions, and Qin Xiao Gong's pressured, diplomatically excluded pre-reform Qin.
 - [《资治通鉴·周纪》38丨搞兼职的张仪不一般](sources/zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn.md) — 芮淇讲透资治通鉴 episode on Zhang Yi's ambiguous move from Qin to Wei, the Qi-Wei provocation and withdrawal, Qin's renewed pressure on Quwo/Pingzhou, and Warring States persuaders as mobile career actors.
@@ -1047,6 +1048,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [陈枕 / Chen Zhen (Warring States strategist)](entities/ChenZhenWarringStates.md) — Source-scoped strategist whose blocked Wei office-seeking becomes a return-to-Chu pivot.
+- [左爽 / Zuo Shuang](entities/ZuoShuang.md) — Adviser who tells Chen Zhen how to turn Zhang Yi's hostile frame into renewed Chu favor.
+- [冯浩 / Feng Hao (Warring States adviser)](entities/FengHaoWarringStates.md) — Adviser who urges Chu Huai Wang to send Hui Shi onward to Song rather than offend Zhang Yi.
 - [秦武王 / King Wu of Qin](entities/QinWuwang.md) — Qin ruler in the Zhouji 38 Zhanguo Ce supplement who accepts Zhang Yi's argument for leaving Qin to provoke Qi-Wei conflict.
 - [齐湣王 / King Min of Qi](entities/QiMinWang.md) — Qi ruler whose hatred of Zhang Yi becomes the lever for the episode's Qi attack and later withdrawal.
 - [冯喜 / Feng Xi (Warring States)](entities/FengXiWarringStates.md) — Zhang Yi's retainer whose disclosure mission turns the hidden plan into an open signal for Qi.
@@ -7072,6 +7076,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [恩赏负债式忠诚压力 / Grace-Debt Loyalty Pressure](concepts/GraceDebtLoyaltyPressure.md) — Reward-without-achievement mechanism that binds a subordinate through shame, obligation, and repayment pressure.
+- [因事立道式政治转身 / Situational Political Pivot](concepts/SituationalPoliticalPivot.md) — Strategy of repurposing a hostile situation into a different court, audience, or goal.
 - [Qin Diplomatic Exclusion / 秦国外交排斥](concepts/QinDiplomaticExclusion.md) — Qin Xiao Gong accession frame where Qin's pre-reform pressure is military, cultural, and diplomatic because eastern states treat Qin as an excluded peripheral power.
 - [阴谋阳谋转换 / Yinmou-Yangmou Conversion](concepts/YinmouYangmouConversion.md) — Zhang Yi's tactic of revealing a hidden plan so the disclosure itself changes Qi's incentives.
 - [Warring States Careerist Mobility / 乱世职业经理人式流动](concepts/WarringStatesCareeristMobility.md) — Frame for reading persuaders like Zhang Yi and Gongsun Yan as mobile political professionals pursuing office, survival, and功名 across courts.

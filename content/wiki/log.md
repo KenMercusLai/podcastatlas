@@ -8167,6 +8167,10 @@ Added source page for a 芮淇讲透资治通鉴 episode opening Zhouji 11 and Z
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》39丨历史上张仪是怎样怒怼强敌的
+
+Added source page for a 芮淇讲透资治通鉴 episode continuing Zhang Yi's ambiguous Wei post: Qin Huiwen Wang's favor creates reward-debt pressure, Zhang Yi defeats Hui Shi over Wei's Qin-facing versus Qi-Chu alignment, Hui Shi flees to Chu and is redirected toward Song, and Chen Zhen uses Zuo Shuang's advice to turn Zhang Yi's hostile framing into renewed Chu favor. Created pages for Chen Zhen, Zuo Shuang, Feng Hao, Grace-Debt Loyalty Pressure, and Situational Political Pivot; updated overview, index, Zhang Yi, Hui Shi, Ying Si, Liang Hui Wang, Chu Huai Wang, Qin/Wei/Chu state pages, Zhou Xian Wang, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Lianheng Strategy, Zonghengjia Diplomacy, Warring States Careerist Mobility, Qin Eastward Pressure, and Chronicle Chronology Drift. Flagged the source-layer chronology tension between this episode's Qin Huiwen Wang patronage frame and Zhouji 38's Qin Wuwang supplement.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（4）
 
 Added source page for a 芮淇讲透资治通鉴 episode on the future Wei Wuhou's restoration from Zhongshan through Zhao Cangtang's gifts, status etiquette, and Shijing-coded persuasion. Created pages for Zhao Cangtang, Zizhi Tongjian Bu, and Poetry As Elite Political Language; updated overview, index, Wei Wuhou, Wei Wenhou, Zhongshan State, Wei Zhi, Shijing, Confucius, Sima Guang, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Power Etiquette Reading, and Allusive Remonstrance. No direct contradiction found; the source is kept as a Zizhi Tongjian Bu supplement to the sparse base chronicle accession notice, with transcript spellings around Wei Wuhou and Wei Zhi flagged as source-scoped.
@@ -8371,6 +8375,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on 362 BCE: Wei defeats
 ## [2026-08-19] ingest | 《资治通鉴·周纪》12丨 公孙鞅求职路上的拉关系 走后门
 
 Added source page for a 芮淇讲透资治通鉴 episode on Qin Xiao Gong's 361 BCE recruitment edict, Qin Mu Gong restoration rhetoric, Gongshu's failed recommendation that Wei should use or kill Shang Yang, and Shang Yang reaching Qin Xiao Gong through Jing Jian before winning trust with rich-state, strong-army proposals. Created Jing Jian and Private Access Talent Channel; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou Xian Wang, Qin State, Wei State, Qin Xiao Gong, Qin Mu Gong, Liang Hui Wang, Gongshu, Shang Yang, Shang Yang Reforms, Talent Referral Quality, Legalist Ruler Technique, and Warring States Careerist Mobility. No direct contradiction found; the source closes the gap between Zhouji 11's Qin restoration setup and Zhouji 13's reform opening while keeping the raw summary's origin wording source-scoped.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-19] lint | Wiki health check
 

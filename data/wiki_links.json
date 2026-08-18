@@ -7983,6 +7983,10 @@
     "title": "Chen Zhe Peter",
     "url": "/wiki/entities/chenzhepeter/"
   },
+  "ChenZhenWarringStates": {
+    "title": "陈枕 / Chen Zhen (Warring States strategist)",
+    "url": "/wiki/entities/chenzhenwarringstates/"
+  },
   "ChenZhi": {
     "title": "Chen Zhi",
     "url": "/wiki/entities/chenzhi/"
@@ -14375,6 +14379,10 @@
     "title": "冯道 / Feng Dao",
     "url": "/wiki/entities/fengdao/"
   },
+  "FengHaoWarringStates": {
+    "title": "冯浩 / Feng Hao (Warring States adviser)",
+    "url": "/wiki/entities/fenghaowarringstates/"
+  },
   "FengShuiVitalEnergyTheory": {
     "title": "Feng Shui Vital-Energy Theory / 风水生气论",
     "url": "/wiki/concepts/fengshuivitalenergytheory/"
@@ -16850,6 +16858,10 @@
   "GovernmentWebsiteUsability": {
     "title": "Government Website Usability",
     "url": "/wiki/concepts/governmentwebsiteusability/"
+  },
+  "GraceDebtLoyaltyPressure": {
+    "title": "恩赏负债式忠诚压力 / Grace-Debt Loyalty Pressure",
+    "url": "/wiki/concepts/gracedebtloyaltypressure/"
   },
   "GracelandBaskaran": {
     "title": "Graceland Baskaran",
@@ -35623,6 +35635,10 @@
     "title": "Situational Character Tests / 五观识人法",
     "url": "/wiki/concepts/situationalcharactertests/"
   },
+  "SituationalPoliticalPivot": {
+    "title": "因事立道式政治转身 / Situational Political Pivot",
+    "url": "/wiki/concepts/situationalpoliticalpivot/"
+  },
   "SixSensesHotels": {
     "title": "Six Senses Hotels Resorts Spas",
     "url": "/wiki/entities/sixsenseshotels/"
@@ -44163,6 +44179,10 @@
     "title": "Zou Yan / 邹衍",
     "url": "/wiki/entities/zouyan/"
   },
+  "ZuoShuang": {
+    "title": "左爽 / Zuo Shuang",
+    "url": "/wiki/entities/zuoshuang/"
+  },
   "ZuoZhuan": {
     "title": "《左传》 / Zuo Zhuan",
     "url": "/wiki/entities/zuozhuan/"
@@ -47210,5 +47230,9 @@
   "zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn": {
     "title": "《资治通鉴·周纪》38丨搞兼职的张仪不一般",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn/"
+  },
+  "zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x": {
+    "title": "《资治通鉴·周纪》39丨历史上张仪是怎样怒怼强敌的",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x/"
   }
 }
