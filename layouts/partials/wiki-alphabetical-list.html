@@ -1,11 +1,12 @@
 {{ $section := .Params.wiki_section }}
 {{ $active := .Params.wiki_letter }}
 {{ $pages := .Params.wiki_pages }}
-{{ $buckets := slice "0-9" "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" }}
+{{ $buckets := slice "#" "0-9" "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" }}
 
 <nav class="wiki-letter-tabs" aria-label="Browse by first character">
   {{ range $bucket := $buckets }}
-    {{ $path := printf "wiki/%s/by-letter/%s/" $section $bucket }}
+    {{ $slug := cond (eq $bucket "#") "symbols" $bucket }}
+    {{ $path := printf "wiki/%s/by-letter/%s/" $section $slug }}
     <a
       class="wiki-letter-tab{{ if eq $bucket $active }} is-active{{ end }}"
       href="{{ $path | relURL }}"
