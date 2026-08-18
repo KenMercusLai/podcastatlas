@@ -2,7 +2,7 @@
 title: "合纵 / Hezong Alliance"
 type: concept
 tags: [diplomacy, alliance, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]
+sources: [zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]
 last_updated: 2026-08-19
 ---
 
@@ -12,17 +12,21 @@ last_updated: 2026-08-19
 
 [[zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]] moves from the doubtful peak image to the first workable step. After [[FailureDrivenSelfStudy|failure-driven self-study]] and [[ChuaimoTechnique|揣摩]], Su Qin persuades [[YanWengong|燕文公]] that [[YanState|燕国]] needs friendly relations with [[ZhaoState|赵国]] because Zhao blocks [[QinState|秦国]] from reaching Yan. The episode therefore presents hezong's opening as patronage, buffer logic, and [[CommonEnemyAlliance|shared-enemy alliance]] rather than instant six-state coordination.
 
+[[zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih]] supplies the policy design. It explains hezong by north-south geography among the eastern states, but stresses that the purpose is anti-Qin containment rather than peace. Su Qin tells [[ZhaoSuhou|赵肃侯]] that Zhao's security depends on keeping [[HanState|韩国]] and [[WeiState|魏国]] from being picked off first, then proposes a six-state pact with hostage exchange, mutual rescue obligations, and collective punishment for defectors.
+
 The concept is therefore both diplomatic and historiographical. It names the kind of coalition Su Qin is famous for, while also recording this episode's caution that the chronicle's dating may compress or misplace a more complicated process.
 
 ## Key Claims
 - Hezong imagines the eastern states coordinating against Qin pressure rather than letting Qin isolate them.
 - Zhouji 30 makes the first step bilateral: Yan's need for Zhao as a shield turns anti-Qin logic into a concrete mission.
+- Zhouji 31 makes the next step institutional: the alliance must create credible rescue duties and penalties because the eastern states do not naturally trust each other.
+- Hezong is not presented as pacifism; it is a weak-states coalition against the strongest state.
 - Its plausibility depends on internal stability and aligned incentives across several states, not only on one persuader's rhetoric.
 - In this source, the dramatic "six-state minister" image is important as reception, but its precise annalistic placement remains doubtful.
 
 ## Connections
-- [[SuQin|苏秦]] - strategist attached to the policy in the source.
+- [[SuQin|苏秦]] and [[ZhaoSuhou|赵肃侯]] - strategist and Zhao ruler attached to the policy in the source.
 - [[ChuaimoTechnique|揣摩]], [[YanWengong|燕文公]], and [[CommonEnemyAlliance|共同敌人联盟]] - Zhouji 30 mechanism and first patronage branch.
 - [[QinState|秦国]], [[QiState|齐国]], [[ChuState|楚国]], [[WeiState|魏国]], [[HanState|韩国]], [[ZhaoState|赵国]], and [[YanState|燕国]] - states implicated by anti-Qin coalition logic.
-- [[ZonghengjiaDiplomacy|纵横家外交]] - broader persuader-diplomacy field.
+- [[LianhengStrategy|连横]] and [[ZonghengjiaDiplomacy|纵横家外交]] - rival diplomatic logic and broader persuader-diplomacy field.
 - [[ChronicleChronologyDrift|编年错位]] - dating caution attached to this source's hezong notice.

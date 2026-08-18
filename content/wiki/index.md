@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》31丨合纵连横 围殴秦](sources/zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih.md) — 芮淇讲透资治通鉴 episode on hezong as anti-Qin coalition design, Su Qin's Zhao Suhou pitch, Qin's attack on Wei, and Su Qin's manipulation of Zhang Yi into Qin as the lianheng counterpart.
 - [《资治通鉴·周纪》30丨苏秦的“开挂”人生](sources/zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw.md) — 芮淇讲透资治通鉴 episode on Su Qin's turn from broad reading to deep study of 《阴符》, his grasp of 揣摩, repeated failed lobbying, and first Yan backing as the opening toward hezong alliance work.
 - [《资治通鉴·周纪》29丨苏秦励志爽文：知识改变命运](sources/zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv.md) — 芮淇讲透资治通鉴 episode on Zhang Chou saving Tian Ying after Chu's anti-Qi pressure, disputed Qi/Su Qin chronology, and Su Qin's failure-driven self-study becoming a durable inspirational narrative.
 - [《资治通鉴·周纪》28丨韩昭侯的快乐你想象不到](sources/zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8.md) — 芮淇讲透资治通鉴 episode on Han Zhaohou's high gate as untimely extravagance, Yue Wang Wujiang's failed anti-Qi move, Chu Wei Wang's attack on Qi after Xuzhou mutual kingship, Zhang Chou's ignored warning, and the coming Su Qin/Zhang Yi zongheng turn.
@@ -7032,6 +7033,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [揣摩 / Chuaimo Technique](concepts/ChuaimoTechnique.md) — Su Qin's persuader method combining situation reading with insight into the listener's motives and fears.
 - [Common-Enemy Alliance / 共同敌人联盟](concepts/CommonEnemyAlliance.md) — Alliance-building pattern where a shared threat can bind states more effectively than broad shared interest.
 - [合纵 / Hezong Alliance](concepts/HezongAlliance.md) — Anti-Qin coalition policy attached to Su Qin, now grounded in Zhouji 30's first Yan-Zhao step as well as Zhouji 29's chronology caution.
+- [连横 / Lianheng Strategy](concepts/LianhengStrategy.md) — Qin-facing diplomatic strategy contrasted with hezong, introduced through Su Qin's critique and Zhang Yi's entry into Qin.
 - [Failure-Driven Self-Study / 失败后的自学翻身](concepts/FailureDrivenSelfStudy.md) — Pattern where failed formal preparation, shame, and status pressure drive focused self-study that still needs access and patronage.
 - [Inspirational Narrative Commercialization / 励志叙事商业化](concepts/InspirationalNarrativeCommercialization.md) — Pattern where complex historical failure-and-rise stories become packaged motivational scripts.
 - [时绌举赢 / Untimely Extravagance](concepts/UntimelyExtravagance.md) — Ruler-ethics pattern where visible prestige spending becomes wrong because war, drought, or public burden makes the timing politically unfit.

@@ -2,7 +2,7 @@
 title: "苏秦 / Su Qin"
 type: entity
 tags: [person, strategist, diplomat, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
+sources: [zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
 last_updated: 2026-08-19
 ---
 
@@ -18,13 +18,17 @@ The same source turns to [[Shiji|《史记》]] for Su Qin's life story. Su Qin 
 
 The Yan success gives Su Qin his first practical backing. He persuades [[YanWengong|燕文公]] that Yan's safety depends on [[ZhaoState|赵国]] as a shield against [[QinState|秦国]], and Yan Wen Gong funds him to return to Zhao as a diplomatic agent. The episode calls this Su Qin's "first bucket of gold," meaning money plus status credential, and uses it to foreshadow the [[HezongAlliance|合纵]] path through [[CommonEnemyAlliance|共同敌人联盟]] logic.
 
+[[zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih]] turns that backing into a Zhao mandate. Su Qin persuades [[ZhaoSuhou|赵肃侯]] that Zhao is strong among the eastern states but cannot survive if Qin first swallows [[HanState|韩国]] and [[WeiState|魏国]], so the proposed hezong alliance must solve a collective-defense and trust problem, not merely announce friendship.
+
+The same source makes Su Qin's handling of [[ZhangYiStrategist|张仪]] part of his strategist craft. When [[QinState|秦国]] attacks Wei and threatens to disrupt the hezong timetable, Su Qin humiliates Zhang Yi, secretly funds his trip to Qin, and relies on his resentment and ambition to place him near [[YingSi|秦惠文王]]. The episode therefore treats Su Qin as manipulating both state incentives and personal psychology.
+
 That makes Su Qin the source's main case for [[FailureDrivenSelfStudy|失败后的自学翻身]]. His story keeps the appeal of "knowledge changes fate," but the episode emphasizes the pressure behind it: close-family humiliation, rank anxiety, and the desire to prove oneself before people who saw the failure. Later reception then packages him through [[InspirationalNarrativeCommercialization|励志叙事商业化]], including the familiar "头悬梁、锥刺股" tag and [[SimaGuang|司马光]]'s poem to [[WuZhicai|吾之才]].
 
 The episode also places Su Qin inside a strategist family and rivalry network. [[SuDai|苏代]] and [[SuLi|苏厉]] are named as famous brothers, while [[ZhangYiStrategist|张仪]] is treated as his fellow [[Guiguzi|鬼谷子]] student and eventual counterpart in [[ZonghengjiaDiplomacy|纵横家外交]].
 
 ## Connections
-- [[YinfuJing|《阴符》]], [[ChuaimoTechnique|揣摩]], [[YanWengong|燕文公]], [[YanState|燕国]], [[ZhaoState|赵国]], [[YingSi|秦惠文王]], and [[CommonEnemyAlliance|共同敌人联盟]] - Zhouji 30 study, failed itinerary, first patronage, and alliance-logic branch.
-- [[ZhangYiStrategist|张仪]] - paired Warring States strategist, fellow student, and later rival.
+- [[YinfuJing|《阴符》]], [[ChuaimoTechnique|揣摩]], [[YanWengong|燕文公]], [[YanState|燕国]], [[ZhaoState|赵国]], [[ZhaoSuhou|赵肃侯]], [[YingSi|秦惠文王]], and [[CommonEnemyAlliance|共同敌人联盟]] - Zhouji 30-31 study, patronage, Zhao mandate, and alliance-logic branch.
+- [[ZhangYiStrategist|张仪]] and [[LianhengStrategy|连横]] - paired Warring States strategist, fellow student, later rival, and Qin-side path Su Qin helps trigger.
 - [[Guiguzi|鬼谷子]], [[SuDai|苏代]], and [[SuLi|苏厉]] - teacher tradition and family branch.
 - [[HezongAlliance|合纵]] and [[ZonghengjiaDiplomacy|纵横家外交]] - policy and diplomatic field attached to him.
 - [[FailureDrivenSelfStudy|失败后的自学翻身]], [[InspirationalNarrativeCommercialization|励志叙事商业化]], [[ClassMobilityPerformance|阶层上升表演]], and [[SubjectivityThroughFailure|失败中的主体性]] - life-story and reception frames.

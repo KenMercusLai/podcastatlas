@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》31丨合纵连横 围殴秦
+
+Added source page for a 芮淇讲透资治通鉴 episode continuing Su Qin from Yan-backed diplomacy into Zhao authorization for hezong: the episode defines hezong against lianheng, frames it as anti-Qin coalition design rather than peace rhetoric, has Su Qin persuade Zhao Suhou through Qin-Han-Wei threat analysis, and uses Qin's attack on Wei plus Long Jia's capture to explain why Su Qin pushes Zhang Yi into Qin. Created Lianheng Strategy; updated overview, index, Su Qin, Zhang Yi, Zhao Suhou, Ying Si/Qin Huiwen Wang, Long Jia, Guiguzi, Qin/Wei/Zhao/Yan state pages, Zhou Xian Wang, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Hezong Alliance, Common-Enemy Alliance, Chuaimo Technique, Qin Eastward Pressure, and Zonghengjia Diplomacy. No direct contradiction found; Zhang Yi's temporary cooperation is kept source-scoped as part of this episode's Su Qin strategy branch.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》25丨赵良对商鞅说：你不配
 
 Added source page for a 芮淇讲透资治通鉴 episode completing Zhao Liang's warning to Shang Yang: Zhao Liang secures permission for frank speech, rejects Shang Yang's comparison to Baili Xi, contrasts Baili Xi's public regard with Shang Yang's guard-dependent insecurity, names Shang Yang's position 危若朝露, and preserves Shiji's richer but doubtful retirement route through returning Shangyu and sponsoring benevolent policies. Created pages for People-Based Political Security and Shi Jiao; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Shiji, Qin State, Shang Yang, Zhao Liang, Baili Xi, Qin Mu Gong, Qin Xiao Gong, Gongzi Qian, Chengdu, Power Exit Trap, Warring States Reform Backlash, Shang Yang Reforms, Legalist Self-Binding Backfire, and Power Etiquette Reading. No direct contradiction found; the source extends Zhouji 24 by filling in the substance of Zhao Liang's rebuke and by qualifying the exit-trap argument with a theoretical but likely too-late off-ramp.
@@ -8282,6 +8286,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] ingest | 《资治通鉴·周纪》30丨苏秦的“开挂”人生
 
 Added source page for a 芮淇讲透资治通鉴 episode continuing Su Qin after family humiliation: broad reading gives way to deep study of 《阴符》, the breakthrough is framed as 揣摩, and renewed attempts still fail at Zhou, Qin, and Zhao before Yan Wen Gong supplies funding and diplomatic status. Created pages for 《阴符》, 《六韬》, 揣摩, and common-enemy alliance logic; updated overview, index, Su Qin, Yan Wen Gong, Ying Si/Qin Huiwen Wang, Yan/Qin/Zhao state pages, Zhou Xian Wang, Guiguzi, Shiji, Zhanguo Ce, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Hezong Alliance, Zonghengjia Diplomacy, and Failure-Driven Self-Study. No direct contradiction found; Yan Wen Gong's active role is kept source-scoped beside the prior Zhouji 29 succession notice.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-19] lint | Wiki health check
 
