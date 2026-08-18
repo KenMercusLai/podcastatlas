@@ -10519,9 +10519,17 @@
     "title": "达菲辛 / Dafeixin",
     "url": "/wiki/entities/dafeixin/"
   },
+  "DaiChengjun": {
+    "title": "代成君 / Dai Chengjun",
+    "url": "/wiki/entities/daichengjun/"
+  },
   "DaiGuanlan": {
     "title": "戴冠兰 / Dai Guanlan",
     "url": "/wiki/entities/daiguanlan/"
+  },
+  "DaiState": {
+    "title": "代国 / Dai State",
+    "url": "/wiki/entities/daistate/"
   },
   "DaiYiJueMiLu": {
     "title": "《大义觉迷录》",
@@ -29083,6 +29091,10 @@
     "title": "Participatory Exhibitions",
     "url": "/wiki/concepts/participatoryexhibitions/"
   },
+  "PartitionOfJin": {
+    "title": "Partition of Jin / 三家分晋",
+    "url": "/wiki/concepts/partitionofjin/"
+  },
   "PartyGuitar": {
     "title": "Party Guitar",
     "url": "/wiki/entities/partyguitar/"
@@ -32534,6 +32546,10 @@
   "RetailerResponsiveManufacturing": {
     "title": "Retailer-Responsive Manufacturing",
     "url": "/wiki/concepts/retailerresponsivemanufacturing/"
+  },
+  "RetainerReciprocityEthic": {
+    "title": "Retainer Reciprocity Ethic / 士为知己者死",
+    "url": "/wiki/concepts/retainerreciprocityethic/"
   },
   "RetirementCashFlowSecurity": {
     "title": "Retirement Cash-Flow Security",
@@ -37271,6 +37287,10 @@
     "title": "Talent Group Livestreaming / 才艺团播",
     "url": "/wiki/concepts/talentgrouplivestreaming/"
   },
+  "TalentVirtueDistinction": {
+    "title": "Talent-Virtue Distinction / 才德之分",
+    "url": "/wiki/concepts/talentvirtuedistinction/"
+  },
   "Taliban": {
     "title": "Taliban",
     "url": "/wiki/entities/taliban/"
@@ -38274,6 +38294,10 @@
   "ThreeGorgesDam": {
     "title": "Three Gorges Dam",
     "url": "/wiki/entities/threegorgesdam/"
+  },
+  "ThreeJinVassalRecognition": {
+    "title": "Three Jin Vassal Recognition / 三晋受封",
+    "url": "/wiki/concepts/threejinvassalrecognition/"
   },
   "ThreeLayerScaleEconomies": {
     "title": "Three-Layer Scale Economies",
@@ -42455,6 +42479,10 @@
     "title": "于七之乱 / Yu Qi Rebellion",
     "url": "/wiki/entities/yuqirebellion/"
   },
+  "YuRang": {
+    "title": "豫让 / Yu Rang",
+    "url": "/wiki/entities/yurang/"
+  },
   "YuTheGreat": {
     "title": "大禹 / Yu the Great",
     "url": "/wiki/entities/yuthegreat/"
@@ -42863,6 +42891,10 @@
     "title": "Zhangzidao",
     "url": "/wiki/entities/zhangzidao/"
   },
+  "ZhaoBolu": {
+    "title": "赵伯鲁 / Zhao Bolu",
+    "url": "/wiki/entities/zhaobolu/"
+  },
   "ZhaoChenghou": {
     "title": "赵成侯 / Marquis Cheng of Zhao",
     "url": "/wiki/entities/zhaochenghou/"
@@ -42890,6 +42922,14 @@
   "ZhaoHang": {
     "title": "Zhao Hang",
     "url": "/wiki/entities/zhaohang/"
+  },
+  "ZhaoHuanzi": {
+    "title": "赵桓子 / Zhao Huanzi",
+    "url": "/wiki/entities/zhaohuanzi/"
+  },
+  "ZhaoJianzi": {
+    "title": "赵简子 / Zhao Jianzi",
+    "url": "/wiki/entities/zhaojianzi/"
   },
   "ZhaoJinghou": {
     "title": "赵靖侯 / Marquis Jing of Zhao",
@@ -42926,6 +42966,14 @@
   "ZhaoWuhou": {
     "title": "赵武侯 / Marquis Wu of Zhao",
     "url": "/wiki/entities/zhaowuhou/"
+  },
+  "ZhaoXiangzi": {
+    "title": "赵襄子 / Zhao Xiangzi",
+    "url": "/wiki/entities/zhaoxiangzi/"
+  },
+  "ZhaoXianzi": {
+    "title": "赵献子 / Zhao Xianzi",
+    "url": "/wiki/entities/zhaoxianzi/"
   },
   "ZhaoYuanren": {
     "title": "赵元任",
@@ -42998,6 +43046,10 @@
   "ZhengmianLianjie": {
     "title": "正面连接",
     "url": "/wiki/entities/zhengmianlianjie/"
+  },
+  "ZhiYao": {
+    "title": "智瑶 / Zhi Yao",
+    "url": "/wiki/entities/zhiyao/"
   },
   "ZhiZaoLaoYe": {
     "title": "纸造 / 老爷",
@@ -46174,6 +46226,10 @@
   "zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1": {
     "title": "72. 中文播客活化石与真OG",
     "url": "/wiki/sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1/"
+  },
+  "zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik": {
+    "title": "《资治通鉴·周纪》04｜豫让 为智瑶复仇",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik/"
   },
   "zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei": {
     "title": "《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（2）",

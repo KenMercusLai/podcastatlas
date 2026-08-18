@@ -2,7 +2,7 @@
 title: "Political Assassination Ethics / 政治刺杀伦理"
 type: concept
 tags: [politics, violence, ethics, assassination]
-sources: [sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
+sources: [sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
 last_updated: 2026-08-18
 ---
 
@@ -16,6 +16,8 @@ The concept extends [[TyrannicideRepublicanDilemma]] beyond [[CaesarAssassinatio
 
 [[sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209]] adds a contemporary adjacent case through the [[LuigiCaseSuspect|Luigi]] discussion. The target is not a ruler or revolutionary agitator but a corporate executive associated with [[USHealthInsuranceDenialPolitics]], which makes the ethical problem less like classic tyrannicide and more like whether private actors may punish a symbolic civilian representative of institutional harm.
 
+[[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]] adds [[YuRang|豫让]] as a retainer-revenge case. The episode makes his assassination attempt morally legible through [[RetainerReciprocityEthic|patron recognition]] and open self-sacrifice, but it also keeps the act inside a violent early [[WarringStatesPeriod|战国时期]] order rather than treating revenge as a generalizable legal principle.
+
 [[zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]] adds a pre-Qin institutional counterpoint through [[ZhengState|郑国]] and [[ZiyangZheng|子阳]]. The episode is less interested in justifying killing than in showing how assassination becomes normal political technique when aristocratic constraints fail, so it is best tracked through [[SpringAutumnToWarringStatesPoliticalViolence]] rather than treated as another moral-defense case.
 
 [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] adds [[NieZheng|聂政]] as a different pre-Qin case: a private revenge commission against [[XiaLei|侠累]] that becomes morally legible in the episode through filial delay, self-destruction to protect kin, and [[NieYing|聂英]]'s honor-driven identification of the body.
@@ -28,6 +30,7 @@ The concept extends [[TyrannicideRepublicanDilemma]] beyond [[CaesarAssassinatio
 - Assassination can create symbolic balance or memory without producing stable political repair.
 - Democratic and judicial institutions matter partly because they transform violent conflict into slower, accountable procedures.
 - The Luigi case adds a corporate-power variant: public anger can make a killing symbolically legible even when the target remains a civilian and the method cannot be generalized safely.
+- The Yu Rang case adds a retainer-revenge variant: patron recognition can make self-destructive assassination narratively noble while still leaving the political-legitimacy question bounded to its honor code.
 - The Zheng case adds a state-capture variant: assassination can be a factional instrument with little ethical self-sacrifice claim.
 - The Nie Zheng case adds an honor-revenge variant: self-sacrifice and family protection can make a killing narratively noble without resolving its political legitimacy.
 
@@ -37,5 +40,6 @@ The concept extends [[TyrannicideRepublicanDilemma]] beyond [[CaesarAssassinatio
 - [[PrivateRevengeModernLaw]] and [[PowerViolenceDistinction]] - adjacent law and political-power frames.
 - [[RepublicanMemoryAgainstDictatorship]] - case where failed killing still leaves a warning.
 - [[LuigiCaseSuspect]], [[UnitedHealthcare]], and [[VigilanteJusticeUniversalizationRisk]] - contemporary health-insurance and private-punishment extension.
+- [[YuRang|豫让]], [[ZhiYao|智瑶]], [[ZhaoXiangzi|赵襄子]], and [[RetainerReciprocityEthic]] - pre-Qin retainer-revenge extension.
 - [[ZhengState|郑国]], [[ZiyangZheng|子阳]], and [[SpringAutumnToWarringStatesPoliticalViolence]] - pre-Qin political-technique counterpoint.
 - [[NieZheng|聂政]], [[NieYing|聂英]], [[XiaLei|侠累]], and [[AristocraticHonorOverLife]] - pre-Qin honor-revenge counterpoint.

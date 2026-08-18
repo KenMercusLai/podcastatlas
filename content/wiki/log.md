@@ -8098,3 +8098,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-18] ingest | 《资治通鉴·周纪》04｜豫让 为智瑶复仇
+
+Added source page for a 芮淇讲透资治通鉴 episode on Zhi Yao's "talent exceeds virtue" failure, Han-Zhao-Wei's division of Zhi territory, Yu Rang's revenge for Zhi Yao, Zhao Xiangzi's conquest of Dai and contested succession planning, and Zhou Weilie Wang's formal recognition of Wei Si, Zhao Ji, and Han Qian as vassals. Created pages for Zhi Yao, Yu Rang, Zhao Xiangzi, Zhao Jianzi, Zhao Bolu, Dai Chengjun, Zhao Huanzi, Zhao Xianzi, Dai State, Talent-Virtue Distinction, Retainer Reciprocity Ethic, Partition of Jin, and Three Jin Vassal Recognition; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Sima Guang, Shiji, Zhanguo Ce, Liang Qichao, Jin State, Zhao State, Han State, Wei State, Zhou Royal House, Zhou Weilie Wang, Zhao Liehou, Wei Wenhou, Han Jinghou, Warring States Period, Political Assassination Ethics, Aristocratic Honor Over Life, and Succession Non-Designation Risk. No direct contradiction found; the episode's 453 BCE Warring States starting point is preserved as a de facto partition threshold alongside the 403 BCE Zhou recognition and 376 BCE final Jin extinction thresholds.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran health before lint; health scanned 11,566 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,566 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.

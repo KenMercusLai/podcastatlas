@@ -2,11 +2,13 @@
 title: "晋国 / Jin State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, china]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
+sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
 last_updated: 2026-08-18
 ---
 
 # 晋国 / Jin State
+
+[[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]] adds the earlier de facto partition threshold. After [[ZhiYao|智瑶]] loses at Jinyang, Han, Zhao, and Wei divide Zhi territory; the episode treats this 453 BCE point as a practical start of the [[WarringStatesPeriod|战国时期]] while preserving later formal recognition and final extinction as separate layers in [[PartitionOfJin|三家分晋]].
 
 晋国 / Jin State appears in [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] through the comparison case of [[JinYouGong|晋幽公]], whose death the episode reads through [[ZhushuJinian|《竹书纪年》]]. The state is also relevant to the source's explanation of "秦晋之好," the marriage-alliance idiom tied to [[QinState|秦国]] and Jin.
 
@@ -18,6 +20,7 @@ This page is source-scoped and does not duplicate the existing [[JinWenGong|晋�
 
 ## Connections
 - [[JinYouGong|晋幽公]] and [[QinYing|秦嬴]] - assassination comparison in the source.
+- [[ZhiYao|智瑶]], [[PartitionOfJin]], and [[ThreeJinVassalRecognition]] - Jin partition and recognition branch.
 - [[QinState|秦国]] - marriage-alliance counterpart in the source's idiom explanation.
 - [[JinWenGong|晋文公]] - existing Jin ruler page in the wiki.
 - [[BanditAssassinationAttribution]] - interpretive frame for the Jin You Gong case.

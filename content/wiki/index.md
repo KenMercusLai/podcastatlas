@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》04｜豫让 为智瑶复仇](sources/zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik.md) — 芮淇讲透资治通鉴 episode on Zhi Yao's talent-without-virtue failure, Yu Rang's revenge and retainer honor, Zhao Xiangzi's conquest and succession decisions, and Zhou Weilie Wang's formal recognition of Han, Zhao, and Wei.
 - [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（2）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi.md) — 芮淇讲透资治通鉴 episode on Han court assassination, Wei succession disorder, Qi Wei Wang's contested chronology and official audits, and Chu/Song succession notices under Zhou Lie Wang.
 - [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（1）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d.md) — 芮淇讲透资治通鉴 episode on Han destroying Zheng through multi-generation family strategy and capital relocation, Taishi Dan's Qin visit, Qin's origin from Feizi to recognized statehood, and early Zhou Lie Wang war/succession notices.
 - [《资治通鉴·周纪》09丨战国时代的世界大战](sources/zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl.md) — 芮淇讲透资治通鉴 episode on early Warring States coalition war, Jiang-line Qi and Jin's endings, Zhongshan revival, Zhou An Wang's death, and Zisi's advice on flawed talent and court flattery.
@@ -1012,6 +1013,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [智瑶 / Zhi Yao](entities/ZhiYao.md) — Defeated Jin power-holder used by Zhouji 04 for the talent-without-virtue lesson and Yu Rang revenge setup.
+- [豫让 / Yu Rang](entities/YuRang.md) — Zhi Yao's retainer whose self-destructive revenge against Zhao Xiangzi anchors the "士为知己者死" ethic.
+- [赵襄子 / Zhao Xiangzi](entities/ZhaoXiangzi.md) — Zhao Wuxu, conqueror of Dai and target of Yu Rang, whose succession decisions shape the Zhao branch.
+- [赵简子 / Zhao Jianzi](entities/ZhaoJianzi.md) — Zhao patriarch who selects Zhao Wuxu over Zhao Bolu for strategic ability.
+- [赵伯鲁 / Zhao Bolu](entities/ZhaoBolu.md) — Displaced elder Zhao son whose line Zhao Xiangzi later tries to restore.
+- [代成君 / Dai Chengjun](entities/DaiChengjun.md) — Zhao Bolu's son, placed at Dai as a relay in Zhao Xiangzi's succession plan.
+- [赵桓子 / Zhao Huanzi](entities/ZhaoHuanzi.md) — Zhao Xiangzi's younger brother who briefly expels Zhao Xianzi before the clan restores the designated line.
+- [赵献子 / Zhao Xianzi](entities/ZhaoXianzi.md) — Zhao Bolu's grandson, designated by Zhao Xiangzi, briefly expelled, restored, and followed by Zhao Liehou.
+- [代国 / Dai State](entities/DaiState.md) — Polity conquered by Zhao Xiangzi through kinship deception in the Zhouji 04 account.
 - [韩廆 / Han Gui](entities/HanGui.md) — Han chancellor targeted by Yan Sui's hired assassin in the Zhouji 10 part 2 Han court-killing variant.
 - [韩懿侯 / Marquis Yi of Han](entities/HanYihou.md) — Han Aihou's son and successor after the Han Gui/Yan Sui assassination crisis.
 - [公中缓 / Gongzhong Huan](entities/GongzhongHuan.md) — Rival claimant against Wei Ying after Wei Wuhou dies without a clear successor.
@@ -6900,6 +6910,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Talent-Virtue Distinction / 才德之分](concepts/TalentVirtueDistinction.md) — Sima Guang personnel-judgment frame where talent without virtue can be more dangerous than incompetence.
+- [Retainer Reciprocity Ethic / 士为知己者死](concepts/RetainerReciprocityEthic.md) — Yu Rang honor logic where exceptional patron recognition creates exceptional repayment obligation.
+- [Partition of Jin / 三家分晋](concepts/PartitionOfJin.md) — Staggered Jin-to-Three-Jin transition with 453 BCE, 403 BCE, and 376 BCE treated as distinct thresholds.
+- [Three Jin Vassal Recognition / 三晋受封](concepts/ThreeJinVassalRecognition.md) — Zhou Weilie Wang's formal recognition of Wei, Zhao, and Han as vassal rulers.
 - [Succession Non-Designation Risk / 未定继承人风险](concepts/SuccessionNonDesignationRisk.md) — Zhouji 10 part 2 frame for the disorder created when Wei Wuhou dies without a clearly designated heir.
 - [Independent Official Audit / 独立考核地方官](concepts/IndependentOfficialAudit.md) — Qi Wei Wang's method of testing local official performance against independent evidence rather than court reputation.
 - [Chronicle Chronology Drift / 编年错位](concepts/ChronicleChronologyDrift.md) — Historiographical caution for preserved early Warring States events that may be placed in the wrong year.

@@ -2,11 +2,13 @@
 title: "《战国策》 / Zhanguo Ce"
 type: entity
 tags: [book, chinese-history, pre-qin, historiography]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-18
 ---
 
 # 《战国策》 / Zhanguo Ce
+
+[[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]] cites [[Zhanguoce|《战国策》]] for the famous formulation around [[YuRang|豫让]]: "士为知己者死." In this wiki branch, that phrase anchors [[RetainerReciprocityEthic|retainer reciprocity]] alongside the [[Shiji|《史记》]] version of Yu Rang's explanation.
 
 《战国策》 / Zhanguo Ce enters the wiki through [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] as the source for a variant of the [[NieZheng|聂政]] assassination story. In the episode's summary of that version, [[XiaLei|侠累]] and [[HanAihou|韩哀侯]] are both at a large meeting, Xia Lei holds onto the ruler, and Nie Zheng kills both.
 
@@ -16,6 +18,7 @@ The page's role is historiographical. It helps keep source variants visible inst
 
 ## Connections
 - [[NieZheng|聂政]], [[XiaLei|侠累]], and [[HanAihou|韩哀侯]] - variant story branch.
+- [[YuRang|豫让]] and [[RetainerReciprocityEthic]] - Zhouji 04 "士为知己者死" branch.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame being supplemented or contrasted.
 - [[HistoricalDetectiveReasoning]] and [[ChronicleSourceGaps]] - source-reading concepts.
 - [[YanZhongzi|严遂]], [[HanGui|韩廆]], and [[Shiji|《史记》]] - later variant-comparison branch.

@@ -2,13 +2,15 @@
 title: "芮淇讲透资治通鉴 / Ruiqi Jiangtou Zizhi Tongjian"
 type: entity
 tags: [podcast, chinese-history, classics, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-18
 ---
 
 # 芮淇讲透资治通鉴 / Ruiqi Jiangtou Zizhi Tongjian
 
-芮淇讲透资治通鉴 enters the wiki through [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]], an episode in the show's reading of [[ZizhiTongjian|《资治通鉴》]]'s Zhou annals. The show format in this source is explanatory and analogy-driven: it turns [[SimaRangju|司马穰苴]] and [[WuQi|吴起]] into organization and military-leadership cases before returning to compact chronology.
+[[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]] adds an earlier sequence point in the show's reading of [[ZizhiTongjian|《资治通鉴》]]'s Zhou annals. The episode uses [[ZhiYao|智瑶]] for [[TalentVirtueDistinction|才德之分]], [[YuRang|豫让]] for [[RetainerReciprocityEthic|士为知己者死]], [[ZhaoXiangzi|赵襄子]] for succession and conquest, and [[ThreeJinVassalRecognition|三晋受封]] for formal state recognition.
+
+[[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] continues the show's explanatory and analogy-driven style: it turns [[SimaRangju|司马穰苴]] and [[WuQi|吴起]] into organization and military-leadership cases before returning to compact chronology.
 
 [[zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]] extends the same reading style into [[ZhouAnWang|周安王]]'s early reign. The episode connects compact annals to [[ZhengState|郑国]]'s buffer-state dilemma, [[WangziDing|王子定]]'s exile, disaster-omen interpretation, and the move from aristocratic rules toward factional assassination.
 
@@ -28,6 +30,7 @@ The episode's wiki role is to add a pre-Qin classics-reading branch that is more
 
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]] - source text being read.
+- [[ZhiYao|智瑶]], [[YuRang|豫让]], [[TalentVirtueDistinction]], [[RetainerReciprocityEthic]], [[PartitionOfJin]], and [[ThreeJinVassalRecognition]] - Zhouji 04 virtue, revenge, and state-recognition branch.
 - [[SimaRangju|司马穰苴]] and [[WuQi|吴起]] - leadership cases in the episode.
 - [[MilitaryMoraleThroughSharedHardship]], [[PosthumousNamePolitics]], and [[BanditAssassinationAttribution]] - concepts contributed by the source.
 - [[ZhengState|郑国]], [[SmallStateBufferDiplomacy]], [[NaturalDisasterPoliticalOmen]], [[CelestialOmenPoliticalResponsibility]], and [[SpringAutumnToWarringStatesPoliticalViolence]] - episode 07 extension.

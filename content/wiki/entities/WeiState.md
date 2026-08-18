@@ -2,11 +2,13 @@
 title: "魏国 / Wei State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-18
 ---
 
 # 魏国 / Wei State
+
+[[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]] adds Wei's pre-rise legitimacy branch. Wei participates with Han and Zhao in dividing [[ZhiYao|智瑶]]'s territory, and [[WeiWenhou|魏斯 / 魏文侯]] is later named as one of the three Jin leaders formally recognized by [[ZhouWeilieWang|周威烈王]]. The episode also previews Wei Wenhou as the strongest and most prestigious of the three recognized leaders.
 
 魏国 / Wei State appears in [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] through the episode title's [[WeiWenhou|魏文侯]] frame and through [[WuQi|吴起]]'s military effectiveness. The source says Wei became one of the fastest-rising strong states in the early [[WarringStatesPeriod|战国时期]] because of Wu Qi's command.
 
@@ -28,6 +30,7 @@ In this page, Wei is not yet a full institutional history. Its wiki role is to h
 
 ## Connections
 - [[WeiWenhou|魏文侯]] - ruler named in the episode title.
+- [[ZhiYao|智瑶]], [[PartitionOfJin]], and [[ThreeJinVassalRecognition]] - Zhouji 04 Jin-partition and formal-recognition branch.
 - [[WuQi|吴起]] and [[Wuzi|《吴子》]] - military branch.
 - [[WarringStatesPeriod|战国时期]] - period setting.
 - [[MilitaryMoraleThroughSharedHardship]] - source concept tied to Wei's military rise.

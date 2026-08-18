@@ -2,11 +2,13 @@
 title: "《史记》 / Shiji"
 type: entity
 tags: [book, history, chinese-history, historiography]
-sources: [zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-18
 ---
 
 # 《史记》 / Shiji
+
+[[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]] uses [[Shiji|《史记》]] through the [[YuRang|豫让]] story in the assassins tradition. The important detail is Yu Rang's explanation that he does not owe all patrons the same level of repayment: [[ZhiYao|智瑶]] treated him as a "国士," so his revenge follows [[RetainerReciprocityEthic|patron-recognition reciprocity]].
 
 《史记》 / Shiji enters this wiki branch through [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]], where the host uses it to supplement a blank [[ZizhiTongjian|《资治通鉴》]] year. The source says [[ZhouLiewang|周烈王]]'s second year has no Zizhi entry, then turns to the Shiji story of [[TaishiDan|太史旦]] visiting [[QinXianGong|秦献公]].
 
@@ -16,6 +18,7 @@ The page's role is historiographical rather than encyclopedic. It marks a source
 
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle being supplemented in the episode.
+- [[YuRang|豫让]], [[ZhiYao|智瑶]], and [[RetainerReciprocityEthic]] - assassins-tradition branch added by Zhouji 04.
 - [[TaishiDan|太史旦]] and [[QinXianGong|秦献公]] - main Shiji story used by the source.
 - [[ChronicleSourceGaps]] and [[HistoricalDetectiveReasoning]] - source-reading frames.
 - [[QinState|秦国]] and [[ZhouRoyalHouse|周王室]] - political setting of the Shiji passage.
