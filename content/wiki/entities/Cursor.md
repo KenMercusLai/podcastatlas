@@ -2,11 +2,13 @@
 title: "Cursor"
 type: entity
 tags: [ai-tool, coding]
-sources: [vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]
-last_updated: 2026-08-06
+sources: [all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]
+last_updated: 2026-08-18
 ---
 
 # Cursor
+
+[[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] reinforces the source-scoped acquisition branch. [[JasonCalacanis|Jason Calacanis]] says [[SpaceX]] exercised an option to acquire Cursor in a $60 billion deal, while [[ChamathPalihapitiya|Chamath Palihapitiya]] interprets the structure as giving [[ElonMusk|Elon Musk]] a discount if SpaceX's valuation rose before closing.
 
 Cursor is mentioned in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc]] as a practical AI coding environment alongside [[Codex]] and [[ClaudeCode]]. The episode treats these tools as examples of the workflow migration needed to benefit from AI. [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o]] adds Cursor as a reference point for [[Paperboy]]: a product company can win interface share first and later blur into model-company behavior through specialized coding models.
 
@@ -25,6 +27,7 @@ Cursor is mentioned in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-r
 [[vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo]] adds [[ZhangQi|张奇]]'s scene-specific interpretation. Cursor is used as evidence that a focused AI product can beat generic chat behavior in a concrete workflow: even if much generated code needs revision, the tool helps users switch languages, scaffold demos, read project context, and save routine time.
 
 ## Connections
+- [[SpaceX]], [[ElonMusk|Elon Musk]], [[AIIPOValuation]], and [[LateStagePrivateCompanyValuationRisk]] - All-In's source-scoped acquisition and valuation-structure branch.
 - [[AgenticWorkflow]] — the key concept Cursor helps illustrate.
 - [[ContextEngineering]] — the reason project-aware tools can beat isolated chats.
 - [[Paperboy]] and [[HumanAgentCollaboration]] — product-company comparison from the Paperboy episode.

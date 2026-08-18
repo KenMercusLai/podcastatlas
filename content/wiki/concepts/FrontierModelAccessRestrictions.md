@@ -2,11 +2,13 @@
 title: "Frontier Model Access Restrictions"
 type: concept
 tags: [ai, models, policy, access-control]
-sources: [all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435, zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
+sources: [all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435, zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
 last_updated: 2026-08-18
 ---
 
 # Frontier Model Access Restrictions
+
+[[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] adds the citizenship-filter version through [[Fable5|Fable 5]]. The episode says the U.S. government wanted [[Anthropic]] to restrict access to U.S. citizens, while Anthropic instead shut the model down globally, making nationality, partner access, jailbreak risk, and government escalation part of one access-control problem.
 
 [[all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435]] adds [[ModelWeightPortabilityRisk]] as a practical access-control limit. [[NikeshArora|Nikesh Arora]] says model weights can be physically small and that distillation can happen quickly, so delaying U.S. models for a few months may not prevent comparable capability from circulating through open or foreign releases.
 
@@ -31,6 +33,7 @@ The source connects model-access restrictions to simpler regional product limita
 [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] adds the contractor side of domestic access restrictions. If a model provider is treated as a supply-chain risk, access is restricted not only for the department itself but for defense contractors that have embedded the model in critical systems.
 
 ## Key Claims
+- The Fable source adds that a nationality rule can become a global product shutdown if the provider cannot or will not operate the requested identity boundary.
 - Model restrictions can be imposed by the company, by safety policy, by partner rules, or by state pressure.
 - Nationality-based restrictions may fail when accounts, contractors, companies, and intermediaries separate nominal and actual users.
 - Partner access can become politically sensitive when the partner has cross-border relationships, as in the episode's rumor about [[SKTelecom]] and [[ChinaUnicom]].
@@ -47,6 +50,7 @@ The source connects model-access restrictions to simpler regional product limita
 - Anti-distillation policy can turn ordinary heavy API use into identity, provenance, and purpose verification, especially for research, education, startup, or model-development accounts.
 
 ## Connections
+- [[Fable5|Fable 5]], [[HyperscalerAIGatekeeping]], [[AIExportControls]], and [[AISafetyNarrativeBackfire]] - citizenship-filter and shutdown branch added by All-In.
 - [[AIExportControls]] — broader policy category.
 - [[FrontierModelReleaseGovernance]] — release review and de facto licensing layer.
 - [[Anthropic]] and [[DarioAmodei]] — source case.

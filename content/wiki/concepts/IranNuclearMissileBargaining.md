@@ -2,11 +2,13 @@
 title: "Iran Nuclear-Missile Bargaining / 伊朗核导谈判分叉"
 type: concept
 tags: [geopolitics, diplomacy, nuclear, missiles, iran]
-sources: [ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]
+last_updated: 2026-08-18
 ---
 
 # Iran Nuclear-Missile Bargaining / 伊朗核导谈判分叉
+
+[[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] adds the enriched-uranium removal test. [[DavidFriedberg|David Friedberg]] says removing Iran's enriched uranium would be a major practical achievement because rebuilding enough material for a weapon could take years or longer, while the source notes that missile and enrichment details remain unresolved.
 
 Iran nuclear-missile bargaining / 伊朗核导谈判分叉 is the episode's distinction between [[Iran]]'s nuclear program and its missile arsenal as bargaining assets. In [[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]], [[LiuYiSanlian|刘仪]] argues that the nuclear program's political value has been greater than its immediate military value, while missiles are the more direct practical threat to [[Israel]].
 
@@ -15,12 +17,14 @@ The distinction changes how [[USIranNuclearDiplomacy]] is interpreted. Nuclear c
 The concept also explains why Iran struggles to retreat. If leaders admit that decades of nuclear investment and regional deterrence failed, they damage what remains of regime legitimacy. Bargaining is therefore not only about weapons; it is about preserving a story that past sacrifice, sanctions pain, and strategic isolation had political purpose.
 
 ## Key Claims
+- The All-In source adds a practical sequencing claim: uranium removal can be a high-value concession even if missile limits, enrichment rights, and inspection details remain unsettled.
 - Nuclear assets and missile assets carry different verification, military, and legitimacy meanings.
 - A nuclear file can be bargained through international inspection more easily than distributed missile capacity.
 - Missile concessions strike closer to Iran's practical deterrent against Israel.
 - The more the nuclear and missile files merge, the harder it becomes for Iran to price concessions without admitting strategic failure.
 
 ## Connections
+- [[AllIn|All-In]], [[DavidFriedberg|David Friedberg]], [[USIranNuclearDiplomacy]], and [[IranPostwarEconomicRelief]] - June 19 uranium-removal and incentive branch.
 - [[Iran]], [[Israel]], [[UnitedStates]], [[DonaldTrump]], and [[BenjaminNetanyahu]] - main bargaining and threat actors.
 - [[USIranNuclearDiplomacy]], [[IranSanctions]], [[IranPostwarEconomicRelief]], and [[SanctionsOvercompliance]] - diplomatic and sanctions branch.
 - [[AliKhamenei]], [[RuhollahKhomeini]], and [[RegimeBasicBaseStabilization]] - regime legitimacy and survival context.

@@ -2,11 +2,13 @@
 title: "U.S.-Iran Nuclear Diplomacy"
 type: concept
 tags: [geopolitics, diplomacy, nuclear]
-sources: [omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb, hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5, ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
-last_updated: 2026-08-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb, hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5, ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
+last_updated: 2026-08-18
 ---
 
 # U.S.-Iran Nuclear Diplomacy
+
+[[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] adds a June 19 All-In reading of the memorandum before later deterioration. [[DavidSacks|David Sacks]] calls the tentative deal a major achievement relative to continued bombing or ground invasion, while [[JasonCalacanis|Jason Calacanis]] says the war was a blunder and favors containment; later sources in this page qualify that optimism with renewed strikes, safe-passage disputes, frozen-fund sequencing, and the August 16, 2026 comprehensive-deal deadline.
 
 [[ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd]] adds the pre-memorandum bargaining logic through [[IranNuclearMissileBargaining]]. [[LiuYiSanlian|刘仪]] argues that the 2026 indirect talks were less technically serious than 2025 talks because parties did not meet directly and the U.S. side reportedly lacked nuclear experts; in his reading, the talks were more likely a signal-management process before escalation than a nuclear-technical settlement.
 
@@ -33,6 +35,7 @@ The source's main contribution is fragility. A deal can cover sanctions, assets,
 [[omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb]] adds the deadline and non-decisive-pressure update. [[GregCarlstrom]] says the MOU gives the parties until August 16, 2026 to negotiate a comprehensive agreement, but serious high-level talks have barely begun. The source also argues that neither side has a decisive tool: U.S. strikes, blockades, and Iranian escalation can all impose costs without forcing settlement, making the diplomacy a [[ThinDiplomaticFrameworks]] and conflict-cycle problem.
 
 ## Connections
+- [[AllIn|All-In]], [[DavidSacks|David Sacks]], [[JasonCalacanis|Jason Calacanis]], [[IranPostwarEconomicRelief]], and [[IranNuclearMissileBargaining]] - June 19 deal-defense and containment branch.
 - [[Iran]] - state actor in the negotiation.
 - [[IranSanctions]], [[DollarFinancialSanctions]], and [[SanctionsOvercompliance]] - historical sanctions-leverage and relief-credibility branch added by Planet Money.
 - [[Fast16]], [[Stuxnet]], [[CyberSabotage]], [[CalculationIntegrityAttack]], and [[NuclearWeaponsModeling]] - covert cyber-sabotage layer added by Planet Money.

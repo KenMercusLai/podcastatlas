@@ -2,11 +2,13 @@
 title: "AI Export Controls"
 type: concept
 tags: [ai, policy, export-controls, geopolitics]
-sources: [all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+sources: [all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
 last_updated: 2026-08-18
 ---
 
 # AI Export Controls
+
+[[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] adds the [[Fable5|Fable 5]] export-control escalation. [[DavidSacks|David Sacks]] says the government letter to [[Anthropic]] was a reaction to a perceived national-security threat after [[DarioAmodei|Dario Amodei]] had described related model capability as cyber-weapon-like, rather than a general model-approval policy.
 
 [[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds the export-promotion counterweight to control. [[DavidSacks|David Sacks]] says President Trump rescinded Biden-era AI and semiconductor export regulations, while [[MichaelKratsios|Michael Kratsios]] argues the U.S. also needs an export program that makes foreign developers build on American chips and models.
 
@@ -25,6 +27,7 @@ The source contrasts AI controls with chip restrictions around [[Nvidia]] hardwa
 [[tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128]] adds the open-weight dilemma. [[AdamSiegel]] says Chinese open-weight models have been effective as a low-cost global accessibility strategy, but rumors of possible Chinese export controls reveal the tension between influence through openness and control over strategically important model capability.
 
 ## Key Claims
+- The Fable source adds that model-company safety rhetoric can become evidence for export-control escalation when a model appears cyber-relevant and jailbreakable.
 - AI controls become more likely when model companies or policymakers frame frontier models as weapon-like capabilities.
 - API-delivered services are difficult to restrict by nationality because the real user behind an account may not match the identity boundary.
 - Restrictions can create demand for [[OpenSourceAIModels]] and local deployment if customers need reliable access.
@@ -37,6 +40,7 @@ The source contrasts AI controls with chip restrictions around [[Nvidia]] hardwa
 - The All-In strategy source adds that controls are only half the problem: the U.S. also wants allied and developing countries to adopt the American stack before Chinese alternatives become default infrastructure.
 
 ## Connections
+- [[Fable5|Fable 5]], [[Anthropic]], [[DarioAmodei|Dario Amodei]], [[HyperscalerAIGatekeeping]], and [[FrontierModelReleaseGovernance]] - All-In source's Fable shutdown and national-security escalation branch.
 - [[FrontierModelAccessRestrictions]] — implementation layer for limiting model access.
 - [[FrontierModelReleaseGovernance]] — model-review and release-clearance layer added by The Intelligence.
 - [[AIColdWar]] — geopolitical frame that can form around model and API flows.

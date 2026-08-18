@@ -2,11 +2,13 @@
 title: "Frontier Model Release Governance"
 type: concept
 tags: [ai, policy, model-release, governance]
-sources: [an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
-last_updated: 2026-08-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
+last_updated: 2026-08-18
 ---
 
 # Frontier Model Release Governance
+
+[[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] adds a self-certification proposal after the [[Anthropic]] and [[Fable5|Fable 5]] shutdown. [[JasonCalacanis|Jason Calacanis]] argues that the AI industry should create shared tests and self-certify frontier models before government becomes the certifier, while [[DavidSacks|David Sacks]] frames the government letter as a narrow national-security reaction.
 
 [[an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c]] adds [[FrontierModelPeerReview]] as a company-to-company release gate. [[ElonMusk]] argues that rival labs should get short early access to test new frontier models and raise safety objections before public release, with governments as backstops if a company refuses to act on serious warnings.
 
@@ -25,6 +27,7 @@ Frontier model release governance is the process by which governments and model 
 The concept sits between [[AIExportControls]] and [[FrontierModelAccessRestrictions]]. Export controls ask who may receive capability across borders; access restrictions ask which users may use a model; release governance asks how the model gets cleared, staged, or held back before broad deployment.
 
 ## Key Claims
+- Industry self-certification could reduce the chance that every release is routed through government approval, but it only works if tests, audit trails, jailbreak reporting, and escalation channels are credible.
 - A voluntary review process can become practically mandatory if companies fear being blocked, blamed, or politically punished after releasing a risky frontier model.
 - Cyber ability changes the policy threshold because a model that can find and exploit vulnerabilities looks less like ordinary software and more like dual-use capability.
 - Opaque release criteria create commercial uncertainty for model providers because revenue, valuation, customer migration, and product roadmaps can depend on launch timing.
@@ -38,6 +41,7 @@ The concept sits between [[AIExportControls]] and [[FrontierModelAccessRestricti
 - Rival-lab peer review could reveal problems faster than public regulators, but it can also create strategic objections, confidentiality disputes, and unclear enforcement.
 
 ## Connections
+- [[Fable5|Fable 5]], [[Anthropic]], [[JasonCalacanis|Jason Calacanis]], [[AIExportControls]], and [[HyperscalerAIGatekeeping]] - All-In self-certification and shutdown branch.
 - [[AIExportControls]] - broader strategic-control category.
 - [[FrontierModelAccessRestrictions]] - user and region access layer.
 - [[Anthropic]], [[ClaudeMethosPreview|Claude-Methos Preview]], and [[ProjectGlasswing]] - April 10 Marketplace Tech company-led restricted release case.

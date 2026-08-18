@@ -2,11 +2,13 @@
 title: "David Sacks"
 type: entity
 tags: [person, startups, management]
-sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+sources: [all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
 last_updated: 2026-08-18
 ---
 
 # David Sacks
+
+[[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] adds Sacks's paper-wealth, Fable-security, and Iran-deal arguments. He says [[ElonMusk|Elon Musk]]'s trillionaire status is mainly [[PaperWealthVsCashValue|paper wealth]], frames the [[Anthropic]] and [[Fable5|Fable 5]] export-control letter as a national-security response to perceived cyber risk, and defends the Iran memorandum as preferable to continued bombing or ground invasion.
 
 [[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds Sacks in the [[AllIn|All-In]] host context for a Davos episode about regulated [[Stablecoins|stablecoins]], AI cyber defense, eVTOL deployment, defense aviation, and energy-backed AI infrastructure. The source does not isolate a Sacks-specific thesis, but it extends the All-In AI-infrastructure branch beyond national policy into CEO operating constraints.
 
@@ -31,6 +33,7 @@ The source presents Sacks only through Conrad's first-person account. Conrad arg
 [[e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]] adds Sacks to the [[PeterThiel]] and [[StanfordReview]] branch. The episode treats him as part of the campus and PayPal-adjacent network, and notes his co-authorship with Thiel on a critique of diversity politics as an extension of the anti-progressive university fight.
 
 ## Connections
+- [[PaperWealthVsCashValue]], [[Anthropic]], [[Fable5|Fable 5]], [[AIExportControls]], [[FrontierModelAccessRestrictions]], and [[USIranNuclearDiplomacy]] - paper-wealth, Fable-security, and Iran-deal branch added by the June 19 episode.
 - [[Zenefits]] - company where Sacks became CEO after Conrad's departure.
 - [[ParkerConrad]] - source narrator describing the conflict.
 - [[LannyDavis]] - crisis-PR figure Conrad says Sacks hired.

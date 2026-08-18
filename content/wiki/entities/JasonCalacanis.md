@@ -2,11 +2,13 @@
 title: "Jason Calacanis"
 type: entity
 tags: [person, investor, podcast-host]
-sources: [all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+sources: [all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
 last_updated: 2026-08-18
 ---
 
 # Jason Calacanis
+
+[[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] adds Jason's retail-access, model-certification, and Iran-skeptic role. He praises [[SpaceX]] for giving retail investors meaningful IPO access, argues the AI industry should self-certify frontier models before government becomes the certifier, and says the Iran war was a blunder even while hoping the memorandum is finalized.
 
 [[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds Jason in the [[AllIn|All-In]] host context for Davos CEO interviews with [[Circle]], [[CrowdStrike]], [[ArcherAviation|Archer Aviation]], and [[Crusoe]]. The source does not isolate a Jason-specific claim; it uses the All-In format to move across 2026 technology operating constraints.
 
@@ -21,6 +23,7 @@ Jason Calacanis appears in [[all-in-with-chamath-jason-sacks-friedberg-why-ai-wi
 In this episode, Jason's role is to move the discussion from AI as a general theme into concrete cases: frontier-model revenue, enterprise agents, [[McKinsey]]'s internal transformation, self-driving services, humanoid robots, and AI-era consumer devices.
 
 ## Connections
+- [[RetailPrivateMarketAccess]], [[FrontierModelReleaseGovernance]], [[SpaceX]], and [[USIranNuclearDiplomacy]] - retail IPO access, AI self-certification, and Iran containment branch added by the June 19 episode.
 - [[AllIn|All-In]], [[ChamathPalihapitiya|Chamath Palihapitiya]], [[DavidSacks|David Sacks]], and [[DavidFriedberg|David Friedberg]] - show context.
 - [[Stablecoins]], [[AIDetectionAndResponse]], [[EVTOLCertificationRamp]], and [[EnergyFirstNeocloud]] - technology branches added by the Davos CEO episode.
 - [[HowardLutnick|Howard Lutnick]], [[TradeReciprocityProtectionism]], [[TariffRevenueFiscalSubstitution]], and [[AIExportControls]] - policy-interview context added by the Lutnick source.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-18] ingest | World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal
+
+Added source page for an All-In episode on SpaceX's source-scoped IPO and Cursor acquisition claims, Elon Musk paper wealth, retail investor access, employee equity upside, Anthropic's Fable 5 shutdown, AI export-control escalation, hyperscaler gatekeeping, AI model self-certification, and the tentative U.S.-Iran peace memorandum. Created Hyperscaler AI Gatekeeping; updated overview, index, All-In, the four host pages, SpaceX, Cursor, Elon Musk, Anthropic, Fable 5, Dario Amodei, Iran, paper wealth, retail private-market access, equity compensation, AI IPO valuation, late-stage private-company valuation risk, property rights, wealth-tax legitimacy, AI export controls, frontier model access/release governance, AI safety narrative backfire, U.S.-Iran nuclear diplomacy, Iran postwar relief, and Iran nuclear-missile bargaining. No direct contradiction found; later Iran sources qualify this episode's June optimism, and the SpaceX/Cursor/Fable facts are kept source-scoped.
+
 ## [2026-08-18] ingest | Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company
 
 Added source page for an All-In interview with Nikesh Arora of Palo Alto Networks on AI-enabled vulnerability discovery, Mythos, analytical SaaS compression, infrastructure software revaluation, enterprise security data expansion, agent-managed audit trails, model-weight portability, false positives, application profit pools, Waymo, Google, hardware latency, and AI-driven technical hiring. Created pages for Nikesh Arora, Palo Alto Networks, Mythos AI Security Test, Change Healthcare, AI-Enabled Vulnerability Discovery, Analytical SaaS Compression, Infrastructure Software Revaluation, Enterprise Security Data Expansion, Agent-Managed Audit Trails, Model Weight Portability Risk, Enterprise AI False Positive Risk, and Application Profit Pool Capture; updated overview, index, All-In, Google, Alphabet, Waymo, OpenAI, Anthropic, AI cybersecurity, enterprise agent, SaaS, application-layer, model-access, and AI data infrastructure pages. No direct contradiction found; the source sharpens existing tensions around cyber dual use, SaaS defensibility, model access, and application-layer moats while keeping the Mythos/Methos/Glasswing naming unresolved and source-scoped.
@@ -8018,6 +8022,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] ingest | Dan Dreyfus: America's Critical Minerals Crisis is Here
 
 Added source page for an All-In episode with Dan Dreyfus on critical minerals, copper, rare-earth processing, Chinese export leverage, grid modernization, AI data-center power, craft labor, industrial policy, and hard assets as a debasement hedge. Created pages for Dan Dreyfus, Capital-Intensive AI Cycle, Copper Supply Bottleneck, Electric Grid Modernization Bottleneck, Critical Mineral Offtake Industrial Policy, Craft Labor Bottleneck, and Hard Assets Debasement Hedge; updated overview, index, All-In, critical-minerals, rare-earth, data-center power, manufacturing workforce, reshoring, supply-chain sovereignty, strategic industrial policy, commodity time-horizon, Ford Motor Company, US Department of Defense, and U.S. Department of Energy pages. No direct contradiction found; numerical commodity, power, and return claims are kept source-attributed pending independent verification.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-18] lint | Wiki health check
 

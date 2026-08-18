@@ -2,11 +2,13 @@
 title: "Dario Amodei"
 type: entity
 tags: [person, ai, safety]
-sources: [xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
-last_updated: 2026-08-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
+last_updated: 2026-08-18
 ---
 
 # Dario Amodei
+
+[[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] adds an All-In interpretation of Amodei's safety posture after the [[Fable5|Fable 5]] shutdown. [[DavidSacks|David Sacks]] says Amodei's earlier "cyber weapon" framing around Mythos/Fable primed government officials to treat the model as a national-security threat, while the hosts argue that Anthropic's worldview favors centralized trusted control by a small set of actors.
 
 [[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] adds Amodei through the [[KimiK3|Kimi K3]] open-weight safety debate. The source says he publicly did not oppose open-source models in general but argued that certain countries' open models should face restrictions and raised large-scale distillation concerns, placing him again at the boundary between [[OpenModelSafetyGovernance]], [[AIExportControls]], and [[FrontierModelAccessRestrictions]].
 
@@ -24,6 +26,7 @@ Dario Amodei appears in [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengz
 - It also mentions his advocacy for a China-excluding AI alliance as part of the source's [[AIColdWar]] framing.
 
 ## Connections
+- [[Fable5|Fable 5]], [[HyperscalerAIGatekeeping]], and [[FrontierModelReleaseGovernance]] - All-In branch around cyber-risk framing, model shutdown, and centralized control.
 - [[Anthropic]] — company context.
 - [[AISafetyNarrativeBackfire]] — main concept attached to his role in this source.
 - [[AIExportControls]] and [[FrontierModelAccessRestrictions]] — policy outcomes the episode links to safety rhetoric.
