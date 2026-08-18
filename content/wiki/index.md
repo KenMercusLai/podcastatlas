@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》08丨一代名将吴起惨死（2）](sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm.md) — 芮淇讲透资治通鉴 episode on Wu Qi fleeing Wei for Chu, Chu Dao Wang's reform backing, noble backlash against Wu Qi's centralizing measures, Qin/Zhao/Han/Qi succession and recognition notices, and Han Fei's ruler-technique reading of Zhao Jinghou.
 - [《资治通鉴·周纪》08丨一代名将吴起惨死（1）](sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll.md) — 芮淇讲透资治通鉴 episode on Wu Qi under Wei Wuhou, virtue over terrain, Tian Wen's transition-stability argument, and Gongshu's marriage-trap maneuver.
 - [《资治通鉴·周纪》07丨两起刺杀（2）](sources/zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm.md) — 芮淇讲透资治通鉴 episode on Zhou An Wang years 5-8, solar-eclipse political responsibility, Nie Zheng's assassination of Xia Lei, Nie Ying's honor death, Wei/Song/Zheng successions, Song's Shang lineage, source gaps, and Fushu's repeated transfer.
 - [《资治通鉴·周纪》07丨两起刺杀（1）](sources/zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx.md) — 芮淇讲透资治通鉴 episode on Zhou An Wang's first four years, Qin-Wei fighting, Han/Zhao/Qin successions, Wangzi Ding's flight, disaster-omen interpretation, Zheng's Jin-Chu buffer dilemma, and factional assassination politics.
@@ -1008,6 +1009,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [秦出公 / Qin Chugong](entities/QinChugong.md) — Qin Hui Gong's successor in the Zhouji 08 part 2 succession notice, later framed by the episode as a coup victim.
+- [赵靖侯 / Marquis Jing of Zhao](entities/ZhaoJinghou.md) — Zhao Zhang, installed after Zhao Wuhou and used through Han Fei to illustrate ruler technique despite personal vice.
+- [韩文侯 / Marquis Wen of Han](entities/HanWenhou.md) — Han Lie Hou's son and successor in the Zhouji 08 part 2 succession cluster.
+- [田和 / Tian He](entities/TianHe.md) — Qi grandee whose formal Zhou recognition in 386 BCE shows annalistic recognition after practical power had already shifted.
 - [田文 / Tian Wen (Wei chancellor)](entities/TianWenWeiChancellor.md) — Wei chancellor whose answer to Wu Qi makes transition fit more important than raw achievement.
 - [公叔 / Gongshu (Wei chancellor)](entities/GongshuWeiChancellor.md) — Wei chancellor who fears Wu Qi and uses a marriage proposal trap to undermine ruler-minister trust.
 - [聂政 / Nie Zheng](entities/NieZheng.md) — Assassin hired by Yan Zhongzi to kill Han chancellor Xia Lei, then self-destroying to protect family identity.
@@ -1031,7 +1036,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [司马穰苴 / Sima Rangju](entities/SimaRangju.md) — Qi military figure introduced as a low-born commander whose discipline and morale method precedes the episode's Wu Qi discussion.
 - [晏婴 / Yan Ying](entities/YanYing.md) — Qi official who recommends Sima Rangju to Qi Jinggong in the Ruiqi episode.
 - [齐景公 / Duke Jing of Qi](entities/QiJinggong.md) — Qi ruler who employs Sima Rangju after Yan Ying's recommendation.
-- [吴起 / Wu Qi](entities/WuQi.md) — Warring States commander used to show how shared hardship, care, discipline, and battlefield loyalty can become military power.
+- [吴起 / Wu Qi](entities/WuQi.md) — Warring States commander and reformer whose Wei military success, court vulnerability, and Chu state-building backlash drive the Ruiqi branch.
 - [《吴子》 / Wuzi](entities/Wuzi.md) — Military text associated with Wu Qi and the episode's "励士" morale branch.
 - [魏国 / Wei State](entities/WeiState.md) — Early Warring States power linked in the source to Wu Qi's training, discipline, morale, and execution.
 - [魏文侯 / Marquis Wen of Wei](entities/WeiWenhou.md) — Episode title-frame ruler; the short source does not fully develop the chancellor-selection question.
@@ -1039,9 +1044,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [燕国 / Yan State](entities/YanState.md) — Pre-Qin state appearing through the Yan Min Gong to Yan Xi Gong succession notice.
 - [燕闵公 / Duke Min of Yan](entities/YanMinGong.md) — Yan ruler whose death leads to Yan Xi Gong's succession in the source.
 - [燕僖公 / Duke Xi of Yan](entities/YanXiGong.md) — Yan ruler succeeding Yan Min Gong in the source's chronology.
-- [楚国 / Chu State](entities/ChuState.md) — State whose Chu Sheng Wang death notice anchors the source's "bandit" assassination-attribution discussion.
+- [楚国 / Chu State](entities/ChuState.md) — State whose branch runs from Chu Sheng Wang's opaque death notice to Wu Qi's strengthening reforms under Chu Dao Wang.
 - [楚声王 / King Sheng of Chu](entities/ChuShengWang.md) — Chu ruler recorded as killed by "bandits," used as the source's main attribution-ambiguity case.
-- [楚悼王 / King Dao of Chu](entities/ChuDaoWang.md) — Chu Sheng Wang's son and successor in the source.
+- [楚悼王 / King Dao of Chu](entities/ChuDaoWang.md) — Chu ruler who succeeds Chu Sheng Wang and later backs Wu Qi's centralizing reform program.
 - [周王室 / Zhou Royal House](entities/ZhouRoyalHouse.md) — Zhou dynastic frame for the King Weilie to King An transition in the episode.
 - [周威烈王 / King Weilie of Zhou](entities/ZhouWeilieWang.md) — Zhou ruler whose death marks the transition to King An in the source.
 - [周安王 / King An of Zhou](entities/ZhouAnWang.md) — Zhou ruler succeeding King Weilie in the source's chronology.
@@ -6852,6 +6857,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Warring States Reform Backlash / 战国变法反噬](concepts/WarringStatesReformBacklash.md) — Pattern where centralizing military-fiscal reform strengthens a state while creating concentrated elite enemies.
+- [Legalist Ruler Technique / 法家君术](concepts/LegalistRulerTechnique.md) — Han Fei-style frame where ruler effectiveness turns on using people and reading ministerial speech, even apart from personal virtue.
 - [Virtue Over Natural Barriers / 德胜地险](concepts/VirtueOverNaturalBarriers.md) — Wu Qi's warning that terrain helps only when political virtue, legitimacy, and internal alignment hold.
 - [Transition Fit Over Merit / 过渡期适任优先于功劳](concepts/TransitionFitOverMerit.md) — Leadership-selection frame where a fragile succession needs stabilizing fit more than the strongest resume.
 - [Military Morale Through Shared Hardship / 同甘共苦式士气](concepts/MilitaryMoraleThroughSharedHardship.md) — Leadership mechanism linking commander credibility, shared burden, care, discipline, and soldiers' willingness to fight.

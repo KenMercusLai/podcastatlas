@@ -2,7 +2,7 @@
 title: "韩国 / Han State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
+sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
 last_updated: 2026-08-18
 ---
 
@@ -14,10 +14,13 @@ The source uses Han less as a full institutional history than as a succession an
 
 [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] adds two Han stress points: [[XiaLei|侠累]], Han's chancellor, is killed by [[NieZheng|聂政]], and [[FushuCity|负黍]] defects back from [[ZhengState|郑国]] to Han before being taken by [[ChuState|楚国]] soon after.
 
+[[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]] adds the death of [[HanLiehou|韩烈侯]] in 387 BCE and the accession of his son [[HanWenhou|韩文侯]]. Han remains part of the source's clustered early Warring States succession pattern.
+
 ## Connections
 - [[HanJinghou|韩景侯]] and [[HanLiehou|韩烈侯]] - succession pair in the source.
 - [[ZhaoState|赵国]] and [[WeiState|魏国]] - allied attack on Chu.
 - [[ZhengState|郑国]] - attacker during Han's mourning and succession moment.
 - [[XiaLei|侠累]], [[NieZheng|聂政]], and [[HanAihou|韩哀侯]] - assassination and variant-account branch.
 - [[FushuCity|负黍]] and [[TerritorialControlChurn]] - city-control branch.
+- [[HanWenhou|韩文侯]] - successor added by Zhouji 08 part 2.
 - [[WarringStatesPeriod|战国时期]] - broad period context.

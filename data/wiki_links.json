@@ -17307,6 +17307,10 @@
     "title": "韩通 / Han Tong",
     "url": "/wiki/entities/hantong/"
   },
+  "HanWenhou": {
+    "title": "韩文侯 / Marquis Wen of Han",
+    "url": "/wiki/entities/hanwenhou/"
+  },
   "HanWudi": {
     "title": "Emperor Wu of Han / 汉武帝",
     "url": "/wiki/entities/hanwudi/"
@@ -22582,6 +22586,10 @@
   "LegalistMachiavelliComparison": {
     "title": "Legalist-Machiavelli Comparison",
     "url": "/wiki/concepts/legalistmachiavellicomparison/"
+  },
+  "LegalistRulerTechnique": {
+    "title": "Legalist Ruler Technique / 法家君术",
+    "url": "/wiki/concepts/legalistrulertechnique/"
   },
   "LegendAsSocialHistory": {
     "title": "Legend As Social History",
@@ -31295,6 +31303,10 @@
     "title": "Qilin Ransomware Group",
     "url": "/wiki/entities/qilinransomwaregroup/"
   },
+  "QinChugong": {
+    "title": "秦出公 / Qin Chugong",
+    "url": "/wiki/entities/qinchugong/"
+  },
   "QinHuiGong": {
     "title": "秦惠公 / Duke Hui of Qin",
     "url": "/wiki/entities/qinhuigong/"
@@ -38167,6 +38179,10 @@
     "title": "田峰 / Tian Feng",
     "url": "/wiki/entities/tianfeng/"
   },
+  "TianHe": {
+    "title": "田和 / Tian He",
+    "url": "/wiki/entities/tianhe/"
+  },
   "TianLongBaBu": {
     "title": "《天龙八部》",
     "url": "/wiki/entities/tianlongbabu/"
@@ -40370,6 +40386,10 @@
   "WarringStatesPeriod": {
     "title": "战国时期 / Warring States Period",
     "url": "/wiki/entities/warringstatesperiod/"
+  },
+  "WarringStatesReformBacklash": {
+    "title": "Warring States Reform Backlash / 战国变法反噬",
+    "url": "/wiki/concepts/warringstatesreformbacklash/"
   },
   "WarsOfTheRoses": {
     "title": "Wars of the Roses / 玫瑰战争",
@@ -42698,6 +42718,10 @@
   "ZhaoHang": {
     "title": "Zhao Hang",
     "url": "/wiki/entities/zhaohang/"
+  },
+  "ZhaoJinghou": {
+    "title": "赵靖侯 / Marquis Jing of Zhao",
+    "url": "/wiki/entities/zhaojinghou/"
   },
   "ZhaoKuangyin": {
     "title": "赵匡胤 / Song Taizu",
@@ -45970,5 +45994,9 @@
   "zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll": {
     "title": "《资治通鉴·周纪》08丨一代名将吴起惨死（1）",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll/"
+  },
+  "zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm": {
+    "title": "《资治通鉴·周纪》08丨一代名将吴起惨死（2）",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm/"
   }
 }

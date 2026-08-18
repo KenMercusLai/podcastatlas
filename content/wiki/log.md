@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-18] ingest | 《资治通鉴·周纪》08丨一代名将吴起惨死（2）
+
+Added source page for a 芮淇讲透资治通鉴 episode on Wu Qi fleeing Wei for Chu, Chu Dao Wang's backing of Wu Qi's reform program, noble and royal backlash against centralizing military-fiscal reform, Qin/Zhao/Han succession notices in 387 BCE, Zhou recognition of Tian He in 386 BCE, and Han Fei's ruler-technique reading of Zhao Jinghou. Created pages for Qin Chugong, Zhao Jinghou, Han Wenhou, Tian He, Warring States Reform Backlash, and Legalist Ruler Technique; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou An Wang, Wu Qi, Wei State, Wei Wuhou, Chu State, Chu Dao Wang, Qin State, Qin Hui Gong, Zhao State, Zhao Wuhou, Han State, Han Lie Hou, Qi State, Han Fei, and Warring States Period. No direct contradiction found; the source extends the prior Wu Qi branch by showing how successful reform itself creates the interests that will later destroy him.
+
 ## [2026-08-18] ingest | 《资治通鉴·周纪》08丨一代名将吴起惨死（1）
 
 Added source page for a 芮淇讲透资治通鉴 episode on Wu Qi under Wei Wuhou, the West River argument that virtue matters more than terrain, Tian Wen's transition-stability case for becoming chancellor despite Wu Qi's stronger record, and Gongshu's marriage-proposal trap to undermine Wu Qi. Created pages for Tian Wen (Wei chancellor), Gongshu (Wei chancellor), Virtue Over Natural Barriers, and Transition Fit Over Merit; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou An Wang, Wu Qi, Wei State, Wei Wuhou, and Warring States Period. No direct contradiction found; the source qualifies the earlier Wu Qi military-leadership branch by showing why the same talent could become a succession-period political risk.
@@ -8042,6 +8046,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] ingest | Dan Dreyfus: America's Critical Minerals Crisis is Here
 
 Added source page for an All-In episode with Dan Dreyfus on critical minerals, copper, rare-earth processing, Chinese export leverage, grid modernization, AI data-center power, craft labor, industrial policy, and hard assets as a debasement hedge. Created pages for Dan Dreyfus, Capital-Intensive AI Cycle, Copper Supply Bottleneck, Electric Grid Modernization Bottleneck, Critical Mineral Offtake Industrial Policy, Craft Labor Bottleneck, and Hard Assets Debasement Hedge; updated overview, index, All-In, critical-minerals, rare-earth, data-center power, manufacturing workforce, reshoring, supply-chain sovereignty, strategic industrial policy, commodity time-horizon, Ford Motor Company, US Department of Defense, and U.S. Department of Energy pages. No direct contradiction found; numerical commodity, power, and return claims are kept source-attributed pending independent verification.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-18] lint | Wiki health check
 
