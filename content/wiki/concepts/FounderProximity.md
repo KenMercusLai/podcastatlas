@@ -2,8 +2,8 @@
 title: "Founder Proximity"
 type: concept
 tags: [startup, leadership, operations]
-sources: [ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
-last_updated: 2026-07-24
+sources: [all-in-with-chamath-jason-sacks-friedberg-gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay-41752370, ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
+last_updated: 2026-08-18
 ---
 
 # Founder Proximity
@@ -26,6 +26,8 @@ The source connects founder proximity to DoorDash's earliest learning loop. The 
 
 [[ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz]] adds the AI-for-science lab-company version through [[HaotianOdin]] and [[YinglingdianAI]]. Odin says he has no private office and sits with the team, while citing [[DavidBaker]] as a model for knowing each researcher's technical work. Here proximity is both scientific and cultural: staying close to experiments, model work, and team judgment helps the founder resist abstraction into fundraising story alone.
 
+[[all-in-with-chamath-jason-sacks-friedberg-gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay-41752370]] adds [[RyanCohen]]'s retail-operator version. Cohen says he personally managed [[Chewy]] Google AdWords campaigns late at night, negotiated directly with suppliers, read supplier gifts as a sign Chewy was overpaying, and later learned at [[GameStop]] that long-time internal operators understood the business better than imported ecommerce assumptions.
+
 ## Key Claims
 - Direct exposure helps leaders notice problems that dashboards or management summaries may compress away.
 - Proximity does not mean the founder personally runs every process; it means the founder keeps enough contact to interpret secondhand information better.
@@ -39,6 +41,7 @@ The source connects founder proximity to DoorDash's earliest learning loop. The 
 - In science-heavy startups, founder proximity can mean staying close to experimental execution and team accountability, not only customers.
 - In hard-tech growth companies, proximity can expose unfilled organizational gaps and adjacent opportunities before they become hidden execution drift.
 - In AI-for-science companies, founder proximity can also protect the connection between model work, wet-lab constraints, commercial interfaces, and founder intent.
+- In low-margin retail, proximity can reveal supplier economics, advertising spend, seller friction, and category-specific operating details before they become abstract dashboard lines.
 
 ## Connections
 - [[TonyXu]] and [[DoorDash]] - source case.
@@ -52,3 +55,4 @@ The source connects founder proximity to DoorDash's earliest learning loop. The 
 - [[JenHerbach]], [[AdventrisPharmaceuticals]], [[CancerVaccinePlatform]], and [[BiotechFounderControl]] - lab-proximity and accountability case added by the Jen Herbach source.
 - [[AndyLapsa]], [[Stoke]], [[ReusableRocketEconomics]], and [[SecondStageReuseConstraint]] - aerospace founder proximity and organizational-gap case added by the Andy Lapsa source.
 - [[HaotianOdin]], [[YinglingdianAI]], [[BakerLab]], [[AIDrugDiscoveryPlatform]], and [[FounderSignalDiscipline]] - AI-for-science founder proximity case added by Shizilukou Crossing.
+- [[RyanCohen]], [[Chewy]], [[GameStop]], [[LowMarginRetailExecution]], and [[ServiceLedRetailMoat]] - retail-operator proximity branch added by All-In.

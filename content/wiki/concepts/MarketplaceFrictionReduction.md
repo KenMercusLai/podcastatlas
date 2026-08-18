@@ -2,8 +2,8 @@
 title: "Marketplace Friction Reduction"
 type: concept
 tags: [marketplaces, product-design, startups, trust]
-sources: [tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, seven-allegedly-fake-chanel-bags-vs-the-realreal]
-last_updated: 2026-07-24
+sources: [all-in-with-chamath-jason-sacks-friedberg-gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay-41752370, tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, seven-allegedly-fake-chanel-bags-vs-the-realreal]
+last_updated: 2026-08-18
 ---
 
 # Marketplace Friction Reduction
@@ -14,6 +14,8 @@ The same founders later built [[GOAT]] around the opposite lesson. Instead of as
 
 [[seven-allegedly-fake-chanel-bags-vs-the-realreal]] adds [[TheRealReal]] as a luxury version of the same mechanism. The marketplace reduces buyer work by sourcing, listing, pricing, and authenticating secondhand luxury goods, but the episode shows that friction reduction can transfer friction upstream into disputes with [[Chanel]] over [[TrademarkResaleBoundary]] and [[BrandControlledAuthentication]].
 
+[[all-in-with-chamath-jason-sacks-friedberg-gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay-41752370]] adds [[RyanCohen]]'s [[EBay|eBay]] diagnosis. Cohen says sellers should be treated as the marketplace customer, that eBay should talk directly to top sellers with engineers present, and that weak seller tools or slow live-commerce approvals create avoidable friction even when marketplace liquidity exists.
+
 ## Key Claims
 - Marketplace liquidity is not enough when users still face too many decisions or social risks before participating.
 - Emotional friction can be as decisive as logistical friction, especially in offline social products.
@@ -21,9 +23,11 @@ The same founders later built [[GOAT]] around the opposite lesson. Instead of as
 - [[AuthenticationLedMarketplaceTrust]] is one friction-reduction mechanism when the buyer cannot easily verify quality alone.
 - The strongest marketplace design often converts hidden operations into a simple buyer promise.
 - A friction-reducing authenticity promise can become brittle when legal proof requires item-level certainty.
+- Seller-side tooling is also friction reduction: a marketplace can lose growth if supply-side participants need third-party tools or wait too long for approval to use new sales formats.
 
 ## Connections
 - [[GrubWithUs]], [[GrubTonight]], [[GOAT]], [[EddyLu]], and [[Daishen]] - source cases.
 - [[AuthenticationLedMarketplaceTrust]], [[CategoryFocusBeforeExpansion]], and [[DemandShockProductMarketFit]] - concepts added by the same source.
 - [[PeerToPeerMarketplaceTrust]], [[ServiceMarketplaceQualityControl]], [[ThreeSidedMarketplaceValidation]], [[CustomerPull]], and [[ProductLedWillingnessToPay]] - adjacent marketplace and validation concepts.
 - [[TheRealReal]], [[Chanel]], [[LuxuryResaleAuthentication]], and [[FirstSaleDoctrine]] - luxury-resale friction and ownership-rights branch added by Planet Money.
+- [[EBay|eBay]], [[GameStop]], [[RyanCohen]], [[MarketplaceLiveCommerce]], and [[StoreNetworkMarketplaceInfrastructure]] - seller-tooling and live-commerce branch added by All-In.

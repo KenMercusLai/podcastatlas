@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [GameStop CEO Ryan Cohen's $56B Plan to Take Over eBay](sources/all-in-with-chamath-jason-sacks-friedberg-gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay-41752370.md) — All-In interview with Ryan Cohen on Chewy's low-margin retail execution, GameStop's cost-cutting and collectibles turnaround, and a contested GameStop bid for eBay built around resale, authentication, live commerce, store infrastructure, and in-game assets.
 - [World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal](sources/all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545.md) — All-In episode on SpaceX's IPO and paper wealth, retail investor access, Anthropic's Fable shutdown, AI export-control pressure, hyperscaler gatekeeping, and the tentative U.S.-Iran peace memorandum.
 - [Dan Dreyfus: America's Critical Minerals Crisis is Here](sources/all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225.md) — All-In episode with Dan Dreyfus on critical minerals, copper, rare-earth processing, Chinese export leverage, grid modernization, AI data-center power, craft labor, industrial policy, and hard assets as a debasement hedge.
 - [Bill Maris: How Google Could Crush AI Competitors, Why Small Funds Win, and AI's Atari Stage](sources/all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010.md) — All-In interview with Bill Maris on Google Ventures, Section 32, small-fund venture math, computer-science-driven investing, Google token-price leverage against AI rivals, AI's primitive Atari-stage interface, and computational biology constraints.
@@ -1003,6 +1004,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ryan Cohen](entities/RyanCohen.md) — Chewy founder and GameStop CEO whose All-In interview links low-margin retail execution, GameStop's turnaround, and a contested eBay acquisition proposal.
+- [Chewy](entities/Chewy.md) — Online pet retailer Ryan Cohen uses as a case in recurring-category ecommerce, supply-chain discipline, and service-led customer loyalty.
 - [Dan Dreyfus](entities/DanDreyfus.md) — All-In guest arguing that AI, reshoring, electrification, defense, and grid rebuilding are colliding with critical-mineral, power, and skilled-labor constraints.
 - [Bill Maris](entities/BillMaris.md) — Founding Google Ventures CEO and Section 32 founder whose All-In interview links computer-science-driven venture investing, small-fund discipline, Google AI pricing leverage, and computational biology.
 - [Google Ventures](entities/GoogleVentures.md) — Google venture fund Maris says he built with Rich Miner using machine learning, simulation, and portfolio-construction backtesting.
@@ -6788,6 +6791,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Low-Margin Retail Execution](concepts/LowMarginRetailExecution.md) — Retail operating discipline where supplier terms, fulfillment, labor, shipping, inventory, and retention pennies decide whether scale becomes profit.
+- [Store-Network Marketplace Infrastructure](concepts/StoreNetworkMarketplaceInfrastructure.md) — Strategy of turning a physical store footprint into marketplace studios, seller support, fulfillment, photography, inspection, and authentication nodes.
+- [Marketplace Live Commerce](concepts/MarketplaceLiveCommerce.md) — Platform live-selling model where a marketplace supplies discovery, seller tooling, checkout, fulfillment support, and trust for many live sellers.
+- [In-Game Asset Marketplace](concepts/InGameAssetMarketplace.md) — Marketplace concept for tradable game-native digital items whose value comes from in-game utility and status rather than only scarcity rhetoric.
 - [Hyperscaler AI Gatekeeping](concepts/HyperscalerAIGatekeeping.md) — Risk that frontier-model access gets operationalized through cloud platforms, KYC, audit trails, customer verification, and infrastructure chokepoints.
 - [Capital-Intensive AI Cycle](concepts/CapitalIntensiveAICycle.md) — Dreyfus's frame that AI and reindustrialization move the bottleneck from capital-light software toward mines, grids, power, fabs, data centers, and labor.
 - [Copper Supply Bottleneck](concepts/CopperSupplyBottleneck.md) — Source-scoped thesis that copper demand from AI factories, grids, electrification, defense, and renewables can outpace slow mine supply.

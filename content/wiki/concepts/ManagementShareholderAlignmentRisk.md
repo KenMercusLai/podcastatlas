@@ -2,8 +2,8 @@
 title: "Management Shareholder Alignment Risk"
 type: concept
 tags: [investing, governance, capital-allocation, risk]
-sources: [jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe, tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]
-last_updated: 2026-08-17
+sources: [all-in-with-chamath-jason-sacks-friedberg-gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay-41752370, jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe, tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]
+last_updated: 2026-08-18
 ---
 
 # Management Shareholder Alignment Risk
@@ -14,6 +14,8 @@ Management shareholder alignment risk is the danger that a listed company's mana
 
 [[tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128]] adds the U.S. public-company pressure version through [[Snap]] and [[ArenicCapitalManagement]]. The issue is not asset stripping or dividends, but whether management spending, side projects, layoffs, and [[PathToProfitability]] are aligned with ordinary shareholders who bear the stock-price consequences.
 
+[[all-in-with-chamath-jason-sacks-friedberg-gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay-41752370]] adds the contested-acquisition version through [[EBay|eBay]]. [[RyanCohen|Ryan Cohen]] criticizes eBay's board and management for limited personal ownership, high compensation, weak engagement with [[GameStop]]'s offer, and lack of owner-like risk, while presenting his own capital commitment as evidence of stronger alignment. Because the episode gives Cohen's side, these incentive claims remain source-scoped.
+
 ## Key Claims
 - A company can own decent assets and still be a poor stock if management does not distribute cash, explain capital allocation, or respect minority shareholders.
 - Repeated disappointment around dividends, communication, or asset monetization can compress valuation even when the business does not obviously fail.
@@ -22,6 +24,7 @@ Management shareholder alignment risk is the danger that a listed company's mana
 - Better-aligned state-owned examples such as [[CNOOC]], [[ChinaShenhua]], and [[ChinaMobile]] can receive more valuation recognition when dividends and policy incentives become clearer.
 - The Snap episode shows that public-market alignment risk can appear as a contested operating story, not only as minority-shareholder cash extraction.
 - The 面基 source adds that investor-protection rules are part of fiat-money decentralization because capital markets are one route by which ordinary people can access opportunity.
+- The eBay source adds that alignment disputes can center on who should operate an asset, not only whether existing managers distribute value fairly.
 
 ## Connections
 - [[FiatCapitalMarketDecentralization]], [[RiskCostSeparation]], and [[InvestmentRiskManagement]] - 面基 branch on transparent voting, dividend-linked founder exits, and collective litigation.
@@ -31,3 +34,4 @@ Management shareholder alignment risk is the danger that a listed company's mana
 - [[FinancialStatementAnalysis]], [[ProfitAndCashFlowQuality]], and [[DividendDiscountModel]] — tools for checking whether value reaches shareholders.
 - [[ShareholderPrimacy]] — broader governance comparison point.
 - [[Snap]], [[ArenicCapitalManagement]], [[ActivistInvestorPressure]], and [[PublicMarketCommunication]] - U.S. public-company pressure extension.
+- [[RyanCohen]], [[GameStop]], [[EBay|eBay]], [[ActivistInvestorPressure]], and [[StoreNetworkMarketplaceInfrastructure]] - contested buyer-operator branch added by All-In.
