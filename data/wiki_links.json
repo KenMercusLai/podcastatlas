@@ -27847,6 +27847,10 @@
     "title": "Nieman Lab",
     "url": "/wiki/entities/niemanlab/"
   },
+  "Niesang": {
+    "title": "啮桑 / Nie Sang",
+    "url": "/wiki/entities/niesang/"
+  },
   "NigelBarley": {
     "title": "Nigel Barley / 奈杰尔·巴利",
     "url": "/wiki/entities/nigelbarley/"
@@ -34871,6 +34875,10 @@
     "title": "Shanbin",
     "url": "/wiki/entities/shanbin/"
   },
+  "ShanchengWarringStates": {
+    "title": "陕城 / Shancheng (Warring States)",
+    "url": "/wiki/entities/shanchengwarringstates/"
+  },
   "Shanda": {
     "title": "Shanda / 盛大",
     "url": "/wiki/entities/shanda/"
@@ -37039,6 +37047,10 @@
     "title": "Strategic Intelligence Interpretation / 战略情报解释",
     "url": "/wiki/concepts/strategicintelligenceinterpretation/"
   },
+  "StrategicLuxurySabotage": {
+    "title": "Strategic Luxury Sabotage / 奢侈诱导式削弱",
+    "url": "/wiki/concepts/strategicluxurysabotage/"
+  },
   "StrategicMustWorkProductBet": {
     "title": "Strategic Must-Work Product Bet",
     "url": "/wiki/concepts/strategicmustworkproductbet/"
@@ -38978,6 +38990,10 @@
   "TitForTatCooperation": {
     "title": "Tit-For-Tat Cooperation / 一报还一报合作",
     "url": "/wiki/concepts/titfortatcooperation/"
+  },
+  "TitleRealityRestraint": {
+    "title": "Title-Reality Restraint / 名实相符式名号节制",
+    "url": "/wiki/concepts/titlerealityrestraint/"
   },
   "TlatelolcoMassacre": {
     "title": "Tlatelolco Massacre / 三文化广场枪击",
@@ -47126,5 +47142,9 @@
   "zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz": {
     "title": "《资治通鉴·周纪》36丨卫嗣君的帝王之术",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz/"
+  },
+  "zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo": {
+    "title": "《资治通鉴·周纪》37丨苏秦：六国集团CEO的不堪情史",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo/"
   }
 }

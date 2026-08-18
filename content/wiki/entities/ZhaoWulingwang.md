@@ -2,7 +2,7 @@
 title: "赵武灵王 / King Wuling of Zhao"
 type: entity
 tags: [person, ruler, pre-qin, zhao-state, warring-states]
-sources: [zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]
+sources: [zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]
 last_updated: 2026-08-19
 ---
 
@@ -14,9 +14,12 @@ His first moves are institutional and symbolic. Zhao Wuling Wang creates three b
 
 For the wiki, Zhao Wuling Wang links the Zhao succession branch to [[NewRulerReformSignaling|new-ruler reform signaling]]. He also points forward to [[WarringStatesMilitaryTransformation|Warring States military transformation]], but this episode should not be treated as the full account of his later cavalry reform.
 
+[[zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo]] adds a title-politics layer. In 323 BCE, when Han and Yan rulers have claimed royal title and only Zhao among the Seven Warring States has not, Zhao Wuling Wang refuses to be called king. The episode says he asks Zhao people to call him "jun" because political names should match real substance. This makes him the case for [[TitleRealityRestraint|名实相符式名号节制]] inside the broader Warring States title-inflation field.
+
 ## Connections
 - [[ZhaoState|赵国]] - polity he inherits.
 - [[ZhaoSuhou|赵肃侯]] - predecessor and father in the episode's succession frame.
 - [[FeiYi|肥义]] - senior minister he honors after accession.
 - [[NewRulerReformSignaling|新君改革铺垫信号]] - concept for the accession gestures.
+- [[TitleRealityRestraint|名实相符式名号节制]], [[StatusOrderBacklash|名分秩序反弹]], and [[XuzhouMutualKingship|徐州相王]] - title-politics branch added by Zhouji 37.
 - [[WarringStatesMilitaryTransformation|战国军事形态转变]] and [[HorseAsCivilizationalInfrastructure]] - later military-reform direction foreshadowed by the episode title.

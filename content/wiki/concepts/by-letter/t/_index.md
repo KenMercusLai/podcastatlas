@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 4733
+wiki_total_pages: 4735
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "TitForTatCooperation"
     title: "Tit-For-Tat Cooperation / 一报还一报合作"
     url: "/wiki/concepts/titfortatcooperation/"
+  - key: "TitleRealityRestraint"
+    title: "Title-Reality Restraint / 名实相符式名号节制"
+    url: "/wiki/concepts/titlerealityrestraint/"
   - key: "ToAgentDistribution"
     title: "To-Agent Distribution"
     url: "/wiki/concepts/toagentdistribution/"

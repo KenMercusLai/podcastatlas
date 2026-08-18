@@ -2,7 +2,7 @@
 title: "Qi Wei Wang Chronology Dispute / 齐威王编年争议"
 type: concept
 tags: [historiography, chronology, source-criticism, pre-qin-history, qi-state]
-sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-19
 ---
 
@@ -18,15 +18,19 @@ The same source gives a concrete impossibility test: a 370 BCE visit to [[ZhouLi
 
 [[zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]] extends the dispute forward. The host says the chronicle's 333 BCE notice that Qi Wei Wang dies and [[QiXuanWang|齐宣王]] succeeds cannot stand literally, because Qi Wei Wang is still alive in the corrected chronology and Qi Xuan Wang's first year should be 319 BCE. The source also links this dating problem to the doubtful placement of [[SuQin|苏秦]]'s [[HezongAlliance|合纵]] success.
 
+[[zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo]] adds another test case. Its 324 BCE frame has [[QiXuanWang|齐宣王]] appointing [[SuQin|苏秦]] as guest minister after Su Qin's staged flight from [[YanState|燕国]]. That is five years before the already-recorded 319 BCE correction, so the wiki should read the notice as further evidence of the same received-chronology problem, not as a reason to discard the correction silently.
+
 ## Key Claims
 - Qi Wei Wang's story may be real while its received annalistic placement is wrong.
 - The episode treats thin Qi records as a cause of error, not as grounds for dismissing the whole story.
 - A corrected chronology changes how readers sequence Qi Wei Wang's apparent decadence, remonstrance, official audit, and military recovery.
 - The dispute should be recorded explicitly because a hidden correction would create false certainty.
+- Later Su Qin/Qi notices can preserve useful diplomatic episodes while still inheriting the wrong Qi ruler frame.
 
 ## Connections
 - [[QiWeiwang|齐威王]], [[QiState|齐国]], [[TianYan|田衍]], [[TianQiHuanGong|田武 / 田氏齐桓公]], [[GongziXiQi|公子喜]], and [[TianYingqi|田英齐]] - ruler, state, and Tian-family succession branch.
 - [[QiXuanWang|齐宣王]], [[SuQin|苏秦]], and [[HezongAlliance|合纵]] - Zhouji 29 succession and alliance-placement extension.
+- [[YanState|燕国]] and [[StrategicLuxurySabotage|奢侈诱导式削弱]] - Zhouji 37 source-scoped Su Qin-in-Qi notice that deepens the chronology warning.
 - [[Shiji|《史记》]], [[SimaQian|司马迁]], [[ZizhiTongjian|《资治通鉴》]], and [[SimaGuang|司马光]] - source and compiler frame.
 - [[ZhouLiewang|周烈王]] and [[ZhouXianwang|周显王]] - received and corrected Zhou-court frame.
 - [[ChronicleChronologyDrift]], [[ChronicleSourceGaps]], and [[HistoricalDetectiveReasoning]] - broader source-critical guardrails.

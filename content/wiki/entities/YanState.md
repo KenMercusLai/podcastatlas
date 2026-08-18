@@ -2,7 +2,7 @@
 title: "燕国 / Yan State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+sources: [zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-19
 ---
 
@@ -26,6 +26,8 @@ The page is currently source-scoped. Its role is to anchor the annalistic chrono
 
 [[zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]] returns Yan as Su Qin's fallback direction after the alliance starts breaking. When [[ZhaoSuhou|赵肃侯]] blames [[SuQin|苏秦]] for failing to hold the Qi-Wei-Zhao alignment, Su Qin asks to go to Yan and says he will retaliate against [[QiState|齐国]].
 
+[[zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo]] explains how that retaliation branch becomes Su Qin's entry into Qi. [[YanYiwang|燕易王]] learns of Su Qin's affair with [[YanWengong|燕文公]]'s wife, and Su Qin proposes leaving under the appearance of criminal flight so he can serve Yan from [[QiState|齐国]]. The source reads his later advice to [[QiXuanWang|齐宣王]] as [[StrategicLuxurySabotage|奢侈诱导式削弱]], a way to drain Qi's resources and reduce pressure on Yan.
+
 ## Connections
 - [[YanMinGong|燕闵公]] and [[YanXiGong|燕僖公]] - succession pair in the source.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame.
@@ -35,3 +37,4 @@ The page is currently source-scoped. Its role is to anchor the annalistic chrono
 - [[ZhaoState|赵国]] and [[EarlyWarringStatesInterstateWar]] - Zhouji 14 Ajuan meeting notice.
 - [[YanWengong|燕文公]] and [[YanYiwang|燕易王]] - Zhouji 29 succession notice.
 - [[SuQin|苏秦]], [[ZhaoState|赵国]], [[QinState|秦国]], [[HezongAlliance|合纵]], [[ChuaimoTechnique|揣摩]], and [[CommonEnemyAlliance|共同敌人联盟]] - Zhouji 30-31 first patronage, shield-state argument, and hezong geography.
+- [[YanYiwang|燕易王]], [[QiState|齐国]], [[QiXuanWang|齐宣王]], and [[StrategicLuxurySabotage|奢侈诱导式削弱]] - Zhouji 37 scandal, staged flight, and anti-Qi weakening branch.

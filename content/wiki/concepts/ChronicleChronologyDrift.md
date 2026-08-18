@@ -2,7 +2,7 @@
 title: "Chronicle Chronology Drift / 编年错位"
 type: concept
 tags: [historiography, source-criticism, chinese-history, chronology]
-sources: [zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn]
+sources: [zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-07-liangqi-cisha-3-lsbx8l7wxeioae2lwuwkkkutpdwn]
 last_updated: 2026-08-19
 ---
 
@@ -26,6 +26,8 @@ The concept also protects the wiki from overcorrecting. When a source itself fla
 
 [[zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]] provides the concrete sequel to that warning. The Zizhi Tongjian branch summarized in the episode shows [[QinState|秦国]] disrupting hezong through [[GongsunYan|犀首公孙衍]], forcing or receiving Wei land cessions, and raising [[ZhangYiStrategist|张仪]] after the [[PuyangWarringStates|蒲阳]] and [[Shangjun|上郡]] exchange between 332 and 328 BCE. That makes Shiji's fifteen-year containment claim a source-tradition problem rather than merely an uncertain number.
 
+[[zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo]] adds another Qi/Su Qin chronology stress point. The source places [[QiXuanWang|齐宣王]] appointing [[SuQin|苏秦]] in 324 BCE, even though the earlier [[QiChronologyDispute|齐威王编年争议]] branch records the host's correction that Qi Xuan Wang's first year should be 319 BCE. The episode remains useful for Su Qin's [[StrategicLuxurySabotage|奢侈诱导式削弱]] and Gongsun Yan's "real hezong" turn, but the ruler-year frame has to stay marked as unstable.
+
 ## Key Claims
 - A chronicle can preserve a real story while placing it in a doubtful year.
 - Later compilers can inherit errors when their available base sources are already unstable.
@@ -34,9 +36,11 @@ The concept also protects the wiki from overcorrecting. When a source itself fla
 - Succession notices can compress or confuse multiple claimants, puppet rulers, and variant names.
 - When a later biography gives a clean long-duration success claim, it should be checked against the annalistic sequel instead of accepted as a settled timespan.
 - A sequel can change how earlier success should be classified: Zhouji 34 makes the hezong pause look brief, unstable, or differently dated rather than literally fifteen quiet years.
+- A source can add a valuable diplomatic episode while repeating an unstable ruler chronology, as Zhouji 37 does with Qi Xuan Wang in 324 BCE.
 
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]], [[SimaGuang|司马光]], and [[Shiji|《史记》]] - chronicle, compiler, and inherited-source frame.
 - [[QiWeiwang|齐威王]] and [[ZhouLiewang|周烈王]] - source case.
 - [[QiChronologyDispute]], [[ZhouXianwang|周显王]], [[QiXuanWang|齐宣王]], [[SuQin|苏秦]], [[HezongAlliance|合纵]], [[HanguPass|函谷关]], [[WeiWenhou|魏文侯]], [[WeiWuhou|魏武侯]], [[WuQi|吴起]], [[TianYan|田衍]], [[TianQiHuanGong|田武 / 田氏齐桓公]], [[GongziXiQi|公子喜]], [[ChronicleSourceGaps]], and [[HistoricalDetectiveReasoning]] - adjacent source-reading guardrails and later correction branch.
+- [[StrategicLuxurySabotage|奢侈诱导式削弱]] and [[GongsunYan|犀首公孙衍]] - Zhouji 37 substantive material preserved inside an unstable chronology frame.
 - [[WarringStatesPeriod|战国时期]] - period whose record instability motivates the concept.

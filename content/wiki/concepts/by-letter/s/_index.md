@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 4733
+wiki_total_pages: 4735
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1127,6 +1127,9 @@ wiki_pages:
   - key: "StrategicIntelligenceInterpretation"
     title: "Strategic Intelligence Interpretation / 战略情报解释"
     url: "/wiki/concepts/strategicintelligenceinterpretation/"
+  - key: "StrategicLuxurySabotage"
+    title: "Strategic Luxury Sabotage / 奢侈诱导式削弱"
+    url: "/wiki/concepts/strategicluxurysabotage/"
   - key: "StrategicMustWorkProductBet"
     title: "Strategic Must-Work Product Bet"
     url: "/wiki/concepts/strategicmustworkproductbet/"

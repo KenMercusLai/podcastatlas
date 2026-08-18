@@ -2,7 +2,7 @@
 title: "苏秦 / Su Qin"
 type: entity
 tags: [person, strategist, diplomat, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
+sources: [zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
 last_updated: 2026-08-19
 ---
 
@@ -28,6 +28,8 @@ The same source makes Su Qin's handling of [[ZhangYiStrategist|张仪]] part of 
 
 [[zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]] gives that triumph its immediate stress test. [[ZhaoSuhou|赵肃侯]] blames Su Qin after [[GongsunYan|犀首公孙衍]] helps fracture the Qi-Wei-Zhao side of [[HezongAlliance|合纵]], and Su Qin leaves Zhao for [[YanState|燕国]] while saying he will retaliate against [[QiState|齐国]]. The source therefore turns the "six-state minister" image back into unstable alliance politics and strengthens the [[ChronicleChronologyDrift|编年错位]] caution around Su Qin's success.
 
+[[zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo]] gives that Yan return a scandal-and-strategy sequel. [[YanYiwang|燕易王]] learns that Su Qin had been involved with [[YanWengong|燕文公]]'s wife; Su Qin fears he cannot stay in Yan, but persuades Yan Yi Wang that a staged flight to [[QiState|齐国]] can still help Yan. In Qi, [[QiXuanWang|齐宣王]] appoints him as guest minister, and Su Qin urges palace and garden expansion as [[StrategicLuxurySabotage|奢侈诱导式削弱]] meant to drain Qi's resources for Yan's benefit. The same source also qualifies the earlier Su Qin hezong legend by saying [[GongsunYan|犀首公孙衍]] now opens the "real" operational hezong line from Wei.
+
 That makes Su Qin the source's main case for [[FailureDrivenSelfStudy|失败后的自学翻身]]. His story keeps the appeal of "knowledge changes fate," but the episode emphasizes the pressure behind it: close-family humiliation, rank anxiety, and the desire to prove oneself before people who saw the failure. Zhouji 33 sharpens the same branch by adding his reflection that a small estate near Luoyang might have made him settle, and by preserving the "hundred cash / hundred gold" repayment story as gratitude after success rather than only revenge. Later reception then packages him through [[InspirationalNarrativeCommercialization|励志叙事商业化]], including the familiar "头悬梁、锥刺股" tag, [[SimaGuang|司马光]]'s poem to [[WuZhicai|吾之才]], and idioms such as "侧目而视," "前倨后恭," and "不可同日而语."
 
 The episode also places Su Qin inside a strategist family and rivalry network. [[SuDai|苏代]] and [[SuLi|苏厉]] are named as famous brothers, while [[ZhangYiStrategist|张仪]] is treated as his fellow [[Guiguzi|鬼谷子]] student and eventual counterpart in [[ZonghengjiaDiplomacy|纵横家外交]].
@@ -35,6 +37,7 @@ The episode also places Su Qin inside a strategist family and rivalry network. [
 ## Connections
 - [[YinfuJing|《阴符》]], [[ChuaimoTechnique|揣摩]], [[YanWengong|燕文公]], [[YanState|燕国]], [[ZhaoState|赵国]], [[ZhaoSuhou|赵肃侯]], [[YingSi|秦惠文王]], and [[CommonEnemyAlliance|共同敌人联盟]] - Zhouji 30-31 study, patronage, Zhao mandate, and alliance-logic branch.
 - [[ZhangYiStrategist|张仪]] and [[LianhengStrategy|连横]] - paired Warring States strategist, fellow student, later rival, and Qin-side path Su Qin helps trigger.
+- [[YanYiwang|燕易王]], [[QiXuanWang|齐宣王]], [[StrategicLuxurySabotage|奢侈诱导式削弱]], and [[ChronicleChronologyDrift|编年错位]] - Zhouji 37 scandal, covert Qi placement, and chronology-risk branch.
 - [[Guiguzi|鬼谷子]], [[SuDai|苏代]], and [[SuLi|苏厉]] - teacher tradition and family branch.
 - [[HezongAlliance|合纵]] and [[ZonghengjiaDiplomacy|纵横家外交]] - policy and diplomatic field attached to him.
 - [[DignityBasedPersuasion|尊严激将式说服]], [[WarringStatesMilitaryTransformation|战国军事形态转变]], [[Linzi|临淄]], and [[WarringStatesUrbanProsperity|战国城市繁荣]] - Zhouji 32 audience-specific persuasion, military, and Qi-capital branches.

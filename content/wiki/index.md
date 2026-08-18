@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》37丨苏秦：六国集团CEO的不堪情史](sources/zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo.md) — 芮淇讲透资治通鉴 episode on Zhang Yi taking Shancheng, Su Qin's scandal-triggered move from Yan to Qi, induced luxury as anti-Qi strategy, Zhao Wuling Wang's title restraint, and Gongsun Yan's more practical hezong turn.
 - [《资治通鉴·周纪》36丨卫嗣君的帝王之术](sources/zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz.md) — 芮淇讲透资治通鉴 episode on Qin Huiwen Wang's quieter royal-title claim, Wey Sijun's strict "治无小，乱无大" prisoner-return case, and a Zhanguo Ce supplement about Wu Xia getting a neglected Wey envoy received by Wei Hui Wang.
 - [《资治通鉴·周纪》35丨历史上第一骑兵教父是他？](sources/zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk.md) — 芮淇讲透资治通鉴 episode on Qin's partial victory over Yiqu, Zhang Yi's returned-land diplomacy with Wei, and Zhao Wuling Wang's accession gestures before later reform.
 - [《资治通鉴·周纪》34丨秦国总理如何玩转六国](sources/zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq.md) — 芮淇讲透资治通鉴 episode on Qin disrupting hezong, repeatedly extracting Wei territory, and Zhang Yi's Puyang-for-Shangjun maneuver that turns apparent generosity into a larger Qin gain.
@@ -1042,6 +1043,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [陕城 / Shancheng (Warring States)](entities/ShanchengWarringStates.md) — Qin-Wei frontier place taken by Zhang Yi in 324 BCE while Qin keeps territory and returns the people.
+- [啮桑 / Nie Sang](entities/Niesang.md) — 323 BCE meeting site where Zhang Yi meets Qi and Chu ministers amid the Zhang Yi-Gongsun Yan diplomatic rivalry.
 - [卫嗣君 / Wey Sijun](entities/WeySijun.md) — Wey ruler whose willingness to exchange a city for one escaped prisoner grounds the "治无小，乱无大" law-enforcement lesson.
 - [卫平侯 / Marquis Ping of Wey](entities/WeyPinghou.md) — Wey ruler whose death and succession by Wey Sijun mark another stage in weak-state status decline.
 - [武夏 / Wu Xia](entities/WuxiaWarringStates.md) — Zhanguo Ce figure who reframes a neglected Wey envoy's request through Wei's higher-priority Qin diplomacy.
@@ -7058,6 +7061,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Strategic Luxury Sabotage / 奢侈诱导式削弱](concepts/StrategicLuxurySabotage.md) — Su Qin's Qi-court tactic of encouraging palace and garden expansion to drain Qi resources for Yan's benefit.
+- [Title-Reality Restraint / 名实相符式名号节制](concepts/TitleRealityRestraint.md) — Zhao Wuling Wang's refusal of royal title because the name of kingship should match real kingly substance.
 - [No Small Matters in Governance / 治无小乱无大](concepts/NoSmallMattersInGovernance.md) — Wey Sijun's strict-law principle that a small enforcement failure can become a ruler-level threat to order.
 - [Weak-State Status Demotion / 弱国名分降格](concepts/WeakStateStatusDemotion.md) — Pattern where weaker states lose title weight while stronger Warring States powers claim higher status.
 - [Qin Frontier Buffer Management / 秦国后方边患管理](concepts/QinFrontierBufferManagement.md) — Qin pattern of managing Yiqu as a rear-frontier constraint while maintaining eastward pressure.

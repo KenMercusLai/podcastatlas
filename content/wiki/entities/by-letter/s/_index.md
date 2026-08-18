@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 6014
+wiki_total_pages: 6016
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1505,6 +1505,9 @@ wiki_pages:
   - key: "SuduTechnology"
     title: "速度科技 / Sudu Technology"
     url: "/wiki/entities/sudutechnology/"
+  - key: "ShanchengWarringStates"
+    title: "陕城 / Shancheng (Warring States)"
+    url: "/wiki/entities/shanchengwarringstates/"
   - key: "ShizukoNoLongerHuman"
     title: "静子 / Shizuko"
     url: "/wiki/entities/shizukonolongerhuman/"
