@@ -2,11 +2,13 @@
 title: "Local Agent Execution"
 type: concept
 tags: [agents, local-first, security]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, zhe-bannian-women-you-maile-naxie-keji-haowu-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
-last_updated: 2026-07-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, zhe-bannian-women-you-maile-naxie-keji-haowu-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
+last_updated: 2026-08-18
 ---
 
 # Local Agent Execution
+
+[[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds the Microsoft PC version through [[Windows]] and [[PhiSilica|Phi Silica]]. [[SatyaNadella|Satya Nadella]] argues that the workstation is becoming important again because local models, NPUs, GPUs, and cloud calls can combine inside real work environments.
 
 Local agent execution is the pattern where an agent operates against the user's own computer, files, accounts, devices, and local software rather than only a cloud sandbox. In [[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]], this is one of the reasons [[OpenClaw]] feels more useful than a chat-only agent: it can work where the user's real context and tools already live.
 
@@ -23,6 +25,7 @@ Local agent execution is the pattern where an agent operates against the user's 
 - Local execution is especially relevant for workers who still depend on Word, Excel, ERP, desktop files, and internal tools rather than browser-only workflows.
 - Always-on local agents can turn old or low-power computers into useful infrastructure if remote access, recovery, and physical input fallback are handled.
 - Local execution should be paired with recoverability: users need a way to stop the service, revoke access, inspect logs, and undo agent-written configuration or file changes.
+- Hybrid local-cloud execution can make local prompt processing and file context useful while still using cloud models for heavier work.
 
 ## Connections
 - [[OpenClaw]] — central product case.
@@ -34,3 +37,4 @@ Local agent execution is the pattern where an agent operates against the user's 
 - [[AgentFacingInterfaces]] — local tools and APIs must be callable for the agent to act reliably.
 - [[PersonalInfrastructureCostAccounting]] — local machines should be evaluated against cloud alternatives, maintenance burden, and workflow value.
 - [[ProbabilisticSoftware]] — local agent behavior can be useful without being fully predictable.
+- [[Windows]], [[PhiSilica|Phi Silica]], and [[LocalAIWorkstation]] - Microsoft local AI branch added by All-In.

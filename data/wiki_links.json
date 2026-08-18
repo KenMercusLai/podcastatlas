@@ -1867,6 +1867,10 @@
     "title": "AI Model Distillation Governance",
     "url": "/wiki/concepts/aimodeldistillationgovernance/"
   },
+  "AIModelOrchestration": {
+    "title": "AI Model Orchestration",
+    "url": "/wiki/concepts/aimodelorchestration/"
+  },
   "AIModelSandboxEscape": {
     "title": "AI Model Sandbox Escape",
     "url": "/wiki/concepts/aimodelsandboxescape/"
@@ -1938,6 +1942,10 @@
   "AIPersonaLabeling": {
     "title": "AI Persona Labeling",
     "url": "/wiki/concepts/aipersonalabeling/"
+  },
+  "AIPlatformEcosystemDiffusion": {
+    "title": "AI Platform Ecosystem Diffusion",
+    "url": "/wiki/concepts/aiplatformecosystemdiffusion/"
   },
   "AIPlusTerminals": {
     "title": "AI Plus Terminals",
@@ -2902,6 +2910,10 @@
   "AgeVerificationPatchwork": {
     "title": "Age Verification Patchwork",
     "url": "/wiki/concepts/ageverificationpatchwork/"
+  },
+  "Agent365": {
+    "title": "Agent 365",
+    "url": "/wiki/entities/agent365/"
   },
   "AgentApprovalFatigue": {
     "title": "Agent Approval Fatigue",
@@ -4946,6 +4958,10 @@
   "Azura": {
     "title": "Azura",
     "url": "/wiki/entities/azura/"
+  },
+  "Azure": {
+    "title": "Azure",
+    "url": "/wiki/entities/azure/"
   },
   "B2BToA2A": {
     "title": "B2B to A2A",
@@ -14319,6 +14335,10 @@
     "title": "Firebrand Saints",
     "url": "/wiki/entities/firebrandsaints/"
   },
+  "FirmSpecificModelKnowledge": {
+    "title": "Firm-Specific Model Knowledge",
+    "url": "/wiki/concepts/firmspecificmodelknowledge/"
+  },
   "FirstBrands": {
     "title": "First Brands",
     "url": "/wiki/entities/firstbrands/"
@@ -16074,6 +16094,10 @@
   "GitHub": {
     "title": "GitHub",
     "url": "/wiki/entities/github/"
+  },
+  "GitHubCopilot": {
+    "title": "GitHub Copilot",
+    "url": "/wiki/entities/githubcopilot/"
   },
   "Glamour": {
     "title": "Glamour",
@@ -23059,6 +23083,10 @@
     "title": "Loblaw",
     "url": "/wiki/entities/loblaw/"
   },
+  "LocalAIWorkstation": {
+    "title": "Local AI Workstation",
+    "url": "/wiki/concepts/localaiworkstation/"
+  },
   "LocalAgentExecution": {
     "title": "Local Agent Execution",
     "url": "/wiki/concepts/localagentexecution/"
@@ -25318,6 +25346,10 @@
   "MicrosoftExcel": {
     "title": "Microsoft Excel",
     "url": "/wiki/entities/microsoftexcel/"
+  },
+  "MicrosoftFoundry": {
+    "title": "Microsoft Foundry",
+    "url": "/wiki/entities/microsoftfoundry/"
   },
   "MicrosoftResearchAsia": {
     "title": "Microsoft Research Asia",
@@ -29174,6 +29206,10 @@
   "PhasedRetirementSuccession": {
     "title": "Phased Retirement Succession",
     "url": "/wiki/concepts/phasedretirementsuccession/"
+  },
+  "PhiSilica": {
+    "title": "Phi Silica",
+    "url": "/wiki/entities/phisilica/"
   },
   "PhilHolstead": {
     "title": "Phil Holstead",
@@ -33162,6 +33198,10 @@
   "SatoshiNakamoto": {
     "title": "Satoshi Nakamoto",
     "url": "/wiki/entities/satoshinakamoto/"
+  },
+  "SatyaNadella": {
+    "title": "Satya Nadella",
+    "url": "/wiki/entities/satyanadella/"
   },
   "Saucony": {
     "title": "Saucony",
@@ -37763,6 +37803,10 @@
     "title": "Token-Driven Software",
     "url": "/wiki/concepts/tokendrivensoftware/"
   },
+  "TokenFactoryAIInfrastructure": {
+    "title": "Token Factory AI Infrastructure",
+    "url": "/wiki/concepts/tokenfactoryaiinfrastructure/"
+  },
   "TokenGrant": {
     "title": "Token Grant",
     "url": "/wiki/entities/tokengrant/"
@@ -40323,6 +40367,10 @@
     "title": "Win-Rate Startup Strategy / 优化胜率",
     "url": "/wiki/concepts/winratestartupstrategy/"
   },
+  "Windows": {
+    "title": "Windows",
+    "url": "/wiki/entities/windows/"
+  },
   "WindsorOntario": {
     "title": "Windsor, Ontario",
     "url": "/wiki/entities/windsorontario/"
@@ -42526,6 +42574,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255": {
     "title": "Howard Lutnick: How America Can Hit 6% GDP Growth in 2026",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140": {
+    "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050": {
     "title": "Supercharging a New FDA: Marty Makary on Science, Power & Patients",

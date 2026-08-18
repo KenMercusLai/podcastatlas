@@ -3,15 +3,18 @@ title: "Model Context Protocol"
 type: concept
 tags: [ai, agents, protocols, infrastructure]
 sources:
+  - all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140
   - ep119-duihua-liu-kefan-yong-try-catch-finally-gei-duli-zuo-chanpin-de-neihao-xie-ge-chuli-liucheng-ludjc3ab-jbwpci6tpaajtffsblx
   - e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf
   - dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian
   - guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5
   - weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3
-last_updated: 2026-08-08
+last_updated: 2026-08-18
 ---
 
 # Model Context Protocol
+
+[[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds a Microsoft work-context version. [[SatyaNadella|Satya Nadella]] says developers do not work only in repositories; meetings, specs, logs, and dashboards also need to inform code, so MCP servers or skills can let [[GitHubCopilot|GitHub Copilot]] reach a broader "work IQ" context.
 
 Model Context Protocol is the agent-connectivity layer highlighted in [[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]]. The episode describes MCP as a unifying standard that lets AI tools connect to databases, GitHub, Slack, ERP systems, and other external tools or data sources without every integration being bespoke.
 
@@ -36,6 +39,7 @@ The episode's metaphor is that MCP is a USB Type-C-like connector for the AI wor
 - MCP does not solve the whole memory problem; a durable shared-memory layer may need separate standards, permissions, and data governance.
 - MCP can expose memory to agents, but it does not perform [[DataToMemoryTransformation]] by itself.
 - MCP-style connectors can also expose a narrow human action surface, but this makes permission, scope, and responsibility more important rather than less.
+- Copilot-style software work makes MCP useful as a bridge among repositories, meeting context, documents, operational logs, and dashboards.
 
 ## Connections
 - [[Anthropic]] and [[ClaudeCode]] — source company and agent-product context.
@@ -47,3 +51,4 @@ The episode's metaphor is that MCP is a USB Type-C-like connector for the AI wor
 - [[AIDataMemoryInfrastructure]], [[PingCAP]], and [[TiDB]] — database and enterprise-context extension added by the PingCAP source.
 - [[LocalFirstMemoryLayer]], [[CliptoAI]], and [[DataToMemoryTransformation]] — personal-memory connector case added by S10E20.
 - [[LiuKefan]], [[HumanAsAgentTool]], and [[HumanAgentCollaboration]] — human-callable MCP experiment added by Hard Hacker.
+- [[GitHubCopilot|GitHub Copilot]], [[Microsoft]], [[AgenticWorkflow]], and [[EnterpriseOperationalMemory]] - work-context branch added by Nadella's All-In interview.

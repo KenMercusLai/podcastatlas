@@ -2,11 +2,13 @@
 title: "College Career Preparation"
 type: concept
 tags: [education, career, work]
-sources: [brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f, 169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, can-the-trump-administration-make-college-cheaper, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
-last_updated: 2026-08-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f, 169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, can-the-trump-administration-make-college-cheaper, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
+last_updated: 2026-08-18
 ---
 
 # College Career Preparation
+
+[[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds [[SatyaNadella|Satya Nadella]]'s large-company apprenticeship view. Nadella says [[Microsoft]] still believes in college recruiting, but AI may steepen the productivity ramp by helping new hires understand codebases, observe strong engineers' AI workflows, and move earlier into broader contribution.
 
 College career preparation is the episode's goal-dependent way to allocate undergraduate effort across grades, exams, projects, internships, portfolios, and hiring readiness. In [[vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1]], the hosts argue that gaokao is only the beginning: students still need to decide whether they are aiming for graduate school, baoyan, civil-service exams, direct employment, entrepreneurship, or creative work, then build evidence for that path.
 
@@ -53,6 +55,7 @@ College career preparation is the episode's goal-dependent way to allocate under
 - Finance-oriented preparation should distinguish school signal, internship access, role exposure, and domain knowledge rather than assuming the finance/economics major itself creates job readiness.
 - Vocational-college preparation should preserve real skill practice and occupational knowledge even when further-study and exam routes become more available.
 - Career advice for AI-era graduates should distinguish motivation from market evidence: passion may develop after competence, usefulness, and feedback rather than arriving fully formed before work begins.
+- Large-company AI apprenticeship can make junior workers productive faster, but it also changes what preparation should prove: not only task execution, but ability to direct, verify, and learn from AI-mediated expert work.
 
 ## Connections
 
@@ -72,3 +75,4 @@ College career preparation is the episode's goal-dependent way to allocate under
 - [[VocationalEducation]], [[SchoolEnterpriseCooperation]], [[VocationalDegreeProgression]], [[ProjectBasedVocationalLearning]], and [[CareerCognitionEducation]] — EP241's vocational-college preparation branch.
 - [[AIEraMajorChoice]], [[AIHollowingFoundationalTraining]], [[MedicalAIEducation]], [[AIForScienceTalent]], and [[UniversityOpportunityDensity]] — EP266's foundation, resource, and discipline-specific preparation branch.
 - [[AIGraduateCareerUncertainty]], [[CareerAdviceSurvivorshipBias]], [[PassionTrapCareerAdvice]], and [[UsefulWorkCareerCompounding]] - Gen Z career-advice branch added by The Intelligence.
+- [[SatyaNadella|Satya Nadella]], [[Microsoft]], [[AgentWorkforceRedesign]], and [[AIWorkerLiteracy]] - large-company recruiting and apprenticeship branch added by All-In.

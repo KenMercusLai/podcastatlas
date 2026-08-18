@@ -2,11 +2,13 @@
 title: "Computer Use Agent"
 type: concept
 tags: [agents, computer-use, interfaces]
-sources: [vol-171-jiaru-women-you-wuxian-token-1-6682-1, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]
-last_updated: 2026-08-16
+sources: [all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, vol-171-jiaru-women-you-wuxian-token-1-6682-1, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]
+last_updated: 2026-08-18
 ---
 
 # Computer Use Agent
+
+[[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds computer use as part of [[MicrosoftCopilot|Microsoft Copilot]]'s knowledge-work evolution. [[SatyaNadella|Satya Nadella]] groups reasoning, computer use, skills, and agent calls as capabilities that turn chat into work execution.
 
 Computer use agent is the agent category in [[139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]] where a [[LanguageAgent]] acts through computer interfaces such as browsers, desktops, mobile environments, GUI elements, files, tools, and code. [[SuYu]] treats it as an important but transitional label on the way to [[UniversalDigitalAgent]].
 
@@ -29,6 +31,7 @@ The episode argues that current labels such as Web Agent, Desktop Agent, Mobile 
 - Business computer-use agents need rollback and human review when acting across storefronts, suppliers, inventory, customer support, code repositories, or internal systems.
 - Computer-use agents create demand for detailed human workflow traces, but collecting those traces inside workplaces requires explicit privacy and reuse boundaries.
 - Vol. 171 adds that computer-use agents should be judged by coverage, persistence, and human-attention savings, not only by single-run speed against a human tester.
+- Copilot-style computer use is most valuable when paired with enterprise context and permissions rather than treated as generic screen automation.
 
 ## Connections
 - [[LanguageAgent]] — underlying paradigm for using language to reason and act.
@@ -39,3 +42,4 @@ The episode argues that current labels such as Web Agent, Desktop Agent, Mobile 
 - [[Axio]], [[AgenticB2BSourcing]], [[ClaudeCode]], [[AICodingVerification]], and [[EnterpriseAgentGovernance]] — business-operations and engineering-agent branch added by E231.
 - [[Meta]], [[WorkplaceBehaviorTrainingData]], [[AITrainingDataScarcity]], and [[AIWorkforceMonitoring]] - employee computer-use data branch added by Marketplace Tech Bytes.
 - [[UnlimitedTokenWorkflow]], [[VibeCoding]], [[AgentHarness]], and [[AIUsePacing]] - Vol. 171's device-testing and long-running task branch.
+- [[MicrosoftCopilot|Microsoft Copilot]], [[GitHubCopilot|GitHub Copilot]], [[Windows]], and [[LocalAIWorkstation]] - Microsoft computer-use and local AI branch added by All-In.

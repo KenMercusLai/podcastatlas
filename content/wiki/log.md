@@ -7950,3 +7950,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-18] ingest | Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos
+
+Added source page for an All-In live Davos interview with Satya Nadella on Microsoft Copilot, GitHub Copilot, Agent 365, Azure as token infrastructure, Microsoft Foundry, model orchestration, SaaS pressure, local AI on Windows, and AI-mediated apprenticeship. Created pages for Satya Nadella, Azure, GitHub Copilot, Agent 365, Microsoft Foundry, Phi Silica, Windows, Token Factory AI Infrastructure, AI Model Orchestration, Firm-Specific Model Knowledge, Local AI Workstation, and AI Platform Ecosystem Diffusion; updated overview, index, Microsoft, OpenAI, All-In, David Sacks, Microsoft Copilot, LinkedIn, AI Economic Diffusion, AI Organization Design, Agent Identity and Authentication, Enterprise Agent Governance, Agentic Workflow, AI Native SaaS Threat, Agent Workforce Redesign, AI Inference Cost Structure, Local Agent Execution, Model Context Protocol, Computer Use Agent, Open Source AI Models, College Career Preparation, Model Provider Tool Competition, and Digital Employees. No direct contradiction found; the source qualifies SaaS-disruption and OpenAI-dependence narratives by emphasizing enterprise context, agent identity, orchestration, token infrastructure, local-cloud execution, and ecosystem diffusion.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran health before lint; health scanned 11,315 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 11,315 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-12 with 10,690 nodes and 116,995 edges; they found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.

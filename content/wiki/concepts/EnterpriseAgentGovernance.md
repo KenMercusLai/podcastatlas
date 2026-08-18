@@ -2,11 +2,13 @@
 title: "Enterprise Agent Governance"
 type: concept
 tags: [ai, agents, enterprise, governance, security]
-sources: [moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
-last_updated: 2026-08-10
+sources: [all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
+last_updated: 2026-08-18
 ---
 
 # Enterprise Agent Governance
+
+[[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds the Microsoft governance stack through [[Agent365|Agent 365]]. [[SatyaNadella|Satya Nadella]] argues that enterprise agents need identity, permissions, provenance, decision traceability, and clarity about whether they are acting under human delegation or separate agent authority.
 
 [[e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923]] adds a startup-internal version through [[Creo]]. [[ClarkCreo|Clark]] describes the productivity gain from letting agents query company data directly, but the episode treats that as a governance problem: broad agent access needs identity, personal-versus-agent authority, read/write boundaries, and safeguards against wrong data or bad decisions.
 
@@ -39,6 +41,7 @@ The concept extends [[AgentHarness]] from a task-runtime problem into a manageme
 - High-permission AI employees need adversarial tests, human approval gates for risky actions, and auditability around both action and inaction.
 - ERP agents add a stricter acceptance boundary: a finance or tax workflow can be mostly automated yet still fail if the remaining exception is not reviewable, explainable, and attributable.
 - Agent runtime governance must include the execution environment itself: where the agent runs, how it scales, which secrets it can reach, and whether its actions can be audited or rolled back.
+- Nadella's All-In source adds that governance must cover both delegated agents operating under a human's authority and agents with their own identities, because provenance and traceability differ in each case.
 
 ## Connections
 - [[DanielNewman]], [[AINativeSaaSThreat]], [[SaaSTrustMoat]], and [[OutcomeBasedAIPricing]] — Marketplace Tech's SaaS replacement and pricing boundary.
@@ -54,3 +57,4 @@ The concept extends [[AgentHarness]] from a task-runtime problem into a manageme
 - [[Kuse]], [[Junior]], [[OpenClawForTeams]], [[AgentEvaluationBenchmarks]], and [[EnterpriseAgentMemory]] — high-authority AI employee case added by the Yuhao source.
 - [[SAP]], [[EnterpriseResourcePlanning]], [[AutonomousEnterprise]], and [[ERPTrustMoat]] — core-system governance case added by LateTalk.
 - [[Runta]], [[DaiGuanlan]], [[AgentRuntimeExecutionLayer]], and [[AgentApprovalFatigue]] — execution-layer governance and temporary permission context added by the Runta source.
+- [[Agent365|Agent 365]], [[Microsoft]], [[AgentIdentityAndAuthentication]], and [[AgentWorkforceRedesign]] - Microsoft enterprise-agent governance branch added by All-In.

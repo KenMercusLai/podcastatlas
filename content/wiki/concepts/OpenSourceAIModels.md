@@ -2,11 +2,13 @@
 title: "Open Source AI Models"
 type: concept
 tags: [open-source, models, ai-ecosystem]
-sources: [xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, 148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
-last_updated: 2026-08-16
+sources: [all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, 148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, ai-bu-zhi-bi-zhishang-waic-he-kimi-k3-toulule-shenme-xin-jingzheng-1, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]
+last_updated: 2026-08-18
 ---
 
 # Open Source AI Models
+
+[[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds [[SatyaNadella|Satya Nadella]]'s coexistence view. He expects application builders to use closed frontier models and open frontier-class models together, with [[AIModelOrchestration]] deciding which model fits a task rather than a single model category winning outright.
 
 [[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]] adds [[Meta]]'s August 2026 open-weight signal through [[MetaMuseModels|Muse Glimmer and Muse Spark]]. The episode says Meta released Muse Glimmer weights and planned Muse Spark 1.2 weights, framing open weights as a way to reduce AI control concentration after Llama 4 disappointed.
 
@@ -55,6 +57,7 @@ Open source AI models are model releases that enable broad downstream use, deplo
 - Open-model access depends on inference infrastructure and pricing clarity; a model being listed on [[HuggingFace]] does not automatically mean users can activate it quickly or affordably.
 - Long-tail model catalogs can matter for language access and [[EnterpriseOwnedModels]], not only for benchmark-leading general models.
 - Large labs can use open-weight releases to repair ecosystem confidence and make a political argument against concentrated AI control, even when their commercial model remains mixed.
+- Nadella's All-In source adds that open models may coexist with closed models inside enterprise orchestration stacks rather than only act as cheaper substitutes.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — how large companies use and struggle with open source.
@@ -74,3 +77,4 @@ Open source AI models are model releases that enable broad downstream use, deplo
 - [[ZhaoChenyang]], [[ZengZhiyuan]], [[KimiDeltaAttention]], [[AgentIn]], [[KernelDevelopmentAgents]], [[MOPDPostTraining]], and [[OnPolicyDistillation]] - LateTalk episode 177's architecture and post-training branch.
 - [[FeatherlessAI]], [[EugeneChia]], [[GPUHotSwapping]], [[LongTailModelHosting]], [[FlatRateAIInferencePricing]], [[Llama]], and [[MistralAI|Mistral]] - hosted long-tail access branch added by The SaaS Podcast.
 - [[Meta]], [[MetaMuseModels]], [[MarkZuckerberg]], and [[Llama]] - August 2026 open-weight signal added by 声动早咖啡.
+- [[SatyaNadella|Satya Nadella]], [[MicrosoftFoundry|Microsoft Foundry]], [[AIModelOrchestration]], and [[FirmSpecificModelKnowledge]] - many-model enterprise orchestration branch added by All-In.

@@ -2,11 +2,13 @@
 title: "AI Economic Diffusion"
 type: concept
 tags: [ai, productivity, organizations, economics]
-sources: [tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
+last_updated: 2026-08-18
 ---
 
 # AI Economic Diffusion
+
+[[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds [[SatyaNadella|Satya Nadella]]'s platform and public-sector version. Nadella says AI only creates value through intense use across healthcare, financial services, large and small businesses, governments, and countries; the source therefore extends diffusion from firm workflow redesign into [[AIPlatformEcosystemDiffusion]].
 
 [[live-anthropic-co-founder-on-ai-and-jobs]] adds [[JackClark]]'s sharper labor-capacity forecast. Clark predicts that by April 2027, AI systems may be able to complete tasks that would take a person roughly 150 hours, including research, circuit design, source synthesis, and software building. The source therefore pushes the diffusion question beyond firm workflow redesign into [[AIAutomationRedistribution]]: who captures the gains if long knowledge tasks become machine-executable?
 
@@ -37,6 +39,7 @@ The episode's electric-motor metaphor connects this to [[TechnologyInstallationC
 - Episode 136 raises the urgency: faster coding and agent work may diffuse into labor markets before firms have redesigned accountability and value capture.
 - The LateTalk source adds that diffusion can happen through several channels at once: official coding agents, Slack agents, recorded workflows, open-model post-training, and real-time voice interfaces.
 - Clark's Planet Money forecast adds that diffusion can become a public-finance question if AI systems substitute for large blocks of high-skill knowledge work.
+- Nadella's All-In source adds that diffusion is also a global platform question: a stack can create value when local firms, workers, governments, and sectors build on top of it rather than only when the original vendor captures revenue.
 
 ## Connections
 - [[TechnologyInstallationCycle]] — broader technology-cycle frame.
@@ -50,3 +53,4 @@ The episode's electric-motor metaphor connects this to [[TechnologyInstallationC
 - [[JackClark]], [[Anthropic]], [[Claude]], and [[AIAutomationRedistribution]] - long-task forecast and redistribution branch added by Planet Money.
 - [[ChristopherMims]], [[BusinessLedAITransformation]], and [[AIWorkflowTriage]] - workplace adoption and productivity-perception branch added by Marketplace Tech.
 - [[PriyaRathod]], [[WorkplaceAIReadinessGap]], [[ManagerialAIFluencyGap]], and [[AIJobSecurityAnxiety]] - workplace readiness and incentive branch added by Marketplace Tech.
+- [[SatyaNadella|Satya Nadella]], [[Microsoft]], [[Azure]], and [[AIPlatformEcosystemDiffusion]] - platform and public-sector diffusion branch added by All-In.

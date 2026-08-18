@@ -2,11 +2,13 @@
 title: "All-In"
 type: entity
 tags: [podcast, technology, startups]
-sources: [all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255, all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360]
+sources: [all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255, all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360]
 last_updated: 2026-08-18
 ---
 
 # All-In
+
+[[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds the Microsoft platform-strategy version of All-In. [[DavidSacks|David Sacks]] interviews [[SatyaNadella|Satya Nadella]] live from Davos on [[Microsoft]], [[OpenAI]], SaaS disruption, [[Azure]] as token infrastructure, governed agents, local AI on [[Windows]], and global [[AIEconomicDiffusion]].
 
 [[all-in-with-chamath-jason-sacks-friedberg-supercharging-a-new-fda-marty-makary-on-science-power-patients-39750050]] adds the health-agency reform version of All-In. [[DavidFriedberg|Dave Friedberg]] interviews [[MartyMakary|Marty Makary]] at the [[JPMorganHealthcareConference|JP Morgan Healthcare Conference]], moving the show from tariffs and AI into [[FDAReviewModernization]], public-health trust, vaccines, nutrition, drug pricing, pharma advertising, AI health tools, and food-additive oversight.
 
@@ -28,3 +30,4 @@ In this source, All-In is less a narrow politics or startup-news show than a liv
 - [[GeneralCatalyst|General Catalyst]] and [[McKinsey]] - guest organization contexts.
 - [[CaliforniaWealthTaxCapitalFlight]], [[AIBacklashPolitics]], [[AIIPOValuation]], [[SoftwareMaintenanceRevenueCompression]], and [[CitizenJournalismAccountability]] - 2026 prediction-round branches.
 - [[AdamCarolla|Adam Carolla]], [[CaliforniaPostFireRebuildingDelay]], [[SafetyTradeoffBlindness]], [[SafeSpacesVsOctagons]], and [[EverydayGovernmentIntrusionPolitics]] - California-governance branch added by the Carolla interview.
+- [[SatyaNadella|Satya Nadella]], [[Microsoft]], [[Azure]], [[OpenAI]], [[Agent365|Agent 365]], and [[AIPlatformEcosystemDiffusion]] - Microsoft AI strategy branch added by the Davos interview.
