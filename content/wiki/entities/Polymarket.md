@@ -2,11 +2,13 @@
 title: "Polymarket"
 type: entity
 tags: [prediction-market, markets, probability]
-sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]
-last_updated: 2026-08-05
+sources: [all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]
+last_updated: 2026-08-18
 ---
 
 # Polymarket
+
+[[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] adds a bullish investor-media version of Polymarket. Friedberg names it as both a business winner and best-performing-asset candidate, arguing that it could move from a quirky prediction market toward market and news infrastructure; Jason separately groups it with wagering-adjacent assets such as [[Robinhood]] and [[Coinbase]].
 
 [[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] adds a historical comparison through [[RobertForsythe]] and the [[IowaElectronicMarkets]]. The source treats Polymarket as a modern, larger-scale platform using the same broad prediction-market logic that Iowa tested under academic and regulatory limits.
 
@@ -27,6 +29,7 @@ Polymarket also appears in [[dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-ch
 - In the episode's trading frame, prediction-market prices illustrate why [[NoPredictionTrading]] starts from observed odds and payoff, not from proving one's opinion correct.
 - The Planet Money history source makes Polymarket part of a longer [[PredictionMarketHistory]] rather than only a current crypto or event-contract platform.
 - The later Albert source treats Polymarket as a possible OPF feedback loop, but the claim remains speculative and exposed to [[InvestmentRiskManagement]] concerns.
+- The All-In prediction source is a bullish asset and infrastructure call, so it should be read beside the page's existing ethics, integrity, and suitability caveats.
 
 ## Connections
 - [[PredictionMarketEthics]], [[Kalshi]], and [[CommodityFuturesTradingCommission|CFTC]] - harmful-event market and regulatory frame added by Marketplace Tech.
@@ -36,3 +39,4 @@ Polymarket also appears in [[dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-ch
 - [[InvestmentEdge]] and [[PositionSizing]] — probability and payoff still need disciplined exposure.
 - [[IowaElectronicMarkets]], [[ElectionBettingMarkets]], and [[AcademicPredictionMarketSandbox]] - historical comparison branch.
 - [[OnePersonFund]], [[TokenMaxxing]], and [[PredictionMarketTraderAlpha]] — AI-assisted trading speculation added by the later Albert source.
+- [[PredictionMarketPublicGoodClaim]], [[Robinhood]], [[Coinbase]], and [[InvestmentRiskManagement]] - All-In's media-infrastructure and wagering-asset branch.

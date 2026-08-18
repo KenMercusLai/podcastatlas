@@ -2,11 +2,13 @@
 title: "Huawei"
 type: entity
 tags: [company, china, semiconductors, telecom, organization]
-sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, huawei-de-tao-dinglv-shi-chuangxin-haishi-xuetou-bonus-e471f937-616b-4f49-a7ae-49137d32dbe5, zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+last_updated: 2026-08-18
 ---
 
 # Huawei
+
+[[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] adds Huawei as Friedberg's 2026 business-winner pick. The source ties Huawei to [[SMIC]] and a domestic chip-stack story, using Huawei as a market and geopolitical signal inside the episode's broader AI infrastructure, national-security, and [[CriticalMineralsGeopolitics]] forecasts.
 
 [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds Huawei as the China domestic-substitution signal in a half-year macro allocation frame. [[Ricky]] argues that future AI opportunities in China may move through Huawei chips, GPU supply chains, and autonomous data-security logic, making Huawei relevant to [[ChinaEquityStructuralSelection]] and [[USChinaAIMacroAsymmetry]] rather than only to the earlier [[TauLaw]] semiconductor debate.
 
@@ -40,6 +42,7 @@ The source's main interpretation is that [[TauLaw]] fits Huawei because it can f
 - The What's Next source treats Huawei's memory route as part of domestic AI infrastructure resilience rather than only handset or telecom self-reliance.
 - The Momenta source treats Huawei as an autonomous-driving competitor and benchmark, not as a semiconductor or telecom case.
 - Episode 210 treats Huawei as one of the few "中华酷联" firms that escaped carrier dependence by turning phones into a self-owned consumer brand backed by chips, product strategy, and retail execution.
+- The All-In prediction source treats Huawei as a 2026 winner but gives only a high-level investor thesis, so the claim should be read beside the more technical WAIC and Tau Law evidence pages.
 
 ## Connections
 - [[TauLaw]] — Huawei's named semiconductor performance and organization target in the episode.
@@ -55,3 +58,4 @@ The source's main interpretation is that [[TauLaw]] fits Huawei because it can f
 - [[HighBandwidthMemory]], [[MemoryWall]], [[ChangXinMemory]], and [[AIStorageSupercycle]] — domestic AI memory branch added by What's Next.
 - [[Momenta]], [[CaoXudong]], and [[AutonomousDrivingDataFlywheel]] — third-party city NOA competition frame added by LateTalk.
 - [[YuChengdong]], [[OperatorSubsidizedHandsets]], [[OfflineHandsetChannelSystem]], and [[HandsetMarketConcentration]] — smartphone-market transition added by episode 210.
+- [[SMIC]], [[CriticalMineralsGeopolitics]], and [[DataCenterPowerBottleneck]] - All-In's 2026 infrastructure and national-security market branch.

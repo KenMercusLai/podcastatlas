@@ -2,11 +2,13 @@
 title: "Critical Minerals Geopolitics"
 type: concept
 tags: [geopolitics, mining, supply-chains, latin-america, batteries, arctic]
-sources: [battlefield-rare-earths-how-the-us-lost-to-china, how-to-get-what-greenland-has-with-permission, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, kate-crawford-mapping-empires, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi]
-last_updated: 2026-07-24
+sources: [all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, battlefield-rare-earths-how-the-us-lost-to-china, how-to-get-what-greenland-has-with-permission, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, kate-crawford-mapping-empires, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi]
+last_updated: 2026-08-18
 ---
 
 # Critical Minerals Geopolitics
+
+[[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] adds the investor-asset version. Chamath Palihapitiya predicts copper and a basket of critical metals will perform well because data centers, chips, weapons systems, electrification, and national-security demand collide with constrained supply.
 
 Critical minerals geopolitics is the strategic-resource frame in [[latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d]]. The episode says new money is flowing into mining in [[LatinAmerica]], including copper in [[Chile]], possible mineral projects in [[Paraguay]], and a U.S.-backed rare-earth mine in [[Brazil]].
 
@@ -30,6 +32,7 @@ The concept matters because mineral projects are being evaluated through nationa
 - Rare-earth security can fail at the processing stage even when deposits exist, especially when one country dominates separation and refining.
 - Strategic access to minerals can be pursued through trade, infrastructure, surveys, and allied cooperation rather than territorial acquisition.
 - Critical-minerals geopolitics also includes price and finance: a dominant supplier can make non-Chinese capacity harder to finance through market volatility, while governments may respond with [[StateBackedRareEarthRebuilding]].
+- The All-In source adds copper as an asset call linked to AI data centers, chips, weapons systems, and national-security procurement.
 
 ## Connections
 - [[LatinAmericaInvestmentBoom]] and [[DonroeDoctrine]] - source's broader investment frame.
@@ -39,3 +42,4 @@ The concept matters because mineral projects are being evaluated through nationa
 - [[SodiumIonBatteryStorage]], [[BatteryRecyclingLoop]], [[PowerBatteryIndustryChain]], and [[CATL]] - power-battery branch added by E229.
 - [[Greenland]], [[GracelandBaskaran]], [[RareEarthProcessingBottleneck]], and [[StrategicAccessWithoutAnnexation]] - Arctic rare-earth and permission-based access branch added by Planet Money.
 - [[MountainPassRareEarthMine]], [[Molycorp]], [[ProjectPhoenix]], [[MPMaterials]], [[NioCorp]], [[RareEarthExportLeverage]], and [[DominantProducerPriceDiscipline]] - U.S. rare-earth industry branch added by the later Planet Money source.
+- [[ChamathPalihapitiya|Chamath Palihapitiya]], [[DataCenterPowerBottleneck]], [[Huawei]], and [[SMIC]] - All-In's 2026 hard-asset and AI-infrastructure branch.

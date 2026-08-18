@@ -2,11 +2,13 @@
 title: "AI Backlash Politics"
 type: concept
 tags: [ai, politics, public-opinion]
-sources: [152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-08-06
+sources: [all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-08-18
 ---
 
 # AI Backlash Politics
+
+[[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] adds a Silicon Valley insider version of backlash risk. Friedberg predicts the tech industry could be a 2026 political loser because AI job displacement, billionaire wealth, and distrust of technology elites can become targets for both the left and the right.
 
 [[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] adds a 2026 annual-prediction version of the concept. [[DavidWeng|大卫翁]] argues that a Western anti-AI wave can form even if AI capability keeps improving, because [[BernieSanders]]-style arguments about job dignity, class distribution, [[DataCenterCostShifting]], and [[EntryLevelAICareerLadderRisk]] attack the social bargain around AI rather than only the technology.
 
@@ -35,6 +37,7 @@ The concept matters because it adds a legitimacy constraint to the wiki's AI syn
 - Government AI literacy programs can reduce fear while still leaving displacement, safeguards, and infrastructure-cost politics unresolved.
 - Survey-measured model values can intensify public concern when AI tools are used for advice, education, or morally sensitive questions.
 - Data-center buildout can turn AI politics into local and statewide election politics when communities connect AI infrastructure to power, water, jobs, and control over development.
+- The All-In source adds that technology elites can face simultaneous right-populist and left-populist suspicion even while AI markets and productivity narratives remain strong.
 
 ## Connections
 - [[TonyPippa]], [[DataCenterCommunityConsent]], and [[Maine]] - state-ban and local-consent branch added by Marketplace Tech.
@@ -47,3 +50,4 @@ The concept matters because it adds a legitimacy constraint to the wiki's AI syn
 - [[AmericanDemocraticResilience]] - broader U.S. institutional branch where AI becomes another stress test.
 - [[DataCenterBacklash]] - local infrastructure version of the same public anxiety.
 - [[AIModelValueSurveying]], [[AIModelCensorship]], and [[AIAdviceMoralOutsourcing]] - model-values branch added by The Intelligence.
+- [[DavidFriedberg|David Friedberg]], [[AllIn|All-In]], [[EntryLevelAICareerLadderRisk]], and [[CaliforniaWealthTaxCapitalFlight]] - insider-tech backlash branch added by the prediction source.

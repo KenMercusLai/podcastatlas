@@ -1,12 +1,14 @@
 ---
 title: "California"
 type: entity
-tags: [place, state, privacy, legislation, wildfire, climate, construction]
-sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, a-trip-to-the-magic-mushroom-megachurch, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
-last_updated: 2026-08-14
+tags: [place, state, privacy, legislation, wildfire, climate, construction, tax]
+sources: [all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128, a-trip-to-the-magic-mushroom-megachurch, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
+last_updated: 2026-08-18
 ---
 
 # California
+
+[[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] adds California as a tax-flight and business-climate case. The All-In hosts discuss a proposed wealth tax as a potential trigger for [[CaliforniaWealthTaxCapitalFlight]], arguing that founder shares, illiquidity, super-voting structures, and ballot uncertainty can push high-net-worth technology actors toward states such as [[Texas]] before voters decide.
 
 [[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds California to the [[PoliticalDeepfakeRegulation]] branch. [[MariaCurie|Maria Curi]] says an attempt to pass a specific AI political-content law in California was struck down as unconstitutional, making the state a First Amendment caution inside the broader state deepfake-law patchwork.
 
@@ -39,6 +41,7 @@ California appears in [[tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp
 The California case complements [[Montana]]'s role in [[tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]]. Montana is used as a warrant-requirement example for closing the [[DataBrokerLoophole]] in government purchases; California is used as a consumer-agency example for reducing broker-held data before it can be sold, reused, or targeted.
 
 ## Connections
+- [[CaliforniaWealthTaxCapitalFlight]], [[WealthTaxLegitimacy]], [[AllIn|All-In]], and [[Texas]] - wealth-tax and founder-migration branch added by All-In.
 - [[EmbodiedCarbonBuildingCode]], [[ConstructionCarbonCompliance]], [[LowCarbonConstructionMaterials]], [[MalibuHighSchool]], [[VerticalGroup]], [[BNBuilders]], [[EmilyEnglish]], [[BenStapleton]], and [[USGreenBuildingCouncilOfCalifornia|U.S. Green Building Council of California]] - embodied-carbon building-code branch added by Marketplace Tech.
 - [[FireResilientConstruction]], [[CrossLaminatedTimber]], [[ConcreteFilledWallSystems]], and [[ThreeDPrintedHousing]] - wildfire rebuilding branch added by Marketplace Tech.
 - [[ClimateAdaptation]] and [[FireTechClimateResilience]] - broader resilience context for the rebuilding episode.

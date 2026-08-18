@@ -2,11 +2,13 @@
 title: "AI IPO Valuation"
 type: concept
 tags: [ai, investing, valuation]
-sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
-last_updated: 2026-08-07
+sources: [all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
+last_updated: 2026-08-18
 ---
 
 # AI IPO Valuation
+
+[[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] adds a direct forecast split. Sacks and Jason expect a strong IPO year, with Jason naming companies such as [[SpaceX]], [[Anthropic]], and [[OpenAI]] as possible filers, while Chamath predicts SpaceX will avoid an IPO and reverse merge into [[Tesla]] instead.
 
 [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds a near-term narrative-reset version through [[OpenAI]] and [[Anthropic]]. [[DavidWeng|大卫翁]] argues that their listing progress could shape the next one-to-two-year AI story because public-market disclosure would reveal how much revenue and margin belong to already-priced coding/office substitution versus less certain broad labor replacement.
 
@@ -39,6 +41,7 @@ AI IPO valuation is the episode's frame for evaluating hot private technology co
 - The April 3 source adds IPO-timing competition: entering public markets before other frontier AI companies can matter if investor attention, liquidity, and comparable valuations are scarce.
 - The January 23 source adds that IPOs can broaden who funds capital-intensive AI ventures, but that broader access does not remove the need to evaluate cash burn, technical uncertainty, and exit incentives.
 - The January 30 source adds that a limited pure-play IPO wave can keep the bubble score below maximum while leaving other investable channels, such as public mega-caps and infrastructure debt, exposed.
+- The All-In prediction source adds that IPO timing itself can be contested by alternative transaction structures such as a reverse merger, especially around [[SpaceX]] and [[Tesla]].
 
 ## Connections
 - [[AILaborSubstitutionValuationBoundary]], [[AIRevenueLegibility]], and [[AICapexReturnWindow]] - episode 172's disclosure and valuation-test branch.
@@ -53,3 +56,4 @@ AI IPO valuation is the episode's frame for evaluating hot private technology co
 - [[PareshDave]], [[Starlink]], [[Starship]], and [[Twitter|X]] - bundled SpaceX filing and IPO-race context added by the April 3 Marketplace Tech source.
 - [[PublicCompanyTransition]], [[PublicMarketCommunication]], [[SpaceBasedAIInfrastructure]], and [[OrbitalDataCenterEconomics]] - credibility, disclosure, and capital-intensive space-data-center context added by the January 23 Marketplace Tech source.
 - [[DavidKirsch]], [[TechBubbleConditions]], [[AIInfrastructureDebtFinancing]], and [[AIEquityValuationRisk]] - pure-play IPO qualification added by the January 30 Marketplace Tech source.
+- [[IPDealStructureSubstitution]], [[Tesla]], [[XAI|xAI]], [[MistralAI|Mistral AI]], and [[Perplexity]] - All-In's deal-structure and AI-company transaction branch.

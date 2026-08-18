@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [All-In's 2026 Predictions](sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260.md) — All-In forecast round on California wealth-tax flight, Democratic-left momentum, Trump-era growth, Huawei, Polymarket, Amazon, AI jobs, Jevons demand, IPOs, SpaceX/Tesla, critical metals, and citizen journalism.
 - [Howard Lutnick: How America Can Hit 6% GDP Growth in 2026](sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255.md) — All-In episode with Howard Lutnick on tariffs, trade-deficit ownership, Japan deal financing, MFN drug pricing, immigration filters, fraud matching, GDP-growth claims, CHIPS Act leverage, Nvidia export licenses, and Intel taxpayer-return policy.
 - [Why AI will dwarf every tech revolution before it: robots, manufacturing, AR glasses from CES 2026](sources/all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790.md) — All-In live CES 2026 episode with Bob Sternfels and Hemant Taneja on compressed AI value creation, enterprise pilot purgatory, agent workforce redesign, physical AI, manufacturing, self-driving, and smart-glasses hardware.
 - [EP 15: Unveiling Data Scientist's Role in the Generative AI Era](sources/ep-15-unveiling-data-scientists-role-in-the-generative-ai-era.md) — Data Science With Sam episode with Marina of Bellups Consulting on data scientists' generative-AI fluency, prompt and API skills, lightweight prototypes, domain judgment, hallucination and bias review, privacy, and use-case triage.
@@ -6703,6 +6704,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [California Wealth-Tax Capital Flight](concepts/CaliforniaWealthTaxCapitalFlight.md) — All-In frame where a proposed California wealth tax can push mobile founder wealth, residence, and company formation toward other states before the policy passes.
+- [Software Maintenance Revenue Compression](concepts/SoftwareMaintenanceRevenueCompression.md) — AI-agent pressure on the maintenance, migration, customization, and implementation revenue around enterprise software systems.
+- [IP Deal-Structure Substitution](concepts/IPDealStructureSubstitution.md) — Dealmaking pattern where licensing, distribution, cloud, or IP arrangements substitute for conventional M&A under antitrust and geopolitical constraints.
+- [Accelerated Depreciation Capex Pull-Forward](concepts/AcceleratedDepreciationCapexPullForward.md) — Tax-policy mechanism where faster equipment expensing can move industrial, power, and infrastructure capex earlier.
+- [Citizen Journalism Accountability](concepts/CitizenJournalismAccountability.md) — Creator-native accountability media using recording, direct audience funding, and platform distribution to surface exposes and institutional behavior.
 - [Business-Led Government Management](concepts/BusinessLedGovernmentManagement.md) — Lutnick's operating style for Commerce: outcome-driven cabinet management, specialists coordinated through deals, tariffs, licenses, statistics, and direct presidential alignment.
 - [Trade Deficit Ownership Frame](concepts/TradeDeficitOwnershipFrame.md) — Lutnick's argument that persistent trade deficits become foreign ownership claims on American assets.
 - [Tariff Revenue Fiscal Substitution](concepts/TariffRevenueFiscalSubstitution.md) — Lutnick's claim that tariff revenue can fund tax relief, deficit reduction, and benefit support.

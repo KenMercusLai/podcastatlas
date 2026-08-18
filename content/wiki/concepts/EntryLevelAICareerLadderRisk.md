@@ -2,11 +2,13 @@
 title: "Entry-Level AI Career-Ladder Risk"
 type: concept
 tags: [ai, labor-market, careers, education]
-sources: [176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]
-last_updated: 2026-08-08
+sources: [all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, 176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f]
+last_updated: 2026-08-18
 ---
 
 # Entry-Level AI Career-Ladder Risk
+
+[[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] adds Jason Calacanis's white-collar-worker version of the risk. Jason predicts young workers will lose because AI automates some entry-level work and companies remove lower rungs from career ladders; the same episode preserves tension by having [[DavidSacks|David Sacks]] argue the opposite long-run demand case through [[JevonsParadoxInAI]].
 
 [[176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah]] adds the ordinary-tool and work-task version. [[DavidWeng|大卫翁]] treats AI as a tool for most people rather than a universal asset-class tailwind, but remains pessimistic about junior roles built on information collection, organization, summarization, and first drafts because those tasks are both automatable and historically training-rich.
 
@@ -33,6 +35,7 @@ The risk is less about every junior worker being fired immediately than about fu
 - The source leaves the long-run outcome open: technology may also reshape roles and create new paths, but the old junior-to-senior progression cannot be assumed.
 - Episode 169 adds that finance's old ordinary-student entry points may narrow because they were often built around hard, repetitive information-processing labor.
 - The graduate-entry version shows that search channels can deteriorate before the underlying occupation fully changes.
+- The All-In source adds a white-collar generalization: junior professional rungs can disappear even when senior workers and AI-fluent young workers remain valuable.
 
 ## Connections
 - [[AILaborMarketConcentration]], [[LowFireLaborMarket]], and [[EmployerPowerReassertion]] - labor-market patterns around selective AI demand and weak entry paths.
@@ -42,3 +45,4 @@ The risk is less about every junior worker being fired immediately than about fu
 - [[FinanceEntryLevelAICompression]], [[AIInvestmentResearch]], and [[IndustryToFinanceCareerPath]] — episode 169's finance-specific branch and possible response.
 - [[AIHollowingFoundationalTraining]], [[AIEraMajorChoice]], and [[CollegeCareerPreparation]] — EP266's school-to-work pipeline extension.
 - [[AIGraduateCareerUncertainty]], [[AIHiringArmsRace]], and [[UsefulWorkCareerCompounding]] - The Intelligence career-advice branch.
+- [[JasonCalacanis|Jason Calacanis]], [[JevonsParadoxInAI]], and [[AgentWorkforceRedesign]] - All-In's internal disagreement over AI labor demand.
