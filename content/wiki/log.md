@@ -8190,3 +8190,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-19] ingest | 《资治通鉴·周纪》20丨庞涓死此树下
+
+Added source page for a 芮淇讲透资治通鉴 episode completing the Battle of Maling: Sun Bin reduces visible stoves to fake Qi desertion, Pang Juan abandons the main force and rushes into the Maling ambush, the "庞涓死此树下" scene ends with Pang Juan's suicide, Qi breaks Wei, and Prince Shen is captured. Created Decreasing Stoves Deception; updated overview, index, Maling Battle, Sun Bin, Pang Juan, Tian Ji, Zou Ji, Prince Shen of Wei, Qi/Wei/Qi Wei Wang/Liang Hui Wang/Zhou Xian Wang pages, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Sun Bin's Art of War, and strategy concepts for delayed rescue, crown-prince command risk, forced-march risk, lure enemy out of position, and early Warring States interstate war. No direct contradiction found; the episode's dramatized tree-inscription scene and modern location note are kept source-scoped.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran health and lint checks. Health passed. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.

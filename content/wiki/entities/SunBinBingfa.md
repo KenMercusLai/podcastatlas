@@ -2,7 +2,7 @@
 title: "《孙膑兵法》 / Sun Bin's Art of War"
 type: entity
 tags: [book, military-thought, archaeology, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
+sources: [zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
 last_updated: 2026-08-19
 ---
 
@@ -12,8 +12,10 @@ last_updated: 2026-08-19
 
 The text's wiki role is therefore evidentiary as much as military. It supports the episode's [[HistoricalDetectiveReasoning|historical reasoning]] by showing how archaeology can resolve an old identification problem without requiring the episode to reconstruct the full textual history.
 
+[[zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4]] gives the text a more direct tactical role. In the [[MalingBattle|马陵之战]] account, the host says the Sun Bin text describes [[SunBin|孙膑]] using chariots as walls and caltrops as a moat, which makes the ambush more than a psychological trap: it is also a prepared field position.
+
 ## Connections
 - [[SunBin|孙膑]] - strategist associated with the text in the source.
 - [[ZizhiTongjian|《资治通鉴》]] and [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] - chronicle and podcast context.
 - [[HistoricalDetectiveReasoning]] - evidence-resolution frame.
-- [[TianJiHorseRacing]], [[LureEnemyOutOfPosition]], and [[EncirclingWeiToRescueZhao]] - strategic ideas the episode places beside Sun Bin's textual identity.
+- [[TianJiHorseRacing]], [[LureEnemyOutOfPosition]], [[EncirclingWeiToRescueZhao]], and [[DecreasingStovesDeception]] - strategic ideas the episodes place beside Sun Bin's textual identity.

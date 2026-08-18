@@ -2,7 +2,7 @@
 title: "Forced-March Operational Risk / 急行军作战风险"
 type: concept
 tags: [warfare, logistics, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
+sources: [zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
 last_updated: 2026-08-19
 ---
 
@@ -12,9 +12,12 @@ Forced-march operational risk / 急行军作战风险 is the military pattern [[
 
 The operational risk is not only fatigue. Rapid pursuit can split units, overrun supplies, weaken formation, and detach commanders from the full army. Sun Bin's plan is to exploit [[WeiState|魏国]]'s contempt for [[QiState|齐国]] by making [[PangJuan|庞涓]] believe quick pursuit will produce an easy victory, then meeting him with rested and concentrated Qi forces.
 
+[[zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4]] shows the risk materializing. [[DecreasingStovesDeception|减灶诱敌]] makes Pang Juan think the Qi army is dissolving, so he leaves the slower main army and pursues with a lighter force at doubled pace. The result is exactly the operational failure the concept names: speed gives contact, but under conditions Sun Bin has already shaped for ambush.
+
 ## Key Claims
 - Speed is useful only while the army's command, supply, and formation remain intact.
 - A fleeing enemy can be a lure, not proof of weakness.
+- A forced march becomes especially dangerous when the commander's information has been shaped by deception.
 - Long pursuit can convert psychological confidence into physical vulnerability.
 - The "以逸待劳" advantage depends on one side staying rested while the other side spends itself moving.
 - Forced-march risk extends [[LureEnemyOutOfPosition|诱敌离位]] from position control into endurance and logistics.
@@ -22,5 +25,5 @@ The operational risk is not only fatigue. Rapid pursuit can split units, overrun
 ## Connections
 - [[SunBin|孙膑]], [[PangJuan|庞涓]], and [[SunziBingfa|《孙子兵法》]] - strategist, target, and textual frame.
 - [[QiState|齐国]], [[WeiState|魏国]], and [[MalingBattle|马陵之战]] - campaign setting.
-- [[LureEnemyOutOfPosition]] and [[EncirclingWeiToRescueZhao]] - adjacent strategic patterns.
+- [[LureEnemyOutOfPosition]], [[DecreasingStovesDeception]], and [[EncirclingWeiToRescueZhao]] - adjacent strategic patterns.
 - [[EarlyWarringStatesInterstateWar]] - broader conflict setting.

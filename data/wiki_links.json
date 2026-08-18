@@ -11151,6 +11151,10 @@
     "title": "Deco (Barcelos piabero)",
     "url": "/wiki/entities/decobarcelos/"
   },
+  "DecreasingStovesDeception": {
+    "title": "Decreasing Stoves Deception / 减灶诱敌",
+    "url": "/wiki/concepts/decreasingstovesdeception/"
+  },
   "DeePhiTech": {
     "title": "DeePhi Tech / 深鉴科技",
     "url": "/wiki/entities/deephitech/"
@@ -46678,5 +46682,9 @@
   "zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada": {
     "title": "《资治通鉴·周纪》19丨马陵之战",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada/"
+  },
+  "zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4": {
+    "title": "《资治通鉴·周纪》20丨庞涓死此树下",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4/"
   }
 }

@@ -2,7 +2,7 @@
 title: "成侯邹忌 / Chenghou Zou Ji"
 type: entity
 tags: [person, minister, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
+sources: [zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
 last_updated: 2026-08-19
 ---
 
@@ -12,8 +12,10 @@ last_updated: 2026-08-19
 
 His role in this source is compact but useful. He argues that early rescue and late rescue are both inferior to not rescuing at all, creating the negative pole in a three-way policy debate. [[TianJi|田忌]] then argues for early rescue, while [[SunBin|孙膑]] argues for [[DelayedRescueStatecraft|delayed rescue]].
 
+[[zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4]] turns Zou Ji from debate participant into the next court-risk signal. After [[TianJi|田忌]] returns from the [[MalingBattle|马陵之战]] victory with higher military prestige, the episode says Zou Ji dislikes him and may be threatened by Tian Ji's rising status.
+
 ## Connections
 - [[QiState|齐国]] and [[QiWeiwang|齐威王]] - court and ruler context.
 - [[HanState|韩国]] and [[WeiState|魏国]] - crisis being debated.
-- [[TianJi|田忌]] and [[SunBin|孙膑]] - alternative rescue-timing positions.
+- [[TianJi|田忌]] and [[SunBin|孙膑]] - alternative rescue-timing positions and later prestige tension.
 - [[DelayedRescueStatecraft]] and [[MalingBattle|马陵之战]] - policy debate and campaign branch.

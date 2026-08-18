@@ -2,7 +2,7 @@
 title: "Early Warring States Interstate War / 战国早期诸侯混战"
 type: concept
 tags: [warfare, diplomacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-19
 ---
 
@@ -26,6 +26,8 @@ The point is not a single clean campaign. The episode explicitly says the dates 
 
 [[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]] adds the [[MalingBattle|马陵之战]] setup as a fuller rescue-intervention case. [[WeiState|魏国]] attacks [[HanState|韩国]], Qi does not rescue immediately, and [[SunBin|孙膑]] makes delayed intervention part of the war design. The case shows that interstate rescue can combine balance-of-power logic, ally dependence, capital threat, crown-prince command risk, and pursuit exhaustion in one campaign.
 
+[[zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4]] completes the same case by showing how tactical deception turns a rescue campaign into a state-power shock. [[DecreasingStovesDeception|减灶诱敌]] pulls [[PangJuan|庞涓]] into a prepared ambush, [[PrinceShenWei|太子申]] is captured, and [[WeiState|魏国]]'s ability to contend with other lords is described as sharply weakened.
+
 ## Key Claims
 - Early Warring States war is multi-actor and opportunistic rather than a simple two-sided conflict.
 - An intervention can be both assistance and predation.
@@ -39,6 +41,7 @@ The point is not a single clean campaign. The episode explicitly says the dates 
 - Reconciliation can be part of interstate war: a pressured state may reduce enemies on one front because another front has become more dangerous.
 - Internal succession attacks, small-state rank decline, and battle previews are part of the same conflict field even when the annalistic notices are brief.
 - The Maling setup shows that rescue can be deliberately delayed so the rescuer enters with political leverage and better military conditions.
+- The Maling outcome shows that a single battle can convert tactical deception into interstate re-ranking when a leading general dies and a crown prince is captured.
 
 ## Connections
 - [[QiState|齐国]], [[YanState|燕国]], [[HanState|韩国]], [[ZhaoState|赵国]], [[WeiState|魏国]], and [[ChuState|楚国]] - major participants in the source's account.
@@ -52,4 +55,4 @@ The point is not a single clean campaign. The episode explicitly says the dates 
 - [[SunBin|孙膑]], [[TianJi|田忌]], [[GuilingBattle|桂陵之战]], [[EncirclingWeiToRescueZhao]], [[Daliang|大梁]], [[Handan|邯郸]], and [[EasternZhouPolity|东周国]] - Zhouji 16 indirect rescue and royal-fragment pressure branch.
 - [[Anyi|安邑]], [[Guyang|固阳]], [[ZhangshuiAlliance|漳水之盟]], [[XianglingWarringStates|襄陵]], and [[Jingshe|景舍]] - Zhouji 17 pressure, reconciliation, and peace-seeking branch.
 - [[ZhaoFan|赵范]], [[Handan|邯郸]], [[MilitaryActionTerminology]], [[WeyState|卫国]], and [[MalingBattle|马陵之战]] - Zhouji 18 surprise attack, status decline, and battle-preview branch.
-- [[DelayedRescueStatecraft]], [[PrinceShenWei|太子申]], [[CrownPrinceCommandRisk]], [[ForcedMarchOperationalRisk]], and [[SunziBingfa|《孙子兵法》]] - Zhouji 19 rescue-Han and Maling operational branch.
+- [[DelayedRescueStatecraft]], [[PrinceShenWei|太子申]], [[CrownPrinceCommandRisk]], [[ForcedMarchOperationalRisk]], [[DecreasingStovesDeception]], and [[SunziBingfa|《孙子兵法》]] - Zhouji 19-20 rescue-Han and Maling operational branch.
