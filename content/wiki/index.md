@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》07丨两起刺杀（1）](sources/zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx.md) — 芮淇讲透资治通鉴 episode on Zhou An Wang's first four years, Qin-Wei fighting, Han/Zhao/Qin successions, Wangzi Ding's flight, disaster-omen interpretation, Zheng's Jin-Chu buffer dilemma, and factional assassination politics.
 - [《资治通鉴·周纪》06丨魏文侯选谁当宰相呢（2）](sources/zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei.md) — 芮淇讲透资治通鉴 episode on Sima Rangju, Wu Qi's shared-hardship military leadership, Wei military discipline, Zhou/Yan/Chu chronology, posthumous names, and "bandit" assassinations as possible political cover.
 - [GameStop CEO Ryan Cohen's $56B Plan to Take Over eBay](sources/all-in-with-chamath-jason-sacks-friedberg-gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay-41752370.md) — All-In interview with Ryan Cohen on Chewy's low-margin retail execution, GameStop's cost-cutting and collectibles turnaround, and a contested GameStop bid for eBay built around resale, authentication, live commerce, store infrastructure, and in-game assets.
 - [World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal](sources/all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545.md) — All-In episode on SpaceX's IPO and paper wealth, retail investor access, Anthropic's Fable shutdown, AI export-control pressure, hyperscaler gatekeeping, and the tentative U.S.-Iran peace memorandum.
@@ -1027,8 +1028,22 @@ This file is maintained by the LLM. Updated on every ingest.
 - [晋国 / Jin State](entities/JinState.md) — Pre-Qin state node for the Jin You Gong, Qin Ying, and Qin-Jin marriage-alliance comparison.
 - [晋幽公 / Duke You of Jin](entities/JinYouGong.md) — Jin ruler whose Bamboo Annals death account is used to illustrate political direction behind "bandits."
 - [秦国 / Qin State](entities/QinState.md) — Qin polity introduced through Qin Ying and the Qin-Jin marriage-alliance explanation.
+- [秦简公 / Duke Jian of Qin](entities/QinJianGong.md) — Qin ruler whose death leads to Qin Hui Gong's accession in the Zhouji 07 chronology.
+- [秦惠公 / Duke Hui of Qin](entities/QinHuiGong.md) — Qin Jian Gong's son and successor in the Zhouji 07 succession sequence.
 - [秦嬴 / Qin Ying](entities/QinYing.md) — Qin princess named in the Bamboo Annals account of Jin You Gong's assassination.
+- [韩国 / Han State](entities/HanState.md) — Early Warring States polity attacked by Zheng during Han Jinghou's mourning and succession window.
+- [韩景侯 / Marquis Jing of Han](entities/HanJinghou.md) — Han ruler whose death creates the vulnerability the episode links to Zheng's Yangdi attack.
+- [韩烈侯 / Marquis Lie of Han](entities/HanLiehou.md) — Han Jinghou's son and successor in the Zhouji 07 chronology.
+- [赵国 / Zhao State](entities/ZhaoState.md) — Early Warring States polity appearing through the Han-Zhao-Wei attack on Chu and Zhao succession notice.
+- [赵烈侯 / Marquis Lie of Zhao](entities/ZhaoLiehou.md) — Zhao ruler whose death leads to Zhao Wuhou's installation.
+- [赵武侯 / Marquis Wu of Zhao](entities/ZhaoWuhou.md) — Zhao Liehou's younger brother and successor in the source.
+- [郑国 / Zheng State](entities/ZhengState.md) — Buffer state between Jin and Chu whose internal assassinations anchor Zhouji 07's political-violence thread.
 - [郑文公 / Duke Wen of Zheng](entities/ZhengWenGong.md) — Ruler cited as a comparison case for using bandits as political killers.
+- [子阳 / Ziyang of Zheng](entities/ZiyangZheng.md) — Zheng prime minister whose killing and factional aftermath illustrate escalating Warring States political violence.
+- [郑康公 / Duke Kang of Zheng](entities/ZhengKangGong.md) — Zheng ruler installed after Ziyang's faction kills the prior ruler.
+- [王子定 / Prince Ding](entities/WangziDing.md) — Zhou royal prince whose flight to Jin illustrates aristocratic political asylum.
+- [王应麟 / Wang Yinglin](entities/WangYinglin.md) — Later scholar whose reading of the Guo mountain landslide grounds the disaster-omen branch.
+- [清华简《系年》 / Qinghua Bamboo Slips Xinian](entities/QinghuaJianXinian.md) — Excavated-text source the episode uses to supplement Zizhi Tongjian's terse Zheng-Chu record.
 - [《竹书纪年》 / Bamboo Annals](entities/ZhushuJinian.md) — Text cited for the Jin You Gong and Qin Ying assassination-attribution example.
 - [Ryan Cohen](entities/RyanCohen.md) — Chewy founder and GameStop CEO whose All-In interview links low-margin retail execution, GameStop's turnaround, and a contested eBay acquisition proposal.
 - [Chewy](entities/Chewy.md) — Online pet retailer Ryan Cohen uses as a case in recurring-category ecommerce, supply-chain discipline, and service-led customer loyalty.
@@ -6820,6 +6835,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Military Morale Through Shared Hardship / 同甘共苦式士气](concepts/MilitaryMoraleThroughSharedHardship.md) — Leadership mechanism linking commander credibility, shared burden, care, discipline, and soldiers' willingness to fight.
 - [Posthumous Name Politics / 谥号政治](concepts/PosthumousNamePolitics.md) — Chronicle-reading concept for how posthumous ruler labels encode retrospective judgment rather than ordinary names.
 - [Bandit Assassination Attribution / 盗贼行刺归因](concepts/BanditAssassinationAttribution.md) — Historiographical caution that "bandits killed the ruler" may identify physical killers while obscuring political authorship.
+- [Small-State Buffer Diplomacy / 小国夹缝外交](concepts/SmallStateBufferDiplomacy.md) — Pattern where a small state between great powers appears fickle because any alliance choice creates another threat.
+- [Aristocratic Political Asylum / 贵族政治避难](concepts/AristocraticPoliticalAsylum.md) — Elite exile mechanism where royal or princely fugitives use kinship, status, retainers, and restoration value across state borders.
+- [Natural Disaster Political Omen / 自然灾害政治征兆](concepts/NaturalDisasterPoliticalOmen.md) — Historiographical frame for reading destructive landscape events as warnings about state fate.
+- [Spring-Autumn to Warring States Political Violence / 春秋战国政治暴力转型](concepts/SpringAutumnToWarringStatesPoliticalViolence.md) — Transition from constrained aristocratic conflict toward factional killing and assassination as state-capture technique.
 - [Low-Margin Retail Execution](concepts/LowMarginRetailExecution.md) — Retail operating discipline where supplier terms, fulfillment, labor, shipping, inventory, and retention pennies decide whether scale becomes profit.
 - [Store-Network Marketplace Infrastructure](concepts/StoreNetworkMarketplaceInfrastructure.md) — Strategy of turning a physical store footprint into marketplace studios, seller support, fulfillment, photography, inspection, and authentication nodes.
 - [Marketplace Live Commerce](concepts/MarketplaceLiveCommerce.md) — Platform live-selling model where a marketplace supplies discovery, seller tooling, checkout, fulfillment support, and trust for many live sellers.

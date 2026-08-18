@@ -2,7 +2,7 @@
 title: "司马光 / Sima Guang"
 type: entity
 tags: [official, historian, song-dynasty, china]
-sources: [105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
+sources: [105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]
 last_updated: 2026-08-18
 ---
 
@@ -14,9 +14,12 @@ When Sima Guang and the old party returned to power, Su Shi objected to indiscri
 
 [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] adds Sima Guang's signature historical work indirectly through [[ZizhiTongjian|《资治通鉴》]]. The episode does not discuss Sima Guang's Song politics; instead, it shows how the work's compact chronology can be read for military leadership, succession, posthumous names, and politically ambiguous assassination records.
 
+[[zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]] extends that source-selection frame. The host says Sima Guang does not explain why [[ChuState|楚国]] besieged [[ZhengState|郑国]] or why Zheng killed [[ZiyangZheng|子阳]], treating the silence as evidence of limits in the available record rather than as a solved motive.
+
 ## Connections
 - [[SuShi|苏轼 / 苏东坡]] - old-party-associated official who still criticizes old-party retaliation.
 - [[WangAnshi|王安石]], [[WangAnshiReforms|王安石变法]], and [[SongFactionalPolitics|宋代党争]] - conflict field.
 - [[NorthernSong|北宋]] - historical setting.
 - [[ConscienceOverFaction]] - main interpretive use in the source.
 - [[ZizhiTongjian|《资治通鉴》]] - historical work added through the Ruiqi episode.
+- [[QinghuaJianXinian|清华简《系年》]] and [[HistoricalDetectiveReasoning]] - episode 07 supplement to a terse chronicle gap.

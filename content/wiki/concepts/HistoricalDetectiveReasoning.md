@@ -2,7 +2,7 @@
 title: "Historical Detective Reasoning"
 type: concept
 tags: [history, archaeology, reasoning, detective-fiction]
-sources: [69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
+sources: [69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]
 last_updated: 2026-08-18
 ---
 
@@ -18,6 +18,8 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 
 [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] adds a pre-Qin chronicle version through [[BanditAssassinationAttribution]]. The episode treats "盗贼杀君" as a possible attribution trap: a record may identify the visible killers while leaving open whether another political actor arranged or benefited from the act.
 
+[[zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]] adds an evidence-supplement version through [[QinghuaJianXinian|清华简《系年》]]. The source treats [[ZizhiTongjian|《资治通鉴》]]'s silence about [[ChuState|楚国]]'s siege of [[ZhengState|郑国]] and [[ZiyangZheng|子阳]]'s death as a clue about preserved evidence, then uses excavated-text material to make a bounded reconstruction.
+
 ## Key Claims
 - Historical evidence is usually fragmentary, mediated, and unevenly preserved.
 - A strong historical inference asks who produced the source, when it appeared, what it leaves out, and what rival explanation it must beat.
@@ -26,6 +28,7 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 - The same reasoning can apply to family objects and local records, not only kings, murder cases, and famous ruins.
 - Criminal-history sources require special caution because witnesses, informants, defendants, and institutions all have reasons to shape the record.
 - Chronicle assassination notices require similar caution: physical attribution and political authorship may not be the same thing.
+- Silence in a chronicle can be meaningful, but filling it requires stronger parallel evidence rather than narrative convenience.
 
 ## Connections
 - [[ZhangZhihao|张志浩]] and [[LishiBoke|《历史播客》]] - source context.
@@ -37,3 +40,4 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 - [[EvidenceBoundFolkloreInquiry]] and [[MythAsHistoricalEvidence]] - adjacent historical-method concepts from folklore and myth.
 - [[CounterfeitCurrencyPolicing]], [[WilliamChaloner]], and [[RoyalMint]] - crime-history and institutional-record branch added by the Newton episode.
 - [[BanditAssassinationAttribution]], [[ChuShengWang|楚声王]], [[JinYouGong|晋幽公]], and [[ZhushuJinian|《竹书纪年》]] - pre-Qin assassination-attribution branch added by the Ruiqi episode.
+- [[QinghuaJianXinian|清华简《系年》]], [[ZhengState|郑国]], [[ChuState|楚国]], and [[ZiyangZheng|子阳]] - episode 07 chronicle-gap supplement.

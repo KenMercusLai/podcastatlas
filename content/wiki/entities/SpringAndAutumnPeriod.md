@@ -2,7 +2,7 @@
 title: "春秋时期 / Spring and Autumn Period"
 type: entity
 tags: [history, china, pre-qin, warfare]
-sources: [109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
+sources: [109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]
 last_updated: 2026-08-18
 ---
 
@@ -14,6 +14,8 @@ This page is source-scoped rather than a full period history. Its wiki role is t
 
 [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] adds a Qi military-command branch through [[SimaRangju|司马穰苴]], [[YanYing|晏婴]], and [[QiJinggong|齐景公]]. The episode uses Sima Rangju as a precursor to [[WuQi|吴起]], shifting attention from aristocratic display toward discipline, morale, and execution.
 
+[[zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]] uses the Spring-Autumn period mainly as a contrast term. The host argues that older aristocratic politics could still preserve exiled or displaced lineages, while the early [[WarringStatesPeriod|战国时期]] cases around [[ZhengState|郑国]] show a turn toward killing ministers, rulers, and rival factions.
+
 ## Connections
 - [[ZuoZhuan|《左传》]] - main text used by the episode.
 - [[SpringAutumnWarfareRitual]] - concept for the episode's account of war rules and aristocratic battle culture.
@@ -21,3 +23,4 @@ This page is source-scoped rather than a full period history. Its wiki role is t
 - [[QiHuanGong|齐桓公]], [[JinWenGong|晋文公]], and [[SongXiangGong|宋襄公]] - ruler cases named by the source.
 - [[HorseAsCivilizationalInfrastructure]] - adjacent chariot and mobility background.
 - [[SimaRangju|司马穰苴]], [[YanYing|晏婴]], [[QiJinggong|齐景公]], and [[QiState|齐国]] - Qi command branch added by the Ruiqi episode.
+- [[SpringAutumnToWarringStatesPoliticalViolence]] - episode 07's transition frame from constrained elite conflict to factional killing.

@@ -2,7 +2,7 @@
 title: "周王室 / Zhou Royal House"
 type: entity
 tags: [polity, pre-qin, zhou-dynasty, china]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]
+sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]
 last_updated: 2026-08-18
 ---
 
@@ -12,8 +12,11 @@ last_updated: 2026-08-18
 
 The page's role is chronological and legitimating: even as the episode moves through powerful states such as [[WeiState|魏国]], [[YanState|燕国]], and [[ChuState|楚国]], the Zhou kingly sequence still structures the annalistic frame.
 
+[[zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]] adds an internal-fracture branch through [[WangziDing|王子定]]'s flight to [[JinState|晋国]]. The source uses the case to explain how Zhou princes and other aristocratic exiles could draw on kinship and noble status outside their home court.
+
 ## Connections
 - [[ZhouWeilieWang|周威烈王]] and [[ZhouAnWang|周安王]] - succession pair in the source.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame.
 - [[PosthumousNamePolitics]] - explanation of how Zhou royal labels are constructed after death.
 - [[MandateOfHeavenLegitimacy]] - adjacent legitimacy branch already present in the wiki.
+- [[WangziDing|王子定]] and [[AristocraticPoliticalAsylum]] - episode 07 exile branch.

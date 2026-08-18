@@ -7806,6 +7806,10 @@ Added source page for a Data Science With Sam Coffee Chat with Sam, Effie, and M
 
 Added source page for an All-In episode with Sarah B. Rogers on State Department public diplomacy, the UK Online Safety Act, the EU Digital Services Act, cross-border platform speech regulation, disinformation NGOs, trusted flaggers, debanking, demonetization, AI deepfakes, Community Notes, and Grok. Created pages for Sarah B. Rogers, UK Online Safety Act, European Union Digital Services Act, Center for Countering Digital Hate, Community Notes, NRA v. Vullo, Cross-Border Platform Speech Regulation, Censorship Industrial Complex, Trusted Flagger System, Indirect Regulatory Coercion, Intermediary Speech Pressure, Viewpoint Debanking, and AI Deepfake Parody Boundary; updated overview, index, All-In, David Sacks, Jason Calacanis, U.S. Department of State, European Union, United Kingdom, Twitter/X, Grok, Platform First Amendment Defense, Political Deepfake Regulation, AI Content Provenance, and Social Media Age-Gate Speech Burden. No direct contradiction found; the source is an opinionated, source-scoped critique that qualifies existing AI provenance and political-deepfake regulation pages by distinguishing narrow disclosure tools from broad speech-control regimes.
 
+## [2026-08-18] ingest | 《资治通鉴·周纪》07丨两起刺杀（1）
+
+Added source page for a 芮淇讲透资治通鉴 episode on Zhou An Wang's first four years, Qin-Wei fighting, Han/Zhao/Qin successions, Wangzi Ding's flight to Jin, Guo mountain disaster interpretation, Zheng's Jin-Chu buffer dilemma, and Zheng factional assassination politics. Created pages for Zheng State, Han State, Zhao State, Han Jinghou, Han Liehou, Zhao Liehou, Zhao Wuhou, Qin Jian Gong, Qin Hui Gong, Wangzi Ding, Wang Yinglin, Qinghua Bamboo Slips Xinian, Ziyang of Zheng, Zheng Kang Gong, Small-State Buffer Diplomacy, Aristocratic Political Asylum, Natural Disaster Political Omen, and Spring-Autumn to Warring States Political Violence; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou An Wang, Zhou Royal House, Wei State, Qin State, Jin State, Chu State, Spring and Autumn Period, Warring States Period, Sima Guang, Zuo Zhuan, Historical Detective Reasoning, Spring-Autumn Warfare Ritual, Political Assassination Ethics, and Mandate of Heaven Legitimacy. No direct contradiction found; the source extends the prior Zhouji branch from ambiguous "bandit" attribution into buffer-state coercion, aristocratic exile, omen reading, and factional killing as Warring States political technique.
+
 ## [2026-08-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -8030,6 +8034,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-18] ingest | Dan Dreyfus: America's Critical Minerals Crisis is Here
 
 Added source page for an All-In episode with Dan Dreyfus on critical minerals, copper, rare-earth processing, Chinese export leverage, grid modernization, AI data-center power, craft labor, industrial policy, and hard assets as a debasement hedge. Created pages for Dan Dreyfus, Capital-Intensive AI Cycle, Copper Supply Bottleneck, Electric Grid Modernization Bottleneck, Critical Mineral Offtake Industrial Policy, Craft Labor Bottleneck, and Hard Assets Debasement Hedge; updated overview, index, All-In, critical-minerals, rare-earth, data-center power, manufacturing workforce, reshoring, supply-chain sovereignty, strategic industrial policy, commodity time-horizon, Ford Motor Company, US Department of Defense, and U.S. Department of Energy pages. No direct contradiction found; numerical commodity, power, and return claims are kept source-attributed pending independent verification.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-18] lint | Wiki health check
 

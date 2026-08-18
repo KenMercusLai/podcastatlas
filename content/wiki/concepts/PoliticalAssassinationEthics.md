@@ -2,8 +2,8 @@
 title: "Political Assassination Ethics / 政治刺杀伦理"
 type: concept
 tags: [politics, violence, ethics, assassination]
-sources: [sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]
-last_updated: 2026-07-24
+sources: [sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]
+last_updated: 2026-08-18
 ---
 
 # Political Assassination Ethics / 政治刺杀伦理
@@ -16,6 +16,8 @@ The concept extends [[TyrannicideRepublicanDilemma]] beyond [[CaesarAssassinatio
 
 [[sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209]] adds a contemporary adjacent case through the [[LuigiCaseSuspect|Luigi]] discussion. The target is not a ruler or revolutionary agitator but a corporate executive associated with [[USHealthInsuranceDenialPolitics]], which makes the ethical problem less like classic tyrannicide and more like whether private actors may punish a symbolic civilian representative of institutional harm.
 
+[[zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx]] adds a pre-Qin institutional counterpoint through [[ZhengState|郑国]] and [[ZiyangZheng|子阳]]. The episode is less interested in justifying killing than in showing how assassination becomes normal political technique when aristocratic constraints fail, so it is best tracked through [[SpringAutumnToWarringStatesPoliticalViolence]] rather than treated as another moral-defense case.
+
 ## Key Claims
 - Political assassination remains crime and violence even when the target is morally compromised.
 - A weak actor may see assassination as the last available move when law, courts, and ordinary politics cannot reach a powerful wrongdoer.
@@ -24,6 +26,7 @@ The concept extends [[TyrannicideRepublicanDilemma]] beyond [[CaesarAssassinatio
 - Assassination can create symbolic balance or memory without producing stable political repair.
 - Democratic and judicial institutions matter partly because they transform violent conflict into slower, accountable procedures.
 - The Luigi case adds a corporate-power variant: public anger can make a killing symbolically legible even when the target remains a civilian and the method cannot be generalized safely.
+- The Zheng case adds a state-capture variant: assassination can be a factional instrument with little ethical self-sacrifice claim.
 
 ## Connections
 - [[CharlotteCorday]], [[JeanPaulMarat]], and [[SeptemberMassacres]] - French Revolution source case.
@@ -31,3 +34,4 @@ The concept extends [[TyrannicideRepublicanDilemma]] beyond [[CaesarAssassinatio
 - [[PrivateRevengeModernLaw]] and [[PowerViolenceDistinction]] - adjacent law and political-power frames.
 - [[RepublicanMemoryAgainstDictatorship]] - case where failed killing still leaves a warning.
 - [[LuigiCaseSuspect]], [[UnitedHealthcare]], and [[VigilanteJusticeUniversalizationRisk]] - contemporary health-insurance and private-punishment extension.
+- [[ZhengState|郑国]], [[ZiyangZheng|子阳]], and [[SpringAutumnToWarringStatesPoliticalViolence]] - pre-Qin political-technique counterpoint.
