@@ -2,8 +2,8 @@
 title: "孔子 / Confucius"
 type: entity
 tags: [person, philosopher, chinese-classics, spring-and-autumn]
-sources: [165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]
-last_updated: 2026-08-18
+sources: [165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
+last_updated: 2026-08-19
 ---
 
 # 孔子 / Confucius
@@ -20,6 +20,8 @@ The source's point is not to replace Confucius's intellectual image with a sport
 
 [[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] adds Confucius through [[Zisi|子思]], whom the source identifies as his grandson. The episode uses that lineage less for family history than for a Confucian governance branch around remonstrance, talent judgment, and court correction.
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]] adds Confucius through the saying "不学诗，无以言." The episode reads the line as a social and political competence claim: in pre-Qin elite settings, one needed [[Shijing|《诗经》]] fluency to communicate safely, indirectly, and precisely. That makes Confucius part of the source's [[PoetryAsElitePoliticalLanguage|poetry-as-political-language]] branch.
+
 ## Connections
 - [[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]] - source episode.
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode's Mencian extension.
@@ -31,3 +33,4 @@ The source's point is not to replace Confucius's intellectual image with a sport
 - [[RespectForEldersTradition]] - elder-care and social-peace extension added by episode 165.
 - [[SongState|宋国]], [[KongfuJia|孔父嘉]], [[WeiziQi|微子启]], and [[ShangRemnantStateLegitimacy]] - genealogy extension added by the Ruiqi episode.
 - [[Zisi|子思]], [[UseStrengthsOverFaults]], and [[CourtFeedbackCollapse]] - grandson and governance branch added by Zhouji 09.
+- [[Shijing|《诗经》]] and [[PoetryAsElitePoliticalLanguage]] - Zhouji 10 part 4 reading of poetic literacy as elite speech competence.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 4735
+wiki_total_pages: 4736
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -476,6 +476,9 @@ wiki_pages:
   - key: "PodcastEnabledCareerPath"
     title: "Podcast-Enabled Career Path / 播客带来的职业路径"
     url: "/wiki/concepts/podcastenabledcareerpath/"
+  - key: "PoetryAsElitePoliticalLanguage"
+    title: "Poetry As Elite Political Language / 诗经作为贵族政治语言"
+    url: "/wiki/concepts/poetryaselitepoliticallanguage/"
   - key: "PoetryAsEmotionalRelease"
     title: "Poetry As Emotional Release"
     url: "/wiki/concepts/poetryasemotionalrelease/"

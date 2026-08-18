@@ -2,7 +2,7 @@
 title: "魏文侯 / Marquis Wen of Wei"
 type: entity
 tags: [person, ruler, warring-states, wei-state]
-sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
+sources: [zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
 last_updated: 2026-08-19
 ---
 
@@ -24,6 +24,8 @@ The same source also has Wei Wenhou consult Li Ke on whether to use Wu Qi. Li Ke
 
 [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] then returns to Wei Wenhou mainly through the episode title and [[WuQi|吴起]]'s military discipline, bridging the chancellor-selection topic into commander-soldier leadership and early Warring States chronology.
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]] adds a more complicated family-politics scene through [[ZizhiTongjianBu|《资治通鉴补》]]. In this source, Wei Wenhou has sent the future [[WeiWuhou|魏武侯]] to [[ZhongshanState|中山国]], but [[ZhaoCangtang|赵苍唐]] uses gifts, title correction, and [[Shijing|《诗经》]] allusions to get Wei Wenhou to recognize the son's status and summon him back. Wei Wenhou's response is itself coded through clothing and timing, making him part of the source's [[PoetryAsElitePoliticalLanguage|poetic political language]] case.
+
 [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] supplies that later succession notice: Wei Wenhou dies in 397 BCE and his son [[WeiWuhou|魏武侯]] succeeds him.
 
 ## Connections
@@ -35,4 +37,5 @@ The same source also has Wei Wenhou consult Li Ke on whether to use Wu Qi. Li Ke
 - [[HanState|韩国]] and [[ZhaoState|赵国]] - states whose mirrored requests become the source's diplomacy case.
 - [[WuQi|吴起]] - military figure whose command is central to the episode.
 - [[WeiWuhou|魏武侯]] - successor in the Zhouji 07 part 2 source.
+- [[ZhaoCangtang|赵苍唐]], [[ZhongshanState|中山国]], [[Shijing|《诗经》]], and [[PoetryAsElitePoliticalLanguage]] - Zhouji 10 part 4 succession-recovery supplement.
 - [[WarringStatesPeriod|战国时期]] - historical setting.

@@ -33,6 +33,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（1）](sources/zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga.md) — 芮淇讲透资治通鉴 episode on Shang Yang's first Qin reform push, the Gan Long debate over custom and change, 什伍连坐, agricultural incentives, military-merit rank, 徙木立信, and the crown prince's lawbreaking cliffhanger.
 - [《资治通鉴·周纪》11丨 世界风起云涌（1）](sources/zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5.md) — 芮淇讲透资治通鉴 episode opening Zhouji 11 under Zhou Xian Wang, with Qi/Zhao/Wei opportunistic war, Wei-Han coordination against Qin, Qin Xian Gong's Shimen victory, and Zhou ritual recognition through 黻服.
 - [《资治通鉴·周纪》05｜光彩夺目的魏文侯（1）](sources/zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl.md) — 芮淇讲透资治通鉴 episode on Wei Wenhou's respect for scholars, promise-keeping, symmetric diplomacy with Han and Zhao, and Sima Guang's "small trust builds large trust" statecraft lesson.
+- [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（4）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p.md) — 芮淇讲透资治通鉴 episode on Wei Wuhou's restoration from Zhongshan, Zhao Cangtang's etiquette and Shijing-coded persuasion, the Zizhi Tongjian Bu supplement, and the political value of elite poetic literacy.
 - [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（3）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf.md) — 芮淇讲透资治通鉴 episode on Wei Ying and Gongzhong Huan's succession war, Han-Zhao intervention at Zhuoze, the failed partition-vs-puppet settlement, and Wei Ying's rise as Liang Hui Wang.
 - [《资治通鉴·周纪》04｜豫让 为智瑶复仇](sources/zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik.md) — 芮淇讲透资治通鉴 episode on Zhi Yao's talent-without-virtue failure, Yu Rang's revenge and retainer honor, Zhao Xiangzi's conquest and succession decisions, and Zhou Weilie Wang's formal recognition of Han, Zhao, and Wei.
 - [《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（2）](sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi.md) — 芮淇讲透资治通鉴 episode on Han court assassination, Wei succession disorder, Qi Wei Wang's contested chronology and official audits, and Chu/Song succession notices under Zhou Lie Wang.
@@ -1168,12 +1169,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [韩廆 / Han Gui](entities/HanGui.md) — Han chancellor targeted by Yan Sui's hired assassin in the Zhouji 10 part 2 Han court-killing variant.
 - [韩懿侯 / Marquis Yi of Han](entities/HanYihou.md) — Han Aihou's son and successor after the Han Gui/Yan Sui assassination crisis.
 - [公中缓 / Gongzhong Huan](entities/GongzhongHuan.md) — Rival claimant against Wei Ying after Wei Wuhou dies without a clear successor.
+- [赵苍唐 / Zhao Cangtang](entities/ZhaoCangtang.md) — Retainer whose gifts, etiquette, and Shijing allusions help the future Wei Wuhou return from Zhongshan.
 - [齐威王 / King Wei of Qi](entities/QiWeiwang.md) — Qi ruler whose branch runs from contested chronology and official audits to Sun Bin's rescue strategies and Tian Ji's post-Maling accusation crisis.
 - [即墨大夫 / Jimo Dafu](entities/JimoDafu.md) — Qi local official with bad court gossip but strong local performance in Qi Wei Wang's secret audit.
 - [阿邑大夫 / Ayi Dafu](entities/AyiDafu.md) — Qi local official with good court reputation but poor local performance in Qi Wei Wang's secret audit.
 - [楚宣王 / King Xuan of Chu](entities/ChuXuanwang.md) — Xiong Liangfu, brother and successor of Chu Su Wang in the Zhou Lie Wang sixth-year notice.
 - [宋剔成 / Song Ticheng](entities/SongTicheng.md) — Song Pi Gong's son and successor in the Zhou Lie Wang sixth-year notice.
 - [《史记》 / Shiji](entities/Shiji.md) — Classical history used across the Zhouji branch for supplementary biography, source contrast, Su Qin's homecoming, and the contested Hangu Pass fifteen-year claim.
+- [《资治通鉴补》 / Zizhi Tongjian Bu](entities/ZizhiTongjianBu.md) — Ming supplement used by Zhouji 10 part 4 to preserve the Zhao Cangtang and Wei Wuhou restoration story omitted from the base chronicle.
 - [韩康子 / Han Kangzi](entities/HanKangzi.md) — Early Han lineage point from which Zhouji 10 begins Han's long strategy against Zheng.
 - [韩武子 / Han Wuzi](entities/HanWuzi.md) — Han ruler who attacks Zheng and moves the capital toward it in Zhouji 10's generational-strategy sequence.
 - [赵成侯 / Marquis Cheng of Zhao](entities/ZhaoChenghou.md) — Zhao Zhong, successor to Zhao Jinghou in Zhou Lie Wang's first-year notice.
@@ -1220,7 +1223,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [严仲子 / Yan Zhongzi](entities/YanZhongzi.md) — Puyang feud-holder who recruits Nie Zheng to kill Xia Lei.
 - [侠累 / Xia Lei](entities/XiaLei.md) — Han chancellor killed by Nie Zheng, with a Zhanguo Ce variant linking the event to Han Aihou.
 - [韩哀侯 / Marquis Ai of Han](entities/HanAihou.md) — Han Wenhou's successor in Zhouji 09, also preserved in the earlier Zhanguo Ce variant of the Nie Zheng assassination story.
-- [魏武侯 / Marquis Wu of Wei](entities/WeiWuhou.md) — Wei Wenhou's son and successor whose early reign frames Wu Qi's West River warning and chancellor-transition politics.
+- [魏武侯 / Marquis Wu of Wei](entities/WeiWuhou.md) — Wei Wenhou's son and successor, later supplemented by a Zhongshan restoration story involving Zhao Cangtang and Shijing-coded persuasion.
 - [郑繻公 / Duke Xu of Zheng](entities/ZhengXugong.md) — Zheng ruler killed by Ziyang's remaining faction before Zheng Kang Gong's installation.
 - [宋国 / Song State](entities/SongState.md) — Pre-Qin state presented as a Shang-remnant polity preserved under Zhou ritual order.
 - [宋悼公 / Duke Dao of Song](entities/SongDaogong.md) — Song ruler whose death leads to Song Xiugong's accession in the source.
@@ -1228,7 +1231,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [微子启 / Weizi Qi](entities/WeiziQi.md) — Shang royal-lineage figure through whom the episode explains Song's special status.
 - [孔父嘉 / Kongfu Jia](entities/KongfuJia.md) — Song noble ancestor used to connect Confucius's genealogy to Weizi Qi.
 - [《战国策》 / Zhanguo Ce](entities/Zhanguoce.md) — Pre-Qin text cited for source variants, Su Qin's text/version branch, and the detailed family-humiliation setup behind 前倨后恭.
-- [《诗经》 / Shijing](entities/Shijing.md) — Classic cited through "日有蚀之" to ground eclipse political responsibility.
+- [《诗经》 / Shijing](entities/Shijing.md) — Classic cited for omen politics, court correction, and the Wei Wuhou restoration story's elite poetic communication.
 - [鲁国 / Lu State](entities/LuState.md) — State attacked by Qi in the source's 394 BCE notice.
 - [负黍 / Fushu](entities/FushuCity.md) — City whose repeated transfer among Han, Zheng, and Chu illustrates territorial churn.
 - [扁鹊 / Bian Que](entities/BianQue.md) — Physician whose warning to Tian-family Qi Huan Gong is used by Zhouji 08 part 3 as a ruler-judgment caution about rejecting expertise.
@@ -7114,6 +7117,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Talent Referral Quality / 荐才层级质量](concepts/TalentReferralQuality.md) — Chancellor-selection lesson that the level and effect of referred talent matter more than referral count alone.
 - [Qi Wei Wang Chronology Dispute / 齐威王编年争议](concepts/QiChronologyDispute.md) — Source-critical case arguing Qi Wei Wang's received annalistic placement is probably too early.
 - [Allusive Remonstrance / 隐语进谏](concepts/AllusiveRemonstrance.md) — Indirect criticism pattern in which Chunyu Kun uses a silent-bird riddle to reach Qi Wei Wang.
+- [Poetry As Elite Political Language / 诗经作为贵族政治语言](concepts/PoetryAsElitePoliticalLanguage.md) — Pre-Qin elite communication pattern where Shijing fluency lets sensitive political messages move through shared poetic code.
 - [Qi Wei Wang Political Turnaround / 齐威王一鸣惊人式转向](concepts/QiWeiwangPoliticalTurnaround.md) — Governance pattern linking the "一鸣惊人" answer to audits, military recovery, and possible strategic feigning.
 - [Wei Great Wall Anti-Qin Defense / 魏长城防秦](concepts/WeiGreatWallAntiQinDefense.md) — Wei's defensive-wall response to visible Qin pressure in the 358 BCE West Mountain context.
 - [Warring States Marriage Diplomacy / 战国联姻外交](concepts/WarringStatesMarriageDiplomacy.md) — Ruling-house marriage as interstate diplomacy whose alliance value remains limited by state interests.

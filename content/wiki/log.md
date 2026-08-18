@@ -8167,6 +8167,10 @@ Added source page for a 芮淇讲透资治通鉴 episode opening Zhouji 11 and Z
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-19] ingest | 《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（4）
+
+Added source page for a 芮淇讲透资治通鉴 episode on the future Wei Wuhou's restoration from Zhongshan through Zhao Cangtang's gifts, status etiquette, and Shijing-coded persuasion. Created pages for Zhao Cangtang, Zizhi Tongjian Bu, and Poetry As Elite Political Language; updated overview, index, Wei Wuhou, Wei Wenhou, Zhongshan State, Wei Zhi, Shijing, Confucius, Sima Guang, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Power Etiquette Reading, and Allusive Remonstrance. No direct contradiction found; the source is kept as a Zizhi Tongjian Bu supplement to the sparse base chronicle accession notice, with transcript spellings around Wei Wuhou and Wei Zhi flagged as source-scoped.
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》08丨一代名将吴起惨死（3）
 
 Added source page for a 芮淇讲透资治通鉴 episode completing the Wu Qi death arc and covering Qin Xian Gong's coup, Tian-family Qi succession disorder, Jixia Academy, Bian Que's warning story, sparse Wei-Zhao/Han-Zheng/Qi-Lu/Song conflict notices, solar-eclipse omen skepticism, and Chu Su Wang's punishment of nobles after Wu Qi is killed against Chu Dao Wang's corpse. Created pages for Qin Ling Gong, Tian Yan, Gongzi Xi, and Bian Que; updated overview, index, Wu Qi, Qin/Qi/Chu/Zhou An Wang state and ruler pages, Jixia/Linzi, Tian-family Qi pages, omen/source-gap/chronology-drift concepts, Early Warring States Interstate War, Warring States Reform Backlash, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, and variant-source pages for Lushi Chunqiu, Han Fei, Mozi, and Huainanzi. No direct contradiction found; the Tian-family succession issue is recorded as chronology/naming drift rather than silently reconciling earlier Tian Qi pages.
@@ -8347,6 +8351,10 @@ Ran health before lint; health scanned 11,782 pages and found no empty/stub file
 ## [2026-08-19] ingest | 《资治通鉴·周纪》37丨苏秦：六国集团CEO的不堪情史
 
 Added source page for a 芮淇讲透资治通鉴 episode on 324-323 BCE: Zhang Yi attacks Wei and takes Shancheng while returning the people, Su Qin turns a Yan scandal into a staged move to Qi and induced palace/garden extravagance against Qi, Zhao Wuling Wang refuses royal title on name-reality grounds, Zhang Yi meets Qi and Chu ministers at Nie Sang, and Gongsun Yan leaves Qin for Wei to begin the episode's "real" hezong organizing. Created pages for Shancheng, Nie Sang, Strategic Luxury Sabotage, and Title-Reality Restraint; updated overview, index, Su Qin, Zhang Yi, Gongsun Yan, Yan Yi Wang, Qi Xuan Wang, Zhao Wuling Wang, Qin/Wei/Qi/Yan state pages, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Zhou Xian Wang, Hezong Alliance, Lianheng Strategy, Zonghengjia Diplomacy, Status Order Backlash, Qi Chronology Dispute, and Chronicle Chronology Drift. Flagged one chronology contradiction: the episode uses a 324 BCE Qi Xuan Wang frame, while the existing wiki records the correction that Qi Xuan Wang's first year should be 319 BCE.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-19] lint | Wiki health check
 

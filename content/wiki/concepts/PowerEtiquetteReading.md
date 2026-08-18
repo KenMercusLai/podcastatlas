@@ -2,7 +2,7 @@
 title: "Power Etiquette Reading / 权力礼仪细读"
 type: concept
 tags: [power, rhetoric, history, reading]
-sources: [zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
+sources: [zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
 last_updated: 2026-08-19
 ---
 
@@ -16,14 +16,18 @@ The concept also names why apparently brave or rude speech can succeed. [[FanKua
 
 The episode's point is that rebuke has a protocol. The host reads this as elite conversational etiquette: even useful correction can become rude or dangerous if it arrives as unsolicited superiority. Zhao Liang's opening therefore lets the source move from ritualized permission into a severe diagnosis of [[PowerExitTrap|权力退场困境]].
 
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]] adds an heir-status case through [[ZhaoCangtang|赵苍唐]]. Before poetry carries the emotional message, Zhao Cangtang forces the social form to be correct: [[WeiWenhou|魏文侯]] must treat the future [[WeiWuhou|魏武侯]] as lord of [[ZhongshanState|中山国]], and status comparison must follow rank. In this source, etiquette does not decorate persuasion; it establishes the political identity that makes the later [[Shijing|《诗经》]] allusion work.
+
 ## Key Claims
 - Etiquette can be political data when direct statements are too dangerous or too staged.
 - Status recognition can move a powerful person more effectively than correct strategic warning.
 - Reading power scenes requires both textual detail and human psychology.
 - The permission to criticize can itself be part of a political scene, especially when the listener has lethal power.
+- Ritual address and rank boundaries can establish a claimant's political identity before any substantive argument is made.
 
 ## Connections
 - [[HongmenYan|《鸿门宴》]], [[XiangYu|项羽]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], [[FanZeng|范增]], and [[FanKuai|樊哙]] - source field.
 - [[ZhaoLiang|赵良]], [[ShangYang|公孙鞅 / 商鞅]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Zhouji 25 remonstrance and warning branch.
+- [[ZhaoCangtang|赵苍唐]], [[WeiWenhou|魏文侯]], [[WeiWuhou|魏武侯]], [[ZhongshanState|中山国]], and [[PoetryAsElitePoliticalLanguage]] - Zhouji 10 part 4 status-and-poetry branch.
 - [[MoralFaceUnderPowerCompetition]] and [[MachiavellianRealism]] - adjacent power-judgment frames.
 - [[ClassicalProseReading]] and [[HistoricalDetectiveReasoning]] - reading methods it extends.

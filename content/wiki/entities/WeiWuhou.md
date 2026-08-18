@@ -2,8 +2,8 @@
 title: "魏武侯 / Marquis Wu of Wei"
 type: entity
 tags: [person, ruler, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
-last_updated: 2026-08-18
+sources: [zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
+last_updated: 2026-08-19
 ---
 
 # 魏武侯 / Marquis Wu of Wei
@@ -11,6 +11,8 @@ last_updated: 2026-08-18
 魏武侯 / Marquis Wu of Wei appears in [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] as [[WeiWenhou|魏文侯]]'s son and successor. The episode treats his accession as the third major notice in 397 BCE, after the solar eclipse and the [[NieZheng|聂政]] assassination.
 
 His page is source-scoped. It anchors the transition of [[WeiState|魏国]] from the Wenhou generation into a new ruler's reign, without attempting a full biography.
+
+[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]] adds a retrospective succession-recovery story from [[ZizhiTongjianBu|《资治通鉴补》]]. The episode says the future Wei Wuhou was sent by [[WeiWenhou|魏文侯]] to detached [[ZhongshanState|中山国]], a move the host reads as possible displacement from the heir track. [[ZhaoCangtang|赵苍唐]] then uses gifts, title etiquette, and [[Shijing|《诗经》]] allusions to get Wei Wenhou to summon him back and restore him as heir. The source transcript uses forms such as 魏姬, so this page keeps the identification with Wei Wuhou source-scoped.
 
 [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-1-lq5r3xe-3y7al9nkbc8kyhntipll]] develops that reign through two court scenes. On the West River, Wei Wuhou praises natural barriers, and [[WuQi|吴起]] warns him through [[VirtueOverNaturalBarriers]] that the state's true security depends on virtue and internal political order. In the chancellor sequence, Wei Wuhou's recent accession creates the unstable context in which [[TianWenWeiChancellor|田文]] is judged more fitting than Wu Qi.
 
@@ -27,6 +29,7 @@ The same source also makes Wei Wuhou vulnerable to court manipulation. [[Gongshu
 ## Connections
 - [[WeiState|魏国]] - polity he rules.
 - [[WeiWenhou|魏文侯]] - predecessor and father in the source.
+- [[ZhaoCangtang|赵苍唐]], [[ZhongshanState|中山国]], [[Shijing|《诗经》]], [[PoetryAsElitePoliticalLanguage]], and [[PowerEtiquetteReading]] - Zhouji 10 part 4 restoration branch.
 - [[ZhouAnWang|周安王]] - annalistic reign frame.
 - [[WarringStatesPeriod|战国时期]] - period setting.
 - [[WuQi|吴起]], [[TianWenWeiChancellor|田文]], [[GongshuWeiChancellor|公叔]], [[VirtueOverNaturalBarriers]], and [[TransitionFitOverMerit]] - early-reign court-politics branch.

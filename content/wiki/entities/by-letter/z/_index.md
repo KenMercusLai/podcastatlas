@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 6016
+wiki_total_pages: 6018
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "ZizhiTongjian"
     title: "《资治通鉴》 / Zizhi Tongjian"
     url: "/wiki/entities/zizhitongjian/"
+  - key: "ZizhiTongjianBu"
+    title: "《资治通鉴补》 / Zizhi Tongjian Bu"
+    url: "/wiki/entities/zizhitongjianbu/"
   - key: "ZhongshanState"
     title: "中山国 / Zhongshan State"
     url: "/wiki/entities/zhongshanstate/"
@@ -542,6 +545,9 @@ wiki_pages:
   - key: "ZhaoLiang"
     title: "赵良 / Zhao Liang"
     url: "/wiki/entities/zhaoliang/"
+  - key: "ZhaoCangtang"
+    title: "赵苍唐 / Zhao Cangtang"
+    url: "/wiki/entities/zhaocangtang/"
   - key: "ZhaoFan"
     title: "赵范 / Zhao Fan"
     url: "/wiki/entities/zhaofan/"
