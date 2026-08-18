@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 6018
+wiki_total_pages: 6022
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -689,6 +689,9 @@ wiki_pages:
   - key: "PingAnGoodDoctor"
     title: "平安好医生"
     url: "/wiki/entities/pingangooddoctor/"
+  - key: "PingzhouWarringStates"
+    title: "平州 / Pingzhou (Warring States)"
+    url: "/wiki/entities/pingzhouwarringstates/"
   - key: "PangChunmei"
     title: "庞春梅 / Pang Chunmei"
     url: "/wiki/entities/pangchunmei/"

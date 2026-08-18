@@ -2,7 +2,7 @@
 title: "纵横家外交 / Zonghengjia Diplomacy"
 type: concept
 tags: [diplomacy, rhetoric, strategy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
+sources: [zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
 last_updated: 2026-08-19
 ---
 
@@ -26,6 +26,8 @@ The same episode begins the Su Qin / Zhang Yi pairing. Su Qin and Zhang Yi are p
 
 [[zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo]] adds the covert and multi-court sequel. [[SuQin|苏秦]] turns a scandal in [[YanState|燕国]] into entry into [[QiState|齐国]], where his advice to enlarge palaces and gardens becomes [[StrategicLuxurySabotage|奢侈诱导式削弱]]. Meanwhile [[ZhangYiStrategist|张仪]] takes [[ShanchengWarringStates|陕城]], meets Qi and Chu ministers at [[Niesang|啮桑]], and then moves to [[WeiState|魏国]], just as [[GongsunYan|犀首公孙衍]] begins the episode's "real" [[HezongAlliance|合纵]] organizing.
 
+[[zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]] adds a disclosure and career-mobility version of the same diplomatic field. [[ZhangYiStrategist|张仪]] uses his hated personal reputation to draw [[QiState|齐国]] toward war with [[WeiState|魏国]], then uses [[FengXiWarringStates|冯喜]] to disclose the plan so Qi withdraws. The episode also argues that Zhang Yi and [[GongsunYan|犀首公孙衍]] must be read as mobile Warring States professionals, making [[WarringStatesCareeristMobility|乱世职业经理人式流动]] part of zonghengjia diplomacy rather than a modern analogy outside the source.
+
 ## Key Claims
 - Diplomatic rhetoric becomes a direct instrument of power in the Warring States field.
 - Persuasion is situational craft: the same speaker can fail or succeed depending on court mood, local reputation, and whether the argument fits the ruler's fear.
@@ -38,6 +40,7 @@ The same episode begins the Su Qin / Zhang Yi pairing. Su Qin and Zhang Yi are p
 - The social afterlife of zonghengjia success matters: Zhouji 33 shows diplomatic achievement being converted into household submission, idioms, and contested claims about Qin restraint.
 - Zhouji 34 adds the Qin-side version: alliance disruption and bilateral concession pressure can be as important as the public coalition speeches.
 - Zhouji 37 adds the covert version: private scandal, false flight, target-state luxury advice, meeting diplomacy, and strategist job mobility all function as interstate instruments.
+- Zhouji 38 adds the disclosed-plot version: reputation, staged mobility, messenger control, and public revelation can be instruments of interstate strategy.
 
 ## Connections
 - [[SuQin|苏秦]] and [[ZhangYiStrategist|张仪]] - figures previewed by the source.
@@ -47,5 +50,6 @@ The same episode begins the Su Qin / Zhang Yi pairing. Su Qin and Zhang Yi are p
 - [[QianjuHougongReversal|前倨后恭]] and [[HanguPass|函谷关]] - Zhouji 33 homecoming reception and source-critical efficacy marker.
 - [[StatusOrderBacklash|名分秩序反弹]] and [[XuzhouMutualKingship|徐州相王]] - immediate diplomatic-status context before the narrative shift.
 - [[StrategicLuxurySabotage|奢侈诱导式削弱]], [[TitleRealityRestraint|名实相符式名号节制]], [[ShanchengWarringStates|陕城]], and [[Niesang|啮桑]] - Zhouji 37 covert persuasion, title restraint, territorial pressure, and meeting diplomacy.
+- [[QinWuwang|秦武王]], [[QiMinWang|齐湣王]], [[FengXiWarringStates|冯喜]], [[YinmouYangmouConversion|阴谋阳谋转换]], and [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - Zhouji 38 disclosed-plot and career-mobility extension.
 - [[ChronicleChronologyDrift|编年错位]] - caution around the chronicle's dating of Su Qin's success.
 - [[ZizhiTongjian|《资治通鉴》]], [[ZhouXianwang|周显王]], and [[WarringStatesPeriod|战国时期]] - source and historical frame.

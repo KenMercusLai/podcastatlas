@@ -14383,6 +14383,10 @@
     "title": "疯投圈",
     "url": "/wiki/entities/fengtouquan/"
   },
+  "FengXiWarringStates": {
+    "title": "冯喜 / Feng Xi (Warring States)",
+    "url": "/wiki/entities/fengxiwarringstates/"
+  },
   "FengYuxiang": {
     "title": "Feng Yuxiang / 冯玉祥",
     "url": "/wiki/entities/fengyuxiang/"
@@ -30179,6 +30183,10 @@
     "title": "Pingyao Ancient City / 平遥古城",
     "url": "/wiki/entities/pingyaoancientcity/"
   },
+  "PingzhouWarringStates": {
+    "title": "平州 / Pingzhou (Warring States)",
+    "url": "/wiki/entities/pingzhouwarringstates/"
+  },
   "Pininfarina": {
     "title": "Pininfarina",
     "url": "/wiki/entities/pininfarina/"
@@ -31691,6 +31699,10 @@
     "title": "齐康公 / Duke Kang of Qi",
     "url": "/wiki/entities/qikanggong/"
   },
+  "QiMinWang": {
+    "title": "齐湣王 / King Min of Qi",
+    "url": "/wiki/entities/qiminwang/"
+  },
   "QiSi": {
     "title": "《起死》",
     "url": "/wiki/entities/qisi/"
@@ -31822,6 +31834,10 @@
   "QinWengong": {
     "title": "秦文公 / Duke Wen of Qin",
     "url": "/wiki/entities/qinwengong/"
+  },
+  "QinWuwang": {
+    "title": "秦武王 / King Wu of Qin",
+    "url": "/wiki/entities/qinwuwang/"
   },
   "QinXianGong": {
     "title": "秦献公 / Duke Xian of Qin",
@@ -41131,6 +41147,10 @@
     "title": "Warren Buffett",
     "url": "/wiki/entities/warrenbuffett/"
   },
+  "WarringStatesCareeristMobility": {
+    "title": "Warring States Careerist Mobility / 乱世职业经理人式流动",
+    "url": "/wiki/concepts/warringstatescareeristmobility/"
+  },
   "WarringStatesMarriageDiplomacy": {
     "title": "Warring States Marriage Diplomacy / 战国联姻外交",
     "url": "/wiki/concepts/warringstatesmarriagediplomacy/"
@@ -42970,6 +42990,10 @@
   "Yinjin": {
     "title": "殷晋 / Yinjin",
     "url": "/wiki/entities/yinjin/"
+  },
+  "YinmouYangmouConversion": {
+    "title": "阴谋阳谋转换 / Yinmou-Yangmou Conversion",
+    "url": "/wiki/concepts/yinmouyangmouconversion/"
   },
   "Yinxu": {
     "title": "殷墟",
@@ -47162,5 +47186,9 @@
   "zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo": {
     "title": "《资治通鉴·周纪》37丨苏秦：六国集团CEO的不堪情史",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-37-suqin-liuguo-jituan-ceo-de-bukan-qingshi-fj2kdqlaxzyy2nqtcutktuwrq5fo/"
+  },
+  "zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn": {
+    "title": "《资治通鉴·周纪》38丨搞兼职的张仪不一般",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn/"
   }
 }

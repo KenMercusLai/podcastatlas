@@ -8359,3 +8359,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-19] ingest | 《资治通鉴·周纪》38丨搞兼职的张仪不一般
+
+Added source page for a 芮淇讲透资治通鉴 episode on Zhang Yi's move from Qin to Wei, the Zhanguo Ce supplement involving Qin Wuwang and Qi Min Wang, the Qi-Wei provocation and Feng Xi disclosure mission, Qin's attack on Quwo and Pingzhou, Gongsun Yan's reconciliation with Zhang Yi, and the episode's "Warring States careerist mobility" frame. Created pages for Qin Wuwang, Qi Min Wang, Feng Xi, Pingzhou, Yinmou-Yangmou Conversion, and Warring States Careerist Mobility; updated overview, index, Zhang Yi, Gongsun Yan, Liang Hui Wang, Qin/Wei/Qi state pages, Quwo, Zhou Xian Wang, Ruiqi Jiangtou Zizhi Tongjian, Zizhi Tongjian, Lianheng Strategy, Zonghengjia Diplomacy, Qin Eastward Pressure, and Chronicle Chronology Drift. Flagged a source-layer chronology tension: the 322 BCE frame is supplemented with Qin Wuwang/Qi Min Wang material that should remain marked as Chronicle Chronology Drift rather than silently merged into one settled timeline.
