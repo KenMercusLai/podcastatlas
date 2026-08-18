@@ -8,6 +8,8 @@ last_updated: 2026-08-18
 
 # Waymo
 
+[[all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010]] adds [[BillMaris|Bill Maris]]'s origin-side connection: he says he helped incubate Waymo while at [[Google]], alongside [[GoogleX|Google X]] and [[Calico]]. This does not add a new robotaxi deployment claim, but it links Waymo to the source's broader pattern of spotting non-obvious futures early and building institutional support around them.
+
 [[all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435]] adds [[NikeshArora|Nikesh Arora]]'s operator view that Waymo "works" and should expand into many more cities faster. The source does not settle [[RobotaxiEconomics]] or [[RobotaxiLocalAcceptance]], but it reinforces the wiki's existing deployment-momentum branch by making Waymo part of Arora's broader bullish [[Google]] thesis.
 
 [[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds Waymo to a live [[CES]] 2026 self-driving wave. The source names Waymo alongside [[Tesla]], [[Zoox]], [[Baidu]], [[WeRide]], and [[PonyAI|Pony.ai]] as evidence that physical AI is moving from software demo toward city-scale autonomous-driving deployment and manufacturing competition.
@@ -32,6 +34,7 @@ Waymo is the autonomous-driving company discussed in [[132-dui-xinghaitu-chuangs
 - The Intelligence source treats Waymo's U.S. focus as a possible standards disadvantage if Chinese robotaxi firms deploy earlier in foreign markets.
 
 ## Connections
+- [[BillMaris|Bill Maris]], [[GoogleVentures|Google Ventures]], [[GoogleX|Google X]], and [[Calico]] - Maris interview branch around Google incubation and non-obvious futures.
 - [[GaoJiyang]] — engineer trained at Waymo before returning to China.
 - [[Momenta]] — contrasting autonomous-driving company in the episode.
 - [[Xinghaitu]] — later robotics startup influenced by lessons from Waymo and Momenta.

@@ -8,6 +8,8 @@ last_updated: 2026-08-18
 
 # Paper Wealth Vs Cash Value
 
+[[all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010]] adds the retirement-risk version through [[BillMaris|Bill Maris]]. Maris warns that long-private companies can let insiders capture much of the growth curve, then eventually leave public buyers or [[401KPlan|401(k) plan]] holders exposed to high valuations after IPO or index inclusion.
+
 Paper wealth versus cash value is the distinction between headline asset value and money that can actually be realized without destroying the price, violating lockups, triggering disclosure, or damaging the story that supports the valuation. [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]] applies this distinction to DJT stock, family crypto tokens, stablecoin-linked equity, foreign gifts, and settlement structures around [[DonaldTrump]].
 
 [[e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]] adds the ordinary-investor version through the phrase "赚到比赚过重要." In a hot A-share market, a portfolio high-water mark can feel like owned wealth even before it is realized, which makes subsequent drawdown psychologically painful and can delay sensible exits.
@@ -30,6 +32,7 @@ Paper wealth versus cash value is the distinction between headline asset value a
 - Concentrated founder equity can become strategic collateral, allowing the owner to support family vehicles, guarantees, or acquisitions without simply selling down the position.
 - Employee equity is especially exposed to paper-cash divergence when the company stays private, delays listing, changes grant terms, or disputes the entity behind the promise.
 - Secondary markets can narrow the paper-cash gap, but realized value still depends on transfer permission, buyer demand, fees, taxes, and whether the secondary price survives broader market repricing.
+- Maris's All-In source adds a buyer-side mirror: insiders may turn paper wealth into realized exits before ordinary retirement savers receive late public-market exposure.
 
 ## Connections
 - [[PoliticalMemeStock]] — DJT-specific case where market value and realizable value diverge.
@@ -40,3 +43,4 @@ Paper wealth versus cash value is the distinction between headline asset value a
 - [[LarryEllison]], [[Oracle]], [[DavidEllison]], [[Skydance]], and [[FounderControl]] - founder-collateral branch added by 商业就是这样.
 - [[EmployeeStockOptions]], [[RestrictedStockUnits]], [[EmployeeStockOptionLiquidityRisk]], and [[HongKongIPOLiquidityPath]] - employee-compensation liquidity branch added by Keji Luandun.
 - [[PrivateCompanySecondaries]], [[RetailPrivateMarketAccess]], and [[VentureDPILiquidityPressure]] - secondaries branch added by All-In.
+- [[PublicBenefitPrivateValueCapture]], [[IndexFundAutomaticExposure]], and [[401KPlan|401(k) plan]] - Maris interview branch around late public exposure after private value capture.

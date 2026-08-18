@@ -8,6 +8,8 @@ last_updated: 2026-08-18
 
 # Google
 
+[[all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010]] adds [[BillMaris|Bill Maris]]'s insider-investor view of Google's AI leverage. Maris connects his earlier work around [[GoogleVentures|Google Ventures]], [[GoogleX|Google X]], [[Waymo]], and [[Calico]] to a current strategic claim: if [[Google]] cut [[Gemini]] token prices sharply, [[GoogleAITokenPriceLeverage]] could pressure [[OpenAI]] and [[Anthropic]] because Google combines models, infrastructure, distribution, and capital.
+
 [[all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435]] adds [[NikeshArora|Nikesh Arora]]'s strongly positive "armchair CEO" reading of Google. Arora argues that Google could become a $10 trillion company because it has model assets, distribution, infrastructure, and a large enterprise sales force, while also saying [[Waymo]] works and should expand faster. This complements earlier Google pages that emphasize technical depth and full-stack assets while preserving concerns about product fragmentation and organizational execution.
 
 [[e247-duihua-shengying-xai-infra-de-langman-sglang-kaiyuan-pingquan-yu-zhenhuanchuan-6c9d13b1-ac9a-4a7a-a35b-99bfb8374668]] adds Google as the AI-for-code transition point in [[ShengYing|盛颖]]'s path. The source says exposure to PaLM/LaMDA-era internal model work made large models feel powerful before ChatGPT's public shock, and that traditional program-analysis techniques felt weak against AI coding, pushing her toward [[SGLang]] and [[AIInfrastructureAsProduct]].
@@ -129,6 +131,7 @@ Google is the company context for [[Gemini]], [[GeminiCLI]], and [[GoogleDeepMin
 - The 42章经 mid-2026 recap treats Google as a model-race overreaction case: market stories keep flipping, while its full-stack assets still matter.
 
 ## Connections
+- [[BillMaris|Bill Maris]], [[GoogleVentures|Google Ventures]], [[GoogleX|Google X]], [[Calico]], [[GoogleAITokenPriceLeverage]], and [[AIAtariStage]] - Maris interview branch around Google's venture history and AI pricing leverage.
 - [[AIApplicationMarketTrough]], [[QuKai]], [[OpenAI]], [[Anthropic]], and [[ModelProviderToolCompetition]] — 42章经 model/application-cycle comparison.
 - [[PageRankSearchRelevance]], [[AlgorithmicRelevanceAssessment]], [[AlgorithmicObjectivityPromise]], and [[PublicRelevanceAlgorithms]] - episode 159's search-ranking and media-power branch.
 - [[Scribd]], [[JaredFriedman]], [[PaulBuchheit]], [[SearchDrivenContentGrowth]], and [[YouTube]] - Scribd idea and search-distribution branch added by The Social Radars.

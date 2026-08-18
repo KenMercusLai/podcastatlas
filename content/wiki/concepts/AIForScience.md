@@ -8,6 +8,8 @@ last_updated: 2026-08-18
 
 # AI For Science
 
+[[all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010]] adds [[BillMaris|Bill Maris]]'s life-sciences version through [[Calico]], [[Section32|Section 32]], and [[ComputationalBiology]]. Maris argues that computation could matter enormously if realistic simulation of a human cell becomes possible, but the episode keeps AI-for-biology bounded by titration, safety, clinical testing, FDA processes, basic-research funding, and scientific talent flows.
+
 [[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds the U.S. government scientific-data version through [[MichaelKratsios|Michael Kratsios]] and the [[GenesisMission|Genesis Mission]]. The source says useful scientific data is fragmented across chemistry, math, materials science, and other formats, while [[USDepartmentOfEnergy|Department of Energy]] national labs hold decades of research that could support model training, simulation, and discovery.
 
 [[ep-8-implementation-of-ai-in-scientific-research]] adds a biomedical computational-biology version through [[LucasSimon|Lucas Simon]] at [[BaylorCollegeOfMedicine]]'s [[TherapeuticInnovationCenter]]. The source makes the representation and infrastructure layer explicit: [[Bioinformatics]], [[SequencingDataPipeline|sequencing pipelines]], [[GeneExpressionMatrix|gene expression matrices]], [[MolecularFeatureEngineering]], [[SingleCellRNASequencing]], and [[BiomedicalDeepLearning]] determine when deep learning can reveal biologically meaningful cell structure.
@@ -64,6 +66,7 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 - Data Science With Sam EP6 adds that AI-for-neuroscience claims need literature currency, replication, and careful capability boundaries before assistive or medical applications should be inferred.
 - The NASA episode adds that scientific AI also depends on event frequency and data shape: imagery-heavy space tasks can work earlier than one-off mission-event prediction.
 - The All-In source adds a public-data and national-lab route: scientific AI may accelerate faster when government-held experimental and simulation records become usable training and verification assets.
+- The Maris All-In source adds a venture and biology route: computation may accelerate life sciences, but the bottleneck stays in real human biology, clinical evidence, regulation, and scientific institution quality.
 
 ## Connections
 - [[ZhengkeFund]] — investment context in which the theme is discussed.
@@ -86,3 +89,4 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 - [[PaulinaNemkova]], [[EEGBrainReading]], [[LockedInSyndromeAssistiveCommunication]], [[ResearchReplicationIntegrity]], and [[AIResearchLiteratureCurrency]] - EP6 branch grounding AI-for-neuroscience in PhD practice and bounded claims.
 - [[KofiBrowning]], [[NASA]], [[SpaceflightAIDatasetScarcity]], [[SpaceImageryAI]], [[EVAGloveInspectionAI]], and [[AIModelBiasGovernance]] - NASA branch grounding space AI in data scarcity, computer vision, and human review.
 - [[MichaelKratsios|Michael Kratsios]], [[GenesisMission|Genesis Mission]], and [[USDepartmentOfEnergy|U.S. Department of Energy]] - government scientific-data branch added by All-In.
+- [[BillMaris|Bill Maris]], [[Calico]], [[Section32|Section 32]], [[ComputationalBiology]], and [[AIClinicalValidationInDrugDiscovery]] - Maris interview branch around computational biology and life-sciences validation.

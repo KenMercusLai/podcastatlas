@@ -8,6 +8,8 @@ last_updated: 2026-07-11
 
 # Coinbase
 
+[[all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010]] adds Coinbase as one of [[Section32|Section 32]]'s named investments. The source uses Coinbase as a portfolio example for [[BillMaris|Bill Maris]]'s [[VentureFundSizeDiscipline]] argument rather than as a new crypto-market or product-governance case.
+
 Coinbase is the crypto company founded by [[BrianArmstrong]] and discussed in [[socialradarspod-brianarmstrong-final]]. The source frames Coinbase as a [[YCombinator]] [[StartupHighBetaBet]]: risky enough to look implausible in 2012, but capable of becoming a public company if [[Bitcoin]] access could be made usable and trusted.
 
 The original Coinbase product was a hosted wallet, not primarily a trading exchange. Armstrong's failed Android full-node wallet and early user calls pushed the company toward a cloud wallet and then a buy button. That buy button created product-market fit because prospective users wanted the wallet but did not yet own Bitcoin.
@@ -17,6 +19,7 @@ Coinbase's wiki role is also regulatory. Bank-transfer support required conversa
 The episode extends Coinbase into governance and operational-risk themes. The 2020 company policy becomes a [[MissionFocusedCompany]] case, while payment fraud, account takeover, and chargeback math make [[EarlyFintechFraudControls]] core infrastructure rather than a back-office detail.
 
 ## Connections
+- [[Section32|Section 32]], [[BillMaris|Bill Maris]], and [[VentureFundSizeDiscipline]] - Maris interview branch where Coinbase is a portfolio example.
 - [[BrianArmstrong]], [[Bitcoin]], [[MtGox]], [[YCombinator]], [[GarryTan]], and [[PaulBuchheit]] - origin and founder-support context.
 - [[SiliconValleyBank]], [[SEC]], and [[GaryGensler]] - banking and regulatory context.
 - [[FTX]] and [[SamBankmanFried]] - industry-trust contrast in the source.

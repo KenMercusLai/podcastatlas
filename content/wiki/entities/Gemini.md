@@ -7,6 +7,8 @@ last_updated: 2026-08-07
 ---
 # Gemini
 
+[[all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010]] adds Gemini as the product Maris uses for [[GoogleAITokenPriceLeverage]]. The source's claim is not that Gemini is already dominant; it is that a basically comparable Gemini experience plus a sharp token-price cut could make [[Google]] a much harder competitor for [[OpenAI]] and [[Anthropic]].
+
 [[e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11]] adds Gemini through [[TonyContentEngineer|东尼 / Tony]]'s voice-agent experiment. The episode says generic [[ChatGPT]] and Gemini voice behavior felt too much like ordinary assistants for a podcast-host use case, while better results came from retrieving Tony's past podcast questions as examples. That makes Gemini part of the source's [[VoiceInteraction]], [[ContentEngineering]], and [[ContextEngineering]] branch.
 
 [[157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]] adds Gemini as an investment-structure sounding board. [[DavidWeng|大卫翁]] says he used Gemini to discuss several high-risk U.S. options structures, but keeps the example bounded by his own inexperience, a small maximum-loss budget, and the warning that [[OptionContractMechanics]] still require human responsibility.
@@ -44,6 +46,7 @@ Gemini appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as 
 [[e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]] adds the hardware feedback loop beneath Gemini. [[HenryTPUEngineer|Henry]] says recent Gemini training was essentially TPU-based and that faster, cheaper [[TPU]] training can shorten algorithm iteration cycles for [[GoogleDeepMind]], though model quality still depends on algorithmic work rather than silicon alone. The source also treats Gemini demand as a possible explanation for TPU ramp pressure when requests exceed available cards.
 
 ## Connections
+- [[GoogleAITokenPriceLeverage]], [[Google]], [[OpenAI]], [[Anthropic]], and [[AIInferenceCostStructure]] - Maris interview branch around token price and competitive compression.
 - [[TonyContentEngineer|东尼 / Tony]], [[VoiceInteraction]], [[ContentEngineering]], and [[ContextEngineering]] — E245's podcast-like voice-agent case.
 - [[OptionContractMechanics]], [[PortfolioSuitability]], and [[InvestmentRiskManagement]] - episode 157's AI-assisted but human-owned options-structure example.
 - [[HabitPositiveFeedback]], [[AutonomyUnderInformationFlow]], [[HumanAgencyUnderAI]], and [[AIUsePacing]] - episode 154's everyday self-reflection and AI-dependency branch.

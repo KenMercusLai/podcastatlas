@@ -8,6 +8,8 @@ last_updated: 2026-07-09
 
 # Index Fund Automatic Exposure
 
+[[all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010]] adds a broader retirement-account warning through [[BillMaris|Bill Maris]]. Maris argues that companies staying private deep into their growth curve can eventually push expensive exposure toward passive funds, ETFs, and [[401KPlan|401(k) plan]] holders who did not participate in the earlier private upside.
+
 Index fund automatic exposure is the risk pattern where a company's inclusion in major benchmarks forces passive funds, pensions, and retirement portfolios to buy it regardless of whether individual savers have evaluated the business. [[far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]] uses [[SpaceX]] as the case: once a very large post-IPO SpaceX enters major indices, ordinary investors could gain indirect exposure to [[ElonMusk]]'s vision through [[PassiveInvesting]].
 
 The concept does not make passive investing bad. It sharpens the wiki's existing warning that broad funds can still inherit concentration, valuation, and narrative risk when a giant company becomes a benchmark weight.
@@ -18,6 +20,7 @@ The concept does not make passive investing bad. It sharpens the wiki's existing
 - Automatic buying can be useful diversification when the company becomes a durable winner, but it can also transmit overvaluation into ordinary portfolios.
 - The issue is stronger when the company is very large, hard to value, not yet profitable, or tied to uncertain future businesses.
 - The remedy is not necessarily stock picking; it is awareness of index composition, concentration, and time horizon.
+- Maris's All-In source adds that the risk is especially uncomfortable when companies use public-benefit language while private insiders capture most of the early financial upside.
 
 ## Connections
 - [[SpaceX]] and [[ElonMusk]] - source case.
@@ -25,3 +28,4 @@ The concept does not make passive investing bad. It sharpens the wiki's existing
 - [[PassiveInvesting]] - portfolio implementation channel.
 - [[MegaCapConcentrationRisk]] - adjacent concentration risk inside broad indices.
 - [[InvestmentRiskManagement]] - sizing, diversification, and downside-tolerance frame.
+- [[PublicBenefitPrivateValueCapture]], [[401KPlan|401(k) plan]], [[AIIPOValuation]], and [[PaperWealthVsCashValue]] - Maris interview extension around retirement-account exposure after long private-company growth.

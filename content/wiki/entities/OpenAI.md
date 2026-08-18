@@ -8,6 +8,8 @@ last_updated: 2026-08-18
 
 # OpenAI
 
+[[all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010]] adds OpenAI as the model-company target of [[GoogleAITokenPriceLeverage]]. [[BillMaris|Bill Maris]] argues that if [[Google]] cut [[Gemini]] token prices sharply for a comparable product, OpenAI's business model could face severe compression because customers would compare task cost, not only model prestige.
+
 [[all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435]] adds OpenAI through [[NikeshArora|Nikesh Arora]]'s [[ApplicationProfitPoolCapture]] frame. Arora says raw models may become utility-like, but that [[OpenAI]] and [[Anthropic]] are already attacking application profit pools through coding tools and domain-specific products. The source's pressure point is go-to-market speed: enterprise customers pay for replaced software line items and solved workflows, not for model calls alone.
 
 [[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds OpenAI through [[SatyaNadella|Satya Nadella]]'s Microsoft-side account of the partnership and the model market. Nadella says Microsoft has IP and infrastructure leverage, but he shifts attention toward [[Azure]] as [[TokenFactoryAIInfrastructure]], [[MicrosoftFoundry|Microsoft Foundry]] as an orchestration layer, and a future where application builders combine many closed, open, and firm-specific models rather than standardizing on one frontier provider.
@@ -135,6 +137,7 @@ OpenAI appears in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-t
 [[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds OpenAI through [[Codex]], [[ChatGPT]], and a possible GPT Live-style convergence of chat, coding, and voice interaction. The hosts treat OpenAI as one of the companies making [[UnlimitedTokenWorkflow]] feel practical for everyday builders, while also connecting [[SamAltman]]'s belief-driven narrative to questions about how long-running agents, household AI, and abundant tokens shift work toward supervision and judgment.
 
 ## Connections
+- [[GoogleAITokenPriceLeverage]], [[Gemini]], [[Google]], [[Anthropic]], and [[AIInferenceCostStructure]] - Maris interview branch on token price cuts as competitive pressure.
 - [[MarkDataScienceWithSam]], [[ChatGPT]], [[DALLE|DALL-E]], [[AICreativeCollaboration]], [[AIProfessionalDataSecurity]], and [[AIAssistedLightCoding]] - Data Science With Sam EP17's everyday-user branch.
 - [[UnlimitedTokenWorkflow]], [[Codex]], [[ChatGPT]], [[VoiceInteraction]], and [[AgenticWorkflow]] — Vol. 171's OpenAI branch around abundant-token coding, chat, and live-agent convergence.
 - [[AIApplicationMarketTrough]], [[ModelProviderToolCompetition]], [[ClaudeCode]], [[Codex]], and [[GPTWork]] — 42章经 mid-2026 recap on OpenAI inside the model/application rotation.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bill Maris: How Google Could Crush AI Competitors, Why Small Funds Win, and AI's Atari Stage](sources/all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010.md) — All-In interview with Bill Maris on Google Ventures, Section 32, small-fund venture math, computer-science-driven investing, Google token-price leverage against AI rivals, AI's primitive Atari-stage interface, and computational biology constraints.
 - [Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company](sources/all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435.md) — All-In interview with Palo Alto Networks CEO Nikesh Arora on AI-enabled vulnerability discovery, analytical SaaS compression, infrastructure software revaluation, agent-managed systems of work, model-weight portability, false positives, Waymo, and Google's long-term position.
 - [Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries](sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170.md) — All-In liquidity-summit episode on private-company secondaries, employee liquidity, VC DPI pressure, Forge/Schwab access infrastructure, retail private-market risk, and late-stage AI/space valuation discipline.
 - [The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026](sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920.md) — All-In Davos CEO sequence on Circle/USDC stablecoins, CrowdStrike AI cyber defense, Archer eVTOL certification and defense aviation, and Crusoe energy-first AI infrastructure.
@@ -1000,6 +1001,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Bill Maris](entities/BillMaris.md) — Founding Google Ventures CEO and Section 32 founder whose All-In interview links computer-science-driven venture investing, small-fund discipline, Google AI pricing leverage, and computational biology.
+- [Google Ventures](entities/GoogleVentures.md) — Google venture fund Maris says he built with Rich Miner using machine learning, simulation, and portfolio-construction backtesting.
+- [Section 32](entities/Section32.md) — Bill Maris venture firm presented as a deliberately smaller fund platform investing across AI, deep technology, and life sciences.
+- [Rich Miner](entities/RichMiner.md) — Android co-founder and Maris's early Google Ventures partner in the All-In source's fund-building story.
+- [Google X](entities/GoogleX.md) — Google moonshot-incubation context in Maris's account of helping build projects such as Waymo and Calico.
+- [Calico](entities/Calico.md) — Google-linked life-sciences company Maris says he founded, used in the source to ground his computational-biology interest.
+- [Cohere](entities/Cohere.md) — AI company named as a Section 32 portfolio example in Maris's small-fund performance argument.
 - [Nikesh Arora](entities/NikeshArora.md) — Palo Alto Networks CEO in the All-In source, linking AI-enabled vulnerability discovery, analytical SaaS pressure, infrastructure software, Google, and enterprise AI transformation.
 - [Palo Alto Networks](entities/PaloAltoNetworks.md) — Cybersecurity company used by Nikesh Arora to ground Mythos testing, AI vulnerability discovery, security data expansion, and agent-era identity needs.
 - [Mythos AI Security Test](entities/MythosAISecurityTest.md) — Source-scoped Palo Alto Networks test of AI-assisted vulnerability discovery, kept separate from earlier Methos/Glasswing/Glassfin naming until reconciled.
@@ -6777,6 +6785,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Venture Computer-Science Edge](concepts/VentureComputerScienceEdge.md) — Maris's claim that venture portfolio construction, fund size, and investment assumptions can benefit from machine learning, simulation, and backtesting.
+- [Venture Fund Size Discipline](concepts/VentureFundSizeDiscipline.md) — Venture-fund math frame where smaller funds preserve plausible exit requirements, attention, and DPI outcomes while very large funds can reward asset gathering.
+- [Google AI Token Price Leverage](concepts/GoogleAITokenPriceLeverage.md) — Source-scoped thesis that Google could cut Gemini token prices to pressure OpenAI and Anthropic business models.
+- [AI Atari Stage](concepts/AIAtariStage.md) — Maris's analogy that today's AI interfaces resemble early command-line games: impressive but primitive in memory, consistency, persistence, and control surfaces.
+- [Public-Benefit Private Value Capture](concepts/PublicBenefitPrivateValueCapture.md) — Critique of companies claiming broad public benefit while keeping most financial upside private and later shifting valuation risk to public or retirement-account buyers.
 - [AI-Enabled Vulnerability Discovery](concepts/AIEnabledVulnerabilityDiscovery.md) — Dual-use AI security capability for rapidly finding and chaining software weaknesses, useful for defenders but risky if attackers gain similar access.
 - [Analytical SaaS Compression](concepts/AnalyticalSaaSCompression.md) — Nikesh Arora's thesis that AI and customer-owned data pressure SaaS products whose value is mainly data collection and analysis.
 - [Infrastructure Software Revaluation](concepts/InfrastructureSoftwareRevaluation.md) — Counter-thesis that databases, storage, and data infrastructure gain value as AI increases enterprise context, memory, and security data needs.

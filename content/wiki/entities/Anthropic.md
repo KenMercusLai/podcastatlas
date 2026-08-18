@@ -8,6 +8,8 @@ last_updated: 2026-08-18
 
 # Anthropic
 
+[[all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010]] adds Anthropic as a second target of [[GoogleAITokenPriceLeverage]]. [[BillMaris|Bill Maris]] argues that [[Google]] could use cheaper [[Gemini]] tokens and infrastructure scale to compress Anthropic's economics, making token price and task cost part of the same competitive branch as coding, enterprise deployment, and model access.
+
 [[all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435]] adds Anthropic through the enterprise and coding route in [[NikeshArora|Nikesh Arora]]'s [[ApplicationProfitPoolCapture]] argument. The hosts contrast Anthropic's fast ARR growth, enterprise focus, and coding strength with a broader race among model providers to move beyond model access into profitable workflow categories.
 
 [[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds Anthropic through [[Claude]] and developer workflow adoption. [[DavidSacks|David Sacks]] cites Claude Code and Opus 4.5 as examples of rapid progress in coding assistants and task-oriented personal AI, making Anthropic part of the episode's near-term [[AIEconomicDiffusion]] and [[AgenticWorkflow]] branch rather than only safety, defense, or open-weight competition.
@@ -113,6 +115,7 @@ Anthropic is discussed in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touzire
 [[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds Anthropic through [[Fable5|Fable 5]], [[ClaudeCode]], and the hosts' high-end subscription comparisons. The episode treats Anthropic less as a governance case and more as part of the practical stack for [[UnlimitedTokenWorkflow]]: stronger coding agents and more tokens make ambitious loops easier, but refusal behavior, usage limits, and review capacity still shape the real workflow.
 
 ## Connections
+- [[GoogleAITokenPriceLeverage]], [[Gemini]], [[Google]], [[OpenAI]], and [[AIInferenceCostStructure]] - Maris interview branch on token price and model-company business compression.
 - [[UnlimitedTokenWorkflow]], [[Fable5]], [[ClaudeCode]], [[AgentHarness]], and [[AIUsePacing]] — Vol. 171's Anthropic branch around high-token agent work, refusals, and review bottlenecks.
 - [[AIApplicationMarketTrough]], [[QuKai]], [[ClaudeCode]], [[OpenClaude]], and [[ModelProviderToolCompetition]] — 42章经 mid-2026 recap on Anthropic's coding-stage pressure on applications.
 - [[ClaudeForHealthcare]], [[HealthcareAIInfrastructure]], [[MedicalBillingAndCodingAutomation]], and [[HIPAAConstrainedMedicalAI]] - healthcare workflow branch added by E227.
