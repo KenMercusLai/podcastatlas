@@ -2,7 +2,7 @@
 title: "张仪 / Zhang Yi (Warring States strategist)"
 type: entity
 tags: [person, strategist, diplomat, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
+sources: [zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]
 last_updated: 2026-08-19
 ---
 
@@ -18,8 +18,11 @@ The episode previews their later strategic contrast: Su Qin works the [[HezongAl
 
 [[zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]] turns Zhang Yi from a placed court figure into an active Qin strategist. After [[QinState|秦国]] captures [[PuyangWarringStates|蒲阳]] from [[WeiState|魏国]], Zhang Yi advises [[YingSi|秦惠文王]] to return the city and send a Qin prince as hostage, then uses that apparent generosity to push [[LiangHuiWang|魏惠王]] into yielding [[Shangjun|上郡]]'s fifteen counties. The episode reads this as [[StrategicConcessionDiplomacy|欲擒故纵式让利外交]] and makes Zhang Yi's reward the Qin chief-minister post.
 
+[[zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]] keeps Zhang Yi in that active Qin role. The episode explains Qin's return of [[Jiaoyi|焦邑]] and [[QuwoWarringStates|曲沃]] to Wei as a continuation of Zhang Yi's flexible method: half pulling, half hitting, and using apparent generosity to improve Qin's diplomatic environment. It contrasts Zhang Yi with [[ShangYang|商鞅]]: Shang Yang is tied to Qin's force-centered state-building, while Zhang Yi survives by not being fully bound to one state or one personal feud.
+
 ## Connections
 - [[SuQin|苏秦]] - fellow student, rival, and figure whose hezong success makes Zhang Yi's later path meaningful.
 - [[Guiguzi|鬼谷子]] - teacher tradition named by the source.
 - [[QinState|秦国]], [[YingSi|秦惠文王]], [[HezongAlliance|合纵]], [[LianhengStrategy|连横]], and [[ZonghengjiaDiplomacy|纵横家外交]] - strategic field and Qin court path he is previewed to enter.
+- [[Jiaoyi|焦邑]], [[QuwoWarringStates|曲沃]], [[StrategicConcessionDiplomacy|欲擒故纵式让利外交]], and [[ShangYang|商鞅]] - Zhouji 35 returned-land move and strategist-style contrast.
 - [[ZizhiTongjian|《资治通鉴》]], [[ZhouXianwang|周显王]], and [[WarringStatesPeriod|战国时期]] - source and historical frame.

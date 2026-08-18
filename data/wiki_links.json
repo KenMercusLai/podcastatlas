@@ -14287,6 +14287,10 @@
     "title": "费 / Fei (Qizhulou)",
     "url": "/wiki/entities/feiqizhulou/"
   },
+  "FeiYi": {
+    "title": "肥义 / Fei Yi",
+    "url": "/wiki/entities/feiyi/"
+  },
   "FeimaPaiQiche": {
     "title": "《飞马牌汽车》",
     "url": "/wiki/entities/feimapaiqiche/"
@@ -27667,6 +27671,10 @@
     "title": "New Right Policy Network",
     "url": "/wiki/concepts/newrightpolicynetwork/"
   },
+  "NewRulerReformSignaling": {
+    "title": "New Ruler Reform Signaling / 新君改革铺垫信号",
+    "url": "/wiki/concepts/newrulerreformsignaling/"
+  },
   "NewSouthWales": {
     "title": "New South Wales",
     "url": "/wiki/entities/newsouthwales/"
@@ -31758,6 +31766,10 @@
   "QinFeizi": {
     "title": "非子 / Qin Feizi",
     "url": "/wiki/entities/qinfeizi/"
+  },
+  "QinFrontierBufferManagement": {
+    "title": "Qin Frontier Buffer Management / 秦国后方边患管理",
+    "url": "/wiki/concepts/qinfrontierbuffermanagement/"
   },
   "QinHuiGong": {
     "title": "秦惠公 / Duke Hui of Qin",
@@ -42907,6 +42919,10 @@
     "title": "殷墟",
     "url": "/wiki/entities/yinxu/"
   },
+  "YiquState": {
+    "title": "义渠 / Yiqu",
+    "url": "/wiki/entities/yiqustate/"
+  },
   "YishanWang": {
     "title": "Yishan Wang",
     "url": "/wiki/entities/yishanwang/"
@@ -43622,6 +43638,10 @@
   "ZhaoWuhou": {
     "title": "赵武侯 / Marquis Wu of Zhao",
     "url": "/wiki/entities/zhaowuhou/"
+  },
+  "ZhaoWulingwang": {
+    "title": "赵武灵王 / King Wuling of Zhao",
+    "url": "/wiki/entities/zhaowulingwang/"
   },
   "ZhaoXiangzi": {
     "title": "赵襄子 / Zhao Xiangzi",
@@ -47058,5 +47078,9 @@
   "zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq": {
     "title": "《资治通鉴·周纪》34丨秦国总理如何玩转六国",
     "url": "/wiki/sources/zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq/"
+  },
+  "zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk": {
+    "title": "《资治通鉴·周纪》35丨历史上第一骑兵教父是他？",
+    "url": "/wiki/sources/zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk/"
   }
 }

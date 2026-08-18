@@ -2,7 +2,7 @@
 title: "Qin Eastward Pressure / 秦国东进压力"
 type: concept
 tags: [warfare, diplomacy, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]
+sources: [zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]
 last_updated: 2026-08-19
 ---
 
@@ -30,6 +30,8 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 
 [[zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]] extends the pressure from battlefield shock into cumulative territorial extraction. Qin takes or receives [[Yinjin|殷晋]], [[Shaoliang|少梁]], [[HexiWarringStates|河西]], [[Jiaoyi|焦邑]], [[QuwoWarringStates|曲沃]], [[PuyangWarringStates|蒲阳]], and finally [[Shangjun|上郡]]'s fifteen counties, while also using [[GongsunYan|犀首公孙衍]] to disrupt the eastern coalition environment. The pattern now includes force, cession, and [[StrategicConcessionDiplomacy|欲擒故纵式让利外交]].
 
+[[zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]] complicates the eastward-pressure pattern by showing the rear frontier that Qin must manage while looking east. [[YiquState|义渠]] is strong enough that Qin cannot ignore it, but the episode still presents Hexi and Wei as Qin's central strategic concern. Qin's partial victory over Yiqu and later return of Jiaoyi and Quwo to Wei show pressure operating alongside [[QinFrontierBufferManagement|frontier buffer management]] and tactical restraint.
+
 ## Key Claims
 - Qin's eastern expansion pushes Wei, Han, and Zhao to respond across older rivalries.
 - A coalition does not prove strategic coherence; Wei and Han can cooperate and still lose.
@@ -42,6 +44,7 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 - The 335 BCE Yiyang notice shows Qin pressure also cutting into Han while Qi and Wei are rearranging the eastern title hierarchy.
 - The Zhouji 31 Wei attack shows Qin pressure as a timing threat to hezong: even a persuasive coalition plan can fail if Qin moves before the alliance exists.
 - The Zhouji 34 sequence shows Qin pressure compounding across years: repeated smaller gains and a calculated concession can reshape Wei's territory without one decisive conquest.
+- Zhouji 35 shows that eastward pressure depends on rear-frontier stability: Yiqu can be contained or partially absorbed, but not ignored.
 
 ## Connections
 - [[QinState|秦国]] and [[QinXianGong|秦献公]] - rising western power and ruler.
@@ -55,3 +58,4 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 - [[GongziAng|公子卬 / 公子昂]], [[FarmingWarStatecraft|耕战逻辑]], [[PeaceParleyEntrapment|和谈诱捕]], [[Anyi|安邑]], [[Daliang|大梁]], and [[Shangyu|商於]] - Zhouji 22-23 attack timing, capture, cession, and reward extension.
 - [[YiyangWarringStates|宜阳]], [[HanState|韩国]], [[MalingBattle|马陵之战]], and [[XuzhouMutualKingship|徐州相王]] - Zhouji 27 Qin-Han pressure inside post-Maling diplomacy.
 - [[SuQin|苏秦]], [[ZhangYiStrategist|张仪]], [[HezongAlliance|合纵]], and [[LianhengStrategy|连横]] - Zhouji 31 pressure that forces personnel and alliance strategy.
+- [[YiquState|义渠]], [[QinFrontierBufferManagement|秦国后方边患管理]], [[Jiaoyi|焦邑]], and [[QuwoWarringStates|曲沃]] - Zhouji 35 rear-frontier and returned-land extension.

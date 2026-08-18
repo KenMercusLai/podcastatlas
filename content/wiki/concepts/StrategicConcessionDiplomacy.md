@@ -2,7 +2,7 @@
 title: "Strategic Concession Diplomacy / 欲擒故纵式让利外交"
 type: concept
 tags: [diplomacy, strategy, persuasion, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]
+sources: [zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]
 last_updated: 2026-08-19
 ---
 
@@ -14,15 +14,19 @@ The point is not ordinary kindness. The concession works because Qin is already 
 
 This differs from [[LowPostureStatecraft|低姿态权宜]]. Low posture displays weakness or deference to reduce pressure; Zhang Yi's move displays generosity from a position of strength so the other side feels pressure to reciprocate. It is therefore closer to [[LianhengStrategy|连横]] in practice: Qin turns bilateral pressure and psychology into land without needing a broad multistate battle.
 
+[[zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]] extends the pattern from [[PuyangWarringStates|蒲阳]] to Qin's return of [[Jiaoyi|焦邑]] and [[QuwoWarringStates|曲沃]]. The episode frames the move as "半拉半打": Qin keeps Wei under pressure while giving enough back to make cooperation and recognition more likely before [[YingSi|秦惠文王]] claims kingly status.
+
 ## Key Claims
 - A concession can increase pressure when it is backed by superior force and framed as generosity.
 - The smaller returned asset matters because it creates a visible exchange situation; the larger territorial gain comes from the other party's reciprocal response.
 - Hostage signaling makes the concession look credible enough for the target ruler to treat it as a real favor.
 - The tactic is risky: if Wei had not reciprocated, Zhang Yi would have surrendered a captured place and exposed himself politically.
 - The episode uses the move to turn Zhang Yi from a previewed persuader into a Qin minister whose value is measured by territorial gain.
+- Zhouji 35 adds that returned-land diplomacy can serve status preparation, not only immediate territorial exchange.
 
 ## Connections
 - [[ZhangYiStrategist|张仪]], [[YingSi|秦惠文王]], and [[QinState|秦国]] - strategist, ruler, and state using the tactic.
 - [[WeiState|魏国]], [[LiangHuiWang|魏惠王]], [[PuyangWarringStates|蒲阳]], and [[Shangjun|上郡]] - target state, ruler, returned asset, and extracted gain.
+- [[Jiaoyi|焦邑]], [[QuwoWarringStates|曲沃]], and [[YingSi|秦惠文王]] - Zhouji 35 returned-land and title-preparation extension.
 - [[LianhengStrategy|连横]], [[ZonghengjiaDiplomacy|纵横家外交]], and [[QinEastwardPressure|秦国东进压力]] - broader diplomatic and military field.
 - [[LowPostureStatecraft|低姿态权宜]] and [[TacticalCredibilityCost|战术信用成本]] - adjacent concepts that clarify how this differs from weakness-display and trust-damaging deception.

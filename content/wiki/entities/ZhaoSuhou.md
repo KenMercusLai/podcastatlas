@@ -2,7 +2,7 @@
 title: "赵肃侯 / Marquis Su of Zhao"
 type: entity
 tags: [person, ruler, pre-qin, zhao-state, warring-states]
-sources: [zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
+sources: [zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3, zizhi-tongjian-zhouji-31-hezong-lianheng-weiou-qin-lncpgmxrojc0y1meg9a3ul-o9nih, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
 last_updated: 2026-08-19
 ---
 
@@ -20,6 +20,8 @@ The page is source-scoped. Zhao Suhou matters here because the episode places su
 
 [[zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]] reverses that moment quickly. After [[GongsunYan|犀首公孙衍]] helps pull [[QiState|齐国]] and [[WeiState|魏国]] into pressure against [[ZhaoState|赵国]], Zhao Suhou blames Su Qin for failing to hold the [[HezongAlliance|合纵]] arrangement together. Su Qin's departure toward [[YanState|燕国]] makes Zhao Suhou a witness to the alliance's fragility as well as its earlier recipient.
 
+[[zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]] closes Zhao Suhou's reign. In 326 BCE he dies, and the episode says his funeral draws large elite detachments from other major states except Han, suggesting that Zhao's position remains weighty even after hezong's fragility is exposed. His son [[ZhaoWulingwang|赵武灵王]] succeeds him.
+
 ## Connections
 - [[ZhaoState|赵国]] - polity he rules after the succession.
 - [[ZhaoChenghou|赵成侯]] - predecessor whose death opens the conflict.
@@ -29,3 +31,4 @@ The page is source-scoped. Zhao Suhou matters here because the episode places su
 - [[ZhaoFan|赵范]], [[Handan|邯郸]], and [[MilitaryActionTerminology]] - Zhouji 18 failed "袭" against his position.
 - [[SuQin|苏秦]], [[HezongAlliance|合纵]], [[QinState|秦国]], and [[WeiState|魏国]] - Zhouji 31 alliance mandate and Qin-pressure setting.
 - [[HanState|韩国]], [[QiState|齐国]], [[ChuState|楚国]], and [[DignityBasedPersuasion|尊严激将式说服]] - Zhouji 32 completed alliance tour and return-report branch.
+- [[ZhaoWulingwang|赵武灵王]], [[FeiYi|肥义]], [[ZhaoState|赵国]], and [[NewRulerReformSignaling|新君改革铺垫信号]] - Zhouji 35 death, funeral, and succession branch.

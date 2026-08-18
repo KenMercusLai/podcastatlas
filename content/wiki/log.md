@@ -8167,6 +8167,7 @@ Added source page for a 芮淇讲透资治通鉴 episode opening Zhouji 11 and Z
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-08-19] ingest | 《资治通鉴·周纪》29丨苏秦励志爽文：知识改变命运
 
 Added source page for a 芮淇讲透资治通鉴 episode on Zhang Chou saving Tian Ying after Chu's post-Xuzhou pressure, the 333 BCE succession cluster, the disputed chronology around Qi Wei Wang / Qi Xuan Wang and Su Qin's hezong success, and Su Qin's failure-driven self-study story as later inspirational reception. Created pages for Han Xuanhui Wang, Yan Wen Gong, Yan Yi Wang, Wei Cheng Hou, Wei Ping Hou, Su Dai, Su Li, Tian Ban, Zhufu Yan, Wu Zhicai, Hezong Alliance, Failure-Driven Self-Study, and Inspirational Narrative Commercialization; updated overview, index, Su Qin, Zhang Yi (Warring States strategist), Guiguzi, Zhang Chou, Tian Ying, Qi Wei Wang, Qi Xuan Wang, Han Zhaohou, Sima Qian, Shiji, Sima Guang, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Zhou Xian Wang, Han/Qi/Chu/Wei/Yan state pages, Chu Wei Wang, Zonghengjia Diplomacy, Chronicle Chronology Drift, and Qi Chronology Dispute. No direct contradiction found inside the wiki; the source extends the existing chronology-drift warning by rejecting a literal 333 BCE placement for Qi's succession and Su Qin's six-state hezong triumph.
@@ -8314,6 +8315,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-19] ingest | 《资治通鉴·周纪》35丨历史上第一骑兵教父是他？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Qin's partial victory over Yiqu, Yiqu's non-final submission, Qin's returned Jiaoyi/Quwo diplomacy toward Wei, Zhang Yi's contrast with Shang Yang, Zhao Suhou's death, and Zhao Wuling Wang's accession gestures through advisory and fault-correction posts plus honoring Fei Yi. Created pages for Yiqu, Zhao Wuling Wang, Fei Yi, Qin Frontier Buffer Management, and New Ruler Reform Signaling; updated overview, index, Qin, Wei, Zhao, Zhao Suhou, Zhou Xian Wang, Ying Si, Zhang Yi, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, Qin Eastward Pressure, Lianheng Strategy, Strategic Concession Diplomacy, and Warring States Military Transformation. No direct contradiction found; the episode resolves Zhouji 34's returned-land puzzle and keeps the cavalry title as foreshadow rather than a full cavalry-reform account.
 
 ## [2026-08-19] lint | Wiki health check
 

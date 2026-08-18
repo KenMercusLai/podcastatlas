@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》35丨历史上第一骑兵教父是他？](sources/zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk.md) — 芮淇讲透资治通鉴 episode on Qin's partial victory over Yiqu, Zhang Yi's returned-land diplomacy with Wei, and Zhao Wuling Wang's accession gestures before later reform.
 - [《资治通鉴·周纪》34丨秦国总理如何玩转六国](sources/zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq.md) — 芮淇讲透资治通鉴 episode on Qin disrupting hezong, repeatedly extracting Wei territory, and Zhang Yi's Puyang-for-Shangjun maneuver that turns apparent generosity into a larger Qin gain.
 - [《资治通鉴·周纪》33丨历史第一爽文男主角苏秦](sources/zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0.md) — 芮淇讲透资治通鉴 episode on Su Qin's Luoyang homecoming, the 前倨后恭 status reversal, old-help repayment, idiom reception, and the Shiji/Zizhi Tongjian tension around Qin staying inside Hangu Pass for fifteen years.
 - [《资治通鉴·周纪》32丨“史上首位联合国秘书长”苏秦](sources/zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3.md) — 芮淇讲透资治通鉴 episode completing Su Qin's hezong circuit through Han, Wei, Qi, and Chu, with dignity-based persuasion, Wei military transformation, Linzi urban prosperity, and the Shiji homecoming sequel.
@@ -1039,6 +1040,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [义渠 / Yiqu](entities/YiquState.md) — Western/rear frontier polity whose partial submission to Qin is not yet final destruction.
+- [赵武灵王 / King Wuling of Zhao](entities/ZhaoWulingwang.md) — Zhao ruler whose accession gestures foreshadow later military reform while this source stops at the political prelude.
+- [肥义 / Fei Yi](entities/FeiYi.md) — Senior Zhao minister honored by Zhao Wuling Wang as part of the new-ruler signaling sequence.
 - [犀首公孙衍 / Gongsun Yan](entities/GongsunYan.md) — Wei-born strategist/title-holder whom Qin uses to disrupt the Qi-Wei-Zhao side of hezong, later previewed as Zhang Yi's rival.
 - [楚怀王 / King Huai of Chu](entities/ChuHuaiwang.md) — Chu Wei Wang's son and successor in the 329 BCE notice, previewing the later dramatic Chu branch.
 - [宋君偃 / Lord Yan of Song](entities/SongJunYan.md) — Song Ticheng's younger brother who overthrows him and makes Song a more active small-state problem.
@@ -7045,6 +7049,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Qin Frontier Buffer Management / 秦国后方边患管理](concepts/QinFrontierBufferManagement.md) — Qin pattern of managing Yiqu as a rear-frontier constraint while maintaining eastward pressure.
+- [New Ruler Reform Signaling / 新君改革铺垫信号](concepts/NewRulerReformSignaling.md) — Zhao Wuling Wang's early adviser, fault-correction, and old-minister gestures read as preparation for later reform.
 - [Strategic Concession Diplomacy / 欲擒故纵式让利外交](concepts/StrategicConcessionDiplomacy.md) — Zhang Yi's pattern of returning a smaller captured asset and signaling goodwill to extract a larger concession from Wei.
 - [前倨后恭 / Qianju Hougong Reversal](concepts/QianjuHougongReversal.md) — Status-reversal pattern from Su Qin's homecoming, where rank and money transform family behavior from neglect into fearful deference.
 - [Dignity-Based Persuasion / 尊严激将式说服](concepts/DignityBasedPersuasion.md) — Su Qin's pattern of turning anti-Qin strategy into a face-and-dignity choice for rulers.
